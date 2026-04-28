@@ -15,15 +15,15 @@ Sandwich Attack refers to a form of MEV exploitation where a malicious actor mon
 
 Step-by-step:
 
-**1. Observe**: Attacker sees Alice's pending swap in mempool.
+- **1. Observe**: Attacker sees Alice's pending swap in mempool.
 
-**2. Front-Run**: Attacker submits buy transaction before Alice's swap, buying the same asset, driving the price up.
+- **2. Front-Run**: Attacker submits buy transaction before Alice's swap, buying the same asset, driving the price up.
 
-**3. Victim Executes**: Alice's swap executes at a worse price due to the attacker's front-run.
+- **3. Victim Executes**: Alice's swap executes at a worse price due to the attacker's front-run.
 
-**4. Profit**: Attacker's second transaction executes after, selling at a higher price, capturing the difference.
+- **4. Profit**: Attacker's second transaction executes after, selling at a higher price, capturing the difference.
 
-**5. Profit Calculation**: Attacker profits from price movement caused by the sandwich.
+- **5. Profit Calculation**: Attacker profits from price movement caused by the sandwich.
 
 Sandwich attacks are MEV extraction through transaction ordering.
 
@@ -48,13 +48,13 @@ Attacker profits at Alice's expense.
 
 Real impact:
 
-**Daily Cost**: Significant amounts lost to sandwich attacks and MEV.
+- **Daily Cost**: Significant amounts lost to sandwich attacks and MEV.
 
-**User Loss**: Average user loses a small amount per transaction.
+- **User Loss**: Average user loses a small amount per transaction.
 
-**Whale Impact**: Large trades lose more due to higher slippage.
+- **Whale Impact**: Large trades lose more due to higher slippage.
 
-**Protocol Impact**: Some protocols lose revenue to sandwich attacks.
+- **Protocol Impact**: Some protocols lose revenue to sandwich attacks.
 
 Sandwich attacks are an economic problem in DeFi.
 
@@ -62,13 +62,13 @@ Sandwich attacks are an economic problem in DeFi.
 
 Where attacks occur:
 
-**Public Mempools**: Bitcoin and Ethereum expose pending transactions.
+- **Public Mempools**: Bitcoin and Ethereum expose pending transactions.
 
-**DEXs**: Any DEX with a public mempool is vulnerable.
+- **DEXs**: Any DEX with a public mempool is vulnerable.
 
-**Auctions**: Batch auctions are vulnerable if transactions are visible before batching.
+- **Auctions**: Batch auctions are vulnerable if transactions are visible before batching.
 
-**Bridges**: Some bridge transactions are vulnerable.
+- **Bridges**: Some bridge transactions are vulnerable.
 
 Most DeFi transactions are vulnerable to sandwich attacks.
 
@@ -76,17 +76,17 @@ Most DeFi transactions are vulnerable to sandwich attacks.
 
 Mitigation strategies:
 
-**Private Mempools**: Hide pending transactions from the public.
+- **Private Mempools**: Hide pending transactions from the public.
 
-**MEV-Burn**: Require attackers to burn MEV extraction profits.
+- **MEV-Burn**: Require attackers to burn MEV extraction profits.
 
-**Intent-Based**: Users specify intents, preventing sandwich ordering.
+- **Intent-Based**: Users specify intents, preventing sandwich ordering.
 
-**Encrypted Mempools**: Encrypt transactions until after ordering.
+- **Encrypted Mempools**: Encrypt transactions until after ordering.
 
-**Threshold Encryption**: Encrypt until a threshold is reached, allowing deterministic ordering.
+- **Threshold Encryption**: Encrypt until a threshold is reached, allowing deterministic ordering.
 
-**Slippage Protection**: Fail transactions if the price is worse than a set threshold.
+- **Slippage Protection**: Fail transactions if the price is worse than a set threshold.
 
 Different defenses have different tradeoffs.
 
@@ -108,29 +108,29 @@ MEV creates roles:
 
 Protecting against sandwich attacks:
 
-**Slippage Limits**: Set strict slippage limits to prevent overpayment.
+- **Slippage Limits**: Set strict slippage limits to prevent overpayment.
 
-**Private Transactions**: Use private relay to prevent public mempool exposure.
+- **Private Transactions**: Use private relay to prevent public mempool exposure.
 
-**Batch Swaps**: Split large swaps into smaller chunks to reduce MEV.
+- **Batch Swaps**: Split large swaps into smaller chunks to reduce MEV.
 
-**Off-Peak Trading**: Trade during lower MEV periods when fewer searchers are active.
+- **Off-Peak Trading**: Trade during lower MEV periods when fewer searchers are active.
 
-**Intent Markets**: Use intent-based systems when available.
+- **Intent Markets**: Use intent-based systems when available.
 
 ## The Future of Sandwich Attacks
 
 Evolution:
 
-**Better Defenses**: More protocols implementing MEV-resistant mechanisms.
+- **Better Defenses**: More protocols implementing MEV-resistant mechanisms.
 
-**Encrypted Execution**: Encrypted execution engines preventing sandwich attacks.
+- **Encrypted Execution**: Encrypted execution engines preventing sandwich attacks.
 
-**Intent-Based Dominance**: Shift toward intent-based systems reducing ordering attacks.
+- **Intent-Based Dominance**: Shift toward intent-based systems reducing ordering attacks.
 
-**Encrypted Mempools**: More chains moving toward encrypted mempools.
+- **Encrypted Mempools**: More chains moving toward encrypted mempools.
 
-**MEV Redistribution**: Fair MEV distribution mechanisms benefiting users.
+- **MEV Redistribution**: Fair MEV distribution mechanisms benefiting users.
 
 ## Prevent Sandwich Exploitation
 

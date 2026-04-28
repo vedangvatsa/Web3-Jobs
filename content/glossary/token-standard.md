@@ -15,17 +15,17 @@ Token Standard refers to a specification that defines how tokens are created, tr
 
 Most common standard:
 
-**Fungible**: All tokens identical. 1 USDC = 1 USDC.
+- **Fungible**: All tokens identical. 1 USDC = 1 USDC.
 
-**Standard Functions**:
+- **Standard Functions**:
 - `transfer`: Send tokens to address
 - `approve`: Allow address to spend tokens
 - `transferFrom`: Spend approved tokens
 
-**Optional Functions**:
+- **Optional Functions**:
 - `name`, `symbol`, `decimals`: Metadata
 
-**Events**:
+- **Events**:
 - `Transfer`: Emitted when tokens transferred
 - `Approval`: Emitted when allowance set
 
@@ -35,16 +35,16 @@ ERC-20 enables interoperable fungible tokens.
 
 NFT standard:
 
-**Non-Fungible**: Each token unique. Token ID 1 != Token ID 2.
+- **Non-Fungible**: Each token unique. Token ID 1 != Token ID 2.
 
-**Standard Functions**:
+- **Standard Functions**:
 - `transferFrom`: Transfer specific NFT
 - `approve`: Approve address to transfer NFT
 - `ownerOf`: Get owner of token
 
-**Metadata**: Can point to off-chain metadata (JSON).
+- **Metadata**: Can point to off-chain metadata (JSON).
 
-**Usage**: Digital art, collectibles, domain names.
+- **Usage**: Digital art, collectibles, domain names.
 
 ERC-721 enables the NFT ecosystem.
 
@@ -52,13 +52,13 @@ ERC-721 enables the NFT ecosystem.
 
 Multi-token standard:
 
-**Hybrid**: Single contract manages fungible and non-fungible tokens.
+- **Hybrid**: Single contract manages fungible and non-fungible tokens.
 
-**Batch Operations**: Transfer multiple tokens in one transaction.
+- **Batch Operations**: Transfer multiple tokens in one transaction.
 
-**Flexibility**: Create fungible tokens, NFTs, and semi-fungible tokens in one contract.
+- **Flexibility**: Create fungible tokens, NFTs, and semi-fungible tokens in one contract.
 
-**Gaming**: Well-suited for gaming applications.
+- **Gaming**: Well-suited for gaming applications.
 
 ERC-1155 enables flexible token designs.
 
@@ -66,13 +66,13 @@ ERC-1155 enables flexible token designs.
 
 Special case:
 
-**ERC-20 Base**: Most stablecoins are ERC-20 (USDC, USDT, DAI).
+- **ERC-20 Base**: Most stablecoins are ERC-20 (USDC, USDT, DAI).
 
-**Special Features**: Some add features like burnable (burn tokens), mintable (mint tokens), capped (max supply).
+- **Special Features**: Some add features like burnable (burn tokens), mintable (mint tokens), capped (max supply).
 
-**Peg Stability**: Mechanisms to maintain a stable peg (collateralization, algorithms).
+- **Peg Stability**: Mechanisms to maintain a stable peg (collateralization, algorithms).
 
-**Trust Assumptions**: Centralized stablecoins require trusting the issuer.
+- **Trust Assumptions**: Centralized stablecoins require trusting the issuer.
 
 Stablecoins use ERC-20 with extensions.
 
@@ -80,13 +80,13 @@ Stablecoins use ERC-20 with extensions.
 
 Emerging standards:
 
-**Wrapped Tokens**: Non-standard representation on different chains (e.g., WBTC on Ethereum = Bitcoin wrapped).
+- **Wrapped Tokens**: Non-standard representation on different chains (e.g., WBTC on Ethereum = Bitcoin wrapped).
 
-**Cross-Chain Bridges**: Different bridges have different standards.
+- **Cross-Chain Bridges**: Different bridges have different standards.
 
-**Intent for Standardization**: Need for unified cross-chain token standards.
+- **Intent for Standardization**: Need for unified cross-chain token standards.
 
-**Challenges**: Different chains have different capabilities. Standardization is difficult.
+- **Challenges**: Different chains have different capabilities. Standardization is difficult.
 
 Cross-chain standards are still emerging.
 
@@ -94,13 +94,13 @@ Cross-chain standards are still emerging.
 
 New proposals:
 
-**ERC-2612**: Permit extension enabling approvals without a separate transaction.
+- **ERC-2612**: Permit extension enabling approvals without a separate transaction.
 
-**ERC-4626**: Vault standard. Standardized yield-bearing token interface.
+- **ERC-4626**: Vault standard. Standardized yield-bearing token interface.
 
-**ERC-721R**: Refundable NFTs (can return for a refund).
+- **ERC-721R**: Refundable NFTs (can return for a refund).
 
-**ERC-5095**: Principal tokens and yield tokens.
+- **ERC-5095**: Principal tokens and yield tokens.
 
 Token standards are constantly evolving.
 
@@ -120,27 +120,27 @@ Token standards create roles:
 
 Using token standards:
 
-**Follow Standards**: Use established standards when possible.
+- **Follow Standards**: Use established standards when possible.
 
-**Extensions**: Only add extensions when necessary.
+- **Extensions**: Only add extensions when necessary.
 
-**Documentation**: Document non-standard behavior.
+- **Documentation**: Document non-standard behavior.
 
-**Testing**: Thoroughly test standard compliance.
+- **Testing**: Thoroughly test standard compliance.
 
-**Audits**: Audit non-standard behavior carefully.
+- **Audits**: Audit non-standard behavior carefully.
 
 ## The Future of Token Standards
 
 Evolution:
 
-**Unified Standards**: Cross-chain token standard.
+- **Unified Standards**: Cross-chain token standard.
 
-**New Use Cases**: Standards for new token types.
+- **New Use Cases**: Standards for new token types.
 
-**Efficiency**: More gas-efficient standards.
+- **Efficiency**: More gas-efficient standards.
 
-**Privacy**: Privacy-preserving token standards.
+- **Privacy**: Privacy-preserving token standards.
 
 ## Enable Interoperable Tokens
 

@@ -15,15 +15,15 @@ Proposer-Builder Separation is a blockchain architecture design that divides blo
 
 How it works:
 
-**Builders**: Collect transactions, construct blocks, optimize for value.
+- **Builders**: Collect transactions, construct blocks, optimize for value.
 
-**Relays**: Relays receive blocks from builders, filter invalid blocks.
+- **Relays**: Relays receive blocks from builders, filter invalid blocks.
 
-**Proposers**: Validators choose the best block from relay (highest bid).
+- **Proposers**: Validators choose the best block from relay (highest bid).
 
-**Bids**: Builders bid to proposers for block inclusion rights.
+- **Bids**: Builders bid to proposers for block inclusion rights.
 
-**Separation**: Proposers don’t build; builders don’t propose.
+- **Separation**: Proposers don’t build; builders don’t propose.
 
 PBS creates specialized roles in block production.
 
@@ -31,13 +31,13 @@ PBS creates specialized roles in block production.
 
 Benefits:
 
-**MEV Mitigation**: Validators can’t directly extract MEV by reordering.
+- **MEV Mitigation**: Validators can’t directly extract MEV by reordering.
 
-**Fairness**: Users get more predictable execution.
+- **Fairness**: Users get more predictable execution.
 
-**Specialization**: Builders focus on optimal block construction.
+- **Specialization**: Builders focus on optimal block construction.
 
-**Competition**: Competition among builders reduces monopoly power.
+- **Competition**: Competition among builders reduces monopoly power.
 
 PBS reduces centralization in MEV capture.
 
@@ -45,13 +45,13 @@ PBS reduces centralization in MEV capture.
 
 Current implementation:
 
-**Out-of-Protocol**: MEV-Boost is a middleware for Ethereum.
+- **Out-of-Protocol**: MEV-Boost is a middleware for Ethereum.
 
-**Builders and Relays**: Builders submit blocks to relays, validators choose.
+- **Builders and Relays**: Builders submit blocks to relays, validators choose.
 
-**Revenue**: Validators earn higher rewards via builder bids.
+- **Revenue**: Validators earn higher rewards via builder bids.
 
-**Centralization Risk**: Relays can become centralized choke points.
+- **Centralization Risk**: Relays can become centralized choke points.
 
 MEV-Boost is an early PBS implementation.
 
@@ -59,13 +59,13 @@ MEV-Boost is an early PBS implementation.
 
 Challenges:
 
-**Relay Centralization**: Relays can censor or collude.
+- **Relay Centralization**: Relays can censor or collude.
 
-**Builder Censorship**: Builders can censor transactions.
+- **Builder Censorship**: Builders can censor transactions.
 
-**Latency**: Additional steps can increase latency.
+- **Latency**: Additional steps can increase latency.
 
-**Complexity**: More moving parts increase attack surface.
+- **Complexity**: More moving parts increase attack surface.
 
 PBS adds complexity and new trust assumptions.
 
@@ -73,13 +73,13 @@ PBS adds complexity and new trust assumptions.
 
 Future design:
 
-**Enshrined PBS**: PBS built into protocol (not external).
+- **Enshrined PBS**: PBS built into protocol (not external).
 
-**Censorship Resistance**: Protocol enforces fairness and availability.
+- **Censorship Resistance**: Protocol enforces fairness and availability.
 
-**Security Guarantees**: Stronger guarantees than off-chain relays.
+- **Security Guarantees**: Stronger guarantees than off-chain relays.
 
-**Economic Alignment**: Better alignment between proposers and builders.
+- **Economic Alignment**: Better alignment between proposers and builders.
 
 In-protocol PBS is a long-term goal.
 
@@ -99,21 +99,21 @@ PBS ecosystem roles:
 
 Working with PBS:
 
-**Monitor Relays**: Track relay reliability and censorship.
+- **Monitor Relays**: Track relay reliability and censorship.
 
-**Diversify Builders**: Avoid reliance on a single builder.
+- **Diversify Builders**: Avoid reliance on a single builder.
 
-**Audit MEV Tools**: Ensure MEV infrastructure is secure.
+- **Audit MEV Tools**: Ensure MEV infrastructure is secure.
 
 ## The Future of PBS
 
 Trends:
 
-**Enshrined PBS**: Protocol-native PBS deployment.
+- **Enshrined PBS**: Protocol-native PBS deployment.
 
-**Decentralized Relays**: More decentralized relay networks.
+- **Decentralized Relays**: More decentralized relay networks.
 
-**Better Fairness**: Reduced censorship and MEV.
+- **Better Fairness**: Reduced censorship and MEV.
 
 ## Separate Building From Proposing
 

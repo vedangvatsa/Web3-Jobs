@@ -15,17 +15,17 @@ Threshold encryption is a cryptographic scheme where a message is encrypted such
 
 How it works:
 
-**Key Sharing**: Divide decryption key into N shares using secret sharing (Shamir's scheme).
+- **Key Sharing**: Divide decryption key into N shares using secret sharing (Shamir's scheme).
 
-**Distribution**: Distribute shares to N parties.
+- **Distribution**: Distribute shares to N parties.
 
-**Threshold**: Set threshold T: need T-of-N shares to decrypt.
+- **Threshold**: Set threshold T: need T-of-N shares to decrypt.
 
-**Encryption**: Encrypt message using master key.
+- **Encryption**: Encrypt message using master key.
 
-**Decryption**: T parties combine shares, reconstruct key, decrypt message.
+- **Decryption**: T parties combine shares, reconstruct key, decrypt message.
 
-**Security**: Without T shares, can't decrypt. Even T-1 can't decrypt.
+- **Security**: Without T shares, can't decrypt. Even T-1 can't decrypt.
 
 Threshold encryption creates distributed control.
 
@@ -33,15 +33,15 @@ Threshold encryption creates distributed control.
 
 MEV prevention:
 
-**Transaction Encryption**: Users encrypt transactions.
+- **Transaction Encryption**: Users encrypt transactions.
 
-**Inclusion Threshold**: Need validator set threshold to decrypt transactions after block included.
+- **Inclusion Threshold**: Need validator set threshold to decrypt transactions after block included.
 
-**Ordering Protection**: Transactions encrypted during ordering phase. Prevents front-running.
+- **Ordering Protection**: Transactions encrypted during ordering phase. Prevents front-running.
 
-**Deterministic Decryption**: Transactions decrypted in determined order. Fair ordering.
+- **Deterministic Decryption**: Transactions decrypted in determined order. Fair ordering.
 
-**MEV Elimination**: Since transactions are encrypted, no MEV extraction is possible before finality.
+- **MEV Elimination**: Since transactions are encrypted, no MEV extraction is possible before finality.
 
 Encrypted mempools enable MEV-free execution.
 
@@ -49,15 +49,15 @@ Encrypted mempools enable MEV-free execution.
 
 Real implementation:
 
-**Private Transactions**: Users submit encrypted transactions.
+- **Private Transactions**: Users submit encrypted transactions.
 
-**Threshold Decryption**: Need validator threshold to decrypt.
+- **Threshold Decryption**: Need validator threshold to decrypt.
 
-**MEV-Free**: No MEV extraction possible before decryption.
+- **MEV-Free**: No MEV extraction possible before decryption.
 
-**Research Stage**: Still in research implementation, not production.
+- **Research Stage**: Still in research implementation, not production.
 
-**Builder Relationship**: Must coordinate with block builders.
+- **Builder Relationship**: Must coordinate with block builders.
 
 Flashbots is advancing threshold encryption research.
 
@@ -65,15 +65,15 @@ Flashbots is advancing threshold encryption research.
 
 Key technology:
 
-**Shamir Secret Sharing**: Divide secret into N shares, need T to reconstruct.
+- **Shamir Secret Sharing**: Divide secret into N shares, need T to reconstruct.
 
-**Polynomial Sharing**: Use polynomial P(x) where P(0) = secret. Each party gets point P(i).
+- **Polynomial Sharing**: Use polynomial P(x) where P(0) = secret. Each party gets point P(i).
 
-**Lagrange Interpolation**: Reconstruct polynomial from T points using Lagrange interpolation.
+- **Lagrange Interpolation**: Reconstruct polynomial from T points using Lagrange interpolation.
 
-**Threshold Property**: T-1 points tell nothing about secret. T points determine secret.
+- **Threshold Property**: T-1 points tell nothing about secret. T points determine secret.
 
-**Distributed Nature**: No single party knows secret. Distributed knowledge.
+- **Distributed Nature**: No single party knows secret. Distributed knowledge.
 
 Secret sharing enables threshold schemes.
 
@@ -81,15 +81,15 @@ Secret sharing enables threshold schemes.
 
 Obstacles:
 
-**Computational Overhead**: Decryption requires communication and computation.
+- **Computational Overhead**: Decryption requires communication and computation.
 
-**Latency**: Distributed decryption adds latency compared to standard encryption.
+- **Latency**: Distributed decryption adds latency compared to standard encryption.
 
-**Availability**: Need T parties online and honest. One malicious party can block decryption.
+- **Availability**: Need T parties online and honest. One malicious party can block decryption.
 
-**Key Management**: Distributing and managing key shares is complex.
+- **Key Management**: Distributing and managing key shares is complex.
 
-**Reconstruction Time**: Reconstructing key takes time and rounds of communication.
+- **Reconstruction Time**: Reconstructing key takes time and rounds of communication.
 
 Threshold encryption adds complexity and latency.
 
@@ -111,25 +111,25 @@ Threshold encryption creates roles:
 
 Using threshold encryption:
 
-**Threshold Selection**: Balance availability (lower threshold) vs security (higher threshold).
+- **Threshold Selection**: Balance availability (lower threshold) vs security (higher threshold).
 
-**Party Diversity**: Ensure threshold parties are independent and diverse.
+- **Party Diversity**: Ensure threshold parties are independent and diverse.
 
-**Secure Dealing**: Use secure key dealing ceremony.
+- **Secure Dealing**: Use secure key dealing ceremony.
 
-**Monitoring**: Monitor that threshold parties remain available.
+- **Monitoring**: Monitor that threshold parties remain available.
 
 ## The Future of Threshold Encryption
 
 Evolution:
 
-**More Efficient**: Reducing computational and latency costs.
+- **More Efficient**: Reducing computational and latency costs.
 
-**Integration**: Integrating into consensus mechanisms directly.
+- **Integration**: Integrating into consensus mechanisms directly.
 
-**Cross-Chain**: Threshold encryption for cross-chain bridges.
+- **Cross-Chain**: Threshold encryption for cross-chain bridges.
 
-**Simpler Schemes**: Making threshold encryption easier to implement and use.
+- **Simpler Schemes**: Making threshold encryption easier to implement and use.
 
 ## Distribute Control Cryptographically
 

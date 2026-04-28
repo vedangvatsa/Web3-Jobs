@@ -15,17 +15,17 @@ Sidechain refers to an independent blockchain that runs parallel to a main chain
 
 The mechanism:
 
-**Independent Blockchain**: Sidechain is a separate blockchain with its own validators, consensus, and transaction processing.
+- **Independent Blockchain**: Sidechain is a separate blockchain with its own validators, consensus, and transaction processing.
 
-**Bridge Connection**: A bridge connects the sidechain to the main chain, often Ethereum.
+- **Bridge Connection**: A bridge connects the sidechain to the main chain, often Ethereum.
 
-**Asset Wrapping**: Users deposit ETH on Ethereum, which is locked in a bridge contract. They receive wrapped ETH on the sidechain.
+- **Asset Wrapping**: Users deposit ETH on Ethereum, which is locked in a bridge contract. They receive wrapped ETH on the sidechain.
 
-**Independent Validation**: The sidechain has its own validators validating transactions without involvement from Ethereum validators.
+- **Independent Validation**: The sidechain has its own validators validating transactions without involvement from Ethereum validators.
 
-**Bridge Trust**: The bridge depends on sidechain validators not stealing locked assets. The sidechain validator set determines bridge security.
+- **Bridge Trust**: The bridge depends on sidechain validators not stealing locked assets. The sidechain validator set determines bridge security.
 
-**Unwrapping**: Users burn wrapped assets on the sidechain to claim original assets from the bridge contract on the main chain.
+- **Unwrapping**: Users burn wrapped assets on the sidechain to claim original assets from the bridge contract on the main chain.
 
 Sidechains offer independent operation but introduce separate security assumptions.
 
@@ -37,11 +37,11 @@ Major sidechains:
 
 **Ronin** (Axie Infinity's sidechain): Gaming-specific sidechain.
 
-**Harmony ONE**: Independent sidechain with its own token.
+- **Harmony ONE**: Independent sidechain with its own token.
 
 **Arbitrum Nova** (ArbITRUM Orbit): Sidechain using Arbitrum technology but with its own validator set.
 
-**Boba Network**: Optimism-based sidechain/L2 hybrid.
+- **Boba Network**: Optimism-based sidechain/L2 hybrid.
 
 Sidechains are popular for gaming and specific applications but have seen less adoption than rollups recently.
 
@@ -63,15 +63,15 @@ Sidechains trade security for independence. Layer 2s inherit main chain security
 
 Sidechain-specific risks:
 
-**Validator Risk**: If the sidechain validator set is compromised, the sidechain is compromised. There is no Layer 1 protection.
+- **Validator Risk**: If the sidechain validator set is compromised, the sidechain is compromised. There is no Layer 1 protection.
 
-**Bridge Risk**: If the bridge is hacked, locked assets are at risk.
+- **Bridge Risk**: If the bridge is hacked, locked assets are at risk.
 
-**Liquidity Risk**: The sidechain might lack liquidity, making it hard to unwrap assets or trade.
+- **Liquidity Risk**: The sidechain might lack liquidity, making it hard to unwrap assets or trade.
 
-**Validator Centralization**: Small validator sets are prone to collusion.
+- **Validator Centralization**: Small validator sets are prone to collusion.
 
-**Independent Failure**: The sidechain can fail independently of the main chain.
+- **Independent Failure**: The sidechain can fail independently of the main chain.
 
 Sidechains are riskier than Layer 2s because they introduce independent security assumptions.
 
@@ -79,11 +79,11 @@ Sidechains are riskier than Layer 2s because they introduce independent security
 
 Historical evolution:
 
-**Early (2020-2021)**: Polygon PoS (sidechain) was a dominant scaling solution for Ethereum.
+- **Early (2020-2021)**: Polygon PoS (sidechain) was a dominant scaling solution for Ethereum.
 
-**Evolution (2021-2022)**: Rollups (Arbitrum, Optimism) gained adoption as Layer 2s proved superior.
+- **Evolution (2021-2022)**: Rollups (Arbitrum, Optimism) gained adoption as Layer 2s proved superior.
 
-**Current (2023+)**: Rollups dominate. Sidechains see less adoption except in specific applications like gaming.
+- **Current (2023+)**: Rollups dominate. Sidechains see less adoption except in specific applications like gaming.
 
 Rollups have a better security model as they inherit L1 security, gradually replacing sidechains.
 
@@ -91,15 +91,15 @@ Rollups have a better security model as they inherit L1 security, gradually repl
 
 Where sidechains shine:
 
-**Gaming**: Gaming-specific sidechains (Ronin) can optimize for game requirements without Layer 1 overhead.
+- **Gaming**: Gaming-specific sidechains (Ronin) can optimize for game requirements without Layer 1 overhead.
 
-**Specific Applications**: Sidechains for specific ecosystems (DeFi, gaming, NFTs) can be optimized for those needs.
+- **Specific Applications**: Sidechains for specific ecosystems (DeFi, gaming, NFTs) can be optimized for those needs.
 
-**Independent Experiments**: Testing new protocols on sidechains before deploying on the main chain.
+- **Independent Experiments**: Testing new protocols on sidechains before deploying on the main chain.
 
-**Legacy Chains**: Some existing chains function as sidechains by connecting via a bridge.
+- **Legacy Chains**: Some existing chains function as sidechains by connecting via a bridge.
 
-**Enterprise Chains**: Private sidechains for specific organizations.
+- **Enterprise Chains**: Private sidechains for specific organizations.
 
 While rollups are more secure, sidechains remain useful for specialized purposes.
 
@@ -107,15 +107,15 @@ While rollups are more secure, sidechains remain useful for specialized purposes
 
 Sidechain economics:
 
-**Validator Set Cost**: Running a sidechain requires validator infrastructure. Costs must be offset by transaction fees or incentives.
+- **Validator Set Cost**: Running a sidechain requires validator infrastructure. Costs must be offset by transaction fees or incentives.
 
-**Token Economics**: A sidechain often has its own token. Token value depends on sidechain success and network effects.
+- **Token Economics**: A sidechain often has its own token. Token value depends on sidechain success and network effects.
 
-**Fee Dynamics**: A sidechain can set its own fee structure independent of the main chain.
+- **Fee Dynamics**: A sidechain can set its own fee structure independent of the main chain.
 
-**Incentives**: Sidechains often need incentives (token rewards) to attract validators and users.
+- **Incentives**: Sidechains often need incentives (token rewards) to attract validators and users.
 
-**Sustainability**: Sidechain sustainability depends on fee revenue covering validator costs.
+- **Sustainability**: Sidechain sustainability depends on fee revenue covering validator costs.
 
 Sidechains must achieve sufficient transaction volume to sustain their validator set.
 
@@ -137,27 +137,27 @@ Sidechains create roles:
 
 Using sidechains:
 
-**Understand Validator Set**: Know who validates the sidechain and assess trustworthiness.
+- **Understand Validator Set**: Know who validates the sidechain and assess trustworthiness.
 
-**Monitor Bridge**: Understand bridge security before moving significant assets.
+- **Monitor Bridge**: Understand bridge security before moving significant assets.
 
-**Maintain Exits**: Ensure you can always exit the sidechain to the main chain.
+- **Maintain Exits**: Ensure you can always exit the sidechain to the main chain.
 
-**Diversify**: Don't concentrate assets in a single sidechain.
+- **Diversify**: Don't concentrate assets in a single sidechain.
 
-**Check Insurance**: Some sidechains offer insurance. Consider it.
+- **Check Insurance**: Some sidechains offer insurance. Consider it.
 
 ## The Future of Sidechains
 
 Sidechain evolution:
 
-**Hybrid Models**: Sidechains might adopt some Layer 2 security properties.
+- **Hybrid Models**: Sidechains might adopt some Layer 2 security properties.
 
-**Interoperability**: Better interoperability between sidechains might increase utility.
+- **Interoperability**: Better interoperability between sidechains might increase utility.
 
-**Specialization**: Sidechains are likely to specialize further (gaming sidechains, NFT sidechains, etc.).
+- **Specialization**: Sidechains are likely to specialize further (gaming sidechains, NFT sidechains, etc.).
 
-**Consolidation**: Less mature sidechains might be abandoned as better alternatives emerge.
+- **Consolidation**: Less mature sidechains might be abandoned as better alternatives emerge.
 
 ## Scale with Independence
 

@@ -15,15 +15,15 @@ Privacy Pool refers to a cryptographic system that allows users to deposit funds
 
 Mechanics:
 
-**Deposit**: User deposits fixed amount into pool.
+- **Deposit**: User deposits fixed amount into pool.
 
-**Commitment**: Pool stores commitment hash of deposit.
+- **Commitment**: Pool stores commitment hash of deposit.
 
-**Withdrawal**: User creates zero-knowledge proof proving membership.
+- **Withdrawal**: User creates zero-knowledge proof proving membership.
 
-**Relayer**: Optional relayer submits withdrawal to avoid linking IP.
+- **Relayer**: Optional relayer submits withdrawal to avoid linking IP.
 
-**Anonymity Set**: Larger pool equals stronger anonymity.
+- **Anonymity Set**: Larger pool equals stronger anonymity.
 
 Privacy pools rely on ZK proofs and anonymity sets.
 
@@ -31,13 +31,13 @@ Privacy pools rely on ZK proofs and anonymity sets.
 
 Key concept:
 
-**Size**: Number of deposits in pool.
+- **Size**: Number of deposits in pool.
 
-**Strength**: Larger anonymity set equals stronger privacy.
+- **Strength**: Larger anonymity set equals stronger privacy.
 
-**Timing Correlation**: Withdrawal timing can reduce anonymity.
+- **Timing Correlation**: Withdrawal timing can reduce anonymity.
 
-**Fixed Denominations**: Standardize amounts to avoid leaking info.
+- **Fixed Denominations**: Standardize amounts to avoid leaking info.
 
 Anonymity depends on pool size and user behavior.
 
@@ -45,11 +45,11 @@ Anonymity depends on pool size and user behavior.
 
 Deployments:
 
-**Tornado Cash**: Ethereum mixer using ZK proofs.
+- **Tornado Cash**: Ethereum mixer using ZK proofs.
 
-**Railgun**: Privacy system with shielded transfers.
+- **Railgun**: Privacy system with shielded transfers.
 
-**Aztec**: Privacy-focused rollup with private transactions.
+- **Aztec**: Privacy-focused rollup with private transactions.
 
 Privacy pools are used for privacy in DeFi.
 
@@ -57,13 +57,13 @@ Privacy pools are used for privacy in DeFi.
 
 Challenges:
 
-**Illicit Use**: Criminals can abuse mixers, leading to sanctions.
+- **Illicit Use**: Criminals can abuse mixers, leading to sanctions.
 
-**Regulatory Scrutiny**: Mixers face enforcement and sanctions.
+- **Regulatory Scrutiny**: Mixers face enforcement and sanctions.
 
-**Compliance**: Balancing privacy with compliance is complex.
+- **Compliance**: Balancing privacy with compliance is complex.
 
-**User Risk**: Using sanctioned privacy tools can create legal risk.
+- **User Risk**: Using sanctioned privacy tools can create legal risk.
 
 Privacy pools are controversial.
 
@@ -71,13 +71,13 @@ Privacy pools are controversial.
 
 Approaches:
 
-**Fixed-Amount Pools**: Standardized deposits (Tornado Cash).
+- **Fixed-Amount Pools**: Standardized deposits (Tornado Cash).
 
-**Variable Amounts**: More complex proofs (less common).
+- **Variable Amounts**: More complex proofs (less common).
 
-**Shielded Accounts**: Persistent privacy accounts (Zcash).
+- **Shielded Accounts**: Persistent privacy accounts (Zcash).
 
-**Privacy Pools with Compliance**: Selective disclosure or proof of innocence.
+- **Privacy Pools with Compliance**: Selective disclosure or proof of innocence.
 
 Design choices affect privacy and compliance.
 
@@ -97,23 +97,23 @@ Privacy roles:
 
 Using privacy pools:
 
-**Understand Risk**: Know legal and regulatory risks.
+- **Understand Risk**: Know legal and regulatory risks.
 
-**Use Relayers**: Reduce linkability.
+- **Use Relayers**: Reduce linkability.
 
-**Wait Randomly**: Avoid timing correlation.
+- **Wait Randomly**: Avoid timing correlation.
 
-**Check Anonymity Set**: Larger pools provide better privacy.
+- **Check Anonymity Set**: Larger pools provide better privacy.
 
 ## The Future of Privacy Pools
 
 Trends:
 
-**ZK Improvements**: Cheaper proofs enable wider adoption.
+- **ZK Improvements**: Cheaper proofs enable wider adoption.
 
-**Regulated Privacy**: Compliance-friendly privacy tools.
+- **Regulated Privacy**: Compliance-friendly privacy tools.
 
-**L2 Privacy**: Privacy tools on L2s for cheaper fees.
+- **L2 Privacy**: Privacy tools on L2s for cheaper fees.
 
 ## Protect Transaction Privacy
 

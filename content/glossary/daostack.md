@@ -15,17 +15,17 @@ DAOstack is an open-source framework and infrastructure stack designed for build
 
 Core components:
 
-**Voting System**: Holographic consensus enabling scalable governance.
+- **Voting System**: Holographic consensus enabling scalable governance.
 
-**Proposal System**: Submit, discuss, vote on proposals.
+- **Proposal System**: Submit, discuss, vote on proposals.
 
-**Budget Management**: Treasury management, fund allocation voting.
+- **Budget Management**: Treasury management, fund allocation voting.
 
-**Reputation System**: Reputation-weighted voting. Earned through contributions.
+- **Reputation System**: Reputation-weighted voting. Earned through contributions.
 
-**Organizations**: Create multiple organizations with shared governance infrastructure.
+- **Organizations**: Create multiple organizations with shared governance infrastructure.
 
-**DAO Marketplace**: Discover and join DAOs on the platform.
+- **DAO Marketplace**: Discover and join DAOs on the platform.
 
 DAOstack provides a complete DAO toolkit.
 
@@ -33,23 +33,23 @@ DAOstack provides a complete DAO toolkit.
 
 Detailed explanation:
 
-**Problem**: If all 10,000 DAO members must vote on every decision, governance is slow and prone to voter apathy.
+- **Problem**: If all 10,000 DAO members must vote on every decision, governance is slow and prone to voter apathy.
 
-**Solution**: Holographic consensus enables scaling governance through stake-based voting.
+- **Solution**: Holographic consensus enables scaling governance through stake-based voting.
 
-**Mechanism**: 
+- **Mechanism**: 
 - Anyone can propose. Proposal immediately has a 50% threshold (yes votes > no votes wins).
 - If no wins with a 50% threshold, proposer can stake tokens boosting the proposal.
 - Stake amount determines boost size. A large stake enables the proposal to win with minority votes.
 - If the proposal passes, the stake is refunded. If it fails, the stake is lost.
 
-**Economics**: 
+- **Economics**: 
 - If sure the proposal will pass, stake with confidence (will win and get refunded).
 - If unsure, don't stake (won't risk capital).
 - Incentivizes high-confidence proposers.
 - Discourages low-conviction proposals.
 
-**Scalability**: 
+- **Scalability**: 
 - Most proposals pass with a simple 50% threshold (no staking required).
 - Only contentious proposals require staking, scaling governance.
 
@@ -59,15 +59,15 @@ Holographic consensus enables governance at scale while maintaining quality.
 
 Community and adoption:
 
-**Genesis DAO**: Pioneering DAOstack DAO testing governance.
+- **Genesis DAO**: Pioneering DAOstack DAO testing governance.
 
-**Service DAOs**: Various DAOs using DAOstack for operations (design, development, marketing).
+- **Service DAOs**: Various DAOs using DAOstack for operations (design, development, marketing).
 
-**Partnerships**: DAOstack partnered with various organizations.
+- **Partnerships**: DAOstack partnered with various organizations.
 
-**Limited Adoption**: Adoption is moderate compared to competitors.
+- **Limited Adoption**: Adoption is moderate compared to competitors.
 
-**Development**: Ongoing development of DAOstack protocol and tooling.
+- **Development**: Ongoing development of DAOstack protocol and tooling.
 
 DAOstack has a niche but loyal user base.
 
@@ -87,11 +87,11 @@ DAOstack differentiates through the holographic consensus mechanism.
 
 Real DAOs:
 
-**Genesis DAO**: First DAOstack DAO. Used for governance experimentation.
+- **Genesis DAO**: First DAOstack DAO. Used for governance experimentation.
 
-**Polkadot Council**: Considered using DAOstack elements for governance.
+- **Polkadot Council**: Considered using DAOstack elements for governance.
 
-**Various Service DAOs**: DAOstack powers multiple small DAOs.
+- **Various Service DAOs**: DAOstack powers multiple small DAOs.
 
 Adoption is moderate compared to competitors.
 
@@ -112,15 +112,15 @@ Different frameworks have different tradeoffs.
 
 Obstacles:
 
-**Adoption**: Lower adoption than competitors.
+- **Adoption**: Lower adoption than competitors.
 
-**Complexity**: Holographic consensus is more complex than simple voting.
+- **Complexity**: Holographic consensus is more complex than simple voting.
 
-**Reputation System**: Reputation-based voting has complexity.
+- **Reputation System**: Reputation-based voting has complexity.
 
-**Learning Curve**: Higher barrier to understanding holographic consensus.
+- **Learning Curve**: Higher barrier to understanding holographic consensus.
 
-**Network Effects**: Smaller ecosystem compared to competitors.
+- **Network Effects**: Smaller ecosystem compared to competitors.
 
 DAOstack has a niche but smaller user base.
 
@@ -142,27 +142,27 @@ DAO infrastructure creates roles:
 
 Using DAOstack:
 
-**Understand Mechanics**: Learn holographic consensus before setting up a DAO.
+- **Understand Mechanics**: Learn holographic consensus before setting up a DAO.
 
-**Community Engagement**: Ensure the community understands governance.
+- **Community Engagement**: Ensure the community understands governance.
 
-**Clear Processes**: Define proposal processes and voting rules clearly.
+- **Clear Processes**: Define proposal processes and voting rules clearly.
 
-**Education**: Educate members on voting and governance.
+- **Education**: Educate members on voting and governance.
 
 ## The Future of DAOs
 
 DAO evolution:
 
-**Better Governance Tools**: More sophisticated voting mechanisms.
+- **Better Governance Tools**: More sophisticated voting mechanisms.
 
-**Multi-DAO Governance**: DAOs coordinating across multiple organizations.
+- **Multi-DAO Governance**: DAOs coordinating across multiple organizations.
 
-**Improved UX**: Simpler interfaces making participation easier.
+- **Improved UX**: Simpler interfaces making participation easier.
 
-**Real-Time Governance**: Faster decision-making through better tools.
+- **Real-Time Governance**: Faster decision-making through better tools.
 
-**Institutional DAOs**: DAOs adopted by institutions and enterprises.
+- **Institutional DAOs**: DAOs adopted by institutions and enterprises.
 
 ## Build Scalable Governance
 

@@ -15,17 +15,17 @@ Delegation is the process of transferring voting or staking power to another add
 
 The mechanism:
 
-**Ownership vs. Voting**: Token holder retains ownership but transfers voting power.
+- **Ownership vs. Voting**: Token holder retains ownership but transfers voting power.
 
-**Smart Contract Delegation**: User calls smart contract: `delegate(recipient_address)`. Voting power transfers.
+- **Smart Contract Delegation**: User calls smart contract: `delegate(recipient_address)`. Voting power transfers.
 
-**Accumulated Power**: Delegatee's total voting power equals own tokens plus delegated tokens.
+- **Accumulated Power**: Delegatee's total voting power equals own tokens plus delegated tokens.
 
-**Voting with Delegated Power**: Delegatee votes using delegated power. Token holder cannot vote while delegated.
+- **Voting with Delegated Power**: Delegatee votes using delegated power. Token holder cannot vote while delegated.
 
-**Undelegation**: Delegator reclaims power anytime: `delegate(self_address)`. Voting power transfers back.
+- **Undelegation**: Delegator reclaims power anytime: `delegate(self_address)`. Voting power transfers back.
 
-**No Token Transfer**: Tokens remain in delegator's wallet. Only voting power transfers.
+- **No Token Transfer**: Tokens remain in delegator's wallet. Only voting power transfers.
 
 This model enables participation without requiring direct voting by every token holder.
 
@@ -33,15 +33,15 @@ This model enables participation without requiring direct voting by every token 
 
 Uses:
 
-**Governance Participation**: Active governance participants accumulate delegation, gaining power to represent stakeholders.
+- **Governance Participation**: Active governance participants accumulate delegation, gaining power to represent stakeholders.
 
-**Institutional Participation**: Institutions delegate to specialists who understand protocols.
+- **Institutional Participation**: Institutions delegate to specialists who understand protocols.
 
-**Lazy Governance**: Token holders not interested in governance delegate to trusted parties.
+- **Lazy Governance**: Token holders not interested in governance delegate to trusted parties.
 
-**Expertise Representation**: Researchers delegate to domain experts they trust.
+- **Expertise Representation**: Researchers delegate to domain experts they trust.
 
-**Protocol Alignment**: Delegating to core developers or teams aligns incentives.
+- **Protocol Alignment**: Delegating to core developers or teams aligns incentives.
 
 Delegation enables diverse participation models.
 
@@ -49,15 +49,15 @@ Delegation enables diverse participation models.
 
 Potential issues:
 
-**Delegation Concentration**: Few delegates might accumulate large power, centralizing governance.
+- **Delegation Concentration**: Few delegates might accumulate large power, centralizing governance.
 
-**Bad Delegation Decisions**: Token holders might delegate to bad actors.
+- **Bad Delegation Decisions**: Token holders might delegate to bad actors.
 
-**Inactive Delegates**: Delegatees might disappear, leaving tokens unable to vote.
+- **Inactive Delegates**: Delegatees might disappear, leaving tokens unable to vote.
 
-**Principal-Agent Problem**: Delegatee's interests might not align with delegator's.
+- **Principal-Agent Problem**: Delegatee's interests might not align with delegator's.
 
-**Vote Farming**: Delegates might vote based on incentives rather than protocol health.
+- **Vote Farming**: Delegates might vote based on incentives rather than protocol health.
 
 Delegation introduces governance complexity that must be managed.
 
@@ -65,15 +65,15 @@ Delegation introduces governance complexity that must be managed.
 
 Why become a delegate:
 
-**Governance Influence**: Delegates have power to influence protocol direction.
+- **Governance Influence**: Delegates have power to influence protocol direction.
 
-**Reputation**: Successful delegates build reputation, attracting more delegation.
+- **Reputation**: Successful delegates build reputation, attracting more delegation.
 
-**Token Rewards**: Some protocols reward active delegates with additional tokens.
+- **Token Rewards**: Some protocols reward active delegates with additional tokens.
 
-**Professional Opportunity**: Some delegates work for governance services, paid by protocols.
+- **Professional Opportunity**: Some delegates work for governance services, paid by protocols.
 
-**Protocol Alignment**: Teams and developers delegate to represent their interests.
+- **Protocol Alignment**: Teams and developers delegate to represent their interests.
 
 Delegates are motivated by influence, reputation, or compensation.
 
@@ -81,13 +81,13 @@ Delegates are motivated by influence, reputation, or compensation.
 
 Observed behaviors:
 
-**Power Concentration**: Few delegates accumulate large voting power. Uniswap has a small number of delegates controlling a significant portion of voting power.
+- **Power Concentration**: Few delegates accumulate large voting power. Uniswap has a small number of delegates controlling a significant portion of voting power.
 
-**Founder Delegation**: Core teams or founders often receive substantial delegation.
+- **Founder Delegation**: Core teams or founders often receive substantial delegation.
 
-**Active Participants**: Users actively participating in governance accumulate delegation over time.
+- **Active Participants**: Users actively participating in governance accumulate delegation over time.
 
-**Sleeping Delegates**: Many token holders delegate to founders or core teams and do not reassess.
+- **Sleeping Delegates**: Many token holders delegate to founders or core teams and do not reassess.
 
 Real delegation often shows concentration rather than distributed power.
 
@@ -107,31 +107,31 @@ Delegation creates roles:
 
 Using delegation:
 
-**Understand Delegatee**: Know who you're delegating to and what they stand for.
+- **Understand Delegatee**: Know who you're delegating to and what they stand for.
 
-**Assess Alignment**: Ensure delegatee's interests align with yours.
+- **Assess Alignment**: Ensure delegatee's interests align with yours.
 
-**Monitor Voting**: Check how delegatee votes with your power.
+- **Monitor Voting**: Check how delegatee votes with your power.
 
-**Diversify**: Do not delegate all tokens to a single party.
+- **Diversify**: Do not delegate all tokens to a single party.
 
-**Reassess**: Periodically review delegation. Redelegate if needed.
+- **Reassess**: Periodically review delegation. Redelegate if needed.
 
-**Active Option**: If particularly interested, do not delegate; vote yourself.
+- **Active Option**: If particularly interested, do not delegate; vote yourself.
 
 ## Improving Delegation
 
 Mechanisms for better delegation:
 
-**Quadratic Delegation**: Voting power increases sub-linearly with delegated amounts, reducing plutocracy.
+- **Quadratic Delegation**: Voting power increases sub-linearly with delegated amounts, reducing plutocracy.
 
-**Delegation Revocability**: Easy revocation of delegation if delegatee votes poorly.
+- **Delegation Revocability**: Easy revocation of delegation if delegatee votes poorly.
 
-**Delegation Transparency**: Clear visibility of delegatee voting history and rationale.
+- **Delegation Transparency**: Clear visibility of delegatee voting history and rationale.
 
-**Delegation Pools**: Multiple delegates pooling power for stronger representation.
+- **Delegation Pools**: Multiple delegates pooling power for stronger representation.
 
-**Retroactive Evaluation**: Assessing delegatee effectiveness and adjusting future delegation.
+- **Retroactive Evaluation**: Assessing delegatee effectiveness and adjusting future delegation.
 
 Better delegation mechanisms can improve governance quality.
 
@@ -139,13 +139,13 @@ Better delegation mechanisms can improve governance quality.
 
 Delegation evolution:
 
-**Automated Delegation**: Protocols auto-assigning delegation based on stakeholder preferences.
+- **Automated Delegation**: Protocols auto-assigning delegation based on stakeholder preferences.
 
-**Dynamic Delegation**: Changing delegation based on proposal type.
+- **Dynamic Delegation**: Changing delegation based on proposal type.
 
-**Cross-Protocol Delegation**: Delegating voting power across multiple protocols simultaneously.
+- **Cross-Protocol Delegation**: Delegating voting power across multiple protocols simultaneously.
 
-**Delegation DAOs**: DAOs specializing in delegation, managing large voting pools.
+- **Delegation DAOs**: DAOs specializing in delegation, managing large voting pools.
 
 ## Represent Stakeholders
 

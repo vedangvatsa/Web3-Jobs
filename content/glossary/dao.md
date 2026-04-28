@@ -26,15 +26,15 @@ The typical DAO workflow:
 
 ## Types of DAOs
 
-**Protocol DAOs**: Govern DeFi protocols, managing parameters like interest rates, collateral types, and treasury funds. Examples include MakerDAO and Uniswap.
+- **Protocol DAOs**: Govern DeFi protocols, managing parameters like interest rates, collateral types, and treasury funds. Examples include MakerDAO and Uniswap.
 
-**Investment DAOs**: Pool member capital to invest in projects, NFTs, or real-world assets. Decisions about investments are made collectively.
+- **Investment DAOs**: Pool member capital to invest in projects, NFTs, or real-world assets. Decisions about investments are made collectively.
 
-**Collector DAOs**: Accumulate NFT art or other digital assets, with members sharing ownership and curatorial decisions.
+- **Collector DAOs**: Accumulate NFT art or other digital assets, with members sharing ownership and curatorial decisions.
 
-**Service DAOs**: Coordinate freelance work and consulting services, with members earning tokens for contributions.
+- **Service DAOs**: Coordinate freelance work and consulting services, with members earning tokens for contributions.
 
-**Social DAOs**: Community-driven organizations focused on shared interests, from education to activism.
+- **Social DAOs**: Community-driven organizations focused on shared interests, from education to activism.
 
 ## Treasury Management
 
@@ -60,71 +60,71 @@ Different voting mechanisms exist:
 
 ## Challenges and Limitations
 
-**Voter Apathy**: Many token holders do not actively participate, leading to low turnout and decisions made by small active minorities.
+- **Voter Apathy**: Many token holders do not actively participate, leading to low turnout and decisions made by small active minorities.
 
-**Plutocracy**: Token-weighted voting can concentrate power among large holders.
+- **Plutocracy**: Token-weighted voting can concentrate power among large holders.
 
-**Speed**: On-chain governance with discussion periods and voting can move slowly compared to traditional decision-making.
+- **Speed**: On-chain governance with discussion periods and voting can move slowly compared to traditional decision-making.
 
-**Legal Uncertainty**: The regulatory status of DAOs remains unclear in most jurisdictions, creating compliance challenges.
+- **Legal Uncertainty**: The regulatory status of DAOs remains unclear in most jurisdictions, creating compliance challenges.
 
-**Attack Vectors**: Governance attacks occur when malicious actors accumulate voting power to pass harmful proposals.
+- **Attack Vectors**: Governance attacks occur when malicious actors accumulate voting power to pass harmful proposals.
 
 ## Notable DAOs and Case Studies
 
-**MakerDAO**: One of the earliest and largest DAOs, governing the DAI stablecoin. Controls significant treasury assets and has executed numerous governance proposals since 2017.
+- **MakerDAO**: One of the earliest and largest DAOs, governing the DAI stablecoin. Controls significant treasury assets and has executed numerous governance proposals since 2017.
 
-**Uniswap DAO**: Governs the leading DEX protocol. Token holders vote on fee structures, grant programs, and protocol upgrades.
+- **Uniswap DAO**: Governs the leading DEX protocol. Token holders vote on fee structures, grant programs, and protocol upgrades.
 
-**ENS DAO**: Manages the Ethereum Name Service, which tokenized .eth domain ownership and governance. The airdrop distribution to ENS users became a model for DAO launches.
+- **ENS DAO**: Manages the Ethereum Name Service, which tokenized .eth domain ownership and governance. The airdrop distribution to ENS users became a model for DAO launches.
 
-**Constitution DAO**: Attempted to crowdfund to buy an original copy of the U.S. Constitution at auction. Though unsuccessful in the purchase, it demonstrated DAO coordination at unprecedented speed and scale.
+- **Constitution DAO**: Attempted to crowdfund to buy an original copy of the U.S. Constitution at auction. Though unsuccessful in the purchase, it demonstrated DAO coordination at unprecedented speed and scale.
 
-**Nouns DAO**: Auctions one generative NFT daily, with proceeds going to the treasury. Noun holders vote on creative projects, spawning numerous derivative projects.
+- **Nouns DAO**: Auctions one generative NFT daily, with proceeds going to the treasury. Noun holders vote on creative projects, spawning numerous derivative projects.
 
-**The DAO (2016)**: The first major DAO raised significant funds but suffered a critical smart contract exploit leading to a hack. The Ethereum community's response created Ethereum Classic and established crucial security lessons.
+- **The DAO (2016)**: The first major DAO raised significant funds but suffered a critical smart contract exploit leading to a hack. The Ethereum community's response created Ethereum Classic and established crucial security lessons.
 
 ## Voting Mechanisms Deep Dive
 
-**Token-Weighted Voting**: Most common mechanism where one token equals one vote. Simple to implement but enables plutocracy. Large holders can pass proposals without broad community support.
+- **Token-Weighted Voting**: Most common mechanism where one token equals one vote. Simple to implement but enables plutocracy. Large holders can pass proposals without broad community support.
 
-**Quadratic Voting**: Costs increase quadratically for additional votes. This reduces whale influence while still rewarding larger stakeholders.
+- **Quadratic Voting**: Costs increase quadratically for additional votes. This reduces whale influence while still rewarding larger stakeholders.
 
-**Conviction Voting**: Used by Aragon. Votes gain "conviction" (weight) over time as tokens remain locked. Enables minority opinions to eventually pass proposals if committed holders maintain support.
+- **Conviction Voting**: Used by Aragon. Votes gain "conviction" (weight) over time as tokens remain locked. Enables minority opinions to eventually pass proposals if committed holders maintain support.
 
-**Reputation-Based Systems**: Platforms like Gitcoin use contribution history rather than token holdings. Developers who have shipped code earn voting power. This reduces plutocracy but requires robust reputation tracking.
+- **Reputation-Based Systems**: Platforms like Gitcoin use contribution history rather than token holdings. Developers who have shipped code earn voting power. This reduces plutocracy but requires robust reputation tracking.
 
-**Delegated Voting**: Token holders can delegate voting power to active participants. Compound and Uniswap heavily use delegation, with most voting power delegated to a small number of active delegates.
+- **Delegated Voting**: Token holders can delegate voting power to active participants. Compound and Uniswap heavily use delegation, with most voting power delegated to a small number of active delegates.
 
-**Time-Locked Voting**: Systems like Curve's vote-escrowed model require locking tokens for extended periods to maximize voting power. This aligns incentives toward long-term thinking.
+- **Time-Locked Voting**: Systems like Curve's vote-escrowed model require locking tokens for extended periods to maximize voting power. This aligns incentives toward long-term thinking.
 
 ## DAO Tooling Ecosystem
 
-**Snapshot**: Off-chain voting platform that does not require gas fees. Most DAOs use Snapshot for temperature checks and governance signaling. Votes are recorded via signatures without on-chain transactions.
+- **Snapshot**: Off-chain voting platform that does not require gas fees. Most DAOs use Snapshot for temperature checks and governance signaling. Votes are recorded via signatures without on-chain transactions.
 
-**Tally**: Dashboard for on-chain governance providing proposal tracking, delegation management, and voting interfaces. Supports multiple governance frameworks.
+- **Tally**: Dashboard for on-chain governance providing proposal tracking, delegation management, and voting interfaces. Supports multiple governance frameworks.
 
-**Gnosis Safe**: Multi-signature wallet used for DAO treasury management. Requires multiple authorized signers to approve transactions.
+- **Gnosis Safe**: Multi-signature wallet used for DAO treasury management. Requires multiple authorized signers to approve transactions.
 
-**Aragon**: Full DAO infrastructure including voting systems, treasury management, and legal frameworks. One of the earliest DAO platforms.
+- **Aragon**: Full DAO infrastructure including voting systems, treasury management, and legal frameworks. One of the earliest DAO platforms.
 
-**Colony**: Focuses on work coordination and task management for contributor DAOs. Tracks contributions and automates reward distribution.
+- **Colony**: Focuses on work coordination and task management for contributor DAOs. Tracks contributions and automates reward distribution.
 
-**Coordinape**: Tool for DAO contributor compensation. Members allocate tokens to recognize each other's contributions in recurring cycles.
+- **Coordinape**: Tool for DAO contributor compensation. Members allocate tokens to recognize each other's contributions in recurring cycles.
 
 ## Legal Structures for DAOs
 
 Most DAOs exist in legal gray areas. Some jurisdictions have created frameworks:
 
-**Wyoming DAO LLC**: Wyoming allows DAOs to incorporate as limited liability companies, providing legal entity status and liability protection for members.
+- **Wyoming DAO LLC**: Wyoming allows DAOs to incorporate as limited liability companies, providing legal entity status and liability protection for members.
 
-**Marshall Islands**: Offers DAO legal recognition with governance token registration.
+- **Marshall Islands**: Offers DAO legal recognition with governance token registration.
 
-**Switzerland**: Some DAOs register as Swiss foundations for legal clarity.
+- **Switzerland**: Some DAOs register as Swiss foundations for legal clarity.
 
-**Cayman Islands**: Popular for investment DAOs seeking regulatory clarity.
+- **Cayman Islands**: Popular for investment DAOs seeking regulatory clarity.
 
-**Unincorporated Associations**: Some DAOs operate as general partnerships, creating potential legal risks for all members.
+- **Unincorporated Associations**: Some DAOs operate as general partnerships, creating potential legal risks for all members.
 
 Legal uncertainty remains a significant challenge. If a DAO generates revenue, who pays taxes? If members vote to violate securities laws, who is liable? These questions lack clear answers in most jurisdictions.
 
@@ -141,28 +141,28 @@ Treasury management has become a specialized discipline. Professional treasury m
 
 ## Governance Attacks and Defense
 
-**Hostile Takeovers**: Attackers accumulate governance tokens to pass malicious proposals. Defenses include time-locks and quorum requirements.
+- **Hostile Takeovers**: Attackers accumulate governance tokens to pass malicious proposals. Defenses include time-locks and quorum requirements.
 
-**Flash Loan Attacks**: Borrowing governance tokens for one block to manipulate votes. Most governance systems now snapshot voting power before proposals start.
+- **Flash Loan Attacks**: Borrowing governance tokens for one block to manipulate votes. Most governance systems now snapshot voting power before proposals start.
 
-**Sybil Attacks**: Creating many fake identities to gain voting power in reputation-based systems. Requires robust identity verification.
+- **Sybil Attacks**: Creating many fake identities to gain voting power in reputation-based systems. Requires robust identity verification.
 
-**Vote Buying**: Markets where token holders sell their voting power. Difficult to prevent while maintaining permissionless participation.
+- **Vote Buying**: Markets where token holders sell their voting power. Difficult to prevent while maintaining permissionless participation.
 
 ## Career Opportunities in DAOs
 
-**DAO Operations Manager**: Coordinates contributors, manages tools, facilitates governance processes. Requires organizational skills and Web3 knowledge.
+- **DAO Operations Manager**: Coordinates contributors, manages tools, facilitates governance processes. Requires organizational skills and Web3 knowledge.
 
-**Governance Analyst**: Researches proposals, analyzes voting patterns, produces governance reports. Critical for informed decision-making.
+- **Governance Analyst**: Researches proposals, analyzes voting patterns, produces governance reports. Critical for informed decision-making.
 
-**Smart Contract Developer**: Builds governance contracts, treasury systems, and voting mechanisms. Specialized knowledge of governance frameworks is essential.
+- **Smart Contract Developer**: Builds governance contracts, treasury systems, and voting mechanisms. Specialized knowledge of governance frameworks is essential.
 
-**Community Manager**: Nurtures DAO community, moderates discussions, onboards contributors. Often paid in a mix of stablecoins and governance tokens.
+- **Community Manager**: Nurtures DAO community, moderates discussions, onboards contributors. Often paid in a mix of stablecoins and governance tokens.
 
-**Protocol Politician/Delegate**: Full-time delegates in major DAOs participate in governance professionally, compensated via grants or delegate rewards.
+- **Protocol Politician/Delegate**: Full-time delegates in major DAOs participate in governance professionally, compensated via grants or delegate rewards.
 
-**Legal Counsel**: Navigates regulatory landscape, structures legal entities, advises on compliance. High demand as DAOs seek legal clarity.
+- **Legal Counsel**: Navigates regulatory landscape, structures legal entities, advises on compliance. High demand as DAOs seek legal clarity.
 
-**Treasury Manager**: Manages DAO treasuries, executes investment strategies, coordinates with DeFi protocols. Finance background plus Web3 knowledge is beneficial.
+- **Treasury Manager**: Manages DAO treasuries, executes investment strategies, coordinates with DeFi protocols. Finance background plus Web3 knowledge is beneficial.
 
 Many DAOs offer flexible, remote work with token-based compensation that can appreciate. The sector represents an experiment in organizational design and collective decision-making at internet scale.

@@ -15,15 +15,15 @@ Validator slashing is a penalty mechanism in Proof-of-Stake blockchain systems w
 
 Different penalties:
 
-**Inactivity Slashing**: Validator offline. Loses a small amount, which encourages them to come back online.
+- **Inactivity Slashing**: Validator offline. Loses a small amount, which encourages them to come back online.
 
-**Equivocation Slashing**: Validator votes for multiple blocks at the same height. This results in a large penalty.
+- **Equivocation Slashing**: Validator votes for multiple blocks at the same height. This results in a large penalty.
 
-**Correlation Slashing**: Validator slashing correlates with others. The penalty is larger if many validators misbehave together.
+- **Correlation Slashing**: Validator slashing correlates with others. The penalty is larger if many validators misbehave together.
 
-**Liveness Penalties**: Validator does not participate. There is a slow leak of stake.
+- **Liveness Penalties**: Validator does not participate. There is a slow leak of stake.
 
-**Finality Violations**: Validator votes conflicting at the same height. This results in a severe penalty.
+- **Finality Violations**: Validator votes conflicting at the same height. This results in a severe penalty.
 
 Different slashing types address different misbehaviors.
 
@@ -31,15 +31,15 @@ Different slashing types address different misbehaviors.
 
 Real implementation:
 
-**Double Proposal**: Validator proposes two different blocks at the same height. The penalty is 100% of the stake.
+- **Double Proposal**: Validator proposes two different blocks at the same height. The penalty is 100% of the stake.
 
-**Surround Vote**: Validator votes for conflicting blocks at different heights. The penalty is progressive.
+- **Surround Vote**: Validator votes for conflicting blocks at different heights. The penalty is progressive.
 
-**Inactivity**: Offline validators lose stake over time.
+- **Inactivity**: Offline validators lose stake over time.
 
-**Scale**: If many validators are slashed simultaneously, the penalty increases with participation. This prevents coordinated attacks.
+- **Scale**: If many validators are slashed simultaneously, the penalty increases with participation. This prevents coordinated attacks.
 
-**Deposit Return**: After slashing, the validator must wait to exit, then exit and receive the remaining stake.
+- **Deposit Return**: After slashing, the validator must wait to exit, then exit and receive the remaining stake.
 
 Ethereum carefully designed slashing to create strong economic deterrents.
 
@@ -47,15 +47,15 @@ Ethereum carefully designed slashing to create strong economic deterrents.
 
 How it works:
 
-**Detection**: The protocol detects misbehavior, such as double voting or conflicting votes.
+- **Detection**: The protocol detects misbehavior, such as double voting or conflicting votes.
 
-**Penalization**: The protocol automatically slashes the validator by removing their stake.
+- **Penalization**: The protocol automatically slashes the validator by removing their stake.
 
-**Insurance**: Some stake is reserved for penalties and insurance.
+- **Insurance**: Some stake is reserved for penalties and insurance.
 
-**Monitoring**: Validators monitor for slashable offenses and report them.
+- **Monitoring**: Validators monitor for slashable offenses and report them.
 
-**Appeal**: Generally, there is no appeal. Slashing is final.
+- **Appeal**: Generally, there is no appeal. Slashing is final.
 
 Automatic slashing creates strong incentives.
 
@@ -63,15 +63,15 @@ Automatic slashing creates strong incentives.
 
 Why validators avoid slashing:
 
-**Economic Cost**: Losing stake is expensive.
+- **Economic Cost**: Losing stake is expensive.
 
-**Reputation**: A slashed validator is blacklisted, making it hard to run a validator afterward.
+- **Reputation**: A slashed validator is blacklisted, making it hard to run a validator afterward.
 
-**Client Diversity**: Running multiple client implementations reduces slashing risk, as different clients may have different bugs.
+- **Client Diversity**: Running multiple client implementations reduces slashing risk, as different clients may have different bugs.
 
-**Key Management**: Secure key management prevents key compromise that could lead to slashing.
+- **Key Management**: Secure key management prevents key compromise that could lead to slashing.
 
-**Attestation Strategies**: Careful strategies ensure validators do not double-vote.
+- **Attestation Strategies**: Careful strategies ensure validators do not double-vote.
 
 Validators have strong incentives to avoid slashing.
 
@@ -79,15 +79,15 @@ Validators have strong incentives to avoid slashing.
 
 Potential issues:
 
-**Unintended Slashing**: Client bugs could cause unintended slashing.
+- **Unintended Slashing**: Client bugs could cause unintended slashing.
 
-**Cascade Slashing**: If many validators are slashed simultaneously, there can be significant capital loss.
+- **Cascade Slashing**: If many validators are slashed simultaneously, there can be significant capital loss.
 
-**False Accusations**: Protocols aim to prevent this, but it is theoretically possible.
+- **False Accusations**: Protocols aim to prevent this, but it is theoretically possible.
 
-**Recovery Complexity**: Exiting and recovering after slashing takes time.
+- **Recovery Complexity**: Exiting and recovering after slashing takes time.
 
-**Validator Loss**: Slashing reduces the validator count, which can temporarily reduce security.
+- **Validator Loss**: Slashing reduces the validator count, which can temporarily reduce security.
 
 Slashing has risks despite being critical.
 
@@ -109,27 +109,27 @@ Validator operations create roles:
 
 Avoiding slashing:
 
-**Key Security**: Secure validator keys. Use hardware wallets or HSMs.
+- **Key Security**: Secure validator keys. Use hardware wallets or HSMs.
 
-**Single Validator**: Do not run a validator twice. Only one instance is allowed.
+- **Single Validator**: Do not run a validator twice. Only one instance is allowed.
 
-**Client Updates**: Keep the client updated to patch bugs.
+- **Client Updates**: Keep the client updated to patch bugs.
 
-**Network Monitoring**: Monitor network health and react to unusual events.
+- **Network Monitoring**: Monitor network health and react to unusual events.
 
-**Insurance**: Consider slashing insurance for peace of mind.
+- **Insurance**: Consider slashing insurance for peace of mind.
 
 ## The Future of Slashing
 
 Evolution:
 
-**Better Monitoring**: Tools for detecting slashing risks will improve.
+- **Better Monitoring**: Tools for detecting slashing risks will improve.
 
-**Insurance Products**: Insurance against slashing will become more common.
+- **Insurance Products**: Insurance against slashing will become more common.
 
-**Graduated Penalties**: More sophisticated slashing tied to the severity of the offense will be developed.
+- **Graduated Penalties**: More sophisticated slashing tied to the severity of the offense will be developed.
 
-**Cross-Chain Slashing**: Slashing mechanisms may extend across multiple chains.
+- **Cross-Chain Slashing**: Slashing mechanisms may extend across multiple chains.
 
 ## Deter Dishonesty Economically
 

@@ -15,13 +15,13 @@ Finality refers to the point at which a blockchain transaction becomes permanent
 
 Different finality models:
 
-**Probabilistic Finality**: Bitcoin model. Transaction increasingly unlikely to reverse but never absolutely final. Each confirmation reduces reversal probability.
+- **Probabilistic Finality**: Bitcoin model. Transaction increasingly unlikely to reverse but never absolutely final. Each confirmation reduces reversal probability.
 
-**Absolute Finality**: Proof-of-Stake finality. After a specific point, a transaction mathematically cannot reverse without breaking consensus.
+- **Absolute Finality**: Proof-of-Stake finality. After a specific point, a transaction mathematically cannot reverse without breaking consensus.
 
-**Economic Finality**: Transaction would cost more to reverse than profit from reversing. Economically final.
+- **Economic Finality**: Transaction would cost more to reverse than profit from reversing. Economically final.
 
-**Social Finality**: Community consensus. If reversed, the community might not accept it.
+- **Social Finality**: Community consensus. If reversed, the community might not accept it.
 
 Different finality types have different guarantees.
 
@@ -29,15 +29,15 @@ Different finality types have different guarantees.
 
 Real implementations:
 
-**Bitcoin**: Approximately 1 hour for practical finality. Probabilistic.
+- **Bitcoin**: Approximately 1 hour for practical finality. Probabilistic.
 
-**Ethereum PoS**: Approximately 13 minutes for economic finality. Absolute.
+- **Ethereum PoS**: Approximately 13 minutes for economic finality. Absolute.
 
-**Arbitrum**: Approximately 7 days for security guarantee (rollup batch posting then finality).
+- **Arbitrum**: Approximately 7 days for security guarantee (rollup batch posting then finality).
 
-**Polygon PoS**: Approximately 100 confirmations (around 5 minutes). Delegated proof-of-stake model.
+- **Polygon PoS**: Approximately 100 confirmations (around 5 minutes). Delegated proof-of-stake model.
 
-**Solana**: Probabilistic, approximately 25 seconds average time to economic finality.
+- **Solana**: Probabilistic, approximately 25 seconds average time to economic finality.
 
 Different chains have different finality periods.
 
@@ -45,13 +45,13 @@ Different chains have different finality periods.
 
 Trade-off:
 
-**Fast Finality**: Want transactions final quickly for good user experience.
+- **Fast Finality**: Want transactions final quickly for good user experience.
 
-**Secure Finality**: Want reversals impossible for good security.
+- **Secure Finality**: Want reversals impossible for good security.
 
-**Paradox**: Faster finality equals less security; slower finality equals more security.
+- **Paradox**: Faster finality equals less security; slower finality equals more security.
 
-**Design**: Protocols tune finality balancing speed and security.
+- **Design**: Protocols tune finality balancing speed and security.
 
 Finality period is a core protocol design decision.
 
@@ -59,11 +59,11 @@ Finality period is a core protocol design decision.
 
 Rollup finality:
 
-**Optimistic Rollups**: Finality approximately 1 week (challenge period). Can be challenged.
+- **Optimistic Rollups**: Finality approximately 1 week (challenge period). Can be challenged.
 
-**ZK Rollups**: Finality after proof verification (approximately 1 hour). Cryptographically certain.
+- **ZK Rollups**: Finality after proof verification (approximately 1 hour). Cryptographically certain.
 
-**State Channels**: Finality instant (off-chain), only final settlement on-chain.
+- **State Channels**: Finality instant (off-chain), only final settlement on-chain.
 
 L2 finality varies significantly based on design.
 
@@ -71,15 +71,15 @@ L2 finality varies significantly based on design.
 
 Potential issues:
 
-**Reorg Attacks**: If the chain reorganizes, transactions revert. Risk during the finality window.
+- **Reorg Attacks**: If the chain reorganizes, transactions revert. Risk during the finality window.
 
-**51% Attacks**: With 51% hash power, an attacker can reverse transactions.
+- **51% Attacks**: With 51% hash power, an attacker can reverse transactions.
 
-**Validator Attacks**: PoS validators could reverse transactions (slashed if caught).
+- **Validator Attacks**: PoS validators could reverse transactions (slashed if caught).
 
-**Light Client Attacks**: Targeting light clients with fake finality.
+- **Light Client Attacks**: Targeting light clients with fake finality.
 
-**Consensus Breaks**: If the consensus mechanism breaks, finality guarantees fail.
+- **Consensus Breaks**: If the consensus mechanism breaks, finality guarantees fail.
 
 Finality is not an absolute security guarantee.
 
@@ -87,15 +87,15 @@ Finality is not an absolute security guarantee.
 
 Financial implications:
 
-**Exchange Risk**: Exchanges wait for finality before crediting deposits. Faster finality leads to faster deposits.
+- **Exchange Risk**: Exchanges wait for finality before crediting deposits. Faster finality leads to faster deposits.
 
-**Trading Risk**: Traders must trust finality. With uncertain finality, trading is risky.
+- **Trading Risk**: Traders must trust finality. With uncertain finality, trading is risky.
 
-**MEV Risk**: During the finality window, MEV attacks are possible. After finality, MEV risk is eliminated.
+- **MEV Risk**: During the finality window, MEV attacks are possible. After finality, MEV risk is eliminated.
 
-**Validator Economics**: Finality is tied to validator security. More validators lead to better finality security.
+- **Validator Economics**: Finality is tied to validator security. More validators lead to better finality security.
 
-**Insurance**: Some protocols offer insurance against finality violations if consensus breaks and transactions revert.
+- **Insurance**: Some protocols offer insurance against finality violations if consensus breaks and transactions revert.
 
 Finality has direct economic implications for all blockchain participants.
 
@@ -103,15 +103,15 @@ Finality has direct economic implications for all blockchain participants.
 
 Real-world considerations:
 
-**User Behavior**: Most users accept probabilistic finality. Bitcoin users do not wait for absolute finality.
+- **User Behavior**: Most users accept probabilistic finality. Bitcoin users do not wait for absolute finality.
 
-**Market Structure**: High-value transactions often wait longer for finality. Small transactions are accepted faster.
+- **Market Structure**: High-value transactions often wait longer for finality. Small transactions are accepted faster.
 
-**Exchange Finality**: Exchanges often use higher finality thresholds. Bitcoin exchanges might require more confirmations than user requirements.
+- **Exchange Finality**: Exchanges often use higher finality thresholds. Bitcoin exchanges might require more confirmations than user requirements.
 
-**Institutional Trust**: Institutions require very high finality thresholds before moving large capital.
+- **Institutional Trust**: Institutions require very high finality thresholds before moving large capital.
 
-**Speed vs Security**: Scaling faster finality often means reducing security. This is a hard tradeoff.
+- **Speed vs Security**: Scaling faster finality often means reducing security. This is a hard tradeoff.
 
 Practical finality usage reflects these considerations.
 
@@ -135,27 +135,27 @@ Finality and consensus create roles:
 
 Using finality:
 
-**Wait for Finality**: For high-value transactions, wait for finality before accepting.
+- **Wait for Finality**: For high-value transactions, wait for finality before accepting.
 
-**Understand Chains**: Know the finality period for the chain you are using.
+- **Understand Chains**: Know the finality period for the chain you are using.
 
-**Multiple Confirmations**: Some applications require more confirmations than the minimum.
+- **Multiple Confirmations**: Some applications require more confirmations than the minimum.
 
-**Monitor Network**: If the network is under stress, finality might be delayed.
+- **Monitor Network**: If the network is under stress, finality might be delayed.
 
-**Value-Based**: For small transactions, less finality is acceptable. For large transactions, more is needed.
+- **Value-Based**: For small transactions, less finality is acceptable. For large transactions, more is needed.
 
 ## The Future of Finality
 
 Finality evolution:
 
-**Faster Finality**: Protocols are working on reducing finality periods.
+- **Faster Finality**: Protocols are working on reducing finality periods.
 
-**Instant Finality**: Some newer designs target instant finality, which may be less secure.
+- **Instant Finality**: Some newer designs target instant finality, which may be less secure.
 
-**Hybrid Finality**: Combining different finality mechanisms, such as economic and cryptographic.
+- **Hybrid Finality**: Combining different finality mechanisms, such as economic and cryptographic.
 
-**Interchain Finality**: Finality guarantees spanning multiple chains.
+- **Interchain Finality**: Finality guarantees spanning multiple chains.
 
 ## Settle Transactions Permanently
 

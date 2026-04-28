@@ -15,15 +15,15 @@ Market Maker refers to a trader or automated system that provides liquidity by s
 
 How profits work:
 
-**Bid-Ask Spread**: Difference between buy price (bid) and sell price (ask).
+- **Bid-Ask Spread**: Difference between buy price (bid) and sell price (ask).
 
-**Example**: ETH trading at $2,000 bid (buy at $2,000), $2,010 ask (sell at $2,010).
+- **Example**: ETH trading at $2,000 bid (buy at $2,000), $2,010 ask (sell at $2,010).
 
-**Spread**: $10 per trade × 100 trades/day = $1,000 daily profit from spread.
+- **Spread**: $10 per trade × 100 trades/day = $1,000 daily profit from spread.
 
-**Volume**: More volume equals more spread collection. High-volume market makers earn significant revenue.
+- **Volume**: More volume equals more spread collection. High-volume market makers earn significant revenue.
 
-**Holding Risk**: If price moves beyond the spread while holding, losses occur. Market making has risk.
+- **Holding Risk**: If price moves beyond the spread while holding, losses occur. Market making has risk.
 
 Market making profits from spread capture.
 
@@ -31,15 +31,15 @@ Market making profits from spread capture.
 
 Different approaches:
 
-**Passive Liquidity Provision**: Provide liquidity and accept whatever trades come. Lower profit but simpler.
+- **Passive Liquidity Provision**: Provide liquidity and accept whatever trades come. Lower profit but simpler.
 
-**Active Quoting**: Quote aggressive prices to attract trades. Higher profit but more capital.
+- **Active Quoting**: Quote aggressive prices to attract trades. Higher profit but more capital.
 
-**Algorithmic MM**: Use algorithms adjusting prices based on market conditions. Most sophisticated.
+- **Algorithmic MM**: Use algorithms adjusting prices based on market conditions. Most sophisticated.
 
-**Statistical Arbitrage**: Identify mispricings and provide liquidity exploiting them. High skill.
+- **Statistical Arbitrage**: Identify mispricings and provide liquidity exploiting them. High skill.
 
-**Order Flow**: Try to identify and profit from order flow patterns. Most advanced.
+- **Order Flow**: Try to identify and profit from order flow patterns. Most advanced.
 
 Different strategies have different risk/reward profiles.
 
@@ -47,13 +47,13 @@ Different strategies have different risk/reward profiles.
 
 DeFi market making:
 
-**AMM Pools**: Uniswap and Balancer pools are market makers. They capture trading fees.
+- **AMM Pools**: Uniswap and Balancer pools are market makers. They capture trading fees.
 
-**LP Returns**: LPs earn from trading volume. 
+- **LP Returns**: LPs earn from trading volume. 
 
-**Impermanent Loss**: LPs suffer impermanent loss when prices move dramatically. Impermanent loss can exceed fee revenue.
+- **Impermanent Loss**: LPs suffer impermanent loss when prices move dramatically. Impermanent loss can exceed fee revenue.
 
-**Capital Efficiency**: Modern pools use concentrated liquidity (Uniswap V3) improving capital efficiency.
+- **Capital Efficiency**: Modern pools use concentrated liquidity (Uniswap V3) improving capital efficiency.
 
 DeFi market making is accessible to anyone with capital.
 
@@ -61,15 +61,15 @@ DeFi market making is accessible to anyone with capital.
 
 Institutional approaches:
 
-**Trading Firms**: Firms with significant capital running market making operations.
+- **Trading Firms**: Firms with significant capital running market making operations.
 
-**Prime Brokerage**: Access to leverage, financing, and sophisticated tools.
+- **Prime Brokerage**: Access to leverage, financing, and sophisticated tools.
 
-**High Frequency**: Exploit microsecond advantages through speed and algorithms.
+- **High Frequency**: Exploit microsecond advantages through speed and algorithms.
 
-**Statistical**: Use statistical methods to identify profitable opportunities.
+- **Statistical**: Use statistical methods to identify profitable opportunities.
 
-**Proprietary**: Firms develop proprietary algorithms for a competitive edge.
+- **Proprietary**: Firms develop proprietary algorithms for a competitive edge.
 
 Professional market making is a sophisticated industry.
 
@@ -77,15 +77,15 @@ Professional market making is a sophisticated industry.
 
 Potential downsides:
 
-**Inventory Risk**: Holding assets exposes to price movements.
+- **Inventory Risk**: Holding assets exposes to price movements.
 
-**Model Risk**: Market making algorithms might malfunction.
+- **Model Risk**: Market making algorithms might malfunction.
 
-**Liquidity Risk**: Inability to exit a position quickly may force realization of a loss.
+- **Liquidity Risk**: Inability to exit a position quickly may force realization of a loss.
 
-**Competition**: Tight spreads in competitive markets reduce profits.
+- **Competition**: Tight spreads in competitive markets reduce profits.
 
-**Regulatory**: Market making is subject to regulatory scrutiny.
+- **Regulatory**: Market making is subject to regulatory scrutiny.
 
 Market making is risky despite seeming simple.
 
@@ -107,27 +107,27 @@ Market making creates roles:
 
 Market making guidance:
 
-**Start Small**: Test strategies on small capital before scaling.
+- **Start Small**: Test strategies on small capital before scaling.
 
-**Understand Inventory**: Monitor inventory risk constantly.
+- **Understand Inventory**: Monitor inventory risk constantly.
 
-**Automated Hedging**: Use algorithms to protect against adverse price moves.
+- **Automated Hedging**: Use algorithms to protect against adverse price moves.
 
-**Diversify**: Avoid concentration on a single pair or exchange.
+- **Diversify**: Avoid concentration on a single pair or exchange.
 
-**Stay Informed**: Keep up with market structure changes.
+- **Stay Informed**: Keep up with market structure changes.
 
 ## The Future of Market Making
 
 Market making evolution:
 
-**More Automation**: Advanced algorithms are taking a larger role.
+- **More Automation**: Advanced algorithms are taking a larger role.
 
-**Retail Participation**: Better tools are enabling retail market making.
+- **Retail Participation**: Better tools are enabling retail market making.
 
-**Cross-Chain**: Market making is expanding across multiple chains.
+- **Cross-Chain**: Market making is expanding across multiple chains.
 
-**AMM Dominance**: DeFi market making through AMMs is becoming more significant.
+- **AMM Dominance**: DeFi market making through AMMs is becoming more significant.
 
 ## Profit From Price Differences
 

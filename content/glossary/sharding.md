@@ -15,17 +15,17 @@ Sharding is a blockchain scaling technique that divides the network into multipl
 
 The conceptual mechanism:
 
-**Shard Partition**: Blockchain is divided into N shards. Each shard maintains separate state (accounts, smart contracts, balances).
+- **Shard Partition**: Blockchain is divided into N shards. Each shard maintains separate state (accounts, smart contracts, balances).
 
-**Transaction Distribution**: Transactions are routed to the appropriate shard based on the state they modify.
+- **Transaction Distribution**: Transactions are routed to the appropriate shard based on the state they modify.
 
-**Parallel Validation**: Validators are randomly assigned to shards. Shard 1's validators validate shard 1 transactions while shard 2's validators validate shard 2 transactions simultaneously.
+- **Parallel Validation**: Validators are randomly assigned to shards. Shard 1's validators validate shard 1 transactions while shard 2's validators validate shard 2 transactions simultaneously.
 
-**Beacon Chain Coordination**: A central "beacon chain" coordinates between shards and ensures shards agree on finality.
+- **Beacon Chain Coordination**: A central "beacon chain" coordinates between shards and ensures shards agree on finality.
 
-**Cross-Shard Communication**: Smart contracts can call across shards. Coordination adds latency but enables composability.
+- **Cross-Shard Communication**: Smart contracts can call across shards. Coordination adds latency but enables composability.
 
-**Throughput Scaling**: With N shards and similar block times, throughput scales roughly linearly: $\text{Throughput} \approx N \times \text{Single-shard throughput}$. 
+- **Throughput Scaling**: With N shards and similar block times, throughput scales roughly linearly: $\text{Throughput} \approx N \times \text{Single-shard throughput}$. 
 
 64 shards could enable a theoretical throughput improvement, though overhead reduces actual gains.
 
@@ -33,11 +33,11 @@ The conceptual mechanism:
 
 Different approaches:
 
-**State Sharding**: Each shard maintains full state. Requires all validators to know shard state, limiting shards.
+- **State Sharding**: Each shard maintains full state. Requires all validators to know shard state, limiting shards.
 
-**Stateless Sharding**: Validators do not need full shard state. State is reconstructed from historical data. This enables many shards but is complex to implement.
+- **Stateless Sharding**: Validators do not need full shard state. State is reconstructed from historical data. This enables many shards but is complex to implement.
 
-**Rollup + Sharding**: Combining rollups with sharding. Rollups handle execution, sharding handles data availability.
+- **Rollup + Sharding**: Combining rollups with sharding. Rollups handle execution, sharding handles data availability.
 
 **Beacon Chain Sharding** (Ethereum's plan): A central beacon chain coordinates, and the Denkun upgrade enables "data sharding" initially.
 
@@ -47,17 +47,17 @@ Different designs make various tradeoffs.
 
 Sharding introduces significant difficulties:
 
-**Cross-Shard Communication**: Smart contracts spanning multiple shards require complex coordination. Latency increases.
+- **Cross-Shard Communication**: Smart contracts spanning multiple shards require complex coordination. Latency increases.
 
-**Validator Sampling**: Randomly assigning validators to shards risks small groups being selected, reducing security.
+- **Validator Sampling**: Randomly assigning validators to shards risks small groups being selected, reducing security.
 
-**Data Availability**: Ensuring shard data remains available if shard validators go offline is non-trivial.
+- **Data Availability**: Ensuring shard data remains available if shard validators go offline is non-trivial.
 
-**Synchronization**: Maintaining consistency across shards while processing in parallel is complex.
+- **Synchronization**: Maintaining consistency across shards while processing in parallel is complex.
 
-**Reorg Handling**: Handling blockchain reorganizations with shards is more complicated than a single chain.
+- **Reorg Handling**: Handling blockchain reorganizations with shards is more complicated than a single chain.
 
-**Statelessness Complexity**: Proving state transitions without full state available is cryptographically complex.
+- **Statelessness Complexity**: Proving state transitions without full state available is cryptographically complex.
 
 These challenges mean sharding remains an unsolved problem in blockchain research.
 
@@ -90,13 +90,13 @@ Sharding promises the most scaling but is the most complex and unproven.
 
 Sharding affects security:
 
-**Validator Security**: With many shards, each shard has a smaller validator set. If the shard set is small, it is easier to attack.
+- **Validator Security**: With many shards, each shard has a smaller validator set. If the shard set is small, it is easier to attack.
 
-**Committees**: Mitigation involves overlapping validator committees securing multiple shards simultaneously, adding complexity.
+- **Committees**: Mitigation involves overlapping validator committees securing multiple shards simultaneously, adding complexity.
 
-**Staking Centralization**: Sharding might encourage centralization if only large stakers can run shard validators.
+- **Staking Centralization**: Sharding might encourage centralization if only large stakers can run shard validators.
 
-**Attack Cost**: Sharding improves throughput but does not increase the cost of attacking; it might even reduce it if shard sets are small.
+- **Attack Cost**: Sharding improves throughput but does not increase the cost of attacking; it might even reduce it if shard sets are small.
 
 Security implications of sharding are an ongoing research topic.
 
@@ -118,13 +118,13 @@ Sharding research and development create roles:
 
 For future sharding adoption:
 
-**Monitor Research**: Stay informed on sharding progress and design decisions.
+- **Monitor Research**: Stay informed on sharding progress and design decisions.
 
-**Test Sharded Contracts**: When sharding is available, test smart contracts on a sharded testnet.
+- **Test Sharded Contracts**: When sharding is available, test smart contracts on a sharded testnet.
 
-**Plan for Latency**: Cross-shard operations will have latency. Design applications accordingly.
+- **Plan for Latency**: Cross-shard operations will have latency. Design applications accordingly.
 
-**Understand Economics**: Sharding might change fee structures and incentive dynamics.
+- **Understand Economics**: Sharding might change fee structures and incentive dynamics.
 
 ## Scale to Millions
 

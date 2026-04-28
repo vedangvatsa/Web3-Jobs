@@ -15,11 +15,11 @@ Price impact refers to the percentage change in an asset's price that occurs as 
 
 Mechanics:
 
-**Liquidity Depth**: Pool size determines impact. A 1,000 ETH pool has greater impact than a 100,000 ETH pool.
+- **Liquidity Depth**: Pool size determines impact. A 1,000 ETH pool has greater impact than a 100,000 ETH pool.
 
-**Trade Size**: Larger trades have larger impact. Trading 1 ETH vs 100 ETH in the same pool has vastly different impact.
+- **Trade Size**: Larger trades have larger impact. Trading 1 ETH vs 100 ETH in the same pool has vastly different impact.
 
-**Constant Product Formula**: AMMs use the formula x*y=k. Trades adjust x and y values, moving price.
+- **Constant Product Formula**: AMMs use the formula x*y=k. Trades adjust x and y values, moving price.
 
 Example: ETH/USDC pool with 100 ETH and 200,000 USDC.
 - Price: 200,000/100 = $2,000/ETH
@@ -34,9 +34,9 @@ Large trades have large impact.
 
 Related but distinct:
 
-**Price Impact**: Change in asset price due to your trade. Market-level metric.
+- **Price Impact**: Change in asset price due to your trade. Market-level metric.
 
-**Slippage**: Difference between expected price when submitting an order and actual execution price. User-level metric.
+- **Slippage**: Difference between expected price when submitting an order and actual execution price. User-level metric.
 
 Example: You submit a 10 ETH buy order expecting $2,000/ETH execution.
 - Expected cost: 10 × $2,000 = $20,000
@@ -50,15 +50,15 @@ In this case, price impact and slippage are the same. But slippage includes fees
 
 Strategies:
 
-**Split Orders**: Instead of a 100 ETH trade, split into 10 separate 10 ETH trades over time. This reduces immediate impact but spreads out timing risk.
+- **Split Orders**: Instead of a 100 ETH trade, split into 10 separate 10 ETH trades over time. This reduces immediate impact but spreads out timing risk.
 
-**Liquidation Protocol Trading**: Order book protocols enable matching against existing orders without price impact if liquidity exists at your price.
+- **Liquidation Protocol Trading**: Order book protocols enable matching against existing orders without price impact if liquidity exists at your price.
 
-**Time Averaging**: Trading over time rather than immediately reduces impact.
+- **Time Averaging**: Trading over time rather than immediately reduces impact.
 
-**Better Liquidity**: Deeper pools have lower impact. Use the most liquid trading pairs.
+- **Better Liquidity**: Deeper pools have lower impact. Use the most liquid trading pairs.
 
-**Limit Orders**: On order book exchanges, limit orders avoid impact while market orders have impact.
+- **Limit Orders**: On order book exchanges, limit orders avoid impact while market orders have impact.
 
 Different strategies balance impact reduction with other risks.
 
@@ -66,15 +66,15 @@ Different strategies balance impact reduction with other risks.
 
 Comparing impact:
 
-**Uniswap V2**: Impact based on pool size. A 1,000 ETH pool has approximately double the impact of a 2,000 ETH pool.
+- **Uniswap V2**: Impact based on pool size. A 1,000 ETH pool has approximately double the impact of a 2,000 ETH pool.
 
-**Uniswap V3**: Concentrated liquidity enables different impact profiles. Tight ranges have high impact but allow capital efficiency.
+- **Uniswap V3**: Concentrated liquidity enables different impact profiles. Tight ranges have high impact but allow capital efficiency.
 
-**Curve**: Stablecoin pools are designed for low impact. Different curve formulas reduce impact compared to constant product.
+- **Curve**: Stablecoin pools are designed for low impact. Different curve formulas reduce impact compared to constant product.
 
-**Balancer**: Larger pools with multiple tokens reduce impact.
+- **Balancer**: Larger pools with multiple tokens reduce impact.
 
-**DEX Aggregators**: Route across multiple DEXs to find the lowest impact path.
+- **DEX Aggregators**: Route across multiple DEXs to find the lowest impact path.
 
 Protocol design significantly impacts price impact.
 
@@ -82,13 +82,13 @@ Protocol design significantly impacts price impact.
 
 Financial implications:
 
-**For Traders**: Price impact reduces returns on trades.
+- **For Traders**: Price impact reduces returns on trades.
 
-**For Arbitrageurs**: Price impact limits arbitrage. If impact exceeds arbitrage spread, it is not profitable.
+- **For Arbitrageurs**: Price impact limits arbitrage. If impact exceeds arbitrage spread, it is not profitable.
 
-**For Liquidators**: Price impact on liquidations can make a position unprofitable.
+- **For Liquidators**: Price impact on liquidations can make a position unprofitable.
 
-**For LPs**: Price impact creates revenue. MEV searchers pay for good execution.
+- **For LPs**: Price impact creates revenue. MEV searchers pay for good execution.
 
 Price impact is a major component of trading economics.
 
@@ -110,29 +110,29 @@ Price impact creates roles:
 
 For traders:
 
-**Check Impact**: Use DEX aggregators showing estimated impact before trading.
+- **Check Impact**: Use DEX aggregators showing estimated impact before trading.
 
-**Small Trades**: If possible, split large trades to reduce impact.
+- **Small Trades**: If possible, split large trades to reduce impact.
 
-**Time Awareness**: Trade during high liquidity periods.
+- **Time Awareness**: Trade during high liquidity periods.
 
-**Limit Orders**: Use limit orders when possible to avoid slippage.
+- **Limit Orders**: Use limit orders when possible to avoid slippage.
 
-**Liquidity Research**: Find the deepest pools for your trading pair.
+- **Liquidity Research**: Find the deepest pools for your trading pair.
 
 ## The Future of Price Impact
 
 Impact reduction:
 
-**Better Liquidity Infrastructure**: More sophisticated AMM designs reduce impact.
+- **Better Liquidity Infrastructure**: More sophisticated AMM designs reduce impact.
 
-**Cross-Protocol Liquidity**: Protocols sharing liquidity reduce impact system-wide.
+- **Cross-Protocol Liquidity**: Protocols sharing liquidity reduce impact system-wide.
 
-**Intent-Based Architectures**: Solvers compete to provide the best execution, reducing impact.
+- **Intent-Based Architectures**: Solvers compete to provide the best execution, reducing impact.
 
-**On-Chain Order Books**: Layer 2 order books enable impact-free matching.
+- **On-Chain Order Books**: Layer 2 order books enable impact-free matching.
 
-**Private Mempools**: Encrypted execution prevents frontrunning and sandwich attacks.
+- **Private Mempools**: Encrypted execution prevents frontrunning and sandwich attacks.
 
 ## Understand Your Costs
 

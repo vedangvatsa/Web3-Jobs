@@ -15,17 +15,17 @@ Subnet refers to a custom blockchain that operates on top of a shared validator 
 
 How subnets work:
 
-**Validator Set**: Each subnet has a validator set that can include mainnet validators and additional validators.
+- **Validator Set**: Each subnet has a validator set that can include mainnet validators and additional validators.
 
-**Custom Rules**: Subnets can implement custom consensus, execution, and economic rules.
+- **Custom Rules**: Subnets can implement custom consensus, execution, and economic rules.
 
-**Shared Security**: Subnets inherit security from parent network validators.
+- **Shared Security**: Subnets inherit security from parent network validators.
 
-**Independent State**: Subnet state is independent from the mainnet.
+- **Independent State**: Subnet state is independent from the mainnet.
 
-**Cross-Chain Bridge**: Subnets can bridge assets to the mainnet and other subnets.
+- **Cross-Chain Bridge**: Subnets can bridge assets to the mainnet and other subnets.
 
-**Custom Virtual Machine**: Subnets can run custom virtual machines such as EVM or other types.
+- **Custom Virtual Machine**: Subnets can run custom virtual machines such as EVM or other types.
 
 Subnets enable customization while maintaining security.
 
@@ -33,13 +33,13 @@ Subnets enable customization while maintaining security.
 
 Real implementations:
 
-**Avalanche Subnets**: WAGMI Subnet (gaming), Core Subnet (e-commerce), and others.
+- **Avalanche Subnets**: WAGMI Subnet (gaming), Core Subnet (e-commerce), and others.
 
-**Polkadot Parachains**: Similar concept to subnets, where parachains share security.
+- **Polkadot Parachains**: Similar concept to subnets, where parachains share security.
 
-**Cosmos Zones**: Independent blockchains sharing security through the Hub.
+- **Cosmos Zones**: Independent blockchains sharing security through the Hub.
 
-**Optimism Chains**: Layer 2 chains building on the Optimism stack.
+- **Optimism Chains**: Layer 2 chains building on the Optimism stack.
 
 Subnets enable multi-chain ecosystems.
 
@@ -47,15 +47,15 @@ Subnets enable multi-chain ecosystems.
 
 Advantages:
 
-**Customization**: Subnets allow for custom rules, parameters, and virtual machines for specific use cases.
+- **Customization**: Subnets allow for custom rules, parameters, and virtual machines for specific use cases.
 
-**Throughput**: Subnets can achieve high throughput for single applications.
+- **Throughput**: Subnets can achieve high throughput for single applications.
 
-**Low Latency**: Reducing network size leads to lower latency, which is important for games and real-time applications.
+- **Low Latency**: Reducing network size leads to lower latency, which is important for games and real-time applications.
 
-**Economic Model**: Subnets can implement custom tokenomics and incentives.
+- **Economic Model**: Subnets can implement custom tokenomics and incentives.
 
-**Flexibility**: Parameters can be changed without mainnet coordination.
+- **Flexibility**: Parameters can be changed without mainnet coordination.
 
 Subnets enable specialized blockchains.
 
@@ -63,15 +63,15 @@ Subnets enable specialized blockchains.
 
 Challenges:
 
-**Validator Requirements**: Subnets require validators to run, which involves capital requirements.
+- **Validator Requirements**: Subnets require validators to run, which involves capital requirements.
 
-**Security Inherited**: If the parent network is compromised, subnets may also be vulnerable.
+- **Security Inherited**: If the parent network is compromised, subnets may also be vulnerable.
 
-**Bridge Risk**: Cross-chain bridges add complexity and risk.
+- **Bridge Risk**: Cross-chain bridges add complexity and risk.
 
-**Liquidity Fragmentation**: Liquidity may become fragmented across subnets.
+- **Liquidity Fragmentation**: Liquidity may become fragmented across subnets.
 
-**Coordination**: Coordinating validators across subnets can be complex.
+- **Coordination**: Coordinating validators across subnets can be complex.
 
 Subnets add complexity while enabling customization.
 
@@ -107,25 +107,25 @@ Subnets create roles:
 
 Using subnets:
 
-**Understand Trade-offs**: Subnets enable customization but add complexity.
+- **Understand Trade-offs**: Subnets enable customization but add complexity.
 
-**Validator Participation**: Ensure sufficient validators are backing the subnet.
+- **Validator Participation**: Ensure sufficient validators are backing the subnet.
 
-**Bridge Security**: Audit bridges between subnets.
+- **Bridge Security**: Audit bridges between subnets.
 
-**Liquidity**: Plan for liquidity fragmentation.
+- **Liquidity**: Plan for liquidity fragmentation.
 
 ## The Future of Subnets
 
 Evolution:
 
-**Better Bridges**: More secure cross-subnet bridges are expected.
+- **Better Bridges**: More secure cross-subnet bridges are expected.
 
-**Cross-Subnet Composability**: Easier composition across subnets is anticipated.
+- **Cross-Subnet Composability**: Easier composition across subnets is anticipated.
 
-**Validator Marketplaces**: Markets for renting validators may develop.
+- **Validator Marketplaces**: Markets for renting validators may develop.
 
-**Native Cross-Subnet**: Built-in cross-subnet protocols may emerge.
+- **Native Cross-Subnet**: Built-in cross-subnet protocols may emerge.
 
 ## Specialize Through Subnets
 

@@ -35,31 +35,31 @@ The key innovation is that **L2 transaction ordering is determined by L1 block p
 
 Based sequencing offers several advantages over traditional sequencer models:
 
-**Decentralization**: No single sequencer operator controls transaction ordering. Sequencing is distributed across Ethereum's entire validator set.
+- **Decentralization**: No single sequencer operator controls transaction ordering. Sequencing is distributed across Ethereum's entire validator set.
 
-**Censorship Resistance**: Censoring L2 transactions requires censoring at the L1 level, which is significantly more difficult due to Ethereum's decentralized validator set and social accountability mechanisms.
+- **Censorship Resistance**: Censoring L2 transactions requires censoring at the L1 level, which is significantly more difficult due to Ethereum's decentralized validator set and social accountability mechanisms.
 
-**Simplified Architecture**: Rollups don't need to build, maintain, or decentralize their own sequencer infrastructure, reducing technical complexity and operational overhead.
+- **Simplified Architecture**: Rollups don't need to build, maintain, or decentralize their own sequencer infrastructure, reducing technical complexity and operational overhead.
 
-**Reduced Trust Assumptions**: Users don't need to trust a separate sequencer entity. They only need to trust Ethereum's L1 consensus, which they are already trusting for settlement.
+- **Reduced Trust Assumptions**: Users don't need to trust a separate sequencer entity. They only need to trust Ethereum's L1 consensus, which they are already trusting for settlement.
 
-**MEV Alignment**: MEV extraction from L2 transactions flows to Ethereum validators rather than a separate sequencer operator, better aligning incentives with L1.
+- **MEV Alignment**: MEV extraction from L2 transactions flows to Ethereum validators rather than a separate sequencer operator, better aligning incentives with L1.
 
-**Cost Efficiency**: Users only pay L1 gas fees for inclusion and rollup-specific fees for state updates.
+- **Cost Efficiency**: Users only pay L1 gas fees for inclusion and rollup-specific fees for state updates.
 
 ## Challenges and Tradeoffs
 
 While based sequencing offers strong decentralization, it comes with several tradeoffs:
 
-**Slower Confirmations**: Transactions must wait for L1 block inclusion, whereas centralized sequencers can provide instant soft confirmations. This makes based rollups less suitable for latency-sensitive applications like high-frequency DeFi trading or gaming.
+- **Slower Confirmations**: Transactions must wait for L1 block inclusion, whereas centralized sequencers can provide instant soft confirmations. This makes based rollups less suitable for latency-sensitive applications like high-frequency DeFi trading or gaming.
 
-**No Preconfirmations**: Without a sequencer committing to future state, users can't get fast guarantees about transaction inclusion or ordering before L1 finalization.
+- **No Preconfirmations**: Without a sequencer committing to future state, users can't get fast guarantees about transaction inclusion or ordering before L1 finalization.
 
-**MEV Competition**: L2 transactions in the L1 mempool are visible to searchers and builders, potentially exposing users to sandwich attacks and other MEV extraction that centralized sequencers could prevent through private mempools.
+- **MEV Competition**: L2 transactions in the L1 mempool are visible to searchers and builders, potentially exposing users to sandwich attacks and other MEV extraction that centralized sequencers could prevent through private mempools.
 
-**Higher Costs**: L1 block space is more expensive than off-chain sequencer processing, so based rollups may have higher per-transaction costs, especially during periods of high L1 congestion.
+- **Higher Costs**: L1 block space is more expensive than off-chain sequencer processing, so based rollups may have higher per-transaction costs, especially during periods of high L1 congestion.
 
-**Limited Throughput**: Based rollups are constrained by L1 block space and gas limits, potentially limiting their throughput compared to rollups with high-performance sequencers.
+- **Limited Throughput**: Based rollups are constrained by L1 block space and gas limits, potentially limiting their throughput compared to rollups with high-performance sequencers.
 
 ## Based Rollups vs Traditional Sequencers
 
@@ -76,13 +76,13 @@ While based sequencing offers strong decentralization, it comes with several tra
 
 Several projects are exploring or implementing based sequencing:
 
-**Taiko**: One of the first based rollups, Taiko uses Ethereum validators for sequencing and focuses on being a "Type-1" (Ethereum-equivalent) ZK-rollup.
+- **Taiko**: One of the first based rollups, Taiko uses Ethereum validators for sequencing and focuses on being a "Type-1" (Ethereum-equivalent) ZK-rollup.
 
-**Spire**: A based rollup optimized for DeFi applications, accepting slightly slower confirmations in exchange for maximal decentralization.
+- **Spire**: A based rollup optimized for DeFi applications, accepting slightly slower confirmations in exchange for maximal decentralization.
 
-**Rollkit**: A modular rollup framework that supports based sequencing as one of its sequencing options.
+- **Rollkit**: A modular rollup framework that supports based sequencing as one of its sequencing options.
 
-**Existing Rollups Considering Migration**: Several established rollups have discussed transitioning to based sequencing in the future, though they currently use centralized or partially decentralized sequencers.
+- **Existing Rollups Considering Migration**: Several established rollups have discussed transitioning to based sequencing in the future, though they currently use centralized or partially decentralized sequencers.
 
 The based sequencing model is still relatively early, with most implementations in testnet or early mainnet stages.
 
@@ -90,13 +90,13 @@ The based sequencing model is still relatively early, with most implementations 
 
 To address the latency limitations of pure based sequencing, researchers are exploring hybrid models:
 
-**Based + Preconfirmations**: L1 validators could offer preconfirmations for L2 transactions by staking collateral that gets slashed if they don't include the transaction in their next proposed block.
+- **Based + Preconfirmations**: L1 validators could offer preconfirmations for L2 transactions by staking collateral that gets slashed if they don't include the transaction in their next proposed block.
 
-**Lookahead Sequencing**: Users could submit transactions to future block proposers, potentially getting faster guarantees.
+- **Lookahead Sequencing**: Users could submit transactions to future block proposers, potentially getting faster guarantees.
 
-**Based + Fast Finality Layers**: Combining based sequencing with separate fast finality mechanisms that provide quick confirmations while still settling to the based L2 state.
+- **Based + Fast Finality Layers**: Combining based sequencing with separate fast finality mechanisms that provide quick confirmations while still settling to the based L2 state.
 
-**Multi-Rollup Sequencing**: Based sequencing could enable native atomic composability between multiple based rollups, as they all share the same L1 sequencing layer.
+- **Multi-Rollup Sequencing**: Based sequencing could enable native atomic composability between multiple based rollups, as they all share the same L1 sequencing layer.
 
 These innovations aim to preserve the decentralization benefits of based sequencing while improving user experience through faster confirmations.
 
@@ -118,15 +118,15 @@ Career growth in this field requires deep understanding of Ethereum's consensus 
 
 When interacting with based rollups:
 
-**Expect Slower Confirmations**: Plan for ~12-second confirmation times rather than instant feedback. Based rollups aren't suitable for latency-critical applications.
+- **Expect Slower Confirmations**: Plan for ~12-second confirmation times rather than instant feedback. Based rollups aren't suitable for latency-critical applications.
 
-**Use MEV Protection Tools**: Consider using private RPC endpoints, transaction batching, or MEV-protection services to reduce exposure to sandwich attacks.
+- **Use MEV Protection Tools**: Consider using private RPC endpoints, transaction batching, or MEV-protection services to reduce exposure to sandwich attacks.
 
-**Monitor L1 Gas Prices**: Your L2 transaction costs will correlate with L1 gas prices, so time transactions during periods of low L1 congestion when possible.
+- **Monitor L1 Gas Prices**: Your L2 transaction costs will correlate with L1 gas prices, so time transactions during periods of low L1 congestion when possible.
 
-**Understand Finality**: Based rollup transactions inherit Ethereum's finality guarantees. Transactions are probabilistically final after a few blocks and absolutely final after checkpoint finalization.
+- **Understand Finality**: Based rollup transactions inherit Ethereum's finality guarantees. Transactions are probabilistically final after a few blocks and absolutely final after checkpoint finalization.
 
-**Leverage Decentralization**: Take advantage of the censorship resistance. Based rollups are ideal for applications where decentralization is paramount, even at the cost of some latency.
+- **Leverage Decentralization**: Take advantage of the censorship resistance. Based rollups are ideal for applications where decentralization is paramount, even at the cost of some latency.
 
 ## The Future of Based Sequencing
 

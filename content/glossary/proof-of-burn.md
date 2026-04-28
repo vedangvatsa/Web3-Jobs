@@ -15,15 +15,15 @@ Proof of Burn is a consensus mechanism where participants permanently destroy cr
 
 How it works:
 
-**Burning**: Send coins to unspendable address. Coins permanently destroyed.
+- **Burning**: Send coins to unspendable address. Coins permanently destroyed.
 
-**Proof**: Burning is cryptographic proof of commitment. Cost is real destruction.
+- **Proof**: Burning is cryptographic proof of commitment. Cost is real destruction.
 
-**Weight**: Participants with more burned coins get more influence and rewards.
+- **Weight**: Participants with more burned coins get more influence and rewards.
 
-**Voting**: Can use burn weight for voting on protocol changes.
+- **Voting**: Can use burn weight for voting on protocol changes.
 
-**Alternative**: Between expensive PoW and cheaper PoS.
+- **Alternative**: Between expensive PoW and cheaper PoS.
 
 Burning creates economic commitment.
 
@@ -45,15 +45,15 @@ PoB balances security and cost.
 
 Historical example:
 
-**Launch**: 2014. Early Proof of Burn implementation.
+- **Launch**: 2014. Early Proof of Burn implementation.
 
-**Blocks**: Validators burn coins to earn block rewards.
+- **Blocks**: Validators burn coins to earn block rewards.
 
-**Weight**: More burned equals higher chance of block.
+- **Weight**: More burned equals higher chance of block.
 
-**Sustainability**: Reduced coin supply through burning.
+- **Sustainability**: Reduced coin supply through burning.
 
-**Status**: Mostly abandoned. PoS became preferred.
+- **Status**: Mostly abandoned. PoS became preferred.
 
 Slimcoin demonstrated Proof of Burn feasibility.
 
@@ -61,15 +61,15 @@ Slimcoin demonstrated Proof of Burn feasibility.
 
 Key advantage:
 
-**Economic Commitment**: Burning coins is real economic commitment.
+- **Economic Commitment**: Burning coins is real economic commitment.
 
-**No Hardware**: No need for specialized hardware like PoW.
+- **No Hardware**: No need for specialized hardware like PoW.
 
-**Simpler**: Simpler than PoW infrastructure.
+- **Simpler**: Simpler than PoW infrastructure.
 
-**Environmentally Sound**: No electricity waste like PoW.
+- **Environmentally Sound**: No electricity waste like PoW.
 
-**Drawback**: Reduces coin supply potentially reducing liquidity.
+- **Drawback**: Reduces coin supply potentially reducing liquidity.
 
 Burning enables coins-as-collateral model.
 
@@ -77,15 +77,15 @@ Burning enables coins-as-collateral model.
 
 Current use:
 
-**Protocol Governance**: Some protocols use burn for voting weight.
+- **Protocol Governance**: Some protocols use burn for voting weight.
 
-**Mechanism Design**: Some mechanisms require burning for participation.
+- **Mechanism Design**: Some mechanisms require burning for participation.
 
-**Economic Design**: Some protocols burn fees reducing inflation.
+- **Economic Design**: Some protocols burn fees reducing inflation.
 
-**Incentive Alignment**: Burning aligns interests of validators.
+- **Incentive Alignment**: Burning aligns interests of validators.
 
-**Niche Consensus**: Limited adoption for primary consensus.
+- **Niche Consensus**: Limited adoption for primary consensus.
 
 Proof of Burn finds niche applications.
 
@@ -105,25 +105,25 @@ Proof of Burn creates roles:
 
 Using Proof of Burn:
 
-**Incentives**: Ensure burn incentives are properly aligned.
+- **Incentives**: Ensure burn incentives are properly aligned.
 
-**Economics**: Analyze long-term economic implications of burning.
+- **Economics**: Analyze long-term economic implications of burning.
 
-**Governance**: Use burn weight carefully for governance.
+- **Governance**: Use burn weight carefully for governance.
 
-**Supply**: Monitor coin supply reduction from burning.
+- **Supply**: Monitor coin supply reduction from burning.
 
 ## The Future of Proof of Burn
 
 Evolution:
 
-**Hybrid Models**: Combining PoB with other mechanisms.
+- **Hybrid Models**: Combining PoB with other mechanisms.
 
-**Governance**: More protocols using burn for voting.
+- **Governance**: More protocols using burn for voting.
 
-**Economic Design**: More sophisticated burn mechanics.
+- **Economic Design**: More sophisticated burn mechanics.
 
-**Cross-Chain**: Burning on one chain, receiving rights on another.
+- **Cross-Chain**: Burning on one chain, receiving rights on another.
 
 ## Prove Commitment Through Destruction
 

@@ -41,33 +41,33 @@ The critical innovation is that **all rollups observe the same transaction order
 
 Shared sequencing solves several fundamental problems in the multi-rollup ecosystem:
 
-**Atomic Cross-Chain Transactions**: Users can execute complex multi-step transactions across multiple rollups with atomicity guarantees, ensuring that either all steps succeed or all steps revert. This eliminates scenarios where funds get stuck mid-transfer.
+- **Atomic Cross-Chain Transactions**: Users can execute complex multi-step transactions across multiple rollups with atomicity guarantees, ensuring that either all steps succeed or all steps revert. This eliminates scenarios where funds get stuck mid-transfer.
 
-**Synchronous Composability**: DeFi protocols on different rollups can interact within a single transaction, enabling arbitrage, flash loans, and complex strategies that span multiple chains without asynchronous delays.
+- **Synchronous Composability**: DeFi protocols on different rollups can interact within a single transaction, enabling arbitrage, flash loans, and complex strategies that span multiple chains without asynchronous delays.
 
-**Unified MEV Markets**: Searchers and builders can optimize across the entire shared sequencing ecosystem rather than per-rollup, leading to more efficient MEV extraction and better user prices.
+- **Unified MEV Markets**: Searchers and builders can optimize across the entire shared sequencing ecosystem rather than per-rollup, leading to more efficient MEV extraction and better user prices.
 
-**Reduced Liquidity Fragmentation**: Assets and liquidity can be efficiently shared across rollups without needing wrapped tokens or bridge liquidity pools on each chain.
+- **Reduced Liquidity Fragmentation**: Assets and liquidity can be efficiently shared across rollups without needing wrapped tokens or bridge liquidity pools on each chain.
 
-**Faster Cross-Chain Interactions**: Cross-rollup transactions settle in a single shared sequence block, typically within a few seconds.
+- **Faster Cross-Chain Interactions**: Cross-rollup transactions settle in a single shared sequence block, typically within a few seconds.
 
-**Independent Rollup Sovereignty**: Each rollup maintains its own state machine, gas token, governance, and execution environment while gaining composability benefits.
+- **Independent Rollup Sovereignty**: Each rollup maintains its own state machine, gas token, governance, and execution environment while gaining composability benefits.
 
 ## Technical Architecture Components
 
 A shared sequencing system consists of several key components:
 
-**Sequencer Network**: A decentralized network of sequencers that collectively orders transactions. This network must be Byzantine fault tolerant to prevent censorship or double-sequencing.
+- **Sequencer Network**: A decentralized network of sequencers that collectively orders transactions. This network must be Byzantine fault tolerant to prevent censorship or double-sequencing.
 
-**Transaction Mempool**: A shared mempool where users submit cross-rollup transactions. The mempool may be partitioned or prioritized based on fees, urgency, or rollup-specific policies.
+- **Transaction Mempool**: A shared mempool where users submit cross-rollup transactions. The mempool may be partitioned or prioritized based on fees, urgency, or rollup-specific policies.
 
-**State Commitments**: Mechanisms for rollups to commit to their pre-state before executing shared sequences, enabling atomic rollback if cross-chain conditions aren't met.
+- **State Commitments**: Mechanisms for rollups to commit to their pre-state before executing shared sequences, enabling atomic rollback if cross-chain conditions aren't met.
 
-**Proof Aggregation**: Systems for efficiently aggregating proofs from multiple rollups, potentially using recursive proof techniques to reduce L1 settlement costs.
+- **Proof Aggregation**: Systems for efficiently aggregating proofs from multiple rollups, potentially using recursive proof techniques to reduce L1 settlement costs.
 
-**Rollup Adapters**: Interfaces that allow diverse rollup implementations to plug into the shared sequencing layer without requiring homogeneous execution environments.
+- **Rollup Adapters**: Interfaces that allow diverse rollup implementations to plug into the shared sequencing layer without requiring homogeneous execution environments.
 
-**Escrow and Settlement**: Smart contracts on L1 that escrow assets and enforce the shared sequence ordering, providing security guarantees.
+- **Escrow and Settlement**: Smart contracts on L1 that escrow assets and enforce the shared sequence ordering, providing security guarantees.
 
 ## Shared Sequencing vs Traditional Bridges
 
@@ -85,47 +85,47 @@ A shared sequencing system consists of several key components:
 
 Several projects are developing shared sequencing infrastructure:
 
-**Espresso**: Building a decentralized sequencing network with HotStuff consensus, focusing on EVM-compatible rollups and privacy-preserving sequencing.
+- **Espresso**: Building a decentralized sequencing network with HotStuff consensus, focusing on EVM-compatible rollups and privacy-preserving sequencing.
 
-**Astria**: Developing a shared sequencer network using CometBFT (Tendermint) consensus, with a focus on rollup sovereignty and censorship resistance.
+- **Astria**: Developing a shared sequencer network using CometBFT (Tendermint) consensus, with a focus on rollup sovereignty and censorship resistance.
 
-**Radius**: Creating encrypted mempools and shared sequencing with built-in MEV protection, using threshold encryption to hide transaction content until after ordering.
+- **Radius**: Creating encrypted mempools and shared sequencing with built-in MEV protection, using threshold encryption to hide transaction content until after ordering.
 
-**Polygon AggLayer**: Polygon's approach to unified liquidity and state across multiple chains using a shared proving layer and aggregated proofs.
+- **Polygon AggLayer**: Polygon's approach to unified liquidity and state across multiple chains using a shared proving layer and aggregated proofs.
 
-**Flashbots SUAVE**: Building a "universal ordering layer" that coordinates sequencing across multiple domains, including L2s, enabling cross-domain MEV optimization.
+- **Flashbots SUAVE**: Building a "universal ordering layer" that coordinates sequencing across multiple domains, including L2s, enabling cross-domain MEV optimization.
 
 ## Challenges and Considerations
 
 Shared sequencing introduces new technical and economic challenges:
 
-**Centralization Risks**: If the shared sequencer network becomes centralized or captured, it could censor transactions across all participating rollups simultaneously.
+- **Centralization Risks**: If the shared sequencer network becomes centralized or captured, it could censor transactions across all participating rollups simultaneously.
 
-**Validator Coordination**: Ensuring BFT consensus across diverse rollups with different economic incentives and governance structures is complex.
+- **Validator Coordination**: Ensuring BFT consensus across diverse rollups with different economic incentives and governance structures is complex.
 
-**Latency Overhead**: Coordinating across multiple rollups adds latency compared to a single rollup's sequencer, though still faster than bridges.
+- **Latency Overhead**: Coordinating across multiple rollups adds latency compared to a single rollup's sequencer, though still faster than bridges.
 
-**Fee Market Design**: Designing fair fee markets where users pay for shared sequencing without one rollup subsidizing another is challenging.
+- **Fee Market Design**: Designing fair fee markets where users pay for shared sequencing without one rollup subsidizing another is challenging.
 
-**Rollup Heterogeneity**: Supporting rollups with vastly different execution environments in a unified sequencing layer requires sophisticated adapter layers.
+- **Rollup Heterogeneity**: Supporting rollups with vastly different execution environments in a unified sequencing layer requires sophisticated adapter layers.
 
-**Exit Security**: Ensuring rollups can exit the shared sequencing network if it becomes malicious or undergoes governance changes they disagree with.
+- **Exit Security**: Ensuring rollups can exit the shared sequencing network if it becomes malicious or undergoes governance changes they disagree with.
 
 ## Use Cases for Shared Sequencing
 
 Shared sequencing enables several powerful use cases:
 
-**Cross-Chain DEX Arbitrage**: Arbitrageurs can atomically trade across DEXs on multiple rollups, ensuring they profit or revert without capital risk.
+- **Cross-Chain DEX Arbitrage**: Arbitrageurs can atomically trade across DEXs on multiple rollups, ensuring they profit or revert without capital risk.
 
-**Multi-Chain Flash Loans**: Borrow assets on one rollup, use them on another, and repay on a third, all in a single atomic transaction.
+- **Multi-Chain Flash Loans**: Borrow assets on one rollup, use them on another, and repay on a third, all in a single atomic transaction.
 
-**Unified DeFi Protocols**: Lending protocols can have liquidity on one rollup while collateral lives on another, with atomic liquidations.
+- **Unified DeFi Protocols**: Lending protocols can have liquidity on one rollup while collateral lives on another, with atomic liquidations.
 
-**Cross-Chain Gaming**: Game assets and state can exist on specialized gaming rollups while settlement happens on general-purpose rollups, with instant coordination.
+- **Cross-Chain Gaming**: Game assets and state can exist on specialized gaming rollups while settlement happens on general-purpose rollups, with instant coordination.
 
-**Atomic Swaps Without Bridges**: Users can trade assets across rollups peer-to-peer with no bridge risk, as the swap is atomically guaranteed by the shared sequencer.
+- **Atomic Swaps Without Bridges**: Users can trade assets across rollups peer-to-peer with no bridge risk, as the swap is atomically guaranteed by the shared sequencer.
 
-**Global NFT Marketplaces**: NFT marketplaces can list items across multiple rollups with instant cross-chain bidding and settlement.
+- **Global NFT Marketplaces**: NFT marketplaces can list items across multiple rollups with instant cross-chain bidding and settlement.
 
 ## Career Opportunities in Shared Sequencing
 
@@ -147,17 +147,17 @@ This field requires deep expertise in distributed systems, blockchain consensus,
 
 When building on shared sequencing infrastructure:
 
-**Design for Atomicity**: Structure cross-chain transactions to take full advantage of atomic guarantees.
+- **Design for Atomicity**: Structure cross-chain transactions to take full advantage of atomic guarantees.
 
-**Handle Partial Failures Gracefully**: Implement robust retry logic for scenarios where individual rollup congestion or gas spikes cause transactions to fail.
+- **Handle Partial Failures Gracefully**: Implement robust retry logic for scenarios where individual rollup congestion or gas spikes cause transactions to fail.
 
-**Optimize Gas Across Chains**: Design transactions to minimize total cross-chain gas expenditure.
+- **Optimize Gas Across Chains**: Design transactions to minimize total cross-chain gas expenditure.
 
-**Test Cross-Chain Edge Cases**: Thoroughly test scenarios where state differs across rollups or where timing assumptions break down.
+- **Test Cross-Chain Edge Cases**: Thoroughly test scenarios where state differs across rollups or where timing assumptions break down.
 
-**Monitor Sequencer Health**: Track shared sequencer liveness and decentralization metrics.
+- **Monitor Sequencer Health**: Track shared sequencer liveness and decentralization metrics.
 
-**Leverage MEV Protection**: Use private mempools or encrypted submission when available to prevent front-running of cross-chain transactions.
+- **Leverage MEV Protection**: Use private mempools or encrypted submission when available to prevent front-running of cross-chain transactions.
 
 ## The Future of Shared Sequencing
 

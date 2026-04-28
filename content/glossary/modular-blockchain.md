@@ -79,14 +79,14 @@ The distinction between modular and monolithic architectures is fundamental:
 | **Resource Requirements** | Specialized per layer | Homogeneous (all nodes do everything) |
 | **Examples** | Ethereum + rollups, Celestia ecosystem | Bitcoin, Solana, Ethereum L1 (pre-rollup era) |
 
-**Monolithic Blockchain (Bitcoin)**:
+- **Monolithic Blockchain (Bitcoin)**:
 - Execution: Bitcoin Script (limited)
 - Settlement: Bitcoin PoW consensus
 - Consensus: Nakamoto consensus
 - Data Availability: Full nodes store all data
 - **All in one protocol**, limited flexibility.
 
-**Modular Stack (Ethereum Rollup)**:
+- **Modular Stack (Ethereum Rollup)**:
 - Execution: Arbitrum rollup (EVM execution)
 - Settlement: Ethereum L1 (fraud proof verification)
 - Consensus: Ethereum Beacon Chain (PoS)
@@ -97,39 +97,39 @@ The distinction between modular and monolithic architectures is fundamental:
 
 Modular blockchains offer several advantages:
 
-**Scalability**: Each layer can be optimized for its function. Execution layers can process many transactions per second, DA layers can handle large amounts of data, and settlement layers can focus on security.
+- **Scalability**: Each layer can be optimized for its function. Execution layers can process many transactions per second, DA layers can handle large amounts of data, and settlement layers can focus on security.
 
-**Flexibility**: Projects can choose the stack that fits their needs, such as EVM execution with Ethereum settlement or custom combinations.
+- **Flexibility**: Projects can choose the stack that fits their needs, such as EVM execution with Ethereum settlement or custom combinations.
 
-**Specialization**: Each layer can use the best available technology for its purpose without compromising on other functions.
+- **Specialization**: Each layer can use the best available technology for its purpose without compromising on other functions.
 
-**Resource Efficiency**: Nodes don't need to do everything. Validators on DA layers don't need to execute transactions, and rollup nodes don't need to store all data forever.
+- **Resource Efficiency**: Nodes don't need to do everything. Validators on DA layers don't need to execute transactions, and rollup nodes don't need to store all data forever.
 
-**Innovation Velocity**: Layers can be upgraded independently without coordinating the entire stack, enabling faster innovation.
+- **Innovation Velocity**: Layers can be upgraded independently without coordinating the entire stack, enabling faster innovation.
 
-**Sovereignty**: Execution layers can maintain their own governance, economics, and community while leveraging shared infrastructure for settlement and DA.
+- **Sovereignty**: Execution layers can maintain their own governance, economics, and community while leveraging shared infrastructure for settlement and DA.
 
-**Cost Efficiency**: Using efficient DA layers and execution layers can reduce costs compared to doing everything on expensive L1s.
+- **Cost Efficiency**: Using efficient DA layers and execution layers can reduce costs compared to doing everything on expensive L1s.
 
 ## The Modular Stack in Practice
 
 Here's how a typical modular blockchain stack operates:
 
-**User Action**:
+- **User Action**:
 1. User submits a transaction to a rollup (execution layer).
 2. Rollup sequencer executes the transaction and updates local state.
 3. User sees instant confirmation (soft commitment from sequencer).
 
-**Batch Posting**:
+- **Batch Posting**:
 4. Rollup batches many transactions and posts batch data to DA layer (Celestia/EigenDA).
 5. DA layer guarantees data availability and returns commitment.
 
-**Settlement**:
+- **Settlement**:
 6. Rollup submits state root + DA commitment to settlement layer (Ethereum L1).
 7. Settlement layer verifies proof (fraud or validity proof).
 8. State root is finalized on L1, giving the rollup Ethereum security.
 
-**Finality**:
+- **Finality**:
 9. After challenge period (Optimistic) or proof verification (ZK), transaction has L1 finality.
 10. User funds are secured by Ethereum consensus and can be withdrawn to L1.
 
@@ -139,31 +139,31 @@ This entire flow happens transparently. Users just see fast, cheap transactions 
 
 Several projects exemplify the modular approach:
 
-**Ethereum (Rollup-Centric)**:
+- **Ethereum (Rollup-Centric)**:
 - Settlement: Ethereum L1
 - Execution: Rollups (Arbitrum, Optimism, zkSync, Scroll, etc.)
 - Consensus: Beacon Chain (PoS)
 - DA: Ethereum blobs (EIP-4844) or external (Celestia, EigenDA).
 
-**Celestia Ecosystem**:
+- **Celestia Ecosystem**:
 - Settlement: Various (Ethereum, or rollups settle internally).
 - Execution: Sovereign rollups (custom VMs).
 - Consensus: Celestia (Tendermint).
 - DA: Celestia.
 
-**Cosmos Hub (Interchain Security)**:
+- **Cosmos Hub (Interchain Security)**:
 - Settlement: Cosmos Hub.
 - Execution: Consumer chains.
 - Consensus: Cosmos Hub validators.
 - DA: Consumer chains post to Hub.
 
-**Polygon 2.0**:
+- **Polygon 2.0**:
 - Settlement: Polygon AggLayer.
 - Execution: Polygon zkEVM chains.
 - Consensus: Ethereum.
 - DA: Celestia or Avail.
 
-**Fuel**:
+- **Fuel**:
 - Settlement: Ethereum L1.
 - Execution: Fuel (optimized for parallel execution).
 - Consensus: Fuel (specialized for UTXO model).
@@ -173,31 +173,31 @@ Several projects exemplify the modular approach:
 
 Modular architectures introduce new challenges:
 
-**Complexity**: Coordinating multiple layers adds complexity for developers and users. Understanding which layer handles what, how they interact, and where failures can occur is essential.
+- **Complexity**: Coordinating multiple layers adds complexity for developers and users. Understanding which layer handles what, how they interact, and where failures can occur is essential.
 
-**Composability**: Cross-layer and cross-rollup composability is harder than same-chain composability. Atomic transactions across layers require sophisticated protocols like shared sequencing.
+- **Composability**: Cross-layer and cross-rollup composability is harder than same-chain composability. Atomic transactions across layers require sophisticated protocols like shared sequencing.
 
-**Latency**: Multi-layer verification introduces latency. Transactions are instant on the execution layer but may take time to finalize on the settlement layer.
+- **Latency**: Multi-layer verification introduces latency. Transactions are instant on the execution layer but may take time to finalize on the settlement layer.
 
-**Trust Assumptions**: Each layer introduces trust assumptions. Using an external DA layer means trusting its consensus; using a rollup means trusting its sequencer, though L1 settlement provides ultimate security.
+- **Trust Assumptions**: Each layer introduces trust assumptions. Using an external DA layer means trusting its consensus; using a rollup means trusting its sequencer, though L1 settlement provides ultimate security.
 
-**Fragmentation**: Many execution layers can fragment liquidity, users, and developer mindshare. Standards and bridges help but don't fully solve this.
+- **Fragmentation**: Many execution layers can fragment liquidity, users, and developer mindshare. Standards and bridges help but don't fully solve this.
 
-**Security Boundaries**: Understanding where security comes from is non-obvious for users and requires education.
+- **Security Boundaries**: Understanding where security comes from is non-obvious for users and requires education.
 
-**Economic Sustainability**: Each layer needs sustainable economics (fees, incentives) without over-extracting from users.
+- **Economic Sustainability**: Each layer needs sustainable economics (fees, incentives) without over-extracting from users.
 
 ## Philosophical Debates
 
 The modular vs monolithic debate sparks discussions:
 
-**Pro-Modular Arguments**:
+- **Pro-Modular Arguments**:
 - Specialization beats generalization.
 - Scalability is difficult on monolithic chains without sacrificing decentralization.
 - Flexibility enables innovation without forking L1.
 - Resource efficiency allows light clients to verify without running full nodes.
 
-**Pro-Monolithic Arguments**:
+- **Pro-Monolithic Arguments**:
 - Simplicity is valuable for users and developers.
 - Synchronous composability is critical for DeFi.
 - Unified security is clearer.
@@ -210,17 +210,17 @@ The "right" answer likely depends on use case. High-value DeFi may prefer monoli
 
 The modular blockchain ecosystem creates specialized roles:
 
-**Modular Blockchain Architects**: Design blockchain stacks combining appropriate execution, settlement, consensus, and DA layers for specific use cases.
+- **Modular Blockchain Architects**: Design blockchain stacks combining appropriate execution, settlement, consensus, and DA layers for specific use cases.
 
-**Cross-Layer Protocol Engineers**: Build protocols that coordinate across layers (bridges, shared sequencing, cross-layer messaging).
+- **Cross-Layer Protocol Engineers**: Build protocols that coordinate across layers (bridges, shared sequencing, cross-layer messaging).
 
-**DA Layer Specialists**: Focus specifically on data availability systems.
+- **DA Layer Specialists**: Focus specifically on data availability systems.
 
-**Rollup Framework Engineers**: Build frameworks that make launching modular execution layers easy.
+- **Rollup Framework Engineers**: Build frameworks that make launching modular execution layers easy.
 
-**Interoperability Researchers**: Study and solve cross-layer composability and atomic cross-rollup transactions.
+- **Interoperability Researchers**: Study and solve cross-layer composability and atomic cross-rollup transactions.
 
-**Blockchain Economists**: Model economic flows across modular stacks.
+- **Blockchain Economists**: Model economic flows across modular stacks.
 
 This field rewards broad knowledge across multiple blockchain domains and the ability to think systemically about complex multi-layer architectures.
 
@@ -228,37 +228,37 @@ This field rewards broad knowledge across multiple blockchain domains and the ab
 
 When building modular blockchain applications:
 
-**Match Stack to Use Case**: High-value DeFi may want Ethereum settlement + Ethereum DA for maximum security. Gaming may prefer Celestia DA + custom execution for low costs.
+- **Match Stack to Use Case**: High-value DeFi may want Ethereum settlement + Ethereum DA for maximum security. Gaming may prefer Celestia DA + custom execution for low costs.
 
-**Plan for Async**: Design applications to handle asynchronous cross-layer operations gracefully.
+- **Plan for Async**: Design applications to handle asynchronous cross-layer operations gracefully.
 
-**Abstract Complexity**: Build UIs that hide the multi-layer complexity from users.
+- **Abstract Complexity**: Build UIs that hide the multi-layer complexity from users.
 
-**Monitor All Layers**: Implement monitoring across all layers of your stack to detect failures or latency spikes.
+- **Monitor All Layers**: Implement monitoring across all layers of your stack to detect failures or latency spikes.
 
-**Have Fallbacks**: Design for layer failures.
+- **Have Fallbacks**: Design for layer failures.
 
-**Standardize Interfaces**: Use standard interfaces to make switching layers easier if needed.
+- **Standardize Interfaces**: Use standard interfaces to make switching layers easier if needed.
 
-**Educate Users**: Help users understand the security model and where different guarantees come from.
+- **Educate Users**: Help users understand the security model and where different guarantees come from.
 
 ## The Future of Modular Blockchains
 
 Modular blockchains are becoming a dominant approach:
 
-**Standardization**: Emergence of standard interfaces for connecting different layers.
+- **Standardization**: Emergence of standard interfaces for connecting different layers.
 
-**Hyper-Specialization**: Layers become increasingly specialized.
+- **Hyper-Specialization**: Layers become increasingly specialized.
 
-**Cross-Stack Composability**: Protocols enable atomic cross-layer operations.
+- **Cross-Stack Composability**: Protocols enable atomic cross-layer operations.
 
-**Sovereign Application Chains**: Applications deploy their own execution layers with custom rules.
+- **Sovereign Application Chains**: Applications deploy their own execution layers with custom rules.
 
-**Modular Marketplaces**: Developers choose from competitive marketplaces of DA layers, sequencing networks, and settlement layers.
+- **Modular Marketplaces**: Developers choose from competitive marketplaces of DA layers, sequencing networks, and settlement layers.
 
-**Ethereum as Settlement Hub**: Ethereum solidifies its role as the primary settlement layer for modular stacks.
+- **Ethereum as Settlement Hub**: Ethereum solidifies its role as the primary settlement layer for modular stacks.
 
-**Blurring Lines**: Monolithic chains adopt modular features, and modular stacks become more integrated.
+- **Blurring Lines**: Monolithic chains adopt modular features, and modular stacks become more integrated.
 
 The modular blockchain concept has gained traction in the Ethereum ecosystem and is spreading to other ecosystems. The future of blockchain is modular, flexible, and specialized.
 

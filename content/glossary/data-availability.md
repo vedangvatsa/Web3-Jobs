@@ -15,13 +15,13 @@ Data Availability refers to the guarantee that all data required to verify block
 
 Key reasons:
 
-**Verifiability**: Users can verify state transitions only if data is available.
+- **Verifiability**: Users can verify state transitions only if data is available.
 
-**Fraud Proofs**: Optimistic rollups need data to detect fraud.
+- **Fraud Proofs**: Optimistic rollups need data to detect fraud.
 
-**Exit Safety**: Users can exit L2 only if they can reconstruct state.
+- **Exit Safety**: Users can exit L2 only if they can reconstruct state.
 
-**Censorship Resistance**: Hidden data enables censorship and theft.
+- **Censorship Resistance**: Hidden data enables censorship and theft.
 
 Data availability is fundamental for blockchain security.
 
@@ -29,13 +29,13 @@ Data availability is fundamental for blockchain security.
 
 Rollup model:
 
-**Transaction Data**: Rollups post transaction data to L1 (calldata) for data availability.
+- **Transaction Data**: Rollups post transaction data to L1 (calldata) for data availability.
 
-**State Roots**: Rollups publish state roots for verification.
+- **State Roots**: Rollups publish state roots for verification.
 
-**Proofs**: ZK rollups provide validity proofs, but still need data availability for full state.
+- **Proofs**: ZK rollups provide validity proofs, but still need data availability for full state.
 
-**Optimistic Rollups**: Need data availability to allow fraud proofs.
+- **Optimistic Rollups**: Need data availability to allow fraud proofs.
 
 Data availability underpins rollup security.
 
@@ -43,13 +43,13 @@ Data availability underpins rollup security.
 
 Efficiency technique:
 
-**Sampling**: Validators sample random data chunks.
+- **Sampling**: Validators sample random data chunks.
 
-**Probability**: High probability of detecting missing data.
+- **Probability**: High probability of detecting missing data.
 
-**Scalability**: Allows large data without full download.
+- **Scalability**: Allows large data without full download.
 
-**Celestia**: Uses data availability sampling to scale.
+- **Celestia**: Uses data availability sampling to scale.
 
 Data availability sampling improves scalability.
 
@@ -57,13 +57,13 @@ Data availability sampling improves scalability.
 
 Dedicated layers:
 
-**Celestia**: Modular data availability layer using data availability sampling.
+- **Celestia**: Modular data availability layer using data availability sampling.
 
-**EigenDA**: Ethereum-based data availability layer using restaking.
+- **EigenDA**: Ethereum-based data availability layer using restaking.
 
-**Avail**: Data availability layer focusing on low-cost data.
+- **Avail**: Data availability layer focusing on low-cost data.
 
-**Ethereum**: L1 provides data availability via calldata.
+- **Ethereum**: L1 provides data availability via calldata.
 
 Data availability layers provide scalable data availability.
 
@@ -71,13 +71,13 @@ Data availability layers provide scalable data availability.
 
 Considerations:
 
-**Cost**: Posting data to Ethereum can be expensive.
+- **Cost**: Posting data to Ethereum can be expensive.
 
-**Security**: Data availability layer security is critical for rollup safety.
+- **Security**: Data availability layer security is critical for rollup safety.
 
-**Latency**: Data availability layers can add latency to rollups.
+- **Latency**: Data availability layers can add latency to rollups.
 
-**Censorship**: A centralized data availability provider can censor data.
+- **Censorship**: A centralized data availability provider can censor data.
 
 Data availability design has tradeoffs.
 
@@ -85,13 +85,13 @@ Data availability design has tradeoffs.
 
 Threats:
 
-**Data Withholding**: A sequencer hides data to prevent exits.
+- **Data Withholding**: A sequencer hides data to prevent exits.
 
-**Censorship**: A data availability provider refuses to publish data.
+- **Censorship**: A data availability provider refuses to publish data.
 
-**Fraudulent State**: Without data availability, attackers can create invalid states.
+- **Fraudulent State**: Without data availability, attackers can create invalid states.
 
-**Availability Failure**: A data availability outage halts rollups.
+- **Availability Failure**: A data availability outage halts rollups.
 
 Data availability security is critical.
 
@@ -111,23 +111,23 @@ Data availability infrastructure roles:
 
 Using data availability layers:
 
-**Understand Trust**: Know the data availability layer security model.
+- **Understand Trust**: Know the data availability layer security model.
 
-**Redundancy**: Consider multiple data availability sources.
+- **Redundancy**: Consider multiple data availability sources.
 
-**Monitor Availability**: Track uptime and data publication.
+- **Monitor Availability**: Track uptime and data publication.
 
-**Audit**: Audit data availability code and protocols.
+- **Audit**: Audit data availability code and protocols.
 
 ## The Future of Data Availability
 
 Trends:
 
-**Cheaper DA**: Proto-danksharding and blob data reduce costs.
+- **Cheaper DA**: Proto-danksharding and blob data reduce costs.
 
-**Modular Stack**: More modular L2 stacks with dedicated data availability.
+- **Modular Stack**: More modular L2 stacks with dedicated data availability.
 
-**Cross-DA Bridging**: Interoperable data availability layers.
+- **Cross-DA Bridging**: Interoperable data availability layers.
 
 ## Ensure Verifiable State
 

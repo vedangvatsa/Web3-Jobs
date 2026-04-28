@@ -15,13 +15,13 @@ Proto-Danksharding refers to Ethereum's EIP-4844 upgrade that introduced blob-ca
 
 Core mechanics:
 
-**Blob Transactions**: New transaction type carrying data blobs.
+- **Blob Transactions**: New transaction type carrying data blobs.
 
-**Separate Fee Market**: Blob fees separate from regular gas fees.
+- **Separate Fee Market**: Blob fees separate from regular gas fees.
 
-**Temporary Storage**: Blobs stored temporarily, not permanently in state.
+- **Temporary Storage**: Blobs stored temporarily, not permanently in state.
 
-**DA for Rollups**: Rollups post data in blobs instead of calldata.
+- **DA for Rollups**: Rollups post data in blobs instead of calldata.
 
 Proto-danksharding reduces data availability costs.
 
@@ -29,11 +29,11 @@ Proto-danksharding reduces data availability costs.
 
 Impact:
 
-**Lower Fees**: Blob data is cheaper, lowering layer 2 fees.
+- **Lower Fees**: Blob data is cheaper, lowering layer 2 fees.
 
-**Higher Throughput**: More data capacity for rollups.
+- **Higher Throughput**: More data capacity for rollups.
 
-**Scalability**: Rollups can scale without saturating layer 1.
+- **Scalability**: Rollups can scale without saturating layer 1.
 
 Proto-danksharding directly benefits layer 2 ecosystems.
 
@@ -41,11 +41,11 @@ Proto-danksharding directly benefits layer 2 ecosystems.
 
 Key features:
 
-**New Blob Space**: Separate data space for rollups.
+- **New Blob Space**: Separate data space for rollups.
 
-**KZG Commitments**: Cryptographic commitments to blob data.
+- **KZG Commitments**: Cryptographic commitments to blob data.
 
-**Blob Fee Market**: Independent fee market for blob data.
+- **Blob Fee Market**: Independent fee market for blob data.
 
 EIP-4844 is core to proto-danksharding.
 
@@ -53,11 +53,11 @@ EIP-4844 is core to proto-danksharding.
 
 Considerations:
 
-**Temporary Data**: Blob data is pruned after a set period.
+- **Temporary Data**: Blob data is pruned after a set period.
 
-**Node Requirements**: Nodes must handle blob data temporarily.
+- **Node Requirements**: Nodes must handle blob data temporarily.
 
-**Complexity**: Adds new transaction type and fee market.
+- **Complexity**: Adds new transaction type and fee market.
 
 Proto-danksharding adds complexity but offers large scaling benefits.
 
@@ -75,21 +75,21 @@ Scaling roles:
 
 Building with blobs:
 
-**Track Blob Fees**: Monitor the blob fee market.
+- **Track Blob Fees**: Monitor the blob fee market.
 
-**Optimize Data**: Compress rollup data for blob efficiency.
+- **Optimize Data**: Compress rollup data for blob efficiency.
 
-**Handle Pruning**: Design rollups assuming blob data is temporary.
+- **Handle Pruning**: Design rollups assuming blob data is temporary.
 
 ## The Future of Danksharding
 
 Trends:
 
-**Full Danksharding**: More blob capacity and sampling.
+- **Full Danksharding**: More blob capacity and sampling.
 
-**DA Sampling**: Data availability sampling will become key for scalability.
+- **DA Sampling**: Data availability sampling will become key for scalability.
 
-**More Rollups**: Rollup adoption accelerates with cheaper data availability.
+- **More Rollups**: Rollup adoption accelerates with cheaper data availability.
 
 ## Cheap Data Availability for Rollups
 
