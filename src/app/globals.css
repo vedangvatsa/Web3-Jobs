@@ -71,11 +71,6 @@ body {
   }
   body {
     @apply bg-background text-foreground font-body;
-    background-image: radial-gradient(circle at 10% 20%, hsl(var(--primary) / 0.1), transparent 30%),
-                      radial-gradient(circle at 80% 70%, hsl(var(--accent) / 0.1), transparent 30%);
-    background-size: 200% 200%;
-    animation: gradient-animation 25s ease infinite;
-    background-attachment: fixed;
   }
 }
 
@@ -125,12 +120,7 @@ body {
     background-color: hsl(var(--muted) / 0.3);
   }
 
-  /* Serif font for article headings */
-  .article-prose h2,
-  .article-prose h3,
-  .article-prose h4 {
-    font-family: 'Georgia', 'Times New Roman', serif;
-  }
+  /* Serif font for article headings removed to enforce flat, minimal typography */
 
   /* Blockquote: elegant editorial callout */
   .article-prose blockquote {

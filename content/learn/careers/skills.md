@@ -4,7 +4,7 @@ description: "The actual skills Web3 job descriptions ask for, based on real pos
 order: 3
 readTime: "7 min"
 difficulty: "beginner"
-prerequisites: ["roles-in-web3"]
+prerequisites: ["roles"]
 quiz:
   - question: "What programming language do most Ethereum smart contract jobs require?"
     options:

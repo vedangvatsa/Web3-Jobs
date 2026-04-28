@@ -4,7 +4,7 @@ description: "How to build a portfolio, GitHub presence, and on-chain identity t
 order: 4
 readTime: "7 min"
 difficulty: "beginner"
-prerequisites: ["skills-employers-want"]
+prerequisites: ["skills"]
 quiz:
   - question: "What is the most important thing for a Web3 portfolio?"
     options:

@@ -4,7 +4,7 @@ description: "Where DeFi yields actually come from and how to spot unsustainable
 order: 3
 readTime: "8 min"
 difficulty: "intermediate"
-prerequisites: ["lending-and-borrowing"]
+prerequisites: ["lending"]
 quiz:
   - question: "Where does sustainable yield in DeFi come from?"
     options:

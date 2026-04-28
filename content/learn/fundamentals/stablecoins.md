@@ -4,7 +4,7 @@ description: "How USDC, USDT, and DAI maintain their $1 peg and why they matter 
 order: 8
 readTime: "9 min"
 difficulty: "beginner"
-prerequisites: ["what-are-tokens"]
+prerequisites: ["tokens"]
 quiz:
   - question: "Why do stablecoins exist?"
     options:

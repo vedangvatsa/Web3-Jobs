@@ -4,7 +4,7 @@ description: "Reentrancy, access control, and how to write secure Solidity code.
 order: 4
 readTime: "9 min"
 difficulty: "advanced"
-prerequisites: ["understanding-erc20-code"]
+prerequisites: ["erc20"]
 quiz:
   - question: "What is a reentrancy attack?"
     options:

@@ -4,7 +4,7 @@ description: "Smart contract bugs, oracle manipulation, and how to evaluate prot
 order: 4
 readTime: "8 min"
 difficulty: "intermediate"
-prerequisites: ["yield-farming-explained"]
+prerequisites: ["yield"]
 quiz:
   - question: "What is an oracle manipulation attack?"
     options:

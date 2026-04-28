@@ -4,7 +4,7 @@ description: "A complete overview of decentralized finance: DEXs, lending, yield
 order: 14
 readTime: "11 min"
 difficulty: "beginner"
-prerequisites: ["daos-internet-organizations"]
+prerequisites: ["daos"]
 quiz:
   - question: "What is DeFi?"
     options:
