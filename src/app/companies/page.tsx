@@ -124,7 +124,7 @@ export default async function CompaniesPage() {
         <Card className="group hover:border-primary transition-all h-full bg-muted/20">
          <CardContent className="p-5">
           <div className="flex items-start justify-between gap-2 mb-3">
-           <h3 className="font-semibold group-hover:text-primary transition-colors line-clamp-1">
+           <h3 className="font-semibold group-hover:text-foreground transition-colors line-clamp-1">
             {company.name}
            </h3>
            <Badge variant="default" className="shrink-0 text-xs">

@@ -212,10 +212,10 @@ export default function ResourcesPage() {
           </div>
 
           {/* CTA */}
-          <Card className="mt-16 max-w-4xl mx-auto bg-primary/5 border-primary/20">
+          <Card className="mt-16 max-w-4xl mx-auto bg-muted/30 border shadow-none">
             <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
               <div>
-                <h3 className="text-lg font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
+                <h3 className="text-lg font-bold text-foreground mb-1">Looking for a Web3 Job?</h3>
                 <p className="text-sm text-muted-foreground">Now that you have the resources, find the perfect role on the #1 Web3 job board.</p>
               </div>
               <Link href="/jobs" className="flex-shrink-0">

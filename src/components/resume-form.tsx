@@ -522,11 +522,11 @@ export function ResumeForm() {
        </CardContent>
       </Card>
 
-      <Card className="col-span-full bg-primary/5 border-primary/20">
+      <Card className="col-span-full bg-muted/30 border shadow-none">
        <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         
         <div>
-         <h3 className="text-xl font-bold text-primary mb-1">
+         <h3 className="text-xl font-bold text-foreground mb-1">
           Ready to Apply?
          </h3>
          <p className="text-muted-foreground">
