@@ -13,10 +13,24 @@ interface Props {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
  const category = getCategory(params.category);
  if (!category) return {};
+ const pageTitle = `${category.title} - Learn Web3`;
+ const ogImageUrl = `/api/og?type=article&title=${encodeURIComponent(category.title)}&category=Learn%20Web3`;
  return {
-  title: `${category.title} - Learn Web3`,
+  title: pageTitle,
   description: category.description,
   alternates: { canonical: `/learn/${params.category}` },
+  openGraph: {
+   title: pageTitle,
+   description: category.description,
+   url: `https://hashtagweb3.com/learn/${params.category}`,
+   images: [{ url: ogImageUrl, width: 1200, height: 630, alt: category.title }],
+  },
+  twitter: {
+   card: 'summary_large_image',
+   title: pageTitle,
+   description: category.description,
+   images: [ogImageUrl],
+  },
  };
 }
 

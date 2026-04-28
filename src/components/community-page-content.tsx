@@ -116,10 +116,10 @@ const mediaLogos = [
   { name: 'Outlook', src: '/logo/media/outlook.png', alt: 'Outlook logo' },
   { name: 'TheStreet', src: '/logo/media/thestreet.svg', alt: 'TheStreet logo' },
   { name: 'Yahoo', src: '/logo/media/yahoo.png', alt: 'Yahoo logo' },
-  { name: 'Barcelona', src: '/logo/media/barcelona.png', alt: 'Barcelona logo' },
-  { name: 'British', src: '/logo/media/british.png', alt: 'British logo' },
-  { name: 'England', src: '/logo/media/england.png', alt: 'England logo' },
-  { name: 'Korean', src: '/logo/media/korean.png', alt: 'Korean logo' },
+  { name: 'Barcelona', src: '/logo/media/barcelona.png', alt: 'Barcelona blockchain media publication logo' },
+  { name: 'British', src: '/logo/media/british.png', alt: 'British blockchain media publication logo' },
+  { name: 'England', src: '/logo/media/england.png', alt: 'England blockchain media publication logo' },
+  { name: 'Korean', src: '/logo/media/korean.png', alt: 'Korean blockchain media publication logo' },
 ];
 
 const hiredCompanies = [
@@ -201,24 +201,24 @@ const caseStudies = [
 ]
 
 const communityPhotos = [
-  { src: '/logo/gallery/2025-08-14%2018.05.08-min.jpg', alt: 'Hashtag Web3 community event photo 1' },
-  { src: '/logo/gallery/2025-08-14%2018.05.12-min.jpg', alt: 'Hashtag Web3 community event photo 2' },
-  { src: '/logo/gallery/2025-08-14%2018.05.15-min.jpg', alt: 'Hashtag Web3 community event photo 3' },
-  { src: '/logo/gallery/2025-08-14%2018.05.18-min.jpg', alt: 'Hashtag Web3 community event photo 4' },
-  { src: '/logo/gallery/2025-08-14%2018.05.20-min.jpg', alt: 'Hashtag Web3 community event photo 5' },
-  { src: '/logo/gallery/2025-08-14%2018.05.24-min.jpg', alt: 'Hashtag Web3 community event photo 6' },
-  { src: '/logo/gallery/2025-08-14%2018.05.27-min.jpg', alt: 'Hashtag Web3 community event photo 7' },
-  { src: '/logo/gallery/2025-08-14%2018.05.30-min.jpg', alt: 'Hashtag Web3 community event photo 8' },
-  { src: '/logo/gallery/2025-08-14%2018.05.33-min.jpg', alt: 'Hashtag Web3 community event photo 9' },
-  { src: '/logo/gallery/2025-08-14%2018.05.35-min.jpg', alt: 'Hashtag Web3 community event photo 10' },
-  { src: '/logo/gallery/2025-08-14%2018.05.44-min.jpg', alt: 'Hashtag Web3 community event photo 11' },
-  { src: '/logo/gallery/2025-08-14%2018.05.47-min.jpg', alt: 'Hashtag Web3 community event photo 12' },
-  { src: '/logo/gallery/2025-08-14%2018.05.50-min.jpg', alt: 'Hashtag Web3 community event photo 13' },
-  { src: '/logo/gallery/2025-08-14%2022.30.59.jpg', alt: 'Hashtag Web3 community event photo 14' },
-  { src: '/logo/gallery/2025-08-14%2022.31.02.jpg', alt: 'Hashtag Web3 community event photo 15' },
-  { src: '/logo/gallery/2025-08-14%2022.32.30.jpg', alt: 'Hashtag Web3 community event photo 16' },
-  { src: '/logo/gallery/2025-08-14%2022.38.14.jpg', alt: 'Hashtag Web3 community event photo 17' },
-  { src: '/logo/gallery/2025-08-14%2022.38.17.jpg', alt: 'Hashtag Web3 community event photo 18' }
+  { src: '/logo/gallery/2025-08-14%2018.05.08-min.jpg', alt: 'Hashtag Web3 community networking event with Web3 professionals' },
+  { src: '/logo/gallery/2025-08-14%2018.05.12-min.jpg', alt: 'Attendees at Hashtag Web3 blockchain industry meetup' },
+  { src: '/logo/gallery/2025-08-14%2018.05.15-min.jpg', alt: 'Panel discussion at Hashtag Web3 crypto conference event' },
+  { src: '/logo/gallery/2025-08-14%2018.05.18-min.jpg', alt: 'Speakers presenting at Hashtag Web3 Web3 careers event' },
+  { src: '/logo/gallery/2025-08-14%2018.05.20-min.jpg', alt: 'Hashtag Web3 community members at blockchain summit' },
+  { src: '/logo/gallery/2025-08-14%2018.05.24-min.jpg', alt: 'Networking session at Hashtag Web3 decentralized finance meetup' },
+  { src: '/logo/gallery/2025-08-14%2018.05.27-min.jpg', alt: 'Group photo of Hashtag Web3 community at industry conference' },
+  { src: '/logo/gallery/2025-08-14%2018.05.30-min.jpg', alt: 'Web3 founders and developers at Hashtag Web3 event' },
+  { src: '/logo/gallery/2025-08-14%2018.05.33-min.jpg', alt: 'Hashtag Web3 partner showcase at crypto industry event' },
+  { src: '/logo/gallery/2025-08-14%2018.05.35-min.jpg', alt: 'Live demo at Hashtag Web3 blockchain technology event' },
+  { src: '/logo/gallery/2025-08-14%2018.05.44-min.jpg', alt: 'Audience at Hashtag Web3 keynote presentation' },
+  { src: '/logo/gallery/2025-08-14%2018.05.47-min.jpg', alt: 'Hashtag Web3 team at international Web3 conference' },
+  { src: '/logo/gallery/2025-08-14%2018.05.50-min.jpg', alt: 'Collaborative workshop at Hashtag Web3 developer event' },
+  { src: '/logo/gallery/2025-08-14%2022.30.59.jpg', alt: 'Evening networking at Hashtag Web3 blockchain mixer' },
+  { src: '/logo/gallery/2025-08-14%2022.31.02.jpg', alt: 'Fireside chat at Hashtag Web3 crypto leaders meetup' },
+  { src: '/logo/gallery/2025-08-14%2022.32.30.jpg', alt: 'Hashtag Web3 community gathering at Web3 ecosystem event' },
+  { src: '/logo/gallery/2025-08-14%2022.38.14.jpg', alt: 'Award ceremony at Hashtag Web3 annual community celebration' },
+  { src: '/logo/gallery/2025-08-14%2022.38.17.jpg', alt: 'Hashtag Web3 community members celebrating at blockchain event' }
 ];
 
 const whatsappGroups = [
@@ -553,7 +553,7 @@ export function CommunityPageContent({
             <p className="font-medium italic text-lg">“{testimonial.quote}”</p>
           </CardContent>
           <CardFooter className="flex-col text-center pt-4 border-t bg-secondary/50">
-            <Image src={testimonial.image} alt={`Photo of ${testimonial.author}`} width={64} height={64} className="rounded-full mx-auto mb-4 object-cover" />
+            <Image src={testimonial.image} alt={`Photo of ${testimonial.author}, ${testimonial.title} — Hashtag Web3 testimonial`} width={64} height={64} className="rounded-full mx-auto mb-4 object-cover" />
             <p className="font-semibold">{testimonial.author}</p>
             <p className="text-sm text-muted-foreground">{testimonial.title}</p>
           </CardFooter>

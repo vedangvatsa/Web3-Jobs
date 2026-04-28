@@ -15,10 +15,25 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
  const lesson = getLesson(params.category, params.slug);
  if (!lesson) return {};
  const category = getCategory(params.category);
+ const pageTitle = `${lesson.title} - ${category?.title || 'Learn'}`;
+ const ogImageUrl = `/api/og?type=article&title=${encodeURIComponent(lesson.title)}&category=${encodeURIComponent(category?.title || 'Learn Web3')}`;
  return {
-  title: `${lesson.title} - ${category?.title || 'Learn'} | Hashtag Web3`,
+  title: `${pageTitle} | Hashtag Web3`,
   description: lesson.description,
   alternates: { canonical: `/learn/${params.category}/${params.slug}` },
+  openGraph: {
+   title: pageTitle,
+   description: lesson.description,
+   url: `https://hashtagweb3.com/learn/${params.category}/${params.slug}`,
+   type: 'article',
+   images: [{ url: ogImageUrl, width: 1200, height: 630, alt: lesson.title }],
+  },
+  twitter: {
+   card: 'summary_large_image',
+   title: pageTitle,
+   description: lesson.description,
+   images: [ogImageUrl],
+  },
  };
 }
 
