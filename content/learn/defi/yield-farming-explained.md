@@ -115,7 +115,3 @@ A "yield farmer" is someone who constantly moves their capital between protocols
 - Real yield comes from trading fees, borrowing interest, and network staking.
 - Inflationary yield comes from protocols printing their own tokens to incentivize deposits. It is rarely sustainable.
 - High APYs (over 20%) almost always involve significant token inflation or extreme risk.
-
-## Next steps
-
-1. **DeFi Risks and Hacks** — understanding smart contract vulnerabilities and how to stay safe

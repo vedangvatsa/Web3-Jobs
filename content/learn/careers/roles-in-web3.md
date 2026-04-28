@@ -114,8 +114,3 @@ quiz:
 - Technical roles require Solidity/Rust/TypeScript. Non-technical roles require communication and crypto curiosity.
 - Community management is uniquely important because users are also governance participants.
 - Salaries are competitive with Web2 tech companies.
-
-## Next steps
-
-1. **Skills Employers Want** — the specific technical and soft skills from real job descriptions
-2. **Building Your Web3 Profile** — how to position yourself

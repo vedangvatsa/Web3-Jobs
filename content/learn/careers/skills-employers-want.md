@@ -91,8 +91,3 @@ If you can explain DeFi to a non-technical person, you are more valuable than so
 - Non-engineers: understand tokens, DeFi, and governance at a conversational level.
 - Self-direction and written communication are the top soft skills.
 - Being able to explain complex concepts simply is a competitive advantage.
-
-## Next steps
-
-1. **Building Your Web3 Profile** — portfolio, GitHub, and on-chain presence
-2. **Your Web3 Resume** — how to translate Web2 experience for Web3

@@ -192,8 +192,3 @@ Ethereum has real limits:
 - Every operation costs gas, paid in ETH.
 - ERC-20 (fungible tokens) and ERC-721 (NFTs) are the two main token standards.
 - Ethereum is slow and expensive on its own, which is why Layer 2 networks exist.
-
-## Next steps
-
-1. **Wallets and Private Keys** — how to hold your own ETH and interact with smart contracts
-2. **Making Your First Transaction** — send ETH on a test network, step by step

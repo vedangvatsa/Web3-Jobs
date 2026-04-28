@@ -146,7 +146,3 @@ contract OwnedStorage {
 - `public` variables automatically get read functions.
 - `msg.sender` identifies who is calling the contract.
 - `require` is used to enforce rules and access control.
-
-## Next steps
-
-1. **Understanding ERC-20 Code** — how standard tokens are written in Solidity

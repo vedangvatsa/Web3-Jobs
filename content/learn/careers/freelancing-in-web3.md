@@ -105,7 +105,3 @@ Set up invoicing: tools like Request Network and Utopia Labs are designed for We
 - DAO contributor programs offer regular paid work.
 - Grants fund larger projects ($5K-500K) that benefit the ecosystem.
 - Payments are in stablecoins — instant, global, no bank required.
-
-## Next steps
-
-1. **Landing Your First Role** — how to go from freelancing to full-time

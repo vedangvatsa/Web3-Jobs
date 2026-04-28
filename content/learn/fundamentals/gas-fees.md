@@ -128,8 +128,3 @@ Since EIP-1559 launched, over 4 million ETH has been burned (worth billions of d
 - Fees spike during high-demand events (NFT mints, market crashes).
 - Layer 2 networks are 10-100x cheaper than Ethereum mainnet.
 - Use gas trackers and time transactions to save money.
-
-## Next steps
-
-1. **Layer 2: Making Blockchains Fast** — how Layer 2 networks solve the cost problem
-2. **NFTs: Digital Ownership** — understand non-fungible tokens
