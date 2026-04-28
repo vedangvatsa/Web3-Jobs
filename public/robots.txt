@@ -1,8 +1,20 @@
+# robots.txt — Hashtag Web3
+# https://hashtagweb3.com
+
 User-agent: *
 Allow: /
+Disallow: /_next/
+Disallow: /api/
 
-# AI crawlers — allow for citation and GEO visibility
+# ─── AI SEARCH CRAWLERS (allowed — for GEO/AEO visibility) ───
+
 User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
 Allow: /
 
 User-agent: ClaudeBot
@@ -14,23 +26,110 @@ Allow: /
 User-agent: GoogleOther
 Allow: /
 
-User-agent: OAI-SearchBot
+User-agent: Google-Extended
 Allow: /
 
-User-agent: ChatGPT-User
+User-agent: Googlebot
 Allow: /
 
 User-agent: Bingbot
 Allow: /
 
-# Allow all training crawlers to maximize GenAI visibility
-User-agent: CCBot
+User-agent: YandexBot
 Allow: /
 
-User-agent: anthropic-ai
+User-agent: DuckDuckBot
 Allow: /
 
-User-agent: cohere-ai
+User-agent: Applebot
 Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: Timpibot
+Allow: /
+
+User-agent: Phind
+Allow: /
+
+User-agent: Kagibot
+Allow: /
+
+User-agent: Brave
+Allow: /
+
+# ─── BLOCK AGGRESSIVE SCRAPERS ───
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+User-agent: python-requests
+Disallow: /
+
+# ─── DISCOVERY FILES ───
 
 Sitemap: https://hashtagweb3.com/sitemap.xml
