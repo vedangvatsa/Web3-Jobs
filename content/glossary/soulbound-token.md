@@ -97,13 +97,13 @@ Privacy is critical for soulbound token adoption.
 
 Soulbound tokens create roles:
 
-**Identity Researchers** studying soulbound tokens.
+- **Identity Researchers** studying soulbound tokens.
 
-**Protocol Designers** designing credential systems.
+- **Protocol Designers** designing credential systems.
 
-**Smart Contract Engineers** implementing soulbound tokens.
+- **Smart Contract Engineers** implementing soulbound tokens.
 
-**Privacy Experts** adding privacy to soulbound tokens.
+- **Privacy Experts** adding privacy to soulbound tokens.
 
 ## Best Practices
 

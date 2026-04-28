@@ -87,7 +87,7 @@ Spend 4-8 weeks acquiring knowledge about blockchain fundamentals. Focus on:
 Tailor your learning to the specific role you aim for:
 - **Engineers:** Focus on [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Study token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain insights into market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Gain insights into market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Learn community building, Discord management, and governance processes.
 
 ### Step 3: Build Your Portfolio
@@ -122,7 +122,7 @@ Alex, a backend engineer with five years of experience at a leading tech company
 
 ### Product Manager Transition
 
-Jessica, a product manager from a traditional finance background, utilized her expertise in financial products to pivot into DeFi. Her fusion of finance knowledge and Web3 technology made her an attractive candidate. Within a short period, she secured a role at a major DeFi protocol.
+Jessica, a product manager from a traditional finance background, used her expertise in financial products to pivot into DeFi. Her fusion of finance knowledge and Web3 technology made her an attractive candidate. Within a short period, she secured a role at a major DeFi protocol.
 
 ### Career Changer Success Story
 

@@ -69,7 +69,7 @@ Real-world vesting schedules show the variation:
 
 - **Ethereum (ETH)**: No formal vesting, all genesis ETH immediately available. Early miners received rewards over time through mining, creating natural vesting.
 
-- **Paradigm Fund**: Many VC crypto funds now require portfolio companies to implement thoughtful vesting. Standard is 4-year vesting with 1-year cliff for team allocations.
+- **Model Fund**: Many VC crypto funds now require portfolio companies to implement thoughtful vesting. Standard is 4-year vesting with 1-year cliff for team allocations.
 
 - **Liquity (LQTY)**: 4-year vesting for most allocations. After a 1-year cliff, 75% released linearly, 25% released continuously.
 
@@ -144,15 +144,15 @@ Due diligence includes verifying vesting is actually enforced by smart contracts
 
 Token design and vesting create roles:
 
-**Tokenomics Specialists** design vesting schedules and overall token economics.
+- **Tokenomics Specialists** design vesting schedules and overall token economics.
 
-**Protocol Economists** structure vesting as part of comprehensive incentive design.
+- **Protocol Economists** structure vesting as part of full incentive design.
 
-**Smart Contract Engineers** implement vesting mechanisms and related token infrastructure.
+- **Smart Contract Engineers** implement vesting mechanisms and related token infrastructure.
 
-**Compliance Officers** ensure vesting complies with regulations, particularly in jurisdictions with securities laws.
+- **Compliance Officers** ensure vesting complies with regulations, particularly in jurisdictions with securities laws.
 
-**Community Managers** explain vesting to communities and address concerns.
+- **Community Managers** explain vesting to communities and address concerns.
 
 ## Best Practices
 

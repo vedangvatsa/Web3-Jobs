@@ -44,7 +44,7 @@ To effectively manage the complexities of Web3, regulatory experts must master v
 
 3. **Establish a Public Presence:** The regulatory environment evolves rapidly. Create a blog, newsletter, or podcast to analyze and comment on recent developments. This public engagement serves as a powerful [portfolio](/building-web3-portfolio).
 
-4. **Network with Industry Leaders:** Building relationships with founders and legal teams is crucial for identifying job opportunities. Actively participate in Discord communities and governance discussions focusing on risk and compliance.
+4. **Network with Industry Leaders:** Building relationships with founders and legal teams is important for identifying job opportunities. Actively participate in Discord communities and governance discussions focusing on risk and compliance.
 
 For individuals passionate about law, policy, and technology, a career as a Web3 regulatory expert provides an opportunity to contribute to critical discussions about balancing innovation and the necessity for a secure financial system.
 
@@ -162,7 +162,7 @@ Historically, bear markets present excellent opportunities to enter Web3. As spe
 
 ## Key Takeaways
 
-- Web3 offers attractive compensation packages above Web2 rates, rapid career growth, and the chance to contribute to innovative technology reshaping finance, governance, and digital ownership.
+- Web3 offers attractive compensation packages above Web2 rates, rapid career growth, and the chance to contribute to new technology reshaping finance, governance, and digital ownership.
 - Transitioning to Web3 typically takes a few months of dedicated effort, with engineers and product managers often making the swiftest moves due to their transferable skills.
 - Existing domain expertise is highly valuable in Web3; rather than starting anew, focus on adding blockchain-specific context (wallets, smart contracts, tokenomics, DAOs) to your existing skills.
 - Networking through Discord communities and active participation on social media, combined with visible portfolio projects, often yields better results than traditional certifications when pursuing Web3 roles.

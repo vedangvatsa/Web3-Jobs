@@ -86,13 +86,13 @@ Off-chain protocols solve double spending without waiting for blockchain confirm
 
 Double spending prevention creates roles:
 
-**Security Researchers** identifying double spending vulnerabilities earn competitive salaries.
+- **Security Researchers** identifying double spending vulnerabilities earn competitive salaries.
 
-**Consensus Protocol Designers** designing double spending resistant mechanisms earn competitive salaries.
+- **Consensus Protocol Designers** designing double spending resistant mechanisms earn competitive salaries.
 
-**Smart Contract Auditors** identifying reentrancy and similar bugs earn competitive salaries.
+- **Smart Contract Auditors** identifying reentrancy and similar bugs earn competitive salaries.
 
-**Cryptographers** developing double spending resistant schemes earn competitive salaries.
+- **Cryptographers** developing double spending resistant schemes earn competitive salaries.
 
 ## Best Practices
 

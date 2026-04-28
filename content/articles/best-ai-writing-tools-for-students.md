@@ -15,7 +15,7 @@ This article introduces some of the best AI writing tools available for students
 
 ### Benefits of AI Writing Tools for Students
 
-Understanding the capabilities of AI writing tools is crucial. These tools do not write essays for you but act as assistants in different stages of the writing process. Here are specific ways they can aid students:
+Understanding the capabilities of AI writing tools is important. These tools do not write essays for you but act as assistants in different stages of the writing process. Here are specific ways they can aid students:
 
 *   **Brainstorming and Idea Generation**: When faced with a blank page, AI can help generate ideas, different angles for your topic, or potential thesis statements. For example, a student writing about climate change might receive suggestions on various impacts such as economic effects, social implications, or technological solutions.
 
@@ -35,7 +35,7 @@ Students must never copy and paste text directly from AI tools to submit as thei
 
 ChatGPT stands out as one of the most versatile AI writing tools available. Its free version delivers impressive capabilities, while the paid version grants access to advanced models.
 
-**Utilizing ChatGPT Effectively**
+**Using ChatGPT Effectively**
 
 *   **As a Brainstorming Partner**: 
     *   **Example Prompt**: `"I need to write a 5-page essay on the impact of social media on teenage mental health. Can you brainstorm three potential thesis statements for me, each with a different focus?"`
@@ -84,7 +84,7 @@ Paperpal is tailored for academic and scientific writing. Its features cater spe
 
 Responsibly using AI tools is essential. The objective is to improve writing and critical thinking skills, not merely to operate AI effectively.
 
-1. **Disclosure**: Follow your institution's policies regarding AI use. If none exist, transparency is advisable. Consider adding a note at the paper's conclusion, such as, "I utilized ChatGPT for initial brainstorming and Grammarly for grammar checking."
+1. **Disclosure**: Follow your institution's policies regarding AI use. If none exist, transparency is advisable. Consider adding a note at the paper's conclusion, such as, "I used ChatGPT for initial brainstorming and Grammarly for grammar checking."
   
 2. **Ownership of Work**: Students must take responsibility for every word in their final submissions. The AI serves as an assistant, but comprehension of the material and argument creation must be the student's effort.
 

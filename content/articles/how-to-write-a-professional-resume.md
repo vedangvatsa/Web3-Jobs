@@ -38,7 +38,7 @@ Include a brief summary or objective statement at the top of your resume. This s
 
 ### 3. Focus on Achievements, Not Just Responsibilities
 
-Highlighting achievements rather than just listing job duties is crucial for creating an impactful resume. Use quantifiable metrics to showcase your contributions.
+Highlighting achievements rather than just listing job duties is important for creating an impactful resume. Use quantifiable metrics to showcase your contributions.
 
 | Instead of…                                       | Try…                                                                                           |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@ Recruiters spend only seconds scanning each resume. Make it easy for them to fin
 
 - **Length:** Aim for one page if you have less than 10 years of experience. A two-page resume is acceptable for those with extensive and relevant work histories.
 - **Font:** Select a clean, professional font such as Arial, Calibri, or Times New Roman, using a size between 10 and 12 points.
-- **White Space:** Utilize ample white space to enhance readability. Employ clear headings and bullet points for organization.
+- **White Space:** Use ample white space to enhance readability. Employ clear headings and bullet points for organization.
 - **Proofread:** Misspellings and grammatical errors can undermine your professionalism. Review your resume multiple times and consider having a colleague provide feedback.
 
 ### Key Sections to Include
@@ -119,7 +119,7 @@ Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced chall
 Juan, a product manager in [DeFi](/what-is-defi), encountered similar issues with his resume. By implementing targeted changes, he successfully landed interviews that resulted in multiple job offers within a short period. His experience illustrates the effectiveness of focusing on achievements.
 
 #### Example 3
-Maya transitioned from Web2 to Web3, utilizing the outlined approach to adapt her resume. Her success in securing interviews and job offers demonstrates that these strategies apply regardless of background or experience level.
+Maya transitioned from Web2 to Web3, using the outlined approach to adapt her resume. Her success in securing interviews and job offers demonstrates that these strategies apply regardless of background or experience level.
 
 ### Common Mistakes to Avoid
 

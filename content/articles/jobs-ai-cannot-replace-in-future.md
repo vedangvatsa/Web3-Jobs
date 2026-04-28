@@ -38,7 +38,7 @@ Several careers will likely remain human-centric for the foreseeable future. Her
 
 - **Artists, Writers, and Musicians**: Though generative AI can create images, text, and music, it lacks personal life experiences and unique perspectives. Genuine art stems from human emotion and the desire to convey meaningful messages, making AI an inadequate substitute for artists.
 
-- **Scientists and Researchers**: Scientific discovery is inherently non-linear, demanding curiosity and the ability to ask innovative questions. While AI assists with data analysis and simulations, the creative insight that sparks groundbreaking hypotheses remains distinctly human.
+- **Scientists and Researchers**: Scientific discovery is inherently non-linear, demanding curiosity and the ability to ask new questions. While AI assists with data analysis and simulations, the creative insight that sparks new hypotheses remains distinctly human.
 
 #### Skilled Trades and Physical Work
 
@@ -129,7 +129,7 @@ Understanding these dynamics is essential for career advancement. Professionals 
 
 4. **Giving Up Too Soon**: Change often brings discomfort. Perseverance is essential for achieving better outcomes.
 
-5. **Not Tracking Progress**: Metrics are crucial for improvement. Regularly evaluate your advancements.
+5. **Not Tracking Progress**: Metrics are important for improvement. Regularly evaluate your advancements.
 
 ### Conclusion
 

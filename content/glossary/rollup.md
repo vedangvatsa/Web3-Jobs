@@ -33,14 +33,14 @@ This simple mechanism scales transactions from dozens per second (Layer 1) to th
 
 Two main rollup types have different security models:
 
-**Optimistic Rollups** (Arbitrum, Optimism):
+- **Optimistic Rollups** (Arbitrum, Optimism):
 - Assume transactions are valid unless proved otherwise.
 - Post transaction data and compressed state to Layer 1.
 - Anyone can challenge transactions using fraud proofs.
 - If a challenge succeeds, the invalid state is reverted.
 - Simpler to implement but longer withdrawal periods.
 
-**ZK Rollups** (zkSync, StarkNet, Polygon zkEVM):
+- **ZK Rollups** (zkSync, StarkNet, Polygon zkEVM):
 - Submit cryptographic zero-knowledge proofs proving all transactions valid.
 - Layer 1 verifies proofs mathematically.
 - No dispute period, state is proven valid immediately.
@@ -139,17 +139,17 @@ The next few years will see substantial rollup evolution as they mature.
 
 Rollups create engineering roles:
 
-**Rollup Engineers** build and optimize rollup systems.
+- **Rollup Engineers** build and optimize rollup systems.
 
-**Proof Systems Engineers** design and optimize cryptographic proof systems.
+- **Proof Systems Engineers** design and optimize cryptographic proof systems.
 
-**Smart Contract Developers** build applications on rollups.
+- **Smart Contract Developers** build applications on rollups.
 
-**Sequencer Operators** manage sequencer infrastructure.
+- **Sequencer Operators** manage sequencer infrastructure.
 
-**Research Scientists** research rollup scalability and proving systems.
+- **Research Scientists** research rollup scalability and proving systems.
 
-**Performance Engineers** optimize rollup throughput and latency.
+- **Performance Engineers** optimize rollup throughput and latency.
 
 ## Best Practices
 

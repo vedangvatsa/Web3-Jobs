@@ -60,7 +60,7 @@ If you're ready to immerse yourself in a community that plays a key role in the 
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing significant growth, with demand for qualified talent exceeding supply. Unlike traditional tech, Web3 offers distinct advantages, including higher compensation, equity opportunities, remote roles, and the chance to work on innovative technologies.
+The Web3 sector is experiencing significant growth, with demand for qualified talent exceeding supply. Unlike traditional tech, Web3 offers distinct advantages, including higher compensation, equity opportunities, remote roles, and the chance to work on new technologies.
 
 ## Market Context
 
@@ -117,7 +117,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Focus on roles that utilize your existing expertise along with new Web3 knowledge:
+Focus on roles that use your existing expertise along with new Web3 knowledge:
 
 - If you are a backend engineer, seek blockchain infrastructure roles.
 - If you are a product manager, target protocol product positions.

@@ -40,7 +40,7 @@ The job market in Boston is particularly favorable for technical and research-or
 
 ### Building a Web3 Career in Boston
 
-1. **Utilize Your Academic Background**: A degree from a top university, especially in a technical discipline, provides a significant advantage. Highlight your research skills, ability to tackle complex topics, and any published work.
+1. **Use Your Academic Background**: A degree from a top university, especially in a technical discipline, provides a significant advantage. Highlight your research skills, ability to tackle complex topics, and any published work.
 
 2. **Engage with the Academic Community**: The academic environment is the heart of Boston's Web3 scene.
    - **Attend Seminars**: Participate in public talks organized by the MIT Digital Currency Initiative and other university labs.
@@ -125,7 +125,7 @@ The Web3 community is highly accessible:
 
 #### Step 5: Apply Strategically
 
-Target roles that utilize your existing skills while incorporating your new Web3 knowledge. For instance:
+Target roles that use your existing skills while incorporating your new Web3 knowledge. For instance:
 
 - If you are a backend engineer, pursue blockchain infrastructure roles.
 - If you are a PM, seek opportunities in protocol product management.

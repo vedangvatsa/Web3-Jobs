@@ -134,7 +134,7 @@ Each blockchain's staking mechanics differ significantly in lock-up periods, del
 
 Liquid Staking Token Finance (LSTfi) creates additional yield opportunities:
 
-- **Leveraged Staking**: Borrow against stETH to buy more ETH, stake it for more stETH. This amplifies returns but risks liquidation.
+- **Used Staking**: Borrow against stETH to buy more ETH, stake it for more stETH. This amplifies returns but risks liquidation.
 
 - **LSD Liquidity Pools**: Provide stETH/ETH liquidity on Curve, earning trading fees plus staking rewards.
 
@@ -142,7 +142,7 @@ Liquid Staking Token Finance (LSTfi) creates additional yield opportunities:
 
 - **Index Tokens**: Diversified baskets of multiple LSDs (stETH, rETH, cbETH) reducing protocol-specific risk.
 
-These strategies stack yields but multiply risks, smart contract risk from multiple protocols, liquidation risk from leverage, impermanent loss from liquidity provision.
+These strategies stack yields but multiply risks, smart contract risk from multiple protocols, liquidation risk from use, impermanent loss from liquidity provision.
 
 ## Calculating Real Staking Returns
 

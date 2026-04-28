@@ -116,7 +116,7 @@ The Web3 community is accessible and welcoming:
 
 ### Step 5: Apply Strategically
 
-Target roles that utilize your existing expertise alongside new Web3 knowledge:
+Target roles that use your existing expertise alongside new Web3 knowledge:
 
 - Backend engineers should seek blockchain infrastructure roles.
 - Product Managers can explore protocol product positions.

@@ -34,7 +34,7 @@ The modular blockchain thesis posits that combining these functions in a single 
 Specializing functions allows each layer to optimize for its specific task, resulting in significant improvements in scalability and cost. The most substantial cost in a rollup transaction is posting transaction data back to the layer one (L1) blockchain. By using a cost-effective, specialized DA layer, rollups can reduce fees dramatically. Developers can create a "modular stack" where they mix and match different layers to customize blockchains that meet specific needs.
 
 ### Impact in 2026:
-By 2025, the proliferation of "app-chains" and highly specialized rollups will become evident. Gaming projects will introduce their own rollups designed for high throughput. [DeFi](/what-is-defi) protocols will establish chains optimized for financial transactions, while social media dApps will take advantage of inexpensive DA layers for storing user data on-chain. This modular approach will drive a surge of innovative applications that are economically unfeasible on monolithic chains today.
+By 2025, the proliferation of "app-chains" and highly specialized rollups will become evident. Gaming projects will introduce their own rollups designed for high throughput. [DeFi](/what-is-defi) protocols will establish chains optimized for financial transactions, while social media dApps will take advantage of inexpensive DA layers for storing user data on-chain. This modular approach will drive a surge of new applications that are economically unfeasible on monolithic chains today.
 
 ## 2. Account Abstraction (EIP-4337)
 
@@ -67,11 +67,11 @@ This trend involves using Web3 infrastructure to develop transparent, decentrali
 Web3 addresses critical issues related to AI, such as centralization and transparency. Hosting AI models on-chain enables auditable, community-owned models that are not dominated by single corporations. Conversely, AI can enhance Web3's user experience by providing intuitive interfaces that make dApps more accessible to mainstream users.
 
 ### Impact in 2026:
-By 2025, the first successful AI dApps will likely emerge. Potential examples include decentralized social media platforms where content recommendation algorithms are governed by a DAO-driven AI, or DeFi protocols utilizing AI agents to optimize [yield farming](/what-is-yield-farming) strategies. The concept of a "prompt" will become a fundamental aspect of Web3 interaction.
+By 2025, the first successful AI dApps will likely emerge. Potential examples include decentralized social media platforms where content recommendation algorithms are governed by a DAO-driven AI, or DeFi protocols using AI agents to optimize [yield farming](/what-is-yield-farming) strategies. The concept of a "prompt" will become a fundamental aspect of Web3 interaction.
 
 ## 4. Real-World Asset (RWA) Tokenization
 
-Tokenizing real-world assets is a crucial step in bridging the trillions of dollars in traditional finance with the efficiency and transparency of DeFi.
+Tokenizing real-world assets is a important step in bridging the trillions of dollars in traditional finance with the efficiency and transparency of DeFi.
 
 ### What is it?
 RWA tokenization involves creating digital representations of physical or traditional financial assets on a blockchain. This process can encompass a variety of assets, including real estate, private equity, government bonds, and art. Tokens represent claims on their underlying assets.
@@ -100,13 +100,13 @@ DePIN has the potential to disrupt several highly centralized industries:
 -   **Compute Power:** Platforms like Akash allow users to rent spare GPU capacity for tasks like AI training, positioning themselves as decentralized competitors to AWS and Google Cloud. Token incentives enable these networks to accelerate supply-side growth more rapidly than traditional companies.
 
 ### Impact in 2026:
-By 2025, DePIN is likely to transition from a niche category to a significant driver of real-world Web3 adoption. Expect to see dApps that rely on decentralized storage and AI companies increasingly utilizing decentralized compute networks for their training requirements. DePIN will demonstrate Web3's capacity to create not only digital economies but also tangible, real-world infrastructure.
+By 2025, DePIN is likely to transition from a niche category to a significant driver of real-world Web3 adoption. Expect to see dApps that rely on decentralized storage and AI companies increasingly using decentralized compute networks for their training requirements. DePIN will demonstrate Web3's capacity to create not only digital economies but also tangible, real-world infrastructure.
 
 | Trend                                      | Description                                                                 | Expected Impact in 2026                                                                 |
 |--------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | Modular Blockchain Thesis                   | Shift from monolithic to modular architectures for scalability              | Surge in app-chains and specialized rollups, enabling new applications and efficiencies   |
 | Account Abstraction (EIP-4337)             | Transform wallets into smart contracts for improved user experience         | Standardization of user-friendly wallets with social login and gasless transactions      |
-| Intersection of AI and Web3                | Integration of AI with decentralized models and applications                 | Emergence of AI-driven dApps and natural language interfaces for seamless interactions    |
+| Intersection of AI and Web3                | Integration of AI with decentralized models and applications                 | Emergence of AI-driven dApps and natural language interfaces for smooth interactions    |
 | Real-World Asset Tokenization              | Digitization of physical assets for liquidity and transparency              | Tokenized US Treasury Bills and significant investments in tokenized real estate         |
 | Decentralized Physical Infrastructure Networks (DePIN) | Token-driven construction and management of physical infrastructure        | Expansion of decentralized networks in cloud storage, wireless services, and compute power|
 
@@ -114,4 +114,4 @@ By 2025, DePIN is likely to transition from a niche category to a significant dr
 
 The evolution of Web3 is characterized by modularity, intelligence, and a strong connection to the physical world. The trends discussed are interconnected and will build upon each other. Account abstraction will facilitate user interactions with modular app-chains. Tokenized real-world assets will serve as collateral for a new generation of AI-driven DeFi protocols. DePIN networks will create the necessary infrastructure to support this ecosystem.
 
-The initial phase of Web3 is concluding. The foundation for a more scalable, user-friendly, and impactful decentralized internet is being established. The coming years will showcase applications that utilize this new infrastructure, transitioning Web3 from a niche interest for crypto enthusiasts to an integral aspect of the digital lives of billions.
+The initial phase of Web3 is concluding. The foundation for a more scalable, user-friendly, and impactful decentralized internet is being established. The coming years will showcase applications that use this new infrastructure, transitioning Web3 from a niche interest for crypto enthusiasts to an integral aspect of the digital lives of billions.

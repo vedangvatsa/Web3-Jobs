@@ -74,7 +74,7 @@ The debate involves technical, economic, and philosophical dimensions. PoW's pro
 
 ## Difficulty Adjustment Algorithms
 
-The difficulty adjustment mechanism is crucial for PoW stability. Bitcoin's simple algorithm adjusts every 2016 blocks based on whether they came faster or slower than expected. Other chains use more responsive algorithms, adjusting every block or using longer averaging windows to prevent manipulation.
+The difficulty adjustment mechanism is important for PoW stability. Bitcoin's simple algorithm adjusts every 2016 blocks based on whether they came faster or slower than expected. Other chains use more responsive algorithms, adjusting every block or using longer averaging windows to prevent manipulation.
 
 Poor difficulty adjustment can destabilize chains. If difficulty responds too slowly to hash power changes, blocks might come at inconsistent intervals. If adjustment is too responsive, miners might manipulate difficulty by alternating between mining and not mining. Well-designed algorithms balance responsiveness with manipulation resistance.
 

@@ -36,16 +36,16 @@ Before forging partnerships, you need a thorough understanding of your environme
    - **Direct Competitors:** Identify those building similar products.
    - **Adjacent Protocols:** Find projects that complement your offerings. For instance, if you're a [DEX](/what-is-a-decentralized-exchange-dex), look for lending protocols, stablecoins, and yield aggregators.
    - **Infrastructure Layers:** List essential L1s, L2s, oracles, and [wallet](/how-to-choose-a-crypto-wallet) providers relevant to your vertical.
-3. **Develop a Partnership Thesis:** Based on your ecosystem map, create a clear thesis. What types of integrations will deliver the most value for your users and your protocol? For example, a new DEX might identify that integrating with leading yield aggregators is crucial for sustainable liquidity.
+3. **Develop a Partnership Thesis:** Based on your ecosystem map, create a clear thesis. What types of integrations will deliver the most value for your users and your protocol? For example, a new DEX might identify that integrating with leading yield aggregators is important for sustainable liquidity.
 
-**Practical Insight:** Utilize tools like DeFiLlama, on-chain analytics, and industry reports to build a data-driven map. Your thesis should rely on concrete data rather than intuition.
+**Practical Insight:** Use tools like DeFiLlama, on-chain analytics, and industry reports to build a data-driven map. Your thesis should rely on concrete data rather than intuition.
 
 #### Phase 2: Sourcing and Prioritization
 
 With a map and thesis in hand, identify potential partners.
 
 1. **Create a Target List:** List the top 20-30 projects that align with your thesis, prioritizing them based on potential impact.
-2. **Identify Key Contacts:** Find the appropriate individual to approach at each project. This is typically not the CEO but rather someone in BizDev, product management, or engineering. Leverage platforms like Twitter, LinkedIn, and your network for connections.
+2. **Identify Key Contacts:** Find the appropriate individual to approach at each project. This is typically not the CEO but rather someone in BizDev, product management, or engineering. Use platforms like Twitter, LinkedIn, and your network for connections.
 3. **Use Warm Introductions:** A warm introduction from a mutual contact can significantly enhance your chances. This is where your network becomes a valuable asset.
 4. **Master Cold Outreach:** If introductions are unavailable, refine your cold outreach skills. Your initial message should offer value. Do not simply request a meeting; instead, share a specific observation about their project and a proposal for collaboration.
 
@@ -109,7 +109,7 @@ Dedicate time to grasping the fundamentals of [blockchain](/what-is-a-blockchain
 Depending on your desired role:
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Focus on market analysis, partnership strategies, and understanding the regulatory landscape.
+- **Business Development:** Focus on market analysis, partnership strategies, and understanding the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance processes.
 
 ### Step 3: Build Your Portfolio
@@ -140,7 +140,7 @@ Target roles that align with your existing skills and newly acquired Web3 knowle
 Alex, a backend engineer with five years of experience in a major tech company, dedicated time to learning Solidity while working full-time. He contributed to an open-source project, which led to opportunities at a significant DeFi protocol, resulting in a notable salary increase and equity.
 
 ### Product Manager Transition
-Jessica, an experienced PM from traditional finance, leveraged her knowledge of financial products in the DeFi space. Her understanding of finance combined with Web3 technology allowed her to secure a role at a leading DeFi protocol within a short timeframe.
+Jessica, an experienced PM from traditional finance, used her knowledge of financial products in the DeFi space. Her understanding of finance combined with Web3 technology allowed her to secure a role at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer
 Marcus transitioned from a corporate job to focus on Web3 for several months. Through persistent learning and networking, he secured a position leading Developer Relations at a major blockchain platform, with compensation significantly higher than his previous role.

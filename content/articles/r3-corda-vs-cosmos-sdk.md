@@ -30,11 +30,11 @@ Corda is particularly effective in areas such as financial services, trade finan
 
 The Cosmos SDK is an open-source framework, developed in Go, that allows for the creation of application-specific blockchains. Unlike shared execution environments such as Ethereum, developers using Cosmos SDK build their own sovereign blockchains. Each of these blockchains can establish its own validator set, token economics, and governance structure. They can also interoperate with other Cosmos-compatible chains through the **Inter-Blockchain Communication (IBC)** protocol.
 
-The SDK abstracts the networking and consensus layers. By default, it utilizes **Tendermint BFT** (now known as CometBFT), a Byzantine Fault Tolerant consensus engine that provides instant finality and high throughput. Developers interact with the chain through the ABCI (Application BlockChain Interface), allowing them to define custom modules that manage state transitions.
+The SDK abstracts the networking and consensus layers. By default, it uses **Tendermint BFT** (now known as CometBFT), a Byzantine Fault Tolerant consensus engine that provides instant finality and high throughput. Developers interact with the chain through the ABCI (Application BlockChain Interface), allowing them to define custom modules that manage state transitions.
 
 The standout feature of the Cosmos ecosystem is IBC. This protocol enables tokens, data, and arbitrary messages to move trustlessly between IBC-enabled chains. Unlike traditional bridges, IBC functions as a standardized protocol, similar to TCP/IP, and has processed significant volume in cross-chain transfers without experiencing protocol-level exploits.
 
-Numerous production chains have been built using Cosmos SDK. Binance Chain (now BNB Chain) utilized an early fork of the SDK. The flagship chain, Cosmos Hub, is well-known, while Terra (prior to its collapse) and Osmosis, the largest decentralized exchange (DEX) in the ecosystem, demonstrate the SDK's capabilities. dYdX v4 migrated its entire derivatives exchange to a custom Cosmos SDK chain, achieving the necessary performance and control. Other recent examples include Celestia, Injective, and Sei.
+Numerous production chains have been built using Cosmos SDK. Binance Chain (now BNB Chain) used an early fork of the SDK. The flagship chain, Cosmos Hub, is well-known, while Terra (prior to its collapse) and Osmosis, the largest decentralized exchange (DEX) in the ecosystem, demonstrate the SDK's capabilities. dYdX v4 migrated its entire derivatives exchange to a custom Cosmos SDK chain, achieving the necessary performance and control. Other recent examples include Celestia, Injective, and Sei.
 
 Cosmos SDK can also be configured as a permissioned enterprise chain by limiting the validator set to known entities and disabling public token issuance. This configuration is sometimes referred to as a "permissioned Cosmos chain."
 
@@ -89,7 +89,7 @@ In contrast, **Cosmos SDK** provides a more approachable experience for develope
 
 **R3 Corda's real-world applications** include:
 
-- **Marco Polo Network**: Utilizes Corda for trade finance, focusing on receivables financing.
+- **Marco Polo Network**: Uses Corda for trade finance, focusing on receivables financing.
 - **Contour**: Digitizes letters of credit, supported by major banks including HSBC, Citi, BNP Paribas, and Standard Chartered.
 - **HQLAx**: Facilitates securities lending by connecting Deutsche Börse with major custodians.
 - **SWIFT**: Conducted a proof-of-concept for cross-border payments using Corda.
@@ -107,11 +107,11 @@ While enterprise permissioned deployments using Cosmos SDK are less publicly doc
 
 ### Migration Considerations
 
-Transitioning to Corda from an existing system typically requires rebuilding business logic as CorDapps and integrating Corda nodes into current banking middleware. This process often spans multiple years for large institutions. In contrast, migrating to or between Cosmos SDK chains is more manageable, especially when IBC is utilized, as state can be transferred across chains using the protocol. A notable migration risk with Cosmos involves validator set management and the operational intricacies of maintaining a sovereign chain.
+Transitioning to Corda from an existing system typically requires rebuilding business logic as CorDapps and integrating Corda nodes into current banking middleware. This process often spans multiple years for large institutions. In contrast, migrating to or between Cosmos SDK chains is more manageable, especially when IBC is used, as state can be transferred across chains using the protocol. A notable migration risk with Cosmos involves validator set management and the operational intricacies of maintaining a sovereign chain.
 
 ## Conclusion
 
-For **regulated financial institutions** engaging in bilateral or consortium transactions, including banks, custodians, clearinghouses, and insurers, **R3 Corda** proves to be the superior technical choice. Its privacy model is not replicable on a replicated state machine architecture without substantial compromises. Furthermore, the integration of legal prose is unmatched. If the primary requirement is that "counterparty B must not see my transaction with counterparty A," Corda was specifically designed to address that need.
+For **regulated financial institutions** engaging in bilateral or consortium transactions, including banks, custodians, clearinghouses, and insurers, **R3 Corda** proves to be the superior technical choice. Its privacy model is not replicable on a replicated state machine architecture without substantial compromises. Also, the integration of legal prose is unmatched. If the primary requirement is that "counterparty B must not see my transaction with counterparty A," Corda was specifically designed to address that need.
 
 Conversely, organizations seeking **sovereign chain control, cross-chain interoperability, or high-throughput public or hybrid deployments** will find the **Cosmos SDK** to be a more reliable foundation. The IBC ecosystem, along with the Go-native developer experience and proven production chains managing significant financial volume, positions it as a credible enterprise solution, particularly for exchanges, DeFi infrastructure, and applications needing to connect with the broader on-chain economy.
 

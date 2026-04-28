@@ -24,7 +24,7 @@ Express your respect for their skills and contributions. Remind them that while 
 
 ### Set Clear Boundaries and Expectations
 
-Establishing new professional boundaries is crucial. You can no longer engage in after-work socializing or vent about work issues in the same manner. Your responsibilities now include performance evaluations, compensation discussions, and potentially sensitive employment decisions.
+Establishing new professional boundaries is important. You can no longer engage in after-work socializing or vent about work issues in the same manner. Your responsibilities now include performance evaluations, compensation discussions, and potentially sensitive employment decisions.
 
 Create professional distance while maintaining a friendly demeanor. A helpful way to frame this is: "Our relationship will change, and I must be fair to everyone on the team. This means I can’t show favoritism, and I'll need to maintain a professional boundary. I continue to value our working relationship."
 
@@ -68,7 +68,7 @@ Address this situation directly in your one-on-one meeting. Acknowledge their fe
 
 **How do I handle performance issues with a former peer who is also a friend?**
 
-You must treat them as you would any other team member. This highlights the importance of setting professional boundaries early on. Address performance issues directly, focusing on specific work-related matters. Utilize the "Situation-Behavior-Impact" model to provide clear feedback. Although this conversation might be uncomfortable, it is your responsibility as a manager to address performance issues head-on.
+You must treat them as you would any other team member. This highlights the importance of setting professional boundaries early on. Address performance issues directly, focusing on specific work-related matters. Use the "Situation-Behavior-Impact" model to provide clear feedback. Although this conversation might be uncomfortable, it is your responsibility as a manager to address performance issues head-on.
 
 **My team is still treating me like one of them. How do I change that?**
 

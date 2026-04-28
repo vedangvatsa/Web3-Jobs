@@ -4,7 +4,7 @@ slug: "wrapped-asset"
 category: "cryptocurrencies"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "A token representing an asset from another blockchain, created when the original asset is locked by a bridge, enabling cross-chain utilization."
+description: "A token representing an asset from another blockchain, created when the original asset is locked by a bridge, enabling cross-chain use."
 relatedTerms: ["wrapped-token", "bridge", "cross-chain", "token"]
 synonyms: ["bridged asset", "synthetic asset", "cross-chain token"]
 ---
@@ -121,17 +121,17 @@ Custodial risk is a serious consideration for wrapped assets.
 
 Wrapped asset infrastructure creates roles:
 
-**Bridge Engineers** build bridges.
+- **Bridge Engineers** build bridges.
 
-**Custodians** manage locked assets.
+- **Custodians** manage locked assets.
 
-**Liquidity Providers** provide wrapped asset liquidity.
+- **Liquidity Providers** provide wrapped asset liquidity.
 
-**Risk Managers** assess wrapped asset risk.
+- **Risk Managers** assess wrapped asset risk.
 
-**Arbitrage Traders** maintain pegs.
+- **Arbitrage Traders** maintain pegs.
 
-**Smart Contract Auditors** audit bridge contracts.
+- **Smart Contract Auditors** audit bridge contracts.
 
 ## Best Practices
 

@@ -4,7 +4,7 @@ slug: sovereign-rollup
 category: technical
 difficulty: advanced
 image: "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=1200&q=80"
-description: A sovereign rollup is a blockchain that uses another chain only for data availability and consensus, handling its own settlement and execution without relying on an L1 smart contract for validity. Sovereign rollups maintain complete control over their state, upgrades, and governance while leveraging shared DA infrastructure.
+description: A sovereign rollup is a blockchain that uses another chain only for data availability and consensus, handling its own settlement and execution without relying on an L1 smart contract for validity. Sovereign rollups maintain complete control over their state, upgrades, and governance while using shared DA infrastructure.
 relatedTerms:
   - rollup
   - celestia
@@ -246,7 +246,7 @@ When building sovereign rollups:
 
 - **Plan Bridge Strategy**: Decide early whether you need bridges to L1s or other chains and what security model is acceptable.
 
-- **Support Light Clients**: Build robust light client implementations for users who can't run full nodes.
+- **Support Light Clients**: Build strong light client implementations for users who can't run full nodes.
 
 - **Document State Transition**: Clearly document the state transition function so anyone can verify and audit behavior.
 
@@ -276,4 +276,4 @@ Sovereign rollups are evolving rapidly:
 
 Sovereign rollups represent a different vision of blockchain scalability, where sovereignty and flexibility matter more than tight L1 integration and atomic composability. For applications that value independence, experimentation, and control, sovereign rollups offer a compelling alternative to traditional L2s.
 
-**Building a chain?** Consider whether you need L1 settlement or if a sovereign rollup's flexibility and lower L1 dependency better match your requirements. The modular toolkit makes both options more accessible than ever.
+- **Building a chain?** Consider whether you need L1 settlement or if a sovereign rollup's flexibility and lower L1 dependency better match your requirements. The modular toolkit makes both options more accessible than ever.

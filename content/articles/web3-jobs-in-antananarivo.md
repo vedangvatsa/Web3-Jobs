@@ -89,7 +89,7 @@ A mid-level developer earning a competitive salary remotely can maintain a comfo
 
 **Internet Infrastructure**
 - Typical speeds can vary, often slower during peak hours.
-- Solution: Utilize backup mobile hotspots and optimize workflows for offline work.
+- Solution: Use backup mobile hotspots and optimize workflows for offline work.
 
 **Education Gap**
 - Limited local Web3 technical training available.
@@ -149,7 +149,7 @@ Start with full-stack development as it offers broader applicability and more jo
 Engage with online communities, share your progress, and ask questions. Genuine mentors appreciate initiative and curiosity. Offer to help others, as mentorship is often reciprocal.
 
 **Is ReFi a viable opportunity for Madagascar?**
-Yes, given Madagascar's biodiversity. The global conservation budget is substantial, and utilizing blockchain for conservation funding addresses real needs.
+Yes, given Madagascar's biodiversity. The global conservation budget is substantial, and using blockchain for conservation funding addresses real needs.
 
 **How do I position myself for an international Web3 company?**
 Build an impressive portfolio, make your work visible through platforms like GitHub and Twitter, network within relevant communities, apply widely, and seek referrals when possible. Persistence is key.

@@ -41,7 +41,7 @@ The questions should encourage detailed responses. Here are ten essential questi
 #### Questions About the Decision to Leave
 
 1. **"What prompted you to start looking for a new opportunity?"**
-   - **Why it matters:** Understanding whether a specific event, growing dissatisfaction, or an attractive opportunity triggered the decision is crucial. Listen for "push" factors (what drove them away) versus "pull" factors (what attracted them to the new role).
+   - **Why it matters:** Understanding whether a specific event, growing dissatisfaction, or an attractive opportunity triggered the decision is important. Listen for "push" factors (what drove them away) versus "pull" factors (what attracted them to the new role).
 
 2. **"What were the most important factors in your decision to accept this new role?"**
    - **Why it matters:** This question reveals what competitors offer that your organization does not. Whether it is higher compensation, a more appealing title, interesting work, or greater flexibility, this information provides valuable competitive intelligence.
@@ -60,7 +60,7 @@ The questions should encourage detailed responses. Here are ten essential questi
 #### Questions About the Company and Culture
 
 6. **"How would you describe our company culture?"**
-   - **Why it matters:** This broad question aims to capture the employee’s overall perception. Pay attention to the adjectives used; are they positive ("collaborative," "innovative") or negative ("political," "chaotic")?
+   - **Why it matters:** This broad question aims to capture the employee’s overall perception. Pay attention to the adjectives used; are they positive ("collaborative," "new") or negative ("political," "chaotic")?
 
 7. **"What did you like most about working here? What did you like least?"**
    - **Why it matters:** This classic question helps identify strengths and weaknesses. Focus on reinforcing what employees love and addressing areas of concern.
@@ -71,7 +71,7 @@ The questions should encourage detailed responses. Here are ten essential questi
 #### Closing Questions
 
 9. **"Would you recommend working here to a friend? Why or why not?"**
-   - **Why it matters:** This question serves as a core test of their experience. The justification for their answer is crucial, as it provides insight into their overall sentiment.
+   - **Why it matters:** This question serves as a core test of their experience. The justification for their answer is important, as it provides insight into their overall sentiment.
 
 10. **"Is there anything else you'd like to share that we haven't covered?"**
     - **Why it matters:** This final open-ended question can lead to important feedback that the employee may not have previously mentioned.
@@ -95,7 +95,7 @@ Conducting exit interviews efficiently can lead your organization to significant
 | Outcome                               | Description                                                  | Benefits to Organization                         |
 |---------------------------------------|--------------------------------------------------------------|-------------------------------------------------|
 | Improved Employee Retention           | Identifying pain points can prevent future departures.       | Reduces recruitment costs and training time.    |
-| Enhanced Company Culture              | Gaining insights into employee perceptions fosters awareness. | Creates a more positive work environment.       |
+| Enhanced Company Culture              | Gaining insights into employee perceptions builds awareness. | Creates a more positive work environment.       |
 | Targeted Professional Development     | Understanding employee needs for growth leads to tailored programs. | Increases employee satisfaction and performance. |
 | Better Management Practices            | Feedback on management can inform training and development. | Enhances team dynamics and employee engagement.  |
 

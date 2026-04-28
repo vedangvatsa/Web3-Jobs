@@ -17,7 +17,7 @@ As [Web3](/what-is-web3) evolves, the initial focus on transparency now encounte
 A privacy engineer employs cryptographic techniques to establish confidentiality within Web3 environments.
 
 - **Zero-Knowledge Proofs (ZKPs):** ZKPs are fundamental to privacy engineering. Mastery of [ZKPs](/zero-knowledge-proofs-explained) is essential, including understanding the distinctions between SNARKs and STARKs. Privacy engineers must also be proficient in circuit programming languages such as Circom or Cairo, as these skills are vital for teams working with [ZK-Rollup](/how-zkevm-brings-zero-knowledge-proofs-to-ethereum).
-- **Homomorphic Encryption (HE):** This method enables computation on encrypted data. Privacy engineers may develop confidential [smart contracts](/what-are-smart-contracts) utilizing [homomorphic encryption](/how-homomorphic-encryption-powers-web3-privacy).
+- **Homomorphic Encryption (HE):** This method enables computation on encrypted data. Privacy engineers may develop confidential [smart contracts](/what-are-smart-contracts) using [homomorphic encryption](/how-homomorphic-encryption-powers-web3-privacy).
 - **Mixers and Privacy Pools:** Engineers might design protocols like Tornado Cash, which sever the link between a user's deposit and withdrawal addresses, thus ensuring transaction privacy.
 
 ### Key Responsibilities
@@ -26,7 +26,7 @@ Privacy engineers undertake several important tasks:
 
 - **Protocol Design:** They design cryptographic protocols that facilitate private transactions or maintain confidential smart contract states.
 - **Circuit Engineering:** Engineers write, optimize, and audit the ZK circuits central to privacy-preserving systems.
-- **Integration:** Collaboration with application developers is crucial for the smooth integration of privacy technologies into user-facing decentralized applications (dApps).
+- **Integration:** Collaboration with application developers is important for the smooth integration of privacy technologies into user-facing decentralized applications (dApps).
 
 ### Pathway to Becoming a Web3 Privacy Engineer
 
@@ -152,4 +152,4 @@ Historically, bear markets provide excellent opportunities to enter Web3. When s
 
 ## Conclusion
 
-Web3 presents an unparalleled opportunity for professionals seeking to advance their careers in an innovative environment. The sector offers significant compensation premiums, accelerated career growth, and the chance to contribute to transformative technologies. Most professionals can transition to Web3 within 2-6 months of dedicated effort. By using existing expertise and strategically expanding knowledge in blockchain-specific areas, you can position yourself for success in this dynamic field. Engaging with the supportive Web3 community and targeting well-established protocols will further enhance your career prospects.
+Web3 presents an unparalleled opportunity for professionals seeking to advance their careers in an new environment. The sector offers significant compensation premiums, accelerated career growth, and the chance to contribute to transformative technologies. Most professionals can transition to Web3 within 2-6 months of dedicated effort. By using existing expertise and strategically expanding knowledge in blockchain-specific areas, you can position yourself for success in this dynamic field. Engaging with the supportive Web3 community and targeting well-established protocols will further enhance your career prospects.

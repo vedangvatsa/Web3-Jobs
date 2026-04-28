@@ -20,7 +20,7 @@ The development of zkEVMs marks a significant advancement for Ethereum, position
 
 The primary challenge zkEVMs address is the efficient generation of Zero-Knowledge Proofs for EVM transaction execution. The EVM's architecture, designed without ZKPs in mind, contains complex opcodes (the low-level instructions of the EVM) that are difficult and costly to represent in a ZK-friendly manner.
 
-Standard ZK-Rollups, such as Starknet in its early iterations, circumvented this issue by employing a custom virtual machine specifically tailored for efficient proof generation. While this approach enhanced performance, it required developers to rewrite Ethereum [smart contracts](/what-are-smart-contracts) in a new programming language (like Cairo) and utilize a different set of tools.
+Standard ZK-Rollups, such as Starknet in its early iterations, circumvented this issue by employing a custom virtual machine specifically tailored for efficient proof generation. While this approach enhanced performance, it required developers to rewrite Ethereum [smart contracts](/what-are-smart-contracts) in a new programming language (like Cairo) and use a different set of tools.
 
 Conversely, a zkEVM strives to create ZK-proofs directly for the EVM itself, presenting a bold innovation in this space.
 
@@ -30,7 +30,7 @@ The architecture of zkEVM is designed to facilitate integration with existing Et
 
 1. **Standard Ethereum Tools**: Developers write smart contracts in Solidity and compile them using familiar tools such as Hardhat or Foundry.
 2. **Deployment to L2**: The compiled EVM bytecode is deployed onto the zkEVM Layer 2 network.
-3. **Transaction Execution**: Users interact with the smart contract on Layer 2. The zkEVM's sequencer executes these transactions utilizing a modified version of the EVM.
+3. **Transaction Execution**: Users interact with the smart contract on Layer 2. The zkEVM's sequencer executes these transactions using a modified version of the EVM.
 4. **Generating the Proof**: As transactions are executed, the zkEVM generates a ZK-proof for the entire computation. Each executed EVM opcode is transformed into a corresponding "arithmetic circuit," allowing the ZK-prover to create a single succinct proof that guarantees the integrity of the entire operation sequence.
 5. **Posting to L1**: The Layer 2 sequencer batches transactions and submits the compressed data to the Ethereum mainnet, along with the validity proof.
 6. **Verification on L1**: A specialized "verifier" smart contract on Ethereum checks the validity proof. This verification process is rapid and cost-effective due to the mathematical certainty of the proof. Once verified, the transactions are finalized.
@@ -80,7 +80,7 @@ Grasping the implications of zkEVMs is vital for professionals aiming to excel i
 
 **Example 1**: Sarah, a developer at a blockchain startup, faced difficulties with scaling her application. After implementing zkEVM strategies, she achieved a significant reduction in transaction costs and a notable increase in processing speed within three months.
 
-**Example 2**: Juan, a product manager in [DeFi](/what-is-defi), encountered challenges in transaction throughput. By utilizing zkEVMs, he improved the platform's capacity to handle a significant number of transactions per second, demonstrating how effective these technologies can be in practice.
+**Example 2**: Juan, a product manager in [DeFi](/what-is-defi), encountered challenges in transaction throughput. By using zkEVMs, he improved the platform's capacity to handle a significant number of transactions per second, demonstrating how effective these technologies can be in practice.
 
 **Example 3**: Maya transitioned from Web2 to Web3 and quickly adapted to zkEVM frameworks. Her ability to use existing knowledge in Solidity while exploring zkEVM opportunities allowed her to launch a successful dApp within six months.
 
@@ -94,7 +94,7 @@ Grasping the implications of zkEVMs is vital for professionals aiming to excel i
 
 4. **Giving Up Early**: Initial discomfort is common when adapting to new technologies. Persisting through challenges is essential for achieving better results.
 
-5. **Neglecting Progress Tracking**: Monitoring your progress is crucial for improvement. Establish metrics to evaluate your advancements in understanding and implementing zkEVMs.
+5. **Neglecting Progress Tracking**: Monitoring your progress is important for improvement. Establish metrics to evaluate your advancements in understanding and implementing zkEVMs.
 
 ### FAQ
 
@@ -111,8 +111,8 @@ A: Web3 entities differ from traditional companies, emphasizing flatter hierarch
 A: Yes, it is advisable for most professionals to integrate zkEVM practices into their existing roles. You often do not need extra hours; instead, focus on intentionality during your current work hours. Identifying two or three zkEVM-related practices relevant to your daily tasks can yield significant improvements over time.
 
 **Q: What resources are recommended for deeper exploration of zkEVMs?**  
-A: Start with articles that delve into specific aspects of zkEVMs. Beyond written materials, finding a mentor or peer group excelling in this area can provide invaluable practical insights. Engaging with Web3 communities on platforms like Discord and Telegram can connect you with experienced practitioners willing to share their processes.
+A: Start with articles that look into specific aspects of zkEVMs. Beyond written materials, finding a mentor or peer group excelling in this area can provide invaluable practical insights. Engaging with Web3 communities on platforms like Discord and Telegram can connect you with experienced practitioners willing to share their processes.
 
 ### Conclusion
 
-As zkEVM technology continues to evolve, its impact on Ethereum and the broader blockchain industry will be significant. Understanding and mastering zkEVMs will be crucial for professionals aiming to thrive in the Web3 ecosystem. The potential for scalable, secure, and efficient applications is immense, and those who adapt will lead the way in this transformative era. Adopting this technology not only enhances individual capabilities but also contributes to the broader goal of achieving a decentralized, reliable, and globally accessible blockchain network.
+As zkEVM technology continues to evolve, its impact on Ethereum and the broader blockchain industry will be significant. Understanding and mastering zkEVMs will be important for professionals aiming to thrive in the Web3 ecosystem. The potential for scalable, secure, and efficient applications is immense, and those who adapt will lead the way in this transformative era. Adopting this technology not only enhances individual capabilities but also contributes to the broader goal of achieving a decentralized, reliable, and globally accessible blockchain network.

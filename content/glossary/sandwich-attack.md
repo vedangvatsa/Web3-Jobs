@@ -94,15 +94,15 @@ Different defenses have different tradeoffs.
 
 MEV creates roles:
 
-**MEV Researchers** studying attack patterns.
+- **MEV Researchers** studying attack patterns.
 
-**Security Engineers** building MEV defenses.
+- **Security Engineers** building MEV defenses.
 
-**Protocol Designers** creating sandwich-resistant protocols.
+- **Protocol Designers** creating sandwich-resistant protocols.
 
-**Searchers** finding profitable MEV opportunities.
+- **Searchers** finding profitable MEV opportunities.
 
-**Flashbots Engineers** building MEV infrastructure.
+- **Flashbots Engineers** building MEV infrastructure.
 
 ## Best Practices
 

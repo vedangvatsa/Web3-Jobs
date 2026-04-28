@@ -89,7 +89,7 @@ Invest 4-8 weeks in understanding blockchain fundamentals. Key areas include:
 Develop skills tailored to your desired role:
 - **Engineers:** Focus on Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Learn about token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development Professionals:** Gain expertise in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development Professionals:** Gain expertise in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations Roles:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio
@@ -125,7 +125,7 @@ Alex, previously a backend engineer for five years at a FAANG company, dedicated
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, utilized her expertise in DeFi, combining her understanding of financial products with Web3 technology. She secured a position at a leading DeFi protocol within a few weeks.
+Jessica, a product manager from traditional finance, used her expertise in DeFi, combining her understanding of financial products with Web3 technology. She secured a position at a leading DeFi protocol within a few weeks.
 
 ### Career Changer Success
 

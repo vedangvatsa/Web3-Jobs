@@ -93,13 +93,13 @@ Proof of Burn finds niche applications.
 
 Proof of Burn creates roles:
 
-**Consensus Researchers** studying PoB.
+- **Consensus Researchers** studying PoB.
 
-**Protocol Designers** designing PoB mechanisms.
+- **Protocol Designers** designing PoB mechanisms.
 
-**Economists** analyzing burn incentives.
+- **Economists** analyzing burn incentives.
 
-**Smart Contract Engineers** implementing burn.
+- **Smart Contract Engineers** implementing burn.
 
 ## Best Practices
 

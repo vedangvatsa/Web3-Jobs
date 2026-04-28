@@ -99,13 +99,13 @@ Data availability security is critical.
 
 Data availability infrastructure roles:
 
-**Protocol Engineers** earn competitive salaries.
+- **Protocol Engineers** earn competitive salaries.
 
-**Research Engineers** earn competitive salaries.
+- **Research Engineers** earn competitive salaries.
 
-**Infrastructure Operators** earn competitive salaries.
+- **Infrastructure Operators** earn competitive salaries.
 
-**Security Researchers** earn competitive salaries.
+- **Security Researchers** earn competitive salaries.
 
 ## Best Practices
 

@@ -54,7 +54,7 @@ Rehearse your story until it flows naturally. The way you frame your break is as
 
 ### Step 5: Be Patient and Persistent
 
-Re-entering the job market may take time, and you might face rejection along the way. Maintaining a positive attitude is crucial.
+Re-entering the job market may take time, and you might face rejection along the way. Maintaining a positive attitude is important.
 
 * **Establish a Routine**: Treat your job search as a structured endeavor. Dedicate specific hours each day to exploring job opportunities, tailoring applications, and networking.
 * **Celebrate Small Wins**: Acknowledge minor victories, such as receiving positive feedback on a networking email or completing an informational interview. These moments can help sustain your motivation.

@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 For the past fifteen years, digital identities have remained confined within centralized platforms. Your social graph, which includes your friends, followers, posts, and interactions, is one of your most valuable digital assets. Unfortunately, you do not own it. Platforms such as Facebook, Twitter, and TikTok control this data. If you leave a platform, your social graph disappears. Changes to algorithms can drastically affect your reach. Essentially, users operate as digital serfs, creating value on land they do not own.
 
-The **[Web3](/what-is-web3) Social Graph** represents a significant shift in this model. It aims to establish a decentralized foundation for social media where users possess and control their data and identity. By using open, permissionless protocols, Web3 builds a more reliable, innovative, and user-centric social media environment. This article examines the mechanics of this new model, the leading protocols driving it, and its implications for the future of online identity.
+The **[Web3](/what-is-web3) Social Graph** represents a significant shift in this model. It aims to establish a decentralized foundation for social media where users possess and control their data and identity. By using open, permissionless protocols, Web3 builds a more reliable, new, and user-centric social media environment. This article examines the mechanics of this new model, the leading protocols driving it, and its implications for the future of online identity.
 
 ### The Problem with Web2 Social Graphs
 
@@ -39,7 +39,7 @@ Users can create profiles on one client, build followings, and switch to another
 
 ### Leading Web3 Social Protocols: A Tale of Two Architectures
 
-Two key projects are pioneering the development of the open social graph, each employing a distinct architectural philosophy.
+Two key projects are leading the development of the open social graph, each employing a distinct architectural philosophy.
 
 #### 1. Farcaster: The "Sufficiently Decentralized" Approach
 
@@ -56,7 +56,7 @@ Two key projects are pioneering the development of the open social graph, each e
     - Following someone generates a "Follower NFT."
     - Publishing content allows other users to "collect" it, minting it as an NFT.
 
-- **The Trade-off:** This approach enhances composability, allowing developers to create innovative applications that utilize social data in creative ways.
+- **The Trade-off:** This approach enhances composability, allowing developers to create new applications that use social data in creative ways.
 
 - **Practical Insight: Social-Based [DeFi](/what-is-defi):** Developers can build lending protocols that offer better loan terms based on on-chain reputation, such as the number of quality Follower NFTs owned. Tokens could be [airdropped](/understanding-airdrop-campaigns-in-web3) exclusively to collectors of specific posts, showcasing the endless possibilities for programmatic interactions.
 
@@ -66,7 +66,7 @@ The emergence of a decentralized social graph is a critical development in the W
 
 - **Users Own Their Digital Identity:** Your online persona, audience, and content remain under your control. You cannot be de-platformed, and you can migrate your identity across platforms easily.
   
-- **Innovation Thrives:** Establishing a shared, open data layer will significantly lower barriers for developers to create innovative social applications. This environment encourages competition, experimentation, and enhanced user experiences.
+- **Innovation Thrives:** Establishing a shared, open data layer will significantly lower barriers for developers to create new social applications. This environment encourages competition, experimentation, and enhanced user experiences.
 
 - **New Monetization Models Emerge:** Creators can move beyond ad-based revenue models of Web2. They can monetize their work directly through crypto-native tools, such as NFTs, social tokens, and token-gated content, nurturing a more equitable relationship with their audience.
 

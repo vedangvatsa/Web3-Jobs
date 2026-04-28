@@ -99,7 +99,7 @@ Dedicate 4 to 8 weeks to learning blockchain fundamentals, including:
 Tailor your learning based on your desired role:
 - **Engineers**: Focus on Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers**: Study token economics, protocol governance, and user growth in Web3.
-- **Business Development**: Learn market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development**: Learn market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations**: Emphasize community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio
@@ -122,7 +122,7 @@ Engage with the accessible Web3 community:
 
 ### Step 5: Apply Strategically
 
-Focus on roles that utilize your existing skills along with your new Web3 knowledge:
+Focus on roles that use your existing skills along with your new Web3 knowledge:
 - If you are a backend engineer, seek blockchain infrastructure positions.
 - If you are a product manager, pursue protocol product roles.
 - If you work in sales or business, explore Web3 business development opportunities.

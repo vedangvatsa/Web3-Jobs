@@ -29,7 +29,7 @@ A Governance Engineer contributes significantly to the functioning of a DAO's "o
 ### Essential Skills and Expertise
 
 - **Advanced [Solidity](/best-programming-languages-for-blockchain-development):** Governance contracts involve high stakes, requiring a thorough understanding of security best practices, particularly concerning access control and upgradeability.
-- **DAO Frameworks:** Familiarity with standard governance frameworks like **OpenZeppelin Governor** and **Tally** is crucial.
+- **DAO Frameworks:** Familiarity with standard governance frameworks like **OpenZeppelin Governor** and **Tally** is important.
 - **Off-Chain Integration:** Proficiency with tools such as Snapshot and Discourse, along with the capability to integrate these with on-chain systems.
 - **Mechanism Design:** Knowledge of various voting systems (e.g., 1-token-1-vote, quadratic voting) and their respective advantages and disadvantages.
 
@@ -79,7 +79,7 @@ Dedicate 4-8 weeks to learning [blockchain](/what-is-a-blockchain) fundamentals.
 Tailor your skill acquisition based on your target role:
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth in Web3.
-- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance processes.
 
 #### Step 3: Build Your Portfolio
@@ -98,7 +98,7 @@ The Web3 community is highly accessible:
 - Participate in governance forums and local Web3 meetups.
 
 #### Step 5: Apply Strategically
-Focus on roles that utilize your existing skills along with your new Web3 knowledge:
+Focus on roles that use your existing skills along with your new Web3 knowledge:
 - Backend engineers should seek blockchain infrastructure positions.
 - Product managers can target protocol product roles.
 - Sales and business professionals should aim for Web3 business development opportunities.

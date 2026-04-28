@@ -18,7 +18,7 @@ This article examines the key factors contributing to the slowdown in developer 
 
 The surge in developer activity can largely be traced back to the bull market of 2021-2022. This period was defined by several notable factors:
 
-- **Widespread Hype and Speculation:** The explosion of the [NFT](/what-are-nfts) market and the emergence of "[DeFi](/what-is-defi) Summer 2.0" attracted many developers. Many were motivated by the potential for quick financial gains and the allure of innovative new technologies.
+- **Widespread Hype and Speculation:** The explosion of the [NFT](/what-are-nfts) market and the emergence of "[DeFi](/what-is-defi) Summer 2.0" attracted many developers. Many were motivated by the potential for quick financial gains and the allure of new new technologies.
 - **Aggressive Venture Capital Investment:** Billions flowed into the Web3 space, prompting startups to rapidly expand their teams to seize market opportunities.
 - **The "Tourist" Developer Phenomenon:** The enthusiasm of this era attracted many developers who were more interested in the financial prospects than in the technology itself.
 
@@ -80,7 +80,7 @@ Dedicate 4-8 weeks to learning the fundamentals of [blockchain](/what-is-a-block
 Tailor your skill acquisition to your desired role:
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript, TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain knowledge in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain knowledge in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance practices.
 
 #### Step 3: Develop Your Portfolio

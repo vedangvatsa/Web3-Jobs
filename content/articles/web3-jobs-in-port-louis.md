@@ -3,7 +3,7 @@
 title: "Web3 Jobs in Port Louis: A Guide to Mauritius' FinTech and Blockchain Hub"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "port louis mauritius"
-description: "A career guide to the Web3 job market in Port Louis. Explore how Mauritius is leveraging its strength as an international financial center to become a hub."
+description: "A career guide to the Web3 job market in Port Louis. Explore how Mauritius is using its strength as an international financial center to become a hub."
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
@@ -86,7 +86,7 @@ Salaries in Mauritius are premium due to its status as a regulated financial cen
 - Acquire a finance degree or accounting qualification, or engage in self-study if already in finance.
 - Establish relationships with over 20 fund administrators, lawyers, and accountants in Mauritius and network with at least 10 global crypto fund managers.
 - Understand custodians, legal structures, and tax implications.
-- **Deliverable**: Comprehensive regulatory knowledge, finance network, and expertise.
+- **Deliverable**: Full regulatory knowledge, finance network, and expertise.
 
 **Months 7-12: Secure a Fund Role**
 - Apply to crypto funds established in Mauritius targeting operations, administration, or business development roles.
@@ -256,7 +256,7 @@ Most employers in Mauritius are familiar with the visa sponsorship process, whic
 Yes, it is viable for crypto funds and FinTech startups. Many crypto funds are based in Mauritius, with active angel investors and some international VCs. A common strategy is to establish your business first and then seek funding.
 
 **How can I find job opportunities in Mauritius?**
-Utilize LinkedIn by searching for "Mauritius," "crypto," and "fintech." Check our job board for Mauritius roles, explore company websites of crypto funds and banks, and engage with professional associations, such as the Chamber of Commerce and financial services groups.
+Use LinkedIn by searching for "Mauritius," "crypto," and "fintech." Check our job board for Mauritius roles, explore company websites of crypto funds and banks, and engage with professional associations, such as the Chamber of Commerce and financial services groups.
 
 **What does salary progression look like?**
 Realistic expectations include:

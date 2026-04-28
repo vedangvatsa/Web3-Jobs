@@ -39,9 +39,9 @@ Think about metrics such as revenue generated, costs minimized, processes optimi
 
 ### 3. Optimize for Applicant Tracking Systems (ATS)
 
-Many large organizations utilize Applicant Tracking Systems (ATS) to filter resumes before a human reviewer examines them. To improve your chances of passing this initial screening, optimize your resume with relevant keywords.
+Many large organizations use Applicant Tracking Systems (ATS) to filter resumes before a human reviewer examines them. To improve your chances of passing this initial screening, optimize your resume with relevant keywords.
 
-- **Mirror Job Descriptions:** Analyze the job description carefully to identify crucial skills and qualifications.
+- **Mirror Job Descriptions:** Analyze the job description carefully to identify important skills and qualifications.
 - **Incorporate Keywords:** Integrate these keywords naturally throughout your resume, focusing on the "Skills" section and bullet points under "Work Experience."
 - **Use a Simple Format:** Avoid complex layouts with excessive columns, tables, or graphics. Opt for a clean, single-column format with standard headings.
 
@@ -92,7 +92,7 @@ Begin by familiarizing yourself with the essential principles of resume writing.
 
 #### Step 2: Assess Your Current Resume
 
-Evaluate your existing resume. Identify strengths and weaknesses while pinpointing specific areas for improvement. Understanding your current standing is crucial for your next steps.
+Evaluate your existing resume. Identify strengths and weaknesses while pinpointing specific areas for improvement. Understanding your current standing is important for your next steps.
 
 #### Step 3: Develop a Tailored Strategy
 
@@ -100,7 +100,7 @@ Create a plan customized to your needs. Every individual faces unique challenges
 
 #### Step 4: Implement Changes Gradually
 
-Avoid overwhelming yourself by trying to change everything at once. Start with one small adjustment and expand from there. Monitor what works and what doesn’t. This iterative process fosters sustainable improvement.
+Avoid overwhelming yourself by trying to change everything at once. Start with one small adjustment and expand from there. Monitor what works and what doesn’t. This iterative process builds sustainable improvement.
 
 #### Step 5: Measure Progress and Adjust Accordingly
 
@@ -115,7 +115,7 @@ Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced chall
 Juan, a product manager in [DeFi](/what-is-defi), encountered similar difficulties. By applying the CAR framework and optimizing his resume for ATS, he secured a role that aligned with his career aspirations, demonstrating the universality of these principles.
 
 #### Example 3
-Maya transitioned from Web2 to Web3, leveraging these strategies to adapt swiftly to her new environment. Her success exemplifies that effective resume writing can benefit professionals at all experience levels.
+Maya transitioned from Web2 to Web3, using these strategies to adapt swiftly to her new environment. Her success exemplifies that effective resume writing can benefit professionals at all experience levels.
 
 ### Common Mistakes to Avoid
 

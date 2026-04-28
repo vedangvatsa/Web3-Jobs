@@ -112,7 +112,7 @@ Depending on your desired role, consider the following areas:
 
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3
-- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory landscape
+- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory space
 - **Community/Operations:** Focus on community building, Discord management, and governance processes
 
 ### Step 3: Develop Your Portfolio
@@ -151,7 +151,7 @@ Alex, a backend engineer with experience at a major tech company, spent three mo
 
 ### Product Manager Transitioning to Web3
 
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi. Her grasp of financial products combined with Web3 technology made her an attractive candidate. Within weeks, she secured a position at a leading DeFi protocol.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi. Her grasp of financial products combined with Web3 technology made her an attractive candidate. Within weeks, she secured a position at a leading DeFi protocol.
 
 ### Career Change Success
 

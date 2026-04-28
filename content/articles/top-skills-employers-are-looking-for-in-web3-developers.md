@@ -19,7 +19,7 @@ This article details the ten essential skills that hiring managers and technical
 Smart contract development is the cornerstone of Web3 engineering. Mastery of [Solidity](/best-programming-languages-for-blockchain-development) is essential, as it is the primary language for writing smart contracts.
 
 - **Key Concepts:** Understand the intricacies of the Ethereum Virtual Machine (EVM) beyond simple syntax. Familiarize yourself with the distinctions between `storage`, `memory`, and `calldata`, and the implications of each choice on performance and costs.
-- **Practical Steps:** Engage in hands-on projects. Utilize platforms like CryptoZombies and refer to our [beginner's guide to Solidity](/solidity-for-beginners) to build your own decentralized applications (dApps). A GitHub [portfolio](/building-web3-portfolio) showcasing your work is critical.
+- **Practical Steps:** Engage in hands-on projects. Use platforms like CryptoZombies and refer to our [beginner's guide to Solidity](/solidity-for-beginners) to build your own decentralized applications (dApps). A GitHub [portfolio](/building-web3-portfolio) showcasing your work is critical.
 
 ### 2. Smart Contract Security
 
@@ -39,8 +39,8 @@ A commitment to thorough testing distinguishes a professional Web3 developer. Co
 
 Every operation on the blockchain incurs a cost. Writing gas-efficient code is a highly regarded skill in the Web3 field.
 
-- **Key Concepts:** Familiarize yourself with the gas costs associated with various EVM opcodes. Employ strategies such as struct packing, reducing state writes, and effectively utilizing `calldata` to lower transaction costs for users. Explore our [gas optimization guide](/gas-optimization-techniques-for-solidity-developers) for insights.
-- **Practical Steps:** Utilize tools like `foundry-gas-report` to evaluate the gas usage of your functions. Review articles and guides focusing specifically on gas optimization techniques.
+- **Key Concepts:** Familiarize yourself with the gas costs associated with various EVM opcodes. Employ strategies such as struct packing, reducing state writes, and effectively using `calldata` to lower transaction costs for users. Explore our [gas optimization guide](/gas-optimization-techniques-for-solidity-developers) for insights.
+- **Practical Steps:** Use tools like `foundry-gas-report` to evaluate the gas usage of your functions. Review articles and guides focusing specifically on gas optimization techniques.
 
 ### 5. Frontend Integration (Ethers.js / Viem)
 
@@ -72,7 +72,7 @@ Efficient data retrieval from the blockchain often necessitates an indexing laye
 
 ### 9. Systems Languages (Rust / Go) - Advanced
 
-For those interested in core blockchain infrastructure, proficiency in systems programming languages is crucial.
+For those interested in core blockchain infrastructure, proficiency in systems programming languages is important.
 
 - **Key Concepts:** Rust is predominantly used in Solana, Polkadot, and various ZK systems, while Go powers Go-Ethereum (Geth), the leading Ethereum client.
 - **Practical Steps:** These languages feature a steep learning curve and are suitable for developers already well-versed in application-level development seeking a shift to protocol engineering.

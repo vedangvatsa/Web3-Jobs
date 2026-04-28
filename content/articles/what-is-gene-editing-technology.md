@@ -1,7 +1,7 @@
 ---
 
 title: "What is Gene Editing Technology"
-description: "A detailed explanation of gene editing, focusing on how technologies like CRISPR work and their potential to revolutionize medicine and agriculture."
+description: "A detailed explanation of gene editing, focusing on how technologies like CRISPR work and their potential to change medicine and agriculture."
 category: "Educational"
 image: "https://picsum.photos/seed/geneediting/1200/630"
 data-ai-hint: "dna strand"
@@ -64,7 +64,7 @@ Yes, gene editing therapies are available but in limited capacities. Recent appr
 
 ### Why This Matters
 
-Understanding gene editing technology is crucial for professionals in various fields, particularly as it continues to shape multiple industries. Mastering this knowledge allows individuals to stand out, enhance their career prospects, and contribute meaningfully to advancements in biotechnology and agriculture.
+Understanding gene editing technology is important for professionals in various fields, particularly as it continues to shape multiple industries. Mastering this knowledge allows individuals to stand out, enhance their career prospects, and contribute meaningfully to advancements in biotechnology and agriculture.
 
 ### Step-by-Step Guide to Engaging with Gene Editing
 
@@ -93,8 +93,8 @@ Monitor your understanding and application of gene editing concepts. Reflect on 
 | Example           | Description                                                                                     | Outcome                                      |
 |-------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------|
 | **Sickle Cell Anemia Treatment** | Researchers at the University of California, Berkeley, developed a CRISPR therapy to treat sickle cell anemia by editing the patient's own stem cells. | Clinical trials showed significant reduction in disease symptoms, paving the way for potential widespread treatment. |
-| **Improved Crop Resilience** | Scientists at the University of Illinois used CRISPR to enhance drought resistance in soybeans, allowing for better yields in adverse conditions. | Field trials demonstrated increased resilience and productivity, crucial for adapting to climate change. |
-| **CAR-T Cell Therapy** | Researchers at Memorial Sloan Kettering Cancer Center utilized gene editing to modify T-cells to target leukemia. | CAR-T therapy has resulted in remission in a significant percentage of patients with certain blood cancers. |
+| **Improved Crop Resilience** | Scientists at the University of Illinois used CRISPR to enhance drought resistance in soybeans, allowing for better yields in adverse conditions. | Field trials demonstrated increased resilience and productivity, important for adapting to climate change. |
+| **CAR-T Cell Therapy** | Researchers at Memorial Sloan Kettering Cancer Center used gene editing to modify T-cells to target leukemia. | CAR-T therapy has resulted in remission in a significant percentage of patients with certain blood cancers. |
 
 ### Common Mistakes to Avoid in Engaging with Gene Editing
 

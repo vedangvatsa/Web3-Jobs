@@ -67,7 +67,7 @@ Several prominent projects are competing in the DA layer market:
 
 ### Celestia
 
-**Celestia** is the first modular blockchain specifically designed as a DA layer. Key features:
+- **Celestia** is the first modular blockchain specifically designed as a DA layer. Key features:
 
 - **Data Availability Sampling**: Light clients sample random chunks to verify availability with high confidence.
 - **Sovereign Rollups**: Rollups can use Celestia for DA without settling to any L1, maintaining full sovereignty.
@@ -77,7 +77,7 @@ Celestia has attracted numerous rollup projects, particularly for alt-VM rollups
 
 ### EigenDA
 
-**EigenDA** is a DA layer built on EigenLayer's restaking infrastructure. Key features:
+- **EigenDA** is a DA layer built on EigenLayer's restaking infrastructure. Key features:
 
 - **Restaked Security**: Secured by Ethereum validators who opt into EigenLayer restaking.
 - **Very High Throughput**: Targeting high throughput for rollups.
@@ -87,7 +87,7 @@ EigenDA launched in 2024 and has been adopted by major Ethereum rollups seeking 
 
 ### Avail
 
-**Avail** (formerly part of Polygon, now independent) is a DA layer with a focus on interoperability:
+- **Avail** (formerly part of Polygon, now independent) is a DA layer with a focus on interoperability:
 
 - **Validity Proofs**: Uses validity proofs to prove data availability.
 - **Multichain Attestations**: Can provide DA guarantees to multiple L1s simultaneously.
@@ -97,7 +97,7 @@ Avail launched its mainnet in 2024 and focuses on enterprise and gaming rollups.
 
 ### NEAR DA
 
-**NEAR DA** leverages the NEAR Protocol blockchain as a DA layer:
+- **NEAR DA** uses the NEAR Protocol blockchain as a DA layer:
 
 - **Low Cost**: Extremely cheap compared to Ethereum calldata.
 - **Immediate Availability**: Live mainnet with battle-tested infrastructure.
@@ -127,7 +127,7 @@ Different DA layers use different security models:
 
 - **Independent L1 (Celestia, Avail)**: Secured by their own validator sets with dedicated tokens, offering full sovereignty.
 
-- **Alt-L1 Leverage (NEAR DA)**: Uses existing L1 validator set (NEAR) for DA, relying on cross-chain trust assumptions.
+- **Alt-L1 Use (NEAR DA)**: Uses existing L1 validator set (NEAR) for DA, relying on cross-chain trust assumptions.
 
 - **Hybrid Models**: Some rollups use multiple DA layers simultaneously, posting to Ethereum for critical batches and cheaper DA layers for routine transactions.
 
@@ -145,7 +145,7 @@ Rollups integrate with DA layers through standardized interfaces:
 - Generate validity proofs and submit to L1.
 - L1 verifies proof references correct DA commitments.
 
-**Sovereign Rollups** (using Celestia):
+- **Sovereign Rollups** (using Celestia):
 - Post data to Celestia without settling to any L1.
 - Social consensus determines canonical fork.
 
@@ -173,7 +173,7 @@ DAS is a breakthrough that makes high-throughput DA layers practical and secure.
 
 DA layers dramatically reduce rollup costs:
 
-**Ethereum Rollup Cost Breakdown** (using Ethereum calldata):
+- **Ethereum Rollup Cost Breakdown** (using Ethereum calldata):
 - A significant portion of costs comes from posting data to L1 (calldata).
 - A smaller portion of costs comes from computation and proof generation.
 
@@ -209,7 +209,7 @@ The DA layer ecosystem offers specialized roles:
 
 - **Rollup Integration Engineers**: Build integrations between rollups and DA layers, implementing adapters and verification logic.
 
-- **Distributed Systems Engineers**: Optimize DA layer throughput, latency, and resource utilization at scale.
+- **Distributed Systems Engineers**: Optimize DA layer throughput, latency, and resource use at scale.
 
 - **Light Client Developers**: Build light client implementations for mobile, browser, and embedded devices.
 
@@ -243,7 +243,7 @@ DA layers are evolving rapidly:
 
 - **Full Danksharding**: Ethereum's long-term plan for native high-throughput DA using DAS.
 
-- **Cross-DA Interoperability**: Standards enabling rollups to seamlessly switch between or use multiple DA layers simultaneously.
+- **Cross-DA Interoperability**: Standards enabling rollups to smoothly switch between or use multiple DA layers simultaneously.
 
 - **DA Layer Aggregation**: Protocols that aggregate DA across multiple layers, providing unified interfaces and optimized routing.
 
@@ -251,4 +251,4 @@ DA layers are evolving rapidly:
 
 The DA layer will likely remain one of the most active areas of blockchain infrastructure innovation, directly enabling the scalability needed for mainstream adoption.
 
-**Building a rollup?** Evaluate DA layer options early, run cost projections, and test integrations thoroughly, your choice of DA layer will fundamentally impact your rollup's economics and security model.
+- **Building a rollup?** Evaluate DA layer options early, run cost projections, and test integrations thoroughly, your choice of DA layer will fundamentally impact your rollup's economics and security model.

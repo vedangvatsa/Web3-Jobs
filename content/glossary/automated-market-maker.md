@@ -45,7 +45,7 @@ When someone swaps tokens, they:
 2. Receive different tokens from the pool (output)
 3. The pool maintains **x × y = k**
 
-**Example: Swapping 100 USDC for ETH**
+- **Example: Swapping 100 USDC for ETH**
 
 Starting state: 1000 ETH, 2,000,000 USDC
 
@@ -119,7 +119,7 @@ Starting state: 1000 ETH, 2,000,000 USDC
 
 ## Slippage and Price Impact
 
-**Slippage** is the difference between expected price and actual execution price.
+- **Slippage** is the difference between expected price and actual execution price.
 
 - **Cause**: Large trades move the price, causing the pool to become less balanced.
 
@@ -252,4 +252,4 @@ AMMs continue to evolve:
 
 AMMs have transformed trading, enabling significant daily volume without centralized intermediaries. As they evolve, AMMs will likely become more efficient and user-accessible.
 
-**Providing liquidity to AMMs?** Understand impermanent loss, start with stablecoin pools if risk-averse, or volatile pairs if seeking high yields. Active management or delegating to professional LPs will likely generate better returns than passive LP positions.
+- **Providing liquidity to AMMs?** Understand impermanent loss, start with stablecoin pools if risk-averse, or volatile pairs if seeking high yields. Active management or delegating to professional LPs will likely generate better returns than passive LP positions.

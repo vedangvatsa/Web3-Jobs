@@ -16,7 +16,7 @@ A coffee chat serves as an informal conversation with a professional in your fie
 
 Although coffee chats are casual, they require adherence to specific etiquette. Understanding how to request, conduct, and follow up on these conversations can significantly enhance your networking efforts. By mastering this skill, you can transform a brief interaction into a long-lasting professional relationship.
 
-Whether you are a student exploring career paths, a professional considering a change, or someone aiming to expand their network, learning to manage coffee chats is crucial. This guide outlines the entire process, step-by-step.
+Whether you are a student exploring career paths, a professional considering a change, or someone aiming to expand their network, learning to manage coffee chats is important. This guide outlines the entire process, step-by-step.
 
 ## Part 1: The Request - Securing a Positive Response
 
@@ -93,7 +93,7 @@ Your primary goal is to listen and learn. Devote 80% of the conversation to aski
 
 ### 4. Ask for Further Connections
 
-As the conversation nears its end, pose the crucial networking question:
+As the conversation nears its end, pose the important networking question:
 
 **"Based on our conversation, is there anyone else you think would be valuable for me to connect with?"**
 

@@ -73,13 +73,13 @@ Dixon highlights the tendency of new technologies to mimic existing ones, a phen
 - **Early Web:** Digital "brochures" imitated print media.
 - **Early Web3:** Many initial dApps mirrored Web2 services, often requiring a [wallet](/how-to-choose-a-crypto-wallet) connection, such as "decentralized Twitter" or "decentralized Uber."
 
-Dixon argues that groundbreaking applications of new technology will initially appear unconventional. He encourages innovators to look beyond recreating existing Web2 applications on blockchain and instead explore the unique, native possibilities of Web3.
+Dixon argues that new applications of new technology will initially appear unconventional. He encourages innovators to look beyond recreating existing Web2 applications on blockchain and instead explore the unique, native possibilities of Web3.
 
 ## The Optimist's Case for Web3
 
 Chris Dixon stands as one of Web3's most optimistic advocates. His frameworks offer a compelling perspective on the significance of this movement. He perceives Web3 not merely as a niche financial market but as a fundamental transformation in the structure of the internet, shifting from a centralized, corporate-controlled web to a decentralized, community-owned web.
 
-By articulating this vision through clear mental models, Dixon has laid the intellectual groundwork for a generation of entrepreneurs and developers. His work serves as a rallying cry for builders to transcend the limitations of Web2, aiming to create a more equitable, innovative, and user-owned internet.
+By articulating this vision through clear mental models, Dixon has laid the intellectual groundwork for a generation of entrepreneurs and developers. His work serves as a rallying cry for builders to transcend the limitations of Web2, aiming to create a more equitable, new, and user-owned internet.
 
 ### Frequently Asked Questions (FAQ)
 

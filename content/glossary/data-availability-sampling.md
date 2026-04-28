@@ -67,11 +67,11 @@ DAS has complexity and probabilistic guarantees.
 
 DAS roles:
 
-**Protocol Engineers** earn competitive salaries.
+- **Protocol Engineers** earn competitive salaries.
 
-**Research Engineers** earn competitive salaries.
+- **Research Engineers** earn competitive salaries.
 
-**Distributed Systems Engineers** earn competitive salaries.
+- **Distributed Systems Engineers** earn competitive salaries.
 
 ## Best Practices
 
@@ -81,7 +81,7 @@ Using DAS:
 
 - **Monitor Availability**: Track availability metrics.
 
-- **Redundancy**: Ensure robust erasure coding.
+- **Redundancy**: Ensure strong erasure coding.
 
 ## The Future of DAS
 

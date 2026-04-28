@@ -65,9 +65,9 @@ This consolidation will likely result in the survival of only a few rollups. The
 
 Bitcoin is increasingly recognized as more than just a store of value in the DeFi space. The Ordinals protocol has introduced NFTs and tokens to Bitcoin, generating significant miner fees during recent years. Bitcoin Layer 2s are enabling smart contract functionalities while maintaining Bitcoin's security.
 
-The potential for Bitcoin DeFi is significant. With a market cap exceeding trillions in value, Bitcoin dwarfs other crypto assets, yet a small percentage of BTC is utilized in DeFi compared to Ethereum. Even a modest uptick in Bitcoin's DeFi adoption could lead to billions in total value locked.
+The potential for Bitcoin DeFi is significant. With a market cap exceeding trillions in value, Bitcoin dwarfs other crypto assets, yet a small percentage of BTC is used in DeFi compared to Ethereum. Even a modest uptick in Bitcoin's DeFi adoption could lead to billions in total value locked.
 
-**Career signal:** Developers with expertise in Bitcoin's UTXO model, Script, and Taproot are in high demand. The competitive hiring landscape reflects the scarcity of talent in this area.
+**Career signal:** Developers with expertise in Bitcoin's UTXO model, Script, and Taproot are in high demand. The competitive hiring space reflects the scarcity of talent in this area.
 
 ## 7. Onchain Identity and Reputation Systems
 

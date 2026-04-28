@@ -31,7 +31,7 @@ Yield curves are discovered through supply and demand for loans at different mat
 
 Curves indicate market expectations:
 
-**Upward-Sloping** (Normal): Short rates low, long rates high. Indicates expectations of rising rates or risk premiums increasing over time. Most common historically.
+- **Upward-Sloping** (Normal): Short rates low, long rates high. Indicates expectations of rising rates or risk premiums increasing over time. Most common historically.
 
 - **Flat**: Short and long rates similar. Transition period, market uncertain about direction.
 
@@ -75,13 +75,13 @@ Understanding curves enables sophisticated DeFi strategies.
 
 Yield curves create roles:
 
-**Quantitative Analysts** modeling yield curves.
+- **Quantitative Analysts** modeling yield curves.
 
-**Protocol Designers** building yield curve mechanisms.
+- **Protocol Designers** building yield curve mechanisms.
 
-**Traders** arbitraging inefficiencies in yield curves.
+- **Traders** arbitraging inefficiencies in yield curves.
 
-**Researchers** studying DeFi yield curve dynamics.
+- **Researchers** studying DeFi yield curve dynamics.
 
 ## Best Practices
 

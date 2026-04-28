@@ -14,7 +14,7 @@ As the [Web3](/what-is-web3) industry evolves into a significant economic force,
 
 For legal and compliance professionals, Web3 presents a unique career opportunity. It allows them to move beyond established legal precedents and address novel issues that lack historical context. The nature of this work is challenging, with high stakes, and the need for specialized knowledge far exceeds the available supply.
 
-This guide examines critical legal specialties in Web3, the unique challenges practitioners face, and strategies for legal professionals to build a career in this innovative space. For a detailed roadmap, refer to our guide on [how to become a Web3 legal consultant](/how-to-become-a-web3-legal-consultant).
+This guide examines critical legal specialties in Web3, the unique challenges practitioners face, and strategies for legal professionals to build a career in this new space. For a detailed roadmap, refer to our guide on [how to become a Web3 legal consultant](/how-to-become-a-web3-legal-consultant).
 
 ### The Legal Frontiers of Web3
 
@@ -28,7 +28,7 @@ Web3 lawyers operate at the forefront of evolving legal challenges. Their roles 
 
 **2. Corporate & [DAO](/what-is-a-dao) Entity Formation:**
 - **The Core Question:** What legal status does a [DAO](/what-is-a-dao) have? Without a formal structure, DAO members may be treated as a general partnership, exposing them to significant personal liability.
-- **The Work:** Attorneys assist DAOs in establishing traditional legal entities to provide liability protection and facilitate off-chain interactions, such as signing contracts or opening bank accounts. This often involves forming entities like foundations in favorable jurisdictions, including the Cayman Islands and Switzerland, or utilizing newer structures like Limited Cooperative Associations (LCAs) in the U.S.
+- **The Work:** Attorneys assist DAOs in establishing traditional legal entities to provide liability protection and facilitate off-chain interactions, such as signing contracts or opening bank accounts. This often involves forming entities like foundations in favorable jurisdictions, including the Cayman Islands and Switzerland, or using newer structures like Limited Cooperative Associations (LCAs) in the U.S.
 
 **3. Intellectual Property (IP):**
 - **The Core Question:** Who owns the IP associated with an [NFT](/what-are-nfts)? What rights does a token holder possess?
@@ -40,18 +40,18 @@ Web3 lawyers operate at the forefront of evolving legal challenges. Their roles 
 
 **5. Privacy and Data Law:**
 - **The Core Question:** How do regulations like GDPR apply to a public, immutable [blockchain](/what-is-a-blockchain) where data cannot be erased?
-- **The Work:** Legal professionals advise projects on designing privacy-preserving decentralized applications (dApps). This complex area may involve innovative technologies like [Zero-Knowledge Proofs](/zero-knowledge-proofs-explained).
+- **The Work:** Legal professionals advise projects on designing privacy-preserving decentralized applications (dApps). This complex area may involve new technologies like [Zero-Knowledge Proofs](/zero-knowledge-proofs-explained).
 
 ### The Skills and Mindset of a Web3 Lawyer
 
 - **Deep Technical Literacy:** A solid understanding of technology is essential for effective legal advice. Familiarity with the differences between Layer 1 and Layer 2 solutions, how [smart contracts](/what-are-smart-contracts) function, and the basics of public key cryptography is necessary.
 - **Comfort with Ambiguity:** Many legal questions in Web3 lack clear answers. Professionals must assess risks within gray areas where precedents do not exist.
 - **Intellectual Curiosity:** The technology and regulatory environment continuously evolve. A successful Web3 lawyer remains a lifelong learner.
-- **Pragmatism:** Translating complex legal risks into actionable business advice is crucial for supporting founders.
+- **Pragmatism:** Translating complex legal risks into actionable business advice is important for supporting founders.
 
 ### How to Start a Legal Career in Web3
 
-1. **Engage with the Community:** Immerse yourself in the Web3 ecosystem. Create a [wallet](/how-to-choose-a-crypto-wallet), utilize DeFi protocols, and participate in DAO voting. Direct experience is invaluable.
+1. **Engage with the Community:** Immerse yourself in the Web3 ecosystem. Create a [wallet](/how-to-choose-a-crypto-wallet), use DeFi protocols, and participate in DAO voting. Direct experience is invaluable.
 2. **Focus Your Expertise:** Web3 encompasses a broad range of topics. If you specialize in securities law, aim to become an expert on the Howey Test. If your background is in IP law, concentrate on NFT licensing.
 3. **Establish a Public Track Record:** Your [resume](/how-to-build-a-web3-resume-that-stands-out) is less significant than your demonstrated expertise.
    - **Actionable Step:** Launch a blog or Substack newsletter. Analyze recent SEC enforcement actions or explore legal questions related to new DAO structures. Public writing showcases your knowledge and serves as an effective marketing tool.
@@ -115,7 +115,7 @@ The Web3 community is highly accessible:
 - Participate in governance forums and local Web3 meetups.
 
 ### Step 5: Apply Strategically
-Target roles that utilize your existing skills along with your new Web3 knowledge:
+Target roles that use your existing skills along with your new Web3 knowledge:
 - Backend engineers should seek blockchain infrastructure positions.
 - Product managers should look for roles focused on protocol products.
 - Sales and business professionals should pursue opportunities in Web3 business development.
@@ -126,7 +126,7 @@ Target roles that utilize your existing skills along with your new Web3 knowledg
 Alex, a backend engineer with five years of experience at a major tech company, spent time learning Solidity while maintaining his job. His contributions to an open-source protocol attracted a major DeFi project, leading to a transition with a salary increase and significant equity.
 
 ### Product Manager in Web3
-Jessica, with a background in traditional finance, leveraged her expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her an asset. Within a short period, she secured a position at a leading DeFi protocol.
+Jessica, with a background in traditional finance, used her expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her an asset. Within a short period, she secured a position at a leading DeFi protocol.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for several months. Through consistent learning, networking, and portfolio development, he landed a role in Developer Relations at a major blockchain platform, significantly surpassing his previous compensation.

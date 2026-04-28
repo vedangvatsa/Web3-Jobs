@@ -69,13 +69,13 @@ Initially focused on scholarships, gaming guilds have significantly broadened th
 
 **Decentralized Investment Funds**: Guilds have transformed into key players in the GameFi venture capital arena. They deploy their treasuries to invest in promising new Web3 games, gaining early access to NFT assets for their members before public launches. This early access can yield substantial financial benefits, acquiring valuable Axies or land plots can lead to higher profitability.
 
-**Player Data Platforms**: Guilds are developing on-chain "resumes" for scholars, documenting gaming history and achievements. This data is valuable for assessing player skills, reliability, and earning potential. New games can utilize this information to better match players with suitable challenges and recruitment initiatives.
+**Player Data Platforms**: Guilds are developing on-chain "resumes" for scholars, documenting gaming history and achievements. This data is valuable for assessing player skills, reliability, and earning potential. New games can use this information to better match players with suitable challenges and recruitment initiatives.
 
 **Community and Social Hubs**: Guilds serve as vibrant communities, supporting a sense of belonging among gamers. Scholars often express that the community aspect, connecting with fellow gamers for strategy sharing and encouragement, holds nearly as much value as the financial benefits.
 
 **Research and Analytics**: Leading guilds are investing in analytics to assess game economics, sustainability, and resource allocation. Guilds like YGG produce research that shapes industry trends and provides insights into the viability of different games.
 
-**Regulatory Bridges**: As governments begin to regulate gaming, guilds play a crucial role in helping scholars understand tax obligations and compliance. Some guilds are even employing tax accountants to assist scholars in their regions.
+**Regulatory Bridges**: As governments begin to regulate gaming, guilds play a important role in helping scholars understand tax obligations and compliance. Some guilds are even employing tax accountants to assist scholars in their regions.
 
 ## The Economics: Assessing Game Profitability
 
@@ -140,7 +140,7 @@ In these regions, gaming guilds do more than provide entertainment; they serve a
 
 **Professionalization**: Guilds are increasingly adopting professional practices, hiring full-time staff, developing advanced analytics, and pursuing regulatory compliance. The era of casual Discord-based guilds is coming to an end.
 
-**New Game Formats**: As traditional P2E models face challenges, guilds are exploring innovative formats. These include social games that foster community and skill-based earnings that move beyond simple token farming.
+**New Game Formats**: As traditional P2E models face challenges, guilds are exploring new formats. These include social games that build community and skill-based earnings that move beyond simple token farming.
 
 **Regulatory Clarity**: As governments clarify regulations regarding cryptocurrency and gaming, guilds will need to adapt. Some jurisdictions may impose restrictions on specific P2E mechanisms or mandate particular terms for scholars.
 

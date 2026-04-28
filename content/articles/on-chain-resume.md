@@ -43,7 +43,7 @@ Creating a strong on-chain resume requires intentional actions. It involves cura
 **2. Engage Actively:**
 - **Explore Various Protocols:** Go beyond the basics. Experiment with different Layer 2 solutions, dive into new DeFi protocols, or lend assets on a money market.
   
-- **Participate in Governance:** This is a key indicator of your commitment. Even with a small number of tokens, voting on governance proposals demonstrates that you care about the protocols you utilize. Platforms like Tally simplify this process.
+- **Participate in Governance:** This is a key indicator of your commitment. Even with a small number of tokens, voting on governance proposals demonstrates that you care about the protocols you use. Platforms like Tally simplify this process.
 
 - **Collect POAPs:** POAPs are NFT badges awarded to attendees of events, whether virtual or in-person. Having a collection of POAPs from significant conferences shows your engagement.
 
@@ -93,7 +93,7 @@ Dedicate 4-8 weeks to learning blockchain fundamentals. Key areas to understand 
 Depending on your desired role:
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Focus on token economics, protocol governance, and user growth strategies.
-- **Business Development:** Gain expertise in market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Gain expertise in market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 **Step 3: Create a Portfolio**
@@ -124,7 +124,7 @@ Target roles that use your existing skills alongside your new Web3 knowledge:
 Alex, a backend engineer with five years at a major tech company, dedicated three months to learning Solidity while continuing his job. He contributed to an open-source protocol, impressing a major DeFi project, leading to a significant salary increase and substantial equity.
 
 **Product Manager Transition**
-Jessica, a product manager from traditional finance, utilized her expertise in DeFi. Her understanding of financial products married with Web3 technology made her highly sought after. She secured a position at a leading DeFi protocol within a short time.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her understanding of financial products married with Web3 technology made her highly sought after. She secured a position at a leading DeFi protocol within a short time.
 
 **Career Change Example**
 Marcus transitioned to Web3 after six months of focused learning and networking. His efforts culminated in a role leading Developer Relations at a significant blockchain platform, with compensation exceeding his previous job.
@@ -133,7 +133,7 @@ Marcus transitioned to Web3 after six months of focused learning and networking.
 
 **Volatility Risks:** The inherent volatility of the crypto market can threaten job stability, especially at early-stage startups. Professionals entering Web3 should maintain 6-12 months of living expenses as a buffer, negotiate base salaries in fiat, and ideally join projects with established revenue streams.
 
-**Regulatory Concerns:** The regulatory landscape for blockchain companies is evolving. Before joining a project, ensure the team has competent legal counsel and is engaging proactively with regulators.
+**Regulatory Concerns:** The regulatory space for blockchain companies is evolving. Before joining a project, ensure the team has competent legal counsel and is engaging proactively with regulators.
 
 **Due Diligence:** Not every Web3 project has legitimacy. Conduct thorough research into the founding team's history, audit reports for smart contracts, treasury holdings, and engage with current or former team members before accepting an offer.
 

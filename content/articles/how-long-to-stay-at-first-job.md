@@ -74,7 +74,7 @@ Whether you plan to stay for six months or six years, your goal should be to ext
 
 *   **Be a Sponge:** Learn everything you can. Ask questions. Sit in on meetings that aren't directly related to your role.
 *   **Build Relationships:** Get to know your colleagues. Find a mentor. These relationships will be invaluable throughout your career.
-*   **Document Your Achievements:** Keep a running list of your accomplishments, the projects you’ve worked on, and the skills you’ve learned. This will be crucial for updating your resume.
+*   **Document Your Achievements:** Keep a running list of your accomplishments, the projects you’ve worked on, and the skills you’ve learned. This will be important for updating your resume.
 *   **Seek Feedback:** Regularly ask your manager and peers for feedback on your performance. This is the fastest way to grow.
 
 Your first job is a launchpad. It’s not just about what you do for the company; it’s about what the company does for you and your career. Make sure you’re getting what you need to set yourself up for long-term success.

@@ -44,7 +44,7 @@ Halving events play a key role in Bitcoin's economic model and its reputation as
 
 Not all cryptocurrencies incorporate halving events. Halving is a characteristic of cryptocurrencies with a capped maximum supply and a Proof-of-Work mining structure, such as Bitcoin and Litecoin. 
 
-Cryptocurrencies utilizing a Proof-of-Stake consensus mechanism, like [Ethereum](/what-is-ethereum), do not involve mining or halvings. Their supply is regulated by different parameters governing [staking](/how-to-become-a-web3-staking-specialist) rewards and, in Ethereum's case, a **[fee-burning mechanism](/what-is-burning-tokens-in-cryptocurrency)** that can lead to deflation during high network activity periods.
+Cryptocurrencies using a Proof-of-Stake consensus mechanism, like [Ethereum](/what-is-ethereum), do not involve mining or halvings. Their supply is regulated by different parameters governing [staking](/how-to-become-a-web3-staking-specialist) rewards and, in Ethereum's case, a **[fee-burning mechanism](/what-is-burning-tokens-in-cryptocurrency)** that can lead to deflation during high network activity periods.
 
 The halving mechanism effectively creates digital scarcity, making Bitcoin a distinct financial asset and a significant driver of the market cycles that shape the cryptocurrency space.
 
@@ -106,7 +106,7 @@ Tailor your skill acquisition based on your target role:
 
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Study token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Build a Portfolio
@@ -144,7 +144,7 @@ Alex, a backend engineer with five years of experience at a leading tech company
 
 ### Transitioning a Product Manager to Web3
 
-Jessica, a product manager from traditional finance, utilized her knowledge of DeFi to transition into Web3. Her understanding of financial products paired with Web3 technology made her a sought-after candidate. She secured a role at a leading DeFi protocol within a short period.
+Jessica, a product manager from traditional finance, used her knowledge of DeFi to transition into Web3. Her understanding of financial products paired with Web3 technology made her a sought-after candidate. She secured a role at a leading DeFi protocol within a short period.
 
 ### Career Change Success Story
 

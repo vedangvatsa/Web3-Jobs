@@ -1,7 +1,7 @@
 ---
 
 title: "Understanding Concentrated Liquidity in Uniswap v3"
-description: "An in-depth guide to Concentrated Liquidity, the groundbreaking feature of Uniswap v3 that allows for greater capital efficiency, and its implications for."
+description: "An in-depth guide to Concentrated Liquidity, the new feature of Uniswap v3 that allows for greater capital efficiency, and its implications for."
 category: "Educational"
 image: "https://picsum.photos/seed/concliquidity/1200/630"
 data-ai-hint: "concentrated liquidity"

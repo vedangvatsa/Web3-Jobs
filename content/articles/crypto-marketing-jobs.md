@@ -33,7 +33,7 @@ The marketing team within a Web3 project comprises a variety of specialized role
    
 2. **Content Marketer / Strategist**: These professionals are the storytellers who create written content, including blog posts, documentation, and Twitter threads that articulate the project's vision and technology. Their goal is to simplify complex concepts for the audience. 
 
-3. **Social Media Manager**: Twitter acts as the primary communication platform in Web3. This role focuses on mastering Twitter engagement, building relationships with influencers, and effectively utilizing memes to drive conversation.
+3. **Social Media Manager**: Twitter acts as the primary communication platform in Web3. This role focuses on mastering Twitter engagement, building relationships with influencers, and effectively using memes to drive conversation.
 
 4. **Growth Marketer / Business Development**: This position emphasizes forming partnerships and integrations with other Web3 projects. Growth strategies often involve B2B2C models, enabling a project to tap into existing user bases.
 
@@ -53,7 +53,7 @@ In Web3, your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as a 
 
 ### Essential Skills for Web3 Marketers
 
-- **Exceptional Writing**: Clear and compelling writing is crucial, as the primary communication mode in Web3 is written content.
+- **Exceptional Writing**: Clear and compelling writing is important, as the primary communication mode in Web3 is written content.
 
 - **Cultural Fluency**: An understanding of the language, memes, and etiquette prevalent on Crypto Twitter is necessary.
 
@@ -99,7 +99,7 @@ Tailor your learning based on your target role:
   
 - **Product Managers**: Understand token economics, protocol governance, and user growth strategies in Web3.
 
-- **Business Development Professionals**: Focus on market analysis, partnership strategy, and understanding the regulatory landscape.
+- **Business Development Professionals**: Focus on market analysis, partnership strategy, and understanding the regulatory space.
 
 - **Community/Operations Specialists**: Develop skills in community building, Discord management, and governance processes.
 
@@ -149,7 +149,7 @@ Marcus transitioned from a corporate job to focus solely on Web3 for six months.
 
 **Volatility Risk**: The crypto market's volatility can affect job stability, particularly at early-stage startups with limited cash reserves. Professionals entering Web3 should maintain a financial buffer, negotiate base salaries in fiat instead of tokens, and ideally join projects with established revenue streams or substantial treasury backing.
 
-**Regulatory Uncertainty**: The regulatory landscape for blockchain companies is evolving across various jurisdictions. Before joining a project, verify that the team has competent legal counsel and proactively engages with regulators.
+**Regulatory Uncertainty**: The regulatory space for blockchain companies is evolving across various jurisdictions. Before joining a project, verify that the team has competent legal counsel and proactively engages with regulators.
 
 **Due Diligence**: Not every Web3 project is legitimate. Research the founding team's track record, examine audit reports for smart contracts, verify treasury holdings on-chain, and speak with current or former team members prior to accepting an offer.
 

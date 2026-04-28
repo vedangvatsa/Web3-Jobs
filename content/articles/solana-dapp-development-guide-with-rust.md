@@ -2,7 +2,7 @@
 
 title: "Solana dApp Development Guide with Rust"
 image: "https://picsum.photos/seed/27/1200/630"
-description: "A comprehensive guide to building your first decentralized application (dApp) on the Solana blockchain using Rust and the Anchor framework."
+description: "A full guide to building your first decentralized application (dApp) on the Solana blockchain using Rust and the Anchor framework."
 category: "Technology Deep Dives"
 data-ai-hint: "blockchain code"
 
@@ -23,7 +23,7 @@ This guide will walk you through the core concepts and steps required to build y
 
 ### Core Concepts of Solana Development
 
-Before we start building, it's crucial to understand Solana's unique account model, which is different from account-based blockchains like [Ethereum](/what-is-ethereum).
+Before we start building, it's important to understand Solana's unique account model, which is different from account-based blockchains like [Ethereum](/what-is-ethereum).
 
 *   **Everything is an Account**: In Solana, there are no separate concepts of "storage" and "accounts." Everything is an "account." A smart contract is an account marked as "executable." The data that a smart contract uses is stored in separate data accounts. Even a user's [wallet](/how-to-choose-a-crypto-wallet) is an account.
 *   **Programs are Stateless**: The smart contract code itself (the "program") is stateless. It does not store any data. All data is stored in separate accounts that are passed into the program as arguments during a transaction. This is a key difference from Ethereum, where a contract can have its own internal state variables.

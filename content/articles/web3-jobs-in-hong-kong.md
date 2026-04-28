@@ -35,7 +35,7 @@ The demand for Web3 professionals with expertise in finance and crypto is except
 | Quantitative Traders & Researchers              | Varies                   | 100,000 - 200,000+              |
 | Institutional Sales & Business Development      | Experienced              | 70,000 - 130,000+               |
 
-- **Legal & Compliance Officers:** This role is crucial in Hong Kong's regulated environment. Professionals who can adeptly manage the SFC's licensing requirements are highly sought after. Experienced individuals can expect salaries ranging from HKD 80,000 to over HKD 150,000 per month.
+- **Legal & Compliance Officers:** This role is important in Hong Kong's regulated environment. Professionals who can adeptly manage the SFC's licensing requirements are highly sought after. Experienced individuals can expect salaries ranging from HKD 80,000 to over HKD 150,000 per month.
   
 - **Smart Contract & Backend Engineers:** Demand remains strong for developers proficient in blockchain technologies, particularly those familiar with Solidity, Rust, or Go. Mid-level engineers can earn between HKD 60,000 and HKD 90,000 monthly, while senior engineers command salaries from HKD 90,000 to HKD 140,000 or more.
 

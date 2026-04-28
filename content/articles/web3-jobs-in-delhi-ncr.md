@@ -19,7 +19,7 @@ This region hosts the headquarters of significant crypto exchanges, leading Web3
 Delhi NCR's Web3 ecosystem emphasizes communication, business, and policy rather than focusing solely on deep-tech engineering. 
 
 - **Media and Marketing Center:** The region serves as a core of India’s media sector, attracting skilled marketing, content, and public relations professionals. This environment supports the development of Web3 marketing agencies, crypto media firms, and growth teams for major exchanges and protocols.
-- **Policy and Regulation Hub:** As the capital, Delhi is at the forefront of crucial discussions regarding crypto regulation, creating a significant demand for policy experts, lawyers, and public affairs professionals who can interact with regulators and influence the industry’s future in India.
+- **Policy and Regulation Hub:** As the capital, Delhi is at the forefront of important discussions regarding crypto regulation, creating a significant demand for policy experts, lawyers, and public affairs professionals who can interact with regulators and influence the industry’s future in India.
 - **Corporate and Startup Ecosystem:** Gurgaon is home to the Indian headquarters of numerous multinational companies and has a burgeoning startup scene. This environment supports enterprise [blockchain](/what-is-a-blockchain) solutions and assists Web2 companies in transitioning to Web3.
 - **Expansive Consumer Base:** NCR stands as one of India's largest and most affluent consumer markets, making it a critical battleground for crypto exchanges and user-focused dApps seeking to grow their user bases.
 
@@ -123,7 +123,7 @@ Marcus transitioned from his corporate job to focus on Web3 for six months. Thro
 
 **Volatility Risk:** The crypto market's inherent volatility can affect job stability, particularly in early-stage startups. Professionals entering Web3 should maintain 6-12 months of living expenses as a reserve, negotiate base salaries in fiat currency, and ideally join projects with established revenue models or reliable treasury backing.
 
-**Regulatory Uncertainty:** The regulatory landscape for blockchain companies is still in flux across major jurisdictions. Before joining a project, confirm that the team has competent legal counsel and is proactively engaging with regulators rather than operating in ambiguous legal areas.
+**Regulatory Uncertainty:** The regulatory space for blockchain companies is still in flux across major jurisdictions. Before joining a project, confirm that the team has competent legal counsel and is proactively engaging with regulators rather than operating in ambiguous legal areas.
 
 **Due Diligence:** Not every Web3 project is legitimate. Research the founding team's experience, review audit reports for smart contracts, verify treasury holdings on-chain, and communicate with current or former team members before accepting an offer.
 

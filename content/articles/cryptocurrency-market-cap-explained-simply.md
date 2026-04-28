@@ -30,7 +30,7 @@ Calculating market cap involves a simple formula:
 Market cap offers a more insightful metric for evaluating the relative sizes of different cryptocurrencies compared to merely looking at the price of individual coins.
 
 - **Common Misconception:** A newcomer might observe that Dogecoin trades at $0.15 while Ripple (XRP) trades at $0.50, incorrectly assuming that XRP represents a "larger" or "more valuable" project. This interpretation overlooks essential factors.
-- **Understanding Real Value:** Supply plays a crucial role. Dogecoin has a circulating supply exceeding 140 billion coins, while XRP's circulating supply is approximately 55 billion.
+- **Understanding Real Value:** Supply plays a important role. Dogecoin has a circulating supply exceeding 140 billion coins, while XRP's circulating supply is approximately 55 billion.
   - **Dogecoin Market Cap:** 140 billion * $0.15 = **billions in value**
   - **XRP Market Cap:** 55 billion * $0.50 = **billions in value**
 - This analysis shows that XRP constitutes a larger network than Dogecoin, despite its higher per-coin price.
@@ -114,7 +114,7 @@ The Web3 community is highly accessible. Consider the following actions:
 - Attend local Web3 meetups to expand your network.
 
 #### Step 5: Apply for Roles Strategically
-Target positions that allow you to utilize your existing skills alongside your new Web3 knowledge:
+Target positions that allow you to use your existing skills alongside your new Web3 knowledge:
 
 - If you are a backend engineer, explore blockchain infrastructure opportunities.
 - If you are a product manager, seek protocol product roles.
@@ -126,7 +126,7 @@ Target positions that allow you to utilize your existing skills alongside your n
 Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while continuing his full-time position. His contributions to an open-source protocol garnered attention from a prominent DeFi project, allowing him to transition into a smart contract engineering role with a significant salary increase and substantial equity.
 
 #### Product Manager Moving into Web3
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her familiarity with financial products, combined with her understanding of Web3 technology, positioned her as a valuable asset. Within four weeks, she secured a role at a leading DeFi protocol.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her familiarity with financial products, combined with her understanding of Web3 technology, positioned her as a valuable asset. Within four weeks, she secured a role at a leading DeFi protocol.
 
 #### Career Changer's Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) development, he obtained a position leading Developer Relations at a major blockchain platform, with compensation significantly higher than his previous role.

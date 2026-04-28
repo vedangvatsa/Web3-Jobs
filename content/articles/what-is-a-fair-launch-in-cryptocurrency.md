@@ -27,7 +27,7 @@ Under a fair launch structure, both the community and the founding team can acqu
 
 ### Fair Launch vs. Pre-Mined Launch
 
-Most contemporary Web3 projects do not adopt a fair launch model. Instead, they typically utilize a **pre-mined** approach, wherein a significant share of the total token supply is allocated to the core team, early investors, and a foundation ahead of the public launch.
+Most contemporary Web3 projects do not adopt a fair launch model. Instead, they typically use a **pre-mined** approach, wherein a significant share of the total token supply is allocated to the core team, early investors, and a foundation ahead of the public launch.
 
 | Feature                | Fair Launch (e.g., Bitcoin)                               | Pre-Mined Launch (e.g., most modern projects)            |
 | ---------------------- | --------------------------------------------------------- | -------------------------------------------------------- |

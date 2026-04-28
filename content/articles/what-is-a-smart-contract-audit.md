@@ -20,9 +20,9 @@ Auditing is not limited to automated scanning. While tools like Slither play a v
 
 Smart contract audits follow a structured methodology to guarantee thorough coverage. Though the specific steps may differ among firms, the primary phases generally include:
 
-1. **Scoping and Preparation:** The project team provides the audit firm with the smart contracts to review and detailed documentation outlining the protocol's architecture, behavior, and economic model. Understanding the intended functionality is crucial for auditors to identify deviations.
+1. **Scoping and Preparation:** The project team provides the audit firm with the smart contracts to review and detailed documentation outlining the protocol's architecture, behavior, and economic model. Understanding the intended functionality is important for auditors to identify deviations.
 
-2. **Automated Analysis:** Auditors initiate the process by utilizing automated tools. Static analysis tools examine the source code for known vulnerabilities, such as reentrancy bugs, integer overflows, or deprecated functions. This preliminary scan helps identify straightforward issues, allowing manual reviews to concentrate on more complex problems.
+2. **Automated Analysis:** Auditors initiate the process by using automated tools. Static analysis tools examine the source code for known vulnerabilities, such as reentrancy bugs, integer overflows, or deprecated functions. This preliminary scan helps identify straightforward issues, allowing manual reviews to concentrate on more complex problems.
 
 3. **Manual Code Review:** This phase is the most time-consuming and vital part of the audit. Security researchers analyze the codebase line by line, looking for bugs while also assessing the overall design, logic, and economic assumptions. They investigate issues like:
    * **Access Control Flaws:** Are unauthorized users able to call privileged functions?
@@ -41,7 +41,7 @@ Smart contract audits follow a structured methodology to guarantee thorough cove
 Preparing for an audit is as significant as the audit itself. Here are key considerations for project teams:
 
 - **Write Clear Documentation:** High-quality documentation allows auditors to focus on identifying complex bugs rather than deciphering code intent.
-- **Provide a Comprehensive Test Suite:** A test suite with at least 95% coverage demonstrates commitment to quality and aids auditors in understanding intended behavior.
+- **Provide a Full Test Suite:** A test suite with at least 95% coverage demonstrates commitment to quality and aids auditors in understanding intended behavior.
 - **Avoid Treating it as a Checkbox Task:** An audit is not a one-time event. Secure projects maintain ongoing relationships with security firms and conduct multiple audits for major upgrades.
 
 For users, knowing how to interpret an audit report is essential for due diligence:
@@ -62,7 +62,7 @@ A: Costs vary based on codebase complexity and length. A simple [token](/what-is
 
 **Q: What is the difference between a manual audit and a bug bounty program?**
 
-A: A manual audit is a proactive and time-limited review of a specific codebase by a dedicated team. A bug bounty program is reactive and ongoing, offering financial incentives to independent researchers who find and report vulnerabilities in a live or testnet project. Both approaches are complementary; ideally, a project should utilize both.
+A: A manual audit is a proactive and time-limited review of a specific codebase by a dedicated team. A bug bounty program is reactive and ongoing, offering financial incentives to independent researchers who find and report vulnerabilities in a live or testnet project. Both approaches are complementary; ideally, a project should use both.
 
 **Q: How do I find reputable audit firms?**
 

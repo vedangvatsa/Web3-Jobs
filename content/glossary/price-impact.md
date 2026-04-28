@@ -96,15 +96,15 @@ Price impact is a major component of trading economics.
 
 Price impact creates roles:
 
-**Quantitative Traders** analyzing impact earn competitive salaries.
+- **Quantitative Traders** analyzing impact earn competitive salaries.
 
-**Protocol Designers** optimizing price impact earn competitive salaries.
+- **Protocol Designers** optimizing price impact earn competitive salaries.
 
-**DEX Builders** creating more capital-efficient protocols earn competitive salaries.
+- **DEX Builders** creating more capital-efficient protocols earn competitive salaries.
 
-**Algorithmic Traders** exploiting impact inefficiencies earn competitive salaries.
+- **Algorithmic Traders** exploiting impact inefficiencies earn competitive salaries.
 
-**Market Microstructure Researchers** studying impact mechanics earn competitive salaries.
+- **Market Microstructure Researchers** studying impact mechanics earn competitive salaries.
 
 ## Best Practices
 

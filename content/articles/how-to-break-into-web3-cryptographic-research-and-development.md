@@ -27,7 +27,7 @@ Cryptography R&D Engineers operate at the crossroads of theoretical research and
 
 The technical demands for this role are significant.
 
-- **Mathematical Proficiency:** A strong background in advanced mathematics, particularly in abstract algebra and number theory, is crucial.
+- **Mathematical Proficiency:** A strong background in advanced mathematics, particularly in abstract algebra and number theory, is important.
 - **Cryptographic Expertise:** A deep understanding of cryptographic principles is necessary, often requiring a PhD-level knowledge of topics such as elliptic curve pairings, homomorphic encryption, and ZKP systems (including SNARKs and STARKs).
 - **Programming Skills:** Proficiency in systems-level languages like **Rust** or **C++** is essential for developing efficient cryptographic libraries.
 - **Academic Aptitude:** The ability to digest complex academic literature and translate theoretical concepts into practical applications is vital.
@@ -80,7 +80,7 @@ Tailor your skill acquisition based on your target role:
 
 - **Engineers:** Learn languages such as [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Focus on token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Develop skills in market analysis, partnership strategies, and understanding the regulatory landscape.
+- **Business Development:** Develop skills in market analysis, partnership strategies, and understanding the regulatory space.
 - **Community/Operations:** Learn community building, Discord management, and governance practices.
 
 ### Step 3: Create Your Portfolio
@@ -105,7 +105,7 @@ The Web3 community is highly accessible and welcoming:
 
 ### Step 5: Apply for Roles Strategically
 
-Focus on positions that utilize your existing skills while incorporating new Web3 knowledge:
+Focus on positions that use your existing skills while incorporating new Web3 knowledge:
 
 - If you are a backend engineer, seek blockchain infrastructure roles.
 - For product managers, target protocol-related product positions.
@@ -119,7 +119,7 @@ Alex worked for five years as a backend engineer at a FAANG company. After dedic
 
 ### Product Manager Transitioning to Web3
 
-Jessica, a product manager with a background in traditional finance, utilized her domain expertise in DeFi. Her understanding of financial products, combined with knowledge of Web3 technology, made her a strong candidate. She secured a position at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager with a background in traditional finance, used her domain expertise in DeFi. Her understanding of financial products, combined with knowledge of Web3 technology, made her a strong candidate. She secured a position at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer's Journey
 

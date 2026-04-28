@@ -75,11 +75,11 @@ DAOstack has a niche but loyal user base.
 
 Why differences matter:
 
-**Snapshot** (off-chain voting): Simple, popular, gas-free. But votes are non-binding.
+- **Snapshot** (off-chain voting): Simple, popular, gas-free. But votes are non-binding.
 
-**Aragon** (DAO framework): Similar governance toolkit but more general DAO features.
+- **Aragon** (DAO framework): Similar governance toolkit but more general DAO features.
 
-**Gnosis Safe** (multisig): Focus on multisig rather than DAO governance.
+- **Gnosis Safe** (multisig): Focus on multisig rather than DAO governance.
 
 DAOstack differentiates through the holographic consensus mechanism.
 
@@ -128,15 +128,15 @@ DAOstack has a niche but smaller user base.
 
 DAO infrastructure creates roles:
 
-**DAO Architects** designing governance systems.
+- **DAO Architects** designing governance systems.
 
-**Smart Contract Engineers** building governance contracts.
+- **Smart Contract Engineers** building governance contracts.
 
-**Frontend Developers** building DAO interfaces.
+- **Frontend Developers** building DAO interfaces.
 
-**DAO Operators** managing DAOs.
+- **DAO Operators** managing DAOs.
 
-**Community Managers** facilitating governance.
+- **Community Managers** facilitating governance.
 
 ## Best Practices
 

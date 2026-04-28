@@ -105,14 +105,14 @@ Engaging with AI art requires experimentation and creativity.
   
 - **Combine Unconventional Ideas**: Experiment with unexpected combinations, such as "An astronaut riding a bicycle on the moon in the style of a Van Gogh painting" or "A library inside a giant, ancient tree." The AI excels at synthesizing diverse concepts into unique creations.
 
-- **Utilize the "Vary" Buttons**: If you receive an image that is close to your vision, explore similar options using the V buttons. This is an effective way to refine your artwork.
+- **Use the "Vary" Buttons**: If you receive an image that is close to your vision, explore similar options using the V buttons. This is an effective way to refine your artwork.
 
 Creating AI art is a collaborative endeavor between you and the model. You act as the director, offering vision and guidance, while the AI functions as the artist, actualizing that vision. Start by crafting your first prompt and discover the artistic possibilities.
 
 ### Frequently Asked Questions (FAQs)
 
 **1. Who owns the art I create with AI?**  
-Ownership varies based on the terms of service of the respective tool. For Midjourney's paid plans, users typically retain rights to the images they create and can use them commercially. However, it's crucial to review the most current terms, as the legalities surrounding AI-generated art are still developing.
+Ownership varies based on the terms of service of the respective tool. For Midjourney's paid plans, users typically retain rights to the images they create and can use them commercially. However, it's important to review the most current terms, as the legalities surrounding AI-generated art are still developing.
 
 **2. Can I sell the art I make?**  
 Yes, many artists successfully sell their AI-generated art as prints or digital downloads. Developing a distinctive style and curating your work to a high standard is essential. Simply selling random images is not advisable; a clear vision enhances marketability.
@@ -126,7 +126,7 @@ Yes, many artists successfully sell their AI-generated art as prints or digital 
 | Leonardo.Ai       | A user-friendly platform featuring various AI models, ideal for beginners seeking to try different styles. |
 
 **4. Why doesn't my image look exactly like my prompt?**  
-The AI interprets your prompt rather than replicating it. Variability in output can occur due to the model's learned patterns. If the result does not align with your expectations, rephrase your prompt, enhance specificity, or utilize the "reroll" and "vary" options for better guidance.
+The AI interprets your prompt rather than replicating it. Variability in output can occur due to the model's learned patterns. If the result does not align with your expectations, rephrase your prompt, enhance specificity, or use the "reroll" and "vary" options for better guidance.
 
 ### Conclusion
 

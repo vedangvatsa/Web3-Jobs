@@ -20,7 +20,7 @@ Performance optimization in Web3 encompasses multiple specializations, each focu
 
 **1. Smart Contract Gas Optimization**  
 This specialization is the most prevalent among performance roles. Engineers in this area write [Solidity](/best-programming-languages-for-blockchain-development) code to minimize gas consumption.  
-- **Duties:** They employ strategies such as reducing state writes, utilizing `calldata` efficiently, and implementing data packing (struct packing). Mastery of the EVM's gas cost schedule is essential.  
+- **Duties:** They employ strategies such as reducing state writes, using `calldata` efficiently, and implementing data packing (struct packing). Mastery of the EVM's gas cost schedule is essential.  
 - **Skills:** Proficiency in Solidity and a deep understanding of the EVM. For further insights, refer to our [guide to gas optimization](/gas-optimization-techniques-for-solidity-developers).
 
 **2. Protocol-Level Performance Engineering**  
@@ -40,8 +40,8 @@ To ensure a dApp's frontend operates swiftly, its off-chain backend must functio
 
 ### How to Get Started
 
-1. **Master the Fundamentals:** A solid foundation in computer science is crucial.
-2. **Specialize:** Choose a specific layer of the blockchain stack, smart contracts, core protocol, or networking, and delve deeply into that area.
+1. **Master the Fundamentals:** A solid foundation in computer science is important.
+2. **Specialize:** Choose a specific layer of the blockchain stack, smart contracts, core protocol, or networking, and look deeply into that area.
 3. **Profile and Measure:** Become adept with profiling tools (e.g., `pprof` for Go or `perf` for Rust) and gas reporting tools available in Foundry. You cannot optimize what you cannot measure.
 4. **Contribute to Open Source:** Identify a performance-related issue in an open-source project and submit a pull request with your solution. This practical experience validates your skills effectively.
 
@@ -76,7 +76,7 @@ Invest 4-8 weeks in learning the fundamentals of blockchain technology. Focus on
 Tailor your learning based on your desired role:
 - **Engineers:** Focus on Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Study token economics, protocol governance, and user growth strategies in Web3
-- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory landscape
+- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory space
 - **Community/Operations:** Learn community building, Discord management, and governance mechanisms
 
 #### Step 3: Build Your Portfolio

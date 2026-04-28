@@ -114,7 +114,7 @@ The Web3 community is highly accessible:
 - Attend local Web3 meetups.
 
 #### Step 5: Apply Strategically
-Target roles that utilize your existing expertise alongside your new Web3 knowledge:
+Target roles that use your existing expertise alongside your new Web3 knowledge:
 - If you are a backend engineer, seek blockchain infrastructure roles.
 - If you are a PM, pursue protocol product roles.
 - If you work in sales or business development, explore Web3 opportunities.
@@ -134,7 +134,7 @@ Marcus transitioned from his corporate job to focus on Web3 for six months. Thro
 
 **Volatility Risk:** The crypto market’s volatility can affect job stability, particularly in early-stage startups. Professionals entering Web3 should maintain several months of living expenses in reserve, negotiate base salaries in fiat currency rather than tokens, and seek projects with established revenue models.
 
-**Regulatory Uncertainty:** The regulatory landscape for blockchain companies is still evolving. Before joining a project, confirm that the team has competent legal counsel and engages proactively with regulators.
+**Regulatory Uncertainty:** The regulatory space for blockchain companies is still evolving. Before joining a project, confirm that the team has competent legal counsel and engages proactively with regulators.
 
 **Due Diligence:** Not all Web3 projects are legitimate. Investigate the founding team's track record, review audit reports for smart contracts, verify treasury holdings on-chain, and converse with current or former team members before accepting an offer.
 

@@ -194,7 +194,7 @@ contract MyContract {
 }
 ```
 
-Interfaces are crucial for contract composability, allowing interaction with any contract implementing the interface.
+Interfaces are important for contract composability, allowing interaction with any contract implementing the interface.
 
 ## Libraries
 

@@ -40,7 +40,7 @@ With colleagues spread across time zones, real-time meetings become impractical.
 
 **2. High Degree of Autonomy**
 
-In a remote environment, self-direction is crucial. You need to take ownership of your work and drive tasks to completion.
+In a remote environment, self-direction is important. You need to take ownership of your work and drive tasks to completion.
 
 - **Initiative:** Identify issues and propose solutions rather than waiting for instructions. Web3 values proactive contributors.
 - **Time Management:** Manage your schedule effectively to meet deadlines without constant oversight. This requires discipline and strong organizational abilities.
@@ -50,7 +50,7 @@ In a remote environment, self-direction is crucial. You need to take ownership o
 Good documentation is essential, as you cannot easily ask questions in person.
 
 - **Writing for an Audience:** Document decisions, processes, and designs in a manner that is easily understandable to anyone in a different time zone.
-- **Knowledge Sharing:** Cultivate the habit of documenting your learning and sharing it with the team, fostering efficiency and collective knowledge.
+- **Knowledge Sharing:** Cultivate the habit of documenting your learning and sharing it with the team, building efficiency and collective knowledge.
 
 ### Setting Up Your Remote Workspace
 
@@ -117,7 +117,7 @@ The Web3 community is highly accessible. Engage by:
 - Joining local Web3 meetups.
 
 #### Step 5: Apply Strategically
-Target roles that utilize your existing expertise and newly acquired Web3 knowledge:
+Target roles that use your existing expertise and newly acquired Web3 knowledge:
 
 - Backend engineers should seek blockchain infrastructure roles.
 - Product managers may focus on protocol product positions.
@@ -129,7 +129,7 @@ Target roles that utilize your existing expertise and newly acquired Web3 knowle
 Alex, a backend engineer with five years of experience at a major tech company, spent three months learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a leading DeFi project, leading to a transition that resulted in a significant salary increase and equity.
 
 #### Product Management in Web3
-Jessica, a product manager with a background in traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her a valuable asset. Within a short period, she secured a role at a prominent DeFi protocol.
+Jessica, a product manager with a background in traditional finance, used her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her a valuable asset. Within a short period, she secured a role at a prominent DeFi protocol.
 
 #### Career Change Success
 Marcus left his corporate job to immerse himself in Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a position leading Developer Relations at a major blockchain platform, earning compensation that far exceeded his previous role.

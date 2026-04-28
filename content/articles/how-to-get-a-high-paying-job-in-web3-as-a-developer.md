@@ -79,7 +79,7 @@ Depending on your target role, consider the following:
 
 - **Engineers:** Get proficient in Solidity, JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain insights into market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Gain insights into market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Master community building, Discord management, and governance.
 
 #### Step 3: Build Your Portfolio

@@ -38,7 +38,7 @@ Transitioning to UX/UI demands acquiring a new skill set and mindset.
 **Core UI Skills Include:**
 - **Visual Design Principles**: Familiarize yourself with typography, color theory, layout, and visual hierarchy.
 - **Interaction Design**: Understand how to design the behavior of interactive components.
-- **Design Systems**: Learn to develop and utilize a consistent library of design components.
+- **Design Systems**: Learn to develop and use a consistent library of design components.
 
 **Learning Resources:**
 - **Online Courses**: Enroll in courses such as Google’s UX Design Certificate on Coursera, offerings from the Interaction Design Foundation, or classes on Udemy.
@@ -101,7 +101,7 @@ Engagement with the UX/UI community can significantly enhance your opportunities
 
 ## Importance of Networking
 
-Networking plays a crucial role in career advancement. Research indicates that a significant portion of job openings are not publicly advertised. Building relationships within the industry can provide access to hidden opportunities. 
+Networking plays a important role in career advancement. Research indicates that a significant portion of job openings are not publicly advertised. Building relationships within the industry can provide access to hidden opportunities. 
 
 ### Step-by-Step Guide
 
@@ -115,7 +115,7 @@ Evaluate your current capabilities. Identify your strengths and weaknesses, and 
 Craft a personalized plan. Consider your role, team dynamics, organizational culture, and personal goals.
 
 **Step 4: Implement Gradually**
-Introduce changes incrementally. Start with small adjustments and build on successes. This iterative approach fosters sustainable improvement.
+Introduce changes incrementally. Start with small adjustments and build on successes. This iterative approach builds sustainable improvement.
 
 **Step 5: Measure and Adjust**
 Monitor progress and adapt as necessary. Continuous improvement requires an open mindset to feedback and outcomes.

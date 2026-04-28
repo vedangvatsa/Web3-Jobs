@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 India has established itself as a global superpower in the Web3 sector. With one of the largest and youngest developer communities worldwide, India has become a vital center for blockchain innovation. The combination of a massive, digitally-native user base and increasing venture capital investment has created a thriving job market in Web3. This trend signifies a fundamental shift, as top talent from India's prominent tech and finance sectors transitions into the crypto space.
 
-The Indian Web3 ecosystem is diverse, featuring strong communities and innovative projects in areas such as Decentralized Finance (DeFi), Layer 2 scaling solutions, Web3 gaming, and foundational infrastructure. Polygon, an Ethereum scaling solution founded in India, has raised the nation's profile on the global stage. Its success has encouraged a new wave of entrepreneurs and developers. Key cities including Bangalore, Hyderabad, and the Delhi NCR region have emerged as major hubs for blockchain talent, characterized by a vibrant startup ecosystem, frequent hackathons, and community events. This guide offers an overview of the Web3 career opportunities in India, detailing in-demand roles, salary expectations, and a roadmap to securing a position.
+The Indian Web3 ecosystem is diverse, featuring strong communities and new projects in areas such as Decentralized Finance (DeFi), Layer 2 scaling solutions, Web3 gaming, and foundational infrastructure. Polygon, an Ethereum scaling solution founded in India, has raised the nation's profile on the global stage. Its success has encouraged a new wave of entrepreneurs and developers. Key cities including Bangalore, Hyderabad, and the Delhi NCR region have emerged as major hubs for blockchain talent, characterized by a vibrant startup ecosystem, frequent hackathons, and community events. This guide offers an overview of the Web3 career opportunities in India, detailing in-demand roles, salary expectations, and a roadmap to securing a position.
 
 ### The Indian Web3 Ecosystem
 
@@ -90,7 +90,7 @@ Spend 4-8 weeks learning the fundamentals of blockchain technology. Focus on:
 Tailor your skill acquisition to your desired role:
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio

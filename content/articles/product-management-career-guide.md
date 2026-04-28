@@ -1,6 +1,6 @@
 ---
 
-title: "The Product Management Career Path: A Comprehensive Guide"
+title: "The Product Management Career Path: A Full Guide"
 description: "From Associate PM to Chief Product Officer, this guide explains the roles, responsibilities, and skills required at each stage of the product management."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "stairs upward"
@@ -117,7 +117,7 @@ Continuously monitor your progress. Are you achieving the desired outcomes? Adju
 |--------|--------------------------------------|--------------------------------------------|---------------------------------------------|
 | Sarah  | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with feature prioritization       | Implemented strategies and improved feature delivery timelines significantly within 3 months. |
 | Juan   | Product Manager in [DeFi](/what-is-defi) | Faced difficulties in cross-team collaboration | Adopted a structured communication approach and successfully launched three major features in under six months. |
-| Maya   | Transitioning from Web2 to Web3      | Needed to adapt quickly to new frameworks   | Utilized targeted learning strategies, achieving proficiency in Web3 tools within two months. |
+| Maya   | Transitioning from Web2 to Web3      | Needed to adapt quickly to new frameworks   | Used targeted learning strategies, achieving proficiency in Web3 tools within two months. |
 
 ## Common Mistakes to Avoid
 

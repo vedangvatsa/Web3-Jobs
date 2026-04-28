@@ -103,7 +103,7 @@ This pragmatic method prioritizes data availability sharding to support Layer 2 
 
 ## Other Blockchains Implementing Sharding
 
-Several other blockchains are also utilizing sharding:
+Several other blockchains are also using sharding:
 
 - **Near Protocol:** Employs "dynamic sharding," which automatically adjusts the number of shards based on network demand.
 

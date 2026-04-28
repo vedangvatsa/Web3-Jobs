@@ -13,7 +13,7 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 
 ### 1. Smart Contract Development (Solidity)
 
-**Importance:** Smart contracts form the foundation of Web3. They are self-executing agreements with terms directly encoded in software. [Solidity](/best-programming-languages-for-blockchain-development) is the most widely used programming language for writing smart contracts on [Ethereum](/what-is-ethereum) and other EVM-compatible blockchains. Proficiency in Solidity is crucial for anyone pursuing a technical role in this space.
+**Importance:** Smart contracts form the foundation of Web3. They are self-executing agreements with terms directly encoded in software. [Solidity](/best-programming-languages-for-blockchain-development) is the most widely used programming language for writing smart contracts on [Ethereum](/what-is-ethereum) and other EVM-compatible blockchains. Proficiency in Solidity is important for anyone pursuing a technical role in this space.
 
 **Key Learning Areas:**
 - **Solidity Basics:** Grasp variables, functions, modifiers, and inheritance.
@@ -46,7 +46,7 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 **Key Learning Areas:**
 - **Supply & Demand:** Analyze how inflation, token burns, and vesting schedules influence a token's market value.
 - **Utility:** Investigate the various applications of tokens, such as governance, staking, and transaction fees.
-- **Incentive Structures:** Study how protocols utilize token rewards to promote liquidity and encourage user behaviors.
+- **Incentive Structures:** Study how protocols use token rewards to promote liquidity and encourage user behaviors.
 - **Game Theory:** Learn to design systems in which individual actions benefit the overall network.
 
 ### 5. [Community Management & Building](/exploring-web3-project-manager-career-paths)
@@ -60,7 +60,7 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 
 ### 6. Data Analysis with On-Chain Data
 
-**Importance:** The blockchain serves as a transparent public database. Proficiency in querying and analyzing on-chain data empowers strategic decision-making.
+**Importance:** The blockchain serves as a transparent public database. Proficiency in querying and analyzing on-chain data enables strategic decision-making.
 
 **Key Learning Areas:**
 - **SQL:** Master this language for querying decoded blockchain data.
@@ -96,7 +96,7 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 **Importance:** The Web3 environment presents significant security risks, with substantial financial resources at stake. A security-focused mindset is essential for all roles, not just for security auditors.
 
 **Key Learning Areas:**
-- **Personal Security:** Understand wallet security, utilize hardware wallets, and recognize common phishing strategies.
+- **Personal Security:** Understand wallet security, use hardware wallets, and recognize common phishing strategies.
 - **Vulnerability Awareness:** Familiarize yourself with typical smart contract vulnerabilities, even if you are not a developer.
 - **Risk Assessment:** Cultivate an attacker’s mindset. Before implementing any feature, consider potential exploitation methods.
 

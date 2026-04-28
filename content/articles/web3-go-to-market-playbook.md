@@ -178,7 +178,7 @@ Projects that collapse:
 
 A successful Web3 go-to-market strategy is less about loud advertising and more about building a quiet, competent reputation. It's about:
 1. **Creating real value** that solves genuine problems
-2. **Fostering a genuine community** that believes in your mission
+2. **Building a genuine community** that believes in your mission
 3. **Maintaining transparency** even when it's uncomfortable
 4. **Letting users become your growth engine** because they genuinely want to advocate for you
 
@@ -211,4 +211,4 @@ On-chain data analysts, using tools like [Dune Analytics](/on-chain-analyst-job)
 -   **Building a Social Graph:** Projects like [Farcaster and Lens](/what-is-socialfi) are creating a decentralized social layer. Building a strong presence and community on these platforms is becoming a key part of modern GTM strategy.
 -   **Partnerships and Composability:** Growth in Web3 is often about integrations. Partnering with another protocol to integrate your dApp or get your token accepted as collateral is a powerful, non-marketing way to drive adoption.
 
-A successful Web3 go-to-market strategy is less about loud advertising and more about building a quiet, competent reputation. It's about creating real value, fostering a genuine community, and letting your users become your most powerful growth engine.
+A successful Web3 go-to-market strategy is less about loud advertising and more about building a quiet, competent reputation. It's about creating real value, building a genuine community, and letting your users become your most powerful growth engine.

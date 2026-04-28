@@ -20,7 +20,7 @@ Blockchains are isolated systems by design. Ethereum can't see Bitcoin transacti
 
 - **User Experience**: Moving between chains requires selling assets, bridging, buying back, multiple transactions and fees.
 
-- **Capital Inefficiency**: You can't leverage your Bitcoin to borrow stablecoins on Ethereum without converting.
+- **Capital Inefficiency**: You can't use your Bitcoin to borrow stablecoins on Ethereum without converting.
 
 - **Ecosystem Silos**: Applications on one chain can't interact with those on another.
 
@@ -215,11 +215,11 @@ Bridges have become a significant attack vector in crypto:
 
 Bridges create wrapped tokens representing assets from other chains:
 
-**WBTC** (Wrapped Bitcoin): ERC-20 Bitcoin on Ethereum.
+- **WBTC** (Wrapped Bitcoin): ERC-20 Bitcoin on Ethereum.
 
 - **wETH**: ETH on Polygon, Arbitrum, BNB Chain.
 
-**WETH** (Wrapped ETH on Ethereum): ETH in ERC-20 format for DeFi.
+- **WETH** (Wrapped ETH on Ethereum): ETH in ERC-20 format for DeFi.
 
 - **Wrapped Tokens Risk**: Only as secure as the bridge. If the bridge fails, wrapped tokens may lose peg to the underlying asset.
 
@@ -255,7 +255,7 @@ Tokens exist natively on multiple chains.
 
 Projects like Cosmos, Polkadot, LayerZero envision a future where users don't know which chain they're using.
 
-- **Vision**: Applications span multiple chains seamlessly.
+- **Vision**: Applications span multiple chains smoothly.
 
 - **Status**: Still early, significant technical challenges.
 

@@ -53,15 +53,15 @@ PoA is designed for speed and efficiency in private or controlled settings, not 
 
 Practical implementations:
 
-**Ethereum Testnets** (Goerli, Sepolia): Ethereum's public testnets use PoA. Consensus is by designated validators.
+- **Ethereum Testnets** (Goerli, Sepolia): Ethereum's public testnets use PoA. Consensus is by designated validators.
 
 - **VeChain (VET)**: Public blockchain using PoA for fast, efficient transactions.
 
-**Aura** (Substrate): Proof-of-Authority for Substrate-based chains.
+- **Aura** (Substrate): Proof-of-Authority for Substrate-based chains.
 
 - **Polygon PoS**: Polygon sidechain initially used PoA for validator management.
 
-**Binance Smart Chain** (BSC): Initially used PoA with Binance-approved validators.
+- **Binance Smart Chain** (BSC): Initially used PoA with Binance-approved validators.
 
 Many public chains use PoA initially for speed during early development, planning a transition to more decentralized consensus.
 
@@ -127,13 +127,13 @@ As blockchains mature, they often seek to decentralize beyond PoA.
 
 PoA creates specific roles:
 
-**PoA Validator Operators** running approved validators.
+- **PoA Validator Operators** running approved validators.
 
-**Governance Coordinators** managing validator approval.
+- **Governance Coordinators** managing validator approval.
 
-**Client Developers** implementing PoA.
+- **Client Developers** implementing PoA.
 
-**Protocol Designers** improving PoA.
+- **Protocol Designers** improving PoA.
 
 ## Best Practices
 

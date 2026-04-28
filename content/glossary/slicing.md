@@ -135,15 +135,15 @@ Evolution:
 
 Proof systems create roles:
 
-**Cryptography Researchers** studying slicing.
+- **Cryptography Researchers** studying slicing.
 
-**Protocol Engineers** implementing slicing.
+- **Protocol Engineers** implementing slicing.
 
-**Performance Engineers** optimizing slice performance.
+- **Performance Engineers** optimizing slice performance.
 
-**Formal Verification Experts** proving slice correctness.
+- **Formal Verification Experts** proving slice correctness.
 
-**Hardware Engineers** accelerating slicing.
+- **Hardware Engineers** accelerating slicing.
 
 ## Best Practices
 

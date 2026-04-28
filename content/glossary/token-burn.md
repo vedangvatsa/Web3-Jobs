@@ -107,15 +107,15 @@ Burning is a tool; outcomes depend on context and fundamentals.
 
 Token economics creates roles:
 
-**Tokenomics Designers** designing burn mechanisms earn competitive salaries.
+- **Tokenomics Designers** designing burn mechanisms earn competitive salaries.
 
-**Economists** analyzing token dynamics earn competitive salaries.
+- **Economists** analyzing token dynamics earn competitive salaries.
 
-**Treasury Managers** managing token supplies and burns earn competitive salaries.
+- **Treasury Managers** managing token supplies and burns earn competitive salaries.
 
-**Data Analysts** tracking burning impact earn competitive salaries.
+- **Data Analysts** tracking burning impact earn competitive salaries.
 
-**Governance Specialists** facilitating burn voting earn competitive salaries.
+- **Governance Specialists** facilitating burn voting earn competitive salaries.
 
 ## Best Practices
 

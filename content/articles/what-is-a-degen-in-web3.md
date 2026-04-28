@@ -50,9 +50,9 @@ Degens engage in various activities that exemplify their high-risk approach:
 
 Degens supply liquidity to new DeFi protocols that promise exceptionally high yields. These yields, often unsustainable, are designed to attract early liquidity. For instance, a degen might provide liquidity to a new decentralized exchange (DEX) offering an exceptionally high APY, fully aware that the yield may plummet shortly after.
 
-### Leverage Trading
+### Use Trading
 
-Degens frequently trade on margin, applying leverage to amplify their positions. For example, they might take a leveraged position on a token they anticipate will appreciate in value. If successful, the returns can be remarkable. However, if the market moves against them, they face immediate liquidation.
+Degens frequently trade on margin, applying use to amplify their positions. For example, they might take a used position on a token they anticipate will appreciate in value. If successful, the returns can be remarkable. However, if the market moves against them, they face immediate liquidation.
 
 ### Aping Into New Tokens
 
@@ -73,7 +73,7 @@ Degens engage in [DAO](/what-is-a-dao) governance, not out of ideological commit
 | Activity                  | Description                                                                 | Risk Level    |
 |---------------------------|-----------------------------------------------------------------------------|---------------|
 | Yield Farming             | Providing liquidity for high APY DeFi protocols                            | High          |
-| Leverage Trading          | Trading with margin to amplify potential returns                            | Very High     |
+| Use Trading          | Trading with margin to amplify potential returns                            | Very High     |
 | Aping Into New Tokens     | Buying new tokens to capitalize on early investment potential               | Very High     |
 | Complex DeFi Strategies   | Creating multi-step trades to exploit price discrepancies                  | High          |
 | NFT Speculation           | Investing in obscure NFTs with the hope of high future valuations          | High          |
@@ -87,7 +87,7 @@ The degen approach entails significant risks, with the majority of degens ultima
 
 **Psychological Toll**: The emotional strain of engaging in degen activities is profound. Constantly monitoring prices, making swift decisions, and experiencing dramatic wins or losses can create significant stress, often leading to poor decision-making.
 
-**Leverage Risks**: Trading with leverage magnifies both gains and losses. For example, a leveraged position that declines can result in a total loss of the initial capital. Liquidation occurs instantly, leaving no room for strategic adjustments.
+**Use Risks**: Trading with use magnifies both gains and losses. For example, a used position that declines can result in a total loss of the initial capital. Liquidation occurs instantly, leaving no room for strategic adjustments.
 
 **Scams and Rug Pulls**: New projects can sometimes be designed to defraud users. Developers may abscond with funds, or they may lack the expertise to deliver on their promises. Degens, as early adopters of untested projects, are especially vulnerable.
 
@@ -97,7 +97,7 @@ The degen approach entails significant risks, with the majority of degens ultima
 
 ## The Importance of Degens
 
-Despite the inherent risks, degens play crucial roles in the Web3 ecosystem.
+Despite the inherent risks, degens play important roles in the Web3 ecosystem.
 
 **Liquidity Provision**: Degens supply essential initial liquidity to new protocols. Without their willingness to take risks, many DeFi projects would struggle to gain traction, as they represent the bootstrap capital necessary for launch.
 
@@ -137,7 +137,7 @@ However, if you find yourself:
 
 ## Implications for Your Career
 
-Understanding the role of degens is crucial for anyone considering a [Web3 career](/web3-jobs-for-beginners). Your users and colleagues will likely include degens. The Web3 culture, heavily influenced by the degen mindset, emphasizes fast action, risk-taking, and embracing volatility.
+Understanding the role of degens is important for anyone considering a [Web3 career](/web3-jobs-for-beginners). Your users and colleagues will likely include degens. The Web3 culture, heavily influenced by the degen mindset, emphasizes fast action, risk-taking, and embracing volatility.
 
 Acknowledging this culture equips you to engage with Web3 professionally and to connect with the community more effectively.
 

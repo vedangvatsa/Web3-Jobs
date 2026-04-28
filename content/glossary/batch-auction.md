@@ -97,15 +97,15 @@ Batch auctions are suitable for many applications.
 
 Batch auctions create roles:
 
-**Protocol Designers** designing auction mechanisms earn competitive salaries.
+- **Protocol Designers** designing auction mechanisms earn competitive salaries.
 
-**Solvers** solving matching problems earn variable salaries.
+- **Solvers** solving matching problems earn variable salaries.
 
-**Smart Contract Engineers** implementing auctions earn competitive salaries.
+- **Smart Contract Engineers** implementing auctions earn competitive salaries.
 
-**Mechanism Designers** optimizing auctions earn competitive salaries.
+- **Mechanism Designers** optimizing auctions earn competitive salaries.
 
-**Optimization Specialists** solving NP-hard matching earn competitive salaries.
+- **Optimization Specialists** solving NP-hard matching earn competitive salaries.
 
 ## Best Practices
 

@@ -34,7 +34,7 @@ The difference becomes substantial with higher rates. 100% APR compounded daily 
 
 DeFi protocols generate yields through various mechanisms:
 
-- **Lending Interest**: Deposit stablecoins to Aave or Compound, earning interest paid by borrowers. Yields vary based on utilization.
+- **Lending Interest**: Deposit stablecoins to Aave or Compound, earning interest paid by borrowers. Yields vary based on use.
 
 - **Trading Fees**: Provide liquidity to Uniswap or Curve, earning a share of trading fees. Yields vary based on market conditions.
 
@@ -96,7 +96,7 @@ Different DeFi categories offer characteristic yield ranges:
 
 - **Yield Farming New Protocols**: Extreme returns offset by token price risk and smart contract dangers.
 
-- **Leveraged Strategies**: Can amplify any of the above.
+- **Used Strategies**: Can amplify any of the above.
 
 - **Real Yields**: A growing movement emphasizes APY from actual revenue, not token emissions. These tend to be lower but more sustainable.
 
@@ -138,17 +138,17 @@ The industry is maturing from unsustainable token distributions toward business 
 
 Understanding and optimizing yields creates professional paths:
 
-**Yield Strategists** at DAOs and investment funds identify and execute optimal DeFi strategies.
+- **Yield Strategists** at DAOs and investment funds identify and execute optimal DeFi strategies.
 
-**Protocol Economists** design tokenomics and emissions schedules to attract sustainable total value locked (TVL).
+- **Protocol Economists** design tokenomics and emissions schedules to attract sustainable total value locked (TVL).
 
-**DeFi Analysts** research yields, risks, and opportunities, producing reports for funds or protocols.
+- **DeFi Analysts** research yields, risks, and opportunities, producing reports for funds or protocols.
 
-**Smart Contract Engineers** build auto-compounding vaults and strategy optimization.
+- **Smart Contract Engineers** build auto-compounding vaults and strategy optimization.
 
-**Quantitative Researchers** model optimal capital allocation across DeFi strategies.
+- **Quantitative Researchers** model optimal capital allocation across DeFi strategies.
 
-**Risk Managers** assess yield opportunity risk-return profiles for institutional allocators.
+- **Risk Managers** assess yield opportunity risk-return profiles for institutional allocators.
 
 ## Sustainable vs. Ponzi Yields
 
@@ -165,7 +165,7 @@ Distinguishing legitimate yields from unsustainable schemes:
 - Inflating token supply to pay yields
 - New user deposits funding old user returns
 - Promotional campaigns with defined end dates
-- Leveraging on leveraging
+- Using on using
 - Circular token emission schemes
 
 Ask: "Where does this yield come from?" If the answer is token emissions without corresponding revenue, question sustainability. If there's no clear revenue source, it may be temporary or fraudulent.

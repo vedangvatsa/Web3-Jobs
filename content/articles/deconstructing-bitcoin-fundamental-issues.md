@@ -31,7 +31,7 @@ Bitcoin's security relies on its Proof-of-Work (PoW) consensus mechanism, which 
 The debate around Bitcoin's energy consumption includes two contrasting perspectives:
 
 * **Critics argue** that the energy consumed by the Bitcoin network, comparable to that of some small countries, represents a wasteful and unnecessary externality for a digital asset.
-* **Proponents contend** that a growing portion of Bitcoin mining utilizes renewable energy sources. They assert that the energy is not wasted but rather a necessary cost for securing a global, decentralized monetary network, providing substantial value. Additionally, Bitcoin mining can monetize stranded or excess energy, promoting greater efficiency in energy grids.
+* **Proponents contend** that a growing portion of Bitcoin mining uses renewable energy sources. They assert that the energy is not wasted but rather a necessary cost for securing a global, decentralized monetary network, providing substantial value. Additionally, Bitcoin mining can monetize stranded or excess energy, promoting greater efficiency in energy grids.
 
 Regardless of personal views, the energy consumption associated with Bitcoin's PoW mechanism poses a significant challenge for public perception and regulatory acceptance.
 

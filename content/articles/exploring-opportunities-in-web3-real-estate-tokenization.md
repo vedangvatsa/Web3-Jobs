@@ -32,7 +32,7 @@ These developers design platforms that enable tokenization and trading of real e
 #### 2. Legal & Compliance Specialist
 
 This role is vital due to the intricate legal environment surrounding tokenized assets. Understanding securities law, property law, and KYC/AML regulations is essential.
-- **Skills Required:** A solid background in real estate or securities law is crucial. Specialists must understand how these laws apply to digital assets.
+- **Skills Required:** A solid background in real estate or securities law is important. Specialists must understand how these laws apply to digital assets.
 
 #### 3. Asset Manager for Tokenized Properties
 

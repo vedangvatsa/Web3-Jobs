@@ -89,13 +89,13 @@ Bonding curves have associated risks.
 
 Token economics creates roles:
 
-**Tokenomics Designers** designing curves.
+- **Tokenomics Designers** designing curves.
 
-**Protocol Engineers** implementing curves.
+- **Protocol Engineers** implementing curves.
 
-**Economists** analyzing token dynamics.
+- **Economists** analyzing token dynamics.
 
-**Smart Contract Engineers** building curves.
+- **Smart Contract Engineers** building curves.
 
 ## Best Practices
 

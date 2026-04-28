@@ -31,7 +31,7 @@ Consensus creates **finality**, the assurance that once recorded, transactions w
 
 ## Proof of Work (PoW)
 
-Bitcoin's pioneering consensus mechanism. Miners compete to solve computationally expensive puzzles. The first to solve creates the next block and earns rewards.
+Bitcoin's leading consensus mechanism. Miners compete to solve computationally expensive puzzles. The first to solve creates the next block and earns rewards.
 
 - **How It Works**:
 1. Miners collect pending transactions into candidate blocks.
@@ -197,13 +197,13 @@ Layer 2 solutions attempt to break the trilemma by handling scalability off-chai
 
 ## Finality: Probabilistic vs Absolute
 
-**Probabilistic Finality** (Bitcoin, Ethereum PoW): Confidence increases with each subsequent block. Six confirmations are typically considered "final" but technically reversible with sufficient hash power.
+- **Probabilistic Finality** (Bitcoin, Ethereum PoW): Confidence increases with each subsequent block. Six confirmations are typically considered "final" but technically reversible with sufficient hash power.
 
-**Absolute Finality** (Ethereum PoS, Tendermint): Once finalized, reversal is cryptographically impossible without destroying massive stake. More certain but may be slower.
+- **Absolute Finality** (Ethereum PoS, Tendermint): Once finalized, reversal is cryptographically impossible without destroying massive stake. More certain but may be slower.
 
 ## Emerging Consensus Innovations
 
-- **Proof of Space**: Utilize hard drive storage instead of computation (Chia).
+- **Proof of Space**: Use hard drive storage instead of computation (Chia).
 
 - **Proof of Elapsed Time**: Intel SGX-based lottery system.
 

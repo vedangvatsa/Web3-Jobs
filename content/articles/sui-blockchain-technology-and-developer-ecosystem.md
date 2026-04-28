@@ -24,11 +24,11 @@ Sui's most significant innovation lies in its data model. Unlike Ethereum and ot
   - Transactions involving "owned objects" (those owned by a single address with no dependencies on other objects) can be processed and finalized almost instantly. These transactions bypass the global consensus mechanism.
   - Only transactions that involve "shared objects" (which can be modified by multiple users, such as a [smart contract](/what-are-smart-contracts) for a [DEX](/what-is-a-decentralized-exchange-dex)) must go through the more traditional consensus protocol.
 
-- **Scalability Impact:** The capacity to process most transactions in parallel is crucial for Sui's scalability, theoretically allowing it to handle a very high number of transactions per second.
+- **Scalability Impact:** The capacity to process most transactions in parallel is important for Sui's scalability, theoretically allowing it to handle a very high number of transactions per second.
 
 ### The Move Programming Language
 
-Sui utilizes a smart contract programming language called **Move**, which was initially created for Meta's Diem project. Move focuses on safety and asset security.
+Sui uses a smart contract programming language called **Move**, which was initially created for Meta's Diem project. Move focuses on safety and asset security.
 
 - **Key Features of Move:**
   - **Strong Static Typing:** This feature helps to catch many common bugs during compile time.
@@ -45,7 +45,7 @@ The Sui ecosystem is rapidly expanding, focusing on applications that can capita
 - **[DeFi](/what-is-defi):** Although still in development, DeFi protocols that demand high throughput, such as on-chain order books, fit well within Sui’s framework.
 - **Payments and Social Applications:** Sui’s ability to handle fast, low-cost transactions suits payment applications and decentralized social media platforms.
 
-Developers, especially those familiar with systems programming languages like **Rust** (which shares syntax similarities with Move), will find ample opportunities within the Sui ecosystem. The demand for skilled **Move developers** is increasing, offering a promising career path for those willing to master this innovative blockchain technology.
+Developers, especially those familiar with systems programming languages like **Rust** (which shares syntax similarities with Move), will find ample opportunities within the Sui ecosystem. The demand for skilled **Move developers** is increasing, offering a promising career path for those willing to master this new blockchain technology.
 
 ### The Web3 Opportunity
 
@@ -107,7 +107,7 @@ The Web3 community is open and accessible:
 
 #### Step 5: Apply Strategically
 
-Target roles that utilize your existing expertise along with your new Web3 knowledge:
+Target roles that use your existing expertise along with your new Web3 knowledge:
 - If you are a backend engineer, seek blockchain infrastructure roles.
 - If you are a product manager, pursue protocol product roles.
 - If you work in sales or business development, look for opportunities in Web3 business development.

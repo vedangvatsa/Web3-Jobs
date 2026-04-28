@@ -75,7 +75,7 @@ Crypto Twitter serves as the epicenter of the Web3 ecosystem. It is where news c
 
 - **Focus:** Encompasses all roles, particularly community, marketing, and developer relations.
 - **Why it’s great:** Founders and hiring managers frequently post job openings directly on their Twitter profiles. Engaging with the right individuals and participating in discussions offers a powerful networking opportunity, often leading to job offers not publicly advertised. Establishing a personal brand on Twitter can attract inbound job opportunities.
-- **How to use it:** Curate lists of influential Web3 founders, venture capitalists, and projects. Utilize the search function to find terms like "hiring" + "Solidity" or "hiring" + "community manager." Participate genuinely in community discussions.
+- **How to use it:** Curate lists of influential Web3 founders, venture capitalists, and projects. Use the search function to find terms like "hiring" + "Solidity" or "hiring" + "community manager." Participate genuinely in community discussions.
 
 ### DAO-Specific Forums and Discords
 
@@ -105,7 +105,7 @@ The Web3 job market reflects the decentralized nature of the technology itself, 
 
 | Strategy         | Description                                                                                               |
 |------------------|-----------------------------------------------------------------------------------------------------------|
-| Start Broad      | Utilize large aggregators such as Hashtag Web3 and Web3.career to gain a general understanding of the market. |
+| Start Broad      | Use large aggregators such as Hashtag Web3 and Web3.career to gain a general understanding of the market. |
 | Go Niche         | If focusing on a specific area like DeFi or gaming, explore specialized job boards tailored to those sectors. |
 | Get Involved     | Engage on Twitter and within the Discord communities of projects you admire. Building relationships often leads to job opportunities. |
 | Target Quality    | Explore VC portfolio job boards like a16z Crypto’s to identify curated roles at well-funded companies.   |

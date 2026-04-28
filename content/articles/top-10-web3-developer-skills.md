@@ -19,7 +19,7 @@ This article outlines the ten most in-demand skills that hiring managers and tec
 Understanding smart contract development is fundamental for any Web3 developer. Proficiency in [Solidity](/best-programming-languages-for-blockchain-development), the dominant smart contract programming language, is essential.
 
 - **What to know:** Beyond syntax, comprehend the Ethereum Virtual Machine (EVM) at a granular level. Differentiate between `storage`, `memory`, and `calldata`, and grasp the implications of each on contract execution and gas costs.
-- **How to learn:** Engage in hands-on projects. Utilize resources like CryptoZombies and our [beginner's guide to Solidity](/solidity-for-beginners). Subsequently, develop your own decentralized applications (dApps). A GitHub [portfolio](/building-web3-portfolio) is critical for showcasing your work.
+- **How to learn:** Engage in hands-on projects. Use resources like CryptoZombies and our [beginner's guide to Solidity](/solidity-for-beginners). Subsequently, develop your own decentralized applications (dApps). A GitHub [portfolio](/building-web3-portfolio) is critical for showcasing your work.
 
 ### 2. Smart Contract Security
 
@@ -39,7 +39,7 @@ A professional Web3 developer prioritizes testing. Poorly tested contracts signa
 
 On the [blockchain](/what-is-a-blockchain), every computation incurs a cost. Writing gas-efficient code is a valuable skill.
 
-- **What to know:** Understand the gas costs associated with various EVM opcodes. Master techniques such as struct packing, minimizing state writes, and effectively utilizing `calldata` to lower transaction costs for users. Review our [gas optimization guide](/gas-optimization-techniques-for-solidity-developers) for detailed strategies.
+- **What to know:** Understand the gas costs associated with various EVM opcodes. Master techniques such as struct packing, minimizing state writes, and effectively using `calldata` to lower transaction costs for users. Review our [gas optimization guide](/gas-optimization-techniques-for-solidity-developers) for detailed strategies.
 - **How to learn:** Employ tools like `foundry-gas-report` to evaluate the gas usage of your functions. Read articles that focus specifically on gas optimization techniques.
 
 ### 5. Frontend Integration (Ethers.js / Viem)
@@ -60,7 +60,7 @@ Building directly on the Ethereum mainnet can be cost-prohibitive for various ap
 
 Deploying smart contracts involves high stakes, necessitating a secure and automated deployment pipeline.
 
-- **What to know:** Understand how to establish a secure CI/CD pipeline for your contracts using GitHub Actions. Manage private keys securely, utilize services like HashiCorp Vault, conduct automated security scans with tools like Slither, and employ deployment scripting frameworks. For further insights, refer to our guide on [breaking into blockchain DevOps](/breaking-into-blockchain-devops).
+- **What to know:** Understand how to establish a secure CI/CD pipeline for your contracts using GitHub Actions. Manage private keys securely, use services like HashiCorp Vault, conduct automated security scans with tools like Slither, and employ deployment scripting frameworks. For further insights, refer to our guide on [breaking into blockchain DevOps](/breaking-into-blockchain-devops).
 - **How to learn:** Create a full CI/CD pipeline for a personal project that deploys to a testnet.
 
 ### 8. Data Indexing (The Graph)
@@ -74,12 +74,12 @@ Directly reading data from the blockchain can be inefficient. Use an indexing la
 
 For those focused on the core infrastructure of blockchains, proficiency in a systems programming language is essential.
 
-- **What to know:** Rust is the preferred language for projects like Solana, Polkadot, and many ZK systems. Go is utilized in Go-Ethereum (Geth), the leading Ethereum client.
+- **What to know:** Rust is the preferred language for projects like Solana, Polkadot, and many ZK systems. Go is used in Go-Ethereum (Geth), the leading Ethereum client.
 - **How to learn:** Acquiring expertise in these languages can be challenging. This step is suitable for developers who have mastered application-level development and wish to transition into protocol engineering.
 
 ### 10. Asynchronous Written Communication
 
-Effective written communication is a crucial soft skill in Web3. Many teams operate in remote environments, making clear and concise communication essential.
+Effective written communication is a important soft skill in Web3. Many teams operate in remote environments, making clear and concise communication essential.
 
 - **What to know:** Practice creating detailed documentation, writing clear bug reports, and leaving thoughtful comments on code contributions.
 - **How to learn:** Contribute to an open-source project. This experience will enhance your remote collaboration and communication skills.
@@ -127,7 +127,7 @@ Tailor your learning based on your desired role:
 
 - **Engineers:** Focus on Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Study token economics, protocol governance, and user growth in Web3 environments.
-- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Learn community building, Discord management, and governance principles.
 
 ### Step 3: Build Your Portfolio

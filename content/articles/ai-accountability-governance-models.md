@@ -17,7 +17,7 @@ Web3 governance models present a different approach. Decentralized autonomous or
 
 ## Limitations of Traditional AI Governance
 
-Most companies utilize internal review boards and compliance teams to oversee their AI systems. This method has significant drawbacks. These oversight processes remain opaque to external parties, lacking independent verification of their effectiveness. When issues arise, public documentation of how they were identified or resolved is seldom available. The incentive structure often favors silence over transparency, discouraging the reporting of problems.
+Most companies use internal review boards and compliance teams to oversee their AI systems. This method has significant drawbacks. These oversight processes remain opaque to external parties, lacking independent verification of their effectiveness. When issues arise, public documentation of how they were identified or resolved is seldom available. The incentive structure often favors silence over transparency, discouraging the reporting of problems.
 
 Regulatory bodies recognize this gap. The European Union's AI Act and similar regulations worldwide aim to mandate AI governance frameworks. However, many of these still operate under the assumption that a single organization should control the oversight process, which creates a conflict of interest. A corporation assessing its own AI system is likely to favor declaring it safe, even amidst uncertainties.
 

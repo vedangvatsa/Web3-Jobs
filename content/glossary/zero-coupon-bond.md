@@ -89,13 +89,13 @@ Zero-coupon bonds have advantages for certain strategies.
 
 Fixed-income creates roles:
 
-**Fixed-Income Traders** trading bonds earn competitive salaries.
+- **Fixed-Income Traders** trading bonds earn competitive salaries.
 
-**Quantitative Analysts** modeling bonds earn competitive salaries.
+- **Quantitative Analysts** modeling bonds earn competitive salaries.
 
-**Structurers** creating bond products earn competitive salaries.
+- **Structurers** creating bond products earn competitive salaries.
 
-**Risk Analysts** analyzing bond risks earn competitive salaries.
+- **Risk Analysts** analyzing bond risks earn competitive salaries.
 
 ## Best Practices
 

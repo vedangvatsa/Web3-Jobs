@@ -143,15 +143,15 @@ Understanding these psychological tactics helps investors maintain objectivity a
 
 Fighting rug pulls creates career opportunities:
 
-**Blockchain Forensics Analysts** track stolen funds and identify scammers, working for cybersecurity firms, law enforcement, or as independent consultants.
+- **Blockchain Forensics Analysts** track stolen funds and identify scammers, working for cybersecurity firms, law enforcement, or as independent consultants.
 
-**Security Researchers** develop tools and methodologies for identifying scam contracts and protecting users.
+- **Security Researchers** develop tools and methodologies for identifying scam contracts and protecting users.
 
-**Compliance Officers** at exchanges and DeFi platforms work to screen projects and protect users from scams.
+- **Compliance Officers** at exchanges and DeFi platforms work to screen projects and protect users from scams.
 
-**Legal Professionals** specializing in crypto fraud help victims recover funds and work with regulators on enforcement.
+- **Legal Professionals** specializing in crypto fraud help victims recover funds and work with regulators on enforcement.
 
-**Educators** create content teaching users to identify scams and practice safe investing.
+- **Educators** create content teaching users to identify scams and practice safe investing.
 
 ## Community Defense
 

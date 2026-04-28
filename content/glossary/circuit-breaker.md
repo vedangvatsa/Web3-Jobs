@@ -15,7 +15,7 @@ Circuit Breaker refers to a security mechanism embedded in smart contracts that 
 
 How they work:
 
-- **Risk Monitor**: Continuously monitors protocol health metrics (price, utilization, reserves).
+- **Risk Monitor**: Continuously monitors protocol health metrics (price, use, reserves).
 
 - **Threshold**: Pre-agreed limit triggering circuit breaker (e.g., price deviation >20%).
 
@@ -49,7 +49,7 @@ Different types balance protection with operational continuity.
 
 Real implementations:
 
-- **Aave**: Circuit breaker preventing new borrowing if utilization exceeds 95% during stress.
+- **Aave**: Circuit breaker preventing new borrowing if use exceeds 95% during stress.
 
 - **Curve**: Pause mechanism during abnormal price movements, preventing panic selling.
 
@@ -113,15 +113,15 @@ Hindsight shows circuit breaker value.
 
 Circuit breakers create roles:
 
-**Risk Control Engineers** designing circuit breakers earn competitive salaries.
+- **Risk Control Engineers** designing circuit breakers earn competitive salaries.
 
-**Smart Contract Security Engineers** implementing circuit breakers earn competitive salaries.
+- **Smart Contract Security Engineers** implementing circuit breakers earn competitive salaries.
 
-**Protocol Risk Managers** setting circuit breaker thresholds earn competitive salaries.
+- **Protocol Risk Managers** setting circuit breaker thresholds earn competitive salaries.
 
-**Simulation Engineers** testing circuit breaker performance earn competitive salaries.
+- **Simulation Engineers** testing circuit breaker performance earn competitive salaries.
 
-**Governance Specialists** setting circuit breaker policies earn competitive salaries.
+- **Governance Specialists** setting circuit breaker policies earn competitive salaries.
 
 ## Best Practices
 

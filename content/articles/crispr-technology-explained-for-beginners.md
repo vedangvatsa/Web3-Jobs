@@ -1,7 +1,7 @@
 ---
 
 title: "CRISPR Technology Explained for Beginners"
-description: "A simple and clear explanation of CRISPR, the groundbreaking gene-editing tool, covering how it works, its applications, and the ethical questions it raises."
+description: "A simple and clear explanation of CRISPR, the new gene-editing tool, covering how it works, its applications, and the ethical questions it raises."
 category: "Educational"
 image: "https://picsum.photos/seed/crispr/1200/630"
 data-ai-hint: "dna editing"
@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 CRISPR represents a significant advancement in genetic science. This gene-editing technology enables precise modifications to DNA, fundamentally altering our approach to genetics. At its core, CRISPR functions like a digital editing tool for genes, allowing researchers to identify specific DNA sequences, cut them, and either excise or modify them.
 
-The term CRISPR stands for "Clustered Regularly Interspaced Short Palindromic Repeats." This name reflects its origins in the immune system of bacteria. Bacteria utilize CRISPR as a defense mechanism against viruses. When a virus attacks, the bacterium captures a fragment of the virus's DNA and stores it within its CRISPR loci. If the virus strikes again, the bacterium can recognize it and deploy an enzyme to cleave the viral DNA. This natural process has been adapted into a versatile gene-editing tool, primarily through the CRISPR-Cas9 system.
+The term CRISPR stands for "Clustered Regularly Interspaced Short Palindromic Repeats." This name reflects its origins in the immune system of bacteria. Bacteria use CRISPR as a defense mechanism against viruses. When a virus attacks, the bacterium captures a fragment of the virus's DNA and stores it within its CRISPR loci. If the virus strikes again, the bacterium can recognize it and deploy an enzyme to cleave the viral DNA. This natural process has been adapted into a versatile gene-editing tool, primarily through the CRISPR-Cas9 system.
 
 ### Components of CRISPR-Cas9
 
@@ -41,7 +41,7 @@ The potential applications of CRISPR are vast and include:
 
 - **Curing Genetic Disorders**: Diseases tied to single-gene mutations, such as cystic fibrosis and sickle cell anemia, can potentially be cured by correcting the genetic defect directly. Clinical trials are already testing CRISPR interventions for these conditions.
 - **Cancer Treatment**: Researchers are engineering immune cells using CRISPR to enhance their ability to combat cancer. By modifying a patient's immune cells to specifically target their cancer, the treatment becomes personalized and potentially more effective.
-- **Agricultural Advancements**: CRISPR is being utilized to develop crops that are more resilient to environmental stresses, pests, and diseases. This innovation could significantly contribute to global food security amidst changing climate conditions.
+- **Agricultural Advancements**: CRISPR is being used to develop crops that are more resilient to environmental stresses, pests, and diseases. This innovation could significantly contribute to global food security amidst changing climate conditions.
 
 ### Ethical Considerations
 

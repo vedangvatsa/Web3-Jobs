@@ -28,7 +28,7 @@ Never take a screenshot of your seed phrase, store it digitally, or share it wit
 
 While designed primarily for Ethereum, MetaMask supports any EVM-compatible blockchain. You can easily add networks like Polygon, Binance Smart Chain, Avalanche, or Arbitrum by entering their network details. Many dApps include buttons that automatically add their network to your MetaMask with one click.
 
-This multi-network support makes MetaMask versatile. You might use Ethereum for major DeFi positions, Polygon for cheaper transactions, and Arbitrum for Layer 2 scaling. MetaMask handles switching between these networks seamlessly, though you need to have the native token of each network for gas fees.
+This multi-network support makes MetaMask versatile. You might use Ethereum for major DeFi positions, Polygon for cheaper transactions, and Arbitrum for Layer 2 scaling. MetaMask handles switching between these networks smoothly, though you need to have the native token of each network for gas fees.
 
 ## Connecting to dApps
 
@@ -82,4 +82,4 @@ The MetaMask team also builds infrastructure beyond the wallet, including MetaMa
 
 MetaMask continues evolving with new features. The MetaMask Snaps system allows third-party developers to extend wallet functionality with plugins. Account abstraction support will enable more sophisticated wallet features. Integration with additional blockchain ecosystems expands its utility beyond EVM chains.
 
-The wallet is also working on improved user experience for beginners, better security warnings, and enhanced portfolio tracking. As Web3 matures, MetaMask evolves from just a wallet into a comprehensive Web3 identity and asset management platform.
+The wallet is also working on improved user experience for beginners, better security warnings, and enhanced portfolio tracking. As Web3 matures, MetaMask evolves from just a wallet into a full Web3 identity and asset management platform.

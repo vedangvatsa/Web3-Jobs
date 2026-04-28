@@ -97,7 +97,7 @@ The Web3 community is highly accessible. Enhance your networking efforts by:
 - Attending local Web3 meetups to connect with like-minded individuals
 
 #### Step 5: Apply Strategically
-Target roles that utilize your existing skills along with your new Web3 knowledge:
+Target roles that use your existing skills along with your new Web3 knowledge:
 
 - Backend engineers should look for blockchain infrastructure positions
 - Product Managers can seek protocol-focused roles

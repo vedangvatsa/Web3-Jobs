@@ -9,7 +9,7 @@ relatedTerms: ["smart-contract", "eoa", "wallet", "erc-4337"]
 synonyms: ["AA", "smart account", "programmable account"]
 ---
 
-Account Abstraction is an architectural approach that treats all blockchain accounts as programmable smart contracts rather than requiring fixed cryptographic signature schemes like ECDSA. This shift eliminates the rigid constraints of traditional Externally Owned Accounts, enabling flexible validation logic such as multi-signature requirements, biometric authentication, social recovery mechanisms, and time-locked withdrawals. Safe, formerly Gnosis Safe, exemplifies account abstraction in practice by securing digital assets through its smart contract wallet infrastructure. The technology improves user experience by allowing batched transactions that execute multiple operations in a single action, account recovery options when private keys are lost, and customizable security policies tailored to individual or organizational needs. ERC-4337 has emerged as Ethereum's primary standard for implementing account abstraction without requiring consensus-layer changes. Engineers specializing in account abstraction development are increasingly sought after as wallet providers and decentralized applications compete to deliver seamless onboarding experiences for mainstream users.
+Account Abstraction is an architectural approach that treats all blockchain accounts as programmable smart contracts rather than requiring fixed cryptographic signature schemes like ECDSA. This shift eliminates the rigid constraints of traditional Externally Owned Accounts, enabling flexible validation logic such as multi-signature requirements, biometric authentication, social recovery mechanisms, and time-locked withdrawals. Safe, formerly Gnosis Safe, exemplifies account abstraction in practice by securing digital assets through its smart contract wallet infrastructure. The technology improves user experience by allowing batched transactions that execute multiple operations in a single action, account recovery options when private keys are lost, and customizable security policies tailored to individual or organizational needs. ERC-4337 has emerged as Ethereum's primary standard for implementing account abstraction without requiring consensus-layer changes. Engineers specializing in account abstraction development are increasingly sought after as wallet providers and decentralized applications compete to deliver smooth onboarding experiences for mainstream users.
 
 ## The Current Account Model
 
@@ -149,17 +149,17 @@ Research and development are ongoing to address these challenges.
 
 Account abstraction creates new roles:
 
-**AA Protocol Engineers** build account abstraction infrastructure and standards.
+- **AA Protocol Engineers** build account abstraction infrastructure and standards.
 
-**Smart Wallet Developers** create account abstraction-enabled wallets.
+- **Smart Wallet Developers** create account abstraction-enabled wallets.
 
-**Security Researchers** analyze account abstraction security and attack vectors.
+- **Security Researchers** analyze account abstraction security and attack vectors.
 
-**Bundler Operators** run bundler infrastructure.
+- **Bundler Operators** run bundler infrastructure.
 
-**UX Engineers** design account abstraction-enabled interfaces for improved user experience.
+- **UX Engineers** design account abstraction-enabled interfaces for improved user experience.
 
-**Compliance Engineers** implement regulatory controls in account abstraction accounts.
+- **Compliance Engineers** implement regulatory controls in account abstraction accounts.
 
 ## Best Practices
 

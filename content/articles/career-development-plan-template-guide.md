@@ -77,7 +77,7 @@ Core competencies are essential for success in various fields, including [Web3](
 | **Technical Foundation**   | Understanding relevant technical concepts is critical. While you need not be an expert, foundational knowledge helps prevent costly errors. |
 | **Communication Excellence** | The ability to articulate complex ideas clearly is invaluable. Regular practice in writing and presenting enhances this skill. |
 | **Problem-Solving Methodology** | A structured approach to problem-solving involves defining the issue, researching solutions, evaluating options, implementing the best choice, and measuring the outcome. This framework is applicable in both technical and non-technical contexts. |
-| **Learning Agility**      | The capacity to rapidly acquire new skills is crucial in fast-changing industries. Engage in hands-on learning rather than solely consuming information. |
+| **Learning Agility**      | The capacity to rapidly acquire new skills is important in fast-changing industries. Engage in hands-on learning rather than solely consuming information. |
 | **Emotional Intelligence** | Understanding and managing your own emotions and those of others is vital for effective teamwork and successful negotiations. |
 
 ## Development Roadmap
@@ -118,7 +118,7 @@ Web3 teams often operate in fast-paced, distributed environments. The competenci
 
 - Accelerate product delivery through effective technical skills and communication.
 - Thrive in ambiguous situations by employing problem-solving strategies and learning agility.
-- Build trust among colleagues by utilizing emotional intelligence.
+- Build trust among colleagues by using emotional intelligence.
 - Influence stakeholders without direct authority through strong communication and emotional intelligence.
 
 ### In Your Career Progression
@@ -127,7 +127,7 @@ The importance of these competencies evolves with your career level:
 
 | Career Level   | Key Skills Focus                                      |
 |----------------|------------------------------------------------------|
-| **Junior Level** | Technical skills are crucial, but communication also gains importance. |
+| **Junior Level** | Technical skills are important, but communication also gains importance. |
 | **Mid Level**    | A balance of technical and soft skills is essential; leadership potential emerges. |
 | **Senior Level**  | Soft skills become increasingly vital in roles requiring collaboration and influence. |
 | **Leadership**    | Emotional intelligence and communication skills dominate, impacting team dynamics and project success. |

@@ -27,7 +27,7 @@ Malabo's future in Web3 will likely reflect the country’s economic framework a
 
 Malabo currently lacks a formal Web3 job market. Local professionals can consider two primary career paths:
 
-1. **Entrepreneurship:** Founders can establish the first Web3 startups in Equatorial Guinea, likely targeting FinTech or enterprise solutions for the energy sector. Securing funding from international or regional venture capitalists will be crucial for these ventures.
+1. **Entrepreneurship:** Founders can establish the first Web3 startups in Equatorial Guinea, likely targeting FinTech or enterprise solutions for the energy sector. Securing funding from international or regional venture capitalists will be important for these ventures.
 
 2. **[Remote Work](/remote-work-in-web3):** Individual professionals can acquire globally sought-after skills to secure remote positions with international Web3 companies.
    - **Senior Remote Developer ([Solidity](/best-programming-languages-for-blockchain-development)/Go):** Expected salaries can vary significantly based on experience and location.
@@ -70,7 +70,7 @@ Demonstrate your expertise with tangible proof points:
 
 Once you have a solid portfolio and skill set:
 
-- **Utilize Remote Job Boards:** Explore platforms such as LinkedIn, AngelList, We Work Meteor, and CryptoJobs for opportunities.
+- **Use Remote Job Boards:** Explore platforms such as LinkedIn, AngelList, We Work Meteor, and CryptoJobs for opportunities.
 - **Network Actively:** Engage with Web3 communities on Discord, Telegram, and Twitter. Connect directly with founders and hiring managers.
 - **Apply to Decentralized Organizations:** [DAO](/what-is-a-dao) treasuries and decentralized companies often seek remote talent, offering flexibility in location.
 - **Consider Freelancing First:** Platforms like Upwork and Fiverr can lead to full-time remote roles.
@@ -91,7 +91,7 @@ Enterprise blockchain showcases proven use cases in the energy sector:
 1. **Acquire Domain Knowledge:** Understand the oil and gas supply chain, current challenges, and regulatory requirements.
 2. **Research Real Projects:** Investigate how companies like BP, Shell, and Chevron are implementing blockchain.
 3. **Create Case Studies:** Develop mock blockchain solutions for energy sector challenges specific to Equatorial Guinea.
-4. **Engage Industry Players:** Collaborate with local energy companies or their international partners, leveraging your expertise.
+4. **Engage Industry Players:** Collaborate with local energy companies or their international partners, using your expertise.
 
 Focusing on the energy sector positions you uniquely by combining Web3 skills with domain knowledge that many developers may lack.
 

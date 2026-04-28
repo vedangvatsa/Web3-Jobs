@@ -20,7 +20,7 @@ The emergence of Singapore as a prominent crypto hub is a product of strategic g
 
 #### A Global FinTech Leader
 
-Singapore's reputation as a stable and innovative financial center has laid the groundwork for Web3 development:
+Singapore's reputation as a stable and new financial center has laid the groundwork for Web3 development:
 
 - A well-established banking and financial infrastructure
 - Extensive experience in cross-border payments and trading
@@ -183,7 +183,7 @@ Some of the top companies to consider include:
 No, many companies offer remote roles. However, being present during TOKEN2049 and local meetups significantly enhances networking opportunities.
 
 **Is Singapore too regulated for crypto?**
-While regulations exist, they are clear and fair, fostering a legitimate business environment. Companies operate with certainty rather than in gray areas.
+While regulations exist, they are clear and fair, building a legitimate business environment. Companies operate with certainty rather than in gray areas.
 
 **What is the culture like in Singapore’s Web3 scene?**
 The culture is professional and financially oriented, marked by diverse international talent. It lacks the “bro culture” often seen in other regions.

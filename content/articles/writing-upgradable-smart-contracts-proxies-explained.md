@@ -28,7 +28,7 @@ The proxy pattern divides your application into two distinct contracts:
 
 The mechanism that links these two contracts is a unique EVM opcode named `delegatecall`.
 
-When the Proxy contract receives a function call, such as `deposit()`, it does not execute the function directly. Instead, it utilizes `delegatecall` to relay the function call to the current Implementation contract.
+When the Proxy contract receives a function call, such as `deposit()`, it does not execute the function directly. Instead, it uses `delegatecall` to relay the function call to the current Implementation contract.
 
 **`delegatecall` operates uniquely:** It executes the code of the Implementation contract while running in the *context of the Proxy contract's state*. This allows the Implementation contract to read and write to the Proxy's storage as if it were its own.
 
@@ -48,7 +48,7 @@ This process completes the upgrade. Users continue to interact with the same Pro
 
 ### Using OpenZeppelin for Upgradable Contracts
 
-Avoid crafting your own proxy contracts from scratch. This task is complex and laden with risks. The industry standard is to utilize the **OpenZeppelin Upgrades Plugins**.
+Avoid crafting your own proxy contracts from scratch. This task is complex and laden with risks. The industry standard is to use the **OpenZeppelin Upgrades Plugins**.
 
 | Plugin Name                          | Description                       |
 |--------------------------------------|-----------------------------------|
@@ -96,7 +96,7 @@ Begin with a solid grasp of the principles behind the Transparent Proxy Pattern.
 
 #### Step 2: Assess Your Current Situation
 
-Evaluate your knowledge and skills. Identify your strengths and weaknesses in this area. Understanding your current capabilities is crucial for effective improvement.
+Evaluate your knowledge and skills. Identify your strengths and weaknesses in this area. Understanding your current capabilities is important for effective improvement.
 
 #### Step 3: Develop Your Personal Strategy
 
@@ -128,7 +128,7 @@ Keep track of your progress. Are you achieving the desired results? Modify your 
 
 4. **Giving Up Too Soon:** Change can be uncomfortable. Persevere through initial difficulties for better outcomes.
 
-5. **Not Tracking Progress:** Measuring progress is crucial for improvement. Use metrics to gauge your development.
+5. **Not Tracking Progress:** Measuring progress is important for improvement. Use metrics to gauge your development.
 
 ### FAQ
 
@@ -139,7 +139,7 @@ A: Many developers see initial results within a few weeks of consistent applicat
 A: Even in challenging environments, you can initiate small, self-contained actions that do not require broad organizational approval. Focus on personal projects or informal discussions with willing colleagues to create momentum.
 
 **Q: How does this apply specifically to Web3?**  
-A: Web3 organizations tend to have flatter hierarchies and emphasize self-direction. Effective communication and collaboration skills are crucial in remote settings where traditional dynamics do not apply.
+A: Web3 organizations tend to have flatter hierarchies and emphasize self-direction. Effective communication and collaboration skills are important in remote settings where traditional dynamics do not apply.
 
 **Q: Can I implement this alongside my current role?**  
 A: Yes. You can integrate these practices into your current responsibilities without needing extra hours. Focus on small, consistent changes within your existing workflow for the best results.

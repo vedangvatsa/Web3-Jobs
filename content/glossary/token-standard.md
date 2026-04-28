@@ -108,13 +108,13 @@ Token standards are constantly evolving.
 
 Token standards create roles:
 
-**Protocol Designers** design standards.
+- **Protocol Designers** design standards.
 
-**Smart Contract Developers** implement standards.
+- **Smart Contract Developers** implement standards.
 
-**Standards Researchers** improve standards.
+- **Standards Researchers** improve standards.
 
-**Interoperability Engineers** enable cross-standard compatibility.
+- **Interoperability Engineers** enable cross-standard compatibility.
 
 ## Best Practices
 

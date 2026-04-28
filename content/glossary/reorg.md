@@ -93,11 +93,11 @@ Reducing risk:
 
 Consensus roles:
 
-**Protocol Engineers** earn competitive salaries.
+- **Protocol Engineers** earn competitive salaries.
 
-**Security Researchers** earn competitive salaries.
+- **Security Researchers** earn competitive salaries.
 
-**Network Engineers** earn competitive salaries.
+- **Network Engineers** earn competitive salaries.
 
 ## Best Practices
 

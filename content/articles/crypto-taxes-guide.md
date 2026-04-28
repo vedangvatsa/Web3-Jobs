@@ -71,7 +71,7 @@ Tracking every transaction can be nearly impossible without specialized tools. A
 | Tool         | Features                                    |
 |--------------|---------------------------------------------|
 | CoinLedger   | Automated tax reporting, integration with exchanges |
-| Koinly       | Multi-country support, comprehensive tax reports |
+| Koinly       | Multi-country support, full tax reports |
 | TokenTax     | Tax calculation, integration with wallets and exchanges |
 
 Tracking your transactions is essential for compliance. Understanding how crypto is treated as property, recognizing taxable events, and distinguishing between short-term and long-term gains will help you manage your obligations. Keep thorough records, consider using specialized software, and consult a tax professional when required.

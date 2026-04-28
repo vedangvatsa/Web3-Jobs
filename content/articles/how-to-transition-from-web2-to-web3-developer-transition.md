@@ -32,7 +32,7 @@ To effectively transition, familiarize yourself with the following technologies:
 ### A Learning Roadmap
 
 1. **Month 1: Foundations.** Spend this month grasping blockchain principles and learning to read blockchain data using Ethers.js.
-2. **Month 2: Smart Contracts.** Dive into Solidity. Utilize tutorials like CryptoZombies to create a simple ERC-20 [token](/what-is-a-token).
+2. **Month 2: Smart Contracts.** Dive into Solidity. Use tutorials like CryptoZombies to create a simple ERC-20 [token](/what-is-a-token).
 3. **Month 3: Full-Stack dApp.** Construct a complete decentralized application, such as a basic [staking](/how-to-become-a-web3-staking-specialist) contract with a React front end.
 
 Your Web2 experience provides a significant advantage. Combining this with a solid understanding of Web3 technologies will position you as a desirable candidate in this rapidly expanding field.
@@ -75,7 +75,7 @@ Depending on your desired role, focus on the following skills:
 
 - **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, strategies for user growth in Web3
-- **Business Development:** Market analysis, partnership strategies, understanding the regulatory landscape
+- **Business Development:** Market analysis, partnership strategies, understanding the regulatory space
 - **Community/Operations:** Community development, Discord management, governance practices
 
 ### Step 3: Build Your Portfolio
@@ -109,7 +109,7 @@ Focus on roles that capitalize on your existing skills while incorporating your 
 Alex, a backend engineer with five years of experience at a FAANG company, spent three months learning Solidity while maintaining his full-time job. His contributions to an open-source protocol drew the attention of a major DeFi project, leading to a transition with a notable salary increase and significant equity.
 
 ### Product Manager in Web3
-Jessica, a product manager from traditional finance, utilized her expertise in DeFi to break into Web3. Her background in financial products combined with knowledge of Web3 technology made her a highly valuable candidate. She secured a position at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, used her expertise in DeFi to break into Web3. Her background in financial products combined with knowledge of Web3 technology made her a highly valuable candidate. She secured a position at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 Marcus left his corporate role to focus on Web3 for six months. Through persistent learning, networking, and portfolio development, he secured a position leading Developer Relations at a prominent blockchain platform, with compensation far exceeding his previous job.
@@ -118,7 +118,7 @@ Marcus left his corporate role to focus on Web3 for six months. Through persiste
 
 **Volatility Risk:** The crypto market is inherently volatile, potentially affecting job stability, especially at early-stage startups. Professionals entering Web3 should maintain a financial cushion of several months of living expenses, negotiate base salaries in fiat currency rather than tokens, and seek projects with established revenue models or substantial treasury backing.
 
-**Regulatory Uncertainty:** The legal landscape for blockchain companies is evolving across various jurisdictions. Before joining any project, ensure the team has competent legal counsel and is actively engaging with regulators rather than operating in ambiguous legal territories.
+**Regulatory Uncertainty:** The legal space for blockchain companies is evolving across various jurisdictions. Before joining any project, ensure the team has competent legal counsel and is actively engaging with regulators rather than operating in ambiguous legal territories.
 
 **Due Diligence:** Not every Web3 project is reputable. Conduct thorough research on the founding team's history, review audit reports for smart contracts, verify treasury holdings on-chain, and speak with current or former team members before accepting an offer.
 

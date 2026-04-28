@@ -18,7 +18,7 @@ For protocols that manage significant value, formal verification offers a confid
 
 ## What is Formal Verification?
 
-Formal verification utilizes mathematical logic to assert properties about code. Unlike traditional testing, which examines specific scenarios, formal verification analyzes all possible execution paths. This method ensures that a contract consistently behaves as expected.
+Formal verification uses mathematical logic to assert properties about code. Unlike traditional testing, which examines specific scenarios, formal verification analyzes all possible execution paths. This method ensures that a contract consistently behaves as expected.
 
 ### Comparison of Verification Methods
 
@@ -87,13 +87,13 @@ These methods complement one another rather than compete.
 | **Testing and Fuzzing** | Extensively tests scenarios                  | Cannot guarantee bug absence in untested scenarios            |
 | **Formal Verification**  | Proves specific mathematical properties     | Cannot identify business logic flaws; requires clear specs    |
 
-The strongest security strategy involves a combination of all three approaches. Conduct thorough testing during development, apply formal verification to critical properties, and utilize expert security audits to identify business logic vulnerabilities.
+The strongest security strategy involves a combination of all three approaches. Conduct thorough testing during development, apply formal verification to critical properties, and use expert security audits to identify business logic vulnerabilities.
 
 ## Real-World Applications of Formal Verification
 
 Many major protocols have adopted formal verification to enhance their security.
 
-- **dYdX:** Utilized Certora Prover to verify key properties of its lending protocol.
+- **dYdX:** Used Certora Prover to verify key properties of its lending protocol.
   
 - **OpenZeppelin Contracts:** Certain components of their standard library have undergone formal verification.
 
@@ -125,7 +125,7 @@ As blockchain protocols grow more sophisticated and manage substantial capital, 
 
 - **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer):** Developers are now expected to have a basic understanding of formal specifications and verification processes, with some teams requiring developers to create formal properties alongside their code.
 
-- **Security Researcher:** Researchers utilize formal verification tools to discover vulnerabilities and deeply understand protocol properties. This position is gaining traction in the Web3 space.
+- **Security Researcher:** Researchers use formal verification tools to discover vulnerabilities and deeply understand protocol properties. This position is gaining traction in the Web3 space.
 
 - **Tool Developer:** There is an active demand for engineers to design and enhance formal verification tools, with companies like Certora and Mythril hiring professionals to improve their offerings.
 

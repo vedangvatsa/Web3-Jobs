@@ -42,7 +42,7 @@ This position examines the economic risks associated with a protocol, extending 
 Actuaries play a critical role in modeling risk and uncertainty. In the Web3 context, they develop complex financial models for new on-chain insurance products.
 
 - **Responsibilities:**
-    - Price innovative insurance products, such as coverage for impermanent loss and slashing penalties for stakers.
+    - Price new insurance products, such as coverage for impermanent loss and slashing penalties for stakers.
     - Manage capital reserves for an insurance [DAO](/what-is-a-dao) to ensure claims can always be paid.
 - **Skills:** A traditional actuarial background combined with a strong understanding of DeFi.
 
@@ -59,7 +59,7 @@ Actuaries play a critical role in modeling risk and uncertainty. In the Web3 con
 2. **Specialize in a Specific Risk Area:** Focus on smart contract exploits, reading audit reports and post-mortems to deepen your understanding.
 3. **Create a Portfolio:** Start a blog or Substack to publish risk assessments of various DeFi protocols; this will serve as a strong [resume](/how-to-build-a-web3-resume-that-stands-out).
 
-The Web3 insurance sector is nascent yet poised for growth as the industry evolves. For risk management professionals willing to tackle the complexities of this financial system, it offers opportunities to shape a crucial and emerging field.
+The Web3 insurance sector is nascent yet poised for growth as the industry evolves. For risk management professionals willing to tackle the complexities of this financial system, it offers opportunities to shape a important and emerging field.
 
 ### The Web3 Opportunity
 
@@ -99,7 +99,7 @@ Tailor your skills based on your targeted role:
 
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
 - **Product Managers:** Study token economics, protocol governance, and user growth strategies.
-- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Hone skills in community building, Discord management, and governance.
 
 #### Step 3: Build Your Portfolio

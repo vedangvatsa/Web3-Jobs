@@ -131,7 +131,7 @@ Marcus left his corporate job to focus on Web3 full-time for six months. Through
 
 **Volatility Risk:** The crypto market's inherent volatility can affect job stability, particularly at early-stage startups with limited financial resources. Professionals should maintain a reserve of living expenses, negotiate base salaries in fiat currency, and seek projects with established revenue models.
 
-**Regulatory Uncertainty:** The evolving regulatory landscape can pose challenges for blockchain companies. Before joining a project, ensure the team has competent legal counsel and is actively engaging with regulators.
+**Regulatory Uncertainty:** The evolving regulatory space can pose challenges for blockchain companies. Before joining a project, ensure the team has competent legal counsel and is actively engaging with regulators.
 
 **Due Diligence:** Not every Web3 project is legitimate. Conduct thorough research on the founding team's background, review audit reports for smart contracts, verify on-chain treasury holdings, and speak with current or former team members before accepting an offer.
 

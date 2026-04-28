@@ -39,7 +39,7 @@ If your aim is to grasp the fundamentals of AI, its workings, and its societal i
 |------------------------------|-------------------------------------------------------------------------|
 | **Cost**                     | Included with LinkedIn Premium subscription (often includes a free trial). |
 | **Best for**                 | Professionals eager to learn practical applications of generative AI tools like ChatGPT. |
-| **Why it’s great**           | This course offers a hands-on approach, emphasizing real-world applications over theory. You will learn to write effective prompts, utilize AI for brainstorming and writing, and understand model capabilities, making it useful for daily work tasks.
+| **Why it’s great**           | This course offers a hands-on approach, emphasizing real-world applications over theory. You will learn to write effective prompts, use AI for brainstorming and writing, and understand model capabilities, making it useful for daily work tasks.
 
 ### Track 2: For the Aspiring Programmer (Technical Skills)
 
@@ -67,7 +67,7 @@ If you aim to develop AI models, you will need programming skills, typically sta
 |------------------------------|-------------------------------------------------------------------------|
 | **Cost**                     | Free                                                                    |
 | **Best for**                 | Individuals with programming experience preferring a practical approach. |
-| **Why it’s great**           | The fast.ai course adopts a top-down approach, allowing you to train an image classifier from the first lesson. You will quickly engage with practical skills before diving into the underlying theory. The course utilizes the `fastai` library, built on PyTorch, facilitating rapid results.
+| **Why it’s great**           | The fast.ai course adopts a top-down approach, allowing you to train an image classifier from the first lesson. You will quickly engage with practical skills before diving into the underlying theory. The course uses the `fastai` library, built on PyTorch, facilitating rapid results.
 
 ### How to Choose the Right Course for You
 
@@ -87,7 +87,7 @@ For the non-technical track, advanced math skills are not required. However, for
 Completing a course like "Elements of AI" can take a few weeks for a basic understanding. However, becoming a proficient machine learning engineer requires a longer commitment. Completing a full specialization on Coursera may take several months of consistent study. Mastery in AI is a gradual process rather than a quick endeavor.
 
 **3. What is the best programming language for AI?**  
-Python reigns supreme in AI and machine learning due to its straightforward syntax and comprehensive libraries such as TensorFlow, PyTorch, and scikit-learn. If you plan to learn coding for AI, start with Python.
+Python reigns supreme in AI and machine learning due to its straightforward syntax and full libraries such as TensorFlow, PyTorch, and scikit-learn. If you plan to learn coding for AI, start with Python.
 
 **4. Do I need a powerful computer to do these courses?**  
 No, you do not need a high-end computer. Most programming assignments can be executed in the cloud with tools like Google Colab, which provides free access to reliable computing resources.

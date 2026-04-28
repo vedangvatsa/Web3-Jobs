@@ -86,7 +86,7 @@ A: Web3 organizations differ significantly from traditional companies. Flatter h
 A: Yes, most professionals can integrate these strategies into their existing responsibilities. Focus on intentionality rather than extra hours. Identify two or three practices that align with your daily tasks, and consistently apply them. The compounding effect of small, deliberate improvements will surpass sporadic large efforts. Most successful habit changes occur without altering total work hours.
 
 **Q: What resources can help me go deeper?**  
-A: For targeted reading, explore articles that delve into specific aspects of managing up. Additionally, seek out mentors or peer groups who excel in this area. Observing their practices can provide insights that written resources may not cover. Participating in Web3-specific communities on platforms like Discord and Telegram can connect you with experienced professionals willing to share their processes. Establishing structured accountability with someone who can track your progress will also accelerate your development.
+A: For targeted reading, explore articles that look into specific aspects of managing up. Additionally, seek out mentors or peer groups who excel in this area. Observing their practices can provide insights that written resources may not cover. Participating in Web3-specific communities on platforms like Discord and Telegram can connect you with experienced professionals willing to share their processes. Establishing structured accountability with someone who can track your progress will also accelerate your development.
 
 ## Conclusion
 

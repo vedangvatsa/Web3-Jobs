@@ -5,12 +5,12 @@ category: "Protocols & Standards"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&h=600&fit=crop"
 imageAlt: "Token standards and Ethereum protocol visualization"
-description: "The technical standard for fungible tokens on Ethereum. Defines a common interface that enables any ERC-20 token to work seamlessly with wallets, exchanges, and dApps."
+description: "The technical standard for fungible tokens on Ethereum. Defines a common interface that enables any ERC-20 token to work smoothly with wallets, exchanges, and dApps."
 relatedTerms: ["token", "ethereum", "smart-contract"]
 synonyms: ["Ethereum token standard", "fungible token standard"]
 ---
 
-ERC-20 is the technical standard for fungible tokens on the Ethereum blockchain, defining a common interface that enables any compliant token to work seamlessly with wallets, exchanges, and decentralized applications. Proposed in 2015 and finalized in 2017, this standard establishes six mandatory functions including transfer, approve, and balanceOf that ensure consistent behavior across the ecosystem. The standardization enabled the creation of various tokens, including stablecoins and governance tokens. Today, ERC-20 development skills are essential for Web3 careers, with smart contract positions frequently requiring deep familiarity with token standards, security considerations, and integration patterns that connect tokens to the broader DeFi ecosystem.
+ERC-20 is the technical standard for fungible tokens on the Ethereum blockchain, defining a common interface that enables any compliant token to work smoothly with wallets, exchanges, and decentralized applications. Proposed in 2015 and finalized in 2017, this standard establishes six mandatory functions including transfer, approve, and balanceOf that ensure consistent behavior across the ecosystem. The standardization enabled the creation of various tokens, including stablecoins and governance tokens. Today, ERC-20 development skills are essential for Web3 careers, with smart contract positions frequently requiring deep familiarity with token standards, security considerations, and integration patterns that connect tokens to the broader DeFi ecosystem.
 
 ## Understanding Token Standards
 
@@ -22,7 +22,7 @@ The "ERC" stands for Ethereum Request for Comment, Ethereum's process for propos
 
 ERC-20 defines six mandatory functions that tokens must implement. `totalSupply()` returns the total token supply. `balanceOf(address)` returns a specific address's token balance. `transfer(to, amount)` sends tokens from your address to another. These three functions enable basic token operations.
 
-`approve(spender, amount)` authorizes another address to spend tokens on your behalf. `allowance(owner, spender)` checks how much an approved spender can still spend. `transferFrom(from, to, amount)` lets approved addresses transfer tokens. These approval functions enable smart contracts to interact with tokens on users' behalf, which is crucial for DeFi protocols.
+`approve(spender, amount)` authorizes another address to spend tokens on your behalf. `allowance(owner, spender)` checks how much an approved spender can still spend. `transferFrom(from, to, amount)` lets approved addresses transfer tokens. These approval functions enable smart contracts to interact with tokens on users' behalf, which is important for DeFi protocols.
 
 ## Events and Transparency
 
@@ -88,7 +88,7 @@ Layer 2 solutions and alternative chains address gas costs. Optimistic rollups a
 
 Wrapped Bitcoin (WBTC) and other wrapped assets use ERC-20 to bring non-Ethereum assets to Ethereum. WBTC represents Bitcoin as an ERC-20 token, enabling Bitcoin to work in DeFi protocols. This bridging expands what assets can participate in Ethereum's ecosystem while maintaining the benefits of standardization.
 
-The wrapping process involves custody; Bitcoin is locked, and equivalent WBTC is minted. Unwrapping does the reverse. While this introduces custodial trust, it is a practical solution for cross-chain interoperability that leverages ERC-20's universal compatibility.
+The wrapping process involves custody; Bitcoin is locked, and equivalent WBTC is minted. Unwrapping does the reverse. While this introduces custodial trust, it is a practical solution for cross-chain interoperability that uses ERC-20's universal compatibility.
 
 ## Regulatory Implications
 

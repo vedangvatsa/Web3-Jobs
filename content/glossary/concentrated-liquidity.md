@@ -17,7 +17,7 @@ synonyms:
   - Position-based liquidity
 ---
 
-**Concentrated liquidity** is an AMM (automated market maker) design that allows liquidity providers to allocate their capital within custom price ranges instead of distributing it across the entire 0-to-infinity price curve. Introduced by Uniswap V3 in May 2021, this innovation changed DeFi by enabling greater capital efficiency compared to traditional constant product (x*y=k) AMMs.
+- **Concentrated liquidity** is an AMM (automated market maker) design that allows liquidity providers to allocate their capital within custom price ranges instead of distributing it across the entire 0-to-infinity price curve. Introduced by Uniswap V3 in May 2021, this innovation changed DeFi by enabling greater capital efficiency compared to traditional constant product (x*y=k) AMMs.
 
 In concentrated liquidity systems, LPs create individual "positions" that are active only within specified price ranges. When the market price is within their range, LPs earn trading fees proportional to their share of the active liquidity. When the price moves outside their range, their position becomes inactive and stops earning fees, but also stops experiencing impermanent loss.
 
@@ -106,7 +106,7 @@ LPs can choose which tier to provide liquidity in, and the same pair can have ac
 
 Choosing the right price range is critical:
 
-**Stablecoin Pairs** (USDC/DAI): Extremely tight ranges around $1.00 (e.g., $0.995-$1.005), as prices rarely deviate significantly.
+- **Stablecoin Pairs** (USDC/DAI): Extremely tight ranges around $1.00 (e.g., $0.995-$1.005), as prices rarely deviate significantly.
 
 - **ETH/USDC**: Moderate ranges based on expected volatility. Common strategies:
 - Conservative: ±20-30% range ($1,400-$2,600 if current price is $2,000)
@@ -207,7 +207,7 @@ Concentrated liquidity continues to evolve:
 
 As tooling improves and gas costs decrease, concentrated liquidity will likely become the dominant method for DEX liquidity provision.
 
-**Ready to become a concentrated LP?** Start with wide ranges on a low-fee L2, study historical volatility, and gradually refine your strategy as you learn the dynamics of active liquidity management.
+- **Ready to become a concentrated LP?** Start with wide ranges on a low-fee L2, study historical volatility, and gradually refine your strategy as you learn the dynamics of active liquidity management.
 
 ## Benefits of Concentrated Liquidity
 

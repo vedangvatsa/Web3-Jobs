@@ -70,7 +70,7 @@ Coming from a traditional programming background helps, but you need Solidity-sp
 
 **Testing and security**:
 - Foundry or Hardhat for smart contract testing
-- Writing comprehensive test suites
+- Writing full test suites
 - Understanding common smart contract vulnerabilities
 - Security audit processes
 - Formal verification concepts
@@ -278,7 +278,7 @@ DEX development is specialized. Career paths include:
 
 **Broader DeFi**: Move from DEX to other DeFi protocols (lending, derivatives, etc.). Use DEX knowledge as a foundation.
 
-**Protocol design**: Move to designing new mechanisms and protocols. Become an expert at creating innovative DeFi primitives.
+**Protocol design**: Move to designing new mechanisms and protocols. Become an expert at creating new DeFi primitives.
 
 **Infrastructure**: Build infrastructure layer for DEXs. Bridges, oracles, routing, MEV infrastructure. These are higher-level roles.
 

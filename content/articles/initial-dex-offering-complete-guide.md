@@ -26,7 +26,7 @@ The foundation of an IDO lies in creating a **liquidity pool** on a DEX like Uni
 
 ### Role of Launchpads in IDOs
 
-While projects can conduct IDOs independently, many utilize a **[crypto launchpad](/what-is-a-launchpad-in-crypto-projects)**. Launchpads are platforms dedicated to hosting IDOs.
+While projects can conduct IDOs independently, many use a **[crypto launchpad](/what-is-a-launchpad-in-crypto-projects)**. Launchpads are platforms dedicated to hosting IDOs.
 
 - **Operational Mechanics**: A launchpad evaluates and selects promising projects. It then grants access to its community of token holders, often via a lottery or tiered system. This encourages a dedicated community of early-stage investors and provides essential marketing and credibility.
 
@@ -56,7 +56,7 @@ Start by understanding the fundamental principles of IDOs. Familiarize yourself 
 
 #### Step 2: Evaluate Your Current Position
 
-Assess your current understanding and capabilities. Identify strengths and weaknesses, as well as specific challenges you face. Knowing your starting point is crucial for growth.
+Assess your current understanding and capabilities. Identify strengths and weaknesses, as well as specific challenges you face. Knowing your starting point is important for growth.
 
 #### Step 3: Craft Your Personal Strategy
 

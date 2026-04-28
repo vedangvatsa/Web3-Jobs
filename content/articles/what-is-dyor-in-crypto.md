@@ -14,7 +14,7 @@ DYOR, or "Do Your Own Research," is a prevalent term in the crypto community. Yo
 
 While the principle of conducting research before investing seems straightforward, in the crypto context, it is more nuanced. DYOR emphasizes that no one else bears the responsibility for your financial decisions. No celebrity endorsements, influencer promotions, or financial advisors can substitute for your own understanding and evaluation of where you place your money.
 
-The significance of DYOR becomes apparent in a space rife with fraudulent schemes. The barriers to creating a deceptive project are minimal, enabling individuals to raise funds and disappear. Therefore, knowing how to research projects effectively, spot warning signs, and differentiate genuine initiatives from inflated promises is crucial.
+The significance of DYOR becomes apparent in a space rife with fraudulent schemes. The barriers to creating a deceptive project are minimal, enabling individuals to raise funds and disappear. Therefore, knowing how to research projects effectively, spot warning signs, and differentiate genuine initiatives from inflated promises is important.
 
 ## The Philosophy Behind DYOR
 
@@ -40,7 +40,7 @@ Examine the code. Many crypto projects are open-source, allowing for public scru
 
 Understand the tokenomics. Who holds the [tokens](/what-is-a-token)? How many tokens are in the team's possession? What are the implications if the price declines? Grasping the incentives will help you ascertain whether the team aligns with user interests or is focused on profit at any cost.
 
-Evaluate user adoption. Is there actual usage of the project? Utilize block explorers to check transaction volumes. Monitor activity in their Discord channels. Genuine projects demonstrate real user engagement. Initiatives that heavily market themselves without a user base often raise doubts.
+Evaluate user adoption. Is there actual usage of the project? Use block explorers to check transaction volumes. Monitor activity in their Discord channels. Genuine projects demonstrate real user engagement. Initiatives that heavily market themselves without a user base often raise doubts.
 
 ## Red Flags for Scams and Failed Projects
 
@@ -62,7 +62,7 @@ Certain indicators should prompt skepticism.
 
 Conducting effective research requires time and critical analysis.
 
-**Utilize multiple sources**. Avoid relying solely on one information source. Read the official documentation, seek critical evaluations, and review user feedback. Create a well-rounded perspective from diverse viewpoints.
+**Use multiple sources**. Avoid relying solely on one information source. Read the official documentation, seek critical evaluations, and review user feedback. Create a well-rounded perspective from diverse viewpoints.
 
 **Trace the funding**. Understand who finances the project and their incentives. If the project is backed by investors, those individuals likely expect a return, which may lead to hype overshadowing substance.
 
@@ -72,7 +72,7 @@ Conducting effective research requires time and critical analysis.
 
 **Recognize the risks**. Every investment carries inherent risks. Projects that fail to acknowledge these are disingenuous. Consider the potential pitfalls: what could go wrong? What factors could lead to failure? What assumptions might not hold true?
 
-**Compare alternatives**. Avoid evaluating a project in isolation. Identify competitors and analyze how this project stacks up against them. What aspects are superior, and which are lacking? This context helps determine if the project is genuinely innovative or simply riding a wave of hype.
+**Compare alternatives**. Avoid evaluating a project in isolation. Identify competitors and analyze how this project stacks up against them. What aspects are superior, and which are lacking? This context helps determine if the project is genuinely new or simply riding a wave of hype.
 
 ## Why DYOR Matters for Your Career
 
@@ -126,7 +126,7 @@ Dedicate 4-8 weeks to learning the fundamentals of [blockchain](/what-is-a-block
 Focus on skills pertinent to your desired role:
 - **Engineers:** Proficiency in [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Knowledge of token economics, protocol governance, and user growth strategies in Web3
-- **Business Development:** Skills in market analysis, partnership strategies, and navigating the regulatory landscape
+- **Business Development:** Skills in market analysis, partnership strategies, and navigating the regulatory space
 - **Community/Operations:** Expertise in community building, Discord management, and governance
 
 ### Step 3: Build Your Portfolio
@@ -157,7 +157,7 @@ Target roles that align with your existing expertise and new Web3 knowledge:
 Alex transitioned from a five-year backend engineering role at a FAANG company to a smart contract engineer. After dedicating three months to learning Solidity while working full-time, he contributed to an open-source protocol, which led to an offer from a prominent DeFi project with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
-Jessica, a former product manager in traditional finance, utilized her domain knowledge in DeFi to secure a role at a leading protocol within a few weeks. Her understanding of financial products, combined with Web3 technology, made her a valuable asset.
+Jessica, a former product manager in traditional finance, used her domain knowledge in DeFi to secure a role at a leading protocol within a few weeks. Her understanding of financial products, combined with Web3 technology, made her a valuable asset.
 
 ### Career Changer Success
 Marcus left his corporate job and focused exclusively on Web3 for six months. Through persistent learning, networking, and portfolio development, he secured a position leading Developer Relations at a major blockchain platform, with compensation significantly higher than his previous role.

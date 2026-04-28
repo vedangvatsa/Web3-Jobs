@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ## Beyond LinkedIn: Finding Your Dream Job on a Web3 Job Board
 
-The [Web3](/what-is-web3) job market operates differently from traditional tech industries. While mainstream platforms like LinkedIn list some roles, many of the most compelling and crypto-focused opportunities reside on specialized [Web3 job](/web3-jobs-for-beginners) boards. These platforms cater to the crypto community, connecting skilled professionals with innovative projects that aim to redefine the internet.
+The [Web3](/what-is-web3) job market operates differently from traditional tech industries. While mainstream platforms like LinkedIn list some roles, many of the most compelling and crypto-focused opportunities reside on specialized [Web3 job](/web3-jobs-for-beginners) boards. These platforms cater to the crypto community, connecting skilled professionals with new projects that aim to redefine the internet.
 
 Searching for a job in this environment can be overwhelming. Identifying legitimate job boards and high-quality opportunities can be a challenge. This article outlines the top Web3 job boards, providing you with focused insights to help you secure a rewarding position in the crypto space.
 
@@ -38,7 +38,7 @@ For those serious about building a career in Web3, the following platforms are e
 Venture capital (VC) firms play a significant role in funding Web3 startups. Their [portfolio](/building-web3-portfolio) job pages offer a treasure trove of quality opportunities at established companies.
 
 1. **a16z Crypto Jobs**: Andreessen Horowitz (a16z) is a leading investor in Web3. Their job page lists open roles across their portfolio companies, which include many top names in the industry.
-2. **Paradigm Jobs**: Paradigm, a major crypto-focused venture fund, features a curated list of roles in engineering, research, and design at their portfolio companies, often at the forefront of Web3 innovation.
+2. **Model Jobs**: Model, a major crypto-focused venture fund, features a curated list of roles in engineering, research, and design at their portfolio companies, often at the forefront of Web3 innovation.
 
 ### Niche and Specialized Platforms
 
@@ -86,7 +86,7 @@ Tailor your skill acquisition to your desired role:
 
 - **Engineers**: Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (e.g., ethers.js, web3.js).
 - **Product Managers**: Gain expertise in token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development**: Understand market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development**: Understand market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations**: Develop skills in community building, Discord management, and governance processes.
 
 #### Step 3: Create Your Portfolio

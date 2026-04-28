@@ -18,13 +18,13 @@ In contrast to traditional finance, where analysis relies on private company dat
 
 An analyst’s primary responsibility is to assist the fund's partners in making informed investment decisions. This responsibility encompasses several key areas:
 
-1. **Sourcing**: Analysts scout for innovative projects before they gain widespread attention. This requires immersion in the crypto ecosystem: being active on Twitter, engaging in Discord communities, and attending hackathons to build rapport with founders and developers.
+1. **Sourcing**: Analysts scout for new projects before they gain widespread attention. This requires immersion in the crypto ecosystem: being active on Twitter, engaging in Discord communities, and attending hackathons to build rapport with founders and developers.
    
 2. **Diligence**: Analysts lead thorough investigations to evaluate a project's viability. This includes:
    - **Team Analysis**: Identifying the founders and assessing their backgrounds.
    - **Technical Diligence**: Understanding how the protocol functions and evaluating its architectural integrity.
    - **[Tokenomics](/understanding-tokenomics) Analysis**: Analyzing the utility of the [token](/what-is-a-token) and fairness of its distribution.
-   - **On-Chain Data Analysis**: Utilizing tools like Dune and Nansen to assess a project's traction.
+   - **On-Chain Data Analysis**: Using tools like Dune and Nansen to assess a project's traction.
    - **Market Analysis**: Estimating the total addressable market and identifying competitors.
 
 3. **Investment Memo Writing**: This document encapsulates the findings from the diligence process. It must present a clear, concise, and evidence-based argument for or against making an investment.
@@ -32,7 +32,7 @@ An analyst’s primary responsibility is to assist the fund's partners in making
 ### Skills for Success
 
 - **Insatiable Curiosity**: A strong desire to learn and explore complex topics is essential.
-- **Analytical and Critical Thinking Skills**: The ability to synthesize extensive technical, financial, and social data into a coherent investment thesis is crucial.
+- **Analytical and Critical Thinking Skills**: The ability to synthesize extensive technical, financial, and social data into a coherent investment thesis is important.
 - **Excellent Written Communication**: Crafting clear and persuasive investment memos is a fundamental skill.
 - **Networking and Social Skills**: Building relationships is vital in the venture capital space.
 - **Technical Literacy**: While deep programming knowledge is not required, comprehension of technical concepts and the ability to read code is necessary to evaluate project risks.
@@ -87,7 +87,7 @@ Invest 4-8 weeks in understanding blockchain fundamentals. Focus on:
 Tailor your learning based on your target role:
 - **Engineers**: Focus on [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers**: Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development**: Gain knowledge in market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development**: Gain knowledge in market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations**: Develop skills in community building, Discord management, and governance processes.
 
 ### Step 3: Build Your Portfolio

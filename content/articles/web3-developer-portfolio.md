@@ -17,7 +17,7 @@ A thoughtfully constructed portfolio of personal projects serves as the primary 
 
 - **Quality Over Quantity:** Three high-quality, well-documented projects will significantly outweigh ten incomplete ones.
 - **Detailed READMEs are Essential:** Each project repository must include a `README.md` file. Clearly describe the project, the technical challenges encountered, how to run the project locally, and include screenshots or links to live demos. An impressive README demonstrates strong communication skills.
-- **Implement Tests:** A thorough test suite signals professionalism. Tests indicate that you care about code quality and security. Utilize Hardhat or [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit) to create extensive tests for every smart contract.
+- **Implement Tests:** A thorough test suite signals professionalism. Tests indicate that you care about code quality and security. Use Hardhat or [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit) to create extensive tests for every smart contract.
 - **Showcase Your Progress:** Your GitHub activity graph should remain active. Consistent commits reflect dedication and a passion for development.
 
 ### The Portfolio Project Roadmap
@@ -103,7 +103,7 @@ Devote 4-8 weeks to learning blockchain fundamentals. Focus on areas such as:
 Depending on your target role, consider the following skill sets:
 - **Engineers:** Proficiency in Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Understanding of token economics, protocol governance, and user growth in Web3
-- **Business Development:** Skills in market analysis, partnership strategy, and the regulatory landscape
+- **Business Development:** Skills in market analysis, partnership strategy, and the regulatory space
 - **Community/Operations:** Competence in community building, Discord management, and governance
 
 #### Step 3: Develop Your Portfolio
@@ -123,7 +123,7 @@ The Web3 community is notably accessible. Engage in the following ways:
 - Attend local Web3 meetups
 
 #### Step 5: Apply Strategically
-Target roles that utilize your existing skills alongside new Web3 knowledge:
+Target roles that use your existing skills alongside new Web3 knowledge:
 - Backend engineers should seek blockchain infrastructure roles
 - Product managers can look for protocol-focused positions
 - Sales and business professionals should explore Web3 business development opportunities
@@ -134,7 +134,7 @@ Target roles that utilize your existing skills alongside new Web3 knowledge:
 Alex spent three months learning Solidity while working as a backend engineer at a major tech company. He contributed to an open-source protocol, which attracted the attention of a major DeFi project. Alex transitioned into a smart contract engineer with a significant salary increase and equity.
 
 ### Product Manager in Web3
-Jessica, a PM from traditional finance, utilized her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly sought after. She secured a role at a leading DeFi protocol within four weeks.
+Jessica, a PM from traditional finance, used her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly sought after. She secured a role at a leading DeFi protocol within four weeks.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a position leading Developer Relations at a major blockchain platform, earning compensation far exceeding his previous salary.

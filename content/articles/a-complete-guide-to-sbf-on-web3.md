@@ -19,7 +19,7 @@ This guide provides a detailed overview of SBF's journey in Web3, from his early
 
 SBF's career began at Jane Street, a prestigious quantitative trading firm, where he honed his skills in identifying and exploiting market inefficiencies. It was here that he developed the quantitative mindset that he would later apply to the volatile crypto markets. In 2017, he left Jane Street to found Alameda Research, a crypto trading firm designed to capitalize on arbitrage opportunities, most famously the "Kimchi premium," a price difference for [Bitcoin](/what-is-bitcoin) between South Korean and other global exchanges.
 
-Alameda's early success provided the foundation for his next venture. Recognizing the need for a more user-friendly and derivatives-focused crypto exchange, SBF launched FTX in 2019. The platform quickly grew into one of the largest and most respected exchanges in the world, known for its innovative products, slick user interface, and aggressive marketing campaigns.
+Alameda's early success provided the foundation for his next venture. Recognizing the need for a more user-friendly and derivatives-focused crypto exchange, SBF launched FTX in 2019. The platform quickly grew into one of the largest and most respected exchanges in the world, known for its new products, slick user interface, and aggressive marketing campaigns.
 
 ## SBF's Vision for Web3 and DeFi
 
