@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/employee-exit-survey',
   images: [
    {
-    url: 'https://hashtagweb3.com/og-image-tools.png',
+    url: '/api/og?type=default&title=Employee%20Exit%20Survey%20Tool',
     width: 1200,
     height: 630,
     alt: 'Employee Exit Survey Tool',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Employee Exit Survey Tool | Free Template',
   description: 'Generate professional exit surveys to gather valuable feedback from departing employees. Understand why team members leave and identify areas to improve retention and culture.',
-  images: ['https://hashtagweb3.com/og-image-tools.png'],
+  images: ['/api/og?type=default&title=Employee%20Exit%20Survey%20Tool'],
  },
 };
 

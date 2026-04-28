@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/employee-engagement-survey',
   images: [
    {
-    url: 'https://hashtagweb3.com/og-image-tools.png',
+    url: '/api/og?type=default&title=Employee%20Engagement%20Pulse%20Survey%20Tool',
     width: 1200,
     height: 630,
     alt: 'Employee Engagement Pulse Survey Tool',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Employee Engagement Pulse Survey | Free Tool',
   description: 'Generate quick and effective employee engagement pulse surveys. Measure team morale, satisfaction, and identify areas for improvement to build a thriving company culture.',
-  images: ['https://hashtagweb3.com/og-image-tools.png'],
+  images: ['/api/og?type=default&title=Employee%20Engagement%20Pulse%20Survey%20Tool'],
  },
 };
 

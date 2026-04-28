@@ -33,7 +33,7 @@ const siteConfig = {
  url: "https://hashtagweb3.com",
 };
 
-const ogImageUrl = `${siteConfig.url}/og-image.png`;
+const ogImageUrl = `/api/og?type=default&title=Hashtag%20Web3`;
 
 export const metadata: Metadata = {
  metadataBase: new URL(siteConfig.url),

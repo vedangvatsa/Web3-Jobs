@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/news',
   images: [
    {
-    url: 'https://hashtagweb3.com/og-image-news.png',
+    url: '/api/og?type=default&title=Web3%20News',
     width: 1200,
     height: 630,
     alt: 'Web3 News Feed',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 News | Daily Crypto and Blockchain Headlines',
   description: 'Your daily briefing on Web3, crypto, and blockchain headlines.',
-  images: ['https://hashtagweb3.com/og-image-news.png'],
+  images: ['/api/og?type=default&title=Web3%20News'],
  },
 };
 
