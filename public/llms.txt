@@ -31,11 +31,19 @@
 - [Web3 Interview Questions](https://hashtagweb3.com/interview-questions): Hundreds of real interview questions organized by role — Solidity engineer, DeFi analyst, Web3 product manager, blockchain researcher, and more.
 - [Web3 Career Quiz](https://hashtagweb3.com/web3-career-quiz): Assessment that maps a user's skills and interests to one of several Web3 career archetypes (Builder, Operator, Researcher, Connector, etc.).
 - [Job Description Builder](https://hashtagweb3.com/jd-builder): Generates structured Web3 job descriptions for hiring teams, including token compensation and vesting schedule fields.
+- [Freelance Invoice Generator](https://hashtagweb3.com/invoice-generator): Generates professional invoices for Web3 freelancers and contractors, with options for crypto or fiat payments.
+- [Remote Work Checklist](https://hashtagweb3.com/remote-work-checklist): Essential checklist for setting up a productive remote workspace and establishing healthy boundaries.
 
 ## HR & Hiring Tools
 
 - [Web3 Offer Letter Customizer](https://hashtagweb3.com/offer-letter-customizer): Generates offer letters for Web3 roles with token allocation, cliff/vesting details, and remote work terms.
 - [Employee Onboarding Checklist](https://hashtagweb3.com/employee-onboarding-checklist): Structured onboarding plan covering wallet setup, multisig access, protocol training, and culture documentation.
+- [Employee Exit Survey](https://hashtagweb3.com/employee-exit-survey): Template for gathering actionable feedback from departing team members to improve retention.
+- [Interview Feedback Template](https://hashtagweb3.com/interview-feedback-template): Standardized evaluation form for hiring teams to assess candidate skills and culture fit objectively.
+- [Employee Milestones Tracker](https://hashtagweb3.com/employee-milestones-tracker): Tool for tracking and celebrating key employee anniversaries, achievements, and promotions.
+- [Employee Engagement Survey](https://hashtagweb3.com/employee-engagement-survey): Comprehensive survey template for measuring team morale, alignment, and job satisfaction.
+- [Work-Life Balance Survey](https://hashtagweb3.com/work-life-balance-survey): Assessment tool for identifying burnout risks and improving team well-being in a remote environment.
+- [Company Culture Guide](https://hashtagweb3.com/company-culture-guide): Framework for defining and documenting core values, communication norms, and remote work policies.
 - [Digital Nomad Visa List](https://hashtagweb3.com/digital-nomad-visas): Searchable database of digital nomad visas by country, eligibility requirements, and application timelines — useful for remote Web3 workers.
 - [Freelance Rates by Industry (2026)](https://hashtagweb3.com/freelance-rates-by-industry): Benchmarks for freelance hourly and project rates across Web3, tech, marketing, and design roles.
 
