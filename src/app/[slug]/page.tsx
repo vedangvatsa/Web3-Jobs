@@ -463,7 +463,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
    <Header />
    <main className="flex-1">
     <div className="bg-[#fafafa] dark:bg-black transition-colors duration-200">
-      <article className="w-full max-w-4xl mx-auto px-6 py-16 md:py-24">
+      <article className="w-full max-w-4xl mx-auto px-6 py-12 md:py-16">
        <div>
          <Suspense fallback={<div>Loading...</div>}>
           <header className="mb-12">
@@ -475,7 +475,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
              </time>
             </p>
            )}
-           <h1 className="text-3xl sm:text-4xl md:text-[2.8rem] font-serif font-bold tracking-tight text-zinc-900 dark:text-zinc-50 leading-[1.15] mb-6">
+           <h1 className="text-3xl sm:text-4xl md:text-[2.8rem] font-headline font-bold tracking-tight text-zinc-900 dark:text-zinc-50 leading-[1.15] mb-6">
             {article.title}
            </h1>
            <p className="text-[17px] text-zinc-500 dark:text-zinc-400 leading-[1.8] max-w-3xl">
