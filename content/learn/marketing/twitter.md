@@ -54,6 +54,41 @@ If Discord is the private club for people who are already invested, **Crypto Twi
 
 Every major founder, developer, and investor in Web3 is hyper-active on Twitter/X. If you are doing marketing for a Web3 protocol, 80% of your top-of-funnel traffic will come from this platform.
 
+<div class="diagram">
+<svg viewBox="0 0 800 140" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <text x="400" y="20" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">Web3 Content Funnel</text>
+
+  <rect x="20" y="40" width="150" height="80" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="95" y="65" text-anchor="middle" font-size="20">🐦</text>
+  <text x="95" y="85" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e40af">Twitter / X</text>
+  <text x="95" y="102" text-anchor="middle" font-size="9" fill="#3b82f6">Discovery + Threads</text>
+
+  <line x1="175" y1="80" x2="205" y2="80" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="205,76 213,80 205,84" fill="#94a3b8"/>
+
+  <rect x="220" y="40" width="150" height="80" rx="10" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+  <text x="295" y="65" text-anchor="middle" font-size="20">📝</text>
+  <text x="295" y="85" text-anchor="middle" font-size="11" font-weight="bold" fill="#854d0e">Mirror / Blog</text>
+  <text x="295" y="102" text-anchor="middle" font-size="9" fill="#eab308">Deep technical content</text>
+
+  <line x1="375" y1="80" x2="405" y2="80" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="405,76 413,80 405,84" fill="#94a3b8"/>
+
+  <rect x="420" y="40" width="150" height="80" rx="10" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="495" y="65" text-anchor="middle" font-size="20">💬</text>
+  <text x="495" y="85" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Discord</text>
+  <text x="495" y="102" text-anchor="middle" font-size="9" fill="#a855f7">Community + retention</text>
+
+  <line x1="575" y1="80" x2="605" y2="80" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="605,76 613,80 605,84" fill="#94a3b8"/>
+
+  <rect x="620" y="40" width="160" height="80" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="700" y="65" text-anchor="middle" font-size="20">🚀</text>
+  <text x="700" y="85" text-anchor="middle" font-size="11" font-weight="bold" fill="#166534">Product</text>
+  <text x="700" y="102" text-anchor="middle" font-size="9" fill="#22c55e">Users + evangelists</text>
+</svg>
+</div>
+
 ## The Art of the Thread
 
 Because blockchain technology is complex, standard marketing slogans do not work. The most effective format on CT is the **Thread**—a series of connected tweets that break down a complex topic.
