@@ -67,14 +67,24 @@ export async function getNewsFeed(): Promise<NewsItem[]> {
        const truncated = snippet.length > 150
         ? snippet.substring(0, 150).replace(/\.{1,3}$/, '') + '...'
         : snippet;
-       items.push({
-        title: item.title,
-        link: item.link,
-        pubDate: item.pubDate,
-        creator: item.creator || item.author || feedInfo.source,
-        contentSnippet: truncated,
-        source: feedInfo.source,
-       });
+        let creator = item.creator || item.author || feedInfo.source;
+        if (typeof creator === 'string') {
+         const regex = new RegExp(`^${feedInfo.source}\\s*(?:by|-|:)?\\s*`, 'i');
+         creator = creator.replace(regex, '').trim();
+         if (creator.toLowerCase().startsWith('by ')) {
+          creator = creator.substring(3).trim();
+         }
+         if (!creator) creator = feedInfo.source;
+        }
+
+        items.push({
+         title: item.title,
+         link: item.link,
+         pubDate: item.pubDate,
+         creator: creator,
+         contentSnippet: truncated,
+         source: feedInfo.source,
+        });
       }
      });
     }
