@@ -4,6 +4,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
+import remarkGfm from 'remark-gfm';
 import html from 'remark-html';
 import type { GlossaryTerm, GlossaryCategory } from '@/types/glossary';
 import { GLOSSARY_CATEGORIES } from '@/types/glossary';
@@ -68,6 +69,7 @@ export async function getTerm(slug: string): Promise<GlossaryTerm | null> {
       if (fileSlug === slug) {
         // Process markdown to HTML
         const processedContent = await remark()
+          .use(remarkGfm)
           .use(html, { sanitize: false })
           .process(content);
         const contentHtml = processedContent.toString();

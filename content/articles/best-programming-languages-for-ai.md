@@ -21,14 +21,14 @@ If you are focused on AI, Python should be your first programming language. Its 
 
 1. **Extensive Ecosystem of Libraries**  
    Python boasts an extensive array of open-source libraries that simplify AI development. Developers do not need to create complex algorithms from scratch. Key libraries include:
-   | Library        | Purpose                                           |
-   |----------------|---------------------------------------------------|
-   | TensorFlow     | Framework for building and training deep learning models |
-   | PyTorch        | Another leading framework for deep learning      |
-   | Keras          | Simplified API for building neural networks      |
-   | Scikit-learn   | Library for traditional machine learning algorithms |
-   | Pandas         | Essential for data manipulation and analysis     |
-   | NumPy          | Fundamental package for scientific computing      |
+| Library        | Purpose                                           |
+|----------------|---------------------------------------------------|
+| TensorFlow     | Framework for building and training deep learning models |
+| PyTorch        | Another leading framework for deep learning      |
+| Keras          | Simplified API for building neural networks      |
+| Scikit-learn   | Library for traditional machine learning algorithms |
+| Pandas         | Essential for data manipulation and analysis     |
+| NumPy          | Fundamental package for scientific computing      |
 
 2. **Readable Syntax**  
    Python's design prioritizes readability. Its clean and intuitive syntax enables developers to concentrate on problem-solving rather than struggling with language complexities. This characteristic makes Python accessible for beginners and facilitates rapid prototyping.

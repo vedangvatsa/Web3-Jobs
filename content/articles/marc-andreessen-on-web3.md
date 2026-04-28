@@ -94,7 +94,7 @@ Token and equity packages are standard, providing significant wealth-building po
 
 ## Step-by-Step Transition Strategy
 
-### Step 1: Build Web3 Knowledge Foundation  
+### Step 1: Build Web3 Knowledge Foundation
 Devote 4-8 weeks to understanding blockchain fundamentals, including:
 - How blockchain technology operates
 - Different blockchain architectures
@@ -102,14 +102,14 @@ Devote 4-8 weeks to understanding blockchain fundamentals, including:
 - DeFi, NFTs, and [DAOs](/what-is-a-dao)
 - The current Web3 ecosystem and key players
 
-### Step 2: Learn Relevant Skills  
+### Step 2: Learn Relevant Skills
 Focus on skills that align with your desired role:
 - **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth strategies in Web3
 - **Business Development:** Market analysis, partnership strategies, understanding regulatory landscapes
 - **Community/Operations:** Community building, Discord management, governance participation
 
-### Step 3: Build Your Portfolio  
+### Step 3: Build Your Portfolio
 Create tangible proof of your Web3 expertise by:
 - Contributing to open-source projects
 - Developing a small DApp or smart contract
@@ -117,7 +117,7 @@ Create tangible proof of your Web3 expertise by:
 - Engaging with DAOs or community projects
 - Participating in hackathons
 
-### Step 4: Network in Web3  
+### Step 4: Network in Web3
 The Web3 community is highly accessible. Engage by:
 - Joining Discord groups for projects of interest
 - Attending Web3 conferences (Consensus, Devcon, ETHDenver)
@@ -125,7 +125,7 @@ The Web3 community is highly accessible. Engage by:
 - Participating in governance forums
 - Attending local Web3 meetups
 
-### Step 5: Apply Strategically  
+### Step 5: Apply Strategically
 Target roles that utilize your existing expertise along with your new Web3 knowledge:
 - If you're a backend engineer, seek blockchain infrastructure roles
 - If you're a PM, look for protocol product roles
@@ -133,13 +133,13 @@ Target roles that utilize your existing expertise along with your new Web3 knowl
 
 ## Real-World Success Stories
 
-### Developer to Smart Contract Engineer  
+### Developer to Smart Contract Engineer
 Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol attracted a major DeFi project, leading to a transition that came with a salary increase and significant equity.
 
-### Product Manager in Web3  
+### Product Manager in Web3
 Jessica, a PM from traditional finance, utilized her domain knowledge in DeFi. Her understanding of financial products combined with Web3 technology made her a valuable asset. Within weeks, she secured a role at a leading DeFi protocol.
 
-### Career Changer Success  
+### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a position leading Developer Relations at a major blockchain platform, with compensation significantly higher than his previous role.
 
 ## Web3-Specific Challenges

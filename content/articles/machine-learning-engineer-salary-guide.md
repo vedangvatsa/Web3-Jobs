@@ -152,14 +152,14 @@ Understanding and managing your emotions, and reading others, determines your ef
 
 ## Real-World Applications
 
-### In Web3 Organizations  
+### In Web3 Organizations
 Web3 teams are often distributed and move quickly. These skills directly impact your ability to:
 - Ship products faster (technical + communication)
 - Manage ambiguity (problem-solving + learning agility)
 - Build trust with colleagues (emotional intelligence)
 - Influence without authority (communication + EI)
 
-### In Your Career Progression  
+### In Your Career Progression
 At each career level, these skills become more important:
 - **Junior Level:** Technical skills matter most, but communication is increasingly important
 - **Mid Level:** Balance of technical and soft skills; leadership potential emerges
