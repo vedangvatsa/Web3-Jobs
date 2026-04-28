@@ -15,13 +15,13 @@ Covenant refers to a smart contract or Bitcoin script mechanism that restricts h
 
 How they work:
 
-**Standard UTXO**: You own UTXO, can spend to any address, any amount.
+- **Standard UTXO**: You own UTXO, can spend to any address, any amount.
 
-**Covenant**: UTXO restricted: "Can only be spent to address X", or "Can only be spent in this specific transaction template".
+- **Covenant**: UTXO restricted: "Can only be spent to address X", or "Can only be spent in this specific transaction template".
 
-**Verification**: When spending, Bitcoin script enforces covenant restrictions.
+- **Verification**: When spending, Bitcoin script enforces covenant restrictions.
 
-**Limitations**: Violating covenant makes transaction invalid.
+- **Limitations**: Violating covenant makes transaction invalid.
 
 Covenants add constraints to spending.
 
@@ -29,15 +29,15 @@ Covenants add constraints to spending.
 
 Applications:
 
-**Vaults**: Create Bitcoin vaults with withdrawal delays. Covenant ensures withdrawal goes through specified path.
+- **Vaults**: Create Bitcoin vaults with withdrawal delays. Covenant ensures withdrawal goes through specified path.
 
-**Payment Channels**: Covenants enable Bitcoin payment channels similar to Lightning.
+- **Payment Channels**: Covenants enable Bitcoin payment channels similar to Lightning.
 
-**Recursion**: Covenants enable Bitcoin scripts to call themselves recursively.
+- **Recursion**: Covenants enable Bitcoin scripts to call themselves recursively.
 
-**Cross-Chain**: Covenants enable atomic swaps between Bitcoin and other chains.
+- **Cross-Chain**: Covenants enable atomic swaps between Bitcoin and other chains.
 
-**Savings Accounts**: Create Bitcoin savings accounts with restrictions.
+- **Savings Accounts**: Create Bitcoin savings accounts with restrictions.
 
 Covenants enable complex protocols on Bitcoin.
 
@@ -45,13 +45,13 @@ Covenants enable complex protocols on Bitcoin.
 
 Bitcoin improvements:
 
-**OP_CHECKTEMPLATEVERIFY**: Proposed opcode verifying transaction follows specific template.
+- **OP_CHECKTEMPLATEVERIFY**: Proposed opcode verifying transaction follows specific template.
 
-**OP_CTV**: Shorthand for OP_CHECKTEMPLATEVERIFY. Enables simple covenants.
+- **OP_CTV**: Shorthand for OP_CHECKTEMPLATEVERIFY. Enables simple covenants.
 
-**OP_VAULT**: Proposed opcode creating vaults with specific properties.
+- **OP_VAULT**: Proposed opcode creating vaults with specific properties.
 
-**OP_TXHASH**: Proposed opcode enabling more general covenants.
+- **OP_TXHASH**: Proposed opcode enabling more general covenants.
 
 Each proposal has different capabilities and tradeoffs.
 
@@ -59,20 +59,20 @@ Each proposal has different capabilities and tradeoffs.
 
 Community discussion:
 
-**Proponents' Arguments**:
+- **Proponents' Arguments**:
 - Enable important protocols (vaults, channels) currently impossible.
 - Improve Bitcoin flexibility for modern applications.
 - Relatively simple addition to SCRIPT language.
 - Successful precedent in other blockchains (Ethereum contracts).
 
-**Critics' Arguments**:
+- **Critics' Arguments**:
 - Add complexity to SCRIPT language, potential for unintended consequences.
 - Bitcoin philosophy is simplicity and battle-tested primitives.
 - Potential privacy risks (covenants could enable surveillance).
 - Could enable unintended smart contract bugs at scale.
 - If covenants allowed, what next?
 
-**Safety Concerns**:
+- **Safety Concerns**:
 - Covenants enable powerful recursion. Infinite loops possible if not careful.
 - Must prevent Bitcoin from becoming too smart-contract-like.
 - Each covenant proposal requires careful analysis of all implications.
@@ -83,15 +83,15 @@ Community consensus required for controversial features like covenants.
 
 Technical requirements:
 
-**Soft Fork Deployment**: Covenants likely deployed via soft fork, not hard fork.
+- **Soft Fork Deployment**: Covenants likely deployed via soft fork, not hard fork.
 
-**Activation Mechanism**: Requires validator/miner consensus activation (threshold voting).
+- **Activation Mechanism**: Requires validator/miner consensus activation (threshold voting).
 
-**Backwards Compatibility**: Covenant outputs must be unspendable by old nodes (maintaining soft fork property).
+- **Backwards Compatibility**: Covenant outputs must be unspendable by old nodes (maintaining soft fork property).
 
-**Testing**: Extensive testnet and signet testing required before mainnet.
+- **Testing**: Extensive testnet and signet testing required before mainnet.
 
-**Community Education**: Community must understand covenants before voting.
+- **Community Education**: Community must understand covenants before voting.
 
 Covenant activation is a multi-year effort requiring community consensus.
 
@@ -99,13 +99,13 @@ Covenant activation is a multi-year effort requiring community consensus.
 
 Broader context:
 
-**Current Script**: Bitcoin SCRIPT language is deliberately limited. Most powerful opcodes disabled.
+- **Current Script**: Bitcoin SCRIPT language is deliberately limited. Most powerful opcodes disabled.
 
-**Design Philosophy**: Restricted opcodes reduce attack surface. Safer than permissive scripting.
+- **Design Philosophy**: Restricted opcodes reduce attack surface. Safer than permissive scripting.
 
-**Covenant Impact**: Covenants would enable more general computation. More powerful means more risk.
+- **Covenant Impact**: Covenants would enable more general computation. More powerful means more risk.
 
-**Smart Contract Risk**: Bitcoin philosophy resists becoming smart contract platform. Covenants push in that direction.
+- **Smart Contract Risk**: Bitcoin philosophy resists becoming smart contract platform. Covenants push in that direction.
 
 Covenants represent fundamental design direction for Bitcoin.
 
@@ -113,13 +113,13 @@ Covenants represent fundamental design direction for Bitcoin.
 
 Proposed use:
 
-**Bitcoin Vaults**: User creates covenant requiring a delay for withdrawals, preventing immediate theft.
+- **Bitcoin Vaults**: User creates covenant requiring a delay for withdrawals, preventing immediate theft.
 
-**Payment Channels**: Covenants enable recursive channels similar to Lightning.
+- **Payment Channels**: Covenants enable recursive channels similar to Lightning.
 
-**Savings Accounts**: Create account where only a percentage per year can be withdrawn.
+- **Savings Accounts**: Create account where only a percentage per year can be withdrawn.
 
-**Inheritance**: Create account where after a fixed time, transfers to specified heirs.
+- **Inheritance**: Create account where after a fixed time, transfers to specified heirs.
 
 Covenants enable creative Bitcoin protocols.
 
@@ -139,24 +139,24 @@ Bitcoin development creates roles:
 
 Following covenant developments:
 
-**Monitor Proposals**: Stay informed on covenant proposals.
+- **Monitor Proposals**: Stay informed on covenant proposals.
 
-**Understand Trade-offs**: Each proposal has different implications.
+- **Understand Trade-offs**: Each proposal has different implications.
 
-**Community Engagement**: Participate in community discussions.
+- **Community Engagement**: Participate in community discussions.
 
-**Security Focus**: Prioritize safety over features.
+- **Security Focus**: Prioritize safety over features.
 
 ## The Future of Covenants
 
 Covenant evolution:
 
-**Bitcoin Upgrade**: Likely covenant-enabling upgrade in future.
+- **Bitcoin Upgrade**: Likely covenant-enabling upgrade in future.
 
-**New Protocols**: Covenants enabling entirely new protocols on Bitcoin.
+- **New Protocols**: Covenants enabling entirely new protocols on Bitcoin.
 
-**Recursive Scripts**: Potential for much more powerful scripting.
+- **Recursive Scripts**: Potential for much more powerful scripting.
 
-**Cross-Chain**: Covenants enabling trustless cross-chain protocols.
+- **Cross-Chain**: Covenants enabling trustless cross-chain protocols.
 
 Covenants could expand Bitcoin programmability. Important proposed upgrade generating active debate. If you're interested in Bitcoin development, explore [Bitcoin careers](/) at Bitcoin teams. These roles focus on Bitcoin's evolution.

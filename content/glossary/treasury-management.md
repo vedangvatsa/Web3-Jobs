@@ -15,15 +15,15 @@ Treasury Management refers to the strategic oversight of cryptocurrency reserves
 
 What treasuries hold:
 
-**Protocol Tokens**: Native tokens (UNI, AAVE, CRV) accumulating from fees or token allocation. Represents protocol value.
+- **Protocol Tokens**: Native tokens (UNI, AAVE, CRV) accumulating from fees or token allocation. Represents protocol value.
 
-**Stablecoins**: USDC, USDT for liquid operations (hiring, grants, maintenance).
+- **Stablecoins**: USDC, USDT for liquid operations (hiring, grants, maintenance).
 
-**Other Tokens**: Tokens received from partnerships, airdrop recipients, or strategic investments.
+- **Other Tokens**: Tokens received from partnerships, airdrop recipients, or strategic investments.
 
-**NFTs/Assets**: Some protocols hold collectible assets or digital assets.
+- **NFTs/Assets**: Some protocols hold collectible assets or digital assets.
 
-**Real Estate/Assets**: Some protocols plan real-world asset integration.
+- **Real Estate/Assets**: Some protocols plan real-world asset integration.
 
 Diversified treasuries reduce risk through diversification.
 
@@ -31,19 +31,19 @@ Diversified treasuries reduce risk through diversification.
 
 Common uses:
 
-**Development Grants**: Funding developers building protocol features and improvements.
+- **Development Grants**: Funding developers building protocol features and improvements.
 
-**Ecosystem Incentives**: Liquidity mining, yield farming rewards to bootstrap ecosystem.
+- **Ecosystem Incentives**: Liquidity mining, yield farming rewards to bootstrap ecosystem.
 
-**Bug Bounties**: Incentivizing security researchers finding vulnerabilities.
+- **Bug Bounties**: Incentivizing security researchers finding vulnerabilities.
 
-**Partnerships**: Strategic investments in complementary protocols.
+- **Partnerships**: Strategic investments in complementary protocols.
 
-**Token Buyback**: Buying and burning own tokens, reducing supply and increasing price.
+- **Token Buyback**: Buying and burning own tokens, reducing supply and increasing price.
 
-**Real Estate**: Some DAOs buy property for collateral.
+- **Real Estate**: Some DAOs buy property for collateral.
 
-**Insurance Reserves**: Building reserves for insurance against exploits.
+- **Insurance Reserves**: Building reserves for insurance against exploits.
 
 Treasury allocation reflects protocol priorities.
 
@@ -51,17 +51,17 @@ Treasury allocation reflects protocol priorities.
 
 Potential issues:
 
-**Mismanagement**: Poor allocation decisions reducing treasury value.
+- **Mismanagement**: Poor allocation decisions reducing treasury value.
 
-**Theft**: Treasury funds stolen through governance exploit or compromised multisig.
+- **Theft**: Treasury funds stolen through governance exploit or compromised multisig.
 
-**Poor Investments**: Treasury deploying capital to failed projects or bad investments.
+- **Poor Investments**: Treasury deploying capital to failed projects or bad investments.
 
-**Governance Attacks**: Malicious governance voting to redirect treasury funds.
+- **Governance Attacks**: Malicious governance voting to redirect treasury funds.
 
-**Token Depreciation**: Holding too much protocol token subjects treasury to token price risk.
+- **Token Depreciation**: Holding too much protocol token subjects treasury to token price risk.
 
-**Opportunity Cost**: Not using treasury might cost protocol growth opportunities.
+- **Opportunity Cost**: Not using treasury might cost protocol growth opportunities.
 
 Careful treasury management is essential.
 
@@ -69,15 +69,15 @@ Careful treasury management is essential.
 
 Real treasures:
 
-**Uniswap**: Governance-controlled allocation of UNI and stablecoins.
+- **Uniswap**: Governance-controlled allocation of UNI and stablecoins.
 
-**Aave**: Active treasury management via Aave governance.
+- **Aave**: Active treasury management via Aave governance.
 
-**MakerDAO**: Significant ETH collateral, with savings rates funded through treasury.
+- **MakerDAO**: Significant ETH collateral, with savings rates funded through treasury.
 
-**Curve**: Treasury funding ecosystem incentives.
+- **Curve**: Treasury funding ecosystem incentives.
 
-**Balancer**: BAL token treasury plus partner tokens. Funding ecosystem development.
+- **Balancer**: BAL token treasury plus partner tokens. Funding ecosystem development.
 
 Large treasuries enable protocol sustainability.
 
@@ -85,15 +85,15 @@ Large treasuries enable protocol sustainability.
 
 Strategic approaches:
 
-**Conservative**: Hold mostly stablecoins and blue-chip cryptocurrencies. Minimize risk.
+- **Conservative**: Hold mostly stablecoins and blue-chip cryptocurrencies. Minimize risk.
 
-**Growth**: Deploy treasury capital to promising protocols and tokens. Higher risk, higher potential reward.
+- **Growth**: Deploy treasury capital to promising protocols and tokens. Higher risk, higher potential reward.
 
-**Diversified**: Hold a mix of protocol tokens, stablecoins, other crypto, and real assets. Balanced approach.
+- **Diversified**: Hold a mix of protocol tokens, stablecoins, other crypto, and real assets. Balanced approach.
 
-**Income Generating**: Deploy treasury to yield farming or staking. Generate income to fund operations.
+- **Income Generating**: Deploy treasury to yield farming or staking. Generate income to fund operations.
 
-**Hedged**: Hedge downside through options or shorts while maintaining upside. Complex but protective.
+- **Hedged**: Hedge downside through options or shorts while maintaining upside. Complex but protective.
 
 Different strategies align with protocol objectives and risk tolerance.
 
@@ -101,19 +101,19 @@ Different strategies align with protocol objectives and risk tolerance.
 
 How decisions are made:
 
-**Proposal Submission**: Community members propose treasury allocations. Some DAOs have proposal deposit requirements preventing spam.
+- **Proposal Submission**: Community members propose treasury allocations. Some DAOs have proposal deposit requirements preventing spam.
 
-**Discussion**: Community discusses merits before voting. Discussion periods typically last 3-7 days.
+- **Discussion**: Community discusses merits before voting. Discussion periods typically last 3-7 days.
 
-**Snapshot Voting**: Many DAOs use Snapshot for temperature checks before on-chain votes.
+- **Snapshot Voting**: Many DAOs use Snapshot for temperature checks before on-chain votes.
 
-**On-Chain Voting**: Token holders vote on proposals. Multisig approval is usually required for execution of high-value proposals.
+- **On-Chain Voting**: Token holders vote on proposals. Multisig approval is usually required for execution of high-value proposals.
 
-**Timelock**: Approved proposals wait a period before execution, giving the community time to react or challenge.
+- **Timelock**: Approved proposals wait a period before execution, giving the community time to react or challenge.
 
-**Execution**: Approved proposals automatically execute after timelock through smart contracts.
+- **Execution**: Approved proposals automatically execute after timelock through smart contracts.
 
-**Veto Powers**: Some DAOs have veto powers preventing catastrophic votes.
+- **Veto Powers**: Some DAOs have veto powers preventing catastrophic votes.
 
 Transparency and multi-stage processes improve treasury decisions while maintaining checks and balances.
 
@@ -121,17 +121,17 @@ Transparency and multi-stage processes improve treasury decisions while maintain
 
 Common issues:
 
-**Voter Apathy**: Governance participation often low. Decisions made by a small group.
+- **Voter Apathy**: Governance participation often low. Decisions made by a small group.
 
-**Delegation Concentration**: Voting power concentrated among few large delegates. Reduces true decentralization.
+- **Delegation Concentration**: Voting power concentrated among few large delegates. Reduces true decentralization.
 
-**Proposal Spam**: Without deposit requirements, many low-quality proposals are submitted.
+- **Proposal Spam**: Without deposit requirements, many low-quality proposals are submitted.
 
-**Long Voting Periods**: Long voting periods slow down treasury response to market conditions.
+- **Long Voting Periods**: Long voting periods slow down treasury response to market conditions.
 
-**Capital Inefficiency**: Large treasuries might not be optimally allocated.
+- **Capital Inefficiency**: Large treasuries might not be optimally allocated.
 
-**Exit Scams**: Teams can propose to send entire treasury to personal addresses. Treasury governance doesn't prevent this with sufficient voting power concentration.
+- **Exit Scams**: Teams can propose to send entire treasury to personal addresses. Treasury governance doesn't prevent this with sufficient voting power concentration.
 
 Well-designed governance structures mitigate but don't eliminate these challenges.
 
@@ -153,31 +153,31 @@ Treasury management creates roles:
 
 For treasury management:
 
-**Diversification**: Hold a mix of assets reducing concentration risk.
+- **Diversification**: Hold a mix of assets reducing concentration risk.
 
-**Clear Strategy**: Define treasury allocation strategy and stick to it.
+- **Clear Strategy**: Define treasury allocation strategy and stick to it.
 
-**Regular Review**: Periodically assess treasury health and performance.
+- **Regular Review**: Periodically assess treasury health and performance.
 
-**Transparency**: Public reporting on treasury composition and allocation.
+- **Transparency**: Public reporting on treasury composition and allocation.
 
-**Insurance**: Consider insurance protecting treasury against theft.
+- **Insurance**: Consider insurance protecting treasury against theft.
 
-**Governance Safeguards**: Multisig requirements and timelocks prevent sudden misuse.
+- **Governance Safeguards**: Multisig requirements and timelocks prevent sudden misuse.
 
 ## The Future of Treasuries
 
 Treasury evolution:
 
-**Sophisticated Investment**: Treasuries investing in real assets, securities, derivatives.
+- **Sophisticated Investment**: Treasuries investing in real assets, securities, derivatives.
 
-**Cross-DAO Treasury Swaps**: DAOs swapping treasury assets for strategic alignment.
+- **Cross-DAO Treasury Swaps**: DAOs swapping treasury assets for strategic alignment.
 
-**Treasury-Backed Securities**: Protocols issuing securities backed by treasury.
+- **Treasury-Backed Securities**: Protocols issuing securities backed by treasury.
 
-**Yield Generation**: Treasuries actively earning yields to fund operations.
+- **Yield Generation**: Treasuries actively earning yields to fund operations.
 
-**Real Asset Integration**: Treasuries backing with real-world property and assets.
+- **Real Asset Integration**: Treasuries backing with real-world property and assets.
 
 ## Steward Protocol Resources
 

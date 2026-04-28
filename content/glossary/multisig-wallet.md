@@ -15,15 +15,15 @@ Multi-Signature Wallet refers to a cryptocurrency wallet that requires multiple 
 
 How it works:
 
-**Key Distribution**: Each party holds a private key.
+- **Key Distribution**: Each party holds a private key.
 
-**Threshold**: Need M-of-N signatures. Example 2-of-3 requires 2 valid signatures.
+- **Threshold**: Need M-of-N signatures. Example 2-of-3 requires 2 valid signatures.
 
-**No Single Point**: A single compromised key is insufficient. An attacker needs multiple keys.
+- **No Single Point**: A single compromised key is insufficient. An attacker needs multiple keys.
 
-**Control Distribution**: Control is distributed among parties.
+- **Control Distribution**: Control is distributed among parties.
 
-**Slow Execution**: Multiple signatures take time due to coordination overhead.
+- **Slow Execution**: Multiple signatures take time due to coordination overhead.
 
 Multisig prevents single points of failure.
 
@@ -31,13 +31,13 @@ Multisig prevents single points of failure.
 
 Different configurations:
 
-**2-of-3**: Most common. 3 keys, need 2. One key can be lost without losing funds. One key can be compromised without losing funds.
+- **2-of-3**: Most common. 3 keys, need 2. One key can be lost without losing funds. One key can be compromised without losing funds.
 
-**3-of-5**: More security but slower. Need 3 of 5 parties.
+- **3-of-5**: More security but slower. Need 3 of 5 parties.
 
-**2-of-2**: Maximum security but no safety margin. If one key is lost, funds are lost forever.
+- **2-of-2**: Maximum security but no safety margin. If one key is lost, funds are lost forever.
 
-**Complex Threshold**: Different operations require different thresholds; risky operations need more signatures.
+- **Complex Threshold**: Different operations require different thresholds; risky operations need more signatures.
 
 Different schemes have different security and usability tradeoffs.
 
@@ -45,15 +45,15 @@ Different schemes have different security and usability tradeoffs.
 
 Popular implementation:
 
-**Smart Contract**: Multisig implemented as a smart contract.
+- **Smart Contract**: Multisig implemented as a smart contract.
 
-**Flexible**: Configurable threshold, keys, and operations.
+- **Flexible**: Configurable threshold, keys, and operations.
 
-**Web Interface**: User-friendly interface for multisig operations.
+- **Web Interface**: User-friendly interface for multisig operations.
 
-**Governance**: Many protocols use Gnosis Safe for governance vaults.
+- **Governance**: Many protocols use Gnosis Safe for governance vaults.
 
-**Execution**: Transaction submitted by one party is executed after signatures.
+- **Execution**: Transaction submitted by one party is executed after signatures.
 
 Gnosis Safe is the Ethereum multisig standard.
 
@@ -61,15 +61,15 @@ Gnosis Safe is the Ethereum multisig standard.
 
 Professional custody:
 
-**Institutions**: Banks and crypto custodians use multisig.
+- **Institutions**: Banks and crypto custodians use multisig.
 
-**Key Separation**: Keys are held by different people or locations.
+- **Key Separation**: Keys are held by different people or locations.
 
-**Audit Trail**: Every transaction is logged.
+- **Audit Trail**: Every transaction is logged.
 
-**Insurance**: Institutions insure against losses.
+- **Insurance**: Institutions insure against losses.
 
-**Compliance**: Multisig helps meet compliance requirements.
+- **Compliance**: Multisig helps meet compliance requirements.
 
 Institutions use multisig for security and compliance.
 
@@ -77,15 +77,15 @@ Institutions use multisig for security and compliance.
 
 Issues:
 
-**Coordination**: Getting multiple parties to sign takes time.
+- **Coordination**: Getting multiple parties to sign takes time.
 
-**Key Management**: Managing multiple keys is complex.
+- **Key Management**: Managing multiple keys is complex.
 
-**Single Signer Attacks**: Depending on which signers are involved, some combinations are weaker.
+- **Single Signer Attacks**: Depending on which signers are involved, some combinations are weaker.
 
-**Hot Wallet Risk**: Signers usually store keys in hot wallets, which are internet-connected.
+- **Hot Wallet Risk**: Signers usually store keys in hot wallets, which are internet-connected.
 
-**Key Loss**: If signatures are required, losing a key means losing funds.
+- **Key Loss**: If signatures are required, losing a key means losing funds.
 
 Multisig adds complexity while improving security.
 
@@ -93,15 +93,15 @@ Multisig adds complexity while improving security.
 
 Enhanced security:
 
-**Hardware Wallets**: Store keys in hardware devices.
+- **Hardware Wallets**: Store keys in hardware devices.
 
-**Multiple Devices**: Each signer uses a different device.
+- **Multiple Devices**: Each signer uses a different device.
 
-**Offline Signing**: Keys are never exposed online.
+- **Offline Signing**: Keys are never exposed online.
 
-**Recovery**: Offline backup of keys.
+- **Recovery**: Offline backup of keys.
 
-**Ultimate Security**: Provides maximum security for large funds.
+- **Ultimate Security**: Provides maximum security for large funds.
 
 Hardware wallet multisig provides maximum security.
 
@@ -121,27 +121,27 @@ Multisig creates roles:
 
 Using multisig:
 
-**Diverse Signers**: Ensure signers are independent to prevent collusion.
+- **Diverse Signers**: Ensure signers are independent to prevent collusion.
 
-**Key Security**: Secure keys with hardware wallets or HSMs.
+- **Key Security**: Secure keys with hardware wallets or HSMs.
 
-**Timelock**: Use timelock contracts allowing exit before execution.
+- **Timelock**: Use timelock contracts allowing exit before execution.
 
-**Auditability**: Log all transactions for audit trails.
+- **Auditability**: Log all transactions for audit trails.
 
-**Testing**: Test multisig setup with small amounts first.
+- **Testing**: Test multisig setup with small amounts first.
 
 ## The Future of Multisig
 
 Evolution:
 
-**Social Recovery**: Guardians recovering lost keys.
+- **Social Recovery**: Guardians recovering lost keys.
 
-**Timelocks**: More sophisticated timelock mechanisms.
+- **Timelocks**: More sophisticated timelock mechanisms.
 
-**Delegation**: Better delegation of signing power.
+- **Delegation**: Better delegation of signing power.
 
-**Privacy**: Privacy-preserving multisig.
+- **Privacy**: Privacy-preserving multisig.
 
 ## Distribute Control Cryptographically
 

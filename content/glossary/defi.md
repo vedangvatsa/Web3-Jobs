@@ -23,15 +23,15 @@ Traditional finance relies on institutions to facilitate transactions, hold asse
 
 ## Core DeFi Services
 
-**Lending and Borrowing**: Protocols like Aave and Compound allow users to lend crypto assets to earn interest or borrow against collateral. Interest rates adjust algorithmically based on supply and demand.
+- **Lending and Borrowing**: Protocols like Aave and Compound allow users to lend crypto assets to earn interest or borrow against collateral. Interest rates adjust algorithmically based on supply and demand.
 
-**Decentralized Exchanges (DEXs)**: Platforms like Uniswap and Curve enable peer-to-peer token trading without centralized order books. Automated Market Makers (AMMs) use liquidity pools to facilitate trades.
+- **Decentralized Exchanges (DEXs)**: Platforms like Uniswap and Curve enable peer-to-peer token trading without centralized order books. Automated Market Makers (AMMs) use liquidity pools to facilitate trades.
 
-**Stablecoins**: Cryptocurrencies designed to maintain stable value, either backed by reserves (USDC) or algorithmically managed (DAI), provide a stable medium of exchange within DeFi.
+- **Stablecoins**: Cryptocurrencies designed to maintain stable value, either backed by reserves (USDC) or algorithmically managed (DAI), provide a stable medium of exchange within DeFi.
 
-**Derivatives and Options**: Protocols offer perpetual futures, options contracts, and synthetic assets, enabling sophisticated trading strategies without traditional brokers.
+- **Derivatives and Options**: Protocols offer perpetual futures, options contracts, and synthetic assets, enabling sophisticated trading strategies without traditional brokers.
 
-**Yield Farming**: Users can deploy capital across multiple protocols to maximize returns through lending, liquidity provision, and staking rewards.
+- **Yield Farming**: Users can deploy capital across multiple protocols to maximize returns through lending, liquidity provision, and staking rewards.
 
 ## How DeFi Works
 
@@ -51,15 +51,15 @@ The DeFi ecosystem is measured by Total Value Locked, which is the amount of cry
 
 ## Risks and Considerations
 
-**Smart Contract Risk**: Bugs in code can lead to exploits and loss of funds. Audits reduce but don't eliminate this risk.
+- **Smart Contract Risk**: Bugs in code can lead to exploits and loss of funds. Audits reduce but don't eliminate this risk.
 
-**Impermanent Loss**: Liquidity providers can lose value compared to simply holding assets when prices diverge.
+- **Impermanent Loss**: Liquidity providers can lose value compared to simply holding assets when prices diverge.
 
-**Regulatory Uncertainty**: DeFi's decentralized nature creates ambiguity around securities laws and consumer protection.
+- **Regulatory Uncertainty**: DeFi's decentralized nature creates ambiguity around securities laws and consumer protection.
 
-**Liquidation Risk**: Borrowers using collateral can be liquidated if asset prices drop below required thresholds.
+- **Liquidation Risk**: Borrowers using collateral can be liquidated if asset prices drop below required thresholds.
 
-**Oracle Dependence**: Many protocols rely on price oracles, creating points of failure if oracle data is manipulated.
+- **Oracle Dependence**: Many protocols rely on price oracles, creating points of failure if oracle data is manipulated.
 
 ## DeFi's Impact on Employment
 
@@ -67,17 +67,17 @@ DeFi has become a significant sector for Web3 job opportunities. Companies build
 
 ## Major DeFi Protocols
 
-**Uniswap**: The leading decentralized exchange (DEX) using automated market makers (AMMs). Instead of order books, liquidity pools enable instant swaps. Users provide liquidity by depositing token pairs, earning fees from trades. Uniswap V3 introduced concentrated liquidity, allowing providers to specify price ranges for capital efficiency.
+- **Uniswap**: The leading decentralized exchange (DEX) using automated market makers (AMMs). Instead of order books, liquidity pools enable instant swaps. Users provide liquidity by depositing token pairs, earning fees from trades. Uniswap V3 introduced concentrated liquidity, allowing providers to specify price ranges for capital efficiency.
 
-**Aave**: Leading money market protocol. Users deposit assets to earn interest, while borrowers provide collateral to take loans. Aave pioneered flash loans, which are uncollateralized loans that must be borrowed and repaid within one transaction. Developers use flash loans for arbitrage, liquidations, and collateral swapping.
+- **Aave**: Leading money market protocol. Users deposit assets to earn interest, while borrowers provide collateral to take loans. Aave pioneered flash loans, which are uncollateralized loans that must be borrowed and repaid within one transaction. Developers use flash loans for arbitrage, liquidations, and collateral swapping.
 
-**MakerDAO**: Issues DAI, a decentralized stablecoin backed by crypto collateral. Users lock ETH or other assets in vaults to mint DAI, maintaining over-collateralization ratios. If collateral value drops too much, liquidations occur to protect the system. MakerDAO's governance token (MKR) holders vote on risk parameters, interest rates, and collateral types.
+- **MakerDAO**: Issues DAI, a decentralized stablecoin backed by crypto collateral. Users lock ETH or other assets in vaults to mint DAI, maintaining over-collateralization ratios. If collateral value drops too much, liquidations occur to protect the system. MakerDAO's governance token (MKR) holders vote on risk parameters, interest rates, and collateral types.
 
-**Curve Finance**: Optimized for stablecoin and similar-asset trading with minimal slippage. Curve's specialized AMM algorithm keeps prices stable for assets that should trade at parity. The protocol dominates stablecoin liquidity.
+- **Curve Finance**: Optimized for stablecoin and similar-asset trading with minimal slippage. Curve's specialized AMM algorithm keeps prices stable for assets that should trade at parity. The protocol dominates stablecoin liquidity.
 
-**Compound**: Lending protocol where interest rates adjust algorithmically based on supply and demand. Compound popularized yield farming by distributing COMP governance tokens to users.
+- **Compound**: Lending protocol where interest rates adjust algorithmically based on supply and demand. Compound popularized yield farming by distributing COMP governance tokens to users.
 
-**Lido**: Liquid staking protocol allowing users to stake ETH while maintaining liquidity. Instead of locking ETH, users receive stETH tokens representing staked ETH, usable throughout DeFi for borrowing and liquidity provision.
+- **Lido**: Liquid staking protocol allowing users to stake ETH while maintaining liquidity. Instead of locking ETH, users receive stETH tokens representing staked ETH, usable throughout DeFi for borrowing and liquidity provision.
 
 ## Composability: DeFi's Superpower
 
@@ -115,15 +115,15 @@ The "loss" is impermanent because it only realizes when withdrawing. Trading fee
 
 ## DeFi Risks
 
-**Smart Contract Vulnerabilities**: Despite audits, exploits occur regularly. Various incidents demonstrate persistent security challenges.
+- **Smart Contract Vulnerabilities**: Despite audits, exploits occur regularly. Various incidents demonstrate persistent security challenges.
 
-**Liquidation Cascades**: In volatile markets with network congestion, collateral value can drop faster than users can react, causing mass liquidations that compound price declines.
+- **Liquidation Cascades**: In volatile markets with network congestion, collateral value can drop faster than users can react, causing mass liquidations that compound price declines.
 
-**Oracle Manipulation**: DeFi relies on price oracles for external data. Flash loan attacks often manipulate on-chain price oracles to exploit protocols.
+- **Oracle Manipulation**: DeFi relies on price oracles for external data. Flash loan attacks often manipulate on-chain price oracles to exploit protocols.
 
-**Regulatory Uncertainty**: Governments scrutinize DeFi's role in money laundering, tax evasion, and securities law. The decentralized nature creates regulatory challenges.
+- **Regulatory Uncertainty**: Governments scrutinize DeFi's role in money laundering, tax evasion, and securities law. The decentralized nature creates regulatory challenges.
 
-**Rug Pulls**: Malicious developers can create protocols with backdoors to drain funds. Due diligence on protocol teams, audits, and time locks is essential.
+- **Rug Pulls**: Malicious developers can create protocols with backdoors to drain funds. Due diligence on protocol teams, audits, and time locks is essential.
 
 ## Yield Farming and Sustainable Yields
 
@@ -138,14 +138,14 @@ Unsustainable yields depend on token emissions that cannot continue indefinitely
 
 ## DeFi vs Traditional Finance
 
-**DeFi Advantages**:
+- **DeFi Advantages**:
 - 24/7 global markets
 - Permissionless access
 - Transparency and auditability
 - Programmable money
 - No minimum balances or fees for account maintenance
 
-**Traditional Finance Advantages**:
+- **Traditional Finance Advantages**:
 - Deposit insurance
 - Legal recourse for fraud
 - Customer support
@@ -156,16 +156,16 @@ Traditional banks might offer low savings interest while DeFi lending provides h
 
 ## Career Opportunities in DeFi
 
-**Smart Contract Developer**: Building lending protocols, DEXes, and derivatives platforms. Requires Solidity expertise and financial knowledge.
+- **Smart Contract Developer**: Building lending protocols, DEXes, and derivatives platforms. Requires Solidity expertise and financial knowledge.
 
-**Smart Contract Auditor**: Reviewing code for vulnerabilities. Firms pay premium salaries.
+- **Smart Contract Auditor**: Reviewing code for vulnerabilities. Firms pay premium salaries.
 
-**DeFi Protocol Designer**: Creating economic models, tokenomics, and mechanism design. Combines game theory, economics, and blockchain.
+- **DeFi Protocol Designer**: Creating economic models, tokenomics, and mechanism design. Combines game theory, economics, and blockchain.
 
-**Quantitative Researcher**: Analyzing yield strategies, risk models, and arbitrage opportunities. Quantitative finance background is highly valued.
+- **Quantitative Researcher**: Analyzing yield strategies, risk models, and arbitrage opportunities. Quantitative finance background is highly valued.
 
-**DeFi Analyst**: Monitoring protocols, analyzing TVL, tracking ecosystem trends. Entry point into DeFi careers.
+- **DeFi Analyst**: Monitoring protocols, analyzing TVL, tracking ecosystem trends. Entry point into DeFi careers.
 
-**Protocol Economist**: Designing token economics and incentive mechanisms. Academic economics background is valuable.
+- **Protocol Economist**: Designing token economics and incentive mechanisms. Academic economics background is valuable.
 
 The sector continues evolving with real-world asset tokenization, decentralized identity, institutional DeFi adoption, and cross-chain protocols, creating new specialized roles continuously.

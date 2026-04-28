@@ -15,15 +15,15 @@ Token Unlock refers to the scheduled release of previously locked or vested toke
 
 How vesting works:
 
-**Lock Period**: Tokens locked for set period (cliff).
+- **Lock Period**: Tokens locked for set period (cliff).
 
-**Vesting Schedule**: Tokens unlock gradually over time (vesting period).
+- **Vesting Schedule**: Tokens unlock gradually over time (vesting period).
 
-**Cliff**: Usually initial period where nothing unlocks.
+- **Cliff**: Usually initial period where nothing unlocks.
 
-**Example**: 4-year vesting, 1-year cliff. Year 1 = 0, Year 2 = 1/3, Year 3 = 2/3, Year 4 = 100%.
+- **Example**: 4-year vesting, 1-year cliff. Year 1 = 0, Year 2 = 1/3, Year 3 = 2/3, Year 4 = 100%.
 
-**Custom Schedules**: Different schedules for different parties.
+- **Custom Schedules**: Different schedules for different parties.
 
 Vesting protects against immediate token dumps.
 
@@ -31,15 +31,15 @@ Vesting protects against immediate token dumps.
 
 Price implications:
 
-**Supply Increase**: Unlocked tokens increase circulating supply.
+- **Supply Increase**: Unlocked tokens increase circulating supply.
 
-**Selling Pressure**: Token holders can now sell (price pressure).
+- **Selling Pressure**: Token holders can now sell (price pressure).
 
-**Announcements**: Large upcoming unlocks often announced in advance.
+- **Announcements**: Large upcoming unlocks often announced in advance.
 
-**Price Decline**: Large unlocks often precede price declines.
+- **Price Decline**: Large unlocks often precede price declines.
 
-**Recovery**: After unlock, prices often recover if fundamentals are strong.
+- **Recovery**: After unlock, prices often recover if fundamentals are strong.
 
 Unlocks create predictable supply shocks.
 
@@ -47,13 +47,13 @@ Unlocks create predictable supply shocks.
 
 Information sources:
 
-**Token Dashboards**: Token pages show unlock schedule.
+- **Token Dashboards**: Token pages show unlock schedule.
 
-**Decentralized**: Sites like IntoTheBlock show unlock calendars.
+- **Decentralized**: Sites like IntoTheBlock show unlock calendars.
 
-**Protocols**: Protocols publish unlock schedules.
+- **Protocols**: Protocols publish unlock schedules.
 
-**Trading Tools**: Trading tools integrate unlock information.
+- **Trading Tools**: Trading tools integrate unlock information.
 
 Unlock information is usually public.
 
@@ -61,13 +61,13 @@ Unlock information is usually public.
 
 Considerations:
 
-**Timing**: Unlock timing affects token price.
+- **Timing**: Unlock timing affects token price.
 
-**Hedging**: Large holders might hedge before unlocks.
+- **Hedging**: Large holders might hedge before unlocks.
 
-**Announcements**: Announcements before unlocks affect prices.
+- **Announcements**: Announcements before unlocks affect prices.
 
-**Governance**: Communities can vote to change unlock schedules.
+- **Governance**: Communities can vote to change unlock schedules.
 
 Strategic unlock planning is important.
 
@@ -75,11 +75,11 @@ Strategic unlock planning is important.
 
 Real cases:
 
-**Arbitrum**: Significant locked tokens with staged unlocks affecting price.
+- **Arbitrum**: Significant locked tokens with staged unlocks affecting price.
 
-**Optimism**: Large governance token unlocks affecting price.
+- **Optimism**: Large governance token unlocks affecting price.
 
-**Uniswap**: UNI governance token unlock affecting price.
+- **Uniswap**: UNI governance token unlock affecting price.
 
 Major unlocks often visible in price charts.
 
@@ -99,25 +99,25 @@ Token economics creates roles:
 
 Managing unlocks:
 
-**Monitor Schedule**: Track upcoming unlocks.
+- **Monitor Schedule**: Track upcoming unlocks.
 
-**Diversify**: Don't concentrate in tokens before large unlocks.
+- **Diversify**: Don't concentrate in tokens before large unlocks.
 
-**Analysis**: Understand fundamental impact of unlocks.
+- **Analysis**: Understand fundamental impact of unlocks.
 
-**Hedging**: Consider hedging before large unlocks.
+- **Hedging**: Consider hedging before large unlocks.
 
 ## The Future of Token Unlocks
 
 Evolution:
 
-**Dynamic Schedules**: Communities adjusting unlock schedules.
+- **Dynamic Schedules**: Communities adjusting unlock schedules.
 
-**Auction Models**: Alternative to vesting through auctions.
+- **Auction Models**: Alternative to vesting through auctions.
 
-**Streaming**: Continuous streaming vs discrete unlocks.
+- **Streaming**: Continuous streaming vs discrete unlocks.
 
-**Transparency**: More transparent unlock information.
+- **Transparency**: More transparent unlock information.
 
 ## Manage Supply Dynamics
 

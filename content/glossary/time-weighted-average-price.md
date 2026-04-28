@@ -15,13 +15,13 @@ Time-Weighted Average Price is an execution strategy that spreads large trades a
 
 Execution mechanics:
 
-**Order Slicing**: Split large order into smaller slices.
+- **Order Slicing**: Split large order into smaller slices.
 
-**Time Intervals**: Execute slices at fixed intervals.
+- **Time Intervals**: Execute slices at fixed intervals.
 
-**Average Price**: Weighted by time, not volume.
+- **Average Price**: Weighted by time, not volume.
 
-**Completion**: Execute until total size filled.
+- **Completion**: Execute until total size filled.
 
 TWAP reduces market impact.
 
@@ -29,11 +29,11 @@ TWAP reduces market impact.
 
 Comparison:
 
-**TWAP**: Time-based slicing. Simple and predictable.
+- **TWAP**: Time-based slicing. Simple and predictable.
 
-**VWAP**: Volume-weighted average price. Slices based on market volume.
+- **VWAP**: Volume-weighted average price. Slices based on market volume.
 
-**Use Case**: TWAP used when volume data unreliable or when simple execution needed.
+- **Use Case**: TWAP used when volume data unreliable or when simple execution needed.
 
 Different strategies suit different markets.
 
@@ -41,11 +41,11 @@ Different strategies suit different markets.
 
 Oracle use:
 
-**Price Smoothing**: TWAP reduces impact of short-term volatility.
+- **Price Smoothing**: TWAP reduces impact of short-term volatility.
 
-**Manipulation Resistance**: TWAP prevents flash loan manipulation.
+- **Manipulation Resistance**: TWAP prevents flash loan manipulation.
 
-**Uniswap TWAP**: Uniswap provides built-in TWAP oracle over configurable windows.
+- **Uniswap TWAP**: Uniswap provides built-in TWAP oracle over configurable windows.
 
 TWAP is critical for secure on-chain oracles.
 
@@ -53,11 +53,11 @@ TWAP is critical for secure on-chain oracles.
 
 Challenges:
 
-**Market Drift**: Price can move away during execution.
+- **Market Drift**: Price can move away during execution.
 
-**Opportunity Cost**: Slow execution can miss market moves.
+- **Opportunity Cost**: Slow execution can miss market moves.
 
-**Partial Fills**: Volatile markets can cause incomplete execution.
+- **Partial Fills**: Volatile markets can cause incomplete execution.
 
 TWAP is not always optimal.
 
@@ -65,11 +65,11 @@ TWAP is not always optimal.
 
 Examples:
 
-**Large Trades**: Institutions use TWAP to reduce impact.
+- **Large Trades**: Institutions use TWAP to reduce impact.
 
-**Token Buybacks**: Protocols use TWAP for buybacks.
+- **Token Buybacks**: Protocols use TWAP for buybacks.
 
-**Treasury Rebalancing**: DAOs use TWAP to rebalance treasury.
+- **Treasury Rebalancing**: DAOs use TWAP to rebalance treasury.
 
 TWAP is a standard tool for large execution.
 
@@ -87,21 +87,21 @@ Execution roles:
 
 Using TWAP:
 
-**Choose Interval**: Balance impact vs speed.
+- **Choose Interval**: Balance impact vs speed.
 
-**Monitor Market**: Pause if volatility spikes.
+- **Monitor Market**: Pause if volatility spikes.
 
-**Use Aggregators**: Route slices across venues.
+- **Use Aggregators**: Route slices across venues.
 
 ## The Future of TWAP
 
 Trends:
 
-**Adaptive TWAP**: Dynamic intervals based on volatility.
+- **Adaptive TWAP**: Dynamic intervals based on volatility.
 
-**Solver Execution**: Solvers optimize TWAP execution.
+- **Solver Execution**: Solvers optimize TWAP execution.
 
-**Cross-Chain TWAP**: TWAP across multiple chains.
+- **Cross-Chain TWAP**: TWAP across multiple chains.
 
 ## Execute Large Orders Safely
 

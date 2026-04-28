@@ -15,13 +15,13 @@ Double spending refers to the fraudulent act of using the same cryptocurrency un
 
 The classic problem:
 
-**Pre-Blockchain**: Digital currencies before blockchain failed partly because they couldn't prevent double spending without central authority. Any copy of a digital file could be spent.
+- **Pre-Blockchain**: Digital currencies before blockchain failed partly because they couldn't prevent double spending without central authority. Any copy of a digital file could be spent.
 
-**Hashcash**: Proof of work concept developed to prevent spam. This was the first step toward preventing double spending.
+- **Hashcash**: Proof of work concept developed to prevent spam. This was the first step toward preventing double spending.
 
-**Bitcoin**: Solved double spending through Proof of Work consensus. Once a miner includes a transaction in a block, reversing it requires redoing work, which is expensive and impractical.
+- **Bitcoin**: Solved double spending through Proof of Work consensus. Once a miner includes a transaction in a block, reversing it requires redoing work, which is expensive and impractical.
 
-**Blockchain Confirmation**: Transactions are confirmed through multiple blocks. After six confirmations, a transaction is considered final, and reverting it would require a 51% attack.
+- **Blockchain Confirmation**: Transactions are confirmed through multiple blocks. After six confirmations, a transaction is considered final, and reverting it would require a 51% attack.
 
 Preventing double spending was Bitcoin's fundamental innovation.
 
@@ -29,18 +29,18 @@ Preventing double spending was Bitcoin's fundamental innovation.
 
 Different attack vectors:
 
-**Zero-Confirmation Attack**: Spend coins, then immediately spend again before the first transaction is confirmed. The early receiver might not know about the second spend.
+- **Zero-Confirmation Attack**: Spend coins, then immediately spend again before the first transaction is confirmed. The early receiver might not know about the second spend.
 
-**51% Attack**: If an attacker controls 51% of hash power (PoW) or stake (PoS), they can:
+- **51% Attack**: If an attacker controls 51% of hash power (PoW) or stake (PoS), they can:
 - Spend coins to a merchant
 - Reorganize the blockchain to remove their spend
 - The merchant loses coins, and the attacker has them back
 
-**Sybil Attack**: Create many fake nodes claiming to verify a transaction, then create a counter-transaction removing the first spend.
+- **Sybil Attack**: Create many fake nodes claiming to verify a transaction, then create a counter-transaction removing the first spend.
 
-**Finney Attack**: A merchant sees a transaction but doesn't wait for confirmation. The attacker publishes a conflicting transaction with a higher fee, double spending.
+- **Finney Attack**: A merchant sees a transaction but doesn't wait for confirmation. The attacker publishes a conflicting transaction with a higher fee, double spending.
 
-**Selfish Mining**: Miners hold blocks privately, then release them when advantageous. This can enable double spending in edge cases.
+- **Selfish Mining**: Miners hold blocks privately, then release them when advantageous. This can enable double spending in edge cases.
 
 Different attacks require different defenses.
 
@@ -48,13 +48,13 @@ Different attacks require different defenses.
 
 How blockchain consensus prevents it:
 
-**Immutability**: Once a transaction is included in a block, changing it requires redoing all subsequent proof of work.
+- **Immutability**: Once a transaction is included in a block, changing it requires redoing all subsequent proof of work.
 
-**Confirmation Time**: Waiting for six confirmations makes reversing impractical.
+- **Confirmation Time**: Waiting for six confirmations makes reversing impractical.
 
-**High Attack Cost**: Reversing a transaction requires controlling 51% of hash power. For Bitcoin, this involves significant investment in equipment and electricity. The cost exceeds the value of a double spend.
+- **High Attack Cost**: Reversing a transaction requires controlling 51% of hash power. For Bitcoin, this involves significant investment in equipment and electricity. The cost exceeds the value of a double spend.
 
-**Economic Finality**: Transaction finality is economic; reversing is so expensive that it's rational to accept a transaction as final.
+- **Economic Finality**: Transaction finality is economic; reversing is so expensive that it's rational to accept a transaction as final.
 
 Consensus mechanisms make double spending economically infeasible rather than technically impossible.
 
@@ -62,11 +62,11 @@ Consensus mechanisms make double spending economically infeasible rather than te
 
 Modern double spending equivalent:
 
-**Reentrancy Attack**: Smart contract bugs enable calling a contract recursively before the first call completes, potentially sending funds twice. The DAO hack exploited reentrancy.
+- **Reentrancy Attack**: Smart contract bugs enable calling a contract recursively before the first call completes, potentially sending funds twice. The DAO hack exploited reentrancy.
 
-**Prevention**: Reentrancy guards, "checks-effects-interactions" pattern, or using OpenZeppelin guards prevent recursive calls.
+- **Prevention**: Reentrancy guards, "checks-effects-interactions" pattern, or using OpenZeppelin guards prevent recursive calls.
 
-**Evolution**: Modern smart contracts are tested for reentrancy, but variants continue appearing.
+- **Evolution**: Modern smart contracts are tested for reentrancy, but variants continue appearing.
 
 Smart contract reentrancy is a modern equivalent of double spending, requiring similar defenses.
 
@@ -74,11 +74,11 @@ Smart contract reentrancy is a modern equivalent of double spending, requiring s
 
 Double spending prevention off-chain:
 
-**Payment Channels**: The Lightning Network uses HTLCs to create payment channels. Each payment is effectively final because attempting to spend twice is cryptographically prevented.
+- **Payment Channels**: The Lightning Network uses HTLCs to create payment channels. Each payment is effectively final because attempting to spend twice is cryptographically prevented.
 
-**Smart Contracts**: Smart contracts prevent double spending of smart contract state through transaction atomicity.
+- **Smart Contracts**: Smart contracts prevent double spending of smart contract state through transaction atomicity.
 
-**Off-Chain Protocols**: Any protocol transferring value off-chain must prevent double spending through cryptographic or economic mechanisms.
+- **Off-Chain Protocols**: Any protocol transferring value off-chain must prevent double spending through cryptographic or economic mechanisms.
 
 Off-chain protocols solve double spending without waiting for blockchain confirmation.
 
@@ -98,23 +98,23 @@ Double spending prevention creates roles:
 
 Protecting against double spending:
 
-**Wait for Confirmations**: Don't accept zero-confirmation transactions for valuable transfers.
+- **Wait for Confirmations**: Don't accept zero-confirmation transactions for valuable transfers.
 
-**Monitor Mempool**: Watch for conflicting transactions attempting double spend.
+- **Monitor Mempool**: Watch for conflicting transactions attempting double spend.
 
-**Use Multisig**: Multisig requirements increase double spend cost.
+- **Use Multisig**: Multisig requirements increase double spend cost.
 
-**Insurance**: In some cases, vendors carry insurance protecting against double spend losses.
+- **Insurance**: In some cases, vendors carry insurance protecting against double spend losses.
 
 ## The Future of Double Spending Prevention
 
 Evolution:
 
-**Instant Finality**: Newer protocols enabling instant transaction finality, eliminating double spend risk immediately.
+- **Instant Finality**: Newer protocols enabling instant transaction finality, eliminating double spend risk immediately.
 
-**Cross-Chain Proofs**: Preventing double spending across multiple chains.
+- **Cross-Chain Proofs**: Preventing double spending across multiple chains.
 
-**Quantum-Safe Cryptography**: Ensuring double spending prevention remains effective against quantum computers.
+- **Quantum-Safe Cryptography**: Ensuring double spending prevention remains effective against quantum computers.
 
 ## Finality Through Consensus
 

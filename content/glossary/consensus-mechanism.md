@@ -33,7 +33,7 @@ Consensus creates **finality**, the assurance that once recorded, transactions w
 
 Bitcoin's pioneering consensus mechanism. Miners compete to solve computationally expensive puzzles. The first to solve creates the next block and earns rewards.
 
-**How It Works**:
+- **How It Works**:
 1. Miners collect pending transactions into candidate blocks.
 2. Search for a nonce (random number) that produces a hash starting with required zeros.
 3. Finding valid nonce requires trillions of attempts (hash rate).
@@ -41,27 +41,27 @@ Bitcoin's pioneering consensus mechanism. Miners compete to solve computationall
 5. Other nodes verify (easy to check, hard to find) and accept.
 6. Miner earns block reward plus transaction fees.
 
-**Security Model**: Attacking requires controlling 51% of network hash rate, which is economically infeasible for Bitcoin.
+- **Security Model**: Attacking requires controlling 51% of network hash rate, which is economically infeasible for Bitcoin.
 
-**Advantages**:
+- **Advantages**:
 - Battle-tested security (Bitcoin: 15+ years).
 - Highly decentralized (anyone can mine).
 - Objective finality (longest chain rule).
 - Proven track record.
 
-**Disadvantages**:
+- **Disadvantages**:
 - Massive energy consumption.
 - Limited throughput (~7 TPS for Bitcoin).
 - Mining centralization in regions with cheap electricity.
 - Hardware arms race (ASICs).
 
-**Used By**: Bitcoin, Ethereum (pre-Merge), Litecoin, Dogecoin, Bitcoin Cash.
+- **Used By**: Bitcoin, Ethereum (pre-Merge), Litecoin, Dogecoin, Bitcoin Cash.
 
 ## Proof of Stake (PoS)
 
 Validators stake cryptocurrency as collateral. The network randomly selects validators to propose blocks proportional to stake. Malicious behavior results in slashing (losing staked funds).
 
-**How It Works**:
+- **How It Works**:
 1. Validators lock (stake) cryptocurrency as collateral.
 2. The network pseudo-randomly selects validators to propose blocks.
 3. Other validators attest to block validity.
@@ -69,20 +69,20 @@ Validators stake cryptocurrency as collateral. The network randomly selects vali
 5. Dishonest validators lose stake through slashing.
 6. No energy-intensive mining; selection is computational.
 
-**Security Model**: Attacking requires acquiring and staking 51% of total staked tokens, which is economically costly.
+- **Security Model**: Attacking requires acquiring and staking 51% of total staked tokens, which is economically costly.
 
-**Advantages**:
+- **Advantages**:
 - More scalable (faster block times possible).
 - Lower barriers to participation (no specialized hardware).
 - Penalties for misbehavior (slashing).
 
-**Disadvantages**:
+- **Disadvantages**:
 - "Rich get richer", large stakers earn more.
 - Newer, less battle-tested than PoW.
 - More complex implementations.
 - Potential long-range attacks (theoretical).
 
-**Used By**: Ethereum (post-Merge), Cardano, Polkadot, Cosmos, Avalanche (variant).
+- **Used By**: Ethereum (post-Merge), Cardano, Polkadot, Cosmos, Avalanche (variant).
 
 ## Ethereum's Transition: The Merge
 
@@ -100,85 +100,85 @@ This proved PoS viable for major blockchains, influencing the broader industry.
 
 Variant where token holders vote for delegates (validators) who produce blocks. More centralized but faster.
 
-**How It Works**:
+- **How It Works**:
 1. Token holders vote for validator delegates.
 2. Top delegates (typically 21-100) take turns producing blocks.
 3. Validators share rewards with voters.
 4. Poor-performing validators can be voted out.
 
-**Trade-offs**: Higher throughput and lower latency, but more centralization risk. If a small number of entities control validators, censorship and collusion become possible.
+- **Trade-offs**: Higher throughput and lower latency, but more centralization risk. If a small number of entities control validators, censorship and collusion become possible.
 
-**Used By**: EOS, TRON, Lisk.
+- **Used By**: EOS, TRON, Lisk.
 
 ## Practical Byzantine Fault Tolerance (PBFT)
 
 Nodes reach consensus through multiple voting rounds. Tolerates up to 33% malicious nodes.
 
-**How It Works**:
+- **How It Works**:
 1. Primary node proposes block.
 2. Other nodes vote in pre-prepare, prepare, and commit phases.
 3. Requires 2/3+ agreement at each phase.
 4. Fast finality, no probabilistic confirmation.
 
-**Trade-offs**: Efficient for smaller validator sets but doesn't scale to thousands of nodes. Communication overhead grows quadratically with participants.
+- **Trade-offs**: Efficient for smaller validator sets but doesn't scale to thousands of nodes. Communication overhead grows quadratically with participants.
 
-**Used By**: Hyperledger Fabric, some permissioned blockchains.
+- **Used By**: Hyperledger Fabric, some permissioned blockchains.
 
 ## Proof of Authority (PoA)
 
 Pre-approved validators whose identities are known. Extremely fast and efficient but sacrifices decentralization.
 
-**How It Works**:
+- **How It Works**:
 1. Approved validators take turns producing blocks.
 2. Reputation at stake, identity known.
 3. Bad behavior results in removal.
 4. No mining or token staking.
 
-**Trade-offs**: Centralized but practical for enterprise blockchains where trust among validators exists.
+- **Trade-offs**: Centralized but practical for enterprise blockchains where trust among validators exists.
 
-**Used By**: VeChain, some enterprise blockchains, many testnets.
+- **Used By**: VeChain, some enterprise blockchains, many testnets.
 
 ## Proof of History (PoH)
 
 Solana's innovation: cryptographic clock proving time passage between events. Combined with PoS for consensus.
 
-**How It Works**:
+- **How It Works**:
 1. Sequential hashing creates verifiable delay function.
 2. Proves ordering and time passage cryptographically.
 3. Validators process transactions in verified order.
 4. Enables parallel transaction processing.
 
-**Trade-offs**: Enables high throughput but requires powerful hardware, raising centralization concerns.
+- **Trade-offs**: Enables high throughput but requires powerful hardware, raising centralization concerns.
 
-**Used By**: Solana.
+- **Used By**: Solana.
 
 ## Avalanche Consensus
 
 Novel approach using random subsampling. Nodes repeatedly query small random subsets, adopting the majority view.
 
-**How It Works**:
+- **How It Works**:
 1. Node queries random subset about transaction validity.
 2. Adopts majority view.
 3. Repeats many times.
 4. With enough rounds, the network reaches consensus.
 
-**Trade-offs**: Fast finality and high throughput, but requires studying to understand security assumptions.
+- **Trade-offs**: Fast finality and high throughput, but requires studying to understand security assumptions.
 
-**Used By**: Avalanche.
+- **Used By**: Avalanche.
 
 ## Tendermint Consensus
 
 BFT-based mechanism powering Cosmos and many app-chains.
 
-**How It Works**:
+- **How It Works**:
 1. Proposer selected to suggest block.
 2. Validators vote in two phases (prevote, precommit).
 3. Block committed if >2/3 agreement.
 4. Immediate finality, no chain reorganizations.
 
-**Trade-offs**: Fast finality and simple to reason about, but limited to ~100-200 validators before communication overhead becomes problematic.
+- **Trade-offs**: Fast finality and simple to reason about, but limited to ~100-200 validators before communication overhead becomes problematic.
 
-**Used By**: Cosmos Hub, Terra (pre-collapse), Binance Smart Chain (variant).
+- **Used By**: Cosmos Hub, Terra (pre-collapse), Binance Smart Chain (variant).
 
 ## The "Blockchain Trilemma"
 
@@ -203,28 +203,28 @@ Layer 2 solutions attempt to break the trilemma by handling scalability off-chai
 
 ## Emerging Consensus Innovations
 
-**Proof of Space**: Utilize hard drive storage instead of computation (Chia).
+- **Proof of Space**: Utilize hard drive storage instead of computation (Chia).
 
-**Proof of Elapsed Time**: Intel SGX-based lottery system.
+- **Proof of Elapsed Time**: Intel SGX-based lottery system.
 
-**Proof of Burn**: Destroy coins to earn mining rights.
+- **Proof of Burn**: Destroy coins to earn mining rights.
 
-**DAG-Based**: Directed Acyclic Graphs instead of linear chains (IOTA).
+- **DAG-Based**: Directed Acyclic Graphs instead of linear chains (IOTA).
 
 Most remain experimental or serve niche use cases.
 
 ## Career Opportunities
 
-**Consensus Researcher**: Designs new consensus mechanisms, analyzes security properties, publishes papers. Often PhD-level work.
+- **Consensus Researcher**: Designs new consensus mechanisms, analyzes security properties, publishes papers. Often PhD-level work.
 
-**Protocol Developer**: Implements consensus protocols, optimizes performance, handles network-level programming.
+- **Protocol Developer**: Implements consensus protocols, optimizes performance, handles network-level programming.
 
-**Validator Operations Engineer**: Runs validator infrastructure, maintains uptime, handles slashing risks.
+- **Validator Operations Engineer**: Runs validator infrastructure, maintains uptime, handles slashing risks.
 
-**Security Auditor**: Analyzes consensus implementations for vulnerabilities, stress tests networks.
+- **Security Auditor**: Analyzes consensus implementations for vulnerabilities, stress tests networks.
 
-**Blockchain Architect**: Selects appropriate consensus for use cases, designs hybrid approaches.
+- **Blockchain Architect**: Selects appropriate consensus for use cases, designs hybrid approaches.
 
-**Network Analyst**: Monitors consensus health, tracks validator performance, identifies network issues.
+- **Network Analyst**: Monitors consensus health, tracks validator performance, identifies network issues.
 
 Consensus mechanisms are blockchain's foundation enabling trustless coordination. Understanding their trade-offs, security assumptions, and performance characteristics is fundamental to evaluating blockchain projects. The evolution from energy-intensive PoW to efficient PoS to novel mechanisms continues driving the industry forward, creating demand for specialists who can design, implement, and secure these critical systems.

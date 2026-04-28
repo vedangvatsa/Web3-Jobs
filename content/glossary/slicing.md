@@ -15,15 +15,15 @@ Slicing is a technique where computation is divided into smaller pieces that can
 
 How it works:
 
-**Division**: Split computation into N slices. Each slice is an independent subset of computation.
+- **Division**: Split computation into N slices. Each slice is an independent subset of computation.
 
-**Proof Generation**: Generate proof for each slice independently.
+- **Proof Generation**: Generate proof for each slice independently.
 
-**Composition**: Combine slice proofs into a complete proof.
+- **Composition**: Combine slice proofs into a complete proof.
 
-**Verification**: Verify the complete proof efficiently through slice combination.
+- **Verification**: Verify the complete proof efficiently through slice combination.
 
-**Parallelization**: Slices can be proven in parallel, reducing total time.
+- **Parallelization**: Slices can be proven in parallel, reducing total time.
 
 Slicing enables a modular proof approach.
 
@@ -31,13 +31,13 @@ Slicing enables a modular proof approach.
 
 Practical applications:
 
-**Rollup Proofs**: Divide a transaction batch into slices. Prove each slice, combine.
+- **Rollup Proofs**: Divide a transaction batch into slices. Prove each slice, combine.
 
-**ZK Computation**: Divide complex computation into smaller circuits. Prove each, combine.
+- **ZK Computation**: Divide complex computation into smaller circuits. Prove each, combine.
 
-**Sidechain Verification**: Verify sidechain blocks in slices rather than monolithic.
+- **Sidechain Verification**: Verify sidechain blocks in slices rather than monolithic.
 
-**State Verification**: Verify Merkle trees in slices rather than full traversal.
+- **State Verification**: Verify Merkle trees in slices rather than full traversal.
 
 Slicing is applicable to various proof systems.
 
@@ -45,15 +45,15 @@ Slicing is applicable to various proof systems.
 
 Advantages:
 
-**Scalability**: Larger computations become provable.
+- **Scalability**: Larger computations become provable.
 
-**Speed**: Parallel slicing reduces proof generation time.
+- **Speed**: Parallel slicing reduces proof generation time.
 
-**Efficiency**: Slice proofs are smaller than monolithic proofs.
+- **Efficiency**: Slice proofs are smaller than monolithic proofs.
 
-**Modularity**: Slices can be reused across different computations.
+- **Modularity**: Slices can be reused across different computations.
 
-**Parallelization**: Slices enable GPU and hardware acceleration.
+- **Parallelization**: Slices enable GPU and hardware acceleration.
 
 Slicing significantly improves proof system performance.
 
@@ -61,13 +61,13 @@ Slicing significantly improves proof system performance.
 
 Obstacles:
 
-**Proof Composition**: Combining slice proofs requires secure composition.
+- **Proof Composition**: Combining slice proofs requires secure composition.
 
-**Overhead**: Slice boundaries introduce overhead.
+- **Overhead**: Slice boundaries introduce overhead.
 
-**Dependency Management**: Slices with dependencies are harder to parallelize.
+- **Dependency Management**: Slices with dependencies are harder to parallelize.
 
-**Verification Complexity**: Verifying combined proof must be efficient.
+- **Verification Complexity**: Verifying combined proof must be efficient.
 
 Research is addressing these challenges.
 
@@ -75,15 +75,15 @@ Research is addressing these challenges.
 
 Real-world implementations:
 
-**zkSync**: Uses slicing to divide transactions into verifiable chunks. Enables batching multiple transactions with a single proof.
+- **zkSync**: Uses slicing to divide transactions into verifiable chunks. Enables batching multiple transactions with a single proof.
 
-**Starkware**: Cairo language enables natural slicing of computation into proofs.
+- **Starkware**: Cairo language enables natural slicing of computation into proofs.
 
-**Polygon Hermez**: Uses slicing to divide transaction batches into smaller circuits for efficient proving.
+- **Polygon Hermez**: Uses slicing to divide transaction batches into smaller circuits for efficient proving.
 
-**Scroll**: ZK EVM slices transactions and state changes into parallel proofs.
+- **Scroll**: ZK EVM slices transactions and state changes into parallel proofs.
 
-**Risc Zero**: RISC-V based ZK system naturally slices computation into instruction-level proofs.
+- **Risc Zero**: RISC-V based ZK system naturally slices computation into instruction-level proofs.
 
 Slicing enables practical large-scale proofs.
 
@@ -91,13 +91,13 @@ Slicing enables practical large-scale proofs.
 
 How slices combine:
 
-**Proof Folding**: Combine two proofs into a single proof recursively.
+- **Proof Folding**: Combine two proofs into a single proof recursively.
 
-**Aggregation**: Combine multiple proofs verifying collectively.
+- **Aggregation**: Combine multiple proofs verifying collectively.
 
-**Recursion**: Prove proof verification itself.
+- **Recursion**: Prove proof verification itself.
 
-**Parallel Verification**: Verify multiple slice proofs in parallel.
+- **Parallel Verification**: Verify multiple slice proofs in parallel.
 
 Different composition mechanisms enable different scalability properties.
 
@@ -105,15 +105,15 @@ Different composition mechanisms enable different scalability properties.
 
 Obstacles:
 
-**Proof Composition**: Combining slice proofs requires secure composition.
+- **Proof Composition**: Combining slice proofs requires secure composition.
 
-**Overhead**: Slice boundaries introduce overhead.
+- **Overhead**: Slice boundaries introduce overhead.
 
-**Dependency Management**: Slices with dependencies are harder to parallelize.
+- **Dependency Management**: Slices with dependencies are harder to parallelize.
 
-**Verification Complexity**: Verifying combined proof must be more efficient than the original.
+- **Verification Complexity**: Verifying combined proof must be more efficient than the original.
 
-**Development Complexity**: Slicing adds implementation complexity.
+- **Development Complexity**: Slicing adds implementation complexity.
 
 Research is actively addressing these challenges.
 
@@ -121,15 +121,15 @@ Research is actively addressing these challenges.
 
 Evolution:
 
-**Better Composition**: More efficient composition mechanisms reducing overhead.
+- **Better Composition**: More efficient composition mechanisms reducing overhead.
 
-**Adaptive Slicing**: Dynamic slicing based on computation structure and parallelization potential.
+- **Adaptive Slicing**: Dynamic slicing based on computation structure and parallelization potential.
 
-**Hardware Optimization**: Specialized hardware for slice processing.
+- **Hardware Optimization**: Specialized hardware for slice processing.
 
-**Automated Slicing**: Compiler tools automatically slicing computation optimally.
+- **Automated Slicing**: Compiler tools automatically slicing computation optimally.
 
-**Cross-System Slicing**: Slicing across multiple proof systems and hardware accelerators.
+- **Cross-System Slicing**: Slicing across multiple proof systems and hardware accelerators.
 
 ## Career Opportunities
 
@@ -149,21 +149,21 @@ Proof systems create roles:
 
 Using slicing techniques:
 
-**Understand Boundaries**: Know slice boundaries and dependencies.
+- **Understand Boundaries**: Know slice boundaries and dependencies.
 
-**Verify Composition**: Ensure slice composition is secure.
+- **Verify Composition**: Ensure slice composition is secure.
 
-**Performance Testing**: Test slice performance at scale.
+- **Performance Testing**: Test slice performance at scale.
 
 ## The Future of Slicing
 
 Slicing evolution:
 
-**Better Composition**: More efficient composition mechanisms.
+- **Better Composition**: More efficient composition mechanisms.
 
-**Adaptive Slicing**: Dynamic slicing based on computation structure.
+- **Adaptive Slicing**: Dynamic slicing based on computation structure.
 
-**Hardware Optimization**: Specialized hardware for slice processing.
+- **Hardware Optimization**: Specialized hardware for slice processing.
 
 ## Scale Computation Through Slicing
 

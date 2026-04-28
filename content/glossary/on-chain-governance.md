@@ -15,15 +15,15 @@ On-Chain Governance refers to a governance model where protocol decisions are pr
 
 Typical flow:
 
-**Proposal Creation**: Token holder submits proposal (requires minimum token threshold).
+- **Proposal Creation**: Token holder submits proposal (requires minimum token threshold).
 
-**Discussion**: Community debates proposal in forums.
+- **Discussion**: Community debates proposal in forums.
 
-**Voting**: Token holders vote on-chain. Votes weighted by token holdings.
+- **Voting**: Token holders vote on-chain. Votes weighted by token holdings.
 
-**Quorum**: Proposal needs minimum participation to pass.
+- **Quorum**: Proposal needs minimum participation to pass.
 
-**Execution**: If passed, smart contract executes change after timelock.
+- **Execution**: If passed, smart contract executes change after timelock.
 
 On-chain governance is transparent and automated.
 
@@ -31,15 +31,15 @@ On-chain governance is transparent and automated.
 
 Common models:
 
-**Token-Weighted Voting**: One token equals one vote.
+- **Token-Weighted Voting**: One token equals one vote.
 
-**Quadratic Voting**: Voting power equals the square root of tokens, reducing whale power.
+- **Quadratic Voting**: Voting power equals the square root of tokens, reducing whale power.
 
-**Delegated Voting**: Holders delegate votes to representatives.
+- **Delegated Voting**: Holders delegate votes to representatives.
 
-**Time-Locked Voting**: Tokens must be locked to vote, preventing flash loan voting.
+- **Time-Locked Voting**: Tokens must be locked to vote, preventing flash loan voting.
 
-**Snapshot Voting**: Off-chain signaling, then on-chain execution.
+- **Snapshot Voting**: Off-chain signaling, then on-chain execution.
 
 Different mechanisms balance fairness and efficiency.
 
@@ -47,35 +47,35 @@ Different mechanisms balance fairness and efficiency.
 
 Benefits:
 
-**Transparency**: All votes and proposals are public.
+- **Transparency**: All votes and proposals are public.
 
-**Enforceability**: Execution is automatic once passed.
+- **Enforceability**: Execution is automatic once passed.
 
-**Legitimacy**: Community decision-making builds trust.
+- **Legitimacy**: Community decision-making builds trust.
 
-**Global Participation**: Anyone with tokens can participate.
+- **Global Participation**: Anyone with tokens can participate.
 
 Tradeoffs:
 
-**Voter Apathy**: Low participation weakens legitimacy.
+- **Voter Apathy**: Low participation weakens legitimacy.
 
-**Whale Dominance**: Large holders can control outcomes.
+- **Whale Dominance**: Large holders can control outcomes.
 
-**Governance Attacks**: Flash loans or bribery can manipulate votes.
+- **Governance Attacks**: Flash loans or bribery can manipulate votes.
 
-**Slow Process**: Governance can be slow, which is risky in emergencies.
+- **Slow Process**: Governance can be slow, which is risky in emergencies.
 
 ## Governance Attacks
 
 Threats:
 
-**Flash Loan Voting**: Borrow tokens to gain temporary voting power.
+- **Flash Loan Voting**: Borrow tokens to gain temporary voting power.
 
-**Bribery Markets**: Pay voters to support proposals.
+- **Bribery Markets**: Pay voters to support proposals.
 
-**Quorum Manipulation**: Attackers suppress quorum to block proposals.
+- **Quorum Manipulation**: Attackers suppress quorum to block proposals.
 
-**Malicious Proposals**: Attackers propose harmful changes.
+- **Malicious Proposals**: Attackers propose harmful changes.
 
 Safeguards are critical.
 
@@ -83,15 +83,15 @@ Safeguards are critical.
 
 Best practices:
 
-**Timelocks**: Delay between approval and execution.
+- **Timelocks**: Delay between approval and execution.
 
-**Guardian Veto**: Multisig veto power for emergencies.
+- **Guardian Veto**: Multisig veto power for emergencies.
 
-**Minimum Quorum**: Prevents low-participation decisions.
+- **Minimum Quorum**: Prevents low-participation decisions.
 
-**Delegation**: Increase informed participation.
+- **Delegation**: Increase informed participation.
 
-**Progressive Decentralization**: Gradually reduce admin control as protocol matures.
+- **Progressive Decentralization**: Gradually reduce admin control as protocol matures.
 
 Safeguards reduce risk.
 
@@ -99,13 +99,13 @@ Safeguards reduce risk.
 
 Protocols:
 
-**MakerDAO**: On-chain governance for collateral types and risk parameters.
+- **MakerDAO**: On-chain governance for collateral types and risk parameters.
 
-**Uniswap**: Community votes on fee and treasury changes.
+- **Uniswap**: Community votes on fee and treasury changes.
 
-**Aave**: On-chain governance for risk settings and upgrades.
+- **Aave**: On-chain governance for risk settings and upgrades.
 
-**Compound**: Token-weighted governance with timelocks.
+- **Compound**: Token-weighted governance with timelocks.
 
 On-chain governance is widely adopted.
 
@@ -125,25 +125,25 @@ Governance roles:
 
 Participating in governance:
 
-**Stay Informed**: Read proposals and forums.
+- **Stay Informed**: Read proposals and forums.
 
-**Delegate Wisely**: Choose informed delegates.
+- **Delegate Wisely**: Choose informed delegates.
 
-**Think Long-Term**: Avoid short-term incentives.
+- **Think Long-Term**: Avoid short-term incentives.
 
-**Monitor Security**: Support safeguards like timelocks.
+- **Monitor Security**: Support safeguards like timelocks.
 
 ## The Future of On-Chain Governance
 
 Trends:
 
-**Better Delegation**: More professional delegates.
+- **Better Delegation**: More professional delegates.
 
-**Identity Systems**: Combining token voting with reputation.
+- **Identity Systems**: Combining token voting with reputation.
 
-**AI Assistance**: Tools summarizing proposals.
+- **AI Assistance**: Tools summarizing proposals.
 
-**Composable Governance**: Inter-protocol governance coordination.
+- **Composable Governance**: Inter-protocol governance coordination.
 
 ## Enforce Decisions Transparently
 

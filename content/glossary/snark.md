@@ -15,17 +15,17 @@ SNARK refers to Succinct Non-Interactive Arguments of Knowledge, a cryptographic
 
 Cryptographic mechanics:
 
-**Arithmetization**: Convert computation into arithmetic circuit (gates computing operations).
+- **Arithmetization**: Convert computation into arithmetic circuit (gates computing operations).
 
-**Polynomial Encoding**: Encode circuit as polynomial where evaluations equal computation.
+- **Polynomial Encoding**: Encode circuit as polynomial where evaluations equal computation.
 
-**Interactive Proof**: Prover and verifier execute interaction proving computation.
+- **Interactive Proof**: Prover and verifier execute interaction proving computation.
 
-**Fiat-Shamir Heuristic**: Convert interactive proof to non-interactive by hashing.
+- **Fiat-Shamir Heuristic**: Convert interactive proof to non-interactive by hashing.
 
-**Proof Compression**: Use polynomial commitment schemes (KZG, FRI) compressing proof.
+- **Proof Compression**: Use polynomial commitment schemes (KZG, FRI) compressing proof.
 
-**Verification**: Verifier checks proof quickly using polynomial properties.
+- **Verification**: Verifier checks proof quickly using polynomial properties.
 
 Result: Small non-interactive proof verifiable in milliseconds.
 
@@ -33,17 +33,17 @@ Result: Small non-interactive proof verifiable in milliseconds.
 
 Critical process:
 
-**Ceremony**: Generate public parameters from random secret.
+- **Ceremony**: Generate public parameters from random secret.
 
-**Distributed**: Multiple parties participate ensuring no single entity knows secret.
+- **Distributed**: Multiple parties participate ensuring no single entity knows secret.
 
-**Permanence**: If ceremony secret leaked, attacker forges proofs.
+- **Permanence**: If ceremony secret leaked, attacker forges proofs.
 
-**Coordination**: Requires community coordination for credibility.
+- **Coordination**: Requires community coordination for credibility.
 
-**Ethereum 2.0 Trusted Setup**: Ethereum performed ceremony with many participants for Zcash parameters.
+- **Ethereum 2.0 Trusted Setup**: Ethereum performed ceremony with many participants for Zcash parameters.
 
-**Risks**: If ceremony compromised, protocol is broken. Requires faith in ceremony.
+- **Risks**: If ceremony compromised, protocol is broken. Requires faith in ceremony.
 
 Trusted setup is a major UX and security consideration.
 
@@ -51,15 +51,15 @@ Trusted setup is a major UX and security consideration.
 
 Real deployments:
 
-**Zcash**: Uses Sapling SNARKs for shielded transactions.
+- **Zcash**: Uses Sapling SNARKs for shielded transactions.
 
-**zkSync Era**: ZK rollup using custom SNARKs.
+- **zkSync Era**: ZK rollup using custom SNARKs.
 
-**Polygon Hermez**: ZK rollup using custom circuits for Ethereum scaling.
+- **Polygon Hermez**: ZK rollup using custom circuits for Ethereum scaling.
 
-**Aztec Network**: Privacy-focused rollup using SNARKs for confidential computation.
+- **Aztec Network**: Privacy-focused rollup using SNARKs for confidential computation.
 
-**StarkWare**: Cairo-based ZK system using STARKs (variant) for scalability.
+- **StarkWare**: Cairo-based ZK system using STARKs (variant) for scalability.
 
 SNARKs enable practical blockchain scaling and privacy.
 
@@ -83,15 +83,15 @@ Different tradeoffs suit different applications.
 
 Implementation challenges:
 
-**Circuit Design**: Writing circuits for complex computation is hard. Requires cryptographic expertise.
+- **Circuit Design**: Writing circuits for complex computation is hard. Requires cryptographic expertise.
 
-**Parameter Generation**: Trusted setup is a complex ceremony. Coordination overhead.
+- **Parameter Generation**: Trusted setup is a complex ceremony. Coordination overhead.
 
-**Proving Time**: Generating proofs can be slow for complex circuits. Faster hardware helps but is expensive.
+- **Proving Time**: Generating proofs can be slow for complex circuits. Faster hardware helps but is expensive.
 
-**Verification Contracts**: On-chain verifiers must be efficient. Large verification contracts can be expensive.
+- **Verification Contracts**: On-chain verifiers must be efficient. Large verification contracts can be expensive.
 
-**Tooling**: Limited tooling for SNARK development. Steep learning curve.
+- **Tooling**: Limited tooling for SNARK development. Steep learning curve.
 
 SNARK development is a specialized skill requiring expertise.
 
@@ -115,29 +115,29 @@ SNARKs create roles:
 
 Using SNARKs:
 
-**Audit Circuits**: Verify circuit correctness before production.
+- **Audit Circuits**: Verify circuit correctness before production.
 
-**Ceremony Participation**: If a ceremony is held, participate or verify participation.
+- **Ceremony Participation**: If a ceremony is held, participate or verify participation.
 
-**Trusted Setup Trust**: Understand risks of trusted setup. Accept ceremony as trustworthy.
+- **Trusted Setup Trust**: Understand risks of trusted setup. Accept ceremony as trustworthy.
 
-**Parameter Security**: Securely store circuit parameters.
+- **Parameter Security**: Securely store circuit parameters.
 
-**Prover Efficiency**: Test proving time. Specialized hardware may be needed.
+- **Prover Efficiency**: Test proving time. Specialized hardware may be needed.
 
 ## The Future of SNARKs
 
 SNARK evolution:
 
-**Transparent SNARKs**: Removing trusted setup through new constructions.
+- **Transparent SNARKs**: Removing trusted setup through new constructions.
 
-**Recursion**: Proving proof verification enabling infinite proofs.
+- **Recursion**: Proving proof verification enabling infinite proofs.
 
-**Faster Proving**: GPU and ASIC acceleration making proving practical.
+- **Faster Proving**: GPU and ASIC acceleration making proving practical.
 
-**Hardware Support**: Specialized hardware for proof generation.
+- **Hardware Support**: Specialized hardware for proof generation.
 
-**Standardization**: Industry standards for SNARK circuits and parameters.
+- **Standardization**: Industry standards for SNARK circuits and parameters.
 
 ## Compress Computation Cryptographically
 

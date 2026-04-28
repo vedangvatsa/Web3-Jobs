@@ -97,59 +97,59 @@ The victim loses value to the sandwich, the searcher takes profit minus their bu
 
 The MEV supply chain distributes value across its participants:
 
-**Searchers**: Capture a portion of gross MEV after paying builders, depending on competition and bundle quality. Elite searchers with proprietary strategies capture more; commodity arbitrage yields less.
+- **Searchers**: Capture a portion of gross MEV after paying builders, depending on competition and bundle quality. Elite searchers with proprietary strategies capture more; commodity arbitrage yields less.
 
-**Builders**: Capture a margin between the value they receive from searchers and the bids they pay to proposers. Margins have compressed as builder competition intensified.
+- **Builders**: Capture a margin between the value they receive from searchers and the bids they pay to proposers. Margins have compressed as builder competition intensified.
 
-**Relays**: Charge minimal fees or operate as public goods. Some relays charge subscription fees instead.
+- **Relays**: Charge minimal fees or operate as public goods. Some relays charge subscription fees instead.
 
-**Proposers**: Capture a significant portion of gross MEV through competitive builder bids, boosting validator returns beyond base issuance and priority fees.
+- **Proposers**: Capture a significant portion of gross MEV through competitive builder bids, boosting validator returns beyond base issuance and priority fees.
 
-**Users (Victims)**: Lose value to MEV extraction, especially in sandwich attacks.
+- **Users (Victims)**: Lose value to MEV extraction, especially in sandwich attacks.
 
 ## Evolution of the MEV Supply Chain
 
 The MEV supply chain has evolved significantly:
 
-**2019-2020**: Simple two-party model, searchers directly bribe miners via gas auctions, leading to network congestion and inefficiency.
+- **2019-2020**: Simple two-party model, searchers directly bribe miners via gas auctions, leading to network congestion and inefficiency.
 
-**2021**: Flashbots launches MEV-Geth, introducing bundles and off-chain auctions, significantly improving efficiency and reducing spam.
+- **2021**: Flashbots launches MEV-Geth, introducing bundles and off-chain auctions, significantly improving efficiency and reducing spam.
 
-**2022**: PBS architecture is formalized, relays are introduced, and MEV-Boost is launched. Builder role professionalizes with dedicated entities.
+- **2022**: PBS architecture is formalized, relays are introduced, and MEV-Boost is launched. Builder role professionalizes with dedicated entities.
 
-**2023-2024**: Builder market consolidates, relay diversity increases, and order flow auctions emerge. Privacy and censorship concerns intensify.
+- **2023-2024**: Builder market consolidates, relay diversity increases, and order flow auctions emerge. Privacy and censorship concerns intensify.
 
-**2025-2026**: In-protocol PBS proposals mature, enshrined builder selection moves on-chain, and cross-domain MEV emerges as a new frontier.
+- **2025-2026**: In-protocol PBS proposals mature, enshrined builder selection moves on-chain, and cross-domain MEV emerges as a new frontier.
 
 ## Concerns and Criticisms
 
 The MEV supply chain faces several criticisms:
 
-**Builder Centralization**: A small number of builders control a significant portion of blocks, creating censorship risks. OFAC-compliant builders may censor transactions from sanctioned addresses.
+- **Builder Centralization**: A small number of builders control a significant portion of blocks, creating censorship risks. OFAC-compliant builders may censor transactions from sanctioned addresses.
 
-**Relay Trust Assumptions**: Relays are trusted intermediaries that could collude with builders or proposers, steal MEV, or censor transactions.
+- **Relay Trust Assumptions**: Relays are trusted intermediaries that could collude with builders or proposers, steal MEV, or censor transactions.
 
-**User Harm**: The supply chain efficiently extracts value from users, particularly in sandwich attacks.
+- **User Harm**: The supply chain efficiently extracts value from users, particularly in sandwich attacks.
 
-**Complexity and Opacity**: The multi-party system is opaque to regular users who do not understand why their transactions are being reordered or why they are receiving worse prices.
+- **Complexity and Opacity**: The multi-party system is opaque to regular users who do not understand why their transactions are being reordered or why they are receiving worse prices.
 
-**Validator Inequality**: Sophisticated stakers can run their own builders/relays to capture more MEV, while home stakers rely on public infrastructure and capture less.
+- **Validator Inequality**: Sophisticated stakers can run their own builders/relays to capture more MEV, while home stakers rely on public infrastructure and capture less.
 
-**Systemic Risk**: The entire block production process depends on a small number of entities (builders and relays), creating single points of failure.
+- **Systemic Risk**: The entire block production process depends on a small number of entities (builders and relays), creating single points of failure.
 
 ## Career Opportunities in the MEV Supply Chain
 
 The MEV ecosystem has created specialized roles:
 
-**MEV Searchers**: Build and operate MEV extraction bots, requiring deep DeFi knowledge, algorithmic trading skills, and smart contract expertise.
+- **MEV Searchers**: Build and operate MEV extraction bots, requiring deep DeFi knowledge, algorithmic trading skills, and smart contract expertise.
 
-**Block Builder Engineers**: Design and optimize block construction algorithms, manage searcher relationships, and operate high-performance infrastructure.
+- **Block Builder Engineers**: Design and optimize block construction algorithms, manage searcher relationships, and operate high-performance infrastructure.
 
-**Relay Operators**: Run and maintain relay infrastructure, implement validation logic, and ensure uptime and censorship resistance.
+- **Relay Operators**: Run and maintain relay infrastructure, implement validation logic, and ensure uptime and censorship resistance.
 
-**MEV Researchers**: Study MEV markets, propose protocol improvements, model game-theoretic incentives, and design user protection mechanisms.
+- **MEV Researchers**: Study MEV markets, propose protocol improvements, model game-theoretic incentives, and design user protection mechanisms.
 
-**Smart Contract Auditors (MEV Focus)**: Audit MEV-related smart contracts for security vulnerabilities and economic exploits.
+- **Smart Contract Auditors (MEV Focus)**: Audit MEV-related smart contracts for security vulnerabilities and economic exploits.
 
 This field rewards deep technical knowledge and rapid execution.
 
@@ -157,31 +157,31 @@ This field rewards deep technical knowledge and rapid execution.
 
 Users and protocols can take steps to reduce MEV exposure:
 
-**Use Private Mempools**: Submit transactions to services that hide transactions from public searchers.
+- **Use Private Mempools**: Submit transactions to services that hide transactions from public searchers.
 
-**Choose MEV-Protected RPCs**: Use RPC endpoints that route to MEV-protected builders or encrypt transaction content.
+- **Choose MEV-Protected RPCs**: Use RPC endpoints that route to MEV-protected builders or encrypt transaction content.
 
-**Avoid Large Public Market Orders**: Break large trades into smaller pieces or use TWAP execution to reduce sandwich profitability.
+- **Avoid Large Public Market Orders**: Break large trades into smaller pieces or use TWAP execution to reduce sandwich profitability.
 
-**Use MEV-Resistant Protocols**: Use DEXs with built-in MEV protection.
+- **Use MEV-Resistant Protocols**: Use DEXs with built-in MEV protection.
 
-**Time Transactions Carefully**: Execute during low-volatility periods when arbitrage opportunities are smaller.
+- **Time Transactions Carefully**: Execute during low-volatility periods when arbitrage opportunities are smaller.
 
-**Understand Slippage Settings**: Tight slippage tolerance prevents large sandwiches but increases failure risk; find the right balance.
+- **Understand Slippage Settings**: Tight slippage tolerance prevents large sandwiches but increases failure risk; find the right balance.
 
 ## The Future of the MEV Supply Chain
 
 The MEV supply chain continues to evolve:
 
-**Enshrined PBS**: Moving builder selection on-chain to reduce relay trust assumptions and improve censorship resistance.
+- **Enshrined PBS**: Moving builder selection on-chain to reduce relay trust assumptions and improve censorship resistance.
 
-**Inclusion Lists**: Allowing proposers to force inclusion of certain transactions, preventing builder censorship.
+- **Inclusion Lists**: Allowing proposers to force inclusion of certain transactions, preventing builder censorship.
 
-**MEV Redistribution**: Protocols that redistribute proposer MEV rewards across all validators to reduce inequality.
+- **MEV Redistribution**: Protocols that redistribute proposer MEV rewards across all validators to reduce inequality.
 
-**Cross-Domain MEV**: Extending the supply chain to cover L2 rollups, app chains, and cross-chain MEV opportunities.
+- **Cross-Domain MEV**: Extending the supply chain to cover L2 rollups, app chains, and cross-chain MEV opportunities.
 
-**Encrypted Mempools**: Threshold encryption and time-lock puzzles to hide transaction content until after ordering, reducing front-running.
+- **Encrypted Mempools**: Threshold encryption and time-lock puzzles to hide transaction content until after ordering, reducing front-running.
 
 The supply chain that emerges from these innovations will shape Ethereum's decentralization and fairness for years to come.
 

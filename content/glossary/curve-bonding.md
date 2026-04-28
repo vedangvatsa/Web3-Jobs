@@ -15,15 +15,15 @@ Curve bonding is a DeFi mechanism where tokens are minted and burned according t
 
 How it works:
 
-**Curve Formula**: Price = f(supply). Price increases with supply.
+- **Curve Formula**: Price = f(supply). Price increases with supply.
 
-**Buying**: Send reserve, receive tokens. Supply increases. Price increases.
+- **Buying**: Send reserve, receive tokens. Supply increases. Price increases.
 
-**Selling**: Send tokens, receive reserve. Supply decreases. Price decreases.
+- **Selling**: Send tokens, receive reserve. Supply decreases. Price decreases.
 
-**Spread**: Buy price > sell price (spread = slippage).
+- **Spread**: Buy price > sell price (spread = slippage).
 
-**Automatic**: Price discovery and market making automatic.
+- **Automatic**: Price discovery and market making automatic.
 
 Bonding curves enable autonomous pricing and market making.
 
@@ -31,13 +31,13 @@ Bonding curves enable autonomous pricing and market making.
 
 Different formulas:
 
-**Linear**: Price = a × supply + b. Price increases linearly.
+- **Linear**: Price = a × supply + b. Price increases linearly.
 
-**Quadratic**: Price = a × supply² + b. Price accelerates.
+- **Quadratic**: Price = a × supply² + b. Price accelerates.
 
-**Exponential**: Price = a × e^(b × supply). Price accelerates fast.
+- **Exponential**: Price = a × e^(b × supply). Price accelerates fast.
 
-**Sigmoid**: Price sigmoid curve. Slow start, then acceleration, then plateau.
+- **Sigmoid**: Price sigmoid curve. Slow start, then acceleration, then plateau.
 
 Different curves have different dynamics.
 
@@ -45,13 +45,13 @@ Different curves have different dynamics.
 
 Use cases:
 
-**Token Fundraising**: Continuous fundraising. Early supporters get cheaper tokens.
+- **Token Fundraising**: Continuous fundraising. Early supporters get cheaper tokens.
 
-**Protocol Token**: Some protocols use bonding curves for token distribution.
+- **Protocol Token**: Some protocols use bonding curves for token distribution.
 
-**Community Currency**: Local currencies using bonding curves.
+- **Community Currency**: Local currencies using bonding curves.
 
-**Polkadot Parachains**: Parachain slots bonded through curves.
+- **Polkadot Parachains**: Parachain slots bonded through curves.
 
 Bonding curves are suitable for certain applications.
 
@@ -59,13 +59,13 @@ Bonding curves are suitable for certain applications.
 
 Benefits:
 
-**No Liquidity Needed**: No liquidity providers needed. Curve provides.
+- **No Liquidity Needed**: No liquidity providers needed. Curve provides.
 
-**Continuous**: Can buy/sell anytime at curve price.
+- **Continuous**: Can buy/sell anytime at curve price.
 
-**Predictable**: Price determined by curve formula.
+- **Predictable**: Price determined by curve formula.
 
-**Alignment**: Early supporters incentivized. Early = cheaper tokens.
+- **Alignment**: Early supporters incentivized. Early = cheaper tokens.
 
 Bonding curves have beneficial properties.
 
@@ -73,15 +73,15 @@ Bonding curves have beneficial properties.
 
 Issues:
 
-**Slippage**: Buy/sell spread = slippage.
+- **Slippage**: Buy/sell spread = slippage.
 
-**Pricing Risk**: If curve poorly designed, tokens might be overpriced.
+- **Pricing Risk**: If curve poorly designed, tokens might be overpriced.
 
-**Volatility**: Volatile token prices due to curve.
+- **Volatility**: Volatile token prices due to curve.
 
-**Liquidity**: Limited liquidity. Large orders face slippage.
+- **Liquidity**: Limited liquidity. Large orders face slippage.
 
-**Abandonment Risk**: If community abandons token, price drops.
+- **Abandonment Risk**: If community abandons token, price drops.
 
 Bonding curves have associated risks.
 
@@ -101,27 +101,27 @@ Token economics creates roles:
 
 Designing bonding curves:
 
-**Test Extensively**: Simulate curve behavior under various conditions.
+- **Test Extensively**: Simulate curve behavior under various conditions.
 
-**Pricing**: Ensure curve pricing is reasonable for token value.
+- **Pricing**: Ensure curve pricing is reasonable for token value.
 
-**Community Alignment**: Align curve incentives with community.
+- **Community Alignment**: Align curve incentives with community.
 
-**Transparency**: Clearly communicate curve mechanics.
+- **Transparency**: Clearly communicate curve mechanics.
 
-**Governance**: Allow governance to adjust curve if needed.
+- **Governance**: Allow governance to adjust curve if needed.
 
 ## The Future of Bonding Curves
 
 Evolution:
 
-**Dynamic Curves**: Curves adjusting based on market conditions.
+- **Dynamic Curves**: Curves adjusting based on market conditions.
 
-**Multi-Token**: Bonding curves for multiple tokens.
+- **Multi-Token**: Bonding curves for multiple tokens.
 
-**Options**: Options on bonding curve tokens.
+- **Options**: Options on bonding curve tokens.
 
-**Cross-Curve**: Tokens bonded across multiple curves.
+- **Cross-Curve**: Tokens bonded across multiple curves.
 
 ## Token Economics Through Curves
 

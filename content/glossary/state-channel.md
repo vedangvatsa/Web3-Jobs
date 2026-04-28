@@ -15,15 +15,15 @@ State Channel refers to an off-chain scaling solution that enables multiple tran
 
 How they work:
 
-**Setup**: Alice and Bob lock funds in a smart contract. A multisig wallet requires both to spend.
+- **Setup**: Alice and Bob lock funds in a smart contract. A multisig wallet requires both to spend.
 
-**Off-Chain Updates**: Alice and Bob exchange signed updates to state (balances) off-chain.
+- **Off-Chain Updates**: Alice and Bob exchange signed updates to state (balances) off-chain.
 
-**Settlement**: Updates are stored off-chain. Only final settlement is posted to the chain.
+- **Settlement**: Updates are stored off-chain. Only final settlement is posted to the chain.
 
-**Closing**: When the channel closes, the final state is posted to the blockchain. The winner proves the latest signed state.
+- **Closing**: When the channel closes, the final state is posted to the blockchain. The winner proves the latest signed state.
 
-**Dispute**: If either party posts an old state, the other party can dispute with a newer signed state.
+- **Dispute**: If either party posts an old state, the other party can dispute with a newer signed state.
 
 State channels use cryptographic signatures for instant settlement.
 
@@ -44,15 +44,15 @@ Thousands of transactions can happen with only 2 on-chain transactions.
 
 Popular state channel implementation:
 
-**Bitcoin's Layer 2**: Enables fast Bitcoin payments without blockchain.
+- **Bitcoin's Layer 2**: Enables fast Bitcoin payments without blockchain.
 
-**Payments**: Send Bitcoin instantly through a network of channels.
+- **Payments**: Send Bitcoin instantly through a network of channels.
 
-**Routing**: Payments are routed through multiple channels (Alice → Charlie → Bob).
+- **Routing**: Payments are routed through multiple channels (Alice → Charlie → Bob).
 
-**Advantages**: Instant, cheap payments. Atomic routing.
+- **Advantages**: Instant, cheap payments. Atomic routing.
 
-**Challenges**: Limited to simple payments. Channel balancing is required.
+- **Challenges**: Limited to simple payments. Channel balancing is required.
 
 Lightning is the most successful state channel deployment.
 
@@ -75,15 +75,15 @@ State channels are for payments; rollups are for general computation.
 
 Obstacles:
 
-**Capital Efficiency**: Funds are locked in channels. Not as efficient as other solutions.
+- **Capital Efficiency**: Funds are locked in channels. Not as efficient as other solutions.
 
-**Channel Balancing**: If Alice sends to Bob continuously, the channel becomes imbalanced. Rebalancing is required.
+- **Channel Balancing**: If Alice sends to Bob continuously, the channel becomes imbalanced. Rebalancing is required.
 
-**Watchtowers**: Need to monitor the channel. Being offline means vulnerability to old state disputes.
+- **Watchtowers**: Need to monitor the channel. Being offline means vulnerability to old state disputes.
 
-**Latency for New Parties**: Opening a channel requires an on-chain transaction. New payments take time.
+- **Latency for New Parties**: Opening a channel requires an on-chain transaction. New payments take time.
 
-**Complex Computation**: Hard to implement complex smart contracts in state channels.
+- **Complex Computation**: Hard to implement complex smart contracts in state channels.
 
 State channels work best for simple, frequent payments between known parties.
 
@@ -91,15 +91,15 @@ State channels work best for simple, frequent payments between known parties.
 
 Safety considerations:
 
-**Signature Verification**: All state updates are cryptographically signed. State cannot be forged.
+- **Signature Verification**: All state updates are cryptographically signed. State cannot be forged.
 
-**Dispute Mechanism**: If an old state is posted, a newer state can override it. Trust the most recent state.
+- **Dispute Mechanism**: If an old state is posted, a newer state can override it. Trust the most recent state.
 
-**Watchtowers**: Services monitor channels for old state disputes. They are compensated for monitoring.
+- **Watchtowers**: Services monitor channels for old state disputes. They are compensated for monitoring.
 
-**Timelocks**: Disputes have a timelock preventing indefinite disputes.
+- **Timelocks**: Disputes have a timelock preventing indefinite disputes.
 
-**Multi-Party Channels**: Can extend to more than 2 parties. More complex but possible.
+- **Multi-Party Channels**: Can extend to more than 2 parties. More complex but possible.
 
 State channels are secure if properly implemented.
 
@@ -121,29 +121,29 @@ State channels create roles:
 
 Using state channels:
 
-**Choose Established Networks**: The Lightning Network is the most mature. Stick with proven systems.
+- **Choose Established Networks**: The Lightning Network is the most mature. Stick with proven systems.
 
-**Adequate Liquidity**: Ensure sufficient channel liquidity for expected transactions.
+- **Adequate Liquidity**: Ensure sufficient channel liquidity for expected transactions.
 
-**Monitor Channels**: Use watchtowers if not monitoring yourself.
+- **Monitor Channels**: Use watchtowers if not monitoring yourself.
 
-**Backup States**: Keep a backup of channel state. Losing state means losing access.
+- **Backup States**: Keep a backup of channel state. Losing state means losing access.
 
-**Gradual Adoption**: Start with small amounts while learning the system.
+- **Gradual Adoption**: Start with small amounts while learning the system.
 
 ## The Future of State Channels
 
 Channel evolution:
 
-**Improved UX**: Tools making channel management easier.
+- **Improved UX**: Tools making channel management easier.
 
-**Cross-Chain Channels**: Channels spanning multiple blockchains.
+- **Cross-Chain Channels**: Channels spanning multiple blockchains.
 
-**Generalized Channels**: Extending beyond payments to general state transitions.
+- **Generalized Channels**: Extending beyond payments to general state transitions.
 
-**Layer 2 Interoperability**: Channels interoperating with rollups for a seamless experience.
+- **Layer 2 Interoperability**: Channels interoperating with rollups for a seamless experience.
 
-**Enterprise Adoption**: State channels for enterprise payments.
+- **Enterprise Adoption**: State channels for enterprise payments.
 
 ## Enable Fast, Cheap Transactions
 

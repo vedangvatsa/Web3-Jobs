@@ -15,13 +15,13 @@ Chain Reorganization refers to an event where a blockchain replaces a sequence o
 
 Process:
 
-**Competing Blocks**: Two blocks mined at the same height.
+- **Competing Blocks**: Two blocks mined at the same height.
 
-**Fork**: Network temporarily splits between branches.
+- **Fork**: Network temporarily splits between branches.
 
-**Longest Chain Rule**: Chain with more work or weight becomes canonical.
+- **Longest Chain Rule**: Chain with more work or weight becomes canonical.
 
-**Reorg**: Transactions from the losing branch are removed.
+- **Reorg**: Transactions from the losing branch are removed.
 
 Reorgs are consensus-driven.
 
@@ -29,11 +29,11 @@ Reorgs are consensus-driven.
 
 Risk depends on depth:
 
-**1-2 Blocks**: Common and low risk.
+- **1-2 Blocks**: Common and low risk.
 
-**6+ Blocks**: Rare and costly; indicate attack or major network issues.
+- **6+ Blocks**: Rare and costly; indicate attack or major network issues.
 
-**Deep Reorg**: Can reverse large value transactions.
+- **Deep Reorg**: Can reverse large value transactions.
 
 Depth is a proxy for finality risk.
 
@@ -41,13 +41,13 @@ Depth is a proxy for finality risk.
 
 Common causes:
 
-**Network Latency**: Slow propagation of blocks.
+- **Network Latency**: Slow propagation of blocks.
 
-**Mining Competition**: Simultaneous block discoveries.
+- **Mining Competition**: Simultaneous block discoveries.
 
-**Attacks**: A 51% attack can cause deliberate reorgs.
+- **Attacks**: A 51% attack can cause deliberate reorgs.
 
-**Client Bugs**: Consensus client bugs causing divergence.
+- **Client Bugs**: Consensus client bugs causing divergence.
 
 Reorgs can be accidental or malicious.
 
@@ -55,11 +55,11 @@ Reorgs can be accidental or malicious.
 
 Finality relationship:
 
-**Probabilistic Finality**: Reorg risk decreases over time.
+- **Probabilistic Finality**: Reorg risk decreases over time.
 
-**Absolute Finality**: In PoS systems, finalized blocks should not reorg unless slashing occurs.
+- **Absolute Finality**: In PoS systems, finalized blocks should not reorg unless slashing occurs.
 
-**Waiting Period**: Exchanges wait multiple confirmations to reduce reorg risk.
+- **Waiting Period**: Exchanges wait multiple confirmations to reduce reorg risk.
 
 Finality defines safe confirmation windows.
 
@@ -67,13 +67,13 @@ Finality defines safe confirmation windows.
 
 Consequences:
 
-**Reversed Payments**: Transactions might be reversed.
+- **Reversed Payments**: Transactions might be reversed.
 
-**Double Spends**: Reorgs can enable double-spend attacks.
+- **Double Spends**: Reorgs can enable double-spend attacks.
 
-**Exchange Risk**: Exchanges require more confirmations to mitigate risk.
+- **Exchange Risk**: Exchanges require more confirmations to mitigate risk.
 
-**DeFi Risk**: Protocols may be vulnerable during reorgs.
+- **DeFi Risk**: Protocols may be vulnerable during reorgs.
 
 Reorg risk affects settlement certainty.
 
@@ -81,13 +81,13 @@ Reorg risk affects settlement certainty.
 
 Reducing risk:
 
-**Wait for Finality**: More confirmations for higher value transfers.
+- **Wait for Finality**: More confirmations for higher value transfers.
 
-**Monitor Network**: Track reorg depth in real time.
+- **Monitor Network**: Track reorg depth in real time.
 
-**Use Finality Tools**: L2s rely on L1 finality.
+- **Use Finality Tools**: L2s rely on L1 finality.
 
-**Slashing**: PoS slashing discourages deep reorgs.
+- **Slashing**: PoS slashing discourages deep reorgs.
 
 ## Career Opportunities
 
@@ -103,21 +103,21 @@ Consensus roles:
 
 Handling reorgs:
 
-**Confirmations**: Increase confirmation thresholds for high-value transfers.
+- **Confirmations**: Increase confirmation thresholds for high-value transfers.
 
-**Monitoring**: Use reorg monitoring tools.
+- **Monitoring**: Use reorg monitoring tools.
 
-**Fallbacks**: Design apps to handle reorgs gracefully.
+- **Fallbacks**: Design apps to handle reorgs gracefully.
 
 ## The Future of Reorg Mitigation
 
 Trends:
 
-**Faster Finality**: PoS systems reduce reorg risk.
+- **Faster Finality**: PoS systems reduce reorg risk.
 
-**Stronger Incentives**: Better economic penalties against reorgs.
+- **Stronger Incentives**: Better economic penalties against reorgs.
 
-**Monitoring Tooling**: Improved reorg detection.
+- **Monitoring Tooling**: Improved reorg detection.
 
 ## Manage Finality Risk
 

@@ -15,15 +15,15 @@ Cryptoeconomics is the interdisciplinary field that combines cryptographic secur
 
 Elements:
 
-**Cryptography**: Ensures security, authenticity, non-repudiation.
+- **Cryptography**: Ensures security, authenticity, non-repudiation.
 
-**Economics**: Incentivizes honest participation through rewards and penalties.
+- **Economics**: Incentivizes honest participation through rewards and penalties.
 
-**Game Theory**: Analyzes strategic interactions between participants.
+- **Game Theory**: Analyzes strategic interactions between participants.
 
-**Mechanism Design**: Designs mechanisms achieving desired outcomes.
+- **Mechanism Design**: Designs mechanisms achieving desired outcomes.
 
-**Token Design**: Token allocation, distribution, and burn mechanisms.
+- **Token Design**: Token allocation, distribution, and burn mechanisms.
 
 Cryptoeconomics combines multiple disciplines.
 
@@ -31,15 +31,15 @@ Cryptoeconomics combines multiple disciplines.
 
 Real implementations:
 
-**Bitcoin**: Miners earn block rewards and fees. They are incentivized to secure the network.
+- **Bitcoin**: Miners earn block rewards and fees. They are incentivized to secure the network.
 
-**Ethereum**: Validators earn staking rewards and face slashing penalties for dishonesty.
+- **Ethereum**: Validators earn staking rewards and face slashing penalties for dishonesty.
 
-**Compound**: Users earn COMP tokens for supplying or borrowing, driving protocol adoption.
+- **Compound**: Users earn COMP tokens for supplying or borrowing, driving protocol adoption.
 
-**Uniswap**: Liquidity providers earn trading fees, incentivizing them to provide liquidity.
+- **Uniswap**: Liquidity providers earn trading fees, incentivizing them to provide liquidity.
 
-**Yearn**: YFI holders earn protocol revenue, aligning incentives.
+- **Yearn**: YFI holders earn protocol revenue, aligning incentives.
 
 Every protocol has cryptoeconomic design.
 
@@ -47,15 +47,15 @@ Every protocol has cryptoeconomic design.
 
 Key principles:
 
-**Incentive Alignment**: Participants' interests aligned with the protocol's. Honest participation is most profitable.
+- **Incentive Alignment**: Participants' interests aligned with the protocol's. Honest participation is most profitable.
 
-**Sybil Resistance**: It is difficult to create fake identities, making attacks expensive.
+- **Sybil Resistance**: It is difficult to create fake identities, making attacks expensive.
 
-**Stake at Risk**: Participants must risk capital, ensuring they have skin in the game.
+- **Stake at Risk**: Participants must risk capital, ensuring they have skin in the game.
 
-**Verifiability**: Honest behavior is verifiable, and dishonesty is detectable.
+- **Verifiability**: Honest behavior is verifiable, and dishonesty is detectable.
 
-**Scalability**: Incentives work at any scale without requiring centralized coordination.
+- **Scalability**: Incentives work at any scale without requiring centralized coordination.
 
 Good cryptoeconomic design creates self-sustaining systems.
 
@@ -63,15 +63,15 @@ Good cryptoeconomic design creates self-sustaining systems.
 
 Token design aspect:
 
-**Supply**: Total supply and issuance mechanics.
+- **Supply**: Total supply and issuance mechanics.
 
-**Distribution**: Initial allocation and ongoing distribution.
+- **Distribution**: Initial allocation and ongoing distribution.
 
-**Demand**: Factors driving token demand, such as voting, revenue share, and scarcity.
+- **Demand**: Factors driving token demand, such as voting, revenue share, and scarcity.
 
-**Incentives**: How tokens incentivize desired behaviors.
+- **Incentives**: How tokens incentivize desired behaviors.
 
-**Economics**: The economics of the token as an investment or utility.
+- **Economics**: The economics of the token as an investment or utility.
 
 Token economics must support protocol incentives.
 
@@ -79,17 +79,17 @@ Token economics must support protocol incentives.
 
 What goes wrong:
 
-**Perverse Incentives**: Incentives can encourage bad behavior instead of good. For example, if validators earn more from dishonesty than honesty, they will be dishonest.
+- **Perverse Incentives**: Incentives can encourage bad behavior instead of good. For example, if validators earn more from dishonesty than honesty, they will be dishonest.
 
-**Sybil Attacks**: If identity creation is cheap, an attacker can create many fake identities to attack the network.
+- **Sybil Attacks**: If identity creation is cheap, an attacker can create many fake identities to attack the network.
 
-**Validator Centralization**: If staking requirements are too high, only a few can validate, leading to centralization.
+- **Validator Centralization**: If staking requirements are too high, only a few can validate, leading to centralization.
 
-**Token Debasement**: If new token issuance is too high relative to demand, token value can collapse.
+- **Token Debasement**: If new token issuance is too high relative to demand, token value can collapse.
 
-**Exit Scams**: If a team can exit with treasury funds, incentives may be misaligned.
+- **Exit Scams**: If a team can exit with treasury funds, incentives may be misaligned.
 
-**Coordination Failures**: If all participants independently choose rational actions, the outcome may be suboptimal.
+- **Coordination Failures**: If all participants independently choose rational actions, the outcome may be suboptimal.
 
 Poor cryptoeconomic design leads to observable failures.
 
@@ -97,13 +97,13 @@ Poor cryptoeconomic design leads to observable failures.
 
 What works:
 
-**Bitcoin**: Mining economics work; expensive ASICs deter attacks while profitable mining attracts security providers.
+- **Bitcoin**: Mining economics work; expensive ASICs deter attacks while profitable mining attracts security providers.
 
-**Ethereum**: Staking economics are effective; validators earn rewards, and slashing penalties deter attacks.
+- **Ethereum**: Staking economics are effective; validators earn rewards, and slashing penalties deter attacks.
 
-**Uniswap**: The fee structure aligns liquidity providers with protocol success.
+- **Uniswap**: The fee structure aligns liquidity providers with protocol success.
 
-**Lido**: Liquid staking economics work; customers avoid queues while Lido operators earn service fees.
+- **Lido**: Liquid staking economics work; customers avoid queues while Lido operators earn service fees.
 
 Successful systems have aligned incentives.
 
@@ -111,19 +111,19 @@ Successful systems have aligned incentives.
 
 How to approach:
 
-**1. Define Goals**: Determine desired behaviors, such as honest validation or liquidity provision.
+- **1. Define Goals**: Determine desired behaviors, such as honest validation or liquidity provision.
 
-**2. Identify Participants**: Identify who participates, including miners, validators, traders, and liquidity providers.
+- **2. Identify Participants**: Identify who participates, including miners, validators, traders, and liquidity providers.
 
-**3. Design Incentives**: Create a reward and penalty structure that aligns behavior with goals.
+- **3. Design Incentives**: Create a reward and penalty structure that aligns behavior with goals.
 
-**4. Analyze Game Theory**: Model strategic interactions and identify weaknesses.
+- **4. Analyze Game Theory**: Model strategic interactions and identify weaknesses.
 
-**5. Run Simulations**: Simulate the system under various conditions and test edge cases.
+- **5. Run Simulations**: Simulate the system under various conditions and test edge cases.
 
-**6. Empirical Testing**: Deploy on a testnet, analyze actual behavior, and compare it to the model.
+- **6. Empirical Testing**: Deploy on a testnet, analyze actual behavior, and compare it to the model.
 
-**7. Adjust**: Tweak parameters based on empirical results.
+- **7. Adjust**: Tweak parameters based on empirical results.
 
 Cryptoeconomic design is an iterative process.
 
@@ -131,15 +131,15 @@ Cryptoeconomic design is an iterative process.
 
 How to analyze:
 
-**Game Theory Analysis**: Model strategic interactions mathematically.
+- **Game Theory Analysis**: Model strategic interactions mathematically.
 
-**Simulation**: Run simulations with varying parameters and observe outcomes.
+- **Simulation**: Run simulations with varying parameters and observe outcomes.
 
-**Empirical Analysis**: Analyze actual protocol data to understand incentives in practice.
+- **Empirical Analysis**: Analyze actual protocol data to understand incentives in practice.
 
-**Stress Testing**: Test under adversarial conditions to see if incentives hold.
+- **Stress Testing**: Test under adversarial conditions to see if incentives hold.
 
-**Agent-Based Modeling**: Create simulated agents and run scenarios.
+- **Agent-Based Modeling**: Create simulated agents and run scenarios.
 
 Cryptoeconomic analysis is a quantitative discipline.
 
@@ -161,29 +161,29 @@ Cryptoeconomics creates roles:
 
 Designing cryptoeconomic systems:
 
-**Align Incentives**: Ensure honest behavior is the most profitable.
+- **Align Incentives**: Ensure honest behavior is the most profitable.
 
-**Sybil Resistance**: Make attacks expensive and detectable.
+- **Sybil Resistance**: Make attacks expensive and detectable.
 
-**Stake Requirements**: Participants must risk capital.
+- **Stake Requirements**: Participants must risk capital.
 
-**Verify Behavior**: Ensure good behavior is verifiable and bad behavior is detectable.
+- **Verify Behavior**: Ensure good behavior is verifiable and bad behavior is detectable.
 
-**Regular Analysis**: Continuously analyze if incentives are working as designed.
+- **Regular Analysis**: Continuously analyze if incentives are working as designed.
 
 ## The Future of Cryptoeconomics
 
 Evolution:
 
-**Sophisticated Incentives**: More nuanced incentive mechanisms.
+- **Sophisticated Incentives**: More nuanced incentive mechanisms.
 
-**Cross-Protocol Incentives**: Incentives coordinating across protocols.
+- **Cross-Protocol Incentives**: Incentives coordinating across protocols.
 
-**Governance Incentives**: Improved governance incentive design.
+- **Governance Incentives**: Improved governance incentive design.
 
-**Sustainable Incentives**: Transitioning from unsustainable token rewards to sustainable revenue models.
+- **Sustainable Incentives**: Transitioning from unsustainable token rewards to sustainable revenue models.
 
-**Empirical Understanding**: Enhanced understanding of real-world incentive behavior.
+- **Empirical Understanding**: Enhanced understanding of real-world incentive behavior.
 
 ## Align Incentives Cryptographically
 

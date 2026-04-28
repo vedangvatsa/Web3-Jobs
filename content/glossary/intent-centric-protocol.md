@@ -77,55 +77,55 @@ This entire process happens transparently and typically completes in seconds to 
 
 Intent-centric systems offer numerous advantages over traditional transaction-based models:
 
-**Superior Execution Quality**: Solver competition ensures users get the best possible price, route, and execution.
+- **Superior Execution Quality**: Solver competition ensures users get the best possible price, route, and execution.
 
-**MEV Protection**: Intents don't specify exact execution paths, preventing front-running and sandwich attacks. Solvers coordinate off-chain, eliminating public mempool exposure.
+- **MEV Protection**: Intents don't specify exact execution paths, preventing front-running and sandwich attacks. Solvers coordinate off-chain, eliminating public mempool exposure.
 
-**Cross-Chain Abstraction**: Users can express cross-chain intents without understanding bridges, wrapped tokens, or multi-step processes.
+- **Cross-Chain Abstraction**: Users can express cross-chain intents without understanding bridges, wrapped tokens, or multi-step processes.
 
-**Complexity Abstraction**: Users don't need to understand DEX routing, gas optimization, or optimal execution; solvers handle all complexity.
+- **Complexity Abstraction**: Users don't need to understand DEX routing, gas optimization, or optimal execution; solvers handle all complexity.
 
-**Batch Execution**: Multiple compatible intents can be batched together for better prices through coincidence of wants.
+- **Batch Execution**: Multiple compatible intents can be batched together for better prices through coincidence of wants.
 
-**Failed Transaction Protection**: Users only pay if the intent succeeds; failed attempts don't cost gas fees.
+- **Failed Transaction Protection**: Users only pay if the intent succeeds; failed attempts don't cost gas fees.
 
-**Programmatic Guarantees**: Intents can include sophisticated logic (if-then conditions, time constraints, price limits) that solvers must respect.
+- **Programmatic Guarantees**: Intents can include sophisticated logic (if-then conditions, time constraints, price limits) that solvers must respect.
 
-**Reduced Gas Costs**: Batching and optimal routing reduce per-user gas costs compared to individual transactions.
+- **Reduced Gas Costs**: Batching and optimal routing reduce per-user gas costs compared to individual transactions.
 
 ## Major Intent-Centric Projects
 
 Several significant projects are building intent-centric infrastructure:
 
-**CoW Swap**: One of the earliest intent-based DEX aggregators, using batch auctions and Coincidence of Wants to match trades.
+- **CoW Swap**: One of the earliest intent-based DEX aggregators, using batch auctions and Coincidence of Wants to match trades.
 
-**Anoma**: Building a full intent-centric blockchain where intents are the fundamental primitive.
+- **Anoma**: Building a full intent-centric blockchain where intents are the fundamental primitive.
 
-**SUAVE (Flashbots)**: A decentralized intent layer aiming to coordinate intents across all chains and domains.
+- **SUAVE (Flashbots)**: A decentralized intent layer aiming to coordinate intents across all chains and domains.
 
-**Essential**: Intent-based smart contract platform with declarative programming model, allowing developers to build entire dApps around intents.
+- **Essential**: Intent-based smart contract platform with declarative programming model, allowing developers to build entire dApps around intents.
 
-**1inch Fusion**: Intent-based swap protocol using "resolvers" to fulfill user swap intents with competitive execution.
+- **1inch Fusion**: Intent-based swap protocol using "resolvers" to fulfill user swap intents with competitive execution.
 
-**UniswapX**: Uniswap's intent-based protocol allowing cross-chain swaps and MEV-protected execution.
+- **UniswapX**: Uniswap's intent-based protocol allowing cross-chain swaps and MEV-protected execution.
 
-**Khalani**: Intent-based settlement layer for cross-chain operations with native solver marketplace.
+- **Khalani**: Intent-based settlement layer for cross-chain operations with native solver marketplace.
 
 ## Career Opportunities in Intent-Centric Systems
 
 The intent-centric ecosystem is creating new specialized roles:
 
-**Intent Protocol Engineers**: Design and implement intent-based protocols, including intent languages, auction mechanisms, and settlement logic.
+- **Intent Protocol Engineers**: Design and implement intent-based protocols, including intent languages, auction mechanisms, and settlement logic.
 
-**Solver Engineers**: Build and operate solver infrastructure, including route optimization algorithms, multi-chain execution, and capital management.
+- **Solver Engineers**: Build and operate solver infrastructure, including route optimization algorithms, multi-chain execution, and capital management.
 
-**Mechanism Design Researchers**: Design auction mechanisms, solver incentives, and game-theoretic frameworks for intent marketplaces.
+- **Mechanism Design Researchers**: Design auction mechanisms, solver incentives, and game-theoretic frameworks for intent marketplaces.
 
-**Cross-Chain Infrastructure Engineers**: Build infrastructure for atomic cross-chain intent settlement, bridging, and verification.
+- **Cross-Chain Infrastructure Engineers**: Build infrastructure for atomic cross-chain intent settlement, bridging, and verification.
 
-**Intent UX Designers**: Design user interfaces for intent creation, making complex operations simple and intuitive for end users.
+- **Intent UX Designers**: Design user interfaces for intent creation, making complex operations simple and intuitive for end users.
 
-**Cryptographic Engineers**: Implement privacy-preserving intent submission, ZK proofs for intent fulfillment, and encrypted solver communication.
+- **Cryptographic Engineers**: Implement privacy-preserving intent submission, ZK proofs for intent fulfillment, and encrypted solver communication.
 
 This field combines expertise in MEV, cross-chain protocols, mechanism design, and distributed systems.
 

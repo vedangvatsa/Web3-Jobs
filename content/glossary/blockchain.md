@@ -26,39 +26,39 @@ The network maintains consensus about which version of the blockchain is correct
 
 ## Key Characteristics
 
-**Decentralization**: Instead of a single authority controlling the database, copies are distributed across multiple nodes in the network. This eliminates single points of failure and reduces censorship risks. No central entity can unilaterally alter records or shut down the system. Even if some nodes fail, the network continues operating as long as enough nodes remain active.
+- **Decentralization**: Instead of a single authority controlling the database, copies are distributed across multiple nodes in the network. This eliminates single points of failure and reduces censorship risks. No central entity can unilaterally alter records or shut down the system. Even if some nodes fail, the network continues operating as long as enough nodes remain active.
 
-**Transparency**: All participants can view the entire transaction history. While users can remain pseudonymous, all transactions are publicly verifiable on most blockchains. This creates auditability; anyone can trace the movement of assets from their creation to the present day. This transparency extends to smart contract code, which is typically open source and verifiable.
+- **Transparency**: All participants can view the entire transaction history. While users can remain pseudonymous, all transactions are publicly verifiable on most blockchains. This creates auditability; anyone can trace the movement of assets from their creation to the present day. This transparency extends to smart contract code, which is typically open source and verifiable.
 
-**Immutability**: Once data is recorded in a block and confirmed by the network, it becomes extremely difficult to alter. This creates a permanent, auditable record. The computational cost and network consensus required to change historical blocks make retroactive modifications practically impossible on established networks.
+- **Immutability**: Once data is recorded in a block and confirmed by the network, it becomes extremely difficult to alter. This creates a permanent, auditable record. The computational cost and network consensus required to change historical blocks make retroactive modifications practically impossible on established networks.
 
-**Security**: Blockchain uses cryptographic techniques to secure data. The combination of hashing, decentralization, and consensus mechanisms makes unauthorized changes practically impossible. Public-key cryptography ensures that only the holder of a private key can authorize transactions from their address.
+- **Security**: Blockchain uses cryptographic techniques to secure data. The combination of hashing, decentralization, and consensus mechanisms makes unauthorized changes practically impossible. Public-key cryptography ensures that only the holder of a private key can authorize transactions from their address.
 
 ## Real-World Applications
 
 Blockchains power cryptocurrency systems like Bitcoin and Ethereum, where they maintain records of who owns which digital assets. Beyond finance, blockchains are being deployed across industries:
 
-**Supply Chain**: Companies track products from manufacture to delivery, creating verifiable provenance records. This combats counterfeiting and provides consumers with transparency about product origins.
+- **Supply Chain**: Companies track products from manufacture to delivery, creating verifiable provenance records. This combats counterfeiting and provides consumers with transparency about product origins.
 
-**Healthcare**: Medical records can be stored on blockchains, securing patient data while allowing authorized access by healthcare providers. Patients maintain control over who can view their records.
+- **Healthcare**: Medical records can be stored on blockchains, securing patient data while allowing authorized access by healthcare providers. Patients maintain control over who can view their records.
 
-**Digital Identity**: Self-sovereign identity systems let individuals control their own credentials without relying on centralized authorities. This has implications for everything from online authentication to refugee identification.
+- **Digital Identity**: Self-sovereign identity systems let individuals control their own credentials without relying on centralized authorities. This has implications for everything from online authentication to refugee identification.
 
-**Smart Contracts**: Automated agreements execute without intermediaries when predetermined conditions are met. This enables complex financial instruments, escrow services, and governance systems.
+- **Smart Contracts**: Automated agreements execute without intermediaries when predetermined conditions are met. This enables complex financial instruments, escrow services, and governance systems.
 
-**NFTs**: Proving ownership and authenticity of digital assets, from artwork to in-game items. Blockchain provides an immutable ownership history that cannot be forged.
+- **NFTs**: Proving ownership and authenticity of digital assets, from artwork to in-game items. Blockchain provides an immutable ownership history that cannot be forged.
 
-**Real Estate**: Property titles and deeds can be recorded on-chain, streamlining transfers and reducing fraud in real estate transactions.
+- **Real Estate**: Property titles and deeds can be recorded on-chain, streamlining transfers and reducing fraud in real estate transactions.
 
 ## Types of Blockchains
 
-**Public Blockchains**: Open to anyone (Bitcoin, Ethereum). Fully decentralized with no access restrictions. Anyone can run a node, submit transactions, or participate in consensus. These offer maximum censorship resistance but face scalability challenges.
+- **Public Blockchains**: Open to anyone (Bitcoin, Ethereum). Fully decentralized with no access restrictions. Anyone can run a node, submit transactions, or participate in consensus. These offer maximum censorship resistance but face scalability challenges.
 
-**Private Blockchains**: Restricted access, controlled by specific organizations. Used by enterprises for internal processes where they want blockchain's benefits without full public transparency. Banks and supply chain consortiums often use private blockchains.
+- **Private Blockchains**: Restricted access, controlled by specific organizations. Used by enterprises for internal processes where they want blockchain's benefits without full public transparency. Banks and supply chain consortiums often use private blockchains.
 
-**Consortium Blockchains**: Hybrid approach where a group of organizations jointly manage the network. Offers more decentralization than private blockchains while maintaining some access control. Common in industry collaborations.
+- **Consortium Blockchains**: Hybrid approach where a group of organizations jointly manage the network. Offers more decentralization than private blockchains while maintaining some access control. Common in industry collaborations.
 
-**Hybrid Blockchains**: Combine public and private elements, allowing selective transparency. Some data remains private while key transactions are recorded on public chains for verification.
+- **Hybrid Blockchains**: Combine public and private elements, allowing selective transparency. Some data remains private while key transactions are recorded on public chains for verification.
 
 ## Technical Deep Dive
 
@@ -74,14 +74,14 @@ Blockchain technology has created a new method for trust in digital systems. Ins
 
 The blockchain job market encompasses:
 
-**Blockchain Developers**: Building and maintaining distributed ledger systems, requiring expertise in cryptography, consensus algorithms, and distributed systems.
+- **Blockchain Developers**: Building and maintaining distributed ledger systems, requiring expertise in cryptography, consensus algorithms, and distributed systems.
 
-**Smart Contract Engineers**: Writing and auditing code that runs on blockchains, particularly on platforms like Ethereum.
+- **Smart Contract Engineers**: Writing and auditing code that runs on blockchains, particularly on platforms like Ethereum.
 
-**Protocol Developers**: Working on core blockchain infrastructure, improving scalability, security, and functionality.
+- **Protocol Developers**: Working on core blockchain infrastructure, improving scalability, security, and functionality.
 
-**Blockchain Architects**: Designing blockchain solutions for enterprises, determining when blockchain adds value versus traditional databases.
+- **Blockchain Architects**: Designing blockchain solutions for enterprises, determining when blockchain adds value versus traditional databases.
 
-**Security Researchers**: Finding vulnerabilities in blockchain protocols and smart contracts before attackers do.
+- **Security Researchers**: Finding vulnerabilities in blockchain protocols and smart contracts before attackers do.
 
 As blockchain technology matures, it is moving beyond cryptocurrency into mainstream enterprise adoption. Understanding blockchain fundamentals has become valuable across technical and business roles in the digital economy.

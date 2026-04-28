@@ -25,25 +25,25 @@ When someone interacts with a smart contract, they send a transaction to the blo
 
 ## Real-World Use Cases
 
-**Decentralized Finance (DeFi)**: Smart contracts power lending protocols, automated market makers, and yield farming platforms. Users can borrow, lend, or trade assets without banks or brokers.
+- **Decentralized Finance (DeFi)**: Smart contracts power lending protocols, automated market makers, and yield farming platforms. Users can borrow, lend, or trade assets without banks or brokers.
 
-**NFT Marketplaces**: Smart contracts mint NFTs, enforce royalty payments to creators, and handle sales between buyers and sellers automatically.
+- **NFT Marketplaces**: Smart contracts mint NFTs, enforce royalty payments to creators, and handle sales between buyers and sellers automatically.
 
-**Supply Chain**: Contracts can release payments when goods reach specific checkpoints, verified through oracle data feeds.
+- **Supply Chain**: Contracts can release payments when goods reach specific checkpoints, verified through oracle data feeds.
 
-**Gaming**: In-game assets and rewards can be distributed automatically based on player achievements, with ownership recorded on-chain.
+- **Gaming**: In-game assets and rewards can be distributed automatically based on player achievements, with ownership recorded on-chain.
 
-**Insurance**: Parametric insurance contracts can automatically pay out claims when triggering events occur, such as flight delays verified by oracles.
+- **Insurance**: Parametric insurance contracts can automatically pay out claims when triggering events occur, such as flight delays verified by oracles.
 
 ## Benefits and Limitations
 
-**Advantages**:
+- **Advantages**:
 - Removes intermediaries, reducing costs and settlement times.
 - Transparent and auditable code that anyone can verify.
 - No single point of failure or control.
 - Operates 24/7 without downtime.
 
-**Challenges**:
+- **Challenges**:
 - Code bugs can lead to security vulnerabilities and lost funds.
 - Once deployed, errors are difficult or impossible to fix.
 - Execution costs (gas fees) can be high during network congestion.
@@ -63,15 +63,15 @@ When someone interacts with a smart contract, they send a transaction to the blo
 
 Smart contract security requires different thinking than traditional software. Code runs in an adversarial environment where every user is a potential attacker. Common vulnerabilities include:
 
-**Reentrancy**: When a contract calls an external contract, that external contract can call back into the original contract before the first execution completes. The famous DAO hack in 2016 exploited reentrancy to drain funds. The checks-effects-interactions pattern prevents this.
+- **Reentrancy**: When a contract calls an external contract, that external contract can call back into the original contract before the first execution completes. The famous DAO hack in 2016 exploited reentrancy to drain funds. The checks-effects-interactions pattern prevents this.
 
-**Integer Overflow/Underflow**: Before Solidity 0.8.0, arithmetic operations could wrap around. Multiplying large numbers or subtracting from zero could produce unexpected results. Modern Solidity includes automatic overflow checks.
+- **Integer Overflow/Underflow**: Before Solidity 0.8.0, arithmetic operations could wrap around. Multiplying large numbers or subtracting from zero could produce unexpected results. Modern Solidity includes automatic overflow checks.
 
-**Access Control Failures**: Improperly restricted functions let unauthorized users execute privileged operations. The Parity Multi-Sig wallet hack occurred when a critical function lacked access controls, allowing unauthorized ownership.
+- **Access Control Failures**: Improperly restricted functions let unauthorized users execute privileged operations. The Parity Multi-Sig wallet hack occurred when a critical function lacked access controls, allowing unauthorized ownership.
 
-**Front-Running**: Since transactions sit in the mempool before execution, attackers can see pending trades and insert their own transactions first by paying higher gas. MEV (Maximal Extractable Value) bots scan for profitable front-running opportunities.
+- **Front-Running**: Since transactions sit in the mempool before execution, attackers can see pending trades and insert their own transactions first by paying higher gas. MEV (Maximal Extractable Value) bots scan for profitable front-running opportunities.
 
-**Oracle Manipulation**: Protocols relying on external data need secure oracle integrations. Flash loan attacks often manipulate price feeds to drain protocols.
+- **Oracle Manipulation**: Protocols relying on external data need secure oracle integrations. Flash loan attacks often manipulate price feeds to drain protocols.
 
 Smart contract audits by firms like Trail of Bits, OpenZeppelin, and Consensys Diligence help prevent catastrophic losses. Formal verification, mathematically proving contract correctness, provides even stronger guarantees but remains expensive and time-consuming.
 
@@ -79,33 +79,33 @@ Smart contract audits by firms like Trail of Bits, OpenZeppelin, and Consensys D
 
 Professional smart contract development includes comprehensive testing:
 
-**Unit Tests**: Test individual functions in isolation. Hardhat and Foundry provide testing frameworks that simulate blockchain environments.
+- **Unit Tests**: Test individual functions in isolation. Hardhat and Foundry provide testing frameworks that simulate blockchain environments.
 
-**Integration Tests**: Verify contract interactions and system-wide behavior.
+- **Integration Tests**: Verify contract interactions and system-wide behavior.
 
-**Fuzzing**: Generate random inputs to discover edge cases and unexpected behaviors.
+- **Fuzzing**: Generate random inputs to discover edge cases and unexpected behaviors.
 
-**Mainnet Forking**: Test against mainnet state to ensure compatibility with existing protocols.
+- **Mainnet Forking**: Test against mainnet state to ensure compatibility with existing protocols.
 
 Deployment strategies include:
 
-**Testnet Deployment**: Deploy to Goerli, Sepolia, or other test networks to verify behavior without risking real funds.
+- **Testnet Deployment**: Deploy to Goerli, Sepolia, or other test networks to verify behavior without risking real funds.
 
-**Gradual Rollout**: Start with deposit caps and gradually increase limits as confidence grows.
+- **Gradual Rollout**: Start with deposit caps and gradually increase limits as confidence grows.
 
-**Bug Bounties**: Offer rewards for finding vulnerabilities before malicious actors do. Immunefi hosts bug bounty programs.
+- **Bug Bounties**: Offer rewards for finding vulnerabilities before malicious actors do. Immunefi hosts bug bounty programs.
 
 ## Gas Optimization
 
 Every smart contract operation costs gas. Developers optimize gas usage through:
 
-**Storage Efficiency**: Storage is expensive. Packing multiple variables into single storage slots saves gas. Using memory instead of storage for temporary data reduces costs.
+- **Storage Efficiency**: Storage is expensive. Packing multiple variables into single storage slots saves gas. Using memory instead of storage for temporary data reduces costs.
 
-**Batch Operations**: Processing multiple items in one transaction amortizes overhead costs.
+- **Batch Operations**: Processing multiple items in one transaction amortizes overhead costs.
 
-**Minimal Logic**: Moving calculations off-chain when possible reduces on-chain computation.
+- **Minimal Logic**: Moving calculations off-chain when possible reduces on-chain computation.
 
-**Efficient Data Structures**: Using mappings instead of arrays for lookups improves performance.
+- **Efficient Data Structures**: Using mappings instead of arrays for lookups improves performance.
 
 Gas-optimized contracts save users money and enable use cases that would be prohibitively expensive otherwise.
 
@@ -117,12 +117,12 @@ Popular platforms for smart contract development include Ethereum, Binance Smart
 
 Career paths include:
 
-**Smart Contract Developer**: Building protocols, dApps, and infrastructure.
+- **Smart Contract Developer**: Building protocols, dApps, and infrastructure.
 
-**Security Auditor**: Reviewing code for vulnerabilities.
+- **Security Auditor**: Reviewing code for vulnerabilities.
 
-**Protocol Engineer**: Designing tokenomics, governance systems, and protocol architecture.
+- **Protocol Engineer**: Designing tokenomics, governance systems, and protocol architecture.
 
-**DeFi Specialist**: Building financial primitives, lending, derivatives, yield strategies.
+- **DeFi Specialist**: Building financial primitives, lending, derivatives, yield strategies.
 
 The field rewards continuous learning. New attack vectors emerge constantly, and security best practices evolve. Successful smart contract developers combine programming skill, cryptographic knowledge, economic incentive analysis, and security awareness.

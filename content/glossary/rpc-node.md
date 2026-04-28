@@ -39,19 +39,19 @@ RPC nodes handle numerous requests daily, with response times typically ranging 
 
 Different blockchains expose different RPC methods, but Ethereum's JSON-RPC specification is widely adopted. Common methods include:
 
-**Reading Blockchain State**:
+- **Reading Blockchain State**:
 - `eth_blockNumber`: Get the latest block number.
 - `eth_getBalance`: Get an account's ETH balance.
 - `eth_getTransactionByHash`: Retrieve transaction details.
 - `eth_call`: Execute a smart contract function without submitting a transaction (read-only).
 - `eth_getLogs`: Query event logs from smart contracts.
 
-**Sending Transactions**:
+- **Sending Transactions**:
 - `eth_sendRawTransaction`: Submit a signed transaction to the network.
 - `eth_estimateGas`: Estimate the gas required for a transaction.
 - `eth_gasPrice`: Get the current recommended gas price.
 
-**Network Information**:
+- **Network Information**:
 - `eth_chainId`: Get the chain ID (1 for Ethereum mainnet, 137 for Polygon, etc.).
 - `net_version`: Get the network ID.
 - `web3_clientVersion`: Get information about the node client.
@@ -62,13 +62,13 @@ These methods form the foundation of blockchain application development, enablin
 
 RPC infrastructure comes in several forms:
 
-**Full Nodes**: Store the complete blockchain history and can answer any query about any block or transaction. Require significant storage but provide complete data access.
+- **Full Nodes**: Store the complete blockchain history and can answer any query about any block or transaction. Require significant storage but provide complete data access.
 
-**Archive Nodes**: Like full nodes but also store historical state at every block, enabling queries like "what was this address's balance at block 10,000,000?" Archive nodes require even more storage.
+- **Archive Nodes**: Like full nodes but also store historical state at every block, enabling queries like "what was this address's balance at block 10,000,000?" Archive nodes require even more storage.
 
-**Light Clients**: Store only block headers and request data from full nodes as needed. Much lower resource requirements but rely on full nodes for data.
+- **Light Clients**: Store only block headers and request data from full nodes as needed. Much lower resource requirements but rely on full nodes for data.
 
-**Pruned Nodes**: Store only recent state (e.g., last 128 blocks) and discard old historical data to reduce storage requirements while still syncing new blocks.
+- **Pruned Nodes**: Store only recent state (e.g., last 128 blocks) and discard old historical data to reduce storage requirements while still syncing new blocks.
 
 Most commercial RPC providers run archive nodes to support the widest range of queries, while individual users typically run full or pruned nodes.
 
@@ -76,31 +76,31 @@ Most commercial RPC providers run archive nodes to support the widest range of q
 
 Several companies offer RPC infrastructure as a service:
 
-**Infura**: One of the earliest and most popular Ethereum RPC providers, offering a free tier and paid plans. Supports Ethereum, Polygon, Arbitrum, Optimism, and other EVM chains.
+- **Infura**: One of the earliest and most popular Ethereum RPC providers, offering a free tier and paid plans. Supports Ethereum, Polygon, Arbitrum, Optimism, and other EVM chains.
 
-**Alchemy**: Comprehensive blockchain development platform with RPC endpoints, enhanced APIs, and developer tools. Known for high reliability and performance. Offers a free tier.
+- **Alchemy**: Comprehensive blockchain development platform with RPC endpoints, enhanced APIs, and developer tools. Known for high reliability and performance. Offers a free tier.
 
-**QuickNode**: Multi-chain RPC provider with global infrastructure and add-ons for analytics, webhooks, and specialized APIs. Subscription-based pricing.
+- **QuickNode**: Multi-chain RPC provider with global infrastructure and add-ons for analytics, webhooks, and specialized APIs. Subscription-based pricing.
 
-**Ankr**: Decentralized RPC network with public free endpoints and premium paid options. Supports numerous blockchain networks.
+- **Ankr**: Decentralized RPC network with public free endpoints and premium paid options. Supports numerous blockchain networks.
 
-**Chainstack**: Enterprise-focused node infrastructure with managed nodes, elastic scaling, and compliance features.
+- **Chainstack**: Enterprise-focused node infrastructure with managed nodes, elastic scaling, and compliance features.
 
-**Public Endpoints**: Many chains operate free public RPC endpoints, though these often have rate limits and lower reliability.
+- **Public Endpoints**: Many chains operate free public RPC endpoints, though these often have rate limits and lower reliability.
 
 ## Why Applications Use RPC Providers
 
 Running your own blockchain node requires significant resources:
 
-**Infrastructure Costs**: Dedicated servers, fast SSDs, high bandwidth, and reliable uptime.
+- **Infrastructure Costs**: Dedicated servers, fast SSDs, high bandwidth, and reliable uptime.
 
-**Technical Complexity**: Node setup, synchronization, monitoring, security, and maintenance require expertise and ongoing attention.
+- **Technical Complexity**: Node setup, synchronization, monitoring, security, and maintenance require expertise and ongoing attention.
 
-**Sync Time**: Initial synchronization can take days to weeks depending on the blockchain and node type.
+- **Sync Time**: Initial synchronization can take days to weeks depending on the blockchain and node type.
 
-**Reliability**: Ensuring high uptime requires redundancy, monitoring, and rapid incident response.
+- **Reliability**: Ensuring high uptime requires redundancy, monitoring, and rapid incident response.
 
-**Multi-Chain Support**: Supporting multiple blockchains multiplies the cost and complexity.
+- **Multi-Chain Support**: Supporting multiple blockchains multiplies the cost and complexity.
 
 Commercial RPC providers amortize these costs across numerous customers, offering professionally-managed infrastructure at lower effective cost than self-hosting for most developers.
 
@@ -108,15 +108,15 @@ Commercial RPC providers amortize these costs across numerous customers, offerin
 
 Heavy reliance on commercial RPC providers creates several risks:
 
-**Censorship**: RPC providers could filter transactions from sanctioned addresses, preventing users from interacting with the blockchain.
+- **Censorship**: RPC providers could filter transactions from sanctioned addresses, preventing users from interacting with the blockchain.
 
-**Single Point of Failure**: If a major provider like Infura has an outage, many dApps can go down simultaneously.
+- **Single Point of Failure**: If a major provider like Infura has an outage, many dApps can go down simultaneously.
 
-**Data Manipulation**: A malicious RPC provider could return false data, though this is detectable if users verify on-chain.
+- **Data Manipulation**: A malicious RPC provider could return false data, though this is detectable if users verify on-chain.
 
-**Privacy Leakage**: RPC providers see all requests, potentially linking addresses to IP addresses and revealing sensitive information.
+- **Privacy Leakage**: RPC providers see all requests, potentially linking addresses to IP addresses and revealing sensitive information.
 
-**Vendor Lock-In**: Applications tightly integrated with provider-specific APIs face switching costs if they want to change providers or self-host.
+- **Vendor Lock-In**: Applications tightly integrated with provider-specific APIs face switching costs if they want to change providers or self-host.
 
 The blockchain community has increasingly recognized RPC centralization as a critical threat to decentralization, spurring efforts to develop alternative models.
 
@@ -124,15 +124,15 @@ The blockchain community has increasingly recognized RPC centralization as a cri
 
 Several projects are building decentralized alternatives to centralized RPC providers:
 
-**Pocket Network**: Decentralized RPC network where node operators are incentivized with POKT tokens to provide RPC services.
+- **Pocket Network**: Decentralized RPC network where node operators are incentivized with POKT tokens to provide RPC services.
 
-**Ankr Premium**: Hybrid model combining decentralized node network with professional infrastructure for enterprise reliability.
+- **Ankr Premium**: Hybrid model combining decentralized node network with professional infrastructure for enterprise reliability.
 
-**DRPC**: Decentralized RPC marketplace where users can discover and use community-operated nodes.
+- **DRPC**: Decentralized RPC marketplace where users can discover and use community-operated nodes.
 
-**Lava Network**: Modular blockchain for decentralized RPC and API access, with quality-of-service guarantees and permissionless participation.
+- **Lava Network**: Modular blockchain for decentralized RPC and API access, with quality-of-service guarantees and permissionless participation.
 
-**dRPC**: Protocol for routing RPC requests across multiple providers with automatic failover and load balancing.
+- **dRPC**: Protocol for routing RPC requests across multiple providers with automatic failover and load balancing.
 
 These solutions aim to provide the reliability of commercial providers with the censorship resistance and decentralization of running your own node.
 
@@ -146,13 +146,13 @@ For projects prioritizing decentralization or needing specialized access, runnin
 - Storage: 2-4 TB fast SSD
 - Network: Unlimited bandwidth, 10+ Mbps
 
-**Software Options**:
+- **Software Options**:
 - Geth (Go Ethereum): Most popular Ethereum client.
 - Erigon: High-performance Ethereum client with lower storage requirements.
 - Nethermind: .NET-based Ethereum client with archive node support.
 - Besu: Java-based Ethereum client with enterprise features.
 
-**Deployment Options**:
+- **Deployment Options**:
 - Bare metal server (highest performance).
 - Cloud VPS (AWS, DigitalOcean, Hetzner).
 - Docker containers (simplified deployment).
@@ -164,19 +164,19 @@ Initial sync can take 24-72 hours for a full node, or 1-2 weeks for an archive n
 
 RPC nodes require careful security configuration:
 
-**Access Control**: Restrict access to authorized IPs or use API keys to prevent abuse and unauthorized access.
+- **Access Control**: Restrict access to authorized IPs or use API keys to prevent abuse and unauthorized access.
 
-**Rate Limiting**: Implement request throttling to prevent DoS attacks and manage resource usage.
+- **Rate Limiting**: Implement request throttling to prevent DoS attacks and manage resource usage.
 
-**HTTPS/TLS**: Always use encrypted connections to prevent man-in-the-middle attacks and protect sensitive data.
+- **HTTPS/TLS**: Always use encrypted connections to prevent man-in-the-middle attacks and protect sensitive data.
 
-**Firewall Rules**: Block unnecessary ports and only expose RPC endpoints to necessary networks.
+- **Firewall Rules**: Block unnecessary ports and only expose RPC endpoints to necessary networks.
 
-**DDoS Protection**: Use services to absorb volumetric attacks.
+- **DDoS Protection**: Use services to absorb volumetric attacks.
 
-**Request Validation**: Sanitize inputs and validate requests to prevent malicious queries from crashing the node or leaking information.
+- **Request Validation**: Sanitize inputs and validate requests to prevent malicious queries from crashing the node or leaking information.
 
-**Monitoring**: Track request volumes, error rates, and resource usage to detect anomalies and potential attacks.
+- **Monitoring**: Track request volumes, error rates, and resource usage to detect anomalies and potential attacks.
 
 Misconfigured RPC nodes have been exploited to drain resources, extract sensitive data, or serve as attack vectors against other infrastructure.
 
@@ -184,15 +184,15 @@ Misconfigured RPC nodes have been exploited to drain resources, extract sensitiv
 
 The RPC infrastructure ecosystem creates several specialized roles:
 
-**Blockchain Infrastructure Engineers**: Build, deploy, and maintain RPC node infrastructure at scale, optimizing for performance, reliability, and cost.
+- **Blockchain Infrastructure Engineers**: Build, deploy, and maintain RPC node infrastructure at scale, optimizing for performance, reliability, and cost.
 
-**DevOps Engineers (Blockchain Focus)**: Manage node deployments, monitoring, alerting, and automation across multiple blockchain networks.
+- **DevOps Engineers (Blockchain Focus)**: Manage node deployments, monitoring, alerting, and automation across multiple blockchain networks.
 
-**Protocol Engineers**: Develop RPC client software, implement new JSON-RPC methods, and optimize node performance.
+- **Protocol Engineers**: Develop RPC client software, implement new JSON-RPC methods, and optimize node performance.
 
-**Site Reliability Engineers (SRE)**: Ensure high uptime for RPC services, implement disaster recovery, and manage incident response.
+- **Site Reliability Engineers (SRE)**: Ensure high uptime for RPC services, implement disaster recovery, and manage incident response.
 
-**Network Engineers**: Design and optimize network architecture for global RPC infrastructure, minimizing latency and maximizing throughput.
+- **Network Engineers**: Design and optimize network architecture for global RPC infrastructure, minimizing latency and maximizing throughput.
 
 RPC infrastructure work requires expertise in distributed systems, networking, blockchain protocols, and large-scale operations.
 
@@ -200,35 +200,35 @@ RPC infrastructure work requires expertise in distributed systems, networking, b
 
 When building applications that rely on RPC nodes:
 
-**Use Multiple Providers**: Implement fallback logic to switch between multiple RPC providers if one fails, improving reliability.
+- **Use Multiple Providers**: Implement fallback logic to switch between multiple RPC providers if one fails, improving reliability.
 
-**Cache Responses**: Cache blockchain data that doesn't change to reduce RPC requests and improve performance.
+- **Cache Responses**: Cache blockchain data that doesn't change to reduce RPC requests and improve performance.
 
-**Optimize Queries**: Use batch requests to fetch multiple pieces of data in one RPC call, reducing latency and request counts.
+- **Optimize Queries**: Use batch requests to fetch multiple pieces of data in one RPC call, reducing latency and request counts.
 
-**Monitor Usage**: Track your RPC usage to stay within free tier limits or optimize costs on paid plans.
+- **Monitor Usage**: Track your RPC usage to stay within free tier limits or optimize costs on paid plans.
 
-**Respect Rate Limits**: Implement exponential backoff and retry logic when rate limited.
+- **Respect Rate Limits**: Implement exponential backoff and retry logic when rate limited.
 
-**Use WebSockets for Events**: For real-time data, use WebSocket subscriptions rather than polling.
+- **Use WebSockets for Events**: For real-time data, use WebSocket subscriptions rather than polling.
 
-**Verify Critical Data**: For high-value operations, verify critical data against multiple independent sources.
+- **Verify Critical Data**: For high-value operations, verify critical data against multiple independent sources.
 
-**Consider Self-Hosting**: For production applications with significant usage, evaluate the cost-benefit of running your own nodes.
+- **Consider Self-Hosting**: For production applications with significant usage, evaluate the cost-benefit of running your own nodes.
 
 ## The Future of RPC Infrastructure
 
 RPC infrastructure continues to evolve:
 
-**Decentralized Networks**: Growth of decentralized RPC networks like Pocket and Lava, reducing reliance on centralized providers.
+- **Decentralized Networks**: Growth of decentralized RPC networks like Pocket and Lava, reducing reliance on centralized providers.
 
-**Light Client Renaissance**: Advances in light client technology enabling users to run low-resource clients that verify data trustlessly.
+- **Light Client Renaissance**: Advances in light client technology enabling users to run low-resource clients that verify data trustlessly.
 
-**RPC as a Protocol Layer**: Integration of RPC functionality into protocol design.
+- **RPC as a Protocol Layer**: Integration of RPC functionality into protocol design.
 
-**Privacy-Preserving RPC**: Mixnets, VPNs, and encrypted request routing to prevent RPC providers from tracking user activity.
+- **Privacy-Preserving RPC**: Mixnets, VPNs, and encrypted request routing to prevent RPC providers from tracking user activity.
 
-**Cross-Chain RPC Aggregation**: Unified interfaces that route requests to the appropriate blockchain, simplifying multi-chain development.
+- **Cross-Chain RPC Aggregation**: Unified interfaces that route requests to the appropriate blockchain, simplifying multi-chain development.
 
 The infrastructure layer will likely become more decentralized, performant, and privacy-preserving, reducing the centralization risks that exist today.
 

@@ -14,9 +14,9 @@ Token refers to a digital asset created on an existing blockchain platform throu
 
 ## Tokens vs Coins: Key Differences
 
-**Cryptocurrencies (Coins)**: Native to their own blockchain (BTC on Bitcoin, ETH on Ethereum, SOL on Solana). Used primarily for transactions and paying network fees.
+- **Cryptocurrencies (Coins)**: Native to their own blockchain (BTC on Bitcoin, ETH on Ethereum, SOL on Solana). Used primarily for transactions and paying network fees.
 
-**Tokens**: Built on existing blockchains using smart contracts. Can represent virtually anything, from company shares to voting rights to in-game items. Don't require building an entire blockchain infrastructure.
+- **Tokens**: Built on existing blockchains using smart contracts. Can represent virtually anything, from company shares to voting rights to in-game items. Don't require building an entire blockchain infrastructure.
 
 Creating a cryptocurrency requires launching a blockchain with nodes, consensus mechanisms, and network security. Creating a token requires deploying a smart contract, achievable in hours rather than months.
 
@@ -38,33 +38,33 @@ Each standard defines required functions and events, ensuring tokens work across
 
 ## Types of Tokens
 
-**Utility Tokens**: Provide access to products or services within a protocol. Filecoin (FIL) buys decentralized storage. Chainlink (LINK) pays for oracle services. BAT rewards Brave browser users. Utility tokens aren't investments but functional tools within ecosystems.
+- **Utility Tokens**: Provide access to products or services within a protocol. Filecoin (FIL) buys decentralized storage. Chainlink (LINK) pays for oracle services. BAT rewards Brave browser users. Utility tokens aren't investments but functional tools within ecosystems.
 
-**Governance Tokens**: Grant voting rights on protocol decisions. UNI (Uniswap), COMP (Compound), and MKR (Maker) holders vote on protocol upgrades, fee structures, and treasury spending. Distribute power among users rather than centralizing in development teams.
+- **Governance Tokens**: Grant voting rights on protocol decisions. UNI (Uniswap), COMP (Compound), and MKR (Maker) holders vote on protocol upgrades, fee structures, and treasury spending. Distribute power among users rather than centralizing in development teams.
 
-**Security Tokens**: Represent traditional securities (stocks, bonds, real estate) on blockchain. Subject to securities regulations. Offer programmable compliance, 24/7 trading, and fractional ownership.
+- **Security Tokens**: Represent traditional securities (stocks, bonds, real estate) on blockchain. Subject to securities regulations. Offer programmable compliance, 24/7 trading, and fractional ownership.
 
-**Stablecoins**: Pegged to external assets (usually USD). USDC and USDT are backed by dollar reserves. DAI maintains a $1 peg through algorithmic mechanisms. Essential for crypto trading without converting to fiat.
+- **Stablecoins**: Pegged to external assets (usually USD). USDC and USDT are backed by dollar reserves. DAI maintains a $1 peg through algorithmic mechanisms. Essential for crypto trading without converting to fiat.
 
-**Wrapped Tokens**: Represent assets from one blockchain on another. WBTC (Wrapped Bitcoin) brings Bitcoin to Ethereum for DeFi use. Maintains 1:1 backing with the original asset through custodians.
+- **Wrapped Tokens**: Represent assets from one blockchain on another. WBTC (Wrapped Bitcoin) brings Bitcoin to Ethereum for DeFi use. Maintains 1:1 backing with the original asset through custodians.
 
-**Social Tokens**: Represent creators, communities, or personal brands. Musicians issue tokens for exclusive content. Communities create tokens for membership benefits.
+- **Social Tokens**: Represent creators, communities, or personal brands. Musicians issue tokens for exclusive content. Communities create tokens for membership benefits.
 
-**Gaming Tokens**: In-game currencies and items as tradeable tokens. Players own assets, usable across games or sold on open markets. Axie Infinity's AXS/SLP, Decentraland's MANA, and The Sandbox's SAND are examples.
+- **Gaming Tokens**: In-game currencies and items as tradeable tokens. Players own assets, usable across games or sold on open markets. Axie Infinity's AXS/SLP, Decentraland's MANA, and The Sandbox's SAND are examples.
 
 ## Token Economics (Tokenomics)
 
 Token design determines project success. Key considerations:
 
-**Total Supply**: Fixed or inflationary. Affects scarcity and long-term value.
+- **Total Supply**: Fixed or inflationary. Affects scarcity and long-term value.
 
-**Distribution**: How tokens are allocated at launch. Common splits include team/advisors, investors, treasury, public sale, and ecosystem rewards. Heavily concentrated ownership creates centralization risks.
+- **Distribution**: How tokens are allocated at launch. Common splits include team/advisors, investors, treasury, public sale, and ecosystem rewards. Heavily concentrated ownership creates centralization risks.
 
-**Vesting Schedules**: Time-locks preventing immediate token sales. Team tokens often vest over 2-4 years. Prevents dumps that crash prices.
+- **Vesting Schedules**: Time-locks preventing immediate token sales. Team tokens often vest over 2-4 years. Prevents dumps that crash prices.
 
-**Utility and Value Accrual**: How tokens capture value. Transaction fees, protocol revenue sharing, or staking rewards. Tokens without clear utility struggle to maintain value.
+- **Utility and Value Accrual**: How tokens capture value. Transaction fees, protocol revenue sharing, or staking rewards. Tokens without clear utility struggle to maintain value.
 
-**Incentive Alignment**: Do tokenomics encourage beneficial behavior? DeFi protocols incentivize liquidity provision. Governance tokens encourage active participation.
+- **Incentive Alignment**: Do tokenomics encourage beneficial behavior? DeFi protocols incentivize liquidity provision. Governance tokens encourage active participation.
 
 Poor tokenomics have doomed many projects. Excessive team allocations, infinite inflation without burn mechanisms, or purely speculative value propositions often fail.
 
@@ -88,17 +88,17 @@ The deployment process:
 
 ## Token Distribution Methods
 
-**Initial Coin Offerings (ICOs)**: Public sales, mostly unregulated. Raised significant amounts but many were scams. Now largely replaced by regulated alternatives.
+- **Initial Coin Offerings (ICOs)**: Public sales, mostly unregulated. Raised significant amounts but many were scams. Now largely replaced by regulated alternatives.
 
-**Initial DEX Offerings (IDOs)**: Launch tokens on decentralized exchanges. More democratized access but still risky.
+- **Initial DEX Offerings (IDOs)**: Launch tokens on decentralized exchanges. More democratized access but still risky.
 
-**Airdrops**: Free token distribution to users, often rewarding early protocol adopters.
+- **Airdrops**: Free token distribution to users, often rewarding early protocol adopters.
 
-**Liquidity Mining**: Distribute tokens to users providing liquidity or using protocols. Incentivizes adoption but can attract mercenary capital.
+- **Liquidity Mining**: Distribute tokens to users providing liquidity or using protocols. Incentivizes adoption but can attract mercenary capital.
 
-**Token Sales (Private/Public)**: Selling tokens to investors pre-launch at discounted prices. Often includes vesting to prevent immediate selling.
+- **Token Sales (Private/Public)**: Selling tokens to investors pre-launch at discounted prices. Often includes vesting to prevent immediate selling.
 
-**Fair Launches**: No pre-mine or pre-sale. Everyone mines or earns tokens simultaneously. Bitcoin pioneered this model.
+- **Fair Launches**: No pre-mine or pre-sale. Everyone mines or earns tokens simultaneously. Bitcoin pioneered this model.
 
 ## Token Regulation and Securities Law
 
@@ -134,14 +134,14 @@ Migrations require users to exchange old tokens for new ones, creating friction 
 
 ## Career Opportunities
 
-**Tokenomics Designer**: Designs token economics, incentive structures, and distribution strategies. Combines economics, game theory, and crypto knowledge.
+- **Tokenomics Designer**: Designs token economics, incentive structures, and distribution strategies. Combines economics, game theory, and crypto knowledge.
 
-**Smart Contract Developer**: Builds token contracts, implements standards, audits code. Requires Solidity mastery and security awareness.
+- **Smart Contract Developer**: Builds token contracts, implements standards, audits code. Requires Solidity mastery and security awareness.
 
-**Token Analyst**: Evaluates token projects, analyzes tokenomics, provides investment research. Financial analysis skills plus crypto knowledge.
+- **Token Analyst**: Evaluates token projects, analyzes tokenomics, provides investment research. Financial analysis skills plus crypto knowledge.
 
-**Compliance Specialist**: Navigates token regulation, structures compliant offerings, liaises with regulators. Legal background valuable.
+- **Compliance Specialist**: Navigates token regulation, structures compliant offerings, liaises with regulators. Legal background valuable.
 
-**Token Growth Strategist**: Plans token distribution, manages airdrops, designs incentive programs. Marketing plus tokenomics understanding.
+- **Token Growth Strategist**: Plans token distribution, manages airdrops, designs incentive programs. Marketing plus tokenomics understanding.
 
 Tokens democratize access to capital formation and create programmable economic systems. Understanding token mechanics is fundamental to participating in Web3 economies, whether building projects or evaluating investments. The token model has transformed fundraising and community ownership, though regulatory evolution continues shaping the industry.

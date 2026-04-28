@@ -15,17 +15,17 @@ Stealth Address refers to a privacy mechanism that generates a unique, one-time 
 
 How they work:
 
-**Setup**: Receiver publishes stealth public key (separate from spending public key).
+- **Setup**: Receiver publishes stealth public key (separate from spending public key).
 
-**Payment**: Sender derives unique stealth address from receiver's stealth key and ephemeral secret.
+- **Payment**: Sender derives unique stealth address from receiver's stealth key and ephemeral secret.
 
-**Transaction**: Sender sends payment to stealth address.
+- **Transaction**: Sender sends payment to stealth address.
 
-**Ephemeral Key**: Sender includes ephemeral public key in transaction, needed for receiver to identify payment.
+- **Ephemeral Key**: Sender includes ephemeral public key in transaction, needed for receiver to identify payment.
 
-**Receiver**: Receiver computes shared secret from ephemeral key and spending key. Derives stealth address. Checks if received payment to that address. If yes, receives payment.
+- **Receiver**: Receiver computes shared secret from ephemeral key and spending key. Derives stealth address. Checks if received payment to that address. If yes, receives payment.
 
-**Unlinking**: Observer cannot link multiple stealth addresses to the same receiver.
+- **Unlinking**: Observer cannot link multiple stealth addresses to the same receiver.
 
 Stealth addresses enable unlinkable payments.
 
@@ -33,18 +33,18 @@ Stealth addresses enable unlinkable payments.
 
 Concrete example:
 
-**Receiver Setup**:
+- **Receiver Setup**:
 - Spending key: sk
 - Stealth key: spk (derived from sk)
 - Publishes: spk
 
-**Sender Payment**:
+- **Sender Payment**:
 - Generates ephemeral secret: r
 - Derives stealth address: hash(r * spk + receiver_identifier)
 - Sends 1 ETH to stealth address
 - Includes r (ephemeral public key) in transaction
 
-**Receiver Receives**:
+- **Receiver Receives**:
 - Scans transactions seeing ephemeral key r
 - Computes: hash(sk * r + receiver_identifier)
 - Checks if received ETH to this address
@@ -56,15 +56,15 @@ Observer sees multiple stealth addresses and cannot link them to the receiver.
 
 Benefits:
 
-**Payment Unlinking**: Observer cannot link multiple payments to the same wallet.
+- **Payment Unlinking**: Observer cannot link multiple payments to the same wallet.
 
-**Recipient Privacy**: Sender does not expose recipient address publicly.
+- **Recipient Privacy**: Sender does not expose recipient address publicly.
 
-**Address Reuse Prevention**: Each payment uses a new address, preventing address reuse dangers.
+- **Address Reuse Prevention**: Each payment uses a new address, preventing address reuse dangers.
 
-**Lightweight**: No heavy computation required, unlike zk-proofs.
+- **Lightweight**: No heavy computation required, unlike zk-proofs.
 
-**Scalable**: Can implement at application layer without protocol changes.
+- **Scalable**: Can implement at application layer without protocol changes.
 
 Stealth addresses are a practical privacy tool.
 
@@ -72,15 +72,15 @@ Stealth addresses are a practical privacy tool.
 
 Obstacles:
 
-**Scanning**: Receiver must scan blockchain identifying their stealth addresses, which incurs computational cost.
+- **Scanning**: Receiver must scan blockchain identifying their stealth addresses, which incurs computational cost.
 
-**Metadata**: Transaction metadata (sender, amount, time) is still visible.
+- **Metadata**: Transaction metadata (sender, amount, time) is still visible.
 
-**Linking Receiver**: If the receiver sends payment, sender address is linkable.
+- **Linking Receiver**: If the receiver sends payment, sender address is linkable.
 
-**Adoption**: Requires sender and receiver to use the same implementation.
+- **Adoption**: Requires sender and receiver to use the same implementation.
 
-**Privacy-Aware Design**: Users must understand how to get benefits.
+- **Privacy-Aware Design**: Users must understand how to get benefits.
 
 Stealth addresses provide privacy but not complete anonymity.
 
@@ -88,13 +88,13 @@ Stealth addresses provide privacy but not complete anonymity.
 
 Real stealth addresses:
 
-**RingCT**: Monero uses stealth addresses and ring signatures for privacy.
+- **RingCT**: Monero uses stealth addresses and ring signatures for privacy.
 
-**Confidential Transactions**: Hide transaction amounts.
+- **Confidential Transactions**: Hide transaction amounts.
 
-**Ring Signatures**: Hide sender among decoys.
+- **Ring Signatures**: Hide sender among decoys.
 
-**Combination**: Together enable private transactions on Monero.
+- **Combination**: Together enable private transactions on Monero.
 
 Monero demonstrates practical stealth address implementation.
 
@@ -102,13 +102,13 @@ Monero demonstrates practical stealth address implementation.
 
 Emerging on Ethereum:
 
-**EIP-5564**: Stealth address standard for Ethereum.
+- **EIP-5564**: Stealth address standard for Ethereum.
 
-**Implementation**: Tools like Umbra enable stealth addresses on Ethereum.
+- **Implementation**: Tools like Umbra enable stealth addresses on Ethereum.
 
-**Privacy Layer**: Adds a privacy layer on top of transparent Ethereum.
+- **Privacy Layer**: Adds a privacy layer on top of transparent Ethereum.
 
-**Sender Knows Recipient**: Sender still knows who is receiving, which is not anonymous to the sender.
+- **Sender Knows Recipient**: Sender still knows who is receiving, which is not anonymous to the sender.
 
 Ethereum is adopting stealth addresses for privacy.
 
@@ -116,15 +116,15 @@ Ethereum is adopting stealth addresses for privacy.
 
 Important constraints:
 
-**Metadata Privacy**: Stealth addresses hide only recipient identity. Sender address, amount, and timing are still visible on the blockchain.
+- **Metadata Privacy**: Stealth addresses hide only recipient identity. Sender address, amount, and timing are still visible on the blockchain.
 
-**Sender Privacy**: Receiver knows sender's address. Sender must know receiver's stealth key, but the reverse does not work.
+- **Sender Privacy**: Receiver knows sender's address. Sender must know receiver's stealth key, but the reverse does not work.
 
-**Onchain Footprint**: While recipient privacy is improved, stealth address transactions are still onchain. Forensic analysis might identify patterns.
+- **Onchain Footprint**: While recipient privacy is improved, stealth address transactions are still onchain. Forensic analysis might identify patterns.
 
-**Exchange Integration**: Most exchanges do not support stealth addresses. Sending to a stealth address and then exchanging back to a known address defeats privacy.
+- **Exchange Integration**: Most exchanges do not support stealth addresses. Sending to a stealth address and then exchanging back to a known address defeats privacy.
 
-**Regulatory**: Privacy features might face regulatory scrutiny. Some jurisdictions restrict privacy-enabling technology.
+- **Regulatory**: Privacy features might face regulatory scrutiny. Some jurisdictions restrict privacy-enabling technology.
 
 Stealth addresses improve privacy but do not guarantee complete anonymity.
 
@@ -132,15 +132,15 @@ Stealth addresses improve privacy but do not guarantee complete anonymity.
 
 Current status:
 
-**Ethereum Slow Adoption**: EIP-5564 proposed but not yet implemented. Only limited tools like Umbra support stealth addresses.
+- **Ethereum Slow Adoption**: EIP-5564 proposed but not yet implemented. Only limited tools like Umbra support stealth addresses.
 
-**Monero Native**: Monero pioneered stealth addresses, which are now a standard feature.
+- **Monero Native**: Monero pioneered stealth addresses, which are now a standard feature.
 
-**Emerging Support**: Some wallets are adding stealth address support. Vitalik Buterin has advocated for Ethereum adoption.
+- **Emerging Support**: Some wallets are adding stealth address support. Vitalik Buterin has advocated for Ethereum adoption.
 
-**Privacy Demand**: Growing privacy demand is driving adoption. Regulatory pressure is also driving development.
+- **Privacy Demand**: Growing privacy demand is driving adoption. Regulatory pressure is also driving development.
 
-**Performance**: Scanning broadcasts require computation. Better solutions are needed for mainstream adoption.
+- **Performance**: Scanning broadcasts require computation. Better solutions are needed for mainstream adoption.
 
 Stealth addresses are slowly gaining adoption as privacy demands increase.
 
@@ -164,29 +164,29 @@ Privacy infrastructure creates roles:
 
 Using stealth addresses:
 
-**Understand Limitations**: Stealth addresses do not hide transaction metadata.
+- **Understand Limitations**: Stealth addresses do not hide transaction metadata.
 
-**Combine Methods**: Combine with other privacy methods for better privacy.
+- **Combine Methods**: Combine with other privacy methods for better privacy.
 
-**Use Reputable Implementations**: Use audited, proven stealth address implementations.
+- **Use Reputable Implementations**: Use audited, proven stealth address implementations.
 
-**Avoid Linking**: Do not link stealth address to known identity.
+- **Avoid Linking**: Do not link stealth address to known identity.
 
-**Monitor Privacy**: Privacy depends on proper implementation. Stay informed.
+- **Monitor Privacy**: Privacy depends on proper implementation. Stay informed.
 
 ## The Future of Stealth Addresses
 
 Privacy evolution:
 
-**Wider Adoption**: More protocols are implementing stealth addresses.
+- **Wider Adoption**: More protocols are implementing stealth addresses.
 
-**Scanning Solutions**: Better scanning mechanisms are reducing receiver computation.
+- **Scanning Solutions**: Better scanning mechanisms are reducing receiver computation.
 
-**Metadata Privacy**: Combining with other techniques to hide metadata.
+- **Metadata Privacy**: Combining with other techniques to hide metadata.
 
-**Social Recovery**: Stealth addresses combined with smart contract recovery.
+- **Social Recovery**: Stealth addresses combined with smart contract recovery.
 
-**Threshold Cryptography**: Multiple recipients sharing a stealth address.
+- **Threshold Cryptography**: Multiple recipients sharing a stealth address.
 
 ## Receive Payments Privately
 

@@ -15,13 +15,13 @@ Transaction Finality refers to the point at which a blockchain transaction becom
 
 Different models:
 
-**Probabilistic Finality**: Bitcoin. Probability of reversal decreases with blocks. Never absolute certainty.
+- **Probabilistic Finality**: Bitcoin. Probability of reversal decreases with blocks. Never absolute certainty.
 
-**Absolute Finality**: Ethereum 2.0 PoS. Validators attest blocks. Once 2/3 attest, absolute finality. Reversal requires slashing 2/3 validators.
+- **Absolute Finality**: Ethereum 2.0 PoS. Validators attest blocks. Once 2/3 attest, absolute finality. Reversal requires slashing 2/3 validators.
 
-**Economic Finality**: Penalty for reversal. Attacking finalized block costs validators significant funds.
+- **Economic Finality**: Penalty for reversal. Attacking finalized block costs validators significant funds.
 
-**Instant Finality**: Some protocols claim instant finality. Claims like "no reorg after N blocks" are not truly instant.
+- **Instant Finality**: Some protocols claim instant finality. Claims like "no reorg after N blocks" are not truly instant.
 
 Different finality models have different guarantees.
 
@@ -29,15 +29,15 @@ Different finality models have different guarantees.
 
 Probabilistic finality:
 
-**Block Generation**: Miners compete to mine blocks. This is a random process.
+- **Block Generation**: Miners compete to mine blocks. This is a random process.
 
-**Chain Extension**: New blocks are added approximately every 10 minutes.
+- **Chain Extension**: New blocks are added approximately every 10 minutes.
 
-**Reorg Probability**: After N blocks, the probability of a reorganization decreases exponentially.
+- **Reorg Probability**: After N blocks, the probability of a reorganization decreases exponentially.
 
-**6-Block Rule**: After 6 blocks, reversal becomes extremely expensive due to the cost of redoing 6 blocks of work.
+- **6-Block Rule**: After 6 blocks, reversal becomes extremely expensive due to the cost of redoing 6 blocks of work.
 
-**Not Absolute**: It is theoretically possible to reorganize even after many blocks, but it is extremely expensive.
+- **Not Absolute**: It is theoretically possible to reorganize even after many blocks, but it is extremely expensive.
 
 Bitcoin uses probabilistic finality.
 
@@ -45,15 +45,15 @@ Bitcoin uses probabilistic finality.
 
 Absolute finality:
 
-**Slot Structure**: Ethereum is divided into slots (12 seconds). Each slot has a proposed block and attestations.
+- **Slot Structure**: Ethereum is divided into slots (12 seconds). Each slot has a proposed block and attestations.
 
-**Attestations**: Validators attest blocks. 2/3 of validators attesting means the block is justified.
+- **Attestations**: Validators attest blocks. 2/3 of validators attesting means the block is justified.
 
-**Finality**: Two consecutive epochs justified means the block is finalized and irreversible.
+- **Finality**: Two consecutive epochs justified means the block is finalized and irreversible.
 
-**Slashing**: Reversal requires slashing 2/3 of validators, resulting in a significant economic penalty.
+- **Slashing**: Reversal requires slashing 2/3 of validators, resulting in a significant economic penalty.
 
-**Finality Time**: Approximately 12 minutes to finality.
+- **Finality Time**: Approximately 12 minutes to finality.
 
 Ethereum 2.0 provides absolute cryptographic finality.
 
@@ -61,13 +61,13 @@ Ethereum 2.0 provides absolute cryptographic finality.
 
 Multi-chain considerations:
 
-**L2 Finality**: L2 finality depends on L1. Optimistic rollups may take about 7 days. ZK rollups may take minutes.
+- **L2 Finality**: L2 finality depends on L1. Optimistic rollups may take about 7 days. ZK rollups may take minutes.
 
-**Sidechain Finality**: Sidechains have their own finality. Bridging to L1 requires L1 finality.
+- **Sidechain Finality**: Sidechains have their own finality. Bridging to L1 requires L1 finality.
 
-**Bridge Finality**: Cross-chain bridges must wait for finality from both chains.
+- **Bridge Finality**: Cross-chain bridges must wait for finality from both chains.
 
-**Assumptions**: Finality assumes network honesty. If the network censors, finality becomes uncertain.
+- **Assumptions**: Finality assumes network honesty. If the network censors, finality becomes uncertain.
 
 Cross-chain finality is more complex than single-chain.
 
@@ -75,15 +75,15 @@ Cross-chain finality is more complex than single-chain.
 
 Risk assessment:
 
-**High-Risk**: Transactions without finality. Reorganization is possible.
+- **High-Risk**: Transactions without finality. Reorganization is possible.
 
-**Medium-Risk**: Probabilistic finality. Reorganization is expensive but possible.
+- **Medium-Risk**: Probabilistic finality. Reorganization is expensive but possible.
 
-**Low-Risk**: Absolute finality. Reorganization is catastrophically expensive.
+- **Low-Risk**: Absolute finality. Reorganization is catastrophically expensive.
 
-**Waiting Period**: The amount to wait depends on risk tolerance and transaction value.
+- **Waiting Period**: The amount to wait depends on risk tolerance and transaction value.
 
-**Exchange Risk**: Exchanges require finality before crediting accounts.
+- **Exchange Risk**: Exchanges require finality before crediting accounts.
 
 Finality is critical for settlement.
 
@@ -91,13 +91,13 @@ Finality is critical for settlement.
 
 Possible attacks:
 
-**51% Attack**: An attacker with 51% hash power can reorganize the chain.
+- **51% Attack**: An attacker with 51% hash power can reorganize the chain.
 
-**Nothing-at-Stake**: Attack where validators vote on multiple branches, which is mitigated by slashing.
+- **Nothing-at-Stake**: Attack where validators vote on multiple branches, which is mitigated by slashing.
 
-**Censoring Finality**: Honest but censoring validators can prevent finality of transactions.
+- **Censoring Finality**: Honest but censoring validators can prevent finality of transactions.
 
-**Finality Gadget Attacks**: Attacking the finality mechanism directly.
+- **Finality Gadget Attacks**: Attacking the finality mechanism directly.
 
 Attacks are possible against finality assumptions.
 
@@ -117,25 +117,25 @@ Finality creates roles:
 
 Understanding finality:
 
-**Know Your Chain**: Understand your blockchain's finality model.
+- **Know Your Chain**: Understand your blockchain's finality model.
 
-**Wait for Finality**: For high-value transactions, wait for finality.
+- **Wait for Finality**: For high-value transactions, wait for finality.
 
-**Risk Assessment**: Assess finality guarantees when evaluating chains.
+- **Risk Assessment**: Assess finality guarantees when evaluating chains.
 
-**Bridge Trust**: Bridges are only as safe as their finality assumptions.
+- **Bridge Trust**: Bridges are only as safe as their finality assumptions.
 
 ## The Future of Finality
 
 Evolution:
 
-**Faster Finality**: L2s enabling sub-minute finality.
+- **Faster Finality**: L2s enabling sub-minute finality.
 
-**Cross-Chain Finality**: Improved cross-chain finality mechanisms.
+- **Cross-Chain Finality**: Improved cross-chain finality mechanisms.
 
-**Quantum-Safe Finality**: Quantum-resistant finality mechanisms.
+- **Quantum-Safe Finality**: Quantum-resistant finality mechanisms.
 
-**Intent-Based Finality**: Finality from intent execution rather than consensus.
+- **Intent-Based Finality**: Finality from intent execution rather than consensus.
 
 ## Ensure Irreversible Settlement
 

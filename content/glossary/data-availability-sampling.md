@@ -15,13 +15,13 @@ Data Availability Sampling refers to a technique where nodes randomly sample sma
 
 Mechanics:
 
-**Erasure Coding**: Block data encoded with redundancy.
+- **Erasure Coding**: Block data encoded with redundancy.
 
-**Sampling**: Nodes randomly request small pieces of data.
+- **Sampling**: Nodes randomly request small pieces of data.
 
-**Verification**: If samples are available, data is likely available.
+- **Verification**: If samples are available, data is likely available.
 
-**Probability**: Missing data becomes exponentially unlikely with more samples.
+- **Probability**: Missing data becomes exponentially unlikely with more samples.
 
 DAS is probabilistic but effective.
 
@@ -29,11 +29,11 @@ DAS is probabilistic but effective.
 
 Benefits:
 
-**Scalability**: Enables larger blocks without full download.
+- **Scalability**: Enables larger blocks without full download.
 
-**Decentralization**: Light clients can verify availability.
+- **Decentralization**: Light clients can verify availability.
 
-**Security**: Data withholding becomes detectable.
+- **Security**: Data withholding becomes detectable.
 
 DAS is critical for modular blockchain security.
 
@@ -41,13 +41,13 @@ DAS is critical for modular blockchain security.
 
 Real deployment:
 
-**Light Nodes**: Celestia uses DAS for light nodes.
+- **Light Nodes**: Celestia uses DAS for light nodes.
 
-**Erasure Codes**: Data encoded into larger squares.
+- **Erasure Codes**: Data encoded into larger squares.
 
-**Sampling**: Light nodes sample random shares.
+- **Sampling**: Light nodes sample random shares.
 
-**Guarantees**: High probability of availability if samples pass.
+- **Guarantees**: High probability of availability if samples pass.
 
 Celestia pioneered production DAS.
 
@@ -55,11 +55,11 @@ Celestia pioneered production DAS.
 
 Considerations:
 
-**Probabilistic**: Not absolute certainty.
+- **Probabilistic**: Not absolute certainty.
 
-**Network Load**: Sampling creates network traffic.
+- **Network Load**: Sampling creates network traffic.
 
-**Implementation Complexity**: Requires erasure coding and sampling protocols.
+- **Implementation Complexity**: Requires erasure coding and sampling protocols.
 
 DAS has complexity and probabilistic guarantees.
 
@@ -77,21 +77,21 @@ DAS roles:
 
 Using DAS:
 
-**Tune Sampling**: Choose sufficient sample rate.
+- **Tune Sampling**: Choose sufficient sample rate.
 
-**Monitor Availability**: Track availability metrics.
+- **Monitor Availability**: Track availability metrics.
 
-**Redundancy**: Ensure robust erasure coding.
+- **Redundancy**: Ensure robust erasure coding.
 
 ## The Future of DAS
 
 Trends:
 
-**More Efficient Coding**: Better erasure codes.
+- **More Efficient Coding**: Better erasure codes.
 
-**Wider Adoption**: More chains using DAS.
+- **Wider Adoption**: More chains using DAS.
 
-**Cross-DA**: DAS across DA layers.
+- **Cross-DA**: DAS across DA layers.
 
 ## Scale Without Full Data Downloads
 
