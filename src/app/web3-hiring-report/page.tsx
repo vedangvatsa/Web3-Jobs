@@ -115,6 +115,23 @@ export default function Web3HiringReport() {
           ))}
         </div>
 
+        {/* EXECUTIVE SUMMARY */}
+        <section className="mb-28">
+          <h2 className="text-2xl sm:text-3xl font-serif font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Executive summary</h2>
+          <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
+            Web3 hiring in 2026 is defined by a paradox. The industry talks about decentralization, but hiring is concentrated: 50% of all listings come from just 10 companies, led by Binance with 366 open roles. It talks about blockchain, but only 5% of job listings explicitly require blockchain skills. It talks about disrupting finance, but the most-hired department is engineering (34.4%), not finance (5.0%). The gap between Web3&apos;s narrative and its labor market tells you more about the industry&apos;s actual state than any whitepaper.
+          </p>
+          <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
+            This report is based on structured data extraction from 1,466 active job listings across 187 companies. We pulled each listing from its source ATS platform (Greenhouse, Lever, Ashby, Workable), extracted the full job description, and used GPT-4o-mini to classify each role by department, required skills, experience level, compensation, location, and crypto sub-sector. The result is the most granular public dataset on Web3 hiring available today.
+          </p>
+          <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
+            Six findings stand out. First, engineering dominates at 34.4% of roles, nearly double the ratio at traditional tech companies. Second, Python and data analysis are the top skills, not Solidity or Rust. Third, the median salary of $166,000 carries a 15-20% premium over equivalent traditional tech roles. Fourth, 42% of positions are remote, 3x the industry average. Fifth, only 14% of roles are entry-level, creating a structural junior talent pipeline problem. Sixth, infrastructure companies account for 38% of all hiring, dwarfing DeFi (5%) and gaming (0.5%).
+          </p>
+          <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
+            The data suggests that Web3 is maturing from a speculative industry into an operational one. Compliance and legal roles (6.3%) barely existed two years ago. Full-time employment (73.3%) dominates over contracts (1.8%). Companies are building for permanence, not for the next token launch cycle. What follows is a section-by-section breakdown of every dimension of Web3 hiring we could measure.
+          </p>
+        </section>
+
         {/* SECTION 1: DEPARTMENT BREAKDOWN */}
         <section className="mb-28">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
@@ -197,6 +214,45 @@ export default function Web3HiringReport() {
           <Callout>Only 5% of Web3 job listings explicitly require blockchain skills. Most companies hire for Python, SQL, and data, then train crypto domain knowledge internally. Solidity does not appear in the top 30 skills.</Callout>
           <Sources>
             Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, April 2026 · <Cite href="https://survey.stackoverflow.co/2025/">Stack Overflow Developer Survey 2025</Cite> · <Cite href="https://www.linuxfoundation.org/research/open-source-jobs-report-2025">LF 2025 Open Source Jobs</Cite>
+          </Sources>
+        </section>
+
+        {/* SECTION 2B: SOFT SKILLS & NON-TECHNICAL DEMAND */}
+        <section className="mb-28">
+          <h2 className="text-2xl sm:text-3xl font-serif font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">The hidden demand: communication, compliance, and management</h2>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
+            <div>
+              <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
+                Technical skills get the headlines, but three of the top 10 skills in our dataset are non-technical: communication (11.6%), project management (7.5%), and stakeholder management (5.3%). This tells a story about where Web3 companies are in their organizational maturity. Early-stage startups need only engineers. Scaling companies need people who can coordinate across teams, communicate with regulators, and manage complex multi-stakeholder processes.
+              </p>
+              <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
+                Regulatory compliance (5.3%) and risk management (5.2%) together appear in more than 10% of all listings. These are not engineering skills. They are institutional skills imported from traditional finance. The demand is driven by exchanges preparing for licensing under MiCA, the SEC&apos;s evolving digital asset guidance, and Hong Kong&apos;s VASP regime. Two years ago, a Web3 company&apos;s compliance department was one person with a law degree. Today, Binance alone has dozens of compliance roles open across multiple jurisdictions.
+              </p>
+              <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
+                AML (anti-money laundering) skills appear in 2.7% of listings, almost exclusively at exchanges and compliance-focused companies like ComplyAdvantage (13 listings) and Elliptic (15 listings). These firms sell AML-as-a-service to crypto companies, and their hiring reflects the industry&apos;s growing spend on regulatory infrastructure. According to <Cite href="https://www.chainalysis.com/blog/2024-crypto-crime-report-introduction/">Chainalysis&apos; 2024 Crypto Crime Report</Cite>, crypto firms spent an estimated $3.4 billion on compliance in 2024, up 45% year-over-year.
+              </p>
+              <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
+                Negotiation (3.3%) and cross-functional collaboration (2.7%) round out the soft skills picture. These appear primarily in business development and partnership roles at infrastructure companies. The message is clear: Web3 is past the phase where a brilliant engineer working alone in a basement can build a billion-dollar protocol. The industry now requires the same organizational muscle as traditional enterprise software.
+              </p>
+            </div>
+            <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-2xl p-8">
+              <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Non-technical skills (% of listings)</p>
+              <HBar data={[
+                { label: 'Communication', value: 11.6, color: '#6366f1' },
+                { label: 'Project Mgmt', value: 7.5, color: '#6366f1' },
+                { label: 'Reg. Compliance', value: 5.3, color: '#6366f1' },
+                { label: 'Stakeholder Mgmt', value: 5.3, color: '#6366f1' },
+                { label: 'Risk Management', value: 5.2, color: '#6366f1' },
+                { label: 'Analytical Skills', value: 4.6, color: '#6366f1' },
+                { label: 'Product Mgmt', value: 4.1, color: '#6366f1' },
+                { label: 'Negotiation', value: 3.3, color: '#6366f1' },
+                { label: 'AML', value: 2.7, color: '#6366f1' },
+              ]} unit="%" />
+            </div>
+          </div>
+          <Callout>Communication (11.6%) is the third most requested skill in Web3, ahead of Java, blockchain, and TypeScript. The industry needs people who can talk to regulators, not just write code.</Callout>
+          <Sources>
+            Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, April 2026 · <Cite href="https://www.chainalysis.com/blog/2024-crypto-crime-report-introduction/">Chainalysis Crypto Crime Report 2024</Cite>
           </Sources>
         </section>
 
