@@ -53,34 +53,36 @@ export async function getJobs(): Promise<Job[]> {
  * MAX_CONSECUTIVE_PER_COMPANY consecutive listings.
  */
 function distributeJobsByCompany(jobs: Job[]): Job[] {
-  const MAX_CONSECUTIVE_PER_COMPANY = 2;
+  const MAX_CONSECUTIVE = 2;
 
-  const companyGroups = new Map<string, Job[]>();
+  // Group by company
+  const groups = new Map<string, Job[]>();
   for (const job of jobs) {
     const key = job.company.toLowerCase();
-    if (!companyGroups.has(key)) {
-      companyGroups.set(key, []);
-    }
-    companyGroups.get(key)!.push(job);
+    const arr = groups.get(key);
+    if (arr) arr.push(job);
+    else groups.set(key, [job]);
   }
 
-  const sortedGroups = Array.from(companyGroups.values()).sort(
+  // Sort groups by most recent job date
+  const sorted = Array.from(groups.values()).sort(
     (a, b) => new Date(b[0].date).getTime() - new Date(a[0].date).getTime()
   );
 
+  // Round-robin using index pointers (no array mutation)
   const result: Job[] = [];
+  const pointers = new Array(sorted.length).fill(0);
   let hasMore = true;
 
   while (hasMore) {
     hasMore = false;
-    for (const group of sortedGroups) {
-      const taken = group.splice(0, MAX_CONSECUTIVE_PER_COMPANY);
-      if (taken.length > 0) {
-        result.push(...taken);
-      }
-      if (group.length > 0) {
-        hasMore = true;
-      }
+    for (let i = 0; i < sorted.length; i++) {
+      const group = sorted[i];
+      const start = pointers[i];
+      const end = Math.min(start + MAX_CONSECUTIVE, group.length);
+      for (let j = start; j < end; j++) result.push(group[j]);
+      pointers[i] = end;
+      if (end < group.length) hasMore = true;
     }
   }
 
