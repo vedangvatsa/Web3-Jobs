@@ -1,0 +1,9 @@
+# carbon.txt
+# https://carbontxt.org
+#
+# This website is hosted on Vercel's edge network which runs on 100% renewable energy.
+# https://vercel.com/blog/vercel-is-now-carbon-neutral
+
+Org: Hashtag Web3
+Via: Vercel
+Upstream: green

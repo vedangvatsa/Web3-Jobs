@@ -2,13 +2,13 @@
   "schema_version": "1.0",
   "domain": "hashtagweb3.com",
   "name": "Hashtag Web3",
-  "description": "Web3 job board and career resource platform. Browse 3,000+ blockchain, crypto, and DeFi jobs. 500+ career guides, 200+ glossary terms, salary data, and interview prep.",
+  "description": "Web3 job board and career resource platform. Browse 3,000+ blockchain, crypto, and DeFi jobs. 47 structured courses, 500+ career guides, 200+ glossary terms, salary data, and interview prep tools.",
   "url": "https://hashtagweb3.com",
 
   "capabilities": [
     {
       "name": "Job Search",
-      "description": "Search Web3 job listings across blockchain, crypto, DeFi, and DAO companies.",
+      "description": "Search Web3 job listings across blockchain, crypto, DeFi, and DAO companies. Updated daily.",
       "endpoint": "https://hashtagweb3.com/api/jobs",
       "method": "GET",
       "parameters": {
@@ -22,6 +22,16 @@
       "examples": [
         "https://hashtagweb3.com/companies/coinbase",
         "https://hashtagweb3.com/companies/uniswap-labs"
+      ]
+    },
+    {
+      "name": "Learn Web3",
+      "description": "47 structured lessons across 7 tracks: Web3 Fundamentals, DeFi, Smart Contracts, Careers, Security, and Marketing.",
+      "url_pattern": "https://hashtagweb3.com/learn/{category}/{slug}",
+      "examples": [
+        "https://hashtagweb3.com/learn/web3-fundamentals/what-is-web3",
+        "https://hashtagweb3.com/learn/defi/dexs",
+        "https://hashtagweb3.com/learn/smart-contracts/first-contract"
       ]
     },
     {
@@ -54,13 +64,18 @@
 
   "content_resources": {
     "llms_txt": "https://hashtagweb3.com/llms.txt",
-    "ai_rules": "https://hashtagweb3.com/ai.txt",
-    "ai_permissions": "https://hashtagweb3.com/ai.json"
+    "ai_txt": "https://hashtagweb3.com/ai.txt",
+    "ai_json": "https://hashtagweb3.com/ai.json",
+    "ai_plugin": "https://hashtagweb3.com/.well-known/ai-plugin.json",
+    "sitemap": "https://hashtagweb3.com/sitemap.xml",
+    "robots_txt": "https://hashtagweb3.com/robots.txt"
   },
 
   "contact": {
     "url": "https://hashtagweb3.com",
+    "email": "hello@hashtagweb3.com",
     "twitter": "https://x.com/hashtag_web3",
-    "telegram": "https://t.me/web3hiring"
+    "telegram": "https://t.me/web3hiring",
+    "linkedin": "https://linkedin.com/company/hashtagweb3"
   }
 }
