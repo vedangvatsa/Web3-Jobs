@@ -87,7 +87,7 @@ Then came Facebook, YouTube, and Twitter. Suddenly, anyone could publish. You di
 
 This was a huge step forward. Billions of people went from readers to creators. But it came with a trade-off that took years to become obvious.
 
-**The deal you made**: In exchange for free tools to publish, you gave platforms your data. Your photos, your messages, your location, your browsing history. Platforms used this data to sell targeted ads. Facebook made $134 billion in ad revenue in 2023 alone.
+**The deal you made**: In exchange for free tools to publish, you gave platforms your data. Your photos, your messages, your location, your browsing history. Platforms used this data to sell targeted ads. Meta made $132 billion in ad revenue in 2023.
 
 **What platforms control**:
 

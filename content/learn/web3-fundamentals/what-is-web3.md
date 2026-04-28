@@ -164,7 +164,7 @@ Popular wallets: MetaMask (browser), Phantom (Solana), Rabby (multi-chain). Hard
 Tokens are digital units that represent something. A few common types:
 
 - **ETH** - the currency of Ethereum, used to pay for transactions
-- **USDC** - a stablecoin worth $1, backed by real dollars in a bank
+- **USDC** - a stablecoin worth $1, backed by cash and US Treasury bonds
 - **UNI** - a governance token that lets holders vote on how Uniswap works
 
 ## What is different for you
@@ -175,7 +175,7 @@ Tokens are digital units that represent something. A few common types:
 | **Developer** | Build on private APIs | Build on open protocols |
 | **Business** | Revenue from ads | Revenue from protocol fees |
 
-For **job seekers**: Web3 companies are hiring right now. Our job board tracks 1,500+ open roles. You do not need blockchain experience to start. Most roles ask for Python, SQL, or JavaScript - the same skills you already have. Companies train the Web3-specific parts internally.
+For **job seekers**: Web3 companies are hiring right now. Our job board tracks thousands of open roles. You do not need blockchain experience to start. Most roles ask for Python, SQL, or JavaScript - the same skills you already have. Companies train the Web3-specific parts internally.
 
 ## What Web3 does not do
 
