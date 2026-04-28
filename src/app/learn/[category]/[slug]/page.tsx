@@ -1,4 +1,5 @@
 import { Header } from '@/components/header';
+import { Quiz } from '@/components/quiz';
 import { getCategory, getLesson, getLessons, getAdjacentLessons } from '@/lib/learn';
 import { Badge } from '@/components/ui/badge';
 import { ChevronRight, Clock, ArrowLeft, ArrowRight } from 'lucide-react';
@@ -128,8 +129,13 @@ export default function LessonPage({ params }: Props) {
                   [&_.callout]:my-6 [&_.callout]:p-4 [&_.callout]:border-l-4 [&_.callout]:border-primary [&_.callout]:bg-primary/5 [&_.callout]:rounded-r-lg
                   [&_.comparison-table]:my-8 [&_.comparison-table_table]:w-full
                   [&_table]:w-full [&_table]:border-collapse [&_th]:text-left [&_th]:p-3 [&_th]:border-b-2 [&_th]:font-semibold [&_td]:p-3 [&_td]:border-b"
-                dangerouslySetInnerHTML={{ __html: htmlContent }}
+              dangerouslySetInnerHTML={{ __html: htmlContent }}
               />
+
+              {/* Quiz */}
+              {lesson.quiz.length > 0 && (
+                <Quiz questions={lesson.quiz} title={`Quiz: ${lesson.title}`} />
+              )}
 
               {/* Prev/Next navigation */}
               <div className="flex items-center justify-between mt-12 pt-8 border-t gap-4">
