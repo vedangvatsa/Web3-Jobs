@@ -128,8 +128,6 @@ Focus on roles that use your existing skills along with your new Web3 knowledge:
 - Product managers should look for protocol product roles
 - Sales or business professionals can find opportunities in Web3 business development
 
-## Real-World Success Stories
-
 ### Developer Transitioning to Smart Contract Engineer
 Alex, a backend engineer with five years of experience at a major tech company, dedicated time to learning Solidity while working. He contributed to an open-source protocol, which led to an opportunity at a prominent DeFi project. He successfully transitioned and received a significant salary increase along with equity.
 

@@ -131,8 +131,6 @@ Target roles that use your existing expertise while incorporating your new Web3 
 - If you are a PM, explore protocol product roles
 - If you are in sales/business, look for roles in Web3 business development
 
-## Real-World Success Stories
-
 ### Transitioning from Developer to Smart Contract Engineer
 
 Alex, a backend engineer with five years of experience in a FAANG company, dedicated three months to learning Solidity while maintaining his job. His commitment to contributing to an open-source protocol caught the attention of a major DeFi project, leading to a transition with a significant salary increase and substantial equity.
