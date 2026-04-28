@@ -7,6 +7,7 @@ import { getAllArticles } from '../src/lib/articles';
 import { getAllTerms, getAllCategorySlugs } from '../src/lib/glossary';
 import { getCompanies } from '../src/lib/companies';
 import { getAllResourcePages } from '../src/lib/pseo/resources';
+import { getCategories, getLessons } from '../src/lib/learn';
 
 const siteUrl = 'https://hashtagweb3.com';
 const keys = [
@@ -31,6 +32,7 @@ async function main() {
     `${siteUrl}/glossary`,
     `${siteUrl}/companies`,
     `${siteUrl}/community`,
+    `${siteUrl}/learn`,
     `${siteUrl}/news`,
     `${siteUrl}/resources`,
     `${siteUrl}/salary-calculator`,
@@ -60,6 +62,14 @@ async function main() {
     ...categorySlugs.map((c) => `${siteUrl}/glossary/${c}`),
     ...resourcePages.map((p) => `${siteUrl}/${p.seo.canonicalSlug}`),
   ];
+
+  const categories = getCategories();
+  const learnUrls = categories.map(c => `${siteUrl}/learn/${c.slug}`);
+  const lessonUrls = categories.flatMap(c => 
+    getLessons(c.slug).map(l => `${siteUrl}/learn/${c.slug}/${l.slug}`)
+  );
+
+  allUrls.push(...learnUrls, ...lessonUrls);
 
   console.log(`Submitting ${allUrls.length} URLs to IndexNow...`);
 
