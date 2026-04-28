@@ -5,6 +5,47 @@ order: 1
 readTime: "8 min"
 difficulty: "beginner"
 prerequisites: []
+quiz:
+  - question: "What is the main difference between Web2 and Web3?"
+    options:
+      - "Web3 is faster than Web2"
+      - "In Web3, users own their data and assets instead of companies"
+      - "Web3 only works on mobile devices"
+      - "Web3 does not use the internet"
+    correct: 1
+    explanation: "Web3 is about ownership. In Web2, platforms like Google and Meta hold your data. In Web3, you hold your own assets in a wallet."
+  - question: "What does a wallet do in Web3?"
+    options:
+      - "It stores your passwords for websites"
+      - "It is a browser extension for blocking ads"
+      - "It acts as your identity and holds your money and tokens"
+      - "It mines cryptocurrency automatically"
+    correct: 2
+    explanation: "A Web3 wallet is two things in one: your identity (it proves who you are) and your bank account (it holds your crypto and tokens)."
+  - question: "What is a smart contract?"
+    options:
+      - "A legal agreement signed digitally"
+      - "A program that runs automatically on a blockchain"
+      - "A contract between a company and its employees"
+      - "An AI chatbot that answers questions"
+    correct: 1
+    explanation: "Smart contracts are programs that live on a blockchain and run by themselves when conditions are met. No human needs to approve the action."
+  - question: "Why do most Web3 apps still use regular servers?"
+    options:
+      - "Because blockchains do not actually work"
+      - "Because blockchains are slow and expensive for everyday operations"
+      - "Because Web3 is the same as Web2"
+      - "Because governments require it"
+    correct: 1
+    explanation: "Blockchains are great for money and ownership, but too slow and expensive for everything else. Web3 apps use blockchains for the important parts and regular servers for speed."
+  - question: "Which of these is a stablecoin?"
+    options:
+      - "ETH"
+      - "BTC"
+      - "USDC"
+      - "UNI"
+    correct: 2
+    explanation: "USDC is a stablecoin pegged to the US dollar. ETH is Ethereum's native currency, BTC is Bitcoin, and UNI is Uniswap's governance token."
 ---
 
 ## The one-sentence version
