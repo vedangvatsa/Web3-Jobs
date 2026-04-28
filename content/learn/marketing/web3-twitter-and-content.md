@@ -37,7 +37,7 @@ quiz:
       - "Instagram Stories"
       - "140-character tweets"
     correct: 1
-    explanation: "While Twitter is for discovery, long-form platforms like Mirror (a Web3 blogging platform) or Substack are used for whitepapers, deep technical dives, and official protocol announcements."
+    explanation: "While Twitter is for discovery, long-form platforms like Mirror (a Web3 blogging platform) or Substack are used for whitepapers, in-depth technical reports, and official protocol announcements."
   - question: "What is a major red flag in Web3 marketing?"
     options:
       - "Posting memes"
@@ -84,7 +84,7 @@ While Twitter is for discovery, a good Web3 marketing strategy requires depth:
 | Platform | Purpose | Content Type |
 | --- | --- | --- |
 | **Twitter / X** | Discovery & Narrative | Threads, shitposting/memes, Spaces (audio AMAs) |
-| **Mirror / Substack** | Deep Dives | Whitepapers, tokenomics explanations, monthly updates |
+| **Mirror / Substack** | Technical Content | Whitepapers, tokenomics explanations, monthly updates |
 | **YouTube** | Education | Tutorials on how to use the dApp, interviews with founders |
 | **Discord** | Retention | Daily community engagement, technical support |
 
