@@ -58,6 +58,43 @@ Local tests → Testnet deployment → Testnet verification → Mainnet deployme
 
 Skipping any step is how protocols lose money.
 
+<div class="diagram">
+<svg viewBox="0 0 800 130" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <rect x="10" y="30" width="130" height="70" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="75" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#166534">Local Tests</text>
+  <text x="75" y="76" text-anchor="middle" font-size="10" fill="#22c55e">forge test</text>
+
+  <line x1="145" y1="65" x2="175" y2="65" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="175,61 183,65 175,69" fill="#94a3b8"/>
+
+  <rect x="190" y="30" width="130" height="70" rx="10" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+  <text x="255" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#854d0e">Testnet Deploy</text>
+  <text x="255" y="76" text-anchor="middle" font-size="10" fill="#eab308">Sepolia</text>
+
+  <line x1="325" y1="65" x2="355" y2="65" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="355,61 363,65 355,69" fill="#94a3b8"/>
+
+  <rect x="370" y="30" width="130" height="70" rx="10" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="435" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e40af">Verify</text>
+  <text x="435" y="76" text-anchor="middle" font-size="10" fill="#3b82f6">Etherscan</text>
+
+  <line x1="505" y1="65" x2="535" y2="65" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="535,61 543,65 535,69" fill="#94a3b8"/>
+
+  <rect x="550" y="30" width="110" height="70" rx="10" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="605" y="53" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">Mainnet</text>
+  <text x="605" y="69" text-anchor="middle" font-size="10" fill="#ef4444">⚠️ Irreversible</text>
+  <text x="605" y="85" text-anchor="middle" font-size="9" fill="#64748b">No undo</text>
+
+  <line x1="665" y1="65" x2="695" y2="65" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="695,61 703,65 695,69" fill="#94a3b8"/>
+
+  <rect x="710" y="30" width="80" height="70" rx="10" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="750" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Monitor</text>
+  <text x="750" y="76" text-anchor="middle" font-size="10" fill="#a855f7">Tenderly</text>
+</svg>
+</div>
+
 ## Step 1: Prepare Your Environment
 
 Before touching mainnet, set up your deployment configuration.

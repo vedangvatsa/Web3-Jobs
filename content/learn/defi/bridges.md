@@ -58,6 +58,44 @@ This is what **bridges** do.
 
 The most common bridge design:
 
+<div class="diagram">
+<svg viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <!-- Chain A -->
+  <rect x="20" y="20" width="220" height="160" rx="12" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="130" y="48" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e40af">Ethereum</text>
+  <rect x="50" y="65" width="160" height="45" rx="8" fill="#dbeafe"/>
+  <text x="130" y="84" text-anchor="middle" font-size="11" font-weight="600" fill="#1e40af">Bridge Contract</text>
+  <text x="130" y="100" text-anchor="middle" font-size="10" fill="#3b82f6">1 ETH locked 🔒</text>
+  <text x="130" y="140" text-anchor="middle" font-size="10" fill="#64748b">Your real ETH</text>
+  <text x="130" y="155" text-anchor="middle" font-size="10" fill="#64748b">stays here</text>
+
+  <!-- Arrow -->
+  <line x1="250" y1="100" x2="350" y2="100" stroke="#6366f1" stroke-width="2" stroke-dasharray="6"/>
+  <polygon points="350,95 360,100 350,105" fill="#6366f1"/>
+  <text x="305" y="85" text-anchor="middle" font-size="10" font-weight="600" fill="#6366f1">Validators</text>
+  <text x="305" y="120" text-anchor="middle" font-size="9" fill="#64748b">verify deposit</text>
+
+  <!-- Chain B -->
+  <rect x="370" y="20" width="220" height="160" rx="12" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="480" y="48" text-anchor="middle" font-size="13" font-weight="bold" fill="#166534">Arbitrum</text>
+  <rect x="400" y="65" width="160" height="45" rx="8" fill="#dcfce7"/>
+  <text x="480" y="84" text-anchor="middle" font-size="11" font-weight="600" fill="#166534">Bridge Contract</text>
+  <text x="480" y="100" text-anchor="middle" font-size="10" fill="#22c55e">1 wETH minted 🪙</text>
+  <text x="480" y="140" text-anchor="middle" font-size="10" fill="#64748b">Wrapped token</text>
+  <text x="480" y="155" text-anchor="middle" font-size="10" fill="#64748b">represents claim</text>
+
+  <!-- User -->
+  <rect x="640" y="55" width="140" height="90" rx="10" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="710" y="85" text-anchor="middle" font-size="24">👤</text>
+  <text x="710" y="110" text-anchor="middle" font-size="11" font-weight="600" fill="#7c3aed">You</text>
+  <text x="710" y="128" text-anchor="middle" font-size="10" fill="#64748b">Use wETH on L2</text>
+  <line x1="590" y1="100" x2="640" y2="100" stroke="#22c55e" stroke-width="1.5" marker-end="url(#arrowG)"/>
+  <defs>
+    <marker id="arrowG" markerWidth="6" markerHeight="6" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#22c55e"/></marker>
+  </defs>
+</svg>
+</div>
+
 1. **Lock:** You send 1 ETH to a bridge smart contract on Ethereum. The contract locks your ETH.
 2. **Verify:** The bridge's off-chain validators (or relayers) observe the deposit and confirm it happened.
 3. **Mint:** The bridge's contract on the destination chain (e.g., Arbitrum) mints 1 "Wrapped ETH" — a synthetic token that represents a claim on the locked ETH.

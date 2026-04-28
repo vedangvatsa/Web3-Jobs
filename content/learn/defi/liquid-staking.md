@@ -52,6 +52,39 @@ quiz:
 
 Ethereum moved to Proof of Stake in September 2022. Validators must lock 32 ETH to participate in securing the network and earn ~3-4% annual rewards. The problem: that ETH is stuck. You cannot sell it, lend it, or use it in DeFi while it is staked.
 
+<div class="diagram">
+<svg viewBox="0 0 800 240" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <!-- Layer 1: ETH -->
+  <rect x="100" y="180" width="600" height="45" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="400" y="200" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e40af">ETH (Base Asset)</text>
+  <text x="400" y="216" text-anchor="middle" font-size="10" fill="#3b82f6">Market price exposure</text>
+
+  <!-- Layer 2: Staking -->
+  <rect x="130" y="125" width="540" height="45" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="400" y="145" text-anchor="middle" font-size="12" font-weight="bold" fill="#166534">Liquid Staking (Lido → stETH)</text>
+  <text x="400" y="161" text-anchor="middle" font-size="10" fill="#22c55e">+3-4% APY staking rewards</text>
+
+  <!-- Layer 3: DeFi -->
+  <rect x="160" y="70" width="480" height="45" rx="8" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+  <text x="400" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#854d0e">DeFi (Aave / Uniswap)</text>
+  <text x="400" y="106" text-anchor="middle" font-size="10" fill="#eab308">+1-3% APY lending or LP fees</text>
+
+  <!-- Layer 4: Restaking -->
+  <rect x="190" y="15" width="420" height="45" rx="8" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="400" y="35" text-anchor="middle" font-size="12" font-weight="bold" fill="#7c3aed">Restaking (EigenLayer)</text>
+  <text x="400" y="51" text-anchor="middle" font-size="10" fill="#a855f7">+2-5% APY AVS rewards</text>
+
+  <!-- Side labels -->
+  <text x="55" y="200" text-anchor="middle" font-size="9" fill="#64748b">Risk ↓</text>
+  <text x="55" y="40" text-anchor="middle" font-size="9" fill="#64748b">Risk ↑</text>
+  <line x1="55" y1="55" x2="55" y2="185" stroke="#e2e8f0" stroke-width="1" marker-end="url(#arrD)" marker-start="url(#arrU)"/>
+  <defs>
+    <marker id="arrD" markerWidth="6" markerHeight="6" refX="3" refY="6" orient="auto"><path d="M0,0 L3,6 L6,0" fill="#e2e8f0"/></marker>
+    <marker id="arrU" markerWidth="6" markerHeight="6" refX="3" refY="0" orient="auto"><path d="M0,6 L3,0 L6,6" fill="#e2e8f0"/></marker>
+  </defs>
+</svg>
+</div>
+
 For individual users, there is an additional barrier: 32 ETH costs roughly $100,000. Most people cannot afford a full validator.
 
 ## Liquid Staking: Lido's Solution

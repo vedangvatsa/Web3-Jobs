@@ -56,11 +56,11 @@ export default function LessonPage({ params }: Props) {
   <div className="flex flex-col min-h-screen">
    <Header />
    <main className="flex-grow">
-    <div className="container mx-auto px-4 py-8 max-w-5xl">
-     <div className="flex flex-col lg:flex-row gap-12 lg:gap-16 justify-center">
+    <div className="container mx-auto px-4 py-8 max-w-7xl">
+     <div className="flex flex-col lg:flex-row gap-8 lg:gap-12">
       {/* Sidebar */}
-      <aside className="hidden lg:block w-64 shrink-0">
-       <div className="sticky top-8">
+      <aside className="hidden lg:block w-56 shrink-0">
+       <div className="sticky top-24">
         <Link
          href={`/learn/${params.category}`}
          className="text-sm font-semibold text-foreground mb-4 block"
@@ -86,7 +86,7 @@ export default function LessonPage({ params }: Props) {
       </aside>
 
       {/* Content */}
-      <article className="flex-1 min-w-0 max-w-3xl">
+      <article className="flex-1 min-w-0 max-w-4xl">
        {/* Breadcrumb */}
        <nav className="flex items-center gap-2 text-sm text-muted-foreground mb-6">
         <Link href="/learn" className="hover:text-foreground transition-colors">Learn</Link>

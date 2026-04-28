@@ -52,6 +52,35 @@ quiz:
 
 Every smart contract operation costs gas. Users pay for gas in ETH. The difference between a well-optimized and poorly-optimized contract can be $5 vs. $50 per transaction. Across millions of users, this determines whether a protocol succeeds or gets abandoned.
 
+<div class="diagram">
+<svg viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <text x="400" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">EVM Operation Gas Costs</text>
+
+  <!-- Storage Write -->
+  <rect x="50" y="45" width="320" height="28" rx="4" fill="#fef2f2" stroke="#ef4444" stroke-width="1"/>
+  <text x="60" y="64" font-size="11" font-weight="600" fill="#991b1b">SSTORE (storage write)</text>
+  <text x="360" y="64" text-anchor="end" font-size="11" fill="#991b1b">20,000 gas</text>
+
+  <!-- Storage Read -->
+  <rect x="50" y="80" width="160" height="28" rx="4" fill="#fefce8" stroke="#eab308" stroke-width="1"/>
+  <text x="60" y="99" font-size="11" font-weight="600" fill="#854d0e">SLOAD (storage read)</text>
+  <text x="202" y="99" text-anchor="end" font-size="11" fill="#854d0e">2,100 gas</text>
+
+  <!-- Memory Read -->
+  <rect x="50" y="115" width="12" height="28" rx="4" fill="#dcfce7" stroke="#22c55e" stroke-width="1"/>
+  <text x="70" y="134" font-size="11" font-weight="600" fill="#166534">MLOAD (memory read)</text>
+  <text x="225" y="134" font-size="11" fill="#166534">3 gas</text>
+
+  <!-- Legend -->
+  <text x="450" y="65" font-size="11" fill="#64748b">← Cache storage reads</text>
+  <text x="450" y="82" font-size="11" fill="#64748b">   in memory to save</text>
+  <text x="450" y="99" font-size="11" font-weight="bold" fill="#166534">   700x per access</text>
+
+  <!-- Bar scale -->
+  <text x="50" y="165" font-size="9" fill="#94a3b8">Bar width proportional to gas cost</text>
+</svg>
+</div>
+
 ## 1. Cache Storage Reads
 
 The single most impactful optimization. Storage reads (SLOAD) cost 2,100 gas. Memory reads cost 3 gas.

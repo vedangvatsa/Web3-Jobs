@@ -56,6 +56,50 @@ There is no rollback. There is no hotfix. There is no "we'll patch it in the nex
 
 This is why smart contract testing is not optional. It is the primary line of defense.
 
+<div class="diagram">
+<svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <!-- Unit Tests -->
+  <rect x="20" y="30" width="160" height="100" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="100" y="60" text-anchor="middle" font-size="20">🧪</text>
+  <text x="100" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#166534">Unit Tests</text>
+  <text x="100" y="98" text-anchor="middle" font-size="10" fill="#22c55e">Single functions</text>
+  <text x="100" y="112" text-anchor="middle" font-size="10" fill="#64748b">Hardhat / Foundry</text>
+
+  <!-- Arrow -->
+  <line x1="185" y1="80" x2="220" y2="80" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="220,76 228,80 220,84" fill="#94a3b8"/>
+
+  <!-- Fuzz Tests -->
+  <rect x="235" y="30" width="160" height="100" rx="10" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+  <text x="315" y="60" text-anchor="middle" font-size="20">🎲</text>
+  <text x="315" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#854d0e">Fuzz Tests</text>
+  <text x="315" y="98" text-anchor="middle" font-size="10" fill="#eab308">Random inputs</text>
+  <text x="315" y="112" text-anchor="middle" font-size="10" fill="#64748b">Foundry native</text>
+
+  <!-- Arrow -->
+  <line x1="400" y1="80" x2="435" y2="80" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="435,76 443,80 435,84" fill="#94a3b8"/>
+
+  <!-- Integration Tests -->
+  <rect x="450" y="30" width="160" height="100" rx="10" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="530" y="60" text-anchor="middle" font-size="20">🔗</text>
+  <text x="530" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e40af">Integration</text>
+  <text x="530" y="98" text-anchor="middle" font-size="10" fill="#3b82f6">Multi-contract</text>
+  <text x="530" y="112" text-anchor="middle" font-size="10" fill="#64748b">Fork mainnet</text>
+
+  <!-- Arrow -->
+  <line x1="615" y1="80" x2="650" y2="80" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="650,76 658,80 650,84" fill="#94a3b8"/>
+
+  <!-- Audit -->
+  <rect x="665" y="30" width="120" height="100" rx="10" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="725" y="60" text-anchor="middle" font-size="20">🛡️</text>
+  <text x="725" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#7c3aed">Audit</text>
+  <text x="725" y="98" text-anchor="middle" font-size="10" fill="#a855f7">External review</text>
+  <text x="725" y="112" text-anchor="middle" font-size="10" fill="#64748b">Before mainnet</text>
+</svg>
+</div>
+
 ## Testing with Hardhat (JavaScript)
 
 Hardhat is the most popular development framework for Ethereum. Tests are written in JavaScript or TypeScript using Mocha and Chai.
