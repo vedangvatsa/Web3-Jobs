@@ -13,8 +13,8 @@ import { SearchTracker } from './tracking/search-tracker';
 import { trackJobApplicationClick, trackJobView } from '@/lib/posthog';
 import { useDebounce } from '@/hooks/use-debounce';
 
-const INITIAL_JOBS_COUNT = 30;
-const LOAD_MORE_COUNT = 30;
+const INITIAL_JOBS_COUNT = 50;
+const LOAD_MORE_COUNT = 50;
 
 function JobCardSkeleton() {
   return (
@@ -95,7 +95,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
           setVisibleCount((prev) => Math.min(prev + LOAD_MORE_COUNT, filteredJobs.length));
         }
       },
-      { rootMargin: '600px' }
+      { rootMargin: '1200px' }
     );
 
     observer.observe(sentinel);
