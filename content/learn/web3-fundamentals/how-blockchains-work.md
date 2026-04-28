@@ -202,7 +202,7 @@ A blockchain does not live on one computer. It lives on thousands of computers c
 
 When someone broadcasts a transaction, every node checks it independently. Does Alice actually have 2 ETH? Is the signature valid? If most nodes agree the transaction is good, it gets included in the next block.
 
-If an attacker tries to submit a fake transaction, the other nodes reject it. You would need to control more than half of all nodes to cheat the system — and for large blockchains, that is practically impossible.
+If an attacker tries to submit a fake transaction, the other nodes reject it. To successfully cheat, an attacker would need to control the majority of the network's computing power (in Proof of Work) or staked tokens (in Proof of Stake) — which for large blockchains costs billions of dollars.
 
 ## Consensus: how nodes agree
 
