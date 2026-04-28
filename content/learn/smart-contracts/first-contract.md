@@ -52,6 +52,31 @@ quiz:
 
 We are going to look at a classic "Hello World" contract, but for blockchains: a simple Storage contract that lets anyone save a message and read the current message.
 
+<div class="diagram">
+<svg viewBox="0 0 800 170" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <text x="400" y="22" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">Anatomy of a Smart Contract</text>
+  <rect x="30" y="35" width="740" height="125" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+
+  <rect x="50" y="50" width="160" height="40" rx="6" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+  <text x="130" y="75" text-anchor="middle" font-size="11" font-weight="bold" fill="#854d0e">pragma solidity</text>
+  <text x="130" y="105" text-anchor="middle" font-size="9" fill="#64748b">Compiler version</text>
+
+  <rect x="230" y="50" width="160" height="40" rx="6" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="310" y="75" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e40af">State Variables</text>
+  <text x="310" y="105" text-anchor="middle" font-size="9" fill="#64748b">Stored on-chain</text>
+
+  <rect x="410" y="50" width="160" height="40" rx="6" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="490" y="75" text-anchor="middle" font-size="11" font-weight="bold" fill="#166534">Functions</text>
+  <text x="490" y="105" text-anchor="middle" font-size="9" fill="#64748b">Read / write logic</text>
+
+  <rect x="590" y="50" width="160" height="40" rx="6" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="670" y="75" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Modifiers</text>
+  <text x="670" y="105" text-anchor="middle" font-size="9" fill="#64748b">Access control</text>
+
+  <text x="400" y="145" text-anchor="middle" font-size="10" fill="#94a3b8">All wrapped inside: contract MyContract { ... }</text>
+</svg>
+</div>
+
 Here is the entire contract:
 
 ```solidity
