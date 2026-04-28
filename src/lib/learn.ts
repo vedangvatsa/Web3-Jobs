@@ -12,6 +12,9 @@ export interface LearnCategory {
   icon: string;
   order: number;
   lessonCount: number;
+  type: 'core' | 'elective';
+  duration: string;
+  audience: string;
 }
 
 export interface QuizQuestion {
