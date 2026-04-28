@@ -4,7 +4,7 @@ description: "How standard tokens work under the hood using mappings and events.
 order: 3
 readTime: "9 min"
 difficulty: "intermediate"
-prerequisites: ["your-first-smart-contract"]
+prerequisites: ["first-contract"]
 quiz:
   - question: "What data structure does an ERC-20 contract use to keep track of everyone's token balances?"
     options:

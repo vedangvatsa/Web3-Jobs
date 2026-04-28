@@ -4,7 +4,7 @@ description: "How gas fees work on Ethereum, why they spike, and how to pay less
 order: 10
 readTime: "8 min"
 difficulty: "beginner"
-prerequisites: ["smart-contracts-explained"]
+prerequisites: ["smart-contracts"]
 quiz:
   - question: "Why do gas fees exist?"
     options:

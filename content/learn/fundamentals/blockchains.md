@@ -4,7 +4,7 @@ description: "Blocks, hashes, nodes, and consensus - how blockchains actually wo
 order: 3
 readTime: "12 min"
 difficulty: "beginner"
-prerequisites: ["how-the-internet-evolved"]
+prerequisites: ["history"]
 quiz:
   - question: "What is a block in a blockchain?"
     options:

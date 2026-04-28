@@ -4,7 +4,7 @@ description: "What NFTs actually are, the standards behind them, and real use ca
 order: 12
 readTime: "9 min"
 difficulty: "beginner"
-prerequisites: ["layer-2-making-blockchains-fast"]
+prerequisites: ["layer2"]
 quiz:
   - question: "What makes an NFT 'non-fungible'?"
     options:

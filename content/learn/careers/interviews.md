@@ -4,7 +4,7 @@ description: "Common interview questions for technical and non-technical Web3 ro
 order: 6
 readTime: "8 min"
 difficulty: "beginner"
-prerequisites: ["your-web3-resume"]
+prerequisites: ["resume"]
 quiz:
   - question: "What type of question is most common in Web3 interviews?"
     options:

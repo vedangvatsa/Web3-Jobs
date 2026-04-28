@@ -4,7 +4,7 @@ description: "A line-by-line breakdown of a simple Solidity contract."
 order: 2
 readTime: "10 min"
 difficulty: "beginner"
-prerequisites: ["what-is-solidity"]
+prerequisites: ["solidity"]
 quiz:
   - question: "What does the 'pragma solidity' line do?"
     options:

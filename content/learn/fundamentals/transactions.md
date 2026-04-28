@@ -4,7 +4,7 @@ description: "Step-by-step guide to set up MetaMask, get test ETH, and send your
 order: 6
 readTime: "8 min"
 difficulty: "beginner"
-prerequisites: ["wallets-and-private-keys"]
+prerequisites: ["wallets"]
 quiz:
   - question: "What is a testnet?"
     options:

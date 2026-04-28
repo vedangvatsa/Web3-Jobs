@@ -4,7 +4,7 @@ description: "How to position your Web2 experience for Web3 roles with concrete 
 order: 5
 readTime: "6 min"
 difficulty: "beginner"
-prerequisites: ["building-your-web3-profile"]
+prerequisites: ["profile"]
 quiz:
   - question: "Should you remove all Web2 experience from your resume for Web3 jobs?"
     options:

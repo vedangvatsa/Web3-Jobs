@@ -4,7 +4,7 @@ description: "How to earn through bounties, DAO contributions, and contract work
 order: 7
 readTime: "7 min"
 difficulty: "beginner"
-prerequisites: ["web3-interview-prep"]
+prerequisites: ["interviews"]
 quiz:
   - question: "What is a bounty in Web3?"
     options:

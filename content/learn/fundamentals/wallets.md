@@ -4,7 +4,7 @@ description: "How wallets work, what private keys are, and how to keep your cryp
 order: 5
 readTime: "10 min"
 difficulty: "beginner"
-prerequisites: ["ethereum-the-world-computer"]
+prerequisites: ["ethereum"]
 quiz:
   - question: "What is a private key?"
     options:
