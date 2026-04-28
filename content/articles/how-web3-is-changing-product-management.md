@@ -7,7 +7,7 @@ description: "A guide for product managers on the model shifts in the Web3 era. 
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 The role of a Product Manager in the Web2 environment is well-defined. You act as the CEO of the product, overseeing its vision, managing the roadmap, and optimizing key performance indicators such as user growth and revenue. Business models typically center around advertising, subscriptions, or transaction fees, all within a closed and proprietary ecosystem.

@@ -7,7 +7,7 @@ description: "A distributed ledger technology (DLT) is a digital system for reco
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 A distributed ledger technology (DLT) is a digital system for recording transactions where the ledger is replicated and spread across multiple computers in different locations. Unlike a traditional centralized database, where a single entity holds and manages the data, a DLT has no central administrator or data storage. This decentralized nature is the cornerstone of its security and transparency.
