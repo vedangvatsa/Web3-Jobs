@@ -1,8 +1,8 @@
 import { Header } from '@/components/header';
 import { getCompanies, getCompanyStats } from '@/lib/companies';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Building2, MapPin, Calendar, ExternalLink, TrendingUp, Database, BarChart3 } from 'lucide-react';
+import { Building2, MapPin, BarChart3 } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
@@ -40,8 +40,7 @@ export default async function CompaniesPage() {
     return acc;
   }, {} as Record<string, typeof companies>);
   
-  // Companies with rich content (have markdown files)
-  const featuredCompanies = companies.filter(c => c.description || c.about);
+
   
   // Find max job count for bar chart scaling
   const maxJobCount = stats.topCompanies[0]?.jobCount || 1;
@@ -53,11 +52,10 @@ export default async function CompaniesPage() {
         <section className="border-b bg-muted/10">
           <div className="container mx-auto px-4 py-16 md:py-24 max-w-4xl text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">
-              The definitive directory of Web3 companies
+              Web3 Companies Hiring Now
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground mb-10 leading-relaxed max-w-3xl mx-auto">
-              From established exchanges to emerging DeFi protocols, explore the organizations 
-              shaping the decentralized future. Track active opportunities and hiring trends across the industry.
+              Browse {stats.totalCompanies} companies with {stats.totalJobs} open roles across exchanges, DeFi, infrastructure, and more.
             </p>
             
             <div className="flex flex-wrap items-center justify-center gap-8 md:gap-16 text-center">
@@ -69,11 +67,6 @@ export default async function CompaniesPage() {
               <div className="flex flex-col">
                 <span className="text-4xl font-bold text-foreground mb-1">{stats.totalJobs}</span>
                 <span className="text-sm font-medium text-muted-foreground uppercase tracking-wider">Open Roles</span>
-              </div>
-              <div className="hidden md:block h-16 w-px bg-border" />
-              <div className="flex flex-col">
-                <span className="text-4xl font-bold text-foreground mb-1">{stats.enrichedCount}</span>
-                <span className="text-sm font-medium text-muted-foreground uppercase tracking-wider">Profiles</span>
               </div>
             </div>
           </div>
@@ -121,89 +114,46 @@ export default async function CompaniesPage() {
           </div>
         </section>
 
-        {/* Featured / Verified Company Profiles */}
-        {featuredCompanies.length > 0 && (
-          <section className="container mx-auto px-4 py-12 md:py-16 max-w-7xl">
-            <div className="mb-8">
-              <h2 className="text-3xl font-bold mb-2">Verified Profiles</h2>
-              <p className="text-muted-foreground">
-                Deep dives into the top organizations shaping the decentralized web.
-              </p>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {featuredCompanies.map((company) => (
-                <Link key={company.slug} href={`/companies/${company.slug}`}>
-                  <Card className="group hover:border-primary transition-all h-full bg-muted/20">
-                    <CardContent className="p-5">
-                      <div className="flex items-start justify-between gap-2 mb-3">
-                        <h3 className="font-semibold group-hover:text-primary transition-colors line-clamp-1">
-                          {company.name}
-                        </h3>
-                        <Badge variant="default" className="shrink-0 text-xs">
-                          {company.jobCount} jobs
-                        </Badge>
-                      </div>
-                      {company.description && (
-                         <p className="text-sm text-muted-foreground line-clamp-2 mb-3">
-                           {company.description}
-                         </p>
-                      )}
-                      <div className="flex items-center gap-4 text-xs text-muted-foreground">
-                         {company.category && (
-                           <span className="flex items-center gap-1">
-                             <Building2 className="h-3 w-3" />
-                             {company.category}
-                           </span>
-                         )}
-                         {company.headquarters && (
-                           <span className="flex items-center gap-1">
-                             <MapPin className="h-3 w-3" />
-                             {company.headquarters.split(',')[0]}
-                           </span>
-                         )}
-                      </div>
-                    </CardContent>
-                  </Card>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
-
-        {/* Minimal All Companies Directory */}
-        <section className="container mx-auto px-4 py-12 md:py-16 max-w-4xl border-t">
-          <div className="mb-8">
-            <h2 className="text-3xl font-bold mb-2">Company Directory</h2>
-            <p className="text-muted-foreground">A complete index of all {companies.length} Web3 companies currently actively hiring.</p>
-          </div>
-          
-          <div className="border rounded-lg overflow-hidden bg-background">
-            <div className="divide-y">
-              {[...companies]
-                .sort((a, b) => a.name.localeCompare(b.name))
-                .map((company) => (
-                <Link key={company.slug} href={`/companies/${company.slug}`} className="block hover:bg-muted/50 transition-colors">
-                  <div className="flex items-center justify-between p-4">
-                    <div className="flex-1 min-w-0">
-                      <div className="flex items-center gap-3 mb-1">
-                        <h4 className="font-medium text-foreground truncate">{company.name}</h4>
-                        {featuredCompanies.some(c => c.slug === company.slug) && (
-                          <Badge variant="outline" className="text-[10px] uppercase px-1.5 py-0 h-4">Verified</Badge>
-                        )}
-                      </div>
-                      <div className="flex items-center gap-4 text-sm text-muted-foreground">
-                        <span className="truncate">{company.category || 'Web3'}</span>
-                        {company.headquarters && <span className="truncate hidden sm:inline-block md:hidden lg:inline-block">📍 {company.headquarters.split(',')[0]}</span>}
-                      </div>
+        {/* Company Cards */}
+        <section className="container mx-auto px-4 py-12 md:py-16 max-w-7xl">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {[...companies]
+              .sort((a, b) => b.jobCount - a.jobCount)
+              .map((company) => (
+              <Link key={company.slug} href={`/companies/${company.slug}`}>
+                <Card className="group hover:border-primary transition-all h-full bg-muted/20">
+                  <CardContent className="p-5">
+                    <div className="flex items-start justify-between gap-2 mb-3">
+                      <h3 className="font-semibold group-hover:text-primary transition-colors line-clamp-1">
+                        {company.name}
+                      </h3>
+                      <Badge variant="default" className="shrink-0 text-xs">
+                        {company.jobCount} jobs
+                      </Badge>
                     </div>
-                    <div className="flex items-center gap-4 shrink-0">
-                       <span className="text-sm font-medium">{company.jobCount} open roles</span>
-                       <ExternalLink className="h-4 w-4 text-muted-foreground" />
+                    {company.description && (
+                       <p className="text-sm text-muted-foreground line-clamp-2 mb-3">
+                         {company.description}
+                       </p>
+                    )}
+                    <div className="flex items-center gap-4 text-xs text-muted-foreground">
+                       {company.category && (
+                         <span className="flex items-center gap-1">
+                           <Building2 className="h-3 w-3" />
+                           {company.category}
+                         </span>
+                       )}
+                       {company.headquarters && (
+                         <span className="flex items-center gap-1">
+                           <MapPin className="h-3 w-3" />
+                           {company.headquarters.split(',')[0]}
+                         </span>
+                       )}
                     </div>
-                  </div>
-                </Link>
-              ))}
-            </div>
+                  </CardContent>
+                </Card>
+              </Link>
+            ))}
           </div>
         </section>
       </main>
