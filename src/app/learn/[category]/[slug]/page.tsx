@@ -56,8 +56,8 @@ export default function LessonPage({ params }: Props) {
   <div className="flex flex-col min-h-screen">
    <Header />
    <main className="flex-grow">
-    <div className="container mx-auto px-4 py-8 max-w-7xl">
-     <div className="flex gap-8">
+    <div className="container mx-auto px-4 py-8 max-w-5xl">
+     <div className="flex flex-col lg:flex-row gap-12 lg:gap-16 justify-center">
       {/* Sidebar */}
       <aside className="hidden lg:block w-64 shrink-0">
        <div className="sticky top-8">

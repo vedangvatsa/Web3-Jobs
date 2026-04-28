@@ -42,7 +42,7 @@ export default function LearnPage() {
    <main className="flex-grow">
     {/* Hero */}
     <section className="border-b bg-muted/10">
-     <div className="container mx-auto px-4 py-16 md:py-24 max-w-3xl">
+     <div className="container mx-auto px-4 py-16 md:py-24 max-w-5xl">
       <h1 className="text-4xl md:text-5xl font-bold mb-4 tracking-tight">
        Learn Web3
       </h1>
@@ -53,7 +53,7 @@ export default function LearnPage() {
      </div>
     </section>
 
-    <div className="container mx-auto px-4 py-12 md:py-16 max-w-3xl">
+    <div className="container mx-auto px-4 py-12 md:py-16 max-w-5xl">
      {/* Core course - prominent */}
      {coreCategory && (
       <div className="mb-12">
