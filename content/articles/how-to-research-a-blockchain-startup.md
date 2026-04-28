@@ -7,7 +7,7 @@ description: "A guide for job seekers on how to perform due diligence on a Web3 
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 The [Web3](/what-is-web3) job market offers numerous opportunities, yet it also presents significant risks and volatility. A project that appears promising can collapse within months. Conducting thorough research before accepting a position at a [blockchain](/what-is-a-blockchain) startup is essential. This research involves more than reading their website or a few news articles; it requires a detailed due diligence process akin to what venture capitalists undertake when considering investments. You must become knowledgeable about the project, including its strengths and weaknesses. This guide outlines a structured approach for evaluating a blockchain startup before you make a commitment.

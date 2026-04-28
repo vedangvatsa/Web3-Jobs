@@ -7,7 +7,7 @@ description: "Unstoppable Domains is a service that provides NFT-based domain na
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 **Unstoppable Domains** provides blockchain-based domain names designed for the decentralized web. This service aims to replace long, complex cryptocurrency wallet addresses with human-readable alternatives. Unlike the Ethereum Name Service (ENS), which primarily offers `.eth` domains, Unstoppable Domains supports a broader selection of domain endings, including `.crypto`, `.x`, `.wallet`, `.nft`, and `.blockchain`. These domains operate outside the traditional Domain Name System (DNS) and are registered as **[NFTs](/what-are-nfts)** on a public blockchain, typically Polygon.

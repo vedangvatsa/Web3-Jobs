@@ -22,6 +22,7 @@
 - [Web3 Glossary](https://hashtagweb3.com/glossary): 200+ term reference covering blockchain fundamentals, DeFi protocols, NFTs, smart contracts, Layer 2 scaling, and tokenomics. Each entry includes a detailed explanation of 500–1000 words.
 - [The Web3 Playbook](https://hashtagweb3.com/blog): In-depth career guides and industry analysis for Web3 professionals, covering how to break into Web3, skill-building roadmaps, and emerging technology primers.
 - [Web3 News](https://hashtagweb3.com/news): Aggregated headlines from top blockchain and crypto publications, updated daily.
+- [Web3 Learn](https://hashtagweb3.com/learn): Interactive educational modules covering core concepts like DeFi, DAOs, Cryptography, and the Web3 Career Playbook.
 
 ## Career Tools
 

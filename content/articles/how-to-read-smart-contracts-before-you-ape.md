@@ -7,7 +7,7 @@ description: "A practical guide for non-developers on how to perform a basic sec
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 In the dynamic environment of [Web3](/what-is-web3), excitement often overshadows caution. New [NFT](/what-are-nfts) projects and [DeFi](/what-is-defi) protocols frequently promise high returns, igniting a sense of urgency to invest quickly. This rush can lead to significant financial losses if proper research is not conducted.

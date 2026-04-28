@@ -6,7 +6,7 @@ data-ai-hint: "unbalanced scale"
 description: "A clear explanation of how bias gets into AI systems and why it matters. Learn about the different types of bias and the strategies used to build fairer AI."
 category: "Educational"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 AI systems are often perceived as objective and neutral, but this assumption can lead to significant issues. These systems learn from data, and if that data contains societal biases, the AI will replicate those biases in its outputs. This can result in unfair or discriminatory decisions, with severe implications in various sectors.

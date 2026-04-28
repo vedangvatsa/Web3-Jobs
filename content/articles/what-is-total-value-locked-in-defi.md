@@ -7,7 +7,7 @@ description: "Total Value Locked (TVL) is a key metric used to measure the size 
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 Total Value Locked (TVL) serves as a vital metric for assessing the growth, adoption, and overall health of Decentralized Finance (DeFi) protocols. TVL quantifies the total value of cryptocurrency assets that users have deposited, or "locked," into a protocol's smart contracts. This figure reflects the capital currently under the protocol’s management.
