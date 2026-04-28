@@ -114,12 +114,6 @@ Identify roles that capitalize on your existing skills combined with your new We
 - If you have a background in product management, seek protocol product roles.
 - For those in sales or business development, look for Web3-focused opportunities.
 
-## Real-World Success Stories
-
-### Developer to Smart Contract Engineer
-
-Alex, a backend engineer with five years of experience at a leading tech company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol attracted the attention of a prominent DeFi project, leading to a transition with a significant salary increase and a notable equity stake.
-
 ### Product Manager Transition
 
 Jessica, a product manager from a traditional finance background, used her expertise in financial products to pivot into DeFi. Her fusion of finance knowledge and Web3 technology made her an attractive candidate. Within a short period, she secured a role at a major DeFi protocol.

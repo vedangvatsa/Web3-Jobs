@@ -107,8 +107,6 @@ Seek roles that align with your existing expertise and new Web3 knowledge:
 - If you are a PM, explore protocol product management positions.
 - If you work in sales or business development, look for opportunities within Web3.
 
-## Real-World Success Stories
-
 ### Transition from Developer to Smart Contract Engineer
 
 Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a prominent DeFi project, leading to a transition that resulted in a significant salary increase along with substantial equity.
