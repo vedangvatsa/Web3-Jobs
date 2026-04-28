@@ -37,7 +37,7 @@ export function RelatedArticles({ allArticles, currentCategory, currentSlug }: R
        <div className="relative w-full h-36">
         <Image
          src={article.image}
-         alt={article.title}
+         alt={`${article.title} - Web3 career guide on Hashtag Web3`}
          fill
          className="object-cover rounded-t-lg"
          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
