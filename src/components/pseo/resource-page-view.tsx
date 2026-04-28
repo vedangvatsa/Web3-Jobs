@@ -399,7 +399,7 @@ function ToolsContent({ sections }: { sections: Array<{ heading: string; descrip
         className="p-4 border rounded-lg hover:bg-muted/30 transition-colors group"
        >
         <div className="flex items-start justify-between gap-2 mb-2">
-         <h3 className="font-medium group-hover:text-primary">{item.name}</h3>
+         <h3 className="font-medium group-hover:text-foreground">{item.name}</h3>
          <span className={`text-xs px-2 py-0.5 rounded shrink-0 ${
           item.pricing?.toLowerCase() === 'free' ? 'bg-green-100 text-green-800' :
           item.pricing?.toLowerCase() === 'freemium' ? 'bg-blue-100 text-blue-800' :

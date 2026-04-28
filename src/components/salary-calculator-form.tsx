@@ -361,7 +361,7 @@ export function SalaryCalculatorForm() {
         <div className="md:col-span-2">
           <div className="sticky top-24">
           {isCalculated && estimatedSalary !== null ? (
-          <Card className="bg-primary/5 border-primary/20 transition-all duration-300 animate-in fade-in ">
+          <Card className="bg-muted/30 border shadow-none transition-all duration-300 animate-in fade-in ">
             <CardHeader className="text-center">
             <div className="mx-auto bg-primary/10 p-3 rounded-full w-fit mb-2">
                 <Sparkles className="h-8 w-8 text-primary" />
@@ -393,11 +393,11 @@ export function SalaryCalculatorForm() {
           </div>
         </div>
       </div>
-       <Card className="mt-12 col-span-full bg-primary/5 border-primary/20 ">
+       <Card className="mt-12 col-span-full bg-muted/30 border shadow-none ">
         <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
           
           <div>
-            <h3 className="text-xl font-bold text-primary mb-1">Ready to Apply?</h3>
+            <h3 className="text-xl font-bold text-foreground mb-1">Ready to Apply?</h3>
             <p className="text-muted-foreground">Now that you know your worth, find the perfect remote Web3 job to match.</p>
           </div>
           <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
