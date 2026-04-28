@@ -147,8 +147,3 @@ Smart contracts are only as good as their code. A bug in a smart contract can be
 - Real applications include exchanges (Uniswap), lending (Aave), and marketplaces (OpenSea).
 - Bugs in smart contracts can lead to major losses — always check for audits.
 - Oracles (like Chainlink) connect smart contracts to real-world data.
-
-## Next steps
-
-1. **Gas Fees: Why They Exist** — why you pay to use smart contracts
-2. **Layer 2: Making Blockchains Fast** — how to avoid high gas fees

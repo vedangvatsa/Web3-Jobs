@@ -123,8 +123,3 @@ DAOs are an experiment. They work, but not perfectly:
 - Governance follows a cycle: propose → discuss → vote → execute.
 - Major protocols (Uniswap, Aave, MakerDAO) are governed by DAOs managing billions.
 - Low voter participation and whale dominance are ongoing challenges.
-
-## Next steps
-
-1. **DeFi: Banking Without Banks** — the financial system built entirely on smart contracts
-2. **Web3 Safety** — how to protect yourself from scams and hacks

@@ -87,8 +87,3 @@ Two columns: Technical (Solidity, React, Python) and Domain (DeFi, NFTs, tokenom
 - Include links to GitHub, deployed projects, and Dune dashboards.
 - Keep it to 1-2 pages. Web3 hiring managers skim.
 - A dedicated "Web3 Projects" section proves you are active in the space.
-
-## Next steps
-
-1. **Web3 Interview Prep** — what to expect and how to prepare
-2. **Freelancing in Web3** — alternative paths to full-time employment

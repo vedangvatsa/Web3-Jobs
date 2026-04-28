@@ -131,8 +131,3 @@ Each phase of the internet created new jobs that did not exist before.
 Web1 created webmasters and system administrators. Web2 created social media managers, data scientists, and iOS developers. Web3 is creating smart contract auditors, protocol designers, tokenomics analysts, and DAO operators.
 
 The pattern is the same every time: people who learn the new technology early get the best positions. Right now, Web3 is where mobile development was in 2010 - early enough that demand outstrips supply.
-
-## Next steps
-
-1. **Web3 vs Web2** - a direct technical comparison of how the two actually work
-2. **Decentralization Explained** - what it means and why it is hard to get right

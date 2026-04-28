@@ -141,8 +141,3 @@ Every token has a supply schedule. This matters because supply affects price.
 - ERC-20 is the standard that makes all tokens compatible with every Ethereum wallet and app.
 - Tokens come in four main types: stablecoins, governance, utility, and wrapped.
 - Token supply (fixed, inflationary, or deflationary) directly affects value over time.
-
-## Next steps
-
-1. **Stablecoins: Digital Dollars** — how stablecoins maintain their peg
-2. **Smart Contracts Explained** — understanding the code that powers DeFi

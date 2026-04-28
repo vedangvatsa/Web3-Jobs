@@ -39,6 +39,26 @@
       "type": "elective",
       "duration": "~2 hours",
       "audience": "Job seekers"
+    },
+    {
+      "slug": "marketing",
+      "title": "Web3 Marketing & Community",
+      "description": "Grow Web3 protocols. Discord, Twitter, and token launches.",
+      "icon": "Megaphone",
+      "order": 5,
+      "type": "elective",
+      "duration": "~2 hours",
+      "audience": "Non-technical"
+    },
+    {
+      "slug": "security",
+      "title": "Web3 Security & Auditing",
+      "description": "Find bugs and audit smart contracts. High-demand technical track.",
+      "icon": "Shield",
+      "order": 6,
+      "type": "elective",
+      "duration": "~3 hours",
+      "audience": "Advanced Developers"
     }
   ]
 }

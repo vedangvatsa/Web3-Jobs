@@ -127,7 +127,3 @@ DeFi gives you access to financial tools without a middleman, but it also gives 
 - DEXs use liquidity pools and formulas instead of order books.
 - Lending requires over-collateralization — deposit more than you borrow.
 - DeFi gives access but also responsibility — bugs, liquidations, and scams are real risks.
-
-## Next steps
-
-1. **Web3 Safety** — how to protect yourself from scams, phishing, and rug pulls

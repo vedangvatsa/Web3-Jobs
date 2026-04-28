@@ -122,8 +122,3 @@ Token grants can be a significant part of compensation but come with risk — if
 - Remote-first is the default. Most teams are distributed.
 - Compensation is competitive with Web2, often including token grants.
 - Genuine curiosity about blockchain is more important than years of crypto experience.
-
-## Next steps
-
-1. **Roles in Web3** — what each role actually does day-to-day
-2. **Skills Employers Want** — the specific skills job descriptions ask for

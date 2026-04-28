@@ -139,7 +139,3 @@ Compared to just holding the ETH and USDC in your wallet, you effectively lost s
 - Liquidity Providers (LPs) supply the tokens and earn trading fees.
 - Slippage occurs when large trades move the pool's ratio.
 - Impermanent loss is a risk LPs face when token prices diverge.
-
-## Next steps
-
-1. **Lending and Borrowing** — how DeFi replaces loans and savings accounts
