@@ -105,7 +105,7 @@ export default function NewsPage() {
     <Header />
     <main className="flex-1">
      <div className="container mx-auto px-4 py-12 md:py-16">
-      <section className="mb-10 max-w-2xl mx-auto">
+      <section className="mb-10 max-w-6xl mx-auto">
        <h1 className="text-3xl font-bold tracking-tight mb-3">
         Web3 News Feed
        </h1>
@@ -114,10 +114,10 @@ export default function NewsPage() {
        </p>
       </section>
 
-      <div className="max-w-2xl mx-auto">
-       <div className="space-y-6">
+      <div className="max-w-6xl mx-auto">
+       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-start">
         {loading ? (
-         [...Array(10)].map((_, i) => <NewsCardSkeleton key={i} />)
+         [...Array(12)].map((_, i) => <NewsCardSkeleton key={i} />)
         ) : (
           newsItems.map((item, index) => (
            <Card key={index} className="transition-all duration-200 hover:border-zinc-300 dark:hover:border-zinc-700 shadow-none border bg-transparent">
