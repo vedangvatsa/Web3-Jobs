@@ -10,7 +10,7 @@ const FEEDS = [
  { url: 'https://www.coindesk.com/arc/outboundfeeds/rss/', source: 'Coindesk' },
  { url: 'https://blockchain.news/RSS/', source: 'Blockchain.News' },
  { url: 'https://www.theblock.co/rss.xml', source: 'The Block' },
- { url: 'https://cryptoslate.com/feed/', source: 'CryptoSlate' }
+ { url: 'https://dailyhodl.com/feed/', source: 'Daily Hodl' }
 ];
 
 const parser = new Parser();
