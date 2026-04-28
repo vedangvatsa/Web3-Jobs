@@ -155,9 +155,7 @@ export function WorkLifeBalanceSurveyForm() {
   <div className="container mx-auto py-12">
     <Card className="max-w-4xl mx-auto">
       <CardHeader className="text-center">
-         <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-         <Scale className="h-10 w-10 text-primary" />
-        </div>
+         
         <CardTitle className="text-3xl">Work-Life Balance Survey Builder</CardTitle>
         <CardDescription className="max-w-2xl mx-auto">
          Use this anonymous survey to get an honest assessment of your team's work-life balance. Understanding workload, stress levels, and support systems is key to preventing burnout and building a sustainable, high-performing team.
@@ -217,9 +215,7 @@ export function WorkLifeBalanceSurveyForm() {
     </div>
     <Card className="mt-12 max-w-4xl mx-auto bg-primary/5 border-primary/20">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-        <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-          <Briefcase className="h-8 w-8 text-primary"/>
-        </div>
+        
         <div>
           <h3 className="text-xl font-bold text-primary mb-1">Looking for Top Talent?</h3>
           <p className="text-muted-foreground">Find talent that aligns with your company culture by posting on the #1 Web3 job board.</p>

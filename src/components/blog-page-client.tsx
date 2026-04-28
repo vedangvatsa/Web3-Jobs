@@ -8,7 +8,6 @@ import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/com
 import Link from 'next/link';
 import Image from 'next/image';
 import { Button } from '@/components/ui/button';
-import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { Input } from '@/components/ui/input';
 import { Rss, ArrowRight, Search } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
@@ -118,7 +117,7 @@ export function BlogPageClient({ allArticles, categories }: { allArticles: Omit<
  return (
   <div className="container mx-auto px-4 py-8">
    <section className="text-center mb-12 max-w-4xl mx-auto">
-    <TransitioningHeadline phrases={headlines} />
+    <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
    </section>
 
    <div className="max-w-7xl mx-auto">
@@ -167,9 +166,7 @@ export function BlogPageClient({ allArticles, categories }: { allArticles: Omit<
 
     <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
      <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-       <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-         <Rss className="h-8 w-8 text-primary"/>
-       </div>
+       
        <div>
          <h3 className="text-xl font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
          <p className="text-muted-foreground">Join our Telegram channel with over 60,000 subscribers to get the latest job postings.</p>

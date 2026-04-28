@@ -12,7 +12,6 @@ import { Button } from '@/components/ui/button';
 import { Search, Globe, Briefcase, ArrowRight, Wallet, CalendarDays, FileCheck2, Rss } from 'lucide-react';
 import type { DigitalNomadVisa } from '@/types';
 import { visaData } from '@/lib/visas';
-import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 
 function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
@@ -119,10 +118,8 @@ function DigitalNomadVisasContent() {
       <main className="flex-grow">
         <div className="container mx-auto px-4 py-8 md:py-16">
           <section className="text-center mb-12 max-w-4xl mx-auto">
-            <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-              <Globe className="h-10 w-10 text-primary" />
-            </div>
-            <TransitioningHeadline phrases={headlines} />
+            
+            <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
           </section>
 
           <div className="max-w-7xl mx-auto">
@@ -159,9 +156,7 @@ function DigitalNomadVisasContent() {
             {filteredVisas.length > 0 && (
               <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
                 <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-                  <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-                    <Rss className="h-8 w-8 text-primary"/>
-                  </div>
+                  
                   <div>
                     <h3 className="text-xl font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
                     <p className="text-muted-foreground">Join our Telegram channel with over 60,000 subscribers to get the latest job postings.</p>

@@ -35,7 +35,6 @@ import {
 import { interviewData, Role } from '@/lib/interview-questions';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
-import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { Button } from '@/components/ui/button';
 
 const difficultyColors: { [key: string]: string } = {
@@ -185,11 +184,9 @@ export default function InterviewQuestionBankPage() {
    <main className="flex-grow">
      <div className="container mx-auto px-4 py-8 md:py-16">
       <section className="text-center mb-12 max-w-4xl mx-auto">
-        <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-         <BookOpen className="h-10 w-10 text-primary" />
-       </div>
+        
        <h1 className="sr-only">Web3 Interview Questions and Preparation Guide</h1>
-       <TransitioningHeadline phrases={headlines} />
+       <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
       </section>
 
       <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
@@ -268,9 +265,7 @@ export default function InterviewQuestionBankPage() {
         
          <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
           <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-            <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-              <Rss className="h-8 w-8 text-primary"/>
-            </div>
+            
             <div>
               <h3 className="text-xl font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
               <p className="text-muted-foreground">Join our Telegram channel with over 60,000 subscribers to get the latest job postings.</p>
