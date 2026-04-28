@@ -131,7 +131,7 @@ export default function NewsPage() {
               } className="text-[10px] uppercase font-semibold">
                {item.source}
               </Badge>
-              <span className="text-xs text-muted-foreground font-medium">{item.creator || new Date(item.pubDate).toLocaleDateString()}</span>
+              <span className="text-xs text-muted-foreground font-medium">{new Date(item.pubDate).toLocaleDateString()}</span>
              </div>
              <CardTitle className="text-xl leading-tight">
               <a href={item.link} target="_blank" rel="noopener noreferrer" onClick={() => trackNewsClick(item.title, item.link, item.source)} className="hover:text-primary hover:underline underline-offset-4 transition-colors">
