@@ -1,6 +1,6 @@
 ---
 title: "What is Web3?"
-description: "A plain-English explanation of Web3 with diagrams showing how it works and why it matters."
+description: "What Web3 actually is, how it differs from Web2, and the four building blocks behind every crypto application."
 order: 1
 readTime: "8 min"
 difficulty: "beginner"
