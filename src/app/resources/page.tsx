@@ -157,9 +157,7 @@ export default function ResourcesPage() {
 
           {/* Hero */}
           <section className="text-center mb-12 max-w-3xl mx-auto">
-            <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-              <GraduationCap className="h-10 w-10 text-primary" />
-            </div>
+            
             <h1 className="text-4xl font-bold mb-3">Web3 Career Resources</h1>
             <p className="text-muted-foreground">
               Free tools and guides for professionals building in the decentralized economy.

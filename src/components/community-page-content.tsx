@@ -8,7 +8,6 @@ import { ArrowRight, Briefcase, BookOpen, Newspaper, Rss, MessageSquare, Linkedi
 import { JobCard } from '@/components/job-card';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card';
 import Image from 'next/image';
-import { TransitioningHeadline } from './transitioning-headline';
 import { MediaCarousel } from './media-carousel';
 import { useState, useEffect, useRef } from 'react';
 import { Skeleton } from '@/components/ui/skeleton';
@@ -336,7 +335,7 @@ export function CommunityPageContent({
     <div className="container mx-auto px-4 md:py-16">
      
      <section className="text-center mb-16 max-w-4xl mx-auto">
-       <TransitioningHeadline phrases={headlines} />
+       <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
      </section>
      
      <section className="mb-16">

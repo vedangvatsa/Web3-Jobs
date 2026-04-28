@@ -61,9 +61,7 @@ export function Web3CareerQuiz() {
    >
     <Card className="text-center shadow-sm border-primary/20">
      <CardHeader>
-      <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-        <ResultIcon className="h-10 w-10 text-primary" />
-      </div>
+      
       <CardDescription>Your Web3 Archetype is:</CardDescription>
       <CardTitle className="text-4xl font-bold text-primary">{result.archetype}</CardTitle>
      </CardHeader>
@@ -97,9 +95,7 @@ export function Web3CareerQuiz() {
       </div>
       <Card className="mt-6 w-full bg-primary/5 border-primary/20">
        <CardContent className="p-6 flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
-         <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-           <Rss className="h-8 w-8 text-primary"/>
-         </div>
+         
          <div>
            <h3 className="text-lg font-bold text-primary mb-1">Find Your Role</h3>
            <p className="text-sm text-muted-foreground">Now that you know your archetype, find the perfect job on our Telegram channel with over 60,000 subscribers.</p>

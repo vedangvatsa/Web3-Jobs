@@ -164,9 +164,7 @@ export function EmployeeMilestonesForm() {
   <div className="container mx-auto py-12">
     <Card className="max-w-4xl mx-auto">
       <CardHeader className="text-center">
-         <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-         <Milestone className="h-10 w-10 text-primary" />
-        </div>
+         
         <CardTitle className="text-3xl">Employee Milestones Tracker</CardTitle>
         <CardDescription className="max-w-2xl mx-auto">
          A structured 30-60-90 day plan is crucial for aligning new hires with company goals and ensuring their success. This tool helps managers and employees collaboratively define key objectives and measurable milestones for the initial period of employment.
@@ -205,9 +203,7 @@ export function EmployeeMilestonesForm() {
     </div>
      <Card className="mt-12 max-w-4xl mx-auto bg-primary/5 border-primary/20">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-        <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-          <Briefcase className="h-8 w-8 text-primary"/>
-        </div>
+        
         <div>
           <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire Top Talent?</h3>
           <p className="text-muted-foreground">Find the right candidate to achieve these milestones by posting on the #1 Web3 job board and reaching over 100,000 professionals.</p>
