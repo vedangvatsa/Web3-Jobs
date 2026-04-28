@@ -97,17 +97,17 @@ export default function Web3HiringReport() {
             The Web3 Hiring<br />Report 2026
           </h1>
           <p className="text-[17px] text-zinc-500 dark:text-zinc-400 leading-[1.8] max-w-3xl">
-            We analyzed <Cite href="https://hashtagweb3.com/jobs">1,502 active job listings</Cite> across 187 Web3 companies. This report breaks down what those listings reveal about skills, compensation, departments, locations, and the state of crypto hiring.
+            We analyzed <Cite href="https://hashtagweb3.com/jobs">1,466 active job listings</Cite> across 187 Web3 companies. This report breaks down what those listings reveal about skills, compensation, departments, locations, and the state of crypto hiring.
           </p>
         </div>
 
         {/* BIG NUMBERS */}
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-px bg-zinc-200 dark:bg-zinc-800/50 rounded-2xl overflow-hidden mb-28">
           {[
-            { value: '1,502', label: 'Active job listings analyzed', sub: 'April 2026' },
+            { value: '1,466', label: 'Active job listings analyzed', sub: 'April 2026' },
             { value: '187', label: 'Web3 companies hiring', sub: 'From Binance to Polymarket' },
-            { value: '$166k', label: 'Median salary (where listed)', sub: 'Range: $65k–$298k' },
-            { value: '42%', label: 'Roles are remote-first', sub: '622 of 1,502 listings' },
+            { value: '$166k', label: 'Median salary (where listed)', sub: 'Range: $65k-$298k' },
+            { value: '42%', label: 'Roles are remote-first', sub: '622 of 1,466 listings' },
           ].map((d, i) => (
             <div key={i} className="bg-[#fafafa] dark:bg-black p-8 sm:p-10">
               <BigNum {...d} />
@@ -124,7 +124,7 @@ export default function Web3HiringReport() {
                 34.4% of all listings are engineering roles. Operations is a distant second at 10.6%, followed by marketing at 8.9%. This engineering-heavy distribution is consistent with <Cite href="https://www.developerreport.com/">Electric Capital&apos;s Developer Report</Cite>, which shows monthly active Web3 developers growing 39% year-over-year through 2025.
               </p>
               <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-                Finance (5.0%) and compliance (2.5%) together represent 7.5% of roles — reflecting the industry&apos;s maturation as regulatory frameworks like <Cite href="https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica">MiCA</Cite> come into force. Trading desks account for just 0.9% of listings, concentrated at Citadel Securities and Binance.
+                Finance (5.0%) and compliance (2.5%) together represent 7.5% of roles, reflecting the industry&apos;s maturation as regulatory frameworks like <Cite href="https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica">MiCA</Cite> come into force. Trading desks account for just 0.9% of listings, concentrated at Citadel Securities and Binance.
               </p>
             </div>
             <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-2xl p-8">
@@ -134,9 +134,9 @@ export default function Web3HiringReport() {
                 { label: 'Operations', value: 10.6, color: '#27272A' },
                 { label: 'Marketing', value: 8.9, color: '#3F3F46' },
                 { label: 'Finance', value: 5.0, color: '#52525B' },
-                { label: 'Sales & BD', value: 5.8, color: '#71717A' },
-                { label: 'Product & Design', value: 4.1, color: '#A1A1AA' },
-                { label: 'Compliance & Legal', value: 4.1, color: '#D4D4D8' },
+                { label: 'Sales & BD', value: 8.4, color: '#71717A' },
+                { label: 'Product & Design', value: 7.0, color: '#A1A1AA' },
+                { label: 'Compliance & Legal', value: 6.3, color: '#D4D4D8' },
               ]} unit="%" />
             </div>
           </div>
@@ -154,7 +154,7 @@ export default function Web3HiringReport() {
                 Data analysis (15.6%) and Python (14.7%) are the most requested skills across all Web3 listings. SQL follows at 8.9%. This mirrors the broader tech industry trend identified in the <Cite href="https://survey.stackoverflow.co/2025/">2025 Stack Overflow Developer Survey</Cite>, where Python saw its largest adoption jump in a decade.
               </p>
               <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-                Blockchain-specific skills appear in only 5.0% of listings, suggesting most Web3 companies hire for general engineering talent first and train domain expertise on the job. AI/ML skills appear in 4.8% of listings — lower than the broader tech industry&apos;s 25%, according to <Cite href="https://www.linuxfoundation.org/research/open-source-jobs-report-2025">Linux Foundation 2025</Cite>.
+                Blockchain-specific skills appear in only 5.0% of listings, suggesting most Web3 companies hire for general engineering talent first and train domain expertise on the job. AI/ML skills appear in 4.8% of listings, lower than the broader tech industry&apos;s 25% according to <Cite href="https://www.linuxfoundation.org/research/open-source-jobs-report-2025">Linux Foundation 2025</Cite>.
               </p>
               <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
                 TypeScript and JavaScript are tied at 4.1% each. React appears in 3.9%. Go and distributed systems each appear in ~3%, reflecting the infrastructure-heavy nature of blockchain companies.
@@ -175,7 +175,7 @@ export default function Web3HiringReport() {
               ]} unit="%" />
             </div>
           </div>
-          <Callout>Only 5% of Web3 job listings explicitly require blockchain skills. Most companies hire for Python, SQL, and data — then train crypto domain knowledge internally.</Callout>
+          <Callout>Only 5% of Web3 job listings explicitly require blockchain skills. Most companies hire for Python, SQL, and data, then train crypto domain knowledge internally.</Callout>
           <Sources>
             Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, April 2026 · <Cite href="https://survey.stackoverflow.co/2025/">Stack Overflow Developer Survey 2025</Cite> · <Cite href="https://www.linuxfoundation.org/research/open-source-jobs-report-2025">LF 2025 Tech Talent</Cite>
           </Sources>
@@ -190,10 +190,10 @@ export default function Web3HiringReport() {
                 Of the 178 listings with explicit compensation, the median base salary is $166,000. The 25th percentile is $125,000 and the 75th is $200,000. Quantitative research roles command the highest median at $225,000, followed by engineering at $185,000.
               </p>
               <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-                These figures align with <Cite href="https://web3.career/web3-salaries">Web3.career salary data</Cite>, which reports average Web3 developer compensation at $120k–$180k depending on seniority. Our data skews higher because it includes US-based roles at companies like Coinbase, Robinhood, and Stripe that publish salary bands.
+                These figures align with <Cite href="https://web3.career/web3-salaries">Web3.career salary data</Cite>, which reports average Web3 developer compensation at $120k-$180k depending on seniority. Our data skews higher because it includes US-based roles at companies like Coinbase, Robinhood, and Stripe that publish salary bands.
               </p>
               <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-                Operations and HR roles sit significantly lower at $100k–$119k median. Note: only 12% of listings disclose salary, which creates a selection bias toward US companies subject to pay transparency laws.
+                Operations and HR roles sit significantly lower at $100k-$119k median. Note: only 12% of listings disclose salary, which creates a selection bias toward US companies subject to pay transparency laws.
               </p>
             </div>
             <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-2xl p-8">
@@ -211,7 +211,7 @@ export default function Web3HiringReport() {
               ]} unit="k" />
             </div>
           </div>
-          <Callout>Quant researchers earn 2.25x what HR professionals make in Web3. Engineering sits at $185k median — 11% above the industry-wide median.</Callout>
+          <Callout>Quant researchers earn 2.25x what HR professionals make in Web3. Engineering sits at $185k median, 11% above the industry-wide median.</Callout>
           <Sources>
             Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, April 2026 (n=178 with disclosed salary) · <Cite href="https://web3.career/web3-salaries">Web3.career</Cite> for industry benchmarks
           </Sources>
@@ -221,12 +221,12 @@ export default function Web3HiringReport() {
         <section className="mb-28">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
             <div>
-              <h2 className="text-2xl sm:text-3xl font-serif font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">42% of Web3 jobs are remote — 3x the industry average</h2>
+              <h2 className="text-2xl sm:text-3xl font-serif font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">42% of Web3 jobs are remote, 3x the industry average</h2>
               <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-                42.4% of Web3 listings are remote-first, compared to just 13% in the broader tech industry according to <Cite href="https://economicgraph.linkedin.com/">LinkedIn Economic Graph</Cite>. This is Web3&apos;s defining labor market advantage — built on a culture of distributed teams and asynchronous coordination inherited from open-source development.
+                42.4% of Web3 listings are remote-first, compared to just 13% in the broader tech industry according to <Cite href="https://economicgraph.linkedin.com/">LinkedIn Economic Graph</Cite>. This is Web3&apos;s defining labor market advantage, built on a culture of distributed teams and asynchronous coordination inherited from open-source development.
               </p>
               <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-                The US accounts for 13.7% of on-site roles. Hong Kong (3.1%) and Singapore (2.5%) are the top Asian hubs. Africa and LATAM together represent 1.9% — small but growing as companies like Wave Mobile Money and Bitso expand regional operations.
+                The US accounts for 13.7% of on-site roles. Hong Kong (3.1%) and Singapore (2.5%) are the top Asian hubs. Africa and LATAM together represent 1.9%, small but growing as companies like Wave Mobile Money and Bitso expand regional operations.
               </p>
             </div>
             <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-2xl p-8">
@@ -252,7 +252,7 @@ export default function Web3HiringReport() {
             <div>
               <h2 className="text-2xl sm:text-3xl font-serif font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Web3 is hiring mid-level engineers, not juniors</h2>
               <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-                54% of listings target mid-level professionals (3–7 years experience). Senior roles account for 31.4%. Entry-level is just 13.7% — including 4.2% internships. This pattern reflects the industry&apos;s shift from experimentation to execution.
+                54% of listings target mid-level professionals (3-7 years experience). Senior roles account for 31.4%. Entry-level is just 13.7%, including 4.2% internships. This pattern reflects the industry&apos;s shift from experimentation to execution.
               </p>
               <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
                 73.3% of positions are full-time. Contract roles are only 1.8%, which is low compared to traditional tech freelancing rates. Web3 companies prefer full-time commitment, likely because of the security-sensitive nature of blockchain development.
@@ -275,9 +275,9 @@ export default function Web3HiringReport() {
 
         {/* SECTION 6: TOP COMPANIES */}
         <section className="mb-28">
-          <h2 className="text-2xl sm:text-3xl font-serif font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Binance alone accounts for 24% of all Web3 job listings</h2>
+          <h2 className="text-2xl sm:text-3xl font-serif font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Binance alone accounts for 25% of all Web3 job listings</h2>
           <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-8">
-            Binance has 366 open roles — nearly a quarter of all listings. Revolut (78), OKX (54), Robinhood (44), and Coinbase (38) round out the top five. The concentration is striking: the top 10 companies account for over 55% of all listings. Smaller protocols and DAOs — which make up the &ldquo;long tail&rdquo; of Web3 — typically hire through informal channels not captured in structured job boards.
+            Binance has 366 open roles, a quarter of all listings. Revolut (78), OKX (54), Robinhood (44), and Coinbase (38) round out the top five. The concentration is notable: the top 10 companies account for about 50% of all listings. Smaller protocols and DAOs, which make up the &ldquo;long tail&rdquo; of Web3, typically hire through informal channels not captured in structured job boards.
           </p>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
             <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-2xl p-8">
@@ -304,7 +304,7 @@ export default function Web3HiringReport() {
               ]} unit="%" />
             </div>
           </div>
-          <Callout>Infrastructure dominates at 38% of roles. DeFi is only 5%. The &ldquo;picks and shovels&rdquo; strategy — building tools rather than protocols — is where Web3 hiring is concentrated.</Callout>
+          <Callout>Infrastructure dominates at 38% of roles. DeFi is only 5%. The &ldquo;picks and shovels&rdquo; strategy, building tools rather than protocols, is where Web3 hiring is concentrated.</Callout>
           <Sources>
             Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, April 2026 · 187 companies analyzed across exchanges, DeFi, infrastructure, and gaming
           </Sources>
@@ -314,7 +314,7 @@ export default function Web3HiringReport() {
         <section className="mb-16">
           <h2 className="text-2xl font-serif font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Methodology</h2>
           <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-            Data was collected from 1,502 job listings aggregated from Greenhouse, Lever, Ashby, and Workable ATS platforms across 187 Web3 companies. Listings were processed using GPT-4o-mini for structured extraction of skills, compensation, department, seniority, and location. Compensation data is available for 178 listings (12%), creating a selection bias toward US companies subject to pay transparency laws. All percentages are calculated against the full dataset of 1,502 listings unless otherwise noted.
+            Data was collected from 1,466 job listings aggregated from Greenhouse, Lever, Ashby, and Workable ATS platforms across 187 Web3 companies. Listings were processed using GPT-4o-mini for structured extraction of skills, compensation, department, seniority, and location. Compensation data is available for 178 listings (12%), creating a selection bias toward US companies subject to pay transparency laws. All percentages are calculated against the full dataset of 1,466 listings unless otherwise noted.
           </p>
           <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
             This report was produced by <Cite href="https://hashtagweb3.com">Hashtag Web3</Cite> in April 2026. Data is refreshed daily. For the full dataset, visit our <Cite href="https://hashtagweb3.com/jobs">jobs page</Cite>.
