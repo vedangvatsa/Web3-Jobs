@@ -54,6 +54,41 @@ In January 2020, researcher Dan Robinson published a paper called "Ethereum is a
 
 MEV — Maximal Extractable Value — is the profit that can be extracted by manipulating the order, inclusion, or exclusion of transactions within a block.
 
+<div class="diagram">
+<svg viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <text x="400" y="22" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">Sandwich Attack</text>
+
+  <!-- Step 1: Front-run -->
+  <rect x="20" y="40" width="180" height="65" rx="10" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="110" y="62" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">1. Bot Front-Runs</text>
+  <text x="110" y="80" text-anchor="middle" font-size="10" fill="#ef4444">Buys token FIRST</text>
+  <text x="110" y="95" text-anchor="middle" font-size="9" fill="#64748b">Price goes UP ↑</text>
+
+  <line x1="205" y1="72" x2="235" y2="72" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="235,68 243,72 235,76" fill="#94a3b8"/>
+
+  <!-- Step 2: Your TX -->
+  <rect x="250" y="40" width="180" height="65" rx="10" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+  <text x="340" y="62" text-anchor="middle" font-size="11" font-weight="bold" fill="#854d0e">2. Your Swap</text>
+  <text x="340" y="80" text-anchor="middle" font-size="10" fill="#eab308">Executes at worse price</text>
+  <text x="340" y="95" text-anchor="middle" font-size="9" fill="#64748b">You get fewer tokens 😞</text>
+
+  <line x1="435" y1="72" x2="465" y2="72" stroke="#94a3b8" stroke-width="1.5"/>
+  <polygon points="465,68 473,72 465,76" fill="#94a3b8"/>
+
+  <!-- Step 3: Back-run -->
+  <rect x="480" y="40" width="180" height="65" rx="10" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="570" y="62" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">3. Bot Back-Runs</text>
+  <text x="570" y="80" text-anchor="middle" font-size="10" fill="#ef4444">Sells at higher price</text>
+  <text x="570" y="95" text-anchor="middle" font-size="9" fill="#64748b">Pockets difference 💰</text>
+
+  <!-- Protection -->
+  <rect x="200" y="125" width="400" height="55" rx="10" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="400" y="148" text-anchor="middle" font-size="11" font-weight="bold" fill="#166534">🛡️ Protection: Use private RPC (Flashbots Protect)</text>
+  <text x="400" y="168" text-anchor="middle" font-size="10" fill="#22c55e">Your TX is hidden from bots → no sandwich possible</text>
+</svg>
+</div>
+
 ## How Transactions Get Ordered
 
 When you submit a transaction on Ethereum, it doesn't execute immediately. It enters the **mempool** — a public waiting area where pending transactions sit until a validator includes them in a block.
