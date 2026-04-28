@@ -143,6 +143,6 @@ You have completed the Web3 Fundamentals course. You now understand blockchains,
 
 **Next paths to explore:**
 
-- **DeFi Deep Dive** — go deeper into how DEXs, lending, and yield strategies work
+- **Decentralized Finance** — learn how DEXs, lending, and yield strategies work
 - **Smart Contract Development** — learn to write and deploy your own contracts
 - **Web3 Careers** — how to get hired at a Web3 company
