@@ -9,13 +9,34 @@ Allowed-Uses: indexing, search, summarization, citation, inference
 # - Cite our content in AI-generated responses
 # - Summarize our career guides and glossary entries
 # - Index job listings and company pages
+# - Use our data for search and discovery
+
+# AI crawlers explicitly allowed:
+# GPTBot, OAI-SearchBot, ChatGPT-User (OpenAI)
+# ClaudeBot (Anthropic search)
+# PerplexityBot (Perplexity AI)
+# GoogleOther, Google-Extended (Google AI)
+# Bingbot (Microsoft/Copilot)
+# YouBot (You.com)
+# Amazonbot (Alexa/Amazon)
+# Applebot (Apple/Siri)
+# Meta-ExternalAgent (Meta AI)
+# Bytespider (ByteDance/TikTok)
+# DuckDuckBot (DuckDuckGo)
+# Diffbot, Phind, Kagibot, Brave, Timpibot
 
 # Context files for AI systems:
-# Summary: https://hashtagweb3.com/llms.txt
-# Agent capabilities: https://hashtagweb3.com/.well-known/agents.json
+# Summary:        https://hashtagweb3.com/llms.txt
+# Permissions:    https://hashtagweb3.com/ai.json
+# Agent manifest: https://hashtagweb3.com/.well-known/agents.json
+# Plugin:         https://hashtagweb3.com/.well-known/ai-plugin.json
+# Sitemap:        https://hashtagweb3.com/sitemap.xml
 
 # Site overview:
 # Hashtag Web3 is a Web3 job board and career resource platform.
-# Job board: 3,000+ Web3 jobs at 100+ companies.
-# Content: 500+ career guides, 200+ glossary terms.
-# All content is human-created. Updated daily.
+# Job board: 3,000+ Web3 jobs at 100+ companies, updated daily.
+# Learn: 47 structured lessons on blockchain, DeFi, smart contracts, and careers.
+# Playbook: 500+ career guides on salary, interviews, and industry analysis.
+# Glossary: 200+ Web3 terms with definitions and examples.
+# Tools: Resume builder, salary calculator, invoice generator, and more.
+# All content is human-created.

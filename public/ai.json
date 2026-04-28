@@ -4,6 +4,47 @@
     "search": true,
     "inference": true,
     "citation": true,
-    "crawlers": ["GPTBot", "ClaudeBot", "PerplexityBot", "GoogleOther", "OAI-SearchBot", "ChatGPT-User", "Bingbot"]
+    "summarization": true,
+    "training": false,
+    "crawlers": [
+      "GPTBot",
+      "OAI-SearchBot",
+      "ChatGPT-User",
+      "ClaudeBot",
+      "PerplexityBot",
+      "GoogleOther",
+      "Google-Extended",
+      "Googlebot",
+      "Bingbot",
+      "YouBot",
+      "Amazonbot",
+      "Applebot",
+      "Meta-ExternalAgent",
+      "Bytespider",
+      "DuckDuckBot",
+      "YandexBot",
+      "Diffbot",
+      "Timpibot",
+      "Phind",
+      "Kagibot",
+      "Brave",
+      "facebookexternalhit",
+      "LinkedInBot",
+      "Twitterbot",
+      "TelegramBot",
+      "WhatsApp",
+      "Slackbot",
+      "Discordbot"
+    ]
+  },
+  "disallow": {
+    "training": true,
+    "crawlers": ["CCBot", "anthropic-ai", "cohere-ai"]
+  },
+  "context": {
+    "llms_txt": "https://hashtagweb3.com/llms.txt",
+    "agents_json": "https://hashtagweb3.com/.well-known/agents.json",
+    "ai_plugin": "https://hashtagweb3.com/.well-known/ai-plugin.json",
+    "sitemap": "https://hashtagweb3.com/sitemap.xml"
   }
 }
