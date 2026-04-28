@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "slug": "web3-fundamentals",
+      "slug": "fundamentals",
       "title": "Web3 Fundamentals",
       "description": "Understand Web3 from scratch. No prior knowledge needed.",
       "icon": "Globe",
@@ -21,7 +21,7 @@
       "audience": "Finance-interested"
     },
     {
-      "slug": "smart-contract-development",
+      "slug": "smart-contracts",
       "title": "Smart Contract Development",
       "description": "Write, test, and deploy smart contracts with Solidity.",
       "icon": "Code",
@@ -31,7 +31,7 @@
       "audience": "Developers"
     },
     {
-      "slug": "web3-careers",
+      "slug": "careers",
       "title": "Web3 Careers",
       "description": "Get hired in Web3. Roles, skills, resumes, and interview prep.",
       "icon": "Briefcase",
