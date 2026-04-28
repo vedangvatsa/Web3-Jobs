@@ -10,12 +10,19 @@ import {
 
 export const metadata: Metadata = {
  title: 'Learn Web3 - Free Courses on Blockchain, DeFi, Smart Contracts & Careers',
- description: 'Structured courses to learn Web3 from scratch. 39 lessons with diagrams, quizzes, and career guidance. Written for beginners, developers, and job seekers.',
+ description: 'Structured courses to learn Web3 from scratch. 47 lessons with diagrams, quizzes, and career guidance. Written for beginners, developers, and job seekers.',
  alternates: { canonical: '/learn' },
  openGraph: {
   title: 'Learn Web3 - Free Structured Courses',
-  description: 'From zero to building on-chain. Courses for beginners, developers, and job seekers.',
+  description: 'From zero to building on-chain. 47 lessons with diagrams and quizzes for beginners, developers, and job seekers.',
   url: 'https://hashtagweb3.com/learn',
+  images: [{ url: '/api/og?type=article&title=Learn%20Web3&category=Free%20Courses', width: 1200, height: 630, alt: 'Learn Web3 - Free structured courses on Hashtag Web3' }],
+ },
+ twitter: {
+  card: 'summary_large_image',
+  title: 'Learn Web3 - Free Structured Courses',
+  description: 'From zero to building on-chain. 47 lessons with diagrams and quizzes.',
+  images: ['/api/og?type=article&title=Learn%20Web3&category=Free%20Courses'],
  },
 };
 
