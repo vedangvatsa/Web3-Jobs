@@ -18,13 +18,47 @@ const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
  * e.g. "Business Development Manager (Acquiring)" → "Business Development Manager"
  *      "Engineering Manager - DevX" → "Engineering Manager"
  */
-function cleanJobTitle(title: string): string {
-  return title
-    .replace(/\s*\(.*?\)\s*/g, ' ')  // Remove (anything)
-    .replace(/\s*\[.*?\]\s*/g, ' ')   // Remove [anything]
-    .replace(/\s*-\s+.*$/, '')        // Remove " - anything" at end
-    .replace(/\s+/g, ' ')            // Collapse whitespace
-    .trim();
+function cleanJobTitle(title: string, company?: string): string {
+  let cleaned = title.trim();
+
+  // Strip "CompanyName - " prefix (e.g. "Morph - Token Growth Lead" → "Token Growth Lead")
+  if (company) {
+    const escaped = company.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const prefixPattern = new RegExp(`^${escaped}\\s*[-–:]\\s*`, 'i');
+    const withoutPrefix = cleaned.replace(prefixPattern, '').trim();
+    if (withoutPrefix.length > 0) {
+      cleaned = withoutPrefix;
+    }
+  }
+
+  // Try removing " - suffix" at end, but only if the remaining part is
+  // a meaningful title (at least 2 words and 8 chars)
+  const dashIdx = cleaned.search(/\s+-\s+/);
+  if (dashIdx > 0) {
+    const before = cleaned.substring(0, dashIdx).trim();
+    if (before.split(/\s+/).length >= 2 && before.length >= 8) {
+      cleaned = before;
+    }
+  }
+
+  // Remove [anything]
+  cleaned = cleaned.replace(/\s*\[.*?\]\s*/g, ' ').trim();
+
+  // If entire title is wrapped in parens, unwrap it: "(Core Dev)" → "Core Dev"
+  if (/^\(.*\)$/.test(cleaned)) {
+    cleaned = cleaned.slice(1, -1).trim();
+  }
+
+  // Strip parenthesized suffixes if meaningful text remains
+  const withoutParens = cleaned.replace(/\s*\(.*?\)\s*/g, ' ').trim();
+  if (withoutParens.length > 0 && (!company || withoutParens.toLowerCase() !== company.toLowerCase())) {
+    cleaned = withoutParens;
+  }
+
+  // Collapse whitespace
+  cleaned = cleaned.replace(/\s+/g, ' ').trim();
+
+  return cleaned.length > 0 ? cleaned : title.trim();
 }
 
 export async function getJobs(): Promise<Job[]> {
@@ -32,7 +66,7 @@ export async function getJobs(): Promise<Job[]> {
     const data = fs.readFileSync(CACHE_PATH, 'utf-8');
     const jobs: Job[] = JSON.parse(data).map((job: Job) => ({
       ...job,
-      title: cleanJobTitle(job.title),
+      title: cleanJobTitle(job.title, job.company),
     }));
 
     // Apply 30-day freshness filter
