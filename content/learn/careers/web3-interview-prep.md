@@ -104,8 +104,3 @@ There is no perfect answer, but decentralization vs. speed, on-chain vs. off-cha
 - Be able to explain blockchain concepts simply — this is always tested.
 - Technical interviews focus on Solidity (smart contracts) or React/wallet integration (frontend).
 - Take-home projects are common — they test real building ability, not memorization.
-
-## Next steps
-
-1. **Freelancing in Web3** — earn while building your reputation
-2. **Landing Your First Role** — application strategy and networking

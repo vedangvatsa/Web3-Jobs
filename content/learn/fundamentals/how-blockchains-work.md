@@ -324,8 +324,3 @@ The right question is not "blockchain or database?" It is "which parts of my app
 - **Nodes** are computers that each hold a copy of the blockchain and verify transactions independently.
 - **Consensus** is how nodes agree. Proof of Work uses computing power. Proof of Stake uses staked tokens.
 - Blockchains are slow and expensive, but they remove the need to trust a middleman.
-
-## Next steps
-
-1. **Ethereum: The World Computer** — why Ethereum is where most Web3 apps live
-2. **Wallets and Private Keys** — how to hold your own money

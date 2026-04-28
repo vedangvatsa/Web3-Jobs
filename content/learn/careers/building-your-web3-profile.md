@@ -96,8 +96,3 @@ Web3 cares less about where you went to school and more about what you have buil
 - GitHub activity matters more than certifications in Web3 hiring.
 - An ENS name and consistent social handle create a recognizable on-chain identity.
 - Participate in DAOs and governance — it shows genuine engagement.
-
-## Next steps
-
-1. **Your Web3 Resume** — how to format your experience for Web3 roles
-2. **Web3 Interview Prep** — common questions and how to answer them
