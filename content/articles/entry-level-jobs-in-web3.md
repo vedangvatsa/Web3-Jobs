@@ -26,7 +26,7 @@ Individuals with backgrounds in communication, marketing, social media, or custo
 
 Community Moderators represent one of the most effective entry points into a [Web3 career](/web3-jobs-for-beginners).
 
-**Responsibilities:** Moderators manage a project's Discord and Telegram channels. They welcome new members, address basic inquiries, enforce community guidelines, and escalate issues to core team members. Their role is crucial in ensuring a positive and secure environment.
+**Responsibilities:** Moderators manage a project's Discord and Telegram channels. They welcome new members, address basic inquiries, enforce community guidelines, and escalate issues to core team members. Their role is important in ensuring a positive and secure environment.
 
 **Benefits of this role:** This position demands an in-depth understanding of the project, compelling you to become a product expert. It also facilitates direct interaction with the core team and active community members, enhancing networking opportunities and helping you build a solid reputation.
 
@@ -143,7 +143,7 @@ Target roles that combine your existing expertise with new Web3 knowledge:
 
 - **Developer to Smart Contract Engineer:** Alex transitioned from a backend engineer role at a major tech company to a smart contract engineer after three months of Solidity learning and contributing to an open-source protocol, resulting in a significant salary increase with equity.
   
-- **Product Manager in Web3:** Jessica leveraged her finance background in DeFi, finding a role in a leading DeFi protocol within four weeks due to her understanding of financial products and Web3 technology.
+- **Product Manager in Web3:** Jessica used her finance background in DeFi, finding a role in a leading DeFi protocol within four weeks due to her understanding of financial products and Web3 technology.
 
 - **Career Changer Success:** After six months of focused learning and networking, Marcus left his corporate job to lead Developer Relations at a major blockchain platform, achieving compensation significantly higher than his previous role.
 

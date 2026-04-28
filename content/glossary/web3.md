@@ -14,14 +14,14 @@ Web3 refers to the emerging iteration of the internet built on blockchain techno
 
 ## Web1, Web2, Web3: Evolution of the Internet
 
-**Web1 (1990s-2004): Read**
+- **Web1 (1990s-2004): Read**
 - Static websites, blogs, forums
 - Content consumption
 - Companies: Yahoo, Geocities, AOL
 - Users could read but not interact much
 - "The information superhighway"
 
-**Web2 (2004-Present): Read-Write**
+- **Web2 (2004-Present): Read-Write**
 - Social media, user-generated content
 - Interactive platforms
 - Companies: Facebook, Google, Twitter, Amazon
@@ -29,7 +29,7 @@ Web3 refers to the emerging iteration of the internet built on blockchain techno
 - "Platform economy"
 - Centralized data collection and monetization
 
-**Web3 (Emerging): Read-Write-Own**
+- **Web3 (Emerging): Read-Write-Own**
 - Decentralized protocols and applications
 - Blockchain-based ownership
 - Companies: Uniswap, OpenSea, Aave (protocol DAOs)

@@ -82,7 +82,7 @@ Slashing and inactivity penalties reduce returns for misbehaving or offline vali
 
 Validators control transaction ordering within blocks, creating opportunities for MEV extraction. A validator proposing a block can include, exclude, or reorder transactions to capture value through frontrunning, sandwich attacks, or arbitrage. This power is valuable; some blocks generate significant MEV beyond base rewards.
 
-MEV complicates PoS incentives. Validators might prioritize MEV over protocol rewards, potentially leading to unstable consensus. Solutions like MEV-Boost allow validators to outsource block building to specialized builders, creating a market for block space that's more efficient but potentially more centralized. The MEV landscape continues evolving as the ecosystem develops better solutions.
+MEV complicates PoS incentives. Validators might prioritize MEV over protocol rewards, potentially leading to unstable consensus. Solutions like MEV-Boost allow validators to outsource block building to specialized builders, creating a market for block space that's more efficient but potentially more centralized. The MEV space continues evolving as the ecosystem develops better solutions.
 
 ## Comparison with Delegated PoS
 

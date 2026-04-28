@@ -26,7 +26,7 @@ This article details the mechanics of sandwich attacks, explores the reasons beh
 | **Potential Victim**         | Users executing large trades on a DEX with loose slippage settings are prime targets.                          |
 | **Attacker Profile**         | Bots designed to monitor the public mempool for profitable sandwiching opportunities.                           |
 | **Outcome for Victims**      | Victims receive fewer [tokens](/what-is-a-token) than expected, suffering from value extraction by the attacker. |
-| **Effective Countermeasures**| Implementing tight slippage tolerances and utilizing MEV (Maximal Extractable Value) protection services.        |
+| **Effective Countermeasures**| Implementing tight slippage tolerances and using MEV (Maximal Extractable Value) protection services.        |
 
 ### Dissecting a Sandwich Attack
 
@@ -67,7 +67,7 @@ DeFi users can take proactive measures to mitigate the risk of sandwich attacks:
 
 1. **Set Low Slippage Tolerance**: This is the most effective method of protection. Slippage represents the allowable price change for a trade to execute. Many DEX interfaces default to higher percentages, inviting sandwich bots. Adjust your slippage to a lower value. If a bot attempts a sandwich and shifts the price beyond your slippage, your transaction will fail, preserving your investment.
 
-2. **Utilize MEV Protection Services**:
+2. **Use MEV Protection Services**:
    - **Flashbots**: This service lets you send transactions to a private relay, directly to miners. If bots cannot see your transaction, they cannot front-run it. Popular wallets and DEX aggregators typically integrate Flashbots or similar MEV protection RPCs.
    - **DEX Aggregators**: Platforms like 1inch or CowSwap include mechanisms to shield against sandwich attacks by routing trades through private liquidity or employing batch auctions.
 
@@ -95,12 +95,12 @@ Not all decentralized exchanges possess the same vulnerability to sandwich attac
 
 | DEX Name              | Protection Mechanism                                                                                     |
 |-----------------------|----------------------------------------------------------------------------------------------------------|
-| **CoW Protocol (CoW Swap)** | The largest MEV-resistant DEX by volume, utilizing batch auctions that settle trades at a uniform price, preventing individual order exploitation. |
+| **CoW Protocol (CoW Swap)** | The largest MEV-resistant DEX by volume, using batch auctions that settle trades at a uniform price, preventing individual order exploitation. |
 | **1inch Fusion**      | Employs a Dutch auction mechanism with a network of resolvers who fill orders off-chain, keeping trades off the public mempool. |
 | **Flashbots Protect RPC** | A free RPC endpoint that can be added to any wallet, routing transactions privately to block builders and eliminating front-running exposure. |
 | **Paraswap Delta**    | Offers private transaction routing through its order-flow system, providing equivalent protection against mempool visibility. |
 | **Uniswap v4 hooks**  | Introduces a programmable layer to AMM logic, allowing the implementation of MEV protection mechanisms directly at the protocol level. |
 
-For effective MEV protection, maintain slippage tolerance at a low percentage, utilize a private RPC endpoint, and choose DEX aggregators that route trades through protected channels when trading larger amounts. 
+For effective MEV protection, maintain slippage tolerance at a low percentage, use a private RPC endpoint, and choose DEX aggregators that route trades through protected channels when trading larger amounts. 
 
 In the evolving DeFi ecosystem, understanding and mitigating sandwich attacks is essential. By adopting these strategies, traders can safeguard their transactions and enhance their trading outcomes.

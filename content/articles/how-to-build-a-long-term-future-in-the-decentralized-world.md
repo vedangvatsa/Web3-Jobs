@@ -24,7 +24,7 @@ A relentless curiosity is essential for long-term success in Web3. The technolog
 
 ### Principle 2: Specialize and Build a "Spike"
 
-As the industry matures, the demand for specialists continues to rise. While generalists played a crucial role in the early days, projects now require true experts to address complex challenges.
+As the industry matures, the demand for specialists continues to rise. While generalists played a important role in the early days, projects now require true experts to address complex challenges.
 
 - **Identify Your "Spike":** Determine the area where you can excel as a world-class expert. This could involve a specific technical domain, such as zero-knowledge proofs or Layer 2 solutions, a role like a [DeFi](/what-is-defi) Product Manager, or a sector, such as Web3 gaming.
 - **Create a Public [Portfolio](/building-web3-portfolio):** Showcase your expertise publicly.
@@ -41,7 +41,7 @@ Entering a leadership position in Web3 differs from traditional corporate pathwa
 
 ### Principle 4: Build Your Network
 
-Your professional network serves as a crucial asset for long-term career progression. The connections you build today can lead to future opportunities.
+Your professional network serves as a important asset for long-term career progression. The connections you build today can lead to future opportunities.
 
 - **Prioritize Value Creation:** Effective networking is non-transactional. Cultivate a reputation for being helpful and providing value to the community, which will naturally lead to opportunities.
 - **Participate in Events:** Attend hackathons and industry conferences. Valuable connections often emerge from informal conversations during events.
@@ -69,7 +69,7 @@ Create a tailored plan based on your circumstances. Each individual's situation 
 
 ### Step 4: Implement Gradually
 
-Avoid attempting to change everything at once. Start with small, manageable adjustments and build from there. Track what works and what doesn't. This iterative approach fosters sustainable improvement.
+Avoid attempting to change everything at once. Start with small, manageable adjustments and build from there. Track what works and what doesn't. This iterative approach builds sustainable improvement.
 
 ### Step 5: Measure and Adjust
 

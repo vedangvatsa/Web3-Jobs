@@ -97,13 +97,13 @@ LSTs trade simplicity for flexibility.
 
 LST ecosystem roles:
 
-**Protocol Engineers**.
+- **Protocol Engineers**.
 
-**Staking Infrastructure** roles.
+- **Staking Infrastructure** roles.
 
-**Risk Analysts**.
+- **Risk Analysts**.
 
-**DeFi Strategists**.
+- **DeFi Strategists**.
 
 ## Best Practices
 

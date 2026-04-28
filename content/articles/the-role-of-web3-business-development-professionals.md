@@ -19,7 +19,7 @@ A Web3 BizDev professional excels at networking, strategizing, and negotiating d
 The role of a BizDev professional in Web3 diverges significantly from traditional sales or business development roles. 
 
 - **Focus on Alliances Rather Than Product Sales**: Unlike selling a Software as a Service (SaaS) product, individuals in this role create meaningful alliances. The emphasis is on mutual growth rather than a straightforward client-vendor dynamic.
-- **In-Depth Technical Understanding**: Success in this role requires a detailed understanding of the underlying technology. Professionals must interpret technical documentation, grasp a protocol's architecture, and pinpoint innovative integration opportunities.
+- **In-Depth Technical Understanding**: Success in this role requires a detailed understanding of the underlying technology. Professionals must interpret technical documentation, grasp a protocol's architecture, and pinpoint new integration opportunities.
 - **Reputation and Trust**: The Web3 ecosystem is relatively small and tightly knit. A professional's reputation and network serve as critical assets. Building trust relies on cultivating genuine relationships and demonstrating a history of creating value.
 
 ### Core Responsibilities
@@ -44,7 +44,7 @@ The role of a BizDev professional in Web3 diverges significantly from traditiona
 1. **Establish a Public Presence**: Use platforms like Twitter to showcase market analysis, highlight intriguing projects, and engage in discussions. Your online presence acts as your [resume](/how-to-build-a-web3-resume-that-stands-out).
 2. **Become a Connector**: Start making valuable introductions within your network. Linking people who can benefit from knowing one another will enhance your reputation as a valuable resource in the ecosystem.
 3. **Specialize in a Niche**: Focus on a specific area such as DeFi, Web3 Gaming, or Layer 2 solutions. This specialization positions you as an expert in that sector.
-4. **Utilize Your Web2 Experience**: If you have a background in traditional sales or partnerships, emphasize your skills in relationship-building and closing deals. Also, show how you have adapted to the unique context of Web3.
+4. **Use Your Web2 Experience**: If you have a background in traditional sales or partnerships, emphasize your skills in relationship-building and closing deals. Also, show how you have adapted to the unique context of Web3.
 
 A career in Web3 BizDev suits individuals who possess strong social skills and strategic thinking. It provides an opportunity to be at the forefront of the action, weaving together various components of the decentralized ecosystem to create a more reliable and valuable framework.
 
@@ -84,7 +84,7 @@ Dedicate 4-8 weeks to mastering [blockchain](/what-is-a-blockchain) fundamentals
 Tailor your skill acquisition based on your target role:
 - **Engineers**: Focus on learning [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers**: Gain insights into token economics, protocol governance, and user growth strategies specific to Web3.
-- **Business Development**: Develop skills in market analysis, partnership strategy, and understanding the regulatory landscape.
+- **Business Development**: Develop skills in market analysis, partnership strategy, and understanding the regulatory space.
 - **Community/Operations**: Learn about community engagement, Discord management, and governance best practices.
 
 ### Step 3: Build Your Portfolio
@@ -115,7 +115,7 @@ Focus on roles that use your existing skills alongside your new Web3 knowledge:
 Alex, a backend engineer with five years of experience in a FAANG company, dedicated three months to learning Solidity while continuing his full-time job. His contributions to an open-source protocol caught the eye of a leading DeFi project, enabling him to transition with a significant salary increase and equity.
 
 ### Product Manager in Web3
-Jessica, a product manager transitioning from traditional finance, utilized her domain knowledge in DeFi. By combining her expertise in financial products with an understanding of Web3 technology, she secured a position at a prominent DeFi protocol within a short timeframe.
+Jessica, a product manager transitioning from traditional finance, used her domain knowledge in DeFi. By combining her expertise in financial products with an understanding of Web3 technology, she secured a position at a prominent DeFi protocol within a short timeframe.
 
 ### Career Changer Success Story
 Marcus left his corporate job to concentrate on Web3 for six months. Through diligent learning, networking, and building a [portfolio](/building-web3-portfolio), he landed a role as the head of Developer Relations at a major blockchain platform, with compensation significantly exceeding his previous salary.

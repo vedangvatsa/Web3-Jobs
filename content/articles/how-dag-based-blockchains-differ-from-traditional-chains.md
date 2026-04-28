@@ -59,7 +59,7 @@ Several prominent projects incorporate DAG technology:
 
 | Project       | Description                                                                                                          |
 |---------------|----------------------------------------------------------------------------------------------------------------------|
-| Hedera (HBAR) | Utilizes a "hashgraph" consensus algorithm, achieving high throughput while being governed by a council of corporations. |
+| Hedera (HBAR) | Uses a "hashgraph" consensus algorithm, achieving high throughput while being governed by a council of corporations. |
 | Fantom (FTM)  | Employs a DAG-based mechanism called "Lachesis" for asynchronous transaction processing, complemented by an EVM-compatible blockchain layer. |
 | Nano (XNO)    | A feeless cryptocurrency designed for instant transactions, featuring a "block-lattice" where each account maintains its blockchain, forming a DAG. |
 | IOTA (MIOTA)  | One of the earliest DAG projects, focused on the Internet of Things (IoT).                                          |
@@ -101,7 +101,7 @@ Dedicate 4-8 weeks to learning blockchain fundamentals:
 Tailor your skill acquisition to your desired role:
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and relevant Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Focus on market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Focus on market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Gain skills in community building, Discord management, and governance.
 
 ### Step 3: Construct Your Portfolio
@@ -124,7 +124,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Focus on roles that utilize your existing expertise along with new Web3 knowledge:
+Focus on roles that use your existing expertise along with new Web3 knowledge:
 - Backend engineers should seek blockchain infrastructure roles.
 - Product Managers can target protocol product positions.
 - Sales or business professionals should look for opportunities in Web3 business development.

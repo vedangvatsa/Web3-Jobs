@@ -22,7 +22,7 @@ The 2021 bull run saw a massive influx of developers into the Solana ecosystem, 
 
 The subsequent bear market acted as a "great filter." Projects without sustainable models failed, and part-time hobbyists moved on. The resulting decline in the total number of "monthly active developers" was not a sign of a dying ecosystem, but rather a healthy and predictable consolidation.
 
-The crucial metric is not the total number of developers, but the **retention of experienced, full-time developers.** On this front, Solana has shown remarkable resilience. The core community of builders who are deeply invested in the ecosystem has remained, and they are now focused on more complex and sustainable projects.
+The important metric is not the total number of developers, but the **retention of experienced, full-time developers.** On this front, Solana has shown remarkable resilience. The core community of builders who are deeply invested in the ecosystem has remained, and they are now focused on more complex and sustainable projects.
 
 ### A Maturing Tech Stack and a Focus on Resilience
 
@@ -102,7 +102,7 @@ For developers interested in building on Solana, the ecosystem offers exceptiona
 - Network: 20+ Solana dApp developers
 - **Deliverable:** DeFi knowledge, 3 projects
 
-**Months 6-10: Build Innovative App**
+**Months 6-10: Build New App**
 - Deploy 1 dApp with significant value or user engagement
 - Land job with DeFi protocol or startup
 - Expected: Competitive salary range

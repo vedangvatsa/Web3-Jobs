@@ -142,7 +142,7 @@ Alex, a backend engineer at a major tech company, spent three months learning So
 
 #### Product Manager in Web3
 
-Jessica, a product manager from finance, utilized her expertise in DeFi to secure a position at a leading protocol. Her financial product knowledge combined with Web3 technology understanding made her a highly sought-after candidate.
+Jessica, a product manager from finance, used her expertise in DeFi to secure a position at a leading protocol. Her financial product knowledge combined with Web3 technology understanding made her a highly sought-after candidate.
 
 #### Career Changer Success
 

@@ -71,11 +71,11 @@ Verkle tree deployment is non-trivial.
 
 Verkle tree roles:
 
-**Cryptography Engineers**.
+- **Cryptography Engineers**.
 
-**Protocol Engineers**.
+- **Protocol Engineers**.
 
-**Client Developers**.
+- **Client Developers**.
 
 ## Best Practices
 

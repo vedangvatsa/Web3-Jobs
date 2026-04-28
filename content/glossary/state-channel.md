@@ -107,15 +107,15 @@ State channels are secure if properly implemented.
 
 State channels create roles:
 
-**Protocol Engineers** build state channel infrastructure.
+- **Protocol Engineers** build state channel infrastructure.
 
-**Lightning Network Engineers** work on Bitcoin scalability.
+- **Lightning Network Engineers** work on Bitcoin scalability.
 
-**Routing Specialists** optimize payment routing.
+- **Routing Specialists** optimize payment routing.
 
-**Watchtower Operators** monitor channels.
+- **Watchtower Operators** monitor channels.
 
-**Smart Contract Developers** build state channel contracts.
+- **Smart Contract Developers** build state channel contracts.
 
 ## Best Practices
 
@@ -141,7 +141,7 @@ Channel evolution:
 
 - **Generalized Channels**: Extending beyond payments to general state transitions.
 
-- **Layer 2 Interoperability**: Channels interoperating with rollups for a seamless experience.
+- **Layer 2 Interoperability**: Channels interoperating with rollups for a smooth experience.
 
 - **Enterprise Adoption**: State channels for enterprise payments.
 

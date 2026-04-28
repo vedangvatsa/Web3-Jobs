@@ -33,7 +33,7 @@ Focus on aligning your experience with the job requirements. Instead of merely l
 
 * **Identify 2-3 key requirements** from the job description.
 * **Provide specific examples** from your experience that illustrate your ability to meet those requirements.
-* **Utilize the STAR method (Situation, Task, Action, Result)** to structure your examples effectively.
+* **Use the STAR method (Situation, Task, Action, Result)** to structure your examples effectively.
 
 This approach shows the hiring manager that you have thoughtfully considered how you can contribute to the team.
 
@@ -110,7 +110,7 @@ Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. In
 Juan, a product manager in [DeFi](/what-is-defi), faced challenges in articulating his value. By applying these techniques, he highlighted specific projects that contributed to a notable increase in user engagement. His focused approach resulted in multiple job offers.
 
 #### Example 3
-Maya transitioned from Web2 to Web3. By implementing the strategies discussed, she effectively communicated her adaptability and secured a role that aligned with her passion for innovative technology.
+Maya transitioned from Web2 to Web3. By implementing the strategies discussed, she effectively communicated her adaptability and secured a role that aligned with her passion for new technology.
 
 ### Common Mistakes to Avoid
 

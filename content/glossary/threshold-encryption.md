@@ -97,15 +97,15 @@ Threshold encryption adds complexity and latency.
 
 Threshold encryption creates roles:
 
-**Cryptography Researchers** studying threshold schemes.
+- **Cryptography Researchers** studying threshold schemes.
 
-**Protocol Engineers** implementing threshold encryption.
+- **Protocol Engineers** implementing threshold encryption.
 
-**MEV Researchers** applying to MEV.
+- **MEV Researchers** applying to MEV.
 
-**Security Engineers** analyzing threshold schemes.
+- **Security Engineers** analyzing threshold schemes.
 
-**Smart Contract Engineers** building threshold applications.
+- **Smart Contract Engineers** building threshold applications.
 
 ## Best Practices
 

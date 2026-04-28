@@ -54,7 +54,7 @@ Juan, a product manager in [DeFi](/what-is-defi), struggled with stakeholder com
 
 ### Example 3: Maya's Transition from Web2 to Web3
 
-Maya transitioned from a traditional Web2 environment to a fast-paced Web3 startup. She faced a steep learning curve regarding decentralized technologies. By leveraging online courses and engaging with industry mentors, she rapidly adapted, ultimately leading her team to launch a successful product feature ahead of schedule.
+Maya transitioned from a traditional Web2 environment to a fast-paced Web3 startup. She faced a steep learning curve regarding decentralized technologies. By using online courses and engaging with industry mentors, she rapidly adapted, ultimately leading her team to launch a successful product feature ahead of schedule.
 
 ## Common Pitfalls in Managing Underperformance
 
@@ -73,7 +73,7 @@ A: Initial results often appear within a few weeks, with more significant change
 A: In challenging environments, you often have more influence than you realize. Start by making small adjustments that don't require organizational approval, such as refining your personal workflow or initiating informal discussions with coworkers. Build momentum over time, and document your successes. If systemic barriers persist, it may be time to consider a workplace that prioritizes employee development.
 
 **Q: How does this approach apply to Web3 environments?**  
-A: Web3 organizations typically feature flatter hierarchies, leading to quicker decision-making but requiring greater self-motivation. Remote work is prevalent, making clear written communication essential. The fast-paced nature of Web3 means that adaptability and responsiveness are crucial skills. Developing these competencies can enhance your career prospects significantly.
+A: Web3 organizations typically feature flatter hierarchies, leading to quicker decision-making but requiring greater self-motivation. Remote work is prevalent, making clear written communication essential. The fast-paced nature of Web3 means that adaptability and responsiveness are important skills. Developing these competencies can enhance your career prospects significantly.
 
 **Q: Can I implement these strategies while maintaining my current job responsibilities?**  
 A: Yes, you can integrate improvements into your existing role without needing extra hours. Identify two or three practices that align with your daily tasks and focus on consistent application. Small, deliberate changes can lead to substantial progress over time.

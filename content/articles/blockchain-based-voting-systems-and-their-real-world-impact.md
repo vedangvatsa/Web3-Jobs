@@ -28,7 +28,7 @@ Understanding the appeal of blockchain voting requires an analysis of the weakne
 
 ### Understanding Blockchain Voting Systems
 
-Blockchain voting systems utilize cryptographic principles and a distributed network to enhance the voting process's security and reliability.
+Blockchain voting systems use cryptographic principles and a distributed network to enhance the voting process's security and reliability.
 
 **1. Voter Registration and Identity:**
 - **Challenges:** Ensuring only eligible voters participate and that each individual votes once requires a strong identity verification process.
@@ -119,7 +119,7 @@ The Web3 ecosystem is highly accessible:
 - Join local Web3 meetups to expand your network.
 
 ### Step 5: Apply Strategically
-Target roles that utilize your existing expertise and incorporate your new Web3 knowledge:
+Target roles that use your existing expertise and incorporate your new Web3 knowledge:
 - Backend engineers can explore blockchain infrastructure roles.
 - Product managers should seek protocol product positions.
 - Sales and business professionals can look for opportunities in Web3 business development.
@@ -130,7 +130,7 @@ Target roles that utilize your existing expertise and incorporate your new Web3 
 Alex, previously a backend engineer at a major tech company, committed three months to learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a prominent DeFi project, leading to a transition that included a salary increase and substantial equity.
 
 ### Transition from Finance to Web3 Product Manager
-Jessica, a product manager from the traditional finance sector, utilized her domain expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her a valuable asset. She secured a position at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager from the traditional finance sector, used her domain expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her a valuable asset. She secured a position at a leading DeFi protocol within a short timeframe.
 
 ### Career Change to Web3
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he secured a role leading Developer Relations at a major blockchain platform, with compensation significantly exceeding his previous salary.

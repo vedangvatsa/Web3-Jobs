@@ -111,15 +111,15 @@ Chainlink's design significantly reduces oracle risk.
 
 Oracle security creates roles:
 
-**Oracle Engineers** build secure oracles.
+- **Oracle Engineers** build secure oracles.
 
-**Security Researchers** find oracle vulnerabilities.
+- **Security Researchers** find oracle vulnerabilities.
 
-**Risk Managers** assess oracle risk.
+- **Risk Managers** assess oracle risk.
 
-**Node Operators** run oracle nodes.
+- **Node Operators** run oracle nodes.
 
-**Data Providers** provide accurate pricing data.
+- **Data Providers** provide accurate pricing data.
 
 ## Best Practices
 

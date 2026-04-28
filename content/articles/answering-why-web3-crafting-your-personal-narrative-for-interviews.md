@@ -45,7 +45,7 @@ This section represents your origin story. Identify the moment or concept that m
 
 The spark ignites your interest, but your subsequent actions demonstrate your dedication and initiative.
 
-* **Utilize actionable verbs**: Detail what you read, what you created, and whom you engaged with.
+* **Use actionable verbs**: Detail what you read, what you created, and whom you engaged with.
 * **Connect your journey to your skills**:
     * **Developer**: "Following my initial spark, I immersed myself in the CryptoZombies tutorial to learn [Solidity](/best-programming-languages-for-blockchain-development). I developed a simple [staking](/how-to-become-a-web3-staking-specialist) contract and became intrigued by gas optimization, diving into Ethereum Improvement Proposals (EIPs)."
     * **Non-Technical Professional**: "I became captivated by the space. I listened to every episode of the Bankless podcast. To deepen my understanding, I began writing a weekly blog post on Mirror, where I dissected complex topics like Miner Extractable Value (MEV). This practice not only enhanced my knowledge but also helped me cultivate a modest following."

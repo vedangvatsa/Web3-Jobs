@@ -41,7 +41,7 @@ The job market in Los Angeles is particularly strong for roles in creative indus
 
 A successful career in Web3 requires strategic planning and execution. Here are key steps to consider:
 
-1. **Utilize a Creative or Entertainment Background**: Experience in film, music, art, or gaming can significantly enhance your marketability in LA. You possess an understanding of culture, storytelling, and community engagement. Frame your interest in Web3 to emphasize how it can help creators and their audiences.
+1. **Use a Creative or Entertainment Background**: Experience in film, music, art, or gaming can significantly enhance your marketability in LA. You possess an understanding of culture, storytelling, and community engagement. Frame your interest in Web3 to emphasize how it can help creators and their audiences.
 
 2. **Engage with the NFT Community**: Active participation is essential.
    - **Collect NFTs**: Build a collection that demonstrates your taste and market understanding.
@@ -87,7 +87,7 @@ Dedicate time to understanding blockchain fundamentals, including:
 Your learning should align with your desired role:
 - **For Engineers**: Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **For Product Managers**: Focus on token economics, protocol governance, and user growth in Web3.
-- **For Business Development**: Understand market analysis, partnership strategies, and the regulatory landscape.
+- **For Business Development**: Understand market analysis, partnership strategies, and the regulatory space.
 - **For Community/Operations**: Develop skills in community management, Discord operations, and governance.
 
 ### Step 3: Build Your Portfolio
@@ -117,7 +117,7 @@ Target roles that align with both your existing expertise and new Web3 knowledge
 Alex, a backend engineer with five years of experience at a major tech firm, dedicated time to learning Solidity while working full-time. His contributions to an open-source protocol caught the attention of a leading DeFi project, ultimately resulting in a career transition that included a significant salary increase and substantial equity.
 
 ### Product Manager Transition
-Jessica, with a background in traditional finance, utilized her expertise in DeFi when transitioning into Web3. Her understanding of financial products combined with knowledge of Web3 technology made her an attractive candidate. She secured a position at a prominent DeFi protocol within a short period.
+Jessica, with a background in traditional finance, used her expertise in DeFi when transitioning into Web3. Her understanding of financial products combined with knowledge of Web3 technology made her an attractive candidate. She secured a position at a prominent DeFi protocol within a short period.
 
 ### Career Change Success
 Marcus decided to focus solely on Web3 for several months. Through consistent learning, networking, and portfolio development, he landed a role leading Developer Relations at a significant blockchain platform, with compensation that exceeded his previous salary considerably.

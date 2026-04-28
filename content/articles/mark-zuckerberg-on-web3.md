@@ -36,7 +36,7 @@ Meta has launched several Web3 initiatives that reflect its commitment to the me
   
 2. **Horizon Worlds:** This is Meta's flagship social VR platform. The company is experimenting with in-world economies where creators can sell virtual items and grant access to exclusive spaces.
 
-3. **Avatars:** Meta has invested significantly in a universal avatar system that users can customize and utilize across its suite of apps (Facebook, Instagram, Messenger, and VR). The company plans to sell digital clothing and accessories for these avatars, potentially as NFTs.
+3. **Avatars:** Meta has invested significantly in a universal avatar system that users can customize and use across its suite of apps (Facebook, Instagram, Messenger, and VR). The company plans to sell digital clothing and accessories for these avatars, potentially as NFTs.
 
 4. **Diem (formerly Libra):** Although the project was ultimately abandoned due to regulatory pressures, Diem marked Meta's initial foray into digital currencies. Its failure provided insights into the challenges of disrupting the existing financial system.
 
@@ -114,7 +114,7 @@ Depending on your target role, consider the following:
 
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3
-- **Business Development:** Focus on market analysis, partnership strategy, and the regulatory landscape
+- **Business Development:** Focus on market analysis, partnership strategy, and the regulatory space
 - **Community/Operations:** Develop skills in community building, Discord management, and governance
 
 #### Step 3: Build Your Portfolio
@@ -139,7 +139,7 @@ The Web3 community is highly accessible. Consider these approaches:
 
 #### Step 5: Apply Strategically
 
-Target roles that utilize your existing expertise along with your new Web3 skills:
+Target roles that use your existing expertise along with your new Web3 skills:
 
 - Backend engineers should pursue blockchain infrastructure roles
 - Product managers should seek protocol product roles
@@ -153,7 +153,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 #### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her extremely valuable. She secured a role at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her extremely valuable. She secured a role at a leading DeFi protocol within a short timeframe.
 
 #### Career Changer Success
 

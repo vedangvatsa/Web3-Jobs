@@ -86,7 +86,7 @@ Dedicate 4 to 8 weeks to learning blockchain fundamentals, including:
 Focus on acquiring skills relevant to your target role:
 - **Engineers:** Master [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Familiarize yourself with token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio

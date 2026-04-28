@@ -21,7 +21,7 @@ To price your services accurately, first, you must understand the value you crea
 1. **Assess Your Skills and Experience:**
    - **Experience Level:** Identify whether you are a junior, mid-level, or senior professional. Your experience directly influences your pricing.
    - **Skill Rarity:** Consider the uniqueness of your skills. Common skills, such as basic React development, command lower rates than rare specializations like [[smart contract](/what-are-smart-contracts) security auditing](/smart-contract-auditor-career).
-   - **Track Record:** Evaluate your "proof of work." Have you successfully built products? Do you have a strong [portfolio](/building-web3-portfolio) showcasing public contributions? Tangible results serve as your best leverage.
+   - **Track Record:** Evaluate your "proof of work." Have you successfully built products? Do you have a strong [portfolio](/building-web3-portfolio) showcasing public contributions? Tangible results serve as your best use.
 
 2. **Research the Market Rate:**
    Pricing your services requires understanding the market's willingness to pay for your skills and experience.
@@ -76,7 +76,7 @@ Negotiating your salary or freelance rate follows similar principles.
    - **For Employees:** Consider asking for a larger [token](/what-is-a-token) grant, a sign-on bonus, a better title, or a budget for professional development.
    - **For Freelancers:** Negotiate project scope, public testimonials, or follow-on retainer agreements.
 
-5. **Be Willing to Walk Away:** This represents your strongest leverage. If a client or employer won’t pay your worth, maintain the confidence to decline politely. This stance demonstrates that you value your skills and time.
+5. **Be Willing to Walk Away:** This represents your strongest use. If a client or employer won’t pay your worth, maintain the confidence to decline politely. This stance demonstrates that you value your skills and time.
 
 Pricing your services improves through practice. By conducting thorough research, recognizing your value, and negotiating confidently, you can secure fair compensation for your contributions as a professional in the tech industry.
 

@@ -138,7 +138,7 @@ The Web3 community is notably accessible. Engage in the following activities:
 
 ### Step 5: Apply Strategically
 
-Target roles that utilize your existing skills along with your new Web3 knowledge:
+Target roles that use your existing skills along with your new Web3 knowledge:
 
 - If you are a backend engineer, seek blockchain infrastructure roles.
 - If you are a PM, pursue protocol product roles.

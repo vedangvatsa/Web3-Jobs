@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 While discussions about [Web3](/what-is-web3) often emphasize finance and [NFTs](/what-are-nfts), a significant movement is emerging that focuses on using [blockchain](/what-is-a-blockchain) technology for social good. This movement involves funding public goods and supporting positive social impact through initiatives known as **Public Goods DAOs**.
 
-Public goods are resources that anyone can access without diminishing their availability to others. Classic examples include clean air, open-source software, and scientific research. Historically, funding for public goods has been insufficient due to the absence of a direct profit motive. Public Goods DAOs aim to address this funding gap by creating innovative models for resource allocation.
+Public goods are resources that anyone can access without diminishing their availability to others. Classic examples include clean air, open-source software, and scientific research. Historically, funding for public goods has been insufficient due to the absence of a direct profit motive. Public Goods DAOs aim to address this funding gap by creating new models for resource allocation.
 
 ### Understanding Public Goods DAOs
 
@@ -87,7 +87,7 @@ Depending on your desired role, you may need to learn:
 
 - **Engineers**: Proficiency in [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers**: Knowledge of token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development**: Skills in market analysis, partnership strategy, and understanding the regulatory landscape.
+- **Business Development**: Skills in market analysis, partnership strategy, and understanding the regulatory space.
 - **Community/Operations**: Expertise in community building, Discord management, and governance processes.
 
 ### Step 3: Build Your Portfolio
@@ -126,7 +126,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly sought after. Within a short period, she secured a role at a leading DeFi protocol.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly sought after. Within a short period, she secured a role at a leading DeFi protocol.
 
 ### Career Changer Success Story
 
@@ -136,7 +136,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through continuou
 
 **Volatility Risk**: The inherent volatility of the crypto market can impact job stability, particularly in early-stage startups. Professionals entering Web3 should maintain 6-12 months of living expenses as a safety net, negotiate base salaries in fiat currency, and ideally join projects with established revenue models.
 
-**Regulatory Uncertainty**: The regulatory landscape for blockchain companies varies across jurisdictions. Before joining any project, ensure the team has competent legal counsel and actively engages with regulators.
+**Regulatory Uncertainty**: The regulatory space for blockchain companies varies across jurisdictions. Before joining any project, ensure the team has competent legal counsel and actively engages with regulators.
 
 **Due Diligence**: Not all Web3 projects are legitimate. Conduct thorough research on the founding team's background, review smart contract audit reports, verify on-chain treasury holdings, and connect with current or former team members before accepting offers.
 

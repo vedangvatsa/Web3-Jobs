@@ -3,7 +3,7 @@
 title: "Web3 Jobs in South Africa: Exploring Careers in a Growing Crypto Hub"
 image: "https://images.unsplash.com/photo-1552937075-967cf58b74a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzb3V0aCUyMGFmcmljYXxlbnwwfHx8fDE3NTkyNjk0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "south africa cape town"
-description: "A career guide to the Web3 job market in South Africa. Discover the landscape of crypto adoption, key local projects, in-demand roles, and salary expectations."
+description: "A career guide to the Web3 job market in South Africa. Discover the space of crypto adoption, key local projects, in-demand roles, and salary expectations."
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
@@ -86,7 +86,7 @@ Depending on your desired role, consider the following skills:
 
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user acquisition in Web3.
-- **Business Development:** Gain knowledge in market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Gain knowledge in market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Focus on community building, management of platforms like Discord, and governance practices.
 
 #### Step 3: Build a Portfolio

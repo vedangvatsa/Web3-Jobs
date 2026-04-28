@@ -38,7 +38,7 @@ The competitive job market in Chicago offers lucrative salaries, particularly fo
 
 ### Building a Web3 Career in Chicago
 
-#### Utilize Your Background
+#### Use Your Background
 
 A quantitative or traditional finance background provides an immediate advantage in the Chicago Web3 job market. Experience in trading, quantitative analysis, or financial engineering makes professionals highly sought after. However, it is essential to gain a solid understanding of DeFi protocols and their market dynamics.
 
@@ -123,7 +123,7 @@ Alex, a backend engineer with five years of experience at a major tech firm, ded
 
 #### Product Manager Transition
 
-Jessica, a product manager from traditional finance, utilized her knowledge of financial products in the DeFi space. Her combined expertise in finance and Web3 technology made her a valuable asset. She secured a position at a prominent DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, used her knowledge of financial products in the DeFi space. Her combined expertise in finance and Web3 technology made her a valuable asset. She secured a position at a prominent DeFi protocol within a short timeframe.
 
 #### Career Change Success
 
@@ -137,7 +137,7 @@ The crypto market's volatility can affect job security, particularly in early-st
 
 #### Regulatory Uncertainty
 
-The evolving regulatory landscape for blockchain companies can pose challenges. Before accepting a position, ensure the team has competent legal counsel and is proactively engaging with regulators.
+The evolving regulatory space for blockchain companies can pose challenges. Before accepting a position, ensure the team has competent legal counsel and is proactively engaging with regulators.
 
 #### Due Diligence
 

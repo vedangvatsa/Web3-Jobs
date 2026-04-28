@@ -61,7 +61,7 @@ Smart contracts facilitate parametric insurance products. A flight insurance con
 
 ### Governance (DAOs)
 
-**[DAOs](/what-is-a-dao)** utilize smart contracts to manage voting, treasury funds, and membership. Jobs in this area include community managers, governance experts, and DAO tooling developers.
+**[DAOs](/what-is-a-dao)** use smart contracts to manage voting, treasury funds, and membership. Jobs in this area include community managers, governance experts, and DAO tooling developers.
 
 ## Limitations and Risks
 
@@ -108,7 +108,7 @@ Depending on your targeted role:
 
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Focus on community building, Discord management, and governance processes.
 
 ### Step 3: Develop Your Portfolio

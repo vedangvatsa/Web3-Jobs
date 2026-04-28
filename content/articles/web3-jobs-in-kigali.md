@@ -12,13 +12,13 @@ lastUpdated: "2026-04-27"
 
 Kigali, Rwanda's capital, is emerging as a significant center for technology and innovation in Africa. The local government focuses on technological advancement, education, and creating a favorable business environment. This proactive approach attracts tech startups and international companies, positioning Kigali as a key player in the [Web3](/what-is-web3) domain. The city is becoming a vital location for [blockchain](/what-is-a-blockchain) development and entrepreneurship across the continent.
 
-The Web3 ecosystem in Kigali is still developing but shows strong potential due to government backing, an emphasis on practical enterprise solutions, and a vibrant community of young tech talent. Kigali serves as a testing ground for innovative governance and financial technologies, opening doors for Web3 professionals interested in impactful, real-world applications. This guide explores the [Web3 career](/web3-jobs-for-beginners) opportunities in Kigali, highlighting unique advantages, in-demand roles, and strategies for building a successful career in this promising environment.
+The Web3 ecosystem in Kigali is still developing but shows strong potential due to government backing, an emphasis on practical enterprise solutions, and a vibrant community of young tech talent. Kigali serves as a testing ground for new governance and financial technologies, opening doors for Web3 professionals interested in impactful, real-world applications. This guide explores the [Web3 career](/web3-jobs-for-beginners) opportunities in Kigali, highlighting unique advantages, in-demand roles, and strategies for building a successful career in this promising environment.
 
 ### The Web3 Ecosystem in Kigali
 
 Kigali's ascent as a Web3 hub results from intentional policy-making and investment in technology.
 
-- **Government Support**: The Rwandan government actively fosters a supportive environment for tech companies through initiatives like Kigali Innovation City and partnerships with institutions such as Carnegie Mellon University Africa. This strategic focus aims to develop a world-class tech ecosystem.
+- **Government Support**: The Rwandan government actively builds a supportive environment for tech companies through initiatives like Kigali Innovation City and partnerships with institutions such as Carnegie Mellon University Africa. This strategic focus aims to develop a world-class tech ecosystem.
   
 - **Enterprise and Governance Focus**: Most Web3 initiatives in Kigali concentrate on practical enterprise applications. Examples include blockchain implementations for land registries, supply chain management, and transparent e-governance systems.
 

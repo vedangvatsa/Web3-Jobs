@@ -22,7 +22,7 @@ Numerous technologies exist within the field of 3D printing, each possessing uni
 |---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|----------------------------------------|
 | Fused Deposition Modeling (FDM) | The most widespread and cost-effective printing method. FDM printers extrude melted plastic filament through a nozzle to build objects layer by layer. | Affordable, widely available           | Limited materials, lower resolution    |
 | Stereolithography (SLA)        | The first method developed in the 1980s, SLA uses a UV laser to cure liquid resin into solid plastic.                                          | High detail, smooth surface finish    | More expensive, requires post-processing|
-| Selective Laser Sintering (SLS)| Utilizes a laser to fuse powdered materials, typically nylon, layer by layer without needing support structures.                                 | Complex geometries, strong parts      | Higher material costs, slower process  |
+| Selective Laser Sintering (SLS)| Uses a laser to fuse powdered materials, typically nylon, layer by layer without needing support structures.                                 | Complex geometries, strong parts      | Higher material costs, slower process  |
 | Direct Metal Laser Sintering (DMLS)| Similar to SLS but uses metal powders. A laser melts metal particles together to create strong, intricate metal components.                      | High strength, complex designs        | Very costly, limited material options   |
 
 ### Impact on Manufacturing and Prototyping
@@ -31,11 +31,11 @@ Numerous technologies exist within the field of 3D printing, each possessing uni
 
 Additionally, 3D printing supports on-demand manufacturing. Businesses can print spare parts as needed rather than maintaining extensive inventories. This approach proves especially beneficial for outdated machinery, where spare components may no longer be in production.
 
-Additive manufacturing enables the creation of intricate geometries unattainable through traditional methods. Engineers can design parts with internal lattice structures, optimizing strength while minimizing weight. This advantage is particularly crucial in industries like aerospace, where every gram affects performance.
+Additive manufacturing enables the creation of intricate geometries unattainable through traditional methods. Engineers can design parts with internal lattice structures, optimizing strength while minimizing weight. This advantage is particularly important in industries like aerospace, where every gram affects performance.
 
 ### Applications Beyond Traditional Manufacturing
 
-The uses of 3D printing extend far beyond manufacturing. In the medical sector, professionals utilize it to produce custom surgical guides, implants, and prosthetics tailored to individual patients. Dentists use 3D printers to create crowns, bridges, and clear aligners on-site, enhancing patient care and reducing turnaround times. Furthermore, researchers are exploring bioprinting, which involves printing living tissues and potentially entire organs for future transplantation.
+The uses of 3D printing extend far beyond manufacturing. In the medical sector, professionals use it to produce custom surgical guides, implants, and prosthetics tailored to individual patients. Dentists use 3D printers to create crowns, bridges, and clear aligners on-site, enhancing patient care and reducing turnaround times. Also, researchers are exploring bioprinting, which involves printing living tissues and potentially entire organs for future transplantation.
 
 Consumer applications also abound. Individuals create bespoke items ranging from phone cases to game pieces. Architects use 3D printing for detailed building models, facilitating better client presentations. The fashion industry experiments with 3D-printed clothing and footwear, pushing the boundaries of design and production.
 
@@ -84,7 +84,7 @@ Sarah faced challenges in rapid prototyping within her team. By implementing 3D 
 Juan struggled with traditional manufacturing timelines when developing a new product feature. By integrating 3D printing into his workflow, he achieved faster turnaround times and improved design flexibility, ultimately leading to a successful product launch.
 
 #### Example 3: Maya's Transition from Web2 to Web3
-Maya utilized 3D printing to create prototypes for her new startup. By using this technology, she adapted quickly to the demands of the Web3 space, allowing her to innovate and respond to market changes effectively.
+Maya used 3D printing to create prototypes for her new startup. By using this technology, she adapted quickly to the demands of the Web3 space, allowing her to innovate and respond to market changes effectively.
 
 ### Common Pitfalls to Avoid
 

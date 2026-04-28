@@ -39,14 +39,14 @@ Web3 offers ample opportunities to engage with advanced technology, tackle compl
     - **Helping Others:** Assisting others succeed and seeing them create impressive projects is immensely fulfilling.
     - **Multiplier Effect:** By enabling numerous developers, you significantly contribute to the growth of the ecosystem.
     - **Building Community:** This role places you at the heart of a vibrant developer community, engaging with peers during events like hackathons.
-- **Pathway to Entry:** A combination of strong technical skills and exceptional communication abilities is crucial. More information is available in our [guide to the Web3 DevRel role](/what-is-a-web3-devrel-engineer).
+- **Pathway to Entry:** A combination of strong technical skills and exceptional communication abilities is important. More information is available in our [guide to the Web3 DevRel role](/what-is-a-web3-devrel-engineer).
 
 ### 4. Public Goods / Social Impact DAO Contributor: The Altruist
 
 - **Role Overview:** Contributors in this category work with Decentralized Autonomous Organizations (DAOs) dedicated to social impact and funding public goods, such as open-source software, scientific research, and environmental initiatives.
 - **Rewards of the Role:**
-    - **Mission-Driven Work:** Your efforts focus on improving the world, utilizing blockchain technology to address real issues.
-    - **Pioneering New Models:** You help create innovative, equitable funding and collaboration models, like Quadratic Funding.
+    - **Mission-Driven Work:** Your efforts focus on improving the world, using blockchain technology to address real issues.
+    - **Pioneering New Models:** You help create new, equitable funding and collaboration models, like Quadratic Funding.
     - **Aligning Work with Values:** This role offers the chance to build a career that resonates with your personal values.
 - **Pathway to Entry:** Engage with projects like Gitcoin and [contribute to causes you believe in](/web3-for-good-careers-in-social-impact-daos) to establish your credibility in this field.
 
@@ -98,7 +98,7 @@ Dedicate 4-8 weeks to learning the fundamentals of [blockchain](/what-is-a-block
 Depending on your desired role, consider the following skill sets:
 - **Engineers:** Proficiency in [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
 - **Product Managers:** Knowledge of token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Skills in market analysis, partnership strategy, and understanding the regulatory landscape.
+- **Business Development:** Skills in market analysis, partnership strategy, and understanding the regulatory space.
 - **Community/Operations:** Expertise in community building, managing Discord servers, and governance processes.
 
 ### Step 3: Build Your Portfolio
@@ -121,7 +121,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Focus on roles that utilize your existing expertise along with your new Web3 knowledge:
+Focus on roles that use your existing expertise along with your new Web3 knowledge:
 - Backend engineers should seek blockchain infrastructure positions.
 - Product managers should target protocol-focused product roles.
 - Sales and business professionals should pursue opportunities in Web3 business development.
@@ -144,7 +144,7 @@ Marcus transitioned from a corporate role to focus exclusively on Web3 over six 
 
 **Volatility Risk:** The crypto market's inherent volatility can affect job stability, particularly in early-stage startups. New entrants should maintain a reserve of living expenses, negotiate base salaries in fiat currency, and ideally join projects with established revenue models or substantial treasury backing.
 
-**Regulatory Uncertainty:** The regulatory landscape for blockchain companies remains fluid. Before joining a project, confirm that the team has competent legal counsel and is proactively engaging with regulators.
+**Regulatory Uncertainty:** The regulatory space for blockchain companies remains fluid. Before joining a project, confirm that the team has competent legal counsel and is proactively engaging with regulators.
 
 **Due Diligence:** Not every Web3 project is legitimate. Investigate the founding team's background, scrutinize smart contract audit reports, verify on-chain treasury holdings, and consult current or former team members before accepting job offers.
 

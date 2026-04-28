@@ -58,7 +58,7 @@ Users retain ownership of their credentials, disclosing only the necessary infor
 
 #### 2. Reusability
 
-A single credential can be utilized across various decentralized applications (dApps), eliminating the need for repeated KYC processes.
+A single credential can be used across various decentralized applications (dApps), eliminating the need for repeated KYC processes.
 
 #### 3. Enhanced Security
 

@@ -24,7 +24,7 @@ South Korea's Web3 ecosystem is distinguished by several defining trends:
 
 - **Preference for Local Platforms:** The market favors local platforms and ecosystems. Exchanges such as Upbit and Bithumb dominate trading volume, while social media usage is predominantly via local platforms like KakaoTalk.
 
-- **Regulatory Environment:** The regulatory landscape is dynamic and continuously evolving. Although the government supports the underlying technology, it maintains stringent oversight, especially regarding the classification of "Play-to-Earn" (P2E) games.
+- **Regulatory Environment:** The regulatory space is dynamic and continuously evolving. Although the government supports the underlying technology, it maintains stringent oversight, especially regarding the classification of "Play-to-Earn" (P2E) games.
 
 - **Central Hub:** Seoul, particularly the Gangnam district, serves as the epicenter of the South Korean tech and Web3 sector, hosting most major companies and events.
 
@@ -45,7 +45,7 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 
 2. **Gaming or Entertainment Experience:** A background in a major gaming studio, such as Nexon or Netmarble, provides a substantial advantage. This experience indicates familiarity with product development and marketing for a broad consumer base.
 
-3. **Knowledge of the Local Ecosystem:** Understanding key local players is crucial. Familiarity with platforms like Upbit and Kakao and how they can drive growth is a key strategic asset.
+3. **Knowledge of the Local Ecosystem:** Understanding key local players is important. Familiarity with platforms like Upbit and Kakao and how they can drive growth is a key strategic asset.
 
 4. **Networking at Local Events:** Participation in events such as Korea Blockchain Week (KBW) and BUIDL Asia in Seoul can facilitate valuable connections in the Korean and broader Asian Web3 community.
 
@@ -227,7 +227,7 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 **Q1: Is it necessary to be in South Korea?**
 A: Yes, being in South Korea is advisable, particularly for interviews. Most roles require in-person collaboration, but remote positions are available with international companies.
 
-**Q2: How crucial is Korean language proficiency?**
+**Q2: How important is Korean language proficiency?**
 A: Proficiency in Korean is essential, with a significant percentage of roles requiring it. Without language skills, your options are limited to international firms.
 
 **Q3: What is the quickest path to significant compensation?**
@@ -246,7 +246,7 @@ A: It is wise to build experience for 2-3 years before launching your own studio
 A: The E-1 visa for skilled workers is the standard for Web3 positions. Companies typically handle sponsorship.
 
 **Q8: How can I find job opportunities?**
-A: Utilize LinkedIn by searching for Korea, gaming, and crypto roles. Explore job boards on our site and directly visit the career pages of studios like Nexon, WeMade, and Kakao.
+A: Use LinkedIn by searching for Korea, gaming, and crypto roles. Explore job boards on our site and directly visit the career pages of studios like Nexon, WeMade, and Kakao.
 
 **Q9: What does salary progression look like?**
 A: Year 1 salaries typically range from significant value; Year 2: significant value; Year 3+: significant value.

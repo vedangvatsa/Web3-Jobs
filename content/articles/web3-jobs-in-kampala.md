@@ -24,7 +24,7 @@ Kampala's Web3 ecosystem is influenced by its youthful workforce and an active s
 
 ### In-Demand Roles and Salary Expectations
 
-The demand for Web3 talent in Kampala is increasing sharply, particularly for developers with mobile and full-stack experience. While local salaries may be modest, they remain competitive within Uganda's tech market. Furthermore, the option to work remotely for international companies can significantly increase earning potential.
+The demand for Web3 talent in Kampala is increasing sharply, particularly for developers with mobile and full-stack experience. While local salaries may be modest, they remain competitive within Uganda's tech market. Also, the option to work remotely for international companies can significantly increase earning potential.
 
 | Role | Experience Level | Salary Range (UGX/Month) | Salary Range (USD/Month) |
 |------|------------------|-------------------------|---------------------------|
@@ -135,7 +135,7 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 
 **Challenge: Mobile Internet Reliability**
 - Typical speeds in Kampala range from moderate to decent, with occasional outages.
-- **Solution:** Utilize tech hubs with better connectivity, have mobile hotspot backups, and optimize applications for low bandwidth.
+- **Solution:** Use tech hubs with better connectivity, have mobile hotspot backups, and optimize applications for low bandwidth.
 
 **Challenge: Currency Volatility**
 - The Uganda Shilling (UGX) often fluctuates.

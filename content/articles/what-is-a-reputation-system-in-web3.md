@@ -38,7 +38,7 @@ Unlike centralized credit scores, which rely on banks and credit bureaus, a Web3
 
 - **Undercollateralized Lending in DeFi:** Users with high on-chain reputation scores can secure loans with less collateral, as their reputation serves as a form of social collateral.
   
-- **Targeted Airdrop Distribution:** Projects can utilize reputation scores to exclude bots and airdrop farmers, ensuring that tokens reach authentic and valuable community members.
+- **Targeted Airdrop Distribution:** Projects can use reputation scores to exclude bots and airdrop farmers, ensuring that tokens reach authentic and valuable community members.
   
 - **DAO Governance:** Higher reputation scores can translate into greater voting power, promoting a meritocratic approach over a simple one-token-one-vote system.
   
@@ -117,7 +117,7 @@ The Web3 community is accessible and welcoming:
 
 ### Step 5: Apply Strategically
 
-Target roles that utilize your existing expertise while incorporating your new Web3 knowledge:
+Target roles that use your existing expertise while incorporating your new Web3 knowledge:
 - Backend engineers should seek blockchain infrastructure positions.
 - Product managers should focus on protocol product roles.
 - Sales professionals should search for opportunities in Web3 business development.

@@ -30,7 +30,7 @@ Recruiters frequently ask for your salary expectations early in the [interview](
 
 Entering a negotiation without knowledge of the market rate for your position is akin to taking an exam unprepared. You need credible data to support your salary request.
 
-**Recommended Actions:** Utilize resources such as Glassdoor, Levels.fyi, and Payscale to research average salaries for your specific role, level of experience, and geographic location. This knowledge will help you confidently advocate for your worth and provide substantiated arguments.
+**Recommended Actions:** Use resources such as Glassdoor, Levels.fyi, and Payscale to research average salaries for your specific role, level of experience, and geographic location. This knowledge will help you confidently advocate for your worth and provide substantiated arguments.
 
 ### 4. Focusing Only on Base Salary
 
@@ -56,7 +56,7 @@ A salary negotiation functions as a business transaction rather than a personal 
 
 ### 6. Being Apologetic or Aggressive
 
-Your tone during negotiation plays a crucial role in its outcome.
+Your tone during negotiation plays a important role in its outcome.
 
 *   **Avoid being apologetic.** Requesting what you deserve does not equate to greed. Maintain confidence and clarity.
 *   **Avoid being aggressive or demanding.** An aggressive approach can harm your relationship with your new employer before you even start. Frame discussions as collaborative efforts to reach a mutually beneficial solution.

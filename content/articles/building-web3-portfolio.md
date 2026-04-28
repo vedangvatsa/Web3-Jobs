@@ -26,7 +26,7 @@ A strong Web3 portfolio is built on three essential pillars. Aim for substantial
 
 ## Portfolio Projects for Smart Contract Developers
 
-To excel as a smart contract developer, you must showcase your understanding of [Solidity](/best-programming-languages-for-blockchain-development), security protocols, and the Ethereum Virtual Machine (EVM). Focus on building innovative projects rather than simple clones.
+To excel as a smart contract developer, you must showcase your understanding of [Solidity](/best-programming-languages-for-blockchain-development), security protocols, and the Ethereum Virtual Machine (EVM). Focus on building new projects rather than simple clones.
 
 ### Beginner Projects:
 | Project Name              | Description                                                                 |
@@ -38,7 +38,7 @@ To excel as a smart contract developer, you must showcase your understanding of 
 ### Intermediate Projects:
 | Project Name                  | Description                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
-| ERC-721 [NFT Collection](/what-are-nfts) | Create a unique NFT collection that incorporates innovative minting mechanics, such as allowlisting or bonding curves. |
+| ERC-721 [NFT Collection](/what-are-nfts) | Create a unique NFT collection that incorporates new minting mechanics, such as allowlisting or bonding curves. |
 | On-Chain Governance System     | Build a foundational [DAO](/what-is-a-dao) that allows token holders to propose and vote on initiatives. |
 | Decentralized [Staking](/how-to-become-a-web3-staking-specialist) Protocol | Develop a contract enabling users to stake one token to earn rewards in another. |
 
@@ -110,7 +110,7 @@ Dedicate 4-8 weeks to grasping blockchain fundamentals, including:
 Based on your target role, focus on the necessary skills:
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain insights into market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Gain insights into market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio

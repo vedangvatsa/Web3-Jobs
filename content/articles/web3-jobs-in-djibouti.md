@@ -53,7 +53,7 @@ If you are relocating to work on such initiatives, see: **[How to Make a Good Fi
 
 **A Regional Financial Center:** With a well-regulated banking sector, Djibouti aims to become a financial hub for the region. This ambition creates demand for FinTech and DeFi solutions that facilitate efficient cross-border payments and trade finance.
 
-**Government and Port Authority Interest:** The Djibouti Ports and Free Zones Authority (DPFZA) and the national government actively pursue digital transformation. Their openness to innovative technologies boosts the potential for blockchain pilot projects.
+**Government and Port Authority Interest:** The Djibouti Ports and Free Zones Authority (DPFZA) and the national government actively pursue digital transformation. Their openness to new technologies boosts the potential for blockchain pilot projects.
 
 **International Presence:** Djibouti hosts several foreign military bases and serves as a key location for international organizations, including the UN, AU, and Arab League operations. This international connectivity can help fuel technology projects.
 

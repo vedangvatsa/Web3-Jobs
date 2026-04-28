@@ -3,7 +3,7 @@
 title: "Blockchain Developer Salary Trends"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "salary money crypto"
-description: "A comprehensive guide to Web3 developer salaries in 2026. We break down what you can earn as a smart contract, frontend, or protocol engineer in the."
+description: "A full guide to Web3 developer salaries in 2026. We break down what you can earn as a smart contract, frontend, or protocol engineer in the."
 category: "Educational"
 
 publishedDate: "2026-03-11"
@@ -110,7 +110,7 @@ Focus on skills relevant to your desired role:
 
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Develop skills in market analysis, partnership strategies, and knowledge of the regulatory landscape.
+- **Business Development:** Develop skills in market analysis, partnership strategies, and knowledge of the regulatory space.
 - **Community/Operations:** Hone skills in community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio

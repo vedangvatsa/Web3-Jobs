@@ -32,7 +32,7 @@ This role involves hands-on technical work. Validator operations require DevOps 
 
 **2. Liquid Staking Protocol Developer**
 
-Liquid staking represents a crucial sector in [DeFi](/what-is-defi). Protocols like Lido and Rocket Pool enable users to stake their assets while receiving a liquid token (Liquid Staking Derivative, or LSD) for use in other DeFi applications.
+Liquid staking represents a important sector in [DeFi](/what-is-defi). Protocols like Lido and Rocket Pool enable users to stake their assets while receiving a liquid token (Liquid Staking Derivative, or LSD) for use in other DeFi applications.
 
 - **Responsibilities:**
   - Design and implement [smart contracts](/what-are-smart-contracts) for staking and unstaking processes.
@@ -104,7 +104,7 @@ Dedicate 4 to 8 weeks to learning blockchain fundamentals, including:
 Tailor your skills based on your target role:
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Study token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio

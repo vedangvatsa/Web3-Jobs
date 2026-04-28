@@ -53,7 +53,7 @@ Dorsey believes the internet requires a native currency, one that is not subject
 
 To realize his vision, Dorsey and his team at TBD, a subsidiary of Block, introduced "Web5: The Decentralized Web Platform." The name serves as a direct challenge to "Web3" (combining Web2 and Web3 into Web5).
 
-Web5 does not represent a new blockchain. Instead, it proposes a set of open standards aimed at granting individuals control over their identity and data, utilizing the Bitcoin blockchain as its foundation.
+Web5 does not represent a new blockchain. Instead, it proposes a set of open standards aimed at granting individuals control over their identity and data, using the Bitcoin blockchain as its foundation.
 
 - **Decentralized Identifiers (DIDs):** Web5 employs DIDs, a W3C standard, enabling users to create and manage their own digital identities without dependence on corporations or governments.
 - **Decentralized Web Nodes (DWNs):** This feature acts as a personal data repository, allowing individuals to store their data autonomously. Rather than residing on centralized servers like Facebook, data is securely housed within a DWN, with users granting applications access as needed.

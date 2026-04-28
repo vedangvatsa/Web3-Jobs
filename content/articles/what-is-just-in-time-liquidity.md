@@ -75,7 +75,7 @@ A: Realistically, no. Executing a JIT liquidity strategy demands sophisticated i
 A: A **[sandwich attack](/sandwich-attack-in-dex-explained)** capitalizes on a user's slippage by executing trades before and after the victim's transaction. In contrast, JIT liquidity exploits trading fees by providing liquidity for the victim's trade and subsequently withdrawing it. Both strategies are forms of MEV that take advantage of pending transactions.
 
 **Q: Are other DEXs besides Uniswap v3 susceptible to JIT liquidity?**  
-A: Any DEX utilizing a concentrated liquidity model may be vulnerable to JIT liquidity strategies.
+A: Any DEX using a concentrated liquidity model may be vulnerable to JIT liquidity strategies.
 
 **Q: What can be done to mitigate JIT liquidity attacks?**  
 A: Research is ongoing in this area. Potential solutions include:
@@ -118,7 +118,7 @@ Consider Sarah, a blockchain developer at a startup. Initially struggling with u
 Juan, a product manager in DeFi, faced challenges related to liquidity strategies. By applying the framework outlined here, he successfully enhanced his product's efficiency in capturing trading fees. His experience illustrates the effectiveness of these principles in practice.
 
 #### Example 3
-Maya, transitioning from a Web2 to a Web3 environment, utilized these strategies to adapt swiftly. Her success demonstrates that understanding JIT liquidity is beneficial across varying backgrounds and experience levels.
+Maya, transitioning from a Web2 to a Web3 environment, used these strategies to adapt swiftly. Her success demonstrates that understanding JIT liquidity is beneficial across varying backgrounds and experience levels.
 
 ### Common Mistakes to Avoid
 

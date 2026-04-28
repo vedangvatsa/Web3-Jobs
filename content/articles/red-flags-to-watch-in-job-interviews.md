@@ -76,7 +76,7 @@ Frame your questions positively. Instead of asking, "Is this a toxic place to wo
 
 ## Why This Matters
 
-Understanding these red flags and green flags can significantly impact your professional trajectory. In the current job market, professionals who develop these skills often find greater job satisfaction and career advancement opportunities. This is particularly relevant in [Web3](/what-is-web3) organizations, where communication and collaboration play crucial roles.
+Understanding these red flags and green flags can significantly impact your professional trajectory. In the current job market, professionals who develop these skills often find greater job satisfaction and career advancement opportunities. This is particularly relevant in [Web3](/what-is-web3) organizations, where communication and collaboration play important roles.
 
 ## Step-by-Step Guide
 
@@ -112,7 +112,7 @@ Juan, a product manager in [DeFi](/what-is-defi), struggled with unclear expecta
 
 ### Example 3
 
-Maya transitioned from Web2 to Web3 and utilized these strategies to adapt quickly. Her success in fitting into her new role emphasizes that these methods are effective regardless of previous experience.
+Maya transitioned from Web2 to Web3 and used these strategies to adapt quickly. Her success in fitting into her new role emphasizes that these methods are effective regardless of previous experience.
 
 ## Common Mistakes to Avoid
 
@@ -122,7 +122,7 @@ Maya transitioned from Web2 to Web3 and utilized these strategies to adapt quick
 
 3. **One-Size-Fits-All Approach**: Customize strategies to fit your unique circumstances.
 
-4. **Giving Up Too Soon**: Persistence is crucial; embrace discomfort for meaningful change.
+4. **Giving Up Too Soon**: Persistence is important; embrace discomfort for meaningful change.
 
 5. **Not Tracking Progress**: Measure your progress to identify what works and what needs adjustment.
 

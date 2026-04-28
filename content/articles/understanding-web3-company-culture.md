@@ -15,7 +15,7 @@ Working in [Web3](/what-is-web3) presents a unique experience distinct from trad
 
 Radical transparency, often encapsulated by the phrase "default to open," is fundamental to Web3 culture. This principle originates from the inherently transparent nature of the [blockchain](/what-is-a-blockchain).
 
-- **Open Metrics:** Many Web3 companies utilize public dashboards, frequently hosted on platforms like Dune Analytics, to display key performance indicators in real-time. Metrics such as daily active users and revenue from protocols are accessible to everyone, including competitors.
+- **Open Metrics:** Many Web3 companies use public dashboards, frequently hosted on platforms like Dune Analytics, to display key performance indicators in real-time. Metrics such as daily active users and revenue from protocols are accessible to everyone, including competitors.
 - **Public Roadmaps and Governance:** Strategic decisions are typically debated in community forums and Discord channels before being voted on by [token](/what-is-a-token) holders. Employees should expect their work and the company's trajectory to be subject to public examination.
 - **On-Chain Salaries:** In various DAOs, payments to contributors occur on-chain, making them publicly visible. This transparency can be startling but builds a sense of equity within the organization.
 
@@ -31,7 +31,7 @@ Web3 operates as a global industry, requiring many organizations to adopt remote
 
 ## Core Trait 3: A Culture of Ownership
 
-Ownership is a crucial concept in Web3, extending to both users and builders, reflected in compensation and responsibility.
+Ownership is a important concept in Web3, extending to both users and builders, reflected in compensation and responsibility.
 
 - **Token-Based Compensation:** A portion of compensation often comes in the form of a project’s native token, typically subject to a vesting schedule. This structure positions you as an owner rather than merely an employee, linking your financial success to the project's performance.
 - **High Degree of Autonomy:** Teams tend to be small and flat, expecting individuals to take initiative, define tasks, and execute without constant oversight. A mentality of “that’s not my job” will likely hinder your progress.
@@ -92,7 +92,7 @@ Tailor your learning to align with your desired role:
 
 - **Engineers:** Familiarize yourself with [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Learn about market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Learn about market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Focus on community building, Discord management, and governance processes.
 
 ### Step 3: Build Your Portfolio
@@ -114,7 +114,7 @@ Engagement with the Web3 community can significantly enhance your opportunities:
 - Seek out local Web3 meetups to form connections
 
 ### Step 5: Apply Strategically
-Target roles that utilize your existing skills along with new Web3 knowledge:
+Target roles that use your existing skills along with new Web3 knowledge:
 
 - Backend engineers may pursue blockchain infrastructure roles.
 - Product managers should seek protocol-focused product positions.

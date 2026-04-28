@@ -95,7 +95,7 @@ Real systems:
 
 - **Optimism**: Operates a single sequencer with a transition to decentralized sequencing planned.
 
-- **Polygon**: Utilizes multiple sequencers backing Polygon PoS for a more decentralized approach.
+- **Polygon**: Uses multiple sequencers backing Polygon PoS for a more decentralized approach.
 
 - **StarkNet**: StarkWare runs a sequencer with plans for permissionless sequencing.
 
@@ -119,15 +119,15 @@ Decentralized sequencing is an active research area.
 
 Sequencing creates roles:
 
-**Protocol Engineers** build sequencer infrastructure.
+- **Protocol Engineers** build sequencer infrastructure.
 
-**Systems Architects** design decentralized sequencing.
+- **Systems Architects** design decentralized sequencing.
 
-**Cryptography Experts** design threshold encryption.
+- **Cryptography Experts** design threshold encryption.
 
-**Performance Engineers** optimize sequencing.
+- **Performance Engineers** optimize sequencing.
 
-**MEV Researchers** study MEV economics.
+- **MEV Researchers** study MEV economics.
 
 ## Best Practices
 

@@ -125,7 +125,7 @@ Depending on your target role, develop the following skills:
 
 - **Engineers**: Proficiency in [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (such as ethers.js and web3.js)
 - **Product Managers**: Knowledge of token economics, protocol governance, and user growth strategies in Web3
-- **Business Development**: Skills in market analysis, partnership strategy, and understanding the regulatory landscape
+- **Business Development**: Skills in market analysis, partnership strategy, and understanding the regulatory space
 - **Community/Operations**: Expertise in community building, Discord management, and governance practices
 
 ### Step 3: Build Your Portfolio
@@ -150,7 +150,7 @@ The Web3 community is highly accessible. To build your network, consider:
 
 ### Step 5: Apply Strategically
 
-Seek roles that utilize your existing expertise alongside your new Web3 knowledge. For example:
+Seek roles that use your existing expertise alongside your new Web3 knowledge. For example:
 
 - If you are a backend engineer, target blockchain infrastructure roles
 - If you are a product manager, pursue protocol product roles

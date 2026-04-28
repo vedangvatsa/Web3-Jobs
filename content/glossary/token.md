@@ -24,15 +24,15 @@ Creating a cryptocurrency requires launching a blockchain with nodes, consensus 
 
 Blockchain platforms use standardized templates for token creation, ensuring compatibility across wallets and applications:
 
-**ERC-20** (Ethereum): Fungible token standard for currencies and utility tokens. Each token is identical and interchangeable. Used by USDT, LINK, UNI, and many projects. Defines functions like `transfer()`, `balanceOf()`, and `approve()`.
+- **ERC-20** (Ethereum): Fungible token standard for currencies and utility tokens. Each token is identical and interchangeable. Used by USDT, LINK, UNI, and many projects. Defines functions like `transfer()`, `balanceOf()`, and `approve()`.
 
-**ERC-721** (Ethereum): Non-fungible token (NFT) standard where each token is unique with distinct properties. Used for digital art, collectibles, and proof of ownership.
+- **ERC-721** (Ethereum): Non-fungible token (NFT) standard where each token is unique with distinct properties. Used for digital art, collectibles, and proof of ownership.
 
-**ERC-1155** (Ethereum): Multi-token standard allowing both fungible and non-fungible tokens in one contract. Efficient for gaming with various asset types.
+- **ERC-1155** (Ethereum): Multi-token standard allowing both fungible and non-fungible tokens in one contract. Efficient for gaming with various asset types.
 
-**BEP-20** (BNB Chain): Similar to ERC-20 but on Binance's blockchain. Lower transaction costs, compatible with Ethereum tools.
+- **BEP-20** (BNB Chain): Similar to ERC-20 but on Binance's blockchain. Lower transaction costs, compatible with Ethereum tools.
 
-**SPL Tokens** (Solana): Solana's token standard, extremely fast and cheap. Used by major Solana projects.
+- **SPL Tokens** (Solana): Solana's token standard, extremely fast and cheap. Used by major Solana projects.
 
 Each standard defines required functions and events, ensuring tokens work across the ecosystem without custom integration.
 

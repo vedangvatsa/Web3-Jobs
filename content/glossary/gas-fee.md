@@ -109,13 +109,13 @@ Tracking tools like Etherscan Gas Tracker, ETH Gas Station, and Blocknative help
 
 Ethereum's high gas fees drove development of Layer 2 (L2) scaling solutions:
 
-**Optimistic Rollups** (Arbitrum, Optimism): Bundle hundreds of transactions off-chain, submitting compressed data to mainnet. Reduces individual transaction costs.
+- **Optimistic Rollups** (Arbitrum, Optimism): Bundle hundreds of transactions off-chain, submitting compressed data to mainnet. Reduces individual transaction costs.
 
-**ZK-Rollups** (zkSync, Starknet): Use zero-knowledge proofs for validity. Theoretically more efficient than optimistic rollups.
+- **ZK-Rollups** (zkSync, Starknet): Use zero-knowledge proofs for validity. Theoretically more efficient than optimistic rollups.
 
 - **EIP-4844 (Proto-Danksharding)**: Upgrade added "blob" data storage, reducing L2 data posting costs.
 
-**State Channels** (Lightning Network for Bitcoin): Open channels for unlimited transactions, settling final state on-chain. Near-zero fees but requires channel setup.
+- **State Channels** (Lightning Network for Bitcoin): Open channels for unlimited transactions, settling final state on-chain. Near-zero fees but requires channel setup.
 
 L2s inherit Ethereum security while reducing costs, enabling microtransactions and mainstream applications.
 

@@ -123,15 +123,15 @@ Farmers maximize returns; miners optimize for simplicity.
 
 Mining creates roles:
 
-**Yield Farming Analysts** optimizing strategies.
+- **Yield Farming Analysts** optimizing strategies.
 
-**Smart Contract Engineers** building mining contracts.
+- **Smart Contract Engineers** building mining contracts.
 
-**Protocol Economists** designing mining programs.
+- **Protocol Economists** designing mining programs.
 
-**Risk Analysts** assessing mining sustainability.
+- **Risk Analysts** assessing mining sustainability.
 
-**Data Scientists** tracking mining flows.
+- **Data Scientists** tracking mining flows.
 
 ## Best Practices
 

@@ -74,7 +74,7 @@ Continuously evaluate your progress. Are you achieving the desired outcomes? Adj
 
 **Example 2:** Juan, a product manager in the DeFi space, faced high transaction costs. By integrating Arbitrum into his project, he managed to reduce costs substantially, significantly enhancing user engagement.
 
-**Example 3:** Maya, transitioning from a Web2 to a Web3 environment, utilized Arbitrum to adapt quickly. She successfully onboarded and contributed to her new team within two months, demonstrating the effectiveness of the platform.
+**Example 3:** Maya, transitioning from a Web2 to a Web3 environment, used Arbitrum to adapt quickly. She successfully onboarded and contributed to her new team within two months, demonstrating the effectiveness of the platform.
 
 ### Common Pitfalls to Avoid
 

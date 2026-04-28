@@ -4,12 +4,12 @@ slug: "composability"
 category: "technical"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "The ability of smart contracts and DeFi protocols to interact and combine seamlessly, enabling complex financial applications built from modular pieces."
+description: "The ability of smart contracts and DeFi protocols to interact and combine smoothly, enabling complex financial applications built from modular pieces."
 relatedTerms: ["defi", "smart-contract", "protocol", "lego"]
 synonyms: ["smart contract composability", "DeFi composability", "protocol layering"]
 ---
 
-Composability refers to the ability of smart contracts and DeFi protocols to interact and combine seamlessly, enabling developers to build complex financial applications from modular, interoperable pieces. Often described as "money legos," composability allows the output of one protocol to serve as the input for another without requiring custom integration work. For example, a user can swap tokens on Uniswap, deposit the output into Aave as collateral, borrow stablecoins, and deploy those into a yield farming strategy, all in a single transaction. However, composability also introduces systemic risk, as vulnerabilities in one protocol can cascade through dependent applications. Professionals who understand composable architecture are highly sought after for roles in protocol development, smart contract auditing, and DeFi product management.
+Composability refers to the ability of smart contracts and DeFi protocols to interact and combine smoothly, enabling developers to build complex financial applications from modular, interoperable pieces. Often described as "money legos," composability allows the output of one protocol to serve as the input for another without requiring custom integration work. For example, a user can swap tokens on Uniswap, deposit the output into Aave as collateral, borrow stablecoins, and deploy those into a yield farming strategy, all in a single transaction. However, composability also introduces systemic risk, as vulnerabilities in one protocol can cascade through dependent applications. Professionals who understand composable architecture are highly sought after for roles in protocol development, smart contract auditing, and DeFi product management.
 
 ## Composability Examples
 
@@ -21,7 +21,7 @@ Real combinations:
 
 - **Liquidity Aggregation**: Route trades through multiple DEXes to find the best price.
 
-- **Leveraged Trading**: Borrow, buy, deposit as collateral, repeat. Amplify returns and losses.
+- **Used Trading**: Borrow, buy, deposit as collateral, repeat. Amplify returns and losses.
 
 - **Cross-Protocol Positions**: Use a position in one protocol as collateral in another.
 
@@ -73,7 +73,7 @@ Reducing risks:
 
 - **Isolation**: Some protocols can operate in isolated markets to prevent contagion.
 
-- **Audits**: Comprehensive audits help understand all interactions.
+- **Audits**: Full audits help understand all interactions.
 
 Risk management is critical with composability.
 
@@ -95,15 +95,15 @@ Good design enables composability.
 
 Composability creates roles:
 
-**Protocol Designers** design composable protocols.
+- **Protocol Designers** design composable protocols.
 
-**Integration Engineers** integrate protocols.
+- **Integration Engineers** integrate protocols.
 
-**Risk Analysts** analyze composition risks.
+- **Risk Analysts** analyze composition risks.
 
-**Smart Contract Engineers** enable composition.
+- **Smart Contract Engineers** enable composition.
 
-**Researchers** study composability.
+- **Researchers** study composability.
 
 ## Best Practices
 

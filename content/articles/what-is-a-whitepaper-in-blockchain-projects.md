@@ -31,7 +31,7 @@ While the layout may vary, a strong whitepaper typically includes these sections
 - **Abstract/Introduction:** A concise summary of the problem, the solution, and the project's core value proposition.
 - **Problem Statement:** An in-depth explanation of the issue the project addresses, detailing why existing solutions are inadequate.
 - **Proposed Solution:** An overview of how the project intends to use blockchain technology to resolve the problem.
-- **Technical Architecture:** This technical section provides detailed information about the protocol, smart contract design, consensus mechanism, and any innovative cryptographic methods employed.
+- **Technical Architecture:** This technical section provides detailed information about the protocol, smart contract design, consensus mechanism, and any new cryptographic methods employed.
 - **Tokenomics:** This section covers:
     - **Token Utility:** The token's functions, such as governance, [staking](/how-to-become-a-web3-staking-specialist), or transaction fees.
     - **Supply and Distribution:** Information on total supply, allocation between team, investors, and community, as well as any vesting schedules.
@@ -103,7 +103,7 @@ Dedicate several weeks to learning blockchain fundamentals. Familiarize yourself
 Tailor your learning based on your desired role:
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Study market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Study market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Focus on community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio
@@ -123,7 +123,7 @@ The Web3 community is highly accessible:
 - Attend local Web3 meetups
 
 ### Step 5: Apply Strategically
-Focus on roles that utilize your existing skills along with your new Web3 knowledge:
+Focus on roles that use your existing skills along with your new Web3 knowledge:
 - Backend engineers should explore blockchain infrastructure roles
 - Product managers should look for protocol product roles
 - Sales or business professionals can find opportunities in Web3 business development

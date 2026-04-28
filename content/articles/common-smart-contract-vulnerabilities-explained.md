@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 In the high-stakes field of [Web3](/what-is-web3), the security of [smart contracts](/what-are-smart-contracts) stands as a top priority. A single vulnerability can result in the loss of significant user funds. Since deployed [blockchain](/what-is-a-blockchain) code remains immutable, errors become permanent, underscoring the necessity for developers to understand common attack vectors.
 
-This guide offers a detailed examination of prevalent smart contract vulnerabilities, particularly those found in the Ethereum Virtual Machine (EVM) environment. It includes explanations of how these vulnerabilities operate, code examples of flawed patterns, and best practices for prevention. This information is crucial for any aspiring [smart contract auditor](/smart-contract-auditor-career) or security-focused developer.
+This guide offers a detailed examination of prevalent smart contract vulnerabilities, particularly those found in the Ethereum Virtual Machine (EVM) environment. It includes explanations of how these vulnerabilities operate, code examples of flawed patterns, and best practices for prevention. This information is important for any aspiring [smart contract auditor](/smart-contract-auditor-career) or security-focused developer.
 
 ### 1. Reentrancy
 
@@ -94,7 +94,7 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
 
 - **The Prevention:**
     - **Function Modifiers:** Implement a modifier like `onlyOwner` to restrict access.
-    - **Role-Based Access Control:** For complex systems, utilize a standardized role-based approach, such as OpenZeppelin's `AccessControl` contract, which allows defining various roles (e.g., `MINTER_ROLE`, `UPGRADER_ROLE`) and assigning them to different addresses.
+    - **Role-Based Access Control:** For complex systems, use a standardized role-based approach, such as OpenZeppelin's `AccessControl` contract, which allows defining various roles (e.g., `MINTER_ROLE`, `UPGRADER_ROLE`) and assigning them to different addresses.
 
     ```solidity
     // SECURE CODE
@@ -124,7 +124,7 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
     }
     ```
 
-- **The Attack:** An attacker could utilize a [flash loan](/what-is-mev) to execute a large trade on the Uniswap pool, significantly altering the spot price. They then interact with your protocol in the same transaction, which now reads the manipulated price.
+- **The Attack:** An attacker could use a [flash loan](/what-is-mev) to execute a large trade on the Uniswap pool, significantly altering the spot price. They then interact with your protocol in the same transaction, which now reads the manipulated price.
 
 - **The Prevention:**
     - **Use Decentralized Oracle Networks:** Implement a reliable oracle network like Chainlink, which aggregates prices from multiple independent, off-chain sources, making it resilient to single-source manipulation.

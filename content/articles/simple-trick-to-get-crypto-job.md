@@ -33,7 +33,7 @@ This strategy suits any role, whether technical or non-technical.
 
 #### Step 1: Select Your Target
 
-Choose a project that genuinely excites you and shows promise for the future. Authentic interest is crucial for this strategy's success. You should ideally be an active user of the protocol and part of its community.
+Choose a project that genuinely excites you and shows promise for the future. Authentic interest is important for this strategy's success. You should ideally be an active user of the protocol and part of its community.
 
 #### Step 2: Identify a Small, Solvable Problem
 
@@ -66,7 +66,7 @@ This phase represents your "proof of work." Develop a high-quality solution for 
 
 - **Aspiring Data Analyst:**
     - **Problem:** The project lacks a suitable way to visualize user growth.
-    - **Solution:** Utilize Dune Analytics to create a dashboard tracking crucial metrics such as Daily Active Wallets, user retention, and transaction volume.
+    - **Solution:** Use Dune Analytics to create a dashboard tracking important metrics such as Daily Active Wallets, user retention, and transaction volume.
 
 - **Aspiring Developer:**
     - **Problem:** You discover a minor, unassigned bug in the project's open-source GitHub repository.
@@ -138,7 +138,7 @@ The Web3 community is exceptionally accessible:
 
 #### Step 5: Apply Strategically
 
-Target roles that utilize your existing skills alongside your new Web3 knowledge:
+Target roles that use your existing skills alongside your new Web3 knowledge:
 - Backend engineers can seek blockchain infrastructure roles.
 - Product managers should consider protocol product positions.
 - Sales and business professionals might look for Web3 business development opportunities.
@@ -151,7 +151,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Product Manager in Web3
 
-Jessica, a PM from traditional finance, leveraged her expertise in DeFi. Her deep understanding of financial products combined with Web3 technology made her a highly sought-after candidate. She secured a role at a leading DeFi protocol within a month.
+Jessica, a PM from traditional finance, used her expertise in DeFi. Her deep understanding of financial products combined with Web3 technology made her a highly sought-after candidate. She secured a role at a leading DeFi protocol within a month.
 
 ### Career Changer Success
 

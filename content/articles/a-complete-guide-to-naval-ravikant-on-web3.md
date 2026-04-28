@@ -49,7 +49,7 @@ He categorizes capital into three types: labor (others working for you), money, 
 
 - **Code as Permissionless Capital:** A [smart contract](/what-are-smart-contracts) operates autonomously, managing significant value in assets without the need for a company, physical office, or employees. This financial robot functions continuously, enabling users to automate complex transactions.
 
-- **Tokens as Permissionless Equity:** Token launches empower founders to offer ownership to a global audience, aligning incentives and enhancing network effects. Previously, only accredited investors and venture capitalists could participate in early-stage funding; now, tokens democratize this access.
+- **Tokens as Permissionless Equity:** Token launches enable founders to offer ownership to a global audience, aligning incentives and enhancing network effects. Previously, only accredited investors and venture capitalists could participate in early-stage funding; now, tokens democratize this access.
 
 ### 2. The Pursuit of Individual Sovereignty
 
@@ -63,7 +63,7 @@ Ravikant emphasizes that the fundamental promise of Web3 lies in individual sove
 
 ### 3. Blockchains vs. "Blockchain Technology"
 
-Ravikant differentiates between **blockchains**, public, open, and permissionless networks like Bitcoin and Ethereum, and **"blockchain technology"**, private, permissioned databases utilized by corporations.
+Ravikant differentiates between **blockchains**, public, open, and permissionless networks like Bitcoin and Ethereum, and **"blockchain technology"**, private, permissioned databases used by corporations.
 
 He expresses skepticism towards corporate or consortium blockchains, arguing that they fail to capture the true essence of blockchain technology. For him, the value of a blockchain lies in its decentralization and capacity to create neutral, open platforms. Private blockchains merely function as slow, inefficient databases, while true innovation thrives on public chains.
 
@@ -76,7 +76,7 @@ Ravikant's framework illustrates how Web3 supports new monetary forms and market
 ### Frequently Asked Questions (FAQ)
 
 **Q1: Is Naval Ravikant a Bitcoin maximalist?**  
-A1: Ravikant respects Bitcoin as a decentralized store of value but does not strictly identify as a maximalist. He recognizes the potential of Ethereum and other platforms for fostering new open markets through smart contracts.
+A1: Ravikant respects Bitcoin as a decentralized store of value but does not strictly identify as a maximalist. He recognizes the potential of Ethereum and other platforms for building new open markets through smart contracts.
 
 **Q2: What is Naval's most famous quote about crypto?**  
 A2: He frequently states, "Blockchains will replace networks with markets." This highlights his belief that open markets will replace centralized networks dominated by corporations like Facebook or Uber.

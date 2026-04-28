@@ -105,13 +105,13 @@ Programmability enables advanced security.
 
 Smart contract wallets create roles:
 
-**Wallet Developers** build wallets.
+- **Wallet Developers** build wallets.
 
-**Security Engineers** secure wallets.
+- **Security Engineers** secure wallets.
 
-**UX Designers** design wallet interfaces.
+- **UX Designers** design wallet interfaces.
 
-**Infrastructure Engineers** support wallets.
+- **Infrastructure Engineers** support wallets.
 
 ## Best Practices
 

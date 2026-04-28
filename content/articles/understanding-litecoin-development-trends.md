@@ -30,7 +30,7 @@ It's essential to look at the quality and impact of pull requests, the complexit
 
 ### The Role of the Litecoin Foundation
 
-The Litecoin Foundation plays a crucial role in funding and directing development efforts. Unlike some fully decentralized projects where development is more chaotic, the Foundation provides a degree of structure and long-term planning. They sponsor core developers, support security audits, and forge partnerships that expand the Litecoin ecosystem.
+The Litecoin Foundation plays a important role in funding and directing development efforts. Unlike some fully decentralized projects where development is more chaotic, the Foundation provides a degree of structure and long-term planning. They sponsor core developers, support security audits, and forge partnerships that expand the Litecoin ecosystem.
 
 However, this centralized support can also be a point of criticism. The perception of activity can be heavily tied to the Foundation's public communications and the projects it chooses to highlight. To get a full picture, one must look beyond the Foundation's announcements and explore the wider ecosystem of independent developers, businesses building on Litecoin, and open-source contributors.
 
@@ -45,7 +45,7 @@ A more appropriate comparison would be to Bitcoin. Both projects follow a simila
 Instead of tracking daily commits, a more insightful approach to gauging the future of Litecoin development involves monitoring several key areas:
 
 *   **MWEB Adoption:** The success of the Mimblewimble upgrade will be measured by its adoption. Tracking the number of MWEB transactions and the tools being built to support them is a key indicator of Litecoin's evolution.
-*   **Lightning Network Growth:** The capacity and number of channels on the Lightning Network for LTC are crucial metrics for its scalability as a medium of exchange.
+*   **Lightning Network Growth:** The capacity and number of channels on the Lightning Network for LTC are important metrics for its scalability as a medium of exchange.
 *   **Merchant and [Wallet](/how-to-choose-a-crypto-wallet) Integration:** The core measure of success for a currency is its use. Watching for new integrations with payment processors, wallets, and exchanges shows its growing utility.
 *   **Core Developer Engagement:** While a small team, the engagement of core developers in discussions, proposals (Litecoin Improvement Proposals - LIPs), and security maintenance is a vital sign of the project's health.
 

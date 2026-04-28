@@ -19,7 +19,7 @@ The Web3 scene in Dar es Salaam thrives on community engagement and practical ap
 Dar es Salaam's Web3 ecosystem is evolving, driven by its mobile-native populace and a strong emphasis on community education.
 
 - **High Mobile Money Adoption:** Tanzania boasts a strong mobile money ecosystem, similar to many East African nations. This familiarity with digital finance simplifies the transition to [crypto wallets](/how-to-choose-a-crypto-wallet) and decentralized applications (dApps), creating a favorable environment for adoption.
-- **Growing Developer Community:** The city is home to an enthusiastic and expanding community of software developers. Organizations like the Tanzania Blockchain Association and various tech hubs play crucial roles in nurturing talent, hosting meetups, and providing educational resources to enhance developers' skills in blockchain technology.
+- **Growing Developer Community:** The city is home to an enthusiastic and expanding community of software developers. Organizations like the Tanzania Blockchain Association and various tech hubs play important roles in nurturing talent, hosting meetups, and providing educational resources to enhance developers' skills in blockchain technology.
 - **Emphasis on Education and Onboarding:** The local community prioritizes education, actively working to onboard new users and developers. Numerous workshops and events focus on teaching Web3 fundamentals in languages such as Swahili.
 - **Government and Regulatory Interest:** The Tanzanian government has shown progressive interest in digital assets. The Bank of Tanzania is researching a Central Bank Digital Currency (CBDC), indicating a recognition of blockchain technology's potential benefits for the country's future.
 
@@ -146,7 +146,7 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 - A mobile-first continent requires mobile-first solutions.
 - A strong community supports grassroots adoption.
 - Dar es Salaam serves as a gateway to East Africa, with connections to Kenya, Uganda, and Rwanda.
-- There are real challenges in fintech that require innovative solutions.
+- There are real challenges in fintech that require new solutions.
 
 **Advantage:**
 - Swahili-speaking Web3 expertise is scarce and therefore highly valuable.
@@ -224,7 +224,7 @@ Yes, the path involves building locally while earning remote USD and reinvesting
 Community management or education roles can yield income within a short timeframe. Freelance development can start generating revenue in a few months.
 
 **Should I focus on Swahili or English?**
-Both languages are beneficial. Swahili is essential for the local market, while English is crucial for remote opportunities and online presence.
+Both languages are beneficial. Swahili is essential for the local market, while English is important for remote opportunities and online presence.
 
 **What is the biggest opportunity in Web3?**
 The on-ramp and off-ramp solutions for mobile money and blockchain integration present significant opportunities in Tanzania.

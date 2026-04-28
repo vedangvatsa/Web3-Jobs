@@ -45,7 +45,7 @@ Sarah, a software developer at a blockchain startup, struggled to communicate ef
 Juan serves as a product manager in the decentralized finance (DeFi) sector. He faced challenges in team meetings where his assertive style overshadowed quieter colleagues. After implementing techniques to encourage input from all team members, including structured turn-taking during discussions, Juan noticed a marked increase in team engagement and creativity. His experience illustrates how adapting to various personality types can enhance team collaboration.
 
 ### Example 3: Maya's Transition
-Maya transitioned from a Web2 company to a Web3 startup. She initially found it challenging to adjust to the fast-paced, decentralized work environment. By employing strategies tailored to understanding her colleagues' diverse work styles, she quickly adapted. Her willingness to seek feedback and adjust her methods helped her integrate smoothly into her new role, showcasing that adaptability is crucial regardless of background.
+Maya transitioned from a Web2 company to a Web3 startup. She initially found it challenging to adjust to the fast-paced, decentralized work environment. By employing strategies tailored to understanding her colleagues' diverse work styles, she quickly adapted. Her willingness to seek feedback and adjust her methods helped her integrate smoothly into her new role, showcasing that adaptability is important regardless of background.
 
 ## Common Mistakes to Avoid
 

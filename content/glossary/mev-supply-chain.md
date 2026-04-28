@@ -27,7 +27,7 @@ The modern MEV supply chain consists of four distinct roles:
 
 ### 1. Searchers
 
-**Searchers** (also called "MEV searchers" or "bots") are actors who continuously scan the mempool and blockchain state to identify profitable MEV opportunities. Searchers run algorithms to detect:
+- **Searchers** (also called "MEV searchers" or "bots") are actors who continuously scan the mempool and blockchain state to identify profitable MEV opportunities. Searchers run algorithms to detect:
 
 - **Arbitrage opportunities**: Price discrepancies across DEXs that can be exploited for profit
 - **Liquidation opportunities**: Undercollateralized positions in lending protocols like Aave or Compound
@@ -40,7 +40,7 @@ Successful searchers use advanced strategies: custom smart contracts, high-perfo
 
 ### 2. Builders
 
-**Builders** (also called "block builders") are specialized entities that construct full Ethereum blocks by assembling bundles from searchers with transactions from the public mempool. Builders compete to create the most valuable blocks (highest total fees + MEV) to maximize the payment they can offer to proposers.
+- **Builders** (also called "block builders") are specialized entities that construct full Ethereum blocks by assembling bundles from searchers with transactions from the public mempool. Builders compete to create the most valuable blocks (highest total fees + MEV) to maximize the payment they can offer to proposers.
 
 Builders receive bundles from multiple searchers simultaneously and must:
 - **Simulate bundle execution** to verify profitability and ensure they don't revert
@@ -52,7 +52,7 @@ Leading builders like Titan, Beaver Build, and Flashbots Builder dominate the ma
 
 ### 3. Relays
 
-**Relays** are intermediaries that sit between builders and proposers, facilitating communication while preventing theft. Relays serve several critical functions:
+- **Relays** are intermediaries that sit between builders and proposers, facilitating communication while preventing theft. Relays serve several critical functions:
 
 - **Receive sealed blocks** from builders with bid amounts (but not full block content)
 - **Validate blocks** for correctness (proper gas limits, valid transactions, accurate bid amounts)
@@ -64,7 +64,7 @@ This "sealed bid auction" model prevents proposers from stealing MEV by looking 
 
 ### 4. Proposers (Validators)
 
-**Proposers** are Ethereum validators selected by the consensus layer to propose the next block. In the PBS model, proposers:
+- **Proposers** are Ethereum validators selected by the consensus layer to propose the next block. In the PBS model, proposers:
 
 - **Receive block bids** from multiple relays
 - **Select the highest bid** (maximizing their MEV revenue)
@@ -185,4 +185,4 @@ The MEV supply chain continues to evolve:
 
 The supply chain that emerges from these innovations will shape Ethereum's decentralization and fairness for years to come.
 
-**Want to participate in the MEV economy?** Start by running a searcher on testnets, study builder algorithms, or contribute to relay infrastructure. The MEV supply chain rewards technical excellence and strategic thinking.
+- **Want to participate in the MEV economy?** Start by running a searcher on testnets, study builder algorithms, or contribute to relay infrastructure. The MEV supply chain rewards technical excellence and strategic thinking.

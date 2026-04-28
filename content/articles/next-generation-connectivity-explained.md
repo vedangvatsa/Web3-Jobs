@@ -30,7 +30,7 @@ The next generation will significantly increase speed. While 5G targets speeds i
 
 #### 3. Convergence of Communications and Sensing
 
-A groundbreaking aspect of next-gen connectivity involves using wireless signals as a form of radar to perceive the environment. This capability could allow networks to detect the location, movement, and even the shape of objects with remarkable accuracy. Possible applications include:
+A new aspect of next-gen connectivity involves using wireless signals as a form of radar to perceive the environment. This capability could allow networks to detect the location, movement, and even the shape of objects with remarkable accuracy. Possible applications include:
 
 | Application          | Description                                                     |
 |---------------------|-----------------------------------------------------------------|
@@ -44,7 +44,7 @@ A groundbreaking aspect of next-gen connectivity involves using wireless signals
 
 #### 5. Enhanced Security and Trust
 
-With numerous new devices connected, security and privacy will take on heightened importance. Next-generation networks will likely use innovative cryptographic techniques, potentially resistant to threats from [quantum computers](/what-is-quantum-computing-for-beginners). There will also be significant research into using [blockchain](/what-is-a-blockchain) and decentralized technologies to develop more trustworthy, user-centric network architectures.
+With numerous new devices connected, security and privacy will take on heightened importance. Next-generation networks will likely use new cryptographic techniques, potentially resistant to threats from [quantum computers](/what-is-quantum-computing-for-beginners). There will also be significant research into using [blockchain](/what-is-a-blockchain) and decentralized technologies to develop more trustworthy, user-centric network architectures.
 
 ### Technologies Enabling 6G
 
@@ -52,8 +52,8 @@ Realizing this vision will demand new technologies that extend beyond the capabi
 
 | Technology                               | Description                                                                                          |
 |------------------------------------------|------------------------------------------------------------------------------------------------------|
-| Terahertz (THz) Frequencies              | To achieve terabit-level speeds, networks will utilize higher frequency bands than 5G's millimeter wave. The sub-terahertz and terahertz bands offer vast spectrum resources, albeit with significant challenges due to their short range and susceptibility to obstructions. |
-| Reconfigurable Intelligent Surfaces (RIS) | RIS are smart surfaces programmed to direct and reflect radio waves strategically. Coating structures like walls or billboards with this material could enhance coverage by guiding signals around obstacles, crucial for high-frequency THz bands. |
+| Terahertz (THz) Frequencies              | To achieve terabit-level speeds, networks will use higher frequency bands than 5G's millimeter wave. The sub-terahertz and terahertz bands offer vast spectrum resources, albeit with significant challenges due to their short range and susceptibility to obstructions. |
+| Reconfigurable Intelligent Surfaces (RIS) | RIS are smart surfaces programmed to direct and reflect radio waves strategically. Coating structures like walls or billboards with this material could enhance coverage by guiding signals around obstacles, important for high-frequency THz bands. |
 | Non-Terrestrial Networks                  | This approach incorporates satellites and high-altitude platforms, such as drones and balloons, into cellular networks. It promises global coverage, delivering high-speed internet to remote locations, airplanes, and maritime vessels. |
 
 ### Implications for the Future
@@ -106,7 +106,7 @@ Create a tailored plan based on your situation. Everyone's context differs, so c
 
 #### Step 4: Implement Gradually
 
-Avoid attempting to change everything at once. Start with one small adjustment and build from there. Monitor what works and what doesn't. This iterative approach fosters sustainable improvement.
+Avoid attempting to change everything at once. Start with one small adjustment and build from there. Monitor what works and what doesn't. This iterative approach builds sustainable improvement.
 
 #### Step 5: Measure and Adjust
 

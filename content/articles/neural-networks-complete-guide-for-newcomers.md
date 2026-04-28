@@ -43,7 +43,7 @@ The interconnections are vital. Each neuron's output in one layer serves as inpu
 
 ### How Does a Neural Network Learn?
 
-Training a neural network involves a systematic process called **training**, often utilizing backpropagation, which operates in a cyclical manner.
+Training a neural network involves a systematic process called **training**, often using backpropagation, which operates in a cyclical manner.
 
 1. **Forward Pass**: You introduce an input from the training dataset (for example, a cat's image). This input progresses through the network layers, from the input to the output layer. Each neuron performs its computations, relaying outputs to the following layer. Ultimately, the output layer provides a prediction.
 
@@ -85,7 +85,7 @@ While neural networks draw inspiration from the brain, the analogy is loose. The
 A high-level understanding and programming skills are sufficient for practitioners. However, researchers who design new neural networks require a solid foundation in linear algebra, calculus, and probability. Mastery of these mathematical fields helps articulate and manipulate the learning processes of neural networks.
 
 **4. How do neural networks apply to crypto and [Web3](/what-is-web3)?**  
-In Web3, neural networks are utilized for various applications. For instance, they analyze on-chain transaction data to spot fraudulent activities or predict market trends. Some initiatives aim to establish decentralized AI platforms where community-controlled neural network models supersede single-company ownership. This aligns with concepts like decentralized prediction markets and [DAOs](/what-is-a-dao).
+In Web3, neural networks are used for various applications. For instance, they analyze on-chain transaction data to spot fraudulent activities or predict market trends. Some initiatives aim to establish decentralized AI platforms where community-controlled neural network models supersede single-company ownership. This aligns with concepts like decentralized prediction markets and [DAOs](/what-is-a-dao).
 
 **5. What constitutes a "large language model"?**  
 A [large language model (LLM)](/large-language-models-explained-simply) represents a vast and deep neural network trained on extensive text and code datasets. Its specific architecture, known as a Transformer, excels at comprehending human language.

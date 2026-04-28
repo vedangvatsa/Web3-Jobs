@@ -18,7 +18,7 @@ A SocialFi developer is responsible for creating the protocols and applications 
 
 - **Protocol Development:** Developers design core social protocols, which may include creating [smart contracts](/what-are-smart-contracts) for on-chain social graphs. For example, Lens Protocol uses NFTs for profiles and follows. Alternatively, developers may construct the backend infrastructure for federated networks, like Farcaster.
 - **Application Development:** This aspect focuses on creating user-facing client applications, akin to the "Twitter clients" of Web3. A strong emphasis on frontend development is often necessary.
-- **API and Tooling:** Developers also create APIs and tools that enable others to build innovative applications utilizing the social graph.
+- **API and Tooling:** Developers also create APIs and tools that enable others to build new applications using the social graph.
 
 ### Technical Challenges in SocialFi
 
@@ -91,7 +91,7 @@ The Web3 community is notably accessible:
 
 #### Step 5: Apply Strategically
 
-Target positions that utilize your existing skills while incorporating new Web3 knowledge:
+Target positions that use your existing skills while incorporating new Web3 knowledge:
 - For backend engineers, seek blockchain infrastructure roles.
 - Product managers should consider protocol-related positions.
 - Sales and business professionals can look for roles in Web3 business development.

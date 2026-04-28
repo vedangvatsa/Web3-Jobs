@@ -18,7 +18,7 @@ Before applying for jobs, immerse yourself in the Web3 ecosystem. This sector fu
 
 - **Engage on Twitter:** Twitter serves as the primary platform for Web3 discussions. Follow influential builders, thinkers, and projects. Engage with the community by asking questions, sharing insights, and participating in conversations.
 - **Join Relevant Discords:** Select a project that captures your interest, such as a [DeFi](/what-is-defi) protocol or an [NFT](/what-are-nfts) collection. Actively participate in its Discord community by sharing knowledge, assisting newcomers, and observing the community dynamics.
-- **Experience the Technology:** Practical experience is crucial. Create a MetaMask [wallet](/how-to-choose-a-crypto-wallet), purchase a small amount of [ETH](/what-is-ethereum) from an exchange, and interact with decentralized applications (dApps). Engage in token swaps on Uniswap, mint affordable NFTs, or participate in governance voting. These hands-on experiences are invaluable.
+- **Experience the Technology:** Practical experience is important. Create a MetaMask [wallet](/how-to-choose-a-crypto-wallet), purchase a small amount of [ETH](/what-is-ethereum) from an exchange, and interact with decentralized applications (dApps). Engage in token swaps on Uniswap, mint affordable NFTs, or participate in governance voting. These hands-on experiences are invaluable.
 
 > **Practical Tip:** Consider creating a dedicated Twitter account for Web3. This account allows you to focus your professional presence and cultivate a feed that highlights industry-related content.
 
@@ -26,13 +26,13 @@ Before applying for jobs, immerse yourself in the Web3 ecosystem. This sector fu
 
 Web3 is inherently interdisciplinary. While specialization is essential, having a broad understanding of the entire ecosystem is equally important. Familiarize yourself with the following core concepts regardless of your desired role:
 
-- What is a [blockchain](/what-is-a-blockchain) and why is decentralization crucial?
+- What is a [blockchain](/what-is-a-blockchain) and why is decentralization important?
 - The distinction between Layer 1s (e.g., Ethereum) and [Layer 2s](/guide-to-layer-2s) (e.g., Arbitrum, Optimism).
 - The fundamentals of [DeFi](/what-is-defi), including decentralized exchanges (DEXs), lending protocols, and stablecoins.
 - The various use cases of [NFTs](/what-are-nfts) beyond digital art.
 - The role of [DAOs](/what-is-a-dao) and on-chain governance mechanisms.
 
-Utilize resources such as Bankless, The Defiant, and project-specific blogs for foundational learning.
+Use resources such as Bankless, The Defiant, and project-specific blogs for foundational learning.
 
 ## Step 3: Develop Specific Skills
 
@@ -61,7 +61,7 @@ Your resume should reflect the Web3 culture. It should emphasize what you have b
 
 ## Step 5: Build Authentic Networks
 
-Networking in Web3 is about fostering genuine relationships. The industry is relatively small, and your reputation holds significant weight.
+Networking in Web3 is about building genuine relationships. The industry is relatively small, and your reputation holds significant weight.
 
 - Prioritize contributing value to a project or community before seeking job opportunities.
 - Attend hackathons and conferences, even virtual ones, to meet prominent builders and founders.
@@ -139,7 +139,7 @@ Look for roles that align with your existing expertise while incorporating your 
 Alex, a backend engineer with five years at a major tech company, spent three months learning Solidity while maintaining his day job. He contributed to an open-source protocol, which led to an opportunity with a major DeFi project. He successfully transitioned with a significant salary increase and substantial equity.
 
 ### Product Manager Transition
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly sought after. Within a short period, she secured a role at a leading DeFi protocol.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly sought after. Within a short period, she secured a role at a leading DeFi protocol.
 
 ### Career Changer's Success
 Marcus left his corporate job to focus exclusively on Web3 for six months. Through dedicated learning, networking, and portfolio development, he landed a role leading Developer Relations at a significant blockchain platform, with a compensation package that far exceeded his previous role.

@@ -113,7 +113,7 @@ Economic considerations:
 
 - **Liquidity Provisioning**: Bridge must have sufficient liquidity on both chains. This can be capital-intensive.
 
-- **Utilization**: Many bridges are underutilized with excess capital locked.
+- **Use**: Many bridges are underutilized with excess capital locked.
 
 - **Liquidity Pools**: Better designs pool liquidity enabling multi-directional flow.
 
@@ -127,17 +127,17 @@ Bridge capital efficiency is important for user experience and economics.
 
 Bridge infrastructure creates roles:
 
-**Bridge Engineers** build bridge protocols.
+- **Bridge Engineers** build bridge protocols.
 
-**Security Engineers** secure bridges.
+- **Security Engineers** secure bridges.
 
-**Liquidity Providers** provide bridge liquidity.
+- **Liquidity Providers** provide bridge liquidity.
 
-**Risk Managers** assess bridge risk.
+- **Risk Managers** assess bridge risk.
 
-**Operations Specialists** monitor bridges.
+- **Operations Specialists** monitor bridges.
 
-**Cryptography Engineers** design bridge security.
+- **Cryptography Engineers** design bridge security.
 
 ## Best Practices
 

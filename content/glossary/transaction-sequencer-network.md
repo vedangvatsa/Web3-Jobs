@@ -203,7 +203,7 @@ Several models for decentralizing sequencers have emerged:
 
 - **Slashing**: Economic penalties for misbehavior create strong incentives for honest sequencing.
 
-**Permissionless Participation** (in PoS models): Anyone can become a sequencer by staking, reducing gatekeeping.
+- **Permissionless Participation** (in PoS models): Anyone can become a sequencer by staking, reducing gatekeeping.
 
 ## Challenges and Tradeoffs
 

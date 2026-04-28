@@ -47,7 +47,7 @@ To succeed in Brazil, Web3 marketing strategies should prioritize localization, 
   
 - **Influence of Social Proof:** Brazilians are heavily influenced by their social circles. Implement testimonials, user-generated content, and community-driven campaigns to enhance trust and credibility.
 
-- **Resourcefulness and the "Jeitinho Brasileiro":** This concept reflects the Brazilian knack for finding creative solutions. Web3 projects must be prepared for a user base that seeks optimal yields and innovative approaches within the ecosystem. Ensure your platform can accommodate this proactive behavior.
+- **Resourcefulness and the "Jeitinho Brasileiro":** This concept reflects the Brazilian knack for finding creative solutions. Web3 projects must be prepared for a user base that seeks optimal yields and new approaches within the ecosystem. Ensure your platform can accommodate this proactive behavior.
 
 ### A Long-Term Commitment
 
@@ -316,7 +316,7 @@ A: Tax obligations depend on your location:
 
 ### Job Boards
 - Explore our Web3 Job Board (/jobs) for Brazil-specific positions.
-- Utilize LinkedIn to search for relevant roles.
+- Use LinkedIn to search for relevant roles.
 - Check remote.co for crypto roles targeting Brazil.
 - Visit company websites for current job openings.
 

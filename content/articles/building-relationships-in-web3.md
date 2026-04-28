@@ -68,7 +68,7 @@ To cultivate meaningful connections, demonstrate authentic interest in others:
 Engagement in community activities can solidify your presence and value:
 
 **Open Source Contributions**  
-- Contribute to projects you utilize by submitting pull requests (PRs).
+- Contribute to projects you use by submitting pull requests (PRs).
 - Document issues thoroughly to assist project managers.
 - Review contributions from others to build a collaborative environment.
 
@@ -109,7 +109,7 @@ Consistency is key in relationship-building:
 These are often the most active spaces for immediate interaction. They facilitate real conversations and connect you directly with the core team and community members.
 
 **Twitter/X**  
-Utilize this platform to share insights and engage with community discussions. Direct messaging can help initiate connections with individuals you admire.
+Use this platform to share insights and engage with community discussions. Direct messaging can help initiate connections with individuals you admire.
 
 **GitHub**  
 Demonstrate your technical skills through collaborative coding projects. Engage with others’ code to learn and contribute meaningfully.
@@ -123,7 +123,7 @@ These platforms facilitate more intimate conversations, enabling deeper connecti
 These larger gatherings provide vast networking opportunities and a chance to meet online acquaintances. Aim to attend several major conferences each year for maximum impact.
 
 **Hackathons**  
-Engaging in hackathons allows you to build tangible projects with others. This collaborative environment fosters strong bonds and provides access to mentors and investors.
+Engaging in hackathons allows you to build tangible projects with others. This collaborative environment builds strong bonds and provides access to mentors and investors.
 
 **Local Meetups**  
 Regular meetups can create recurring opportunities to build relationships in a more intimate setting, allowing for deeper conversations within your geographical area.
@@ -294,7 +294,7 @@ The dynamics of the [Web3 job market](/web3-jobs-for-beginners) differ markedly 
 Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while continuing his day job. His contributions to an open-source protocol captured the attention of a prominent DeFi project, leading to a transition with a notable salary increase and substantial equity.
 
 ### Product Manager Finding Success in Web3
-Jessica, a product manager from a traditional finance background, utilized her deep understanding of financial products combined with Web3 technology to secure a role at a leading DeFi protocol within weeks of applying.
+Jessica, a product manager from a traditional finance background, used her deep understanding of financial products combined with Web3 technology to secure a role at a leading DeFi protocol within weeks of applying.
 
 ### Career Changer Triumph
 Marcus transitioned from a corporate role to Web3 by immersing himself in the space for several months. Through consistent learning, networking, and portfolio development, he secured a position leading Developer Relations at a major blockchain platform, significantly surpassing his previous salary.

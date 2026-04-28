@@ -40,7 +40,7 @@ Private mempools and MEV-protected services like Flashbots help mitigate this. T
 
 Deeper liquidity means less slippage for equivalent trade sizes. A trade in a pool with higher liquidity causes minimal price impact. The same trade in a pool with lower liquidity causes significant movement. This is why major pairs on leading DEXs have much better execution than obscure tokens on small exchanges.
 
-Market makers and liquidity providers play a crucial role in reducing slippage. More liquidity provision tightens spreads and reduces slippage for all traders. This creates a positive feedback loop, as better liquidity attracts more traders, generating more fees and attracting more liquidity providers.
+Market makers and liquidity providers play a important role in reducing slippage. More liquidity provision tightens spreads and reduces slippage for all traders. This creates a positive feedback loop, as better liquidity attracts more traders, generating more fees and attracting more liquidity providers.
 
 ## Slippage in Limit Orders
 
@@ -92,7 +92,7 @@ Decentralized order book exchanges are emerging to combine DEX trustlessness wit
 
 ## Educational Importance
 
-Understanding slippage is crucial for anyone trading on DEXs or using DeFi protocols. New users often don't realize why they received fewer tokens than expected or set extremely high slippage tolerance and get exploited. Education around slippage, price impact, and appropriate tolerance settings protects users from costly mistakes.
+Understanding slippage is important for anyone trading on DEXs or using DeFi protocols. New users often don't realize why they received fewer tokens than expected or set extremely high slippage tolerance and get exploited. Education around slippage, price impact, and appropriate tolerance settings protects users from costly mistakes.
 
 Interfaces have improved at explaining slippage, showing price impact estimates and warning about potentially problematic trades. However, many users still don't fully understand what they're seeing. Clear slippage education remains important for broad DeFi adoption.
 

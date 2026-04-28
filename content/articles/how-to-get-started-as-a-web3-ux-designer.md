@@ -29,7 +29,7 @@ For additional insights, review our [Web3 UX Design Best Practices](/web3-ux-des
 To succeed as a Web3 designer, you need the following skills:
 
 - **Strong UX Fundamentals:** A solid grounding in user research, wireframing, prototyping, and interaction design is essential.
-- **Empathy for New Users:** Understanding the perspective of users unfamiliar with crypto wallets is crucial. Your role is to guide them.
+- **Empathy for New Users:** Understanding the perspective of users unfamiliar with crypto wallets is important. Your role is to guide them.
 - **Technical Curiosity:** While not mandatory to be a developer, you should learn the basics of blockchain technology. Familiarize yourself with transactions, gas fees, and the differences between hot and cold wallets.
 - **Proficiency in Design Tools:** Mastery of tools like Figma is the industry standard.
 
@@ -92,7 +92,7 @@ Depending on your targeted role, focus on the following skills:
 
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Create Your Portfolio
@@ -117,7 +117,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Aim for roles that utilize your existing skills while integrating new Web3 knowledge:
+Aim for roles that use your existing skills while integrating new Web3 knowledge:
 
 - Backend engineers should explore blockchain infrastructure roles.
 - Product managers might seek protocol-focused positions.

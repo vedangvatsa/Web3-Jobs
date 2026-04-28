@@ -85,13 +85,13 @@ Design choices affect privacy and compliance.
 
 Privacy roles:
 
-**Cryptography Engineers**.
+- **Cryptography Engineers**.
 
-**Protocol Developers**.
+- **Protocol Developers**.
 
-**Privacy Researchers**.
+- **Privacy Researchers**.
 
-**Compliance Experts**.
+- **Compliance Experts**.
 
 ## Best Practices
 

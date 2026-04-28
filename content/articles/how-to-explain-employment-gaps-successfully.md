@@ -40,7 +40,7 @@ Example:
 
 **Professional Sabbatical** | 2022 - 2023  
 - Focused on professional development, completing significant coursework in data science and machine learning.  
-- Developed and launched a personal project analyzing on-chain data, utilizing Python and SQL.  
+- Developed and launched a personal project analyzing on-chain data, using Python and SQL.  
 
 This approach maintains honesty and reframes the gap as a proactive period of skill acquisition.
 
@@ -78,7 +78,7 @@ An employment gap does not equate to a lack of value. By addressing it strategic
 
 **What if I was terminated from my last job?**
 
-Addressing a termination can be challenging, but honesty remains crucial. You might say, "Unfortunately, my last role was not a good long-term fit, and my position was eliminated. I learned a great deal from that experience, especially about the importance of aligning my strengths with my work, which is why I am excited about this opportunity."
+Addressing a termination can be challenging, but honesty remains important. You might say, "Unfortunately, my last role was not a good long-term fit, and my position was eliminated. I learned a great deal from that experience, especially about the importance of aligning my strengths with my work, which is why I am excited about this opportunity."
 
 **How should I handle multiple short-term gaps?**
 

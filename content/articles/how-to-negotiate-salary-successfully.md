@@ -18,7 +18,7 @@ With strong preparation and a confident approach, you can effectively engage in 
 
 ### 1. Conduct Research
 
-Understanding your market value is crucial in salary negotiations. Knowledge equips you to discuss compensation confidently.
+Understanding your market value is important in salary negotiations. Knowledge equips you to discuss compensation confidently.
 
 - **Research Industry Standards**: Use platforms like Glassdoor, Levels.fyi, and Payscale to gather data on average salaries for your role, experience level, and geographic location. For instance, the average salary for a software engineer in San Francisco is significantly higher than in many other regions, while it is lower in Austin, Texas.
   
@@ -44,7 +44,7 @@ When you present your counteroffer, provide justification. The negotiation shoul
 
 - **Reference Your Research**: Cite your research when discussing salary. For instance, you might say, "Based on my research of similar roles in the industry, I was expecting a salary range that reflects current market trends."
 
-- **Utilize Competing Offers**: If you have other job offers, mention them strategically. However, ensure honesty in your claims. Fabricating offers can damage your credibility.
+- **Use Competing Offers**: If you have other job offers, mention them strategically. However, ensure honesty in your claims. Fabricating offers can damage your credibility.
 
 ### 4. Conduct the Negotiation Effectively
 
@@ -88,7 +88,7 @@ Mastering salary negotiation is vital for career advancement. Professionals who 
 
 1. **Understand the Fundamentals**: Familiarize yourself with negotiation principles. Read about successful negotiation techniques from industry leaders. Resources like books, webinars, and articles can provide valuable insights.
 
-2. **Assess Your Current Situation**: Analyze your skills and market position. Identify your strengths and areas for improvement. Understanding your baseline is crucial for effective negotiation.
+2. **Assess Your Current Situation**: Analyze your skills and market position. Identify your strengths and areas for improvement. Understanding your baseline is important for effective negotiation.
 
 3. **Develop a Personal Strategy**: Create a tailored plan that reflects your unique circumstances. Consider your role, organizational culture, and personal career objectives when formulating your strategy.
 
@@ -102,7 +102,7 @@ Mastering salary negotiation is vital for career advancement. Professionals who 
 
 - **Juan**, a product manager in the DeFi space, faced challenges when discussing salary. By using his market research and competing offers, he increased his compensation, demonstrating the effectiveness of a strategic approach.
 
-- **Maya**, who transitioned from Web2 to Web3, utilized these negotiation techniques to secure a competitive salary despite her lack of direct experience. Her success highlights the applicability of these strategies across different backgrounds.
+- **Maya**, who transitioned from Web2 to Web3, used these negotiation techniques to secure a competitive salary despite her lack of direct experience. Her success highlights the applicability of these strategies across different backgrounds.
 
 ### Common Mistakes to Avoid
 

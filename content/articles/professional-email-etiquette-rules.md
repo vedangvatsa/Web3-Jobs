@@ -48,7 +48,7 @@ Your email body should be easy to read and understand.
 
 - **BLUF (Bottom Line Up Front):** Present your main point or request within the first one or two sentences.
 - **Use Short Paragraphs and White Space:** Break text into digestible paragraphs of 2-4 sentences for better readability.
-- **Employ Bullet Points and Numbered Lists:** For multiple questions or points, utilize lists instead of lengthy paragraphs. This allows recipients to address each point effectively.
+- **Employ Bullet Points and Numbered Lists:** For multiple questions or points, use lists instead of lengthy paragraphs. This allows recipients to address each point effectively.
 - **Bold Key Information:** Use bold formatting sparingly to emphasize essential details, such as deadlines or action items.
 
 ## 4. The Tone: Professional and Positive
@@ -114,7 +114,7 @@ A4: If an email thread becomes lengthy and confusing, it often indicates that em
 
 ## Why This Matters
 
-Understanding the nuances of professional email etiquette is essential for career success. Professionals who excel in communication stand out, earn higher salaries, and advance more rapidly. This is particularly true in [Web3](/what-is-web3) organizations, where effective communication and collaboration are crucial.
+Understanding the nuances of professional email etiquette is essential for career success. Professionals who excel in communication stand out, earn higher salaries, and advance more rapidly. This is particularly true in [Web3](/what-is-web3) organizations, where effective communication and collaboration are important.
 
 ## Step-by-Step Guide
 

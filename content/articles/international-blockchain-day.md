@@ -28,7 +28,7 @@ Decentralization forms the backbone of blockchain technology. In traditional cen
 
 ### 2. Immutability
 
-Once a transaction is recorded on the blockchain, it becomes permanent and cannot be modified or erased. Each block in the chain is secured through cryptographic links to its predecessor, forming a chronological and unalterable record. This integrity is achieved via hashing, where each block contains a hash of the previous block. Any attempt to change data in a past block would alter its hash, thus invalidating all subsequent blocks. This immutability fosters trust, establishing the blockchain as a reliable source of truth.
+Once a transaction is recorded on the blockchain, it becomes permanent and cannot be modified or erased. Each block in the chain is secured through cryptographic links to its predecessor, forming a chronological and unalterable record. This integrity is achieved via hashing, where each block contains a hash of the previous block. Any attempt to change data in a past block would alter its hash, thus invalidating all subsequent blocks. This immutability builds trust, establishing the blockchain as a reliable source of truth.
 
 ### 3. Transparency
 
@@ -46,7 +46,7 @@ Smart contracts have spurred the development of entirely new sectors:
 
 - **Decentralized Finance (DeFi):** DeFi aims to reconstruct the financial system, including lending, borrowing, trading, and insurance, on open, permissionless platforms. Protocols such as Uniswap, Aave, and Compound enable users to access financial services without relying on banks.
 - **Non-Fungible [Tokens](/what-is-a-token) (NFTs):** NFTs represent distinct digital assets, signifying ownership of items such as digital art, collectibles, or real-world assets. They have generated new economies for creators and redefined digital ownership.
-- **Decentralized Autonomous Organizations (DAOs):** DAOs are entities governed collectively by their members, utilizing smart contracts to enforce rules and execute decisions. They enable innovative forms of coordination and governance on a global scale.
+- **Decentralized Autonomous Organizations (DAOs):** DAOs are entities governed collectively by their members, using smart contracts to enforce rules and execute decisions. They enable new forms of coordination and governance on a global scale.
 
 The evolution continues, as transaction fees and scalability issues with Ethereum have led to the emergence of Layer 2 scaling solutions like Optimism and Arbitrum, as well as alternative Layer 1 blockchains such as Solana and Avalanche. Each of these solutions presents unique trade-offs concerning speed, cost, and decentralization. Developers and researchers are constantly pushing the limits of what blockchain technology can achieve.
 
@@ -120,7 +120,7 @@ Depending on your target role, acquire specific skills:
 
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain expertise in market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Gain expertise in market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio

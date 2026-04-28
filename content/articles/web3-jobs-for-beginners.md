@@ -32,7 +32,7 @@ Engagement in Web3 occurs primarily on platforms like Twitter (X) and through po
 - **Podcasts:** Tune into informative podcasts such as *Bankless*, *The Defiant*, and *Unchained*. These sources deliver a wealth of information, keeping you informed about current developments and discussions in the industry.
 
 **3. Gain Practical Experience (Most Important Step):**
-Active participation is crucial in your learning process.
+Active participation is important in your learning process.
 - **Get a [Wallet](/how-to-choose-a-crypto-wallet):** Install MetaMask as your browser extension. This wallet acts as your entry point to Web3. Document your seed phrase securely offline.
 - **Acquire Cryptocurrency:** Use a platform like Coinbase to purchase a small amount of [ETH](/what-is-ethereum) (for instance, a modest amount).
 - **Execute a Transaction:** Transfer your ETH to your personal MetaMask wallet. This practical step will teach you about the importance of self-custody.

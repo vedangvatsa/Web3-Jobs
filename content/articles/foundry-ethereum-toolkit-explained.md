@@ -3,7 +3,7 @@
 title: "Foundry Ethereum Toolkit Explained: A Guide for Developers"
 image: "/images/tommy-texter-T42j_xLOqw0-unsplash.jpg"
 data-ai-hint: "foundry software toolkit"
-description: "A guide for Ethereum developers on Foundry, the fast, portable, and Solidity-native development toolkit that is revolutionizing how we build and test."
+description: "A guide for Ethereum developers on Foundry, the fast, portable, and Solidity-native development toolkit that is changing how we build and test."
 category: "Getting Started"
 
 publishedDate: "2026-03-11"

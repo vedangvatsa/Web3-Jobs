@@ -107,15 +107,15 @@ Validators manage queue through strategic choices.
 
 Validator infrastructure creates roles:
 
-**Validator Operators** running validators earn varying salaries.
+- **Validator Operators** running validators earn varying salaries.
 
-**Staking Service Operators** managing pools earn varying salaries.
+- **Staking Service Operators** managing pools earn varying salaries.
 
-**Protocol Engineers** tuning queue parameters earn varying salaries.
+- **Protocol Engineers** tuning queue parameters earn varying salaries.
 
-**Data Analysts** tracking validator metrics earn varying salaries.
+- **Data Analysts** tracking validator metrics earn varying salaries.
 
-**Economics Researchers** modeling validator incentives earn varying salaries.
+- **Economics Researchers** modeling validator incentives earn varying salaries.
 
 ## Best Practices
 

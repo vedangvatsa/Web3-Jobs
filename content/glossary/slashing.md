@@ -113,15 +113,15 @@ Different chains make different tradeoffs reflecting their priorities.
 
 Slashing and Proof of Stake security create roles:
 
-**Protocol Engineers** design slashing mechanisms and security models.
+- **Protocol Engineers** design slashing mechanisms and security models.
 
-**Validator Client Developers** build slashing-protection features and reliable validator software.
+- **Validator Client Developers** build slashing-protection features and reliable validator software.
 
-**Security Auditors** specialize in validator behavior and slashing vulnerabilities.
+- **Security Auditors** specialize in validator behavior and slashing vulnerabilities.
 
-**Quantitative Researchers** model slashing incentives and network stability.
+- **Quantitative Researchers** model slashing incentives and network stability.
 
-**Staking Service Operators** manage large validator pools with sophisticated slashing protection systems.
+- **Staking Service Operators** manage large validator pools with sophisticated slashing protection systems.
 
 ## Best Practices
 

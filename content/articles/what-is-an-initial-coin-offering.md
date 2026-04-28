@@ -22,7 +22,7 @@ The traditional ICO model from 2017 typically adhered to these steps:
 2. **The Token Sale:** The team announced the token sale's specifics, including the token price, usually denominated in [Bitcoin](/what-is-bitcoin) (BTC) or [Ethereum](/what-is-ethereum) (ETH), and the total capital goal.
 3. **The Investment:** Interested investors sent BTC or ETH to a designated [smart contract](/what-are-smart-contracts) address provided by the project.
 4. **Token Distribution:** In return, the smart contract automatically distributed the corresponding amount of new project tokens to the investors' [wallet](/how-to-choose-a-crypto-wallet).
-5. **Post-ICO:** After the sale, the project utilized the raised funds to develop its product. Investors had to wait for the tokens to be listed on a cryptocurrency exchange before trading.
+5. **Post-ICO:** After the sale, the project used the raised funds to develop its product. Investors had to wait for the tokens to be listed on a cryptocurrency exchange before trading.
 
 ### Challenges and Risks in the ICO Model
 

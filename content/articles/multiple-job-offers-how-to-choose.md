@@ -24,7 +24,7 @@ If you have pending interviews, inform those companies about your received offer
 
 ### Evaluate Beyond Salary
 
-While salary is crucial, it represents only one aspect of the overall package. A job offering a slightly lower base salary might provide a superior compensation package or a more supportive work environment. Create a comparison spreadsheet to analyze the offers based on several key factors.
+While salary is important, it represents only one aspect of the overall package. A job offering a slightly lower base salary might provide a superior compensation package or a more supportive work environment. Create a comparison spreadsheet to analyze the offers based on several key factors.
 
 | Factor                   | Offer A                      | Offer B                      | Offer C                      |
 |-------------------------|-----------------------------|------------------------------|------------------------------|
@@ -50,7 +50,7 @@ While salary is crucial, it represents only one aspect of the overall package. A
 **Company Culture and Work-Life Balance.** You will spend a substantial part of your life at work, so ensure the company culture aligns with your values.
 
 * **Interview Vibe:** Reflect on the atmosphere during your interviews. Did the team seem collaborative and supportive or competitive and stressful?
-* **Working Hours Expectations:** Investigate whether the company prioritizes work-life balance or fosters a "hustle culture" demanding long hours.
+* **Working Hours Expectations:** Investigate whether the company prioritizes work-life balance or builds a "hustle culture" demanding long hours.
 * **[Remote Work](/remote-work-in-web3) Policy:** If remote work is an option, clarify expectations regarding communication and availability.
 
 **The Work Itself.** Your daily tasks should motivate you.
@@ -71,7 +71,7 @@ Once you make a decision, communicate it professionally.
 
 **Accepting the Offer.** Contact the hiring manager to verbally accept the offer. Express your excitement and confirm your start date. Follow up with a formal email to document your acceptance of the written offer.
 
-**Declining the Offer.** It is crucial to maintain a positive relationship and leave the door open for future opportunities. Reach out to the hiring manager to inform them of your decision. Thank them for their time and the offer, explaining that you have chosen another role that aligns better with your long-term goals. A brief, courteous message suffices.
+**Declining the Offer.** It is important to maintain a positive relationship and leave the door open for future opportunities. Reach out to the hiring manager to inform them of your decision. Thank them for their time and the offer, explaining that you have chosen another role that aligns better with your long-term goals. A brief, courteous message suffices.
 
 Selecting between multiple job offers demands a thoughtful, structured approach. By carefully evaluating your options, you can make a decision that supports long-term success and satisfaction.
 

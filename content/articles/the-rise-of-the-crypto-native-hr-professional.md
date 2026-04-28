@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-In the fast-paced, decentralized world of [Web3](/what-is-web3), even the most traditional corporate functions are being radically reinvented. Perhaps one of the most transformed is Human Resources, or "People Ops." A Web3 HR professional isn't just managing payroll and benefits; they are pioneering new models of work, compensation, and organizational culture in real-time.
+In the fast-paced, decentralized world of [Web3](/what-is-web3), even the most traditional corporate functions are being radically reinvented. Perhaps one of the most transformed is Human Resources, or "People Ops." A Web3 HR professional isn't just managing payroll and benefits; they are leading new models of work, compensation, and organizational culture in real-time.
 
 The demand for crypto-native People Ops leaders is surging as Web3 startups and [DAOs](/what-is-a-dao) scale. They need professionals who understand the unique cultural and operational challenges of managing a global, remote, and often pseudonymous workforce. The role is fundamentally different from traditional HR, requiring a blend of startup mentality, crypto knowledge, and people management expertise.
 
@@ -94,7 +94,7 @@ Retention comes from community belonging, meaningful work, and clear paths to in
 
 **Compensation & Benefits:** Designing and managing complex compensation packages that include tokens, equity, and crypto payments. Partnering with tax and accounting professionals.
 
-**Culture Building:** Fostering a strong sense of community and shared purpose within a globally distributed, often pseudonymous team. Creating rituals and spaces for connection despite geographic and timezone distance.
+**Culture Building:** Building a strong sense of community and shared purpose within a globally distributed, often pseudonymous team. Creating rituals and spaces for connection despite geographic and timezone distance.
 
 **Contributor Relations (for DAOs):** Creating systems to manage and reward a network of [freelance](/how-to-start-freelancing-for-beginners) DAO contributors. Building reputation systems, managing bounties, and creating career paths within the DAO.
 

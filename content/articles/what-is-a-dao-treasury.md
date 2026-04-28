@@ -20,7 +20,7 @@ DAO treasuries receive funds from multiple sources. For various protocols, fees 
 
 ### Managing a DAO Treasury 
 
-Managing a DAO treasury requires balancing security, efficiency, and decentralization. The key challenge lies in enabling a decentralized community to oversee significant funds while avoiding slow processes that hamper operations or insecure systems that invite theft. Most DAOs utilize a mix of tools to achieve this.
+Managing a DAO treasury requires balancing security, efficiency, and decentralization. The key challenge lies in enabling a decentralized community to oversee significant funds while avoiding slow processes that hamper operations or insecure systems that invite theft. Most DAOs use a mix of tools to achieve this.
 
 1. **Gnosis Safe (Multisig [Wallet](/how-to-choose-a-crypto-wallet)):** The Gnosis Safe is a widely used multisig wallet for treasury management. A multisig wallet is a [smart contract](/what-are-smart-contracts) requiring a set number of approvals from a group of trusted signers before executing any transaction. For instance, a DAO might implement a 4-of-7 multisig setup, where seven trusted community members serve as signers, and at least four must approve any treasury expenditure.
    - **Advantages:** This model enhances security by eliminating the risk associated with a single private key, reducing the potential for a single point of failure. It also streamlines operations compared to requiring a full DAO vote for every minor expense.
@@ -40,7 +40,7 @@ Effective treasury management encompasses both security and productive asset dep
 
 - **Active Management vs. Passive Holding:** DAOs must decide whether to actively manage treasury assets in [DeFi](/what-is-defi) for yield generation or to hold them passively. While active management can yield additional revenue, it also introduces smart contract risks. Each DAO must assess its risk appetite when determining its strategy.
 
-- **Transparency:** Transparency is vital for effective treasury management. All treasury transactions should be publicly accessible. Tools like OpenZeppelin Defender and Etherscan allow stakeholders to track multisig transactions. Many DAOs utilize public dashboards, often built on Dune, to provide real-time views of their treasury's assets and expenditures.
+- **Transparency:** Transparency is vital for effective treasury management. All treasury transactions should be publicly accessible. Tools like OpenZeppelin Defender and Etherscan allow stakeholders to track multisig transactions. Many DAOs use public dashboards, often built on Dune, to provide real-time views of their treasury's assets and expenditures.
 
 ### Real-World Example of DAO Treasury Management
 

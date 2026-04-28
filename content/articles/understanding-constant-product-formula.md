@@ -30,7 +30,7 @@ This article breaks down the constant product formula, its practical application
 
 ### Breaking Down the Formula
 
-Each component of `x * y = k` plays a crucial role:
+Each component of `x * y = k` plays a important role:
 
 - **`x`**: Total reserve of Token A in the liquidity pool.
   - *Example*: The number of [ETH](/what-is-ethereum) tokens in an ETH/USDC pool.
@@ -90,9 +90,9 @@ The trading fee slightly increases the `k` value with each trade. This increment
 
 ### The Evolution: Beyond `x * y = k`
 
-While the constant product formula was pioneering, it exhibits limitations in capital efficiency. Consequently, more advanced invariants have emerged:
+While the constant product formula was leading, it exhibits limitations in capital efficiency. Consequently, more advanced invariants have emerged:
 
-- **[StableSwap Invariant](/stableswap-invariant-explained-for-traders)**: Utilized by Curve, this hybrid formula optimizes trading for stablecoins, minimizing slippage for pegged assets.
+- **[StableSwap Invariant](/stableswap-invariant-explained-for-traders)**: Used by Curve, this hybrid formula optimizes trading for stablecoins, minimizing slippage for pegged assets.
 - **Concentrated Liquidity**: Implemented by Uniswap v3, this feature lets LPs provide liquidity within specific price ranges, significantly enhancing capital efficiency.
 - **Weighted Pools**: Used by Balancer, this variant allows for multiple assets with custom weightings (e.g., 80/20 instead of 50/50).
 

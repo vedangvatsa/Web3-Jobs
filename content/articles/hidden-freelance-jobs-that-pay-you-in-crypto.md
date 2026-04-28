@@ -95,7 +95,7 @@ The [Web3 job](/web3-jobs-for-beginners) market operates under different dynamic
 2. **Learn Relevant Skills:** Depending on your target role:
    - **Engineers:** Focus on Solidity, JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
    - **Product Managers:** Understand token economics, protocol governance, and user growth in Web3.
-   - **Business Development:** Study market analysis, partnership strategies, and the regulatory landscape.
+   - **Business Development:** Study market analysis, partnership strategies, and the regulatory space.
    - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 3. **Build Your Portfolio:** Create tangible proof of your Web3 expertise by:

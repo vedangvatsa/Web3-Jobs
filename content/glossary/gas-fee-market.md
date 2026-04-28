@@ -97,13 +97,13 @@ MEV influences fee markets significantly.
 
 Fee market roles:
 
-**Protocol Engineers** earn competitive salaries.
+- **Protocol Engineers** earn competitive salaries.
 
-**MEV Researchers** earn competitive salaries.
+- **MEV Researchers** earn competitive salaries.
 
-**Infra Engineers** building gas tools earn competitive salaries.
+- **Infra Engineers** building gas tools earn competitive salaries.
 
-**Economists** modeling fee markets earn competitive salaries.
+- **Economists** modeling fee markets earn competitive salaries.
 
 ## Best Practices
 

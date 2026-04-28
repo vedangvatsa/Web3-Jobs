@@ -82,7 +82,7 @@ Tailor your learning based on your desired role:
 
 - **Engineers:** Focus on [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Study token economics, protocol governance, and user acquisition strategies in Web3.
-- **Business Development:** Understand market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Understand market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 #### Step 3: Create a Portfolio

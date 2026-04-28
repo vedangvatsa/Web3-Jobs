@@ -34,7 +34,7 @@ In traditional corporations, board meetings are typically private, and strategic
 
 Traditional models rely on a fixed set of full-time employees. DAOs embrace a more fluid and global workforce.
 
-- **Implementation:** DAOs often utilize a network of [freelance](/how-to-start-freelancing-for-beginners) contributors rather than salaried staff. Contributors may receive payments through "bounties" for specific tasks or grants for extended projects. Anyone worldwide can start contributing without prior approval.
+- **Implementation:** DAOs often use a network of [freelance](/how-to-start-freelancing-for-beginners) contributors rather than salaried staff. Contributors may receive payments through "bounties" for specific tasks or grants for extended projects. Anyone worldwide can start contributing without prior approval.
 - **Effect:** This approach dismantles the barriers between "inside" and "outside" the company, creating a meritocratic system where reputation is built on public contributions rather than resumes. This meritocracy is further explored in our [guide to DAO jobs](/the-rise-of-daos).
 
 #### 3. Automated Treasury Management
@@ -42,7 +42,7 @@ Traditional models rely on a fixed set of full-time employees. DAOs embrace a mo
 In traditional corporations, treasury management falls under the purview of CFOs and executive teams. In DAOs, treasury control operates through multisignature smart contract [wallets](/how-to-choose-a-crypto-wallet) managed by the community.
 
 - **Implementation:** To access funds from a DAO's treasury, a governance vote is required. The smart contract enforces the vote's outcome, automatically releasing funds if approved. This eliminates the need for trusted intermediaries.
-- **Effect:** This process enables innovative models for capital allocation, such as [Quadratic Funding for public goods](/web3-for-good-careers-in-social-impact-daos) and automated [yield farming](/what-is-yield-farming) strategies.
+- **Effect:** This process enables new models for capital allocation, such as [Quadratic Funding for public goods](/web3-for-good-careers-in-social-impact-daos) and automated [yield farming](/what-is-yield-farming) strategies.
 
 #### 4. User and Owner Convergence
 
@@ -103,7 +103,7 @@ Tailor your learning to your desired role:
 
 - **Engineers:** Focus on Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Study market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Study market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Learn community building techniques, Discord management, and governance processes.
 
 #### Step 3: Build Your Portfolio
@@ -142,7 +142,7 @@ Alex spent five years as a backend engineer at a major tech company. After three
 
 #### Product Manager in Web3
 
-Jessica, a product manager from a traditional finance background, utilized her expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her highly sought after. She secured a position at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager from a traditional finance background, used her expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her highly sought after. She secured a position at a leading DeFi protocol within a short timeframe.
 
 #### Career Changer Success
 
@@ -152,7 +152,7 @@ Marcus transitioned from a corporate role to focus on Web3 for six months. Throu
 
 **Volatility Risk:** The inherent volatility of the crypto market can affect job stability, especially at early-stage startups. Professionals entering Web3 should maintain several months of living expenses in reserve, negotiate base salaries in fiat currency, and ideally join projects with established revenue models or significant treasury backing.
 
-**Regulatory Uncertainty:** The evolving regulatory landscape for blockchain companies across major jurisdictions adds complexity. Before joining a project, verify that the team engages competent legal counsel and proactively interacts with regulators rather than operating in legal grey areas.
+**Regulatory Uncertainty:** The evolving regulatory space for blockchain companies across major jurisdictions adds complexity. Before joining a project, verify that the team engages competent legal counsel and proactively interacts with regulators rather than operating in legal grey areas.
 
 **Due Diligence:** Not all Web3 projects are legitimate. Research the founding team's track record, review audit reports for smart contracts, confirm treasury holdings on-chain, and speak with current or former team members before accepting an offer.
 

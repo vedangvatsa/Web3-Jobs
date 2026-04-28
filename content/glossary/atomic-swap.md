@@ -131,15 +131,15 @@ While pure atomic swaps have not exploded in usage, the underlying HTLC technolo
 
 Atomic swaps create specialized roles:
 
-**Cross-Chain Engineers** build swapping infrastructure.
+- **Cross-Chain Engineers** build swapping infrastructure.
 
-**Protocol Designers** improve swap mechanisms.
+- **Protocol Designers** improve swap mechanisms.
 
-**Smart Contract Developers** implement swap contracts.
+- **Smart Contract Developers** implement swap contracts.
 
-**UX Engineers** improve the swap user experience.
+- **UX Engineers** improve the swap user experience.
 
-**Researchers** study swap efficiency.
+- **Researchers** study swap efficiency.
 
 ## Best Practices
 
@@ -163,7 +163,7 @@ While pure atomic swaps have not achieved mainstream adoption for trading, HTLC 
 
 - **Cross-Chain Protocols**: Future cross-chain protocols might use atomic primitives.
 
-- **Privacy Protocols**: Privacy technology might leverage atomic swap primitives.
+- **Privacy Protocols**: Privacy technology might use atomic swap primitives.
 
 - **Distributed Finance**: Atomic primitives are useful for decentralized finance applications.
 

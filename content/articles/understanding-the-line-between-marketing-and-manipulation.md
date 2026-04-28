@@ -26,7 +26,7 @@ This combination incentivizes prioritizing hype over substance, leading to poten
 
 ### Gray Area #1: Influencer Marketing vs. Shilling
 
-- **Ethical Marketing:** A project collaborates with a reputable influencer to produce an informative video tutorial that clearly explains how to utilize their protocol. The influencer discloses the partnership and emphasizes the product's utility.
+- **Ethical Marketing:** A project collaborates with a reputable influencer to produce an informative video tutorial that clearly explains how to use their protocol. The influencer discloses the partnership and emphasizes the product's utility.
 
 - **Manipulation ([Shilling](/what-is-shilling-in-crypto)):** An influencer receives payment to post vague, exaggerated claims about a token's price potential without disclosing this arrangement. The focus shifts to speculative price predictions designed to create a sense of urgency.
 

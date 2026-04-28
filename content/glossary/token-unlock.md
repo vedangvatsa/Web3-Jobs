@@ -87,13 +87,13 @@ Major unlocks often visible in price charts.
 
 Token economics creates roles:
 
-**Tokenomics Analysts** analyzing unlocks.
+- **Tokenomics Analysts** analyzing unlocks.
 
-**Quantitative Traders** trading around unlocks.
+- **Quantitative Traders** trading around unlocks.
 
-**Protocol Designers** designing unlock schedules.
+- **Protocol Designers** designing unlock schedules.
 
-**Data Analysts** analyzing unlock data.
+- **Data Analysts** analyzing unlock data.
 
 ## Best Practices
 

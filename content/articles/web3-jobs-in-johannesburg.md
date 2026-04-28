@@ -36,7 +36,7 @@ The job market in Johannesburg favors professionals with backgrounds in finance,
 
 ### Building a Web3 Career in Johannesburg
 
-1. **Utilize Your Financial or Corporate Background:** Your experience in banking, law, or large corporations is a significant asset. Highlight roles involving risk management, compliance, and enterprise client engagement on your [resume](/how-to-build-a-web3-resume-that-stands-out).
+1. **Use Your Financial or Corporate Background:** Your experience in banking, law, or large corporations is a significant asset. Highlight roles involving risk management, compliance, and enterprise client engagement on your [resume](/how-to-build-a-web3-resume-that-stands-out).
 
 2. **Concentrate on Institutional Solutions:** Focus your studies and portfolio on the more serious aspects of Web3, such as the tokenization of RWAs, institutional DeFi, and the architecture of permissioned blockchains.
 
@@ -159,7 +159,7 @@ To establish a career at the heart of Africa's Web3 ecosystem, visit our [Web3 j
 
 **Challenge 1: Corporate Conservatism**
 - *Reality:* Institutions are slow to adopt and prefer proven solutions.
-- *Solution:* Build relationships and trust. Those who can patiently connect traditional finance with innovative solutions will be rewarded.
+- *Solution:* Build relationships and trust. Those who can patiently connect traditional finance with new solutions will be rewarded.
 
 **Challenge 2: Regulatory Complexity**
 - *Reality:* FSCA regulations require detailed compliance.

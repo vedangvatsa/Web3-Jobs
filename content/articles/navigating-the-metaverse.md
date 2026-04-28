@@ -94,11 +94,11 @@ Craft a tailored plan that suits your situation. Individual circumstances vary, 
 
 ### Step 4: Implement Gradually
 
-Avoid attempting to change everything at once. Initiate one small change and build upon it. Monitor what succeeds and what does not. This iterative method fosters sustainable improvement.
+Avoid attempting to change everything at once. Initiate one small change and build upon it. Monitor what succeeds and what does not. This iterative method builds sustainable improvement.
 
 ### Step 5: Measure and Adjust
 
-Keep track of your progress. Are you achieving desired results? Modify your approach based on feedback and outcomes. This mindset of continuous improvement is crucial.
+Keep track of your progress. Are you achieving desired results? Modify your approach based on feedback and outcomes. This mindset of continuous improvement is important.
 
 ## Real-World Examples
 

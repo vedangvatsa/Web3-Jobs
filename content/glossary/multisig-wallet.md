@@ -109,13 +109,13 @@ Hardware wallet multisig provides maximum security.
 
 Multisig creates roles:
 
-**Security Engineers** design multisig systems.
+- **Security Engineers** design multisig systems.
 
-**Custody Specialists** manage multisig systems.
+- **Custody Specialists** manage multisig systems.
 
-**Smart Contract Engineers** build multisig solutions.
+- **Smart Contract Engineers** build multisig solutions.
 
-**Key Managers** manage key distribution.
+- **Key Managers** manage key distribution.
 
 ## Best Practices
 

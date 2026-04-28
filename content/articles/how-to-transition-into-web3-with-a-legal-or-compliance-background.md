@@ -39,7 +39,7 @@ For professionals with a legal or compliance background, the following roadmap o
 3. **Create a Public Portfolio**: Demonstrating your expertise is more valuable than a traditional resume.
     - **Actionable Step**: Start a blog or Substack newsletter. Analyze recent regulatory actions or dissect the legal intricacies surrounding new DAO structures. Your writing will serve as a powerful marketing tool.
 
-4. **Engage with the Community**: Networking is crucial in Web3.
+4. **Engage with the Community**: Networking is important in Web3.
     - **Actionable Step**: Join Discord channels of major protocols and take part in governance discussions. Building connections within the community will enhance your visibility and potential job prospects.
 
 For intellectually curious professionals comfortable with uncertainty, a career in Web3 law and compliance enables you to contribute to the new digital economy.
@@ -84,7 +84,7 @@ Invest time in learning blockchain fundamentals. Focus on:
 Depending on your target role, you may need to learn specific skills:
 - **Engineers**: Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers**: Token economics, protocol governance, user growth strategies in Web3
-- **Business Development**: Market analysis, partnership strategies, understanding the regulatory landscape
+- **Business Development**: Market analysis, partnership strategies, understanding the regulatory space
 - **Community/Operations**: Community engagement, Discord management, governance practices
 
 ### Step 3: Develop Your Portfolio
@@ -119,7 +119,7 @@ Alex worked as a backend engineer for a major tech company for five years. He sp
 
 ### Product Manager Success in Web3
 
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi to secure a role at a leading DeFi protocol within a few weeks. Her understanding of financial products combined with Web3 technology made her highly sought after.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi to secure a role at a leading DeFi protocol within a few weeks. Her understanding of financial products combined with Web3 technology made her highly sought after.
 
 ### Career Changer Achievement
 

@@ -38,10 +38,10 @@ Your resume should include a brief summary or objective statement at the top.
 
 ### 3. Focus on Achievements, Not Just Responsibilities
 
-Highlighting your accomplishments instead of merely listing job duties is crucial. Quantify your achievements with specific metrics whenever possible.
+Highlighting your accomplishments instead of merely listing job duties is important. Quantify your achievements with specific metrics whenever possible.
 
 - **Instead of**: "Responsible for managing the company's social media accounts."
-- **Try**: "Increased the company's Twitter following significantly in six months and boosted engagement through an innovative content strategy."
+- **Try**: "Increased the company's Twitter following significantly in six months and boosted engagement through an new content strategy."
 
 Start bullet points with strong action verbs such as "developed," "managed," "achieved," and "improved."
 
@@ -85,7 +85,7 @@ Yes, employment gaps are common. Be prepared to explain the gap in your cover le
 
 ### Why This Matters
 
-Mastering resume writing is crucial for your professional advancement. Professionals who excel in this skill often stand out, command higher salaries, and progress more rapidly in their careers. This is particularly true in [Web3](/what-is-web3) organizations, where effective communication and collaboration are essential.
+Mastering resume writing is important for your professional advancement. Professionals who excel in this skill often stand out, command higher salaries, and progress more rapidly in their careers. This is particularly true in [Web3](/what-is-web3) organizations, where effective communication and collaboration are essential.
 
 ### Step-by-Step Guide
 
@@ -103,7 +103,7 @@ Create a customized plan. Everyone's situation is unique, so tailor your approac
 
 #### Step 4: Implement Gradually
 
-Avoid attempting to change everything at once. Start with one small adjustment and build upon it. Monitor what works and what does not; this iterative process fosters sustainable improvement.
+Avoid attempting to change everything at once. Start with one small adjustment and build upon it. Monitor what works and what does not; this iterative process builds sustainable improvement.
 
 #### Step 5: Measure and Adjust
 

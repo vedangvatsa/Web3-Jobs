@@ -157,7 +157,7 @@ Alex transitioned from a backend engineer role at a major tech company to smart 
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, utilized her expertise in DeFi to secure a role with a leading protocol. Her understanding of financial products combined with Web3 technology made her a valuable asset. She successfully landed her position within a short timeframe.
+Jessica, a product manager from traditional finance, used her expertise in DeFi to secure a role with a leading protocol. Her understanding of financial products combined with Web3 technology made her a valuable asset. She successfully landed her position within a short timeframe.
 
 ### Career Changer Success
 

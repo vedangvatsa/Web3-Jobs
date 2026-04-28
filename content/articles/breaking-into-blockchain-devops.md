@@ -25,7 +25,7 @@ Although the fundamental principles of DevOps, automation, collaboration, and it
 - **Web2:** Professionals manage a centralized fleet of servers using cloud services like AWS or GCP.
 - **Web3:** The focus shifts to managing nodes within a decentralized, peer-to-peer network. Key responsibilities include:
     - **Node Management:** Deploying, maintaining, and monitoring validator or RPC nodes for various blockchain networks, including [Ethereum](/what-is-ethereum), Solana, and Layer 2 solutions.
-    - **Network Diversity:** Building resilience through multi-cloud strategies, distributing nodes across providers like AWS, GCP, and Azure, as well as utilizing bare metal servers in various geographic locations to eliminate single points of failure.
+    - **Network Diversity:** Building resilience through multi-cloud strategies, distributing nodes across providers like AWS, GCP, and Azure, as well as using bare metal servers in various geographic locations to eliminate single points of failure.
 
 **2. Deployment Targets an Immutable Blockchain**
 
@@ -33,13 +33,13 @@ Although the fundamental principles of DevOps, automation, collaboration, and it
 - **Web3:** Deploying a smart contract means it becomes immutable; any bugs introduced are permanent. This reality escalates the stakes involved in the deployment process.
 - **Secure CI/CD:** A primary task is creating a secure continuous integration and deployment pipeline for [smart contracts](/what-are-smart-contracts). This involves:
     - **Automated Security Scans:** Incorporating static analysis tools such as Slither and fuzz testing in the pipeline to detect issues before deployment.
-    - **Private Key Management:** Utilizing secure systems like HashiCorp Vault or cloud KMS to manage the private keys required for contract deployment, ensuring these keys remain confidential and never appear in plaintext.
+    - **Private Key Management:** Using secure systems like HashiCorp Vault or cloud KMS to manage the private keys required for contract deployment, ensuring these keys remain confidential and never appear in plaintext.
 
 **3. The Environment is Adversarial by Nature**
 
 - **Web2:** The focus is on preventing unauthorized access to private networks.
 - **Web3:** Assume the network is hostile; every transaction could potentially be an attack.
-- **Monitoring and Alerting:** Implementing advanced monitoring solutions for both on-chain and off-chain systems is crucial. Responsibilities include:
+- **Monitoring and Alerting:** Implementing advanced monitoring solutions for both on-chain and off-chain systems is important. Responsibilities include:
     - **On-Chain Monitoring:** Tracking smart contract events, gas usage, and identifying suspicious activity.
     - **Off-Chain Monitoring:** Assessing the health and performance of RPC nodes, indexers, and relayers.
 
@@ -60,7 +60,7 @@ Although the fundamental principles of DevOps, automation, collaboration, and it
 2. **Practical Experience:** Engage in hands-on projects.
     - **Node Operation:** Set up an Ethereum node on a testnet, sync it, and connect to it. This serves as an introductory project.
     - **Contract Deployment:** Learn [Solidity](/best-programming-languages-for-blockchain-development) and use frameworks like Hardhat or [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit) to deploy a basic smart contract to your testnet node.
-3. **Create a Secure CI/CD Pipeline:** As you work on a personal project, construct a CI/CD pipeline for a simple smart contract utilizing GitHub Actions.
+3. **Create a Secure CI/CD Pipeline:** As you work on a personal project, construct a CI/CD pipeline for a simple smart contract using GitHub Actions.
     - Compile the contract.
     - Run tests.
     - Integrate static analysis tools like Slither.
@@ -98,7 +98,7 @@ Invest 4-8 weeks into learning blockchain fundamentals, focusing on:
 Tailor your learning based on your target role:
 - **Engineers:** Familiarize yourself with Solidity, JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
 - **Product Managers:** Understand token economics, protocol governance, and strategies for user growth in Web3.
-- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 #### Step 3: Build Your Portfolio

@@ -82,7 +82,7 @@ Different voting mechanisms exist:
 
 - **Nouns DAO**: Auctions one generative NFT daily, with proceeds going to the treasury. Noun holders vote on creative projects, spawning numerous derivative projects.
 
-- **The DAO (2016)**: The first major DAO raised significant funds but suffered a critical smart contract exploit leading to a hack. The Ethereum community's response created Ethereum Classic and established crucial security lessons.
+- **The DAO (2016)**: The first major DAO raised significant funds but suffered a critical smart contract exploit leading to a hack. The Ethereum community's response created Ethereum Classic and established important security lessons.
 
 ## Voting Mechanisms Deep Dive
 
@@ -92,7 +92,7 @@ Different voting mechanisms exist:
 
 - **Conviction Voting**: Used by Aragon. Votes gain "conviction" (weight) over time as tokens remain locked. Enables minority opinions to eventually pass proposals if committed holders maintain support.
 
-- **Reputation-Based Systems**: Platforms like Gitcoin use contribution history rather than token holdings. Developers who have shipped code earn voting power. This reduces plutocracy but requires robust reputation tracking.
+- **Reputation-Based Systems**: Platforms like Gitcoin use contribution history rather than token holdings. Developers who have shipped code earn voting power. This reduces plutocracy but requires strong reputation tracking.
 
 - **Delegated Voting**: Token holders can delegate voting power to active participants. Compound and Uniswap heavily use delegation, with most voting power delegated to a small number of active delegates.
 
@@ -145,7 +145,7 @@ Treasury management has become a specialized discipline. Professional treasury m
 
 - **Flash Loan Attacks**: Borrowing governance tokens for one block to manipulate votes. Most governance systems now snapshot voting power before proposals start.
 
-- **Sybil Attacks**: Creating many fake identities to gain voting power in reputation-based systems. Requires robust identity verification.
+- **Sybil Attacks**: Creating many fake identities to gain voting power in reputation-based systems. Requires strong identity verification.
 
 - **Vote Buying**: Markets where token holders sell their voting power. Difficult to prevent while maintaining permissionless participation.
 
@@ -161,7 +161,7 @@ Treasury management has become a specialized discipline. Professional treasury m
 
 - **Protocol Politician/Delegate**: Full-time delegates in major DAOs participate in governance professionally, compensated via grants or delegate rewards.
 
-- **Legal Counsel**: Navigates regulatory landscape, structures legal entities, advises on compliance. High demand as DAOs seek legal clarity.
+- **Legal Counsel**: Navigates regulatory space, structures legal entities, advises on compliance. High demand as DAOs seek legal clarity.
 
 - **Treasury Manager**: Manages DAO treasuries, executes investment strategies, coordinates with DeFi protocols. Finance background plus Web3 knowledge is beneficial.
 

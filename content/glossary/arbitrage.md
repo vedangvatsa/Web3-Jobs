@@ -83,7 +83,7 @@ While theoretically risk-free, real-world arbitrage involves significant challen
 
 ## Flash Loan Arbitrage
 
-Flash loans revolutionized arbitrage by removing capital requirements:
+Flash loans changed arbitrage by removing capital requirements:
 
 - **How It Works**: Borrow large amounts from a lending protocol like Aave, execute arbitrage across DEXs, repay the loan plus fees, all in one transaction that either succeeds completely or reverts with no loss beyond gas.
 
@@ -111,15 +111,15 @@ Successful arbitrageurs rely on sophisticated infrastructure:
 
 Arbitrage trading offers diverse career paths:
 
-**Quantitative Traders** develop arbitrage strategies using statistical modeling and programming. Entry-level quant positions typically start at competitive salaries, while experienced traders earn significantly more including performance bonuses.
+- **Quantitative Traders** develop arbitrage strategies using statistical modeling and programming. Entry-level quant positions typically start at competitive salaries, while experienced traders earn significantly more including performance bonuses.
 
-**Algorithmic Trading Engineers** build and maintain arbitrage bots, optimizing execution speed and gas efficiency. These roles offer competitive salaries at trading firms.
+- **Algorithmic Trading Engineers** build and maintain arbitrage bots, optimizing execution speed and gas efficiency. These roles offer competitive salaries at trading firms.
 
-**Market Makers** provide liquidity while capturing arbitrage opportunities, earning salaries that vary based on firm size and performance.
+- **Market Makers** provide liquidity while capturing arbitrage opportunities, earning salaries that vary based on firm size and performance.
 
-**DeFi Protocol Developers** build the infrastructure that enables arbitrage, including DEXs, lending protocols, and cross-chain bridges. Senior positions command competitive salaries.
+- **DeFi Protocol Developers** build the infrastructure that enables arbitrage, including DEXs, lending protocols, and cross-chain bridges. Senior positions command competitive salaries.
 
-**Risk Analysts** model arbitrage risks including execution failure, smart contract vulnerabilities, and market impact.
+- **Risk Analysts** model arbitrage risks including execution failure, smart contract vulnerabilities, and market impact.
 
 ## Best Practices
 

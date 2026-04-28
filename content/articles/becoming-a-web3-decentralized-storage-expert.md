@@ -28,13 +28,13 @@ Engineers can pursue several roles in the decentralized storage sector:
 
 - **Infrastructure Engineer:** These professionals focus on enhancing the underlying protocols, improving network efficiency, security, and scalability. Proficiency in programming languages such as **Go** or **Rust** is often required, as these languages are commonly used in the development of decentralized storage systems.
 
-- **dApp Developer:** Developers in this role utilize decentralized storage networks to create reliable applications. For instance, an NFT developer might store an NFT's image and metadata on IPFS or Arweave, ensuring that the information remains accessible and impervious to deletion by centralized servers.
+- **dApp Developer:** Developers in this role use decentralized storage networks to create reliable applications. For instance, an NFT developer might store an NFT's image and metadata on IPFS or Arweave, ensuring that the information remains accessible and impervious to deletion by centralized servers.
 
 - **Tooling and API Developer:** This role involves creating tools that facilitate the use of decentralized storage for other developers. Examples include building "pinning services" that ensure data persists on IPFS or developing indexing services to streamline data queries on Arweave.
 
 ### Steps to Enter the Decentralized Storage Field
 
-1. **Familiarize with the Tools:** Understanding the command-line interface for both IPFS and Arweave is crucial. Experiment with uploading and retrieving files to grasp the concepts of content addressing and pinning effectively.
+1. **Familiarize with the Tools:** Understanding the command-line interface for both IPFS and Arweave is important. Experiment with uploading and retrieving files to grasp the concepts of content addressing and pinning effectively.
 
 2. **Develop a Project:**
    - **Project Idea:** Create a decentralized blog. Write a script that uploads a markdown file to Arweave and then displays it on a simple frontend.
@@ -48,7 +48,7 @@ To excel as a Web3 Storage Expert, certain skills are key:
 
 - **Understanding of Distributed Systems:** A strong foundation in distributed systems is essential. Familiarity with concepts like peer-to-peer networking, data replication, and fault tolerance will provide a competitive edge.
 
-- **Proficiency in Relevant Programming Languages:** Knowledge of languages commonly used in decentralized storage development, such as Go or Rust, is crucial. Both languages are known for their performance and safety features, making them ideal for building scalable systems.
+- **Proficiency in Relevant Programming Languages:** Knowledge of languages commonly used in decentralized storage development, such as Go or Rust, is important. Both languages are known for their performance and safety features, making them ideal for building scalable systems.
 
 - **Experience with Blockchain Technology:** A solid understanding of blockchain principles, including smart contracts and consensus mechanisms, will enhance your ability to work effectively within the Web3 ecosystem.
 

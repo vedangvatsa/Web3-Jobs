@@ -115,7 +115,7 @@ The March 2024 Ethereum upgrade added "blob" data storage, temporary data that i
 
 ## Bridging: Moving Assets Between Layers
 
-**Bridges** transfer assets between Layer 1 and Layer 2:
+- **Bridges** transfer assets between Layer 1 and Layer 2:
 
 - **Canonical Bridges**: Official bridges operated by L2 teams. Most secure but inherits L2's trust assumptions.
 
@@ -123,7 +123,7 @@ The March 2024 Ethereum upgrade added "blob" data storage, temporary data that i
 
 - **Native Withdrawals**: Withdrawing from optimistic rollups to Ethereum takes 7 days due to the dispute period. Users cannot access funds during this time unless using third-party bridges.
 
-Bridge security is crucial, as significant amounts have been lost to bridge hacks. Always use established bridges and verify contract addresses.
+Bridge security is important, as significant amounts have been lost to bridge hacks. Always use established bridges and verify contract addresses.
 
 ## L2 Ecosystems and Adoption
 
@@ -160,8 +160,8 @@ The goal is for users to interact with Ethereum without needing to understand th
 ## L2s vs Sidechains vs Alt-L1s
 
 - **Layer 2s**: Inherit Ethereum security, post data to mainnet  
-**Sidechains** (Polygon PoS, Ronin): Separate consensus, do not inherit Ethereum security  
-**Alt-L1s** (Solana, Avalanche): Completely independent blockchains  
+- **Sidechains** (Polygon PoS, Ronin): Separate consensus, do not inherit Ethereum security  
+- **Alt-L1s** (Solana, Avalanche): Completely independent blockchains  
 
 L2s provide Ethereum security with better performance. Sidechains provide better performance with independent security. Alt-L1s offer different trade-offs entirely.
 

@@ -65,11 +65,11 @@ Proto-danksharding adds complexity but offers large scaling benefits.
 
 Scaling roles:
 
-**Protocol Engineers**.
+- **Protocol Engineers**.
 
-**Rollup Engineers**.
+- **Rollup Engineers**.
 
-**Research Engineers**.
+- **Research Engineers**.
 
 ## Best Practices
 
@@ -93,4 +93,4 @@ Trends:
 
 ## Cheap Data Availability for Rollups
 
-Proto-danksharding is a major Ethereum scaling milestone enabling cheaper rollup data. Understanding it is crucial for layer 2 economics. If you’re interested in scaling, explore [scaling careers](/) at rollup teams.
+Proto-danksharding is a major Ethereum scaling milestone enabling cheaper rollup data. Understanding it is important for layer 2 economics. If you’re interested in scaling, explore [scaling careers](/) at rollup teams.

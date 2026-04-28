@@ -47,7 +47,7 @@ These projects assess your ability to integrate front-end applications with smar
 
 1.  **Create a "[Wallet](/how-to-choose-a-crypto-wallet) Dashboard" Frontend:**
     *   **Task Overview:** Build a simple React/Next.js application that allows users to connect their wallets. The application should display the user's ETH balance and balances of major ERC-20 tokens.
-    *   **Assessment Focus:** This project tests your skills with frontend frameworks and your ability to utilize libraries like Ethers.js or Viem for blockchain data retrieval.
+    *   **Assessment Focus:** This project tests your skills with frontend frameworks and your ability to use libraries like Ethers.js or Viem for blockchain data retrieval.
     *   **Advanced Features:** Implement a transaction history viewer or a simple ETH transfer interface. Ensure the UI is clean, responsive, and effectively handles various wallet connection states (loading, errors, network issues).
 
 2.  **Develop an Interface for an Existing Protocol:**
@@ -120,7 +120,7 @@ The Web3 community is highly accessible:
 - Attend local Web3 meetups
 
 ### Step 5: Apply Strategically
-Target positions that utilize your existing expertise alongside your new Web3 knowledge:
+Target positions that use your existing expertise alongside your new Web3 knowledge:
 - Backend engineers should seek blockchain infrastructure roles
 - Product managers should look for protocol product positions
 - Sales or business professionals should explore Web3 business development opportunities
@@ -131,7 +131,7 @@ Target positions that utilize your existing expertise alongside your new Web3 kn
 Alex, a backend engineer with five years at a major tech company, dedicated three months to learning Solidity while continuing his primary job. He contributed to an open-source protocol, attracting the interest of a leading DeFi project, resulting in a career transition with a substantial salary increase and equity.
 
 ### Product Manager Transition
-Jessica, a product manager from traditional finance, utilized her experience in DeFi. Her knowledge of financial products combined with Web3 technology made her a sought-after candidate. Within a short period, she secured a role at a prominent DeFi protocol.
+Jessica, a product manager from traditional finance, used her experience in DeFi. Her knowledge of financial products combined with Web3 technology made her a sought-after candidate. Within a short period, she secured a role at a prominent DeFi protocol.
 
 ### Successful Career Change
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and building a portfolio, he landed a position leading Developer Relations at a prominent blockchain platform, with compensation exceeding his previous role.

@@ -122,15 +122,15 @@ Hard forks require everyone to upgrade, necessitating more coordination.
 
 Protocol upgrades create roles:
 
-**Protocol Engineers** designing upgrades earn competitive salaries.
+- **Protocol Engineers** designing upgrades earn competitive salaries.
 
-**Consensus Researchers** analyzing fork mechanics earn competitive salaries.
+- **Consensus Researchers** analyzing fork mechanics earn competitive salaries.
 
-**Testing Engineers** validating upgrade safety earn competitive salaries.
+- **Testing Engineers** validating upgrade safety earn competitive salaries.
 
-**Communication Specialists** coordinating upgrades earn competitive salaries.
+- **Communication Specialists** coordinating upgrades earn competitive salaries.
 
-**Validator Operators** implementing upgrades earn competitive salaries.
+- **Validator Operators** implementing upgrades earn competitive salaries.
 
 ## Best Practices
 

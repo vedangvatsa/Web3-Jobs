@@ -127,13 +127,13 @@ Covenants enable creative Bitcoin protocols.
 
 Bitcoin development creates roles:
 
-**Bitcoin Core Developers** working on protocol.
+- **Bitcoin Core Developers** working on protocol.
 
-**Protocol Researchers** studying covenants.
+- **Protocol Researchers** studying covenants.
 
-**Application Developers** building covenant applications.
+- **Application Developers** building covenant applications.
 
-**Security Researchers** analyzing covenant safety.
+- **Security Researchers** analyzing covenant safety.
 
 ## Best Practices
 

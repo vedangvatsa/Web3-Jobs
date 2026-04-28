@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-Automated Market Makers (AMMs) serve as foundational elements in Decentralized Finance ([DeFi](/what-is-defi)). They enable users to trade assets without intermediaries, utilizing pools of [tokens](/what-is-a-token) instead of traditional order books. This design allows for easy, permissionless trading.
+Automated Market Makers (AMMs) serve as foundational elements in Decentralized Finance ([DeFi](/what-is-defi)). They enable users to trade assets without intermediaries, using pools of [tokens](/what-is-a-token) instead of traditional order books. This design allows for easy, permissionless trading.
 
 For many developers, creating an AMM represents a significant milestone. This complex project requires proficiency in [Solidity](/best-programming-languages-for-blockchain-development), the Ethereum Virtual Machine (EVM), and essential DeFi principles. Here, I will outline the fundamental steps and code structure necessary to build a basic AMM on a Layer 2 (L2) network.
 
@@ -142,7 +142,7 @@ function swap(address _tokenIn, uint256 _amountIn) public returns (uint256 amoun
 
 ### Step 4: Testing and Deployment Process
 
-- **Testing**: Developing a detailed test suite for an AMM is essential. This ensures all functions work properly under various scenarios, including edge cases like empty pools or large trades. Utilize platforms like Foundry or Hardhat for testing.
+- **Testing**: Developing a detailed test suite for an AMM is essential. This ensures all functions work properly under various scenarios, including edge cases like empty pools or large trades. Use platforms like Foundry or Hardhat for testing.
   
 - **Deployment**:
   1. Acquire testnet ETH for Layer 2 solutions like Arbitrum Sepolia or Base Sepolia from a public faucet.
@@ -172,11 +172,11 @@ Develop a plan that aligns with your specific situation. Consider your role, the
 
 ### 4. Implement Changes Gradually
 
-Focus on incremental changes rather than attempting to transform everything simultaneously. Track the effectiveness of these modifications. An iterative approach fosters sustainable improvements.
+Focus on incremental changes rather than attempting to transform everything simultaneously. Track the effectiveness of these modifications. An iterative approach builds sustainable improvements.
 
 ### 5. Measure Progress and Adapt
 
-Regularly assess your results. Are you achieving your goals? Be prepared to adjust your strategy based on feedback and outcomes. A continuous improvement mindset is crucial.
+Regularly assess your results. Are you achieving your goals? Be prepared to adjust your strategy based on feedback and outcomes. A continuous improvement mindset is important.
 
 ## Real-World Case Studies
 
@@ -188,7 +188,7 @@ Regularly assess your results. Are you achieving your goals? Be prepared to adju
 
 ### Common Mistakes to Avoid
 
-1. **Rushing the Development Process**: Sustainable change requires time. Patience is crucial.
+1. **Rushing the Development Process**: Sustainable change requires time. Patience is important.
   
 2. **Neglecting Feedback**: Input from colleagues and mentors can provide valuable insights you might overlook. Always listen to feedback.
 

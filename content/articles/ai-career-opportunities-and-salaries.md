@@ -19,7 +19,7 @@ Professionals ranging from software engineers to business strategists, writers, 
 
 Machine Learning (ML) Engineers are among the most sought-after technical professionals in AI. They design, build, and deploy machine learning models for production applications.
 
-- **Responsibilities**: ML Engineers serve as a crucial link between data science and software engineering. They implement models developed by data scientists into scalable applications. Tasks include writing production-level code, constructing data pipelines, and ensuring model reliability.
+- **Responsibilities**: ML Engineers serve as a important link between data science and software engineering. They implement models developed by data scientists into scalable applications. Tasks include writing production-level code, constructing data pipelines, and ensuring model reliability.
 - **Key Skills**: Proficient programming skills, particularly in Python; experience with ML libraries such as TensorFlow or PyTorch; a solid grasp of software engineering principles; and familiarity with cloud platforms like AWS or Google Cloud.
 - **Salary Range**: Generally ranges from six figures to significantly higher amounts per year.
 
@@ -59,7 +59,7 @@ Prompt Engineers have emerged as a vital role due to the rise of Large Language 
 
 With many businesses eager to implement AI but unsure of how to proceed, AI Consultants provide essential guidance. They help organizations identify opportunities and develop strategies for AI integration.
 
-- **Responsibilities**: AI Consultants collaborate with clients to understand their business challenges and recommend appropriate AI solutions. This could range from automating processes to developing innovative AI-driven customer experiences.
+- **Responsibilities**: AI Consultants collaborate with clients to understand their business challenges and recommend appropriate AI solutions. This could range from automating processes to developing new AI-driven customer experiences.
 - **Key Skills**: Strong business acumen, exceptional communication and presentation skills, and a broad understanding of current AI tools and trends. They must be able to translate technical concepts into business strategies.
 - **Salary Range**: Salaries can vary widely based on experience and firm size, with seasoned consultants potentially earning significantly higher amounts annually.
 
@@ -67,14 +67,14 @@ With many businesses eager to implement AI but unsure of how to proceed, AI Cons
 
 A Ph.D. in computer science is not necessary to embark on a career in AI. There are accessible pathways available for aspiring professionals.
 
-1. **Acquire Foundational Knowledge**: Enroll in online courses such as "Elements of AI" or "AI For Everyone" to grasp core concepts without delving into technical complexities.
+1. **Acquire Foundational Knowledge**: Enroll in online courses such as "Elements of AI" or "AI For Everyone" to grasp core concepts without looking into technical complexities.
 2. **Select a Career Path**: Determine your interest in technical roles (like ML Engineering) versus application roles (such as Product Management or Marketing).
 3. **Develop Key Skills**:
    - **For Technical Roles**: Master Python, the primary language in AI. Consider structured programs like the Machine Learning Specialization on Coursera.
    - **For Non-Technical Roles**: Cultivate "AI Literacy." Understand how AI tools function, their limitations, and effective usage. Become proficient in tools like ChatGPT and Midjourney.
 4. **Build a Portfolio**: Demonstrate your skills through practical projects.
    - **Technical**: Create a machine learning project, such as a model predicting housing prices, and showcase it on GitHub.
-   - **Non-Technical**: Generate a piece of AI art, write an insightful blog post utilizing AI, or develop a simple AI-powered workflow in Zapier; document your processes and outcomes.
+   - **Non-Technical**: Generate a piece of AI art, write an insightful blog post using AI, or develop a simple AI-powered workflow in Zapier; document your processes and outcomes.
 
 ### Salary Comparison Table
 

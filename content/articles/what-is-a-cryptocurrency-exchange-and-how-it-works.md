@@ -44,7 +44,7 @@ Centralized exchanges operate as traditional companies that manage a private, of
 
 Decentralized exchanges function as protocols built on [smart contracts](/what-are-smart-contracts) that operate directly on a blockchain.
 
-- **Operational Mechanism:** DEXs utilize an "Automated Market Maker" (AMM) system. Users trade directly from their non-custodial wallets (like MetaMask) by engaging with token pools managed by smart contracts, ensuring they retain custody of their assets.
+- **Operational Mechanism:** DEXs use an "Automated Market Maker" (AMM) system. Users trade directly from their non-custodial wallets (like MetaMask) by engaging with token pools managed by smart contracts, ensuring they retain custody of their assets.
 - **Advantages:**
   - **Self-Custody and Security:** Users maintain control of their private keys, eliminating the risk of centralized exchange hacks.
   - **Permissionless Trading:** Anyone can trade tokens without requiring permission.
@@ -63,7 +63,7 @@ Cryptocurrency exchanges form a fundamental component of the Web3 infrastructure
 
 ### The Web3 Opportunity
 
-The Web3 sector is expanding rapidly, with demand for skilled professionals outpacing supply. Unlike traditional technology sectors, Web3 presents distinct advantages, which include higher compensation, equity opportunities, fully remote roles, and the chance to contribute to innovative technology solutions.
+The Web3 sector is expanding rapidly, with demand for skilled professionals outpacing supply. Unlike traditional technology sectors, Web3 presents distinct advantages, which include higher compensation, equity opportunities, fully remote roles, and the chance to contribute to new technology solutions.
 
 ### Market Dynamics
 
@@ -109,7 +109,7 @@ Tailor your learning to your desired role:
 
 - **Engineers:** Focus on mastering languages such as Solidity and JavaScript/TypeScript, along with Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Study token economics, protocol governance, and strategies for user growth in Web3.
-- **Business Development:** Learn about market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Learn about market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance practices.
 
 #### Step 3: Build Your Portfolio
@@ -148,7 +148,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 #### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, utilized her expertise in DeFi to secure a role at a prominent DeFi protocol within a short time. Her financial product knowledge combined with an understanding of Web3 technology made her a valuable asset.
+Jessica, a product manager from traditional finance, used her expertise in DeFi to secure a role at a prominent DeFi protocol within a short time. Her financial product knowledge combined with an understanding of Web3 technology made her a valuable asset.
 
 #### Career Changer Success
 

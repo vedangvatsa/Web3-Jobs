@@ -118,7 +118,7 @@ Recognizing the value of these tools is essential for professional growth. Profe
 
 **Example 2**: Juan, a product manager in [DeFi](/what-is-defi), struggled with task management across multiple platforms. By using AI tools, he streamlined his workflow, resulting in improved project delivery timelines and team collaboration.
 
-**Example 3**: Maya transitioned from Web2 to Web3 and utilized AI tools to adapt quickly to her new role. Her experience illustrates that anyone can benefit from these strategies, regardless of their prior experience.
+**Example 3**: Maya transitioned from Web2 to Web3 and used AI tools to adapt quickly to her new role. Her experience illustrates that anyone can benefit from these strategies, regardless of their prior experience.
 
 ### Common Pitfalls to Avoid
 

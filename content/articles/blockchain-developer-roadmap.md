@@ -31,7 +31,7 @@ Understanding the environment in which you will build applications is critical. 
 
 | Topic                  | Explanation                                                                                              |
 |------------------------|----------------------------------------------------------------------------------------------------------|
-| **Public/Private Keys**| Learn how keys are generated and utilized to create a "[wallet](/how-to-choose-a-crypto-wallet).” The private key is your ownership proof.              |
+| **Public/Private Keys**| Learn how keys are generated and used to create a "[wallet](/how-to-choose-a-crypto-wallet).” The private key is your ownership proof.              |
 | **Digital Signatures**  | Understand how a private key signs transactions, confirming ownership without disclosing the key.       |
 
 **1.3. [Ethereum](/what-is-ethereum) & the EVM:**
@@ -47,7 +47,7 @@ Understanding the environment in which you will build applications is critical. 
 Choosing the right programming language depends on your specific dApp goals, but the journey typically begins with [Solidity](/best-programming-languages-for-blockchain-development) and JavaScript.
 
 - **Solidity:** This language is the primary choice for writing [smart contracts](/what-are-smart-contracts) on Ethereum and other EVM-compatible blockchains. Developers with a background in C++ or JavaScript will find its syntax familiar. Prioritize learning Solidity.
-- **JavaScript/TypeScript:** These languages are crucial for developing the front end of your dApps. Utilize libraries like Ethers.js or Viem to connect your smart contracts to the web interface.
+- **JavaScript/TypeScript:** These languages are important for developing the front end of your dApps. Use libraries like Ethers.js or Viem to connect your smart contracts to the web interface.
 - **Rust (Advanced):** If your interests lie in building core blockchain infrastructure, such as Layer 1s or Layer 2s, Rust is your go-to language. Although it has a steep learning curve, it opens doors to elite opportunities.
 
 Explore our [breakdown of the top 5 Web3 languages](/top-5-web3-languages) for further guidance.
@@ -60,7 +60,7 @@ A specific toolkit is essential for efficiently writing, testing, and deploying 
     - **Foundry (Recommended):** This modern toolkit enables you to write tests directly in Solidity. It is rapidly becoming the industry standard among serious developers. Discover more in our [introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit).
     - **Hardhat (Good to Know):** This popular JavaScript-based environment offers flexibility and is still widely used in existing projects, making familiarity beneficial.
 - **Wallet:** **MetaMask** is the standard browser-based wallet for development and testing. Familiarize yourself with its use on test networks like Sepolia.
-- **Smart Contract Libraries:** **OpenZeppelin Contracts** provides secure, reusable smart contract components. Avoid writing standard ERC-20 or ERC-721 [tokens](/what-is-a-token) from scratch; always utilize an audited library.
+- **Smart Contract Libraries:** **OpenZeppelin Contracts** provides secure, reusable smart contract components. Avoid writing standard ERC-20 or ERC-721 [tokens](/what-is-a-token) from scratch; always use an audited library.
 - **Indexing Protocol:** **The Graph** serves as the standard method for efficiently querying blockchain data. Use it to create APIs for your dApp's frontend.
 
 ### Step 4: A Project-Based Learning Roadmap
@@ -175,7 +175,7 @@ Marcus left his corporate position to focus on Web3 for six months. Through cons
 ### FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**  
-A: No. The Web3 ecosystem requires more than just engineers. Marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are all in demand. You can leverage your existing skills by adding Web3 context, such as understanding wallets, DAOs, and the importance of decentralization.
+A: No. The Web3 ecosystem requires more than just engineers. Marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are all in demand. You can use your existing skills by adding Web3 context, such as understanding wallets, DAOs, and the importance of decentralization.
 
 **Q: How much can I earn in Web3?**  
 A: Web3 compensation consistently exceeds that of Web2 roles. Base salaries are generally higher, with Solidity engineers and smart contract auditors commanding the largest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn substantial total compensation.

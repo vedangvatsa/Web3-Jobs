@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-In a [blockchain](/what-is-a-blockchain), transactions group into "blocks," which the network adds to the chain in a specific order. The **block time** represents the average time required for the network to create a new block. This metric is crucial to a blockchain’s architecture, affecting its speed, transaction capacity, and overall user experience.
+In a [blockchain](/what-is-a-blockchain), transactions group into "blocks," which the network adds to the chain in a specific order. The **block time** represents the average time required for the network to create a new block. This metric is important to a blockchain’s architecture, affecting its speed, transaction capacity, and overall user experience.
 
 Blockchains adopt various block times, reflecting a balance between speed and decentralization.
 
@@ -31,7 +31,7 @@ The consensus mechanism and difficulty adjustment algorithm primarily determine 
 |------------|-----------------------------|-------------------------------------------|
 | Bitcoin    | Approximately 10 minutes    | Maximizes security and decentralization, allowing new blocks time to propagate across the network. |
 | Ethereum   | Approximately 12 seconds    | Provides a faster user experience and higher transaction throughput since transitioning to Proof-of-Stake. |
-| Solana     | Approximately 400 milliseconds (0.4 seconds) | Optimized for speed and high throughput, utilizing a unique Proof-of-History mechanism for rapid block production, suitable for applications like high-frequency trading. |
+| Solana     | Approximately 400 milliseconds (0.4 seconds) | Optimized for speed and high throughput, using a unique Proof-of-History mechanism for rapid block production, suitable for applications like high-frequency trading. |
 
 The block time for Bitcoin emphasizes security and decentralization. Longer block intervals allow for better propagation across the network and reduce the risk of "chain reorganizations" or "re-orgs." In contrast, Ethereum's shorter block time enhances user experience and transaction volume. Solana's approach is tailored for speed, addressing demands for fast-paced applications.
 
