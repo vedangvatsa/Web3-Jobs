@@ -148,17 +148,17 @@ For accurate valuation, examine all three metrics plus volume. Low volume with h
 
 NFT market analysis and trading create professional opportunities:
 
-**NFT Analysts** track floor prices, volume, and trends across collections, providing market intelligence to investors and protocols.
+- **NFT Analysts** track floor prices, volume, and trends across collections, providing market intelligence to investors and protocols.
 
-**Traders/Market Makers** specialize in NFT arbitrage and floor trading, often running private portfolios or funds.
+- **Traders/Market Makers** specialize in NFT arbitrage and floor trading, often running private portfolios or funds.
 
-**Data Scientists** at analytics platforms build tools tracking floors, rarity, and market dynamics.
+- **Data Scientists** at analytics platforms build tools tracking floors, rarity, and market dynamics.
 
-**Community Managers** for NFT projects monitor floor price sentiment and manage holder expectations during volatility.
+- **Community Managers** for NFT projects monitor floor price sentiment and manage holder expectations during volatility.
 
-**Smart Contract Developers** building NFT lending, floor price oracles, or fractionalization protocols earn competitive salaries.
+- **Smart Contract Developers** building NFT lending, floor price oracles, or fractionalization protocols earn competitive salaries.
 
-**Investment Analysts** at funds evaluating NFT investments based on floor trends and fundamentals typically earn competitive salaries.
+- **Investment Analysts** at funds evaluating NFT investments based on floor trends and fundamentals typically earn competitive salaries.
 
 ## Floor Price in NFT Finance
 

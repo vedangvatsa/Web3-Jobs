@@ -96,7 +96,7 @@ Allocate 4-8 weeks to learn the fundamentals of blockchain technology. Focus on:
 Tailor your learning to your desired role:
 - **Engineers:** Gain proficiency in [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
 - **Product Managers:** Develop an understanding of token economics, protocol governance, and strategies for user growth in Web3.
-- **Business Development:** Learn about market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Learn about market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Focus on community building, Discord management, and governance.
 
 #### Step 3: Build a Portfolio
@@ -127,7 +127,7 @@ Target roles that allow you to use your existing skills alongside new Web3 knowl
 Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while working. His contributions to an open-source protocol attracted the attention of a prominent DeFi project, leading to a transition that included a salary increase and significant equity.
 
 **Product Manager Transition**
-Jessica, previously a PM in traditional finance, utilized her domain knowledge in DeFi. Her expertise in financial products and understanding of Web3 technology made her highly sought after. She secured a role at a leading DeFi protocol within four weeks.
+Jessica, previously a PM in traditional finance, used her domain knowledge in DeFi. Her expertise in financial products and understanding of Web3 technology made her highly sought after. She secured a role at a leading DeFi protocol within four weeks.
 
 **Career Change Success**
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning and networking, he successfully landed a position leading Developer Relations at a major blockchain platform, significantly surpassing his previous compensation.
@@ -161,4 +161,4 @@ A: Historically, bear markets present excellent opportunities to enter Web3. As 
 
 ### Key Takeaways
 
-Web3 presents significant career opportunities with compensation premiums, faster growth trajectories, and the chance to contribute to transformative technology across industries. Most professionals can achieve a meaningful transition within 2-6 months of focused effort, leveraging existing domain expertise by incorporating blockchain-specific knowledge. Networking through community engagement and showcasing visible portfolio projects consistently leads to successful job placements. To minimize volatility risk, target well-funded protocols with proven revenue and negotiate salaries in fiat currency. The Web3 community remains open and supportive, providing resources and mentorship opportunities for aspiring professionals.
+Web3 presents significant career opportunities with compensation premiums, faster growth trajectories, and the chance to contribute to transformative technology across industries. Most professionals can achieve a meaningful transition within 2-6 months of focused effort, using existing domain expertise by incorporating blockchain-specific knowledge. Networking through community engagement and showcasing visible portfolio projects consistently leads to successful job placements. To minimize volatility risk, target well-funded protocols with proven revenue and negotiate salaries in fiat currency. The Web3 community remains open and supportive, providing resources and mentorship opportunities for aspiring professionals.

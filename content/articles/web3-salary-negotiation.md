@@ -30,7 +30,7 @@ Your compensation package will likely consist of three primary elements: base sa
 
 #### 3. Tokens
 - **Definition:** Tokens represent a grant of the project's native cryptocurrency, offering ownership in the decentralized protocol.
-- **Considerations:** Evaluating tokens can be complex but crucial.
+- **Considerations:** Evaluating tokens can be complex but important.
   - **Vesting Schedule:** Similar to equity, tokens generally come with a vesting schedule. Ensure you fully understand these terms.
   - **Tokenomics:** Conduct thorough research on the token's economic model. Assess total supply, inflation rate, and the token's utility, which influences long-term demand. Refer to our [Guide to Tokenomics](/understanding-tokenomics) for deeper insights.
   - **Liquidity:** Determine how and where you can sell your tokens post-vesting. Are they traded on major exchanges?
@@ -38,7 +38,7 @@ Your compensation package will likely consist of three primary elements: base sa
 
 ### Strategies for Negotiation
 
-1. **Conduct Thorough Research:** Before reaching the offer stage, investigate typical salary ranges for your role and experience level. Utilize resources like our [Web3 Developer Salary Guide](/web3-developer-salaries-2025) and connect with industry professionals to grasp market rates.
+1. **Conduct Thorough Research:** Before reaching the offer stage, investigate typical salary ranges for your role and experience level. Use resources like our [Web3 Developer Salary Guide](/web3-developer-salaries-2025) and connect with industry professionals to grasp market rates.
 
 2. **Assess Your Risk Tolerance:** Determine how much of your compensation you are comfortable with being in volatile assets.
    - **Lower Risk:** Aim for a higher base salary with a smaller token package.
@@ -109,7 +109,7 @@ The Web3 community is open and welcoming:
 - Attend local meetups focused on Web3.
 
 #### Step 5: Apply Strategically
-Target positions that leverage your existing expertise along with your new Web3 knowledge:
+Target positions that use your existing expertise along with your new Web3 knowledge:
 - Backend engineers should look for blockchain infrastructure roles.
 - Product managers can pursue protocol product roles.
 - Professionals in sales/business should seek Web3 business development opportunities.

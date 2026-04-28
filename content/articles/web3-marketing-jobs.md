@@ -52,7 +52,7 @@ Your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary to your 
 
 ### Essential Skills for Web3 Marketers
 
-- **Exceptional Writing:** Clear and compelling writing is crucial, as written communication dominates this space.
+- **Exceptional Writing:** Clear and compelling writing is important, as written communication dominates this space.
 
 - **Cultural Fluency:** Understanding the language, memes, and etiquette of Crypto Twitter is essential.
 
@@ -106,7 +106,7 @@ Tailor your skill acquisition based on your target role:
 
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and relevant Web3 libraries (e.g., ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Focus on market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Focus on market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Develop community-building skills, Discord management expertise, and governance knowledge.
 
 ### Step 3: Build Your Portfolio

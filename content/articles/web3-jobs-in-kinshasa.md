@@ -3,7 +3,7 @@
 title: "Web3 Jobs in Kinshasa: A Guide to the DRC's Emerging Tech Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "kinshasa drc city"
-description: "A career guide to the emerging Web3 job market in Kinshasa. Explore how the capital of the Democratic Republic of Congo is leveraging its vast resources."
+description: "A career guide to the emerging Web3 job market in Kinshasa. Explore how the capital of the Democratic Republic of Congo is using its vast resources."
 category: "Career Guides"
 publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
@@ -20,8 +20,8 @@ Kinshasa's developing Web3 sector is influenced by the DRC's distinct economic a
 | **Sector**                       | **Opportunities**                                                                                                        |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | **Natural Resource Traceability**| The DRC leads the world in cobalt production, essential for batteries in smartphones and electric vehicles. As global demand for ethical sourcing increases, blockchain can provide transparent records tracking minerals from extraction to consumer. This represents a major opportunity for enterprise blockchain solutions. |
-| **Creative Arts and NFTs**       | Kinshasa boasts a vibrant music and arts culture. Artists can utilize NFTs to monetize their work, directly reaching global audiences without traditional intermediaries. This shift opens up new revenue streams for local creators. |
-| **Financial Inclusion**          | With a substantial unbanked population and an unstable local currency, accessible financial tools are crucial. Mobile-first DeFi applications and stablecoins could significantly enhance financial accessibility for Kinshasa's residents. |
+| **Creative Arts and NFTs**       | Kinshasa boasts a vibrant music and arts culture. Artists can use NFTs to monetize their work, directly reaching global audiences without traditional intermediaries. This shift opens up new revenue streams for local creators. |
+| **Financial Inclusion**          | With a substantial unbanked population and an unstable local currency, accessible financial tools are important. Mobile-first DeFi applications and stablecoins could significantly enhance financial accessibility for Kinshasa's residents. |
 | **Youth Population**             | Kinshasa's large youth demographic represents a future talent pool eager to adopt and innovate with new digital technologies. This creates a fertile ground for growth in the tech sector. |
 
 ### In-Demand Roles and Salary Expectations
@@ -111,11 +111,11 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 **Political and Economic Instability**: The DRC faces periodic unrest and currency fluctuations. Adopting remote work and receiving payment in stablecoins can mitigate risks. Maintaining an emergency fund in stable assets is advisable.
 
-**Infrastructure Limitations**: Internet connectivity can be unreliable. Working from tech hubs with better infrastructure or utilizing mobile hotspots can alleviate some challenges.
+**Infrastructure Limitations**: Internet connectivity can be unreliable. Working from tech hubs with better infrastructure or using mobile hotspots can alleviate some challenges.
 
 **Cobalt Supply Chain Complexity**: Accessibility to mining operations and political sensitivities complicate supply chain projects. Collaborating with NGOs and international buyers can provide essential support.
 
-**Limited Local Opportunities**: The number of local Web3 companies is minimal. Building a remote-first career and fostering local entrepreneurial initiatives can create more opportunities.
+**Limited Local Opportunities**: The number of local Web3 companies is minimal. Building a remote-first career and building local entrepreneurial initiatives can create more opportunities.
 
 ### 90-Day Quick Start Plan
 

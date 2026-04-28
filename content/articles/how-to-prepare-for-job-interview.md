@@ -3,7 +3,7 @@
 title: "How to Prepare for Job Interview"
 image: "https://picsum.photos/seed/job-interview/1200/630"
 data-ai-hint: "interview handshake two people"
-description: "A comprehensive guide on how to prepare for a job interview. Learn the key steps to take before, during, and after the interview to maximize your chances."
+description: "A full guide on how to prepare for a job interview. Learn the key steps to take before, during, and after the interview to maximize your chances."
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
@@ -49,7 +49,7 @@ While you cannot anticipate every question, preparing for common inquiries can b
 - "Why do you want to work for this company?"
 - "Describe a time when you faced a challenge and how you handled it."
 
-Utilize the STAR method (Situation, Task, Action, Result) to structure your responses to behavioral questions effectively.
+Use the STAR method (Situation, Task, Action, Result) to structure your responses to behavioral questions effectively.
 
 **4. Prepare Your Own Questions**
 
@@ -119,7 +119,7 @@ Begin by comprehending the basic principles of interview preparation. Familiariz
 
 #### Step 2: Assess Your Current Situation
 
-Evaluate your current standing. Identify your strengths and weaknesses in relation to job interviews. Understanding your baseline is crucial for improvement.
+Evaluate your current standing. Identify your strengths and weaknesses in relation to job interviews. Understanding your baseline is important for improvement.
 
 #### Step 3: Develop Your Personal Strategy
 

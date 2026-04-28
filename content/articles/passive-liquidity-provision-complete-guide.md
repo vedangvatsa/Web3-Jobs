@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ## Passive Liquidity Provision in DeFi
 
-Passive liquidity provision serves as a "set-and-forget" strategy within Decentralized Finance ([DeFi](/what-is-defi)). Users deposit their assets into Automated Market Maker (AMM) liquidity pools to earn trading fees without actively managing their positions. This method became popular with the advent of protocols like Uniswap v2, allowing users to efficiently utilize idle assets.
+Passive liquidity provision serves as a "set-and-forget" strategy within Decentralized Finance ([DeFi](/what-is-defi)). Users deposit their assets into Automated Market Maker (AMM) liquidity pools to earn trading fees without actively managing their positions. This method became popular with the advent of protocols like Uniswap v2, allowing users to efficiently use idle assets.
 
 As DeFi has evolved, the distinction between passive and active liquidity provision has blurred, particularly with the introduction of more sophisticated protocols like Uniswap v3. Today, true passive provision often requires using additional layers of protocols designed to manage the inherent complexities of modern AMMs for the user.
 
@@ -101,7 +101,7 @@ Understanding passive liquidity provision is vital for professionals in the DeFi
 
 ### Step 1: Understand the Fundamentals
 
-Begin with a solid grasp of the core principles of passive liquidity provision. Familiarize yourself with current best practices shared by industry experts. This foundational knowledge is crucial for informed decision-making.
+Begin with a solid grasp of the core principles of passive liquidity provision. Familiarize yourself with current best practices shared by industry experts. This foundational knowledge is important for informed decision-making.
 
 ### Step 2: Assess Your Current Situation
 
@@ -140,6 +140,6 @@ Maya, transitioning from Web2 to Web3, adopted the method discussed. Her swift a
 
 ## Conclusion
 
-Passive liquidity provision represents a valuable strategy within DeFi, allowing users to earn fees with minimal management. While risks like impermanent loss remain, understanding the dynamics of various liquidity pools can lead to informed decisions and improved financial outcomes. As DeFi continues to evolve, using automated solutions can enhance the passive experience, enabling users to optimize their asset utilization effectively. 
+Passive liquidity provision represents a valuable strategy within DeFi, allowing users to earn fees with minimal management. While risks like impermanent loss remain, understanding the dynamics of various liquidity pools can lead to informed decisions and improved financial outcomes. As DeFi continues to evolve, using automated solutions can enhance the passive experience, enabling users to optimize their asset use effectively. 
 
 Understanding these concepts not only equips you with the knowledge to manage passive liquidity provision but also positions you competitively in the fast-paced world of Web3 and decentralized finance.

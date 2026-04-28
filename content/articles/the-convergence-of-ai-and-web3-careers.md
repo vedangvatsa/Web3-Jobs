@@ -50,7 +50,7 @@ AI integration into Web3 products results in the creation of several hybrid role
 
 | Role                                         | Description                                                                                         | Key Skills                                         |
 |----------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------|
-| **AI-focused dApp Developer**                | Developers create dApps that utilize AI for intuitive user interfaces, such as natural language processing. | Frontend development (React), Web3 libraries (Ethers.js/Viem), LLM APIs (OpenAI, Gemini) |
+| **AI-focused dApp Developer**                | Developers create dApps that use AI for intuitive user interfaces, such as natural language processing. | Frontend development (React), Web3 libraries (Ethers.js/Viem), LLM APIs (OpenAI, Gemini) |
 | **On-Chain Data Scientist (AI/ML)**         | This role involves applying machine learning models to analyze on-chain data for tasks like fraud detection. | SQL, Python, machine learning frameworks (TensorFlow/PyTorch), blockchain data structures |
 | **Smart Contract Auditor (AI-assisted)**     | Auditors use AI tools to detect vulnerabilities, allowing them to concentrate on complex economic logic. | Smart contract auditing, [Solidity](/best-programming-languages-for-blockchain-development), AI code analysis tools |
 
@@ -97,7 +97,7 @@ Tailor your learning to your desired role:
 
 - **Engineers**: Focus on Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers**: Study token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development**: Gain insights into market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development**: Gain insights into market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations**: Learn community-building techniques, Discord management, and governance practices.
 
 ### Step 3: Build Your Portfolio
@@ -122,7 +122,7 @@ The Web3 community is highly accessible. To establish connections:
 
 ### Step 5: Apply Strategically
 
-Target roles that utilize your existing expertise combined with your new Web3 knowledge:
+Target roles that use your existing expertise combined with your new Web3 knowledge:
 
 - Backend engineers should seek blockchain infrastructure positions
 - Product managers can find protocol product roles

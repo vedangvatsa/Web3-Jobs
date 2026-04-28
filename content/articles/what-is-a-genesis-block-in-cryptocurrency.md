@@ -50,7 +50,7 @@ The [Web3](/what-is-web3) sector is witnessing rapid growth, with demand for qua
 - **Compensation:** Base salaries in Web3 roles typically exceed those in Web2 by a notable margin.
 - **Equity and Tokens:** Many positions include meaningful equity and token allocations.
 - **Remote Work:** Many Web3 companies operate fully remotely, allowing for global team collaboration.
-- **Innovative Technology:** Professionals contribute to technologies that reshape finance, governance, and digital ownership.
+- **New Technology:** Professionals contribute to technologies that reshape finance, governance, and digital ownership.
 
 In particular, there is a severe talent shortage in smart contract development, protocol security, and tokenomics design. Qualified candidates often receive multiple offers shortly after entering the job market. For those considering a career shift, the combination of elevated compensation and growth potential makes Web3 compelling.
 
@@ -79,7 +79,7 @@ Dedicate 4-8 weeks to learning blockchain fundamentals. Focus on:
 Identify skills relevant to your target role:
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop expertise in community building, Discord management, and governance processes.
 
 ### Step 3: Create a Portfolio
@@ -109,7 +109,7 @@ Target roles that align with your existing expertise and new Web3 skills:
 Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a prominent DeFi project, resulting in a transition that offered a substantial salary increase and significant equity.
 
 ### Product Manager Embracing Web3
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi to secure a position at a leading protocol. Her understanding of financial products combined with Web3 technology made her a valuable asset, allowing her to land a role within a short timeframe.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi to secure a position at a leading protocol. Her understanding of financial products combined with Web3 technology made her a valuable asset, allowing her to land a role within a short timeframe.
 
 ### Career Changer's Journey
 Marcus transitioned from a corporate job to focus on Web3 for six months. By consistently learning, networking, and building his [portfolio](/building-web3-portfolio), he secured a position leading Developer Relations at a major blockchain platform, with compensation exceeding his previous role.
@@ -147,4 +147,4 @@ A: Historically, bear markets are ideal times to enter the Web3 space. As specul
 
 ## Conclusion
 
-The Web3 sector offers an array of opportunities for professionals seeking to transition careers. With compensation significantly higher than Web2, rapid career progression, and the chance to influence transformative technology, many find this space appealing. Completing a transition generally takes several months, allowing professionals to layer their existing expertise with blockchain-specific knowledge. Building a portfolio, networking within the community, and applying strategically are crucial steps in this journey. Entering well-funded protocols can mitigate the risks associated with market volatility. The Web3 community is supportive, providing ample resources for those willing to learn and adapt. Accepting this new frontier can lead to fulfilling and lucrative career opportunities.
+The Web3 sector offers an array of opportunities for professionals seeking to transition careers. With compensation significantly higher than Web2, rapid career progression, and the chance to influence transformative technology, many find this space appealing. Completing a transition generally takes several months, allowing professionals to layer their existing expertise with blockchain-specific knowledge. Building a portfolio, networking within the community, and applying strategically are important steps in this journey. Entering well-funded protocols can mitigate the risks associated with market volatility. The Web3 community is supportive, providing ample resources for those willing to learn and adapt. Accepting this new frontier can lead to fulfilling and lucrative career opportunities.

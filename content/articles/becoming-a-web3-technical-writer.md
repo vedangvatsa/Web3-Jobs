@@ -23,7 +23,7 @@ Technical writing serves several critical functions in the Web3 ecosystem:
 
 - **Minimizing Support Queries:** Well-crafted documentation anticipates common questions, reducing the workload for community and support teams. This allows community managers to focus on more strategic engagement rather than repetitive support tasks.
 
-- **Enhancing Internal Knowledge Sharing:** In remote, distributed teams, internal documentation fosters efficient collaboration. Technical writers create a centralized knowledge repository for a project's architecture, processes, and decisions.
+- **Enhancing Internal Knowledge Sharing:** In remote, distributed teams, internal documentation builds efficient collaboration. Technical writers create a centralized knowledge repository for a project's architecture, processes, and decisions.
 
 ### Responsibilities of a Web3 Technical Writer
 
@@ -35,7 +35,7 @@ The role encompasses a variety of tasks beyond simple code documentation:
 
 - **Long-Form Content Creation:** Writing blog posts and articles that elaborate on the project’s core concepts, technology, and value proposition, such as an analysis of the protocol's [tokenomics](/understanding-tokenomics).
 
-- **API Reference Guides:** Maintaining a thorough reference for all available endpoints and functions that developers can utilize.
+- **API Reference Guides:** Maintaining a thorough reference for all available endpoints and functions that developers can use.
 
 - **Editing Foundational Documents:** Assisting the founding team with editing and refining whitepapers and litepapers to ensure clarity and precision.
 
@@ -43,7 +43,7 @@ The role encompasses a variety of tasks beyond simple code documentation:
 
 A successful Web3 technical writer combines technical knowledge with strong communication skills:
 
-- **Technical Curiosity:** A genuine interest in understanding how systems function at a fundamental level is crucial. You should enjoy analyzing and deconstructing complex concepts.
+- **Technical Curiosity:** A genuine interest in understanding how systems function at a fundamental level is important. You should enjoy analyzing and deconstructing complex concepts.
 
 - **Code Comprehension:** While you don’t need to be a full-fledged developer, you must be comfortable reading and interpreting code, particularly in [Solidity](/solidity-for-beginners) as well as JavaScript/TypeScript, to document smart contracts and SDKs accurately.
 
@@ -63,7 +63,7 @@ Breaking into this role is accessible for those passionate about Web3:
 
 3. **Contribute Solutions:** Write the guides or explanations you wish existed. If the documentation is hosted on a public [GitHub](/building-web3-portfolio), submit a pull request with your suggestions. If not, publish your guide on your blog or on platforms like Mirror.xyz. This serves as your [proof of work](/how-to-build-a-public-on-chain-developer-brand).
 
-4. **Build a Portfolio:** Assemble a portfolio showcasing your public writing. This could include your blog posts, GitHub contributions, or comprehensive summaries of community calls. This collection demonstrates your competence.
+4. **Build a Portfolio:** Assemble a portfolio showcasing your public writing. This could include your blog posts, GitHub contributions, or full summaries of community calls. This collection demonstrates your competence.
 
 5. **Engage with the Community:** Share your work in the project's Discord. Solicit feedback and establish your reputation as someone who understands the protocol and communicates effectively. This often leads to job opportunities.
 
@@ -79,4 +79,4 @@ Web3 technical writers can expect competitive salaries. Here are the salary rang
 
 ### Conclusion
 
-A career as a Web3 technical writer offers an exciting opportunity for clear thinkers and skilled communicators. With a growing demand for accurate documentation, this role is crucial for the success of projects in the Web3 space. By honing your skills and actively engaging with the community, you can establish yourself as a reputable technical writer. This path allows you to contribute significantly to the blockchain ecosystem while providing a fulfilling and financially rewarding career.
+A career as a Web3 technical writer offers an exciting opportunity for clear thinkers and skilled communicators. With a growing demand for accurate documentation, this role is important for the success of projects in the Web3 space. By honing your skills and actively engaging with the community, you can establish yourself as a reputable technical writer. This path allows you to contribute significantly to the blockchain ecosystem while providing a fulfilling and financially rewarding career.

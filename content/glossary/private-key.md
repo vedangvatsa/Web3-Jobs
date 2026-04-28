@@ -79,7 +79,7 @@ Some early Bitcoin users lost funds because weak random number generators produc
 
 Modern wallets use a single master seed to generate unlimited key pairs deterministically:
 
-**Seed Phrase** (12-24 words) → **Master Key** → **Derived Private Keys**
+- **Seed Phrase** (12-24 words) → **Master Key** → **Derived Private Keys**
 
 Derivation path example: `m/44'/60'/0'/0/0`  
 - Allows one backup (seed phrase) for all keys.  
@@ -90,36 +90,36 @@ This explains how losing your device doesn't lose funds, recover the seed phrase
 
 ## Private Key Security: Critical Rules
 
-**NEVER share your private key or seed phrase**. Not with support teams, not with apps, not stored digitally. Anyone with access controls your funds irreversibly.
+- **NEVER share your private key or seed phrase**. Not with support teams, not with apps, not stored digitally. Anyone with access controls your funds irreversibly.
 
 - **Best Practices**:
 
-**1. Write Down Seed Phrases on Paper**  
+- **1. Write Down Seed Phrases on Paper**  
 - Use paper or metal (Cryptosteel, Billfodl).  
 - Never screenshots, cloud storage, or text files.  
 - Malware can steal digital copies.  
 
-**2. Multiple Secure Locations**  
+- **2. Multiple Secure Locations**  
 - Store copies in different physical locations.  
 - Safe deposit boxes, home safes.  
 - Protects against fire, theft, or loss.  
 
-**3. Test Recovery Process**  
+- **3. Test Recovery Process**  
 - Create new wallet, transfer small amount.  
 - Wipe wallet, recover from seed.  
 - Ensures backup works before trusting significant funds.  
 
-**4. Hardware Wallets for Large Holdings**  
+- **4. Hardware Wallets for Large Holdings**  
 - Ledger, Trezor keep private keys on secure hardware.  
 - Never exposed to potentially compromised computers.  
 - Signs transactions internally.  
 
-**5. Be Cautious About Phishing**  
+- **5. Be Cautious About Phishing**  
 - Never enter seed phrases on computers connected to the internet.  
 - Verify hardware wallet purchase directly from manufacturer.  
 - Beware of fake wallet apps.  
 
-**6. Operational Security**  
+- **6. Operational Security**  
 - Don't brag about holdings publicly.  
 - Use different addresses for different purposes.  
 - Consider multi-signature setups for large amounts.  

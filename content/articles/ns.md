@@ -51,7 +51,7 @@ Network School addresses several key pain points often faced by remote workers:
 | Shared Room      | Monthly rate        | Month-to-month      | 2-3 weeks              |
 | Private Room     | Monthly rate        | Month-to-month      | 2-3 weeks              |
 
-Network School utilizes a month-to-month commitment model, allowing flexibility. However, longer stays receive priority booking. Approval for membership typically takes 2-3 weeks, as applications undergo a review process to maintain community standards.
+Network School uses a month-to-month commitment model, allowing flexibility. However, longer stays receive priority booking. Approval for membership typically takes 2-3 weeks, as applications undergo a review process to maintain community standards.
 
 ## Location Details
 
@@ -64,7 +64,7 @@ Members at Network School engage in various activities that facilitate productiv
 - Work in collaborative coworking spaces alongside other builders.
 - Share meals in a communal dining area.
 - Attend scheduled speaker sessions and workshops designed to enhance skills and knowledge.
-- Utilize fitness facilities and participate in group fitness classes.
+- Use fitness facilities and participate in group fitness classes.
 - Access the content studio for creative projects.
 - Take advantage of the makerspace to work on hardware-related endeavors.
 - Network with individuals from diverse industries and backgrounds.

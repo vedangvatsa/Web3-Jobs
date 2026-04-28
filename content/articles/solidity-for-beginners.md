@@ -32,7 +32,7 @@ You'll be greeted with a default workspace. You can explore the example files, b
 In the Remix file explorer on the left, you'll see a folder named `contracts`.
 1.  Right-click on the `contracts` folder.
 2.  Select "New File".
-3.  Name your file `SimpleStorage.sol`. The `.sol` extension is crucial.
+3.  Name your file `SimpleStorage.sol`. The `.sol` extension is important.
 
 A new, empty file will open in the editor. Now, we're ready to write some code.
 

@@ -36,7 +36,7 @@ Without stablecoins, DeFi would struggle with volatility risk. A farmer cannot t
 
 On centralized exchanges, stablecoins serve as trading pairs and safe havens during market volatility. Traders often convert to stablecoins to sit on the sidelines without moving funds off-exchange. This is faster and cheaper than converting to fiat currency and allows quick re-entry into positions.
 
-Stablecoin liquidity pools are crucial infrastructure for decentralized exchanges. The USDC/USDT pair on Uniswap enables efficient swaps between different stablecoins with minimal slippage. These pools also generate yield for liquidity providers through trading fees, though returns are typically lower than more volatile pairs.
+Stablecoin liquidity pools are important infrastructure for decentralized exchanges. The USDC/USDT pair on Uniswap enables efficient swaps between different stablecoins with minimal slippage. These pools also generate yield for liquidity providers through trading fees, though returns are typically lower than more volatile pairs.
 
 ## Regulatory Landscape
 
@@ -68,7 +68,7 @@ In emerging markets, stablecoins provide a hedge against local currency devaluat
 
 Stablecoin holders can earn yields through various mechanisms. Centralized platforms like Coinbase and Kraken offer stablecoin savings accounts with interest. DeFi protocols provide higher yields through lending, liquidity provision, or specialized strategies. Yields vary based on risk, with some strategies offering higher returns.
 
-Understanding yield sources is crucial for assessing risk. Sustainable yield comes from real economic activity like lending interest or trading fees. Unsustainably high yields often rely on token emissions or other subsidies that may not last. The Terra/Luna collapse demonstrated the danger of yields that seem too good to be true.
+Understanding yield sources is important for assessing risk. Sustainable yield comes from real economic activity like lending interest or trading fees. Unsustainably high yields often rely on token emissions or other subsidies that may not last. The Terra/Luna collapse demonstrated the danger of yields that seem too good to be true.
 
 ## Future Development
 

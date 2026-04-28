@@ -74,7 +74,7 @@ International taxation adds complexity; creators might receive royalties from wo
 
 ## Smart Contract Limitations
 
-Not all blockchains or NFT standards support robust royalty mechanisms. Solana's compressed NFTs, for example, have different royalty considerations than Ethereum's ERC-721. Cross-chain NFTs face challenges; royalties set on one chain might not transfer to another.
+Not all blockchains or NFT standards support strong royalty mechanisms. Solana's compressed NFTs, for example, have different royalty considerations than Ethereum's ERC-721. Cross-chain NFTs face challenges; royalties set on one chain might not transfer to another.
 
 Decentralized exchanges and peer-to-peer transfers can bypass royalty collection entirely. While marketplace sales enforce royalties, private wallet-to-wallet transfers don't. This limitation is fundamental to blockchain's permissionless nature; you can't prevent users from transferring assets directly without platform intermediation.
 

@@ -115,19 +115,19 @@ No perfect solution exists. Each approach has tradeoffs between fairness, perfor
 
 MEV has created a substantial industry:
 
-**MEV Searchers** develop bots and strategies to extract MEV. This role is highly competitive.
+- **MEV Searchers** develop bots and strategies to extract MEV. This role is highly competitive.
 
-**Smart Contract Auditors** specializing in MEV vulnerabilities identify extraction opportunities in protocols.
+- **Smart Contract Auditors** specializing in MEV vulnerabilities identify extraction opportunities in protocols.
 
-**Protocol Researchers** work on MEV-resistant mechanisms at Flashbots or protocol teams.
+- **Protocol Researchers** work on MEV-resistant mechanisms at Flashbots or protocol teams.
 
-**Smart Contract Engineers** build MEV infrastructure (bundlers, fair ordering services).
+- **Smart Contract Engineers** build MEV infrastructure (bundlers, fair ordering services).
 
-**Data Scientists** analyze MEV patterns and extraction strategies.
+- **Data Scientists** analyze MEV patterns and extraction strategies.
 
-**Quant Researchers** develop sophisticated extraction algorithms.
+- **Quant Researchers** develop sophisticated extraction algorithms.
 
-**Block Builders** construct optimal blocks for maximum MEV at specialized firms.
+- **Block Builders** construct optimal blocks for maximum MEV at specialized firms.
 
 ## Ethical Considerations
 

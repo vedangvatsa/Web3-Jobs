@@ -156,15 +156,15 @@ Restaking is nascent:
 
 Restaking creates sophisticated roles:
 
-**Risk Managers** evaluating restaking protocols and slashing risk.
+- **Risk Managers** evaluating restaking protocols and slashing risk.
 
-**Validator Operators** running sophisticated restaking strategies.
+- **Validator Operators** running sophisticated restaking strategies.
 
-**Protocol Engineers** building restaking infrastructure and AVS.
+- **Protocol Engineers** building restaking infrastructure and AVS.
 
-**Researchers** studying slashing economics and protocol security.
+- **Researchers** studying slashing economics and protocol security.
 
-**Smart Contract Auditors** specializing in restaking security.
+- **Smart Contract Auditors** specializing in restaking security.
 
 ## Best Practices
 

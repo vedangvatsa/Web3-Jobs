@@ -29,7 +29,7 @@ A blockchain captures transactions, which can encompass cryptocurrency transfers
 
 ### 2. Cryptographic Hashing
 
-Cryptographic hashing is a crucial element for blockchain security. A "hash" is a unique, fixed-length string derived from digital data. The most widely used hashing algorithm in blockchains is SHA-256 (Secure Hash Algorithm 256-bit).
+Cryptographic hashing is a important element for blockchain security. A "hash" is a unique, fixed-length string derived from digital data. The most widely used hashing algorithm in blockchains is SHA-256 (Secure Hash Algorithm 256-bit).
 
 Think of a hash as a digital fingerprint. Any input, regardless of size, produces a distinct 256-bit output. Even minor changes to the original data, such as adding a comma or modifying a letter, generate an entirely different hash. This feature makes data tampering immediately detectable. Each block in a blockchain contains its own hash and the hash of the previous block, creating secure connections between them.
 
@@ -45,7 +45,7 @@ If a hacker attempts to alter a transaction in a previous block, the altered has
 
 The network requires a method to determine which new block to add to the chain, managed by a "consensus mechanism." This set of rules guides participants in validating transactions and incorporating new blocks.
 
-- **Proof of Work (PoW)**: This original consensus mechanism utilized by Bitcoin involves "miners" competing to solve complex mathematical puzzles. The first miner to solve the puzzle proposes the next block and receives a reward in newly created cryptocurrency. This process demands substantial computational power, rendering it costly and difficult for a single entity to attack the network.
+- **Proof of Work (PoW)**: This original consensus mechanism used by Bitcoin involves "miners" competing to solve complex mathematical puzzles. The first miner to solve the puzzle proposes the next block and receives a reward in newly created cryptocurrency. This process demands substantial computational power, rendering it costly and difficult for a single entity to attack the network.
 - **Proof of Stake (PoS)**: A more energy-efficient alternative adopted by Ethereum and various modern blockchains. In this system, "validators" stake (lock up) their cryptocurrency as collateral. The network randomly selects a validator to propose the next block. Dishonest actions can result in the loss of staked funds, incentivizing honest behavior without the high energy costs associated with PoW.
 
 ## The Core Properties of a Blockchain
@@ -89,7 +89,7 @@ The term "Blockchain Trilemma," coined by Ethereum's founder Vitalik Buterin, de
 
 ### User Experience (UX)
 
-Interacting with blockchain systems can be complex. Users often face challenges managing private keys, understanding gas fees, and utilizing crypto wallets. Simplifying the user experience to match the convenience of modern web applications is essential for broader adoption.
+Interacting with blockchain systems can be complex. Users often face challenges managing private keys, understanding gas fees, and using crypto wallets. Simplifying the user experience to match the convenience of modern web applications is essential for broader adoption.
 
 ### Energy Consumption
 

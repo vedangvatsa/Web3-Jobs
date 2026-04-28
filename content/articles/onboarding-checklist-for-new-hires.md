@@ -89,7 +89,7 @@ Sarah, a developer at a blockchain startup, faced challenges with project deadli
 
 ### Example 2: Juan's Success in DeFi
 
-Juan, a product manager in the decentralized finance (DeFi) sector, initially struggled with cross-team collaboration. He utilized the onboarding framework to identify key stakeholders and schedule introductory meetings. This proactive approach enabled him to streamline communication and ultimately launch a successful product feature that increased user engagement.
+Juan, a product manager in the decentralized finance (DeFi) sector, initially struggled with cross-team collaboration. He used the onboarding framework to identify key stakeholders and schedule introductory meetings. This proactive approach enabled him to streamline communication and ultimately launch a successful product feature that increased user engagement.
 
 ### Example 3: Maya's Transition from Web2 to Web3
 
@@ -121,7 +121,7 @@ Most new hires report seeing initial results within a few weeks of consistent ap
 Even in challenging environments, you often possess more agency than you realize. Start with manageable, self-directed actions that do not require organizational approval. Focus on individual habits and engage in conversations with colleagues who share your goals. Document your progress and the tangible results you create. If your environment continues to hinder your development despite sustained effort, consider seeking a workplace that prioritizes employee growth.
 
 **How does this framework apply specifically to Web3?**  
-Web3 organizations differ structurally from traditional companies, amplifying the importance of effective onboarding. With flatter hierarchies, you have greater access to decision-makers but also bear more responsibility for your direction. Teams often operate remotely, making written communication and asynchronous collaboration more crucial than in traditional settings. The pace of work is faster, with product cycles occurring in weeks rather than months. Adapting to this environment is a vital professional skill.
+Web3 organizations differ structurally from traditional companies, amplifying the importance of effective onboarding. With flatter hierarchies, you have greater access to decision-makers but also bear more responsibility for your direction. Teams often operate remotely, making written communication and asynchronous collaboration more important than in traditional settings. The pace of work is faster, with product cycles occurring in weeks rather than months. Adapting to this environment is a vital professional skill.
 
 **Can I implement this strategy alongside my current role?**  
 Yes, this is the recommended approach for most professionals. You do not need extra hours; you need focused intention within your existing schedule. Identify two or three practices that align with your daily responsibilities and apply them consistently. This method of incremental improvement often yields better results than sporadic, large changes.

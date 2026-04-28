@@ -31,7 +31,7 @@ This method fails due to gas limits. Executing the loop for a large number of ad
 
 ### The Merkle Tree Solution: A Pull-Based Approach
 
-A Merkle airdrop utilizes a "pull" mechanism rather than a "push" one. Instead of the contract distributing tokens to everyone, eligible users must come to the contract to "pull" or claim their tokens. The Merkle tree facilitates the contract's verification of a user's eligibility without requiring the entire list of addresses.
+A Merkle airdrop uses a "pull" mechanism rather than a "push" one. Instead of the contract distributing tokens to everyone, eligible users must come to the contract to "pull" or claim their tokens. The Merkle tree facilitates the contract's verification of a user's eligibility without requiring the entire list of addresses.
 
 **The Process:**
 
@@ -115,7 +115,7 @@ Create a plan tailored to your individual situation. Consider your role, team dy
 
 ### Step 4: Implement Gradually
 
-Avoid attempting to overhaul everything at once. Start with small, manageable changes. Track what works and refine your approach. This iterative process fosters sustainable improvement.
+Avoid attempting to overhaul everything at once. Start with small, manageable changes. Track what works and refine your approach. This iterative process builds sustainable improvement.
 
 ### Step 5: Measure and Adjust
 
@@ -133,7 +133,7 @@ Juan, a product manager in [DeFi](/what-is-defi), faced challenges with user eng
 
 ### Case Study 3: Maya's Transition from Web2 to Web3
 
-Maya shifted from a Web2 environment to a Web3 role. She quickly adapted by utilizing the Merkle airdrop method for her new project, facilitating token distribution to a substantial number of users. This experience demonstrated that understanding efficient distribution mechanisms can lead to success, regardless of previous experience.
+Maya shifted from a Web2 environment to a Web3 role. She quickly adapted by using the Merkle airdrop method for her new project, facilitating token distribution to a substantial number of users. This experience demonstrated that understanding efficient distribution mechanisms can lead to success, regardless of previous experience.
 
 ## Common Mistakes to Avoid
 

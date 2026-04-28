@@ -105,13 +105,13 @@ Attacks are possible against finality assumptions.
 
 Finality creates roles:
 
-**Consensus Researchers** study finality.
+- **Consensus Researchers** study finality.
 
-**Protocol Engineers** implement finality.
+- **Protocol Engineers** implement finality.
 
-**Safety Analysts** analyze finality attacks.
+- **Safety Analysts** analyze finality attacks.
 
-**Bridge Builders** engineer finality mechanisms.
+- **Bridge Builders** engineer finality mechanisms.
 
 ## Best Practices
 

@@ -109,15 +109,15 @@ Different protocols handle liquidation differently:
 
 Liquidation mechanisms create professional opportunities:
 
-**Liquidation Bot Developers** build and maintain automated systems that capture liquidation opportunities. This requires Solidity knowledge, off-chain infrastructure, and optimization skills.
+- **Liquidation Bot Developers** build and maintain automated systems that capture liquidation opportunities. This requires Solidity knowledge, off-chain infrastructure, and optimization skills.
 
-**Risk Analysts** model liquidation risk for protocols and users, helping set collateral ratios and liquidation thresholds. These roles require quantitative skills and understanding of market microstructure.
+- **Risk Analysts** model liquidation risk for protocols and users, helping set collateral ratios and liquidation thresholds. These roles require quantitative skills and understanding of market microstructure.
 
-**Protocol Economists** design liquidation mechanisms that balance lender protection with borrower experience, a crucial component of protocol design.
+- **Protocol Economists** design liquidation mechanisms that balance lender protection with borrower experience, a important component of protocol design.
 
-**Quant Traders** at crypto funds analyze liquidation cascades and market impact, using liquidation events as alpha signals.
+- **Quant Traders** at crypto funds analyze liquidation cascades and market impact, using liquidation events as alpha signals.
 
-**Smart Contract Auditors** review liquidation logic for vulnerabilities, ensuring mechanisms work as intended under all conditions.
+- **Smart Contract Auditors** review liquidation logic for vulnerabilities, ensuring mechanisms work as intended under all conditions.
 
 ## Best Practices
 
@@ -153,4 +153,4 @@ Liquidation mechanisms continue evolving:
 
 ## Navigate DeFi Lending
 
-Understanding liquidation is crucial for anyone using DeFi lending, whether borrowing, lending, or building protocols. If you're interested in DeFi risk management, quantitative analysis, or protocol design, explore [DeFi career opportunities](/) at leading protocols. These positions place you at the intersection of finance, theory, and smart contract engineering.
+Understanding liquidation is important for anyone using DeFi lending, whether borrowing, lending, or building protocols. If you're interested in DeFi risk management, quantitative analysis, or protocol design, explore [DeFi career opportunities](/) at leading protocols. These positions place you at the intersection of finance, theory, and smart contract engineering.

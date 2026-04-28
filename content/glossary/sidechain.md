@@ -33,13 +33,13 @@ Sidechains offer independent operation but introduce separate security assumptio
 
 Major sidechains:
 
-**Polygon PoS** (Originally Matic Network): Ethereum sidechain with an independent validator set.
+- **Polygon PoS** (Originally Matic Network): Ethereum sidechain with an independent validator set.
 
-**Ronin** (Axie Infinity's sidechain): Gaming-specific sidechain.
+- **Ronin** (Axie Infinity's sidechain): Gaming-specific sidechain.
 
 - **Harmony ONE**: Independent sidechain with its own token.
 
-**Arbitrum Nova** (ArbITRUM Orbit): Sidechain using Arbitrum technology but with its own validator set.
+- **Arbitrum Nova** (ArbITRUM Orbit): Sidechain using Arbitrum technology but with its own validator set.
 
 - **Boba Network**: Optimism-based sidechain/L2 hybrid.
 
@@ -123,15 +123,15 @@ Sidechains must achieve sufficient transaction volume to sustain their validator
 
 Sidechains create roles:
 
-**Sidechain Validators** operating sidechain infrastructure earn varying salaries depending on revenue.
+- **Sidechain Validators** operating sidechain infrastructure earn varying salaries depending on revenue.
 
-**Bridge Engineers** building sidechain bridges earn competitive salaries.
+- **Bridge Engineers** building sidechain bridges earn competitive salaries.
 
-**Smart Contract Developers** building sidechain DApps earn competitive salaries.
+- **Smart Contract Developers** building sidechain DApps earn competitive salaries.
 
-**Protocol Designers** designing sidechains earn competitive salaries.
+- **Protocol Designers** designing sidechains earn competitive salaries.
 
-**Community Managers** growing sidechain communities earn varying salaries.
+- **Community Managers** growing sidechain communities earn varying salaries.
 
 ## Best Practices
 

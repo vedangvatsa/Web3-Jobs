@@ -33,7 +33,7 @@ A spot ETF differs significantly from a **futures ETF**. Futures ETFs, which hav
 2. **Regulatory Endorsement:** The U.S. Securities and Exchange Commission (SEC) approving spot ETFs lends substantial legitimacy to cryptocurrencies. This approval serves as a signal to cautious investors that the asset class has matured and is a viable investment option.
 3. **Institutional Investment Influx:** Large institutional investors, such as pension funds and endowments, often cannot hold cryptocurrencies directly due to internal mandates. However, they can invest in regulated products like ETFs, creating a significant opportunity for new capital to enter the crypto market.
 
-While self-custody remains a foundational principle in cryptocurrency, illustrated by the phrase “not your keys, not your coins”, crypto ETFs bridge the gap between traditional finance and [Decentralized Finance (DeFi)](/what-is-defi). They offer a secure entry point for millions of new users and significant capital, which is essential for fostering the long-term growth and acceptance of the entire [Web3](/what-is-web3) ecosystem.
+While self-custody remains a foundational principle in cryptocurrency, illustrated by the phrase “not your keys, not your coins”, crypto ETFs bridge the gap between traditional finance and [Decentralized Finance (DeFi)](/what-is-defi). They offer a secure entry point for millions of new users and significant capital, which is essential for building the long-term growth and acceptance of the entire [Web3](/what-is-web3) ecosystem.
 
 ## The Web3 Opportunity
 
@@ -100,7 +100,7 @@ Focus on positions that combine your existing expertise with new Web3 knowledge:
 Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a prominent DeFi project, leading to a transition with a significant salary increase and substantial equity.
 
 ### Transitioning a Product Manager to Web3
-Jessica, a product manager from the traditional finance sector, utilized her domain knowledge in DeFi. Her grasp of financial products, paired with Web3 technology, made her a highly sought-after candidate. She secured a position at a leading DeFi protocol within four weeks.
+Jessica, a product manager from the traditional finance sector, used her domain knowledge in DeFi. Her grasp of financial products, paired with Web3 technology, made her a highly sought-after candidate. She secured a position at a leading DeFi protocol within four weeks.
 
 ### Career Changer’s Journey
 Marcus switched from his corporate job to focus on Web3 for six months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) development, he landed a Developer Relations role at a major blockchain platform, achieving compensation significantly higher than his previous position.

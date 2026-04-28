@@ -27,7 +27,7 @@ Preparation begins long before the event.
 - **Finding a Team:** Use the hackathon's official Discord server to connect with others. Look for team members a week or two before the event.
 
 **2. Study the Sponsors and Bounties:**
-- Each hackathon features sponsors, often comprising Layer 1s, Layer 2s, or [DeFi](/what-is-defi) protocols. They provide bounties, prizes for projects that effectively utilize their technology.
+- Each hackathon features sponsors, often comprising Layer 1s, Layer 2s, or [DeFi](/what-is-defi) protocols. They provide bounties, prizes for projects that effectively use their technology.
 - **Strategy:** Visit the hackathon website to review sponsors and their respective bounties. Tailor your project idea to address one or more sponsor challenges.
 
 **3. Set Up Your Development Environment:**
@@ -66,7 +66,7 @@ Winning a prize is an achievement, but the true value of a hackathon extends bey
 - **Networking Opportunities:** Hackathons facilitate connections with other developers, founders, and key teams from major protocols. Many participants discover co-founders or job opportunities through these events.
 - **Increased Visibility:** A well-executed project can attract attention from investors and recruiters.
 
-Blockchain hackathons are integral to the Web3 builder community, fostering skills, connections, and career advancement. Whether you are an experienced developer or a newcomer, participating in a hackathon offers substantial rewards.
+Blockchain hackathons are integral to the Web3 builder community, building skills, connections, and career advancement. Whether you are an experienced developer or a newcomer, participating in a hackathon offers substantial rewards.
 
 ## The Web3 Opportunity
 
@@ -128,7 +128,7 @@ Target roles that align with your existing skills while incorporating your new W
 Alex, a backend engineer with five years at a major tech company, dedicated three months to learning Solidity while balancing his job. He contributed to an open-source protocol, attracting the attention of a leading DeFi project, which resulted in a transition that included a salary increase and substantial equity.
 
 ### Product Manager in Web3
-Jessica, a former PM in traditional finance, utilized her expertise in DeFi. Her strong understanding of financial products combined with Web3 technology made her highly sought after. Within a short period, she secured a position at a prominent DeFi protocol.
+Jessica, a former PM in traditional finance, used her expertise in DeFi. Her strong understanding of financial products combined with Web3 technology made her highly sought after. Within a short period, she secured a position at a prominent DeFi protocol.
 
 ### Career Changer Success
 Marcus transitioned from a corporate job to focus on Web3 for six months. Through consistent learning, networking, and building his **[portfolio](/building-web3-portfolio)**, he landed a role leading Developer Relations at a major blockchain platform, with compensation exceeding his previous salary.

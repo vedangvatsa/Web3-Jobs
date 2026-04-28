@@ -54,7 +54,7 @@ Tailor your skill acquisition to your target role:
 
 - **Engineers**: Learn Solidity, JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
 - **Product Managers**: Gain knowledge in token economics, protocol governance, and user growth strategies tailored to Web3.
-- **Business Development**: Understand market analysis, partnership strategies, and the regulatory landscape affecting the sector.
+- **Business Development**: Understand market analysis, partnership strategies, and the regulatory space affecting the sector.
 - **Community and Operations**: Develop skills in community building, Discord management, and governance practices.
 
 ### Step 3: Create a Portfolio

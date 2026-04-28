@@ -38,7 +38,7 @@ The fee structure incentivizes liquidity provision. Most AMMs charge traders a s
 
 ## Price Discovery Mechanism
 
-AMM prices are determined purely by the ratio of assets in each pool and the formula used. If the AMM price diverges from market prices on other exchanges, arbitrageurs quickly trade to bring it back in line, profiting from the difference. This arbitrage is crucial; it keeps AMM prices accurate while providing liquidity for traders.
+AMM prices are determined purely by the ratio of assets in each pool and the formula used. If the AMM price diverges from market prices on other exchanges, arbitrageurs quickly trade to bring it back in line, profiting from the difference. This arbitrage is important; it keeps AMM prices accurate while providing liquidity for traders.
 
 This mechanism means AMMs do not discover prices; they reflect prices determined elsewhere. The role of arbitrageurs is important, and some AMMs are specifically designed to minimize arbitrage opportunities, reducing value extraction from LPs. Understanding this dynamic helps evaluate different AMM designs and their efficiency.
 

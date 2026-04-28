@@ -30,7 +30,7 @@ Three significant trends will shape the progression of Web3 careers:
 
 This role will evolve from the current "Smart Contract Developer." By 2030, it will focus more on designing complex interconnected systems that underpin the decentralized economy rather than merely writing standard ERC-20 contracts.
 
-- **Future Focus**: The role will emphasize designing innovative financial primitives, creating complex governance structures, and developing secure, scalable protocols capable of supporting a large number of users. The emphasis will be on systems-level design rather than just code writing.
+- **Future Focus**: The role will emphasize designing new financial primitives, creating complex governance structures, and developing secure, scalable protocols capable of supporting a large number of users. The emphasis will be on systems-level design rather than just code writing.
 - **Skills Needed**: Professionals will require advanced knowledge in formal verification, game theory, and economic modeling.
 
 #### 2. Zero-Knowledge (ZK) Systems Engineer
@@ -42,7 +42,7 @@ With increasing demands for privacy and scalability, ZK-proofs will transition f
 
 #### 3. AI / DAO Facilitator
 
-As DAOs grow more complex, they will increasingly utilize AI agents to automate processes and facilitate optimized decision-making. The AI/DAO Facilitator will act as the human oversight, responsible for designing, managing, and governing these AI systems.
+As DAOs grow more complex, they will increasingly use AI agents to automate processes and facilitate optimized decision-making. The AI/DAO Facilitator will act as the human oversight, responsible for designing, managing, and governing these AI systems.
 
 - **Future Focus**: This role will involve crafting prompts and reward systems for AI agents tasked with managing DAO treasuries or optimizing protocol parameters, ensuring that AI actions align with community values and objectives.
 - **Skills Needed**: A blend of knowledge in machine learning, prompt engineering, and decentralized governance principles will be essential. This exemplifies a hybrid career combining AI and Web3 expertise, which is becoming more critical.
@@ -52,13 +52,13 @@ As DAOs grow more complex, they will increasingly utilize AI agents to automate 
 As technology matures, the role of product managers will shift from technical feasibility to creating simple user experiences.
 
 - **Future Focus**: Product managers will design decentralized applications (dApps) that are as user-friendly as leading Web2 applications, eliminating complexities such as seed phrases and gas fees.
-- **Skills Needed**: Mastery of UX research and design principles is crucial, alongside a deep understanding of user needs, particularly for non-technical audiences. Familiarity with [Account Abstraction (EIP-4337)](/account-abstraction-explained) and other user experience technologies will be essential.
+- **Skills Needed**: Mastery of UX research and design principles is important, alongside a deep understanding of user needs, particularly for non-technical audiences. Familiarity with [Account Abstraction (EIP-4337)](/account-abstraction-explained) and other user experience technologies will be essential.
 
 #### 5. Decentralized Identity & Reputation Manager
 
 In an era where your [wallet](/how-to-choose-a-crypto-wallet) serves as your identity, managing on-chain reputation becomes vital for both individuals and organizations.
 
-- **Future Focus**: This role will focus on helping projects and individuals establish and maintain positive on-chain reputations through governance participation and credential verification, designing systems that utilize reputation as a basis for trust.
+- **Future Focus**: This role will focus on helping projects and individuals establish and maintain positive on-chain reputations through governance participation and credential verification, designing systems that use reputation as a basis for trust.
 - **Skills Needed**: Skills will include public relations, data analysis, and knowledge of [decentralized identity standards like Verifiable Credentials](/a-guide-to-verifiable-credentials-in-decentralized-identity).
 
 #### 6. Metaverse Economist
@@ -124,7 +124,7 @@ The Web3 community is highly accessible. Engage by:
 
 #### Step 5: Apply Strategically
 
-Target roles that utilize your existing skills while incorporating your new Web3 knowledge:
+Target roles that use your existing skills while incorporating your new Web3 knowledge:
 
 - If you are a backend engineer, consider blockchain infrastructure roles.
 - For product managers, seek out protocol product positions.
@@ -138,7 +138,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 #### Product Manager in Web3
 
-Jessica, a product manager from a traditional finance background, leveraged her domain expertise in DeFi. Her understanding of financial products combined with knowledge of Web3 technology made her an attractive candidate. She secured a role at a leading DeFi protocol within a short period.
+Jessica, a product manager from a traditional finance background, used her domain expertise in DeFi. Her understanding of financial products combined with knowledge of Web3 technology made her an attractive candidate. She secured a role at a leading DeFi protocol within a short period.
 
 #### Career Changer Success
 
@@ -175,4 +175,4 @@ Bear markets historically present excellent opportunities to enter Web3. During 
 
 The future of work in Web3 promises substantial compensation premiums, rapid career growth, and the opportunity to contribute to technology reshaping finance, governance, and digital ownership across various industries. Most professionals can transition to Web3 within a few months with focused effort, using their existing skills while integrating blockchain-specific knowledge. 
 
-Networking through community engagement and showcasing visible portfolio projects on platforms like GitHub consistently leads to successful job placements. As the Web3 ecosystem continues to mature, professionals who strategically position themselves within established protocols can mitigate risks and thrive in this innovative field.
+Networking through community engagement and showcasing visible portfolio projects on platforms like GitHub consistently leads to successful job placements. As the Web3 ecosystem continues to mature, professionals who strategically position themselves within established protocols can mitigate risks and thrive in this new field.

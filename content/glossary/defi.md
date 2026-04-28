@@ -39,7 +39,7 @@ At its core, DeFi operates through smart contracts that hold and manage assets a
 
 1. Records your deposit and issues you interest-bearing tokens
 2. Makes your funds available for others to borrow
-3. Algorithmically adjusts interest rates based on utilization
+3. Algorithmically adjusts interest rates based on use
 4. Automatically calculates and distributes your earned interest
 5. Allows you to withdraw your funds plus interest at any time
 

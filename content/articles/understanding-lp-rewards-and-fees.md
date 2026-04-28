@@ -1,7 +1,7 @@
 ---
 
 title: "Understanding LP Rewards and Fees"
-description: "A comprehensive breakdown of how liquidity providers earn money through trading fees and yield farming rewards, and the factors that determine their."
+description: "A full breakdown of how liquidity providers earn money through trading fees and yield farming rewards, and the factors that determine their."
 category: "Educational"
 image: "https://picsum.photos/seed/lpreward/1200/630"
 data-ai-hint: "liquidity provider"
@@ -64,7 +64,7 @@ This mechanism enables LPs to accumulate both trading fees from the DEX and toke
 
 #### Understanding APR/APY in Yield Farming
 
-Yield farming returns are often advertised with high APR (Annual Percentage Rate). Understanding these figures is crucial:
+Yield farming returns are often advertised with high APR (Annual Percentage Rate). Understanding these figures is important:
 
 - **APR**: Represents the simple rate of return over a year without accounting for compounding.
 - **APY (Annual Percentage Yield)**: Indicates the return if rewards are compounded (i.e., reinvesting the reward token back into the LP position). APY is usually higher than APR.
@@ -119,11 +119,11 @@ Craft a tailored plan that reflects your unique situation. Consider your role wi
 
 ### Step 4: Implement Gradually
 
-Avoid attempting to overhaul everything simultaneously. Start with incremental changes and build upon them. Track progress meticulously to identify what works and what does not. This iterative process fosters sustainable improvement.
+Avoid attempting to overhaul everything simultaneously. Start with incremental changes and build upon them. Track progress meticulously to identify what works and what does not. This iterative process builds sustainable improvement.
 
 ### Step 5: Measure and Adjust
 
-Regularly monitor your progress. Are you achieving intended results? Adjust your strategy based on feedback and outcomes. This continuous improvement mindset is crucial for success.
+Regularly monitor your progress. Are you achieving intended results? Adjust your strategy based on feedback and outcomes. This continuous improvement mindset is important for success.
 
 ## Real-World Examples
 

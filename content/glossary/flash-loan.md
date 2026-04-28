@@ -66,7 +66,7 @@ Different providers have different fee structures, available assets, and liquidi
 
 Implementing flash loan strategies requires solid smart contract development skills. You write a contract that calls the flash loan function, implements a callback function where you use the borrowed funds, performs operations, and repays the loan. The flash loan provider executes your callback function with the borrowed funds.
 
-Gas optimization is crucial since complex flash loan transactions can be expensive. If gas costs exceed profit, the opportunity isn't viable. Experienced developers optimize code, minimize storage operations, and carefully structure transactions to minimize gas consumption while accomplishing their objectives.
+Gas optimization is important since complex flash loan transactions can be expensive. If gas costs exceed profit, the opportunity isn't viable. Experienced developers optimize code, minimize storage operations, and carefully structure transactions to minimize gas consumption while accomplishing their objectives.
 
 ## Flash Minting
 

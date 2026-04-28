@@ -29,13 +29,13 @@ Different models have different tradeoffs between decentralization, speed, and q
 
 Tokens enabling voting:
 
-**UNI** (Uniswap): 1 UNI = 1 vote on Uniswap governance. Holders vote on treasury allocation, parameter changes.
+- **UNI** (Uniswap): 1 UNI = 1 vote on Uniswap governance. Holders vote on treasury allocation, parameter changes.
 
-**AAVE** (Aave): 1 AAVE = voting power. Holders control lending parameters, risk settings, upgrades.
+- **AAVE** (Aave): 1 AAVE = voting power. Holders control lending parameters, risk settings, upgrades.
 
-**MKR** (Maker): MKR holders vote on stablecoin parameters, collateral types, governance changes.
+- **MKR** (Maker): MKR holders vote on stablecoin parameters, collateral types, governance changes.
 
-**CURVE** (Curve): CRV holders vote on gauge weights (which pools receive incentives), fee distributions.
+- **CURVE** (Curve): CRV holders vote on gauge weights (which pools receive incentives), fee distributions.
 
 Governance tokens incentivize holding and participating. Token price often reflects protocol health and decision-making quality.
 
@@ -123,15 +123,15 @@ Protocols gradually move toward decentralization, though some remain centralized
 
 Governance creates roles:
 
-**Governance Analysts** researching proposals and voting.
+- **Governance Analysts** researching proposals and voting.
 
-**Protocol Economists** proposing parameter changes.
+- **Protocol Economists** proposing parameter changes.
 
-**Governance Facilitators** coordinating governance discussions.
+- **Governance Facilitators** coordinating governance discussions.
 
-**Risk Managers** assessing governance proposal impacts.
+- **Risk Managers** assessing governance proposal impacts.
 
-**Smart Contract Developers** implementing governance mechanics.
+- **Smart Contract Developers** implementing governance mechanics.
 
 ## Best Practices
 

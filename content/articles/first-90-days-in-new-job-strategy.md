@@ -131,7 +131,7 @@ You now have a solid understanding of the company dynamics. It is time to start 
 
 **Not Getting Feedback:** Don't wait for a formal review to gauge your performance. Actively seek feedback from your manager and colleagues to make timely adjustments.
 
-**Ignoring Company Culture:** If the organization's culture is formal and you tend to be casual, or vice versa, adapt your style accordingly. Respecting company culture fosters quicker integration.
+**Ignoring Company Culture:** If the organization's culture is formal and you tend to be casual, or vice versa, adapt your style accordingly. Respecting company culture builds quicker integration.
 
 ## Frequently Asked Questions
 
@@ -149,7 +149,7 @@ Feeling ramped up around the 120-day mark is typical. Continue on your current t
 
 ## Conclusion
 
-Your first 90 days are crucial for setting the tone of your tenure within the organization. These days offer an opportunity to invest in your long-term success, relationship building, and overall contribution.
+Your first 90 days are important for setting the tone of your tenure within the organization. These days offer an opportunity to invest in your long-term success, relationship building, and overall contribution.
 
 Approach this period with a strategic mindset. Focus on building trust, learning continuously, contributing thoughtfully, observing the culture, and building relationships. Remember that this grace period allows for learning and mistakes. Use it wisely to establish a solid foundation for your future at the company. 
 

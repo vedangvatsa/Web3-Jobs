@@ -105,13 +105,13 @@ Different systems have different recursion support.
 
 Recursive proofs create roles:
 
-**Cryptography Researchers** studying recursion.
+- **Cryptography Researchers** studying recursion.
 
-**Protocol Engineers** implementing recursion.
+- **Protocol Engineers** implementing recursion.
 
-**ZK Engineers** building recursive systems.
+- **ZK Engineers** building recursive systems.
 
-**Performance Specialists** optimizing recursion.
+- **Performance Specialists** optimizing recursion.
 
 ## Best Practices
 

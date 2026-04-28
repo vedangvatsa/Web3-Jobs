@@ -50,7 +50,7 @@ The Governance Lead actively facilitates rather than passively observes.
 
 **3. Supporting Delegates and Voters**
 
-Increasing participation and enhancing decision-making quality are crucial components of the role.
+Increasing participation and enhancing decision-making quality are important components of the role.
 
 - **Voter Education:** The Governance Lead creates guides and resources to help token holders understand the issues at stake in specific votes.
 - **Delegate Programs:** They often implement delegate programs, enabling token holders to delegate their voting power to trusted community members with a strong grasp of the protocol. The Governance Lead identifies and supports these delegates.
@@ -124,7 +124,7 @@ Focus on skills pertinent to your desired role:
 
 - **Engineers:** Master [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries such as ethers.js and web3.js.
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies within Web3.
-- **Business Development Roles:** Gain expertise in market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development Roles:** Gain expertise in market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Learn community building, Discord management, and governance practices.
 
 ### Step 3: Build Your Portfolio

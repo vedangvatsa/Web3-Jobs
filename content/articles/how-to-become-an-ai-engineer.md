@@ -16,7 +16,7 @@ This guide serves as a structured roadmap for those starting from scratch. It ou
 
 ### Understanding the Role of an AI Engineer
 
-It is crucial to differentiate between the roles in the AI field. Although "AI Engineer" and "Machine Learning Engineer" may seem interchangeable, they differ from the role of a Data Scientist:
+It is important to differentiate between the roles in the AI field. Although "AI Engineer" and "Machine Learning Engineer" may seem interchangeable, they differ from the role of a Data Scientist:
 
 - **Data Scientist**: Conducts research, experiments with data, tests hypotheses, and builds prototype models to explore possibilities.
 - **AI/ML Engineer**: Converts successful models developed by Data Scientists into reliable, scalable, production-ready software.
@@ -47,7 +47,7 @@ Python stands as the dominant programming language in AI. Its straightforward sy
 
 #### Step 2: Master the Fundamentals of Machine Learning
 
-Once you are comfortable with Python, shift your focus to learning the theoretical aspects of machine learning. Understanding algorithm mechanics is crucial, beyond merely executing library functions.
+Once you are comfortable with Python, shift your focus to learning the theoretical aspects of machine learning. Understanding algorithm mechanics is important, beyond merely executing library functions.
 
 **What to Learn**
 
@@ -123,7 +123,7 @@ No. While advanced degrees can be beneficial, especially for research-oriented r
 
 **3. How can I gain experience without a job?**
 
-Engaging in personal projects and contributing to open-source initiatives is vital. Your GitHub profile serves as proof of your experience. Participate in Kaggle competitions. Collaborate with non-profits needing data analysis assistance, or develop an innovative web application using an AI model you created. This practical experience is what will help you secure your first job.
+Engaging in personal projects and contributing to open-source initiatives is vital. Your GitHub profile serves as proof of your experience. Participate in Kaggle competitions. Collaborate with non-profits needing data analysis assistance, or develop an new web application using an AI model you created. This practical experience is what will help you secure your first job.
 
 **4. Should I focus on TensorFlow or PyTorch?**
 

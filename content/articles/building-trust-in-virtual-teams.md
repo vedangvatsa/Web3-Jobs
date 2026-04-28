@@ -59,7 +59,7 @@ Juan, a product manager in [DeFi](/what-is-defi), experienced difficulties with 
 
 ### Example 3: Maya Transitioning to Web3
 
-Maya, transitioning from Web2 to Web3, utilized these trust-building strategies to adapt quickly. By actively engaging with her remote team and seeking feedback, she built rapport and established herself as a reliable team member. Her success illustrates that trust-building strategies are effective across various professional backgrounds.
+Maya, transitioning from Web2 to Web3, used these trust-building strategies to adapt quickly. By actively engaging with her remote team and seeking feedback, she built rapport and established herself as a reliable team member. Her success illustrates that trust-building strategies are effective across various professional backgrounds.
 
 ## Common Mistakes to Avoid
 
@@ -82,7 +82,7 @@ A: Initial results typically appear within a few weeks of consistent application
 A: Even in challenging environments, you often have more agency than you realize. Start with self-contained actions like individual habits or personal projects. Gradually build momentum and document your results. If significant barriers persist, evaluate whether the environment aligns with your professional growth.
 
 **Q: How does this apply specifically to Web3?**  
-A: Web3 organizations feature flatter hierarchies, increasing individual responsibility and direct access to decision-makers. Remote and globally distributed teams amplify the importance of written communication and asynchronous collaboration. Adapting to this fast-paced environment is crucial for professional success.
+A: Web3 organizations feature flatter hierarchies, increasing individual responsibility and direct access to decision-makers. Remote and globally distributed teams amplify the importance of written communication and asynchronous collaboration. Adapting to this fast-paced environment is important for professional success.
 
 **Q: Can I implement this alongside my current role?**  
 A: Yes, integrating these strategies into your current role is advisable. Focus on two or three practices that align with your daily responsibilities. Small, deliberate improvements can yield greater results than sporadic large efforts.

@@ -119,17 +119,17 @@ Practical finality usage reflects these considerations.
 
 Finality and consensus create roles:
 
-**Consensus Researchers** studying finality earn competitive salaries.
+- **Consensus Researchers** studying finality earn competitive salaries.
 
-**Protocol Engineers** implementing finality mechanisms earn competitive salaries.
+- **Protocol Engineers** implementing finality mechanisms earn competitive salaries.
 
-**Security Researchers** analyzing finality risks earn competitive salaries.
+- **Security Researchers** analyzing finality risks earn competitive salaries.
 
-**Validator Operators** ensuring finality earn competitive salaries.
+- **Validator Operators** ensuring finality earn competitive salaries.
 
-**Risk Analysts** assessing finality risks and guarantees earn competitive salaries.
+- **Risk Analysts** assessing finality risks and guarantees earn competitive salaries.
 
-**Auditors** verifying finality implementations earn competitive salaries.
+- **Auditors** verifying finality implementations earn competitive salaries.
 
 ## Best Practices
 

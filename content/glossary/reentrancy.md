@@ -124,15 +124,15 @@ Even modern protocols are vulnerable if not careful.
 
 Security creates roles:
 
-**Smart Contract Auditors** finding reentrancy vulnerabilities earn competitive salaries.
+- **Smart Contract Auditors** finding reentrancy vulnerabilities earn competitive salaries.
 
-**Security Researchers** studying exploit patterns earn competitive salaries.
+- **Security Researchers** studying exploit patterns earn competitive salaries.
 
-**Protocol Security Engineers** preventing exploits earn competitive salaries.
+- **Protocol Security Engineers** preventing exploits earn competitive salaries.
 
-**Formal Verification Engineers** proving contract safety earn competitive salaries.
+- **Formal Verification Engineers** proving contract safety earn competitive salaries.
 
-**Incident Response Teams** responding to exploits earn competitive salaries.
+- **Incident Response Teams** responding to exploits earn competitive salaries.
 
 ## Best Practices
 

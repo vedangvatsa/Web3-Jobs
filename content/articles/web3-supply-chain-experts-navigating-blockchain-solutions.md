@@ -79,7 +79,7 @@ Depending on your desired role, the following skills are essential:
 
 - **Engineers:** Proficiency in [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Understanding token economics, protocol governance, and strategies for user growth in Web3
-- **Business Development Professionals:** Skills in market analysis, partnership strategy, and understanding the regulatory landscape
+- **Business Development Professionals:** Skills in market analysis, partnership strategy, and understanding the regulatory space
 - **Community and Operations Specialists:** Capabilities in community building, Discord management, and governance
 
 ### Step 3: Develop Your Portfolio
@@ -118,7 +118,7 @@ Alex, who spent five years as a backend engineer at a major technology company, 
 
 ### Product Manager in Web3
 
-Jessica, a former product manager in traditional finance, utilized her domain expertise in DeFi. Her understanding of financial products, combined with knowledge of Web3 technology, made her a valuable candidate. She secured a role at a prominent DeFi protocol within a short timeframe.
+Jessica, a former product manager in traditional finance, used her domain expertise in DeFi. Her understanding of financial products, combined with knowledge of Web3 technology, made her a valuable candidate. She secured a role at a prominent DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 
@@ -132,7 +132,7 @@ The inherent volatility of the crypto market can impact job stability, particula
 
 ### Regulatory Uncertainty
 
-The regulatory landscape for blockchain companies continues to evolve. Before joining a project, ensure that the team has competent legal counsel and actively engages with regulators instead of operating in legal grey areas.
+The regulatory space for blockchain companies continues to evolve. Before joining a project, ensure that the team has competent legal counsel and actively engages with regulators instead of operating in legal grey areas.
 
 ### Due Diligence on Projects
 

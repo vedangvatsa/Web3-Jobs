@@ -138,17 +138,17 @@ For traders and protocols, mempool monitoring has become essential competitive i
 
 The mempool and MEV ecosystem create specialized careers:
 
-**MEV Searchers** write bots finding profitable opportunities in pending transactions. Successful searchers can earn significant annual incomes.
+- **MEV Searchers** write bots finding profitable opportunities in pending transactions. Successful searchers can earn significant annual incomes.
 
-**Block Builder Operators** run infrastructure constructing optimized blocks. These technical roles pay well at leading builder operations.
+- **Block Builder Operators** run infrastructure constructing optimized blocks. These technical roles pay well at leading builder operations.
 
-**Smart Contract Engineers** building MEV-resistant protocols or MEV-capturing systems earn competitive salaries at DeFi protocols.
+- **Smart Contract Engineers** building MEV-resistant protocols or MEV-capturing systems earn competitive salaries at DeFi protocols.
 
-**Quantitative Researchers** model mempool dynamics, MEV strategies, and transaction ordering at funds and researchers, typically earning competitive salaries.
+- **Quantitative Researchers** model mempool dynamics, MEV strategies, and transaction ordering at funds and researchers, typically earning competitive salaries.
 
-**Protocol Economists** design mechanisms minimizing harmful MEV while capturing beneficial MEV for protocols, earning competitive salaries.
+- **Protocol Economists** design mechanisms minimizing harmful MEV while capturing beneficial MEV for protocols, earning competitive salaries.
 
-**Infrastructure Engineers** at mempool monitoring services build real-time data pipelines, paying competitive salaries.
+- **Infrastructure Engineers** at mempool monitoring services build real-time data pipelines, paying competitive salaries.
 
 ## Privacy Solutions
 
@@ -164,7 +164,7 @@ Protecting against mempool exploitation:
 
 - **Time-Weighted Average Price (TWAP)**: Breaking large orders into many small ones over time reduces per-transaction front-running impact.
 
-As MEV extraction has grown, privacy-preserving transaction submission has become crucial for serious traders and protocols.
+As MEV extraction has grown, privacy-preserving transaction submission has become important for serious traders and protocols.
 
 ## The Future of Mempools
 
@@ -182,7 +182,7 @@ Mempool architecture is evolving:
 
 - **Application-Layer Solutions**: Apps building in MEV resistance at the smart contract layer rather than relying on mempool changes.
 
-The mempool will remain a crucial but contested part of blockchain infrastructure.
+The mempool will remain a important but contested part of blockchain infrastructure.
 
 ## Best Practices
 

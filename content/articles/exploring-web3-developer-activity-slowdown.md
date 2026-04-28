@@ -46,7 +46,7 @@ A new wave of developers, not solely protocol engineers, now uses mature infrast
 |---------------|--------------------------------------------------------------------------------------------------|
 | GameFi        | Development of Web3 games prioritizing enjoyment over speculative earning.                      |
 | DePIN         | Establishing networks for real-world services such as cloud storage, wireless connectivity, and energy grids. |
-| SocialFi      | Creation of decentralized social media platforms that empower users with ownership of data and content. |
+| SocialFi      | Creation of decentralized social media platforms that enable users with ownership of data and content. |
 
 This type of development may not always be captured in "core protocol" commit data, yet it signifies a significant and growing area of activity.
 
@@ -106,7 +106,7 @@ Tailor your skill acquisition based on your desired role:
 
 - **Engineers:** Focus on [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Study token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain expertise in market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Gain expertise in market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance processes.
 
 ### Step 3: Build Your Portfolio

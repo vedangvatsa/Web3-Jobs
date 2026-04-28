@@ -52,7 +52,7 @@ Once you’ve confirmed your interest, focus on acquiring the necessary skills a
 
 Now is the time to present your new narrative and begin your job applications.
 
-- **Rewrite Your Resume and LinkedIn Profile:** Your resume should convey "I am a [New Role]" rather than "I used to be an [Old Role]." Utilize a skills-first format that highlights your transferable skills and project experience. Update your LinkedIn headline and summary to reflect your new career trajectory.
+- **Rewrite Your Resume and LinkedIn Profile:** Your resume should convey "I am a [New Role]" rather than "I used to be an [Old Role]." Use a skills-first format that highlights your transferable skills and project experience. Update your LinkedIn headline and summary to reflect your new career trajectory.
 
 - **Craft a Compelling Narrative:** Your cover letter and interview responses should articulate a powerful story. Explain your motivation for the pivot, how your previous experience offers a unique perspective, and how your new skills and projects have prepared you for this role.
 

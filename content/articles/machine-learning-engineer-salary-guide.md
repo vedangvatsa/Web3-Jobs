@@ -3,7 +3,7 @@
 title: "Machine Learning Engineer Salary Guide"
 image: "https://picsum.photos/seed/ml-salary/1200/630"
 data-ai-hint: "person money chart"
-description: "A comprehensive guide to Machine Learning Engineer salaries. Discover the key factors that influence your earning potential, from experience and location."
+description: "A full guide to Machine Learning Engineer salaries. Discover the key factors that influence your earning potential, from experience and location."
 category: "Educational"
 
 publishedDate: "2026-03-11"
@@ -68,7 +68,7 @@ Within the field of ML, certain specializations are in higher demand than others
 
 ### Beyond the Base Salary: Understanding Total Compensation
 
-For mid-level and senior roles, especially at public companies or late-stage startups, your base salary is only one part of the picture. It's crucial to understand the components of your Total Compensation (TC).
+For mid-level and senior roles, especially at public companies or late-stage startups, your base salary is only one part of the picture. It's important to understand the components of your Total Compensation (TC).
 
 *   **Base Salary** The fixed amount you are paid.
 *   **Stock Options / Restricted Stock Units (RSUs)** This is a significant portion of your compensation at many tech companies. RSUs are grants of company stock that vest over a period of time (typically 4 years).

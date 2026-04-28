@@ -27,7 +27,7 @@ The most frequent type of rug pull occurs on **decentralized exchanges (DEXs)**.
 
 ### Recognizing Red Flags: Spotting Potential Rug Pulls
 
-Despite the sophistication of some rug pulls, many exhibit common warning signs. Identifying these red flags is crucial for **[Doing Your Own Research (DYOR)](/what-is-dyor-in-crypto)**.
+Despite the sophistication of some rug pulls, many exhibit common warning signs. Identifying these red flags is important for **[Doing Your Own Research (DYOR)](/what-is-dyor-in-crypto)**.
 
 | Warning Sign                | Description                                                                                                                          |
 |-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
@@ -79,7 +79,7 @@ Tailor your learning based on your target role:
 
 - **Engineers:** Focus on [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Develop skills in market analysis, partnership strategy, and understanding the regulatory landscape.
+- **Business Development:** Develop skills in market analysis, partnership strategy, and understanding the regulatory space.
 - **Community/Operations:** Learn about community building, Discord management, and governance processes.
 
 ### Step 3: Build Your Portfolio
@@ -112,7 +112,7 @@ Target roles that use both your existing expertise and new Web3 knowledge:
 Alex, a backend engineer with five years at a major tech company, dedicated three months to learning Solidity while maintaining his job. He contributed to an open-source protocol, which attracted the attention of a leading DeFi project. He transitioned into a new role with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi. Her grasp of financial products and Web3 technology made her a valuable asset. She secured a position at a top DeFi protocol within a short period.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi. Her grasp of financial products and Web3 technology made her a valuable asset. She secured a position at a top DeFi protocol within a short period.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through dedicated learning, networking, and building his [portfolio](/building-web3-portfolio), he secured a leading role in Developer Relations at a major blockchain platform, with compensation greatly surpassing his previous role.

@@ -3,7 +3,7 @@
 title: "An Introduction to Foundry: The Modern Solidity Toolkit"
 image: "https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "foundry software toolkit"
-description: "A guide for Ethereum developers on Foundry, the fast, portable, and Solidity-native development toolkit that is revolutionizing how we build and test."
+description: "A guide for Ethereum developers on Foundry, the fast, portable, and Solidity-native development toolkit that is changing how we build and test."
 category: "Getting Started"
 publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
@@ -115,7 +115,7 @@ The following table summarizes the performance differences between Foundry and H
 
 The growing preference for Foundry among developers stems from its integration of testing and development processes. By allowing developers to remain within the Solidity environment, Foundry reduces the risk of errors that arise from context switching. Additionally, the high speed of execution and testing significantly improves productivity.
 
-Furthermore, the built-in fuzz testing capabilities enhance the security of smart contracts. Developers can identify vulnerabilities early in the development process, reducing the likelihood of issues in production. 
+Also, the built-in fuzz testing capabilities enhance the security of smart contracts. Developers can identify vulnerabilities early in the development process, reducing the likelihood of issues in production. 
 
 ### Conclusion
 

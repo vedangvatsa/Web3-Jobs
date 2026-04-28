@@ -230,7 +230,7 @@ You can't achieve goals you don't actively track.
 - Adjust if needed.
 
 **Quarterly Deep Dives (45 min):**
-- Comprehensive progress assessment.
+- Full progress assessment.
 - What worked? What didn't?
 - Adjust next quarter's goals.
 

@@ -1,7 +1,7 @@
 ---
 
 title: "How to Ask Smart Questions as a New Employee"
-description: "Asking questions is crucial when you're new, but asking smart questions can accelerate your learning and build your reputation. This guide covers how to."
+description: "Asking questions is important when you're new, but asking smart questions can accelerate your learning and build your reputation. This guide covers how to."
 category: "Career Guides"
 image: "https://picsum.photos/seed/307/1200/630"
 data-ai-hint: "asking questions"
@@ -143,7 +143,7 @@ Instead of asking questions as they arise throughout the day, group them togethe
 
 ### 4. Know Who to Ask
 
-Different questions have different appropriate audiences. Asking the right person the right question is crucial.
+Different questions have different appropriate audiences. Asking the right person the right question is important.
 
 **Your Manager:**
 - Questions about priorities, performance expectations, and career development

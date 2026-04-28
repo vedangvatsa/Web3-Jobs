@@ -33,7 +33,7 @@ Upwork functions like a conventional job board. Clients list projects, and freel
 **Cons:**
 - **Competitive Nature:** Standing out can be challenging, especially for beginners; you often compete with numerous freelancers.
 - **Proposal Writing:** Crafting compelling proposals for each project can be time-consuming.
-- **Connects System:** Upwork utilizes a limited "Connects" system, which restricts the number of applications you can submit each month.
+- **Connects System:** Upwork uses a limited "Connects" system, which restricts the number of applications you can submit each month.
 - **Fees:** The fee structure can be steep, starting at a percentage for the first amount billed to a client, gradually decreasing with higher earnings.
 
 ### Fiverr: The Gig-Based Marketplace
@@ -83,7 +83,7 @@ The optimal platform for you depends on your goals and experience level.
 - You can offer a specific service that can be easily packaged.
 - You prefer a more passive approach where clients seek you out.
 
-Many freelancers utilize both platforms to maximize opportunities. For example, you might use Fiverr for smaller, one-off projects to supplement your income while pursuing larger clients on Upwork. Focus on creating a professional profile or gig, showcasing your best work, and delivering excellent service to your clients.
+Many freelancers use both platforms to maximize opportunities. For example, you might use Fiverr for smaller, one-off projects to supplement your income while pursuing larger clients on Upwork. Focus on creating a professional profile or gig, showcasing your best work, and delivering excellent service to your clients.
 
 ### FAQs
 
@@ -107,7 +107,7 @@ Sarah, a software developer, started on Upwork with minimal experience. She focu
 Juan began on Fiverr, offering logo design services. Initially, he priced his gigs low to attract clients. Once he accumulated positive reviews, he gradually increased his prices and introduced premium offerings. His success stemmed from consistent delivery and clear communication with clients, which encouraged repeat business.
 
 **Example 3: Maya Transitioning to Web3**
-Maya transitioned from a traditional marketing role to freelancing in the Web3 space. She utilized both platforms, offering content writing on Fiverr and complex project management on Upwork. Her ability to adapt her services to the unique demands of the Web3 industry allowed her to thrive in this competitive sector.
+Maya transitioned from a traditional marketing role to freelancing in the Web3 space. She used both platforms, offering content writing on Fiverr and complex project management on Upwork. Her ability to adapt her services to the unique demands of the Web3 industry allowed her to thrive in this competitive sector.
 
 ### Conclusion
 

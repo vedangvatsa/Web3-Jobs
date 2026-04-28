@@ -259,7 +259,7 @@ A: If you enjoy solving hard problems, learning continuously, and don't mind fai
 A: Helpful but not required. Self-teaching + public portfolio is increasingly accepted. Degree saves 1-2 years vs. self-teach.
 
 **Q8: Best learning resources?**
-A: Alchemy University (free), Ethernaut (gamified learning), Cryptozombies (Solidity), Paradigm research (advanced).
+A: Alchemy University (free), Ethernaut (gamified learning), Cryptozombies (Solidity), Model research (advanced).
 
 **Q9: How competitive is Code4rena?**
 A: Very, but fair. If you're skilled, you'll win money. Start with smaller contests, work up to large ones.
@@ -279,7 +279,7 @@ A: Absolutely. Knowledge from one path helps all others. Try, learn, adjust.
 - Alchemy University (free Web3 education)
 - Ethernaut (security-focused learning)
 - Cryptozombies (Solidity games)
-- Paradigm Research (advanced concepts)
+- Model Research (advanced concepts)
 
 ### Communities
 - Twitter: Ethereum ecosystem leaders

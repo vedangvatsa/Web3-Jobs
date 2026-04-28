@@ -47,7 +47,7 @@ Transitioning from an individual contributor to a manager represents a significa
 
 3. **Feedback – A Two-Way Gift**
 
-   Feedback must be specific, timely, and focused on behavior. Utilize the **Situation-Behavior-Impact (SBI)** model:
+   Feedback must be specific, timely, and focused on behavior. Use the **Situation-Behavior-Impact (SBI)** model:
 
    - **Situation:** “In the project report you submitted this morning…”
    - **Behavior:** “I noticed several data inconsistencies…”
@@ -63,7 +63,7 @@ Transitioning from an individual contributor to a manager represents a significa
    - Practice empathy by viewing situations from your team members' perspectives.
    - Address conflicts by focusing on interests rather than positions.
 
-   High EQ fosters a psychologically safe environment, enabling team members to take risks and share their ideas freely.
+   High EQ builds a psychologically safe environment, enabling team members to take risks and share their ideas freely.
 
 5. **Prioritization & Time Management – Protecting Your High-Impact Hours**
 
@@ -96,7 +96,7 @@ Transitioning from an individual contributor to a manager represents a significa
 
 8. **Remote & Hybrid Management**
 
-   Managing remote teams requires intentional strategies. Implement **asynchronous check-ins**, virtual coffee chats, and clear documentation. Utilize resources like **[Best Cities for Remote Workers](best-cities-for-remote-workers)** to identify optimal locations for remote talent.
+   Managing remote teams requires intentional strategies. Implement **asynchronous check-ins**, virtual coffee chats, and clear documentation. Use resources like **[Best Cities for Remote Workers](best-cities-for-remote-workers)** to identify optimal locations for remote talent.
 
 9. **Common Mistakes to Avoid**
 
@@ -134,7 +134,7 @@ Mastering these leadership skills is vital for success across various industries
 | **Technical Foundation**     | A basic understanding of relevant technical concepts is essential.       |
 | **Communication Excellence** | Clear articulation of complex ideas is a rare and valuable skill.         |
 | **Problem-Solving Methodology** | Systematically define problems, research solutions, evaluate options, and implement. |
-| **Learning Agility**        | The ability to quickly acquire new skills is crucial in fast-paced environments. |
+| **Learning Agility**        | The ability to quickly acquire new skills is important in fast-paced environments. |
 | **Emotional Intelligence**   | Managing your own emotions and understanding others enhances team effectiveness. |
 
 ## Development Roadmap
@@ -170,7 +170,7 @@ Web3 teams often operate in distributed settings and require agility. These skil
 
 - **Productivity:** Enhanced communication and technical skills lead to faster product delivery.
 - **Adaptability:** Strong problem-solving and learning agility facilitate understanding through ambiguity.
-- **Relationship Building:** Emotional intelligence fosters trust among remote colleagues.
+- **Relationship Building:** Emotional intelligence builds trust among remote colleagues.
 - **Influence:** Effective communication paired with emotional intelligence allows for influence without formal authority.
 
 ### In Your Career Progression

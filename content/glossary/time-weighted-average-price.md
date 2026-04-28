@@ -77,11 +77,11 @@ TWAP is a standard tool for large execution.
 
 Execution roles:
 
-**Execution Engineers** earn competitive salaries.
+- **Execution Engineers** earn competitive salaries.
 
-**Quant Traders** earn competitive salaries.
+- **Quant Traders** earn competitive salaries.
 
-**Oracle Engineers** earn competitive salaries.
+- **Oracle Engineers** earn competitive salaries.
 
 ## Best Practices
 

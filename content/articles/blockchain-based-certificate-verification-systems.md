@@ -54,7 +54,7 @@ While still evolving, blockchain-based certificate verification is gaining momen
 | Professional Training       | Certificates for employee training     | Various corporations and training bodies|
 | Government and NGOs        | Digital passports, refugee identity solutions | Various government agencies            |
 
-Notable universities like **MIT** have pioneered the issuance of digital diplomas on the blockchain. Corporations are also utilizing blockchain technology to provide verifiable certificates for employee training and professional development. Government agencies and NGOs explore applications ranging from digital passports to identity systems for refugees.
+Notable universities like **MIT** have pioneered the issuance of digital diplomas on the blockchain. Corporations are also using blockchain technology to provide verifiable certificates for employee training and professional development. Government agencies and NGOs explore applications ranging from digital passports to identity systems for refugees.
 
 Blockchain-based verification systems enhance how we manage vital credentials. They create a secure, transparent, and user-controlled environment, supporting a more trustworthy foundation for educational and professional endeavors.
 
@@ -65,7 +65,7 @@ The [Web3](/what-is-web3) sector is witnessing rapid growth, with demand for qua
 - **Higher Compensation:** Salaries in Web3 typically exceed those in Web2 by a significant margin.
 - **Equity and Token Allocations:** Many roles include substantial equity and token options.
 - **Remote Work Flexibility:** Many Web3 companies operate fully remotely, offering lifestyle flexibility.
-- **Innovative Technology:** Professionals work on technology reshaping finance, governance, and digital ownership.
+- **New Technology:** Professionals work on technology reshaping finance, governance, and digital ownership.
 
 The demand for talent is particularly high in areas like smart contract development, protocol security, and tokenomics design. Qualified candidates often receive multiple offers shortly after entering the market. For those contemplating a career shift, the combination of competitive compensation and growth potential positions Web3 as a compelling sector for the future.
 
@@ -98,7 +98,7 @@ Spending 4-8 weeks on blockchain fundamentals is essential. Key areas to underst
 Tailor your skill development to your desired role:
 - **Engineers:** Focus on [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries like ethers.js or web3.js.
 - **Product Managers:** Learn about token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Understand market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Understand market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Develop Your Portfolio

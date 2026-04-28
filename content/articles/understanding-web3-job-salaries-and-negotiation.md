@@ -20,7 +20,7 @@ Your compensation offer will generally consist of three primary components. Your
 
 1. **Base Salary:**
    - **Definition:** The guaranteed income you receive in fiat currency (e.g., USD or EUR).
-   - **Considerations:** This component is risk-free and should sufficiently cover your living expenses and financial obligations, regardless of fluctuations in the crypto market. Avoid accepting a base salary that does not meet your needs, regardless of the token package's potential. Utilize our [Web3 Salary Calculator](/salary-calculator) to establish a baseline for your salary expectations.
+   - **Considerations:** This component is risk-free and should sufficiently cover your living expenses and financial obligations, regardless of fluctuations in the crypto market. Avoid accepting a base salary that does not meet your needs, regardless of the token package's potential. Use our [Web3 Salary Calculator](/salary-calculator) to establish a baseline for your salary expectations.
 
 2. **Equity (Stock Options):**
    - **Definition:** The right to purchase shares of the company at a predetermined price, common in startups and often included in Web3 companies that have secured venture capital.
@@ -109,7 +109,7 @@ Engaging with the Web3 community is essential:
 
 ### Step 5: Apply Strategically
 
-Target roles that utilize your existing skills along with new Web3 knowledge:
+Target roles that use your existing skills along with new Web3 knowledge:
 - If you are a backend engineer, pursue blockchain infrastructure roles.
 - If you are a PM, seek protocol product roles.
 - If you work in sales/business, focus on Web3 business development opportunities.

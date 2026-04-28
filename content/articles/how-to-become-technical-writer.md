@@ -1,7 +1,7 @@
 ---
 
 title: "How to Become a Technical Writer: A Step-by-Step Guide"
-description: "A comprehensive guide on how to start a career in technical writing. Learn the essential skills, tools, and steps you need to take to become a successful."
+description: "A full guide on how to start a career in technical writing. Learn the essential skills, tools, and steps you need to take to become a successful."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "person writing"
 category: "Career Guides"
@@ -16,7 +16,7 @@ The demand for skilled technical writers continues to rise as businesses increas
 
 ### Step 1: Understand the Core Role of a Technical Writer
 
-Understanding the primary responsibilities of a technical writer is crucial before starting your journey. Technical writers serve as a bridge between subject matter experts, such as engineers and product managers, and end-users, which can include developers, customers, and internal staff.
+Understanding the primary responsibilities of a technical writer is important before starting your journey. Technical writers serve as a bridge between subject matter experts, such as engineers and product managers, and end-users, which can include developers, customers, and internal staff.
 
 **Key Responsibilities:**
 - Interviewing subject matter experts to collect pertinent information.
@@ -47,7 +47,7 @@ Empathy for the user is vital. You need to understand their knowledge level, goa
 Technical writers often resemble detectives in their work. You must excel at gathering information, interviewing busy engineers, and synthesizing data from various sources.
 
 **5. Tool Proficiency:**
-Becoming familiar with industry-standard tools is crucial.
+Becoming familiar with industry-standard tools is important.
 - **Docs-as-Code:** Many documentation teams adopt a "docs-as-code" approach, which involves writing documentation in a lightweight markup language such as Markdown and managing it with Git.
 - **Common Tools:** Learn to use Git, Markdown, a code editor like Visual Studio Code, and a static site generator such as Docusaurus, MkDocs, or Hugo.
 
@@ -97,7 +97,7 @@ Create a tailored plan that aligns with your circumstances. Consider your curren
 Avoid attempting to change everything at once. Make small, incremental changes and monitor their effectiveness. This approach encourages sustainable improvement.
 
 **Step 5: Measure and Adjust**  
-Track your progress. Are you achieving the desired results? Modify your strategy based on feedback and outcomes. This mindset fosters continuous improvement.
+Track your progress. Are you achieving the desired results? Modify your strategy based on feedback and outcomes. This mindset builds continuous improvement.
 
 ### Real-World Examples
 

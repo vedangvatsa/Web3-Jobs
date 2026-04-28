@@ -103,13 +103,13 @@ Alternatives to wrapping emerging.
 
 Wrapped token infrastructure creates roles:
 
-**Bridge Developers** building wrappers.
+- **Bridge Developers** building wrappers.
 
-**Custodian Operators** managing collateral.
+- **Custodian Operators** managing collateral.
 
-**Smart Contract Engineers** implementing wrapping.
+- **Smart Contract Engineers** implementing wrapping.
 
-**Risk Managers** managing custodian risk.
+- **Risk Managers** managing custodian risk.
 
 ## Best Practices
 

@@ -61,7 +61,7 @@ Research the company’s tech stack before applying. Review their documentation,
 
 ### 6. Don't: Use Buzzwords Without Substance
 
-Phrases like "passionate about decentralization" or "Web3 native" lack meaning without supporting evidence. Many applicants claim passion, but what sets you apart is proof: the code you've written, the projects you've completed, and the communities you've fostered.
+Phrases like "passionate about decentralization" or "Web3 native" lack meaning without supporting evidence. Many applicants claim passion, but what sets you apart is proof: the code you've written, the projects you've completed, and the communities you've built.
 
 Eliminate these common phrases:
 - "Passionate blockchain enthusiast"

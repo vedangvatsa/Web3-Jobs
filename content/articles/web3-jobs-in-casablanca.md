@@ -19,7 +19,7 @@ Casablanca's Web3 ecosystem builds on the city’s strengths in finance and comm
 
 - **Financial Hub:** Casablanca hosts the Casablanca Stock Exchange and the headquarters of Morocco's largest banks. This concentration of financial expertise lays a strong foundation for the growth of [DeFi](/what-is-defi) and regulated digital asset platforms.
 - **Emphasis on FinTech and Payments:** Morocco's FinTech sector is expanding, particularly in digital payments and financial inclusion. The potential for blockchain technology to enhance efficiency and reduce costs in cross-border payments and remittances is significant, especially for the large Moroccan diaspora in Europe.
-- **Trade and Logistics Center:** As a leading port city, Casablanca acts as a crucial hub for international trade. This status naturally opens up opportunities for enterprise blockchain solutions in supply chain management and trade finance, enhancing transparency and efficiency.
+- **Trade and Logistics Center:** As a leading port city, Casablanca acts as a important hub for international trade. This status naturally opens up opportunities for enterprise blockchain solutions in supply chain management and trade finance, enhancing transparency and efficiency.
 - **Community Engagement:** Although the developer community is still small, grassroots interest in Web3 is growing. An increasing number of meetups and online forums are dedicated to blockchain education and networking.
 
 ### In-Demand Roles and Salary Insights
@@ -40,9 +40,9 @@ The Web3 job market in Casablanca is still taking shape, with most opportunities
 
 ### Building a Web3 Career in Casablanca
 
-1. **Utilize Your TradFi/FinTech Experience:** Use your background in banking, finance, or payments. Highlight how your skills in risk management, compliance, or product development can transition into the digital asset space.
+1. **Use Your TradFi/FinTech Experience:** Use your background in banking, finance, or payments. Highlight how your skills in risk management, compliance, or product development can transition into the digital asset space.
 2. **Establish Regional Expertise:** Position yourself as an authority on the Web3 opportunities at the intersection of Africa and Europe. Develop content or projects that focus on specific use cases, such as Morocco-Europe remittances or trade finance.
-3. **Enhance Language Proficiency:** Fluency in French and Arabic is essential for most business roles in Morocco. Proficiency in English is crucial for engaging with the global Web3 community and accessing [remote work](/remote-work-in-web3).
+3. **Enhance Language Proficiency:** Fluency in French and Arabic is essential for most business roles in Morocco. Proficiency in English is important for engaging with the global Web3 community and accessing [remote work](/remote-work-in-web3).
 4. **Cultivate Community Leadership:** With a small local community, there is ample opportunity for emerging leaders. Start a meetup, create a Telegram group for local developers, or begin a blog that translates global Web3 news for a Moroccan audience. Building your network and reputation in this way can be highly beneficial.
 
 ### Salary Overview
@@ -160,7 +160,7 @@ Banks are slow to adopt blockchain technology. Start with pilot projects that de
 Customs and port authorities can be resistant to change. First movers have the chance to capture a significant market share.
 
 **Internet Stability**  
-Internet speeds in Casablanca typically range from moderate to good. Utilize tech hubs with better infrastructure and maintain a backup mobile hotspot.
+Internet speeds in Casablanca typically range from moderate to good. Use tech hubs with better infrastructure and maintain a backup mobile hotspot.
 
 ### 90-Day Action Plan
 

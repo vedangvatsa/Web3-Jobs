@@ -95,17 +95,17 @@ Consensus security is an ongoing challenge.
 
 Consensus creates roles:
 
-**Consensus Researchers** study mechanisms.
+- **Consensus Researchers** study mechanisms.
 
-**Protocol Engineers** implement consensus.
+- **Protocol Engineers** implement consensus.
 
-**Validator Operators** run validators.
+- **Validator Operators** run validators.
 
-**Network Engineers** manage consensus networks.
+- **Network Engineers** manage consensus networks.
 
-**Security Researchers** analyze attacks.
+- **Security Researchers** analyze attacks.
 
-**Cryptography Experts** improve consensus.
+- **Cryptography Experts** improve consensus.
 
 ## Best Practices
 

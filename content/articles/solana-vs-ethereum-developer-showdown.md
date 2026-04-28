@@ -18,7 +18,7 @@ This article analyzes developer activity on Solana and Ethereum, moving beyond s
 
 ### The Metrics: Measuring Developer Activity
 
-To evaluate developer activity, we utilize several key metrics, each offering unique insights:
+To evaluate developer activity, we use several key metrics, each offering unique insights:
 
 | Metric                       | Description                                                                                         |
 |------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -93,7 +93,7 @@ The ability to articulate complex ideas clearly is a valuable asset. Regular pra
 Adopting a systematic approach to problem-solving involves defining problems, researching solutions, evaluating options, implementing them, and measuring outcomes. This framework applies to both technical and non-technical challenges.
 
 **Learning Agility**  
-In dynamic fields, being able to acquire new skills quickly is invaluable. Engaging in hands-on learning, rather than passive consumption of content, fosters this agility.
+In dynamic fields, being able to acquire new skills quickly is invaluable. Engaging in hands-on learning, rather than passive consumption of content, builds this agility.
 
 **Emotional Intelligence**  
 Being aware of and managing your emotions, as well as understanding others' emotions, significantly influences effectiveness in teamwork and negotiations.

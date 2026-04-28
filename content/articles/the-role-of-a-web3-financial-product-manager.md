@@ -38,7 +38,7 @@ In a financial protocol that manages substantial capital, security is paramount.
 
 The responsibilities of a Web3 FPM include:
 
-- **Protocol Design**: Collaborate with researchers and engineers to create the core mechanics of new financial protocols, such as Automated Market Makers or innovative derivatives platforms.
+- **Protocol Design**: Collaborate with researchers and engineers to create the core mechanics of new financial protocols, such as Automated Market Makers or new derivatives platforms.
 - **Risk Management**: Model potential financial risks associated with the protocol, including smart contract vulnerabilities, economic attacks, and oracle failures.
 - **Roadmap Prioritization**: Define the product roadmap, balancing the introduction of new features with the critical need for security and stability.
 - **Go-to-Market Strategies**: Formulate launch strategies for new protocols, focusing on attracting initial liquidity and establishing a network effect.
@@ -54,7 +54,7 @@ The responsibilities of a Web3 FPM include:
    - Create a Dune Analytics dashboard to track key financial metrics.
    - Draft a governance proposal for a major DeFi [DAO](/what-is-a-dao) aimed at enhancing risk parameters.
 
-The role of a Web3 Financial Product Manager is both challenging and rewarding. It provides an opportunity to shape a more transparent and efficient financial system through innovative product design.
+The role of a Web3 Financial Product Manager is both challenging and rewarding. It provides an opportunity to shape a more transparent and efficient financial system through new product design.
 
 ### The Web3 Opportunity
 
@@ -79,7 +79,7 @@ Invest 4-8 weeks to learn the fundamentals of [blockchain](/what-is-a-blockchain
 
 - The workings of blockchain technology
 - Variations in blockchain architectures
-- Utilization of smart contracts
+- Use of smart contracts
 - Understanding DeFi, NFTs, and DAOs
 - Familiarity with the current Web3 ecosystem and key players
 
@@ -127,7 +127,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 #### Product Manager’s Shift to Web3
 
-Jessica, a product manager from traditional finance, utilized her expertise in DeFi. Her understanding of financial products and Web3 technology made her highly valuable. She secured a position at a leading DeFi protocol within a few weeks.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her understanding of financial products and Web3 technology made her highly valuable. She secured a position at a leading DeFi protocol within a few weeks.
 
 #### Career Changer’s Journey
 
@@ -154,7 +154,7 @@ The technical learning curve can be steep, particularly for non-developers. Howe
 ### FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**  
-A: No. The Web3 ecosystem needs a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal counsel, and operations are in high demand. Existing skills can transfer directly; understanding the Web3 context, such as how wallets function, what DAOs are, and the significance of decentralization, is crucial. Most hiring managers prioritize domain expertise combined with genuine interest in the space over pure blockchain knowledge.
+A: No. The Web3 ecosystem needs a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal counsel, and operations are in high demand. Existing skills can transfer directly; understanding the Web3 context, such as how wallets function, what DAOs are, and the significance of decentralization, is important. Most hiring managers prioritize domain expertise combined with genuine interest in the space over pure blockchain knowledge.
 
 **Q: How much can I earn in Web3?**  
 A: Compensation in Web3 consistently surpasses Web2. Base salaries typically range higher than Web2 equivalents, especially for roles like Solidity engineers and smart contract auditors due to the scarcity of talent. Total compensation packages often include signing bonuses, equity stakes in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn total compensation in the upper range of six figures. Even non-technical roles see notable compensation premiums compared to Web2.

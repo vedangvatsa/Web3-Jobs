@@ -108,15 +108,15 @@ DVT enables more sustainable staking economics through risk distribution.
 
 DVT creates roles:
 
-**DVT Engineers** build DVT systems.
+- **DVT Engineers** build DVT systems.
 
-**Validator Operators** run distributed validators.
+- **Validator Operators** run distributed validators.
 
-**Cryptography Experts** optimize threshold schemes.
+- **Cryptography Experts** optimize threshold schemes.
 
-**Staking Infrastructure Engineers** work on staking systems.
+- **Staking Infrastructure Engineers** work on staking systems.
 
-**Risk Managers** assess DVT risks.
+- **Risk Managers** assess DVT risks.
 
 ## Best Practices
 

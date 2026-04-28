@@ -38,7 +38,7 @@ For developers aiming to create applications on [Ethereum](/what-is-ethereum) or
 While Solidity excels at the application layer, Rust is increasingly the language of choice for building blockchains and their core infrastructure.
 
 - **Primary Use Case:** Developing high-performance, secure Layer 1 blockchains and their foundational protocols.
-- **Ecosystems:** Rust is utilized in Solana, Polkadot, Near Protocol, and Celestia.
+- **Ecosystems:** Rust is used in Solana, Polkadot, Near Protocol, and Celestia.
 - **Popularity:** Rust prioritizes safety and performance. Its compiler enforces strict memory safety rules at compile time, preventing many common bugs that could be detrimental in a [blockchain](/what-is-a-blockchain) environment.
 
 ### Pros and Cons
@@ -57,7 +57,7 @@ JavaScript and TypeScript skills are indispensable in the Web3 environment. Ever
 
 - **Primary Use Case:** Developing the frontend for dApps, interacting with [crypto wallets](/how-to-choose-a-crypto-wallet), and creating backend services for off-chain components.
 - **Ecosystems:** JavaScript is essential across all Web3 projects, as every decentralized application needs a frontend.
-- **Importance:** Users interact with dApps through web interfaces written in JavaScript. Popular development tools, such as Hardhat, utilize JavaScript/TypeScript for testing and deployment scripts.
+- **Importance:** Users interact with dApps through web interfaces written in JavaScript. Popular development tools, such as Hardhat, use JavaScript/TypeScript for testing and deployment scripts.
 
 ### Pros and Cons
 

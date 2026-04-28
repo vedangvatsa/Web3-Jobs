@@ -68,10 +68,10 @@ Here’s how the attack unfolds:
 Implementing a strict ordering of operations, known as the **Checks-Effects-Interactions pattern**, can effectively prevent reentrancy.
 
 1. **Checks**: First, perform all validation checks (e.g., using `require`). Is the user authorized? Do they have sufficient funds?
-2. **Effects**: Next, make all changes to the contract's state *before* interacting with external contracts. This step is crucial. Update balances, change ownership, etc.
+2. **Effects**: Next, make all changes to the contract's state *before* interacting with external contracts. This step is important. Update balances, change ownership, etc.
 3. **Interactions**: Finally, once all internal states are updated, make external calls (e.g., sending Ether, invoking another contract).
 
-Here’s a secure version of the `withdraw` function utilizing this pattern:
+Here’s a secure version of the `withdraw` function using this pattern:
 
 ```solidity
 // SECURE CODE
@@ -179,7 +179,7 @@ A: Web3 organizations differ from traditional companies in ways that amplify the
 A: Yes, it is advisable to adopt these strategies within your existing workload. Focus on integrating two or three practices into your daily responsibilities rather than attempting a complete overhaul. The cumulative effect of small, consistent improvements often surpasses sporadic major efforts.
 
 **Q: What additional resources can deepen my understanding?**  
-A: Explore specific articles and resources that delve into smart contract security. A highly effective approach is to find a mentor or peer group excelling in this field. Observing their practices can provide insights that written material cannot convey. Engage with Web3 communities on platforms like Discord and Telegram, where experienced practitioners often share their knowledge. Structured accountability, such as committing to a timeline with a peer to review your progress, can accelerate your growth.
+A: Explore specific articles and resources that look into smart contract security. A highly effective approach is to find a mentor or peer group excelling in this field. Observing their practices can provide insights that written material cannot convey. Engage with Web3 communities on platforms like Discord and Telegram, where experienced practitioners often share their knowledge. Structured accountability, such as committing to a timeline with a peer to review your progress, can accelerate your growth.
 
 ### Conclusion
 

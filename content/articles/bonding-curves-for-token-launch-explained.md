@@ -60,7 +60,7 @@ Despite the benefits, bonding curve launches carry inherent risks:
 
 ### Real-World Applications of Bonding Curves
 
-Bonding curves have been successfully implemented across various projects. The following table illustrates examples of notable projects that utilized bonding curves, their corresponding token symbols, and the type of collateral used.
+Bonding curves have been successfully implemented across various projects. The following table illustrates examples of notable projects that used bonding curves, their corresponding token symbols, and the type of collateral used.
 
 | Project Name       | Token Symbol | Collateral Type | Launch Date  |
 |--------------------|--------------|------------------|--------------|
@@ -98,7 +98,7 @@ Grasping bonding curves is essential for professionals in the cryptocurrency spa
 
 4. **Giving Up Too Soon:** The initial discomfort of change often leads to significant growth. Persevere through challenges to achieve better outcomes.
 
-5. **Not Tracking Progress:** Measuring your progress is crucial for improvement. Keep track of metrics that reflect your growth.
+5. **Not Tracking Progress:** Measuring your progress is important for improvement. Keep track of metrics that reflect your growth.
 
 ### FAQ
 

@@ -9,7 +9,7 @@ lastUpdated: "2026-04-27"
 
 ### 1. Observe – The Silent Curriculum
 
-Observing your new workplace provides crucial insights into its culture. Start by attending meetings. Pay attention to the frequency, such as daily stand-ups versus weekly syncs. Note the formality of these meetings and how decisions get made, whether through consensus or top-down directives. For instance, does the team maintain a shared agenda? Are decisions documented for future reference?
+Observing your new workplace provides important insights into its culture. Start by attending meetings. Pay attention to the frequency, such as daily stand-ups versus weekly syncs. Note the formality of these meetings and how decisions get made, whether through consensus or top-down directives. For instance, does the team maintain a shared agenda? Are decisions documented for future reference?
 
 Next, focus on communication channels. Identify the primary tools your team uses, such as Slack, Microsoft Teams, or email. Observe the tone of interactions; some teams use a casual style with emojis and light banter, while others maintain a strictly professional demeanor.
 
@@ -53,7 +53,7 @@ Be intentional in your efforts. Attend all optional virtual social gatherings, e
 
 ### Bottom Line
 
-Understanding company culture is essential for thriving in your new role. By observing, listening, asking insightful questions, and utilizing documentation, you can decode the organizational culture efficiently. This knowledge will enable you to contribute meaningfully and establish a foundation for long-term success.
+Understanding company culture is essential for thriving in your new role. By observing, listening, asking insightful questions, and using documentation, you can decode the organizational culture efficiently. This knowledge will enable you to contribute meaningfully and establish a foundation for long-term success.
 
 ## Why These Skills Matter
 
@@ -107,7 +107,7 @@ Web3 teams often work in distributed environments that demand adaptability and c
 |-------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | Technical + Communication | Shipping products faster                                                                          | Enhanced collaboration leads to quicker product iterations and releases.                                  |
 | Problem-Solving + Learning Agility | Navigating ambiguity with confidence                                                         | Ability to address unexpected challenges swiftly, maintaining project momentum.                          |
-| Emotional Intelligence + Communication | Building trust with colleagues                                                               | Strong interpersonal relationships foster collaboration and innovation within teams.                      |
+| Emotional Intelligence + Communication | Building trust with colleagues                                                               | Strong interpersonal relationships build collaboration and innovation within teams.                      |
 | Communication + EI      | Influencing without authority                                                                     | Effective communication allows you to advocate for ideas and gain buy-in across the organization.       |
 
 ### In Your Career Progression

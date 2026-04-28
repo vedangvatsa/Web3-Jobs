@@ -18,7 +18,7 @@ The chosen problem for this demonstration does not need to have practical applic
 
 ### The Landmark 2019 Experiment by Google
 
-The term gained substantial visibility in 2019 when Google released a paper in the journal *Nature*, claiming to have achieved quantum supremacy. Their research team, utilizing a 53-qubit quantum processor named "Sycamore," completed a highly specific computational task.
+The term gained substantial visibility in 2019 when Google released a paper in the journal *Nature*, claiming to have achieved quantum supremacy. Their research team, using a 53-qubit quantum processor named "Sycamore," completed a highly specific computational task.
 
 **The Task**: Google aimed to sample the output from a random quantum circuit. This involved sending energy through an intricate arrangement of quantum gates. Due to quantum phenomena, such as superposition and interference, the result is a complex probability distribution of various bitstrings. The quantum computer's mission was to execute this experiment and generate a sample set from that output distribution.
 
@@ -46,7 +46,7 @@ Understanding what quantum supremacy does not entail is equally important.
 
 The term "supremacy" can convey a sense of competition that may be misinterpreted as implying that quantum computers are superior in every aspect. Consequently, many researchers prefer the term "quantum advantage." This term refers to the point at which a quantum computer can solve real-world, commercially relevant problems more swiftly or efficiently than the best classical computer.
 
-Achieving quantum advantage represents the next significant objective for the field. This would involve utilizing a quantum computer to tackle practical challenges, such as discovering new pharmaceuticals, designing more efficient battery materials, or optimizing complex financial models. While we have not yet reached this point, achieving quantum supremacy was a vital step toward that goal.
+Achieving quantum advantage represents the next significant objective for the field. This would involve using a quantum computer to tackle practical challenges, such as discovering new pharmaceuticals, designing more efficient battery materials, or optimizing complex financial models. While we have not yet reached this point, achieving quantum supremacy was a vital step toward that goal.
 
 ### Frequently Asked Questions
 
@@ -96,7 +96,7 @@ Consider the pharmaceutical industry. Quantum computers could significantly acce
 
 ### Application 2: Material Science
 
-In materials science, quantum computers may facilitate the design of new materials with unique properties. For instance, researchers could utilize quantum algorithms to create high-efficiency solar cells or superconductor materials that exhibit zero resistance at higher temperatures than currently possible.
+In materials science, quantum computers may facilitate the design of new materials with unique properties. For instance, researchers could use quantum algorithms to create high-efficiency solar cells or superconductor materials that exhibit zero resistance at higher temperatures than currently possible.
 
 ### Application 3: Financial Modeling
 
@@ -115,13 +115,13 @@ Avoid jumping to conclusions based on initial research. Quantum computing is a c
 Do not overlook the importance of collaboration. Engaging with peers and experts can provide valuable insights and enhance your learning experience.
 
 3. **Focusing Solely on Theory**  
-Practical application is crucial. Strive to engage with real-world examples and projects to solidify your understanding.
+Practical application is important. Strive to engage with real-world examples and projects to solidify your understanding.
 
 4. **Ignoring Emerging Research**  
 Stay informed about the latest developments in quantum computing. This field evolves rapidly, and keeping up with new research can provide significant advantages.
 
 5. **Underestimating the Importance of Error Correction**  
-Recognize that error correction is a vital area of research in quantum computing. Understanding its implications is crucial for grasping the technology's future potential.
+Recognize that error correction is a vital area of research in quantum computing. Understanding its implications is important for grasping the technology's future potential.
 
 ## Conclusion
 

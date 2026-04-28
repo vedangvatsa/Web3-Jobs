@@ -34,7 +34,7 @@ The final outcome of an audit is a report detailing findings, categorized by sev
 The mindset of an auditor significantly differs from that of a developer:
 
 - A **developer** approaches a project constructively, asking, "How can I build this to work as intended?"
-- An **auditor** adopts an adversarial stance, questioning, "How can I break this in the most innovative way?"
+- An **auditor** adopts an adversarial stance, questioning, "How can I break this in the most new way?"
 
 Auditors must remain vigilant, skeptical, and relentlessly curious. They anticipate potential attacks by considering not only the intended functionality of the code but also the myriad ways it could be misused.
 
@@ -42,7 +42,7 @@ Auditors must remain vigilant, skeptical, and relentlessly curious. They anticip
 
 To excel as a smart contract auditor, individuals need a unique mix of technical expertise and creative problem-solving abilities.
 
-1. **Expertise in [Solidity](/best-programming-languages-for-blockchain-development) and EVM:** An in-depth understanding of the Solidity programming language and the Ethereum Virtual Machine (EVM) is crucial. This includes knowledge of gas costs for various opcodes, storage and memory management, and the implications of `delegatecall`.
+1. **Expertise in [Solidity](/best-programming-languages-for-blockchain-development) and EVM:** An in-depth understanding of the Solidity programming language and the Ethereum Virtual Machine (EVM) is important. This includes knowledge of gas costs for various opcodes, storage and memory management, and the implications of `delegatecall`.
    
 2. **Familiarity with Common Attack Vectors:** Auditors must have a strong understanding of potential hacking techniques applicable to smart contracts, including re-entrancy, integer overflows, oracle manipulation, and signature replay attacks.
 
@@ -110,7 +110,7 @@ Create demonstrable evidence of your Web3 expertise:
 
 #### Step 4: Network Within Web3
 
-Engagement within the Web3 community is crucial:
+Engagement within the Web3 community is important:
 
 - Join Discord servers for projects of interest
 - Attend Web3 conferences such as Consensus, Devcon, and ETHDenver
@@ -134,7 +134,7 @@ Alex, a backend engineer with five years of experience at a FAANG company, dedic
 
 ### Product Manager's Journey in Web3
 
-Jessica, previously a product manager in traditional finance, utilized her industry knowledge of financial products in the DeFi sector. Her expertise combined with an understanding of Web3 technology allowed her to secure a position at a prominent DeFi protocol within four weeks.
+Jessica, previously a product manager in traditional finance, used her industry knowledge of financial products in the DeFi sector. Her expertise combined with an understanding of Web3 technology allowed her to secure a position at a prominent DeFi protocol within four weeks.
 
 ### Career Change Success Story
 

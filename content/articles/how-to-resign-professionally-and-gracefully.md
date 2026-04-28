@@ -120,7 +120,7 @@ Create a tailored plan that reflects your unique situation. Consider factors suc
 
 #### Step 4: Implement Gradually
 
-Avoid attempting to change everything at once. Start with one small adjustment and build from there. Track your outcomes to determine what works and what does not. This incremental approach fosters sustainable progress.
+Avoid attempting to change everything at once. Start with one small adjustment and build from there. Track your outcomes to determine what works and what does not. This incremental approach builds sustainable progress.
 
 #### Step 5: Measure and Adjust
 

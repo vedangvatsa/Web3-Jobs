@@ -50,7 +50,7 @@ These hedging strategies add complexity and cost. You're essentially paying a pr
 
 Some protocols offer single-sided staking or liquidity provision to avoid impermanent loss. Bancor pioneered impermanent loss protection, using protocol-owned liquidity and BNT token inflation to compensate providers for losses. However, this model proved unsustainable during the bear market, and Bancor paused its IL protection.
 
-Other protocols like Tokemak use specialized mechanics to enable single-sided deposits. These approaches shift or redistribute the impermanent loss risk rather than eliminating it. Understanding how each protocol manages this risk is crucial before depositing funds.
+Other protocols like Tokemak use specialized mechanics to enable single-sided deposits. These approaches shift or redistribute the impermanent loss risk rather than eliminating it. Understanding how each protocol manages this risk is important before depositing funds.
 
 ## Stablecoin Pools
 

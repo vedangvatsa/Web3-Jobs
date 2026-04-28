@@ -42,7 +42,7 @@ In a company Discord, posting GM indicates the start of one’s workday. It acts
 
 On crypto Twitter, GM threads have become a tradition. One person posts GM, and others respond, creating a collective moment of acknowledgment. These threads can garner significant replies as people worldwide connect with one another.
 
-In community Discord servers, GM posts help maintain engagement and activity. Participants from various time zones post GM upon waking, fostering a sense of a 24-hour global community rather than a localized 9-5 organization.
+In community Discord servers, GM posts help maintain engagement and activity. Participants from various time zones post GM upon waking, building a sense of a 24-hour global community rather than a localized 9-5 organization.
 
 ## The Deeper Meaning: Crypto Optimism
 
@@ -50,15 +50,15 @@ GM functions as shorthand for the broader optimistic philosophy prevalent in the
 
 Despite challenges such as hacks, scams, and failed projects, crypto builders remain hopeful. Each day presents a new chance to create something better. GM embodies this outlook.
 
-This optimism is not naive. Many in the crypto space recognize the risks involved. However, they believe that building innovative financial and technological systems is worthwhile. GM serves as a daily affirmation of this belief.
+This optimism is not naive. Many in the crypto space recognize the risks involved. However, they believe that building new financial and technological systems is worthwhile. GM serves as a daily affirmation of this belief.
 
 For outsiders, especially those who have faced setbacks in crypto or harbor skepticism, GM may appear trivial. Exchanging morning greetings seems simple enough. Yet, for those engaged in the space, it carries great significance. GM reminds them that they belong to a community of believers committed to the vision despite obstacles.
 
 ## GM and Community Building
 
-Understanding the significance of GM is crucial for anyone working in Web3, as it illuminates community dynamics.
+Understanding the significance of GM is important for anyone working in Web3, as it illuminates community dynamics.
 
-Projects aiming to build strong communities actively utilize GM. They encourage team members and community participants to post GM, creating daily engagement that signals community vitality.
+Projects aiming to build strong communities actively use GM. They encourage team members and community participants to post GM, creating daily engagement that signals community vitality.
 
 When a project's Discord ceases to see GM posts, it often indicates declining engagement. A lack of GM suggests diminishing activity and vibrancy within the community.
 
@@ -151,7 +151,7 @@ Target roles that align with your existing skills while incorporating your new W
 Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while continuing his day job. He contributed to an open-source protocol, which attracted the attention of a major DeFi project. Alex successfully transitioned with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
-Jessica, a PM from traditional finance, utilized her expertise in DeFi. Her understanding of financial products, combined with knowledge of Web3 technology, made her highly sought after. She secured a role at a leading DeFi protocol within a short period.
+Jessica, a PM from traditional finance, used her expertise in DeFi. Her understanding of financial products, combined with knowledge of Web3 technology, made her highly sought after. She secured a role at a leading DeFi protocol within a short period.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) development, he landed a position leading Developer Relations at a major blockchain platform, with compensation that far exceeded his previous salary.
@@ -160,7 +160,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 
 **Volatility Risk:** The inherent volatility of the crypto market can affect job stability, particularly at early-stage startups. Professionals entering Web3 should maintain 6-12 months of living expenses in reserve, negotiate base salaries in fiat currency instead of tokens, and ideally join projects with established revenue models or substantial treasury backing.
 
-**Regulatory Uncertainty:** The regulatory landscape for blockchain companies is still evolving across major jurisdictions. Before joining a project, confirm that the team has competent legal counsel and is proactively engaging with regulators rather than operating in legal grey areas.
+**Regulatory Uncertainty:** The regulatory space for blockchain companies is still evolving across major jurisdictions. Before joining a project, confirm that the team has competent legal counsel and is proactively engaging with regulators rather than operating in legal grey areas.
 
 **Due Diligence:** Not every Web3 project is legitimate. Research the founding team's track record, review audit reports for smart contracts, verify on-chain treasury holdings, and speak with current or former team members before accepting any offers.
 

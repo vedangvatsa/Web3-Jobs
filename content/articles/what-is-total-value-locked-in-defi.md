@@ -34,7 +34,7 @@ In this example, a protocol with 100,000 ETH and 200 million USDC locked at the 
 
 ### Significance of TVL
 
-TVL provides crucial insights into a DeFi protocol's market dynamics:
+TVL provides important insights into a DeFi protocol's market dynamics:
 
 - **Trust and Adoption Indicator**: A growing TVL often signals user confidence. It suggests that participants view the protocol as secure and valuable, justifying their capital deposits.
 - **Market Share Analysis**: Comparing the TVL of different protocols allows stakeholders to evaluate relative sizes and dominance within a specific category, such as DEXs.
@@ -131,7 +131,7 @@ Alex, a backend engineer with five years of experience at a leading tech company
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, effectively utilized her knowledge of financial products within the context of Web3. She secured a role at a top DeFi protocol within a short timeframe due to her relevant experience and understanding of the technology.
+Jessica, a product manager from traditional finance, effectively used her knowledge of financial products within the context of Web3. She secured a role at a top DeFi protocol within a short timeframe due to her relevant experience and understanding of the technology.
 
 ### Career Changer Success
 

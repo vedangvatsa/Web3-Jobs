@@ -23,7 +23,7 @@ Understanding the cultural transition from Web2 to Web3 is essential. Success in
 * **Default to Transparency:** Most discussions and decisions are public. Conversations occur in open Discord channels, governance proposals are debated on public forums, and all transactions are recorded on-chain. This transparency underpins Web3's ethos.
 * **A Bias for Action & "Proof of Work":** The pace of the industry is swift. Procrastination can lead to missed opportunities. The most respected individuals are those who actively contribute, building a "Proof of Work" portfolio through analyses, DAO contributions, event organization, or developing useful tools. Public contributions now serve as your resume.
 
-Building these principles is crucial for establishing a successful career in Web3.
+Building these principles is important for establishing a successful career in Web3.
 
 ## Top Non-Technical Roles in Web3
 

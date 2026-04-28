@@ -123,15 +123,15 @@ Future directions:
 
 Order books create roles:
 
-**Trading Systems Engineers** build order book systems.
+- **Trading Systems Engineers** build order book systems.
 
-**Market Makers** provide liquidity.
+- **Market Makers** provide liquidity.
 
-**High-Frequency Traders** exploit latency.
+- **High-Frequency Traders** exploit latency.
 
-**Exchange Operators** manage order matching.
+- **Exchange Operators** manage order matching.
 
-**Quantitative Traders** develop trading algorithms.
+- **Quantitative Traders** develop trading algorithms.
 
 ## Best Practices
 

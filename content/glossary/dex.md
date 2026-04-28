@@ -36,13 +36,13 @@ The fundamental trade-off: CEXs offer better user experience and performance; DE
 
 Most DEXs use Automated Market Makers (AMMs) instead of order books:
 
-**Traditional Order Book** (CEXs):
+- **Traditional Order Book** (CEXs):
 - Users place buy/sell orders at specific prices
 - Matching engine connects buyers and sellers
 - Requires sufficient liquidity on both sides
 - Expensive to implement on-chain (gas costs)
 
-**Automated Market Maker** (DEXs):
+- **Automated Market Maker** (DEXs):
 - Liquidity pools hold token reserves
 - Algorithmic pricing based on pool ratios
 - Users trade against pools, not other users
@@ -68,7 +68,7 @@ Largest DEX by volume, pioneered AMM model on Ethereum.
 - **Versions**:
 - **V1** (2018): Proved AMM concept
 - **V2** (2020): Any token pairs, price oracles
-- **V3** (2021): Concentrated liquidity revolutionizing capital efficiency
+- **V3** (2021): Concentrated liquidity changing capital efficiency
 - **V4** (Coming): Hooks for customization
 
 Dominates Ethereum DEX volume. The UNI governance token has a significant market cap.
@@ -89,7 +89,7 @@ Large retail user base, especially in Asia. High trading volumes during bull mar
 
 Focuses on perpetual futures and derivatives trading. Combines order book with on-chain settlement.
 
-Professional trading features: leverage, limit orders, stop losses. Transitioned to its own app-chain for better performance.
+Professional trading features: use, limit orders, stop losses. Transitioned to its own app-chain for better performance.
 
 ### 1inch
 
@@ -108,7 +108,7 @@ Controversial origins (forked Uniswap code) but established legitimate product.
 Some DEXs use order books instead of AMMs:
 
 - **dYdX**: Off-chain order book, on-chain settlement  
-**Serum** (Solana): On-chain order book  
+- **Serum** (Solana): On-chain order book  
 - **Loopring**: ZK-rollup with order books  
 
 Order books provide better execution for professional traders but are more complex to implement efficiently on-chain.
@@ -118,9 +118,9 @@ Order books provide better execution for professional traders but are more compl
 Route trades across multiple DEXs finding optimal prices:
 
 - **1inch**: Most popular aggregator, sophisticated routing algorithms  
-**Matcha** (0x): Clean interface, MEV protection  
+- **Matcha** (0x): Clean interface, MEV protection  
 - **ParaSwap**: Multi-chain support  
-**Jupiter** (Solana): Dominant Solana aggregator  
+- **Jupiter** (Solana): Dominant Solana aggregator  
 
 Aggregators are especially valuable for large trades that might suffer significant slippage on a single DEX.
 

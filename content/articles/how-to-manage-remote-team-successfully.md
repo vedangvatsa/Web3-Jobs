@@ -57,7 +57,7 @@ Trust your team. Focus on the quality and impact of their work rather than hours
 |-----------------------------|--------------------------------------------------------------------------------------------------------------------|
 | **Set Clear Goals**         | Use frameworks like OKRs (Objectives and Key Results) to ensure team members have aligned, measurable goals.   |
 | **Focus on Output**         | In one-on-one meetings, discuss progress toward goals instead of daily tasks.                                   |
-| **Give Autonomy**           | Provide clarity on "what" and "why," but allow team members to determine the "how," fostering ownership.       |
+| **Give Autonomy**           | Provide clarity on "what" and "why," but allow team members to determine the "how," building ownership.       |
 | **Build a Culture of Accountability** | In a remote team, contributions are visible through documented outputs. Address underperformance based on evidence, not feelings. |
 
 ### Principle 4: Prioritize Well-being and Prevent Burnout
@@ -101,7 +101,7 @@ Avoid drastic changes. Start with one small adjustment and progressively build f
 
 ### Step 5: Measure and Adjust
 
-Track your progress. If you achieve results, adapt your methods based on feedback and outcomes. A mindset focused on continuous improvement is crucial.
+Track your progress. If you achieve results, adapt your methods based on feedback and outcomes. A mindset focused on continuous improvement is important.
 
 ## Real-World Examples
 

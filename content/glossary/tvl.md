@@ -49,7 +49,7 @@ TVL serves multiple functions in DeFi:
 
 - **Valuation Metric**: Token valuations often reference TVL. A protocol with a high TVL and a low market cap has different investment characteristics than one with a low TVL and a high market cap.
 
-While TVL isn't comprehensive, it doesn't capture users, transactions, or revenue, it remains a common DeFi health metric.
+While TVL isn't full, it doesn't capture users, transactions, or revenue, it remains a common DeFi health metric.
 
 ## TVL Across DeFi Categories
 
@@ -125,17 +125,17 @@ Ethereum's dominance is decreasing as L2s mature and alternative L1s improve, bu
 
 TVL tracking and DeFi analytics create career paths:
 
-**DeFi Analysts** at protocols monitor TVL, analyze trends, and provide strategic insights. These roles combine finance and blockchain knowledge.
+- **DeFi Analysts** at protocols monitor TVL, analyze trends, and provide strategic insights. These roles combine finance and blockchain knowledge.
 
-**Data Engineers** at tracking platforms build infrastructure aggregating TVL across thousands of protocols.
+- **Data Engineers** at tracking platforms build infrastructure aggregating TVL across thousands of protocols.
 
-**Protocol Economists** design tokenomics and incentives to attract and retain TVL sustainably.
+- **Protocol Economists** design tokenomics and incentives to attract and retain TVL sustainably.
 
-**Growth Marketers** create campaigns to increase protocol TVL, often measured on TVL growth metrics.
+- **Growth Marketers** create campaigns to increase protocol TVL, often measured on TVL growth metrics.
 
-**Investment Analysts** at crypto funds evaluate protocols partially based on TVL metrics and trends.
+- **Investment Analysts** at crypto funds evaluate protocols partially based on TVL metrics and trends.
 
-**Business Development** professionals negotiate partnerships between protocols to influence TVL.
+- **Business Development** professionals negotiate partnerships between protocols to influence TVL.
 
 ## Using TVL for Analysis
 
@@ -153,7 +153,7 @@ Sophisticated analysis considers TVL alongside other metrics:
 
 - **Cross-Metric Analysis**: Compare TVL to unique users, transaction count, and revenue. Disconnects reveal insights, high TVL with low activity might suggest idle capital or inefficient design.
 
-No single metric tells the full story. TVL is most useful as part of comprehensive analysis.
+No single metric tells the full story. TVL is most useful as part of full analysis.
 
 ## The Future of TVL
 

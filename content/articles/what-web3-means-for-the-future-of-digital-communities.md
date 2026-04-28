@@ -36,22 +36,22 @@ A [DAO](/what-is-a-dao) serves as an internet-native organization collectively o
 
 #### 2. NFTs and Social Tokens: Membership Redefined
 
-[Tokens](/what-is-a-token) play a crucial role in managing membership, identity, and economic alignment within a Web3 community.
+[Tokens](/what-is-a-token) play a important role in managing membership, identity, and economic alignment within a Web3 community.
 
 - **Token-Gated Access:** Communities can restrict access to private areas, such as Discord servers, based on token ownership. Only individuals holding specific community [NFTs](/what-are-nfts) or social tokens can participate.
 - **Practical Insight:** **Friends with Benefits (FWB)** exemplifies a social DAO where membership requires purchasing and holding a defined quantity of tokens. The token acts as a membership card, with its value linked to the community's desirability and cultural significance.
 - **Shared Financial Outcomes:** When a community generates value, the demand for its access token rises, increasing its price. Consequently, token holders benefit financially from the collective value they help create.
 
-#### 3. Innovative Economic Models
+#### 3. New Economic Models
 
 Web3 enables communities to build their internal economies.
 
-- **Bounties and Grants:** DAOs can utilize their treasury to compensate members for contributions, supporting a "gig economy" within the community.
+- **Bounties and Grants:** DAOs can use their treasury to compensate members for contributions, supporting a "gig economy" within the community.
 - **Shared Assets:** Collector DAOs aggregate funds to acquire high-value assets, such as rare NFTs, enabling fractional ownership for all community members.
 
 ### The Shift Towards Community Ownership
 
-The transition to Web3 communities is nascent, with tools still maturing and governance structures evolving. However, the implications are significant. We are shifting from passive users of corporate platforms to active owners of digital communities. This transformation creates a new model for human collaboration, one that emphasizes equity, transparency, and alignment with members' interests. The future of online communities will see users not as mere audiences but as crucial stakeholders.
+The transition to Web3 communities is nascent, with tools still maturing and governance structures evolving. However, the implications are significant. We are shifting from passive users of corporate platforms to active owners of digital communities. This transformation creates a new model for human collaboration, one that emphasizes equity, transparency, and alignment with members' interests. The future of online communities will see users not as mere audiences but as important stakeholders.
 
 ## The Web3 Opportunity
 
@@ -93,7 +93,7 @@ Depending on your desired role, develop the following skills:
 
 - **Engineers:** Master [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Learn about token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Build expertise in community engagement, Discord management, and governance processes.
 
 ### Step 3: Build a Portfolio
@@ -117,7 +117,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Target positions that utilize your existing expertise alongside new Web3 knowledge:
+Target positions that use your existing expertise alongside new Web3 knowledge:
 
 - Backend engineers should consider blockchain infrastructure roles.
 - Product managers should seek protocol product positions.

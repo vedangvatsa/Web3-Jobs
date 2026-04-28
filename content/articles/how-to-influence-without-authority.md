@@ -25,14 +25,14 @@ Influence emerges from a reputation built over time, not as a tactic you can dep
 
 ### 2. Align Your Ideas with Shared Goals
 
-Colleagues are more likely to adopt ideas that resonate with their interests. Understanding their concerns is crucial before attempting to persuade them.
+Colleagues are more likely to adopt ideas that resonate with their interests. Understanding their concerns is important before attempting to persuade them.
 
 - **Conduct Detailed Research**: Investigate the goals and challenges of the team you aim to influence. Engage in conversations, review internal documents, and familiarize yourself with their objectives.
 - **Identify Mutual Purpose**: Frame your request around a common goal. Shift the focus from your needs to what benefits the entire team.
     - **Instead of**: "I need you to build this dashboard for me."
     - **Try**: "We both want to improve user retention. I have an idea for a dashboard that could help us identify a key drop-off point. Can we collaborate on this?"
 
-### 3. Utilize Data to Support Your Arguments
+### 3. Use Data to Support Your Arguments
 
 Arguments grounded in data carry more weight than opinions alone. While personal anecdotes can be impactful, evidence provides the foundation for professional persuasion.
 
@@ -109,4 +109,4 @@ A: Explore related articles that cover specific aspects of influence in greater 
 
 ### Conclusion
 
-Influencing without authority is not merely a soft skill; it is a vital competency that can shape your career trajectory. By cultivating trust, aligning your ideas with shared goals, utilizing data effectively, building supportive coalitions, and demonstrating patience, you can achieve meaningful impact in your organization. As you refine these skills, you will position yourself as a leader among your peers, regardless of your official title. In an environment that values collaboration and innovation, your ability to influence effectively will be a key asset in driving progress and achieving success.
+Influencing without authority is not merely a soft skill; it is a vital competency that can shape your career trajectory. By cultivating trust, aligning your ideas with shared goals, using data effectively, building supportive coalitions, and demonstrating patience, you can achieve meaningful impact in your organization. As you refine these skills, you will position yourself as a leader among your peers, regardless of your official title. In an environment that values collaboration and innovation, your ability to influence effectively will be a key asset in driving progress and achieving success.

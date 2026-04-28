@@ -120,7 +120,7 @@ Alex spent five years as a backend engineer at a major tech company. He dedicate
 
 ### Product Manager Transition
 
-Jessica, previously a product manager in traditional finance, utilized her domain expertise in DeFi. Her understanding of financial products, paired with knowledge of Web3 technology, made her a valuable asset. She secured a position at a leading DeFi protocol within four weeks.
+Jessica, previously a product manager in traditional finance, used her domain expertise in DeFi. Her understanding of financial products, paired with knowledge of Web3 technology, made her a valuable asset. She secured a position at a leading DeFi protocol within four weeks.
 
 ### Career Change Success
 

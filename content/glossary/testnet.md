@@ -78,19 +78,19 @@ While invaluable, testnets have limitations:
 
 Understanding testnets is essential for blockchain developers:
 
-**Smart Contract Developers** use testnets daily to test Solidity, Vyper, or Rust contracts before mainnet deployment. Familiarity with testnet tooling, faucets, and best practices is fundamental.
+- **Smart Contract Developers** use testnets daily to test Solidity, Vyper, or Rust contracts before mainnet deployment. Familiarity with testnet tooling, faucets, and best practices is fundamental.
 
-**DevOps Engineers** maintain testnet infrastructure for organizations, setting up nodes, monitoring performance, and ensuring testing environments remain available.
+- **DevOps Engineers** maintain testnet infrastructure for organizations, setting up nodes, monitoring performance, and ensuring testing environments remain available.
 
-**QA Engineers** conduct thorough testing on testnets, creating test cases that verify contract functionality, security properties, and user experience.
+- **QA Engineers** conduct thorough testing on testnets, creating test cases that verify contract functionality, security properties, and user experience.
 
-**Protocol Engineers** use testnets to validate consensus mechanism changes, network upgrades, and protocol improvements before mainnet implementation.
+- **Protocol Engineers** use testnets to validate consensus mechanism changes, network upgrades, and protocol improvements before mainnet implementation.
 
 ## Best Practices
 
 Effective testnet usage requires following established patterns:
 
-- **Comprehensive Testing**: Test all contract functions, edge cases, error conditions, and integration points before mainnet deployment.
+- **Full Testing**: Test all contract functions, edge cases, error conditions, and integration points before mainnet deployment.
 
 - **Version Control**: Track which contract versions are deployed to which testnet addresses, maintaining clear records of testing history.
 

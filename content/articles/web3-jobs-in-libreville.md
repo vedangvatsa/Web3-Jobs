@@ -40,7 +40,7 @@ The job market in Libreville is specialized, seeking professionals with backgrou
 
 ### Building a Career in Libreville's Web3 Scene
 
-1. **Develop Expertise in ReFi and Carbon Markets:** A thorough understanding of carbon credit mechanisms, MRV challenges, and tokenized environmental assets is crucial for entering the field.
+1. **Develop Expertise in ReFi and Carbon Markets:** A thorough understanding of carbon credit mechanisms, MRV challenges, and tokenized environmental assets is important for entering the field.
    
 2. **Integrate Environmental and Web3 Knowledge:** Establish a portfolio that showcases your ability to connect these domains. Consider writing analyses of ReFi protocols or proposing models for tokenizing biodiversity credits.
 
@@ -183,7 +183,7 @@ While Libreville's cost of living is generally higher than many other African ci
 ReFi is a legitimate but emerging market. The global carbon market is substantial, and projects like Toucan and Nori demonstrate real-world applications. While some projects may fail, the underlying fundamentals support growth.
 
 **Should I focus on environmental science or Web3 engineering?**
-Focusing on both will enhance your marketability. Environmental science fosters credibility, while Web3 skills add technical value.
+Focusing on both will enhance your marketability. Environmental science builds credibility, while Web3 skills add technical value.
 
 **What if I lack an environmental science background?**
 Curiosity and a willingness to learn are essential. You can gain the necessary domain knowledge within a few months.
@@ -212,7 +212,7 @@ A realistic progression starts at a competitive entry-level salary, reaching hig
 ## Essential Resources and Next Steps
 
 ### Learning Resources
-- **Toucan Protocol Docs:** Comprehensive reference for carbon credit tokenization.
+- **Toucan Protocol Docs:** Full reference for carbon credit tokenization.
 - **NASA Earth Observatory:** Access to satellite imagery and analysis tools.
 - **Sentinel Hub:** Free resources for satellite data.
 

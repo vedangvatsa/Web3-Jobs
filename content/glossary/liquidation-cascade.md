@@ -9,7 +9,7 @@ relatedTerms: ["liquidation", "systemic-risk", "defi", "collateral"]
 synonyms: ["liquidation contagion", "cascading failures", "liquidation spiral"]
 ---
 
-Liquidation Cascade refers to a chain reaction in decentralized finance where the forced liquidation of one leveraged position triggers additional liquidations across interconnected protocols. This creates a cycle of selling pressure and price declines. When collateral values drop below required thresholds, automated liquidations flood markets with assets, further depressing prices and pushing more positions underwater. The most notable example occurred during Black Thursday in March 2020, when a sudden drop in ETH prices triggered cascading liquidations across Maker, Aave, and Compound, resulting in significant bad debt and protocol losses. These systemic events expose the fragility of composable DeFi systems where lending protocols share liquidity pools and collateral types. Risk engineers, protocol security specialists, and DeFi quantitative analysts who understand cascade dynamics and can design circuit breakers or dynamic collateral requirements are increasingly sought after as protocols prioritize systemic resilience.
+Liquidation Cascade refers to a chain reaction in decentralized finance where the forced liquidation of one used position triggers additional liquidations across interconnected protocols. This creates a cycle of selling pressure and price declines. When collateral values drop below required thresholds, automated liquidations flood markets with assets, further depressing prices and pushing more positions underwater. The most notable example occurred during Black Thursday in March 2020, when a sudden drop in ETH prices triggered cascading liquidations across Maker, Aave, and Compound, resulting in significant bad debt and protocol losses. These systemic events expose the fragility of composable DeFi systems where lending protocols share liquidity pools and collateral types. Risk engineers, protocol security specialists, and DeFi quantitative analysts who understand cascade dynamics and can design circuit breakers or dynamic collateral requirements are increasingly sought after as protocols prioritize systemic resilience.
 
 ## Cascade Mechanics
 
@@ -111,15 +111,15 @@ Careful design significantly reduces cascade risk.
 
 Risk management creates roles:
 
-**Risk Managers** assess cascade risks.
+- **Risk Managers** assess cascade risks.
 
-**Protocol Designers** design cascade-resistant systems.
+- **Protocol Designers** design cascade-resistant systems.
 
-**Quantitative Analysts** model cascade scenarios.
+- **Quantitative Analysts** model cascade scenarios.
 
-**Smart Contract Auditors** find cascade vulnerabilities.
+- **Smart Contract Auditors** find cascade vulnerabilities.
 
-**Liquidation Specialists** manage liquidations safely.
+- **Liquidation Specialists** manage liquidations safely.
 
 ## Best Practices
 

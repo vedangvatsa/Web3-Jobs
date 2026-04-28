@@ -32,7 +32,7 @@ Modularity unbundles the core functions of a blockchain into distinct layers:
 
 ### The Rise of Dedicated Data Availability Layers
 
-Posting data to Ethereum Layer 1 incurs high costs. This situation has led to the emergence of specialized Data Availability layers, including Celestia, EigenDA, and Avail. These networks provide substantial data throughput at a fraction of Ethereum's costs. In 2025, we can expect a surge in "validiums" and other rollup designs utilizing these external DA layers to achieve significantly lower transaction fees. This trend will render Web3 applications economically viable for previously unthinkable use cases, such as on-chain social media and gaming.
+Posting data to Ethereum Layer 1 incurs high costs. This situation has led to the emergence of specialized Data Availability layers, including Celestia, EigenDA, and Avail. These networks provide substantial data throughput at a fraction of Ethereum's costs. In 2025, we can expect a surge in "validiums" and other rollup designs using these external DA layers to achieve significantly lower transaction fees. This trend will render Web3 applications economically viable for previously unthinkable use cases, such as on-chain social media and gaming.
 
 ## 2. AI and Web3 Integration: From Buzzword to Reality
 
@@ -62,7 +62,7 @@ DeSo's key innovation lies in separating the social graph from the application l
 
 - **Ownership of Your Audience:** You can transfer your social graph to any new client or application. If a platform de-platforms you, your followers remain intact.
 - **Open API:** Developers can create new clients or applications on the open social graph, resulting in a proliferation of niche social experiences. Farcaster's ecosystem of clients, including Warpcast and Supercast, exemplifies this innovation.
-- **Composable Content:** Content stored on an open network can integrate into other applications, fostering a more interconnected and creative social web.
+- **Composable Content:** Content stored on an open network can integrate into other applications, building a more interconnected and creative social web.
 
 ### The User Experience Leap
 
@@ -127,7 +127,7 @@ Focus on skills pertinent to your target role:
 
 - **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, and user growth strategies in Web3
-- **Business Development:** Market analysis, partnership strategies, and understanding the regulatory landscape
+- **Business Development:** Market analysis, partnership strategies, and understanding the regulatory space
 - **Community/Operations:** Community building, Discord management, and governance
 
 ### Step 3: Build Your Portfolio
@@ -161,7 +161,7 @@ Target roles that use your existing expertise along with new Web3 knowledge:
 Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while continuing his day job. His contributions to an open-source protocol caught the attention of a major DeFi project, leading to a successful transition with a notable salary increase and significant equity.
 
 ### Product Manager in Web3
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi. Her understanding of financial products, combined with Web3 technology, made her a highly valuable candidate. She secured a role at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi. Her understanding of financial products, combined with Web3 technology, made her a highly valuable candidate. She secured a role at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 Marcus left his corporate job to pursue Web3 for six months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a position leading Developer Relations at a major blockchain platform, with compensation greatly exceeding his previous role.

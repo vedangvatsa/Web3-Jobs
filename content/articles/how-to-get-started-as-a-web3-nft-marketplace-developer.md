@@ -20,10 +20,10 @@ To build an NFT marketplace, developers require a skill set that encompasses bot
 
 **On-Chain (Smart Contracts):**
 
-- **[Solidity](/best-programming-languages-for-blockchain-development):** Mastery of Solidity, the predominant programming language for [Ethereum](/what-is-ethereum) and EVM-compatible chains, is crucial.
+- **[Solidity](/best-programming-languages-for-blockchain-development):** Mastery of Solidity, the predominant programming language for [Ethereum](/what-is-ethereum) and EVM-compatible chains, is important.
 - **NFT Standards:** Familiarity with key [token](/what-is-a-token) standards is essential:
     - **ERC-721:** This standard governs unique, one-of-a-kind NFTs.
-    - **ERC-1155:** This multi-token standard can represent both fungible and non-fungible tokens in a single contract, commonly utilized for gaming items.
+    - **ERC-1155:** This multi-token standard can represent both fungible and non-fungible tokens in a single contract, commonly used for gaming items.
 - **Marketplace Logic:** Developers must write smart contracts that manage core marketplace functionalities, including listing NFTs for sale, making offers, and executing transactions. This requires secure handling of NFT transfers and payments, whether in ETH or ERC-20 tokens.
 
 **Off-Chain (Frontend & Backend):**
@@ -88,7 +88,7 @@ Dedicate 4-8 weeks to learning the fundamentals of blockchain technology. Focus 
 Tailor your learning based on your intended role:
 - **Engineers:** Focus on Solidity, JavaScript/TypeScript, and Web3 libraries such as ethers.js and web3.js.
 - **Product Managers:** Study token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio
@@ -119,7 +119,7 @@ Target positions that use your current expertise along with your new Web3 knowle
 Alex worked as a backend engineer for five years at a major tech company. He dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a prominent DeFi project, leading to a transition with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
-Jessica, a former product manager in traditional finance, utilized her knowledge of DeFi to secure a role at a leading DeFi protocol within a short period. Her financial product expertise, combined with an understanding of Web3 technology, made her a valuable candidate.
+Jessica, a former product manager in traditional finance, used her knowledge of DeFi to secure a role at a leading DeFi protocol within a short period. Her financial product expertise, combined with an understanding of Web3 technology, made her a valuable candidate.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through diligent learning, networking, and portfolio development, he landed a role leading Developer Relations at a major blockchain platform, with compensation that far exceeded his previous salary.

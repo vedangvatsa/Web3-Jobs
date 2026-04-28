@@ -16,7 +16,7 @@ This career path appeals to those who have a strong interest in distributed syst
 
 ### Role and Responsibilities of an Infrastructure Engineer
 
-Web3 Infrastructure Engineers are the architects of the decentralized ecosystem, focusing on several crucial areas:
+Web3 Infrastructure Engineers are the architects of the decentralized ecosystem, focusing on several important areas:
 
 **1. Protocol Engineering (Core L1/L2 Development)**
 

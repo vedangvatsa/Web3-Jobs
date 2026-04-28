@@ -193,7 +193,7 @@ Tailor your skill acquisition to your targeted role:
 
 - **Engineers**: Learn Solidity, JavaScript/TypeScript, and Web3 libraries (e.g., ethers.js, web3.js).
 - **Product Managers**: Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development Professionals**: Focus on market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development Professionals**: Focus on market analysis, partnership strategies, and the regulatory space.
 - **Community Managers/Operations**: Develop skills in community building, Discord management, and governance participation.
 
 ### Step 3: Build Your Portfolio
@@ -271,5 +271,5 @@ A: Historically, bear markets are optimal times to enter Web3 professionally. Te
 - Most professionals complete a significant transition to Web3 within a few months of focused effort. Engineers and product managers typically progress the fastest due to the direct applicability of their skills.
 - Your existing domain expertise holds considerable value in Web3. Rather than starting from scratch, focus on integrating blockchain-specific knowledge (wallets, smart contracts, tokenomics, DAOs) with your current skills.
 - Networking through Discord communities and engaging on Twitter, coupled with visible portfolio projects on GitHub, often proves more effective than formal certifications for securing Web3 roles.
-- Joining well-established protocols with proven revenue is crucial to mitigating the volatility risk inherent in the sector. Negotiate to receive base salaries in fiat currency.
+- Joining well-established protocols with proven revenue is important to mitigating the volatility risk inherent in the sector. Negotiate to receive base salaries in fiat currency.
 - The Web3 community is notably supportive, offering ample mentorship opportunities, free educational resources, and active developer networks across major protocols.

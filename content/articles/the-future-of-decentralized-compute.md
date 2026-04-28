@@ -29,7 +29,7 @@ Decentralized compute networks employ [blockchain](/what-is-a-blockchain) techno
 1. **Providers:** Individuals or data centers with idle CPU or GPU capacity connect their machines to the network. These providers act as the "miners" of the compute network, earning tokens in exchange for their resources.
 2. **Users:** Developers or researchers needing to execute computational tasks, such as rendering a 3D model, training an AI model, or hosting a web server, submit their jobs to the network.
 3. **The Marketplace:** A [smart contract](/what-are-smart-contracts)-based marketplace matches users with providers. Users pay for computational resources using the network's native token.
-4. **Verification:** A significant challenge is authenticating that computations have been performed correctly. Many networks utilize cryptographic methods, such as [Zero-Knowledge Proofs](/zero-knowledge-proofs-explained), allowing providers to verify job execution without requiring a full re-computation.
+4. **Verification:** A significant challenge is authenticating that computations have been performed correctly. Many networks use cryptographic methods, such as [Zero-Knowledge Proofs](/zero-knowledge-proofs-explained), allowing providers to verify job execution without requiring a full re-computation.
 
 ### Key Projects in Decentralized Compute
 
@@ -62,7 +62,7 @@ Craft a tailored plan that considers your unique circumstances. Your strategy sh
 
 #### Step 4: Implement Gradually
 
-Take a step-by-step approach to implementation. Start with manageable changes and build upon them. Monitor what works and what doesn’t. This iterative process fosters sustainable improvements.
+Take a step-by-step approach to implementation. Start with manageable changes and build upon them. Monitor what works and what doesn’t. This iterative process builds sustainable improvements.
 
 #### Step 5: Measure and Adjust
 

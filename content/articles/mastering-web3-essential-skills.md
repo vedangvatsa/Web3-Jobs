@@ -29,7 +29,7 @@ Smart contract development is a fundamental skill in Web3. [Smart contracts](/wh
 
 ### 2. Blockchain Architecture and Fundamentals
 
-Understanding blockchain fundamentals is crucial for anyone involved in this ecosystem. 
+Understanding blockchain fundamentals is important for anyone involved in this ecosystem. 
 
 - **Core Concepts:** Key concepts include decentralization, consensus mechanisms (Proof-of-Work vs. Proof-of-[Stake](/how-to-become-a-web3-staking-specialist)), public-key cryptography, and the structure of blocks and transactions. 
 - **The Blockchain Trilemma:** Grasping the trade-offs between security, scalability, and decentralization is vital for informed product and architectural decisions.
@@ -45,7 +45,7 @@ A dApp requires a user-friendly interface, making frontend development essential
 
 Analyzing on-chain data is a valuable skill in Web3. 
 
-- **SQL:** This language is crucial for querying indexed blockchain data.
+- **SQL:** This language is important for querying indexed blockchain data.
 - **Dune Analytics / Flipside Crypto:** These platforms allow users to write SQL queries against decoded blockchain data, creating insightful dashboards that showcase analytical abilities.
 
 ### 5. Backend and Infrastructure Engineering
@@ -68,7 +68,7 @@ Tokenomics involves designing a crypto-native economic system. It can be a criti
 
 ### 7. Community Management and Building
 
-In Web3, community is crucial. Cultivating an engaged and positive community is a core business function.
+In Web3, community is important. Cultivating an engaged and positive community is a core business function.
 
 - **Communication Skills:** Clear and empathetic communication on platforms like Discord and Twitter is essential.
 - **Culture Building:** Building a strong sense of shared identity and purpose among community members enhances engagement.
@@ -92,7 +92,7 @@ Product management in Web3 blends traditional PM skills with an understanding of
 
 ### 10. A Deep Sense of Ownership and Adaptability
 
-A strong sense of ownership and adaptability is crucial in Web3.
+A strong sense of ownership and adaptability is important in Web3.
 
 - **Ownership Mentality:** In a decentralized environment, contributors must take initiative and act like founders, identifying problems and proposing solutions proactively.
 - **Adaptability:** The fast-paced nature of Web3 demands a willingness to learn and adapt continually. What is relevant today may change within a year.

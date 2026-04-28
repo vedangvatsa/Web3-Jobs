@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 Kolkata, recognized as India's cultural capital, is increasingly establishing itself within the country's [Web3](/what-is-web3) sector. While it does not yet rival tech giants like Bangalore or Hyderabad, Kolkata boasts a rich heritage in arts and literature. This cultural foundation, paired with a youthful and enthusiastic population, is building a promising environment for Web3 innovation. The city's Web3 scene emphasizes community engagement, creativity, and marketing, making it an appealing location for non-technical careers in the crypto industry.
 
-The city is witnessing a surge in roles such as community managers, content creators, and marketing professionals. These individuals play a crucial part in helping both Indian and international blockchain protocols connect with the expansive Bengali-speaking audience. This guide explores the burgeoning [Web3 job](/web3-jobs-for-beginners) market in Kolkata, focusing on its strengths, available opportunities, and ways to engage with this evolving ecosystem.
+The city is witnessing a surge in roles such as community managers, content creators, and marketing professionals. These individuals play a important part in helping both Indian and international blockchain protocols connect with the expansive Bengali-speaking audience. This guide explores the burgeoning [Web3 job](/web3-jobs-for-beginners) market in Kolkata, focusing on its strengths, available opportunities, and ways to engage with this evolving ecosystem.
 
 ### Overview of Kolkata's Web3 Scene
 
@@ -89,7 +89,7 @@ Dedicate 4-8 weeks to learning the fundamentals of blockchain technology. Focus 
 Tailor your skill acquisition to your desired role:
 - **Engineers:** Familiarize yourself with [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Hone skills in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Hone skills in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Focus on community building, Discord management, and governance practices.
 
 #### Step 3: Create Your Portfolio
@@ -109,7 +109,7 @@ The Web3 community is highly accessible:
 - Participate in local Web3 meetups.
 
 #### Step 5: Apply for Roles Strategically
-Identify roles that utilize your existing skills while integrating new Web3 knowledge:
+Identify roles that use your existing skills while integrating new Web3 knowledge:
 - Backend engineers should seek blockchain infrastructure positions.
 - Product managers can target protocol product roles.
 - Sales and business professionals should explore Web3 business development opportunities.

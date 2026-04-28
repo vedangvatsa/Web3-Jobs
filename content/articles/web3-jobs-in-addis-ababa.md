@@ -33,7 +33,7 @@ The formal Web3 job market in Addis Ababa is small but growing. Opportunities pr
     - **Mid-Level:** Competitive local salaries.
     - **Senior / Remote:** Potential for significantly higher, USD-denominated salaries.
 
-* **Community Educators and Organizers:** These roles are vital in a developing market. Professionals who can run workshops, organize meetups, and create educational content in local languages (such as Amharic) are crucial for ecosystem growth.
+* **Community Educators and Organizers:** These roles are vital in a developing market. Professionals who can run workshops, organize meetups, and create educational content in local languages (such as Amharic) are important for ecosystem growth.
     - **Stipends and Grants:** Often provided by international organizations entering the Ethiopian market.
 
 * **Project Managers (experience in NGOs or Agribusiness):** Individuals who can effectively manage blockchain pilot implementations in agriculture or humanitarian sectors are highly sought after.

@@ -69,13 +69,13 @@ Current state:
 
 AA ecosystem roles:
 
-**Wallet Engineers**.
+- **Wallet Engineers**.
 
-**Smart Contract Engineers**.
+- **Smart Contract Engineers**.
 
-**UX Designers**.
+- **UX Designers**.
 
-**Infrastructure Engineers**.
+- **Infrastructure Engineers**.
 
 ## Best Practices
 

@@ -17,7 +17,7 @@ synonyms:
   - Multi-rollup ordering
 ---
 
-**Shared sequencing** is a rollup architecture where **multiple independent rollups share a common sequencing layer** that coordinates transaction ordering across all participating chains. Instead of each rollup operating its own isolated sequencer, a shared sequencer network simultaneously orders transactions for multiple rollups, enabling atomic cross-chain operations and synchronous composability that is not possible with traditional bridge-based architectures.
+- **Shared sequencing** is a rollup architecture where **multiple independent rollups share a common sequencing layer** that coordinates transaction ordering across all participating chains. Instead of each rollup operating its own isolated sequencer, a shared sequencer network simultaneously orders transactions for multiple rollups, enabling atomic cross-chain operations and synchronous composability that is not possible with traditional bridge-based architectures.
 
 This design addresses blockchain fragmentation, allowing users to interact with multiple rollups as if they were a single unified system while preserving the sovereignty and customizability of individual rollups. Shared sequencing networks like Espresso, Astria, and Radius are building infrastructure to support interoperable Layer 2 ecosystems.
 
@@ -131,15 +131,15 @@ Shared sequencing enables several powerful use cases:
 
 As shared sequencing infrastructure matures, specialized roles are emerging:
 
-**Distributed Systems Engineers** build BFT consensus systems for shared sequencers, implementing HotStuff, Tendermint, or custom consensus protocols.
+- **Distributed Systems Engineers** build BFT consensus systems for shared sequencers, implementing HotStuff, Tendermint, or custom consensus protocols.
 
-**Cross-Chain Protocol Developers** design atomic transaction protocols, cross-rollup state management, and proof aggregation systems.
+- **Cross-Chain Protocol Developers** design atomic transaction protocols, cross-rollup state management, and proof aggregation systems.
 
-**Sequencer Network Operators** run and maintain shared sequencer nodes, ensuring high uptime and censorship resistance.
+- **Sequencer Network Operators** run and maintain shared sequencer nodes, ensuring high uptime and censorship resistance.
 
-**MEV Researchers** study cross-domain MEV opportunities and design fair ordering mechanisms for shared sequencing networks.
+- **MEV Researchers** study cross-domain MEV opportunities and design fair ordering mechanisms for shared sequencing networks.
 
-**Cryptographic Engineers** implement threshold encryption, verifiable delay functions, and other cryptographic primitives for fair sequencing.
+- **Cryptographic Engineers** implement threshold encryption, verifiable delay functions, and other cryptographic primitives for fair sequencing.
 
 This field requires deep expertise in distributed systems, blockchain consensus, and cross-chain protocols.
 
@@ -149,7 +149,7 @@ When building on shared sequencing infrastructure:
 
 - **Design for Atomicity**: Structure cross-chain transactions to take full advantage of atomic guarantees.
 
-- **Handle Partial Failures Gracefully**: Implement robust retry logic for scenarios where individual rollup congestion or gas spikes cause transactions to fail.
+- **Handle Partial Failures Gracefully**: Implement strong retry logic for scenarios where individual rollup congestion or gas spikes cause transactions to fail.
 
 - **Optimize Gas Across Chains**: Design transactions to minimize total cross-chain gas expenditure.
 
@@ -157,7 +157,7 @@ When building on shared sequencing infrastructure:
 
 - **Monitor Sequencer Health**: Track shared sequencer liveness and decentralization metrics.
 
-- **Leverage MEV Protection**: Use private mempools or encrypted submission when available to prevent front-running of cross-chain transactions.
+- **Use MEV Protection**: Use private mempools or encrypted submission when available to prevent front-running of cross-chain transactions.
 
 ## The Future of Shared Sequencing
 

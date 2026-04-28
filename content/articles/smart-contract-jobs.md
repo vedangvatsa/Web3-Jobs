@@ -94,7 +94,7 @@ Most compensation packages include [token](/what-is-a-token) equity alongside sa
 
 Market conditions matter. Bull markets bring easy funding and aggressive hiring. Compensation increases. Bear markets bring layoffs and hiring freezes. Compensation decreases.
 
-The sector is cyclical. It's crucial to join projects you believe in long-term, not just chasing the highest current compensation.
+The sector is cyclical. It's important to join projects you believe in long-term, not just chasing the highest current compensation.
 
 ## The Realistic Challenges
 

@@ -29,7 +29,7 @@ Vitalik's thought process has evolved over the years, yet several core principle
 
 2. **Credible Neutrality:** Vitalik promotes the idea of "credibly neutral" systems. This entails creating platforms that do not favor any specific group. The rules governing the protocol should be transparent and uniformly applicable, ensuring that creators do not manipulate outcomes.
 
-3. **The Blockchain Trilemma:** Vitalik popularized the "blockchain trilemma," which asserts the difficulty of achieving three critical attributes simultaneously: Decentralization, Security, and Scalability. His work aims to identify innovative methods for addressing this trilemma, allowing Ethereum to expand without compromising its fundamental values.
+3. **The Blockchain Trilemma:** Vitalik popularized the "blockchain trilemma," which asserts the difficulty of achieving three critical attributes simultaneously: Decentralization, Security, and Scalability. His work aims to identify new methods for addressing this trilemma, allowing Ethereum to expand without compromising its fundamental values.
 
 4. **Public Goods and Positive Externalities:** Vitalik advocates for financing "public goods," which benefit society as a whole but are challenging to monetize, such as open-source software and infrastructure. He has proposed inventive funding mechanisms, including Quadratic Funding, to help communities allocate resources effectively to these goods.
 
@@ -54,10 +54,10 @@ Vitalik combines philosophical insight with technical expertise, steering Ethere
 To address scalability challenges, Vitalik supports a "rollup-centric roadmap." He suggests that Layer 1 (the main Ethereum chain) should provide security and data availability, while transaction execution should occur on Layer 2 (L2) solutions known as rollups.
 
 **Optimistic vs. ZK-Rollups:**
-Vitalik has extensively analyzed the trade-offs between these two primary types of rollups. While Optimistic Rollups are more feasible initially, he considers ZK-Rollups, which utilize zero-knowledge proofs to verify transaction validity, to be the future due to their superior security features and quicker withdrawal times.
+Vitalik has extensively analyzed the trade-offs between these two primary types of rollups. While Optimistic Rollups are more feasible initially, he considers ZK-Rollups, which use zero-knowledge proofs to verify transaction validity, to be the future due to their superior security features and quicker withdrawal times.
 
 **Danksharding and EIP-4844:**
-To facilitate this rollup-centric future, Vitalik has played a crucial role in developing "Danksharding," a series of upgrades aimed at significantly reducing the costs for rollups to post their data to Ethereum. The first step, EIP-4844 (or "Proto-Danksharding"), introduced a new transaction type that creates dedicated "blob" space for rollup data, thereby considerably lowering costs for L2 users.
+To facilitate this rollup-centric future, Vitalik has played a important role in developing "Danksharding," a series of upgrades aimed at significantly reducing the costs for rollups to post their data to Ethereum. The first step, EIP-4844 (or "Proto-Danksharding"), introduced a new transaction type that creates dedicated "blob" space for rollup data, thereby considerably lowering costs for L2 users.
 
 ### Evolving Views on Governance and Society
 
@@ -67,7 +67,7 @@ As Ethereum has matured, Vitalik's focus has shifted from solely technical conce
 
 Vitalik has emerged as a notable critic of simplistic "1 [token](/what-is-a-token), 1 vote" governance structures. He argues that such systems can lead to plutocracy, where affluent token holders overpower regular users. He actively researches alternative governance frameworks that are more reliable and equitable.
 
-**Innovative Governance Models:**
+**New Governance Models:**
 - **Futarchy:** This model allows individuals to vote on values (what they wish to achieve), while markets determine the most effective means to achieve those objectives.
 - **Quadratic Voting/Funding:** These mechanisms assign greater weight to the number of supporters for an idea rather than the capital they possess. This approach aims to better fund public goods that enjoy broad but shallow backing.
 - **Proof of Personhood/Humanity:** This concept seeks to ensure that each unique individual has a single voice, preventing one person from creating multiple wallets to exert disproportionate influence (a Sybil attack).

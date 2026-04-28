@@ -25,13 +25,13 @@ The primary shift involves moving from assessing candidates based on resumes to 
 
 ### The Contributor Funnel: A New Way to Recruit
 
-Instead of adhering to a traditional hiring funnel, DAOs should utilize a "contributor funnel." This structured path enables potential contributors to engage with the DAO at increasing levels of commitment.
+Instead of adhering to a traditional hiring funnel, DAOs should use a "contributor funnel." This structured path enables potential contributors to engage with the DAO at increasing levels of commitment.
 
 **1. Top of Funnel: The Lurker**
 
 This individual is a new community member exploring the DAO's Discord. They are in the early stages of engagement.
 - **DAO's Goal:** Facilitate their learning process. Provide clear onboarding channels, high-quality documentation, and a welcoming community. The objective is to convert lurkers into active participants.
-- **Tools:** An organized Discord server, accessible documentation ([a crucial role for a technical writer](/technical-writer-web3-jobs)), and engaged community managers.
+- **Tools:** An organized Discord server, accessible documentation ([a important role for a technical writer](/technical-writer-web3-jobs)), and engaged community managers.
 
 **2. Middle of Funnel: The Participant & Bounty Hunter**
 
@@ -82,7 +82,7 @@ Create a tailored plan based on your assessment. Each situation is unique; your 
 
 #### Step 4: Implement Gradually
 
-Avoid attempting to overhaul everything at once. Start with one small change and gradually build from there. Track what works and what does not. This iterative approach fosters sustainable improvement.
+Avoid attempting to overhaul everything at once. Start with one small change and gradually build from there. Track what works and what does not. This iterative approach builds sustainable improvement.
 
 #### Step 5: Measure and Adjust
 

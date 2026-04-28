@@ -31,11 +31,11 @@ A Web3 Digital Content Monetization Specialist acts as an agent, strategist, and
 4. **Exploring Advanced Monetization Tools:** The role extends beyond a single NFT release. Specialists help creators consider various Web3 tools, such as:
    - **Social Tokens:** Develop personal tokens that grant fans access to exclusive content or governance rights.
    - **Token Gating:** Implement systems that restrict access to content, events, or merchandise based on ownership of specific NFTs or social tokens.
-   - **Crowdfunding:** Utilize platforms like Mirror to fund projects (e.g., an album or a book) by selling NFTs representing shares in the final outcome.
+   - **Crowdfunding:** Use platforms like Mirror to fund projects (e.g., an album or a book) by selling NFTs representing shares in the final outcome.
 
 ### Essential Skills for Success
 
-To excel as a Web3 Digital Content Monetization Specialist, the following skill set is crucial:
+To excel as a Web3 Digital Content Monetization Specialist, the following skill set is important:
 
 | Skill                     | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|

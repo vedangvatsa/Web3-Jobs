@@ -110,15 +110,15 @@ Intent-based architecture is still in the research stage with open challenges.
 
 Intent-based systems create roles:
 
-**Protocol Designers** design intent systems.
+- **Protocol Designers** design intent systems.
 
-**Solver Engineers** build solvers.
+- **Solver Engineers** build solvers.
 
-**Cryptographers** enable privacy.
+- **Cryptographers** enable privacy.
 
-**Researchers** study intent systems.
+- **Researchers** study intent systems.
 
-**Smart Contract Engineers** implement intents.
+- **Smart Contract Engineers** implement intents.
 
 ## Best Practices
 

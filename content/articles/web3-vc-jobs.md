@@ -33,7 +33,7 @@ Typical structures within a crypto fund include several key positions:
 
 ### Essential Skills for Crypto VCs
 
-The following skills are crucial for success in the crypto VC sector:
+The following skills are important for success in the crypto VC sector:
 
 - **Curiosity:** A strong desire to learn and explore new concepts is vital in a rapidly changing environment.
 - **Thesis-Driven Analysis:** The ability to distill large amounts of information into coherent perspectives is necessary. Understanding the significance of specific sectors and teams is key.
@@ -47,7 +47,7 @@ The pathway to a Web3 VC position is rarely straightforward. Few individuals sec
 
 1. **Become a Scout or "Super Angel":** Many leading funds operate scout programs, providing capital to well-connected individuals for their own investments. This approach can open doors to VC opportunities.
 2. **Establish Yourself as a Researcher or Writer:** Develop a blog, newsletter, or social media presence where you share in-depth research on Web3 topics. Many prominent crypto VCs began as influential writers or researchers.
-3. **Act as an On-Chain Analyst:** Utilize tools like Dune and Nansen to create insightful analyses of on-chain activities. This showcases analytical skills and the ability to generate unique insights.
+3. **Act as an On-Chain Analyst:** Use tools like Dune and Nansen to create insightful analyses of on-chain activities. This showcases analytical skills and the ability to generate unique insights.
 4. **Contribute to DAOs:** Being an influential delegate in a major DAO demonstrates governance knowledge and strategic thinking.
 5. **Gain Founding or Operational Experience:** Having been on the other side of the investment table enhances an individual's perspective as an investor. Experience in a successful Web3 startup provides invaluable operational insights.
 
@@ -113,7 +113,7 @@ The Web3 community is highly accessible:
 - Join local Web3 meetups.
 
 #### Step 5: Apply Thoughtfully
-Focus on roles that utilize your existing expertise while incorporating new Web3 knowledge:
+Focus on roles that use your existing expertise while incorporating new Web3 knowledge:
 
 - If you are a backend engineer, seek blockchain infrastructure positions.
 - If you are a product manager, explore protocol product roles.
@@ -159,4 +159,4 @@ Bear markets can provide excellent opportunities to enter Web3. As speculative h
 
 ### Key Takeaways
 
-Web3 offers substantial compensation advantages, accelerated career growth, and a chance to contribute to transformative technology affecting finance, governance, and digital ownership globally. Most professionals can successfully transition to Web3 within 2-6 months of dedicated effort, leveraging their existing domain expertise while learning blockchain-specific concepts. Engaging with the community through Discord and showcasing projects on GitHub consistently yields better results than formal certifications. To mitigate sector volatility, professionals should join established protocols with proven revenue and negotiate compensation in fiat currency. The Web3 community remains open and supportive, with ample resources available for newcomers.
+Web3 offers substantial compensation advantages, accelerated career growth, and a chance to contribute to transformative technology affecting finance, governance, and digital ownership globally. Most professionals can successfully transition to Web3 within 2-6 months of dedicated effort, using their existing domain expertise while learning blockchain-specific concepts. Engaging with the community through Discord and showcasing projects on GitHub consistently yields better results than formal certifications. To mitigate sector volatility, professionals should join established protocols with proven revenue and negotiate compensation in fiat currency. The Web3 community remains open and supportive, with ample resources available for newcomers.

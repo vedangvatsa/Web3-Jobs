@@ -54,11 +54,11 @@ Blockchains like Ethereum introduced **[smart contracts](/what-are-smart-contrac
 Blockchains possess native digital currencies (such as ETH on Ethereum) that facilitate network usage payments ("gas fees") and reward those who maintain security.
 
 - **Economic Framework:** This establishes an inherent economic layer within the internet, enabling value transfer between users and applications without the traditional banking system.
-- **Innovative Models:** This economic framework supports "Play-to-Earn" gaming models, allows creators to receive direct payments from fans, and supports the freelance "gig economy" associated with [DAOs](/what-is-a-dao).
+- **New Models:** This economic framework supports "Play-to-Earn" gaming models, allows creators to receive direct payments from fans, and supports the freelance "gig economy" associated with [DAOs](/what-is-a-dao).
 
 ### The Foundation of the New Internet
 
-Blockchain is not merely an aspect of Web3; it constitutes the essential infrastructure. It offers a decentralized, trustless, and economically active foundation necessary for constructing an internet owned by its users. The transparency of the ledger, the permanence of its records, the automation provided by smart contracts, and the native value transfer are fundamental elements developers utilize to create a new digital field. Understanding how blockchain technology powers Web3 is essential for grasping the future of the internet.
+Blockchain is not merely an aspect of Web3; it constitutes the essential infrastructure. It offers a decentralized, trustless, and economically active foundation necessary for constructing an internet owned by its users. The transparency of the ledger, the permanence of its records, the automation provided by smart contracts, and the native value transfer are fundamental elements developers use to create a new digital field. Understanding how blockchain technology powers Web3 is essential for grasping the future of the internet.
 
 ## The Web3 Job Market
 

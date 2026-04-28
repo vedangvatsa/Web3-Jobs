@@ -42,7 +42,7 @@ For developers, GitHub represents the most vital pillar of your professional bra
 - **Pin Your Best Work:** Highlight your top 3-4 projects at the top of your profile. Ensure these projects are well-documented and of high quality, regardless of their size.
 - **Write World-Class READMEs:** A well-crafted README indicates strong communication skills. Each README should include:
   - A clear description of the project and the problem it addresses.
-  - The tech stack utilized.
+  - The tech stack used.
   - Instructions for setting it up and running it locally.
   - A link to a live demo, if available.
 - **Demonstrate Skills with Tests:** A thorough test suite signals professionalism and a commitment to code quality. Strive for high test coverage in your key projects.

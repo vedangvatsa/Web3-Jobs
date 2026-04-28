@@ -49,7 +49,7 @@ MEV manifests in various forms beyond sandwich attacks:
 The MEV ecosystem consists of three key participants:
 
 1. **Searchers**: Operators of bots that continuously scan the mempool for profitable MEV opportunities. They create "bundles" of transactions that must be executed in a specific order to yield profit.
-2. **Builders**: Specialized entities that construct the most profitable block possible using bundles from multiple searchers. They utilize algorithms to identify the best combination of bundles and regular transactions.
+2. **Builders**: Specialized entities that construct the most profitable block possible using bundles from multiple searchers. They use algorithms to identify the best combination of bundles and regular transactions.
 3. **Proposers (Validators)**: The chosen validator for the next block does not need to construct the block themselves. With Proposer-Builder Separation (PBS), they can auction their block space to the highest bidding builder. The builder that constructs the most profitable block will pay the highest bid to the proposer.
 
 This arrangement, facilitated by infrastructure like **Flashbots**, seeks to democratize MEV and prevent "gas wars," where searchers escalate gas fees to gain transaction inclusion. It encourages a more orderly and efficient private market for MEV extraction.
@@ -58,7 +58,7 @@ This arrangement, facilitated by infrastructure like **Flashbots**, seeks to dem
 
 The discussion surrounding MEV is intricate. On one hand, it poses as a predatory "invisible tax" on users. Sandwich attacks and front-running diminish the experience for everyday users and create perceptions of a manipulated system.
 
-Conversely, some forms of MEV are crucial for market efficiency. DEX arbitrage enforces price uniformity across the DeFi ecosystem. Liquidations are essential for ensuring the solvency of lending protocols.
+Conversely, some forms of MEV are important for market efficiency. DEX arbitrage enforces price uniformity across the DeFi ecosystem. Liquidations are essential for ensuring the solvency of lending protocols.
 
 Current consensus acknowledges MEV as an unavoidable aspect of transparent blockchain systems. The focus has shifted from eliminating MEV to managing its adverse effects. Initiatives like Flashbots aim to enhance transparency in the MEV process and minimize network congestion resulting from MEV-related gas wars. Other solutions include developing dApps that mitigate MEV susceptibility, such as implementing frequent batch auctions or encrypted mempools.
 
@@ -66,7 +66,7 @@ Current consensus acknowledges MEV as an unavoidable aspect of transparent block
 
 Understanding MEV equips developers and users to make informed decisions. While completely avoiding MEV may not be feasible, various strategies can help mitigate its effects:
 
-- Utilize tools that offer MEV protection.
+- Use tools that offer MEV protection.
 - Set lower slippage tolerances when trading.
 - Employ private transaction relays to shield trades from potential front-running.
 
@@ -159,7 +159,7 @@ Alex, a backend engineer with five years of experience at a FAANG company, dedic
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, utilized her domain knowledge in DeFi. Her understanding of financial products, combined with Web3 technology insights, made her highly sought after. She secured a position at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, used her domain knowledge in DeFi. Her understanding of financial products, combined with Web3 technology insights, made her highly sought after. She secured a position at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 
@@ -169,7 +169,7 @@ Marcus transitioned from a corporate job to focus on Web3 for six months. Throug
 
 **Volatility Risk:** The crypto market's volatility may affect job stability, especially at early-stage startups with limited resources. Professionals entering Web3 should maintain 6-12 months of living expenses in reserve, negotiate base salaries in fiat rather than tokens, and target projects with established revenue models or strong treasury backing.
 
-**Regulatory Uncertainty:** The regulatory landscape for blockchain companies is still evolving in major jurisdictions. Before joining a project, ensure the team has competent legal counsel and is proactively engaging with regulators rather than operating in legal grey areas.
+**Regulatory Uncertainty:** The regulatory space for blockchain companies is still evolving in major jurisdictions. Before joining a project, ensure the team has competent legal counsel and is proactively engaging with regulators rather than operating in legal grey areas.
 
 **Due Diligence:** Not all Web3 projects are legitimate. Investigate the founding team's track record, review audit reports for smart contracts, verify treasury holdings on-chain, and speak with current or former team members before accepting an offer.
 

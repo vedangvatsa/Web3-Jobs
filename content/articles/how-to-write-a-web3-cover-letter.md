@@ -30,7 +30,7 @@ Avoid starting with clichés like "I am writing to apply for the position of..."
 > "I am a highly skilled marketing manager with five years of experience, and I am very interested in the Marketing Lead role at your company."
 
 **Strong Opening:**
-> "Since the launch of V2, I have actively engaged with the AcmeFi protocol as a liquidity provider. I consider its approach to concentrated liquidity the most innovative in [DeFi](/what-is-defi). The recent governance proposal to expand to Arbitrum impressed me, and I am eager to help lead the marketing strategy for that initiative."
+> "Since the launch of V2, I have actively engaged with the AcmeFi protocol as a liquidity provider. I consider its approach to concentrated liquidity the most new in [DeFi](/what-is-defi). The recent governance proposal to expand to Arbitrum impressed me, and I am eager to help lead the marketing strategy for that initiative."
 
 This strong opening demonstrates that you are not just another applicant; you are an informed, engaged member of their community.
 
@@ -89,7 +89,7 @@ Depending on your desired role, focus on acquiring specific skills:
 
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3
-- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory landscape
+- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory space
 - **Community/Operations:** Develop skills in community building, Discord management, and governance processes
 
 ### Step 3: Build Your Portfolio
@@ -114,7 +114,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Target positions that utilize your existing skills combined with your new Web3 knowledge:
+Target positions that use your existing skills combined with your new Web3 knowledge:
 
 - As a backend engineer, seek blockchain infrastructure roles
 - As a PM, look for protocol product roles

@@ -78,7 +78,7 @@ A supportive work environment values employee well-being, recognizing that well-
 
 If you identify these signs in your current role, taking proactive measures is vital. Start by establishing clear boundaries. Avoid responding to emails outside of business hours unless absolutely necessary. Document instances of unprofessional behavior to create a record.
 
-If you have an approachable manager or HR representative, consider discussing your concerns. However, recognizing that ingrained toxicity is often difficult to address from within is crucial. Preparing to exit may be the best long-term solution. Update your [resume](/how-to-build-a-web3-resume-that-stands-out), network strategically, and seek opportunities at organizations with healthier cultures.
+If you have an approachable manager or HR representative, consider discussing your concerns. However, recognizing that ingrained toxicity is often difficult to address from within is important. Preparing to exit may be the best long-term solution. Update your [resume](/how-to-build-a-web3-resume-that-stands-out), network strategically, and seek opportunities at organizations with healthier cultures.
 
 Prioritizing your well-being is essential. No job should come at the expense of your mental or physical health. By developing the ability to identify and avoid toxic work environments, you can build a career that is both successful and fulfilling.
 
@@ -100,4 +100,4 @@ One toxic person can significantly impact team dynamics, especially if they hold
 
 Recognizing the signs of a toxic work environment is essential for your professional development and mental health. By understanding communication patterns, competition dynamics, turnover rates, and leadership styles, you can make informed decisions about your career path. 
 
-Assessing company culture during interviews and maintaining awareness of workplace dynamics can help you avoid negative environments. Prioritize your well-being, and remember that seeking a healthy workplace is crucial for long-term success. A fulfilling career is possible when you commit to identifying and distancing yourself from toxic work settings. Taking these steps will not only enhance your professional life but also contribute positively to your overall quality of life.
+Assessing company culture during interviews and maintaining awareness of workplace dynamics can help you avoid negative environments. Prioritize your well-being, and remember that seeking a healthy workplace is important for long-term success. A fulfilling career is possible when you commit to identifying and distancing yourself from toxic work settings. Taking these steps will not only enhance your professional life but also contribute positively to your overall quality of life.

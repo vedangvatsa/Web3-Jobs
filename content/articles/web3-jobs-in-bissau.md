@@ -133,7 +133,7 @@ With no established Web3 companies or meetups, isolation is a challenge. Buildin
 The absence of local venture capital makes fundraising difficult. Applying for global grants and forming partnerships with established organizations can help.
 
 **Challenge 5: Language Barriers**  
-Limited English proficiency poses communication challenges. Dedicating time to language improvement and leveraging unique local perspectives can offset barriers.
+Limited English proficiency poses communication challenges. Dedicating time to language improvement and using unique local perspectives can offset barriers.
 
 ### 90-Day Quick-Start Plan
 

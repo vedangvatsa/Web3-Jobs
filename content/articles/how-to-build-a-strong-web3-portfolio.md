@@ -59,7 +59,7 @@ Web3 compensation packages differ significantly from traditional structures. Be 
 | Token Grant                   | Significant token grant with a clear vesting schedule.  |
 | Equity                        | Potential equity in the company, if applicable.         |
 
-Understanding your project's [tokenomics](/understanding-tokenomics) and the long-term value of the token grant is crucial for attracting top talent.
+Understanding your project's [tokenomics](/understanding-tokenomics) and the long-term value of the token grant is important for attracting top talent.
 
 Recruiting in Web3 necessitates profound engagement with the ecosystem. Passive observation will not suffice. By actively participating in communities, assessing proof of work, and treating the hiring process as a partnership, you can attract and secure the elite talent essential for building the decentralized internet.
 
@@ -113,7 +113,7 @@ Depending on your target role, focus on acquiring necessary skills:
 
 - **Engineers:** Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, and user growth strategies in Web3
-- **Business Development:** Market analysis, partnership strategy, and the regulatory landscape
+- **Business Development:** Market analysis, partnership strategy, and the regulatory space
 - **Community/Operations:** Community building, Discord management, and governance practices
 
 ### Step 3: Build Your Portfolio
@@ -151,7 +151,7 @@ Alex, a backend engineer with five years of experience at a FAANG company, dedic
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi to her advantage. Her familiarity with financial products, combined with knowledge of Web3 technology, made her a valuable candidate. She secured a position at a prominent DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi to her advantage. Her familiarity with financial products, combined with knowledge of Web3 technology, made her a valuable candidate. She secured a position at a prominent DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 

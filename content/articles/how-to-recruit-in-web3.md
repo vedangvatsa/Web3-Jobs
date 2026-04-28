@@ -16,12 +16,12 @@ To succeed in this environment, recruiters and hiring managers must adopt a "cry
 
 ### Principle #1: Go Where the Talent Is
 
-While some Web3 professionals maintain LinkedIn profiles, the primary channels for talent discovery lie elsewhere. Immersing yourself in Web3's native environments is crucial.
+While some Web3 professionals maintain LinkedIn profiles, the primary channels for talent discovery lie elsewhere. Immersing yourself in Web3's native environments is important.
 
 - **Twitter (X):** This platform serves as the heartbeat of the crypto community. Follow key developers, researchers, and innovators within your niche. Engage thoughtfully with their content. The leaders in technical discussions on Twitter often represent the top-tier talent you seek.
 - **Discord:** Many Web3 communities thrive on Discord. Join channels related to your field but refrain from simply posting job listings in a `#hiring` channel. Actively contribute to discussions and identify insightful members who can be potential hires.
 - **GitHub:** For technical positions, GitHub is indispensable. Research developers making significant contributions to reputable open-source Web3 projects. A strong GitHub profile often serves as the most reliable indicator of a candidate’s abilities.
-- **Hackathons:** Events like ETHGlobal host a wealth of talent. Consider sponsoring a hackathon or offering bounties for innovative uses of your protocol. Many successful Web3 companies originate from teams that met at these events.
+- **Hackathons:** Events like ETHGlobal host a wealth of talent. Consider sponsoring a hackathon or offering bounties for new uses of your protocol. Many successful Web3 companies originate from teams that met at these events.
 
 ### Principle #2: Evaluate Proof of Work, Not Resumes
 
@@ -29,7 +29,7 @@ In Web3, demonstrated accomplishments carry more weight than traditional employm
 
 - **For Developers:**
     - **GitHub Review:** Examine their personal projects. Check for clean, well-documented code and a thorough test suite. A lack of tests can indicate carelessness.
-    - **On-Chain Activity:** Utilize block explorers to analyze their public [wallet](/how-to-choose-a-crypto-wallet) address. Investigate the protocols they’ve engaged with and their participation in governance.
+    - **On-Chain Activity:** Use block explorers to analyze their public [wallet](/how-to-choose-a-crypto-wallet) address. Investigate the protocols they’ve engaged with and their participation in governance.
 - **For Non-Technical Roles:**
     - **Public Writing:** Assess their contributions through insightful Twitter threads or blog posts. This reflects their expertise and communication skills.
     - **[DAO](/what-is-a-dao) Contributions:** Check their involvement in [DAOs](/the-rise-of-daos). Review their comments in governance forums and their proposals, which highlight their initiative and strategic thinking.
@@ -51,7 +51,7 @@ Web3 compensation structures differ significantly from traditional roles. Be pre
 - A substantial [token](/what-is-a-token) grant with a defined vesting schedule.
 - Possible equity in the company, particularly if it is a venture-backed startup.
 
-Clearly explain the project's [tokenomics](/understanding-tokenomics) and the potential long-term value of the token grant. This information is crucial for closing top candidates.
+Clearly explain the project's [tokenomics](/understanding-tokenomics) and the potential long-term value of the token grant. This information is important for closing top candidates.
 
 Recruiting in Web3 demands a profound understanding of the ecosystem. Passive observation will not yield success. By actively engaging with the community, evaluating both on-chain and off-chain proof of work, and building a collaborative hiring process, you can attract and retain the elite talent necessary to build the decentralized internet.
 
@@ -95,7 +95,7 @@ Tailor your learning based on your target role:
 
 - **Engineers:** Focus on Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Study token economics, protocol governance, and user growth in Web3.
-- **Business Development:** Gain expertise in market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Gain expertise in market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Learn community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio

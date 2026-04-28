@@ -36,7 +36,7 @@ The Web3 job market in Indonesia is expanding rapidly. Salaries are competitive 
 
 ### Strategies to Secure a Web3 Job in Indonesia
 
-1. **Fluency in Bahasa Indonesia:** For roles focused on community engagement, marketing, or user support, fluency in the local language is essential. This skill gives local talent an edge and is crucial for international companies entering the market.
+1. **Fluency in Bahasa Indonesia:** For roles focused on community engagement, marketing, or user support, fluency in the local language is essential. This skill gives local talent an edge and is important for international companies entering the market.
 2. **Highlight Mobile and Gaming Experience:** Emphasize any background in mobile app development or gaming. Demonstrating an understanding of mobile-first products and a passion for Web3 gaming is beneficial.
 3. **Develop a Community-Focused [Portfolio](/building-web3-portfolio):** For non-technical professionals, showcase community-centric projects.
    - **Manage a Gaming Guild:** Start and oversee a local gaming guild or community. Track and document your growth.
@@ -76,7 +76,7 @@ Base your learning on your target role:
 
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and relevant Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth in Web3.
-- **Business Development:** Gain skills in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain skills in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Focus on community building, Discord management, and governance.
 
 #### Step 3: Build a Compelling Portfolio
@@ -115,7 +115,7 @@ Alex worked as a backend engineer at a leading tech firm for five years. He dedi
 
 ### From Product Manager in Finance to Web3
 
-Jessica, a product manager with a background in traditional finance, utilized her expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her highly sought after. Within a short period, she secured a position at a top DeFi protocol.
+Jessica, a product manager with a background in traditional finance, used her expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her highly sought after. Within a short period, she secured a position at a top DeFi protocol.
 
 ### Career Transition Success
 

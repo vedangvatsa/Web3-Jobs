@@ -23,7 +23,7 @@ The quality of the team stands as the most critical predictor of success for any
 
 ### 2. The Problem and Product Offering
 
-Understanding the problem the startup aims to solve is crucial.
+Understanding the problem the startup aims to solve is important.
 
 - **Problem Significance:** Determine if the startup addresses a significant issue or if it is merely a "solution in search of a problem." Successful projects typically have a compelling case for why their solution belongs on a blockchain.
 - **Product Experience:** Engage with the product firsthand. Is it user-friendly? Does it provide clear value? Identify any major pain points in the user experience.
@@ -124,7 +124,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Product Manager's Move
 
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi. Her knowledge of financial products combined with an understanding of Web3 technology made her highly sought after. She secured a role at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi. Her knowledge of financial products combined with an understanding of Web3 technology made her highly sought after. She secured a role at a leading DeFi protocol within a short timeframe.
 
 ### Career Change Success
 

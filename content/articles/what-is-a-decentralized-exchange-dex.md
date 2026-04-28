@@ -1,7 +1,7 @@
 ---
 
 title: What is a Decentralized Exchange (DEX)
-description: Explore how decentralized exchanges (DEXs) are revolutionizing crypto trading by enabling peer-to-peer transactions without intermediaries, and learn how they differ from centralized exchanges.
+description: Explore how decentralized exchanges (DEXs) are changing crypto trading by enabling peer-to-peer transactions without intermediaries, and learn how they differ from centralized exchanges.
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 category: "Educational"
 data-ai-hint: cryptocurrency exchange
@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-Decentralized exchanges, or DEXs, transform the trading of digital assets. Unlike centralized exchanges (CEXs) such as Coinbase or Binance, which operate under a single company’s control, DEXs utilize [smart contracts](/what-are-smart-contracts) to facilitate direct trades between users. This peer-to-peer structure allows traders to maintain custody of their funds, creating a more secure and transparent trading environment.
+Decentralized exchanges, or DEXs, transform the trading of digital assets. Unlike centralized exchanges (CEXs) such as Coinbase or Binance, which operate under a single company’s control, DEXs use [smart contracts](/what-are-smart-contracts) to facilitate direct trades between users. This peer-to-peer structure allows traders to maintain custody of their funds, creating a more secure and transparent trading environment.
 
 The primary innovation in many contemporary DEXs is the Automated Market Maker (AMM). Traditional exchanges rely on order books where buyers and sellers are matched. In contrast, AMMs operate using liquidity pools, which consist of pairs of [tokens](/what-is-a-token) locked in a smart contract. The pricing of these assets derives from a mathematical formula based on the ratio of tokens within the pool. When engaging in a trade on a DEX, users are not trading with an individual directly but rather against a liquidity pool.
 
@@ -53,7 +53,7 @@ Despite their benefits, DEXs carry inherent risks. Smart contract vulnerabilitie
 
 ### Anonymity in DEXs
 
-DEXs are not completely anonymous; they function on a pseudonymous basis. While a user's real-world identity does not link to an account, all transactions remain publicly visible on the [blockchain](/what-is-a-blockchain) and connect to a specific wallet address. This distinction is crucial for users who value privacy.
+DEXs are not completely anonymous; they function on a pseudonymous basis. While a user's real-world identity does not link to an account, all transactions remain publicly visible on the [blockchain](/what-is-a-blockchain) and connect to a specific wallet address. This distinction is important for users who value privacy.
 
 ### Revenue Generation for DEXs
 

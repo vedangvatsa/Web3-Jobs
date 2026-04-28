@@ -89,7 +89,7 @@ Juan, a product manager in the DeFi sector, struggled with credibility in a comp
 
 #### Example 3: Transitioning from Web2 to Web3
 
-Maya transitioned from a traditional Web2 role to a Web3 environment. By utilizing SBT principles, she quickly adapted to the new sector, earning SBTs from various DAOs and projects. Her success illustrates that understanding and applying SBTs can facilitate transitions across different fields.
+Maya transitioned from a traditional Web2 role to a Web3 environment. By using SBT principles, she quickly adapted to the new sector, earning SBTs from various DAOs and projects. Her success illustrates that understanding and applying SBTs can facilitate transitions across different fields.
 
 ### Common Missteps to Avoid
 

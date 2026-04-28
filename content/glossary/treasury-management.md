@@ -9,7 +9,7 @@ relatedTerms: ["dao", "governance", "protocol", "token"]
 synonyms: ["treasury operations", "reserves management", "protocol funds"]
 ---
 
-Treasury Management refers to the strategic oversight of cryptocurrency reserves held by decentralized protocols. It encompasses decisions around allocation, deployment, and preservation of digital assets to ensure long-term sustainability and growth. This discipline combines traditional finance principles with blockchain-native governance mechanisms, where token holders collectively vote on how funds should be utilized. Uniswap provides a prominent example, maintaining a treasury that includes UNI tokens, ETH, and stablecoins, with allocation decisions ranging from developer grants to liquidity provisioning and ecosystem incentives. Poor treasury management through misallocation, failed investments, or security breaches can devastate even well-established protocols. Effective stewardship enables sustained development and competitive positioning. As protocols increasingly professionalize their financial operations, demand for treasury analysts and DeFi finance specialists continues to grow across the Web3 job market.
+Treasury Management refers to the strategic oversight of cryptocurrency reserves held by decentralized protocols. It encompasses decisions around allocation, deployment, and preservation of digital assets to ensure long-term sustainability and growth. This discipline combines traditional finance principles with blockchain-native governance mechanisms, where token holders collectively vote on how funds should be used. Uniswap provides a prominent example, maintaining a treasury that includes UNI tokens, ETH, and stablecoins, with allocation decisions ranging from developer grants to liquidity provisioning and ecosystem incentives. Poor treasury management through misallocation, failed investments, or security breaches can devastate even well-established protocols. Effective stewardship enables sustained development and competitive positioning. As protocols increasingly professionalize their financial operations, demand for treasury analysts and DeFi finance specialists continues to grow across the Web3 job market.
 
 ## Treasury Components
 
@@ -139,15 +139,15 @@ Well-designed governance structures mitigate but don't eliminate these challenge
 
 Treasury management creates roles:
 
-**Treasury Managers** managing protocol reserves.
+- **Treasury Managers** managing protocol reserves.
 
-**Protocol Economists** designing treasury allocation strategies.
+- **Protocol Economists** designing treasury allocation strategies.
 
-**Governance Analysts** analyzing treasury proposals.
+- **Governance Analysts** analyzing treasury proposals.
 
-**Risk Managers** assessing treasury risk.
+- **Risk Managers** assessing treasury risk.
 
-**Fund Managers** deploying capital from treasury.
+- **Fund Managers** deploying capital from treasury.
 
 ## Best Practices
 

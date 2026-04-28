@@ -113,13 +113,13 @@ On-chain governance is widely adopted.
 
 Governance roles:
 
-**Governance Researchers**.
+- **Governance Researchers**.
 
-**DAO Operations** roles.
+- **DAO Operations** roles.
 
-**Protocol Designers**.
+- **Protocol Designers**.
 
-**Community Managers**.
+- **Community Managers**.
 
 ## Best Practices
 

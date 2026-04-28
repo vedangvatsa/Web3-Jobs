@@ -116,7 +116,7 @@ Traditional wallets are Externally Owned Accounts (EOAs), addresses controlled b
 - Gasless transactions: Someone else can pay gas fees
 - Batched transactions: Execute multiple operations atomically
 
-- **ERC-4337 Account Abstraction**: New standard enabling smart contract wallet features without protocol changes. Argent and Safe are pioneering adoption.
+- **ERC-4337 Account Abstraction**: New standard enabling smart contract wallet features without protocol changes. Argent and Safe are leading adoption.
 
 ## Wallet Security Best Practices
 

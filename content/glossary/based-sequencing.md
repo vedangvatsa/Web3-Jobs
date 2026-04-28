@@ -104,13 +104,13 @@ These innovations aim to preserve the decentralization benefits of based sequenc
 
 As based rollups mature, demand is growing for engineers and researchers specializing in this architecture:
 
-**Based Rollup Protocol Engineers** design and implement based rollup systems, working on state transition functions, proof generation, and L1 integration.
+- **Based Rollup Protocol Engineers** design and implement based rollup systems, working on state transition functions, proof generation, and L1 integration.
 
-**MEV Researchers** study MEV dynamics in based rollups, developing strategies to protect users and optimize validator incentives.
+- **MEV Researchers** study MEV dynamics in based rollups, developing strategies to protect users and optimize validator incentives.
 
-**Rollup Infrastructure Engineers** build supporting infrastructure like specialized mempools, RPC nodes, and monitoring tools for based rollups.
+- **Rollup Infrastructure Engineers** build supporting infrastructure like specialized mempools, RPC nodes, and monitoring tools for based rollups.
 
-**Blockchain Economists** model the economic incentives and game theory of based sequencing, including fee markets and validator behavior.
+- **Blockchain Economists** model the economic incentives and game theory of based sequencing, including fee markets and validator behavior.
 
 Career growth in this field requires deep understanding of Ethereum's consensus layer, rollup technologies, and mechanism design.
 
@@ -126,7 +126,7 @@ When interacting with based rollups:
 
 - **Understand Finality**: Based rollup transactions inherit Ethereum's finality guarantees. Transactions are probabilistically final after a few blocks and absolutely final after checkpoint finalization.
 
-- **Leverage Decentralization**: Take advantage of the censorship resistance. Based rollups are ideal for applications where decentralization is paramount, even at the cost of some latency.
+- **Use Decentralization**: Take advantage of the censorship resistance. Based rollups are ideal for applications where decentralization is paramount, even at the cost of some latency.
 
 ## The Future of Based Sequencing
 
@@ -134,4 +134,4 @@ Based sequencing represents a commitment to decentralization and alignment with 
 
 The success of based sequencing will depend on solving the preconfirmation challenge, managing MEV dynamics, and demonstrating that users value decentralization enough to accept longer confirmation times. If these challenges can be addressed, based rollups may become the standard for truly decentralized Layer 2 scaling.
 
-**Ready to build on based rollups?** Explore Taiko, study Ethereum's proposer-builder separation, and contribute to the next generation of decentralized scaling solutions.
+- **Ready to build on based rollups?** Explore Taiko, study Ethereum's proposer-builder separation, and contribute to the next generation of decentralized scaling solutions.
