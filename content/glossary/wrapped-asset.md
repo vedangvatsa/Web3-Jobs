@@ -15,17 +15,17 @@ Wrapped Asset refers to a tokenized representation of an asset from one blockcha
 
 How wrapping works:
 
-**Locking**: Original asset locked in custody smart contract on source chain.
+- **Locking**: Original asset locked in custody smart contract on source chain.
 
-**Minting**: Equivalent wrapped token minted on destination chain.
+- **Minting**: Equivalent wrapped token minted on destination chain.
 
-**1:1 Backing**: Wrapped token backed by locked asset. Can always unwrap.
+- **1:1 Backing**: Wrapped token backed by locked asset. Can always unwrap.
 
-**Transfer**: Use wrapped asset on destination chain normally.
+- **Transfer**: Use wrapped asset on destination chain normally.
 
-**Unwrapping**: Burn wrapped asset, receive original asset from custody.
+- **Unwrapping**: Burn wrapped asset, receive original asset from custody.
 
-**Custody**: Bridge/custodian holds original asset. Custody security is critical.
+- **Custody**: Bridge/custodian holds original asset. Custody security is critical.
 
 Wrapped assets are backed by locked originals.
 
@@ -33,13 +33,13 @@ Wrapped assets are backed by locked originals.
 
 Common examples:
 
-**Wrapped Bitcoin (wBTC)**: Most liquid Bitcoin bridge.
+- **Wrapped Bitcoin (wBTC)**: Most liquid Bitcoin bridge.
 
-**Wrapped Ether**: Wrapped ETH on side-chains and other chains.
+- **Wrapped Ether**: Wrapped ETH on side-chains and other chains.
 
-**Wrapped Staked ETH (wstETH)**: Wrapped staked ETH from Lido.
+- **Wrapped Staked ETH (wstETH)**: Wrapped staked ETH from Lido.
 
-**Wrapped versions**: Nearly every major token has wrapped versions on other chains.
+- **Wrapped versions**: Nearly every major token has wrapped versions on other chains.
 
 Wrapping enables cross-chain capital allocation.
 
@@ -61,15 +61,15 @@ Native assets are simpler; wrapped assets enable cross-chain use.
 
 Potential issues:
 
-**Custody Risk**: Bridge/custodian could steal or lose backing assets.
+- **Custody Risk**: Bridge/custodian could steal or lose backing assets.
 
-**Peg Risk**: Wrapped asset can trade below underlying.
+- **Peg Risk**: Wrapped asset can trade below underlying.
 
-**Bridge Exploit Risk**: Bridge vulnerability could make wrapped asset worthless.
+- **Bridge Exploit Risk**: Bridge vulnerability could make wrapped asset worthless.
 
-**Liquidity Risk**: Large unwraps could exceed available liquidity.
+- **Liquidity Risk**: Large unwraps could exceed available liquidity.
 
-**Counterparty Risk**: Depends on bridge operator's integrity.
+- **Counterparty Risk**: Depends on bridge operator's integrity.
 
 Wrapped assets have centralization risks.
 
@@ -77,13 +77,13 @@ Wrapped assets have centralization risks.
 
 How pegs stay stable:
 
-**Arbitrage**: If wBTC trades below BTC, arbitrageurs buy wBTC, unwrap, sell BTC. This pushes wBTC up.
+- **Arbitrage**: If wBTC trades below BTC, arbitrageurs buy wBTC, unwrap, sell BTC. This pushes wBTC up.
 
-**Market Makers**: Market makers provide liquidity maintaining tight peg.
+- **Market Makers**: Market makers provide liquidity maintaining tight peg.
 
-**Liquidity**: Deep liquidity pools keep wBTC price stable.
+- **Liquidity**: Deep liquidity pools keep wBTC price stable.
 
-**Confidence**: If users doubt backing, peg breaks. Trust must be maintained.
+- **Confidence**: If users doubt backing, peg breaks. Trust must be maintained.
 
 Pegs are stable if arbitrage works and trust is maintained.
 
@@ -91,15 +91,15 @@ Pegs are stable if arbitrage works and trust is maintained.
 
 How pegs stay stable:
 
-**Arbitrage Economics**: If wBTC trades at a discount to BTC, arbitrageurs can profit by buying wBTC, unwrapping it, and selling BTC.
+- **Arbitrage Economics**: If wBTC trades at a discount to BTC, arbitrageurs can profit by buying wBTC, unwrapping it, and selling BTC.
 
-**Market Makers**: Maintain tight bid-ask spread. Large spreads indicate low confidence in peg.
+- **Market Makers**: Maintain tight bid-ask spread. Large spreads indicate low confidence in peg.
 
-**Liquidity Pools**: Deep liquidity enables large swaps without price movement. This supports the peg.
+- **Liquidity Pools**: Deep liquidity enables large swaps without price movement. This supports the peg.
 
-**Trust in Backing**: If users doubt backing, they may refuse to hold wBTC at any price. This can break the peg.
+- **Trust in Backing**: If users doubt backing, they may refuse to hold wBTC at any price. This can break the peg.
 
-**Exchange Support**: If major exchanges delist wBTC or make unwrapping difficult, the peg can break. Network effects are critical.
+- **Exchange Support**: If major exchanges delist wBTC or make unwrapping difficult, the peg can break. Network effects are critical.
 
 Pegs are stable if arbitrage is profitable and users trust backing.
 
@@ -107,13 +107,13 @@ Pegs are stable if arbitrage is profitable and users trust backing.
 
 Historical issues:
 
-**Wrapped Bitcoin (wBTC)**: Custodied by various companies. If compromised, there is significant risk.
+- **Wrapped Bitcoin (wBTC)**: Custodied by various companies. If compromised, there is significant risk.
 
-**Wrapped Staked ETH (wstETH)**: Custodied by Lido. If Lido is hacked, there is substantial risk.
+- **Wrapped Staked ETH (wstETH)**: Custodied by Lido. If Lido is hacked, there is substantial risk.
 
-**Nomad Bridge Hack**: A significant amount was drained when a bridge verification bug was exploited, rendering wrapped assets worthless.
+- **Nomad Bridge Hack**: A significant amount was drained when a bridge verification bug was exploited, rendering wrapped assets worthless.
 
-**Poly Network Hack**: A large amount was stolen, demonstrating custodial concentration risk.
+- **Poly Network Hack**: A large amount was stolen, demonstrating custodial concentration risk.
 
 Custodial risk is a serious consideration for wrapped assets.
 
@@ -137,27 +137,27 @@ Wrapped asset infrastructure creates roles:
 
 Using wrapped assets:
 
-**Understand Backing**: Know what backs the wrapped asset.
+- **Understand Backing**: Know what backs the wrapped asset.
 
-**Monitor Bridge**: Track bridge security.
+- **Monitor Bridge**: Track bridge security.
 
-**Diversify**: Use multiple bridges rather than a single dependency.
+- **Diversify**: Use multiple bridges rather than a single dependency.
 
-**Plan Exits**: Ensure you can unwrap when needed.
+- **Plan Exits**: Ensure you can unwrap when needed.
 
-**Peg Monitoring**: Be alert if the wrapped asset significantly deviates from its peg.
+- **Peg Monitoring**: Be alert if the wrapped asset significantly deviates from its peg.
 
 ## The Future of Wrapped Assets
 
 Evolution:
 
-**Better Bridges**: Safer, more efficient bridges.
+- **Better Bridges**: Safer, more efficient bridges.
 
-**Native Cross-Chain**: Building native cross-chain compatibility into layer 1s.
+- **Native Cross-Chain**: Building native cross-chain compatibility into layer 1s.
 
-**Unified Standards**: Common standards for wrapped assets.
+- **Unified Standards**: Common standards for wrapped assets.
 
-**Real Asset Wrapping**: Wrapping real-world assets on the blockchain.
+- **Real Asset Wrapping**: Wrapping real-world assets on the blockchain.
 
 ## Enable Cross-Chain Capital
 

@@ -107,24 +107,24 @@ ZK rollups use two main proof systems:
 
 ### ZK-SNARKs (Succinct Non-Interactive Argument of Knowledge)
 
-**Properties**:
+- **Properties**:
 - Very small proofs.
 - Fast verification.
 - Requires trusted setup.
 - Based on elliptic curve pairings.
 
-**Used By**: zkSync Era, Polygon zkEVM (early versions), Scroll.
+- **Used By**: zkSync Era, Polygon zkEVM (early versions), Scroll.
 
 ### ZK-STARKs (Scalable Transparent Argument of Knowledge)
 
-**Properties**:
+- **Properties**:
 - Larger proofs.
 - Slower verification.
 - No trusted setup.
 - Quantum-resistant.
 - Based on hash functions and polynomial commitments.
 
-**Used By**: StarkNet, Polygon zkEVM (transitioning), some Validiums.
+- **Used By**: StarkNet, Polygon zkEVM (transitioning), some Validiums.
 
 ## ZK-EVM: The Holy Grail
 
@@ -136,92 +136,92 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 
 ### Types of zkEVMs
 
-**Type 1 (Ethereum-Equivalent)**:
+- **Type 1 (Ethereum-Equivalent)**:
 - Byte-for-byte identical to Ethereum.
 - Can verify Ethereum L1 blocks with ZK proofs.
 - Slowest proving times.
 
-**Type 2 (EVM-Equivalent)**:
+- **Type 2 (EVM-Equivalent)**:
 - Equivalent at the EVM level but makes minor modifications for efficiency.
 - Existing contracts deploy unchanged.
 - Moderate proving times.
 
-**Type 2.5 (EVM-Compatible with Gas Changes)**:
+- **Type 2.5 (EVM-Compatible with Gas Changes)**:
 - Nearly EVM-equivalent but changes gas costs for ZK-friendly operations.
 - Most contracts work with minor adjustments.
 - Faster proving.
 
-**Type 3 (Almost EVM-Compatible)**:
+- **Type 3 (Almost EVM-Compatible)**:
 - Some EVM features removed or modified for faster proving.
 - Most contracts work but some require rewrites.
 
-**Type 4 (High-Level Language Compatible)**:
+- **Type 4 (High-Level Language Compatible)**:
 - Compiles Solidity to a different VM.
 - Many contracts need significant changes.
 - Fastest proving times.
 
-**The Race**: Type 2 zkEVMs (Polygon, Scroll) are balancing compatibility with performance. Type 1 remains the long-term goal.
+- **The Race**: Type 2 zkEVMs (Polygon, Scroll) are balancing compatibility with performance. Type 1 remains the long-term goal.
 
 ## Major ZK Rollup Projects
 
 ### zkSync Era
 
-**Developer**: Matter Labs  
-**Type**: Type 3 zkEVM transitioning toward Type 2  
-**Proof System**: ZK-SNARKs  
+- **Developer**: Matter Labs  
+- **Type**: Type 3 zkEVM transitioning toward Type 2  
+- **Proof System**: ZK-SNARKs  
 
-**Key Features**:
+- **Key Features**:
 - Native account abstraction.
 - Strong ecosystem growth.
 - ZK token for governance.
 - Plans for zkEVM full compatibility.
 
-**Status**: Mainnet since March 2023.
+- **Status**: Mainnet since March 2023.
 
 ### Polygon zkEVM
 
-**Developer**: Polygon Labs  
-**Type**: Type 2 zkEVM  
-**Proof System**: FRI-based STARKs + SNARKs (hybrid)  
+- **Developer**: Polygon Labs  
+- **Type**: Type 2 zkEVM  
+- **Proof System**: FRI-based STARKs + SNARKs (hybrid)  
 
-**Key Features**:
+- **Key Features**:
 - High EVM equivalence.
 - Part of Polygon 2.0 vision.
 - Integrated with Polygon ecosystem.
 
-**Status**: Mainnet since March 2023.
+- **Status**: Mainnet since March 2023.
 
 ### Scroll
 
-**Developer**: Scroll Foundation  
-**Type**: Type 2 zkEVM  
-**Proof System**: ZK-SNARKs  
+- **Developer**: Scroll Foundation  
+- **Type**: Type 2 zkEVM  
+- **Proof System**: ZK-SNARKs  
 
-**Key Features**:
+- **Key Features**:
 - Close EVM equivalence for easy migration.
 - Bytecode-level compatibility.
 - Open-source prover.
 
-**Status**: Mainnet since October 2023.
+- **Status**: Mainnet since October 2023.
 
 ### StarkNet
 
-**Developer**: StarkWare  
-**Type**: Type 4 (Cairo VM, not EVM)  
-**Proof System**: ZK-STARKs  
+- **Developer**: StarkWare  
+- **Type**: Type 4 (Cairo VM, not EVM)  
+- **Proof System**: ZK-STARKs  
 
-**Key Features**:
+- **Key Features**:
 - Cairo language (custom for ZK-friendliness).
 - No trusted setup.
 - Native account abstraction.
 
-**Status**: Mainnet since 2021.
+- **Status**: Mainnet since 2021.
 
 ### Other Notable Projects
 
 **Linea** (ConsenSys): Type 2 zkEVM, tight MetaMask integration.  
-**Taiko**: Type 1 zkEVM (most Ethereum-equivalent), based rollup.  
-**Aztec**: Privacy-focused ZK rollup with confidential transactions.
+- **Taiko**: Type 1 zkEVM (most Ethereum-equivalent), based rollup.  
+- **Aztec**: Privacy-focused ZK rollup with confidential transactions.
 
 ## Challenges Facing ZK Rollups
 
@@ -229,45 +229,45 @@ Despite advantages, ZK rollups face significant challenges:
 
 ### Proof Generation Costs
 
-**Problem**: Generating ZK proofs requires:
+- **Problem**: Generating ZK proofs requires:
 - Specialized hardware.
 - Significant electricity costs.
 - Expertise in cryptographic engineering.
 
-**Solution**: Amortize costs over large batches, hardware acceleration, improved proof systems.
+- **Solution**: Amortize costs over large batches, hardware acceleration, improved proof systems.
 
 ### Proving Time
 
-**Problem**: Generating proofs can take:
+- **Problem**: Generating proofs can take:
 - Minutes to hours for large batches.
 
-**Impact**: Delays finality even though no challenge period exists.
+- **Impact**: Delays finality even though no challenge period exists.
 
-**Solution**: Faster provers, recursive proofs, batching optimizations.
+- **Solution**: Faster provers, recursive proofs, batching optimizations.
 
 ### EVM Compatibility Complexity
 
-**Problem**: Making the EVM ZK-friendly is difficult:
+- **Problem**: Making the EVM ZK-friendly is difficult:
 - EVM has many opcodes, many not ZK-friendly.
 - Ethereum's state model is complex.
 
-**Solution**: Type 2 zkEVMs making tradeoffs, continued research on proof systems.
+- **Solution**: Type 2 zkEVMs making tradeoffs, continued research on proof systems.
 
 ### Prover Centralization
 
-**Problem**: Specialized hardware and expertise means only a few entities can generate proofs.
+- **Problem**: Specialized hardware and expertise means only a few entities can generate proofs.
 
-**Concerns**: Centralized provers could censor by refusing to prove certain batches.
+- **Concerns**: Centralized provers could censor by refusing to prove certain batches.
 
-**Solution**: Permissionless prover networks, fallback mechanisms.
+- **Solution**: Permissionless prover networks, fallback mechanisms.
 
 ### Immaturity
 
-**Problem**: ZK technology is still emerging:
+- **Problem**: ZK technology is still emerging:
 - Bug risks in complex cryptographic code.
 - Limited auditing expertise.
 
-**Solution**: Extensive audits, formal verification, bug bounties.
+- **Solution**: Extensive audits, formal verification, bug bounties.
 
 ## ZK Rollups vs. Optimistic Rollups
 
@@ -288,9 +288,9 @@ Despite advantages, ZK rollups face significant challenges:
 
 ### User Costs
 
-**Transaction Fees**: Currently similar to Optimistic rollups.
+- **Transaction Fees**: Currently similar to Optimistic rollups.
 
-**Cost Breakdown**:
+- **Cost Breakdown**:
 - L1 data posting: 60-80% of cost.
 - Proof generation: 20-30%.
 - Proof verification on L1: 5-10%.
@@ -298,12 +298,12 @@ Despite advantages, ZK rollups face significant challenges:
 
 ### Rollup Economics
 
-**Costs**:
+- **Costs**:
 - Prover hardware and electricity.
 - L1 data availability and proof verification.
 - Sequencer infrastructure.
 
-**Revenue**:
+- **Revenue**:
 - Transaction fees from users.
 - MEV extraction.
 - Protocol tokens.
@@ -314,50 +314,50 @@ ZK rollups are more capital-intensive than Optimistic rollups due to proving cos
 
 The ZK rollup ecosystem offers roles:
 
-**Cryptographic Engineers**: Design and implement ZK proof systems, optimize circuits, and develop proof generation algorithms.
+- **Cryptographic Engineers**: Design and implement ZK proof systems, optimize circuits, and develop proof generation algorithms.
 
-**zkEVM Engineers**: Build EVM-compatible ZK rollups, implementing opcodes as ZK circuits.
+- **zkEVM Engineers**: Build EVM-compatible ZK rollups, implementing opcodes as ZK circuits.
 
-**Proof System Researchers**: Research new proof systems and prove security properties.
+- **Proof System Researchers**: Research new proof systems and prove security properties.
 
-**Hardware Engineers (ZK)**: Design ASICs, FPGAs, and GPU accelerators for proof generation.
+- **Hardware Engineers (ZK)**: Design ASICs, FPGAs, and GPU accelerators for proof generation.
 
-**Smart Contract Developers (ZK L2)**: Build dApps on ZK rollups, understanding ZK-specific considerations.
+- **Smart Contract Developers (ZK L2)**: Build dApps on ZK rollups, understanding ZK-specific considerations.
 
-**Formal Verification Engineers**: Formally verify ZK circuits and proof systems for correctness.
+- **Formal Verification Engineers**: Formally verify ZK circuits and proof systems for correctness.
 
 ## Best Practices for ZK Rollup Developers
 
 When building on ZK rollups:
 
-**Test on Specific Rollup**: Even with EVM compatibility, test on the actual ZK rollup as subtle differences exist.
+- **Test on Specific Rollup**: Even with EVM compatibility, test on the actual ZK rollup as subtle differences exist.
 
-**Understand Gas Differences**: Some operations may have different gas costs due to ZK proving complexity.
+- **Understand Gas Differences**: Some operations may have different gas costs due to ZK proving complexity.
 
-**Optimize for ZK**: Minimize operations expensive to prove when possible.
+- **Optimize for ZK**: Minimize operations expensive to prove when possible.
 
-**Use Native Features**: Leverage rollup-specific features.
+- **Use Native Features**: Leverage rollup-specific features.
 
-**Plan for Proving Time**: Account for proving delays in your application flow.
+- **Plan for Proving Time**: Account for proving delays in your application flow.
 
-**Monitor Provers**: Understand the rollup's prover decentralization and have contingencies for prover downtime.
+- **Monitor Provers**: Understand the rollup's prover decentralization and have contingencies for prover downtime.
 
 ## The Future of ZK Rollups
 
 ZK rollups are rapidly evolving:
 
-**Type 1 zkEVMs**: Eventually, full Ethereum equivalence will be achieved with acceptable proving times.
+- **Type 1 zkEVMs**: Eventually, full Ethereum equivalence will be achieved with acceptable proving times.
 
-**Hardware Acceleration**: Specialized hardware will make proving faster and cheaper.
+- **Hardware Acceleration**: Specialized hardware will make proving faster and cheaper.
 
-**Recursive Proofs**: Proofs of proofs enabling scaling.
+- **Recursive Proofs**: Proofs of proofs enabling scaling.
 
-**Privacy Features**: Native private transactions and confidential smart contracts.
+- **Privacy Features**: Native private transactions and confidential smart contracts.
 
-**Prover Decentralization**: Permissionless prover networks removing centralization concerns.
+- **Prover Decentralization**: Permissionless prover networks removing centralization concerns.
 
-**Hybrid Models**: Combining ZK and Optimistic approaches for optimal tradeoffs.
+- **Hybrid Models**: Combining ZK and Optimistic approaches for optimal tradeoffs.
 
-**Universal Adoption**: As technology matures, ZK rollups may become the default L2 solution.
+- **Universal Adoption**: As technology matures, ZK rollups may become the default L2 solution.
 
 ZK rollups represent the forefront of blockchain scaling and cryptography. While they're more complex and less mature than Optimistic rollups today, their fundamental advantages suggest they'll dominate the long-term L2 solutions.

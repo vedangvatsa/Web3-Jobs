@@ -86,7 +86,7 @@ This reduces L1 gas costs since verification only happens when needed.
 3. That single step is executed on L1 to determine correctness.
 4. Sequencer loses their bond if fraud is proven; challenger is rewarded.
 
-**Interactive vs. Non-Interactive**:
+- **Interactive vs. Non-Interactive**:
 - **Interactive** (Arbitrum): Multiple rounds of back-and-forth to narrow down the dispute.
 - **Non-Interactive** (proposed for Optimism): Challenger submits proof directly without interaction.
 
@@ -101,7 +101,7 @@ The **7-day challenge period** is a fundamental tradeoff:
 - Provides buffer for social coordination if something goes wrong.
 - Allows for L1 congestion, network issues, or other delays.
 
-**Drawbacks**:
+- **Drawbacks**:
 - **Slow Withdrawals**: Users must wait 7 days to withdraw funds from the rollup to L1.
 - **Poor UX**: 7-day wait is unacceptable for many use cases.
 - **Capital Inefficiency**: Liquidity providers filling "fast withdrawals" need to lock capital for 7 days.
@@ -112,9 +112,9 @@ Some rollups are exploring shorter challenge periods or preconfirmation mechanis
 
 ### Arbitrum One
 
-**Overview**: The largest Optimistic rollup by TVL and usage, developed by Offchain Labs.
+- **Overview**: The largest Optimistic rollup by TVL and usage, developed by Offchain Labs.
 
-**Key Features**:
+- **Key Features**:
 - **Arbitrum Nitro**: Second-generation tech using WASM for faster execution.
 - **Interactive fraud proofs**: Efficient multi-round challenge protocol.
 - **EVM+ compatibility**: Supports EVM plus additional precompiles.
@@ -122,9 +122,9 @@ Some rollups are exploring shorter challenge periods or preconfirmation mechanis
 
 ### Optimism Mainnet
 
-**Overview**: The original Optimistic rollup, developed by OP Labs.
+- **Overview**: The original Optimistic rollup, developed by OP Labs.
 
-**Key Features**:
+- **Key Features**:
 - **OP Stack**: Modular framework for deploying OP-based rollups.
 - **Superchain**: Vision of many interconnected OP Stack chains.
 - **EVM equivalence**: Strives for byte-for-byte EVM compatibility.
@@ -132,9 +132,9 @@ Some rollups are exploring shorter challenge periods or preconfirmation mechanis
 
 ### Base
 
-**Overview**: Coinbase's Optimistic rollup built on the OP Stack.
+- **Overview**: Coinbase's Optimistic rollup built on the OP Stack.
 
-**Key Features**:
+- **Key Features**:
 - **OP Stack-based**: Uses Optimism's technology.
 - **Coinbase backing**: Strong institutional support and fiat on-ramps.
 - **Consumer focus**: Targets mainstream consumer applications.
@@ -167,11 +167,11 @@ The Optimistic vs. ZK (Zero-Knowledge) rollup debate is fundamental to L2 scalin
 
 Optimistic rollups excel at EVM compatibility:
 
-**Optimism**: "EVM-equivalent", aims for byte-for-byte compatibility with Ethereum, so contracts deploy identically.
+- **Optimism**: "EVM-equivalent", aims for byte-for-byte compatibility with Ethereum, so contracts deploy identically.
 
-**Arbitrum**: "EVM+", supports all EVM features plus some additional functionality.
+- **Arbitrum**: "EVM+", supports all EVM features plus some additional functionality.
 
-**Benefits**:
+- **Benefits**:
 - Existing Ethereum contracts deploy with minimal or no changes.
 - Developer tools (Hardhat, Foundry, Remix) work out-of-the-box.
 - Solidity skills directly transferable.
@@ -183,15 +183,15 @@ This EVM compatibility is a major reason for Optimistic rollup adoption.
 
 Optimistic rollups security relies on:
 
-**1-of-N Honest Assumption**: As long as at least one party is monitoring and willing to challenge fraud, the rollup is secure.
+- **1-of-N Honest Assumption**: As long as at least one party is monitoring and willing to challenge fraud, the rollup is secure.
 
-**Economic Security**: Sequencers must post bonds that get slashed if fraud is proven, incentivizing honesty.
+- **Economic Security**: Sequencers must post bonds that get slashed if fraud is proven, incentivizing honesty.
 
-**Data Availability**: All transaction data posted to L1 ensures anyone can verify correctness independently.
+- **Data Availability**: All transaction data posted to L1 ensures anyone can verify correctness independently.
 
-**L1 Settlement**: Ultimately, Ethereum L1 arbitrates disputes and enforces the correct state.
+- **L1 Settlement**: Ultimately, Ethereum L1 arbitrates disputes and enforces the correct state.
 
-**Risks**:
+- **Risks**:
 - If all challengers are offline or compromised simultaneously, fraud could slip through.
 - If the L1 contract has bugs, rollup security is compromised.
 - During the challenge period, state is not yet final.
@@ -202,21 +202,21 @@ Overall, Optimistic rollups inherit Ethereum's security with the additional assu
 
 ### User Costs
 
-**Transaction Fees**: Transaction fees are significantly lower than L1.
+- **Transaction Fees**: Transaction fees are significantly lower than L1.
 
-**Breakdown**:
+- **Breakdown**:
 - Execution cost: Minimal (off-chain computation is cheap).
 - L1 data cost: Majority of cost (posting calldata/blobs to L1).
 - Sequencer fee: Small markup for sequencer operation.
 
 ### Rollup Economics
 
-**Revenue Sources**:
+- **Revenue Sources**:
 - Transaction fees from users.
 - MEV extraction by sequencer.
 - L1 data cost savings.
 
-**Costs**:
+- **Costs**:
 - L1 data availability (calldata/blob costs).
 - L1 state root posting and proof verification.
 - Infrastructure (sequencers, RPC nodes, indexers).
@@ -228,33 +228,33 @@ Most Optimistic rollups are currently profitable or close to breakeven.
 
 Despite success, Optimistic rollups have limitations:
 
-**Slow Finality**: 7-day withdrawal period is a major UX issue.
+- **Slow Finality**: 7-day withdrawal period is a major UX issue.
 
-**Centralized Sequencers**: Most rollups use centralized sequencers, creating censorship risks.
+- **Centralized Sequencers**: Most rollups use centralized sequencers, creating censorship risks.
 
-**Data Availability Dependency**: Require L1 for data availability; if L1 is congested or unavailable, rollup can't post batches.
+- **Data Availability Dependency**: Require L1 for data availability; if L1 is congested or unavailable, rollup can't post batches.
 
-**No Native Interoperability**: Different rollups are isolated; cross-rollup transactions require bridges or special infrastructure.
+- **No Native Interoperability**: Different rollups are isolated; cross-rollup transactions require bridges or special infrastructure.
 
-**Security Reliance on Challengers**: If no one is watching, fraud could theoretically succeed.
+- **Security Reliance on Challengers**: If no one is watching, fraud could theoretically succeed.
 
-**Lower Throughput Than ZK Long-Term**: ZK rollups have higher theoretical throughput potential.
+- **Lower Throughput Than ZK Long-Term**: ZK rollups have higher theoretical throughput potential.
 
 ## Career Opportunities in Optimistic Rollups
 
 The Optimistic rollup ecosystem offers diverse roles:
 
-**Rollup Protocol Engineers**: Build core rollup infrastructure, including sequencers, fraud proof systems, and L1 contracts.
+- **Rollup Protocol Engineers**: Build core rollup infrastructure, including sequencers, fraud proof systems, and L1 contracts.
 
-**Smart Contract Developers (L2)**: Build dApps on Optimistic rollups, leveraging cheap fees and high throughput.
+- **Smart Contract Developers (L2)**: Build dApps on Optimistic rollups, leveraging cheap fees and high throughput.
 
-**Fraud Proof Researchers**: Research and implement fraud proof mechanisms, challenge games, and verification systems.
+- **Fraud Proof Researchers**: Research and implement fraud proof mechanisms, challenge games, and verification systems.
 
-**Sequencer Engineers**: Build and operate high-performance sequencers with low latency and high reliability.
+- **Sequencer Engineers**: Build and operate high-performance sequencers with low latency and high reliability.
 
-**Bridge Engineers**: Build bridges connecting Optimistic rollups to L1 and other rollups.
+- **Bridge Engineers**: Build bridges connecting Optimistic rollups to L1 and other rollups.
 
-**DAO Contributors**: Contribute to Arbitrum DAO or Optimism Collective governance, protocol upgrades, and ecosystem growth.
+- **DAO Contributors**: Contribute to Arbitrum DAO or Optimism Collective governance, protocol upgrades, and ecosystem growth.
 
 Optimistic rollup expertise is highly valued as rollups become the dominant Ethereum scaling solution.
 
@@ -262,35 +262,35 @@ Optimistic rollup expertise is highly valued as rollups become the dominant Ethe
 
 When building on Optimistic rollups:
 
-**Test Thoroughly**: Despite EVM compatibility, subtle differences exist, test on rollup testnets before mainnet.
+- **Test Thoroughly**: Despite EVM compatibility, subtle differences exist, test on rollup testnets before mainnet.
 
-**Optimize for L1 Data**: Minimize calldata size to reduce costs.
+- **Optimize for L1 Data**: Minimize calldata size to reduce costs.
 
-**Handle Challenge Period**: For withdrawals or cross-chain operations, account for the 7-day wait in your UX.
+- **Handle Challenge Period**: For withdrawals or cross-chain operations, account for the 7-day wait in your UX.
 
-**Use Native Bridges**: Use official rollup bridges for L1↔L2 transfers rather than third-party bridges when possible.
+- **Use Native Bridges**: Use official rollup bridges for L1↔L2 transfers rather than third-party bridges when possible.
 
-**Monitor Sequencer**: Track sequencer uptime and have contingency plans for downtime.
+- **Monitor Sequencer**: Track sequencer uptime and have contingency plans for downtime.
 
-**Gas Optimization**: While gas is cheap, optimize for large-scale applications to minimize cumulative costs.
+- **Gas Optimization**: While gas is cheap, optimize for large-scale applications to minimize cumulative costs.
 
-**Leverage Cheap Blockspace**: Build applications that were economically impossible on L1.
+- **Leverage Cheap Blockspace**: Build applications that were economically impossible on L1.
 
 ## The Future of Optimistic Rollups
 
 Optimistic rollups continue to evolve:
 
-**Decentralized Sequencers**: Major rollups moving toward decentralized sequencing.
+- **Decentralized Sequencers**: Major rollups moving toward decentralized sequencing.
 
-**Shorter Challenge Periods**: Research into shorter challenge periods without compromising security.
+- **Shorter Challenge Periods**: Research into shorter challenge periods without compromising security.
 
-**Preconfirmations**: Sequencers offering fast guarantees backed by bonds to mitigate slow finality.
+- **Preconfirmations**: Sequencers offering fast guarantees backed by bonds to mitigate slow finality.
 
-**Cross-Rollup Communication**: Shared sequencing and native interoperability between Optimistic rollups.
+- **Cross-Rollup Communication**: Shared sequencing and native interoperability between Optimistic rollups.
 
-**Hybrid OR/ZK**: Some rollups exploring hybrid models with optional ZK proofs for instant finality.
+- **Hybrid OR/ZK**: Some rollups exploring hybrid models with optional ZK proofs for instant finality.
 
-**OP Stack Expansion**: Hundreds of OP Stack chains creating interconnected rollups.
+- **OP Stack Expansion**: Hundreds of OP Stack chains creating interconnected rollups.
 
 Despite the rise of ZK rollups, Optimistic rollups will likely remain dominant for the foreseeable future due to their maturity, EVM compatibility, and strong ecosystem adoption. The rollup wars are just beginning, and Optimistic rollups have a strong early lead.
 

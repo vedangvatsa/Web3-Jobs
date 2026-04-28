@@ -15,15 +15,15 @@ Escrow is a neutral third-party arrangement where funds or assets are held until
 
 How it works:
 
-**Setup**: Two parties (Alice and Bob) and a neutral third party (escrow service).
+- **Setup**: Two parties (Alice and Bob) and a neutral third party (escrow service).
 
-**Deposit**: Alice deposits NFT with escrow. Bob deposits payment with escrow.
+- **Deposit**: Alice deposits NFT with escrow. Bob deposits payment with escrow.
 
-**Verification**: When both deposits are confirmed, escrow verifies conditions.
+- **Verification**: When both deposits are confirmed, escrow verifies conditions.
 
-**Release**: Once conditions are met, escrow releases payments simultaneously (atomic swap).
+- **Release**: Once conditions are met, escrow releases payments simultaneously (atomic swap).
 
-**Dispute Resolution**: If parties disagree, escrow or an arbitration system resolves.
+- **Dispute Resolution**: If parties disagree, escrow or an arbitration system resolves.
 
 Escrow enables atomic execution, preventing either party from cheating.
 
@@ -31,15 +31,15 @@ Escrow enables atomic execution, preventing either party from cheating.
 
 Trustless escrow:
 
-**Code Logic**: Smart contract enforces release conditions automatically.
+- **Code Logic**: Smart contract enforces release conditions automatically.
 
-**No Human Needed**: Smart contract acts as escrow, with no human intermediary.
+- **No Human Needed**: Smart contract acts as escrow, with no human intermediary.
 
-**Transparency**: All logic is public and auditable. Parties verify conditions are fair.
+- **Transparency**: All logic is public and auditable. Parties verify conditions are fair.
 
-**Atomic Execution**: Both transfers happen simultaneously or not at all. No partial execution.
+- **Atomic Execution**: Both transfers happen simultaneously or not at all. No partial execution.
 
-**Cheaper**: No escrow service fee or minimal gas fee.
+- **Cheaper**: No escrow service fee or minimal gas fee.
 
 Smart contracts eliminate the need for trusted human escrow.
 
@@ -47,15 +47,15 @@ Smart contracts eliminate the need for trusted human escrow.
 
 Applications:
 
-**NFT Marketplaces**: NFTs bought through escrow ensure both buyer and seller are protected.
+- **NFT Marketplaces**: NFTs bought through escrow ensure both buyer and seller are protected.
 
-**Atomic Swaps**: Trading ERC-20 tokens between blockchains using escrow ensures fairness.
+- **Atomic Swaps**: Trading ERC-20 tokens between blockchains using escrow ensures fairness.
 
-**Dispute Resolution**: Escrow holds funds during a dispute. Arbitration releases to the winner.
+- **Dispute Resolution**: Escrow holds funds during a dispute. Arbitration releases to the winner.
 
-**Salary Payments**: Companies hold employee salary in escrow until work is verified.
+- **Salary Payments**: Companies hold employee salary in escrow until work is verified.
 
-**Collateralized Loans**: Lender releases a loan to the borrower as the borrower deposits collateral in escrow.
+- **Collateralized Loans**: Lender releases a loan to the borrower as the borrower deposits collateral in escrow.
 
 Escrow enables trustless transactions across many scenarios.
 
@@ -63,15 +63,15 @@ Escrow enables trustless transactions across many scenarios.
 
 Real implementations:
 
-**OpenSea**: NFT marketplace using escrow for sales. Buyer funds are held in escrow until the seller transfers the NFT.
+- **OpenSea**: NFT marketplace using escrow for sales. Buyer funds are held in escrow until the seller transfers the NFT.
 
-**Uniswap Socks**: Token swap using escrow contracts for atomic swaps.
+- **Uniswap Socks**: Token swap using escrow contracts for atomic swaps.
 
-**Gnosis Safe**: Multi-sig wallet can hold funds in escrow until conditions are met.
+- **Gnosis Safe**: Multi-sig wallet can hold funds in escrow until conditions are met.
 
-**Aragon Court**: Dispute resolution using escrow for staking and rewards.
+- **Aragon Court**: Dispute resolution using escrow for staking and rewards.
 
-**0x Protocol**: Order matching with escrow for atomic token swaps.
+- **0x Protocol**: Order matching with escrow for atomic token swaps.
 
 Major DeFi platforms use escrow for trustless execution.
 
@@ -79,15 +79,15 @@ Major DeFi platforms use escrow for trustless execution.
 
 Safety considerations:
 
-**Smart Contract Risk**: Bugs in escrow contracts can cause fund loss.
+- **Smart Contract Risk**: Bugs in escrow contracts can cause fund loss.
 
-**Dispute System**: Must have fair dispute resolution if conditions are ambiguous.
+- **Dispute System**: Must have fair dispute resolution if conditions are ambiguous.
 
-**Immutability**: Cannot undo escrow release once executed. Must be careful.
+- **Immutability**: Cannot undo escrow release once executed. Must be careful.
 
-**Oracle Risk**: Escrow using external data depends on oracle accuracy.
+- **Oracle Risk**: Escrow using external data depends on oracle accuracy.
 
-**Timelocks**: Escrow should have timelocks preventing indefinite fund lockup.
+- **Timelocks**: Escrow should have timelocks preventing indefinite fund lockup.
 
 Escrow security requires careful design and auditing.
 
@@ -95,13 +95,13 @@ Escrow security requires careful design and auditing.
 
 Financial implications:
 
-**Traditional Escrow**: Typically incurs a fee for escrow services.
+- **Traditional Escrow**: Typically incurs a fee for escrow services.
 
-**Smart Contract Escrow**: Gas fees only, which vary based on network conditions.
+- **Smart Contract Escrow**: Gas fees only, which vary based on network conditions.
 
-**Savings**: Smart contract escrow is generally cheaper than traditional escrow.
+- **Savings**: Smart contract escrow is generally cheaper than traditional escrow.
 
-**Scalability**: Layer 2 escrow enables even cheaper escrow services.
+- **Scalability**: Layer 2 escrow enables even cheaper escrow services.
 
 Smart contract escrow is more cost-effective than traditional solutions.
 
@@ -123,27 +123,27 @@ Escrow creates roles:
 
 Using escrow:
 
-**Verify Contract**: Audit or have an auditor verify the escrow contract before using.
+- **Verify Contract**: Audit or have an auditor verify the escrow contract before using.
 
-**Understand Dispute Process**: Know how disputes are resolved if conditions are ambiguous.
+- **Understand Dispute Process**: Know how disputes are resolved if conditions are ambiguous.
 
-**Clear Terms**: Define conditions explicitly before depositing funds.
+- **Clear Terms**: Define conditions explicitly before depositing funds.
 
-**Use Reputable Systems**: Use established escrow services with good track records.
+- **Use Reputable Systems**: Use established escrow services with good track records.
 
-**Test First**: Test small amounts before large transactions.
+- **Test First**: Test small amounts before large transactions.
 
 ## The Future of Escrow
 
 Escrow evolution:
 
-**Automated Resolution**: Smarter oracles enabling automatic condition verification.
+- **Automated Resolution**: Smarter oracles enabling automatic condition verification.
 
-**Decentralized Arbitration**: Decentralized courts resolving disputes fairly.
+- **Decentralized Arbitration**: Decentralized courts resolving disputes fairly.
 
-**Cross-Chain Escrow**: Escrow across multiple blockchains enabling trustless cross-chain trading.
+- **Cross-Chain Escrow**: Escrow across multiple blockchains enabling trustless cross-chain trading.
 
-**Conditional Contracts**: More sophisticated escrow enabling complex conditions.
+- **Conditional Contracts**: More sophisticated escrow enabling complex conditions.
 
 ## Enable Trustless Trading
 

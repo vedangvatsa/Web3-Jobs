@@ -57,15 +57,15 @@ The liquid restaking process follows these steps:
 
 LRT protocols manage the complexity on behalf of users:
 
-**Operator Selection**: Choose professional EigenLayer operators with good track records and security practices.
+- **Operator Selection**: Choose professional EigenLayer operators with good track records and security practices.
 
-**AVS Diversification**: Spread restaking across multiple AVSs to diversify risk and maximize yield.
+- **AVS Diversification**: Spread restaking across multiple AVSs to diversify risk and maximize yield.
 
-**Risk Management**: Monitor AVS health, slashing conditions, and operator performance.
+- **Risk Management**: Monitor AVS health, slashing conditions, and operator performance.
 
-**Reward Distribution**: Collect rewards from all sources and distribute proportionally to LRT holders.
+- **Reward Distribution**: Collect rewards from all sources and distribute proportionally to LRT holders.
 
-**Liquidity Management**: Maintain exit liquidity for users who want to withdraw.
+- **Liquidity Management**: Maintain exit liquidity for users who want to withdraw.
 
 ## Major Liquid Restaking Protocols
 
@@ -73,9 +73,9 @@ Several protocols dominate the liquid restaking market:
 
 ### EtherFi
 
-**Overview**: Largest LRT protocol, issues eETH.
+- **Overview**: Largest LRT protocol, issues eETH.
 
-**Key Features**:
+- **Key Features**:
 - Non-custodial staking (users maintain control)
 - Decentralized operator network
 - Integrated with multiple DeFi protocols
@@ -83,9 +83,9 @@ Several protocols dominate the liquid restaking market:
 
 ### Puffer Finance
 
-**Overview**: Security-focused LRT protocol, issues pufETH.
+- **Overview**: Security-focused LRT protocol, issues pufETH.
 
-**Key Features**:
+- **Key Features**:
 - Secure-Signer technology (anti-slashing protection via secure enclaves)
 - Emphasis on decentralization and home stakers
 - Lower capital requirements for validators
@@ -93,9 +93,9 @@ Several protocols dominate the liquid restaking market:
 
 ### Renzo Protocol
 
-**Overview**: Fast-growing LRT aggregator, issues ezETH.
+- **Overview**: Fast-growing LRT aggregator, issues ezETH.
 
-**Key Features**:
+- **Key Features**:
 - Multi-AVS exposure through curated strategies
 - Simple UX (deposit and forget)
 - Cross-chain expansion (Arbitrum, Base, Linea, BNB Chain)
@@ -103,9 +103,9 @@ Several protocols dominate the liquid restaking market:
 
 ### Kelp DAO
 
-**Overview**: Community-governed LRT protocol, issues rsETH.
+- **Overview**: Community-governed LRT protocol, issues rsETH.
 
-**Key Features**:
+- **Key Features**:
 - DAO-controlled AVS selection and strategy
 - Multi-LST support (stETH, ETHx, sfrxETH)
 - Focus on decentralization and governance
@@ -127,19 +127,19 @@ Several protocols dominate the liquid restaking market:
 
 LRTs enable sophisticated yield stacking strategies:
 
-**Level 1 - Base Staking**:
+- **Level 1 - Base Staking**:
 - ETH staked to Beacon Chain through liquid staking protocol
 - Earns base validator rewards
 
-**Level 2 - Restaking Yields**:
+- **Level 2 - Restaking Yields**:
 - LST restaked via EigenLayer to validate AVSs
 - Earns AVS validation rewards
 
-**Level 3 - Protocol Incentives**:
+- **Level 3 - Protocol Incentives**:
 - LRT protocol issues governance tokens (ETHFI, REZ, PUFFER, KELP)
 - Token incentives to bootstrap liquidity
 
-**Level 4 - DeFi Yields**:
+- **Level 4 - DeFi Yields**:
 - Use LRT as collateral in lending
 - Provide liquidity in DEX pools
 - Deposit in yield aggregators
@@ -148,39 +148,39 @@ LRTs enable sophisticated yield stacking strategies:
 
 Liquid restaking introduces layered risks:
 
-**Slashing Risk Amplification**: Can be slashed for failures on Ethereum validation or any AVS being validated.
+- **Slashing Risk Amplification**: Can be slashed for failures on Ethereum validation or any AVS being validated.
 
-**Smart Contract Risk Stacking**: Every layer adds smart contract risk:
+- **Smart Contract Risk Stacking**: Every layer adds smart contract risk:
 - LST protocol (stETH, rETH contracts)
 - LRT protocol (EtherFi, Puffer contracts)
 - EigenLayer core contracts
 - DeFi protocols using the LRT
 
-**Depeg Risk**: LRTs can depeg from their underlying value during market stress.
+- **Depeg Risk**: LRTs can depeg from their underlying value during market stress.
 
-**Liquidity Risk**: During extreme market events, LRT liquidity can evaporate, making exits difficult.
+- **Liquidity Risk**: During extreme market events, LRT liquidity can evaporate, making exits difficult.
 
-**AVS Risk**: Untested AVSs may have bugs or slashing conditions that aren't well understood.
+- **AVS Risk**: Untested AVSs may have bugs or slashing conditions that aren't well understood.
 
-**Complexity Risk**: Multiple layers of protocols mean users may not fully understand where their assets are or what risks they're exposed to.
+- **Complexity Risk**: Multiple layers of protocols mean users may not fully understand where their assets are or what risks they're exposed to.
 
-**Regulatory Risk**: Stacked yield products may attract regulatory scrutiny.
+- **Regulatory Risk**: Stacked yield products may attract regulatory scrutiny.
 
-**Operator Centralization**: If LRT protocols rely on a small number of EigenLayer operators, centralization risks emerge.
+- **Operator Centralization**: If LRT protocols rely on a small number of EigenLayer operators, centralization risks emerge.
 
 ## LRT Integrations in DeFi
 
 LRTs have been integrated across DeFi:
 
-**Lending Protocols**:
+- **Lending Protocols**:
 - **Aave**: Use eETH, ezETH as collateral to borrow stablecoins.
 - **Compound**: Similar collateral use cases.
 
-**DEX Liquidity**:
+- **DEX Liquidity**:
 - **Curve**: eETH/ETH, ezETH/ETH pools with high yields.
 - **Uniswap V3**: Concentrated liquidity pools for LRTs.
 
-**Yield Aggregators**:
+- **Yield Aggregators**:
 - **Pendle**: Tokenize future yields of LRTs.
 - **Yearn**: Automated LRT strategies.
 
@@ -190,18 +190,18 @@ This integration makes LRTs a core primitive of modern DeFi.
 
 The LRT market has competitive dynamics:
 
-**TVL Competition**: Protocols compete for TVL through:
+- **TVL Competition**: Protocols compete for TVL through:
 - Higher yields
 - Token incentives
 - Better UX and integrations
 - Security and reputation
 
-**Yield Optimization**: Protocols differentiate on:
+- **Yield Optimization**: Protocols differentiate on:
 - AVS selection algorithms
 - Operator relationships
 - Fee structures
 
-**Defensive Moats**:
+- **Defensive Moats**:
 - **First-mover**: EtherFi captured early market share.
 - **Integrations**: Protocols deeply integrated into DeFi have network effects.
 - **Reputation**: Security track records build trust.
@@ -211,17 +211,17 @@ The LRT market has competitive dynamics:
 
 The liquid restaking ecosystem offers specialized roles:
 
-**LRT Protocol Engineers**: Build core LRT infrastructure, managing operator relationships, reward distribution, and user interfaces.
+- **LRT Protocol Engineers**: Build core LRT infrastructure, managing operator relationships, reward distribution, and user interfaces.
 
-**Restaking Strategists**: Optimize AVS selection, operator delegation, and risk-reward profiles for LRT protocols.
+- **Restaking Strategists**: Optimize AVS selection, operator delegation, and risk-reward profiles for LRT protocols.
 
-**DeFi Integration Engineers**: Integrate LRTs into lending, DEX, and yield aggregator protocols.
+- **DeFi Integration Engineers**: Integrate LRTs into lending, DEX, and yield aggregator protocols.
 
-**Risk Analysts**: Model slashing risks, smart contract risks, and develop risk frameworks for LRT exposure.
+- **Risk Analysts**: Model slashing risks, smart contract risks, and develop risk frameworks for LRT exposure.
 
-**Tokenomics Designers**: Design token emission schedules, incentive structures, and governance models for LRT protocols.
+- **Tokenomics Designers**: Design token emission schedules, incentive structures, and governance models for LRT protocols.
 
-**Smart Contract Auditors**: Audit LRT contracts for security vulnerabilities and integration risks.
+- **Smart Contract Auditors**: Audit LRT contracts for security vulnerabilities and integration risks.
 
 LRT expertise combines staking knowledge, EigenLayer understanding, DeFi integration, and risk management.
 
@@ -229,40 +229,40 @@ LRT expertise combines staking knowledge, EigenLayer understanding, DeFi integra
 
 When using liquid restaking:
 
-**Start Small**: Begin with a small position to understand the product before committing significant capital.
+- **Start Small**: Begin with a small position to understand the product before committing significant capital.
 
-**Diversify Protocols**: Spread exposure across multiple LRT protocols to reduce single-protocol risk.
+- **Diversify Protocols**: Spread exposure across multiple LRT protocols to reduce single-protocol risk.
 
-**Understand Risks**: Read documentation on slashing conditions, smart contract risks, and operator practices.
+- **Understand Risks**: Read documentation on slashing conditions, smart contract risks, and operator practices.
 
-**Monitor Yields**: Track actual vs expected yields.
+- **Monitor Yields**: Track actual vs expected yields.
 
-**Check Liquidity**: Ensure sufficient DEX liquidity to exit your position if needed.
+- **Check Liquidity**: Ensure sufficient DEX liquidity to exit your position if needed.
 
-**Verify Integrations**: When using LRTs in DeFi, verify the integration is official and audited.
+- **Verify Integrations**: When using LRTs in DeFi, verify the integration is official and audited.
 
-**Stay Informed**: Follow LRT protocol updates and AVS launches.
+- **Stay Informed**: Follow LRT protocol updates and AVS launches.
 
-**Consider Insurance**: Evaluate insurance options for smart contract coverage.
+- **Consider Insurance**: Evaluate insurance options for smart contract coverage.
 
-**Tax Awareness**: Understand tax implications of yield stacking and token emissions in your jurisdiction.
+- **Tax Awareness**: Understand tax implications of yield stacking and token emissions in your jurisdiction.
 
 ## The Future of Liquid Restaking
 
 Liquid restaking continues to evolve:
 
-**Multi-Asset LRTs**: Expanding beyond ETH to BTC and other assets.
+- **Multi-Asset LRTs**: Expanding beyond ETH to BTC and other assets.
 
-**Cross-Chain LRTs**: LRTs available natively on multiple chains without bridging.
+- **Cross-Chain LRTs**: LRTs available natively on multiple chains without bridging.
 
-**Institutional LRTs**: Compliant, institutional-grade LRT products.
+- **Institutional LRTs**: Compliant, institutional-grade LRT products.
 
-**Automated AVS Optimization**: AVS selection that dynamically adjusts based on yields and risks.
+- **Automated AVS Optimization**: AVS selection that dynamically adjusts based on yields and risks.
 
-**LRT Derivatives**: Options, futures, and structured products built on LRTs.
+- **LRT Derivatives**: Options, futures, and structured products built on LRTs.
 
-**Native DeFi Integration**: Protocols building restaking directly into their architecture.
+- **Native DeFi Integration**: Protocols building restaking directly into their architecture.
 
-**Standardization**: ERC standards for LRTs enabling seamless interoperability across DeFi.
+- **Standardization**: ERC standards for LRTs enabling seamless interoperability across DeFi.
 
 Liquid restaking represents the future of staking, capital efficient, liquid, and composable. As the AVS ecosystem matures and yields stabilize, LRTs will likely become fundamental to DeFi.

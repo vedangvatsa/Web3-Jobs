@@ -36,7 +36,7 @@ The validium architecture parallels ZK rollups with one critical difference:
 
 ### 2. Off-Chain Data Posting
 
-**Key Difference from Rollups**:
+- **Key Difference from Rollups**:
 - Transaction data is NOT posted to Ethereum L1.
 - Instead, data is posted to a **Data Availability Committee (DAC)**.
 - The DAC consists of trusted parties, such as members with a multisig.
@@ -77,7 +77,7 @@ The validium architecture parallels ZK rollups with one critical difference:
 | **Use Cases** | Gaming, social, high-frequency trading | DeFi, high-value transfers |
 | **Examples** | StarkEx, zkPorter | zkSync Era, Polygon zkEVM |
 
-**Core Tradeoff**: Validiums trade **data availability trust assumptions** for **cost reductions and throughput increases**.
+- **Core Tradeoff**: Validiums trade **data availability trust assumptions** for **cost reductions and throughput increases**.
 
 ## Data Availability Committees (DAC)
 
@@ -85,11 +85,11 @@ The DAC is the critical component that differentiates validiums:
 
 ### Structure
 
-**Membership**: Typically 5-20 trusted entities.
+- **Membership**: Typically 5-20 trusted entities.
 
-**Threshold**: Requires a majority to sign availability attestations.
+- **Threshold**: Requires a majority to sign availability attestations.
 
-**Duties**:
+- **Duties**:
 - Store transaction data off-chain.
 - Provide data to users on request.
 - Sign attestations that data is available.
@@ -107,21 +107,21 @@ The DAC is the critical component that differentiates validiums:
 - Secured by zkSync token stake.
 - Slashing for data withholding.
 
-**Polygon Miden DAC**:
+- **Polygon Miden DAC**:
 - Committee of Polygon validators.
 - Backed by MATIC stake.
 
 ### DAC Risks
 
-**Collusion**: If a majority of DAC members collude, they can withhold data and censor withdrawals.
+- **Collusion**: If a majority of DAC members collude, they can withhold data and censor withdrawals.
 
-**Liveness**: If too many DAC members go offline, data might become unavailable.
+- **Liveness**: If too many DAC members go offline, data might become unavailable.
 
-**Censorship**: The DAC can censor specific users by refusing to serve their data or include their transactions.
+- **Censorship**: The DAC can censor specific users by refusing to serve their data or include their transactions.
 
-**Regulatory Pressure**: As identifiable entities, DAC members could be pressured to censor transactions.
+- **Regulatory Pressure**: As identifiable entities, DAC members could be pressured to censor transactions.
 
-**Trust Concentration**: Security depends on trusting specific entities, reducing decentralization.
+- **Trust Concentration**: Security depends on trusting specific entities, reducing decentralization.
 
 ## Benefits of Validiums
 
@@ -129,7 +129,7 @@ Despite trust assumptions, validiums offer significant advantages:
 
 ### Massive Cost Reduction
 
-**Transaction Costs**: Validiums have lower transaction costs compared to rollups.
+- **Transaction Costs**: Validiums have lower transaction costs compared to rollups.
 
 **Why So Cheap?**
 - No L1 calldata costs.
@@ -143,7 +143,7 @@ This makes validiums ideal for micro-transactions and high-frequency application
 
 Validiums can handle high transaction volumes depending on implementation.
 
-**Scalability**: Throughput is limited by:
+- **Scalability**: Throughput is limited by:
 - Sequencer/operator performance.
 - Prover speed.
 - DAC bandwidth.
@@ -152,9 +152,9 @@ Validiums can handle transaction volumes that rollups cannot.
 
 ### Low Latency
 
-**Soft Confirmations**: Instant confirmations.
+- **Soft Confirmations**: Instant confirmations.
 
-**Hard Finality**: Minutes for proof generation and L1 confirmation, with no DAC delays.
+- **Hard Finality**: Minutes for proof generation and L1 confirmation, with no DAC delays.
 
 Faster finality than rollups since there's less data to post to L1.
 
@@ -171,36 +171,36 @@ Validiums excel in specific scenarios:
 
 ### Gaming
 
-**Why**: Games generate many micro-transactions that don't individually justify L1 data costs.
+- **Why**: Games generate many micro-transactions that don't individually justify L1 data costs.
 
-**Examples**:
+- **Examples**:
 - **Immutable X**: NFT gaming platform using StarkEx validium.
 - **Sorare**: Fantasy sports using StarkEx.
 
-**Trade-off**: Gaming transactions are low-value; users can tolerate small DAC trust for cost savings.
+- **Trade-off**: Gaming transactions are low-value; users can tolerate small DAC trust for cost savings.
 
 ### Social Media / Content Platforms
 
-**Why**: Social interactions need extremely low costs and high throughput.
+- **Why**: Social interactions need extremely low costs and high throughput.
 
-**Potential**: Social networks on validiums can handle high volumes.
+- **Potential**: Social networks on validiums can handle high volumes.
 
-**Trade-off**: Social content isn't high-value; censorship risk from DAC is acceptable.
+- **Trade-off**: Social content isn't high-value; censorship risk from DAC is acceptable.
 
 ### High-Frequency Trading
 
-**Why**: HFT needs very low latency and costs, with frequent small trades.
+- **Why**: HFT needs very low latency and costs, with frequent small trades.
 
-**Example**:
+- **Example**:
 - **dYdX V3**: Used StarkEx validium for perpetuals trading.
 
-**Trade-off**: Traders accept DAC trust for superior performance.
+- **Trade-off**: Traders accept DAC trust for superior performance.
 
 ### Non-Financial Applications
 
-**Why**: Applications where security of funds isn't the primary concern but scalability is critical.
+- **Why**: Applications where security of funds isn't the primary concern but scalability is critical.
 
-**Examples**:
+- **Examples**:
 - Loyalty points.
 - In-game currencies.
 - Achievement systems.
@@ -210,55 +210,55 @@ Validiums excel in specific scenarios:
 
 ### StarkEx
 
-**Developer**: StarkWare
-**Proof System**: ZK-STARKs
+- **Developer**: StarkWare
+- **Proof System**: ZK-STARKs
 
-**Features**:
+- **Features**:
 - Powers dYdX, Immutable X, Sorare.
 - 6-member DAC with 4-of-6 threshold.
 - Can process many transactions per batch.
 - Low transaction costs.
 
-**Mode Options**: StarkEx offers both validium mode and rollup mode.
+- **Mode Options**: StarkEx offers both validium mode and rollup mode.
 
-**Status**: Established with significant trading volume and users.
+- **Status**: Established with significant trading volume and users.
 
 ### zkPorter
 
-**Developer**: Matter Labs (zkSync)
-**Proof System**: ZK-SNARKs
+- **Developer**: Matter Labs (zkSync)
+- **Proof System**: ZK-SNARKs
 
-**Features**:
+- **Features**:
 - Validium mode for zkSync.
 - DAC backed by zkSync token stakers.
 - Slashing for data withholding.
 - Users choose rollup or validium mode per account.
 
-**Status**: Planned for zkSync 2.0.
+- **Status**: Planned for zkSync 2.0.
 
 ### Polygon Miden
 
-**Developer**: Polygon Labs
-**Proof System**: ZK-STARKs
+- **Developer**: Polygon Labs
+- **Proof System**: ZK-STARKs
 
-**Features**:
+- **Features**:
 - Client-side proving.
 - Validium mode with Polygon validator DAC.
 - Local data storage by users.
 - High privacy potential.
 
-**Status**: Testnet, planned mainnet.
+- **Status**: Testnet, planned mainnet.
 
 ### StarkNet with Validium Mode
 
-**Developer**: StarkWare
-**Proof System**: ZK-STARKs
+- **Developer**: StarkWare
+- **Proof System**: ZK-STARKs
 
-**Features**:
+- **Features**:
 - StarkNet can optionally use validium for specific applications.
 - Applications choose rollup or validium mode.
 
-**Status**: In development.
+- **Status**: In development.
 
 ## Hybrid Rollup-Validium Models
 
@@ -266,7 +266,7 @@ Some systems offer **hybrid modes** where users choose their security level:
 
 ### zkSync's Approach
 
-**zkRollup Mode**:
+- **zkRollup Mode**:
 - Data posted to L1.
 - Higher security, slower, more expensive.
 
@@ -274,14 +274,14 @@ Some systems offer **hybrid modes** where users choose their security level:
 - Data posted to DAC.
 - Lower security, faster, cheaper.
 
-**Benefits**: Users choose based on needs.
+- **Benefits**: Users choose based on needs.
 
 ### StarkEx Data Availability Modes
 
-**Rollup Mode**:
+- **Rollup Mode**:
 - All data on L1.
 
-**Validium Mode**:
+- **Validium Mode**:
 - All data with DAC.
 
 **Volition Mode** (future):
@@ -291,15 +291,15 @@ Some systems offer **hybrid modes** where users choose their security level:
 
 Validium security relies on:
 
-**Computational Correctness**: L1-enforced via validity proofs.
+- **Computational Correctness**: L1-enforced via validity proofs.
 
-**Data Availability**: DAC majority honest.
+- **Data Availability**: DAC majority honest.
 
-**State Transitions**: L1 smart contract enforces rules.
+- **State Transitions**: L1 smart contract enforces rules.
 
-**Exit Safety**: Depends on DAC providing data for Merkle proofs.
+- **Exit Safety**: Depends on DAC providing data for Merkle proofs.
 
-**Realistic Threat Model**:
+- **Realistic Threat Model**:
 - If DAC majority is honest, security is equivalent to ZK rollup.
 - If DAC majority is dishonest, users can be censored, funds frozen.
 
@@ -309,25 +309,25 @@ Validiums accept **liveness/censorship risk** but maintain **safety**.
 
 Some validiums plan **upgrade paths** to full rollups:
 
-**Gradual Migration**: Start as validium for low costs, transition to rollup as value grows.
+- **Gradual Migration**: Start as validium for low costs, transition to rollup as value grows.
 
-**Example**: dYdX V3 (StarkEx validium) → dYdX V4 (app chain) → potential future rollup mode.
+- **Example**: dYdX V3 (StarkEx validium) → dYdX V4 (app chain) → potential future rollup mode.
 
-**Benefit**: Early users get low costs; stronger security justifies rollup's higher costs.
+- **Benefit**: Early users get low costs; stronger security justifies rollup's higher costs.
 
 ## Career Opportunities in Validiums
 
 The validium ecosystem offers specialized roles:
 
-**Validium Protocol Engineers**: Build validium systems, integrating ZK proofs with off-chain DA.
+- **Validium Protocol Engineers**: Build validium systems, integrating ZK proofs with off-chain DA.
 
-**DAC Infrastructure Engineers**: Build and maintain data availability committee infrastructure.
+- **DAC Infrastructure Engineers**: Build and maintain data availability committee infrastructure.
 
-**ZK Proof Engineers**: Optimize proof generation for high-throughput validium applications.
+- **ZK Proof Engineers**: Optimize proof generation for high-throughput validium applications.
 
-**Game/Social Developers**: Build applications on validiums.
+- **Game/Social Developers**: Build applications on validiums.
 
-**Security Researchers**: Audit DACs and analyze trust models.
+- **Security Researchers**: Audit DACs and analyze trust models.
 
 Validium expertise combines ZK knowledge with distributed systems.
 
@@ -335,34 +335,34 @@ Validium expertise combines ZK knowledge with distributed systems.
 
 When building on validiums:
 
-**Assess Security Needs**: Ensure your application can tolerate DAC trust assumptions.
+- **Assess Security Needs**: Ensure your application can tolerate DAC trust assumptions.
 
-**Understand DAC**: Research DAC members, threshold, reputation, and governance.
+- **Understand DAC**: Research DAC members, threshold, reputation, and governance.
 
-**Design for Exits**: Implement robust exit mechanisms.
+- **Design for Exits**: Implement robust exit mechanisms.
 
-**Leverage Low Costs**: Build applications that benefit from low costs.
+- **Leverage Low Costs**: Build applications that benefit from low costs.
 
-**Plan for Upgrades**: Consider paths to stronger security if application value grows.
+- **Plan for Upgrades**: Consider paths to stronger security if application value grows.
 
-**Monitor DAC Health**: Track DAC liveness and member status.
+- **Monitor DAC Health**: Track DAC liveness and member status.
 
-**Educate Users**: Clearly communicate the DAC trust assumption.
+- **Educate Users**: Clearly communicate the DAC trust assumption.
 
 ## The Future of Validiums
 
 Validiums continue to evolve:
 
-**Decentralized DACs**: Transition from small trusted committees to larger, permissionless validator sets.
+- **Decentralized DACs**: Transition from small trusted committees to larger, permissionless validator sets.
 
-**Hybrid Systems**: More projects offering users choice between rollup and validium modes.
+- **Hybrid Systems**: More projects offering users choice between rollup and validium modes.
 
-**Improved DA Solutions**: Integration with solutions for trust-minimized off-chain DA.
+- **Improved DA Solutions**: Integration with solutions for trust-minimized off-chain DA.
 
-**Staked DACs**: DAC members posting stake with slashing for misbehavior.
+- **Staked DACs**: DAC members posting stake with slashing for misbehavior.
 
-**Validium-to-Rollup Paths**: Smooth upgrade paths for projects that start as validiums.
+- **Validium-to-Rollup Paths**: Smooth upgrade paths for projects that start as validiums.
 
-**Regulatory Frameworks**: Clarification on compliance for validiums.
+- **Regulatory Frameworks**: Clarification on compliance for validiums.
 
 As EIP-4844 reduces rollup costs, validiums may become less necessary for many applications but will remain the choice for extreme scale requirements.

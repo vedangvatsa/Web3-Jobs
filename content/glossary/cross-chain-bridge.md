@@ -15,13 +15,13 @@ Cross-Chain Bridge refers to a protocol that enables the transfer of assets and 
 
 Bridges operate through several mechanisms:
 
-**Lock-and-Mint**: The most common approach. User deposits asset on source chain into bridge contract, which locks the tokens. Bridge validators or committee observe the lock and issue wrapped tokens on destination chain.
+- **Lock-and-Mint**: The most common approach. User deposits asset on source chain into bridge contract, which locks the tokens. Bridge validators or committee observe the lock and issue wrapped tokens on destination chain.
 
-**Burn-and-Mint**: User burns tokens on source chain, validators observe the burn, and issue tokens on destination chain.
+- **Burn-and-Mint**: User burns tokens on source chain, validators observe the burn, and issue tokens on destination chain.
 
-**Liquidity Network**: Less common approach using liquidity pools on both chains. User deposits on source chain, withdraws from destination chain's liquidity pool.
+- **Liquidity Network**: Less common approach using liquidity pools on both chains. User deposits on source chain, withdraws from destination chain's liquidity pool.
 
-**Relay-based**: Advanced chains where full validator sets are relayed between chains. Complex but potentially more secure.
+- **Relay-based**: Advanced chains where full validator sets are relayed between chains. Complex but potentially more secure.
 
 In all cases, the essential mechanism is: observe event on chain A, execute action on chain B. This requires trust in observers or validators, introducing new security assumptions.
 
@@ -29,17 +29,17 @@ In all cases, the essential mechanism is: observe event on chain A, execute acti
 
 Different bridge designs have varying security models:
 
-**Native Bridges**: Built by layer 2s themselves (Polygon, Arbitrum, Optimism). Leverage L2's security assumptions. Generally more trustworthy since their security is tied to L2 security.
+- **Native Bridges**: Built by layer 2s themselves (Polygon, Arbitrum, Optimism). Leverage L2's security assumptions. Generally more trustworthy since their security is tied to L2 security.
 
-**Third-Party Bridges**: Independent protocols like Stargate, Connext, or Across. May have security assumptions distinct from underlying chains.
+- **Third-Party Bridges**: Independent protocols like Stargate, Connext, or Across. May have security assumptions distinct from underlying chains.
 
-**Token-Secured Bridges**: Some use economic incentives (cryptographic proofs, slashing) to secure themselves, like Polygon's PoS bridge or some designs using proof-of-stake.
+- **Token-Secured Bridges**: Some use economic incentives (cryptographic proofs, slashing) to secure themselves, like Polygon's PoS bridge or some designs using proof-of-stake.
 
-**Validator-Based Bridges**: Require trusting a set of validators or signers. More centralized but simpler. Examples: Matic, aBridge.
+- **Validator-Based Bridges**: Require trusting a set of validators or signers. More centralized but simpler. Examples: Matic, aBridge.
 
-**Optimistic Bridges**: Similar to optimistic rollups, assume data is correct unless proved wrong. Fraud proofs enable challenging wrong data.
+- **Optimistic Bridges**: Similar to optimistic rollups, assume data is correct unless proved wrong. Fraud proofs enable challenging wrong data.
 
-**Light Client Bridges**: Relay full validator sets between chains, theoretically most trustworthy but extremely complex.
+- **Light Client Bridges**: Relay full validator sets between chains, theoretically most trustworthy but extremely complex.
 
 Major hacks have hit trusting-validator bridges, highlighting security risks of some designs.
 
@@ -47,31 +47,31 @@ Major hacks have hit trusting-validator bridges, highlighting security risks of 
 
 Bridges enable capital efficiency:
 
-**Cross-Chain Arbitrage**: Exploit price disparities between chains. If ETH is at different prices on Ethereum and Polygon, bridge ETH to Polygon, sell at profit, bridge proceeds back.
+- **Cross-Chain Arbitrage**: Exploit price disparities between chains. If ETH is at different prices on Ethereum and Polygon, bridge ETH to Polygon, sell at profit, bridge proceeds back.
 
-**Yield Optimization**: Deploy capital where yields are highest across chains. Bridge capital to chain with best farming opportunities.
+- **Yield Optimization**: Deploy capital where yields are highest across chains. Bridge capital to chain with best farming opportunities.
 
-**Application Access**: Access applications on other chains. If you hold ETH but want to use a DEX on Solana, bridge to Solana chain, trade there.
+- **Application Access**: Access applications on other chains. If you hold ETH but want to use a DEX on Solana, bridge to Solana chain, trade there.
 
-**Multichain Strategies**: Strategies spanning multiple chains, using bridges to move capital between optimal opportunities.
+- **Multichain Strategies**: Strategies spanning multiple chains, using bridges to move capital between optimal opportunities.
 
-**Liquidity Fragmentation**: More capital deployed across chains means less per-chain liquidity, potentially higher slippage and worse execution.
+- **Liquidity Fragmentation**: More capital deployed across chains means less per-chain liquidity, potentially higher slippage and worse execution.
 
 ## Bridge Security
 
 Bridge security remains a critical issue:
 
-**Validator Centralization**: If only a few validators are trusted, they represent a single point of failure. Compromise of majority enables theft.
+- **Validator Centralization**: If only a few validators are trusted, they represent a single point of failure. Compromise of majority enables theft.
 
-**Smart Contract Bugs**: Vulnerabilities in bridge code can be exploited to mint unlimited wrapped tokens or extract locked assets.
+- **Smart Contract Bugs**: Vulnerabilities in bridge code can be exploited to mint unlimited wrapped tokens or extract locked assets.
 
-**Chain Reorg Attacks**: If source chain undergoes large reorganization, deposits might be reversed but wrapped tokens already issued on destination chain.
+- **Chain Reorg Attacks**: If source chain undergoes large reorganization, deposits might be reversed but wrapped tokens already issued on destination chain.
 
-**Economic Incentive Attacks**: If value at risk in bridge exceeds validators' slashing or stake, they may be incentivized to steal funds.
+- **Economic Incentive Attacks**: If value at risk in bridge exceeds validators' slashing or stake, they may be incentivized to steal funds.
 
-**Cross-Chain MEV**: Searchers can exploit ordering in multi-chain transactions, potentially manipulating bridges.
+- **Cross-Chain MEV**: Searchers can exploit ordering in multi-chain transactions, potentially manipulating bridges.
 
-**Insider Threats**: Team members with access to multisig wallets might steal bridge funds.
+- **Insider Threats**: Team members with access to multisig wallets might steal bridge funds.
 
 Recent bridge exploits have resulted in significant total losses, representing existential risk for bridges.
 
@@ -79,19 +79,19 @@ Recent bridge exploits have resulted in significant total losses, representing e
 
 Major bridges show the diversity:
 
-**Poly Network Bridge**: Exploited due to access control bug.
+- **Poly Network Bridge**: Exploited due to access control bug.
 
-**Ronin Sidechain Bridge**: Hacked through multisig compromise.
+- **Ronin Sidechain Bridge**: Hacked through multisig compromise.
 
-**Wormhole (Solana-Ethereum)**: Exploited through smart contract vulnerability.
+- **Wormhole (Solana-Ethereum)**: Exploited through smart contract vulnerability.
 
-**Connext**: Third-party bridge using swap routers and liquidity networks. Generally well-regarded for security.
+- **Connext**: Third-party bridge using swap routers and liquidity networks. Generally well-regarded for security.
 
-**Stargate**: LayerZero-based bridge, introduced with emphasis on security and cross-chain composability.
+- **Stargate**: LayerZero-based bridge, introduced with emphasis on security and cross-chain composability.
 
-**Across**: Optimistic bridge design, uses economic incentives and fraud proofs to secure transfers.
+- **Across**: Optimistic bridge design, uses economic incentives and fraud proofs to secure transfers.
 
-**Arbitrum/Polygon/Optimism Native Bridges**: Leverage underlying chain security, generally considered safer.
+- **Arbitrum/Polygon/Optimism Native Bridges**: Leverage underlying chain security, generally considered safer.
 
 The variety of models and repeated hacks suggest bridge security remains an unsolved problem.
 
@@ -99,13 +99,13 @@ The variety of models and repeated hacks suggest bridge security remains an unso
 
 Every bridge makes security versus efficiency tradeoffs:
 
-**High Security**: Require extensive cryptographic proofs, long finality periods, high validator counts. Slow but trustworthy.
+- **High Security**: Require extensive cryptographic proofs, long finality periods, high validator counts. Slow but trustworthy.
 
-**Fast but Risky**: Optimistic bridges with fast finality but potential for fraud that takes time to detect or challenge.
+- **Fast but Risky**: Optimistic bridges with fast finality but potential for fraud that takes time to detect or challenge.
 
-**Centralized but Simple**: Federation of trusted validators is simplest but most centralized.
+- **Centralized but Simple**: Federation of trusted validators is simplest but most centralized.
 
-**Decentralized but Complex**: Light client bridges maximize decentralization but are extremely complex and hard to deploy.
+- **Decentralized but Complex**: Light client bridges maximize decentralization but are extremely complex and hard to deploy.
 
 No bridge yet achieves genuinely secure, fast, decentralized cross-chain transfers simultaneously.
 
@@ -113,17 +113,17 @@ No bridge yet achieves genuinely secure, fast, decentralized cross-chain transfe
 
 Users must understand bridge risks:
 
-**Smart Contract Risk**: Bridge code might have vulnerabilities leading to locked-up or stolen funds.
+- **Smart Contract Risk**: Bridge code might have vulnerabilities leading to locked-up or stolen funds.
 
-**Validator Centralization**: Small validator sets create insider threat risk.
+- **Validator Centralization**: Small validator sets create insider threat risk.
 
-**Wrapped Token Risk**: Wrapped tokens depend entirely on bridge security. If bridge is hacked, wrapped token value collapses.
+- **Wrapped Token Risk**: Wrapped tokens depend entirely on bridge security. If bridge is hacked, wrapped token value collapses.
 
-**Liquidity Risk**: Popular bridges might have insufficient liquidity for large transfers, requiring you to accept bad prices or wait.
+- **Liquidity Risk**: Popular bridges might have insufficient liquidity for large transfers, requiring you to accept bad prices or wait.
 
-**Counterparty Risk**: Using bridge means trusting bridge operators. If they are malicious or incompetent, you lose funds.
+- **Counterparty Risk**: Using bridge means trusting bridge operators. If they are malicious or incompetent, you lose funds.
 
-**Regulatory Risk**: Bridges might become regulatory targets. Some jurisdictions might restrict bridge usage.
+- **Regulatory Risk**: Bridges might become regulatory targets. Some jurisdictions might restrict bridge usage.
 
 Users should:
 - Use official or well-audited bridges
@@ -152,17 +152,17 @@ Bridges create professional opportunities:
 
 Bridge technology continues evolving:
 
-**Light Client Bridges**: Research on making full light client bridges more practical and efficient.
+- **Light Client Bridges**: Research on making full light client bridges more practical and efficient.
 
-**Proof-of-Stake Interoperability**: Using shared validator sets across chains to improve bridge security.
+- **Proof-of-Stake Interoperability**: Using shared validator sets across chains to improve bridge security.
 
-**Intent-Based Bridges**: Moving away from primitive lock-and-mint toward intent-based designs where users specify what they want and systems optimize execution.
+- **Intent-Based Bridges**: Moving away from primitive lock-and-mint toward intent-based designs where users specify what they want and systems optimize execution.
 
-**Rollup-Native Solutions**: L2s implementing more sophisticated bridges leveraging their specific properties.
+- **Rollup-Native Solutions**: L2s implementing more sophisticated bridges leveraging their specific properties.
 
-**Regulatory Frameworks**: Clear regulations might emerge around bridge operations and custody.
+- **Regulatory Frameworks**: Clear regulations might emerge around bridge operations and custody.
 
-**Unified Liquidity**: Solutions enabling cross-chain DEXs with unified liquidity pools rather than fragmented per-chain pools.
+- **Unified Liquidity**: Solutions enabling cross-chain DEXs with unified liquidity pools rather than fragmented per-chain pools.
 
 ## Connect the Ecosystem
 

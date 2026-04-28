@@ -15,29 +15,29 @@ Wrapped Token refers to a cryptocurrency asset that represents another asset loc
 
 The mechanism is straightforward:
 
-**Asset Lock**: You deposit the original asset (Bitcoin, Ethereum, etc.) into a smart contract on the custodian's system.
+- **Asset Lock**: You deposit the original asset (Bitcoin, Ethereum, etc.) into a smart contract on the custodian's system.
 
-**Custodian Safeguard**: The custodian (such as Coinbase or BitGo for Wrapped Bitcoin) securely holds the deposited asset.
+- **Custodian Safeguard**: The custodian (such as Coinbase or BitGo for Wrapped Bitcoin) securely holds the deposited asset.
 
-**Token Issue**: The smart contract on the destination blockchain issues an equivalent amount of the wrapped token. 1 BTC locked = 1 WBTC issued.
+- **Token Issue**: The smart contract on the destination blockchain issues an equivalent amount of the wrapped token. 1 BTC locked = 1 WBTC issued.
 
-**User Possession**: You now own wrapped tokens on the destination chain and can use them for trading, lending, staking, etc.
+- **User Possession**: You now own wrapped tokens on the destination chain and can use them for trading, lending, staking, etc.
 
-**Unwrapping**: You burn wrapped tokens on the destination chain, and the custodian releases the original asset to your address on the source chain.
+- **Unwrapping**: You burn wrapped tokens on the destination chain, and the custodian releases the original asset to your address on the source chain.
 
-**Trust in Custodian**: You trust that the custodian holds the assets honestly and has not been hacked.
+- **Trust in Custodian**: You trust that the custodian holds the assets honestly and has not been hacked.
 
 ## Types of Wrapped Tokens
 
 Different wrapper designs include:
 
-**Custodial Wrapped (WBTC, WETH on L2s)**: A trusted custodian holds the original asset. This design is centralized but simple. The risk is related to custodian security and honesty.
+- **Custodial Wrapped (WBTC, WETH on L2s)**: A trusted custodian holds the original asset. This design is centralized but simple. The risk is related to custodian security and honesty.
 
-**Multi-Sig Wrapped**: Multiple independent custodians must cooperate to move assets. This design offers more security but is more complex.
+- **Multi-Sig Wrapped**: Multiple independent custodians must cooperate to move assets. This design offers more security but is more complex.
 
-**Atomic Wrapped**: Smart contracts manage wrapping across compatible blockchains (such as Polkadot's XCMP). This design is less custodial but requires compatible chain infrastructure.
+- **Atomic Wrapped**: Smart contracts manage wrapping across compatible blockchains (such as Polkadot's XCMP). This design is less custodial but requires compatible chain infrastructure.
 
-**Decentralized Wrapped**: Decentralized networks of validators guard custody, enabling wrapped tokens without a single custodian. This design is complex and still developing.
+- **Decentralized Wrapped**: Decentralized networks of validators guard custody, enabling wrapped tokens without a single custodian. This design is complex and still developing.
 
 Different designs make different security and efficiency tradeoffs.
 
@@ -45,15 +45,15 @@ Different designs make different security and efficiency tradeoffs.
 
 The wrapped asset ecosystem includes:
 
-**Wrapped Bitcoin (WBTC)**: The largest wrapped asset, backed by Coinbase and BitGo custody.
+- **Wrapped Bitcoin (WBTC)**: The largest wrapped asset, backed by Coinbase and BitGo custody.
 
-**Wrapped Ethereum (WETH)**: Used across Ethereum DeFi protocols. It serves as a simple wrapper for gas optimization and standardization.
+- **Wrapped Ethereum (WETH)**: Used across Ethereum DeFi protocols. It serves as a simple wrapper for gas optimization and standardization.
 
-**Lido stETH**: Represents Ethereum staked through Lido, functioning similarly to wrapped tokens.
+- **Lido stETH**: Represents Ethereum staked through Lido, functioning similarly to wrapped tokens.
 
-**Wrapped Solana (SOL)**: Solana tokens used on Ethereum and other chains for liquidity.
+- **Wrapped Solana (SOL)**: Solana tokens used on Ethereum and other chains for liquidity.
 
-**Wrapped USDT/USDC**: Stablecoins on non-native chains that enable USD-denominated transactions across chains.
+- **Wrapped USDT/USDC**: Stablecoins on non-native chains that enable USD-denominated transactions across chains.
 
 Wrapped tokens enable capital to move across blockchain silos.
 
@@ -61,43 +61,43 @@ Wrapped tokens enable capital to move across blockchain silos.
 
 Wrapping creates economic implications:
 
-**Liquidity Fragmentation**: Bitcoin exists natively on Bitcoin, as WBTC on Ethereum, and as wrapped Bitcoin on Solana. This leads to fragmented liquidity.
+- **Liquidity Fragmentation**: Bitcoin exists natively on Bitcoin, as WBTC on Ethereum, and as wrapped Bitcoin on Solana. This leads to fragmented liquidity.
 
-**Yield Arbitrage**: If Bitcoin yields 3% through native staking but 8% on Ethereum lending, arbitrageurs wrap to Ethereum for yield. This drives wrapping.
+- **Yield Arbitrage**: If Bitcoin yields 3% through native staking but 8% on Ethereum lending, arbitrageurs wrap to Ethereum for yield. This drives wrapping.
 
-**Bridge Risk Premium**: WBTC yields slightly less than native Bitcoin to account for custodian risk. Rational pricing reflects this risk.
+- **Bridge Risk Premium**: WBTC yields slightly less than native Bitcoin to account for custodian risk. Rational pricing reflects this risk.
 
-**Fee Structure**: Wrapping and unwrapping incur fees. If fees are high, arbitrage becomes less profitable, discouraging wrapping.
+- **Fee Structure**: Wrapping and unwrapping incur fees. If fees are high, arbitrage becomes less profitable, discouraging wrapping.
 
-**Capital Efficiency**: Wrapped assets enable deploying capital where yields are highest, regardless of the native chain.
+- **Capital Efficiency**: Wrapped assets enable deploying capital where yields are highest, regardless of the native chain.
 
 ## Wrapped Token Risks
 
 Wrapping introduces new risks:
 
-**Custodian Risk**: The custodian could be hacked, disappear, or intentionally steal assets. If the WBTC custodian is hacked, all WBTC holders may lose funds.
+- **Custodian Risk**: The custodian could be hacked, disappear, or intentionally steal assets. If the WBTC custodian is hacked, all WBTC holders may lose funds.
 
-**Peg Risk**: The wrapped token should trade 1:1 with the original asset. If the custodian appears compromised, the peg may break, and WBTC might trade at a discount.
+- **Peg Risk**: The wrapped token should trade 1:1 with the original asset. If the custodian appears compromised, the peg may break, and WBTC might trade at a discount.
 
-**Bridge Risk**: If the bridge used to wrap is hacked, wrapped tokens may become worthless. A bridge compromise could prevent WBTC from being unwrapped.
+- **Bridge Risk**: If the bridge used to wrap is hacked, wrapped tokens may become worthless. A bridge compromise could prevent WBTC from being unwrapped.
 
-**Counterparty Risk**: You depend on the custodian's continued operation. If the company disappears, you might not be able to unwrap.
+- **Counterparty Risk**: You depend on the custodian's continued operation. If the company disappears, you might not be able to unwrap.
 
-**Regulatory Risk**: If regulation restricts wrapped assets, WBTC might become unusable despite being technically sound.
+- **Regulatory Risk**: If regulation restricts wrapped assets, WBTC might become unusable despite being technically sound.
 
 ## Custodian Selection
 
 Choosing custodians involves trust:
 
-**Reputation**: Established custodians (such as Coinbase and BitGo) have a reputation to maintain, making them less likely to steal than unknown entities.
+- **Reputation**: Established custodians (such as Coinbase and BitGo) have a reputation to maintain, making them less likely to steal than unknown entities.
 
-**Insurance**: Some custodians offer insurance protecting against theft, which adds cost but reduces risk.
+- **Insurance**: Some custodians offer insurance protecting against theft, which adds cost but reduces risk.
 
-**Transparency**: Well-established custodians regularly publish proof-of-reserves confirming the assets backing wrapped tokens.
+- **Transparency**: Well-established custodians regularly publish proof-of-reserves confirming the assets backing wrapped tokens.
 
-**Decentralization**: More custodians involved in multi-sig arrangements increase security, as one compromise is not catastrophic.
+- **Decentralization**: More custodians involved in multi-sig arrangements increase security, as one compromise is not catastrophic.
 
-**Audit History**: Custodians that have undergone security audits are preferable to those that have not.
+- **Audit History**: Custodians that have undergone security audits are preferable to those that have not.
 
 Due diligence on custodians is essential before using wrapped assets.
 
@@ -105,13 +105,13 @@ Due diligence on custodians is essential before using wrapped assets.
 
 Wrapped tokens enable cross-chain usage:
 
-**Liquidity Aggregation**: Wrapped assets enable aggregating liquidity across chains, such as WBTC on Ethereum, Polygon, and Arbitrum.
+- **Liquidity Aggregation**: Wrapped assets enable aggregating liquidity across chains, such as WBTC on Ethereum, Polygon, and Arbitrum.
 
-**Multi-Chain Applications**: Applications can support multiple chains by accepting wrapped versions of assets.
+- **Multi-Chain Applications**: Applications can support multiple chains by accepting wrapped versions of assets.
 
-**Price Discovery**: Wrapped assets provide price feeds between chains, enabling arbitrage opportunities.
+- **Price Discovery**: Wrapped assets provide price feeds between chains, enabling arbitrage opportunities.
 
-**Capital Flow**: Capital can follow yields across chains through wrapped assets.
+- **Capital Flow**: Capital can follow yields across chains through wrapped assets.
 
 Wrapped tokens are essential infrastructure for multi-chain DeFi.
 
@@ -147,31 +147,31 @@ Wrapped assets create roles:
 
 Using wrapped tokens safely:
 
-**Understand Custodian**: Know who is holding your assets and whether you trust them.
+- **Understand Custodian**: Know who is holding your assets and whether you trust them.
 
-**Start Small**: Test with small amounts before committing significant capital.
+- **Start Small**: Test with small amounts before committing significant capital.
 
-**Verify Proof-of-Reserves**: Check that custodians regularly publish proof they hold promised assets.
+- **Verify Proof-of-Reserves**: Check that custodians regularly publish proof they hold promised assets.
 
-**Unwrap Periodically**: Regular unwrapping ensures the wrapping process works and allows you to exit.
+- **Unwrap Periodically**: Regular unwrapping ensures the wrapping process works and allows you to exit.
 
-**Diversify**: Avoid concentrating in a single wrapped asset. Spread investments across multiple chains and custodians.
+- **Diversify**: Avoid concentrating in a single wrapped asset. Spread investments across multiple chains and custodians.
 
-**Monitor News**: Stay informed about custody hacks or custodian issues affecting wrapped assets.
+- **Monitor News**: Stay informed about custody hacks or custodian issues affecting wrapped assets.
 
 ## The Future of Wrapped Assets
 
 Wrapped token evolution may include:
 
-**Decentralized Custody**: Moving from centralized custodians to decentralized networks securing assets.
+- **Decentralized Custody**: Moving from centralized custodians to decentralized networks securing assets.
 
-**Cross-Chain Standardization**: Improved standards enabling wrapped assets across more chains seamlessly.
+- **Cross-Chain Standardization**: Improved standards enabling wrapped assets across more chains seamlessly.
 
-**Programmable Wrapped Assets**: Wrapped assets might carry additional functionality beyond simple 1:1 mapping.
+- **Programmable Wrapped Assets**: Wrapped assets might carry additional functionality beyond simple 1:1 mapping.
 
-**Regulatory Clarity**: Clearer regulations around wrapped asset issuance and custody.
+- **Regulatory Clarity**: Clearer regulations around wrapped asset issuance and custody.
 
-**Protocol-Native Cross-Chaining**: Long-term, better cross-chain mechanisms might reduce the need for wrapping.
+- **Protocol-Native Cross-Chaining**: Long-term, better cross-chain mechanisms might reduce the need for wrapping.
 
 ## Bridge Digital Assets
 

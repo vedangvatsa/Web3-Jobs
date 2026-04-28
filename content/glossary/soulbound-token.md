@@ -15,15 +15,15 @@ Soulbound Token refers to a non-transferable NFT permanently bound to a specific
 
 Key characteristics:
 
-**Non-Transferable**: Can't trade or sell soulbound tokens.
+- **Non-Transferable**: Can't trade or sell soulbound tokens.
 
-**Permanent**: Attached to address permanently (can be burned by owner).
+- **Permanent**: Attached to address permanently (can be burned by owner).
 
-**Verifiable**: Cryptographically verifiable on-chain.
+- **Verifiable**: Cryptographically verifiable on-chain.
 
-**Metadata**: Can include metadata about credential (issuer, date, etc).
+- **Metadata**: Can include metadata about credential (issuer, date, etc).
 
-**Multiple Holders**: Single address can hold multiple soulbound tokens.
+- **Multiple Holders**: Single address can hold multiple soulbound tokens.
 
 Soulbound tokens are permanent identity artifacts.
 
@@ -31,17 +31,17 @@ Soulbound tokens are permanent identity artifacts.
 
 Real applications:
 
-**Education**: University issues soulbound diploma on graduation.
+- **Education**: University issues soulbound diploma on graduation.
 
-**Professional Credentials**: Certifications verified on-chain.
+- **Professional Credentials**: Certifications verified on-chain.
 
-**Reputation**: Reputation tokens earned through participation.
+- **Reputation**: Reputation tokens earned through participation.
 
-**Identity**: Soulbound tokens as identity proof.
+- **Identity**: Soulbound tokens as identity proof.
 
-**DAO Governance**: Soulbound tokens proving participation (governance credentials).
+- **DAO Governance**: Soulbound tokens proving participation (governance credentials).
 
-**Attestations**: Attestations from trusted sources as soulbound tokens.
+- **Attestations**: Attestations from trusted sources as soulbound tokens.
 
 Soulbound tokens suit credential and identity applications.
 
@@ -49,15 +49,15 @@ Soulbound tokens suit credential and identity applications.
 
 Issues:
 
-**Recovery**: If wallet compromised, address loses all soulbound tokens.
+- **Recovery**: If wallet compromised, address loses all soulbound tokens.
 
-**Interoperability**: Different platforms using different soulbound standards.
+- **Interoperability**: Different platforms using different soulbound standards.
 
-**Verification**: Verifying issuer legitimacy (who issued token).
+- **Verification**: Verifying issuer legitimacy (who issued token).
 
-**Revocation**: How to revoke invalid credentials.
+- **Revocation**: How to revoke invalid credentials.
 
-**Privacy**: Soulbound tokens publicly visible on-chain (privacy concern).
+- **Privacy**: Soulbound tokens publicly visible on-chain (privacy concern).
 
 Soulbound token design has challenges.
 
@@ -65,15 +65,15 @@ Soulbound token design has challenges.
 
 Key application:
 
-**Decentralized Identity**: Soulbound tokens enable decentralized identity.
+- **Decentralized Identity**: Soulbound tokens enable decentralized identity.
 
-**Credential Aggregation**: Aggregate credentials in single address.
+- **Credential Aggregation**: Aggregate credentials in single address.
 
-**No Central Database**: Credentials on-chain, not centralized database.
+- **No Central Database**: Credentials on-chain, not centralized database.
 
-**Ownership**: You own your credentials, no issuer dependency.
+- **Ownership**: You own your credentials, no issuer dependency.
 
-**Portability**: Credentials portable across applications.
+- **Portability**: Credentials portable across applications.
 
 Soulbound tokens enable decentralized identity systems.
 
@@ -81,15 +81,15 @@ Soulbound tokens enable decentralized identity systems.
 
 Challenges:
 
-**Public Records**: Soulbound tokens publicly visible (privacy exposure).
+- **Public Records**: Soulbound tokens publicly visible (privacy exposure).
 
-**Doxxing**: Can reveal identity through soulbound tokens.
+- **Doxxing**: Can reveal identity through soulbound tokens.
 
-**History**: Permanent record of all accomplishments and failures.
+- **History**: Permanent record of all accomplishments and failures.
 
-**ZK Proofs**: Need zero-knowledge proofs for private credential verification.
+- **ZK Proofs**: Need zero-knowledge proofs for private credential verification.
 
-**Selective Disclosure**: Need mechanisms proving credential without revealing identity.
+- **Selective Disclosure**: Need mechanisms proving credential without revealing identity.
 
 Privacy is critical for soulbound token adoption.
 
@@ -109,25 +109,25 @@ Soulbound tokens create roles:
 
 Issuing soulbound tokens:
 
-**Verification**: Verify issuer legitimacy.
+- **Verification**: Verify issuer legitimacy.
 
-**Metadata**: Include sufficient metadata about credential.
+- **Metadata**: Include sufficient metadata about credential.
 
-**Revocation**: Plan for revocation mechanism.
+- **Revocation**: Plan for revocation mechanism.
 
-**Privacy**: Consider privacy implications.
+- **Privacy**: Consider privacy implications.
 
 ## The Future of Soulbound Tokens
 
 Evolution:
 
-**Privacy**: Privacy-preserving soulbound tokens.
+- **Privacy**: Privacy-preserving soulbound tokens.
 
-**Interoperability**: Cross-platform soulbound standards.
+- **Interoperability**: Cross-platform soulbound standards.
 
-**Revocation**: Better revocation mechanisms.
+- **Revocation**: Better revocation mechanisms.
 
-**Conditional Tokens**: Tokens with conditions (expiry dates, etc).
+- **Conditional Tokens**: Tokens with conditions (expiry dates, etc).
 
 ## Permanent Digital Credentials
 

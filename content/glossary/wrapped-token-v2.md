@@ -15,15 +15,15 @@ Wrapped Token refers to a cryptocurrency asset that has been tokenized to functi
 
 How wrapping works:
 
-**1. Locking**: User locks asset on source chain (e.g., Bitcoin).
+- **1. Locking**: User locks asset on source chain (e.g., Bitcoin).
 
-**2. Custodian**: Custodian holds locked asset.
+- **2. Custodian**: Custodian holds locked asset.
 
-**3. Minting**: Custodian mints wrapped token on destination chain.
+- **3. Minting**: Custodian mints wrapped token on destination chain.
 
-**4. Parity**: Maintain 1:1 parity (1 wrapped = 1 original).
+- **4. Parity**: Maintain 1:1 parity (1 wrapped = 1 original).
 
-**5. Unwrapping**: Burn wrapped token, receive original.
+- **5. Unwrapping**: Burn wrapped token, receive original.
 
 Wrapping enables cross-chain representation.
 
@@ -31,15 +31,15 @@ Wrapping enables cross-chain representation.
 
 Real assets:
 
-**WBTC**: Bitcoin on Ethereum (Wrapped Bitcoin).
+- **WBTC**: Bitcoin on Ethereum (Wrapped Bitcoin).
 
-**WETH**: Ethereum on L2s (Wrapped Ethereum).
+- **WETH**: Ethereum on L2s (Wrapped Ethereum).
 
-**wstETH**: Liquid staked ETH on other chains.
+- **wstETH**: Liquid staked ETH on other chains.
 
-**Wrapped Stables**: USDC, USDT wrapped across chains.
+- **Wrapped Stables**: USDC, USDT wrapped across chains.
 
-**Cross-Chain Bridges**: Different bridge wrappers.
+- **Cross-Chain Bridges**: Different bridge wrappers.
 
 Many wrapped tokens circulating.
 
@@ -47,15 +47,15 @@ Many wrapped tokens circulating.
 
 Keeping value equal:
 
-**Arbitrage**: If WBTC price < BTC price, arb by wrapping.
+- **Arbitrage**: If WBTC price < BTC price, arb by wrapping.
 
-**Custodian Incentive**: Custodian incentivized to maintain peg.
+- **Custodian Incentive**: Custodian incentivized to maintain peg.
 
-**Market Discipline**: Market corrects peg deviations.
+- **Market Discipline**: Market corrects peg deviations.
 
-**Insurance**: Some wrapped tokens insured.
+- **Insurance**: Some wrapped tokens insured.
 
-**Incentives**: Protocols incentivize peg through rewards.
+- **Incentives**: Protocols incentivize peg through rewards.
 
 Peg maintenance is critical.
 
@@ -63,15 +63,15 @@ Peg maintenance is critical.
 
 Trust assumption:
 
-**Centralized**: Single custodian controls collateral (centralized risk).
+- **Centralized**: Single custodian controls collateral (centralized risk).
 
-**Multisig**: Multiple custodians (reduced risk).
+- **Multisig**: Multiple custodians (reduced risk).
 
-**Insurance**: Insurance against custodian failure.
+- **Insurance**: Insurance against custodian failure.
 
-**Proof of Reserves**: Custodians prove holdings.
+- **Proof of Reserves**: Custodians prove holdings.
 
-**Regulatory**: Regulatory changes could affect custodians.
+- **Regulatory**: Regulatory changes could affect custodians.
 
 Wrapped tokens inherit custodian risk.
 
@@ -79,9 +79,9 @@ Wrapped tokens inherit custodian risk.
 
 Historical exploits:
 
-**Nomad Bridge**: Hack of a wrapped token bridge.
+- **Nomad Bridge**: Hack of a wrapped token bridge.
 
-**Poly Network**: Hack of a cross-chain bridge.
+- **Poly Network**: Hack of a cross-chain bridge.
 
 Wrapped token bridges frequently hacked.
 
@@ -89,13 +89,13 @@ Wrapped token bridges frequently hacked.
 
 Other approaches:
 
-**Synths**: Synthetic tokens pegged through economic mechanisms.
+- **Synths**: Synthetic tokens pegged through economic mechanisms.
 
-**Bridge Loans**: Lending using collateral from other chain.
+- **Bridge Loans**: Lending using collateral from other chain.
 
-**Native Multi-Chain**: Projects launching on multiple chains natively.
+- **Native Multi-Chain**: Projects launching on multiple chains natively.
 
-**Light Clients**: Verify source chain on destination chain.
+- **Light Clients**: Verify source chain on destination chain.
 
 Alternatives to wrapping emerging.
 
@@ -115,25 +115,25 @@ Wrapped token infrastructure creates roles:
 
 Using wrapped tokens:
 
-**Verify Custodian**: Understand who holds collateral.
+- **Verify Custodian**: Understand who holds collateral.
 
-**Monitor Peg**: Watch wrapped token peg to original.
+- **Monitor Peg**: Watch wrapped token peg to original.
 
-**Insurance**: Consider insurance for large holdings.
+- **Insurance**: Consider insurance for large holdings.
 
-**Diversify**: Don't concentrate in single wrapped token.
+- **Diversify**: Don't concentrate in single wrapped token.
 
 ## The Future of Wrapped Tokens
 
 Evolution:
 
-**Decentralized Wrapping**: Decentralized custody models.
+- **Decentralized Wrapping**: Decentralized custody models.
 
-**Native Bridges**: More native cross-chain protocols.
+- **Native Bridges**: More native cross-chain protocols.
 
-**Better Pegging**: More reliable peg mechanisms.
+- **Better Pegging**: More reliable peg mechanisms.
 
-**Standards**: Industry-wide wrapping standards.
+- **Standards**: Industry-wide wrapping standards.
 
 ## Cross-Chain Asset Representation
 

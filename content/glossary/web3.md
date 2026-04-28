@@ -43,110 +43,110 @@ Web3 refers to the emerging iteration of the internet built on blockchain techno
 
 No single entity controls the network. Data and applications run on distributed networks of computers rather than company servers.
 
-**Web2**: Twitter can ban your account, deleting your followers and content.  
-**Web3**: Your social graph exists on-chain. No company can erase your identity or relationships.
+- **Web2**: Twitter can ban your account, deleting your followers and content.  
+- **Web3**: Your social graph exists on-chain. No company can erase your identity or relationships.
 
 ### User Ownership
 
 Users own their data, content, and digital assets through cryptographic keys and blockchain records.
 
-**Web2**: You create content for Instagram, but Meta owns it and profits from ads.  
-**Web3**: You mint NFTs of your art, earning royalties from every resale. You control distribution.
+- **Web2**: You create content for Instagram, but Meta owns it and profits from ads.  
+- **Web3**: You mint NFTs of your art, earning royalties from every resale. You control distribution.
 
 ### Permissionless
 
 Anyone can build on open protocols without asking permission or paying gatekeepers.
 
-**Web2**: Apple and Google approve or reject your app, taking a percentage of revenue.  
-**Web3**: Deploy smart contracts to Ethereum without approval. No app store, no cut.
+- **Web2**: Apple and Google approve or reject your app, taking a percentage of revenue.  
+- **Web3**: Deploy smart contracts to Ethereum without approval. No app store, no cut.
 
 ### Native Payments
 
 Built-in value transfer without intermediaries. Send money as easily as sending a message.
 
-**Web2**: Payment processors take a percentage, international transfers take time and cost money.  
-**Web3**: Send USDC globally in seconds for minimal fees. Payments are protocol-level, not bolted-on.
+- **Web2**: Payment processors take a percentage, international transfers take time and cost money.  
+- **Web3**: Send USDC globally in seconds for minimal fees. Payments are protocol-level, not bolted-on.
 
 ### Trustless Interactions
 
 Smart contracts execute automatically without trusting counterparties. Code enforces agreements.
 
-**Web2**: Trust Airbnb to hold your payment and release it to the host.  
-**Web3**: Smart contract automatically releases payment when the stay is complete. No intermediary needed.
+- **Web2**: Trust Airbnb to hold your payment and release it to the host.  
+- **Web3**: Smart contract automatically releases payment when the stay is complete. No intermediary needed.
 
 ## Key Web3 Technologies
 
-**Blockchain**: Distributed ledger providing truth consensus without centralized authority.
+- **Blockchain**: Distributed ledger providing truth consensus without centralized authority.
 
-**Smart Contracts**: Self-executing code enabling trustless agreements and applications.
+- **Smart Contracts**: Self-executing code enabling trustless agreements and applications.
 
-**Cryptocurrencies/Tokens**: Native digital assets for value transfer, incentives, and governance.
+- **Cryptocurrencies/Tokens**: Native digital assets for value transfer, incentives, and governance.
 
-**Wallets**: Users control private keys, managing identity and assets without accounts or passwords.
+- **Wallets**: Users control private keys, managing identity and assets without accounts or passwords.
 
-**Decentralized Storage**: IPFS, Arweave, Filecoin replace centralized storage solutions with distributed file storage.
+- **Decentralized Storage**: IPFS, Arweave, Filecoin replace centralized storage solutions with distributed file storage.
 
-**Decentralized Compute**: Akash, Render Network provide computing power without centralized providers.
+- **Decentralized Compute**: Akash, Render Network provide computing power without centralized providers.
 
-**Decentralized Identity**: Self-sovereign identity systems where you own and control your credentials.
+- **Decentralized Identity**: Self-sovereign identity systems where you own and control your credentials.
 
 ## Web3 Applications (DApps)
 
-**DeFi**: Uniswap (exchange), Aave (lending), MakerDAO (stablecoins) provide financial services without banks.
+- **DeFi**: Uniswap (exchange), Aave (lending), MakerDAO (stablecoins) provide financial services without banks.
 
-**NFTs and Digital Ownership**: OpenSea (marketplace), Blur, Art Blocks offer verifiable ownership of digital items.
+- **NFTs and Digital Ownership**: OpenSea (marketplace), Blur, Art Blocks offer verifiable ownership of digital items.
 
-**DAOs**: MakerDAO, Uniswap DAO are organizations governed by token holders, not executives.
+- **DAOs**: MakerDAO, Uniswap DAO are organizations governed by token holders, not executives.
 
-**Social**: Farcaster, Lens Protocol are social networks where you own your followers and content.
+- **Social**: Farcaster, Lens Protocol are social networks where you own your followers and content.
 
-**Gaming**: Axie Infinity, The Sandbox are games where players own in-game assets as NFTs.
+- **Gaming**: Axie Infinity, The Sandbox are games where players own in-game assets as NFTs.
 
-**Creator Economy**: Mirror (publishing), Zora (music/media) allow creators to monetize directly without platforms.
+- **Creator Economy**: Mirror (publishing), Zora (music/media) allow creators to monetize directly without platforms.
 
-**Identity**: ENS (blockchain names), Worldcoin provide verifiable identity without companies.
+- **Identity**: ENS (blockchain names), Worldcoin provide verifiable identity without companies.
 
-**Infrastructure**: The Graph (indexing), Chainlink (oracles) offer decentralized services for other DApps.
+- **Infrastructure**: The Graph (indexing), Chainlink (oracles) offer decentralized services for other DApps.
 
 ## How Web3 Works Differently
 
-**Sign In**:  
+- **Sign In**:  
 - Web2: Username/password, Google login  
 - Web3: Connect wallet, cryptographic signature proves identity  
 
-**Data Storage**:  
+- **Data Storage**:  
 - Web2: Company databases (MySQL, MongoDB)  
 - Web3: Blockchain (permanent, public) plus decentralized storage (IPFS, Arweave)  
 
-**Application Logic**:  
+- **Application Logic**:  
 - Web2: Server-side code on centralized cloud services  
 - Web3: Smart contracts on blockchain plus client-side code  
 
-**Monetization**:  
+- **Monetization**:  
 - Web2: Ads, selling user data, subscription fees  
 - Web3: Transaction fees, token appreciation, protocol revenue sharing  
 
-**Governance**:  
+- **Governance**:  
 - Web2: CEO/board make decisions  
 - Web3: Token holders vote on protocol changes  
 
 ## Web3's Value Proposition
 
-**For Users**:  
+- **For Users**:  
 - Own your data and digital assets  
 - Earn from your contributions (tokens, NFT royalties)  
 - Participate in platform governance  
 - Censorship resistance  
 - Privacy with optional transparency  
 
-**For Developers**:  
+- **For Developers**:  
 - Build on permissionless protocols  
 - Composability allows combining protocols  
 - Built-in monetization through tokens and fees  
 - No platform risk as apps cannot be removed by centralized entities  
 - Instant global payments  
 
-**For Creators**:  
+- **For Creators**:  
 - Direct relationships with fans without platform intermediaries  
 - Programmable royalties on all secondary sales  
 - Token-gated communities  
@@ -154,49 +154,49 @@ Smart contracts execute automatically without trusting counterparties. Code enfo
 
 ## Criticisms and Challenges
 
-**User Experience**: Managing private keys, gas fees, and blockchain complexity can be difficult. Many users may not want this responsibility.
+- **User Experience**: Managing private keys, gas fees, and blockchain complexity can be difficult. Many users may not want this responsibility.
 
-**Scalability**: Blockchains process fewer transactions than centralized systems. 
+- **Scalability**: Blockchains process fewer transactions than centralized systems. 
 
-**Irreversibility**: No customer support to reverse mistaken transactions. If sent to the wrong address, funds are lost.
+- **Irreversibility**: No customer support to reverse mistaken transactions. If sent to the wrong address, funds are lost.
 
-**Environmental Concerns**: Proof of Work blockchains consume significant energy.
+- **Environmental Concerns**: Proof of Work blockchains consume significant energy.
 
-**Speculation**: Much Web3 activity is speculative rather than utility-driven. Token prices can be volatile.
+- **Speculation**: Much Web3 activity is speculative rather than utility-driven. Token prices can be volatile.
 
-**Regulatory Uncertainty**: Governments are still determining how to regulate decentralized protocols.
+- **Regulatory Uncertainty**: Governments are still determining how to regulate decentralized protocols.
 
-**Plutocracy**: Token-based governance can concentrate power among wealthy holders.
+- **Plutocracy**: Token-based governance can concentrate power among wealthy holders.
 
-**"Still Early"**: Many Web3 apps have worse user experience than Web2 equivalents. The technology is still maturing.
+- **"Still Early"**: Many Web3 apps have worse user experience than Web2 equivalents. The technology is still maturing.
 
-**Centralization Creep**: Many "decentralized" apps rely on centralized infrastructure. True decentralization is challenging.
+- **Centralization Creep**: Many "decentralized" apps rely on centralized infrastructure. True decentralization is challenging.
 
 ## Web3 vs The Metaverse
 
 Web3 and the metaverse are distinct concepts:
 
-**Web3**: Focuses on decentralization, blockchain, and ownership for the internet.  
-**Metaverse**: Involves immersive virtual worlds, which may or may not use blockchain technology.
+- **Web3**: Focuses on decentralization, blockchain, and ownership for the internet.  
+- **Metaverse**: Involves immersive virtual worlds, which may or may not use blockchain technology.
 
 Web3 can enable metaverse economies, but the metaverse does not require Web3. For example, Meta's Horizon Worlds is a metaverse but operates on centralized Web2 principles.
 
 ## Adoption Trajectory
 
-**Early Adopters (2020-2023)**: Crypto-natives, DeFi users, NFT collectors, developers.
+- **Early Adopters (2020-2023)**: Crypto-natives, DeFi users, NFT collectors, developers.
 
-**Early Majority (2024-2027)**: Simplified wallets, improved user experience, mainstream apps integrating Web3 features.
+- **Early Majority (2024-2027)**: Simplified wallets, improved user experience, mainstream apps integrating Web3 features.
 
-**Mass Adoption (Unknown)**: When Web3 features become invisible to users and function better than Web2.
+- **Mass Adoption (Unknown)**: When Web3 features become invisible to users and function better than Web2.
 
 ## Corporate Interest in Web3
 
 Traditional companies exploring Web3 include:
 
-**Financial**: JPMorgan, Goldman Sachs are building on blockchains.  
-**Tech**: Meta (NFTs on Instagram), Reddit (NFT avatars), Twitter (tipping).  
-**Brands**: Nike, Adidas, Starbucks are launching NFT programs.  
-**Gaming**: Epic Games, Square Enix are investing in blockchain gaming.
+- **Financial**: JPMorgan, Goldman Sachs are building on blockchains.  
+- **Tech**: Meta (NFTs on Instagram), Reddit (NFT avatars), Twitter (tipping).  
+- **Brands**: Nike, Adidas, Starbucks are launching NFT programs.  
+- **Gaming**: Epic Games, Square Enix are investing in blockchain gaming.
 
 Most companies remain cautious and are testing the waters without full commitment.
 
@@ -212,45 +212,45 @@ The truth likely lies between extremes, Web3 has real innovation but also includ
 
 Web3 has created new career categories:
 
-**Web3 Developer**: Build DApps, smart contracts, integrate blockchain APIs.
+- **Web3 Developer**: Build DApps, smart contracts, integrate blockchain APIs.
 
-**Blockchain Protocol Engineer**: Core blockchain development and consensus mechanisms.
+- **Blockchain Protocol Engineer**: Core blockchain development and consensus mechanisms.
 
-**Smart Contract Developer**: Work with Solidity/Rust, DeFi protocols, NFT platforms.
+- **Smart Contract Developer**: Work with Solidity/Rust, DeFi protocols, NFT platforms.
 
-**Web3 Product Manager**: Define DApp features and understand crypto-native user experience.
+- **Web3 Product Manager**: Define DApp features and understand crypto-native user experience.
 
-**Community Manager**: Nurture DAOs, Discord communities, and token holders.
+- **Community Manager**: Nurture DAOs, Discord communities, and token holders.
 
-**Tokenomics Designer**: Design token economics and incentive mechanisms.
+- **Tokenomics Designer**: Design token economics and incentive mechanisms.
 
-**Web3 Marketing**: Develop crypto-native growth strategies and community building.
+- **Web3 Marketing**: Develop crypto-native growth strategies and community building.
 
-**Crypto Analyst**: Research protocols, analyze tokenomics, and provide market insights.
+- **Crypto Analyst**: Research protocols, analyze tokenomics, and provide market insights.
 
-**DAO Operations**: Coordinate decentralized teams and manage treasuries.
+- **DAO Operations**: Coordinate decentralized teams and manage treasuries.
 
 ## The Future of Web3
 
-**Optimistic View**: Web3 becomes the standard internet infrastructure. Users own their data, platforms cannot extract rent, and creators earn fairly. Decentralization preserves freedom and privacy.
+- **Optimistic View**: Web3 becomes the standard internet infrastructure. Users own their data, platforms cannot extract rent, and creators earn fairly. Decentralization preserves freedom and privacy.
 
-**Skeptical View**: Web3 remains niche for financial speculation. Real applications may stay centralized for better user experience. Most "Web3" may become rebranded Web2 with tokens added.
+- **Skeptical View**: Web3 remains niche for financial speculation. Real applications may stay centralized for better user experience. Most "Web3" may become rebranded Web2 with tokens added.
 
-**Realistic View**: A hybrid future where certain applications benefit from blockchain while others remain centralized. Web3 can coexist with Web2.
+- **Realistic View**: A hybrid future where certain applications benefit from blockchain while others remain centralized. Web3 can coexist with Web2.
 
 ## Reading List
 
-**Advocates**:  
+- **Advocates**:  
 - Chris Dixon, "Why Web3 Matters"  
 - Packy McCormick, "Not Boring" Web3 posts  
 - Vitalik Buterin, Various blog posts  
 
-**Skeptics**:  
+- **Skeptics**:  
 - Moxie Marlinspike, "My first impressions of web3"  
 - Molly White, "web3 is going just great" blog  
 - Nicholas Weaver, Various critiques  
 
-**Balanced**:  
+- **Balanced**:  
 - Tim O'Reilly, "Why it's too early to get excited about Web3"  
 - Ben Thompson, Stratechery Web3 analysis  
 

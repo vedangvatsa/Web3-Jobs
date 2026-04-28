@@ -15,13 +15,13 @@ Account Abstraction is a framework that allows smart contracts to function as us
 
 Core components:
 
-**UserOperations**: AA-compatible transactions submitted by users.
+- **UserOperations**: AA-compatible transactions submitted by users.
 
-**EntryPoint**: Smart contract coordinating AA execution.
+- **EntryPoint**: Smart contract coordinating AA execution.
 
-**Bundlers**: Services bundling UserOps into transactions.
+- **Bundlers**: Services bundling UserOps into transactions.
 
-**Paymasters**: Services paying gas on behalf of users.
+- **Paymasters**: Services paying gas on behalf of users.
 
 EIP-4337 enables AA without consensus changes.
 
@@ -29,15 +29,15 @@ EIP-4337 enables AA without consensus changes.
 
 Capabilities:
 
-**Multi-Sig**: Require multiple signatures for transactions.
+- **Multi-Sig**: Require multiple signatures for transactions.
 
-**Social Recovery**: Recover account via trusted guardians.
+- **Social Recovery**: Recover account via trusted guardians.
 
-**Gas Sponsorship**: Apps pay gas for users.
+- **Gas Sponsorship**: Apps pay gas for users.
 
-**Batching**: Execute multiple operations atomically.
+- **Batching**: Execute multiple operations atomically.
 
-**Custom Logic**: Arbitrary programmable security.
+- **Custom Logic**: Arbitrary programmable security.
 
 AA enables powerful wallet features.
 
@@ -45,25 +45,25 @@ AA enables powerful wallet features.
 
 Advantages:
 
-**Better UX**: Users don't need ETH for gas.
+- **Better UX**: Users don't need ETH for gas.
 
-**Enhanced Security**: Programmable security policies.
+- **Enhanced Security**: Programmable security policies.
 
-**Flexibility**: Custom transaction validation logic.
+- **Flexibility**: Custom transaction validation logic.
 
-**Onboarding**: Easier onboarding for new users.
+- **Onboarding**: Easier onboarding for new users.
 
 ## AA Adoption
 
 Current state:
 
-**EIP-4337 Live**: Deployed on Ethereum mainnet.
+- **EIP-4337 Live**: Deployed on Ethereum mainnet.
 
-**Wallet Support**: Growing support from wallets.
+- **Wallet Support**: Growing support from wallets.
 
-**Infrastructure**: Bundlers and paymasters emerging.
+- **Infrastructure**: Bundlers and paymasters emerging.
 
-**Standards**: Ongoing standardization efforts.
+- **Standards**: Ongoing standardization efforts.
 
 ## Career Opportunities
 
@@ -81,23 +81,23 @@ AA ecosystem roles:
 
 Building with AA:
 
-**Use Standards**: Follow EIP-4337 standards.
+- **Use Standards**: Follow EIP-4337 standards.
 
-**Audit Carefully**: AA wallets are high-value targets.
+- **Audit Carefully**: AA wallets are high-value targets.
 
-**Test Thoroughly**: Complex logic requires extensive testing.
+- **Test Thoroughly**: Complex logic requires extensive testing.
 
-**User Education**: Educate users on AA features.
+- **User Education**: Educate users on AA features.
 
 ## The Future of Account Abstraction
 
 Trends:
 
-**Native AA**: Enshrined account abstraction in protocol.
+- **Native AA**: Enshrined account abstraction in protocol.
 
-**Cross-Chain AA**: AA across multiple chains.
+- **Cross-Chain AA**: AA across multiple chains.
 
-**Better Tooling**: Improved developer tools.
+- **Better Tooling**: Improved developer tools.
 
 ## Programmable Accounts for Everyone
 

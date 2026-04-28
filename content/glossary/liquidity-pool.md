@@ -44,7 +44,7 @@ If someone buys ETH with USDC:
 3. The product k remains constant
 4. The exchange rate adjusts based on the new ratio
 
-**Example**:
+- **Example**:
 - Pool has 100 ETH and 200,000 USDC
 - k = 100 × 200,000 = 20,000,000
 - Current price: 1 ETH = 2,000 USDC
@@ -61,7 +61,7 @@ The larger the trade relative to pool size, the more price slips (slippage). Thi
 
 Anyone can become a liquidity provider (LP) by depositing an equal value of both tokens into a pool. In return, they receive LP tokens representing their share of the pool.
 
-**Process**:
+- **Process**:
 1. Select a token pair (e.g., ETH/USDC)
 2. Deposit equal values of both (e.g., 1 ETH + 2,000 USDC)
 3. Receive LP tokens (e.g., ETH-USDC-LP)
@@ -74,10 +74,10 @@ If you provide 1% of a pool's liquidity, you earn 1% of all trading fees.
 
 Different protocols use different fee tiers:
 
-**Uniswap V2**: 0.3% per trade  
-**Uniswap V3**: 0.01%, 0.05%, 0.3%, or 1% (LPs choose based on pair volatility)  
-**Curve**: 0.04% (optimized for stablecoins)  
-**Balancer**: Customizable (0.0001% to 10%)
+- **Uniswap V2**: 0.3% per trade  
+- **Uniswap V3**: 0.01%, 0.05%, 0.3%, or 1% (LPs choose based on pair volatility)  
+- **Curve**: 0.04% (optimized for stablecoins)  
+- **Balancer**: Customizable (0.0001% to 10%)
 
 Fees go entirely to LPs, except some protocols taking small percentages for treasury or token holders.
 
@@ -87,7 +87,7 @@ High-volume pairs with appropriate fees generate yield. The ETH/USDC pool on Uni
 
 The biggest risk for LPs is impermanent loss, which occurs when token prices diverge from the ratio when you deposited.
 
-**Example**:
+- **Example**:
 Deposit 1 ETH + 2,000 USDC (total $4,000)
 
 Scenario 1: ETH stays at $2,000
@@ -101,7 +101,7 @@ Scenario 2: ETH doubles to $4,000
 
 The loss is "impermanent" because if prices return to the original ratio, it disappears. But if you withdraw at divergent prices, it becomes permanent.
 
-**Impermanent Loss by Price Change**:
+- **Impermanent Loss by Price Change**:
 - 1.25x price change: 0.6% loss
 - 1.5x: 2.0% loss
 - 2x: 5.7% loss
@@ -114,13 +114,13 @@ Trading fees aim to offset impermanent loss. High-volume, low-volatility pairs (
 
 Uniswap V3 introduced concentrated liquidity. Instead of spreading liquidity across all prices, LPs specify price ranges.
 
-**Traditional Liquidity**: Your 1 ETH + 2,000 USDC provides liquidity for ETH prices from $0 to $1,000,000+
+- **Traditional Liquidity**: Your 1 ETH + 2,000 USDC provides liquidity for ETH prices from $0 to $1,000,000+
 
-**Concentrated Liquidity**: Provide liquidity only for ETH between $1,800 and $2,200
+- **Concentrated Liquidity**: Provide liquidity only for ETH between $1,800 and $2,200
 
 Concentrated liquidity is more capital efficient, allowing the same capital to provide deeper liquidity where trading occurs. LPs earn more fees per dollar invested.
 
-**Trade-offs**:
+- **Trade-offs**:
 - Higher fee generation within range
 - Zero fee generation outside range
 - More active management required
@@ -161,36 +161,36 @@ This created yield farming where users seek the highest APYs across protocols. I
 
 Liquidity pools enable advanced DeFi mechanics:
 
-**Flash Swaps**: Borrow from a pool, use tokens, repay plus fees in the same transaction. This enables arbitrage and liquidations without upfront capital.
+- **Flash Swaps**: Borrow from a pool, use tokens, repay plus fees in the same transaction. This enables arbitrage and liquidations without upfront capital.
 
-**Just-in-Time (JIT) Liquidity**: Actors add liquidity right before large trades, capturing fees, then withdrawing. This can front-run traders.
+- **Just-in-Time (JIT) Liquidity**: Actors add liquidity right before large trades, capturing fees, then withdrawing. This can front-run traders.
 
-**MEV and Sandwich Attacks**: Searchers manipulate pools around trades to extract value. LPs benefit from increased volume, but traders may lose value to MEV.
+- **MEV and Sandwich Attacks**: Searchers manipulate pools around trades to extract value. LPs benefit from increased volume, but traders may lose value to MEV.
 
 ## Pool Security Risks
 
-**Smart Contract Risk**: Bugs in pool contracts can drain funds. Even audited contracts can have exploits.
+- **Smart Contract Risk**: Bugs in pool contracts can drain funds. Even audited contracts can have exploits.
 
-**Admin Key Risk**: Some pools have admin functions that could rug pull liquidity if keys are compromised.
+- **Admin Key Risk**: Some pools have admin functions that could rug pull liquidity if keys are compromised.
 
-**Oracle Manipulation**: Pools can be manipulated via flash loans to create false prices, enabling attacks on protocols using pool prices as oracles.
+- **Oracle Manipulation**: Pools can be manipulated via flash loans to create false prices, enabling attacks on protocols using pool prices as oracles.
 
-**Impermanent Loss**: This is a mathematical reality that can result in losses relative to holding.
+- **Impermanent Loss**: This is a mathematical reality that can result in losses relative to holding.
 
 ## Career Opportunities
 
-**Liquidity Manager**: Actively manages LP positions, optimizes ranges, rebalances across protocols. Quantitative finance skills are valuable.
+- **Liquidity Manager**: Actively manages LP positions, optimizes ranges, rebalances across protocols. Quantitative finance skills are valuable.
 
-**DeFi Protocol Developer**: Builds AMM protocols, designs new pool mechanics, optimizes gas efficiency.
+- **DeFi Protocol Developer**: Builds AMM protocols, designs new pool mechanics, optimizes gas efficiency.
 
-**DeFi Analyst**: Analyzes pool performance, tracks yields, evaluates LP opportunities for funds and users.
+- **DeFi Analyst**: Analyzes pool performance, tracks yields, evaluates LP opportunities for funds and users.
 
-**MEV Researcher**: Studies MEV in AMMs, develops mitigation strategies, builds MEV bots.
+- **MEV Researcher**: Studies MEV in AMMs, develops mitigation strategies, builds MEV bots.
 
-**Smart Contract Auditor**: Audits pool contracts, identifies vulnerabilities, ensures security.
+- **Smart Contract Auditor**: Audits pool contracts, identifies vulnerabilities, ensures security.
 
-**Protocol Economist**: Designs incentive mechanisms, models token emissions, optimizes fee structures for AMMs.
+- **Protocol Economist**: Designs incentive mechanisms, models token emissions, optimizes fee structures for AMMs.
 
-**Quant Researcher**: Develops mathematical models for impermanent loss, optimal rebalancing, and arbitrage strategies.
+- **Quant Researcher**: Develops mathematical models for impermanent loss, optimal rebalancing, and arbitrage strategies.
 
 Liquidity pools fundamentally changed how decentralized trading works, enabling significant DEX volume without order books. Understanding pool mechanics, impermanent loss calculations, and fee optimization is essential for DeFi participation. The evolution from simple constant product pools to concentrated liquidity continues driving innovation, creating opportunities for developers and liquidity strategists.

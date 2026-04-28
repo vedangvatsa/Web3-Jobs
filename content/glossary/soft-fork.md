@@ -15,15 +15,15 @@ Soft Fork refers to a backward-compatible protocol upgrade that tightens consens
 
 How they work:
 
-**Rule Tightening**: New rules stricter than old rules. Example: new rule requires 64-character signatures, old rule accepted 65+ character.
+- **Rule Tightening**: New rules stricter than old rules. Example: new rule requires 64-character signatures, old rule accepted 65+ character.
 
-**Backward Compatibility**: Old rules still considered valid under new rules. Example: 64-character signature still valid.
+- **Backward Compatibility**: Old rules still considered valid under new rules. Example: 64-character signature still valid.
 
-**Consensus**: Blocks valid under old rules remain valid under new rules. Network maintains consensus.
+- **Consensus**: Blocks valid under old rules remain valid under new rules. Network maintains consensus.
 
-**Gradual Adoption**: Nodes can upgrade gradually. Network operates with mixed old/new nodes.
+- **Gradual Adoption**: Nodes can upgrade gradually. Network operates with mixed old/new nodes.
 
-**Safety**: If new rule blocks don't follow old rules, old nodes would reject, but well-designed soft forks prevent this.
+- **Safety**: If new rule blocks don't follow old rules, old nodes would reject, but well-designed soft forks prevent this.
 
 Soft forks maintain backward compatibility.
 
@@ -31,13 +31,13 @@ Soft forks maintain backward compatibility.
 
 Real implementations:
 
-**SegWit (Bitcoin)**: Moved signatures out of transaction hash. Old nodes still accepted SegWit transactions.
+- **SegWit (Bitcoin)**: Moved signatures out of transaction hash. Old nodes still accepted SegWit transactions.
 
-**Taproot (Bitcoin)**: New signature scheme using Schnorr signatures. Backward-compatible upgrade.
+- **Taproot (Bitcoin)**: New signature scheme using Schnorr signatures. Backward-compatible upgrade.
 
-**EIP-1559 (Ethereum)**: Changed fee mechanism but remained compatible with existing transactions.
+- **EIP-1559 (Ethereum)**: Changed fee mechanism but remained compatible with existing transactions.
 
-**Shanghai Upgrade (Ethereum)**: Added staking withdrawals. Compatible with existing protocol.
+- **Shanghai Upgrade (Ethereum)**: Added staking withdrawals. Compatible with existing protocol.
 
 Most modern blockchain upgrades are soft forks when possible.
 
@@ -60,7 +60,7 @@ Soft forks are safer when possible. Hard forks are only used when necessary.
 
 Decision-making process:
 
-**Bitcoin Soft Fork Process**:
+- **Bitcoin Soft Fork Process**:
 1. Developer proposes improvement (BIP).
 2. Community discusses and provides feedback.
 3. If consensus, development begins.
@@ -70,7 +70,7 @@ Decision-making process:
 7. Grace period for upgrade.
 8. Activation and enforcement.
 
-**Ethereum Soft Fork Process**:
+- **Ethereum Soft Fork Process**:
 1. EIP (Ethereum Improvement Proposal) submitted.
 2. Discussion and feedback.
 3. Client teams implement.
@@ -84,11 +84,11 @@ Both require significant coordination and community consensus.
 
 Successful implementations:
 
-**Bitcoin SegWit (2017)**: Moved signatures from transaction hash. Enabled higher throughput and Lightning Network. Took over two years due to controversy.
+- **Bitcoin SegWit (2017)**: Moved signatures from transaction hash. Enabled higher throughput and Lightning Network. Took over two years due to controversy.
 
-**Bitcoin Taproot (2021)**: New Schnorr signature scheme. Improved privacy and enabled more complex scripts.
+- **Bitcoin Taproot (2021)**: New Schnorr signature scheme. Improved privacy and enabled more complex scripts.
 
-**Ethereum Shanghai (2023)**: Added staking withdrawals enabling validator earnings withdrawal.
+- **Ethereum Shanghai (2023)**: Added staking withdrawals enabling validator earnings withdrawal.
 
 Successful soft forks demonstrate technical feasibility and community consensus.
 
@@ -96,13 +96,13 @@ Successful soft forks demonstrate technical feasibility and community consensus.
 
 Potential issues:
 
-**Rule Interpretation**: If rule tightening is misunderstood, the network could split.
+- **Rule Interpretation**: If rule tightening is misunderstood, the network could split.
 
-**Lazy Evaluation**: Old nodes not validating new constraints might participate in invalid chains.
+- **Lazy Evaluation**: Old nodes not validating new constraints might participate in invalid chains.
 
-**Consensus Splits**: If a soft fork goes wrong, it could cause an unintended hard fork.
+- **Consensus Splits**: If a soft fork goes wrong, it could cause an unintended hard fork.
 
-**User Confusion**: Soft forks are less visible than hard forks. Users might not update.
+- **User Confusion**: Soft forks are less visible than hard forks. Users might not update.
 
 Soft fork risks are manageable with careful implementation.
 
@@ -110,11 +110,11 @@ Soft fork risks are manageable with careful implementation.
 
 When soft forks won't work:
 
-**Rule Loosening**: If a new rule accepts previously invalid blocks, a hard fork is required.
+- **Rule Loosening**: If a new rule accepts previously invalid blocks, a hard fork is required.
 
-**Consensus Mechanism Change**: Changing proof-of-work to proof-of-stake required a hard fork.
+- **Consensus Mechanism Change**: Changing proof-of-work to proof-of-stake required a hard fork.
 
-**Supply Changes**: Increasing total supply or changing issuance schedule requires a hard fork.
+- **Supply Changes**: Increasing total supply or changing issuance schedule requires a hard fork.
 
 Hard forks require everyone to upgrade, necessitating more coordination.
 
@@ -136,27 +136,27 @@ Protocol upgrades create roles:
 
 For protocol upgrades:
 
-**Extensive Testing**: Test thoroughly before mainnet activation.
+- **Extensive Testing**: Test thoroughly before mainnet activation.
 
-**Community Consensus**: Build consensus before activation.
+- **Community Consensus**: Build consensus before activation.
 
-**Clear Communication**: Explain changes clearly to users.
+- **Clear Communication**: Explain changes clearly to users.
 
-**Gradual Rollout**: When possible, use soft forks for gradual adoption.
+- **Gradual Rollout**: When possible, use soft forks for gradual adoption.
 
-**Monitoring**: Monitor the network during and after activation.
+- **Monitoring**: Monitor the network during and after activation.
 
 ## The Future of Upgrades
 
 Upgrade evolution:
 
-**Modular Execution**: Modular designs enabling easier upgrades.
+- **Modular Execution**: Modular designs enabling easier upgrades.
 
-**Rollout Flexibility**: Better tools for managing upgrade rollout.
+- **Rollout Flexibility**: Better tools for managing upgrade rollout.
 
-**Backward Compatibility**: Emphasis on backward compatibility where possible.
+- **Backward Compatibility**: Emphasis on backward compatibility where possible.
 
-**Staged Rollouts**: More sophisticated staged rollout mechanisms.
+- **Staged Rollouts**: More sophisticated staged rollout mechanisms.
 
 ## Tighten Rules Safely
 

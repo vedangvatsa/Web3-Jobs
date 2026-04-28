@@ -15,17 +15,17 @@ Audit refers to a comprehensive security review of smart contract code conducted
 
 Professional smart contract audits examine multiple dimensions of code security:
 
-**Vulnerability Scanning**: Searching for known vulnerability patterns like reentrancy attacks, integer overflows, access control flaws, and front-running susceptibilities.
+- **Vulnerability Scanning**: Searching for known vulnerability patterns like reentrancy attacks, integer overflows, access control flaws, and front-running susceptibilities.
 
-**Logic Verification**: Ensuring the code correctly implements the intended business logic without edge cases that could be exploited.
+- **Logic Verification**: Ensuring the code correctly implements the intended business logic without edge cases that could be exploited.
 
-**Gas Optimization**: Identifying opportunities to reduce gas costs, making the contract more economical for users.
+- **Gas Optimization**: Identifying opportunities to reduce gas costs, making the contract more economical for users.
 
-**Code Quality**: Reviewing adherence to best practices, code readability, proper documentation, and maintainability.
+- **Code Quality**: Reviewing adherence to best practices, code readability, proper documentation, and maintainability.
 
-**Economic Model Analysis**: Assessing tokenomics, incentive structures, and game theory to identify potential economic exploits.
+- **Economic Model Analysis**: Assessing tokenomics, incentive structures, and game theory to identify potential economic exploits.
 
-**Compliance Checks**: In some cases, verifying alignment with regulatory requirements or industry standards.
+- **Compliance Checks**: In some cases, verifying alignment with regulatory requirements or industry standards.
 
 Comprehensive audits combine manual code review by experienced security researchers with automated scanning tools to catch both novel and common vulnerabilities.
 
@@ -33,21 +33,21 @@ Comprehensive audits combine manual code review by experienced security research
 
 Smart contract audits typically follow a structured methodology:
 
-**1. Scoping**: Defining which contracts will be audited, timeline, and deliverables. Teams provide auditors with code, documentation, and architecture diagrams.
+- **1. Scoping**: Defining which contracts will be audited, timeline, and deliverables. Teams provide auditors with code, documentation, and architecture diagrams.
 
-**2. Automated Analysis**: Running static analysis tools like Slither, Mythril, and custom scanners to identify low-hanging fruit and common patterns.
+- **2. Automated Analysis**: Running static analysis tools like Slither, Mythril, and custom scanners to identify low-hanging fruit and common patterns.
 
-**3. Manual Review**: Line-by-line examination by experienced auditors, often multiple reviewers independently analyzing the same code.
+- **3. Manual Review**: Line-by-line examination by experienced auditors, often multiple reviewers independently analyzing the same code.
 
-**4. Testing**: Creating test cases to verify vulnerabilities, including fuzzing (feeding random inputs) and symbolic execution.
+- **4. Testing**: Creating test cases to verify vulnerabilities, including fuzzing (feeding random inputs) and symbolic execution.
 
-**5. Draft Report**: Auditors compile findings categorized by severity (Critical, High, Medium, Low, Informational).
+- **5. Draft Report**: Auditors compile findings categorized by severity (Critical, High, Medium, Low, Informational).
 
-**6. Remediation**: Development teams fix identified issues and provide updated code.
+- **6. Remediation**: Development teams fix identified issues and provide updated code.
 
-**7. Re-audit**: Auditors verify fixes and ensure no new vulnerabilities were introduced.
+- **7. Re-audit**: Auditors verify fixes and ensure no new vulnerabilities were introduced.
 
-**8. Final Report**: Published report detailing findings, fixes, and remaining considerations.
+- **8. Final Report**: Published report detailing findings, fixes, and remaining considerations.
 
 The entire process typically takes 2-6 weeks depending on code complexity and scope.
 
@@ -55,15 +55,15 @@ The entire process typically takes 2-6 weeks depending on code complexity and sc
 
 Audit reports categorize issues by severity:
 
-**Critical**: Vulnerabilities that could lead to immediate loss of funds or complete protocol failure. Examples include reentrancy bugs allowing unlimited withdrawals or access control flaws letting anyone upgrade contracts.
+- **Critical**: Vulnerabilities that could lead to immediate loss of funds or complete protocol failure. Examples include reentrancy bugs allowing unlimited withdrawals or access control flaws letting anyone upgrade contracts.
 
-**High**: Serious issues that could cause significant loss under certain conditions, like price oracle manipulation or inadequate collateralization checks.
+- **High**: Serious issues that could cause significant loss under certain conditions, like price oracle manipulation or inadequate collateralization checks.
 
-**Medium**: Problems that could impact functionality or lead to losses in specific scenarios, such as denial-of-service vectors or griefing attacks.
+- **Medium**: Problems that could impact functionality or lead to losses in specific scenarios, such as denial-of-service vectors or griefing attacks.
 
-**Low**: Minor issues with limited impact, like gas inefficiencies or violations of best practices that don't directly threaten security.
+- **Low**: Minor issues with limited impact, like gas inefficiencies or violations of best practices that don't directly threaten security.
 
-**Informational**: Recommendations for code quality, documentation, or future improvements that don't represent current vulnerabilities.
+- **Informational**: Recommendations for code quality, documentation, or future improvements that don't represent current vulnerabilities.
 
 Protocols must address Critical and High severity findings before mainnet launch; Medium and Low issues are often fixed post-audit.
 
@@ -71,19 +71,19 @@ Protocols must address Critical and High severity findings before mainnet launch
 
 Several specialized firms dominate smart contract auditing:
 
-**Trail of Bits**: Pioneered smart contract security, known for rigorous audits of major DeFi protocols. Also develops open-source security tools.
+- **Trail of Bits**: Pioneered smart contract security, known for rigorous audits of major DeFi protocols. Also develops open-source security tools.
 
-**OpenZeppelin**: Beyond their widely-used secure contract libraries, OpenZeppelin's audit team reviews leading protocols with a focus on Ethereum and related chains.
+- **OpenZeppelin**: Beyond their widely-used secure contract libraries, OpenZeppelin's audit team reviews leading protocols with a focus on Ethereum and related chains.
 
-**Consensys Diligence**: Part of Consensys, offering comprehensive audits with emphasis on formal verification and automated analysis.
+- **Consensys Diligence**: Part of Consensys, offering comprehensive audits with emphasis on formal verification and automated analysis.
 
-**CertiK**: Known for formal verification approaches and their Security Leaderboard tracking audit history across projects.
+- **CertiK**: Known for formal verification approaches and their Security Leaderboard tracking audit history across projects.
 
-**Quantstamp**: One of the earliest audit firms, with hundreds of audits across DeFi, NFT, and Layer 2 projects.
+- **Quantstamp**: One of the earliest audit firms, with hundreds of audits across DeFi, NFT, and Layer 2 projects.
 
-**Chainsecurity**: Swiss-based firm known for rigorous methodology and academic approach to smart contract security.
+- **Chainsecurity**: Swiss-based firm known for rigorous methodology and academic approach to smart contract security.
 
-**Runtime Verification**: Specializes in formal verification, mathematically proving properties of smart contracts.
+- **Runtime Verification**: Specializes in formal verification, mathematically proving properties of smart contracts.
 
 Reputable protocols often undergo multiple independent audits to ensure comprehensive coverage.
 
@@ -91,13 +91,13 @@ Reputable protocols often undergo multiple independent audits to ensure comprehe
 
 Audit pricing varies significantly based on scope and firm:
 
-**Pricing Models**: Most firms charge based on lines of code, complexity, and timeline. Small projects might pay $10,000-$30,000; major DeFi protocols often spend significantly more for comprehensive audits.
+- **Pricing Models**: Most firms charge based on lines of code, complexity, and timeline. Small projects might pay $10,000-$30,000; major DeFi protocols often spend significantly more for comprehensive audits.
 
-**Timeline**: Simple contracts can be audited in 1-2 weeks; complex protocols with multiple interconnected contracts might require 4-8 weeks or more.
+- **Timeline**: Simple contracts can be audited in 1-2 weeks; complex protocols with multiple interconnected contracts might require 4-8 weeks or more.
 
-**Rush Fees**: Expedited audits cost significantly more, though auditors discourage rushing as it increases error risk.
+- **Rush Fees**: Expedited audits cost significantly more, though auditors discourage rushing as it increases error risk.
 
-**Retainer Agreements**: Large protocols sometimes establish ongoing relationships with audit firms for continuous review as they develop new features.
+- **Retainer Agreements**: Large protocols sometimes establish ongoing relationships with audit firms for continuous review as they develop new features.
 
 While audits can be costly, they are essential risk management, far cheaper than suffering an exploit that drains protocol assets.
 
@@ -105,15 +105,15 @@ While audits can be costly, they are essential risk management, far cheaper than
 
 Even thorough audits don't guarantee security:
 
-**Point-in-Time Assessment**: Audits examine code at a specific moment. Any changes post-audit could introduce vulnerabilities.
+- **Point-in-Time Assessment**: Audits examine code at a specific moment. Any changes post-audit could introduce vulnerabilities.
 
-**Novel Attacks**: Auditors can only search for known vulnerability patterns. Truly novel attack vectors might be missed.
+- **Novel Attacks**: Auditors can only search for known vulnerability patterns. Truly novel attack vectors might be missed.
 
-**Economic Exploits**: Complex DeFi interactions across protocols can create exploits that aren't visible when examining contracts in isolation.
+- **Economic Exploits**: Complex DeFi interactions across protocols can create exploits that aren't visible when examining contracts in isolation.
 
-**Human Error**: Auditors are human and can miss issues, especially in extremely complex codebases.
+- **Human Error**: Auditors are human and can miss issues, especially in extremely complex codebases.
 
-**Implementation Gaps**: Even if core contracts are secure, vulnerabilities can exist in deployment scripts, admin key management, or off-chain infrastructure.
+- **Implementation Gaps**: Even if core contracts are secure, vulnerabilities can exist in deployment scripts, admin key management, or off-chain infrastructure.
 
 This is why defense-in-depth is critical. Audits should be combined with bug bounties, formal verification, incident response plans, and conservative launches.
 
@@ -121,15 +121,15 @@ This is why defense-in-depth is critical. Audits should be combined with bug bou
 
 The security field now includes complementary approaches:
 
-**Formal Verification**: Mathematical proofs that code behaves according to specification under all possible inputs. More rigorous but extremely time-consuming and expensive.
+- **Formal Verification**: Mathematical proofs that code behaves according to specification under all possible inputs. More rigorous but extremely time-consuming and expensive.
 
-**Competitive Audits**: Platforms like Code4rena run competitions where multiple security researchers compete to find bugs, often uncovering more issues than single-firm audits.
+- **Competitive Audits**: Platforms like Code4rena run competitions where multiple security researchers compete to find bugs, often uncovering more issues than single-firm audits.
 
-**Bug Bounties**: Programs incentivize white-hat hackers to responsibly disclose vulnerabilities in exchange for rewards, providing ongoing security testing.
+- **Bug Bounties**: Programs incentivize white-hat hackers to responsibly disclose vulnerabilities in exchange for rewards, providing ongoing security testing.
 
-**Continuous Monitoring**: Services monitor deployed contracts for suspicious activity, unusual transactions, or economic anomalies that might indicate exploits.
+- **Continuous Monitoring**: Services monitor deployed contracts for suspicious activity, unusual transactions, or economic anomalies that might indicate exploits.
 
-**Audit Contests**: Some projects run public contests where anyone can submit findings, democratizing security review.
+- **Audit Contests**: Some projects run public contests where anyone can submit findings, democratizing security review.
 
 ## Career Opportunities
 
@@ -149,47 +149,47 @@ Smart contract auditing offers lucrative and intellectually challenging careers:
 
 Protocols should approach audits strategically:
 
-**Audit Before Launch**: Never deploy significant contracts to mainnet without at least one professional audit from a reputable firm.
+- **Audit Before Launch**: Never deploy significant contracts to mainnet without at least one professional audit from a reputable firm.
 
-**Multiple Audits**: For high-value protocols, commission independent audits from 2-3 different firms. Different teams catch different issues.
+- **Multiple Audits**: For high-value protocols, commission independent audits from 2-3 different firms. Different teams catch different issues.
 
-**Iterative Development**: Rather than auditing everything at once, audit incrementally as you build new features.
+- **Iterative Development**: Rather than auditing everything at once, audit incrementally as you build new features.
 
-**Address Findings**: Take audit reports seriously. Understand and fix every Critical and High-severity finding before launch.
+- **Address Findings**: Take audit reports seriously. Understand and fix every Critical and High-severity finding before launch.
 
-**Publish Reports**: Transparent disclosure of audit results builds community trust and allows users to make informed decisions.
+- **Publish Reports**: Transparent disclosure of audit results builds community trust and allows users to make informed decisions.
 
-**Ongoing Security**: Establish bug bounty programs and plan for periodic re-audits as you upgrade contracts.
+- **Ongoing Security**: Establish bug bounty programs and plan for periodic re-audits as you upgrade contracts.
 
-**Conservative Launches**: Even after audits, launch with limited asset caps or feature restrictions, gradually removing guardrails as confidence builds.
+- **Conservative Launches**: Even after audits, launch with limited asset caps or feature restrictions, gradually removing guardrails as confidence builds.
 
 ## Red Flags
 
 Warning signs that should make users cautious:
 
-**No Audit**: Projects handling significant value without professional audits should be avoided. They may not take security seriously.
+- **No Audit**: Projects handling significant value without professional audits should be avoided. They may not take security seriously.
 
-**Unpublished Audit Reports**: If a project claims to be audited but won't share the report, assume it's hiding unfixed vulnerabilities.
+- **Unpublished Audit Reports**: If a project claims to be audited but won't share the report, assume it's hiding unfixed vulnerabilities.
 
-**Unknown Audit Firms**: Some projects claim "audits" from obscure firms or pay-for-pass operations. Research the auditor's reputation.
+- **Unknown Audit Firms**: Some projects claim "audits" from obscure firms or pay-for-pass operations. Research the auditor's reputation.
 
-**Unaddressed Findings**: If an audit identified Critical or High issues and they remain unfixed at launch, stay away.
+- **Unaddressed Findings**: If an audit identified Critical or High issues and they remain unfixed at launch, stay away.
 
-**Recent Code Changes**: If major code changes happened after the audit, the audit effectively doesn't cover current code.
+- **Recent Code Changes**: If major code changes happened after the audit, the audit effectively doesn't cover current code.
 
 ## The Future of Smart Contract Security
 
 Auditing continues evolving with the ecosystem:
 
-**AI-Assisted Auditing**: Machine learning models trained on vulnerability patterns increasingly assist human auditors, improving efficiency and coverage.
+- **AI-Assisted Auditing**: Machine learning models trained on vulnerability patterns increasingly assist human auditors, improving efficiency and coverage.
 
-**Zero-Knowledge Proofs**: ZK technology enables verification of correct execution without revealing implementation details.
+- **Zero-Knowledge Proofs**: ZK technology enables verification of correct execution without revealing implementation details.
 
-**Standardized Benchmarks**: The industry is developing standardized security frameworks and assessment criteria for more consistent audit quality.
+- **Standardized Benchmarks**: The industry is developing standardized security frameworks and assessment criteria for more consistent audit quality.
 
-**Real-Time Security**: On-chain monitoring and automated circuit breakers can pause protocols when anomalies are detected.
+- **Real-Time Security**: On-chain monitoring and automated circuit breakers can pause protocols when anomalies are detected.
 
-**Cross-Chain Security**: As protocols span multiple chains, auditors must understand security properties across different execution environments.
+- **Cross-Chain Security**: As protocols span multiple chains, auditors must understand security properties across different execution environments.
 
 ## Build Secure Protocols
 

@@ -29,27 +29,27 @@ In traditional AMMs like Uniswap V2, liquidity is distributed uniformly across a
 
 Concentrated liquidity changes this:
 
-**Position Creation**: An LP deposits tokens and specifies a price range [P_lower, P_upper]. Their liquidity is only active within this range.
+- **Position Creation**: An LP deposits tokens and specifies a price range [P_lower, P_upper]. Their liquidity is only active within this range.
 
-**Concentrated Depth**: Within the selected range, the LP's capital acts as if it were "magnified." $1,000 deployed in a tight range provides the same liquidity depth as $10,000+ spread across the entire curve.
+- **Concentrated Depth**: Within the selected range, the LP's capital acts as if it were "magnified." $1,000 deployed in a tight range provides the same liquidity depth as $10,000+ spread across the entire curve.
 
-**Multiple Positions**: A single LP can create multiple positions across different ranges, simulating complex liquidity provision strategies (e.g., one position at current price, another at expected resistance levels).
+- **Multiple Positions**: A single LP can create multiple positions across different ranges, simulating complex liquidity provision strategies (e.g., one position at current price, another at expected resistance levels).
 
-**Active vs Inactive**: When the price is in-range, the position earns fees and experiences impermanent loss. When out-of-range, the position is 100% in one asset, earns no fees, but stops experiencing additional impermanent loss.
+- **Active vs Inactive**: When the price is in-range, the position earns fees and experiences impermanent loss. When out-of-range, the position is 100% in one asset, earns no fees, but stops experiencing additional impermanent loss.
 
-**Fee Tiers**: Uniswap V3 introduced multiple fee tiers (0.01%, 0.05%, 0.3%, 1%) allowing LPs to choose risk/reward profiles based on asset volatility.
+- **Fee Tiers**: Uniswap V3 introduced multiple fee tiers (0.01%, 0.05%, 0.3%, 1%) allowing LPs to choose risk/reward profiles based on asset volatility.
 
 ## Capital Efficiency Example
 
 Consider an ETH/USDC pool with ETH priced at $2,000:
 
-**Uniswap V2 (Uniform Liquidity)**:
+- **Uniswap V2 (Uniform Liquidity)**:
 - LP deposits $10,000 ($5,000 ETH + $5,000 USDC)
 - Liquidity is spread from $0 to ∞
 - Most capital is allocated to prices that will never be reached
 - Effective liquidity at $2,000: ~$10,000
 
-**Uniswap V3 (Concentrated Liquidity)**:
+- **Uniswap V3 (Concentrated Liquidity)**:
 - LP deposits $10,000 in the range $1,800-$2,200
 - All capital is concentrated in this 20% range
 - Effective liquidity at $2,000: ~$40,000-$50,000
@@ -60,45 +60,45 @@ If the LP had chosen an even tighter range ($1,900-$2,100), they could achieve h
 
 Concentrated liquidity offers several advantages:
 
-**Higher Fee Earnings**: LPs earn more fees per dollar of capital because their liquidity is concentrated where trades actually occur.
+- **Higher Fee Earnings**: LPs earn more fees per dollar of capital because their liquidity is concentrated where trades actually occur.
 
-**Better Prices for Traders**: Deeper liquidity in active price ranges means lower slippage for traders, improving execution quality.
+- **Better Prices for Traders**: Deeper liquidity in active price ranges means lower slippage for traders, improving execution quality.
 
-**Flexible Strategies**: LPs can implement market-making strategies: tight ranges for stable pairs (USDC/DAI), wide ranges for volatile pairs (ETH/altcoins), or multi-range strategies.
+- **Flexible Strategies**: LPs can implement market-making strategies: tight ranges for stable pairs (USDC/DAI), wide ranges for volatile pairs (ETH/altcoins), or multi-range strategies.
 
-**Reduced Capital Requirements**: Professional market makers need less capital to provide equivalent liquidity, lowering barriers to entry.
+- **Reduced Capital Requirements**: Professional market makers need less capital to provide equivalent liquidity, lowering barriers to entry.
 
-**Active Management Rewards**: Sophisticated LPs who actively rebalance positions can significantly outperform passive uniform liquidity provision.
+- **Active Management Rewards**: Sophisticated LPs who actively rebalance positions can significantly outperform passive uniform liquidity provision.
 
-**Custom Risk Profiles**: Risk-averse LPs can use wide ranges for less management, while risk-tolerant LPs can use tight ranges for higher returns.
+- **Custom Risk Profiles**: Risk-averse LPs can use wide ranges for less management, while risk-tolerant LPs can use tight ranges for higher returns.
 
 ## Risks and Challenges
 
 Concentrated liquidity introduces new complexities and risks:
 
-**Out-of-Range Risk**: If the price moves outside an LP's range, they stop earning fees. In volatile markets, positions can quickly become inactive, requiring frequent rebalancing.
+- **Out-of-Range Risk**: If the price moves outside an LP's range, they stop earning fees. In volatile markets, positions can quickly become inactive, requiring frequent rebalancing.
 
-**Increased Impermanent Loss**: Concentrated positions experience impermanent loss faster than uniform liquidity when the price moves, as the position is more exposed to price changes within the range.
+- **Increased Impermanent Loss**: Concentrated positions experience impermanent loss faster than uniform liquidity when the price moves, as the position is more exposed to price changes within the range.
 
-**Active Management Required**: Optimal concentrated liquidity provision requires monitoring prices, gas costs for rebalancing, and strategy adjustments. Passive "set and forget" is less viable.
+- **Active Management Required**: Optimal concentrated liquidity provision requires monitoring prices, gas costs for rebalancing, and strategy adjustments. Passive "set and forget" is less viable.
 
-**Gas Costs**: Creating, adjusting, and removing positions costs gas. On Ethereum mainnet, gas costs can eat into profits for smaller positions, especially during high congestion.
+- **Gas Costs**: Creating, adjusting, and removing positions costs gas. On Ethereum mainnet, gas costs can eat into profits for smaller positions, especially during high congestion.
 
-**Complexity**: Understanding how to choose optimal ranges, when to rebalance, and how to calculate expected returns is significantly harder than passive V2 LPing.
+- **Complexity**: Understanding how to choose optimal ranges, when to rebalance, and how to calculate expected returns is significantly harder than passive V2 LPing.
 
-**Toxic Flow**: Concentrated liquidity is more vulnerable to informed traders extracting value from LPs through arbitrage, as liquidity is less evenly distributed.
+- **Toxic Flow**: Concentrated liquidity is more vulnerable to informed traders extracting value from LPs through arbitrage, as liquidity is less evenly distributed.
 
 ## Uniswap V3 and Fee Tiers
 
 Uniswap V3 pairs concentrated liquidity with four fee tiers, allowing LPs to match fee levels to asset volatility:
 
-**0.01% Fee Tier**: For highly correlated assets (stablecoin pairs, WBTC/tBTC) where expected price movement is minimal and competition for fees is high.
+- **0.01% Fee Tier**: For highly correlated assets (stablecoin pairs, WBTC/tBTC) where expected price movement is minimal and competition for fees is high.
 
-**0.05% Fee Tier**: For moderately correlated assets (ETH/staked ETH derivatives like stETH) with low but non-zero volatility.
+- **0.05% Fee Tier**: For moderately correlated assets (ETH/staked ETH derivatives like stETH) with low but non-zero volatility.
 
-**0.30% Fee Tier**: The default tier for most uncorrelated pairs (ETH/USDC, ETH/altcoins), balancing fee income and trading volume.
+- **0.30% Fee Tier**: The default tier for most uncorrelated pairs (ETH/USDC, ETH/altcoins), balancing fee income and trading volume.
 
-**1% Fee Tier**: For exotic or highly volatile pairs where LPs need higher compensation for impermanent loss risk.
+- **1% Fee Tier**: For exotic or highly volatile pairs where LPs need higher compensation for impermanent loss risk.
 
 LPs can choose which tier to provide liquidity in, and the same pair can have active pools in multiple tiers. Most volume concentrates in one or two tiers for each pair.
 
@@ -108,16 +108,16 @@ Choosing the right price range is critical:
 
 **Stablecoin Pairs** (USDC/DAI): Extremely tight ranges around $1.00 (e.g., $0.995-$1.005), as prices rarely deviate significantly.
 
-**ETH/USDC**: Moderate ranges based on expected volatility. Common strategies:
+- **ETH/USDC**: Moderate ranges based on expected volatility. Common strategies:
 - Conservative: ±20-30% range ($1,400-$2,600 if current price is $2,000)
 - Moderate: ±10-15% range ($1,700-$2,300)
 - Aggressive: ±5% range ($1,900-$2,100)
 
-**Volatile Altcoin Pairs**: Wider ranges or multiple positions at different levels to avoid constant rebalancing.
+- **Volatile Altcoin Pairs**: Wider ranges or multiple positions at different levels to avoid constant rebalancing.
 
-**Mean Reversion Strategy**: Multiple positions stacked at technical support/resistance levels, betting on price oscillation.
+- **Mean Reversion Strategy**: Multiple positions stacked at technical support/resistance levels, betting on price oscillation.
 
-**Trending Market Strategy**: Skewed ranges favoring the trend direction (e.g., range above current price in an uptrend).
+- **Trending Market Strategy**: Skewed ranges favoring the trend direction (e.g., range above current price in an uptrend).
 
 Many LPs use backtesting tools and simulators to optimize their range selection based on historical volatility.
 
@@ -125,17 +125,17 @@ Many LPs use backtesting tools and simulators to optimize their range selection 
 
 Since Uniswap V3's launch, many DEXs have adopted concentrated liquidity:
 
-**Uniswap V3**: The original concentrated liquidity DEX, dominant on Ethereum mainnet and many L2s (Arbitrum, Optimism, Polygon).
+- **Uniswap V3**: The original concentrated liquidity DEX, dominant on Ethereum mainnet and many L2s (Arbitrum, Optimism, Polygon).
 
-**PancakeSwap V3**: Concentrated liquidity on BNB Chain, using Uniswap V3's codebase.
+- **PancakeSwap V3**: Concentrated liquidity on BNB Chain, using Uniswap V3's codebase.
 
-**Trader Joe V2**: Avalanche-based DEX with "Liquidity Book," a variation on concentrated liquidity using discrete bins instead of continuous ranges.
+- **Trader Joe V2**: Avalanche-based DEX with "Liquidity Book," a variation on concentrated liquidity using discrete bins instead of continuous ranges.
 
-**Maverick Protocol**: Automated concentrated liquidity that dynamically shifts positions as prices move, reducing rebalancing needs.
+- **Maverick Protocol**: Automated concentrated liquidity that dynamically shifts positions as prices move, reducing rebalancing needs.
 
-**Algebra Finance**: Concentrated liquidity DEX with dynamic fees that adjust based on volatility.
+- **Algebra Finance**: Concentrated liquidity DEX with dynamic fees that adjust based on volatility.
 
-**SushiSwap V3**: Sushi's concentrated liquidity implementation across multiple chains.
+- **SushiSwap V3**: Sushi's concentrated liquidity implementation across multiple chains.
 
 Concentrated liquidity is becoming the standard for next-generation DEX design.
 
@@ -143,15 +143,15 @@ Concentrated liquidity is becoming the standard for next-generation DEX design.
 
 To address the complexity of managing concentrated liquidity positions, several protocols offer automated strategies:
 
-**Arrakis (formerly G-UNI)**: Automated liquidity management vaults that rebalance Uniswap V3 positions based on algorithmic strategies.
+- **Arrakis (formerly G-UNI)**: Automated liquidity management vaults that rebalance Uniswap V3 positions based on algorithmic strategies.
 
-**Gamma Strategies**: Active liquidity management with multiple strategy types (wide, narrow, stable) for different risk profiles.
+- **Gamma Strategies**: Active liquidity management with multiple strategy types (wide, narrow, stable) for different risk profiles.
 
-**Charm Finance**: Automated market-making strategies including alpha vaults and automated rebalancing.
+- **Charm Finance**: Automated market-making strategies including alpha vaults and automated rebalancing.
 
-**Popsicle Finance**: Cross-chain automated liquidity management with optimization algorithms.
+- **Popsicle Finance**: Cross-chain automated liquidity management with optimization algorithms.
 
-**UniswapV3 Staker**: Liquidity mining programs that reward LPs for providing liquidity in specific ranges.
+- **UniswapV3 Staker**: Liquidity mining programs that reward LPs for providing liquidity in specific ranges.
 
 These services charge management fees but handle the complexity of position management, making concentrated liquidity more accessible to passive LPs.
 
@@ -159,15 +159,15 @@ These services charge management fees but handle the complexity of position mana
 
 The concentrated liquidity ecosystem has created new professional opportunities:
 
-**DeFi Quants**: Develop mathematical models for optimal range selection, rebalancing strategies, and risk management in concentrated liquidity systems.
+- **DeFi Quants**: Develop mathematical models for optimal range selection, rebalancing strategies, and risk management in concentrated liquidity systems.
 
-**Liquidity Management Protocol Developers**: Build automated liquidity management systems, optimization algorithms, and user interfaces for concentrated liquidity.
+- **Liquidity Management Protocol Developers**: Build automated liquidity management systems, optimization algorithms, and user interfaces for concentrated liquidity.
 
-**Smart Contract Engineers**: Implement concentrated liquidity AMMs, audit position management contracts, and optimize gas efficiency.
+- **Smart Contract Engineers**: Implement concentrated liquidity AMMs, audit position management contracts, and optimize gas efficiency.
 
-**Market Making Strategists**: Run professional LP operations, manage large positions across multiple pairs and ranges, and develop proprietary strategies.
+- **Market Making Strategists**: Run professional LP operations, manage large positions across multiple pairs and ranges, and develop proprietary strategies.
 
-**DeFi Researchers**: Study concentrated liquidity dynamics, impermanent loss patterns, and market microstructure effects.
+- **DeFi Researchers**: Study concentrated liquidity dynamics, impermanent loss patterns, and market microstructure effects.
 
 This field rewards both technical skills and financial expertise.
 
@@ -175,35 +175,35 @@ This field rewards both technical skills and financial expertise.
 
 To succeed with concentrated liquidity:
 
-**Start Wide**: Beginners should use wide ranges (±20-30%) to reduce rebalancing needs and learn the system before moving to tighter ranges.
+- **Start Wide**: Beginners should use wide ranges (±20-30%) to reduce rebalancing needs and learn the system before moving to tighter ranges.
 
-**Monitor Gas Costs**: On Ethereum mainnet, only rebalance when the expected fee gains exceed gas costs. Consider L2s for smaller positions.
+- **Monitor Gas Costs**: On Ethereum mainnet, only rebalance when the expected fee gains exceed gas costs. Consider L2s for smaller positions.
 
-**Use Fee Tier Strategically**: Match your range width to the fee tier. Tight ranges need higher fees to compensate for out-of-range risk.
+- **Use Fee Tier Strategically**: Match your range width to the fee tier. Tight ranges need higher fees to compensate for out-of-range risk.
 
-**Backtest Strategies**: Use historical data to simulate your range performance before deploying real capital.
+- **Backtest Strategies**: Use historical data to simulate your range performance before deploying real capital.
 
-**Diversify Ranges**: Consider multiple positions at different ranges to balance active fee earning with out-of-range protection.
+- **Diversify Ranges**: Consider multiple positions at different ranges to balance active fee earning with out-of-range protection.
 
-**Track Impermanent Loss**: Use tools to monitor impermanent loss and understand your true returns.
+- **Track Impermanent Loss**: Use tools to monitor impermanent loss and understand your true returns.
 
-**Consider Automation**: For smaller positions or less active management, automated vaults may outperform manual management after fees.
+- **Consider Automation**: For smaller positions or less active management, automated vaults may outperform manual management after fees.
 
-**Understand Market Conditions**: Tight ranges work well in ranging markets; wider ranges are safer in trending or volatile markets.
+- **Understand Market Conditions**: Tight ranges work well in ranging markets; wider ranges are safer in trending or volatile markets.
 
 ## The Future of Concentrated Liquidity
 
 Concentrated liquidity continues to evolve:
 
-**Dynamic Range Adjustment**: Smart contracts that automatically adjust ranges based on volatility, volume, or price trends.
+- **Dynamic Range Adjustment**: Smart contracts that automatically adjust ranges based on volatility, volume, or price trends.
 
-**Cross-Chain Concentrated Liquidity**: Protocols enabling concentrated liquidity positions that span multiple chains via shared sequencing or fast bridges.
+- **Cross-Chain Concentrated Liquidity**: Protocols enabling concentrated liquidity positions that span multiple chains via shared sequencing or fast bridges.
 
-**On-Chain Limit Orders**: Concentrated liquidity enables decentralized limit order functionality by creating positions just outside the current price.
+- **On-Chain Limit Orders**: Concentrated liquidity enables decentralized limit order functionality by creating positions just outside the current price.
 
-**Options and Derivatives**: Concentrated LP positions function similarly to short volatility positions and could evolve into on-chain options primitives.
+- **Options and Derivatives**: Concentrated LP positions function similarly to short volatility positions and could evolve into on-chain options primitives.
 
-**Institutional Adoption**: Professional market makers increasingly using concentrated liquidity as a DeFi-native market-making venue.
+- **Institutional Adoption**: Professional market makers increasingly using concentrated liquidity as a DeFi-native market-making venue.
 
 As tooling improves and gas costs decrease, concentrated liquidity will likely become the dominant method for DEX liquidity provision.
 

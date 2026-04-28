@@ -15,15 +15,15 @@ Sequencer refers to the entity responsible for ordering, batching, and submittin
 
 What sequencers do:
 
-**Transaction Collection**: Receive transactions from users in L2 mempool.
+- **Transaction Collection**: Receive transactions from users in L2 mempool.
 
-**Ordering**: Decide order of transactions. Order matters for outcomes (MEV).
+- **Ordering**: Decide order of transactions. Order matters for outcomes (MEV).
 
-**Batching**: Group multiple transactions into single batch for efficiency.
+- **Batching**: Group multiple transactions into single batch for efficiency.
 
-**Posting**: Post ordered batch to Layer 1 as single transaction.
+- **Posting**: Post ordered batch to Layer 1 as single transaction.
 
-**Confirmation**: Users get L2 confirmation through sequencer before L1 finality.
+- **Confirmation**: Users get L2 confirmation through sequencer before L1 finality.
 
 Sequencers enable fast L2 transactions through efficient batching.
 
@@ -31,13 +31,13 @@ Sequencers enable fast L2 transactions through efficient batching.
 
 Financial aspects:
 
-**Sequencer Profit**: Collects fees from users. Profit equals fees collected minus L1 posting cost.
+- **Sequencer Profit**: Collects fees from users. Profit equals fees collected minus L1 posting cost.
 
-**MEV Extraction**: Sequencer sees all pending transactions and can extract MEV.
+- **MEV Extraction**: Sequencer sees all pending transactions and can extract MEV.
 
-**Competition**: Multiple sequencers compete to batch transactions.
+- **Competition**: Multiple sequencers compete to batch transactions.
 
-**Incentives**: Sequencers are incentivized to order transactions benefiting users or themselves.
+- **Incentives**: Sequencers are incentivized to order transactions benefiting users or themselves.
 
 Sequencer incentives must align with user interests.
 
@@ -45,13 +45,13 @@ Sequencer incentives must align with user interests.
 
 Comparing models:
 
-**Centralized Sequencer**: Single entity orders transactions. Fast but centralized.
+- **Centralized Sequencer**: Single entity orders transactions. Fast but centralized.
 
-**Decentralized Sequencing**: Multiple sequencers compete. More decentralized but complex.
+- **Decentralized Sequencing**: Multiple sequencers compete. More decentralized but complex.
 
-**Threshold Encryption**: Encrypt transactions until after ordering to prevent front-running.
+- **Threshold Encryption**: Encrypt transactions until after ordering to prevent front-running.
 
-**MEV-Burn**: Sequencer burns MEV revenue to reduce MEV extraction incentives.
+- **MEV-Burn**: Sequencer burns MEV revenue to reduce MEV extraction incentives.
 
 Different approaches balance decentralization and efficiency.
 
@@ -59,15 +59,15 @@ Different approaches balance decentralization and efficiency.
 
 Potential issues:
 
-**Censorship**: Sequencer can censor transactions and exclude certain users or transactions.
+- **Censorship**: Sequencer can censor transactions and exclude certain users or transactions.
 
-**MEV Extraction**: Sequencer extracts MEV through ordering, reducing user value.
+- **MEV Extraction**: Sequencer extracts MEV through ordering, reducing user value.
 
-**Centralization**: A single sequencer creates centralization risk.
+- **Centralization**: A single sequencer creates centralization risk.
 
-**Downtime**: If sequencer goes down, L2 stops. A fallback mechanism is necessary.
+- **Downtime**: If sequencer goes down, L2 stops. A fallback mechanism is necessary.
 
-**Front-Running**: Sequencer can front-run users and execute ahead of them.
+- **Front-Running**: Sequencer can front-run users and execute ahead of them.
 
 Sequencer risks are serious and require mitigations.
 
@@ -75,15 +75,15 @@ Sequencer risks are serious and require mitigations.
 
 Risk controls:
 
-**Escape Hatch**: Users can bypass sequencer and post transactions directly to L1 if sequencer censors.
+- **Escape Hatch**: Users can bypass sequencer and post transactions directly to L1 if sequencer censors.
 
-**Decentralization Timeline**: Protocols are planning transitions to decentralized sequencers.
+- **Decentralization Timeline**: Protocols are planning transitions to decentralized sequencers.
 
-**Ordering Fairness**: Protocols are working on fair ordering to prevent MEV extraction.
+- **Ordering Fairness**: Protocols are working on fair ordering to prevent MEV extraction.
 
-**Sequencer Bonds**: Sequencers bond capital and can be slashed if they misbehave.
+- **Sequencer Bonds**: Sequencers bond capital and can be slashed if they misbehave.
 
-**Failover**: Multiple sequencers enable failover if the primary fails.
+- **Failover**: Multiple sequencers enable failover if the primary fails.
 
 Mitigations reduce but do not eliminate sequencer risks.
 
@@ -91,13 +91,13 @@ Mitigations reduce but do not eliminate sequencer risks.
 
 Real systems:
 
-**Arbitrum**: Currently has a single sequencer (Offchain Labs) with planned decentralization.
+- **Arbitrum**: Currently has a single sequencer (Offchain Labs) with planned decentralization.
 
-**Optimism**: Operates a single sequencer with a transition to decentralized sequencing planned.
+- **Optimism**: Operates a single sequencer with a transition to decentralized sequencing planned.
 
-**Polygon**: Utilizes multiple sequencers backing Polygon PoS for a more decentralized approach.
+- **Polygon**: Utilizes multiple sequencers backing Polygon PoS for a more decentralized approach.
 
-**StarkNet**: StarkWare runs a sequencer with plans for permissionless sequencing.
+- **StarkNet**: StarkWare runs a sequencer with plans for permissionless sequencing.
 
 Major Layer 2s are running sequencers with decentralization roadmaps.
 
@@ -105,13 +105,13 @@ Major Layer 2s are running sequencers with decentralization roadmaps.
 
 Emerging approaches:
 
-**Proposer-Builder Separation**: Separate builders propose blocks from proposers who order transactions.
+- **Proposer-Builder Separation**: Separate builders propose blocks from proposers who order transactions.
 
-**Encrypted Mempools**: Encrypt transactions to prevent ordering before commitment.
+- **Encrypted Mempools**: Encrypt transactions to prevent ordering before commitment.
 
-**Threshold Encryption**: Encrypt until after ordering and decrypt in deterministic order.
+- **Threshold Encryption**: Encrypt until after ordering and decrypt in deterministic order.
 
-**Intent-Based Architectures**: Users specify intents, and solvers compete to fulfill them.
+- **Intent-Based Architectures**: Users specify intents, and solvers compete to fulfill them.
 
 Decentralized sequencing is an active research area.
 
@@ -133,25 +133,25 @@ Sequencing creates roles:
 
 Using sequencer Layer 2s:
 
-**Understand Risks**: Recognize centralization risks of current sequencers.
+- **Understand Risks**: Recognize centralization risks of current sequencers.
 
-**Plan for Escapes**: Know how to use the escape hatch if the sequencer censors.
+- **Plan for Escapes**: Know how to use the escape hatch if the sequencer censors.
 
-**Monitor Roadmaps**: Track decentralization timelines.
+- **Monitor Roadmaps**: Track decentralization timelines.
 
-**Diversify**: Use multiple Layer 2s rather than a single Layer 2.
+- **Diversify**: Use multiple Layer 2s rather than a single Layer 2.
 
 ## The Future of Sequencing
 
 Sequencing evolution:
 
-**Decentralized Sequencing**: Transition to permissionless sequencing.
+- **Decentralized Sequencing**: Transition to permissionless sequencing.
 
-**Encrypted Sequencing**: Sequencing without MEV extraction.
+- **Encrypted Sequencing**: Sequencing without MEV extraction.
 
-**Cross-Chain Sequencing**: Sequencers coordinating across multiple Layer 2s.
+- **Cross-Chain Sequencing**: Sequencers coordinating across multiple Layer 2s.
 
-**Intent-Based**: Shift from transaction ordering to intent fulfillment.
+- **Intent-Based**: Shift from transaction ordering to intent fulfillment.
 
 ## Order Transactions Efficiently
 

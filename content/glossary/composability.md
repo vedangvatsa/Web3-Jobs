@@ -15,15 +15,15 @@ Composability refers to the ability of smart contracts and DeFi protocols to int
 
 Real combinations:
 
-**Yield Farming**: Combine staking, AMM farming, and lending. Earn fees, yields, and incentives.
+- **Yield Farming**: Combine staking, AMM farming, and lending. Earn fees, yields, and incentives.
 
-**Flash Loans**: Borrow, use in multiple protocols, repay, all in one transaction. Enables arbitrage and attacks.
+- **Flash Loans**: Borrow, use in multiple protocols, repay, all in one transaction. Enables arbitrage and attacks.
 
-**Liquidity Aggregation**: Route trades through multiple DEXes to find the best price.
+- **Liquidity Aggregation**: Route trades through multiple DEXes to find the best price.
 
-**Leveraged Trading**: Borrow, buy, deposit as collateral, repeat. Amplify returns and losses.
+- **Leveraged Trading**: Borrow, buy, deposit as collateral, repeat. Amplify returns and losses.
 
-**Cross-Protocol Positions**: Use a position in one protocol as collateral in another.
+- **Cross-Protocol Positions**: Use a position in one protocol as collateral in another.
 
 Composability enables complex strategies.
 
@@ -31,15 +31,15 @@ Composability enables complex strategies.
 
 Special case:
 
-**Atomic Execution**: Borrow, use, repay in a single transaction.
+- **Atomic Execution**: Borrow, use, repay in a single transaction.
 
-**No Collateral**: No collateral needed for flash loans.
+- **No Collateral**: No collateral needed for flash loans.
 
-**Complex Strategies**: Use loans in multiple protocols, repay atomically.
+- **Complex Strategies**: Use loans in multiple protocols, repay atomically.
 
-**Arbitrage**: Opportunities without capital.
+- **Arbitrage**: Opportunities without capital.
 
-**Attacks**: Flash loans can enable attacks.
+- **Attacks**: Flash loans can enable attacks.
 
 Flash loans exemplify composability power and danger.
 
@@ -47,15 +47,15 @@ Flash loans exemplify composability power and danger.
 
 Downsides:
 
-**Cascade Failures**: One protocol failure can affect dependent protocols.
+- **Cascade Failures**: One protocol failure can affect dependent protocols.
 
-**Flash Loan Attacks**: Using composed protocols for attacks.
+- **Flash Loan Attacks**: Using composed protocols for attacks.
 
-**Complex Risk**: Hard to understand all dependencies and risks.
+- **Complex Risk**: Hard to understand all dependencies and risks.
 
-**Smart Contract Risk**: A bug in one protocol can affect all dependents.
+- **Smart Contract Risk**: A bug in one protocol can affect all dependents.
 
-**Contagion**: A crisis in one protocol can spread systemically.
+- **Contagion**: A crisis in one protocol can spread systemically.
 
 Composability amplifies risks.
 
@@ -63,17 +63,17 @@ Composability amplifies risks.
 
 Reducing risks:
 
-**Risk Monitoring**: Monitor dependencies and risks.
+- **Risk Monitoring**: Monitor dependencies and risks.
 
-**Price Oracles**: Better oracles can help prevent flash loan attacks.
+- **Price Oracles**: Better oracles can help prevent flash loan attacks.
 
-**Circuit Breakers**: Pause operations during abnormal activity.
+- **Circuit Breakers**: Pause operations during abnormal activity.
 
-**Insurance**: Insurance can protect against cascade failures.
+- **Insurance**: Insurance can protect against cascade failures.
 
-**Isolation**: Some protocols can operate in isolated markets to prevent contagion.
+- **Isolation**: Some protocols can operate in isolated markets to prevent contagion.
 
-**Audits**: Comprehensive audits help understand all interactions.
+- **Audits**: Comprehensive audits help understand all interactions.
 
 Risk management is critical with composability.
 
@@ -81,13 +81,13 @@ Risk management is critical with composability.
 
 Enabling composability:
 
-**Standards**: ERC-20 for tokens, ERC-4626 for vaults. Standards enable composition.
+- **Standards**: ERC-20 for tokens, ERC-4626 for vaults. Standards enable composition.
 
-**Open Interfaces**: Public, well-documented interfaces enable integration.
+- **Open Interfaces**: Public, well-documented interfaces enable integration.
 
-**Interoperability**: Protocols designed for combination.
+- **Interoperability**: Protocols designed for combination.
 
-**Shared Assumptions**: Compatible assumptions, such as price oracles and safety levels.
+- **Shared Assumptions**: Compatible assumptions, such as price oracles and safety levels.
 
 Good design enables composability.
 
@@ -109,27 +109,27 @@ Composability creates roles:
 
 Using composability:
 
-**Understand Dependencies**: Know all protocols your position depends on.
+- **Understand Dependencies**: Know all protocols your position depends on.
 
-**Risk Limits**: Don't over-compose. Maintain risk limits.
+- **Risk Limits**: Don't over-compose. Maintain risk limits.
 
-**Audits**: Ensure all composed protocols are audited.
+- **Audits**: Ensure all composed protocols are audited.
 
-**Monitoring**: Monitor all dependent protocols.
+- **Monitoring**: Monitor all dependent protocols.
 
-**Diversification**: Don't put all capital in a single composition.
+- **Diversification**: Don't put all capital in a single composition.
 
 ## The Future of Composability
 
 Evolution:
 
-**Safer Composition**: Better tools and standards for safe composition.
+- **Safer Composition**: Better tools and standards for safe composition.
 
-**Cross-Chain Composition**: Composition spanning multiple chains.
+- **Cross-Chain Composition**: Composition spanning multiple chains.
 
-**Intent-Based Composition**: Protocols compose automatically for users.
+- **Intent-Based Composition**: Protocols compose automatically for users.
 
-**Insurance**: Insurance can cover composition risks.
+- **Insurance**: Insurance can cover composition risks.
 
 ## Build Complex From Simple Pieces
 

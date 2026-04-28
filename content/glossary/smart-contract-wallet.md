@@ -15,17 +15,17 @@ Smart Contract Wallet refers to a cryptocurrency wallet implemented as a smart c
 
 Advanced capabilities:
 
-**Multi-Signature**: Require multiple signatures.
+- **Multi-Signature**: Require multiple signatures.
 
-**Timelock**: Delay between authorization and execution.
+- **Timelock**: Delay between authorization and execution.
 
-**Delegation**: Delegate operations to other addresses.
+- **Delegation**: Delegate operations to other addresses.
 
-**Batching**: Execute multiple operations atomically.
+- **Batching**: Execute multiple operations atomically.
 
-**Recovery**: Social recovery of lost keys.
+- **Recovery**: Social recovery of lost keys.
 
-**Automation**: Automated execution based on conditions.
+- **Automation**: Automated execution based on conditions.
 
 Smart contract wallets enable advanced features.
 
@@ -33,13 +33,13 @@ Smart contract wallets enable advanced features.
 
 Enabling technology:
 
-**EIP-4337**: Ethereum improvement enabling account abstraction.
+- **EIP-4337**: Ethereum improvement enabling account abstraction.
 
-**EntryPoint**: Specialized smart contract managing wallet interactions.
+- **EntryPoint**: Specialized smart contract managing wallet interactions.
 
-**Bundlers**: Services bundling transactions.
+- **Bundlers**: Services bundling transactions.
 
-**Paymasters**: Services paying gas on behalf of users.
+- **Paymasters**: Services paying gas on behalf of users.
 
 Account abstraction enables smart contract wallets without protocol changes.
 
@@ -47,13 +47,13 @@ Account abstraction enables smart contract wallets without protocol changes.
 
 Popular implementation:
 
-**Multi-Sig**: Require multiple signatures.
+- **Multi-Sig**: Require multiple signatures.
 
-**Execution**: Transactions queued, executed after signatures.
+- **Execution**: Transactions queued, executed after signatures.
 
-**Web Interface**: User-friendly web interface.
+- **Web Interface**: User-friendly web interface.
 
-**Governance**: Many protocols use Gnosis Safe for governance.
+- **Governance**: Many protocols use Gnosis Safe for governance.
 
 Gnosis Safe is a standard smart contract wallet.
 
@@ -61,13 +61,13 @@ Gnosis Safe is a standard smart contract wallet.
 
 Key feature:
 
-**Lost Key**: If you lose your private key, you can recover your wallet.
+- **Lost Key**: If you lose your private key, you can recover your wallet.
 
-**Guardians**: Designate guardians (trusted contacts).
+- **Guardians**: Designate guardians (trusted contacts).
 
-**Recovery**: Guardians attest to identity, transfer ownership.
+- **Recovery**: Guardians attest to identity, transfer ownership.
 
-**Decentralized**: Recover without a central service.
+- **Decentralized**: Recover without a central service.
 
 Social recovery solves the key loss problem.
 
@@ -75,13 +75,13 @@ Social recovery solves the key loss problem.
 
 Challenges:
 
-**Complexity**: More complexity can lead to more bugs.
+- **Complexity**: More complexity can lead to more bugs.
 
-**Higher Costs**: Smart contract execution incurs gas costs.
+- **Higher Costs**: Smart contract execution incurs gas costs.
 
-**Interdependency**: Depends on EntryPoint contract security.
+- **Interdependency**: Depends on EntryPoint contract security.
 
-**Adoption**: Requires infrastructure support (bundlers, RPC providers).
+- **Adoption**: Requires infrastructure support (bundlers, RPC providers).
 
 Smart contract wallets add complexity and costs.
 
@@ -89,15 +89,15 @@ Smart contract wallets add complexity and costs.
 
 Advanced security:
 
-**Time-Based**: Transactions execute only after a delay.
+- **Time-Based**: Transactions execute only after a delay.
 
-**Rate Limiting**: Limit withdrawal amounts per day.
+- **Rate Limiting**: Limit withdrawal amounts per day.
 
-**Whitelisting**: Only interact with whitelisted addresses.
+- **Whitelisting**: Only interact with whitelisted addresses.
 
-**Anomaly Detection**: Detect unusual activity, pause wallet.
+- **Anomaly Detection**: Detect unusual activity, pause wallet.
 
-**Key Rotation**: Rotate keys periodically.
+- **Key Rotation**: Rotate keys periodically.
 
 Programmability enables advanced security.
 
@@ -117,25 +117,25 @@ Smart contract wallets create roles:
 
 Using smart contract wallets:
 
-**Test**: Test with small amounts first.
+- **Test**: Test with small amounts first.
 
-**Understand Risks**: Understand smart contract risks.
+- **Understand Risks**: Understand smart contract risks.
 
-**Backup Keys**: Backup keys if possible.
+- **Backup Keys**: Backup keys if possible.
 
-**Recovery Setup**: Set up social recovery.
+- **Recovery Setup**: Set up social recovery.
 
 ## The Future of Smart Contract Wallets
 
 Evolution:
 
-**AA Adoption**: More account abstraction adoption enabling wallets.
+- **AA Adoption**: More account abstraction adoption enabling wallets.
 
-**Better UX**: Improving user experience.
+- **Better UX**: Improving user experience.
 
-**Advanced Features**: More programmable features.
+- **Advanced Features**: More programmable features.
 
-**Industry Standard**: Becoming an industry standard.
+- **Industry Standard**: Becoming an industry standard.
 
 ## Programmable Wallets Enable Advanced Features
 

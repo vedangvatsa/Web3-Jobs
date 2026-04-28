@@ -29,12 +29,12 @@ AMMs introduce unique challenges, such as impermanent loss and slippage, that tr
 
 The most common AMM formula is **x × y = k**:
 
-**Definition**:
+- **Definition**:
 - x = amount of token A in pool
 - y = amount of token B in pool
 - k = constant (product of x and y at any time)
 
-**Example**:
+- **Example**:
 - Uniswap ETH/USDC pool with 1000 ETH and 2,000,000 USDC
 - k = 1000 × 2,000,000 = 2,000,000,000
 
@@ -56,54 +56,54 @@ Starting state: 1000 ETH, 2,000,000 USDC
 5. User receives: 1000 - 999.95 = 0.05 ETH
 6. Price: 100 USDC ÷ 0.05 ETH = 2000 USDC/ETH (market price)
 
-**Key Insight**: As the pool becomes less balanced, prices become worse for traders, increasing slippage.
+- **Key Insight**: As the pool becomes less balanced, prices become worse for traders, increasing slippage.
 
 ### Liquidity Providers
 
-**Role**: Liquidity Providers (LPs) deposit equal values of both assets to the pool.
+- **Role**: Liquidity Providers (LPs) deposit equal values of both assets to the pool.
 
-**Process**:
+- **Process**:
 1. LP deposits 1 ETH + 2000 USDC to the pool
 2. LP receives pool tokens (LP shares) representing their portion
 3. LP earns a percentage of all trading fees (typically 0.3%-1%)
 4. LP can withdraw anytime by burning pool tokens
 
-**Risk**: If prices diverge significantly, LPs suffer **impermanent loss**; they would have been better off just holding the assets.
+- **Risk**: If prices diverge significantly, LPs suffer **impermanent loss**; they would have been better off just holding the assets.
 
 ## Types of AMMs
 
 ### Constant Product (Uniswap V2, Raydium)
 
-**Formula**: x × y = k
+- **Formula**: x × y = k
 
-**Characteristics**:
+- **Characteristics**:
 - Simple formula
 - Requires large trades to move prices significantly
 - Works well for all token pairs
 
 ### Constant Sum (Curve Finance, in a simplified form)
 
-**Formula**: x + y = k (for stablecoins)
+- **Formula**: x + y = k (for stablecoins)
 
-**Characteristics**:
+- **Characteristics**:
 - Designed for stablecoin pairs (similar valued assets)
 - Much lower slippage for similar-valued assets
 - Can become unbalanced (price at boundary = infinity)
 
 ### Constant Mean (Balancer)
 
-**Formula**: (x^w1) × (y^w2) = k (weighted product)
+- **Formula**: (x^w1) × (y^w2) = k (weighted product)
 
-**Characteristics**:
+- **Characteristics**:
 - Allows arbitrary weights between tokens (not 50/50)
 - Example: 80% USDC / 20% ETH pool
 - More complex but more flexible
 
 ### Hybrid (Curve V2, Solidly)
 
-**Formula**: Combines constant-product and constant-sum properties
+- **Formula**: Combines constant-product and constant-sum properties
 
-**Characteristics**:
+- **Characteristics**:
 - Low slippage for similar-valued assets
 - Works well across price ranges
 - More complex math, higher gas costs
@@ -121,17 +121,17 @@ Starting state: 1000 ETH, 2,000,000 USDC
 
 **Slippage** is the difference between expected price and actual execution price.
 
-**Cause**: Large trades move the price, causing the pool to become less balanced.
+- **Cause**: Large trades move the price, causing the pool to become less balanced.
 
-**Formula**: Price Impact = (Input / (Input + Pool Balance))
+- **Formula**: Price Impact = (Input / (Input + Pool Balance))
 
-**Example**:
+- **Example**:
 - Pool: 1000 USDC, 1 ETH (price = 1000 USDC/ETH)
 - Swap 100 USDC for ETH
 - Price impact = 100 / (100 + 1000) = 9.1%
 - You get worse than market price due to slippage
 
-**Implications**:
+- **Implications**:
 - Large trades result in higher slippage and worse execution.
 - Slippage increases as pools become imbalanced.
 - Slippage decreases as pool liquidity increases.
@@ -147,9 +147,9 @@ LPs earn:
 
 ### Risks
 
-**Impermanent Loss (IL)**: Most significant risk for LPs.
+- **Impermanent Loss (IL)**: Most significant risk for LPs.
 
-**How IL Works**:
+- **How IL Works**:
 1. LP deposits 1 ETH + 2000 USDC (1:2000 ratio)
 2. Price changes: 1 ETH = 4000 USDC
 3. Pool rebalances: LP now has 0.707 ETH + 2828 USDC
@@ -157,22 +157,22 @@ LPs earn:
 5. If they held: 1 × 4000 + 2000 = 6000 USDC
 6. IL = 5656 - 6000 = -344 USDC loss
 
-**Why IL Happens**: AMM requires a 50/50 balance. As price moves, the pool sells the appreciating asset and buys the depreciating one, causing the LP to have less of the winning asset.
+- **Why IL Happens**: AMM requires a 50/50 balance. As price moves, the pool sells the appreciating asset and buys the depreciating one, causing the LP to have less of the winning asset.
 
-**IL is "Impermanent"**: If price returns to the original ratio, IL disappears. It becomes permanent only if you withdraw at a higher price divergence.
+- **IL is "Impermanent"**: If price returns to the original ratio, IL disappears. It becomes permanent only if you withdraw at a higher price divergence.
 
-**IL vs Fees**: Low-volatility pairs (stablecoin pairs) have low IL but lower fees. High-volatility pairs have high IL but potentially higher fees.
+- **IL vs Fees**: Low-volatility pairs (stablecoin pairs) have low IL but lower fees. High-volatility pairs have high IL but potentially higher fees.
 
 ## Concentrated Liquidity (Uniswap V3)
 
-**Innovation**: Instead of providing liquidity across all price ranges, LPs provide within a specific range.
+- **Innovation**: Instead of providing liquidity across all price ranges, LPs provide within a specific range.
 
-**Benefits**:
+- **Benefits**:
 - Lower impermanent loss if price stays in range
 - Higher fee earnings with the same volume and less capital
 - More capital efficient
 
-**Drawbacks**:
+- **Drawbacks**:
 - More complex, requiring management of price ranges
 - Risk if price moves outside range (0% fees until price returns)
 - Requires active management
@@ -181,42 +181,42 @@ LPs earn:
 
 ### Uniswap
 
-**Features**:
+- **Features**:
 - Constant product (V2) and concentrated (V3)
 - Multi-chain deployment
 - Strong ecosystem
 
 ### Curve Finance
 
-**Specialization**: Stablecoin trading
+- **Specialization**: Stablecoin trading
 
-**Features**:
+- **Features**:
 - Constant-sum formula optimized for stablecoins
 - Extremely low slippage
 - High trading volume
 
 ### Balancer
 
-**Specialization**: Multi-token pools, index investments
+- **Specialization**: Multi-token pools, index investments
 
-**Features**:
+- **Features**:
 - Weighted pools (not just 50/50)
 - Liquidity as a Service platform
 - Self-balancing portfolios
 
 ### PancakeSwap (BSC), Raydium (Solana)
 
-**Specialization**: L2/alternative chain AMMs
+- **Specialization**: L2/alternative chain AMMs
 
-**Features**:
+- **Features**:
 - Similar to Uniswap but on different chains
 - Lower fees, lower security
 
 ### Astroport (Terra), Thruster (Blast)
 
-**Specialization**: Newer chain AMMs
+- **Specialization**: Newer chain AMMs
 
-**Features**:
+- **Features**:
 - Latest AMM innovations
 - Lower liquidity, higher risk
 
@@ -224,31 +224,31 @@ LPs earn:
 
 The AMM ecosystem offers diverse roles:
 
-**AMM Protocol Developer**: Design and implement AMM smart contracts, optimize formulas.
+- **AMM Protocol Developer**: Design and implement AMM smart contracts, optimize formulas.
 
-**Liquidity Strategy Manager**: Develop strategies for LP capital allocation across pools.
+- **Liquidity Strategy Manager**: Develop strategies for LP capital allocation across pools.
 
-**AMM Arbitrage Developer**: Build bots detecting and executing AMM arbitrage.
+- **AMM Arbitrage Developer**: Build bots detecting and executing AMM arbitrage.
 
-**Market Maker**: Provide liquidity and manage LP positions for profit.
+- **Market Maker**: Provide liquidity and manage LP positions for profit.
 
-**Research Economists**: Study AMM design tradeoffs and optimal formula development.
+- **Research Economists**: Study AMM design tradeoffs and optimal formula development.
 
 ## The Future of AMMs
 
 AMMs continue to evolve:
 
-**Hybrid Designs**: Combining multiple formulas for different asset types in single pools.
+- **Hybrid Designs**: Combining multiple formulas for different asset types in single pools.
 
-**Intent-Based**: Users specify trading intent, and solvers find optimal routing across multiple AMMs.
+- **Intent-Based**: Users specify trading intent, and solvers find optimal routing across multiple AMMs.
 
-**Privacy**: Private AMMs hiding trading information from other participants.
+- **Privacy**: Private AMMs hiding trading information from other participants.
 
-**Limit Orders**: AMMs supporting limit orders like traditional exchanges.
+- **Limit Orders**: AMMs supporting limit orders like traditional exchanges.
 
-**Better Capital Efficiency**: New designs enabling more capital efficiency with less impermanent loss.
+- **Better Capital Efficiency**: New designs enabling more capital efficiency with less impermanent loss.
 
-**Cross-Chain AMMs**: AMMs operating across multiple blockchains simultaneously.
+- **Cross-Chain AMMs**: AMMs operating across multiple blockchains simultaneously.
 
 AMMs have transformed trading, enabling significant daily volume without centralized intermediaries. As they evolve, AMMs will likely become more efficient and user-accessible.
 

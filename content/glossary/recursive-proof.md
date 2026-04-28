@@ -15,15 +15,15 @@ Recursive Proof refers to a cryptographic technique where a proof can verify the
 
 How they work:
 
-**Base Case**: Prove single computation.
+- **Base Case**: Prove single computation.
 
-**Recursive Step**: Prove that another proof is valid.
+- **Recursive Step**: Prove that another proof is valid.
 
-**Composition**: Combine multiple proofs into single proof.
+- **Composition**: Combine multiple proofs into single proof.
 
-**Compression**: Each recursion compresses proof.
+- **Compression**: Each recursion compresses proof.
 
-**Iteration**: Can recurse infinitely.
+- **Iteration**: Can recurse infinitely.
 
 Recursive proofs enable unlimited composition.
 
@@ -31,15 +31,15 @@ Recursive proofs enable unlimited composition.
 
 Concrete example:
 
-**Proof 1**: Prove transaction 1 valid. Proof size = 1KB.
+- **Proof 1**: Prove transaction 1 valid. Proof size = 1KB.
 
-**Proof 2**: Prove (Proof 1 is valid). Proof size = 100 bytes.
+- **Proof 2**: Prove (Proof 1 is valid). Proof size = 100 bytes.
 
-**Proof 3**: Prove (Proof 2 is valid). Proof size = 100 bytes.
+- **Proof 3**: Prove (Proof 2 is valid). Proof size = 100 bytes.
 
-**Result**: Prove 1000 transactions in single 100-byte proof.
+- **Result**: Prove 1000 transactions in single 100-byte proof.
 
-**Verification**: Verify 100-byte proof without verifying original proofs.
+- **Verification**: Verify 100-byte proof without verifying original proofs.
 
 Recursion enables massive proof compression.
 
@@ -47,13 +47,13 @@ Recursion enables massive proof compression.
 
 Use cases:
 
-**ZK Rollups**: Rollups use recursion to batch transactions.
+- **ZK Rollups**: Rollups use recursion to batch transactions.
 
-**Cross-Chain**: Recursive proofs for cross-chain verification.
+- **Cross-Chain**: Recursive proofs for cross-chain verification.
 
-**Light Clients**: Recursive proofs enable light clients.
+- **Light Clients**: Recursive proofs enable light clients.
 
-**Privacy**: Recursive proofs enhance privacy.
+- **Privacy**: Recursive proofs enhance privacy.
 
 Recursion is important for scaling.
 
@@ -61,15 +61,15 @@ Recursion is important for scaling.
 
 Obstacles:
 
-**Complexity**: Recursive proofs are complex to implement.
+- **Complexity**: Recursive proofs are complex to implement.
 
-**Proving Time**: Proving recursive proofs can be slow.
+- **Proving Time**: Proving recursive proofs can be slow.
 
-**Verification Contracts**: On-chain verifiers are complex.
+- **Verification Contracts**: On-chain verifiers are complex.
 
-**Error Handling**: Recursive errors are hard to debug.
+- **Error Handling**: Recursive errors are hard to debug.
 
-**Nesting Depth**: Deep recursion is challenging.
+- **Nesting Depth**: Deep recursion is challenging.
 
 Recursive proofs have implementation challenges.
 
@@ -77,13 +77,13 @@ Recursive proofs have implementation challenges.
 
 Real example:
 
-**Cairo Language**: Turing-complete language for STARK computation.
+- **Cairo Language**: Turing-complete language for STARK computation.
 
-**Recursive STARKs**: STARKs proving other STARK validity.
+- **Recursive STARKs**: STARKs proving other STARK validity.
 
-**StarkNet**: Uses recursive proofs for scaling.
+- **StarkNet**: Uses recursive proofs for scaling.
 
-**Efficiency**: Recursion enables efficient rollups.
+- **Efficiency**: Recursion enables efficient rollups.
 
 StarkWare demonstrates recursive proof practicality.
 
@@ -91,13 +91,13 @@ StarkWare demonstrates recursive proof practicality.
 
 Recursion support:
 
-**STARKs**: Native recursion support.
+- **STARKs**: Native recursion support.
 
-**SNARKs**: Limited recursion due to trusted setup overhead.
+- **SNARKs**: Limited recursion due to trusted setup overhead.
 
-**Bulletproofs**: Some recursion support.
+- **Bulletproofs**: Some recursion support.
 
-**Halo**: Recursive proof system.
+- **Halo**: Recursive proof system.
 
 Different systems have different recursion support.
 
@@ -117,25 +117,25 @@ Recursive proofs create roles:
 
 Using recursive proofs:
 
-**Understand Tradeoffs**: Recursion has tradeoffs versus direct proofs.
+- **Understand Tradeoffs**: Recursion has tradeoffs versus direct proofs.
 
-**Test Edge Cases**: Test all recursion depths.
+- **Test Edge Cases**: Test all recursion depths.
 
-**Verify Implementation**: Verify correctness of recursive verifier.
+- **Verify Implementation**: Verify correctness of recursive verifier.
 
-**Monitor Performance**: Monitor proving and verification time.
+- **Monitor Performance**: Monitor proving and verification time.
 
 ## The Future of Recursive Proofs
 
 Evolution:
 
-**Faster Recursion**: Improving recursion performance.
+- **Faster Recursion**: Improving recursion performance.
 
-**Simpler Implementation**: Making recursion easier to implement.
+- **Simpler Implementation**: Making recursion easier to implement.
 
-**Cross-Chain Recursion**: Recursion across chains.
+- **Cross-Chain Recursion**: Recursion across chains.
 
-**Standard Libraries**: Libraries for recursive proofs.
+- **Standard Libraries**: Libraries for recursive proofs.
 
 ## Compress Proofs Infinitely
 

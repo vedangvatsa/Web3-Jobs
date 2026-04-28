@@ -15,17 +15,17 @@ Consensus layer refers to the protocol and mechanism by which blockchain network
 
 Different approaches:
 
-**Proof-of-Work**: Miners compete solving puzzles. The winner appends the block. Security comes from computational cost. Bitcoin and Dogecoin use PoW.
+- **Proof-of-Work**: Miners compete solving puzzles. The winner appends the block. Security comes from computational cost. Bitcoin and Dogecoin use PoW.
 
-**Proof-of-Stake**: Validators stake tokens and are randomly selected to propose blocks. They are slashed if they misbehave. Security comes from economic penalties. Ethereum 2.0, Polygon, and Cosmos use PoS.
+- **Proof-of-Stake**: Validators stake tokens and are randomly selected to propose blocks. They are slashed if they misbehave. Security comes from economic penalties. Ethereum 2.0, Polygon, and Cosmos use PoS.
 
-**Delegated Proof-of-Stake**: Token holders delegate to validators. Validators earn rewards split with delegators. EOS and a variant of Cosmos use this approach.
+- **Delegated Proof-of-Stake**: Token holders delegate to validators. Validators earn rewards split with delegators. EOS and a variant of Cosmos use this approach.
 
-**Proof-of-Authority**: Trusted validators produce blocks. This method is centralized but efficient and is used in testnets and private chains.
+- **Proof-of-Authority**: Trusted validators produce blocks. This method is centralized but efficient and is used in testnets and private chains.
 
-**Proof-of-History**: This method sequences transactions with verifiable timestamps, as seen in Solana.
+- **Proof-of-History**: This method sequences transactions with verifiable timestamps, as seen in Solana.
 
-**Proof-of-Burn**: This approach involves burning tokens to prove participation. It is less common and serves as an alternative to PoW and PoS.
+- **Proof-of-Burn**: This approach involves burning tokens to prove participation. It is less common and serves as an alternative to PoW and PoS.
 
 Different mechanisms have different properties.
 
@@ -33,17 +33,17 @@ Different mechanisms have different properties.
 
 What makes consensus secure:
 
-**Attack Cost**: Consensus must be expensive to attack. PoW incurs costs for hardware and electricity. PoS incurs costs based on staked capital.
+- **Attack Cost**: Consensus must be expensive to attack. PoW incurs costs for hardware and electricity. PoS incurs costs based on staked capital.
 
-**Recovery**: If attacked, the protocol can recover through reorganization. Consensus must prevent permanent damage.
+- **Recovery**: If attacked, the protocol can recover through reorganization. Consensus must prevent permanent damage.
 
-**Incentive Alignment**: Validators are incentivized to be honest through rewards and discouraged from dishonesty through slashing.
+- **Incentive Alignment**: Validators are incentivized to be honest through rewards and discouraged from dishonesty through slashing.
 
-**Validator Decentralization**: A large number of validators is required. A single validator creates a single point of failure.
+- **Validator Decentralization**: A large number of validators is required. A single validator creates a single point of failure.
 
-**Cryptographic Security**: Signatures and hashing prevent forgery.
+- **Cryptographic Security**: Signatures and hashing prevent forgery.
 
-**Economic Security**: Staking and slashing create economic deterrents against attacks.
+- **Economic Security**: Staking and slashing create economic deterrents against attacks.
 
 Security requires multiple layers.
 
@@ -51,13 +51,13 @@ Security requires multiple layers.
 
 Different consensus models:
 
-**Layer 1**: Full consensus occurs on the main chain. Every transaction requires consensus. Examples include Ethereum and Bitcoin.
+- **Layer 1**: Full consensus occurs on the main chain. Every transaction requires consensus. Examples include Ethereum and Bitcoin.
 
-**Layer 2**: Consensus is only for final settlement. Off-chain transactions use a different security model.
+- **Layer 2**: Consensus is only for final settlement. Off-chain transactions use a different security model.
 
-**Rollups**: These compress transactions and post proofs to Layer 1. Layer 1 consensus validates the proofs.
+- **Rollups**: These compress transactions and post proofs to Layer 1. Layer 1 consensus validates the proofs.
 
-**State Channels**: These allow off-chain consensus between parties, with Layer 1 consensus only for disputes.
+- **State Channels**: These allow off-chain consensus between parties, with Layer 1 consensus only for disputes.
 
 Different layers have different consensus models.
 
@@ -65,13 +65,13 @@ Different layers have different consensus models.
 
 Fundamental tradeoffs:
 
-**Security vs Speed**: More validators lead to increased security but slower transaction times. Bitcoin has approximately 10-minute blocks, while Solana has around 0.4-second blocks.
+- **Security vs Speed**: More validators lead to increased security but slower transaction times. Bitcoin has approximately 10-minute blocks, while Solana has around 0.4-second blocks.
 
-**Decentralization vs Efficiency**: More validators result in greater decentralization but make coordination harder. Fewer validators allow for faster processing but reduce decentralization.
+- **Decentralization vs Efficiency**: More validators result in greater decentralization but make coordination harder. Fewer validators allow for faster processing but reduce decentralization.
 
-**Cost vs Security**: High security requires high validator costs. Lower costs can lead to lower security.
+- **Cost vs Security**: High security requires high validator costs. Lower costs can lead to lower security.
 
-**Finality vs Throughput**: Fast finality limits throughput, while slower finality enables more throughput.
+- **Finality vs Throughput**: Fast finality limits throughput, while slower finality enables more throughput.
 
 No perfect consensus exists, only tradeoffs.
 
@@ -79,15 +79,15 @@ No perfect consensus exists, only tradeoffs.
 
 Possible attacks:
 
-**51% Attack**: An attacker with 51% of the stake or hash power can reorganize the chain and censor transactions.
+- **51% Attack**: An attacker with 51% of the stake or hash power can reorganize the chain and censor transactions.
 
-**Sybil Attack**: This involves creating many fake identities to control consensus. PoW resists this due to cost, while PoS can be vulnerable without identity systems.
+- **Sybil Attack**: This involves creating many fake identities to control consensus. PoW resists this due to cost, while PoS can be vulnerable without identity systems.
 
-**Grinding Attack**: This targets the randomness in validator selection.
+- **Grinding Attack**: This targets the randomness in validator selection.
 
-**Finality Attacks**: Validators may attack finality guarantees, although slashing should prevent this.
+- **Finality Attacks**: Validators may attack finality guarantees, although slashing should prevent this.
 
-**Distributed Denial of Service**: This involves flooding the network to prevent consensus.
+- **Distributed Denial of Service**: This involves flooding the network to prevent consensus.
 
 Consensus security is an ongoing challenge.
 
@@ -111,27 +111,27 @@ Consensus creates roles:
 
 Using consensus:
 
-**Understand Mechanism**: Know your blockchain's consensus mechanism.
+- **Understand Mechanism**: Know your blockchain's consensus mechanism.
 
-**Wait for Finality**: For high-value transactions, wait for finality.
+- **Wait for Finality**: For high-value transactions, wait for finality.
 
-**Monitor Health**: Track validator count and distribution.
+- **Monitor Health**: Track validator count and distribution.
 
-**Diversity**: Use multiple chains rather than a single chain.
+- **Diversity**: Use multiple chains rather than a single chain.
 
 ## The Future of Consensus
 
 Consensus evolution may include:
 
-**Hybrid Models**: Combining PoW and PoS.
+- **Hybrid Models**: Combining PoW and PoS.
 
-**Threshold Encryption**: Encrypted consensus preventing miner extractable value.
+- **Threshold Encryption**: Encrypted consensus preventing miner extractable value.
 
-**Quantum Resistance**: Post-quantum consensus mechanisms.
+- **Quantum Resistance**: Post-quantum consensus mechanisms.
 
-**Faster Finality**: Sub-second finality may become standard.
+- **Faster Finality**: Sub-second finality may become standard.
 
-**Sustainable Consensus**: Lower energy consumption is expected with PoS over PoW.
+- **Sustainable Consensus**: Lower energy consumption is expected with PoS over PoW.
 
 ## Agree on Truth Through Consensus
 

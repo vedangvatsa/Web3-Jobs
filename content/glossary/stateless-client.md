@@ -15,13 +15,13 @@ Stateless Client refers to a blockchain node implementation that can verify bloc
 
 Mechanics:
 
-**Witnesses**: Block proposers include cryptographic proofs (witnesses) with blocks.
+- **Witnesses**: Block proposers include cryptographic proofs (witnesses) with blocks.
 
-**Verification**: Clients verify witnesses without accessing full state.
+- **Verification**: Clients verify witnesses without accessing full state.
 
-**State-Root**: Clients track only state root hash.
+- **State-Root**: Clients track only state root hash.
 
-**Minimal Storage**: No need to store gigabytes of state data.
+- **Minimal Storage**: No need to store gigabytes of state data.
 
 Stateless clients verify state without storing it.
 
@@ -29,13 +29,13 @@ Stateless clients verify state without storing it.
 
 Advantages:
 
-**Lower Hardware**: Reduces storage from hundreds of GB to MB.
+- **Lower Hardware**: Reduces storage from hundreds of GB to MB.
 
-**Decentralization**: More nodes can participate.
+- **Decentralization**: More nodes can participate.
 
-**Fast Sync**: New nodes sync instantly (no state download).
+- **Fast Sync**: New nodes sync instantly (no state download).
 
-**Scalability**: Reduces long-term storage burden.
+- **Scalability**: Reduces long-term storage burden.
 
 Stateless clients improve accessibility.
 
@@ -43,11 +43,11 @@ Stateless clients improve accessibility.
 
 Enabling technology:
 
-**Smaller Proofs**: Verkle trees produce smaller witnesses than Merkle trees.
+- **Smaller Proofs**: Verkle trees produce smaller witnesses than Merkle trees.
 
-**Efficiency**: Witnesses remain practical even as state grows.
+- **Efficiency**: Witnesses remain practical even as state grows.
 
-**Ethereum Roadmap**: Verkle trees planned for Ethereum.
+- **Ethereum Roadmap**: Verkle trees planned for Ethereum.
 
 Verkle trees make stateless clients feasible.
 
@@ -55,13 +55,13 @@ Verkle trees make stateless clients feasible.
 
 Challenges:
 
-**Witness Size**: Witnesses add data overhead to blocks.
+- **Witness Size**: Witnesses add data overhead to blocks.
 
-**Complexity**: More complex than traditional clients.
+- **Complexity**: More complex than traditional clients.
 
-**Backward Compatibility**: Requires state tree migration.
+- **Backward Compatibility**: Requires state tree migration.
 
-**Proposer Burden**: Block proposers must generate witnesses.
+- **Proposer Burden**: Block proposers must generate witnesses.
 
 Stateless clients add complexity.
 
@@ -69,11 +69,11 @@ Stateless clients add complexity.
 
 Roadmap:
 
-**Verkle Tree Transition**: Migrate from Merkle-Patricia to Verkle trees.
+- **Verkle Tree Transition**: Migrate from Merkle-Patricia to Verkle trees.
 
-**Witness Generation**: Validators generate witnesses for blocks.
+- **Witness Generation**: Validators generate witnesses for blocks.
 
-**Client Diversity**: Multiple stateless client implementations.
+- **Client Diversity**: Multiple stateless client implementations.
 
 Stateless clients are a long-term goal.
 
@@ -91,21 +91,21 @@ Stateless client roles:
 
 Preparing for stateless:
 
-**Follow Roadmap**: Track Ethereum stateless roadmap.
+- **Follow Roadmap**: Track Ethereum stateless roadmap.
 
-**Test Verkle**: Experiment with Verkle tree clients.
+- **Test Verkle**: Experiment with Verkle tree clients.
 
-**Optimize Witnesses**: Design protocols minimizing witness size.
+- **Optimize Witnesses**: Design protocols minimizing witness size.
 
 ## The Future of Stateless Clients
 
 Trends:
 
-**Production Deployment**: Stateless clients on mainnet.
+- **Production Deployment**: Stateless clients on mainnet.
 
-**Cross-Chain Adoption**: Other chains adopting stateless designs.
+- **Cross-Chain Adoption**: Other chains adopting stateless designs.
 
-**Better Compression**: More efficient witness schemes.
+- **Better Compression**: More efficient witness schemes.
 
 ## Verify Without Full State
 

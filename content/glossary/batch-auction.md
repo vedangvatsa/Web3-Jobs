@@ -15,15 +15,15 @@ Batch Auction refers to a trading mechanism that collects orders over a defined 
 
 How they work:
 
-**Collection Phase**: Accumulate orders from users over a time period (e.g., 6 minutes).
+- **Collection Phase**: Accumulate orders from users over a time period (e.g., 6 minutes).
 
-**Optimization**: Solve for clearing price maximizing volume or use specific rules determining price.
+- **Optimization**: Solve for clearing price maximizing volume or use specific rules determining price.
 
-**Matching**: Match buy and sell orders at clearing price.
+- **Matching**: Match buy and sell orders at clearing price.
 
-**Settlement**: Execute all trades simultaneously.
+- **Settlement**: Execute all trades simultaneously.
 
-**Fairness**: All traders get the same price. No front-running possible.
+- **Fairness**: All traders get the same price. No front-running possible.
 
 Batching creates fairness by eliminating ordering advantages.
 
@@ -47,17 +47,17 @@ Different mechanisms have different properties.
 
 Real implementation:
 
-**Coincidence of Wants**: Solve for maximum matching between buy and sell orders.
+- **Coincidence of Wants**: Solve for maximum matching between buy and sell orders.
 
-**Surplus Maximization**: Optimize to maximize trader surplus.
+- **Surplus Maximization**: Optimize to maximize trader surplus.
 
-**AMM Interaction**: Use AMMs for unmatched orders.
+- **AMM Interaction**: Use AMMs for unmatched orders.
 
-**Solver Competition**: Multiple solvers compete to find best execution.
+- **Solver Competition**: Multiple solvers compete to find best execution.
 
-**Off-Chain Solving**: Solving happens off-chain, only settlement on-chain.
+- **Off-Chain Solving**: Solving happens off-chain, only settlement on-chain.
 
-**Gas Efficiency**: Batching reduces per-transaction gas costs.
+- **Gas Efficiency**: Batching reduces per-transaction gas costs.
 
 CoW Protocol demonstrates practical batch auction implementation.
 
@@ -65,15 +65,15 @@ CoW Protocol demonstrates practical batch auction implementation.
 
 Emerging variant:
 
-**Batching Frequency**: Execute auctions every few seconds rather than minutes.
+- **Batching Frequency**: Execute auctions every few seconds rather than minutes.
 
-**Tradeoff**: Faster than traditional batch auctions, slower than continuous order books.
+- **Tradeoff**: Faster than traditional batch auctions, slower than continuous order books.
 
-**Front-Running Resistant**: Still resistant to front-running if batch period exceeds transaction latency.
+- **Front-Running Resistant**: Still resistant to front-running if batch period exceeds transaction latency.
 
-**Price Discovery**: Near-continuous price discovery while maintaining fairness.
+- **Price Discovery**: Near-continuous price discovery while maintaining fairness.
 
-**Research**: Active research area includes frequent batch auctions.
+- **Research**: Active research area includes frequent batch auctions.
 
 Frequency optimizes latency versus fairness.
 
@@ -81,15 +81,15 @@ Frequency optimizes latency versus fairness.
 
 Use cases:
 
-**MEV Mitigation**: Primary benefit is eliminating MEV extraction.
+- **MEV Mitigation**: Primary benefit is eliminating MEV extraction.
 
-**Fair Pricing**: IPOs and corporate actions often use batch auctions.
+- **Fair Pricing**: IPOs and corporate actions often use batch auctions.
 
-**Privacy**: Combined with encryption, enable private orders.
+- **Privacy**: Combined with encryption, enable private orders.
 
-**Settlement**: Batch auctions for atomic settlement across multiple orders.
+- **Settlement**: Batch auctions for atomic settlement across multiple orders.
 
-**Layer 2 Scaling**: Batch auctions on L2 enabling fair, cost-effective trading.
+- **Layer 2 Scaling**: Batch auctions on L2 enabling fair, cost-effective trading.
 
 Batch auctions are suitable for many applications.
 
@@ -111,25 +111,25 @@ Batch auctions create roles:
 
 Using batch auctions:
 
-**Understand Batching**: Accept latency of batch period versus continuous order books.
+- **Understand Batching**: Accept latency of batch period versus continuous order books.
 
-**Order Placement**: Submit orders before batch closes.
+- **Order Placement**: Submit orders before batch closes.
 
-**Price Slippage**: Understand price might differ from submission.
+- **Price Slippage**: Understand price might differ from submission.
 
-**Solver Trust**: Understand how solvers are selected and compensated.
+- **Solver Trust**: Understand how solvers are selected and compensated.
 
 ## The Future of Batch Auctions
 
 Evolution:
 
-**Encryption**: Confidential order submission preventing information leakage.
+- **Encryption**: Confidential order submission preventing information leakage.
 
-**Cross-Chain**: Batch auctions coordinating across chains.
+- **Cross-Chain**: Batch auctions coordinating across chains.
 
-**Intent Architecture**: Shift toward intent-based execution.
+- **Intent Architecture**: Shift toward intent-based execution.
 
-**Solver Competition**: More sophisticated solver competition.
+- **Solver Competition**: More sophisticated solver competition.
 
 ## Fair Price Discovery Through Batching
 

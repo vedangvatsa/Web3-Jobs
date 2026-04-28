@@ -15,15 +15,15 @@ STARK refers to Scalable Transparent Arguments of Knowledge, a type of zero-know
 
 Key benefits:
 
-**No Trusted Setup**: No ceremony needed. Transparent parameter generation reduces security assumptions.
+- **No Trusted Setup**: No ceremony needed. Transparent parameter generation reduces security assumptions.
 
-**Quantum Resistant**: Uses only hash functions, resistant to quantum attacks.
+- **Quantum Resistant**: Uses only hash functions, resistant to quantum attacks.
 
-**Scalability**: Can prove large computations efficiently through recursive proofs.
+- **Scalability**: Can prove large computations efficiently through recursive proofs.
 
-**Transparency**: Parameters public and verifiable. No secret ceremony needed.
+- **Transparency**: Parameters public and verifiable. No secret ceremony needed.
 
-**Post-Quantum Security**: Future-proof against quantum computers.
+- **Post-Quantum Security**: Future-proof against quantum computers.
 
 STARKs address SNARK limitations.
 
@@ -31,15 +31,15 @@ STARKs address SNARK limitations.
 
 How they work:
 
-**FRI Protocol**: Fast Reed-Solomon Interactive Oracle Proofs. Key STARK technology.
+- **FRI Protocol**: Fast Reed-Solomon Interactive Oracle Proofs. Key STARK technology.
 
-**Polynomial Encoding**: Encode computation as polynomial using Reed-Solomon codes.
+- **Polynomial Encoding**: Encode computation as polynomial using Reed-Solomon codes.
 
-**Interactive Proofs**: Prover and verifier execute interaction with Merkle tree commitments.
+- **Interactive Proofs**: Prover and verifier execute interaction with Merkle tree commitments.
 
-**Fiat-Shamir**: Convert interactive proof to non-interactive.
+- **Fiat-Shamir**: Convert interactive proof to non-interactive.
 
-**Recursion**: STARKs can prove other STARK proofs.
+- **Recursion**: STARKs can prove other STARK proofs.
 
 Complexity but powerful.
 
@@ -47,17 +47,17 @@ Complexity but powerful.
 
 Real STARK deployment:
 
-**Cairo Language**: Turing-complete language for computing STARKs. Enables general computation.
+- **Cairo Language**: Turing-complete language for computing STARKs. Enables general computation.
 
-**StarkNet Chain**: ZK rollup on Ethereum using STARKs for scaling.
+- **StarkNet Chain**: ZK rollup on Ethereum using STARKs for scaling.
 
-**Provability**: All StarkNet transactions cryptographically proven correct.
+- **Provability**: All StarkNet transactions cryptographically proven correct.
 
-**Throughput**: High transactions per second with security inherited from Ethereum.
+- **Throughput**: High transactions per second with security inherited from Ethereum.
 
-**Privacy**: STARKs enable private computation without revealing execution.
+- **Privacy**: STARKs enable private computation without revealing execution.
 
-**Ecosystem**: Growing DeFi and application ecosystem on StarkNet.
+- **Ecosystem**: Growing DeFi and application ecosystem on StarkNet.
 
 StarkWare demonstrates STARK practicality.
 
@@ -80,15 +80,15 @@ Different models have different tradeoffs.
 
 Building with STARKs:
 
-**Cairo Programs**: Write programs in Cairo for STARK proving.
+- **Cairo Programs**: Write programs in Cairo for STARK proving.
 
-**Compilation**: Compile to arithmetic circuits executable by STARK prover.
+- **Compilation**: Compile to arithmetic circuits executable by STARK prover.
 
-**Proving**: Generate STARKs proving computation.
+- **Proving**: Generate STARKs proving computation.
 
-**Verification**: Verify proofs on-chain efficiently.
+- **Verification**: Verify proofs on-chain efficiently.
 
-**Debugging**: Proving bugs challenging. Limited debugging tools.
+- **Debugging**: Proving bugs challenging. Limited debugging tools.
 
 STARK development is an emerging field with growing tooling.
 
@@ -112,29 +112,29 @@ STARKs create roles:
 
 Using STARKs:
 
-**Understand Tradeoffs**: STARKs have larger proofs but no setup. Different from SNARKs.
+- **Understand Tradeoffs**: STARKs have larger proofs but no setup. Different from SNARKs.
 
-**Proof Verification Costs**: On-chain verification has gas costs. Design circuits efficiently.
+- **Proof Verification Costs**: On-chain verification has gas costs. Design circuits efficiently.
 
-**Recursive Proofs**: Combine STARKs recursively for efficiency.
+- **Recursive Proofs**: Combine STARKs recursively for efficiency.
 
-**Cairo Knowledge**: Learn Cairo for writing provable programs.
+- **Cairo Knowledge**: Learn Cairo for writing provable programs.
 
-**Community**: Engage with StarkWare community for support.
+- **Community**: Engage with StarkWare community for support.
 
 ## The Future of STARKs
 
 STARK evolution:
 
-**Efficiency Improvements**: Reducing proof sizes and verification costs.
+- **Efficiency Improvements**: Reducing proof sizes and verification costs.
 
-**Recursive Composition**: Better recursion enabling infinite proofs.
+- **Recursive Composition**: Better recursion enabling infinite proofs.
 
-**Cross-Chain**: STARKs for cross-chain proving and interoperability.
+- **Cross-Chain**: STARKs for cross-chain proving and interoperability.
 
-**Real World**: STARKs for real-world computation verification.
+- **Real World**: STARKs for real-world computation verification.
 
-**Standardization**: Industry adoption of STARK standards.
+- **Standardization**: Industry adoption of STARK standards.
 
 ## Prove Transparently at Scale
 

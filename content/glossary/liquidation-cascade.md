@@ -15,21 +15,21 @@ Liquidation Cascade refers to a chain reaction in decentralized finance where th
 
 How cascades happen:
 
-**1. Initial Trigger**: Price drops sharply. Example: ETH drops significantly.
+- **1. Initial Trigger**: Price drops sharply. Example: ETH drops significantly.
 
-**2. Liquidation Threshold**: Many positions hit liquidation threshold. Health factors drop below 1.
+- **2. Liquidation Threshold**: Many positions hit liquidation threshold. Health factors drop below 1.
 
-**3. Liquidators React**: Liquidators repay debt, claim collateral at a discount.
+- **3. Liquidators React**: Liquidators repay debt, claim collateral at a discount.
 
-**4. Asset Sales**: Liquidators sell claimed collateral for profit.
+- **4. Asset Sales**: Liquidators sell claimed collateral for profit.
 
-**5. Price Pressure**: Large asset sales push prices lower.
+- **5. Price Pressure**: Large asset sales push prices lower.
 
-**6. More Liquidations**: Price drops trigger more liquidations as health factors drop.
+- **6. More Liquidations**: Price drops trigger more liquidations as health factors drop.
 
-**7. Cascade**: Chain reaction of liquidations feeding on each other.
+- **7. Cascade**: Chain reaction of liquidations feeding on each other.
 
-**8. Bad Debt**: If liquidation incentives are insufficient, cascades leave bad debt.
+- **8. Bad Debt**: If liquidation incentives are insufficient, cascades leave bad debt.
 
 Cascades are self-reinforcing negative feedback loops.
 
@@ -37,17 +37,17 @@ Cascades are self-reinforcing negative feedback loops.
 
 Historical cascade:
 
-**Trigger**: March 12, 2020. ETH dropped significantly in hours.
+- **Trigger**: March 12, 2020. ETH dropped significantly in hours.
 
-**Liquidation Spike**: Maker and Aave liquidation volumes increased.
+- **Liquidation Spike**: Maker and Aave liquidation volumes increased.
 
-**Bad Debt**: Maker accumulated bad debt. Aave experienced significant total cascades.
+- **Bad Debt**: Maker accumulated bad debt. Aave experienced significant total cascades.
 
-**Market Dysfunction**: Liquidators were unable to sell collateral profitably due to price pressure.
+- **Market Dysfunction**: Liquidators were unable to sell collateral profitably due to price pressure.
 
-**System Stability**: Stablecoins depegged, creating additional stress.
+- **System Stability**: Stablecoins depegged, creating additional stress.
 
-**Recovery**: Took weeks for markets to stabilize.
+- **Recovery**: Took weeks for markets to stabilize.
 
 Black Thursday demonstrated cascade severity.
 
@@ -55,17 +55,17 @@ Black Thursday demonstrated cascade severity.
 
 Systemic risk:
 
-**Interconnectedness**: Protocols are interconnected through collateral cross-acceptance.
+- **Interconnectedness**: Protocols are interconnected through collateral cross-acceptance.
 
-**Shared Collateral**: If many protocols accept the same collateral, a single asset price drop affects all.
+- **Shared Collateral**: If many protocols accept the same collateral, a single asset price drop affects all.
 
-**Liquidation Amplification**: Liquidations in one protocol can cascade to others.
+- **Liquidation Amplification**: Liquidations in one protocol can cascade to others.
 
-**Liquidity Drain**: Liquidations can drain shared liquidity providers.
+- **Liquidity Drain**: Liquidations can drain shared liquidity providers.
 
-**Governance Attacks**: Liquidations can manipulate governance token prices, affecting governance.
+- **Governance Attacks**: Liquidations can manipulate governance token prices, affecting governance.
 
-**Token Concentration**: If a protocol token is used across protocols, liquidations can cascade through the ecosystem.
+- **Token Concentration**: If a protocol token is used across protocols, liquidations can cascade through the ecosystem.
 
 Systemic risk arises from interconnectedness.
 
@@ -73,19 +73,19 @@ Systemic risk arises from interconnectedness.
 
 Mitigation strategies:
 
-**Liquidation Incentives**: Ensure liquidation incentives are sufficient to prevent cascades. Some protocols use dynamic incentives.
+- **Liquidation Incentives**: Ensure liquidation incentives are sufficient to prevent cascades. Some protocols use dynamic incentives.
 
-**Circuit Breakers**: Pause liquidations during extreme volatility to give protocols time to respond.
+- **Circuit Breakers**: Pause liquidations during extreme volatility to give protocols time to respond.
 
-**Backstop Funds**: Treasury funds available to cover bad debt, preventing cascades.
+- **Backstop Funds**: Treasury funds available to cover bad debt, preventing cascades.
 
-**Collateral Restrictions**: Restrict risky collateral. Isolated markets reduce contagion.
+- **Collateral Restrictions**: Restrict risky collateral. Isolated markets reduce contagion.
 
-**Reserve Factors**: Accumulate reserves from fees to absorb losses.
+- **Reserve Factors**: Accumulate reserves from fees to absorb losses.
 
-**Dynamic Parameters**: Adjust liquidation thresholds and incentives dynamically.
+- **Dynamic Parameters**: Adjust liquidation thresholds and incentives dynamically.
 
-**Price Oracles**: Better oracle designs can prevent price manipulation.
+- **Price Oracles**: Better oracle designs can prevent price manipulation.
 
 Multi-layered defense improves cascade resistance.
 
@@ -93,17 +93,17 @@ Multi-layered defense improves cascade resistance.
 
 Building safer protocols:
 
-**Conservative Thresholds**: Set liquidation thresholds conservatively. Margin for error is important.
+- **Conservative Thresholds**: Set liquidation thresholds conservatively. Margin for error is important.
 
-**Multiple Collateral**: Accept diverse collateral to reduce single-asset liquidation risk.
+- **Multiple Collateral**: Accept diverse collateral to reduce single-asset liquidation risk.
 
-**Isolated Markets**: Create isolated markets for risky collateral to prevent risk spread.
+- **Isolated Markets**: Create isolated markets for risky collateral to prevent risk spread.
 
-**Governance Safeguards**: Governance cannot suddenly change parameters that cause cascades.
+- **Governance Safeguards**: Governance cannot suddenly change parameters that cause cascades.
 
-**Monitor Health**: Continuously monitor systemic health metrics.
+- **Monitor Health**: Continuously monitor systemic health metrics.
 
-**Clear Recovery Plan**: Know how the protocol responds to cascades.
+- **Clear Recovery Plan**: Know how the protocol responds to cascades.
 
 Careful design significantly reduces cascade risk.
 
@@ -125,29 +125,29 @@ Risk management creates roles:
 
 Risk management:
 
-**Monitor Liquidations**: Track liquidation volumes and prices.
+- **Monitor Liquidations**: Track liquidation volumes and prices.
 
-**Diversify**: Avoid concentrating collateral in a single protocol.
+- **Diversify**: Avoid concentrating collateral in a single protocol.
 
-**Conservative Thresholds**: Maintain health factor above 1.5 to avoid liquidation.
+- **Conservative Thresholds**: Maintain health factor above 1.5 to avoid liquidation.
 
-**Understand Contagion**: Know which protocols are interconnected with your positions.
+- **Understand Contagion**: Know which protocols are interconnected with your positions.
 
-**Risk Limits**: Limit exposure to risky assets and protocols.
+- **Risk Limits**: Limit exposure to risky assets and protocols.
 
 ## The Future of Cascade Prevention
 
 Evolution:
 
-**Better Oracles**: More reliable oracles can prevent manipulation.
+- **Better Oracles**: More reliable oracles can prevent manipulation.
 
-**Isolated Markets**: More protocols are moving to isolated markets.
+- **Isolated Markets**: More protocols are moving to isolated markets.
 
-**Circuit Breakers**: More sophisticated pause mechanisms are being developed.
+- **Circuit Breakers**: More sophisticated pause mechanisms are being developed.
 
-**Insurance**: More insurance options against liquidation cascades are emerging.
+- **Insurance**: More insurance options against liquidation cascades are emerging.
 
-**Cross-Protocol Coordination**: Better coordination can prevent system-wide cascades.
+- **Cross-Protocol Coordination**: Better coordination can prevent system-wide cascades.
 
 ## Prevent Liquidation Spirals
 

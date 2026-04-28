@@ -15,17 +15,17 @@ Conditional Order refers to a trading instruction that executes automatically on
 
 Different conditions:
 
-**Price Triggers**: Execute when price reaches a level. Stop-loss (below price), stop-gain (above price).
+- **Price Triggers**: Execute when price reaches a level. Stop-loss (below price), stop-gain (above price).
 
-**Time Triggers**: Execute at a specific time or after a delay.
+- **Time Triggers**: Execute at a specific time or after a delay.
 
-**Technical Indicators**: Execute when an indicator (RSI, MACD) reaches a level.
+- **Technical Indicators**: Execute when an indicator (RSI, MACD) reaches a level.
 
-**Oracle Triggers**: Execute when an oracle reports a condition.
+- **Oracle Triggers**: Execute when an oracle reports a condition.
 
-**Composite Conditions**: Combine multiple conditions with AND/OR logic.
+- **Composite Conditions**: Combine multiple conditions with AND/OR logic.
 
-**Account Balance**: Execute when balance reaches a threshold.
+- **Account Balance**: Execute when balance reaches a threshold.
 
 Conditional orders enable flexible automation.
 
@@ -33,13 +33,13 @@ Conditional orders enable flexible automation.
 
 How protocols enable:
 
-**Smart Contract Orders**: User-submitted smart contracts that execute on conditions.
+- **Smart Contract Orders**: User-submitted smart contracts that execute on conditions.
 
-**Keeper Networks**: Keepers monitor conditions and execute orders when triggered (ChainLink Automation, Gelato).
+- **Keeper Networks**: Keepers monitor conditions and execute orders when triggered (ChainLink Automation, Gelato).
 
-**Intent System**: Users specify intent, solvers execute when conditions are met.
+- **Intent System**: Users specify intent, solvers execute when conditions are met.
 
-**DEX Native**: Native conditional orders in DEX smart contracts.
+- **DEX Native**: Native conditional orders in DEX smart contracts.
 
 Different implementations have different UX and costs.
 
@@ -47,15 +47,15 @@ Different implementations have different UX and costs.
 
 Real use cases:
 
-**Stop Loss**: "If ETH drops below $1500, sell all ETH". Protects against losses.
+- **Stop Loss**: "If ETH drops below $1500, sell all ETH". Protects against losses.
 
-**Take Profit**: "If ETH rises above $2500, sell 50% of ETH". Lock in gains.
+- **Take Profit**: "If ETH rises above $2500, sell 50% of ETH". Lock in gains.
 
-**Rebalancing**: "If portfolio weight of BTC drops below 40%, buy BTC to rebalance".
+- **Rebalancing**: "If portfolio weight of BTC drops below 40%, buy BTC to rebalance".
 
-**Dollar Cost Averaging**: "Buy 100 USDC of ETH every week".
+- **Dollar Cost Averaging**: "Buy 100 USDC of ETH every week".
 
-**Arbitrage**: "If ETH/USDC price on DEX-A > price on DEX-B by 2%, buy DEX-B, sell DEX-A".
+- **Arbitrage**: "If ETH/USDC price on DEX-A > price on DEX-B by 2%, buy DEX-B, sell DEX-A".
 
 Conditional orders enable many strategies.
 
@@ -63,15 +63,15 @@ Conditional orders enable many strategies.
 
 Considerations:
 
-**Keeper Fees**: Keepers executing orders charge fees.
+- **Keeper Fees**: Keepers executing orders charge fees.
 
-**Gas Costs**: On-chain execution requires gas.
+- **Gas Costs**: On-chain execution requires gas.
 
-**Latency**: Checking conditions adds latency compared to immediate execution.
+- **Latency**: Checking conditions adds latency compared to immediate execution.
 
-**Missed Conditions**: If an oracle fails or a keeper is offline, the condition might not execute.
+- **Missed Conditions**: If an oracle fails or a keeper is offline, the condition might not execute.
 
-**Complexity**: Complex conditions are hard to verify and secure.
+- **Complexity**: Complex conditions are hard to verify and secure.
 
 Costs must be justified by strategy value.
 
@@ -91,25 +91,25 @@ Conditional orders create roles:
 
 Using conditional orders:
 
-**Test Conditions**: Carefully test conditions before deployment.
+- **Test Conditions**: Carefully test conditions before deployment.
 
-**Monitor Keepers**: Ensure keepers execute reliably.
+- **Monitor Keepers**: Ensure keepers execute reliably.
 
-**Cost Analysis**: Ensure order fees do not exceed strategy value.
+- **Cost Analysis**: Ensure order fees do not exceed strategy value.
 
-**Redundancy**: Use multiple keeper networks for reliability.
+- **Redundancy**: Use multiple keeper networks for reliability.
 
 ## The Future of Conditional Orders
 
 Evolution:
 
-**More Conditions**: Support for complex conditions.
+- **More Conditions**: Support for complex conditions.
 
-**Cross-Chain**: Conditional orders spanning chains.
+- **Cross-Chain**: Conditional orders spanning chains.
 
-**Lower Costs**: Cheaper automation as infrastructure improves.
+- **Lower Costs**: Cheaper automation as infrastructure improves.
 
-**Standardization**: Industry standards for condition specifications.
+- **Standardization**: Industry standards for condition specifications.
 
 ## Automate Trading Intelligently
 

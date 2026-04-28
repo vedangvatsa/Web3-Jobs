@@ -15,13 +15,13 @@ Liquid Staking Token refers to a derivative token that represents staked cryptoc
 
 Mechanics:
 
-**Stake Asset**: User stakes base asset (e.g., ETH) with liquid staking protocol.
+- **Stake Asset**: User stakes base asset (e.g., ETH) with liquid staking protocol.
 
-**Mint LST**: Protocol mints LST (e.g., stETH) 1:1 with staked asset.
+- **Mint LST**: Protocol mints LST (e.g., stETH) 1:1 with staked asset.
 
-**Rewards Accrue**: LST value increases or rebases to reflect staking rewards.
+- **Rewards Accrue**: LST value increases or rebases to reflect staking rewards.
 
-**Redemption**: User can redeem LST for underlying staked asset (subject to exit queue).
+- **Redemption**: User can redeem LST for underlying staked asset (subject to exit queue).
 
 LSTs represent claims on staked assets.
 
@@ -29,11 +29,11 @@ LSTs represent claims on staked assets.
 
 Different designs:
 
-**Rebasing Tokens**: Balance increases over time (stETH).
+- **Rebasing Tokens**: Balance increases over time (stETH).
 
-**Value Accrual**: Token price increases while balance stays constant (rETH).
+- **Value Accrual**: Token price increases while balance stays constant (rETH).
 
-**Hybrid**: Some protocols use hybrid models.
+- **Hybrid**: Some protocols use hybrid models.
 
 Each model has different accounting and tax implications.
 
@@ -41,13 +41,13 @@ Each model has different accounting and tax implications.
 
 Applications:
 
-**Collateral**: Use LSTs as collateral in lending protocols.
+- **Collateral**: Use LSTs as collateral in lending protocols.
 
-**Liquidity Pools**: Provide LST liquidity for additional fees.
+- **Liquidity Pools**: Provide LST liquidity for additional fees.
 
-**Restaking**: Use LSTs in restaking protocols (EigenLayer).
+- **Restaking**: Use LSTs in restaking protocols (EigenLayer).
 
-**Structured Products**: LSTs as base yield for fixed-income products.
+- **Structured Products**: LSTs as base yield for fixed-income products.
 
 LSTs unlock DeFi composability for staked assets.
 
@@ -55,15 +55,15 @@ LSTs unlock DeFi composability for staked assets.
 
 Key risks:
 
-**Smart Contract Risk**: Liquid staking protocol could be hacked.
+- **Smart Contract Risk**: Liquid staking protocol could be hacked.
 
-**Validator Risk**: Slashing events reduce LST value.
+- **Validator Risk**: Slashing events reduce LST value.
 
-**Peg Risk**: LST may trade below 1:1 (depeg events).
+- **Peg Risk**: LST may trade below 1:1 (depeg events).
 
-**Centralization**: Dominant LST providers can centralize staking.
+- **Centralization**: Dominant LST providers can centralize staking.
 
-**Liquidity Risk**: LST liquidity can dry up during market stress.
+- **Liquidity Risk**: LST liquidity can dry up during market stress.
 
 LSTs are powerful but risky.
 
@@ -71,25 +71,25 @@ LSTs are powerful but risky.
 
 Real LSTs:
 
-**stETH (Lido)**: Largest LST by market cap.
+- **stETH (Lido)**: Largest LST by market cap.
 
-**rETH (Rocket Pool)**: Decentralized LST.
+- **rETH (Rocket Pool)**: Decentralized LST.
 
-**cbETH (Coinbase)**: Centralized LST.
+- **cbETH (Coinbase)**: Centralized LST.
 
-**frxETH (Frax)**: Hybrid LST model.
+- **frxETH (Frax)**: Hybrid LST model.
 
 ## LST vs Native Staking
 
 Tradeoffs:
 
-**Liquidity**: LSTs are liquid, native staking is locked.
+- **Liquidity**: LSTs are liquid, native staking is locked.
 
-**Security**: LSTs add smart contract risk.
+- **Security**: LSTs add smart contract risk.
 
-**Rewards**: LSTs may charge fees, affecting rewards.
+- **Rewards**: LSTs may charge fees, affecting rewards.
 
-**Composability**: LSTs are composable in DeFi.
+- **Composability**: LSTs are composable in DeFi.
 
 LSTs trade simplicity for flexibility.
 
@@ -109,25 +109,25 @@ LST ecosystem roles:
 
 Using LSTs:
 
-**Check Provider Risk**: Understand staking provider model.
+- **Check Provider Risk**: Understand staking provider model.
 
-**Monitor Peg**: Watch LST price vs underlying.
+- **Monitor Peg**: Watch LST price vs underlying.
 
-**Diversify**: Use multiple LSTs to reduce risk.
+- **Diversify**: Use multiple LSTs to reduce risk.
 
-**Use Audited Protocols**: Prefer audited LSTs.
+- **Use Audited Protocols**: Prefer audited LSTs.
 
 ## The Future of LSTs
 
 Trends:
 
-**Restaking Growth**: LSTs used in restaking protocols.
+- **Restaking Growth**: LSTs used in restaking protocols.
 
-**Cross-Chain LSTs**: LSTs across multiple chains.
+- **Cross-Chain LSTs**: LSTs across multiple chains.
 
-**Decentralization**: More decentralized LST providers.
+- **Decentralization**: More decentralized LST providers.
 
-**Risk Tooling**: Better risk monitoring for LSTs.
+- **Risk Tooling**: Better risk monitoring for LSTs.
 
 ## Unlock Staking Liquidity
 

@@ -16,11 +16,11 @@ Solidity is a statically-typed, object-oriented programming language designed sp
 
 Traditional programming languages weren't designed for blockchain's unique constraints:
 
-**Immutability**: Once deployed, smart contracts cannot be changed without upgrade patterns.  
-**Gas Costs**: Every operation costs gas, requiring optimization.  
-**Determinism**: Code must produce identical results across all nodes.  
-**Value Transfer**: Language needs built-in support for cryptocurrency handling.  
-**Security**: Bugs can result in significant financial losses.
+- **Immutability**: Once deployed, smart contracts cannot be changed without upgrade patterns.  
+- **Gas Costs**: Every operation costs gas, requiring optimization.  
+- **Determinism**: Code must produce identical results across all nodes.  
+- **Value Transfer**: Language needs built-in support for cryptocurrency handling.  
+- **Security**: Bugs can result in significant financial losses.
 
 Solidity addresses these blockchain-specific needs with features like:
 - Gas-aware optimizations
@@ -31,7 +31,7 @@ Solidity addresses these blockchain-specific needs with features like:
 
 ## Language Basics
 
-**File Structure**:
+- **File Structure**:
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
@@ -48,7 +48,7 @@ contract MyToken {
 }
 ```
 
-**Key Elements**:
+- **Key Elements**:
 - `pragma`: Specifies compiler version.
 - `contract`: Defines a smart contract, similar to a class.
 - State variables: Stored permanently on the blockchain.
@@ -58,7 +58,7 @@ contract MyToken {
 
 ## Data Types
 
-**Value Types**:
+- **Value Types**:
 - `bool`: true/false
 - `uint`: Unsigned integers (uint8 to uint256)
 - `int`: Signed integers
@@ -66,16 +66,16 @@ contract MyToken {
 - `bytes`: Fixed or dynamic byte arrays
 - `string`: UTF-8 encoded text
 
-**Reference Types**:
+- **Reference Types**:
 - `arrays`: Fixed or dynamic lists
 - `mappings`: Key-value stores, like hash tables
 - `structs`: Custom data structures
 
-**Special Types**:
+- **Special Types**:
 - `address payable`: Can receive Ether
 - `enum`: Enumerated types for state machines
 
-**Example**:
+- **Example**:
 ```solidity
 contract DataTypes {
     address public owner;
@@ -91,18 +91,18 @@ contract DataTypes {
 
 ## Functions and Visibility
 
-**Visibility Specifiers**:
+- **Visibility Specifiers**:
 - `public`: Callable internally and externally
 - `external`: Only callable from outside
 - `internal`: Only within contract and derived contracts
 - `private`: Only within current contract
 
-**State Mutability**:
+- **State Mutability**:
 - `view`: Reads state but doesn't modify
 - `pure`: Neither reads nor modifies state
 - `payable`: Can receive Ether
 
-**Example**:
+- **Example**:
 ```solidity
 function getBalance(address user) public view returns (uint256) {
     return balances[user];
@@ -226,9 +226,9 @@ OpenZeppelin libraries provide implementations for:
 
 ## Error Handling
 
-**require**: Validates inputs and conditions, refunds remaining gas.  
-**revert**: Similar to require but can include custom errors.  
-**assert**: Checks for internal errors, consumes all gas.
+- **require**: Validates inputs and conditions, refunds remaining gas.  
+- **revert**: Similar to require but can include custom errors.  
+- **assert**: Checks for internal errors, consumes all gas.
 
 ```solidity
 // Before Solidity 0.8.4
@@ -250,7 +250,7 @@ Custom errors save gas compared to string messages.
 
 Solidity developers must optimize for gas costs:
 
-**Storage vs Memory**: Storage is expensive, memory is cheaper.
+- **Storage vs Memory**: Storage is expensive, memory is cheaper.
 ```solidity
 // Expensive: Multiple storage reads
 function badLoop() public {
@@ -268,7 +268,7 @@ function goodLoop() public {
 }
 ```
 
-**Variable Packing**: Pack multiple small variables into a single storage slot.
+- **Variable Packing**: Pack multiple small variables into a single storage slot.
 ```solidity
 // Uses 3 storage slots (expensive)
 uint128 a;
@@ -281,13 +281,13 @@ uint128 c;
 uint256 b;
 ```
 
-**Short-Circuit Evaluation**: Order conditions to fail fast.  
-**Use events not storage**: Where possible, emit events instead of storing data.  
-**External vs Public**: External functions are cheaper for external calls.
+- **Short-Circuit Evaluation**: Order conditions to fail fast.  
+- **Use events not storage**: Where possible, emit events instead of storing data.  
+- **External vs Public**: External functions are cheaper for external calls.
 
 ## Security Considerations
 
-**Reentrancy**: An attacker calls back into the contract before state updates.
+- **Reentrancy**: An attacker calls back into the contract before state updates.
 
 ```solidity
 // Vulnerable
@@ -307,21 +307,21 @@ function withdraw() public {
 }
 ```
 
-**Integer Overflow**: Solidity 0.8+ has built-in overflow protection.  
-**Access Control**: Always validate msg.sender for privileged functions.  
-**Oracle Manipulation**: Validate external data sources.  
-**Front-Running**: Be aware of MEV and transaction ordering.
+- **Integer Overflow**: Solidity 0.8+ has built-in overflow protection.  
+- **Access Control**: Always validate msg.sender for privileged functions.  
+- **Oracle Manipulation**: Validate external data sources.  
+- **Front-Running**: Be aware of MEV and transaction ordering.
 
 The DAO hack and Parity wallet freeze demonstrate the critical importance of secure Solidity code.
 
 ## Development Tools
 
-**Hardhat**: Popular development environment for testing and deployment.  
-**Foundry**: Rust-based toolkit for fast, Solidity-native testing.  
-**Remix**: Browser-based IDE for learning and quick prototyping.  
-**Truffle**: Older framework still widely used.
+- **Hardhat**: Popular development environment for testing and deployment.  
+- **Foundry**: Rust-based toolkit for fast, Solidity-native testing.  
+- **Remix**: Browser-based IDE for learning and quick prototyping.  
+- **Truffle**: Older framework still widely used.
 
-**Testing**:
+- **Testing**:
 ```javascript
 const { expect } = require("chai");
 
@@ -337,7 +337,7 @@ describe("Token", function () {
 
 ## Solidity Versions and Evolution
 
-**Major Updates**:
+- **Major Updates**:
 - **0.4.x**: Early production versions.
 - **0.5.x**: Breaking changes improving safety.
 - **0.6.x**: Improved syntax.
@@ -364,28 +364,28 @@ One codebase can deploy across multiple chains, though gas costs and available o
 
 ## Alternatives to Solidity
 
-**Vyper**: Python-like syntax, prioritizes security and auditability.  
-**Rust**: Used for Solana and NEAR smart contracts.  
-**Move**: Used in Aptos and Sui, designed for asset-oriented programming.  
-**Cairo**: StarkNet's language for ZK proofs.
+- **Vyper**: Python-like syntax, prioritizes security and auditability.  
+- **Rust**: Used for Solana and NEAR smart contracts.  
+- **Move**: Used in Aptos and Sui, designed for asset-oriented programming.  
+- **Cairo**: StarkNet's language for ZK proofs.
 
 Solidity remains dominant with the largest developer community and most tooling.
 
 ## Career Opportunities
 
-**Solidity Developer**: Writes smart contracts for DeFi, NFTs, and DAOs. High demand exists, especially for those with security expertise.
+- **Solidity Developer**: Writes smart contracts for DeFi, NFTs, and DAOs. High demand exists, especially for those with security expertise.
 
-**Smart Contract Auditor**: Reviews code for vulnerabilities. This role is critical given the stakes involved.
+- **Smart Contract Auditor**: Reviews code for vulnerabilities. This role is critical given the stakes involved.
 
-**Protocol Engineer**: Designs complex protocol interactions, optimizes gas, and implements upgrade patterns.
+- **Protocol Engineer**: Designs complex protocol interactions, optimizes gas, and implements upgrade patterns.
 
-**Blockchain Architect**: Plans contract architecture, selects design patterns, and oversees development teams.
+- **Blockchain Architect**: Plans contract architecture, selects design patterns, and oversees development teams.
 
-**DevRel Engineer**: Creates tutorials, documentation, and sample contracts to help developers adopt protocols.
+- **DevRel Engineer**: Creates tutorials, documentation, and sample contracts to help developers adopt protocols.
 
-**Solidity Instructor**: Teaches bootcamps, creates courses, and writes educational content.
+- **Solidity Instructor**: Teaches bootcamps, creates courses, and writes educational content.
 
-**Security Researcher**: Finds vulnerabilities, participates in bug bounties, and publishes security research.
+- **Security Researcher**: Finds vulnerabilities, participates in bug bounties, and publishes security research.
 
 ## Learning Path
 
@@ -394,7 +394,7 @@ Solidity remains dominant with the largest developer community and most tooling.
 3. **Advanced**: Gas optimization, security patterns, upgrade mechanisms.
 4. **Expert**: Complex protocols, cross-contract interactions, novel patterns.
 
-**Resources**:
+- **Resources**:
 - Solidity documentation (official)
 - CryptoZombies (interactive tutorials)
 - OpenZeppelin contracts (code examples)
