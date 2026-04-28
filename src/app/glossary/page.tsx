@@ -171,7 +171,7 @@ export default async function GlossaryPage({
          <Link key={term.slug} href={`/${term.slug}`}>
           <Card className="group hover:border-primary hover:shadow-sm transition-all h-full">
            <CardContent className="p-4">
-            <h4 className="font-semibold group-hover:text-primary transition-colors mb-2">
+            <h4 className="font-semibold group-hover:text-foreground transition-colors mb-2">
              {term.term}
             </h4>
             <p className="text-sm text-muted-foreground line-clamp-2 mb-2">

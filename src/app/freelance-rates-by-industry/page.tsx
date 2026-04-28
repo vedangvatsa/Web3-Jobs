@@ -386,10 +386,10 @@ export default function FreelanceRatesByIndustryPage() {
       </CardContent>
      </Card>
 
-     <Card className="mt-10 max-w-5xl mx-auto bg-primary/5 border-primary/20">
+     <Card className="mt-10 max-w-5xl mx-auto bg-muted/30 border shadow-none">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
        <div>
-        <h3 className="text-xl font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
+        <h3 className="text-xl font-bold text-foreground mb-1">Looking for a Web3 Job?</h3>
         <p className="text-muted-foreground">Now that you have pricing benchmarks, find high-intent roles on the #1 Web3 job board.</p>
        </div>
        <Link href="/jobs" className="flex-shrink-0 mt-4 md:mt-0">

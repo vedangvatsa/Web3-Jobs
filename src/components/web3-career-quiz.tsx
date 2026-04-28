@@ -93,11 +93,11 @@ export function Web3CareerQuiz() {
          <Twitter className="h-4 w-4 mr-2" /> Share on X
        </Button>
       </div>
-      <Card className="mt-6 w-full bg-primary/5 border-primary/20">
+      <Card className="mt-6 w-full bg-muted/30 border shadow-none">
        <CardContent className="p-6 flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
          
          <div>
-           <h3 className="text-lg font-bold text-primary mb-1">Find Your Role</h3>
+           <h3 className="text-lg font-bold text-foreground mb-1">Find Your Role</h3>
            <p className="text-sm text-muted-foreground">Now that you know your archetype, find the perfect job on our Telegram channel with over 60,000 subscribers.</p>
          </div>
          <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">

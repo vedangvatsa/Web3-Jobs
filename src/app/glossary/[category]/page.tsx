@@ -188,7 +188,7 @@ export default async function CategoryPage({ params }: { params: { category: str
          <Link key={term.slug} href={`/${term.slug}`}>
           <Card className="group hover:border-primary hover:shadow-sm transition-all h-full">
            <CardContent className="p-5">
-            <h3 className="font-bold text-lg group-hover:text-primary transition-colors mb-2">
+            <h3 className="font-bold text-lg group-hover:text-foreground transition-colors mb-2">
              {term.term}
             </h3>
             <p className="text-sm text-muted-foreground line-clamp-3">
@@ -214,7 +214,7 @@ export default async function CategoryPage({ params }: { params: { category: str
          <Link key={term.slug} href={`/${term.slug}`}>
           <Card className="group hover:border-primary hover:shadow-sm transition-all h-full">
            <CardContent className="p-5">
-            <h3 className="font-bold text-lg group-hover:text-primary transition-colors mb-2">
+            <h3 className="font-bold text-lg group-hover:text-foreground transition-colors mb-2">
              {term.term}
             </h3>
             <p className="text-sm text-muted-foreground line-clamp-3">
@@ -240,7 +240,7 @@ export default async function CategoryPage({ params }: { params: { category: str
          <Link key={term.slug} href={`/${term.slug}`}>
           <Card className="group hover:border-primary hover:shadow-sm transition-all h-full">
            <CardContent className="p-5">
-            <h3 className="font-bold text-lg group-hover:text-primary transition-colors mb-2">
+            <h3 className="font-bold text-lg group-hover:text-foreground transition-colors mb-2">
              {term.term}
             </h3>
             <p className="text-sm text-muted-foreground line-clamp-3">

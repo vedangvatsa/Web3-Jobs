@@ -246,11 +246,11 @@ export default function RemoteWorkChecklistPage() {
        ))}
       </div>
        <Separator />
-       <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
+       <Card className="mt-12 col-span-full bg-muted/30 border shadow-none">
         <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
           
           <div>
-            <h3 className="text-xl font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
+            <h3 className="text-xl font-bold text-foreground mb-1">Looking for a Web3 Job?</h3>
             <p className="text-muted-foreground">Join our Telegram channel with over 60,000 subscribers to get the latest job postings.</p>
           </div>
           <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
