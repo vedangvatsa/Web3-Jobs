@@ -56,6 +56,52 @@ Stablecoins are also the backbone of DeFi. Lending protocols, DEX liquidity pool
 
 There are three fundamentally different designs.
 
+<div class="diagram">
+<svg viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:750px">
+  <!-- Fiat-Backed -->
+  <rect x="10" y="10" width="240" height="200" rx="12" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="130" y="40" text-anchor="middle" font-size="13" font-weight="bold" fill="#166534">Fiat-Backed</text>
+  <text x="130" y="58" text-anchor="middle" font-size="11" fill="#166534">USDC / USDT</text>
+  <rect x="40" y="75" width="80" height="35" rx="6" fill="#dcfce7"/>
+  <text x="80" y="97" text-anchor="middle" font-size="10" fill="#166534">$1 Token</text>
+  <text x="155" y="95" text-anchor="middle" font-size="16" fill="#22c55e">↔</text>
+  <rect x="170" y="75" width="55" height="35" rx="6" fill="#dcfce7"/>
+  <text x="197" y="97" text-anchor="middle" font-size="10" fill="#166534">$1 Cash</text>
+  <text x="130" y="135" text-anchor="middle" font-size="10" fill="#64748b">1:1 bank reserves</text>
+  <text x="130" y="155" text-anchor="middle" font-size="10" font-weight="600" fill="#166534">✓ Simple</text>
+  <text x="130" y="175" text-anchor="middle" font-size="10" fill="#dc2626">✗ Centralized trust</text>
+  <text x="130" y="195" text-anchor="middle" font-size="10" fill="#64748b">~$195B market cap</text>
+
+  <!-- Crypto-Backed -->
+  <rect x="280" y="10" width="240" height="200" rx="12" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+  <text x="400" y="40" text-anchor="middle" font-size="13" font-weight="bold" fill="#854d0e">Crypto-Backed</text>
+  <text x="400" y="58" text-anchor="middle" font-size="11" fill="#854d0e">DAI (MakerDAO)</text>
+  <rect x="300" y="75" width="80" height="35" rx="6" fill="#fef9c3"/>
+  <text x="340" y="97" text-anchor="middle" font-size="10" fill="#854d0e">$150 ETH</text>
+  <text x="415" y="95" text-anchor="middle" font-size="16" fill="#eab308">→</text>
+  <rect x="435" y="75" width="70" height="35" rx="6" fill="#fef9c3"/>
+  <text x="470" y="97" text-anchor="middle" font-size="10" fill="#854d0e">100 DAI</text>
+  <text x="400" y="135" text-anchor="middle" font-size="10" fill="#64748b">150% collateral ratio</text>
+  <text x="400" y="155" text-anchor="middle" font-size="10" font-weight="600" fill="#166534">✓ Decentralized</text>
+  <text x="400" y="175" text-anchor="middle" font-size="10" fill="#dc2626">✗ Capital inefficient</text>
+  <text x="400" y="195" text-anchor="middle" font-size="10" fill="#64748b">~$5B market cap</text>
+
+  <!-- Algorithmic -->
+  <rect x="550" y="10" width="240" height="200" rx="12" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="670" y="40" text-anchor="middle" font-size="13" font-weight="bold" fill="#991b1b">Algorithmic</text>
+  <text x="670" y="58" text-anchor="middle" font-size="11" fill="#991b1b">UST / LUNA ☠️</text>
+  <rect x="580" y="75" width="70" height="35" rx="6" fill="#fee2e2"/>
+  <text x="615" y="97" text-anchor="middle" font-size="10" fill="#991b1b">Burn UST</text>
+  <text x="685" y="95" text-anchor="middle" font-size="16" fill="#ef4444">↔</text>
+  <rect x="705" y="75" width="70" height="35" rx="6" fill="#fee2e2"/>
+  <text x="740" y="97" text-anchor="middle" font-size="10" fill="#991b1b">Mint LUNA</text>
+  <text x="670" y="135" text-anchor="middle" font-size="10" fill="#64748b">No real collateral</text>
+  <text x="670" y="155" text-anchor="middle" font-size="10" fill="#dc2626">✗ Death spiral risk</text>
+  <text x="670" y="175" text-anchor="middle" font-size="10" fill="#dc2626">✗ Collapsed May 2022</text>
+  <text x="670" y="195" text-anchor="middle" font-size="10" fill="#64748b">$40B destroyed</text>
+</svg>
+</div>
+
 ## 1. Fiat-Backed: USDC and USDT
 
 **How it works:** A company (Circle for USDC, Tether for USDT) holds real dollars in bank accounts. For every stablecoin token they issue on-chain, they hold $1 in reserves. You can redeem tokens 1:1 for cash.
