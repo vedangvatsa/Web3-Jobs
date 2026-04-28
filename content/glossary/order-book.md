@@ -15,17 +15,17 @@ Order Book refers to a real-time list of buy and sell orders for an asset organi
 
 How they work:
 
-**Limit Orders**: Traders place orders to buy or sell at a specific price. Example: "Buy 1 BTC at $39,950 or below."
+- **Limit Orders**: Traders place orders to buy or sell at a specific price. Example: "Buy 1 BTC at $39,950 or below."
 
-**Market Orders**: Buy or sell immediately at market price, usually executing against multiple orders on the other side.
+- **Market Orders**: Buy or sell immediately at market price, usually executing against multiple orders on the other side.
 
-**Matching Engine**: Centralized system matching buyers and sellers at agreeable prices.
+- **Matching Engine**: Centralized system matching buyers and sellers at agreeable prices.
 
-**Bid-Ask Spread**: Difference between highest buy and lowest sell price.
+- **Bid-Ask Spread**: Difference between highest buy and lowest sell price.
 
-**Price Discovery**: As buy and sell orders accumulate, equilibrium price is discovered.
+- **Price Discovery**: As buy and sell orders accumulate, equilibrium price is discovered.
 
-**Liquidity**: Deep order books with many orders indicate high liquidity.
+- **Liquidity**: Deep order books with many orders indicate high liquidity.
 
 Order books are foundational to traditional finance trading.
 
@@ -33,17 +33,17 @@ Order books are foundational to traditional finance trading.
 
 Properties:
 
-**Transparency**: Visible order book shows all pending orders and prices.
+- **Transparency**: Visible order book shows all pending orders and prices.
 
-**Efficiency**: Smart matching enables best execution.
+- **Efficiency**: Smart matching enables best execution.
 
-**Information Signaling**: Large orders signal future price moves, enabling informed trading.
+- **Information Signaling**: Large orders signal future price moves, enabling informed trading.
 
-**Spreads**: Tight spreads between bid and ask indicate deep liquidity.
+- **Spreads**: Tight spreads between bid and ask indicate deep liquidity.
 
-**Latency Sensitive**: High-frequency traders benefit from fast order processing.
+- **Latency Sensitive**: High-frequency traders benefit from fast order processing.
 
-**Front-Running Vulnerable**: Miners or exchanges seeing pending orders can exploit ordering.
+- **Front-Running Vulnerable**: Miners or exchanges seeing pending orders can exploit ordering.
 
 Order books are familiar to traders but have specific characteristics.
 
@@ -67,13 +67,13 @@ Order books are more efficient for liquid assets; AMMs are better for illiquid a
 
 Emerging combinations:
 
-**Order Book + AMM**: 0x Protocol enables swaps matching order book and AMM fallback. Liquidity aggregation.
+- **Order Book + AMM**: 0x Protocol enables swaps matching order book and AMM fallback. Liquidity aggregation.
 
-**Batch Auctions**: Frequent auctions combining multiple orders, executed together. CoW Protocol is an example.
+- **Batch Auctions**: Frequent auctions combining multiple orders, executed together. CoW Protocol is an example.
 
-**Encrypted Mempools**: Privacy in order books preventing front-running by hiding orders until commitment.
+- **Encrypted Mempools**: Privacy in order books preventing front-running by hiding orders until commitment.
 
-**Call Markets**: Periodic auctions instead of continuous order books.
+- **Call Markets**: Periodic auctions instead of continuous order books.
 
 Hybrid models attempt to combine benefits of order books and AMMs.
 
@@ -81,13 +81,13 @@ Hybrid models attempt to combine benefits of order books and AMMs.
 
 Advanced matching:
 
-**Call Auctions**: Rather than continuous matching, batch orders into periodic auctions (e.g., every 10 seconds). Execute all orders simultaneously at the same price. Prevents front-running and enables fair execution.
+- **Call Auctions**: Rather than continuous matching, batch orders into periodic auctions (e.g., every 10 seconds). Execute all orders simultaneously at the same price. Prevents front-running and enables fair execution.
 
-**Batch Auctions (CoW Protocol)**: Batch auctions solving for order flow optimality. Merge orders, find optimal clearing price, execute atomically. Users don't need liquidity pools, solvers find best execution.
+- **Batch Auctions (CoW Protocol)**: Batch auctions solving for order flow optimality. Merge orders, find optimal clearing price, execute atomically. Users don't need liquidity pools, solvers find best execution.
 
-**Frequent Batch Auctions**: Compromise between continuous order books (front-run risk) and infrequent auctions (latency). Batch orders into frequent rounds.
+- **Frequent Batch Auctions**: Compromise between continuous order books (front-run risk) and infrequent auctions (latency). Batch orders into frequent rounds.
 
-**Intent-Based Matching**: Users specify intents (swap 1 ETH for 2000 USDC). Solvers compete to fulfill. Different from order books but similar outcome.
+- **Intent-Based Matching**: Users specify intents (swap 1 ETH for 2000 USDC). Solvers compete to fulfill. Different from order books but similar outcome.
 
 These models attempt to address order book limitations in the blockchain context.
 
@@ -95,17 +95,17 @@ These models attempt to address order book limitations in the blockchain context
 
 Technical obstacles:
 
-**Smart Contract Constraints**: Can't easily maintain efficient matching engine on-chain. Requires real-time computation.
+- **Smart Contract Constraints**: Can't easily maintain efficient matching engine on-chain. Requires real-time computation.
 
-**Scalability**: Order book matching must be fast (microseconds); blockchains are slower (seconds).
+- **Scalability**: Order book matching must be fast (microseconds); blockchains are slower (seconds).
 
-**Decentralization**: Centralized order book matching reduces decentralization due to single operator dependency.
+- **Decentralization**: Centralized order book matching reduces decentralization due to single operator dependency.
 
-**Status Quo**: AMMs are more natural for DeFi, though order books are emerging on Layer 2s.
+- **Status Quo**: AMMs are more natural for DeFi, though order books are emerging on Layer 2s.
 
-**dYdX v4**: Moved to Cosmos for faster order book execution. Dedicated chain enables order books.
+- **dYdX v4**: Moved to Cosmos for faster order book execution. Dedicated chain enables order books.
 
-**Ekubo**: Cairo-based order book on StarkNet demonstrating order books on ZK rollups.
+- **Ekubo**: Cairo-based order book on StarkNet demonstrating order books on ZK rollups.
 
 DeFi order books are emerging on Layer 2s and alt-L1s where speed is possible.
 
@@ -113,11 +113,11 @@ DeFi order books are emerging on Layer 2s and alt-L1s where speed is possible.
 
 Future directions:
 
-**Layer 2 Order Books**: As L2s become faster, full-featured order books are becoming feasible.
+- **Layer 2 Order Books**: As L2s become faster, full-featured order books are becoming feasible.
 
-**Hybrid Models**: Combining order books with AMM fallback for liquidity.
+- **Hybrid Models**: Combining order books with AMM fallback for liquidity.
 
-**Intent Architecture**: Shift toward intent-based systems letting solvers find execution.
+- **Intent Architecture**: Shift toward intent-based systems letting solvers find execution.
 
 ## Career Opportunities
 
@@ -137,27 +137,27 @@ Order books create roles:
 
 Using order books effectively:
 
-**Understand Spreads**: Tight spreads indicate liquid markets. Wide spreads indicate illiquidity.
+- **Understand Spreads**: Tight spreads indicate liquid markets. Wide spreads indicate illiquidity.
 
-**Limit Orders**: Use limit orders for better control over execution price.
+- **Limit Orders**: Use limit orders for better control over execution price.
 
-**Market Liquidity**: Trade liquid pairs to minimize slippage.
+- **Market Liquidity**: Trade liquid pairs to minimize slippage.
 
-**Avoid Large Trades**: Size matters. Large orders can move the market significantly.
+- **Avoid Large Trades**: Size matters. Large orders can move the market significantly.
 
-**Time Awareness**: Avoid front-running by trading off-peak times or using limit orders.
+- **Time Awareness**: Avoid front-running by trading off-peak times or using limit orders.
 
 ## The Future of Order Books
 
 Order book evolution:
 
-**DeFi Integration**: More sophisticated DeFi order book implementations are emerging.
+- **DeFi Integration**: More sophisticated DeFi order book implementations are emerging.
 
-**Layer 2 Order Books**: Order books on rollups enable fast, cheap trading.
+- **Layer 2 Order Books**: Order books on rollups enable fast, cheap trading.
 
-**Encrypted Orders**: Privacy-enhanced order books prevent front-running.
+- **Encrypted Orders**: Privacy-enhanced order books prevent front-running.
 
-**Hybrid Models**: Continued evolution toward hybrid order book and AMM systems.
+- **Hybrid Models**: Continued evolution toward hybrid order book and AMM systems.
 
 ## Discover Price Efficiently
 

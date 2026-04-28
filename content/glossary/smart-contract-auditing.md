@@ -27,11 +27,11 @@ Smart contracts differ from traditional software in critical ways that make audi
 
 ### Immutability and Irreversibility
 
-**Traditional Software**: Bugs discovered post-deployment can be patched, rolled back, or hotfixed.
+- **Traditional Software**: Bugs discovered post-deployment can be patched, rolled back, or hotfixed.
 
-**Smart Contracts**: Once deployed, code is permanent. If a bug exists, the only option is deploying a new contract and migrating users, which can be a painful and expensive process.
+- **Smart Contracts**: Once deployed, code is permanent. If a bug exists, the only option is deploying a new contract and migrating users, which can be a painful and expensive process.
 
-**Impact**: A bug in traditional software is an inconvenience. A bug in a smart contract can permanently steal user funds with no recourse.
+- **Impact**: A bug in traditional software is an inconvenience. A bug in a smart contract can permanently steal user funds with no recourse.
 
 ### Financial Value at Risk
 
@@ -55,82 +55,82 @@ Different audit approaches serve different purposes:
 
 ### Full Code Review
 
-**Scope**: Comprehensive line-by-line review of all contract code.
+- **Scope**: Comprehensive line-by-line review of all contract code.
 
-**Process**:
+- **Process**:
 1. Auditors read and understand all code.
 2. Identify potential vulnerabilities manually.
 3. Test edge cases and attack vectors.
 4. Document findings with severity ratings.
 
-**Cost**: Varies depending on code size and complexity.
+- **Cost**: Varies depending on code size and complexity.
 
-**Timeline**: 1-4 weeks depending on scope.
+- **Timeline**: 1-4 weeks depending on scope.
 
-**Best For**: Protocols handling large amounts of capital or novel mechanisms.
+- **Best For**: Protocols handling large amounts of capital or novel mechanisms.
 
-**Limitations**: Manual review is time-consuming, and auditors may miss subtle issues.
+- **Limitations**: Manual review is time-consuming, and auditors may miss subtle issues.
 
 ### Formal Verification
 
-**Approach**: Use mathematical logic to prove code correctness.
+- **Approach**: Use mathematical logic to prove code correctness.
 
-**How It Works**:
+- **How It Works**:
 1. Write formal specifications describing correct behavior.
 2. Use theorem provers (Coq, Isabelle, Z3) to verify code matches specifications.
 3. Prove security properties mathematically.
 
-**Advantage**: If verification succeeds, you have mathematical proof of correctness.
+- **Advantage**: If verification succeeds, you have mathematical proof of correctness.
 
-**Disadvantage**: Very expensive and complex, requiring specialized expertise.
+- **Disadvantage**: Very expensive and complex, requiring specialized expertise.
 
-**Examples**:
+- **Examples**:
 - OpenZeppelin uses formal verification for critical libraries.
 - Certora specializes in formal verification of DeFi contracts.
 - ConsenSys Diligence uses hybrid approaches.
 
-**Best For**: Critical protocols where absolute certainty is worth the cost.
+- **Best For**: Critical protocols where absolute certainty is worth the cost.
 
 ### Automated Analysis
 
-**Approach**: Use static analysis tools to automatically detect common vulnerabilities.
+- **Approach**: Use static analysis tools to automatically detect common vulnerabilities.
 
-**Tools**:
+- **Tools**:
 - **Slither**: Analyzes Solidity code for known vulnerability patterns.
 - **Mythril**: Symbolic execution to find potential bugs.
 - **Securify**: Machine learning-based vulnerability detection.
 - **Certora Prover**: Automated formal verification.
 
-**Advantages**: Fast and cheap, detects many common issues.
+- **Advantages**: Fast and cheap, detects many common issues.
 
-**Disadvantages**: Misses complex logic flaws and has a high false positive rate.
+- **Disadvantages**: Misses complex logic flaws and has a high false positive rate.
 
-**Cost**: Ranges from free (open-source tools) to professional services.
+- **Cost**: Ranges from free (open-source tools) to professional services.
 
-**Best For**: Initial quick checks, CI/CD pipelines, and complementing manual audits.
+- **Best For**: Initial quick checks, CI/CD pipelines, and complementing manual audits.
 
 ### Bug Bounties
 
-**Approach**: Incentivize external security researchers to find bugs.
+- **Approach**: Incentivize external security researchers to find bugs.
 
-**How It Works**:
+- **How It Works**:
 1. Deploy contract to testnet with a bounty program.
 2. Researchers attempt to find vulnerabilities.
 3. Bounties awarded for valid bug reports.
 4. Researchers submit fixes or proof-of-concept exploits.
 
-**Examples**:
+- **Examples**:
 - Uniswap bug bounty program.
 - Aave bug bounty program.
 - Curve Finance bug bounty program.
 
-**Advantages**: Leverages many security minds and crowdsourced security.
+- **Advantages**: Leverages many security minds and crowdsourced security.
 
-**Disadvantages**: Doesn't guarantee comprehensive coverage.
+- **Disadvantages**: Doesn't guarantee comprehensive coverage.
 
-**Cost**: Variable, depends on bounty payouts.
+- **Cost**: Variable, depends on bounty payouts.
 
-**Best For**: Ongoing security and incentivizing researcher participation.
+- **Best For**: Ongoing security and incentivizing researcher participation.
 
 ## Common Smart Contract Vulnerabilities
 
@@ -138,57 +138,57 @@ Professional auditors look for known vulnerability classes:
 
 ### Reentrancy
 
-**Example**: Attacker contract calls target repeatedly before balance is updated, draining funds.
+- **Example**: Attacker contract calls target repeatedly before balance is updated, draining funds.
 
-**Famous Hack**: The DAO (2016) - significant funds stolen via reentrancy.
+- **Famous Hack**: The DAO (2016) - significant funds stolen via reentrancy.
 
-**Prevention**: Checks-Effects-Interactions pattern, reentrancy guards.
+- **Prevention**: Checks-Effects-Interactions pattern, reentrancy guards.
 
 ### Integer Overflow/Underflow
 
-**Example**: Balance counter overflows, resetting to 0 or max, allowing free minting.
+- **Example**: Balance counter overflows, resetting to 0 or max, allowing free minting.
 
-**Prevention**: Use SafeMath libraries or Solidity 0.8+ (automatic overflow checks).
+- **Prevention**: Use SafeMath libraries or Solidity 0.8+ (automatic overflow checks).
 
 ### Unchecked External Calls
 
-**Example**: Calling untrusted contract fails silently, contract assumes call succeeded.
+- **Example**: Calling untrusted contract fails silently, contract assumes call succeeded.
 
-**Impact**: Logic proceeds with incorrect assumptions, leading to funds lost.
+- **Impact**: Logic proceeds with incorrect assumptions, leading to funds lost.
 
-**Prevention**: Check return values, use try-catch.
+- **Prevention**: Check return values, use try-catch.
 
 ### Access Control Vulnerabilities
 
-**Example**: Critical functions lack proper permission checks, allowing unauthorized access.
+- **Example**: Critical functions lack proper permission checks, allowing unauthorized access.
 
-**Famous Hack**: Nomad Bridge (2022) - significant funds stolen due to access control bug.
+- **Famous Hack**: Nomad Bridge (2022) - significant funds stolen due to access control bug.
 
-**Prevention**: Role-based access control (OpenZeppelin AccessControl), clear permission logic.
+- **Prevention**: Role-based access control (OpenZeppelin AccessControl), clear permission logic.
 
 ### Front-Running
 
-**Example**: Attacker sees pending transaction in mempool, submits competing transaction with higher gas.
+- **Example**: Attacker sees pending transaction in mempool, submits competing transaction with higher gas.
 
-**Impact**: Attacker profits at victim's expense.
+- **Impact**: Attacker profits at victim's expense.
 
-**Prevention**: Batch auctions, private mempools, fair ordering mechanisms.
+- **Prevention**: Batch auctions, private mempools, fair ordering mechanisms.
 
 ### Price Oracle Manipulation
 
-**Example**: Attacker manipulates price oracle, causing protocol to make incorrect decisions.
+- **Example**: Attacker manipulates price oracle, causing protocol to make incorrect decisions.
 
-**Famous Hack**: Various attacks on price oracle-dependent protocols.
+- **Famous Hack**: Various attacks on price oracle-dependent protocols.
 
-**Prevention**: Use time-weighted average prices (TWAP), multiple price sources, circuit breakers.
+- **Prevention**: Use time-weighted average prices (TWAP), multiple price sources, circuit breakers.
 
 ### Logic Errors
 
-**Example**: Code doesn't implement intended logic, calculations are wrong.
+- **Example**: Code doesn't implement intended logic, calculations are wrong.
 
-**Example**: Fee calculation off by one decimal place, draining protocol funds slowly.
+- **Example**: Fee calculation off by one decimal place, draining protocol funds slowly.
 
-**Prevention**: Unit tests, integration tests, code review.
+- **Prevention**: Unit tests, integration tests, code review.
 
 ## Audit Process
 
@@ -234,21 +234,21 @@ Professional audits follow a structured process:
 
 Major audit firms include:
 
-**Trail of Bits**: Elite firm, audited MakerDAO, Polygon, and many major protocols.
+- **Trail of Bits**: Elite firm, audited MakerDAO, Polygon, and many major protocols.
 
-**OpenZeppelin**: Audited numerous contracts, strong reputation, detailed reports.
+- **OpenZeppelin**: Audited numerous contracts, strong reputation, detailed reports.
 
-**Certora**: Specializes in formal verification with a sophisticated approach.
+- **Certora**: Specializes in formal verification with a sophisticated approach.
 
-**Spearbit**: Specialized firm with top researchers.
+- **Spearbit**: Specialized firm with top researchers.
 
-**ConsenSys Diligence**: Hybrid approach combining manual and formal verification.
+- **ConsenSys Diligence**: Hybrid approach combining manual and formal verification.
 
-**Hacken**: Blockchain security firm with competitive pricing.
+- **Hacken**: Blockchain security firm with competitive pricing.
 
-**Smaller/Emerging Firms**: More affordable but less established.
+- **Smaller/Emerging Firms**: More affordable but less established.
 
-**Selection**: More reputable firms are typically more expensive but provide better assurance.
+- **Selection**: More reputable firms are typically more expensive but provide better assurance.
 
 ## Limitations of Audits
 
@@ -274,15 +274,15 @@ Even experienced auditors make mistakes. Perfect reviews don't exist.
 
 The security field has specialized roles:
 
-**Smart Contract Security Auditors**: Conduct code reviews, identify vulnerabilities, write detailed audit reports.
+- **Smart Contract Security Auditors**: Conduct code reviews, identify vulnerabilities, write detailed audit reports.
 
-**Formal Verification Engineers**: Use theorem provers and formal methods to mathematically prove code correctness.
+- **Formal Verification Engineers**: Use theorem provers and formal methods to mathematically prove code correctness.
 
-**Security Researchers**: Research novel attack vectors, design new security mechanisms, publish findings.
+- **Security Researchers**: Research novel attack vectors, design new security mechanisms, publish findings.
 
-**Bug Bounty Hunters**: Find vulnerabilities in deployed protocols and earn bounties.
+- **Bug Bounty Hunters**: Find vulnerabilities in deployed protocols and earn bounties.
 
-**Security DevOps**: Implement automated security testing in CI/CD pipelines.
+- **Security DevOps**: Implement automated security testing in CI/CD pipelines.
 
 Smart contract security is among the highest-paid specializations in crypto due to the scarcity of talent and high consequences of failures.
 
@@ -290,37 +290,37 @@ Smart contract security is among the highest-paid specializations in crypto due 
 
 Before commissioning an audit:
 
-**Comprehensive Testing**: Write thorough unit and integration tests covering normal and edge cases.
+- **Comprehensive Testing**: Write thorough unit and integration tests covering normal and edge cases.
 
-**Code Quality**: Clean, well-documented code is easier and faster to audit.
+- **Code Quality**: Clean, well-documented code is easier and faster to audit.
 
-**Documentation**: Clear threat models, design documents, and assumptions help auditors understand intent.
+- **Documentation**: Clear threat models, design documents, and assumptions help auditors understand intent.
 
-**Minimize Scope**: Only audit code that is necessary.
+- **Minimize Scope**: Only audit code that is necessary.
 
-**Version Control**: Clean git history with meaningful commits helps auditors understand development.
+- **Version Control**: Clean git history with meaningful commits helps auditors understand development.
 
-**Test Coverage**: Aim for high code coverage to demonstrate thoroughness.
+- **Test Coverage**: Aim for high code coverage to demonstrate thoroughness.
 
-**Multiple Audits**: Consider multiple firms for high-value protocols.
+- **Multiple Audits**: Consider multiple firms for high-value protocols.
 
-**Bug Bounties**: Run bounties even with audits to complement each other.
+- **Bug Bounties**: Run bounties even with audits to complement each other.
 
 ## The Future of Smart Contract Security
 
 Security is evolving:
 
-**Formal Verification Scaling**: Automated formal verification is becoming more accessible.
+- **Formal Verification Scaling**: Automated formal verification is becoming more accessible.
 
-**AI-Assisted Analysis**: Machine learning models are improving vulnerability detection.
+- **AI-Assisted Analysis**: Machine learning models are improving vulnerability detection.
 
-**Safer Languages**: New languages are improving baseline safety.
+- **Safer Languages**: New languages are improving baseline safety.
 
-**Runtime Verification**: Monitoring deployed contracts for anomalous behavior.
+- **Runtime Verification**: Monitoring deployed contracts for anomalous behavior.
 
-**Decentralized Auditing**: Crowdsourced security models are scaling audit capacity.
+- **Decentralized Auditing**: Crowdsourced security models are scaling audit capacity.
 
-**Regulatory Audits**: Required audits for regulated DeFi/crypto entities are creating market demand.
+- **Regulatory Audits**: Required audits for regulated DeFi/crypto entities are creating market demand.
 
 Smart contract security remains a critical field. Better tools, techniques, and incentives will improve the baseline security of blockchain applications.
 

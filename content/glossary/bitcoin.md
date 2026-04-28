@@ -30,13 +30,13 @@ Every transaction is verified by multiple nodes before being confirmed. Once a t
 
 ## Bitcoin's Purpose and Use Cases
 
-**Digital Currency**: Bitcoin enables borderless, peer-to-peer payments without intermediaries. Transactions settle in minutes to hours, regardless of geographic location. Unlike bank transfers that can take days and require business hours, Bitcoin operates continuously. This has proven valuable in countries with unstable currencies or restrictive capital controls.
+- **Digital Currency**: Bitcoin enables borderless, peer-to-peer payments without intermediaries. Transactions settle in minutes to hours, regardless of geographic location. Unlike bank transfers that can take days and require business hours, Bitcoin operates continuously. This has proven valuable in countries with unstable currencies or restrictive capital controls.
 
-**Store of Value**: Often referred to as digital gold, many view Bitcoin as a hedge against inflation and currency devaluation. Its fixed supply and decentralized nature appeal to those seeking alternatives to traditional financial systems. Institutional investors increasingly allocate portions of portfolios to Bitcoin as a macro hedge.
+- **Store of Value**: Often referred to as digital gold, many view Bitcoin as a hedge against inflation and currency devaluation. Its fixed supply and decentralized nature appeal to those seeking alternatives to traditional financial systems. Institutional investors increasingly allocate portions of portfolios to Bitcoin as a macro hedge.
 
-**Remittances**: Bitcoin provides an option for international money transfers with lower fees than traditional remittance services, particularly valuable in countries with limited banking infrastructure. Migrants can send money home without losing a significant percentage to intermediary fees. In El Salvador, Bitcoin became legal tender in 2021, enabling citizens to receive remittances with minimal friction.
+- **Remittances**: Bitcoin provides an option for international money transfers with lower fees than traditional remittance services, particularly valuable in countries with limited banking infrastructure. Migrants can send money home without losing a significant percentage to intermediary fees. In El Salvador, Bitcoin became legal tender in 2021, enabling citizens to receive remittances with minimal friction.
 
-**Wealth Preservation**: In countries experiencing hyperinflation or authoritarian capital controls, Bitcoin offers an escape valve. Citizens in various countries have turned to Bitcoin when local currencies collapsed.
+- **Wealth Preservation**: In countries experiencing hyperinflation or authoritarian capital controls, Bitcoin offers an escape valve. Citizens in various countries have turned to Bitcoin when local currencies collapsed.
 
 ## Technical Characteristics
 
@@ -66,14 +66,14 @@ Bitcoin sparked the entire cryptocurrency and blockchain industry. Its open-sour
 
 Today, Bitcoin supports a significant job market, with companies hiring blockchain developers, mining engineers, security researchers, and protocol developers. Careers in Bitcoin span:
 
-**Core Development**: Working on Bitcoin Core (the reference implementation) requires deep expertise in C++, cryptography, and distributed systems. These developers maintain and improve the protocol itself.
+- **Core Development**: Working on Bitcoin Core (the reference implementation) requires deep expertise in C++, cryptography, and distributed systems. These developers maintain and improve the protocol itself.
 
-**Lightning Network Engineering**: Building and maintaining Lightning infrastructure, payment channels, and routing algorithms for instant Bitcoin payments.
+- **Lightning Network Engineering**: Building and maintaining Lightning infrastructure, payment channels, and routing algorithms for instant Bitcoin payments.
 
-**Mining Operations**: Managing industrial mining facilities, optimizing hardware efficiency, and negotiating power purchase agreements.
+- **Mining Operations**: Managing industrial mining facilities, optimizing hardware efficiency, and negotiating power purchase agreements.
 
-**Security Research**: Finding vulnerabilities, conducting audits, and improving Bitcoin's cryptographic foundations.
+- **Security Research**: Finding vulnerabilities, conducting audits, and improving Bitcoin's cryptographic foundations.
 
-**Infrastructure Development**: Building exchanges, custody solutions, payment processors, and wallet applications.
+- **Infrastructure Development**: Building exchanges, custody solutions, payment processors, and wallet applications.
 
 Bitcoin's maturity and institutional adoption mean jobs often come with competitive salaries comparable to traditional tech roles, with the added dimension of contributing to a transformative monetary technology.

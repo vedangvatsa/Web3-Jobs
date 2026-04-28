@@ -15,15 +15,15 @@ Distributed Validator Technology refers to a cryptographic system that enables m
 
 How it works:
 
-**Key Splitting**: Validator key split into N shares using threshold cryptography. Example: 5 shares, need 3 to sign.
+- **Key Splitting**: Validator key split into N shares using threshold cryptography. Example: 5 shares, need 3 to sign.
 
-**Distributed Signing**: Each operator holds key share. To validate block, 3+ operators must cooperate.
+- **Distributed Signing**: Each operator holds key share. To validate block, 3+ operators must cooperate.
 
-**Threshold Cryptography**: Mathematical guarantee that can't forge signature with fewer than threshold operators.
+- **Threshold Cryptography**: Mathematical guarantee that can't forge signature with fewer than threshold operators.
 
-**Byzantine Tolerance**: With 5 operators, protocol tolerates 2 acting maliciously. Still safe.
+- **Byzantine Tolerance**: With 5 operators, protocol tolerates 2 acting maliciously. Still safe.
 
-**Slashing Prevention**: If one operator tries to slash, other operators prevent attack.
+- **Slashing Prevention**: If one operator tries to slash, other operators prevent attack.
 
 Threshold cryptography enables distributed trust.
 
@@ -31,17 +31,17 @@ Threshold cryptography enables distributed trust.
 
 Advantages:
 
-**Resilience**: Single operator failure doesn't stop validation. Network continues.
+- **Resilience**: Single operator failure doesn't stop validation. Network continues.
 
-**Security**: No single point of failure. Malicious operator can't harm validator.
+- **Security**: No single point of failure. Malicious operator can't harm validator.
 
-**Decentralization**: Validation becomes more decentralized. No single entity controls validator.
+- **Decentralization**: Validation becomes more decentralized. No single entity controls validator.
 
-**Accessibility**: More people can participate in staking without running full validator.
+- **Accessibility**: More people can participate in staking without running full validator.
 
-**Institutional Appeal**: Institutions are comfortable with shared responsibility models.
+- **Institutional Appeal**: Institutions are comfortable with shared responsibility models.
 
-**MEV Mitigation**: Distributed MEV collection across operators reduces single MEV risk.
+- **MEV Mitigation**: Distributed MEV collection across operators reduces single MEV risk.
 
 DVT significantly improves staking security and resilience.
 
@@ -49,13 +49,13 @@ DVT significantly improves staking security and resilience.
 
 Real systems:
 
-**Obol Labs**: Leading DVT infrastructure. Lido uses Obol DVT for distributed validation.
+- **Obol Labs**: Leading DVT infrastructure. Lido uses Obol DVT for distributed validation.
 
-**Diva Protocol**: DVT implementation enabling pooled staking with distributed validation.
+- **Diva Protocol**: DVT implementation enabling pooled staking with distributed validation.
 
-**Rocket Pool**: Enabling distributed validation for decentralized staking.
+- **Rocket Pool**: Enabling distributed validation for decentralized staking.
 
-**Lido**: A significant portion of Ethereum stake uses DVT (Obol).
+- **Lido**: A significant portion of Ethereum stake uses DVT (Obol).
 
 DVT is becoming mainstream in the staking ecosystem.
 
@@ -63,15 +63,15 @@ DVT is becoming mainstream in the staking ecosystem.
 
 Potential issues:
 
-**Complexity**: DVT adds operational complexity. Requires coordination between operators.
+- **Complexity**: DVT adds operational complexity. Requires coordination between operators.
 
-**Operator Collusion**: If threshold operators collude, they could potentially slash validator. Rare but possible.
+- **Operator Collusion**: If threshold operators collude, they could potentially slash validator. Rare but possible.
 
-**Latency**: Distributed signing adds latency. Can miss attestations if too slow.
+- **Latency**: Distributed signing adds latency. Can miss attestations if too slow.
 
-**Synchronization**: Operators must stay synchronized. Network problems cause issues.
+- **Synchronization**: Operators must stay synchronized. Network problems cause issues.
 
-**Limited Adoption**: DVT is still emerging. Many validators are not using DVT yet.
+- **Limited Adoption**: DVT is still emerging. Many validators are not using DVT yet.
 
 DVT risks are manageable but require careful implementation.
 
@@ -94,13 +94,13 @@ DVT is better for reliability; solo staking is simpler but riskier.
 
 Financial implications:
 
-**Cost**: Running a DVT validator costs less than solo due to distributed costs.
+- **Cost**: Running a DVT validator costs less than solo due to distributed costs.
 
-**Rewards**: Rewards are shared between operators. Less than solo staking but more reliable.
+- **Rewards**: Rewards are shared between operators. Less than solo staking but more reliable.
 
-**Insurance**: Some DVT systems offer insurance against slashing.
+- **Insurance**: Some DVT systems offer insurance against slashing.
 
-**Staking Pools**: Liquid staking pools increasingly use DVT, improving security.
+- **Staking Pools**: Liquid staking pools increasingly use DVT, improving security.
 
 DVT enables more sustainable staking economics through risk distribution.
 
@@ -122,27 +122,27 @@ DVT creates roles:
 
 DVT participation:
 
-**Choose Reputable Operators**: Select established operators with good track records.
+- **Choose Reputable Operators**: Select established operators with good track records.
 
-**Understand Terms**: Know how rewards are shared and what happens if an operator fails.
+- **Understand Terms**: Know how rewards are shared and what happens if an operator fails.
 
-**Monitor Operators**: Periodically check operator health and performance.
+- **Monitor Operators**: Periodically check operator health and performance.
 
-**Diversify**: If possible, spread stake across multiple DVT operators.
+- **Diversify**: If possible, spread stake across multiple DVT operators.
 
 ## The Future of DVT
 
 DVT evolution:
 
-**Mainstream Adoption**: DVT is becoming standard for institutional and pool staking.
+- **Mainstream Adoption**: DVT is becoming standard for institutional and pool staking.
 
-**Cross-Chain DVT**: DVT is extending to other proof-of-stake chains.
+- **Cross-Chain DVT**: DVT is extending to other proof-of-stake chains.
 
-**Improved Performance**: Latency and synchronization are improving through protocol improvements.
+- **Improved Performance**: Latency and synchronization are improving through protocol improvements.
 
-**Full Decentralization**: The vision is fully decentralized validator networks with DVT.
+- **Full Decentralization**: The vision is fully decentralized validator networks with DVT.
 
-**Validator Marketplaces**: Emerging marketplaces for DVT validation services.
+- **Validator Marketplaces**: Emerging marketplaces for DVT validation services.
 
 ## Distributed Validation Risk
 

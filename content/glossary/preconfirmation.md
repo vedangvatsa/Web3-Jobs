@@ -15,13 +15,13 @@ Preconfirmation refers to a commitment from validators or sequencers to include 
 
 Mechanics:
 
-**Commitment**: Validator or sequencer signs commitment to include transaction.
+- **Commitment**: Validator or sequencer signs commitment to include transaction.
 
-**Penalty**: If commitment is violated, the signer is slashed or penalized.
+- **Penalty**: If commitment is violated, the signer is slashed or penalized.
 
-**Fast Response**: User receives preconfirmation in milliseconds.
+- **Fast Response**: User receives preconfirmation in milliseconds.
 
-**Inclusion**: Transaction included in committed block.
+- **Inclusion**: Transaction included in committed block.
 
 Preconfirmations provide fast, credible commitments.
 
@@ -29,13 +29,13 @@ Preconfirmations provide fast, credible commitments.
 
 Advantages:
 
-**Low Latency**: Near-instant transaction certainty.
+- **Low Latency**: Near-instant transaction certainty.
 
-**Better UX**: Improves user experience for interactive apps.
+- **Better UX**: Improves user experience for interactive apps.
 
-**MEV Mitigation**: Can reduce MEV by ordering transactions early.
+- **MEV Mitigation**: Can reduce MEV by ordering transactions early.
 
-**Predictability**: Users know execution price before finality.
+- **Predictability**: Users know execution price before finality.
 
 Preconfirmations improve blockchain user experience significantly.
 
@@ -43,13 +43,13 @@ Preconfirmations improve blockchain user experience significantly.
 
 Challenges:
 
-**Slashing Enforcement**: Must enforce penalties for violations.
+- **Slashing Enforcement**: Must enforce penalties for violations.
 
-**Centralization**: Preconfirmation providers can become centralized.
+- **Centralization**: Preconfirmation providers can become centralized.
 
-**Partial Commitments**: Preconfirmations don't guarantee finality.
+- **Partial Commitments**: Preconfirmations don't guarantee finality.
 
-**Trust**: Users must trust preconfirmation providers.
+- **Trust**: Users must trust preconfirmation providers.
 
 Preconfirmations add trust assumptions.
 
@@ -57,13 +57,13 @@ Preconfirmations add trust assumptions.
 
 Applications:
 
-**DeFi Trading**: Fast confirmation for time-sensitive trades.
+- **DeFi Trading**: Fast confirmation for time-sensitive trades.
 
-**Gaming**: Low-latency game actions.
+- **Gaming**: Low-latency game actions.
 
-**Payments**: Instant payment confirmation.
+- **Payments**: Instant payment confirmation.
 
-**NFT Minting**: Guarantee mint inclusion during high demand.
+- **NFT Minting**: Guarantee mint inclusion during high demand.
 
 Preconfirmations suit latency-sensitive applications.
 
@@ -71,11 +71,11 @@ Preconfirmations suit latency-sensitive applications.
 
 Rollup implementation:
 
-**Sequencer Preconfs**: Sequencers commit to transaction ordering.
+- **Sequencer Preconfs**: Sequencers commit to transaction ordering.
 
-**Fast Finality**: Instant soft finality before Layer 1 posting.
+- **Fast Finality**: Instant soft finality before Layer 1 posting.
 
-**UX Improvement**: Better than waiting for Layer 1 finality.
+- **UX Improvement**: Better than waiting for Layer 1 finality.
 
 Layer 2s are a natural fit for preconfirmations.
 
@@ -93,21 +93,21 @@ Preconf roles:
 
 Using preconfirmations:
 
-**Check Penalties**: Ensure penalty mechanisms are strong.
+- **Check Penalties**: Ensure penalty mechanisms are strong.
 
-**Monitor Violations**: Track preconfirmation violation rates.
+- **Monitor Violations**: Track preconfirmation violation rates.
 
-**Diversify Providers**: Use multiple preconfirmation providers.
+- **Diversify Providers**: Use multiple preconfirmation providers.
 
 ## The Future of Preconfirmations
 
 Trends:
 
-**L1 Preconfs**: Ethereum Layer 1 preconfirmation protocols.
+- **L1 Preconfs**: Ethereum Layer 1 preconfirmation protocols.
 
-**L2 Adoption**: More rollups offering preconfirmations.
+- **L2 Adoption**: More rollups offering preconfirmations.
 
-**Standardization**: Industry standards for preconfirmations.
+- **Standardization**: Industry standards for preconfirmations.
 
 ## Commit to Fast Inclusion
 

@@ -15,17 +15,17 @@ Reentrancy is a smart contract vulnerability that occurs when a function can be 
 
 How attacks work:
 
-**1. Initial Call**: Attacker calls withdraw function. Contract checks balance (sufficient), then sends funds.
+- **1. Initial Call**: Attacker calls withdraw function. Contract checks balance (sufficient), then sends funds.
 
-**2. Before State Update**: Funds sent before balance is updated in contract storage.
+- **2. Before State Update**: Funds sent before balance is updated in contract storage.
 
-**3. Fallback Function**: Attacker's contract has fallback function triggered when receiving funds.
+- **3. Fallback Function**: Attacker's contract has fallback function triggered when receiving funds.
 
-**4. Recursive Call**: Fallback function calls withdraw again, triggering same function recursively.
+- **4. Recursive Call**: Fallback function calls withdraw again, triggering same function recursively.
 
-**5. Repeated**: Function executes again with outdated balance, pays attacker again.
+- **5. Repeated**: Function executes again with outdated balance, pays attacker again.
 
-**6. State Finally Updates**: After all recursive calls, balance finally updated. But attacker drained multiple times.
+- **6. State Finally Updates**: After all recursive calls, balance finally updated. But attacker drained multiple times.
 
 Recursive calls exploit delayed state updates.
 
@@ -33,15 +33,15 @@ Recursive calls exploit delayed state updates.
 
 Historical example:
 
-**Setup**: DAO held ETH. Users could withdraw funds by calling withdraw() function.
+- **Setup**: DAO held ETH. Users could withdraw funds by calling withdraw() function.
 
-**Vulnerability**: Withdraw function sent funds before updating balance ledger.
+- **Vulnerability**: Withdraw function sent funds before updating balance ledger.
 
-**Attack**: Attacker called withdraw(). Contract sent 1 ETH. Attacker's fallback function called withdraw() again. Got sent 1 ETH again. Repeated multiple times.
+- **Attack**: Attacker called withdraw(). Contract sent 1 ETH. Attacker's fallback function called withdraw() again. Got sent 1 ETH again. Repeated multiple times.
 
-**Result**: Attacker drained 3.6M ETH exploiting reentrancy.
+- **Result**: Attacker drained 3.6M ETH exploiting reentrancy.
 
-**Impact**: Hard fork required to recover funds. Spawned Ethereum Classic.
+- **Impact**: Hard fork required to recover funds. Spawned Ethereum Classic.
 
 The DAO hack was a significant moment for smart contract security.
 
@@ -49,7 +49,7 @@ The DAO hack was a significant moment for smart contract security.
 
 How to prevent:
 
-**Checks-Effects-Interactions**: Pattern ensuring state updates before interactions.
+- **Checks-Effects-Interactions**: Pattern ensuring state updates before interactions.
 
 ```solidity
 // BAD - Vulnerable to reentrancy
@@ -75,7 +75,7 @@ State should update before sending funds.
 
 Automated prevention:
 
-**Mutex Pattern**: Lock prevents function re-entry while executing.
+- **Mutex Pattern**: Lock prevents function re-entry while executing.
 
 ```solidity
 bool locked = false;
@@ -98,13 +98,13 @@ OpenZeppelin provides ReentrancyGuard ensuring non-reentrant execution.
 
 Different variations:
 
-**Single-Function Reentrancy**: Function calls itself. Most common.
+- **Single-Function Reentrancy**: Function calls itself. Most common.
 
-**Cross-Function Reentrancy**: Function A calls function B which calls function A. More subtle.
+- **Cross-Function Reentrancy**: Function A calls function B which calls function A. More subtle.
 
-**Cross-Contract Reentrancy**: Reentrancy across multiple contracts. Very subtle.
+- **Cross-Contract Reentrancy**: Reentrancy across multiple contracts. Very subtle.
 
-**Read-Only Reentrancy**: Reading inconsistent state during reentrancy (different vulnerability).
+- **Read-Only Reentrancy**: Reading inconsistent state during reentrancy (different vulnerability).
 
 Modern guard patterns protect against most variants.
 
@@ -112,11 +112,11 @@ Modern guard patterns protect against most variants.
 
 Modern examples:
 
-**Pancakebunny**: Reentrancy across multiple pools drained funds.
+- **Pancakebunny**: Reentrancy across multiple pools drained funds.
 
-**Cream Finance**: Cross-contract reentrancy via flash loans drained funds.
+- **Cream Finance**: Cross-contract reentrancy via flash loans drained funds.
 
-**bZx**: Multiple reentrancy vulnerabilities in DeFi protocols.
+- **bZx**: Multiple reentrancy vulnerabilities in DeFi protocols.
 
 Even modern protocols are vulnerable if not careful.
 
@@ -138,31 +138,31 @@ Security creates roles:
 
 Preventing reentrancy:
 
-**Use Checks-Effects-Interactions**: Always update state before interactions.
+- **Use Checks-Effects-Interactions**: Always update state before interactions.
 
-**Use Reentrancy Guards**: Use OpenZeppelin's ReentrancyGuard.
+- **Use Reentrancy Guards**: Use OpenZeppelin's ReentrancyGuard.
 
-**Avoid Dangerous Patterns**: Don't use .call for payments if possible.
+- **Avoid Dangerous Patterns**: Don't use .call for payments if possible.
 
-**Audit Thoroughly**: Have contracts professionally audited.
+- **Audit Thoroughly**: Have contracts professionally audited.
 
-**Test Edge Cases**: Include reentrancy tests in test suite.
+- **Test Edge Cases**: Include reentrancy tests in test suite.
 
-**Stay Updated**: Follow security best practices as patterns evolve.
+- **Stay Updated**: Follow security best practices as patterns evolve.
 
 ## The Future of Security
 
 Security evolution:
 
-**Formal Verification**: Proving contract correctness mathematically.
+- **Formal Verification**: Proving contract correctness mathematically.
 
-**Automated Auditing**: Tools automatically finding vulnerabilities.
+- **Automated Auditing**: Tools automatically finding vulnerabilities.
 
-**Safer Languages**: Languages with built-in safety.
+- **Safer Languages**: Languages with built-in safety.
 
-**Staged Rollouts**: More protocols doing careful staged rollouts.
+- **Staged Rollouts**: More protocols doing careful staged rollouts.
 
-**Bug Bounties**: Protocols offering bounties for vulnerability discovery.
+- **Bug Bounties**: Protocols offering bounties for vulnerability discovery.
 
 ## Prevent Recursive Attacks
 

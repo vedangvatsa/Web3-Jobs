@@ -15,19 +15,19 @@ Validator Queue refers to the mandatory waiting period that new validators must 
 
 How queues work:
 
-**Deposit**: New validator deposits required amount (32 ETH on Ethereum).
+- **Deposit**: New validator deposits required amount (32 ETH on Ethereum).
 
-**Entry Queue**: New validator enters queue waiting for activation.
+- **Entry Queue**: New validator enters queue waiting for activation.
 
-**Queue Position**: Based on deposit time or lottery system.
+- **Queue Position**: Based on deposit time or lottery system.
 
-**Activation Conditions**: Network-based conditions determining activation rate.
+- **Activation Conditions**: Network-based conditions determining activation rate.
 
-**Example**: Maximum 8 validators per slot (12 seconds). When full: 8 × 7,200 slots/day = 57,600 validators/day max activation.
+- **Example**: Maximum 8 validators per slot (12 seconds). When full: 8 × 7,200 slots/day = 57,600 validators/day max activation.
 
-**Queue Wait**: With thousands wanting to stake, queue can be weeks long.
+- **Queue Wait**: With thousands wanting to stake, queue can be weeks long.
 
-**Exit Queue**: Similar queue for exiting validators.
+- **Exit Queue**: Similar queue for exiting validators.
 
 Queues manage validator churn.
 
@@ -35,13 +35,13 @@ Queues manage validator churn.
 
 What queue reveals:
 
-**High Queue**: Many want to stake. Shows strong staking demand.
+- **High Queue**: Many want to stake. Shows strong staking demand.
 
-**Low Queue**: Few want to stake. Might indicate low staking incentives.
+- **Low Queue**: Few want to stake. Might indicate low staking incentives.
 
-**Growth**: Growing queue indicates increasing validator interest.
+- **Growth**: Growing queue indicates increasing validator interest.
 
-**Exit Queue**: High exit queue indicates validators leaving. Might indicate low rewards.
+- **Exit Queue**: High exit queue indicates validators leaving. Might indicate low rewards.
 
 Queue is useful market indicator.
 
@@ -49,13 +49,13 @@ Queue is useful market indicator.
 
 Protocol settings:
 
-**Activation Rate**: How many validators activate per slot. Higher equals faster queue.
+- **Activation Rate**: How many validators activate per slot. Higher equals faster queue.
 
-**Exit Rate**: How many validators can exit per slot. Limits sudden departures.
+- **Exit Rate**: How many validators can exit per slot. Limits sudden departures.
 
-**Churn**: Total validators entering plus exiting per slot. Limited to prevent instability.
+- **Churn**: Total validators entering plus exiting per slot. Limited to prevent instability.
 
-**Max Balance Change**: Limits how much stake can enter or exit.
+- **Max Balance Change**: Limits how much stake can enter or exit.
 
 Parameters carefully tuned balancing speed and stability.
 
@@ -63,15 +63,15 @@ Parameters carefully tuned balancing speed and stability.
 
 Financial implications:
 
-**Activation Delay Impact**: New validators wait weeks before earning rewards. Capital locked during wait.
+- **Activation Delay Impact**: New validators wait weeks before earning rewards. Capital locked during wait.
 
-**Opportunity Cost**: 32 ETH locked while waiting. Opportunity cost of not using capital elsewhere.
+- **Opportunity Cost**: 32 ETH locked while waiting. Opportunity cost of not using capital elsewhere.
 
-**ROI Calculation**: Staking ROI is approximately 5%. Waiting 2 months for activation means 2 months of lost rewards.
+- **ROI Calculation**: Staking ROI is approximately 5%. Waiting 2 months for activation means 2 months of lost rewards.
 
-**Timing Strategy**: Staking during low-queue periods is more attractive. Staking during high-queue periods is less attractive.
+- **Timing Strategy**: Staking during low-queue periods is more attractive. Staking during high-queue periods is less attractive.
 
-**Opportunity Windows**: When interest rates are high elsewhere, might not stake. Queue length is partly a function of interest rates elsewhere.
+- **Opportunity Windows**: When interest rates are high elsewhere, might not stake. Queue length is partly a function of interest rates elsewhere.
 
 Queue dynamics are influenced by financial incentives.
 
@@ -79,13 +79,13 @@ Queue dynamics are influenced by financial incentives.
 
 How queues affect behavior:
 
-**Liquid Staking Demand**: Long queues increase demand for liquid staking (Lido, Rocket Pool) enabling instant staking.
+- **Liquid Staking Demand**: Long queues increase demand for liquid staking (Lido, Rocket Pool) enabling instant staking.
 
-**Pool Premium**: Liquid staking pools might charge a premium during high-queue periods.
+- **Pool Premium**: Liquid staking pools might charge a premium during high-queue periods.
 
-**Validator Consolidation**: Long queues might reduce validator count as many decide waiting is not worth it.
+- **Validator Consolidation**: Long queues might reduce validator count as many decide waiting is not worth it.
 
-**Staking Supply**: Queue length reflects staking demand. Indicates ecosystem interest in staking.
+- **Staking Supply**: Queue length reflects staking demand. Indicates ecosystem interest in staking.
 
 Queue length is an economic indicator of staking demand and protocol security investment.
 
@@ -93,13 +93,13 @@ Queue length is an economic indicator of staking demand and protocol security in
 
 How validators respond:
 
-**Timing**: Some choose to stake during low-queue periods.
+- **Timing**: Some choose to stake during low-queue periods.
 
-**Solo Staking**: Avoid queue by using pools (though still wait, same queue).
+- **Solo Staking**: Avoid queue by using pools (though still wait, same queue).
 
-**Liquid Staking**: Use liquid staking pools to avoid queue (instant liquidity).
+- **Liquid Staking**: Use liquid staking pools to avoid queue (instant liquidity).
 
-**DVT**: Some use DVT pools enabling quicker entry.
+- **DVT**: Some use DVT pools enabling quicker entry.
 
 Validators manage queue through strategic choices.
 
@@ -121,29 +121,29 @@ Validator infrastructure creates roles:
 
 For prospective validators:
 
-**Monitor Queue**: Check queue length before deciding to stake.
+- **Monitor Queue**: Check queue length before deciding to stake.
 
-**Long-Term Mindset**: Plan to stake for long-term despite queue delay.
+- **Long-Term Mindset**: Plan to stake for long-term despite queue delay.
 
-**Diversify**: Use multiple staking methods (solo, pool, DVT).
+- **Diversify**: Use multiple staking methods (solo, pool, DVT).
 
-**Risk Management**: Understand validator risks (slashing, penalties).
+- **Risk Management**: Understand validator risks (slashing, penalties).
 
-**Stay Informed**: Keep up with protocol changes affecting staking.
+- **Stay Informed**: Keep up with protocol changes affecting staking.
 
 ## The Future of Queues
 
 Queue evolution:
 
-**Faster Activation**: Protocols may increase activation rates.
+- **Faster Activation**: Protocols may increase activation rates.
 
-**Better UX**: Improving tools showing queue expectations.
+- **Better UX**: Improving tools showing queue expectations.
 
-**Exit Flexibility**: More flexible exit mechanisms.
+- **Exit Flexibility**: More flexible exit mechanisms.
 
-**Distributed Queuing**: Queues across multiple protocols.
+- **Distributed Queuing**: Queues across multiple protocols.
 
-**Conditional Queuing**: Smart queue management based on protocol conditions.
+- **Conditional Queuing**: Smart queue management based on protocol conditions.
 
 ## Manage Validator Entry Smoothly
 

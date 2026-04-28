@@ -15,13 +15,13 @@ Block Builder refers to a specialized entity in blockchain infrastructure that c
 
 What builders do:
 
-**Transaction Collection**: Gather transactions from public mempool and private sources.
+- **Transaction Collection**: Gather transactions from public mempool and private sources.
 
-**MEV Extraction**: Order transactions to capture arbitrage, liquidations, and sandwiches.
+- **MEV Extraction**: Order transactions to capture arbitrage, liquidations, and sandwiches.
 
-**Block Construction**: Bundle transactions into optimized blocks.
+- **Block Construction**: Bundle transactions into optimized blocks.
 
-**Bidding**: Bid to proposers for block inclusion rights.
+- **Bidding**: Bid to proposers for block inclusion rights.
 
 Builders specialize in block value maximization.
 
@@ -29,13 +29,13 @@ Builders specialize in block value maximization.
 
 Market dynamics:
 
-**Competitive Bidding**: Builders compete by offering higher bids to proposers.
+- **Competitive Bidding**: Builders compete by offering higher bids to proposers.
 
-**Specialization**: Different builders optimize for different strategies.
+- **Specialization**: Different builders optimize for different strategies.
 
-**Private Order Flow**: Builders with exclusive order flow have advantages.
+- **Private Order Flow**: Builders with exclusive order flow have advantages.
 
-**Latency**: Faster builders can capture more MEV.
+- **Latency**: Faster builders can capture more MEV.
 
 Competition drives efficiency and value distribution.
 
@@ -43,13 +43,13 @@ Competition drives efficiency and value distribution.
 
 Concerns:
 
-**Censorship**: Dominant builders can censor transactions.
+- **Censorship**: Dominant builders can censor transactions.
 
-**Collusion**: Builders can collude with proposers.
+- **Collusion**: Builders can collude with proposers.
 
-**Market Power**: A few builders dominate most blocks.
+- **Market Power**: A few builders dominate most blocks.
 
-**Privacy Risk**: Builders see private transaction flow.
+- **Privacy Risk**: Builders see private transaction flow.
 
 Builder centralization is an ongoing concern.
 
@@ -57,13 +57,13 @@ Builder centralization is an ongoing concern.
 
 Current system:
 
-**Relays**: Intermediaries between builders and proposers.
+- **Relays**: Intermediaries between builders and proposers.
 
-**Block Submission**: Builders submit blocks to relays.
+- **Block Submission**: Builders submit blocks to relays.
 
-**Proposer Selection**: Validators choose the highest-paying block.
+- **Proposer Selection**: Validators choose the highest-paying block.
 
-**Revenue Share**: Builders pay validators and keep the remaining MEV.
+- **Revenue Share**: Builders pay validators and keep the remaining MEV.
 
 MEV-Boost enables builder-proposer separation.
 
@@ -71,13 +71,13 @@ MEV-Boost enables builder-proposer separation.
 
 Economics:
 
-**MEV Capture**: Builders capture arbitrage, liquidations, and other opportunities.
+- **MEV Capture**: Builders capture arbitrage, liquidations, and other opportunities.
 
-**Validator Payments**: Pay validators for inclusion rights.
+- **Validator Payments**: Pay validators for inclusion rights.
 
-**Profit Margin**: Keep the difference as profit.
+- **Profit Margin**: Keep the difference as profit.
 
-**Competition**: High competition compresses margins.
+- **Competition**: High competition compresses margins.
 
 Builder profitability depends on MEV capture and competition.
 
@@ -97,21 +97,21 @@ Builder ecosystem roles:
 
 Working with builders:
 
-**Understand Incentives**: Know how builders optimize blocks.
+- **Understand Incentives**: Know how builders optimize blocks.
 
-**Use Private Order Flow**: Submit to builders for MEV protection.
+- **Use Private Order Flow**: Submit to builders for MEV protection.
 
-**Monitor Censorship**: Track builder censorship rates.
+- **Monitor Censorship**: Track builder censorship rates.
 
 ## The Future of Block Builders
 
 Trends:
 
-**Decentralized Building**: More decentralized builder networks.
+- **Decentralized Building**: More decentralized builder networks.
 
-**Better Competition**: Lower barriers to entry.
+- **Better Competition**: Lower barriers to entry.
 
-**Enshrined PBS**: Protocol-native builder separation.
+- **Enshrined PBS**: Protocol-native builder separation.
 
 ## Construct Optimal Blocks
 

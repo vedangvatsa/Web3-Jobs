@@ -14,7 +14,7 @@ DEX refers to a decentralized exchange, a peer-to-peer cryptocurrency marketplac
 
 ## CEX vs DEX: Fundamental Differences
 
-**Centralized Exchanges (CEXs)**: Coinbase, Binance, Kraken
+- **Centralized Exchanges (CEXs)**: Coinbase, Binance, Kraken
 - Custody your funds, you trust the exchange
 - Fast order execution with order book matching
 - Fiat on-ramps (buy crypto with dollars)
@@ -22,7 +22,7 @@ DEX refers to a decentralized exchange, a peer-to-peer cryptocurrency marketplac
 - Subject to regulations, KYC requirements
 - Single point of failure (hacks, insolvency, government seizure)
 
-**Decentralized Exchanges (DEXs)**: Uniswap, Curve, PancakeSwap
+- **Decentralized Exchanges (DEXs)**: Uniswap, Curve, PancakeSwap
 - Non-custodial, you always control your keys
 - Trade directly from wallets via smart contracts
 - No registration, KYC, or account creation
@@ -49,7 +49,7 @@ Most DEXs use Automated Market Makers (AMMs) instead of order books:
 - Anyone can provide liquidity and earn fees
 - Efficient for on-chain implementation
 
-**Example Trade on Uniswap**:
+- **Example Trade on Uniswap**:
 1. Connect wallet (MetaMask, etc.)
 2. Select tokens to swap (ETH → USDC)
 3. DEX quotes price based on pool ratios
@@ -65,7 +65,7 @@ No account needed, no custody transfer, no withdrawal delays.
 
 Largest DEX by volume, pioneered AMM model on Ethereum.
 
-**Versions**:
+- **Versions**:
 - **V1** (2018): Proved AMM concept
 - **V2** (2020): Any token pairs, price oracles
 - **V3** (2021): Concentrated liquidity revolutionizing capital efficiency
@@ -107,9 +107,9 @@ Controversial origins (forked Uniswap code) but established legitimate product.
 
 Some DEXs use order books instead of AMMs:
 
-**dYdX**: Off-chain order book, on-chain settlement  
+- **dYdX**: Off-chain order book, on-chain settlement  
 **Serum** (Solana): On-chain order book  
-**Loopring**: ZK-rollup with order books  
+- **Loopring**: ZK-rollup with order books  
 
 Order books provide better execution for professional traders but are more complex to implement efficiently on-chain.
 
@@ -117,44 +117,44 @@ Order books provide better execution for professional traders but are more compl
 
 Route trades across multiple DEXs finding optimal prices:
 
-**1inch**: Most popular aggregator, sophisticated routing algorithms  
+- **1inch**: Most popular aggregator, sophisticated routing algorithms  
 **Matcha** (0x): Clean interface, MEV protection  
-**ParaSwap**: Multi-chain support  
+- **ParaSwap**: Multi-chain support  
 **Jupiter** (Solana): Dominant Solana aggregator  
 
 Aggregators are especially valuable for large trades that might suffer significant slippage on a single DEX.
 
 ## DEX Advantages
 
-**Self-Custody**: You control your keys, eliminating exchange hack and insolvency risk. "Not your keys, not your crypto."
+- **Self-Custody**: You control your keys, eliminating exchange hack and insolvency risk. "Not your keys, not your crypto."
 
-**Permissionless**: No KYC, no geographic restrictions, no account approval. Anyone with a wallet can trade.
+- **Permissionless**: No KYC, no geographic restrictions, no account approval. Anyone with a wallet can trade.
 
-**Token Availability**: New tokens launch on DEXs first. Access to thousands of tokens unavailable on CEXs.
+- **Token Availability**: New tokens launch on DEXs first. Access to thousands of tokens unavailable on CEXs.
 
-**Transparency**: All transactions on-chain, auditable by anyone. No hidden fees or wash trading.
+- **Transparency**: All transactions on-chain, auditable by anyone. No hidden fees or wash trading.
 
-**Composability**: DEX liquidity usable by other DeFi protocols. Your trading venue is also programmable infrastructure.
+- **Composability**: DEX liquidity usable by other DeFi protocols. Your trading venue is also programmable infrastructure.
 
-**Censorship Resistance**: No entity can freeze your funds or prevent trading.
+- **Censorship Resistance**: No entity can freeze your funds or prevent trading.
 
 ## DEX Disadvantages
 
-**User Experience**: Harder for newcomers. Need to manage wallets, gas fees, slippage settings.
+- **User Experience**: Harder for newcomers. Need to manage wallets, gas fees, slippage settings.
 
-**No Fiat On-Ramps**: Must acquire crypto elsewhere before using DEXs.
+- **No Fiat On-Ramps**: Must acquire crypto elsewhere before using DEXs.
 
-**Gas Fees**: Every trade costs blockchain transaction fees. During congestion, trades might be expensive on Ethereum.
+- **Gas Fees**: Every trade costs blockchain transaction fees. During congestion, trades might be expensive on Ethereum.
 
-**Slippage**: Large trades relative to liquidity suffer worse execution than order book exchanges.
+- **Slippage**: Large trades relative to liquidity suffer worse execution than order book exchanges.
 
-**Frontrunning/MEV**: Public mempools allow bots to front-run trades, extracting value from users.
+- **Frontrunning/MEV**: Public mempools allow bots to front-run trades, extracting value from users.
 
-**Scam Tokens**: Anyone can list tokens, including rugpulls and scams. CEXs vet listings; DEXs don't.
+- **Scam Tokens**: Anyone can list tokens, including rugpulls and scams. CEXs vet listings; DEXs don't.
 
-**No Support**: Make a mistake (send to wrong address, etc.), and there's no customer service to reverse it.
+- **No Support**: Make a mistake (send to wrong address, etc.), and there's no customer service to reverse it.
 
-**Speed**: CEX order execution is instant; DEX trades wait for block confirmations.
+- **Speed**: CEX order execution is instant; DEX trades wait for block confirmations.
 
 ## Impermanent Loss for Liquidity Providers
 
@@ -166,19 +166,19 @@ This makes DEX liquidity provision more complex than simply depositing on CEX fo
 
 ## DEX Trading Volume and Metrics
 
-**Spot DEX Volume**: Significant during bull markets  
-**Ethereum Dominance**: A large portion of spot DEX volume  
-**Layer 2 Growth**: Arbitrum and Optimism gaining market share with lower fees  
+- **Spot DEX Volume**: Significant during bull markets  
+- **Ethereum Dominance**: A large portion of spot DEX volume  
+- **Layer 2 Growth**: Arbitrum and Optimism gaining market share with lower fees  
 
 During DeFi Summer (2020) and NFT boom (2021), DEX volume sometimes exceeded CEX volume for Ethereum-based tokens.
 
 ## Multi-Chain DEXs
 
-**PancakeSwap**: Dominant on BNB Chain  
-**Trader Joe**: Leading Avalanche DEX  
-**SpookySwap**: Fantom ecosystem  
-**QuickSwap**: Polygon's top DEX  
-**Raydium**: Major Solana DEX  
+- **PancakeSwap**: Dominant on BNB Chain  
+- **Trader Joe**: Leading Avalanche DEX  
+- **SpookySwap**: Fantom ecosystem  
+- **QuickSwap**: Polygon's top DEX  
+- **Raydium**: Major Solana DEX  
 
 Every blockchain ecosystem has native DEXs, fragmenting liquidity but enabling competition.
 
@@ -186,9 +186,9 @@ Every blockchain ecosystem has native DEXs, fragmenting liquidity but enabling c
 
 Emerging protocols enabling swaps across blockchains:
 
-**THORChain**: Native cross-chain swaps (BTC ↔ ETH)  
-**Synapse**: Cross-chain bridge with DEX features  
-**Stargate**: Omnichain liquidity protocol  
+- **THORChain**: Native cross-chain swaps (BTC ↔ ETH)  
+- **Synapse**: Cross-chain bridge with DEX features  
+- **Stargate**: Omnichain liquidity protocol  
 
 Cross-chain remains challenging technically and introduces additional trust assumptions.
 
@@ -196,9 +196,9 @@ Cross-chain remains challenging technically and introduces additional trust assu
 
 DEX transactions sit in public mempools before confirmation. Bots scan for profitable trades and front-run them:
 
-**Sandwich Attacks**: Bot places trades before and after yours, profiting from your price impact.
+- **Sandwich Attacks**: Bot places trades before and after yours, profiting from your price impact.
 
-**Frontrunning**: Bot copies your trade but with higher gas, executing first.
+- **Frontrunning**: Bot copies your trade but with higher gas, executing first.
 
 Solutions include MEV protection, private mempools, or using protocols designed to mitigate MEV.
 
@@ -213,20 +213,20 @@ The regulatory future remains uncertain, with different countries taking varying
 
 ## Career Opportunities
 
-**DEX Protocol Engineer**: Builds AMM contracts, optimizes gas usage, implements new curve designs. Solidity mastery essential.
+- **DEX Protocol Engineer**: Builds AMM contracts, optimizes gas usage, implements new curve designs. Solidity mastery essential.
 
-**Frontend Developer**: Creates DEX interfaces, integrates wallets, visualizes liquidity. React plus Web3 libraries.
+- **Frontend Developer**: Creates DEX interfaces, integrates wallets, visualizes liquidity. React plus Web3 libraries.
 
-**Smart Contract Auditor**: Audits DEX contracts for vulnerabilities. Critical given value at risk.
+- **Smart Contract Auditor**: Audits DEX contracts for vulnerabilities. Critical given value at risk.
 
-**Liquidity Strategist**: Manages protocol-owned liquidity, designs incentive programs, analyzes market making.
+- **Liquidity Strategist**: Manages protocol-owned liquidity, designs incentive programs, analyzes market making.
 
-**MEV Researcher**: Studies MEV in DEXs, develops protection mechanisms, or builds MEV extraction bots.
+- **MEV Researcher**: Studies MEV in DEXs, develops protection mechanisms, or builds MEV extraction bots.
 
-**Trading Algorithm Developer**: Builds arbitrage bots, market making strategies, automated trading systems for DEXs.
+- **Trading Algorithm Developer**: Builds arbitrage bots, market making strategies, automated trading systems for DEXs.
 
-**Product Manager**: Defines DEX features, prioritizes development, conducts user research.
+- **Product Manager**: Defines DEX features, prioritizes development, conducts user research.
 
-**DeFi Analyst**: Tracks DEX metrics, analyzes volume trends, evaluates tokenomics.
+- **DeFi Analyst**: Tracks DEX metrics, analyzes volume trends, evaluates tokenomics.
 
 DEXs represent the financial application that proved DeFi's viability. From Uniswap's initial launch to today's sophisticated multi-chain ecosystem with concentrated liquidity and aggregators, DEXs have evolved into legitimate trading venues. Understanding DEX mechanics, liquidity provision, and trade-offs between centralized and decentralized trading is fundamental to participating in crypto markets. The DEX sector continues innovating with cross-chain swaps, MEV protection, and improved user experience, creating opportunities for developers, traders, and liquidity providers to participate in permissionless finance.

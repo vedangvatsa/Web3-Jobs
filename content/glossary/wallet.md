@@ -28,18 +28,18 @@ When you "send" cryptocurrency, your wallet creates a transaction message, signs
 
 ## Types of Wallets
 
-**Hot Wallets**: Connected to the internet for convenient access. Includes:
+- **Hot Wallets**: Connected to the internet for convenient access. Includes:
 
 - **Browser Extensions**: MetaMask, Rabby, Phantom, click-to-connect for Web3 apps
 - **Mobile Apps**: Trust Wallet, Coinbase Wallet, scan QR codes for transactions
 - **Web Wallets**: Accessed through browsers, sometimes custodial
 
-**Cold Wallets**: Offline storage for enhanced security:
+- **Cold Wallets**: Offline storage for enhanced security:
 
 - **Hardware Wallets**: Physical devices like Ledger or Trezor that sign transactions offline
 - **Paper Wallets**: Private keys printed or written on paper
 
-**Custodial vs. Non-Custodial**:
+- **Custodial vs. Non-Custodial**:
 
 - **Custodial**: A company controls your private keys
 - **Non-Custodial**: You control your own keys ("not your keys, not your crypto")
@@ -57,25 +57,25 @@ Your seed phrase is the master key to your funds. Anyone with access to it can c
 
 ## Popular Wallet Options
 
-**MetaMask**: The most widely-used Ethereum wallet, supporting browser extensions and mobile apps. Essential for most DeFi and NFT interactions.
+- **MetaMask**: The most widely-used Ethereum wallet, supporting browser extensions and mobile apps. Essential for most DeFi and NFT interactions.
 
-**Ledger**: Leading hardware wallet manufacturer offering multiple devices at different price points.
+- **Ledger**: Leading hardware wallet manufacturer offering multiple devices at different price points.
 
-**Coinbase Wallet**: Non-custodial wallet from Coinbase, separate from their exchange accounts.
+- **Coinbase Wallet**: Non-custodial wallet from Coinbase, separate from their exchange accounts.
 
-**Trust Wallet**: Mobile-first wallet supporting dozens of blockchains.
+- **Trust Wallet**: Mobile-first wallet supporting dozens of blockchains.
 
-**Rainbow**: User-friendly mobile wallet popular with NFT collectors.
+- **Rainbow**: User-friendly mobile wallet popular with NFT collectors.
 
 ## Security Considerations
 
-**Transaction Signing**: Always verify transaction details before signing. Malicious contracts can drain wallets if approved.
+- **Transaction Signing**: Always verify transaction details before signing. Malicious contracts can drain wallets if approved.
 
-**Revoke Permissions**: Regularly audit and revoke smart contract approvals you no longer use.
+- **Revoke Permissions**: Regularly audit and revoke smart contract approvals you no longer use.
 
-**Phishing**: Verify URLs and contract addresses. Scammers create fake websites mimicking legitimate dApps.
+- **Phishing**: Verify URLs and contract addresses. Scammers create fake websites mimicking legitimate dApps.
 
-**Hardware Wallets for Large Holdings**: If you hold significant value, hardware wallets provide the best security against remote attacks.
+- **Hardware Wallets for Large Holdings**: If you hold significant value, hardware wallets provide the best security against remote attacks.
 
 ## Wallet Connectivity in Web3
 
@@ -109,36 +109,36 @@ Gnosis Safe is a multi-sig platform securing assets for DAOs and protocols.
 
 Traditional wallets are Externally Owned Accounts (EOAs), addresses controlled by private keys. Smart contract wallets are contracts with programmed logic:
 
-**Benefits**:
+- **Benefits**:
 - Social recovery: Trusted contacts can help recover lost access
 - Spending limits: Restrict transaction amounts without additional approval
 - Session keys: Temporary keys for gaming or apps with limited permissions
 - Gasless transactions: Someone else can pay gas fees
 - Batched transactions: Execute multiple operations atomically
 
-**ERC-4337 Account Abstraction**: New standard enabling smart contract wallet features without protocol changes. Argent and Safe are pioneering adoption.
+- **ERC-4337 Account Abstraction**: New standard enabling smart contract wallet features without protocol changes. Argent and Safe are pioneering adoption.
 
 ## Wallet Security Best Practices
 
-**Seed Phrase Security**:
+- **Seed Phrase Security**:
 - Write on paper or metal, never digital screenshots
 - Store copies in multiple secure locations
 - Never enter seed phrases on computers connected to the internet
 - Test recovery process with small amounts first
 
-**Transaction Signing**:
+- **Transaction Signing**:
 - Verify contract addresses before approving
 - Check token amounts and permissions requested
 - Understand unlimited approvals, they persist until revoked
 - Use tools like Revoke.cash to audit and revoke old approvals
 
-**Phishing Prevention**:
+- **Phishing Prevention**:
 - Bookmark legitimate dApp URLs
 - Verify contract addresses on multiple sources
 - Be suspicious of unexpected token airdrops
 - Never share screen during support calls
 
-**Device Security**:
+- **Device Security**:
 - Keep wallet software updated
 - Use dedicated browsers for crypto
 - Avoid public WiFi for sensitive transactions
@@ -146,27 +146,27 @@ Traditional wallets are Externally Owned Accounts (EOAs), addresses controlled b
 
 ## Wallet Comparison by Use Case
 
-**For Beginners**: Coinbase Wallet or Trust Wallet offer intuitive interfaces with good documentation and support.
+- **For Beginners**: Coinbase Wallet or Trust Wallet offer intuitive interfaces with good documentation and support.
 
-**For DeFi Power Users**: MetaMask or Rabby provide extensive dApp compatibility and advanced features like custom RPCs.
+- **For DeFi Power Users**: MetaMask or Rabby provide extensive dApp compatibility and advanced features like custom RPCs.
 
-**For NFT Collectors**: Rainbow (mobile) or Frame (desktop) offer elegant NFT galleries and smooth minting experiences.
+- **For NFT Collectors**: Rainbow (mobile) or Frame (desktop) offer elegant NFT galleries and smooth minting experiences.
 
-**For Maximum Security**: Ledger or Trezor hardware wallets for significant holdings, especially long-term holds.
+- **For Maximum Security**: Ledger or Trezor hardware wallets for significant holdings, especially long-term holds.
 
-**For DAOs and Organizations**: Gnosis Safe multi-sig for shared treasury management with role-based permissions.
+- **For DAOs and Organizations**: Gnosis Safe multi-sig for shared treasury management with role-based permissions.
 
-**For Cross-Chain**: Trust Wallet or Coinbase Wallet support multiple blockchains, reducing wallet fragmentation.
+- **For Cross-Chain**: Trust Wallet or Coinbase Wallet support multiple blockchains, reducing wallet fragmentation.
 
 ## Mobile vs Desktop Wallets
 
-**Mobile Advantages**:
+- **Mobile Advantages**:
 - QR code scanning for easy transactions
 - Always accessible
 - Better for point-of-sale crypto payments
 - Biometric authentication
 
-**Desktop Advantages**:
+- **Desktop Advantages**:
 - Larger screens for reviewing complex transactions
 - Better for extended DeFi sessions
 - Hardware wallet integration
@@ -178,28 +178,28 @@ Enables mobile wallets to interact with desktop dApps securely. Scan a QR code t
 
 ## The Future: Wallet Innovation
 
-**Biometric Recovery**: Using face or fingerprint recognition for key recovery without seed phrases.
+- **Biometric Recovery**: Using face or fingerprint recognition for key recovery without seed phrases.
 
-**Social Recovery**: Guardians can help recover accounts through cryptographic schemes.
+- **Social Recovery**: Guardians can help recover accounts through cryptographic schemes.
 
-**Intent-Based Transactions**: Describe desired outcomes rather than specific transaction parameters.
+- **Intent-Based Transactions**: Describe desired outcomes rather than specific transaction parameters.
 
-**Embedded Wallets**: Applications with built-in wallets for smoother onboarding, abstracting private key management.
+- **Embedded Wallets**: Applications with built-in wallets for smoother onboarding, abstracting private key management.
 
-**Privacy-Preserving Features**: Zero-knowledge proofs enabling private transactions while maintaining compliance.
+- **Privacy-Preserving Features**: Zero-knowledge proofs enabling private transactions while maintaining compliance.
 
 ## Career Opportunities in Wallet Technology
 
-**Wallet Developer**: Building wallet infrastructure, key management systems, and transaction signing flows. Requires cryptography and security expertise.
+- **Wallet Developer**: Building wallet infrastructure, key management systems, and transaction signing flows. Requires cryptography and security expertise.
 
-**Security Researcher**: Auditing wallet code, discovering vulnerabilities, developing security protocols.
+- **Security Researcher**: Auditing wallet code, discovering vulnerabilities, developing security protocols.
 
-**UX Designer**: Simplifying complex crypto operations for mainstream users.
+- **UX Designer**: Simplifying complex crypto operations for mainstream users.
 
-**Mobile Developer**: Building iOS/Android wallet apps. Requires native development skills plus crypto knowledge.
+- **Mobile Developer**: Building iOS/Android wallet apps. Requires native development skills plus crypto knowledge.
 
-**Product Manager**: Defining wallet features, prioritizing development, conducting user research.
+- **Product Manager**: Defining wallet features, prioritizing development, conducting user research.
 
-**DevRel Engineer**: Creating documentation, SDKs, and developer tools for wallet integration.
+- **DevRel Engineer**: Creating documentation, SDKs, and developer tools for wallet integration.
 
 Wallet security and usability remain significant barriers to crypto adoption. Improving wallet technology is fundamental to making blockchain accessible to users. Companies like MetaMask, Coinbase, Ledger, Argent, and Safe are at the forefront of wallet innovation, constantly hiring talented engineers and designers.

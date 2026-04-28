@@ -15,17 +15,17 @@ Proof of Authority is a consensus mechanism where a limited set of pre-approved,
 
 The mechanism:
 
-**Validator Selection**: A set of trusted, pre-approved validators are designated to create blocks.
+- **Validator Selection**: A set of trusted, pre-approved validators are designated to create blocks.
 
-**Block Creation**: Validators take turns creating blocks. Each block is signed by its creator.
+- **Block Creation**: Validators take turns creating blocks. Each block is signed by its creator.
 
-**Validation**: Other validators verify that the signature belongs to an approved validator.
+- **Validation**: Other validators verify that the signature belongs to an approved validator.
 
-**Consensus**: A block is accepted if signed by an approved validator. There is no mining competition.
+- **Consensus**: A block is accepted if signed by an approved validator. There is no mining competition.
 
-**Misbehavior Handling**: If a validator signs conflicting blocks or otherwise misbehaves, they can be removed from the validator set.
+- **Misbehavior Handling**: If a validator signs conflicting blocks or otherwise misbehaves, they can be removed from the validator set.
 
-**Finality**: Blocks are final after being included. There is no risk of reorganization.
+- **Finality**: Blocks are final after being included. There is no risk of reorganization.
 
 Speed and efficiency are PoA's strengths. There is no computational work needed and no capital requirement.
 
@@ -33,19 +33,19 @@ Speed and efficiency are PoA's strengths. There is no computational work needed 
 
 Defining traits:
 
-**Centralized Approval**: A central authority usually decides which validators are approved, making PoA centralized.
+- **Centralized Approval**: A central authority usually decides which validators are approved, making PoA centralized.
 
-**Identity-Based**: Validators must reveal their identity. Reputational risk deters misbehavior.
+- **Identity-Based**: Validators must reveal their identity. Reputational risk deters misbehavior.
 
-**Fast Blocks**: Blocks are created in seconds, with minimal latency. This is significantly faster than PoW or PoS.
+- **Fast Blocks**: Blocks are created in seconds, with minimal latency. This is significantly faster than PoW or PoS.
 
-**Low Fees**: Minimal resource usage results in minimal fees.
+- **Low Fees**: Minimal resource usage results in minimal fees.
 
-**Energy Efficient**: No computational work means very low energy usage.
+- **Energy Efficient**: No computational work means very low energy usage.
 
-**Validator Set Risk**: If all approved validators collude, they can attack the network. Risk is concentrated in a small set.
+- **Validator Set Risk**: If all approved validators collude, they can attack the network. Risk is concentrated in a small set.
 
-**Permissioned**: Blockchains using PoA are permissioned, meaning only approved validators can participate.
+- **Permissioned**: Blockchains using PoA are permissioned, meaning only approved validators can participate.
 
 PoA is designed for speed and efficiency in private or controlled settings, not for trustless public consensus.
 
@@ -55,11 +55,11 @@ Practical implementations:
 
 **Ethereum Testnets** (Goerli, Sepolia): Ethereum's public testnets use PoA. Consensus is by designated validators.
 
-**VeChain (VET)**: Public blockchain using PoA for fast, efficient transactions.
+- **VeChain (VET)**: Public blockchain using PoA for fast, efficient transactions.
 
 **Aura** (Substrate): Proof-of-Authority for Substrate-based chains.
 
-**Polygon PoS**: Polygon sidechain initially used PoA for validator management.
+- **Polygon PoS**: Polygon sidechain initially used PoA for validator management.
 
 **Binance Smart Chain** (BSC): Initially used PoA with Binance-approved validators.
 
@@ -69,17 +69,17 @@ Many public chains use PoA initially for speed during early development, plannin
 
 Inherent risks:
 
-**Centralized Control**: Validator approval is centralized. Whoever controls approval controls consensus.
+- **Centralized Control**: Validator approval is centralized. Whoever controls approval controls consensus.
 
-**Collusion**: If validators collude, they can attack the network, double-spend, or rewrite history.
+- **Collusion**: If validators collude, they can attack the network, double-spend, or rewrite history.
 
-**Validator Theft**: Approved validators could steal funds without consequence if removing them is slow.
+- **Validator Theft**: Approved validators could steal funds without consequence if removing them is slow.
 
-**Governance Capture**: A central authority approving validators might be captured, leading to poor validator selection.
+- **Governance Capture**: A central authority approving validators might be captured, leading to poor validator selection.
 
-**No Trustlessness**: PoA fundamentally requires trusting validators. It is not truly decentralized.
+- **No Trustlessness**: PoA fundamentally requires trusting validators. It is not truly decentralized.
 
-**Single Point of Failure**: The disappearance of the central authority leaves the chain in limbo.
+- **Single Point of Failure**: The disappearance of the central authority leaves the chain in limbo.
 
 PoA is suitable only where centralization risk is acceptable.
 
@@ -87,15 +87,15 @@ PoA is suitable only where centralization risk is acceptable.
 
 How blockchains use PoA:
 
-**Testnets**: Used for public testnets. Safe because failure does not risk real funds.
+- **Testnets**: Used for public testnets. Safe because failure does not risk real funds.
 
-**Early Stages**: Many new chains start with PoA for speed, planning a transition to PoS or PoW.
+- **Early Stages**: Many new chains start with PoA for speed, planning a transition to PoS or PoW.
 
-**Private Blockchains**: Enterprise blockchains use PoA for controlled, fast consensus.
+- **Private Blockchains**: Enterprise blockchains use PoA for controlled, fast consensus.
 
-**Sidechains**: Sidechains often use PoA for speed, with cross-chain bridges providing security.
+- **Sidechains**: Sidechains often use PoA for speed, with cross-chain bridges providing security.
 
-**Governance Sidechains**: Using PoA for governance-specific chains handling voting efficiently.
+- **Governance Sidechains**: Using PoA for governance-specific chains handling voting efficiently.
 
 PoA sees use in specific contexts where decentralization is not paramount.
 
@@ -115,11 +115,11 @@ PoA optimizes for speed and efficiency at the cost of decentralization.
 
 Chains moving to decentralized consensus:
 
-**Ethereum**: Goerli testnet is planning a transition from PoA to a more decentralized mechanism.
+- **Ethereum**: Goerli testnet is planning a transition from PoA to a more decentralized mechanism.
 
-**Polygon**: Transitioning from PoA toward more decentralized validation.
+- **Polygon**: Transitioning from PoA toward more decentralized validation.
 
-**Binance Chain**: Plans to transition toward more decentralized consensus.
+- **Binance Chain**: Plans to transition toward more decentralized consensus.
 
 As blockchains mature, they often seek to decentralize beyond PoA.
 
@@ -139,25 +139,25 @@ PoA creates specific roles:
 
 Using PoA blockchains:
 
-**Understand Risks**: PoA chains are centralized. Accept this risk or avoid them.
+- **Understand Risks**: PoA chains are centralized. Accept this risk or avoid them.
 
-**Monitor Validators**: Know who the validators are and assess their trustworthiness.
+- **Monitor Validators**: Know who the validators are and assess their trustworthiness.
 
-**Diversify Chains**: Do not concentrate assets in a single PoA chain.
+- **Diversify Chains**: Do not concentrate assets in a single PoA chain.
 
-**Plan Transitions**: If using a PoA chain, understand their plan for future decentralization.
+- **Plan Transitions**: If using a PoA chain, understand their plan for future decentralization.
 
 ## The Future of PoA
 
 PoA evolution:
 
-**Better Validator Selection**: More sophisticated mechanisms for selecting and approving validators.
+- **Better Validator Selection**: More sophisticated mechanisms for selecting and approving validators.
 
-**Multi-Chain PoA**: Using PoA for specific functions while maintaining PoS consensus overall.
+- **Multi-Chain PoA**: Using PoA for specific functions while maintaining PoS consensus overall.
 
-**Delegation**: Delegating validation to approved parties while the majority decides approval.
+- **Delegation**: Delegating validation to approved parties while the majority decides approval.
 
-**Regulatory PoA**: Potential PoA mechanisms designed specifically for regulatory compliance.
+- **Regulatory PoA**: Potential PoA mechanisms designed specifically for regulatory compliance.
 
 ## Centralized for Speed
 

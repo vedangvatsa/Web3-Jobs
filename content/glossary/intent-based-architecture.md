@@ -15,15 +15,15 @@ Intent-Based Architecture refers to a blockchain design where users declare thei
 
 What intents look like:
 
-**Simple Intent**: "Swap 1 ETH for at least 2000 USDC"
+- **Simple Intent**: "Swap 1 ETH for at least 2000 USDC"
 
-**Complex Intent**: "Borrow 1000 USDC at <5% APY, use to buy tokens X and Y with portfolio weights 60/40"
+- **Complex Intent**: "Borrow 1000 USDC at <5% APY, use to buy tokens X and Y with portfolio weights 60/40"
 
-**Time-Based**: "Swap 1000 USDC to 0.5 ETH, execute by tomorrow"
+- **Time-Based**: "Swap 1000 USDC to 0.5 ETH, execute by tomorrow"
 
-**Conditional**: "If ETH drops below $1500, buy 1 ETH"
+- **Conditional**: "If ETH drops below $1500, buy 1 ETH"
 
-**Composable**: Chain intents enabling complex strategies
+- **Composable**: Chain intents enabling complex strategies
 
 Intents are a flexible way to express desires.
 
@@ -31,17 +31,17 @@ Intents are a flexible way to express desires.
 
 How solvers work:
 
-**Intent Pooling**: Users submit intents to an intent pool.
+- **Intent Pooling**: Users submit intents to an intent pool.
 
-**Solver Competition**: Multiple solvers observe intents and compete for fulfillment.
+- **Solver Competition**: Multiple solvers observe intents and compete for fulfillment.
 
-**Optimization**: Each solver finds the best execution path for the intent.
+- **Optimization**: Each solver finds the best execution path for the intent.
 
-**Bid Submission**: Solvers submit bids including execution path and value transfer to the user.
+- **Bid Submission**: Solvers submit bids including execution path and value transfer to the user.
 
-**Auction**: Intents are allocated to the highest bidder.
+- **Auction**: Intents are allocated to the highest bidder.
 
-**Execution**: The winning solver executes the intent on-chain.
+- **Execution**: The winning solver executes the intent on-chain.
 
 Solver competition drives value to users.
 
@@ -49,15 +49,15 @@ Solver competition drives value to users.
 
 Real implementations:
 
-**CoW Protocol**: Batch auction using intent-like orders.
+- **CoW Protocol**: Batch auction using intent-like orders.
 
-**MEV Burn**: Fairness-driven solver selection burning MEV.
+- **MEV Burn**: Fairness-driven solver selection burning MEV.
 
-**Uniswap Intent Router**: Research exploring intent routing.
+- **Uniswap Intent Router**: Research exploring intent routing.
 
-**Flashbots Threshold Encryption**: Private intent submission with decryption.
+- **Flashbots Threshold Encryption**: Private intent submission with decryption.
 
-**Anoma**: Protocol-level intent settlement.
+- **Anoma**: Protocol-level intent settlement.
 
 Intent-based systems are emerging across DeFi.
 
@@ -80,13 +80,13 @@ Intent-based systems offer significant advantages.
 
 Confidentiality considerations:
 
-**Private Intent Submission**: Encrypt intents to prevent observation before solving.
+- **Private Intent Submission**: Encrypt intents to prevent observation before solving.
 
-**Threshold Encryption**: Decrypt only after commitment to the solution.
+- **Threshold Encryption**: Decrypt only after commitment to the solution.
 
-**Trusted Execution**: Use Trusted Execution Environments for confidential solving.
+- **Trusted Execution**: Use Trusted Execution Environments for confidential solving.
 
-**Privacy Preservation**: Prevent MEV by hiding intents until commitment.
+- **Privacy Preservation**: Prevent MEV by hiding intents until commitment.
 
 Privacy is critical for intent-based systems to prevent sniping.
 
@@ -94,15 +94,15 @@ Privacy is critical for intent-based systems to prevent sniping.
 
 Obstacles:
 
-**Solver Centralization**: If few solvers exist, there is a concentration risk.
+- **Solver Centralization**: If few solvers exist, there is a concentration risk.
 
-**Intent Complexity**: Complex intents are hard to express and solve.
+- **Intent Complexity**: Complex intents are hard to express and solve.
 
-**Latency**: Solving intents adds latency compared to immediate execution.
+- **Latency**: Solving intents adds latency compared to immediate execution.
 
-**Solver Trust**: Users must trust solvers to execute intents as specified.
+- **Solver Trust**: Users must trust solvers to execute intents as specified.
 
-**Standardization**: There is a need for standards for expressing and comparing intents.
+- **Standardization**: There is a need for standards for expressing and comparing intents.
 
 Intent-based architecture is still in the research stage with open challenges.
 
@@ -124,27 +124,27 @@ Intent-based systems create roles:
 
 Using intent systems:
 
-**Express Clearly**: Make intents as specific as possible.
+- **Express Clearly**: Make intents as specific as possible.
 
-**Monitor Solvers**: Understand solver reputation and incentives.
+- **Monitor Solvers**: Understand solver reputation and incentives.
 
-**Privacy**: Use encrypted submissions when available.
+- **Privacy**: Use encrypted submissions when available.
 
-**Fallbacks**: Have a backup execution plan if the intent is unfulfilled.
+- **Fallbacks**: Have a backup execution plan if the intent is unfulfilled.
 
 ## The Future of Intent-Based
 
 Evolution:
 
-**Standardization**: Industry standards for intent expression.
+- **Standardization**: Industry standards for intent expression.
 
-**Cross-Chain**: Intents spanning multiple chains.
+- **Cross-Chain**: Intents spanning multiple chains.
 
-**Decentralized Solvers**: More distributed solver networks.
+- **Decentralized Solvers**: More distributed solver networks.
 
-**Privacy Default**: Encrypted intents becoming standard.
+- **Privacy Default**: Encrypted intents becoming standard.
 
-**Mainstream Adoption**: Shift from transactions to intents.
+- **Mainstream Adoption**: Shift from transactions to intents.
 
 ## Express Desired Outcomes
 

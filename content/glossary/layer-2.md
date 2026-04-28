@@ -27,10 +27,10 @@ Ethereum chose the third path: keep Layer 1 secure and decentralized, handle vol
 
 L2 solutions process transactions off Ethereum mainnet (Layer 1), then periodically commit batched transaction data to mainnet. This creates:
 
-**Higher throughput**: Hundreds of off-chain transactions per mainnet transaction  
-**Cost reduction**: Distribute mainnet gas costs across many transactions  
-**Maintained security**: Mainnet can verify L2 transaction validity  
-**Ethereum settlement**: Final settlement on Ethereum provides security guarantees  
+- **Higher throughput**: Hundreds of off-chain transactions per mainnet transaction  
+- **Cost reduction**: Distribute mainnet gas costs across many transactions  
+- **Maintained security**: Mainnet can verify L2 transaction validity  
+- **Ethereum settlement**: Final settlement on Ethereum provides security guarantees  
 
 Think of it like local bank branches handling daily transactions but settling with the central bank periodically. The central bank (Ethereum) provides ultimate security and finality.
 
@@ -40,24 +40,24 @@ Think of it like local bank branches handling daily transactions but settling wi
 
 Assume transactions are valid by default ("optimistic"). Anyone can challenge suspicious transactions during a dispute period (usually 7 days).
 
-**How They Work**:
+- **How They Work**:
 1. Sequencer collects transactions off-chain
 2. Executes transactions in EVM-compatible environment
 3. Posts transaction data to Ethereum as calldata
 4. Fraud proofs allow challenging invalid state transitions
 5. After dispute period, state becomes final
 
-**Examples**:
+- **Examples**:
 - **Arbitrum**: Largest L2 by total value locked. EVM-compatible, active ecosystem.
 - **Optimism**: Pioneer of optimistic rollups. Powers Base (Coinbase's L2) and other chains via OP Stack.
 - **Base**: Coinbase's L2, bringing mainstream users to crypto.
 
-**Advantages**:
+- **Advantages**:
 - Full EVM compatibility, easy to migrate Ethereum dApps
 - Lower technical complexity than ZK rollups
 - Established ecosystem and tooling
 
-**Disadvantages**:
+- **Disadvantages**:
 - 7-day withdrawal delay (bridging from L2 to mainnet)
 - Higher data costs than ZK rollups
 - Depends on fraud proof watchers
@@ -66,25 +66,25 @@ Assume transactions are valid by default ("optimistic"). Anyone can challenge su
 
 Use cryptographic proofs (validity proofs) to prove transaction correctness without revealing all transaction details.
 
-**How They Work**:
+- **How They Work**:
 1. Sequencer batches transactions off-chain
 2. Generates zero-knowledge proof (SNARK or STARK) proving validity
 3. Submits proof and minimal data to Ethereum
 4. Ethereum verifies proof (much cheaper than re-executing transactions)
 5. State update is immediately final, no dispute period
 
-**Examples**:
+- **Examples**:
 - **zkSync Era**: EVM-compatible ZK rollup with growing adoption.
 - **StarkNet**: Uses STARK proofs, Cairo programming language.
 - **Polygon zkEVM**: Polygon's ZK solution with full EVM equivalence.
 - **Scroll**: EVM-equivalent ZK rollup focused on compatibility.
 
-**Advantages**:
+- **Advantages**:
 - Faster finality, no 7-day withdrawal delay
 - Better long-term scalability
 - More data efficiency
 
-**Disadvantages**:
+- **Disadvantages**:
 - Complex cryptography requires specialized expertise
 - Some sacrifice EVM compatibility for efficiency
 - Earlier stage than optimistic rollups
@@ -93,17 +93,17 @@ Use cryptographic proofs (validity proofs) to prove transaction correctness with
 
 Similar to ZK rollups but stores data off-chain rather than on Ethereum. Offers higher scalability but sacrifices data availability guarantees.
 
-**Trade-off**: Users must trust data is available if needed to recover their funds. Suitable for applications where performance is prioritized over trustlessness (gaming, social media).
+- **Trade-off**: Users must trust data is available if needed to recover their funds. Suitable for applications where performance is prioritized over trustlessness (gaming, social media).
 
-**Example**: Immutable X (NFT-focused, powers Gods Unchained and Guild of Guardians)
+- **Example**: Immutable X (NFT-focused, powers Gods Unchained and Guild of Guardians)
 
 ### State Channels
 
 Open payment channels between parties, conduct unlimited transactions off-chain, then settle final state on-chain. The Lightning Network (Bitcoin) popularized this approach.
 
-**Advantages**: Instant, near-free transactions
+- **Advantages**: Instant, near-free transactions
 
-**Disadvantages**: Requires locking capital, only works for participants in channel, complex routing for payments
+- **Disadvantages**: Requires locking capital, only works for participants in channel, complex routing for payments
 
 ### Plasma
 
@@ -117,25 +117,25 @@ The March 2024 Ethereum upgrade added "blob" data storage, temporary data that i
 
 **Bridges** transfer assets between Layer 1 and Layer 2:
 
-**Canonical Bridges**: Official bridges operated by L2 teams. Most secure but inherits L2's trust assumptions.
+- **Canonical Bridges**: Official bridges operated by L2 teams. Most secure but inherits L2's trust assumptions.
 
-**Third-Party Bridges**: Services like Hop, Across, and Synapse enable faster transfers and cross-L2 movement. Introduce additional trust assumptions.
+- **Third-Party Bridges**: Services like Hop, Across, and Synapse enable faster transfers and cross-L2 movement. Introduce additional trust assumptions.
 
-**Native Withdrawals**: Withdrawing from optimistic rollups to Ethereum takes 7 days due to the dispute period. Users cannot access funds during this time unless using third-party bridges.
+- **Native Withdrawals**: Withdrawing from optimistic rollups to Ethereum takes 7 days due to the dispute period. Users cannot access funds during this time unless using third-party bridges.
 
 Bridge security is crucial, as significant amounts have been lost to bridge hacks. Always use established bridges and verify contract addresses.
 
 ## L2 Ecosystems and Adoption
 
-**DeFi on L2**: Major protocols deployed L2 versions, Uniswap, Aave, Curve, Synthetix. Enables capital-efficient DeFi with low transaction costs.
+- **DeFi on L2**: Major protocols deployed L2 versions, Uniswap, Aave, Curve, Synthetix. Enables capital-efficient DeFi with low transaction costs.
 
-**NFTs on L2**: Mint and trade NFTs for low fees. Platforms like Zora prioritize L2, making NFTs accessible to creators without high gas fees.
+- **NFTs on L2**: Mint and trade NFTs for low fees. Platforms like Zora prioritize L2, making NFTs accessible to creators without high gas fees.
 
-**Gaming**: Blockchain games require many microtransactions, which are not feasible with Layer 1 fees. L2s enable true blockchain gaming.
+- **Gaming**: Blockchain games require many microtransactions, which are not feasible with Layer 1 fees. L2s enable true blockchain gaming.
 
-**Social**: Twitter-like apps, prediction markets, and social platforms build on L2 where transaction costs do not prohibit interaction.
+- **Social**: Twitter-like apps, prediction markets, and social platforms build on L2 where transaction costs do not prohibit interaction.
 
-**Payments**: Stablecoin payments on L2 cost significantly less, enabling remittances and merchant adoption.
+- **Payments**: Stablecoin payments on L2 cost significantly less, enabling remittances and merchant adoption.
 
 ## L2 Sequencer Centralization
 
@@ -150,7 +150,7 @@ L2 teams plan decentralized sequencer sets but prioritized launching first, dece
 
 Currently, moving between L2s requires bridging back to Ethereum then to another L2. This process can be expensive and slow.
 
-**Solutions in Development**:
+- **Solutions in Development**:
 - **Shared bridges**: Direct L2-to-L2 transfers
 - **Chain abstraction**: Users do not need to know which L2 they are using
 - **Optimism's Superchain**: Multiple L2s sharing security and messaging
@@ -159,7 +159,7 @@ The goal is for users to interact with Ethereum without needing to understand th
 
 ## L2s vs Sidechains vs Alt-L1s
 
-**Layer 2s**: Inherit Ethereum security, post data to mainnet  
+- **Layer 2s**: Inherit Ethereum security, post data to mainnet  
 **Sidechains** (Polygon PoS, Ronin): Separate consensus, do not inherit Ethereum security  
 **Alt-L1s** (Solana, Avalanche): Completely independent blockchains  
 
@@ -171,25 +171,25 @@ Ethereum's official scaling strategy is to keep Layer 1 simple, secure, and dece
 
 This contrasts with chains like Solana, which scale Layer 1 itself, or Cosmos, which uses app-specific chains. Time will tell which approach is more effective.
 
-**Future Ethereum upgrades focus on L2 support**:
+- **Future Ethereum upgrades focus on L2 support**:
 - Danksharding: More data availability
 - Verkle trees: More efficient state storage helping L2s
 - Account abstraction: Better user experience across L2s
 
 ## Career Opportunities
 
-**L2 Protocol Engineer**: Builds rollup infrastructure, sequencers, fraud/validity proofs. Requires expertise in cryptography and distributed systems.
+- **L2 Protocol Engineer**: Builds rollup infrastructure, sequencers, fraud/validity proofs. Requires expertise in cryptography and distributed systems.
 
-**Bridge Developer**: Designs secure cross-chain messaging, builds bridge contracts. This role is security-critical.
+- **Bridge Developer**: Designs secure cross-chain messaging, builds bridge contracts. This role is security-critical.
 
-**zkProof Engineer**: Develops zero-knowledge circuits, optimizes prover performance. This is a specialized and high-demand role.
+- **zkProof Engineer**: Develops zero-knowledge circuits, optimizes prover performance. This is a specialized and high-demand role.
 
-**L2 DevRel**: Helps developers build on L2s, creates documentation, manages ecosystem.
+- **L2 DevRel**: Helps developers build on L2s, creates documentation, manages ecosystem.
 
-**L2 Protocol Researcher**: Designs L2 mechanisms, analyzes security trade-offs, publishes research.
+- **L2 Protocol Researcher**: Designs L2 mechanisms, analyzes security trade-offs, publishes research.
 
-**Infrastructure Engineer**: Operates sequencers, indexers, RPC nodes for L2 networks.
+- **Infrastructure Engineer**: Operates sequencers, indexers, RPC nodes for L2 networks.
 
-**Blockchain Analyst**: Tracks L2 adoption, analyzes flows, produces market research.
+- **Blockchain Analyst**: Tracks L2 adoption, analyzes flows, produces market research.
 
 Layer 2s represent Ethereum's path to mainstream scale, handling millions of transactions daily while maintaining security. Understanding L2 trade-offs, architectures, and ecosystems is essential for anyone building or investing in Ethereum's future. The increase in L2 activity has created new technical domains and career opportunities in blockchain scaling.

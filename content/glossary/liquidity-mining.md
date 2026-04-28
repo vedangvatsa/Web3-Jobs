@@ -15,13 +15,13 @@ Liquidity mining refers to incentive programs where decentralized protocols dist
 
 How rewards work:
 
-**Pool Selection**: Protocol selects which pools offer mining rewards. Usually new or important pools.
+- **Pool Selection**: Protocol selects which pools offer mining rewards. Usually new or important pools.
 
-**Reward Distribution**: Daily or weekly token rewards distributed to liquidity providers based on share of liquidity.
+- **Reward Distribution**: Daily or weekly token rewards distributed to liquidity providers based on share of liquidity.
 
-**APY Calculation**: Estimated annual percentage yield calculated as (Annual Reward Value) / (Total Liquidity) × 100.
+- **APY Calculation**: Estimated annual percentage yield calculated as (Annual Reward Value) / (Total Liquidity) × 100.
 
-**Farming Strategies**: Users deposit into highest-yielding pools to chase yield.
+- **Farming Strategies**: Users deposit into highest-yielding pools to chase yield.
 
 Example: Uniswap incentivizes the USDC/ETH pool with 100,000 UNI per week. If the pool has $1B liquidity:
 - Weekly yield: $2M / $1B = 0.2%
@@ -33,9 +33,9 @@ Mining APYs vary depending on protocol and incentives.
 
 Related but distinct:
 
-**Liquidity Mining**: Specific programs offering rewards for providing liquidity to specific pools.
+- **Liquidity Mining**: Specific programs offering rewards for providing liquidity to specific pools.
 
-**Yield Farming**: Broader strategy of moving capital between protocols to chase highest yields.
+- **Yield Farming**: Broader strategy of moving capital between protocols to chase highest yields.
 
 Example: A user deposits USDC into Aave earning 5% APY (not mining, just lending). Then moves USDC to Compound earning 6%. Then moves to Curve earning 8%. This is yield farming. If Aave distributes AAVE token rewards earning an additional 3%, that's liquidity mining.
 
@@ -59,15 +59,15 @@ Profitable mining happens when mining rewards exceed impermanent loss risk.
 
 Real programs:
 
-**Uniswap Governance Incentives**: Distributes UNI to certain pools. Drives liquidity to incentivized pairs.
+- **Uniswap Governance Incentives**: Distributes UNI to certain pools. Drives liquidity to incentivized pairs.
 
-**Aave Liquidity Mining**: Distributes AAVE to suppliers and borrowers.
+- **Aave Liquidity Mining**: Distributes AAVE to suppliers and borrowers.
 
-**Curve DAO Incentives**: Distributes CRV to liquidity providers. Sustains Curve's total value locked (TVL).
+- **Curve DAO Incentives**: Distributes CRV to liquidity providers. Sustains Curve's total value locked (TVL).
 
-**Yearn Finance**: Combines yield farming and liquidity mining, offering optimized strategies.
+- **Yearn Finance**: Combines yield farming and liquidity mining, offering optimized strategies.
 
-**Balancer Liquidity Mining**: Distributes LM tokens to Balancer liquidity providers, creating sustained capital attraction.
+- **Balancer Liquidity Mining**: Distributes LM tokens to Balancer liquidity providers, creating sustained capital attraction.
 
 Major protocols run large-scale mining programs.
 
@@ -75,15 +75,15 @@ Major protocols run large-scale mining programs.
 
 Patterns:
 
-**Initial Excitement**: New mining programs attract capital and high APYs.
+- **Initial Excitement**: New mining programs attract capital and high APYs.
 
-**Migration**: As rewards dilute, capital migrates to new programs.
+- **Migration**: As rewards dilute, capital migrates to new programs.
 
-**Sustainability Questions**: If mining must be permanent, protocol may be unsustainable. If temporary, what happens after?
+- **Sustainability Questions**: If mining must be permanent, protocol may be unsustainable. If temporary, what happens after?
 
-**Token Depletion**: Some protocols run out of tokens to distribute. Rewards reduce to zero.
+- **Token Depletion**: Some protocols run out of tokens to distribute. Rewards reduce to zero.
 
-**Speculative Capital**: Much mining is speculative; capital may flee when mining rewards decrease.
+- **Speculative Capital**: Much mining is speculative; capital may flee when mining rewards decrease.
 
 Mining drives temporary capital influx but isn't a permanent source of value.
 
@@ -91,19 +91,19 @@ Mining drives temporary capital influx but isn't a permanent source of value.
 
 Potential downsides:
 
-**Token Depreciation**: Mining tokens often decrease in value post-launch. If you farm tokens and price drops significantly, yields may be illusory.
+- **Token Depreciation**: Mining tokens often decrease in value post-launch. If you farm tokens and price drops significantly, yields may be illusory.
 
-**Impermanent Loss**: IL can exceed mining yields if price volatility is high. If a volatile pair like a new token/ETH, IL can be substantial during volatility.
+- **Impermanent Loss**: IL can exceed mining yields if price volatility is high. If a volatile pair like a new token/ETH, IL can be substantial during volatility.
 
-**Smart Contract Risk**: Mining contracts can be exploited or have bugs. Multiple mining protocols have been hacked, causing loss of rewards.
+- **Smart Contract Risk**: Mining contracts can be exploited or have bugs. Multiple mining protocols have been hacked, causing loss of rewards.
 
-**Volatility**: Farming high APY often means high volatility and risk. High APY mining usually means the underlying token is extremely risky.
+- **Volatility**: Farming high APY often means high volatility and risk. High APY mining usually means the underlying token is extremely risky.
 
-**Dilution**: As more liquidity providers farm, your share of rewards decreases. If many LPs share a fixed number of tokens, your share diminishes.
+- **Dilution**: As more liquidity providers farm, your share of rewards decreases. If many LPs share a fixed number of tokens, your share diminishes.
 
-**Rug Pull Risk**: Some mining programs may be exit scams. The team may stop distribution, rendering tokens worthless.
+- **Rug Pull Risk**: Some mining programs may be exit scams. The team may stop distribution, rendering tokens worthless.
 
-**Gas Costs**: On Ethereum, gas fees can exceed farming rewards, making farming unprofitable.
+- **Gas Costs**: On Ethereum, gas fees can exceed farming rewards, making farming unprofitable.
 
 Mining offers high returns but has significant risks requiring careful evaluation.
 
@@ -137,27 +137,27 @@ Mining creates roles:
 
 Mining safely:
 
-**Verify Sustainability**: Can the protocol maintain mining rewards long-term? If not, it may be a temporary opportunity.
+- **Verify Sustainability**: Can the protocol maintain mining rewards long-term? If not, it may be a temporary opportunity.
 
-**Diversify**: Don't put all capital in a single mining pool. Diversify across multiple protocols.
+- **Diversify**: Don't put all capital in a single mining pool. Diversify across multiple protocols.
 
-**Calculate Impermanent Loss**: Understand IL impact on net returns.
+- **Calculate Impermanent Loss**: Understand IL impact on net returns.
 
-**Monitor Dilution**: Track how many liquidity providers farm. As more enter, yields decrease.
+- **Monitor Dilution**: Track how many liquidity providers farm. As more enter, yields decrease.
 
-**Plan Exits**: If farming becomes unsustainable, have an exit strategy before rewards end.
+- **Plan Exits**: If farming becomes unsustainable, have an exit strategy before rewards end.
 
 ## The Future of Mining
 
 Mining evolution:
 
-**Sustainable Models**: Protocols designing sustainable mining where protocol fees fund mining.
+- **Sustainable Models**: Protocols designing sustainable mining where protocol fees fund mining.
 
-**Concentrated Liquidity**: Uniswap V3 concentrated liquidity improves capital efficiency of mining.
+- **Concentrated Liquidity**: Uniswap V3 concentrated liquidity improves capital efficiency of mining.
 
-**Cross-Protocol Incentives**: Protocols coordinating mining to boost the ecosystem.
+- **Cross-Protocol Incentives**: Protocols coordinating mining to boost the ecosystem.
 
-**Real Yield**: Shift from token incentives to real yield from protocol fees.
+- **Real Yield**: Shift from token incentives to real yield from protocol fees.
 
 ## Mine Liquidity Strategically
 

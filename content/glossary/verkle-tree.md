@@ -15,13 +15,13 @@ Verkle Tree is a cryptographic data structure that uses vector commitments inste
 
 Core mechanics:
 
-**Vector Commitments**: Each node commits to multiple children using polynomial commitments.
+- **Vector Commitments**: Each node commits to multiple children using polynomial commitments.
 
-**Constant Proofs**: Proof size doesn't grow with tree depth.
+- **Constant Proofs**: Proof size doesn't grow with tree depth.
 
-**Verification**: Verify proofs using pairing-based cryptography.
+- **Verification**: Verify proofs using pairing-based cryptography.
 
-**State Root**: Single commitment represents entire state.
+- **State Root**: Single commitment represents entire state.
 
 Verkle trees enable efficient state proofs.
 
@@ -29,13 +29,13 @@ Verkle trees enable efficient state proofs.
 
 Comparison:
 
-**Proof Size**: Verkle proofs are smaller than Merkle proofs.
+- **Proof Size**: Verkle proofs are smaller than Merkle proofs.
 
-**Verification Speed**: Verkle is slightly slower due to pairings.
+- **Verification Speed**: Verkle is slightly slower due to pairings.
 
-**Tree Width**: Verkle trees can have wider branching.
+- **Tree Width**: Verkle trees can have wider branching.
 
-**Cryptographic Assumptions**: Verkle requires stronger cryptographic assumptions.
+- **Cryptographic Assumptions**: Verkle requires stronger cryptographic assumptions.
 
 Verkle trees trade cryptographic complexity for proof efficiency.
 
@@ -43,13 +43,13 @@ Verkle trees trade cryptographic complexity for proof efficiency.
 
 Ethereum transition:
 
-**State Tree Migration**: Replace Merkle-Patricia with Verkle tree.
+- **State Tree Migration**: Replace Merkle-Patricia with Verkle tree.
 
-**Witness Size**: Reduce witness size significantly.
+- **Witness Size**: Reduce witness size significantly.
 
-**Stateless Clients**: Enable practical stateless clients.
+- **Stateless Clients**: Enable practical stateless clients.
 
-**Roadmap**: Planned for future Ethereum upgrade.
+- **Roadmap**: Planned for future Ethereum upgrade.
 
 Verkle trees are key to Ethereum's stateless vision.
 
@@ -57,13 +57,13 @@ Verkle trees are key to Ethereum's stateless vision.
 
 Obstacles:
 
-**Migration Complexity**: Migrating existing state is complex.
+- **Migration Complexity**: Migrating existing state is complex.
 
-**Client Changes**: All clients must implement Verkle trees.
+- **Client Changes**: All clients must implement Verkle trees.
 
-**Cryptographic Libraries**: Need efficient pairing libraries.
+- **Cryptographic Libraries**: Need efficient pairing libraries.
 
-**Testing**: Extensive testing required for security.
+- **Testing**: Extensive testing required for security.
 
 Verkle tree deployment is non-trivial.
 
@@ -81,21 +81,21 @@ Verkle tree roles:
 
 Working with Verkle:
 
-**Understand Crypto**: Learn polynomial commitment schemes.
+- **Understand Crypto**: Learn polynomial commitment schemes.
 
-**Test Implementations**: Validate Verkle implementations thoroughly.
+- **Test Implementations**: Validate Verkle implementations thoroughly.
 
-**Monitor Roadmap**: Track Ethereum Verkle deployment.
+- **Monitor Roadmap**: Track Ethereum Verkle deployment.
 
 ## The Future of Verkle Trees
 
 Trends:
 
-**Production Deployment**: Verkle trees in mainnet Ethereum.
+- **Production Deployment**: Verkle trees in mainnet Ethereum.
 
-**Cross-Chain Adoption**: Other chains exploring Verkle trees.
+- **Cross-Chain Adoption**: Other chains exploring Verkle trees.
 
-**Optimization**: More efficient Verkle implementations.
+- **Optimization**: More efficient Verkle implementations.
 
 ## Enable Compact State Proofs
 
