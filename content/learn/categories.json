@@ -1,0 +1,67 @@
+{
+  "categories": [
+    {
+      "slug": "web3-fundamentals",
+      "title": "Web3 Fundamentals",
+      "description": "What Web3 actually is, how it differs from Web2, and why it matters for your career.",
+      "icon": "Globe",
+      "order": 1
+    },
+    {
+      "slug": "blockchain",
+      "title": "Blockchain",
+      "description": "How blockchains work, from consensus mechanisms to smart contracts.",
+      "icon": "Blocks",
+      "order": 2
+    },
+    {
+      "slug": "defi",
+      "title": "DeFi",
+      "description": "Decentralized finance: DEXs, lending, yield, stablecoins, and protocol design.",
+      "icon": "Landmark",
+      "order": 3
+    },
+    {
+      "slug": "nfts",
+      "title": "NFTs",
+      "description": "Non-fungible tokens: standards, marketplaces, and real-world applications.",
+      "icon": "Image",
+      "order": 4
+    },
+    {
+      "slug": "daos",
+      "title": "DAOs",
+      "description": "Decentralized autonomous organizations: governance, treasury, and tooling.",
+      "icon": "Users",
+      "order": 5
+    },
+    {
+      "slug": "web3-development",
+      "title": "Web3 Development",
+      "description": "Building on-chain: Solidity, testing, frontend integration, and deployment.",
+      "icon": "Code",
+      "order": 6
+    },
+    {
+      "slug": "infrastructure",
+      "title": "Infrastructure",
+      "description": "L2s, rollups, oracles, bridges, and the systems that make blockchains work.",
+      "icon": "Server",
+      "order": 7
+    },
+    {
+      "slug": "advanced-topics",
+      "title": "Advanced Topics",
+      "description": "MEV, account abstraction, ZK proofs, tokenomics, and DePIN.",
+      "icon": "Microscope",
+      "order": 8
+    },
+    {
+      "slug": "web3-business",
+      "title": "Web3 Business",
+      "description": "GTM strategy, hiring, partnerships, and community building for Web3 companies.",
+      "icon": "Briefcase",
+      "order": 9
+    }
+  ]
+}

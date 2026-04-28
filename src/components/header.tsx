@@ -24,9 +24,9 @@ const mainNavLinks = [
 const resourceLinks = [
   { href: "/resources", label: "All Resources", icon: ListChecks },
   { href: "/companies", label: "Companies", icon: Building2 },
+  { href: "/learn", label: "Learn Web3", icon: GraduationCap },
   { href: "/blog", label: "Playbook", icon: BookOpen },
   { href: "/glossary", label: "Glossary", icon: Library },
-  { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
 ];
 
 const employeeLinks = [
