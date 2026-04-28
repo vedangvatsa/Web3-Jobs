@@ -134,9 +134,7 @@ This offer is open until ${format(data.offerExpiryDate, 'MMMM d, yyyy')}. Please
   <div className="container mx-auto py-12">
     <Card className="max-w-4xl mx-auto">
       <CardHeader className="text-center">
-        <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-         <FileSignature className="h-10 w-10 text-primary" />
-        </div>
+        
         <CardTitle className="text-3xl">Web3 Offer Letter Customizer</CardTitle>
         <CardDescription>Fill in the details to generate a professional offer letter.</CardDescription>
       </CardHeader>
@@ -202,9 +200,7 @@ This offer is open until ${format(data.offerExpiryDate, 'MMMM d, yyyy')}. Please
     
      <Card className="mt-12 max-w-4xl mx-auto bg-primary/5 border-primary/20">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-        <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-          <Briefcase className="h-8 w-8 text-primary"/>
-        </div>
+        
         <div>
           <h3 className="text-xl font-bold text-primary mb-1">Ready to Hire?</h3>
           <p className="text-muted-foreground">Now that your offer letter is ready, post your job to reach over 100,000 Web3 professionals.</p>

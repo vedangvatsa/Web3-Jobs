@@ -131,9 +131,7 @@ export function CompanyCultureGuideForm() {
   <div className="container mx-auto py-12">
     <Card className="max-w-4xl mx-auto">
       <CardHeader className="text-center">
-         <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-         <Users className="h-10 w-10 text-primary" />
-        </div>
+         
         <CardTitle className="text-3xl">Company Culture Guide Builder</CardTitle>
         <CardDescription className="max-w-2xl mx-auto">
           A strong, well-defined culture is the foundation of any successful company, especially in a remote-first Web3 environment. This tool helps you articulate and document your company's core principles, creating a guide to align your team and attract the right talent.
@@ -179,9 +177,7 @@ export function CompanyCultureGuideForm() {
     </div>
      <Card className="mt-12 max-w-4xl mx-auto bg-primary/5 border-primary/20">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-        <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-          <Briefcase className="h-8 w-8 text-primary"/>
-        </div>
+        
         <div>
           <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire?</h3>
           <p className="text-muted-foreground">Now that your culture is defined, find candidates who are a perfect fit by posting on the #1 Web3 job board.</p>

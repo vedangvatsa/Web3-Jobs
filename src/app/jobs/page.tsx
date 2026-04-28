@@ -5,7 +5,6 @@ import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
 import { Rss } from 'lucide-react';
-import { TransitioningHeadline } from '@/components/transitioning-headline';
 import type { WebPage, JobPosting } from 'schema-dts';
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
@@ -90,7 +89,7 @@ export default async function JobsPage() {
      <div className="container mx-auto py-8 px-4">
        <section className="text-center mb-8">
          <div className="max-w-6xl mx-auto">
-           <TransitioningHeadline phrases={headlines} />
+           <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
          </div>
        </section>
        <div className="max-w-6xl mx-auto">
