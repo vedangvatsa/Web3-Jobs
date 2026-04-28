@@ -53,7 +53,7 @@ export async function getJobs(): Promise<Job[]> {
  * MAX_CONSECUTIVE_PER_COMPANY consecutive listings.
  */
 function distributeJobsByCompany(jobs: Job[]): Job[] {
-  const MAX_CONSECUTIVE = 2;
+  const MAX_CONSECUTIVE = 1;
 
   // Group by company
   const groups = new Map<string, Job[]>();
