@@ -8,8 +8,6 @@ import Link from 'next/link';
 import { ExternalLink, Rss, Newspaper, ArrowRight } from 'lucide-react';
 import { trackNewsClick, trackCTAClick } from '@/lib/posthog';
 import { Badge } from '@/components/ui/badge';
-import { TransitioningHeadline } from '@/components/transitioning-headline';
-import { Button } from '@/components/ui/button';
 import { Skeleton } from '@/components/ui/skeleton';
 import type { NewsItem } from '@/types';
 import type { WebPage, NewsArticle, WithContext } from 'schema-dts';
@@ -55,13 +53,6 @@ export default function NewsPage() {
   }
   fetchNews();
  }, []);
-
- const headlines = [
-   "Web3 News Feed",
-   "The Latest in Crypto",
-   "Your Daily Briefing",
-   "Stay Ahead of the Curve"
- ];
  
  const siteUrl = 'https://hashtagweb3.com';
  
@@ -113,71 +104,60 @@ export default function NewsPage() {
    <div className="flex flex-col min-h-screen">
     <Header />
     <main className="flex-1">
-     <div className="container mx-auto px-4 py-8 md:py-16">
-      <section className="text-center mb-12 max-w-4xl mx-auto">
-       <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-         <Newspaper className="h-10 w-10 text-primary" />
-       </div>
-       <TransitioningHeadline phrases={headlines} />
-       <p className="text-muted-foreground mt-4">
+     <div className="container mx-auto px-4 py-12 md:py-16">
+      <section className="mb-10 max-w-2xl mx-auto">
+       <h1 className="text-3xl font-bold tracking-tight mb-3">
+        Web3 News Feed
+       </h1>
+       <p className="text-muted-foreground text-lg">
         Aggregated news from top crypto sources. Updated frequently.
        </p>
       </section>
 
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-2xl mx-auto">
        <div className="space-y-6">
         {loading ? (
          [...Array(10)].map((_, i) => <NewsCardSkeleton key={i} />)
         ) : (
-         newsItems.map((item, index) => (
-          <Card key={index} className="transition-all duration-300 hover:shadow-sm bg-background border border-white/10">
-           <CardHeader>
-            <div className="flex items-center justify-between gap-2 mb-2">
-             <Badge variant={
-              item.source === 'Decrypt' ? 'destructive' :
-              item.source === 'Cointelegraph' ? 'secondary' :
-              item.source === 'Coindesk' ? 'default' :
-              'outline'
-             }>
-              {item.source}
-             </Badge>
-            </div>
-            <CardTitle className="text-xl">
-             <a href={item.link} target="_blank" rel="noopener noreferrer" onClick={() => trackNewsClick(item.title, item.link, item.source)} className="hover:text-primary transition-colors">
-              {item.title}
-             </a>
-            </CardTitle>
-           </CardHeader>
-           <CardContent>
-            <p className="text-muted-foreground text-sm">{item.contentSnippet}</p>
-           </CardContent>
-           <CardFooter className="flex justify-between items-center">
-            <p className="text-xs text-muted-foreground font-medium">{item.creator}</p>
-            <a href={item.link} target="_blank" rel="noopener noreferrer" onClick={() => trackNewsClick(item.title, item.link, item.source)} className="flex items-center text-sm text-primary font-semibold hover:underline">
-             Read More <ExternalLink className="ml-1 h-4 w-4" />
-            </a>
-           </CardFooter>
-          </Card>
-         ))
+          newsItems.map((item, index) => (
+           <Card key={index} className="transition-all duration-200 hover:border-zinc-300 dark:hover:border-zinc-700 shadow-none border bg-transparent">
+            <CardHeader className="pb-3">
+             <div className="flex items-center justify-between gap-2 mb-1">
+              <Badge variant={
+               item.source === 'Decrypt' ? 'destructive' :
+               item.source === 'Cointelegraph' ? 'secondary' :
+               item.source === 'Coindesk' ? 'default' :
+               'outline'
+              } className="text-[10px] uppercase font-semibold">
+               {item.source}
+              </Badge>
+              <span className="text-xs text-muted-foreground font-medium">{item.creator || new Date(item.pubDate).toLocaleDateString()}</span>
+             </div>
+             <CardTitle className="text-xl leading-tight">
+              <a href={item.link} target="_blank" rel="noopener noreferrer" onClick={() => trackNewsClick(item.title, item.link, item.source)} className="hover:text-primary hover:underline underline-offset-4 transition-colors">
+               {item.title}
+              </a>
+             </CardTitle>
+            </CardHeader>
+            <CardContent>
+             <p className="text-muted-foreground text-sm leading-relaxed">{item.contentSnippet}</p>
+            </CardContent>
+           </Card>
+          ))
         )}
        </div>
 
-       <Card className="mt-12 col-span-full bg-primary/5 border-primary/20 ">
-         <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-           <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-             <Rss className="h-8 w-8 text-primary"/>
-           </div>
-           <div>
-             <h3 className="text-xl font-bold text-primary mb-1">Stay Ahead with Our News Feed</h3>
-             <p className="text-muted-foreground">Get the latest updates, trends, and insights from the Web3 space, delivered directly to your Telegram.</p>
-           </div>
-           <a href="https://t.me/web3newsfeed" target="_blank" rel="noopener noreferrer" onClick={() => trackCTAClick('join_news_feed', 'https://t.me/web3newsfeed')} className="flex-shrink-0 mt-4 md:mt-0">
-             <Button size="lg">
-               Join News Feed <ArrowRight className="ml-2 h-4 w-4"/>
-             </Button>
-           </a>
-         </CardContent>
-       </Card>
+        <div className="mt-12 pt-8 border-t flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div>
+              <h3 className="font-semibold text-foreground mb-1">Stay Ahead with Our News Feed</h3>
+              <p className="text-sm text-muted-foreground">Get the latest Web3 updates delivered directly to your Telegram.</p>
+            </div>
+            <a href="https://t.me/web3newsfeed" target="_blank" rel="noopener noreferrer" onClick={() => trackCTAClick('join_news_feed', 'https://t.me/web3newsfeed')} className="flex-shrink-0">
+              <span className="inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2">
+                Join Telegram
+              </span>
+            </a>
+        </div>
       </div>
      </div>
     </main>
