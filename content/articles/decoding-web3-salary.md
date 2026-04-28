@@ -81,7 +81,7 @@ The [Web3 job](/web3-jobs-for-beginners) market operates under fundamentally dif
 
 ### Step-by-Step Transition Strategy
 
-#### Step 1: Build a Web3 Knowledge Foundation  
+#### Step 1: Build a Web3 Knowledge Foundation
 Dedicate 4-8 weeks to learning blockchain fundamentals. Focus on:
 - How blockchain technology operates
 - Various blockchain architectures
@@ -89,14 +89,14 @@ Dedicate 4-8 weeks to learning blockchain fundamentals. Focus on:
 - DeFi, [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - The current Web3 ecosystem and key players
 
-#### Step 2: Develop Relevant Skills  
+#### Step 2: Develop Relevant Skills
 Depending on your desired role:
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
 - **Business Development:** Focus on market analysis, partnership strategies, and understanding the regulatory environment.
 - **Community/Operations:** Hone skills in community building, Discord management, and governance.
 
-#### Step 3: Build Your Portfolio  
+#### Step 3: Build Your Portfolio
 Create tangible evidence of your Web3 expertise:
 - Contribute to open-source projects in the Web3 space.
 - Develop a small DApp or smart contract.
@@ -104,7 +104,7 @@ Create tangible evidence of your Web3 expertise:
 - Engage with DAOs or community initiatives.
 - Participate in hackathons.
 
-#### Step 4: Network in Web3  
+#### Step 4: Network in Web3
 The Web3 community is highly accessible:
 - Join Discord communities related to your interests.
 - Attend Web3 conferences such as Consensus, Devcon, or ETHDenver.
@@ -112,7 +112,7 @@ The Web3 community is highly accessible:
 - Participate in governance forums.
 - Attend local Web3 meetups.
 
-#### Step 5: Apply Strategically  
+#### Step 5: Apply Strategically
 Target roles that align with your existing expertise and new Web3 knowledge:
 - Backend engineers should pursue blockchain infrastructure roles.
 - Product managers can search for protocol-focused positions.

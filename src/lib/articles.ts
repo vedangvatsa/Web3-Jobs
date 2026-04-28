@@ -6,6 +6,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
+import remarkGfm from 'remark-gfm';
 import html from 'remark-html';
 import sanitizeHtml from 'sanitize-html';
 
@@ -78,6 +79,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
     const sanitizedContent = removePlaceholderKeyTakeaways(matterResult.content);
 
     const processedContent = await remark()
+      .use(remarkGfm)
       .use(html, { sanitize: false }) // We will sanitize manually with a better library
       .process(sanitizedContent);
     const contentHtml = processedContent.toString();
