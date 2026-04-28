@@ -4,7 +4,7 @@ description: "What engineers, PMs, marketers, and community managers actually do
 order: 2
 readTime: "9 min"
 difficulty: "beginner"
-prerequisites: ["the-web3-job-market"]
+prerequisites: ["job-market"]
 quiz:
   - question: "What does a Smart Contract Developer do?"
     options:

@@ -4,7 +4,7 @@ description: "How to protect yourself from scams, phishing, and rug pulls in Web
 order: 15
 readTime: "9 min"
 difficulty: "beginner"
-prerequisites: ["defi-banking-without-banks"]
+prerequisites: ["defi"]
 quiz:
   - question: "What is the most common type of Web3 scam?"
     options:

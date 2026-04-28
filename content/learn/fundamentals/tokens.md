@@ -4,7 +4,7 @@ description: "ETH, stablecoins, governance tokens, and utility tokens - what the
 order: 7
 readTime: "9 min"
 difficulty: "beginner"
-prerequisites: ["making-your-first-transaction"]
+prerequisites: ["transactions"]
 quiz:
   - question: "What is the difference between a coin and a token?"
     options:

@@ -4,7 +4,7 @@ description: "How Web3 protocols use tokens to bootstrap growth and reward users
 order: 3
 readTime: "8 min"
 difficulty: "intermediate"
-prerequisites: ["web3-twitter-and-content"]
+prerequisites: ["twitter"]
 quiz:
   - question: "What is the primary purpose of a token airdrop?"
     options:

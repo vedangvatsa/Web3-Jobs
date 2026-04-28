@@ -4,7 +4,7 @@ description: "How decentralized autonomous organizations work, vote, and manage 
 order: 13
 readTime: "8 min"
 difficulty: "beginner"
-prerequisites: ["nfts-digital-ownership"]
+prerequisites: ["nfts"]
 quiz:
   - question: "What is a DAO?"
     options:

@@ -4,7 +4,7 @@ description: "A concrete action plan to get your first Web3 job, from applicatio
 order: 8
 readTime: "8 min"
 difficulty: "beginner"
-prerequisites: ["freelancing-in-web3"]
+prerequisites: ["freelancing"]
 quiz:
   - question: "What is the most effective way to find Web3 jobs?"
     options:

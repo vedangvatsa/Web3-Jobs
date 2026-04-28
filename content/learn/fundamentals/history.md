@@ -4,7 +4,7 @@ description: "The full story from dial-up to decentralization, explained simply 
 order: 2
 readTime: "7 min"
 difficulty: "beginner"
-prerequisites: ["what-is-web3"]
+prerequisites: ["web3"]
 quiz:
   - question: "What could you do on Web1?"
     options:

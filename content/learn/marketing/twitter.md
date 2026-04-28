@@ -4,7 +4,7 @@ description: "Why Crypto Twitter drives the market and how to write threads that
 order: 2
 readTime: "6 min"
 difficulty: "beginner"
-prerequisites: ["community-management"]
+prerequisites: ["community"]
 quiz:
   - question: "What is the primary marketing channel for Web3?"
     options:

@@ -4,7 +4,7 @@ description: "Why Ethereum matters, how the EVM works, and why most Web3 apps ar
 order: 4
 readTime: "10 min"
 difficulty: "beginner"
-prerequisites: ["how-blockchains-work"]
+prerequisites: ["blockchains"]
 quiz:
   - question: "What makes Ethereum different from Bitcoin?"
     options:
