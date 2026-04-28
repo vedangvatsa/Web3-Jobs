@@ -107,7 +107,7 @@ The Web3 community is approachable and supportive:
 
 #### Step 5: Apply Strategically
 
-Target roles that utilize your existing skills along with your new Web3 knowledge:
+Target roles that use your existing skills along with your new Web3 knowledge:
 
 - Backend engineers should seek blockchain infrastructure roles
 - Product managers can look for protocol product positions
@@ -121,7 +121,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 #### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, utilized her expertise in DeFi. Her understanding of financial products paired with Web3 technology made her a valuable candidate. She secured a position at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her understanding of financial products paired with Web3 technology made her a valuable candidate. She secured a position at a leading DeFi protocol within a short timeframe.
 
 #### Career Changer Success
 
@@ -135,7 +135,7 @@ The crypto market's inherent volatility can affect job stability, particularly i
 
 #### Regulatory Uncertainty
 
-The regulatory landscape for blockchain companies continues to evolve in many jurisdictions. Before joining a project, verify that the team has competent legal counsel and is actively engaging with regulators to avoid operating in legally grey areas.
+The regulatory space for blockchain companies continues to evolve in many jurisdictions. Before joining a project, verify that the team has competent legal counsel and is actively engaging with regulators to avoid operating in legally grey areas.
 
 #### Due Diligence
 

@@ -87,13 +87,13 @@ In-protocol PBS is a long-term goal.
 
 PBS ecosystem roles:
 
-**Protocol Engineers**.
+- **Protocol Engineers**.
 
-**MEV Researchers**.
+- **MEV Researchers**.
 
-**Block Builder Engineers**.
+- **Block Builder Engineers**.
 
-**Relay Operators**.
+- **Relay Operators**.
 
 ## Best Practices
 

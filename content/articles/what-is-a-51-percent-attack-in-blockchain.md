@@ -120,7 +120,7 @@ Depending on the desired role, focus on:
 
 - **Engineers**: Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js).
 - **Product Managers**: Token economics, protocol governance, user growth in Web3.
-- **Business Development**: Market analysis, partnership strategies, regulatory landscape.
+- **Business Development**: Market analysis, partnership strategies, regulatory space.
 - **Community/Operations**: Community building, Discord management, governance.
 
 #### Step 3: Building a Portfolio

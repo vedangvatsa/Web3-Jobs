@@ -45,7 +45,7 @@ This tier includes a diverse array of capable and professional audit firms.
 
 ### Tier 3: Competitive Auditing Platforms and Independent Researchers
 
-This newer model utilizes a crowd of independent security researchers, providing an additional layer of scrutiny.
+This newer model uses a crowd of independent security researchers, providing an additional layer of scrutiny.
 
 | Platform Name        | Description                                                                                               | Notable Features                      |
 |----------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------|
@@ -66,8 +66,8 @@ When choosing an auditor, consider the following factors:
 To maximize the value of your audit, effective preparation is essential.
 
 1. **Code Freeze**: Ensure your code is complete and frozen. An audit should not serve as a debugging session.
-2. **Documentation**: Provide auditors with comprehensive documentation that details your protocol's architecture and intended behavior.
-3. **Testing**: Maintain a thorough internal testing process. High test coverage is crucial for a successful audit.
+2. **Documentation**: Provide auditors with full documentation that details your protocol's architecture and intended behavior.
+3. **Testing**: Maintain a thorough internal testing process. High test coverage is important for a successful audit.
 
 ### The Importance of Security Audits
 
@@ -106,7 +106,7 @@ Maya transitioned from Web2 to Web3, focusing on security protocols. Her structu
 ### FAQ
 
 **Q: How long will the audit process take?**  
-A: The duration of an audit depends on various factors, including the complexity of your codebase and the auditor's workload. Typically, you can expect an initial report within a few weeks, with comprehensive feedback following shortly after. 
+A: The duration of an audit depends on various factors, including the complexity of your codebase and the auditor's workload. Typically, you can expect an initial report within a few weeks, with full feedback following shortly after. 
 
 **Q: What if my organization lacks support for security audits?**  
 A: Even in less supportive environments, you have options. Start with small-scale audits or assessments that require minimal organizational buy-in. Gradually build momentum by documenting your findings and sharing results with stakeholders.

@@ -2,7 +2,7 @@
 
 title: "Web3 Jobs in Canada: A Guide to the Northern Crypto Hub"
 image: "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYW5hZGF8ZW58MHx8fHwxNzE2NDAxOTI0fDA&lib=rb-4.0.3&q=80&w=1080"
-data-ai-hint: "canada landscape"
+data-ai-hint: "canada space"
 description: "Discover Web3 career opportunities in Toronto, Vancouver, and other Canadian tech hubs."
 category: "Career Guides"
 
@@ -117,7 +117,7 @@ Target roles that align with your existing expertise and newly acquired Web3 kno
 Alex, a backend engineer at a major tech company, spent three months learning Solidity while working full-time. His contributions to an open-source protocol attracted a leading DeFi project, resulting in a significant salary increase and substantial equity upon transitioning.
 
 ### Product Manager in Web3
-Jessica, previously a product manager in traditional finance, utilized her knowledge of DeFi to secure a role at a top DeFi protocol within four weeks. Her understanding of financial products combined with Web3 technology made her a valuable asset.
+Jessica, previously a product manager in traditional finance, used her knowledge of DeFi to secure a role at a top DeFi protocol within four weeks. Her understanding of financial products combined with Web3 technology made her a valuable asset.
 
 ### Career Changer Success
 Marcus transitioned from a corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a position leading Developer Relations at a major blockchain platform, earning significantly more than in his previous role.

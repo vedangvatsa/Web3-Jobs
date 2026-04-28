@@ -35,7 +35,7 @@ Layer 3 solutions introduce several advantages, addressing challenges that gener
 One of the most significant benefits of L3s is their capacity for hyper-customization. General-purpose L2s must cater to diverse applications, which may not meet the specific needs of an individual dApp. An L3, often referred to as an "appchain" or "app-specific rollup," allows developers to create a blockchain environment that aligns perfectly with their application's requirements.
 
 - **Gaming:** Blockchain games often demand high transaction throughput for in-game actions without requiring extensive decentralization for every single move. An L3 can be designed to support thousands of transactions per second with near-instant confirmation, settling with the L2 at intervals.
-- **DeFi:** A high-frequency derivatives exchange may construct an L3 utilizing a specialized virtual machine or a consensus mechanism optimized for speed and low latency. This is not feasible on a general-purpose L2.
+- **DeFi:** A high-frequency derivatives exchange may construct an L3 using a specialized virtual machine or a consensus mechanism optimized for speed and low latency. This is not feasible on a general-purpose L2.
 - **Privacy:** Applications can implement L3s with intrinsic privacy features, such as zero-knowledge proofs, to obscure transactions from public visibility while maintaining the underlying L2/L1's transparency.
 
 #### 2. Enhanced Scalability and Cost Efficiency
@@ -85,7 +85,7 @@ While Layer 2 solutions will continue to improve, they serve general purposes. L
 The Layer 3 ecosystem is still developing, with projects like the Arbitrum Orbit framework enabling developers to launch their own L3s on Arbitrum One and the OP Stack facilitating L3 creation within the Optimism ecosystem.
 
 **5. Can a Layer 3 have its own token?**  
-Yes, it can utilize ETH or the parent L2's native token for transaction fees. However, many appchains will likely issue their own tokens for governance, staking, or fees within their network, enabling the creation of micro-economies.
+Yes, it can use ETH or the parent L2's native token for transaction fees. However, many appchains will likely issue their own tokens for governance, staking, or fees within their network, enabling the creation of micro-economies.
 
 ### The Web3 Opportunity
 
@@ -124,7 +124,7 @@ Dedicate 4-8 weeks to learning blockchain fundamentals, including:
 Depending on your target role:
 - **Engineers:** Focus on [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Study token economics, protocol governance, and user growth in Web3.
-- **Business Development:** Gain skills in market analysis, partnership strategies, and understanding the regulatory landscape.
+- **Business Development:** Gain skills in market analysis, partnership strategies, and understanding the regulatory space.
 - **Community/Operations:** Learn about community building, Discord management, and governance.
 
 #### Step 3: Build Your Portfolio
@@ -155,7 +155,7 @@ Target roles that build on your existing expertise combined with new Web3 knowle
 Alex, a backend engineer with five years at a tech company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol drew attention from a major DeFi project, leading to a transition that included a salary increase and significant equity.
 
 #### Product Manager in Web3
-Jessica, a PM with a background in traditional finance, leveraged her knowledge in DeFi. Her grasp of financial products, coupled with Web3 technology insights, made her highly desirable. Within weeks, she secured a role at a leading DeFi protocol.
+Jessica, a PM with a background in traditional finance, used her knowledge in DeFi. Her grasp of financial products, coupled with Web3 technology insights, made her highly desirable. Within weeks, she secured a role at a leading DeFi protocol.
 
 #### Career Changer Success
 Marcus transitioned from a corporate role to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a position leading Developer Relations at a major blockchain platform, with compensation that far exceeded his previous salary.
@@ -174,7 +174,7 @@ Marcus transitioned from a corporate role to focus on Web3 for six months. Throu
 
 - Web3 promises significant compensation premiums, often above Web2 roles, alongside accelerated career advancement and opportunities to engage with transformative technology in finance, governance, and digital ownership.
 - Most professionals can achieve a meaningful transition to Web3 within a few months of focused effort, with engineers and product managers typically progressing the fastest due to the direct transferability of their skills.
-- Leverage your existing domain expertise while layering in blockchain-specific context, such as understanding wallets, smart contracts, tokenomics, and DAOs.
+- Use your existing domain expertise while layering in blockchain-specific context, such as understanding wallets, smart contracts, tokenomics, and DAOs.
 - Networking through Discord and Twitter engagement, coupled with visible portfolio projects, consistently proves more effective than formal certifications for securing Web3 roles.
 - Prioritize well-funded, established protocols with proven revenue to mitigate the inherent risks of market volatility and negotiate base salaries in fiat currency.
 - The Web3 community remains open and supportive, offering mentorship programs, free educational resources, and vibrant developer communities across all major protocols.

@@ -17,7 +17,7 @@ synonyms:
   - Restaked LST
 ---
 
-**Liquid restaking** combines the capital efficiency of restaking with the liquidity of liquid staking tokens, enabling users to earn multiple layers of yield while maintaining asset liquidity. By depositing liquid staking tokens (like stETH or rETH) into restaking protocols and receiving Liquid Restaking Tokens (LRTs) in return, users can simultaneously earn base staking rewards, restaking rewards from AVS validation, and additional DeFi yields while keeping their assets liquid and composable.
+- **Liquid restaking** combines the capital efficiency of restaking with the liquidity of liquid staking tokens, enabling users to earn multiple layers of yield while maintaining asset liquidity. By depositing liquid staking tokens (like stETH or rETH) into restaking protocols and receiving Liquid Restaking Tokens (LRTs) in return, users can simultaneously earn base staking rewards, restaking rewards from AVS validation, and additional DeFi yields while keeping their assets liquid and composable.
 
 Liquid restaking abstracts away the complexity of validator operation and AVS selection while maintaining the economic benefits of participating in Ethereum's security ecosystem.
 
@@ -263,6 +263,6 @@ Liquid restaking continues to evolve:
 
 - **Native DeFi Integration**: Protocols building restaking directly into their architecture.
 
-- **Standardization**: ERC standards for LRTs enabling seamless interoperability across DeFi.
+- **Standardization**: ERC standards for LRTs enabling smooth interoperability across DeFi.
 
 Liquid restaking represents the future of staking, capital efficient, liquid, and composable. As the AVS ecosystem matures and yields stabilize, LRTs will likely become fundamental to DeFi.

@@ -1,7 +1,7 @@
 ---
 
 title: "Two Weeks' Notice Letter Templates"
-description: "Writing a two weeks' notice letter is a crucial part of leaving a job professionally. Here are several templates you can use to ensure you leave on good terms."
+description: "Writing a two weeks' notice letter is a important part of leaving a job professionally. Here are several templates you can use to ensure you leave on good terms."
 image: "https://picsum.photos/seed/313/1200/630"
 data-ai-hint: "writing letter"
 category: "Career Guides"
@@ -77,7 +77,7 @@ Wishing you and the company success in the future.
 Regards,  
 [Your Name]
 
-This template is intentionally brief and neutral, fulfilling your professional obligation without delving into personal issues. Discuss your reasons for leaving during an exit [interview](/how-to-prepare-for-job-interview) with HR, if you choose to participate.
+This template is intentionally brief and neutral, fulfilling your professional obligation without looking into personal issues. Discuss your reasons for leaving during an exit [interview](/how-to-prepare-for-job-interview) with HR, if you choose to participate.
 
 ### Template 4: If You Need to Give Less Than Two Weeks' Notice
 

@@ -147,15 +147,15 @@ Cryptoeconomic analysis is a quantitative discipline.
 
 Cryptoeconomics creates roles:
 
-**Protocol Economists** design token economics.
+- **Protocol Economists** design token economics.
 
-**Cryptoeconomic Researchers** study mechanisms.
+- **Cryptoeconomic Researchers** study mechanisms.
 
-**Game Theory Experts** analyze incentives.
+- **Game Theory Experts** analyze incentives.
 
-**Quantitative Analysts** model economics.
+- **Quantitative Analysts** model economics.
 
-**Data Scientists** analyze empirical data.
+- **Data Scientists** analyze empirical data.
 
 ## Best Practices
 

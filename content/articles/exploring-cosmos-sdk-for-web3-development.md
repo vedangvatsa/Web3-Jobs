@@ -49,7 +49,7 @@ Tendermint serves as the consensus engine for Cosmos SDK blockchains. Its Byzant
 IBC is a key feature of the Cosmos ecosystem. This standardized protocol facilitates communication between independent blockchains. 
 
 - **Functionality:** IBC enables one chain to monitor the state of another through a lightweight "light client," allowing for the transfer of tokens and arbitrary data between IBC-enabled chains.
-- **Interconnected Ecosystem:** This functionality creates a web of chains optimized for specific purposes. For example, a user could utilize assets from a [DeFi](/what-is-defi)-focused chain (such as Kava) to purchase an [NFT](/what-are-nfts) on a gaming chain, all facilitated by IBC.
+- **Interconnected Ecosystem:** This functionality creates a web of chains optimized for specific purposes. For example, a user could use assets from a [DeFi](/what-is-defi)-focused chain (such as Kava) to purchase an [NFT](/what-are-nfts) on a gaming chain, all facilitated by IBC.
 
 **3. The Cosmos Hub and the ATOM Token:**  
 The Cosmos Hub, the first blockchain in the Cosmos network, employs ATOM as its native token. The Hub acts as a central router for the ecosystem, providing security and facilitating interoperability among connected chains, referred to as "Zones." ATOM holders can stake their tokens to secure the Hub and participate in governance decisions.
@@ -102,7 +102,7 @@ Focus on skills pertinent to your desired role:
 
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Grasp market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Grasp market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Develop Your Portfolio
@@ -124,7 +124,7 @@ The Web3 community is accessible and welcoming:
 - Attend local Web3 meetups.
 
 ### Step 5: Apply for Roles Strategically
-Target positions that utilize your existing expertise along with new Web3 knowledge:
+Target positions that use your existing expertise along with new Web3 knowledge:
 
 - For backend engineers, seek blockchain infrastructure roles.
 - For product managers, look for protocol product roles.

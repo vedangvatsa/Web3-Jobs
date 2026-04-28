@@ -18,7 +18,7 @@ This transformation reshapes the power dynamics in the economy, altering how val
 
 In the Web2 era, many digital services function within "walled gardens." These platforms, such as the Apple App Store, YouTube, and Facebook, create closed environments where they dictate the rules, control user access, and retain a significant portion of the revenue.
 
-In contrast, the Web3 economy builds upon open, permissionless protocols. These protocols serve as public utilities, accessible for anyone to use and develop upon. This aspect of "composability" encourages rapid innovation, allowing developers to combine various protocols akin to "money legos" to create new applications. This shift from platforms to **[protocols](/what-is-a-protocol)** lays the groundwork for a more inclusive and innovative digital economy.
+In contrast, the Web3 economy builds upon open, permissionless protocols. These protocols serve as public utilities, accessible for anyone to use and develop upon. This aspect of "composability" encourages rapid innovation, allowing developers to combine various protocols akin to "money legos" to create new applications. This shift from platforms to **[protocols](/what-is-a-protocol)** lays the groundwork for a more inclusive and new digital economy.
 
 ### The Ownership Economy: Users as Stakeholders
 
@@ -32,7 +32,7 @@ In the Web3 framework, users gain ownership through governance [tokens](/what-is
 
 ### Supporting the Creator Economy
 
-Web3 introduces innovative tools for creators to monetize their work, establishing direct relationships with audiences while bypassing traditional intermediaries that often take a large cut.
+Web3 introduces new tools for creators to monetize their work, establishing direct relationships with audiences while bypassing traditional intermediaries that often take a large cut.
 
 In the Web2 setting, for example, a musician streaming their work on Spotify may earn a fraction of a cent per stream. Similarly, a writer on a social media platform typically does not receive direct compensation for their content.
 
@@ -91,7 +91,7 @@ Tailor your skill development based on your desired role:
 
 - **Engineers:** Focus on [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries such as ethers.js and web3.js.
 - **Product Managers:** Acquire knowledge in token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Cultivate skills in market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Cultivate skills in market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Develop expertise in community building, Discord management, and governance processes.
 
 ### Step 3: Build Your Portfolio
@@ -130,7 +130,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi. Her deep understanding of financial products combined with Web3 technology made her an invaluable asset. She secured a role at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi. Her deep understanding of financial products combined with Web3 technology made her an invaluable asset. She secured a role at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 

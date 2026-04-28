@@ -148,17 +148,17 @@ Stealth addresses are slowly gaining adoption as privacy demands increase.
 
 Privacy infrastructure creates roles:
 
-**Privacy Researchers** study privacy mechanisms.
+- **Privacy Researchers** study privacy mechanisms.
 
-**Cryptography Engineers** implement stealth addresses.
+- **Cryptography Engineers** implement stealth addresses.
 
-**Smart Contract Developers** build privacy contracts.
+- **Smart Contract Developers** build privacy contracts.
 
-**Full Stack Privacy Engineers** implement end-to-end privacy.
+- **Full Stack Privacy Engineers** implement end-to-end privacy.
 
-**Security Engineers** audit privacy systems.
+- **Security Engineers** audit privacy systems.
 
-**Privacy Product Managers** design privacy user experiences.
+- **Privacy Product Managers** design privacy user experiences.
 
 ## Best Practices
 

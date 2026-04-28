@@ -78,7 +78,7 @@ Several companies offer RPC infrastructure as a service:
 
 - **Infura**: One of the earliest and most popular Ethereum RPC providers, offering a free tier and paid plans. Supports Ethereum, Polygon, Arbitrum, Optimism, and other EVM chains.
 
-- **Alchemy**: Comprehensive blockchain development platform with RPC endpoints, enhanced APIs, and developer tools. Known for high reliability and performance. Offers a free tier.
+- **Alchemy**: Full blockchain development platform with RPC endpoints, enhanced APIs, and developer tools. Known for high reliability and performance. Offers a free tier.
 
 - **QuickNode**: Multi-chain RPC provider with global infrastructure and add-ons for analytics, webhooks, and specialized APIs. Subscription-based pricing.
 
@@ -140,7 +140,7 @@ These solutions aim to provide the reliability of commercial providers with the 
 
 For projects prioritizing decentralization or needing specialized access, running your own node remains an option:
 
-**Hardware Requirements** (Ethereum full node):
+- **Hardware Requirements** (Ethereum full node):
 - CPU: 4+ cores
 - RAM: 16+ GB
 - Storage: 2-4 TB fast SSD
@@ -232,4 +232,4 @@ RPC infrastructure continues to evolve:
 
 The infrastructure layer will likely become more decentralized, performant, and privacy-preserving, reducing the centralization risks that exist today.
 
-**Building blockchain applications?** Start with a reliable RPC provider like Alchemy or Infura, implement proper error handling and caching, and plan a path toward decentralization as your application scales.
+- **Building blockchain applications?** Start with a reliable RPC provider like Alchemy or Infura, implement proper error handling and caching, and plan a path toward decentralization as your application scales.

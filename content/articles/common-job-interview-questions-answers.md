@@ -92,7 +92,7 @@ Begin by familiarizing yourself with core interview principles. Study best pract
 
 #### Step 2: Assess Your Current Situation
 
-Evaluate your strengths and weaknesses. Identify specific challenges you face in interviews. Understanding your baseline is crucial for targeted improvement.
+Evaluate your strengths and weaknesses. Identify specific challenges you face in interviews. Understanding your baseline is important for targeted improvement.
 
 #### Step 3: Develop Your Personal Strategy
 

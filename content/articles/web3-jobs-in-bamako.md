@@ -21,7 +21,7 @@ Bamako's Web3 ecosystem is being constructed from the ground up, motivated by ne
 - **Mobile-First Population:** Mali is primarily a mobile-first country. The widespread use of mobile phones for communication and mobile money services creates a strong foundation for the adoption of accessible, mobile-based decentralized applications (dApps).
 - **Drive for Financial Inclusion:** A significant portion of the population remains unbanked, highlighting the urgent need for alternative financial services. Local entrepreneurs and developers explore how [DeFi](/what-is-defi), stablecoins, and [crypto wallets](/how-to-choose-a-crypto-wallet) can offer more accessible tools for savings, payments, and remittances.
 - **Growing Tech Hub:** Bamako is home to numerous tech hubs, incubators, and training centers that are nurturing a new generation of software developers and tech entrepreneurs. These hubs serve as focal points for the emerging Web3 community.
-- **Francophone Connections:** Bamako's position in Francophone West Africa fosters strong cultural and linguistic ties to a wider regional network, including the more developed tech scenes in Senegal and Ivory Coast, which can inspire collaboration.
+- **Francophone Connections:** Bamako's position in Francophone West Africa builds strong cultural and linguistic ties to a wider regional network, including the more developed tech scenes in Senegal and Ivory Coast, which can inspire collaboration.
 
 ### In-Demand Roles and Salary Expectations
 
@@ -35,7 +35,7 @@ The formal Web3 job market in Bamako currently offers limited opportunities. How
 
 - **Remote Web3 Developer (Full-Stack, Mobile):** The primary opportunity lies in remote development. A strong [portfolio](/building-web3-portfolio) and proficiency in English are essential. Mid-level to senior developers can earn international salaries that provide a high standard of living in Bamako.
   
-- **Community Manager (French/Bambara):** Local expertise is crucial for projects entering the Sahel region, creating opportunities for non-technical professionals. Mid-level community managers can expect to earn significant monthly compensation.
+- **Community Manager (French/Bambara):** Local expertise is important for projects entering the Sahel region, creating opportunities for non-technical professionals. Mid-level community managers can expect to earn significant monthly compensation.
 
 - **Entrepreneurs and Educators:** Those who take the initiative to start new projects or lead educational efforts to onboard more Malians into Web3 have the potential for the greatest impact. These roles often rely on self-funding or grants.
 
@@ -110,7 +110,7 @@ A developer earning a competitive salary monthly can expect the following expens
 
 **Months 1-4: Research & Planning**
 - Study DeFi protocols (Aave, Curve, Balancer)
-- Research Mali's financial inclusion landscape
+- Research Mali's financial inclusion space
 - Understand stablecoin ecosystems
 - Join 3-4 DeFi-focused communities
 - Time commitment: 12-15 hours/week
@@ -165,7 +165,7 @@ A developer earning a competitive salary monthly can expect the following expens
 
 **Challenge: Currency Volatility**
 - The Mali Franc (XOF) faces limitations for international transactions.
-- Mitigation strategies: Negotiate salaries in USD or stablecoins, utilize crypto-friendly remittance platforms, and maintain savings in stablecoins.
+- Mitigation strategies: Negotiate salaries in USD or stablecoins, use crypto-friendly remittance platforms, and maintain savings in stablecoins.
 
 **Challenge: Limited Local Opportunities**
 - The absence of Web3 companies operating in Mali.
@@ -221,7 +221,7 @@ A: In the first three months, focus on learning. In months 4-6, balance your eff
 A: Yes, it is advantageous. You possess deep insights into local challenges, you are addressing a large, underserved market, and global funding for impactful projects is available. Your barrier is execution, not location.
 
 **Q: How do I protect myself from scams?**
-A: (1) Work only with companies listed on reputable platforms, (2) secure written contracts, (3) utilize escrow services for freelance projects, (4) trust your instincts, if something feels off, it likely is, (5) seek referrals from verified community members.
+A: (1) Work only with companies listed on reputable platforms, (2) secure written contracts, (3) use escrow services for freelance projects, (4) trust your instincts, if something feels off, it likely is, (5) seek referrals from verified community members.
 
 **Q: Can I work full-time while studying?**
 A: Yes. Many individuals balance work and study. A suggested strategy involves studying during flexible hours. The initial months may be intense, but the investment pays off.

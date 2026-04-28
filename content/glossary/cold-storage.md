@@ -143,15 +143,15 @@ Sophisticated users employ additional security:
 
 Cold storage security creates professional opportunities:
 
-**Custody Solutions Architects** design and implement institutional-grade cold storage systems for exchanges and custodians. These roles require deep security knowledge.
+- **Custody Solutions Architects** design and implement institutional-grade cold storage systems for exchanges and custodians. These roles require deep security knowledge.
 
-**Security Auditors** evaluate cold storage procedures for institutions, identifying vulnerabilities.
+- **Security Auditors** evaluate cold storage procedures for institutions, identifying vulnerabilities.
 
-**Hardware Security Engineers** develop secure elements and hardware wallets at companies like Ledger. These specialized roles require expertise in hardware security.
+- **Hardware Security Engineers** develop secure elements and hardware wallets at companies like Ledger. These specialized roles require expertise in hardware security.
 
-**Ops Security Specialists** manage day-to-day cold storage operations for protocols and exchanges, ensuring keys remain secure while enabling necessary transactions.
+- **Ops Security Specialists** manage day-to-day cold storage operations for protocols and exchanges, ensuring keys remain secure while enabling necessary transactions.
 
-**Compliance Officers** ensure cold storage practices meet regulatory requirements for institutional crypto businesses.
+- **Compliance Officers** ensure cold storage practices meet regulatory requirements for institutional crypto businesses.
 
 ## Best Practices
 

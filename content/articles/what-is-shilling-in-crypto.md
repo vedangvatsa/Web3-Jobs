@@ -77,7 +77,7 @@ Depending on your desired role, focus on learning specific skills:
 |------------------------|---------------------------------------------------------|
 | Engineers              | [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js) |
 | Product Managers       | Token economics, protocol governance, user growth strategies in Web3 |
-| Business Development    | Market analysis, partnership strategy, understanding the regulatory landscape |
+| Business Development    | Market analysis, partnership strategy, understanding the regulatory space |
 | Community/Operations    | Community building, managing platforms like Discord, governance processes |
 
 ### Step 3: Develop Your Portfolio
@@ -116,7 +116,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Transitioning a Product Manager to Web3
 
-Jessica, a product manager from a traditional finance background, utilized her expertise in DeFi. Her deep understanding of financial products, combined with knowledge of Web3 technology, made her a valuable candidate. She secured a position at a leading DeFi protocol within a few weeks.
+Jessica, a product manager from a traditional finance background, used her expertise in DeFi. Her deep understanding of financial products, combined with knowledge of Web3 technology, made her a valuable candidate. She secured a position at a leading DeFi protocol within a few weeks.
 
 ### Career Change Success Story
 

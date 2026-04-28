@@ -45,13 +45,13 @@ While Solidity governs the application layer, Rust emerges as the preferred lang
 
 ## 3. JavaScript / TypeScript: The Frontend Language
 
-Your skills in JavaScript and TypeScript are crucial in Web3 development. Every decentralized application relies on a user-friendly frontend, where JavaScript excels.
+Your skills in JavaScript and TypeScript are important in Web3 development. Every decentralized application relies on a user-friendly frontend, where JavaScript excels.
 
 | Feature                     | Details                                                                                     |
 |-----------------------------|---------------------------------------------------------------------------------------------|
 | **Primary Use Case**        | Building dApp frontends, interacting with [crypto wallets](/how-to-choose-a-crypto-wallet), and developing backend services for off-chain components. |
 | **Ecosystems**              | Universal; every Web3 project requires a frontend.                                         |
-| **Importance**              | Users engage with dApps through web interfaces built with JavaScript. Additionally, tools like Hardhat utilize JavaScript/TypeScript for testing and deployment scripts. |
+| **Importance**              | Users engage with dApps through web interfaces built with JavaScript. Additionally, tools like Hardhat use JavaScript/TypeScript for testing and deployment scripts. |
 | **Pros**                    | - **Transferable Skills:** React developers can quickly adapt to building Web3 frontends. <br> - **Full-Stack Development:** Proficiency in both Solidity and JavaScript/TypeScript is essential for full-stack Web3 roles. <br> - **Strong Libraries:** Libraries such as Ethers.js simplify blockchain interactions from JavaScript applications. |
 | **Cons**                    | - **Limited to Client-Side Logic:** JavaScript cannot be used for writing smart contracts; its application is confined to the client-side and traditional server-side components. |
 
@@ -64,7 +64,7 @@ Python may not dominate smart contract development, but it plays a vital role in
 | Feature                     | Details                                                                                     |
 |-----------------------------|---------------------------------------------------------------------------------------------|
 | **Primary Use Case**        | Analyzing on-chain data, writing test scripts, rapid prototyping, and building backend services. |
-| **Ecosystems**              | Primarily utilized for interactions with EVM-based chains.                                 |
+| **Ecosystems**              | Primarily used for interactions with EVM-based chains.                                 |
 | **Importance**              | Blockchains generate vast amounts of public data. Python, with powerful libraries like Pandas and Matplotlib, excels in analyzing this data. Many testing frameworks employ Python to script interactions with smart contracts. |
 | **Pros**                    | - **User-Friendly:** Python's straightforward syntax makes it ideal for beginners. <br> - **Data Science Capabilities:** Excellent for those pursuing a career as an [on-chain data analyst](/on-chain-analyst-job). <br> - **Strong Web3 Libraries:** Libraries like Web3.py offer tools for Ethereum interactions. |
 | **Cons**                    | - **Limited Smart Contract Utility:** While some platforms have tested Python-like languages (e.g., Vyper) for smart contracts, widespread adoption is lacking. Its main function is off-chain. |

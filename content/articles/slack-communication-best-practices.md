@@ -28,7 +28,7 @@ A well-structured set of channels forms the backbone of an organized Slack works
     - `#team-` for functional teams (e.g., `#team-engineering`, `#team-marketing`)
     - `#help-` for requesting assistance from a team (e.g., `#help-it`, `#help-data`)
     - `#social-` for non-work topics (e.g., `#social-music`, `#social-pets`)
-- **Pin Important Messages and Documents:** Utilize the "Pin" feature to save key messages, links, or documents in the channel details. This serves as a quick reference for all members.
+- **Pin Important Messages and Documents:** Use the "Pin" feature to save key messages, links, or documents in the channel details. This serves as a quick reference for all members.
 - **Use the Channel Topic and Description:** Clearly define each channel's purpose in its topic or description. This helps users determine whether they are in the correct channel.
 
 | Channel Type           | Purpose                                      | Example Channel Name                |
@@ -47,7 +47,7 @@ Threads are essential for minimizing noise in busy channels. A thread allows a c
 
 ## 3. Respect the Notification: Communicate Asynchronously
 
-The main pitfall of Slack is the assumption of immediate responses, which can interrupt workflow. Successful teams utilize Slack as an asynchronous tool.
+The main pitfall of Slack is the assumption of immediate responses, which can interrupt workflow. Successful teams use Slack as an asynchronous tool.
 
 - **Do Not Expect an Instant Reply:** Recognize that colleagues may be in different time zones, attending meetings, or deep in work. Send your message and trust they will respond when available. For urgent matters, consider a phone call.
 - **Use `@here` and `@channel` Sparingly:** These commands notify every member of the channel and should be reserved for urgent announcements requiring immediate attention. Most communications do not warrant such notifications.
@@ -85,7 +85,7 @@ If you make a mistake or need to add information, edit your original message ins
 
 ## Conclusion
 
-Slack serves as a powerful communication tool, but its effectiveness lies in how teams choose to utilize it. By adhering to established best practices, teams can build an environment that enhances productivity, transparency, and respect for one another’s time. Properly managing Slack communication prevents distractions and cultivates a positive work atmosphere.
+Slack serves as a powerful communication tool, but its effectiveness lies in how teams choose to use it. By adhering to established best practices, teams can build an environment that enhances productivity, transparency, and respect for one another’s time. Properly managing Slack communication prevents distractions and cultivates a positive work atmosphere.
 
 ### Frequently Asked Questions (FAQ)
 
@@ -110,7 +110,7 @@ A4: This largely depends on your company's culture. Most modern workplaces welco
 
 ## Why This Matters
 
-Mastering effective communication in Slack is crucial for professional success. Professionals who excel in this area often stand out, earn higher salaries, and advance more quickly. This is especially true in [Web3](/what-is-web3) organizations where communication and collaboration are essential.
+Mastering effective communication in Slack is important for professional success. Professionals who excel in this area often stand out, earn higher salaries, and advance more quickly. This is especially true in [Web3](/what-is-web3) organizations where communication and collaboration are essential.
 
 ## Step-by-Step Guide
 

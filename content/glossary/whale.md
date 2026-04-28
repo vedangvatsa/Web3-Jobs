@@ -113,15 +113,15 @@ While most won't achieve whale status overnight, understanding the path helps:
 
 Understanding whale behavior and on-chain analysis is valuable professionally:
 
-**On-Chain Analysts** track whale movements and create market intelligence reports for trading firms and protocols.
+- **On-Chain Analysts** track whale movements and create market intelligence reports for trading firms and protocols.
 
-**Quantitative Traders** model whale behavior and develop strategies to trade alongside or against large holders.
+- **Quantitative Traders** model whale behavior and develop strategies to trade alongside or against large holders.
 
-**Market Makers** manage inventory and provide liquidity, often interacting with whales via OTC desks.
+- **Market Makers** manage inventory and provide liquidity, often interacting with whales via OTC desks.
 
-**Protocol Economists** design tokenomics to minimize whale dominance and governance capture risks.
+- **Protocol Economists** design tokenomics to minimize whale dominance and governance capture risks.
 
-**Risk Analysts** assess whale concentration risks for lending protocols, exchanges, and investment funds.
+- **Risk Analysts** assess whale concentration risks for lending protocols, exchanges, and investment funds.
 
 ## Interacting with Whales
 
@@ -153,4 +153,4 @@ Whale dynamics continue evolving:
 
 ## Navigate Whale-Influenced Markets
 
-Understanding whale behavior is crucial whether you're trading, building protocols, or analyzing markets. If you're interested in market microstructure, on-chain analysis, or quantitative trading, explore crypto trading and analytics roles at leading exchanges, trading firms, and data platforms. These positions place you at the intersection of finance, data science, and blockchain technology.
+Understanding whale behavior is important whether you're trading, building protocols, or analyzing markets. If you're interested in market microstructure, on-chain analysis, or quantitative trading, explore crypto trading and analytics roles at leading exchanges, trading firms, and data platforms. These positions place you at the intersection of finance, data science, and blockchain technology.

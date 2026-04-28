@@ -51,13 +51,13 @@ When someone interacts with a smart contract, they send a transaction to the blo
 
 ## Programming Languages and Platforms
 
-**Solidity** dominates Ethereum smart contract development. Syntactically similar to JavaScript and C++, it compiles to EVM bytecode. Solidity developers must understand gas optimization, security patterns, and common vulnerabilities. Resources like OpenZeppelin provide battle-tested contract libraries that implement standards safely.
+- **Solidity** dominates Ethereum smart contract development. Syntactically similar to JavaScript and C++, it compiles to EVM bytecode. Solidity developers must understand gas optimization, security patterns, and common vulnerabilities. Resources like OpenZeppelin provide battle-tested contract libraries that implement standards safely.
 
-**Vyper**, Ethereum's alternative to Solidity, prioritizes security and auditability over features. Its Python-like syntax appeals to developers from scientific computing backgrounds. Vyper's design philosophy emphasizes simplicity, deliberately omitting features that could introduce bugs.
+- **Vyper**, Ethereum's alternative to Solidity, prioritizes security and auditability over features. Its Python-like syntax appeals to developers from scientific computing backgrounds. Vyper's design philosophy emphasizes simplicity, deliberately omitting features that could introduce bugs.
 
-**Rust** powers smart contracts on Solana, Near, and Polkadot. Rust's memory safety guarantees and performance characteristics make it popular for high-throughput chains. The learning curve is steeper than Solidity, but Rust's growing ecosystem and tooling continue improving.
+- **Rust** powers smart contracts on Solana, Near, and Polkadot. Rust's memory safety guarantees and performance characteristics make it popular for high-throughput chains. The learning curve is steeper than Solidity, but Rust's growing ecosystem and tooling continue improving.
 
-**Move**, developed for Diem (Facebook's blockchain project), focuses on resource safety. Sui and Aptos now use Move, bringing novel programming paradigms to smart contract development.
+- **Move**, developed for Diem (Facebook's blockchain project), focuses on resource safety. Sui and Aptos now use Move, bringing novel programming paradigms to smart contract development.
 
 ## Security Considerations
 
@@ -77,7 +77,7 @@ Smart contract audits by firms like Trail of Bits, OpenZeppelin, and Consensys D
 
 ## Testing and Deployment
 
-Professional smart contract development includes comprehensive testing:
+Professional smart contract development includes full testing:
 
 - **Unit Tests**: Test individual functions in isolation. Hardhat and Foundry provide testing frameworks that simulate blockchain environments.
 

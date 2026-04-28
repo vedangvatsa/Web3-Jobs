@@ -22,7 +22,7 @@ A token's supply mechanics form the cornerstone of its design, incorporating fun
 - **Maximum Supply:** Does the token have a hard cap? For instance, [Bitcoin](/what-is-bitcoin) has a maximum supply of 21 million tokens, making it a deflationary asset comparable to digital gold.
 - **Circulating Supply:** What is the current number of tokens available for trading?
 - **Inflation vs. Deflation:**
-  - **Inflationary Tokens:** These tokens are continuously created over time, typically as rewards for miners or stakers. An example is [Ethereum](/what-is-ethereum), where the inflation rate is a crucial metric.
+  - **Inflationary Tokens:** These tokens are continuously created over time, typically as rewards for miners or stakers. An example is [Ethereum](/what-is-ethereum), where the inflation rate is a important metric.
   - **Deflationary Tokens:** These tokens decrease in supply over time, often through a "burn" mechanism that permanently removes a portion of transaction fees from circulation.
 
 **Consideration:** Does the supply model promote long-term scarcity and value appreciation, or does it favor high inflation that could devalue early adopters' holdings?
@@ -46,7 +46,7 @@ The utility of a token defines its intrinsic value and generates demand beyond m
 
 - **Governance:** Token holders typically have voting rights on proposals that shape the protocol's future, effectively making them shareholders in a decentralized company.
 - **[Staking](/how-to-become-a-web3-staking-specialist) / Security:** In Proof of Stake networks, users can stake their tokens to secure the network, earning a share of transaction fees or inflationary rewards. This creates demand for the token while reducing its circulating supply.
-- **Medium of Exchange:** Can the token be used to purchase goods or services within the ecosystem? For instance, in the decentralized storage network Filecoin, users must utilize the FIL token for storage payments.
+- **Medium of Exchange:** Can the token be used to purchase goods or services within the ecosystem? For instance, in the decentralized storage network Filecoin, users must use the FIL token for storage payments.
 - **Fee Accrual:** Holding the token may entitle you to a portion of the protocol's revenue. For example, some decentralized exchanges use a part of their generated trading fees to buy back and burn their native tokens, indirectly benefiting token holders.
 
 **Consideration:** Is there a strong rationale for holding this token long-term beyond price speculation? A token with strong utility typically indicates a sustainable project.
@@ -175,4 +175,4 @@ Bear markets often provide the best opportunities to enter Web3. As speculative 
 
 ## Conclusion
 
-Web3 presents remarkable opportunities for professionals seeking to advance their careers in a high-demand environment. The sector offers substantial compensation premiums, expedited career growth, and the chance to contribute to transformative technology. By understanding tokenomics and building a strong knowledge foundation in blockchain concepts, you can effectively transition into a Web3 role. Your existing expertise provides a valuable foundation as you layer on Web3-specific context. Engage with the community, take advantage of networking opportunities, and remain mindful of the evolving market. The Web3 ecosystem is poised for growth, and your involvement could play a crucial role in shaping its future.
+Web3 presents remarkable opportunities for professionals seeking to advance their careers in a high-demand environment. The sector offers substantial compensation premiums, expedited career growth, and the chance to contribute to transformative technology. By understanding tokenomics and building a strong knowledge foundation in blockchain concepts, you can effectively transition into a Web3 role. Your existing expertise provides a valuable foundation as you layer on Web3-specific context. Engage with the community, take advantage of networking opportunities, and remain mindful of the evolving market. The Web3 ecosystem is poised for growth, and your involvement could play a important role in shaping its future.

@@ -77,9 +77,9 @@ Active listening forms the foundation of relationship-building, yet it is often 
 - Checking your watch or phone during conversations.
 
 #### Why Active Listening Works
-People often feel unheard. By practicing active listening, you establish yourself as someone who values their input, fostering stronger connections.
+People often feel unheard. By practicing active listening, you establish yourself as someone who values their input, building stronger connections.
 
-### 3. Remember and Utilize Details
+### 3. Remember and Use Details
 
 Taking notes is just the beginning; actively using them solidifies relationships.
 
@@ -125,7 +125,7 @@ Reciprocal support is essential for building solid relationships. Strive to be a
 > "I'm trying to grasp our deployment process. Since you've done this several times, could you walk me through it? I promise to take detailed notes."
 
 #### The Psychology Behind It
-Benjamin Franklin observed that people who perform favors for others tend to develop a liking for them. By asking for help in a straightforward manner, you enhance relationships. Helping others similarly fosters appreciation and respect.
+Benjamin Franklin observed that people who perform favors for others tend to develop a liking for them. By asking for help in a straightforward manner, you enhance relationships. Helping others similarly builds appreciation and respect.
 
 ### 5. Participate in Social and Non-Work Activities
 
@@ -135,7 +135,7 @@ Relationship-building extends beyond work-related tasks. Make an effort to conne
 - **Lunch Together**: Invite colleagues to join you for lunch or eat in shared areas.
 - **Social Events**: Attend company happy hours, team lunches, and celebrations.
 - **Engage with Office Culture**: Join Slack channels and participate in office traditions.
-- **Coffee Breaks**: A simple "Want to grab coffee?" can foster informal connections.
+- **Coffee Breaks**: A simple "Want to grab coffee?" can build informal connections.
 
 #### In Remote Settings
 Remote work can complicate relationship-building, but it is feasible:
@@ -147,7 +147,7 @@ Remote work can complicate relationship-building, but it is feasible:
 - **Propose Virtual Social Events**: Organize game nights, trivia, or skill-sharing sessions.
 
 #### Why This Matters
-Casual interactions help you see colleagues as people rather than mere workers. Authentic connections foster trust and reveal shared values, interests, and personalities.
+Casual interactions help you see colleagues as people rather than mere workers. Authentic connections build trust and reveal shared values, interests, and personalities.
 
 ### 6. Provide and Receive Feedback Gracefully
 
@@ -204,7 +204,7 @@ Or: "I respect your commitment to mentoring junior developers. I’d like to dev
 
 #### Remote Teams
 - **Over-Communicate**: Compensate for the lack of face-to-face interaction with intentional communication.
-- **Utilize Video**: Always turn on your camera during meetings.
+- **Use Video**: Always turn on your camera during meetings.
 - **Engage Actively**: Use Slack to build connections.
 - **Establish Regular 1-on-1s**: Create a consistent rhythm for your interactions.
 - **Use Asynchronous Communication**: Share interesting articles or insights to prompt engagement.
@@ -213,7 +213,7 @@ Or: "I respect your commitment to mentoring junior developers. I’d like to dev
 - **Be Present on In-Office Days**: Attend when your team gathers.
 - **Schedule Coffee Chats**: Arrange both in-person and virtual meetings.
 - **Involve Remote Colleagues**: Make an effort to include remote team members in discussions.
-- **Utilize Transitional Moments**: Use the time before and after meetings for relationship-building.
+- **Use Transitional Moments**: Use the time before and after meetings for relationship-building.
 
 #### Co-Located Teams
 - **Maximize Physical Space**: Sit near teammates, share lunch, and use casual interactions intentionally.
@@ -223,7 +223,7 @@ Or: "I respect your commitment to mentoring junior developers. I’d like to dev
 ### Common Relationship-Building Mistakes
 
 1. **Only Discussing Work**: Avoid solely focusing on projects; personal sharing enhances connection.
-2. **Being Inauthentic**: Authenticity is crucial; people can sense when someone is being fake.
+2. **Being Inauthentic**: Authenticity is important; people can sense when someone is being fake.
 3. **Networking Without Genuine Interest**: Approach relationships with curiosity rather than a transactional mindset.
 4. **Disappearing After Initial Meetings**: Relationships require ongoing interaction; make regular contact a habit.
 5. **Forgetting Names and Details**: Forgetting someone's name or personal details signals disinterest. Use their name and reference what they’ve shared.
@@ -246,7 +246,7 @@ Often, distant colleagues will warm up as they see your trustworthiness and comp
 
 Be deliberate in your approach:
 - **Schedule regular 1-on-1s** with all team members.
-- **Use video** for all meetings to foster connection.
+- **Use video** for all meetings to build connection.
 - **Engage actively** in Slack channels by reacting, responding, and sharing.
 - **Suggest virtual social events** like game nights or coffee chats.
 - **Over-communicate** your thoughts and work to strengthen connections.

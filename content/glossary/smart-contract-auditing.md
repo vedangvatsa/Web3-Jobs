@@ -17,7 +17,7 @@ synonyms:
   - Contract review
 ---
 
-**Smart contract auditing** is the systematic review and analysis of smart contract code to identify security vulnerabilities, logical flaws, and operational risks before deployment. Audits are critical in crypto because once smart contracts are deployed and hold funds, they are immutable. Bugs become permanent, potentially allowing theft of funds.
+- **Smart contract auditing** is the systematic review and analysis of smart contract code to identify security vulnerabilities, logical flaws, and operational risks before deployment. Audits are critical in crypto because once smart contracts are deployed and hold funds, they are immutable. Bugs become permanent, potentially allowing theft of funds.
 
 Professional audit firms like Trail of Bits, Certora, OpenZeppelin, and Spearbit employ teams of security engineers who specialize in finding exploitable flaws in code. Well-audited contracts significantly reduce the risk of catastrophic bugs. However, even heavily audited contracts have been exploited, making auditing an important but imperfect security tool.
 
@@ -55,7 +55,7 @@ Different audit approaches serve different purposes:
 
 ### Full Code Review
 
-- **Scope**: Comprehensive line-by-line review of all contract code.
+- **Scope**: Full line-by-line review of all contract code.
 
 - **Process**:
 1. Auditors read and understand all code.
@@ -124,9 +124,9 @@ Different audit approaches serve different purposes:
 - Aave bug bounty program.
 - Curve Finance bug bounty program.
 
-- **Advantages**: Leverages many security minds and crowdsourced security.
+- **Advantages**: Uses many security minds and crowdsourced security.
 
-- **Disadvantages**: Doesn't guarantee comprehensive coverage.
+- **Disadvantages**: Doesn't guarantee full coverage.
 
 - **Cost**: Variable, depends on bounty payouts.
 
@@ -290,7 +290,7 @@ Smart contract security is among the highest-paid specializations in crypto due 
 
 Before commissioning an audit:
 
-- **Comprehensive Testing**: Write thorough unit and integration tests covering normal and edge cases.
+- **Full Testing**: Write thorough unit and integration tests covering normal and edge cases.
 
 - **Code Quality**: Clean, well-documented code is easier and faster to audit.
 
@@ -324,4 +324,4 @@ Security is evolving:
 
 Smart contract security remains a critical field. Better tools, techniques, and incentives will improve the baseline security of blockchain applications.
 
-**Deploying a smart contract?** Commission a professional audit from a reputable firm, run a bug bounty, conduct extensive testing, and plan for the possibility that vulnerabilities still exist. Use upgradeable contracts with proper governance for critical protocols.
+- **Deploying a smart contract?** Commission a professional audit from a reputable firm, run a bug bounty, conduct extensive testing, and plan for the possibility that vulnerabilities still exist. Use upgradeable contracts with proper governance for critical protocols.

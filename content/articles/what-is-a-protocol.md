@@ -35,13 +35,13 @@ The **Uniswap Protocol** serves as an illustration. Unlike traditional companies
 
 ### Key Characteristics of a Web3 Protocol
 
-1. **Open and Permissionless:** Users can utilize the Uniswap protocol to swap tokens freely. Developers can create new applications on top of this protocol without seeking approval. This flexibility is why [DeFi](/what-is-defi) is often referred to as "money legos."
+1. **Open and Permissionless:** Users can use the Uniswap protocol to swap tokens freely. Developers can create new applications on top of this protocol without seeking approval. This flexibility is why [DeFi](/what-is-defi) is often referred to as "money legos."
    
 2. **Neutral and Censorship-Resistant:** The rules of the protocol are upheld by the unchangeable code of smart contracts. No single entity can block a transaction that complies with the protocol’s guidelines.
    
 3. **Community-Governed:** Successful protocols often operate under a [DAO (Decentralized Autonomous Organization)](/what-is-a-dao). Token holders can vote to modify the protocol’s rules over time.
    
-4. **Composability:** Open protocols enable integration in innovative ways. For instance, a lending protocol may build upon a decentralized exchange protocol, which may depend on a stablecoin protocol. This interconnectedness supports a network effect and drives innovation.
+4. **Composability:** Open protocols enable integration in new ways. For instance, a lending protocol may build upon a decentralized exchange protocol, which may depend on a stablecoin protocol. This interconnectedness supports a network effect and drives innovation.
 
 When you encounter the term "protocol" in Web3, view it as a foundational, open-source building block for the new internet. Unlike private applications, protocols serve as shared public goods. The transition from platforms to protocols encapsulates the architectural evolution that underscores the vision for a more decentralized digital future.
 
@@ -105,7 +105,7 @@ The Web3 community is notably welcoming:
 - Attend local Web3 meetups to broaden your network
 
 ### Step 5: Apply Strategically
-Target roles that utilize your existing expertise combined with new Web3 knowledge:
+Target roles that use your existing expertise combined with new Web3 knowledge:
 
 - Backend engineers should seek blockchain infrastructure roles.
 - Product managers can look for protocol-specific positions.

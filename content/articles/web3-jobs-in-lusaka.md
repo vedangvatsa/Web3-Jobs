@@ -3,7 +3,7 @@
 title: "Web3 Jobs in Lusaka: A Guide to Zambia's Emerging Crypto Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "lusaka zambia city"
-description: "A career guide to the Web3 job market in Lusaka. Explore how Zambia's capital is fostering a growing blockchain community with a focus on FinTech."
+description: "A career guide to the Web3 job market in Lusaka. Explore how Zambia's capital is building a growing blockchain community with a focus on FinTech."
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
@@ -206,4 +206,4 @@ Look for roles posted on reputable job boards, ensure the company has a verifiab
 
 ### Conclusion
 
-Lusaka's Web3 ecosystem presents a unique opportunity for professionals seeking to make their mark in this exciting field. By focusing on local needs, engaging with the community, and building a strong portfolio, you can position yourself for success in Zambia's emerging crypto landscape. Whether you aim to be a developer, a community builder, or an AgriTech specialist, the potential for growth and innovation is significant. Accept the challenges and use the opportunities that Lusaka offers as you embark on your Web3 journey.
+Lusaka's Web3 ecosystem presents a unique opportunity for professionals seeking to make their mark in this exciting field. By focusing on local needs, engaging with the community, and building a strong portfolio, you can position yourself for success in Zambia's emerging crypto space. Whether you aim to be a developer, a community builder, or an AgriTech specialist, the potential for growth and innovation is significant. Accept the challenges and use the opportunities that Lusaka offers as you embark on your Web3 journey.

@@ -30,7 +30,7 @@ This article details the nature of price impact, its causes, differences from sl
 
 ### Mechanics of AMMs and Price Impact
 
-To fully grasp price impact, one must understand how AMMs function, particularly platforms like Uniswap. Unlike traditional order book exchanges, AMMs utilize liquidity pools governed by mathematical formulas, notably the **[constant product formula](/understanding-constant-product-formula)** (`x * y = k`).
+To fully grasp price impact, one must understand how AMMs function, particularly platforms like Uniswap. Unlike traditional order book exchanges, AMMs use liquidity pools governed by mathematical formulas, notably the **[constant product formula](/understanding-constant-product-formula)** (`x * y = k`).
 
 - A liquidity pool consists of two tokens, for example, [ETH](/what-is-ethereum) and USDC.
 - The formula dictates that the product of the quantities of these tokens remains constant, excluding fees.
@@ -84,7 +84,7 @@ To manage price impact, traders can adjust their trade size, while slippage risk
 
 1. **Review DEX Interface**: Major DEXs display price impact warnings before confirming a trade. If the impact exceeds 1%, reconsider proceeding with the transaction.
 2. **Prioritize High-Liquidity Pools**: Seek out pools with deep liquidity for your asset pair. Larger pools can absorb substantial trades with minimal price impact.
-3. **Utilize DEX Aggregators**: Platforms like 1inch or Matcha serve as DEX aggregators, automatically distributing large trades across multiple liquidity pools to minimize overall price impact.
+3. **Use DEX Aggregators**: Platforms like 1inch or Matcha serve as DEX aggregators, automatically distributing large trades across multiple liquidity pools to minimize overall price impact.
 4. **Manually Split Trades**: In the absence of an aggregator, consider breaking large trades into smaller portions. Executing five trades of smaller amounts will incur less total price impact than a single large trade.
 
 ### Frequently Asked Questions (FAQ)
@@ -115,7 +115,7 @@ Grasping price impact is vital for professionals in the Web3 space. Mastering th
 
 4. **Implement Changes Gradually**: Avoid overwhelming yourself with simultaneous changes. Focus on small, incremental improvements, tracking outcomes to refine your strategy.
 
-5. **Continuously Monitor and Adapt**: Regularly evaluate your trading performance. Use feedback to make necessary adjustments, fostering a mindset geared toward continuous improvement.
+5. **Continuously Monitor and Adapt**: Regularly evaluate your trading performance. Use feedback to make necessary adjustments, building a mindset geared toward continuous improvement.
 
 ### Real-World Trading Scenarios
 

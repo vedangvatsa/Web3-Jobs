@@ -34,7 +34,7 @@ Engage with the ongoing conversations in Web3, primarily on Twitter (X) and thro
 -   **Podcasts:** Tune into shows like *Bankless*, *The Defiant*, and *Unchained* for in-depth insights into current trends and narratives.
 
 **3. Gain Practical Experience:**
-Active participation is crucial. 
+Active participation is important. 
 -   **Get a [Wallet](/how-to-choose-a-crypto-wallet):** Install MetaMask as your browser extension. This wallet serves as your access point to Web3. Importantly, write down your seed phrase on paper and store it securely. Never keep it digitally.
 -   **Purchase a Small Amount of Cryptocurrency:** Use a trusted centralized exchange like Coinbase to buy a modest amount of [Ethereum](/what-is-ethereum) (ETH).
 -   **Execute Your First Transaction:** Withdraw your ETH from the exchange to your personal MetaMask wallet. This step teaches you about self-custody.
@@ -103,7 +103,7 @@ Invest 4-8 weeks in understanding blockchain fundamentals. Key areas include:
 Identify skills that align with your target role:
 - **Engineers:** Focus on Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Gain knowledge in token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Develop skills in market analysis, partnership strategy, and understanding the regulatory landscape.
+- **Business Development:** Develop skills in market analysis, partnership strategy, and understanding the regulatory space.
 - **Community/Operations:** Cultivate abilities in community building, Discord management, and governance.
 
 #### Step 3: Build Your Portfolio
@@ -133,7 +133,7 @@ Target roles that combine your existing expertise with newfound Web3 knowledge. 
 Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while maintaining his job. He contributed to an open-source protocol, which caught the eye of a leading DeFi project. This transition resulted in a significant salary increase along with substantial equity.
 
 #### Product Manager in Web3
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi. Her deep understanding of financial products alongside Web3 technology made her an invaluable asset. Within a short period, she secured a position at a prominent DeFi protocol.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi. Her deep understanding of financial products alongside Web3 technology made her an invaluable asset. Within a short period, she secured a position at a prominent DeFi protocol.
 
 #### Career Changer Success
 Marcus transitioned from a corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a role leading Developer Relations at a major blockchain platform, enjoying compensation significantly higher than his previous job.

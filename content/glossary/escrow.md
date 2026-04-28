@@ -109,15 +109,15 @@ Smart contract escrow is more cost-effective than traditional solutions.
 
 Escrow creates roles:
 
-**Smart Contract Engineers** build escrow systems.
+- **Smart Contract Engineers** build escrow systems.
 
-**Security Auditors** audit escrow contracts.
+- **Security Auditors** audit escrow contracts.
 
-**Dispute Resolution Specialists** manage escrow disputes.
+- **Dispute Resolution Specialists** manage escrow disputes.
 
-**Protocol Designers** design escrow mechanisms.
+- **Protocol Designers** design escrow mechanisms.
 
-**Marketplace Developers** integrate escrow into marketplaces.
+- **Marketplace Developers** integrate escrow into marketplaces.
 
 ## Best Practices
 

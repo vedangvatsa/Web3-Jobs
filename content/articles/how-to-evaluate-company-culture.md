@@ -22,7 +22,7 @@ Company culture transcends free snacks or ping pong tables, which are merely per
 
 #### 1. Values and Mission
 
-A well-defined mission is crucial. Evaluate whether employees genuinely believe in the company's mission. A company's stated values remain just words until they are actively implemented.
+A well-defined mission is important. Evaluate whether employees genuinely believe in the company's mission. A company's stated values remain just words until they are actively implemented.
 
 - **What to look for:** Assess the alignment between the company’s public statements and employee sentiments. Do employees reference the mission when discussing their projects?
 - **Red Flags:** Generic values such as "Excellence" or "Integrity" without specific examples of their application. Employees unable to articulate the company's mission or who appear disconnected from it.
@@ -95,7 +95,7 @@ Non-verbal cues and the environment can be telling. Pay close attention to these
 
 Your evaluation should extend beyond the interview. Conduct independent research for a more complete understanding.
 
-- **Employee Review Platforms:** Utilize sites like Glassdoor and Blind to read employee reviews. Identify recurring themes in pros and cons. One negative review may be an anomaly, but a pattern of complaints signals a significant issue.
+- **Employee Review Platforms:** Use sites like Glassdoor and Blind to read employee reviews. Identify recurring themes in pros and cons. One negative review may be an anomaly, but a pattern of complaints signals a significant issue.
 - **LinkedIn:** Review profiles of current and former employees. What is their average tenure? High turnover rates may indicate a problematic culture. Reach out to mutual connections for candid feedback.
 - **Company Blog and Social Media:** Analyze how the company presents itself publicly. Does its branding resonate with your interview experiences?
 
@@ -111,7 +111,7 @@ Begin by grasping the core principles of company culture evaluation. Familiarize
 
 #### Step 2: Assess Your Current Situation
 
-Evaluate your current situation. Identify your strengths and weaknesses. Determine specific challenges you face. Understanding your baseline is crucial for effective evaluation.
+Evaluate your current situation. Identify your strengths and weaknesses. Determine specific challenges you face. Understanding your baseline is important for effective evaluation.
 
 #### Step 3: Develop Your Personal Strategy
 
@@ -119,7 +119,7 @@ Create a plan tailored to your circumstances. Each person’s context is unique,
 
 #### Step 4: Implement Gradually
 
-Avoid attempting to change everything simultaneously. Start with one small adjustment and build from there. Track what works and what doesn’t. This iterative approach fosters sustainable improvement.
+Avoid attempting to change everything simultaneously. Start with one small adjustment and build from there. Track what works and what doesn’t. This iterative approach builds sustainable improvement.
 
 #### Step 5: Measure and Adjust
 

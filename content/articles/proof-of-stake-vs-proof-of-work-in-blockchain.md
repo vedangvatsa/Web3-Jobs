@@ -19,7 +19,7 @@ Understanding the distinctions between PoW and PoS is essential for grasping the
 Proof-of-Work was first implemented by [Bitcoin](/what-is-bitcoin) and relies on computational power.
 
 - **How it Works:**
-    - Participants, known as "miners," utilize specialized computers to compete in solving complex mathematical puzzles.
+    - Participants, known as "miners," use specialized computers to compete in solving complex mathematical puzzles.
     - The first miner to solve the puzzle adds the next block of transactions to the [blockchain](/what-is-a-blockchain).
     - As a reward, the miner receives newly minted cryptocurrency along with transaction fees from the block. This process is referred to as **[mining](/blockchain-mining-explained-for-beginners)**.
 
@@ -29,7 +29,7 @@ Proof-of-Work was first implemented by [Bitcoin](/what-is-bitcoin) and relies on
 
 - **Cons:** This mechanism consumes vast amounts of energy, raising significant environmental concerns and experiencing inherent scalability challenges.
 
-- **Examples:** Prominent cryptocurrencies utilizing PoW include Bitcoin, Litecoin, and Dogecoin.
+- **Examples:** Prominent cryptocurrencies using PoW include Bitcoin, Litecoin, and Dogecoin.
 
 ### Proof-of-Stake (PoS): The Energy-Efficient Alternative
 

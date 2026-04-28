@@ -38,7 +38,7 @@ The job market in Mumbai favors professionals with a blend of finance and techno
 
 ### Building a Web3 Career in Mumbai
 
-1. **Utilize Your TradFi Experience**: Your background in investment banking, asset management, trading, or financial regulation is a valuable asset. Highlight your understanding of financial markets and risk management on your [resume](/how-to-build-a-web3-resume-that-stands-out) and in interviews, demonstrating how you’ve applied this knowledge in the Web3 sector.
+1. **Use Your TradFi Experience**: Your background in investment banking, asset management, trading, or financial regulation is a valuable asset. Highlight your understanding of financial markets and risk management on your [resume](/how-to-build-a-web3-resume-that-stands-out) and in interviews, demonstrating how you’ve applied this knowledge in the Web3 sector.
    
 2. **Engage with DeFi Platforms**: To contribute effectively to DeFi products, you must have firsthand experience using them. Engage actively within the ecosystem by providing liquidity on a [DEX](/what-is-a-decentralized-exchange-dex), obtaining loans on platforms like Aave, or exploring derivatives protocols. Your practical experience enhances your profile.
 
@@ -137,7 +137,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 
 **Volatility Risk**: The crypto market's volatility can affect job stability, especially in early-stage startups. New entrants should maintain 6-12 months of living expenses, negotiate base salaries in fiat currency, and join projects with established revenue models or substantial treasury backing.
 
-**Regulatory Uncertainty**: The legal landscape for blockchain companies remains in flux. Verify that potential employers have competent legal counsel and engage proactively with regulators.
+**Regulatory Uncertainty**: The legal space for blockchain companies remains in flux. Verify that potential employers have competent legal counsel and engage proactively with regulators.
 
 **Due Diligence**: Not every Web3 project is legitimate. Investigate the founding team's history, review smart contract audit reports, verify on-chain treasury holdings, and consult current or former team members before accepting job offers.
 

@@ -38,9 +38,9 @@ During this month, clarify expectations for each team member. Ensure that everyo
 
 By the end of your first three months, you should have established a reliable operating rhythm, which includes:
 
-- **Regular One-on-Ones**: Treat these meetings as essential. Do not cancel them. They are crucial for coaching, feedback, and maintaining connections with your team. Schedule weekly or bi-weekly 30-minute check-ins, allowing your team members to set the agenda.
+- **Regular One-on-Ones**: Treat these meetings as essential. Do not cancel them. They are important for coaching, feedback, and maintaining connections with your team. Schedule weekly or bi-weekly 30-minute check-ins, allowing your team members to set the agenda.
   
-- **Purposeful Team Meetings**: Define the objective of your team meetings. Are they for brainstorming, decision-making, or information sharing? Avoid allowing them to devolve into monotonous status updates. Utilize a collaborative agenda that encourages contributions from all team members.
+- **Purposeful Team Meetings**: Define the objective of your team meetings. Are they for brainstorming, decision-making, or information sharing? Avoid allowing them to devolve into monotonous status updates. Use a collaborative agenda that encourages contributions from all team members.
 
 - **Real-Time Feedback**: Do not wait for performance reviews to provide feedback. Offer constructive and positive feedback in the moment. A simple acknowledgment like, "Your presentation was impressive; the data you provided made a strong impact," can significantly motivate your team.
 
@@ -74,7 +74,7 @@ Yes, feeling overwhelmed is common among new managers. The role often involves j
 
 **Should I change processes established by my predecessor?**
 
-Avoid making changes solely for the sake of change. Your initial listening tour is crucial for understanding what processes your team values and which ones they find ineffective. If you identify a clearly inefficient process that the team dislikes, consider it for an early win. However, if an existing system works well, even if it differs from your preferred approach, exercise caution before altering it.
+Avoid making changes solely for the sake of change. Your initial listening tour is important for understanding what processes your team values and which ones they find ineffective. If you identify a clearly inefficient process that the team dislikes, consider it for an early win. However, if an existing system works well, even if it differs from your preferred approach, exercise caution before altering it.
 
 ## Why Understanding This Matters
 

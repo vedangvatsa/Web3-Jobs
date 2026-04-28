@@ -4,7 +4,7 @@ slug: "defi-composability"
 category: "defi"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
-description: "The ability of different DeFi protocols to combine and interact seamlessly, enabling complex strategies using multiple protocols in single transactions and creating compound value."
+description: "The ability of different DeFi protocols to combine and interact smoothly, enabling complex strategies using multiple protocols in single transactions and creating compound value."
 relatedTerms: ["defi", "smart-contract", "protocol", "ethereum"]
 synonyms: ["money legos", "composable finance", "protocol interoperability"]
 ---
@@ -39,7 +39,7 @@ Real-world examples:
 
 - **Governance Attacks**: Flash borrow governance tokens, vote on a malicious proposal, earn profit, and repay in an attack (now prevented in most protocols).
 
-- **Portfolio Rebalancing**: Withdraw from pool A, swap tokens, deposit to pool B, and adjust leverage in a single transaction.
+- **Portfolio Rebalancing**: Withdraw from pool A, swap tokens, deposit to pool B, and adjust use in a single transaction.
 
 Composability enables strategies impossible with separate transactions.
 
@@ -109,15 +109,15 @@ Better patterns and tools enable safer composition.
 
 Composability creates roles:
 
-**DeFi Architects** design composable protocols.
+- **DeFi Architects** design composable protocols.
 
-**Smart Contract Security Specialists** identify composition vulnerabilities.
+- **Smart Contract Security Specialists** identify composition vulnerabilities.
 
-**Protocol Integrators** build composed strategies.
+- **Protocol Integrators** build composed strategies.
 
-**Researchers** study composability risks.
+- **Researchers** study composability risks.
 
-**Bot Developers** automate composed strategies.
+- **Bot Developers** automate composed strategies.
 
 ## Best Practices
 

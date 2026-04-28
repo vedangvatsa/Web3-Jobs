@@ -86,7 +86,7 @@ Contract analysis is only one component of your due diligence.
 
 ### Trust, but Verify
 
-You do not need to be a security expert to mitigate the risk of common scams. By mastering these fundamental checks, contract verification, keyword searches for potential threats, and community assessment, you can enhance your ability to identify risky projects. In the decentralized area of Web3, the principle is clear: do not trust blindly; verify thoroughly. Learning to read smart contracts represents your first crucial step toward informed decision-making in this evolving field.
+You do not need to be a security expert to mitigate the risk of common scams. By mastering these fundamental checks, contract verification, keyword searches for potential threats, and community assessment, you can enhance your ability to identify risky projects. In the decentralized area of Web3, the principle is clear: do not trust blindly; verify thoroughly. Learning to read smart contracts represents your first important step toward informed decision-making in this evolving field.
 
 ### Importance of Smart Contract Literacy
 
@@ -157,6 +157,6 @@ A: Web3 organizations often feature flatter hierarchies, granting more direct ac
 A: Yes, integrating learning into your existing role is advisable. You do not need to allocate additional hours; focus on intentional application of new skills within your current responsibilities. Small, consistent improvements can yield significant results over time.
 
 **Q: What resources are available for deeper exploration?**  
-A: Start with articles that delve into specific aspects of smart contracts for targeted learning. Connecting with mentors or peer groups in Web3 can provide insights beyond written resources. Participating in active communities on platforms like Discord and Telegram can also facilitate knowledge sharing and accelerate your learning process.
+A: Start with articles that look into specific aspects of smart contracts for targeted learning. Connecting with mentors or peer groups in Web3 can provide insights beyond written resources. Participating in active communities on platforms like Discord and Telegram can also facilitate knowledge sharing and accelerate your learning process.
 
 By mastering the ability to read and evaluate smart contracts, you position yourself to thrive in the Web3 ecosystem. This skill not only protects your investments but also enhances your professional value in a rapidly changing industry.

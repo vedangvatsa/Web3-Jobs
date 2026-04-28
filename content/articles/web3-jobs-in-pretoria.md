@@ -36,7 +36,7 @@ The job market in Pretoria shows strong demand for professionals experienced in 
 
 ### Building a Web3 Career in Pretoria
 
-1. **Utilize Your Public Sector or Enterprise Experience:** A background in government or a large IT consultancy provides a significant edge. Emphasize your understanding of public sector processes, compliance, and project management.
+1. **Use Your Public Sector or Enterprise Experience:** A background in government or a large IT consultancy provides a significant edge. Emphasize your understanding of public sector processes, compliance, and project management.
    
 2. **Specialize in GovTech and Regulation:** Focus on how blockchain can address governance challenges. Stay informed about the South African Reserve Bank's research and the Financial Sector Conduct Authority's evolving regulatory framework. Establish yourself as a thought leader in this niche.
 
@@ -235,7 +235,7 @@ Focus on developing a deep understanding of the South African regulatory environ
 Yes, many government contractors and CSIR projects offer remote work flexibility. Corporate consulting roles can also be remote. A strategy to build your career in Pretoria while using remote opportunities can work well.
 
 **How do I find job opportunities in Pretoria?**
-Utilize LinkedIn to search for "Pretoria" + "blockchain" + "government." Check our job board (/jobs) for South African roles, explore the CSIR job board, and visit consulting firm websites.
+Use LinkedIn to search for "Pretoria" + "blockchain" + "government." Check our job board (/jobs) for South African roles, explore the CSIR job board, and visit consulting firm websites.
 
 **What can I expect regarding salary progression?**
 Expect realistic salary ranges as follows:

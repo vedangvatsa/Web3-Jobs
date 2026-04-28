@@ -46,7 +46,7 @@ To establish a successful Web3 career in Atlanta, consider these strategies:
 
 2. **Engage with University Groups**: Connect with blockchain clubs and research labs at Georgia Tech and Emory. These organizations are breeding grounds for local talent and innovation. Volunteer to mentor students or give talks on your area of expertise.
 
-3. **Attend Local Meetups**: Regular participation in events like ETHAtlanta meetups fosters genuine relationships. Building a local network is key to uncovering opportunities in Atlanta’s growing tech scene.
+3. **Attend Local Meetups**: Regular participation in events like ETHAtlanta meetups builds genuine relationships. Building a local network is key to uncovering opportunities in Atlanta’s growing tech scene.
 
 4. **Focus on Real-World Applications**: Atlanta's pragmatic business culture values practical solutions. When building your [portfolio](/building-web3-portfolio) or preparing for interviews, emphasize real-world applications of blockchain technology. Develop projects that address challenges in the payments industry or enhance enterprise efficiency.
 
@@ -94,7 +94,7 @@ Depending on your desired role, acquire specific skills:
 
 - **Engineers**: Proficiency in Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
 - **Product Managers**: Understanding of token economics, protocol governance, and user growth strategies within Web3
-- **Business Development**: Skills in market analysis, partnership strategy, and understanding the regulatory landscape
+- **Business Development**: Skills in market analysis, partnership strategy, and understanding the regulatory space
 - **Community/Operations**: Expertise in community building, Discord management, and governance processes
 
 ### Step 3: Build Your Portfolio
@@ -147,7 +147,7 @@ The crypto market's volatility can impact job stability, particularly in early-s
 
 ### Regulatory Uncertainty
 
-The regulatory landscape for blockchain companies is evolving across major jurisdictions. Before joining a project, confirm that the team has competent legal counsel and engages proactively with regulators.
+The regulatory space for blockchain companies is evolving across major jurisdictions. Before joining a project, confirm that the team has competent legal counsel and engages proactively with regulators.
 
 ### Due Diligence
 

@@ -16,7 +16,7 @@ You've built your [portfolio](/building-web3-portfolio), honed your skills, and 
 Every Web3 interview begins with questions aimed at assessing your enthusiasm and basic understanding of the field. Your responses here will set the tone for the entire discussion.
 
 1. **What's your "rabbit hole" story? Why are you passionate about Web3?** Share a personal experience that illustrates your genuine curiosity about the space beyond financial motivations.
-2. **Explain the [blockchain](/what-is-a-blockchain) trilemma. Which aspect do you think is most important to sacrifice for mainstream adoption?** This question evaluates your understanding of blockchain fundamentals. While there is no single correct answer, your ability to defend your viewpoint is crucial.
+2. **Explain the [blockchain](/what-is-a-blockchain) trilemma. Which aspect do you think is most important to sacrifice for mainstream adoption?** This question evaluates your understanding of blockchain fundamentals. While there is no single correct answer, your ability to defend your viewpoint is important.
 3. **What's a Web3 project you admire and why? What's one you dislike and why?** Provide specific insights, discussing aspects such as tokenomics, governance models, or technical architecture.
 4. **What are the biggest challenges facing Web3 adoption today?** Demonstrate critical thinking. Common challenges include user experience (UX), scalability, and regulatory uncertainties. Choose one and elaborate.
 5. **How do you stay informed about developments in the fast-moving Web3 space?** Mention specific Twitter accounts, podcasts, newsletters, or blogs that you follow to showcase your commitment to ongoing learning.
@@ -36,7 +36,7 @@ These questions will evaluate your expertise in [Solidity](/best-programming-lan
 - Define a reentrancy attack and explain how to prevent it. Be prepared to write or analyze code during your response.
 - Describe the risk of transaction-ordering dependence (front-running) and how to mitigate it.
 - What is the Checks-Effects-Interactions pattern and why is it significant?
-- If assigned to audit a [smart contract](/what-are-smart-contracts), outline your auditing process and the tools you would utilize.
+- If assigned to audit a [smart contract](/what-are-smart-contracts), outline your auditing process and the tools you would use.
 
 Prepare for a live coding session or a take-home project. You might be tasked with writing a smart contract from scratch or identifying vulnerabilities in existing code.
 
@@ -130,7 +130,7 @@ Focus on roles that align your existing expertise with your newfound Web3 knowle
 Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while maintaining his full-time job. He contributed to an open-source protocol, which attracted the attention of a prominent DeFi project. He transitioned to a new role with a significant salary increase and equity compensation.
 
 ### Product Manager in Web3
-Jessica, a product manager from traditional finance, leveraged her domain knowledge in DeFi. Her understanding of financial products, combined with her knowledge of Web3 technology, made her an attractive candidate. She secured a position at a leading DeFi protocol within a short time of her search.
+Jessica, a product manager from traditional finance, used her domain knowledge in DeFi. Her understanding of financial products, combined with her knowledge of Web3 technology, made her an attractive candidate. She secured a position at a leading DeFi protocol within a short time of her search.
 
 ### Career Changer Success
 Marcus left his corporate position to fully focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a role leading Developer Relations at a major blockchain platform, with compensation that significantly exceeded his previous salary.

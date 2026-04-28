@@ -34,7 +34,7 @@ For best practices, see our [Web3 UX Design Best Practices](/web3-ux-design).
 To succeed as a Web3 designer, you need a specific skill set:
 
 - **Strong UX Fundamentals**: A solid foundation in user research, wireframing, prototyping, and interaction design is essential.
-- **Empathy for the New User**: Understanding the perspective of someone unfamiliar with crypto wallets is crucial. Your role is to guide them through the process.
+- **Empathy for the New User**: Understanding the perspective of someone unfamiliar with crypto wallets is important. Your role is to guide them through the process.
 - **Technical Curiosity**: While you don't need to code, familiarity with blockchain principles is necessary. Understand transactions, gas fees, and the differences between hot and cold wallets.
 - **Proficiency in Design Tools**: Mastery of tools like Figma is the industry standard.
 
@@ -84,7 +84,7 @@ Tailor your learning based on your desired role:
 
 - **Engineers**: Focus on [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers**: Learn about token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development**: Acquire skills in market analysis, partnership strategies, and understanding the regulatory landscape.
+- **Business Development**: Acquire skills in market analysis, partnership strategies, and understanding the regulatory space.
 - **Community/Operations**: Develop expertise in community building, Discord management, and governance processes.
 
 #### Step 3: Build Your Portfolio
@@ -118,7 +118,7 @@ Target roles that capitalize on your existing skills and newly acquired Web3 kno
 Alex, a backend engineer with five years of experience at a major tech firm, spent three months learning Solidity while continuing his day job. His contributions to an open-source protocol attracted attention from a prominent DeFi project, leading to a transition with a significant salary increase and substantial equity.
 
 #### Product Manager in Web3
-Jessica, a product manager from traditional finance, utilized her expertise in DeFi. Her background in financial products, combined with her understanding of Web3 technology, made her a highly valuable candidate. She secured a role at a leading DeFi protocol within a few weeks.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her background in financial products, combined with her understanding of Web3 technology, made her a highly valuable candidate. She secured a role at a leading DeFi protocol within a few weeks.
 
 #### Career Changer Success
 Marcus transitioned from his corporate job to focus on Web3 for six months. Through continuous learning, networking, and portfolio development, he landed a position as the head of Developer Relations at a major blockchain platform, with compensation exceeding his previous salary.

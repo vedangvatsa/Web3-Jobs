@@ -38,9 +38,9 @@ To answer these questions, analysts employ specialized tools to construct querie
 
 ### Required Skills for Web3 Data Analysts
 
-- **SQL Proficiency:** Analysts must write complex queries, utilizing joins, window functions, and common table expressions.
+- **SQL Proficiency:** Analysts must write complex queries, using joins, window functions, and common table expressions.
 - **Data Visualization:** The ability to translate raw data into engaging charts and graphs that convey clear narratives is essential.
-- **Blockchain Literacy:** A strong understanding of blockchain fundamentals, including transaction processes, block generation, and smart contract mechanics, is crucial. Analysts must differentiate between external calls and internal transactions, as well as understand event logs.
+- **Blockchain Literacy:** A strong understanding of blockchain fundamentals, including transaction processes, block generation, and smart contract mechanics, is important. Analysts must differentiate between external calls and internal transactions, as well as understand event logs.
 - **Business Acumen:** Effective analysts not only produce data but also translate it into actionable insights aligned with business objectives. Understanding the project's goals is key to formulating relevant questions.
 - **Curiosity and Analytical Mindset:** On-chain analysis often resembles detective work. Analysts should possess a relentless curiosity and a drive to uncover the truths embedded in data.
 
@@ -52,7 +52,7 @@ This role is accessible to individuals without formal data science degrees.
    
 2. **Understand Blockchain Basics:** Familiarize yourself with the fundamental principles of blockchain technology, focusing on Ethereum.
 
-3. **Become Proficient in Dune:** Utilize Dune Analytics' free tier to experiment. Start by forking existing queries to grasp their structure and functionality. Engage with Dune's documentation and tutorials.
+3. **Become Proficient in Dune:** Use Dune Analytics' free tier to experiment. Start by forking existing queries to grasp their structure and functionality. Engage with Dune's documentation and tutorials.
 
 4. **Create a Dashboard Portfolio:** This portfolio serves as your [resume](/how-to-build-a-web3-resume-that-stands-out). Select an intriguing protocol and construct a detailed dashboard to track its key metrics.
    - *Initial project:* Build a dashboard for a new NFT collection gaining traction.
@@ -86,7 +86,7 @@ Invest 4-8 weeks learning blockchain fundamentals, covering:
 Tailor your learning based on your target role:
 - **Engineers:** Focus on Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Study token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Become proficient in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Become proficient in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Learn about community building, Discord management, and governance.
 
 #### Step 3: Build a Portfolio

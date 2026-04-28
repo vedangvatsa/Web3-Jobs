@@ -19,7 +19,7 @@ Both solutions process transactions off the main Ethereum chain, yet they differ
 A **sidechain** operates independently alongside a main chain such as Ethereum. It connects to the main chain through a two-way "bridge."
 
 - **Security Mechanism**: Each sidechain has its own consensus protocol and validators, which means it is responsible for its own security.
-- **Asset Transfer**: To utilize a sidechain, users lock assets on the main chain. In exchange, a corresponding amount of "wrapped" assets is created on the sidechain. To transfer back, users burn assets on the sidechain to unlock them on the main chain.
+- **Asset Transfer**: To use a sidechain, users lock assets on the main chain. In exchange, a corresponding amount of "wrapped" assets is created on the sidechain. To transfer back, users burn assets on the sidechain to unlock them on the main chain.
 - **Example**: **Polygon PoS** serves as a notable example of a sidechain, employing its own validators who stake MATIC [tokens](/what-is-a-token) to maintain the network's security.
 
 **Key Vulnerability**: The security of a sidechain relies on its validator set. If a majority of validators were to collude, they could potentially misappropriate user funds locked in the bridge. This arrangement places trust in the sidechain's validators.
@@ -45,7 +45,7 @@ A **Layer 2 (L2)** solution processes transactions off-chain and posts the data 
 
 ### The Shift Towards Layer 2 Solutions
 
-While sidechains like Polygon PoS have played a crucial role in Ethereum's scaling efforts, the Ethereum roadmap and community consensus increasingly favor a "rollup-centric" approach. The enhanced security of L2s positions them as the more viable long-term solution for Ethereum's scaling needs. As advancements such as [zkEVMs](/how-zkevm-brings-zero-knowledge-proofs-to-ethereum) emerge, it is anticipated that the majority of decentralized application (dApp) development will occur on Layer 2s, directly benefiting from Ethereum's reliable and decentralized validator network.
+While sidechains like Polygon PoS have played a important role in Ethereum's scaling efforts, the Ethereum roadmap and community consensus increasingly favor a "rollup-centric" approach. The enhanced security of L2s positions them as the more viable long-term solution for Ethereum's scaling needs. As advancements such as [zkEVMs](/how-zkevm-brings-zero-knowledge-proofs-to-ethereum) emerge, it is anticipated that the majority of decentralized application (dApp) development will occur on Layer 2s, directly benefiting from Ethereum's reliable and decentralized validator network.
 
 ## Importance of Understanding Scalability Solutions
 
@@ -111,6 +111,6 @@ A: Web3 organizations differ from traditional companies, emphasizing the importa
 A: Yes, this approach is ideal for most professionals. You do not need to extend your work hours; instead, focus on intentionality within your existing schedule. Identify two or three practices relevant to your daily responsibilities and apply them consistently for significant long-term results.
 
 **Q: What resources can deepen my understanding?**  
-A: Explore articles that delve into specific aspects of these concepts for targeted learning. Additionally, connecting with mentors or peers excelling in this domain can provide insights that written resources cannot convey. Engaging with Web3 communities on platforms like Discord and Telegram can also enhance your knowledge through shared experiences.
+A: Explore articles that look into specific aspects of these concepts for targeted learning. Additionally, connecting with mentors or peers excelling in this domain can provide insights that written resources cannot convey. Engaging with Web3 communities on platforms like Discord and Telegram can also enhance your knowledge through shared experiences.
 
-Understanding the differences between sidechains and Layer 2 solutions will help you make informed decisions in your professional journey. The ability to manage these technologies will set you apart in the evolving field of blockchain and Web3, ultimately contributing to your success in this innovative area.
+Understanding the differences between sidechains and Layer 2 solutions will help you make informed decisions in your professional journey. The ability to manage these technologies will set you apart in the evolving field of blockchain and Web3, ultimately contributing to your success in this new area.

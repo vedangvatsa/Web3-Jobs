@@ -70,7 +70,7 @@ For those who excel in strategic thinking rather than coding, these roles provid
 
 **Role Overview:** Web3-native venture capitalists identify and fund the next wave of innovations. Their deep understanding of the crypto market allows them to recognize promising projects early on.
 
-**Why It's a Top Opportunity:** This role places you at the forefront of the ecosystem, enabling you to engage with innovative builders and influence the industry's future by funding the best ideas.
+**Why It's a Top Opportunity:** This role places you at the forefront of the ecosystem, enabling you to engage with new builders and influence the industry's future by funding the best ideas.
 
 **Ideal Candidates:** Those who are curious, possess strong analytical skills for evaluating projects, and have established a public reputation through research and analysis will thrive in this position.
 
@@ -86,7 +86,7 @@ The future of Web3 is in the hands of specialists and systems thinkers. As a cry
 
 ## The Web3 Opportunity
 
-The Web3 sector is booming, with demand for qualified talent significantly outpacing supply. Unlike traditional tech sectors, Web3 offers distinct advantages: competitive compensation, equity potential, fully remote roles, and the chance to work on innovative technologies.
+The Web3 sector is booming, with demand for qualified talent significantly outpacing supply. Unlike traditional tech sectors, Web3 offers distinct advantages: competitive compensation, equity potential, fully remote roles, and the chance to work on new technologies.
 
 ## Market Context
 

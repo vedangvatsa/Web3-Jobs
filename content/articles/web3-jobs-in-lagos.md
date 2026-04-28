@@ -144,7 +144,7 @@ Here is an overview of in-demand positions along with their salary ranges:
 The Nigerian Naira has significantly depreciated, affecting local savings. Use Web3 to earn in stablecoins or USD, protecting your wealth from inflation.
 
 **CBN Restrictions on Crypto**
-Despite the Central Bank's restrictions, individuals can still engage with crypto legally. Utilize peer-to-peer exchanges while focusing on legitimate projects.
+Despite the Central Bank's restrictions, individuals can still engage with crypto legally. Use peer-to-peer exchanges while focusing on legitimate projects.
 
 **Limited Internet and Power Reliability**
 Power outages and internet disruptions are common. Invest in redundancy solutions like backup ISPs and UPS systems. Collaborate with asynchronous teams familiar with these challenges.
@@ -199,13 +199,13 @@ Choose based on your strengths. DeFi offers high salary potential, while communi
 Emphasize your understanding of the local market and the cost advantages of hiring in Lagos. Show your dedication and skill through meaningful contributions.
 
 **Should I move to Europe, Dubai, or stay in Lagos?**
-Staying in Lagos can maximize your savings and leverage local market knowledge. Building wealth in Lagos can provide a strong foundation for future moves.
+Staying in Lagos can maximize your savings and use local market knowledge. Building wealth in Lagos can provide a strong foundation for future moves.
 
 **What if I can't code?**
 Explore roles in community management, growth, or education that require minimal coding skills to start earning while you learn.
 
 **How do I find Web3 jobs in Lagos?**
-Attend local meetups, engage with the community on Twitter, and utilize platforms like Upwork for freelance opportunities.
+Attend local meetups, engage with the community on Twitter, and use platforms like Upwork for freelance opportunities.
 
 **What is the salary progression for someone starting today?**
 A realistic salary trajectory could start at a competitive rate in Year 1, rising to a higher competitive rate in subsequent years through specialization and community involvement.

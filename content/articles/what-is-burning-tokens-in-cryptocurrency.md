@@ -29,7 +29,7 @@ By decreasing the total supply of a token, a project can achieve several outcome
 1. **Increase Scarcity and Value:** Reducing the number of tokens can enhance their perceived value, benefiting all token holders.
 2. **Implement a "Buyback and Burn" Mechanism:** Many [DeFi](/what-is-defi) protocols generate revenue from transaction fees. They can allocate a portion of this revenue to repurchase their native token from the open market and subsequently burn it. This process acts like a "share buyback," rewarding token holders by diminishing supply.
 3. **Demonstrate Commitment:** A substantial, one-time token burn by the founding team can signal to the community that the team is dedicated to the project's long-term success, rather than merely looking to offload their tokens.
-4. **Utilize Proof-of-Burn Consensus:** Some experimental [blockchain](/what-is-a-blockchain) consensus mechanisms employ a "Proof-of-Burn" system, where miners must burn tokens from another cryptocurrency (such as [Bitcoin](/what-is-bitcoin)) to gain the right to mine new blocks.
+4. **Use Proof-of-Burn Consensus:** Some experimental [blockchain](/what-is-a-blockchain) consensus mechanisms employ a "Proof-of-Burn" system, where miners must burn tokens from another cryptocurrency (such as [Bitcoin](/what-is-bitcoin)) to gain the right to mine new blocks.
 
 One notable example of token burning is found in [Ethereum](/what-is-ethereum)'s **EIP-1559** update. This update mandates that a portion of the transaction fee (the "base fee") for every transaction on Ethereum is burned. During periods of high network activity, the volume of ETH burned can exceed the amount newly issued to validators, temporarily creating a deflationary environment for ETH.
 
@@ -122,7 +122,7 @@ Alex, a backend engineer with five years of experience at a FAANG company, dedic
 
 #### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her a sought-after candidate. She secured a role at a leading DeFi protocol within weeks.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her a sought-after candidate. She secured a role at a leading DeFi protocol within weeks.
 
 #### Career Changer Success
 

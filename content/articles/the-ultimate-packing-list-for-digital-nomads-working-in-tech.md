@@ -153,7 +153,7 @@ Creating productive workspace anywhere matters.
 You can't afford to lose work or get hacked.
 
 **External backup drive**: Backup all work regularly.
-- 1-2TB portable SSD (Samsung T5, Crucial X6)
+- 1-2TB portable SSD (Samsung T5, Important X6)
 - Keep backup separate from laptop (different location)
 - Backup weekly at minimum
 

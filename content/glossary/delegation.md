@@ -95,13 +95,13 @@ Real delegation often shows concentration rather than distributed power.
 
 Delegation creates roles:
 
-**Governance Delegates** earning fees or compensation for representing stakeholders.
+- **Governance Delegates** earning fees or compensation for representing stakeholders.
 
-**Governance Service Providers** operating delegation platforms.
+- **Governance Service Providers** operating delegation platforms.
 
-**Governance Researchers** analyzing delegation patterns.
+- **Governance Researchers** analyzing delegation patterns.
 
-**Protocol Economists** designing delegation mechanisms.
+- **Protocol Economists** designing delegation mechanisms.
 
 ## Best Practices
 

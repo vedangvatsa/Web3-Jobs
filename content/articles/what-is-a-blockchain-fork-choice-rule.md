@@ -25,7 +25,7 @@ Without a clear and universally agreed-upon fork choice rule, a blockchain would
 
 ### Understanding Forks in a Blockchain
 
-Before diving into the rule itself, it's crucial to understand why forks happen. In a globally distributed network, network latency is unavoidable. It's common for two different miners or validators to solve and broadcast a new block at roughly the same time. When this happens, nodes in different parts of the world will see one block before the other, creating two competing, valid chains that are one block long.
+Before diving into the rule itself, it's important to understand why forks happen. In a globally distributed network, network latency is unavoidable. It's common for two different miners or validators to solve and broadcast a new block at roughly the same time. When this happens, nodes in different parts of the world will see one block before the other, creating two competing, valid chains that are one block long.
 
 This creates a temporary fork. The fork choice rule is the mechanism that resolves this ambiguity, guiding the network to eventually abandon one fork and build upon the other, thus restoring consensus.
 

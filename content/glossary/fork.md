@@ -44,7 +44,7 @@ However, claiming forked coins requires technical knowledge and carries risks. Y
 
 Cryptocurrency exchanges decide whether to support new forks. Major forks like Bitcoin Cash receive immediate support. Minor forks might never be supported. This decision significantly affects the new chain's viability; without exchange support, users cannot easily trade the new token.
 
-Exchanges announce fork policies beforehand, detailing whether they will support the new chain, distribute tokens to holders, and enable trading. Some take snapshots of holdings at the fork block height, crediting accounts later. Understanding exchange policies is crucial for maximizing benefit from forks.
+Exchanges announce fork policies beforehand, detailing whether they will support the new chain, distribute tokens to holders, and enable trading. Some take snapshots of holdings at the fork block height, crediting accounts later. Understanding exchange policies is important for maximizing benefit from forks.
 
 ## Technical Implementation
 
@@ -56,7 +56,7 @@ Soft forks use various activation mechanisms. Some activate at a specific block 
 
 Without replay protection, a transaction on one forked chain can be "replayed" on the other, sending coins on both chains. If you send Bitcoin to someone after a fork without replay protection, the same transaction might automatically send the forked coin too. Strong replay protection is essential for clean forks.
 
-Technical replay protection includes changing transaction signing algorithms, requiring special markers in transactions, or implementing chain IDs. Well-implemented forks include robust replay protection from day one. Poorly implemented forks create confusion and risk as users must carefully split their coins to avoid replay issues.
+Technical replay protection includes changing transaction signing algorithms, requiring special markers in transactions, or implementing chain IDs. Well-implemented forks include strong replay protection from day one. Poorly implemented forks create confusion and risk as users must carefully split their coins to avoid replay issues.
 
 ## Governance Implications
 

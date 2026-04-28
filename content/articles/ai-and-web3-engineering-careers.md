@@ -21,7 +21,7 @@ An AI/Web3 Engineer engages in projects that integrate machine learning models w
 
 This area focuses on developing infrastructure to execute or verify AI models in a decentralized context.
 
-- **Zero-Knowledge Machine Learning (ZKML):** This segment utilizes [Zero-Knowledge Proofs](/zero-knowledge-proofs-explained) to confirm that an AI model executed correctly without disclosing proprietary weights or input data. This is vital for privacy and verification.
+- **Zero-Knowledge Machine Learning (ZKML):** This segment uses [Zero-Knowledge Proofs](/zero-knowledge-proofs-explained) to confirm that an AI model executed correctly without disclosing proprietary weights or input data. This is vital for privacy and verification.
   - *Example Task:* Write a ZK-circuit using Circom to prove the inference of a basic neural network.
 - **Optimistic ML:** Similar to Optimistic Rollups, this approach accepts the outcome of an AI model's computation and allows a period for others to challenge it with a fraud proof if they suspect inaccuracies.
 
@@ -30,7 +30,7 @@ This area focuses on developing infrastructure to execute or verify AI models in
 Standard [oracles](/what-are-oracles) typically relay simple data, such as asset prices, to the blockchain. An AI/Web3 Engineer develops oracles capable of processing complex, unstructured real-world data.
 
 - **Goal:** Enable [smart contracts](/what-are-smart-contracts) to respond to nuanced real-world events.
-- **Example Task:** Build an oracle service that employs a natural language processing (NLP) model to assess social media sentiment. This service would then submit a sentiment score to the blockchain, which a [DeFi](/what-is-defi) protocol could utilize for risk assessment.
+- **Example Task:** Build an oracle service that employs a natural language processing (NLP) model to assess social media sentiment. This service would then submit a sentiment score to the blockchain, which a [DeFi](/what-is-defi) protocol could use for risk assessment.
 
 #### 3. Developing AI-Powered Autonomous Agents and [DAOs](/what-is-a-dao)
 
@@ -55,7 +55,7 @@ To excel as an AI/Web3 Engineer, proficiency in both the AI/ML stack and the Web
 | Skill/Tool                  | Description                                           |
 |-----------------------------|-------------------------------------------------------|
 | **Programming Language**     | **Python** remains the primary language for AI. Mastering it is essential. |
-| **Core Libraries**           | Expertise in **PyTorch** or **TensorFlow** (for model building), **Pandas** (for data manipulation), and **NumPy** (for numerical computation) is crucial.|
+| **Core Libraries**           | Expertise in **PyTorch** or **TensorFlow** (for model building), **Pandas** (for data manipulation), and **NumPy** (for numerical computation) is important.|
 
 #### Web3 Stack
 

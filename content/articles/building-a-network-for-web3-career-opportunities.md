@@ -32,7 +32,7 @@ Creating public content serves as a scalable method to build a network. It allow
 Collaboration leads to the strongest relationships, often formed through joint projects.
 
 - **Hackathons:** Engage in hackathons, even if you lack a technical background. Teams often need product thinkers, designers, and marketers. The collaborative atmosphere of a hackathon provides an excellent opportunity to meet other builders and demonstrate your skills. ETHGlobal is a notable platform for these events.
-- **[DAOs](/what-is-a-dao) (Decentralized Autonomous Organizations):** Contributing to a DAO is an effective strategy for network building. Select a working group or "guild" that aligns with your skills. Working with others towards common goals fosters deep, trust-based relationships that can lead to full-time roles.
+- **[DAOs](/what-is-a-dao) (Decentralized Autonomous Organizations):** Contributing to a DAO is an effective strategy for network building. Select a working group or "guild" that aligns with your skills. Working with others towards common goals builds deep, trust-based relationships that can lead to full-time roles.
 
 ### Principle 4: In-Person Networking Remains Relevant
 
@@ -65,7 +65,7 @@ The dynamics of the Web3 job market differ significantly from Web2:
 | **Career Growth**             | Slower progression                | Faster due to scaling and demand |
 | **Equity Opportunities**      | Limited                          | Standard equity and token packages|
 
-Web3 roles typically offer higher pay than equivalent Web2 positions, often including substantial bonuses and equity components. Most organizations operate remotely, providing flexibility that is uncommon in traditional tech environments. Career advancement occurs more rapidly in Web3 due to quick scaling and talent shortages. Furthermore, token and equity packages present significant wealth-building opportunities.
+Web3 roles typically offer higher pay than equivalent Web2 positions, often including substantial bonuses and equity components. Most organizations operate remotely, providing flexibility that is uncommon in traditional tech environments. Career advancement occurs more rapidly in Web3 due to quick scaling and talent shortages. Also, token and equity packages present significant wealth-building opportunities.
 
 ## Step-by-Step Transition Strategy
 
@@ -106,7 +106,7 @@ The Web3 community is accessible and welcoming:
 
 ### Step 5: Apply Strategically
 
-Target positions that utilize your existing expertise alongside new Web3 knowledge:
+Target positions that use your existing expertise alongside new Web3 knowledge:
 - For backend engineers, seek roles in blockchain infrastructure.
 - For product managers, explore protocol product management positions.
 - For business/sales professionals, look for opportunities in Web3 business development.

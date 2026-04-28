@@ -122,7 +122,7 @@ Target positions that use your existing skills along with new Web3 knowledge:
 Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol attracted the attention of a prominent DeFi project, leading to a significant salary increase and equity upon transition.
 
 #### Product Manager in Web3
-Jessica, a PM from traditional finance, utilized her expertise in DeFi. Her knowledge of financial products combined with an understanding of Web3 technology made her highly sought after. She secured a position at a leading DeFi protocol within a few weeks.
+Jessica, a PM from traditional finance, used her expertise in DeFi. Her knowledge of financial products combined with an understanding of Web3 technology made her highly sought after. She secured a position at a leading DeFi protocol within a few weeks.
 
 #### Career Changer Success
 Marcus transitioned from a corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a role leading Developer Relations at a major blockchain platform, with compensation surpassing his previous income.

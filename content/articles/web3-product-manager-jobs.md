@@ -22,7 +22,7 @@ Transitioning from a Web2 PM to a Web3 PM requires a fundamental shift in mindse
   
 - **From Centralized Roadmaps to Community Governance:** The roadmap does not get decided in isolation. Major feature decisions often require validation through public governance votes. The PM’s role shifts from dictating the path to facilitating consensus among a diverse global community.
 
-- **From Private Data to Public Blockchains:** Web2 PMs rely on rich databases of user behavior, while Web3 PMs work with on-chain data that is accessible to all. This demands a different analytical skill set, utilizing tools such as Dune Analytics to assess user interactions and protocol health.
+- **From Private Data to Public Blockchains:** Web2 PMs rely on rich databases of user behavior, while Web3 PMs work with on-chain data that is accessible to all. This demands a different analytical skill set, using tools such as Dune Analytics to assess user interactions and protocol health.
 
 - **From Business Goals to Protocol Health:** The primary metrics for success often diverge from traditional business goals. Instead of focusing on revenue or monthly active users, a Web3 PM might prioritize the overall health and security of the decentralized network. Key performance indicators (KPIs) could include metrics related to network activity, decentralization levels, and the reliability of economic incentives.
 
@@ -30,13 +30,13 @@ Transitioning from a Web2 PM to a Web3 PM requires a fundamental shift in mindse
 
 To thrive in a Web3 environment, aspiring PMs must combine traditional product management skills with specific competencies related to the crypto ecosystem.
 
-1. **Deep Ecosystem Knowledge:** A PM should be well-versed in Web3 applications. This includes hands-on experience with [DeFi protocols](/what-is-defi), collecting [NFTs](/what-are-nfts), and participating in [DAOs](/what-is-a-dao). Such experience is crucial for developing user empathy.
+1. **Deep Ecosystem Knowledge:** A PM should be well-versed in Web3 applications. This includes hands-on experience with [DeFi protocols](/what-is-defi), collecting [NFTs](/what-are-nfts), and participating in [DAOs](/what-is-a-dao). Such experience is important for developing user empathy.
 
 2. **Technical Literacy:** While a PM does not need to be a [Solidity](/best-programming-languages-for-blockchain-development) engineer, understanding blockchain fundamentals is essential. Familiarity with the Ethereum Virtual Machine (EVM), smart contract security, and concepts like gas optimization is vital for effective communication with developers.
 
 3. **Tokenomics and Mechanism Design:** Many Web3 products function as micro-economies. PMs should know how to design incentive systems that promote desired behaviors, such as providing liquidity, while discouraging negative actions. A background in economics or game theory can enhance this capability.
 
-4. **Exceptional Communication:** A significant portion of a PM’s role involves public communication, whether in forums, community calls, or formal proposals. The ability to clearly convey complex technical and economic concepts to a diverse audience is crucial for building community engagement.
+4. **Exceptional Communication:** A significant portion of a PM’s role involves public communication, whether in forums, community calls, or formal proposals. The ability to clearly convey complex technical and economic concepts to a diverse audience is important for building community engagement.
 
 ### A Day in the Life of a Web3 PM
 
@@ -95,7 +95,7 @@ Depending on your target role:
 
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Focus on token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Acquire skills in market analysis, partnership strategies, and understanding the regulatory landscape.
+- **Business Development:** Acquire skills in market analysis, partnership strategies, and understanding the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance processes.
 
 #### Step 3: Build Your Portfolio
@@ -138,7 +138,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 
 **Volatility Risk:** The crypto market's volatility can affect job stability, particularly within early-stage startups lacking substantial funding. Professionals entering Web3 should maintain a reserve of living expenses, negotiate base salaries in fiat currency instead of tokens, and ideally join established projects with solid revenue models or reliable treasury backing.
 
-**Regulatory Uncertainty:** The evolving regulatory landscape for blockchain firms poses challenges. Before joining a project, confirm that the team has reliable legal counsel and engages proactively with regulators to avoid operating in legal grey areas.
+**Regulatory Uncertainty:** The evolving regulatory space for blockchain firms poses challenges. Before joining a project, confirm that the team has reliable legal counsel and engages proactively with regulators to avoid operating in legal grey areas.
 
 **Due Diligence:** Not all Web3 projects are legitimate. Conduct thorough research on the founding team's experience, review audit reports for smart contracts, verify treasury holdings on-chain, and connect with current or former team members before accepting an offer.
 

@@ -3,7 +3,7 @@
 title: "Web3 Jobs in Maputo: A Guide to Mozambique's Coastal Tech Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "maputo mozambique city"
-description: "A career guide to the emerging Web3 job market in Maputo. Explore how Mozambique's capital is leveraging its young population and growing tech scene to."
+description: "A career guide to the emerging Web3 job market in Maputo. Explore how Mozambique's capital is using its young population and growing tech scene to."
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
@@ -174,12 +174,12 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 ### Challenges and Real Solutions
 
 **Challenge 1: Small Local Market**  
-- *Reality:* Maputo's Web3 market is limited. Remote opportunities are crucial.  
+- *Reality:* Maputo's Web3 market is limited. Remote opportunities are important.  
 - *Solution:* Remote work from Maputo optimizes living costs while providing access to global opportunities. Collaborate with Lusophone companies for higher pay.
 
 **Challenge 2: Currency and Economic Instability**  
 - *Reality:* The Metical is volatile, and inflation poses challenges.  
-- *Solution:* Earn in USD or stablecoins. Save in USD rather than MZN and utilize stablecoins for local transactions.
+- *Solution:* Earn in USD or stablecoins. Save in USD rather than MZN and use stablecoins for local transactions.
 
 **Challenge 3: Limited Infrastructure**  
 - *Reality:* Internet reliability and power supply can be inconsistent.  
@@ -187,7 +187,7 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 
 **Challenge 4: Limited Tech Education**  
 - *Reality:* Few advanced tech courses are available locally; self-learning is essential.  
-- *Solution:* Utilize online education platforms for high-quality learning.
+- *Solution:* Use online education platforms for high-quality learning.
 
 **Challenge 5: Brain Drain Pressure**  
 - *Reality:* Skilled individuals often migrate to Portugal, Brazil, or South Africa.  

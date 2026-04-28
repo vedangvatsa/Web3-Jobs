@@ -19,7 +19,7 @@ The Nigerian crypto ecosystem emphasizes practical applications that address rea
 The crypto sector in Nigeria exhibits resilience and a strong focus on utility.
 
 - **Global Adoption Hub:** Nigeria consistently ranks among the top countries for peer-to-peer (P2P) trading volume. For many Nigerians, cryptocurrency serves as a practical means for wealth preservation, payment facilitation, and access to the global economy.
-- **Focus on DeFi and Payments:** The primary applications involve decentralized finance (DeFi) and cross-border payments. Many Nigerians utilize stablecoins to mitigate the volatility of the Naira, and crypto transfers for remittances are often quicker and cheaper than traditional banking methods.
+- **Focus on DeFi and Payments:** The primary applications involve decentralized finance (DeFi) and cross-border payments. Many Nigerians use stablecoins to mitigate the volatility of the Naira, and crypto transfers for remittances are often quicker and cheaper than traditional banking methods.
 - **Mobile-First Orientation:** A significant portion of the population accesses the internet through mobile devices, leading to the development of mobile-first decentralized applications (dApps) and wallets.
 - **Passionate Community:** Despite past regulatory challenges, the Nigerian crypto community remains one of the most passionate globally. Lagos has emerged as a major hub for [blockchain](/what-is-a-blockchain) innovation, hosting numerous meetups, hackathons, and conferences that draw talent from across the continent.
 
@@ -80,7 +80,7 @@ Tailor your learning to your desired role:
 
 - **Engineers:** Master Solidity, JavaScript/TypeScript, and relevant Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth within Web3.
-- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Focus on community building, Discord management, and governance.
 
 ### Step 3: Create Your Portfolio
@@ -101,7 +101,7 @@ The Web3 community is highly accessible:
 - Participate in governance forums and local Web3 meetups.
 
 ### Step 5: Apply Strategically
-Target roles that utilize your existing skills alongside new Web3 knowledge:
+Target roles that use your existing skills alongside new Web3 knowledge:
 
 - If you are a backend engineer, seek blockchain infrastructure positions.
 - If you are a product manager, pursue roles in protocol product management.
@@ -152,4 +152,4 @@ Bear markets historically provide excellent opportunities to enter the Web3 spac
 - Your existing domain expertise holds considerable value in Web3. Instead of starting from scratch, emphasize adding blockchain-specific knowledge to your current skillset.
 - Networking through Discord and Twitter, coupled with visible portfolio projects on GitHub, consistently yields better results than formal certifications when seeking Web3 roles.
 - Prioritize joining well-capitalized, established protocols with proven revenue to mitigate inherent sector volatility. Negotiate base salaries in fiat currency to ensure stability.
-- The Web3 community's openness and supportiveness, along with available mentorship programs and educational resources, foster a conducive environment for growth and learning.
+- The Web3 community's openness and supportiveness, along with available mentorship programs and educational resources, build a conducive environment for growth and learning.

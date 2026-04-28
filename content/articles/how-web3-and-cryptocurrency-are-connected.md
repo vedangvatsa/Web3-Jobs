@@ -16,7 +16,7 @@ The terms "[Web3](/what-is-web3)" and "cryptocurrency" often appear in discussio
 
 **Cryptocurrency** serves as the economic layer that supports this new internet. It functions as the medium of exchange, enabling transactions and incentivizing behavior within the Web3 ecosystem.
 
-Cryptocurrency fuels the Web3 infrastructure, facilitating decentralization, user ownership, and innovative economic models. The following sections highlight the critical connections between these two concepts.
+Cryptocurrency fuels the Web3 infrastructure, facilitating decentralization, user ownership, and new economic models. The following sections highlight the critical connections between these two concepts.
 
 ### Cryptocurrency as an Incentive for Decentralization
 
@@ -39,8 +39,8 @@ Every transaction on a [smart contract](/what-are-smart-contracts) platform such
 
 A fundamental promise of Web3 involves shifting from a "renter's internet" to an "owner's internet." Cryptocurrency establishes the native asset class for this new economy.
 
-- **Fungible [Tokens](/what-is-a-token):** These tokens represent currencies and governance within the Web3 ecosystem. They allow users to not only utilize a protocol but also own a stake in its future, akin to shares in a company.
-- **Non-Fungible Tokens (NFTs):** **[NFTs](/what-are-nfts)** utilize blockchain technology to create unique, verifiable digital assets. This innovation allows for authentic ownership of digital items, art, music, and in-game items in ways previously unattainable.
+- **Fungible [Tokens](/what-is-a-token):** These tokens represent currencies and governance within the Web3 ecosystem. They allow users to not only use a protocol but also own a stake in its future, akin to shares in a company.
+- **Non-Fungible Tokens (NFTs):** **[NFTs](/what-are-nfts)** use blockchain technology to create unique, verifiable digital assets. This innovation allows for authentic ownership of digital items, art, music, and in-game items in ways previously unattainable.
 
 Without cryptocurrency tokens, the concept of a user-owned internet would lack substance. Crypto provides the tangible representation of digital ownership.
 

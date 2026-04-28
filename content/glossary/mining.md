@@ -78,7 +78,7 @@ This self-balancing mechanism ensures Bitcoin produces one block every 10 minute
 
 Solo mining became impractical as difficulty increased. A miner with a single machine might wait years to find a block.
 
-**Mining Pools** combine computational power from thousands of miners:
+- **Mining Pools** combine computational power from thousands of miners:
 
 - **How Pools Work**:
 1. Pool coordinator distributes work to participants.

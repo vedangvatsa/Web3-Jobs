@@ -40,9 +40,9 @@ Different categories:
 
 - **Non-Interactive ZK**: Single message from prover to verifier. Practical for blockchains where prover and verifier can't interact.
 
-**SNARKs** (Succinct Non-Interactive Arguments of Knowledge): Compact proofs, fast verification. Used in ZK rollups.
+- **SNARKs** (Succinct Non-Interactive Arguments of Knowledge): Compact proofs, fast verification. Used in ZK rollups.
 
-**STARKs** (Scalable Transparent Arguments of Knowledge): Larger proofs, transparent (no trusted setup). Slower verification but more secure.
+- **STARKs** (Scalable Transparent Arguments of Knowledge): Larger proofs, transparent (no trusted setup). Slower verification but more secure.
 
 - **Bulletproofs**: Efficient range proofs enabling confidential transactions.
 
@@ -110,11 +110,11 @@ Smart contracts enable creative ZK applications beyond scalability.
 
 Detailed comparison:
 
-**SNARKs** (Succinct Non-Interactive Arguments of Knowledge) produce very small proofs, enabling efficient on-chain verification. SNARKs require a trusted setup, a setup ceremony where initial parameters are generated. If someone obtains setup secrets, they could forge proofs. This is a significant security assumption. SNARKs are used in Zcash and many rollups because of proof size efficiency.
+- **SNARKs** (Succinct Non-Interactive Arguments of Knowledge) produce very small proofs, enabling efficient on-chain verification. SNARKs require a trusted setup, a setup ceremony where initial parameters are generated. If someone obtains setup secrets, they could forge proofs. This is a significant security assumption. SNARKs are used in Zcash and many rollups because of proof size efficiency.
 
-**STARKs** (Scalable Transparent Arguments of Knowledge) produce larger proofs but don't require trusted setup. STARKs rely only on cryptographic hash functions, making them more transparent and potentially more future-proof. STARKs have larger proofs, making them more expensive for on-chain verification. StarkWare pioneered STARKs. Trade-off: trusted setup vs proof size.
+- **STARKs** (Scalable Transparent Arguments of Knowledge) produce larger proofs but don't require trusted setup. STARKs rely only on cryptographic hash functions, making them more transparent and potentially more future-proof. STARKs have larger proofs, making them more expensive for on-chain verification. StarkWare pioneered STARKs. Trade-off: trusted setup vs proof size.
 
-**Bulletproofs** are range proofs enabling confidential transactions. Produce medium-sized proofs. Used in privacy coins. Less efficient than SNARKs for general computation but better for specific use cases.
+- **Bulletproofs** are range proofs enabling confidential transactions. Produce medium-sized proofs. Used in privacy coins. Less efficient than SNARKs for general computation but better for specific use cases.
 
 Different proof systems serve different applications.
 
@@ -154,19 +154,19 @@ ZK remains a highly active research area.
 
 ZK creates specialized roles:
 
-**Cryptographers** designing ZK schemes.
+- **Cryptographers** designing ZK schemes.
 
-**ZK Protocol Engineers** building ZK systems.
+- **ZK Protocol Engineers** building ZK systems.
 
-**Proof System Researchers** optimizing prover/verifier.
+- **Proof System Researchers** optimizing prover/verifier.
 
-**Smart Contract Developers** using ZK.
+- **Smart Contract Developers** using ZK.
 
-**Performance Engineers** optimizing ZK proof generation.
+- **Performance Engineers** optimizing ZK proof generation.
 
-**Circuit Engineers** designing ZK circuits.
+- **Circuit Engineers** designing ZK circuits.
 
-**Hardware Engineers** accelerating ZK.
+- **Hardware Engineers** accelerating ZK.
 
 ## Best Practices
 

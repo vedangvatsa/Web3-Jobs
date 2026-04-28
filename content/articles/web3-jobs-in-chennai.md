@@ -39,7 +39,7 @@ Chennai's job market shows a particularly strong demand for experienced full-sta
 
 ### Building a Web3 Career in Chennai
 
-1. **Utilize Your SaaS/Product Background:** If you have experience in building scalable web applications, you are well-positioned for the Web3 market. Emphasize your capacity to develop and deliver high-quality software in your [resume](/how-to-build-a-web3-resume-that-stands-out) and interviews. Expand your skillset with Web3-specific knowledge.
+1. **Use Your SaaS/Product Background:** If you have experience in building scalable web applications, you are well-positioned for the Web3 market. Emphasize your capacity to develop and deliver high-quality software in your [resume](/how-to-build-a-web3-resume-that-stands-out) and interviews. Expand your skillset with Web3-specific knowledge.
   
 2. **Enhance Full-Stack Skills:** The demand in Chennai leans toward engineers capable of constructing the entire application, from user interfaces to backend services that engage with the blockchain. While [smart contract](/what-are-smart-contracts) development is valuable, full-stack capabilities are paramount.
 

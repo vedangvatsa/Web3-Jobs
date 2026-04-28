@@ -40,7 +40,7 @@ The local processing capabilities of Edge AI offer several benefits:
   
 - **Cost Efficiency**: Local processing decreases the amount of data sent to the cloud, leading to savings on bandwidth and cloud service fees. A smart security camera using Edge AI could reduce its monthly data transmission significantly, which translates into notable cost reductions.
   
-- **Increased Reliability**: Edge AI applications can function without internet access, crucial for industries where connectivity is unreliable. For example, a remote agricultural drone can continue operating even in areas with poor network coverage.
+- **Increased Reliability**: Edge AI applications can function without internet access, important for industries where connectivity is unreliable. For example, a remote agricultural drone can continue operating even in areas with poor network coverage.
 
 ### Edge AI Applications
 
@@ -54,7 +54,7 @@ Edge AI is transforming a variety of sectors by enabling smarter, more capable d
 | Industrial IoT        | Predictive maintenance for machinery     | Smart sensors in factories |
 | Agriculture           | Real-time crop health analysis          | Smart tractors             |
 
-- **Smartphones**: Modern smartphones utilize Edge AI for features such as computational photography, which enhances image quality through local processing. The Google Pixel employs an AI chip to perform real-time image manipulation.
+- **Smartphones**: Modern smartphones use Edge AI for features such as computational photography, which enhances image quality through local processing. The Google Pixel employs an AI chip to perform real-time image manipulation.
   
 - **Smart Homes**: Devices like Amazon Echo process voice commands locally, enhancing responsiveness and functionality without relying on cloud connectivity. Smart security cameras can recognize faces and detect packages without sending video to remote servers.
   

@@ -1,7 +1,7 @@
 ---
 
 title: "Account Abstraction: A Deep Dive into the Future of Web3 Wallets"
-description: "Account Abstraction (EIP-4337) is set to revolutionize Web3 user experience. This guide explains what it is, how it works, and why it's a significant development that for."
+description: "Account Abstraction (EIP-4337) is set to change Web3 user experience. This guide explains what it is, how it works, and why it's a significant development that for."
 image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
 category: "Technology Deep Dives"
 data-ai-hint: "abstract shapes"
@@ -61,7 +61,7 @@ Smart contract wallets offer several capabilities:
 
 ### 1. Social Recovery and Multi-Factor Authentication
 
-The primary concern for crypto users is losing their seed phrase. Account Abstraction addresses this with social recovery. Users can appoint several "guardians" (friends, family, or other devices) who collectively can approve a transaction to recover the account if the primary key is lost. This mechanism resembles the "Forgot Password" feature in Web2. Furthermore, it allows for multi-factor authentication, such as requiring signatures from both a phone and a laptop to authorize significant transactions.
+The primary concern for crypto users is losing their seed phrase. Account Abstraction addresses this with social recovery. Users can appoint several "guardians" (friends, family, or other devices) who collectively can approve a transaction to recover the account if the primary key is lost. This mechanism resembles the "Forgot Password" feature in Web2. Also, it allows for multi-factor authentication, such as requiring signatures from both a phone and a laptop to authorize significant transactions.
 
 ### 2. Gasless Transactions
 
@@ -137,7 +137,7 @@ Depending on your desired role:
 
 - **Engineers:** Focus on learning [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain skills in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain skills in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop expertise in community building, managing Discord channels, and governance processes.
 
 ### Step 3: Build Your Portfolio
@@ -175,7 +175,7 @@ Alex, a backend engineer with five years of experience at a FAANG company, dedic
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi. Her strong grasp of financial products, coupled with Web3 technology knowledge, made her highly sought after. Within a short period, she secured a position at a prominent DeFi protocol.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi. Her strong grasp of financial products, coupled with Web3 technology knowledge, made her highly sought after. Within a short period, she secured a position at a prominent DeFi protocol.
 
 ### Career Changer Success
 

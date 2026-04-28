@@ -20,11 +20,11 @@ Biometric modalities can be classified into two primary categories: physiologica
 
 Physiological biometrics pertain to the physical characteristics of the user's body. Several well-established biometric technologies fall into this category.
 
-* **Fingerprint Scanning**. Fingerprint scanning is one of the oldest and most prevalent forms of biometric authentication. This technology captures the distinct patterns of ridges and valleys on an individual's fingertip. Modern devices utilize either optical scanners, which take a picture of the fingerprint, or ultrasonic scanners, which employ sound waves to create a detailed 3D map of the fingerprint.
+* **Fingerprint Scanning**. Fingerprint scanning is one of the oldest and most prevalent forms of biometric authentication. This technology captures the distinct patterns of ridges and valleys on an individual's fingertip. Modern devices use either optical scanners, which take a picture of the fingerprint, or ultrasonic scanners, which employ sound waves to create a detailed 3D map of the fingerprint.
 
 * **Facial Recognition**. The popularity of facial recognition technology has surged, largely due to systems like Apple’s Face ID. These systems map the unique geometry of a face by measuring various data points, such as the distance between the eyes, the depth of the eye sockets, and the shape of the cheekbones. Advanced facial recognition systems use infrared light to produce a 3D map, enhancing security and preventing deception by photographs.
 
-* **Iris and Retina Scanning**. The eye offers two distinct and highly precise biometric identifiers. Iris scanners utilize cameras to capture the unique patterns of an iris. Retina scanners, although less common, map the distinct pattern of blood vessels at the back of the eye. Both methods rank among the most secure forms of biometric authentication.
+* **Iris and Retina Scanning**. The eye offers two distinct and highly precise biometric identifiers. Iris scanners use cameras to capture the unique patterns of an iris. Retina scanners, although less common, map the distinct pattern of blood vessels at the back of the eye. Both methods rank among the most secure forms of biometric authentication.
 
 ### Behavioral Biometrics
 

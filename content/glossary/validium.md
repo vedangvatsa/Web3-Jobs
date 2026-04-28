@@ -97,12 +97,12 @@ The DAC is the critical component that differentiates validiums:
 
 ### DAC Examples
 
-**StarkEx DAC** (used by dYdX, Immutable X):
+- **StarkEx DAC** (used by dYdX, Immutable X):
 - 6 members including Nethermind and ConsenSys.
 - 4-of-6 threshold.
 - Members selected by StarkWare and application operators.
 
-**zkPorter DAC** (zkSync):
+- **zkPorter DAC** (zkSync):
 - Uses zkSync validators as DAC members.
 - Secured by zkSync token stake.
 - Slashing for data withholding.
@@ -131,7 +131,7 @@ Despite trust assumptions, validiums offer significant advantages:
 
 - **Transaction Costs**: Validiums have lower transaction costs compared to rollups.
 
-**Why So Cheap?**
+- **Why So Cheap?**
 - No L1 calldata costs.
 - Only proofs and small attestations are posted to L1.
 - Can batch many transactions per proof.
@@ -270,7 +270,7 @@ Some systems offer **hybrid modes** where users choose their security level:
 - Data posted to L1.
 - Higher security, slower, more expensive.
 
-**zkPorter Mode** (Validium):
+- **zkPorter Mode** (Validium):
 - Data posted to DAC.
 - Lower security, faster, cheaper.
 
@@ -284,7 +284,7 @@ Some systems offer **hybrid modes** where users choose their security level:
 - **Validium Mode**:
 - All data with DAC.
 
-**Volition Mode** (future):
+- **Volition Mode** (future):
 - Users choose per-transaction.
 
 ## Security Model
@@ -339,9 +339,9 @@ When building on validiums:
 
 - **Understand DAC**: Research DAC members, threshold, reputation, and governance.
 
-- **Design for Exits**: Implement robust exit mechanisms.
+- **Design for Exits**: Implement strong exit mechanisms.
 
-- **Leverage Low Costs**: Build applications that benefit from low costs.
+- **Use Low Costs**: Build applications that benefit from low costs.
 
 - **Plan for Upgrades**: Consider paths to stronger security if application value grows.
 

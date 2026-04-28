@@ -20,7 +20,7 @@ Windhoek's Web3 ecosystem benefits from Namibia's distinctive economic and envir
 
 - **Conservation and ReFi (Regenerative Finance):** Namibia is a global leader in conservation, with a significant portion of its land under conservation management. This creates substantial opportunities for Web3 initiatives focused on ReFi, including the use of blockchain for transparent carbon credit markets, monitoring conservation efforts, and funding community-based projects through [DAOs](/what-is-a-dao).
   
-- **Tourism and Digital Collectibles:** Tourism significantly contributes to Namibia's economy. Opportunities exist for projects utilizing [NFTs](/what-are-nfts) to represent unique travel experiences, create digital souvenirs, or raise funds for preserving cultural and natural heritage sites.
+- **Tourism and Digital Collectibles:** Tourism significantly contributes to Namibia's economy. Opportunities exist for projects using [NFTs](/what-are-nfts) to represent unique travel experiences, create digital souvenirs, or raise funds for preserving cultural and natural heritage sites.
 
 - **Growing FinTech Sector:** The Bank of Namibia is investigating digital currencies and has established a regulatory sandbox for FinTech innovation. This environment supports opportunities for blockchain-based payment solutions and inclusive financial services.
 
@@ -50,7 +50,7 @@ The formal Web3 job market in Windhoek is still nascent. Primary opportunities i
 
 1. **Become a Niche Expert in ReFi or NFTs for Tourism**: Focus on how blockchain can enhance conservation finance or the tourism sector. Develop a [portfolio](/building-web3-portfolio) of relevant projects or write articles detailing this specific intersection.
 
-2. **Utilize the Digital Nomad Visa**: Experienced Web3 professionals should consider relocating to Windhoek. Your expertise can significantly influence the small but expanding local community, positioning you as a key figure in its development.
+2. **Use the Digital Nomad Visa**: Experienced Web3 professionals should consider relocating to Windhoek. Your expertise can significantly influence the small but expanding local community, positioning you as a key figure in its development.
 
 3. **Create Educational Content for the Local Market**: There is a demand for high-quality, accessible Web3 educational content tailored for Namibia. Initiating a blog or a workshop series can effectively build your brand and network.
 

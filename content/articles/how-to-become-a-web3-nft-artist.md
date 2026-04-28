@@ -20,7 +20,7 @@ Before you mint your first piece, grasp the essential technology connected to NF
 
 - **Learn about Wallets:** Your crypto [wallet](/how-to-choose-a-crypto-wallet), such as MetaMask, serves as your digital identity and bank account in [Web3](/what-is-web3). Set up your wallet securely, and prioritize protecting your seed phrase.
 - **Get Some Crypto:** Purchase a small amount of cryptocurrency, typically [ETH](/what-is-ethereum), to cover the gas fees for minting your NFT on the [blockchain](/what-is-a-blockchain). Use reputable exchanges for transactions, then transfer the cryptocurrency to your MetaMask wallet.
-- **Understand Gas Fees:** Gas fees are charges paid to the blockchain network for processing your transactions. These fees can vary based on network congestion. Utilize a gas tracker to identify optimal times for minting when fees are lower.
+- **Understand Gas Fees:** Gas fees are charges paid to the blockchain network for processing your transactions. These fees can vary based on network congestion. Use a gas tracker to identify optimal times for minting when fees are lower.
 
 ### Step 2: Create Your Art
 

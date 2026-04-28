@@ -219,7 +219,7 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 
 ### Other Notable Projects
 
-**Linea** (ConsenSys): Type 2 zkEVM, tight MetaMask integration.  
+- **Linea** (ConsenSys): Type 2 zkEVM, tight MetaMask integration.  
 - **Taiko**: Type 1 zkEVM (most Ethereum-equivalent), based rollup.  
 - **Aztec**: Privacy-focused ZK rollup with confidential transactions.
 
@@ -336,7 +336,7 @@ When building on ZK rollups:
 
 - **Optimize for ZK**: Minimize operations expensive to prove when possible.
 
-- **Use Native Features**: Leverage rollup-specific features.
+- **Use Native Features**: Use rollup-specific features.
 
 - **Plan for Proving Time**: Account for proving delays in your application flow.
 

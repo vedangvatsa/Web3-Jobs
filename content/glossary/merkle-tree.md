@@ -107,13 +107,13 @@ Security depends on hash function and implementation.
 
 Merkle trees create roles:
 
-**Protocol Engineers** using Merkle trees earn competitive salaries.
+- **Protocol Engineers** using Merkle trees earn competitive salaries.
 
-**Cryptography Experts** analyzing Merkle properties earn competitive salaries.
+- **Cryptography Experts** analyzing Merkle properties earn competitive salaries.
 
-**Scaling Specialists** using trees for scaling earn competitive salaries.
+- **Scaling Specialists** using trees for scaling earn competitive salaries.
 
-**Smart Contract Engineers** implementing Merkle verification earn competitive salaries.
+- **Smart Contract Engineers** implementing Merkle verification earn competitive salaries.
 
 ## Best Practices
 

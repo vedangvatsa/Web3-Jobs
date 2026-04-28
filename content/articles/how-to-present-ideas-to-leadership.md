@@ -119,7 +119,7 @@ Mastering the art of presenting to leadership is essential for career advancemen
 
 **Q1: How many slides should I have?**
 
-A1: Aim for 5-7 core slides for a 15-20 minute presentation, excluding the appendix. Each slide should convey a clear message with minimal text. Utilize visuals and charts to communicate information efficiently. The goal is to encourage discussion rather than have your audience read your slides.
+A1: Aim for 5-7 core slides for a 15-20 minute presentation, excluding the appendix. Each slide should convey a clear message with minimal text. Use visuals and charts to communicate information efficiently. The goal is to encourage discussion rather than have your audience read your slides.
 
 **Q2: What if I get interrupted with a question during my presentation?**
 
@@ -187,7 +187,7 @@ A: Initial results can appear within a few weeks of consistent application, with
 A: Even in challenging environments, you often have more autonomy than you realize. Start small with self-contained actions that require no organizational approval, such as personal projects or conversations with supportive colleagues. Gradually build momentum. If, after sustained effort, you find structural barriers, consider seeking an organization that invests in employee development.
 
 **Q: How does this apply specifically to Web3?**
-A: Web3 organizations differ from traditional companies, emphasizing the importance of these skills. With flatter hierarchies, you have direct access to decision-makers but also greater responsibility for self-direction. Remote and globally distributed teams require more effective written communication. Additionally, product cycles often move faster in Web3, making adaptability a crucial professional skill.
+A: Web3 organizations differ from traditional companies, emphasizing the importance of these skills. With flatter hierarchies, you have direct access to decision-makers but also greater responsibility for self-direction. Remote and globally distributed teams require more effective written communication. Additionally, product cycles often move faster in Web3, making adaptability a important professional skill.
 
 **Q: Can I implement this alongside my current role?**
 A: Yes. Focus on intentionality within your existing hours rather than seeking extra time. Identify two or three practices that align with your daily responsibilities and apply them consistently. The cumulative effect of small, deliberate improvements often surpasses sporadic larger efforts.

@@ -17,7 +17,7 @@ This guide explores GaryVee's unique perspective on Web3, focusing on his invest
 
 ### From Wine to Web3
 
-Gary's journey is one of identifying and capitalizing on emerging trends. He first gained fame by improving his family's liquor store into a significant e-commerce business, largely through his pioneering YouTube show, *Wine Library TV*. He then founded VaynerMedia, a digital advertising agency that has grown into a global powerhouse.
+Gary's journey is one of identifying and capitalizing on emerging trends. He first gained fame by improving his family's liquor store into a significant e-commerce business, largely through his leading YouTube show, *Wine Library TV*. He then founded VaynerMedia, a digital advertising agency that has grown into a global powerhouse.
 
 His core skill has always been understanding where consumer attention is going and how to build brand and community on new platforms. He was an early adopter of social media platforms like Twitter, Facebook, and Snapchat, and he applied this same pattern-recognition to Web3. He saw in NFTs not just a new type of digital collectible, but a fundamental shift in how brands, creators, and communities can interact and create value together.
 

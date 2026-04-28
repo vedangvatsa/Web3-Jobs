@@ -53,12 +53,12 @@ The EVM processes data in 32-byte (256-bit) words. Packing smaller variables int
 For external arguments, especially dynamic types like `string` or `bytes`, using `calldata` is more cost-effective than `memory`. This read-only location avoids the expensive copying process.
 
 **4. Use Custom Errors**  
-Instead of traditional `require(condition, "Error message")` statements, utilize custom errors introduced in Solidity 0.8.4.
+Instead of traditional `require(condition, "Error message")` statements, use custom errors introduced in Solidity 0.8.4.
 - **Bad Practice**: Storing error strings on-chain, which incurs gas costs.
 - **Good Practice**: Defining custom errors like `error NotTheOwner();` and reverting conditions with `revert NotTheOwner();`, which is cheaper.
 
 **5. Use `unchecked` for Safe Math**  
-Since Solidity 0.8.0, arithmetic operations include overflow checks that add gas costs. If certain operations cannot overflow, wrap them in an `unchecked` block to save gas. Caution is crucial, as unexpected overflows can lead to vulnerabilities.
+Since Solidity 0.8.0, arithmetic operations include overflow checks that add gas costs. If certain operations cannot overflow, wrap them in an `unchecked` block to save gas. Caution is important, as unexpected overflows can lead to vulnerabilities.
 
 ### The Role of Layer 2
 
@@ -68,7 +68,7 @@ Understanding gas mechanics is essential for effective engagement with Ethereum.
 
 ### Importance of Understanding Gas Costs
 
-Mastering gas fees can enhance your career prospects. Professionals who understand these financial aspects stand out in job applications, often securing higher salaries and faster promotions. This is particularly true in [Web3](/what-is-web3) organizations where effective communication and collaboration are crucial.
+Mastering gas fees can enhance your career prospects. Professionals who understand these financial aspects stand out in job applications, often securing higher salaries and faster promotions. This is particularly true in [Web3](/what-is-web3) organizations where effective communication and collaboration are important.
 
 ### Step-by-Step Approach to Gas Optimization
 

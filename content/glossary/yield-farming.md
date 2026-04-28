@@ -22,11 +22,11 @@ The Yearn Finance platform, created by Andre Cronje, automated yield farming str
 
 The basic yield farming loop involves depositing assets into DeFi protocols that pay returns. You might lend stablecoins on Aave to earn interest, provide liquidity on Uniswap to earn trading fees, or stake tokens in a protocol's governance to earn rewards. Returns come from various sources: trading fees, interest on loans, inflationary token emissions, or protocol revenue sharing.
 
-Advanced farmers use leverage and complex routing. They might borrow against one asset to farm with another, multiply their exposure through recursive strategies, or move funds through multiple protocols in sequence to compound returns. Some strategies involve multiple protocols and require careful management of liquidation risks.
+Advanced farmers use use and complex routing. They might borrow against one asset to farm with another, multiply their exposure through recursive strategies, or move funds through multiple protocols in sequence to compound returns. Some strategies involve multiple protocols and require careful management of liquidation risks.
 
 ## Measuring Returns
 
-Yield farming returns are typically expressed as APY (Annual Percentage Yield) or APR (Annual Percentage Rate). APY accounts for compounding, while APR does not. Understanding this difference is crucial for comparing opportunities across protocols.
+Yield farming returns are typically expressed as APY (Annual Percentage Yield) or APR (Annual Percentage Rate). APY accounts for compounding, while APR does not. Understanding this difference is important for comparing opportunities across protocols.
 
 Returns can be deceptive. A pool showing high APY might be unsustainable, based on high inflation of a worthless token. Real yield comes from actual economic activity, trading fees, interest payments, protocol revenue, rather than just token emissions. Sophisticated farmers distinguish between sustainable yields and temporary incentives.
 
@@ -40,7 +40,7 @@ Savvy farmers manage this risk through stablecoin pairs, which do not experience
 
 Yield farming carries multiple risks beyond impermanent loss. Smart contract risk tops the list, bugs or exploits can drain entire pools. Many protocols are experimental and unaudited. A single vulnerability can wipe out your entire farming position. This risk multiplies when using multiple protocols in a strategy.
 
-Other risks include liquidation (if using leverage), rug pulls (developers abandoning projects), token price collapse (your farming rewards becoming worthless), and gas fee inefficiency (transaction costs eating into profits). Successful farmers size positions appropriately, diversify across protocols, and never farm with more than they can afford to lose.
+Other risks include liquidation (if using use), rug pulls (developers abandoning projects), token price collapse (your farming rewards becoming worthless), and gas fee inefficiency (transaction costs eating into profits). Successful farmers size positions appropriately, diversify across protocols, and never farm with more than they can afford to lose.
 
 ## Gas Optimization
 

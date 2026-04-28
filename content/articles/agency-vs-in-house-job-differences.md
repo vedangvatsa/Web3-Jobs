@@ -34,7 +34,7 @@ In-house life emphasizes depth and specialization.
 **Agency:**
 Agencies serve as accelerators for developing a wide range of skills.
 
-- **Breadth of Experience:** Exposure to diverse clients and problems fosters adaptability and quick learning. You develop a broad toolkit that includes various marketing strategies, creative processes, and technical skills.
+- **Breadth of Experience:** Exposure to diverse clients and problems builds adaptability and quick learning. You develop a broad toolkit that includes various marketing strategies, creative processes, and technical skills.
 - **Advanced Practices:** Agencies remain competitive by staying on top of the latest trends, tools, and best practices. This often places you at the forefront of industry developments.
 - **Presentation and Client Management:** Strong skills in pitching ideas, managing client expectations, and communicating the value of your work become essential.
 
@@ -51,7 +51,7 @@ In-house roles cultivate deep expertise and business acumen.
 Agency culture often embodies a high-energy, "work hard, play hard" ethos.
 
 - **Fast-Paced and Deadline-Driven:** The dynamic environment continually changes. Juggling multiple clients and tight deadlines is typical, which can create pressure.
-- **Creative and Collaborative:** Agencies attract creative, ambitious individuals. The emphasis on brainstorming, collaboration, and creative energy fosters a stimulating work environment.
+- **Creative and Collaborative:** Agencies attract creative, ambitious individuals. The emphasis on brainstorming, collaboration, and creative energy builds a stimulating work environment.
 - **Client-Centric:** The client's needs and deadlines shape your workflow, sometimes leading to long hours.
 
 **In-House:**

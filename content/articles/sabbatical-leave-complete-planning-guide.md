@@ -1,7 +1,7 @@
 ---
 
 title: "Sabbatical Leave A Complete Planning Guide"
-description: "A sabbatical can be a life-changing experience. This comprehensive guide will walk you through the steps of planning a successful and fulfilling career break."
+description: "A sabbatical can be a life-changing experience. This full guide will walk you through the steps of planning a successful and fulfilling career break."
 image: "https://picsum.photos/seed/318/1200/630"
 data-ai-hint: "travel planning"
 category: "Career Guides"
@@ -16,7 +16,7 @@ This guide outlines the steps in planning a successful sabbatical, from defining
 
 ### Step 1: Define Your Purpose
 
-Clarifying your reasons for taking a sabbatical is crucial. Your motivations will influence every aspect of your plan. Consider whether you need a break to recover from burnout, wish to acquire new skills, seek a career change, or desire time for personal pursuits like travel or family engagement.
+Clarifying your reasons for taking a sabbatical is important. Your motivations will influence every aspect of your plan. Consider whether you need a break to recover from burnout, wish to acquire new skills, seek a career change, or desire time for personal pursuits like travel or family engagement.
 
 Document your main objectives. This exercise not only provides clarity but also helps articulate your sabbatical's purpose to potential employers in the future.
 

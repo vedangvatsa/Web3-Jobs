@@ -79,7 +79,7 @@ This reduces L1 gas costs since verification only happens when needed.
 
 ### Fraud Proofs
 
-**Fraud proofs** are cryptographic proofs that a specific state transition was computed incorrectly. The challenge game works by:
+- **Fraud proofs** are cryptographic proofs that a specific state transition was computed incorrectly. The challenge game works by:
 
 1. Challenger claims state root is incorrect.
 2. Interactive bisection game narrows disagreement to a single computation step.
@@ -96,7 +96,7 @@ Interactive fraud proofs are more complex but more efficient; non-interactive pr
 
 The **7-day challenge period** is a fundamental tradeoff:
 
-**Why 7 Days?**
+- **Why 7 Days?**
 - Gives challengers time to detect fraud, generate proofs, and submit them even if systems are down.
 - Provides buffer for social coordination if something goes wrong.
 - Allows for L1 congestion, network issues, or other delays.
@@ -246,7 +246,7 @@ The Optimistic rollup ecosystem offers diverse roles:
 
 - **Rollup Protocol Engineers**: Build core rollup infrastructure, including sequencers, fraud proof systems, and L1 contracts.
 
-- **Smart Contract Developers (L2)**: Build dApps on Optimistic rollups, leveraging cheap fees and high throughput.
+- **Smart Contract Developers (L2)**: Build dApps on Optimistic rollups, using cheap fees and high throughput.
 
 - **Fraud Proof Researchers**: Research and implement fraud proof mechanisms, challenge games, and verification systems.
 
@@ -274,7 +274,7 @@ When building on Optimistic rollups:
 
 - **Gas Optimization**: While gas is cheap, optimize for large-scale applications to minimize cumulative costs.
 
-- **Leverage Cheap Blockspace**: Build applications that were economically impossible on L1.
+- **Use Cheap Blockspace**: Build applications that were economically impossible on L1.
 
 ## The Future of Optimistic Rollups
 
@@ -294,4 +294,4 @@ Optimistic rollups continue to evolve:
 
 Despite the rise of ZK rollups, Optimistic rollups will likely remain dominant for the foreseeable future due to their maturity, EVM compatibility, and strong ecosystem adoption. The rollup wars are just beginning, and Optimistic rollups have a strong early lead.
 
-**Building on L2?** Start with an Optimistic rollup like Arbitrum or Base for the easiest development experience and largest existing user base. The OP Stack makes deploying your own Optimistic rollup accessible if you need full control.
+- **Building on L2?** Start with an Optimistic rollup like Arbitrum or Base for the easiest development experience and largest existing user base. The OP Stack makes deploying your own Optimistic rollup accessible if you need full control.

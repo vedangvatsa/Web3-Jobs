@@ -79,13 +79,13 @@ Costs must be justified by strategy value.
 
 Conditional orders create roles:
 
-**Protocol Designers** designing order mechanisms earn competitive salaries.
+- **Protocol Designers** designing order mechanisms earn competitive salaries.
 
-**Keeper Operators** running keepers earn variable salaries.
+- **Keeper Operators** running keepers earn variable salaries.
 
-**Smart Contract Engineers** implementing orders earn competitive salaries.
+- **Smart Contract Engineers** implementing orders earn competitive salaries.
 
-**Automation Specialists** building strategies earn competitive salaries.
+- **Automation Specialists** building strategies earn competitive salaries.
 
 ## Best Practices
 

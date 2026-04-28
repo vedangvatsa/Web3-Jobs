@@ -2,7 +2,7 @@
 
 title: "Understanding Mark Price vs Index Price"
 image: "https://picsum.photos/seed/mark-index-price/1200/630"
-description: "A guide to the difference between Mark Price and Index Price in crypto derivatives, and why Mark Price is crucial for preventing unfair liquidations."
+description: "A guide to the difference between Mark Price and Index Price in crypto derivatives, and why Mark Price is important for preventing unfair liquidations."
 category: "Educational"
 data-ai-hint: "price comparison"
 
@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ### Introduction
 
-In the field of crypto derivatives trading, particularly with perpetual futures, exchanges present various price points for the same asset. The two most significant prices are the **Index Price** and the **Mark Price**. While traders often look at the last traded price displayed on charts, the Mark Price is crucial for calculating unrealized profits and losses. More importantly, it determines whether a position will be liquidated. A strong grasp of these concepts is essential for effective risk management.
+In the field of crypto derivatives trading, particularly with perpetual futures, exchanges present various price points for the same asset. The two most significant prices are the **Index Price** and the **Mark Price**. While traders often look at the last traded price displayed on charts, the Mark Price is important for calculating unrealized profits and losses. More importantly, it determines whether a position will be liquidated. A strong grasp of these concepts is essential for effective risk management.
 
 ### Index Price
 
@@ -59,7 +59,7 @@ Consider a scenario where you hold a long position on [ETH](/what-is-ethereum) w
 ### FAQ
 
 **Which price should I monitor?**  
-Keep an eye on all three prices. The **Last Price** indicates current trading activity on your specific exchange. The **Index Price** reflects the broader market value, while the **Mark Price** is crucial for assessing your liquidation risk. Most exchanges display the liquidation price based on the Mark Price.
+Keep an eye on all three prices. The **Last Price** indicates current trading activity on your specific exchange. The **Index Price** reflects the broader market value, while the **Mark Price** is important for assessing your liquidation risk. Most exchanges display the liquidation price based on the Mark Price.
 
 **Can there be significant differences between Mark Price and Last Price?**  
 Yes, especially during periods of high volatility. The disparity between these prices is termed the "basis." A large basis signals a notable deviation between the perpetual contract market and the underlying spot market, typically corrected over time via the funding rate mechanism.

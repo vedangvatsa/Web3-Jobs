@@ -71,7 +71,7 @@ For any single post, a recommended hashtag structure includes:
 2. **1-2 Narrative-Specific Hashtags:** (e.g., `#RWA`, `#L2s`)
 3. **(Optional) 1 Event Hashtag:** If applicable (e.g., `#ETHGlobal`)
 
-By understanding and utilizing the different tiers of hashtags, you can amplify your message, reach your target audience, and position your brand as an informed and credible presence in the Web3 space.
+By understanding and using the different tiers of hashtags, you can amplify your message, reach your target audience, and position your brand as an informed and credible presence in the Web3 space.
 
 ## The Web3 Career Opportunity
 
@@ -105,7 +105,7 @@ Tailor your skill development according to your target role:
 
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
 - **Product Managers:** Gain insights into token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Focus on market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Hone skills in community building, Discord management, and governance processes.
 
 ### Step 3: Build Your Portfolio

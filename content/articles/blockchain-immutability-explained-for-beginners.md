@@ -35,7 +35,7 @@ Decentralization plays a critical role in thwarting this attempt. For a fraudule
 
 ### Significance of Immutability
 
-Immutability allows a blockchain to serve as a trusted source of truth without needing a trusted intermediary. It creates a permanent and auditable record of transactions, which is crucial for various applications:
+Immutability allows a blockchain to serve as a trusted source of truth without needing a trusted intermediary. It creates a permanent and auditable record of transactions, which is important for various applications:
 
 - **Digital Currency**: Guarantees that a transaction, once completed, cannot be reversed.
 - **Supply Chain**: Establishes a verifiable and tamper-proof history of a product’s journey from origin to consumer.
@@ -115,7 +115,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi. Her knowledge of financial products combined with an understanding of Web3 technology made her a sought-after candidate. She secured a role at a leading DeFi protocol within a few weeks.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi. Her knowledge of financial products combined with an understanding of Web3 technology made her a sought-after candidate. She secured a role at a leading DeFi protocol within a few weeks.
 
 ### Career Changer Success
 

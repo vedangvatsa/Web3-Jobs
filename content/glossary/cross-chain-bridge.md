@@ -29,7 +29,7 @@ In all cases, the essential mechanism is: observe event on chain A, execute acti
 
 Different bridge designs have varying security models:
 
-- **Native Bridges**: Built by layer 2s themselves (Polygon, Arbitrum, Optimism). Leverage L2's security assumptions. Generally more trustworthy since their security is tied to L2 security.
+- **Native Bridges**: Built by layer 2s themselves (Polygon, Arbitrum, Optimism). Use L2's security assumptions. Generally more trustworthy since their security is tied to L2 security.
 
 - **Third-Party Bridges**: Independent protocols like Stargate, Connext, or Across. May have security assumptions distinct from underlying chains.
 
@@ -91,7 +91,7 @@ Major bridges show the diversity:
 
 - **Across**: Optimistic bridge design, uses economic incentives and fraud proofs to secure transfers.
 
-- **Arbitrum/Polygon/Optimism Native Bridges**: Leverage underlying chain security, generally considered safer.
+- **Arbitrum/Polygon/Optimism Native Bridges**: Use underlying chain security, generally considered safer.
 
 The variety of models and repeated hacks suggest bridge security remains an unsolved problem.
 
@@ -136,17 +136,17 @@ Users should:
 
 Bridges create professional opportunities:
 
-**Bridge Engineers** building cross-chain protocols earn competitive salaries at specialized bridge companies.
+- **Bridge Engineers** building cross-chain protocols earn competitive salaries at specialized bridge companies.
 
-**Security Researchers** specializing in bridge security find critical vulnerabilities and may earn additional income through bug bounties.
+- **Security Researchers** specializing in bridge security find critical vulnerabilities and may earn additional income through bug bounties.
 
-**Cryptographers** designing bridge security mechanisms earn competitive salaries.
+- **Cryptographers** designing bridge security mechanisms earn competitive salaries.
 
-**Smart Contract Auditors** specializing in bridges earn competitive salaries as bridge security is highly specialized.
+- **Smart Contract Auditors** specializing in bridges earn competitive salaries as bridge security is highly specialized.
 
-**Product Managers** at bridge protocols navigating complex tradeoffs earn competitive salaries.
+- **Product Managers** at bridge protocols navigating complex tradeoffs earn competitive salaries.
 
-**Data Analysts** tracking cross-chain flows and bridge usage patterns earn competitive salaries.
+- **Data Analysts** tracking cross-chain flows and bridge usage patterns earn competitive salaries.
 
 ## The Future of Bridges
 
@@ -158,7 +158,7 @@ Bridge technology continues evolving:
 
 - **Intent-Based Bridges**: Moving away from primitive lock-and-mint toward intent-based designs where users specify what they want and systems optimize execution.
 
-- **Rollup-Native Solutions**: L2s implementing more sophisticated bridges leveraging their specific properties.
+- **Rollup-Native Solutions**: L2s implementing more sophisticated bridges using their specific properties.
 
 - **Regulatory Frameworks**: Clear regulations might emerge around bridge operations and custody.
 

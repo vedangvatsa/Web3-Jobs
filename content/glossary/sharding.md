@@ -39,7 +39,7 @@ Different approaches:
 
 - **Rollup + Sharding**: Combining rollups with sharding. Rollups handle execution, sharding handles data availability.
 
-**Beacon Chain Sharding** (Ethereum's plan): A central beacon chain coordinates, and the Denkun upgrade enables "data sharding" initially.
+- **Beacon Chain Sharding** (Ethereum's plan): A central beacon chain coordinates, and the Denkun upgrade enables "data sharding" initially.
 
 Different designs make various tradeoffs.
 
@@ -65,11 +65,11 @@ These challenges mean sharding remains an unsolved problem in blockchain researc
 
 Ethereum's long-term plan:
 
-**Phase 0** (Complete): The beacon chain (consensus layer) launched in 2020.
+- **Phase 0** (Complete): The beacon chain (consensus layer) launched in 2020.
 
-**Phase 1** (Future): The "Dencun" upgrade enables data sharding (Ethereum calls "Danksharding"). Shards hold data temporarily, supporting rollups.
+- **Phase 1** (Future): The "Dencun" upgrade enables data sharding (Ethereum calls "Danksharding"). Shards hold data temporarily, supporting rollups.
 
-**Phase 2** (Future): Smart contract execution on shards, enabling full sharding.
+- **Phase 2** (Future): Smart contract execution on shards, enabling full sharding.
 
 The timeline remains uncertain. Current Ethereum scaling relies on rollups rather than sharding while research continues.
 
@@ -104,15 +104,15 @@ Security implications of sharding are an ongoing research topic.
 
 Sharding research and development create roles:
 
-**Protocol Researchers** designing sharding mechanisms.
+- **Protocol Researchers** designing sharding mechanisms.
 
-**Smart Contract Engineers** building sharding-compatible contracts.
+- **Smart Contract Engineers** building sharding-compatible contracts.
 
-**Cryptographers** solving sharding security challenges.
+- **Cryptographers** solving sharding security challenges.
 
-**Performance Engineers** optimizing shard throughput.
+- **Performance Engineers** optimizing shard throughput.
 
-**Data Scientists** analyzing sharding performance.
+- **Data Scientists** analyzing sharding performance.
 
 ## Best Practices
 

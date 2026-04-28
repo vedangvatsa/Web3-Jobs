@@ -32,7 +32,7 @@ Choosing the right moment to ask for a raise can significantly impact the outcom
 
 Simply stating that you want more money is insufficient. Develop a compelling, data-driven argument for why you deserve a raise.
 
-- **Investigate Market Salaries**: Utilize platforms like Glassdoor and Payscale to determine average salaries for your position, experience, and geographic area. This information will help you establish a reasonable salary target.
+- **Investigate Market Salaries**: Use platforms like Glassdoor and Payscale to determine average salaries for your position, experience, and geographic area. This information will help you establish a reasonable salary target.
 - **Keep Track of Your Achievements**: Document your accomplishments over several months. Focus on those that have resulted in measurable benefits for the company.
 - **Quantify Your Contributions**: Use specific metrics to underline your value. For instance:
   - "I increased sales in my territory significantly."
@@ -51,7 +51,7 @@ While spontaneity can be appealing, having a structured script or at least key t
 
 #### A sample script might include:
 1. **Begin with a positive note**: "Thank you for meeting with me. I truly enjoy working here and take pride in my contributions to the team."
-2. **Present your case**: "I wish to discuss my compensation. Over the past year, I have taken on new responsibilities, including [mention 1-2 key responsibilities]. Furthermore, I have achieved [mention 1-2 specific, quantified accomplishments]."
+2. **Present your case**: "I wish to discuss my compensation. Over the past year, I have taken on new responsibilities, including [mention 1-2 key responsibilities]. Also, I have achieved [mention 1-2 specific, quantified accomplishments]."
 3. **Make your request**: "Based on my contributions and market research, I would like to request a salary increase to [your desired salary]."
 4. **Pause for a response**: After stating your case, remain silent and allow your manager time to consider your request.
 
@@ -72,7 +72,7 @@ A typical raise ranges between a few percent. If your market research indicates 
 Remain calm and professional. Reinforce your commitment to the organization and clarify that your goal is to ensure your compensation reflects your contributions and the market value of your role.
 
 **Is it necessary to have another job offer to negotiate a raise?**  
-While a competing offer can strengthen your case, using it as leverage carries risks. Only use an external offer if you are genuinely prepared to leave your current position. Focus on articulating your value to the organization instead.
+While a competing offer can strengthen your case, using it as use carries risks. Only use an external offer if you are genuinely prepared to leave your current position. Focus on articulating your value to the organization instead.
 
 ### Why This Matters
 
@@ -86,7 +86,7 @@ Grasp the fundamental principles of salary negotiation. Familiarize yourself wit
 
 #### Step 2: Evaluate Your Current Position
 
-Assess your current standing. Identify your strengths and weaknesses. Understanding your baseline is crucial for targeted improvements.
+Assess your current standing. Identify your strengths and weaknesses. Understanding your baseline is important for targeted improvements.
 
 #### Step 3: Craft Your Strategy
 
@@ -109,7 +109,7 @@ Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced chall
 Juan, a product manager in [DeFi](/what-is-defi), encountered similar hurdles. By applying the outlined framework, he negotiated a notable salary increase after successfully launching a new product line. His experience illustrates the efficacy of these principles.
 
 #### Example 3
-Maya transitioned from a Web2 role to Web3 and utilized these strategies to adapt quickly. Her success underscores that these methods are effective regardless of background or experience level.
+Maya transitioned from a Web2 role to Web3 and used these strategies to adapt quickly. Her success underscores that these methods are effective regardless of background or experience level.
 
 ### Common Mistakes to Avoid
 

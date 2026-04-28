@@ -145,7 +145,7 @@ Several career paths can lead to earnings exceeding $5,000 per month in Dakar. B
 
 **Challenge 2: Regulatory Uncertainty Across UEMOA**
 - *Reality:* Each UEMOA country has varying stances on cryptocurrency, complicating operations.
-- *Solution:* Work with international companies on remote contracts. Utilize major exchanges. As regulations evolve, position yourself as an expert in compliance to gain a competitive edge.
+- *Solution:* Work with international companies on remote contracts. Use major exchanges. As regulations evolve, position yourself as an expert in compliance to gain a competitive edge.
 
 **Challenge 3: French Language Requirement for Growth**
 - *Reality:* The majority of Web3 content is in English. Fluency in French is essential for growth within Francophone Africa.
@@ -157,7 +157,7 @@ Several career paths can lead to earnings exceeding $5,000 per month in Dakar. B
 
 **Challenge 5: Talent Migration to Europe/Canada**
 - *Reality:* Many skilled Senegalese professionals seek opportunities abroad, particularly in cities like Paris and Montreal.
-- *Solution:* Remote work allows you to stay in Dakar while earning a global salary. After a few years, you will have the leverage to choose your location based on personal satisfaction and financial stability.
+- *Solution:* Remote work allows you to stay in Dakar while earning a global salary. After a few years, you will have the use to choose your location based on personal satisfaction and financial stability.
 
 ### 90-Day Quick-Start Action Plan
 

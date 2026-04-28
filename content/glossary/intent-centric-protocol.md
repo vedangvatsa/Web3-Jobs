@@ -17,7 +17,7 @@ synonyms:
   - Outcome-based execution
 ---
 
-**Intent-centric protocols** represent a shift from traditional blockchain transactions to a model where users express desired outcomes (intents) rather than specifying exact execution steps. Instead of signing a transaction that says "swap 1 ETH for USDC on Uniswap," a user signs an intent that says "I want to receive at least 1,900 USDC for my 1 ETH," and a competitive marketplace of solvers figures out the optimal execution path.
+- **Intent-centric protocols** represent a shift from traditional blockchain transactions to a model where users express desired outcomes (intents) rather than specifying exact execution steps. Instead of signing a transaction that says "swap 1 ETH for USDC on Uniswap," a user signs an intent that says "I want to receive at least 1,900 USDC for my 1 ETH," and a competitive marketplace of solvers figures out the optimal execution path.
 
 This architecture, pioneered by protocols like CoW Swap, Anoma, SUAVE (Single Unified Auction for Value Expression), and Essential, abstracts away the complexity of transaction construction while enabling superior execution through solver competition, native cross-chain operations, and built-in MEV protection.
 
@@ -39,7 +39,7 @@ Intents can be simple (single-chain token swap) or complex (multi-chain operatio
 
 ### 2. Solvers (Intent Fulfillers)
 
-**Solvers** are specialized entities that compete to fulfill user intents optimally. Solvers:
+- **Solvers** are specialized entities that compete to fulfill user intents optimally. Solvers:
 - Monitor intent mempool for profitable opportunities
 - Calculate optimal execution paths (which DEXs, which routes, which chains)
 - Submit solutions (execution plans) with bids
@@ -50,7 +50,7 @@ Solvers are incentivized through fees paid by users or by capturing any surplus 
 
 ### 3. Auctioneers (Intent Coordinators)
 
-**Auctioneers** (or **matchers**) coordinate the intent fulfillment process:
+- **Auctioneers** (or **matchers**) coordinate the intent fulfillment process:
 - Collect intents from users
 - Run auctions to select winning solvers
 - Verify solution correctness
@@ -129,4 +129,4 @@ The intent-centric ecosystem is creating new specialized roles:
 
 This field combines expertise in MEV, cross-chain protocols, mechanism design, and distributed systems.
 
-**Ready to explore intents?** Try CoW Swap or UniswapX, study solver strategies, and imagine the future where blockchain complexity is abstracted into simple "what you want" rather than "how to get it."
+- **Ready to explore intents?** Try CoW Swap or UniswapX, study solver strategies, and imagine the future where blockchain complexity is abstracted into simple "what you want" rather than "how to get it."

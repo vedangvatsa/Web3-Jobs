@@ -31,7 +31,7 @@ Automated Market Makers (AMMs) using liquidity pools solved these problems. Inst
 
 A basic liquidity pool (like Uniswap V2) contains two tokens, for example, ETH and USDC. The pool maintains a constant product:
 
-**x × y = k**
+- **x × y = k**
 
 Where:
 - x = amount of token A

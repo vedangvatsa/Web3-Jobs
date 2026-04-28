@@ -19,7 +19,7 @@ The human brain consists of billions of neurons that communicate through electri
 A BCI system comprises three essential components:
 
 1. **Signal Acquisition**: This initial step involves measuring the brain's electrical activity through two primary methods:
-   * **Non-invasive BCIs**: These systems utilize sensors placed externally on the head. The most prevalent type is the electroencephalogram (EEG), which employs a cap fitted with small electrodes to capture electrical signals from the scalp. Although EEG-based BCIs are safe and user-friendly, they produce weak and noisy signals that must traverse the skull.
+   * **Non-invasive BCIs**: These systems use sensors placed externally on the head. The most prevalent type is the electroencephalogram (EEG), which employs a cap fitted with small electrodes to capture electrical signals from the scalp. Although EEG-based BCIs are safe and user-friendly, they produce weak and noisy signals that must traverse the skull.
    * **Invasive BCIs**: These systems necessitate surgical procedures to place electrodes directly on or within the brain. This approach generates higher-quality signals as the electrodes are situated near the neurons. Companies are pursuing this method. Although invasive BCIs deliver superior performance, they carry risks associated with brain surgery.
 
 2. **Signal Processing**: The raw brain signals are inherently complex and noisy. The BCI's software employs advanced algorithms and machine learning techniques to filter out noise and pinpoint specific patterns that reflect the user's intentions. For instance, if a user imagines moving their right hand, the BCI learns to identify the associated neural activity pattern.
@@ -32,7 +32,7 @@ The primary focus of BCI research today lies in medical applications, particular
 
 * **Communication**: A paralyzed individual can use a BCI to control a cursor by simply imagining the movement, enabling them to type messages, send emails, or browse the internet. This capability can be a lifeline for those who have lost the ability to speak or move.
 
-* **Restoring Movement**: BCIs are also being utilized to operate advanced prosthetic limbs. An individual with an amputation can learn to control a robotic arm by thinking about the desired movement. In even more sophisticated applications, BCIs can bypass spinal cord injuries by reading motor signals from the brain and transmitting them to electrodes that stimulate the person's own muscles, allowing movement in paralyzed limbs.
+* **Restoring Movement**: BCIs are also being used to operate advanced prosthetic limbs. An individual with an amputation can learn to control a robotic arm by thinking about the desired movement. In even more sophisticated applications, BCIs can bypass spinal cord injuries by reading motor signals from the brain and transmitting them to electrodes that stimulate the person's own muscles, allowing movement in paralyzed limbs.
 
 | Application               | Description                                                                                     | Example                              |
 |---------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------|
@@ -87,11 +87,11 @@ Grasping the implications of BCIs is essential for professionals aiming to excel
 
 ### Real-World Applications of BCI Strategies
 
-BCIs are already transforming lives. Here are some examples of individuals successfully utilizing BCI technology:
+BCIs are already transforming lives. Here are some examples of individuals successfully using BCI technology:
 
 **Example 1**: Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with effective communication until she began using a BCI. Over three months, she considerably improved her ability to relay information and collaborate on projects. Her productivity metrics increased significantly.
 
-**Example 2**: Juan, a product manager in [DeFi](/what-is-defi), faced challenges in accessing information quickly. By integrating BCI methods into his workflow, he enhanced his efficiency and reduced decision-making time. This approach allowed him to bring innovative products to market faster.
+**Example 2**: Juan, a product manager in [DeFi](/what-is-defi), faced challenges in accessing information quickly. By integrating BCI methods into his workflow, he enhanced his efficiency and reduced decision-making time. This approach allowed him to bring new products to market faster.
 
 **Example 3**: Maya transitioned from Web2 to Web3 and used BCI strategies to adapt quickly. Her ability to learn and implement new technologies resulted in her promotion within six months, demonstrating the effectiveness of these principles across varying backgrounds and experiences.
 

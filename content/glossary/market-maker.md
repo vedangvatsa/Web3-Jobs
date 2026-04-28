@@ -63,7 +63,7 @@ Institutional approaches:
 
 - **Trading Firms**: Firms with significant capital running market making operations.
 
-- **Prime Brokerage**: Access to leverage, financing, and sophisticated tools.
+- **Prime Brokerage**: Access to use, financing, and sophisticated tools.
 
 - **High Frequency**: Exploit microsecond advantages through speed and algorithms.
 
@@ -93,15 +93,15 @@ Market making is risky despite seeming simple.
 
 Market making creates roles:
 
-**Quantitative Traders** developing strategies earn competitive salaries.
+- **Quantitative Traders** developing strategies earn competitive salaries.
 
-**Algorithmic Traders** coding implementations earn competitive salaries.
+- **Algorithmic Traders** coding implementations earn competitive salaries.
 
-**Risk Managers** monitoring risk earn competitive salaries.
+- **Risk Managers** monitoring risk earn competitive salaries.
 
-**Systems Engineers** building infrastructure earn competitive salaries.
+- **Systems Engineers** building infrastructure earn competitive salaries.
 
-**Data Scientists** analyzing markets earn competitive salaries.
+- **Data Scientists** analyzing markets earn competitive salaries.
 
 ## Best Practices
 

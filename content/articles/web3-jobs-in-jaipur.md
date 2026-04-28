@@ -84,7 +84,7 @@ Depending on your desired role, focus on the following skill sets:
 
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development Roles:** Gain insights into market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development Roles:** Gain insights into market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Create a Portfolio
@@ -118,7 +118,7 @@ Target roles that align with your existing expertise and your new Web3 knowledge
 Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol attracted the attention of a major DeFi project, allowing him to transition with a salary increase and significant equity.
 
 ### Product Manager's Move to Web3
-Jessica, a product manager in traditional finance, utilized her domain expertise in DeFi. Her understanding of financial products coupled with Web3 technology made her a valuable asset. She secured a role at a leading DeFi protocol within four weeks.
+Jessica, a product manager in traditional finance, used her domain expertise in DeFi. Her understanding of financial products coupled with Web3 technology made her a valuable asset. She secured a role at a leading DeFi protocol within four weeks.
 
 ### Career Changer's Journey
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a position leading Developer Relations at a major blockchain platform, earning significantly more than in his previous role.

@@ -16,7 +16,7 @@ Marc Andreessen, a significant figure in Silicon Valley, co-created Mosaic, the 
 
 His insights stem from his extensive experience witnessing the evolution of the internet. Andreessen observed the centralization of power during the Web2 era, where a few large tech companies, including Google, Facebook, and Amazon, dominated the digital field. While these companies delivered significant value, they created closed ecosystems that captured most economic benefits and made arbitrary decisions impacting millions of users and developers.
 
-Andreessen sees Web3 as a solution to these issues. By using [blockchain](/what-is-a-blockchain) technology, decentralized protocols, and user-owned assets ([tokens](/what-is-a-token)), Web3 establishes a model where participants own the network. This approach supports a more equitable, open, and innovative internet. a16z’s investments through dedicated crypto funds demonstrate a firm belief that this new model will generate the next wave of internet giants.
+Andreessen sees Web3 as a solution to these issues. By using [blockchain](/what-is-a-blockchain) technology, decentralized protocols, and user-owned assets ([tokens](/what-is-a-token)), Web3 establishes a model where participants own the network. This approach supports a more equitable, open, and new internet. a16z’s investments through dedicated crypto funds demonstrate a firm belief that this new model will generate the next wave of internet giants.
 
 ### Key Views and Philosophies
 
@@ -27,7 +27,7 @@ Andreessen often references the original vision of the internet as an open, perm
 Helping creators is central to Andreessen's Web3 thesis. In Web2, platforms often take a large portion of revenue, exemplified by Apple’s App Store fee. Web3 introduces [smart contracts](/what-are-smart-contracts), allowing creators to retain a more significant share of the value they generate. For instance, [NFTs](/what-are-nfts) enable artists to sell their work directly and earn royalties on future sales, a concept challenging to enforce in traditional art markets.
 
 **3. The Power of Trust and Composability**  
-Andreessen highlights that blockchains offer a "trust layer" for the internet. A shared, immutable ledger allows developers to build applications that can interoperate without needing mutual trust. This concept, known as composability or "money legos," encourages rapid innovation, enabling developers to create new applications by combining existing protocols in innovative ways, similar to stacking Lego bricks.
+Andreessen highlights that blockchains offer a "trust layer" for the internet. A shared, immutable ledger allows developers to build applications that can interoperate without needing mutual trust. This concept, known as composability or "money legos," encourages rapid innovation, enabling developers to create new applications by combining existing protocols in new ways, similar to stacking Lego bricks.
 
 **4. Not Just Finance, But a New Computing Model**  
 Although [DeFi](/what-is-defi) emerged as the first significant use case, a16z and Andreessen recognize that Web3's potential extends well beyond finance. The firm has invested in Web3 gaming, social media, decentralized infrastructure, and other sectors. The primary idea is that any digital service relying on a trusted intermediary can be rebuilt on a decentralized, user-owned foundation.
@@ -126,7 +126,7 @@ The Web3 community is highly accessible. Engage by:
 - Attending local Web3 meetups
 
 ### Step 5: Apply Strategically
-Target roles that utilize your existing expertise along with your new Web3 knowledge:
+Target roles that use your existing expertise along with your new Web3 knowledge:
 - If you're a backend engineer, seek blockchain infrastructure roles
 - If you're a PM, look for protocol product roles
 - If you work in sales/business development, pursue opportunities in Web3 business development
@@ -137,7 +137,7 @@ Target roles that utilize your existing expertise along with your new Web3 knowl
 Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol attracted a major DeFi project, leading to a transition that came with a salary increase and significant equity.
 
 ### Product Manager in Web3
-Jessica, a PM from traditional finance, utilized her domain knowledge in DeFi. Her understanding of financial products combined with Web3 technology made her a valuable asset. Within weeks, she secured a role at a leading DeFi protocol.
+Jessica, a PM from traditional finance, used her domain knowledge in DeFi. Her understanding of financial products combined with Web3 technology made her a valuable asset. Within weeks, she secured a role at a leading DeFi protocol.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a position leading Developer Relations at a major blockchain platform, with compensation significantly higher than his previous role.

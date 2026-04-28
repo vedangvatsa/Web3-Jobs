@@ -83,11 +83,11 @@ Layer 2s are a natural fit for preconfirmations.
 
 Preconf roles:
 
-**Protocol Engineers**.
+- **Protocol Engineers**.
 
-**MEV Researchers**.
+- **MEV Researchers**.
 
-**Infrastructure Engineers**.
+- **Infrastructure Engineers**.
 
 ## Best Practices
 

@@ -49,7 +49,7 @@ Your immediate team and direct manager will significantly impact your job satisf
 
 8. **How does the team manage disagreements or differing opinions?** This question provides insights into the team culture. A positive team environment views disagreements as opportunities for growth rather than personal conflict.
 
-9. **What is the team's preferred communication style? (For example, async on Slack, frequent meetings, etc.)** Understanding the communication culture is especially crucial for remote positions. This question helps clarify the operational rhythm and meeting expectations.
+9. **What is the team's preferred communication style? (For example, async on Slack, frequent meetings, etc.)** Understanding the communication culture is especially important for remote positions. This question helps clarify the operational rhythm and meeting expectations.
 
 10. **How do you promote professional development and growth for team members?** This inquiry signals your commitment to career advancement and allows you to assess whether the manager values team development.
 
@@ -61,7 +61,7 @@ These questions help you grasp the broader company vision, its values, and the w
 
 12. **If you had to describe the company culture in three words, what would they be?** This question prompts a concise and revealing response. You can follow up with examples that illustrate those words.
 
-13. **What is the company's stance on [remote work](/remote-work-in-web3) and flexibility?** Understanding policies regarding in-office requirements, flexible hours, and asynchronous work is crucial in the current employment market.
+13. **What is the company's stance on [remote work](/remote-work-in-web3) and flexibility?** Understanding policies regarding in-office requirements, flexible hours, and asynchronous work is important in the current employment market.
 
 14. **How does the company support transparency and handle feedback?** Look for specific practices, such as all-hands meetings, employee surveys, or open-door policies that signal a commitment to communication.
 
@@ -111,7 +111,7 @@ These questions can yield valuable insights but should be phrased carefully to a
 
 **Q: Should I ask about salary or benefits?**
 
-**A:** It’s typically best to defer questions about compensation until later stages, usually with an HR representative rather than the hiring manager. Initial interviews focus on assessing mutual fit for the role and culture. Once the company expresses interest, you’ll have more leverage in salary discussions.
+**A:** It’s typically best to defer questions about compensation until later stages, usually with an HR representative rather than the hiring manager. Initial interviews focus on assessing mutual fit for the role and culture. Once the company expresses interest, you’ll have more use in salary discussions.
 
 By preparing a set of strategic questions, you transform the end of the interview from a mere formality into a powerful tool for evaluation and connection. You will impress the hiring manager and gain the clarity needed to make an informed decision about your career path.
 
@@ -135,7 +135,7 @@ Create a tailored plan that reflects your unique situation. Everyone's circumsta
 
 #### Step 4: Implement Gradually
 
-Avoid attempting to change everything at once. Start with one small adjustment and build on that. Track what works and what does not. This incremental approach fosters sustainable improvement.
+Avoid attempting to change everything at once. Start with one small adjustment and build on that. Track what works and what does not. This incremental approach builds sustainable improvement.
 
 #### Step 5: Measure and Adjust
 
@@ -159,8 +159,8 @@ Monitor your progress. Are you achieving results? Adjust your strategy based on 
 
 4. **Giving Up Too Soon:** Change can be uncomfortable. Persist through initial discomfort to achieve better results.
 
-5. **Neglecting Progress Tracking:** Measurement is crucial for improvement. Keep metrics on your developments.
+5. **Neglecting Progress Tracking:** Measurement is important for improvement. Keep metrics on your developments.
 
 ### Conclusion
 
-Asking insightful questions during an interview is a powerful tool for assessing your fit within a potential organization. By carefully crafting your inquiries, you can gather crucial information that influences your career decision. This skill not only enhances your interview performance but also positions you for success in the fast-paced and collaborative environment of Web3. Prepare thoughtfully, engage actively, and you will leave each interview with a clear sense of whether the opportunity aligns with your professional aspirations.
+Asking insightful questions during an interview is a powerful tool for assessing your fit within a potential organization. By carefully crafting your inquiries, you can gather important information that influences your career decision. This skill not only enhances your interview performance but also positions you for success in the fast-paced and collaborative environment of Web3. Prepare thoughtfully, engage actively, and you will leave each interview with a clear sense of whether the opportunity aligns with your professional aspirations.

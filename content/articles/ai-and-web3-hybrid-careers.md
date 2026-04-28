@@ -17,7 +17,7 @@ This convergence marks the emergence of a new job market. Professionals skilled 
 
 The integration of AI and Web3 is motivated by a mutual necessity to address each other's significant challenges.
 
-* **AI Requires Web3 for Trust and Ownership:** Traditional AI models often function as opaque systems controlled by large corporations. Users lack clarity regarding the decision-making processes of these models, and the data used for training is frequently collected without consent. Web3 addresses these issues through **verifiable computation** and **data sovereignty**. By placing AI models or their outputs on a blockchain, it becomes possible to demonstrate their training processes and the inferences they draw. [NFTs](/what-are-nfts) empower users to own and control their data and provide the means to license it to AI models as they see fit.
+* **AI Requires Web3 for Trust and Ownership:** Traditional AI models often function as opaque systems controlled by large corporations. Users lack clarity regarding the decision-making processes of these models, and the data used for training is frequently collected without consent. Web3 addresses these issues through **verifiable computation** and **data sovereignty**. By placing AI models or their outputs on a blockchain, it becomes possible to demonstrate their training processes and the inferences they draw. [NFTs](/what-are-nfts) enable users to own and control their data and provide the means to license it to AI models as they see fit.
 
 * **Web3 Requires AI for Intelligence and Scalability:** While blockchains are powerful, they have inherent limitations in computational capacity. They are not optimized for the intensive processing demands of AI. On-chain data is also vast and complex. AI can serve as an intelligent layer on top of Web3, analyzing on-chain data, automating complex [DAO](/what-is-a-dao) operations, and facilitating dynamic decentralized applications (dApps).
 
@@ -29,7 +29,7 @@ The need for professionals who can connect AI and Web3 is rapidly increasing. Th
 
 #### 1. Decentralized AI Developer
 
-Decentralized AI Developers focus on building and deploying AI models within decentralized environments. Instead of utilizing a centralized server, they deploy models across a network of nodes, use blockchains to verify outputs, or create systems where the models are governed by a DAO.
+Decentralized AI Developers focus on building and deploying AI models within decentralized environments. Instead of using a centralized server, they deploy models across a network of nodes, use blockchains to verify outputs, or create systems where the models are governed by a DAO.
 
 * **Daily Responsibilities:** A typical day might include optimizing a machine learning model to predict NFT market trends or writing [smart contracts](/what-are-smart-contracts) to facilitate user payments for model inferences using cryptocurrency. They may also design systems that run models across decentralized computing networks to ensure resistance to censorship.
 * **Essential Tools & Technologies:** Proficiency in Python (using frameworks like PyTorch or TensorFlow), [Solidity](/best-programming-languages-for-blockchain-development), Rust, decentralized computing platforms, Oracle networks (Chainlink), and containerization knowledge (Docker) is vital.
@@ -39,8 +39,8 @@ Decentralized AI Developers focus on building and deploying AI models within dec
 
 ZKML Engineers specialize in crafting zero-knowledge proofs for machine learning models. This expertise enables them to verify that an AI model operated correctly and produced a specific output without disclosing the proprietary weights of the model or the private data used.
 
-* **Daily Responsibilities:** A day might involve transforming a trained neural network into an arithmetic circuit, a mathematical representation for generating a zero-knowledge proof. They utilize specialized languages to construct these circuits and optimize them for performance and cost, as proof generation can be computationally intensive.
-* **Essential Tools & Technologies:** Familiarity with ZK-proof frameworks, circuit-building languages, and a foundation in cryptography, linear algebra, and advanced mathematics is crucial.
+* **Daily Responsibilities:** A day might involve transforming a trained neural network into an arithmetic circuit, a mathematical representation for generating a zero-knowledge proof. They use specialized languages to construct these circuits and optimize them for performance and cost, as proof generation can be computationally intensive.
+* **Essential Tools & Technologies:** Familiarity with ZK-proof frameworks, circuit-building languages, and a foundation in cryptography, linear algebra, and advanced mathematics is important.
 * **Career Path:** ZKML is a highly specialized area. Experienced ZKML Engineers are rare and may advance to roles such as Head of Research, Chief Cryptographer, or co-founder of a ZK-focused protocol. Compensation for these roles ranks among the highest in the tech sector due to the scarcity of talent.
 
 #### 3. AI Agent Economist / Mechanism Designer
@@ -53,10 +53,10 @@ AI agents, as they become more autonomous and operate on-chain, will require the
 
 #### 4. On-Chain Data Scientist (with AI Focus)
 
-On-chain data presents vast opportunities for analysis. On-Chain Data Scientists utilize AI and machine learning techniques to extract actionable insights from this data. Their work goes beyond simple dashboards to include predictive modeling and behavioral analysis.
+On-chain data presents vast opportunities for analysis. On-Chain Data Scientists use AI and machine learning techniques to extract actionable insights from this data. Their work goes beyond simple dashboards to include predictive modeling and behavioral analysis.
 
 * **Daily Responsibilities:** Activities may involve building models to predict which wallets are likely to adopt new protocols early, clustering transaction patterns to identify sophisticated MEV bot strategies, or generating real-time "market sentiment" scores based on on-chain activity combined with social media data.
-* **Essential Tools & Technologies:** Skills in SQL (for querying indexed data from platforms), Python (for advanced analysis and ML), BigQuery, and a solid understanding of blockchain data structures (transactions, events, traces) are crucial.
+* **Essential Tools & Technologies:** Skills in SQL (for querying indexed data from platforms), Python (for advanced analysis and ML), BigQuery, and a solid understanding of blockchain data structures (transactions, events, traces) are important.
 * **Career Path:** This role represents an evolution of the traditional data scientist position. Senior practitioners can advance to roles such as Head of Data Science, Head of Quant Research, or transition into on-chain venture capital, using their analytical expertise to identify new investment opportunities.
 
 #### 5. Decentralized AI Ethicist

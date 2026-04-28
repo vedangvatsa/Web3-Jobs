@@ -19,7 +19,7 @@ Understanding the reasons behind developers leaving one chain is essential for e
 Developer experience remains a primary concern. If a platform proves to be frustrating and poorly supported, developers will inevitably seek alternatives.
 
 - **Clunky Tooling**: Inefficient compilers, unreliable testnets, and the absence of development frameworks hinder productivity. For instance, the Ethereum Virtual Machine (EVM) benefits from tools like Foundry, which streamline the development lifecycle. Platforms lacking such resources suffer.
-- **Inadequate Documentation**: Detailed and current documentation is non-negotiable. If developers struggle to utilize a platform’s features due to poor documentation, they are less likely to stay.
+- **Inadequate Documentation**: Detailed and current documentation is non-negotiable. If developers struggle to use a platform’s features due to poor documentation, they are less likely to stay.
 - **Steep Learning Curve**: Platforms that rely on obscure programming languages without adequate educational resources face challenges attracting developers. Non-EVM chains often struggle to attract talent from the larger pool of EVM-native developers, as they demand significant time investment to learn.
 
 ### 2. Lack of Network Effects and Composability
@@ -80,7 +80,7 @@ Identify skills relevant to your target role:
 
 - **Engineers**: Focus on [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers**: Understand token economics, protocol governance, and strategies for user growth in Web3.
-- **Business Development**: Develop skills in market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development**: Develop skills in market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations**: Gain expertise in community building, Discord management, and governance.
 
 #### Step 3: Build Your Portfolio
@@ -102,7 +102,7 @@ The Web3 community is highly accessible:
 - Attend local Web3 meetups
 
 #### Step 5: Apply Strategically
-Target roles that utilize your existing skills while incorporating your new Web3 knowledge:
+Target roles that use your existing skills while incorporating your new Web3 knowledge:
 
 - Backend engineers can seek blockchain infrastructure roles
 - Product managers should focus on protocol product roles

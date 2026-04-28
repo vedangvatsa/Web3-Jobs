@@ -42,7 +42,7 @@ The Philippines offers a well-trained talent pool, particularly in community and
 
 ### Strategies to Secure a Web3 Job in the Philippines
 
-1. **Utilize Your Gaming and Community Experience:** If you have managed a gaming clan or a large Discord server, highlight this experience on your [resume](/how-to-build-a-web3-resume-that-stands-out). Skills in community engagement, event organization, moderation, and user growth are more valuable than a traditional marketing degree in this field.
+1. **Use Your Gaming and Community Experience:** If you have managed a gaming clan or a large Discord server, highlight this experience on your [resume](/how-to-build-a-web3-resume-that-stands-out). Skills in community engagement, event organization, moderation, and user growth are more valuable than a traditional marketing degree in this field.
 
 2. **Establish a Reputation for Reliability and Empathy:** In community and support roles, being responsive, patient, and dependable is essential. Build your reputation as a trusted community member within the projects you admire. Assist new users, answer questions, and maintain a positive presence. This "proof of work" can serve as an effective resume.
 

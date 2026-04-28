@@ -26,7 +26,7 @@ Finding and securing a Web3 internship requires a tailored approach compared to 
 Web3 companies prioritize initiative and demonstrated passion. They care less about academic performance and more about evidence of your genuine interest in the field.
 
 **Key Indicators They Look For:**
-- **"Proof of Work" Portfolio:** Compile public projects and contributions that showcase your skills. This portfolio is crucial for your application.
+- **"Proof of Work" Portfolio:** Compile public projects and contributions that showcase your skills. This portfolio is important for your application.
 - **Active Participation:** Engagement in Web3 communities, participation in hackathons, and a history of using the technology all signal your commitment.
 - **Ability to Learn Quickly:** Companies value self-starters who can grasp complex topics independently and adapt swiftly.
 
@@ -118,7 +118,7 @@ Spend 4-8 weeks learning blockchain fundamentals. Focus on:
 Depending on your target role, focus on specific skills:
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (like ethers.js and web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and strategies for user growth in Web3.
-- **Business Development:** Gain skills in market analysis, partnership strategy, and understanding the regulatory landscape.
+- **Business Development:** Gain skills in market analysis, partnership strategy, and understanding the regulatory space.
 - **Community/Operations:** Learn about community building, Discord management, and governance.
 
 #### Step 3: Develop Your Portfolio
@@ -164,7 +164,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 
 **Market Volatility:** The inherent volatility of the crypto market can affect job stability, especially at early-stage startups. Professionals entering Web3 should maintain reserves covering several months of living expenses, negotiate base salaries in fiat currency, and target projects with established revenue models or strong treasury backing.
 
-**Regulatory Uncertainty:** The regulatory landscape for blockchain companies is continuously evolving. Before joining a project, ensure that the team has competent legal counsel and is engaging proactively with regulators rather than operating in legal grey areas.
+**Regulatory Uncertainty:** The regulatory space for blockchain companies is continuously evolving. Before joining a project, ensure that the team has competent legal counsel and is engaging proactively with regulators rather than operating in legal grey areas.
 
 **Due Diligence:** Not all Web3 projects are legitimate. Conduct thorough research on the founding team's history, review audit reports for smart contracts, verify treasury holdings on-chain, and consult current or former team members before accepting any offers.
 

@@ -29,7 +29,7 @@ Modular blockchains separate blockchains into four distinct functions:
 
 ### 1. Execution
 
-**Execution** is the processing of transactions and execution of smart contracts, which changes blockchain state. In modular architecture:
+- **Execution** is the processing of transactions and execution of smart contracts, which changes blockchain state. In modular architecture:
 
 - **Specialized Execution Layers**: Rollups (Optimistic, ZK) or app-specific chains that execute transactions.
 - **VM Flexibility**: Different execution layers can use different virtual machines (EVM, SVM, MoveVM, custom).
@@ -38,7 +38,7 @@ Modular blockchains separate blockchains into four distinct functions:
 
 ### 2. Settlement
 
-**Settlement** is the process of verifying execution results and finalizing state transitions. Settlement layers:
+- **Settlement** is the process of verifying execution results and finalizing state transitions. Settlement layers:
 
 - **Verify Proofs**: Check fraud proofs (Optimistic) or validity proofs (ZK) from execution layers.
 - **Resolve Disputes**: Arbitrate disputes about execution correctness.
@@ -48,7 +48,7 @@ Modular blockchains separate blockchains into four distinct functions:
 
 ### 3. Consensus
 
-**Consensus** is the mechanism for agreeing on transaction ordering and block production. In modular systems:
+- **Consensus** is the mechanism for agreeing on transaction ordering and block production. In modular systems:
 
 - **Order Transactions**: Determine the canonical order of transactions across the network.
 - **Block Production**: Coordinate validators/sequencers to produce blocks.
@@ -57,7 +57,7 @@ Modular blockchains separate blockchains into four distinct functions:
 
 ### 4. Data Availability (DA)
 
-**Data Availability** ensures that transaction data is published and remains accessible for verification. DA layers:
+- **Data Availability** ensures that transaction data is published and remains accessible for verification. DA layers:
 
 - **Store Transaction Data**: Maintain sufficient data for state reconstruction and fraud proof generation.
 - **Guarantee Availability**: Ensure anyone can download the data when needed.
@@ -107,7 +107,7 @@ Modular blockchains offer several advantages:
 
 - **Innovation Velocity**: Layers can be upgraded independently without coordinating the entire stack, enabling faster innovation.
 
-- **Sovereignty**: Execution layers can maintain their own governance, economics, and community while leveraging shared infrastructure for settlement and DA.
+- **Sovereignty**: Execution layers can maintain their own governance, economics, and community while using shared infrastructure for settlement and DA.
 
 - **Cost Efficiency**: Using efficient DA layers and execution layers can reduce costs compared to doing everything on expensive L1s.
 
@@ -262,4 +262,4 @@ Modular blockchains are becoming a dominant approach:
 
 The modular blockchain concept has gained traction in the Ethereum ecosystem and is spreading to other ecosystems. The future of blockchain is modular, flexible, and specialized.
 
-**Building on blockchain?** Think modular from day one, choose your execution environment, settlement layer, and DA layer based on your security, cost, and performance requirements.
+- **Building on blockchain?** Think modular from day one, choose your execution environment, settlement layer, and DA layer based on your security, cost, and performance requirements.

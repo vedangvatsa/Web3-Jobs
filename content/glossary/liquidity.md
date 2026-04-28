@@ -81,7 +81,7 @@ Various metrics assess market liquidity:
 
 - **Total Value Locked (TVL)**: The total dollar value of assets in a protocol or pool. Higher TVL generally indicates deeper liquidity.
 
-- **Volume/TVL Ratio**: Trading volume relative to TVL indicates how efficiently liquidity is being utilized. Higher ratios suggest more active markets.
+- **Volume/TVL Ratio**: Trading volume relative to TVL indicates how efficiently liquidity is being used. Higher ratios suggest more active markets.
 
 - **Price Impact**: The percentage price change from executing a specific trade size. Lower price impact for larger trades signals better liquidity.
 
@@ -89,17 +89,17 @@ Various metrics assess market liquidity:
 
 ## Career Opportunities
 
-Understanding liquidity is crucial for various DeFi roles:
+Understanding liquidity is important for various DeFi roles:
 
-**Quantitative Analysts** model liquidity dynamics, price impact, and optimal LP strategies. These roles require strong mathematical backgrounds.
+- **Quantitative Analysts** model liquidity dynamics, price impact, and optimal LP strategies. These roles require strong mathematical backgrounds.
 
-**Market Makers** provide professional liquidity to DEXs and CEXs, managing inventory and risk.
+- **Market Makers** provide professional liquidity to DEXs and CEXs, managing inventory and risk.
 
-**Protocol Economists** design tokenomics and liquidity incentive programs for DeFi protocols.
+- **Protocol Economists** design tokenomics and liquidity incentive programs for DeFi protocols.
 
-**Smart Contract Developers** build AMMs, concentrated liquidity protocols, and innovative liquidity mechanisms.
+- **Smart Contract Developers** build AMMs, concentrated liquidity protocols, and new liquidity mechanisms.
 
-**Risk Analysts** assess liquidity risks for lending protocols, helping set collateral factors and liquidation parameters.
+- **Risk Analysts** assess liquidity risks for lending protocols, helping set collateral factors and liquidation parameters.
 
 ## Best Practices for LPs
 

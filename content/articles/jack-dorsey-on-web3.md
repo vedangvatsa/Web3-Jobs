@@ -20,7 +20,7 @@ Dorsey's commitment to decentralization is unwavering. He sees Bitcoin as a mean
 
 Dorsey's critique of Web3 gained significant attention in December 2021 when he tweeted, "You don’t own 'web3.' The VCs and their LPs do. It will never escape their incentives. It’s ultimately a centralized entity with a different label." This statement sparked extensive debate. Dorsey argues that the Web3 ecosystem, heavily reliant on Ethereum and bolstered by venture capital funding, replicates the centralized power structures of Web2. He contends that venture capital firms invest in projects, acquire considerable [token](/what-is-a-token) allocations, and use their influence to promote their investments, often to the detriment of retail users.
 
-In contrast, Dorsey champions “Web5: The Decentralized Web Platform,” announced in June 2022. This ambitious project seeks to enable individuals with true ownership of their data and identity. It utilizes Bitcoin as its foundational trust layer, foregoing the creation of a new token.
+In contrast, Dorsey champions “Web5: The Decentralized Web Platform,” announced in June 2022. This ambitious project seeks to enable individuals with true ownership of their data and identity. It uses Bitcoin as its foundational trust layer, foregoing the creation of a new token.
 
 The main components of Web5 are:
 
@@ -57,7 +57,7 @@ Dorsey’s perspective on Web3 is both principled and polarizing. His criticism 
 
 However, his dismissal of the broader ecosystem surrounding Ethereum and other [smart contract](/what-are-smart-contracts) platforms may appear overly simplistic. Innovations in DeFi, NFTs, and [DAOs](/what-is-a-dao) represent some of the most vibrant and creative efforts within Web3.
 
-Dorsey is not opposed to a decentralized web; he advocates for a specific iteration of it. He emphasizes that the means of achieving decentralization matters as much as the end goal. For him, the only acceptable approach involves open, decentralized protocols like Bitcoin, rather than ventures backed by VC funding with centralized governance. His initiatives at Block and support for Bluesky reflect his commitment to building a more authentic, empowering digital infrastructure.
+Dorsey is not opposed to a decentralized web; he advocates for a specific iteration of it. He emphasizes that the means of achieving decentralization matters as much as the end goal. For him, the only acceptable approach involves open, decentralized protocols like Bitcoin, rather than ventures backed by VC funding with centralized governance. His initiatives at Block and support for Bluesky reflect his commitment to building a more authentic, enabling digital infrastructure.
 
 ### Frequently Asked Questions (FAQ)
 
@@ -128,7 +128,7 @@ Based on your desired role, acquire specific skills:
 
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 #### Step 3: Build Your Portfolio

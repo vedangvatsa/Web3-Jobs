@@ -76,9 +76,9 @@ Advanced contracts implement royalties through EIP-2981, ensuring creators earn 
 
 ## Notable Collections and Projects
 
-**CryptoPunks** (2017): 10,000 algorithmically generated 24x24 pixel characters. One of the first NFT projects, CryptoPunks established the profile picture (PFP) NFT category. Top punks have sold for high prices, and Yuga Labs (Bored Ape creators) now owns the collection.
+- **CryptoPunks** (2017): 10,000 algorithmically generated 24x24 pixel characters. One of the first NFT projects, CryptoPunks established the profile picture (PFP) NFT category. Top punks have sold for high prices, and Yuga Labs (Bored Ape creators) now owns the collection.
 
-**Bored Ape Yacht Club** (2021): 10,000 unique ape avatars that doubled as exclusive club membership. BAYC pioneered community-driven value, offering commercial rights and exclusive events to holders. The brand expanded into merchandise, a metaverse land project (Otherside), and even a mobile game.
+- **Bored Ape Yacht Club** (2021): 10,000 unique ape avatars that doubled as exclusive club membership. BAYC pioneered community-driven value, offering commercial rights and exclusive events to holders. The brand expanded into merchandise, a metaverse land project (Otherside), and even a mobile game.
 
 - **Art Blocks**: Generative art platform where artists create algorithms that generate unique pieces upon minting. Projects like Chromie Squiggle and Ringers brought computational art to NFTs.
 

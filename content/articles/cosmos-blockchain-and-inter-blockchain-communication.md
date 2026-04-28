@@ -49,7 +49,7 @@ Tendermint Core serves as the consensus engine behind Cosmos SDK blockchains. Th
 IBC stands out as a critical feature of the Cosmos ecosystem. It is a standardized protocol that allows independent blockchains to connect and communicate.
 
 - **Operation:** IBC enables one chain to track the state of another via a lightweight "light client." This facilitates the transfer of tokens and arbitrary data between any two IBC-enabled chains.
-- **Interconnected Ecosystem:** This protocol forms a network of interconnected chains, each optimized for its own purpose. For example, users can utilize assets from a [DeFi](/what-is-defi)-focused chain like Kava to purchase an [NFT](/what-are-nfts) on a gaming-oriented chain, all through IBC.
+- **Interconnected Ecosystem:** This protocol forms a network of interconnected chains, each optimized for its own purpose. For example, users can use assets from a [DeFi](/what-is-defi)-focused chain like Kava to purchase an [NFT](/what-are-nfts) on a gaming-oriented chain, all through IBC.
 
 **3. The Cosmos Hub & the ATOM Token**
 The Cosmos Hub, the first blockchain launched within the Cosmos network, uses the native token ATOM. It functions as the central router or clearinghouse for the ecosystem, enhancing security and facilitating interoperability among connected chains, known as "Zones." Holders of ATOM can stake their tokens to secure the Hub and participate in governance decisions.
@@ -154,7 +154,7 @@ Marcus transitioned from a corporate role to focus on Web3 for six months. Throu
 
 **Market Volatility:** The crypto market's volatility can impact job security, particularly at early-stage startups. Professionals entering Web3 should maintain a financial buffer. It is advisable to negotiate base salaries in fiat currency rather than tokens and seek projects with established revenue models.
 
-**Regulatory Environment:** The regulatory landscape for blockchain companies is still developing across major jurisdictions. Before joining a project, verify the team's legal counsel and their proactive engagement with regulators.
+**Regulatory Environment:** The regulatory space for blockchain companies is still developing across major jurisdictions. Before joining a project, verify the team's legal counsel and their proactive engagement with regulators.
 
 **Due Diligence on Projects:** Not every Web3 project is credible. Research the founding team’s background, review audit reports for smart contracts, check on-chain treasury holdings, and speak with current or former team members before accepting an offer.
 

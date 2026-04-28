@@ -25,7 +25,7 @@ This article explores the nature of Uncle blocks, the issues they resolved, thei
 | **Core Concept**      | An Uncle block is a valid but stale block included by a canonical block for a partial reward. |
 | **Problem Solved**    | Uncles mitigated centralization pressure caused by network latency, benefiting smaller miners. |
 | **Mechanism**         | A canonical block could reference up to two Uncle blocks, rewarding both the Uncle's miner and the including miner. |
-| **Security Boost**    | The GHOST protocol utilized stale blocks, enhancing overall chain security and complicating attacks. |
+| **Security Boost**    | The GHOST protocol used stale blocks, enhancing overall chain security and complicating attacks. |
 | **Post-Merge**        | Uncle blocks are no longer part of Ethereum, as they were specific to the PoW consensus. |
 
 ### Network Latency and Centralization
@@ -76,7 +76,7 @@ Thus, Uncle blocks became a historical feature of Ethereum, addressing a specifi
 ### Frequently Asked Questions (FAQ)
 
 **Q: Did Bitcoin have Uncle blocks?**  
-A: No, Bitcoin does not utilize Uncle blocks. In Bitcoin, a stale block is simply an orphan block, and its miner does not receive any reward. This is less problematic for Bitcoin due to its longer block time of about 10 minutes, allowing ample time for block propagation.
+A: No, Bitcoin does not use Uncle blocks. In Bitcoin, a stale block is simply an orphan block, and its miner does not receive any reward. This is less problematic for Bitcoin due to its longer block time of about 10 minutes, allowing ample time for block propagation.
 
 **Q: What does "Ommer" mean?**  
 A: "Ommer" serves as a gender-neutral term for the sibling of a parent in Ethereum’s terminology, avoiding the gendered term "Uncle." While "Uncle" is often used informally, technical specifications primarily refer to them as Omers.
@@ -94,4 +94,4 @@ A: The headers of Uncle blocks are stored in the `ommers` field of the canonical
 
 Uncle blocks played a significant role in enhancing Ethereum's PoW network by addressing the challenges posed by network latency and centralization. Their inclusion bolstered security and provided incentives for miners, thereby mitigating the negative impacts of orphan blocks.
 
-As Ethereum moves forward with its PoS mechanism, the legacy of Uncle blocks serves as a reminder of the innovative solutions that emerged in the early days of the Ethereum network. Understanding the mechanics and implications of Uncle blocks is essential for professionals engaged in blockchain technology, as it illustrates the ongoing evolution of consensus mechanisms and the importance of network security.
+As Ethereum moves forward with its PoS mechanism, the legacy of Uncle blocks serves as a reminder of the new solutions that emerged in the early days of the Ethereum network. Understanding the mechanics and implications of Uncle blocks is essential for professionals engaged in blockchain technology, as it illustrates the ongoing evolution of consensus mechanisms and the importance of network security.

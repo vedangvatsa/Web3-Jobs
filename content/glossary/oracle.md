@@ -282,7 +282,7 @@ Uniswap V3 provides built-in TWAP oracles. Protocols can read historical price d
 
 - **Trends**:
 
-- **Cross-Chain Oracles**: Enabling seamless multi-chain DeFi with unified data.
+- **Cross-Chain Oracles**: Enabling smooth multi-chain DeFi with unified data.
 
 - **Zero-Knowledge Oracles**: Privacy-preserving data provision using ZK proofs.
 

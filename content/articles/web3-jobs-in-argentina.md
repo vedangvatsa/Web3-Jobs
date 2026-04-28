@@ -164,7 +164,7 @@ To find the latest remote and local job openings in Argentina’s strong Web3 ec
 **Technical Excellence:**
 - Buenos Aires has a hacker culture focused on collaboration.
 - A strong tradition of mathematics and engineering supports tech development.
-- An ethos committed to open-source collaboration fosters innovation.
+- An ethos committed to open-source collaboration builds innovation.
 
 ## Challenges and Solutions
 

@@ -85,13 +85,13 @@ Builder profitability depends on MEV capture and competition.
 
 Builder ecosystem roles:
 
-**Block Builder Engineers**.
+- **Block Builder Engineers**.
 
-**MEV Researchers**.
+- **MEV Researchers**.
 
-**Infrastructure Engineers**.
+- **Infrastructure Engineers**.
 
-**Quant Traders**.
+- **Quant Traders**.
 
 ## Best Practices
 

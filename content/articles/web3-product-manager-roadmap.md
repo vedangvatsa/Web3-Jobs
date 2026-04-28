@@ -16,7 +16,7 @@ This guide outlines a structured roadmap for establishing a career as a Web3 Pro
 
 ### The Mindset: Unlearning Web2 Assumptions
 
-Transitioning to Web3 demands a shift in mindset. Understanding the fundamental differences between Web2 and Web3 is crucial.
+Transitioning to Web3 demands a shift in mindset. Understanding the fundamental differences between Web2 and Web3 is important.
 
 - **From Users to Owners:** Users in Web3 are often [token](/what-is-a-token) holders who share ownership of the product. This alters the feedback loop from a straightforward interaction to a complex dialogue involving multiple stakeholders.
 - **From Centralized Authority to Community Consensus:** Major decisions are frequently subject to public governance votes. Your role shifts from making unilateral decisions to facilitating discussions and persuading diverse community members.
@@ -53,7 +53,7 @@ In Web3, your public contributions serve as your [resume](/how-to-build-a-web3-r
 
 1. **Become an Informed Analyst:**
    - **Conduct Product Evaluations:** Select a well-known dApp and write a detailed critique. Assess its user experience, growth strategies, and tokenomics. Suggest new features based on your analysis. Share your findings on platforms like Mirror or Substack.
-   - **Create a Dune Dashboard:** Acquire basic SQL skills and utilize Dune Analytics to develop a dashboard for a protocol you admire. Monitor metrics like user retention, transaction volume, and feature engagement. Share insights on Twitter.
+   - **Create a Dune Dashboard:** Acquire basic SQL skills and use Dune Analytics to develop a dashboard for a protocol you admire. Monitor metrics like user retention, transaction volume, and feature engagement. Share insights on Twitter.
 
 2. **Actively Contribute to a [DAO](/what-is-a-dao):** This represents one of the best avenues for gaining practical experience.
    - **Transition from Observer to Contributor:** Start offering thoughtful comments on governance proposals in the DAO you joined earlier.
@@ -150,7 +150,7 @@ Seek roles that capitalize on your existing skills while integrating your new We
 Alex, a backend engineer with five years at a FAANG company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol attracted the attention of a prominent DeFi project, resulting in a transition that included a significant salary increase and equity.
 
 #### Product Manager in Web3
-Jessica, a PM from traditional finance, effectively utilized her expertise in DeFi. Her knowledge of financial products, combined with Web3 technology, made her a sought-after candidate. She secured a position at a leading DeFi protocol within a short time frame.
+Jessica, a PM from traditional finance, effectively used her expertise in DeFi. Her knowledge of financial products, combined with Web3 technology, made her a sought-after candidate. She secured a position at a leading DeFi protocol within a short time frame.
 
 #### Career Changer Success
 Marcus left his corporate position to immerse himself in Web3 for six months. Through consistent learning, networking, and portfolio development, he achieved a role leading Developer Relations at a major blockchain platform, with compensation significantly exceeding his previous salary.

@@ -133,15 +133,15 @@ Native assets are simpler, but wrapped assets enable higher capital efficiency i
 
 Wrapped assets create roles:
 
-**Custody Operations** managing wrapped asset backing.
+- **Custody Operations** managing wrapped asset backing.
 
-**Bridge Engineers** building wrapping infrastructure.
+- **Bridge Engineers** building wrapping infrastructure.
 
-**Risk Analysts** assessing custodian and counterparty risks.
+- **Risk Analysts** assessing custodian and counterparty risks.
 
-**Compliance Officers** ensuring wrapped assets meet regulations.
+- **Compliance Officers** ensuring wrapped assets meet regulations.
 
-**Protocol Developers** building wrapped-asset-aware DeFi applications.
+- **Protocol Developers** building wrapped-asset-aware DeFi applications.
 
 ## Best Practices
 
@@ -165,7 +165,7 @@ Wrapped token evolution may include:
 
 - **Decentralized Custody**: Moving from centralized custodians to decentralized networks securing assets.
 
-- **Cross-Chain Standardization**: Improved standards enabling wrapped assets across more chains seamlessly.
+- **Cross-Chain Standardization**: Improved standards enabling wrapped assets across more chains smoothly.
 
 - **Programmable Wrapped Assets**: Wrapped assets might carry additional functionality beyond simple 1:1 mapping.
 

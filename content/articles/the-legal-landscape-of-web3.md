@@ -100,7 +100,7 @@ Tailor your skill development based on your target role:
 
 - **Engineers:** Gain proficiency in [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Develop skills in market analysis, partnership strategy, and the regulatory landscape.
+- **Business Development:** Develop skills in market analysis, partnership strategy, and the regulatory space.
 - **Community/Operations:** Focus on community building, Discord management, and governance.
 
 ### Step 3: Build a Portfolio

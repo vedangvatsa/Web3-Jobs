@@ -76,7 +76,7 @@ To thrive in Web3, shift from the traditional mindset of job applications to an 
 - **Building a Public Reputation:** Your online presence, including your Twitter profile, blog, and Discord activity, serves as your resume.
 - **Embracing the Culture:** Immerse yourself in the community to grasp the needs of projects and the language used within the space.
 
-The decentralized economy welcomes anyone willing to learn and contribute. By utilizing your existing skills and adopting a "proof of work" mindset, you can cultivate a rewarding career in this dynamic industry.
+The decentralized economy welcomes anyone willing to learn and contribute. By using your existing skills and adopting a "proof of work" mindset, you can cultivate a rewarding career in this dynamic industry.
 
 ## The Web3 Opportunity
 
@@ -127,7 +127,7 @@ The Web3 community is notably open and accessible:
 - Participate in local Web3 meetups.
 
 #### Step 5: Apply Strategically
-Target positions that utilize your current expertise alongside your new Web3 knowledge:
+Target positions that use your current expertise alongside your new Web3 knowledge:
 - Backend engineers should seek blockchain infrastructure roles.
 - Product managers should look for protocol product management opportunities.
 - Sales/business professionals should pursue Web3 business development roles.
@@ -138,7 +138,7 @@ Target positions that utilize your current expertise alongside your new Web3 kno
 Alex, a backend engineer with five years at a major tech company, spent three months learning Solidity while working. He contributed to an open-source protocol, attracted the attention of a major DeFi project, and secured a position with a significant salary increase along with equity.
 
 ### Product Manager in Web3
-Jessica, a product manager from traditional finance, utilized her knowledge of DeFi to transition to Web3. Her understanding of financial products combined with Web3 technology made her highly sought after. She landed a role at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, used her knowledge of DeFi to transition to Web3. Her understanding of financial products combined with Web3 technology made her highly sought after. She landed a role at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 Marcus transitioned from a corporate role to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he secured a position leading Developer Relations at a major blockchain platform, with compensation reflecting his new role.
@@ -177,4 +177,4 @@ A: Historically, bear markets have been opportune times to enter the Web3 field.
 - Existing domain expertise is advantageous in Web3. Focus on integrating blockchain-specific knowledge (wallets, smart contracts, tokenomics, DAOs) with your current skills.
 - Networking through Discord communities and engaging on Twitter, combined with showcasing portfolio projects on GitHub, consistently outperforms formal certifications for securing Web3 roles.
 - To mitigate the inherent volatility risk in the sector, seek well-funded, established protocols with proven revenue and negotiate base salaries in fiat currency.
-- The Web3 community is notably welcoming, with mentorship programs, free educational resources, and active developer communities across all major protocols, facilitating your successful entry into this innovative space.
+- The Web3 community is notably welcoming, with mentorship programs, free educational resources, and active developer communities across all major protocols, facilitating your successful entry into this new space.

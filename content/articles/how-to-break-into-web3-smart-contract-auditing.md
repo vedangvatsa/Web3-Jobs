@@ -84,7 +84,7 @@ Depending on your target role, focus on the following skills:
 
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries like ethers.js and web3.js.
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies within Web3.
-- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory landscape.
+- **Business Development:** Gain expertise in market analysis, partnership strategies, and the regulatory space.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio

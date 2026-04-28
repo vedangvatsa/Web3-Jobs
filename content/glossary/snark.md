@@ -99,17 +99,17 @@ SNARK development is a specialized skill requiring expertise.
 
 SNARKs create roles:
 
-**SNARK Circuit Designers** design efficient circuits.
+- **SNARK Circuit Designers** design efficient circuits.
 
-**Protocol Researchers** optimize SNARK schemes.
+- **Protocol Researchers** optimize SNARK schemes.
 
-**Proving System Engineers** build provers.
+- **Proving System Engineers** build provers.
 
-**Cryptography Experts** analyze SNARK security.
+- **Cryptography Experts** analyze SNARK security.
 
-**Performance Engineers** optimize proving speed.
+- **Performance Engineers** optimize proving speed.
 
-**Smart Contract Engineers** build verifiers.
+- **Smart Contract Engineers** build verifiers.
 
 ## Best Practices
 

@@ -22,7 +22,7 @@ This article will explore this perceived slowdown, analyzing the data, providing
 
 Metrics from platforms that track public [GitHub](/building-web3-portfolio) repositories often paint a stark picture. When compared to the hundreds of monthly active developers on Ethereum or Solana, Litecoin's developer count can appear worryingly low. The number of commits to its core repository is also less frequent than those of newer, more rapidly evolving projects.
 
-This data, viewed in isolation, has led many to conclude that Litecoin is a "ghost chain" or a project that has been abandoned by its developers. However, this interpretation misses the crucial context of Litecoin's design philosophy and its stage of maturity.
+This data, viewed in isolation, has led many to conclude that Litecoin is a "ghost chain" or a project that has been abandoned by its developers. However, this interpretation misses the important context of Litecoin's design philosophy and its stage of maturity.
 
 ### Context is Key: Stability as a Feature, Not a Bug
 

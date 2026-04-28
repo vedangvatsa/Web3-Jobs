@@ -18,7 +18,7 @@ The emergence of the **Web3 Digital Rights Specialist** role exemplifies a new c
 
 Traditional Digital Rights Management (DRM) systems often frustrate users due to their centralized nature. They rely on proprietary software to restrict how purchased content can be used, leading to poor user experiences and creating “walled gardens” that limit access.
 
-### Web3's Innovative Approach: Ownership as a Foundation
+### Web3's New Approach: Ownership as a Foundation
 
 Web3 takes a different approach by establishing a transparent and verifiable record of ownership and usage rights on public blockchains instead of imposing access restrictions through centralized servers.
 
@@ -94,7 +94,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Target roles that utilize your existing skills along with your new Web3 knowledge:
+Target roles that use your existing skills along with your new Web3 knowledge:
 
 - Backend engineers should seek blockchain infrastructure positions.
 - Product managers can explore protocol product roles.

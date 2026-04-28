@@ -95,15 +95,15 @@ Slashing has risks despite being critical.
 
 Validator operations create roles:
 
-**Validator Operators** running validators earn competitive salaries.
+- **Validator Operators** running validators earn competitive salaries.
 
-**Protocol Engineers** designing slashing mechanisms earn competitive salaries.
+- **Protocol Engineers** designing slashing mechanisms earn competitive salaries.
 
-**Client Developers** developing consensus clients earn competitive salaries.
+- **Client Developers** developing consensus clients earn competitive salaries.
 
-**Security Engineers** analyzing slashing vulnerabilities earn competitive salaries.
+- **Security Engineers** analyzing slashing vulnerabilities earn competitive salaries.
 
-**Risk Managers** managing slashing risks earn competitive salaries.
+- **Risk Managers** managing slashing risks earn competitive salaries.
 
 ## Best Practices
 

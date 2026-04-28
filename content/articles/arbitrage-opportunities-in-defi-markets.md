@@ -15,7 +15,7 @@ Arbitrage represents the practice of simultaneously buying and selling an asset 
 
 DeFi arbitrage is predominantly executed by advanced algorithms known as trading bots. These bots continuously monitor price fluctuations and can execute intricate trades instantaneously. Although arbitrage is a form of Maximal Extractable Value (MEV), it is categorized as a beneficial type of MEV. Such activity enhances overall market efficiency.
 
-This article clarifies DeFi arbitrage, its mechanics, the common types of arbitrage opportunities, and the tools utilized to carry out these strategies.
+This article clarifies DeFi arbitrage, its mechanics, the common types of arbitrage opportunities, and the tools used to carry out these strategies.
 
 ### Key Insights
 
@@ -104,7 +104,7 @@ These bots not only compete for speed but also for strategy, diligently searchin
 ### Frequently Asked Questions (FAQ)
 
 **Is arbitrage risk-free?**  
-When utilizing a flash loan, the capital risk is minimal, as the transaction reverts if it isn't profitable. Nevertheless, risks still exist, such as:
+When using a flash loan, the capital risk is minimal, as the transaction reverts if it isn't profitable. Nevertheless, risks still exist, such as:
 
 - **[Smart Contract](/what-are-smart-contracts) Risk**: Bugs in DEX contracts may lead to potential losses.
 - **Execution Risk**: Transactions may fail for various reasons, like inadequate gas, resulting in lost gas fees.
@@ -113,13 +113,13 @@ When utilizing a flash loan, the capital risk is minimal, as the transaction rev
 Yes, arbitrage opportunities also exist between centralized exchanges (for instance, comparing the price of [BTC](/what-is-bitcoin) on different platforms) and between a CEX and a DEX. However, this process is more intricate since it involves transferring funds between distinct platforms, leading to a lack of atomicity and increased risk.
 
 **How do arbitrage bots identify opportunities?**  
-They connect directly to a [blockchain](/what-is-a-blockchain) node (via an "RPC endpoint") to monitor mempool activity and new blocks in real-time. Utilizing complex algorithms, they simulate various trade paths, pinpointing profitable opportunities at speeds unattainable by humans.
+They connect directly to a [blockchain](/what-is-a-blockchain) node (via an "RPC endpoint") to monitor mempool activity and new blocks in real-time. Using complex algorithms, they simulate various trade paths, pinpointing profitable opportunities at speeds unattainable by humans.
 
 **As a user, is arbitrage beneficial or detrimental?**  
 Arbitrage is advantageous for users. The actions of arbitrage bots help ensure that when you engage in trading on a DEX, the prices reflect fair market conditions, consistent with broader market trends. Without arbitrage, prices would fluctuate significantly across exchanges.
 
 ### Conclusion
 
-Understanding arbitrage opportunities in DeFi markets is essential for anyone involved in cryptocurrency trading. The mechanics of arbitrage, from two-pool to triangular strategies, provide a complete framework for capitalizing on price discrepancies. Tools like flash loans enable traders to execute these strategies effectively, even in a competitive landscape dominated by sophisticated bots.
+Understanding arbitrage opportunities in DeFi markets is essential for anyone involved in cryptocurrency trading. The mechanics of arbitrage, from two-pool to triangular strategies, provide a complete framework for capitalizing on price discrepancies. Tools like flash loans enable traders to execute these strategies effectively, even in a competitive space dominated by sophisticated bots.
 
-The interplay between arbitrage and market efficiency illustrates the importance of this trading strategy. As the DeFi ecosystem evolves, the role of arbitrage will remain crucial in ensuring fair and consistent pricing across the diverse range of exchanges.
+The interplay between arbitrage and market efficiency illustrates the importance of this trading strategy. As the DeFi ecosystem evolves, the role of arbitrage will remain important in ensuring fair and consistent pricing across the diverse range of exchanges.
