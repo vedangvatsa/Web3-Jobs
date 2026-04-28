@@ -129,7 +129,3 @@ The system balances itself purely through economic incentives coded into smart c
 - If your collateral value drops too low, it is automatically **liquidated**.
 - Interest rates are driven by an algorithm based on pool utilization.
 - Lenders earn interest, and borrowers get liquidity without selling their assets.
-
-## Next steps
-
-1. **Yield Farming** — how to maximize returns across DeFi protocols

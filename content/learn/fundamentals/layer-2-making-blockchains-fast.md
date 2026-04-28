@@ -129,8 +129,3 @@ These are approximate ranges and vary with network congestion. The key point: L2
 - **ZK rollups** (zkSync, StarkNet) prove validity with math — no challenge period needed.
 - L2s reduce costs by 10-100x while inheriting Ethereum's security.
 - To use an L2, you bridge your assets from Ethereum using a smart contract.
-
-## Next steps
-
-1. **NFTs: Digital Ownership** — how non-fungible tokens represent unique assets
-2. **DAOs: Internet Organizations** — how governance works on-chain

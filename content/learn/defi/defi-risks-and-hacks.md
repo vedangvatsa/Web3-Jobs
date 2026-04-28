@@ -122,7 +122,3 @@ If you are going to deposit funds into DeFi, follow this checklist:
 - Flash loans weaponize market manipulation, allowing hackers with zero capital to execute massive attacks.
 - Time on the market (Lindy effect) and high TVL are the strongest indicators of battle-tested code.
 - Always assume new protocols are extremely high risk.
-
-## Next steps
-
-1. **Smart Contract Development** — dive into the code and learn how to build (and break) these protocols yourself.

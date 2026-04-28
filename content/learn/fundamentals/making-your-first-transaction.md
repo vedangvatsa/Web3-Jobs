@@ -164,8 +164,3 @@ No bank processed this. No company approved it. Math and code did the work.
 - Every transaction requires **gas** (paid in ETH) to process
 - **Block explorers** (Etherscan) let anyone view any transaction on the blockchain
 - Always send a **small test transaction** before sending large amounts
-
-## Next steps
-
-1. **What Are Tokens?** — understand the different types of tokens on Ethereum
-2. **Stablecoins** — digital dollars that keep their value

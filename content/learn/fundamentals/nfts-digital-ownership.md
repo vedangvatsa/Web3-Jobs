@@ -109,8 +109,3 @@ ERC-721 creates one token per item. ERC-1155 allows a single contract to manage 
 - ERC-721 is the standard for unique tokens; ERC-1155 supports both unique and identical tokens.
 - Images and metadata are usually stored off-chain (IPFS), not on the blockchain itself.
 - Real use cases extend beyond art: tickets, domains, game items, memberships.
-
-## Next steps
-
-1. **DAOs: Internet Organizations** — how groups govern on-chain
-2. **DeFi: Banking Without Banks** — the financial system built on smart contracts

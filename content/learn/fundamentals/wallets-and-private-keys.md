@@ -185,8 +185,3 @@ From these 12 words, your wallet can generate your private key, your public addr
 - A seed phrase is 12 or 24 words that can restore your entire wallet. Guard it like cash.
 - Hot wallets (MetaMask, Phantom) are for daily use. Cold wallets (Ledger, Trezor) are for savings.
 - If you lose your seed phrase and your device, your crypto is gone. There is no password reset.
-
-## Next steps
-
-1. **Making Your First Transaction** — set up MetaMask and send a test transaction
-2. **What Are Tokens?** — understand ERC-20, governance tokens, and stablecoins

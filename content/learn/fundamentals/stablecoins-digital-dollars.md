@@ -142,8 +142,3 @@ Stablecoins are the most widely used tokens in crypto. They handle more transact
 - **Crypto-backed** (DAI) are decentralized but complex, requiring over-collateralization.
 - **Algorithmic** stablecoins have a poor track record — UST's $40B collapse is a cautionary tale.
 - Stablecoins are critical infrastructure for DeFi, payments, and cross-border transfers.
-
-## Next steps
-
-1. **Smart Contracts Explained** — how the code behind DeFi works
-2. **Gas Fees** — why every transaction costs money

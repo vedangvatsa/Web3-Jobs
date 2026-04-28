@@ -127,7 +127,3 @@ If you want to transfer exactly 1 token, you must pass the number `1000000000000
 - `require` statements protect against invalid actions (like spending more than you have).
 - Events are emitted so off-chain apps know when things happen.
 - Solidity has no decimals. It uses massive integers, and the frontend handles the visual formatting.
-
-## Next steps
-
-1. **Smart Contract Security 101** — common vulnerabilities and how to prevent them

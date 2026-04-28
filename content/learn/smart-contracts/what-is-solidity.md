@@ -112,7 +112,3 @@ If you want to become a smart contract engineer, Solidity is the mandatory start
 - Code is compiled into bytecode (deployed to the blockchain) and an ABI (used by frontends to interact with the contract).
 - Contracts are immutable once deployed.
 - It is the most dominant language in the Web3 developer ecosystem.
-
-## Next steps
-
-1. **Your First Smart Contract** — writing and understanding a basic Solidity contract
