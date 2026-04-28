@@ -68,6 +68,39 @@ How many tokens will ever exist? Common approaches:
 
 Who gets the tokens?
 
+<div class="diagram">
+<svg viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <text x="400" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">Typical Token Allocation</text>
+
+  <!-- Community -->
+  <rect x="40" y="45" width="300" height="35" rx="6" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="190" y="67" text-anchor="middle" font-size="11" font-weight="bold" fill="#166534">Community / Ecosystem — 40%</text>
+
+  <!-- Team -->
+  <rect x="40" y="85" width="150" height="35" rx="6" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="115" y="107" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e40af">Team — 20%</text>
+  <text x="200" y="107" font-size="9" fill="#64748b">🔒 vested</text>
+
+  <!-- Investors -->
+  <rect x="40" y="125" width="112" height="35" rx="6" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+  <text x="96" y="147" text-anchor="middle" font-size="11" font-weight="bold" fill="#854d0e">Investors — 15%</text>
+  <text x="160" y="147" font-size="9" fill="#64748b">🔒 vested</text>
+
+  <!-- Treasury + Liquidity -->
+  <rect x="420" y="45" width="110" height="35" rx="6" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="475" y="67" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Treasury — 15%</text>
+
+  <rect x="420" y="85" width="75" height="35" rx="6" fill="#fff7ed" stroke="#f97316" stroke-width="1.5"/>
+  <text x="457" y="107" text-anchor="middle" font-size="11" font-weight="bold" fill="#c2410c">Liquidity — 10%</text>
+
+  <!-- Legend -->
+  <rect x="420" y="135" width="8" height="8" rx="2" fill="#dcfce7" stroke="#22c55e" stroke-width="1"/>
+  <text x="435" y="143" font-size="10" fill="#64748b">Unlocked at TGE</text>
+  <rect x="540" y="135" width="8" height="8" rx="2" fill="#dbeafe" stroke="#3b82f6" stroke-width="1"/>
+  <text x="555" y="143" font-size="10" fill="#64748b">Locked + vesting</text>
+</svg>
+</div>
+
 | Recipient | Typical Range | Purpose |
 |---|---|---|
 | Community/Ecosystem | 30-50% | Airdrops, grants, incentive programs |

@@ -54,6 +54,52 @@ On June 17, 2016, an attacker exploited a reentrancy vulnerability in The DAO �
 
 Nine years later, reentrancy remains one of the most common smart contract vulnerabilities. Understanding it deeply is non-negotiable for any auditor.
 
+<div class="diagram">
+<svg viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <text x="400" y="22" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">Reentrancy Attack Flow</text>
+
+  <!-- Attacker -->
+  <rect x="30" y="40" width="140" height="160" rx="10" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="100" y="65" text-anchor="middle" font-size="12" font-weight="bold" fill="#991b1b">Attacker</text>
+  <text x="100" y="85" text-anchor="middle" font-size="10" fill="#ef4444">1. withdraw()</text>
+  <text x="100" y="130" text-anchor="middle" font-size="10" fill="#ef4444">4. receive() fires</text>
+  <text x="100" y="150" text-anchor="middle" font-size="10" fill="#ef4444">5. withdraw() again!</text>
+  <text x="100" y="185" text-anchor="middle" font-size="9" fill="#991b1b">↻ loop until drained</text>
+
+  <!-- Arrows -->
+  <line x1="170" y1="82" x2="260" y2="82" stroke="#ef4444" stroke-width="1.5" marker-end="url(#arrR)"/>
+  <line x1="260" y1="115" x2="170" y2="115" stroke="#22c55e" stroke-width="1.5" marker-end="url(#arrGn)"/>
+  <text x="215" y="106" text-anchor="middle" font-size="9" fill="#22c55e">3. send ETH</text>
+  <line x1="170" y1="148" x2="260" y2="148" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="4" marker-end="url(#arrR)"/>
+
+  <!-- Vault -->
+  <rect x="270" y="40" width="200" height="160" rx="10" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="370" y="65" text-anchor="middle" font-size="12" font-weight="bold" fill="#166534">Vulnerable Vault</text>
+  <text x="370" y="88" text-anchor="middle" font-size="10" fill="#166534">2. check balance ✓</text>
+  <rect x="290" y="100" width="160" height="30" rx="5" fill="#dcfce7"/>
+  <text x="370" y="120" text-anchor="middle" font-size="10" fill="#166534">send ETH to caller</text>
+  <rect x="290" y="140" width="160" height="30" rx="5" fill="#fee2e2"/>
+  <text x="370" y="157" text-anchor="middle" font-size="10" fill="#991b1b">balance = 0</text>
+  <text x="370" y="188" text-anchor="middle" font-size="9" fill="#dc2626">↑ runs TOO LATE</text>
+
+  <!-- Fix -->
+  <rect x="520" y="40" width="260" height="160" rx="10" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="650" y="65" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e40af">Fix: CEI Pattern</text>
+  <rect x="540" y="80" width="220" height="25" rx="5" fill="#dbeafe"/>
+  <text x="650" y="97" text-anchor="middle" font-size="10" fill="#1e40af">1. Check: require(bal > 0)</text>
+  <rect x="540" y="112" width="220" height="25" rx="5" fill="#dcfce7"/>
+  <text x="650" y="129" text-anchor="middle" font-size="10" fill="#166534">2. Effect: balance = 0 ← FIRST</text>
+  <rect x="540" y="144" width="220" height="25" rx="5" fill="#fefce8"/>
+  <text x="650" y="161" text-anchor="middle" font-size="10" fill="#854d0e">3. Interact: send ETH</text>
+  <text x="650" y="188" text-anchor="middle" font-size="9" fill="#3b82f6">Reentry sees balance = 0, reverts ✓</text>
+
+  <defs>
+    <marker id="arrR" markerWidth="6" markerHeight="6" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#ef4444"/></marker>
+    <marker id="arrGn" markerWidth="6" markerHeight="6" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#22c55e"/></marker>
+  </defs>
+</svg>
+</div>
+
 ## How Reentrancy Works
 
 The vulnerability exploits the order in which a contract performs operations.

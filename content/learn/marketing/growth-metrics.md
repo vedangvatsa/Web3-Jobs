@@ -54,6 +54,40 @@ In Web2, you measure success with signups, monthly active users, and revenue. In
 
 You cannot track emails. You cannot track logins. You track wallet addresses and smart contract interactions.
 
+<div class="diagram">
+<svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <rect x="20" y="25" width="145" height="110" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+  <text x="92" y="55" text-anchor="middle" font-size="22">💰</text>
+  <text x="92" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#166534">TVL</text>
+  <text x="92" y="95" text-anchor="middle" font-size="10" fill="#22c55e">Capital locked</text>
+  <text x="92" y="110" text-anchor="middle" font-size="9" fill="#64748b">DeFiLlama</text>
+
+  <rect x="185" y="25" width="145" height="110" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="257" y="55" text-anchor="middle" font-size="22">👛</text>
+  <text x="257" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e40af">UAW</text>
+  <text x="257" y="95" text-anchor="middle" font-size="10" fill="#3b82f6">Active wallets</text>
+  <text x="257" y="110" text-anchor="middle" font-size="9" fill="#64748b">Dune Analytics</text>
+
+  <rect x="350" y="25" width="145" height="110" rx="10" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+  <text x="422" y="55" text-anchor="middle" font-size="22">📊</text>
+  <text x="422" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#854d0e">Revenue</text>
+  <text x="422" y="95" text-anchor="middle" font-size="10" fill="#eab308">Real fees paid</text>
+  <text x="422" y="110" text-anchor="middle" font-size="9" fill="#64748b">Token Terminal</text>
+
+  <rect x="515" y="25" width="145" height="110" rx="10" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="587" y="55" text-anchor="middle" font-size="22">🔄</text>
+  <text x="587" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#7c3aed">Retention</text>
+  <text x="587" y="95" text-anchor="middle" font-size="10" fill="#a855f7">Returning users</text>
+  <text x="587" y="110" text-anchor="middle" font-size="9" fill="#64748b">Cohort analysis</text>
+
+  <rect x="680" y="25" width="105" height="110" rx="10" fill="#fff7ed" stroke="#f97316" stroke-width="1.5"/>
+  <text x="732" y="55" text-anchor="middle" font-size="22">🏛️</text>
+  <text x="732" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#c2410c">Distribution</text>
+  <text x="732" y="95" text-anchor="middle" font-size="10" fill="#f97316">Token holders</text>
+  <text x="732" y="110" text-anchor="middle" font-size="9" fill="#64748b">Nansen</text>
+</svg>
+</div>
+
 ## The Core Metrics
 
 ### 1. Total Value Locked (TVL)
