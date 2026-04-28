@@ -6,7 +6,7 @@ description: "Navigating crypto taxes can be confusing. This guide breaks down t
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 *Disclaimer: This guide is for informational purposes only and is not financial or tax advice. Consult with a qualified tax professional for advice specific to your situation.*

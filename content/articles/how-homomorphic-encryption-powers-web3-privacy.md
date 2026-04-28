@@ -7,7 +7,7 @@ description: "A deep dive into Homomorphic Encryption (HE), a a significant cryp
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 In the field of [Web3](/what-is-web3), a challenge exists between the need for transparency and the requirement for privacy. Public blockchains, such as [Ethereum](/what-is-ethereum), provide a high degree of transparency, allowing all data and transactions to be accessible. This enhances auditability but raises concerns about privacy, especially for applications dealing with sensitive information, such as medical records or confidential financial transactions.

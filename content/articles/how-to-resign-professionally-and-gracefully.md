@@ -7,7 +7,7 @@ data-ai-hint: "person leaving"
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 Deciding to leave your job marks a significant moment in your career. After making this decision, resigning professionally and gracefully becomes paramount. Your exit is as critical as your entrance into the company. A well-managed departure helps maintain positive relationships, protects your reputation, and ensures you receive favorable references in the future.

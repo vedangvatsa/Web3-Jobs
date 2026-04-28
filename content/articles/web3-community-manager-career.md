@@ -7,7 +7,7 @@ description: "A deep dive into the most important non-technical role in Web3. Le
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 In the decentralized field of [Web3](/what-is-web3), community plays a central role in shaping projects and their success. The Community Manager, or "CM," serves as the cornerstone in this ecosystem, transcending traditional social media management. This position demands a unique combination of empathy, communication skills, and in-depth knowledge of protocols to thrive.

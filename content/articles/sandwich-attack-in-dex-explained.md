@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/sandwich/1200/630"
 data-ai-hint: "sandwich attack"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 ## Understanding Sandwich Attacks in Decentralized Finance (DeFi)

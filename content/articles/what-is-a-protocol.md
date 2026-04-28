@@ -7,7 +7,7 @@ description: "A simple explanation of what a 'protocol' means in the context of 
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 In the [Web3](/what-is-web3) sector, the term **"protocol"** frequently appears. Common references include "lending protocols," "liquid [staking](/how-to-become-a-web3-staking-specialist) protocols," and "[decentralized exchange](/what-is-a-decentralized-exchange-dex) protocols." Understanding what a protocol entails is essential.

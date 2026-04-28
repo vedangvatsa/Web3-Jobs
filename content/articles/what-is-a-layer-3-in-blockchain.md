@@ -7,7 +7,7 @@ category: "Educational"
 data-ai-hint: "layer network"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 The blockchain ecosystem is akin to a growing city, with various layers representing different components of infrastructure. At the foundation, Layer 1 (L1) serves as the core network, exemplified by Ethereum. This layer ensures security and decentralization but often faces congestion and high transaction costs, similar to main city roads during peak hours.

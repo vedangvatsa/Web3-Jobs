@@ -39,7 +39,7 @@ export default function NewsPage() {
  React.useEffect(() => {
   async function fetchNews() {
    try {
-    const response = await fetch('/api/news', { cache: 'no-store' });
+    const response = await fetch('/api/news');
     if (!response.ok) {
      throw new Error('Failed to fetch news');
     }

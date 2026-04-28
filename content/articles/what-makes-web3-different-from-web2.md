@@ -7,7 +7,7 @@ description: "A deep dive into the fundamental differences between Web2 and Web3
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 The internet has progressed through distinct phases, each marked by unique architectural and philosophical foundations. The movement from Web1, characterized by static, read-only content, to Web2, which introduced interactivity and social engagement, was significant. However, the transition to [Web3](/what-is-web3) signifies a more profound transformation. This shift is not merely an update; it represents a fundamental reconfiguration of the internet’s power dynamics.
