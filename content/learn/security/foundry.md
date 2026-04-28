@@ -4,7 +4,7 @@ description: "The professional toolkit for testing and auditing smart contracts.
 order: 3
 readTime: "8 min"
 difficulty: "advanced"
-prerequisites: ["advanced-solidity-exploits"]
+prerequisites: ["exploits"]
 quiz:
   - question: "What is Foundry?"
     options:

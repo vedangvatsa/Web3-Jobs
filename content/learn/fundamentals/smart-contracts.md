@@ -4,7 +4,7 @@ description: "What smart contracts are, how they work, and real examples you can
 order: 9
 readTime: "10 min"
 difficulty: "beginner"
-prerequisites: ["stablecoins-digital-dollars"]
+prerequisites: ["stablecoins"]
 quiz:
   - question: "What is a smart contract?"
     options:

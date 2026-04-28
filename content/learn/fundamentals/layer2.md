@@ -4,7 +4,7 @@ description: "How rollups and L2 networks solve Ethereum's speed and cost proble
 order: 11
 readTime: "9 min"
 difficulty: "beginner"
-prerequisites: ["gas-fees"]
+prerequisites: ["gas"]
 quiz:
   - question: "Why does Ethereum need Layer 2 networks?"
     options:

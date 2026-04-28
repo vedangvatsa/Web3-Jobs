@@ -4,7 +4,7 @@ description: "How smart contracts enable loans without credit checks."
 order: 2
 readTime: "7 min"
 difficulty: "intermediate"
-prerequisites: ["how-dexs-work"]
+prerequisites: ["dexs"]
 quiz:
   - question: "How does DeFi solve the problem of not having credit scores?"
     options:
