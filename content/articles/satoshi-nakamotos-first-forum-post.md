@@ -7,7 +7,7 @@ category: "Industry Insights"
 data-ai-hint: "satoshi nakamoto"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 ## A Humble Beginning on the P2P Foundation Forum

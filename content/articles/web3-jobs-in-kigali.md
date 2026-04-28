@@ -7,7 +7,7 @@ description: "A guide to the Web3 job market in Kigali. Explore how Rwanda's cap
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 Kigali, Rwanda's capital, is emerging as a significant center for technology and innovation in Africa. The local government focuses on technological advancement, education, and creating a favorable business environment. This proactive approach attracts tech startups and international companies, positioning Kigali as a key player in the [Web3](/what-is-web3) domain. The city is becoming a vital location for [blockchain](/what-is-a-blockchain) development and entrepreneurship across the continent.

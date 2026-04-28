@@ -7,7 +7,7 @@ description: "A beginner's guide to dApps (decentralized applications). Learn wh
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 The internet we use daily relies on centralized applications. For instance, when you interact with Facebook, you engage with an app that operates on servers controlled by Meta. In contrast, a decentralized application, or dApp, functions on a peer-to-peer network of computers, predominantly using a public blockchain like [Ethereum](/what-is-ethereum). 

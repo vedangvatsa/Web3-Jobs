@@ -3,6 +3,7 @@ import { getAllArticles } from '@/lib/articles';
 import { getAllTerms, getAllCategorySlugs } from '@/lib/glossary';
 import { getCompanies } from '@/lib/companies';
 import { getAllResourcePages } from '@/lib/pseo/resources';
+import { getCategories, getLessons } from '@/lib/learn';
 
 const siteUrl = 'https://hashtagweb3.com';
 
@@ -48,6 +49,12 @@ const staticRoutes: MetadataRoute.Sitemap = [
   lastModified: new Date(),
   changeFrequency: 'monthly',
   priority: 0.5,
+ },
+ {
+  url: `${siteUrl}/learn`,
+  lastModified: CONTENT_FALLBACK_DATE,
+  changeFrequency: 'weekly',
+  priority: 0.9,
  },
  {
   url: `${siteUrl}/news`,
@@ -168,12 +175,13 @@ const staticRoutes: MetadataRoute.Sitemap = [
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
- const [articles, companies, glossaryTerms, categorySlugs, resourcePages] = await Promise.all([
+ const [articles, companies, glossaryTerms, categorySlugs, resourcePages, learnCategories] = await Promise.all([
   getAllArticles(),
   getCompanies(),
   getAllTerms(),
   getAllCategorySlugs(),
   getAllResourcePages(),
+  getCategories(),
  ]);
 
  // Articles live at /<slug> (root level, shared [slug] route with glossary terms).
@@ -221,6 +229,28 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   priority: 0.7,
  }));
 
+ // Learn Category pages live at /learn/<category-slug>.
+ const learnCategoryRoutes: MetadataRoute.Sitemap = learnCategories.map((category) => ({
+  url: `${siteUrl}/learn/${category.slug}`,
+  lastModified: CONTENT_FALLBACK_DATE,
+  changeFrequency: 'monthly' as const,
+  priority: 0.8,
+ }));
+
+ // Learn Lesson pages live at /learn/<category-slug>/<lesson-slug>.
+ const learnLessonRoutes: MetadataRoute.Sitemap = [];
+ for (const category of learnCategories) {
+  const lessons = getLessons(category.slug);
+  for (const lesson of lessons) {
+   learnLessonRoutes.push({
+    url: `${siteUrl}/learn/${category.slug}/${lesson.slug}`,
+    lastModified: CONTENT_FALLBACK_DATE,
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+   });
+  }
+ }
+
  return [
   ...staticRoutes,
   ...glossaryCategoryRoutes,
@@ -228,5 +258,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   ...articleRoutes,
   ...companyRoutes,
   ...resourceRoutes,
+  ...learnCategoryRoutes,
+  ...learnLessonRoutes,
  ];
 }

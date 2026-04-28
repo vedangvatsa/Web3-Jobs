@@ -7,7 +7,7 @@ description: "Go beyond static JPEGs. This guide explores the world of Dynamic N
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 The first generation of NFTs primarily consisted of static assets, such as JPEG files and video clips. Once minted, these NFTs had unchangeable metadata on the [blockchain](/what-is-a-blockchain). The evolution of NFTs introduces the **Dynamic [NFT](/what-are-nfts)**, or dNFT, which allows for changing metadata over time.

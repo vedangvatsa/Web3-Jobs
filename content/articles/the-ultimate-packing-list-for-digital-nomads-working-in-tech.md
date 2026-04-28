@@ -7,7 +7,7 @@ category: "Career Guides"
 data-ai-hint: "travel packing"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 [Web3](/what-is-web3) and [remote work](/remote-work-in-web3) have made [digital nomad](/crypto-guide-for-digital-nomads) careers viable. Many tech professionals and Web3 workers travel while working. Working from Southeast Asia, Europe, or Latin America while employed at US or European companies is increasingly common.

@@ -2,7 +2,7 @@
 import { getNewsFeed } from '@/lib/news';
 import { NextResponse } from 'next/server';
 
-export const revalidate = 0; // Revalidate on every request
+export const revalidate = 300; // Cache the response on the CDN for 5 minutes (ISR)
 
 export async function GET() {
  try {

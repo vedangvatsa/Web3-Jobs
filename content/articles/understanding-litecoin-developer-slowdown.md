@@ -7,7 +7,7 @@ category: "Industry Insights"
 data-ai-hint: "crypto chart graph"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 ## Analyzing the Slowdown in Litecoin's Developer Activity

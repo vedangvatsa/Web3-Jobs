@@ -7,7 +7,7 @@ description: "Slashing is the penalty mechanism in Proof-of-Stake blockchains th
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-27"
+lastUpdated: "2026-04-28"
 ---
 
 In Proof-of-Work blockchains, security relies on the high energy and hardware costs associated with mining. In contrast, Proof-of-Stake (PoS) systems prioritize economic incentives as the foundation of their security. Validators, who create blocks and maintain the network, must lock up a significant amount of the network's native currency as a security deposit, known as a "stake." This stake serves as a bond, ensuring that validators have a vested interest in the network's integrity. Validators earn rewards for honest behavior, but they also face financial penalties for dishonest actions. This penalty mechanism is referred to as **slashing.**

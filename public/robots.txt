@@ -23,14 +23,14 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-# Block training crawlers — allow search/citation crawlers only
+# Allow all training crawlers to maximize GenAI visibility
 User-agent: CCBot
-Disallow: /
+Allow: /
 
 User-agent: anthropic-ai
-Disallow: /
+Allow: /
 
 User-agent: cohere-ai
-Disallow: /
+Allow: /
 
 Sitemap: https://hashtagweb3.com/sitemap.xml
