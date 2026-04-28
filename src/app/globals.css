@@ -79,29 +79,103 @@ body {
   }
 }
 
-/* Enhanced table styling for markdown content */
+/* Premium editorial styling for markdown content */
 @layer components {
+  /* Tables: clean card-style matching tech-talent report */
+  .article-prose table,
   .prose table {
-    @apply w-full border-collapse my-6;
+    @apply w-full my-8 text-sm overflow-hidden;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid hsl(var(--border));
+    border-radius: 0.75rem;
   }
   
+  .article-prose thead,
   .prose thead {
-    @apply border-b-2 border-border;
+    background-color: hsl(var(--muted) / 0.5);
   }
   
+  .article-prose th,
   .prose th {
-    @apply px-4 py-3 text-left font-semibold bg-muted/50;
+    @apply px-5 py-3.5 text-left text-xs font-semibold uppercase tracking-widest;
+    color: hsl(var(--muted-foreground));
+    border-bottom: 1px solid hsl(var(--border));
   }
   
+  .article-prose td,
   .prose td {
-    @apply px-4 py-3 border-t border-border;
+    @apply px-5 py-3.5 text-sm;
+    color: hsl(var(--foreground) / 0.8);
+    border-bottom: 1px solid hsl(var(--border) / 0.5);
   }
   
+  .article-prose tbody tr:last-child td,
+  .prose tbody tr:last-child td {
+    border-bottom: none;
+  }
+  
+  .article-prose tbody tr,
   .prose tbody tr {
-    @apply transition-colors hover:bg-muted/30;
+    @apply transition-colors duration-150;
   }
-  
-  .prose tbody tr:nth-child(even) {
-    @apply bg-muted/10;
+
+  .article-prose tbody tr:hover,
+  .prose tbody tr:hover {
+    background-color: hsl(var(--muted) / 0.3);
+  }
+
+  /* Serif font for article headings */
+  .article-prose h2,
+  .article-prose h3,
+  .article-prose h4 {
+    font-family: 'Georgia', 'Times New Roman', serif;
+  }
+
+  /* Blockquote: elegant editorial callout */
+  .article-prose blockquote {
+    border-left: 2px solid hsl(var(--foreground));
+    padding-left: 1.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin: 2.5rem 0;
+    font-style: normal;
+  }
+
+  .article-prose blockquote p {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.125rem !important;
+    line-height: 1.7 !important;
+    color: hsl(var(--foreground) / 0.9) !important;
+  }
+
+  /* Links with subtle underline */
+  .article-prose a {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-color: hsl(var(--border));
+    transition: text-decoration-color 0.2s ease;
+  }
+
+  .article-prose a:hover {
+    text-decoration-color: hsl(var(--primary));
+  }
+
+  /* Lists: tighter, cleaner */
+  .article-prose ul,
+  .article-prose ol {
+    padding-left: 1.25rem;
+  }
+
+  .article-prose li::marker {
+    color: hsl(var(--muted-foreground));
+  }
+
+  /* Horizontal rule */
+  .article-prose hr {
+    border: none;
+    border-top: 1px solid hsl(var(--border));
+    margin: 3rem 0;
   }
 }
+

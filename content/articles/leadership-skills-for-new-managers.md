@@ -25,11 +25,11 @@ Transitioning from an individual contributor to a manager represents a significa
 
    After asking, pause to genuinely absorb their responses. This practice builds trust and reveals underlying issues. When you do share your thoughts, ensure your messages are concise and directly aligned with team objectives and the company’s mission.
 
-   | Communication Techniques | Description |
-   |--------------------------|-------------|
-   | Open-Ended Questions     | Encourage dialogue and gather insights. |
-   | Active Listening         | Show empathy and validate team members’ concerns. |
-   | Clear Messaging          | Align your communication with goals for clarity. |
+| Communication Techniques | Description |
+|--------------------------|-------------|
+| Open-Ended Questions     | Encourage dialogue and gather insights. |
+| Active Listening         | Show empathy and validate team members’ concerns. |
+| Clear Messaging          | Align your communication with goals for clarity. |
 
    For more on refining your public speaking and presentation skills, refer to **[How to Build Executive Presence at Work](how-to-build-executive-presence-at-work)**.
 

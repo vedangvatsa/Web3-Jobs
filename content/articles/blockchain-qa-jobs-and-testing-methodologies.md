@@ -117,13 +117,13 @@ Target roles that utilize your existing expertise alongside new Web3 knowledge:
 
 ## Real-World Success Stories
 
-### Transition from Developer to Smart Contract Engineer  
+### Transition from Developer to Smart Contract Engineer
 Alex, a backend engineer with five years at a major tech company, dedicated time to learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a major DeFi project, leading to a transition with a significant salary increase and substantial equity.
 
-### Product Manager Moving to Web3  
+### Product Manager Moving to Web3
 Jessica, a product manager from traditional finance, used her financial domain expertise in DeFi. Her knowledge of financial products combined with Web3 technologies made her invaluable. She secured a role at a leading DeFi protocol within weeks.
 
-### Career Changer's Journey  
+### Career Changer's Journey
 Marcus left his corporate position to focus entirely on Web3 for several months. Through consistent learning, networking, and portfolio building, he secured a Developer Relations lead role at a major blockchain platform, with compensation significantly exceeding his previous salary.
 
 ## Web3-Specific Challenges

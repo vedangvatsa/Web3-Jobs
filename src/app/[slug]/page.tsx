@@ -462,25 +462,25 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       )}
       <Header />
       <main className="flex-1">
-        <div className="bg-background">
-            <article className="container mx-auto px-4 py-8">
-              <div className="max-w-5xl mx-auto p-4 sm:p-8">
+        <div className="bg-[#fafafa] dark:bg-black transition-colors duration-200">
+            <article className="w-full max-w-4xl mx-auto px-6 py-16 md:py-24">
+              <div>
                  <Suspense fallback={<div>Loading...</div>}>
-                    <header className="mb-8">
-                      <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-primary mb-4">
-                        {article.title}
-                      </h1>
-                      <p className="text-lg text-muted-foreground">
-                        {article.description}
-                      </p>
+                    <header className="mb-12">
                       {(article.lastUpdated || article.publishedDate) && (
-                        <p className="text-sm text-muted-foreground mt-2">
-                          Last updated:{' '}
+                        <p className="text-[11px] font-semibold text-zinc-400 uppercase tracking-[0.2em] mb-6">
+                          Hashtag Web3 / Updated{' '}
                           <time dateTime={article.lastUpdated || article.publishedDate}>
                             {new Date(article.lastUpdated || article.publishedDate!).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
                           </time>
                         </p>
                       )}
+                      <h1 className="text-3xl sm:text-4xl md:text-[2.8rem] font-serif font-bold tracking-tight text-zinc-900 dark:text-zinc-50 leading-[1.15] mb-6">
+                        {article.title}
+                      </h1>
+                      <p className="text-[17px] text-zinc-500 dark:text-zinc-400 leading-[1.8] max-w-3xl">
+                        {article.description}
+                      </p>
                     </header>
                     
                     {article.image && (
