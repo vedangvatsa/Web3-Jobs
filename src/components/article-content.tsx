@@ -6,8 +6,8 @@ export function ArticleContent({ content, className }: { content: string; classN
       className={cn(
         "article-prose",
         "prose prose-lg dark:prose-invert max-w-none",
-        // Headings: serif font, tight tracking, strong weight
-        "prose-headings:font-serif prose-headings:tracking-tight prose-headings:text-zinc-900 dark:prose-headings:text-zinc-50",
+        // Headings: sans font, tight tracking, strong weight
+        "prose-headings:font-headline prose-headings:tracking-tight prose-headings:text-zinc-900 dark:prose-headings:text-zinc-50",
         "prose-h2:text-2xl prose-h2:sm:text-3xl prose-h2:font-bold prose-h2:mt-16 prose-h2:mb-5",
         "prose-h3:text-xl prose-h3:sm:text-2xl prose-h3:font-bold prose-h3:mt-12 prose-h3:mb-4",
         "prose-h4:text-lg prose-h4:font-bold prose-h4:mt-8 prose-h4:mb-3",

@@ -123,20 +123,6 @@ Target positions that align with your existing skills and new Web3 knowledge:
 - If you are a PM, pursue protocol product management positions.
 - For sales or business roles, look for opportunities in Web3 business development.
 
-## Real-World Success Stories
-
-### Developer to Smart Contract Engineer
-
-Alex, a backend engineer with five years of experience at a leading tech company, learned Solidity over three months while maintaining his job. His contributions to an open-source project caught the attention of a prominent DeFi protocol, leading to a transition that included a salary increase and valuable equity.
-
-### Product Manager in Web3
-
-Jessica, a product manager from traditional finance, effectively used her knowledge of financial products within the context of Web3. She secured a role at a top DeFi protocol within a short timeframe due to her relevant experience and understanding of the technology.
-
-### Career Changer Success
-
-Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a leadership position in Developer Relations at a major blockchain platform, with compensation significantly exceeding his previous earnings.
-
 ## Challenges in the Web3 Environment
 
 ### Volatility Risk
