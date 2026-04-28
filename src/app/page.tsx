@@ -5,7 +5,7 @@ import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
 import { Rss } from 'lucide-react';
-import { TransitioningHeadline } from '@/components/transitioning-headline';
+
 import { FirebaseClientProvider } from '@/firebase/client-provider';
 import { SITE_STATS } from '@/lib/constants';
 import type { WebPage, JobPosting } from 'schema-dts';
@@ -15,13 +15,7 @@ export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 export default async function JobsPage() {
   const allJobs = await getJobs();
   const initialJobs = allJobs; // Pass all jobs; JobBoard handles pagination client-side
-  const headlines = [
-      "Find Your Next Web3 Job",
-      "Discover Top Crypto Roles",
-      "Work in Blockchain",
-      "Explore DeFi Careers",
-      "Join a DAO Today"
-  ];
+
   
   const siteUrl = 'https://hashtagweb3.com';
   const pageSchema: WebPage = {
@@ -72,8 +66,7 @@ export default async function JobsPage() {
           <div className="container mx-auto py-8 px-4">
               <section className="text-center mb-8">
                   <div className="max-w-6xl mx-auto">
-                      <h1 className="sr-only">Web3 Jobs - Find Your Next Crypto Career</h1>
-                      <TransitioningHeadline phrases={headlines} />
+                      <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-foreground">Find Your Next Web3 Job</h1>
                   </div>
               </section>
               <article className="max-w-6xl mx-auto">
