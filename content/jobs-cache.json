@@ -1,5 +1,213 @@
 [
   {
+    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/76455405-staff-it-engineer#content",
+    "title": "Staff IT Engineer",
+    "company": "Ashby",
+    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/76455405-staff-it-engineer#content",
+    "date": "2026-04-28T06:18:43.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/flipside-2-6790c3b8-90a0-436f-924c-be1514cfd654/jobs/76455559-ai-agent-architect#content",
+    "title": "AI Agent Architect",
+    "company": "Flipside",
+    "link": "https://jobs.solana.com/companies/flipside-2-6790c3b8-90a0-436f-924c-be1514cfd654/jobs/76455559-ai-agent-architect#content",
+    "date": "2026-04-28T06:18:43.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76428344-employee-experience-program-manager#content",
+    "title": "Employee Experience Program Manager",
+    "company": "StreamingFast",
+    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76428344-employee-experience-program-manager#content",
+    "date": "2026-04-28T06:03:43.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/flipside-2-6790c3b8-90a0-436f-924c-be1514cfd654/jobs/76455560-enterprise-data-strategist#content",
+    "title": "Enterprise Data Strategist",
+    "company": "Flipside",
+    "link": "https://jobs.solana.com/companies/flipside-2-6790c3b8-90a0-436f-924c-be1514cfd654/jobs/76455560-enterprise-data-strategist#content",
+    "date": "2026-04-28T06:03:43.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/monad-2-2aabaff9-3059-4cc9-a008-2acf2551089a/jobs/76451753-quantitative-researcher#content",
+    "title": "Quantitative Researcher",
+    "company": "Monad Foundation",
+    "link": "https://coinbase.getro.com/companies/monad-2-2aabaff9-3059-4cc9-a008-2acf2551089a/jobs/76451753-quantitative-researcher#content",
+    "date": "2026-04-28T06:03:43.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76428343-recruiter#content",
+    "title": "Recruiter",
+    "company": "StreamingFast",
+    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76428343-recruiter#content",
+    "date": "2026-04-28T05:48:43.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/flipside-2-6790c3b8-90a0-436f-924c-be1514cfd654/jobs/76455557-forward-deployed-ai-data-engineer#content",
+    "title": "Forward-Deployed AI Data Engineer",
+    "company": "Flipside",
+    "link": "https://jobs.solana.com/companies/flipside-2-6790c3b8-90a0-436f-924c-be1514cfd654/jobs/76455557-forward-deployed-ai-data-engineer#content",
+    "date": "2026-04-28T05:48:43.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/notion-2/jobs/76446040-interaction-designer-web#content",
+    "title": "Interaction Designer, Web",
+    "company": "Notion",
+    "link": "https://coinbase.getro.com/companies/notion-2/jobs/76446040-interaction-designer-web#content",
+    "date": "2026-04-28T05:48:43.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76428345-factory-controller-mesa-az#content",
+    "title": "Factory Controller (Mesa, AZ)",
+    "company": "StreamingFast",
+    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76428345-factory-controller-mesa-az#content",
+    "date": "2026-04-28T05:33:43.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/notion-2/jobs/76446041-software-engineer-new-grad-ai#content",
+    "title": "Software Engineer, New Grad (AI)",
+    "company": "Notion",
+    "link": "https://coinbase.getro.com/companies/notion-2/jobs/76446041-software-engineer-new-grad-ai#content",
+    "date": "2026-04-28T05:33:43.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/notion-2/jobs/76446038-enterprise-technical-support#content",
+    "title": "Enterprise Technical Support",
+    "company": "Notion",
+    "link": "https://coinbase.getro.com/companies/notion-2/jobs/76446038-enterprise-technical-support#content",
+    "date": "2026-04-28T05:18:43.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/3a2a3a40-269d-431b-9eb1-fc3ccb456642",
+    "title": "Investigations Specialist - UAE",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/3a2a3a40-269d-431b-9eb1-fc3ccb456642",
+    "date": "2026-04-28T03:44:11.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/49ab22b5-5099-4601-aed9-832136b5d55c",
+    "title": "Binance Accelerator Program - Product Manager (Search/Trading Insights)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/49ab22b5-5099-4601-aed9-832136b5d55c",
+    "date": "2026-04-28T03:34:40.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/19860aa9-ef49-4061-aeb5-f214f9011d6d",
+    "title": "Binance Accelerator Program - Security Project Management",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/19860aa9-ef49-4061-aeb5-f214f9011d6d",
+    "date": "2026-04-28T03:22:50.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://ripple.com/careers/all-jobs/job/7859047?gh_jid=7859047",
+    "title": "Senior Corporate Counsel",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7859047?gh_jid=7859047",
+    "date": "2026-04-28T00:48:42.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://ats.rippling.com/n3xt-jobs/jobs/9613b475-fd3b-46e4-9698-5ac19825e994",
+    "title": "Business Development Manager (Global)",
+    "company": "N3XT",
+    "link": "https://ats.rippling.com/n3xt-jobs/jobs/9613b475-fd3b-46e4-9698-5ac19825e994",
+    "date": "2026-04-28T00:35:32.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://ats.rippling.com/n3xt-jobs/jobs/839161e2-7374-46b2-a5f9-7eb20a03ba8a",
+    "title": "Business Development Manager",
+    "company": "N3XT",
+    "link": "https://ats.rippling.com/n3xt-jobs/jobs/839161e2-7374-46b2-a5f9-7eb20a03ba8a",
+    "date": "2026-04-28T00:20:32.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/m0dbathenextthingltd/jobs/4233813009",
+    "title": "Creative Director",
+    "company": "M^0 Labs",
+    "link": "https://job-boards.greenhouse.io/m0dbathenextthingltd/jobs/4233813009",
+    "date": "2026-04-28T00:18:42.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.lever.co/wintermute-trading/66a6c9f0-b504-4942-af22-b555969564e5?lever-source%5B%5D=jobs.panteracapital.com",
+    "title": "Product Engineering - Tech Lead",
+    "company": "Wintermute",
+    "link": "https://jobs.lever.co/wintermute-trading/66a6c9f0-b504-4942-af22-b555969564e5?lever-source%5B%5D=jobs.panteracapital.com",
+    "date": "2026-04-27T23:48:42.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/sentient/80bddcd3-47a3-446f-a7ea-a509d5ce540c?utm_source=jobs.panteracapital.com",
+    "title": "Backend Engineer",
+    "company": "Sentient",
+    "link": "https://jobs.ashbyhq.com/sentient/80bddcd3-47a3-446f-a7ea-a509d5ce540c?utm_source=jobs.panteracapital.com",
+    "date": "2026-04-27T23:33:42.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "6d1ef311-4164-42ce-9fbe-0a32f6c5c485",
+    "title": "Engineering Manager - Banking",
+    "company": "Sardine",
+    "link": "https://jobs.ashbyhq.com/Sardine/6d1ef311-4164-42ce-9fbe-0a32f6c5c485",
+    "date": "2026-04-27T22:48:17.804+00:00",
+    "source": "Ashby: Sardine"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/eb68c0d8-f596-494a-a130-ee7c2f58520c/",
+    "title": "FinCrime Analyst (Investigator)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/eb68c0d8-f596-494a-a130-ee7c2f58520c/",
+    "date": "2026-04-27T21:49:02.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/7c9aa5ba-25c6-48bf-a06e-be2957f4818f/",
+    "title": "Head of Finance (Crypto)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/7c9aa5ba-25c6-48bf-a06e-be2957f4818f/",
+    "date": "2026-04-27T21:34:02.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/d48825f1-48ef-4e30-adb8-7818ac2f2c7c/",
+    "title": "Complaints Counsel",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/d48825f1-48ef-4e30-adb8-7818ac2f2c7c/",
+    "date": "2026-04-27T21:19:02.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/ce6624a1-3c91-476b-ae9c-068cd9648d85/",
+    "title": "Deputy Money Laundering Reporting Officer",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/ce6624a1-3c91-476b-ae9c-068cd9648d85/",
+    "date": "2026-04-27T21:04:02.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/57f6e808-d6f5-4a7e-bbe5-553c32f5b06f/",
+    "title": "Creative Marketing Manager (Employer Brand)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/57f6e808-d6f5-4a7e-bbe5-553c32f5b06f/",
+    "date": "2026-04-27T20:49:02.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "https://pixiongames.teamtailor.com/jobs/7615994-game-analyst",
     "title": "Game Analyst",
     "company": "Pixion Games",
@@ -22,6 +230,14 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7713617003",
     "date": "2026-04-27T16:35:24-04:00",
     "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/2ddca8ed-7d20-45cc-a57d-73479b8d7fd7/",
+    "title": "Company Secretary",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/2ddca8ed-7d20-45cc-a57d-73479b8d7fd7/",
+    "date": "2026-04-27T20:34:02.000Z",
+    "source": "Jobs | Paradigm Job Board"
   },
   {
     "id": "4039da58-d6c3-4ee0-bd9e-fde7d6ea2afb",
@@ -78,6 +294,14 @@
     "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7846814&gh_jid=7846814",
     "date": "2026-04-27T15:03:46-04:00",
     "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTYxNCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "title": "Intern - Quant",
+    "company": "CoinDCX",
+    "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTYxNCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "date": "2026-04-27T18:24:54.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
     "id": "7852014",
@@ -194,6 +418,14 @@
   {
     "id": "17b97e8b-e25b-4352-be35-f770524a96b4",
     "title": "Engineering Manager - DevX",
+    "company": "Phantom",
+    "link": "https://jobs.ashbyhq.com/Phantom/17b97e8b-e25b-4352-be35-f770524a96b4",
+    "date": "2026-04-26T18:47:38.545+00:00",
+    "source": "Ashby: Phantom"
+  },
+  {
+    "id": "17b97e8b-e25b-4352-be35-f770524a96b4",
+    "title": "Engineering Manager - DevEx",
     "company": "Phantom",
     "link": "https://jobs.ashbyhq.com/Phantom/17b97e8b-e25b-4352-be35-f770524a96b4",
     "date": "2026-04-26T18:47:38.545+00:00",
@@ -344,6 +576,14 @@
     "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
+    "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/76207531-product-manager#content",
+    "title": "Product Manager",
+    "company": "Coinflow Labs",
+    "link": "https://jobs.solana.com/companies/coinflow-labs/jobs/76207531-product-manager#content",
+    "date": "2026-04-25T10:59:58.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
     "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/76207525-machine-learning-engineer#content",
     "title": "Machine Learning Engineer",
     "company": "Coinflow Labs",
@@ -381,6 +621,14 @@
     "company": "Coinflow Labs",
     "link": "https://jobs.solana.com/companies/coinflow-labs/jobs/76207526-senior-software-engineer#content",
     "date": "2026-04-25T09:44:58.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/76207523-partnerships-growth-manager#content",
+    "title": "Partnerships & Growth Manager",
+    "company": "Coinflow Labs",
+    "link": "https://jobs.solana.com/companies/coinflow-labs/jobs/76207523-partnerships-growth-manager#content",
+    "date": "2026-04-25T09:29:58.000Z",
     "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
@@ -4170,6 +4418,14 @@
   {
     "id": "87661a7c-244b-4226-be24-9844e3b83479",
     "title": "Performance Marketer",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/87661a7c-244b-4226-be24-9844e3b83479",
+    "date": "2026-04-16T23:48:54.186+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "87661a7c-244b-4226-be24-9844e3b83479",
+    "title": "Performance Marketing Associate",
     "company": "Polymarket",
     "link": "https://jobs.ashbyhq.com/Polymarket/87661a7c-244b-4226-be24-9844e3b83479",
     "date": "2026-04-16T23:48:54.186+00:00",
@@ -11088,6 +11344,14 @@
     "source": "Ashby: Phantom"
   },
   {
+    "id": "d8ee7f59-0f80-437f-908e-bfe603cb078a",
+    "title": "Software Engineer, Backend (Trading)",
+    "company": "Phantom",
+    "link": "https://jobs.ashbyhq.com/Phantom/d8ee7f59-0f80-437f-908e-bfe603cb078a",
+    "date": "2026-03-31T16:10:59.604+00:00",
+    "source": "Ashby: Phantom"
+  },
+  {
     "id": "https://www.revolut.com/en-US/careers/position/e1532e89-15a4-415c-bdd3-e798ca408f6b/",
     "title": "New Business Account Executive (Hungarian Market)",
     "company": "Revolut",
@@ -12038,125 +12302,5 @@
     "link": "https://jobs.gem.com/ondo-finance/am9icG9zdDpS5VU_TnKCc6ivTilqcLHB?utm_source=jobs.panteracapital.com",
     "date": "2026-03-29T06:47:49.000Z",
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/72544669-product-manager#content",
-    "title": "Product Manager",
-    "company": "Coinflow Labs",
-    "link": "https://jobs.solana.com/companies/coinflow-labs/jobs/72544669-product-manager#content",
-    "date": "2026-03-29T05:24:10.000Z",
-    "source": "Jobs | Solana Network Opportunities Job Board"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/72547904-cam-programmer-execution#content",
-    "title": "CAM Programmer, Execution",
-    "company": "StreamingFast",
-    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/72547904-cam-programmer-execution#content",
-    "date": "2026-03-29T05:24:10.000Z",
-    "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/72544674-partnerships-growth-manager#content",
-    "title": "Partnerships & Growth Manager",
-    "company": "Coinflow Labs",
-    "link": "https://jobs.solana.com/companies/coinflow-labs/jobs/72544674-partnerships-growth-manager#content",
-    "date": "2026-03-29T05:09:10.000Z",
-    "source": "Jobs | Solana Network Opportunities Job Board"
-  },
-  {
-    "id": "https://fr.linkedin.com/jobs/view/compliance-transaction-monitoring-analyst-at-merge-4390472833?utm_source=Coinbase+job+board&utm_medium=getro.com&gh_src=Coinbase+job+board",
-    "title": "Compliance & Transaction Monitoring Analyst",
-    "company": "Merge",
-    "link": "https://fr.linkedin.com/jobs/view/compliance-transaction-monitoring-analyst-at-merge-4390472833?utm_source=Coinbase+job+board&utm_medium=getro.com&gh_src=Coinbase+job+board",
-    "date": "2026-03-29T05:09:10.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/manager-onboarding-and-l-d-at-hadrian-4349028225?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Manager, Onboarding and L&D",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/manager-onboarding-and-l-d-at-hadrian-4349028225?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-03-29T05:09:10.000Z",
-    "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/workable/jobs/72536901-software-engineer-operations#content",
-    "title": "Software Engineer, Operations",
-    "company": "Workable",
-    "link": "https://coinbase.getro.com/companies/workable/jobs/72536901-software-engineer-operations#content",
-    "date": "2026-03-29T04:54:10.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/72521859-technical-recruiter-americas#content",
-    "title": "Technical Recruiter - Americas",
-    "company": "Ashby",
-    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/72521859-technical-recruiter-americas#content",
-    "date": "2026-03-29T04:39:10.000Z",
-    "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/72521855-lead-content-library-americas#content",
-    "title": "Lead, Content Library - Americas",
-    "company": "Ashby",
-    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/72521855-lead-content-library-americas#content",
-    "date": "2026-03-29T04:24:10.000Z",
-    "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/72519494-commercial-counsel#content",
-    "title": "Commercial Counsel",
-    "company": "Ashby",
-    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/72519494-commercial-counsel#content",
-    "date": "2026-03-29T03:39:10.000Z",
-    "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/high-touch-%C4%B1mplementation-specialist-emea-at-ashby-4385621724?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "High Touch Implementation Specialist - EMEA",
-    "company": "Ashby",
-    "link": "https://www.linkedin.com/jobs/view/high-touch-%C4%B1mplementation-specialist-emea-at-ashby-4385621724?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-03-29T03:24:10.000Z",
-    "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "https://ie.linkedin.com/jobs/view/business-development-representative-emea-at-ashby-4390277861?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Business Development Representative - EMEA",
-    "company": "Ashby",
-    "link": "https://ie.linkedin.com/jobs/view/business-development-representative-emea-at-ashby-4390277861?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-03-29T02:54:10.000Z",
-    "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "https://jobs.a16z.com/jobs/mem-protocol/53638975-fff4-499a-96c6-6761b93c29c8",
-    "title": "Researcher",
-    "company": "Mem Protocol",
-    "link": "https://jobs.a16z.com/jobs/mem-protocol/53638975-fff4-499a-96c6-6761b93c29c8",
-    "date": "2026-03-29T00:52:09.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/noise-labs/57a0a14a-5433-42cb-8a51-e2fc4ec07f11?utm_source=jobs.paradigm.xyz",
-    "title": "Content Swiss Army Knife",
-    "company": "Noise",
-    "link": "https://jobs.ashbyhq.com/noise-labs/57a0a14a-5433-42cb-8a51-e2fc4ec07f11?utm_source=jobs.paradigm.xyz",
-    "date": "2026-03-28T22:00:11.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "https://jobs.a16z.com/jobs/mem-protocol/278de380-5b2e-4b78-a86d-6cd03db0df4c",
-    "title": "Platform Engineer",
-    "company": "Mem Protocol",
-    "link": "https://jobs.a16z.com/jobs/mem-protocol/278de380-5b2e-4b78-a86d-6cd03db0df4c",
-    "date": "2026-03-28T21:53:15.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "https://www.revolut.com/en-US/careers/position/fb84cd09-2cd3-45c1-b260-8d4860542a83/",
-    "title": "Field Sales Representative (Irish Market)",
-    "company": "Revolut",
-    "link": "https://www.revolut.com/en-US/careers/position/fb84cd09-2cd3-45c1-b260-8d4860542a83/",
-    "date": "2026-03-28T21:45:11.000Z",
-    "source": "Jobs | Paradigm Job Board"
   }
 ]
