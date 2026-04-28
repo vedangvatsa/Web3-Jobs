@@ -52,6 +52,39 @@ quiz:
 
 When people say "I have 100 USDC in my wallet," they are technically wrong. The USDC is not in their wallet. The USDC smart contract simply has a spreadsheet, and next to their wallet address, the number is 100.
 
+<div class="diagram">
+<svg viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <text x="400" y="22" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">ERC-20 Token = A Mapping Inside a Contract</text>
+
+  <!-- Contract box -->
+  <rect x="200" y="38" width="400" height="130" rx="12" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="400" y="60" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e40af">USDC Contract (0x1a2b...)</text>
+
+  <!-- Mapping rows -->
+  <rect x="230" y="72" width="340" height="25" rx="4" fill="#dbeafe"/>
+  <text x="240" y="89" font-size="10" font-family="monospace" fill="#1e40af">0xAlice...</text>
+  <text x="520" y="89" text-anchor="end" font-size="11" font-weight="bold" fill="#1e40af">100 USDC</text>
+
+  <rect x="230" y="100" width="340" height="25" rx="4" fill="#f8fafc"/>
+  <text x="240" y="117" font-size="10" font-family="monospace" fill="#64748b">0xBob...</text>
+  <text x="520" y="117" text-anchor="end" font-size="11" font-weight="bold" fill="#64748b">2,500 USDC</text>
+
+  <rect x="230" y="128" width="340" height="25" rx="4" fill="#dbeafe"/>
+  <text x="240" y="145" font-size="10" font-family="monospace" fill="#1e40af">0xCarol...</text>
+  <text x="520" y="145" text-anchor="end" font-size="11" font-weight="bold" fill="#1e40af">50 USDC</text>
+
+  <!-- Alice's wallet -->
+  <rect x="30" y="60" width="140" height="55" rx="8" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="100" y="82" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Alice's Wallet</text>
+  <text x="100" y="100" text-anchor="middle" font-size="9" fill="#64748b">Tokens aren't here!</text>
+  <line x1="170" y1="87" x2="225" y2="84" stroke="#a855f7" stroke-width="1" stroke-dasharray="4"/>
+
+  <!-- Arrow label -->
+  <text x="680" y="95" text-anchor="middle" font-size="10" fill="#64748b">balanceOf[addr]</text>
+  <text x="680" y="112" text-anchor="middle" font-size="10" fill="#64748b">→ uint256</text>
+</svg>
+</div>
+
 An ERC-20 token is a standardized smart contract. Because every ERC-20 contract has the exact same function names (like `transfer` and `balanceOf`), wallets like MetaMask know exactly how to interact with all of them.
 
 Let's look at the core logic of a token contract.
