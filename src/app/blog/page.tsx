@@ -4,9 +4,7 @@ import { getAllArticles } from '@/lib/articles';
 import { BlogPageClientWrapper } from '@/components/blog-page-client-wrapper';
 import type { CollectionPage } from 'schema-dts';
 
-// Mark as dynamic due to useSearchParams and useRouter in BlogPageClient
-export const dynamic = 'force-dynamic';
-
+// The page can be statically generated because useSearchParams is wrapped in a Suspense boundary in BlogPageClientWrapper
 export default async function PlaybookIndexPage() {
  const allArticles = await getAllArticles();
  const categories = ['All', ...[...new Set(allArticles.map(a => a.category))].sort()];
