@@ -14,6 +14,13 @@ export interface LearnCategory {
   lessonCount: number;
 }
 
+export interface QuizQuestion {
+  question: string;
+  options: string[];
+  correct: number;
+  explanation: string;
+}
+
 export interface LessonMeta {
   slug: string;
   title: string;
@@ -22,11 +29,13 @@ export interface LessonMeta {
   readTime: string;
   difficulty: 'beginner' | 'intermediate' | 'advanced';
   prerequisites: string[];
+  hasQuiz: boolean;
 }
 
 export interface Lesson extends LessonMeta {
   content: string;
   category: string;
+  quiz: QuizQuestion[];
 }
 
 /**
@@ -64,6 +73,7 @@ export function getLessons(categorySlug: string): LessonMeta[] {
       readTime: data.readTime || '5 min',
       difficulty: data.difficulty || 'beginner',
       prerequisites: data.prerequisites || [],
+      hasQuiz: Array.isArray(data.quiz) && data.quiz.length > 0,
     };
   });
 
@@ -89,7 +99,9 @@ export function getLesson(categorySlug: string, lessonSlug: string): Lesson | nu
     readTime: data.readTime || '5 min',
     difficulty: data.difficulty || 'beginner',
     prerequisites: data.prerequisites || [],
+    hasQuiz: Array.isArray(data.quiz) && data.quiz.length > 0,
     content,
+    quiz: data.quiz || [],
   };
 }
 
