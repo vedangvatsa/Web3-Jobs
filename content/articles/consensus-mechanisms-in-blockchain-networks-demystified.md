@@ -23,7 +23,7 @@ Proof-of-Work emerged with [Bitcoin](/what-is-bitcoin), marking the inception of
 - **How It Works:**
   1. Global "miners" use powerful, specialized computers to solve complex mathematical puzzles.
   2. These puzzles require discovering a specific number (a "nonce") that, when combined with the data in a new block of transactions, generates a hash with predefined properties, such as a certain number of leading zeros.
-  3. The only method to discover this nonce involves brute force, attempting trillions of possibilities each second. This process necessitates substantial computational power and electricity, representing the "work" in Proof-of-Work.
+  3. The only method to discover this nonce involves brute force, attempting trillions of possibilities each second. This process requires substantial computational power and electricity, representing the "work" in Proof-of-Work.
   4. The first miner to identify a valid nonce "wins" the right to add their block to the blockchain and receives a reward in newly created cryptocurrency.
   
 - **Security Model:** The security of PoW comes from its attack cost. An attacker must control over 51% of the network's mining power to alter the blockchain's history, which would require a significant investment in hardware and electricity.
@@ -65,7 +65,7 @@ Beyond PoW and PoS, several new mechanisms exist, including:
 
 ### Evaluating Consensus Mechanisms
 
-The choice of consensus mechanism is among the most critical design decisions for any blockchain. It necessitates weighing fundamental trade-offs between security, decentralization, and scalability, commonly referred to as the **[blockchain trilemma](/is-web3-dead)**. Below is a comparative overview of PoW and PoS.
+The choice of consensus mechanism is among the most critical design decisions for any blockchain. It requires weighing fundamental trade-offs between security, decentralization, and scalability, commonly referred to as the **[blockchain trilemma](/is-web3-dead)**. Below is a comparative overview of PoW and PoS.
 
 | Feature            | Proof-of-Work (PoW)                   | Proof-of-Stake (PoS)                |
 |--------------------|---------------------------------------|-------------------------------------|

@@ -11,7 +11,7 @@ lastUpdated: "2026-04-29"
 
 Gaborone, the capital of Botswana, distinguishes itself in the African tech sector through its stability, strategic planning, and ambitious growth. Botswana consistently ranks among the most stable and well-governed countries in Africa. This foundation enables Gaborone to build a tech ecosystem designed for sustainable growth. The city is progressively using [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology, focusing on developing trustworthy and transparent systems across finance, supply chains, and natural resource management.
 
-The Web3 sector in Gaborone is nascent but supported by a proactive government, an educated workforce, and a clear digital transformation agenda. The Botswana Digital & Innovation Hub plays a significant role in this development, promoting startups and establishing the necessary infrastructure for a modern tech economy. This guide outlines the emerging [Web3 job](/web3-jobs-for-beginners) market in Gaborone, detailing its strengths, upcoming opportunities, and strategies for professionals seeking careers in this promising tech hub.
+The Web3 sector in Gaborone is nascent but supported by a proactive government, an educated workforce, and a clear digital transformation agenda. The Botswana Digital & Innovation Hub plays a important role in this development, promoting startups and establishing the necessary infrastructure for a modern tech economy. This guide outlines the emerging [Web3 job](/web3-jobs-for-beginners) market in Gaborone, detailing its strengths, upcoming opportunities, and strategies for professionals seeking careers in this promising tech hub.
 
 ### The Gaborone Web3 Ecosystem
 

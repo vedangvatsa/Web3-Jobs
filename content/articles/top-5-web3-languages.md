@@ -53,7 +53,7 @@ While Solidity excels at the application layer, Rust is increasingly the languag
 
 ## 3. JavaScript / TypeScript: The Frontend Essential
 
-JavaScript and TypeScript skills are indispensable in the Web3 environment. Every decentralized application requires a user-friendly frontend, making JavaScript the go-to language.
+JavaScript and TypeScript skills are essential in the Web3 environment. Every decentralized application requires a user-friendly frontend, making JavaScript the go-to language.
 
 - **Primary Use Case:** Developing the frontend for dApps, interacting with [crypto wallets](/how-to-choose-a-crypto-wallet), and creating backend services for off-chain components.
 - **Ecosystems:** JavaScript is essential across all Web3 projects, as every decentralized application needs a frontend.

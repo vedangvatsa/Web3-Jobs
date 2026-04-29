@@ -55,7 +55,7 @@ For each batch of transactions, the ZK-Rollup's operator (referred to as a "prov
 
 | **Pros**                       | **Cons**                           |
 |--------------------------------|------------------------------------|
-| Fast Finality: The mathematical proof of validity eliminates the need for a lengthy challenge period. Users can withdraw funds from a ZK-Rollup back to Ethereum almost instantly after the transaction is included on Layer 1. | Technological Complexity: The cryptography underpinning ZK-Rollups is highly complex and resides at the forefront of computer science research. Generating ZK proofs requires substantial computational resources, and building a ZK-Rollup that is fully compatible with the EVM (a "zkEVM") presents a significant engineering challenge. |
+| Fast Finality: The mathematical proof of validity eliminates the need for a lengthy challenge period. Users can withdraw funds from a ZK-Rollup back to Ethereum almost instantly after the transaction is included on Layer 1. | Technological Complexity: The cryptography supporting ZK-Rollups is highly complex and resides at the forefront of computer science research. Generating ZK proofs requires substantial computational resources, and building a ZK-Rollup that is fully compatible with the EVM (a "zkEVM") presents a significant engineering challenge. |
 
 ## The Rollup-Centric Roadmap
 

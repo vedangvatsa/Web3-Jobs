@@ -141,7 +141,7 @@ Web3 teams often operate in distributed environments and move at a rapid pace. T
 
 ### In Your Career Progression
 The importance of these skills varies by career level:
-- **Junior Level:** Technical skills are paramount, but communication becomes increasingly important.
+- **Junior Level:** Technical skills are essential, but communication becomes increasingly important.
 - **Mid Level:** A balance of technical and soft skills emerges; leadership potential becomes evident.
 - **Senior Level:** Soft skills account for a significant portion of your effectiveness.
 - **Leadership:** Emotional intelligence and communication dominate.

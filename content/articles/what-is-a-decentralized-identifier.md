@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-29"
 ---
 
-A **Decentralized Identifier (DID)** serves as a unique identifier in the digital field, offering verifiable ownership without reliance on centralized authorities. DIDs are integral to **[Self-Sovereign Identity (SSI)](/self-sovereign-identity-in-web3-explained)**, which enables individuals to manage their own digital identities.
+A **Decentralized Identifier (DID)** serves as a unique identifier in the digital field, offering verifiable ownership without reliance on centralized authorities. DIDs are integral to **[Self-Sovereign Identity (SSI)](/self-sovereign-identity-in-web3-explained)**, which lets people to manage their own digital identities.
 
 Visualize a DID as a personal, self-owned phone number, diverging from the traditional system where telecom companies assign numbers. It acts as a permanent and portable address in the digital sector.
 

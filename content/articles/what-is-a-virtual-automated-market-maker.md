@@ -32,7 +32,7 @@ Standard AMMs primarily facilitate spot trading, where real assets are exchanged
 
 - **Lack of Use**: Standard AMMs do not allow for used trading.
 - **Complex Shorting**: Shorting assets proves difficult within the standard AMM framework.
-- **Capital Intensive**: Establishing a sufficiently deep liquidity pool for a perpetual futures market necessitates substantial locked capital from liquidity providers, exposing them to various risks.
+- **Capital Intensive**: Establishing a sufficiently deep liquidity pool for a perpetual futures market requires substantial locked capital from liquidity providers, exposing them to various risks.
 
 ### How a Virtual AMM Functions
 

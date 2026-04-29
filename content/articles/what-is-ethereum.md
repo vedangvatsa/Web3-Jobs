@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 Ethereum has changed how the world perceives blockchain technology and decentralized applications. Launched in 2015 by Vitalik Buterin and a team of developers, Ethereum is a decentralized, open-source blockchain that extends beyond Bitcoin by enabling the creation of smart contracts. This innovation shifted the blockchain's role from merely a ledger for transactions to a platform for developing decentralized applications (dApps).
 
-As the backbone of the [Web3](/what-is-web3) ecosystem, Ethereum supports most decentralized finance (DeFi), non-fungible tokens (NFTs), and decentralized autonomous organizations (DAOs). Familiarity with Ethereum is essential for understanding Web3. For those aiming to pursue careers in blockchain development, knowledge of Ethereum is indispensable.
+As the backbone of the [Web3](/what-is-web3) ecosystem, Ethereum supports most decentralized finance (DeFi), non-fungible tokens (NFTs), and decentralized autonomous organizations (DAOs). Familiarity with Ethereum is essential for understanding Web3. For those aiming to pursue careers in blockchain development, knowledge of Ethereum is essential.
 
 ## The Key Innovation: The Ethereum Virtual Machine
 
@@ -50,7 +50,7 @@ Ether (ETH) functions as the native cryptocurrency of the Ethereum network and f
 
 - **Staking**: Validators stake ETH as part of securing the network. A significant amount of ETH is staked globally, creating a reliable economic security framework. To launch an attack on Ethereum, an individual must possess and risk a substantial amount of ETH.
 
-- **Collateral in DeFi**: ETH is the most commonly used collateral in DeFi transactions. Borrowing within DeFi protocols often necessitates collateralizing with ETH due to its reputation as a trusted and stable asset and the fact that most DeFi protocols are built on Ethereum.
+- **Collateral in DeFi**: ETH is the most commonly used collateral in DeFi transactions. Borrowing within DeFi protocols often requires collateralizing with ETH due to its reputation as a trusted and stable asset and the fact that most DeFi protocols are built on Ethereum.
 
 ## The Ethereum Roadmap: What's Coming
 

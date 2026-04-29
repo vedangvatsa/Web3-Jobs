@@ -24,7 +24,7 @@ Understanding why relationship-building matters goes beyond social niceties. Str
 - **Job Satisfaction**: Positive relationships enhance your enjoyment at work.
 - **Career Opportunities**: Many opportunities arise from people who trust and know you.
 
-On the flip side, poor relationships can result in miscommunication, toxicity, and stalled career growth. Therefore, cultivating relationships serves as a strategic career maneuver.
+On the flip side, poor relationships can result in miscommunication, toxicity, and stalled career growth. Therefore, Building relationships serves as a strategic career maneuver.
 
 See also: **[How to Find a Mentor at a New Company](how-to-find-mentor-at-new-company)** for insights on establishing your first key relationship.
 
@@ -253,7 +253,7 @@ Be deliberate in your approach:
 - **Remember details** from conversations and reference them later.
 - **Be accessible** and responsive to messages.
 
-Remote work necessitates more intentional effort, but it's achievable.
+Remote work requires more intentional effort, but it's achievable.
 
 **How do I handle a teammate I genuinely don't like?**
 

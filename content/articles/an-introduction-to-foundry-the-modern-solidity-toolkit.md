@@ -9,7 +9,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-29"
 ---
 
-Foundry has emerged as a modern toolkit for Ethereum development, addressing key limitations of traditional JavaScript-based frameworks like Hardhat and Truffle. These frameworks have played a significant role in the Ethereum ecosystem, but they require developers to switch between Solidity for smart contracts and JavaScript for tests and scripts. This context-switching can lead to inefficiencies and bugs.
+Foundry has emerged as a modern toolkit for Ethereum development, addressing key limitations of traditional JavaScript-based frameworks like Hardhat and Truffle. These frameworks have played a important role in the Ethereum ecosystem, but they require developers to switch between Solidity for smart contracts and JavaScript for tests and scripts. This context-switching can lead to inefficiencies and bugs.
 
 **Foundry** redefines the development process by allowing developers to write tests directly in Solidity. This integration promotes consistency and reduces the cognitive load on developers. Foundry has quickly gained traction among Ethereum developers, thanks to its speed, portability, and modular features.
 
@@ -30,7 +30,7 @@ Foundry is a suite of command-line tools designed for Ethereum application devel
 Foundry provides several advantages, making it a compelling choice for Ethereum developers.
 
 1. **Solidity-Native Testing**  
-   Writing tests in Solidity instead of JavaScript offers numerous benefits:
+   Writing tests in Solidity instead of JavaScript offers many benefits:
    - **No Context Switching:** Developers maintain a consistent language and mental model, enhancing development speed and intuitiveness.
    - **Performance:** Tests run significantly faster in Foundry, executing directly in the Ethereum Virtual Machine (EVM) without the overhead of a JavaScript runtime.
    - **Fuzz Testing:** Foundry supports fuzz testing, an automated process that generates random inputs to identify edge cases that could lead to failures. This capability strengthens security by rigorously testing smart contracts.

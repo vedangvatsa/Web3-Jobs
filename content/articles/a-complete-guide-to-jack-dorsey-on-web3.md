@@ -19,7 +19,7 @@ This article examines Jack Dorsey's views, focusing on his unwavering support fo
 
 Dorsey's professional journey emphasizes his commitment to open communication and financial networks. At Twitter, he created a platform for global dialogue. At Block, he developed tools designed to help small businesses and individuals in the digital economy.
 
-His foray into cryptocurrency aligns with his previous work. Dorsey perceives Bitcoin as the next logical evolution: a global, open, permissionless monetary network not controlled by any single entity or nation. This conviction prompted him to resign from his role as CEO of Twitter in 2021, allowing him to dedicate more resources to Block and its Bitcoin-centric projects. The rebranding of Square to Block underscores this commitment.
+His foray into cryptocurrency aligns with his previous work. Dorsey perceives Bitcoin as the next logical evolution: a global, open, permissionless monetary network not controlled by any single entity or nation. This conviction prompted him to resign from his role as CEO of Twitter in 2021, allowing him to dedicate more resources to Block and its Bitcoin-centric projects. The rebranding of Square to Block highlights this commitment.
 
 ## Core Thesis: Bitcoin as the Foundation of Web3
 

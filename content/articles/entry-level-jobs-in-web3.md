@@ -74,7 +74,7 @@ Most decentralized applications (dApps) require a traditional web frontend, typi
 
 ### 2. QA / Test Engineer
 
-The high-stakes nature of smart contracts necessitates rigorous testing.
+The high-stakes nature of smart contracts requires rigorous testing.
 
 **Responsibilities:** Junior QA engineers help write and execute test cases for a dApp. This includes both manual testing (navigating the UI to identify issues) and writing automated tests for smart contracts using frameworks like Foundry or Hardhat.
 

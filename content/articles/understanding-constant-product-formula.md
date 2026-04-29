@@ -23,7 +23,7 @@ This article breaks down the constant product formula, its practical application
 | **Term**  | **Definition**                                      |
 |-----------|-----------------------------------------------------|
 | Formula   | `x * y = k`, where `x` represents the amount of [Token](/what-is-a-token) A, `y` represents the amount of Token B, and `k` is a constant. |
-| Rule      | The value of `k` must remain unchanged during a trade. An increase in one token's quantity necessitates an equivalent decrease in the other. |
+| Rule      | The value of `k` must remain unchanged during a trade. An increase in one token's quantity requires an equivalent decrease in the other. |
 | Price Discovery | The asset price in the pool is determined by the ratio of the reserves (`x / y`). Trades alter this ratio and therefore the price. |
 | Infinite Liquidity | The hyperbolic curve of `x * y = k` suggests the pool can theoretically provide liquidity at any price, extending from zero to infinity. |
 | Foundation of DeFi | This formula enabled the establishment of permissionless, automated exchanges that are integral to the DeFi ecosystem. |

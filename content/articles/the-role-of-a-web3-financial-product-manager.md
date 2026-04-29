@@ -32,7 +32,7 @@ The FPM must cater to a highly sophisticated user base. This includes DeFi "dege
 
 #### 4. Security as the Foremost Priority
 
-In a financial protocol that manages substantial capital, security is paramount. The FPM needs a strong appreciation for security and must collaborate closely with auditors to minimize risks.
+In a financial protocol that manages substantial capital, security is critical. The FPM needs a strong appreciation for security and must collaborate closely with auditors to minimize risks.
 
 ### Key Responsibilities
 

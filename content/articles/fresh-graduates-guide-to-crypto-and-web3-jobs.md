@@ -65,7 +65,7 @@ Creating a portfolio that demonstrates your skills is critical.
 
 #### For Aspiring Developers
 
-- **Your GitHub is Your Resume:** Focus on cultivating a strong GitHub profile.
+- **Your GitHub is Your Resume:** Focus on Building a strong GitHub profile.
 - **Learn [Solidity](/best-programming-languages-for-blockchain-development):** Use free tutorials like CryptoZombies.
 - **Develop Projects:**
   - *Beginner Project:* Create and deploy your own ERC-20 token using OpenZeppelin's standard contracts.

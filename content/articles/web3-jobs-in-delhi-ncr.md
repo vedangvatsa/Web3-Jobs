@@ -20,7 +20,7 @@ Delhi NCR's Web3 ecosystem emphasizes communication, business, and policy rather
 
 - **Media and Marketing Center:** The region serves as a core of India’s media sector, attracting skilled marketing, content, and public relations professionals. This environment supports the development of Web3 marketing agencies, crypto media firms, and growth teams for major exchanges and protocols.
 - **Policy and Regulation Hub:** As the capital, Delhi is at the forefront of important discussions regarding crypto regulation, creating a significant demand for policy experts, lawyers, and public affairs professionals who can interact with regulators and influence the industry’s future in India.
-- **Corporate and Startup Ecosystem:** Gurgaon is home to the Indian headquarters of numerous multinational companies and has a burgeoning startup scene. This environment supports enterprise [blockchain](/what-is-a-blockchain) solutions and assists Web2 companies in transitioning to Web3.
+- **Corporate and Startup Ecosystem:** Gurgaon is home to the Indian headquarters of numerous multinational companies and has a growing startup scene. This environment supports enterprise [blockchain](/what-is-a-blockchain) solutions and assists Web2 companies in transitioning to Web3.
 - **Expansive Consumer Base:** NCR stands as one of India's largest and most affluent consumer markets, making it a critical battleground for crypto exchanges and user-focused dApps seeking to grow their user bases.
 
 ### In-Demand Roles and Salary Expectations

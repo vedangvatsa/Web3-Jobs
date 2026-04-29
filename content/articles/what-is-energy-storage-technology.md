@@ -44,7 +44,7 @@ Energy storage systems fulfill several essential functions within a modern power
 
 - **Backup Power**: Energy storage provides resilience during outages. For instance, a home solar system equipped with a battery can maintain power even when the grid fails.
 
-Transitioning to a 100% renewable energy grid requires more than just adding solar panels and wind turbines. It necessitates a system capable of managing their variability. Energy storage serves as the essential technology enabling this transition. As costs continue to decrease and new technologies emerge, energy storage will become increasingly vital.
+Transitioning to a 100% renewable energy grid requires more than just adding solar panels and wind turbines. It requires a system capable of managing their variability. Energy storage serves as the essential technology enabling this transition. As costs continue to decrease and new technologies emerge, energy storage will become increasingly vital.
 
 ### Comparison of Energy Storage Technologies
 

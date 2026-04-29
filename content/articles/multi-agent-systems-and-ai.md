@@ -64,7 +64,7 @@ Adopt an incremental approach to implementing changes. Focus on one small adjust
 
 #### Step 5: Measure and Adjust
 
-Regularly track your progress to evaluate the effectiveness of your strategies. If you notice shortcomings, adjust your methods based on feedback and outcomes. Cultivating a mindset of continuous improvement is important for long-term success.
+Regularly track your progress to evaluate the effectiveness of your strategies. If you notice shortcomings, adjust your methods based on feedback and outcomes. Building a mindset of continuous improvement is important for long-term success.
 
 ### Real-World Examples
 
@@ -101,7 +101,7 @@ A: Many individuals notice initial results within a few weeks of consistent prac
 A: In challenging environments, you often have more agency than you think. Start with small, self-contained actions that require minimal organizational buy-in. Focus on individual habits or personal projects that align with your goals. Gradually build momentum, documenting your progress and outcomes. If, after sustained effort, you find that the environment remains unsupportive, consider seeking a workplace that values professional development.
 
 **Q: How does this apply specifically to Web3 organizations?**  
-A: Web3 organizations differ from traditional companies in ways that emphasize the importance of multi-agent systems. With flatter hierarchies, professionals have more direct access to decision-makers and greater responsibility for self-direction. The predominantly remote and globally distributed nature of teams necessitates effective written communication and asynchronous collaboration. Additionally, Web3 startups often operate at a faster pace, requiring agility in adapting to rapid changes.
+A: Web3 organizations differ from traditional companies in ways that emphasize the importance of multi-agent systems. With flatter hierarchies, professionals have more direct access to decision-makers and greater responsibility for self-direction. The predominantly remote and globally distributed nature of teams requires effective written communication and asynchronous collaboration. Additionally, Web3 startups often operate at a faster pace, requiring agility in adapting to rapid changes.
 
 **Q: Can I implement this alongside my current role?**  
 A: Yes, and this is the recommended approach for most professionals. You do not need extra hours; instead, focus on intentionality within your existing schedule. Identify a few practices that align with your daily tasks and apply them consistently. The cumulative effect of small, deliberate improvements can lead to significant outcomes over time.

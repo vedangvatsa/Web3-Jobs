@@ -18,7 +18,7 @@ This handbook outlines a strategic framework for creating a strong go-to-market 
 
 The three foundational pillars of a successful Web3 GTM strategy include:
 
-1. **Community-Led Growth:** Techniques for cultivating a vibrant community from the outset and transforming users into owners and advocates.
+1. **Community-Led Growth:** Techniques for Building a vibrant community from the outset and transforming users into owners and advocates.
 2. **Token Distribution:** The strategic significance of a well-structured [airdrop](/understanding-airdrop-campaigns-in-web3) and the mechanics behind a successful token launch.
 3. **Decentralized Marketing:** Using unique Web3 channels, including governance forums, Twitter Spaces, and on-chain data.
 

@@ -62,7 +62,7 @@ The unique characteristics of the cryptocurrency market create an environment co
 
 ## Identifying Shilling: Key Red Flags
 
-Cultivating an ability to recognize shilling is essential for protecting your investments. Here are some warning signs to consider:
+Building an ability to recognize shilling is essential for protecting your investments. Here are some warning signs to consider:
 
 - **Sense of Urgency:** Does the message create pressure to buy immediately, suggesting that you could miss out if you wait?
 - **Outlandish Price Predictions:** Are there specific claims of guaranteed returns, such as "This will definitely reach 100x"?

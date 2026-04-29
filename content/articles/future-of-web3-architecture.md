@@ -30,7 +30,7 @@ As a result, the [modular blockchain](/modular-blockchain) stack has emerged, wh
 
 ## Intent-Based Architecture: The Next Frontier
 
-Despite rollups managing millions of transactions daily, the Web3 user experience often remains cumbersome. Engaging with DeFi protocols necessitates that users understand gas tokens, slippage tolerances, routing paths, and approval transactions, creating cognitive burdens that Web2 alternatives do not impose.
+Despite rollups managing millions of transactions daily, the Web3 user experience often remains cumbersome. Engaging with DeFi protocols requires that users understand gas tokens, slippage tolerances, routing paths, and approval transactions, creating cognitive burdens that Web2 alternatives do not impose.
 
 **Intent-centric protocols** redefine this interaction model. Instead of users specifying exact transactions, such as “swap exactly 1 ETH for USDC using this route,” they express broader intents like, “I want at least 3,400 USDC for my 1 ETH.” A network of specialized actors called **solvers** then competes to fulfill that intent, relieving users from navigating the execution complexities.
 

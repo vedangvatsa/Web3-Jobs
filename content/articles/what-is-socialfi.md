@@ -62,7 +62,7 @@ Despite its promise, SocialFi faces multiple challenges.
 
 **Regulatory uncertainty** looms over tokens that could be classified as securities. If a creator token provides voting rights or cash flows, it may fall under security regulations. Regulatory scrutiny could greatly impact SocialFi projects.
 
-**User experience remains complex** when compared to traditional social media. Many find it easier to use platforms like Twitter than to manage decentralized networks, purchase tokens, and manage wallets. Mainstream adoption necessitates significant improvements in user experience.
+**User experience remains complex** when compared to traditional social media. Many find it easier to use platforms like Twitter than to manage decentralized networks, purchase tokens, and manage wallets. Mainstream adoption requires significant improvements in user experience.
 
 **Content moderation challenges** intensify in decentralized systems. Traditional platforms typically employ numerous moderators, while decentralized platforms struggle to maintain effective moderation at scale. This can result in increased spam and harmful content.
 

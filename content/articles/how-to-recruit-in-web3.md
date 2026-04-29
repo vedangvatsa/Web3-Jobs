@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-29"
 ---
 
-Recruiting in [Web3](/what-is-web3) presents unique challenges compared to other sectors. The talent pool is limited, competition is intense, and many top candidates operate under pseudonyms, driven by motivations beyond standard salary figures. Conventional recruiting methods, such as posting job listings on LinkedIn or relying on resumes, fail to attract elite Web3 talent effectively.
+Recruiting in [Web3](/what-is-web3) has specific challenges compared to other sectors. The talent pool is limited, competition is intense, and many top candidates operate under pseudonyms, driven by motivations beyond standard salary figures. Conventional recruiting methods, such as posting job listings on LinkedIn or relying on resumes, fail to attract elite Web3 talent effectively.
 
 To succeed in this environment, recruiters and hiring managers must adopt a "crypto-native" approach. Understanding the culture, engaging in relevant communities, and evaluating candidates based on a distinct set of criteria are essential. This guide outlines actionable strategies for effective recruiting in the Web3 space. For further insights, refer to our article on [how to build a strong Web3 portfolio](/how-to-build-a-strong-web3-portfolio) from a recruiter's viewpoint.
 
@@ -20,7 +20,7 @@ While some Web3 professionals maintain LinkedIn profiles, the primary channels f
 
 - **Twitter (X):** This platform serves as the heartbeat of the crypto community. Follow key developers, researchers, and innovators within your niche. Engage thoughtfully with their content. The leaders in technical discussions on Twitter often represent the top-tier talent you seek.
 - **Discord:** Many Web3 communities thrive on Discord. Join channels related to your field but refrain from simply posting job listings in a `#hiring` channel. Actively contribute to discussions and identify insightful members who can be potential hires.
-- **GitHub:** For technical positions, GitHub is indispensable. Research developers making significant contributions to reputable open-source Web3 projects. A strong GitHub profile often serves as the most reliable indicator of a candidate’s abilities.
+- **GitHub:** For technical positions, GitHub is essential. Research developers making significant contributions to reputable open-source Web3 projects. A strong GitHub profile often serves as the most reliable indicator of a candidate’s abilities.
 - **Hackathons:** Events like ETHGlobal host a wealth of talent. Consider sponsoring a hackathon or offering bounties for new uses of your protocol. Many successful Web3 companies originate from teams that met at these events.
 
 ### Principle #2: Evaluate Proof of Work, Not Resumes

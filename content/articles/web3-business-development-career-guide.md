@@ -20,8 +20,8 @@ The Web3 BizDev role differs significantly from traditional sales or business de
 
 - **Creating Value Over Selling Products:** This role emphasizes building alliances and supporting integrations rather than merely closing sales. The focus shifts from meeting revenue targets to achieving mutual growth and strengthening the ecosystem.
 - **Technical and Ecosystem Knowledge is Essential:** A Web3 BizDev professional must understand the underlying technology deeply. This includes reading documentation, comprehending a protocol's architecture, and identifying feasible integration opportunities that align with strategic goals.
-- **Reputation as a Key Asset:** The Web3 space is relatively small and closely knit, making trust paramount. A reputation for being helpful, knowledgeable, and reliable enhances a BizDev professional's value. The best BizDev experts are seen as builders of the ecosystem, not merely as dealmakers.
-- **Integrations as Partnerships:** Successful partnerships often manifest as technical integrations. This necessitates close collaboration with engineering and product teams on both sides to ensure effective implementation.
+- **Reputation as a Key Asset:** The Web3 space is relatively small and closely knit, making trust essential. A reputation for being helpful, knowledgeable, and reliable enhances a BizDev professional's value. The best BizDev experts are seen as builders of the ecosystem, not merely as dealmakers.
+- **Integrations as Partnerships:** Successful partnerships often manifest as technical integrations. This requires close collaboration with engineering and product teams on both sides to ensure effective implementation.
 
 ### Key Responsibilities
 

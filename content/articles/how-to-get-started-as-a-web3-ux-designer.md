@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 One of the significant barriers to the widespread adoption of [Web3](/what-is-web3) is its often subpar user experience. New users frequently find interacting with decentralized applications (dApps) confusing and daunting. This situation has generated substantial demand for skilled UX/UI designers who can connect the intricate backend of the [blockchain](/what-is-a-blockchain) with the end-user experience.
 
-Web3 represents an exciting opportunity for designers. It offers the chance to tackle unique design challenges and shape interaction patterns for the next generation of the internet. This guide provides a roadmap for designers looking to build a career in the Web3 space.
+Web3 represents an good opportunity for designers. It offers the chance to tackle unique design challenges and shape interaction patterns for the next generation of the internet. This guide provides a roadmap for designers looking to build a career in the Web3 space.
 
 ### Unique Challenges of Web3 UX
 

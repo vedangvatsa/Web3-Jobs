@@ -110,4 +110,4 @@ The Web3 job market reflects the decentralized nature of the technology itself, 
 | Get Involved     | Engage on Twitter and within the Discord communities of projects you admire. Building relationships often leads to job opportunities. |
 | Target Quality    | Explore VC portfolio job boards like a16z Crypto’s to identify curated roles at well-funded companies.   |
 
-By employing these strategies, professionals can move beyond simply submitting applications. They can actively position themselves to secure their ideal roles in the dynamic and rapidly expanding Web3 space. Engaging with communities, using specialized boards, and understanding market trends will enhance the chances of success in this evolving industry.
+By employing these strategies, professionals can move beyond simply submitting applications. They can actively prepare to secure their ideal roles in the dynamic and rapidly expanding Web3 space. Engaging with communities, using specialized boards, and understanding market trends will enhance the chances of success in this evolving industry.

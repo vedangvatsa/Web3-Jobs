@@ -41,7 +41,7 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 
 ### Steps to Secure a Web3 Position in South Korea
 
-1. **Language Proficiency:** Fluency in Korean is essential for most roles, especially non-technical ones. The local focus of the market necessitates effective communication in Korean.
+1. **Language Proficiency:** Fluency in Korean is essential for most roles, especially non-technical ones. The local focus of the market requires effective communication in Korean.
 
 2. **Gaming or Entertainment Experience:** A background in a major gaming studio, such as Nexon or Netmarble, provides a substantial advantage. This experience indicates familiarity with product development and marketing for a broad consumer base.
 

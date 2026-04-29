@@ -49,13 +49,13 @@ Currently, the formal Web3 job market in Bangui is limited for local talent. The
 
 ## Bangui's Importance in the Web3 Future
 
-Bangui represents a unique convergence of ambition and challenges within the global Web3 ecosystem. Unlike other African crypto hubs, such as Lagos or Nairobi, that build on existing tech infrastructure, Bangui seeks to establish a Web3 economy in an underserved region. This situation presents unique opportunities for those willing to take calculated risks.
+Bangui represents a unique convergence of ambition and challenges within the global Web3 ecosystem. Unlike other African crypto hubs, such as Lagos or Nairobi, that build on existing tech infrastructure, Bangui seeks to establish a Web3 economy in an underserved region. This situation offers good opportunities for those willing to take calculated risks.
 
 Individuals entering this space now will shape the future of Web3 in Central Africa. This market is not suited for conservative career moves but offers extraordinary potential for meaningful impact and professional growth.
 
 ## Networking and Community Building in Bangui
 
-The absence of a formal job market necessitates proactive networking:
+The absence of a formal job market requires proactive networking:
 
 - **Online Communities:** Participate in African Web3 Discord servers, Telegram groups, and Twitter spaces. Engage directly with the Sango team on social platforms.
 
@@ -77,7 +77,7 @@ The tokenization of natural resources opens avenues in:
 
 ### Government Technology Services
 
-The Sango project necessitates:
+The Sango project requires:
 
 - **UX/UI Designers:** Develop engaging interfaces for government portals.
 - **Backend Engineers:** Build reliable digital identity systems.

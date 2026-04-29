@@ -68,7 +68,7 @@ Tokenomics involves designing a crypto-native economic system. It can be a criti
 
 ### 7. Community Management and Building
 
-In Web3, community is important. Cultivating an engaged and positive community is a core business function.
+In Web3, community is important. Building an engaged and positive community is a core business function.
 
 - **Communication Skills:** Clear and empathetic communication on platforms like Discord and Twitter is essential.
 - **Culture Building:** Building a strong sense of shared identity and purpose among community members enhances engagement.

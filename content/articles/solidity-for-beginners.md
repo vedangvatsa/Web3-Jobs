@@ -51,7 +51,7 @@ This line tells everyone that our code is licensed under the MIT License, a perm
 
 ### 2. The Pragma Directive
 
-The next line tells the compiler which version of Solidity we're using. This is important because Solidity is a rapidly evolving language, and a new version might introduce "breaking changes" that would make old code incompatible.
+The next line tells the compiler which version of Solidity we're using. This is important because Solidity is a fast-changing language, and a new version might introduce "breaking changes" that would make old code incompatible.
 
 ```solidity
 pragma solidity ^0.8.20;

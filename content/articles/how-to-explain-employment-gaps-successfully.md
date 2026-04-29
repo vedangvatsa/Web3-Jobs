@@ -23,7 +23,7 @@ For instance:
 | Career Break Reason      | Reframed Description                                             |
 |--------------------------|-----------------------------------------------------------------|
 | Family Responsibilities   | Managed household and family duties, enhancing time management and organizational skills. |
-| Travel                   | Undertook independent global travel, cultivating cross-cultural communication skills and adaptability. |
+| Travel                   | Undertook independent global travel, Building cross-cultural communication skills and adaptability. |
 | Skill Development        | Completed an intensive self-study in [Web3](/what-is-web3) development, enhancing technical proficiency. |
 
 This reframing is not about crafting a false narrative; it is about acknowledging the real skills and insights you gained during your time away from conventional employment.
@@ -120,7 +120,7 @@ Continuously monitor your progress. Assess whether you are achieving the desired
 
 **Juan**, a product manager in [DeFi](/what-is-defi), encountered similar hurdles. By following this structured approach, he successfully articulated his experiences and landed a role that aligned with his aspirations. His story illustrates the effectiveness of these principles.
 
-**Maya**, transitioning from Web2 to Web3, effectively adapted her narrative by using the outlined strategies. Her experience underscores the versatility of this approach, regardless of background or experience level.
+**Maya**, transitioning from Web2 to Web3, effectively adapted her narrative by using the outlined strategies. Her experience highlights the versatility of this approach, regardless of background or experience level.
 
 ### Common Mistakes to Avoid
 

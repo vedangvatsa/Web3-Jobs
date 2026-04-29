@@ -24,7 +24,7 @@ Multiple key factors converge to create a competitive and lucrative job market i
 The fundamental economic principle of supply and demand plays a major role. Significant venture capital investments are pouring into Web3 projects, leading to high demand for a relatively small pool of specialized talent. For example, skilled [smart contract](/what-are-smart-contracts) developers who prioritize security and marketers well-versed in crypto culture are in short supply, allowing them to command premium salaries.
 
 **2. High-Stakes Environment**  
-Mistakes in Web3 can have severe financial consequences. For instance, a bug in a [DeFi](/what-is-defi) protocol might result in the loss of significant value within minutes. Companies are willing to pay top dollar for professionals capable of thriving in this high-pressure environment.
+Mistakes in Web3 can have severe financial consequences. For instance, a bug in a [DeFi](/what-is-defi) protocol might result in the loss of significant value within minutes. Companies are willing to pay top dollar for professionals capable of growing in this high-pressure environment.
 
 **3. Ownership Component (Tokens)**  
 The ownership aspect of compensation is unique to Web3. A job offer typically includes not only a salary but also an ownership [stake](/how-to-become-a-web3-staking-specialist) in a decentralized network.
