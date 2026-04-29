@@ -7,7 +7,7 @@ category: "Educational"
 data-ai-hint: "robot brain"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-28"
+lastUpdated: "2026-04-29"
 ---
 
 Artificial intelligence, commonly referred to as AI, focuses on enhancing computer capabilities to mimic human-like thinking and learning. The objective is to create machines that can analyze data, recognize patterns, and make informed decisions independently of pre-set instructions. This process is grounded in algorithms and data.

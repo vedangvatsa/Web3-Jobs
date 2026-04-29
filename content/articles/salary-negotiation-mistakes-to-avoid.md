@@ -7,7 +7,7 @@ description: "Learn about the common mistakes people make during salary negotiat
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-28"
+lastUpdated: "2026-04-29"
 ---
 
 Negotiating your salary represents a key moment in your career. A successful negotiation can boost your annual income, while a poorly executed one can lead to feelings of undervaluation and dissatisfaction. Many professionals fall into common traps that hinder their negotiation success.

@@ -6,14 +6,14 @@ image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man confident"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-28"
+lastUpdated: "2026-04-29"
 ---
 
 ## Introduction: The Original Bitcoin Bull
 
-Tim Draper stands out as a prominent venture capitalist and a founding partner of Draper Fisher Jurvetson (DFJ) and Draper Associates. His early investments include high-profile disruptors like Hotmail, Skype, and Tesla. Draper has earned acclaim for his ability to spot transformative technologies before they gain mainstream traction. This keen insight led him to become one of the most vocal advocates for [Bitcoin](/what-is-bitcoin) and [Web3](/what-is-web3).
+Tim Draper stands out as a prominent venture capitalist and a founding partner of Draper Fisher Jurvetson (DFJ) and Draper Associates. His early investments include high-profile disruptors like Hotmail, Skype, and Tesla. Draper has earned acclaim for his ability to spot new technologies before they gain mainstream traction. This keen insight led him to become one of the most vocal advocates for [Bitcoin](/what-is-bitcoin) and [Web3](/what-is-web3).
 
-Draper has played a foundational role in the cryptocurrency sector. His unwavering belief in Bitcoin as a transformative technology, his notable auction purchase of seized bitcoins, and his ambitious predictions about the future of finance and governance illustrate his commitment to this space.
+Draper has played a foundational role in the cryptocurrency sector. His unwavering belief in Bitcoin as a new technology, his notable auction purchase of seized bitcoins, and his ambitious predictions about the future of finance and governance illustrate his commitment to this space.
 
 ### A Legacy of Disruptive Investing
 
