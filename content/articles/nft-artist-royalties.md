@@ -128,26 +128,3 @@ Grasping the concept of NFT royalties is vital for professional success in the d
 
 5. **Measure and Adjust:** Regularly monitor your progress. Are you seeing the desired results? Adjust your approach based on feedback and outcomes. This commitment to continuous improvement is essential for long-term success.
 
-## Real-World Applications
-
-### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with NFT royalties until she adopted a structured approach. Within three months, she reported an increase in her royalty earnings by implementing EIP-2981 and actively engaging with her community.
-
-### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), experienced difficulties with royalty enforcement. By applying a combination of community building and transparent communication, he successfully increased creator support, leading to a rise in royalties over six months.
-
-### Example 3
-Maya, transitioning from Web2 to Web3, used these strategies to adapt quickly. Her proactive approach to understanding and implementing NFT royalties allowed her to establish a strong network and gain traction in the new environment.
-
-## Common Pitfalls to Avoid
-
-1. **Rushing the Process:** Sustainable change requires time. Avoid expecting overnight results.
-
-2. **Ignoring Feedback:** Input from colleagues and mentors is invaluable. Be attentive to their perspectives.
-
-3. **One-Size-Fits-All Approach:** Tailor strategies to your unique context. What works for one individual may not work for another.
-
-4. **Giving Up Too Soon:** Change often brings discomfort. Push through initial challenges to achieve better outcomes.
-
-5. **Neglecting Progress Tracking:** Measurement is important for improvement. Maintain metrics on your progress to identify areas for growth.
-

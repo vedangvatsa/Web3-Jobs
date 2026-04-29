@@ -76,15 +76,3 @@ While your position is active, the unrealized PnL is computed using the Mark Pri
 | **Impact on Trades** | Reflects true market conditions             | Affected by immediate market activity | Affects liquidation risk and unrealized PnL      |
 | **Calculation Method** | Volume-weighted average of spot prices   | Based on the order book      | Combination of Index Price and moving average of basis |
 
-## Common Mistakes to Avoid
-
-1. **Neglecting Price Sources**: Traders often focus on the Last Price alone. Understanding both the Index and Mark Prices offers a complete view of market conditions and risk.
-
-2. **Ignoring Market Trends**: Failing to consider broader market movements can lead to unexpected liquidations. Always analyze market trends along with price metrics.
-
-3. **Overlooking the Basis**: The relationship between the Mark Price and Last Price (the basis) can provide insights into market sentiment. A widening basis might indicate underlying volatility.
-
-4. **Miscalculating Liquidation Risks**: Relying solely on the Last Price for liquidation assessments can be detrimental. Always prioritize the Mark Price to gauge your true liquidation risk.
-
-5. **Focusing Only on Short-Term Movements**: Traders can get caught up in short-term price swings. A longer-term perspective can help avoid panic-driven decisions.
-

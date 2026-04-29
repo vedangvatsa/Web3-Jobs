@@ -117,23 +117,3 @@ Grasping price impact is vital for professionals in the Web3 space. Mastering th
 
 5. **Continuously Monitor and Adapt**: Regularly evaluate your trading performance. Use feedback to make necessary adjustments, building a mindset geared toward continuous improvement.
 
-### Real-World Trading Scenarios
-
-- **Scenario 1**: Sarah, a developer at a blockchain startup, faced challenges with price impact when trading significant amounts of ETH. After implementing strategies to focus on high liquidity pools and using DEX aggregators, she reduced her price impact significantly within two months.
-
-- **Scenario 2**: Juan, a product manager in DeFi, encountered difficulties executing large trades without incurring high price impact. By breaking his trades into smaller segments and prioritizing liquid pools, he achieved favorable execution prices, demonstrating the effectiveness of these strategies.
-
-- **Scenario 3**: Maya transitioned from Web2 to Web3 and faced initial hurdles with DEX trading. By applying a structured approach to understanding price impact, she quickly adapted to the new environment, successfully executing trades with minimal adverse effects.
-
-### Common Pitfalls to Avoid
-
-1. **Expecting Immediate Results**: Sustainable improvement takes time. Avoid rushing through the learning process.
-   
-2. **Neglecting Feedback**: Input from peers and mentors can illuminate blind spots. Stay receptive to constructive criticism.
-
-3. **Applying a One-Size-Fits-All Approach**: Tailor strategies to fit your unique trading context. What works for others may not suit your specific circumstances.
-
-4. **Quitting Too Soon**: Persistence is key. Embrace the discomfort of change to achieve positive outcomes.
-
-5. **Failing to Track Performance**: Establish metrics to monitor trading performance. Quantifiable data drives informed decision-making.
-

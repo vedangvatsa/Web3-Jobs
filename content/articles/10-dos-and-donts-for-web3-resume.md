@@ -104,24 +104,3 @@ For a Web3 role, organize your resume as follows:
 5. **Web3 Community** (hackathons, governance, open-source)
 6. **Education** (brief, at the bottom)
 
-## Common Mistakes by Role Type
-
-**Developers:** Avoid listing languages without demonstrating shipped code. Always include links to live deployments or significant GitHub contributions.
-
-**Marketers:** Refrain from focusing solely on brand names without attribution. "Managed marketing at a well-known protocol" is weaker than "Led a major launch campaign, resulting in a significant increase in users and value."
-
-**Product Managers:** Do not overemphasize processes like "ran sprints, wrote PRDs." Instead, focus on outcomes, such as "shipped feature that increased daily active users significantly."
-
-**Business Development:** Avoid listing partnership names without deal terms. Highlight revenue generated, users acquired, or integrations completed to showcase your impact.
-
-## Final Check
-
-Before submitting, ensure your resume meets these five criteria:
-
-1. Does every bullet point contain at least one number?
-2. Can a recruiter identify your target role within five seconds?
-3. Are all links functional (GitHub, Etherscan, portfolio)?
-4. Is it one page (or two maximum for senior roles)?
-5. Did you customize it for this specific company and role?
-
-By following these guidelines, you can craft a strong resume that stands out in the competitive Web3 job market.
