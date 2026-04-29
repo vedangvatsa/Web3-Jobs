@@ -217,13 +217,3 @@ The value of relationships increases over time:
 - Someone you mentor might evolve into your co-founder.
 - The communities you cultivate may transform into reliable DAOs.
 
-## Next Steps in Your Networking Journey
-
-1. Identify five individuals whose work you admire.
-2. Engage authentically with their content.
-3. Find a natural way to connect through shared interests or events.
-4. Initiate a conversation to explore mutual interests.
-5. Commit to maintaining contact.
-
-In Web3, your network significantly contributes to your career trajectory. Invest time and effort in your relationships, and they will yield returns throughout your professional journey.
-

@@ -102,26 +102,3 @@ Avoid making sweeping changes all at once. Start with one small adjustment and b
 
 Continuously evaluate your progress. Are you achieving desired outcomes? Adjust your strategy based on feedback and results. Embrace a mindset of continuous improvement.
 
-### Real-World Examples
-
-#### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced significant challenges during her salary negotiations. After implementing strategic negotiation techniques over a three-month period, she secured a notable increase in her salary, reflecting her enhanced understanding of market value.
-
-#### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), encountered difficulties with initial negotiation attempts. By applying the strategies outlined here, he successfully negotiated a salary increase along with additional vacation days. His experience illustrates the effectiveness of these principles across different roles.
-
-#### Example 3
-Maya transitioned from Web2 to Web3 and applied these negotiation strategies to adapt swiftly to her new environment. She managed to negotiate not only a competitive salary but also stock options, demonstrating the applicability of these techniques regardless of industry background.
-
-### Common Mistakes to Avoid
-
-1. **Rushing the Process:** Sustainable change requires time. Patience is essential for achieving meaningful results.
-   
-2. **Ignoring Feedback:** Colleagues, managers, and mentors offer valuable insights. Pay attention to their observations.
-   
-3. **One-Size-Fits-All Approach:** Tailor strategies to your unique context. What works for one person may not work for another.
-   
-4. **Giving Up Too Soon:** Change can be uncomfortable. Persist through initial challenges to achieve better results.
-   
-5. **Not Tracking Progress:** Measurement is critical for improvement. Keep metrics to evaluate your negotiation outcomes.
-
