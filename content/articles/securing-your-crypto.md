@@ -7,7 +7,7 @@ category: "Career Guides"
 data-ai-hint: "crypto security"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-28"
+lastUpdated: "2026-04-29"
 ---
 
 In [Web3](/what-is-web3), you are your own bank. This fundamental principle is both a feature and a challenge. You have complete control of your assets. But with that control comes responsibility. If someone steals your private key, your assets are gone. There's no customer service to recover them. There's no insurance protecting you (in most cases).
