@@ -22,7 +22,7 @@ Boston's Web3 ecosystem mirrors its core strengths: academic excellence and fina
 
 - **Connection to Traditional Finance**: As a major center for asset management and financial services, Boston is key for companies bridging Traditional Finance (TradFi) and [DeFi](/what-is-defi). Numerous projects focus on institutional custody, digital asset management, and compliant DeFi solutions.
 
-- **Technical Talent Pool**: The city's thriving tech and biotech sectors have cultivated a wealth of experienced engineers, data scientists, and quantitative analysts who are increasingly attracted to the intricate challenges presented by Web3.
+- **Technical Talent Pool**: The city's growing tech and biotech sectors have cultivated a wealth of experienced engineers, data scientists, and quantitative analysts who are increasingly attracted to the intricate challenges presented by Web3.
 
 - **Community Engagement**: The Boston Web3 community emphasizes technical discussions over marketing hype. Events and meetups often center on research papers and in-depth protocol debates, creating an excellent environment for serious developers and researchers.
 

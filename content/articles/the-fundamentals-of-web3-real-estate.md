@@ -20,7 +20,7 @@ The advent of [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) tech
 
 Understanding how Web3 addresses these issues requires an examination of the key challenges present in traditional real estate:
 
-1. **High Capital Requirements**: Acquiring a property, particularly commercial real estate, often necessitates a substantial upfront investment. This financial barrier excludes many individuals from participating in property ownership.
+1. **High Capital Requirements**: Acquiring a property, particularly commercial real estate, often requires a substantial upfront investment. This financial barrier excludes many individuals from participating in property ownership.
 
 2. **Illiquidity**: The sale of a property can span months or even years. Investors face the risk of having their capital illiquid for extended periods, making financial planning difficult.
 

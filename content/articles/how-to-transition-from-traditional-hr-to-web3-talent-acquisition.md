@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 The [Web3](/what-is-web3) industry is currently experiencing rapid growth, but it faces a significant challenge: a shortage of skilled talent. This gap has led to increased demand for HR and Talent Acquisition professionals who can address the unique requirements of the crypto job market. For individuals with a background in traditional HR, this situation presents an opportunity to innovate new work models and organizational structures.
 
-Transitioning to a [crypto-native HR role](/the-rise-of-the-crypto-native-hr-professional) differs significantly from a conventional corporate HR position. It necessitates a shift in how you apply your existing skills, particularly in remote work, [token](/what-is-a-token)-based compensation, and decentralized communities. This article outlines a strategy for making that transition successfully.
+Transitioning to a [crypto-native HR role](/the-rise-of-the-crypto-native-hr-professional) differs significantly from a conventional corporate HR position. It requires a shift in how you apply your existing skills, particularly in remote work, [token](/what-is-a-token)-based compensation, and decentralized communities. This article outlines a strategy for making that transition successfully.
 
 ### The Mindset Shift: From Gatekeeper to Community Builder
 
@@ -34,7 +34,7 @@ While your traditional HR skills remain valuable, they require adaptation for th
 - **New Way:** Crafting complex compensation packages that incorporate fiat salary, equity, and token grants. You must understand vesting schedules, the tax implications of tokens, and how to communicate both the potential upside and risks associated with token compensation. Our guide to token compensation provides foundational knowledge.
 
 **3. Culture and Employee Relations:**
-- **Old Way:** Cultivating culture in a traditional office setting.
+- **Old Way:** Building culture in a traditional office setting.
 - **New Way:** Building a culture for a globally distributed, remote-first team. This requires a strong emphasis on asynchronous communication, thorough documentation, and deliberate online events, as well as in-person meetups.
 
 ### How to Transition to Web3 HR

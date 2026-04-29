@@ -24,7 +24,7 @@ A typical Solidity interview consists of multiple stages:
 
 3. **Core Technical Interview:** This key stage involves a live session with one or more engineers, featuring a mix of conceptual questions and a live coding challenge.
 
-4. **Systems Design/Architecture Interview:** For senior roles, you may be asked to design the architecture of a simple [DeFi](/what-is-defi) protocol or a decentralized application (dApp). This segment assesses your ability to think holistically about the system, encompassing both on-chain and off-chain components.
+4. **Systems Design/Architecture Interview:** For senior roles, you may be asked to design the architecture of a simple [DeFi](/what-is-defi) protocol or a decentralized application (dApp). This segment assesses your ability to think completeally about the system, encompassing both on-chain and off-chain components.
 
 ### Key Areas of Knowledge to Master
 

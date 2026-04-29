@@ -84,7 +84,7 @@ The voluntary model is currently the dominant approach in the NFT market. Market
 Allowlist enforcement involves embedding code in the NFT contract that restricts transfers to marketplaces that commit to honoring royalties.
 
 - **Advantages:** This model grants creators greater control and can effectively enforce royalty payments.
-- **Disadvantages:** Critics argue it undermines decentralization and necessitates ongoing maintenance.
+- **Disadvantages:** Critics argue it undermines decentralization and requires ongoing maintenance.
 
 ### Community and Brand Model
 
@@ -110,7 +110,7 @@ Artists planning an NFT launch must move beyond the outdated "set it and forget 
 4. **Offer Utility:** Provide NFT holders with benefits beyond the artwork itself, such as access to exclusive content or private forums. When NFTs offer ongoing utility, collectors are more likely to prioritize the creator's ecosystem.
 5. **Educate Your Collectors:** Clearly communicate your royalty policy and explain its importance for your sustainability as a creator.
 
-The debate over NFT royalties continues, reflecting the growing pains of the Web3 ecosystem as it seeks to balance absolute ownership with sustainable creator economies. While the initial vision of automatically enforced royalties faces challenges, the ongoing conversation prompts a more mature and nuanced approach. Creators can manage this field by combining technical standards, community engagement, and transparent communication.
+The debate over NFT royalties continues, reflecting the growing pains of the Web3 ecosystem as it seeks to balance absolute ownership with sustainable creator economies. While the initial vision of automatically enforced royalties faces challenges, the ongoing conversation prompts a more mature and careful approach. Creators can manage this field by combining technical standards, community engagement, and transparent communication.
 
 ## Importance of Understanding NFT Royalties
 

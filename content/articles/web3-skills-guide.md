@@ -42,7 +42,7 @@ Understanding the mechanics of [decentralized finance](/what-is-defi) is importa
 
 ### 4. Business & Soft Skills
 
-Technical knowledge alone does not suffice in Web3. Community engagement and communication skills are paramount.
+Technical knowledge alone does not suffice in Web3. Community engagement and communication skills are essential.
 
 - **Community Building**: Develop skills in growing and nurturing crypto communities to support engagement and loyalty.
 - **Technical Writing**: Learn to articulate complex concepts clearly, making them accessible to various audiences.

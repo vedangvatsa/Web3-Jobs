@@ -178,7 +178,7 @@ Salaries in Mauritius are premium due to its status as a regulated financial cen
 - *Solution*: This scarcity draws remote work opportunities and increases salary offers.
 
 **Challenge 5: Visa Requirements**
-- *Reality*: Working in Mauritius often necessitates sponsorship.
+- *Reality*: Working in Mauritius often requires sponsorship.
 - *Solution*: Many employers are experienced with the visa process and actively seek international talent.
 
 ### 90-Day Quick-Start Action Plan

@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 In Web3, performance remains a fundamental characteristic. For a blockchain network to accommodate mainstream applications, it must deliver speed, low costs, and reliability. A decentralized application (dApp) needs to be gas-efficient and ensure a smooth user experience. This demand has led to an increased need for **Web3 Performance Optimization Engineers**, a specialized role dedicated to enhancing the efficiency of decentralized systems.
 
-Performance Optimization Engineers excel in identifying and resolving bottlenecks across various levels, including the [smart contract](/what-are-smart-contracts) level, the client level, and the network level. This role necessitates a thorough understanding of the entire blockchain stack.
+Performance Optimization Engineers excel in identifying and resolving bottlenecks across various levels, including the [smart contract](/what-are-smart-contracts) level, the client level, and the network level. This role requires a thorough understanding of the entire blockchain stack.
 
 ### Areas of Specialization
 

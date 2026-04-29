@@ -60,7 +60,7 @@ Gene editing differs from traditional genetically modified organisms (GMOs). Tra
 CRISPR boasts remarkable accuracy; however, it is not infallible. There is a risk of "off-target effects," where the Cas9 enzyme cuts DNA at unintended locations. Researchers are actively developing refined versions of CRISPR systems to enhance precision and minimize these risks.
 
 **Is gene editing available as a treatment today?**  
-Yes, gene editing therapies are available but in limited capacities. Recent approvals in the United States and Europe have emerged for therapies targeting blood disorders such as sickle cell anemia and beta-thalassemia. Numerous other gene editing treatments are currently undergoing clinical trials, marking significant progress in this burgeoning field.
+Yes, gene editing therapies are available but in limited capacities. Recent approvals in the United States and Europe have emerged for therapies targeting blood disorders such as sickle cell anemia and beta-thalassemia. Numerous other gene editing treatments are currently undergoing clinical trials, marking significant progress in this growing field.
 
 ### Why This Matters
 

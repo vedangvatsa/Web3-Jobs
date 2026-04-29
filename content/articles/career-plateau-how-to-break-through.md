@@ -41,7 +41,7 @@ If upward mobility seems limited, consider broadening your role laterally. This 
 
 - **Volunteer for Cross-Functional Projects:** Participate in product launches or marketing campaigns within your organization. Collaborating with other departments exposes you to different perspectives and can enhance your visibility.
 - **Mentor a New Hire:** Sharing your expertise with a newcomer helps reinforce your knowledge and develop your leadership abilities. This interaction can also provide fresh insights into your own work.
-- **Become the Expert:** Identify a knowledge gap within your team. Focus on becoming proficient in a new technology or process that others struggle with. This effort increases your value and can make you indispensable.
+- **Become the Expert:** Identify a knowledge gap within your team. Focus on becoming proficient in a new technology or process that others struggle with. This effort increases your value and can make you essential.
 
 #### 2. Seek New Learning Opportunities
 

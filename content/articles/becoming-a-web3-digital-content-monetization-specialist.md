@@ -26,7 +26,7 @@ A Web3 Digital Content Monetization Specialist acts as an agent, strategist, and
    - **[Royalty Strategy](/nft-artist-royalties):** Provide guidance on establishing and enforcing royalty structures for secondary market sales.
    - **Minting Mechanics:** Design the minting process, incorporating options like allowlists or Dutch auctions to generate interest.
 
-3. **Community Building:** A thriving Web3 presence relies heavily on community engagement. The specialist facilitates the creation of a dedicated community of collectors and fans. This often involves using tools like [token](/what-is-a-token)-gated Discord channels to encourage interaction.
+3. **Community Building:** A growing Web3 presence relies heavily on community engagement. The specialist facilitates the creation of a dedicated community of collectors and fans. This often involves using tools like [token](/what-is-a-token)-gated Discord channels to encourage interaction.
 
 4. **Exploring Advanced Monetization Tools:** The role extends beyond a single NFT release. Specialists help creators consider various Web3 tools, such as:
    - **Social Tokens:** Develop personal tokens that grant fans access to exclusive content or governance rights.

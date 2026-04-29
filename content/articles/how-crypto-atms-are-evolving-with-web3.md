@@ -38,7 +38,7 @@ The current evolution of crypto ATMs positions them as gateways to the broader W
 
 ## The Business and Career Sector
 
-The ecosystem surrounding crypto ATMs consists of hardware manufacturers, software developers, and compliance experts. Each of these roles plays a vital part in the industry's growth.
+The ecosystem surrounding crypto ATMs consists of hardware manufacturers, software developers, and compliance experts. Each of these roles is an important part in the industry's growth.
 
 | Role                     | Responsibilities                                                                 |
 |--------------------------|---------------------------------------------------------------------------------|

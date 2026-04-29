@@ -55,5 +55,5 @@ Your resume should reflect the distinct values of the Web3 space.
 - **Include Your ENS Name:** An ENS name (like `yourname.[eth](/what-is-ethereum)`) indicates your status as a crypto-native user.
 - **Tailor Your Language:** Use Web3-specific terminology to demonstrate your understanding of the space.
 
-The Web3 job market represents more than just a new sector; it offers a chance to be an owner rather than just an employee. By developing the right skills, engaging with the community, and showcasing your "proof of work," you can set yourself up for a rewarding career in this dynamic field. The future is being built now, and today presents an excellent opportunity to become a builder in this new era.
+The Web3 job market represents more than just a new sector; it offers a chance to be an owner rather than just an employee. By developing the right skills, engaging with the community, and showcasing your "proof of work," you can set yourself up for a rewarding career in this fast-moving field. The future is being built now, and today presents an excellent opportunity to become a builder in this new era.
 

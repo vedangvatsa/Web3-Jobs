@@ -150,7 +150,7 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 
 **Advantage:**
 - Swahili-speaking Web3 expertise is scarce and therefore highly valuable.
-- Existing mobile money infrastructure presents unique on-ramp opportunities.
+- Existing mobile money infrastructure offers on-ramp opportunities.
 - An expanding pool of tech talent is available.
 - The government shows increasing openness toward fintech and CBDCs.
 

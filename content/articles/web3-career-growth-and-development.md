@@ -167,7 +167,7 @@ Transitioning to a leadership role in Web3 often diverges from traditional corpo
 
 ### Lead Without Authority
 
-In decentralized organizations, leadership often does not come with a title. This necessitates a different skill set:
+In decentralized organizations, leadership often does not come with a title. This requires a different skill set:
 
 #### Strategies for Leading Without a Title:
 1. **Build a Track Record:** Consistently meet commitments; reliability establishes your authority.

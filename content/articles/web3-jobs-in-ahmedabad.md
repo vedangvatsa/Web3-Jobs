@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 Ahmedabad, the largest city in Gujarat, is emerging as a significant player in India's [Web3](/what-is-web3) sector. The city has a vibrant entrepreneurial spirit and a rapidly expanding IT sector, which are both important for building innovation in blockchain technology. While it does not yet rival the density of Web3 projects found in Bangalore or Mumbai, Ahmedabad's unique environment presents numerous opportunities. The focus on enterprise applications, coupled with a supportive local business community and lower operational costs, makes it an attractive destination for startups and established firms alike.
 
-The Web3 ecosystem in Ahmedabad is in an exciting growth phase. Established IT companies are increasingly exploring blockchain technology, while new startups are looking into [DeFi](/what-is-defi) and [NFT](/what-are-nfts) applications. This guide outlines the current state of [Web3 careers](/web3-jobs-for-beginners) in Ahmedabad, highlighting industry trends, in-demand roles, and ways to engage with this burgeoning ecosystem.
+The Web3 ecosystem in Ahmedabad is in an exciting growth phase. Established IT companies are increasingly exploring blockchain technology, while new startups are looking into [DeFi](/what-is-defi) and [NFT](/what-are-nfts) applications. This guide outlines the current state of [Web3 careers](/web3-jobs-for-beginners) in Ahmedabad, highlighting industry trends, in-demand roles, and ways to engage with this growing ecosystem.
 
 ### The Ahmedabad Web3 Ecosystem
 

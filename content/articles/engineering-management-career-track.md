@@ -41,7 +41,7 @@ This role marks the first formal management position and represents a substantia
     - **Team Process:** Ensure the team follows effective processes, such as agile sprints and code review norms.
     - **Shielding the Team:** Protect the team from distractions and external pressures, allowing them to concentrate on development.
     - **Cross-functional Collaboration:** Collaborate with Product Managers and Designers to plan the product roadmap.
-- **The Skill Shift:** Relational skills become paramount. Success now hinges on communication, empathy, and coaching rather than technical prowess. Many new EMs struggle with the transition from coding to focusing on team dynamics.
+- **The Skill Shift:** Relational skills become essential. Success now hinges on communication, empathy, and coaching rather than technical prowess. Many new EMs struggle with the transition from coding to focusing on team dynamics.
 
 ### Level 2: Director of Engineering
 

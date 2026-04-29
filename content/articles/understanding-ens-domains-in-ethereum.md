@@ -46,7 +46,7 @@ Every ENS name functions as an **[NFT (Non-Fungible Token)](/what-are-nfts)** th
 
 ### The Role of ENS in Facilitating Web3 Adoption
 
-ENS plays a vital role in making Web3 more accessible. By replacing long, unreadable addresses with simple, memorable names, ENS enhances user experience and reduces intimidation for newcomers. This innovation significantly contributes to building a more human-readable and usable decentralized internet.
+ENS is important for making Web3 more accessible. By replacing long, unreadable addresses with simple, memorable names, ENS enhances user experience and reduces intimidation for newcomers. This innovation significantly contributes to building a more human-readable and usable decentralized internet.
 
 ## The Importance of Understanding ENS
 

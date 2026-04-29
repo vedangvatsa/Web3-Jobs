@@ -40,7 +40,7 @@ Several notable projects are leading the charge in decentralized computing:
 | **Akash Network**   | A decentralized computing marketplace built on the [Cosmos SDK](/exploring-cosmos-sdk-for-web3-development). Focuses on general-purpose compute for applications like dApp backends and blockchain nodes. | Cost-effective, flexible compute options, open-source |
 | **Render Network**  | A decentralized network designed for GPU rendering, enabling 3D artists and animation studios to tap into a global network of idle GPUs. | Fast, affordable rendering, community-driven |
 
-Decentralized Compute plays a vital role in the "DePIN" (Decentralized Physical Infrastructure Networks) narrative. While still nascent, it promises to build a more open, resilient, and competitive market for one of the essential resources in the digital age: computation.
+Decentralized Compute is important for the "DePIN" (Decentralized Physical Infrastructure Networks) narrative. While still nascent, it promises to build a more open, resilient, and competitive market for one of the essential resources in the digital age: computation.
 
 ### Importance of Decentralized Compute
 

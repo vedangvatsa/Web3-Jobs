@@ -18,7 +18,7 @@ Before we dive into the list, let's establish the criteria for what makes a city
 *   **Cost of Living:** Can you live comfortably without breaking the bank? This includes rent, food, transportation, and entertainment.
 *   **Internet Reliability:** Fast, stable internet is non-negotiable. We're looking for cities with widespread fiber optic or high-speed broadband. Work interruptions due to connectivity are productivity killers.
 *   **Safety & Quality of Life:** You need to feel safe and have access to good healthcare, clean environments, and recreational activities.
-*   **Community:** A thriving community of other remote workers can make a huge difference, providing a social network and professional connections.
+*   **Community:** A growing community of other remote workers can make a huge difference, providing a social network and professional connections.
 *   **Visa and Legal Status:** Can you stay long-term? Do digital nomad visas exist? What are the tax implications?
 *   **Time Zone:** Is the city in a convenient time zone for your clients or employer?
 *   **Lifestyle Alignment:** Does the city culture match your values and work style?
@@ -66,9 +66,9 @@ The internet is reliable (fiber optic widely available), and there are countless
 
 ### 3. Medellín, Colombia
 
-Once known for its troubled past, Medellín has transformed into a hub of innovation, culture, and growth. It boasts a perfect "eternal spring" climate year-round, a modern public transportation system, and a thriving tech and startup scene. The cost of living is very affordable.
+Once known for its troubled past, Medellín has transformed into a hub of innovation, culture, and growth. It boasts a perfect "eternal spring" climate year-round, a modern public transportation system, and a growing tech and startup scene. The cost of living is very affordable.
 
-The city has a burgeoning remote worker community and numerous coworking spaces. The Colombian government offers a Remote Work Visa specifically for digital nomads. The tech scene is growing rapidly, making it a great place for networking in the startup community.
+The city has a growing remote worker community and numerous coworking spaces. The Colombian government offers a Remote Work Visa specifically for digital nomads. The tech scene is growing rapidly, making it a great place for networking in the startup community.
 
 **Pros:**
 - Perfect spring climate year-round

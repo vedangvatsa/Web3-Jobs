@@ -20,7 +20,7 @@ The role of a BizDev professional in Web3 diverges significantly from traditiona
 
 - **Focus on Alliances Rather Than Product Sales**: Unlike selling a Software as a Service (SaaS) product, individuals in this role create meaningful alliances. The emphasis is on mutual growth rather than a straightforward client-vendor dynamic.
 - **In-Depth Technical Understanding**: Success in this role requires a detailed understanding of the underlying technology. Professionals must interpret technical documentation, grasp a protocol's architecture, and pinpoint new integration opportunities.
-- **Reputation and Trust**: The Web3 ecosystem is relatively small and tightly knit. A professional's reputation and network serve as critical assets. Building trust relies on cultivating genuine relationships and demonstrating a history of creating value.
+- **Reputation and Trust**: The Web3 ecosystem is relatively small and tightly knit. A professional's reputation and network serve as critical assets. Building trust relies on Building genuine relationships and demonstrating a history of creating value.
 
 ### Core Responsibilities
 

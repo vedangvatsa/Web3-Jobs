@@ -32,7 +32,7 @@ The Web3 field is rife with complex discussions and trade-offs. Interviewers see
 **The Question:** "What do you think is the biggest challenge facing [Ethereum](/what-is-ethereum) today?" or "What's an underrated project you find exciting?"
 
 **How to Prepare:**
-- **Avoid Generic Responses:** Instead of stating "scalability," offer a nuanced perspective like, "Even though Layer 2 solutions have alleviated some scalability issues, I believe the fragmentation of liquidity and user experience across rollups poses a significant challenge. The next step involves enhancing cross-L2 interoperability."
+- **Avoid Generic Responses:** Instead of stating "scalability," offer a specific perspective like, "Even though Layer 2 solutions have alleviated some scalability issues, I believe the fragmentation of liquidity and user experience across rollups poses a significant challenge. The next step involves enhancing cross-L2 interoperability."
 - **Express a Unique Perspective:** Formulate a thesis on a specific market sector. For instance, articulate why you think decentralized social media holds more potential than Web3 gaming, or vice versa.
 - **"Strong Opinions, Loosely Held":** Convey your point of view while showing openness to new information that might alter your stance.
 

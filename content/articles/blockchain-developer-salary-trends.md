@@ -77,5 +77,5 @@ While the Web3 industry embraces remote work, geographic location still influenc
 | Tier 3       | Asia - Singapore, Hong Kong                | Strong salaries; typically somewhat lower than US benchmarks. |
 | Tier 4       | Remote - Global                            | Salaries standardize, but can vary; senior developers in lower cost-of-living areas may earn competitive salaries. |
 
-The Web3 job market presents some of the most lucrative opportunities in technology. The demand for skilled developers, particularly those well-versed in security and protocol architecture, significantly outpaces the supply. By building valuable skills and maintaining a strong public [portfolio](/building-web3-portfolio) of work, developers can position themselves for rewarding careers at the forefront of technological innovation.
+The Web3 job market presents some of the most lucrative opportunities in technology. The demand for skilled developers, particularly those well-versed in security and protocol architecture, significantly outpaces the supply. By building valuable skills and maintaining a strong public [portfolio](/building-web3-portfolio) of work, developers can prepare for rewarding careers at the forefront of technological innovation.
 

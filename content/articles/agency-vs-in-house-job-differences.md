@@ -27,7 +27,7 @@ In-house life emphasizes depth and specialization.
 
 - **Single Brand Focus:** You immerse yourself in one brand, product, and industry, dedicating your efforts to the long-term success of that company.
 - **Long-Term Strategy:** You engage with the entire lifecycle of a product or marketing strategy, from conception through execution to maintenance and iteration.
-- **Cross-Functional Collaboration:** Working closely with other departments such as sales, product development, and engineering provides a holistic view of the business.
+- **Cross-Functional Collaboration:** Working closely with other departments such as sales, product development, and engineering provides a complete view of the business.
 
 ### Skill Development
 

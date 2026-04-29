@@ -40,4 +40,4 @@ Most contemporary Web3 projects do not adopt a fair launch model. Instead, they 
 
 Executing a fair launch is ideologically appealing but poses numerous challenges in the current Web3 environment.
 
-- **Funding Requirements**: Developing a sophisticated protocol necessitates substantial capital for developers, auditors, and marketing. Pre-mined token sales to VCs provide a straightforward funding solution.
+- **Funding Requirements**: Developing a sophisticated protocol requires substantial capital for developers, auditors, and marketing. Pre-mined token sales to VCs provide a straightforward funding solution.

@@ -26,7 +26,7 @@ When documenting the project, focus on quantifying your achievement. Rather than
 
 #### Promotion or Role Change
 
-A promotion or a significant shift in responsibilities necessitates an immediate resume update. Your new title and duties should be accurately reflected. This moment also allows you to reassess how you present your previous role. You can now illustrate your previous responsibilities as foundational experiences that contributed to your promotion, showcasing a clear trajectory of growth.
+A promotion or a significant shift in responsibilities requires an immediate resume update. Your new title and duties should be accurately reflected. This moment also allows you to reassess how you present your previous role. You can now illustrate your previous responsibilities as foundational experiences that contributed to your promotion, showcasing a clear trajectory of growth.
 
 When updating your title, revise the bullet points to reflect your current scope of work. Consider what new responsibilities you have assumed, whether you manage a team or oversee a budget, and make these duties explicit.
 

@@ -48,7 +48,7 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 
 2. **Develop World-Class Remote Skills:** The most lucrative positions are remote. Concentrate on creating an exceptional GitHub [portfolio](/building-web3-portfolio) that competes globally. Enhance your asynchronous communication skills and professional English proficiency.
 
-3. **Serve as a Local Educator:** The burgeoning market requires educators. Start a Web3 meetup group in Maputo and conduct workshops on NFT minting. Generate educational content in Portuguese. By teaching, you establish yourself as a leader.
+3. **Serve as a Local Educator:** The growing market requires educators. Start a Web3 meetup group in Maputo and conduct workshops on NFT minting. Generate educational content in Portuguese. By teaching, you establish yourself as a leader.
 
 4. **Connect with Brazilian and Portuguese Ecosystems:** Engage with Web3 communities in Brazil and Portugal. The shared language provides a significant advantage. These connections can lead to mentorship, collaborations, and job opportunities.
 

@@ -66,5 +66,5 @@ Consortium blockchains blend elements of both public and private models. They ar
 
 ### Assessing the Right Blockchain Model
 
-Choosing between a public, private, or consortium blockchain hinges on the specific use case and objectives of the application. Public blockchains lay the groundwork for a genuinely open and censorship-resistant **[Web3](/what-is-web3)**. Conversely, private and consortium blockchains provide practical solutions for enterprises to apply the efficiency and transparency of blockchain technology in a controlled environment. Each model presents unique trade-offs, and grasping these differences is essential for understanding blockchain's full potential.
+Choosing between a public, private, or consortium blockchain hinges on the specific use case and objectives of the application. Public blockchains lay the groundwork for a genuinely open and censorship-resistant **[Web3](/what-is-web3)**. Conversely, private and consortium blockchains provide practical solutions for enterprises to apply the efficiency and transparency of blockchain technology in a controlled environment. Each model offers trade-offs, and grasping these differences is essential for understanding blockchain's full potential.
 

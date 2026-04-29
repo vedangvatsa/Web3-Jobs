@@ -73,7 +73,7 @@ Complex user experiences hinder Web3 adoption. AI can simplify interactions.
 
 ### The Future: A Cooperative Ecosystem
 
-The intersection of AI and Web3 is unfolding currently, not in some distant future. Numerous projects are developing decentralized AI protocols, verifiable machine learning models, and intelligent on-chain agents. This fusion represents a new frontier for innovation and offers numerous [hybrid career opportunities](/ai-and-web3-hybrid-careers) for professionals who can bridge these domains.
+The intersection of AI and Web3 is unfolding currently, not in some distant future. Numerous projects are developing decentralized AI protocols, verifiable machine learning models, and intelligent on-chain agents. This fusion represents a new frontier for innovation and offers many [hybrid career opportunities](/ai-and-web3-hybrid-careers) for professionals who can bridge these domains.
 
 By enhancing AI's transparency and accountability while simultaneously making Web3 more intelligent and accessible, these technologies can work together to create a more equitable and user-owned future.
 

@@ -16,7 +16,7 @@ A Web3 DevRel embodies a hybrid professional, combining the skills of an enginee
 
 ### Role of a DevRel Engineer
 
-The daily responsibilities of a DevRel engineer are diverse and multifaceted. They act as the core "empathy engine" for developers.
+The daily responsibilities of a DevRel engineer are diverse and complex. They act as the core "empathy engine" for developers.
 
 **Key Responsibilities:**
 

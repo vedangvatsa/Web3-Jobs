@@ -16,7 +16,7 @@ Professionals investing in or developing within the [Web3](/what-is-web3) ecosys
 
 ### Component 1: Supply
 
-The mechanics of a token's supply form the foundation of its design. Key principles such as scarcity and inflation play significant roles in determining value.
+The mechanics of a token's supply form the foundation of its design. Key principles such as scarcity and inflation play important roles in determining value.
 
 - **Maximum Supply:** Does the token have a cap on its total supply? For instance, [Bitcoin](/what-is-bitcoin) has a fixed limit of 21 million tokens, classifying it as a deflationary asset akin to digital gold.
 - **Circulating Supply:** What is the current number of tokens available for trading on the market?

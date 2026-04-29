@@ -32,7 +32,7 @@ GM signifies more than a simple greeting. It encapsulates several key concepts w
 
 **Commitment** is also implied. Regularly saying GM indicates genuine engagement with the crypto space rather than casual observation. It demonstrates that one is actively involved and invested in the community.
 
-**Culture and identity** play a significant role. Using GM signals familiarity with crypto culture. It distinguishes insiders from outsiders. For crypto natives, this social signaling holds considerable importance.
+**Culture and identity** play a important role. Using GM signals familiarity with crypto culture. It distinguishes insiders from outsiders. For crypto natives, this social signaling holds considerable importance.
 
 ## GM in Practice
 

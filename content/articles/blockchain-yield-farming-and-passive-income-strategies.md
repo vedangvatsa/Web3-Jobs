@@ -49,5 +49,5 @@ Yield farming is not a passive investment; it is an active strategy rife with ri
 - **Smart Contract Risk:** Bugs in the code of the protocol can lead to vulnerabilities. If exploited, hackers could drain liquidity pools, resulting in total loss of deposited funds. This risk escalates with new, unaudited protocols.
 - **Liquidation Risk:** Some advanced yield farming strategies involve borrowing assets to enhance returns. If market conditions turn unfavorable, collateral may be liquidated, leading to complete loss.
 
-Yield farming plays a vital role in the DeFi ecosystem. It acts as a high-risk, high-reward venture requiring extensive knowledge and active management. For the DeFi ecosystem, yield farming facilitates liquidity for new protocols, while for skilled users, it provides an opportunity to put crypto assets to work and earn returns that far exceed traditional financial avenues.
+Yield farming is important for the DeFi ecosystem. It acts as a high-risk, high-reward venture requiring extensive knowledge and active management. For the DeFi ecosystem, yield farming facilitates liquidity for new protocols, while for skilled users, it provides an opportunity to put crypto assets to work and earn returns that far exceed traditional financial avenues.
 

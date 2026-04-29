@@ -48,5 +48,5 @@ Despite being internet-native, in-person events present high-value networking op
 3. **Create Value for Them:** Find ways to assist. If they publish an insightful article, share it along with your summary of key points. If they launch a new product, provide constructive feedback.
 4. **The "Warm" DM:** After establishing a rapport, send a direct message. Do not ask for a job; instead, seek feedback on your work or pose a specific question about one of their initiatives.
 
-Building a network in Web3 is a long-term commitment. It involves demonstrating value, sharing knowledge, and cultivating meaningful relationships. Through consistent contributions, you will develop a reputation that attracts top career opportunities in the space.
+Building a network in Web3 is a long-term commitment. It involves demonstrating value, sharing knowledge, and Building meaningful relationships. Through consistent contributions, you will develop a reputation that attracts top career opportunities in the space.
 

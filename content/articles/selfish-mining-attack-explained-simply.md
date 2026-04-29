@@ -78,7 +78,7 @@ Blockchains can implement several strategies to defend against selfish mining:
 * **Increased Network Connectivity**: The attack depends on the selfish miner's ability to propagate their hidden chain faster than honest miners can propagate theirs. Enhancing network connectivity can diminish the time advantage of the selfish miner.
 * **Protocol-Level Changes**: Some protocols propose alterations to the fork choice rule to deter selfish mining. For instance, a rule could prioritize chains published earlier when two competing chains have the same length. [Ethereum](/what-is-ethereum)'s original GHOST protocol, which rewarded **[Uncle blocks](/understanding-uncle-blocks-in-ethereum)**, partially mitigated selfish mining by reducing the penalty for having a block orphaned, thus lowering the relative profitability of the selfish strategy.
 
-In highly decentralized networks like Bitcoin, executing a successful selfish mining attack is exceedingly difficult. It necessitates a substantial portion of the network's hash rate while carrying the risk of orphaning the selfish miner's own blocks if their network connection is suboptimal.
+In highly decentralized networks like Bitcoin, executing a successful selfish mining attack is exceedingly difficult. It requires a substantial portion of the network's hash rate while carrying the risk of orphaning the selfish miner's own blocks if their network connection is suboptimal.
 
 ### Frequently Asked Questions (FAQ)
 
@@ -86,7 +86,7 @@ In highly decentralized networks like Bitcoin, executing a successful selfish mi
 A: Research indicates that selfish mining could theoretically become profitable with a minority of the network's hash rate, contingent on network conditions. However, this estimate is theoretical; actual required hash power is likely higher in practice.
 
 **Q: Is selfish mining the same as a 51% attack?**  
-A: No. A 51% attack necessitates a majority of hash power, granting the attacker full control to double-spend and censor transactions. Selfish mining focuses on maximizing revenue and can (theoretically) be executed by a minority miner. Nevertheless, a successful selfish mining strategy can pave the way to a 51% attack if it attracts additional miners to the selfish pool.
+A: No. A 51% attack requires a majority of hash power, granting the attacker full control to double-spend and censor transactions. Selfish mining focuses on maximizing revenue and can (theoretically) be executed by a minority miner. Nevertheless, a successful selfish mining strategy can pave the way to a 51% attack if it attracts additional miners to the selfish pool.
 
 **Q: Has selfish mining ever occurred on a major blockchain?**  
 A: There is no definitive, publicly verified case of a large-scale selfish mining attack on a major blockchain like Bitcoin. However, small-scale or subtle attempts may have occurred. The strategy's profitability is heavily reliant on ideal network conditions, which may not be present in real-world scenarios.
