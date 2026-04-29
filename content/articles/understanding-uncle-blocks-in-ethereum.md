@@ -90,8 +90,3 @@ A: No, by definition, an Uncle block is not part of the canonical chain. It is a
 **Q: Are Uncle blocks stored on the blockchain indefinitely?**  
 A: The headers of Uncle blocks are stored in the `ommers` field of the canonical block that included them, ensuring their record remains permanently part of Ethereum’s PoW blockchain history, although their transaction details (the block body) are not included.
 
-## Conclusion
-
-Uncle blocks played a significant role in enhancing Ethereum's PoW network by addressing the challenges posed by network latency and centralization. Their inclusion bolstered security and provided incentives for miners, thereby mitigating the negative impacts of orphan blocks.
-
-As Ethereum moves forward with its PoS mechanism, the legacy of Uncle blocks serves as a reminder of the new solutions that emerged in the early days of the Ethereum network. Understanding the mechanics and implications of Uncle blocks is essential for professionals engaged in blockchain technology, as it illustrates the ongoing evolution of consensus mechanisms and the importance of network security.

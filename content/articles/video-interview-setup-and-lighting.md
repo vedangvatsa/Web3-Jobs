@@ -62,7 +62,7 @@ Lighting plays a important role in enhancing video quality. You do not need to i
 #### The Key Light
 The key light serves as your main light source.
 
-- **Natural Light is Best:** Whenever possible, position yourself facing a window. The soft, diffuse light from a window is the most flattering option available.
+- **Natural Light is Best:** Whenever possible, prepare facing a window. The soft, diffuse light from a window is the most flattering option available.
 - **Artificial Light:** If natural light is unavailable, place your primary light source in front of you, just above the camera. Avoid backlighting, which creates unflattering silhouettes.
 
 #### Three-Point Lighting (The Professional Setup)

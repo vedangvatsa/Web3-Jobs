@@ -67,23 +67,3 @@ The rise and fall of Sam Bankman-Fried offers critical, if painful, lessons for 
 *   **The Danger of Interconnectedness:** The FTX ecosystem was a complex web of dependencies where the failure of one part brought down the whole system. This highlights the need for risk management and avoiding excessive concentration in a single ecosystem or token.
 *   **Beware of Cults of Personality:** The industry placed immense trust in SBF based on his public persona, intelligence, and powerful backers. His story is a cautionary tale about the dangers of idolizing founders and the need to verify claims rather than blindly trusting charismatic leaders.
 
-## Conclusion
-
-Sam Bankman-Fried's story is a defining chapter in the history of Web3. It is a tale of incredible ambition, innovation, and hubris. While his vision for a more efficient and open financial system was compelling, the alleged fraud and catastrophic risk management that occurred behind the scenes led to one of the most devastating collapses the industry has ever seen. The lessons from FTX's failure, the importance of self-custody, transparency, and decentralization, are more relevant than ever as the industry seeks to rebuild trust and create a more resilient future.
-
-### Frequently Asked Questions (FAQ)
-
-**Q1: What was FTX?**  
-A1: FTX was a centralized cryptocurrency exchange founded by Sam Bankman-Fried. It grew to be one of the largest exchanges in the world before it collapsed and filed for bankruptcy in November 2022.
-
-**Q2: What was Alameda Research?**  
-A2: Alameda Research was a quantitative cryptocurrency trading firm also founded by Sam Bankman-Fried. It was alleged that FTX improperly lent customer funds to Alameda, which used them for risky venture capital investments, leading to the collapse.
-
-**Q3: What is "effective altruism," the philosophy SBF promoted?**  
-A3: Effective altruism is a philosophy that advocates using evidence and reason to determine the most effective ways to improve the world. SBF claimed his goal was to "earn to give," making billions of dollars through his companies to donate to charity, although the sincerity of this commitment has since been called into question.
-
-**Q4: How did FTX's collapse affect the price of Solana (SOL)?**  
-A4: FTX and Alameda were significant holders of SOL. When they collapsed, they were forced to liquidate their holdings, flooding the market with SOL and causing its price to crash dramatically. This had a severe impact on the entire Solana ecosystem.
-
-**Q5: What is the main lesson for crypto users from the FTX collapse?**  
-A5: The single most important lesson is "not your keys, not your coins." If you do not control the private keys to your crypto assets (i.e., you hold them on a centralized exchange), you do not truly own them and are exposed to the risk of the exchange failing. Self-custody using a hardware or software [wallet](/how-to-choose-a-crypto-wallet) is the safest way to hold your assets.

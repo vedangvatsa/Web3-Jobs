@@ -139,21 +139,3 @@ Maya transitioned from Web2 to Web3, applying her UX skills to adapt quickly to 
 4. **Giving Up Too Soon**: Change can be uncomfortable. Persist through initial difficulties to achieve better outcomes.
 5. **Not Tracking Progress**: Measurement is key to improvement. Establish metrics to monitor your progress.
 
-## FAQ
-
-**Q: How long will this transition take?**
-A: Initial improvements often appear within a few weeks of consistent practice. Significant changes usually become evident within a couple of months. The timeline varies based on your starting point, daily commitment, and feedback engagement. Professionals who actively track their progress tend to advance more quickly.
-
-**Q: What if my workplace is unsupportive?**
-A: In challenging environments, you often possess more agency than you realize. Start by implementing small, self-directed actions that don’t require organizational approval. Document your achievements and, if necessary, consider seeking a more supportive environment.
-
-**Q: How does this apply to Web3?**
-A: Web3 organizations differ structurally from traditional companies, emphasizing self-direction and effective communication. The fast-paced nature of Web3 demands adaptability and quick decision-making. Developing these skills is essential for success in this sector.
-
-**Q: Can I pursue this alongside my current job?**
-A: Yes. Focus on integrating two or three practices into your daily routine rather than overhauling your entire approach. The cumulative effect of small, deliberate improvements can yield substantial results.
-
-**Q: What resources can deepen my understanding?**
-A: Beyond written materials, connecting with a mentor or joining a peer group can provide practical insights that articles cannot convey. Engaging in Web3-specific communities on platforms like Discord can also accelerate your learning.
-
-Transitioning to a career in UX/UI design offers exciting opportunities for those willing to learn and adapt. With a structured approach and a commitment to growth, you can successfully manage this transition and thrive in the dynamic world of design. Use your unique background and perspective, as they can provide valuable insights in your new career path.

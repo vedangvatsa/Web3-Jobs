@@ -14,7 +14,7 @@ So you're interested in a career working with data, but you keep hearing these t
 
 Let's break it down. A data scientist's job starts with a question. A business might want to know why customer churn has increased, or which marketing campaign is most effective. The data scientist then examines messy, real-world data, cleans it up, explores it to find patterns, and uses statistical models or machine learning to answer that initial question. Their output is often a report, a visualization, or a prototype model that demonstrates a finding. They are masters of statistics, data wrangling, and exploratory analysis.
 
-An AI engineer, on the other hand, takes the model created by the data scientist and productionizes it. They are software engineers first and foremost, but with a specialization in artificial intelligence. They build the strong, scalable pipelines that feed data into the model, deploy the model on cloud infrastructure so it can handle significant volume, and monitor its performance over time to ensure accuracy. Their world is one of APIs, containerization, and system architecture.
+An AI engineer, on the other hand, takes the model created by the data scientist and productionizes it. They are software engineers but with a specialization in artificial intelligence. They build the strong, scalable pipelines that feed data into the model, deploy the model on cloud infrastructure so it can handle significant volume, and monitor its performance over time to ensure accuracy. Their world is one of APIs, containerization, and system architecture.
 
 ### Key Differences in Daily Tasks
 

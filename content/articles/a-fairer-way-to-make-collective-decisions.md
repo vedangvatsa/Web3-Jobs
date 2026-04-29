@@ -56,6 +56,3 @@ Despite its challenges, Quadratic Funding represents a significant advancement i
 
 Quadratic Funding exemplifies Web3's potential to create fairer and more equitable systems. By prioritizing community input and amplifying the voices of numerous contributors, QF not only addresses funding gaps but also builds a more inclusive decision-making process. As society continues to grapple with how to allocate resources for the common good, Quadratic Funding stands out as a viable solution that aligns financial incentives with community values.
 
-### Conclusion
-
-Quadratic Funding offers an new and effective approach to funding public goods. By emphasizing the number of contributors over the amount donated, it corrects the imbalances present in traditional funding models. The success of platforms like Gitcoin illustrates the practical implications of QF in real-world scenarios. As technologies evolve and improve, Quadratic Funding has the potential to reshape how communities allocate resources, ensuring a more equitable distribution of funds that reflects the true desires of the populace. This method not only enhances the sustainability of public goods but also reinforces the principles of democracy and community engagement.

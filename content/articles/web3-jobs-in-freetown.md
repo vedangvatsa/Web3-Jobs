@@ -216,6 +216,3 @@ Local demand is limited due to few existing companies. However, international or
 **How can I stay updated on the national ID project?**  
 Follow the Ministry of Finance and the National Civil Registration Authority on social media. Join identity-focused communities and engage with the Decentralized Identity Foundation.
 
-### Conclusion
-
-Freetown is at the forefront of a digital transformation, using blockchain technology to enhance governance and identity verification. This emerging Web3 ecosystem offers numerous opportunities for skilled professionals passionate about social impact. By specializing in decentralized identity, engaging with key stakeholders, and building a strong community presence, you can carve out a successful career in this dynamic field. Your contributions can significantly shape Sierra Leone's digital future, promoting transparency, security, and innovation in governance.

@@ -143,10 +143,3 @@ Formal verification is still an emerging field within blockchain development. An
 
 4. **Regulatory Integration:** As regulatory bodies demand higher security standards, formal verification may become a requirement for certain classes of protocols or applications that manage user assets.
 
-## Conclusion
-
-Formal verification marks a significant advancement in smart contract security. By mathematically proving properties rather than solely relying on testing, it delivers guarantees that traditional testing cannot provide.
-
-Nevertheless, formal verification is not a standalone solution. It should complement security audits, testing, and meticulous design. The strongest security posture encompasses all approaches: rigorous testing during development, formal verification of critical properties, expert security audits for business logic, and prudent governance for deploying upgrades.
-
-As Web3 matures and protocols manage increasingly significant amounts of capital, formal verification will likely become standard practice. For developers and security researchers, acquiring knowledge of formal verification and building expertise in this domain will position them favorably for future opportunities in securing the infrastructure of Web3.

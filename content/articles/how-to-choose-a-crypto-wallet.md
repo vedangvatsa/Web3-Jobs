@@ -82,16 +82,3 @@ Regardless of the wallet type you choose, adhering to best security practices is
 
 ### Understanding the Web3 Opportunity
 
-The Web3 sector is undergoing rapid expansion, with demand for qualified talent outpacing supply. Unlike traditional tech, Web3 offers unique benefits, including higher compensation, equity opportunities, remote roles, and the chance to participate in new technology.
-
-### Market Dynamics
-
-The [Web3 job](/web3-jobs-for-beginners) market operates under different dynamics than Web2:
-
-| Aspect                         | Web3                                   | Web2                                   |
-|--------------------------------|----------------------------------------|----------------------------------------|
-| **Compensation**               | Often higher than equivalent roles     | Standard salaries                       |
-| **Work Environment**           | Primarily remote                       | Often in-office                        |
-| **Career Growth**              | Rapid advancement due to scaling       | Slower progression                     |
-| **Equity Opportunities**       | Common in token and equity packages    | Less frequent                          |
-

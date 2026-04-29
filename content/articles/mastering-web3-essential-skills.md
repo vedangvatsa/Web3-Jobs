@@ -97,13 +97,3 @@ A strong sense of ownership and adaptability is important in Web3.
 - **Ownership Mentality:** In a decentralized environment, contributors must take initiative and act like founders, identifying problems and proposing solutions proactively.
 - **Adaptability:** The fast-paced nature of Web3 demands a willingness to learn and adapt continually. What is relevant today may change within a year.
 
-## Conclusion: How to Get Started
-
-Transitioning to a career in Web3 requires continuous learning and practical experience.
-
-- **Build a [Portfolio](/building-web3-portfolio):** Showcase your skills through personal projects, contributions to open-source protocols, Dune dashboards, or active participation in DAOs. Your portfolio serves as your proof of work.
-- **Engage with the Community:** Immerse yourself in the Web3 culture by following thought leaders on Twitter, joining Discord servers for various projects, and participating in discussions.
-- **Start Learning:** Numerous free resources exist, including Ethereum documentation, Solidity by Example, and the Bankless podcast.
-
-The demand for talent in Web3 is vast, offering new opportunities to influence the future of the internet. By mastering these ten essential skills, you can lead rather than merely participate in the decentralized revolution.
-

@@ -76,21 +76,3 @@ Living as a crypto-powered digital nomad offers unparalleled freedom and financi
 
 ### The Web3 Career Sector
 
-The Web3 sector is experiencing rapid growth, with a notable talent shortage. This new environment presents unique advantages compared to traditional tech roles, including higher compensation, equity opportunities, and a fully remote work culture.
-
-### Market Overview
-
-The dynamics of the Web3 job market are markedly different from Web2:
-
-| Aspect                     | Web2                                   | Web3                                   |
-|----------------------------|----------------------------------------|----------------------------------------|
-| Compensation                | Standard industry rates                | Generally higher than Web2 equivalents    |
-| Work Culture                | Hybrid or in-office                    | Primarily remote, offering greater flexibility |
-| Career Advancement          | Slower progression                     | Accelerated growth due to high demand |
-| Equity Opportunities        | Limited                                | Common, with significant wealth-building potential |
-
-- **Higher Salaries:** Web3 roles generally pay more than comparable positions in Web2. Roles such as Solidity developers and smart contract auditors see the largest salary increases due to demand.
-- **Remote Work Culture:** Most Web3 companies operate entirely or predominantly remotely, providing flexibility and work-life balance.
-- **Rapid Career Growth:** The fast-paced nature of Web3 companies allows for quicker advancement, driven by scaling and talent shortages.
-- **Equity and Token Packages:** Many Web3 roles offer equity stakes or tokens, contributing to significant potential for wealth accumulation.
-

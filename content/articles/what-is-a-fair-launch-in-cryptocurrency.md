@@ -41,11 +41,3 @@ Most contemporary Web3 projects do not adopt a fair launch model. Instead, they 
 Executing a fair launch is ideologically appealing but poses numerous challenges in the current Web3 environment.
 
 - **Funding Requirements**: Developing a sophisticated protocol necessitates substantial capital for developers, auditors, and marketing. Pre-mined token sales to VCs provide a straightforward funding solution.
-- **Intense Competition**: The Web3 sector is fiercely competitive. Projects lacking significant marketing budgets or partnerships, often secured through venture capital, struggle to gain momentum.
-
-### The Modern "Fair Launch": Liquidity Bootstrapping Pools (LBPs)
-
-Although genuine fair launches are uncommon, some projects attempt to capture the essence of a fair launch through mechanisms like **[Liquidity Bootstrapping Pools (LBPs)](/what-is-a-liquidity-bootstrapping-pool)**. LBPs employ a Dutch auction-style approach, starting with a high price that gradually decreases, allowing the market to establish a fair price over time while minimizing the risk of front-running by bots.
-
-The concept of a fair launch embodies a commitment to decentralization and equal opportunity. Although practical challenges have made true fair launches increasingly rare, their principles serve as a benchmark for evaluating new token distributions.
-

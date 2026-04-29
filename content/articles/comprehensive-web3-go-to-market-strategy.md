@@ -93,9 +93,3 @@ Use on-chain data to gain insights into your users and assess the health of your
 - **Dashboards:** Build public dashboards (for example, on Dune Analytics) to monitor key metrics such as Daily Active Users, transaction volume, and Total Value Locked (TVL). Transparency builds trust.
 - **Cohort Analysis:** Categorize users based on when they joined and monitor their retention over time. This analysis provides the best indication of true product-market fit.
 
-## Conclusion: Community is the Strategy
-
-The Web3 GTM playbook marks a significant departure from previous methods. It emphasizes decentralized community cultivation over centralized marketing efforts. This approach necessitates a commitment to transparency, collaboration, and genuine user ownership.
-
-Projects attempting to apply traditional Web2 marketing tactics in the Web3 space will likely fail. They will be perceived as inauthentic and will struggle to build the trust necessary for success. The winning projects will be those that recognize the community's role as the foundation of their strategy. By supporting public development, rewarding early supporters, and gradually transferring control to the community, you can establish a reliable ecosystem that is more resilient and potent than any centralized organization.
-

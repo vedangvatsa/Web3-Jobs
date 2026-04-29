@@ -118,8 +118,3 @@ They connect directly to a [blockchain](/what-is-a-blockchain) node (via an "RPC
 **As a user, is arbitrage beneficial or detrimental?**  
 Arbitrage is advantageous for users. The actions of arbitrage bots help ensure that when you engage in trading on a DEX, the prices reflect fair market conditions, consistent with broader market trends. Without arbitrage, prices would fluctuate significantly across exchanges.
 
-### Conclusion
-
-Understanding arbitrage opportunities in DeFi markets is essential for anyone involved in cryptocurrency trading. The mechanics of arbitrage, from two-pool to triangular strategies, provide a complete framework for capitalizing on price discrepancies. Tools like flash loans enable traders to execute these strategies effectively, even in a competitive space dominated by sophisticated bots.
-
-The interplay between arbitrage and market efficiency illustrates the importance of this trading strategy. As the DeFi ecosystem evolves, the role of arbitrage will remain important in ensuring fair and consistent pricing across the diverse range of exchanges.

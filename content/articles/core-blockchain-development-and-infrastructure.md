@@ -53,5 +53,3 @@ A career as a Web3 Infrastructure Engineer places you at the foundational layer 
 
 ## The Web3 Market Opportunity
 
-The Web3 sector is experiencing rapid growth, with demand for skilled professionals far exceeding supply. Unlike traditional technology sectors, Web3 presents unique advantages, such as higher salaries, equity opportunities, remote work options, and the chance to improve technological frameworks.
-

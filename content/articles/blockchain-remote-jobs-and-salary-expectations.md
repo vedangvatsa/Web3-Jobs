@@ -48,14 +48,3 @@ The remote job market in Web3 offers unique freedom and potential. By honing in-
 
 ### The Expanding Web3 Opportunity
 
-The Web3 sector is experiencing growth, with demand for qualified professionals significantly outpacing supply. Compared to traditional tech roles, Web3 jobs provide distinct advantages such as competitive compensation, equity opportunities, fully remote positions, and the chance to contribute to new technology.
-
-### Market Context: Web3 vs. Web2
-
-The dynamics of the Web3 job market differ markedly from those of Web2:
-
-- **Higher Compensation**: Web3 roles typically command salaries that are higher than equivalent Web2 positions, often supplemented by bonuses and equity.
-- **Remote-First Culture**: Most Web3 companies operate primarily or entirely remotely, offering a level of flexibility uncommon in traditional tech environments.
-- **Accelerated Career Growth**: Rapid scaling and a talent shortage in Web3 lead to faster career advancement compared to traditional tech sectors.
-- **Equity Potential**: Token and equity packages are standard, providing opportunities for significant financial growth.
-

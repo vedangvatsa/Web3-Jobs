@@ -69,6 +69,3 @@ Tax obligations for a DAO depend on various factors. DAOs with a "legal wrapper,
 
 Market cap measures the total value of all tokens in circulation (circulating supply multiplied by token price). In contrast, the treasury consists only of the portion of tokens owned by the DAO for its operations. The treasury's value is usually a fraction of the total market cap.
 
-### Conclusion 
-
-Understanding DAO treasury management is essential for professionals in the Web3 space. Effective treasury management not only secures a DAO's financial resources but also ensures that funds are deployed strategically to support growth and sustainability. By implementing sound practices, such as diversification, transparency, and well-structured governance, DAOs can effectively manage their treasuries. As the Web3 ecosystem continues to evolve, mastering these treasury management skills will enhance your professional standing and contribute to the success of the organization you belong to.

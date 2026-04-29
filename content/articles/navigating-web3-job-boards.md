@@ -16,7 +16,7 @@ The emergence of [Web3](/what-is-web3) has transformed the career market, introd
 
 This article outlines the top [Web3 job](/web3-jobs-for-beginners) boards available today. We will examine the leading platforms where prominent crypto companies, [DAOs](/what-is-a-dao), and startups advertise their open positions. This guide provides actionable strategies for standing out as a candidate in this competitive market. You will learn how to tailor your [resume](/how-to-build-a-web3-resume-that-stands-out) for Web3 roles, identify high-demand skills, and use your on-chain activity to create a compelling [portfolio](/building-web3-portfolio).
 
-Whether you are a developer transitioning from Web2 to Web3, a marketing professional interested in community building, or a finance expert attracted to DeFi, this guide equips you with the necessary tools to successfully manage the Web3 job market. The opportunities are vast, but achieving success requires knowing where to look and how to position yourself effectively.
+Whether you are a developer transitioning from Web2 to Web3, a marketing professional interested in community building, or a finance expert attracted to DeFi, this guide equips you with the necessary tools to successfully manage the Web3 job market. The opportunities are vast, but achieving success requires knowing where to look and how to prepare effectively.
 
 ## The Top Web3 Job Boards
 

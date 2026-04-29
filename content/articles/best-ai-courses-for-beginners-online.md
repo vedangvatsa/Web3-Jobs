@@ -94,4 +94,4 @@ No, you do not need a high-end computer. Most programming assignments can be exe
 
 ### Final Thoughts
 
-Selecting the right course can significantly impact your understanding and application of AI concepts. Evaluate your current skills and career aspirations to determine the most suitable path. With dedication and the right resources, you can effectively build your AI knowledge and skills. As technology continues to evolve, those who invest time in learning AI will find themselves well-positioned in a rapidly growing field.
+Selecting the right course can significantly impact your understanding and application of AI concepts. Evaluate your current skills and career aspirations to determine the most suitable path. With dedication and the right resources, you can effectively build your AI knowledge and skills. As technology is changing, those who invest time in learning AI will find themselves well-positioned in a rapidly growing field.

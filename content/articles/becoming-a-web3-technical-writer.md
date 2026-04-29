@@ -77,6 +77,3 @@ Web3 technical writers can expect competitive salaries. Here are the salary rang
 | Mid-Level        | Competitive range |
 | Senior Level     | Competitive range |
 
-### Conclusion
-
-A career as a Web3 technical writer offers an exciting opportunity for clear thinkers and skilled communicators. With a growing demand for accurate documentation, this role is important for the success of projects in the Web3 space. By honing your skills and actively engaging with the community, you can establish yourself as a reputable technical writer. This path allows you to contribute significantly to the blockchain ecosystem while providing a fulfilling and financially rewarding career.

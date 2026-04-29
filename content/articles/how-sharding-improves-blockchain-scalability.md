@@ -139,12 +139,3 @@ Understanding sharding can be beneficial for various professionals:
 
 Professionals adept at navigating the technical complexities of sharding are in high demand in the [Web3](/what-is-web3) ecosystem.
 
-## Conclusion
-
-Sharding offers one of the most ambitious technical solutions to the scalability challenge in blockchain. By dividing tasks across multiple parallel chains, sharding seeks to enhance scalability while preserving security through cryptography, incentives, and randomization.
-
-The implementation of sharding is complex and requires sophisticated design and engineering. However, for platforms aiming to support global-scale applications while maintaining decentralization, sharding, in conjunction with Layer 2 solutions, may prove essential.
-
-Ethereum's approach to Danksharding demonstrates that addressing scalability does not necessitate solving every aspect of the problem through sharding alone. By focusing on data availability and enhancing the efficiency of Layer 2 rollups, the blockchain ecosystem can achieve significant scalability while managing complexity. This model is likely to be adopted by other major blockchains as they evolve.
-
-Professionals entering the Web3 sector should recognize the unique opportunities presented by this rapidly growing field. With the demand for skilled professionals outpacing supply, those who acquire relevant knowledge and skills in sharding and blockchain technology will be well-positioned for a rewarding career in shaping the future of decentralized applications.

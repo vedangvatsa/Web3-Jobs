@@ -133,24 +133,3 @@ You now have a solid understanding of the company dynamics. It is time to start 
 
 **Ignoring Company Culture:** If the organization's culture is formal and you tend to be casual, or vice versa, adapt your style accordingly. Respecting company culture builds quicker integration.
 
-## Frequently Asked Questions
-
-**What if my onboarding is subpar and I lack support?**  
-Take the initiative to reach out to colleagues directly. For example, you could say, "I would like to understand X better. Can we meet for a brief coffee chat?" Most colleagues will appreciate your proactive approach.
-
-**What if I disagree with an existing process?**  
-Document your observations and wait until you fully grasp the context, usually after 60 days. Then, frame your feedback as inquisitive rather than critical, such as, "I've noticed we do X. Can you share the reasoning behind that decision? Have you considered Y?"
-
-**Should I share my 90-day plan with my manager?**  
-Yes, sharing your plan shows initiative and allows your manager to provide input. This alignment can help ensure that your goals align with the team's objectives.
-
-**What if I don’t feel prepared after 90 days?**  
-Feeling ramped up around the 120-day mark is typical. Continue on your current trajectory and check in with your manager. You might say, "I feel like I’m making good progress. What’s one area where I could accelerate?"
-
-## Conclusion
-
-Your first 90 days are important for setting the tone of your tenure within the organization. These days offer an opportunity to invest in your long-term success, relationship building, and overall contribution.
-
-Approach this period with a strategic mindset. Focus on building trust, learning continuously, contributing thoughtfully, observing the culture, and building relationships. Remember that this grace period allows for learning and mistakes. Use it wisely to establish a solid foundation for your future at the company. 
-
-The framework provided serves as a guideline, but flexibility is key. Adapt your approach based on your company's culture and pace. Whether you are in a fast-moving startup or a more established enterprise, these principles can guide you in making a meaningful impact from day one.

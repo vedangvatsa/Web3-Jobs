@@ -1,7 +1,7 @@
 ---
 
 title: "What does Vitalik Buterin think about Web3"
-description: "Delve into the mind of Vitalik Buterin, the creator of Ethereum. This guide covers his initial vision for a 'world computer,' his evolving thoughts on."
+description: "cover the mind of Vitalik Buterin, the creator of Ethereum. This guide covers his initial vision for a 'world computer,' his evolving thoughts on."
 image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man glasses"
@@ -78,8 +78,3 @@ In a 2022 paper co-authored with Glen Weyl and Puja Ohlhaver, Vitalik introduced
 
 Vitalik envisions SBTs as foundational elements for a "Decentralized Society" (DeSoc), where reputation and social relationships hold equal importance to financial capital. For instance, a university could issue an SBT to a graduate, or a [DAO](/what-is-a-dao) might distribute them to its members. Their non-transferable nature ensures authenticity, as they cannot be bought or sold.
 
-## Conclusion: The Philosopher-King of Web3
-
-Vitalik Buterin's impact on Web3 is profound. He transcends the role of Ethereum's creator; he serves as its intellectual compass. His work merges technical rigor with a strong ethical framework, addressing the ecosystem's most pressing dilemmas.
-
-Despite lacking formal authority within Ethereum, where no single individual can unilaterally implement upgrades, his insights carry significant influence. Through his research, writing, and public engagements, Vitalik continues to shape the narrative and future trajectory of Ethereum and the broader Web3 movement. His vision promotes a decentralized, scalable, and credible digital future, steering the ecosystem toward its potential.

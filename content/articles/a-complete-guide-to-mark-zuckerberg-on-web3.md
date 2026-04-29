@@ -63,27 +63,3 @@ Meta's vision for the metaverse fundamentally contradicts the principles of the 
 | **Governance**     | Centralized control by Meta, which establishes all rules. | Community governance often facilitated through [DAOs](/what-is-a-dao). |
 | **Economics**      | Elevated take rates that favor the platform owner. | Minimal platform fees and royalties, benefiting creators and users. |
 
-## Conclusion: An Attempt to Build the Next Walled Garden
-
-Mark Zuckerberg and Meta's foray into the metaverse signifies a important confrontation for the future of the internet. Zuckerberg is making a bold investment to create a proprietary, integrated, and user-friendly metaverse that aims to capture a mainstream audience before a more chaotic, yet open and decentralized alternative can establish itself.
-
-Meta's substantial resources, extensive user base, and expertise in product design provide a solid foundation for this endeavor. However, this approach runs counter to the Web3 principles of user ownership, decentralization, and openness. The Web3 community largely regards Meta's initiatives with skepticism, viewing them as a strategy by a Web2 giant to dominate the metaverse narrative and construct a core "walled garden."
-
-The coming years will reveal which vision prevails: the centralized, corporate-controlled metaverse envisioned by Zuckerberg, or the decentralized, user-owned metaverse advocated by the Web3 community. The outcome will significantly shape the internet's evolution and how users interact with digital environments moving forward.
-
-### Frequently Asked Questions (FAQ)
-
-**Q1: Why did Facebook change its name to Meta?**  
-A1: The rebranding marked a strategic shift for the entire company. Zuckerberg expressed a desire for Meta to be recognized for its metaverse ambitions rather than its history in social media. This change also aimed to distance the company from the controversies surrounding the Facebook brand, including issues related to privacy.
-
-**Q2: What is Horizon Worlds?**  
-A2: Horizon Worlds is Meta's social VR platform, serving as its flagship metaverse application. Users with Quest headsets can create and explore virtual environments, engage in games, and interact with avatars. It remains a centralized platform fully controlled by Meta.
-
-**Q3: How does Meta's metaverse differ from the Web3 vision?**  
-A3: Meta's metaverse is centralized, proprietary, and dominated by the company, whereas the Web3 vision promotes a decentralized, open, and interoperable environment where users genuinely own their digital assets as NFTs and have control over their identities.
-
-**Q4: How much has Meta invested in the metaverse?**  
-A4: Since late 2020, Meta's Reality Labs division has reported significant financial losses, marking one of the largest corporate investments in future technology. This substantial financial commitment underscores the company's dedication to realizing its metaverse vision.
-
-**Q5: What are Meta's plans for NFTs?**  
-A5: Meta's strategy regarding NFTs has evolved. Initially, the company introduced features to showcase NFTs on Instagram and Facebook, but later scaled back these initiatives. Currently, the focus lies on the sale of digital goods within Horizon Worlds, where Meta retains control over the economic model rather than supporting open NFT standards.

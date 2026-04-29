@@ -159,10 +159,3 @@ A variety of roles are emerging within gaming guilds, including:
 
 Compensation in these roles varies, with guild managers earning commission-based incomes, while leadership positions at major guilds can command competitive salaries.
 
-## Conclusion
-
-Web3 gaming guilds represent a unique intersection of gaming, finance, and community organization. They have created substantial economic opportunities for millions of players in developing nations, particularly during the peak of P2E earnings from 2020 to 2022.
-
-However, the sector is evolving rapidly. The volatility of individual games, regulatory scrutiny, and rising competition have made the field more challenging. Successful guilds will be those that implement rigorous game selection processes, maintain diversified portfolios, prioritize strong community management, and establish realistic expectations regarding sustainability.
-
-The scholarship model that connects players lacking capital with opportunities to earn through gaming is likely to endure. However, the specific games and tokens driving earnings will continue to change. The guilds that thrive will be those that adapt swiftly to market dynamics, uphold ethical practices, and emphasize community and long-term sustainability over transient hype.
