@@ -93,6 +93,6 @@ Despite its vast potential, blockchain technology is not without challenges. The
 
 Blockchain technology is in its infancy, continuously developing and reshaping how we construct digital systems. It signifies a transition from centralized trust to distributed verification, supporting applications that are more open, equitable, and resistant to centralized control.
 
-The journey toward mainstream adoption is ongoing, and many new use cases have yet to emerge. However, the fundamental breakthrough of enabling disparate parties to agree on a common set of facts without requiring mutual trust is significant. This technology transforms reliance on institutions into trust in mathematics and code, poised to impact industries beyond finance profoundly.
+The journey toward mainstream adoption is ongoing, and many new use cases have yet to emerge. However, the fundamental breakthrough of enabling disparate parties to agree on a common set of facts without requiring mutual trust is significant. This technology transforms reliance on institutions into trust in mathematics and code, set to impact industries beyond finance profoundly.
 
 As blockchain technology matures, its integration into various sectors could lead to more reliable, transparent, and efficient systems, supporting a new era of digital interaction.

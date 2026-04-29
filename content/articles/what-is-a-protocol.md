@@ -43,5 +43,5 @@ The **Uniswap Protocol** serves as an illustration. Unlike traditional companies
    
 4. **Composability:** Open protocols enable integration in new ways. For instance, a lending protocol may build upon a decentralized exchange protocol, which may depend on a stablecoin protocol. This interconnectedness supports a network effect and drives innovation.
 
-When you encounter the term "protocol" in Web3, view it as a foundational, open-source building block for the new internet. Unlike private applications, protocols serve as shared public goods. The transition from platforms to protocols encapsulates the architectural evolution that underscores the vision for a more decentralized digital future.
+When you encounter the term "protocol" in Web3, view it as a foundational, open-source building block for the new internet. Unlike private applications, protocols serve as shared public goods. The transition from platforms to protocols encapsulates the architectural evolution that highlights the vision for a more decentralized digital future.
 

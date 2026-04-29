@@ -165,9 +165,9 @@ When your contract invokes another contract, checking for call success is essent
 | Oracle Manipulation          | Manipulated price feeds compromise protocol integrity         | Use decentralized oracles or TWAPs |
 | Unchecked External Calls      | Ignoring failure of external contract calls                   | Always check call success |
 
-Smart contract security encompasses a vast and continually changing field. This guide highlights some of the most prevalent vulnerabilities, but a security-first mindset necessitates ongoing education, thorough testing, and vigilance. By recognizing potential pitfalls, developers can design strong and reliable systems that uphold user trust.
+Smart contract security encompasses a vast and continually changing field. This guide highlights some of the most prevalent vulnerabilities, but a security-first mindset requires ongoing education, thorough testing, and vigilance. By recognizing potential pitfalls, developers can design strong and reliable systems that uphold user trust.
 
-Understanding these vulnerabilities proves essential for professional advancement. Mastering this knowledge distinguishes you in the competitive field of Web3, where security is paramount. Professionals with a solid grasp of these principles often command higher salaries and advance more quickly.
+Understanding these vulnerabilities proves essential for professional advancement. Mastering this knowledge distinguishes you in the competitive field of Web3, where security is critical. Professionals with a solid grasp of these principles often command higher salaries and advance more quickly.
 
 ### Steps for Mastering Smart Contract Security
 

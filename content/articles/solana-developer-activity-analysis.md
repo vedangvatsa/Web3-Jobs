@@ -46,7 +46,7 @@ Tracking Solana's on-chain data reveals notable trends:
 
 - **Hackathon Influences**: There are clear correlations between program deployment spikes and major hackathons, such as Grizzlython and Hyperdrive. These events effectively catalyze new project creation.
 - **Diversity in Applications**: While DeFi has historically driven growth, a broader variety of programs are emerging, including NFTs, gaming, and infrastructure-related applications like RPC providers and wallets.
-- **Growth of SPL [Tokens](/what-is-a-token)**: The increase in new SPL (Solana Program Library) token creations signifies a burgeoning ecosystem of applications with distinct economies.
+- **Growth of SPL [Tokens](/what-is-a-token)**: The increase in new SPL (Solana Program Library) token creations signifies a growing ecosystem of applications with distinct economies.
 
 #### 3. Developer Tooling and Infrastructure
 

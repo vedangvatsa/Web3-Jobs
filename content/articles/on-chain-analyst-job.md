@@ -133,7 +133,7 @@ A: Initial results typically appear within a few weeks of consistent application
 A: You often have more agency than you may realize, even in challenging environments. Start with small, self-contained actions that don’t require organizational approval. Build momentum gradually, and document your progress. If you find that structural barriers persist despite your efforts, this information is valuable for your career decisions.
 
 **Q: How does this apply specifically to the Web3 sector?**  
-A: Web3 organizations differ from traditional companies in ways that elevate the importance of these skills. The flatter hierarchies offer more direct access to decision-makers, yet place greater responsibility on self-direction. Remote and globally distributed teams require strong written communication and asynchronous collaboration skills. Additionally, the faster pace of product cycles in Web3 compared to traditional enterprises necessitates agility and adaptability.
+A: Web3 organizations differ from traditional companies in ways that elevate the importance of these skills. The flatter hierarchies offer more direct access to decision-makers, yet place greater responsibility on self-direction. Remote and globally distributed teams require strong written communication and asynchronous collaboration skills. Additionally, the faster pace of product cycles in Web3 compared to traditional enterprises requires agility and adaptability.
 
 **Q: Can I implement this alongside my current job?**  
 A: Yes. This is the recommended approach for most professionals. You do not need additional hours; focus on intentionality within your existing schedule. Identify a few practices that align with your current responsibilities and apply them consistently for maximum impact.

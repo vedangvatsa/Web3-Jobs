@@ -20,7 +20,7 @@ This article will explore this perceived slowdown, analyzing the data, providing
 
 ### What the Data Says
 
-Metrics from platforms that track public [GitHub](/building-web3-portfolio) repositories often paint a stark picture. When compared to the hundreds of monthly active developers on Ethereum or Solana, Litecoin's developer count can appear worryingly low. The number of commits to its core repository is also less frequent than those of newer, more rapidly evolving projects.
+Metrics from platforms that track public [GitHub](/building-web3-portfolio) repositories often paint a stark picture. When compared to the hundreds of monthly active developers on Ethereum or Solana, Litecoin's developer count can appear worryingly low. The number of commits to its core repository is also less frequent than those of newer, more fast-changing projects.
 
 This data, viewed in isolation, has led many to conclude that Litecoin is a "ghost chain" or a project that has been abandoned by its developers. However, this interpretation misses the important context of Litecoin's design philosophy and its stage of maturity.
 
@@ -28,7 +28,7 @@ This data, viewed in isolation, has led many to conclude that Litecoin is a "gho
 
 Litecoin was never intended to be a platform for [smart contracts](/what-are-smart-contracts), dApps, or a rapidly changing ecosystem of [DeFi](/what-is-defi) protocols. Its core purpose is to be a secure, reliable, and decentralized network for peer-to-peer payments. In this context, a lack of constant code changes is not necessarily a sign of stagnation, but a feature of its stability.
 
-1.  **Maturity and Ossification:** Like Bitcoin, Litecoin is a mature protocol. Its core design is considered complete. Major changes are rare, carefully considered, and only implemented after extensive testing and community consensus. For a protocol that secures significant value, stability and predictability are paramount. Constant, rapid updates would introduce risk and be seen as a negative, not a positive.
+1.  **Maturity and Ossification:** Like Bitcoin, Litecoin is a mature protocol. Its core design is considered complete. Major changes are rare, carefully considered, and only implemented after extensive testing and community consensus. For a protocol that secures significant value, stability and predictability are essential. Constant, rapid updates would introduce risk and be seen as a negative, not a positive.
 
 2.  **Focus on the Core Protocol:** Litecoin's development is focused on its core client, Litecoin Core. This is a deliberate and focused effort, unlike ecosystems like Ethereum where "developer activity" encompasses thousands of independent dApp developers building on top of the platform. Comparing Litecoin's core protocol commits to the entire Ethereum ecosystem's commits is an apples-to-oranges comparison.
 

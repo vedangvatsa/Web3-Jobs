@@ -14,7 +14,7 @@ As a Web2 developer, you possess a solid foundation in application development. 
 
 ### The Core Mindset Shift
 
-Transitioning to Web3 necessitates a significant shift in thinking. Key changes include:
+Transitioning to Web3 requires a significant shift in thinking. Key changes include:
 
 * **Backend as a Public Utility:** In Web3, [smart contracts](/what-are-smart-contracts) are open-source, allowing everyone to interact with them. Understanding this shift is vital for developers.
 * **Immutable and Public Data:** The blockchain does not allow data deletion. All information remains transparent and accessible, which requires a new approach to data management.

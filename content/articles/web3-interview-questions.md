@@ -150,7 +150,7 @@ Bad answer: "for money" or "because it's hot," or vague motivations.
 
 Tests critical thinking and authentic views.
 
-Good answer: Thoughtful, nuanced opinion. Acknowledge complexity. Show you understand different perspectives. Take a position but explain reasoning.
+Good answer: Thoughtful, specific opinion. Acknowledge complexity. Show you understand different perspectives. Take a position but explain reasoning.
 
 Bad answer: Dogmatic answers, not acknowledging complexity, or giving answers you think they want to hear.
 

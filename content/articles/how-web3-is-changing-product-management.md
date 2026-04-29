@@ -59,5 +59,5 @@ Web3 Product Managers must prioritize strategies that cultivate these non-code-b
 
 - **From Team Manager to Ecosystem Gardener:** Your responsibilities extend beyond managing an immediate development team. You must nurture an entire ecosystem of third-party developers, users, and community members who interact with your protocol.
 
-Web3 necessitates a rethinking of product management. It shifts the focus from constructing closed, extractive platforms to building open, value-generating economies. For Product Managers interested in systems thinking, economics, and community building, this represents a significant and rewarding frontier in technology.
+Web3 requires a rethinking of product management. It shifts the focus from constructing closed, extractive platforms to building open, value-generating economies. For Product Managers interested in systems thinking, economics, and community building, this represents a significant and rewarding frontier in technology.
 

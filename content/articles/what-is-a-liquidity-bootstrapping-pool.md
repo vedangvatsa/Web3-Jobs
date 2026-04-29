@@ -53,7 +53,7 @@ Understanding LBPs is just the beginning. Professionals must apply this knowledg
 
 #### Step 1: Build a Solid Foundation
 
-Establish a clear understanding of the fundamentals. Familiarize yourself with the principles underpinning LBPs and tokenomics. Read up on established practices from industry leaders to inform your approach.
+Establish a clear understanding of the fundamentals. Familiarize yourself with the principles supporting LBPs and tokenomics. Read up on established practices from industry leaders to inform your approach.
 
 #### Step 2: Evaluate Your Current Skills
 

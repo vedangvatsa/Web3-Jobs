@@ -69,7 +69,7 @@ Several Web3 technologies facilitate the realization of the Intention Economy:
 
 ### Practical Insights for Builders and Businesses
 
-For businesses, transitioning from the attention to the intention economy necessitates a fundamental change in strategy.
+For businesses, transitioning from the attention to the intention economy requires a fundamental change in strategy.
 
 1. **Shift to Service Provision**: Focus on fulfilling user intent rather than capturing data and selling ads. Your revenue will depend on delivering superior services at competitive prices.
 

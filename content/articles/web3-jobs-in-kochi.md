@@ -18,7 +18,7 @@ Although Kochi may not rival larger Indian Web3 hubs like Bangalore or Hyderabad
 
 Kochi's Web3 environment thrives on strong technical education and active government support.
 
-- **The Kerala Blockchain Academy (KBA):** KBA stands as a leading initiative by the Kerala government and plays a vital role in Web3 education across India. It offers training and certification programs in blockchain technology, ensuring a steady supply of skilled professionals and supporting a research-driven atmosphere.
+- **The Kerala Blockchain Academy (KBA):** KBA stands as a leading initiative by the Kerala government and is important for Web3 education across India. It offers training and certification programs in blockchain technology, ensuring a steady supply of skilled professionals and supporting a research-driven atmosphere.
 - **A Strong Developer Community:** Kochi boasts an active developer community that encourages collaboration. Regular meetups, workshops, and notable events, such as the ETHIndia hackathon series, help integrate the local scene into the broader national ecosystem.
 - **Emphasis on Research and Enterprise Solutions:** Influenced by KBA and established tech companies in Infopark, there's a strong focus on research and the application of blockchain for real-world use cases, including supply chain management, healthcare, and e-governance.
 - **High Quality of Life:** Kochi is attractive for tech professionals due to its stunning natural surroundings and relatively low cost of living. This quality of life makes it an ideal location for companies looking to build dedicated, long-term teams.

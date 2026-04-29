@@ -48,7 +48,7 @@ Many senior developers in Turkey work remotely for global protocols, earning sal
 1. **Language Skills**: Proficiency in Turkish significantly enhances job prospects. The ability to communicate effectively with the domestic user base is a key asset sought by international companies.
 
 2. **Engagement with the Community**: Building a successful career in Turkey's Web3 sector requires active participation in the community.
-   - **Attend Local Meetups**: Major cities like Istanbul have thriving communities. Participating in meetups helps expand your professional network.
+   - **Attend Local Meetups**: Major cities like Istanbul have growing communities. Participating in meetups helps expand your professional network.
    - **Engage on Turkish Crypto Twitter**: Interact with local influencers and projects to establish connections.
 
 3. **Highlight Relevant Experience**: Experience in traditional gaming or finance is highly valued. Emphasize your understanding of user behavior in virtual economies or financial markets.

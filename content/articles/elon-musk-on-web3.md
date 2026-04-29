@@ -21,7 +21,7 @@ This article analyzes Elon Musk's public statements, actions, and insights regar
 Musk's involvement with cryptocurrency is most visible through his endorsements of Bitcoin and Dogecoin.
 
 **Bitcoin:**
-Musk played a significant role in Bitcoin's price surge in early 2021.
+Musk played a important role in Bitcoin's price surge in early 2021.
 - **Tesla's Investment:** He announced Tesla's acquisition of a substantial amount of Bitcoin and the company's plans to accept Bitcoin as payment for vehicles.
 - **Payment Suspension:** A few months later, Musk suspended Bitcoin payments, citing concerns over the "rapidly increasing use of fossil fuels for Bitcoin mining."
 - **Current Position:** Although Tesla has divested a large portion of its Bitcoin holdings, Musk maintains personal ownership of Bitcoin and indicated that Tesla may resume accepting it if mining shifts towards renewable energy sources.

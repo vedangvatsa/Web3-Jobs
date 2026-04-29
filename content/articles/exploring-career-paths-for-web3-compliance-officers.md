@@ -38,7 +38,7 @@ Web3 Compliance Officers encounter distinct challenges in applying regulations m
 
 - **Regulatory Expertise:** A strong background in traditional financial compliance is essential, especially in areas like AML, KYC, and securities law.
 - **Technical Understanding:** While not required to be a developer, a compliance officer must grasp blockchain technology and [smart contracts](/what-are-smart-contracts) sufficiently to engage in meaningful discussions with engineers about on-chain compliance solutions.
-- **Risk Management:** The ambiguous legal environment necessitates not only knowledge of the rules but also the ability to assess risks and guide the company in making strategic decisions amid uncertainties.
+- **Risk Management:** The ambiguous legal environment requires not only knowledge of the rules but also the ability to assess risks and guide the company in making strategic decisions amid uncertainties.
 - **Effective Communication:** The role demands clarity in explaining intricate regulatory requirements to technical teams and articulating the compliance strategy to both regulators and the community.
 
 ### Transitioning into Web3 Compliance

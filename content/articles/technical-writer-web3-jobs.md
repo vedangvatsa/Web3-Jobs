@@ -15,7 +15,7 @@ The demand for proficient technical writers in Web3 is surging. As projects grow
 
 ### The Importance of Technical Writing in Web3
 
-Technical writing plays a vital role in several key areas:
+Technical writing is important for several key areas:
 
 - **Developer Adoption**: Developers require a solid understanding of APIs and smart contracts before they can effectively use a protocol. High-quality documentation serves as a primary tool to attract and maintain a strong developer community. Insufficient documentation can deter potential contributors.
   

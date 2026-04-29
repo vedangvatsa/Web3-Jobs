@@ -227,7 +227,7 @@ This experience is:
 
 ### Market Arbitrage Opportunities
 
-Tripoli's P2P market offers numerous opportunities:
+Tripoli's P2P market offers many opportunities:
 - **Large Spreads:** Local prices can differ significantly from global prices.
 - **Low Liquidity:** Large orders can significantly impact prices.
 - **Information Gaps:** Traders may lack access to global market data.

@@ -113,7 +113,7 @@ The relevance of these skills increases at each career level:
 - **Junior Level:** Technical skills are critical, but communication becomes increasingly important.
 - **Mid Level:** Balancing technical and soft skills is essential; leadership potential often emerges.
 - **Senior Level:** Soft skills account for a significant portion of your effectiveness.
-- **Leadership:** Emotional intelligence and communication become paramount.
+- **Leadership:** Emotional intelligence and communication become essential.
 
 ### Common Development Mistakes
 
@@ -126,7 +126,7 @@ The relevance of these skills increases at each career level:
 ### FAQ
 
 **Can these skills be taught or are they innate?**  
-All of these skills can be cultivated through intentional practice. While some individuals may possess natural advantages, training and experience play a more significant role.
+All of these skills can be cultivated through intentional practice. While some individuals may possess natural advantages, training and experience play a more important role.
 
 **How do I know I'm improving?**  
 Set specific, measurable goals. Assess your progress through projects, feedback from peers, and your success rate in various tasks.

@@ -40,7 +40,7 @@ The Mark Price serves as the benchmark for margin and liquidation calculations w
 
 ### Importance of Mark Price
 
-The Mark Price plays a vital role in protecting traders from adverse market conditions.
+The Mark Price is important for protecting traders from adverse market conditions.
 
 - **Protection Against Unfair Liquidations**: It shields traders from being liquidated during "liquidation hunts," where a large trader might attempt to manipulate the price on an exchange to trigger a wave of liquidations.
 - **Realistic Profit and Loss Calculations**: The Mark Price provides a more accurate measure of unrealized profits and losses (PnL). While a position remains open, the unrealized PnL is determined by the difference between the entry price and the current Mark Price. The final realized PnL is only calculated when the position is closed at the Last Price.

@@ -9,7 +9,7 @@ lastUpdated: "2026-04-29"
 
 ## The Importance of Mentorship in Web3
 
-Mentorship plays a significant role in career development, especially in the rapidly growing Web3 sector. A skilled mentor can:
+Mentorship plays a important role in career development, especially in the rapidly growing Web3 sector. A skilled mentor can:
 
 - Help you avoid mistakes that could hinder your progress. For instance, a mentor can warn you about common pitfalls when entering new projects or technologies.
 - Shorten your learning curve by providing insights and resources that expedite your understanding of complex concepts. For example, a mentor might share specific tools or frameworks that have proven effective.

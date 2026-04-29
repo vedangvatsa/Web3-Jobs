@@ -84,7 +84,7 @@ For a guild to offer profitable scholarships, the underlying game must demonstra
 A game is considered profitable when:
 
 - **Token emissions exceed scholarship costs**: For example, if a scholar earns a certain number of tokens per day valued at a specific amount, their total earnings reach a significant daily total. After paying the guild and manager, the scholar might take home a notable portion. For the guild to profit, it must be able to reinvest in new scholars effectively.
-- **Player retention remains high**: A significant dropout rate necessitates constant recruitment and training, inflating operational costs.
+- **Player retention remains high**: A significant dropout rate requires constant recruitment and training, inflating operational costs.
 - **Token prices remain stable**: Many games have faced token price collapses, drastically affecting economic models. Numerous unsustainable games folded when they relied solely on new player recruitment for income.
 - **Gameplay is engaging**: Players need to enjoy the game; otherwise, they may lose interest and stop playing.
 

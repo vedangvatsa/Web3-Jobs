@@ -50,7 +50,7 @@ Litecoin's trajectory reflects an evolutionary narrative rather than a failure. 
 2. **Developer Activity is a Key Health Metric:** Over time, a blockchain's value hinges on the innovation occurring within its ecosystem. Monitoring developer activity serves as one of the most effective means to assess long-term health and potential.
 3. **Innovation is a Moving Target:** The crypto sector evolves rapidly. Protocols that fail to adapt risk becoming outdated, respected for their historical significance but no longer at the forefront of innovation.
 
-Litecoin's experience underscores a fundamental reality in the Web3 field: in the race for the future of the internet, the most valuable asset is neither capital nor brand recognition but the enthusiasm and creativity of a thriving developer community.
+Litecoin's experience highlights a fundamental reality in the Web3 field: in the race for the future of the internet, the most valuable asset is neither capital nor brand recognition but the enthusiasm and creativity of a growing developer community.
 
 ### The Importance of Developer Engagement
 
@@ -68,7 +68,7 @@ Different blockchain projects adopt varying strategies to engage their developer
 | Documentation Availability    | Extensive resources and tutorials | Limited resources                 |
 | Ecosystem Support             | Numerous dApps and projects      | Few active projects               |
 
-Litecoin's minimal engagement strategies contribute to its developer activity decline. In contrast, Ethereum's full approach builds a thriving community.
+Litecoin's minimal engagement strategies contribute to its developer activity decline. In contrast, Ethereum's full approach builds a growing community.
 
 ### Future Outlook for Litecoin
 

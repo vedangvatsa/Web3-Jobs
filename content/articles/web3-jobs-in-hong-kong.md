@@ -250,4 +250,4 @@ A: Compensation is competitive globally. Positions offering competitive salaries
 - LinkedIn for institutional roles.
 - AngelList for startup opportunities.
 
-Hong Kong's Web3 job market is expanding rapidly, driven by regulatory clarity and a significant focus on institutional investment. As the city evolves into a central hub for digital assets, professionals who align their skills with market demands will find ample opportunities. Accepting the challenges and using the resources available will be key to success in this thriving environment.
+Hong Kong's Web3 job market is expanding rapidly, driven by regulatory clarity and a significant focus on institutional investment. As the city evolves into a central hub for digital assets, professionals who align their skills with market demands will find ample opportunities. Accepting the challenges and using the resources available will be key to success in this growing environment.

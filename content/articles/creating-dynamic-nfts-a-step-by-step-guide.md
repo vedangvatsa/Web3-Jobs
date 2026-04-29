@@ -65,7 +65,7 @@ Creating dynamic NFTs comes with its own set of challenges:
 - **Gas Fees**: Each time the NFT’s state updates via an oracle call, it incurs an on-chain transaction fee. Frequent updates can lead to high costs, prompting many projects to consider Layer 2 solutions.
 - **Centralization Risks**: The reliability of the oracle network and the data source is critical. An unreliable data source can compromise the logic of the dNFT.
 
-Dynamic NFTs transform static digital assets into interactive objects that can respond to real-world stimuli. This innovation presents an exciting opportunity for creators and developers to craft more engaging [Web3](/what-is-web3) experiences.
+Dynamic NFTs transform static digital assets into interactive objects that can respond to real-world stimuli. This innovation presents an good opportunity for creators and developers to craft more engaging [Web3](/what-is-web3) experiences.
 
 ### Importance of Understanding Dynamic NFTs
 

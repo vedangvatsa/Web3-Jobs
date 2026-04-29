@@ -63,7 +63,7 @@ This design concentrates the majority of the pool's liquidity within a narrow ra
 
 ### The CRV Token and the "Curve Wars"
 
-The CRV token serves as Curve's governance token and plays a vital role in the DeFi ecosystem.
+The CRV token serves as Curve's governance token and is important for the DeFi ecosystem.
 
 - **[Staking](/how-to-become-a-web3-staking-specialist) for veCRV**: Users can lock their CRV tokens for a maximum of four years to receive `veCRV` (vote-escrowed CRV).
 - **Boosted Rewards**: Holding `veCRV` permits LPs to amplify their share of CRV rewards from liquidity gauges by a factor of up to 2.5.

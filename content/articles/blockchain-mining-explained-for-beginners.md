@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-29"
 ---
 
-You've likely encountered the term "[Bitcoin](/what-is-bitcoin) mining," which often sparks images of individuals with pickaxes searching for digital treasures. However, the reality is more nuanced. [Blockchain](/what-is-a-blockchain) mining serves as a fundamental mechanism for many cryptocurrencies, particularly those using a **[Proof-of-Work (PoW)](/proof-of-stake-vs-proof-of-work-in-blockchain)** consensus model. This process verifies new transactions and integrates them into the blockchain while simultaneously introducing new coins into circulation.
+You've likely encountered the term "[Bitcoin](/what-is-bitcoin) mining," which often sparks images of individuals with pickaxes searching for digital treasures. However, the reality is more specific. [Blockchain](/what-is-a-blockchain) mining serves as a fundamental mechanism for many cryptocurrencies, particularly those using a **[Proof-of-Work (PoW)](/proof-of-stake-vs-proof-of-work-in-blockchain)** consensus model. This process verifies new transactions and integrates them into the blockchain while simultaneously introducing new coins into circulation.
 
 This article clarifies blockchain mining, emphasizing its critical role in network security.
 

@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 Token-based compensation has emerged as a practice in [Web3](/what-is-web3), granting team members and contributors direct ownership of the networks they help build. This approach shifts the traditional compensation model away from just salaries and equity in centralized companies, incorporating significant grants of a protocol’s native tokens into the compensation packages of Web3 professionals.
 
-This model aligns the financial success of team members with the long-term health and growth of the ecosystem. When individuals hold tokens, they become co-owners, building a vested interest in the project's success. However, crafting an effective token compensation plan requires a nuanced understanding of [tokenomics](/understanding-tokenomics), market dynamics, and behavioral economics. A poorly designed plan may lead to short-term thinking and misaligned incentives. In contrast, a well-structured plan can cultivate a culture of ownership that drives commitment and performance.
+This model aligns the financial success of team members with the long-term health and growth of the ecosystem. When individuals hold tokens, they become co-owners, building a vested interest in the project's success. However, crafting an effective token compensation plan requires a detailed understanding of [tokenomics](/understanding-tokenomics), market dynamics, and behavioral economics. A poorly designed plan may lead to short-term thinking and misaligned incentives. In contrast, a well-structured plan can cultivate a culture of ownership that drives commitment and performance.
 
 This article outlines a framework for founders and People Operations leaders on designing and implementing effective tokenomics for Web3 compensation.
 

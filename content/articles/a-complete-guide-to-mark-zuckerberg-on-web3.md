@@ -11,7 +11,7 @@ lastUpdated: "2026-04-29"
 
 ## Introduction: The Incumbent's Gambit
 
-Mark Zuckerberg, founder and CEO of Meta (previously Facebook), plays a significant role in the discussions surrounding [Web3](/what-is-web3) and the metaverse. Unlike crypto-native innovators who advocate for decentralization, Zuckerberg approaches the metaverse as a Web2 incumbent. His ambition is to shape and dominate the next computing platform, similar to what Facebook achieved in social media.
+Mark Zuckerberg, founder and CEO of Meta (previously Facebook), plays a important role in the discussions surrounding [Web3](/what-is-web3) and the metaverse. Unlike crypto-native innovators who advocate for decentralization, Zuckerberg approaches the metaverse as a Web2 incumbent. His ambition is to shape and dominate the next computing platform, similar to what Facebook achieved in social media.
 
 This analysis examines Zuckerberg's vision for the metaverse, the rationale behind Facebook's rebranding to Meta, the company’s significant investments in virtual and augmented reality (VR/AR), and the notable differences between his centralized approach and the decentralized principles used by the Web3 community.
 

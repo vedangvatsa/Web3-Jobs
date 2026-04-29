@@ -28,7 +28,7 @@ Tokenizing a real-world property involves a combination of legal structuring and
 
 ### Emerging Career Paths in Web3 Real Estate
 
-The tokenization of real estate necessitates professionals who possess knowledge in both real estate finance and blockchain technology.
+The tokenization of real estate requires professionals who possess knowledge in both real estate finance and blockchain technology.
 
 | **Career Path**                       | **Responsibilities**                                                                 | **Skills Required**                                                             |
 |---------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|

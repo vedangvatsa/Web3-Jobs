@@ -3,7 +3,7 @@
 title: "Why Web3 Is Important for the Future of Finance"
 image: "/images/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg"
 data-ai-hint: "future finance web3"
-description: "An analysis of why Web3 and its core component, DeFi, are poised to fundamentally reshape the global financial system by creating a more open."
+description: "An analysis of why Web3 and its core component, DeFi, are set to fundamentally reshape the global financial system by creating a more open."
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
@@ -16,7 +16,7 @@ Web3 goes beyond merely establishing new avenues for trading cryptocurrencies. I
 
 ### The Problems with Traditional Finance (TradFi)
 
-Understanding the significance of Web3 necessitates an examination of the limitations inherent in the current financial system.
+Understanding the significance of Web3 requires an examination of the limitations inherent in the current financial system.
 
 - **Centralized and Permissioned:** Traditional finance requires permission from banks for account access, credit, or significant transfers. This power allows institutions to exclude many individuals globally from financial services and restrict transactions they oppose.
 - **Opaque Operations:** The mechanisms of large financial entities often remain hidden, concealing risk, as highlighted by the 2008 financial crisis.

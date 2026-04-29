@@ -13,7 +13,7 @@ lastUpdated: "2026-04-29"
 
 What truly motivates individuals at work extends beyond traditional rewards. The common belief that financial incentives, such as bonuses and raises, are sufficient to drive performance has proven limited. While this "carrots and sticks" model can work for simple tasks, it often fails in creative and complex environments that define the modern workplace. Excessive emphasis on external rewards can undermine intrinsic motivation, leading to disengagement and burnout.
 
-Intrinsic motivation arises from a deep-seated desire for meaningful work. It flourishes in environments that support autonomy, mastery, and purpose. Leaders play a important role in cultivating these conditions to enhance employee motivation and performance.
+Intrinsic motivation arises from a deep-seated desire for meaningful work. It flourishes in environments that support autonomy, mastery, and purpose. Leaders play a important role in Building these conditions to enhance employee motivation and performance.
 
 Based on insights from research, particularly Daniel Pink's *Drive*, this article explores three foundational elements of intrinsic motivation: **Autonomy, Mastery, and Purpose**.
 

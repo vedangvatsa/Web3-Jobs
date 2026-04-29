@@ -43,7 +43,7 @@ Gary encourages founders and creators to think of their NFT projects not as a sh
 
 Drawing on his decades of experience in social media marketing, Gary emphasizes that a strong, engaged, and positive community is the most important asset for any Web3 project.
 
-*   **From Audience to Community:** Web3 allows brands to move beyond having a passive "audience" to cultivating an active "community" of owners. When users own a piece of the project (the NFT), their incentives are aligned with the project's success.
+*   **From Audience to Community:** Web3 allows brands to move beyond having a passive "audience" to Building an active "community" of owners. When users own a piece of the project (the NFT), their incentives are aligned with the project's success.
 *   **The "Vibe" Matters:** He often speaks about the importance of the "vibe" or culture within a community. A positive, supportive, and collaborative community will attract more like-minded members and create a network effect that is difficult for competitors to replicate.
 
 ## VeeFriends: Putting the Thesis into Practice

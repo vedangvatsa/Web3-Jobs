@@ -29,7 +29,7 @@ This area focuses on developing infrastructure to execute or verify AI models in
 
 Standard [oracles](/what-are-oracles) typically relay simple data, such as asset prices, to the blockchain. An AI/Web3 Engineer develops oracles capable of processing complex, unstructured real-world data.
 
-- **Goal:** Enable [smart contracts](/what-are-smart-contracts) to respond to nuanced real-world events.
+- **Goal:** Enable [smart contracts](/what-are-smart-contracts) to respond to specific real-world events.
 - **Example Task:** Build an oracle service that employs a natural language processing (NLP) model to assess social media sentiment. This service would then submit a sentiment score to the blockchain, which a [DeFi](/what-is-defi) protocol could use for risk assessment.
 
 #### 3. Developing AI-Powered Autonomous Agents and [DAOs](/what-is-a-dao)

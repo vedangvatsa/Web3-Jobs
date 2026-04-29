@@ -85,7 +85,7 @@ In Web3, your non-technical skills often hold equal importance to your technical
 - **Tools:** Dune Analytics is a platform for querying and visualizing on-chain data using SQL.
 - **Applications:** Analysts use Dune to create dashboards that track key metrics, analyze user behavior, and identify market trends. This data informs product and governance decisions.
 
-**Learning Resources:** Dune offers numerous public dashboards. Begin by forking existing queries and modifying them. Learning SQL will greatly enhance your data manipulation skills.
+**Learning Resources:** Dune offers many public dashboards. Begin by forking existing queries and modifying them. Learning SQL will greatly enhance your data manipulation skills.
 
 ### 8. Memetic Marketing & Narrative Building
 

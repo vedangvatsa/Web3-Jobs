@@ -3,7 +3,7 @@
 title: "How Web3 Is Shaping the Future of the Music Industry"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "music industry future"
-description: "From NFT royalties to fan-owned record labels, explore how Web3 is poised to disrupt the music industry, creating a more equitable model for artists and fans."
+description: "From NFT royalties to fan-owned record labels, explore how Web3 is set to disrupt the music industry, creating a more equitable model for artists and fans."
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"

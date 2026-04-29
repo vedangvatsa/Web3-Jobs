@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 Landing your first job in [Web3](/what-is-web3) marks an important milestone, but it is only the beginning of your professional journey. The Web3 sector evolves rapidly, requiring a commitment to ongoing education, skill enhancement, and a proactive approach to career development. The skills that helped you secure your initial position may not suffice for future roles.
 
-This guide targets professionals already working within the Web3 ecosystem who seek to understand their next career steps. We will examine strategies for career advancement, including deepening specialization, contributing to open-source projects, transitioning into leadership positions, and cultivating a sustainable career in the decentralized economy.
+This guide targets professionals already working within the Web3 ecosystem who seek to understand their next career steps. We will examine strategies for career advancement, including deepening specialization, contributing to open-source projects, transitioning into leadership positions, and Building a sustainable career in the decentralized economy.
 
 ### Principle 1: Never Stop Learning
 

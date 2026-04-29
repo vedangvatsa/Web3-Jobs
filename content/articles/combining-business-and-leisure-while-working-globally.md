@@ -30,7 +30,7 @@ Maintaining productivity in the face of new and exciting surroundings is a prima
 
 2. **Use Time-Blocking:** Plan your workday in advance using time-blocking. Allocate specific periods for deep work, meetings, and administrative tasks. Protect these deep work blocks from distractions to maximize effectiveness.
 
-3. **Align with Your Team's Time Zone:** Remain available during your team's core working hours, even if it feels inconvenient. Remote work necessitates adapting to your team's schedule. Use a time zone converter to track colleagues' hours.
+3. **Align with Your Team's Time Zone:** Remain available during your team's core working hours, even if it feels inconvenient. Remote work requires adapting to your team's schedule. Use a time zone converter to track colleagues' hours.
 
 4. **Excel in Asynchronous Communication:** As a remote worker on a global team, proficiency in [asynchronous communication](/remote-work-in-web3) is important. Ensure your written updates are detailed enough for colleagues to comprehend your progress without needing live discussions.
 
@@ -43,7 +43,7 @@ Maintaining productivity in the face of new and exciting surroundings is a prima
 
 ### Strategies for Maximizing Your Leisure Time
 
-The "leisure" aspect of bleisure is paramount. Here’s how to optimize your free time.
+The "leisure" aspect of bleisure is critical. Here’s how to optimize your free time.
 
 1. **Plan Your Activities:** Avoid aimless wandering. Before arriving in a new city, compile a list of key attractions and activities. This strategy allows you to use your free time more intentionally.
 

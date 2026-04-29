@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 Lusaka, the capital of Zambia, is rapidly transforming into a significant player in the [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology sectors in Southern Africa. The city boasts a youthful, entrepreneurial population with increasing mobile and internet access. The Zambian government actively supports digital innovations, enhancing Lusaka's potential as a hub for blockchain initiatives. Developers, startups, and community builders are using decentralized technology to tackle local issues and create new economic opportunities.
 
-The Web3 environment in Lusaka thrives on community engagement, educational initiatives, and practical applications in sectors such as financial inclusion and agricultural technology (AgriTech). While the market is still evolving, the enthusiasm and possibilities are evident, allowing professionals to take on leadership roles in this burgeoning industry. This guide outlines the [Web3 career](/web3-jobs-for-beginners) opportunities in Lusaka, highlighting key trends, in-demand skills, and strategies for building a successful career in this growing tech scene.
+The Web3 environment in Lusaka thrives on community engagement, educational initiatives, and practical applications in sectors such as financial inclusion and agricultural technology (AgriTech). While the market is still evolving, the enthusiasm and possibilities are evident, allowing professionals to take on leadership roles in this growing industry. This guide outlines the [Web3 career](/web3-jobs-for-beginners) opportunities in Lusaka, highlighting key trends, in-demand skills, and strategies for building a successful career in this growing tech scene.
 
 ### The Lusaka Web3 Ecosystem
 

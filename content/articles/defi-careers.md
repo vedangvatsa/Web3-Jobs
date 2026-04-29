@@ -90,7 +90,7 @@ will be beneficial. Engaging with project documentation, following DeFi developm
 
 ### Security Awareness
 
-Security is paramount for any role involving code that manages financial transactions. While not everyone needs to be a security expert, a security-minded approach is necessary. This includes anticipating edge cases, validating inputs, and recognizing potential exploits.
+Security is critical for any role involving code that manages financial transactions. While not everyone needs to be a security expert, a security-minded approach is necessary. This includes anticipating edge cases, validating inputs, and recognizing potential exploits.
 
 Developers should write defensive code that mitigates risk. Auditors must have a deep understanding of vulnerability patterns, while protocol engineers should consider incentive structures and potential exploits.
 

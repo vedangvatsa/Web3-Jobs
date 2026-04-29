@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-29"
 ---
 
-You've successfully passed the initial screening call for a [Web3](/what-is-web3) [developer role](/entry-level-jobs-in-web3). The next step typically involves a **take-home assignment**. This assignment plays a vital role in the [interview](/how-to-prepare-for-job-interview) process, allowing companies to evaluate your practical coding skills, attention to detail, and ability to work autonomously.
+You've successfully passed the initial screening call for a [Web3](/what-is-web3) [developer role](/entry-level-jobs-in-web3). The next step typically involves a **take-home assignment**. This assignment is important for the [interview](/how-to-prepare-for-job-interview) process, allowing companies to evaluate your practical coding skills, attention to detail, and ability to work autonomously.
 
 These assignments differ from abstract algorithm challenges; they mimic actual tasks you'll encounter in the role. Completing the assignment effectively can significantly enhance your chances of advancing to the final interview round. This article outlines the most common types of take-home projects anticipated for [smart contract](/what-are-smart-contracts) and full-stack Web3 roles.
 

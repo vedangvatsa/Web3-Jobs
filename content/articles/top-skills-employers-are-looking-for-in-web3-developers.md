@@ -65,7 +65,7 @@ Deploying smart contracts requires a secure and automated process.
 
 ### 8. Data Indexing (The Graph)
 
-Efficient data retrieval from the blockchain often necessitates an indexing layer.
+Efficient data retrieval from the blockchain often requires an indexing layer.
 
 - **Key Concepts:** Learn to build a "subgraph" using The Graph protocol, which involves defining a schema and writing mapping functions in AssemblyScript to transform on-chain event data into a queryable GraphQL API.
 - **Practical Steps:** Follow the official Graph documentation and [build a subgraph](/your-first-subgraph-indexing-blockchain-data-with-the-graph) for your NFT or DeFi project.
