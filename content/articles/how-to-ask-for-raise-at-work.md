@@ -100,22 +100,3 @@ Avoid attempting to change everything at once. Focus on one small adjustment and
 
 Monitor your progress. Are you achieving the desired results? Adjust your strategy based on feedback and outcomes. Embrace a mindset of continuous improvement.
 
-### Real-World Examples
-
-#### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with compensation discussions. After implementing researched strategies, she successfully secured a significant salary increase within a few months.
-
-#### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), encountered similar hurdles. By applying the outlined framework, he negotiated a notable salary increase after successfully launching a new product line. His experience illustrates the efficacy of these principles.
-
-#### Example 3
-Maya transitioned from a Web2 role to Web3 and used these strategies to adapt quickly. Her success underscores that these methods are effective regardless of background or experience level.
-
-### Common Mistakes to Avoid
-
-1. **Hastening the Process**: Expecting immediate results can lead to disappointment. Sustainable change requires time.
-2. **Disregarding Feedback**: Insights from colleagues, managers, and mentors can highlight blind spots. Value their perspectives.
-3. **Using a Generic Approach**: Customize your strategies to fit your unique context. What works for one may not work for another.
-4. **Quitting Too Early**: Change can be uncomfortable. Persist through initial challenges to achieve better outcomes.
-5. **Neglecting Progress Tracking**: Without metrics, improvement becomes elusive. Document your progress to measure success.
-

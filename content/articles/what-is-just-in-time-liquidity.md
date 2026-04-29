@@ -109,26 +109,3 @@ Avoid overwhelming changes. Start with small, manageable adjustments and build o
 
 Track your progress and results. Be prepared to adapt your approach based on outcomes and feedback. This mindset supports continuous improvement.
 
-### Real-World Examples
-
-#### Example 1
-Consider Sarah, a blockchain developer at a startup. Initially struggling with understanding JIT liquidity, she implemented targeted strategies. Within a few months, she significantly improved her trading performance metrics, particularly in fee generation.
-
-#### Example 2
-Juan, a product manager in DeFi, faced challenges related to liquidity strategies. By applying the framework outlined here, he successfully enhanced his product's efficiency in capturing trading fees. His experience illustrates the effectiveness of these principles in practice.
-
-#### Example 3
-Maya, transitioning from a Web2 to a Web3 environment, used these strategies to adapt swiftly. Her success demonstrates that understanding JIT liquidity is beneficial across varying backgrounds and experience levels.
-
-### Common Mistakes to Avoid
-
-1. **Rushing the Process**: Expecting immediate results can lead to frustration. Understand that sustainable change requires time.
-  
-2. **Ignoring Feedback**: Colleagues and mentors can offer valuable insights. Pay attention to their perspectives.
-
-3. **One-Size-Fits-All Approach**: Adapt strategies to fit your unique context rather than following a generic template.
-
-4. **Giving Up Too Soon**: Embrace discomfort as part of the learning process. Persist through initial challenges to achieve better outcomes.
-
-5. **Not Tracking Progress**: To improve, you must measure your advancements. Maintain metrics to assess your development.
-

@@ -250,26 +250,3 @@ Bad answer: Generic answer, or answer that suggests you'll leave immediately.
 
 **Follow up**: Thank the interviewer after the interview. Reiterate interest in the role.
 
-## Common Mistakes to Avoid
-
-**Not researching the company**: Not knowing anything about the project you're interviewing for is a red flag.
-
-**Overselling yourself**: Exaggerating experience or knowledge gets exposed quickly and damages credibility.
-
-**Not knowing basic concepts**: Struggling with basic Web3 concepts for a Web3 role is problematic.
-
-**Appearing mercenary**: Making it about money rather than the mission/technology hurts.
-
-**Defensive about Web3**: Being defensive about legitimate criticisms of Web3 makes you seem not thoughtful.
-
-**Not asking questions**: Not asking questions about the role or company makes you seem disengaged.
-
-**Disappearing after the interview**: Following up is important. Not following up makes you seem not interested.
-
-## The Bottom Line
-
-Preparing for Web3 interviews requires understanding the technology, the industry, and being able to discuss it meaningfully. It also requires standard interview preparation: understanding the company, preparing examples, and practicing.
-
-Web3 interviews test both technical knowledge (for developer roles) and understanding of the space (for all roles). Being able to discuss Web3 thoughtfully, honestly, and with genuine interest is key.
-
-With good preparation and authentic interest in Web3, you can ace Web3 interviews and land roles in this exciting and fast-moving industry.
