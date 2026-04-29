@@ -110,26 +110,3 @@ Avoid the temptation to overhaul your resume all at once. Start with small, mana
 
 Continuously monitor your progress. Are you achieving the desired results? Be prepared to adjust your approach based on feedback and outcomes. Maintaining a mindset of continuous improvement is vital.
 
-### Real-World Examples
-
-#### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with her resume until she applied these strategies. Within a few months, she saw a significant increase in interview invitations, leading to a job offer at a leading tech company.
-
-#### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), encountered similar issues with his resume. By implementing targeted changes, he successfully landed interviews that resulted in multiple job offers within a short period. His experience illustrates the effectiveness of focusing on achievements.
-
-#### Example 3
-Maya transitioned from Web2 to Web3, using the outlined approach to adapt her resume. Her success in securing interviews and job offers demonstrates that these strategies apply regardless of background or experience level.
-
-### Common Mistakes to Avoid
-
-1. **Rushing the Process**: Expecting immediate results can lead to frustration. Sustainable change requires time and patience.
-  
-2. **Ignoring Feedback**: Colleagues, mentors, and managers can offer valuable insights. Pay attention to their feedback.
-
-3. **One-Size-Fits-All Approach**: Strategies that work for others may not suit your situation. Adapt these principles to fit your needs.
-
-4. **Giving Up Too Soon**: Change can be uncomfortable. Persevere through initial challenges to achieve better outcomes.
-
-5. **Neglecting Progress Tracking**: Improvement requires measurement. Keep track of your progress to identify areas for growth.
-

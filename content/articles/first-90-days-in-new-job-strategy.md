@@ -119,17 +119,3 @@ You now have a solid understanding of the company dynamics. It is time to start 
 
 **Stay Humble:** Avoid suggesting major changes in your initial days. Approach your new role with humility and openness, which can be more impressive than having all the answers.
 
-## Common Mistakes to Avoid
-
-**Coming in Too Hot:** New hires sometimes attempt to make an immediate impact, which can backfire if they do not understand the context or organizational dynamics.
-
-**Not Asking Questions:** Fear of appearing uninformed can hinder your willingness to ask questions. Remember, your manager and colleagues expect inquiries; not asking them can be more unusual.
-
-**Not Building Relationships:** While completing tasks is essential, building relationships lays the groundwork for future collaboration. Focus on developing those connections.
-
-**Comparing Your New Company to Your Last One:** Statements like "At my last company, we did it this way" can become tiresome. Take time to observe before suggesting changes.
-
-**Not Getting Feedback:** Don't wait for a formal review to gauge your performance. Actively seek feedback from your manager and colleagues to make timely adjustments.
-
-**Ignoring Company Culture:** If the organization's culture is formal and you tend to be casual, or vice versa, adapt your style accordingly. Respecting company culture builds quicker integration.
-

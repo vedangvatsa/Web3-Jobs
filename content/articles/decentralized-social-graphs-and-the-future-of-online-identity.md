@@ -72,15 +72,3 @@ The emergence of a decentralized social graph is a critical development in the W
 
 The path to a fully decentralized social media ecosystem is still unfolding. Current user experiences may be uneven, and the challenges of content moderation in a decentralized context are considerable. Nevertheless, developing an open social graph marks a vital step toward fulfilling the internet's original promise: a permissionless space for connection, creativity, and user agency.
 
-## Common Mistakes to Avoid
-
-1. **Rushing the Process:** Expecting immediate results can lead to disappointment. Sustainable change requires time and effort.
-
-2. **Ignoring Feedback:** Feedback from colleagues and mentors can provide insights you might overlook. Seek out and value their input.
-
-3. **One-Size-Fits-All Approach:** Strategies effective for others may not suit your unique context. Customize your approach to your specific situation.
-
-4. **Giving Up Too Soon:** Change often brings discomfort. Persist through initial challenges to achieve better outcomes.
-
-5. **Not Tracking Progress:** Measuring your progress is essential for improvement. Keep metrics to evaluate your development.
-
