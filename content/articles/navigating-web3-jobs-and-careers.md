@@ -60,19 +60,3 @@ The demand for talent in Web3 spans a variety of roles, both technical and non-t
 
 ### The Growing Web3 Opportunity
 
-The Web3 sector is expanding rapidly, with demand for skilled professionals greatly exceeding supply. This growth presents unique advantages compared to traditional tech roles: 
-
-- **Compensation:** Web3 positions typically pay more than equivalent Web2 roles, along with the potential for equity and token incentives.
-- **Remote Work Culture:** Most Web3 firms operate fully or primarily remote, providing flexibility that is often absent in traditional technology roles.
-- **Career Advancement:** Professionals experience faster career progression in Web3 due to rapid company scaling and a shortage of qualified talent.
-- **Equity Potential:** Token and equity packages are standard, offering significant wealth-building opportunities.
-
-### Market Dynamics Comparison: Web2 vs. Web3
-
-| Factor                     | Web2 Dynamics                              | Web3 Dynamics                                    |
-|---------------------------|-------------------------------------------|-------------------------------------------------|
-| Compensation               | Base salary with limited equity           | Higher base salaries with bonuses and tokens |
-| Work Environment           | Primarily office-based                     | Mostly remote-first                             |
-| Career Growth              | Traditional hierarchies                   | Rapid scaling and flexibility                    |
-| Equity Opportunities       | Limited stock options                     | Token allocations and equity packages available   |
-

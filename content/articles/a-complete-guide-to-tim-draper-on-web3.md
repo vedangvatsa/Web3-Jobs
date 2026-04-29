@@ -57,25 +57,3 @@ Draper envisions a future where Bitcoin and [smart contracts](/what-are-smart-co
 
 Tim Draper is known for his bold and specific price predictions for Bitcoin. He has repeatedly asserted that Bitcoin will reach significant values in the coming years. While these predictions generate headlines, they serve a broader purpose: to communicate his deep, long-term conviction in Bitcoin's potential. Draper is not a short-term trader; he is a fundamental investor who believes that Bitcoin's technological advantages will ultimately enable it to replace a substantial portion of the traditional financial system. He views daily price fluctuations as mere noise, concentrating instead on long-term trends in adoption.
 
-## Conclusion: The True Believer
-
-Tim Draper embodies the role of a "true believer" in the cryptocurrency space and serves as a foundational figure in the Web3 ecosystem. His early and public investment in the Silk Road bitcoins marked a significant moment that helped legitimize cryptocurrency in the eyes of traditional investors.
-
-Draper's unwavering focus on Bitcoin, despite differing perspectives from other venture capitalists who advocate for multi-chain strategies, presents a clear and consistent thesis. He envisions a transition from tribal, geographic organization to a global, interconnected society, with Bitcoin serving as the native currency. For Draper, Bitcoin represents more than just an investment; it signifies a key technology for freedom and a catalyst for the next transformation of global society.
-
-### Frequently Asked Questions (FAQ)
-
-**Q1: Who is Tim Draper?**  
-A1: Tim Draper is a prominent venture capitalist and founder of Draper Fisher Jurvetson (DFJ) and Draper Associates, known for early investments in transformative companies like Hotmail, Skype, Tesla, and others.
-
-**Q2: What is Tim Draper's famous Bitcoin purchase?**  
-A2: In 2014, Tim Draper purchased nearly 30,000 bitcoins in an auction held by the U.S. Marshals Service, which had seized them from the Silk Road. This purchase served as a strong endorsement of Bitcoin during uncertain times.
-
-**Q3: What is Tim Draper's Bitcoin price prediction?**  
-A3: Tim Draper has made bullish predictions regarding Bitcoin's price, famously stating that it will reach significant values.
-
-**Q4: Is Tim Draper a Bitcoin maximalist?**  
-A4: Yes, Draper is often referred to as a Bitcoin maximalist. While he has invested in other crypto companies, his public statements and core philosophy primarily focus on Bitcoin's potential as the future global currency.
-
-**Q5: What is "Draper University"?**  
-A5: Draper University is an entrepreneurship program established by Tim Draper in Silicon Valley, offering an unconventional, immersive experience for aspiring entrepreneurs with a strong emphasis on future technologies, including Web3 and Bitcoin.

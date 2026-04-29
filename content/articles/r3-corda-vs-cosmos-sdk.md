@@ -109,10 +109,3 @@ While enterprise permissioned deployments using Cosmos SDK are less publicly doc
 
 Transitioning to Corda from an existing system typically requires rebuilding business logic as CorDapps and integrating Corda nodes into current banking middleware. This process often spans multiple years for large institutions. In contrast, migrating to or between Cosmos SDK chains is more manageable, especially when IBC is used, as state can be transferred across chains using the protocol. A notable migration risk with Cosmos involves validator set management and the operational intricacies of maintaining a sovereign chain.
 
-## Conclusion
-
-For **regulated financial institutions** engaging in bilateral or consortium transactions, including banks, custodians, clearinghouses, and insurers, **R3 Corda** proves to be the superior technical choice. Its privacy model is not replicable on a replicated state machine architecture without substantial compromises. Also, the integration of legal prose is unmatched. If the primary requirement is that "counterparty B must not see my transaction with counterparty A," Corda was specifically designed to address that need.
-
-Conversely, organizations seeking **sovereign chain control, cross-chain interoperability, or high-throughput public or hybrid deployments** will find the **Cosmos SDK** to be a more reliable foundation. The IBC ecosystem, along with the Go-native developer experience and proven production chains managing significant financial volume, positions it as a credible enterprise solution, particularly for exchanges, DeFi infrastructure, and applications needing to connect with the broader on-chain economy.
-
-The decision is seldom close once you delineate your requirements. Privacy-focused bilateral settlements direct you to Corda, while the need for sovereign, interoperable chain infrastructure leads to the Cosmos SDK. Choosing based solely on ecosystem familiarity rather than architectural suitability can result in misalignment with organizational goals.

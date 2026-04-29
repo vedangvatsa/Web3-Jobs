@@ -67,25 +67,3 @@ Ravikant differentiates between **blockchains**, public, open, and permissionles
 
 He expresses skepticism towards corporate or consortium blockchains, arguing that they fail to capture the true essence of blockchain technology. For him, the value of a blockchain lies in its decentralization and capacity to create neutral, open platforms. Private blockchains merely function as slow, inefficient databases, while true innovation thrives on public chains.
 
-## Conclusion: A First-Principles Thinker
-
-Naval Ravikant's insights into Web3 reflect his commitment to first-principles thinking. He argues that blockchains facilitate new monetary systems and market structures, transferring power from centralized institutions to individuals. By focusing on the fundamental changes enabled by blockchains, he avoids the distractions of hype and speculation.
-
-Ravikant's framework illustrates how Web3 supports new monetary forms and market opportunities that enable individuals. By using code and networks, it allows for permissionless value creation, granting individuals control over their economic identity and assets. His philosophical contributions provide a solid foundation for understanding Web3's structural significance.
-
-### Frequently Asked Questions (FAQ)
-
-**Q1: Is Naval Ravikant a Bitcoin maximalist?**  
-A1: Ravikant respects Bitcoin as a decentralized store of value but does not strictly identify as a maximalist. He recognizes the potential of Ethereum and other platforms for building new open markets through smart contracts.
-
-**Q2: What is Naval's most famous quote about crypto?**  
-A2: He frequently states, "Blockchains will replace networks with markets." This highlights his belief that open markets will replace centralized networks dominated by corporations like Facebook or Uber.
-
-**Q3: How does Naval view the role of venture capital in Web3?**  
-A3: Although he has a background in venture capital, Ravikant acknowledges the inherent conflict between centralized VC funding and the decentralized nature of Web3. He argues that crypto democratizes venture capital, allowing projects to secure funding directly from their communities. He critiques VCs who use their influence to manipulate protocols for personal gain.
-
-**Q4: What is Naval's "Almanack"?**  
-A4: *The Almanack of Naval Ravikant*, compiled by Eric Jorgenson, summarizes Ravikant's wisdom drawn from his tweets, essays, and podcast discussions. While it does not focus solely on Web3, it encompasses his core ideas about wealth, happiness, and philosophy, which underpin his views on cryptocurrency.
-
-**Q5: What is Naval's view on [NFTs](/what-are-nfts)?**  
-A5: Ravikant considers NFTs an integral component of the "blockchains as markets" thesis. He views them as the technology enabling verifiable ownership and trade of unique digital items, such as art, music, game assets, and domain names, within an open market, a capability that did not exist prior to their introduction.

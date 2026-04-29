@@ -206,22 +206,3 @@ Compensation is often reflective of the high level of trust and responsibility a
 4. **Network Authentically:** Connect with individuals based on genuine interest in their work. Thoughtfully comment on their posts. Rather than asking for jobs, build relationships by providing value first.
 5. **Use the Product:** The best way to grasp Web3 is through hands-on experience. Test various dApps, provide liquidity, vote in a DAO, and mint an NFT. Your practical experience carries weight.
 
-## Frequently Asked Questions (FAQ)
-
-**Do I need to learn to code at all?**  
-You don't need to be a developer to succeed in Web3. However, understanding how smart contracts work, what transactions entail, and how to use block explorers like Etherscan will enhance your effectiveness in any non-technical role. Consider this "technical literacy," rather than coding proficiency.
-
-**How do I find these jobs?**  
-Traditional job boards may not yield the best results. Instead, seek opportunities through:
-* **Twitter:** Many projects and founders announce openings there.
-* **Discord:** Look for dedicated `#jobs` channels in project servers.
-* **Direct Networking:** Building relationships within the space proves to be the most effective method for job placement.
-* **Crypto-Native Job Boards:** Websites like this one ([hashtagweb3.com/jobs](https://hashtagweb3.com/jobs)) specialize in Web3 roles.
-
-**Is the compensation always in volatile tokens?**  
-Not necessarily. Most full-time roles offer a competitive base salary in stablecoins or fiat, along with a token component as a long-term incentive. This structure provides stability while allowing for potential upside as the project succeeds.
-
-**How do I stand out if I don't have direct crypto experience?**  
-Showcase your "Proof of Work." A portfolio of insightful blog posts, a history of active governance participation, or a reputation as a helpful community member often outweighs a traditional resume with extensive Web2 experience. Demonstrating your passion and capacity for rapid learning is key.
-
-The Web3 space welcomes talented individuals from diverse backgrounds. The essential step is to immerse yourself, learn, and contribute. Your future in this decentralized sector awaits.

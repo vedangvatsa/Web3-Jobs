@@ -88,6 +88,3 @@ While your position is active, the unrealized PnL is computed using the Mark Pri
 
 5. **Focusing Only on Short-Term Movements**: Traders can get caught up in short-term price swings. A longer-term perspective can help avoid panic-driven decisions.
 
-## Conclusion
-
-Understanding the differences between Mark Price and Index Price is essential for anyone involved in crypto derivatives trading. By comprehending how these prices are calculated and their implications for risk management, traders can make more informed decisions and protect their positions from unfair liquidations. In a market characterized by volatility, relying on the Mark Price offers a safeguard against sudden price movements that could otherwise jeopardize a trader's investments. As you continue to engage with the evolving world of [Web3](/what-is-web3), a solid grasp of these concepts will enhance your strategic approach and ultimately improve your trading outcomes.

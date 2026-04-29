@@ -187,8 +187,3 @@ This vision encapsulates the potential of DeSci to transform scientific research
 
 DeSci aims to dismantle barriers that hinder scientific advancement. By promoting democratized funding, accessible knowledge, and transparent verification, DeSci redefines the possibilities for how science operates.
 
-## Conclusion
-
-DeSci signifies a convergence of the scientific pursuit of knowledge and the Web3 aim to decentralize power. As the movement develops, it faces numerous challenges but holds enormous potential to create a more equitable, transparent, and new scientific system.
-
-For professionals interested in the intersection of science and technology, DeSci represents a significant frontier. It offers opportunities not only for technological advancement but also for improving the methodologies by which humanity seeks to understand and engage with the world. By adopting DeSci, stakeholders can contribute to a future where scientific inquiry is more accessible, collaborative, and impactful.

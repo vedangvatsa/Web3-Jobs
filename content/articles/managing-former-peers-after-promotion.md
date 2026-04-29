@@ -104,6 +104,3 @@ Maya, transitioning from Web2 to Web3, used these strategies to adapt quickly. H
 4. **Giving Up Too Soon**: Persevere through initial discomfort to achieve lasting improvements.
 5. **Not Tracking Progress**: Measurement is key. Regularly assess your growth to inform your strategy.
 
-### Conclusion
-
-Transitioning from peer to manager can be a complex journey. By addressing the change openly, setting clear expectations, and maintaining fairness, you can build a positive team environment. Focus on collective success, seek support outside your team, and be patient as relationships evolve. Ultimately, effective management of former peers not only enhances your leadership skills but also strengthens your professional relationships, paving the way for future career advancement.

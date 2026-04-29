@@ -20,23 +20,3 @@ In a field often filled with noise and speculation, Buterin emerges as a steady 
 
 ## Web3 Career Opportunities
 
-The Web3 sector is expanding rapidly. The demand for skilled professionals significantly exceeds supply. Unlike traditional technology sectors, Web3 offers unique advantages, including higher salaries, equity opportunities, remote positions, and the chance to contribute to new technologies.
-
-### Market Context
-
-The dynamics of the [Web3 job market](/web3-jobs-for-beginners) differ greatly from those of Web2, mainly due to the decentralized nature of blockchain organizations and the ongoing global talent shortage.
-
-| Role                     | Average Total Compensation      |
-|--------------------------|---------------------------------|
-| Senior Solidity Engineer  | Significant compensation         |
-| Product Manager           | Significant compensation         |
-| Business Development Lead  | Significant compensation         |
-
-**Compensation:** Web3 positions typically offer higher salaries compared to equivalent Web2 roles. This is particularly true for specialized roles like senior Solidity engineers, whose compensation reflects the scarcity of talent.
-
-**Remote-First Culture:** Many Web3 organizations operate fully remote or with distributed teams. This model creates opportunities for talent from regions that have historically been overlooked by the tech industry, including Southeast Asia, Latin America, and Africa.
-
-**Growth Trajectory:** Rapid scaling of companies in the Web3 space allows for faster career advancement. Mid-level professionals often find themselves in senior roles within a couple of years of entering the field.
-
-**Equity Upside:** Compensation packages frequently include token allocations and equity, which provide wealth-building potential for initial hires at successful protocols.
-

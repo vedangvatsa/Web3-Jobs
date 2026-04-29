@@ -71,19 +71,3 @@ Despite the advancements presented by EIP-4337, several challenges remain for wi
 
 - **Developer Education**: dApp developers must understand how to use the new capabilities of Account Abstraction effectively, particularly Paymasters, to enhance user experiences.
 
-### Conclusion
-
-Account Abstraction, particularly through EIP-4337, marks an important evolution in the Ethereum user experience. By moving past the constraints of EOAs and applying the flexibility of smart contract wallets, it sets the stage for a new generation of dApps that are more secure, adaptable, and user-friendly. This transformation will take time, but the smart account is on track to become the new standard, simplifying the complexities of blockchain technology and paving the way for the next billion users in the Web3 ecosystem.
-
-### Comparison of Wallet Types
-
-| Feature                        | Externally Owned Accounts (EOAs) | Smart Wallets (EIP-4337)        |
-|--------------------------------|----------------------------------|----------------------------------|
-| Control                        | Private Key                      | Smart Contract                   |
-| Transaction Initiation         | Only EOAs can initiate           | Smart Wallets can initiate       |
-| Gas Fee Payment                | Requires ETH                     | Can be sponsored by Paymasters    |
-| Recovery Method                | Seed Phrase                     | Social Recovery                   |
-| Multi-Signature Support        | Limited                          | Customizable                     |
-| Batch Transactions             | Not possible                     | Possible                         |
-
-This table illustrates the key differences between the traditional EOAs and the new smart wallets enabled by EIP-4337, emphasizing the enhanced capabilities of smart wallets that contribute to a better user experience in Web3.

@@ -62,16 +62,3 @@ However, it lacks the safety associated with traditional jobs. It demands a high
 
 ## The Expanding Web3 Sector
 
-The Web3 sector is experiencing rapid growth, with demand for skilled talent significantly outpacing supply. This field offers unique advantages compared to traditional tech roles: competitive compensation, equity opportunities, fully remote positions, and the chance to influence technological advancement.
-
-### Market Dynamics
-
-The Web3 job market operates under distinct principles compared to Web2:
-
-| Factor                   | Web3                                       | Web2                    |
-|-------------------------|--------------------------------------------|-------------------------|
-| **Compensation**        | Generally higher than Web2 equivalents     | Standard salary ranges   |
-| **Remote Work Culture** | Primarily remote, offering flexibility     | Hybrid or on-site roles  |
-| **Career Progression**  | Rapid advancements due to scaling          | Slower, more structured   |
-| **Equity Upside**       | Token and equity packages are common       | Limited equity options    |
-

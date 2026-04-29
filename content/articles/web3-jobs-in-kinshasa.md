@@ -43,7 +43,7 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 3. **Enhance Remote Work Skills**: Given the prevalence of remote roles, proficiency in professional communication in English is essential. Build a strong online presence on platforms like Twitter and GitHub to showcase your work and connect with potential employers.
 
-4. **Lead Community Education Initiatives**: The local ecosystem requires knowledgeable leaders. Organize Web3 meetups in Kinshasa and develop educational materials in French and Lingala. By becoming an educator and community organizer, you can position yourself as a key figure within the local tech scene.
+4. **Lead Community Education Initiatives**: The local ecosystem requires knowledgeable leaders. Organize Web3 meetups in Kinshasa and develop educational materials in French and Lingala. By becoming an educator and community organizer, you can prepare as a key figure within the local tech scene.
 
 ### Salary & Compensation Overview
 
@@ -146,6 +146,3 @@ Typically, the timeline ranges from 9 to 13 months, including 3-4 months of lear
 **Should I relocate to Kinshasa?**
 Relocation is not necessary. Remote work is a viable option, though spending a few months in Kinshasa can enhance your networking opportunities within the local supply chain and artistic communities.
 
-### Conclusion
-
-Kinshasa's Web3 job market is poised for growth, driven by its young population, abundant resources, and vibrant creative scene. By focusing on specialized skills, building connections, and leading community initiatives, professionals can carve out rewarding careers in this emerging tech sector. The opportunities are substantial for those ready to engage with the local community and apply the power of blockchain technology to create impactful solutions.

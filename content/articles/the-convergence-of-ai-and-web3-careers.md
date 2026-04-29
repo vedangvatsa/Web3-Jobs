@@ -64,5 +64,3 @@ To thrive in a career that merges AI and [Web3 careers](/web3-jobs-for-beginners
 
 ## The Current Web3 Opportunity
 
-The Web3 sector is experiencing remarkable growth, with demand for qualified talent significantly exceeding supply. Many unique advantages come with a career in Web3 compared to traditional tech roles:
-

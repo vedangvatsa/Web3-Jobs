@@ -50,25 +50,3 @@ The tokenization of real estate is still nascent, facing hurdles such as regulat
 
 ### The Web3 Employment Market
 
-The Web3 sector is witnessing rapid growth, with demand for qualified talent significantly exceeding supply. Compared to traditional tech industries, Web3 presents distinct advantages: competitive compensation, equity opportunities, remote work flexibility, and the chance to contribute to new technologies.
-
-### Market Dynamics
-
-The [Web3 job market](/web3-jobs-for-beginners) operates under different dynamics than Web2, influenced by the decentralized nature of blockchain organizations and an ongoing global talent shortage.
-
-| Job Role                     | Average Salary Range       | Total Compensation Range   |
-|------------------------------|----------------------------|-----------------------------|
-| Senior Solidity Engineer      | Competitive                | Competitive                 |
-| Product Manager              | Competitive                | Competitive                 |
-| Business Development Lead     | Competitive                | Competitive                 |
-
-### Characteristics of Web3 Roles
-
-**Compensation:** Web3 positions typically offer salaries that are higher than their Web2 counterparts. For instance, senior Solidity engineers can command total compensation packages that reflect the demand for their skills, while product managers and business development leads also see substantial compensation. Compensation packages often include token allocations alongside traditional equity.
-
-**Remote Work Culture:** Most Web3 companies operate fully or primarily remotely, with teams spread across various time zones. This structure creates opportunities for talent in regions that have traditionally been overlooked by tech recruitment, including Southeast Asia, Latin America, and Africa.
-
-**Accelerated Growth Trajectory:** Career advancement in Web3 often occurs at a faster pace due to rapid scaling and persistent demand for talent. It is common for mid-level professionals to attain senior or lead roles within a relatively short period of entering the industry.
-
-**Equity Potential:** Token and equity packages are standard, providing significant wealth-building opportunities for early team members at successful protocols.
-

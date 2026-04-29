@@ -76,7 +76,7 @@ Banjul's size offers a unique advantage for emerging as a recognized Web3 leader
 - **Host Meetups:** Initiate a Web3 developer meetup in Banjul, even if attendance starts small.
 - **Create Educational Content:** Write articles or produce videos explaining blockchain concepts in English and Wolof.
 - **Connect with Government Officials:** Identify key figures in the central bank or finance ministry interested in crypto and offer to educate them.
-- **Engage with Local Media:** Local radio and television stations often seek experts; position yourself as a knowledgeable commentator.
+- **Engage with Local Media:** Local radio and television stations often seek experts; prepare as a knowledgeable commentator.
 - **Online Presence:** Build a following on social media by sharing insights about The Gambia’s Web3 potential.
 
 ### Build a Remote Career (Months 3-12)
@@ -162,7 +162,7 @@ Blockchain-based identity systems can:
 
 1. **Learn Blockchain Fundamentals:** Take non-technical courses on blockchain (available on platforms like Coursera and edX).
 2. **Research the Local Context:** Produce a report on Web3 opportunities aligned with The Gambia's economy and government initiatives.
-3. **Network with Government Officials:** Attend conferences and official events to position yourself as a blockchain expert.
+3. **Network with Government Officials:** Attend conferences and official events to prepare as a blockchain expert.
 4. **Engage Globally:** Join fintech policy groups and connect with central banks exploring CBDCs.
 5. **Propose Initiatives:** Develop actionable proposals for government blockchain pilot projects.
 
