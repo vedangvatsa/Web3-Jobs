@@ -49,7 +49,7 @@ Solana's architecture prioritizes high performance but introduces complexities t
 
 **3. The Rise of Ethereum's Layer 2 Ecosystem**
 
-The rapid expansion of Ethereum's Layer 2 scaling solutions, including Arbitrum, Optimism, and various ZK-rollups, plays a significant role in this decline.
+The rapid expansion of Ethereum's Layer 2 scaling solutions, including Arbitrum, Optimism, and various ZK-rollups, plays a important role in this decline.
 
 - **The "Best of Both Worlds" Narrative:** Layer 2 solutions provide fast, low-cost transactions while benefiting from Ethereum's security and decentralization. This poses a direct challenge to Solana's value proposition.
 - **EVM Compatibility:** Many major Layer 2s are EVM-compatible, enabling developers to use familiar tools and languages like [Solidity](/best-programming-languages-for-blockchain-development). For developers rooted in the Ethereum ecosystem, transitioning to an EVM-compatible Layer 2 offers a smoother learning curve than adapting to Solana's Rust language and unique architecture.

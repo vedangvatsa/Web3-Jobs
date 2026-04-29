@@ -50,7 +50,7 @@ The post also reveals Satoshi's profound understanding of economics and politica
 
 From this single forum post, an entire ecosystem has emerged. The ideas Satoshi articulated have inspired thousands of developers and entrepreneurs to create new projects and protocols. The principles of decentralization, self-custody, and cryptographic proof have become foundational to the entire [Web3](/what-is-web3) movement.
 
-Reflecting on this first post is a humbling experience. It serves as a reminder that every significant movement begins with a single idea shared among a small group willing to listen. It underscores the power of open-source collaboration and the potential for a determined individual (or group) to change the world.
+Reflecting on this first post is a humbling experience. It serves as a reminder that every significant movement begins with a single idea shared among a small group willing to listen. It highlights the power of open-source collaboration and the potential for a determined individual (or group) to change the world.
 
 As the crypto field grows more intricate and commercial, returning to these foundational texts becomes increasingly important. Satoshi's initial forum post, along with the Bitcoin whitepaper and the message encoded in the Genesis Block, constitutes the sacred texts of the crypto canon. They remind us of the "why" behind this technology: the pursuit of a more open, equitable, and decentralized world.
 

@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 ## Introduction: South Korea's Web3 Dominance
 
-South Korea stands out as a leader in technological innovation. With internet speeds that rank among the fastest globally, a thriving gaming culture, and influential entertainment exports, the country has become a formidable player in the [Web3](/what-is-web3) ecosystem. South Korea is now one of the most active markets in cryptocurrency and [blockchain](/what-is-a-blockchain), driven by a combination of existing strengths and a strong appetite for innovation.
+South Korea stands out as a leader in technological innovation. With internet speeds that rank among the fastest globally, a growing gaming culture, and influential entertainment exports, the country has become a formidable player in the [Web3](/what-is-web3) ecosystem. South Korea is now one of the most active markets in cryptocurrency and [blockchain](/what-is-a-blockchain), driven by a combination of existing strengths and a strong appetite for innovation.
 
 The demand for Web3 talent in South Korea is surging, supported by major players in blockchain technology, gaming, and finance. Professionals both within and outside the country can find numerous opportunities. However, succeeding in the Korean job market requires an understanding of its cultural nuances and key players, along with the specific skills that are currently in demand.
 
@@ -68,7 +68,7 @@ The need for talent in the Korean Web3 market spans both technical and non-techn
 
 ### Non-Technical Roles
 
-* **Community Managers:** Creating and managing a thriving community on platforms like Discord and Telegram is important. Bilingual skills (Korean and English) are a major advantage.
+* **Community Managers:** Creating and managing a growing community on platforms like Discord and Telegram is important. Bilingual skills (Korean and English) are a major advantage.
 * **Business Development & Partnerships:** Web3 relies heavily on collaboration. Professionals capable of building partnerships between protocols, companies, and ecosystems are essential.
 * **Product Managers:** PMs with an understanding of the unique user experience challenges in Web3, along with the ability to transition user feedback to community-driven implementation, are highly valued.
 * **Marketing Specialists:** Content creators, social media managers, and growth marketers familiar with crypto narratives and channels are needed to effectively engage audiences.

@@ -39,7 +39,7 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 1. **Focus on Supply Chain Provenance**: Concentrate on the DRC's unique position in the global supply chain. Develop skills relevant to supply chain management and the tokenization of assets. A prototype for a cobalt tracking system can significantly enhance your portfolio.
 
-2. **Support Local Creatives**: Kinshasa's rich artistic culture offers numerous opportunities. Collaborate with local artists to help them mint their first NFTs. Create content that highlights Congolese digital art to a global audience, establishing yourself as an essential connector in this space.
+2. **Support Local Creatives**: Kinshasa's rich artistic culture offers many opportunities. Collaborate with local artists to help them mint their first NFTs. Create content that highlights Congolese digital art to a global audience, establishing yourself as an essential connector in this space.
 
 3. **Enhance Remote Work Skills**: Given the prevalence of remote roles, proficiency in professional communication in English is essential. Build a strong online presence on platforms like Twitter and GitHub to showcase your work and connect with potential employers.
 

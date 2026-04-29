@@ -20,7 +20,7 @@ Jobs that are well-protected from automation typically fall into one of three ca
 
 1. **Creative and Strategic Thinking**: This encompasses generating truly original ideas rather than merely remixing existing concepts. It involves setting a vision and making intuitive leaps. For example, while AI can produce numerous variations of a song, it cannot replicate the emotional inspiration that drives a songwriter to create a meaningful piece.
 
-2. **Complex Interpersonal and Emotional Intelligence**: Roles in this category depend on empathy, trust, and nuanced human interactions. A therapist guiding a client through a challenging period, a manager motivating a team, or a nurse comforting a distressed patient all require a level of emotional understanding that AI cannot authentically simulate.
+2. **Complex Interpersonal and Emotional Intelligence**: Roles in this category depend on empathy, trust, and specific human interactions. A therapist guiding a client through a challenging period, a manager motivating a team, or a nurse comforting a distressed patient all require a level of emotional understanding that AI cannot authentically simulate.
 
 3. **Unpredictable Physical Environments**: Although robots perform well in controlled factory settings, they struggle in chaotic, real-world scenarios. For instance, a plumber addressing a unique leak in a confined space or an electrician diagnosing an old home's wiring requires dexterity and problem-solving abilities that current robots lack.
 
@@ -32,7 +32,7 @@ Several careers will likely remain human-centric for the foreseeable future. Her
 
 - **Doctors, Nurses, and Therapists**: The essence of healthcare lies in human interaction. While AI can assist with diagnostics, it cannot replace the empathy and ethical judgment required in patient care. A doctor must convey difficult news compassionately, while a nurse builds trust with families, and a therapist decodes subtle emotional cues, skills beyond programming.
 
-- **Caregivers for Children and the Elderly**: Caring for vulnerable individuals necessitates patience, empathy, and a profound sense of responsibility. This role hinges on human connection, which algorithms cannot replicate.
+- **Caregivers for Children and the Elderly**: Caring for vulnerable individuals requires patience, empathy, and a profound sense of responsibility. This role hinges on human connection, which algorithms cannot replicate.
 
 #### Creative and Artistic Roles
 
@@ -50,7 +50,7 @@ Several careers will likely remain human-centric for the foreseeable future. Her
 
 - **Managers and Executives**: Leading a team and setting a company's strategic direction necessitate emotional intelligence and strategic insight. Managers must motivate their teams, resolve conflicts, and make tough decisions based on partial information.
 
-- **Lawyers and Judges**: The legal profession relies on human judgment and ethical interpretation of principles like fairness and justice. AI can support research, but final arguments and decisions require a nuanced human understanding of context and morality.
+- **Lawyers and Judges**: The legal profession relies on human judgment and ethical interpretation of principles like fairness and justice. AI can support research, but final arguments and decisions require a specific human understanding of context and morality.
 
 | Career Category                | Examples                                     | Key Human Skills                               |
 |--------------------------------|----------------------------------------------|------------------------------------------------|

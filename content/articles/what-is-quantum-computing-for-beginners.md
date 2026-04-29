@@ -63,7 +63,7 @@ Developing a practical and scalable quantum computer poses significant scientifi
 
 * **Decoherence**: Qubits are highly susceptible to external influences. Any interaction with their environment can lead to decoherence, where qubits lose their quantum properties, resulting in computation errors. Maintaining extreme conditions, such as low temperatures and isolation from environmental noise, is essential for stable operation.
 
-* **Error Correction**: Quantum error correction presents a formidable challenge due to decoherence. It necessitates the use of multiple physical qubits to create a single, more reliable logical qubit, which increases the total number of qubits required for an effective quantum computer.
+* **Error Correction**: Quantum error correction presents a formidable challenge due to decoherence. It requires the use of multiple physical qubits to create a single, more reliable logical qubit, which increases the total number of qubits required for an effective quantum computer.
 
 * **Qubit Construction**: Various methods exist for constructing qubits, including superconducting circuits, trapped ions, and photons. The most scalable and reliable approach remains uncertain, and ongoing research aims to identify the most effective solution.
 

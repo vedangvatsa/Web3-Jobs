@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 One of the primary barriers to the widespread adoption of [Web3](/what-is-web3) is the often poor user experience (UX) associated with decentralized applications (dApps). New users frequently find the process of interacting with a dApp confusing and intimidating. This challenge has led to a substantial demand for skilled **Web3 Product Designers** who can create intuitive interfaces that simplify complex blockchain interactions for end-users.
 
-For designers, Web3 represents an exciting opportunity to tackle unique design challenges and define the interaction patterns for the next generation of the internet. This guide presents a clear path for designers aspiring to establish a career in Web3. For additional insights, refer to our guide on [getting started as a Web3 UX designer](/how-to-get-started-as-a-web3-ux-designer).
+For designers, Web3 represents an good opportunity to tackle unique design challenges and define the interaction patterns for the next generation of the internet. This guide presents a clear path for designers aspiring to establish a career in Web3. For additional insights, refer to our guide on [getting started as a Web3 UX designer](/how-to-get-started-as-a-web3-ux-designer).
 
 ### Unique Challenges of Web3 UX
 

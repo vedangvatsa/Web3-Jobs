@@ -16,7 +16,7 @@ A Web3 DevRel embodies a hybrid professional, combining the expertise of an engi
 
 ### Developer Advocate Responsibilities
 
-The daily responsibilities of a DevRel are diverse and multifaceted. They act as the central "empathy engine" for developers.
+The daily responsibilities of a DevRel are diverse and complex. They act as the central "empathy engine" for developers.
 
 **Key Responsibilities:**
 

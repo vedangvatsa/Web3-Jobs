@@ -22,7 +22,7 @@ Data from the crypto metrics aggregator Artemis Terminal reveals a stark decline
 
 This trend is not limited to a handful of projects. Artemis data indicates that the crypto space encompasses over 1,500 ecosystems, many of which contain multiple sub-ecosystems. This suggests the downturn in developer activity is widespread. Other reports corroborate these findings, with some citing a year-over-year decline.
 
-In particular, Solana faces a concerning trajectory. Despite its strong price performance, its core developer count has been decreasing since 2022, while Ethereum has shown consistent growth in its developer community. This disparity underscores that market performance does not always correlate with developer retention.
+In particular, Solana faces a concerning trajectory. Despite its strong price performance, its core developer count has been decreasing since 2022, while Ethereum has shown consistent growth in its developer community. This disparity highlights that market performance does not always correlate with developer retention.
 
 ### The Critical Role of Developers in Blockchain Ecosystems
 

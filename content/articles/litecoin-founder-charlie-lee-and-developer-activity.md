@@ -117,7 +117,7 @@ Real progress in Litecoin isn't measured by velocity of code changes. It's measu
 Litecoin teaches an important lesson about cryptocurrency projects: not all projects should be rapidly innovating. Some projects should be stable, secure, and conservative. Different cryptocurrencies serve different purposes.
 
 Bitcoin aims to be digital gold, conservative, secure, and unchanging.  
-Ethereum aims to be a platform, new, experimental, and rapidly evolving.  
+Ethereum aims to be a platform, new, experimental, and fast-changing.  
 Litecoin aims to be digital silver, stable, secure, but willing to carefully adopt proven improvements.
 
 Each philosophy is valid. Each serves a purpose. The error is judging them by the same metrics.

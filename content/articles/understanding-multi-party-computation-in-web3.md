@@ -51,7 +51,7 @@ Multi-Party Computation provides a different approach. Rather than depending on 
 This represents a significant current application. Major institutions, such as cryptocurrency exchanges and custodians, use MPC to protect billions in customer assets. MPC facilitates the creation of intricate security policies that require multiple approvals from various executives or geographical locations, all while avoiding the time and cost constraints associated with on-chain multisigs.
 
 **2. User-Friendly Wallets (Account Abstraction)**  
-MPC plays a vital role in enabling **[Account Abstraction](/account-abstraction-explained)**, particularly for social recovery options.
+MPC is important for enabling **[Account Abstraction](/account-abstraction-explained)**, particularly for social recovery options.
 - **Example:** A user's wallet could be secured using a 2-of-3 MPC scheme.
     -   Key Share 1: Stored on their mobile device.
     -   Key Share 2: Stored on their laptop.

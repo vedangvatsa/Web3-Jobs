@@ -28,7 +28,7 @@ However, Web2 has significant drawbacks. Platforms retain control over user data
 
 #### Web3 (The Read-Write-Own Web)
 
-Web3 addresses the shortcomings of Web2 by fundamentally altering ownership and control dynamics. A defining feature of Web3 is **ownership**. This shift has sparked a burgeoning **[Web3 job market](/most-in-demand-web3-careers)**, creating opportunities for those equipped with the necessary skills.
+Web3 addresses the shortcomings of Web2 by fundamentally altering ownership and control dynamics. A defining feature of Web3 is **ownership**. This shift has sparked a growing **[Web3 job market](/most-in-demand-web3-careers)**, creating opportunities for those equipped with the necessary skills.
 
 ### The Core Principles of Web3
 
@@ -75,7 +75,7 @@ Web3 is still in its experimental phase and faces numerous challenges.
 
 - **User Experience (UX):** Engaging with dApps often presents complexities that can deter users compared to Web2 applications.
 - **Scalability:** Blockchains frequently encounter speed and cost issues, though advancements like [Layer 2 scaling solutions](/guide-to-layer-2s) are addressing these problems.
-- **Education:** The concepts underpinning Web3 can be challenging for newcomers to grasp.
+- **Education:** The concepts supporting Web3 can be challenging for newcomers to grasp.
 
 Despite these obstacles, Web3 embodies a promising vision for an improved internet. It aims to reconstruct the web using open protocols and user ownership, supporting a more equitable and creative digital environment. For developers, entrepreneurs, and creators, Web3 provides a platform to innovate and reclaim user ownership. The demand for skilled professionals is high, with many opportunities available on a **[Web3 job board](/jobs)**.
 

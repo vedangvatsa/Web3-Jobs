@@ -36,7 +36,7 @@ Signs of detrimental competition include:
 |--------------------------------|-------------------------------------------------------------------------------------------------|
 | Credit-Stealing                | Colleagues or managers frequently claim credit for others' accomplishments.                    |
 | Information Hoarding           | Employees intentionally conceal information to gain an upper hand over peers.                  |
-| Zero-Sum Mentality             | The culture promotes the belief that one person's success necessitates another's failure.      |
+| Zero-Sum Mentality             | The culture promotes the belief that one person's success requires another's failure.      |
 
 Conversely, a positive work environment encourages collaboration. Team members celebrate each other's achievements and work collectively toward shared objectives.
 

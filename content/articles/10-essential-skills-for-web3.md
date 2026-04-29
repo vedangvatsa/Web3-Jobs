@@ -51,7 +51,7 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 
 ### 5. [Community Management & Building](/exploring-web3-project-manager-career-paths)
 
-**Importance:** In Web3, the community comprises not only users but also investors, marketers, and governance participants. Cultivating an engaged community creates a competitive advantage that is difficult for others to replicate.
+**Importance:** In Web3, the community comprises not only users but also investors, marketers, and governance participants. Building an engaged community creates a competitive advantage that is difficult for others to replicate.
 
 **Key Learning Areas:**
 - **Platform Proficiency:** Master key platforms like Discord and Twitter, which serve as primary communication channels in Web3.
@@ -84,7 +84,7 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 
 ### 8. Technical Writing & Communication
 
-**Importance:** Web3's complexity necessitates the ability to communicate intricate technical concepts clearly and effectively.
+**Importance:** Web3's complexity requires the ability to communicate intricate technical concepts clearly and effectively.
 
 **Key Learning Areas:**
 - **Documentation Skills:** Develop the ability to create clear and concise documentation for developers and users.

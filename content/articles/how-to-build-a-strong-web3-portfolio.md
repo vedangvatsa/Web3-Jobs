@@ -61,5 +61,5 @@ Web3 compensation packages differ significantly from traditional structures. Be 
 
 Understanding your project's [tokenomics](/understanding-tokenomics) and the long-term value of the token grant is important for attracting top talent.
 
-Recruiting in Web3 necessitates profound engagement with the ecosystem. Passive observation will not suffice. By actively participating in communities, assessing proof of work, and treating the hiring process as a partnership, you can attract and secure the elite talent essential for building the decentralized internet.
+Recruiting in Web3 requires profound engagement with the ecosystem. Passive observation will not suffice. By actively participating in communities, assessing proof of work, and treating the hiring process as a partnership, you can attract and secure the elite talent essential for building the decentralized internet.
 

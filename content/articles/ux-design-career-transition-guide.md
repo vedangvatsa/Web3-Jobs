@@ -33,7 +33,7 @@ Transitioning to UX/UI demands acquiring a new skill set and mindset.
 - **User Research**: Conduct user interviews, surveys, and usability tests to uncover user needs and challenges.
 - **Information Architecture**: Organize and structure content logically and intuitively.
 - **Wireframing and Prototyping**: Create low-fidelity wireframes and high-fidelity interactive prototypes.
-- **Empathy**: Cultivating a deep understanding of user perspectives is essential.
+- **Empathy**: Building a deep understanding of user perspectives is essential.
 
 **Core UI Skills Include:**
 - **Visual Design Principles**: Familiarize yourself with typography, color theory, layout, and visual hierarchy.

@@ -14,7 +14,7 @@ If you have chosen a career in [Web3](/what-is-web3), you must prepare for volat
 
 However, bear markets present a stark contrast. Prices can plummet significantly from their peaks. Projects once perceived as invincible may exhaust their financial resources. Layoffs become widespread, and the narrative shifts from "Web3 is the future" to "[Is Web3 Dead?](/is-web3-dead)". For professionals in the industry, a bear market tests conviction and resilience. While it can be daunting, it also offers a important time for significant work and career advancement.
 
-Surviving a bear market is essential for any long-term Web3 professional. This guide provides strategies for not just surviving but thriving during a crypto downturn.
+Surviving a bear market is essential for any long-term Web3 professional. This guide provides strategies for not just surviving but growing during a crypto downturn.
 
 ### Phase 1: Financial Survival
 

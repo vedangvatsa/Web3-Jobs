@@ -46,7 +46,7 @@ Recognizing the difference between genuine support and malicious shilling requir
 
 ### Strategies for Protection
 
-1. **Conduct Your Own Research (DYOR):** This principle is paramount in crypto. Avoid investing based solely on a single tweet or Telegram message. Review the whitepaper, investigate the team, and grasp the tokenomics. Understand the specific problem the project aims to address and how [blockchain](/what-is-a-blockchain) technology plays a role.
+1. **Conduct Your Own Research (DYOR):** This principle is critical in crypto. Avoid investing based solely on a single tweet or Telegram message. Review the whitepaper, investigate the team, and grasp the tokenomics. Understand the specific problem the project aims to address and how [blockchain](/what-is-a-blockchain) technology plays a role.
 
 2. **Maintain Skepticism Toward Hype:** If an offer sounds too good to be true, it probably is. Promises of guaranteed, rapid, and massive returns are classic indicators of scams.
 

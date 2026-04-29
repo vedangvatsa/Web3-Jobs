@@ -34,11 +34,11 @@ Biotechnology's impact extends beyond medicine and agriculture, reaching various
 
 "Synthetic biology" takes biotechnology a step further. This field focuses on designing and constructing new biological parts, devices, and systems from the ground up. For instance, scientists have engineered yeast to produce artemisinin, a important anti-malarial compound. Others are working on bacteria capable of generating biofuels or biodegradable plastics.
 
-Biotechnology also plays a vital role in environmental remediation, known as bioremediation. Scientists engineer microorganisms to decompose pollutants, such as those resulting from oil spills or industrial waste, providing a natural means to clean contaminated areas.
+Biotechnology also is important for environmental remediation, known as bioremediation. Scientists engineer microorganisms to decompose pollutants, such as those resulting from oil spills or industrial waste, providing a natural means to clean contaminated areas.
 
 ### Ethical Considerations in Biotechnology
 
-The power of biotechnology necessitates careful ethical consideration. Discussions surrounding genetically modified foods often focus on potential long-term health implications and environmental effects.
+The power of biotechnology requires careful ethical consideration. Discussions surrounding genetically modified foods often focus on potential long-term health implications and environmental effects.
 
 The use of CRISPR technology for editing human embryos raises even more complex ethical dilemmas. While it may offer a means to eradicate severe genetic disorders before birth, it also raises concerns about the potential for "designer babies," prompting debates about the implications for human identity and ethics. These issues require thoughtful discourse and public engagement as scientific advancements continue.
 

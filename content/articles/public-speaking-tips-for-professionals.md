@@ -64,7 +64,7 @@ A monotone delivery can disengage any audience. Think of your voice as an instru
 
 ### 5. Master Your Body Language
 
-Non-verbal cues play a significant role in communication:
+Non-verbal cues play a important role in communication:
 
 - **Make Eye Contact:** Engage with your audience by establishing eye contact with individuals across the room, building a conversational atmosphere.
 - **Use Gestures Purposefully:** Employ hand gestures to reinforce your points, avoiding nervous habits. Keep gestures open and confident.

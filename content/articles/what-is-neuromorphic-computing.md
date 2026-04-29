@@ -14,7 +14,7 @@ Neuromorphic computing is an new field of computer engineering that draws direct
 
 ### The von Neumann Bottleneck
 
-Traditional computers separate the central processing unit (CPU) from memory, which necessitates constant data transfer between the two. This creates the "von Neumann bottleneck," a limitation that hinders energy efficiency and computational speed. While this architecture excels in sequential tasks, such as executing spreadsheet calculations, it struggles with the massively parallel and data-intensive workloads required by modern AI systems.
+Traditional computers separate the central processing unit (CPU) from memory, which requires constant data transfer between the two. This creates the "von Neumann bottleneck," a limitation that hinders energy efficiency and computational speed. While this architecture excels in sequential tasks, such as executing spreadsheet calculations, it struggles with the massively parallel and data-intensive workloads required by modern AI systems.
 
 In contrast, neuromorphic systems aim to eliminate this bottleneck. By co-locating memory and processing, these systems can store and process information simultaneously, much like the human brain. A synapse, which connects two neurons, stores information about the strength of that connection while also participating in the processing of information. This design allows the brain to perform complex tasks, such as facial recognition, with remarkable speed and minimal energy consumption, which is significantly less than the energy used by conventional computers.
 

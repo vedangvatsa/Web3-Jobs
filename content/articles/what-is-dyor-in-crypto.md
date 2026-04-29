@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 DYOR, or "Do Your Own Research," is a prevalent term in the crypto community. You will find it in Discord channels, Twitter threads, and various online forums. It serves as a disclaimer, advice, and sometimes criticism directed at those making investment decisions without a deep understanding of their choices.
 
-While the principle of conducting research before investing seems straightforward, in the crypto context, it is more nuanced. DYOR emphasizes that no one else bears the responsibility for your financial decisions. No celebrity endorsements, influencer promotions, or financial advisors can substitute for your own understanding and evaluation of where you place your money.
+While the principle of conducting research before investing seems straightforward, in the crypto context, it is more specific. DYOR emphasizes that no one else bears the responsibility for your financial decisions. No celebrity endorsements, influencer promotions, or financial advisors can substitute for your own understanding and evaluation of where you place your money.
 
 The significance of DYOR becomes apparent in a space rife with fraudulent schemes. The barriers to creating a deceptive project are minimal, enabling individuals to raise funds and disappear. Therefore, knowing how to research projects effectively, spot warning signs, and differentiate genuine initiatives from inflated promises is important.
 
@@ -78,7 +78,7 @@ Conducting effective research requires time and critical analysis.
 
 For those building careers in Web3, the practice of DYOR safeguards you.
 
-Choosing which companies to join, which projects to engage with, and where to invest your efforts necessitates the same research skills as making investment choices. You want to avoid becoming involved in fraudulent projects or working with dishonest teams. Your reputation is at stake.
+Choosing which companies to join, which projects to engage with, and where to invest your efforts requires the same research skills as making investment choices. You want to avoid becoming involved in fraudulent projects or working with dishonest teams. Your reputation is at stake.
 
 Approach project research as you would when assessing investments. Familiarize yourself with the team. Understand the problem they aim to solve. Gather insights on their reputation. Make informed choices instead of following the loudest hype.
 

@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-29"
 ---
 
-In [Web3](/what-is-web3), a well-crafted [portfolio](/building-web3-portfolio) of projects plays a vital role in advancing your career. However, simply building projects is only part of the equation. If your work is presented poorly or lacks visibility, even outstanding portfolios can be easily overlooked by recruiters and hiring managers.
+In [Web3](/what-is-web3), a well-crafted [portfolio](/building-web3-portfolio) of projects is important for advancing your career. However, simply building projects is only part of the equation. If your work is presented poorly or lacks visibility, even outstanding portfolios can be easily overlooked by recruiters and hiring managers.
 
 Presenting your work effectively is a necessary skill. It provides the chance to narrate your story, showcasing your skills, passion, and journey as a builder in this space. This article offers actionable strategies for presenting your Web3 portfolio to capture attention.
 

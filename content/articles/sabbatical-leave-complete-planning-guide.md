@@ -38,7 +38,7 @@ If your company has a formal sabbatical policy, you are in a favorable position.
 
 In the absence of a formal policy, you can still propose an unpaid leave of absence. Emphasize the potential benefits to the organization, such as the new skills or insights you plan to acquire that will enhance your value upon return.
 
-Be prepared for the possibility of a denial. If your request is turned down, you may need to consider resigning. This scenario underscores the importance of having a financial plan before initiating the conversation.
+Be prepared for the possibility of a denial. If your request is turned down, you may need to consider resigning. This scenario highlights the importance of having a financial plan before initiating the conversation.
 
 ### Step 4: Organize the Logistics
 

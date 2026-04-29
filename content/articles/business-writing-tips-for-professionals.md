@@ -42,7 +42,7 @@ Complex sentences can be challenging to comprehend. Break down your ideas into s
 
 ## Principle 2: Value Brevity
 
-In a professional setting, efficiency is paramount. Getting to the point quickly demonstrates respect for your reader's time.
+In a professional setting, efficiency is critical. Getting to the point quickly demonstrates respect for your reader's time.
 
 ### Start with the Bottom Line Up Front (BLUF)
 

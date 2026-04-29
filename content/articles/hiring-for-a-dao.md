@@ -58,9 +58,9 @@ Evaluating candidates who may only be known by their online personas poses uniqu
 
 - **Focus on Past Contributions:** Their public work serves as a reference check. Examine the quality of their completed bounties and the thoughtfulness of their governance comments.
 - **The "Vibe Check":** While subjective, assessing cultural fit is essential. Gauge whether the candidate aligns with the community's values and demonstrates collaboration and respect in communications. Prioritize "culture add" over "culture fit."
-- **The Paid Trial:** For significant roles, consider implementing a paid short-term trial project (1-2 weeks). This allows for assessing a candidate's skills and their ability to collaborate with existing team members.
+- **The Paid Trial:** For important roles, consider implementing a paid short-term trial project (1-2 weeks). This allows for assessing a candidate's skills and their ability to collaborate with existing team members.
 
-Hiring for a DAO necessitates a fundamental rethinking of traditional recruitment processes. This transition emphasizes open, permissionless contributions over closed-door interviews. By constructing a strong contributor funnel, DAOs can cultivate a powerful, scalable, and meritocratic system for attracting top talent aligned with the protocol's long-term success.
+Hiring for a DAO requires a fundamental rethinking of traditional recruitment processes. This transition emphasizes open, permissionless contributions over closed-door interviews. By constructing a strong contributor funnel, DAOs can cultivate a powerful, scalable, and meritocratic system for attracting top talent aligned with the protocol's long-term success.
 
 ### Why This Matters
 

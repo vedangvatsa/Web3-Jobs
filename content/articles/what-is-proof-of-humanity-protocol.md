@@ -70,7 +70,7 @@ Introduce changes incrementally rather than attempting an overhaul. Start with o
 
 #### Step 5: Measure and Adjust
 
-Monitor your progress consistently. Are you observing positive results? Be prepared to adjust your strategy based on feedback and outcomes. Cultivating a continuous improvement mindset is important for success.
+Monitor your progress consistently. Are you observing positive results? Be prepared to adjust your strategy based on feedback and outcomes. Building a continuous improvement mindset is important for success.
 
 ### Real-World Examples
 
@@ -97,7 +97,7 @@ A: Most individuals see initial results within a few weeks of consistent applica
 A: You can still find ways to implement changes. Start with small, self-contained actions that do not require organizational approval, such as personal projects or informal discussions with supportive colleagues. Document your progress and results to build momentum. If, after sustained effort, the environment remains unsupportive, consider seeking opportunities in organizations that prioritize employee development.
 
 **Q: How does Proof of Humanity specifically relate to Web3?**  
-A: Web3 organizations differ from traditional companies, emphasizing self-direction and collaboration in a flat structure. Teams often work remotely and globally, increasing the importance of written communication and asynchronous collaboration. The rapid pace of product cycles in Web3 necessitates agility and adaptability. Mastering these skills becomes essential for success in the space.
+A: Web3 organizations differ from traditional companies, emphasizing self-direction and collaboration in a flat structure. Teams often work remotely and globally, increasing the importance of written communication and asynchronous collaboration. The rapid pace of product cycles in Web3 requires agility and adaptability. Mastering these skills becomes essential for success in the space.
 
 **Q: Can I implement these strategies alongside my current role?**  
 A: Yes, this is the recommended approach. You do not need additional hours; instead, focus on intentional practice within your existing time. Identify a few strategies that align with your daily tasks and apply them consistently. The cumulative effect of small, deliberate improvements often surpasses sporadic large efforts.

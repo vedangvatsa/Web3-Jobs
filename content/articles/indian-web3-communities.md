@@ -17,7 +17,7 @@ In 2024, Indian Web3 startups experienced a notable fundraising boost, reflectin
 
 The investment scene has seen a revival, particularly in Northeast India, where centralized exchanges regained popularity. Retail portfolios significantly favored blue-chip cryptocurrencies. In contrast, memecoins grew faster than the industry average. Investors aged 27-40 dominated the market, driven by increased financial literacy and disposable income, while more mature investors in their 40s reported investment values significantly higher.
 
-India ranks as one of the largest contributors to open-source crypto development globally, accounting for a notable percentage of developers. This growth underscores India's involvement in [blockchain](/what-is-a-blockchain) technologies and decentralized finance ([DeFi](/what-is-defi)) solutions. The trend aligns with a broader global shift, as regions like Asia, Africa, and Latin America enhance their presence in the crypto development space. Currently, Asia represents a significant portion of global crypto developers, indicating a diversification in the developer community.
+India ranks as one of the largest contributors to open-source crypto development globally, accounting for a notable percentage of developers. This growth highlights India's involvement in [blockchain](/what-is-a-blockchain) technologies and decentralized finance ([DeFi](/what-is-defi)) solutions. The trend aligns with a broader global shift, as regions like Asia, Africa, and Latin America enhance their presence in the crypto development space. Currently, Asia represents a significant portion of global crypto developers, indicating a diversification in the developer community.
 
 ### Active Web3 Communities in India
 

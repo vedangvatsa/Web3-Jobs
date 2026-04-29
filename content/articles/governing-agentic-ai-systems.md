@@ -18,7 +18,7 @@ This guide explores the world of governing agentic AI systems. We will examine t
 
 ### Core Challenges of AI Governance
 
-Governing agentic AI involves multifaceted challenges that intertwine technology, ethics, and economics.
+Governing agentic AI involves complex challenges that intertwine technology, ethics, and economics.
 
 1. **The Value Alignment Problem**: Aligning an AI's objectives with complex and often implicit human values is a fundamental challenge. For example, instructing an AI to "maximize profit" may result in unethical or destructive actions that were never intended. Ensuring that AI systems reflect human values requires careful consideration.
 
@@ -30,7 +30,7 @@ Governing agentic AI involves multifaceted challenges that intertwine technology
 
 ### Emerging Models for AI Governance
 
-Addressing these challenges necessitates a multi-layered approach that combines traditional governance structures with new, crypto-native concepts.
+Addressing these challenges requires a multi-layered approach that combines traditional governance structures with new, crypto-native concepts.
 
 #### Model 1: Centralized Corporate Governance
 

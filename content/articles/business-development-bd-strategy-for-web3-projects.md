@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 In the interconnected field of [Web3](/what-is-web3), the phrase "your network is your net worth" holds significant truth. A project's success hinges not only on its own capabilities but also on the quality and quantity of its partnerships with other projects. Business Development (BD) and partnerships thus represent a critical function for any Web3 startup or protocol.
 
-Web3 BD diverges sharply from traditional business development, which often revolves around sales tactics and quotas. This new discipline demands technical literacy, an understanding of crypto culture, and a commitment to building mutually beneficial relationships. This article outlines a strategic framework for Web3 professionals focused on cultivating partnerships that fuel ecosystem expansion.
+Web3 BD diverges sharply from traditional business development, which often revolves around sales tactics and quotas. This new discipline demands technical literacy, an understanding of crypto culture, and a commitment to building mutually beneficial relationships. This article outlines a strategic framework for Web3 professionals focused on Building partnerships that fuel ecosystem expansion.
 
 ### The Web3 BD Mindset: Building Collaborative Relationships
 

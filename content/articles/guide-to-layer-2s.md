@@ -72,7 +72,7 @@ ZK-Rollups implement a "guilty until proven innocent" model using advanced crypt
 
 **Cons**:
 - **Complex Technology**: ZK cryptography is intricate, making the development of a ZK-Rollup, particularly an EVM-compatible version (a "zkEVM"), a formidable challenge.
-- **High Computational Demand**: The generation of validity proofs necessitates substantial computational resources, which may centralize operations for the rollup’s operator (the "sequencer").
+- **High Computational Demand**: The generation of validity proofs requires substantial computational resources, which may centralize operations for the rollup’s operator (the "sequencer").
 
 ### The Future of Ethereum: A Multi-Rollup Ecosystem
 

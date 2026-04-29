@@ -120,7 +120,7 @@ When `withdraw` is invoked for the first time, `locked` is set to `true`. If the
 
 ### The Importance of a Security Mindset
 
-The reentrancy vulnerability underscores the need for a security-first mindset in smart contract development. Given that smart contract code controls real assets and is immutable, developers must consistently consider how their code might be exploited. Adopting practices like the Checks-Effects-Interactions pattern should become second nature for every Web3 developer. By understanding vulnerabilities such as reentrancy and incorporating defensive coding patterns, developers can create secure applications that build user trust in decentralized environments.
+The reentrancy vulnerability highlights the need for a security-first mindset in smart contract development. Given that smart contract code controls real assets and is immutable, developers must consistently consider how their code might be exploited. Adopting practices like the Checks-Effects-Interactions pattern should become second nature for every Web3 developer. By understanding vulnerabilities such as reentrancy and incorporating defensive coding patterns, developers can create secure applications that build user trust in decentralized environments.
 
 ### Why This Matters
 

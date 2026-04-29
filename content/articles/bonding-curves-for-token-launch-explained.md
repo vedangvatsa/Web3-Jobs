@@ -20,7 +20,7 @@ Traditional token launches often face obstacles that can hinder success:
 
 - **Order Book Exchanges:** Getting a new token listed on a centralized exchange incurs high costs and usually requires a market maker to provide liquidity. Listing fees can vary significantly, depending on the exchange's reputation and trading volume.
   
-- **DEX Liquidity Pools:** Launching on a decentralized exchange (DEX) like Uniswap necessitates providing a substantial amount of collateral to create a sufficiently deep liquidity pool.
+- **DEX Liquidity Pools:** Launching on a decentralized exchange (DEX) like Uniswap requires providing a substantial amount of collateral to create a sufficiently deep liquidity pool.
 
 Bonding curve launches offer a capital-efficient and transparent alternative that addresses these issues.
 

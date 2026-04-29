@@ -59,7 +59,7 @@ Your skills in JavaScript and TypeScript are important in Web3 development. Ever
 
 ## 4. Python: The Data Scientist’s and Scripter’s Language
 
-Python may not dominate smart contract development, but it plays a vital role in data analysis, testing, and scripting.
+Python may not dominate smart contract development, but it is important for data analysis, testing, and scripting.
 
 | Feature                     | Details                                                                                     |
 |-----------------------------|---------------------------------------------------------------------------------------------|

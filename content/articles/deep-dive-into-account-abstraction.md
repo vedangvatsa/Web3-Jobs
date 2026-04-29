@@ -88,5 +88,5 @@ Account Abstraction transforms Web3 user accounts from simple seed-phrase-contro
 
 EIP-4337's capabilities allow dApps to compete with the usability of leading Web2 applications. It smooths out the harshest aspects of the crypto experience, seed phrases and gas fees, that have long deterred average internet users from engaging.
 
-As the infrastructure for bundlers and paymasters develops, and with increasing adoption of the EIP-4337 standard by wallet providers, Account Abstraction is poised to become the norm for a new generation of Web3 users. It represents a critical advancement necessary for onboarding the next billion users to the decentralized web.
+As the infrastructure for bundlers and paymasters develops, and with increasing adoption of the EIP-4337 standard by wallet providers, Account Abstraction is set to become the norm for a new generation of Web3 users. It represents a critical advancement necessary for onboarding the next billion users to the decentralized web.
 

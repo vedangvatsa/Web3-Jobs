@@ -249,4 +249,4 @@ A: Yes, many professionals transition into technical roles by learning programmi
 **Q: What resources are available for further learning?**  
 A: Numerous online courses, tutorials, and documentation are available, including the official Solana and Rust websites. Engaging with community resources and mentorship opportunities can also enhance your learning experience.
 
-In summary, developing your first DApp on Solana using Rust and Anchor can open numerous doors in the blockchain space. By understanding the core principles and cultivating your skills, you prepare for a successful career in this dynamic environment. As the demand for blockchain solutions continues to grow, your expertise in Solana development will be a valuable asset.
+In summary, developing your first DApp on Solana using Rust and Anchor can open numerous doors in the blockchain space. By understanding the core principles and Building your skills, you prepare for a successful career in this dynamic environment. As the demand for blockchain solutions continues to grow, your expertise in Solana development will be a valuable asset.

@@ -67,7 +67,7 @@ As a Principal, individuals transition from project delivery to business develop
 - **Primary Role:** Overseeing multiple projects and building client relationships.
 - **Key Responsibilities:**
     - Managing several project teams while serving as a senior advisor to Engagement Managers.
-    - Cultivating strong relationships with senior clients to identify opportunities for new projects.
+    - Building strong relationships with senior clients to identify opportunities for new projects.
     - Leading proposal creation and sales efforts for new work.
     - Developing industry-specific expertise, such as in healthcare or marketing strategy.
 - **Skills Developed:** The emphasis is now on business development, relationship management, and thought leadership. Principals learn to build a book of business.

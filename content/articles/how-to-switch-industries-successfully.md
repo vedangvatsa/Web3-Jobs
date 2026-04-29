@@ -70,7 +70,7 @@ A well-constructed narrative can transform any perceived lack of direct experien
 Not necessarily. If you can effectively showcase the relevance of your transferable skills to the new role, you may secure a lateral move. However, be prepared for the possibility of starting at a lower seniority level or salary.
 
 **How long does it take to switch industries?**  
-The timeline varies based on the degree of change. Transitioning to a closely related industry might take a few months. Conversely, moving into an entirely different field that necessitates new education or certifications could take a year or more.
+The timeline varies based on the degree of change. Transitioning to a closely related industry might take a few months. Conversely, moving into an entirely different field that requires new education or certifications could take a year or more.
 
 **How do I manage feelings of imposter syndrome?**  
 Imposter syndrome is common during transitions. Focus on recognizing your transferable skills and the value they bring. Embrace the learning process, and do not hesitate to ask questions when needed.

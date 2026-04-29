@@ -67,7 +67,7 @@ The most new guilds are building platforms that create a cohesive social identit
 
 - **Player Profiles:** A universal profile tracking a scholar’s reputation, achievements, and earnings across all games. This "on-chain [resume](/how-to-build-a-web3-resume-that-stands-out)" enables players to cultivate a portable reputation.
 - **Credentialing:** Guilds issue on-chain credentials or badges to players who demonstrate skill or reliability, building trust and reputation in a pseudonymous environment.
-- **Social Safety Nets:** By offering education, training, and stable income, guilds serve as social and economic safety nets for a burgeoning class of digital workers globally.
+- **Social Safety Nets:** By offering education, training, and stable income, guilds serve as social and economic safety nets for a growing class of digital workers globally.
 
 ## The Challenges and Future of Web3 Guilds
 

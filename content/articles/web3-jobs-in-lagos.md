@@ -20,7 +20,7 @@ Lagos's status as a Web3 center results from a mix of demographic, economic, and
 
 - **A Leader in Global Adoption:** Nigeria ranks among the top countries globally for cryptocurrency usage, with a significant share of this activity concentrated in Lagos. For many residents, cryptocurrencies serve practical purposes such as savings, remittances, and everyday transactions rather than mere speculation. This has cultivated a sophisticated user base for Web3 products.
 
-- **A Flourishing Developer Community:** The city hosts a dense network of software developers, particularly in tech hubs like Yaba, often referred to as "Yabacon Valley." This environment supports a thriving startup culture, leading to the emergence of numerous Web3 startups. International protocols actively recruit talent from this vibrant ecosystem.
+- **A Flourishing Developer Community:** The city hosts a dense network of software developers, particularly in tech hubs like Yaba, often referred to as "Yabacon Valley." This environment supports a growing startup culture, leading to the emergence of numerous Web3 startups. International protocols actively recruit talent from this vibrant ecosystem.
 
 - **Focus on Practical Solutions:** The development scene in Lagos prioritizes creating products that meet immediate needs rather than indulging in abstract technological theories. Notable innovations include DeFi platforms that provide superior yields compared to traditional savings, stablecoin remittance services that undercut bank fees, and mobile applications designed for a predominantly smartphone-using population.
 

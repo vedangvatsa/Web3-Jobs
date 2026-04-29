@@ -18,7 +18,7 @@ By using **[DAOs (Decentralized Autonomous Organizations)](/what-is-a-dao)**, **
 
 Web2 communities face several critical issues:
 
-- **Lack of Ownership:** Community members devote countless hours to creating content and cultivating culture, but the resulting value benefits the platform's shareholders rather than the community itself.
+- **Lack of Ownership:** Community members devote countless hours to creating content and Building culture, but the resulting value benefits the platform's shareholders rather than the community itself.
 - **Centralized Control:** Platforms can adjust algorithms, diminishing a community's reach overnight or banning it entirely for policy violations.
 - **Ineffective Monetization:** Monetization often hinges on advertising or merchandise sales, which can feel disingenuous and frequently fail to provide substantial value to community members.
 

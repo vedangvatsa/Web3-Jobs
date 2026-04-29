@@ -58,7 +58,7 @@ Realizing this vision will demand new technologies that extend beyond the capabi
 
 ### Implications for the Future
 
-While predicting specific applications remains challenging, next-generation connectivity is poised to serve as the foundation for several new technological advancements.
+While predicting specific applications remains challenging, next-generation connectivity is set to serve as the foundation for several new technological advancements.
 
 #### 1. The Metaverse
 
@@ -78,7 +78,7 @@ Real-time, three-dimensional holographic calls will enable interactions that fee
 The rollout of new wireless generations typically occurs in cycles of around 10 years. Given that 5G's rollout began around 2020, the first commercial deployments of 6G may commence around 2030.
 
 **2. Will I need a new phone for 6G?**  
-Yes. Just as 5G necessitates a 5G-compatible device, 6G will require new modems and antennas capable of operating on the new frequency bands and protocols.
+Yes. Just as 5G requires a 5G-compatible device, 6G will require new modems and antennas capable of operating on the new frequency bands and protocols.
 
 **3. Is this merely marketing hype?**  
 While hype exists, the foundational research into enabling technologies for 6G is real and ongoing in universities and corporate labs worldwide. The challenges 6G aims to address, such as the demand for more bandwidth and reduced latency, are genuine issues as technology is changing.

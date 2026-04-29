@@ -16,7 +16,7 @@ Selecting the right bleisure destination is essential for maximizing both produc
 
 ### 1. Lisbon, Portugal
 
-**Overview:** Lisbon has emerged as a hotspot for digital nomads and Web3 professionals due to its unique combination of historic charm, a thriving tech scene, favorable weather, and affordable living costs compared to other major Western European capitals.
+**Overview:** Lisbon has emerged as a hotspot for digital nomads and Web3 professionals due to its unique combination of historic charm, a growing tech scene, favorable weather, and affordable living costs compared to other major Western European capitals.
 
 - **Work Infrastructure:** Lisbon boasts numerous co-working spaces, while many cafes welcome remote workers with strong Wi-Fi. Fiber-optic internet is widely available and reliable throughout the city.
 - **Community:** The city features one of the most active digital nomad communities, making networking straightforward. Countless meetups and events cater to remote workers, and Lisbon serves as a significant hub for Web3 conferences.
@@ -44,7 +44,7 @@ Selecting the right bleisure destination is essential for maximizing both produc
 
 - **Work Infrastructure:** Budapest's tech scene is rapidly growing, supported by a solid selection of modern co-working spaces. Internet connectivity is fast and reliable.
 - **Community:** The city has a strong expat and digital nomad community. Its central location in Europe makes it an excellent base for regional travel.
-- **Leisure:** Evenings can be spent at the city's famous ruin bars, relaxing in thermal spas, or taking a scenic cruise on the Danube. Budapest also offers numerous low-cost flights to other European destinations.
+- **Leisure:** Evenings can be spent at the city's famous ruin bars, relaxing in thermal spas, or taking a scenic cruise on the Danube. Budapest also offers many low-cost flights to other European destinations.
 
 ### 5. Medellín, Colombia
 

@@ -50,7 +50,7 @@ Potential applications include controlling smart home devices through thought al
 
 The direct connection between our brains and computers raises significant ethical and safety concerns.
 
-**Privacy**: This is a critical issue. Brain data represents some of the most intimate information imaginable. A BCI could potentially access not only intended commands but also thoughts and emotions. Safeguarding this data from unauthorized access and misuse is paramount.
+**Privacy**: This is a critical issue. Brain data represents some of the most intimate information imaginable. A BCI could potentially access not only intended commands but also thoughts and emotions. Safeguarding this data from unauthorized access and misuse is critical.
 
 **Safety**: Invasive BCIs present inherent risks, particularly associated with brain surgery. Ongoing research seeks to understand the long-term effects of having electrodes implanted in the brain.
 

@@ -52,7 +52,7 @@ Creating a user interface is essential for any blockchain application. JavaScrip
 
 ### Other Notable Languages
 
-- **Cairo:** A specialized language designed for writing "provable" programs for STARK-based zero-knowledge rollups, particularly StarkNet. This language is more advanced and niche but plays a significant role in Web3 scaling.
+- **Cairo:** A specialized language designed for writing "provable" programs for STARK-based zero-knowledge rollups, particularly StarkNet. This language is more advanced and niche but plays a important role in Web3 scaling.
 - **Go & C++:** Although these languages are not typically used for writing smart contracts, they are frequently employed to create the core infrastructure of blockchains, including clients, nodes, and consensus engines.
 
 ### Which Language Should You Learn First?
@@ -61,7 +61,7 @@ For most aspiring Web3 developers, starting with **Solidity** is advisable.
 
 The EVM ecosystem is the largest and most mature, offering more job opportunities, abundant learning resources, and a supportive community. Establishing a solid foundation in Solidity, particularly within Ethereum and its Layer 2 solutions, provides a practical pathway to a career as a blockchain developer.
 
-After mastering Solidity, learning Rust becomes more manageable. Key concepts of blockchain development, such as state, transactions, and security, are transferable. Expanding your skill set to include Rust opens doors to other burgeoning ecosystems.
+After mastering Solidity, learning Rust becomes more manageable. Key concepts of blockchain development, such as state, transactions, and security, are transferable. Expanding your skill set to include Rust opens doors to other growing ecosystems.
 
 **Your Learning Path:**
 

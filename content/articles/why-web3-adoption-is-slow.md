@@ -18,7 +18,7 @@ This slow adoption frustrates many builders in the Web3 space. If Web3 offers su
 
 User experience serves as the primary barrier to Web3 adoption. Interacting with cryptocurrencies like Bitcoin or Ethereum presents challenges that traditional systems, such as PayPal or banks, simply do not have.
 
-**Wallet management** poses confusion for non-technical users. Cryptocurrencies require a digital wallet to store assets and engage with [blockchain](/what-is-a-blockchain) applications. Managing a wallet necessitates understanding private keys, seed phrases, and backup processes. A lost private key results in the permanent loss of funds, unlike traditional services that offer password recovery options.
+**Wallet management** poses confusion for non-technical users. Cryptocurrencies require a digital wallet to store assets and engage with [blockchain](/what-is-a-blockchain) applications. Managing a wallet requires understanding private keys, seed phrases, and backup processes. A lost private key results in the permanent loss of funds, unlike traditional services that offer password recovery options.
 
 **Transaction complexity** can intimidate newcomers. Sending Bitcoin requires knowledge of the recipient's address format, network fees, and confirmation times. Engaging with a [DEX](/what-is-a-decentralized-exchange-dex) demands a grasp of gas fees, slippage, and liquidity, technical concepts that often confuse average users.
 
@@ -30,7 +30,7 @@ User experience serves as the primary barrier to Web3 adoption. Interacting with
 
 ## Technical Barriers Persist
 
-In addition to user experience issues, technical barriers play a significant role in hindering adoption.
+In addition to user experience issues, technical barriers play a important role in hindering adoption.
 
 **Scalability** remains a critical limitation. Popular networks like Ethereum face congestion during high traffic periods, causing gas fees to increase significantly. A simple transaction that should cost mere cents can escalate to several dollars, making blockchain unsuitable for everyday transactions.
 
@@ -64,7 +64,7 @@ Such incidents have created skepticism. When people hear the term "decentralized
 
 **Technology verification** poses difficulties. Most individuals lack the expertise to audit smart contracts. Users often cannot verify whether a blockchain application is genuinely decentralized or secure, creating trust requirements despite the branding.
 
-**Vendor lock-in** is another issue. Using most Web3 applications necessitates trusting the wallet provider, exchange, or application developer. True decentralization, where users rely solely on the code, is rare. Consequently, users often find themselves trusting various intermediaries.
+**Vendor lock-in** is another issue. Using most Web3 applications requires trusting the wallet provider, exchange, or application developer. True decentralization, where users rely solely on the code, is rare. Consequently, users often find themselves trusting various intermediaries.
 
 ## Lack of Real-World Use Cases
 

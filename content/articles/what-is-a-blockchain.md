@@ -85,7 +85,7 @@ Despite its immense potential, blockchain technology is not without challenges. 
 
 ### The Blockchain Trilemma
 
-The term "Blockchain Trilemma," coined by Ethereum's founder Vitalik Buterin, describes the difficulty in achieving three key properties simultaneously: Decentralization, Security, and Scalability. Frequently, enhancing scalability (the capacity to handle numerous transactions quickly) necessitates compromises on decentralization or security. Developers are actively engaged in tackling this central challenge.
+The term "Blockchain Trilemma," coined by Ethereum's founder Vitalik Buterin, describes the difficulty in achieving three key properties simultaneously: Decentralization, Security, and Scalability. Frequently, enhancing scalability (the capacity to handle numerous transactions quickly) requires compromises on decentralization or security. Developers are actively engaged in tackling this central challenge.
 
 ### User Experience (UX)
 

@@ -3,7 +3,7 @@
 title: "How Web3 Will Change the Future of Digital Advertising"
 image: "/images/alex-knight-2EJCSULRwC8-unsplash.jpg"
 data-ai-hint: "digital advertising future"
-description: "An analysis of how Web3 is poised to disrupt the digital advertising industry, moving from a surveillance-based model to one centered on user privacy."
+description: "An analysis of how Web3 is set to disrupt the digital advertising industry, moving from a surveillance-based model to one centered on user privacy."
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"

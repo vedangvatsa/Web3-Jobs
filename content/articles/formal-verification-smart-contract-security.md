@@ -115,7 +115,7 @@ Despite its strengths, formal verification also has notable limitations:
 
 4. **Scope Limitations:** Formal verification focuses solely on the contract code. It cannot verify external dependencies, oracle accuracy, or interactions with other contracts, although research into compositional verification is progressing.
 
-5. **Cost and Expertise:** Implementing formal verification necessitates specialized knowledge and tooling. Organizations must invest in training and learning these advanced methods.
+5. **Cost and Expertise:** Implementing formal verification requires specialized knowledge and tooling. Organizations must invest in training and learning these advanced methods.
 
 ## Career Opportunities in Formal Verification
 

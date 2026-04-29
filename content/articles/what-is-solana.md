@@ -36,7 +36,7 @@ These features enable Solana to theoretically manage a high volume of transactio
 
 Solana's performance-oriented focus introduces specific challenges and trade-offs:
 
-- **Decentralization:** Achieving high performance necessitates powerful hardware for validator nodes, which can lead to a more centralized validator structure compared to Ethereum. This high barrier to entry may discourage smaller validators from participating.
+- **Decentralization:** Achieving high performance requires powerful hardware for validator nodes, which can lead to a more centralized validator structure compared to Ethereum. This high barrier to entry may discourage smaller validators from participating.
 
 - **Uptime:** The network has experienced several outages due to bugs or stress during peak usage. While reliability has improved, these incidents raise concerns regarding the network's stability for some users.
 

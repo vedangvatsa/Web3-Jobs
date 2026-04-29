@@ -9,7 +9,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-29"
 ---
 
-Venture Capital (VC) fuels innovation by providing essential early-stage funding, enabling startups to scale and shape the future. In the dynamic field of [Web3](/what-is-web3), a new class of investors, known as **crypto VCs**, has emerged. These professionals focus on identifying and financing high-potential projects within the [blockchain](/what-is-a-blockchain) and decentralized technology sectors.
+Venture Capital (VC) fuels innovation by providing essential early-stage funding, enabling startups to scale and shape the future. In the fast-moving field of [Web3](/what-is-web3), a new class of investors, known as **crypto VCs**, has emerged. These professionals focus on identifying and financing high-potential projects within the [blockchain](/what-is-a-blockchain) and decentralized technology sectors.
 
 A career in Web3 VC represents a significant opportunity. It allows individuals to engage with leading innovators, influence the future of the internet, and play a role in transformative projects. However, this sector is highly competitive. This guide outlines the key roles, necessary skills, and alternative pathways to becoming a Web3 investor.
 
@@ -17,7 +17,7 @@ A career in Web3 VC represents a significant opportunity. It allows individuals 
 
 Investing in Web3 differs significantly from traditional venture capital. 
 
-- **Protocols Over Companies:** Crypto VCs invest in a protocol's native [tokens](/what-is-a-token) rather than solely in startup equity. This necessitates assessing the team, market viability, tokenomics, and the economic security of a decentralized network.
+- **Protocols Over Companies:** Crypto VCs invest in a protocol's native [tokens](/what-is-a-token) rather than solely in startup equity. This requires assessing the team, market viability, tokenomics, and the economic security of a decentralized network.
 - **Liquidity Dynamics:** Unlike traditional equity, which may take a long time to liquidate, tokens can often be traded on public markets much earlier. This shift requires skills that combine traditional venture analysis with public market trading and [portfolio](/building-web3-portfolio) management.
 - **Technical Due Diligence:** A thorough understanding of blockchain technology, [smart contract](/what-are-smart-contracts) security, and the specific trade-offs involved in various projects is essential for evaluating potential investments.
 - **Active Governance Participation:** Crypto VCs holding governance tokens become active community members. They engage in governance, vote on proposals, and guide the protocol's direction.

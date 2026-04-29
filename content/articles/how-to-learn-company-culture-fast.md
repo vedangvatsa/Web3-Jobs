@@ -53,11 +53,11 @@ Be intentional in your efforts. Attend all optional virtual social gatherings, e
 
 ### Bottom Line
 
-Understanding company culture is essential for thriving in your new role. By observing, listening, asking insightful questions, and using documentation, you can decode the organizational culture efficiently. This knowledge will enable you to contribute meaningfully and establish a foundation for long-term success.
+Understanding company culture is essential for growing in your new role. By observing, listening, asking insightful questions, and using documentation, you can decode the organizational culture efficiently. This knowledge will enable you to contribute meaningfully and establish a foundation for long-term success.
 
 ## Why These Skills Matter
 
-Cultivating these competencies is vital for success in any career, whether in [Web3](/what-is-web3), traditional tech, or other knowledge-intensive fields. Research shows that these skills yield a significant return on investment.
+Building these competencies is vital for success in any career, whether in [Web3](/what-is-web3), traditional tech, or other knowledge-intensive fields. Research shows that these skills yield a significant return on investment.
 
 ## Skill Breakdown
 
@@ -117,7 +117,7 @@ As you advance in your career, the importance of these skills evolves:
 - **Junior Level:** Technical skills hold the most significance, but communication starts to gain importance.
 - **Mid Level:** A balanced combination of technical and soft skills becomes necessary; leadership potential often emerges.
 - **Senior Level:** Soft skills account for a significant portion of your effectiveness.
-- **Leadership:** Mastery of emotional intelligence and communication becomes paramount.
+- **Leadership:** Mastery of emotional intelligence and communication becomes essential.
 
 ## Common Development Mistakes
 
