@@ -8,6 +8,15 @@ import * as path from 'path';
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 
 /**
+ * Non-Web3 companies that leak through portfolio job boards (e.g. Coinbase GetRo).
+ * Jobs from these companies are filtered out at read time.
+ */
+const BLOCKED_COMPANIES = new Set([
+ 'notion', 'ashby', 'merge', 'salt ai', 'workable',
+ 'button', 'breeze', 'citadel securities', 'zipline',
+]);
+
+/**
  * Reads jobs from the static cache file (content/jobs-cache.json).
  * The cache is refreshed every 8 hours by GitHub Actions (refresh-jobs-cache.yml).
  * No RSS fetching happens at runtime.
@@ -69,10 +78,13 @@ export async function getJobs(): Promise<Job[]> {
    title: cleanJobTitle(job.title, job.company),
   }));
 
+  // Filter out non-Web3 companies
+  const web3Jobs = jobs.filter(job => !BLOCKED_COMPANIES.has(job.company.toLowerCase()));
+
   // Apply 30-day freshness filter
   const thirtyDaysAgo = new Date();
   thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
-  const freshJobs = jobs.filter(job => new Date(job.date) > thirtyDaysAgo);
+  const freshJobs = web3Jobs.filter(job => new Date(job.date) > thirtyDaysAgo);
 
   // Distribute so no single company dominates
   return distributeJobsByCompany(freshJobs);

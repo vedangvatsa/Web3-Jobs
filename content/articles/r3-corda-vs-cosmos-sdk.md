@@ -5,7 +5,7 @@ image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1080"
 imageAlt: "Enterprise blockchain architecture comparison"
 data-ai-hint: "R3 Corda Cosmos SDK enterprise blockchain comparison"
 description: "A detailed comparison of R3 Corda and Cosmos SDK for enterprise blockchain development. Covers architecture, use cases, performance, and which to choose."
-category: "Blockchain Technology"
+category: 'Technology Deep Dives'
 slug: "r3-corda-vs-cosmos-sdk"
 
 publishedDate: "2026-03-15"
