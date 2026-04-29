@@ -117,10 +117,3 @@ Mentors are prevalent in the Web3 community; building these relationships can si
 
 ## The Web3 Employment Sector
 
-The Web3 sector is experiencing remarkable growth, with demand for qualified talent significantly exceeding supply. Web3 offers advantages not typically found in traditional tech roles:
-
-- **Compensation**: Web3 positions often offer competitive salaries, with attractive bonus and equity components.
-- **Remote Work**: Most Web3 companies operate fully or primarily remotely, providing flexibility that is less common in traditional tech environments.
-- **Accelerated Growth**: Career advancement occurs more rapidly in Web3 due to swift company scaling and a shortage of skilled professionals.
-- **Equity Potential**: Compensation packages frequently include [tokens](/what-is-a-token) and equity, offering substantial wealth-building prospects.
-

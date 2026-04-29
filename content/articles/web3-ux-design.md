@@ -65,18 +65,3 @@ Designers play a important role in supporting Web3 adoption. By understanding us
 
 ## The Expanding Web3 Opportunity
 
-The Web3 sector is witnessing remarkable growth, with demand for qualified talent significantly surpassing supply. Unlike traditional tech, Web3 presents distinct advantages, including higher compensation, equity opportunities, fully remote roles, and the chance to contribute to new technology.
-
-### Market Dynamics
-
-The [Web3 job](/web3-jobs-for-beginners) market operates under different dynamics than Web2:
-
-| **Aspect**              | **Web2**               | **Web3**                  |
-|------------------------|-----------------------|---------------------------|
-| Compensation           | Lower salaries         | Generally higher salaries     |
-| Work Culture           | Office-centric         | Remote-first flexibility    |
-| Career Progression     | Slower, hierarchical   | Accelerated due to scaling  |
-| Equity Opportunities    | Limited                | Token and equity packages available |
-
-Web3 roles typically offer higher salaries compared to equivalent Web2 positions, along with significant bonuses and equity components. Most organizations operate either fully or primarily remote, providing flexibility that is less common in traditional tech environments. Rapid company scaling and a talent shortage allow for faster career progression in Web3, while token and equity packages offer substantial wealth-building potential.
-

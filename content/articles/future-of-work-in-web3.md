@@ -79,5 +79,3 @@ The Web3 job market operates under different dynamics compared to the traditiona
 | **Career Progression**   | Slower, often linear                  | Rapid advancement due to scaling and talent shortages |
 | **Equity Opportunities**  | Limited stock options                 | Token and equity packages that provide significant wealth potential |
 
-The Web3 sector is booming, with demand for qualified talent far exceeding supply. Compared to traditional tech roles, Web3 offers higher compensation, equity opportunities, fully remote positions, and the chance to work on new technological advancements.
-

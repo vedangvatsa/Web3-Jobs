@@ -58,16 +58,3 @@ The [Web3 job](/web3-jobs-for-beginners) market may be competitive, but it opera
 
 ### Understanding the Web3 Opportunity
 
-The Web3 sector is witnessing significant growth, with demand for qualified talent significantly outstripping supply. Compared to traditional technology sectors, Web3 offers several unique benefits: higher salaries, equity opportunities, fully remote positions, and the chance to contribute to new technology.
-
-### Market Dynamics
-
-The Web3 job market differs fundamentally from its Web2 predecessor:
-
-| Factor                     | Web3                               | Web2                               |
-|---------------------------|------------------------------------|------------------------------------|
-| **Compensation**          | Generally higher than Web2 roles   | Standard market rates               |
-| **Culture**               | Remote-first, offering flexibility  | Often hybrid or in-office          |
-| **Career Progression**    | Rapid advancement due to scaling    | Slower growth                       |
-| **Equity Packages**       | Tokens and equity common            | Mostly salary-focused               |
-

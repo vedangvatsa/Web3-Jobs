@@ -1,7 +1,7 @@
 ---
 
 title: "How to Effectively Navigate Web3 Job Boards"
-description: "A strategic guide to using Web3 job boards. Learn how to filter out the noise, identify high-quality opportunities, and position yourself as a top candidate."
+description: "A strategic guide to using Web3 job boards. Learn how to filter out the noise, identify high-quality opportunities, and prepare as a top candidate."
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 category: "Career Guides"
 data-ai-hint: "man searching laptop"
@@ -54,5 +54,5 @@ In the Web3 space, a passive approach of merely applying for jobs is often ineff
    - **For Designers:** Develop a Figma prototype critiquing their UX with suggested improvements.
    - **For Marketers:** Write a blog post dissecting their go-to-market strategy.
 
-5. **The Application:** When you apply, position yourself as an engaged community member who has demonstrated value. Reference your contributions in your cover letter, providing specific feedback about the product. This approach sets you apart from the majority of applicants.
+5. **The Application:** When you apply, prepare as an engaged community member who has demonstrated value. Reference your contributions in your cover letter, providing specific feedback about the product. This approach sets you apart from the majority of applicants.
 

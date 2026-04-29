@@ -36,7 +36,7 @@ The mindset of an auditor significantly differs from that of a developer:
 - A **developer** approaches a project constructively, asking, "How can I build this to work as intended?"
 - An **auditor** adopts an adversarial stance, questioning, "How can I break this in the most new way?"
 
-Auditors must remain vigilant, skeptical, and relentlessly curious. They anticipate potential attacks by considering not only the intended functionality of the code but also the myriad ways it could be misused.
+Auditors must remain vigilant, skeptical, and relentlessly curious. They anticipate potential attacks by considering not only the intended functionality of the code but also the many ways it could be misused.
 
 ### Essential Skills for Smart Contract Auditors
 

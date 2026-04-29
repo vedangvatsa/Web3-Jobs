@@ -48,23 +48,3 @@ A career as a professional validator suits individuals passionate about the foun
 
 ## Web3 Career Market
 
-The Web3 sector is experiencing strong growth, with demand for qualified professionals significantly outpacing supply. Compared to traditional tech sectors, Web3 provides distinct advantages, including higher compensation, equity opportunities, fully remote positions, and the chance to contribute to the evolution of technology.
-
-### Market Dynamics
-
-The [Web3 job](/web3-jobs-for-beginners) market functions under different dynamics compared to Web2, influenced by the decentralized nature of blockchain organizations and the ongoing talent shortage.
-
-| Role Type                    | Average Salary Range            | Total Compensation            |
-|------------------------------|---------------------------------|-------------------------------|
-| Senior Solidity Engineer      | Significant value                | Significant value              |
-| Product Manager               | Significant value                | Significant value              |
-| Business Development Lead     | Significant value                | Significant value              |
-
-**Compensation:** Web3 roles typically offer salaries that are higher than their Web2 counterparts. Senior Solidity engineers can command total compensation in significant value, while product managers and business development leads earn in significant value. Compensation packages often include token allocations alongside traditional equity.
-
-**Remote-First Culture:** Many Web3 organizations operate fully or primarily remote, with teams distributed across various time zones. This setup creates opportunities for talent in regions that tech hiring has traditionally overlooked, including Southeast Asia, Latin America, and Africa.
-
-**Growth Potential:** Career advancement in Web3 occurs more rapidly due to fast company scaling and the ongoing talent shortage. Mid-level professionals often reach senior or lead positions within a short timeframe of entering the industry.
-
-**Equity Opportunities:** Token and equity packages are common, offering significant wealth-building potential for early team members involved with successful protocols.
-

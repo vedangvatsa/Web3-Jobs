@@ -61,8 +61,3 @@ Web5 does not represent a new blockchain. Instead, it proposes a set of open sta
 
 Web5 aims to establish a web where users retain ownership of their identity and data, addressing the issues that "Web3" purports to solve while adhering to an open, Bitcoin-focused standard devoid of new tokens or VC ownership.
 
-## Conclusion: The Unyielding Bitcoin Maximalist
-
-Jack Dorsey occupies a distinctive position in the Web3 discussion as a resolute advocate for Bitcoin. He serves as a counterweight to the hype and commercialization surrounding the broader "Web3" ecosystem. His critiques, particularly those targeting the role of venture capital, compel the industry to confront challenging questions about the authenticity of decentralization.
-
-While some may dismiss his views as overly restrictive, his influence is significant. Through his efforts at Block and TBD, Dorsey actively invests in and develops an alternative vision for a decentralized future, one firmly anchored in Bitcoin's principles and protocols. His unwavering philosophy positions him as a key figure influencing the internet's trajectory, prompting conversations about the true meaning of decentralization and the potential of Bitcoin in shaping the digital field.

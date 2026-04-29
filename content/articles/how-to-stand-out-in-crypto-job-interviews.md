@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 You've built your [portfolio](/building-web3-portfolio), networked your way to introductions, and secured an [interview](/how-to-prepare-for-job-interview) for your dream role in [Web3](/what-is-web3). While this is a significant achievement, the interview process itself poses unique challenges. It tests not only your technical skills but also your passion, critical thinking abilities, and alignment with the decentralized ethos of the industry.
 
-Hiring managers in Web3 seek candidates who exhibit a genuine commitment to the ecosystem. They want to ensure you're not merely pursuing a high salary but are instead invested in the long-term potential of blockchain technology. Your skills must extend beyond what’s on paper; you should demonstrate a profound understanding of the space's challenges and opportunities. This article presents actionable strategies to help you excel in your Web3 interviews and position yourself as the ideal candidate.
+Hiring managers in Web3 seek candidates who exhibit a genuine commitment to the ecosystem. They want to ensure you're not merely pursuing a high salary but are instead invested in the long-term potential of blockchain technology. Your skills must extend beyond what’s on paper; you should demonstrate a profound understanding of the space's challenges and opportunities. This article presents actionable strategies to help you excel in your Web3 interviews and prepare as the ideal candidate.
 
 ### 1. Nail Your "Rabbit Hole" Story
 

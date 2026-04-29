@@ -48,5 +48,3 @@ A career as a Web3 IP expert appeals to legal professionals intrigued by the leg
 
 ## Web3 Opportunity
 
-The Web3 sector is on a trajectory of growth, with demand for qualified talent significantly exceeding supply. This environment offers unique advantages compared to traditional tech roles. Notably, Web3 positions often feature higher compensation, equity opportunities, fully remote roles, and the chance to influence technology development.
-

@@ -70,17 +70,3 @@ Layer 1 and Layer 2 platforms complement each other. L1s deliver foundational se
 
 ### The Web3 Job Market Opportunity
 
-The Web3 sector is witnessing rapid growth, with demand for qualified talent significantly outpacing supply. This environment presents unique advantages compared to traditional tech roles, including higher compensation, equity opportunities, fully remote positions, and the chance to work on new technologies.
-
-#### Market Context
-
-The [Web3 job](/web3-jobs-for-beginners) market differs fundamentally from Web2, influenced by the decentralized nature of blockchain organizations and a persistent global talent shortage.
-
-- **Compensation:** Web3 roles typically command salaries significantly higher than comparable Web2 positions. Senior Solidity engineers often earn substantial salaries, while product managers and business development leads receive competitive compensation. Compensation packages frequently include token allocations alongside traditional equity.
-
-- **Remote-First Culture:** Most Web3 organizations operate fully or primarily remote, allowing teams to be spread across various time zones. This approach creates opportunities for talent in regions often overlooked by tech hiring, including Southeast Asia, Latin America, and Africa.
-
-- **Growth Trajectory:** Professionals in Web3 experience faster career advancement due to rapid company growth and ongoing talent shortages. Mid-level employees frequently achieve senior or lead roles within a short period of entering the field.
-
-- **Equity Upside:** Token and equity packages are common, offering substantial wealth-building potential for early employees at successful protocols.
-

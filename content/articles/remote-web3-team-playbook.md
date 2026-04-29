@@ -56,5 +56,3 @@ Effective remote collaboration hinges on a shared set of tools, including:
 
 ### The Unique Sector of Web3 Careers
 
-The Web3 sector is experiencing growth, with demand for qualified talent exceeding supply. Unlike traditional tech environments, Web3 offers distinct advantages, such as competitive compensation, equity opportunities, fully remote roles, and the chance to contribute to new technology.
-

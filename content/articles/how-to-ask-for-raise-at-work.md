@@ -119,6 +119,3 @@ Maya transitioned from a Web2 role to Web3 and used these strategies to adapt qu
 4. **Quitting Too Early**: Change can be uncomfortable. Persist through initial challenges to achieve better outcomes.
 5. **Neglecting Progress Tracking**: Without metrics, improvement becomes elusive. Document your progress to measure success.
 
-### Conclusion
-
-Requesting a raise is an essential skill that can significantly impact your career trajectory. By understanding the timing, conducting thorough research, and preparing effectively, you can approach this conversation with confidence. Remember to remain professional, listen actively, and adapt your strategy based on feedback. With these tactics, you can advocate for your worth and achieve the compensation you deserve.

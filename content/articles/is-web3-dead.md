@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 Every crypto bear market prompts a familiar wave of headlines questioning the viability of Web3. Phrases like “Is [Web3](/what-is-web3) Dead?” and “The [Blockchain](/what-is-a-blockchain) Dream is Over” dominate discussions. Many view the high volatility of [token](/what-is-a-token) prices and the failure of some projects as signs of a dying industry. However, those actively building within this ecosystem recognize that these narratives overlook essential progress.
 
-Equating the price of cryptocurrencies with the future of Web3 is misguided. The early internet's potential was not determined by the stock price of Pets.com. Instead, it is critical to assess whether the technology continues to evolve and whether builders remain committed to the vision of a decentralized internet.
+Equating the price of cryptocurrencies with the future of Web3 is misguided. The early internet's potential was not determined by the stock price of Pets.com. Instead, it is critical to assess whether the technology is changing and whether builders remain committed to the vision of a decentralized internet.
 
 This article examines the current state of Web3. It acknowledges the industry's challenges while emphasizing the significant strides made, suggesting that we are not witnessing an end, but rather the conclusion of the initial phase of this journey.
 

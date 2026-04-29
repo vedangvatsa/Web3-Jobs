@@ -75,5 +75,3 @@ A strategic and disciplined approach to partnerships is vital for growth in Web3
 
 ## Understanding the Web3 Opportunity
 
-The Web3 sector is undergoing rapid growth, outpacing the supply of qualified talent. This environment offers distinct advantages compared to traditional tech roles, including higher compensation, equity opportunities, fully remote work, and the chance to influence technological evolution.
-

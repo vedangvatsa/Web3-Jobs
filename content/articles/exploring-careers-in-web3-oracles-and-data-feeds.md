@@ -88,5 +88,3 @@ A career in the oracle sector provides an opportunity to contribute to the found
 
 ### The Growing Web3 Opportunity
 
-The Web3 sector is witnessing rapid expansion, with the demand for qualified talent significantly exceeding supply. Compared to traditional tech roles, Web3 positions offer unique benefits, including higher compensation, equity opportunities, fully remote work options, and the chance to play a role in transforming technology.
-

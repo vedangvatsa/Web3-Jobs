@@ -50,14 +50,3 @@ The Web3 job market in Indonesia is expanding, with competitive salaries often e
 
 ### Opportunities in Web3
 
-The Web3 sector is experiencing rapid growth, with demand for qualified talent significantly surpassing supply. This environment offers unique benefits, including higher salaries, equity opportunities, remote roles, and the chance to contribute to new technology.
-
-### Understanding the Market Dynamics
-
-The Web3 job market operates under different dynamics compared to Web2:
-
-- **Higher Compensation**: Web3 roles generally pay more than equivalent Web2 positions, with substantial bonuses and equity components.
-- **Remote Work Culture**: Most Web3 companies function fully or predominantly remotely, providing flexibility that is uncommon in traditional tech sectors.
-- **Accelerated Growth**: Career advancement occurs more rapidly in Web3 due to the fast-paced scaling of companies and a shortage of qualified talent.
-- **Equity and Token Opportunities**: [Token](/what-is-a-token) and equity packages are common, offering potential for significant financial growth.
-

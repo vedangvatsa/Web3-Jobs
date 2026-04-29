@@ -82,26 +82,3 @@ To become a member of Network School, follow these steps:
 
 Members of the Hashtag Community enjoy one week free upon joining.
 
-## Frequently Asked Questions
-
-**What is included in the pricing?**  
-The monthly fee covers shared or private accommodation, all meals, high-speed WiFi, gym access, coworking spaces, content studio usage, makerspace facilities, workshops, and community access. Housekeeping for rooms is also provided.
-
-**Is this exclusive to tech founders?**  
-No, Network School is open to a wide range of individuals. Remote workers, creators, operators, engineers, and anyone involved in building or creating can benefit from this environment.
-
-**Can I stay for just one month?**  
-Yes, one-month stays are welcome. The standard commitment is month-to-month, allowing flexibility for those who may only need a short-term solution.
-
-**Why is the membership process selective?**  
-Network School seeks to maintain a high-quality community. By vetting applicants, they ensure that members are actively building or working, rather than just seeking a low-cost vacation option.
-
-**What is the community like?**  
-The community is diverse, comprising remote employees, solo founders, indie creators, and operators from various startups. Members range in age from 22 to over 50, with some staying for a month while others remain for six months or longer.
-
-**Who benefits the most from this environment?**  
-Network School is ideal for founders looking to accelerate their projects without the burden of hiring additional staff. It also serves remote workers who feel isolated and creators needing reliable infrastructure. Anyone who thrives in a structured environment with peer support will find value here.
-
-## Conclusion
-
-Network School stands out as a unique startup society designed for builders seeking a vibrant community and efficient infrastructure. With its all-inclusive living arrangements, members can focus on their projects without the distractions of isolation or logistical challenges. The environment encourages collaboration and connection among diverse professionals, ultimately supporting creativity and productivity. For those considering a career move or a new working arrangement, Network School presents an attractive option that integrates work and community living.
