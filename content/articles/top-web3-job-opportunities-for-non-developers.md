@@ -114,5 +114,5 @@ Without code contributions to showcase on GitHub, your portfolio should consist 
 
 5. **Join a DAO and Contribute:** This is one of the most effective ways to secure a position. Find a [DAO](/the-rise-of-daos) that matches your skills, join a working group, and undertake small tasks or "bounties" for verifiable, on-chain experience.
 
-The Web3 sector needs professionals from non-technical backgrounds. By immersing yourself in the culture, adapting your skills, and curating a public portfolio of your contributions, you can position yourself for a fulfilling career.
+The Web3 sector needs professionals from non-technical backgrounds. By immersing yourself in the culture, adapting your skills, and curating a public portfolio of your contributions, you can prepare for a fulfilling career.
 

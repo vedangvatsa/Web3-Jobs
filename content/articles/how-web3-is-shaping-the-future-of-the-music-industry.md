@@ -82,23 +82,3 @@ Despite these challenges, Web3 holds immense potential to create a fairer and mo
 
 ### The Web3 Workforce Opportunity
 
-The Web3 sector is experiencing rapid growth, with demand for qualified professionals outstripping supply. Unlike traditional technology roles, Web3 offers unique advantages, such as higher compensation, equity opportunities, fully remote positions, and the chance to contribute to meaningful technological advancements.
-
-### Market Dynamics
-
-The Web3 job market operates under different dynamics than its predecessor, Web2, driven by the decentralized nature of blockchain organizations and a persistent global talent shortage.
-
-| Role                          | Web2 Average Salary | Web3 Average Salary | Percent Increase |
-|-------------------------------|---------------------|---------------------|------------------|
-| Solidity Engineer             | Varies              | Varies              | Varies           |
-| Product Manager               | Varies              | Varies              | Varies           |
-| Business Development Lead      | Varies              | Varies              | Varies           |
-
-**Compensation**: Web3 roles typically offer higher pay than similar Web2 positions. For example, senior Solidity engineers can expect total compensation that reflects the demand for their skills, while product managers and business development leads can earn competitive salaries. Compensation packages often include token allocations in addition to traditional equity.
-
-**Remote Work Culture**: Most Web3 companies operate fully or primarily remote, allowing teams to collaborate across different time zones. This opens opportunities for talent in regions traditionally underserved by technology hiring, including Southeast Asia, Latin America, and Africa.
-
-**Career Advancement**: Career progression occurs more rapidly in Web3 due to rapid scaling and ongoing talent shortages. Mid-level professionals can often reach senior or lead positions within a relatively short timeframe.
-
-**Equity Potential**: Token and equity packages are standard in the sector, providing significant wealth-building opportunities for early team members at successful protocols.
-

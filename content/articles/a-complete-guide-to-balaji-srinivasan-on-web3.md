@@ -71,25 +71,3 @@ Balaji emphasizes the importance of a "recognized founder" in new decentralized 
 
 The model he proposes involves "centralized launch, decentralized long-term." A founder must provide initial moral and technical direction while designing systems to evolve toward greater decentralization, ultimately governed by the community.
 
-## Conclusion: An Architect of the Future
-
-Balaji Srinivasan transcends the roles of investor and technologist; he embodies a political philosopher for the digital era. His frameworks articulate how Web3 technologies can forge new social and political structures from the ground up.
-
-Though some may view his ideas as radical or utopian, they resonate deeply within the Web3 community. Balaji enables a generation of builders who are not merely developing applications but are also laying the groundwork for a freer, more prosperous, and decentralized future. His concept of the Network State serves as a rallying point for those aspiring to create parallel societies and opt-in governance models in the 21st century.
-
-### Frequently Asked Questions (FAQ)
-
-**What is a Network State in simple terms?**  
-A Network State is an online community with a shared purpose and its cryptocurrency that eventually crowdfunds physical territory worldwide, seeking diplomatic recognition as a sovereign state. It represents a new form of country initiated from the internet.
-
-**Is Balaji Srinivasan a Bitcoin maximalist?**  
-No. Although he respects Bitcoin as the most decentralized cryptocurrency, his vision encompasses the entire Web3 ecosystem, including [Ethereum](/what-is-ethereum), [smart contracts](/what-are-smart-contracts), and emerging Layer 1s.
-
-**What does Balaji mean by "exit"?**  
-"Exit" describes the ability to peacefully leave a system (such as a company or country) that one disagrees with. Balaji asserts that Web3 technologies facilitate "exit," allowing individuals to carry their assets and digital identities to new, alternative systems.
-
-**What is Balaji's famous million-dollar Bitcoin bet?**  
-In March 2023, Balaji publicly wagered that Bitcoin would reach a significant value within 90 days, signaling his belief that the U.S. faced imminent hyperinflation. He later closed the bet early, donating funds to involved parties and charity, but the bet significantly highlighted his views on the fragility of traditional financial systems.
-
-**Is "The Network State" a realistic idea?**  
-While ambitious, the concept encounters substantial legal, political, and logistical hurdles. Balaji maintains it serves as a long-term vision, asserting that the initial stages, building online communities with strong digital economies, are already underway. This vision provides a "north star" for the Web3 movement.

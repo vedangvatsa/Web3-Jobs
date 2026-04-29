@@ -81,7 +81,7 @@ This decentralized development model ensures that no single individual or entity
 
 Ethereum Genesis Day signifies more than just a historical milestone; it celebrates a bold vision and highlights the strength of decentralized collaboration. From a single block, Ethereum has grown into a global movement, attracting a vast number of users, numerous developers, and generating significant economic activity at its peak.
 
-The journey is ongoing. Ethereum continues to evolve with upgrades focused on:
+The journey is ongoing. Ethereum is changing with upgrades focused on:
 
 - **Scalability:** Implementing Layer 2 solutions and further sharding improvements.
 - **Security:** Pursuing formal verification research and hardening the protocol.

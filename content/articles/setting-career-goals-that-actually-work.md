@@ -336,7 +336,7 @@ Focus on building skills, validating ideas, building networks.
 
 Goals: Build an MVP, validate product-market fit, secure initial funding, build a founding team.
 
-See also: **[How to Build Executive Presence at Work](how-to-build-executive-presence-at-work)** – How to position yourself for advancement.
+See also: **[How to Build Executive Presence at Work](how-to-build-executive-presence-at-work)** – How to prepare for advancement.
 
 ### Your Goal-Setting Process
 

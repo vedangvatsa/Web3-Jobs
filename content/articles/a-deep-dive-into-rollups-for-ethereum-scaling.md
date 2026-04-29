@@ -78,8 +78,3 @@ This modular framework, where execution occurs on L2s and settlement on L1, perm
 | Complexity                       | Simpler technology                     | Advanced cryptographic techniques      |
 | Examples                         | Arbitrum, Optimism                     | zkSync, Starknet, Polygon zkEVM       |
 
-### Conclusion
-
-The introduction of rollups marks a significant advancement in Ethereum's scalability solutions. Both Optimistic and ZK-Rollups offer unique benefits and address specific challenges associated with high transaction fees and slow processing times. As Ethereum moves toward a rollup-centric architecture, developers and users can anticipate a more efficient, accessible, and cost-effective blockchain environment.
-
-This transition not only enhances Ethereum's scalability but also preserves its foundational principles of decentralization and security. With continued innovation and refinement in rollup technology, Ethereum is poised for a future where high performance and user-friendliness coexist, ultimately building a thriving ecosystem of decentralized applications.

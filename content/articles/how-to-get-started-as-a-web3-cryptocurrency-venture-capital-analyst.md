@@ -53,5 +53,3 @@ A career as a Web3 Investment Analyst is challenging but rewarding. It offers th
 
 ## Web3 Opportunity
 
-The Web3 sector is experiencing rapid growth, with demand for qualified talent surpassing supply. Unlike traditional tech sectors, Web3 presents distinct advantages such as higher compensation, equity opportunities, fully remote positions, and the ability to contribute to new technology.
-

@@ -142,6 +142,3 @@ The thank-you email acts as a standalone message. If you do not receive a respon
 
 While handwritten notes can add a personal touch, in most modern industries, especially tech, an email is the expected format. Handwritten notes may arrive too late to influence the hiring decision. Prioritize a timely email.
 
-### Conclusion
-
-Crafting an effective thank-you email can significantly influence the hiring process. By expressing gratitude, reinforcing your qualifications, and highlighting specific points from your conversation, you enhance your professional image and keep your candidacy fresh in the interviewer's mind. Personalization is important; avoid generic notes, and instead, invest time in tailoring your message. This effort not only showcases your interest and enthusiasm but also sets you apart in a competitive job market. Following these guidelines will improve your chances of leaving a positive impression and increase the likelihood of securing the role you desire.

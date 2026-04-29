@@ -76,6 +76,3 @@ Start by outlining a budget of your current and anticipated expenses during your
 **What if my workplace doesn’t support a career break?**  
 Even in challenging environments, you often have more agency than you realize. Start with small, manageable actions that don't require widespread support. Document your progress to showcase your growth. If the environment is consistently unwelcoming to development, it may be time to consider a workplace that aligns better with your career goals.
 
-### Conclusion
-
-Taking a career break can serve as a transformative experience. It opens doors to personal discovery, skill enhancement, and renewed focus on your professional aspirations. However, it demands careful consideration of your financial situation, career trajectory, and personal motivations. By approaching the decision thoughtfully and planning effectively, you can ensure that your sabbatical contributes significantly to your overall career development. Remember, the goal is not merely to take a break but to emerge from it with a clearer purpose and greater clarity in your career journey.

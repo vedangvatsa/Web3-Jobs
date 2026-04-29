@@ -86,8 +86,3 @@ Even a period of rest can be framed positively. You can refer to it as a "sabbat
 
 These options can facilitate a smoother transition back into the workforce. A returnship offers internship-like experiences for seasoned professionals, providing a way to update skills. Contract roles can also help establish your value within a company.
 
-### Conclusion
-
-Returning to work after a career break can be challenging, but it also presents an opportunity for growth and realignment with your career goals. By reflecting on your priorities, updating your professional materials, reconnecting with your network, and crafting a compelling narrative around your break, you can position yourself effectively for your job search. 
-
-Stay patient and persistent throughout this process. Celebrate small victories and remember that your unique experiences contribute to your value as a candidate. Accept this journey as you re-enter the workforce with renewed confidence and purpose.

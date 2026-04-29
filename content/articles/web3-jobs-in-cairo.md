@@ -44,7 +44,7 @@ The demand for Web3 talent in Cairo is on the rise, especially for skilled devel
    
 2. **Become an Educator:** There is a strong demand for Web3 education in Egypt. Establish yourself as a knowledgeable educator by starting a YouTube channel, creating a blog, or forming study groups in Arabic. Gaining recognition as an educator can enhance your visibility in the community.
 
-3. **Develop a Strong Technical Portfolio:** The global demand for skilled developers remains high. Focus on creating an impressive portfolio on GitHub. Contribute to international open-source projects to position yourself as a competitive candidate for lucrative remote roles.
+3. **Develop a Strong Technical Portfolio:** The global demand for skilled developers remains high. Focus on creating an impressive portfolio on GitHub. Contribute to international open-source projects to prepare as a competitive candidate for lucrative remote roles.
 
 4. **Engage in Networking Opportunities:**
    - **Local Meetups:** Actively participate in Cairo's Web3 meetups to build connections within the community.

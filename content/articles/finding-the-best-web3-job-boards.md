@@ -55,16 +55,3 @@ The Web3 job search departs from the traditional corporate approach, rewarding p
 
 ## Understanding the Web3 Opportunity
 
-The Web3 sector is rapidly expanding, with demand for qualified talent significantly outpacing supply. This market offers distinct advantages over traditional tech roles, including higher compensation, equity opportunities, fully remote positions, and the chance to enhance technological frameworks.
-
-### Market Dynamics
-
-The Web3 job market features different dynamics compared to Web2:
-
-| Aspect                  | Web3                          | Web2                          |
-|-------------------------|-------------------------------|-------------------------------|
-| **Compensation**        | Generally higher than Web2 roles | Standard industry rates       |
-| **Remote Culture**      | Mostly remote positions        | Hybrid or in-office roles     |
-| **Growth Trajectory**   | Faster career advancement      | Slower progression            |
-| **Equity Packages**     | Common, with significant upside | Limited equity offerings      |
-

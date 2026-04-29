@@ -59,10 +59,3 @@ The job market for Web3 professionals offers various opportunities. To find the 
 
 ### The Web3 Advantage
 
-The Web3 sector is witnessing rapid growth, with demand for qualified talent exceeding supply. Compared to traditional tech roles, Web3 positions offer unique benefits, including:
-
-- **Higher Compensation:** Web3 roles often pay more than similar Web2 positions, with additional equity opportunities.
-- **Remote-First Culture:** Many Web3 companies operate primarily remotely, providing flexibility uncommon in traditional tech environments.
-- **Accelerated Career Growth:** Rapid scaling of companies and a shortage of talent lead to faster career progression.
-- **Equity Opportunities:** Token and equity packages are becoming standard, providing significant wealth-building potential.
-

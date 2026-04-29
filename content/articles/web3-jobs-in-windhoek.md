@@ -249,6 +249,3 @@ The community is small but growing. Use platforms like Twitter to connect with o
 **What about living costs?**
 Monthly expenses for a comfortable lifestyle vary. The visa costs annually, and internet access ranges, making it manageable on any Web3 salary.
 
-### Conclusion
-
-Windhoek presents a unique opportunity for professionals seeking a career at the intersection of blockchain technology, conservation, and tourism. The city's emerging Web3 ecosystem is ripe for innovation, with various roles available for those willing to take the plunge. By engaging with the local community and using the resources at hand, you can establish a fulfilling career while enjoying the exceptional quality of life that Windhoek offers. As the Web3 sector in Namibia continues to grow, your contributions could significantly impact the industry and the environment alike.

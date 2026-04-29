@@ -110,8 +110,3 @@ By 2025, DePIN is likely to transition from a niche category to a significant dr
 | Real-World Asset Tokenization              | Digitization of physical assets for liquidity and transparency              | Tokenized US Treasury Bills and significant investments in tokenized real estate         |
 | Decentralized Physical Infrastructure Networks (DePIN) | Token-driven construction and management of physical infrastructure        | Expansion of decentralized networks in cloud storage, wireless services, and compute power|
 
-## Conclusion: A New Chapter for Web3
-
-The evolution of Web3 is characterized by modularity, intelligence, and a strong connection to the physical world. The trends discussed are interconnected and will build upon each other. Account abstraction will facilitate user interactions with modular app-chains. Tokenized real-world assets will serve as collateral for a new generation of AI-driven DeFi protocols. DePIN networks will create the necessary infrastructure to support this ecosystem.
-
-The initial phase of Web3 is concluding. The foundation for a more scalable, user-friendly, and impactful decentralized internet is being established. The coming years will showcase applications that use this new infrastructure, transitioning Web3 from a niche interest for crypto enthusiasts to an integral aspect of the digital lives of billions.

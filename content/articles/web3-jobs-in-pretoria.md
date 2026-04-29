@@ -252,6 +252,3 @@ South Africa has strict tax requirements. Employment income is taxed at standard
 **How can I avoid scams and maintain professionalism?**
 Work only with established government or corporate entities. Refrain from personal crypto trading, and focus on building a reputation based on expertise and integrity. Help government agencies avoid crypto scams by sharing your knowledge.
 
-### Conclusion
-
-Pretoria stands out as a promising center for Web3 opportunities, particularly in GovTech and public sector innovation. By understanding the market dynamics, honing relevant skills, and building a strong professional network, individuals can thrive in this evolving sector. The potential for impact, professional growth, and competitive salaries makes Pretoria an attractive location for those pursuing a career in Web3. Accept the challenges and opportunities that come your way, and take proactive steps to build a rewarding career at the intersection of technology and governance.
