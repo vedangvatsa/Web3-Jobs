@@ -7,7 +7,7 @@ description: "Smart contracts are immutable, so how do you fix bugs or add new f
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-28"
+lastUpdated: "2026-04-29"
 ---
 
 One of the defining characteristics of a [smart contract](/what-are-smart-contracts) is its immutability. Once it is deployed on the [blockchain](/what-is-a-blockchain), its code remains unchanged. This feature enhances security and builds trust, but it also poses significant challenges. What happens when you identify a bug or wish to introduce new features?
