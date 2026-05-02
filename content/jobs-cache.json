@@ -16,6 +16,14 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/77089283-executive-assistant#content",
+    "title": "Executive Assistant",
+    "company": "Offchain Labs",
+    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/77089283-executive-assistant#content",
+    "date": "2026-05-02T12:07:21.000Z",
+    "source": "Jobs | Spartan Group Job Board"
+  },
+  {
     "id": "https://stripe.com/jobs/search?gh_jid=7834218",
     "title": "Stripe Privacy Fellow",
     "company": "Stripe",
@@ -38,22 +46,6 @@
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856957101",
     "date": "2026-05-02T04:25:29-04:00",
     "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Principal-Product-Manager--Core-Network_JR101005",
-    "title": "Principal Product Manager, Core Network",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Principal-Product-Manager--Core-Network_JR101005",
-    "date": "2026-05-02T07:01:08.000Z",
-    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/77089283-executive-assistant#content",
-    "title": "Executive Assistant",
-    "company": "Offchain Labs",
-    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/77089283-executive-assistant#content",
-    "date": "2026-05-02T06:27:40.000Z",
-    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://coinbase.getro.com/companies/tactic-2/jobs/77059917-strategic-market-development-head-of-network-alliances#content",
@@ -18024,6 +18016,14 @@
     "source": "Ashby: OP Labs"
   },
   {
+    "id": "https://jobs.multicoin.capital/companies/douro-labs-2/jobs/76991886-emea-bd-lead#content",
+    "title": "EMEA BD Lead",
+    "company": "Douro Labs",
+    "link": "https://jobs.multicoin.capital/companies/douro-labs-2/jobs/76991886-emea-bd-lead#content",
+    "date": "2026-05-01T20:29:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
     "id": "https://jobs.solana.com/companies/magicblock-2-2ffbf174-2d5f-4549-8b52-bca97f08fbdc/jobs/76978305-marketing-lead#content",
     "title": "Marketing Lead",
     "company": "MagicBlock",
@@ -18038,14 +18038,6 @@
     "link": "https://jobs.avax.network/companies/aave/jobs/76993456-finance-director-push#content",
     "date": "2026-05-01T15:45:45.000Z",
     "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/douro-labs-2/jobs/76991886-emea-bd-lead#content",
-    "title": "EMEA BD Lead",
-    "company": "Douro Labs",
-    "link": "https://jobs.arbitrum.io/companies/douro-labs-2/jobs/76991886-emea-bd-lead#content",
-    "date": "2026-05-01T15:33:39.000Z",
-    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "4117675a-368a-4b3d-a286-293bb1e38fbb",
@@ -18152,14 +18144,6 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
-    "id": "https://coinbase.getro.com/companies/bvnk/jobs/76911882-software-engineer-backend-fincrime#content",
-    "title": "Software Engineer (Backend): FinCrime",
-    "company": "BVNK",
-    "link": "https://coinbase.getro.com/companies/bvnk/jobs/76911882-software-engineer-backend-fincrime#content",
-    "date": "2026-05-01T06:26:21.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
     "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76925158-lead-software-engineer-factory-core#content",
     "title": "Lead Software Engineer, Factory Core",
     "company": "StreamingFast",
@@ -18168,11 +18152,11 @@
     "source": "Jobs | Multicoin Capital Job Board"
   },
   {
-    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/76902409-people-operations-associate#content",
-    "title": "People Operations Associate",
-    "company": "Wave Mobile Money",
-    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/76902409-people-operations-associate#content",
-    "date": "2026-05-01T06:11:21.000Z",
+    "id": "https://coinbase.getro.com/companies/bvnk/jobs/76911882-software-engineer-backend-fincrime#content",
+    "title": "Software Engineer (Backend): FinCrime",
+    "company": "BVNK",
+    "link": "https://coinbase.getro.com/companies/bvnk/jobs/76911882-software-engineer-backend-fincrime#content",
+    "date": "2026-05-01T06:26:21.000Z",
     "source": "Jobs | Coinbase Job Board"
   },
   {
@@ -18184,11 +18168,11 @@
     "source": "Jobs | Multicoin Capital Job Board"
   },
   {
-    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/76902408-master-agent-manager#content",
-    "title": "Master Agent Manager",
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/76902409-people-operations-associate#content",
+    "title": "People Operations Associate",
     "company": "Wave Mobile Money",
-    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/76902408-master-agent-manager#content",
-    "date": "2026-05-01T05:56:21.000Z",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/76902409-people-operations-associate#content",
+    "date": "2026-05-01T06:11:21.000Z",
     "source": "Jobs | Coinbase Job Board"
   },
   {
@@ -18200,11 +18184,11 @@
     "source": "Jobs | Multicoin Capital Job Board"
   },
   {
-    "id": "https://coinbase.getro.com/companies/certora/jobs/76895395-web2-mobile-security-researcher#content",
-    "title": "Web2 & Mobile Security Researcher",
-    "company": "Certora",
-    "link": "https://coinbase.getro.com/companies/certora/jobs/76895395-web2-mobile-security-researcher#content",
-    "date": "2026-05-01T05:41:21.000Z",
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/76902408-master-agent-manager#content",
+    "title": "Master Agent Manager",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/76902408-master-agent-manager#content",
+    "date": "2026-05-01T05:56:21.000Z",
     "source": "Jobs | Coinbase Job Board"
   },
   {
@@ -18214,6 +18198,14 @@
     "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76925154-supplier-quality-engineer-la#content",
     "date": "2026-05-01T05:41:21.000Z",
     "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/certora/jobs/76895395-web2-mobile-security-researcher#content",
+    "title": "Web2 & Mobile Security Researcher",
+    "company": "Certora",
+    "link": "https://coinbase.getro.com/companies/certora/jobs/76895395-web2-mobile-security-researcher#content",
+    "date": "2026-05-01T05:41:21.000Z",
+    "source": "Jobs | Coinbase Job Board"
   },
   {
     "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76925155-supplier-quality-engineer-az#content",
@@ -18248,20 +18240,20 @@
     "source": "Binance"
   },
   {
-    "id": "https://jobs.lever.co/anchorage/4b5e9435-f3ea-4f4b-944c-5ba23b135157?lever-source%5B%5D=jobs.panteracapital.com",
-    "title": "Member of Risk, Enterprise Risk Management",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.lever.co/anchorage/4b5e9435-f3ea-4f4b-944c-5ba23b135157?lever-source%5B%5D=jobs.panteracapital.com",
-    "date": "2026-05-01T00:37:08.000Z",
-    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
     "id": "885091c2-2f56-4d46-aa01-efe49a065dee",
     "title": "Senior Sales Engineer",
     "company": "OP Labs",
     "link": "https://jobs.ashbyhq.com/oplabs/885091c2-2f56-4d46-aa01-efe49a065dee",
     "date": "2026-04-30T22:13:56.292+00:00",
     "source": "Ashby: OP Labs"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/76848428-member-of-risk-enterprise-risk-management#content",
+    "title": "Member of Risk, Enterprise Risk Management",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/76848428-member-of-risk-enterprise-risk-management#content",
+    "date": "2026-04-30T20:41:58.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
     "id": "https://jobs.multicoin.capital/companies/ashby/jobs/76780337-staff-software-engineer-product-engineering-eu#content",
