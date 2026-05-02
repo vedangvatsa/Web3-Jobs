@@ -1,0 +1,106 @@
+---
+title: "Perpetual Futures and On-Chain Derivatives"
+description: "How decentralized perpetual exchanges work and why they are DeFi's largest trading venues."
+order: 9
+readTime: "11 min"
+difficulty: "advanced"
+prerequisites: ["dexs"]
+quiz:
+  - question: "What is a perpetual futures contract?"
+    options:
+      - "A futures contract that expires every month."
+      - "A futures contract with no expiration date, allowing traders to hold leveraged positions indefinitely."
+      - "A type of options contract."
+      - "A stablecoin that tracks commodity prices."
+    correct: 1
+    explanation: "Perpetual futures ('perps') are futures contracts that never expire. They use a funding rate mechanism to keep the contract price anchored to the spot price."
+  - question: "What is the 'funding rate' in perpetual futures?"
+    options:
+      - "The gas fee for opening a trade."
+      - "A periodic payment between longs and shorts that keeps the perp price aligned with the spot price."
+      - "The interest rate on borrowed margin."
+      - "The protocol's trading fee."
+    correct: 1
+    explanation: "When the perp price is above spot, longs pay shorts (incentivizing shorting). When the perp price is below spot, shorts pay longs. This mechanism keeps prices aligned without expiration."
+---
+
+## What Are Perpetual Futures?
+
+A perpetual futures contract (or "perp") lets you bet on the price of an asset with leverage, without actually buying the asset. Unlike traditional futures which expire on a specific date, perps have no expiry — you can hold your position as long as you want (as long as you don't get liquidated).
+
+Perps were invented by BitMEX in 2016 and have become the most traded instrument in all of crypto — daily volume routinely exceeds $100 billion.
+
+## How They Work
+
+### Opening a Position
+
+You deposit collateral (usually USDC or ETH) and open a **long** (betting the price goes up) or **short** (betting the price goes down) with leverage.
+
+Example with 10x leverage:
+- You deposit $1,000 as margin.
+- You open a 10x long on ETH at $3,000.
+- Your effective position size is $10,000 (buying 3.33 ETH worth of exposure).
+- If ETH rises 10% to $3,300, your profit is $1,000 (100% return on your margin).
+- If ETH drops 10% to $2,700, you lose your entire $1,000 margin and get **liquidated**.
+
+### The Funding Rate
+
+Since perps never expire, they need a mechanism to stay pegged to the underlying spot price. This is the **funding rate**.
+
+- When the perp price > spot price (more longs than shorts): **longs pay shorts**.
+- When the perp price < spot price (more shorts than longs): **shorts pay longs**.
+
+Funding is typically settled every 1-8 hours. This creates a continuous economic incentive that keeps the perp price close to spot.
+
+## Decentralized Perp Exchanges
+
+### GMX (Arbitrum, Avalanche)
+GMX uses a unique liquidity pool model. Instead of an order book, traders trade against the **GLP pool** — a basket of assets that acts as the counterparty.
+
+- Liquidity providers deposit assets into GLP and earn trading fees + funding payments.
+- Traders get zero-slippage execution using Chainlink oracles for pricing.
+- GLP holders earn ~15-30% APY from fees but take on the risk that traders collectively profit.
+
+### dYdX
+dYdX operates a fully on-chain order book exchange on its own Cosmos-based chain. It offers the deepest liquidity of any decentralized perp exchange.
+
+- Uses an off-chain order book with on-chain settlement.
+- Supports up to 20x leverage on major pairs.
+- Has its own dedicated blockchain (dYdX Chain) for maximum throughput.
+
+### Hyperliquid
+A high-performance perp DEX on its own L1 blockchain, designed for sub-second latency matching centralized exchange performance.
+
+- Fully on-chain order book.
+- Sub-second block times.
+- Supports 50+ trading pairs.
+
+## Risk Management
+
+### Liquidation
+If your position loses enough that your remaining margin falls below the maintenance requirement, the protocol automatically closes your position. With high leverage, this can happen very quickly.
+
+### Insurance Funds
+Protocols maintain insurance funds to cover situations where liquidations happen at prices worse than the liquidation price (cascading liquidations during flash crashes).
+
+### Oracle Risk
+Decentralized perps rely on price oracles. If the oracle reports an incorrect price (due to manipulation or delay), traders can be unfairly liquidated or can exploit the mispricing.
+
+## Centralized vs. Decentralized Perps
+
+| Feature | CEX (Binance) | DEX (GMX/dYdX) |
+| --- | --- | --- |
+| KYC Required | Yes | No |
+| Custody | Exchange holds funds | Self-custody |
+| Latency | ~1ms | ~100ms-1s |
+| Max Leverage | 125x | 20-50x |
+| Transparency | Opaque | Fully auditable |
+| Counterparty Risk | Exchange bankruptcy | Smart contract risk |
+
+## Key Takeaways
+
+- Perpetual futures are the most-traded crypto instrument, exceeding $100B daily volume.
+- The funding rate mechanism keeps perp prices aligned with spot prices.
+- Decentralized perps (GMX, dYdX, Hyperliquid) offer self-custody and transparency.
+- High leverage amplifies both gains and losses — liquidation risk is the primary danger.
+- Oracle reliability is critical for fair pricing on decentralized perp exchanges.
