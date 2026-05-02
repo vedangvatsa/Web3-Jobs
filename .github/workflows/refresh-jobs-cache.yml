@@ -54,6 +54,13 @@ jobs:
         run: npx tsx scripts/social/buffer-refill.ts
         continue-on-error: true
 
+      - name: Post to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: node scripts/telegram-post.mjs
+        continue-on-error: true
+
       - name: Fetch RSS feeds and update cache
         run: npx tsx scripts/refresh-jobs-cache.ts
         continue-on-error: true
@@ -67,7 +74,7 @@ jobs:
           git pull --rebase origin main || true
 
           # Stage all changed state/cache files (ignore missing ones)
-          git add --ignore-errors content/jobs-cache.json scripts/social/publish-state.json scripts/social/buffer-refill-state.json 2>/dev/null || true
+          git add --ignore-errors content/jobs-cache.json scripts/social/publish-state.json scripts/social/buffer-refill-state.json .telegram-posted.json 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
