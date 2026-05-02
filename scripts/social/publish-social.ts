@@ -555,13 +555,25 @@ async function main() {
     }
   }
 
-  // Get next post index with platform-specific offset for shuffling
-  // This ensures different platforms don't post the same content at the same time
-  const offsets: Record<string, number> = { twitter: 0, bluesky: 11, linkedin: 22, instagram: 33 };
-  const offset = offsets[platform] || 0;
-  const baseIndex = (platformState.lastIndex + 1) % schedule.length;
-  const shuffledIndex = (baseIndex + offset) % schedule.length;
-  const post = schedule[shuffledIndex];
+  // Get next UNPOSTED content — skip items already published to this platform
+  const postedIds = new Set(platformState.posted.map(entry => entry.substring(0, entry.lastIndexOf('_'))));
+  
+  let post: PostContent | null = null;
+  let chosenIndex = -1;
+  
+  for (let attempt = 0; attempt < schedule.length; attempt++) {
+    const idx = (platformState.lastIndex + 1 + attempt) % schedule.length;
+    if (!postedIds.has(schedule[idx].id)) {
+      post = schedule[idx];
+      chosenIndex = idx;
+      break;
+    }
+  }
+  
+  if (!post) {
+    console.log(`All ${schedule.length} posts already published to ${platform}. Nothing to post.`);
+    process.exit(0);
+  }
 
   // Use platform-specific text: twitter has its own field, falls back to instagram
   let text: string;
@@ -574,7 +586,7 @@ async function main() {
   }
   const imagePath = path.resolve(__dirname, '../../', post.image);
 
-  console.log(`Publishing post ${shuffledIndex + 1}/${schedule.length} to ${platform}`);
+  console.log(`Publishing post ${chosenIndex + 1}/${schedule.length} to ${platform}`);
   console.log(`Post ID: ${post.id}`);
   console.log(`Image: ${imagePath}`);
   console.log(`Text preview: ${text.substring(0, 80)}...`);
@@ -590,8 +602,8 @@ async function main() {
       await postToBluesky(text, imagePath);
     }
 
-    // Update state — track the base index for round-robin
-    platformState.lastIndex = baseIndex;
+    // Update state — track the chosen index for round-robin
+    platformState.lastIndex = chosenIndex;
     platformState.posted.push(`${post.id}_${new Date().toISOString()}`);
     saveState(state);
 
