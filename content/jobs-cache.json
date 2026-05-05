@@ -1,5 +1,69 @@
 [
   {
+    "id": "8530888002",
+    "title": "Office Manager and IT Operations",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8530888002",
+    "date": "2026-05-05T00:26:07-04:00",
+    "source": "Greenhouse: BitGo"
+  },
+  {
+    "id": "7724268003",
+    "title": "Business Engineer, Trading",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7724268003",
+    "date": "2026-05-04T23:39:49-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "a451e86e-b1bf-4317-bf3c-f56f84444ad6",
+    "title": "IAP Internship (Full time preferred)",
+    "company": "Animoca Brands",
+    "link": "https://jobs.lever.co/animocabrands/a451e86e-b1bf-4317-bf3c-f56f84444ad6",
+    "date": "2026-05-05T03:07:00.818Z",
+    "source": "Lever: Animoca Brands"
+  },
+  {
+    "id": "7851613",
+    "title": "Lead Product Manager, Settlement & Billing",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7851613?gh_jid=7851613",
+    "date": "2026-05-04T22:35:56-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/2acced34-b8d4-41c5-a3bb-86fa4d307cf3",
+    "title": "Product Manager - Content Ecosystem",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/2acced34-b8d4-41c5-a3bb-86fa4d307cf3",
+    "date": "2026-05-05T02:12:58.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "b5024723-69de-4b6a-9af5-35b0500df66f",
+    "title": "Head of Product",
+    "company": "Orca",
+    "link": "https://jobs.ashbyhq.com/Orca/b5024723-69de-4b6a-9af5-35b0500df66f",
+    "date": "2026-05-04T23:31:51.559+00:00",
+    "source": "Ashby: Orca"
+  },
+  {
+    "id": "7819461",
+    "title": "Staff Software Engineer, Security",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7819461?t=gh_src=&gh_jid=7819461",
+    "date": "2026-05-04T18:32:21-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/77225514-marketing-coordinator#content",
+    "title": "Marketing Coordinator",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/77225514-marketing-coordinator#content",
+    "date": "2026-05-04T20:34:42.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
     "id": "6e9e4105-6595-47c1-b4d9-acc8488f85f2",
     "title": "Senior Software Engineer, Infrastructure",
     "company": "Artemis",
