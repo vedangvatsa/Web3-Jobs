@@ -170,6 +170,8 @@ Skip: opinion pieces, listicles, how-to guides, product reviews, company PR or m
 
 CRITICAL: All 5 stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
 
+Do NOT name-drop specific products or brand names in summaries. Describe what happened without promoting any company's product.
+
 For each story write:
 - headline: factual, max 10 words, no hype. Spell out acronyms. No jargon a non-technical reader wouldn't understand.
 - summary: 1 sentence, max 20 words. DO NOT repeat the headline. Add context, numbers, or consequences that the headline doesn't already state.
@@ -206,7 +208,7 @@ function formatMessage(stories) {
     return `<a href="${trackedLink}"><b>${headline}</b></a>. ${summary}`;
   });
 
-  return lines.join('\n\n') + '\n\n_\nAI News: t.me/hashtag_ai';
+  return lines.join('\n\n') + '\n\n_\nAI Discussion Group: t.me/hashtag_ai';
 }
 
 function escapeHtml(text) {
