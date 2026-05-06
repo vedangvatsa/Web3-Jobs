@@ -198,7 +198,7 @@ function formatMessage(stories) {
     return `<a href="${trackedLink}"><b>${headline}</b></a>. ${summary}`;
   });
 
-  return lines.join('\n\n') + '\n\n_\n<a href="https://hashtagweb3.com/news?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=news_digest">hashtagweb3.com/news</a> | t.me/web3newsfeed';
+  return lines.join('\n\n') + '\n\n_\nWeb3 News Feed: t.me/web3newsfeed';
 }
 
 function escapeHtml(text) {
