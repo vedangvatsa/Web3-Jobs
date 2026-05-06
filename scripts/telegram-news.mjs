@@ -94,11 +94,23 @@ async function fetchAllNews() {
   // Sort newest first
   all.sort((a, b) => b.date - a.date);
 
-  // Simple dedup by title similarity
+  // Dedup by keyword overlap (same approach as website news.ts)
+  function getKeywords(text) {
+    const stop = new Set(['this','that','with','from','what','where','when','crypto','web3','bitcoin','ethereum','the','and','for']);
+    return text.toLowerCase().replace(/[^a-z0-9]/g, ' ').split(/\s+/).filter(w => w.length > 3 && !stop.has(w));
+  }
+  function isSimilar(a, b) {
+    const wa = new Set(getKeywords(a));
+    const wb = new Set(getKeywords(b));
+    if (!wa.size || !wb.size) return false;
+    let overlap = 0;
+    for (const w of wa) if (wb.has(w)) overlap++;
+    return overlap / Math.min(wa.size, wb.size) > 0.5;
+  }
+
   const unique = [];
   for (const item of all) {
-    const words = item.title.toLowerCase().split(/\s+/).slice(0, 5).join(' ');
-    if (!unique.some(u => u.title.toLowerCase().split(/\s+/).slice(0, 5).join(' ') === words)) {
+    if (!unique.some(u => isSimilar(item.title, u.title))) {
       unique.push(item);
     }
   }
@@ -159,6 +171,8 @@ async function filterAndSummarize(newsItems) {
 Pick stories about: funding rounds, protocol launches/upgrades, regulatory moves, major partnerships, market structure changes.
 
 Skip: memecoins, celebrity drama, price predictions, whale movements, clickbait, lawsuits that don't set precedent, company product announcements or PR pieces (e.g. "X company launches Y product" or "X offers solution"), sponsored content.
+
+CRITICAL: All 5 stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
 
 For each story write:
 - headline: factual, max 10 words, no hype. Spell out all acronyms (write "US commodities regulator" not "CFTC", write "Chicago Mercantile Exchange" not "CME"). No jargon a non-crypto reader wouldn't understand.
