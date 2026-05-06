@@ -193,7 +193,9 @@ function formatMessage(stories) {
   const lines = stories.map(s => {
     const headline = escapeHtml(s.headline);
     const summary = escapeHtml(s.summary);
-    return `<a href="${s.link}"><b>${headline}</b></a>. ${summary}`;
+    const sep = s.link.includes('?') ? '&' : '?';
+    const trackedLink = `${s.link}${sep}utm_source=hashtagweb3&utm_medium=telegram&utm_campaign=news_digest`;
+    return `<a href="${trackedLink}"><b>${headline}</b></a>. ${summary}`;
   });
 
   return lines.join('\n\n') + '\n\n_\n<a href="https://hashtagweb3.com/news?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=news_digest">hashtagweb3.com/news</a> | t.me/web3newsfeed';
