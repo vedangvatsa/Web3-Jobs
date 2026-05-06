@@ -196,7 +196,7 @@ function formatMessage(stories) {
     return `<a href="${s.link}"><b>${headline}</b></a>. ${summary}`;
   });
 
-  return lines.join('\n\n');
+  return lines.join('\n\n') + '\n\n_\nWeb3 News Feed: t.me/web3newsfeed';
 }
 
 function escapeHtml(text) {
