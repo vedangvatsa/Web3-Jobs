@@ -81,13 +81,6 @@ jobs:
         run: node scripts/telegram-ai-news.mjs
         continue-on-error: true
 
-      - name: Post to Telegram (AI Jobs)
-        env:
-          TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
-          TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
-        run: node scripts/telegram-ai-jobs.mjs
-        continue-on-error: true
-
       - name: Commit and push updated cache and state
         run: |
           git config user.name "github-actions[bot]"
@@ -97,7 +90,7 @@ jobs:
           git pull --rebase origin main || true
 
           # Stage all changed state/cache files (ignore missing ones)
-          git add --ignore-errors content/jobs-cache.json scripts/social/publish-state.json scripts/social/buffer-refill-state.json .telegram-posted.json .telegram-news-posted.json .telegram-ai-news-posted.json .telegram-ai-jobs-posted.json 2>/dev/null || true
+          git add --ignore-errors content/jobs-cache.json scripts/social/publish-state.json scripts/social/buffer-refill-state.json .telegram-posted.json .telegram-news-posted.json .telegram-ai-news-posted.json 2>/dev/null || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
