@@ -158,7 +158,7 @@ async function filterAndSummarize(newsItems) {
 
 Pick stories about: funding rounds, protocol launches/upgrades, regulatory moves, major partnerships, market structure changes.
 
-Skip: memecoins, celebrity drama, price predictions, whale movements, clickbait, lawsuits that don't set precedent.
+Skip: memecoins, celebrity drama, price predictions, whale movements, clickbait, lawsuits that don't set precedent, company product announcements or PR pieces (e.g. "X company launches Y product" or "X offers solution"), sponsored content.
 
 For each story write:
 - headline: factual, max 10 words, no hype. Spell out all acronyms (write "US commodities regulator" not "CFTC", write "Chicago Mercantile Exchange" not "CME"). No jargon a non-crypto reader wouldn't understand.
