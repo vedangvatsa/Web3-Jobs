@@ -31,6 +31,10 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Fetch RSS feeds and update cache
+        run: npx tsx scripts/refresh-jobs-cache.ts
+        continue-on-error: true
+
       - name: Post to X
         env:
           X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
@@ -59,10 +63,6 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
         run: node scripts/telegram-post.mjs
-        continue-on-error: true
-
-      - name: Fetch RSS feeds and update cache
-        run: npx tsx scripts/refresh-jobs-cache.ts
         continue-on-error: true
 
       - name: Commit and push updated cache and state
