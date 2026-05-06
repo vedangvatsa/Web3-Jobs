@@ -26,29 +26,8 @@ if (!BOT_TOKEN || !CHANNEL_ID) {
   process.exit(1);
 }
 
-// ── CSV Parser ──
-function parseCSV(text) {
-  const rows = []; let cur = []; let field = ''; let inQ = false;
-  for (let i = 0; i < text.length; i++) {
-    const ch = text[i];
-    if (inQ) {
-      if (ch === '"' && text[i + 1] === '"') { field += '"'; i++; }
-      else if (ch === '"') inQ = false;
-      else field += ch;
-    } else {
-      if (ch === '"') inQ = true;
-      else if (ch === ',') { cur.push(field); field = ''; }
-      else if (ch === '\n' || (ch === '\r' && text[i + 1] === '\n')) {
-        cur.push(field); field = '';
-        if (cur.length >= 12) rows.push(cur);
-        cur = [];
-        if (ch === '\r') i++;
-      } else field += ch;
-    }
-  }
-  if (cur.length >= 12) rows.push(cur);
-  return rows;
-}
+
+
 
 // ── Load posted history (avoid repeats) ──
 function loadPosted() {
@@ -67,14 +46,19 @@ function savePosted(posted) {
 
 // ── Pick random jobs ──
 function pickJobs(count) {
-  const csvPath = path.join(path.dirname(new URL(import.meta.url).pathname), '../jobs-extracted.csv');
-  const rows = parseCSV(fs.readFileSync(csvPath, 'utf8'));
-  const data = rows.slice(1); // skip header
+  const cachePath = path.join(path.dirname(new URL(import.meta.url).pathname), '../content/jobs-cache.json');
+  let jobs;
+  try {
+    jobs = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
+  } catch {
+    console.error('Could not read jobs-cache.json');
+    process.exit(1);
+  }
 
   const posted = loadPosted();
   
   // Filter out already posted
-  const available = data.filter(r => !posted.has((r[0] || '').trim()));
+  const available = jobs.filter(j => !posted.has(j.id || j.link));
   
   // If running low, reset
   if (available.length < count * 3) {
@@ -86,53 +70,29 @@ function pickJobs(count) {
   // Shuffle
   const shuffled = available.sort(() => Math.random() - 0.5);
   
-  // Split into marketing/BD and other
-  const BD_DEPTS = ['Marketing', 'Sales', 'Business Development'];
-  const bdPool = shuffled.filter(r => BD_DEPTS.includes((r[8] || '').trim()));
-  const otherPool = shuffled.filter(r => !BD_DEPTS.includes((r[8] || '').trim()));
-  
-  // Pick at least 3 marketing/BD, rest from other — 1 per company
+  // 1 per company
   const selected = [];
   const usedCompanies = new Set();
   
-  // Pick BD roles first
-  for (const r of bdPool) {
-    if (selected.length >= 3) break;
-    const company = (r[1] || '').trim();
-    if (usedCompanies.has(company)) continue;
-    usedCompanies.add(company);
-    selected.push(r);
-  }
-  
-  // Fill the rest from other
-  for (const r of otherPool) {
+  for (const j of shuffled) {
     if (selected.length >= count) break;
-    const company = (r[1] || '').trim();
-    if (usedCompanies.has(company)) continue;
-    usedCompanies.add(company);
-    selected.push(r);
-  }
-  
-  // If still short, allow more BD
-  for (const r of bdPool) {
-    if (selected.length >= count) break;
-    const company = (r[1] || '').trim();
-    if (usedCompanies.has(company)) continue;
-    usedCompanies.add(company);
-    selected.push(r);
+    const company = (j.company || '').trim();
+    if (usedCompanies.has(company.toLowerCase())) continue;
+    usedCompanies.add(company.toLowerCase());
+    selected.push(j);
   }
   
   // Shuffle final order
   selected.sort(() => Math.random() - 0.5);
   
   // Mark as posted
-  for (const r of selected) posted.add((r[0] || '').trim());
+  for (const j of selected) posted.add(j.id || j.link);
   savePosted(posted);
   
-  return selected.map(r => ({
-    url: (r[0] || '').trim(),
-    company: fixCompanyName((r[1] || '').trim()),
-    title: truncateTitle((r[3] || '').trim()),
+  return selected.map(j => ({
+    url: j.link,
+    company: fixCompanyName((j.company || '').trim()),
+    title: truncateTitle((j.title || '').trim()),
   }));
 }
 
@@ -152,11 +112,99 @@ function truncateTitle(title) {
 
 // ── Fix company name casing ──
 const COMPANY_NAMES = {
+  // Exchanges
   'okx': 'OKX',
+  'binance': 'Binance',
+  'coinbase': 'Coinbase',
+  'robinhood': 'Robinhood',
+  'gemini': 'Gemini',
+  'bybit': 'Bybit',
+  'bitmex': 'BitMEX',
+  'bitpanda': 'Bitpanda',
+  'luno': 'Luno',
+  'gate': 'Gate.io',
+  'coingecko': 'CoinGecko',
+  'moonpay': 'MoonPay',
+  'breezecash': 'Breeze',
+  'xapo61': 'Xapo',
+  'b2c2': 'B2C2',
+  'bcbgroup': 'BCB Group',
+  'bitgo': 'BitGo',
+  // L1/L2/Infra
+  'ripple': 'Ripple',
+  'blockchain': 'Blockchain.com',
+  'consensys': 'ConsenSys',
+  'alchemy': 'Alchemy',
+  'fireblocks': 'Fireblocks',
+  'layerzerolabs': 'LayerZero',
+  'polygon-labs': 'Polygon Labs',
+  'mystenlabs': 'Mysten Labs',
+  'aptoslabs': 'Aptos Labs',
+  'hashgraph': 'Hedera',
+  'offchainlabs': 'Offchain Labs',
+  'monad.foundation': 'Monad Foundation',
+  'seifoundation': 'Sei Foundation',
+  'basejobs': 'Base',
+  'cosmos': 'Cosmos',
+  'celestia': 'Celestia',
+  'walrus': 'Walrus',
+  'nexus': 'Nexus',
+  // DeFi/Protocols
+  'uniswap': 'Uniswap',
+  'compound': 'Compound',
+  '1inch': '1inch',
+  'ethena': 'Ethena',
+  'jito': 'Jito',
+  // Security/Compliance
+  'chainalysis-careers': 'Chainalysis',
+  'complyadvantage': 'ComplyAdvantage',
+  'cantina': 'Cantina',
+  // Funds/Research
   'a16z': 'a16z',
+  'paradigm': 'Paradigm',
+  'galaxydigitalservices': 'Galaxy Digital',
+  'digitalcurrencygroup': 'DCG',
+  'grayscaleinvestments': 'Grayscale',
+  'delphi': 'Delphi Digital',
+  'flipsidecrypto': 'Flipside',
+  // Consumer/Gaming
+  'brave': 'Brave',
+  'phantom': 'Phantom',
+  'opensea': 'OpenSea',
+  'skymavis': 'Sky Mavis',
+  'animocabrands': 'Animoca Brands',
+  'immutable': 'Immutable',
+  'foundation': 'Foundation',
+  // Infra/Tools
+  'mesh': 'Mesh',
+  'securitize': 'Securitize',
+  'lightspark': 'Lightspark',
+  'taxbit': 'TaxBit',
+  'trust-wallet': 'Trust Wallet',
+  'flowtraders': 'Flow Traders',
+  'wintermute-trading': 'Wintermute',
+  'shakepay': 'Shakepay',
+  'blackbird-labs-inc': 'Blackbird',
+  'tempo-xyz': 'Tempo',
+  'kalshi': 'Kalshi',
+  'rampnetwork': 'Ramp Network',
+  'figment': 'Figment',
+  'noise-labs': 'Noise Labs',
+  'sentient': 'Sentient',
+  'eigen-labs': 'Eigen Labs',
+  'dune': 'Dune',
+  'artemis': 'Artemis',
+  'ashby': 'Ashby',
+  '0x': '0x',
+  'm0dbathenextthingltd': 'M0',
+  'anchorage': 'Anchorage Digital',
+  // Special
+  'relay.link': 'Relay',
+  'dYdX': 'dYdX',
+  '0x Labs': '0x Labs',
 };
 function fixCompanyName(name) {
-  return COMPANY_NAMES[name.toLowerCase()] || name;
+  return COMPANY_NAMES[name.toLowerCase()] || COMPANY_NAMES[name] || name;
 }
 
 // ── Format message (Telegram HTML) ──
