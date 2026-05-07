@@ -110,16 +110,30 @@ export async function sendBatchJobAlerts(
   timestamp: string;
  }> = [];
 
- // SES allows 14/sec — send with concurrency of 10 to be safe
- const CONCURRENCY = 10;
+ const sleep = (ms: number) => new Promise(r => setTimeout(r, ms));
+
+ // Retry wrapper for rate-limited sends
+ async function sendWithRetry(email: string, maxRetries = 3) {
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+   const result = await sendJobAlertEmail(email, jobs);
+   if (result.success) return { email, ...result };
+   if (result.error?.includes('Maximum sending rate exceeded') && attempt < maxRetries) {
+    await sleep(1000 * (attempt + 1)); // backoff: 1s, 2s, 3s
+    continue;
+   }
+   return { email, ...result };
+  }
+  return { email, success: false, error: 'Max retries exceeded', timestamp: new Date().toISOString() };
+ }
+
+ // SES rate: conservative 3 concurrent + 600ms between batches
+ const CONCURRENCY = 3;
+ const BATCH_DELAY_MS = 600;
 
  for (let i = 0; i < emails.length; i += CONCURRENCY) {
   const batch = emails.slice(i, i + CONCURRENCY);
   const results = await Promise.all(
-   batch.map(async (email) => {
-    const result = await sendJobAlertEmail(email, jobs);
-    return { email, ...result };
-   })
+   batch.map((email) => sendWithRetry(email))
   );
 
   for (const result of results) {
@@ -138,10 +152,13 @@ export async function sendBatchJobAlerts(
    }
   }
 
-  // Log progress every batch
+  // Log progress every 100
   if ((i + CONCURRENCY) % 100 === 0 || i + CONCURRENCY >= emails.length) {
    console.log(` Progress: ${Math.min(i + CONCURRENCY, emails.length)}/${emails.length} (sent: ${sent}, failed: ${failed})`);
   }
+
+  // Throttle between batches
+  await sleep(BATCH_DELAY_MS);
  }
 
  return { sent, failed, details };
