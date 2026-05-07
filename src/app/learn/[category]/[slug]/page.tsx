@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
  return {
   title: `${pageTitle} | Hashtag Web3`,
   description: lesson.description,
-  alternates: { canonical: `/learn/${params.category}/${params.slug}` },
+  alternates: { canonical: `https://hashtagweb3.com/learn/${params.category}/${params.slug}` },
   openGraph: {
    title: pageTitle,
    description: lesson.description,
