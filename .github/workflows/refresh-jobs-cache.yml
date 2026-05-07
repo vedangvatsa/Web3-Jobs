@@ -65,6 +65,14 @@ jobs:
         run: node scripts/telegram-post.mjs
         continue-on-error: true
 
+      - name: Post to Telegram (Jobs → hashtagweb3 group)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
+          TELEGRAM_THREAD_ID: '1457'
+        run: node scripts/telegram-post.mjs
+        continue-on-error: true
+
       - name: Post to Telegram (News)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_NEWS_BOT_TOKEN }}
