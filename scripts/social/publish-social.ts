@@ -584,8 +584,16 @@ async function main() {
   } else {
     text = post.linkedin.text;
   }
-  const imagePath = path.resolve(__dirname, '../../', post.image);
-
+  let imagePath = '';
+  if (post.image) {
+    imagePath = path.resolve(__dirname, '../../', post.image);
+  } else if (post.imageUrl) {
+    console.log(`Downloading remote image ${post.imageUrl}...`);
+    const res = await fetch(post.imageUrl, { headers: { 'User-Agent': 'NodeBot/1.0' } });
+    const buffer = await res.arrayBuffer();
+    imagePath = path.resolve(__dirname, `temp_social_image_${Date.now()}.jpg`);
+    fs.writeFileSync(imagePath, Buffer.from(buffer));
+  }
   console.log(`Publishing post ${chosenIndex + 1}/${schedule.length} to ${platform}`);
   console.log(`Post ID: ${post.id}`);
   console.log(`Image: ${imagePath}`);
