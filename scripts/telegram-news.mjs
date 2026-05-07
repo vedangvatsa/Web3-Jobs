@@ -18,6 +18,7 @@ try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }
 
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHANNEL_ID = process.env.TELEGRAM_NEWS_CHANNEL_ID;
+const THREAD_ID = process.env.TELEGRAM_THREAD_ID;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const STORIES_PER_POST = 5;
 const CTA_URL = 'https://hashtagweb3.com/news?utm_source=telegram&utm_medium=social&utm_campaign=news_digest';
@@ -235,6 +236,7 @@ async function sendToTelegram(message) {
       text: message,
       parse_mode: 'HTML',
       disable_web_page_preview: true,
+      ...(THREAD_ID ? { message_thread_id: Number(THREAD_ID) } : {}),
     }),
   });
 
