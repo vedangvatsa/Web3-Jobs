@@ -17,6 +17,7 @@ try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }
 
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHANNEL_ID = process.env.TELEGRAM_CHANNEL_ID;
+const THREAD_ID = process.env.TELEGRAM_THREAD_ID;
 const JOBS_PER_POST = 10;
 const CTA_URL = 'https://hashtagweb3.com?utm_source=telegram&utm_medium=social&utm_campaign=daily_jobs';
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-posted.json');
@@ -242,6 +243,7 @@ async function sendToTelegram(message) {
       text: message,
       parse_mode: 'HTML',
       disable_web_page_preview: true,
+      ...(THREAD_ID ? { message_thread_id: Number(THREAD_ID) } : {}),
     }),
   });
   
