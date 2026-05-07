@@ -52,6 +52,7 @@ async function main() {
     `${siteUrl}/employee-engagement-survey`,
     `${siteUrl}/work-life-balance-survey`,
     `${siteUrl}/company-culture-guide`,
+    `${siteUrl}/web3-hiring-report`,
   ];
 
   const allUrls = [
