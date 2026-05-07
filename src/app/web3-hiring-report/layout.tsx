@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Web3 Hiring Report 2026 | Crypto Job Market Trends',
  description: 'Data-driven insights on Web3 hiring trends, in-demand roles, salary benchmarks, and remote work patterns across the blockchain industry.',
  alternates: {
-  canonical: '/web3-hiring-report',
+  canonical: 'https://hashtagweb3.com/web3-hiring-report',
  },
  openGraph: {
   title: 'Web3 Hiring Report 2026 | Crypto Job Market Trends',
