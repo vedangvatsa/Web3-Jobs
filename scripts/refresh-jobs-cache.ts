@@ -82,6 +82,10 @@ function cleanCompany(company: string | undefined): string | undefined {
 
 function cleanTitle(text: string | undefined): string | undefined {
   if (!text) return undefined;
+  // Strip CJK fullwidth brackets and content (e.g. 【MY】, 【SG】)
+  text = text.replace(/[\u3010\uFF08].*?[\u3011\uFF09]/g, '');
+  // Strip regular parenthetical country codes and junk (e.g. "(MY)", "(Remote)")
+  text = text.replace(/\s*\([^)]{1,4}\)\s*$/g, '');
   return text.replace(/[^a-z0-9\s.,-\u2013\u2014_()|/\\\u0026+#@:\u2019\u2018`\u00b4~!?$%[\]{}*]/gi, '').trim();
 }
 
