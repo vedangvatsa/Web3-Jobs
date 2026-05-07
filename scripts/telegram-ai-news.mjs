@@ -164,17 +164,17 @@ async function filterAndSummarize(newsItems) {
 
   const prompt = `Pick the ${STORIES_PER_POST} most important AI industry stories from these ${Math.min(newsItems.length, 30)} items.
 
-Pick stories about: new model releases, major research breakthroughs, funding rounds, regulatory moves, open-source releases, infrastructure changes, industry shifts, notable deployments at scale.
+These should be stories an AI professional MUST know today. Think industry-moving events only.
 
-Skip: opinion pieces, listicles, how-to guides, product reviews, company PR or marketing pieces (e.g. "X offers solution"), sponsored content, minor feature updates.
+Pick: new model releases, major research breakthroughs, funding rounds ($50M+), regulatory moves, open-source releases, infrastructure changes, industry shifts, notable deployments at scale.
+
+Skip: opinion pieces, listicles, how-to guides, product reviews, company PR or marketing pieces, sponsored content, minor feature updates, one company's internal changes or earnings.
 
 CRITICAL: All 5 stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
 
-Do NOT name-drop specific products or brand names in summaries. Describe what happened without promoting any company's product.
-
 For each story write:
-- headline: factual, max 10 words, no hype. Spell out acronyms. No jargon a non-technical reader wouldn't understand.
-- summary: 1 sentence, max 20 words. DO NOT repeat the headline. Add context, numbers, or consequences that the headline doesn't already state.
+- headline: factual, max 10 words, no hype. USE the company name (e.g. "OpenAI releases new reasoning model" not "AI company releases new model"). No jargon a non-technical reader wouldn't understand.
+- summary: 1 sentence, max 20 words. DO NOT repeat the headline. Add context, numbers, or consequences. Do NOT name-drop third-party products or brands in the summary.
 
 Write like a wire service. Plain, direct, no filler.
 
