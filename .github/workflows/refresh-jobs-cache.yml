@@ -81,6 +81,15 @@ jobs:
         run: node scripts/telegram-news.mjs
         continue-on-error: true
 
+      - name: Post to Telegram (News → hashtagweb3 group)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
+          TELEGRAM_THREAD_ID: '4016'
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/telegram-news.mjs
+        continue-on-error: true
+
       - name: Post to Telegram (AI News)
         env:
           TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
