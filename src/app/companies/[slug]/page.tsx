@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
  return {
   title: `${company.name} Jobs — ${company.jobCount} Open Positions | Hashtag Web3`,
   description: desc,
-  alternates: { canonical: `/companies/${company.slug}` },
+  alternates: { canonical: `${siteUrl}/companies/${company.slug}` },
   openGraph: {
    title: `${company.name} — ${company.jobCount} Open Positions`,
    description: desc,
