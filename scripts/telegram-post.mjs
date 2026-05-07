@@ -133,7 +133,7 @@ const COMPANY_NAMES = {
   // L1/L2/Infra
   'ripple': 'Ripple',
   'blockchain': 'Blockchain.com',
-  'consensys': 'ConsenSys',
+  'consensys': 'Consensys',
   'alchemy': 'Alchemy',
   'fireblocks': 'Fireblocks',
   'layerzerolabs': 'LayerZero',
