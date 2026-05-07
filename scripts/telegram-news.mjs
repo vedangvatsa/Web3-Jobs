@@ -168,17 +168,17 @@ async function filterAndSummarize(newsItems) {
 
   const prompt = `Pick the ${STORIES_PER_POST} most important Web3 industry stories from these ${Math.min(newsItems.length, 30)} items.
 
-Pick stories about: funding rounds, protocol launches/upgrades, regulatory moves, major partnerships, market structure changes.
+These should be stories a Web3professional MUST know today. Think market-moving events only.
 
-Skip: memecoins, celebrity drama, price predictions, whale movements, clickbait, lawsuits that don't set precedent, company product announcements or PR pieces (e.g. "X company launches Y product" or "X offers solution"), sponsored content.
+Pick: major funding rounds ($50M+), new regulation or government action, protocol launches/upgrades that affect many users, exchange IPOs or acquisitions, stablecoin developments, institutional adoption milestones.
+
+Skip: memecoins, celebrity drama, price predictions, whale movements, clickbait, individual company earnings or stock moves, minor partnerships, company PR or marketing pieces (e.g. "X offers solution"), sponsored content, one company's internal business changes.
 
 CRITICAL: All 5 stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
 
-Do NOT name-drop specific products or brand names in summaries. Describe what happened without promoting any company's product.
-
 For each story write:
-- headline: factual, max 10 words, no hype. Spell out all acronyms (write "US commodities regulator" not "CFTC", write "Chicago Mercantile Exchange" not "CME"). No jargon a non-crypto reader wouldn't understand.
-- summary: 1 sentence, max 20 words. DO NOT repeat the headline. Add context, numbers, or consequences that the headline doesn't already state.
+- headline: factual, max 10 words, no hype. USE the company name (e.g. "Kraken files for IPO" not "Digital asset company files for IPO"). Spell out regulatory acronyms (write "US commodities regulator" not "CFTC"). No jargon a non-crypto reader wouldn't understand.
+- summary: 1 sentence, max 20 words. DO NOT repeat the headline. Add context, numbers, or consequences. Do NOT name-drop third-party products or brands in the summary.
 
 Write like a wire service. Plain, direct, no filler.
 
