@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://jobs.lever.co/binance/5f24d776-f02d-4300-a499-d877cac41f5e",
+    "title": "Product Operations Manager, Margin Trading",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/5f24d776-f02d-4300-a499-d877cac41f5e",
+    "date": "2026-05-08T03:36:26.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/824f5080-a30f-4dd0-807a-3d2091d62af1",
+    "title": "Binance Accelerator Program - Institutional Business Development",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/824f5080-a30f-4dd0-807a-3d2091d62af1",
+    "date": "2026-05-08T02:41:52.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/taxbit/jobs/5991063004",
+    "title": "Head of Communications",
+    "company": "TaxBit",
+    "link": "https://job-boards.greenhouse.io/taxbit/jobs/5991063004",
+    "date": "2026-05-08T01:17:07.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://stripe.com/jobs/search?gh_jid=7904582",
+    "title": "Team Lead, Product Support - Revenue Suite",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7904582",
+    "date": "2026-05-08T01:02:07.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/bitgo/jobs/8540208002",
+    "title": "Senior Accountant (Contract to Hire)",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8540208002",
+    "date": "2026-05-08T00:58:29.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://www.welcometothejungle.com/fr/companies/zama/jobs/135139b3-61fb-4a87-b7a8-0b44208f0d72",
+    "title": "TEST",
+    "company": "Zama",
+    "link": "https://www.welcometothejungle.com/fr/companies/zama/jobs/135139b3-61fb-4a87-b7a8-0b44208f0d72",
+    "date": "2026-05-08T00:28:29.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "c81020fd-74a0-4c8c-b3bc-63ba50dd5d9b",
+    "title": "Business Operations Associate",
+    "company": "Conduit",
+    "link": "https://jobs.ashbyhq.com/Conduit/c81020fd-74a0-4c8c-b3bc-63ba50dd5d9b",
+    "date": "2026-05-08T00:03:50.927+00:00",
+    "source": "Ashby: Conduit"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/3e54b469-ecd4-430d-aa96-ded5cb4685f8/",
+    "title": "Head of Payments Systems",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/3e54b469-ecd4-430d-aa96-ded5cb4685f8/",
+    "date": "2026-05-07T21:57:27.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/f3d093b8-4e45-4579-807d-673d05569028/",
+    "title": "Recruiter (Talent Programmes)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/f3d093b8-4e45-4579-807d-673d05569028/",
+    "date": "2026-05-07T21:42:27.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "7905675",
+    "title": "Senior Engineering Manager, Agentic AI",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7905675?t=gh_src=&gh_jid=7905675",
+    "date": "2026-05-07T17:31:25-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/629eb81a-64f2-4155-b3a4-a6c421128cfa/",
+    "title": "Subject Matter Expert (Support)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/629eb81a-64f2-4155-b3a4-a6c421128cfa/",
+    "date": "2026-05-07T21:27:27.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://my.linkedin.com/jobs/view/business-development-executive-at-coinstore-4409798118?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
+    "title": "Business Development Executive",
+    "company": "Coinstore",
+    "link": "https://my.linkedin.com/jobs/view/business-development-executive-at-coinstore-4409798118?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
+    "date": "2026-05-07T21:24:01.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
     "id": "8331c74f-57b7-4512-8e98-8a7a22a81093",
     "title": "Staff SDET",
     "company": "Safe",
@@ -62,6 +158,14 @@
     "link": "https://jobs.avax.network/companies/chainstack/jobs/77769135-product-engineer#content",
     "date": "2026-05-07T18:09:41.000Z",
     "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "7b41d47a-2904-4198-8018-f41abe22a25b",
+    "title": "Marketing Coordinator",
+    "company": "Ethena",
+    "link": "https://jobs.lever.co/ethena/7b41d47a-2904-4198-8018-f41abe22a25b",
+    "date": "2026-05-07T17:47:21.434Z",
+    "source": "Lever: Ethena"
   },
   {
     "id": "https://coinbase.getro.com/companies/bvnk/jobs/77694829-vp-cards-product#content",
@@ -354,6 +458,14 @@
   {
     "id": "4859169101",
     "title": "[BI] Senior Data Engineer",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4859169101",
+    "date": "2026-05-06T22:43:30-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4859169101",
+    "title": "Senior Data Engineer",
     "company": "Bybit",
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4859169101",
     "date": "2026-05-06T22:43:30-04:00",
@@ -21096,6 +21208,14 @@
     "source": "Binance"
   },
   {
+    "id": "7818910",
+    "title": "Manager, Client Support",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7818910?gh_jid=7818910",
+    "date": "2026-04-20T17:44:43-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
     "id": "ae49a850-2023-4d08-b16f-5aeafe1279ce",
     "title": "Solutions Delivery Manager",
     "company": "Elliptic",
@@ -21462,21 +21582,5 @@
     "link": "https://job-boards.greenhouse.io/digitalcurrencygroup/jobs/4679684005",
     "date": "2026-04-08T14:25:17-04:00",
     "source": "Greenhouse: DCG"
-  },
-  {
-    "id": "c66a5448-0e5d-40fe-994e-e5a77d40afdc",
-    "title": "Manager, Solutions Engineering",
-    "company": "Stellar",
-    "link": "https://jobs.ashbyhq.com/Stellar/c66a5448-0e5d-40fe-994e-e5a77d40afdc",
-    "date": "2026-04-08T01:30:25.232+00:00",
-    "source": "Ashby: Stellar"
-  },
-  {
-    "id": "8497449002",
-    "title": "Senior Manager, Technical Accounting & Financial Reporting",
-    "company": "Hedera",
-    "link": "https://www.hashgraph.com/careers/8497449002?gh_jid=8497449002",
-    "date": "2026-04-07T18:03:26-04:00",
-    "source": "Greenhouse: Hedera"
   }
 ]
