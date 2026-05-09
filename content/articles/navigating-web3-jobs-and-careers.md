@@ -39,11 +39,11 @@ This shift instills a sense of alignment and responsibility. As an owner, you co
 
 The demand for talent in Web3 spans a variety of roles, both technical and non-technical:
 
-| Role Category              | Specific Roles                                           |
+| Role Category | Specific Roles |
 |----------------------------|---------------------------------------------------------|
-| Technical Roles            | Smart Contract Developer, Frontend dApp Engineer, Smart Contract Auditor, Protocol Engineer |
-| Strategic Roles            | Web3 Product Manager, Tokenomics Designer, Venture Capital Analyst |
-| Community & Growth Roles   | Community Manager, Developer Relations, Web3 Marketing Lead |
+| Technical Roles | Smart Contract Developer, Frontend dApp Engineer, Smart Contract Auditor, Protocol Engineer |
+| Strategic Roles | Web3 Product Manager, Tokenomics Designer, Venture Capital Analyst |
+| Community & Growth Roles | Community Manager, Developer Relations, Web3 Marketing Lead |
 
 ### Strategies to Secure a Web3 Job
 
@@ -52,11 +52,10 @@ The demand for talent in Web3 spans a variety of roles, both technical and non-t
 2. **Identify Your Niche:** The Web3 field is expansive. Focus on an area that excites you, such as DeFi, NFTs, gaming, or decentralized infrastructure. Gain deep knowledge in that sector.
 
 3. **Build in Public:** Showcase your "proof of work."
-   - If you are a developer, create a small dApp or contribute to an open-source project.
-   - If you are an analyst, develop a Dune dashboard analyzing a protocol's performance.
-   - If you are a writer, start a blog or share insights on Twitter about complex Web3 topics.
+ - If you are a developer, create a small dApp or contribute to an open-source project.
+ - If you are an analyst, develop a Dune dashboard analyzing a protocol's performance.
+ - If you are a writer, start a blog or share insights on Twitter about complex Web3 topics.
 
 4. **Engage with the Community:** Join Discord channels of projects that interest you. Rather than promoting your resume, focus on providing value by answering questions and participating in discussions. Building relationships within the community often leads to the best job opportunities.
 
 ### The Growing Web3 Opportunity
-

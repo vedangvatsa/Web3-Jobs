@@ -26,16 +26,16 @@ Initially, the primary use case for crypto revolved around speculation. Many ind
 DeFi is often referred to as "money legos" due to the composable nature of its protocols, allowing for the creation of more complex financial products. Key primitives include:
 
 1. **Decentralized Exchanges (DEXs):**
-   - **Description:** Protocols like Uniswap facilitate peer-to-peer trading of assets without relying on a central order book.
-   - **Impact:** DEXs support a permissionless environment for liquidity and trading. Anyone can list a [token](/what-is-a-token) and trade, breaking the monopoly held by centralized exchanges. This innovation sparked the "DeFi Summer" of 2020.
+ - **Description:** Protocols like Uniswap facilitate peer-to-peer trading of assets without relying on a central order book.
+ - **Impact:** DEXs support a permissionless environment for liquidity and trading. Anyone can list a [token](/what-is-a-token) and trade, breaking the monopoly held by centralized exchanges. This innovation sparked the "DeFi Summer" of 2020.
 
 2. **Lending and Borrowing Protocols:**
-   - **Description:** Protocols such as Aave and Compound establish decentralized money markets.
-   - **Impact:** These platforms allow anyone globally to earn yields on savings or access credit, provided they have sufficient collateral. This inclusion is particularly impactful in regions with underdeveloped banking systems, enhancing financial access.
+ - **Description:** Protocols such as Aave and Compound establish decentralized money markets.
+ - **Impact:** These platforms allow anyone globally to earn yields on savings or access credit, provided they have sufficient collateral. This inclusion is particularly impactful in regions with underdeveloped banking systems, enhancing financial access.
 
 3. **Stablecoins:**
-   - **Description:** Cryptocurrencies like USDC are pegged to the value of real-world assets, typically the US dollar.
-   - **Impact:** **[Stablecoins](/guide-to-stablecoins)** serve as the foundation for DeFi. They provide a stable unit of account, enabling users to transact and secure loans without the volatility risk associated with assets like ETH.
+ - **Description:** Cryptocurrencies like USDC are pegged to the value of real-world assets, typically the US dollar.
+ - **Impact:** **[Stablecoins](/guide-to-stablecoins)** serve as the foundation for DeFi. They provide a stable unit of account, enabling users to transact and secure loans without the volatility risk associated with assets like ETH.
 
 ### The Composability Advantage
 
@@ -53,5 +53,4 @@ DeFi's innovation carries notable risks.
 
 ### The Engine of Web3
 
-DeFi serves as the economic core of the **[Web3](/what-is-web3)** ecosystem. It illustrates the potential of developing open, transparent, and programmable financial systems. Despite the risks and ongoing maturation of the space, DeFi offers a vision of a future where finance is more accessible, efficient, and user-driven. It has expanded crypto beyond mere speculation, establishing a vibrant multi-billion dollar on-chain economy and increasing the demand for skilled professionals, from **[DeFi developers](/defi-careers)** to **[quantitative analysts](/a-day-in-the-life-of-a-defi-quant)**.
-
+DeFi serves as the economic core of the **[Web3](/what-is-web3)** ecosystem. It illustrates the potential of developing open, transparent, and programmable financial systems. Despite the risks and ongoing maturation of the space, DeFi offers a vision of a future where finance is more accessible, efficient, and user-driven. It has expanded crypto beyond mere speculation, establishing a active multi-billion dollar on-chain economy and increasing the demand for skilled professionals, from **[DeFi developers](/defi-careers)** to **[quantitative analysts](/a-day-in-the-life-of-a-defi-quant)**.

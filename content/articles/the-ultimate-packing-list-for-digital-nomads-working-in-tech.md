@@ -115,23 +115,23 @@ Reliable internet is critical for your work. Plan for redundancy.
 
 **Phone**: Secondary device for communication and backup.
 - Smartphone essential for:
-  - Local communication (WhatsApp, calls)
-  - Looking up addresses
-  - Mobile hotspot
-  - Navigation
+ - Local communication (WhatsApp, calls)
+ - Looking up addresses
+ - Mobile hotspot
+ - Navigation
 - Any modern smartphone works
 
 ## Work Setup
 
 Creating productive workspace anywhere matters.
 
-**Laptop stand**: Elevates laptop to eye level:
+**Laptop stand**: improve laptop to eye level:
 - Prevents neck strain
 - Most portable: Collapsible aluminum stands (Twelve South, Roost)
 - Weighs under 1 lb
 - Improves posture significantly
 
-**Monitor stand/arm**: If using portable monitor, elevate it:
+**Monitor stand/arm**: If using portable monitor, improve it:
 - USB-C powered monitor stands exist
 - Adjustable arms for flexibility
 - Reduces neck and eye strain

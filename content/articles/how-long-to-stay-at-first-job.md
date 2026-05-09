@@ -52,9 +52,9 @@ You don't have to ignore a great opportunity just to hit an arbitrary tenure mil
 
 While there are good reasons to leave early, there are also risks to consider. Leaving a job after just a few months without a compelling reason can raise red flags for future employers.
 
-*   **It Can Look Like You're Unreliable:** Hiring managers might see a short stint on your [resume](/how-to-build-a-web3-resume-that-stands-out) and wonder if you're a "job hopper" who will leave their company just as quickly.
-*   **You Miss Out on Deeper Learning:** The first few months of any job are just about learning the ropes. The real, deep learning happens when you start to own projects and handle more complex challenges, which usually comes after the six-month mark.
-*   **You Haven't Built a Strong Network:** Leaving too soon means you haven’t had time to build strong relationships with colleagues and mentors who can support you throughout your career.
+* **It Can Look Like You're Unreliable:** Hiring managers might see a short stint on your [resume](/how-to-build-a-web3-resume-that-stands-out) and wonder if you're a "job hopper" who will leave their company just as quickly.
+* **You Miss Out on Deeper Learning:** The first few months of any job are just about learning the ropes. The real, deep learning happens when you start to own projects and handle more complex challenges, which usually comes after the six-month mark.
+* **You Haven't Built a Strong Network:** Leaving too soon means you haven’t had time to build strong relationships with colleagues and mentors who can support you throughout your career.
 
 If you do leave your first job in under a year, be prepared to explain your reasoning clearly and professionally in future interviews. Focus on what you learned and what you're looking for in your next role, rather than speaking negatively about your previous employer.
 
@@ -62,9 +62,9 @@ If you do leave your first job in under a year, be prepared to explain your reas
 
 There’s no perfect answer, but a good rule of thumb in today’s market is to aim for at least **12 to 18 months** in your first role.
 
-*   **Under 1 year:** This can be a red flag unless you have a very strong reason (like a toxic environment or a major bait-and-switch).
-*   **12-18 months:** This is often seen as an acceptable tenure. It shows you’ve had time to get up to speed, contribute to the team, and see at least one or two project cycles through.
-*   **2+ years:** This is the gold standard. It demonstrates stability, loyalty, and the ability to grow within a role. Staying for two or more years at your first job will generally look favorable on a resume.
+* **Under 1 year:** This can be a red flag unless you have a very strong reason (like a toxic environment or a major bait-and-switch).
+* **12-18 months:** This is often seen as an acceptable tenure. It shows you’ve had time to get up to speed, contribute to the team, and see at least one or two project cycles through.
+* **2+ years:** This is the gold standard. It demonstrates stability, loyalty, and the ability to grow within a role. Staying for two or more years at your first job will generally look favorable on a resume.
 
 Ultimately, the decision is personal. It's about weighing the benefits of staying against the opportunities that might come from leaving.
 
@@ -72,10 +72,10 @@ Ultimately, the decision is personal. It's about weighing the benefits of stayin
 
 Whether you plan to stay for six months or six years, your goal should be to extract as much value as possible from your first job.
 
-*   **Be a Sponge:** Learn everything you can. Ask questions. Sit in on meetings that aren't directly related to your role.
-*   **Build Relationships:** Get to know your colleagues. Find a mentor. These relationships will be invaluable throughout your career.
-*   **Document Your Achievements:** Keep a running list of your accomplishments, the projects you’ve worked on, and the skills you’ve learned. This will be important for updating your resume.
-*   **Seek Feedback:** Regularly ask your manager and peers for feedback on your performance. This is the fastest way to grow.
+* **Be a Sponge:** Learn everything you can. Ask questions. Sit in on meetings that aren't directly related to your role.
+* **Build Relationships:** Get to know your colleagues. Find a mentor. These relationships will be invaluable throughout your career.
+* **Document Your Achievements:** Keep a running list of your accomplishments, the projects you’ve worked on, and the skills you’ve learned. This will be important for updating your resume.
+* **Seek Feedback:** Regularly ask your manager and peers for feedback on your performance. This is the fastest way to grow.
 
 Your first job is a launchpad. It’s not just about what you do for the company; it’s about what the company does for you and your career. Make sure you’re getting what you need to set yourself up for long-term success.
 

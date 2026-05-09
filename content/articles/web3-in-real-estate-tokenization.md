@@ -59,4 +59,3 @@ The path to widespread adoption of real estate tokenization faces several challe
 The tokenization of real estate is a matter of when, not if. The benefits of increased liquidity, accessibility, and efficiency are too substantial to overlook. While regulatory and technical challenges exist, new companies are actively addressing them.
 
 As the Web3 infrastructure develops and regulatory clarity improves, the investment approach toward real estate will change dramatically. The barriers that have isolated ordinary investors from quality real estate investments are slowly being dismantled. The tokenization revolution will create substantial financial opportunities while building a more open, transparent, and democratic financial system.
-

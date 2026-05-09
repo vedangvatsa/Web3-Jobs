@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 Your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as a vital document throughout your career, not just during job searches. Treat it as a continually evolving summary of your professional achievements. Regular updates ensure you remain ready for unexpected job opportunities and help you keep track of your accomplishments. The question remains: how often should you refresh it?
 
-You should update your resume every three to six months. This routine does not necessitate a complete rewrite; instead, it involves adding recent achievements, refining your skills, and polishing your language. Additionally, certain career events should prompt an immediate resume update. Below are key moments to consider for these updates.
+You should update your resume every three to six months. This routine does not necessitate a complete rewrite; instead, it involves adding recent achievements, refining your skills, and polishing your language. certain career events should prompt an immediate resume update. Below are key moments to consider for these updates.
 
 ### Key Moments to Update Your Resume
 
@@ -98,21 +98,20 @@ Monitor your progress. Are you achieving the desired results? Adjust your approa
 
 ### Real-World Examples
 
-| Name  | Role                                      | Initial Challenge                   | Outcome                                 |
+| Name | Role | Initial Challenge | Outcome |
 |-------|-------------------------------------------|-------------------------------------|-----------------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with project management   | Improved project delivery timelines significantly within three months |
-| Juan  | Product Manager in [DeFi](/what-is-defi) | Faced challenges with cross-team collaboration | Enhanced team efficiency, resulting in faster product launches |
-| Maya  | Transitioning from Web2 to Web3         | Needed to adapt to a new environment | Successfully onboarded into Web3, contributing to key projects within two months |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with project management | Improved project delivery timelines significantly within three months |
+| Juan | Product Manager in [DeFi](/what-is-defi) | Faced challenges with cross-team collaboration | Enhanced team efficiency, resulting in faster product launches |
+| Maya | Transitioning from Web2 to Web3 | Needed to adapt to a new environment | Successfully onboarded into Web3, contributing to key projects within two months |
 
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process**: Expecting overnight results can lead to frustration. Sustainable change requires time.
-   
-2. **Ignoring Feedback**: Feedback from colleagues, managers, and mentors can provide valuable insights. Pay attention to their perspectives.
-   
-3. **One-Size-Fits-All Approach**: Tailor your strategies to your unique context. What works for others may not be suitable for you.
-   
-4. **Giving Up Too Soon**: Change often feels uncomfortable. Persistence through initial discomfort is important for achieving better outcomes.
-   
-5. **Neglecting Progress Tracking**: Without measuring your progress, you cannot identify areas for improvement. Keep metrics on your achievements.
 
+2. **Ignoring Feedback**: Feedback from colleagues, managers, and mentors can provide valuable insights. Pay attention to their perspectives.
+
+3. **One-Size-Fits-All Approach**: Tailor your strategies to your unique context. What works for others may not be suitable for you.
+
+4. **Giving Up Too Soon**: Change often feels uncomfortable. Persistence through initial discomfort is important for achieving better outcomes.
+
+5. **Neglecting Progress Tracking**: Without measuring your progress, you cannot identify areas for improvement. Keep metrics on your achievements.

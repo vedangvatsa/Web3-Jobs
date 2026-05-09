@@ -21,7 +21,7 @@ Understanding the significance of Web3 requires an examination of the limitation
 - **Centralized and Permissioned:** Traditional finance requires permission from banks for account access, credit, or significant transfers. This power allows institutions to exclude many individuals globally from financial services and restrict transactions they oppose.
 - **Opaque Operations:** The mechanisms of large financial entities often remain hidden, concealing risk, as highlighted by the 2008 financial crisis.
 - **Inefficiency and Delay:** Outdated infrastructure complicates processes. For instance, international money transfers can take several business days and incur substantial fees, as payments work through a series of correspondent banks.
-- **High Transaction Costs:** Each intermediary involved in a financial transaction extracts fees, leading to elevated costs for services such as credit card payments and stock trades.
+- **High Transaction Costs:** Each intermediary involved in a financial transaction extracts fees, leading to improve costs for services such as credit card payments and stock trades.
 
 ### The Web3 Solution: An Open Financial System
 
@@ -60,4 +60,3 @@ The future of finance may become decentralized, but significant obstacles remain
 - **Regulatory Uncertainty:** The evolving regulatory environment presents challenges. Regulators attempt to apply existing laws designed for centralized entities to decentralized protocols, complicating compliance efforts.
 
 Despite these challenges, the fundamental advantages of Web3 finance are evident. It offers a blueprint for a financial system that is more open, transparent, efficient, and inclusive. Access to this system is determined by internet connectivity rather than wealth or geography, highlighting the importance of Web3 in reshaping the financial sector.
-

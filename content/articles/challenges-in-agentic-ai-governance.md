@@ -50,4 +50,3 @@ The open-source nature of AI development raises concerns about the accessibility
 - **The Risk:** This decentralization may lead to a scenario where anyone can deploy autonomous AI agents for harmful activities, such as orchestrating cyberattacks or executing scams.
 
 Addressing these challenges is essential for effective AI governance. A multi-faceted approach is necessary, encompassing technical research on AI safety, the creation of new governance models, and international collaboration on standards and regulations. The future of agentic AI hinges on our ability to solve these governance issues before the technology advances beyond our control.
-

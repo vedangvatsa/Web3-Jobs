@@ -54,7 +54,7 @@ The CM connects users with the core development team.
 A successful CM possesses several key skills:
 
 - **Extreme Empathy:** Understanding community members' frustrations and excitement is essential for building rapport.
-- **World-Class Written Communication:** Most communication occurs in writing on platforms like Discord and Twitter. Clarity and precision are critical.
+- **top-tier Written Communication:** Most communication occurs in writing on platforms like Discord and Twitter. Clarity and precision are critical.
 - **High Emotional Intelligence and Patience:** CMs must remain calm and diplomatic when interacting with anxious users, passionate critics, or trolls.
 - **Deep Protocol Knowledge:** Familiarity with the project is non-negotiable; a CM must be the product expert.
 - **"Terminally Online":** Web3 communities operate around the clock. CMs must stay engaged in conversations at all times.
@@ -99,11 +99,11 @@ Monitor progress to gauge results. Adjust your methods based on feedback and out
 
 ### Real-World Examples
 
-| Name  | Role          | Challenge Faced          | Outcome Achieved                                      |
+| Name | Role | Challenge Faced | Outcome Achieved |
 |-------|---------------|--------------------------|------------------------------------------------------|
-| Sarah | Developer     | Struggled with user engagement | Implemented community feedback strategies, leading to an increase in active users. |
-| Juan  | Product Manager | Faced communication issues with users | Established regular updates, resulting in an improvement in user satisfaction scores. |
-| Maya  | Transitioning to Web3 | Difficulty in adapting to new protocols | Joined community discussions, enhancing her knowledge and leading to a successful project role. |
+| Sarah | Developer | Struggled with user engagement | Implemented community feedback strategies, leading to an increase in active users. |
+| Juan | Product Manager | Faced communication issues with users | Established regular updates, resulting in an improvement in user satisfaction scores. |
+| Maya | Transitioning to Web3 | Difficulty in adapting to new protocols | Joined community discussions, enhancing her knowledge and leading to a successful project role. |
 
 ### Common Mistakes to Avoid
 
@@ -115,19 +115,19 @@ Monitor progress to gauge results. Adjust your methods based on feedback and out
 
 ### FAQ
 
-**Q: How long will it take to see results?**  
+**Q: How long will it take to see results?** 
 A: Many individuals notice initial outcomes within a few weeks of consistent application. Significant improvements typically become visible within a few months, depending on your starting point and commitment to daily practice.
 
-**Q: What if my workplace doesn't support community engagement?**  
+**Q: What if my workplace doesn't support community engagement?** 
 A: Begin with small, self-contained actions that don’t require organizational approval. Focus on individual habits and internal conversations with supportive colleagues to build momentum.
 
-**Q: How do these skills apply specifically to Web3?**  
+**Q: How do these skills apply specifically to Web3?** 
 A: Web3 organizations feature flatter hierarchies and remote teams, increasing the importance of self-direction and written communication. The pace of work is faster, requiring adaptability and agility.
 
-**Q: Can I implement these strategies alongside my current role?**  
+**Q: Can I implement these strategies alongside my current role?** 
 A: Yes, this is the recommended approach. Focus on integrating two or three practices into your existing work routine for maximum effectiveness.
 
-**Q: What resources can help me deepen my understanding?**  
+**Q: What resources can help me deepen my understanding?** 
 A: Explore community discussions and connect with mentors or peer groups for practical insights. Engaging with Web3-specific communities can provide valuable learning opportunities.
 
-The role of a Community Manager in Web3 is vital for building engagement and building relationships. As the industry evolves, so too does the need for skilled individuals who can manage this complex yet rewarding field. Accept the challenge and prepare at the forefront of the decentralized future.
+The role of a Community Manager in Web3 is vital for building engagement and building relationships. As the industry evolves, so too does the need for skilled individuals who can manage this complex yet rewarding field. Accept the challenge and prepare leading the decentralized future.

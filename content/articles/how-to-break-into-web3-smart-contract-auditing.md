@@ -42,4 +42,3 @@ Your reputation as an auditor hinges on public, verifiable work.
 - **Write in Public:** Start a blog or Twitter account where you analyze vulnerabilities you've discovered or share insights on emerging security patterns.
 
 Breaking into smart contract auditing is challenging and demands significant dedication. For those with a passion for security and a meticulous eye, the rewards can be substantial.
-

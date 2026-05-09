@@ -1,6 +1,6 @@
 ---
 
-title: "The Top 10 Essential Skills for a Thriving Career in Web3"
+title: "The Top 10 Essential Skills for a growing Career in Web3"
 description: "Want to break into Web3? The rules are different. This guide breaks down the top 10 most in-demand skills, both technical and non-technical, that you need."
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 category: "Career Guides"
@@ -108,9 +108,8 @@ In Web3, your non-technical skills often hold equal importance to your technical
 **Importance:** Your resume in Web3 is not a static document; it encompasses your online presence and on-chain activities. In a decentralized environment, your actions matter more than mere claims.
 
 - **Concept:** Build a portfolio of "proof of work" before applying for positions. 
-    - **For Developers:** Contribute to open-source projects on GitHub.
-    - **For Analysts:** Create a popular dashboard on Dune.
-    - **For Writers:** Start a blog or Substack focused on insightful analysis.
-    - **For Community Builders:** Serve as a valued moderator or contributor in a DAO.
+ - **For Developers:** Contribute to open-source projects on GitHub.
+ - **For Analysts:** Create a popular dashboard on Dune.
+ - **For Writers:** Start a blog or Substack focused on insightful analysis.
+ - **For Community Builders:** Serve as a valued moderator or contributor in a DAO.
 - **Building in Public:** Share your learning journey on Twitter. Transparency about your successes and failures builds trust and attracts opportunities.
-

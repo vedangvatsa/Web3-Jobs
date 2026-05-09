@@ -42,11 +42,11 @@ In the early stages of Web3, development primarily focused on building core infr
 
 A new wave of developers, not solely protocol engineers, now uses mature infrastructure to create user-facing products. This includes:
 
-| Category      | Description                                                                                      |
+| Category | Description |
 |---------------|--------------------------------------------------------------------------------------------------|
-| GameFi        | Development of Web3 games prioritizing enjoyment over speculative earning.                      |
-| DePIN         | Establishing networks for real-world services such as cloud storage, wireless connectivity, and energy grids. |
-| SocialFi      | Creation of decentralized social media platforms that enable users with ownership of data and content. |
+| GameFi | Development of Web3 games prioritizing enjoyment over speculative earning. |
+| DePIN | Establishing networks for real-world services such as cloud storage, wireless connectivity, and energy grids. |
+| SocialFi | Creation of decentralized social media platforms that enable users with ownership of data and content. |
 
 This type of development may not always be captured in "core protocol" commit data, yet it signifies a significant and growing area of activity.
 
@@ -55,7 +55,7 @@ This type of development may not always be captured in "core protocol" commit da
 The early Web3 ethos of "move fast and break things" is giving way to a more measured focus on security, sustainability, and building viable businesses.
 
 - **Security:** Following a series of high-profile hacks, the emphasis on secure development practices, formal verification, and thorough audits has increased. This shift leads to a slower, more deliberate development cycle, which may be perceived as a "slowdown" in commit velocity but signifies enhanced rigor.
-  
+
 - **Sustainable Tokenomics:** Projects are transitioning away from purely inflationary token models that fueled the last bull market. They are designing more sustainable economic systems with genuine utility and revenue generation. This transition requires complex economic modeling and a long-term perspective.
 
 ### A Maturing Ecosystem
@@ -65,4 +65,3 @@ The narrative suggesting a simple "slowdown" in Web3 developer activity oversimp
 The speculative energy of the bull market is being replaced by a more focused and sustainable building phase. Development is consolidating around established platforms, shifting from infrastructure to applications, and prioritizing quality and security over speed.
 
 The number of dedicated developers contributing to the future of Web3 remains strong and is growing in sophistication. While casual participants may have left, the committed builders remain, laying the foundation for the next wave of innovation. For those who adopt a long-term perspective, the indicators of real, sustainable development have never been clearer.
-

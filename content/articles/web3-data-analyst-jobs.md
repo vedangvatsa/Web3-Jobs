@@ -29,7 +29,7 @@ To answer these questions, analysts employ specialized tools to construct querie
 ### Essential Tools for Web3 Data Analysts
 
 1. **SQL:** This foundational skill is critical for on-chain analysts. Platforms like Dune, Flipside Crypto, and Nansen organize complex blockchain data into accessible tables, which analysts query using SQL (Structured Query Language). Mastery of SQL is the most vital technical skill for this position.
-   
+
 2. **Dune Analytics:** This platform is the leader in community-driven on-chain analysis. It allows users to write SQL queries against [Ethereum](/what-is-ethereum) and other blockchain datasets, visualizing results in powerful shareable dashboards. Creating a high-quality dashboard on Dune serves as an excellent [portfolio](/building-web3-portfolio) project for aspiring analysts.
 
 3. **Python:** For more sophisticated analysis, Python is preferred. It offers libraries like Pandas for data manipulation, Matplotlib for visualization, and Web3.py for direct blockchain interaction, making it an invaluable tool for in-depth research.
@@ -49,17 +49,16 @@ To answer these questions, analysts employ specialized tools to construct querie
 This role is accessible to individuals without formal data science degrees.
 
 1. **Learn SQL:** Begin with SQL, the cornerstone of data analysis. Numerous free online resources are available for learning SQL.
-   
+
 2. **Understand Blockchain Basics:** Familiarize yourself with the fundamental principles of blockchain technology, focusing on Ethereum.
 
 3. **Become Proficient in Dune:** Use Dune Analytics' free tier to experiment. Start by forking existing queries to grasp their structure and functionality. Engage with Dune's documentation and tutorials.
 
 4. **Create a Dashboard Portfolio:** This portfolio serves as your [resume](/how-to-build-a-web3-resume-that-stands-out). Select an intriguing protocol and construct a detailed dashboard to track its key metrics.
-   - *Initial project:* Build a dashboard for a new NFT collection gaining traction.
-   - *Intermediate project:* Create a dashboard comparing user growth between two competing [DeFi](/what-is-defi) protocols.
-   - *Advanced project:* Analyze MEV (Maximal Extractable Value) activities on a particular DEX.
+ - *Initial project:* Build a dashboard for a new NFT collection gaining traction.
+ - *Intermediate project:* Create a dashboard comparing user growth between two competing [DeFi](/what-is-defi) protocols.
+ - *Advanced project:* Analyze MEV (Maximal Extractable Value) activities on a particular DEX.
 
 5. **Promote Your Work:** Share your dashboards on social media, tagging the projects you analyze. Consider writing blog posts or Twitter threads that highlight key insights from your analysis. Establishing a public reputation for quality work can lead to direct hiring opportunities from projects.
 
-The Web3 Data Analyst role suits individuals who enjoy solving puzzles, discovering patterns, and narrating stories through data. This career places you at the forefront of the industry, providing critical intelligence that supports projects in the dynamic and evolving crypto space.
-
+The Web3 Data Analyst role suits individuals who enjoy solving puzzles, discovering patterns, and narrating stories through data. This career places you leading the industry, providing critical intelligence that supports projects in the dynamic and evolving crypto space.

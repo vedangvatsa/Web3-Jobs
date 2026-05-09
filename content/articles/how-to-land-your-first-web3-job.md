@@ -74,4 +74,3 @@ Interviews in Web3 can be intensive and multi-staged, often combining cultural, 
 - **Show Passion:** Clearly articulate your enthusiasm for Web3 and the specific project you are interviewing with.
 - **Demonstrate Initiative:** Web3 teams are often small and remote. Show that you can take ownership and get tasks done without constant oversight.
 - **Think Critically:** Be ready to discuss the trade-offs of various blockchain designs or project strategies. Have your opinions, but remain open to different perspectives.
-

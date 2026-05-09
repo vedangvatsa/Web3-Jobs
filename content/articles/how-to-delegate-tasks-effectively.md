@@ -20,11 +20,11 @@ To delegate effectively, employ a structured approach.
 
 Not every task is suitable for delegation. Avoid delegating crises requiring direct authority, sensitive personnel issues, or core strategic tasks. Consider these as good candidates for delegation:
 
-| Task Type                 | Description                                           |
+| Task Type | Description |
 |---------------------------|-------------------------------------------------------|
-| Repetitive tasks          | Regular tasks that a team member can manage.       |
-| Growth opportunities       | Assignments that help develop new skills.           |
-| Bottleneck tasks          | Tasks you handle that slow down team progress.      |
+| Repetitive tasks | Regular tasks that a team member can manage. |
+| Growth opportunities | Assignments that help develop new skills. |
+| Bottleneck tasks | Tasks you handle that slow down team progress. |
 
 ### 2. Pick the Right Person
 
@@ -104,11 +104,11 @@ Monitor your progress. Are you achieving desired results? Modify your approach b
 
 ### Real-World Examples
 
-| Name     | Role                    | Context                | Outcome                      |
+| Name | Role | Context | Outcome |
 |----------|-------------------------|------------------------|------------------------------|
-| Sarah    | Developer               | Employed delegation strategies at a [blockchain](/what-is-a-blockchain) startup | Improved project delivery speed significantly over a few months |
-| Juan     | Product Manager         | Implemented delegation in [DeFi](/what-is-defi) team | Streamlined product development cycle, reducing time to launch significantly |
-| Maya     | Transitioning Professional | Adapting from Web2 to Web3 | Successfully integrated into Web3 role, enhancing team communication |
+| Sarah | Developer | Employed delegation strategies at a [blockchain](/what-is-a-blockchain) startup | Improved project delivery speed significantly over a few months |
+| Juan | Product Manager | Implemented delegation in [DeFi](/what-is-defi) team | simplify product development cycle, reducing time to launch significantly |
+| Maya | Transitioning Professional | Adapting from Web2 to Web3 | Successfully integrated into Web3 role, enhancing team communication |
 
 ### Common Mistakes to Avoid
 
@@ -117,4 +117,3 @@ Monitor your progress. Are you achieving desired results? Modify your approach b
 3. **One-Size-Fits-All Approach:** Customize strategies to fit your context. What works for one may not work for another.
 4. **Giving Up Too Soon:** Change can be uncomfortable. Persist through initial challenges to achieve better outcomes.
 5. **Not Tracking Progress:** Measuring progress is critical for improvement. Keep track of your delegation efforts.
-

@@ -18,10 +18,10 @@ Visualize a DID as a personal, self-owned phone number, diverging from the tradi
 
 In the Web2 environment, control over digital identities remains fragmented and largely in the hands of corporations. Consider the following examples:
 
-| Identifier Type          | Controlled By        |
+| Identifier Type | Controlled By |
 |--------------------------|----------------------|
-| Email Address            | Major tech companies  |
-| Social Media Handle      | Social media platforms |
+| Email Address | Major tech companies |
+| Social Media Handle | Social media platforms |
 
 These platforms can revoke access to your identifiers, impose censorship, or exploit your data. As a result, users lack true ownership over their online identities.
 
@@ -53,4 +53,3 @@ DIDs lay the groundwork for a more user-centric and private internet.
 - **Enabling Verifiable Credentials:** DIDs form the basis for **[Verifiable Credentials](/understanding-verifiable-credentials-in-blockchain)**. For example, a university can issue a digital diploma to a DID, enabling the holder to prove their qualifications to employers without necessitating direct contact with the institution.
 
 Decentralized Identifiers represent a straightforward yet impactful concept. They shift identity control from centralized platforms to individuals, building a more secure, private, and interoperable digital environment.
-

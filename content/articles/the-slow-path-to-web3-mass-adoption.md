@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 ## Introduction: The Promise and the Reality
 
-Proponents of [Web3](/what-is-web3) have long described it as a transformative phase of the internet, characterized by decentralization, user ownership, and transparency. The vision involves allowing users to control their data, enabling creators to engage directly with their audiences, and building open financial systems. Despite this promising vision and substantial investments totaling billions in value in the last few years, Web3 has not yet reached mass adoption. Most internet users continue to rely on centralized Web2 platforms.
+Proponents of [Web3](/what-is-web3) have long described it as a significant phase of the internet, characterized by decentralization, user ownership, and transparency. The vision involves allowing users to control their data, enabling creators to engage directly with their audiences, and building open financial systems. Despite this promising vision and substantial investments totaling billions in value in the last few years, Web3 has not yet reached mass adoption. Most internet users continue to rely on centralized Web2 platforms.
 
 This analysis investigates why Web3 adoption remains sluggish. We will examine the critical barriers hindering the transition to a decentralized web. This is not a critique of the Web3 vision; instead, it offers a pragmatic assessment of the real-world challenges developers, entrepreneurs, and community builders must address to realize this vision.
 
@@ -28,7 +28,7 @@ Setting up a crypto wallet serves as the initial step for new users. This proces
 
 ### The Gas Fee Problem
 
-The concept of "gas" fees is entirely unfamiliar to Web2 users. The notion of paying a variable and often substantial fee to perform an action within an application introduces significant friction. Additionally, the requirement to acquire a native [token](/what-is-a-token) (such as [ETH](/what-is-ethereum)) from an exchange before accessing a dApp exacerbates the onboarding challenge.
+The concept of "gas" fees is entirely unfamiliar to Web2 users. The notion of paying a variable and often substantial fee to perform an action within an application introduces significant friction. the requirement to acquire a native [token](/what-is-a-token) (such as [ETH](/what-is-ethereum)) from an exchange before accessing a dApp exacerbates the onboarding challenge.
 
 ### Transaction Finality and Risk
 
@@ -89,4 +89,3 @@ Mass adoption of Web3 resembles a marathon rather than a sprint. While the chall
 The positive aspect is that industry leaders are concentrating on these issues. Innovations such as Account Abstraction, the expansion of Layer 2 solutions, and a shift in focus from speculation to utility signal that the industry is evolving.
 
 Mass adoption will not occur overnight; it will transpire gradually, one application at a time. Users will onboard to dApps without realizing they are using blockchain technology. The benefits of user ownership and decentralization will manifest through intuitive experiences. The journey may be lengthy, but the goal, a more open, fair, and user-owned internet, is worth the effort.
-

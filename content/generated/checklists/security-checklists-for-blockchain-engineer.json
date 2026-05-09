@@ -1,264 +1,264 @@
 {
-  "meta": {
-    "contentType": "checklists",
-    "topic": "security",
-    "niche": "blockchain-engineer",
-    "generatedAt": "2026-03-13T00:00:00.000Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "Blockchain Client Security Checklist",
-    "description": "Security checklist for blockchain engineers covering consensus safety, P2P security, node operations, and protocol implementation.",
-    "keywords": ["blockchain-engineer", "security", "checklist", "consensus", "P2P"],
-    "canonicalSlug": "security-checklists-for-blockchain-engineer"
-  },
-  "content": {
-    "intro": "Blockchain infrastructure has unique security requirements. A single bug in consensus or networking can compromise the entire network. This checklist covers critical areas.",
-    "sections": [
-      {
-        "heading": "Consensus Safety",
-        "description": "Ensure consensus implementation is correct.",
-        "items": [
-          {
-            "task": "Fork choice rule implemented correctly",
-            "priority": "critical",
-            "description": "Incorrect fork choice can cause chain splits or stuck nodes."
-          },
-          {
-            "task": "Finality conditions verified",
-            "priority": "critical",
-            "description": "Blocks marked final must actually be final. Reorging finalized blocks breaks assumptions."
-          },
-          {
-            "task": "Slashing conditions correct",
-            "priority": "critical",
-            "description": "Validators must be slashed for violations. Missing slashing allows attacks."
-          },
-          {
-            "task": "Byzantine fault tolerance maintained",
-            "priority": "critical",
-            "description": "System must tolerate f Byzantine nodes with 3f+1 total nodes."
-          },
-          {
-            "task": "Time synchronization handled",
-            "priority": "critical",
-            "description": "Clock drift between nodes must not break consensus."
-          },
-          {
-            "task": "Edge cases in slot/epoch transitions",
-            "priority": "critical",
-            "description": "Boundary conditions between slots and epochs are bug-prone."
-          }
-        ]
-      },
-      {
-        "heading": "P2P Network Security",
-        "description": "Secure peer-to-peer networking.",
-        "items": [
-          {
-            "task": "Peer authentication",
-            "priority": "critical",
-            "description": "Verify peer identity. Prevent impersonation attacks."
-          },
-          {
-            "task": "Eclipse attack protection",
-            "priority": "critical",
-            "description": "Ensure node connects to diverse peers. Detect isolation attempts."
-          },
-          {
-            "task": "DoS protection on P2P layer",
-            "priority": "critical",
-            "description": "Rate limit messages. Disconnect misbehaving peers."
-          },
-          {
-            "task": "Message validation before processing",
-            "priority": "critical",
-            "description": "Validate all P2P messages before acting on them."
-          },
-          {
-            "task": "Peer scoring implemented",
-            "priority": "critical",
-            "description": "Track peer behavior. Penalize and disconnect bad actors."
-          },
-          {
-            "task": "NAT traversal handled",
-            "priority": "important",
-            "description": "Support nodes behind NAT. Use hole punching or relays."
-          }
-        ]
-      },
-      {
-        "heading": "Transaction Processing",
-        "description": "Secure transaction handling.",
-        "items": [
-          {
-            "task": "Signature verification correct",
-            "priority": "critical",
-            "description": "All transaction signatures must be verified. Missing checks allow forgery."
-          },
-          {
-            "task": "Nonce handling correct",
-            "priority": "critical",
-            "description": "Nonces must be sequential. Gaps or repeats indicate bugs."
-          },
-          {
-            "task": "Gas/fee calculation accurate",
-            "priority": "critical",
-            "description": "Incorrect gas can cause DoS or allow free execution."
-          },
-          {
-            "task": "Mempool DoS protection",
-            "priority": "critical",
-            "description": "Limit mempool size. Prevent spam transactions."
-          },
-          {
-            "task": "Transaction ordering deterministic",
-            "priority": "critical",
-            "description": "Same inputs must produce same ordering. Nondeterminism causes consensus failures."
-          }
-        ]
-      },
-      {
-        "heading": "State Management",
-        "description": "Secure state storage and transitions.",
-        "items": [
-          {
-            "task": "State root calculation verified",
-            "priority": "critical",
-            "description": "State roots must be calculated identically across clients."
-          },
-          {
-            "task": "State pruning preserves necessary data",
-            "priority": "critical",
-            "description": "Pruning must not remove data needed for validation."
-          },
-          {
-            "task": "Database corruption recovery",
-            "priority": "critical",
-            "description": "Clients should detect and recover from database corruption."
-          },
-          {
-            "task": "State sync security",
-            "priority": "critical",
-            "description": "When syncing state, verify proofs. Do not trust peers blindly."
-          },
-          {
-            "task": "Archive node data integrity",
-            "priority": "important",
-            "description": "Historical data must remain accessible and correct."
-          }
-        ]
-      },
-      {
-        "heading": "Cryptographic Implementation",
-        "description": "Cryptography must be correct.",
-        "items": [
-          {
-            "task": "Use audited cryptographic libraries",
-            "priority": "critical",
-            "description": "Never implement cryptography yourself. Use established libraries."
-          },
-          {
-            "task": "Constant-time operations for secrets",
-            "priority": "critical",
-            "description": "Timing attacks can leak private keys. Use constant-time comparisons."
-          },
-          {
-            "task": "Random number generation secure",
-            "priority": "critical",
-            "description": "Use cryptographically secure RNG. Weak randomness breaks security."
-          },
-          {
-            "task": "Key storage secured",
-            "priority": "critical",
-            "description": "Validator keys must be encrypted at rest and in memory when possible."
-          },
-          {
-            "task": "Hash function collision resistance",
-            "priority": "critical",
-            "description": "Use modern hash functions. Be aware of collision attacks."
-          }
-        ]
-      },
-      {
-        "heading": "Node Operations",
-        "description": "Secure node deployment and operations.",
-        "items": [
-          {
-            "task": "RPC endpoints authenticated",
-            "priority": "critical",
-            "description": "Admin RPC endpoints must require authentication."
-          },
-          {
-            "task": "Metrics and logging secure",
-            "priority": "critical",
-            "description": "Logs must not contain secrets. Metrics endpoint should be internal."
-          },
-          {
-            "task": "Update mechanism secure",
-            "priority": "critical",
-            "description": "Software updates must be signed and verified."
-          },
-          {
-            "task": "Resource limits configured",
-            "priority": "critical",
-            "description": "Memory, disk, and connection limits prevent resource exhaustion."
-          },
-          {
-            "task": "Firewall rules appropriate",
-            "priority": "critical",
-            "description": "Only necessary ports exposed. Admin interfaces internal only."
-          }
-        ]
-      },
-      {
-        "heading": "Protocol Upgrades",
-        "description": "Handle hard forks and upgrades safely.",
-        "items": [
-          {
-            "task": "Fork activation tested",
-            "priority": "critical",
-            "description": "Test fork transitions on testnet thoroughly before mainnet."
-          },
-          {
-            "task": "Rollback capability",
-            "priority": "critical",
-            "description": "Have ability to roll back if upgrade causes issues."
-          },
-          {
-            "task": "Client diversity coordination",
-            "priority": "critical",
-            "description": "Coordinate upgrades across multiple client teams."
-          },
-          {
-            "task": "State migration verified",
-            "priority": "critical",
-            "description": "If upgrade changes state format, migration must be correct."
-          }
-        ]
-      }
-    ],
-    "commonMistakes": [
-      {
-        "mistake": "Nondeterministic state transitions",
-        "impact": "Different clients compute different state, causing network split.",
-        "prevention": "Ensure all operations are deterministic. No floating point, no random."
-      },
-      {
-        "mistake": "Trusting peer-provided data without verification",
-        "impact": "Malicious peers can feed false data and corrupt local state.",
-        "prevention": "Always verify proofs. Never trust, always verify."
-      },
-      {
-        "mistake": "Insufficient DoS protection",
-        "impact": "Network can be brought down by spam.",
-        "prevention": "Rate limiting, peer scoring, message validation at every layer."
-      },
-      {
-        "mistake": "Rolling your own crypto",
-        "impact": "Implementation bugs lead to key leaks or signature forgery.",
-        "prevention": "Use audited libraries. Have cryptographic implementations reviewed."
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "checklists",
+ "topic": "security",
+ "niche": "blockchain-engineer",
+ "generatedAt": "2026-03-13T00:00:00.000Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "Blockchain Client Security Checklist",
+ "description": "Security checklist for blockchain engineers covering consensus safety, P2P security, node operations, and protocol implementation.",
+ "keywords": ["blockchain-engineer", "security", "checklist", "consensus", "P2P"],
+ "canonicalSlug": "security-checklists-for-blockchain-engineer"
+ },
+ "content": {
+ "intro": "Blockchain infrastructure has unique security requirements. A single bug in consensus or networking can compromise the entire network. This checklist covers critical areas.",
+ "sections": [
+ {
+ "heading": "Consensus Safety",
+ "description": "Ensure consensus implementation is correct.",
+ "items": [
+ {
+ "task": "Fork choice rule implemented correctly",
+ "priority": "critical",
+ "description": "Incorrect fork choice can cause chain splits or stuck nodes."
+ },
+ {
+ "task": "Finality conditions verified",
+ "priority": "critical",
+ "description": "Blocks marked final must actually be final. Reorging finalized blocks breaks assumptions."
+ },
+ {
+ "task": "Slashing conditions correct",
+ "priority": "critical",
+ "description": "Validators must be slashed for violations. Missing slashing allows attacks."
+ },
+ {
+ "task": "Byzantine fault tolerance maintained",
+ "priority": "critical",
+ "description": "System must tolerate f Byzantine nodes with 3f+1 total nodes."
+ },
+ {
+ "task": "Time synchronization handled",
+ "priority": "critical",
+ "description": "Clock drift between nodes must not break consensus."
+ },
+ {
+ "task": "Edge cases in slot/epoch transitions",
+ "priority": "critical",
+ "description": "Boundary conditions between slots and epochs are bug-prone."
+ }
+ ]
+ },
+ {
+ "heading": "P2P Network Security",
+ "description": "Secure peer-to-peer networking.",
+ "items": [
+ {
+ "task": "Peer authentication",
+ "priority": "critical",
+ "description": "Verify peer identity. Prevent impersonation attacks."
+ },
+ {
+ "task": "Eclipse attack protection",
+ "priority": "critical",
+ "description": "Ensure node connects to diverse peers. Detect isolation attempts."
+ },
+ {
+ "task": "DoS protection on P2P layer",
+ "priority": "critical",
+ "description": "Rate limit messages. Disconnect misbehaving peers."
+ },
+ {
+ "task": "Message validation before processing",
+ "priority": "critical",
+ "description": "Validate all P2P messages before acting on them."
+ },
+ {
+ "task": "Peer scoring implemented",
+ "priority": "critical",
+ "description": "Track peer behavior. Penalize and disconnect bad actors."
+ },
+ {
+ "task": "NAT traversal handled",
+ "priority": "important",
+ "description": "Support nodes behind NAT. Use hole punching or relays."
+ }
+ ]
+ },
+ {
+ "heading": "Transaction Processing",
+ "description": "Secure transaction handling.",
+ "items": [
+ {
+ "task": "Signature verification correct",
+ "priority": "critical",
+ "description": "All transaction signatures must be verified. Missing checks allow forgery."
+ },
+ {
+ "task": "Nonce handling correct",
+ "priority": "critical",
+ "description": "Nonces must be sequential. Gaps or repeats indicate bugs."
+ },
+ {
+ "task": "Gas/fee calculation accurate",
+ "priority": "critical",
+ "description": "Incorrect gas can cause DoS or allow free execution."
+ },
+ {
+ "task": "Mempool DoS protection",
+ "priority": "critical",
+ "description": "Limit mempool size. Prevent spam transactions."
+ },
+ {
+ "task": "Transaction ordering deterministic",
+ "priority": "critical",
+ "description": "Same inputs must produce same ordering. Nondeterminism causes consensus failures."
+ }
+ ]
+ },
+ {
+ "heading": "State Management",
+ "description": "Secure state storage and transitions.",
+ "items": [
+ {
+ "task": "State root calculation verified",
+ "priority": "critical",
+ "description": "State roots must be calculated identically across clients."
+ },
+ {
+ "task": "State pruning preserves necessary data",
+ "priority": "critical",
+ "description": "Pruning must not remove data needed for validation."
+ },
+ {
+ "task": "Database corruption recovery",
+ "priority": "critical",
+ "description": "Clients should detect and recover from database corruption."
+ },
+ {
+ "task": "State sync security",
+ "priority": "critical",
+ "description": "When syncing state, verify proofs. Do not trust peers blindly."
+ },
+ {
+ "task": "Archive node data integrity",
+ "priority": "important",
+ "description": "Historical data must remain accessible and correct."
+ }
+ ]
+ },
+ {
+ "heading": "Cryptographic Implementation",
+ "description": "Cryptography must be correct.",
+ "items": [
+ {
+ "task": "Use audited cryptographic libraries",
+ "priority": "critical",
+ "description": "Never implement cryptography yourself. Use established libraries."
+ },
+ {
+ "task": "Constant-time operations for secrets",
+ "priority": "critical",
+ "description": "Timing attacks can leak private keys. Use constant-time comparisons."
+ },
+ {
+ "task": "Random number generation secure",
+ "priority": "critical",
+ "description": "Use cryptographically secure RNG. Weak randomness breaks security."
+ },
+ {
+ "task": "Key storage secured",
+ "priority": "critical",
+ "description": "Validator keys must be encrypted at rest and in memory when possible."
+ },
+ {
+ "task": "Hash function collision resistance",
+ "priority": "critical",
+ "description": "Use modern hash functions. Be aware of collision attacks."
+ }
+ ]
+ },
+ {
+ "heading": "Node Operations",
+ "description": "Secure node deployment and operations.",
+ "items": [
+ {
+ "task": "RPC endpoints authenticated",
+ "priority": "critical",
+ "description": "Admin RPC endpoints must require authentication."
+ },
+ {
+ "task": "Metrics and logging secure",
+ "priority": "critical",
+ "description": "Logs must not contain secrets. Metrics endpoint should be internal."
+ },
+ {
+ "task": "Update mechanism secure",
+ "priority": "critical",
+ "description": "Software updates must be signed and verified."
+ },
+ {
+ "task": "Resource limits configured",
+ "priority": "critical",
+ "description": "Memory, disk, and connection limits prevent resource exhaustion."
+ },
+ {
+ "task": "Firewall rules appropriate",
+ "priority": "critical",
+ "description": "Only necessary ports exposed. Admin interfaces internal only."
+ }
+ ]
+ },
+ {
+ "heading": "Protocol Upgrades",
+ "description": "Handle hard forks and upgrades safely.",
+ "items": [
+ {
+ "task": "Fork activation tested",
+ "priority": "critical",
+ "description": "Test fork transitions on testnet thoroughly before mainnet."
+ },
+ {
+ "task": "Rollback capability",
+ "priority": "critical",
+ "description": "Have ability to roll back if upgrade causes issues."
+ },
+ {
+ "task": "Client diversity coordination",
+ "priority": "critical",
+ "description": "Coordinate upgrades across multiple client teams."
+ },
+ {
+ "task": "State migration verified",
+ "priority": "critical",
+ "description": "If upgrade changes state format, migration must be correct."
+ }
+ ]
+ }
+ ],
+ "commonMistakes": [
+ {
+ "mistake": "Nondeterministic state transitions",
+ "impact": "Different clients compute different state, causing network split.",
+ "prevention": "Ensure all operations are deterministic. No floating point, no random."
+ },
+ {
+ "mistake": "Trusting peer-provided data without verification",
+ "impact": "Malicious peers can feed false data and corrupt local state.",
+ "prevention": "Always verify proofs. Never trust, always verify."
+ },
+ {
+ "mistake": "Insufficient DoS protection",
+ "impact": "Network can be brought down by spam.",
+ "prevention": "Rate limiting, peer scoring, message validation at every layer."
+ },
+ {
+ "mistake": "Rolling your own crypto",
+ "impact": "Implementation bugs lead to key leaks or signature forgery.",
+ "prevention": "Use audited libraries. Have cryptographic implementations reviewed."
+ }
+ ]
+ }
 }

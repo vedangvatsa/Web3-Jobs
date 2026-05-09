@@ -103,11 +103,11 @@ Andreessen Horowitz (a16z) ranks among the most influential venture capital firm
 
 The Web3 job market reflects the decentralized nature of the technology itself, lacking a singular platform akin to LinkedIn. A multi-channel approach proves most effective for job seekers.
 
-| Strategy         | Description                                                                                               |
+| Strategy | Description |
 |------------------|-----------------------------------------------------------------------------------------------------------|
-| Start Broad      | Use large aggregators such as Hashtag Web3 and Web3.career to gain a general understanding of the market. |
-| Go Niche         | If focusing on a specific area like DeFi or gaming, explore specialized job boards tailored to those sectors. |
-| Get Involved     | Engage on Twitter and within the Discord communities of projects you admire. Building relationships often leads to job opportunities. |
-| Target Quality    | Explore VC portfolio job boards like a16z Crypto’s to identify curated roles at well-funded companies.   |
+| Start Broad | Use large aggregators such as Hashtag Web3 and Web3.career to gain a general understanding of the market. |
+| Go Niche | If focusing on a specific area like DeFi or gaming, explore specialized job boards tailored to those sectors. |
+| Get Involved | Engage on Twitter and within the Discord communities of projects you admire. Building relationships often leads to job opportunities. |
+| Target Quality | Explore VC portfolio job boards like a16z Crypto’s to identify curated roles at well-funded companies. |
 
 By employing these strategies, professionals can move beyond simply submitting applications. They can actively prepare to secure their ideal roles in the dynamic and rapidly expanding Web3 space. Engaging with communities, using specialized boards, and understanding market trends will enhance the chances of success in this evolving industry.

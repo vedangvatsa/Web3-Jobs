@@ -43,35 +43,35 @@ Web3 refers to the emerging iteration of the internet built on blockchain techno
 
 No single entity controls the network. Data and applications run on distributed networks of computers rather than company servers.
 
-- **Web2**: Twitter can ban your account, deleting your followers and content.  
+- **Web2**: Twitter can ban your account, deleting your followers and content. 
 - **Web3**: Your social graph exists on-chain. No company can erase your identity or relationships.
 
 ### User Ownership
 
 Users own their data, content, and digital assets through cryptographic keys and blockchain records.
 
-- **Web2**: You create content for Instagram, but Meta owns it and profits from ads.  
+- **Web2**: You create content for Instagram, but Meta owns it and profits from ads. 
 - **Web3**: You mint NFTs of your art, earning royalties from every resale. You control distribution.
 
 ### Permissionless
 
 Anyone can build on open protocols without asking permission or paying gatekeepers.
 
-- **Web2**: Apple and Google approve or reject your app, taking a percentage of revenue.  
+- **Web2**: Apple and Google approve or reject your app, taking a percentage of revenue. 
 - **Web3**: Deploy smart contracts to Ethereum without approval. No app store, no cut.
 
 ### Native Payments
 
 Built-in value transfer without intermediaries. Send money as easily as sending a message.
 
-- **Web2**: Payment processors take a percentage, international transfers take time and cost money.  
+- **Web2**: Payment processors take a percentage, international transfers take time and cost money. 
 - **Web3**: Send USDC globally in seconds for minimal fees. Payments are protocol-level, not bolted-on.
 
 ### Trustless Interactions
 
 Smart contracts execute automatically without trusting counterparties. Code enforces agreements.
 
-- **Web2**: Trust Airbnb to hold your payment and release it to the host.  
+- **Web2**: Trust Airbnb to hold your payment and release it to the host. 
 - **Web3**: Smart contract automatically releases payment when the stay is complete. No intermediary needed.
 
 ## Key Web3 Technologies
@@ -110,47 +110,47 @@ Smart contracts execute automatically without trusting counterparties. Code enfo
 
 ## How Web3 Works Differently
 
-- **Sign In**:  
-- Web2: Username/password, Google login  
-- Web3: Connect wallet, cryptographic signature proves identity  
+- **Sign In**: 
+- Web2: Username/password, Google login 
+- Web3: Connect wallet, cryptographic signature proves identity 
 
-- **Data Storage**:  
-- Web2: Company databases (MySQL, MongoDB)  
-- Web3: Blockchain (permanent, public) plus decentralized storage (IPFS, Arweave)  
+- **Data Storage**: 
+- Web2: Company databases (MySQL, MongoDB) 
+- Web3: Blockchain (permanent, public) plus decentralized storage (IPFS, Arweave) 
 
-- **Application Logic**:  
-- Web2: Server-side code on centralized cloud services  
-- Web3: Smart contracts on blockchain plus client-side code  
+- **Application Logic**: 
+- Web2: Server-side code on centralized cloud services 
+- Web3: Smart contracts on blockchain plus client-side code 
 
-- **Monetization**:  
-- Web2: Ads, selling user data, subscription fees  
-- Web3: Transaction fees, token appreciation, protocol revenue sharing  
+- **Monetization**: 
+- Web2: Ads, selling user data, subscription fees 
+- Web3: Transaction fees, token appreciation, protocol revenue sharing 
 
-- **Governance**:  
-- Web2: CEO/board make decisions  
-- Web3: Token holders vote on protocol changes  
+- **Governance**: 
+- Web2: CEO/board make decisions 
+- Web3: Token holders vote on protocol changes 
 
 ## Web3's Value Proposition
 
-- **For Users**:  
-- Own your data and digital assets  
-- Earn from your contributions (tokens, NFT royalties)  
-- Participate in platform governance  
-- Censorship resistance  
-- Privacy with optional transparency  
+- **For Users**: 
+- Own your data and digital assets 
+- Earn from your contributions (tokens, NFT royalties) 
+- Participate in platform governance 
+- Censorship resistance 
+- Privacy with optional transparency 
 
-- **For Developers**:  
-- Build on permissionless protocols  
-- Composability allows combining protocols  
-- Built-in monetization through tokens and fees  
-- No platform risk as apps cannot be removed by centralized entities  
-- Instant global payments  
+- **For Developers**: 
+- Build on permissionless protocols 
+- Composability allows combining protocols 
+- Built-in monetization through tokens and fees 
+- No platform risk as apps cannot be removed by centralized entities 
+- Instant global payments 
 
-- **For Creators**:  
-- Direct relationships with fans without platform intermediaries  
-- Programmable royalties on all secondary sales  
-- Token-gated communities  
-- Fractional ownership of works  
+- **For Creators**: 
+- Direct relationships with fans without platform intermediaries 
+- Programmable royalties on all secondary sales 
+- Token-gated communities 
+- Fractional ownership of works 
 
 ## Criticisms and Challenges
 
@@ -176,7 +176,7 @@ Smart contracts execute automatically without trusting counterparties. Code enfo
 
 Web3 and the metaverse are distinct concepts:
 
-- **Web3**: Focuses on decentralization, blockchain, and ownership for the internet.  
+- **Web3**: Focuses on decentralization, blockchain, and ownership for the internet. 
 - **Metaverse**: Involves immersive virtual worlds, which may or may not use blockchain technology.
 
 Web3 can enable metaverse economies, but the metaverse does not require Web3. For example, Meta's Horizon Worlds is a metaverse but operates on centralized Web2 principles.
@@ -193,9 +193,9 @@ Web3 can enable metaverse economies, but the metaverse does not require Web3. Fo
 
 Traditional companies exploring Web3 include:
 
-- **Financial**: JPMorgan, Goldman Sachs are building on blockchains.  
-- **Tech**: Meta (NFTs on Instagram), Reddit (NFT avatars), Twitter (tipping).  
-- **Brands**: Nike, Adidas, Starbucks are launching NFT programs.  
+- **Financial**: JPMorgan, Goldman Sachs are building on blockchains. 
+- **Tech**: Meta (NFTs on Instagram), Reddit (NFT avatars), Twitter (tipping). 
+- **Brands**: Nike, Adidas, Starbucks are launching NFT programs. 
 - **Gaming**: Epic Games, Square Enix are investing in blockchain gaming.
 
 Most companies remain cautious and are testing the waters without full commitment.
@@ -240,18 +240,18 @@ Web3 has created new career categories:
 
 ## Reading List
 
-- **Advocates**:  
-- Chris Dixon, "Why Web3 Matters"  
-- Packy McCormick, "Not Boring" Web3 posts  
-- Vitalik Buterin, Various blog posts  
+- **Advocates**: 
+- Chris Dixon, "Why Web3 Matters" 
+- Packy McCormick, "Not Boring" Web3 posts 
+- Vitalik Buterin, Various blog posts 
 
-- **Skeptics**:  
-- Moxie Marlinspike, "My first impressions of web3"  
-- Molly White, "web3 is going just great" blog  
-- Nicholas Weaver, Various critiques  
+- **Skeptics**: 
+- Moxie Marlinspike, "My first impressions of web3" 
+- Molly White, "web3 is going just great" blog 
+- Nicholas Weaver, Various critiques 
 
-- **Balanced**:  
-- Tim O'Reilly, "Why it's too early to get excited about Web3"  
-- Ben Thompson, Stratechery Web3 analysis  
+- **Balanced**: 
+- Tim O'Reilly, "Why it's too early to get excited about Web3" 
+- Ben Thompson, Stratechery Web3 analysis 
 
-Web3 represents both opportunity and ongoing experimentation. The technology enables new economic and social coordination mechanisms such as DAOs, DeFi, and digital ownership. Whether it fulfills the promise of returning the internet to users or remains a speculative sideshow depends on addressing real user experience, scalability, and regulatory challenges. Understanding the vision, technology, and criticisms equips you to navigate this rapidly evolving space.
+Web3 represents both opportunity and ongoing experimentation. The technology enables new economic and social coordination mechanisms such as DAOs, DeFi, and digital ownership. Whether it fulfills the promise of returning the internet to users or remains a speculative sideshow depends on addressing real user experience, scalability, and regulatory challenges. Understanding the vision, technology, and criticisms equips you to navigate this fast-moving space.

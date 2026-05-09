@@ -29,15 +29,14 @@ The most frequent type of rug pull occurs on **decentralized exchanges (DEXs)**.
 
 Despite the sophistication of some rug pulls, many exhibit common warning signs. Identifying these red flags is important for **[Doing Your Own Research (DYOR)](/what-is-dyor-in-crypto)**.
 
-| Warning Sign                | Description                                                                                                                          |
+| Warning Sign | Description |
 |-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **Anonymous Team**          | Developers operate under pseudonyms or remain anonymous without a proven track record. Public, reputable teams enhance accountability. |
-| **Lack of Audit**           | The project's [smart contracts](/what-are-smart-contracts) lack audits from reputable **[security firms](/how-to-choose-a-smart-contract-auditor)**, increasing risk. |
-| **Unlocked Liquidity**      | If liquidity is not "locked" in a smart contract, it raises significant concerns about the project’s legitimacy.                       |
-| **Vague Whitepaper**        | A whitepaper filled with buzzwords and lacking technical detail or one that is plagiarized from other projects should raise alarms.    |
-| **Unrealistic Returns**      | Promises of "guaranteed" returns or excessively high returns typically indicate a scam.                                               |
-| **Selling Restrictions**     | In advanced scams, such as **[honeypots](/what-is-a-honeypot-scam-in-crypto)**, tokens are designed so only the developer can sell. Conduct a small test transaction before committing larger amounts. |
-| **Intense Hype**            | Projects that emerge suddenly and are heavily promoted by anonymous accounts may be part of a coordinated pump-and-dump scheme.        |
+| **Anonymous Team** | Developers operate under pseudonyms or remain anonymous without a proven track record. Public, reputable teams enhance accountability. |
+| **Lack of Audit** | The project's [smart contracts](/what-are-smart-contracts) lack audits from reputable **[security firms](/how-to-choose-a-smart-contract-auditor)**, increasing risk. |
+| **Unlocked Liquidity** | If liquidity is not "locked" in a smart contract, it raises significant concerns about the project’s legitimacy. |
+| **Vague Whitepaper** | A whitepaper filled with buzzwords and lacking technical detail or one that is plagiarized from other projects should raise alarms. |
+| **Unrealistic Returns** | Promises of "guaranteed" returns or excessively high returns typically indicate a scam. |
+| **Selling Restrictions** | In advanced scams, such as **[honeypots](/what-is-a-honeypot-scam-in-crypto)**, tokens are designed so only the developer can sell. Conduct a small test transaction before committing larger amounts. |
+| **Intense Hype** | Projects that emerge suddenly and are heavily promoted by anonymous accounts may be part of a coordinated pump-and-dump scheme. |
 
 Rug pulls exploit greed and the fear of missing out. By staying vigilant, checking for these fundamental red flags, and investing only what you can afford to lose, you can better protect yourself against these scams.
-

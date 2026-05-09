@@ -85,4 +85,3 @@ Effective written communication is a important soft skill in Web3. Many teams op
 - **How to learn:** Contribute to an open-source project. This experience will enhance your remote collaboration and communication skills.
 
 By systematically developing expertise in these ten areas, you can transition from being a "coder" to a proficient Web3 engineer, capable of creating secure, efficient, and scalable applications that will drive the future of the internet.
-

@@ -110,15 +110,14 @@ Real progress in Litecoin isn't measured by velocity of code changes. It's measu
 
 **"Why not just use Bitcoin?":** Litecoin serves a different niche. Four times faster block times. Lower transaction fees. More available supply (84 million vs 21 million BTC). These differences matter for some use cases.
 
-**"It's irrelevant":** Litecoin has significant market capitalization, active merchant adoption, and strong trading volume. By any measure other than "number of GitHub commits," it's thriving.
+**"It's irrelevant":** Litecoin has significant market capitalization, active merchant adoption, and strong trading volume. By any measure other than "number of GitHub commits," it's growing.
 
 ## The Broader Lesson
 
 Litecoin teaches an important lesson about cryptocurrency projects: not all projects should be rapidly innovating. Some projects should be stable, secure, and conservative. Different cryptocurrencies serve different purposes.
 
-Bitcoin aims to be digital gold, conservative, secure, and unchanging.  
-Ethereum aims to be a platform, new, experimental, and fast-changing.  
+Bitcoin aims to be digital gold, conservative, secure, and unchanging. 
+Ethereum aims to be a platform, new, experimental, and fast-changing. 
 Litecoin aims to be digital silver, stable, secure, but willing to carefully adopt proven improvements.
 
 Each philosophy is valid. Each serves a purpose. The error is judging them by the same metrics.
-

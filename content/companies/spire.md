@@ -4,10 +4,10 @@ website: https://spire.com
 founded: 2012
 category: Space / Data Analytics
 headquarters: Vienna, Virginia
-description: Space-based data analytics company leveraging satellite infrastructure
+description: Space-based data analytics company use satellite infrastructure
 ---
 
-Space-based data analytics company leveraging satellite infrastructure.
+Space-based data analytics company use satellite infrastructure.
 
 ## Company Overview
 

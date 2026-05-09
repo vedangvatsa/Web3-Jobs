@@ -40,12 +40,12 @@ Before engaging with any tools, you should focus on core concepts to build your 
 
 Focus on these fundamental ideas:
 
-| Concept                      | Description                                                                                             |
+| Concept | Description |
 |------------------------------|---------------------------------------------------------------------------------------------------------|
 | AI, Machine Learning, Deep Learning | AI is the broad field; ML is a subset that learns from data; DL uses complex neural networks. |
 | Supervised vs. Unsupervised Learning | Supervised learning uses labeled data, while unsupervised learning finds patterns in unlabeled data. |
-| Neural Network                | A simplified model of the brain, comprising layers of "neurons" that process information.            |
-| Training Data Importance      | The quality and quantity of training data are critical to an AI model's performance.                  |
+| Neural Network | A simplified model of the brain, comprising layers of "neurons" that process information. |
+| Training Data Importance | The quality and quantity of training data are critical to an AI model's performance. |
 
 ### Step 2: Engage with No-Code AI Tools
 
@@ -103,12 +103,12 @@ Yes. You can create sophisticated and valuable applications using no-code platfo
 
 AI skills are becoming increasingly vital across various industries, including [Web3](/what-is-web3). Professionals with a solid understanding of AI principles can drive innovation and efficiency in their organizations.
 
-| Skill Area                 | Importance in the Job Market                                      |
+| Skill Area | Importance in the Job Market |
 |----------------------------|--------------------------------------------------------------------|
-| AI Literacy                | Essential for evaluating AI tools and applications in business.    |
-| Communication Skills       | Necessary for conveying complex AI concepts to non-technical stakeholders. |
-| Problem-Solving Ability    | Critical for addressing challenges in AI implementation and use. |
-| Emotional Intelligence      | Helps in team collaboration and navigating organizational dynamics. |
+| AI Literacy | Essential for evaluating AI tools and applications in business. |
+| Communication Skills | Necessary for conveying complex AI concepts to non-technical stakeholders. |
+| Problem-Solving Ability | Critical for addressing challenges in AI implementation and use. |
+| Emotional Intelligence | Helps in team collaboration and navigating organizational dynamics. |
 
 ### Development Roadmap for AI Competence
 
@@ -140,4 +140,3 @@ At each career level, the importance of these skills evolves:
 3. **Avoiding Feedback**: Improvement requires external perspectives. Seek feedback from mentors and peers.
 4. **Comparing Yourself to Others**: Your skill development journey is unique. Focus on your progression.
 5. **Expecting Immediate Mastery**: Genuine skill development takes time. Embrace the learning process.
-

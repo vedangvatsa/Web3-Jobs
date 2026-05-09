@@ -39,7 +39,7 @@ When an Optimistic Rollup sequencer submits a batch of transactions to Layer 1, 
 
 ### Pros and Cons
 
-| **Pros**                       | **Cons**                           |
+| **Pros** | **Cons** |
 |--------------------------------|------------------------------------|
 | EVM Compatibility: Optimistic Rollups generally ensure full compatibility with the Ethereum Virtual Machine (EVM). This makes it easy for existing Ethereum dApps to migrate to an Optimistic L2 with minimal code adjustments. | Long Withdrawal Times: The challenge period poses a significant drawback for user experience. Users must wait for this period to end to withdraw funds from an Optimistic Rollup back to Ethereum. This has led to the emergence of third-party "liquidity bridges" that offer instant withdrawals for a fee, introducing their own trust assumptions. |
 
@@ -53,9 +53,9 @@ For each batch of transactions, the ZK-Rollup's operator (referred to as a "prov
 
 ### Pros and Cons
 
-| **Pros**                       | **Cons**                           |
+| **Pros** | **Cons** |
 |--------------------------------|------------------------------------|
-| Fast Finality: The mathematical proof of validity eliminates the need for a lengthy challenge period. Users can withdraw funds from a ZK-Rollup back to Ethereum almost instantly after the transaction is included on Layer 1. | Technological Complexity: The cryptography supporting ZK-Rollups is highly complex and resides at the forefront of computer science research. Generating ZK proofs requires substantial computational resources, and building a ZK-Rollup that is fully compatible with the EVM (a "zkEVM") presents a significant engineering challenge. |
+| Fast Finality: The mathematical proof of validity eliminates the need for a lengthy challenge period. Users can withdraw funds from a ZK-Rollup back to Ethereum almost instantly after the transaction is included on Layer 1. | Technological Complexity: The cryptography supporting ZK-Rollups is highly complex and resides leading computer science research. Generating ZK proofs requires substantial computational resources, and building a ZK-Rollup that is fully compatible with the EVM (a "zkEVM") presents a significant engineering challenge. |
 
 ## The Rollup-Centric Roadmap
 
@@ -63,5 +63,4 @@ The Ethereum core development community has adopted a "rollup-centric roadmap." 
 
 A landmark upgrade in this context was **EIP-4844 (Proto-Danksharding)**. Implemented during a recent upgrade, EIP-4844 introduced a new transaction type for "blobs" of data. This created a separate fee market for rollup data, significantly lowering the costs associated with posting transaction batches to Layer 1. Early results indicate a substantial reduction in fees on major L2s.
 
-The long-term vision includes full **Danksharding**, which will further enhance the dedicated data space for rollups, potentially enabling the Ethereum ecosystem to scale to millions of transactions per second across a vibrant ecosystem of thousands of rollups.
-
+The long-term vision includes full **Danksharding**, which will further enhance the dedicated data space for rollups, potentially enabling the Ethereum ecosystem to scale to millions of transactions per second across a active ecosystem of thousands of rollups.

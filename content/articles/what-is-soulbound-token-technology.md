@@ -50,4 +50,3 @@ The concept of Soulbound Tokens is still in the early theoretical phase and rais
 - **Negative SBTs:** If an unwanted "bad" SBT representing a negative affiliation is sent, how can Souls conceal or reject these tokens?
 
 Soulbound Tokens present an intriguing concept that could reshape our understanding of digital identity. By moving beyond purely financial and transferable assets, SBTs pave the way for a more specific and human-centric [Web3](/what-is-web3), facilitating the emergence of a truly "Decentralized Society."
-

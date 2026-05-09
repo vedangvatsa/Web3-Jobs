@@ -46,30 +46,30 @@ After generating a faceprint, the system compares it against a database of known
 
 Facial recognition technology finds applications across various fields:
 
-| Application Area         | Description                                                                 |
+| Application Area | Description |
 |--------------------------|-----------------------------------------------------------------------------|
 | **Security and Access Control** | Widely used for unlocking devices and providing secure access to buildings and airports. |
-| **Social Media**         | Platforms employ facial recognition to suggest tags for users in photos. |
+| **Social Media** | Platforms employ facial recognition to suggest tags for users in photos. |
 | **Law Enforcement and Surveillance** | Police departments use this technology to identify suspects in criminal investigations and monitor public spaces. |
-| **Retail**               | Retailers analyze customer demographics and shopping behaviors, using facial recognition to identify known shoplifters. |
+| **Retail** | Retailers analyze customer demographics and shopping behaviors, using facial recognition to identify known shoplifters. |
 
 ### Privacy and Bias Concerns
 
 The rise of facial recognition technology has sparked significant debate around privacy and bias. The potential for mass surveillance raises serious questions about civil liberties. The ability of governments or corporations to track individuals in public settings stirs considerable concern.
 
-Additionally, research indicates that some facial recognition systems demonstrate lower accuracy rates for women and people of color. This disparity often arises from the lack of diversity in the training datasets, which predominantly feature white male faces. Such inaccuracies can lead to severe consequences, including wrongful accusations in criminal cases.
+research indicates that some facial recognition systems demonstrate lower accuracy rates for women and people of color. This disparity often arises from the lack of diversity in the training datasets, which predominantly feature white male faces. Such inaccuracies can lead to severe consequences, including wrongful accusations in criminal cases.
 
 In response to these issues, some cities have enacted regulations to limit the use of facial recognition technology by law enforcement and government agencies. Municipalities have imposed restrictions on its deployment, reflecting a growing awareness of the balance between security, privacy, and accuracy.
 
 ### Frequently Asked Questions (FAQs)
 
-**1. Can facial recognition be deceived by a photo or a mask?**  
+**1. Can facial recognition be deceived by a photo or a mask?** 
 Modern facial recognition systems, particularly those employing 3D mapping and liveness detection, are much more secure than earlier versions. These systems can identify subtle movements and depth cues unique to a live face, preventing deception by a 2D image. While masks complicate detection, many systems have adapted by retraining on datasets that include individuals wearing masks.
 
-**2. How does facial recognition operate in crowded environments?**  
+**2. How does facial recognition operate in crowded environments?** 
 Surveillance systems in public venues can scan crowds for multiple faces simultaneously. These systems capture video, detect faces in real-time, generate faceprints, and compare them against a watchlist or extensive database for potential matches.
 
-**3. Is my facial data stored in a central database?**  
+**3. Is my facial data stored in a central database?** 
 The answer varies by application. For instance, when using a smartphone's face unlock feature, your facial data is usually stored locally on your device in an encrypted format, not uploaded to a central server. However, in law enforcement or social media contexts, your faceprint may reside within a large, centralized database.
 
 ### Understanding Facial Recognition: Importance for Professionals
@@ -99,4 +99,3 @@ Approach your learning incrementally. Focus on one aspect of facial recognition 
 #### Step 5: Measure Progress
 
 Regularly assess your progress. Monitor what you learn and how effectively you can apply that knowledge. This continuous improvement approach will refine your understanding over time.
-

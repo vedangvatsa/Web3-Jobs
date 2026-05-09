@@ -195,4 +195,3 @@ The future probably doesn't feature pure DAOs running everything. Instead, you'l
 - Feedback loops so governance can adapt
 
 Finding the right balance for each situation is the actual challenge, not pure decentralization.
-

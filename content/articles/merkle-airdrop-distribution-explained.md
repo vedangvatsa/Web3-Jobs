@@ -21,9 +21,9 @@ Consider the scenario of airdropping tokens to a large number of eligible addres
 ```solidity
 // Inefficient and will fail
 function airdrop(address[] calldata recipients, uint256[] calldata amounts) external onlyOwner {
-    for (uint i = 0; i < recipients.length; i++) {
-        token.transfer(recipients[i], amounts[i]);
-    }
+ for (uint i = 0; i < recipients.length; i++) {
+ token.transfer(recipients[i], amounts[i]);
+ }
 }
 ```
 
@@ -47,12 +47,12 @@ The smart contract stores only the single, 32-byte Merkle root.
 
 ```solidity
 contract Airdrop {
-    bytes32 public immutable merkleRoot;
+ bytes32 public immutable merkleRoot;
 
-    constructor(bytes32 _merkleRoot) {
-        merkleRoot = _merkleRoot;
-    }
-    // ... claim function
+ constructor(bytes32 _merkleRoot) {
+ merkleRoot = _merkleRoot;
+ }
+ // ... claim function
 }
 ```
 
@@ -70,19 +70,19 @@ The user calls the `claim` function on the smart contract, providing their addre
 
 ```solidity
 function claim(address recipient, uint256 amount, bytes32[] calldata merkleProof) external {
-    // 1. Recreate the leaf hash from the user's data
-    bytes32 leaf = keccak256(abi.encodePacked(recipient, amount));
+ // 1. Recreate the leaf hash from the user's data
+ bytes32 leaf = keccak256(abi.encodePacked(recipient, amount));
 
-    // 2. Use the provided proof to recalculate the Merkle root
-    bytes32 computedRoot = MerkleProof.processProof(merkleProof, leaf);
+ // 2. Use the provided proof to recalculate the Merkle root
+ bytes32 computedRoot = MerkleProof.processProof(merkleProof, leaf);
 
-    // 3. Verify that the recalculated root matches the one stored in the contract
-    require(computedRoot == merkleRoot, "Invalid proof.");
+ // 3. Verify that the recalculated root matches the one stored in the contract
+ require(computedRoot == merkleRoot, "Invalid proof.");
 
-    // ... (also check that the user hasn't claimed before) ...
+ // ... (also check that the user hasn't claimed before) ...
 
-    // 4. If valid, transfer the tokens
-    token.transfer(recipient, amount);
+ // 4. If valid, transfer the tokens
+ token.transfer(recipient, amount);
 }
 ```
 
@@ -120,4 +120,3 @@ Avoid attempting to overhaul everything at once. Start with small, manageable ch
 ### Step 5: Measure and Adjust
 
 Continuously monitor your progress. Are you achieving your goals? Adjust your strategy based on outcomes and feedback. A mindset focused on continuous improvement is essential for success.
-

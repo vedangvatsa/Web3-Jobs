@@ -37,9 +37,9 @@ To grasp JIT liquidity, one must first understand the innovation of concentrated
 3. **The Calculation**: The bot simulates Carol's trade, determining the exact price path it will take and identifying the specific ticks the trade will traverse.
 
 4. **The Atomic Transaction Bundle**: The bot constructs a sequence of three actions to execute atomically within a single block:
-   - **Action 1: `addLiquidity`**: The bot submits a transaction to inject a large volume of liquidity in a very narrow range that aligns perfectly with Carol's price trajectory. To gain priority, it pays an elevated gas fee to the block producer.
-   - **Action 2: The Victim's Swap**: The block producer, incentivized by the higher gas fee, positions Carol's transaction directly after the bot's. As Carol's swap executes, it moves through the bot's concentrated liquidity position.
-   - **Action 3: `removeLiquidity`**: The bot submits a final transaction to withdraw its liquidity and collected fees immediately after Carol's transaction.
+ - **Action 1: `addLiquidity`**: The bot submits a transaction to inject a large volume of liquidity in a very narrow range that aligns perfectly with Carol's price trajectory. To gain priority, it pays an improve gas fee to the block producer.
+ - **Action 2: The Victim's Swap**: The block producer, incentivized by the higher gas fee, positions Carol's transaction directly after the bot's. As Carol's swap executes, it moves through the bot's concentrated liquidity position.
+ - **Action 3: `removeLiquidity`**: The bot submits a final transaction to withdraw its liquidity and collected fees immediately after Carol's transaction.
 
 **The Result:**
 - Within a single block, the bot has added liquidity, captured nearly all fees from Carol's trade, and removed its capital.
@@ -50,11 +50,11 @@ To grasp JIT liquidity, one must first understand the innovation of concentrated
 
 JIT liquidity relies on several key factors:
 
-| Factor                     | Description                                                                                           |
+| Factor | Description |
 |---------------------------|-------------------------------------------------------------------------------------------------------|
-| **Transparent Mempool**   | The ability to monitor large pending swaps before they are executed provides a tactical advantage.    |
+| **Transparent Mempool** | The ability to monitor large pending swaps before they are executed provides a tactical advantage. |
 | **Concentrated Liquidity**| Uniswap v3's design allows for precision targeting of liquidity, enabling JIT bots to dominate other passive LPs. |
-| **Atomic Transactions**    | The capability to bundle actions into a single transaction ensures the strategy remains risk-free for the bot. |
+| **Atomic Transactions** | The capability to bundle actions into a single transaction ensures the strategy remains risk-free for the bot. |
 
 ### Impact on Passive Liquidity Providers
 
@@ -68,16 +68,16 @@ The prevailing consensus suggests that JIT liquidity represents an extractive fo
 
 ### Frequently Asked Questions (FAQ)
 
-**Q: Can I perform a JIT liquidity attack myself?**  
+**Q: Can I perform a JIT liquidity attack myself?** 
 A: Realistically, no. Executing a JIT liquidity strategy demands sophisticated infrastructure, deep knowledge of [blockchain](/what-is-a-blockchain) mechanics, and advanced bots that compete in a high-speed, automated environment.
 
-**Q: How does this differ from a sandwich attack?**  
+**Q: How does this differ from a sandwich attack?** 
 A: A **[sandwich attack](/sandwich-attack-in-dex-explained)** capitalizes on a user's slippage by executing trades before and after the victim's transaction. In contrast, JIT liquidity exploits trading fees by providing liquidity for the victim's trade and subsequently withdrawing it. Both strategies are forms of MEV that take advantage of pending transactions.
 
-**Q: Are other DEXs besides Uniswap v3 susceptible to JIT liquidity?**  
+**Q: Are other DEXs besides Uniswap v3 susceptible to JIT liquidity?** 
 A: Any DEX using a concentrated liquidity model may be vulnerable to JIT liquidity strategies.
 
-**Q: What can be done to mitigate JIT liquidity attacks?**  
+**Q: What can be done to mitigate JIT liquidity attacks?** 
 A: Research is ongoing in this area. Potential solutions include:
 - **Private Mempools**: Services like Flashbots can obscure initial trades from JIT bots.
 - **Protocol-Level Changes**: DEXs might implement mechanisms that delay fee collection or allocate a greater share of fees to long-term LPs, reducing the profitability of JIT strategies.
@@ -108,4 +108,3 @@ Avoid overwhelming changes. Start with small, manageable adjustments and build o
 #### Step 5: Measure and Adjust
 
 Track your progress and results. Be prepared to adapt your approach based on outcomes and feedback. This mindset supports continuous improvement.
-

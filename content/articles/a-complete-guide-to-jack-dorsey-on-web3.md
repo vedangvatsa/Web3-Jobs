@@ -43,9 +43,9 @@ Dorsey envisions a genuinely decentralized internet built on what he considers t
 
 Dorsey believes the internet requires a native currency, one that is not subject to the control of any single country or corporation. He identifies Bitcoin as the only contender for this role due to several key attributes:
 
-| Attribute                | Description                                                                                       |
+| Attribute | Description |
 |--------------------------|---------------------------------------------------------------------------------------------------|
-| **Immaculate Origins**   | Bitcoin had no pre-mine or ICO, and its creator, Satoshi Nakamoto, remains anonymous. This neutrality contrasts sharply with many other tokens, where insiders received substantial allocations. |
+| **Immaculate Origins** | Bitcoin had no pre-mine or ICO, and its creator, Satoshi Nakamoto, remains anonymous. This neutrality contrasts sharply with many other tokens, where insiders received substantial allocations. |
 | **True Decentralization**| Bitcoin boasts the most decentralized and reliable mining network, ensuring security and resistance to censorship. |
 | **Simplicity and Stability** | The Bitcoin protocol is straightforward, resilient, and evolves slowly, making it a reliable foundation for future developments. |
 
@@ -60,4 +60,3 @@ Web5 does not represent a new blockchain. Instead, it proposes a set of open sta
 - **Bitcoin's Role:** The Bitcoin blockchain serves as the anchoring layer for the identity framework, providing security and a trustworthy source of information for DIDs without being a repository for extensive personal data.
 
 Web5 aims to establish a web where users retain ownership of their identity and data, addressing the issues that "Web3" purports to solve while adhering to an open, Bitcoin-focused standard devoid of new tokens or VC ownership.
-

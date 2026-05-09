@@ -18,24 +18,24 @@ Performance Optimization Engineers excel in identifying and resolving bottleneck
 
 Performance optimization in Web3 encompasses multiple specializations, each focusing on distinct aspects of blockchain efficiency.
 
-**1. Smart Contract Gas Optimization**  
-This specialization is the most prevalent among performance roles. Engineers in this area write [Solidity](/best-programming-languages-for-blockchain-development) code to minimize gas consumption.  
-- **Duties:** They employ strategies such as reducing state writes, using `calldata` efficiently, and implementing data packing (struct packing). Mastery of the EVM's gas cost schedule is essential.  
+**1. Smart Contract Gas Optimization** 
+This specialization is the most prevalent among performance roles. Engineers in this area write [Solidity](/best-programming-languages-for-blockchain-development) code to minimize gas consumption. 
+- **Duties:** They employ strategies such as reducing state writes, using `calldata` efficiently, and implementing data packing (struct packing). Mastery of the EVM's gas cost schedule is essential. 
 - **Skills:** Proficiency in Solidity and a deep understanding of the EVM. For further insights, refer to our [guide to gas optimization](/gas-optimization-techniques-for-solidity-developers).
 
-**2. Protocol-Level Performance Engineering**  
-Core developers in this specialization focus on blockchain clients (e.g., Go-[Ethereum](/what-is-ethereum) or Reth) to enhance the blockchain's performance.  
-- **Duties:** Their work includes optimizing the client’s database for improved read and write speeds, enhancing the consensus algorithm's efficiency, and accelerating transaction processing within the EVM.  
+**2. Protocol-Level Performance Engineering** 
+Core developers in this specialization focus on blockchain clients (e.g., Go-[Ethereum](/what-is-ethereum) or Reth) to enhance the blockchain's performance. 
+- **Duties:** Their work includes optimizing the client’s database for improved read and write speeds, enhancing the consensus algorithm's efficiency, and accelerating transaction processing within the EVM. 
 - **Skills:** Systems programming expertise in **Rust** or **Go**, a solid understanding of database architecture, and knowledge of compiler design. This specialization aligns closely with the [Protocol Engineer role](/building-a-career-as-a-web3-blockchain-infrastructure-engineer).
 
-**3. Network Optimization Engineering**  
-These engineers concentrate on the peer-to-peer (P2P) networking layer of blockchain systems.  
-- **Duties:** Their primary goal is to minimize latency in transaction and block propagation across the global network of nodes. Reducing latency is vital for lowering the risk of reorgs and enhancing overall network reliability.  
+**3. Network Optimization Engineering** 
+These engineers concentrate on the peer-to-peer (P2P) networking layer of blockchain systems. 
+- **Duties:** Their primary goal is to minimize latency in transaction and block propagation across the global network of nodes. Reducing latency is vital for lowering the risk of reorgs and enhancing overall network reliability. 
 - **Skills:** A deep understanding of networking protocols (TCP/IP, UDP) and distributed systems is essential.
 
-**4. dApp Backend and Indexing Performance**  
-To ensure a dApp's frontend operates swiftly, its off-chain backend must function optimally.  
-- **Duties:** These engineers construct and refine indexing services that relay data from the blockchain to the user interface. Their responsibilities include optimizing database queries (SQL), building efficient caching layers, and ensuring the backend can manage high traffic loads.  
+**4. dApp Backend and Indexing Performance** 
+To ensure a dApp's frontend operates swiftly, its off-chain backend must function optimally. 
+- **Duties:** These engineers construct and refine indexing services that relay data from the blockchain to the user interface. Their responsibilities include optimizing database queries (SQL), building efficient caching layers, and ensuring the backend can manage high traffic loads. 
 - **Skills:** Expertise in traditional backend engineering (Node.js, Go), database optimization, and familiarity with indexing protocols like [The Graph](/your-first-subgraph-indexing-blockchain-data-with-the-graph).
 
 ### How to Get Started
@@ -46,4 +46,3 @@ To ensure a dApp's frontend operates swiftly, its off-chain backend must functio
 4. **Contribute to Open Source:** Identify a performance-related issue in an open-source project and submit a pull request with your solution. This practical experience validates your skills effectively.
 
 A career in performance engineering suits those who enjoy experimenting, measuring, and maximizing system efficiency. In the resource-limited environment of blockchain technology, these skills carry significant value.
-

@@ -32,11 +32,11 @@ Traditional verification processes often demand excessive personal information. 
 
 On-chain identity verification relies on several core Web3 components:
 
-| Component                     | Description                                                                                                                                                  |
+| Component | Description |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Decentralized Identifiers (DIDs)** | A DID serves as a globally unique identifier that users create and control. It acts as a permanent, self-sovereign address for individuals on the internet. |
 | **Verifiable Credentials (VCs)** | A VC is a tamper-proof digital claim about a DID, issued by a trusted source. For instance, a university might issue a VC confirming that a person holds a degree. |
-| **Blockchain as a Trust Anchor** | The blockchain functions as a public registry for DIDs and the public keys of issuers, allowing verification of credentials against a trusted source.          |
+| **Blockchain as a Trust Anchor** | The blockchain functions as a public registry for DIDs and the public keys of issuers, allowing verification of credentials against a trusted source. |
 
 ### How On-Chain Verification Works: A Practical Example
 
@@ -46,8 +46,8 @@ Consider a [DeFi](/what-is-defi) protocol that requires users to undergo a Know 
 2. **Issuance of a VC:** Upon successful verification, the issuer provides a **Verifiable Credential** to your DID, stating "The holder of `did:ethr:0x123...` has completed a KYC check." Importantly, this VC does not include your name or any sensitive personal information.
 3. **On-Chain Interaction:** You then access the DeFi protocol and present the VC stored in your wallet.
 4. **Verification:** The smart contract associated with the DeFi protocol performs two checks:
-   - It verifies the cryptographic signature of the VC to ensure authenticity.
-   - It confirms on the blockchain that the VC was issued by an approved KYC provider.
+ - It verifies the cryptographic signature of the VC to ensure authenticity.
+ - It confirms on the blockchain that the VC was issued by an approved KYC provider.
 5. **Access Granted:** If both checks validate, you gain access to the protocol without revealing your personal identity on-chain.
 
 ### The Benefits of On-Chain Identity
@@ -91,4 +91,3 @@ Avoid overwhelming yourself by attempting to change everything simultaneously. S
 #### Step 5: Measure and Adjust
 
 Regularly monitor your progress. Assess whether your changes yield results and adjust your strategy based on feedback. A continuous improvement mindset is vital for long-term success.
-

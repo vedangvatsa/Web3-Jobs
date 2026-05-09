@@ -50,4 +50,3 @@ The decentralized economy is reshaping employment and work structures.
 - **Micro-Economies:** Web3 games and social platforms cultivate internal micro-economies, generating new digital-native roles such as virtual asset traders, guild managers, and metaverse architects.
 
 Although still in its early stages, the Web3 digital economy presents a framework for a fairer and more equitable system. This new economy aims for a more balanced distribution of value, enabling users to have genuine ownership in the products they engage with and offering creators greater control over their work and careers.
-

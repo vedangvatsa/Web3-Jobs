@@ -22,14 +22,14 @@ Auditors primarily conduct security reviews or audits. This systematic process i
 
 **Audit Process Overview:**
 
-| Step                     | Description                                                                                                                                          |
+| Step | Description |
 |--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Scope Definition**     | Collaborate with the client to define which specific contracts and commits will undergo review.                                                    |
-| **Manual Code Review**   | Analyze the code line by line to identify known vulnerabilities and potential logic errors, requiring deep expertise in the language (typically [Solidity](/best-programming-languages-for-blockchain-development)) and the Ethereum Virtual Machine (EVM). |
+| **Scope Definition** | Collaborate with the client to define which specific contracts and commits will undergo review. |
+| **Manual Code Review** | Analyze the code line by line to identify known vulnerabilities and potential logic errors, requiring deep expertise in the language (typically [Solidity](/best-programming-languages-for-blockchain-development)) and the Ethereum Virtual Machine (EVM). |
 | **Static and Dynamic Analysis** | Use automated tools to enhance manual reviews. **Static Analysis** (e.g., Slither) scans for known anti-patterns, while **Fuzzing** (e.g., Foundry, Echidna) tests the contract with numerous random inputs to uncover edge cases. |
 | **Economic Model Analysis** | Analyze economic incentives for DeFi protocols to assess susceptibility to exploits like flash loans or oracle manipulation, even if the code is correct. |
-| **Reporting**            | Compile findings into a detailed audit report. Each finding includes a description of the vulnerability, its severity (Critical, High, Medium, Low), and recommendations for remediation. |
-| **Remediation and Review**| After the development team addresses identified issues, the auditor reviews the fixes to ensure they are correctly implemented.                      |
+| **Reporting** | Compile findings into a detailed audit report. Each finding includes a description of the vulnerability, its severity (Critical, High, Medium, Low), and recommendations for remediation. |
+| **Remediation and Review**| After the development team addresses identified issues, the auditor reviews the fixes to ensure they are correctly implemented. |
 
 ### Skills Required for Effective Auditing
 
@@ -45,27 +45,27 @@ Successful auditors must adopt an attacker’s mindset, constantly questioning h
 
 Becoming a respected auditor is a lengthy process where reputation is critical, built on demonstrated skills.
 
-**1. Master Solidity and the EVM**  
+**1. Master Solidity and the EVM** 
 Begin by achieving expert-level proficiency in Solidity. A strong foundation is essential for understanding how to secure smart contracts. Start with our guide to [Solidity for Beginners](/solidity-for-beginners), but recognize this as just the beginning.
 
-**2. Analyze Past Hacks**  
-Learning from the failures of others is critical.  
-- **Read Post-Mortems**: After a protocol hack, security firms often publish detailed analyses of the vulnerabilities. Review every one of them.  
+**2. Analyze Past Hacks** 
+Learning from the failures of others is critical. 
+- **Read Post-Mortems**: After a protocol hack, security firms often publish detailed analyses of the vulnerabilities. Review every one of them. 
 - **Investigate the Code**: Use Etherscan to examine the exact transaction that executed the exploit. Understanding how the attacker manipulated the contract’s state is important.
 
-**3. Compete in Capture the Flag (CTF) Challenges**  
-CTF competitions are integral to the security community, featuring gamified hacking challenges to find vulnerabilities in custom-built smart contracts.  
-- **Ethernaut (OpenZeppelin)**: A popular CTF for learning basic smart contract security.  
-- **Damn Vulnerable DeFi**: A more advanced CTF emphasizing DeFi-specific economic exploits.  
+**3. Compete in Capture the Flag (CTF) Challenges** 
+CTF competitions are integral to the security community, featuring gamified hacking challenges to find vulnerabilities in custom-built smart contracts. 
+- **Ethernaut (OpenZeppelin)**: A popular CTF for learning basic smart contract security. 
+- **Damn Vulnerable DeFi**: A more advanced CTF emphasizing DeFi-specific economic exploits. 
 - **Model CTF**: An annual event known for its complex challenges.
 
-**4. Create a Public [Portfolio](/building-web3-portfolio)**  
-- **Conduct Audits on Public Repositories**: Choose an interesting project on GitHub, perform an unofficial audit, and publish your findings in a well-crafted blog post.  
+**4. Create a Public [Portfolio](/building-web3-portfolio)** 
+- **Conduct Audits on Public Repositories**: Choose an interesting project on GitHub, perform an unofficial audit, and publish your findings in a well-crafted blog post. 
 - **Participate in Competitive Platforms**: Engage on platforms like Code4rena (C4) or Sherlock, where independent researchers audit code for bounties. Excelling in a C4 contest signals strong capabilities to potential employers.
 
-**5. Secure Employment**  
-- **Join Audit Firms**: The most common path involves employment at reputable audit firms such as Trail of Bits, OpenZeppelin, ConsenSys Diligence, or Spearbit.  
-- **In-House Security Teams**: Large protocols often maintain internal security teams.  
+**5. Secure Employment** 
+- **Join Audit Firms**: The most common path involves employment at reputable audit firms such as Trail of Bits, OpenZeppelin, ConsenSys Diligence, or Spearbit. 
+- **In-House Security Teams**: Large protocols often maintain internal security teams. 
 - **Independent/[Freelance](/how-to-start-freelancing-for-beginners)**: The top auditors can work independently, commanding significant fees for their services.
 
 A career as a smart contract auditor is among the most respected and challenging in Web3. It demands a commitment to lifelong learning and a dedication to securing the decentralized economy's future. For those equipped with the right mindset and technical skills, this role provides the opportunity to protect users and contribute to a safer Web3 ecosystem.
@@ -73,4 +73,3 @@ A career as a smart contract auditor is among the most respected and challenging
 ## Importance of Smart Contract Auditing
 
 Mastering auditing skills significantly influences professional success. In a rapidly changing work environment, individuals who excel in these areas stand out, command higher salaries, and advance more quickly. This trend is particularly evident in Web3 organizations, where effective communication and collaboration are vital.
-

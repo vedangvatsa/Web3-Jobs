@@ -18,7 +18,7 @@ This guide examines critical legal specialties in Web3, the unique challenges pr
 
 ### The Legal Frontiers of Web3
 
-Web3 lawyers operate at the forefront of evolving legal challenges. Their roles involve applying existing legal standards to emerging technologies.
+Web3 lawyers operate leading evolving legal challenges. Their roles involve applying existing legal standards to emerging technologies.
 
 **Key Areas of Practice:**
 
@@ -54,9 +54,8 @@ Web3 lawyers operate at the forefront of evolving legal challenges. Their roles 
 1. **Engage with the Community:** Immerse yourself in the Web3 ecosystem. Create a [wallet](/how-to-choose-a-crypto-wallet), use DeFi protocols, and participate in DAO voting. Direct experience is invaluable.
 2. **Focus Your Expertise:** Web3 encompasses a broad range of topics. If you specialize in securities law, aim to become an expert on the Howey Test. If your background is in IP law, concentrate on NFT licensing.
 3. **Establish a Public Track Record:** Your [resume](/how-to-build-a-web3-resume-that-stands-out) is less significant than your demonstrated expertise.
-   - **Actionable Step:** Launch a blog or Substack newsletter. Analyze recent SEC enforcement actions or explore legal questions related to new DAO structures. Public writing showcases your knowledge and serves as an effective marketing tool.
+ - **Actionable Step:** Launch a blog or Substack newsletter. Analyze recent SEC enforcement actions or explore legal questions related to new DAO structures. Public writing showcases your knowledge and serves as an effective marketing tool.
 4. **Network with Builders:** Connect with individuals actively involved in Web3, not just other legal professionals.
-   - **Actionable Step:** Participate in Discord channels for major protocols, engage in governance discussions, and attend Web3 hackathons. Offering your legal insights to teams can help establish valuable connections.
+ - **Actionable Step:** Participate in Discord channels for major protocols, engage in governance discussions, and attend Web3 hackathons. Offering your legal insights to teams can help establish valuable connections.
 
 For those who are intellectually curious and comfortable with uncharted territory, a career in Web3 provides the opportunity to be more than just a lawyer; it allows individuals to shape the digital economy.
-

@@ -60,4 +60,3 @@ In a future where your [wallet](/how-to-choose-a-crypto-wallet) serves as your i
 
 - **Future Focus:** This role will involve assisting projects and individuals in building and maintaining positive on-chain reputations.
 - **Skills Needed:** A combination of public relations, data analysis, and knowledge of [decentralized identity standards like Verifiable Credentials](/a-guide-to-verifiable-credentials-in-decentralized-identity) is important.
-

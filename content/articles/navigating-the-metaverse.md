@@ -19,13 +19,13 @@ The foundational technologies necessary for the metaverse are currently under de
 
 Several key attributes define a true metaverse, as envisioned by technologists:
 
-| Attribute                | Description                                                                                         |
+| Attribute | Description |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
-| **Persistence**          | The environment never "resets" or "pauses." It operates continuously, with real-time events occurring. |
-| **Synchronous and Live** | Events and interactions happen simultaneously for all users, creating a shared experience.          |
-| **Unlimited Users**      | The metaverse accommodates an unlimited number of concurrent users, each maintaining their own sense of presence. |
+| **Persistence** | The environment never "resets" or "pauses." It operates continuously, with real-time events occurring. |
+| **Synchronous and Live** | Events and interactions happen simultaneously for all users, creating a shared experience. |
+| **Unlimited Users** | The metaverse accommodates an unlimited number of concurrent users, each maintaining their own sense of presence. |
 | **Fully Functioning Economy** | Users can create, own, invest, sell, and earn from a diverse range of activities recognized by others. |
-| **Interoperability**     | Digital assets and identities can move freely across various virtual worlds, preventing user lock-in. |
+| **Interoperability** | Digital assets and identities can move freely across various virtual worlds, preventing user lock-in. |
 | **Diverse Platforms and Experiences** | It will consist of many experiences created by various developers, similar to the World Wide Web today. |
 
 ## Web3 as the Foundation for an Open Metaverse
@@ -58,10 +58,10 @@ The metaverse will feature a complex economy, with Web3 providing the necessary 
 
 While the ultimate vision remains a work in progress, various Web3 projects are laying the groundwork for an open metaverse.
 
-| Platform           | Description                                                                                     |
+| Platform | Description |
 |-------------------|-------------------------------------------------------------------------------------------------|
-| **Decentraland**   | One of the oldest platforms where users own land parcels as NFTs. Users can build diverse structures, governed by MANA token holders via a [DAO](/what-is-a-dao). |
-| **The Sandbox**    | A voxel-based virtual world emphasizing user-generated content. Provides tools for creating games and assets and monetizing them as NFTs and tokens. |
+| **Decentraland** | One of the oldest platforms where users own land parcels as NFTs. Users can build diverse structures, governed by MANA token holders via a [DAO](/what-is-a-dao). |
+| **The Sandbox** | A voxel-based virtual world emphasizing user-generated content. Provides tools for creating games and assets and monetizing them as NFTs and tokens. |
 | **Otherside by Yuga Labs** | An ambitious project from the creators of the Bored Ape Yacht Club, aiming to create a vast, interoperable world connecting various NFT communities. |
 
 ## Challenges Ahead
@@ -77,4 +77,3 @@ The metaverse represents one of the most ambitious concepts in contemporary tech
 ## Importance of Understanding the Metaverse
 
 Understanding the metaverse's implications is vital for professional success. In a dynamic work environment, individuals who grasp these concepts distinguish themselves, command higher salaries, and experience faster career advancement. This is especially true within Web3 organizations, where communication and collaboration are essential.
-

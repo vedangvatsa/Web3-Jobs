@@ -17,7 +17,7 @@ Smart contracts serve as the engines driving the [Web3](/what-is-web3) ecosystem
 Nick Szabo, a computer scientist and cryptographer, first introduced the concept of smart contracts in the 1990s, long before the launch of [Bitcoin](/what-is-bitcoin). However, smart contracts became feasible only with the emergence of [blockchain](/what-is-a-blockchain) technology, which provided a secure environment for their operation. Here’s a breakdown of their functionality:
 
 - **Coded Logic:** Developers use programming languages like **[Solidity](/solidity-for-beginners)** (for [Ethereum](/what-is-ethereum)) to write the logic of the contract. This code outlines the rules, conditions, and outcomes of the agreement. For instance, a contract might encode the logic: "IF Party A pays a specified amount, THEN release the digital art file to Party A."
-  
+
 - **Blockchain Deployment:** After coding, the contract is deployed to a blockchain, meaning it is uploaded and stored at a unique address on the distributed ledger. Once deployed, the smart contract is immutable; it cannot be altered or deleted, not even by its creator.
 
 - **Automatic Execution:** The smart contract remains idle on the blockchain until activated. When a user sends a transaction to the contract’s address that meets the defined conditions, the network of computers (nodes) executes the contract’s code. If the nodes agree on the outcome, the blockchain’s state updates, finalizing the transaction.
@@ -40,12 +40,12 @@ The strength of smart contracts derives from their intrinsic properties, which c
 
 Smart contracts underpin almost all decentralized applications (dApps). Their capacity to automate complex processes creates numerous career opportunities for skilled professionals.
 
-| Industry                     | Application Example                                            | Required Roles                               |
+| Industry | Application Example | Required Roles |
 |------------------------------|--------------------------------------------------------------|---------------------------------------------|
 | Decentralized Finance (DeFi) | Supports decentralized exchanges, lending protocols, stablecoins. | Solidity developers, security auditors, financial engineers. |
-| Supply Chain Management       | Tracks goods in transit; automates payments upon verification. | Logisticians, IoT specialists.              |
-| Insurance                     | Parametric insurance products that automate claims based on data. | Insurance analysts, data scientists.        |
-| Governance (DAOs)            | Manages voting and treasury funds for decentralized organizations. | Community managers, governance experts, DAO tooling developers. |
+| Supply Chain Management | Tracks goods in transit; automates payments upon verification. | Logisticians, IoT specialists. |
+| Insurance | Parametric insurance products that automate claims based on data. | Insurance analysts, data scientists. |
+| Governance (DAOs) | Manages voting and treasury funds for decentralized organizations. | Community managers, governance experts, DAO tooling developers. |
 
 ### Decentralized Finance (DeFi)
 
@@ -65,9 +65,8 @@ Smart contracts facilitate parametric insurance products. A flight insurance con
 
 ## Limitations and Risks
 
-Despite their advantages, smart contracts pose significant challenges. Their greatest asset, immutability, can also be a liability. A bug or vulnerability in the code is permanent and can be exploited by hackers, leading to catastrophic and irreversible financial losses. The infamous [DAO](/what-is-a-dao) hack of 2016 exemplifies this risk. Consequently, the role of the **[smart contract security auditor](/smart-contract-auditor-career)** has emerged as one of the most critical and sought-after positions in the Web3 sector. Additionally, integrating smart contracts with real-world data (e.g., weather conditions, price feeds) requires trusted **[oracles](/what-are-oracles)**, introducing potential centralization risks and attack vectors.
+Despite their advantages, smart contracts pose significant challenges. Their greatest asset, immutability, can also be a liability. A bug or vulnerability in the code is permanent and can be exploited by hackers, leading to catastrophic and irreversible financial losses. The infamous [DAO](/what-is-a-dao) hack of 2016 exemplifies this risk. Consequently, the role of the **[smart contract security auditor](/smart-contract-auditor-career)** has emerged as one of the most critical and sought-after positions in the Web3 sector. integrating smart contracts with real-world data (e.g., weather conditions, price feeds) requires trusted **[oracles](/what-are-oracles)**, introducing potential centralization risks and attack vectors.
 
 ## The Future of Smart Contracts
 
 Smart contracts signify a significant evolution in creating and enforcing agreements. They facilitate systems that are more transparent, efficient, and equitable. While the technology is still developing and associated risks are considerable, the ability to automate complex multi-party workflows without relying on a trusted intermediary represents a substantial advancement. As development tools improve and security practices become more standardized, smart contracts will become the programmatic backbone of the next generation of the internet, creating a new digital economy and generating opportunities for skilled professionals.
-

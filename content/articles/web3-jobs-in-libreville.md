@@ -18,12 +18,12 @@ The Web3 ecosystem in Libreville distinguishes itself through its emphasis on su
 
 Libreville's Web3 environment reflects Gabon's identity as a "carbon positive" nation, using this status for economic growth.
 
-| Key Features                | Description                                                                                  |
+| Key Features | Description |
 |-----------------------------|----------------------------------------------------------------------------------------------|
-| **Leadership in ReFi**      | Gabon actively issues carbon credits on the blockchain and is exploring how to tokenize its natural resources. Projects include sustainable forestry initiatives and biodiversity credits. |
-| **Collaborative Efforts**    | The Web3 sector is bolstered by partnerships with the Gabonese government, NGOs such as The Nature Conservancy, and international organizations. |
-| **Tokenization of Assets**   | The primary focus centers on the tokenization of environmental assets, necessitating expertise in both carbon credit science and financial engineering. |
-| **Impact-Driven Talent**     | Libreville attracts professionals passionate about Web3 and climate solutions, including conservationists, climate scientists, financial engineers, and policy experts. |
+| **Leadership in ReFi** | Gabon actively issues carbon credits on the blockchain and is exploring how to tokenize its natural resources. Projects include sustainable forestry initiatives and biodiversity credits. |
+| **Collaborative Efforts** | The Web3 sector is bolstered by partnerships with the Gabonese government, NGOs such as The Nature Conservancy, and international organizations. |
+| **Tokenization of Assets** | The primary focus centers on the tokenization of environmental assets, necessitating expertise in both carbon credit science and financial engineering. |
+| **Impact-Driven Talent** | Libreville attracts professionals passionate about Web3 and climate solutions, including conservationists, climate scientists, financial engineers, and policy experts. |
 
 ### In-Demand Roles and Salary Expectations
 
@@ -31,17 +31,17 @@ The job market in Libreville is specialized, seeking professionals with backgrou
 
 #### Roles and Compensation
 
-| Role                                               | Description                                                                                             | Salary Range (Monthly)                   |
+| Role | Description | Salary Range (Monthly) |
 |----------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------|
-| **ReFi / RWA Product Manager**                     | Responsible for designing systems for tokenizing and trading environmental assets.                      | Competitive, aligned with global standards |
-| **Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer)** | Focuses on building the technical framework for compliant and secure real-world asset tokenization.    | Highly competitive, contract or consulting basis |
-| **Policy and Partnerships Manager**                | Manages relationships between Web3 projects, the Gabonese government, and international organizations.   | Competitive, based on experience          |
-| **Data Analyst (for MRV)**                         | Works with data for Monitoring, Reporting, and Verification (MRV) of environmental projects.            | Competitive, based on experience          |
+| **ReFi / RWA Product Manager** | Responsible for designing systems for tokenizing and trading environmental assets. | Competitive, aligned with global standards |
+| **Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer)** | Focuses on building the technical framework for compliant and secure real-world asset tokenization. | Highly competitive, contract or consulting basis |
+| **Policy and Partnerships Manager** | Manages relationships between Web3 projects, the Gabonese government, and international organizations. | Competitive, based on experience |
+| **Data Analyst (for MRV)** | Works with data for Monitoring, Reporting, and Verification (MRV) of environmental projects. | Competitive, based on experience |
 
 ### Building a Career in Libreville's Web3 Scene
 
 1. **Develop Expertise in ReFi and Carbon Markets:** A thorough understanding of carbon credit mechanisms, MRV challenges, and tokenized environmental assets is important for entering the field.
-   
+
 2. **Integrate Environmental and Web3 Knowledge:** Establish a portfolio that showcases your ability to connect these domains. Consider writing analyses of ReFi protocols or proposing models for tokenizing biodiversity credits.
 
 3. **Network Globally:** Engage with influential projects and thought leaders in the ReFi space on platforms like Twitter and at international climate and Web3 conferences.
@@ -52,20 +52,20 @@ The job market in Libreville is specialized, seeking professionals with backgrou
 
 ### Local Opportunities
 
-| Position                                         | Salary Range (Monthly)                                        |
+| Position | Salary Range (Monthly) |
 |--------------------------------------------------|--------------------------------------------------------------|
-| **ReFi Project Coordinator (International NGO)** | Competitive within local standards                           |
-| **Junior Blockchain Developer**                   | Competitive within local standards                           |
-| **Environmental Data Analyst**                    | Competitive within local standards                           |
+| **ReFi Project Coordinator (International NGO)** | Competitive within local standards |
+| **Junior Blockchain Developer** | Competitive within local standards |
+| **Environmental Data Analyst** | Competitive within local standards |
 
 ### Remote Opportunities
 
-| Position                                         | Salary Range (Monthly)                                        |
+| Position | Salary Range (Monthly) |
 |--------------------------------------------------|--------------------------------------------------------------|
-| **ReFi Product Manager**                          | Competitive, requires substantial ReFi knowledge            |
-| **Senior ReFi Developer**                         | Competitive                                                 |
-| **Climate Data Specialist**                       | Competitive                                                 |
-| **Community Manager (ReFi Focus)**               | Competitive                                                 |
+| **ReFi Product Manager** | Competitive, requires substantial ReFi knowledge |
+| **Senior ReFi Developer** | Competitive |
+| **Climate Data Specialist** | Competitive |
+| **Community Manager (ReFi Focus)** | Competitive |
 
 ### Cost of Living Considerations
 
@@ -76,22 +76,22 @@ While Libreville's cost of living is generally higher than many other African ci
 ### Path 1: ReFi Developer Specialist (Carbon Markets Focus) (9-18 Month Timeline)
 
 1. **Months 1-4: Master Carbon Markets & ReFi Fundamentals**
-   - Study the Kyoto Protocol, Paris Agreement, and VCS standards.
-   - Analyze existing ReFi projects like Toucan Protocol and Nori.
-   - Learn MRV methodologies and design smart contracts for carbon credits.
-   - Build a prototype for a carbon credit ERC-20 contract.
+ - Study the Kyoto Protocol, Paris Agreement, and VCS standards.
+ - Analyze existing ReFi projects like Toucan Protocol and Nori.
+ - Learn MRV methodologies and design smart contracts for carbon credits.
+ - Build a prototype for a carbon credit ERC-20 contract.
 
 2. **Months 5-9: Build Specialized Portfolio**
-   - Investigate the architecture of Toucan Protocol's TCO2.
-   - Create a transparent carbon credit marketplace.
-   - Contribute to open-source ReFi projects.
+ - Investigate the architecture of Toucan Protocol's TCO2.
+ - Create a transparent carbon credit marketplace.
+ - Contribute to open-source ReFi projects.
 
 3. **Months 10-15: Secure a Senior ReFi Role**
-   - Apply to ReFi protocols and DAOs, highlighting your Central Africa context.
-   - Transition to a full-time senior role with expected compensation aligned with market standards.
+ - Apply to ReFi protocols and DAOs, highlighting your Central Africa context.
+ - Transition to a full-time senior role with expected compensation aligned with market standards.
 
 4. **Months 16-18: Establish Thought Leadership**
-   - Publish research reports and consult with Central African governments on blockchain carbon accounting.
+ - Publish research reports and consult with Central African governments on blockchain carbon accounting.
 
 **Quick Wins:**
 - Write analyses on top ReFi projects to gain visibility.
@@ -100,17 +100,17 @@ While Libreville's cost of living is generally higher than many other African ci
 ### Path 2: Impact Investment / ReFi DAO Operator (Climate Finance Focus) (8-16 Month Timeline)
 
 1. **Months 1-3: Understand Climate Finance Deeply**
-   - Research climate finance markets and impact investing fundamentals.
-   - Analyze Gabon's context regarding payment for ecosystem services and REDD+ programs.
+ - Research climate finance markets and impact investing fundamentals.
+ - Analyze Gabon's context regarding payment for ecosystem services and REDD+ programs.
 
 2. **Months 4-6: Build a ReFi DAO Proposal**
-   - Identify an opportunity for tokenized conservation bonds and draft a detailed proposal.
+ - Identify an opportunity for tokenized conservation bonds and draft a detailed proposal.
 
 3. **Months 7-10: Launch DAO or Join a ReFi Fund**
-   - Either launch a small DAO or join an established fund as an investment manager.
+ - Either launch a small DAO or join an established fund as an investment manager.
 
 4. **Months 11-16: Scale Impact**
-   - Deploy capital to fund various environmental projects and track their impact metrics.
+ - Deploy capital to fund various environmental projects and track their impact metrics.
 
 **Quick Wins:**
 - Serve as an advisor for ReFi startups.
@@ -118,16 +118,16 @@ While Libreville's cost of living is generally higher than many other African ci
 ### Path 3: ReFi Data Scientist & MRV Specialist (8-14 Month Timeline)
 
 1. **Months 1-4: Master MRV & Environmental Data**
-   - Study MRV methodologies and analyze satellite imagery for forest monitoring.
+ - Study MRV methodologies and analyze satellite imagery for forest monitoring.
 
 2. **Months 5-8: Build Portfolio Projects**
-   - Track forest coverage changes in Gabon using satellite data and verify carbon credit authenticity.
+ - Track forest coverage changes in Gabon using satellite data and verify carbon credit authenticity.
 
 3. **Months 9-12: Specialize in ReFi Infrastructure**
-   - Understand oracle design and network with data science teams at leading ReFi organizations.
+ - Understand oracle design and network with data science teams at leading ReFi organizations.
 
 4. **Months 13-14: Secure a Senior Data Role**
-   - Expect offers aligned with market standards.
+ - Expect offers aligned with market standards.
 
 **Quick Wins:**
 - Participate in competitions focused on environmental data.
@@ -176,4 +176,3 @@ While Libreville's cost of living is generally higher than many other African ci
 **Expected Outputs:**
 - Completed projects and published articles demonstrating your capabilities.
 - Established connections and a clear understanding of your specialization within the ReFi space.
-

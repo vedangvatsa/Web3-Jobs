@@ -31,7 +31,7 @@ Solidity is the primary language associated with Web3 development.
 
 ### The Challenger: Rust
 
-While Solidity leads in the EVM domain, Rust has gained traction as the preferred language for several next-generation, high-performance blockchains.
+While Solidity leads in the EVM domain, Rust has gained traction as the preferred language for several modern, high-performance blockchains.
 
 - **Overview:** Rust is a modern systems programming language developed by Mozilla. It emphasizes performance, memory safety, and concurrency. Unlike Solidity, Rust is a general-purpose language that has been embraced by the Web3 community.
 - **Usage:** Rust serves as the main language for writing smart contracts on blockchain platforms like Solana, Near, and Polkadot. It is also instrumental in developing core clients for these blockchains.
@@ -68,8 +68,7 @@ After mastering Solidity, learning Rust becomes more manageable. Key concepts of
 | Step | Focus Area | Description |
 |------|------------|-------------|
 | 1 | JavaScript/TypeScript & React | Build a strong foundation in modern web development. |
-| 2 | Solidity | Dive deep into smart contracts, mastering the language, tooling (like Foundry or Hardhat), and security best practices. |
+| 2 | Solidity | explore smart contracts, mastering the language, tooling (like Foundry or Hardhat), and security best practices. |
 | 3 | Rust | Once comfortable with Solidity, explore Rust to expand your horizons and engage with high-performance blockchain ecosystems. |
 
 The Web3 development field is dynamic and rewarding. By choosing the right languages and following a structured learning path, you can prepare to build the next generation of decentralized applications.
-

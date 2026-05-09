@@ -18,21 +18,21 @@ Regardless of whether you took time off for travel, family commitments, health i
 
 Employers often appreciate transparency, so consider these strategies to format your resume effectively while being truthful.
 
-**1. Use Years Instead of Months**  
+**1. Use Years Instead of Months** 
 If your gap is less than a year, adjust your employment dates to reflect only the years. For instance, instead of stating "Software Engineer, Acme Corp (June 2021 - January 2022)," you could write "Software Engineer, Acme Corp (2021 - 2022)." This minor adjustment makes short gaps less conspicuous.
 
-**2. Create a "Career Break" Section**  
+**2. Create a "Career Break" Section** 
 For longer gaps, address them directly by adding a dedicated section to your resume. You might label it "Professional Development Sabbatical" or "Career Break for Family Care." Under this heading, briefly detail what you accomplished during this period.
 
 **Example:**
 
-| Duration           | Description                                                                                                            |
+| Duration | Description |
 |--------------------|------------------------------------------------------------------------------------------------------------------------|
 | **Professional Development Sabbatical (2022 - 2023)** | Completed an online bootcamp in [Web3](/what-is-web3) development, focusing on [Solidity](/best-programming-languages-for-blockchain-development) and React.<br>Built and deployed three personal projects, including a decentralized voting application.<br>Actively contributed to open-source [DeFi](/what-is-defi) protocols. |
 
 This approach transforms a potential concern into a demonstration of your initiative and commitment to learning.
 
-**3. Focus on a Functional Resume Format**  
+**3. Focus on a Functional Resume Format** 
 While chronological resumes are the norm, consider a functional or combination format if you have notable gaps. This style emphasizes skills and achievements at the top, followed by your work history. Such a layout directs attention to your capabilities rather than the timeline of your employment.
 
 ### Discussing Gaps in Your Cover Letter
@@ -61,13 +61,13 @@ Career gaps can be integral to your professional narrative. By effectively frami
 
 ### Frequently Asked Questions (FAQs)
 
-**What if I was laid off? How do I explain that gap?**  
+**What if I was laid off? How do I explain that gap?** 
 Laid-off employees are common in fluctuating industries, particularly in tech. Address it directly and professionally: "My previous company underwent a restructuring, and my role was eliminated along with several others." This explanation frames the situation as a business decision rather than a reflection of your abilities.
 
-**Is it acceptable to lie about an employment gap?**  
+**Is it acceptable to lie about an employment gap?** 
 No. Never falsify information on your resume or during an interview. Background checks can easily uncover inconsistencies, and being discovered in a lie can severely damage your career. Honesty and confidence are always the best policies.
 
-**How long of a gap is considered a red flag?**  
+**How long of a gap is considered a red flag?** 
 Perceptions regarding employment gaps have shifted significantly. Short gaps of a few months typically do not raise concerns. For gaps lasting six months or longer, hiring managers may inquire further, highlighting the importance of having a clear and positive explanation of how you used that time.
 
 ### Practical Steps to Frame Your Career Break
@@ -83,4 +83,3 @@ To effectively communicate the value of your career break, consider the followin
 4. **Seek Feedback**: Consider discussing your narrative with trusted colleagues or mentors. Their insights can help refine your approach.
 
 5. **Stay Positive**: Maintain an optimistic attitude when discussing your career break. Positivity can influence how others perceive your experiences.
-

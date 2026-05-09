@@ -24,9 +24,9 @@ Creating a Web3 game involves designing a functional micro-economy rather than j
 
 Understanding the distinction between on-chain and off-chain logic is critical. Not all game mechanics belong on the [blockchain](/what-is-a-blockchain), and a key skill involves determining which elements should be decentralized and which should remain on traditional servers.
 
-| Logic Type    | On-Chain Examples                                         | Off-Chain Examples                     |
+| Logic Type | On-Chain Examples | Off-Chain Examples |
 |---------------|----------------------------------------------------------|----------------------------------------|
-| Game Elements | Asset ownership (NFTs), high-value trades, core actions  | Fast-paced gameplay, physics engines, social features |
+| Game Elements | Asset ownership (NFTs), high-value trades, core actions | Fast-paced gameplay, physics engines, social features |
 
 #### Security
 
@@ -57,5 +57,4 @@ Begin by immersing yourself in the Web3 gaming experience. Play existing Web3 ga
 
 Develop a straightforward game featuring at least one on-chain element. For instance, create a character whose primary weapon is an NFT that can be equipped or traded.
 
-A career in Web3 game development positions you at the forefront of an evolving interactive entertainment field, where players become true owners rather than mere users.
-
+A career in Web3 game development positions you leading an evolving interactive entertainment field, where players become true owners rather than mere users.

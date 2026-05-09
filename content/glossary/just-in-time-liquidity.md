@@ -6,15 +6,15 @@ difficulty: advanced
 image: "https://images.unsplash.com/photo-1642093154166-41b66565c96f?w=1200&q=80"
 description: Just-in-Time (JIT) liquidity is a sophisticated MEV strategy where liquidity providers add concentrated liquidity immediately before a large trade executes and remove it immediately after, capturing trading fees while minimizing impermanent loss exposure. This practice is controversial as it can harm passive LPs.
 relatedTerms:
-  - concentrated-liquidity
-  - mev
-  - liquidity-provider
-  - frontrunning
-  - sandwich-attack
+ - concentrated-liquidity
+ - mev
+ - liquidity-provider
+ - frontrunning
+ - sandwich-attack
 synonyms:
-  - JIT liquidity
-  - Flash liquidity
-  - MEV liquidity sniping
+ - JIT liquidity
+ - Flash liquidity
+ - MEV liquidity sniping
 ---
 
 - **Just-in-Time (JIT) liquidity** is an advanced MEV extraction strategy on concentrated liquidity DEXs, primarily Uniswap V3, where actors add liquidity immediately before a large trade executes and remove it immediately after. This allows them to capture a share of trading fees while minimizing impermanent loss. JIT liquidity providers essentially "snipe" fee revenue from passive liquidity providers who maintain positions over longer time periods.
@@ -230,7 +230,7 @@ Passive LPs can adapt to JIT competition:
 
 JIT liquidity will likely evolve as protocols adapt:
 
-- **Protocol-Level Mitigations**: Increased adoption of time-weighted fees and minimum durations in next-generation DEXs.
+- **Protocol-Level Mitigations**: Increased adoption of time-weighted fees and minimum durations in modern DEXs.
 
 - **Encrypted Mempools**: Wider adoption of encrypted transaction pools preventing JIT bots from seeing trades.
 

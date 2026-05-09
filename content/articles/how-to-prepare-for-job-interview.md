@@ -22,12 +22,12 @@ The preparation you undertake prior to the interview carries as much weight as t
 
 Gain a complete understanding of the company you are interviewing with. 
 
-| Key Areas                  | Details                                                                 |
+| Key Areas | Details |
 |---------------------------|-------------------------------------------------------------------------|
-| **What do they do?**      | Investigate their products, services, and business model.              |
-| **Mission and culture**    | Examine their "About Us" page, blog, and social media to capture their values. |
-| **Competitors**            | Identify their main competitors to demonstrate your industry understanding. |
-| **Recent news**            | Look for any recent product launches or news articles to discuss during the interview. |
+| **What do they do?** | Investigate their products, services, and business model. |
+| **Mission and culture** | Examine their "About Us" page, blog, and social media to capture their values. |
+| **Competitors** | Identify their main competitors to demonstrate your industry understanding. |
+| **Recent news** | Look for any recent product launches or news articles to discuss during the interview. |
 
 Being informed about the company shows your engagement and interest.
 
@@ -132,4 +132,3 @@ Avoid attempting to overhaul everything simultaneously. Start with manageable ch
 #### Step 5: Measure and Adjust
 
 Regularly assess your progress. Are you observing results? Adapt your strategy based on feedback and outcomes. Adopting a continuous improvement mindset is key to success.
-

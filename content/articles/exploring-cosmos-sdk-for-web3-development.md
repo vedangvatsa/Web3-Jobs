@@ -30,28 +30,28 @@ The Cosmos SDK addresses these challenges by offering a modular framework that e
 
 Written in the **Go [programming language](/best-programming-languages-for-blockchain-development)**, the SDK includes pre-built, standard modules for common blockchain functionalities, such as:
 
-| Module        | Functionality Description                                      |
+| Module | Functionality Description |
 |---------------|---------------------------------------------------------------|
-| **Staking**   | Manages staking, delegation, and validator logic for PoS networks. |
-| **Auth**      | Handles account management and signature verification.        |
-| **Bank**      | Manages token transfers between accounts.                     |
-| **Gov**       | Facilitates on-chain governance processes.                    |
-| **IBC**       | Inter-Blockchain Communication module, essential for interoperability. |
+| **Staking** | Manages staking, delegation, and validator logic for PoS networks. |
+| **Auth** | Handles account management and signature verification. |
+| **Bank** | Manages token transfers between accounts. |
+| **Gov** | Facilitates on-chain governance processes. |
+| **IBC** | Inter-Blockchain Communication module, essential for interoperability. |
 
 Developers can also create custom modules to define specific application logic. For instance, a decentralized exchange built using the Cosmos SDK might implement a module that manages its order book or liquidity pools directly on the blockchain, enhancing efficiency compared to handling these functions through smart contracts.
 
 ### Core Components of the Cosmos Ecosystem
 
-**1. Tendermint Core:**  
+**1. Tendermint Core:** 
 Tendermint serves as the consensus engine for Cosmos SDK blockchains. Its Byzantine Fault Tolerant (BFT) consensus algorithm manages both networking and consensus, ensuring all validators agree on transaction ordering. The Cosmos SDK takes care of the application layer, while Tendermint focuses on consensus.
 
-**2. Inter-Blockchain Communication Protocol (IBC):**  
+**2. Inter-Blockchain Communication Protocol (IBC):** 
 IBC is a key feature of the Cosmos ecosystem. This standardized protocol facilitates communication between independent blockchains. 
 
 - **Functionality:** IBC enables one chain to monitor the state of another through a lightweight "light client," allowing for the transfer of tokens and arbitrary data between IBC-enabled chains.
 - **Interconnected Ecosystem:** This functionality creates a web of chains optimized for specific purposes. For example, a user could use assets from a [DeFi](/what-is-defi)-focused chain (such as Kava) to purchase an [NFT](/what-are-nfts) on a gaming chain, all facilitated by IBC.
 
-**3. The Cosmos Hub and the ATOM Token:**  
+**3. The Cosmos Hub and the ATOM Token:** 
 The Cosmos Hub, the first blockchain in the Cosmos network, employs ATOM as its native token. The Hub acts as a central router for the ecosystem, providing security and facilitating interoperability among connected chains, referred to as "Zones." ATOM holders can stake their tokens to secure the Hub and participate in governance decisions.
 
 ### Using the Cosmos SDK for Development
@@ -63,4 +63,3 @@ The Cosmos Hub, the first blockchain in the Cosmos network, employs ATOM as its 
 ### The Cosmos Vision: An Ecosystem of Sovereign, Interoperable Chains
 
 The Cosmos SDK embodies a forward-thinking vision for Web3. Instead of relying on a single, monolithic chain where applications vie for resources, Cosmos promotes a collaborative ecosystem of thousands of interconnected, application-specific blockchains. This modular approach provides a useful toolkit for developers who want to expand the boundaries of blockchain technology. For those skilled in Go and interested in distributed systems, the Cosmos ecosystem offers many opportunities to develop the infrastructure for a multichain future.
-

@@ -6,15 +6,15 @@ difficulty: intermediate
 image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&q=80"
 description: An Optimistic rollup is a Layer 2 scaling solution that assumes transactions are valid by default (hence "optimistic") and only runs computation to prove fraud if someone challenges a state transition. This approach enables high throughput and EVM compatibility while maintaining Ethereum security through fraud proofs and a challenge period.
 relatedTerms:
-  - rollup
-  - fraud-proof
-  - layer-2
-  - arbitrum
-  - optimism
+ - rollup
+ - fraud-proof
+ - layer-2
+ - arbitrum
+ - optimism
 synonyms:
-  - Optimistic L2
-  - OR
-  - Fraud-proof rollup
+ - Optimistic L2
+ - OR
+ - Fraud-proof rollup
 ---
 
 An **Optimistic rollup** is a **Layer 2 scaling solution that optimistically assumes all transactions are valid** unless proven otherwise through a fraud proof mechanism. Rather than verifying every transaction on Ethereum L1, Optimistic rollups post transaction data to L1 and only require verification if someone disputes a state transition during a challenge period (typically 7 days).

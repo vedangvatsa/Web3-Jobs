@@ -38,4 +38,3 @@ Avalanche's **subnet architecture** stands out as a powerful feature. A subnet i
 - **Use Case:** This feature is particularly useful for large-scale applications, such as [Web3](/what-is-web3) games or enterprise solutions, which require dedicated throughput without competing for blockspace with other applications on the main C-Chain.
 
 Avalanche presents a distinct and new vision for a scalable and customizable blockchain environment. Its multi-chain architecture and consensus mechanism deliver a high-performance platform for [DeFi](/what-is-defi), while its subnet model meets the needs of projects requiring their own sovereign, application-specific blockchain.
-

@@ -35,7 +35,7 @@ A basic liquidity pool (like Uniswap V2) contains two tokens, for example, ETH a
 
 Where:
 - x = amount of token A
-- y = amount of token B  
+- y = amount of token B 
 - k = constant
 
 If someone buys ETH with USDC:
@@ -74,9 +74,9 @@ If you provide 1% of a pool's liquidity, you earn 1% of all trading fees.
 
 Different protocols use different fee tiers:
 
-- **Uniswap V2**: 0.3% per trade  
-- **Uniswap V3**: 0.01%, 0.05%, 0.3%, or 1% (LPs choose based on pair volatility)  
-- **Curve**: 0.04% (optimized for stablecoins)  
+- **Uniswap V2**: 0.3% per trade 
+- **Uniswap V3**: 0.01%, 0.05%, 0.3%, or 1% (LPs choose based on pair volatility) 
+- **Curve**: 0.04% (optimized for stablecoins) 
 - **Balancer**: Customizable (0.0001% to 10%)
 
 Fees go entirely to LPs, except some protocols taking small percentages for treasury or token holders.

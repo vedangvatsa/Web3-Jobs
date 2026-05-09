@@ -38,23 +38,22 @@ A paper wallet should function as a one-time savings device. Once you sweep the 
 
 ### Advantages
 
-| Advantages                     | Description                                                                                          |
+| Advantages | Description |
 |--------------------------------|------------------------------------------------------------------------------------------------------|
-| Offline Security                | When created correctly on an air-gapped machine, the private key remains entirely offline, protecting it from online threats such as hacking and phishing. |
-| Simplicity                     | The concept is straightforward; it serves as a physical backup of your keys.                        |
+| Offline Security | When created correctly on an air-gapped machine, the private key remains entirely offline, protecting it from online threats such as hacking and phishing. |
+| Simplicity | The concept is straightforward; it serves as a physical backup of your keys. |
 
 ### Disadvantages
 
-| Disadvantages                  | Description                                                                                          |
+| Disadvantages | Description |
 |--------------------------------|------------------------------------------------------------------------------------------------------|
-| Physical Vulnerability          | The medium itself is fragile. Paper can be easily lost, damaged by water or fire, or fade over time.|
-| Risk of Human Error            | Errors can occur during creation or usage. Generating keys on a non-secure computer risks exposure. Mistakes while sweeping the key can lead to loss of funds. |
-| Not User-Friendly              | Paper wallets are cumbersome to use. You typically must sweep the entire balance rather than spending portions. |
-| No Seed Phrase                 | Unlike modern wallets that use a hierarchical deterministic (HD) structure, a paper wallet consists of a single key pair without a recovery seed phrase. |
+| Physical Vulnerability | The medium itself is fragile. Paper can be easily lost, damaged by water or fire, or fade over time.|
+| Risk of Human Error | Errors can occur during creation or usage. Generating keys on a non-secure computer risks exposure. Mistakes while sweeping the key can lead to loss of funds. |
+| Not User-Friendly | Paper wallets are cumbersome to use. You typically must sweep the entire balance rather than spending portions. |
+| No Seed Phrase | Unlike modern wallets that use a hierarchical deterministic (HD) structure, a paper wallet consists of a single key pair without a recovery seed phrase. |
 
 ## The Modern Alternative: Hardware Wallets
 
-Hardware wallets, such as Ledger and Trezor, have largely supplanted paper wallets. These devices offer the same primary benefit of keeping private keys offline in a more secure and user-friendly format. A hardware wallet is a dedicated electronic device designed to sign transactions without exposing the private key to the connected computer. Additionally, it provides a backup seed phrase for easy recovery in case the device is lost or damaged.
+Hardware wallets, such as Ledger and Trezor, have largely supplanted paper wallets. These devices offer the same primary benefit of keeping private keys offline in a more secure and user-friendly format. A hardware wallet is a dedicated electronic device designed to sign transactions without exposing the private key to the connected computer. it provides a backup seed phrase for easy recovery in case the device is lost or damaged.
 
 Although their use has declined, paper wallets remain an important part of cryptocurrency history. They represent early efforts to ensure secure self-custody and illustrate the fundamental relationship between public and private keys.
-

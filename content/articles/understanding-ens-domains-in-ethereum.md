@@ -41,7 +41,7 @@ This makes your `.eth` name a central hub for your **[decentralized identity](/d
 Every ENS name functions as an **[NFT (Non-Fungible Token)](/what-are-nfts)** that adheres to the ERC-721 standard. This status brings several important implications:
 
 - **True Ownership:** Registering an ENS name grants you full ownership of that NFT. It resides in your wallet, and you maintain complete control over it.
-- **Tradability:** As an NFT, you can buy, sell, or trade your ENS name on any NFT marketplace, similar to digital art. This capability has created a vibrant secondary market for rare or desirable `.eth` names.
+- **Tradability:** As an NFT, you can buy, sell, or trade your ENS name on any NFT marketplace, similar to digital art. This capability has created a active secondary market for rare or desirable `.eth` names.
 - **Registration and Renewal:** To obtain an ENS name, you register it for a specified duration (typically one year or more) by paying a fee in ETH. To retain the name, you must renew your registration before it expires. This fee structure discourages indefinite squatting on names.
 
 ### The Role of ENS in Facilitating Web3 Adoption
@@ -50,5 +50,4 @@ ENS is important for making Web3 more accessible. By replacing long, unreadable 
 
 ## The Importance of Understanding ENS
 
-Mastering the concept of ENS is essential for professionals in the blockchain and crypto space. As organizations increasingly rely on digital identities, those who understand ENS can improve their communication and streamline transactions. In Web3, where collaboration often depends on clarity and ease of use, ENS expertise can lead to better job opportunities and career advancement.
-
+Mastering the concept of ENS is essential for professionals in the blockchain and crypto space. As organizations increasingly rely on digital identities, those who understand ENS can improve their communication and simplify transactions. In Web3, where collaboration often depends on clarity and ease of use, ENS expertise can lead to better job opportunities and career advancement.

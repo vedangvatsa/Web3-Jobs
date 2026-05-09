@@ -27,11 +27,11 @@ The Web3 environment in Banjul is influenced significantly by the government's d
 
 While the formal Web3 job market in Banjul is limited, several opportunities exist across three primary sectors:
 
-| Role Type                             | Description                                                                                           | Salary Range           |
+| Role Type | Description | Salary Range |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------|
-| Government & NGO Pilot Projects       | Positions for consultants, project managers, and developers on blockchain initiatives funded by international partners. | Significant range based on project funding |
-| Remote Work                           | For local talent, acquiring globally sought-after skills, such as [Solidity](/best-programming-languages-for-blockchain-development), allows for remote work with international firms. | Significant range based on experience |
-| Entrepreneurship                       | Founders can establish the first Gambian Web3 startups, particularly in FinTech and remittance.       | Highly variable; potential for significant earnings based on success. |
+| Government & NGO Pilot Projects | Positions for consultants, project managers, and developers on blockchain initiatives funded by international partners. | Significant range based on project funding |
+| Remote Work | For local talent, acquiring globally sought-after skills, such as [Solidity](/best-programming-languages-for-blockchain-development), allows for remote work with international firms. | Significant range based on experience |
+| Entrepreneurship | Founders can establish the first Gambian Web3 startups, particularly in FinTech and remittance. | Highly variable; potential for significant earnings based on success. |
 
 ### Building a Web3 Career in Banjul
 
@@ -108,7 +108,7 @@ A CBDC would:
 - Enhance financial inclusion by enabling every Gambian to have a digital [wallet](/how-to-choose-a-crypto-wallet).
 - Support government transparency, thereby reducing corruption in fund management.
 - Modernize payment systems.
-- Elevate The Gambia's status as a fintech leader on the international stage.
+- improve The Gambia's status as a fintech leader on the international stage.
 
 ### Career Opportunities in CBDC Development
 
@@ -147,4 +147,3 @@ Blockchain-based identity systems can:
 - **Privacy Engineers:** Safeguard identity data.
 - **UX Designers:** Ensure identity systems are user-friendly for non-technical citizens.
 - **Policy Advocates:** Promote government adoption of blockchain-based identity solutions.
-

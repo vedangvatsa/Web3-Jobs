@@ -25,8 +25,8 @@ Creating a modern LLM involves several critical steps:
 2. **Training the Base Model**: The gathered text data is used to train a base model through an unsupervised learning methodology. The model receives text with certain words omitted and must predict these missing words. This process is repeated many times, enabling the model to grasp statistical relationships between words and concepts. This pre-training is computationally demanding, often taking months and requiring significant resources to complete using specialized GPU clusters. The outcome is a strong base model with a general comprehension of language, albeit lacking proficiency in instruction adherence.
 
 3. **Fine-Tuning for Instruction Adherence**: Fine-tuning enhances the model's ability to function as an effective assistant through supervised learning.
-   - **Supervised Fine-Tuning (SFT)**: Humans compile high-quality datasets consisting of instruction-response pairs. The model trains on this data to learn to follow instructions correctly.
-   - **Reinforcement Learning with Human Feedback (RLHF)**: This step aligns the model with human preferences. The model generates multiple responses to a prompt, and a human ranks these responses. This feedback informs the training of a separate "reward model." The LLM undergoes further fine-tuning via reinforcement learning, aiming to produce responses that score highly with the reward model. This process teaches the model to be more helpful, accurate, and safe.
+ - **Supervised Fine-Tuning (SFT)**: Humans compile high-quality datasets consisting of instruction-response pairs. The model trains on this data to learn to follow instructions correctly.
+ - **Reinforcement Learning with Human Feedback (RLHF)**: This step aligns the model with human preferences. The model generates multiple responses to a prompt, and a human ranks these responses. This feedback informs the training of a separate "reward model." The LLM undergoes further fine-tuning via reinforcement learning, aiming to produce responses that score highly with the reward model. This process teaches the model to be more helpful, accurate, and safe.
 
 ### Strengths of LLMs
 
@@ -49,19 +49,19 @@ Despite their impressive capabilities, LLMs are not without significant limitati
 
 ### Frequently Asked Questions
 
-**1. Do LLMs actually "think"?**  
+**1. Do LLMs actually "think"?** 
 LLMs do not think in any conscious or sentient manner. They are complex mathematical functions optimized for word prediction. Their text generation may create an illusion of understanding, but they lack beliefs or subjective experiences.
 
-**2. What distinguishes an LLM from general "AI"?**  
+**2. What distinguishes an LLM from general "AI"?** 
 LLMs represent a subset of [generative AI](/what-is-generative-ai-and-its-applications). While AI encompasses the broader concept of intelligent machines, LLMs focus specifically on language processing, standing out as prominent examples of AI technology today.
 
-**3. What is a "Transformer"?**  
+**3. What is a "Transformer"?** 
 The Transformer is the [neural network](/neural-networks-complete-guide-for-newcomers) architecture that enabled the development of modern LLMs. Introduced in a 2017 paper by Google researchers, it features an "attention" mechanism that allows the model to evaluate the significance of different words in the input text, improving its ability to manage context and long-range dependencies.
 
-**4. What does "parameter" mean in relation to an LLM?**  
+**4. What does "parameter" mean in relation to an LLM?** 
 A parameter is a variable within the model that is adjusted during training. These parameters act as the model's tuning mechanisms, enabling it to minimize prediction errors. Modern LLMs can contain a vast number of parameters, which enhance their capacity to learn complex patterns.
 
-**5. How might LLMs evolve in the future?**  
+**5. How might LLMs evolve in the future?** 
 The field is rapidly advancing. Future models are likely to become more efficient, requiring less data and computational power. There will be an increased focus on "multimodal" models capable of processing text, images, audio, and video simultaneously.
 
 ### Why Understanding LLMs Matters
@@ -92,11 +92,11 @@ Regularly assess your development. Are you achieving your goals? Modify your app
 
 ### Real-World Examples
 
-| Name      | Role                        | Initial Challenge                     | Outcome                                    |
+| Name | Role | Initial Challenge | Outcome |
 |-----------|-----------------------------|---------------------------------------|--------------------------------------------|
-| Sarah     | Developer at a [blockchain](/what-is-a-blockchain) startup | Difficulty with coding efficiency      | Improved code quality within a few months    |
-| Juan      | Product Manager in [DeFi](/what-is-defi) | Struggled with project deadlines      | Met all deadlines consistently after a couple of months |
-| Maya      | Transitioning from Web2 to Web3 | Adapting to a new work environment   | Successfully integrated into Web3 culture |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Difficulty with coding efficiency | Improved code quality within a few months |
+| Juan | Product Manager in [DeFi](/what-is-defi) | Struggled with project deadlines | Met all deadlines consistently after a couple of months |
+| Maya | Transitioning from Web2 to Web3 | Adapting to a new work environment | Successfully integrated into Web3 culture |
 
 ### Common Mistakes to Avoid
 
@@ -105,4 +105,3 @@ Regularly assess your development. Are you achieving your goals? Modify your app
 3. **One-Size-Fits-All Approach**: Customizing strategies to fit your unique situation is essential for effectiveness.
 4. **Quitting Too Early**: Initial discomfort is part of the change process. Persist through challenges to achieve better outcomes.
 5. **Neglecting Progress Tracking**: Without measuring progress, improvement becomes difficult. Establish metrics to assess your advancements.
-

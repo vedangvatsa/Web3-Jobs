@@ -350,4 +350,3 @@ Once you've benefited from mentorship, don't stop there. Help others:
 - Focus: Making the move (skill gaps, positioning, confidence).
 - Mentor type: Someone who's made a similar transition.
 - Frequency: Intensive (biweekly or weekly initially).
-

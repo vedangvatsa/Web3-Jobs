@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "advanced"
 prerequisites: ["exploits"]
 quiz:
-  - question: "What is Foundry?"
-    options:
-      - "A blockchain network"
-      - "A blazing fast, Rust-based testing framework for Solidity developers"
-      - "A decentralized exchange"
-      - "A visual code editor"
-    correct: 1
-    explanation: "Foundry is the industry standard toolchain for smart contract development. Written in Rust, it allows developers to write their tests directly in Solidity and execute them incredibly fast."
-  - question: "What is 'Fuzz Testing'?"
-    options:
-      - "Testing the code while sleepy"
-      - "A testing method where a tool generates thousands of random inputs to throw at your functions to see if they break"
-      - "Testing the user interface styling"
-      - "Checking the code for spelling errors"
-    correct: 1
-    explanation: "Fuzz testing (supported natively by Foundry) feeds a massive amount of random data into your functions. This helps uncover edge cases and vulnerabilities that a developer might not think to test manually."
-  - question: "What is Slither?"
-    options:
-      - "A malicious smart contract"
-      - "A Python-based static analysis tool that automatically scans Solidity code for known vulnerabilities"
-      - "A type of cryptocurrency"
-      - "A blockchain explorer"
-    correct: 1
-    explanation: "Slither is a static analyzer. You point it at your codebase, and within seconds it prints out a report of potential security flaws, like missing access controls or reentrancy risks."
-  - question: "Why is writing tests in Solidity (via Foundry) preferred over writing them in JavaScript (via Hardhat) for deep security?"
-    options:
-      - "JavaScript is too slow"
-      - "It allows developers to use the exact same language and math libraries for testing as they do for the protocol itself, reducing context switching and translation errors"
-      - "JavaScript cannot connect to the blockchain"
-      - "Hardhat is illegal"
-    correct: 1
-    explanation: "While Hardhat (JS/TS) is great for frontend integration, Foundry allows security engineers to write tests in Solidity. This means they can use precise EVM math and state manipulations without dealing with JavaScript's BigNumber conversions."
-  - question: "Does getting a clean report from Slither mean the contract is safe?"
-    options:
-      - "Yes, Slither catches everything"
-      - "No, static analyzers only catch known patterns; they cannot understand the specific business logic or economic design flaws of your protocol"
-      - "Yes, if Foundry tests also pass"
-      - "No, because Python is unreliable"
-    correct: 1
-    explanation: "Tools like Slither are the absolute bare minimum first step. They catch common mistakes (like uninitialized variables), but they cannot tell you if your tokenomics are flawed or if your oracle can be manipulated."
+ - question: "What is Foundry?"
+ options:
+ - "A blockchain network"
+ - "A blazing fast, Rust-based testing framework for Solidity developers"
+ - "A decentralized exchange"
+ - "A visual code editor"
+ correct: 1
+ explanation: "Foundry is the industry standard toolchain for smart contract development. Written in Rust, it allows developers to write their tests directly in Solidity and execute them incredibly fast."
+ - question: "What is 'Fuzz Testing'?"
+ options:
+ - "Testing the code while sleepy"
+ - "A testing method where a tool generates thousands of random inputs to throw at your functions to see if they break"
+ - "Testing the user interface styling"
+ - "Checking the code for spelling errors"
+ correct: 1
+ explanation: "Fuzz testing (supported natively by Foundry) feeds a massive amount of random data into your functions. This helps uncover edge cases and vulnerabilities that a developer might not think to test manually."
+ - question: "What is Slither?"
+ options:
+ - "A malicious smart contract"
+ - "A Python-based static analysis tool that automatically scans Solidity code for known vulnerabilities"
+ - "A type of cryptocurrency"
+ - "A blockchain explorer"
+ correct: 1
+ explanation: "Slither is a static analyzer. You point it at your codebase, and within seconds it prints out a report of potential security flaws, like missing access controls or reentrancy risks."
+ - question: "Why is writing tests in Solidity (via Foundry) preferred over writing them in JavaScript (via Hardhat) for deep security?"
+ options:
+ - "JavaScript is too slow"
+ - "It allows developers to use the exact same language and math libraries for testing as they do for the protocol itself, reducing context switching and translation errors"
+ - "JavaScript cannot connect to the blockchain"
+ - "Hardhat is illegal"
+ correct: 1
+ explanation: "While Hardhat (JS/TS) is great for frontend integration, Foundry allows security engineers to write tests in Solidity. This means they can use precise EVM math and state manipulations without dealing with JavaScript's BigNumber conversions."
+ - question: "Does getting a clean report from Slither mean the contract is safe?"
+ options:
+ - "Yes, Slither catches everything"
+ - "No, static analyzers only catch known patterns; they cannot understand the specific business logic or economic design flaws of your protocol"
+ - "Yes, if Foundry tests also pass"
+ - "No, because Python is unreliable"
+ correct: 1
+ explanation: "Tools like Slither are the absolute bare minimum first step. They catch common mistakes (like uninitialized variables), but they cannot tell you if your tokenomics are flawed or if your oracle can be manipulated."
 ---
 
 ## The Auditor's Toolkit
@@ -74,7 +74,7 @@ For years, the standard tool for testing smart contracts was Hardhat, which requ
 
 Enter **Foundry**. 
 
-Written in Rust, Foundry is insanely fast. More importantly, **you write your tests in Solidity.** This is a game-changer for security researchers. If you are auditing a contract written in Solidity, you can write exploit scripts in the exact same language.
+Written in Rust, Foundry is insanely fast. More importantly, **you write your tests in Solidity.** This is a major shift for security researchers. If you are auditing a contract written in Solidity, you can write exploit scripts in the exact same language.
 
 ### Fuzz Testing with Foundry
 
@@ -89,30 +89,30 @@ Fuzz testing automates this. You define the rules (the invariants), and Foundry 
 
 <div class="diagram">
 <svg viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <rect x="50" y="50" width="160" height="100" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
-  <text x="130" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">Fuzzer</text>
-  <text x="130" y="110" text-anchor="middle" font-size="11" fill="#991b1b">Generates 10,000</text>
-  <text x="130" y="125" text-anchor="middle" font-size="11" fill="#991b1b">random inputs</text>
+ <rect x="50" y="50" width="160" height="100" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+ <text x="130" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">Fuzzer</text>
+ <text x="130" y="110" text-anchor="middle" font-size="11" fill="#991b1b">Generates 10,000</text>
+ <text x="130" y="125" text-anchor="middle" font-size="11" fill="#991b1b">random inputs</text>
 
-  <!-- Arrows representing multiple inputs -->
-  <line x1="220" y1="80" x2="330" y2="80" stroke="#ef4444" stroke-width="1.5" marker-end="url(#arrow-red)"/>
-  <line x1="220" y1="100" x2="330" y2="100" stroke="#ef4444" stroke-width="1.5" marker-end="url(#arrow-red)"/>
-  <line x1="220" y1="120" x2="330" y2="120" stroke="#ef4444" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+ <!-- Arrows representing multiple inputs -->
+ <line x1="220" y1="80" x2="330" y2="80" stroke="#ef4444" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+ <line x1="220" y1="100" x2="330" y2="100" stroke="#ef4444" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+ <line x1="220" y1="120" x2="330" y2="120" stroke="#ef4444" stroke-width="1.5" marker-end="url(#arrow-red)"/>
 
-  <rect x="340" y="50" width="160" height="100" rx="8" fill="#f1f5f9" stroke="#64748b" stroke-width="1.5"/>
-  <text x="420" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#334155">Smart Contract</text>
-  <text x="420" y="110" text-anchor="middle" font-size="11" fill="#475569">Function executes</text>
+ <rect x="340" y="50" width="160" height="100" rx="8" fill="#f1f5f9" stroke="#64748b" stroke-width="1.5"/>
+ <text x="420" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#334155">Smart Contract</text>
+ <text x="420" y="110" text-anchor="middle" font-size="11" fill="#475569">Function executes</text>
 
-  <line x1="510" y1="100" x2="620" y2="100" stroke="#16a34a" stroke-width="2" marker-end="url(#arrow-green)"/>
+ <line x1="510" y1="100" x2="620" y2="100" stroke="#16a34a" stroke-width="2" marker-end="url(#arrow-green)"/>
 
-  <rect x="630" y="50" width="140" height="100" rx="8" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
-  <text x="700" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Invariant</text>
-  <text x="700" y="110" text-anchor="middle" font-size="11" fill="#166534">Did it break?</text>
+ <rect x="630" y="50" width="140" height="100" rx="8" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+ <text x="700" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Invariant</text>
+ <text x="700" y="110" text-anchor="middle" font-size="11" fill="#166534">Did it break?</text>
 
-  <defs>
-    <marker id="arrow-red" markerWidth="6" markerHeight="6" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#ef4444"/></marker>
-    <marker id="arrow-green" markerWidth="6" markerHeight="6" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#16a34a"/></marker>
-  </defs>
+ <defs>
+ <marker id="arrow-red" markerWidth="6" markerHeight="6" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#ef4444"/></marker>
+ <marker id="arrow-green" markerWidth="6" markerHeight="6" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#16a34a"/></marker>
+ </defs>
 </svg>
 </div>
 

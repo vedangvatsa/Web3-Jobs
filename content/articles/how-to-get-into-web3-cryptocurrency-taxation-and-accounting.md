@@ -38,17 +38,17 @@ Taxation of cryptocurrencies introduces several layers of complexity beyond trad
 
 Understanding the tax treatment of various transaction types is essential for effective accounting and tax planning.
 
-| Transaction Type                 | Tax Implications                                                                                     |
+| Transaction Type | Tax Implications |
 |----------------------------------|-----------------------------------------------------------------------------------------------------|
-| Buying Cryptocurrency             | Not taxable; no sale occurs.                                                                         |
-| Selling Cryptocurrency            | Taxable as capital gain/loss; classified as short-term or long-term based on holding period.       |
-| Crypto-to-Crypto Trades          | Taxable event; triggers capital gain/loss on the asset sold; new cost basis established for the asset acquired. |
-| Staking Rewards                   | Taxable as ordinary income; must report the fair market value upon receipt.                          |
-| Airdrops                          | Taxable as ordinary income; fair market value reported upon receipt; only freely tradable tokens are clearly taxable. |
-| Yield Farming and DeFi Returns    | Taxed as ordinary income upon receipt; capital gains on withdrawal based on appreciation.            |
-| Mining and Validation             | Taxable as ordinary income; costs may be deductible as business expenses.                            |
-| Margin Trading                    | Triggers capital gains upon position closure; interest on loans may be deductible.                   |
-| Wash Sales                        | Proposed IRS rules may affect tax treatment of losses if identical crypto is purchased within 30 days. |
+| Buying Cryptocurrency | Not taxable; no sale occurs. |
+| Selling Cryptocurrency | Taxable as capital gain/loss; classified as short-term or long-term based on holding period. |
+| Crypto-to-Crypto Trades | Taxable event; triggers capital gain/loss on the asset sold; new cost basis established for the asset acquired. |
+| Staking Rewards | Taxable as ordinary income; must report the fair market value upon receipt. |
+| Airdrops | Taxable as ordinary income; fair market value reported upon receipt; only freely tradable tokens are clearly taxable. |
+| Yield Farming and DeFi Returns | Taxed as ordinary income upon receipt; capital gains on withdrawal based on appreciation. |
+| Mining and Validation | Taxable as ordinary income; costs may be deductible as business expenses. |
+| Margin Trading | Triggers capital gains upon position closure; interest on loans may be deductible. |
+| Wash Sales | Proposed IRS rules may affect tax treatment of losses if identical crypto is purchased within 30 days. |
 
 ## Accounting Challenges in Crypto
 
@@ -165,4 +165,3 @@ The increasing adoption of cryptocurrencies heightens the demand for proficient 
 Getting taxation and accounting wrong can lead to penalties, back taxes, and stress for clients. Conversely, providing accurate services can significantly benefit clients and enhance your career.
 
 For accounting professionals, specializing in cryptocurrency can provide a competitive edge, higher compensation, and a more engaging work environment than traditional accounting roles.
-

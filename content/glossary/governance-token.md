@@ -28,7 +28,7 @@ If a proposal reaches the required approval threshold, often a simple majority o
 
 Standard governance gives one vote per token held. If you hold 100,000 tokens and I hold 100, your vote is 1,000 times more powerful. This reflects stake-weighted governance, where those with more invested have proportionally more influence. Critics argue this is plutocratic, favoring wealthy holders over the broader community.
 
-Defenders counter that stake-weighting aligns incentives correctly. Holders of large amounts have the most to lose from bad decisions, so they are motivated to govern well. Additionally, accumulating enough tokens to dominate governance is expensive, deterring attacks. The debate over one-token-one-vote versus alternative systems continues across the DAO community.
+Defenders counter that stake-weighting aligns incentives correctly. Holders of large amounts have the most to lose from bad decisions, so they are motivated to govern well. accumulating enough tokens to dominate governance is expensive, deterring attacks. The debate over one-token-one-vote versus alternative systems continues across the DAO community.
 
 ## Delegation and Liquid Democracy
 

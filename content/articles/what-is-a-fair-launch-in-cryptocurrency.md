@@ -29,12 +29,12 @@ Under a fair launch structure, both the community and the founding team can acqu
 
 Most contemporary Web3 projects do not adopt a fair launch model. Instead, they typically use a **pre-mined** approach, wherein a significant share of the total token supply is allocated to the core team, early investors, and a foundation ahead of the public launch.
 
-| Feature                | Fair Launch (e.g., Bitcoin)                               | Pre-Mined Launch (e.g., most modern projects)            |
+| Feature | Fair Launch (e.g., Bitcoin) | Pre-Mined Launch (e.g., most modern projects) |
 | ---------------------- | --------------------------------------------------------- | -------------------------------------------------------- |
 | **Initial Allocation** | No team or VC allocation; all participants start at zero | Substantial allocation to team, investors, and foundation |
-| **Decentralization**   | Encourages broad distribution over time                   | Can lead to concentrated token ownership among insiders   |
-| **Funding**            | Self-funded or reliant on community donations              | Capital raised through token sales to VCs                 |
-| **Ethos**              | Aligns with grassroots, cypherpunk ideals                 | More aligned with conventional venture-backed startup models |
+| **Decentralization** | Encourages broad distribution over time | Can lead to concentrated token ownership among insiders |
+| **Funding** | Self-funded or reliant on community donations | Capital raised through token sales to VCs |
+| **Ethos** | Aligns with grassroots, cypherpunk ideals | More aligned with conventional venture-backed startup models |
 
 ### Why Are Fair Launches So Rare Today?
 

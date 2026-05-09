@@ -20,12 +20,12 @@ This article analyzes developer activity on Solana and Ethereum, moving beyond s
 
 To evaluate developer activity, we use several key metrics, each offering unique insights:
 
-| Metric                       | Description                                                                                         |
+| Metric | Description |
 |------------------------------|-----------------------------------------------------------------------------------------------------|
-| Monthly Active Developers     | Distinct developers who made at least one commit to a public crypto repository in a month.       |
-| Full-Time vs. Part-Time Developers | Differentiates between consistently active developers and occasional contributors.                 |
-| Developer Retention          | Percentage of developers active a year ago who remain active today, indicating ecosystem stickiness. |
-| Ecosystem Value and dApp Count | Total number of decentralized applications and the total value locked within them.           |
+| Monthly Active Developers | Distinct developers who made at least one commit to a public crypto repository in a month. |
+| Full-Time vs. Part-Time Developers | Differentiates between consistently active developers and occasional contributors. |
+| Developer Retention | Percentage of developers active a year ago who remain active today, indicating ecosystem stickiness. |
+| Ecosystem Value and dApp Count | Total number of decentralized applications and the total value locked within them. |
 
 ### Ethereum: The Incumbent Behemoth
 
@@ -58,12 +58,11 @@ The developer activity of Ethereum and Solana reflects distinct strategic approa
 
 In recent months, developer activity has exhibited varying trends on both platforms. The following data illustrates monthly active developers on both Ethereum and Solana, drawn from GitHub activity:
 
-| Month         | Ethereum Monthly Active Developers | Solana Monthly Active Developers |
+| Month | Ethereum Monthly Active Developers | Solana Monthly Active Developers |
 |---------------|-----------------------------------|----------------------------------|
-| January 2026  | Significant number                | Significant number               |
-| February 2026 | Significant number                | Significant number               |
-| March 2026    | Significant number                | Significant number               |
-| April 2026    | Significant number                | Significant number               |
+| January 2026 | Significant number | Significant number |
+| February 2026 | Significant number | Significant number |
+| March 2026 | Significant number | Significant number |
+| April 2026 | Significant number | Significant number |
 
 This table indicates that while Ethereum maintains a significant lead in total developer activity, Solana is witnessing growth in its own right, particularly as it attracts specialized talent.
-

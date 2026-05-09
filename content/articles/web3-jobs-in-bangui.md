@@ -18,12 +18,12 @@ For Web3 professionals, Bangui presents a unique environment. It offers immense 
 
 The CAR's Web3 ecosystem distinguishes itself from other African nations due to its reliance on government-led initiatives.
 
-| Aspect                        | Details                                                                                     |
+| Aspect | Details |
 |-------------------------------|---------------------------------------------------------------------------------------------|
-| Bitcoin as Legal Tender       | Official adoption faces challenges related to infrastructure and public acceptance.        |
-| The Sango Project             | Aims to establish a national crypto hub, introducing Sango Coin and pathways to e-residency. |
-| Natural Resources Focus       | Tokenization of diamonds, gold, and lithium to attract foreign investment.                  |
-| Infrastructure Challenges      | Low internet and electricity penetration hampers digital currency usage among citizens.     |
+| Bitcoin as Legal Tender | Official adoption faces challenges related to infrastructure and public acceptance. |
+| The Sango Project | Aims to establish a national crypto hub, introducing Sango Coin and pathways to e-residency. |
+| Natural Resources Focus | Tokenization of diamonds, gold, and lithium to attract foreign investment. |
+| Infrastructure Challenges | Low internet and electricity penetration hampers digital currency usage among citizens. |
 
 The adoption of Bitcoin creates a unique legal and economic environment, although practical implementation struggles continue. The Sango initiative seeks to position CAR as a crypto investment destination, with plans for a national digital currency and a metaverse. However, the country's inadequate infrastructure poses significant barriers to these ambitions.
 
@@ -32,7 +32,7 @@ The adoption of Bitcoin creates a unique legal and economic environment, althoug
 Currently, the formal Web3 job market in Bangui is limited for local talent. The primary opportunities include:
 
 - **International Consultants & Entrepreneurs:** The Sango project targets experienced Web3 professionals and investors willing to manage a high-risk environment. Roles are typically project-based or advisory.
-  
+
 - **[Remote Work](/remote-work-in-web3):** Local talent can pursue remote opportunities with international companies by acquiring development or community management skills. This path remains challenging due to infrastructure limitations.
 
 - **NGO and Development Sector:** International NGOs and development banks may explore [blockchain](/what-is-a-blockchain) applications for transparent aid distribution and supply chain management.
@@ -131,4 +131,3 @@ To succeed in Bangui:
 - **African Web3 Communities:** Engage with pan-African Web3 developer groups on Discord and Telegram.
 - **Remote Work Platforms:** Use Upwork, Fiverr, and Web3-specific platforms like Mirror and Gitcoin as entry points.
 - **Educational Resources:** Platforms like FreeCodeCamp, Udemy, and Coursera offer valuable blockchain and Web3 development courses.
-

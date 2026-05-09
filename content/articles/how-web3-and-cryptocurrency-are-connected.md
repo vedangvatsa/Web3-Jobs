@@ -23,8 +23,8 @@ Cryptocurrency fuels the Web3 infrastructure, facilitating decentralization, use
 A public **[blockchain](/what-is-a-blockchain)** operates without a central authority, relying instead on a distributed network of independent operators, often referred to as "miners" or "validators." This decentralized approach enhances security and resistance to censorship. Yet, a question arises: why would individuals worldwide invest in the electricity and hardware necessary to maintain this network?
 
 - **The Role of Crypto:** Cryptocurrency provides the essential economic incentive for these operators. 
-  - In a Proof-of-Work system, such as [Bitcoin](/what-is-bitcoin), miners receive rewards in the form of newly created cryptocurrency for validating transactions with their computational power.
-  - In a Proof-of-Stake system, like [Ethereum](/what-is-ethereum), validators earn rewards for "[staking](/how-to-become-a-web3-staking-specialist)" their capital to secure the network.
+ - In a Proof-of-Work system, such as [Bitcoin](/what-is-bitcoin), miners receive rewards in the form of newly created cryptocurrency for validating transactions with their computational power.
+ - In a Proof-of-Stake system, like [Ethereum](/what-is-ethereum), validators earn rewards for "[staking](/how-to-become-a-web3-staking-specialist)" their capital to secure the network.
 
 Without a native cryptocurrency to incentivize participation, the network would lack a viable economic model and risk collapse. **Crypto serves as the payment system for decentralization.**
 
@@ -55,12 +55,11 @@ Web3 applications are inherently global, accessible to anyone with an internet c
 
 Web3 provides the framework for a decentralized internet, while cryptocurrency delivers the economic mechanisms that sustain it.
 
-| Aspect                  | Web3                                          | Cryptocurrency                          |
+| Aspect | Web3 | Cryptocurrency |
 |------------------------|-----------------------------------------------|-----------------------------------------|
-| Infrastructure         | Decentralized networks (blockchain)          | Native currency                        |
-| Security               | Distributed consensus among validators        | Incentives for participation            |
-| Programmable Logic     | Smart contracts                               | Value representation                    |
-| Ownership Vision       | User control over assets                      | Tokens as proof of ownership            |
+| Infrastructure | Decentralized networks (blockchain) | Native currency |
+| Security | Distributed consensus among validators | Incentives for participation |
+| Programmable Logic | Smart contracts | Value representation |
+| Ownership Vision | User control over assets | Tokens as proof of ownership |
 
 You cannot achieve a truly decentralized, secure, and user-centric internet without a decentralized form of currency to support it. These two elements are intrinsically linked, representing different facets of a unified vision.
-

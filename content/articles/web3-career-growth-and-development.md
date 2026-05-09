@@ -75,12 +75,12 @@ If you are already a [smart contract](/what-are-smart-contracts) developer, enha
 
 Devote time weekly to keep abreast of developments:
 
-| Activity                | Time Allocation |
+| Activity | Time Allocation |
 |------------------------|-----------------|
-| Learning               | 30%             |
-| Creation               | 20%             |
-| Core Work              | 40%             |
-| Networking             | 10%             |
+| Learning | 30% |
+| Creation | 20% |
+| Core Work | 40% |
+| Networking | 10% |
 
 #### Staying Current:
 - **Research Papers:** Access resources like ArXiv.org for the latest blockchain research and read whitepapers from emerging protocols.
@@ -115,7 +115,7 @@ As the Web3 industry matures, the demand for deep specialists continues to grow.
 
 ### Define Your "Spike"
 
-Identify a niche area in which you can achieve world-class expertise. This should not be superficial knowledge but rather deep, demonstrable mastery.
+Identify a niche area in which you can achieve top-tier expertise. This should not be superficial knowledge but rather deep, demonstrable mastery.
 
 #### Choosing Your Spike:
 1. **Market Demand:** Are companies hiring for this? Is there revenue potential?
@@ -195,7 +195,7 @@ A strong indicator of leadership readiness is the ability to develop others:
 - **Advocate for Them:** Assist in gaining visibility and opportunities.
 
 #### Significance of Mentoring:
-- Multiply your impact by elevating others.
+- Multiply your impact by improve others.
 - Develop essential leadership skills.
 - Build loyalty and attract talented individuals.
 - Demonstrate your capacity for talent development, which is important for senior roles.
@@ -374,4 +374,3 @@ Dedicate 1-2 hours weekly to relationship-building:
 - Schedule coffee calls with intriguing individuals.
 - Attend meetups or events.
 - Engage on platforms like Twitter through writing and providing value.
-

@@ -71,9 +71,9 @@ Examples: A price feed from a single exchange, a single weather service providin
 3. **Data Retrieval from Multiple Sources:** Each selected oracle node independently retrieves the data from multiple different off-chain sources. For a price feed, this might be several different crypto exchanges' APIs. No single data source is trusted; instead, data is aggregated from many sources.
 
 4. **Aggregation and Outlier Detection:** The nodes' answers are aggregated using algorithms that:
-   - Calculate a weighted average of the responses
-   - Identify and discard outliers (responses that are significantly different from the median)
-   - Weight responses based on the reputation and historical accuracy of each node
+ - Calculate a weighted average of the responses
+ - Identify and discard outliers (responses that are significantly different from the median)
+ - Weight responses based on the reputation and historical accuracy of each node
 
 5. **On-Chain Reporting:** This final, validated data point is broadcast back to the blockchain and posted to a smart contract. The smart contract that originally made the request can now read this data and execute accordingly.
 
@@ -142,6 +142,6 @@ As DeFi and smart contract applications grow, demand for oracle expertise is inc
 
 Oracles are one of the most critical pieces of infrastructure in the Web3 ecosystem. They solve the fundamental problem of smart contracts being unable to access the real world, allowing them to securely interact with vast amounts of off-chain data and events.
 
-Without reliable and decentralized oracles, the vibrant DeFi and NFT ecosystems we see today simply could not exist. Loans couldn't be liquidated safely, insurance claims couldn't be settled automatically, and NFTs couldn't respond to real-world events.
+Without reliable and decentralized oracles, the active DeFi and NFT ecosystems we see today simply could not exist. Loans couldn't be liquidated safely, insurance claims couldn't be settled automatically, and NFTs couldn't respond to real-world events.
 
 As smart contracts become more sophisticated and finance increasingly moves on-chain, oracle design and security will become even more critical. Organizations and developers that master oracle integration and design will be better positioned to build the next generation of Web3 applications.

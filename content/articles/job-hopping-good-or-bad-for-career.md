@@ -18,11 +18,11 @@ The practice of "job hopping," which involves changing jobs every one to two yea
 
 One of the most compelling reasons for job hopping is the potential for increased salary. Employees who change jobs can see salary increases of significant percentages, while those who stay with their current employer typically receive raises of smaller percentages annually. For example, a software engineer earning a competitive salary could potentially increase their earnings significantly simply by changing companies, rather than waiting for internal promotions. This trend is particularly pronounced in high-demand fields like tech and Web3, where talent shortages drive up offers.
 
-| Job Change Type         | Average Salary Increase |
+| Job Change Type | Average Salary Increase |
 |-------------------------|-------------------------|
-| Internal Promotion      | Smaller percentages      |
-| Job Change              | Significant percentages  |
-| Industry-Switching Move | Higher percentages       |
+| Internal Promotion | Smaller percentages |
+| Job Change | Significant percentages |
+| Industry-Switching Move | Higher percentages |
 
 **2. Broader Skill Development**
 
@@ -58,13 +58,13 @@ The process of adapting to new roles can be stressful. You must familiarize your
 
 Adopting a strategic approach to job hopping can maximize the benefits while minimizing the drawbacks. Consider the following guidelines:
 
-*   **Have a Good Reason for Each Move**: Clearly articulate why you left each role. Frame your decisions around seeking new challenges, developing specific skills, or aligning with your long-term career goals. Avoid negative comments about previous employers.
+* **Have a Good Reason for Each Move**: Clearly articulate why you left each role. Frame your decisions around seeking new challenges, developing specific skills, or aligning with your long-term career goals. Avoid negative comments about previous employers.
 
-*   **Show Accomplishments, Not Just Tenure**: Focus your resume on accomplishments rather than the duration of employment. Use quantifiable metrics to showcase your impact. For example, if you increased a team’s efficiency significantly or led a project that generated substantial revenue, highlight these achievements.
+* **Show Accomplishments, Not Just Tenure**: Focus your resume on accomplishments rather than the duration of employment. Use quantifiable metrics to showcase your impact. For example, if you increased a team’s efficiency significantly or led a project that generated substantial revenue, highlight these achievements.
 
-*   **Don't Burn Bridges**: Leave each job professionally. Provide notice, assist with transitions, and maintain a positive attitude. The tech industry is interconnected, and preserving relationships can benefit you later in your career.
+* **Don't Burn Bridges**: Leave each job professionally. Provide notice, assist with transitions, and maintain a positive attitude. The tech industry is interconnected, and preserving relationships can benefit you later in your career.
 
-*   **Know When to Stay**: If you find a role that is fulfilling, offers growth opportunities, and compensates fairly, consider staying longer. Strategic job hopping does not mean leaving a good situation.
+* **Know When to Stay**: If you find a role that is fulfilling, offers growth opportunities, and compensates fairly, consider staying longer. Strategic job hopping does not mean leaving a good situation.
 
 Ultimately, the decision to job hop should align with your career goals and the industry norms. For some professionals, frequent changes lead to rapid salary increases and diverse experience. For others, the benefits of stability and deep expertise outweigh the potential gains from job hopping. Be intentional in your career choices, ensuring that each move contributes to a coherent narrative of growth and purpose.
 
@@ -81,4 +81,3 @@ Yes, job hopping is more accepted in fast-paced fields like tech and [Web3](/wha
 **Can I leave a short-term job off my resume?**
 
 Omitting a short-term job can be tempting but risky. If a background check reveals the position, you may face questions about the omission, which can be more damaging than including the role with a clear explanation for your short tenure.
-

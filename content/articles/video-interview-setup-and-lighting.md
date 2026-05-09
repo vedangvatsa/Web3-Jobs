@@ -80,9 +80,9 @@ Your background contributes to your personal brand. It should be clean, unclutte
 
 - **The Real Background:** A tidy, real background often works best. Options include a bookshelf, a clean wall with art, or a neat office corner. Ensure no distracting or unprofessional items are visible.
 - **The Virtual Background:** If your environment looks unprofessional, consider a virtual background. Follow these guidelines:
-  - **Choose a professional image:** Use a subtle, high-quality image that depicts a modern office or a clean living space. Avoid distracting themes or novelty backgrounds.
-  - **Blur is often better:** Most video conferencing platforms offer a "blur background" feature, which looks more natural and avoids distractions from artifacting around your figure.
-  - **Requires a good setup:** Virtual backgrounds work best when you have uniform lighting and a solid-colored wall behind you.
+ - **Choose a professional image:** Use a subtle, high-quality image that depicts a modern office or a clean living space. Avoid distracting themes or novelty backgrounds.
+ - **Blur is often better:** Most video conferencing platforms offer a "blur background" feature, which looks more natural and avoids distractions from artifacting around your figure.
+ - **Requires a good setup:** Virtual backgrounds work best when you have uniform lighting and a solid-colored wall behind you.
 
 ### Final Pre-Flight Check
 

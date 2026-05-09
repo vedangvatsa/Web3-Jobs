@@ -42,4 +42,3 @@ Immutability allows a blockchain to serve as a trusted source of truth without n
 - **Voting Systems**: Ensures that votes, once cast, remain unaltered.
 
 By maintaining unchangeable data, blockchain’s immutability lays a secure and reliable foundation for the decentralized environment of [Web3](/what-is-web3).
-

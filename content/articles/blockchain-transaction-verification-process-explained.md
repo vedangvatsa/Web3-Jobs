@@ -31,14 +31,14 @@ Upon receiving the transaction, these nodes conduct initial validation checks, s
 The **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)** is essential during this phase. A select group of nodes, referred to as "miners" in Proof-of-Work systems or "validators" in Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) systems, selects transactions from the mempool to bundle into a new block.
 
 - **In Proof-of-Work (e.g., [Bitcoin](/what-is-bitcoin)):**
-    - Miners engage in competition to solve intricate mathematical puzzles.
-    - The first miner to solve the puzzle earns the right to add their block of transactions to the blockchain.
-    - This mining process demands substantial computational resources and secures the network.
+ - Miners engage in competition to solve intricate mathematical puzzles.
+ - The first miner to solve the puzzle earns the right to add their block of transactions to the blockchain.
+ - This mining process demands substantial computational resources and secures the network.
 
 - **In Proof-of-Stake (e.g., [Ethereum](/what-is-ethereum)):**
-    - Validators are selected to propose new blocks based on the amount of cryptocurrency they have staked as collateral.
-    - Other validators attest to the validity of the proposed block.
-    - This method is more energy-efficient and incentivizes honest behavior through the risk of losing staked assets.
+ - Validators are selected to propose new blocks based on the amount of cryptocurrency they have staked as collateral.
+ - Other validators attest to the validity of the proposed block.
+ - This method is more energy-efficient and incentivizes honest behavior through the risk of losing staked assets.
 
 ### Step 4: Adding the Block to the Chain
 
@@ -55,4 +55,3 @@ The term "confirmed" signifies that your transaction is now officially part of t
 As new blocks are added on top of the block containing your transaction, the difficulty of altering it increases. Each new block adds a "confirmation." After receiving a predetermined number of confirmations, typically six blocks for Bitcoin, the transaction is deemed irreversible or "final." The process concludes here.
 
 This entire decentralized process relies on cryptography and economic incentives, allowing a global network of participants to agree on a shared record without needing trust in one another or a central authority. This verification approach enables blockchain technology significantly.
-

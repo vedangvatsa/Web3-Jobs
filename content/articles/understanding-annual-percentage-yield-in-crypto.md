@@ -49,11 +49,11 @@ Yields in DeFi originate from various sources, including:
 
 ### Yield Sources Table
 
-| Yield Source           | Description                                                     | Example Protocol     |
+| Yield Source | Description | Example Protocol |
 |-----------------------|---------------------------------------------------------------|----------------------|
-| Lending Interest      | Earned from borrowers who use your assets                     | Aave                 |
-| Trading Fees          | Earned from fees on trades within liquidity pools             | Uniswap              |
-| Token Rewards         | Earned through native token incentives for liquidity providers | Various DeFi Projects |
+| Lending Interest | Earned from borrowers who use your assets | Aave |
+| Trading Fees | Earned from fees on trades within liquidity pools | Uniswap |
+| Token Rewards | Earned through native token incentives for liquidity providers | Various DeFi Projects |
 
 ## The Risks of High APY
 
@@ -66,4 +66,3 @@ High APY often comes with significant risks. Understanding the sources of yield 
 ### Practical Insight
 
 Consider APY as an estimate rather than a guarantee. It reflects the current rate of return, which can fluctuate rapidly due to market conditions, token prices, and capital in a pool. Always [do your own research (DYOR)](/what-is-dyor-in-crypto) to comprehend the yield's source and the associated risks before pursuing an attractive APY.
-

@@ -124,14 +124,14 @@ Blockchain forensics represents a high-demand field. Organizations involved in c
 
 The following table illustrates average salaries for various roles in blockchain forensics:
 
-| Position                         | Average Salary     |
+| Position | Average Salary |
 |----------------------------------|---------------------|
-| On-Chain Investigator             | Competitive range    |
-| Internal Compliance Analyst       | Competitive range    |
-| Law Enforcement Liaison          | Competitive range    |
-| Threat Intelligence Analyst       | Competitive range    |
-| Recovery Specialist               | Competitive range    |
-| Compliance Officer                | Competitive range    |
+| On-Chain Investigator | Competitive range |
+| Internal Compliance Analyst | Competitive range |
+| Law Enforcement Liaison | Competitive range |
+| Threat Intelligence Analyst | Competitive range |
+| Recovery Specialist | Competitive range |
+| Compliance Officer | Competitive range |
 
 Remote work opportunities are prevalent in this field, enabling forensics specialists to work for global companies. Demand has escalated alongside an increase in DeFi hacks and regulatory scrutiny on cryptocurrency organizations.
 
@@ -164,4 +164,3 @@ Question assumptions. Apparent patterns may have innocent explanations, while se
 Blockchain forensics significantly contributes to the legitimacy and security of Web3. By tracing hacks and making them costly for criminals, forensic specialists deter illicit activity. They assist in recovering stolen funds, providing justice to victims, and supplying data to law enforcement for prosecuting criminals.
 
 Concerns persist that extensive forensics and traceability may undermine the privacy and freedom that early Web3 advocates championed. This debate remains contentious. However, as Web3 achieves mainstream adoption, forensics and compliance have become integral components of the ecosystem.
-

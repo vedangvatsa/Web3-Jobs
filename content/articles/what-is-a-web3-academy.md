@@ -42,11 +42,11 @@ Several defining features differentiate Web3 academies from traditional educatio
 
 Different types of Web3 academies cater to various learning needs:
 
-| Academy Type                  | Example               | Focus Areas                                           |
+| Academy Type | Example | Focus Areas |
 |-------------------------------|----------------------|------------------------------------------------------|
-| Developer Bootcamps           | Encode Club, Chainshot| Smart contract engineering, Solidity, dApp development|
-| Protocol-Specific Education    | Polkadot Academy     | Building within specific blockchain ecosystems       |
-| Holistic Platforms             | Hashtag Web3 Academy | Development, marketing, community management, data analysis |
+| Developer Bootcamps | Encode Club, Chainshot| Smart contract engineering, Solidity, dApp development|
+| Protocol-Specific Education | Polkadot Academy | Building within specific blockchain ecosystems |
+| complete Platforms | Hashtag Web3 Academy | Development, marketing, community management, data analysis |
 
 ### The Importance of the Web3 Academy
 
@@ -55,4 +55,3 @@ Web3 academies play a vital role in shaping the future of the crypto industry:
 - **Addressing the Talent Shortage:** These academies serve as efficient mechanisms for training the next generation of builders, helping to mitigate the ongoing talent gap in the sector.
 - **Reducing Barriers to Entry:** Web3 academies provide an accessible and cost-effective alternative to traditional four-year degrees, making it easier for individuals to enter the workforce.
 - **Enhancing Quality Standards:** By imparting knowledge of the latest security practices and development standards, academies contribute to raising the overall quality and security of the ecosystem, thereby minimizing vulnerabilities.
-

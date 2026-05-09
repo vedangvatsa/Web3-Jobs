@@ -28,10 +28,10 @@ Following the DNA cut, the cell's natural repair mechanisms attempt to mend the 
 
 Cells can repair broken DNA in two primary ways:
 
-| Repair Method               | Description                                                                                   |
+| Repair Method | Description |
 |-----------------------------|-----------------------------------------------------------------------------------------------|
-| **Gene Disruption**         | The cell's repair process may introduce errors when reconnecting the DNA ends, resulting in a knockout of the targeted gene. This method is useful for functional studies of genes. |
-| **Gene Replacement**        | Researchers can introduce a template DNA strand during the repair, allowing the cell to replace the original sequence with a corrected version. This approach holds promise for correcting genetic mutations. |
+| **Gene Disruption** | The cell's repair process may introduce errors when reconnecting the DNA ends, resulting in a knockout of the targeted gene. This method is useful for functional studies of genes. |
+| **Gene Replacement** | Researchers can introduce a template DNA strand during the repair, allowing the cell to replace the original sequence with a corrected version. This approach holds promise for correcting genetic mutations. |
 
 ### Significance of CRISPR
 
@@ -51,12 +51,11 @@ CRISPR offers humanity significant control over genetic material. As a useful to
 
 ### Frequently Asked Questions (FAQs)
 
-**1. Is CRISPR completely accurate?**  
+**1. Is CRISPR completely accurate?** 
 CRISPR technology has high accuracy, but it is not infallible. There exists a risk of "off-target" effects, where the Cas9 enzyme may inadvertently cut DNA at unintended locations. Researchers are actively working on improving the system's specificity, with advancements in Cas9 variants enhancing precision.
 
-**2. How does CRISPR differ from traditional GMOs?**  
+**2. How does CRISPR differ from traditional GMOs?** 
 Traditional Genetically Modified Organisms (GMOs) often involve the insertion of foreign DNA, sometimes from different species. In contrast, CRISPR allows for precise modifications of an organism’s existing DNA without adding external genetic material. The resulting organism may exhibit traits similar to those found in naturally occurring mutations.
 
-**3. Can CRISPR be applied to complex diseases like Alzheimer's or heart disease?**  
+**3. Can CRISPR be applied to complex diseases like Alzheimer's or heart disease?** 
 Diseases such as Alzheimer's and heart disease result from complex interactions among multiple genes and environmental factors. These conditions cannot be addressed with a single genetic edit as seen with monogenic diseases. Nevertheless, CRISPR serves as a valuable tool for researching these multifactorial diseases, potentially leading to novel therapies targeting genetic risk factors.
-

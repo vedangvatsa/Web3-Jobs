@@ -26,14 +26,14 @@ Casablanca's Web3 ecosystem builds on the city’s strengths in finance and comm
 
 The Web3 job market in Casablanca is still taking shape, with most opportunities found in the innovation labs of major banks, FinTech startups, or as remote positions for international companies.
 
-| Role                                          | Mid-Level Salary (MAD/month) | Senior Salary (MAD/month) |
+| Role | Mid-Level Salary (MAD/month) | Senior Salary (MAD/month) |
 |-----------------------------------------------|-------------------------------|----------------------------|
-| FinTech / [Blockchain Developer](/how-to-become-a-blockchain-developer) | 20,000 - 35,000              | 35,000 - 60,000+           |
-| Product Manager (FinTech)                     | 30,000 - 55,000+              | N/A                        |
-| Business Development (Cross-Border Partnerships)| 25,000 - 50,000+              | N/A                        |
+| FinTech / [Blockchain Developer](/how-to-become-a-blockchain-developer) | 20,000 - 35,000 | 35,000 - 60,000+ |
+| Product Manager (FinTech) | 30,000 - 55,000+ | N/A |
+| Business Development (Cross-Border Partnerships)| 25,000 - 50,000+ | N/A |
 
 - **FinTech / Blockchain Developer (Java, Python, [Solidity](/best-programming-languages-for-blockchain-development)):** There is a demand for skilled software engineers, especially those with financial services backgrounds who can apply their knowledge to blockchain applications.
-  
+
 - **Product Manager (FinTech):** Professionals who understand financial products and can design compliant, user-friendly digital asset solutions are in high demand. 
 
 - **Business Development (Cross-Border Partnerships):** Individuals who can forge partnerships with European and African firms to enhance trade and payment solutions using blockchain technology are well-positioned in the job market.
@@ -49,28 +49,28 @@ The Web3 job market in Casablanca is still taking shape, with most opportunities
 
 **Developer Compensation:**
 
-| Role                   | Salary Range (MAD/month)    |
+| Role | Salary Range (MAD/month) |
 |------------------------|------------------------------|
-| Junior Developer (0-1 year) | 12,000 - 20,000            |
-| Mid-Level Developer (1-3 years) | 22,000 - 40,000            |
-| Senior Developer (3+ years) | 40,000 - 65,000+           |
+| Junior Developer (0-1 year) | 12,000 - 20,000 |
+| Mid-Level Developer (1-3 years) | 22,000 - 40,000 |
+| Senior Developer (3+ years) | 40,000 - 65,000+ |
 
 **Finance & Product:**
 
-| Role                          | Salary Range (MAD/month)    |
+| Role | Salary Range (MAD/month) |
 |-------------------------------|------------------------------|
-| FinTech Product Manager        | 30,000 - 55,000             |
-| Business Development           | 25,000 - 50,000             |
-| Security/Compliance Expert     | 35,000 - 60,000             |
+| FinTech Product Manager | 30,000 - 55,000 |
+| Business Development | 25,000 - 50,000 |
+| Security/Compliance Expert | 35,000 - 60,000 |
 
 **Remote (International):**
 
-| Role                          | Salary Range (USD/month)     |
+| Role | Salary Range (USD/month) |
 |-------------------------------|------------------------------|
-| International Web3 roles      | $2,500 - $6,000+            |
-| Consulting                    | $60 - $130/hour              |
+| International Web3 roles | $2,500 - $6,000+ |
+| Consulting | $60 - $130/hour |
 
-**Cost of Living Analysis**  
+**Cost of Living Analysis** 
 For a remote developer earning a competitive salary:
 - Rent in a desirable area: $500 - $800 per month
 - Living expenses: $300 - $500 per month
@@ -150,48 +150,47 @@ For a remote developer earning a competitive salary:
 
 ### Challenges and Solutions
 
-**Language Barriers**  
+**Language Barriers** 
 Proficiency in Arabic, French, and English is beneficial. If you are bilingual in any two of these languages, gradually learn the third, focusing on professional English first.
 
-**Conservative Banking Sector**  
+**Conservative Banking Sector** 
 Banks are slow to adopt blockchain technology. Start with pilot projects that demonstrate regulatory compliance, targeting FinTech startups initially.
 
-**Trade Bureaucracy**  
+**Trade Bureaucracy** 
 Customs and port authorities can be resistant to change. First movers have the chance to capture a significant market share.
 
-**Internet Stability**  
+**Internet Stability** 
 Internet speeds in Casablanca typically range from moderate to good. Use tech hubs with better infrastructure and maintain a backup mobile hotspot.
 
 ### 90-Day Action Plan
 
-**Days 1-10:** Set up accounts on GitHub and Twitter, and choose a career path.  
-**Days 11-30:** Build foundational knowledge through courses and initiate your first project.  
-**Days 31-60:** Expand your network by meeting banks and traders, aiming for significant social media engagement.  
+**Days 1-10:** Set up accounts on GitHub and Twitter, and choose a career path. 
+**Days 11-30:** Build foundational knowledge through courses and initiate your first project. 
+**Days 31-60:** Expand your network by meeting banks and traders, aiming for significant social media engagement. 
 **Days 61-90:** Achieve traction by securing your first contract, partnership, or reaching a notable follower milestone.
 
 ### FAQs
 
-**What makes Casablanca unique for Web3?**  
+**What makes Casablanca unique for Web3?** 
 Casablanca’s geographic position as a bridge between Africa and Europe, combined with its strong financial sector and status as a trade hub, creates unique opportunities in the Web3 space. The remittance market from the diaspora represents a substantial potential.
 
-**Is Arabic necessary for working in Casablanca?**  
+**Is Arabic necessary for working in Casablanca?** 
 For business roles, Arabic is highly beneficial. For technical positions, proficiency in French and English suffices. Leadership roles greatly benefit from knowledge of all three languages.
 
-**How should I approach banks for Web3 projects?**  
+**How should I approach banks for Web3 projects?** 
 Initiate contact with the innovation labs of banks. Reach out to the CTO or innovation director via email, presenting a specific use case to secure a meeting.
 
-**Can I earn a competitive salary in Casablanca?**  
+**Can I earn a competitive salary in Casablanca?** 
 Yes, you can achieve this through remote Web3 roles, which typically pay well, or through senior local positions that offer competitive salaries. This can be accomplished within a timeline of 9 to 13 months.
 
-**Which is a better strategy: working for a bank or a startup?**  
+**Which is a better strategy: working for a bank or a startup?** 
 A bank job offers more stability, while startups present greater upside potential. Consider combining both by securing a position in a bank's innovation lab focused on FinTech projects.
 
-**Should I prioritize remittances in my career?**  
+**Should I prioritize remittances in my career?** 
 Yes, remittances present a significant opportunity. With substantial annual remittances to Morocco, there is a prime opportunity for innovation, particularly in stablecoin applications.
 
-**How significant is trade finance in this context?**  
+**How significant is trade finance in this context?** 
 Trade finance is equally important. The Port of Casablanca handles vast volumes, and blockchain technology can simplify paperwork significantly, which is appealing to banks.
 
-**What is the expected timeline to reach a competitive salary?**  
+**What is the expected timeline to reach a competitive salary?** 
 You can achieve this within 8 to 12 months, which includes approximately four months of learning, two to three months of freelancing, and an additional two to three months to secure a full-time role.
-

@@ -26,11 +26,11 @@ Generosity forms the foundation of effective networking. Before seeking assistan
 
 Clarify your networking objectives. Specificity is important.
 
-| Goal Type                      | Example Focus                         |
+| Goal Type | Example Focus |
 |--------------------------------|--------------------------------------|
-| Job Search                     | Target hiring managers in fintech    |
-| Client Acquisition             | Identify potential clients in e-commerce |
-| Skill Development              | Connect with professionals in your desired field |
+| Job Search | Target hiring managers in fintech |
+| Client Acquisition | Identify potential clients in e-commerce |
+| Skill Development | Connect with professionals in your desired field |
 
 Establish a list of individuals who can help you achieve these goals, such as industry leaders, hiring managers, or peers.
 
@@ -40,8 +40,8 @@ Your LinkedIn profile represents your digital identity and should reflect profes
 
 - **Professional Headshot**: Use a high-quality, clear image.
 - **Compelling Headline**: Go beyond your job title to convey your value proposition.
-  - *Instead of*: "Software Engineer at Acme Corp"
-  - *Try*: "Software Engineer specializing in scalable backend systems | Proficient in Python, AWS, SQL"
+ - *Instead of*: "Software Engineer at Acme Corp"
+ - *Try*: "Software Engineer specializing in scalable backend systems | Proficient in Python, AWS, SQL"
 - **Detailed "About" Section**: Summarize your skills, experiences, and passions concisely.
 
 ### 3. Map Your Existing Network
@@ -93,14 +93,14 @@ Aim to conduct 3-5 virtual coffee chats each week.
 
 Maintain your network through effective follow-ups. Create a tracking system, such as a spreadsheet or a personal CRM.
 
-| Contact Tracking Elements      | Description                          |
+| Contact Tracking Elements | Description |
 |--------------------------------|--------------------------------------|
-| Name                           | Individual's name                    |
-| Company                        | Current or former employer           |
-| Role                           | Job title                            |
-| How You Met                    | Context of your introduction         |
-| Last Contact Date              | Date of your last communication      |
-| Discussion Notes               | Key points from your last interaction|
+| Name | Individual's name |
+| Company | Current or former employer |
+| Role | Job title |
+| How You Met | Context of your introduction |
+| Last Contact Date | Date of your last communication |
+| Discussion Notes | Key points from your last interaction|
 
 - Set reminders to follow up with valuable contacts every 1-2 months.
 - Your follow-up should focus on offering value, such as sharing pertinent articles or acknowledging their recent accomplishments.
@@ -113,4 +113,3 @@ Establish yourself as an expert in your field to attract connections.
 - **Speak at Meetups**: Start with local gatherings in your industry.
 
 Producing content helps build your personal brand and draws in individuals interested in your perspective.
-

@@ -33,9 +33,9 @@ Testing a dApp entails complexities that differ significantly from traditional w
 
 **3. Automated Test Development**
 - Creating and maintaining a suite of automated tests is central to the role.
-    - **Unit & Integration Tests:** Engineers write scripts, often in JavaScript or TypeScript using frameworks like Hardhat, or in [Solidity](/best-programming-languages-for-blockchain-development) with [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit), to test individual functions and interactions between smart contracts.
-    - **End-to-End (E2E) Testing:** Using tools like Cypress or Playwright, QA engineers automate user flows in the browser, from wallet connection to transaction signing and result verification.
-    - **Fork Testing:** QA engineers create a local "fork" of the mainnet blockchain to assess interactions with real, deployed [DeFi](/what-is-defi) protocols within a controlled setting.
+ - **Unit & Integration Tests:** Engineers write scripts, often in JavaScript or TypeScript using frameworks like Hardhat, or in [Solidity](/best-programming-languages-for-blockchain-development) with [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit), to test individual functions and interactions between smart contracts.
+ - **End-to-End (E2E) Testing:** Using tools like Cypress or Playwright, QA engineers automate user flows in the browser, from wallet connection to transaction signing and result verification.
+ - **Fork Testing:** QA engineers create a local "fork" of the mainnet blockchain to assess interactions with real, deployed [DeFi](/what-is-defi) protocols within a controlled setting.
 
 **4. Performance and Load Testing**
 - QA engineers evaluate the performance of the dApp's off-chain components, such as the frontend and indexer, under heavy user loads. They investigate the application's behavior when thousands of users access it simultaneously.
@@ -56,9 +56,8 @@ Testing a dApp entails complexities that differ significantly from traditional w
 1. **Establish a Traditional QA Background:** Gain experience in software testing within a Web2 environment.
 2. **Learn the Web3 Ecosystem:** Dive into the Web3 space. Familiarize yourself with smart contracts, dApps, and their technical challenges.
 3. **Build a [Portfolio](/building-web3-portfolio):**
-    - Seek out open-source Web3 projects on platforms like GitHub. Review their existing test suites.
-    - Identify features lacking test coverage and submit pull requests with new tests. This approach effectively showcases your skills.
-    - Craft a detailed "test plan" for a popular dApp and share it through a blog post.
+ - Seek out open-source Web3 projects on platforms like GitHub. Review their existing test suites.
+ - Identify features lacking test coverage and submit pull requests with new tests. This approach effectively showcases your skills.
+ - Craft a detailed "test plan" for a popular dApp and share it through a blog post.
 
 The role of a Web3 QA Engineer is critical in the development process. As protocols grow increasingly intricate and the stakes rise, the demand for detail-oriented professionals will escalate. This career path offers rewards for those who are passionate about quality and committed to enhancing the decentralization of the web.
-

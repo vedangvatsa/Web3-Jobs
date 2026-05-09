@@ -1,238 +1,238 @@
 {
-  "meta": {
-    "contentType": "checklists",
-    "topic": "security",
-    "niche": "gamefi-developer",
-    "generatedAt": "2026-03-13T00:00:00.000Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "GameFi Security Checklist",
-    "description": "Security checklist for GameFi developers covering smart contract integration, asset security, economy protection, and game-specific vulnerabilities.",
-    "keywords": ["gamefi-developer", "security", "checklist", "NFT", "game-economy"],
-    "canonicalSlug": "security-checklists-for-gamefi-developer"
-  },
-  "content": {
-    "intro": "GameFi combines traditional game security with blockchain security. This checklist covers critical security areas unique to Web3 games.",
-    "sections": [
-      {
-        "heading": "Smart Contract Security",
-        "description": "Secure your on-chain game logic.",
-        "items": [
-          {
-            "task": "Game contracts audited",
-            "priority": "critical",
-            "description": "All game contracts should be audited before mainnet deployment."
-          },
-          {
-            "task": "Upgrade mechanisms secured",
-            "priority": "critical",
-            "description": "If contracts are upgradeable, protect the upgrade admin with multisig and timelock."
-          },
-          {
-            "task": "Randomness is secure",
-            "priority": "critical",
-            "description": "Use Chainlink VRF or commit-reveal for randomness. Block hash is predictable."
-          },
-          {
-            "task": "Reentrancy protection on all external calls",
-            "priority": "critical",
-            "description": "Use checks-effects-interactions or reentrancy guards on mint/transfer functions."
-          },
-          {
-            "task": "Integer overflow checked",
-            "priority": "critical",
-            "description": "Use Solidity 0.8+ or SafeMath for all arithmetic."
-          },
-          {
-            "task": "Access control on admin functions",
-            "priority": "critical",
-            "description": "Only authorized addresses can mint, modify stats, or change game parameters."
-          }
-        ]
-      },
-      {
-        "heading": "NFT and Asset Security",
-        "description": "Protect game assets.",
-        "items": [
-          {
-            "task": "Metadata immutability",
-            "priority": "critical",
-            "description": "Decide if metadata is mutable. If mutable, restrict who can change it."
-          },
-          {
-            "task": "Royalty enforcement checked",
-            "priority": "important",
-            "description": "Understand that on-chain royalties are not always enforceable on all marketplaces."
-          },
-          {
-            "task": "NFT burn protection",
-            "priority": "critical",
-            "description": "Protect against accidental burns. Consider requiring confirmation."
-          },
-          {
-            "task": "Asset duplication prevention",
-            "priority": "critical",
-            "description": "Ensure assets cannot be duplicated through contract bugs."
-          },
-          {
-            "task": "Cross-chain asset bridging secured",
-            "priority": "critical",
-            "description": "If assets bridge chains, ensure bridge is secure and verified."
-          }
-        ]
-      },
-      {
-        "heading": "Economy Security",
-        "description": "Protect game economy from exploits.",
-        "items": [
-          {
-            "task": "Token minting rate limited",
-            "priority": "critical",
-            "description": "Limit how many tokens can be minted per time period to prevent inflation exploits."
-          },
-          {
-            "task": "Reward claiming rate limited",
-            "priority": "critical",
-            "description": "Prevent rapid reward claiming that could drain pools."
-          },
-          {
-            "task": "Flash loan attack prevention",
-            "priority": "critical",
-            "description": "If using on-chain voting or prices, consider flash loan manipulation."
-          },
-          {
-            "task": "Oracle price manipulation checked",
-            "priority": "critical",
-            "description": "If using price oracles, ensure they cannot be easily manipulated."
-          },
-          {
-            "task": "Reward pools have withdrawal limits",
-            "priority": "critical",
-            "description": "Large instant withdrawals could indicate an exploit. Add delays or limits."
-          },
-          {
-            "task": "Bot prevention mechanisms",
-            "priority": "critical",
-            "description": "Detect and prevent automated farming that destroys economy."
-          }
-        ]
-      },
-      {
-        "heading": "Game Client Security",
-        "description": "Secure the game client.",
-        "items": [
-          {
-            "task": "Server-authoritative for important state",
-            "priority": "critical",
-            "description": "Never trust the client for game outcomes, loot, or economic actions."
-          },
-          {
-            "task": "Signed transactions verified server-side",
-            "priority": "critical",
-            "description": "Verify all blockchain transactions through your backend before accepting."
-          },
-          {
-            "task": "Private keys never in client code",
-            "priority": "critical",
-            "description": "Admin or treasury keys must never be embedded in game clients."
-          },
-          {
-            "task": "Anti-cheat implemented",
-            "priority": "critical",
-            "description": "Memory editing, speed hacks, and automation should be detected."
-          },
-          {
-            "task": "Client obfuscation",
-            "priority": "important",
-            "description": "Obfuscate client code to slow down reverse engineering."
-          }
-        ]
-      },
-      {
-        "heading": "Wallet Integration Security",
-        "description": "Secure wallet connections.",
-        "items": [
-          {
-            "task": "Wallet connection uses standard protocols",
-            "priority": "critical",
-            "description": "Use WalletConnect, Web3Modal, or other standard connection methods."
-          },
-          {
-            "task": "Transaction signing explains actions",
-            "priority": "critical",
-            "description": "Users should understand what they are signing. Clear transaction descriptions."
-          },
-          {
-            "task": "No unnecessary token approvals",
-            "priority": "critical",
-            "description": "Request only the approvals needed. Avoid unlimited approvals."
-          },
-          {
-            "task": "Phishing protection messaging",
-            "priority": "important",
-            "description": "Warn users about phishing. Provide official links and verification."
-          },
-          {
-            "task": "Session management for embedded wallets",
-            "priority": "critical",
-            "description": "If using embedded wallets, implement proper session timeout and re-auth."
-          }
-        ]
-      },
-      {
-        "heading": "Backend Security",
-        "description": "Secure game servers and APIs.",
-        "items": [
-          {
-            "task": "API rate limiting",
-            "priority": "critical",
-            "description": "Prevent API abuse through rate limiting per user and IP."
-          },
-          {
-            "task": "Admin endpoints protected",
-            "priority": "critical",
-            "description": "Admin APIs require authentication and are not publicly accessible."
-          },
-          {
-            "task": "Database encrypted at rest",
-            "priority": "critical",
-            "description": "Player data and game state should be encrypted in storage."
-          },
-          {
-            "task": "Secrets management",
-            "priority": "critical",
-            "description": "API keys, private keys, and secrets use proper secrets management."
-          },
-          {
-            "task": "Logging and monitoring",
-            "priority": "critical",
-            "description": "Log suspicious activity and set up alerts for anomalies."
-          }
-        ]
-      }
-    ],
-    "commonMistakes": [
-      {
-        "mistake": "Using block.timestamp for game randomness",
-        "impact": "Miners can manipulate results. Players can predict outcomes.",
-        "prevention": "Use Chainlink VRF or commit-reveal schemes."
-      },
-      {
-        "mistake": "Trusting client for game outcomes",
-        "impact": "Cheaters can modify client to claim any reward.",
-        "prevention": "Server-authoritative architecture for all economic actions."
-      },
-      {
-        "mistake": "Unlimited token minting without safeguards",
-        "impact": "Exploits can hyperinflate token supply and destroy economy.",
-        "prevention": "Rate limits, caps, and monitoring on all minting."
-      },
-      {
-        "mistake": "Storing admin keys in client config",
-        "impact": "Anyone decompiling client gets admin access.",
-        "prevention": "Admin keys stay server-side only. Use multisig."
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "checklists",
+ "topic": "security",
+ "niche": "gamefi-developer",
+ "generatedAt": "2026-03-13T00:00:00.000Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "GameFi Security Checklist",
+ "description": "Security checklist for GameFi developers covering smart contract integration, asset security, economy protection, and game-specific vulnerabilities.",
+ "keywords": ["gamefi-developer", "security", "checklist", "NFT", "game-economy"],
+ "canonicalSlug": "security-checklists-for-gamefi-developer"
+ },
+ "content": {
+ "intro": "GameFi combines traditional game security with blockchain security. This checklist covers critical security areas unique to Web3 games.",
+ "sections": [
+ {
+ "heading": "Smart Contract Security",
+ "description": "Secure your on-chain game logic.",
+ "items": [
+ {
+ "task": "Game contracts audited",
+ "priority": "critical",
+ "description": "All game contracts should be audited before mainnet deployment."
+ },
+ {
+ "task": "Upgrade mechanisms secured",
+ "priority": "critical",
+ "description": "If contracts are upgradeable, protect the upgrade admin with multisig and timelock."
+ },
+ {
+ "task": "Randomness is secure",
+ "priority": "critical",
+ "description": "Use Chainlink VRF or commit-reveal for randomness. Block hash is predictable."
+ },
+ {
+ "task": "Reentrancy protection on all external calls",
+ "priority": "critical",
+ "description": "Use checks-effects-interactions or reentrancy guards on mint/transfer functions."
+ },
+ {
+ "task": "Integer overflow checked",
+ "priority": "critical",
+ "description": "Use Solidity 0.8+ or SafeMath for all arithmetic."
+ },
+ {
+ "task": "Access control on admin functions",
+ "priority": "critical",
+ "description": "Only authorized addresses can mint, modify stats, or change game parameters."
+ }
+ ]
+ },
+ {
+ "heading": "NFT and Asset Security",
+ "description": "Protect game assets.",
+ "items": [
+ {
+ "task": "Metadata immutability",
+ "priority": "critical",
+ "description": "Decide if metadata is mutable. If mutable, restrict who can change it."
+ },
+ {
+ "task": "Royalty enforcement checked",
+ "priority": "important",
+ "description": "Understand that on-chain royalties are not always enforceable on all marketplaces."
+ },
+ {
+ "task": "NFT burn protection",
+ "priority": "critical",
+ "description": "Protect against accidental burns. Consider requiring confirmation."
+ },
+ {
+ "task": "Asset duplication prevention",
+ "priority": "critical",
+ "description": "Ensure assets cannot be duplicated through contract bugs."
+ },
+ {
+ "task": "Cross-chain asset bridging secured",
+ "priority": "critical",
+ "description": "If assets bridge chains, ensure bridge is secure and verified."
+ }
+ ]
+ },
+ {
+ "heading": "Economy Security",
+ "description": "Protect game economy from exploits.",
+ "items": [
+ {
+ "task": "Token minting rate limited",
+ "priority": "critical",
+ "description": "Limit how many tokens can be minted per time period to prevent inflation exploits."
+ },
+ {
+ "task": "Reward claiming rate limited",
+ "priority": "critical",
+ "description": "Prevent rapid reward claiming that could drain pools."
+ },
+ {
+ "task": "Flash loan attack prevention",
+ "priority": "critical",
+ "description": "If using on-chain voting or prices, consider flash loan manipulation."
+ },
+ {
+ "task": "Oracle price manipulation checked",
+ "priority": "critical",
+ "description": "If using price oracles, ensure they cannot be easily manipulated."
+ },
+ {
+ "task": "Reward pools have withdrawal limits",
+ "priority": "critical",
+ "description": "Large instant withdrawals could indicate an exploit. Add delays or limits."
+ },
+ {
+ "task": "Bot prevention mechanisms",
+ "priority": "critical",
+ "description": "Detect and prevent automated farming that destroys economy."
+ }
+ ]
+ },
+ {
+ "heading": "Game Client Security",
+ "description": "Secure the game client.",
+ "items": [
+ {
+ "task": "Server-authoritative for important state",
+ "priority": "critical",
+ "description": "Never trust the client for game outcomes, loot, or economic actions."
+ },
+ {
+ "task": "Signed transactions verified server-side",
+ "priority": "critical",
+ "description": "Verify all blockchain transactions through your backend before accepting."
+ },
+ {
+ "task": "Private keys never in client code",
+ "priority": "critical",
+ "description": "Admin or treasury keys must never be embedded in game clients."
+ },
+ {
+ "task": "Anti-cheat implemented",
+ "priority": "critical",
+ "description": "Memory editing, speed hacks, and automation should be detected."
+ },
+ {
+ "task": "Client obfuscation",
+ "priority": "important",
+ "description": "Obfuscate client code to slow down reverse engineering."
+ }
+ ]
+ },
+ {
+ "heading": "Wallet Integration Security",
+ "description": "Secure wallet connections.",
+ "items": [
+ {
+ "task": "Wallet connection uses standard protocols",
+ "priority": "critical",
+ "description": "Use WalletConnect, Web3Modal, or other standard connection methods."
+ },
+ {
+ "task": "Transaction signing explains actions",
+ "priority": "critical",
+ "description": "Users should understand what they are signing. Clear transaction descriptions."
+ },
+ {
+ "task": "No unnecessary token approvals",
+ "priority": "critical",
+ "description": "Request only the approvals needed. Avoid unlimited approvals."
+ },
+ {
+ "task": "Phishing protection messaging",
+ "priority": "important",
+ "description": "Warn users about phishing. Provide official links and verification."
+ },
+ {
+ "task": "Session management for embedded wallets",
+ "priority": "critical",
+ "description": "If using embedded wallets, implement proper session timeout and re-auth."
+ }
+ ]
+ },
+ {
+ "heading": "Backend Security",
+ "description": "Secure game servers and APIs.",
+ "items": [
+ {
+ "task": "API rate limiting",
+ "priority": "critical",
+ "description": "Prevent API abuse through rate limiting per user and IP."
+ },
+ {
+ "task": "Admin endpoints protected",
+ "priority": "critical",
+ "description": "Admin APIs require authentication and are not publicly accessible."
+ },
+ {
+ "task": "Database encrypted at rest",
+ "priority": "critical",
+ "description": "Player data and game state should be encrypted in storage."
+ },
+ {
+ "task": "Secrets management",
+ "priority": "critical",
+ "description": "API keys, private keys, and secrets use proper secrets management."
+ },
+ {
+ "task": "Logging and monitoring",
+ "priority": "critical",
+ "description": "Log suspicious activity and set up alerts for anomalies."
+ }
+ ]
+ }
+ ],
+ "commonMistakes": [
+ {
+ "mistake": "Using block.timestamp for game randomness",
+ "impact": "Miners can manipulate results. Players can predict outcomes.",
+ "prevention": "Use Chainlink VRF or commit-reveal schemes."
+ },
+ {
+ "mistake": "Trusting client for game outcomes",
+ "impact": "Cheaters can modify client to claim any reward.",
+ "prevention": "Server-authoritative architecture for all economic actions."
+ },
+ {
+ "mistake": "Unlimited token minting without safeguards",
+ "impact": "Exploits can hyperinflate token supply and destroy economy.",
+ "prevention": "Rate limits, caps, and monitoring on all minting."
+ },
+ {
+ "mistake": "Storing admin keys in client config",
+ "impact": "Anyone decompiling client gets admin access.",
+ "prevention": "Admin keys stay server-side only. Use multisig."
+ }
+ ]
+ }
 }

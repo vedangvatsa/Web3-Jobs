@@ -59,11 +59,11 @@ Immerse yourself in Web3 by learning about smart contracts, using dApps, and und
 
 #### Step 3: Build a [Portfolio](/building-web3-portfolio)
 
-| Portfolio Item         | Description                                                                                      | Outcome                                      |
+| Portfolio Item | Description | Outcome |
 |------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Open-source Contributions | Engage with an open-source Web3 project on GitHub, studying their test suite.                   | Gain practical experience and visibility.   |
-| Missing Test Coverage   | Identify an area lacking test coverage and submit a pull request with new tests.                | Showcase your initiative and skills.        |
-| Test Plan Publication    | Write a detailed test plan for a popular dApp and publish it online.                           | Enhance credibility and display expertise.  |
+| Open-source Contributions | Engage with an open-source Web3 project on GitHub, studying their test suite. | Gain practical experience and visibility. |
+| Missing Test Coverage | Identify an area lacking test coverage and submit a pull request with new tests. | Showcase your initiative and skills. |
+| Test Plan Publication | Write a detailed test plan for a popular dApp and publish it online. | Enhance credibility and display expertise. |
 
 #### Step 4: Engage with the Web3 Community
 The Web3 community is highly accessible. Participate in Discord channels related to your interests, attend Web3 conferences such as Consensus and Devcon, and connect with industry leaders on Twitter/X.
@@ -76,4 +76,3 @@ Target positions that align with your existing skills and newly acquired Web3 kn
 - Sales professionals can target Web3 business development opportunities.
 
 ### The Expanding Web3 Opportunity
-

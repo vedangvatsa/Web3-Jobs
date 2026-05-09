@@ -16,10 +16,10 @@ Every [blockchain](/what-is-a-blockchain) has a starting point. The **genesis bl
 
 The uniqueness of the genesis block stems from its lack of a preceding block to reference. 
 
-| Feature            | Regular Block                               | Genesis Block                          |
+| Feature | Regular Block | Genesis Block |
 |--------------------|---------------------------------------------|----------------------------------------|
-| Previous Block Hash| Contains a hash of the prior block          | Typically set to zeros or placeholders |
-| Creation           | Follows the sequence of prior blocks         | The starting point of the entire ledger|
+| Previous Block Hash| Contains a hash of the prior block | Typically set to zeros or placeholders |
+| Creation | Follows the sequence of prior blocks | The starting point of the entire ledger|
 
 The genesis block is hardcoded into the blockchain's software. When a new node joins the network and begins downloading the blockchain's history, it first seeks out the genesis block. This block serves as the universally accepted starting point for the entire ledger.
 
@@ -52,16 +52,15 @@ The [Web3](/what-is-web3) sector is witnessing rapid growth, with demand for qua
 - **Remote Work:** Many Web3 companies operate fully remotely, allowing for global team collaboration.
 - **New Technology:** Professionals contribute to technologies that reshape finance, governance, and digital ownership.
 
-In particular, there is a severe talent shortage in smart contract development, protocol security, and tokenomics design. Qualified candidates often receive multiple offers shortly after entering the job market. For those considering a career shift, the combination of elevated compensation and growth potential makes Web3 compelling.
+In particular, there is a severe talent shortage in smart contract development, protocol security, and tokenomics design. Qualified candidates often receive multiple offers shortly after entering the job market. For those considering a career shift, the combination of improve compensation and growth potential makes Web3 compelling.
 
 ### Market Dynamics
 
 The [Web3 job](/web3-jobs-for-beginners) market shows distinct characteristics compared to Web2:
 
-| Aspect               | Web2 Dynamics                            | Web3 Dynamics                              |
+| Aspect | Web2 Dynamics | Web3 Dynamics |
 |----------------------|-----------------------------------------|--------------------------------------------|
-| **Compensation**     | Standard or lower salary levels         | Typically higher salaries                   |
-| **Work Environment** | Often office-based                       | Predominantly remote, offering flexibility  |
-| **Career Growth**    | Slower, stable progression               | Rapid advancement due to scaling companies  |
-| **Equity Potential** | Limited stock options                   | Standard token and equity packages         |
-
+| **Compensation** | Standard or lower salary levels | Typically higher salaries |
+| **Work Environment** | Often office-based | Predominantly remote, offering flexibility |
+| **Career Growth** | Slower, stable progression | Rapid advancement due to scaling companies |
+| **Equity Potential** | Limited stock options | Standard token and equity packages |

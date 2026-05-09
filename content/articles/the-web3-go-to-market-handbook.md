@@ -18,7 +18,7 @@ This handbook outlines a strategic framework for creating a strong go-to-market 
 
 The three foundational pillars of a successful Web3 GTM strategy include:
 
-1. **Community-Led Growth:** Techniques for Building a vibrant community from the outset and transforming users into owners and advocates.
+1. **Community-Led Growth:** Techniques for Building a active community from the outset and transforming users into owners and advocates.
 2. **Token Distribution:** The strategic significance of a well-structured [airdrop](/understanding-airdrop-campaigns-in-web3) and the mechanics behind a successful token launch.
 3. **Decentralized Marketing:** Using unique Web3 channels, including governance forums, Twitter Spaces, and on-chain data.
 
@@ -68,12 +68,12 @@ A token with substantial utility generates organic demand, encouraging users to 
 
 Your initial token distribution sets a precedent for the project's decentralization. A typical breakdown might include:
 
-| Stakeholder         | Percentage       |
+| Stakeholder | Percentage |
 |---------------------|------------------|
-| Community/Ecosystem | 50-60%           |
-| Core Team           | 15-20%           |
-| Investors           | 15-20%           |
-| Foundation/Treasury | 5-10%            |
+| Community/Ecosystem | 50-60% |
+| Core Team | 15-20% |
+| Investors | 15-20% |
+| Foundation/Treasury | 5-10% |
 
 Team and investor tokens must adhere to a long vesting schedule (e.g., a 4-year vesting period with a 1-year cliff). This alignment prevents insiders from selling their tokens prematurely, ensuring their interests align with the project's long-term success.
 
@@ -96,4 +96,3 @@ Traditional marketing avenues, such as Google and Facebook ads, often fall short
 - **The "Money Lego" Effect:** Composability, the ability for developers to create applications on top of your protocol without permission, represents Web3's unique advantage. Your GTM strategy should promote this.
 - **Grants Program:** Implement a grants program to support developers interested in building on your protocol.
 - **Integrations:** Pursue partnerships with prominent [DeFi](/what-is-defi) protocols. If your stablecoin gains traction as a collateral type on Aave or if your oracle is integrated by multiple projects, you enhance your project's defensibility.
-

@@ -1,313 +1,313 @@
 {
-  "meta": {
-    "contentType": "tools",
-    "topic": "development",
-    "niche": "web3-marketer",
-    "generatedAt": "2026-03-13T00:00:00.000Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "Essential Tools for Web3 Marketers",
-    "description": "A curated list of tools for Web3 marketers covering analytics, community building, content creation, and crypto-native growth.",
-    "keywords": ["web3-marketer", "tools", "marketing", "growth", "community"],
-    "canonicalSlug": "development-tools-for-web3-marketer"
-  },
-  "content": {
-    "intro": "Web3 marketing is different. No cookies, pseudonymous users, community-first. Here are the tools that actually work for crypto marketing.",
-    "sections": [
-      {
-        "heading": "On-chain Attribution",
-        "description": "Track what traditional analytics cannot.",
-        "items": [
-          {
-            "name": "Spindl",
-            "description": "Web3-native attribution. Connect marketing to on-chain conversions.",
-            "category": "Attribution",
-            "url": "https://www.spindl.xyz",
-            "pricing": "Paid",
-            "useCase": "Campaign attribution"
-          },
-          {
-            "name": "Cookie3",
-            "description": "Web3 analytics connecting wallets to behavior.",
-            "category": "Analytics",
-            "url": "https://www.cookie3.co",
-            "pricing": "Paid",
-            "useCase": "Wallet analytics"
-          },
-          {
-            "name": "Dune Analytics",
-            "description": "Build custom marketing dashboards with on-chain data.",
-            "category": "Analytics",
-            "url": "https://dune.com",
-            "pricing": "Free tier + Paid",
-            "useCase": "Custom metrics"
-          },
-          {
-            "name": "Nansen",
-            "description": "Wallet intelligence. See who holds your token.",
-            "category": "Analytics",
-            "url": "https://www.nansen.ai",
-            "pricing": "Paid",
-            "useCase": "Holder analysis"
-          }
-        ]
-      },
-      {
-        "heading": "Community Platforms",
-        "description": "Build and manage community.",
-        "items": [
-          {
-            "name": "Discord",
-            "description": "The home of Web3 communities. Essential.",
-            "category": "Community",
-            "url": "https://discord.com",
-            "pricing": "Free + Nitro",
-            "useCase": "Community hub"
-          },
-          {
-            "name": "Telegram",
-            "description": "Messaging for crypto communities. Good for announcements.",
-            "category": "Community",
-            "url": "https://telegram.org",
-            "pricing": "Free",
-            "useCase": "Announcements"
-          },
-          {
-            "name": "Guild.xyz",
-            "description": "Token-gated communities. Access based on holdings.",
-            "category": "Access Control",
-            "url": "https://guild.xyz",
-            "pricing": "Free",
-            "useCase": "Token gating"
-          },
-          {
-            "name": "Crew3 / Zealy",
-            "description": "Quest platform for community engagement.",
-            "category": "Engagement",
-            "url": "https://zealy.io",
-            "pricing": "Free tier + Paid",
-            "useCase": "Quests and tasks"
-          },
-          {
-            "name": "Galxe",
-            "description": "Credential and campaign platform. NFT rewards.",
-            "category": "Campaigns",
-            "url": "https://galxe.com",
-            "pricing": "Free tier + Paid",
-            "useCase": "Campaigns"
-          }
-        ]
-      },
-      {
-        "heading": "Social Media",
-        "description": "Reach crypto audiences.",
-        "items": [
-          {
-            "name": "Twitter/X",
-            "description": "Crypto lives on Twitter. Non-negotiable presence.",
-            "category": "Social",
-            "url": "https://twitter.com",
-            "pricing": "Free + Premium",
-            "useCase": "Primary channel"
-          },
-          {
-            "name": "Farcaster",
-            "description": "Decentralized social. Growing crypto-native audience.",
-            "category": "Social",
-            "url": "https://www.farcaster.xyz",
-            "pricing": "Free",
-            "useCase": "Crypto-native social"
-          },
-          {
-            "name": "Lens Protocol",
-            "description": "Decentralized social graph. Own your audience.",
-            "category": "Social",
-            "url": "https://www.lens.xyz",
-            "pricing": "Free",
-            "useCase": "Web3 social"
-          },
-          {
-            "name": "TweetDeck / Typefully",
-            "description": "Twitter scheduling and management.",
-            "category": "Management",
-            "url": "https://typefully.com",
-            "pricing": "Free tier + Paid",
-            "useCase": "Content scheduling"
-          }
-        ]
-      },
-      {
-        "heading": "Content Creation",
-        "description": "Create marketing content.",
-        "items": [
-          {
-            "name": "Canva",
-            "description": "Easy graphic design. Templates for social media.",
-            "category": "Design",
-            "url": "https://www.canva.com",
-            "pricing": "Free tier + Paid",
-            "useCase": "Social graphics"
-          },
-          {
-            "name": "Descript",
-            "description": "Video and podcast editing with transcription.",
-            "category": "Video",
-            "url": "https://www.descript.com",
-            "pricing": "Free tier + Paid",
-            "useCase": "Video content"
-          },
-          {
-            "name": "Midjourney",
-            "description": "AI image generation for marketing visuals.",
-            "category": "AI Art",
-            "url": "https://www.midjourney.com",
-            "pricing": "$10+/month",
-            "useCase": "Visual content"
-          },
-          {
-            "name": "Mirror",
-            "description": "Web3-native publishing platform.",
-            "category": "Publishing",
-            "url": "https://mirror.xyz",
-            "pricing": "Free",
-            "useCase": "Long-form content"
-          },
-          {
-            "name": "Paragraph",
-            "description": "Newsletter platform for Web3. Token-gated content.",
-            "category": "Newsletter",
-            "url": "https://paragraph.xyz",
-            "pricing": "Free tier + Paid",
-            "useCase": "Email newsletters"
-          }
-        ]
-      },
-      {
-        "heading": "Influencer and PR",
-        "description": "Amplify reach.",
-        "items": [
-          {
-            "name": "Kaito",
-            "description": "Crypto social intelligence. Track mindshare and influencers.",
-            "category": "Analytics",
-            "url": "https://www.kaito.ai",
-            "pricing": "Paid",
-            "useCase": "Social analytics"
-          },
-          {
-            "name": "Lunar Crush",
-            "description": "Social listening for crypto. Track sentiment.",
-            "category": "Analytics",
-            "url": "https://lunarcrush.com",
-            "pricing": "Free tier + Paid",
-            "useCase": "Sentiment tracking"
-          },
-          {
-            "name": "Cointelegraph",
-            "description": "Major crypto publication for PR.",
-            "category": "PR",
-            "url": "https://cointelegraph.com",
-            "pricing": "Paid placements",
-            "useCase": "Press coverage"
-          },
-          {
-            "name": "The Block",
-            "description": "Crypto news outlet for credible coverage.",
-            "category": "PR",
-            "url": "https://www.theblock.co",
-            "pricing": "Paid placements",
-            "useCase": "News coverage"
-          }
-        ]
-      },
-      {
-        "heading": "Growth Tools",
-        "description": "Acquire and retain users.",
-        "items": [
-          {
-            "name": "Layer3",
-            "description": "Learn-to-earn quests. Onboard users through education.",
-            "category": "Growth",
-            "url": "https://layer3.xyz",
-            "pricing": "Paid",
-            "useCase": "User onboarding"
-          },
-          {
-            "name": "RabbitHole",
-            "description": "Quest platform for on-chain actions.",
-            "category": "Growth",
-            "url": "https://rabbithole.gg",
-            "pricing": "Paid",
-            "useCase": "On-chain quests"
-          },
-          {
-            "name": "QuestN",
-            "description": "Multi-chain quest platform.",
-            "category": "Growth",
-            "url": "https://questn.com",
-            "pricing": "Free tier + Paid",
-            "useCase": "Multi-chain campaigns"
-          },
-          {
-            "name": "DeBank",
-            "description": "Portfolio tracker with social features.",
-            "category": "Social",
-            "url": "https://debank.com",
-            "pricing": "Free",
-            "useCase": "Community discovery"
-          },
-          {
-            "name": "Galxe",
-            "description": "Credential-based quest platform and campaigns.",
-            "category": "Growth",
-            "url": "https://galxe.com",
-            "pricing": "Paid",
-            "useCase": "Credential campaigns"
-          },
-          {
-            "name": "TaskOn",
-            "description": "Web3 task platform for community engagement.",
-            "category": "Growth",
-            "url": "https://taskon.xyz",
-            "pricing": "Free + Paid",
-            "useCase": "Community tasks"
-          },
-          {
-            "name": "Coinzilla",
-            "description": "Crypto advertising network for banner ads.",
-            "category": "Advertising",
-            "url": "https://coinzilla.com",
-            "pricing": "Paid",
-            "useCase": "Display ads"
-          },
-          {
-            "name": "Bitmedia",
-            "description": "Crypto ad network with targeting options.",
-            "category": "Advertising",
-            "url": "https://bitmedia.io",
-            "pricing": "Paid",
-            "useCase": "Targeted ads"
-          }
-        ]
-      }
-    ],
-    "proTips": [
-      {
-        "tip": "On-chain actions matter more than impressions. Measure conversions."
-      },
-      {
-        "tip": "Build on Farcaster early. The audience is small but highly engaged."
-      },
-      {
-        "tip": "Quest platforms drive volume but not always quality. Balance carefully."
-      },
-      {
-        "tip": "Community is the moat. Invest in Discord and genuine engagement."
-      },
-      {
-        "tip": "Airdrops are marketing spend. Budget and measure them accordingly."
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "tools",
+ "topic": "development",
+ "niche": "web3-marketer",
+ "generatedAt": "2026-03-13T00:00:00.000Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "Essential Tools for Web3 Marketers",
+ "description": "A curated list of tools for Web3 marketers covering analytics, community building, content creation, and crypto-native growth.",
+ "keywords": ["web3-marketer", "tools", "marketing", "growth", "community"],
+ "canonicalSlug": "development-tools-for-web3-marketer"
+ },
+ "content": {
+ "intro": "Web3 marketing is different. No cookies, pseudonymous users, community-first. Here are the tools that actually work for crypto marketing.",
+ "sections": [
+ {
+ "heading": "On-chain Attribution",
+ "description": "Track what traditional analytics cannot.",
+ "items": [
+ {
+ "name": "Spindl",
+ "description": "Web3-native attribution. Connect marketing to on-chain conversions.",
+ "category": "Attribution",
+ "url": "https://www.spindl.xyz",
+ "pricing": "Paid",
+ "useCase": "Campaign attribution"
+ },
+ {
+ "name": "Cookie3",
+ "description": "Web3 analytics connecting wallets to behavior.",
+ "category": "Analytics",
+ "url": "https://www.cookie3.co",
+ "pricing": "Paid",
+ "useCase": "Wallet analytics"
+ },
+ {
+ "name": "Dune Analytics",
+ "description": "Build custom marketing dashboards with on-chain data.",
+ "category": "Analytics",
+ "url": "https://dune.com",
+ "pricing": "Free tier + Paid",
+ "useCase": "Custom metrics"
+ },
+ {
+ "name": "Nansen",
+ "description": "Wallet intelligence. See who holds your token.",
+ "category": "Analytics",
+ "url": "https://www.nansen.ai",
+ "pricing": "Paid",
+ "useCase": "Holder analysis"
+ }
+ ]
+ },
+ {
+ "heading": "Community Platforms",
+ "description": "Build and manage community.",
+ "items": [
+ {
+ "name": "Discord",
+ "description": "The home of Web3 communities. Essential.",
+ "category": "Community",
+ "url": "https://discord.com",
+ "pricing": "Free + Nitro",
+ "useCase": "Community hub"
+ },
+ {
+ "name": "Telegram",
+ "description": "Messaging for crypto communities. Good for announcements.",
+ "category": "Community",
+ "url": "https://telegram.org",
+ "pricing": "Free",
+ "useCase": "Announcements"
+ },
+ {
+ "name": "Guild.xyz",
+ "description": "Token-gated communities. Access based on holdings.",
+ "category": "Access Control",
+ "url": "https://guild.xyz",
+ "pricing": "Free",
+ "useCase": "Token gating"
+ },
+ {
+ "name": "Crew3 / Zealy",
+ "description": "Quest platform for community engagement.",
+ "category": "Engagement",
+ "url": "https://zealy.io",
+ "pricing": "Free tier + Paid",
+ "useCase": "Quests and tasks"
+ },
+ {
+ "name": "Galxe",
+ "description": "Credential and campaign platform. NFT rewards.",
+ "category": "Campaigns",
+ "url": "https://galxe.com",
+ "pricing": "Free tier + Paid",
+ "useCase": "Campaigns"
+ }
+ ]
+ },
+ {
+ "heading": "Social Media",
+ "description": "Reach crypto audiences.",
+ "items": [
+ {
+ "name": "Twitter/X",
+ "description": "Crypto lives on Twitter. Non-negotiable presence.",
+ "category": "Social",
+ "url": "https://twitter.com",
+ "pricing": "Free + Premium",
+ "useCase": "Primary channel"
+ },
+ {
+ "name": "Farcaster",
+ "description": "Decentralized social. Growing crypto-native audience.",
+ "category": "Social",
+ "url": "https://www.farcaster.xyz",
+ "pricing": "Free",
+ "useCase": "Crypto-native social"
+ },
+ {
+ "name": "Lens Protocol",
+ "description": "Decentralized social graph. Own your audience.",
+ "category": "Social",
+ "url": "https://www.lens.xyz",
+ "pricing": "Free",
+ "useCase": "Web3 social"
+ },
+ {
+ "name": "TweetDeck / Typefully",
+ "description": "Twitter scheduling and management.",
+ "category": "Management",
+ "url": "https://typefully.com",
+ "pricing": "Free tier + Paid",
+ "useCase": "Content scheduling"
+ }
+ ]
+ },
+ {
+ "heading": "Content Creation",
+ "description": "Create marketing content.",
+ "items": [
+ {
+ "name": "Canva",
+ "description": "Easy graphic design. Templates for social media.",
+ "category": "Design",
+ "url": "https://www.canva.com",
+ "pricing": "Free tier + Paid",
+ "useCase": "Social graphics"
+ },
+ {
+ "name": "Descript",
+ "description": "Video and podcast editing with transcription.",
+ "category": "Video",
+ "url": "https://www.descript.com",
+ "pricing": "Free tier + Paid",
+ "useCase": "Video content"
+ },
+ {
+ "name": "Midjourney",
+ "description": "AI image generation for marketing visuals.",
+ "category": "AI Art",
+ "url": "https://www.midjourney.com",
+ "pricing": "$10+/month",
+ "useCase": "Visual content"
+ },
+ {
+ "name": "Mirror",
+ "description": "Web3-native publishing platform.",
+ "category": "Publishing",
+ "url": "https://mirror.xyz",
+ "pricing": "Free",
+ "useCase": "Long-form content"
+ },
+ {
+ "name": "Paragraph",
+ "description": "Newsletter platform for Web3. Token-gated content.",
+ "category": "Newsletter",
+ "url": "https://paragraph.xyz",
+ "pricing": "Free tier + Paid",
+ "useCase": "Email newsletters"
+ }
+ ]
+ },
+ {
+ "heading": "Influencer and PR",
+ "description": "Amplify reach.",
+ "items": [
+ {
+ "name": "Kaito",
+ "description": "Crypto social intelligence. Track mindshare and influencers.",
+ "category": "Analytics",
+ "url": "https://www.kaito.ai",
+ "pricing": "Paid",
+ "useCase": "Social analytics"
+ },
+ {
+ "name": "Lunar Crush",
+ "description": "Social listening for crypto. Track sentiment.",
+ "category": "Analytics",
+ "url": "https://lunarcrush.com",
+ "pricing": "Free tier + Paid",
+ "useCase": "Sentiment tracking"
+ },
+ {
+ "name": "Cointelegraph",
+ "description": "Major crypto publication for PR.",
+ "category": "PR",
+ "url": "https://cointelegraph.com",
+ "pricing": "Paid placements",
+ "useCase": "Press coverage"
+ },
+ {
+ "name": "The Block",
+ "description": "Crypto news outlet for credible coverage.",
+ "category": "PR",
+ "url": "https://www.theblock.co",
+ "pricing": "Paid placements",
+ "useCase": "News coverage"
+ }
+ ]
+ },
+ {
+ "heading": "Growth Tools",
+ "description": "Acquire and retain users.",
+ "items": [
+ {
+ "name": "Layer3",
+ "description": "Learn-to-earn quests. Onboard users through education.",
+ "category": "Growth",
+ "url": "https://layer3.xyz",
+ "pricing": "Paid",
+ "useCase": "User onboarding"
+ },
+ {
+ "name": "RabbitHole",
+ "description": "Quest platform for on-chain actions.",
+ "category": "Growth",
+ "url": "https://rabbithole.gg",
+ "pricing": "Paid",
+ "useCase": "On-chain quests"
+ },
+ {
+ "name": "QuestN",
+ "description": "Multi-chain quest platform.",
+ "category": "Growth",
+ "url": "https://questn.com",
+ "pricing": "Free tier + Paid",
+ "useCase": "Multi-chain campaigns"
+ },
+ {
+ "name": "DeBank",
+ "description": "Portfolio tracker with social features.",
+ "category": "Social",
+ "url": "https://debank.com",
+ "pricing": "Free",
+ "useCase": "Community discovery"
+ },
+ {
+ "name": "Galxe",
+ "description": "Credential-based quest platform and campaigns.",
+ "category": "Growth",
+ "url": "https://galxe.com",
+ "pricing": "Paid",
+ "useCase": "Credential campaigns"
+ },
+ {
+ "name": "TaskOn",
+ "description": "Web3 task platform for community engagement.",
+ "category": "Growth",
+ "url": "https://taskon.xyz",
+ "pricing": "Free + Paid",
+ "useCase": "Community tasks"
+ },
+ {
+ "name": "Coinzilla",
+ "description": "Crypto advertising network for banner ads.",
+ "category": "Advertising",
+ "url": "https://coinzilla.com",
+ "pricing": "Paid",
+ "useCase": "Display ads"
+ },
+ {
+ "name": "Bitmedia",
+ "description": "Crypto ad network with targeting options.",
+ "category": "Advertising",
+ "url": "https://bitmedia.io",
+ "pricing": "Paid",
+ "useCase": "Targeted ads"
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ {
+ "tip": "On-chain actions matter more than impressions. Measure conversions."
+ },
+ {
+ "tip": "Build on Farcaster early. The audience is small but highly engaged."
+ },
+ {
+ "tip": "Quest platforms drive volume but not always quality. Balance carefully."
+ },
+ {
+ "tip": "Community is the moat. Invest in Discord and genuine engagement."
+ },
+ {
+ "tip": "Airdrops are marketing spend. Budget and measure them accordingly."
+ }
+ ]
+ }
 }

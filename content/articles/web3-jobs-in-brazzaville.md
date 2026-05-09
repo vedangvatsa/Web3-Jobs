@@ -214,4 +214,3 @@ Yes, but it typically requires grant funding. Apply to organizations like the Wo
 
 **Should I stay in Brazzaville or relocate for better opportunities?**
 Remote work is a viable option from Brazzaville. If your goal is to gain experience in enterprise sales or community building, being on-site may be advantageous. Consider starting with remote work before deciding.
-

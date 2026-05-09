@@ -17,13 +17,13 @@ The conversation around blockchain scalability focuses on two main categories: *
 A **[Layer 1](/what-is-a-layer-1-blockchain)** blockchain serves as the foundational network. It acts as the primary source of truth and security for its ecosystem.
 
 - **Key Characteristics:**
-    - Each L1 blockchain secures itself through its own **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)**, such as Proof-of-Work or Proof-of-[Stake](/how-to-become-a-web3-staking-specialist).
-    - It operates with a native [token](/what-is-a-token) used to pay for transaction fees (for instance, BTC for [Bitcoin](/what-is-bitcoin) and ETH for [Ethereum](/what-is-ethereum)).
-    - All transactions ultimately occur on the L1 chain.
+ - Each L1 blockchain secures itself through its own **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)**, such as Proof-of-Work or Proof-of-[Stake](/how-to-become-a-web3-staking-specialist).
+ - It operates with a native [token](/what-is-a-token) used to pay for transaction fees (for instance, BTC for [Bitcoin](/what-is-bitcoin) and ETH for [Ethereum](/what-is-ethereum)).
+ - All transactions ultimately occur on the L1 chain.
 
 - **Examples:** Prominent L1 blockchains include Bitcoin, Ethereum, Solana, and Avalanche.
 
-- **Challenges:** L1s contend directly with the blockchain trilemma. High levels of decentralization and security often lead to scalability issues, resulting in network congestion and elevated fees, particularly evident on Ethereum.
+- **Challenges:** L1s contend directly with the blockchain trilemma. High levels of decentralization and security often lead to scalability issues, resulting in network congestion and improve fees, particularly evident on Ethereum.
 
 ### Layer 2 (L2) Solutions: Purpose and Functionality
 
@@ -47,21 +47,21 @@ This reliance explains why L2s are often considered a more secure scaling soluti
 
 ### Feature Comparison of L1 and L2
 
-| Feature         | Layer 1 (e.g., Ethereum, Solana) | Layer 2 (e.g., Arbitrum, zkSync) |
+| Feature | Layer 1 (e.g., Ethereum, Solana) | Layer 2 (e.g., Arbitrum, zkSync) |
 |-----------------|-----------------------------------|-----------------------------------|
-| **Role**        | Foundational Settlement Layer     | Scalable Execution Layer           |
-| **Security**    | Sovereign (secures itself)       | Inherited (secured by the L1)     |
-| **Speed/Cost**  | Slower and more expensive         | Faster and much cheaper            |
-| **Primary Job** | Provide security and data availability | Execute transactions quickly       |
+| **Role** | Foundational Settlement Layer | Scalable Execution Layer |
+| **Security** | Sovereign (secures itself) | Inherited (secured by the L1) |
+| **Speed/Cost** | Slower and more expensive | Faster and much cheaper |
+| **Primary Job** | Provide security and data availability | Execute transactions quickly |
 
 ### The Modular Future of Blockchain
 
 The emergence of L2 solutions has led to the concept of a "modular blockchain." In this architecture, the various functions of blockchain technology are distributed across specialized layers:
 
 1. **Execution Layer (L2s):** This layer handles most user interactions and decentralized application (dApp) logic, prioritizing speed and cost-effectiveness.
-   
+
 2. **Settlement & Security Layer (L1s):** This layer is focused on the final, immutable settlement of transactions, ensuring maximum security and decentralization.
-   
+
 3. **Data Availability Layer:** Specialized networks, such as Celestia, are designed for cost-effective storage of transaction data, benefiting L2 solutions by further minimizing costs.
 
 ### The Symbiotic Relationship Between L1 and L2
@@ -69,4 +69,3 @@ The emergence of L2 solutions has led to the concept of a "modular blockchain." 
 Layer 1 and Layer 2 platforms complement each other. L1s deliver foundational security and decentralization, while L2s enhance scalability, making mainstream adoption feasible. By shifting the majority of computations to L2s, the blockchain ecosystem can accommodate billions of users without sacrificing the decentralization that characterizes Web3.
 
 ### The Web3 Job Market Opportunity
-

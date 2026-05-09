@@ -103,4 +103,3 @@ For a Web3 role, organize your resume as follows:
 4. **Professional Experience** (reverse chronological, metrics-driven)
 5. **Web3 Community** (hackathons, governance, open-source)
 6. **Education** (brief, at the bottom)
-

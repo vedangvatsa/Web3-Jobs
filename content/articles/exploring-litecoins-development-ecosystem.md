@@ -22,12 +22,12 @@ The vitality of a [blockchain](/what-is-a-blockchain)'s developer community dire
 
 To evaluate developer activity on a public blockchain, several metrics come into play. These indicators collectively provide a complete view of the ecosystem's health.
 
-| Metric                          | Description                                                                                                           |
+| Metric | Description |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Core Protocol Commits**       | Frequency and significance of updates to the Litecoin codebase on repositories like [GitHub](/building-web3-portfolio). |
-| **Number of Active Developers** | Monthly active developers contributing to the ecosystem, as reported by various industry sources.                      |
-| **Ecosystem Project Growth**    | Number and quality of new projects built on Litecoin, including wallets, payment processors, and second-layer solutions.  |
-| **Community and Grant Programs**| Activity level in grant programs from the Litecoin Foundation, alongside discussions in developer forums and channels.    |
+| **Core Protocol Commits** | Frequency and significance of updates to the Litecoin codebase on repositories like [GitHub](/building-web3-portfolio). |
+| **Number of Active Developers** | Monthly active developers contributing to the ecosystem, as reported by various industry sources. |
+| **Ecosystem Project Growth** | Number and quality of new projects built on Litecoin, including wallets, payment processors, and second-layer solutions. |
+| **Community and Grant Programs**| Activity level in grant programs from the Litecoin Foundation, alongside discussions in developer forums and channels. |
 
 By examining these areas, one can arrive at a data-driven conclusion about the state of Litecoin’s developer activity and its future trajectory.
 
@@ -49,7 +49,7 @@ While Litecoin's base layer emphasizes stability, significant innovation is occu
 
 The Lightning Network is a Layer-2 protocol for both Bitcoin and Litecoin, facilitating rapid and low-cost transactions. Transactions are settled off-chain, with only the final balance reported to the main blockchain. This mechanism is particularly advantageous for micropayments and routine commerce. Litecoin has been an active participant in the Lightning ecosystem, supported by a community of developers operating nodes and creating applications.
 
-The growth of Lightning channels and the total capacity on the Litecoin Lightning Network reflects a vibrant user and developer base taking advantage of this second layer to address the scalability challenges of the base chain. Projects built on Lightning often serve both Bitcoin and Litecoin, supporting a shared ecosystem of wallets, payment channels, and services. This collaboration allows Litecoin to benefit from broader innovations occurring within the Bitcoin ecosystem.
+The growth of Lightning channels and the total capacity on the Litecoin Lightning Network reflects a active user and developer base taking advantage of this second layer to address the scalability challenges of the base chain. Projects built on Lightning often serve both Bitcoin and Litecoin, supporting a shared ecosystem of wallets, payment channels, and services. This collaboration allows Litecoin to benefit from broader innovations occurring within the Bitcoin ecosystem.
 
 ### The Emergence of LTC-20 and Ordinals
 
@@ -64,4 +64,3 @@ The Litecoin Foundation plays an integral role in nurturing the developer ecosys
 The Litecoin community itself is a vital asset. A global network of developers, miners, and supporters contributes to the project in various capacities. This participation includes building open-source wallets, operating public infrastructure such as nodes and block explorers, and engaging in discussions about protocol enhancements.
 
 In contrast to the vast developer ecosystems of Ethereum or Solana, which benefit from significant venture capital and dedicated grant programs, Litecoin's ecosystem is more modest and grassroots-oriented. It relies on community passion and the inherent utility of LTC as a medium of exchange.
-

@@ -26,10 +26,10 @@ The CRISPR-Cas9 system consists of two primary components:
 
 Once Cas9 cuts the DNA, the cell's natural repair mechanisms activate to mend the break. Scientists can use this repair process to introduce changes to the genome through two main pathways:
 
-| Repair Pathway                  | Description                                                                                                          | Use Case                                    |
+| Repair Pathway | Description | Use Case |
 |----------------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| Non-Homologous End Joining (NHEJ) | This default repair mechanism is quick but can introduce errors, such as small insertions or deletions. Scientists use it to disable specific genes. | Gene knockout experiments                    |
-| Homology-Directed Repair (HDR)   | This pathway allows for more precise repairs when a template DNA piece is provided. It enables the insertion of new genes or correction of faulty ones. | Gene correction or insertion of beneficial traits |
+| Non-Homologous End Joining (NHEJ) | This default repair mechanism is quick but can introduce errors, such as small insertions or deletions. Scientists use it to disable specific genes. | Gene knockout experiments |
+| Homology-Directed Repair (HDR) | This pathway allows for more precise repairs when a template DNA piece is provided. It enables the insertion of new genes or correction of faulty ones. | Gene correction or insertion of beneficial traits |
 
 ### Applications in Medicine
 
@@ -45,7 +45,7 @@ In addition to genetic disorders, gene editing proves valuable in cancer treatme
 
 ### Broader Applications and Ethical Considerations
 
-The implications of gene editing extend beyond human health, significantly impacting agriculture. Scientists use gene editing to develop crops that are more nutritious, resistant to pests and diseases, and better equipped to endure climate change effects, such as drought. Additionally, gene editing can enhance livestock by creating breeds with natural disease resistance.
+The implications of gene editing extend beyond human health, significantly impacting agriculture. Scientists use gene editing to develop crops that are more nutritious, resistant to pests and diseases, and better equipped to endure climate change effects, such as drought. gene editing can enhance livestock by creating breeds with natural disease resistance.
 
 However, the capacity to edit the human genome, particularly in embryos (known as germline editing), raises profound ethical questions. While it has the potential to eliminate devastating genetic diseases from family lines, it also opens avenues for non-medical enhancements, leading to concerns about "designer babies." A consensus among scientists suggests that germline editing should not be employed for reproductive purposes at this time due to safety and ethical issues.
 
@@ -53,13 +53,13 @@ Gene editing technology, particularly CRISPR, enables scientists with a useful t
 
 ### Frequently Asked Questions (FAQs)
 
-**Is gene editing the same as creating a GMO?**  
+**Is gene editing the same as creating a GMO?** 
 Gene editing differs from traditional genetically modified organisms (GMOs). Traditional GMOs often involve inserting genes from different species, while gene editing, especially through CRISPR, allows for precise modifications to an organism's existing DNA. These changes may mirror those that occur through natural mutations. Regulatory frameworks and public perception surrounding these technologies continue to develop.
 
-**How accurate is CRISPR?**  
+**How accurate is CRISPR?** 
 CRISPR boasts remarkable accuracy; however, it is not infallible. There is a risk of "off-target effects," where the Cas9 enzyme cuts DNA at unintended locations. Researchers are actively developing refined versions of CRISPR systems to enhance precision and minimize these risks.
 
-**Is gene editing available as a treatment today?**  
+**Is gene editing available as a treatment today?** 
 Yes, gene editing therapies are available but in limited capacities. Recent approvals in the United States and Europe have emerged for therapies targeting blood disorders such as sickle cell anemia and beta-thalassemia. Numerous other gene editing treatments are currently undergoing clinical trials, marking significant progress in this growing field.
 
 ### Why This Matters
@@ -90,7 +90,7 @@ Monitor your understanding and application of gene editing concepts. Reflect on 
 
 ### Real-World Examples of Gene Editing Impact
 
-| Example           | Description                                                                                     | Outcome                                      |
+| Example | Description | Outcome |
 |-------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------|
 | **Sickle Cell Anemia Treatment** | Researchers at the University of California, Berkeley, developed a CRISPR therapy to treat sickle cell anemia by editing the patient's own stem cells. | Clinical trials showed significant reduction in disease symptoms, paving the way for potential widespread treatment. |
 | **Improved Crop Resilience** | Scientists at the University of Illinois used CRISPR to enhance drought resistance in soybeans, allowing for better yields in adverse conditions. | Field trials demonstrated increased resilience and productivity, important for adapting to climate change. |
@@ -99,7 +99,7 @@ Monitor your understanding and application of gene editing concepts. Reflect on 
 ### Common Mistakes to Avoid in Engaging with Gene Editing
 
 1. **Rushing the Learning Process**: Expecting immediate mastery can lead to frustration. Allow time for gradual understanding and application.
-  
+
 2. **Ignoring Emerging Research**: The field of gene editing evolves rapidly. Stay updated with the latest studies and breakthroughs to maintain a current knowledge base.
 
 3. **Overlooking Ethical Implications**: Failing to consider the ethical aspects of gene editing can lead to misunderstandings. Engage with ethical discussions and frameworks to inform your perspective.
@@ -107,4 +107,3 @@ Monitor your understanding and application of gene editing concepts. Reflect on 
 4. **Not Collaborating with Experts**: Working in isolation limits your insight. Seek opportunities to collaborate with professionals in genetic research or policy-making.
 
 5. **Neglecting Practical Applications**: Understanding theory is essential, but applying knowledge in real-world scenarios enhances learning. Look for internships, workshops, or projects that allow hands-on experience.
-

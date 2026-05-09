@@ -19,8 +19,8 @@ The human brain consists of billions of neurons that communicate through electri
 A BCI system comprises three essential components:
 
 1. **Signal Acquisition**: This initial step involves measuring the brain's electrical activity through two primary methods:
-   * **Non-invasive BCIs**: These systems use sensors placed externally on the head. The most prevalent type is the electroencephalogram (EEG), which employs a cap fitted with small electrodes to capture electrical signals from the scalp. Although EEG-based BCIs are safe and user-friendly, they produce weak and noisy signals that must traverse the skull.
-   * **Invasive BCIs**: These systems necessitate surgical procedures to place electrodes directly on or within the brain. This approach generates higher-quality signals as the electrodes are situated near the neurons. Companies are pursuing this method. Although invasive BCIs deliver superior performance, they carry risks associated with brain surgery.
+ * **Non-invasive BCIs**: These systems use sensors placed externally on the head. The most prevalent type is the electroencephalogram (EEG), which employs a cap fitted with small electrodes to capture electrical signals from the scalp. Although EEG-based BCIs are safe and user-friendly, they produce weak and noisy signals that must traverse the skull.
+ * **Invasive BCIs**: These systems necessitate surgical procedures to place electrodes directly on or within the brain. This approach generates higher-quality signals as the electrodes are situated near the neurons. Companies are pursuing this method. Although invasive BCIs deliver superior performance, they carry risks associated with brain surgery.
 
 2. **Signal Processing**: The raw brain signals are inherently complex and noisy. The BCI's software employs advanced algorithms and machine learning techniques to filter out noise and pinpoint specific patterns that reflect the user's intentions. For instance, if a user imagines moving their right hand, the BCI learns to identify the associated neural activity pattern.
 
@@ -34,11 +34,11 @@ The primary focus of BCI research today lies in medical applications, particular
 
 * **Restoring Movement**: BCIs are also being used to operate advanced prosthetic limbs. An individual with an amputation can learn to control a robotic arm by thinking about the desired movement. In even more sophisticated applications, BCIs can bypass spinal cord injuries by reading motor signals from the brain and transmitting them to electrodes that stimulate the person's own muscles, allowing movement in paralyzed limbs.
 
-| Application               | Description                                                                                     | Example                              |
+| Application | Description | Example |
 |---------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------|
-| Communication             | Enables typing, emailing, and browsing using imagined cursor movements.                        | A paralyzed user sending emails.     |
-| Restoring Movement         | Allows control of prosthetic limbs or stimulation of paralyzed muscles through brain signals.   | Controlling a robotic arm.           |
-| Neurofeedback             | Offers users insights into their brain activity to help with conditions like anxiety or ADHD.   | A user learning to manage stress.    |
+| Communication | Enables typing, emailing, and browsing using imagined cursor movements. | A paralyzed user sending emails. |
+| Restoring Movement | Allows control of prosthetic limbs or stimulation of paralyzed muscles through brain signals. | Controlling a robotic arm. |
+| Neurofeedback | Offers users insights into their brain activity to help with conditions like anxiety or ADHD. | A user learning to manage stress. |
 
 ### The Future of BCIs
 
@@ -84,4 +84,3 @@ Grasping the implications of BCIs is essential for professionals aiming to excel
 4. **Implement Gradually**: Avoid overwhelming yourself with too much information at once. Start with a small, manageable aspect of BCI technology and build from there. Monitor what works well and adjust your approach accordingly.
 
 5. **Measure Progress**: Keep track of your learning journey. Are you achieving your goals? Continuously refine your strategy based on feedback and outcomes.
-

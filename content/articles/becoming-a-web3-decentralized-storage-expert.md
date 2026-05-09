@@ -30,15 +30,15 @@ Engineers can pursue several roles in the decentralized storage sector:
 
 - **dApp Developer:** Developers in this role use decentralized storage networks to create reliable applications. For instance, an NFT developer might store an NFT's image and metadata on IPFS or Arweave, ensuring that the information remains accessible and impervious to deletion by centralized servers.
 
-- **Tooling and API Developer:** This role involves creating tools that facilitate the use of decentralized storage for other developers. Examples include building "pinning services" that ensure data persists on IPFS or developing indexing services to streamline data queries on Arweave.
+- **Tooling and API Developer:** This role involves creating tools that facilitate the use of decentralized storage for other developers. Examples include building "pinning services" that ensure data persists on IPFS or developing indexing services to simplify data queries on Arweave.
 
 ### Steps to Enter the Decentralized Storage Field
 
 1. **Familiarize with the Tools:** Understanding the command-line interface for both IPFS and Arweave is important. Experiment with uploading and retrieving files to grasp the concepts of content addressing and pinning effectively.
 
 2. **Develop a Project:**
-   - **Project Idea:** Create a decentralized blog. Write a script that uploads a markdown file to Arweave and then displays it on a simple frontend.
-   - **Project Idea:** Develop an NFT where the metadata and image are stored on IPFS, ensuring permanence and accessibility.
+ - **Project Idea:** Create a decentralized blog. Write a script that uploads a markdown file to Arweave and then displays it on a simple frontend.
+ - **Project Idea:** Develop an NFT where the metadata and image are stored on IPFS, ensuring permanence and accessibility.
 
 3. **Contribute to the Ecosystem:** Engage with the open-source development of IPFS, including its reference implementation, Kubo. Identify issues on [GitHub](/building-web3-portfolio) and submit pull requests to improve the protocol.
 
@@ -68,9 +68,8 @@ The decentralized storage sector is fast-changing. Here are some notable trends:
 
 The decentralized storage sector presents numerous avenues for growth and innovation. As the demand for secure and permanent data storage increases, the need for skilled professionals will expand. Potential future opportunities include:
 
-- **Research and Development:** Innovating new protocols that enhance data permanence, security, and accessibility will remain vital. Engineers can contribute to developing next-generation decentralized storage systems.
+- **Research and Development:** Innovating new protocols that enhance data permanence, security, and accessibility will remain vital. Engineers can contribute to developing modern decentralized storage systems.
 
 - **Consultancy Services:** As businesses adopt decentralized storage solutions, opportunities for consultancy roles will grow. Experts can guide organizations in implementing and optimizing these systems.
 
 - **Security Auditing:** With the rise of decentralized storage comes the need for security audits. Professionals who specialize in analyzing and securing decentralized storage protocols will be in high demand.
-

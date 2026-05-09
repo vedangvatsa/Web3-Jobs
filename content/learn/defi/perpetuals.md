@@ -6,27 +6,27 @@ readTime: "11 min"
 difficulty: "advanced"
 prerequisites: ["dexs"]
 quiz:
-  - question: "What is a perpetual futures contract?"
-    options:
-      - "A futures contract that expires every month."
-      - "A futures contract with no expiration date, allowing traders to hold leveraged positions indefinitely."
-      - "A type of options contract."
-      - "A stablecoin that tracks commodity prices."
-    correct: 1
-    explanation: "Perpetual futures ('perps') are futures contracts that never expire. They use a funding rate mechanism to keep the contract price anchored to the spot price."
-  - question: "What is the 'funding rate' in perpetual futures?"
-    options:
-      - "The gas fee for opening a trade."
-      - "A periodic payment between longs and shorts that keeps the perp price aligned with the spot price."
-      - "The interest rate on borrowed margin."
-      - "The protocol's trading fee."
-    correct: 1
-    explanation: "When the perp price is above spot, longs pay shorts (incentivizing shorting). When the perp price is below spot, shorts pay longs. This mechanism keeps prices aligned without expiration."
+ - question: "What is a perpetual futures contract?"
+ options:
+ - "A futures contract that expires every month."
+ - "A futures contract with no expiration date, allowing traders to hold use positions indefinitely."
+ - "A type of options contract."
+ - "A stablecoin that tracks commodity prices."
+ correct: 1
+ explanation: "Perpetual futures ('perps') are futures contracts that never expire. They use a funding rate mechanism to keep the contract price anchored to the spot price."
+ - question: "What is the 'funding rate' in perpetual futures?"
+ options:
+ - "The gas fee for opening a trade."
+ - "A periodic payment between longs and shorts that keeps the perp price aligned with the spot price."
+ - "The interest rate on borrowed margin."
+ - "The protocol's trading fee."
+ correct: 1
+ explanation: "When the perp price is above spot, longs pay shorts (incentivizing shorting). When the perp price is below spot, shorts pay longs. This mechanism keeps prices aligned without expiration."
 ---
 
 ## What Are Perpetual Futures?
 
-A perpetual futures contract (or "perp") lets you bet on the price of an asset with leverage, without actually buying the asset. Unlike traditional futures which expire on a specific date, perps have no expiry — you can hold your position as long as you want (as long as you don't get liquidated).
+A perpetual futures contract (or "perp") lets you bet on the price of an asset with use, without actually buying the asset. Unlike traditional futures which expire on a specific date, perps have no expiry — you can hold your position as long as you want (as long as you don't get liquidated).
 
 Perps were invented by BitMEX in 2016 and have become the most traded instrument in all of crypto — daily volume routinely exceeds $100 billion.
 
@@ -34,9 +34,9 @@ Perps were invented by BitMEX in 2016 and have become the most traded instrument
 
 ### Opening a Position
 
-You deposit collateral (usually USDC or ETH) and open a **long** (betting the price goes up) or **short** (betting the price goes down) with leverage.
+You deposit collateral (usually USDC or ETH) and open a **long** (betting the price goes up) or **short** (betting the price goes down) with use.
 
-Example with 10x leverage:
+Example with 10x use:
 - You deposit $1,000 as margin.
 - You open a 10x long on ETH at $3,000.
 - Your effective position size is $10,000 (buying 3.33 ETH worth of exposure).
@@ -65,7 +65,7 @@ GMX uses a unique liquidity pool model. Instead of an order book, traders trade 
 dYdX operates a fully on-chain order book exchange on its own Cosmos-based chain. It offers the deepest liquidity of any decentralized perp exchange.
 
 - Uses an off-chain order book with on-chain settlement.
-- Supports up to 20x leverage on major pairs.
+- Supports up to 20x use on major pairs.
 - Has its own dedicated blockchain (dYdX Chain) for maximum throughput.
 
 ### Hyperliquid
@@ -78,7 +78,7 @@ A high-performance perp DEX on its own L1 blockchain, designed for sub-second la
 ## Risk Management
 
 ### Liquidation
-If your position loses enough that your remaining margin falls below the maintenance requirement, the protocol automatically closes your position. With high leverage, this can happen very quickly.
+If your position loses enough that your remaining margin falls below the maintenance requirement, the protocol automatically closes your position. With high use, this can happen very quickly.
 
 ### Insurance Funds
 Protocols maintain insurance funds to cover situations where liquidations happen at prices worse than the liquidation price (cascading liquidations during flash crashes).
@@ -93,7 +93,7 @@ Decentralized perps rely on price oracles. If the oracle reports an incorrect pr
 | KYC Required | Yes | No |
 | Custody | Exchange holds funds | Self-custody |
 | Latency | ~1ms | ~100ms-1s |
-| Max Leverage | 125x | 20-50x |
+| Max use | 125x | 20-50x |
 | Transparency | Opaque | Fully auditable |
 | Counterparty Risk | Exchange bankruptcy | Smart contract risk |
 
@@ -102,5 +102,5 @@ Decentralized perps rely on price oracles. If the oracle reports an incorrect pr
 - Perpetual futures are the most-traded crypto instrument, exceeding $100B daily volume.
 - The funding rate mechanism keeps perp prices aligned with spot prices.
 - Decentralized perps (GMX, dYdX, Hyperliquid) offer self-custody and transparency.
-- High leverage amplifies both gains and losses — liquidation risk is the primary danger.
+- High use amplifies both gains and losses — liquidation risk is the primary danger.
 - Oracle reliability is critical for fair pricing on decentralized perp exchanges.

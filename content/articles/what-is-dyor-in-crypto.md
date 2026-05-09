@@ -89,4 +89,3 @@ The same research skills that help you sidestep poor investments also prevent yo
 DYOR serves as a philosophical reminder that in crypto, reliance on institutions is unwise. You must take responsibility for your decisions, which requires thorough research, critical thinking, and skepticism.
 
 For anyone engaged in Web3, whether as an investor, employee, or builder, applying DYOR principles to your choices will prove advantageous. Always verify claims and form your own understanding, rather than succumbing to external opinions.
-

@@ -19,7 +19,7 @@ The Web3 ecosystem in Harare thrives on problem-solving. Local participants poss
 Harare's crypto ecosystem is pragmatic and utility-focused.
 
 - **High Adoption Rates:** Zimbabweans primarily adopt crypto for stability and as a reliable medium of exchange. The use of stablecoins and [Bitcoin](/what-is-bitcoin) for savings and peer-to-peer transactions is widespread, reflecting a user base that deeply understands self-custody and decentralized finance.
-  
+
 - **Emphasis on DeFi and Payment Solutions:** Local developers concentrate on creating solutions that meet immediate financial needs. They focus on enhancing on-ramps and off-ramps, establishing DeFi-based savings and lending platforms, and building tools for businesses to accept cryptocurrency payments.
 
 - **Growing Developer Community:** Despite resource constraints, Harare boasts a dedicated community of developers who are learning [Solidity](/best-programming-languages-for-blockchain-development) and other essential Web3 skills. Tech hubs and online networks play important roles in developing this talent.
@@ -51,19 +51,19 @@ The most promising opportunities for Zimbabwean professionals lie in remote posi
 ### Salary Breakdown
 
 - **Developer Compensation:**
-  - Junior DeFi Developer (0-1 year): Competitive (remote)
-  - Mid-Level Developer (1-3 years): Competitive (remote)
-  - Senior Developer (3+ years): Competitive (remote)
+ - Junior DeFi Developer (0-1 year): Competitive (remote)
+ - Mid-Level Developer (1-3 years): Competitive (remote)
+ - Senior Developer (3+ years): Competitive (remote)
 
 - **Growth & Community Roles:**
-  - Community Manager (Africa Focus): Competitive (remote)
-  - Growth Lead: Competitive (remote)
-  - Product Manager: Competitive (remote)
+ - Community Manager (Africa Focus): Competitive (remote)
+ - Growth Lead: Competitive (remote)
+ - Product Manager: Competitive (remote)
 
 - **[Freelance](/how-to-start-freelancing-for-beginners)/Consulting Rates:**
-  - Smart contract audit: Competitive per contract
-  - DeFi consulting: Competitive per hour
-  - On-chain analysis: Competitive per hour
+ - Smart contract audit: Competitive per contract
+ - DeFi consulting: Competitive per hour
+ - On-chain analysis: Competitive per hour
 
 **Real-World Impact of Web3 Salaries in Harare**
 A mid-level developer earning a competitive salary in stablecoins can expect to have substantial purchasing power. Here’s a breakdown of typical living expenses:
@@ -82,72 +82,72 @@ Maintaining savings in crypto is essential to counteract the effects of inflatio
 #### Path 1: DeFi [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) (8-14 months)
 
 - **Months 1-3: Foundation**
-  - Learn Solidity through Cryptozombies and CryptoDevHub.
-  - Build your first smart contract.
-  - Study DeFi architecture (e.g., Uniswap, Aave).
-  - Time commitment: 20-30 hours/week.
+ - Learn Solidity through Cryptozombies and CryptoDevHub.
+ - Build your first smart contract.
+ - Study DeFi architecture (e.g., Uniswap, Aave).
+ - Time commitment: 20-30 hours/week.
 
 - **Months 4-6: DeFi Specialization**
-  - Develop two DeFi projects, such as a simple [DEX](/what-is-a-decentralized-exchange-dex) or lending protocol.
-  - Gain knowledge in auditing and security best practices.
-  - Contribute to open-source DeFi projects.
-  - Time commitment: 25-35 hours/week.
+ - Develop two DeFi projects, such as a simple [DEX](/what-is-a-decentralized-exchange-dex) or lending protocol.
+ - Gain knowledge in auditing and security best practices.
+ - Contribute to open-source DeFi projects.
+ - Time commitment: 25-35 hours/week.
 
 - **Months 7-9: Real Projects & Income**
-  - Complete three to four freelance DeFi contracts.
-  - Audit smart contracts.
-  - Build a reputation in DeFi communities (e.g., Discord, Twitter).
-  - Expected income: Competitive.
+ - Complete three to four freelance DeFi contracts.
+ - Audit smart contracts.
+ - Build a reputation in DeFi communities (e.g., Discord, Twitter).
+ - Expected income: Competitive.
 
 - **Months 10-14: Full-Time Role**
-  - Aim for a mid-level developer position.
-  - Apply to projects like Aave or Compound.
-  - Expected salary: Competitive.
+ - Aim for a mid-level developer position.
+ - Apply to projects like Aave or Compound.
+ - Expected salary: Competitive.
 
 #### Path 2: Africa-Focused Growth & Community Lead (10-16 months)
 
 - **Months 1-4: Research & Networking**
-  - Conduct in-depth studies on how crypto operates in Zimbabwe and Southern Africa.
-  - Interview over ten local traders and business owners.
-  - Join African crypto and Web3 communities.
-  - Time commitment: 12-16 hours/week.
+ - Conduct in-depth studies on how crypto operates in Zimbabwe and Southern Africa.
+ - Interview over ten local traders and business owners.
+ - Join African crypto and Web3 communities.
+ - Time commitment: 12-16 hours/week.
 
 - **Months 5-8: Content Creation & Visibility**
-  - Publish over 20 pieces of content, including articles and case studies.
-  - Build a Twitter audience focused on African crypto.
-  - Speak on podcasts about African Web3.
-  - Set goals for follower counts and newsletter subscribers.
-  - Time commitment: 20-25 hours/week.
+ - Publish over 20 pieces of content, including articles and case studies.
+ - Build a Twitter audience focused on African crypto.
+ - Speak on podcasts about African Web3.
+ - Set goals for follower counts and newsletter subscribers.
+ - Time commitment: 20-25 hours/week.
 
 - **Months 9-12: Commercial Opportunities**
-  - Receive offers from DAOs/companies seeking a growth lead focused on Africa.
-  - Negotiate initial retainer or contract.
-  - Expected income: Competitive.
+ - Receive offers from DAOs/companies seeking a growth lead focused on Africa.
+ - Negotiate initial retainer or contract.
+ - Expected income: Competitive.
 
 - **Months 13-16: Full-Time Position**
-  - Secure a community manager or growth lead role.
-  - Expected salary: Competitive.
+ - Secure a community manager or growth lead role.
+ - Expected salary: Competitive.
 
 #### Path 3: On-Chain Data & Research Specialist (9-15 months)
 
 - **Months 1-3: Blockchain Data Fundamentals**
-  - Learn to use tools like The Graph and Dune Analytics.
-  - Understand on-chain data analysis and key metrics.
-  - Time commitment: 15-20 hours/week.
+ - Learn to use tools like The Graph and Dune Analytics.
+ - Understand on-chain data analysis and key metrics.
+ - Time commitment: 15-20 hours/week.
 
 - **Months 4-6: Research & Analysis**
-  - Create 1-2 detailed on-chain analyses.
-  - Build a public dashboard to showcase African crypto activity.
-  - Publish consistent market reports.
-  - Time commitment: 20-25 hours/week.
+ - Create 1-2 detailed on-chain analyses.
+ - Build a public dashboard to showcase African crypto activity.
+ - Publish consistent market reports.
+ - Time commitment: 20-25 hours/week.
 
 - **Months 7-9: Consulting & Income**
-  - Begin receiving consulting offers from projects needing African market insights.
-  - Expected income: Competitive.
+ - Begin receiving consulting offers from projects needing African market insights.
+ - Expected income: Competitive.
 
 - **Months 10-15: Full-Time Research Role**
-  - Target a research analyst or strategist position.
-  - Expected salary: Competitive.
+ - Target a research analyst or strategist position.
+ - Expected salary: Competitive.
 
 ### Challenges and Solutions
 
@@ -220,4 +220,3 @@ Yes, identify specific local problems that can be addressed through crypto solut
 
 **How can I protect myself from scams?**
 Work exclusively with verifiable companies and use escrow services for freelance projects. Never share sensitive information like seed phrases, and always formalize agreements in writing.
-

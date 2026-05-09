@@ -60,4 +60,3 @@ Choosing the right path depends on your interests and professional background.
 - If you possess a hacker's mindset and a passion for security, consider a role as a **security researcher**.
 
 Regardless of the path you choose, establishing a strong foundation in blockchain principles and committing to continuous learning is vital.
-

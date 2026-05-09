@@ -18,8 +18,8 @@ Token-gated commerce represents one of the most compelling applications of Web3 
 
 - **Mechanism:** A customer connects their **[crypto wallet](/how-to-choose-a-crypto-wallet)** to a brand's online store. The system checks for specific NFTs, such as a "VIP Membership NFT." If the customer possesses this NFT, they gain access to exclusive merchandise or discounted prices.
 - **Implementation Examples:**
-  - **Shopify** has integrated token-gated storefronts for merchants, enabling easy setup for exclusive access.
-  - **Starbucks** launched its "Odyssey" program, where customers earn "Journey Stamps" (NFTs) that unlock unique benefits and experiences.
+ - **Shopify** has integrated token-gated storefronts for merchants, enabling easy setup for exclusive access.
+ - **Starbucks** launched its "Odyssey" program, where customers earn "Journey Stamps" (NFTs) that unlock unique benefits and experiences.
 - **Impact on Engagement:** This model shifts traditional loyalty programs from basic points systems to communities of owners. Customers hold "membership cards" in the form of NFTs, which they can own and resell, significantly enhancing brand engagement.
 
 ### NFTs as Proof of Authenticity
@@ -36,9 +36,9 @@ While platforms like Amazon and Alibaba have dominated Web2 e-commerce, Web3 ena
 
 - **Mechanism:** These marketplaces function as protocols, using open-source **[smart contracts](/what-are-smart-contracts)** that allow buyers and sellers to transact directly in a peer-to-peer manner.
 - **Key Benefits:**
-  - **Lower Transaction Fees:** By eliminating intermediaries, decentralized marketplaces can offer significantly reduced take rates, allowing sellers to retain a larger share of their revenue.
-  - **Censorship Resistance:** No single operator can unilaterally remove products or ban sellers; the rules are enforced by code.
-  - **Community Governance:** Many decentralized marketplaces are governed by a **[DAO](/what-is-a-dao)**, enabling the community to vote on rules and fee structures.
+ - **Lower Transaction Fees:** By eliminating intermediaries, decentralized marketplaces can offer significantly reduced take rates, allowing sellers to retain a larger share of their revenue.
+ - **Censorship Resistance:** No single operator can unilaterally remove products or ban sellers; the rules are enforced by code.
+ - **Community Governance:** Many decentralized marketplaces are governed by a **[DAO](/what-is-a-dao)**, enabling the community to vote on rules and fee structures.
 
 ### Direct Crypto Payments
 
@@ -46,12 +46,11 @@ Web3 also alters the structure of payment systems in e-commerce.
 
 - **Mechanism:** Instead of relying on credit cards and traditional payment processes, customers can pay merchants directly from their crypto wallets, often using **[stablecoins](/guide-to-stablecoins)**.
 - **Benefits for Merchants:**
-  - **Cost Savings:** A crypto payment processed on a **[Layer 2 network](/guide-to-layer-2s)** incurs a negligible fee, often a fraction of a penny, compared to traditional credit card fees.
-  - **Instant Settlement:** Merchants receive funds within seconds, not days, improving cash flow and minimizing capital lock-up.
+ - **Cost Savings:** A crypto payment processed on a **[Layer 2 network](/guide-to-layer-2s)** incurs a negligible fee, often a fraction of a penny, compared to traditional credit card fees.
+ - **Instant Settlement:** Merchants receive funds within seconds, not days, improving cash flow and minimizing capital lock-up.
 
 ### The Road Ahead for Web3 in E-Commerce
 
 The integration of Web3 into online shopping is in its initial stages. Currently, the user experience of connecting wallets and signing transactions presents challenges for widespread adoption. However, the benefits of true ownership, reduced fees, increased transparency, and enhanced community engagement are compelling. As the technology becomes more user-friendly, Web3 will transform e-commerce from a transactional experience into a rich, interactive, community-owned economy.
 
 ## Web3 Opportunities in the Job Market
-

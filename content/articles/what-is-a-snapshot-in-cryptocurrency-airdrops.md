@@ -43,4 +43,3 @@ By using a snapshot, the project ensures that the distribution relies on a fixed
 Snapshots play a central role in governance, leading to the development of Snapshot.org, a widely used off-chain voting tool for DAOs. This platform enables projects to create proposals and allows token holders to vote via their wallets without incurring on-chain transaction fees. It operates by taking a "snapshot" of token holder balances at a specific block number, using this data to weight votes. Although these votes are not binding on-chain, they serve as an essential gauge of community sentiment prior to formal on-chain voting.
 
 A snapshot is an effective tool for establishing fair and verifiable criteria within a decentralized context. It allows projects to refer back to a specific moment in on-chain history, serving as the "source of truth" for distributing rewards and governance rights.
-

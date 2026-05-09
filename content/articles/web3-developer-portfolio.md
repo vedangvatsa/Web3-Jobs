@@ -30,8 +30,8 @@ Follow this structured progression to enhance your skills while building your po
 - **Significance:** This project serves as the foundational entry point into smart contract development. It illustrates your understanding of [token](/what-is-a-token) standards, your ability to work with established interfaces (e.g., OpenZeppelin's ERC20 implementation), and your skills in basic [Solidity](/solidity-for-beginners).
 - **Tech Stack:** Solidity, OpenZeppelin Contracts, Hardhat/Foundry.
 - **Bonus Steps:**
-  - Deploy your token to a public testnet, such as Sepolia.
-  - Develop a simple React frontend using Ethers.js, allowing users to connect their [wallet](/how-to-choose-a-crypto-wallet) and view their token balance.
+ - Deploy your token to a public testnet, such as Sepolia.
+ - Develop a simple React frontend using Ethers.js, allowing users to connect their [wallet](/how-to-choose-a-crypto-wallet) and view their token balance.
 
 #### Project 2: An NFT Collection
 
@@ -39,9 +39,9 @@ Follow this structured progression to enhance your skills while building your po
 - **Significance:** This project demonstrates your understanding of another major token standard and your ability to work with metadata, which is vital in the [NFT](/what-are-nfts) space. It also provides an opportunity to exhibit creativity.
 - **Tech Stack:** Solidity, OpenZeppelin Contracts, IPFS (for metadata storage), Hardhat/Foundry.
 - **Bonus Steps:**
-  - Create generative art and host the images on IPFS.
-  - Implement a minting function with a set price.
-  - Build a frontend that enables users to connect their wallet and mint one of your NFTs.
+ - Create generative art and host the images on IPFS.
+ - Implement a minting function with a set price.
+ - Build a frontend that enables users to connect their wallet and mint one of your NFTs.
 
 #### Project 3: A Staking DApp (Your First Full-Stack Project)
 
@@ -49,28 +49,27 @@ Follow this structured progression to enhance your skills while building your po
 - **Significance:** This project represents a foundational [DeFi](/what-is-defi) primitive. It’s your initial true full-stack endeavor, integrating a custom smart contract with a user-facing frontend. It reflects your understanding of incentive mechanisms and state management in a more intricate manner.
 - **Tech Stack:** Solidity, React, Ethers.js/Viem, Hardhat/Foundry.
 - **Key Features to Implement:**
-  - A `stake(uint256 amount)` function.
-  - A `withdraw(uint256 amount)` function.
-  - A mechanism to calculate and distribute rewards based on the amount staked and elapsed time.
-  - A frontend that displays the user’s staked balance, earned rewards, and buttons to stake and withdraw.
+ - A `stake(uint256 amount)` function.
+ - A `withdraw(uint256 amount)` function.
+ - A mechanism to calculate and distribute rewards based on the amount staked and elapsed time.
+ - A frontend that displays the user’s staked balance, earned rewards, and buttons to stake and withdraw.
 
 #### Project 4: A More Complex DeFi or Governance dApp
 
 - **Description:** A project that addresses a more intricate problem, showcasing your ability to move beyond basic concepts.
 - **Significance:** This capstone project distinguishes you from other junior developers, demonstrating your capability to manage more complex logic.
 - **Project Ideas:**
-  - **On-Chain Voting/DAO System:** Users stake your ERC-20 token to vote on proposals.
-  - **Crowdfunding/Kickstarter dApp:** Users create campaigns, and others contribute ETH. Funds are released only to the creator if a goal is met by a specified deadline.
-  - **Basic Dutch Auction Contract:** An auction where the price of an NFT begins high and decreases over time until purchased.
+ - **On-Chain Voting/DAO System:** Users stake your ERC-20 token to vote on proposals.
+ - **Crowdfunding/Kickstarter dApp:** Users create campaigns, and others contribute ETH. Funds are released only to the creator if a goal is met by a specified deadline.
+ - **Basic Dutch Auction Contract:** An auction where the price of an NFT begins high and decreases over time until purchased.
 
 #### Project 5: Open-Source Contribution
 
 - **Description:** A significant contribution to an established, reputable open-source Web3 project.
 - **Significance:** This action serves as one of the strongest indicators of your capabilities to potential employers. It shows that you can comprehend and manage a large, professional codebase, collaborate with fellow developers, and follow formal contribution processes, such as submitting a pull request.
 - **How to Start:**
-  - Identify a project you respect on GitHub.
-  - Search for issues labeled "good first issue" or "help wanted."
-  - Begin with smaller contributions, such as fixing typos in documentation or adding missing test cases.
+ - Identify a project you respect on GitHub.
+ - Search for issues labeled "good first issue" or "help wanted."
+ - Begin with smaller contributions, such as fixing typos in documentation or adding missing test cases.
 
 Your portfolio acts as a dynamic document reflecting your journey as a Web3 developer. By completing these projects, you not only enhance your coding skills but also create compelling evidence that can facilitate your entry into this growing industry. Start building today.
-

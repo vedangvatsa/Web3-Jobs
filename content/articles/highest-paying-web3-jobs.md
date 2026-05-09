@@ -70,13 +70,13 @@ Quantitative researchers model the financial risks and incentives associated wit
 - Expertise in programming languages such as Python or R for data analysis
 - In-depth knowledge of financial modeling and blockchain data analysis
 
-| Role                              | Base Salary Range        | Key Skills Required                                      |
+| Role | Base Salary Range | Key Skills Required |
 |-----------------------------------|--------------------------|---------------------------------------------------------|
-| Smart Contract Security Auditor     | Significant compensation  | Solidity, EVM, vulnerability analysis                    |
-| Protocol Engineer                  | Significant compensation  | Rust/Go, distributed systems, cryptography               |
-| Zero-Knowledge Proof Engineer      | Significant compensation  | Mathematics, Circom/Cairo, Rust/C++                      |
-| Senior Smart Contract Developer     | Significant compensation  | Solidity, DeFi, economic security                        |
-| Head of Quantitative Research      | Significant compensation  | Advanced degree, Python/R, financial modeling            |
+| Smart Contract Security Auditor | Significant compensation | Solidity, EVM, vulnerability analysis |
+| Protocol Engineer | Significant compensation | Rust/Go, distributed systems, cryptography |
+| Zero-Knowledge Proof Engineer | Significant compensation | Mathematics, Circom/Cairo, Rust/C++ |
+| Senior Smart Contract Developer | Significant compensation | Solidity, DeFi, economic security |
+| Head of Quantitative Research | Significant compensation | Advanced degree, Python/R, financial modeling |
 
 ## Common Themes Among High-Paying Roles
 
@@ -88,4 +88,3 @@ High-paying roles in Web3 share several common characteristics:
 - **Infrastructure-Oriented:** Many top-paying positions focus on developing foundational infrastructure rather than application-layer solutions.
 
 The Web3 industry offers many roles with competitive salaries. By honing in-demand skills and showcasing expertise through a strong [portfolio](/building-web3-portfolio), professionals can achieve lucrative careers in this fast-moving field.
-

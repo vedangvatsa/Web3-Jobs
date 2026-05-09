@@ -20,13 +20,13 @@ This article explores the nature of Uncle blocks, the issues they resolved, thei
 
 ### Key Insights
 
-| Insight                | Description                                                                                 |
+| Insight | Description |
 |-----------------------|---------------------------------------------------------------------------------------------|
-| **Core Concept**      | An Uncle block is a valid but stale block included by a canonical block for a partial reward. |
-| **Problem Solved**    | Uncles mitigated centralization pressure caused by network latency, benefiting smaller miners. |
-| **Mechanism**         | A canonical block could reference up to two Uncle blocks, rewarding both the Uncle's miner and the including miner. |
-| **Security Boost**    | The GHOST protocol used stale blocks, enhancing overall chain security and complicating attacks. |
-| **Post-Merge**        | Uncle blocks are no longer part of Ethereum, as they were specific to the PoW consensus. |
+| **Core Concept** | An Uncle block is a valid but stale block included by a canonical block for a partial reward. |
+| **Problem Solved** | Uncles mitigated centralization pressure caused by network latency, benefiting smaller miners. |
+| **Mechanism** | A canonical block could reference up to two Uncle blocks, rewarding both the Uncle's miner and the including miner. |
+| **Security Boost** | The GHOST protocol used stale blocks, enhancing overall chain security and complicating attacks. |
+| **Post-Merge** | Uncle blocks are no longer part of Ethereum, as they were specific to the PoW consensus. |
 
 ### Network Latency and Centralization
 
@@ -50,8 +50,8 @@ Here’s how it functioned:
 1. **Creating an Uncle**: When a miner’s block becomes orphaned, it can be classified as an Uncle.
 2. **Inclusion Window**: A canonical block could reference stale blocks as Uncles if they were within a specified "ancestry" of the main chain, generally within the last six blocks. Each block could reference a maximum of two Uncles.
 3. **Rewarding Miners**:
-   - **The Uncle's Miner**: The miner of the Uncle block received a partial block reward to encourage ongoing participation.
-   - **Including Miner**: The miner who included the Uncle in their canonical block received a small bonus reward. This incentivized miners to actively seek out and include valid stale blocks.
+ - **The Uncle's Miner**: The miner of the Uncle block received a partial block reward to encourage ongoing participation.
+ - **Including Miner**: The miner who included the Uncle in their canonical block received a small bonus reward. This incentivized miners to actively seek out and include valid stale blocks.
 
 This system prevented total waste of computational effort and minimized the penalties associated with producing stale blocks due to network latency.
 
@@ -75,18 +75,17 @@ Thus, Uncle blocks became a historical feature of Ethereum, addressing a specifi
 
 ### Frequently Asked Questions (FAQ)
 
-**Q: Did Bitcoin have Uncle blocks?**  
+**Q: Did Bitcoin have Uncle blocks?** 
 A: No, Bitcoin does not use Uncle blocks. In Bitcoin, a stale block is simply an orphan block, and its miner does not receive any reward. This is less problematic for Bitcoin due to its longer block time of about 10 minutes, allowing ample time for block propagation.
 
-**Q: What does "Ommer" mean?**  
+**Q: What does "Ommer" mean?** 
 A: "Ommer" serves as a gender-neutral term for the sibling of a parent in Ethereum’s terminology, avoiding the gendered term "Uncle." While "Uncle" is often used informally, technical specifications primarily refer to them as Omers.
 
-**Q: How much was the reward for an Uncle block?**  
+**Q: How much was the reward for an Uncle block?** 
 A: The reward structure for Uncle blocks varied over time. Typically, an Uncle miner received a significant fraction of the base block reward. The miner who included the Uncle received a small bonus, often a fraction of the block reward for each Uncle included.
 
-**Q: Could a block be both an Uncle and a main chain block?**  
+**Q: Could a block be both an Uncle and a main chain block?** 
 A: No, by definition, an Uncle block is not part of the canonical chain. It is a valid block that was not included in the main history but is still acknowledged.
 
-**Q: Are Uncle blocks stored on the blockchain indefinitely?**  
+**Q: Are Uncle blocks stored on the blockchain indefinitely?** 
 A: The headers of Uncle blocks are stored in the `ommers` field of the canonical block that included them, ensuring their record remains permanently part of Ethereum’s PoW blockchain history, although their transaction details (the block body) are not included.
-

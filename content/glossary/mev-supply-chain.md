@@ -6,15 +6,15 @@ difficulty: advanced
 image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: The MEV supply chain describes the flow of Maximum Extractable Value from transaction originators through searchers, builders, and relays to validators/proposers. This multi-party system has evolved from simple MEV extraction to a complex market with specialized roles and infrastructure.
 relatedTerms:
-  - mev
-  - flashbots
-  - proposer-builder-separation
-  - block-builder
-  - searcher
+ - mev
+ - flashbots
+ - proposer-builder-separation
+ - block-builder
+ - searcher
 synonyms:
-  - MEV pipeline
-  - Block production supply chain
-  - PBS supply chain
+ - MEV pipeline
+ - Block production supply chain
+ - PBS supply chain
 ---
 
 The **MEV supply chain** (also called the **MEV pipeline** or **block production supply chain**) is the multi-stage value flow that begins with on-chain transaction opportunities and ends with validators/proposers receiving a share of the extracted MEV. This supply chain has evolved from a simple two-party system (searchers directly bribing miners) to a complex four-party ecosystem involving **searchers**, **builders**, **relays**, and **proposers**, each playing a specialized role in identifying, packaging, and capturing MEV opportunities.

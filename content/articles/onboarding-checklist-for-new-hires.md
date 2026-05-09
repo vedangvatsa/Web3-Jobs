@@ -47,10 +47,10 @@ This checklist serves as a structured guide for new employees, ensuring they hav
 
 ### FAQs
 
-**Who is responsible for managing this checklist?**  
+**Who is responsible for managing this checklist?** 
 While managers provide guidance, new hires should take ownership of their onboarding process. Proactively working through this checklist ensures a smooth transition.
 
-**What if my company doesn't have a formal onboarding process?**  
+**What if my company doesn't have a formal onboarding process?** 
 Use this checklist as a framework to create your own onboarding plan. This approach guarantees that you acquire the necessary information and access to succeed.
 
 A structured onboarding process benefits both the employee and the company. It leads to quicker integration and higher job satisfaction.
@@ -58,4 +58,3 @@ A structured onboarding process benefits both the employee and the company. It l
 ## Importance of Effective Onboarding
 
 Effective onboarding significantly impacts employee retention and productivity. Research shows that companies with a structured onboarding process improve new hire retention and productivity. In [Web3](/what-is-web3) organizations, where collaboration and communication are essential, an effective onboarding process can mean the difference between a successful transition and a frustrating experience.
-

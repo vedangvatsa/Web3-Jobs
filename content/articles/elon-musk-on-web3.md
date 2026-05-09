@@ -28,7 +28,7 @@ Musk played a important role in Bitcoin's price surge in early 2021.
 
 **Dogecoin:**
 Musk's most consistent support has been for Dogecoin.
-- **"The People's Crypto":** He frequently promotes Dogecoin on X, highlighting its low transaction fees and vibrant community.
+- **"The People's Crypto":** He frequently promotes Dogecoin on X, highlighting its low transaction fees and active community.
 - **Implementation:** Musk has integrated Dogecoin payments for Tesla merchandise and hinted at further uses within X.
 - **Motivation:** His support appears to stem from a blend of his affinity for meme culture and the belief that a straightforward, low-cost cryptocurrency offers more potential for everyday transactions compared to complex assets like Bitcoin.
 
@@ -61,4 +61,3 @@ Musk does not embody the Web3 idealist. He demonstrates a pragmatic approach, fo
 - **Preferential Centralized Approach:** Musk's actions suggest he favors a centralized model for his "everything app," integrating crypto as a feature rather than adopting a decentralized framework.
 
 For the Web3 community, Musk represents a powerful but unpredictable figure. His endorsements can draw significant attention to the space, yet his vision aligns more closely with a crypto-enhanced Web2 than a truly decentralized Web3. While he may not fulfill the role of a decentralization champion, he remains a powerful innovator willing to adopt aspects of crypto that align with his practical objectives.
-

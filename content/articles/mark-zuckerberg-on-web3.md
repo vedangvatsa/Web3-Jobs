@@ -33,7 +33,7 @@ Zuckerberg's public statements illustrate a specific, often contradictory stance
 Meta has launched several Web3 initiatives that reflect its commitment to the metaverse:
 
 1. **NFTs on Instagram & Facebook:** Meta has introduced features allowing users to connect their [crypto wallets](/how-to-choose-a-crypto-wallet) (like MetaMask or Rainbow) and display their owned NFTs. This initiative serves as an entry point for mainstream users to engage with digital collectibles.
-  
+
 2. **Horizon Worlds:** This is Meta's flagship social VR platform. The company is experimenting with in-world economies where creators can sell virtual items and grant access to exclusive spaces.
 
 3. **Avatars:** Meta has invested significantly in a universal avatar system that users can customize and use across its suite of apps (Facebook, Instagram, Messenger, and VR). The company plans to sell digital clothing and accessories for these avatars, potentially as NFTs.
@@ -73,4 +73,3 @@ Interoperability remains a critical question. While Meta allows users to display
 **Q5: What is Meta's financial strategy for the metaverse?**
 
 Meta's financial strategy appears to revolve around two main components: hardware sales (such as the Quest VR headsets) and software/transaction fees. The company intends to take a percentage of every digital asset transaction (NFTs, avatar clothing, virtual goods) on its platform. This model resembles that of established app stores, which has attracted criticism from Web3 supporters advocating for more open, low-commission marketplaces.
-

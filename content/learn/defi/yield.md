@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "intermediate"
 prerequisites: ["lending"]
 quiz:
-  - question: "Where does sustainable yield in DeFi come from?"
-    options:
-      - "The Ethereum Foundation printing new tokens"
-      - "Real economic activity like trading fees and borrowing interest"
-      - "New users depositing money to pay older users"
-      - "Mining new blocks"
-    correct: 1
-    explanation: "Sustainable yield comes from real economic activity. When you provide liquidity to a DEX, you earn trading fees. When you lend on Aave, you earn interest paid by borrowers."
-  - question: "What is 'liquidity mining'?"
-    options:
-      - "Extracting minerals to power blockchain hardware"
-      - "When a protocol gives its own governance token to users as a reward for depositing funds"
-      - "A hacking technique"
-      - "Creating new liquidity pools"
-    correct: 1
-    explanation: "Liquidity mining is a marketing strategy. Protocols give away their own tokens to incentivize users to deposit funds. This often results in high initial APYs that drop over time as the token price falls or rewards run out."
-  - question: "Why do some protocols offer 10,000% APY?"
-    options:
-      - "They found a risk-free arbitrage opportunity"
-      - "They are heavily inflating their own token supply to pay depositors, which is usually unsustainable"
-      - "The stock market is doing poorly"
-      - "They are officially endorsed by regulators"
-    correct: 1
-    explanation: "Astronomical APYs are almost always paid in a highly inflationary, newly created token. The APY looks high on paper, but as they print more tokens to pay the yield, the token price usually crashes."
-  - question: "What does APY stand for?"
-    options:
-      - "Annual Percentage Yield"
-      - "Average Protocol Yearly"
-      - "Automated Pricing Yield"
-      - "Annual Payment Yield"
-    correct: 0
-    explanation: "Annual Percentage Yield (APY) includes the effect of compounding. APR (Annual Percentage Rate) does not. In DeFi, APY rates change constantly based on market conditions."
-  - question: "What is a 'yield aggregator'?"
-    options:
-      - "A spreadsheet tracking prices"
-      - "A protocol like Yearn Finance that automatically moves your funds to wherever the yield is highest"
-      - "A regulatory body"
-      - "A type of stablecoin"
-    correct: 1
-    explanation: "Yield aggregators automatically deploy your funds across different DeFi protocols to find the best return, rebalancing as rates change, saving you gas fees and time."
+ - question: "Where does sustainable yield in DeFi come from?"
+ options:
+ - "The Ethereum Foundation printing new tokens"
+ - "Real economic activity like trading fees and borrowing interest"
+ - "New users depositing money to pay older users"
+ - "Mining new blocks"
+ correct: 1
+ explanation: "Sustainable yield comes from real economic activity. When you provide liquidity to a DEX, you earn trading fees. When you lend on Aave, you earn interest paid by borrowers."
+ - question: "What is 'liquidity mining'?"
+ options:
+ - "Extracting minerals to power blockchain hardware"
+ - "When a protocol gives its own governance token to users as a reward for depositing funds"
+ - "A hacking technique"
+ - "Creating new liquidity pools"
+ correct: 1
+ explanation: "Liquidity mining is a marketing strategy. Protocols give away their own tokens to incentivize users to deposit funds. This often results in high initial APYs that drop over time as the token price falls or rewards run out."
+ - question: "Why do some protocols offer 10,000% APY?"
+ options:
+ - "They found a risk-free arbitrage opportunity"
+ - "They are heavily inflating their own token supply to pay depositors, which is usually unsustainable"
+ - "The stock market is doing poorly"
+ - "They are officially endorsed by regulators"
+ correct: 1
+ explanation: "Astronomical APYs are almost always paid in a highly inflationary, newly created token. The APY looks high on paper, but as they print more tokens to pay the yield, the token price usually crashes."
+ - question: "What does APY stand for?"
+ options:
+ - "Annual Percentage Yield"
+ - "Average Protocol Yearly"
+ - "Automated Pricing Yield"
+ - "Annual Payment Yield"
+ correct: 0
+ explanation: "Annual Percentage Yield (APY) includes the effect of compounding. APR (Annual Percentage Rate) does not. In DeFi, APY rates change constantly based on market conditions."
+ - question: "What is a 'yield aggregator'?"
+ options:
+ - "A spreadsheet tracking prices"
+ - "A protocol like Yearn Finance that automatically moves your funds to wherever the yield is highest"
+ - "A regulatory body"
+ - "A type of stablecoin"
+ correct: 1
+ explanation: "Yield aggregators automatically deploy your funds across different DeFi protocols to find the best return, rebalancing as rates change, saving you gas fees and time."
 ---
 
 ## Where does the money come from?
@@ -60,30 +60,30 @@ DeFi yields generally fall into two categories: real yield and inflationary yiel
 
 <div class="diagram">
 <svg viewBox="0 0 800 240" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <!-- Real Yield -->
-  <rect x="20" y="20" width="360" height="200" rx="12" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
-  <text x="200" y="50" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Real Yield (Sustainable)</text>
-  
-  <rect x="50" y="75" width="300" height="40" rx="6" fill="#dcfce7"/>
-  <text x="200" y="100" text-anchor="middle" font-size="11" fill="#166534">Trading Fees (DEXs like Uniswap)</text>
+ <!-- Real Yield -->
+ <rect x="20" y="20" width="360" height="200" rx="12" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+ <text x="200" y="50" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Real Yield (Sustainable)</text>
 
-  <rect x="50" y="125" width="300" height="40" rx="6" fill="#dcfce7"/>
-  <text x="200" y="150" text-anchor="middle" font-size="11" fill="#166534">Borrowing Interest (Aave / Compound)</text>
+ <rect x="50" y="75" width="300" height="40" rx="6" fill="#dcfce7"/>
+ <text x="200" y="100" text-anchor="middle" font-size="11" fill="#166534">Trading Fees (DEXs like Uniswap)</text>
 
-  <rect x="50" y="175" width="300" height="40" rx="6" fill="#dcfce7"/>
-  <text x="200" y="200" text-anchor="middle" font-size="11" fill="#166534">Staking Rewards (Securing Ethereum)</text>
+ <rect x="50" y="125" width="300" height="40" rx="6" fill="#dcfce7"/>
+ <text x="200" y="150" text-anchor="middle" font-size="11" fill="#166534">Borrowing Interest (Aave / Compound)</text>
 
-  <!-- Inflationary Yield -->
-  <rect x="420" y="20" width="360" height="200" rx="12" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
-  <text x="600" y="50" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">Inflationary Yield (Short-term)</text>
-  
-  <rect x="450" y="75" width="300" height="80" rx="6" fill="#fee2e2"/>
-  <text x="600" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="#991b1b">Liquidity Mining</text>
-  <text x="600" y="120" text-anchor="middle" font-size="10" fill="#991b1b">Protocol prints its own token</text>
-  <text x="600" y="135" text-anchor="middle" font-size="10" fill="#991b1b">and gives it to depositors to attract capital.</text>
+ <rect x="50" y="175" width="300" height="40" rx="6" fill="#dcfce7"/>
+ <text x="200" y="200" text-anchor="middle" font-size="11" fill="#166534">Staking Rewards (Securing Ethereum)</text>
 
-  <text x="600" y="180" text-anchor="middle" font-size="11" fill="#ef4444">⚠ Can lead to massive price dumps</text>
-  <text x="600" y="195" text-anchor="middle" font-size="11" fill="#ef4444">when users sell the reward tokens.</text>
+ <!-- Inflationary Yield -->
+ <rect x="420" y="20" width="360" height="200" rx="12" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+ <text x="600" y="50" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">Inflationary Yield (Short-term)</text>
+
+ <rect x="450" y="75" width="300" height="80" rx="6" fill="#fee2e2"/>
+ <text x="600" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="#991b1b">Liquidity Mining</text>
+ <text x="600" y="120" text-anchor="middle" font-size="10" fill="#991b1b">Protocol prints its own token</text>
+ <text x="600" y="135" text-anchor="middle" font-size="10" fill="#991b1b">and gives it to depositors to attract capital.</text>
+
+ <text x="600" y="180" text-anchor="middle" font-size="11" fill="#ef4444">⚠ Can lead to massive price dumps</text>
+ <text x="600" y="195" text-anchor="middle" font-size="11" fill="#ef4444">when users sell the reward tokens.</text>
 </svg>
 </div>
 

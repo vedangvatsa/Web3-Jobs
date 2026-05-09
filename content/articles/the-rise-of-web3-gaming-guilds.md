@@ -32,7 +32,7 @@ Web3 guilds address these challenges by:
 
 This straightforward yet effective model creates a mutually beneficial scenario: new players gain access to the game, the guild generates returns on its assets, and the game's user base expands.
 
-## The Pioneering Guilds: Yield Guild Games (YGG)
+## The early Guilds: Yield Guild Games (YGG)
 
 Yield Guild Games (YGG) stands out as one of the most prominent and influential Web3 gaming guilds. Founded in the Philippines, YGG recognized the potential of the scholarship model within Axie Infinity to provide genuine economic opportunities in Southeast Asia, particularly as the COVID-19 pandemic severely impacted local job markets.
 
@@ -52,11 +52,11 @@ Contemporary guilds are evolving into talent agencies within the metaverse. They
 
 Guilds are transitioning into decentralized investment funds focused on the Web3 gaming ecosystem. The guild’s treasury, governed by its token holders, invests in a diversified asset portfolio, including:
 
-| Investment Type         | Description                                                    |
+| Investment Type | Description |
 |------------------------|---------------------------------------------------------------|
-| **In-game NFTs**       | Core business of lending assets for scholarships.            |
-| **Game Tokens**        | Direct investments in promising new game tokens.             |
-| **Virtual Land**       | Acquisitions in metaverse platforms like The Sandbox and Decentraland. |
+| **In-game NFTs** | Core business of lending assets for scholarships. |
+| **Game Tokens** | Direct investments in promising new game tokens. |
+| **Virtual Land** | Acquisitions in metaverse platforms like The Sandbox and Decentraland. |
 | **Seed-Stage Investments** | Acting as venture capital, supporting early-stage game development studios. |
 
 This shift positions the guild's token as an index fund for the entire Web3 gaming sector, providing token holders broad exposure to industry growth.
@@ -96,4 +96,3 @@ Career advancement occurs more rapidly in Web3 due to swift company growth and a
 ### Equity Upside
 
 Standard token and equity packages present substantial wealth-building prospects for early team members at successful protocols.
-

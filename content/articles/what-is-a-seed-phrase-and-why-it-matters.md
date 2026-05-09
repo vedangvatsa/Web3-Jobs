@@ -33,12 +33,12 @@ Your seed phrase holds the ultimate authority over your crypto assets.
 
 The security of your entire Web3 presence hinges on how well you manage your seed phrase.
 
-| Rule                      | Description                                                                                   |
+| Rule | Description |
 |---------------------------|-----------------------------------------------------------------------------------------------|
 | **Never Store Digitally** | Avoid saving your seed phrase on any digital device. This includes photos, text files, and password managers. If a hacker compromises your device, they will steal your seed phrase. |
-| **Write on Paper**       | Use pen and paper to document your seed phrase. For added security, consider stamping it onto metal to make it resistant to fire and water damage. |
-| **Secure Storage**        | Treat your seed phrase like a bar of gold. Store it in a safe, a safety deposit box, or another secure location. Many individuals keep multiple copies in different, secure places. |
-| **No Sharing**            | Never share your seed phrase with anyone. Legitimate support personnel or companies will not request it. Anyone who asks is likely a scammer. |
+| **Write on Paper** | Use pen and paper to document your seed phrase. For added security, consider stamping it onto metal to make it resistant to fire and water damage. |
+| **Secure Storage** | Treat your seed phrase like a bar of gold. Store it in a safe, a safety deposit box, or another secure location. Many individuals keep multiple copies in different, secure places. |
+| **No Sharing** | Never share your seed phrase with anyone. Legitimate support personnel or companies will not request it. Anyone who asks is likely a scammer. |
 
 The seed phrase embodies self-custody in Web3. While it grants you control over your digital assets, it also places the responsibility for their security entirely on you. Protecting your seed phrase is essential to **[secure your crypto](/securing-your-crypto)**.
 
@@ -67,4 +67,3 @@ Avoid attempting to overhaul your entire approach at once. Start with one small 
 #### Step 5: Measure and Adapt
 
 Continuously monitor your progress in managing your seed phrase. Are you achieving desired results? Modify your approach based on feedback and outcomes. Embracing a mindset of continuous improvement is vital.
-

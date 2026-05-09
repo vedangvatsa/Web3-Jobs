@@ -48,10 +48,10 @@ Consider a senior engineer, Alice, who joins a new [DeFi](/what-is-defi) protoco
 - **Vesting Schedule:** 4 years with a 1-year cliff.
 
 **Vesting Breakdown:**
-| Timeline | Tokens Vested    | Total Tokens Owned |
+| Timeline | Tokens Vested | Total Tokens Owned |
 |----------|------------------|--------------------|
-| Day 1 to Day 364 | 0 tokens          | 0 tokens            |
-| Day 365 | 250,000 tokens    | 250,000 tokens      |
+| Day 1 to Day 364 | 0 tokens | 0 tokens |
+| Day 365 | 250,000 tokens | 250,000 tokens |
 | Month 13 onwards | 20,833.33 tokens/month | Gradual increase to total of 1,000,000 tokens |
 
 ### Compensation for Part-Time DAO Contributors
@@ -74,4 +74,3 @@ Clear communication is vital for both companies and candidates regarding token-b
 - **Conduct Research:** Assess the project's long-term viability. A smaller grant in a well-structured project can be more valuable than a larger grant in a project with poor tokenomics. For more tips, refer to our guide on [salary negotiation](/web3-salary-negotiation).
 
 Token-based compensation transforms employees into owners, aligning the entire team with a shared mission. Thoughtful and transparent plans with long-term vesting can attract top talent and create a dedicated team motivated to deliver lasting value to the ecosystem.
-

@@ -25,11 +25,11 @@ Understanding token swaps often requires comparing them to traditional asset tra
 Modern DEXs typically use an **Automated Market Maker (AMM)** system instead of the traditional order book model found in stock exchanges.
 
 1. **Liquidity Pools:** An AMM operates with liquidity pools, which are smart contracts containing two or more different tokens. These tokens are provided by users known as Liquidity Providers (LPs).
-   
+
 2. **Constant Product Formula:** Token pricing in a liquidity pool relies on a mathematical equation, the **constant product formula: `x * y = k`**. In this formula:
-   - `x` represents the quantity of Token A in the pool.
-   - `y` signifies the quantity of Token B.
-   - `k` is a constant.
+ - `x` represents the quantity of Token A in the pool.
+ - `y` signifies the quantity of Token B.
+ - `k` is a constant.
 
 3. **Executing the Swap:** When a user wishes to swap Token A for Token B, they add Token A to the pool. The smart contract calculates how much Token B to remove to maintain the constant `k`. As Token A's supply increases, its price decreases relative to Token B. Conversely, as Token B is withdrawn, its price increases. This automatic adjustment based on trade dynamics occurs without intermediary involvement.
 
@@ -44,4 +44,3 @@ Atomic swaps use Hashed Timelock Contracts (HTLCs) to ensure the trade's atomici
 ### Importance of Token Swaps
 
 Token swaps form the backbone of DeFi, providing essential liquidity and interoperability throughout the ecosystem. They enable users to move between various assets, speculate on new projects, and engage in intricate [yield farming](/what-is-yield-farming) strategies. The ability to swap tokens in a decentralized manner supports a multitude of financial innovations.
-

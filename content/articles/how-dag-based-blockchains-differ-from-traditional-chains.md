@@ -57,16 +57,15 @@ Despite their benefits, DAGs face notable challenges:
 
 Several prominent projects incorporate DAG technology:
 
-| Project       | Description                                                                                                          |
+| Project | Description |
 |---------------|----------------------------------------------------------------------------------------------------------------------|
 | Hedera (HBAR) | Uses a "hashgraph" consensus algorithm, achieving high throughput while being governed by a council of corporations. |
-| Fantom (FTM)  | Employs a DAG-based mechanism called "Lachesis" for asynchronous transaction processing, complemented by an EVM-compatible blockchain layer. |
-| Nano (XNO)    | A feeless cryptocurrency designed for instant transactions, featuring a "block-lattice" where each account maintains its blockchain, forming a DAG. |
-| IOTA (MIOTA)  | One of the earliest DAG projects, focused on the Internet of Things (IoT).                                          |
+| Fantom (FTM) | Employs a DAG-based mechanism called "Lachesis" for asynchronous transaction processing, complemented by an EVM-compatible blockchain layer. |
+| Nano (XNO) | A feeless cryptocurrency designed for instant transactions, featuring a "block-lattice" where each account maintains its blockchain, forming a DAG. |
+| IOTA (MIOTA) | One of the earliest DAG projects, focused on the Internet of Things (IoT). |
 
 ### The Path to Scalability: A Different Perspective
 
 DAGs do not replace blockchains; instead, they serve as an alternative data structure that emphasizes different trade-offs. While they typically prioritize high throughput and low fees, this can complicate smart contract implementations and may introduce centralization risks.
 
 Although traditional blockchain architecture remains the prevailing model for decentralized applications, DAGs present a compelling area for exploration. They offer a unique approach to addressing scalability challenges, particularly in applications such as micropayments and IoT data transfers. As the [Web3](/what-is-web3) ecosystem matures, it is likely that both blockchains and DAGs will coexist, each fulfilling specific roles for distinct applications.
-

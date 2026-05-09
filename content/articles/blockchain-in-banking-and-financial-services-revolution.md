@@ -44,15 +44,15 @@ Trade finance remains heavily reliant on paper documents such as letters of cred
 Tokenization refers to the creation of digital tokens on a blockchain that represent ownership of tangible assets.
 - **Solution:** Financial institutions are exploring the tokenization of various assets, including stocks, bonds, and real estate.
 - **Impact:**
-    - **Fractional Ownership:** Tokenization allows multiple investors to own fractions of traditionally illiquid assets, broadening access to investment opportunities.
-    - **Enhanced Liquidity:** These tokenized assets can be traded continuously on blockchain marketplaces, facilitating ongoing trading opportunities.
-    - **Atomic Settlement:** Transactions can be settled instantly as a single, indivisible event, eliminating counterparty risk and ensuring the simultaneous exchange of assets and payments.
+ - **Fractional Ownership:** Tokenization allows multiple investors to own fractions of traditionally illiquid assets, broadening access to investment opportunities.
+ - **Enhanced Liquidity:** These tokenized assets can be traded continuously on blockchain marketplaces, facilitating ongoing trading opportunities.
+ - **Atomic Settlement:** Transactions can be settled instantly as a single, indivisible event, eliminating counterparty risk and ensuring the simultaneous exchange of assets and payments.
 
-#### 4. Streamlined Digital Identity for KYC/AML
+#### 4. simplify Digital Identity for KYC/AML
 
 Financial institutions face the burden of extensive Know Your Customer (KYC) and Anti-Money Laundering (AML) compliance, a process that is often repetitive and costly.
 - **Solution:** **[Decentralized Identity (DID)](/decentralized-identity-explained)** systems enable users to control their digital identities. A bank could conduct KYC checks once and issue a **[Verifiable Credential](/a-guide-to-verifiable-credentials-in-decentralized-identity)** that users can store in a digital [wallet](/how-to-choose-a-crypto-wallet).
-- **Impact:** Users can present this credential to other financial institutions to verify their identity without undergoing the full KYC process again, thereby streamlining onboarding and enhancing privacy.
+- **Impact:** Users can present this credential to other financial institutions to verify their identity without undergoing the full KYC process again, thereby simplify onboarding and enhancing privacy.
 
 ### Career Opportunities Arising from Blockchain and Finance Integration
 
@@ -67,12 +67,12 @@ The rapid advancements in blockchain technology are leading to new career opport
 
 The demand for skilled professionals in the Web3 sector continues to surge, significantly outpacing supply. Here's a closer look at the market dynamics:
 
-| Role                     | Average Salary Range         | Notes                                                  |
+| Role | Average Salary Range | Notes |
 |--------------------------|------------------------------|--------------------------------------------------------|
-| Solidity Engineer        | High demand due to talent scarcity.                    |
-| Digital Asset Product Manager | Requires experience in both finance and blockchain.    |
-| Business Development Lead | Focuses on partnerships and product sales.             |
-| Crypto Compliance Officer | Expertise in regulatory compliance is essential.       |
+| Solidity Engineer | High demand due to talent scarcity. |
+| Digital Asset Product Manager | Requires experience in both finance and blockchain. |
+| Business Development Lead | Focuses on partnerships and product sales. |
+| Crypto Compliance Officer | Expertise in regulatory compliance is essential. |
 
 ### Transitioning to a Career in Web3
 
@@ -119,4 +119,3 @@ Target positions that align with your existing expertise while integrating your 
 - For backend engineers, seek blockchain infrastructure roles.
 - Product managers should explore protocol product opportunities.
 - Business professionals can pursue roles in Web3 business development.
-

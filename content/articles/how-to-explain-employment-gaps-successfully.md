@@ -20,11 +20,11 @@ Before updating your [resume](/how-to-build-a-web3-resume-that-stands-out), reco
 
 For instance:
 
-| Career Break Reason      | Reframed Description                                             |
+| Career Break Reason | Reframed Description |
 |--------------------------|-----------------------------------------------------------------|
-| Family Responsibilities   | Managed household and family duties, enhancing time management and organizational skills. |
-| Travel                   | Undertook independent global travel, Building cross-cultural communication skills and adaptability. |
-| Skill Development        | Completed an intensive self-study in [Web3](/what-is-web3) development, enhancing technical proficiency. |
+| Family Responsibilities | Managed household and family duties, enhancing time management and organizational skills. |
+| Travel | Undertook independent global travel, Building cross-cultural communication skills and adaptability. |
+| Skill Development | Completed an intensive self-study in [Web3](/what-is-web3) development, enhancing technical proficiency. |
 
 This reframing is not about crafting a false narrative; it is about acknowledging the real skills and insights you gained during your time away from conventional employment.
 
@@ -33,14 +33,14 @@ This reframing is not about crafting a false narrative; it is about acknowledgin
 Handling an employment gap on your resume can be done effectively through a couple of strategies:
 
 1. **Use Years Instead of Months**: For shorter gaps (less than a year), list only the years of employment (e.g., 2021-2023). This common practice diminishes the visual impact of the gap.
-   
+
 2. **Create a Specific Entry for the Break**: For more extended gaps, consider explicitly addressing the break on your resume. Add a new entry under your experience section.
 
 Example:
 
-**Professional Sabbatical** | 2022 - 2023  
-- Focused on professional development, completing significant coursework in data science and machine learning.  
-- Developed and launched a personal project analyzing on-chain data, using Python and SQL.  
+**Professional Sabbatical** | 2022 - 2023 
+- Focused on professional development, completing significant coursework in data science and machine learning. 
+- Developed and launched a personal project analyzing on-chain data, using Python and SQL. 
 
 This approach maintains honesty and reframes the gap as a proactive period of skill acquisition.
 
@@ -129,4 +129,3 @@ Continuously monitor your progress. Assess whether you are achieving the desired
 3. **One-Size-Fits-All Approach**: Customize strategies to suit your unique context. What works for one person may not work for another.
 4. **Giving Up Too Soon**: Change often feels uncomfortable. Persist through initial challenges to achieve better outcomes.
 5. **Not Tracking Progress**: Measurement is essential for improvement. Keep metrics to assess your advancement over time.
-

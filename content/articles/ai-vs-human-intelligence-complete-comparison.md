@@ -19,14 +19,14 @@ The primary distinction between AI and human intelligence lies in their hardware
 
 Conversely, AI, particularly deep learning models, relies on silicon-based systems. These systems consist of vast arrays of GPUs and TPUs, enabling them to perform rapid computations. AI processes information in a fast, serial, and mathematical manner, learning by identifying statistical patterns within extensive, low-context datasets. This specialization allows AI to excel in specific, well-defined tasks with clear rules and abundant data.
 
-| Feature             | Human Intelligence                              | Artificial Intelligence                       |
+| Feature | Human Intelligence | Artificial Intelligence |
 |---------------------|-------------------------------------------------|----------------------------------------------|
-| Learning            | Contextual, slow, requires experience and emotion | Rapid, relies on vast datasets and algorithms |
-| Speed               | Limited by biological processes                  | Extremely fast, processes large amounts of data in seconds |
-| Accuracy            | Subject to errors, fatigue, and cognitive biases | Highly accurate in specific tasks             |
-| Creativity          | Originality, abstract thought, emotional depth  | Remixes existing patterns, lacks true understanding |
-| Adaptability        | Highly adaptable to new and unseen situations    | Brittle, struggles with tasks outside training |
-| Consciousness       | Subjective experience, self-awareness, emotions   | None; operates as a complex pattern-matching machine |
+| Learning | Contextual, slow, requires experience and emotion | Rapid, relies on vast datasets and algorithms |
+| Speed | Limited by biological processes | Extremely fast, processes large amounts of data in seconds |
+| Accuracy | Subject to errors, fatigue, and cognitive biases | Highly accurate in specific tasks |
+| Creativity | Originality, abstract thought, emotional depth | Remixes existing patterns, lacks true understanding |
+| Adaptability | Highly adaptable to new and unseen situations | Brittle, struggles with tasks outside training |
+| Consciousness | Subjective experience, self-awareness, emotions | None; operates as a complex pattern-matching machine |
 
 ## Learning and Adaptability: Generalists vs. Specialists
 
@@ -53,4 +53,3 @@ The most profound difference between human and artificial intelligence lies in c
 **Human Intelligence** involves subjective experiences, often referred to as "qualia." Humans do not merely process sensations; they experience them. Feelings, self-awareness, and an intricate internal world characterize human cognition. People seek to understand the underlying reasons behind their actions and experiences.
 
 **Artificial Intelligence** lacks this dimension. Regardless of its complexity, AI functions as a sophisticated series of mathematical operations. It can analyze the term "sadness" and relate it to other concepts, but it does not feel sadness. No subjective experience, self-awareness, or genuine understanding exists within AI. It operates as a pattern-matching machine. Large Language Models (LLMs) exemplify this notion; they can generate human-like text without comprehending its meaning, often described as "stochastic parrots" that replicate language patterns without awareness.
-

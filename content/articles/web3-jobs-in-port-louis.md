@@ -19,7 +19,7 @@ The Web3 ecosystem in Port Louis combines professionalism and sophistication, in
 Mauritius's Web3 ecosystem builds on its strong financial and legal foundations.
 
 - **Established International Financial Centre**: Mauritius boasts a mature financial services industry with deep expertise in fund administration, corporate structuring, and cross-border investment. This experience makes it an attractive jurisdiction for crypto funds, digital asset managers, and Web3 companies seeking stability.
-  
+
 - **Supportive Regulatory Framework**: The Financial Services Commission (FSC) of Mauritius was one of the first regulators globally to introduce a clear licensing framework for "Virtual Asset Service Providers" (VASPs) and digital asset custodians. This regulatory clarity significantly attracts legitimate businesses.
 
 - **Hub for Crypto Funds and Venture Capital**: An increasing number of crypto-focused venture capital funds, hedge funds, and family offices choose Mauritius as their domicile due to its legal and tax advantages. This trend creates a concentration of capital and raises the demand for local financial and legal expertise.
@@ -30,12 +30,12 @@ Mauritius's Web3 ecosystem builds on its strong financial and legal foundations.
 
 The job market in Port Louis favors professionals with backgrounds in finance and law who can translate their expertise into the digital asset space.
 
-| Role                                  | Salary Range (MUR/month) | Equivalent Salary (USD/month) |
+| Role | Salary Range (MUR/month) | Equivalent Salary (USD/month) |
 |---------------------------------------|--------------------------|-------------------------------|
-| Legal & Compliance Officer             | 100,000 - 200,000+      | Significant value              |
-| Fund Accountant / Administrator (Crypto) | 80,000 - 150,000+     | Significant value              |
-| FinTech/[Blockchain Developer](/how-to-become-a-blockchain-developer) | 70,000 - 130,000+ | Significant value              |
-| Business Development (Fundraising & Investor Relations) | 90,000 - 180,000+ | Significant value              |
+| Legal & Compliance Officer | 100,000 - 200,000+ | Significant value |
+| Fund Accountant / Administrator (Crypto) | 80,000 - 150,000+ | Significant value |
+| FinTech/[Blockchain Developer](/how-to-become-a-blockchain-developer) | 70,000 - 130,000+ | Significant value |
+| Business Development (Fundraising & Investor Relations) | 90,000 - 180,000+ | Significant value |
 
 #### Roles Explained
 
@@ -61,19 +61,19 @@ The job market in Port Louis favors professionals with backgrounds in finance an
 
 #### Local Opportunities (FinTech-Focused)
 
-| Role                                  | Salary Range (MUR/month) | Equivalent Salary (USD/month) |
+| Role | Salary Range (MUR/month) | Equivalent Salary (USD/month) |
 |---------------------------------------|--------------------------|-------------------------------|
-| Legal/Compliance Officer              | 100,000 - 200,000       | Significant value              |
-| Fund Administrator (Crypto)          | 80,000 - 150,000        | Significant value              |
-| FinTech Developer                     | 70,000 - 130,000        | Significant value              |
-| Business Development                  | 90,000 - 180,000+       | Significant value              |
+| Legal/Compliance Officer | 100,000 - 200,000 | Significant value |
+| Fund Administrator (Crypto) | 80,000 - 150,000 | Significant value |
+| FinTech Developer | 70,000 - 130,000 | Significant value |
+| Business Development | 90,000 - 180,000+ | Significant value |
 
 #### Remote Opportunities (Less Common)
 
-| Role                                  | Salary Range (USD/month) |
+| Role | Salary Range (USD/month) |
 |---------------------------------------|--------------------------|
-| Senior Fintech Developer              | Significant value        |
-| Senior Product Manager                | Significant value        |
+| Senior Fintech Developer | Significant value |
+| Senior Product Manager | Significant value |
 
 Salaries in Mauritius are premium due to its status as a regulated financial center, contributing to a high quality of life.
 
@@ -272,4 +272,3 @@ Taxation in Mauritius is reasonable, with a standard rate on global income. The 
 
 **How can I establish credibility without prestigious credentials?**
 Focus on developing deep knowledge of the FSC framework and publishing articles on crypto compliance or fund structures. Building a solid track record at a reputable company and networking with established professionals will enhance your credibility over time.
-

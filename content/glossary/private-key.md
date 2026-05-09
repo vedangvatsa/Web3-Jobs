@@ -54,10 +54,10 @@ The signature is unique to both the transaction and private key. It proves authe
 
 The relationship between keys uses elliptic curve cryptography:
 
-- **Private Key → Public Key**: Easy (mathematical function)  
-- **Public Key → Address**: Easy (hashing)  
-- **Address → Public Key**: Impossible  
-- **Public Key → Private Key**: Computationally infeasible (would take billions of years)  
+- **Private Key → Public Key**: Easy (mathematical function) 
+- **Public Key → Address**: Easy (hashing) 
+- **Address → Public Key**: Impossible 
+- **Public Key → Private Key**: Computationally infeasible (would take billions of years) 
 
 This one-way relationship is the foundation of blockchain security. You can prove you own an address by signing with the private key, but observers can't work backwards to steal it.
 
@@ -81,10 +81,10 @@ Modern wallets use a single master seed to generate unlimited key pairs determin
 
 - **Seed Phrase** (12-24 words) → **Master Key** → **Derived Private Keys**
 
-Derivation path example: `m/44'/60'/0'/0/0`  
-- Allows one backup (seed phrase) for all keys.  
-- Different blockchains use different derivation paths.  
-- Same seed can generate Bitcoin, Ethereum, and other keys.  
+Derivation path example: `m/44'/60'/0'/0/0` 
+- Allows one backup (seed phrase) for all keys. 
+- Different blockchains use different derivation paths. 
+- Same seed can generate Bitcoin, Ethereum, and other keys. 
 
 This explains how losing your device doesn't lose funds, recover the seed phrase, regenerate all private keys.
 
@@ -94,35 +94,35 @@ This explains how losing your device doesn't lose funds, recover the seed phrase
 
 - **Best Practices**:
 
-- **1. Write Down Seed Phrases on Paper**  
-- Use paper or metal (Cryptosteel, Billfodl).  
-- Never screenshots, cloud storage, or text files.  
-- Malware can steal digital copies.  
+- **1. Write Down Seed Phrases on Paper** 
+- Use paper or metal (Cryptosteel, Billfodl). 
+- Never screenshots, cloud storage, or text files. 
+- Malware can steal digital copies. 
 
-- **2. Multiple Secure Locations**  
-- Store copies in different physical locations.  
-- Safe deposit boxes, home safes.  
-- Protects against fire, theft, or loss.  
+- **2. Multiple Secure Locations** 
+- Store copies in different physical locations. 
+- Safe deposit boxes, home safes. 
+- Protects against fire, theft, or loss. 
 
-- **3. Test Recovery Process**  
-- Create new wallet, transfer small amount.  
-- Wipe wallet, recover from seed.  
-- Ensures backup works before trusting significant funds.  
+- **3. Test Recovery Process** 
+- Create new wallet, transfer small amount. 
+- Wipe wallet, recover from seed. 
+- Ensures backup works before trusting significant funds. 
 
-- **4. Hardware Wallets for Large Holdings**  
-- Ledger, Trezor keep private keys on secure hardware.  
-- Never exposed to potentially compromised computers.  
-- Signs transactions internally.  
+- **4. Hardware Wallets for Large Holdings** 
+- Ledger, Trezor keep private keys on secure hardware. 
+- Never exposed to potentially compromised computers. 
+- Signs transactions internally. 
 
-- **5. Be Cautious About Phishing**  
-- Never enter seed phrases on computers connected to the internet.  
-- Verify hardware wallet purchase directly from manufacturer.  
-- Beware of fake wallet apps.  
+- **5. Be Cautious About Phishing** 
+- Never enter seed phrases on computers connected to the internet. 
+- Verify hardware wallet purchase directly from manufacturer. 
+- Beware of fake wallet apps. 
 
-- **6. Operational Security**  
-- Don't brag about holdings publicly.  
-- Use different addresses for different purposes.  
-- Consider multi-signature setups for large amounts.  
+- **6. Operational Security** 
+- Don't brag about holdings publicly. 
+- Use different addresses for different purposes. 
+- Consider multi-signature setups for large amounts. 
 
 ## Common Private Key Compromises
 
@@ -148,15 +148,15 @@ This explains how losing your device doesn't lose funds, recover the seed phrase
 
 ## Private Keys vs Passwords
 
-- **Passwords**:  
-- Can be reset through recovery processes.  
-- Company databases verify them.  
-- Changing passwords protects account.  
+- **Passwords**: 
+- Can be reset through recovery processes. 
+- Company databases verify them. 
+- Changing passwords protects account. 
 
-- **Private Keys**:  
-- Cannot be reset, losing means permanent loss.  
-- Math verifies them, not company databases.  
-- Cannot be changed for an address, must create new address.  
+- **Private Keys**: 
+- Cannot be reset, losing means permanent loss. 
+- Math verifies them, not company databases. 
+- Cannot be changed for an address, must create new address. 
 
 This fundamental difference makes crypto self-custody more risky but also more free, no entity can freeze or seize your funds.
 
@@ -164,10 +164,10 @@ This fundamental difference makes crypto self-custody more risky but also more f
 
 Multi-sig wallets require multiple private keys to authorize transactions (e.g., 2-of-3).
 
-- **Use Cases**:  
-- Corporate treasuries (require CFO + CEO signatures).  
-- Personal security (keys split across devices/locations).  
-- Estate planning (heirs have keys, with threshold needed).  
+- **Use Cases**: 
+- Corporate treasuries (require CFO + CEO signatures). 
+- Personal security (keys split across devices/locations). 
+- Estate planning (heirs have keys, with threshold needed). 
 
 Multi-sig reduces single point of failure but increases complexity.
 
@@ -185,10 +185,10 @@ Currently not a practical concern, but long-term holders should monitor developm
 
 Smart contract wallets (Account Abstraction) enable alternatives to traditional private keys:
 
-- Social recovery (trusted contacts help recover).  
-- Biometric authentication.  
-- Session keys (limited permissions).  
-- Spending limits without additional approval.  
+- Social recovery (trusted contacts help recover). 
+- Biometric authentication. 
+- Session keys (limited permissions). 
+- Spending limits without additional approval. 
 
 This improves user experience and security for mainstream users while maintaining self-custody benefits.
 
@@ -196,11 +196,11 @@ This improves user experience and security for mainstream users while maintainin
 
 - **Court Orders**: Even with court orders, private keys can't be recovered if lost. Your estate plan must include secure key transfer mechanisms.
 
-- **Inheritance**: Without proper planning, heirs cannot access crypto. Options include:  
-- Secure sharing of seed phrases with estate lawyers.  
-- Multi-sig setups with family members.  
-- Services that facilitate inheritance.  
-- Dead man's switches that release keys after inactivity.  
+- **Inheritance**: Without proper planning, heirs cannot access crypto. Options include: 
+- Secure sharing of seed phrases with estate lawyers. 
+- Multi-sig setups with family members. 
+- Services that facilitate inheritance. 
+- Dead man's switches that release keys after inactivity. 
 
 - **Jurisdiction**: In some countries, authorities can compel key disclosure. In others, you cannot be forced to provide keys you "don't remember."
 

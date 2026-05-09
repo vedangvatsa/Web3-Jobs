@@ -18,11 +18,11 @@ This article examines the relationship between blockchain technology and [Web3](
 
 The current internet, known as Web2, operates on a client-server model. Data and applications reside on centralized servers owned by corporations such as Google, Meta, and Amazon. This model presents several critical issues that Web3 aims to address:
 
-| **Issue**                     | **Description**                                                                                  |
+| **Issue** | **Description** |
 |-------------------------------|--------------------------------------------------------------------------------------------------|
-| Central Points of Failure      | An outage of a major service provider, such as AWS, can take down substantial portions of the internet. |
-| Censorship and Control        | Platform owners wield absolute authority, allowing them to censor content or de-platform users arbitrarily. |
-| Data Exploitation             | User data is commodified, harvested, and monetized by platforms without compensating the users who generate it. |
+| Central Points of Failure | An outage of a major service provider, such as AWS, can take down substantial portions of the internet. |
+| Censorship and Control | Platform owners wield absolute authority, allowing them to censor content or de-platform users arbitrarily. |
+| Data Exploitation | User data is commodified, harvested, and monetized by platforms without compensating the users who generate it. |
 
 ### Blockchain as a Fundamental Solution
 
@@ -61,4 +61,3 @@ Blockchains possess native digital currencies (such as ETH on Ethereum) that fac
 Blockchain is not merely an aspect of Web3; it constitutes the essential infrastructure. It offers a decentralized, trustless, and economically active foundation necessary for constructing an internet owned by its users. The transparency of the ledger, the permanence of its records, the automation provided by smart contracts, and the native value transfer are fundamental elements developers use to create a new digital field. Understanding how blockchain technology powers Web3 is essential for grasping the future of the internet.
 
 ## The Web3 Job Market
-

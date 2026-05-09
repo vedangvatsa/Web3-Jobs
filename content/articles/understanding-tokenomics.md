@@ -22,8 +22,8 @@ A token's supply mechanics form the cornerstone of its design, incorporating fun
 - **Maximum Supply:** Does the token have a hard cap? For instance, [Bitcoin](/what-is-bitcoin) has a maximum supply of 21 million tokens, making it a deflationary asset comparable to digital gold.
 - **Circulating Supply:** What is the current number of tokens available for trading?
 - **Inflation vs. Deflation:**
-  - **Inflationary Tokens:** These tokens are continuously created over time, typically as rewards for miners or stakers. An example is [Ethereum](/what-is-ethereum), where the inflation rate is a important metric.
-  - **Deflationary Tokens:** These tokens decrease in supply over time, often through a "burn" mechanism that permanently removes a portion of transaction fees from circulation.
+ - **Inflationary Tokens:** These tokens are continuously created over time, typically as rewards for miners or stakers. An example is [Ethereum](/what-is-ethereum), where the inflation rate is a important metric.
+ - **Deflationary Tokens:** These tokens decrease in supply over time, often through a "burn" mechanism that permanently removes a portion of transaction fees from circulation.
 
 **Consideration:** Does the supply model promote long-term scarcity and value appreciation, or does it favor high inflation that could devalue early adopters' holdings?
 
@@ -33,10 +33,10 @@ The initial distribution of tokens reveals much about a project's fairness and d
 
 - **Fair Launch:** In a fair launch, such as Bitcoin's, there are no pre-mines or early allocations for insiders, allowing everyone equal access from the start.
 - **Pre-Mine / ICO (Initial Coin Offering):** Many projects allocate tokens to various stakeholders before public release. Typical allocations might include:
-  - **Team & Advisors:** Tokens designated for the core team, often subject to a vesting schedule.
-  - **VCs & Seed Investors:** Tokens sold to early investors to fund project development.
-  - **Community Treasury / Ecosystem Fund:** Tokens saved to finance future developments, grants, and community initiatives.
-  - **Public Sale:** Tokens sold to the general public.
+ - **Team & Advisors:** Tokens designated for the core team, often subject to a vesting schedule.
+ - **VCs & Seed Investors:** Tokens sold to early investors to fund project development.
+ - **Community Treasury / Ecosystem Fund:** Tokens saved to finance future developments, grants, and community initiatives.
+ - **Public Sale:** Tokens sold to the general public.
 
 **Consideration:** What percentage of the token supply is controlled by insiders? Are there vesting schedules in place to prevent early selling? A high concentration of tokens among a few can lead to centralization and market manipulation.
 
@@ -60,4 +60,3 @@ To evaluate a new project effectively, employ the following framework:
 3. **Utility:** What functions does the token serve? Does it have a defined purpose that drives ongoing demand?
 
 By analyzing these three components, you can make informed decisions and cut through the hype surrounding various crypto projects. Understanding tokenomics equips you to engage with the decentralized network effectively.
-

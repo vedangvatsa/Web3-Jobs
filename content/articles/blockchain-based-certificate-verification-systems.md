@@ -31,9 +31,9 @@ A blockchain-based system redefines credential management by allowing users to c
 2. **Storage:** The individual retains ownership of their credentials within their [wallet](/how-to-choose-a-crypto-wallet), granting them full control over who can access this information.
 
 3. **Verification:** When proof of credential is required, individuals can present the VC to a third party, such as an employer. The verifier can instantly:
-   - Check the VC's cryptographic signature to confirm authenticity and ensure it has not been altered.
-   - Verify that the signature corresponds to the public key of the trusted issuer, often by consulting a public on-chain registry.
-   - Confirm that the credential has not been revoked by the issuer.
+ - Check the VC's cryptographic signature to confirm authenticity and ensure it has not been altered.
+ - Verify that the signature corresponds to the public key of the trusted issuer, often by consulting a public on-chain registry.
+ - Confirm that the credential has not been revoked by the issuer.
 
 This verification process occurs within seconds without any need for the verifier to contact the issuing institution.
 
@@ -48,13 +48,12 @@ This verification process occurs within seconds without any need for the verifie
 
 While still evolving, blockchain-based certificate verification is gaining momentum.
 
-| Sector                     | Example Use Cases                       | Institutions Involved                   |
+| Sector | Example Use Cases | Institutions Involved |
 |---------------------------|----------------------------------------|----------------------------------------|
-| Academic Credentials       | Issuance of digital diplomas          | **MIT**, **University of Nicosia**    |
-| Professional Training       | Certificates for employee training     | Various corporations and training bodies|
-| Government and NGOs        | Digital passports, refugee identity solutions | Various government agencies            |
+| Academic Credentials | Issuance of digital diplomas | **MIT**, **University of Nicosia** |
+| Professional Training | Certificates for employee training | Various corporations and training bodies|
+| Government and NGOs | Digital passports, refugee identity solutions | Various government agencies |
 
 Notable universities like **MIT** have pioneered the issuance of digital diplomas on the blockchain. Corporations are also using blockchain technology to provide verifiable certificates for employee training and professional development. Government agencies and NGOs explore applications ranging from digital passports to identity systems for refugees.
 
 Blockchain-based verification systems enhance how we manage vital credentials. They create a secure, transparent, and user-controlled environment, supporting a more trustworthy foundation for educational and professional endeavors.
-

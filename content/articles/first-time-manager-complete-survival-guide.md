@@ -39,7 +39,7 @@ During this month, clarify expectations for each team member. Ensure that everyo
 By the end of your first three months, you should have established a reliable operating rhythm, which includes:
 
 - **Regular One-on-Ones**: Treat these meetings as essential. Do not cancel them. They are important for coaching, feedback, and maintaining connections with your team. Schedule weekly or bi-weekly 30-minute check-ins, allowing your team members to set the agenda.
-  
+
 - **Purposeful Team Meetings**: Define the objective of your team meetings. Are they for brainstorming, decision-making, or information sharing? Avoid allowing them to devolve into monotonous status updates. Use a collaborative agenda that encourages contributions from all team members.
 
 - **Real-Time Feedback**: Do not wait for performance reviews to provide feedback. Offer constructive and positive feedback in the moment. A simple acknowledgment like, "Your presentation was impressive; the data you provided made a strong impact," can significantly motivate your team.
@@ -62,7 +62,7 @@ Surviving your initial months as a manager requires a shift in mindset. Focus on
 
 **How can I gain my team's respect?**
 
-Respect is earned through consistency, fairness, and advocacy. Protect your team from unnecessary distractions and fight for the resources they require. When your team sees that you support them, they will be more likely to respect you. Additionally, demonstrate competence in your role, and show humility by acknowledging when you lack answers.
+Respect is earned through consistency, fairness, and advocacy. Protect your team from unnecessary distractions and fight for the resources they require. When your team sees that you support them, they will be more likely to respect you. demonstrate competence in your role, and show humility by acknowledging when you lack answers.
 
 **What should I do about a challenging employee?**
 
@@ -101,4 +101,3 @@ Avoid overhauling everything at once. Start with a single small change and build
 ### Step 5: Measure Progress and Adjust
 
 Monitor your progress regularly. Are you seeing tangible results? Adjust your approach based on outcomes and feedback. Embrace a continuous improvement mindset.
-

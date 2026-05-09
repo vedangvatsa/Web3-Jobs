@@ -1,7 +1,7 @@
 ---
 
 title: Business Writing Tips for Professionals
-description: Elevate your career with effective business writing. This guide covers essential tips for writing clear, concise, and impactful emails, reports, and proposals.
+description: improve your career with effective business writing. This guide covers essential tips for writing clear, concise, and impactful emails, reports, and proposals.
 image: https://picsum.photos/seed/writing/1200/630
 category: Career Guides
 data-ai-hint: professional writing
@@ -49,9 +49,9 @@ In a professional setting, efficiency is critical. Getting to the point quickly 
 This approach is particularly effective in emails and memos. Present your main point or request within the first sentence, with the remainder of the document providing supporting details.
 
 - **Email Example:**
-    - *Subject: Decision Needed: Proposal for New Marketing Software*
-    - *Hi Team,*
-    - *I recommend purchasing 'MarketingPro' software. This will allow us to automate our email campaigns and save significant time each week. Details are below...*
+ - *Subject: Decision Needed: Proposal for New Marketing Software*
+ - *Hi Team,*
+ - *I recommend purchasing 'MarketingPro' software. This will allow us to automate our email campaigns and save significant time each week. Details are below...*
 
 ### Eliminate Redundant Words and Phrases
 
@@ -117,4 +117,3 @@ Your first draft is never your final draft. After finishing your writing, take a
 - **Read Aloud:** This technique helps identify awkward phrasing and grammatical errors. If it sounds off when spoken, it likely will be difficult for someone else to read.
 - **Evaluate Tone:** Ensure your tone matches your audience. It should be confident, collaborative, and professional.
 - **Proofread for Typos:** Mistakes in spelling and grammar can undermine your credibility. Use a spell checker, but also manually review to catch errors that software might overlook.
-

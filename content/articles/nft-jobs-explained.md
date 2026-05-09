@@ -92,12 +92,12 @@ Not all NFT projects are worth pursuing. Some are truly new, while others are sp
 
 ### Positive Indicators
 
-| Indicator                                           | Description                                                                                      |
+| Indicator | Description |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Problem-Solving Focus                               | The project addresses a concrete issue, such as establishing standards for digital ownership.    |
-| Experienced Team                                    | The team has a track record of delivering products and possesses credibility in their field.     |
-| Logical Tokenomics                                  | The incentive structure promotes sustainable behaviors among users and developers.               |
-| Clear User Base                                     | There are real users who would engage with the project beyond mere speculation.                  |
+| Problem-Solving Focus | The project addresses a concrete issue, such as establishing standards for digital ownership. |
+| Experienced Team | The team has a track record of delivering products and possesses credibility in their field. |
+| Logical Tokenomics | The incentive structure promotes sustainable behaviors among users and developers. |
+| Clear User Base | There are real users who would engage with the project beyond mere speculation. |
 
 ### Warning Signs
 
@@ -154,4 +154,3 @@ Avoid attempting to overhaul everything at once. Start with small, manageable ch
 ### Step 5: Measure Progress and Adjust
 
 Continuously track your progress. Are you achieving the desired outcomes? Modify your approach based on feedback and results. A mindset of continuous improvement is essential for success.
-

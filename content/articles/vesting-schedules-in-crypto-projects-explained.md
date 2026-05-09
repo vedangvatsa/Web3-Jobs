@@ -42,13 +42,13 @@ The **vesting period** is the total duration over which the complete token alloc
 
 Consider a team member, Alice, granted tokens under a "four-year vest with a one-year cliff" arrangement.
 
-| Time Frame             | Tokens Vested | Total Available Tokens | Status                        |
+| Time Frame | Tokens Vested | Total Available Tokens | Status |
 |------------------------|---------------|------------------------|-------------------------------|
-| Day 0 to Day 364       | 0             | 48,000                 | No tokens vested              |
-| Day 365 (Cliff Met)    | 12,000        | 12,000                 | 25% of total allocation vested |
-| Month 13               | 1,000         | 13,000                 | 36,000 tokens remain          |
-| Month 14               | 1,000         | 14,000                 | Repeats for 36 months        |
-| End of Year 4          | 48,000        | 48,000                 | Full allocation vested        |
+| Day 0 to Day 364 | 0 | 48,000 | No tokens vested |
+| Day 365 (Cliff Met) | 12,000 | 12,000 | 25% of total allocation vested |
+| Month 13 | 1,000 | 13,000 | 36,000 tokens remain |
+| Month 14 | 1,000 | 14,000 | Repeats for 36 months |
+| End of Year 4 | 48,000 | 48,000 | Full allocation vested |
 
 ### Locating Vesting Information
 
@@ -66,4 +66,3 @@ When evaluating a project, be cautious of vesting schedules that are overly shor
 - **Lack of Transparency:** If a project conceals its token allocation and vesting schedules, it may be hiding critical information.
 
 Vesting schedules form a fundamental aspect of sound tokenomics. They align stakeholder incentives, encourage long-term commitment, and protect the community from the detrimental actions of early backers. Investors and potential employees should carefully examine a project's vesting schedule as a vital step in their due diligence.
-

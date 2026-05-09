@@ -50,23 +50,22 @@ Transitioning to a renewable energy system represents a monumental effort, yet i
 
 ### Frequently Asked Questions (FAQs)
 
-**1. Is renewable energy more expensive than fossil fuels?**  
+**1. Is renewable energy more expensive than fossil fuels?** 
 In most cases, no. Due to significant reductions in manufacturing costs over the last decade, utility-scale solar and onshore wind have become some of the cheapest new electricity generation sources in many countries. When considering the environmental and health costs associated with fossil fuels, renewable energy emerges as the more economical choice.
 
-**2. What about the land use of solar and wind farms?**  
+**2. What about the land use of solar and wind farms?** 
 While large solar and wind farms occupy considerable land areas, their impact can be managed. Wind turbines have a small physical footprint, allowing agricultural activities to continue in between them. Solar panels can be installed on rooftops, carports in parking lots, and in arid desert regions unsuitable for other land uses.
 
-**3. Can renewable energy power the entire world?**  
+**3. Can renewable energy power the entire world?** 
 Theoretically, yes. The amount of solar energy hitting the Earth in just one hour exceeds the global energy consumption for an entire year. The challenge lies not in the energy's availability but in effectively capturing, storing, and distributing it. Achieving this goal requires a diverse mix of renewable technologies and substantial investments in energy storage and grid modernization.
 
 ### Comparative Overview of Renewable Energy Technologies
 
-| Energy Source           | Technology Type         | Advantages                               | Disadvantages                          |
+| Energy Source | Technology Type | Advantages | Disadvantages |
 |------------------------|-------------------------|-----------------------------------------|---------------------------------------|
-| Solar Power            | Photovoltaics (PV)     | Low cost, scalable, widely deployable   | Intermittent, requires space          |
-| Solar Power            | Concentrated Solar Power (CSP) | Energy storage capability, high efficiency | High initial costs, land-intensive    |
-| Wind Power             | Onshore Wind Turbines   | Cost-effective, increasing efficiency    | Intermittent, impacts local wildlife   |
-| Wind Power             | Offshore Wind Turbines   | Stronger winds, higher generation capacity | Higher costs, complex maintenance      |
-| Hydropower             | Dams                     | Reliable, consistent power                | Environmental impact, community displacement |
-| Hydropower             | Run-of-the-River         | Lower environmental impact               | Limited potential in some areas       |
-
+| Solar Power | Photovoltaics (PV) | Low cost, scalable, widely deployable | Intermittent, requires space |
+| Solar Power | Concentrated Solar Power (CSP) | Energy storage capability, high efficiency | High initial costs, land-intensive |
+| Wind Power | Onshore Wind Turbines | Cost-effective, increasing efficiency | Intermittent, impacts local wildlife |
+| Wind Power | Offshore Wind Turbines | Stronger winds, higher generation capacity | Higher costs, complex maintenance |
+| Hydropower | Dams | Reliable, consistent power | Environmental impact, community displacement |
+| Hydropower | Run-of-the-River | Lower environmental impact | Limited potential in some areas |

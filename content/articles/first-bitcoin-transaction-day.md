@@ -56,4 +56,3 @@ This initial transaction laid the groundwork for the network effect. It demonstr
 Each Bitcoin transaction today connects back to that initial transfer from Satoshi to Hal. This legacy embodies open-source collaboration, trust in code over institutional reliance, and the capacity of individuals to build new systems collaboratively.
 
 As we commemorate this event's anniversary, we honor Satoshi Nakamoto's vision and Hal Finney's leading spirit. Together, they represented the first two nodes in a now-global network, a network built on the foundation of that historic digital handshake.
-

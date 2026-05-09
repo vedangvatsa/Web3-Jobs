@@ -66,25 +66,24 @@ Recognizing the boundaries of a 51% attack is essential.
 
 While a 51% attack represents a significant threat, carrying one out on a large, established blockchain is exceptionally challenging and costly.
 
-| **Cost Factors**       | **Details**                                     |
+| **Cost Factors** | **Details** |
 |------------------------|-------------------------------------------------|
-| **Hardware Costs**     | An attacker must acquire an extensive amount of specialized mining hardware (ASICs). For Bitcoin, this often means obtaining more hardware than currently exists in the entire global network. This operation can be prohibitively expensive and logistically impossible to conduct secretly. |
-| **Energy Costs**       | The electricity required to power this hardware would be exceedingly expensive. |
+| **Hardware Costs** | An attacker must acquire an extensive amount of specialized mining hardware (ASICs). For Bitcoin, this often means obtaining more hardware than currently exists in the entire global network. This operation can be prohibitively expensive and logistically impossible to conduct secretly. |
+| **Energy Costs** | The electricity required to power this hardware would be exceedingly expensive. |
 | **Economic Disincentive** | If successful, news of the attack would likely cause the cryptocurrency's price to plummet. This devaluation would impact the very coins the attacker is attempting to double-spend and the costly mining equipment they acquired, rendering the attack economically irrational. |
 
 Due to these factors, smaller Proof-of-Work cryptocurrencies with lower total network hashrates are far more susceptible. Documented cases of successful 51% attacks have occurred on smaller coins like [Ethereum](/what-is-ethereum) Classic, Verge, and Bitcoin Gold, where acquiring the necessary hashrate proved feasible for determined attackers.
 
 ### Frequently Asked Questions (FAQ)
 
-**Can a 51% attack occur on a Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) network?**  
+**Can a 51% attack occur on a Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) network?** 
 Yes, although the mechanics differ. In a PoS network, an attacker must acquire over 50% of the total staked cryptocurrency. PoS protocols typically include a defense mechanism called "slashing." This feature allows the protocol to automatically detect attempts to compromise the network (for instance, by validating two different blocks at the same height) and destroy a significant portion of the attacker's staked funds. This makes the attack costly and self-defeating.
 
-**Why is 51% the critical threshold? Why not 49%?**  
+**Why is 51% the critical threshold? Why not 49%?** 
 Mining operates as a probabilistic game. An attacker with 49% of the hashrate could theoretically find several blocks in sequence, but statistically, this outcome is highly unlikely. Controlling over 50% of the hashrate guarantees an attacker the statistical ability to build a longer chain over time.
 
-**Has Bitcoin ever faced a 51% attack?**  
+**Has Bitcoin ever faced a 51% attack?** 
 No, the Bitcoin network has never been successfully attacked in this manner. The scale and expense associated with its mining network render it one of the most secure blockchains in existence.
 
-**What is the greatest risk associated with a 51% attack?**  
+**What is the greatest risk associated with a 51% attack?** 
 While double-spending is frequently mentioned, the most significant danger is the loss of trust. A successful 51% attack on a major blockchain would severely undermine its perceived immutability and security, leading to a substantial drop in its value and utility.
-

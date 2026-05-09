@@ -27,11 +27,11 @@ Dixon's primary argument in his book, *Read Write Own: Building the Next Era of 
 
 He categorizes the history of the internet into three phases:
 
-| Phase    | Timeline       | Key Characteristics                                                                                  |
+| Phase | Timeline | Key Characteristics |
 |----------|----------------|-----------------------------------------------------------------------------------------------------|
-| Web1    | 1990-2005      | Open protocols (HTTP, SMTP); decentralized and community-governed; users could only "read" content. |
-| Web2    | 2005-2020      | Centralized corporate networks (Google, Facebook, Twitter); users could "read and write" content; value shifted to corporations. |
-| Web3    | 2020-Present   | Built on blockchain technology; merges decentralization with interactive functionality; emphasizes user ownership through tokens. |
+| Web1 | 1990-2005 | Open protocols (HTTP, SMTP); decentralized and community-governed; users could only "read" content. |
+| Web2 | 2005-2020 | Centralized corporate networks (Google, Facebook, Twitter); users could "read and write" content; value shifted to corporations. |
+| Web3 | 2020-Present | Built on blockchain technology; merges decentralization with interactive functionality; emphasizes user ownership through tokens. |
 
 Dixon argues that the ownership aspect is the driver that will fuel a new wave of innovation, similar to how mobile and cloud technologies catalyzed the previous cycle.
 
@@ -58,9 +58,9 @@ A successful founder, in Dixon's view, has thoroughly explored the idea maze for
 
 Dixon's framework emphasizes the importance of user acquisition through a product with inherent utility, referred to as the "tool." After attracting a critical mass of users, network effects can enhance the product's value, forming the "network."
 
-| Example         | Initial Attraction                    | Network Value                     |
+| Example | Initial Attraction | Network Value |
 |------------------|-------------------------------------|-----------------------------------|
-| Instagram       | Simple photo-filtering tool         | Social networking features         |
+| Instagram | Simple photo-filtering tool | Social networking features |
 | Web3 Application | Compelling user experience solving a real problem | Token ownership creates network effects |
 
 Dixon suggests that decentralized applications (dApps) should first focus on providing a strong user experience. Once users are engaged, the integration of tokenomics can convert them into owners, driving unique network effects inherent to Web3.
@@ -83,17 +83,17 @@ By articulating this vision through clear mental models, Dixon has laid the inte
 
 ### Frequently Asked Questions (FAQ)
 
-**Q1: What is Chris Dixon's role at Andreessen Horowitz (a16z)?**  
+**Q1: What is Chris Dixon's role at Andreessen Horowitz (a16z)?** 
 A1: Chris Dixon is a General Partner at Andreessen Horowitz. He co-founded and currently leads a16z crypto, the firm's fund focused on investing in Web3 and cryptocurrency startups.
 
-**Q2: What is the main idea of his book, *Read Write Own*?**  
+**Q2: What is the main idea of his book, *Read Write Own*?** 
 A2: The book posits that Web3, rooted in blockchain technology, signifies the next major era of the internet. It evolves from the "Read" era (Web1) and the "Read-Write" era (Web2) into a "Read-Write-Own" era, allowing users true digital ownership of their assets and data through tokens.
 
-**Q3: What does Dixon mean by "strong technology"?**  
+**Q3: What does Dixon mean by "strong technology"?** 
 A3: A "strong technology" is defined as one based on open, permissionless protocols. Such technologies are not controlled by any single entity, making them stable and trustworthy foundations for developers. Dixon considers blockchains to be prime examples of strong technologies.
 
-**Q4: How does Chris Dixon view the relationship between Web3 and AI?**  
+**Q4: How does Chris Dixon view the relationship between Web3 and AI?** 
 A4: Dixon views Web3 and AI as complementary forces. He suggests that decentralized compute networks can host AI models and that blockchains can establish clear records of ownership and provenance for AI-generated content.
 
-**Q5: What is a16z crypto?**  
+**Q5: What is a16z crypto?** 
 A5: a16z crypto represents the dedicated cryptocurrency and Web3 investment fund within Andreessen Horowitz. Led by Chris Dixon, it is recognized as one of the most active and influential investors in the space, with investments in companies like Coinbase, Dapper Labs, and others.

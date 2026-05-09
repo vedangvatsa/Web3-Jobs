@@ -24,7 +24,7 @@ How do you handle payroll when your team spans the globe? What's your backup pla
 
 **The Solution:** Web3 HR leaders must be experts in remote-first organizational design. They build culture through written communication in tools like Discord, Slack, and Notion. They create detailed onboarding documentation that works asynchronously, a new hire from Singapore can get fully onboarded without waiting for their US-based manager to wake up.
 
-They partner with global employment platforms (like Deel, Remote.com, or Guidepoint) to handle international payroll and compliance. Many Web3 companies also use crypto payments (stablecoins) for a portion of compensation, which streamlines cross-border payments and reduces currency conversion costs. But this introduces new complexity: employees need to understand how to receive crypto, convert it if needed, and handle the tax implications.
+They partner with global employment platforms (like Deel, Remote.com, or Guidepoint) to handle international payroll and compliance. Many Web3 companies also use crypto payments (stablecoins) for a portion of compensation, which simplify cross-border payments and reduces currency conversion costs. But this introduces new complexity: employees need to understand how to receive crypto, convert it if needed, and handle the tax implications.
 
 **Best Practices:**
 - Create asynchronous handbooks and documentation for everything

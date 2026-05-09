@@ -39,9 +39,9 @@ The underlying primitive:
 
 ```
 If (hash_of(secret) == X and time < deadline):
-  send funds to receiver
+ send funds to receiver
 Else if time >= deadline:
-  refund sender
+ refund sender
 ```
 
 HTLCs enable atomic swaps by ensuring:

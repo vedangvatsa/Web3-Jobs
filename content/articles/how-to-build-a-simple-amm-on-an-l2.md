@@ -16,7 +16,7 @@ For many developers, creating an AMM represents a significant milestone. This co
 
 ### Advantages of Building on Layer 2
 
-Developing on an L2 solution, such as Arbitrum, Optimism, or Base, has become the norm for modern decentralized applications (dApps). The reduced gas fees significantly benefit AMMs, especially since users can engage in multiple swaps. Additionally, the developer experience closely mirrors that of [Ethereum](/what-is-ethereum), enabling a smooth transition of skills.
+Developing on an L2 solution, such as Arbitrum, Optimism, or Base, has become the norm for modern decentralized applications (dApps). The reduced gas fees significantly benefit AMMs, especially since users can engage in multiple swaps. the developer experience closely mirrors that of [Ethereum](/what-is-ethereum), enabling a smooth transition of skills.
 
 ### Understanding the Core Concept: The `x * y = k` Formula
 
@@ -39,34 +39,34 @@ pragma solidity ^0.8.20;
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 contract SimpleAMM {
-    IERC20 public immutable tokenA;
-    IERC20 public immutable tokenB;
+ IERC20 public immutable tokenA;
+ IERC20 public immutable tokenB;
 
-    uint256 public reserveA;
-    uint256 public reserveB;
+ uint256 public reserveA;
+ uint256 public reserveB;
 
-    uint256 public totalSupply; // Total LP shares
-    mapping(address => uint256) public balanceOf; // LP shares for each user
+ uint256 public totalSupply; // Total LP shares
+ mapping(address => uint256) public balanceOf; // LP shares for each user
 
-    constructor(address _tokenA, address _tokenB) {
-        tokenA = IERC20(_tokenA);
-        tokenB = IERC20(_tokenB);
-    }
+ constructor(address _tokenA, address _tokenB) {
+ tokenA = IERC20(_tokenA);
+ tokenB = IERC20(_tokenB);
+ }
 
-    // Function to add liquidity
-    function addLiquidity(uint256 _amountA, uint256 _amountB) public {
-        // Logic to transfer tokens from user and mint LP shares
-    }
+ // Function to add liquidity
+ function addLiquidity(uint256 _amountA, uint256 _amountB) public {
+ // Logic to transfer tokens from user and mint LP shares
+ }
 
-    // Function to remove liquidity
-    function removeLiquidity(uint256 _shares) public {
-        // Logic to burn LP shares and return tokens to user
-    }
-    
-    // Function to swap tokens
-    function swap(address _tokenIn, uint256 _amountIn) public returns (uint256 amountOut) {
-        // Logic to calculate output amount and transfer tokens
-    }
+ // Function to remove liquidity
+ function removeLiquidity(uint256 _shares) public {
+ // Logic to burn LP shares and return tokens to user
+ }
+
+ // Function to swap tokens
+ function swap(address _tokenIn, uint256 _amountIn) public returns (uint256 amountOut) {
+ // Logic to calculate output amount and transfer tokens
+ }
 }
 ```
 
@@ -76,25 +76,25 @@ This function allows users to deposit equal values of both tokens into the pool.
 
 ```solidity
 function addLiquidity(uint256 _amountA, uint256 _amountB) public {
-    tokenA.transferFrom(msg.sender, address(this), _amountA);
-    tokenB.transferFrom(msg.sender, address(this), _amountB);
+ tokenA.transferFrom(msg.sender, address(this), _amountA);
+ tokenB.transferFrom(msg.sender, address(this), _amountB);
 
-    uint256 shares;
-    if (totalSupply == 0) {
-        // First liquidity provider sets the initial exchange rate
-        shares = 100;
-    } else {
-        // Subsequent providers add liquidity proportionally to the current reserves
-        shares = (_amountA * totalSupply) / reserveA;
-    }
+ uint256 shares;
+ if (totalSupply == 0) {
+ // First liquidity provider sets the initial exchange rate
+ shares = 100;
+ } else {
+ // Subsequent providers add liquidity proportionally to the current reserves
+ shares = (_amountA * totalSupply) / reserveA;
+ }
 
-    require(shares > 0, "No shares minted");
-    
-    balanceOf[msg.sender] += shares;
-    totalSupply += shares;
-    
-    reserveA += _amountA;
-    reserveB += _amountB;
+ require(shares > 0, "No shares minted");
+
+ balanceOf[msg.sender] += shares;
+ totalSupply += shares;
+
+ reserveA += _amountA;
+ reserveB += _amountB;
 }
 ```
 
@@ -106,35 +106,35 @@ The `swap` function applies the `x * y = k` principle. A user inputs `_tokenIn` 
 
 ```solidity
 function swap(address _tokenIn, uint256 _amountIn) public returns (uint256 amountOut) {
-    require(_tokenIn == address(tokenA) || _tokenIn == address(tokenB), "Invalid token");
+ require(_tokenIn == address(tokenA) || _tokenIn == address(tokenB), "Invalid token");
 
-    uint256 reserveIn;
-    uint256 reserveOut;
-    
-    if (_tokenIn == address(tokenA)) {
-        reserveIn = reserveA;
-        reserveOut = reserveB;
-    } else {
-        reserveIn = reserveB;
-        reserveOut = reserveA;
-    }
+ uint256 reserveIn;
+ uint256 reserveOut;
 
-    // Calculate output amount based on the constant product formula
-    uint256 amountInWithFee = _amountIn * 997;
-    amountOut = (reserveOut * amountInWithFee) / (reserveIn * 1000 + amountInWithFee);
+ if (_tokenIn == address(tokenA)) {
+ reserveIn = reserveA;
+ reserveOut = reserveB;
+ } else {
+ reserveIn = reserveB;
+ reserveOut = reserveA;
+ }
 
-    // Perform the token transfers
-    if (_tokenIn == address(tokenA)) {
-        tokenA.transferFrom(msg.sender, address(this), _amountIn);
-        tokenB.transfer(msg.sender, amountOut);
-        reserveA += _amountIn;
-        reserveB -= amountOut;
-    } else {
-        tokenB.transferFrom(msg.sender, address(this), _amountIn);
-        tokenA.transfer(msg.sender, amountOut);
-        reserveB += _amountIn;
-        reserveA -= amountOut;
-    }
+ // Calculate output amount based on the constant product formula
+ uint256 amountInWithFee = _amountIn * 997;
+ amountOut = (reserveOut * amountInWithFee) / (reserveIn * 1000 + amountInWithFee);
+
+ // Perform the token transfers
+ if (_tokenIn == address(tokenA)) {
+ tokenA.transferFrom(msg.sender, address(this), _amountIn);
+ tokenB.transfer(msg.sender, amountOut);
+ reserveA += _amountIn;
+ reserveB -= amountOut;
+ } else {
+ tokenB.transferFrom(msg.sender, address(this), _amountIn);
+ tokenA.transfer(msg.sender, amountOut);
+ reserveB += _amountIn;
+ reserveA -= amountOut;
+ }
 }
 ```
 
@@ -143,12 +143,12 @@ function swap(address _tokenIn, uint256 _amountIn) public returns (uint256 amoun
 ### Step 4: Testing and Deployment Process
 
 - **Testing**: Developing a detailed test suite for an AMM is essential. This ensures all functions work properly under various scenarios, including edge cases like empty pools or large trades. Use platforms like Foundry or Hardhat for testing.
-  
+
 - **Deployment**:
-  1. Acquire testnet ETH for Layer 2 solutions like Arbitrum Sepolia or Base Sepolia from a public faucet.
-  2. Deploy two ERC-20 token contracts to create your trading pair.
-  3. Deploy the `SimpleAMM` contract, passing the addresses of your two token contracts into the constructor.
-  4. Build a simple frontend using React and Ethers.js/Viem to interact with your deployed contracts.
+ 1. Acquire testnet ETH for Layer 2 solutions like Arbitrum Sepolia or Base Sepolia from a public faucet.
+ 2. Deploy two ERC-20 token contracts to create your trading pair.
+ 3. Deploy the `SimpleAMM` contract, passing the addresses of your two token contracts into the constructor.
+ 4. Build a simple frontend using React and Ethers.js/Viem to interact with your deployed contracts.
 
 This overview simplifies the process. A production-level AMM would include additional features, such as mechanisms against specific types of miner extractable value (MEV) and more advanced fee structures. However, creating this basic version provides a solid foundation and understanding of AMM mechanics.
 
@@ -180,16 +180,16 @@ Regularly assess your results. Are you achieving your goals? Be prepared to adju
 
 ## Real-World Case Studies
 
-| Name   | Role                     | Outcome                                 |
+| Name | Role | Outcome |
 |--------|--------------------------|-----------------------------------------|
-| Sarah  | Developer at a startup   | Enhanced efficiency in code deployment. Within three months, she reduced deployment times significantly. |
-| Juan   | Product Manager in DeFi  | Improved product delivery speed. By adopting a structured framework, he cut time-to-market for new features significantly. |
-| Maya   | Transitioning from Web2  | Successfully adapted to Web3. By applying these strategies, she secured a role at a leading blockchain firm within two months. |
+| Sarah | Developer at a startup | Enhanced efficiency in code deployment. Within three months, she reduced deployment times significantly. |
+| Juan | Product Manager in DeFi | Improved product delivery speed. By adopting a structured framework, he cut time-to-market for new features significantly. |
+| Maya | Transitioning from Web2 | Successfully adapted to Web3. By applying these strategies, she secured a role at a leading blockchain firm within two months. |
 
 ### Common Mistakes to Avoid
 
 1. **Rushing the Development Process**: Sustainable change requires time. Patience is important.
-  
+
 2. **Neglecting Feedback**: Input from colleagues and mentors can provide valuable insights you might overlook. Always listen to feedback.
 
 3. **One-Size-Fits-All Thinking**: Tailor strategies to fit your unique context. What works for others may not be effective for you.
@@ -197,4 +197,3 @@ Regularly assess your results. Are you achieving your goals? Be prepared to adju
 4. **Quitting Too Soon**: Change often involves discomfort. Persistence through initial challenges leads to better outcomes.
 
 5. **Failing to Track Progress**: You cannot improve without metrics. Keep a close eye on your development.
-

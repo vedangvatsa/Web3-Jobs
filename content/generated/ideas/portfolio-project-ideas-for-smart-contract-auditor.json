@@ -1,313 +1,313 @@
 {
-  "meta": {
-    "contentType": "ideas",
-    "topic": "portfolio-project",
-    "niche": "smart-contract-auditor",
-    "generatedAt": "2026-03-13T00:00:00.000Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "50 Portfolio Project Ideas for Smart Contract Auditors",
-    "description": "Build your security auditor portfolio with these 50 project ideas. From vulnerability databases to automated detection tools, showcase your expertise to potential clients.",
-    "keywords": ["smart-contract-auditor", "portfolio", "security", "audit", "web3", "blockchain", "vulnerability", "Slither", "Mythril"],
-    "canonicalSlug": "portfolio-project-ideas-for-smart-contract-auditor"
-  },
-  "content": {
-    "intro": "As a smart contract auditor, your portfolio needs to demonstrate deep security expertise and practical experience finding vulnerabilities. These project ideas will help you build credibility with protocols and audit firms.",
-    "sections": [
-      {
-        "heading": "Vulnerability Research Projects",
-        "description": "Document and analyze real-world exploits to demonstrate your understanding of attack vectors.",
-        "items": [
-          {
-            "title": "Exploit Post-Mortem Database",
-            "description": "Create a searchable database of DeFi exploits with technical breakdowns, root cause analysis, and prevention strategies for each incident.",
-            "difficulty": "intermediate",
-            "timeEstimate": "3-4 weeks",
-            "skills": ["Research", "Technical Writing", "Solidity"],
-            "outcomes": ["Demonstrates deep vulnerability knowledge", "Shows analytical thinking", "Useful reference for the community"]
-          },
-          {
-            "title": "Reentrancy Pattern Catalog",
-            "description": "Build a comprehensive catalog of reentrancy variations including cross-function, cross-contract, and read-only reentrancy with code examples.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": ["Solidity", "Security Patterns", "Documentation"],
-            "outcomes": ["Shows mastery of common vulnerability class", "Educational resource", "Reference for audits"]
-          },
-          {
-            "title": "Flash Loan Attack Simulator",
-            "description": "Develop a tool that simulates flash loan attacks against test contracts to demonstrate various manipulation techniques.",
-            "difficulty": "advanced",
-            "timeEstimate": "4-6 weeks",
-            "skills": ["Solidity", "DeFi", "Foundry", "Flash Loans"],
-            "outcomes": ["Hands-on attack experience", "Tool for future audits", "Impressive demo piece"]
-          },
-          {
-            "title": "Oracle Manipulation Lab",
-            "description": "Create a testing environment demonstrating price oracle attacks including TWAP manipulation and spot price attacks.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": ["DeFi", "Oracles", "Foundry", "MEV"],
-            "outcomes": ["Demonstrates oracle security expertise", "Reusable test suite", "Educational content"]
-          },
-          {
-            "title": "Access Control Vulnerability Scanner",
-            "description": "Build a static analysis tool that detects common access control issues like missing modifiers and privilege escalation paths.",
-            "difficulty": "advanced",
-            "timeEstimate": "4-5 weeks",
-            "skills": ["Python", "AST Parsing", "Solidity", "Security"],
-            "outcomes": ["Automated detection capability", "Tool for audit workflow", "Technical depth showcase"]
-          }
-        ]
-      },
-      {
-        "heading": "Security Tooling Projects",
-        "description": "Build tools that automate or assist the audit process.",
-        "items": [
-          {
-            "title": "Custom Slither Detectors",
-            "description": "Write custom Slither detectors for vulnerability patterns not covered by default rules, such as protocol-specific issues.",
-            "difficulty": "advanced",
-            "timeEstimate": "2-3 weeks",
-            "skills": ["Python", "Slither", "Static Analysis", "Solidity"],
-            "outcomes": ["Extends existing tooling", "Shows tool mastery", "Contributes to ecosystem"]
-          },
-          {
-            "title": "Foundry Fuzzing Framework",
-            "description": "Create a reusable fuzzing framework with invariant tests for common DeFi primitives like AMMs, lending, and vaults.",
-            "difficulty": "advanced",
-            "timeEstimate": "4-6 weeks",
-            "skills": ["Foundry", "Fuzzing", "DeFi", "Invariants"],
-            "outcomes": ["Reusable audit tool", "Demonstrates testing expertise", "Time-saver for future audits"]
-          },
-          {
-            "title": "Gas Griefing Detector",
-            "description": "Build a tool that identifies potential gas griefing vulnerabilities in contracts with unbounded loops or external calls.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": ["Static Analysis", "EVM", "Gas Mechanics"],
-            "outcomes": ["Niche security tool", "Automated detection", "Unique portfolio piece"]
-          },
-          {
-            "title": "Upgrade Safety Checker",
-            "description": "Develop a tool that validates proxy upgrade safety by checking storage layout compatibility and initialization patterns.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": ["Proxies", "Storage Layout", "Solidity", "Python"],
-            "outcomes": ["Critical upgrade safety tool", "High-value for protocols", "Shows upgrade expertise"]
-          },
-          {
-            "title": "MEV Vulnerability Scanner",
-            "description": "Create a scanner that identifies sandwich attack and frontrunning vulnerabilities in DeFi contracts.",
-            "difficulty": "advanced",
-            "timeEstimate": "4-5 weeks",
-            "skills": ["MEV", "DeFi", "Transaction Analysis", "Solidity"],
-            "outcomes": ["Cutting-edge security focus", "High demand skill", "Unique tool"]
-          }
-        ]
-      },
-      {
-        "heading": "CTF and Educational Content",
-        "description": "Create learning resources that demonstrate your teaching ability and deep understanding.",
-        "items": [
-          {
-            "title": "Custom CTF Challenge Set",
-            "description": "Design a series of increasingly difficult smart contract CTF challenges covering various vulnerability classes.",
-            "difficulty": "intermediate",
-            "timeEstimate": "3-4 weeks",
-            "skills": ["Solidity", "Security", "Education", "Game Design"],
-            "outcomes": ["Community contribution", "Teaching ability", "Deep security knowledge"]
-          },
-          {
-            "title": "Damn Vulnerable DeFi Solutions Guide",
-            "description": "Write detailed walkthroughs for Damn Vulnerable DeFi challenges explaining the thought process and multiple solution approaches.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2-3 weeks",
-            "skills": ["Technical Writing", "DeFi Security", "Solidity"],
-            "outcomes": ["Educational content", "SEO potential", "Demonstrates expertise"]
-          },
-          {
-            "title": "Security Pattern Cheatsheet",
-            "description": "Create a visual cheatsheet of security patterns and anti-patterns with code examples and real exploit references.",
-            "difficulty": "beginner",
-            "timeEstimate": "1-2 weeks",
-            "skills": ["Design", "Documentation", "Security"],
-            "outcomes": ["Shareable resource", "Community value", "Brand building"]
-          },
-          {
-            "title": "Audit Report Template Library",
-            "description": "Develop a library of audit report templates with standardized vulnerability descriptions and severity classifications.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": ["Technical Writing", "Documentation", "Security"],
-            "outcomes": ["Professional deliverable templates", "Time-saver", "Industry contribution"]
-          },
-          {
-            "title": "Video Audit Walkthrough Series",
-            "description": "Record video walkthroughs of your audit process on open-source contracts, explaining your methodology.",
-            "difficulty": "intermediate",
-            "timeEstimate": "4-6 weeks",
-            "skills": ["Video Production", "Communication", "Audit Process"],
-            "outcomes": ["Personal brand building", "Transparent methodology", "Client confidence"]
-          }
-        ]
-      },
-      {
-        "heading": "Real Protocol Analysis",
-        "description": "Analyze live protocols to demonstrate real-world auditing skills.",
-        "items": [
-          {
-            "title": "Public Audit of Small Protocol",
-            "description": "Conduct a thorough public audit of a smaller protocol's contracts and publish your findings responsibly.",
-            "difficulty": "advanced",
-            "timeEstimate": "2-4 weeks",
-            "skills": ["Full Audit Process", "Report Writing", "Communication"],
-            "outcomes": ["Real audit experience", "Public proof of work", "Potential bug bounties"]
-          },
-          {
-            "title": "Protocol Comparison Analysis",
-            "description": "Compare the security architecture of similar protocols (e.g., Aave vs Compound) highlighting design tradeoffs.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": ["Protocol Analysis", "DeFi", "Research", "Writing"],
-            "outcomes": ["Deep protocol knowledge", "Thought leadership", "Educational content"]
-          },
-          {
-            "title": "Bug Bounty Hunting Documentation",
-            "description": "Document your bug bounty hunting process and findings (with permission) to show real vulnerability discovery.",
-            "difficulty": "advanced",
-            "timeEstimate": "Ongoing",
-            "skills": ["Bug Hunting", "Research", "Writing"],
-            "outcomes": ["Proven track record", "Financial rewards", "Credibility"]
-          },
-          {
-            "title": "Governance Attack Analysis",
-            "description": "Analyze governance mechanisms of major DAOs for potential attack vectors like flash loan governance attacks.",
-            "difficulty": "advanced",
-            "timeEstimate": "2-3 weeks",
-            "skills": ["Governance", "DeFi", "Game Theory", "Research"],
-            "outcomes": ["Niche expertise", "DAO security knowledge", "Unique content"]
-          },
-          {
-            "title": "Bridge Security Deep Dive",
-            "description": "Conduct a thorough analysis of cross-chain bridge architectures and their historical vulnerabilities.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": ["Bridges", "Cross-chain", "Research", "Security"],
-            "outcomes": ["High-value expertise area", "Timely topic", "Deep technical content"]
-          }
-        ]
-      },
-      {
-        "heading": "Automation and Monitoring",
-        "description": "Build systems for ongoing security monitoring and automated checks.",
-        "items": [
-          {
-            "title": "Contract Monitoring Bot",
-            "description": "Build a bot that monitors deployed contracts for suspicious transactions or state changes indicating exploitation.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": ["Node.js", "Ethers.js", "Monitoring", "Alerts"],
-            "outcomes": ["Proactive security tool", "Real-time detection", "Incident response capability"]
-          },
-          {
-            "title": "Automated Audit Pipeline",
-            "description": "Create a CI/CD pipeline that runs security tools (Slither, Mythril, custom checks) on every commit.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": ["CI/CD", "DevOps", "Security Tools", "Automation"],
-            "outcomes": ["DevSecOps capability", "Scalable security", "Modern workflow"]
-          },
-          {
-            "title": "Exploit Alert System",
-            "description": "Build a system that scrapes security feeds and alerts on new exploits relevant to protocols you're monitoring.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2-3 weeks",
-            "skills": ["Web Scraping", "Alerts", "APIs", "Python"],
-            "outcomes": ["Stay informed", "Quick response capability", "Intelligence gathering"]
-          },
-          {
-            "title": "Storage Slot Monitor",
-            "description": "Create a tool that monitors critical storage slots in contracts and alerts on unexpected changes.",
-            "difficulty": "advanced",
-            "timeEstimate": "2-3 weeks",
-            "skills": ["EVM Storage", "Monitoring", "Ethers.js"],
-            "outcomes": ["Deep EVM knowledge", "Proactive detection", "Unique monitoring approach"]
-          },
-          {
-            "title": "Mempool Watcher for Attacks",
-            "description": "Build a mempool monitoring tool that detects potential attack transactions before they're mined.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": ["Mempool", "MEV", "Real-time Analysis", "Node.js"],
-            "outcomes": ["Advanced detection capability", "MEV awareness", "Cutting-edge security"]
-          }
-        ]
-      },
-      {
-        "heading": "Specialized Security Research",
-        "description": "Deep dives into specific vulnerability classes and emerging threats.",
-        "items": [
-          {
-            "title": "L2 Sequencer Risk Analysis",
-            "description": "Research and document risks from centralized L2 sequencers including liveness failures and censorship attacks.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": ["L2 architecture", "Research", "Risk analysis"],
-            "outcomes": ["Emerging area expertise", "Timely research", "Thought leadership"]
-          },
-          {
-            "title": "Account Abstraction Security Guide",
-            "description": "Analyze security considerations for ERC-4337 account abstraction including paymaster and bundler risks.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": ["ERC-4337", "Account abstraction", "Security research"],
-            "outcomes": ["New paradigm expertise", "Early mover advantage", "Educational content"]
-          },
-          {
-            "title": "Cross-Chain Message Verification",
-            "description": "Research vulnerabilities in cross-chain messaging protocols and verification mechanisms.",
-            "difficulty": "advanced",
-            "timeEstimate": "4-5 weeks",
-            "skills": ["Cross-chain", "Messaging protocols", "Security research"],
-            "outcomes": ["High-value expertise", "Bridge security", "Critical infrastructure knowledge"]
-          },
-          {
-            "title": "EIP Implementation Analysis",
-            "description": "Analyze security implications of new EIPs before they're widely adopted.",
-            "difficulty": "advanced",
-            "timeEstimate": "2-3 weeks per EIP",
-            "skills": ["EIP process", "Specification analysis", "Forward thinking"],
-            "outcomes": ["Early vulnerability detection", "Community contribution", "Visibility"]
-          },
-          {
-            "title": "Compiler Bug Investigation",
-            "description": "Research historical Solidity compiler bugs and build detector for affected contracts.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": ["Compiler internals", "Version analysis", "Deep Solidity"],
-            "outcomes": ["Rare expertise", "Niche but valuable", "Legacy contract auditing"]
-          }
-        ]
-      }
-    ],
-    "proTips": [
-      {
-        "tip": "Start with Code4rena contests to build a public track record of findings before pitching to protocols directly."
-      },
-      {
-        "tip": "Document every finding in a personal database. Patterns you see once will appear again, and quick reference saves time."
-      },
-      {
-        "tip": "Build relationships with protocol teams even when you don't find bugs. Reputation matters more than individual audits."
-      },
-      {
-        "tip": "Specialize in one area deeply (bridges, lending, AMMs) before broadening. Deep expertise commands premium rates."
-      },
-      {
-        "tip": "Always disclose responsibly. Never publish exploit details before the protocol has patched. Your reputation depends on trust."
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "ideas",
+ "topic": "portfolio-project",
+ "niche": "smart-contract-auditor",
+ "generatedAt": "2026-03-13T00:00:00.000Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "50 Portfolio Project Ideas for Smart Contract Auditors",
+ "description": "Build your security auditor portfolio with these 50 project ideas. From vulnerability databases to automated detection tools, showcase your expertise to potential clients.",
+ "keywords": ["smart-contract-auditor", "portfolio", "security", "audit", "web3", "blockchain", "vulnerability", "Slither", "Mythril"],
+ "canonicalSlug": "portfolio-project-ideas-for-smart-contract-auditor"
+ },
+ "content": {
+ "intro": "As a smart contract auditor, your portfolio needs to demonstrate deep security expertise and practical experience finding vulnerabilities. These project ideas will help you build credibility with protocols and audit firms.",
+ "sections": [
+ {
+ "heading": "Vulnerability Research Projects",
+ "description": "Document and analyze real-world exploits to demonstrate your understanding of attack vectors.",
+ "items": [
+ {
+ "title": "Exploit Post-Mortem Database",
+ "description": "Create a searchable database of DeFi exploits with technical breakdowns, root cause analysis, and prevention strategies for each incident.",
+ "difficulty": "intermediate",
+ "timeEstimate": "3-4 weeks",
+ "skills": ["Research", "Technical Writing", "Solidity"],
+ "outcomes": ["Demonstrates deep vulnerability knowledge", "Shows analytical thinking", "Useful reference for the community"]
+ },
+ {
+ "title": "Reentrancy Pattern Catalog",
+ "description": "Build a comprehensive catalog of reentrancy variations including cross-function, cross-contract, and read-only reentrancy with code examples.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": ["Solidity", "Security Patterns", "Documentation"],
+ "outcomes": ["Shows mastery of common vulnerability class", "Educational resource", "Reference for audits"]
+ },
+ {
+ "title": "Flash Loan Attack Simulator",
+ "description": "Develop a tool that simulates flash loan attacks against test contracts to demonstrate various manipulation techniques.",
+ "difficulty": "advanced",
+ "timeEstimate": "4-6 weeks",
+ "skills": ["Solidity", "DeFi", "Foundry", "Flash Loans"],
+ "outcomes": ["Hands-on attack experience", "Tool for future audits", "Impressive demo piece"]
+ },
+ {
+ "title": "Oracle Manipulation Lab",
+ "description": "Create a testing environment demonstrating price oracle attacks including TWAP manipulation and spot price attacks.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": ["DeFi", "Oracles", "Foundry", "MEV"],
+ "outcomes": ["Demonstrates oracle security expertise", "Reusable test suite", "Educational content"]
+ },
+ {
+ "title": "Access Control Vulnerability Scanner",
+ "description": "Build a static analysis tool that detects common access control issues like missing modifiers and privilege escalation paths.",
+ "difficulty": "advanced",
+ "timeEstimate": "4-5 weeks",
+ "skills": ["Python", "AST Parsing", "Solidity", "Security"],
+ "outcomes": ["Automated detection capability", "Tool for audit workflow", "Technical depth showcase"]
+ }
+ ]
+ },
+ {
+ "heading": "Security Tooling Projects",
+ "description": "Build tools that automate or assist the audit process.",
+ "items": [
+ {
+ "title": "Custom Slither Detectors",
+ "description": "Write custom Slither detectors for vulnerability patterns not covered by default rules, such as protocol-specific issues.",
+ "difficulty": "advanced",
+ "timeEstimate": "2-3 weeks",
+ "skills": ["Python", "Slither", "Static Analysis", "Solidity"],
+ "outcomes": ["Extends existing tooling", "Shows tool mastery", "Contributes to ecosystem"]
+ },
+ {
+ "title": "Foundry Fuzzing Framework",
+ "description": "Create a reusable fuzzing framework with invariant tests for common DeFi primitives like AMMs, lending, and vaults.",
+ "difficulty": "advanced",
+ "timeEstimate": "4-6 weeks",
+ "skills": ["Foundry", "Fuzzing", "DeFi", "Invariants"],
+ "outcomes": ["Reusable audit tool", "Demonstrates testing expertise", "Time-saver for future audits"]
+ },
+ {
+ "title": "Gas Griefing Detector",
+ "description": "Build a tool that identifies potential gas griefing vulnerabilities in contracts with unbounded loops or external calls.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": ["Static Analysis", "EVM", "Gas Mechanics"],
+ "outcomes": ["Niche security tool", "Automated detection", "Unique portfolio piece"]
+ },
+ {
+ "title": "Upgrade Safety Checker",
+ "description": "Develop a tool that validates proxy upgrade safety by checking storage layout compatibility and initialization patterns.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": ["Proxies", "Storage Layout", "Solidity", "Python"],
+ "outcomes": ["Critical upgrade safety tool", "High-value for protocols", "Shows upgrade expertise"]
+ },
+ {
+ "title": "MEV Vulnerability Scanner",
+ "description": "Create a scanner that identifies sandwich attack and frontrunning vulnerabilities in DeFi contracts.",
+ "difficulty": "advanced",
+ "timeEstimate": "4-5 weeks",
+ "skills": ["MEV", "DeFi", "Transaction Analysis", "Solidity"],
+ "outcomes": ["advanced security focus", "High demand skill", "Unique tool"]
+ }
+ ]
+ },
+ {
+ "heading": "CTF and Educational Content",
+ "description": "Create learning resources that demonstrate your teaching ability and deep understanding.",
+ "items": [
+ {
+ "title": "Custom CTF Challenge Set",
+ "description": "Design a series of increasingly difficult smart contract CTF challenges covering various vulnerability classes.",
+ "difficulty": "intermediate",
+ "timeEstimate": "3-4 weeks",
+ "skills": ["Solidity", "Security", "Education", "Game Design"],
+ "outcomes": ["Community contribution", "Teaching ability", "Deep security knowledge"]
+ },
+ {
+ "title": "Damn Vulnerable DeFi Solutions Guide",
+ "description": "Write detailed walkthroughs for Damn Vulnerable DeFi challenges explaining the thought process and multiple solution approaches.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2-3 weeks",
+ "skills": ["Technical Writing", "DeFi Security", "Solidity"],
+ "outcomes": ["Educational content", "SEO potential", "Demonstrates expertise"]
+ },
+ {
+ "title": "Security Pattern Cheatsheet",
+ "description": "Create a visual cheatsheet of security patterns and anti-patterns with code examples and real exploit references.",
+ "difficulty": "beginner",
+ "timeEstimate": "1-2 weeks",
+ "skills": ["Design", "Documentation", "Security"],
+ "outcomes": ["Shareable resource", "Community value", "Brand building"]
+ },
+ {
+ "title": "Audit Report Template Library",
+ "description": "Develop a library of audit report templates with standardized vulnerability descriptions and severity classifications.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": ["Technical Writing", "Documentation", "Security"],
+ "outcomes": ["Professional deliverable templates", "Time-saver", "Industry contribution"]
+ },
+ {
+ "title": "Video Audit Walkthrough Series",
+ "description": "Record video walkthroughs of your audit process on open-source contracts, explaining your methodology.",
+ "difficulty": "intermediate",
+ "timeEstimate": "4-6 weeks",
+ "skills": ["Video Production", "Communication", "Audit Process"],
+ "outcomes": ["Personal brand building", "Transparent methodology", "Client confidence"]
+ }
+ ]
+ },
+ {
+ "heading": "Real Protocol Analysis",
+ "description": "Analyze live protocols to demonstrate real-world auditing skills.",
+ "items": [
+ {
+ "title": "Public Audit of Small Protocol",
+ "description": "Conduct a thorough public audit of a smaller protocol's contracts and publish your findings responsibly.",
+ "difficulty": "advanced",
+ "timeEstimate": "2-4 weeks",
+ "skills": ["Full Audit Process", "Report Writing", "Communication"],
+ "outcomes": ["Real audit experience", "Public proof of work", "Potential bug bounties"]
+ },
+ {
+ "title": "Protocol Comparison Analysis",
+ "description": "Compare the security architecture of similar protocols (e.g., Aave vs Compound) highlighting design tradeoffs.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": ["Protocol Analysis", "DeFi", "Research", "Writing"],
+ "outcomes": ["Deep protocol knowledge", "Thought leadership", "Educational content"]
+ },
+ {
+ "title": "Bug Bounty Hunting Documentation",
+ "description": "Document your bug bounty hunting process and findings (with permission) to show real vulnerability discovery.",
+ "difficulty": "advanced",
+ "timeEstimate": "Ongoing",
+ "skills": ["Bug Hunting", "Research", "Writing"],
+ "outcomes": ["Proven track record", "Financial rewards", "Credibility"]
+ },
+ {
+ "title": "Governance Attack Analysis",
+ "description": "Analyze governance mechanisms of major DAOs for potential attack vectors like flash loan governance attacks.",
+ "difficulty": "advanced",
+ "timeEstimate": "2-3 weeks",
+ "skills": ["Governance", "DeFi", "Game Theory", "Research"],
+ "outcomes": ["Niche expertise", "DAO security knowledge", "Unique content"]
+ },
+ {
+ "title": "Bridge Security Deep Dive",
+ "description": "Conduct a thorough analysis of cross-chain bridge architectures and their historical vulnerabilities.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": ["Bridges", "Cross-chain", "Research", "Security"],
+ "outcomes": ["High-value expertise area", "Timely topic", "Deep technical content"]
+ }
+ ]
+ },
+ {
+ "heading": "Automation and Monitoring",
+ "description": "Build systems for ongoing security monitoring and automated checks.",
+ "items": [
+ {
+ "title": "Contract Monitoring Bot",
+ "description": "Build a bot that monitors deployed contracts for suspicious transactions or state changes indicating exploitation.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": ["Node.js", "Ethers.js", "Monitoring", "Alerts"],
+ "outcomes": ["Proactive security tool", "Real-time detection", "Incident response capability"]
+ },
+ {
+ "title": "Automated Audit Pipeline",
+ "description": "Create a CI/CD pipeline that runs security tools (Slither, Mythril, custom checks) on every commit.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": ["CI/CD", "DevOps", "Security Tools", "Automation"],
+ "outcomes": ["DevSecOps capability", "Scalable security", "Modern workflow"]
+ },
+ {
+ "title": "Exploit Alert System",
+ "description": "Build a system that scrapes security feeds and alerts on new exploits relevant to protocols you're monitoring.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2-3 weeks",
+ "skills": ["Web Scraping", "Alerts", "APIs", "Python"],
+ "outcomes": ["Stay informed", "Quick response capability", "Intelligence gathering"]
+ },
+ {
+ "title": "Storage Slot Monitor",
+ "description": "Create a tool that monitors critical storage slots in contracts and alerts on unexpected changes.",
+ "difficulty": "advanced",
+ "timeEstimate": "2-3 weeks",
+ "skills": ["EVM Storage", "Monitoring", "Ethers.js"],
+ "outcomes": ["Deep EVM knowledge", "Proactive detection", "Unique monitoring approach"]
+ },
+ {
+ "title": "Mempool Watcher for Attacks",
+ "description": "Build a mempool monitoring tool that detects potential attack transactions before they're mined.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": ["Mempool", "MEV", "Real-time Analysis", "Node.js"],
+ "outcomes": ["Advanced detection capability", "MEV awareness", "advanced security"]
+ }
+ ]
+ },
+ {
+ "heading": "Specialized Security Research",
+ "description": "Deep dives into specific vulnerability classes and emerging threats.",
+ "items": [
+ {
+ "title": "L2 Sequencer Risk Analysis",
+ "description": "Research and document risks from centralized L2 sequencers including liveness failures and censorship attacks.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": ["L2 architecture", "Research", "Risk analysis"],
+ "outcomes": ["Emerging area expertise", "Timely research", "Thought leadership"]
+ },
+ {
+ "title": "Account Abstraction Security Guide",
+ "description": "Analyze security considerations for ERC-4337 account abstraction including paymaster and bundler risks.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": ["ERC-4337", "Account abstraction", "Security research"],
+ "outcomes": ["New paradigm expertise", "Early mover advantage", "Educational content"]
+ },
+ {
+ "title": "Cross-Chain Message Verification",
+ "description": "Research vulnerabilities in cross-chain messaging protocols and verification mechanisms.",
+ "difficulty": "advanced",
+ "timeEstimate": "4-5 weeks",
+ "skills": ["Cross-chain", "Messaging protocols", "Security research"],
+ "outcomes": ["High-value expertise", "Bridge security", "Critical infrastructure knowledge"]
+ },
+ {
+ "title": "EIP Implementation Analysis",
+ "description": "Analyze security implications of new EIPs before they're widely adopted.",
+ "difficulty": "advanced",
+ "timeEstimate": "2-3 weeks per EIP",
+ "skills": ["EIP process", "Specification analysis", "Forward thinking"],
+ "outcomes": ["Early vulnerability detection", "Community contribution", "Visibility"]
+ },
+ {
+ "title": "Compiler Bug Investigation",
+ "description": "Research historical Solidity compiler bugs and build detector for affected contracts.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": ["Compiler internals", "Version analysis", "Deep Solidity"],
+ "outcomes": ["Rare expertise", "Niche but valuable", "Legacy contract auditing"]
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ {
+ "tip": "Start with Code4rena contests to build a public track record of findings before pitching to protocols directly."
+ },
+ {
+ "tip": "Document every finding in a personal database. Patterns you see once will appear again, and quick reference saves time."
+ },
+ {
+ "tip": "Build relationships with protocol teams even when you don't find bugs. Reputation matters more than individual audits."
+ },
+ {
+ "tip": "Specialize in one area deeply (bridges, lending, AMMs) before broadening. Deep expertise commands premium rates."
+ },
+ {
+ "tip": "Always disclose responsibly. Never publish exploit details before the protocol has patched. Your reputation depends on trust."
+ }
+ ]
+ }
 }
