@@ -318,6 +318,8 @@ async function refreshJobsCache() {
     { board: 'gate', company: 'Gate.io' },
     { board: 'swissborg', company: 'SwissBorg' },
     // --- New Web3 companies ---
+    { board: 'wintermute-trading', company: 'Wintermute' },
+    { board: 'superstate', company: 'Superstate' },
     { board: 'offchainlabs', company: 'Offchain Labs' },
     { board: 'arbitrumfoundation', company: 'Arbitrum Foundation' },
     { board: 'animocabrands', company: 'Animoca Brands' },
@@ -446,9 +448,11 @@ async function refreshJobsCache() {
     { board: 'Stacks', company: 'Stacks' },
     { board: 'Stellar', company: 'Stellar' },
     // Infra & Security
-    { board: 'nethermind', company: 'Nethermind' },
+    { board: 'Nethermind', company: 'Nethermind' },
     { board: 'cantina', company: 'Cantina' },
     { board: 'cubist', company: 'Cubist' },
+    { board: 'trm-labs', company: 'TRM Labs' },
+    { board: 'switchboard', company: 'Switchboard' },
     // Wallets & SDK
     { board: 'Sequence', company: 'Sequence' },
     // Crypto VC
@@ -523,6 +527,7 @@ async function refreshJobsCache() {
   // --- Workable API Sources ---
   const WORKABLE_BOARDS = [
     { board: 'aethir', company: 'Aethir' },
+    { board: 'blast', company: 'Blast' },
   ];
 
   for (const wb of WORKABLE_BOARDS) {
