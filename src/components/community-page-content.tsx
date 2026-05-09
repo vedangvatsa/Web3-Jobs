@@ -253,8 +253,8 @@ const testimonials = [
 
 const headlines = [
   "Connecting The Web3 Ecosystem",
-  "A Thriving Global Network",
-  "Unparalleled Reach & Value",
+  "A Global Network",
+  "Reach & Scale",
   "Your Partner in Growth"
 ];
 
@@ -343,7 +343,7 @@ export function CommunityPageContent({
         <div>
           <h2 className="text-4xl font-bold mt-2">Join Our 100k+ Global Community</h2>
           <p className="mt-4 text-muted-foreground">
-            Our network is a vibrant hub for over 100,000 Web3 professionals to network, share insights, and discuss the latest trends in the decentralized world. Join the conversation today.
+            Our network is home to over 100,000 Web3 professionals who share insights, find jobs, and discuss the latest in the decentralized world. Join the conversation today.
           </p>
           <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
             <Button size="lg" className="mt-6">
