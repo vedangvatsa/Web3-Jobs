@@ -115,14 +115,14 @@ export default function NewsPage() {
       </section>
 
       <div className="max-w-6xl mx-auto">
-       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-start">
+       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">
         {loading ? (
          [...Array(12)].map((_, i) => <NewsCardSkeleton key={i} />)
         ) : (
           newsItems.map((item, index) => (
-           <Card key={index} className="transition-all duration-200 hover:border-zinc-300 dark:hover:border-zinc-700 shadow-none border bg-transparent">
+           <Card key={index} className="flex flex-col h-full transition-all duration-200 hover:border-zinc-300 dark:hover:border-zinc-700 shadow-none border bg-transparent">
             <CardHeader className="pb-3">
-             <div className="flex items-center justify-between gap-2 mb-1">
+             <div className="flex items-center gap-2 mb-1">
               <Badge variant={
                item.source === 'Decrypt' ? 'destructive' :
                item.source === 'Cointelegraph' ? 'secondary' :
@@ -131,7 +131,6 @@ export default function NewsPage() {
               } className="text-[10px] uppercase font-semibold">
                {item.source}
               </Badge>
-              <span className="text-xs text-muted-foreground font-medium">{new Date(item.pubDate).toLocaleDateString()}</span>
              </div>
              <CardTitle className="text-xl leading-tight">
               <a href={item.link} target="_blank" rel="noopener noreferrer" onClick={() => trackNewsClick(item.title, item.link, item.source)} className="hover:text-primary hover:underline underline-offset-4 transition-colors">
@@ -139,7 +138,7 @@ export default function NewsPage() {
               </a>
              </CardTitle>
             </CardHeader>
-            <CardContent>
+            <CardContent className="flex-1">
              <p className="text-muted-foreground text-sm leading-relaxed">{item.contentSnippet}</p>
             </CardContent>
            </Card>
