@@ -55,16 +55,15 @@ Flow batteries store energy in large tanks filled with liquid electrolyte. This 
 
 The global battery market is experiencing rapid growth. The lithium-ion battery market is expected to continue expanding, driven by the demand for batteries in electric vehicles and renewable energy systems.
 
-| Year       | Lithium-Ion Market Value (in Billion USD) | CAGR (%) |
+| Year | Lithium-Ion Market Value (in Billion USD) | CAGR (%) |
 |------------|--------------------------------------------|----------|
-| 2020       | 36.7                                       | -        |
-| 2021       | 42.0                                       | 14.4     |
-| 2022       | 49.3                                       | 17.4     |
-| 2023       | 57.9                                       | 17.2     |
-| 2024       | 67.9                                       | 17.2     |
-| 2025       | 79.5                                       | 17.2     |
-| 2026       | 92.8                                       | 17.2     |
-| 2027       | 129.3                                      | 17.2     |
+| 2020 | 36.7 | - |
+| 2021 | 42.0 | 14.4 |
+| 2022 | 49.3 | 17.4 |
+| 2023 | 57.9 | 17.2 |
+| 2024 | 67.9 | 17.2 |
+| 2025 | 79.5 | 17.2 |
+| 2026 | 92.8 | 17.2 |
+| 2027 | 129.3 | 17.2 |
 
 This growth reflects the increasing integration of batteries into various sectors, including automotive, consumer electronics, and renewable energy.
-

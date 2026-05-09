@@ -30,7 +30,7 @@ Synthetic biology is reshaping manufacturing processes by using microbial metabo
 
 For example, synthetic biology is being used to create sustainable alternatives to petroleum-derived products. Companies are engineering microbes to manufacture biofuels, bioplastics, and high-value chemicals previously sourced from oil. This innovation contributes to the development of a more sustainable and circular bioeconomy.
 
-The food industry is experiencing its own transformation due to synthetic biology. Companies are producing animal proteins, such as those found in milk and eggs, without using animals. By inserting the genes responsible for these proteins into yeast and fermenting them, similar to brewing beer, these companies offer more sustainable and ethical food production methods. Additionally, engineered yeast is being used to produce specific flavor and aroma compounds for the food and fragrance sectors.
+The food industry is experiencing its own transformation due to synthetic biology. Companies are producing animal proteins, such as those found in milk and eggs, without using animals. By inserting the genes responsible for these proteins into yeast and fermenting them, similar to brewing beer, these companies offer more sustainable and ethical food production methods. engineered yeast is being used to produce specific flavor and aroma compounds for the food and fragrance sectors.
 
 ### Environmental Solutions
 
@@ -48,12 +48,11 @@ Synthetic biology aims to transition from merely reading the genetic code of lif
 
 ### Frequently Asked Questions (FAQs)
 
-**1. How is synthetic biology different from genetic engineering?**  
+**1. How is synthetic biology different from genetic engineering?** 
 Synthetic biology encompasses a broader scope than genetic engineering. While genetic engineering typically involves the transfer of one or a few genes from one organism to another, synthetic biology focuses on designing and constructing entirely new genetic systems from scratch, often using standardized biological parts.
 
-**2. Is it safe to release engineered organisms into the environment?**  
+**2. Is it safe to release engineered organisms into the environment?** 
 Safety is a significant concern in synthetic biology research. Most experiments occur in contained laboratory settings to mitigate risks. For applications involving environmental release, such as bioremediation, scientists implement safeguards, including "kill switches" that cause organisms to self-destruct after completing their intended tasks.
 
-**3. What are some real-world products made with synthetic biology?**  
-Several products derived from synthetic biology are already available. For example, artemisinin, a important anti-malarial drug, is produced by engineered yeast. Additionally, some fragrances and flavors used in food and cosmetics are made through fermentation with engineered microbes. Animal-free dairy proteins are another notable example.
-
+**3. What are some real-world products made with synthetic biology?** 
+Several products derived from synthetic biology are already available. For example, artemisinin, a important anti-malarial drug, is produced by engineered yeast. some fragrances and flavors used in food and cosmetics are made through fermentation with engineered microbes. Animal-free dairy proteins are another notable example.

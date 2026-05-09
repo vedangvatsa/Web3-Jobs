@@ -62,4 +62,3 @@ The path to a fully private and secure Web3 remains under development.
 - **User Responsibility:** Self-custodial wallets shift asset security responsibility to users. Education on safeguarding private keys is essential since Web3 lacks a “forgot password” option.
 
 Web3 is creating an infrastructure for a new internet where privacy and security are integral components. By returning control of data to users, it envisions a more equitable and secure digital future.
-

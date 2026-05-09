@@ -47,9 +47,9 @@ Blockchain voting systems use cryptographic principles and a distributed network
 
 The benefits of secure and transparent voting extend beyond national elections.
 
-| Use Case                         | Description                                                                                                      |
+| Use Case | Description |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------|
-| **Corporate Governance**         | Shareholder votes for public companies can occur on a blockchain, making the process more efficient and accessible. This reduces dependence on costly proxy voting services.                                                                 |
+| **Corporate Governance** | Shareholder votes for public companies can occur on a blockchain, making the process more efficient and accessible. This reduces dependence on costly proxy voting services. |
 | **Decentralized Autonomous Organizations (DAOs)** | DAOs exemplify blockchain voting's current application. Their governance hinges on on-chain votes from token holders, creating career opportunities for Governance Leads who manage complex voting systems. |
 | **National and Local Elections** | While still experimental, jurisdictions have piloted blockchain voting. These initiatives aim to enhance trust and efficiency in democratic processes. |
 
@@ -70,4 +70,3 @@ Blockchain voting faces several significant challenges despite its potential adv
 Blockchain voting signifies a major shift in collective decision-making processes. By transitioning voting onto an open, auditable, and immutable ledger, systems can become fundamentally more trustworthy and transparent. The path to adopting this technology for widespread public elections is complex, yet its impact on decentralized governance is already significant. Professionals in political science, public policy, and software engineering have a unique opportunity to innovate in the next generation of voting systems, addressing pressing governance challenges.
 
 ## Web3 Opportunities in Voting Technology
-

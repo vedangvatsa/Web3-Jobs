@@ -60,8 +60,8 @@ The **amplification parameter**, or `A`, is important in controlling the StableS
 
 | A Value | Curve Characteristics |
 |---------|-----------------------|
-| High    | Flatter curve, concentrating liquidity tightly around the 1:1 price. Suitable for stable, highly correlated assets (e.g., USDC/DAI/USDT pool). |
-| Low     | More curved shape resembling a standard constant product formula. Used for pegged assets with higher volatility (e.g., pools involving different liquid [staking](/how-to-become-a-web3-staking-specialist) derivatives like stETH/rETH). |
+| High | Flatter curve, concentrating liquidity tightly around the 1:1 price. Suitable for stable, highly correlated assets (e.g., USDC/DAI/USDT pool). |
+| Low | More curved shape resembling a standard constant product formula. Used for pegged assets with higher volatility (e.g., pools involving different liquid [staking](/how-to-become-a-web3-staking-specialist) derivatives like stETH/rETH). |
 
 By adjusting the `A` parameter, Curve pools optimize for the specific characteristics of their assets.
 
@@ -69,25 +69,24 @@ By adjusting the `A` parameter, Curve pools optimize for the specific characteri
 
 The bonding curves can be visualized as follows:
 
-| Formula Type          | Description                                     | Visual Representation          |
+| Formula Type | Description | Visual Representation |
 |-----------------------|-------------------------------------------------|--------------------------------|
-| Constant Product      | Smooth, symmetric hyperbola                     | ![Constant Product Curve](https://example.com/constant_product_curve) |
-| Constant Sum          | Perfect diagonal line                           | ![Constant Sum Curve](https://example.com/constant_sum_curve) |
-| StableSwap (Curve)    | Almost flat near the center, sharply curves away | ![StableSwap Curve](https://example.com/stableswap_curve) |
+| Constant Product | Smooth, symmetric hyperbola | ![Constant Product Curve](https://example.com/constant_product_curve) |
+| Constant Sum | Perfect diagonal line | ![Constant Sum Curve](https://example.com/constant_sum_curve) |
+| StableSwap (Curve) | Almost flat near the center, sharply curves away | ![StableSwap Curve](https://example.com/stableswap_curve) |
 
 This visual representation illustrates how StableSwap can accommodate significantly more volume with less slippage in the critical price range for pegged assets.
 
 ### Frequently Asked Questions (FAQ)
 
-**Why is it called an "invariant"?**  
+**Why is it called an "invariant"?** 
 The term "invariant" refers to the constant value `k` computed by the formula, which remains unchanged during trades, disregarding transaction fees.
 
-**Do I need to understand the math to use Curve?**  
+**Do I need to understand the math to use Curve?** 
 No, traders benefit from low slippage without needing to grasp the underlying mathematics. Liquidity providers enjoy high capital efficiency, as the protocol abstracts the complexity.
 
-**Does the StableSwap invariant eliminate impermanent loss?**  
+**Does the StableSwap invariant eliminate impermanent loss?** 
 No, but it considerably reduces impermanent loss for pegged assets. Since the assets are expected to maintain similar prices, the risk is lower compared to pools with volatile assets. However, permanent loss can occur if one stablecoin fails to maintain its peg.
 
-**Is the StableSwap formula used by other protocols?**  
+**Is the StableSwap formula used by other protocols?** 
 Yes, while Curve pioneered the StableSwap concept, other decentralized exchanges focusing on stable assets have adopted similar hybrid bonding curves.
-

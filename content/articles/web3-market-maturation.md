@@ -20,11 +20,11 @@ This article examines key trends driving the evolution of the [Web3 job](/web3-j
 
 During the bull market, projects rushed to hire versatile individuals capable of handling multiple roles. A single employee might oversee community management, marketing, and product development. As projects grow more complex, the demand for specialists is increasing.
 
-| Role Type                | Previous Demand                | Current Demand                  |
+| Role Type | Previous Demand | Current Demand |
 |--------------------------|-------------------------------|---------------------------------|
-| Marketing                | Generalist                    | Head of Content, Product Marketing Manager, Community Manager |
-| Product Management       | Generalist                    | Specialized Product Managers     |
-| Engineering              | Generalist                    | Protocol Engineers, ZK-Proof Engineers |
+| Marketing | Generalist | Head of Content, Product Marketing Manager, Community Manager |
+| Product Management | Generalist | Specialized Product Managers |
+| Engineering | Generalist | Protocol Engineers, ZK-Proof Engineers |
 
 - **The Trend:** Companies now seek specialized roles instead of relying on generalists. This shift allows professionals to focus on specific areas of expertise.
 - **The Opportunity:** Experts in fields like brand marketing, UX research, or treasury management are increasingly valuable.
@@ -33,11 +33,11 @@ During the bull market, projects rushed to hire versatile individuals capable of
 
 The initial phase of [DeFi](/what-is-defi) catered mainly to crypto enthusiasts. The next phase focuses on integrating institutional investors and traditional financial entities into the blockchain space.
 
-| Role Type                | Responsibilities                                      |
+| Role Type | Responsibilities |
 |--------------------------|------------------------------------------------------|
-| Business Development      | Establishing contacts with banks and hedge funds     |
-| Credit Analysts           | Underwriting loans and assessing borrower risk       |
-| Compliance Specialists    | Ensuring adherence to AML/KYC regulations            |
+| Business Development | Establishing contacts with banks and hedge funds |
+| Credit Analysts | Underwriting loans and assessing borrower risk |
+| Compliance Specialists | Ensuring adherence to AML/KYC regulations |
 
 - **The Trend:** New projects are specifically targeting institutions with products like KYC/AML-compliant DeFi pools and tokenized real-world assets (RWAs).
 - **The New Roles:** This shift generates demand for professionals with backgrounds in traditional finance (TradFi). 
@@ -46,10 +46,10 @@ The initial phase of [DeFi](/what-is-defi) catered mainly to crypto enthusiasts.
 
 Web3's technical architecture is evolving towards a modular design. The industry is moving away from all-in-one blockchains and embracing a "modular stack," where specialized layers manage various functions like execution, settlement, and data availability.
 
-| Sector                    | Focus Areas                                          |
+| Sector | Focus Areas |
 |--------------------------|-----------------------------------------------------|
-| Infrastructure Projects    | Layer 2 scaling solutions, data availability layers, interoperability protocols |
-| Engineering Roles         | Protocol Engineer, ZK-Proof Engineer, Compiler Engineer |
+| Infrastructure Projects | Layer 2 scaling solutions, data availability layers, interoperability protocols |
+| Engineering Roles | Protocol Engineer, ZK-Proof Engineer, Compiler Engineer |
 
 - **The Trend:** Venture capital is heavily investing in infrastructure projects, emphasizing the need for engineering talent in these areas.
 - **The Opportunity:** High-paying engineering jobs are now concentrated in infrastructure-focused companies.
@@ -58,11 +58,11 @@ Web3's technical architecture is evolving towards a modular design. The industry
 
 Decentralized Autonomous Organizations ([DAOs](/what-is-a-dao)) are maturing from informal collectives into structured entities.
 
-| Role Type                | Responsibilities                                      |
+| Role Type | Responsibilities |
 |--------------------------|------------------------------------------------------|
-| Governance Facilitators   | Managing governance processes from proposal drafting to voting |
-| Treasury Managers         | Overseeing the DAO's funds and developing investment strategies |
-| Contributor Relations     | Onboarding and managing freelance contributors       |
+| Governance Facilitators | Managing governance processes from proposal drafting to voting |
+| Treasury Managers | Overseeing the DAO's funds and developing investment strategies |
+| Contributor Relations | Onboarding and managing freelance contributors |
 
 - **The Trend:** DAOs recognize that complete decentralization can lead to inefficiencies. They are establishing clearer roles and governance processes.
 - **The New Roles:** The emergence of the **DAO operator** role addresses the unique challenges of managing decentralized organizations.
@@ -74,4 +74,3 @@ Decentralized Autonomous Organizations ([DAOs](/what-is-a-dao)) are maturing fro
 3. **Focus on Value Creation:** The mature market values sustainable projects that address real-world problems and generate revenue. Align with organizations that have a clear long-term vision.
 
 The maturation of the Web3 market signifies a necessary evolution. This transition moves the industry away from speculation and toward professionalism. Professionals willing to adapt and acquire specialized knowledge will find a wealth of stable, impactful career opportunities.
-

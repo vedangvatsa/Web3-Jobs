@@ -18,11 +18,11 @@ Web3 has undergone significant transformation, shifting from speculative excitem
 
 The blockchain sector has historically favored monolithic systems. For instance, Ethereum has long been viewed as the all-encompassing blockchain for executing transactions, settling them, and ensuring data availability. The future points towards a modular approach, which separates these core functions into specialized layers for enhanced scalability and customization.
 
-| Layer Type          | Functionality                                                                                              | Examples                        |
+| Layer Type | Functionality | Examples |
 |---------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------|
-| Execution Layer     | Processes transactions and executes smart contracts.                                                      | Arbitrum, Optimism, zkSync      |
-| Settlement Layer    | Validates and secures the final state of transactions.                                                   | Ethereum                        |
-| Data Availability    | Provides cost-effective alternatives for posting transaction data.                                        | Celestia                        |
+| Execution Layer | Processes transactions and executes smart contracts. | Arbitrum, Optimism, zkSync |
+| Settlement Layer | Validates and secures the final state of transactions. | Ethereum |
+| Data Availability | Provides cost-effective alternatives for posting transaction data. | Celestia |
 
 * **Modular Architecture:** In the coming years, the architecture will consist of various specialized chains, each focusing on specific tasks. This allows for the efficient processing of transactions without overwhelming any single blockchain.
 
@@ -44,18 +44,18 @@ The initial phase of Decentralized Finance (DeFi) focused on cryptocurrency asse
 
 * **Asset Tokenization:** In the coming years, a substantial portion of traditional assets, including public equities, bonds, real estate, and private credit, will be represented as tokens on blockchains.
 
-| Asset Type            | Tokenization Examples                                                  | Impact on Market                                   |
+| Asset Type | Tokenization Examples | Impact on Market |
 |-----------------------|----------------------------------------------------------------------|---------------------------------------------------|
-| Stocks                | Tokenized shares of publicly traded companies                          | Increased accessibility for smaller investors      |
-| Real Estate           | Fractional ownership of commercial properties                          | Greater liquidity and investment opportunities      |
-| Bonds                 | Tokenized municipal and corporate bonds                                | Continuous trading capabilities on decentralized exchanges |
-| Private Credit        | Tokenized loans and credit products                                   | Enhanced liquidity and programmability              |
+| Stocks | Tokenized shares of publicly traded companies | Increased accessibility for smaller investors |
+| Real Estate | Fractional ownership of commercial properties | Greater liquidity and investment opportunities |
+| Bonds | Tokenized municipal and corporate bonds | Continuous trading capabilities on decentralized exchanges |
+| Private Credit | Tokenized loans and credit products | Enhanced liquidity and programmability |
 
 * **Benefits of Tokenization:**
-    * **Fractional Ownership:** Provides small investors opportunities to invest in high-value assets like real estate.
-    * **Continuous Global Markets:** Tokenized assets can be traded continuously on decentralized exchanges, removing limitations tied to traditional market hours.
-    * **Increased Liquidity:** Illiquid assets can be tokenized, enhancing their marketability.
-    * **Programmability:** Tokenized assets can serve as collateral in DeFi protocols, paving the way for new financial products.
+ * **Fractional Ownership:** Provides small investors opportunities to invest in high-value assets like real estate.
+ * **Continuous Global Markets:** Tokenized assets can be traded continuously on decentralized exchanges, removing limitations tied to traditional market hours.
+ * **Increased Liquidity:** Illiquid assets can be tokenized, enhancing their marketability.
+ * **Programmability:** Tokenized assets can serve as collateral in DeFi protocols, paving the way for new financial products.
 
 * **Regulatory Challenges:** The tokenization process faces significant regulatory hurdles. Clear legal frameworks are essential to govern the issuance and trading of tokenized securities. Successful management of this sector will offer substantial advantages to compliant projects.
 
@@ -66,4 +66,3 @@ Poor user experience has hindered the widespread adoption of Web3. In the coming
 * **Account Abstraction (EIP-4337):** This standard will eliminate the need for users to manage seed phrases or gas fees. Smart contract wallets will enable social recovery options and allow transactions to be paid with any token.
 
 * **The Invisible Blockchain:** The most effective decentralized applications (dApps) will create a smooth user experience that resembles Web2 applications. Users will benefit from decentralization and ownership without needing to understand the underlying blockchain technology.
-

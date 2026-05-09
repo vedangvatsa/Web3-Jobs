@@ -227,7 +227,7 @@ Bridges create wrapped tokens representing assets from other chains:
 
 - **Multi-Chain**: Different ecosystems coexist, users choose preferred chains. Assets stay mostly within ecosystems.
 
-- **Cross-Chain**: Seamless interoperability, users don't think about which chain they're on.
+- **Cross-Chain**: smooth interoperability, users don't think about which chain they're on.
 
 - **Current Reality**: Multi-chain with bridges providing imperfect cross-chain capabilities. Significant user experience friction remains.
 

@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "intermediate"
 prerequisites: ["twitter"]
 quiz:
-  - question: "What is the primary purpose of a token airdrop?"
-    options:
-      - "To avoid paying taxes"
-      - "To reward early users, decentralize governance, and bootstrap network effects"
-      - "To hack user wallets"
-      - "To replace Bitcoin"
-    correct: 1
-    explanation: "Airdrops distribute tokens to early users to reward them for testing the protocol, while simultaneously distributing voting power (governance) to decentralize the network."
-  - question: "What is a 'Sybil attacker' in the context of airdrops?"
-    options:
-      - "A virus that deletes tokens"
-      - "A user who creates thousands of fake wallets to farm an airdrop, stealing tokens meant for real users"
-      - "A developer who writes bad code"
-      - "A type of smart contract"
-    correct: 1
-    explanation: "Sybil attackers use bots to create thousands of wallets and execute fake transactions. Protocols must use advanced analytics to filter these out so real users get the rewards."
-  - question: "What is 'Tokenomics'?"
-    options:
-      - "The study of traditional economics"
-      - "The economic design of a token, including its total supply, emission rate, utility, and distribution"
-      - "A website for tracking token prices"
-      - "The code used to mine Bitcoin"
-    correct: 1
-    explanation: "Tokenomics (Token Economics) dictates how a token works. Bad tokenomics (like infinite supply or no utility) will cause the token price to crash, ruining the protocol's marketing efforts."
-  - question: "What is a 'Vesting Schedule'?"
-    options:
-      - "A timeline for updating the website"
-      - "A lock-up period that prevents founders and investors from selling all their tokens immediately after launch"
-      - "A plan for hiring new employees"
-      - "A schedule for smart contract audits"
-    correct: 1
-    explanation: "Vesting schedules lock tokens in a smart contract. They unlock gradually over years (e.g., 4 years). This aligns the team's incentives with the long-term success of the protocol."
-  - question: "Why do some protocols launch 'Points' programs before a token?"
-    options:
-      - "Because points are legally binding"
-      - "To gamify user activity and track who deserves an airdrop without explicitly promising financial rewards"
-      - "Because smart contracts cannot handle tokens"
-      - "To charge users money"
-    correct: 1
-    explanation: "Points programs (like loyalty points) track user engagement. They are a marketing tool to drive usage before a token is ready, often serving as a precursor to an official airdrop."
+ - question: "What is the primary purpose of a token airdrop?"
+ options:
+ - "To avoid paying taxes"
+ - "To reward early users, decentralize governance, and bootstrap network effects"
+ - "To hack user wallets"
+ - "To replace Bitcoin"
+ correct: 1
+ explanation: "Airdrops distribute tokens to early users to reward them for testing the protocol, while simultaneously distributing voting power (governance) to decentralize the network."
+ - question: "What is a 'Sybil attacker' in the context of airdrops?"
+ options:
+ - "A virus that deletes tokens"
+ - "A user who creates thousands of fake wallets to farm an airdrop, stealing tokens meant for real users"
+ - "A developer who writes bad code"
+ - "A type of smart contract"
+ correct: 1
+ explanation: "Sybil attackers use bots to create thousands of wallets and execute fake transactions. Protocols must use advanced analytics to filter these out so real users get the rewards."
+ - question: "What is 'Tokenomics'?"
+ options:
+ - "The study of traditional economics"
+ - "The economic design of a token, including its total supply, emission rate, utility, and distribution"
+ - "A website for tracking token prices"
+ - "The code used to mine Bitcoin"
+ correct: 1
+ explanation: "Tokenomics (Token Economics) dictates how a token works. Bad tokenomics (like infinite supply or no utility) will cause the token price to crash, ruining the protocol's marketing efforts."
+ - question: "What is a 'Vesting Schedule'?"
+ options:
+ - "A timeline for updating the website"
+ - "A lock-up period that prevents founders and investors from selling all their tokens immediately after launch"
+ - "A plan for hiring new employees"
+ - "A schedule for smart contract audits"
+ correct: 1
+ explanation: "Vesting schedules lock tokens in a smart contract. They unlock gradually over years (e.g., 4 years). This aligns the team's incentives with the long-term success of the protocol."
+ - question: "Why do some protocols launch 'Points' programs before a token?"
+ options:
+ - "Because points are legally binding"
+ - "To gamify user activity and track who deserves an airdrop without explicitly promising financial rewards"
+ - "Because smart contracts cannot handle tokens"
+ - "To charge users money"
+ correct: 1
+ explanation: "Points programs (like loyalty points) track user engagement. They are a marketing tool to drive usage before a token is ready, often serving as a precursor to an official airdrop."
 ---
 
 ## The Cold Start Problem
@@ -91,29 +91,29 @@ If you are a marketing lead, you must understand the basic economics of the toke
 
 <div class="diagram">
 <svg viewBox="0 0 800 240" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <rect x="50" y="20" width="700" height="40" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
-  <text x="400" y="45" text-anchor="middle" font-size="14" font-weight="bold" fill="#334155">Total Token Supply (e.g., 1 Billion Tokens)</text>
+ <rect x="50" y="20" width="700" height="40" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+ <text x="400" y="45" text-anchor="middle" font-size="14" font-weight="bold" fill="#334155">Total Token Supply (e.g., 1 Billion Tokens)</text>
 
-  <!-- Distribution Pie Chart alternative (horizontal bar) -->
-  <rect x="50" y="80" width="350" height="40" fill="#3b82f6"/>
-  <text x="225" y="105" text-anchor="middle" font-size="12" fill="white" font-weight="bold">Community / Airdrop (50%)</text>
+ <!-- Distribution Pie Chart alternative (horizontal bar) -->
+ <rect x="50" y="80" width="350" height="40" fill="#3b82f6"/>
+ <text x="225" y="105" text-anchor="middle" font-size="12" fill="white" font-weight="bold">Community / Airdrop (50%)</text>
 
-  <rect x="400" y="80" width="140" height="40" fill="#10b981"/>
-  <text x="470" y="105" text-anchor="middle" font-size="12" fill="white" font-weight="bold">Team (20%)</text>
+ <rect x="400" y="80" width="140" height="40" fill="#10b981"/>
+ <text x="470" y="105" text-anchor="middle" font-size="12" fill="white" font-weight="bold">Team (20%)</text>
 
-  <rect x="540" y="80" width="140" height="40" fill="#f59e0b"/>
-  <text x="610" y="105" text-anchor="middle" font-size="12" fill="white" font-weight="bold">Investors (20%)</text>
+ <rect x="540" y="80" width="140" height="40" fill="#f59e0b"/>
+ <text x="610" y="105" text-anchor="middle" font-size="12" fill="white" font-weight="bold">Investors (20%)</text>
 
-  <rect x="680" y="80" width="70" height="40" fill="#8b5cf6"/>
-  <text x="715" y="105" text-anchor="middle" font-size="12" fill="white" font-weight="bold">Treasury</text>
+ <rect x="680" y="80" width="70" height="40" fill="#8b5cf6"/>
+ <text x="715" y="105" text-anchor="middle" font-size="12" fill="white" font-weight="bold">Treasury</text>
 
-  <!-- Explanations -->
-  <text x="225" y="145" text-anchor="middle" font-size="11" fill="#475569">Given to early users to</text>
-  <text x="225" y="160" text-anchor="middle" font-size="11" fill="#475569">reward loyalty and decentralize.</text>
+ <!-- Explanations -->
+ <text x="225" y="145" text-anchor="middle" font-size="11" fill="#475569">Given to early users to</text>
+ <text x="225" y="160" text-anchor="middle" font-size="11" fill="#475569">reward loyalty and decentralize.</text>
 
-  <text x="540" y="145" text-anchor="middle" font-size="11" fill="#475569">Subject to strict</text>
-  <text x="540" y="160" text-anchor="middle" font-size="11" font-weight="bold" fill="#475569">Vesting Schedules</text>
-  <text x="540" y="175" text-anchor="middle" font-size="11" fill="#475569">so they can't dump on users.</text>
+ <text x="540" y="145" text-anchor="middle" font-size="11" fill="#475569">Subject to strict</text>
+ <text x="540" y="160" text-anchor="middle" font-size="11" font-weight="bold" fill="#475569">Vesting Schedules</text>
+ <text x="540" y="175" text-anchor="middle" font-size="11" fill="#475569">so they can't dump on users.</text>
 </svg>
 </div>
 

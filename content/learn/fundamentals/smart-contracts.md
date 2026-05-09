@@ -6,46 +6,46 @@ readTime: "10 min"
 difficulty: "beginner"
 prerequisites: ["stablecoins"]
 quiz:
-  - question: "What is a smart contract?"
-    options:
-      - "A legal document stored on a blockchain"
-      - "A program that runs on a blockchain and executes automatically"
-      - "A contract between two cryptocurrency exchanges"
-      - "An AI chatbot that answers legal questions"
-    correct: 1
-    explanation: "A smart contract is a program deployed on a blockchain. It runs automatically when someone sends a transaction to it. No human approves or denies the action — the code just runs."
-  - question: "Why can't you change a smart contract after deploying it?"
-    options:
-      - "The Ethereum Foundation locks it"
-      - "It is too expensive to change"
-      - "The code is stored on the blockchain, which is immutable"
-      - "Only the government can change it"
-    correct: 2
-    explanation: "Smart contract code is stored on the blockchain, which cannot be changed. This is a feature, not a bug — it means users can trust that the code will always work as written. Some contracts use proxy patterns to allow upgrades, but the original code remains on-chain."
-  - question: "What is a real-world use case for a smart contract?"
-    options:
-      - "Sending an email"
-      - "A decentralized exchange that swaps tokens without a middleman"
-      - "Downloading a mobile app"
-      - "Logging into a website"
-    correct: 1
-    explanation: "Decentralized exchanges like Uniswap are smart contracts. When you swap ETH for USDC on Uniswap, a smart contract calculates the price, takes your ETH, and sends you USDC — all in one transaction."
-  - question: "What is a 'rug pull'?"
-    options:
-      - "A type of consensus mechanism"
-      - "When a developer deploys a contract with a hidden backdoor and drains user funds"
-      - "When a blockchain forks into two chains"
-      - "When gas fees become very high"
-    correct: 1
-    explanation: "A rug pull is when a developer deploys a contract that looks legitimate but contains hidden code allowing them to steal deposited funds. This is why audits and reading verified contracts matter."
-  - question: "What does it mean for a smart contract to be 'audited'?"
-    options:
-      - "The government has approved it"
-      - "Independent security experts have reviewed the code for vulnerabilities"
-      - "It has been running for over a year"
-      - "It has more than 1000 users"
-    correct: 1
-    explanation: "An audit is when independent security firms (like Trail of Bits, OpenZeppelin, or Certik) review the contract code for bugs and vulnerabilities. An audit reduces risk but does not guarantee safety."
+ - question: "What is a smart contract?"
+ options:
+ - "A legal document stored on a blockchain"
+ - "A program that runs on a blockchain and executes automatically"
+ - "A contract between two cryptocurrency exchanges"
+ - "An AI chatbot that answers legal questions"
+ correct: 1
+ explanation: "A smart contract is a program deployed on a blockchain. It runs automatically when someone sends a transaction to it. No human approves or denies the action — the code just runs."
+ - question: "Why can't you change a smart contract after deploying it?"
+ options:
+ - "The Ethereum Foundation locks it"
+ - "It is too expensive to change"
+ - "The code is stored on the blockchain, which is immutable"
+ - "Only the government can change it"
+ correct: 2
+ explanation: "Smart contract code is stored on the blockchain, which cannot be changed. This is a feature, not a bug — it means users can trust that the code will always work as written. Some contracts use proxy patterns to allow upgrades, but the original code remains on-chain."
+ - question: "What is a real-world use case for a smart contract?"
+ options:
+ - "Sending an email"
+ - "A decentralized exchange that swaps tokens without a middleman"
+ - "Downloading a mobile app"
+ - "Logging into a website"
+ correct: 1
+ explanation: "Decentralized exchanges like Uniswap are smart contracts. When you swap ETH for USDC on Uniswap, a smart contract calculates the price, takes your ETH, and sends you USDC — all in one transaction."
+ - question: "What is a 'rug pull'?"
+ options:
+ - "A type of consensus mechanism"
+ - "When a developer deploys a contract with a hidden backdoor and drains user funds"
+ - "When a blockchain forks into two chains"
+ - "When gas fees become very high"
+ correct: 1
+ explanation: "A rug pull is when a developer deploys a contract that looks legitimate but contains hidden code allowing them to steal deposited funds. This is why audits and reading verified contracts matter."
+ - question: "What does it mean for a smart contract to be 'audited'?"
+ options:
+ - "The government has approved it"
+ - "Independent security experts have reviewed the code for vulnerabilities"
+ - "It has been running for over a year"
+ - "It has more than 1000 users"
+ correct: 1
+ explanation: "An audit is when independent security firms (like Trail of Bits, OpenZeppelin, or Certik) review the contract code for bugs and vulnerabilities. An audit reduces risk but does not guarantee safety."
 ---
 
 ## What a smart contract actually is
@@ -68,48 +68,48 @@ Without a smart contract, they need to trust each other. With a smart contract:
 
 <div class="diagram">
 <svg viewBox="0 0 800 230" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <!-- Alice -->
-  <rect x="20" y="20" width="120" height="60" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
-  <text x="80" y="45" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">Alice</text>
-  <text x="80" y="62" text-anchor="middle" font-size="10" fill="#64748b">Sends 1 ETH</text>
+ <!-- Alice -->
+ <rect x="20" y="20" width="120" height="60" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+ <text x="80" y="45" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">Alice</text>
+ <text x="80" y="62" text-anchor="middle" font-size="10" fill="#64748b">Sends 1 ETH</text>
 
-  <!-- Bob -->
-  <rect x="20" y="140" width="120" height="60" rx="8" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
-  <text x="80" y="165" text-anchor="middle" font-size="12" font-weight="600" fill="#854d0e">Bob</text>
-  <text x="80" y="182" text-anchor="middle" font-size="10" fill="#64748b">Sends 1 ETH</text>
+ <!-- Bob -->
+ <rect x="20" y="140" width="120" height="60" rx="8" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+ <text x="80" y="165" text-anchor="middle" font-size="12" font-weight="600" fill="#854d0e">Bob</text>
+ <text x="80" y="182" text-anchor="middle" font-size="10" fill="#64748b">Sends 1 ETH</text>
 
-  <!-- Arrows to contract -->
-  <line x1="140" y1="50" x2="260" y2="100" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#sc1)"/>
-  <line x1="140" y1="170" x2="260" y2="120" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#sc1)"/>
+ <!-- Arrows to contract -->
+ <line x1="140" y1="50" x2="260" y2="100" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#sc1)"/>
+ <line x1="140" y1="170" x2="260" y2="120" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#sc1)"/>
 
-  <!-- Smart contract -->
-  <rect x="260" y="70" width="180" height="80" rx="10" fill="#f0fdf4" stroke="#22c55e" stroke-width="2"/>
-  <text x="350" y="95" text-anchor="middle" font-size="13" font-weight="bold" fill="#166534">Smart Contract</text>
-  <text x="350" y="115" text-anchor="middle" font-size="10" fill="#64748b">Holds 2 ETH</text>
-  <text x="350" y="130" text-anchor="middle" font-size="10" fill="#64748b">Checks weather oracle</text>
+ <!-- Smart contract -->
+ <rect x="260" y="70" width="180" height="80" rx="10" fill="#f0fdf4" stroke="#22c55e" stroke-width="2"/>
+ <text x="350" y="95" text-anchor="middle" font-size="13" font-weight="bold" fill="#166534">Smart Contract</text>
+ <text x="350" y="115" text-anchor="middle" font-size="10" fill="#64748b">Holds 2 ETH</text>
+ <text x="350" y="130" text-anchor="middle" font-size="10" fill="#64748b">Checks weather oracle</text>
 
-  <!-- Oracle -->
-  <rect x="300" y="170" width="100" height="40" rx="6" fill="#fdf2f8" stroke="#ec4899" stroke-width="1"/>
-  <text x="350" y="195" text-anchor="middle" font-size="10" fill="#9d174d">Weather Oracle</text>
-  <line x1="350" y1="150" x2="350" y2="170" stroke="#ec4899" stroke-width="1" stroke-dasharray="4"/>
+ <!-- Oracle -->
+ <rect x="300" y="170" width="100" height="40" rx="6" fill="#fdf2f8" stroke="#ec4899" stroke-width="1"/>
+ <text x="350" y="195" text-anchor="middle" font-size="10" fill="#9d174d">Weather Oracle</text>
+ <line x1="350" y1="150" x2="350" y2="170" stroke="#ec4899" stroke-width="1" stroke-dasharray="4"/>
 
-  <!-- Outcome arrows -->
-  <line x1="440" y1="90" x2="540" y2="50" stroke="#22c55e" stroke-width="1.5" marker-end="url(#sc2)"/>
-  <line x1="440" y1="130" x2="540" y2="170" stroke="#22c55e" stroke-width="1.5" marker-end="url(#sc2)"/>
+ <!-- Outcome arrows -->
+ <line x1="440" y1="90" x2="540" y2="50" stroke="#22c55e" stroke-width="1.5" marker-end="url(#sc2)"/>
+ <line x1="440" y1="130" x2="540" y2="170" stroke="#22c55e" stroke-width="1.5" marker-end="url(#sc2)"/>
 
-  <!-- Outcomes -->
-  <rect x="540" y="25" width="220" height="50" rx="8" fill="#dcfce7" stroke="#86efac"/>
-  <text x="650" y="45" text-anchor="middle" font-size="11" fill="#166534">☔ Rained → 2 ETH to Bob</text>
-  <text x="650" y="62" text-anchor="middle" font-size="10" fill="#64748b">Automatic, no dispute</text>
+ <!-- Outcomes -->
+ <rect x="540" y="25" width="220" height="50" rx="8" fill="#dcfce7" stroke="#86efac"/>
+ <text x="650" y="45" text-anchor="middle" font-size="11" fill="#166534">☔ Rained → 2 ETH to Bob</text>
+ <text x="650" y="62" text-anchor="middle" font-size="10" fill="#64748b">Automatic, no dispute</text>
 
-  <rect x="540" y="145" width="220" height="50" rx="8" fill="#dcfce7" stroke="#86efac"/>
-  <text x="650" y="165" text-anchor="middle" font-size="11" fill="#166534">☀ Sunny → 2 ETH to Alice</text>
-  <text x="650" y="182" text-anchor="middle" font-size="10" fill="#64748b">Automatic, no dispute</text>
+ <rect x="540" y="145" width="220" height="50" rx="8" fill="#dcfce7" stroke="#86efac"/>
+ <text x="650" y="165" text-anchor="middle" font-size="11" fill="#166534">☀ Sunny → 2 ETH to Alice</text>
+ <text x="650" y="182" text-anchor="middle" font-size="10" fill="#64748b">Automatic, no dispute</text>
 
-  <defs>
-    <marker id="sc1" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#94a3b8"/></marker>
-    <marker id="sc2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#22c55e"/></marker>
-  </defs>
+ <defs>
+ <marker id="sc1" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#94a3b8"/></marker>
+ <marker id="sc2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#22c55e"/></marker>
+ </defs>
 </svg>
 </div>
 

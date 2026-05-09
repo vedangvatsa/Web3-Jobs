@@ -20,27 +20,27 @@ Understanding the environment in which you will build applications is critical. 
 
 **1.1. Core Blockchain Concepts:**
 
-| Concept                 | Description                                                                                                                                         |
+| Concept | Description |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Decentralization**    | Comprehend the distinction between decentralized networks and centralized servers, focusing on censorship resistance and permissionless innovation. |
-| **Immutability**        | Recognize that deployed code cannot be altered, influencing your approach to security and testing.                                               |
+| **Decentralization** | Comprehend the distinction between decentralized networks and centralized servers, focusing on censorship resistance and permissionless innovation. |
+| **Immutability** | Recognize that deployed code cannot be altered, influencing your approach to security and testing. |
 | **Consensus Mechanisms**| Understand the differences between Proof of Work (PoW) and Proof of [Stake](/how-to-become-a-web3-staking-specialist) (PoS), including "51% attacks." |
-| **Further Reading**     | Start with our article on [What is a Blockchain?](/what-is-a-blockchain).                                                                        |
+| **Further Reading** | Start with our article on [What is a Blockchain?](/what-is-a-blockchain). |
 
 **1.2. Public Key Cryptography:**
 
-| Topic                  | Explanation                                                                                              |
+| Topic | Explanation |
 |------------------------|----------------------------------------------------------------------------------------------------------|
-| **Public/Private Keys**| Learn how keys are generated and used to create a "[wallet](/how-to-choose-a-crypto-wallet).” The private key is your ownership proof.              |
-| **Digital Signatures**  | Understand how a private key signs transactions, confirming ownership without disclosing the key.       |
+| **Public/Private Keys**| Learn how keys are generated and used to create a "[wallet](/how-to-choose-a-crypto-wallet).” The private key is your ownership proof. |
+| **Digital Signatures** | Understand how a private key signs transactions, confirming ownership without disclosing the key. |
 
 **1.3. [Ethereum](/what-is-ethereum) & the EVM:**
 
-| Aspect                        | Key Points                                                                                                                                                |
+| Aspect | Key Points |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Ethereum Architecture**      | Study how Ethereum operates, focusing on nodes, the mempool, and block creation.                                                                         |
-| **EVM (Ethereum Virtual Machine)**| This is where your code executes. Learn its components: stack, memory, and storage. Mastering the EVM is vital for senior roles.                            |
-| **Gas**                       | Every EVM operation incurs gas costs. Understand what gas is, its necessity, and why some operations are costlier. For more, read our [guide to gas fees](/understanding-gas-fees-and-optimization-in-ethereum). |
+| **Ethereum Architecture** | Study how Ethereum operates, focusing on nodes, the mempool, and block creation. |
+| **EVM (Ethereum Virtual Machine)**| This is where your code executes. Learn its components: stack, memory, and storage. Mastering the EVM is vital for senior roles. |
+| **Gas** | Every EVM operation incurs gas costs. Understand what gas is, its necessity, and why some operations are costlier. For more, read our [guide to gas fees](/understanding-gas-fees-and-optimization-in-ethereum). |
 
 ### Step 2: Learn the Core Programming Languages
 
@@ -57,8 +57,8 @@ Explore our [breakdown of the top 5 Web3 languages](/top-5-web3-languages) for f
 A specific toolkit is essential for efficiently writing, testing, and deploying smart contracts.
 
 - **Development Environment:**
-    - **Foundry (Recommended):** This modern toolkit enables you to write tests directly in Solidity. It is rapidly becoming the industry standard among serious developers. Discover more in our [introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit).
-    - **Hardhat (Good to Know):** This popular JavaScript-based environment offers flexibility and is still widely used in existing projects, making familiarity beneficial.
+ - **Foundry (Recommended):** This modern toolkit enables you to write tests directly in Solidity. It is rapidly becoming the industry standard among serious developers. Discover more in our [introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit).
+ - **Hardhat (Good to Know):** This popular JavaScript-based environment offers flexibility and is still widely used in existing projects, making familiarity beneficial.
 - **Wallet:** **MetaMask** is the standard browser-based wallet for development and testing. Familiarize yourself with its use on test networks like Sepolia.
 - **Smart Contract Libraries:** **OpenZeppelin Contracts** provides secure, reusable smart contract components. Avoid writing standard ERC-20 or ERC-721 [tokens](/what-is-a-token) from scratch; always use an audited library.
 - **Indexing Protocol:** **The Graph** serves as the standard method for efficiently querying blockchain data. Use it to create APIs for your dApp's frontend.
@@ -68,24 +68,24 @@ A specific toolkit is essential for efficiently writing, testing, and deploying 
 Building projects is the most effective way to learn. Follow this progression to enhance your skills and build your [portfolio](/building-web3-portfolio). Your GitHub repository will serve as your [resume](/how-to-build-a-web3-resume-that-stands-out).
 
 1. **Project 1: Simple Storage Contract**
-   - **Goal:** Grasp the basics of Solidity syntax.
-   - **Task:** Develop a contract that allows storing and retrieving a number. Deploy it on a testnet using Remix IDE or Foundry.
+ - **Goal:** Grasp the basics of Solidity syntax.
+ - **Task:** Develop a contract that allows storing and retrieving a number. Deploy it on a testnet using Remix IDE or Foundry.
 
 2. **Project 2: Your Own ERC-20 Token**
-   - **Goal:** Understand token standards.
-   - **Task:** Create and deploy your simple cryptocurrency using the OpenZeppelin ERC20 standard. Build a basic React frontend using Viem to allow users to connect their wallet and view their token balance.
+ - **Goal:** Understand token standards.
+ - **Task:** Create and deploy your simple cryptocurrency using the OpenZeppelin ERC20 standard. Build a basic React frontend using Viem to allow users to connect their wallet and view their token balance.
 
 3. **Project 3: An [NFT](/what-are-nfts) Collection**
-   - **Goal:** Learn the ERC-721 standard.
-   - **Task:** Develop a generative art NFT collection. Write a contract that enables users to mint NFTs and display them on your frontend. Host metadata on IPFS.
+ - **Goal:** Learn the ERC-721 standard.
+ - **Task:** Develop a generative art NFT collection. Write a contract that enables users to mint NFTs and display them on your frontend. Host metadata on IPFS.
 
 4. **Project 4: A Decentralized Staking dApp**
-   - **Goal:** Grasp basic [DeFi](/what-is-defi) mechanics.
-   - **Task:** Create a contract that allows users to deposit your ERC-20 token from Project 2 and receive rewards over time. This foundational DeFi primitive is an excellent addition to your portfolio.
+ - **Goal:** Grasp basic [DeFi](/what-is-defi) mechanics.
+ - **Task:** Create a contract that allows users to deposit your ERC-20 token from Project 2 and receive rewards over time. This foundational DeFi primitive is an excellent addition to your portfolio.
 
 5. **Project 5: Contribute to an Open-Source Project**
-   - **Goal:** Gain real-world experience and build your reputation.
-   - **Task:** Identify a Web3 project on GitHub. Start by fixing minor bugs, enhancing documentation, or adding missing test cases. This contribution signals your commitment to potential employers.
+ - **Goal:** Gain real-world experience and build your reputation.
+ - **Task:** Identify a Web3 project on GitHub. Start by fixing minor bugs, enhancing documentation, or adding missing test cases. This contribution signals your commitment to potential employers.
 
 ### Step 5: Specialize and Go Deep
 
@@ -96,4 +96,3 @@ Once you have a solid grasp of the fundamentals, focusing on a specialization ca
 - **Scalability:** Learn how to deploy and develop on Layer 2 networks like Arbitrum or Optimism.
 
 Becoming a blockchain developer is a marathon that requires consistent learning and a passion for the technology. By adhering to this roadmap and continually building in public, you will develop the skills and portfolio necessary to secure a high-impact role in the industry.
-

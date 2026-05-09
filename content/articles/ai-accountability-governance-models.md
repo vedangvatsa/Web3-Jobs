@@ -33,13 +33,13 @@ Decentralized governance using blockchain and smart contracts has several advant
 
 ### Comparison of Traditional vs. Web3 AI Governance Models
 
-| Feature                     | Traditional Governance     | Web3 Governance                |
+| Feature | Traditional Governance | Web3 Governance |
 |-----------------------------|----------------------------|--------------------------------|
-| Transparency                 | Low                        | High                           |
-| Stakeholder Participation     | Limited                    | Diverse                        |
-| Decision-Making Power        | Centralized                | Distributed                    |
-| Accountability               | Weak                       | Strong                         |
-| Documentation                | Often absent               | Immutable records              |
+| Transparency | Low | High |
+| Stakeholder Participation | Limited | Diverse |
+| Decision-Making Power | Centralized | Distributed |
+| Accountability | Weak | Strong |
+| Documentation | Often absent | Immutable records |
 
 ## Current Implementations of Web3 Governance
 
@@ -51,7 +51,7 @@ More advanced concepts are emerging. Some projects are investigating the use of 
 
 ## Challenges in Implementation
 
-While promising, blockchain governance is not without challenges. Voter apathy can lead to low participation rates, allowing a small group of committed stakeholders to dictate outcomes. Wealth concentration can recreate centralization issues, as affluent participants can amass significant voting power. Additionally, complex technical decisions might not benefit from majority voting; expert judgment often plays a critical role.
+While promising, blockchain governance is not without challenges. Voter apathy can lead to low participation rates, allowing a small group of committed stakeholders to dictate outcomes. Wealth concentration can recreate centralization issues, as affluent participants can amass significant voting power. complex technical decisions might not benefit from majority voting; expert judgment often plays a critical role.
 
 The composition of participants presents another challenge. A reliable accountability structure must include affected users and communities, not just token holders. Determining who receives voting power and how to prevent wealth from skewing outcomes requires careful consideration.
 

@@ -42,14 +42,13 @@ Engineers in this area develop the tools and APIs that facilitate blockchain app
 ### Steps to Begin Your Career in Web3
 
 1. **Master the Fundamentals:** Acquire a solid grounding in computer science. Focus on data structures, algorithms, and networking principles.
-  
+
 2. **Learn a Systems Language:** Gain proficiency in either **Rust** or **Go**, the leading languages in blockchain infrastructure development.
 
 3. **Get Hands-On Experience:**
-   - **Run a Node:** Set up and operate a validator node on a testnet for a major blockchain. This real-world experience provides valuable insights into practical challenges.
-   - **Contribute to Open Source:** Most blockchain clients are open source. Engage with repositories like Geth or Prysm, identify "good first issues," and submit pull requests. Contributing to core projects serves as a significant proof of capability.
+ - **Run a Node:** Set up and operate a validator node on a testnet for a major blockchain. This real-world experience provides valuable insights into practical challenges.
+ - **Contribute to Open Source:** Most blockchain clients are open source. Engage with repositories like Geth or Prysm, identify "good first issues," and submit pull requests. Contributing to core projects serves as a significant proof of capability.
 
-A career as a Web3 Infrastructure Engineer places you at the foundational layer of the emerging internet. This challenging path is also rewarding, positioning you at the forefront of the Web3 evolution.
+A career as a Web3 Infrastructure Engineer places you at the foundational layer of the emerging internet. This challenging path is also rewarding, positioning you leading the Web3 evolution.
 
 ## The Web3 Market Opportunity
-

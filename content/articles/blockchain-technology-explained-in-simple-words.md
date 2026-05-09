@@ -14,7 +14,7 @@ Blockchain technology has emerged as a fundamental component of the digital econ
 
 ## The Double-Spend Problem
 
-Understanding blockchain technology requires recognizing the double-spend dilemma. In the digital realm, duplication is straightforward. For example, if you possess a digital dollar, nothing prevents you from spending that same dollar multiple times. This challenge poses a severe risk for digital money.
+Understanding blockchain technology requires recognizing the double-spend dilemma. In the digital area, duplication is straightforward. For example, if you possess a digital dollar, nothing prevents you from spending that same dollar multiple times. This challenge poses a severe risk for digital money.
 
 Historically, solutions to the double-spend problem relied on central intermediaries such as banks or credit card companies. These institutions update their private ledgers to reflect transactions, debiting one account while crediting another. While effective, this model introduces issues, including centralization, censorship, high transaction fees, and limited access for billions of individuals.
 
@@ -53,12 +53,12 @@ Consensus mechanisms govern how network participants agree on which new block to
 
 The structural design of a blockchain endows it with several distinctive properties compared to traditional databases:
 
-| Property         | Description                                                                                                                          |
+| Property | Description |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **Decentralization** | No central server exists. The ledger is distributed across a peer-to-peer network, eliminating single points of failure.              |
-| **Immutability**    | Transactions recorded on the blockchain cannot be altered or deleted, ensuring a permanent and trustworthy history.                  |
-| **Transparency**    | Public blockchains allow anyone to view transaction histories. Participants remain pseudonymous, but the transaction flow is fully open. |
-| **Security**        | The combination of decentralization, hashing, and consensus mechanisms results in a highly secure system against potential attacks.  |
+| **Decentralization** | No central server exists. The ledger is distributed across a peer-to-peer network, eliminating single points of failure. |
+| **Immutability** | Transactions recorded on the blockchain cannot be altered or deleted, ensuring a permanent and trustworthy history. |
+| **Transparency** | Public blockchains allow anyone to view transaction histories. Participants remain pseudonymous, but the transaction flow is fully open. |
+| **Security** | The combination of decentralization, hashing, and consensus mechanisms results in a highly secure system against potential attacks. |
 
 ## Types of Blockchains
 

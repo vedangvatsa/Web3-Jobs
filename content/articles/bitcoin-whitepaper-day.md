@@ -26,12 +26,12 @@ Satoshi's paper pinpointed a fundamental issue in internet commerce: the depende
 
 These weaknesses included:
 
-| Weakness                | Description                                           |
+| Weakness | Description |
 |------------------------|-------------------------------------------------------|
 | **High Transaction Costs** | Financial intermediaries charge fees for each transaction. |
-| **Lack of Finality**     | Transactions can be reversed, leading to uncertainty.     |
-| **Exclusion**            | Many individuals lack access to traditional banking services. |
-| **Censorship**           | Central authorities can block or freeze transactions.      |
+| **Lack of Finality** | Transactions can be reversed, leading to uncertainty. |
+| **Exclusion** | Many individuals lack access to traditional banking services. |
+| **Censorship** | Central authorities can block or freeze transactions. |
 
 Satoshi aimed to create a system that enabled direct transactions between parties without the need for a trusted intermediary.
 
@@ -72,4 +72,3 @@ The publication of the Bitcoin whitepaper extended beyond the creation of a new 
 Reading the Bitcoin whitepaper today reveals its clarity, conciseness, and foresight. In just nine pages, Satoshi Nakamoto articulated a complete and elegant solution to a problem that had perplexed cryptographers for years.
 
 On Bitcoin Whitepaper Day, we honor not only a technical document but also a manifesto: the belief that individuals should control their financial destinies, that trust can be established through code and mathematics, and that a more open, transparent, and equitable financial system is achievable. The change ignited by this paper is ongoing, and its full ramifications remain to be realized.
-

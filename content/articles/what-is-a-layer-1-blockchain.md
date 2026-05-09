@@ -101,4 +101,3 @@ Grasping Layer 1 design principles enables developers to make informed decisions
 Layer 1 blockchains form the backbone of Web3. They provide the security and decentralization that underpin the entire system's value. A sound understanding of how they operate and the reasons behind their differing designs is important for anyone engaged in building within the Web3 space.
 
 The choice of Layer 1 influences every aspect of your application, including cost, speed, security guarantees, and user experience. Making an informed choice requires a clear understanding of what each Layer 1 optimizes and what it sacrifices.
-

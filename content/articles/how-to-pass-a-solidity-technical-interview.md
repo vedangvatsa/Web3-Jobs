@@ -30,7 +30,7 @@ A typical Solidity interview consists of multiple stages:
 
 You must possess a thorough understanding of the following domains. Use our [Web3 Interview Question Bank](/interview-questions) for specific examples.
 
-**1. Solidity Fundamentals**  
+**1. Solidity Fundamentals** 
 Master the language's core features, including:
 - **Data Locations:** Explain `storage`, `memory`, and `calldata`, including their gas implications.
 - **Visibility:** Differentiate between `public`, `private`, `internal`, and `external`.
@@ -38,13 +38,13 @@ Master the language's core features, including:
 - **Error Handling:** Know when to use `require()`, `revert()`, and `assert()`.
 - **Inheritance:** Comprehend how contract inheritance operates.
 
-**2. The EVM ([Ethereum](/what-is-ethereum) Virtual Machine)**  
+**2. The EVM ([Ethereum](/what-is-ethereum) Virtual Machine)** 
 Understand how your Solidity code executes on the blockchain:
 - **The Stack and Memory:** Familiarize yourself with the EVM's architecture.
 - **Gas Costs:** Identify expensive opcodes like `SSTORE` and cheaper ones like `ADD`, as this knowledge is vital for gas optimization.
 - **Call Context:** Comprehend the differences between `call`, `delegatecall`, and `staticcall`, as well as the significance of `msg.sender` versus `tx.origin`.
 
-**3. Security (The Most Critical Area)**  
+**3. Security (The Most Critical Area)** 
 Develop a security-first mindset, as this distinguishes competent Solidity developers from exceptional ones. Be prepared to explain and code solutions for common vulnerabilities such as:
 - **Reentrancy:** Understand and implement the Checks-Effects-Interactions pattern.
 - **Integer Overflow/Underflow:** Recognize why this issue was critical before Solidity 0.8.0, even though it is no longer a concern with recent versions.
@@ -55,7 +55,7 @@ For further details, explore our guide to [common smart contract vulnerabilities
 
 Familiarize yourself with security tools, including Slither for static analysis and Echidna for fuzzing.
 
-**4. Gas Optimization**  
+**4. Gas Optimization** 
 Showcase your ability to write gas-efficient code:
 - **Storage Packing:** Learn to organize variables in a struct to minimize `SSTORE` operations.
 - **Minimize State Writes:** Use a pattern of reading from storage into memory, performing operations, and writing back once.
@@ -63,7 +63,7 @@ Showcase your ability to write gas-efficient code:
 
 Refer to our [guide to Solidity gas optimization](/gas-optimization-techniques-for-solidity-developers) for more insights.
 
-**5. Standard Patterns & EIPs**  
+**5. Standard Patterns & EIPs** 
 - **[Token](/what-is-a-token) Standards:** Gain expertise in ERC-20, ERC-721, and ERC-1155.
 - **Proxy Patterns:** Understand how upgradeability functions, particularly the Transparent Proxy Pattern.
 - **Signature Standards:** For advanced roles, familiarize yourself with EIP-712 for signing typed data.
@@ -86,4 +86,3 @@ The live coding challenge often induces considerable stress. You will need to so
 - **Lack of Passion:** If you can't articulate "Why Web3?" with enthusiasm, it becomes challenging to convince an interviewer of your commitment.
 
 Passing a Solidity technical interview sets a high standard; however, you can achieve success through thorough preparation. Focus on mastering fundamentals, adopting a security-first mindset, and practicing problem-solving through coding. By demonstrating technical knowledge alongside a disciplined development approach, you can establish your credentials as a top-tier Web3 builder.
-

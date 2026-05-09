@@ -27,8 +27,8 @@ The role of a BizDev professional in Web3 diverges significantly from traditiona
 1. **Ecosystem Mapping and Strategic Planning**: A BizDev manager must understand their ecosystem. This includes mapping out existing projects and identifying potential high-impact partners.
 2. **Building Relationships**: Establishing authentic, long-term connections with teams at other protocols is central to this role. Engagement occurs through platforms like Twitter, Discord, and industry events.
 3. **Spotting Integration Opportunities**: The BizDev professional actively seeks creative ways for protocols to collaborate.
-   - **Example ([DeFi](/what-is-defi))**: A lending protocol could collaborate with a liquid [staking](/how-to-become-a-web3-staking-specialist) protocol to allow their Liquid Staking [Token](/what-is-a-token) (LST) to be used as collateral. This partnership benefits both parties: the lending protocol increases its total value locked, while the LST gains a new application.
-   - **Example (Gaming)**: A Web3 gaming platform might join forces with an [NFT](/what-are-nfts) marketplace to feature their collection, attracting new users to the game.
+ - **Example ([DeFi](/what-is-defi))**: A lending protocol could collaborate with a liquid [staking](/how-to-become-a-web3-staking-specialist) protocol to allow their Liquid Staking [Token](/what-is-a-token) (LST) to be used as collateral. This partnership benefits both parties: the lending protocol increases its total value locked, while the LST gains a new application.
+ - **Example (Gaming)**: A Web3 gaming platform might join forces with an [NFT](/what-are-nfts) marketplace to feature their collection, attracting new users to the game.
 4. **Executing Deals**: This responsibility involves negotiating partnership terms, which may include co-marketing agreements, token swaps, or technical integration support.
 
 ### Essential Skills for Success
@@ -46,5 +46,4 @@ The role of a BizDev professional in Web3 diverges significantly from traditiona
 3. **Specialize in a Niche**: Focus on a specific area such as DeFi, Web3 Gaming, or Layer 2 solutions. This specialization positions you as an expert in that sector.
 4. **Use Your Web2 Experience**: If you have a background in traditional sales or partnerships, emphasize your skills in relationship-building and closing deals. Also, show how you have adapted to the unique context of Web3.
 
-A career in Web3 BizDev suits individuals who possess strong social skills and strategic thinking. It provides an opportunity to be at the forefront of the action, weaving together various components of the decentralized ecosystem to create a more reliable and valuable framework.
-
+A career in Web3 BizDev suits individuals who possess strong social skills and strategic thinking. It provides an opportunity to be leading the action, weaving together various components of the decentralized ecosystem to create a more reliable and valuable framework.

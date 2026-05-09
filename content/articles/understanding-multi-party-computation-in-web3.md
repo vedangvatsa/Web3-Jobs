@@ -36,29 +36,29 @@ Multi-Party Computation provides a different approach. Rather than depending on 
 
 ### MPC vs. Multisig: The Key Differences
 
-| Feature           | Multi-Signature (Multisig)                                   | Multi-Party Computation (MPC/TSS)                            |
+| Feature | Multi-Signature (Multisig) | Multi-Party Computation (MPC/TSS) |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Mechanism**     | Multiple individual keys, multiple on-chain signatures.      | One key split into shares, single on-chain signature.        |
-| **Location**      | On-chain (logic is in a smart contract).                     | Off-chain (logic is in a cryptographic protocol).            |
-| **Speed & Cost**  | Slower and more expensive (multiple on-chain signatures).    | Faster and cheaper (single on-chain signature).              |
-| **Compatibility** | Limited to smart contract platforms (e.g., [Ethereum](/what-is-ethereum)).        | Blockchain-agnostic. Works with any chain (e.g., Bitcoin).   |
-| **Privacy**       | Transparent. The signing policy is public on the blockchain. | Private. The signing policy is hidden, resembling a standard wallet. |
-| **Flexibility**   | Changing signers can be complex and gas-intensive.           | Easier off-chain adjustment of signers.                      |
+| **Mechanism** | Multiple individual keys, multiple on-chain signatures. | One key split into shares, single on-chain signature. |
+| **Location** | On-chain (logic is in a smart contract). | Off-chain (logic is in a cryptographic protocol). |
+| **Speed & Cost** | Slower and more expensive (multiple on-chain signatures). | Faster and cheaper (single on-chain signature). |
+| **Compatibility** | Limited to smart contract platforms (e.g., [Ethereum](/what-is-ethereum)). | Blockchain-agnostic. Works with any chain (e.g., Bitcoin). |
+| **Privacy** | Transparent. The signing policy is public on the blockchain. | Private. The signing policy is hidden, resembling a standard wallet. |
+| **Flexibility** | Changing signers can be complex and gas-intensive. | Easier off-chain adjustment of signers. |
 
 ### Use Cases for MPC in Web3
 
-**1. Institutional Custody**  
+**1. Institutional Custody** 
 This represents a significant current application. Major institutions, such as cryptocurrency exchanges and custodians, use MPC to protect billions in customer assets. MPC facilitates the creation of intricate security policies that require multiple approvals from various executives or geographical locations, all while avoiding the time and cost constraints associated with on-chain multisigs.
 
-**2. User-Friendly Wallets (Account Abstraction)**  
+**2. User-Friendly Wallets (Account Abstraction)** 
 MPC is important for enabling **[Account Abstraction](/account-abstraction-explained)**, particularly for social recovery options.
 - **Example:** A user's wallet could be secured using a 2-of-3 MPC scheme.
-    -   Key Share 1: Stored on their mobile device.
-    -   Key Share 2: Stored on their laptop.
-    -   Key Share 3: Held by a trusted third party or a friend.
+ - Key Share 1: Stored on their mobile device.
+ - Key Share 2: Stored on their laptop.
+ - Key Share 3: Held by a trusted third party or a friend.
 To execute a transaction, approval from two of these three entities is required. If the user loses their phone, they can use their laptop and the third party to regain access and add a new device.
 
-**3. Private Computation**  
+**3. Private Computation** 
 Beyond signatures, MPC can enable multiple parties to compute results based on their private data without disclosing that data.
 - **Example: Salary Benchmarking:** A consortium of companies could use MPC to determine the average salary for a specific role, ensuring that no individual company discloses its salary information to others.
 
@@ -67,4 +67,3 @@ Beyond signatures, MPC can enable multiple parties to compute results based on t
 The primary challenge surrounding MPC is its inherent complexity. The underlying cryptographic principles are advanced, making secure implementation difficult. However, as technology matures and gains real-world testing, MPC is becoming the standard for institutional-grade digital asset security.
 
 MPC shifts the security model from on-chain, smart contract-based methods to a more flexible, private, and efficient off-chain cryptographic framework. It effectively addresses the vulnerabilities associated with single-point-of-failure keys, paving the way for secure, user-friendly, and interoperable applications across the Web3 ecosystem.
-

@@ -11,7 +11,7 @@ lastUpdated: "2026-04-29"
 
 Venture Capital (VC) fuels innovation by providing essential early-stage funding, enabling startups to scale and shape the future. In the fast-moving field of [Web3](/what-is-web3), a new class of investors, known as **crypto VCs**, has emerged. These professionals focus on identifying and financing high-potential projects within the [blockchain](/what-is-a-blockchain) and decentralized technology sectors.
 
-A career in Web3 VC represents a significant opportunity. It allows individuals to engage with leading innovators, influence the future of the internet, and play a role in transformative projects. However, this sector is highly competitive. This guide outlines the key roles, necessary skills, and alternative pathways to becoming a Web3 investor.
+A career in Web3 VC represents a significant opportunity. It allows individuals to engage with leading innovators, influence the future of the internet, and play a role in significant projects. However, this sector is highly competitive. This guide outlines the key roles, necessary skills, and alternative pathways to becoming a Web3 investor.
 
 ### Distinctions of Crypto VC
 
@@ -52,4 +52,3 @@ The pathway to a Web3 VC position is rarely straightforward. Few individuals sec
 5. **Gain Founding or Operational Experience:** Having been on the other side of the investment table enhances an individual's perspective as an investor. Experience in a successful Web3 startup provides invaluable operational insights.
 
 A career in Web3 VC requires a sustained commitment to learning, relationship building, and ecosystem engagement. For passionate individuals, it offers a unique opportunity to influence the future of decentralized technology.
-

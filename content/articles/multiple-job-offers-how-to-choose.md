@@ -26,14 +26,14 @@ If you have pending interviews, inform those companies about your received offer
 
 While salary is important, it represents only one aspect of the overall package. A job offering a slightly lower base salary might provide a superior compensation package or a more supportive work environment. Create a comparison spreadsheet to analyze the offers based on several key factors.
 
-| Factor                   | Offer A                      | Offer B                      | Offer C                      |
+| Factor | Offer A | Offer B | Offer C |
 |-------------------------|-----------------------------|------------------------------|------------------------------|
-| Base Salary             | Competitive                  | Competitive                   | Competitive                   |
-| Bonus Potential          | Performance-based            | Performance-based             | Performance-based             |
-| Equity/Tokens           | Equity options available     | Equity options available      | Equity options available      |
-| Health Insurance        | Reliable coverage            | Standard coverage             | High-deductible plan         |
-| Retirement Contribution  | Competitive match            | Competitive match             | Competitive match             |
-| Paid Time Off           | Generous                     | Standard                     | Generous                     |
+| Base Salary | Competitive | Competitive | Competitive |
+| Bonus Potential | Performance-based | Performance-based | Performance-based |
+| Equity/Tokens | Equity options available | Equity options available | Equity options available |
+| Health Insurance | Reliable coverage | Standard coverage | High-deductible plan |
+| Retirement Contribution | Competitive match | Competitive match | Competitive match |
+| Paid Time Off | Generous | Standard | Generous |
 
 **Total Compensation.** Look beyond base salary and assess the entire compensation package. Include:
 
@@ -97,4 +97,4 @@ Managing multiple job offers requires a blend of analytical assessment and perso
 
 By methodically weighing salary, benefits, company culture, growth opportunities, and your own instincts, you can make a well-informed choice. Trust your analysis, but also listen to your gut. In the end, a job that excites you and aligns with your career aspirations will yield greater satisfaction and professional fulfillment.
 
-Your journey does not end with accepting a job offer. Approach your new role with the same analytical mindset. Continually assess your growth, contribution, and overall job satisfaction. Regularly revisit your career goals and adjust as necessary. This proactive approach positions you for success in an ever-evolving job market.
+Your journey does not end with accepting a job offer. Approach your new role with the same analytical mindset. Continually assess your growth, contribution, and overall job satisfaction. Regularly revisit your career goals and adjust as necessary. This proactive approach positions you for success in an changing job market.

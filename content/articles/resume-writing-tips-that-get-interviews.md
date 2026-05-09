@@ -30,10 +30,10 @@ Replace the traditional "Objective" statement with a "Professional Summary" or "
 
 Incorporating numbers into your resume significantly strengthens your claims. Numbers provide tangible proof of your contributions. Review each bullet point in your work experience and identify opportunities to quantify your accomplishments.
 
-| Original Statement                           | Enhanced Statement                                           |
+| Original Statement | Enhanced Statement |
 |----------------------------------------------|-------------------------------------------------------------|
-| Managed a team of software engineers.        | Managed a team of 8 software engineers, boosting productivity through a new agile workflow. |
-| Wrote blog posts for the company blog.      | Authored over 50 blog posts, with one article becoming the most-read piece, garnering significant views. |
+| Managed a team of software engineers. | Managed a team of 8 software engineers, boosting productivity through a new agile workflow. |
+| Wrote blog posts for the company blog. | Authored over 50 blog posts, with one article becoming the most-read piece, garnering significant views. |
 
 Think about metrics such as revenue generated, costs minimized, processes optimized, and user growth.
 
@@ -105,4 +105,3 @@ Avoid overwhelming yourself by trying to change everything at once. Start with o
 #### Step 5: Measure Progress and Adjust Accordingly
 
 Regularly evaluate your progress. Are your changes yielding results? Adjust your strategy based on feedback and outcomes. This focus on continuous improvement is essential for long-term success.
-

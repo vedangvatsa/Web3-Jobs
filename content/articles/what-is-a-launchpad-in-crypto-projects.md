@@ -45,4 +45,3 @@ Despite their advantages, launchpads present notable risks:
 - **Launchpad Token Requirement:** The necessity to hold the launchpad's token introduces additional risk, as its value can fluctuate significantly.
 
 Launchpads significantly influence capital formation in the Web3 space. They provide broader access to early-stage investments but also contribute to a speculative environment. Investors should conduct thorough research on projects and not rely solely on a launchpad's reputation.
-

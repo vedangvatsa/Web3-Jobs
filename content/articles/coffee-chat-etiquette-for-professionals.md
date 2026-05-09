@@ -123,4 +123,3 @@ A single coffee chat marks the beginning of a relationship. To cultivate this co
 - Congratulate them on a work anniversary or promotion via LinkedIn.
 
 The goal is to establish a pattern of positive interactions, leading to a context where your future requests (like job referrals) are met with enthusiasm.
-

@@ -43,10 +43,10 @@ A vAMM addresses these limitations by dissociating the price-setting mechanism f
 2. **The Collateral Vault**: This smart contract gathers all traders' real collateral, usually in a stablecoin like USDC. All profits and losses are reconciled through this vault.
 
 3. **The Trading Process**:
-   - A trader, say Alice, decides to take a 10x long position on 1 [ETH](/what-is-ethereum) and deposits collateral into the vault.
-   - She conducts a "trade" on the vAMM, with the smart contract registering her purchase of 10 vETH (1 ETH * 10x use).
-   - The vAMM adjusts its virtual reserves according to the `x * y = k` formula, affecting the price of vETH on the curve.
-   - Importantly, no actual tokens change hands. The vAMM simply updates its internal numbers, confirming Alice's 10x long position while her collateral remains in the vault for potential loss coverage.
+ - A trader, say Alice, decides to take a 10x long position on 1 [ETH](/what-is-ethereum) and deposits collateral into the vault.
+ - She conducts a "trade" on the vAMM, with the smart contract registering her purchase of 10 vETH (1 ETH * 10x use).
+ - The vAMM adjusts its virtual reserves according to the `x * y = k` formula, affecting the price of vETH on the curve.
+ - Importantly, no actual tokens change hands. The vAMM simply updates its internal numbers, confirming Alice's 10x long position while her collateral remains in the vault for potential loss coverage.
 
 4. **Funding Payments**: To align the vAMM's price with real-world asset prices (from a price oracle), perpetual protocols implement a funding payment system. If the vAMM price exceeds the oracle price, traders holding long positions pay those holding short positions. Conversely, if the vAMM price is lower, shorts pay longs. This mechanism encourages traders to execute trades that realign the vAMM price with the index price.
 
@@ -54,13 +54,13 @@ A vAMM addresses these limitations by dissociating the price-setting mechanism f
 
 ### Comparing vAMMs and Standard AMMs
 
-| Feature                       | Standard AMM (e.g., Uniswap)                   | Virtual AMM (e.g., Perpetual Protocol)                     |
+| Feature | Standard AMM (e.g., Uniswap) | Virtual AMM (e.g., Perpetual Protocol) |
 |-------------------------------|------------------------------------------------|-----------------------------------------------------------|
-| **Liquidity**                 | Requires a pool of real, deposited assets from liquidity providers. | No real liquidity pool; the pool is virtual.              |
-| **Asset Custody**             | The pool contract holds actual tokens being traded. | The collateral vault holds a single asset (e.g., USDC).  |
-| **Primary Use Case**          | Spot trading (swapping real tokens).          | Derivatives trading (perpetual futures).                  |
-| **Revenue Source**            | Liquidity providers earn fees from trades.    | Traders pay/receive funding payments; the protocol may charge fees. |
-| **Key Risk**                  | Impermanent loss for liquidity providers.      | Liquidation risk for used traders.                    |
+| **Liquidity** | Requires a pool of real, deposited assets from liquidity providers. | No real liquidity pool; the pool is virtual. |
+| **Asset Custody** | The pool contract holds actual tokens being traded. | The collateral vault holds a single asset (e.g., USDC). |
+| **Primary Use Case** | Spot trading (swapping real tokens). | Derivatives trading (perpetual futures). |
+| **Revenue Source** | Liquidity providers earn fees from trades. | Traders pay/receive funding payments; the protocol may charge fees. |
+| **Key Risk** | Impermanent loss for liquidity providers. | Liquidation risk for used traders. |
 
 ### Advantages of the vAMM Model
 
@@ -77,16 +77,16 @@ A vAMM addresses these limitations by dissociating the price-setting mechanism f
 
 ### Frequently Asked Questions (FAQ)
 
-**Where do the profits from successful trades originate?**  
+**Where do the profits from successful trades originate?** 
 Profits derive directly from the collateral of losing traders. The central collateral vault reconciles all profits and losses. For example, if longs achieve a collective profit, shorts must collectively incur a corresponding loss.
 
-**What if the collateral vault lacks sufficient funds for payouts?**  
+**What if the collateral vault lacks sufficient funds for payouts?** 
 This scenario represents a critical risk for vAMM systems. To mitigate this, protocols often maintain an "insurance fund" supported by liquidation fees or protocol revenue. This fund serves as a backup to cover winners if the losing side cannot fulfill their losses.
 
-**Why is the term "virtual" used?**  
+**Why is the term "virtual" used?** 
 The term "virtual" refers to the non-existence of a physical liquidity pool for the traded assets (e.g., vETH and vUSDC). The tokens are simply numerical representations used by the smart contract to simulate market dynamics and determine prices.
 
-**Can spot assets be traded on a vAMM?**  
+**Can spot assets be traded on a vAMM?** 
 No, vAMMs are specifically designed for synthetic derivatives. Users cannot withdraw "vETH" purchased; they can only close their positions to realize profits or losses in the actual collateral asset (e.g., USDC).
 
 ## Why Understanding vAMMs Matters
@@ -116,4 +116,3 @@ Avoid overwhelming yourself with too much information at once. Start with one co
 Track your development closely. Are you achieving your learning objectives? Adjust your methods based on feedback and results. Embrace a mindset of continuous improvement.
 
 ## Real-World Applications of vAMMs
-

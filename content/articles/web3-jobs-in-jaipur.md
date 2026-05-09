@@ -19,7 +19,7 @@ The Web3 community in Jaipur, though small, is highly engaged and focused on edu
 Jaipur's Web3 scene is nascent, offering both challenges and significant opportunities.
 
 - **Startup Activity:** The city hosts numerous tech startups, with an increasing number venturing into Web3. These startups often focus on user-facing applications, e-commerce solutions, and tools that support the creator economy.
-- **Remote Work Appeal:** Jaipur's affordable living costs, vibrant culture, and quality of life draw Web3 professionals who work remotely for local or international companies. This influx of skilled talent contributes to the local ecosystem, enhancing knowledge and networking.
+- **Remote Work Appeal:** Jaipur's affordable living costs, active culture, and quality of life draw Web3 professionals who work remotely for local or international companies. This influx of skilled talent contributes to the local ecosystem, enhancing knowledge and networking.
 - **Community and Education Focus:** The local community prioritizes learning and development through meetups, workshops, and study groups. These initiatives support a collaborative environment for newcomers to explore blockchain technology.
 - **Creator Economy Potential:** Jaipur's rich artistic heritage presents untapped opportunities at the intersection of [NFTs](/what-are-nfts), art, and tourism. 
 
@@ -41,17 +41,16 @@ Jaipur's job market primarily includes remote roles and positions with a few loc
 ### Building a Web3 Career in Jaipur
 
 1. **Become a Community Organizer:** The compact local community presents an opportunity to take initiative. Organize regular Web3 meetups or start a Telegram or WhatsApp group for local enthusiasts. Positioning yourself as a community leader can lead to early access to new opportunities.
-   
+
 2. **Develop a Strong Remote Profile:** With many opportunities being remote, your online presence is critical. Create an impressive [GitHub](/building-web3-portfolio) profile, share insightful content on Twitter or a blog, and establish a reputation that extends beyond your geographic location.
 
 3. **Focus on a Relevant Niche:** Identify projects that can bridge Web3 with Jaipur's unique strengths.
-   - *Project Idea:* Develop an NFT platform for local artists and artisans.
-   - *Project Idea:* Create a dApp for tokenizing tourism-related experiences.
-   - Presenting such projects at local tech meetups can effectively showcase your skills and vision.
+ - *Project Idea:* Develop an NFT platform for local artists and artisans.
+ - *Project Idea:* Create a dApp for tokenizing tourism-related experiences.
+ - Presenting such projects at local tech meetups can effectively showcase your skills and vision.
 
 4. **Network Nationally:** Engage with the broader Indian Web3 community. Attend conferences in Bangalore, Delhi, and Mumbai to expand your network and learn from others in the field.
 
 ### Finding a Web3 Job
 
 If you are ready to advance your career, our [Web3 job board](/jobs) serves as a platform for discovering roles in Jaipur and beyond. We offer curated positions from leading companies, [DAOs](/what-is-a-dao), and protocols actively seeking top talent. Whether you are a developer, marketer, or product manager, your next opportunity in the decentralized economy awaits. Explore our listings today to secure your place in the future of the internet.
-

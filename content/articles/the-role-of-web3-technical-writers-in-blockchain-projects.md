@@ -69,4 +69,3 @@ Breaking into the Web3 sector as a technical writer is relatively straightforwar
 5. **Engage with the Community:** Share your work within the project's Discord channel and solicit feedback. By doing so, you can establish your reputation as someone who understands the protocol and can communicate it clearly, often leading to job opportunities.
 
 If you possess clarity of thought, writing precision, and a passion for simplifying complex topics, a career as a technical writer can serve as an excellent entry point into Web3.
-

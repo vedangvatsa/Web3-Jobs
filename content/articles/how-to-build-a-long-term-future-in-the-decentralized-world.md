@@ -26,10 +26,10 @@ A relentless curiosity is essential for long-term success in Web3. The technolog
 
 As the industry matures, the demand for specialists continues to rise. While generalists played a important role in the early days, projects now require true experts to address complex challenges.
 
-- **Identify Your "Spike":** Determine the area where you can excel as a world-class expert. This could involve a specific technical domain, such as zero-knowledge proofs or Layer 2 solutions, a role like a [DeFi](/what-is-defi) Product Manager, or a sector, such as Web3 gaming.
+- **Identify Your "Spike":** Determine the area where you can excel as a top-tier expert. This could involve a specific technical domain, such as zero-knowledge proofs or Layer 2 solutions, a role like a [DeFi](/what-is-defi) Product Manager, or a sector, such as Web3 gaming.
 - **Create a Public [Portfolio](/building-web3-portfolio):** Showcase your expertise publicly.
-  - **Developers:** Contribute to a prominent open-source project within your selected niche.
-  - **Non-Technical:** Produce detailed research reports or analyses. Establish yourself as the go-to expert on Twitter for your specific topic.
+ - **Developers:** Contribute to a prominent open-source project within your selected niche.
+ - **Non-Technical:** Produce detailed research reports or analyses. Establish yourself as the go-to expert on Twitter for your specific topic.
 
 ### Principle 3: Transition from Contributor to Leader
 
@@ -37,7 +37,7 @@ Entering a leadership position in Web3 differs from traditional corporate pathwa
 
 - **Influence Over Authority:** In decentralized organizations, leading without formal authority is common. This requires strong communication skills, consensus-building abilities, and a history of valuable contributions.
 - **Mentor Your Peers:** A key characteristic of a leader is their capacity to uplift those around them. Invest time in mentoring junior colleagues or assisting newcomers in your DAO.
-- **Tackle Unaddressed Challenges:** Identifying and addressing important problems that others overlook can elevate your status as a leader. This might involve improving a DAO's grant process or developing new internal tools.
+- **Tackle Unaddressed Challenges:** Identifying and addressing important problems that others overlook can improve your status as a leader. This might involve improving a DAO's grant process or developing new internal tools.
 
 ### Principle 4: Build Your Network
 
@@ -48,4 +48,3 @@ Your professional network serves as a important asset for long-term career progr
 - **Focus on Long-Term Relationships:** Establish genuine, enduring connections. The Web3 space is relatively small, and your reputation carries significant weight.
 
 Career advancement in Web3 requires a proactive mindset. It involves continuous learning, strategic specialization, and demonstrating your value through public contributions. Applying this approach allows you to build a resilient and impactful career that adapts alongside the decentralized internet.
-

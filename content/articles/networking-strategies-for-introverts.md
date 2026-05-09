@@ -22,8 +22,8 @@ Redefining networking starts with understanding its true essence. Networking is 
 
 | Networking Outcome | Introvert | Extrovert |
 |-------------------|-----------|-----------|
-| Total Contacts    | 2         | 20        |
-| Depth of Connection| High      | Low       |
+| Total Contacts | 2 | 20 |
+| Depth of Connection| High | Low |
 
 Your goal is to engage with individuals who can lead to fruitful professional relationships, rather than attempting to meet everyone in the room.
 
@@ -158,4 +158,3 @@ Avoid trying to change everything at once. Start with one small adjustment, moni
 Regularly assess your progress. Are you witnessing results? Modify your strategies based on feedback and outcomes to ensure continuous growth.
 
 ## Practical Examples
-

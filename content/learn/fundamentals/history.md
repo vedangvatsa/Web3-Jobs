@@ -6,38 +6,38 @@ readTime: "7 min"
 difficulty: "beginner"
 prerequisites: ["web3"]
 quiz:
-  - question: "What could you do on Web1?"
-    options:
-      - "Post photos and videos"
-      - "Read static web pages"
-      - "Trade cryptocurrency"
-      - "Vote on governance proposals"
-    correct: 1
-    explanation: "Web1 was read-only. Websites were static HTML pages. You could read them but could not easily create or interact with content."
-  - question: "What was the main trade-off of Web2?"
-    options:
-      - "Websites loaded slowly"
-      - "You needed to pay for every website"
-      - "Platforms collected user data and sold ads against it"
-      - "Only governments could create websites"
-    correct: 2
-    explanation: "Web2 gave everyone free tools to publish, but in exchange, platforms collected your data and used it for targeted advertising."
-  - question: "When did Ethereum launch?"
-    options:
-      - "2004"
-      - "2009"
-      - "2015"
-      - "2020"
-    correct: 2
-    explanation: "Ethereum launched in 2015. Bitcoin came first in 2009, but Ethereum was the first blockchain designed for general-purpose applications."
-  - question: "What does Web3 add that Web2 does not have?"
-    options:
-      - "Video streaming"
-      - "Social media"
-      - "User-owned digital assets"
-      - "Search engines"
-    correct: 2
-    explanation: "Web3 adds ownership. You can own tokens, NFTs, and other digital assets directly in your wallet without relying on a company's database."
+ - question: "What could you do on Web1?"
+ options:
+ - "Post photos and videos"
+ - "Read static web pages"
+ - "Trade cryptocurrency"
+ - "Vote on governance proposals"
+ correct: 1
+ explanation: "Web1 was read-only. Websites were static HTML pages. You could read them but could not easily create or interact with content."
+ - question: "What was the main trade-off of Web2?"
+ options:
+ - "Websites loaded slowly"
+ - "You needed to pay for every website"
+ - "Platforms collected user data and sold ads against it"
+ - "Only governments could create websites"
+ correct: 2
+ explanation: "Web2 gave everyone free tools to publish, but in exchange, platforms collected your data and used it for targeted advertising."
+ - question: "When did Ethereum launch?"
+ options:
+ - "2004"
+ - "2009"
+ - "2015"
+ - "2020"
+ correct: 2
+ explanation: "Ethereum launched in 2015. Bitcoin came first in 2009, but Ethereum was the first blockchain designed for general-purpose applications."
+ - question: "What does Web3 add that Web2 does not have?"
+ options:
+ - "Video streaming"
+ - "Social media"
+ - "User-owned digital assets"
+ - "Search engines"
+ correct: 2
+ explanation: "Web3 adds ownership. You can own tokens, NFTs, and other digital assets directly in your wallet without relying on a company's database."
 ---
 
 ## A 30-year story in five minutes
@@ -46,26 +46,26 @@ The internet you use today looks nothing like the internet of 1995. It changed t
 
 <div class="diagram">
 <svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <!-- Timeline line -->
-  <line x1="60" y1="80" x2="740" y2="80" stroke="#d1d5db" stroke-width="3" stroke-linecap="round"/>
-  
-  <!-- Web1 -->
-  <circle cx="140" cy="80" r="12" fill="#3b82f6"/>
-  <text x="140" y="55" text-anchor="middle" font-size="14" font-weight="bold" fill="#1e40af">Web1</text>
-  <text x="140" y="115" text-anchor="middle" font-size="11" fill="#64748b">1991</text>
-  <text x="140" y="130" text-anchor="middle" font-size="10" fill="#94a3b8">Read only</text>
-  
-  <!-- Web2 -->
-  <circle cx="400" cy="80" r="12" fill="#eab308"/>
-  <text x="400" y="55" text-anchor="middle" font-size="14" font-weight="bold" fill="#854d0e">Web2</text>
-  <text x="400" y="115" text-anchor="middle" font-size="11" fill="#64748b">2004</text>
-  <text x="400" y="130" text-anchor="middle" font-size="10" fill="#94a3b8">Read + Write</text>
-  
-  <!-- Web3 -->
-  <circle cx="640" cy="80" r="12" fill="#22c55e"/>
-  <text x="640" y="55" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Web3</text>
-  <text x="640" y="115" text-anchor="middle" font-size="11" fill="#64748b">2015</text>
-  <text x="640" y="130" text-anchor="middle" font-size="10" fill="#94a3b8">Read + Write + Own</text>
+ <!-- Timeline line -->
+ <line x1="60" y1="80" x2="740" y2="80" stroke="#d1d5db" stroke-width="3" stroke-linecap="round"/>
+
+ <!-- Web1 -->
+ <circle cx="140" cy="80" r="12" fill="#3b82f6"/>
+ <text x="140" y="55" text-anchor="middle" font-size="14" font-weight="bold" fill="#1e40af">Web1</text>
+ <text x="140" y="115" text-anchor="middle" font-size="11" fill="#64748b">1991</text>
+ <text x="140" y="130" text-anchor="middle" font-size="10" fill="#94a3b8">Read only</text>
+
+ <!-- Web2 -->
+ <circle cx="400" cy="80" r="12" fill="#eab308"/>
+ <text x="400" y="55" text-anchor="middle" font-size="14" font-weight="bold" fill="#854d0e">Web2</text>
+ <text x="400" y="115" text-anchor="middle" font-size="11" fill="#64748b">2004</text>
+ <text x="400" y="130" text-anchor="middle" font-size="10" fill="#94a3b8">Read + Write</text>
+
+ <!-- Web3 -->
+ <circle cx="640" cy="80" r="12" fill="#22c55e"/>
+ <text x="640" y="55" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Web3</text>
+ <text x="640" y="115" text-anchor="middle" font-size="11" fill="#64748b">2015</text>
+ <text x="640" y="130" text-anchor="middle" font-size="10" fill="#94a3b8">Read + Write + Own</text>
 </svg>
 </div>
 

@@ -78,7 +78,7 @@ Different voting mechanisms exist:
 
 - **ENS DAO**: Manages the Ethereum Name Service, which tokenized .eth domain ownership and governance. The airdrop distribution to ENS users became a model for DAO launches.
 
-- **Constitution DAO**: Attempted to crowdfund to buy an original copy of the U.S. Constitution at auction. Though unsuccessful in the purchase, it demonstrated DAO coordination at unprecedented speed and scale.
+- **Constitution DAO**: Attempted to crowdfund to buy an original copy of the U.S. Constitution at auction. Though unsuccessful in the purchase, it demonstrated DAO coordination at rare speed and scale.
 
 - **Nouns DAO**: Auctions one generative NFT daily, with proceeds going to the treasury. Noun holders vote on creative projects, spawning numerous derivative projects.
 

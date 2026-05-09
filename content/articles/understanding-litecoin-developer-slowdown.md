@@ -28,11 +28,11 @@ This data, viewed in isolation, has led many to conclude that Litecoin is a "gho
 
 Litecoin was never intended to be a platform for [smart contracts](/what-are-smart-contracts), dApps, or a rapidly changing ecosystem of [DeFi](/what-is-defi) protocols. Its core purpose is to be a secure, reliable, and decentralized network for peer-to-peer payments. In this context, a lack of constant code changes is not necessarily a sign of stagnation, but a feature of its stability.
 
-1.  **Maturity and Ossification:** Like Bitcoin, Litecoin is a mature protocol. Its core design is considered complete. Major changes are rare, carefully considered, and only implemented after extensive testing and community consensus. For a protocol that secures significant value, stability and predictability are essential. Constant, rapid updates would introduce risk and be seen as a negative, not a positive.
+1. **Maturity and Ossification:** Like Bitcoin, Litecoin is a mature protocol. Its core design is considered complete. Major changes are rare, carefully considered, and only implemented after extensive testing and community consensus. For a protocol that secures significant value, stability and predictability are essential. Constant, rapid updates would introduce risk and be seen as a negative, not a positive.
 
-2.  **Focus on the Core Protocol:** Litecoin's development is focused on its core client, Litecoin Core. This is a deliberate and focused effort, unlike ecosystems like Ethereum where "developer activity" encompasses thousands of independent dApp developers building on top of the platform. Comparing Litecoin's core protocol commits to the entire Ethereum ecosystem's commits is an apples-to-oranges comparison.
+2. **Focus on the Core Protocol:** Litecoin's development is focused on its core client, Litecoin Core. This is a deliberate and focused effort, unlike ecosystems like Ethereum where "developer activity" encompasses thousands of independent dApp developers building on top of the platform. Comparing Litecoin's core protocol commits to the entire Ethereum ecosystem's commits is an apples-to-oranges comparison.
 
-3.  **The Role of the Litecoin Foundation:** The Litecoin Foundation is a non-profit organization that supports the development and adoption of Litecoin. While it funds key developers, it does not centrally command the project. Development is decentralized, with contributions coming from a small but dedicated group of core developers who have been involved for years.
+3. **The Role of the Litecoin Foundation:** The Litecoin Foundation is a non-profit organization that supports the development and adoption of Litecoin. While it funds key developers, it does not centrally command the project. Development is decentralized, with contributions coming from a small but dedicated group of core developers who have been involved for years.
 
 ### Notable Developments and the MWEB Upgrade
 
@@ -46,7 +46,6 @@ The successful implementation of MWEB demonstrates that Litecoin's development i
 
 The future of Litecoin development will likely continue on its current path: slow, deliberate, and focused on security and reliability. We are unlikely to see the frenetic pace of development that characterizes smart contract platforms. Instead, development will focus on:
 
-*   **Core Maintenance:** Ongoing maintenance of the Litecoin Core client to ensure its security and stability.
-*   **Second-Layer Solutions:** Exploration of Layer 2 solutions like the Lightning Network to further improve its scalability for micropayments.
-*   **Adoption and Integration:** Work by the Litecoin Foundation and community to increase adoption by merchants and payment processors.
-
+* **Core Maintenance:** Ongoing maintenance of the Litecoin Core client to ensure its security and stability.
+* **Second-Layer Solutions:** Exploration of Layer 2 solutions like the Lightning Network to further improve its scalability for micropayments.
+* **Adoption and Integration:** Work by the Litecoin Foundation and community to increase adoption by merchants and payment processors.

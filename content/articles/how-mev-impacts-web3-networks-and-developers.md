@@ -38,9 +38,9 @@ MEV strategies span a spectrum, ranging from beneficial approaches to those that
 #### Predatory MEV: Sandwich Attacks
 
 - **Definition:** Sandwich attacks are one of the most harmful MEV strategies. A searcher bot detects a large buy order in the mempool and executes two transactions that "sandwich" the user's trade:
-    1. **Front-running:** The bot submits a buy order with a higher gas fee, ensuring execution just before the user's trade, leading to a slight price increase.
-    2. **The User's Trade:** The user's trade executes at a less favorable price due to the price impact caused by the front-running.
-    3. **Back-running:** The bot sells the tokens acquired from the front-running, profiting from the price change.
+ 1. **Front-running:** The bot submits a buy order with a higher gas fee, ensuring execution just before the user's trade, leading to a slight price increase.
+ 2. **The User's Trade:** The user's trade executes at a less favorable price due to the price impact caused by the front-running.
+ 3. **Back-running:** The bot sells the tokens acquired from the front-running, profiting from the price change.
 - **Impact:** Users receive fewer tokens than expected, while the MEV bot extracts value from their trades, directly taxing users.
 
 #### Other MEV Strategies
@@ -55,9 +55,9 @@ MEV significantly affects the ecosystem, requiring developers to consider its im
 - **Poor User Experience:** Predatory MEV strategies, such as sandwich attacks, degrade user experience and diminish trust in DeFi platforms.
 - **Network Congestion:** The competition among searcher bots, known as "priority gas auctions," increases gas fees for all network users.
 - **Protocol Design Constraints:** Developers must make their applications "MEV-aware." Key considerations include:
-    - **Minimizing Slippage:** Implement slippage protection in decentralized exchanges (DEXs) to safeguard users.
-    - **Using Commit-Reveal Schemes:** For applications like on-chain games or voting, this approach conceals a user's choice until all commitments are finalized, preventing front-running.
-    - **Avoiding On-Chain Oracles:** Using on-chain DEX prices as price [oracles](/what-are-oracles) poses risks, as MEV bots can easily manipulate these prices.
+ - **Minimizing Slippage:** Implement slippage protection in decentralized exchanges (DEXs) to safeguard users.
+ - **Using Commit-Reveal Schemes:** For applications like on-chain games or voting, this approach conceals a user's choice until all commitments are finalized, preventing front-running.
+ - **Avoiding On-Chain Oracles:** Using on-chain DEX prices as price [oracles](/what-are-oracles) poses risks, as MEV bots can easily manipulate these prices.
 
 ### Mitigating the Negative Effects of MEV
 
@@ -68,4 +68,3 @@ The Web3 community actively pursues solutions to lessen the adverse impacts of M
 - **Sequencer Decentralization:** In [L2 rollups](/guide-to-layer-2s), centralized sequencers currently capture all MEV. Research focuses on decentralizing the sequencer role to distribute value more equitably.
 
 MEV is an inherent characteristic of transparent blockchains, representing a complex interplay among searchers, block producers, and protocol designers. While completely eliminating MEV is unrealistic, the ecosystem aims to maximize its positive aspects while mitigating harmful extractive forms. For developers, understanding MEV has become essential for designing secure, fair, and resilient decentralized applications.
-

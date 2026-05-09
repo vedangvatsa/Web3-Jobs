@@ -26,9 +26,9 @@ TVL is usually calculated in US dollars through a straightforward process:
 
 | Asset Type | Quantity | Current Price | Total Value |
 |------------|----------|----------------|-------------|
-| ETH        | 100,000  | $3,500         | Significant value|
-| USDC       | 200,000,000 | $1         | Significant value|
-| **Total TVL** |          |                | **Significant value** |
+| ETH | 100,000 | $3,500 | Significant value|
+| USDC | 200,000,000 | $1 | Significant value|
+| **Total TVL** | | | **Significant value** |
 
 In this example, a protocol with 100,000 ETH and 200 million USDC locked at the respective prices results in a total TVL of significant value.
 
@@ -49,4 +49,3 @@ While TVL is a valuable metric, it has several limitations that warrant caution:
 - **Double Counting Issue**: Capital can be counted multiple times within the overall DeFi TVL as it circulates through various protocols. For example, depositing ETH into Lido for stETH and then using that stETH in Aave causes the same ETH to be counted in both protocols' TVLs.
 
 TVL serves as a foundational metric for assessing DeFi protocols. However, analysts should combine it with other indicators such as protocol revenue, daily active users, and the TVL-to-market capitalization ratio to gain a thorough understanding of a project's viability and long-term prospects.
-

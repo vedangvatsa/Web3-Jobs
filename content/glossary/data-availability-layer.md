@@ -6,15 +6,15 @@ difficulty: advanced
 image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
 description: A data availability (DA) layer is specialized blockchain infrastructure that stores and guarantees access to transaction data without executing transactions. DA layers enable rollups to post their transaction data cheaply while ensuring it remains available for verification, fraud proofs, and state reconstruction.
 relatedTerms:
-  - rollup
-  - data-availability
-  - celestia
-  - eigenda
-  - modular-blockchain
+ - rollup
+ - data-availability
+ - celestia
+ - eigenda
+ - modular-blockchain
 synonyms:
-  - DA layer
-  - Data availability network
-  - Availability layer
+ - DA layer
+ - Data availability network
+ - Availability layer
 ---
 
 A **data availability (DA) layer** is **specialized blockchain infrastructure dedicated to storing and guaranteeing the availability of transaction data** without executing the transactions themselves. DA layers are a critical component of modular blockchain architectures, enabling rollups to achieve scalability by separating data storage from transaction execution while maintaining security guarantees.
@@ -233,7 +233,7 @@ When choosing and integrating a DA layer:
 
 - **Support Light Clients**: Ensure your rollup supports light clients that can verify DA without downloading full blocks.
 
-- **Plan for Upgrades**: DA layers are rapidly evolving; design for easy upgrades to new DA layer versions or switching between layers.
+- **Plan for Upgrades**: DA layers are fast-moving; design for easy upgrades to new DA layer versions or switching between layers.
 
 ## The Future of Data Availability
 

@@ -57,14 +57,14 @@ The key to effective follow-up is persistence without being pushy. Your goal is 
 
 Here is a practical template to help you structure your follow-up communications:
 
-| Component                | Details                                                          |
+| Component | Details |
 |--------------------------|------------------------------------------------------------------|
-| Subject Line             | "Thank you - [Job Title] Interview"                             |
-| Greeting                 | "Dear [Interviewer's Name],"                                     |
-| Thank You Statement      | "Thank you for the opportunity to interview for the [Job Title] position." |
-| Specific Reference       | "I enjoyed our discussion on [specific topic]."                |
-| Interest Reiteration     | "I believe my skills in [specific skills] align well with your needs." |
-| Closing                  | "Best regards, [Your Name]"                                     |
+| Subject Line | "Thank you - [Job Title] Interview" |
+| Greeting | "Dear [Interviewer's Name]," |
+| Thank You Statement | "Thank you for the opportunity to interview for the [Job Title] position." |
+| Specific Reference | "I enjoyed our discussion on [specific topic]." |
+| Interest Reiteration | "I believe my skills in [specific skills] align well with your needs." |
+| Closing | "Best regards, [Your Name]" |
 
 ### Frequently Asked Questions (FAQs)
 
@@ -79,4 +79,3 @@ Sending a LinkedIn connection request after the interview is generally advisable
 **What if I realize I made a mistake in the interview?**
 
 If you recognize that you made an error during the interview, use your thank-you email to briefly and gracefully correct it. For example, "After our conversation, I reflected on your question about [topic]. I wanted to clarify that [brief, corrected answer]." Keep this correction concise and confident. Avoid dwelling on the mistake.
-

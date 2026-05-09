@@ -6,22 +6,22 @@ readTime: "9 min"
 difficulty: "advanced"
 prerequisites: ["introduction", "compute-networks"]
 quiz:
-  - question: "What is verifiable inference?"
-    options:
-      - "Running AI models faster using specialized hardware."
-      - "Cryptographically proving that a specific AI model produced a specific output from a specific input."
-      - "Training AI models on verified datasets."
-      - "Checking if an AI model has been fine-tuned."
-    correct: 1
-    explanation: "Verifiable inference uses cryptographic proofs (like ZK proofs or TEE attestations) to prove that a given output was produced by a specific model with specific inputs, without needing to trust the server."
-  - question: "Why is verifiable inference important for on-chain AI?"
-    options:
-      - "It makes smart contracts run faster."
-      - "Smart contracts cannot run AI models natively, so they need a trustworthy way to consume off-chain AI outputs."
-      - "It replaces the need for oracles."
-      - "It allows blockchains to train AI models."
-    correct: 1
-    explanation: "Blockchains are too slow to run AI models directly. Instead, AI runs off-chain, and verifiable inference lets smart contracts trust the result without re-running the computation."
+ - question: "What is verifiable inference?"
+ options:
+ - "Running AI models faster using specialized hardware."
+ - "Cryptographically proving that a specific AI model produced a specific output from a specific input."
+ - "Training AI models on verified datasets."
+ - "Checking if an AI model has been fine-tuned."
+ correct: 1
+ explanation: "Verifiable inference uses cryptographic proofs (like ZK proofs or TEE attestations) to prove that a given output was produced by a specific model with specific inputs, without needing to trust the server."
+ - question: "Why is verifiable inference important for on-chain AI?"
+ options:
+ - "It makes smart contracts run faster."
+ - "Smart contracts cannot run AI models natively, so they need a trustworthy way to consume off-chain AI outputs."
+ - "It replaces the need for oracles."
+ - "It allows blockchains to train AI models."
+ correct: 1
+ explanation: "Blockchains are too slow to run AI models directly. Instead, AI runs off-chain, and verifiable inference lets smart contracts trust the result without re-running the computation."
 ---
 
 ## The Trust Problem

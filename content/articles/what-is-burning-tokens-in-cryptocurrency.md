@@ -34,4 +34,3 @@ By decreasing the total supply of a token, a project can achieve several outcome
 One notable example of token burning is found in [Ethereum](/what-is-ethereum)'s **EIP-1559** update. This update mandates that a portion of the transaction fee (the "base fee") for every transaction on Ethereum is burned. During periods of high network activity, the volume of ETH burned can exceed the amount newly issued to validators, temporarily creating a deflationary environment for ETH.
 
 Token burning serves as a powerful instrument in the **[tokenomics](/understanding-tokenomics)** toolkit. It allows projects to actively manage their economic policy, create scarcity, and reward long-term holders.
-

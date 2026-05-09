@@ -22,11 +22,11 @@ The Analyst role serves as the entry-level position for recent graduates, typica
 
 - **Primary Role:** Data collection and analysis. Analysts form the engine of the project team.
 - **Key Responsibilities:**
-    - Conducting market research and gathering relevant data.
-    - Building financial models and analyzing data in Excel.
-    - Creating presentations in PowerPoint.
-    - Documenting notes during client meetings and interviews.
-    - Collaborating closely with senior team members to execute analysis plans.
+ - Conducting market research and gathering relevant data.
+ - Building financial models and analyzing data in Excel.
+ - Creating presentations in PowerPoint.
+ - Documenting notes during client meetings and interviews.
+ - Collaborating closely with senior team members to execute analysis plans.
 - **Skills Developed:** Analysts hone analytical skills, mastering tools like Excel and PowerPoint. They learn to structure problems, analyze data, and present findings effectively.
 - **Lifestyle:** The role demands long hours, often reaching significant workloads, and extensive travel. Analysts frequently travel each Monday morning. The culture is intense, emphasizing high performance and an "up-or-out" mentality.
 
@@ -38,11 +38,11 @@ Consultants typically occupy this post-MBA or post-promotion level. This role ma
 
 - **Primary Role:** Leading a specific "workstream" within the project.
 - **Key Responsibilities:**
-    - Structuring problems for the workstream and developing analysis plans.
-    - Managing Analysts working on the workstream, guiding their analysis and reviewing their outputs.
-    - Presenting findings for the workstream to the client.
-    - Building relationships with client counterparts at the managerial level.
-    - Synthesizing team findings into a cohesive narrative.
+ - Structuring problems for the workstream and developing analysis plans.
+ - Managing Analysts working on the workstream, guiding their analysis and reviewing their outputs.
+ - Presenting findings for the workstream to the client.
+ - Building relationships with client counterparts at the managerial level.
+ - Synthesizing team findings into a cohesive narrative.
 - **Skills Developed:** Consultants cultivate project and people management skills. They learn how to lead small teams, structure complex problems, and communicate effectively with clients.
 - **Lifestyle:** While hours remain demanding, Consultants gain more control over their work, shifting focus from execution to problem-solving and client interaction.
 
@@ -52,11 +52,11 @@ After two to three years in the Consultant role, high-performing individuals can
 
 - **Primary Role:** Managing the entire project lifecycle.
 - **Key Responsibilities:**
-    - Acting as the primary contact for the client.
-    - Developing project plans and timelines.
-    - Leading teams of Consultants and Analysts, ensuring quality and professional growth.
-    - Managing the project budget and timeline.
-    - Synthesizing team outputs into final presentations for senior executives.
+ - Acting as the primary contact for the client.
+ - Developing project plans and timelines.
+ - Leading teams of Consultants and Analysts, ensuring quality and professional growth.
+ - Managing the project budget and timeline.
+ - Synthesizing team outputs into final presentations for senior executives.
 - **Skills Developed:** This role serves as a masterclass in project and client management. Managers learn to lead teams, manage stakeholder relationships, and deliver complex projects on time and within budget.
 - **Lifestyle:** The pressure is substantial, as Managers are accountable for project success and client satisfaction. Travel and long hours persist, but the focus shifts toward managerial tasks rather than analysis.
 
@@ -66,10 +66,10 @@ As a Principal, individuals transition from project delivery to business develop
 
 - **Primary Role:** Overseeing multiple projects and building client relationships.
 - **Key Responsibilities:**
-    - Managing several project teams while serving as a senior advisor to Engagement Managers.
-    - Building strong relationships with senior clients to identify opportunities for new projects.
-    - Leading proposal creation and sales efforts for new work.
-    - Developing industry-specific expertise, such as in healthcare or marketing strategy.
+ - Managing several project teams while serving as a senior advisor to Engagement Managers.
+ - Building strong relationships with senior clients to identify opportunities for new projects.
+ - Leading proposal creation and sales efforts for new work.
+ - Developing industry-specific expertise, such as in healthcare or marketing strategy.
 - **Skills Developed:** The emphasis is now on business development, relationship management, and thought leadership. Principals learn to build a book of business.
 
 ### Level 5: Partner
@@ -78,14 +78,13 @@ The Partner role represents the apex of the consulting career path. As a Partner
 
 - **Primary Role:** Selling projects and overseeing firm operations.
 - **Key Responsibilities:**
-    - Managing relationships with C-suite executives at major client organizations.
-    - Establishing strategic direction for practice areas.
-    - Meeting revenue targets, which can involve selling significant amounts in consulting work annually.
-    - Mentoring junior firm members.
-    - Acting as a thought leader by publishing articles and speaking at conferences.
+ - Managing relationships with C-suite executives at major client organizations.
+ - Establishing strategic direction for practice areas.
+ - Meeting revenue targets, which can involve selling significant amounts in consulting work annually.
+ - Mentoring junior firm members.
+ - Acting as a thought leader by publishing articles and speaking at conferences.
 - **Lifestyle:** While hours can still be demanding, Partners enjoy substantial autonomy. Their roles primarily focus on sales, relationship management, and firm leadership, often accompanied by significant financial rewards.
 
 ## Importance of Understanding the Consulting Career Path
 
 Understanding the consulting career path is essential for professional advancement. Professionals who master the required skills distinguish themselves, often commanding higher salaries and faster promotions. This principle holds particularly true in [Web3](/what-is-web3) organizations, where effective communication and collaboration play critical roles.
-

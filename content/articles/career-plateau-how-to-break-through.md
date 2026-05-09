@@ -20,14 +20,14 @@ The positive aspect is that a plateau is not an endpoint; it represents a junctu
 
 Recognizing the signs of a career plateau is important to taking action. Here are some specific indicators:
 
-| Sign                          | Description                                                                                  |
+| Sign | Description |
 |-------------------------------|----------------------------------------------------------------------------------------------|
-| **Boredom**                   | You find your tasks repetitive and uninspiring, often feeling disengaged from your work.      |
-| **Stagnant Learning**         | You haven't picked up any new skills or faced challenges in recent months.                   |
-| **Lack of Advancement**       | No clear path for promotion exists, and roles above you seem locked by others in place.      |
-| **Overlooked for Projects**   | Exciting new initiatives and challenging assignments are consistently assigned to others.     |
-| **Limited Network Growth**     | Your professional circle remains stagnant, with few new connections made in recent times.     |
-| **Diminished Motivation**     | Your drive has lessened, leading you to go through the motions primarily for a paycheck.     |
+| **Boredom** | You find your tasks repetitive and uninspiring, often feeling disengaged from your work. |
+| **Stagnant Learning** | You haven't picked up any new skills or faced challenges in recent months. |
+| **Lack of Advancement** | No clear path for promotion exists, and roles above you seem locked by others in place. |
+| **Overlooked for Projects** | Exciting new initiatives and challenging assignments are consistently assigned to others. |
+| **Limited Network Growth** | Your professional circle remains stagnant, with few new connections made in recent times. |
+| **Diminished Motivation** | Your drive has lessened, leading you to go through the motions primarily for a paycheck. |
 
 If you identify with several of these signs, it is time to take proactive steps to break through the plateau.
 
@@ -96,4 +96,3 @@ If you are satisfied with your current role and it provides a good work-life bal
 **5. Can a lateral move to a different team benefit my career?**
 
 Absolutely. A lateral move exposes you to new challenges, different aspects of the business, and a new professional network. This experience can enhance your skill set and open up advancement opportunities that were not available in your previous role.
-

@@ -17,19 +17,19 @@ This article outlines the Web3 marketing career path. It details various roles, 
 
 The traditional marketing funnel, Awareness, Interest, Decision, Action, transforms in the Web3 context. The focus shifts from converting customers to nurturing a community.
 
-| Stage                   | Description                                                                                       |
+| Stage | Description |
 |-------------------------|---------------------------------------------------------------------------------------------------|
-| **Discovery**           | Users discover your project via Twitter, podcasts, or reputable media outlets like Bankless or The Defiant, rather than through traditional ads. |
+| **Discovery** | Users discover your project via Twitter, podcasts, or reputable media outlets like Bankless or The Defiant, rather than through traditional ads. |
 | **Immersion (The Rabbit Hole)** | A potential user joins your Discord community, engaging in a passive learning phase. Your marketing goal is to educate and set the community’s tone. Is the environment welcoming? Is the dialogue insightful? |
-| **Contribution**        | Users begin participating by asking questions, assisting newcomers, or commenting on governance proposals. |
-| **Ownership**           | Users transition from passive observers to active owners by acquiring the project’s [token](/what-is-a-token), using the protocol, or purchasing an [NFT](/what-are-nfts). |
+| **Contribution** | Users begin participating by asking questions, assisting newcomers, or commenting on governance proposals. |
+| **Ownership** | Users transition from passive observers to active owners by acquiring the project’s [token](/what-is-a-token), using the protocol, or purchasing an [NFT](/what-are-nfts). |
 
 ### Key Marketing Roles in Web3
 
 The marketing team within a Web3 project consists of various specialized roles.
 
 1. **Community Manager:** This role is vital for building an engaged and welcoming environment on platforms like Discord and Telegram. Community Managers serve as the first line of defense and the heartbeat of the community.
-   
+
 2. **Content Marketer / Strategist:** These professionals craft blog posts, documentation, and Twitter threads that articulate the project’s vision and technology, simplifying complex concepts for the audience.
 
 3. **Social Media Manager (Twitter Guru):** Twitter serves as the primary communication hub for Web3. This role requires expertise in the platform, engagement in broader conversations, relationship-building with influencers, and creative meme production.
@@ -61,4 +61,3 @@ Your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary to your 
 - **Resilience:** The volatility of the market and the demands of the community require thick skin and the ability to manage chaotic situations effectively.
 
 A career in Web3 marketing allows involvement in reshaping a cultural and technological narrative. It presents opportunities to build brands co-owned by their communities and to shape the future of marketing.
-

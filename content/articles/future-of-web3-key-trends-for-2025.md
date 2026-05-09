@@ -24,11 +24,11 @@ The debate over monolithic versus modular blockchains has persisted for years. I
 
 Modularity unbundles the core functions of a blockchain into distinct layers:
 
-| Layer Type            | Description                                                                                      | Examples                                             |
+| Layer Type | Description | Examples |
 |----------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| **Execution Layer**  | Processes transactions and runs [smart contracts](/what-are-smart-contracts). This layer includes rollups like Arbitrum, Optimism, and zkSync. | Arbitrum, Optimism, zkSync                           |
-| **Settlement Layer** | Acts as the core source of truth and security, verifying transaction validity. Ethereum remains the primary settlement layer for most of the Web3 ecosystem. | Ethereum                                            |
-| **Data Availability Layer** | Focuses on storing and making transaction data accessible for verification. This has been a significant bottleneck for rollups. | Celestia, EigenDA, Avail                            |
+| **Execution Layer** | Processes transactions and runs [smart contracts](/what-are-smart-contracts). This layer includes rollups like Arbitrum, Optimism, and zkSync. | Arbitrum, Optimism, zkSync |
+| **Settlement Layer** | Acts as the core source of truth and security, verifying transaction validity. Ethereum remains the primary settlement layer for most of the Web3 ecosystem. | Ethereum |
+| **Data Availability Layer** | Focuses on storing and making transaction data accessible for verification. This has been a significant bottleneck for rollups. | Celestia, EigenDA, Avail |
 
 ### The Rise of Dedicated Data Availability Layers
 
@@ -81,11 +81,10 @@ Projects like Ondo Finance and Centrifuge are constructing the infrastructure ne
 
 ### The Benefits of Tokenization
 
-| Benefit               | Description                                                                                         |
+| Benefit | Description |
 |----------------------|-----------------------------------------------------------------------------------------------------|
-| **Liquidity**        | Tokenization enhances liquidity for traditionally illiquid assets such as real estate and private credit. |
-| **Accessibility**    | It enables fractional ownership, allowing smaller investors to access asset classes once restricted to institutions. |
-| **Transparency**     | Public blockchains record all transactions, enhancing transparency and reducing reliance on intermediaries. |
+| **Liquidity** | Tokenization enhances liquidity for traditionally illiquid assets such as real estate and private credit. |
+| **Accessibility** | It enables fractional ownership, allowing smaller investors to access asset classes once restricted to institutions. |
+| **Transparency** | Public blockchains record all transactions, enhancing transparency and reducing reliance on intermediaries. |
 
 In 2025, we anticipate a growing pipeline of assets being tokenized and integrated into DeFi protocols, bridging the divide between traditional and decentralized financial systems.
-

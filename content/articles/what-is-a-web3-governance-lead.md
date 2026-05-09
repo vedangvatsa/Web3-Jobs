@@ -34,10 +34,10 @@ The Governance Lead's role is to design and manage systems that address these ch
 The Governance Lead serves as the architect of the decision-making process.
 
 - **Proposal Lifecycle:** They establish a clear, multi-stage lifecycle for proposals:
-  1. **Informal Discussion (Discord):** Initial ideas are debated.
-  2. **Formal Proposal (Forum):** Ideas are structured into formal proposals on a platform like Discourse.
-  3. **Temperature Check (Snapshot):** An off-chain, gasless vote gauges community sentiment.
-  4. **On-Chain Vote:** If the temperature check is successful, the proposal proceeds to a binding on-chain vote.
+ 1. **Informal Discussion (Discord):** Initial ideas are debated.
+ 2. **Formal Proposal (Forum):** Ideas are structured into formal proposals on a platform like Discourse.
+ 3. **Temperature Check (Snapshot):** An off-chain, gasless vote gauges community sentiment.
+ 4. **On-Chain Vote:** If the temperature check is successful, the proposal proceeds to a binding on-chain vote.
 - **Tooling Management:** The Governance Lead oversees the governance tools, including the Discourse forum, Snapshot page, and on-chain voting platforms.
 
 **2. Facilitating Governance Processes**
@@ -66,13 +66,12 @@ The Governance Lead serves as a vital connection between the decentralized commu
 
 This role does not require extensive technical expertise, but a solid understanding of the technology is essential. The ideal Governance Lead has a "T-shaped" profile.
 
-| Skill                     | Description                                                                                   |
+| Skill | Description |
 |--------------------------|-----------------------------------------------------------------------------------------------|
-| **Exceptional Communication** | Must excel in both written and verbal communication, capable of facilitating discussions.     |
-| **Process-Oriented Mind**     | Enjoys designing systems and frameworks to bring order to chaos, with a background in project management. |
-| **Neutrality and Diplomacy**  | Capable of acting as a neutral party and de-escalating conflicts while building consensus.       |
-| **Deep Protocol Knowledge**    | Possesses a thorough understanding of the protocol to grasp the implications of various proposals. |
-| **Resilience**               | Able to handle public criticism and manage contentious situations within DAO governance.    |
+| **Exceptional Communication** | Must excel in both written and verbal communication, capable of facilitating discussions. |
+| **Process-Oriented Mind** | Enjoys designing systems and frameworks to bring order to chaos, with a background in project management. |
+| **Neutrality and Diplomacy** | Capable of acting as a neutral party and de-escalating conflicts while building consensus. |
+| **Deep Protocol Knowledge** | Possesses a thorough understanding of the protocol to grasp the implications of various proposals. |
+| **Resilience** | Able to handle public criticism and manage contentious situations within DAO governance. |
 
 The emergence of the Governance Lead reflects the maturation of the DAO ecosystem. This shift represents a transition from chaotic, unstructured communities to more sophisticated, professionally managed decentralized organizations. For those interested in shaping the future of governance and online collaboration, this role offers both challenges and opportunities.
-

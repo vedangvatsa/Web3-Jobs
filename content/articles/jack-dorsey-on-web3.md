@@ -24,11 +24,11 @@ In contrast, Dorsey champions “Web5: The Decentralized Web Platform,” announ
 
 The main components of Web5 are:
 
-| Component                         | Description                                                                                     |
+| Component | Description |
 |-----------------------------------|-------------------------------------------------------------------------------------------------|
-| **Decentralized Identifiers (DIDs)** | Self-owned digital identities independent from corporations or third parties.                  |
-| **Decentralized Web Nodes (DWNs)**  | Personal data stores that manage both public and encrypted data, granting users access control. |
-| **Bitcoin as the Trust Anchor**     | The Bitcoin [blockchain](/what-is-a-blockchain) serves as a secure public key infrastructure.   |
+| **Decentralized Identifiers (DIDs)** | Self-owned digital identities independent from corporations or third parties. |
+| **Decentralized Web Nodes (DWNs)** | Personal data stores that manage both public and encrypted data, granting users access control. |
+| **Bitcoin as the Trust Anchor** | The Bitcoin [blockchain](/what-is-a-blockchain) serves as a secure public key infrastructure. |
 
 Dorsey aims to address the identity issues he believes Web3 fails to resolve. He argues that Web3 applications typically require users to connect wallets that do not correlate with their real-world identity, while their data often resides on centralized servers or inefficient systems like IPFS.
 
@@ -55,7 +55,7 @@ Although Bluesky operates independently of Block and does not directly integrate
 
 Dorsey’s perspective on Web3 is both principled and polarizing. His criticism of the VC-driven Web3 ecosystem resonates with individuals disillusioned by speculative behavior and centralized models. By championing Bitcoin as the only verifiably decentralized protocol, he articulates a clear, albeit narrow, vision for the future of finance.
 
-However, his dismissal of the broader ecosystem surrounding Ethereum and other [smart contract](/what-are-smart-contracts) platforms may appear overly simplistic. Innovations in DeFi, NFTs, and [DAOs](/what-is-a-dao) represent some of the most vibrant and creative efforts within Web3.
+However, his dismissal of the broader ecosystem surrounding Ethereum and other [smart contract](/what-are-smart-contracts) platforms may appear overly simplistic. Innovations in DeFi, NFTs, and [DAOs](/what-is-a-dao) represent some of the most active and creative efforts within Web3.
 
 Dorsey is not opposed to a decentralized web; he advocates for a specific iteration of it. He emphasizes that the means of achieving decentralization matters as much as the end goal. For him, the only acceptable approach involves open, decentralized protocols like Bitcoin, rather than ventures backed by VC funding with centralized governance. His initiatives at Block and support for Bluesky reflect his commitment to building a more authentic, enabling digital infrastructure.
 
@@ -80,4 +80,3 @@ No. A fundamental principle of Web5 is its reliance on Bitcoin without introduci
 **Q5: What is Bluesky and how is it related to Twitter (X)?**
 
 Bluesky is an independent project initially incubated at Twitter under Dorsey’s leadership. It aims to develop a decentralized social networking protocol (the AT Protocol), independent of X (formerly Twitter). The goal is to enable multiple social media applications, including a potential future iteration of X, to operate on a shared, open protocol, allowing for user choice and account portability.
-

@@ -40,18 +40,18 @@ Cosmos SDK can also be configured as a permissioned enterprise chain by limiting
 
 ## Feature Comparison Table
 
-| Feature                       | R3 Corda                                                | Cosmos SDK                                        |
+| Feature | R3 Corda | Cosmos SDK |
 |-------------------------------|--------------------------------------------------------|--------------------------------------------------|
-| **Privacy model**             | Point-to-point; only transaction parties see data     | Public by default; privacy requires add-ons or permissioned deployment |
-| **Consensus**                 | Notary services (pluggable; BFT or CFT options)       | Tendermint BFT (CometBFT); instant finality      |
-| **Programming language**      | Kotlin / Java (JVM)                                    | Go (chain logic); any language for clients       |
-| **Transaction throughput**     | Varies by configuration; higher with Corda Enterprise   | Varies depending on configuration      |
-| **Permissioning**             | Permissioned by design; identity via X.509 certificates| Flexible; permissioned or public validator set    |
-| **Interoperability**          | Limited; Corda Network and bilateral integrations       | Native IBC protocol; broad cross-chain messaging  |
-| **Smart contract model**      | CorDapps (states + contracts + flows); legal prose support | SDK modules + optional CosmWasm smart contracts   |
-| **Enterprise support**         | R3 Enterprise tier with SLAs                           | Multiple community support organizations; no single vendor |
-| **License**                   | Apache 2.0 (open source); Corda Enterprise is commercial| Apache 2.0                                     |
-| **Best for**                  | Regulated financial institutions, bilateral settlements | Sovereign chains, DeFi, interoperable ecosystems, hybrid deployments |
+| **Privacy model** | Point-to-point; only transaction parties see data | Public by default; privacy requires add-ons or permissioned deployment |
+| **Consensus** | Notary services (pluggable; BFT or CFT options) | Tendermint BFT (CometBFT); instant finality |
+| **Programming language** | Kotlin / Java (JVM) | Go (chain logic); any language for clients |
+| **Transaction throughput** | Varies by configuration; higher with Corda Enterprise | Varies depending on configuration |
+| **Permissioning** | Permissioned by design; identity via X.509 certificates| Flexible; permissioned or public validator set |
+| **Interoperability** | Limited; Corda Network and bilateral integrations | Native IBC protocol; broad cross-chain messaging |
+| **Smart contract model** | CorDapps (states + contracts + flows); legal prose support | SDK modules + optional CosmWasm smart contracts |
+| **Enterprise support** | R3 Enterprise tier with SLAs | Multiple community support organizations; no single vendor |
+| **License** | Apache 2.0 (open source); Corda Enterprise is commercial| Apache 2.0 |
+| **Best for** | Regulated financial institutions, bilateral settlements | Sovereign chains, DeFi, interoperable ecosystems, hybrid deployments |
 
 ## Architectural Differences
 
@@ -108,4 +108,3 @@ While enterprise permissioned deployments using Cosmos SDK are less publicly doc
 ### Migration Considerations
 
 Transitioning to Corda from an existing system typically requires rebuilding business logic as CorDapps and integrating Corda nodes into current banking middleware. This process often spans multiple years for large institutions. In contrast, migrating to or between Cosmos SDK chains is more manageable, especially when IBC is used, as state can be transferred across chains using the protocol. A notable migration risk with Cosmos involves validator set management and the operational intricacies of maintaining a sovereign chain.
-

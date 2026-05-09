@@ -48,23 +48,23 @@ Transitioning to a 100% renewable energy grid requires more than just adding sol
 
 ### Comparison of Energy Storage Technologies
 
-| Technology                  | Energy Capacity     | Typical Duration of Storage | Application Areas                                   |
+| Technology | Energy Capacity | Typical Duration of Storage | Application Areas |
 |----------------------------|---------------------|-----------------------------|-----------------------------------------------------|
-| Lithium-ion Batteries       | Varies widely       | Minutes to hours           | Residential, commercial, electric vehicles          |
-| Flow Batteries              | Varies widely       | Hours to days              | Industrial, renewable integration                    |
-| Pumped-Storage Hydropower   | Varies widely       | Hours to days              | Large-scale grid storage                             |
-| Compressed Air Energy Storage| Varies widely       | Hours to days              | Utility-scale applications                           |
-| Thermal Storage            | Variable (heat)     | Hours to days              | CSP plants, district heating                         |
+| Lithium-ion Batteries | Varies widely | Minutes to hours | Residential, commercial, electric vehicles |
+| Flow Batteries | Varies widely | Hours to days | Industrial, renewable integration |
+| Pumped-Storage Hydropower | Varies widely | Hours to days | Large-scale grid storage |
+| Compressed Air Energy Storage| Varies widely | Hours to days | Utility-scale applications |
+| Thermal Storage | Variable (heat) | Hours to days | CSP plants, district heating |
 
 ### Frequently Asked Questions (FAQs)
 
-**1. What is the difference between energy and capacity?**  
+**1. What is the difference between energy and capacity?** 
 In energy storage, "capacity" (measured in kilowatt-hours or megawatt-hours) indicates how much energy a system can store. In contrast, "power" (measured in kilowatts or megawatts) refers to the rate at which a system can discharge that energy. A system may exhibit high capacity with low power, meaning it delivers substantial energy over extended periods, or vice versa.
 
-**2. How long can energy storage systems last?**  
+**2. How long can energy storage systems last?** 
 The lifespan depends on the technology used. Lithium-ion batteries typically provide short-duration storage, ranging from a few minutes to about 4-6 hours. Flow batteries and pumped-storage systems cater to long-duration needs, spanning 8 hours to several days. Seasonal storage, which involves storing summer energy for winter use, remains an active research focus.
 
-**3. Are batteries bad for the environment?**  
+**3. Are batteries bad for the environment?** 
 Battery production, particularly the extraction of materials like lithium and cobalt, can have significant environmental and social consequences. Despite this, the overall lifecycle impact of batteries is considerably lower than that of fossil fuel combustion. The industry is also investing in battery recycling initiatives and developing new chemistries using more abundant and less harmful materials.
 
 ### The Importance of Energy Storage
@@ -107,4 +107,3 @@ Regularly evaluate your understanding and application of energy storage concepts
 4. **Ignoring Data**: Make decisions based on solid data analysis rather than assumptions. Quantitative insights help optimize energy storage strategies effectively.
 
 5. **Underestimating the Importance of Policy**: Regulatory changes can significantly influence the energy storage market. Stay aware of local and national policies affecting energy storage technologies.
-

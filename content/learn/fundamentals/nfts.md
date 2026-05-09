@@ -6,46 +6,46 @@ readTime: "9 min"
 difficulty: "beginner"
 prerequisites: ["layer2"]
 quiz:
-  - question: "What makes an NFT 'non-fungible'?"
-    options:
-      - "It cannot be transferred"
-      - "Each token is unique and not interchangeable with another"
-      - "It is more expensive than regular tokens"
-      - "It can only exist on Ethereum"
-    correct: 1
-    explanation: "Non-fungible means unique. One USDC is identical to any other USDC (fungible). But each NFT has a unique token ID and can represent something different — a specific image, a concert ticket, or a deed."
-  - question: "Where is the image for most NFTs stored?"
-    options:
-      - "Directly on the Ethereum blockchain"
-      - "In the smart contract code"
-      - "Off-chain, usually on IPFS or a server, with a link stored on-chain"
-      - "In your wallet"
-    correct: 2
-    explanation: "Storing images on-chain is too expensive. Most NFTs store metadata and images on IPFS (a decentralized file system) or centralized servers. The blockchain only stores the token ID and a link to the metadata."
-  - question: "What standard do most NFTs on Ethereum use?"
-    options:
-      - "ERC-20"
-      - "ERC-721"
-      - "ERC-1559"
-      - "ERC-4626"
-    correct: 1
-    explanation: "ERC-721 is the standard for non-fungible tokens on Ethereum. Each ERC-721 token has a unique ID. ERC-1155 is a newer standard that supports both fungible and non-fungible tokens in one contract."
-  - question: "Which is a real use case for NFTs beyond art?"
-    options:
-      - "Mining cryptocurrency faster"
-      - "Event tickets that cannot be counterfeited"
-      - "Speeding up internet connections"
-      - "Replacing email"
-    correct: 1
-    explanation: "NFTs can represent event tickets (verifiable, non-counterfeitable), domain names (Ethereum Name Service), game items (tradeable across platforms), and membership passes (token-gated communities)."
-  - question: "What does 'royalties' mean for NFTs?"
-    options:
-      - "A tax the government collects"
-      - "A percentage the original creator earns on every resale"
-      - "A fee to mint the NFT"
-      - "The price increase over time"
-    correct: 1
-    explanation: "Some NFT marketplaces enforce royalties — a percentage (often 2.5-10%) of every resale goes back to the original creator. This lets artists earn ongoing revenue from their work."
+ - question: "What makes an NFT 'non-fungible'?"
+ options:
+ - "It cannot be transferred"
+ - "Each token is unique and not interchangeable with another"
+ - "It is more expensive than regular tokens"
+ - "It can only exist on Ethereum"
+ correct: 1
+ explanation: "Non-fungible means unique. One USDC is identical to any other USDC (fungible). But each NFT has a unique token ID and can represent something different — a specific image, a concert ticket, or a deed."
+ - question: "Where is the image for most NFTs stored?"
+ options:
+ - "Directly on the Ethereum blockchain"
+ - "In the smart contract code"
+ - "Off-chain, usually on IPFS or a server, with a link stored on-chain"
+ - "In your wallet"
+ correct: 2
+ explanation: "Storing images on-chain is too expensive. Most NFTs store metadata and images on IPFS (a decentralized file system) or centralized servers. The blockchain only stores the token ID and a link to the metadata."
+ - question: "What standard do most NFTs on Ethereum use?"
+ options:
+ - "ERC-20"
+ - "ERC-721"
+ - "ERC-1559"
+ - "ERC-4626"
+ correct: 1
+ explanation: "ERC-721 is the standard for non-fungible tokens on Ethereum. Each ERC-721 token has a unique ID. ERC-1155 is a newer standard that supports both fungible and non-fungible tokens in one contract."
+ - question: "Which is a real use case for NFTs beyond art?"
+ options:
+ - "Mining cryptocurrency faster"
+ - "Event tickets that cannot be counterfeited"
+ - "Speeding up internet connections"
+ - "Replacing email"
+ correct: 1
+ explanation: "NFTs can represent event tickets (verifiable, non-counterfeitable), domain names (Ethereum Name Service), game items (tradeable across platforms), and membership passes (token-gated communities)."
+ - question: "What does 'royalties' mean for NFTs?"
+ options:
+ - "A tax the government collects"
+ - "A percentage the original creator earns on every resale"
+ - "A fee to mint the NFT"
+ - "The price increase over time"
+ correct: 1
+ explanation: "Some NFT marketplaces enforce royalties — a percentage (often 2.5-10%) of every resale goes back to the original creator. This lets artists earn ongoing revenue from their work."
 ---
 
 ## Beyond the hype
@@ -60,27 +60,27 @@ An NFT is just a number (token ID) stored in a smart contract, linked to a walle
 
 <div class="diagram">
 <svg viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <!-- Smart contract -->
-  <rect x="200" y="20" width="400" height="160" rx="12" fill="#f8fafc" stroke="#334155" stroke-width="1.5"/>
-  <text x="400" y="48" text-anchor="middle" font-size="14" font-weight="bold" fill="#1e293b">NFT Smart Contract (ERC-721)</text>
-  <line x1="220" y1="58" x2="580" y2="58" stroke="#e2e8f0"/>
+ <!-- Smart contract -->
+ <rect x="200" y="20" width="400" height="160" rx="12" fill="#f8fafc" stroke="#334155" stroke-width="1.5"/>
+ <text x="400" y="48" text-anchor="middle" font-size="14" font-weight="bold" fill="#1e293b">NFT Smart Contract (ERC-721)</text>
+ <line x1="220" y1="58" x2="580" y2="58" stroke="#e2e8f0"/>
 
-  <text x="240" y="82" font-size="11" font-weight="600" fill="#334155">Token ID</text>
-  <text x="370" y="82" font-size="11" font-weight="600" fill="#334155">Owner</text>
-  <text x="510" y="82" font-size="11" font-weight="600" fill="#334155">Metadata URI</text>
-  <line x1="220" y1="90" x2="580" y2="90" stroke="#e2e8f0"/>
+ <text x="240" y="82" font-size="11" font-weight="600" fill="#334155">Token ID</text>
+ <text x="370" y="82" font-size="11" font-weight="600" fill="#334155">Owner</text>
+ <text x="510" y="82" font-size="11" font-weight="600" fill="#334155">Metadata URI</text>
+ <line x1="220" y1="90" x2="580" y2="90" stroke="#e2e8f0"/>
 
-  <text x="240" y="110" font-size="11" fill="#64748b">#1</text>
-  <text x="370" y="110" font-size="11" font-family="monospace" fill="#3b82f6">0xA1b2...c3d4</text>
-  <text x="510" y="110" font-size="11" fill="#64748b">ipfs://Qm...abc</text>
+ <text x="240" y="110" font-size="11" fill="#64748b">#1</text>
+ <text x="370" y="110" font-size="11" font-family="monospace" fill="#3b82f6">0xA1b2...c3d4</text>
+ <text x="510" y="110" font-size="11" fill="#64748b">ipfs://Qm...abc</text>
 
-  <text x="240" y="132" font-size="11" fill="#64748b">#2</text>
-  <text x="370" y="132" font-size="11" font-family="monospace" fill="#22c55e">0xE5f6...g7h8</text>
-  <text x="510" y="132" font-size="11" fill="#64748b">ipfs://Qm...def</text>
+ <text x="240" y="132" font-size="11" fill="#64748b">#2</text>
+ <text x="370" y="132" font-size="11" font-family="monospace" fill="#22c55e">0xE5f6...g7h8</text>
+ <text x="510" y="132" font-size="11" fill="#64748b">ipfs://Qm...def</text>
 
-  <text x="240" y="154" font-size="11" fill="#64748b">#3</text>
-  <text x="370" y="154" font-size="11" font-family="monospace" fill="#eab308">0xI9j0...k1l2</text>
-  <text x="510" y="154" font-size="11" fill="#64748b">ipfs://Qm...ghi</text>
+ <text x="240" y="154" font-size="11" fill="#64748b">#3</text>
+ <text x="370" y="154" font-size="11" font-family="monospace" fill="#eab308">0xI9j0...k1l2</text>
+ <text x="510" y="154" font-size="11" fill="#64748b">ipfs://Qm...ghi</text>
 </svg>
 </div>
 

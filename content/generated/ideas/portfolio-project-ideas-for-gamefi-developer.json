@@ -1,365 +1,365 @@
 {
-  "meta": {
-    "contentType": "ideas",
-    "topic": "portfolio",
-    "niche": "gamefi-developer",
-    "generatedAt": "2026-03-13T00:00:00.000Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "45 Portfolio Project Ideas for GameFi Developers",
-    "description": "Discover portfolio project ideas for GameFi developers. From on-chain games to token economies, build projects that showcase your blockchain gaming expertise.",
-    "keywords": ["gamefi-developer", "portfolio", "blockchain-gaming", "NFT", "play-to-earn", "on-chain"],
-    "canonicalSlug": "portfolio-project-ideas-for-gamefi-developer"
-  },
-  "content": {
-    "intro": "GameFi combines game development with blockchain mechanics. These projects help you build skills across smart contracts, game design, and token economics.",
-    "sections": [
-      {
-        "heading": "Fully On-chain Games",
-        "description": "Games where all logic and state live on the blockchain.",
-        "items": [
-          {
-            "title": "On-chain Chess",
-            "description": "Chess with moves validated on-chain. Learn state management and game validation.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "game state", "move validation"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "On-chain Tic-Tac-Toe",
-            "description": "Simple game for learning on-chain game patterns and turn-based mechanics.",
-            "difficulty": "beginner",
-            "skills": ["Solidity", "basic game logic", "turn management"],
-            "estimatedTime": "1 week"
-          },
-          {
-            "title": "Blockchain Lottery",
-            "description": "Fair lottery using Chainlink VRF for provably random draws.",
-            "difficulty": "beginner",
-            "skills": ["Solidity", "Chainlink VRF", "randomness"],
-            "estimatedTime": "2 weeks"
-          },
-          {
-            "title": "On-chain Roguelike",
-            "description": "Procedurally generated dungeon crawler with permanent death and loot.",
-            "difficulty": "advanced",
-            "skills": ["Solidity", "procedural generation", "complex state"],
-            "estimatedTime": "8 weeks"
-          },
-          {
-            "title": "Autonomous World Game",
-            "description": "MUD/OPCraft-style world where anyone can add game logic.",
-            "difficulty": "advanced",
-            "skills": ["MUD framework", "ECS patterns", "composability"],
-            "estimatedTime": "12 weeks"
-          },
-          {
-            "title": "On-chain Card Game",
-            "description": "TCG-style game with deck building and PvP battles.",
-            "difficulty": "advanced",
-            "skills": ["Solidity", "card mechanics", "randomness"],
-            "estimatedTime": "10 weeks"
-          }
-        ]
-      },
-      {
-        "heading": "NFT Game Assets",
-        "description": "NFT systems for game items and characters.",
-        "items": [
-          {
-            "title": "Composable Character NFTs",
-            "description": "Characters built from multiple NFT parts (weapons, armor, accessories).",
-            "difficulty": "intermediate",
-            "skills": ["ERC-721", "composability", "metadata"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Loot-style Item Generation",
-            "description": "Procedurally generated items with on-chain attributes and rarity.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "randomness", "attribute systems"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "NFT Breeding System",
-            "description": "Combine NFTs to create new ones with inherited traits.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "genetics simulation", "cooldowns"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Dynamic NFT Stats",
-            "description": "NFTs that level up and gain stats through gameplay.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "state updates", "metadata refresh"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "NFT Equipment Slots",
-            "description": "Characters with equipment slots that affect gameplay stats.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "item systems", "stat calculation"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "Soulbound Achievement NFTs",
-            "description": "Non-transferable NFTs for in-game achievements and progression.",
-            "difficulty": "beginner",
-            "skills": ["ERC-721", "soulbound tokens", "achievements"],
-            "estimatedTime": "2 weeks"
-          }
-        ]
-      },
-      {
-        "heading": "Token Economics",
-        "description": "Design and implement game economies.",
-        "items": [
-          {
-            "title": "Dual Token Economy",
-            "description": "Implement soft currency (inflationary) and hard currency (deflationary) tokens.",
-            "difficulty": "intermediate",
-            "skills": ["ERC-20", "tokenomics", "inflation control"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Play-to-Earn Rewards System",
-            "description": "Fair reward distribution based on gameplay with anti-bot measures.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "reward mechanics", "Sybil resistance"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "In-game Marketplace",
-            "description": "Player-to-player trading marketplace with fees and royalties.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "escrow", "fee distribution"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Staking for In-game Benefits",
-            "description": "Stake tokens for gameplay advantages without breaking balance.",
-            "difficulty": "intermediate",
-            "skills": ["Staking", "game balance", "time-locks"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "Guild Treasury System",
-            "description": "Shared guild treasury with governance for resource allocation.",
-            "difficulty": "intermediate",
-            "skills": ["Multi-sig", "governance", "treasury management"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Sink Mechanisms",
-            "description": "Design token sinks (crafting, repairs, fees) to balance economy.",
-            "difficulty": "intermediate",
-            "skills": ["Game economics", "burn mechanics", "balance"],
-            "estimatedTime": "3 weeks"
-          }
-        ]
-      },
-      {
-        "heading": "Battle and Competition",
-        "description": "PvP and competitive game mechanics.",
-        "items": [
-          {
-            "title": "Turn-based PvP Battles",
-            "description": "Commit-reveal battles where both players submit moves secretly.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "commit-reveal", "game resolution"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Auto-battler System",
-            "description": "Set up team, watch them fight automatically with deterministic results.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "deterministic combat", "team composition"],
-            "estimatedTime": "5 weeks"
-          },
-          {
-            "title": "Tournament System",
-            "description": "Bracket-based tournaments with prize pools and matchmaking.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "brackets", "prize distribution"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Leaderboard System",
-            "description": "On-chain or hybrid leaderboards with anti-cheat mechanisms.",
-            "difficulty": "intermediate",
-            "skills": ["Ranking algorithms", "verification", "incentives"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "Betting on Matches",
-            "description": "Allow players to bet on PvP match outcomes.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "odds calculation", "payouts"],
-            "estimatedTime": "4 weeks"
-          }
-        ]
-      },
-      {
-        "heading": "Land and Resources",
-        "description": "Virtual land and resource management.",
-        "items": [
-          {
-            "title": "Virtual Land System",
-            "description": "NFT land parcels with location, size, and resource attributes.",
-            "difficulty": "intermediate",
-            "skills": ["ERC-721", "coordinates", "land mechanics"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Resource Gathering",
-            "description": "Time-based resource generation from owned land or staked NFTs.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "time calculations", "yield mechanics"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "Building System",
-            "description": "Construct buildings on land that provide bonuses or produce resources.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "construction mechanics", "upgrades"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Land Rental Protocol",
-            "description": "Allow landowners to rent to players and split rewards.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "rental mechanics", "revenue share"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Territory Control",
-            "description": "Guild-based land control with warfare and capture mechanics.",
-            "difficulty": "advanced",
-            "skills": ["Solidity", "territorial mechanics", "guild systems"],
-            "estimatedTime": "8 weeks"
-          }
-        ]
-      },
-      {
-        "heading": "Crafting and Progression",
-        "description": "Item crafting and character progression systems.",
-        "items": [
-          {
-            "title": "Crafting System",
-            "description": "Combine items and resources to create new NFTs.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "recipes", "resource burning"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "Item Enhancement",
-            "description": "Upgrade items with success/failure chances and material costs.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "randomness", "risk mechanics"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "Skill Tree System",
-            "description": "On-chain skill trees with prerequisites and unlocks.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "progression trees", "unlock mechanics"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Quest System",
-            "description": "On-chain quests with requirements, rewards, and completion tracking.",
-            "difficulty": "intermediate",
-            "skills": ["Solidity", "quest mechanics", "reward distribution"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Achievement System",
-            "description": "Track and reward player achievements with NFT badges.",
-            "difficulty": "beginner",
-            "skills": ["Solidity", "event tracking", "badge NFTs"],
-            "estimatedTime": "2 weeks"
-          }
-        ]
-      },
-      {
-        "heading": "Game Infrastructure",
-        "description": "Backend systems for blockchain games.",
-        "items": [
-          {
-            "title": "Game State Indexer",
-            "description": "Index on-chain game state for fast queries and leaderboards.",
-            "difficulty": "intermediate",
-            "skills": ["The Graph", "indexing", "game data"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "Hybrid Game Backend",
-            "description": "Server that validates off-chain gameplay and commits results on-chain.",
-            "difficulty": "advanced",
-            "skills": ["Node.js", "Solidity", "game servers"],
-            "estimatedTime": "8 weeks"
-          },
-          {
-            "title": "Replay System",
-            "description": "Record and replay game sessions for verification and spectating.",
-            "difficulty": "intermediate",
-            "skills": ["State recording", "playback", "verification"],
-            "estimatedTime": "4 weeks"
-          },
-          {
-            "title": "Anti-cheat Oracle",
-            "description": "Oracle that validates off-chain gameplay before on-chain settlement.",
-            "difficulty": "advanced",
-            "skills": ["Oracles", "game validation", "fraud proofs"],
-            "estimatedTime": "6 weeks"
-          },
-          {
-            "title": "Cross-game Asset Protocol",
-            "description": "Standard for using NFTs across multiple games.",
-            "difficulty": "advanced",
-            "skills": ["Standards", "interoperability", "metadata"],
-            "estimatedTime": "6 weeks"
-          }
-        ]
-      }
-    ],
-    "gettingStarted": [
-      {
-        "step": 1,
-        "title": "Start with simple on-chain games",
-        "description": "Build tic-tac-toe or similar to understand on-chain game patterns."
-      },
-      {
-        "step": 2,
-        "title": "Learn game economics",
-        "description": "Study existing GameFi projects. Understand why some economies fail."
-      },
-      {
-        "step": 3,
-        "title": "Explore the MUD framework",
-        "description": "MUD simplifies building complex on-chain games with ECS patterns."
-      },
-      {
-        "step": 4,
-        "title": "Balance fun and earnings",
-        "description": "The best GameFi projects are fun first, earning second."
-      },
-      {
-        "step": 5,
-        "title": "Study failed projects",
-        "description": "Learn from Axie Infinity's economic challenges and others."
-      }
-    ],
-    "relatedResources": [
-      {
-        "title": "Development Tools for NFT Developers",
-        "slug": "development-tools-for-nft-developer"
-      },
-      {
-        "title": "Security Checklist for Solidity Developers",
-        "slug": "security-checklists-for-solidity-developer"
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "ideas",
+ "topic": "portfolio",
+ "niche": "gamefi-developer",
+ "generatedAt": "2026-03-13T00:00:00.000Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "45 Portfolio Project Ideas for GameFi Developers",
+ "description": "Discover portfolio project ideas for GameFi developers. From on-chain games to token economies, build projects that showcase your blockchain gaming expertise.",
+ "keywords": ["gamefi-developer", "portfolio", "blockchain-gaming", "NFT", "play-to-earn", "on-chain"],
+ "canonicalSlug": "portfolio-project-ideas-for-gamefi-developer"
+ },
+ "content": {
+ "intro": "GameFi combines game development with blockchain mechanics. These projects help you build skills across smart contracts, game design, and token economics.",
+ "sections": [
+ {
+ "heading": "Fully On-chain Games",
+ "description": "Games where all logic and state live on the blockchain.",
+ "items": [
+ {
+ "title": "On-chain Chess",
+ "description": "Chess with moves validated on-chain. Learn state management and game validation.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "game state", "move validation"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "On-chain Tic-Tac-Toe",
+ "description": "Simple game for learning on-chain game patterns and turn-based mechanics.",
+ "difficulty": "beginner",
+ "skills": ["Solidity", "basic game logic", "turn management"],
+ "estimatedTime": "1 week"
+ },
+ {
+ "title": "Blockchain Lottery",
+ "description": "Fair lottery using Chainlink VRF for provably random draws.",
+ "difficulty": "beginner",
+ "skills": ["Solidity", "Chainlink VRF", "randomness"],
+ "estimatedTime": "2 weeks"
+ },
+ {
+ "title": "On-chain Roguelike",
+ "description": "Procedurally generated dungeon crawler with permanent death and loot.",
+ "difficulty": "advanced",
+ "skills": ["Solidity", "procedural generation", "complex state"],
+ "estimatedTime": "8 weeks"
+ },
+ {
+ "title": "Autonomous World Game",
+ "description": "MUD/OPCraft-style world where anyone can add game logic.",
+ "difficulty": "advanced",
+ "skills": ["MUD framework", "ECS patterns", "composability"],
+ "estimatedTime": "12 weeks"
+ },
+ {
+ "title": "On-chain Card Game",
+ "description": "TCG-style game with deck building and PvP battles.",
+ "difficulty": "advanced",
+ "skills": ["Solidity", "card mechanics", "randomness"],
+ "estimatedTime": "10 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "NFT Game Assets",
+ "description": "NFT systems for game items and characters.",
+ "items": [
+ {
+ "title": "Composable Character NFTs",
+ "description": "Characters built from multiple NFT parts (weapons, armor, accessories).",
+ "difficulty": "intermediate",
+ "skills": ["ERC-721", "composability", "metadata"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Loot-style Item Generation",
+ "description": "Procedurally generated items with on-chain attributes and rarity.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "randomness", "attribute systems"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "NFT Breeding System",
+ "description": "Combine NFTs to create new ones with inherited traits.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "genetics simulation", "cooldowns"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Dynamic NFT Stats",
+ "description": "NFTs that level up and gain stats through gameplay.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "state updates", "metadata refresh"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "NFT Equipment Slots",
+ "description": "Characters with equipment slots that affect gameplay stats.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "item systems", "stat calculation"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Soulbound Achievement NFTs",
+ "description": "Non-transferable NFTs for in-game achievements and progression.",
+ "difficulty": "beginner",
+ "skills": ["ERC-721", "soulbound tokens", "achievements"],
+ "estimatedTime": "2 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Token Economics",
+ "description": "Design and implement game economies.",
+ "items": [
+ {
+ "title": "Dual Token Economy",
+ "description": "Implement soft currency (inflationary) and hard currency (deflationary) tokens.",
+ "difficulty": "intermediate",
+ "skills": ["ERC-20", "tokenomics", "inflation control"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Play-to-Earn Rewards System",
+ "description": "Fair reward distribution based on gameplay with anti-bot measures.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "reward mechanics", "Sybil resistance"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "In-game Marketplace",
+ "description": "Player-to-player trading marketplace with fees and royalties.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "escrow", "fee distribution"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Staking for In-game Benefits",
+ "description": "Stake tokens for gameplay advantages without breaking balance.",
+ "difficulty": "intermediate",
+ "skills": ["Staking", "game balance", "time-locks"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Guild Treasury System",
+ "description": "Shared guild treasury with governance for resource allocation.",
+ "difficulty": "intermediate",
+ "skills": ["Multi-sig", "governance", "treasury management"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Sink Mechanisms",
+ "description": "Design token sinks (crafting, repairs, fees) to balance economy.",
+ "difficulty": "intermediate",
+ "skills": ["Game economics", "burn mechanics", "balance"],
+ "estimatedTime": "3 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Battle and Competition",
+ "description": "PvP and competitive game mechanics.",
+ "items": [
+ {
+ "title": "Turn-based PvP Battles",
+ "description": "Commit-reveal battles where both players submit moves secretly.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "commit-reveal", "game resolution"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Auto-battler System",
+ "description": "Set up team, watch them fight automatically with deterministic results.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "deterministic combat", "team composition"],
+ "estimatedTime": "5 weeks"
+ },
+ {
+ "title": "Tournament System",
+ "description": "Bracket-based tournaments with prize pools and matchmaking.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "brackets", "prize distribution"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Leaderboard System",
+ "description": "On-chain or hybrid leaderboards with anti-cheat mechanisms.",
+ "difficulty": "intermediate",
+ "skills": ["Ranking algorithms", "verification", "incentives"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Betting on Matches",
+ "description": "Allow players to bet on PvP match outcomes.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "odds calculation", "payouts"],
+ "estimatedTime": "4 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Land and Resources",
+ "description": "Virtual land and resource management.",
+ "items": [
+ {
+ "title": "Virtual Land System",
+ "description": "NFT land parcels with location, size, and resource attributes.",
+ "difficulty": "intermediate",
+ "skills": ["ERC-721", "coordinates", "land mechanics"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Resource Gathering",
+ "description": "Time-based resource generation from owned land or staked NFTs.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "time calculations", "yield mechanics"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Building System",
+ "description": "Construct buildings on land that provide bonuses or produce resources.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "construction mechanics", "upgrades"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Land Rental Protocol",
+ "description": "Allow landowners to rent to players and split rewards.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "rental mechanics", "revenue share"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Territory Control",
+ "description": "Guild-based land control with warfare and capture mechanics.",
+ "difficulty": "advanced",
+ "skills": ["Solidity", "territorial mechanics", "guild systems"],
+ "estimatedTime": "8 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Crafting and Progression",
+ "description": "Item crafting and character progression systems.",
+ "items": [
+ {
+ "title": "Crafting System",
+ "description": "Combine items and resources to create new NFTs.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "recipes", "resource burning"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Item Enhancement",
+ "description": "Upgrade items with success/failure chances and material costs.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "randomness", "risk mechanics"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Skill Tree System",
+ "description": "On-chain skill trees with prerequisites and unlocks.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "progression trees", "unlock mechanics"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Quest System",
+ "description": "On-chain quests with requirements, rewards, and completion tracking.",
+ "difficulty": "intermediate",
+ "skills": ["Solidity", "quest mechanics", "reward distribution"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Achievement System",
+ "description": "Track and reward player achievements with NFT badges.",
+ "difficulty": "beginner",
+ "skills": ["Solidity", "event tracking", "badge NFTs"],
+ "estimatedTime": "2 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Game Infrastructure",
+ "description": "Backend systems for blockchain games.",
+ "items": [
+ {
+ "title": "Game State Indexer",
+ "description": "Index on-chain game state for fast queries and leaderboards.",
+ "difficulty": "intermediate",
+ "skills": ["The Graph", "indexing", "game data"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Hybrid Game Backend",
+ "description": "Server that validates off-chain gameplay and commits results on-chain.",
+ "difficulty": "advanced",
+ "skills": ["Node.js", "Solidity", "game servers"],
+ "estimatedTime": "8 weeks"
+ },
+ {
+ "title": "Replay System",
+ "description": "Record and replay game sessions for verification and spectating.",
+ "difficulty": "intermediate",
+ "skills": ["State recording", "playback", "verification"],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Anti-cheat Oracle",
+ "description": "Oracle that validates off-chain gameplay before on-chain settlement.",
+ "difficulty": "advanced",
+ "skills": ["Oracles", "game validation", "fraud proofs"],
+ "estimatedTime": "6 weeks"
+ },
+ {
+ "title": "Cross-game Asset Protocol",
+ "description": "Standard for using NFTs across multiple games.",
+ "difficulty": "advanced",
+ "skills": ["Standards", "interoperability", "metadata"],
+ "estimatedTime": "6 weeks"
+ }
+ ]
+ }
+ ],
+ "gettingStarted": [
+ {
+ "step": 1,
+ "title": "Start with simple on-chain games",
+ "description": "Build tic-tac-toe or similar to understand on-chain game patterns."
+ },
+ {
+ "step": 2,
+ "title": "Learn game economics",
+ "description": "Study existing GameFi projects. Understand why some economies fail."
+ },
+ {
+ "step": 3,
+ "title": "Explore the MUD framework",
+ "description": "MUD simplifies building complex on-chain games with ECS patterns."
+ },
+ {
+ "step": 4,
+ "title": "Balance fun and earnings",
+ "description": "The best GameFi projects are fun first, earning second."
+ },
+ {
+ "step": 5,
+ "title": "Study failed projects",
+ "description": "Learn from Axie Infinity's economic challenges and others."
+ }
+ ],
+ "relatedResources": [
+ {
+ "title": "Development Tools for NFT Developers",
+ "slug": "development-tools-for-nft-developer"
+ },
+ {
+ "title": "Security Checklist for Solidity Developers",
+ "slug": "security-checklists-for-solidity-developer"
+ }
+ ]
+ }
 }

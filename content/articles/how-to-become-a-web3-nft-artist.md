@@ -37,30 +37,30 @@ With your artwork ready, select a platform for minting and selling. Various NFT 
 
 Curated marketplaces resemble high-end art galleries. Artists must apply and gain acceptance to mint on these platforms, making them ideal for those creating unique, single-edition (1-of-1) pieces.
 
-| Marketplace   | Description                                     |
+| Marketplace | Description |
 |---------------|-------------------------------------------------|
-| SuperRare     | Highly prestigious, focuses on fine art.       |
-| Foundation    | Respected for its clean aesthetic and strong community. |
+| SuperRare | Highly prestigious, focuses on fine art. |
+| Foundation | Respected for its clean aesthetic and strong community. |
 
 #### Open Marketplaces (For Collections and Editions)
 
 Open marketplaces welcome everyone to mint NFTs, making them suitable for larger collections, photography, or art available in multiple editions.
 
-| Marketplace   | Description                                     |
+| Marketplace | Description |
 |---------------|-------------------------------------------------|
-| OpenSea       | The largest and most recognized NFT marketplace.|
-| Manifold      | Popular for artists who want to mint with custom [smart contracts](/what-are-smart-contracts) for greater control. |
+| OpenSea | The largest and most recognized NFT marketplace.|
+| Manifold | Popular for artists who want to mint with custom [smart contracts](/what-are-smart-contracts) for greater control. |
 
 ### Step 4: Mint Your NFT
 
 Minting involves publishing your artwork to the blockchain, effectively transforming it into an NFT.
 
 - **The Process:** Although each platform features a unique interface, the general steps include:
-    1. Connect your MetaMask wallet to the marketplace.
-    2. Upload your art file (e.g., PNG or MP4).
-    3. Fill in the metadata, including the title, detailed description, and any properties.
-    4. Set your [royalty percentage](/nft-artist-royalties), which represents the percentage of future secondary sales you will receive.
-    5. Click "Mint" and authorize the transaction through your wallet, which incurs a gas fee.
+ 1. Connect your MetaMask wallet to the marketplace.
+ 2. Upload your art file (e.g., PNG or MP4).
+ 3. Fill in the metadata, including the title, detailed description, and any properties.
+ 4. Set your [royalty percentage](/nft-artist-royalties), which represents the percentage of future secondary sales you will receive.
+ 5. Click "Mint" and authorize the transaction through your wallet, which incurs a gas fee.
 
 Congratulations! Your artwork is now part of the blockchain.
 
@@ -69,11 +69,10 @@ Congratulations! Your artwork is now part of the blockchain.
 Minting your artwork represents just the beginning. Selling requires the establishment of a community that connects with you and your creations. This step often requires the most effort.
 
 - **Twitter is Your Gallery:** Twitter serves as the primary platform for NFT artists.
-    - Regularly share your work, including progress shots and behind-the-scenes content.
-    - Engage with fellow artists and collectors by commenting on their work and asking questions to support a positive community presence.
-    - Cultivate authentic relationships rather than solely promoting your own work.
+ - Regularly share your work, including progress shots and behind-the-scenes content.
+ - Engage with fellow artists and collectors by commenting on their work and asking questions to support a positive community presence.
+ - Cultivate authentic relationships rather than solely promoting your own work.
 - **Tell Your Story:** Explain your creative process and the narratives behind your art. Collectors seek more than just digital assets; they invest in you and your artistic journey. Share your story genuinely.
 - **Connect with Collectors:** Build relationships with individuals collecting in your niche. You do not need a vast audience; a handful of dedicated supporters can significantly impact your career.
 
 Success as an NFT artist requires perseverance. It demands not only artistic talent but also an openness to learning about new technology, strategic marketing, and a commitment to community building. For artists willing to invest the effort, the NFT space provides a unique avenue to showcase their art and create a sustainable career.
-

@@ -24,11 +24,11 @@ The key is to refrain from acting on these immediate feelings. Avoid sending an 
 
 It might be tempting to delete the rejection email and move on. However, responding with a brief and professional message is generally advisable. Consider these reasons:
 
-| Reason                          | Explanation                                                                                       |
+| Reason | Explanation |
 |---------------------------------|---------------------------------------------------------------------------------------------------|
-| **Showcases Professionalism**   | A respectful response reflects maturity and demonstrates your ability to handle disappointment.   |
-| **Keeps the Door Open**         | The chosen candidate may not work out, or new positions could arise that fit you better.         |
-| **Can Lead to Feedback**        | While not guaranteed, a polite reply may invite constructive feedback that can assist in future applications. |
+| **Showcases Professionalism** | A respectful response reflects maturity and demonstrates your ability to handle disappointment. |
+| **Keeps the Door Open** | The chosen candidate may not work out, or new positions could arise that fit you better. |
+| **Can Lead to Feedback** | While not guaranteed, a polite reply may invite constructive feedback that can assist in future applications. |
 
 ### Crafting the Perfect Response
 
@@ -103,4 +103,3 @@ While acknowledging disappointment is fine, maintain a positive tone. Use constr
 **Should I reapply to the same company later?**
 
 Yes, if you respond to the rejection professionally, you leave the door open for future opportunities. When you find another suitable role, reapply and reference your previous conversation to reaffirm your interest.
-

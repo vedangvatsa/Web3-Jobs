@@ -48,17 +48,16 @@ Online identity represents another significant battleground between Web2 and Web
 
 ### Summary of Differences
 
-| Feature        | Web2 (The Present)                                  | Web3 (The Future)                                     |
+| Feature | Web2 (The Present) | Web3 (The Future) |
 |----------------|-----------------------------------------------------|-------------------------------------------------------|
-| **Architecture** | Centralized (Client-Server)                         | Decentralized (Peer-to-Peer, [Blockchain](/what-is-a-blockchain))              |
-| **Control**      | Governed by Corporations                           | Governed by Communities ([DAOs](/what-is-a-dao))                        |
-| **Data Model**   | Platform owns the data                              | User owns the data                                    |
-| **Economics**    | Attention Economy (Advertising)                     | Ownership Economy (Tokens)                            |
-| **Identity**     | Platform-specific accounts                          | Self-sovereign wallets                                |
-| **Trust**        | Trust in institutions (banks, companies)            | Trust in code and mathematics                         |
-| **Permission**   | Permissioned (Platforms are gatekeepers)            | Permissionless (Anyone can build and participate)   |
+| **Architecture** | Centralized (Client-Server) | Decentralized (Peer-to-Peer, [Blockchain](/what-is-a-blockchain)) |
+| **Control** | Governed by Corporations | Governed by Communities ([DAOs](/what-is-a-dao)) |
+| **Data Model** | Platform owns the data | User owns the data |
+| **Economics** | Attention Economy (Advertising) | Ownership Economy (Tokens) |
+| **Identity** | Platform-specific accounts | Self-sovereign wallets |
+| **Trust** | Trust in institutions (banks, companies) | Trust in code and mathematics |
+| **Permission** | Permissioned (Platforms are gatekeepers) | Permissionless (Anyone can build and participate) |
 
 ### A More Equitable Internet
 
 Web3 encompasses more than just technological advancements; it represents a philosophical and political movement. It responds to the challenges of a centralized internet, such as data monopolies, censorship, and misaligned incentives within the attention economy. By using blockchain technology to establish a decentralized foundation, Web3 seeks to create a more open, equitable, and user-owned internet. This transition is complex, yet the fundamental differences in architecture and values signal one of the most significant shifts in internet history.
-

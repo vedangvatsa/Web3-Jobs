@@ -173,4 +173,3 @@ Projects that collapse:
 - Mislead their community
 - Fail to execute on promises
 - Lose community trust through poor decisions
-

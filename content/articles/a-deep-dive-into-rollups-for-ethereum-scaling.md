@@ -28,35 +28,35 @@ The effectiveness of rollups stems from their architecture, which separates tran
 Optimistic Rollups, including **Arbitrum** and **Optimism**, represent the most mature and widely implemented rollup technology today. They use a straightforward yet effective security model.
 
 - **How they work:**
-    - A "sequencer" operator bundles transactions and posts them to Layer 1.
-    - The sequencer optimistically asserts the validity of all transactions without providing initial proof.
-    - This action initiates a **challenge period**, typically lasting several days.
-    - During this period, any honest node can review the posted data. If a fraudulent transaction is detected, the node can submit a **"fraud proof"** to the Layer 1 smart contract.
-    - If the fraud proof is validated, the fraudulent transaction is reversed, and the dishonest sequencer incurs a penalty by losing a portion of their staked ETH. If no challenges arise within the challenge period, the transactions are deemed final.
+ - A "sequencer" operator bundles transactions and posts them to Layer 1.
+ - The sequencer optimistically asserts the validity of all transactions without providing initial proof.
+ - This action initiates a **challenge period**, typically lasting several days.
+ - During this period, any honest node can review the posted data. If a fraudulent transaction is detected, the node can submit a **"fraud proof"** to the Layer 1 smart contract.
+ - If the fraud proof is validated, the fraudulent transaction is reversed, and the dishonest sequencer incurs a penalty by losing a portion of their staked ETH. If no challenges arise within the challenge period, the transactions are deemed final.
 
 - **Advantages:**
-    - **EVM Compatibility:** Optimistic Rollups are generally fully compatible with the Ethereum Virtual Machine (EVM), enabling existing Ethereum dApps to migrate easily.
-    - **Proven Technology:** The technology behind Optimistic Rollups is well-established and has undergone extensive testing.
+ - **EVM Compatibility:** Optimistic Rollups are generally fully compatible with the Ethereum Virtual Machine (EVM), enabling existing Ethereum dApps to migrate easily.
+ - **Proven Technology:** The technology behind Optimistic Rollups is well-established and has undergone extensive testing.
 
 - **Disadvantages:**
-    - **Withdrawal Delays:** Users must wait for a period to withdraw funds back to the Ethereum mainnet due to the challenge period. Although third-party "fast bridges" can expedite withdrawals, they introduce additional costs and trust issues.
+ - **Withdrawal Delays:** Users must wait for a period to withdraw funds back to the Ethereum mainnet due to the challenge period. Although third-party "fast bridges" can expedite withdrawals, they introduce additional costs and trust issues.
 
 ### ZK-Rollups: Guilty Until Proven Innocent
 
 Zero-Knowledge Rollups, such as **zkSync**, **Starknet**, and **Polygon zkEVM**, use advanced cryptographic techniques to enhance security and efficiency.
 
 - **How they work:**
-    - The sequencer bundles transactions and posts the data to Layer 1.
-    - Alongside the transaction data, the sequencer generates and submits a **cryptographic validity proof** (either a [ZK-SNARK or ZK-STARK](/zero-knowledge-proofs-explained)).
-    - This proof mathematically guarantees the validity of all transactions in the batch. Layer 1 only needs to verify this single, compact proof to confirm the integrity of the entire batch.
+ - The sequencer bundles transactions and posts the data to Layer 1.
+ - Alongside the transaction data, the sequencer generates and submits a **cryptographic validity proof** (either a [ZK-SNARK or ZK-STARK](/zero-knowledge-proofs-explained)).
+ - This proof mathematically guarantees the validity of all transactions in the batch. Layer 1 only needs to verify this single, compact proof to confirm the integrity of the entire batch.
 
 - **Advantages:**
-    - **Rapid Finality:** The mathematical proof allows for instantaneous validation, eliminating the need for a challenge period. Consequently, withdrawals from ZK-Rollups to Ethereum occur almost immediately.
-    - **Enhanced Security:** The reliance on cryptographic proof rather than economic incentives can make ZK-Rollups more secure.
+ - **Rapid Finality:** The mathematical proof allows for instantaneous validation, eliminating the need for a challenge period. Consequently, withdrawals from ZK-Rollups to Ethereum occur almost immediately.
+ - **Enhanced Security:** The reliance on cryptographic proof rather than economic incentives can make ZK-Rollups more secure.
 
 - **Disadvantages:**
-    - **Technological Complexity:** The cryptography behind ZK-proofs is highly intricate. Developing a ZK-Rollup that fully integrates with the EVM (known as a "zkEVM") presents significant engineering challenges.
-    - **Cost of Provers:** Generating validity proofs requires substantial computational resources, leading to increased costs for the sequencer.
+ - **Technological Complexity:** The cryptography behind ZK-proofs is highly intricate. Developing a ZK-Rollup that fully integrates with the EVM (known as a "zkEVM") presents significant engineering challenges.
+ - **Cost of Provers:** Generating validity proofs requires substantial computational resources, leading to increased costs for the sequencer.
 
 ### The Rollup-Centric Future of Ethereum
 
@@ -68,13 +68,12 @@ This modular framework, where execution occurs on L2s and settlement on L1, perm
 
 ### Key Differences Between Optimistic and ZK-Rollups
 
-| Feature                          | Optimistic Rollups                     | ZK-Rollups                             |
+| Feature | Optimistic Rollups | ZK-Rollups |
 |----------------------------------|----------------------------------------|----------------------------------------|
-| Validation Method                | Fraud proofs during challenge period   | Cryptographic validity proofs          |
-| Challenge Period                 | Several days                           | No challenge period                    |
-| Finality Time                    | Delayed (up to several days)          | Instant                                |
-| Security Model                   | Economic incentives                     | Mathematical proof                     |
-| EVM Compatibility                | Fully compatible                       | Developing zkEVM compatibility         |
-| Complexity                       | Simpler technology                     | Advanced cryptographic techniques      |
-| Examples                         | Arbitrum, Optimism                     | zkSync, Starknet, Polygon zkEVM       |
-
+| Validation Method | Fraud proofs during challenge period | Cryptographic validity proofs |
+| Challenge Period | Several days | No challenge period |
+| Finality Time | Delayed (up to several days) | Instant |
+| Security Model | Economic incentives | Mathematical proof |
+| EVM Compatibility | Fully compatible | Developing zkEVM compatibility |
+| Complexity | Simpler technology | Advanced cryptographic techniques |
+| Examples | Arbitrum, Optimism | zkSync, Starknet, Polygon zkEVM |

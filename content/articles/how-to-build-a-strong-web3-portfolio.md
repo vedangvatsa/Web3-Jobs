@@ -31,13 +31,13 @@ Finding top talent requires a departure from traditional platforms like LinkedIn
 In Web3, public accomplishments outweigh formal employment history. Assess candidates based on their "proof of work."
 
 - **For Developers:**
-    - **GitHub Review:** Analyze personal projects for code quality and documentation. A thorough test suite is essential; the absence of tests signals potential issues.
-    - **On-Chain Activity:** Use a block explorer to review their public [wallet](/how-to-choose-a-crypto-wallet) address if available. Investigate the protocols they have interacted with and whether they have engaged in governance activities.
+ - **GitHub Review:** Analyze personal projects for code quality and documentation. A thorough test suite is essential; the absence of tests signals potential issues.
+ - **On-Chain Activity:** Use a block explorer to review their public [wallet](/how-to-choose-a-crypto-wallet) address if available. Investigate the protocols they have interacted with and whether they have engaged in governance activities.
 
 - **For Non-Technical Roles:**
-    - **Public Writing:** Look for insightful Twitter threads or blog posts showcasing expertise and communication skills.
-    - **[DAO](/what-is-a-dao) Contributions:** Active participation in a [DAO](/the-rise-of-daos) demonstrates initiative. Review their contributions in governance forums and proposals to gauge strategic thinking.
-    - **Dune Dashboards:** For analytical roles, a collection of insightful Dune dashboards signals strong analytical capabilities.
+ - **Public Writing:** Look for insightful Twitter threads or blog posts showcasing expertise and communication skills.
+ - **[DAO](/what-is-a-dao) Contributions:** Active participation in a [DAO](/the-rise-of-daos) demonstrates initiative. Review their contributions in governance forums and proposals to gauge strategic thinking.
+ - **Dune Dashboards:** For analytical roles, a collection of insightful Dune dashboards signals strong analytical capabilities.
 
 ### Principle #3: Your Project is Also Being Interviewed
 
@@ -53,13 +53,12 @@ Top candidates have multiple opportunities. The recruitment process is a mutual 
 
 Web3 compensation packages differ significantly from traditional structures. Be prepared to offer a complete package that includes:
 
-| Component                     | Description                                              |
+| Component | Description |
 |-------------------------------|----------------------------------------------------------|
-| Base Salary                   | Competitive fiat salary that reflects market rates.     |
-| Token Grant                   | Significant token grant with a clear vesting schedule.  |
-| Equity                        | Potential equity in the company, if applicable.         |
+| Base Salary | Competitive fiat salary that reflects market rates. |
+| Token Grant | Significant token grant with a clear vesting schedule. |
+| Equity | Potential equity in the company, if applicable. |
 
 Understanding your project's [tokenomics](/understanding-tokenomics) and the long-term value of the token grant is important for attracting top talent.
 
 Recruiting in Web3 requires profound engagement with the ecosystem. Passive observation will not suffice. By actively participating in communities, assessing proof of work, and treating the hiring process as a partnership, you can attract and secure the elite talent essential for building the decentralized internet.
-

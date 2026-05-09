@@ -32,18 +32,18 @@ The formal verification process encompasses two main components:
 
 1. **The Specification (The Rules):** This step requires defining the "properties" or "invariants" that must always hold true for the smart contract. These specifications are articulated in a formal language.
 
-   **Examples of properties include:**
-   - The total supply of an ERC-20 [token](/what-is-a-token) must remain constant.
-   - Only an address with the `ADMIN_ROLE` can execute the `pause()` function.
-   - The sum of all user balances in a lending pool must equal the total amount of assets held by the contract.
-   - An attacker should not be able to re-enter the `withdraw()` function.
+ **Examples of properties include:**
+ - The total supply of an ERC-20 [token](/what-is-a-token) must remain constant.
+ - Only an address with the `ADMIN_ROLE` can execute the `pause()` function.
+ - The sum of all user balances in a lending pool must equal the total amount of assets held by the contract.
+ - An attacker should not be able to re-enter the `withdraw()` function.
 
 2. **The Prover (The Engine):** This sophisticated software tool takes the smart contract code and the formal specification as input. It employs advanced mathematical techniques, such as SMT solvers and symbolic execution, to explore all possible execution paths of the code.
 
-   The prover seeks to identify a **counterexample**, which is a specific transaction sequence that violates one of the defined properties.
+ The prover seeks to identify a **counterexample**, which is a specific transaction sequence that violates one of the defined properties.
 
-   - **If the prover identifies a counterexample:** It indicates a bug, providing the exact sequence of events that leads to the property violation.
-   - **If the prover finds no counterexample after thorough exploration:** It has mathematically established that the property holds true for all possible inputs and states.
+ - **If the prover identifies a counterexample:** It indicates a bug, providing the exact sequence of events that leads to the property violation.
+ - **If the prover finds no counterexample after thorough exploration:** It has mathematically established that the property holds true for all possible inputs and states.
 
 ### Key Tools for Formal Verification in Solidity
 
@@ -59,15 +59,15 @@ Consider a simple contract with a `counter` variable.
 
 ```solidity
 contract Counter {
-    uint256 public counter;
-    
-    function increment() public {
-        counter++;
-    }
+ uint256 public counter;
 
-    function decrement() public {
-        counter--;
-    }
+ function increment() public {
+ counter++;
+ }
+
+ function decrement() public {
+ counter--;
+ }
 }
 ```
 
@@ -121,11 +121,11 @@ Track your progress and evaluate the effectiveness of your strategies. Are you a
 
 ### Real-World Examples
 
-| Name   | Role                       | Challenge                      | Outcome                                    |
+| Name | Role | Challenge | Outcome |
 |--------|----------------------------|--------------------------------|--------------------------------------------|
-| Sarah  | Developer at a blockchain startup | Struggled with smart contract vulnerabilities | Implemented formal verification, reducing bugs significantly within three months. |
-| Juan   | Product Manager in DeFi    | Faced difficulties in securing contracts | Adopted formal verification, resulting in a decrease in security incidents. |
-| Maya   | Transitioning from Web2 to Web3 | Needed to quickly adapt to new technologies | Employed formal verification strategies to streamline code quality and enhance security. |
+| Sarah | Developer at a blockchain startup | Struggled with smart contract vulnerabilities | Implemented formal verification, reducing bugs significantly within three months. |
+| Juan | Product Manager in DeFi | Faced difficulties in securing contracts | Adopted formal verification, resulting in a decrease in security incidents. |
+| Maya | Transitioning from Web2 to Web3 | Needed to quickly adapt to new technologies | Employed formal verification strategies to simplify code quality and enhance security. |
 
 ### Common Mistakes to Avoid
 
@@ -141,18 +141,17 @@ Track your progress and evaluate the effectiveness of your strategies. Are you a
 
 ### FAQ
 
-**How long will it take to implement formal verification?**  
+**How long will it take to implement formal verification?** 
 Most individuals observe initial results within a few weeks of consistent application, with more significant improvements apparent within a few months. The timeline varies based on your starting point, daily practice, and active feedback-seeking. Professionals who track their progress typically progress faster.
 
-**What if my workplace doesn't support this?**  
+**What if my workplace doesn't support this?** 
 Even in challenging environments, you often have more agency than you realize. Start with small, self-contained initiatives that do not require organizational approval. Gradually build momentum and document outcomes to showcase value. If, after sustained effort, the environment hinders growth, it may be time to consider a more supportive workplace.
 
-**How does this apply specifically to Web3?**  
-Web3 organizations differ structurally from traditional companies, amplifying the importance of formal verification skills. With flatter hierarchies, you have more access to decision-makers and greater responsibility for self-direction. The predominantly remote and globally distributed nature of teams makes effective communication and asynchronous collaboration important. Additionally, product cycles in Web3 are often quicker than in traditional enterprise environments.
+**How does this apply specifically to Web3?** 
+Web3 organizations differ structurally from traditional companies, amplifying the importance of formal verification skills. With flatter hierarchies, you have more access to decision-makers and greater responsibility for self-direction. The predominantly remote and globally distributed nature of teams makes effective communication and asynchronous collaboration important. product cycles in Web3 are often quicker than in traditional enterprise environments.
 
-**Can I implement formal verification alongside my current role?**  
+**Can I implement formal verification alongside my current role?** 
 Yes. Focus on intentional application of formal verification principles within your existing work hours. Identify two or three practices that align with your daily tasks and apply them consistently. Small, deliberate improvements yield greater long-term benefits than sporadic large changes.
 
-**What resources can help me go deeper?**  
+**What resources can help me go deeper?** 
 In-depth articles and case studies on formal verification are available for targeted reading. The most impactful approach is to connect with a mentor or peer group engaged in formal verification. Observing their practices can deepen your understanding. Engage with Web3 communities on platforms like Discord or Telegram to find practitioners willing to share their experiences. Structured accountability, such as committing to timelines with a peer, can also facilitate meaningful progress.
-

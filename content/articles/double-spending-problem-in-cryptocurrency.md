@@ -20,12 +20,12 @@ Satoshi Nakamoto's introduction of Bitcoin marked an important moment by address
 
 ### Key Insights
 
-| Aspect                     | Description                                                      |
+| Aspect | Description |
 |----------------------------|------------------------------------------------------------------|
-| **The Problem**            | Digital information is easily copied, leading to the risk of double-spending. |
-| **Historical Solution**    | A trusted third party, such as a bank, maintained a central ledger to prevent double-spending. |
+| **The Problem** | Digital information is easily copied, leading to the risk of double-spending. |
+| **Historical Solution** | A trusted third party, such as a bank, maintained a central ledger to prevent double-spending. |
 | **Decentralized Solution** | Bitcoin and other cryptocurrencies use a public, distributed ledger (the blockchain) and a consensus mechanism (like Proof-of-Work) to prevent double-spending. |
-| **Operational Mechanism**  | All transactions are broadcast to a public network and grouped into blocks, making it nearly impossible to reverse a transaction once confirmed. |
+| **Operational Mechanism** | All transactions are broadcast to a public network and grouped into blocks, making it nearly impossible to reverse a transaction once confirmed. |
 
 ### An Analogy: Email versus Physical Mail
 
@@ -81,15 +81,14 @@ For a large network like Bitcoin, this scenario is practically infeasible. The e
 
 ### Frequently Asked Questions (FAQ)
 
-**Q: Has a double-spend ever occurred on Bitcoin?**  
+**Q: Has a double-spend ever occurred on Bitcoin?** 
 A: No, there has never been a confirmed double-spend incident on the Bitcoin blockchain. The security provided by its Proof-of-Work consensus mechanism has remained intact throughout its history.
 
-**Q: What is a "race attack"?**  
+**Q: What is a "race attack"?** 
 A: A race attack is a type of double-spend attempt where an attacker sends two conflicting transactions to different merchants simultaneously, hoping to have both accepted before either is confirmed in a block. This emphasizes the importance for merchants to wait for at least one confirmation before considering a payment final.
 
-**Q: Why do exchanges wait for multiple confirmations before crediting a deposit?**  
+**Q: Why do exchanges wait for multiple confirmations before crediting a deposit?** 
 A: Exchanges typically wait for multiple confirmations to enhance security. With each new block added on top of the one containing the transaction, the cost to reverse it increases exponentially, making a double-spend attack more impractical. After several confirmations, the transaction is regarded as irreversibly final.
 
-**Q: Can double-spending occur on other blockchain types?**  
+**Q: Can double-spending occur on other blockchain types?** 
 A: All operational blockchains must incorporate a mechanism to prevent double-spending. Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) networks address this issue using a different consensus mechanism in which validators stake their own coins and risk losing them ("slashing") if they approve conflicting transactions.
-

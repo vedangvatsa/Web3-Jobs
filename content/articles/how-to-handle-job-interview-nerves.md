@@ -19,11 +19,11 @@ The key isn't to eliminate nerves entirely but to manage them. By understanding 
 
 Before you can tackle interview nerves, it's helpful to understand where they come from. Anxiety in this context is a natural "fight or flight" response to a high-stakes situation. Common triggers include:
 
-*   **Fear of the Unknown:** Uncertainty about the questions, the interviewers, or the environment can be daunting.
-*   **Pressure to Perform:** You feel the need to be perfect, articulate, and impressive at every moment.
-*   **Fear of Judgment:** The idea of being evaluated and potentially rejected can be intimidating.
-*   **Past Negative Experiences:** A previous bad interview experience can create a cycle of anxiety for future opportunities.
-*   **High Stakes:** When the job is a role you desperately want or need, the pressure intensifies.
+* **Fear of the Unknown:** Uncertainty about the questions, the interviewers, or the environment can be daunting.
+* **Pressure to Perform:** You feel the need to be perfect, articulate, and impressive at every moment.
+* **Fear of Judgment:** The idea of being evaluated and potentially rejected can be intimidating.
+* **Past Negative Experiences:** A previous bad interview experience can create a cycle of anxiety for future opportunities.
+* **High Stakes:** When the job is a role you desperately want or need, the pressure intensifies.
 
 Recognizing these triggers is the first step. It allows you to move from a general feeling of "I'm nervous" to a specific understanding of "I'm nervous because I'm worried I'll forget my answers," which is a much more solvable problem.
 
@@ -35,26 +35,26 @@ The single most effective way to combat interview anxiety is thorough preparatio
 
 Superficial research leads to superficial answers and a lack of confidence. Go beyond just reading the company's "About Us" page.
 
-*   **Mission and Values:** Understand the company's core purpose. How do your own values align with theirs? Be ready to give specific examples.
-*   **Products and Services:** If possible, use their product. Understand who their customers are and what problems they solve.
-*   **Recent News and Achievements:** Look for recent press releases, blog posts, or announcements. Mentioning a recent achievement shows you're engaged and genuinely interested. A great resource for this is a project's official blog or a [Web3](/what-is-web3) News Feed.
-*   **The Role Itself:** Deconstruct the job description. For each responsibility and qualification, prepare a specific example from your past that demonstrates your ability. Use the STAR method (Situation, Task, Action, Result) to structure your stories.
+* **Mission and Values:** Understand the company's core purpose. How do your own values align with theirs? Be ready to give specific examples.
+* **Products and Services:** If possible, use their product. Understand who their customers are and what problems they solve.
+* **Recent News and Achievements:** Look for recent press releases, blog posts, or announcements. Mentioning a recent achievement shows you're engaged and genuinely interested. A great resource for this is a project's official blog or a [Web3](/what-is-web3) News Feed.
+* **The Role Itself:** Deconstruct the job description. For each responsibility and qualification, prepare a specific example from your past that demonstrates your ability. Use the STAR method (Situation, Task, Action, Result) to structure your stories.
 
 #### 2. Master Your Own Narrative
 
 You are the expert on one subject: yourself. Don't let nerves make you forget your own story.
 
-*   **Know Your [Resume](/how-to-build-a-web3-resume-that-stands-out) Inside and Out:** Be prepared to discuss any point on your resume in detail. Why did you leave a certain role? What was your biggest accomplishment there? For guidance on crafting a powerful resume, explore our [Resume Writing Tips That Get Interviews](/resume-writing-tips-that-get-interviews).
-*   **Prepare Your "Tell Me About Yourself":** This isn't an invitation to recite your life story. It's a 90-second pitch that connects your past experiences to the requirements of the role and the goals of the company.
-*   **Identify Your Key Selling Points:** What are the three to five things you absolutely want the interviewer to know about you by the end of the conversation? Weave these points into your answers naturally.
+* **Know Your [Resume](/how-to-build-a-web3-resume-that-stands-out) Inside and Out:** Be prepared to discuss any point on your resume in detail. Why did you leave a certain role? What was your biggest accomplishment there? For guidance on crafting a powerful resume, explore our [Resume Writing Tips That Get Interviews](/resume-writing-tips-that-get-interviews).
+* **Prepare Your "Tell Me About Yourself":** This isn't an invitation to recite your life story. It's a 90-second pitch that connects your past experiences to the requirements of the role and the goals of the company.
+* **Identify Your Key Selling Points:** What are the three to five things you absolutely want the interviewer to know about you by the end of the conversation? Weave these points into your answers naturally.
 
 #### 3. Practice, Practice, Practice
 
 You wouldn't run a marathon without training; don't go into an interview cold.
 
-*   **Mock Interviews:** Ask a friend, mentor, or career coach to conduct a mock interview with you. This is the best way to simulate the pressure of a real interview. Record the session if possible to review your body language and speech patterns.
-*   **Answer Questions Out Loud:** Don't just think about the answers in your head. Articulating them out loud helps solidify your thoughts and reveals where you might be rambling or unclear. Practice answering [Common Job Interview Questions](/common-job-interview-questions-answers).
-*   **Prepare Questions for Them:** An interview is a two-way street. Preparing thoughtful questions shows your engagement and gives you a sense of control. Ask about team culture, challenges the team is facing, or what success looks like in the role.
+* **Mock Interviews:** Ask a friend, mentor, or career coach to conduct a mock interview with you. This is the best way to simulate the pressure of a real interview. Record the session if possible to review your body language and speech patterns.
+* **Answer Questions Out Loud:** Don't just think about the answers in your head. Articulating them out loud helps solidify your thoughts and reveals where you might be rambling or unclear. Practice answering [Common Job Interview Questions](/common-job-interview-questions-answers).
+* **Prepare Questions for Them:** An interview is a two-way street. Preparing thoughtful questions shows your engagement and gives you a sense of control. Ask about team culture, challenges the team is facing, or what success looks like in the role.
 
 ### Phase 2: The Day of the Interview
 
@@ -62,17 +62,17 @@ How you spend the hours leading up to the interview can have a huge impact on yo
 
 #### 1. The Morning Routine
 
-*   **Get Enough Sleep:** A tired brain is more susceptible to anxiety. Prioritize a full night's rest.
-*   **Eat a Healthy Meal:** Avoid heavy foods or excessive caffeine, which can exacerbate jitters. Opt for a balanced meal with protein and complex carbs.
-*   **Exercise Lightly:** A short walk, stretching, or a few minutes of yoga can help release nervous energy and clear your head.
-*   **Dress for Confidence:** Choose an outfit that is appropriate for the company culture and makes you feel comfortable and confident. Get it ready the night before to avoid last-minute stress.
+* **Get Enough Sleep:** A tired brain is more susceptible to anxiety. Prioritize a full night's rest.
+* **Eat a Healthy Meal:** Avoid heavy foods or excessive caffeine, which can exacerbate jitters. Opt for a balanced meal with protein and complex carbs.
+* **Exercise Lightly:** A short walk, stretching, or a few minutes of yoga can help release nervous energy and clear your head.
+* **Dress for Confidence:** Choose an outfit that is appropriate for the company culture and makes you feel comfortable and confident. Get it ready the night before to avoid last-minute stress.
 
 #### 2. Pre-Interview Ritual
 
-*   **Review, Don't Cram:** In the hour before the interview, do a light review of your key selling points and the questions you want to ask. Avoid cramming new information, which can increase anxiety.
-*   **Power Posing:** Spend a few minutes in a "power pose" (e.g., standing with your hands on your hips, chest out). Studies have shown this can increase feelings of confidence and reduce cortisol levels.
-*   **Positive Visualization:** Close your eyes and visualize the interview going well. Imagine yourself answering questions confidently, building rapport with the interviewer, and leaving the conversation feeling positive.
-*   **Listen to Music:** Create a "pre-interview playlist" of songs that make you feel confident and energized.
+* **Review, Don't Cram:** In the hour before the interview, do a light review of your key selling points and the questions you want to ask. Avoid cramming new information, which can increase anxiety.
+* **Power Posing:** Spend a few minutes in a "power pose" (e.g., standing with your hands on your hips, chest out). Studies have shown this can increase feelings of confidence and reduce cortisol levels.
+* **Positive Visualization:** Close your eyes and visualize the interview going well. Imagine yourself answering questions confidently, building rapport with the interviewer, and leaving the conversation feeling positive.
+* **Listen to Music:** Create a "pre-interview playlist" of songs that make you feel confident and energized.
 
 ### Phase 3: In-the-Moment Techniques
 
@@ -82,27 +82,26 @@ When you're in the interview room (or on the video call), anxiety can still stri
 
 When you get nervous, your breathing becomes shallow. This signals panic to your brain. Consciously controlling your breath can reverse this cycle.
 
-*   **The 4-7-8 Technique:** Before the interview starts, inhale quietly through your nose for a count of 4, hold your breath for a count of 7, and exhale completely through your mouth for a count of 8. Repeat this three to four times.
-*   **Diaphragmatic Breathing:** During the interview, if you feel a wave of anxiety, focus on breathing deeply into your belly. Place a hand on your stomach; you should feel it rise and fall. This is subtle and can be done without the interviewer noticing.
+* **The 4-7-8 Technique:** Before the interview starts, inhale quietly through your nose for a count of 4, hold your breath for a count of 7, and exhale completely through your mouth for a count of 8. Repeat this three to four times.
+* **Diaphragmatic Breathing:** During the interview, if you feel a wave of anxiety, focus on breathing deeply into your belly. Place a hand on your stomach; you should feel it rise and fall. This is subtle and can be done without the interviewer noticing.
 
 #### 2. Ground Yourself Physically
 
 Anxiety can make you feel disconnected from your body. Grounding techniques bring you back to the present moment.
 
-*   **Feel Your Feet:** Press your feet firmly into the floor. Notice the sensation of the ground beneath you.
-*   **Engage Your Senses:** Silently name five things you can see, four things you can feel (the chair beneath you, the fabric of your clothes), three things you can hear, two things you can smell, and one thing you can taste. This pulls your focus away from anxious thoughts.
+* **Feel Your Feet:** Press your feet firmly into the floor. Notice the sensation of the ground beneath you.
+* **Engage Your Senses:** Silently name five things you can see, four things you can feel (the chair beneath you, the fabric of your clothes), three things you can hear, two things you can smell, and one thing you can taste. This pulls your focus away from anxious thoughts.
 
 #### 3. Reframe Your Mindset
 
 Your internal monologue has a powerful effect on your emotional state.
 
-*   **Anxiety vs. Excitement:** The physical symptoms of anxiety and excitement are nearly identical (racing heart, butterflies in the stomach). Reframe your feeling: instead of saying "I'm so nervous," tell yourself "I'm so excited for this opportunity."
-*   **It's a Conversation, Not an Interrogation:** Shift your mindset from being a candidate under a microscope to being a consultant having a conversation about a potential partnership. You are there to evaluate them just as much as they are to evaluate you.
+* **Anxiety vs. Excitement:** The physical symptoms of anxiety and excitement are nearly identical (racing heart, butterflies in the stomach). Reframe your feeling: instead of saying "I'm so nervous," tell yourself "I'm so excited for this opportunity."
+* **It's a Conversation, Not an Interrogation:** Shift your mindset from being a candidate under a microscope to being a consultant having a conversation about a potential partnership. You are there to evaluate them just as much as they are to evaluate you.
 
 #### 4. Practical In-Interview Tactics
 
-*   **Pause and Breathe:** It's perfectly acceptable to take a moment to collect your thoughts before answering a question. A thoughtful pause is better than a rushed, rambling answer. Simply say, "That's a great question. Let me take a moment to think about that."
-*   **Ask for Clarification:** If you don't understand a question, ask for it to be rephrased. This buys you time and ensures you're answering what's actually being asked.
-*   **Stay Hydrated:** Have a glass of water nearby. Taking a sip is a natural way to create a pause and calm your nerves.
-*   **Smile:** Smiling, even if you force it, can trick your brain into feeling more positive and relaxed. It also makes you appear more confident and approachable to the interviewer.
-
+* **Pause and Breathe:** It's perfectly acceptable to take a moment to collect your thoughts before answering a question. A thoughtful pause is better than a rushed, rambling answer. Simply say, "That's a great question. Let me take a moment to think about that."
+* **Ask for Clarification:** If you don't understand a question, ask for it to be rephrased. This buys you time and ensures you're answering what's actually being asked.
+* **Stay Hydrated:** Have a glass of water nearby. Taking a sip is a natural way to create a pause and calm your nerves.
+* **Smile:** Smiling, even if you force it, can trick your brain into feeling more positive and relaxed. It also makes you appear more confident and approachable to the interviewer.

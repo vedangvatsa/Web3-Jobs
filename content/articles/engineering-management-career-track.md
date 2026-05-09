@@ -22,11 +22,11 @@ The shift often begins informally. As a senior engineer, you already mentor juni
 
 - **Primary Role:** As a player-coach, you remain an active coder while ensuring the technical success of specific projects or features.
 - **Key Responsibilities:**
-    - Make important technical design and architecture decisions for the project.
-    - Decompose large projects into manageable tasks for the team.
-    - Review code to uphold high technical standards.
-    - Mentor junior and mid-level engineers within the project team.
-    - Help the team overcome technical obstacles.
+ - Make important technical design and architecture decisions for the project.
+ - Decompose large projects into manageable tasks for the team.
+ - Review code to uphold high technical standards.
+ - Mentor junior and mid-level engineers within the project team.
+ - Help the team overcome technical obstacles.
 - **The Shift:** You will start dedicating a notable portion of your time to activities outside of coding. Your focus will evolve from "my work" to "the team's work."
 
 ### Level 1: Engineering Manager (EM)
@@ -35,12 +35,12 @@ This role marks the first formal management position and represents a substantia
 
 - **Primary Role:** Your main responsibility will be people management and ensuring team execution.
 - **Key Responsibilities:**
-    - **One-on-Ones:** Regularly conduct one-on-one meetings with each engineer to discuss their career aspirations, challenges, and overall well-being.
-    - **Hiring and Recruiting:** Take charge of building your team.
-    - **Performance Management:** Write performance reviews, provide constructive feedback, and address underperformance.
-    - **Team Process:** Ensure the team follows effective processes, such as agile sprints and code review norms.
-    - **Shielding the Team:** Protect the team from distractions and external pressures, allowing them to concentrate on development.
-    - **Cross-functional Collaboration:** Collaborate with Product Managers and Designers to plan the product roadmap.
+ - **One-on-Ones:** Regularly conduct one-on-one meetings with each engineer to discuss their career aspirations, challenges, and overall well-being.
+ - **Hiring and Recruiting:** Take charge of building your team.
+ - **Performance Management:** Write performance reviews, provide constructive feedback, and address underperformance.
+ - **Team Process:** Ensure the team follows effective processes, such as agile sprints and code review norms.
+ - **Shielding the Team:** Protect the team from distractions and external pressures, allowing them to concentrate on development.
+ - **Cross-functional Collaboration:** Collaborate with Product Managers and Designers to plan the product roadmap.
 - **The Skill Shift:** Relational skills become essential. Success now hinges on communication, empathy, and coaching rather than technical prowess. Many new EMs struggle with the transition from coding to focusing on team dynamics.
 
 ### Level 2: Director of Engineering
@@ -49,11 +49,11 @@ Upon successfully managing a single team, the next step is to become a "manager 
 
 - **Primary Role:** Manage managers and a broad technical area.
 - **Key Responsibilities:**
-    - **Managing EMs:** Coach and develop your Engineering Managers.
-    - **Technical Strategy:** Set the technical direction for a larger product area, such as all mobile applications or the entire data platform.
-    - **Resource Planning:** Collaborate with product leadership to align multiple teams with strategic priorities.
-    - **Cross-departmental Leadership:** Drive technical initiatives that span across various departments.
-    - **Budgeting and Headcount:** Oversee the hiring plan and budget for your department.
+ - **Managing EMs:** Coach and develop your Engineering Managers.
+ - **Technical Strategy:** Set the technical direction for a larger product area, such as all mobile applications or the entire data platform.
+ - **Resource Planning:** Collaborate with product leadership to align multiple teams with strategic priorities.
+ - **Cross-departmental Leadership:** Drive technical initiatives that span across various departments.
+ - **Budgeting and Headcount:** Oversee the hiring plan and budget for your department.
 - **The Skill Shift:** Your focus expands from a single team to the broader organizational framework. You will spend less time on individual careers and more on organizational design, processes, and long-term technical strategies.
 
 ### Level 3: VP of Engineering
@@ -62,23 +62,23 @@ The VP of Engineering is a senior executive responsible for the entire engineeri
 
 - **Primary Role:** Lead the entire engineering organization.
 - **Key Responsibilities:**
-    - **Organizational Health:** Ensure the engineering organization is healthy, engaged, and productive.
-    - **Technical Vision and Culture:** Establish the overall technical vision and engineering culture for the company, including standards for code quality, testing, and deployment.
-    - **Executive Leadership:** Collaborate with C-suite executives (CEO, CTO, CPO) to align engineering efforts with overall business strategy.
-    - **Scalability:** Ensure that technology, processes, and teams can grow in line with company expansion.
-    - **Hiring the Leadership Team:** Recruit and manage the Directors of Engineering.
+ - **Organizational Health:** Ensure the engineering organization is healthy, engaged, and productive.
+ - **Technical Vision and Culture:** Establish the overall technical vision and engineering culture for the company, including standards for code quality, testing, and deployment.
+ - **Executive Leadership:** Collaborate with C-suite executives (CEO, CTO, CPO) to align engineering efforts with overall business strategy.
+ - **Scalability:** Ensure that technology, processes, and teams can grow in line with company expansion.
+ - **Hiring the Leadership Team:** Recruit and manage the Directors of Engineering.
 - **The Skill Shift:** This role largely centers on business and organizational leadership. The VP of Engineering is accountable for the engineering organization’s ability to fulfill the company's objectives.
 
 ### VP of Engineering vs. CTO
 
 The roles of VP of Engineering and Chief Technology Officer (CTO) can create confusion.
 
-| Aspect                | VP of Engineering                      | CTO                                    |
+| Aspect | VP of Engineering | CTO |
 |-----------------------|---------------------------------------|----------------------------------------|
-| Focus                 | Execution and management              | Long-term technology vision            |
-| Responsibilities      | Building and running the engineering team | Setting overall technology strategy     |
-| External Representation| Limited, primarily internal           | Represents the company to investors and partners |
-| Reporting Structure    | Typically reports to CTO or CEO      | Part of the executive leadership team  |
+| Focus | Execution and management | Long-term technology vision |
+| Responsibilities | Building and running the engineering team | Setting overall technology strategy |
+| External Representation| Limited, primarily internal | Represents the company to investors and partners |
+| Reporting Structure | Typically reports to CTO or CEO | Part of the executive leadership team |
 
 In smaller companies, one individual may fulfill both roles. In larger organizations, these positions are distinct, with the VP of Engineering usually reporting to the CTO or CEO.
 
@@ -107,4 +107,3 @@ Avoid attempting to change everything at once. Start with small, manageable adju
 #### Step 5: Measure and Adjust
 
 Regularly evaluate your progress. Are you achieving the desired outcomes? Be prepared to adjust your strategies based on feedback and results. Maintaining a mindset of continuous improvement is essential.
-

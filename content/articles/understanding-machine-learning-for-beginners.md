@@ -20,9 +20,9 @@ The "learning" part is what makes it so powerful. A traditional program is stati
 
 To really grasp what machine learning is, it's helpful to contrast it with the traditional way of writing software.
 
-*   **Traditional Programming**: You, the programmer, figure out the rules. You write code that tells the computer exactly what to do. For example, to convert Celsius to Fahrenheit, you write the formula `F = (C * 9/5) + 32`. You provide the input (Celsius), and the program follows your rule to produce the output (Fahrenheit).
+* **Traditional Programming**: You, the programmer, figure out the rules. You write code that tells the computer exactly what to do. For example, to convert Celsius to Fahrenheit, you write the formula `F = (C * 9/5) + 32`. You provide the input (Celsius), and the program follows your rule to produce the output (Fahrenheit).
 
-*   **Machine Learning**: You don't know all the rules, or the rules are too complex to write down. Instead, you provide the computer with lots of examples of inputs and their corresponding outputs. You might give it thousands of Celsius values and their correct Fahrenheit equivalents. The machine learning model then works backward to figure out the relationship that connects them.
+* **Machine Learning**: You don't know all the rules, or the rules are too complex to write down. Instead, you provide the computer with lots of examples of inputs and their corresponding outputs. You might give it thousands of Celsius values and their correct Fahrenheit equivalents. The machine learning model then works backward to figure out the relationship that connects them.
 
 This approach is perfect for problems where the logic is hard to define. How would you write a program to detect spam emails? There are millions of possible spam messages. Instead of trying to write a rule for every one, you can feed a machine learning model thousands of examples of spam and non-spam emails and let it learn the patterns that differentiate them.
 
@@ -36,8 +36,8 @@ This is the most common type of machine learning. The name comes from the idea t
 
 There are two main kinds of problems solved with supervised learning:
 
-*   **Classification**: The goal is to predict a category. Is this email spam or not spam? Is this tumor malignant or benign? Is this credit card transaction fraudulent or legitimate? The answer is a distinct label.
-*   **Regression**: The goal is to predict a continuous value. What will the price of this house be? How many customers will visit the store tomorrow? What will the temperature be next Tuesday? The answer is a number on a scale.
+* **Classification**: The goal is to predict a category. Is this email spam or not spam? Is this tumor malignant or benign? Is this credit card transaction fraudulent or legitimate? The answer is a distinct label.
+* **Regression**: The goal is to predict a continuous value. What will the price of this house be? How many customers will visit the store tomorrow? What will the temperature be next Tuesday? The answer is a number on a scale.
 
 **2. Unsupervised Learning**
 
@@ -57,11 +57,11 @@ Reinforcement learning works the same way. An AI learning to play a video game g
 
 Machine learning is already integrated into many of the products and services we use.
 
-*   **Image and Facial Recognition**: When you upload photos to social media and it automatically suggests tagging your friends, that's machine learning at work.
-*   **Natural Language Processing (NLP)**: Virtual assistants like Siri and Alexa use NLP to understand your speech. Translation services like Google Translate use machine learning to translate between languages.
-*   **Fraud Detection**: Banks and credit card companies use machine learning models to analyze transactions to spot patterns that indicate fraud.
-*   **Self-Driving Cars**: These vehicles use a combination of machine learning techniques, including computer vision and reinforcement learning, to perceive their environment and make driving decisions.
-*   **Medical Diagnosis**: Machine learning models are being trained to analyze medical scans, like X-rays and MRIs, to help doctors detect diseases like cancer earlier and more accurately than the human eye alone.
+* **Image and Facial Recognition**: When you upload photos to social media and it automatically suggests tagging your friends, that's machine learning at work.
+* **Natural Language Processing (NLP)**: Virtual assistants like Siri and Alexa use NLP to understand your speech. Translation services like Google Translate use machine learning to translate between languages.
+* **Fraud Detection**: Banks and credit card companies use machine learning models to analyze transactions to spot patterns that indicate fraud.
+* **Self-Driving Cars**: These vehicles use a combination of machine learning techniques, including computer vision and reinforcement learning, to perceive their environment and make driving decisions.
+* **Medical Diagnosis**: Machine learning models are being trained to analyze medical scans, like X-rays and MRIs, to help doctors detect diseases like cancer earlier and more accurately than the human eye alone.
 
 ### Frequently Asked Questions
 
@@ -130,4 +130,3 @@ Understanding and managing your emotions, and reading others, determines your ef
 - Continuously refine through feedback
 
 ## Real-World Applications
-

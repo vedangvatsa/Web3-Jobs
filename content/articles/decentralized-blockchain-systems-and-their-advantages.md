@@ -45,4 +45,3 @@ Building a system on a decentralized network provides numerous advantages over a
 While decentralization brings substantial benefits, it also introduces challenges. A critical issue in blockchain design is the **["blockchain trilemma"](/is-web3-dead)**. This concept suggests that achieving a balance among decentralization, security, and scalability is complex.
 
 To enhance scalability and transaction throughput, some systems may compromise decentralization by reducing the number of validating nodes. This trade-off is central to the design considerations faced by various **[Layer 1](/what-is-a-layer-1-blockchain)** and **[Layer 2](/guide-to-layer-2s)** solutions.
-

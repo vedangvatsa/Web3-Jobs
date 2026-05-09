@@ -12,7 +12,7 @@ lastUpdated: "2026-04-29"
 
 ## A Document That Changed the World
 
-In late 2013, Vitalik Buterin, a 19-year-old programmer, released a document titled "A Next-Generation Smart Contract and Decentralized Application Platform." This Ethereum whitepaper marked a significant shift in the evolution of the internet. While Bitcoin effectively addressed the need for decentralized currency, Buterin proposed a more ambitious vision: a decentralized, programmable platform capable of running any conceivable application. This concept, known as the "world computer," represented a single global [blockchain](/what-is-a-blockchain) that could serve as the foundation for a user-owned internet, often referred to as [Web3](/what-is-web3).
+In late 2013, Vitalik Buterin, a 19-year-old programmer, released a document titled "A modern Smart Contract and Decentralized Application Platform." This Ethereum whitepaper marked a significant shift in the evolution of the internet. While Bitcoin effectively addressed the need for decentralized currency, Buterin proposed a more ambitious vision: a decentralized, programmable platform capable of running any conceivable application. This concept, known as the "world computer," represented a single global [blockchain](/what-is-a-blockchain) that could serve as the foundation for a user-owned internet, often referred to as [Web3](/what-is-web3).
 
 The publication of the Ethereum whitepaper represented a important moment in the history of blockchain technology. It shifted the discourse from merely "decentralized money" to the broader notion of "decentralized everything." The whitepaper articulated a clear vision that inspired a new generation of developers, entrepreneurs, and thinkers, motivating them to construct the rich and diverse ecosystem we observe today.
 
@@ -36,11 +36,11 @@ A smart contract is essentially a computer program that operates on the blockcha
 
 The whitepaper detailed various potential applications for smart contracts, many of which have since evolved into significant industries:
 
-| Use Case                          | Description                                                                |
+| Use Case | Description |
 |-----------------------------------|----------------------------------------------------------------------------|
 | Financial Derivatives and Stablecoins | Smart contracts can create complex financial instruments and tokens pegged to real-world assets, laying the groundwork for the [DeFi](/what-is-defi) ecosystem. |
-| Identity and Reputation Systems    | Users can control their digital identity, now central to Self-Sovereign Identity (SSI). |
-| Decentralized File Storage         | Coordination of a decentralized network for file storage, foreshadowing projects like IPFS and Filecoin. |
+| Identity and Reputation Systems | Users can control their digital identity, now central to Self-Sovereign Identity (SSI). |
+| Decentralized File Storage | Coordination of a decentralized network for file storage, foreshadowing projects like IPFS and Filecoin. |
 | Decentralized Autonomous Organizations (DAOs) | The concept of a "decentralized autonomous corporation," governed entirely by smart contracts, which initiated the idea of [DAOs](/what-is-a-dao). |
 
 The clarity of Buterin's vision is evident in how many of the concepts he introduced in 2013 have materialized into reality.
@@ -60,4 +60,3 @@ The release of the Ethereum whitepaper marked a seminal moment in the blockchain
 Since then, the Ethereum ecosystem has encountered numerous challenges, including the DAO hack in 2016, scalability issues, and stiff competition from other smart contract platforms. Throughout these challenges, the core vision articulated in the whitepaper has remained resilient. The community has demonstrated remarkable adaptability and an unwavering commitment to continuous enhancement, leading to significant upgrades such as the transition to Proof-of-[Stake](/how-to-become-a-web3-staking-specialist).
 
 Revisiting the whitepaper serves as a powerful reminder of the project's idealistic origins. In a market characterized by volatility and hype cycles, it acts as a guiding principle, reminding us of the fundamental objective: to create a more open, free, and fair digital world for all. This document stands as one of the most consequential papers of the 21st century, and its influence is still unfolding.
-

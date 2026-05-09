@@ -66,11 +66,10 @@ You do not need coding skills to provide "proof of work." Your portfolio should 
 
 ### Comparative Overview of Non-Technical Roles in Web3
 
-| Role                      | Key Responsibilities                                        | Skills Needed                   | Average Salary Range    |
+| Role | Key Responsibilities | Skills Needed | Average Salary Range |
 |---------------------------|-----------------------------------------------------------|----------------------------------|--------------------------|
-| Community Manager          | User engagement, culture building, event organization     | Emotional intelligence, writing  | Competitive               |
-| Marketing Manager          | Content creation, social media, partnership building      | Marketing strategy, writing      | Competitive               |
-| Product Manager            | User research, product roadmap, feature specification     | Product management, adaptability | Competitive               |
-| UX/UI Designer             | Interface design, user experience improvement              | Design skills, empathy           | Competitive               |
-| Operations & Strategy (BizOps)| Project management, treasury coordination, HR support | Organizational skills, strategy  | Competitive               |
-
+| Community Manager | User engagement, culture building, event organization | Emotional intelligence, writing | Competitive |
+| Marketing Manager | Content creation, social media, partnership building | Marketing strategy, writing | Competitive |
+| Product Manager | User research, product roadmap, feature specification | Product management, adaptability | Competitive |
+| UX/UI Designer | Interface design, user experience improvement | Design skills, empathy | Competitive |
+| Operations & Strategy (BizOps)| Project management, treasury coordination, HR support | Organizational skills, strategy | Competitive |

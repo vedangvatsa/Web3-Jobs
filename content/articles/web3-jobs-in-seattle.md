@@ -18,24 +18,24 @@ The city's Web3 environment reflects an engineering-driven culture influenced by
 
 Seattle’s Web3 scene thrives on its core industries: cloud computing and gaming.
 
-| Industry                     | Key Players and Contributions                                 |
+| Industry | Key Players and Contributions |
 |------------------------------|--------------------------------------------------------------|
-| **Cloud Computing**          | Home to Amazon Web Services (AWS) and Microsoft Azure, Seattle hosts a significant concentration of cloud engineers. These professionals possess the skills necessary for developing complex backend systems required by Web3 protocols, including node management and Layer 2 scaling solutions. |
-| **Gaming**                   | With major companies like Nintendo of America and Valve, Seattle is a central hub for the video game industry. This ecosystem includes game developers, designers, and artists who are now venturing into Web3 gaming and [NFTs](/what-are-nfts). |
+| **Cloud Computing** | Home to Amazon Web Services (AWS) and Microsoft Azure, Seattle hosts a significant concentration of cloud engineers. These professionals possess the skills necessary for developing complex backend systems required by Web3 protocols, including node management and Layer 2 scaling solutions. |
+| **Gaming** | With major companies like Nintendo of America and Valve, Seattle is a central hub for the video game industry. This ecosystem includes game developers, designers, and artists who are now venturing into Web3 gaming and [NFTs](/what-are-nfts). |
 | **Corporate Blockchain Adoption** | Companies such as Microsoft and Starbucks are actively exploring enterprise [blockchain](/what-is-a-blockchain) applications and NFT-based loyalty programs, enhancing the Web3 sector. |
-| **Community Dynamics**       | The Seattle Web3 community prioritizes substance over hype. It is characterized by a mature, engineering-focused environment that emphasizes technical skill and sustainable project development. |
+| **Community Dynamics** | The Seattle Web3 community prioritizes substance over hype. It is characterized by a mature, engineering-focused environment that emphasizes technical skill and sustainable project development. |
 
 ### In-Demand Roles and Salary Expectations
 
 Seattle's competitive job market for technical talent offers salaries comparable to other major technology hubs in the U.S. The demand for engineers skilled in distributed systems and gaming is particularly pronounced.
 
-| Role                                  | Experience Level      | Salary Range               |
+| Role | Experience Level | Salary Range |
 |---------------------------------------|-----------------------|-----------------------------|
-| **Infrastructure / Backend Engineer** | Mid-Level (3-5 years) | Competitive                 |
-|                                       | Senior (5+ years)     | Competitive                 |
-| **Game Developer**                    | Senior                 | Competitive                 |
-| **[Smart Contract](/what-are-smart-contracts) Developer** | Senior                 | Competitive                 |
-| **Product Manager**                   | Senior                 | Competitive                 |
+| **Infrastructure / Backend Engineer** | Mid-Level (3-5 years) | Competitive |
+| | Senior (5+ years) | Competitive |
+| **Game Developer** | Senior | Competitive |
+| **[Smart Contract](/what-are-smart-contracts) Developer** | Senior | Competitive |
+| **Product Manager** | Senior | Competitive |
 
 ### Building a Web3 Career in Seattle
 
@@ -45,7 +45,7 @@ Building a career in Web3 requires strategic positioning and skill development.
 
 2. **Focus on Infrastructure**: Seattle excels in developing the foundational elements of Web3. Concentrate your learning and [portfolio](/building-web3-portfolio) on infrastructure challenges, such as building an indexer, relayer, or Layer 2 tools.
 
-3. **Engage with Local Meetups**: The Seattle Web3 community is vibrant but somewhat fragmented. Attend events like the Seattle [Ethereum](/what-is-ethereum) Meetup to network with developers and enhance your visibility in the community.
+3. **Engage with Local Meetups**: The Seattle Web3 community is active but somewhat fragmented. Attend events like the Seattle [Ethereum](/what-is-ethereum) Meetup to network with developers and enhance your visibility in the community.
 
 4. **Develop a strong Technical Portfolio**: High-quality, well-documented projects are important in Seattle’s engineering culture. For backend roles, prioritize infrastructure projects over basic decentralized application (dApp) frontends.
 
@@ -55,13 +55,13 @@ Seattle offers a wealth of opportunities for technical professionals. The city c
 
 ### Salary Guide: Web3 Jobs in Seattle
 
-| Role                                  | Salary Range                       |
+| Role | Salary Range |
 |---------------------------------------|------------------------------------|
-| **Infrastructure Engineer**           | Competitive                         |
-| **Backend Developer**                 | Competitive                         |
-| **Game Developer**                    | Competitive                         |
-| **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer)** | Competitive                         |
-| **Product Manager**                   | Competitive                         |
+| **Infrastructure Engineer** | Competitive |
+| **Backend Developer** | Competitive |
+| **Game Developer** | Competitive |
+| **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer)** | Competitive |
+| **Product Manager** | Competitive |
 
 ### Career Paths in Seattle Web3
 
@@ -70,25 +70,25 @@ There are various career paths one can pursue in Seattle's Web3 ecosystem, each 
 #### Path 1: Infrastructure/Backend Specialist (12-20 Month Timeline)
 
 - **Months 1-6: Build Systems Expertise**
-  - Master Go, Rust, and distributed systems.
-  - Learn blockchain node architecture and Layer 2 solutions.
-  - Develop 2-3 infrastructure projects (e.g., indexers, relayers).
-  - Network with infrastructure engineers and protocol teams.
-  - **Deliverable:** Demonstrated systems expertise and portfolio projects.
+ - Master Go, Rust, and distributed systems.
+ - Learn blockchain node architecture and Layer 2 solutions.
+ - Develop 2-3 infrastructure projects (e.g., indexers, relayers).
+ - Network with infrastructure engineers and protocol teams.
+ - **Deliverable:** Demonstrated systems expertise and portfolio projects.
 
 - **Months 7-12: Gain Visibility**
-  - Contribute to a prominent protocol like Ethereum or Solana.
-  - Publish technical articles focusing on infrastructure.
-  - Apply for roles within major infrastructure companies.
-  - **Expected Salary:** Competitive.
+ - Contribute to a prominent protocol like Ethereum or Solana.
+ - Publish technical articles focusing on infrastructure.
+ - Apply for roles within major infrastructure companies.
+ - **Expected Salary:** Competitive.
 
 - **Months 13-18: Move to Senior/Architect Roles**
-  - Lead an infrastructure team or oversee a major system.
-  - **Expected Salary:** Competitive.
+ - Lead an infrastructure team or oversee a major system.
+ - **Expected Salary:** Competitive.
 
 - **Months 19-20: Aim for Principal/CTO Roles**
-  - Target positions as chief architect or CTO.
-  - **Expected Compensation:** Competitive plus equity.
+ - Target positions as chief architect or CTO.
+ - **Expected Compensation:** Competitive plus equity.
 
 **Quick Wins:**
 - Infrastructure grants vary.
@@ -98,25 +98,25 @@ There are various career paths one can pursue in Seattle's Web3 ecosystem, each 
 #### Path 2: Game Developer/Engineer (14-24 Month Timeline)
 
 - **Months 1-6: Understand Web3 Game Fundamentals**
-  - Master Unity or Unreal with Web3 integration.
-  - Learn NFT mechanics, tokenomics, and game loops.
-  - Create 2-3 playable Web3 game prototypes.
-  - Network with game developers and blockchain engineers.
-  - **Deliverable:** Established game development expertise.
+ - Master Unity or Unreal with Web3 integration.
+ - Learn NFT mechanics, tokenomics, and game loops.
+ - Create 2-3 playable Web3 game prototypes.
+ - Network with game developers and blockchain engineers.
+ - **Deliverable:** Established game development expertise.
 
 - **Months 7-12: Build and Launch**
-  - Deploy one playable Web3 game.
-  - Aim for a significant player base or critical acclaim for your game.
-  - Apply for senior roles at gaming studios.
-  - **Expected Salary:** Competitive.
+ - Deploy one playable Web3 game.
+ - Aim for a significant player base or critical acclaim for your game.
+ - Apply for senior roles at gaming studios.
+ - **Expected Salary:** Competitive.
 
 - **Months 13-20: Transition to Lead Developer/Director**
-  - Take a leadership role in game development or creative direction.
-  - **Expected Salary:** Competitive.
+ - Take a leadership role in game development or creative direction.
+ - **Expected Salary:** Competitive.
 
 - **Months 21-24: Become a Creative Director/Founder**
-  - Assume the position of creative director or co-founder of a studio.
-  - **Expected Compensation:** Competitive plus equity.
+ - Assume the position of creative director or co-founder of a studio.
+ - **Expected Compensation:** Competitive plus equity.
 
 **Quick Wins:**
 - Participate in game hackathons with rewards.
@@ -126,25 +126,25 @@ There are various career paths one can pursue in Seattle's Web3 ecosystem, each 
 #### Path 3: Full-Stack Web3 Engineer (10-18 Month Timeline)
 
 - **Months 1-5: Develop Full-Stack Foundation**
-  - Master smart contracts, backend, and frontend development.
-  - Learn Web3 architecture and security best practices.
-  - Build 2-3 complete dApps, from frontend to smart contracts.
-  - Network with full-stack developers.
-  - **Deliverable:** Expertise in full-stack development and completed projects.
+ - Master smart contracts, backend, and frontend development.
+ - Learn Web3 architecture and security best practices.
+ - Build 2-3 complete dApps, from frontend to smart contracts.
+ - Network with full-stack developers.
+ - **Deliverable:** Expertise in full-stack development and completed projects.
 
 - **Months 6-10: Create a Product**
-  - Deploy one production dApp with real users.
-  - Achieve significant user engagement.
-  - Apply for full-stack roles at protocols or platforms.
-  - **Expected Salary:** Competitive.
+ - Deploy one production dApp with real users.
+ - Achieve significant user engagement.
+ - Apply for full-stack roles at protocols or platforms.
+ - **Expected Salary:** Competitive.
 
 - **Months 11-16: Ascend to Senior/Tech Lead**
-  - Lead a technical team or oversee a major product.
-  - **Expected Salary:** Competitive.
+ - Lead a technical team or oversee a major product.
+ - **Expected Salary:** Competitive.
 
 - **Months 17-18: Transition to VP Engineering/Founder**
-  - Aim for a role as VP engineering or co-founder.
-  - **Expected Compensation:** Competitive plus equity.
+ - Aim for a role as VP engineering or co-founder.
+ - **Expected Compensation:** Competitive plus equity.
 
 **Quick Wins:**
 - Compete in hackathons for awards.
@@ -157,13 +157,13 @@ Seattle offers several advantages for professionals in the Web3 sector:
 
 - **Technical Excellence**: The city's AWS and Azure talent pool builds infrastructure expertise. Its gaming heritage contributes to experienced game developers, creating an engineering-first culture that emphasizes quality.
 - **Market Dynamics**: Seattle's market is less saturated than other major tech cities, offering high salaries for quality work and unique opportunities at the intersection of gaming and Web3.
-  
+
 ### Challenges and Solutions
 
 - **Smaller Startup Ecosystem**: Fewer startups exist compared to larger cities. Focus on established companies, such as Microsoft or Amazon, or consider remote roles to access broader opportunities.
-  
+
 - **Conservative Culture**: The Seattle market often prioritizes proven infrastructure over flashy projects. Focus on building sustainable, audited code to align with local values.
-  
+
 - **Weather and Location**: While the rainy climate may deter some, remote-first roles are available, and living in Seattle often comes with a lower cost of living compared to other tech hubs.
 
 - **Corporate Hiring Pace**: Large companies can have slower hiring processes than startups. Plan for longer hiring cycles, but expect competitive compensation that justifies the wait.
@@ -206,27 +206,26 @@ Seattle offers several advantages for professionals in the Web3 sector:
 
 ### Career FAQs for Seattle
 
-**Q1: Is Seattle better for infrastructure or gaming?**  
+**Q1: Is Seattle better for infrastructure or gaming?** 
 A: Both sectors are strong, with a slight edge in infrastructure due to the AWS talent pool, although gaming is rapidly gaining traction.
 
-**Q2: Can I work remotely while living in Seattle?**  
+**Q2: Can I work remotely while living in Seattle?** 
 A: Yes, many roles offer remote options. The cost of living in Seattle is reasonable compared to other major tech cities.
 
-**Q3: What is the fastest path to earning over $200,000 per year?**  
+**Q3: What is the fastest path to earning over $200,000 per year?** 
 A: Specializing in infrastructure is often the quickest route, typically taking 12-16 months with strong skills and project delivery.
 
-**Q4: How important is traditional game development experience?**  
+**Q4: How important is traditional game development experience?** 
 A: While beneficial, it is not mandatory. Developers focused on Web3 can quickly acquire the necessary skills.
 
-**Q5: Should I prioritize startups or established companies?**  
+**Q5: Should I prioritize startups or established companies?** 
 A: Both options have their merits. Startups offer faster learning and potential upside, while larger tech firms provide stability and resources.
 
-**Q6: Are game studios in Seattle developing Web3 games?**  
+**Q6: Are game studios in Seattle developing Web3 games?** 
 A: Yes, studios are actively working on Web3 projects, along with larger studios exploring this space.
 
-**Q7: What is Seattle's biggest advantage?**  
+**Q7: What is Seattle's biggest advantage?** 
 A: The city’s emphasis on reliable infrastructure leads to higher compensation for solid engineering talent.
 
-**Q8: Can I start part-time initially?**  
+**Q8: Can I start part-time initially?** 
 A: Yes, building projects and establishing your reputation before transitioning to full-time work is feasible.
-

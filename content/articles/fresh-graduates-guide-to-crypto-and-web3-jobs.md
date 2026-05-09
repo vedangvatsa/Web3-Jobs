@@ -41,23 +41,23 @@ Your journey begins with education and immersion in the culture and technology o
 1. **Learn the Fundamentals**
 
 Understanding the core concepts is essential. Start with these resources:
-   - [What is a Blockchain?](/what-is-a-blockchain)
-   - [What is Web3?](/what-is-web3)
-   - [What are Smart Contracts?](/what-are-smart-contracts)
-   - [What is DeFi?](/what-is-defi)
-   - [What are NFTs?](/what-are-nfts)
+ - [What is a Blockchain?](/what-is-a-blockchain)
+ - [What is Web3?](/what-is-web3)
+ - [What are Smart Contracts?](/what-are-smart-contracts)
+ - [What is DeFi?](/what-is-defi)
+ - [What are NFTs?](/what-are-nfts)
 
 2. **Become an Active User**
 
 Engagement with products is non-negotiable. Here are practical steps:
-   - Create a MetaMask [wallet](/how-to-choose-a-crypto-wallet).
-   - Purchase a small amount of [ETH](/what-is-ethereum) and transfer it to your wallet.
-   - Execute a swap on a [decentralized exchange](/what-is-a-decentralized-exchange-dex) like Uniswap.
-   - Join Discord servers of projects that interest you.
+ - Create a MetaMask [wallet](/how-to-choose-a-crypto-wallet).
+ - Purchase a small amount of [ETH](/what-is-ethereum) and transfer it to your wallet.
+ - Execute a swap on a [decentralized exchange](/what-is-a-decentralized-exchange-dex) like Uniswap.
+ - Join Discord servers of projects that interest you.
 
 3. **Curate Your Information Sources**
 
-Twitter (now X) serves as the main platform for Web3 discussions. Create a dedicated account to follow key figures, projects, and researchers. Additionally, listen to podcasts like Bankless and Unchained to stay updated on industry trends.
+Twitter (now X) serves as the main platform for Web3 discussions. Create a dedicated account to follow key figures, projects, and researchers. listen to podcasts like Bankless and Unchained to stay updated on industry trends.
 
 ### Step 2: Build Your Portfolio of Work
 
@@ -68,28 +68,28 @@ Creating a portfolio that demonstrates your skills is critical.
 - **Your GitHub is Your Resume:** Focus on Building a strong GitHub profile.
 - **Learn [Solidity](/best-programming-languages-for-blockchain-development):** Use free tutorials like CryptoZombies.
 - **Develop Projects:**
-  - *Beginner Project:* Create and deploy your own ERC-20 token using OpenZeppelin's standard contracts.
-  - *Intermediate Project:* Build a simple NFT minting dApp with a basic frontend.
-  - *Advanced Project:* Create a staking dApp allowing users to deposit your ERC-20 token for rewards.
+ - *Beginner Project:* Create and deploy your own ERC-20 token using OpenZeppelin's standard contracts.
+ - *Intermediate Project:* Build a simple NFT minting dApp with a basic frontend.
+ - *Advanced Project:* Create a staking dApp allowing users to deposit your ERC-20 token for rewards.
 - **Participate in Hackathons:** Engage in events hosted by ETHGlobal. Hackathons offer intense learning opportunities and many companies recruit directly from the participants.
 
 #### For Aspiring Non-Technical Professionals (Marketing, Community, Product)
 
 - **Your Public Content is Your Resume:** Showcase your knowledge through content creation.
 - **Start Writing:** Use platforms like Mirror or Substack to document your learning journey.
-  - *Idea:* Conduct a thorough analysis of a project's tokenomics or marketing strategy.
-  - *Idea:* Write a straightforward tutorial on how to use a popular [DeFi](/what-is-defi) protocol.
+ - *Idea:* Conduct a thorough analysis of a project's tokenomics or marketing strategy.
+ - *Idea:* Write a straightforward tutorial on how to use a popular [DeFi](/what-is-defi) protocol.
 - **Learn Data Analytics:** Familiarize yourself with basic SQL to build dashboards on Dune Analytics.
-  - *Idea:* Create a dashboard that tracks user growth for a new Web3 game.
+ - *Idea:* Create a dashboard that tracks user growth for a new Web3 game.
 - **Engage with Communities:** Identify a [DAO](/the-rise-of-daos) you admire and become an active participant.
-  - *Idea:* Take detailed notes on community calls and share them.
-  - *Idea:* Assist new members by answering questions in Discord.
+ - *Idea:* Take detailed notes on community calls and share them.
+ - *Idea:* Assist new members by answering questions in Discord.
 
 ### Step 3: Secure an Internship
 
 A [Web3 internship](/web3-internship-101) serves as a important bridge from academic life to a full-time position.
 
-- **Where to Look:** Use your portfolio to apply for internships on job boards. Additionally, active contributions to a DAO or on GitHub can lead to internship offers.
+- **Where to Look:** Use your portfolio to apply for internships on job boards. active contributions to a DAO or on GitHub can lead to internship offers.
 - **Prioritize Learning Over Compensation:** Your focus should be on gaining experience and expanding your network. Even a short, unpaid internship can provide valuable insights and add a real project to your resume.
 
 ### Step 4: Tailor Your Resume and Prepare for Interviews
@@ -99,4 +99,3 @@ A [Web3 internship](/web3-internship-101) serves as a important bridge from acad
 - **Ask Informed Questions:** Prepare specific inquiries about the protocol's technology, governance, and challenges to demonstrate your genuine interest and research.
 
 As a fresh graduate, you can capitalize on your enthusiasm and willingness to learn. The Web3 industry highly values this potential. By adopting a proactive, contribution-focused approach, you can create a powerful portfolio that opens doors and launches you into a fulfilling career in this new sector.
-

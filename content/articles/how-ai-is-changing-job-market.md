@@ -24,11 +24,11 @@ AI is also making strides in creative and sophisticated sectors. Legal professio
 
 #### Key Areas of Transformation
 
-| Area of Impact                      | Description                                                                                           |
+| Area of Impact | Description |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------|
-| **Automation of Repetitive Tasks**  | Roles with routine tasks, such as data processing and quality control, are the first to be automated. |
-| **Augmentation of Complex Roles**   | Professionals like financial analysts and engineers use AI for faster data analysis and risk assessment. |
-| **Creation of New Roles**           | New job categories are emerging, including AI Specialists, Machine Learning Engineers, and Prompt Engineers. |
+| **Automation of Repetitive Tasks** | Roles with routine tasks, such as data processing and quality control, are the first to be automated. |
+| **Augmentation of Complex Roles** | Professionals like financial analysts and engineers use AI for faster data analysis and risk assessment. |
+| **Creation of New Roles** | New job categories are emerging, including AI Specialists, Machine Learning Engineers, and Prompt Engineers. |
 
 ### Industries Experiencing Rapid Change
 
@@ -100,11 +100,11 @@ Grasping the impact of AI on the job market is vital for professional success. I
 
 ### Real-World Examples
 
-| Name   | Role                       | Challenge                   | Outcome                                 |
+| Name | Role | Challenge | Outcome |
 |--------|----------------------------|-----------------------------|-----------------------------------------|
-| Sarah  | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with coding efficiency | Implemented AI strategies and improved coding speed significantly within a few months. |
-| Juan   | Product Manager in [DeFi](/what-is-defi) | Faced challenges in product development | Adopted AI tools, resulting in a faster time to market for new features.|
-| Maya   | Transitioning from Web2 to Web3 | Needed to adapt to new technologies | Successfully used new skills to enhance team collaboration and productivity. |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with coding efficiency | Implemented AI strategies and improved coding speed significantly within a few months. |
+| Juan | Product Manager in [DeFi](/what-is-defi) | Faced challenges in product development | Adopted AI tools, resulting in a faster time to market for new features.|
+| Maya | Transitioning from Web2 to Web3 | Needed to adapt to new technologies | Successfully used new skills to enhance team collaboration and productivity. |
 
 ### Common Mistakes to Avoid
 
@@ -113,4 +113,3 @@ Grasping the impact of AI on the job market is vital for professional success. I
 3. **One-Size-Fits-All Approach**: Strategies effective for others may not suit your situation. Tailor your approach to your context.
 4. **Giving Up Too Soon**: Change can be uncomfortable. Persist through initial challenges to achieve better outcomes.
 5. **Not Tracking Progress**: You cannot improve what you do not measure. Keep metrics on your progress.
-

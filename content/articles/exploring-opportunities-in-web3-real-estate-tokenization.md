@@ -27,7 +27,7 @@ Tokenization of real estate follows a structured process:
 #### 1. Real Estate Tokenization Platform Developer
 
 These developers design platforms that enable tokenization and trading of real estate assets.
-- **Skills Required:** Proficiency in smart contract development, knowledge of token standards, and experience in decentralized finance (DeFi) are essential. Additionally, backend engineering skills are necessary to create systems that connect with real-world property data.
+- **Skills Required:** Proficiency in smart contract development, knowledge of token standards, and experience in decentralized finance (DeFi) are essential. backend engineering skills are necessary to create systems that connect with real-world property data.
 
 #### 2. Legal & Compliance Specialist
 
@@ -49,4 +49,3 @@ The value of tokenized real estate increases when it can serve as collateral in 
 The tokenization of real estate is still nascent, facing hurdles such as regulatory uncertainty and the challenge of accurately valuing physical assets on-chain. However, the advantages, such as increased liquidity, fractional ownership, and higher transparency, are substantial. As regulatory frameworks solidify and technology advances, the intersection of Web3 and real estate is set to become a significant growth area, generating numerous job opportunities for professionals proficient in both domains.
 
 ### The Web3 Employment Market
-

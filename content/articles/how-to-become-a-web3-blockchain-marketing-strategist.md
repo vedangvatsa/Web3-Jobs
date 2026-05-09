@@ -16,12 +16,12 @@ A Web3 Marketing Strategist oversees a project’s entire go-to-market strategy,
 
 ### The Web3 Marketing Playbook: Key Differences
 
-| Key Aspect               | Web2 Approach                                 | Web3 Approach                                   |
+| Key Aspect | Web2 Approach | Web3 Approach |
 |-------------------------|-----------------------------------------------|------------------------------------------------|
-| Marketing Focus         | Driving clicks and impressions                | Building a growing community                   |
-| Content Strategy        | Generic promotional material                  | High-quality educational content                |
-| Brand Authenticity      | Corporate messaging                           | Transparent and authentic communication          |
-| Meme Use        | Minimal impact                                | Integral to community engagement                |
+| Marketing Focus | Driving clicks and impressions | Building a growing community |
+| Content Strategy | Generic promotional material | High-quality educational content |
+| Brand Authenticity | Corporate messaging | Transparent and authentic communication |
+| Meme Use | Minimal impact | Integral to community engagement |
 
 - **Community as the Core:** The objective shifts from merely generating clicks to building a lively community. In Web3, the marketing funnel progresses from discovery to immersion (often through platforms like Discord), then to contribution, and ultimately to ownership.
 - **Content as Authority:** Education serves as a powerful marketing tool. Producing high-quality content that simplifies complex topics cultivates trust and authority among audiences.
@@ -40,10 +40,9 @@ A Web3 Marketing Strategist oversees a project’s entire go-to-market strategy,
 
 1. **Immerse Yourself in the Culture:** Understanding the culture is vital. Engage actively with [DeFi](/what-is-defi) and [NFTs](/what-are-nfts) while participating in target communities.
 2. **Develop a Public [Portfolio](/building-web3-portfolio):** Your "proof of work" serves as a strong resume.
-    - Create a Twitter account or blog to analyze successful Web3 marketing strategies.
-    - Draft a detailed go-to-market plan for a hypothetical project.
-    - Design a meme that resonates within the community.
+ - Create a Twitter account or blog to analyze successful Web3 marketing strategies.
+ - Draft a detailed go-to-market plan for a hypothetical project.
+ - Design a meme that resonates within the community.
 3. **Engage with a [DAO](/what-is-a-dao):** Joining a marketing-focused guild in a DAO provides real-world, verifiable experience. This hands-on involvement is invaluable.
 
 A career as a Web3 Marketing Strategist offers the chance to shape the future of marketing. This field rewards creativity, community-building instincts, and a genuine passion for the decentralized ecosystem.
-

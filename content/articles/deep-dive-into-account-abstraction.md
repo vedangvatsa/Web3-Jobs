@@ -75,12 +75,12 @@ Web3 requires users to sign every action, which can be burdensome in gaming scen
 
 A Smart Account can be programmed to execute multiple operations within a single transaction. For example, a user could approve a [token](/what-is-a-token) swap and then immediately [stake](/how-to-become-a-web3-staking-specialist) the received tokens in a liquidity pool, all in one atomic transaction. This saves on gas fees and simplifies complex [DeFi](/what-is-defi) interactions.
 
-| Feature                     | Description                                                                                      |
+| Feature | Description |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
-| **Social Recovery**         | Allows users to designate guardians for account recovery.                                       |
-| **Gasless Transactions**     | Enables dApps to cover gas fees, allowing user interactions without ETH.                        |
-| **Session Keys**            | Provides temporary keys for specific actions to reduce the number of required user signatures.   |
-| **Batch Transactions**       | Permits execution of multiple operations in a single transaction to simplify user interactions.   |
+| **Social Recovery** | Allows users to designate guardians for account recovery. |
+| **Gasless Transactions** | Enables dApps to cover gas fees, allowing user interactions without ETH. |
+| **Session Keys** | Provides temporary keys for specific actions to reduce the number of required user signatures. |
+| **Batch Transactions** | Permits execution of multiple operations in a single transaction to simplify user interactions. |
 
 ## The Path to a Billion Users
 
@@ -89,4 +89,3 @@ Account Abstraction transforms Web3 user accounts from simple seed-phrase-contro
 EIP-4337's capabilities allow dApps to compete with the usability of leading Web2 applications. It smooths out the harshest aspects of the crypto experience, seed phrases and gas fees, that have long deterred average internet users from engaging.
 
 As the infrastructure for bundlers and paymasters develops, and with increasing adoption of the EIP-4337 standard by wallet providers, Account Abstraction is set to become the norm for a new generation of Web3 users. It represents a critical advancement necessary for onboarding the next billion users to the decentralized web.
-

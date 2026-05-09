@@ -49,13 +49,13 @@ Transitioning to UX/UI demands acquiring a new skill set and mindset.
 
 Familiarity with industry-standard design tools is critical.
 
-| Tool          | Description                                                                                |
+| Tool | Description |
 |---------------|--------------------------------------------------------------------------------------------|
-| **Figma**     | Currently the most widely used platform for UI design and collaborative prototyping.       |
-| **Adobe XD**  | Although less dominant than Figma, it's still a preferred choice for some projects.       |
-| **Sketch**    | Used by certain companies, particularly in Mac environments.                              |
-| **Maze**      | A tool for usability testing that helps validate design decisions.                         |
-| **Dovetail**  | Organizes research data efficiently, facilitating better insights from user studies.       |
+| **Figma** | Currently the most widely used platform for UI design and collaborative prototyping. |
+| **Adobe XD** | Although less dominant than Figma, it's still a preferred choice for some projects. |
+| **Sketch** | Used by certain companies, particularly in Mac environments. |
+| **Maze** | A tool for usability testing that helps validate design decisions. |
+| **Dovetail** | Organizes research data efficiently, facilitating better insights from user studies. |
 
 Start by mastering Figma, as it is a key tool in the industry.
 
@@ -66,16 +66,16 @@ Your [portfolio](/building-web3-portfolio) serves as your most important asset i
 **Methods to Build a Portfolio:**
 
 1. **Passion Projects**:
-   - Identify a problem you care about and design an app or website to address it.
-   - Document your entire process: user research, personas, user flows, and the evolution from low-fidelity wireframes to a polished prototype.
+ - Identify a problem you care about and design an app or website to address it.
+ - Document your entire process: user research, personas, user flows, and the evolution from low-fidelity wireframes to a polished prototype.
 
 2. **Redesign Existing Apps**:
-   - Select an app with a subpar user experience.
-   - Conduct a UX audit to pinpoint flaws.
-   - Propose a new user flow and design changes, demonstrating your critical thinking and design rationale.
+ - Select an app with a subpar user experience.
+ - Conduct a UX audit to pinpoint flaws.
+ - Propose a new user flow and design changes, demonstrating your critical thinking and design rationale.
 
 3. **Volunteer for Non-Profits or Open-Source Projects**:
-   - Many organizations seek design assistance but lack funding. This offers a valuable opportunity to gain practical experience.
+ - Many organizations seek design assistance but lack funding. This offers a valuable opportunity to gain practical experience.
 
 Your portfolio should consist of case studies, not just visual showcases. Each project must tell a story, explaining the problem, your process, challenges encountered, and the rationale behind your design choices.
 
@@ -119,4 +119,3 @@ Introduce changes incrementally. Start with small adjustments and build on succe
 
 **Step 5: Measure and Adjust**
 Monitor progress and adapt as necessary. Continuous improvement requires an open mindset to feedback and outcomes.
-

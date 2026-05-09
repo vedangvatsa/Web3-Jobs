@@ -1,363 +1,363 @@
 {
-  "meta": {
-    "contentType": "checklists",
-    "topic": "security",
-    "niche": "solidity-developer",
-    "generatedAt": "2026-03-13T00:00:00.000Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "Smart Contract Security Checklist for Solidity Developers",
-    "description": "A comprehensive security checklist for Solidity developers to audit their smart contracts before deployment. Covers reentrancy, access control, and more.",
-    "keywords": ["solidity-developer", "checklists", "security", "web3", "smart-contract", "audit", "reentrancy", "Solidity", "Foundry"],
-    "canonicalSlug": "security-checklists-for-solidity-developer"
-  },
-  "content": {
-    "intro": "This security checklist covers the most critical vulnerabilities and best practices every Solidity developer should verify before deploying a smart contract. Use it as your pre-deployment audit guide to catch issues before they become exploits.",
-    "sections": [
-      {
-        "heading": "Reentrancy Protection",
-        "description": "Reentrancy is one of the most common and dangerous vulnerabilities. Ensure all external calls are protected.",
-        "items": [
-          {
-            "title": "Use ReentrancyGuard on all external-facing functions",
-            "description": "Apply OpenZeppelin's ReentrancyGuard or implement checks-effects-interactions pattern on any function that makes external calls.",
-            "priority": "critical",
-            "category": "Reentrancy"
-          },
-          {
-            "title": "Follow checks-effects-interactions pattern",
-            "description": "Always update state variables before making external calls. Never update state after external calls.",
-            "priority": "critical",
-            "category": "Reentrancy"
-          },
-          {
-            "title": "Audit cross-function reentrancy",
-            "description": "Check if an attacker can re-enter through a different function that shares state with the vulnerable function.",
-            "priority": "critical",
-            "category": "Reentrancy"
-          },
-          {
-            "title": "Review read-only reentrancy risks",
-            "description": "View functions called by other protocols can return stale data during reentrancy. Mark state-changing functions appropriately.",
-            "priority": "important",
-            "category": "Reentrancy"
-          },
-          {
-            "title": "Check ERC-777 token callbacks",
-            "description": "If your contract interacts with arbitrary ERC-20s, ensure you're protected against ERC-777 callbacks.",
-            "priority": "important",
-            "category": "Reentrancy"
-          },
-          {
-            "title": "Verify ERC-721/1155 callback safety",
-            "description": "onERC721Received and onERC1155Received can be reentrancy vectors. Protect accordingly.",
-            "priority": "important",
-            "category": "Reentrancy"
-          },
-          {
-            "title": "Review flashloan interaction safety",
-            "description": "If your contract can be called within a flashloan, ensure all invariants hold within a single transaction.",
-            "priority": "important",
-            "category": "Reentrancy"
-          },
-          {
-            "title": "Test with Foundry invariant tests",
-            "description": "Write invariant tests that attempt reentrancy during fuzzing to catch edge cases.",
-            "priority": "nice-to-have",
-            "category": "Reentrancy"
-          },
-          {
-            "title": "Document reentrancy assumptions",
-            "description": "Add NatSpec comments explaining which functions are reentrancy-safe and why.",
-            "priority": "nice-to-have",
-            "category": "Reentrancy"
-          },
-          {
-            "title": "Consider pull-over-push pattern",
-            "description": "Where possible, let users withdraw funds rather than pushing to them automatically.",
-            "priority": "important",
-            "category": "Reentrancy"
-          }
-        ]
-      },
-      {
-        "heading": "Access Control",
-        "description": "Verify that only authorized addresses can call privileged functions.",
-        "items": [
-          {
-            "title": "Implement role-based access control",
-            "description": "Use OpenZeppelin's AccessControl or Ownable2Step for managing admin permissions.",
-            "priority": "critical",
-            "category": "Access Control"
-          },
-          {
-            "title": "Use two-step ownership transfer",
-            "description": "Implement Ownable2Step to prevent accidental ownership loss from typos in transfer.",
-            "priority": "critical",
-            "category": "Access Control"
-          },
-          {
-            "title": "Verify all admin functions have modifiers",
-            "description": "Audit every function that should be restricted and ensure proper modifiers are applied.",
-            "priority": "critical",
-            "category": "Access Control"
-          },
-          {
-            "title": "Review initializer protection",
-            "description": "For upgradeable contracts, ensure initializers can only be called once and by the deployer.",
-            "priority": "critical",
-            "category": "Access Control"
-          },
-          {
-            "title": "Check for missing zero-address validation",
-            "description": "Validate that critical addresses (owner, admin, fee recipient) cannot be set to address(0).",
-            "priority": "important",
-            "category": "Access Control"
-          },
-          {
-            "title": "Implement timelock for sensitive operations",
-            "description": "Add time delays for critical admin functions to give users time to react.",
-            "priority": "important",
-            "category": "Access Control"
-          },
-          {
-            "title": "Review function visibility",
-            "description": "Ensure internal/private functions aren't accidentally exposed as public/external.",
-            "priority": "critical",
-            "category": "Access Control"
-          },
-          {
-            "title": "Audit delegatecall targets",
-            "description": "Any delegatecall to user-controlled addresses can be used to hijack the contract.",
-            "priority": "critical",
-            "category": "Access Control"
-          },
-          {
-            "title": "Verify constructor/initializer sets owner",
-            "description": "Ensure ownership is properly assigned during deployment, not left as address(0).",
-            "priority": "critical",
-            "category": "Access Control"
-          },
-          {
-            "title": "Test access control in all code paths",
-            "description": "Write tests that verify unauthorized users cannot access restricted functions.",
-            "priority": "important",
-            "category": "Access Control"
-          }
-        ]
-      },
-      {
-        "heading": "Arithmetic & Data Validation",
-        "description": "Ensure all mathematical operations and input data are handled safely.",
-        "items": [
-          {
-            "title": "Use Solidity 0.8+ for overflow protection",
-            "description": "Solidity 0.8+ has built-in overflow/underflow checks. For unchecked blocks, verify manually.",
-            "priority": "critical",
-            "category": "Arithmetic"
-          },
-          {
-            "title": "Validate division by zero scenarios",
-            "description": "Check all division operations for potential zero denominators.",
-            "priority": "critical",
-            "category": "Arithmetic"
-          },
-          {
-            "title": "Review precision loss in calculations",
-            "description": "Order operations to minimize precision loss: multiply before divide.",
-            "priority": "important",
-            "category": "Arithmetic"
-          },
-          {
-            "title": "Validate array bounds",
-            "description": "Ensure array access uses valid indices, especially with user-supplied indices.",
-            "priority": "important",
-            "category": "Data Validation"
-          },
-          {
-            "title": "Check for phantom function signatures",
-            "description": "Verify fallback/receive functions don't accidentally catch intended function calls.",
-            "priority": "important",
-            "category": "Data Validation"
-          },
-          {
-            "title": "Validate external call return values",
-            "description": "Always check return values from external calls, especially low-level calls.",
-            "priority": "critical",
-            "category": "External Calls"
-          },
-          {
-            "title": "Use SafeERC20 for token transfers",
-            "description": "Some tokens don't return booleans. Use SafeERC20 to handle all cases.",
-            "priority": "critical",
-            "category": "External Calls"
-          },
-          {
-            "title": "Validate deadline parameters",
-            "description": "If using deadlines, ensure block.timestamp comparisons are correct (< vs <=).",
-            "priority": "important",
-            "category": "Data Validation"
-          },
-          {
-            "title": "Check signature malleability",
-            "description": "Use OpenZeppelin's ECDSA library which handles signature malleability.",
-            "priority": "important",
-            "category": "Cryptography"
-          },
-          {
-            "title": "Validate chainId for signatures",
-            "description": "Include chainId in EIP-712 signatures to prevent cross-chain replay attacks.",
-            "priority": "critical",
-            "category": "Cryptography"
-          }
-        ]
-      },
-      {
-        "heading": "Gas & Economic Security",
-        "description": "Protect against gas griefing and economic attacks.",
-        "items": [
-          {
-            "title": "Limit unbounded loops",
-            "description": "Avoid iterating over arrays that can grow unboundedly. Use pagination or caps.",
-            "priority": "critical",
-            "category": "Gas"
-          },
-          {
-            "title": "Set gas limits for external calls",
-            "description": "Use .call{gas: X}() to prevent called contracts from consuming all gas.",
-            "priority": "important",
-            "category": "Gas"
-          },
-          {
-            "title": "Check for block gas limit DoS",
-            "description": "Ensure no operation can exceed block gas limit, making the contract unusable.",
-            "priority": "important",
-            "category": "Gas"
-          },
-          {
-            "title": "Validate oracle price freshness",
-            "description": "Check that oracle prices are recent and not stale. Implement heartbeat checks.",
-            "priority": "critical",
-            "category": "Oracles"
-          },
-          {
-            "title": "Implement slippage protection",
-            "description": "Allow users to specify minimum output amounts to prevent sandwich attacks.",
-            "priority": "critical",
-            "category": "Economic"
-          },
-          {
-            "title": "Review flashloan attack vectors",
-            "description": "Assume an attacker can borrow unlimited capital in a single transaction.",
-            "priority": "critical",
-            "category": "Economic"
-          },
-          {
-            "title": "Check for front-running vulnerabilities",
-            "description": "Use commit-reveal or private mempools for operations sensitive to ordering.",
-            "priority": "important",
-            "category": "MEV"
-          },
-          {
-            "title": "Validate fee calculations",
-            "description": "Ensure fee percentages don't overflow and are capped at reasonable values.",
-            "priority": "important",
-            "category": "Economic"
-          },
-          {
-            "title": "Test with extreme values",
-            "description": "Fuzz test with type(uint256).max and 0 to catch edge cases.",
-            "priority": "important",
-            "category": "Testing"
-          },
-          {
-            "title": "Review incentive alignment",
-            "description": "Analyze if any actor has incentive to act maliciously. Design for adversarial conditions.",
-            "priority": "important",
-            "category": "Economic"
-          }
-        ]
-      },
-      {
-        "heading": "Pre-Deployment Verification",
-        "description": "Final checks before deploying to mainnet.",
-        "items": [
-          {
-            "title": "Run Slither static analysis",
-            "description": "Execute 'slither .' and address all high/medium findings.",
-            "priority": "critical",
-            "category": "Tooling"
-          },
-          {
-            "title": "Run Foundry invariant tests",
-            "description": "Create and run invariant tests to catch unexpected state violations.",
-            "priority": "critical",
-            "category": "Testing"
-          },
-          {
-            "title": "Achieve 100% branch coverage",
-            "description": "Use 'forge coverage' to ensure all code paths are tested.",
-            "priority": "important",
-            "category": "Testing"
-          },
-          {
-            "title": "Deploy to testnet first",
-            "description": "Deploy to Sepolia/Goerli and verify behavior matches expectations.",
-            "priority": "critical",
-            "category": "Deployment"
-          },
-          {
-            "title": "Verify contract on block explorer",
-            "description": "Publish source code on Etherscan for transparency.",
-            "priority": "important",
-            "category": "Deployment"
-          },
-          {
-            "title": "Document emergency procedures",
-            "description": "Create runbooks for pausing, upgrading, and recovering from incidents.",
-            "priority": "important",
-            "category": "Operations"
-          },
-          {
-            "title": "Set up monitoring",
-            "description": "Configure alerts for unusual activity using Tenderly, Forta, or OpenZeppelin Defender.",
-            "priority": "important",
-            "category": "Operations"
-          },
-          {
-            "title": "Review with fresh eyes",
-            "description": "Have a colleague review the code or wait 24 hours before final deployment.",
-            "priority": "nice-to-have",
-            "category": "Process"
-          },
-          {
-            "title": "Consider professional audit",
-            "description": "For contracts holding significant value, engage a professional auditor.",
-            "priority": "critical",
-            "category": "Process"
-          },
-          {
-            "title": "Create bug bounty program",
-            "description": "Set up an Immunefi bounty to incentivize responsible disclosure.",
-            "priority": "important",
-            "category": "Operations"
-          }
-        ]
-      }
-    ],
-    "proTips": [
-      "Use Foundry's forge test --fuzz-runs 10000 for thorough fuzzing - many bugs only appear with specific input combinations.",
-      "Set up CI/CD to run Slither on every PR. Block merges if new high-severity findings are introduced.",
-      "Keep a security assumptions document alongside your code, listing what must be true for the contract to be secure.",
-      "Join the Ethereum Security community on Discord and follow auditors on Twitter to stay updated on new attack vectors.",
-      "When in doubt, favor simplicity. Complex code has more attack surface. The best security is code that doesn't exist."
-    ],
-    "conclusion": "Security is not a one-time checklist but an ongoing process. Use this checklist before every deployment, stay updated on new vulnerabilities, and consider periodic re-audits for contracts holding significant value.",
-    "relatedResources": [
-      "60 Portfolio Project Ideas for Solidity Developers",
-      "Gas Optimization Guide for Solidity Developers",
-      "30 Common Security Mistakes Solidity Developers Make"
-    ]
-  }
+ "meta": {
+ "contentType": "checklists",
+ "topic": "security",
+ "niche": "solidity-developer",
+ "generatedAt": "2026-03-13T00:00:00.000Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "Smart Contract Security Checklist for Solidity Developers",
+ "description": "A comprehensive security checklist for Solidity developers to audit their smart contracts before deployment. Covers reentrancy, access control, and more.",
+ "keywords": ["solidity-developer", "checklists", "security", "web3", "smart-contract", "audit", "reentrancy", "Solidity", "Foundry"],
+ "canonicalSlug": "security-checklists-for-solidity-developer"
+ },
+ "content": {
+ "intro": "This security checklist covers the most critical vulnerabilities and best practices every Solidity developer should verify before deploying a smart contract. Use it as your pre-deployment audit guide to catch issues before they become exploits.",
+ "sections": [
+ {
+ "heading": "Reentrancy Protection",
+ "description": "Reentrancy is one of the most common and dangerous vulnerabilities. Ensure all external calls are protected.",
+ "items": [
+ {
+ "title": "Use ReentrancyGuard on all external-facing functions",
+ "description": "Apply OpenZeppelin's ReentrancyGuard or implement checks-effects-interactions pattern on any function that makes external calls.",
+ "priority": "critical",
+ "category": "Reentrancy"
+ },
+ {
+ "title": "Follow checks-effects-interactions pattern",
+ "description": "Always update state variables before making external calls. Never update state after external calls.",
+ "priority": "critical",
+ "category": "Reentrancy"
+ },
+ {
+ "title": "Audit cross-function reentrancy",
+ "description": "Check if an attacker can re-enter through a different function that shares state with the vulnerable function.",
+ "priority": "critical",
+ "category": "Reentrancy"
+ },
+ {
+ "title": "Review read-only reentrancy risks",
+ "description": "View functions called by other protocols can return stale data during reentrancy. Mark state-changing functions appropriately.",
+ "priority": "important",
+ "category": "Reentrancy"
+ },
+ {
+ "title": "Check ERC-777 token callbacks",
+ "description": "If your contract interacts with arbitrary ERC-20s, ensure you're protected against ERC-777 callbacks.",
+ "priority": "important",
+ "category": "Reentrancy"
+ },
+ {
+ "title": "Verify ERC-721/1155 callback safety",
+ "description": "onERC721Received and onERC1155Received can be reentrancy vectors. Protect accordingly.",
+ "priority": "important",
+ "category": "Reentrancy"
+ },
+ {
+ "title": "Review flashloan interaction safety",
+ "description": "If your contract can be called within a flashloan, ensure all invariants hold within a single transaction.",
+ "priority": "important",
+ "category": "Reentrancy"
+ },
+ {
+ "title": "Test with Foundry invariant tests",
+ "description": "Write invariant tests that attempt reentrancy during fuzzing to catch edge cases.",
+ "priority": "nice-to-have",
+ "category": "Reentrancy"
+ },
+ {
+ "title": "Document reentrancy assumptions",
+ "description": "Add NatSpec comments explaining which functions are reentrancy-safe and why.",
+ "priority": "nice-to-have",
+ "category": "Reentrancy"
+ },
+ {
+ "title": "Consider pull-over-push pattern",
+ "description": "Where possible, let users withdraw funds rather than pushing to them automatically.",
+ "priority": "important",
+ "category": "Reentrancy"
+ }
+ ]
+ },
+ {
+ "heading": "Access Control",
+ "description": "Verify that only authorized addresses can call privileged functions.",
+ "items": [
+ {
+ "title": "Implement role-based access control",
+ "description": "Use OpenZeppelin's AccessControl or Ownable2Step for managing admin permissions.",
+ "priority": "critical",
+ "category": "Access Control"
+ },
+ {
+ "title": "Use two-step ownership transfer",
+ "description": "Implement Ownable2Step to prevent accidental ownership loss from typos in transfer.",
+ "priority": "critical",
+ "category": "Access Control"
+ },
+ {
+ "title": "Verify all admin functions have modifiers",
+ "description": "Audit every function that should be restricted and ensure proper modifiers are applied.",
+ "priority": "critical",
+ "category": "Access Control"
+ },
+ {
+ "title": "Review initializer protection",
+ "description": "For upgradeable contracts, ensure initializers can only be called once and by the deployer.",
+ "priority": "critical",
+ "category": "Access Control"
+ },
+ {
+ "title": "Check for missing zero-address validation",
+ "description": "Validate that critical addresses (owner, admin, fee recipient) cannot be set to address(0).",
+ "priority": "important",
+ "category": "Access Control"
+ },
+ {
+ "title": "Implement timelock for sensitive operations",
+ "description": "Add time delays for critical admin functions to give users time to react.",
+ "priority": "important",
+ "category": "Access Control"
+ },
+ {
+ "title": "Review function visibility",
+ "description": "Ensure internal/private functions aren't accidentally exposed as public/external.",
+ "priority": "critical",
+ "category": "Access Control"
+ },
+ {
+ "title": "Audit delegatecall targets",
+ "description": "Any delegatecall to user-controlled addresses can be used to hijack the contract.",
+ "priority": "critical",
+ "category": "Access Control"
+ },
+ {
+ "title": "Verify constructor/initializer sets owner",
+ "description": "Ensure ownership is properly assigned during deployment, not left as address(0).",
+ "priority": "critical",
+ "category": "Access Control"
+ },
+ {
+ "title": "Test access control in all code paths",
+ "description": "Write tests that verify unauthorized users cannot access restricted functions.",
+ "priority": "important",
+ "category": "Access Control"
+ }
+ ]
+ },
+ {
+ "heading": "Arithmetic & Data Validation",
+ "description": "Ensure all mathematical operations and input data are handled safely.",
+ "items": [
+ {
+ "title": "Use Solidity 0.8+ for overflow protection",
+ "description": "Solidity 0.8+ has built-in overflow/underflow checks. For unchecked blocks, verify manually.",
+ "priority": "critical",
+ "category": "Arithmetic"
+ },
+ {
+ "title": "Validate division by zero scenarios",
+ "description": "Check all division operations for potential zero denominators.",
+ "priority": "critical",
+ "category": "Arithmetic"
+ },
+ {
+ "title": "Review precision loss in calculations",
+ "description": "Order operations to minimize precision loss: multiply before divide.",
+ "priority": "important",
+ "category": "Arithmetic"
+ },
+ {
+ "title": "Validate array bounds",
+ "description": "Ensure array access uses valid indices, especially with user-supplied indices.",
+ "priority": "important",
+ "category": "Data Validation"
+ },
+ {
+ "title": "Check for phantom function signatures",
+ "description": "Verify fallback/receive functions don't accidentally catch intended function calls.",
+ "priority": "important",
+ "category": "Data Validation"
+ },
+ {
+ "title": "Validate external call return values",
+ "description": "Always check return values from external calls, especially low-level calls.",
+ "priority": "critical",
+ "category": "External Calls"
+ },
+ {
+ "title": "Use SafeERC20 for token transfers",
+ "description": "Some tokens don't return booleans. Use SafeERC20 to handle all cases.",
+ "priority": "critical",
+ "category": "External Calls"
+ },
+ {
+ "title": "Validate deadline parameters",
+ "description": "If using deadlines, ensure block.timestamp comparisons are correct (< vs <=).",
+ "priority": "important",
+ "category": "Data Validation"
+ },
+ {
+ "title": "Check signature malleability",
+ "description": "Use OpenZeppelin's ECDSA library which handles signature malleability.",
+ "priority": "important",
+ "category": "Cryptography"
+ },
+ {
+ "title": "Validate chainId for signatures",
+ "description": "Include chainId in EIP-712 signatures to prevent cross-chain replay attacks.",
+ "priority": "critical",
+ "category": "Cryptography"
+ }
+ ]
+ },
+ {
+ "heading": "Gas & Economic Security",
+ "description": "Protect against gas griefing and economic attacks.",
+ "items": [
+ {
+ "title": "Limit unbounded loops",
+ "description": "Avoid iterating over arrays that can grow unboundedly. Use pagination or caps.",
+ "priority": "critical",
+ "category": "Gas"
+ },
+ {
+ "title": "Set gas limits for external calls",
+ "description": "Use .call{gas: X}() to prevent called contracts from consuming all gas.",
+ "priority": "important",
+ "category": "Gas"
+ },
+ {
+ "title": "Check for block gas limit DoS",
+ "description": "Ensure no operation can exceed block gas limit, making the contract unusable.",
+ "priority": "important",
+ "category": "Gas"
+ },
+ {
+ "title": "Validate oracle price freshness",
+ "description": "Check that oracle prices are recent and not stale. Implement heartbeat checks.",
+ "priority": "critical",
+ "category": "Oracles"
+ },
+ {
+ "title": "Implement slippage protection",
+ "description": "Allow users to specify minimum output amounts to prevent sandwich attacks.",
+ "priority": "critical",
+ "category": "Economic"
+ },
+ {
+ "title": "Review flashloan attack vectors",
+ "description": "Assume an attacker can borrow unlimited capital in a single transaction.",
+ "priority": "critical",
+ "category": "Economic"
+ },
+ {
+ "title": "Check for front-running vulnerabilities",
+ "description": "Use commit-reveal or private mempools for operations sensitive to ordering.",
+ "priority": "important",
+ "category": "MEV"
+ },
+ {
+ "title": "Validate fee calculations",
+ "description": "Ensure fee percentages don't overflow and are capped at reasonable values.",
+ "priority": "important",
+ "category": "Economic"
+ },
+ {
+ "title": "Test with extreme values",
+ "description": "Fuzz test with type(uint256).max and 0 to catch edge cases.",
+ "priority": "important",
+ "category": "Testing"
+ },
+ {
+ "title": "Review incentive alignment",
+ "description": "Analyze if any actor has incentive to act maliciously. Design for adversarial conditions.",
+ "priority": "important",
+ "category": "Economic"
+ }
+ ]
+ },
+ {
+ "heading": "Pre-Deployment Verification",
+ "description": "Final checks before deploying to mainnet.",
+ "items": [
+ {
+ "title": "Run Slither static analysis",
+ "description": "Execute 'slither .' and address all high/medium findings.",
+ "priority": "critical",
+ "category": "Tooling"
+ },
+ {
+ "title": "Run Foundry invariant tests",
+ "description": "Create and run invariant tests to catch unexpected state violations.",
+ "priority": "critical",
+ "category": "Testing"
+ },
+ {
+ "title": "Achieve 100% branch coverage",
+ "description": "Use 'forge coverage' to ensure all code paths are tested.",
+ "priority": "important",
+ "category": "Testing"
+ },
+ {
+ "title": "Deploy to testnet first",
+ "description": "Deploy to Sepolia/Goerli and verify behavior matches expectations.",
+ "priority": "critical",
+ "category": "Deployment"
+ },
+ {
+ "title": "Verify contract on block explorer",
+ "description": "Publish source code on Etherscan for transparency.",
+ "priority": "important",
+ "category": "Deployment"
+ },
+ {
+ "title": "Document emergency procedures",
+ "description": "Create runbooks for pausing, upgrading, and recovering from incidents.",
+ "priority": "important",
+ "category": "Operations"
+ },
+ {
+ "title": "Set up monitoring",
+ "description": "Configure alerts for unusual activity using Tenderly, Forta, or OpenZeppelin Defender.",
+ "priority": "important",
+ "category": "Operations"
+ },
+ {
+ "title": "Review with fresh eyes",
+ "description": "Have a colleague review the code or wait 24 hours before final deployment.",
+ "priority": "nice-to-have",
+ "category": "Process"
+ },
+ {
+ "title": "Consider professional audit",
+ "description": "For contracts holding significant value, engage a professional auditor.",
+ "priority": "critical",
+ "category": "Process"
+ },
+ {
+ "title": "Create bug bounty program",
+ "description": "Set up an Immunefi bounty to incentivize responsible disclosure.",
+ "priority": "important",
+ "category": "Operations"
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ "Use Foundry's forge test --fuzz-runs 10000 for thorough fuzzing - many bugs only appear with specific input combinations.",
+ "Set up CI/CD to run Slither on every PR. Block merges if new high-severity findings are introduced.",
+ "Keep a security assumptions document alongside your code, listing what must be true for the contract to be secure.",
+ "Join the Ethereum Security community on Discord and follow auditors on Twitter to stay updated on new attack vectors.",
+ "When in doubt, favor simplicity. Complex code has more attack surface. The best security is code that doesn't exist."
+ ],
+ "conclusion": "Security is not a one-time checklist but an ongoing process. Use this checklist before every deployment, stay updated on new vulnerabilities, and consider periodic re-audits for contracts holding significant value.",
+ "relatedResources": [
+ "60 Portfolio Project Ideas for Solidity Developers",
+ "Gas Optimization Guide for Solidity Developers",
+ "30 Common Security Mistakes Solidity Developers Make"
+ ]
+ }
 }

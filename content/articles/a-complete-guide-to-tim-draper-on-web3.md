@@ -15,7 +15,7 @@ Tim Draper stands out as a prominent venture capitalist and a founding partner o
 
 Draper has played a foundational role in the cryptocurrency sector. His unwavering belief in Bitcoin as a new technology, his notable auction purchase of seized bitcoins, and his ambitious predictions about the future of finance and governance illustrate his commitment to this space.
 
-### A Legacy of Disruptive Investing
+### A Legacy of new Investing
 
 Understanding Draper's perspective on Web3 requires an examination of his investment philosophy. Throughout his career, he has gravitated towards technologies that disrupt established norms and support individuals. For example, Hotmail's viral marketing strategy transformed the ISP model, while Skype's peer-to-peer technology changed telecommunications. Draper's consistent focus on decentralization and network effects has been a hallmark of his investment strategy.
 
@@ -35,12 +35,12 @@ Many investors hesitated, but Draper recognized a historic opportunity. He parti
 
 Draper's belief in Bitcoin stems from a rigorous analysis of what constitutes effective money. He contends that Bitcoin surpasses government-issued fiat currencies in several key areas:
 
-| Attribute               | Bitcoin                         | Fiat Currency                |
+| Attribute | Bitcoin | Fiat Currency |
 |------------------------|---------------------------------|------------------------------|
-| Supply                 | Fixed at 21 million coins       | Unlimited, subject to inflation |
-| Control                | Decentralized, not government-controlled | Centralized, government-controlled |
-| Accessibility          | Available to anyone with internet | Limited by geographic and regulatory barriers |
-| Transaction Efficiency  | Lower costs for international transfers | Higher costs due to correspondent banking |
+| Supply | Fixed at 21 million coins | Unlimited, subject to inflation |
+| Control | Decentralized, not government-controlled | Centralized, government-controlled |
+| Accessibility | Available to anyone with internet | Limited by geographic and regulatory barriers |
+| Transaction Efficiency | Lower costs for international transfers | Higher costs due to correspondent banking |
 
 * **Fixed Supply:** Draper emphasizes Bitcoin's fixed supply of 21 million coins, contrasting it with the inflationary nature of fiat currencies, which can be printed at will by central banks.
 * **Decentralized and Global:** Bitcoin operates independently of any single entity. It serves as a neutral, global currency accessible to anyone with an internet connection, promoting financial inclusion.
@@ -56,4 +56,3 @@ Draper envisions a future where Bitcoin and [smart contracts](/what-are-smart-co
 ## Bold Predictions and Unwavering Conviction
 
 Tim Draper is known for his bold and specific price predictions for Bitcoin. He has repeatedly asserted that Bitcoin will reach significant values in the coming years. While these predictions generate headlines, they serve a broader purpose: to communicate his deep, long-term conviction in Bitcoin's potential. Draper is not a short-term trader; he is a fundamental investor who believes that Bitcoin's technological advantages will ultimately enable it to replace a substantial portion of the traditional financial system. He views daily price fluctuations as mere noise, concentrating instead on long-term trends in adoption.
-

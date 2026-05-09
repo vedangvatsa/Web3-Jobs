@@ -19,22 +19,22 @@ This article clarifies DeFi arbitrage, its mechanics, the common types of arbitr
 
 ### Key Insights
 
-| Insight                        | Description                                                                 |
+| Insight | Description |
 |--------------------------------|-----------------------------------------------------------------------------|
-| **Core Concept**               | Exploiting temporary price differences of the same asset across DEXs.      |
-| **Market Efficiency**          | Arbitrageurs maintain price uniformity for assets like [ETH](/what-is-ethereum) across various exchanges. |
-| **The Players**                | Advanced trading bots dominate the arbitrage space, executing trades in milliseconds. |
-| **Flash Loans**                | Allow traders to borrow large sums without collateral, enabling arbitrage execution in one transaction. |
-| **Beneficial MEV**            | Unlike harmful MEV such as [sandwich attacks](/sandwich-attack-in-dex-explained), arbitrage promotes market efficiency for all participants. |
+| **Core Concept** | Exploiting temporary price differences of the same asset across DEXs. |
+| **Market Efficiency** | Arbitrageurs maintain price uniformity for assets like [ETH](/what-is-ethereum) across various exchanges. |
+| **The Players** | Advanced trading bots dominate the arbitrage space, executing trades in milliseconds. |
+| **Flash Loans** | Allow traders to borrow large sums without collateral, enabling arbitrage execution in one transaction. |
+| **Beneficial MEV** | Unlike harmful MEV such as [sandwich attacks](/sandwich-attack-in-dex-explained), arbitrage promotes market efficiency for all participants. |
 
 ### Understanding How DeFi Arbitrage Works
 
 Consider the following prices for ETH on two different DEXs:
 
-| Exchange  | Price of 1 ETH (in USDC) |
+| Exchange | Price of 1 ETH (in USDC) |
 |-----------|---------------------------|
-| DEX A (Uniswap) | 3,500 USDC                  |
-| DEX B (Curve)   | 3,505 USDC                  |
+| DEX A (Uniswap) | 3,500 USDC |
+| DEX B (Curve) | 3,505 USDC |
 
 An arbitrage bot would quickly identify this price difference and execute the following actions:
 
@@ -62,11 +62,11 @@ This strategy is more intricate, involving trading among three different assets 
 **Example**:
 Suppose the following exchange rates exist on a single DEX:
 
-| Asset Pair        | Exchange Rate        |
+| Asset Pair | Exchange Rate |
 |-------------------|---------------------|
-| 1 ETH = 3,500 USDC |                     |
-| 1 USDC = 0.9 WBTC  | (hypothetical rate) |
-| 1 WBTC = 0.0003 ETH|                     |
+| 1 ETH = 3,500 USDC | |
+| 1 USDC = 0.9 WBTC | (hypothetical rate) |
+| 1 WBTC = 0.0003 ETH| |
 
 An arbitrage bot could:
 
@@ -103,18 +103,17 @@ These bots not only compete for speed but also for strategy, diligently searchin
 
 ### Frequently Asked Questions (FAQ)
 
-**Is arbitrage risk-free?**  
+**Is arbitrage risk-free?** 
 When using a flash loan, the capital risk is minimal, as the transaction reverts if it isn't profitable. Nevertheless, risks still exist, such as:
 
 - **[Smart Contract](/what-are-smart-contracts) Risk**: Bugs in DEX contracts may lead to potential losses.
 - **Execution Risk**: Transactions may fail for various reasons, like inadequate gas, resulting in lost gas fees.
 
-**Does arbitrage occur on centralized exchanges (CEXs) as well?**  
+**Does arbitrage occur on centralized exchanges (CEXs) as well?** 
 Yes, arbitrage opportunities also exist between centralized exchanges (for instance, comparing the price of [BTC](/what-is-bitcoin) on different platforms) and between a CEX and a DEX. However, this process is more intricate since it involves transferring funds between distinct platforms, leading to a lack of atomicity and increased risk.
 
-**How do arbitrage bots identify opportunities?**  
+**How do arbitrage bots identify opportunities?** 
 They connect directly to a [blockchain](/what-is-a-blockchain) node (via an "RPC endpoint") to monitor mempool activity and new blocks in real-time. Using complex algorithms, they simulate various trade paths, pinpointing profitable opportunities at speeds unattainable by humans.
 
-**As a user, is arbitrage beneficial or detrimental?**  
+**As a user, is arbitrage beneficial or detrimental?** 
 Arbitrage is advantageous for users. The actions of arbitrage bots help ensure that when you engage in trading on a DEX, the prices reflect fair market conditions, consistent with broader market trends. Without arbitrage, prices would fluctuate significantly across exchanges.
-

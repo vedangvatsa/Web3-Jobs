@@ -44,8 +44,7 @@ Engineers in this domain create developer-facing tools and APIs that facilitate 
 1. **Master the Fundamentals:** A solid grounding in computer science is essential. You should have a firm grasp of data structures, algorithms, and networking.
 2. **Learn a Systems Language:** Focus on either **Rust** or **Go**. These languages dominate core blockchain infrastructure development.
 3. **Gain Practical Experience:**
-   - **Run a Node:** Engage in hands-on learning by setting up and managing your own validator node on a testnet for a major blockchain. This experience will expose you to real-world challenges.
-   - **Contribute to Open Source:** Most core blockchain clients are open source. Identify a "good first issue" in the [GitHub](/building-web3-portfolio) repository of a client like Geth or Prysm and submit a pull request. This contribution serves as practical proof of your skills.
+ - **Run a Node:** Engage in hands-on learning by setting up and managing your own validator node on a testnet for a major blockchain. This experience will expose you to real-world challenges.
+ - **Contribute to Open Source:** Most core blockchain clients are open source. Identify a "good first issue" in the [GitHub](/building-web3-portfolio) repository of a client like Geth or Prysm and submit a pull request. This contribution serves as practical proof of your skills.
 
 A career as a Web3 Infrastructure Engineer positions you at the heart of the new internet's foundational technology. This role is challenging yet rewarding, offering a chance to significantly impact the Web3 ecosystem.
-

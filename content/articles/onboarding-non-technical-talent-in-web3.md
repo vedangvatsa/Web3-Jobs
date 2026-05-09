@@ -29,9 +29,9 @@ Implementing a structured 30-day onboarding plan can make the transition smoothe
 The first week should concentrate on learning and cultural immersion rather than specific job tasks.
 
 - **The "Rabbit Hole" Assignment:** The new hire's task during the first week is to explore the foundational aspects of crypto. Provide a curated list of resources:
-    - **Reading:** Essential articles covering basics such as [What is Web3?](/what-is-web3), [What is a Blockchain?](/what-is-a-blockchain), and [What is DeFi?](/what-is-defi).
-    - **Podcasts:** Recommend foundational podcast episodes from sources like Bankless and The Defiant.
-    - **Project Documentation:** Ensure they read your project’s whitepaper and other relevant documentation.
+ - **Reading:** Essential articles covering basics such as [What is Web3?](/what-is-web3), [What is a Blockchain?](/what-is-a-blockchain), and [What is DeFi?](/what-is-defi).
+ - **Podcasts:** Recommend foundational podcast episodes from sources like Bankless and The Defiant.
+ - **Project Documentation:** Ensure they read your project’s whitepaper and other relevant documentation.
 - **Hands-On Experience:** Provide the new hire with a hardware [wallet](/how-to-choose-a-crypto-wallet) and a small budget of [ETH](/what-is-ethereum). Their assignment is to set up their wallet, transfer funds, execute a swap on a [DEX](/what-is-a-decentralized-exchange-dex), and mint an [NFT](/what-are-nfts). This practical experience will expose them to the user experience and the excitement of their first transaction.
 - **Culture and Communication:** Set them up on Discord and Twitter. Offer a list of key figures to follow and encourage them to listen and absorb the community's conversation.
 
@@ -48,9 +48,9 @@ The focus in the second week shifts to a detailed understanding of your project.
 By week three, the new hire should be prepared to make small but significant contributions.
 
 - **The First Task:** Assign a manageable project that they can oversee from beginning to end.
-    - *For a marketer:* Write a blog post detailing a specific feature of the protocol.
-    - *For a designer:* Suggest a minor UX enhancement for the dApp.
-    - *For an operations role:* Organize notes from the last three community calls into a tidy Notion document.
+ - *For a marketer:* Write a blog post detailing a specific feature of the protocol.
+ - *For a designer:* Suggest a minor UX enhancement for the dApp.
+ - *For an operations role:* Organize notes from the last three community calls into a tidy Notion document.
 - **Engagement in the Community:** Encourage them to make their first public comment in Discord or ask an insightful question during a community call.
 
 **Week 4: Role-Specific Onboarding and Goal Setting**
@@ -67,4 +67,3 @@ The final week of onboarding focuses on the new hire's specific role.
 - **Invest Time and Resources:** Onboarding non-technical talent requires commitment. While it demands time and resources, the benefits are substantial. A skilled professional who has been nurtured to become crypto-native can enhance a project’s strategic thinking and execution.
 
 By employing a structured, empathetic, and immersive approach, Web3 projects can effectively bridge the context gap and enable talented professionals from varied backgrounds to succeed in the decentralized ecosystem.
-

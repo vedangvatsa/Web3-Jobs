@@ -33,9 +33,9 @@ Public blockchains operate on a decentralized model, meaning they are not stored
 For a block to be added to the blockchain, all nodes must agree on its validity, achieved through consensus mechanisms such as Proof-of-Work (PoW) or Proof-of-Stake (PoS).
 
 - **Security Mechanism (The 51% Attack):** To successfully add a fraudulent block or alter the blockchain's history, an attacker would need to control over 50% of the network's total power. 
-    - In PoW systems like Bitcoin, this would require surpassing the combined computational power of the entire network, costing significant resources in specialized hardware and electricity.
-    - In PoS systems like [Ethereum](/what-is-ethereum), an attacker would need to acquire and stake more than 50% of the total cryptocurrency, also costing significant resources.
-  
+ - In PoW systems like Bitcoin, this would require surpassing the combined computational power of the entire network, costing significant resources in specialized hardware and electricity.
+ - In PoS systems like [Ethereum](/what-is-ethereum), an attacker would need to acquire and stake more than 50% of the total cryptocurrency, also costing significant resources.
+
 - **Economic Disincentive:** Even if an attacker could afford a 51% attack, the resulting loss of public confidence would likely cause the cryptocurrency's value to plummet, rendering the attack economically irrational.
 
 ### Understanding Crypto Hacks
@@ -50,4 +50,3 @@ Despite the strong security of blockchains, news of crypto hacks is prevalent. T
 ### A New Model of Trust
 
 While public blockchain security is not flawless, it represents a significant shift in trust models. Users no longer rely on a single institution, such as a bank, but instead trust a decentralized network governed by open-source code, cryptography, and economic incentives. The foundational blockchain protocol serves as a stronghold. Although attackers may exploit applications built on top of it or deceive users, compromising the core layer remains an arduous task. This innovation enables a peer-to-peer digital economy devoid of traditional trust requirements.
-

@@ -21,7 +21,7 @@ The term "fungible" means mutually interchangeable. A dollar bill is fungible; a
 NFTs are created through a process called minting, where a smart contract creates a new token with a unique identifier and assigns ownership to a specific blockchain address. The token typically contains:
 
 - **Unique ID**: A number that distinguishes it from all other tokens in the collection
-- **Metadata**: Information about the asset, including name, description, and attributes  
+- **Metadata**: Information about the asset, including name, description, and attributes 
 - **Media Link**: Usually a reference to the actual image, video, or file stored off-chain
 - **Ownership History**: A complete record of all previous owners
 

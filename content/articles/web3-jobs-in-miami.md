@@ -65,12 +65,12 @@ Florida's lack of a state income tax presents considerable financial benefits:
 
 The Miami job market exhibits a strong demand for finance, business development, and marketing roles, with rapidly growing interest in technical talent. Salaries are competitive with other major tech hubs in the United States.
 
-| Role                                      | Salary Range                   | Notes                                                    |
+| Role | Salary Range | Notes |
 |-------------------------------------------|--------------------------------|----------------------------------------------------------|
-| Business Development & Institutional Sales | Competitive                     | Substantial commission and bonus potential               |
-| VC / Investment Analyst                   | Competitive                     | Plus carry                                               |
-| Marketing & Community Lead                | Competitive                     | Involves high-energy campaigns                            |
-| [Smart Contract](/what-are-smart-contracts) Developer (DeFi Focus) | Competitive                     | High demand for skilled developers                        |
+| Business Development & Institutional Sales | Competitive | Substantial commission and bonus potential |
+| VC / Investment Analyst | Competitive | Plus carry |
+| Marketing & Community Lead | Competitive | Involves high-energy campaigns |
+| [Smart Contract](/what-are-smart-contracts) Developer (DeFi Focus) | Competitive | High demand for skilled developers |
 
 ### Finance and Business Roles
 
@@ -196,7 +196,7 @@ Aim for recognition so that when someone mentions your name in relation to crypt
 ### Advantages
 
 - **Low Taxes:** The absence of a state income tax allows high earners to retain more income.
-- **Lifestyle:** Enjoyment of beach life, favorable weather, and a vibrant nightlife.
+- **Lifestyle:** Enjoyment of beach life, favorable weather, and a active nightlife.
 - **High Networking Density:** Frequent events and gatherings provide ample opportunities to meet like-minded individuals.
 - **Funding Availability:** Significant capital exists for startups seeking investment.
 - **Latin American Access:** Unique geographic position for companies targeting Latin American markets.
@@ -237,49 +237,49 @@ Many Miami-based companies offer remote positions. This flexibility allows indiv
 ### If You're Already in Miami
 
 1. **Start Attending Events Immediately**
-   - Look for and attend a local crypto meetup this week.
-   - Register for upcoming conferences like Bitcoin Miami.
-   - Make event attendance a regular part of your routine.
+ - Look for and attend a local crypto meetup this week.
+ - Register for upcoming conferences like Bitcoin Miami.
+ - Make event attendance a regular part of your routine.
 
 2. **Build Your Personal Brand**
-   - Begin tweeting about crypto topics relevant to Miami.
-   - Share insights and engage with the Miami crypto community.
+ - Begin tweeting about crypto topics relevant to Miami.
+ - Share insights and engage with the Miami crypto community.
 
 3. **Network Strategically**
-   - Identify key individuals to connect with.
-   - Attend events where these contacts will be present.
-   - Follow up to develop relationships.
+ - Identify key individuals to connect with.
+ - Attend events where these contacts will be present.
+ - Follow up to develop relationships.
 
 4. **Target Specific Companies**
-   - Research companies operating in Miami or those that might relocate.
-   - Network with employees at these firms while applying for positions.
+ - Research companies operating in Miami or those that might relocate.
+ - Network with employees at these firms while applying for positions.
 
 ### If You're Moving to Miami
 
 1. **Time Your Move for a Major Event**
-   - Coordinate your arrival with the Bitcoin Miami conference or similar events for easy networking.
+ - Coordinate your arrival with the Bitcoin Miami conference or similar events for easy networking.
 
 2. **Pre-Network Online**
-   - Engage with Miami crypto Twitter and relevant Discord channels.
-   - Establish initial relationships before your arrival.
+ - Engage with Miami crypto Twitter and relevant Discord channels.
+ - Establish initial relationships before your arrival.
 
 3. **Hit the Ground Running**
-   - Attend multiple events in your first month.
-   - Be proactive about meeting new people.
+ - Attend multiple events in your first month.
+ - Be proactive about meeting new people.
 
 ### If You're Remote
 
 1. **Engage with the Miami Crypto Community Online**
-   - Join the Miami Web3 Discord.
-   - Follow local founders and operators on social media.
+ - Join the Miami Web3 Discord.
+ - Follow local founders and operators on social media.
 
 2. **Apply to Miami-Based Remote Positions**
-   - Use AngelList to find job opportunities with Miami firms.
-   - Focus on companies that are explicitly involved in the crypto space.
+ - Use AngelList to find job opportunities with Miami firms.
+ - Focus on companies that are explicitly involved in the crypto space.
 
 3. **Consider Temporary Relocation**
-   - Spend a few months in Miami during key events to build in-person relationships.
-   - Use this time to network before deciding on a permanent move.
+ - Spend a few months in Miami during key events to build in-person relationships.
+ - Use this time to network before deciding on a permanent move.
 
 ## Salary Negotiation Strategies in Miami
 
@@ -316,4 +316,3 @@ The ecosystem is rapidly growing. Moving now allows you to build your network an
 - **Versus San Francisco:** Miami offers better business roles and lifestyle benefits, while San Francisco excels in technical saturation and institutional presence.
 - **Versus Singapore:** Miami is more startup-centric, with greater capital availability, whereas Singapore is more regulated and institutional.
 - **Versus New York City:** Miami presents a friendlier environment for founders, while New York has a stronger traditional finance focus.
-

@@ -22,9 +22,9 @@ NLP systems employ a blend of techniques ranging from fundamental grammar rules 
 
 1. **Text Preprocessing**: This initial phase involves cleaning raw text and formatting it for computer processing. Key tasks include:
 
-   - **Tokenization**: Breaking sentences into individual words or "[tokens](/what-is-a-token)." For example, the sentence "The cat sat" becomes tokens: "The," "cat," and "sat."
-   - **Stop Word Removal**: Eliminating common, less meaningful words such as "the," "a," and "is."
-   - **Lemmatization/Stemming**: Reducing words to their root forms. For instance, "running," "ran," and "runs" are all transformed into "run," helping models recognize their similar meanings.
+ - **Tokenization**: Breaking sentences into individual words or "[tokens](/what-is-a-token)." For example, the sentence "The cat sat" becomes tokens: "The," "cat," and "sat."
+ - **Stop Word Removal**: Eliminating common, less meaningful words such as "the," "a," and "is."
+ - **Lemmatization/Stemming**: Reducing words to their root forms. For instance, "running," "ran," and "runs" are all transformed into "run," helping models recognize their similar meanings.
 
 2. **Feature Extraction**: After preprocessing, the NLP model converts words into numerical representations that can be processed mathematically. This feature extraction or word embedding transforms words into vectors (lists of numbers). Early methods relied on simple word counts, while modern NLP uses sophisticated techniques to create vectors that encapsulate a word's meaning and its relationships. For example, the vectors for "king" and "queen" will be mathematically closer than those for "king" and "apple."
 
@@ -53,7 +53,7 @@ NLP encompasses a variety of tasks, including:
 NLP is an integral part of daily digital interactions. Here are some common applications:
 
 - **Virtual Assistants and Chatbots**: Technologies like Siri, Alexa, and customer service chatbots use NLP to understand user requests and deliver appropriate responses.
-  
+
 - **Email Clients**: NLP powers spam filters and features such as "Smart Reply" that suggest quick email responses.
 
 - **Search Engines**: Search engines apply NLP to comprehend the intent behind user queries, returning the most relevant results rather than merely matching keywords.
@@ -64,21 +64,21 @@ NLP is an integral part of daily digital interactions. Here are some common appl
 
 ### Frequently Asked Questions
 
-**1. What's the difference between NLP, NLU, and NLG?**  
+**1. What's the difference between NLP, NLU, and NLG?** 
 NLP (Natural Language Processing) is the overarching field. It typically divides into two main subfields:
 - **NLU (Natural Language Understanding)**: This focuses on comprehending the meaning, intent, and context of a text.
 - **NLG (Natural Language Generation)**: This emphasizes constructing human-like sentences and paragraphs to convey information.
 
-**2. How do computers manage ambiguity in language?**  
+**2. How do computers manage ambiguity in language?** 
 Handling ambiguity poses a significant challenge in NLP. Modern models, particularly those based on deep learning, address ambiguity by analyzing context. They evaluate surrounding words, sentence structure, and are trained on extensive text datasets, enabling them to learn statistical probabilities of various meanings. For instance, in the phrase "The bank is on the left," the model would assess contextual clues to discern whether "bank" refers to a financial institution or a river bank.
 
-**3. Is NLP a solved problem?**  
+**3. Is NLP a solved problem?** 
 NLP remains an active field of research. Although significant advancements have occurred, challenges persist. Models still struggle with understanding sarcasm, complex reasoning, common-sense knowledge, and cultural nuances. Generating text that is not only grammatically correct but also factually accurate and coherent across extended passages continues to be a major focus of research.
 
-**4. How do NLP and Large Language Models (LLMs) relate?**  
+**4. How do NLP and Large Language Models (LLMs) relate?** 
 LLMs represent the pinnacle of NLP technology. These extensive deep learning models are trained on vast portions of internet text. Their scale enables a far more sophisticated grasp and generation of language than previous models. LLMs serve as useful tools for tackling a wide range of NLP tasks.
 
-**5. How can I begin working with NLP?**  
+**5. How can I begin working with NLP?** 
 Starting with NLP involves learning Python, the standard programming language for this field. Following that, you can explore popular NLP libraries like NLTK (Natural Language Toolkit) for foundational text processing tasks.
 
 ### Why NLP Matters
@@ -109,11 +109,11 @@ Track your advancements. If results are not as expected, adjust your strategies 
 
 ### Real-World Examples
 
-| Name  | Role                  | Initial Challenge                   | Outcome                           |
+| Name | Role | Initial Challenge | Outcome |
 |-------|-----------------------|-------------------------------------|-----------------------------------|
 | Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Difficulty managing complex NLP tasks | Improved project efficiency within three months. |
-| Juan  | Product Manager in [DeFi](/what-is-defi) | Struggled with user feedback analysis | Enhanced product features and increased user satisfaction. |
-| Maya  | Transitioning from Web2 to Web3 | Adapting to a new tech environment | Successfully integrated into the team and contributed to key projects within two months. |
+| Juan | Product Manager in [DeFi](/what-is-defi) | Struggled with user feedback analysis | Enhanced product features and increased user satisfaction. |
+| Maya | Transitioning from Web2 to Web3 | Adapting to a new tech environment | Successfully integrated into the team and contributed to key projects within two months. |
 
 ### Common Mistakes to Avoid
 
@@ -126,4 +126,3 @@ Track your advancements. If results are not as expected, adjust your strategies 
 4. **Giving Up Prematurely**: Embrace discomfort as a part of growth. Perseverance leads to positive outcomes.
 
 5. **Failing to Track Progress**: Measurement is important. Record your advancements to facilitate improvement.
-

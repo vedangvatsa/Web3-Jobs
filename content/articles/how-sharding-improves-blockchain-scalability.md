@@ -62,12 +62,12 @@ This process requires coordination between shards, adding some complexity. Howev
 
 Sharding and Layer 2 solutions complement each other rather than compete:
 
-| Feature                     | Sharding (Layer 1)                      | Layer 2 Solutions                    |
+| Feature | Sharding (Layer 1) | Layer 2 Solutions |
 |-----------------------------|-----------------------------------------|--------------------------------------|
-| Modifies core blockchain     | Yes                                     | No                                   |
-| Complexity                   | High                                    | Lower                                |
-| Scalability potential        | Massive scalability gains               | Quick deployment                     |
-| Example solutions            | Ethereum's Danksharding                 | Rollups, Sidechains                  |
+| Modifies core blockchain | Yes | No |
+| Complexity | High | Lower |
+| Scalability potential | Massive scalability gains | Quick deployment |
+| Example solutions | Ethereum's Danksharding | Rollups, Sidechains |
 
 Sharding modifies the core blockchain protocol to distribute work across shards, offering ambitious scalability gains but introducing significant complexity. In contrast, Layer 2 solutions, such as rollups, operate transactions off-chain and periodically settle them on the main chain. These solutions can be deployed independently and rapidly, making them a current focus for platforms like Ethereum.
 
@@ -129,7 +129,7 @@ Sharding introduces several challenges and limitations:
 
 Understanding sharding can be beneficial for various professionals:
 
-- **Protocol Developers:** Engaging with sharding places you at the forefront of blockchain engineering.
+- **Protocol Developers:** Engaging with sharding places you leading blockchain engineering.
 
 - **Layer 2 Developers:** Knowledge of sharding is critical for understanding rollup economics and design.
 
@@ -138,4 +138,3 @@ Understanding sharding can be beneficial for various professionals:
 - **Systems Engineers:** Implementing sharding requires extensive knowledge of distributed systems.
 
 Professionals adept at navigating the technical complexities of sharding are in high demand in the [Web3](/what-is-web3) ecosystem.
-

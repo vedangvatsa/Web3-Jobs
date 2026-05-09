@@ -6,22 +6,22 @@ readTime: "12 min"
 difficulty: "intermediate"
 prerequisites: ["token-launches"]
 quiz:
-  - question: "What does 'Fully Diluted Valuation' (FDV) represent?"
-    options:
-      - "The current market cap of a token."
-      - "The total value of all tokens that will ever exist, at the current price."
-      - "The value of tokens held by the team."
-      - "The amount of tokens in circulation."
-    correct: 1
-    explanation: "FDV = current token price × total max supply. It represents what the project would be worth if all tokens (including locked, unvested, and future emissions) were in circulation at today's price."
-  - question: "Why is a high FDV relative to market cap considered risky?"
-    options:
-      - "It means the token is overvalued."
-      - "It means large amounts of tokens are locked and will eventually enter circulation, potentially diluting current holders."
-      - "It means the project has too many users."
-      - "It means the token is on too many exchanges."
-    correct: 1
-    explanation: "A high FDV/MC ratio means most tokens haven't been released yet. When they unlock (team vesting, ecosystem emissions), selling pressure increases dramatically."
+ - question: "What does 'Fully Diluted Valuation' (FDV) represent?"
+ options:
+ - "The current market cap of a token."
+ - "The total value of all tokens that will ever exist, at the current price."
+ - "The value of tokens held by the team."
+ - "The amount of tokens in circulation."
+ correct: 1
+ explanation: "FDV = current token price × total max supply. It represents what the project would be worth if all tokens (including locked, unvested, and future emissions) were in circulation at today's price."
+ - question: "Why is a high FDV relative to market cap considered risky?"
+ options:
+ - "It means the token is overvalued."
+ - "It means large amounts of tokens are locked and will eventually enter circulation, potentially diluting current holders."
+ - "It means the project has too many users."
+ - "It means the token is on too many exchanges."
+ correct: 1
+ explanation: "A high FDV/MC ratio means most tokens haven't been released yet. When they unlock (team vesting, ecosystem emissions), selling pressure increases dramatically."
 ---
 
 ## What Is Tokenomics?

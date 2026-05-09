@@ -20,18 +20,18 @@ For adept writers, podcasters, and video producers, Web3 presents an opportunity
 
 In an industry marked by rapid technological and narrative shifts, being a reliable source of information is invaluable. For non-technical professionals, producing high-quality content serves as a form of "proof of work." This public [portfolio](/building-web3-portfolio) showcases expertise, communication skills, and enthusiasm for the field.
 
-A meticulously crafted Twitter thread or an in-depth blog post can hold more weight in your career than a traditional [resume](/how-to-build-a-web3-resume-that-stands-out). This approach establishes you as a recognized figure in the industry, drawing opportunities directly to you.
+A carefully crafted Twitter thread or an in-depth blog post can hold more weight in your career than a traditional [resume](/how-to-build-a-web3-resume-that-stands-out). This approach establishes you as a recognized figure in the industry, drawing opportunities directly to you.
 
 ### Types of Web3 Content Creators
 
 Web3 content creation encompasses diverse styles and mediums, allowing various creators to find success.
 
-| Type                      | Description                                                                 | Mediums                                                            | Example                                           |
+| Type | Description | Mediums | Example |
 |---------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------|
-| **The Analyst / Researcher** | Creates in-depth, data-driven analyses of protocols and market trends.    | Long-form blog posts, research reports, data-rich Twitter threads. | Analysis of the tokenomics of a new Layer 2 protocol. |
-| **The Educator**          | Simplifies complex topics for wider audiences.                             | YouTube tutorials, beginner blogs, explanatory Twitter threads.    | A guide on selecting a crypto [wallet](/how-to-choose-a-crypto-wallet). |
-| **The News Reporter / Journalist** | Covers the latest news, funding rounds, and industry updates.         | Newsletters, podcasts, real-time Twitter updates.                  | A podcast episode featuring a founder discussing a new product launch. |
-| **The Cultural Commentator / Entertainer** | Focuses on Web3 culture, including memes and community dynamics.     | Memes, cultural commentary podcasts, community-focused videos.      | A skit about the various types of [NFT](/what-are-nfts) collectors. |
+| **The Analyst / Researcher** | Creates in-depth, data-driven analyses of protocols and market trends. | Long-form blog posts, research reports, data-rich Twitter threads. | Analysis of the tokenomics of a new Layer 2 protocol. |
+| **The Educator** | Simplifies complex topics for wider audiences. | YouTube tutorials, beginner blogs, explanatory Twitter threads. | A guide on selecting a crypto [wallet](/how-to-choose-a-crypto-wallet). |
+| **The News Reporter / Journalist** | Covers the latest news, funding rounds, and industry updates. | Newsletters, podcasts, real-time Twitter updates. | A podcast episode featuring a founder discussing a new product launch. |
+| **The Cultural Commentator / Entertainer** | Focuses on Web3 culture, including memes and community dynamics. | Memes, cultural commentary podcasts, community-focused videos. | A skit about the various types of [NFT](/what-are-nfts) collectors. |
 
 ### Steps to Building a Career as a Web3 Content Creator
 
@@ -56,11 +56,10 @@ After establishing a reputation and audience, explore various monetization avenu
 - **Freelancing:** Your public portfolio may lead to [freelance](/how-to-start-freelancing-for-beginners) opportunities with Web3 projects, DAOs, or media outlets.
 - **Full-time roles:** Many content creators secure full-time positions in "Content Marketing" or "[Developer Relations](/what-is-a-web3-devrel-engineer)" at leading protocols.
 - **Direct monetization strategies:**
-    - **Subscriptions:** Introduce a paid tier for your newsletter or podcast featuring exclusive content.
-    - **NFTs:** Transform your articles or artwork into collectible NFTs. Platforms like Mirror facilitate this process.
-    - **Grants:** DAOs and foundations often offer grants to independent researchers and creators contributing value to the ecosystem.
+ - **Subscriptions:** Introduce a paid tier for your newsletter or podcast featuring exclusive content.
+ - **NFTs:** Transform your articles or artwork into collectible NFTs. Platforms like Mirror facilitate this process.
+ - **Grants:** DAOs and foundations often offer grants to independent researchers and creators contributing value to the ecosystem.
 
 Pursuing a career as a Web3 content creator requires self-motivation, discipline, and a passion for knowledge sharing. For those who embody these qualities, this path offers the chance to establish a personal brand, become a respected voice in a dynamic industry, and create a career on your terms.
 
 ## The Expanding Web3 Opportunity
-

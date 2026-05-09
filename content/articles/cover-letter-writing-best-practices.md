@@ -60,19 +60,19 @@ A well-crafted cover letter typically consists of 3-4 paragraphs, fitting within
 
 | Paragraph | Content Description |
 |-----------|---------------------|
-| 1         | Introduction: A strong opening that engages the reader and states the position you are applying for. |
-| 2 & 3     | Body: Connect your experience to the job requirements by providing specific examples that highlight your value. |
-| 4         | Closing: Reiterate enthusiasm for the role, express a desire for an interview, and thank the hiring manager. |
+| 1 | Introduction: A strong opening that engages the reader and states the position you are applying for. |
+| 2 & 3 | Body: Connect your experience to the job requirements by providing specific examples that highlight your value. |
+| 4 | Closing: Reiterate enthusiasm for the role, express a desire for an interview, and thank the hiring manager. |
 
 ### FAQs
 
-**What is the ideal length for a cover letter?**  
+**What is the ideal length for a cover letter?** 
 A cover letter should be concise, ideally 3-4 paragraphs long, and never exceed one page.
 
-**Should I write a cover letter if it is optional?**  
+**Should I write a cover letter if it is optional?** 
 Yes. A well-crafted cover letter provides a chance to differentiate yourself from other candidates. Many applicants skip it, so taking the time to write one shows commitment.
 
-**What tone should my cover letter have?**  
+**What tone should my cover letter have?** 
 Maintain a professional tone while allowing your personality to shine through. Convey your enthusiasm for the role and the company clearly.
 
 ### Why This Matters
@@ -100,4 +100,3 @@ Avoid drastic changes. Start with one or two small adjustments to your cover let
 #### Step 5: Measure and Adjust
 
 Track your progress over time. Are you receiving more positive responses? Adjust your strategy based on feedback and outcomes to promote continuous improvement.
-

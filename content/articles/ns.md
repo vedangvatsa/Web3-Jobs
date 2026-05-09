@@ -16,17 +16,17 @@ The cost structure includes monthly rates for shared and private rooms, with all
 
 Network School provides an array of features to enhance productivity and community living:
 
-| Feature                       | Description                                           |
+| Feature | Description |
 |-------------------------------|-------------------------------------------------------|
-| Accommodation                 | Shared or private rooms                               |
-| Meals                         | All meals included, prepared on-site                 |
-| Internet                      | High-speed WiFi throughout the property               |
-| Fitness Facilities            | 24/7 gym access plus various fitness classes         |
-| Workspace                     | 24/7 coworking spaces available                       |
-| Content Studio                | Equipment and space dedicated to content creators     |
-| Makerspace                    | Tools and resources for hardware builders             |
-| Events                        | Speaker sessions and workshops regularly scheduled     |
-| Community Access              | Opportunities for networking and collaboration        |
+| Accommodation | Shared or private rooms |
+| Meals | All meals included, prepared on-site |
+| Internet | High-speed WiFi throughout the property |
+| Fitness Facilities | 24/7 gym access plus various fitness classes |
+| Workspace | 24/7 coworking spaces available |
+| Content Studio | Equipment and space dedicated to content creators |
+| Makerspace | Tools and resources for hardware builders |
+| Events | Speaker sessions and workshops regularly scheduled |
+| Community Access | Opportunities for networking and collaboration |
 
 ## Who It's For
 
@@ -46,10 +46,10 @@ Network School addresses several key pain points often faced by remote workers:
 
 ## Pricing & Logistics
 
-| Room Type        | Monthly Cost         | Commitment          | Approval Time          |
+| Room Type | Monthly Cost | Commitment | Approval Time |
 |------------------|---------------------|---------------------|------------------------|
-| Shared Room      | Monthly rate        | Month-to-month      | 2-3 weeks              |
-| Private Room     | Monthly rate        | Month-to-month      | 2-3 weeks              |
+| Shared Room | Monthly rate | Month-to-month | 2-3 weeks |
+| Private Room | Monthly rate | Month-to-month | 2-3 weeks |
 
 Network School uses a month-to-month commitment model, allowing flexibility. However, longer stays receive priority booking. Approval for membership typically takes 2-3 weeks, as applications undergo a review process to maintain community standards.
 
@@ -81,4 +81,3 @@ To become a member of Network School, follow these steps:
 4. If approved, confirm your dates and prepare to move in on the first of the month.
 
 Members of the Hashtag Community enjoy one week free upon joining.
-

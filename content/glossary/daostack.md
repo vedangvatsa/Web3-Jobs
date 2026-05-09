@@ -59,7 +59,7 @@ Holographic consensus enables governance at scale while maintaining quality.
 
 Community and adoption:
 
-- **Genesis DAO**: Pioneering DAOstack DAO testing governance.
+- **Genesis DAO**: early DAOstack DAO testing governance.
 
 - **Service DAOs**: Various DAOs using DAOstack for operations (design, development, marketing).
 

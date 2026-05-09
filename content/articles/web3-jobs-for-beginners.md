@@ -64,11 +64,10 @@ With experience and a growing portfolio, you can start seeking formal employment
 - **Network Authentically:** Build relationships within Discord servers and on Twitter. Focus on making genuine connections and showcasing your contributions rather than simply asking for job openings.
 - **Tailor Your Resume:** Reframe your traditional work experience using Web3 terminology. For example, a "social media manager" can be referred to as a "community builder." Create a "Web3 Contributions" section on your resume with direct links to your work.
 - **Entry-Level Positions to Pursue:**
-    - Community Moderator
-    - Marketing Assistant
-    - Social Media Coordinator
-    - [Technical Support Specialist](/web3-customer-support-careers)
-    - Junior Content Writer
+ - Community Moderator
+ - Marketing Assistant
+ - Social Media Coordinator
+ - [Technical Support Specialist](/web3-customer-support-careers)
+ - Junior Content Writer
 
 Transitioning to your first Web3 job is a process rather than a race. It requires active involvement and ongoing education. The barriers to entry are lower in this sector compared to traditional industries, with numerous opportunities available. By immersing yourself in the culture, honing a valuable skill, and building a public portfolio of your contributions, you can effectively establish a successful career in this evolving field.
-

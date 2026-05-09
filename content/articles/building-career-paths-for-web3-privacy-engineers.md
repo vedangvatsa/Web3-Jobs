@@ -37,4 +37,3 @@ Entering this field requires a strong academic and practical foundation.
 3. **Contribute to Open Source:** Engage with the collaborative privacy space. Contribute to open-source ZK libraries on [GitHub](/building-web3-portfolio) or participate in research forums for projects such as Zcash or Aztec.
 
 A career in Web3 privacy attracts individuals dedicated to solving complex cryptographic challenges and advocating for privacy as a fundamental human right, even within public [blockchains](/what-is-a-blockchain). This path offers substantial opportunities for professional growth.
-

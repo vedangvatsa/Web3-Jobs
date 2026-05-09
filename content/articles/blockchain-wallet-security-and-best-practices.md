@@ -67,4 +67,3 @@ Adopting sound security habits is critical for safeguarding your assets.
 7. **Never Share Your Private Keys or Seed Phrase:** This is a fundamental rule in crypto security.
 
 Safely managing Web3 entails a shift in perspective. You must cultivate a healthy skepticism and diligence. By grasping the tools at your disposal and adopting simple yet effective security habits, you can protect yourself against most threats while exploring the decentralized application ecosystem.
-

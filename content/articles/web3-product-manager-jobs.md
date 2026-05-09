@@ -19,7 +19,7 @@ This guide outlines the responsibilities of a Product Manager in Web3, highlight
 Transitioning from a Web2 PM to a Web3 PM requires a fundamental shift in mindset and approach. The nature of the products and their users differs significantly.
 
 - **From Users to Owners:** In Web2, PMs build for users. In Web3, PMs build for owners. Users are often token holders with financial stakes and governance rights in the product's future. This changes the feedback loop from a simple relay of information to a complex, democratic dialogue.
-  
+
 - **From Centralized Roadmaps to Community Governance:** The roadmap does not get decided in isolation. Major feature decisions often require validation through public governance votes. The PM’s role shifts from dictating the path to facilitating consensus among a diverse global community.
 
 - **From Private Data to Public Blockchains:** Web2 PMs rely on rich databases of user behavior, while Web3 PMs work with on-chain data that is accessible to all. This demands a different analytical skill set, using tools such as Dune Analytics to assess user interactions and protocol health.
@@ -56,4 +56,3 @@ The daily tasks of a Web3 PM vary but typically include a mix of community engag
 3. **Specialize:** The Web3 space is extensive. Focus on a niche, such as [NFT](/what-are-nfts) financialization, liquid staking derivatives, or [decentralized identity](/decentralized-identity-explained). Deep expertise in a specific area is highly regarded.
 
 The role of the Web3 Product Manager is challenging yet rewarding. It moves beyond app development to designing economies, managing user-owned products, and contributing to the open, permissionless future of the internet.
-

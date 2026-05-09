@@ -202,4 +202,4 @@ Enables mobile wallets to interact with desktop dApps securely. Scan a QR code t
 
 - **DevRel Engineer**: Creating documentation, SDKs, and developer tools for wallet integration.
 
-Wallet security and usability remain significant barriers to crypto adoption. Improving wallet technology is fundamental to making blockchain accessible to users. Companies like MetaMask, Coinbase, Ledger, Argent, and Safe are at the forefront of wallet innovation, constantly hiring talented engineers and designers.
+Wallet security and usability remain significant barriers to crypto adoption. Improving wallet technology is fundamental to making blockchain accessible to users. Companies like MetaMask, Coinbase, Ledger, Argent, and Safe are leading wallet innovation, constantly hiring talented engineers and designers.

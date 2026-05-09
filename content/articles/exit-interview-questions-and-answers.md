@@ -41,40 +41,40 @@ The questions should encourage detailed responses. Here are ten essential questi
 #### Questions About the Decision to Leave
 
 1. **"What prompted you to start looking for a new opportunity?"**
-   - **Why it matters:** Understanding whether a specific event, growing dissatisfaction, or an attractive opportunity triggered the decision is important. Listen for "push" factors (what drove them away) versus "pull" factors (what attracted them to the new role).
+ - **Why it matters:** Understanding whether a specific event, growing dissatisfaction, or an attractive opportunity triggered the decision is important. Listen for "push" factors (what drove them away) versus "pull" factors (what attracted them to the new role).
 
 2. **"What were the most important factors in your decision to accept this new role?"**
-   - **Why it matters:** This question reveals what competitors offer that your organization does not. Whether it is higher compensation, a more appealing title, interesting work, or greater flexibility, this information provides valuable competitive intelligence.
+ - **Why it matters:** This question reveals what competitors offer that your organization does not. Whether it is higher compensation, a more appealing title, interesting work, or greater flexibility, this information provides valuable competitive intelligence.
 
 #### Questions About the Role and Manager
 
 3. **"Did you feel you had the tools, resources, and training to be successful in your role?"**
-   - **Why it matters:** This question identifies operational inefficiencies. Are you failing to invest adequately in tools? Is the onboarding process effective? These are often tangible issues that can be addressed.
+ - **Why it matters:** This question identifies operational inefficiencies. Are you failing to invest adequately in tools? Is the onboarding process effective? These are often tangible issues that can be addressed.
 
 4. **"Thinking about your relationship with your manager, what did they do that was most helpful for your development, and what could they have done better?"**
-   - **Why it matters:** Employees often leave due to poor management. This question can yield invaluable feedback for managerial improvement. Look for patterns; if multiple employees mention the same manager, that indicates a problem needing attention.
+ - **Why it matters:** Employees often leave due to poor management. This question can yield invaluable feedback for managerial improvement. Look for patterns; if multiple employees mention the same manager, that indicates a problem needing attention.
 
 5. **"Did you feel your work was recognized and appreciated?"**
-   - **Why it matters:** A lack of recognition often leads to disengagement. This question helps gauge whether your culture values and acknowledges employee contributions.
+ - **Why it matters:** A lack of recognition often leads to disengagement. This question helps gauge whether your culture values and acknowledges employee contributions.
 
 #### Questions About the Company and Culture
 
 6. **"How would you describe our company culture?"**
-   - **Why it matters:** This broad question aims to capture the employee’s overall perception. Pay attention to the adjectives used; are they positive ("collaborative," "new") or negative ("political," "chaotic")?
+ - **Why it matters:** This broad question aims to capture the employee’s overall perception. Pay attention to the adjectives used; are they positive ("collaborative," "new") or negative ("political," "chaotic")?
 
 7. **"What did you like most about working here? What did you like least?"**
-   - **Why it matters:** This classic question helps identify strengths and weaknesses. Focus on reinforcing what employees love and addressing areas of concern.
+ - **Why it matters:** This classic question helps identify strengths and weaknesses. Focus on reinforcing what employees love and addressing areas of concern.
 
 8. **"If you could change one thing about our company, what would it be?"**
-   - **Why it matters:** This question can yield insightful suggestions for improvements that you may not have considered.
+ - **Why it matters:** This question can yield insightful suggestions for improvements that you may not have considered.
 
 #### Closing Questions
 
 9. **"Would you recommend working here to a friend? Why or why not?"**
-   - **Why it matters:** This question serves as a core test of their experience. The justification for their answer is important, as it provides insight into their overall sentiment.
+ - **Why it matters:** This question serves as a core test of their experience. The justification for their answer is important, as it provides insight into their overall sentiment.
 
 10. **"Is there anything else you'd like to share that we haven't covered?"**
-    - **Why it matters:** This final open-ended question can lead to important feedback that the employee may not have previously mentioned.
+ - **Why it matters:** This final open-ended question can lead to important feedback that the employee may not have previously mentioned.
 
 ### After the Interview: Turning Data into Action
 
@@ -92,10 +92,9 @@ Collecting feedback holds no value without actionable outcomes.
 
 Conducting exit interviews efficiently can lead your organization to significant benefits. Below is a table summarizing potential outcomes from effective exit interviews:
 
-| Outcome                               | Description                                                  | Benefits to Organization                         |
+| Outcome | Description | Benefits to Organization |
 |---------------------------------------|--------------------------------------------------------------|-------------------------------------------------|
-| Improved Employee Retention           | Identifying pain points can prevent future departures.       | Reduces recruitment costs and training time.    |
-| Enhanced Company Culture              | Gaining insights into employee perceptions builds awareness. | Creates a more positive work environment.       |
-| Targeted Professional Development     | Understanding employee needs for growth leads to tailored programs. | Increases employee satisfaction and performance. |
-| Better Management Practices            | Feedback on management can inform training and development. | Enhances team dynamics and employee engagement.  |
-
+| Improved Employee Retention | Identifying pain points can prevent future departures. | Reduces recruitment costs and training time. |
+| Enhanced Company Culture | Gaining insights into employee perceptions builds awareness. | Creates a more positive work environment. |
+| Targeted Professional Development | Understanding employee needs for growth leads to tailored programs. | Increases employee satisfaction and performance. |
+| Better Management Practices | Feedback on management can inform training and development. | Enhances team dynamics and employee engagement. |

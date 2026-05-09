@@ -19,11 +19,11 @@ For professionals in Liberia, the Web3 sector presents a unique opportunity to e
 Monrovia's potential in the Web3 space is influenced by the country's needs for post-conflict development and its historical ties to the United States.
 
 - **Financial Inclusion and Remittances:** The economy of Liberia relies heavily on the US dollar, and many citizens lack access to banking services. Stablecoins pegged to the dollar can provide a solution for savings and daily transactions. With a significant Liberian diaspora in the US, blockchain technology can facilitate efficient and low-cost remittance transfer back home.
-  
+
 - **Transparent Governance and Aid Distribution:** In the aftermath of conflict, transparency in governance and aid distribution is vital. Blockchain's immutable ledger technology can create auditable systems to track funds from donors to recipients, thereby reducing corruption and enhancing efficiency.
-  
+
 - **Land Titling and Property Rights:** Land rights issues pose significant challenges in Liberia. Blockchain can establish a secure, tamper-proof digital registry of land titles, ensuring ownership security for citizens and minimizing disputes.
-  
+
 - **An Emerging Community:** Monrovia's tech community is small yet enthusiastic, featuring several tech hubs and training initiatives aimed at skill development. Young Liberians show a keen interest in learning about digital technologies.
 
 ### In-Demand Roles and Salary Insights
@@ -37,19 +37,19 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 | Community Educator/Onboarding Specialist | Grant-Funded | Significant value |
 
 - **Remote Web3 Developer (Full-Stack/Mobile):** This role represents a direct route to a high-paying career. Developers with strong mobile app skills, particularly in integrating Web3 wallets and [smart contracts](/what-are-smart-contracts), are highly sought after.
-  
+
 - **NGO/Social Impact Project Manager:** Professionals with backgrounds in international development and blockchain can oversee pilot projects for organizations such as the UN and USAID.
-  
+
 - **Community Educator and Onboarding Specialist:** There is a pressing need for local leaders to educate citizens on using [crypto wallets](/how-to-choose-a-crypto-wallet) safely, spotting scams, and engaging in the digital economy. These roles are often funded through grants or entrepreneurial initiatives.
 
 ### Building a Web3 Career in Monrovia
 
 1. **Focus on Relevant Use Cases:** Concentrate learning and portfolio projects on solutions that directly address Liberia's challenges. Develop proof-of-concept applications, such as a decentralized app (dApp) for remittances, a simple [DeFi](/what-is-defi) savings tool, or an on-chain system for tracking charitable donations. This approach demonstrates the application of technology to solve real-world problems.
-  
+
 2. **Cultivate a Global Skillset:** Build a first-rate portfolio on GitHub and enhance your professional presence on Twitter and LinkedIn. Competing for remote positions is essential for career success. Proficient English communication remains vital.
-  
+
 3. **Lead and Educate the Community:** Establish the first Web3 meetup in Monrovia. Collaborate with local universities or tech hubs to conduct workshops. Create accessible content explaining Web3 to a Liberian audience, positioning yourself as a key figure in the ecosystem.
-  
+
 4. **Engage with Social Impact and NGO Networks:** Connect with social impact DAOs and the technology innovation teams of major international organizations. These groups are likely to fund or manage projects in Liberia.
 
 ## Salary Overview: Web3 Jobs in Monrovia
@@ -74,9 +74,9 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 **Months 1-4: Skill Development**
 - Learn React.js, Web3.js, and smart contracts with an emphasis on impactful use cases.
 - Complete three projects:
-  - A remittance platform for the Liberian diaspora.
-  - A stablecoin savings application for financial security.
-  - A simple identity verification dApp.
+ - A remittance platform for the Liberian diaspora.
+ - A stablecoin savings application for financial security.
+ - A simple identity verification dApp.
 - Build a visible GitHub portfolio and grow your Twitter following.
 - **Deliverable:** Three projects and a strong online presence.
 
@@ -144,7 +144,7 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 - Increase meetup attendance.
 - Approach protocols interested in African markets and propose a community manager role.
 - Expected salary: Competitive income.
-- Additionally, monetize YouTube through sponsorships.
+- monetize YouTube through sponsorships.
 - **Expected Income:** Competitive income.
 
 **Months 5-8: Broaden Your Reach**
@@ -233,4 +233,3 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 - One or two meetups hosted.
 - Significant Twitter followers.
 - One or two serious job interviews.
-

@@ -36,4 +36,3 @@ To effectively transition, familiarize yourself with the following technologies:
 3. **Month 3: Full-Stack dApp.** Construct a complete decentralized application, such as a basic [staking](/how-to-become-a-web3-staking-specialist) contract with a React front end.
 
 Your Web2 experience provides a significant advantage. Combining this with a solid understanding of Web3 technologies will position you as a desirable candidate in this rapidly expanding field.
-

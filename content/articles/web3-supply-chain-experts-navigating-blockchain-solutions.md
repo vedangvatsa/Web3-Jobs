@@ -17,9 +17,9 @@ These professionals merge their expertise in traditional logistics with blockcha
 ### Issues with Traditional Supply Chains
 
 1. **Transparency Deficiencies:** Consumers and supply chain participants often struggle to access a unified view of a product's journey.
-  
+
 2. **Counterfeiting Risks:** Counterfeit goods can easily infiltrate the supply chain, leading to significant financial losses.
-  
+
 3. **Operational Inefficiencies:** The reliance on paper documents and isolated data systems results in delays and inflated costs.
 
 ### The Web3 Solution
@@ -39,4 +39,3 @@ These professionals merge their expertise in traditional logistics with blockcha
 - **Product Manager (Supply Chain Focus):** PMs who develop user-facing applications and dashboards that enable companies to manage and visualize on-chain supply chain data.
 
 For those with logistics and supply chain management backgrounds, Web3 presents an opportunity to engage in a significant technological transformation, creating systems that enhance transparency, efficiency, and trustworthiness.
-

@@ -23,12 +23,12 @@ DAO treasuries receive funds from multiple sources. For various protocols, fees 
 Managing a DAO treasury requires balancing security, efficiency, and decentralization. The key challenge lies in enabling a decentralized community to oversee significant funds while avoiding slow processes that hamper operations or insecure systems that invite theft. Most DAOs use a mix of tools to achieve this.
 
 1. **Gnosis Safe (Multisig [Wallet](/how-to-choose-a-crypto-wallet)):** The Gnosis Safe is a widely used multisig wallet for treasury management. A multisig wallet is a [smart contract](/what-are-smart-contracts) requiring a set number of approvals from a group of trusted signers before executing any transaction. For instance, a DAO might implement a 4-of-7 multisig setup, where seven trusted community members serve as signers, and at least four must approve any treasury expenditure.
-   - **Advantages:** This model enhances security by eliminating the risk associated with a single private key, reducing the potential for a single point of failure. It also streamlines operations compared to requiring a full DAO vote for every minor expense.
-   - **Disadvantages:** Trust and centralization become factors. DAO members must rely on the multisig signers to act in good faith and remain available.
+ - **Advantages:** This model enhances security by eliminating the risk associated with a single private key, reducing the potential for a single point of failure. It also simplify operations compared to requiring a full DAO vote for every minor expense.
+ - **Disadvantages:** Trust and centralization become factors. DAO members must rely on the multisig signers to act in good faith and remain available.
 
 2. **On-Chain Governance:** Major treasury decisions, such as allocating significant funds to new initiatives, undergo a full vote by governance token holders. Tools like Tally or Governor Bravo typically facilitate this process. A proposal undergoes discussion in a forum before being subjected to an on-chain vote. If approved, the execution code for the fund transfer triggers automatically.
-   - **Advantages:** This approach promotes decentralization and transparency in governance.
-   - **Disadvantages:** The process can be slow, costly due to gas fees, and often suffers from low voter participation.
+ - **Advantages:** This approach promotes decentralization and transparency in governance.
+ - **Disadvantages:** The process can be slow, costly due to gas fees, and often suffers from low voter participation.
 
 3. **Hybrid Models and Sub-DAOs:** Larger DAOs frequently adopt hybrid governance structures. The main DAO may allocate a quarterly budget to smaller sub-DAOs or committees, such as a Marketing DAO or a Grants Committee. These smaller entities manage their budgets through multisigs, enabling them to act independently without requiring full DAO votes for every decision.
 
@@ -44,12 +44,12 @@ Effective treasury management encompasses both security and productive asset dep
 
 ### Real-World Example of DAO Treasury Management
 
-| Source of Funds               | Description                                      | Example                                    |
+| Source of Funds | Description | Example |
 |-------------------------------|--------------------------------------------------|--------------------------------------------|
-| Protocol Fees                 | Percentage of trade fees directed to the treasury | A decentralized exchange allocating a small percentage of trade fees |
-| Initial Token Allocation       | Tokens reserved at launch for treasury purposes  | Initial distribution of tokens to fund operations |
-| Revenue from Partnerships      | Earnings from strategic collaborations            | Revenue from integrating services with other projects |
-| Product and Service Revenue    | Income from products or services created by the DAO | Subscriptions or sales generated from a DAO-owned platform |
+| Protocol Fees | Percentage of trade fees directed to the treasury | A decentralized exchange allocating a small percentage of trade fees |
+| Initial Token Allocation | Tokens reserved at launch for treasury purposes | Initial distribution of tokens to fund operations |
+| Revenue from Partnerships | Earnings from strategic collaborations | Revenue from integrating services with other projects |
+| Product and Service Revenue | Income from products or services created by the DAO | Subscriptions or sales generated from a DAO-owned platform |
 
 ### Frequently Asked Questions (FAQ)
 
@@ -68,4 +68,3 @@ Tax obligations for a DAO depend on various factors. DAOs with a "legal wrapper,
 **What distinguishes a DAO treasury from the project's market cap?**
 
 Market cap measures the total value of all tokens in circulation (circulating supply multiplied by token price). In contrast, the treasury consists only of the portion of tokens owned by the DAO for its operations. The treasury's value is usually a fraction of the total market cap.
-

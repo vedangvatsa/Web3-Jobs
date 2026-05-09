@@ -6,15 +6,15 @@ difficulty: advanced
 image: "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=1200&q=80"
 description: Intent-centric protocols are blockchain systems where users express desired outcomes (intents) rather than specifying exact transactions. Specialized solvers compete to fulfill intents optimally, abstracting complexity and enabling better execution, cross-chain coordination, and MEV protection.
 relatedTerms:
-  - cross-chain
-  - mev
-  - solver
-  - account-abstraction
-  - order-flow
+ - cross-chain
+ - mev
+ - solver
+ - account-abstraction
+ - order-flow
 synonyms:
-  - Intent-based architecture
-  - Declarative transactions
-  - Outcome-based execution
+ - Intent-based architecture
+ - Declarative transactions
+ - Outcome-based execution
 ---
 
 - **Intent-centric protocols** represent a shift from traditional blockchain transactions to a model where users express desired outcomes (intents) rather than specifying exact execution steps. Instead of signing a transaction that says "swap 1 ETH for USDC on Uniswap," a user signs an intent that says "I want to receive at least 1,900 USDC for my 1 ETH," and a competitive marketplace of solvers figures out the optimal execution path.

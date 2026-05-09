@@ -24,11 +24,11 @@ Begin by familiarizing yourself with the fundamental concepts of performance man
 
 Conduct a thorough assessment of the employee's performance. Use specific metrics, such as project completion rates, quality of work, and peer feedback, to identify areas of concern. For instance, if an employee consistently misses deadlines, record the frequency and impact of these missed deadlines on team deliverables. 
 
-| Metric                     | Employee A | Employee B | Employee C |
+| Metric | Employee A | Employee B | Employee C |
 |----------------------------|------------|------------|------------|
-| Projects Completed on Time | 60%        | 80%        | 50%        |
-| Quality Score (1-10)      | 5          | 8          | 4          |
-| Peer Feedback (1-5)       | 2          | 4          | 3          |
+| Projects Completed on Time | 60% | 80% | 50% |
+| Quality Score (1-10) | 5 | 8 | 4 |
+| Peer Feedback (1-5) | 2 | 4 | 3 |
 
 ### Step 3: Develop a Personalized Performance Improvement Plan
 
@@ -43,4 +43,3 @@ Initiate changes gradually. Focus on one or two aspects of performance improveme
 Regularly evaluate the employee's progress against the goals set in their improvement plan. Use specific metrics to gauge success, such as the percentage of targets met or improvements in peer feedback scores. If the employee shows progress, acknowledge their efforts; if not, reassess the strategies and make necessary adjustments.
 
 ## Real-World Applications
-

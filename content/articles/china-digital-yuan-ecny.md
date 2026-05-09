@@ -39,13 +39,12 @@ This structure enables the government to maintain control while using the existi
 
 ### Comparing e-CNY and Cryptocurrencies
 
-| Feature              | e-CNY (Digital Yuan)                                        | Cryptocurrency (e.g., Bitcoin, Ethereum)                |
+| Feature | e-CNY (Digital Yuan) | Cryptocurrency (e.g., Bitcoin, Ethereum) |
 |----------------------|------------------------------------------------------------|---------------------------------------------------------|
-| **Control**          | Centralized (Under the authority of the People's Bank of China) | Decentralized (Managed by a distributed network)       |
-| **Transparency**     | Opaque (Transactions visible only to the central bank)     | Transparent (Transactions recorded on a public ledger)  |
-| **Permission**       | Permissioned (Central bank can freeze funds or censor transactions) | Permissionless (No single entity can halt a transaction) |
-| **Anonymity**        | None (Linked to real-world identities)                      | Pseudonymous (Associated with a [wallet](/how-to-choose-a-crypto-wallet) address) |
-| **Issuance**         | Governed by central bank monetary policy                    | Governed by a predictable algorithm                      |
+| **Control** | Centralized (Under the authority of the People's Bank of China) | Decentralized (Managed by a distributed network) |
+| **Transparency** | Opaque (Transactions visible only to the central bank) | Transparent (Transactions recorded on a public ledger) |
+| **Permission** | Permissioned (Central bank can freeze funds or censor transactions) | Permissionless (No single entity can halt a transaction) |
+| **Anonymity** | None (Linked to real-world identities) | Pseudonymous (Associated with a [wallet](/how-to-choose-a-crypto-wallet) address) |
+| **Issuance** | Governed by central bank monetary policy | Governed by a predictable algorithm |
 
 The e-CNY represents a future where monetary transactions become more efficient yet more controlled. This provides a stark counterpoint to the Web3 vision of a decentralized and open financial system. As CBDCs gain traction globally, the tension between these two frameworks will shape the future of finance significantly.
-

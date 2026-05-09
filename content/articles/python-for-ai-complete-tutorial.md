@@ -18,16 +18,16 @@ Python’s dominance in the AI field stems from three key attributes:
 
 1. **User-Friendly Syntax**: Python’s syntax closely resembles plain English, allowing you to concentrate on AI model logic instead of grappling with complex syntax.
 2. **Extensive Library Ecosystem**: Python boasts a wealth of open-source libraries that simplify tasks like data manipulation and machine learning. You can rely on existing libraries rather than starting from scratch.
-3. **Vibrant Community**: The Python community is strong. You can find answers to your queries on platforms like Stack Overflow or various programming blogs, which enhances the learning experience.
+3. **active Community**: The Python community is strong. You can find answers to your queries on platforms like Stack Overflow or various programming blogs, which enhances the learning experience.
 
 ## Essential Libraries for AI
 
 Three libraries form the cornerstone of any AI or data science project:
 
-| Library        | Purpose                                        |
+| Library | Purpose |
 |----------------|------------------------------------------------|
-| **NumPy**      | Handles numerical operations                   |
-| **Pandas**     | Facilitates data manipulation and analysis     |
+| **NumPy** | Handles numerical operations |
+| **Pandas** | Facilitates data manipulation and analysis |
 | **Scikit-learn**| Provides tools for building traditional machine learning models |
 
 Let’s explore each library in detail.
@@ -63,14 +63,14 @@ print(my_array)
 # Perform a mathematical operation on the entire array
 doubled_array = my_array * 2
 print(doubled_array)
-# Output: [ 2  4  6  8 10]
+# Output: [ 2 4 6 8 10]
 
 # Create a 2-dimensional array (a matrix)
 matrix = np.array([[1, 2, 3], [4, 5, 6]])
 print(matrix)
 # Output:
 # [[1 2 3]
-#  [4 5 6]]
+# [4 5 6]]
 
 print(matrix.shape)
 # Output: (2, 3) - Indicates 2 rows and 3 columns
@@ -112,18 +112,18 @@ df = pd.read_csv("students.csv")
 # Display the first few rows of the DataFrame
 print(df.head())
 # Output:
-#       name  age  grade
-# 0    Alice   20     88
-# 1      Bob   22     92
-# 2  Charlie   21     78
+# name age grade
+# 0 Alice 20 88
+# 1 Bob 22 92
+# 2 Charlie 21 78
 
 # Select a single column (this returns a Pandas Series)
 ages = df['age']
 print(ages)
 # Output:
-# 0    20
-# 1    22
-# 2    21
+# 0 20
+# 1 22
+# 2 21
 # Name: age, dtype: int64
 
 # Perform calculations on a column
@@ -135,11 +135,11 @@ print(f"The average grade is {average_grade}")
 high_achievers = df[df['grade'] > 90]
 print(high_achievers)
 # Output:
-#   name  age  grade
-# 1  Bob   22     92
+# name age grade
+# 1 Bob 22 92
 ```
 
-Pandas streamlines the processes of loading, cleaning, filtering, and analyzing tabular data, which is important in almost every machine learning project.
+Pandas simplify the processes of loading, cleaning, filtering, and analyzing tabular data, which is important in almost every machine learning project.
 
 ## 3. Scikit-learn: Your Gateway to Machine Learning
 
@@ -191,4 +191,3 @@ print(f"Mean Squared Error on test data: {mse:.2f}")
 With just a few lines of code, you create a complete machine learning workflow. You generate data with **NumPy**, use **Scikit-learn** to split the dataset, train a `LinearRegression` model, and make predictions.
 
 The pattern (`fit`, `predict`) is consistent across nearly all models in Scikit-learn, making it an invaluable resource for newcomers.
-

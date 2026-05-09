@@ -57,7 +57,7 @@ Zero-Knowledge (ZK) Rollups, including zkSync, StarkNet, and Polygon zkEVM, oper
 
 ### Trade-offs
 - **Pros**: The primary benefit of ZK-Rollups is speed. Because validity is established upfront, there is no need for an extended challenge period. Withdrawals from a ZK-Rollup to Layer 1 can occur almost instantly, typically within minutes, enhancing the user experience.
-- **Cons**: The technology is highly complex and resides at the forefront of cryptography. Generating validity proofs is computationally demanding for the prover. Achieving full EVM compatibility with ZK-Rollups remains a significant technical hurdle, although progress continues to be made.
+- **Cons**: The technology is highly complex and resides leading cryptography. Generating validity proofs is computationally demanding for the prover. Achieving full EVM compatibility with ZK-Rollups remains a significant technical hurdle, although progress continues to be made.
 
 ## The Future of Ethereum is Rollup-Centric
 
@@ -78,11 +78,10 @@ As rollup technology progresses and the costs associated with using Layer 2 solu
 
 ## Practical Comparison of Optimistic and ZK-Rollups
 
-| Feature                        | Optimistic Rollups                       | ZK-Rollups                             |
+| Feature | Optimistic Rollups | ZK-Rollups |
 |--------------------------------|-----------------------------------------|---------------------------------------|
-| **Transaction Confirmation**    | Challenges after submission             | Instant confirmation with validity proof |
-| **Withdrawal Time**            | Several days (challenge period)        | Almost instant (minutes)              |
-| **Complexity**                 | Less complex, EVM-compatible            | Highly complex, advanced cryptography  |
-| **Cost Efficiency**            | Significantly cheaper than Layer 1     | Comparable, depends on proof generation |
-| **Use Cases**                  | General dApps, DeFi                     | High-speed applications, gaming        |
-
+| **Transaction Confirmation** | Challenges after submission | Instant confirmation with validity proof |
+| **Withdrawal Time** | Several days (challenge period) | Almost instant (minutes) |
+| **Complexity** | Less complex, EVM-compatible | Highly complex, advanced cryptography |
+| **Cost Efficiency** | Significantly cheaper than Layer 1 | Comparable, depends on proof generation |
+| **Use Cases** | General dApps, DeFi | High-speed applications, gaming |

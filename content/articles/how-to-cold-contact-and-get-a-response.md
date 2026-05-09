@@ -44,7 +44,7 @@ Invest at least an hour to understand both the individual and the project. Your 
 From your research, pinpoint one insightful suggestion that demonstrates a deep understanding of their challenges. Avoid generic compliments.
 
 - **Ineffective Example:** "Your UX is great!"
-- **Effective Example:** "I observed that your new [staking](/how-to-become-a-web3-staking-specialist) flow requires users to sign two separate transactions. Implementing a multicall pattern could streamline this into a single signature, enhancing user experience and potentially lowering drop-off rates."
+- **Effective Example:** "I observed that your new [staking](/how-to-become-a-web3-staking-specialist) flow requires users to sign two separate transactions. Implementing a multicall pattern could simplify this into a single signature, enhancing user experience and potentially lowering drop-off rates."
 
 **Step 3: Craft Your Message**
 
@@ -66,8 +66,8 @@ Use the following structure for your outreach message:
 >
 > Feel free to respond at your convenience; I simply wanted to share this thought. Keep up the excellent work.
 >
-> Best,  
-> [Your Name]  
+> Best, 
+> [Your Name] 
 > [Link to your Twitter/Portfolio]
 
 ### Why This Approach Works
@@ -104,4 +104,3 @@ Avoid overwhelming yourself by trying to change everything at once. Start with o
 **Step 5: Measure Your Progress and Adjust Accordingly**
 
 Regularly monitor your outreach efforts. Are you achieving desired results? Modify your approach based on feedback and outcomes. Adopting a mindset focused on continuous improvement is essential for growth.
-

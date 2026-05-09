@@ -18,18 +18,18 @@ The process of 3D printing starts with a digital model. Engineers or designers c
 
 Numerous technologies exist within the field of 3D printing, each possessing unique advantages and ideal applications. The following highlights some of the most prevalent types:
 
-| Technology                      | Description                                                                                                                                     | Strengths                             | Weaknesses                             |
+| Technology | Description | Strengths | Weaknesses |
 |---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|----------------------------------------|
-| Fused Deposition Modeling (FDM) | The most widespread and cost-effective printing method. FDM printers extrude melted plastic filament through a nozzle to build objects layer by layer. | Affordable, widely available           | Limited materials, lower resolution    |
-| Stereolithography (SLA)        | The first method developed in the 1980s, SLA uses a UV laser to cure liquid resin into solid plastic.                                          | High detail, smooth surface finish    | More expensive, requires post-processing|
-| Selective Laser Sintering (SLS)| Uses a laser to fuse powdered materials, typically nylon, layer by layer without needing support structures.                                 | Complex geometries, strong parts      | Higher material costs, slower process  |
-| Direct Metal Laser Sintering (DMLS)| Similar to SLS but uses metal powders. A laser melts metal particles together to create strong, intricate metal components.                      | High strength, complex designs        | Very costly, limited material options   |
+| Fused Deposition Modeling (FDM) | The most widespread and cost-effective printing method. FDM printers extrude melted plastic filament through a nozzle to build objects layer by layer. | Affordable, widely available | Limited materials, lower resolution |
+| Stereolithography (SLA) | The first method developed in the 1980s, SLA uses a UV laser to cure liquid resin into solid plastic. | High detail, smooth surface finish | More expensive, requires post-processing|
+| Selective Laser Sintering (SLS)| Uses a laser to fuse powdered materials, typically nylon, layer by layer without needing support structures. | Complex geometries, strong parts | Higher material costs, slower process |
+| Direct Metal Laser Sintering (DMLS)| Similar to SLS but uses metal powders. A laser melts metal particles together to create strong, intricate metal components. | High strength, complex designs | Very costly, limited material options |
 
 ### Impact on Manufacturing and Prototyping
 
 3D printing has transformed product development and prototyping. Traditionally, creating prototypes involved lengthy lead times and substantial costs due to the need for specialized tooling. Now, an engineer can design a component in the morning and produce a physical prototype by afternoon. This rapid prototyping capability enhances innovation cycles, allowing companies to bring products to market much faster.
 
-Additionally, 3D printing supports on-demand manufacturing. Businesses can print spare parts as needed rather than maintaining extensive inventories. This approach proves especially beneficial for outdated machinery, where spare components may no longer be in production.
+3D printing supports on-demand manufacturing. Businesses can print spare parts as needed rather than maintaining extensive inventories. This approach proves especially beneficial for outdated machinery, where spare components may no longer be in production.
 
 Additive manufacturing enables the creation of intricate geometries unattainable through traditional methods. Engineers can design parts with internal lattice structures, optimizing strength while minimizing weight. This advantage is particularly important in industries like aerospace, where every gram affects performance.
 
@@ -45,13 +45,13 @@ While 3D printing will not entirely replace conventional manufacturing, it serve
 
 ### Frequently Asked Questions (FAQs)
 
-**1. Is 3D printing expensive?**  
+**1. Is 3D printing expensive?** 
 The cost varies significantly based on the technology and intended use. Entry-level FDM printers for home use can be acquired at relatively low prices. In contrast, industrial machines, particularly those designed for metal printing, can be quite expensive. Material costs also vary, from inexpensive plastic filaments to premium metal powders.
 
-**2. What materials are suitable for 3D printing?**  
-A diverse array of materials is available for 3D printing, and the options continue to expand. Common materials include plastics like PLA and ABS. Additionally, 3D printers can work with resins, nylon, metals (such as titanium and aluminum), carbon fiber composites, and even unconventional materials like wood-infused filament, ceramics, and food products.
+**2. What materials are suitable for 3D printing?** 
+A diverse array of materials is available for 3D printing, and the options continue to expand. Common materials include plastics like PLA and ABS. 3D printers can work with resins, nylon, metals (such as titanium and aluminum), carbon fiber composites, and even unconventional materials like wood-infused filament, ceramics, and food products.
 
-**3. How strong are 3D printed parts?**  
+**3. How strong are 3D printed parts?** 
 The strength of a 3D printed part is contingent on several factors, including the material used, the printing technology, and the orientation during printing. Components produced with DMLS can match the strength of traditionally manufactured metal parts. Even parts created with desktop FDM printers can exhibit significant strength and functionality if designed appropriately.
 
 ### Why Understanding 3D Printing Matters
@@ -88,18 +88,17 @@ Maya used 3D printing to create prototypes for her new startup. By using this te
 
 ### Common Pitfalls to Avoid
 
-1. **Rushing the Learning Curve**  
+1. **Rushing the Learning Curve** 
 Understand that mastering 3D printing takes time. Avoid expecting immediate results; sustainable progress requires patience and consistent effort.
 
-2. **Disregarding Feedback**  
+2. **Disregarding Feedback** 
 Feedback from colleagues and mentors can provide valuable insights into your approach. Be open to constructive criticism and adapt accordingly.
 
-3. **One-Size-Fits-All Mindset**  
+3. **One-Size-Fits-All Mindset** 
 Recognize that strategies may vary based on individual circumstances. Customize your approach to suit your specific needs and context.
 
-4. **Giving Up Prematurely**  
+4. **Giving Up Prematurely** 
 Initial setbacks are common. Stay committed to your learning journey and push through challenges to achieve desired outcomes.
 
-5. **Neglecting Progress Tracking**  
+5. **Neglecting Progress Tracking** 
 Document your advancements. Keeping track of metrics related to your 3D printing efforts can highlight areas for improvement and demonstrate your growth.
-

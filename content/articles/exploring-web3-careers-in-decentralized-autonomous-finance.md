@@ -20,13 +20,13 @@ This article explores key job roles within the DeFi ecosystem, the skills necess
 
 Understanding the various components that comprise the DeFi ecosystem is critical in identifying your niche within this field. Here are the primary categories:
 
-| **Category**                   | **Description**                                                                                   | **Examples**                       |
+| **Category** | **Description** | **Examples** |
 |--------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------|
-| Decentralized Exchanges (DEXs) | Platforms enabling peer-to-peer trading of crypto assets without a central order book.          | Uniswap, Curve                     |
-| Lending & Borrowing            | Protocols allowing users to lend assets for interest or borrow against collateral.                | Aave, Compound                     |
-| Asset Management / Yield       | "Yield aggregators" that optimize returns by automatically reallocating user funds.              | Yearn Finance                      |
-| Derivatives                    | Platforms for creating synthetic assets, options, and futures on the blockchain.                 | Synthetix, GMX                     |
-| Infrastructure & Oracles       | Services providing essential data to smart contracts, including real-world asset prices.         | [Chainlink](/what-are-oracles), The Graph |
+| Decentralized Exchanges (DEXs) | Platforms enabling peer-to-peer trading of crypto assets without a central order book. | Uniswap, Curve |
+| Lending & Borrowing | Protocols allowing users to lend assets for interest or borrow against collateral. | Aave, Compound |
+| Asset Management / Yield | "Yield aggregators" that optimize returns by automatically reallocating user funds. | Yearn Finance |
+| Derivatives | Platforms for creating synthetic assets, options, and futures on the blockchain. | Synthetix, GMX |
+| Infrastructure & Oracles | Services providing essential data to smart contracts, including real-world asset prices. | [Chainlink](/what-are-oracles), The Graph |
 
 ## Key Job Roles in Decentralized Finance
 
@@ -49,8 +49,7 @@ Entering the DeFi sector presents challenges, primarily due to the steep learnin
 2. **Study Relevant Theory**: Familiarize yourself with the whitepapers of major protocols. Essential readings include Uniswap V2 and V3. Follow DeFi researchers on Twitter and listen to podcasts, such as Bankless.
 
 3. **Build a Relevant [Portfolio](/building-web3-portfolio)**:
-   - **For Developers**: Create a simplified version of a DeFi primitive, such as a basic Automated Market Maker (AMM) or a [staking](/how-to-become-a-web3-staking-specialist) contract.
-   - **For Quants**: Develop a Dune Analytics dashboard that analyzes key metrics of a protocol.
+ - **For Developers**: Create a simplified version of a DeFi primitive, such as a basic Automated Market Maker (AMM) or a [staking](/how-to-become-a-web3-staking-specialist) contract.
+ - **For Quants**: Develop a Dune Analytics dashboard that analyzes key metrics of a protocol.
 
-A career in DeFi offers an opportunity to work at the forefront of finance and technology, presenting daily challenges and contributing to a financial infrastructure that aims to be more equitable than its predecessors.
-
+A career in DeFi offers an opportunity to work leading finance and technology, presenting daily challenges and contributing to a financial infrastructure that aims to be more equitable than its predecessors.

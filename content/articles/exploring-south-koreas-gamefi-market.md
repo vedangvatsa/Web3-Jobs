@@ -22,25 +22,25 @@ Several key elements have positioned South Korea as a leader in blockchain gamin
 
 2. **Strong Presence of Major Game Publishers:** Unlike many regions where startups drive GameFi, South Korea's market is dominated by established giants such as WeMade, Nexon, and Netmarble. These companies have extensive experience in creating high-quality games and are now applying their expertise to Web3.
 
-3. **Thriving Developer Ecosystem:** South Korea is home to a talented pool of game developers, artists, and designers who excel at creating engaging and commercially successful games.
+3. **growing Developer Ecosystem:** South Korea is home to a talented pool of game developers, artists, and designers who excel at creating engaging and commercially successful games.
 
 4. **High Cryptocurrency Adoption:** The nation features a mature cryptocurrency market with significant adoption rates. A sophisticated retail investor base eagerly seeks new GameFi opportunities.
 
 ### Key Players in the South Korean GameFi Market
 
-| Company          | Notable Projects                                    | Description                                                                                                                   |
+| Company | Notable Projects | Description |
 |------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| WeMade           | *MIR4*                                            | A leading MMORPG that has fully embraced Web3 through its WEMIX platform, which supports a wide range of P2E and P&E games. |
-| Nexon            | "MapleStory Universe"                             | A major player investing heavily in Web3, building a blockchain-based ecosystem around its iconic MapleStory IP.              |
-| Kakao Games      | Various Web3 titles                               | The gaming arm of Kakao uses its Klaytn blockchain to develop and publish Web3 games.                                   |
-| Local Exchanges   | Upbit, Bithumb                                   | Dominant cryptocurrency exchanges in Korea, primarily facilitating trading for GameFi project tokens.                        |
+| WeMade | *MIR4* | A leading MMORPG that has fully embraced Web3 through its WEMIX platform, which supports a wide range of P2E and P&E games. |
+| Nexon | "MapleStory Universe" | A major player investing heavily in Web3, building a blockchain-based ecosystem around its iconic MapleStory IP. |
+| Kakao Games | Various Web3 titles | The gaming arm of Kakao uses its Klaytn blockchain to develop and publish Web3 games. |
+| Local Exchanges | Upbit, Bithumb | Dominant cryptocurrency exchanges in Korea, primarily facilitating trading for GameFi project tokens. |
 
 ### Managing the Regulatory Environment
 
 The regulatory environment poses significant challenges for the GameFi market in South Korea. The Game Rating and Administration Committee (GRAC) has adopted a stringent approach toward P2E games, particularly those with cash-out mechanisms or speculative NFT trading.
 
 - **The "No Cash-Out" Rule:** To receive a rating and be legally distributed in Korea, games generally cannot allow players to convert in-game earnings into cash.
-  
+
 - **Market Impact:** This regulation has prompted many Korean companies to release global versions of their games that incorporate P2E mechanics while providing separate, non-P2E versions for the domestic market. Successfully managing this regulatory environment is important for any project operating within South Korea.
 
 ### In-Demand Roles in the Korean GameFi Job Market
@@ -67,5 +67,4 @@ The job market for professionals with traditional gaming experience remains stro
 
 ### South Korea's Role in Shaping the Future of Gaming
 
-South Korea stands at the forefront of redefining the future of interactive entertainment. The GameFi market presents significant opportunities for professionals passionate about gaming and player-owned economies. Engaging in South Korea’s GameFi sector means working on some of the most ambitious projects globally.
-
+South Korea stands leading redefining the future of interactive entertainment. The GameFi market presents significant opportunities for professionals passionate about gaming and player-owned economies. Engaging in South Korea’s GameFi sector means working on some of the most ambitious projects globally.

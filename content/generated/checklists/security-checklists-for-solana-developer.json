@@ -1,162 +1,162 @@
 {
-  "meta": {
-    "contentType": "checklists",
-    "topic": "security",
-    "niche": "solana-developer",
-    "generatedAt": "2026-03-13T00:00:00.000Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "Security Checklist for Solana Developers",
-    "description": "A comprehensive checklist covering account validation, PDA security, CPI safety, and Solana program security best practices.",
-    "keywords": ["solana-developer", "security", "checklist", "Anchor", "PDA", "accounts"],
-    "canonicalSlug": "security-checklists-for-solana-developer"
-  },
-  "content": {
-    "intro": "Solana's account model creates unique security considerations. Use this checklist to ensure your programs are secure against common attack vectors.",
-    "sections": [
-      {
-        "heading": "Account Validation",
-        "items": [
-          { "text": "Verify account owner matches expected program ID", "priority": "critical" },
-          { "text": "Check account discriminator to ensure correct account type", "priority": "critical" },
-          { "text": "Validate signer status for accounts that should authorize actions", "priority": "critical" },
-          { "text": "Check writable flag for accounts that will be modified", "priority": "critical" },
-          { "text": "Verify account is initialized before reading data", "priority": "critical" },
-          { "text": "Validate account data length matches expected size", "priority": "critical" },
-          { "text": "Check that accounts are not closed (lamports = 0)", "priority": "critical" },
-          { "text": "Verify rent-exempt status for accounts that should persist", "priority": "important" }
-        ]
-      },
-      {
-        "heading": "PDA Security",
-        "items": [
-          { "text": "Use consistent seeds for PDA derivation across program and client", "priority": "critical" },
-          { "text": "Store bump seed in account data to avoid recalculation", "priority": "critical" },
-          { "text": "Validate PDA derivation on-chain, don't trust client-provided PDAs", "priority": "critical" },
-          { "text": "Use create_program_address for validation, not find_program_address", "priority": "important" },
-          { "text": "Include unique identifiers in seeds to prevent collisions", "priority": "critical" },
-          { "text": "Document seed structure clearly for maintainability", "priority": "important" },
-          { "text": "Use canonical bump (the one from find_program_address)", "priority": "critical" },
-          { "text": "Keep total seed length under 32 bytes", "priority": "important" }
-        ]
-      },
-      {
-        "heading": "Token Operations",
-        "items": [
-          { "text": "Verify token account mint matches expected token", "priority": "critical" },
-          { "text": "Check token account owner is the expected user/PDA", "priority": "critical" },
-          { "text": "Validate token program ID (SPL Token vs Token-2022)", "priority": "critical" },
-          { "text": "Account for token decimals in all calculations", "priority": "critical" },
-          { "text": "Check token account is not frozen before transfers", "priority": "important" },
-          { "text": "Verify associated token account derivation", "priority": "critical" },
-          { "text": "Handle close authority properly for token accounts", "priority": "important" },
-          { "text": "Check delegate and delegated amount for token accounts", "priority": "important" }
-        ]
-      },
-      {
-        "heading": "Arithmetic Safety",
-        "items": [
-          { "text": "Use checked arithmetic (checked_add, checked_sub, checked_mul)", "priority": "critical" },
-          { "text": "Handle division by zero explicitly", "priority": "critical" },
-          { "text": "Consider precision loss in division operations", "priority": "critical" },
-          { "text": "Round in protocol's favor, not user's favor", "priority": "critical" },
-          { "text": "Use saturating arithmetic where appropriate", "priority": "important" },
-          { "text": "Validate numeric inputs are within expected ranges", "priority": "critical" },
-          { "text": "Use fixed-point math for financial calculations", "priority": "critical" },
-          { "text": "Test edge cases with minimum and maximum values", "priority": "critical" }
-        ]
-      },
-      {
-        "heading": "CPI Security",
-        "items": [
-          { "text": "Validate target program ID before CPI", "priority": "critical" },
-          { "text": "Use hardcoded program IDs, not account-provided ones", "priority": "critical" },
-          { "text": "Pass correct signer seeds for PDA-signed CPIs", "priority": "critical" },
-          { "text": "Follow checks-effects-interactions pattern", "priority": "critical" },
-          { "text": "Update state before making CPIs to prevent reentrancy", "priority": "critical" },
-          { "text": "Check CPI return values for success", "priority": "critical" },
-          { "text": "Limit CPIs to known, audited programs", "priority": "critical" },
-          { "text": "Document CPI trust assumptions", "priority": "important" }
-        ]
-      },
-      {
-        "heading": "Access Control",
-        "items": [
-          { "text": "Implement proper authority checks for admin functions", "priority": "critical" },
-          { "text": "Use multi-sig or governance for critical operations", "priority": "critical" },
-          { "text": "Implement upgrade authority controls", "priority": "critical" },
-          { "text": "Add timelock for sensitive parameter changes", "priority": "important" },
-          { "text": "Document all privileged operations", "priority": "important" },
-          { "text": "Allow authority transfer/revocation", "priority": "important" },
-          { "text": "Validate authority accounts are signers", "priority": "critical" },
-          { "text": "Consider program freezing for emergencies", "priority": "important" }
-        ]
-      },
-      {
-        "heading": "State Management",
-        "items": [
-          { "text": "Initialize all account fields explicitly", "priority": "critical" },
-          { "text": "Use proper serialization/deserialization", "priority": "critical" },
-          { "text": "Handle account resizing carefully", "priority": "important" },
-          { "text": "Clean up closed accounts properly", "priority": "important" },
-          { "text": "Prevent duplicate initialization", "priority": "critical" },
-          { "text": "Use version field for future migrations", "priority": "important" },
-          { "text": "Validate state transitions are valid", "priority": "critical" },
-          { "text": "Document account lifecycle", "priority": "important" }
-        ]
-      },
-      {
-        "heading": "Clock and Timing",
-        "items": [
-          { "text": "Use Clock sysvar for timestamps, not block data", "priority": "critical" },
-          { "text": "Handle i64 timestamps correctly (not u64)", "priority": "important" },
-          { "text": "Consider slot vs Unix timestamp based on precision needs", "priority": "important" },
-          { "text": "Account for clock skew in time-sensitive operations", "priority": "important" },
-          { "text": "Don't trust future timestamps from users", "priority": "critical" },
-          { "text": "Implement reasonable timelock durations", "priority": "important" }
-        ]
-      },
-      {
-        "heading": "Testing",
-        "items": [
-          { "text": "Write comprehensive unit tests with Bankrun", "priority": "critical" },
-          { "text": "Test on devnet with realistic conditions", "priority": "critical" },
-          { "text": "Test all error paths, not just happy paths", "priority": "critical" },
-          { "text": "Use fuzzing (Trident) for complex logic", "priority": "important" },
-          { "text": "Test with invalid account inputs", "priority": "critical" },
-          { "text": "Test arithmetic edge cases", "priority": "critical" },
-          { "text": "Test CPI failure scenarios", "priority": "important" },
-          { "text": "Verify compute unit usage under load", "priority": "important" }
-        ]
-      },
-      {
-        "heading": "Deployment",
-        "items": [
-          { "text": "Verify program builds are reproducible", "priority": "critical" },
-          { "text": "Use verified builds on-chain", "priority": "important" },
-          { "text": "Store upgrade authority securely (multi-sig)", "priority": "critical" },
-          { "text": "Test upgrade procedure before mainnet", "priority": "critical" },
-          { "text": "Document deployment and upgrade process", "priority": "important" },
-          { "text": "Consider making program immutable after stabilization", "priority": "important" },
-          { "text": "Monitor program after deployment", "priority": "critical" },
-          { "text": "Have incident response plan ready", "priority": "critical" }
-        ]
-      }
-    ],
-    "relatedResources": [
-      {
-        "title": "Common Mistakes Solana Developers Make",
-        "slug": "security-mistakes-for-solana-developer"
-      },
-      {
-        "title": "Development Tools for Solana Developers",
-        "slug": "development-tools-for-solana-developer"
-      },
-      {
-        "title": "Portfolio Project Ideas for Solana Developers",
-        "slug": "portfolio-project-ideas-for-solana-developer"
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "checklists",
+ "topic": "security",
+ "niche": "solana-developer",
+ "generatedAt": "2026-03-13T00:00:00.000Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "Security Checklist for Solana Developers",
+ "description": "A comprehensive checklist covering account validation, PDA security, CPI safety, and Solana program security best practices.",
+ "keywords": ["solana-developer", "security", "checklist", "Anchor", "PDA", "accounts"],
+ "canonicalSlug": "security-checklists-for-solana-developer"
+ },
+ "content": {
+ "intro": "Solana's account model creates unique security considerations. Use this checklist to ensure your programs are secure against common attack vectors.",
+ "sections": [
+ {
+ "heading": "Account Validation",
+ "items": [
+ { "text": "Verify account owner matches expected program ID", "priority": "critical" },
+ { "text": "Check account discriminator to ensure correct account type", "priority": "critical" },
+ { "text": "Validate signer status for accounts that should authorize actions", "priority": "critical" },
+ { "text": "Check writable flag for accounts that will be modified", "priority": "critical" },
+ { "text": "Verify account is initialized before reading data", "priority": "critical" },
+ { "text": "Validate account data length matches expected size", "priority": "critical" },
+ { "text": "Check that accounts are not closed (lamports = 0)", "priority": "critical" },
+ { "text": "Verify rent-exempt status for accounts that should persist", "priority": "important" }
+ ]
+ },
+ {
+ "heading": "PDA Security",
+ "items": [
+ { "text": "Use consistent seeds for PDA derivation across program and client", "priority": "critical" },
+ { "text": "Store bump seed in account data to avoid recalculation", "priority": "critical" },
+ { "text": "Validate PDA derivation on-chain, don't trust client-provided PDAs", "priority": "critical" },
+ { "text": "Use create_program_address for validation, not find_program_address", "priority": "important" },
+ { "text": "Include unique identifiers in seeds to prevent collisions", "priority": "critical" },
+ { "text": "Document seed structure clearly for maintainability", "priority": "important" },
+ { "text": "Use canonical bump (the one from find_program_address)", "priority": "critical" },
+ { "text": "Keep total seed length under 32 bytes", "priority": "important" }
+ ]
+ },
+ {
+ "heading": "Token Operations",
+ "items": [
+ { "text": "Verify token account mint matches expected token", "priority": "critical" },
+ { "text": "Check token account owner is the expected user/PDA", "priority": "critical" },
+ { "text": "Validate token program ID (SPL Token vs Token-2022)", "priority": "critical" },
+ { "text": "Account for token decimals in all calculations", "priority": "critical" },
+ { "text": "Check token account is not frozen before transfers", "priority": "important" },
+ { "text": "Verify associated token account derivation", "priority": "critical" },
+ { "text": "Handle close authority properly for token accounts", "priority": "important" },
+ { "text": "Check delegate and delegated amount for token accounts", "priority": "important" }
+ ]
+ },
+ {
+ "heading": "Arithmetic Safety",
+ "items": [
+ { "text": "Use checked arithmetic (checked_add, checked_sub, checked_mul)", "priority": "critical" },
+ { "text": "Handle division by zero explicitly", "priority": "critical" },
+ { "text": "Consider precision loss in division operations", "priority": "critical" },
+ { "text": "Round in protocol's favor, not user's favor", "priority": "critical" },
+ { "text": "Use saturating arithmetic where appropriate", "priority": "important" },
+ { "text": "Validate numeric inputs are within expected ranges", "priority": "critical" },
+ { "text": "Use fixed-point math for financial calculations", "priority": "critical" },
+ { "text": "Test edge cases with minimum and maximum values", "priority": "critical" }
+ ]
+ },
+ {
+ "heading": "CPI Security",
+ "items": [
+ { "text": "Validate target program ID before CPI", "priority": "critical" },
+ { "text": "Use hardcoded program IDs, not account-provided ones", "priority": "critical" },
+ { "text": "Pass correct signer seeds for PDA-signed CPIs", "priority": "critical" },
+ { "text": "Follow checks-effects-interactions pattern", "priority": "critical" },
+ { "text": "Update state before making CPIs to prevent reentrancy", "priority": "critical" },
+ { "text": "Check CPI return values for success", "priority": "critical" },
+ { "text": "Limit CPIs to known, audited programs", "priority": "critical" },
+ { "text": "Document CPI trust assumptions", "priority": "important" }
+ ]
+ },
+ {
+ "heading": "Access Control",
+ "items": [
+ { "text": "Implement proper authority checks for admin functions", "priority": "critical" },
+ { "text": "Use multi-sig or governance for critical operations", "priority": "critical" },
+ { "text": "Implement upgrade authority controls", "priority": "critical" },
+ { "text": "Add timelock for sensitive parameter changes", "priority": "important" },
+ { "text": "Document all privileged operations", "priority": "important" },
+ { "text": "Allow authority transfer/revocation", "priority": "important" },
+ { "text": "Validate authority accounts are signers", "priority": "critical" },
+ { "text": "Consider program freezing for emergencies", "priority": "important" }
+ ]
+ },
+ {
+ "heading": "State Management",
+ "items": [
+ { "text": "Initialize all account fields explicitly", "priority": "critical" },
+ { "text": "Use proper serialization/deserialization", "priority": "critical" },
+ { "text": "Handle account resizing carefully", "priority": "important" },
+ { "text": "Clean up closed accounts properly", "priority": "important" },
+ { "text": "Prevent duplicate initialization", "priority": "critical" },
+ { "text": "Use version field for future migrations", "priority": "important" },
+ { "text": "Validate state transitions are valid", "priority": "critical" },
+ { "text": "Document account lifecycle", "priority": "important" }
+ ]
+ },
+ {
+ "heading": "Clock and Timing",
+ "items": [
+ { "text": "Use Clock sysvar for timestamps, not block data", "priority": "critical" },
+ { "text": "Handle i64 timestamps correctly (not u64)", "priority": "important" },
+ { "text": "Consider slot vs Unix timestamp based on precision needs", "priority": "important" },
+ { "text": "Account for clock skew in time-sensitive operations", "priority": "important" },
+ { "text": "Don't trust future timestamps from users", "priority": "critical" },
+ { "text": "Implement reasonable timelock durations", "priority": "important" }
+ ]
+ },
+ {
+ "heading": "Testing",
+ "items": [
+ { "text": "Write comprehensive unit tests with Bankrun", "priority": "critical" },
+ { "text": "Test on devnet with realistic conditions", "priority": "critical" },
+ { "text": "Test all error paths, not just happy paths", "priority": "critical" },
+ { "text": "Use fuzzing (Trident) for complex logic", "priority": "important" },
+ { "text": "Test with invalid account inputs", "priority": "critical" },
+ { "text": "Test arithmetic edge cases", "priority": "critical" },
+ { "text": "Test CPI failure scenarios", "priority": "important" },
+ { "text": "Verify compute unit usage under load", "priority": "important" }
+ ]
+ },
+ {
+ "heading": "Deployment",
+ "items": [
+ { "text": "Verify program builds are reproducible", "priority": "critical" },
+ { "text": "Use verified builds on-chain", "priority": "important" },
+ { "text": "Store upgrade authority securely (multi-sig)", "priority": "critical" },
+ { "text": "Test upgrade procedure before mainnet", "priority": "critical" },
+ { "text": "Document deployment and upgrade process", "priority": "important" },
+ { "text": "Consider making program immutable after stabilization", "priority": "important" },
+ { "text": "Monitor program after deployment", "priority": "critical" },
+ { "text": "Have incident response plan ready", "priority": "critical" }
+ ]
+ }
+ ],
+ "relatedResources": [
+ {
+ "title": "Common Mistakes Solana Developers Make",
+ "slug": "security-mistakes-for-solana-developer"
+ },
+ {
+ "title": "Development Tools for Solana Developers",
+ "slug": "development-tools-for-solana-developer"
+ },
+ {
+ "title": "Portfolio Project Ideas for Solana Developers",
+ "slug": "portfolio-project-ideas-for-solana-developer"
+ }
+ ]
+ }
 }

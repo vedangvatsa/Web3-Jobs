@@ -21,7 +21,7 @@ With strong preparation and a confident approach, you can effectively engage in 
 Understanding your market value is important in salary negotiations. Knowledge equips you to discuss compensation confidently.
 
 - **Research Industry Standards**: Use platforms like Glassdoor, Levels.fyi, and Payscale to gather data on average salaries for your role, experience level, and geographic location. For instance, the average salary for a software engineer in San Francisco is significantly higher than in many other regions, while it is lower in Austin, Texas.
-  
+
 - **Consider the Entire Compensation Package**: Look beyond base salary. Factor in bonuses, stock options, health benefits, retirement contributions, and other perks. For example, a position with a lower salary might offer a generous benefits package that can make it more attractive overall.
 
 - **Determine Your Salary Range**: From your research, establish a realistic salary range. Identify a target figure that reflects your worth and a minimum acceptable offer that you would consider.
@@ -73,12 +73,12 @@ Aim for a counteroffer that is higher than the initial offer, depending on your 
 
 ### Salary Comparison Table
 
-| Job Title             | Location          | Average Salary (Base) | Total Compensation (including benefits) |
+| Job Title | Location | Average Salary (Base) | Total Compensation (including benefits) |
 |-----------------------|-------------------|------------------------|----------------------------------------|
-| Software Engineer      | San Francisco, CA  | Significantly higher   | Higher than average                     |
-| Software Engineer      | Austin, TX        | Lower than average     | Competitive                             |
-| Product Manager        | New York, NY      | Higher than average    | Competitive                             |
-| Data Scientist         | Seattle, WA       | Higher than average    | Competitive                             |
+| Software Engineer | San Francisco, CA | Significantly higher | Higher than average |
+| Software Engineer | Austin, TX | Lower than average | Competitive |
+| Product Manager | New York, NY | Higher than average | Competitive |
+| Data Scientist | Seattle, WA | Higher than average | Competitive |
 
 ### Why This Matters
 
@@ -115,4 +115,3 @@ Mastering salary negotiation is vital for career advancement. Professionals who 
 4. **Giving Up Too Soon**: Negotiation can be uncomfortable. Persist through initial discomfort to achieve better outcomes.
 
 5. **Neglecting to Track Progress**: Keep records of your negotiation attempts and outcomes. Metrics help you refine your approach and improve your skills over time.
-

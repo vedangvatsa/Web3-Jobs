@@ -18,20 +18,20 @@ Starting a freelance business involves transforming your skills into services th
 
 Defining what you will offer is your first step. Avoid trying to be a jack-of-all-trades; instead, concentrate on a specific skill or service where you can excel. This focus creates your niche.
 
-**Assess Your Skills**  
+**Assess Your Skills** 
 Make a list of your capabilities. Reflect on what you enjoy and where you have experience, even if it stems from hobbies or past jobs.
 
-**Research Market Needs**  
+**Research Market Needs** 
 Investigate what services are in demand by reviewing platforms like Upwork or Fiverr. Identify gaps in the market and consider how your skills can fill those needs.
 
-**Intersect Your Strengths and Market Demand**  
+**Intersect Your Strengths and Market Demand** 
 Your ideal niche lies at the intersection of what you excel at, what you enjoy, and what clients are willing to pay for. For instance, rather than labeling yourself simply as a "writer," define your niche as "a writer specializing in blog posts for tech startups." This specificity increases your visibility and makes you more hireable.
 
 ### 2. Build Your Portfolio
 
 A [portfolio](/building-web3-portfolio) showcases your best work and serves as your primary marketing tool as a freelancer. It demonstrates your capabilities to potential clients.
 
-**Creating Your Portfolio Without Experience**  
+**Creating Your Portfolio Without Experience** 
 Many beginners face the challenge of lacking client work to display. If you find yourself in this position, consider creating your own projects:
 * **Writers:** Launch a blog focused on a topic you are passionate about.
 * **Designers:** Redesign an existing website or conceptualize a brand identity for a fictional company.
@@ -43,13 +43,13 @@ The goal is to compile several high-quality pieces that effectively demonstrate 
 
 Establishing your pricing can be one of the most challenging aspects of freelancing. Set your rates too high, and you risk scaring away potential clients. Set them too low, and you may undervalue your work.
 
-**Determining Your Rates**  
+**Determining Your Rates** 
 * **Market Research:** Analyze what other freelancers with similar skills and experience charge.
 * **Calculate Your Needs:** Assess how much you need to earn monthly to cover your expenses and achieve your financial goals.
 * **Consider Various Pricing Models:**
-    * **Hourly Rate:** Suitable for projects with undefined scopes.
-    * **Per-Project Fee:** Ideal for projects with clear deliverables, often favored by clients.
-    * **Retainer Agreement:** A fixed monthly charge for ongoing work ensures steady income.
+ * **Hourly Rate:** Suitable for projects with undefined scopes.
+ * **Per-Project Fee:** Ideal for projects with clear deliverables, often favored by clients.
+ * **Retainer Agreement:** A fixed monthly charge for ongoing work ensures steady income.
 
 As a beginner, starting with slightly lower rates can help you build your portfolio and gain experience. However, plan to raise your rates as your skills and reputation develop.
 
@@ -73,13 +73,13 @@ Your initial projects should focus on more than making money; aim to build relat
 
 ### FAQs
 
-**How much should I charge as a beginner?**  
+**How much should I charge as a beginner?** 
 Your rates will vary based on your industry and skills. A good starting point involves checking what other freelancers with similar experience are charging on platforms like Upwork. Consider starting with lower rates to attract initial clients, but have a strategy for increasing your prices as you gain experience.
 
-**Do I need a contract?**  
+**Do I need a contract?** 
 Always use a freelance contract. This document protects both you and your client by outlining the scope of work, deliverables, payment terms, and deadlines. Numerous free templates are available online for customization.
 
-**How do I handle taxes?**  
+**How do I handle taxes?** 
 As a freelancer, you bear the responsibility for your own taxes. This differs from traditional employment. It is wise to set aside a portion of every payment for tax purposes. Consulting with an accountant can help ensure you comply with regulations.
 
 ### Why This Matters
@@ -107,4 +107,3 @@ Avoid overwhelming yourself by attempting to change everything at once. Start wi
 #### Step 5: Measure and Adjust
 
 Track your progress and adjust your strategy as needed. This mindset builds continuous improvement.
-

@@ -18,13 +18,13 @@ Your previous career has equipped you with valuable skills. These transferable s
 
 **Common transferable skills include:**
 
-| Skill                | Description                                                                             |
+| Skill | Description |
 |----------------------|-----------------------------------------------------------------------------------------|
-| Communication        | Proficient in writing, presenting, and interpersonal interactions.                     |
-| Leadership           | Experience in managing teams, mentoring, and taking initiative.                        |
-| Project Management    | Skills in planning, executing, and delivering projects within deadlines and budgets.   |
-| Problem-Solving      | Ability to analyze complex problems and devise creative solutions.                     |
-| Data Analysis        | Expertise in using data to inform decisions and strategies.                            |
+| Communication | Proficient in writing, presenting, and interpersonal interactions. |
+| Leadership | Experience in managing teams, mentoring, and taking initiative. |
+| Project Management | Skills in planning, executing, and delivering projects within deadlines and budgets. |
+| Problem-Solving | Ability to analyze complex problems and devise creative solutions. |
+| Data Analysis | Expertise in using data to inform decisions and strategies. |
 
 Compile a list of your top transferable skills. Consider how these skills can be applied in your target industry. For example, strong communication skills are invaluable in marketing, customer service, or any role that involves stakeholder interaction.
 
@@ -66,13 +66,13 @@ A well-constructed narrative can transform any perceived lack of direct experien
 
 ### FAQs
 
-**Will I have to start at the bottom again?**  
+**Will I have to start at the bottom again?** 
 Not necessarily. If you can effectively showcase the relevance of your transferable skills to the new role, you may secure a lateral move. However, be prepared for the possibility of starting at a lower seniority level or salary.
 
-**How long does it take to switch industries?**  
+**How long does it take to switch industries?** 
 The timeline varies based on the degree of change. Transitioning to a closely related industry might take a few months. Conversely, moving into an entirely different field that requires new education or certifications could take a year or more.
 
-**How do I manage feelings of imposter syndrome?**  
+**How do I manage feelings of imposter syndrome?** 
 Imposter syndrome is common during transitions. Focus on recognizing your transferable skills and the value they bring. Embrace the learning process, and do not hesitate to ask questions when needed.
 
 ### Why This Matters
@@ -103,11 +103,11 @@ Regularly assess your progress. Are you achieving the desired results? Modify yo
 
 ### Real-World Examples
 
-| Name  | Background             | Industry Transition         | Outcome                                |
+| Name | Background | Industry Transition | Outcome |
 |-------|-----------------------|-----------------------------|----------------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Transitioned to product management | Improved team collaboration within a few months, leading to enhanced project efficiency.  |
-| Juan  | Product manager in [DeFi](/what-is-defi) | Shifted to a marketing role | Successfully launched a new marketing campaign that increased user acquisition significantly. |
-| Maya  | Digital marketer moving to Web3 | Entered blockchain project management | Rapidly adapted, leading a project that delivered features ahead of schedule within her first quarter. |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Transitioned to product management | Improved team collaboration within a few months, leading to enhanced project efficiency. |
+| Juan | Product manager in [DeFi](/what-is-defi) | Shifted to a marketing role | Successfully launched a new marketing campaign that increased user acquisition significantly. |
+| Maya | Digital marketer moving to Web3 | Entered blockchain project management | Rapidly adapted, leading a project that delivered features ahead of schedule within her first quarter. |
 
 ### Common Mistakes to Avoid
 
@@ -116,4 +116,3 @@ Regularly assess your progress. Are you achieving the desired results? Modify yo
 3. **Adopting a One-Size-Fits-All Approach:** Tailor strategies to your specific context. What works for others may not work for you.
 4. **Giving Up Too Soon:** Embrace discomfort as part of the process. Persist through challenges for better outcomes.
 5. **Neglecting Progress Tracking:** Keep metrics on your progress. This data is important for improvement.
-

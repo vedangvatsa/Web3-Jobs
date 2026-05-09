@@ -35,11 +35,11 @@ The Verifiable Credential model, standardized by the World Wide Web Consortium (
 
 **Workflow Example**:
 
-| Step          | Action                                       | Parties Involved            |
+| Step | Action | Parties Involved |
 |---------------|----------------------------------------------|-----------------------------|
-| Issuance      | The University (Issuer) issues a digital diploma (VC) to a student (Holder). | University, Student         |
-| Presentation   | The student applies for a job and must prove they have a degree. The employer (Verifier) requests proof. | Student, Employer           |
-| Verification   | The student presents the VC to the employer. The employer verifies the credential authenticity, checks the issuer’s public key, and ensures the credential hasn’t been revoked. | Employer                    |
+| Issuance | The University (Issuer) issues a digital diploma (VC) to a student (Holder). | University, Student |
+| Presentation | The student applies for a job and must prove they have a degree. The employer (Verifier) requests proof. | Student, Employer |
+| Verification | The student presents the VC to the employer. The employer verifies the credential authenticity, checks the issuer’s public key, and ensures the credential hasn’t been revoked. | Employer |
 
 This process can occur within seconds, without the Verifier needing to contact the Issuer directly.
 
@@ -81,4 +81,3 @@ This approach allows the Verifier to learn only the necessary information, enhan
 - **Revocation**: Establishing standard methods for Issuers to revoke credentials that have been lost or incorrectly issued remains an area in need of development.
 
 Verifiable Credentials represent a foundational technology for a more user-centric internet. They shift identity control from centralized entities into the hands of individuals. This model enables claims to be verified without compromising privacy, making VCs vital for a more secure, trustworthy, and equitable digital future.
-

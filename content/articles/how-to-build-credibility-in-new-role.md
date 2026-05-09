@@ -52,10 +52,10 @@ Credibility is built on trust and strong interpersonal skills.
 
 ### FAQs
 
-**How long does it typically take to build credibility in a new role?**  
+**How long does it typically take to build credibility in a new role?** 
 Building a strong reputation can take several months, but you can make a positive impression within the first 90 days.
 
-**What is the biggest mistake people make when trying to build credibility?**  
+**What is the biggest mistake people make when trying to build credibility?** 
 Many professionals attempt to take on too much too quickly. Start by focusing on listening and completing small tasks effectively rather than overcommitting.
 
 ### Why This Matters
@@ -88,9 +88,9 @@ Monitor your progress closely. Are you seeing the desired results? Adjust your a
 
 | **Professional** | **Industry** | **Challenge** | **Outcome** |
 |------------------|--------------|----------------|--------------|
-| Sarah            | [Blockchain](/what-is-a-blockchain) | Struggled with initial integration | Implemented active listening strategies; improved team collaboration within a few months |
-| Juan             | [DeFi](/what-is-defi) | Faced project delays due to communication gaps | Adopted proactive problem-solving; completed his project ahead of schedule |
-| Maya             | Web2 to Web3 transition | Difficulty adapting to new work culture | Used networking and knowledge-sharing; built a strong reputation within several months |
+| Sarah | [Blockchain](/what-is-a-blockchain) | Struggled with initial integration | Implemented active listening strategies; improved team collaboration within a few months |
+| Juan | [DeFi](/what-is-defi) | Faced project delays due to communication gaps | Adopted proactive problem-solving; completed his project ahead of schedule |
+| Maya | Web2 to Web3 transition | Difficulty adapting to new work culture | Used networking and knowledge-sharing; built a strong reputation within several months |
 
 ### Common Mistakes to Avoid
 
@@ -102,18 +102,17 @@ Monitor your progress closely. Are you seeing the desired results? Adjust your a
 
 ### FAQ
 
-**How long will this take to implement?**  
+**How long will this take to implement?** 
 Most professionals see initial results within a few weeks of consistent application. Significant improvements often manifest within a couple of months, depending on your starting point and your commitment to practice. Actively seeking feedback can accelerate this process.
 
-**What if my workplace environment doesn't support this?**  
+**What if my workplace environment doesn't support this?** 
 You typically have more agency than it seems. Start with small, self-contained actions that don't require organizational buy-in. Document your progress, and gradually build momentum.
 
-**How does this apply specifically to Web3?**  
+**How does this apply specifically to Web3?** 
 Web3 organizations often have flatter hierarchies, providing direct access to decision-makers. This structure requires self-direction and strong communication skills. Teams are frequently remote, emphasizing the importance of written communication and asynchronous collaboration.
 
-**Can I implement this alongside my current role?**  
+**Can I implement this alongside my current role?** 
 Yes, and this is the recommended approach. Focus on applying two or three practices that integrate into your daily tasks. Small, consistent improvements yield better results than sporadic large efforts.
 
-**What resources can help me go deeper?**  
+**What resources can help me go deeper?** 
 Seek out articles that look into specific aspects of building credibility. Finding a mentor or joining a peer group can also provide insights not found in written resources. Engaging with communities in platforms like Discord or Telegram can offer additional support.
-

@@ -67,11 +67,11 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 - **Analytics Platforms:** Use tools like Dune Analytics and Flipside Crypto to build dashboards that monitor key performance indicators.
 - **Data Analysis:** Develop skills to interpret data beyond surface-level metrics, revealing insights about protocol health and user behavior.
 
-| Metric                  | Definition                                          | Importance                              |
+| Metric | Definition | Importance |
 |-------------------------|-----------------------------------------------------|-----------------------------------------|
 | Daily Active Users (DAU)| Number of unique users interacting with a dApp daily | Indicates user engagement and retention |
-| Trading Volume          | Total value of trades executed within a specific period | Reflects market activity and liquidity  |
-| Total Value Locked (TVL)| Total assets staked in a DeFi protocol             | Measures the protocol's trust and usage |
+| Trading Volume | Total value of trades executed within a specific period | Reflects market activity and liquidity |
+| Total Value Locked (TVL)| Total assets staked in a DeFi protocol | Measures the protocol's trust and usage |
 
 ### 7. Governance & [DAO Operations](/exploring-web3-project-manager-career-paths)
 
@@ -108,4 +108,3 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 - **Information Consumption:** Build a regimen of high-quality information sources, including Twitter accounts, newsletters, and podcasts.
 - **Practical Experience:** Engage actively in the ecosystem by using new protocols, joining DAOs, and working on personal projects.
 - **Flexibility:** Stay open to learning and unlearning as the field progresses.
-

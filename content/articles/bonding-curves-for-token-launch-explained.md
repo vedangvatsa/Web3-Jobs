@@ -19,7 +19,7 @@ A bonding curve is a smart contract pre-programmed with a mathematical formula t
 Traditional token launches often face obstacles that can hinder success:
 
 - **Order Book Exchanges:** Getting a new token listed on a centralized exchange incurs high costs and usually requires a market maker to provide liquidity. Listing fees can vary significantly, depending on the exchange's reputation and trading volume.
-  
+
 - **DEX Liquidity Pools:** Launching on a decentralized exchange (DEX) like Uniswap requires providing a substantial amount of collateral to create a sufficiently deep liquidity pool.
 
 Bonding curve launches offer a capital-efficient and transparent alternative that addresses these issues.
@@ -62,13 +62,13 @@ Despite the benefits, bonding curve launches carry inherent risks:
 
 Bonding curves have been successfully implemented across various projects. The following table illustrates examples of notable projects that used bonding curves, their corresponding token symbols, and the type of collateral used.
 
-| Project Name       | Token Symbol | Collateral Type | Launch Date  |
+| Project Name | Token Symbol | Collateral Type | Launch Date |
 |--------------------|--------------|------------------|--------------|
-| Origin Protocol     | OGN          | ETH              | 2019-12-21   |
-| Gitcoin Grants      | GTC          | ETH              | 2021-05-01   |
-| PoolTogether        | POT          | DAI              | 2020-10-15   |
-| Aavegotchi          | GHST         | MATIC            | 2021-03-12   |
-| Hegic               | Hegic        | ETH              | 2020-11-10   |
+| Origin Protocol | OGN | ETH | 2019-12-21 |
+| Gitcoin Grants | GTC | ETH | 2021-05-01 |
+| PoolTogether | POT | DAI | 2020-10-15 |
+| Aavegotchi | GHST | MATIC | 2021-03-12 |
+| Hegic | Hegic | ETH | 2020-11-10 |
 
 These projects illustrate how bonding curves can facilitate token launches while providing liquidity and price discovery.
 
@@ -102,18 +102,17 @@ Grasping bonding curves is essential for professionals in the cryptocurrency spa
 
 ### FAQ
 
-**Q: How long will it take to see results from implementing bonding curves?**  
+**Q: How long will it take to see results from implementing bonding curves?** 
 A: Initial results typically appear within a few weeks of consistent application. Significant improvements often manifest within a couple of months, depending on your baseline and commitment. Actively seeking feedback and tracking progress accelerates this timeline.
 
-**Q: What should I do if my workplace environment doesn't support this approach?**  
+**Q: What should I do if my workplace environment doesn't support this approach?** 
 A: Start with small, self-contained actions that require no organizational approval. Focus on individual habits or personal projects. Build momentum gradually. Document your progress and results to highlight your contributions. If after sustained effort the environment remains unsupportive, it may be beneficial to seek opportunities elsewhere.
 
-**Q: How does this relate to Web3 specifically?**  
+**Q: How does this relate to Web3 specifically?** 
 A: Web3 organizations emphasize collaboration and communication in less hierarchical structures. You have more direct access to decision-makers, necessitating self-direction. The fast-paced nature of Web3 requires adaptability, making these skills particularly relevant.
 
-**Q: Can I implement bonding curves alongside my current role?**  
+**Q: Can I implement bonding curves alongside my current role?** 
 A: Yes, applying bonding curves within your existing role is feasible. Focus on integrating two to three practices into your daily work. Consistent, deliberate improvements yield better results than sporadic large efforts.
 
-**Q: What resources can enhance my understanding of bonding curves?**  
+**Q: What resources can enhance my understanding of bonding curves?** 
 A: Start with foundational readings that explore specific aspects of bonding curves. Finding a mentor or peer group experienced in this area can provide practical insights. Engaging with Web3 communities on platforms like Discord and Telegram also offers valuable opportunities to learn from practitioners.
-

@@ -66,10 +66,9 @@ Understanding the motivations behind "apeing in" involves examining behavioral p
 
 While there are anecdotes of individuals striking it rich by "apeing in," the reality is that many others face significant losses. Understanding these risks is important:
 
-| Risk Type          | Description                                                                                                            |
+| Risk Type | Description |
 |--------------------|------------------------------------------------------------------------------------------------------------------------|
-| **Rug Pulls**      | Many new tokens are scams. Anonymous developers may wait for sufficient investment before draining liquidity pools, rendering the token worthless. |
+| **Rug Pulls** | Many new tokens are scams. Anonymous developers may wait for sufficient investment before draining liquidity pools, rendering the token worthless. |
 | **Extreme Volatility** | Assets that attract "apeing" can experience drastic value drops, with tokens losing significant portions of their worth shortly after initial excitement fades. Investors who "ape in" at peak prices often find themselves left with worthless assets. |
 | **Smart Contract Risk** | New projects frequently deploy unaudited or poorly constructed smart contracts. Bugs in the code can lead to total loss of funds deposited. |
 | **Becoming Exit Liquidity** | Those who "ape in" late often serve as "exit liquidity" for earlier investors looking to cash in on their gains. Late investors buy at inflated prices. |
-

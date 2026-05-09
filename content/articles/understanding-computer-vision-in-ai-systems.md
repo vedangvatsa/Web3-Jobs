@@ -34,12 +34,12 @@ Training a computer vision model involves several key steps:
 
 Computer vision encompasses a range of tasks rather than a single problem:
 
-| Task                  | Description                                                                                                   |
+| Task | Description |
 |-----------------------|---------------------------------------------------------------------------------------------------------------|
 | **Image Classification** | Classifies an entire image into a single category, such as identifying whether an image features a cat, dog, or bird. |
-| **Object Detection**     | Goes beyond classification by identifying specific objects in an image and drawing bounding boxes around them. This task is important for applications like self-driving cars. |
-| **Image Segmentation**   | Provides pixel-level classification, allowing for detailed understanding of the scene. For instance, in a street scene, cars might be colored blue, the road gray, and pedestrians red. |
-| **Facial Recognition**   | A specialized form of object detection aimed at identifying specific human faces.                            |
+| **Object Detection** | Goes beyond classification by identifying specific objects in an image and drawing bounding boxes around them. This task is important for applications like self-driving cars. |
+| **Image Segmentation** | Provides pixel-level classification, allowing for detailed understanding of the scene. For instance, in a street scene, cars might be colored blue, the road gray, and pedestrians red. |
+| **Facial Recognition** | A specialized form of object detection aimed at identifying specific human faces. |
 | **Optical Character Recognition (OCR)** | Extracts text from images, enabling tasks like reading license plates or converting scanned documents into editable text. |
 
 ### Real-World Applications
@@ -60,19 +60,19 @@ Computer vision has found utility across numerous industries:
 
 ### Frequently Asked Questions
 
-**1. Is computer vision the same as image processing?**  
+**1. Is computer vision the same as image processing?** 
 No, while related, they differ significantly. Image processing focuses on transforming images, such as enhancing sharpness or adjusting contrast. It operates directly on the pixels. In contrast, computer vision aims to understand the content of images, extracting meaning and making decisions based on visual input. Image processing often serves as a preliminary step within a broader computer vision framework.
 
-**2. How accurate are computer vision models?**  
+**2. How accurate are computer vision models?** 
 Modern computer vision models can achieve accuracy levels that meet or exceed human performance in specific, well-defined tasks. For instance, certain models for image classification can achieve high accuracy in controlled environments. However, their performance hinges on the quality and diversity of the training data. These models can still exhibit weaknesses and make errors when faced with unfamiliar scenarios or objects.
 
-**3. What challenges does computer vision face?**  
-Despite remarkable advancements, challenges persist. Models often struggle with adverse conditions such as poor lighting or occluded objects. They require extensive labeled data for training, which can be both costly and time-consuming to produce. Additionally, addressing rare events in training data remains a significant hurdle. For example, a self-driving car may have extensive driving data but might not be prepared for a rare occurrence like a deer crossing the road at night in inclement weather.
+**3. What challenges does computer vision face?** 
+Despite remarkable advancements, challenges persist. Models often struggle with adverse conditions such as poor lighting or occluded objects. They require extensive labeled data for training, which can be both costly and time-consuming to produce. addressing rare events in training data remains a significant hurdle. For example, a self-driving car may have extensive driving data but might not be prepared for a rare occurrence like a deer crossing the road at night in inclement weather.
 
-**4. Can computer vision be applied to video?**  
+**4. Can computer vision be applied to video?** 
 Yes, video consists of a series of images (frames). Computer vision techniques can be applied to each frame to interpret actions over time. This application is used in scenarios like action recognition, where the system identifies whether a person is running, walking, or jumping, and in tracking moving objects.
 
-**5. How does computer vision relate to other AI fields?**  
+**5. How does computer vision relate to other AI fields?** 
 Computer vision often integrates with other AI domains. For example, an application that analyzes an image and generates descriptive text combines computer vision (to identify objects) with [natural language generation](/what-is-natural-language-processing-technology) (to formulate the accompanying description).
 
 ## Importance of Understanding Computer Vision
@@ -100,4 +100,3 @@ Avoid attempting to overhaul everything at once. Start with minor adjustments an
 ### Step 5: Measure Progress and Adapt
 
 Continuously track your advancements. Are you achieving the expected results? Adjust your methodologies according to feedback and outcomes. This mindset of continuous improvement is critical for success.
-

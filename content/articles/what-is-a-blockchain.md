@@ -13,9 +13,9 @@ Blockchain technology has gained significant attention alongside [Bitcoin](/what
 
 ## The Problem a Blockchain Solves: The Double-Spend Dilemma
 
-To comprehend the solution that blockchain offers, one must first grasp the problem it addresses. In the digital realm, duplication is effortless. Files, images, and songs can all be reproduced indefinitely. While this is acceptable for most digital assets, it poses a significant challenge for digital currencies.
+To comprehend the solution that blockchain offers, one must first grasp the problem it addresses. In the digital area, duplication is effortless. Files, images, and songs can all be reproduced indefinitely. While this is acceptable for most digital assets, it poses a significant challenge for digital currencies.
 
-Consider a digital dollar. What prevents you from using that *exact same digital dollar* multiple times? This is known as the "double-spend problem." For many years, the only remedy involved a central authority, such as a bank or credit card company. When you initiate a transaction, the bank updates its private ledger, debiting your account and crediting the recipient's. While this method works, it introduces issues like centralization, censorship, elevated fees, and limited access for billions globally.
+Consider a digital dollar. What prevents you from using that *exact same digital dollar* multiple times? This is known as the "double-spend problem." For many years, the only remedy involved a central authority, such as a bank or credit card company. When you initiate a transaction, the bank updates its private ledger, debiting your account and crediting the recipient's. While this method works, it introduces issues like centralization, censorship, improve fees, and limited access for billions globally.
 
 Satoshi Nakamoto, the creator of Bitcoin, resolved the double-spend issue without necessitating a central authority. Blockchain technology allows a decentralized network of individuals to agree on a single, shared transaction history. This approach enables strangers to maintain a trustworthy ledger without reliance on a central entity.
 
@@ -52,12 +52,12 @@ The network requires a method to determine which new block to add to the chain, 
 
 The blockchain's structure endows it with several essential properties that differentiate it from traditional databases.
 
-| Property       | Description                                                                                                                                                              |
+| Property | Description |
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Decentralization** | There is no central server or authority. The ledger is distributed across a peer-to-peer network of computers (nodes). Each node maintains a complete copy of the blockchain, eliminating single points of failure and enhancing resistance to censorship or control. |
-| **Immutability**    | Once a transaction is recorded and a block is added to the chain, it cannot be altered or deleted. Cryptographic links ensure the permanence and accuracy of transaction history, creating a reliable and auditable record.                    |
-| **Transparency**    | In public blockchains like Bitcoin and Ethereum, anyone can access the entire transaction history. While participants' identities are pseudonymous (represented by [wallet](/how-to-choose-a-crypto-wallet) addresses), the flow of value remains open for audits, establishing a high level of transparency. |
-| **Security**        | Decentralization, cryptographic hashing, and consensus mechanisms contribute to a reliable security framework. An attacker would need to control over 51% of the network's computing power (a "51% attack") to compromise the system, a feat that is prohibitively expensive and challenging on large, established blockchains. |
+| **Immutability** | Once a transaction is recorded and a block is added to the chain, it cannot be altered or deleted. Cryptographic links ensure the permanence and accuracy of transaction history, creating a reliable and auditable record. |
+| **Transparency** | In public blockchains like Bitcoin and Ethereum, anyone can access the entire transaction history. While participants' identities are pseudonymous (represented by [wallet](/how-to-choose-a-crypto-wallet) addresses), the flow of value remains open for audits, establishing a high level of transparency. |
+| **Security** | Decentralization, cryptographic hashing, and consensus mechanisms contribute to a reliable security framework. An attacker would need to control over 51% of the network's computing power (a "51% attack") to compromise the system, a feat that is prohibitively expensive and challenging on large, established blockchains. |
 
 ## Types of Blockchains
 

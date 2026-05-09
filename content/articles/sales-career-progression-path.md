@@ -20,10 +20,10 @@ The SDR position serves as the entry-level role in most sales organizations, par
 
 - **Primary Role:** Lead generation and qualification.
 - **Key Responsibilities:**
-    - **Prospecting:** Identify potential customers fitting the ideal customer profile.
-    - **Outbound Outreach:** Initiate contact with prospects through cold calls, cold emails, and social media platforms, primarily LinkedIn.
-    - **Inbound Lead Qualification:** Respond to and qualify leads generated from the company's website or marketing campaigns.
-    - **Setting Meetings:** Arrange qualified meetings or demos for Account Executives.
+ - **Prospecting:** Identify potential customers fitting the ideal customer profile.
+ - **Outbound Outreach:** Initiate contact with prospects through cold calls, cold emails, and social media platforms, primarily LinkedIn.
+ - **Inbound Lead Qualification:** Respond to and qualify leads generated from the company's website or marketing campaigns.
+ - **Setting Meetings:** Arrange qualified meetings or demos for Account Executives.
 - **Skills Developed:** SDRs cultivate resilience through frequent rejection. They learn to craft compelling emails and master sales tools like Salesforce and Outreach.
 - **Compensation:** Typically includes a lower base salary with a significant portion dependent on bonuses for meeting quotas.
 
@@ -33,10 +33,10 @@ After one to two years of success as an SDR, a common promotion leads to the Acc
 
 - **Primary Role:** Closing deals.
 - **Key Responsibilities:**
-    - **Conducting Discovery Calls and Demos:** Understand prospect needs and demonstrate how products can address their challenges.
-    - **Managing the Sales Cycle:** Guide prospects through evaluation, negotiation, and contract signing.
-    - **Writing Proposals and Negotiating Contracts:** Create compelling proposals that meet client needs.
-    - **Meeting Revenue Quotas:** Performance is assessed based on revenue generated each quarter.
+ - **Conducting Discovery Calls and Demos:** Understand prospect needs and demonstrate how products can address their challenges.
+ - **Managing the Sales Cycle:** Guide prospects through evaluation, negotiation, and contract signing.
+ - **Writing Proposals and Negotiating Contracts:** Create compelling proposals that meet client needs.
+ - **Meeting Revenue Quotas:** Performance is assessed based on revenue generated each quarter.
 - **Skills Developed:** AEs master consultative selling, negotiation, and complex deal management. They learn to understand organizational dynamics within client companies to finalize deals.
 - **Compensation:** AEs earn a higher base salary than SDRs, complemented by commissions on closed deals, leading to high earning potential for top performers.
 
@@ -46,9 +46,9 @@ With several years of consistent success in the AE role, individuals can be prom
 
 - **Primary Role:** Closing high-value deals.
 - **Key Responsibilities:**
-    - Manage the company’s most significant enterprise accounts.
-    - Handle complex sales cycles that can span several months and involve numerous stakeholders.
-    - Serve as an informal mentor to junior AEs.
+ - Manage the company’s most significant enterprise accounts.
+ - Handle complex sales cycles that can span several months and involve numerous stakeholders.
+ - Serve as an informal mentor to junior AEs.
 - **Skills Developed:** Senior AEs become adept at enterprise sales, relationship management, and complex negotiation.
 
 ### Level 4: Sales Manager / Sales Director
@@ -57,10 +57,10 @@ This role marks the transition to people management, where individuals oversee a
 
 - **Primary Role:** Lead a sales team to meet revenue targets.
 - **Key Responsibilities:**
-    - **Hiring and Training:** Build and develop a high-performing sales team.
-    - **Coaching:** Conduct regular one-on-ones, listen to sales calls, and provide constructive feedback.
-    - **Forecasting:** Accurately project team sales for upcoming quarters.
-    - **Performance Management:** Hold the team accountable for their activities and results.
+ - **Hiring and Training:** Build and develop a high-performing sales team.
+ - **Coaching:** Conduct regular one-on-ones, listen to sales calls, and provide constructive feedback.
+ - **Forecasting:** Accurately project team sales for upcoming quarters.
+ - **Performance Management:** Hold the team accountable for their activities and results.
 - **Skills Developed:** Managers enhance leadership and management skills, learning to motivate teams, manage sales pipelines, and forecast outcomes accurately. Their success hinges on the team's performance rather than individual contributions.
 
 ### Level 5: VP of Sales
@@ -69,11 +69,11 @@ The Vice President of Sales is a senior executive responsible for the entire sal
 
 - **Primary Role:** Build and lead the company's sales engine.
 - **Key Responsibilities:**
-    - **Sales Strategy:** Define the go-to-market strategy, sales processes, and organizational structure.
-    - **Revenue Ownership:** Take responsibility for the company’s top-line revenue.
-    - **Building the Leadership Team:** Hire and manage Sales Directors and Managers.
-    - **Compensation Planning:** Design commission and bonus structures for the sales team.
-    - **Executive Collaboration:** Work with the CEO and other executives to shape the company’s overall strategy.
+ - **Sales Strategy:** Define the go-to-market strategy, sales processes, and organizational structure.
+ - **Revenue Ownership:** Take responsibility for the company’s top-line revenue.
+ - **Building the Leadership Team:** Hire and manage Sales Directors and Managers.
+ - **Compensation Planning:** Design commission and bonus structures for the sales team.
+ - **Executive Collaboration:** Work with the CEO and other executives to shape the company’s overall strategy.
 - **Skills Developed:** This role focuses on high-level business strategy, organizational design, and P&L (Profit and Loss) management.
 
 ## Importance of Understanding Career Progression
@@ -101,4 +101,3 @@ Avoid attempting to change everything at once. Start with small, manageable adju
 #### Step 5: Measure and Adjust
 
 Regularly monitor your progress. Are you achieving the desired results? Adjust your strategies based on feedback and outcomes. An iterative approach is essential for continuous improvement.
-

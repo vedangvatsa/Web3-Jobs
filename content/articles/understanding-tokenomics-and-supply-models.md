@@ -21,8 +21,8 @@ The mechanics of a token's supply form the foundation of its design. Key princip
 - **Maximum Supply:** Does the token have a cap on its total supply? For instance, [Bitcoin](/what-is-bitcoin) has a fixed limit of 21 million tokens, classifying it as a deflationary asset akin to digital gold.
 - **Circulating Supply:** What is the current number of tokens available for trading on the market?
 - **Inflation vs. Deflation:**
-  - **Inflationary Tokens:** These tokens continuously generate new units, often as rewards for miners or stakers who maintain the network (e.g., [Ethereum](/what-is-ethereum)). Pay attention to the "inflation rate," a important metric for understanding potential devaluation.
-  - **Deflationary Tokens:** These tokens decrease in supply over time through mechanisms like token burning, where transaction fees are permanently removed from circulation.
+ - **Inflationary Tokens:** These tokens continuously generate new units, often as rewards for miners or stakers who maintain the network (e.g., [Ethereum](/what-is-ethereum)). Pay attention to the "inflation rate," a important metric for understanding potential devaluation.
+ - **Deflationary Tokens:** These tokens decrease in supply over time through mechanisms like token burning, where transaction fees are permanently removed from circulation.
 
 **Key Analysis Point:** Does the token's supply model promote long-term scarcity and value retention, or does it encourage high inflation that could erode early adopters' holdings?
 
@@ -33,12 +33,12 @@ The initial distribution of tokens significantly impacts a project's fairness an
 - **Fair Launch:** In a fair launch model, as seen with Bitcoin, there is no pre-mining or preferential allocation for insiders. All participants have equal access to acquire tokens from the outset.
 - **Pre-Mine / ICO (Initial Coin Offering):** Many projects distribute tokens to stakeholders before public access. A typical allocation might resemble the following:
 
-| Allocation Category       | Description                                              |
+| Allocation Category | Description |
 |--------------------------|----------------------------------------------------------|
-| Team & Advisors          | Tokens for the core team, often with a vesting schedule.|
-| VCs & Seed Investors     | Tokens sold to early investors for funding development.  |
-| Community Treasury       | Tokens reserved for future development and community initiatives. |
-| Public Sale              | Tokens offered to the general public.                    |
+| Team & Advisors | Tokens for the core team, often with a vesting schedule.|
+| VCs & Seed Investors | Tokens sold to early investors for funding development. |
+| Community Treasury | Tokens reserved for future development and community initiatives. |
+| Public Sale | Tokens offered to the general public. |
 
 **Key Analysis Point:** What percentage of the total supply do insiders (team and VCs) control? Are their tokens subject to a vesting schedule to prevent early selling? A high concentration of tokens among a few can cause centralization and market manipulation.
 
@@ -88,4 +88,3 @@ Avoid overwhelming yourself by attempting to change everything at once. Start wi
 #### Step 5: Measure Progress and Adapt
 
 Track your advancements. Are the changes yielding results? Adjust your strategy based on outcomes and feedback. This iterative process builds continuous growth.
-

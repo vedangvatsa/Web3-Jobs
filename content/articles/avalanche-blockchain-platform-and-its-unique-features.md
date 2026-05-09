@@ -53,13 +53,13 @@ Avalanche's architecture supports a variety of use cases, making it appealing to
 
 The following table illustrates key performance metrics of Avalanche compared to other blockchains:
 
-| Metric                  | Avalanche          | Ethereum          | Bitcoin           |
+| Metric | Avalanche | Ethereum | Bitcoin |
 |-------------------------|--------------------|--------------------|--------------------|
-| Transaction Speed       | < 1 second         | 15 seconds         | 10 minutes         |
-| Transaction Fees        | Low fees           | Higher fees        | Higher fees        |
-| Consensus Mechanism     | Avalanche Consensus  | Proof of Work      | Proof of Work      |
-| Number of Validators     | Significant number  | Significant number  | Significant number  |
-| Smart Contract Language  | Solidity, others    | Solidity           | N/A                |
+| Transaction Speed | < 1 second | 15 seconds | 10 minutes |
+| Transaction Fees | Low fees | Higher fees | Higher fees |
+| Consensus Mechanism | Avalanche Consensus | Proof of Work | Proof of Work |
+| Number of Validators | Significant number | Significant number | Significant number |
+| Smart Contract Language | Solidity, others | Solidity | N/A |
 
 ### The Future of Avalanche
 

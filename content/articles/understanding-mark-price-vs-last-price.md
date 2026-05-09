@@ -32,9 +32,9 @@ The Mark Price serves as the benchmark for margin and liquidation calculations w
 
 - **Calculation Method**: Typically, the Mark Price is computed using a formula that combines the **Index Price** with a moving average of the **basis**, which is the difference between the Last Price and the Index Price. This formula smooths out short-term fluctuations, allowing the Mark Price to converge toward the Index Price over time. The formula is represented as follows:
 
-  ```
-  Mark Price = Index Price + Moving Average (Last Price - Index Price)
-  ```
+ ```
+ Mark Price = Index Price + Moving Average (Last Price - Index Price)
+ ```
 
 - **Objective**: The primary role of the Mark Price is to prevent unfair liquidations. In volatile markets, the Last Price on an exchange can spike or plummet due to significant market orders or liquidity shortages. If liquidations were based solely on this Last Price, it could lead to unjust losses for traders. The Mark Price, anchored to the more reliable Index Price, ensures that liquidations occur only in response to genuine market movements rather than temporary fluctuations on a single platform.
 
@@ -58,21 +58,20 @@ Consider a scenario where you hold a long position on [ETH](/what-is-ethereum) w
 
 ### FAQ
 
-**Which price should I monitor?**  
+**Which price should I monitor?** 
 Keep an eye on all three prices. The **Last Price** indicates current trading activity on your specific exchange. The **Index Price** reflects the broader market value, while the **Mark Price** is important for assessing your liquidation risk. Most exchanges display the liquidation price based on the Mark Price.
 
-**Can there be significant differences between Mark Price and Last Price?**  
+**Can there be significant differences between Mark Price and Last Price?** 
 Yes, especially during periods of high volatility. The disparity between these prices is termed the "basis." A large basis signals a notable deviation between the perpetual contract market and the underlying spot market, typically corrected over time via the funding rate mechanism.
 
-**When is my final profit calculated?**  
+**When is my final profit calculated?** 
 While your position is active, the unrealized PnL is computed using the Mark Price. Once you close your position, the realized PnL is calculated based on the Last Price at the time of your trade execution.
 
 ## Understanding Mark Price and Index Price: Key Differences
 
-| Feature       | Index Price                                      | Last Price                   | Mark Price                                       |
+| Feature | Index Price | Last Price | Mark Price |
 |---------------|--------------------------------------------------|------------------------------|--------------------------------------------------|
-| **Definition**| Aggregate price from multiple exchanges           | Price of the last executed trade | Price used for liquidation and margin calculations |
-| **Stability** | Designed to be stable and manipulation-resistant | Can fluctuate rapidly        | More stable, smoothing out short-term fluctuations |
-| **Impact on Trades** | Reflects true market conditions             | Affected by immediate market activity | Affects liquidation risk and unrealized PnL      |
-| **Calculation Method** | Volume-weighted average of spot prices   | Based on the order book      | Combination of Index Price and moving average of basis |
-
+| **Definition**| Aggregate price from multiple exchanges | Price of the last executed trade | Price used for liquidation and margin calculations |
+| **Stability** | Designed to be stable and manipulation-resistant | Can fluctuate rapidly | More stable, smoothing out short-term fluctuations |
+| **Impact on Trades** | Reflects true market conditions | Affected by immediate market activity | Affects liquidation risk and unrealized PnL |
+| **Calculation Method** | Volume-weighted average of spot prices | Based on the order book | Combination of Index Price and moving average of basis |

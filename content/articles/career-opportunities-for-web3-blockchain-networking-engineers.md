@@ -19,11 +19,11 @@ This guide outlines the career path for blockchain networking engineers, the cha
 Blockchain networking engineers work on the communication protocols that drive blockchain functionality. Their primary responsibilities include:
 
 - **Peer-to-Peer Networking:** They design and implement P2P protocols, enabling nodes to discover, connect, and communicate effectively. This requires a deep understanding of network topology and resilience.
-  
+
 - **Transaction and Block Propagation:** Engineers optimize algorithms for broadcasting transactions and newly mined blocks, ensuring rapid dissemination across the network. This optimization is essential for minimizing risks associated with block reorganization.
-  
+
 - **Client Synchronization:** They develop protocols that enable new nodes to join the network securely, syncing the entire blockchain history. This process is important for maintaining the integrity and continuity of the blockchain.
-  
+
 - **DoS Protection:** Implementing security measures at the networking layer protects nodes from being overwhelmed by spam and Denial of Service (DoS) attacks. This involves establishing rate limits and filtering mechanisms.
 
 ### Skills Required for Blockchain Networking Engineers
@@ -47,4 +47,3 @@ To thrive as a blockchain networking engineer, you must possess a combination of
 3. **Contribute to Open Source Projects:** Participating in open-source blockchain clients like Go-Ethereum (Geth), Prysm, or Lighthouse offers practical experience. Look for issues tagged with "networking" or "P2P" on [GitHub](/building-web3-portfolio). Successful contributions signal your expertise to potential employers.
 
 A career as a Web3 Blockchain Networking Engineer offers the chance to work on the foundational layer of the decentralized internet. The role presents challenges but also rewards for those who enjoy solving complex problems in distributed systems.
-

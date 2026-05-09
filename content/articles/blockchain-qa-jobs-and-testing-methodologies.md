@@ -25,21 +25,21 @@ Testing a dApp presents complexities that differ significantly from traditional 
 
 ### Core Responsibilities of a Web3 QA Engineer
 
-**1. Test Strategy and Planning**  
+**1. Test Strategy and Planning** 
 A QA Engineer formulates the overall testing strategy for new features or protocols. This involves defining testing scope, identifying key risks, and selecting appropriate tools and methodologies.
 
-**2. Manual and Exploratory Testing**  
+**2. Manual and Exploratory Testing** 
 Manual testing requires interacting with the dApp creatively to uncover vulnerabilities. QA engineers test complex user flows, identify UI bugs, and investigate edge cases that automated tests may overlook. For instance, they may assess the implications of a user submitting a transaction with an inadequate gas fee.
 
-**3. Automated Test Development**  
+**3. Automated Test Development** 
 Building and maintaining a suite of automated tests is central to the role.
-| **Type of Testing**          | **Tools/Technologies**                                                                                 |
+| **Type of Testing** | **Tools/Technologies** |
 |------------------------------|-------------------------------------------------------------------------------------------------------|
-| Unit & Integration Tests      | Scripts in JavaScript/TypeScript using frameworks like Hardhat; Solidity tests via [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit) |
-| End-to-End (E2E) Testing      | Automation tools like Cypress or Playwright for user flows, including wallet connections and transaction verification |
-| Fork Testing                  | Creating a local "fork" of the mainnet to test interactions with actual deployed [DeFi](/what-is-defi) protocols in a controlled environment |
+| Unit & Integration Tests | Scripts in JavaScript/TypeScript using frameworks like Hardhat; Solidity tests via [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit) |
+| End-to-End (E2E) Testing | Automation tools like Cypress or Playwright for user flows, including wallet connections and transaction verification |
+| Fork Testing | Creating a local "fork" of the mainnet to test interactions with actual deployed [DeFi](/what-is-defi) protocols in a controlled environment |
 
-**4. Performance and Load Testing**  
+**4. Performance and Load Testing** 
 QA engineers evaluate how the dApp's off-chain components (such as the frontend and indexer) perform under heavy loads, determining the effects when many users access the application simultaneously.
 
 ### Essential Skills for Success
@@ -55,9 +55,8 @@ QA engineers evaluate how the dApp's off-chain components (such as the frontend 
 1. **Start with Traditional QA:** Gain a solid foundation in software testing within a Web2 environment.
 2. **Learn the Web3 Stack:** Immerse yourself in Web3, understand smart contracts, use dApps, and become familiar with the technical challenges involved.
 3. **Build a [Portfolio](/building-web3-portfolio):**
-   - Contribute to an open-source Web3 project on GitHub by studying existing test suites.
-   - Identify features lacking test coverage and submit pull requests with new tests.
-   - Write a full "test plan" for a popular dApp and share it as a blog post.
+ - Contribute to an open-source Web3 project on GitHub by studying existing test suites.
+ - Identify features lacking test coverage and submit pull requests with new tests.
+ - Write a full "test plan" for a popular dApp and share it as a blog post.
 
 The role of a Web3 QA Engineer is vital within the development process. As protocols grow in complexity and the value at [stake](/how-to-become-a-web3-staking-specialist) increases, the need for these detail-oriented professionals will continue to rise. This career path offers substantial rewards for those passionate about quality and dedicated to enhancing the decentralized web's safety and reliability.
-

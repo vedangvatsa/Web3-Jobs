@@ -60,4 +60,3 @@ The legal environment surrounding Web3 is complex and constantly changing. The i
 For the Web3 industry to grow and gain mainstream acceptance, it must collaborate with regulators to establish clear and practical guidelines. For those building in this space, engaging proactively with legal experts has transitioned from an option to a necessity.
 
 ## The Web3 Talent Market
-

@@ -24,14 +24,14 @@ The subject line holds critical importance in your email. It influences whether 
 
 **Best Practices for Subject Lines:**
 
-| **Practice**              | **Details**                                                                                     |
+| **Practice** | **Details** |
 |--------------------------|-------------------------------------------------------------------------------------------------|
-| **Be Specific and Clear** | Avoid vague terms like "Update" or "Question."                                               |
-|                          | - *Bad:* "Meeting"                                                                             |
-|                          | - *Good:* "Decision Needed: Q4 Marketing Budget - Please Review by EOD"                     |
-| **Use Prefixes**        | Incorporate prefixes like `[Action Required]`, `[For Your Review]`, or `[URGENT]` for clarity.|
-| **Keep it Short**       | Aim for 5-7 words; many email clients truncate long subject lines, especially on mobile.      |
-| **Update in Long Chains**| If the topic changes in an email thread, adjust the subject line accordingly.                 |
+| **Be Specific and Clear** | Avoid vague terms like "Update" or "Question." |
+| | - *Bad:* "Meeting" |
+| | - *Good:* "Decision Needed: Q4 Marketing Budget - Please Review by EOD" |
+| **Use Prefixes** | Incorporate prefixes like `[Action Required]`, `[For Your Review]`, or `[URGENT]` for clarity.|
+| **Keep it Short** | Aim for 5-7 words; many email clients truncate long subject lines, especially on mobile. |
+| **Update in Long Chains**| If the topic changes in an email thread, adjust the subject line accordingly. |
 
 ## 2. The Salutation: Start with Respect
 
@@ -56,8 +56,8 @@ Your email body should be easy to read and understand.
 Tone can be easily misinterpreted in writing, so it is vital to consider how your message may be perceived.
 
 - **Avoid Negativity:** Frame feedback and requests positively.
-    - *Instead of:* "You forgot to send the attachment."
-    - *Write:* "Could you please send the attachment when you have a moment?"
+ - *Instead of:* "You forgot to send the attachment."
+ - *Write:* "Could you please send the attachment when you have a moment?"
 - **Be Careful with Humor and Sarcasm:** Jokes and sarcasm can be misread in written form. Reserve them for in-person or voice conversations.
 - **Avoid ALL CAPS and Excessive Punctuation:** Writing in all caps resembles shouting. Multiple exclamation points or question marks can seem unprofessional.
 
@@ -67,14 +67,14 @@ Tone can be easily misinterpreted in writing, so it is vital to consider how you
 - **Use Descriptive File Names:** Name your files clearly (e.g., "Q3_Marketing_Report_2024.pdf" rather than "report_final_v2.pdf").
 - **Consider File Size:** For large files, use file-sharing services like Google Drive or Dropbox instead of direct attachments.
 - **Use Hyperlinks for URLs:** Rather than pasting lengthy URLs, hyperlink relevant text.
-    - *Instead of:* "You can see the report here: https://www.example.com/long-url-string/report123"
-    - *Write:* "You can see the report [here](https://www.example.com...)."
+ - *Instead of:* "You can see the report here: https://www.example.com/long-url-string/report123"
+ - *Write:* "You can see the report [here](https://www.example.com...)."
 
 ## 6. The Closing and Signature
 
 - **Choose an Appropriate Closing:**
-    - *Professional:* "Best regards," "Sincerely," "Regards,"
-    - *Less formal:* "Best," "All the best," "Thank you,"
+ - *Professional:* "Best regards," "Sincerely," "Regards,"
+ - *Less formal:* "Best," "All the best," "Thank you,"
 - **Include a Professional Signature:** Your signature should feature your full name, title, company, and phone number. Keep it simple and avoid clutter.
 
 ## 7. The Art of "Reply All"
@@ -111,4 +111,3 @@ A3: If the email contains sensitive information, send a brief follow-up email to
 **Q4: How do I handle a long and confusing email thread?**
 
 A4: If an email thread becomes lengthy and confusing, it often indicates that email is no longer the best communication tool. The optimal solution is to call or schedule a brief meeting. You can summarize the conversation's outcomes in a follow-up email to ensure alignment among participants.
-

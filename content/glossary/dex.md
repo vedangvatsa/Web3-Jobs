@@ -107,9 +107,9 @@ Controversial origins (forked Uniswap code) but established legitimate product.
 
 Some DEXs use order books instead of AMMs:
 
-- **dYdX**: Off-chain order book, on-chain settlement  
-- **Serum** (Solana): On-chain order book  
-- **Loopring**: ZK-rollup with order books  
+- **dYdX**: Off-chain order book, on-chain settlement 
+- **Serum** (Solana): On-chain order book 
+- **Loopring**: ZK-rollup with order books 
 
 Order books provide better execution for professional traders but are more complex to implement efficiently on-chain.
 
@@ -117,10 +117,10 @@ Order books provide better execution for professional traders but are more compl
 
 Route trades across multiple DEXs finding optimal prices:
 
-- **1inch**: Most popular aggregator, sophisticated routing algorithms  
-- **Matcha** (0x): Clean interface, MEV protection  
-- **ParaSwap**: Multi-chain support  
-- **Jupiter** (Solana): Dominant Solana aggregator  
+- **1inch**: Most popular aggregator, sophisticated routing algorithms 
+- **Matcha** (0x): Clean interface, MEV protection 
+- **ParaSwap**: Multi-chain support 
+- **Jupiter** (Solana): Dominant Solana aggregator 
 
 Aggregators are especially valuable for large trades that might suffer significant slippage on a single DEX.
 
@@ -166,19 +166,19 @@ This makes DEX liquidity provision more complex than simply depositing on CEX fo
 
 ## DEX Trading Volume and Metrics
 
-- **Spot DEX Volume**: Significant during bull markets  
-- **Ethereum Dominance**: A large portion of spot DEX volume  
-- **Layer 2 Growth**: Arbitrum and Optimism gaining market share with lower fees  
+- **Spot DEX Volume**: Significant during bull markets 
+- **Ethereum Dominance**: A large portion of spot DEX volume 
+- **Layer 2 Growth**: Arbitrum and Optimism gaining market share with lower fees 
 
 During DeFi Summer (2020) and NFT boom (2021), DEX volume sometimes exceeded CEX volume for Ethereum-based tokens.
 
 ## Multi-Chain DEXs
 
-- **PancakeSwap**: Dominant on BNB Chain  
-- **Trader Joe**: Leading Avalanche DEX  
-- **SpookySwap**: Fantom ecosystem  
-- **QuickSwap**: Polygon's top DEX  
-- **Raydium**: Major Solana DEX  
+- **PancakeSwap**: Dominant on BNB Chain 
+- **Trader Joe**: Leading Avalanche DEX 
+- **SpookySwap**: Fantom ecosystem 
+- **QuickSwap**: Polygon's top DEX 
+- **Raydium**: Major Solana DEX 
 
 Every blockchain ecosystem has native DEXs, fragmenting liquidity but enabling competition.
 
@@ -186,9 +186,9 @@ Every blockchain ecosystem has native DEXs, fragmenting liquidity but enabling c
 
 Emerging protocols enabling swaps across blockchains:
 
-- **THORChain**: Native cross-chain swaps (BTC ↔ ETH)  
-- **Synapse**: Cross-chain bridge with DEX features  
-- **Stargate**: Omnichain liquidity protocol  
+- **THORChain**: Native cross-chain swaps (BTC ↔ ETH) 
+- **Synapse**: Cross-chain bridge with DEX features 
+- **Stargate**: Omnichain liquidity protocol 
 
 Cross-chain remains challenging technically and introduces additional trust assumptions.
 

@@ -6,22 +6,22 @@ readTime: "9 min"
 difficulty: "intermediate"
 prerequisites: ["first-contract"]
 quiz:
-  - question: "What is the main limitation of Externally Owned Accounts (EOAs)?"
-    options:
-      - "They cannot hold tokens."
-      - "They require a private key for every action, offer no recovery, and cannot batch transactions."
-      - "They are too expensive to create."
-      - "They only work on Ethereum."
-    correct: 1
-    explanation: "EOAs are controlled by a single private key. Lose it, and your funds are gone forever. They cannot natively batch transactions, sponsor gas fees, or implement custom security policies."
-  - question: "How does ERC-4337 achieve 'gasless' transactions?"
-    options:
-      - "By eliminating gas fees entirely."
-      - "By allowing a third party (Paymaster) to sponsor the gas fees on behalf of the user."
-      - "By using a faster blockchain."
-      - "By compressing transactions to use less gas."
-    correct: 1
-    explanation: "ERC-4337 introduces Paymasters — smart contracts that pay gas fees on behalf of users. This allows apps to offer gasless experiences by absorbing gas costs."
+ - question: "What is the main limitation of Externally Owned Accounts (EOAs)?"
+ options:
+ - "They cannot hold tokens."
+ - "They require a private key for every action, offer no recovery, and cannot batch transactions."
+ - "They are too expensive to create."
+ - "They only work on Ethereum."
+ correct: 1
+ explanation: "EOAs are controlled by a single private key. Lose it, and your funds are gone forever. They cannot natively batch transactions, sponsor gas fees, or implement custom security policies."
+ - question: "How does ERC-4337 achieve 'gasless' transactions?"
+ options:
+ - "By eliminating gas fees entirely."
+ - "By allowing a third party (Paymaster) to sponsor the gas fees on behalf of the user."
+ - "By using a faster blockchain."
+ - "By compressing transactions to use less gas."
+ correct: 1
+ explanation: "ERC-4337 introduces Paymasters — smart contracts that pay gas fees on behalf of users. This allows apps to offer gasless experiences by absorbing gas costs."
 ---
 
 ## The Problem with Traditional Wallets

@@ -25,16 +25,16 @@ In the crypto field, **[shilling](/what-is-shilling-in-crypto)** refers to the e
 
 Shilling threatens the foundation of a healthy market: trust and informed decision-making.
 
-**1. Targeting Retail Investors**  
+**1. Targeting Retail Investors** 
 New and inexperienced retail investors are the primary victims of shilling. Attracted by promises of significant gains and the fear of missing out, they often invest in projects without conducting thorough research ([DYOR](/what-is-dyor-in-crypto)). When the original promoters sell their tokens, these new investors are left with worthless assets, resulting in substantial financial losses and lasting skepticism towards the entire crypto ecosystem.
 
-**2. Damaging Credibility**  
+**2. Damaging Credibility** 
 When respected figures in the community engage in shilling for undisclosed payments, it damages the credibility of all voices in the space. This leads to a cynical community where it becomes challenging to differentiate between genuine analysis and paid promotions. High-quality projects struggle to gain visibility based on their actual merits.
 
-**3. Promoting a Short-Term Mindset**  
+**3. Promoting a Short-Term Mindset** 
 Shilling encourages a culture that prioritizes immediate hype over long-term sustainability. It creates a "casino-like" atmosphere where quick profits take precedence over supporting projects with real utility and a viable long-term vision. This behavior diverts resources and talent from essential projects that contribute to the foundational infrastructure of Web3.
 
-**4. Attracting Regulatory Attention**  
+**4. Attracting Regulatory Attention** 
 The prevalence of shilling and pump-and-dump schemes draws the scrutiny of regulators. Promoting a security (which many tokens may qualify as) without disclosing compensation is illegal in multiple jurisdictions. High-profile shilling incidents provide regulators with justification for heavy-handed enforcement actions, potentially harming the entire industry.
 
 ### Towards a Culture of Transparency
@@ -46,4 +46,3 @@ Addressing the adverse effects of shilling requires a joint commitment from all 
 - **For Investors and Users:** Cultivate skepticism. **Do Your Own Research.** Question the motivations of those promoting a project. Seek in-depth analysis instead of superficial excitement. Learn to interpret on-chain data and assess a project's fundamentals independently.
 
 Web3 promises to create a more transparent and equitable system. Shilling stands in stark contrast to this vision. By advocating for transparency and higher discourse standards, the community can build a healthier and more trustworthy ecosystem, paving the way for the next wave of adoption.
-
