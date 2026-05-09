@@ -50,7 +50,7 @@ export function addInternalLinksToContent(
 }
 
 /**
- * Generates a comprehensive meta description for glossary terms
+ * Generates a meta description for glossary terms
  * Falls back to existing description if content-based one is too short
  */
 export function generateGlossaryMetaDescription(
@@ -114,7 +114,7 @@ export function generateDefinedTermSchema(
    '@type': 'DefinedTermSet',
    '@id': `${siteUrl}/glossary`,
    name: 'Web3 Glossary',
-   description: 'Comprehensive glossary of Web3, blockchain, and cryptocurrency terms',
+   description: 'Complete glossary of Web3, blockchain, and cryptocurrency terms',
    url: `${siteUrl}/glossary`,
    hasPart: relatedTerms?.map(rt => ({
     '@type': 'DefinedTerm',
