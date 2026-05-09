@@ -6,27 +6,22 @@
  * The committed cache file is read by getJobs() at runtime (no live RSS fetching).
  */
 
-import Parser from 'rss-parser';
 import * as fs from 'fs';
 import * as path from 'path';
 
-interface FeedSource {
+interface GetroBoard {
   url: string;
-  defaultCompany?: string; // fallback when RSS content doesn't contain company name
+  defaultCompany?: string; // fallback when content doesn't contain company name
 }
 
-const FEEDS: FeedSource[] = [
-  { url: 'https://politepol.com/fd/JEeZwG4KK7uT.xml', defaultCompany: 'Dragonfly' },
-  { url: 'https://politepol.com/fd/bs9i34afSjHS.xml', defaultCompany: 'Arbitrum' },
-  { url: 'https://politepol.com/fd/Ane01VX84MOk.xml', defaultCompany: 'Pantera Capital' },
-  { url: 'https://politepol.com/fd/HI6pMDlyEO7j.xml', defaultCompany: 'Avalanche' },
-  { url: 'https://politepol.com/fd/uIQRejBOTRjO.xml', defaultCompany: 'Solana' },
-  { url: 'https://politepol.com/fd/qglK0E9cQDYB.xml', defaultCompany: 'Hedera' },
-  { url: 'https://politepol.com/fd/UEGwYfx1fQ9R.xml' },
-  { url: 'https://politepol.com/fd/fEgzbFDDrmRe.xml', defaultCompany: 'Multicoin Capital' },
-  { url: 'https://politepol.com/fd/KTQjDJIFxvZY.xml', defaultCompany: 'Coinbase' },
-  { url: 'https://politepol.com/fd/K6yCQ7sphvoC.xml', defaultCompany: 'Spartan Group' },
-  { url: 'https://politepol.com/fd/UCDj2aIroL4G.xml', defaultCompany: 'Binance' },
+const GETRO_BOARDS: GetroBoard[] = [
+  { url: 'https://jobs.dragonfly.xyz/jobs', defaultCompany: 'Dragonfly' },
+  { url: 'https://jobs.arbitrum.io/jobs', defaultCompany: 'Arbitrum' },
+  { url: 'https://jobs.avax.network/jobs', defaultCompany: 'Avalanche' },
+  { url: 'https://jobs.solana.com/jobs', defaultCompany: 'Solana' },
+  { url: 'https://jobs.multicoin.capital/jobs', defaultCompany: 'Multicoin Capital' },
+  { url: 'https://coinbase.getro.com/jobs', defaultCompany: 'Coinbase' },
+  { url: 'https://jobs.spartangroup.io/jobs', defaultCompany: 'Spartan Group' },
 ];
 
 const FEED_TIMEOUT_MS = 8000;
@@ -100,9 +95,8 @@ function createUniqueKey(title: string, company: string): string {
 
 async function refreshJobsCache() {
   console.log('🔄 Refreshing jobs cache from RSS feeds...');
-  console.log(`Feeds to fetch: ${FEEDS.length}`);
+  console.log(`Getro boards to fetch: ${GETRO_BOARDS.length}`);
 
-  const parser = new Parser();
   const jobMap = new Map<string, CachedJob>();
 
   // Load existing cache to preserve jobs that may have dropped from feeds
@@ -125,50 +119,57 @@ async function refreshJobsCache() {
     console.warn('⚠️ Could not read existing cache, starting fresh');
   }
 
-  // Fetch all feeds in parallel
+  // Fetch all Getro boards in parallel
   const fetchStart = Date.now();
   let feedsOk = 0;
   let feedsFailed = 0;
 
   await Promise.all(
-    FEEDS.map(async (feedSource) => {
+    GETRO_BOARDS.map(async (board) => {
       try {
-        const feed = await Promise.race([
-          parser.parseURL(feedSource.url),
-          new Promise<never>((_, reject) =>
-            setTimeout(() => reject(new Error('Feed timeout')), FEED_TIMEOUT_MS)
-          ),
-        ]);
-
-        if (feed?.items) {
-          let added = 0;
-          feed.items.forEach((item) => {
-            const title = cleanTitle(item.title);
-            const rawCompany = cleanCompany(item.content) || feedSource.defaultCompany;
-            const company = rawCompany ? normalizeCompany(rawCompany) : undefined;
-            const link = item.link;
-
-            if (link && title && company && !title.includes('*') && title.split(' ').length <= 15 && !title.toLowerCase().includes('bounty')) {
-              const key = createUniqueKey(title, company);
-              if (!jobMap.has(key)) {
-                jobMap.set(key, {
-                  id: item.guid || link,
-                  title,
-                  company,
-                  link,
-                  date: item.isoDate || new Date().toISOString(),
-                  source: feed.title || feedSource.url,
-                });
-                added++;
-              }
+        const response = await fetch(board.url, {
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+          },
+          signal: AbortSignal.timeout(FEED_TIMEOUT_MS)
+        });
+        
+        if (!response.ok) throw new Error(`Status ${response.status}`);
+        
+        const html = await response.text();
+        const nextDataMatch = html.match(/<script id="__NEXT_DATA__" type="application\/json">([\s\S]*?)<\/script>/);
+        if (!nextDataMatch) throw new Error('No __NEXT_DATA__ found in HTML');
+        
+        const nextData = JSON.parse(nextDataMatch[1]);
+        const jobsData = nextData?.props?.pageProps?.initialState?.jobs?.found || nextData?.props?.pageProps?.initialState?.jobs?.data || [];
+        
+        let added = 0;
+        jobsData.forEach((job: any) => {
+          const title = cleanTitle(job.title || '');
+          const rawCompany = job.company?.name || board.defaultCompany;
+          const company = rawCompany ? normalizeCompany(rawCompany) : undefined;
+          const link = job.application_url || job.job_url || job.url;
+          
+          if (link && title && company && !title.includes('*') && title.split(' ').length <= 15 && !title.toLowerCase().includes('bounty')) {
+            const key = createUniqueKey(title, company);
+            if (!jobMap.has(key)) {
+              jobMap.set(key, {
+                id: String(job.id) || link,
+                title,
+                company,
+                link,
+                date: job.published_at || job.updated_at || new Date().toISOString(),
+                source: board.url,
+              });
+              added++;
             }
-          });
-          feedsOk++;
-          console.log(`  ✅ ${feed.title || feedSource.url}: ${feed.items.length} items, ${added} new`);
-        }
+          }
+        });
+        feedsOk++;
+        console.log(`  ✅ ${board.url}: ${jobsData.length} items, ${added} new`);
       } catch (error: any) {
         feedsFailed++;
-        console.warn(`  ❌ ${feedSource.url}: ${error.message}`);
+        console.warn(`  ❌ ${board.url}: ${error.message}`);
       }
     })
   );
