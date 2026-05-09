@@ -48,6 +48,14 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "1de0d75a-7fe6-481b-9b53-f70f74bcf161",
+    "title": "Sales Representative",
+    "company": "InfStones",
+    "link": "https://jobs.lever.co/infstones/1de0d75a-7fe6-481b-9b53-f70f74bcf161",
+    "date": "2026-05-08T21:28:27.412Z",
+    "source": "Lever: InfStones"
+  },
+  {
     "id": "7909561",
     "title": "Engineering Manager, LATAM Payments Experiences",
     "company": "Stripe",
@@ -544,6 +552,14 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "2596626",
+    "title": "Engagement Manager, AI Implementations",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/engagement-manager-ai-implementations-4",
+    "date": "2026-05-07 21:41:37 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
     "id": "7901987",
     "title": "Product Manager, Startup Products",
     "company": "Stripe",
@@ -913,7 +929,7 @@
   },
   {
     "id": "c18b44cf-01bf-400b-b747-123d358a82dc",
-    "title": "Director \u2013 Brazil (Financial Services / Virtual Assets)",
+    "title": "Director – Brazil (Financial Services / Virtual Assets)",
     "company": "Coins.ph",
     "link": "https://jobs.lever.co/coins/c18b44cf-01bf-400b-b747-123d358a82dc",
     "date": "2026-05-07T07:08:01.883Z",
@@ -1313,7 +1329,7 @@
   },
   {
     "id": "https://www.zipline.com/careers?gh_jid=7725921003",
-    "title": "Logistics and Supply Chain Analyst, C\u00f4te dIvoire",
+    "title": "Logistics and Supply Chain Analyst, Côte dIvoire",
     "company": "Zipline",
     "link": "https://www.zipline.com/careers?gh_jid=7725921003",
     "date": "2026-05-06T18:52:13.000Z",
@@ -1873,7 +1889,7 @@
   },
   {
     "id": "http://veem.applytojob.com/apply/tBorhbiCny/Paralegal-Licensing-Compliance",
-    "title": "Paralegal \u2014 Licensing & Compliance",
+    "title": "Paralegal — Licensing & Compliance",
     "company": "Veem",
     "link": "http://veem.applytojob.com/apply/tBorhbiCny/Paralegal-Licensing-Compliance",
     "date": "2026-05-06T06:54:54.000Z",
@@ -2185,7 +2201,7 @@
   },
   {
     "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTYxOCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
-    "title": "Manager \u2013 Product Training & Sales Enablement",
+    "title": "Manager – Product Training & Sales Enablement",
     "company": "CoinDCX",
     "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTYxOCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
     "date": "2026-05-05T18:50:24.000Z",
@@ -2193,7 +2209,7 @@
   },
   {
     "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTYxNywgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
-    "title": "Manager \u2013 Sales Excellence & Transformation",
+    "title": "Manager – Sales Excellence & Transformation",
     "company": "CoinDCX",
     "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTYxNywgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
     "date": "2026-05-05T18:35:24.000Z",
@@ -2384,12 +2400,28 @@
     "source": "Binance"
   },
   {
+    "id": "2592775",
+    "title": "Backend Engineer - Wallets (100% Remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/backend-engineer-wallets-100-remote-31",
+    "date": "2026-05-05 14:00:28 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
     "id": "7894319",
     "title": "Corporate Treasurer",
     "company": "Blockchain.com",
     "link": "https://job-boards.greenhouse.io/blockchain/jobs/7894319",
     "date": "2026-05-05T09:54:28-04:00",
     "source": "Greenhouse: Blockchain.com"
+  },
+  {
+    "id": "2591532",
+    "title": "Payment Processing Specialist - Taiwan",
+    "company": "Bitfinex",
+    "link": "https://careers.bitfinex.com/o/payment-processing-specialist-taiwan",
+    "date": "2026-05-05 13:48:08 UTC",
+    "source": "Recruitee: Bitfinex"
   },
   {
     "id": "04cb9e2f-0e36-4356-9756-fef5e7b7bbd2",
@@ -2545,7 +2577,7 @@
   },
   {
     "id": "https://jobs.lever.co/binance/12d83327-5870-441f-9b0b-6a40d213350a",
-    "title": "Senior Growth Marketing Manager \u2014 Ukraine",
+    "title": "Senior Growth Marketing Manager — Ukraine",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/12d83327-5870-441f-9b0b-6a40d213350a",
     "date": "2026-05-05T07:38:29.000Z",
@@ -2936,6 +2968,14 @@
     "source": "Ashby: Dapper Labs"
   },
   {
+    "id": "2590990",
+    "title": "Technical Product Manager QVAC - 100% remote",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/technical-product-manager-qvac-100-remote-ny",
+    "date": "2026-05-04 14:06:29 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
     "id": "5208806008",
     "title": "Technical Support Representative French",
     "company": "Nexus",
@@ -3049,7 +3089,7 @@
   },
   {
     "id": "https://jobs.lever.co/binance/f3fa8ebe-5ea7-4404-a0ca-6e743c75b3a9",
-    "title": "Java Engineer \u2014 DeFi/ Web3",
+    "title": "Java Engineer — DeFi/ Web3",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/f3fa8ebe-5ea7-4404-a0ca-6e743c75b3a9",
     "date": "2026-05-04T04:51:59.000Z",
@@ -3513,7 +3553,7 @@
   },
   {
     "id": "7845963",
-    "title": "Payroll Manager \u2013 Europe (FTC)",
+    "title": "Payroll Manager – Europe (FTC)",
     "company": "Ripple",
     "link": "https://boards.greenhouse.io/ripple/jobs/7845963",
     "date": "2026-05-02",
@@ -4289,7 +4329,7 @@
   },
   {
     "id": "53daf78a-8169-400d-8f0d-947f50cb5c93",
-    "title": "Litigation Paralegal \u2013 Kazakh Speaking",
+    "title": "Litigation Paralegal – Kazakh Speaking",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/53daf78a-8169-400d-8f0d-947f50cb5c93",
     "date": "2026-05-02",
@@ -4649,7 +4689,7 @@
   },
   {
     "id": "ce=jobs.paradigm.xyz",
-    "title": "Founding Engineer \u2013\u00a0Full Stack",
+    "title": "Founding Engineer – Full Stack",
     "company": "Ventuals",
     "link": "https://jobs.ashbyhq.com/ventuals/e406d4e0-2a1f-4d15-815e-f610758a72e0?utm_source=jobs.paradigm.xyz",
     "date": "2026-05-02",
@@ -4801,7 +4841,7 @@
   },
   {
     "id": "1ad0e432-cedf-4828-b83a-b31df74049a3",
-    "title": "Marketing Manager \u2013 Events & Community (Australia)",
+    "title": "Marketing Manager – Events & Community (Australia)",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/1ad0e432-cedf-4828-b83a-b31df74049a3",
     "date": "2026-05-02",
@@ -4833,7 +4873,7 @@
   },
   {
     "id": "8515395002",
-    "title": "Software Engineer \u2013 Frontend & Mobile",
+    "title": "Software Engineer – Frontend & Mobile",
     "company": "BitGo",
     "link": "https://boards.greenhouse.io/bitgo/jobs/8515395002",
     "date": "2026-05-02",
@@ -5417,7 +5457,7 @@
   },
   {
     "id": "5d81e7bb-61c9-482d-bf7e-07f70f0d6143",
-    "title": "Compliance Rule Tuning Specialist \u2013 Transaction Monitoring",
+    "title": "Compliance Rule Tuning Specialist – Transaction Monitoring",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/5d81e7bb-61c9-482d-bf7e-07f70f0d6143",
     "date": "2026-05-02",
@@ -5721,7 +5761,7 @@
   },
   {
     "id": "347c9fc6-664c-44e2-ae00-f2ae39951559",
-    "title": "Field Operations Contractor \u2013 Hamptons",
+    "title": "Field Operations Contractor – Hamptons",
     "company": "Blackbird Labs",
     "link": "https://jobs.ashbyhq.com/blackbird-labs-inc/347c9fc6-664c-44e2-ae00-f2ae39951559",
     "date": "2026-05-02",
@@ -6161,7 +6201,7 @@
   },
   {
     "id": "48d8da26-9c83-45ea-ab8a-6dc491f5c728",
-    "title": "QA Engineer \u2013 Integrations",
+    "title": "QA Engineer – Integrations",
     "company": "VALR",
     "link": "https://valr.careers.hibob.com/jobs/48d8da26-9c83-45ea-ab8a-6dc491f5c728",
     "date": "2026-05-02",
@@ -9425,7 +9465,7 @@
   },
   {
     "id": "26d78072-0282-4e71-bccc-5ecb79282269",
-    "title": "AI\u7814\u53d1\u5de5\u7a0b\u5e08",
+    "title": "AI研发工程师",
     "company": "Gate.io",
     "link": "https://jobs.lever.co/gate/26d78072-0282-4e71-bccc-5ecb79282269",
     "date": "2026-05-02",
@@ -10217,7 +10257,7 @@
   },
   {
     "id": "78284cca-96ca-4823-b5e0-7855f909d2e4",
-    "title": "Payments Project Manager \u2013 6 Months Contract",
+    "title": "Payments Project Manager – 6 Months Contract",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/78284cca-96ca-4823-b5e0-7855f909d2e4",
     "date": "2026-05-02",
@@ -10385,7 +10425,7 @@
   },
   {
     "id": "4210479009",
-    "title": "Manager, Fund Accounting \u2013 Private Equity",
+    "title": "Manager, Fund Accounting – Private Equity",
     "company": "Securitize",
     "link": "https://job-boards.greenhouse.io/securitize/jobs/4210479009",
     "date": "2026-05-02",
@@ -10681,7 +10721,7 @@
   },
   {
     "id": "4645494005",
-    "title": "Head of Enterprise GTM \u2013 Shelby Platform",
+    "title": "Head of Enterprise GTM – Shelby Platform",
     "company": "Aptos Labs",
     "link": "https://boards.greenhouse.io/aptoslabs/jobs/4645494005",
     "date": "2026-05-02",
@@ -12593,7 +12633,7 @@
   },
   {
     "id": "5832903004",
-    "title": "Vice President, Algo Trading / SOR \u2013 Developer",
+    "title": "Vice President, Algo Trading / SOR – Developer",
     "company": "Galaxy Digital",
     "link": "https://boards.greenhouse.io/galaxydigitalservices/jobs/5832903004",
     "date": "2026-05-02",
@@ -14153,7 +14193,7 @@
   },
   {
     "id": "7724582",
-    "title": "Senior Staff Engineer \u2014 Data Engineering & Architecture",
+    "title": "Senior Staff Engineer — Data Engineering & Architecture",
     "company": "Ripple",
     "link": "https://boards.greenhouse.io/ripple/jobs/7724582",
     "date": "2026-05-02",
@@ -15025,7 +15065,7 @@
   },
   {
     "id": "6325652003",
-    "title": "Senior Java R&D Engineer\uff08Token Markets Team\uff09",
+    "title": "Senior Java R&D Engineer（Token Markets Team）",
     "company": "okx",
     "link": "https://boards.greenhouse.io/okx/jobs/6325652003",
     "date": "2026-05-02",
@@ -16737,7 +16777,7 @@
   },
   {
     "id": "2cfd5005-2526-4fed-8a6b-2f0318f9e624",
-    "title": "Business Development Lead \u2013 Payments & Fintech",
+    "title": "Business Development Lead – Payments & Fintech",
     "company": "Solana Foundation",
     "link": "https://jobs.ashbyhq.com/Solana%20Foundation/2cfd5005-2526-4fed-8a6b-2f0318f9e624",
     "date": "2026-05-02",
@@ -17449,7 +17489,7 @@
   },
   {
     "id": "74b1a7bb-c906-4876-85a1-a191bc7be70a",
-    "title": "Institutional Growth Lead \u2013 USA",
+    "title": "Institutional Growth Lead – USA",
     "company": "Lido",
     "link": "https://jobs.ashbyhq.com/Lido.fi/74b1a7bb-c906-4876-85a1-a191bc7be70a",
     "date": "2026-05-02",
@@ -17593,7 +17633,7 @@
   },
   {
     "id": "2f08d719-09b3-493e-ae9e-f3eba2ade188",
-    "title": "Future Builders \u2013 General Interest",
+    "title": "Future Builders – General Interest",
     "company": "EigenLayer",
     "link": "https://jobs.ashbyhq.com/eigen-labs/2f08d719-09b3-493e-ae9e-f3eba2ade188",
     "date": "2026-05-02",
@@ -18985,7 +19025,7 @@
   },
   {
     "id": "46a35b23-9610-49b4-9293-16cb837e3556",
-    "title": "Member of Technical Staff, Real\u2011Time Video Generation",
+    "title": "Member of Technical Staff, Real‑Time Video Generation",
     "company": "Cantina",
     "link": "https://jobs.ashbyhq.com/cantina/46a35b23-9610-49b4-9293-16cb837e3556",
     "date": "2026-05-02",
@@ -19673,7 +19713,7 @@
   },
   {
     "id": "491c3062-8aae-425f-bcc7-9451ff180997",
-    "title": "Full-Stack Software Engineer \u2013 Remote",
+    "title": "Full-Stack Software Engineer – Remote",
     "company": "Spruce",
     "link": "https://jobs.ashbyhq.com/SpruceID/491c3062-8aae-425f-bcc7-9451ff180997",
     "date": "2026-05-02",
@@ -19681,7 +19721,7 @@
   },
   {
     "id": "3d182b7f-482e-45b2-8668-f04f0b5fda8e",
-    "title": "Full-Stack Software Engineer (New Grad) \u2013 Remote",
+    "title": "Full-Stack Software Engineer (New Grad) – Remote",
     "company": "Spruce",
     "link": "https://jobs.ashbyhq.com/SpruceID/3d182b7f-482e-45b2-8668-f04f0b5fda8e",
     "date": "2026-05-02",
@@ -20001,7 +20041,7 @@
   },
   {
     "id": "b06a9ba8-f929-43bd-a61e-0999d72b24a7",
-    "title": "Technical Support Specialist II \u2013 FME Flow",
+    "title": "Technical Support Specialist II – FME Flow",
     "company": "Safe",
     "link": "https://jobs.ashbyhq.com/Safe/b06a9ba8-f929-43bd-a61e-0999d72b24a7",
     "date": "2026-05-02",
@@ -20017,7 +20057,7 @@
   },
   {
     "id": "616beca1-2c2f-48c6-8ccd-d03052624642",
-    "title": "Technical Support Specialist II \u2013 FME Form",
+    "title": "Technical Support Specialist II – FME Form",
     "company": "Safe",
     "link": "https://jobs.ashbyhq.com/Safe/616beca1-2c2f-48c6-8ccd-d03052624642",
     "date": "2026-05-02",
@@ -20513,7 +20553,7 @@
   },
   {
     "id": "a1690c8b-3c4d-4fb5-a2b6-491f69c71f54",
-    "title": "Head of Policy and Regulatory Affairs \u2013 US",
+    "title": "Head of Policy and Regulatory Affairs – US",
     "company": "Elliptic",
     "link": "https://jobs.ashbyhq.com/Elliptic/a1690c8b-3c4d-4fb5-a2b6-491f69c71f54",
     "date": "2026-05-02",
@@ -20856,6 +20896,14 @@
     "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
+    "id": "2519355",
+    "title": "Technical Product Manager - Hadron (100% Remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/technical-product-manager-hadron-100-remote-10",
+    "date": "2026-05-01 18:50:05 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
     "id": "7827403",
     "title": "Corporate Communications",
     "company": "Stripe",
@@ -20950,6 +20998,14 @@
     "link": "https://jobs.lever.co/binance/5df3aa74-0bed-4b8d-b272-81d0610c6f3f",
     "date": "2026-05-01T11:08:13.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "2588761",
+    "title": "JR Legal & Compliance Analyst (100% REMOTE)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/jr-legal-compliance-analyst-100-remote-2",
+    "date": "2026-05-01 09:18:19 UTC",
+    "source": "Recruitee: Tether"
   },
   {
     "id": "06208882-bbf3-4e94-b1fe-4b9ea693a9e2",
@@ -22176,6 +22232,14 @@
     "source": "Greenhouse: ComplyAdvantage"
   },
   {
+    "id": "2576111",
+    "title": "Data and Payments Compliance Analyst - (100% REMOTE)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/data-and-payments-compliance-analyst-100-remote-4",
+    "date": "2026-04-27 14:55:09 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
     "id": "9f6d4223-389c-44e3-99b1-50f46c4855da",
     "title": "Derivatives Trader",
     "company": "Anchorage Digital",
@@ -22240,6 +22304,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "2581835",
+    "title": "Staff Node.js Engineer - 100% remote",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/staff-nodejs-engineer-100-remote-17",
+    "date": "2026-04-24 17:44:11 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
     "id": "bc476c03-017b-49f3-9d3f-a405e123eccd",
     "title": "Senior Product Manager - Clinical",
     "company": "Jane",
@@ -22302,6 +22374,14 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4844323101",
     "date": "2026-04-24T05:39:07-04:00",
     "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "2580693",
+    "title": "Expansion Manager - Tokenization (100% remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/expansion-manager-tokenization-100-remote-8",
+    "date": "2026-04-24 09:02:07 UTC",
+    "source": "Recruitee: Tether"
   },
   {
     "id": "0634dbe9-0cbc-4cee-a8a7-c6185dbae42e",
@@ -22385,7 +22465,7 @@
   },
   {
     "id": "7845963",
-    "title": "Payroll Manager \u2013 Europe",
+    "title": "Payroll Manager – Europe",
     "company": "Ripple",
     "link": "https://ripple.com/careers/all-jobs/job/7845963?gh_jid=7845963",
     "date": "2026-04-23T08:10:59-04:00",
@@ -22590,6 +22670,14 @@
     "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4687479005",
     "date": "2026-04-21T16:15:19-04:00",
     "source": "Greenhouse: DV Trading"
+  },
+  {
+    "id": "2576126",
+    "title": "SR Legal and Compliance Analyst (100% REMOTE)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/legal-and-compliance-analyst-100-remote-4",
+    "date": "2026-04-21 19:04:27 UTC",
+    "source": "Recruitee: Tether"
   },
   {
     "id": "7837970",
@@ -23129,7 +23217,7 @@
   },
   {
     "id": "3108f21f-8cd6-4953-bacb-a250cae7a5b1",
-    "title": "Construction Project Manager \u2013 AI Data Centers",
+    "title": "Construction Project Manager – AI Data Centers",
     "company": "Cleanspark",
     "link": "https://jobs.lever.co/cleanspark/3108f21f-8cd6-4953-bacb-a250cae7a5b1",
     "date": "2026-04-16T20:49:05.458Z",
@@ -23440,6 +23528,14 @@
     "source": "Greenhouse: Jane Street"
   },
   {
+    "id": "2566425",
+    "title": "Stablecoin Research Analyst (100% Remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/research-analyst-100-remote-3",
+    "date": "2026-04-14 20:28:26 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
     "id": "b9ac221e-80ce-4bed-9791-561310bcf33e",
     "title": "Senior Lead, Customer Success Training",
     "company": "Jane",
@@ -23478,6 +23574,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7804290",
     "date": "2026-04-14T14:03:03-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "2566340",
+    "title": "Economic Policy Analyst (100% Remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/economic-policy-analyst-100-remote-3",
+    "date": "2026-04-14 17:31:12 UTC",
+    "source": "Recruitee: Tether"
   },
   {
     "id": "7815282",
@@ -23550,6 +23654,14 @@
     "link": "https://job-boards.greenhouse.io/falconx/jobs/4682558005",
     "date": "2026-04-14T02:00:52-04:00",
     "source": "Greenhouse: FalconX"
+  },
+  {
+    "id": "2564793",
+    "title": "Senior Manager - Asset Management Reporting (100% Remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/senior-manager-asset-management-reporting-100-remote-4",
+    "date": "2026-04-14 06:00:28 UTC",
+    "source": "Recruitee: Tether"
   },
   {
     "id": "9a8fb0fb-72dc-4fb6-984d-fe686dd7b2c1",
@@ -23680,6 +23792,14 @@
     "source": "Ashby: Ramp"
   },
   {
+    "id": "2564412",
+    "title": "Developer Advocate P2P (100% remote Worldwide)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/developer-advocate-p2p-100-remote-worldwide",
+    "date": "2026-04-13 14:30:44 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
     "id": "7808299",
     "title": "Engagement Manager",
     "company": "Stripe",
@@ -23710,6 +23830,14 @@
     "link": "https://job-boards.greenhouse.io/falconx/jobs/4683799005",
     "date": "2026-04-13T08:58:19-04:00",
     "source": "Greenhouse: FalconX"
+  },
+  {
+    "id": "2563805",
+    "title": "Engagement Manager (100% Remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/engagement-manager-100-remote-6",
+    "date": "2026-04-13 10:56:56 UTC",
+    "source": "Recruitee: Tether"
   },
   {
     "id": "9e5334a8-b7ff-4f1c-ac92-722368b7aa3b",
@@ -23918,53 +24046,5 @@
     "link": "https://jobs.lever.co/coins/6f8fff2a-3980-483e-a0cc-b736562129f0",
     "date": "2026-04-09T06:57:45.029Z",
     "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "0c30e33f-1ee4-4661-b538-8630ad8e0caa",
-    "title": "Accounting Manager",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/0c30e33f-1ee4-4661-b538-8630ad8e0caa",
-    "date": "2026-04-09T06:35:28.100Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "e1e7d593-ec4c-46e6-bd21-e83fa585f49d",
-    "title": "Procurement Manager",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/e1e7d593-ec4c-46e6-bd21-e83fa585f49d",
-    "date": "2026-04-09T06:30:06.541Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "c17b0052-f082-4022-9c9a-6a5839dc2881",
-    "title": "Head of Trade Manager",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/c17b0052-f082-4022-9c9a-6a5839dc2881",
-    "date": "2026-04-09T06:22:11.107Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "7c7f4c88-8fee-4579-8bad-4f8302e65c95",
-    "title": "Application Security Engineering Manager",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/7c7f4c88-8fee-4579-8bad-4f8302e65c95",
-    "date": "2026-04-09T06:15:05.031Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "f076c1ee-24ec-4f4a-94e6-5d1af3498629",
-    "title": "BI Senior Manager",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/f076c1ee-24ec-4f4a-94e6-5d1af3498629",
-    "date": "2026-04-09T06:10:12.932Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "7792368",
-    "title": "Talent Sourcer - Hybrid (12-Month Contract)",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7792368?gh_jid=7792368",
-    "date": "2026-04-09T01:44:29-04:00",
-    "source": "Greenhouse: Ripple"
   }
 ]

@@ -566,6 +566,10 @@ async function refreshJobsCache() {
     { board: 'circle', company: 'Circle' },
     { board: 'celestia', company: 'Celestia' },
     { board: 'harmony', company: 'Harmony' },
+    // --- CoinGecko May 2026 expansion ---
+    { board: 'tether', company: 'Tether' },
+    { board: 'bitfinex', company: 'Bitfinex' },
+    { board: 'jump', company: 'Jump' },
   ];
 
   for (const rt of RECRUITEE_BOARDS) {
