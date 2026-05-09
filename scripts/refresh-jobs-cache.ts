@@ -110,16 +110,16 @@ async function refreshJobsCache() {
   try {
     if (fs.existsSync(cachePath)) {
       const existing: CachedJob[] = JSON.parse(fs.readFileSync(cachePath, 'utf-8'));
-      const thirtyDaysAgo = new Date();
-      thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+      const ninetyDaysAgo = new Date();
+      ninetyDaysAgo.setDate(ninetyDaysAgo.getDate() - 90);
       
       existing.forEach(job => {
-        if (new Date(job.date) > thirtyDaysAgo) {
+        if (new Date(job.date) > ninetyDaysAgo) {
           const key = createUniqueKey(job.title, job.company);
           jobMap.set(key, job);
         }
       });
-      console.log(`📦 Loaded ${jobMap.size} existing jobs from cache (after 30-day filter)`);
+      console.log(`📦 Loaded ${jobMap.size} existing jobs from cache (after 90-day filter)`);
     }
   } catch (e) {
     console.warn('⚠️ Could not read existing cache, starting fresh');
@@ -148,7 +148,7 @@ async function refreshJobsCache() {
             const company = rawCompany ? normalizeCompany(rawCompany) : undefined;
             const link = item.link;
 
-            if (link && title && company && !title.includes('*') && title.split(' ').length <= 8 && !title.toLowerCase().includes('bounty')) {
+            if (link && title && company && !title.includes('*') && title.split(' ').length <= 15 && !title.toLowerCase().includes('bounty')) {
               const key = createUniqueKey(title, company);
               if (!jobMap.has(key)) {
                 jobMap.set(key, {
@@ -273,7 +273,7 @@ async function refreshJobsCache() {
         const dept = job.metadata?.find(m => m.name === 'Careersite Department (for job postings)')?.value;
         if (dept === 'Do Not Post') continue;
 
-        if (link && title && title.split(' ').length <= 8 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
+        if (link && title && title.split(' ').length <= 15 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
           const key = createUniqueKey(title, company);
           if (!jobMap.has(key)) {
             jobMap.set(key, {
@@ -363,7 +363,7 @@ async function refreshJobsCache() {
         const link = posting.hostedUrl;
         const date = posting.createdAt ? new Date(posting.createdAt).toISOString() : new Date().toISOString();
 
-        if (link && title && title.split(' ').length <= 8 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
+        if (link && title && title.split(' ').length <= 15 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
           const key = createUniqueKey(title, company);
           if (!jobMap.has(key)) {
             jobMap.set(key, {
@@ -497,7 +497,7 @@ async function refreshJobsCache() {
         const link = job.jobUrl;
         const date = job.publishedAt || new Date().toISOString();
 
-        if (link && title && title.split(' ').length <= 8 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
+        if (link && title && title.split(' ').length <= 15 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
           const key = createUniqueKey(title, company);
           if (!jobMap.has(key)) {
             jobMap.set(key, {
@@ -538,7 +538,7 @@ async function refreshJobsCache() {
         const link = `https://apply.workable.com/${wb.board}/j/${job.id}/`;
         const date = job.published_on || new Date().toISOString();
 
-        if (link && title && title.split(' ').length <= 8 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
+        if (link && title && title.split(' ').length <= 15 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
           const key = createUniqueKey(title, company);
           if (!jobMap.has(key)) {
             jobMap.set(key, {
@@ -585,7 +585,7 @@ async function refreshJobsCache() {
         const link = offer.careers_url;
         const date = offer.published_at || new Date().toISOString();
 
-        if (link && title && title.split(' ').length <= 8 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
+        if (link && title && title.split(' ').length <= 15 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
           const key = createUniqueKey(title, company);
           if (!jobMap.has(key)) {
             jobMap.set(key, {
@@ -614,10 +614,10 @@ async function refreshJobsCache() {
   // Convert to array and sort by date
   let allJobs = Array.from(jobMap.values());
 
-  // Apply 30-day filter
-  const thirtyDaysAgo = new Date();
-  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
-  allJobs = allJobs.filter(job => new Date(job.date) > thirtyDaysAgo);
+  // Apply 90-day filter
+  const ninetyDaysAgo = new Date();
+  ninetyDaysAgo.setDate(ninetyDaysAgo.getDate() - 90);
+  allJobs = allJobs.filter(job => new Date(job.date) > ninetyDaysAgo);
 
   // Filter out unwanted companies and non-tech roles
   const BLOCKED_COMPANIES = new Set([
