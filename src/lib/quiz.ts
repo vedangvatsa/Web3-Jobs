@@ -42,7 +42,7 @@ export const quizData: QuizQuestion[] = [
   id: 4,
   question: "What sounds more appealing?",
   options: {
-   a: "Facilitating a large, vibrant online community.",
+   a: "Facilitating a large, active online community.",
    b: "Designing a token-based economic system.",
   },
   weights: {
@@ -187,7 +187,7 @@ export const quizData: QuizQuestion[] = [
   question: "You believe the key to Web3's success is:",
   options: {
    a: "Building killer applications with a seamless user experience.",
-   b: "Building vibrant, resilient communities with strong governance.",
+   b: "Building active, resilient communities with strong governance.",
   },
   weights: {
    a: { builder: 1, strategist: 1 },

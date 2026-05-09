@@ -1,373 +1,373 @@
 {
-  "meta": {
-    "contentType": "tools",
-    "topic": "development",
-    "niche": "smart-contract-auditor",
-    "generatedAt": "2026-03-13T00:00:00.000Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "50 Essential Tools for Smart Contract Auditors",
-    "description": "A curated list of tools for smart contract auditors covering static analysis, fuzzing, formal verification, and audit workflow management.",
-    "keywords": ["smart-contract-auditor", "tools", "Slither", "Echidna", "Foundry", "security", "audit"],
-    "canonicalSlug": "development-tools-for-smart-contract-auditor"
-  },
-  "content": {
-    "intro": "Smart contract auditing requires a comprehensive toolkit spanning automated analysis, manual review aids, and workflow management. Here are the essential tools used by professional auditors.",
-    "sections": [
-      {
-        "heading": "Static Analysis",
-        "description": "Tools that analyze code without executing it.",
-        "items": [
-          {
-            "name": "Slither",
-            "description": "The industry standard static analyzer from Trail of Bits. 80+ detectors covering common vulnerabilities, code quality, and optimization.",
-            "category": "Analysis",
-            "url": "https://github.com/crytic/slither",
-            "pricing": "Free",
-            "useCase": "Automated vulnerability detection"
-          },
-          {
-            "name": "Aderyn",
-            "description": "Rust-based static analyzer from Cyfrin. Fast analysis with growing detector library.",
-            "category": "Analysis",
-            "url": "https://github.com/Cyfrin/aderyn",
-            "pricing": "Free",
-            "useCase": "Quick vulnerability scanning"
-          },
-          {
-            "name": "Solhint",
-            "description": "Solidity linter for style and security. Catches common issues early.",
-            "category": "Linter",
-            "url": "https://github.com/protofire/solhint",
-            "pricing": "Free",
-            "useCase": "Code style and basic security"
-          },
-          {
-            "name": "Semgrep",
-            "description": "Pattern-based code analysis. Write custom rules for project-specific issues.",
-            "category": "Analysis",
-            "url": "https://semgrep.dev",
-            "pricing": "Free tier + Paid",
-            "useCase": "Custom vulnerability patterns"
-          },
-          {
-            "name": "Amarna",
-            "description": "Static analyzer for Cairo/StarkNet contracts.",
-            "category": "Analysis",
-            "url": "https://github.com/crytic/amarna",
-            "pricing": "Free",
-            "useCase": "StarkNet auditing"
-          }
-        ]
-      },
-      {
-        "heading": "Symbolic Execution",
-        "description": "Tools that explore all possible program paths mathematically.",
-        "items": [
-          {
-            "name": "Mythril",
-            "description": "Symbolic execution for detecting security vulnerabilities through constraint solving.",
-            "category": "Analysis",
-            "url": "https://github.com/Consensys/mythril",
-            "pricing": "Free",
-            "useCase": "Deep vulnerability analysis"
-          },
-          {
-            "name": "Halmos",
-            "description": "Symbolic testing tool from a16z. Proves properties through symbolic execution.",
-            "category": "Testing",
-            "url": "https://github.com/a16z/halmos",
-            "pricing": "Free",
-            "useCase": "Formal verification of properties"
-          },
-          {
-            "name": "HEVM",
-            "description": "Symbolic execution engine from DappTools. Deep analysis of EVM bytecode.",
-            "category": "Analysis",
-            "url": "https://github.com/dapphub/dapptools",
-            "pricing": "Free",
-            "useCase": "Bytecode-level analysis"
-          },
-          {
-            "name": "Pyrometer",
-            "description": "Abstract interpretation for finding numeric issues like overflows.",
-            "category": "Analysis",
-            "url": "https://github.com/nascentxyz/pyrometer",
-            "pricing": "Free",
-            "useCase": "Arithmetic vulnerability detection"
-          },
-          {
-            "name": "Manticore",
-            "description": "Symbolic execution engine supporting EVM and native binaries.",
-            "category": "Analysis",
-            "url": "https://github.com/trailofbits/manticore",
-            "pricing": "Free",
-            "useCase": "Multi-platform symbolic execution"
-          }
-        ]
-      },
-      {
-        "heading": "Fuzzing",
-        "description": "Tools that test contracts with random inputs to find edge cases.",
-        "items": [
-          {
-            "name": "Echidna",
-            "description": "Property-based fuzzer from Trail of Bits. Tests invariants through random input generation.",
-            "category": "Testing",
-            "url": "https://github.com/crytic/echidna",
-            "pricing": "Free",
-            "useCase": "Property-based fuzzing"
-          },
-          {
-            "name": "Foundry Fuzz",
-            "description": "Fast fuzzing built into Foundry. First-choice for most projects.",
-            "category": "Testing",
-            "url": "https://book.getfoundry.sh/forge/fuzz-testing",
-            "pricing": "Free",
-            "useCase": "Integrated fuzz testing"
-          },
-          {
-            "name": "Medusa",
-            "description": "Parallel fuzzer compatible with Echidna tests. Better performance on multi-core systems.",
-            "category": "Testing",
-            "url": "https://github.com/crytic/medusa",
-            "pricing": "Free",
-            "useCase": "High-performance fuzzing"
-          },
-          {
-            "name": "Chimera",
-            "description": "Framework for building reusable fuzz tests across protocols.",
-            "category": "Testing",
-            "url": "https://github.com/Recon-Fuzz/chimera",
-            "pricing": "Free",
-            "useCase": "Reusable invariant tests"
-          },
-          {
-            "name": "Harvey",
-            "description": "Greybox fuzzer that uses coverage to guide input generation.",
-            "category": "Testing",
-            "url": "https://github.com/ConsenSys/mythx-cli",
-            "pricing": "Free",
-            "useCase": "Coverage-guided fuzzing"
-          }
-        ]
-      },
-      {
-        "heading": "Formal Verification",
-        "description": "Tools that mathematically prove contract properties.",
-        "items": [
-          {
-            "name": "Certora Prover",
-            "description": "Commercial formal verification platform. Industry standard for critical protocols.",
-            "category": "Verification",
-            "url": "https://www.certora.com",
-            "pricing": "Paid",
-            "useCase": "Mathematical proofs of correctness"
-          },
-          {
-            "name": "Solidity SMTChecker",
-            "description": "Built-in formal verification in Solidity compiler.",
-            "category": "Verification",
-            "url": "https://docs.soliditylang.org/en/latest/smtchecker.html",
-            "pricing": "Free",
-            "useCase": "Basic property checking"
-          },
-          {
-            "name": "Act",
-            "description": "Specification language for formal verification of smart contracts.",
-            "category": "Verification",
-            "url": "https://github.com/ethereum/act",
-            "pricing": "Free",
-            "useCase": "Formal specifications"
-          },
-          {
-            "name": "K Framework",
-            "description": "Formal semantics framework. Used for EVM formal semantics.",
-            "category": "Verification",
-            "url": "https://kframework.org",
-            "pricing": "Free",
-            "useCase": "Deep formal verification"
-          }
-        ]
-      },
-      {
-        "heading": "Debugging and Analysis",
-        "description": "Tools for understanding contract behavior.",
-        "items": [
-          {
-            "name": "Tenderly",
-            "description": "Transaction simulation and debugging. Trace transactions step by step.",
-            "category": "Debugging",
-            "url": "https://tenderly.co",
-            "pricing": "Free tier + Paid",
-            "useCase": "Transaction debugging"
-          },
-          {
-            "name": "Foundry Debugger",
-            "description": "Interactive debugger for stepping through transactions.",
-            "category": "Debugging",
-            "url": "https://book.getfoundry.sh/forge/debugger",
-            "pricing": "Free",
-            "useCase": "Local debugging"
-          },
-          {
-            "name": "Etherscan",
-            "description": "Block explorer with verified source code, transaction traces, and decompilation.",
-            "category": "Explorer",
-            "url": "https://etherscan.io",
-            "pricing": "Free",
-            "useCase": "Transaction and contract analysis"
-          },
-          {
-            "name": "Phalcon",
-            "description": "Transaction explorer from BlockSec showing detailed execution traces.",
-            "category": "Explorer",
-            "url": "https://explorer.phalcon.xyz",
-            "pricing": "Free",
-            "useCase": "Attack analysis"
-          },
-          {
-            "name": "Dedaub",
-            "description": "Decompiler and contract analysis. See contract logic without source.",
-            "category": "Analysis",
-            "url": "https://app.dedaub.com",
-            "pricing": "Free",
-            "useCase": "Bytecode decompilation"
-          }
-        ]
-      },
-      {
-        "heading": "Code Review",
-        "description": "Tools that aid manual code review.",
-        "items": [
-          {
-            "name": "VS Code Solidity",
-            "description": "Essential VS Code extension with syntax highlighting and IntelliSense.",
-            "category": "Editor",
-            "url": "https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity",
-            "pricing": "Free",
-            "useCase": "Code editing"
-          },
-          {
-            "name": "Solidity Visual Developer",
-            "description": "VS Code extension with interactive graphs, metrics, and call trees.",
-            "category": "Editor",
-            "url": "https://github.com/Consensys/vscode-solidity-auditor",
-            "pricing": "Free",
-            "useCase": "Visual code analysis"
-          },
-          {
-            "name": "Sol2UML",
-            "description": "Generate UML diagrams from Solidity contracts.",
-            "category": "Visualization",
-            "url": "https://github.com/naddison36/sol2uml",
-            "pricing": "Free",
-            "useCase": "Contract visualization"
-          },
-          {
-            "name": "Surya",
-            "description": "Utility for contract analysis including call graphs and function summaries.",
-            "category": "Analysis",
-            "url": "https://github.com/ConsenSys/surya",
-            "pricing": "Free",
-            "useCase": "Contract structure analysis"
-          }
-        ]
-      },
-      {
-        "heading": "Audit Workflow",
-        "description": "Tools for managing the audit process.",
-        "items": [
-          {
-            "name": "Code4rena",
-            "description": "Competitive audit platform. Participate in audits or submit protocols.",
-            "category": "Platform",
-            "url": "https://code4rena.com",
-            "pricing": "Revenue share",
-            "useCase": "Competitive audits"
-          },
-          {
-            "name": "Sherlock",
-            "description": "Audit marketplace with insurance component.",
-            "category": "Platform",
-            "url": "https://www.sherlock.xyz",
-            "pricing": "Revenue share",
-            "useCase": "Audit competitions"
-          },
-          {
-            "name": "Immunefi",
-            "description": "Bug bounty platform for Web3. Find vulnerabilities for rewards.",
-            "category": "Platform",
-            "url": "https://immunefi.com",
-            "pricing": "Free",
-            "useCase": "Bug bounties"
-          },
-          {
-            "name": "Notion/Obsidian",
-            "description": "Note-taking tools for organizing findings and audit documentation.",
-            "category": "Productivity",
-            "url": "https://notion.so",
-            "pricing": "Free tier + Paid",
-            "useCase": "Audit documentation"
-          }
-        ]
-      },
-      {
-        "heading": "Reference and Research",
-        "description": "Resources for staying current and learning.",
-        "items": [
-          {
-            "name": "SWC Registry",
-            "description": "Smart Contract Weakness Classification. Standard vulnerability taxonomy.",
-            "category": "Reference",
-            "url": "https://swcregistry.io",
-            "pricing": "Free",
-            "useCase": "Vulnerability classification"
-          },
-          {
-            "name": "Rekt News",
-            "description": "Post-mortems of DeFi hacks. Essential reading for auditors.",
-            "category": "Reference",
-            "url": "https://rekt.news",
-            "pricing": "Free",
-            "useCase": "Hack analysis"
-          },
-          {
-            "name": "DeFiHackLabs",
-            "description": "Repository of exploit reproductions. Learn attack patterns hands-on.",
-            "category": "Reference",
-            "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
-            "pricing": "Free",
-            "useCase": "Exploit learning"
-          },
-          {
-            "name": "Solodit",
-            "description": "Database of audit findings from public reports.",
-            "category": "Reference",
-            "url": "https://solodit.xyz",
-            "pricing": "Free",
-            "useCase": "Finding research"
-          }
-        ]
-      }
-    ],
-    "proTips": [
-      {
-        "tip": "Run Slither first on every audit. It catches low-hanging fruit and gives you a codebase overview."
-      },
-      {
-        "tip": "Combine static analysis with fuzzing. Static tools find code patterns; fuzzers find edge cases."
-      },
-      {
-        "tip": "Reproduce past exploits to understand attack patterns. DeFiHackLabs is invaluable."
-      },
-      {
-        "tip": "Use Tenderly to trace live transactions when investigating suspicious behavior."
-      },
-      {
-        "tip": "Build your own checklist from audit reports. Solodit is a goldmine for this."
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "tools",
+ "topic": "development",
+ "niche": "smart-contract-auditor",
+ "generatedAt": "2026-03-13T00:00:00.000Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "50 Essential Tools for Smart Contract Auditors",
+ "description": "A curated list of tools for smart contract auditors covering static analysis, fuzzing, formal verification, and audit workflow management.",
+ "keywords": ["smart-contract-auditor", "tools", "Slither", "Echidna", "Foundry", "security", "audit"],
+ "canonicalSlug": "development-tools-for-smart-contract-auditor"
+ },
+ "content": {
+ "intro": "Smart contract auditing requires a comprehensive toolkit spanning automated analysis, manual review aids, and workflow management. Here are the essential tools used by professional auditors.",
+ "sections": [
+ {
+ "heading": "Static Analysis",
+ "description": "Tools that analyze code without executing it.",
+ "items": [
+ {
+ "name": "Slither",
+ "description": "The industry standard static analyzer from Trail of Bits. 80+ detectors covering common vulnerabilities, code quality, and optimization.",
+ "category": "Analysis",
+ "url": "https://github.com/crytic/slither",
+ "pricing": "Free",
+ "useCase": "Automated vulnerability detection"
+ },
+ {
+ "name": "Aderyn",
+ "description": "Rust-based static analyzer from Cyfrin. Fast analysis with growing detector library.",
+ "category": "Analysis",
+ "url": "https://github.com/Cyfrin/aderyn",
+ "pricing": "Free",
+ "useCase": "Quick vulnerability scanning"
+ },
+ {
+ "name": "Solhint",
+ "description": "Solidity linter for style and security. Catches common issues early.",
+ "category": "Linter",
+ "url": "https://github.com/protofire/solhint",
+ "pricing": "Free",
+ "useCase": "Code style and basic security"
+ },
+ {
+ "name": "Semgrep",
+ "description": "Pattern-based code analysis. Write custom rules for project-specific issues.",
+ "category": "Analysis",
+ "url": "https://semgrep.dev",
+ "pricing": "Free tier + Paid",
+ "useCase": "Custom vulnerability patterns"
+ },
+ {
+ "name": "Amarna",
+ "description": "Static analyzer for Cairo/StarkNet contracts.",
+ "category": "Analysis",
+ "url": "https://github.com/crytic/amarna",
+ "pricing": "Free",
+ "useCase": "StarkNet auditing"
+ }
+ ]
+ },
+ {
+ "heading": "Symbolic Execution",
+ "description": "Tools that explore all possible program paths mathematically.",
+ "items": [
+ {
+ "name": "Mythril",
+ "description": "Symbolic execution for detecting security vulnerabilities through constraint solving.",
+ "category": "Analysis",
+ "url": "https://github.com/Consensys/mythril",
+ "pricing": "Free",
+ "useCase": "Deep vulnerability analysis"
+ },
+ {
+ "name": "Halmos",
+ "description": "Symbolic testing tool from a16z. Proves properties through symbolic execution.",
+ "category": "Testing",
+ "url": "https://github.com/a16z/halmos",
+ "pricing": "Free",
+ "useCase": "Formal verification of properties"
+ },
+ {
+ "name": "HEVM",
+ "description": "Symbolic execution engine from DappTools. Deep analysis of EVM bytecode.",
+ "category": "Analysis",
+ "url": "https://github.com/dapphub/dapptools",
+ "pricing": "Free",
+ "useCase": "Bytecode-level analysis"
+ },
+ {
+ "name": "Pyrometer",
+ "description": "Abstract interpretation for finding numeric issues like overflows.",
+ "category": "Analysis",
+ "url": "https://github.com/nascentxyz/pyrometer",
+ "pricing": "Free",
+ "useCase": "Arithmetic vulnerability detection"
+ },
+ {
+ "name": "Manticore",
+ "description": "Symbolic execution engine supporting EVM and native binaries.",
+ "category": "Analysis",
+ "url": "https://github.com/trailofbits/manticore",
+ "pricing": "Free",
+ "useCase": "Multi-platform symbolic execution"
+ }
+ ]
+ },
+ {
+ "heading": "Fuzzing",
+ "description": "Tools that test contracts with random inputs to find edge cases.",
+ "items": [
+ {
+ "name": "Echidna",
+ "description": "Property-based fuzzer from Trail of Bits. Tests invariants through random input generation.",
+ "category": "Testing",
+ "url": "https://github.com/crytic/echidna",
+ "pricing": "Free",
+ "useCase": "Property-based fuzzing"
+ },
+ {
+ "name": "Foundry Fuzz",
+ "description": "Fast fuzzing built into Foundry. First-choice for most projects.",
+ "category": "Testing",
+ "url": "https://book.getfoundry.sh/forge/fuzz-testing",
+ "pricing": "Free",
+ "useCase": "Integrated fuzz testing"
+ },
+ {
+ "name": "Medusa",
+ "description": "Parallel fuzzer compatible with Echidna tests. Better performance on multi-core systems.",
+ "category": "Testing",
+ "url": "https://github.com/crytic/medusa",
+ "pricing": "Free",
+ "useCase": "High-performance fuzzing"
+ },
+ {
+ "name": "Chimera",
+ "description": "Framework for building reusable fuzz tests across protocols.",
+ "category": "Testing",
+ "url": "https://github.com/Recon-Fuzz/chimera",
+ "pricing": "Free",
+ "useCase": "Reusable invariant tests"
+ },
+ {
+ "name": "Harvey",
+ "description": "Greybox fuzzer that uses coverage to guide input generation.",
+ "category": "Testing",
+ "url": "https://github.com/ConsenSys/mythx-cli",
+ "pricing": "Free",
+ "useCase": "Coverage-guided fuzzing"
+ }
+ ]
+ },
+ {
+ "heading": "Formal Verification",
+ "description": "Tools that mathematically prove contract properties.",
+ "items": [
+ {
+ "name": "Certora Prover",
+ "description": "Commercial formal verification platform. Industry standard for critical protocols.",
+ "category": "Verification",
+ "url": "https://www.certora.com",
+ "pricing": "Paid",
+ "useCase": "Mathematical proofs of correctness"
+ },
+ {
+ "name": "Solidity SMTChecker",
+ "description": "Built-in formal verification in Solidity compiler.",
+ "category": "Verification",
+ "url": "https://docs.soliditylang.org/en/latest/smtchecker.html",
+ "pricing": "Free",
+ "useCase": "Basic property checking"
+ },
+ {
+ "name": "Act",
+ "description": "Specification language for formal verification of smart contracts.",
+ "category": "Verification",
+ "url": "https://github.com/ethereum/act",
+ "pricing": "Free",
+ "useCase": "Formal specifications"
+ },
+ {
+ "name": "K Framework",
+ "description": "Formal semantics framework. Used for EVM formal semantics.",
+ "category": "Verification",
+ "url": "https://kframework.org",
+ "pricing": "Free",
+ "useCase": "Deep formal verification"
+ }
+ ]
+ },
+ {
+ "heading": "Debugging and Analysis",
+ "description": "Tools for understanding contract behavior.",
+ "items": [
+ {
+ "name": "Tenderly",
+ "description": "Transaction simulation and debugging. Trace transactions step by step.",
+ "category": "Debugging",
+ "url": "https://tenderly.co",
+ "pricing": "Free tier + Paid",
+ "useCase": "Transaction debugging"
+ },
+ {
+ "name": "Foundry Debugger",
+ "description": "Interactive debugger for stepping through transactions.",
+ "category": "Debugging",
+ "url": "https://book.getfoundry.sh/forge/debugger",
+ "pricing": "Free",
+ "useCase": "Local debugging"
+ },
+ {
+ "name": "Etherscan",
+ "description": "Block explorer with verified source code, transaction traces, and decompilation.",
+ "category": "Explorer",
+ "url": "https://etherscan.io",
+ "pricing": "Free",
+ "useCase": "Transaction and contract analysis"
+ },
+ {
+ "name": "Phalcon",
+ "description": "Transaction explorer from BlockSec showing detailed execution traces.",
+ "category": "Explorer",
+ "url": "https://explorer.phalcon.xyz",
+ "pricing": "Free",
+ "useCase": "Attack analysis"
+ },
+ {
+ "name": "Dedaub",
+ "description": "Decompiler and contract analysis. See contract logic without source.",
+ "category": "Analysis",
+ "url": "https://app.dedaub.com",
+ "pricing": "Free",
+ "useCase": "Bytecode decompilation"
+ }
+ ]
+ },
+ {
+ "heading": "Code Review",
+ "description": "Tools that aid manual code review.",
+ "items": [
+ {
+ "name": "VS Code Solidity",
+ "description": "Essential VS Code extension with syntax highlighting and IntelliSense.",
+ "category": "Editor",
+ "url": "https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity",
+ "pricing": "Free",
+ "useCase": "Code editing"
+ },
+ {
+ "name": "Solidity Visual Developer",
+ "description": "VS Code extension with interactive graphs, metrics, and call trees.",
+ "category": "Editor",
+ "url": "https://github.com/Consensys/vscode-solidity-auditor",
+ "pricing": "Free",
+ "useCase": "Visual code analysis"
+ },
+ {
+ "name": "Sol2UML",
+ "description": "Generate UML diagrams from Solidity contracts.",
+ "category": "Visualization",
+ "url": "https://github.com/naddison36/sol2uml",
+ "pricing": "Free",
+ "useCase": "Contract visualization"
+ },
+ {
+ "name": "Surya",
+ "description": "Utility for contract analysis including call graphs and function summaries.",
+ "category": "Analysis",
+ "url": "https://github.com/ConsenSys/surya",
+ "pricing": "Free",
+ "useCase": "Contract structure analysis"
+ }
+ ]
+ },
+ {
+ "heading": "Audit Workflow",
+ "description": "Tools for managing the audit process.",
+ "items": [
+ {
+ "name": "Code4rena",
+ "description": "Competitive audit platform. Participate in audits or submit protocols.",
+ "category": "Platform",
+ "url": "https://code4rena.com",
+ "pricing": "Revenue share",
+ "useCase": "Competitive audits"
+ },
+ {
+ "name": "Sherlock",
+ "description": "Audit marketplace with insurance component.",
+ "category": "Platform",
+ "url": "https://www.sherlock.xyz",
+ "pricing": "Revenue share",
+ "useCase": "Audit competitions"
+ },
+ {
+ "name": "Immunefi",
+ "description": "Bug bounty platform for Web3. Find vulnerabilities for rewards.",
+ "category": "Platform",
+ "url": "https://immunefi.com",
+ "pricing": "Free",
+ "useCase": "Bug bounties"
+ },
+ {
+ "name": "Notion/Obsidian",
+ "description": "Note-taking tools for organizing findings and audit documentation.",
+ "category": "Productivity",
+ "url": "https://notion.so",
+ "pricing": "Free tier + Paid",
+ "useCase": "Audit documentation"
+ }
+ ]
+ },
+ {
+ "heading": "Reference and Research",
+ "description": "Resources for staying current and learning.",
+ "items": [
+ {
+ "name": "SWC Registry",
+ "description": "Smart Contract Weakness Classification. Standard vulnerability taxonomy.",
+ "category": "Reference",
+ "url": "https://swcregistry.io",
+ "pricing": "Free",
+ "useCase": "Vulnerability classification"
+ },
+ {
+ "name": "Rekt News",
+ "description": "Post-mortems of DeFi hacks. Essential reading for auditors.",
+ "category": "Reference",
+ "url": "https://rekt.news",
+ "pricing": "Free",
+ "useCase": "Hack analysis"
+ },
+ {
+ "name": "DeFiHackLabs",
+ "description": "Repository of exploit reproductions. Learn attack patterns hands-on.",
+ "category": "Reference",
+ "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+ "pricing": "Free",
+ "useCase": "Exploit learning"
+ },
+ {
+ "name": "Solodit",
+ "description": "Database of audit findings from public reports.",
+ "category": "Reference",
+ "url": "https://solodit.xyz",
+ "pricing": "Free",
+ "useCase": "Finding research"
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ {
+ "tip": "Run Slither first on every audit. It catches low-hanging fruit and gives you a codebase overview."
+ },
+ {
+ "tip": "Combine static analysis with fuzzing. Static tools find code patterns; fuzzers find edge cases."
+ },
+ {
+ "tip": "Reproduce past exploits to understand attack patterns. DeFiHackLabs is invaluable."
+ },
+ {
+ "tip": "Use Tenderly to trace live transactions when investigating suspicious behavior."
+ },
+ {
+ "tip": "Build your own checklist from audit reports. Solodit is a goldmine for this."
+ }
+ ]
+ }
 }

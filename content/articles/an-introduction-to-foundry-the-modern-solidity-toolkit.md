@@ -18,7 +18,7 @@ Foundry has emerged as a modern toolkit for Ethereum development, addressing key
 Foundry is a suite of command-line tools designed for Ethereum application development. Its main components include:
 
 - **Forge:** The core component that serves as a testing framework, enabling developers to write tests in Solidity. It also provides functionalities for compiling, deploying, and verifying contracts.
-  
+
 - **Cast:** A command-line utility that facilitates interaction with smart contracts. Developers can use Cast to send transactions, call functions, and retrieve data from the [blockchain](/what-is-a-blockchain) directly from the terminal.
 
 - **Anvil:** A local testnet node akin to Hardhat Network. Anvil offers a fast local blockchain environment for testing and development.
@@ -29,17 +29,17 @@ Foundry is a suite of command-line tools designed for Ethereum application devel
 
 Foundry provides several advantages, making it a compelling choice for Ethereum developers.
 
-1. **Solidity-Native Testing**  
-   Writing tests in Solidity instead of JavaScript offers many benefits:
-   - **No Context Switching:** Developers maintain a consistent language and mental model, enhancing development speed and intuitiveness.
-   - **Performance:** Tests run significantly faster in Foundry, executing directly in the Ethereum Virtual Machine (EVM) without the overhead of a JavaScript runtime.
-   - **Fuzz Testing:** Foundry supports fuzz testing, an automated process that generates random inputs to identify edge cases that could lead to failures. This capability strengthens security by rigorously testing smart contracts.
+1. **Solidity-Native Testing** 
+ Writing tests in Solidity instead of JavaScript offers many benefits:
+ - **No Context Switching:** Developers maintain a consistent language and mental model, enhancing development speed and intuitiveness.
+ - **Performance:** Tests run significantly faster in Foundry, executing directly in the Ethereum Virtual Machine (EVM) without the overhead of a JavaScript runtime.
+ - **Fuzz Testing:** Foundry supports fuzz testing, an automated process that generates random inputs to identify edge cases that could lead to failures. This capability strengthens security by rigorously testing smart contracts.
 
-2. **Speed and Efficiency**  
-   Built in Rust, Foundry is engineered for performance. The speed of compiling contracts and executing tests often surpasses that of JavaScript-based frameworks. Benchmarks indicate that Foundry can compile contracts significantly faster than Hardhat under similar conditions.
+2. **Speed and Efficiency** 
+ Built in Rust, Foundry is engineered for performance. The speed of compiling contracts and executing tests often surpasses that of JavaScript-based frameworks. Benchmarks indicate that Foundry can compile contracts significantly faster than Hardhat under similar conditions.
 
-3. **Portability and Simplicity**  
-   Foundry's command-line interface avoids the complexities associated with extensive JavaScript dependencies. As a result, it is easy to install and use across various development environments.
+3. **Portability and Simplicity** 
+ Foundry's command-line interface avoids the complexities associated with extensive JavaScript dependencies. As a result, it is easy to install and use across various development environments.
 
 ### Practical Example: Writing a Foundry Test
 
@@ -48,15 +48,15 @@ Consider a simple `Counter.sol` contract:
 ```solidity
 // src/Counter.sol
 contract Counter {
-    uint256 public number;
+ uint256 public number;
 
-    function setNumber(uint256 newNumber) public {
-        number = newNumber;
-    }
+ function setNumber(uint256 newNumber) public {
+ number = newNumber;
+ }
 
-    function increment() public {
-        number++;
-    }
+ function increment() public {
+ number++;
+ }
 }
 ```
 
@@ -68,22 +68,22 @@ import "forge-std/Test.sol";
 import "../src/Counter.sol";
 
 contract CounterTest is Test {
-    Counter public counter;
+ Counter public counter;
 
-    function setUp() public {
-        counter = new Counter();
-        counter.setNumber(0);
-    }
+ function setUp() public {
+ counter = new Counter();
+ counter.setNumber(0);
+ }
 
-    function testIncrement() public {
-        counter.increment();
-        assertEq(counter.number(), 1);
-    }
+ function testIncrement() public {
+ counter.increment();
+ assertEq(counter.number(), 1);
+ }
 
-    function testSetNumber(uint256 x) public {
-        counter.setNumber(x);
-        assertEq(counter.number(), x);
-    }
+ function testSetNumber(uint256 x) public {
+ counter.setNumber(x);
+ assertEq(counter.number(), x);
+ }
 }
 ```
 
@@ -103,17 +103,16 @@ To begin using Foundry, follow these steps:
 
 The following table summarizes the performance differences between Foundry and Hardhat based on various metrics:
 
-| Feature                   | Foundry                     | Hardhat                   |
+| Feature | Foundry | Hardhat |
 |---------------------------|----------------------------|---------------------------|
-| Compilation Speed         | Significantly faster       | Variable (depends on setup) |
-| Testing Speed             | Runs directly in the EVM   | Runs in a JavaScript runtime |
-| Fuzz Testing Support      | Built-in support           | Requires additional plugins |
-| Command-Line Interface     | Simple and intuitive       | More complex due to dependencies |
-| Local Testnet             | Anvil (fast local node)    | Hardhat Network (variable speed) |
+| Compilation Speed | Significantly faster | Variable (depends on setup) |
+| Testing Speed | Runs directly in the EVM | Runs in a JavaScript runtime |
+| Fuzz Testing Support | Built-in support | Requires additional plugins |
+| Command-Line Interface | Simple and intuitive | More complex due to dependencies |
+| Local Testnet | Anvil (fast local node) | Hardhat Network (variable speed) |
 
 ### Why Developers are Choosing Foundry
 
-The growing preference for Foundry among developers stems from its integration of testing and development processes. By allowing developers to remain within the Solidity environment, Foundry reduces the risk of errors that arise from context switching. Additionally, the high speed of execution and testing significantly improves productivity.
+The growing preference for Foundry among developers stems from its integration of testing and development processes. By allowing developers to remain within the Solidity environment, Foundry reduces the risk of errors that arise from context switching. the high speed of execution and testing significantly improves productivity.
 
 Also, the built-in fuzz testing capabilities enhance the security of smart contracts. Developers can identify vulnerabilities early in the development process, reducing the likelihood of issues in production. 
-

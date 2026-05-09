@@ -20,13 +20,13 @@ This article provides a detailed examination of Curve pools, the mechanics behin
 
 ### Key Insights
 
-| Aspect                | Description                                                                                                  |
+| Aspect | Description |
 |-----------------------|--------------------------------------------------------------------------------------------------------------|
-| **Core Function**     | Curve pools facilitate ultra-efficient trading of similarly priced assets, primarily focusing on stablecoin swaps. |
+| **Core Function** | Curve pools facilitate ultra-efficient trading of similarly priced assets, primarily focusing on stablecoin swaps. |
 | **The StableSwap Invariant** | Curve employs a unique bonding curve that combines constant product and constant sum formulas, resulting in a nearly flat curve around the target price, such as $1.00. |
-| **Key Benefits**      | The flat curve enables large trades with minimal price impact, significantly enhancing efficiency for stablecoin swaps compared to general-purpose AMMs. |
+| **Key Benefits** | The flat curve enables large trades with minimal price impact, significantly enhancing efficiency for stablecoin swaps compared to general-purpose AMMs. |
 | **LP Tokens and Gauge** | Providing liquidity to a Curve pool earns LP tokens, which can be staked in the "CRV Gauge" to earn CRV [token](/what-is-a-token) rewards, the governance token for Curve. |
-| **The "Curve Wars"**  | Curve's governance model allows veCRV holders to direct token emissions to specific pools, creating a competitive environment for protocols aiming to attract liquidity for their stablecoins. |
+| **The "Curve Wars"** | Curve's governance model allows veCRV holders to direct token emissions to specific pools, creating a competitive environment for protocols aiming to attract liquidity for their stablecoins. |
 
 ### The Shortcomings of General-Purpose AMMs for Stablecoins
 
@@ -40,8 +40,8 @@ As liquidity becomes dispersed throughout these ranges, even moderately sized tr
 
 Curve was specifically designed to address the inefficiencies present in traditional AMMs. Its founder, Michael Egorov, introduced the StableSwap invariant, a unique bonding curve that balances two mathematical models:
 
-1.  **Constant Sum Formula (`x + y = k`)**: This linear model allows for trading with zero slippage. However, it is unsustainable because a pool using this formula would rapidly deplete one asset if the price deviates from the peg.
-2.  **Constant Product Formula (`x * y = k`)**: This standard AMM curve provides liquidity across all prices but lacks capital efficiency.
+1. **Constant Sum Formula (`x + y = k`)**: This linear model allows for trading with zero slippage. However, it is unsustainable because a pool using this formula would rapidly deplete one asset if the price deviates from the peg.
+2. **Constant Product Formula (`x * y = k`)**: This standard AMM curve provides liquidity across all prices but lacks capital efficiency.
 
 The StableSwap invariant integrates these two models. When the pool remains balanced, meaning the prices are close to the peg, it behaves like a constant sum formula, allowing for an almost flat curve and minimal slippage. If the pool becomes unbalanced, the curve gradually transitions to resemble a constant product formula, ensuring that liquidity remains available even if one asset diverges significantly from its pegged price.
 
@@ -49,11 +49,11 @@ This design concentrates the majority of the pool's liquidity within a narrow ra
 
 ### Advantages of a Curve Pool
 
-| Benefit                      | Description                                                                                              |
+| Benefit | Description |
 |------------------------------|----------------------------------------------------------------------------------------------------------|
-| **Extremely Low Slippage**   | The concentrated liquidity around the target price allows traders to execute large stablecoin swaps with minimal price impact. |
-| **High Capital Efficiency**   | Liquidity providers (LPs) benefit from this concentration, as their capital is used more effectively, generating significant fees from high trading volumes without requiring large capital outlays. |
-| **Lower Impermanent Loss**    | The risk of impermanent loss is considerably reduced in stablecoin pools since the assets are designed to retain equal value. |
+| **Extremely Low Slippage** | The concentrated liquidity around the target price allows traders to execute large stablecoin swaps with minimal price impact. |
+| **High Capital Efficiency** | Liquidity providers (LPs) benefit from this concentration, as their capital is used more effectively, generating significant fees from high trading volumes without requiring large capital outlays. |
+| **Lower Impermanent Loss** | The risk of impermanent loss is considerably reduced in stablecoin pools since the assets are designed to retain equal value. |
 
 ### Types of Curve Pools
 
@@ -73,12 +73,11 @@ This governance structure has led to the emergence of the "Curve Wars." Other De
 
 ### Frequently Asked Questions (FAQ)
 
-**Is Curve only for stablecoins?**  
+**Is Curve only for stablecoins?** 
 While Curve is primarily recognized for stablecoin swaps, it also accommodates other pegged assets, including various wrapped Bitcoin versions (wBTC, renBTC) and liquid staking derivatives of ETH (stETH, rETH).
 
-**What risks are associated with providing liquidity to a Curve pool?**  
+**What risks are associated with providing liquidity to a Curve pool?** 
 While impermanent loss is relatively low in stablecoin pools, the primary risks involve [smart contract](/what-are-smart-contracts) vulnerabilities and the potential for one of the stablecoins to lose its peg. If a stablecoin, such as USDT, significantly de-pegs from $1, LPs in a pool containing USDT would incur losses as arbitrageurs drain the more valuable stablecoins.
 
-**What are Curve V2 pools?**  
+**What are Curve V2 pools?** 
 Curve V2 introduced an new algorithm tailored for volatile, uncorrelated assets, such as ETH/USDC. This version employs a dynamic peg and a form of concentrated liquidity that adjusts automatically, aiming to deliver a more efficient trading experience than Uniswap v3 for volatile pairs, while providing a more passive experience for LPs.
-

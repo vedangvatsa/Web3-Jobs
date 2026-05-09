@@ -22,9 +22,9 @@ The registration process for Proof of Humanity involves several distinct social 
 2. **Deposit Requirement**: Users must pay a deposit in ETH when submitting their profile. This deposit acts as a bond to deter spam and low-quality submissions.
 3. **Vouching Process**: To submit a profile, it must be "vouched for" by another registered individual on the list. This process creates a "web of trust," where existing members validate the humanity of new applicants.
 4. **Challenge Period**: After profile submission, a challenge period begins. During this time, anyone can challenge the registration if they suspect it is a duplicate, fake, or does not meet submission guidelines.
-   - Challengers must also put up a deposit.
-   - This triggers a dispute resolution process, where the case goes to a decentralized court (such as Kleros) for a ruling.
-   - If the challenger wins, they receive the submitter's deposit; if the submitter prevails, they receive the challenger's deposit.
+ - Challengers must also put up a deposit.
+ - This triggers a dispute resolution process, where the case goes to a decentralized court (such as Kleros) for a ruling.
+ - If the challenger wins, they receive the submitter's deposit; if the submitter prevails, they receive the challenger's deposit.
 5. **Final Registration**: If no challenges arise or if the user successfully addresses any challenges, their profile is accepted, and they are added to the Proof of Humanity registry. Their Ethereum address becomes linked to a verified, unique human identity.
 
 ### Use Cases for Proof of Humanity
@@ -74,11 +74,11 @@ Monitor your progress consistently. Are you observing positive results? Be prepa
 
 ### Real-World Examples
 
-| Name  | Role                          | Challenge Faced                              | Outcome Achieved                              |
+| Name | Role | Challenge Faced | Outcome Achieved |
 |-------|-------------------------------|----------------------------------------------|-----------------------------------------------|
 | Sarah | Developer at a blockchain startup | Struggled with identity verification processes | Implemented PoH strategies, resulting in a significant reduction in duplicate accounts within three months. |
-| Juan  | Product Manager in [DeFi](/what-is-defi) | Faced difficulty in ensuring fair governance | Adopted PoH for governance, leading to a successful implementation of "one person, one vote," enhancing engagement significantly. |
-| Maya  | Transitioning from Web2 to Web3 | Difficulty adapting to decentralized identity frameworks | Used PoH processes, successfully integrating within her new role, and contributing to improved project outcomes. |
+| Juan | Product Manager in [DeFi](/what-is-defi) | Faced difficulty in ensuring fair governance | Adopted PoH for governance, leading to a successful implementation of "one person, one vote," enhancing engagement significantly. |
+| Maya | Transitioning from Web2 to Web3 | Difficulty adapting to decentralized identity frameworks | Used PoH processes, successfully integrating within her new role, and contributing to improved project outcomes. |
 
 ### Common Mistakes to Avoid
 
@@ -90,18 +90,17 @@ Monitor your progress consistently. Are you observing positive results? Be prepa
 
 ### FAQ
 
-**Q: How long will it take to implement Proof of Humanity?**  
+**Q: How long will it take to implement Proof of Humanity?** 
 A: Most individuals see initial results within a few weeks of consistent application, with significant improvements typically observable within a couple of months. The timeline varies based on individual starting points, daily practice commitment, and active feedback-seeking. Professionals who track their progress, through metrics, peer feedback, or journaling, often achieve results more quickly than those who rely on passive observation.
 
-**Q: What if my workplace environment does not support these initiatives?**  
+**Q: What if my workplace environment does not support these initiatives?** 
 A: You can still find ways to implement changes. Start with small, self-contained actions that do not require organizational approval, such as personal projects or informal discussions with supportive colleagues. Document your progress and results to build momentum. If, after sustained effort, the environment remains unsupportive, consider seeking opportunities in organizations that prioritize employee development.
 
-**Q: How does Proof of Humanity specifically relate to Web3?**  
+**Q: How does Proof of Humanity specifically relate to Web3?** 
 A: Web3 organizations differ from traditional companies, emphasizing self-direction and collaboration in a flat structure. Teams often work remotely and globally, increasing the importance of written communication and asynchronous collaboration. The rapid pace of product cycles in Web3 requires agility and adaptability. Mastering these skills becomes essential for success in the space.
 
-**Q: Can I implement these strategies alongside my current role?**  
+**Q: Can I implement these strategies alongside my current role?** 
 A: Yes, this is the recommended approach. You do not need additional hours; instead, focus on intentional practice within your existing time. Identify a few strategies that align with your daily tasks and apply them consistently. The cumulative effect of small, deliberate improvements often surpasses sporadic large efforts.
 
-**Q: What resources can help me deepen my understanding?**  
+**Q: What resources can help me deepen my understanding?** 
 A: Engage with related articles for targeted insights, and consider finding mentors or peer groups who excel in this area. Observing their practices can provide insights beyond written resources. Participating in Web3 communities on platforms like Discord and Telegram can also connect you with practitioners willing to share their experiences.
-

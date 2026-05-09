@@ -27,17 +27,17 @@ Algiers' Web3 ecosystem is still developing, with several factors driving its gr
 
 The formal Web3 job market in Algiers is currently limited. The most significant opportunities lie in remote positions with international companies or entrepreneurial ventures aimed at establishing the first local Web3 startups.
 
-| **Role**                        | **Salary Range**                        | **Description**                                                                                                                                   |
+| **Role** | **Salary Range** | **Description** |
 |---------------------------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Full-Stack Developer (Remote)   | Significant monthly compensation        | Experienced software engineers who build blockchain-enabled applications. Mobile development skills are highly sought after.                       |
-| Full-Stack Developer (Local)    | Local market rates                      | Local positions for developers, typically offering lower salaries compared to remote opportunities.                                               |
-| Community Managers               | Significant monthly compensation        | Trilingual professionals managing communities and creating content for local and international audiences.                                          |
-| Entrepreneurs and Founders      | Variable                               | Individuals with a strong vision can attract investment from regional and international venture capitalists.                                       |
+| Full-Stack Developer (Remote) | Significant monthly compensation | Experienced software engineers who build blockchain-enabled applications. Mobile development skills are highly sought after. |
+| Full-Stack Developer (Local) | Local market rates | Local positions for developers, typically offering lower salaries compared to remote opportunities. |
+| Community Managers | Significant monthly compensation | Trilingual professionals managing communities and creating content for local and international audiences. |
+| Entrepreneurs and Founders | Variable | Individuals with a strong vision can attract investment from regional and international venture capitalists. |
 
 ### Building a Web3 Career in Algiers
 
 1. **Educate and Build Community:** In a nascent market, early movers who prioritize education can become leaders. Consider starting a blog, YouTube channel, or local meetup group. Create content in Arabic and French that clarifies Web3 concepts. This approach will enhance your reputation and expand your network.
-   
+
 2. **Address Local Challenges:** In your [portfolio](/building-web3-portfolio), focus on projects that tackle specific problems faced by Algerians. This could involve developing a decentralized app for tontine-style savings ("El Moudaoula"), a tool to simplify cross-border payments from Europe, or a platform enabling local artists to mint [NFTs](/what-are-nfts). Such projects demonstrate your understanding of the local context.
 
 3. **Develop a Strong Online Profile:** Most lucrative positions will be remote, making your online presence critical. Build a compelling GitHub portfolio, maintain a polished LinkedIn profile, and engage as an insightful voice on Twitter. Competing on a global scale is essential for your success.
@@ -68,12 +68,12 @@ The formal Web3 job market in Algiers is currently limited. The most significant
 - Complete Alchemy University's Web3 Developer program.
 - Build a trading bot using the Uniswap API and deploy it on Polygon.
 - Create your first public portfolio project focused on a simple [DeFi](/what-is-defi) aggregator.
-  
+
 **Specialization & Job Search (Months 4-8):**
 - Focus on Solidity security and audit a public contract.
 - Develop a production-quality project, such as a mobile [wallet](/how-to-choose-a-crypto-wallet) interface for DeFi.
 - Apply to numerous remote Web3 companies and engage in hackathons.
-  
+
 **Senior Specialization (Months 9-16):**
 - Contribute to major protocols and establish a reputation for optimizing mobile UX.
 - Transition to a full-time senior role or a founding opportunity in a startup.
@@ -107,7 +107,7 @@ The formal Web3 job market in Algiers is currently limited. The most significant
 
 **Hands-On Auditing (Months 5-8):**
 - Participate in competitive audits and responsibly disclose vulnerabilities.
-  
+
 **Specialize in MENA/FinTech (Months 9-12):**
 - Audit regional FinTech blockchain projects and become recognized for your expertise.
 

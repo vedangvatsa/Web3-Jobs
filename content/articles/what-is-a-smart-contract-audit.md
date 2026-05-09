@@ -25,10 +25,10 @@ Smart contract audits follow a structured methodology to guarantee thorough cove
 2. **Automated Analysis:** Auditors initiate the process by using automated tools. Static analysis tools examine the source code for known vulnerabilities, such as reentrancy bugs, integer overflows, or deprecated functions. This preliminary scan helps identify straightforward issues, allowing manual reviews to concentrate on more complex problems.
 
 3. **Manual Code Review:** This phase is the most time-consuming and vital part of the audit. Security researchers analyze the codebase line by line, looking for bugs while also assessing the overall design, logic, and economic assumptions. They investigate issues like:
-   * **Access Control Flaws:** Are unauthorized users able to call privileged functions?
-   * **Logic Errors:** Does the code accurately implement intended business logic across all scenarios?
-   * **Economic Exploits:** Can economic incentives be manipulated through methods like flash loan attacks or oracle manipulation?
-   * **Gas Optimization:** Is the code efficient enough to minimize transaction costs for users?
+ * **Access Control Flaws:** Are unauthorized users able to call privileged functions?
+ * **Logic Errors:** Does the code accurately implement intended business logic across all scenarios?
+ * **Economic Exploits:** Can economic incentives be manipulated through methods like flash loan attacks or oracle manipulation?
+ * **Gas Optimization:** Is the code efficient enough to minimize transaction costs for users?
 
 4. **Finding Classification and Reporting:** As vulnerabilities are identified, they are categorized based on severity, often using a scale of Critical, High, Medium, Low, or Informational. The audit team compiles a report, which includes an executive summary, a technical breakdown of each finding, proof-of-concept demonstrations (if applicable), and actionable recommendations for addressing the issues.
 
@@ -80,14 +80,14 @@ Smart contract audits play a vital role in the security of blockchain projects. 
 
 Below is a concise table outlining the smart contract audit process, including the typical duration and primary focus areas:
 
-| **Phase**                     | **Duration**          | **Primary Focus**                                        |
+| **Phase** | **Duration** | **Primary Focus** |
 |-------------------------------|----------------------|---------------------------------------------------------|
-| Scoping and Preparation       | 1-2 weeks            | Understanding project architecture and documentation     |
-| Automated Analysis            | 1 week               | Identifying basic vulnerabilities using tools            |
-| Manual Code Review            | 2-4 weeks            | In-depth examination of code, logic, and economic models |
-| Finding Classification        | 1 week               | Categorizing vulnerabilities based on severity           |
-| Remediation and Verification   | 1-2 weeks            | Ensuring fixes have been implemented correctly           |
-| Final Report Publication      | 1 week               | Public disclosure of audit findings                      |
+| Scoping and Preparation | 1-2 weeks | Understanding project architecture and documentation |
+| Automated Analysis | 1 week | Identifying basic vulnerabilities using tools |
+| Manual Code Review | 2-4 weeks | In-depth examination of code, logic, and economic models |
+| Finding Classification | 1 week | Categorizing vulnerabilities based on severity |
+| Remediation and Verification | 1-2 weeks | Ensuring fixes have been implemented correctly |
+| Final Report Publication | 1 week | Public disclosure of audit findings |
 
 ### Best Practices for Projects
 

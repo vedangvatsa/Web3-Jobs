@@ -19,23 +19,23 @@ The emergence of [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) t
 Tokenizing a real-world property involves a combination of legal structuring and technical implementation. Here are the steps involved:
 
 1. **Special Purpose Vehicle (SPV):** The first step involves placing the physical property into a legal entity, commonly a Special Purpose Vehicle (SPV), such as a limited liability company (LLC). This entity holds the title to the asset.
-   
+
 2. **Tokenization:** Ownership rights of the LLC, or its equity, are digitized and represented as cryptographic tokens on a blockchain. For instance, ownership of a commercial building can be represented by tokens, each valued at a fractional amount.
-   
+
 3. **Fractional Ownership:** Investors can purchase these tokens, allowing for fractional ownership. Instead of needing millions to invest in a building, individuals can buy a small share for a few hundred or thousand dollars.
-   
+
 4. **Secondary Market Liquidity:** Tokens can be traded on secondary markets, including decentralized exchanges (DEXs). This provides a level of liquidity that traditional real estate lacks, making the sale of a property share as straightforward as selling a stock.
 
 ### Emerging Career Paths in Web3 Real Estate
 
 The tokenization of real estate requires professionals who possess knowledge in both real estate finance and blockchain technology.
 
-| **Career Path**                       | **Responsibilities**                                                                 | **Skills Required**                                                             |
+| **Career Path** | **Responsibilities** | **Skills Required** |
 |---------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Real Estate Tokenization Platform Developer | Build platforms that facilitate the tokenization lifecycle.                        | Proficient in smart contracts, token standards (e.g., ERC-3643), backend systems.|
-| Legal & Compliance Specialist (RWA Focus)  | Structure the legal SPV and ensure compliance with securities regulations.          | Background in real estate or securities law and understanding of digital assets.|
-| Asset Manager (Tokenized Properties)       | Manage physical properties and report to token holders.                          | Traditional property management skills with tech proficiency.                  |
-| DeFi Integration Specialist (Collateral Onboarding) | Ensure tokenized properties can be used as collateral in DeFi lending protocols. | Knowledge of real estate valuation and DeFi risk management.                   |
+| Real Estate Tokenization Platform Developer | Build platforms that facilitate the tokenization lifecycle. | Proficient in smart contracts, token standards (e.g., ERC-3643), backend systems.|
+| Legal & Compliance Specialist (RWA Focus) | Structure the legal SPV and ensure compliance with securities regulations. | Background in real estate or securities law and understanding of digital assets.|
+| Asset Manager (Tokenized Properties) | Manage physical properties and report to token holders. | Traditional property management skills with tech proficiency. |
+| DeFi Integration Specialist (Collateral Onboarding) | Ensure tokenized properties can be used as collateral in DeFi lending protocols. | Knowledge of real estate valuation and DeFi risk management. |
 
 **Real Estate Tokenization Platform Developer**
 These professionals design and build the platforms that handle the entire tokenization lifecycle.
@@ -62,4 +62,3 @@ This role maximizes the utility of tokenized real estate within the broader DeFi
 The tokenization of real estate is still in its infancy. Significant challenges remain, including regulatory uncertainty, establishing reliable on-chain valuations, and building trust within a conservative industry.
 
 The potential benefits of this transformation are substantial. Tokenization can democratize access to real estate, making it more fractional, liquid, and transparent. As technology and regulatory frameworks advance, the combination of property and protocols is likely to become a significant driver of job growth, offering high-value opportunities for professionals fluent in both real estate and decentralization.
-

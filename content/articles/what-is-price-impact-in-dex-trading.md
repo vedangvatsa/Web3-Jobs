@@ -20,13 +20,13 @@ This article details the nature of price impact, its causes, differences from sl
 
 ### Key Insights
 
-| Aspect                     | Description                                                                 |
+| Aspect | Description |
 |----------------------------|-----------------------------------------------------------------------------|
-| **Definition**             | The effect of a trade on the price of an asset within an AMM pool.        |
-| **Cause**                  | Changes in the asset ratio in a liquidity pool due to trade size.         |
-| **Liquidity Influence**     | Greater liquidity results in lower price impact for a given trade size.   |
+| **Definition** | The effect of a trade on the price of an asset within an AMM pool. |
+| **Cause** | Changes in the asset ratio in a liquidity pool due to trade size. |
+| **Liquidity Influence** | Greater liquidity results in lower price impact for a given trade size. |
 | **Price Impact vs. Slippage** | Price impact is predictable; slippage is uncertain and depends on other trades. |
-| **Warning Indicators**      | A price impact exceeding 1-2% signals potential poor execution prices.    |
+| **Warning Indicators** | A price impact exceeding 1-2% signals potential poor execution prices. |
 
 ### Mechanics of AMMs and Price Impact
 
@@ -54,7 +54,7 @@ The new state of the pool:
 
 The updated price of ETH becomes new total / 9.
 
-This transaction illustrates price impact: the trader's purchase elevated the price from the initial price to a higher price. In reality, the trader would experience an average price between these two figures, invariably worse than the initial market price.
+This transaction illustrates price impact: the trader's purchase improve the price from the initial price to a higher price. In reality, the trader would experience an average price between these two figures, invariably worse than the initial market price.
 
 ### Importance of Liquidity
 
@@ -89,16 +89,16 @@ To manage price impact, traders can adjust their trade size, while slippage risk
 
 ### Frequently Asked Questions (FAQ)
 
-**Is price impact a fee?**  
+**Is price impact a fee?** 
 No, price impact is not a fee paid to the protocol or liquidity providers. It results from AMM mechanics, reflecting a cost to the trader through altered asset ratios in the pool.
 
-**Why do DEXs issue warnings for high price impact?**  
+**Why do DEXs issue warnings for high price impact?** 
 These warnings serve to protect users from poor trade execution. A high price impact indicates unfavorable trading conditions, potentially attracting **[front-running](/what-is-frontrunning-in-defi-trading)** bots that can exploit your trade.
 
-**Can price impact be positive?**  
+**Can price impact be positive?** 
 No, price impact is inherently negative. A significant buy order increases the price, while a large sell order decreases it, both leading to unfavorable conditions for the trader.
 
-**How does Concentrated Liquidity (Uniswap v3) affect price impact?**  
+**How does Concentrated Liquidity (Uniswap v3) affect price impact?** 
 **[Concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap)** allows for deeper liquidity around the current market price. This results in significantly lower price impact for trades within the active liquidity range compared to prior versions.
 
 ### Importance of Understanding Price Impact
@@ -116,4 +116,3 @@ Grasping price impact is vital for professionals in the Web3 space. Mastering th
 4. **Implement Changes Gradually**: Avoid overwhelming yourself with simultaneous changes. Focus on small, incremental improvements, tracking outcomes to refine your strategy.
 
 5. **Continuously Monitor and Adapt**: Regularly evaluate your trading performance. Use feedback to make necessary adjustments, building a mindset geared toward continuous improvement.
-

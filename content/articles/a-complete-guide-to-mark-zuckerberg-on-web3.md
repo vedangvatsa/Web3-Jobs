@@ -22,7 +22,7 @@ In October 2021, Zuckerberg announced Facebook's rebranding to **Meta**. This ch
 Several factors motivated this rebranding:
 
 1. **The Next Computing Platform**: Zuckerberg envisions the metaverse as an immersive, 3D version of the internet, positioning it as the successor to mobile technology. He aims for Meta to control both the hardware (VR/AR headsets) and software (key platforms) of this era, reducing reliance on tech giants like Apple and Google that dominate the mobile sector.
-   
+
 2. **Escaping the Social Media Trap**: Facebook faced increasing scrutiny and criticism regarding data privacy, misinformation, and content moderation. The rebranding serves to distance Meta from its controversial social media history and reframe its identity around future technological ambitions.
 
 3. **The Threat of Decentralized Web3**: Zuckerberg recognizes the challenges posed by a decentralized, user-owned Web3, which threatens his centralized, advertisement-driven business model. By creating a proprietary metaverse, he seeks to influence the narrative and establish a "walled garden" version of the metaverse before decentralized alternatives gain widespread traction.
@@ -36,7 +36,7 @@ Zuckerberg's metaverse vision diverges sharply from that of the Web3 community. 
 Meta's strategy hinges on controlling the hardware that connects users to the metaverse. The company has committed significant resources to its Reality Labs division, developing the Oculus (now Meta Quest) line of VR headsets and researching future AR glasses.
 
 - **Why Hardware is Key**: Owning the hardware allows Meta to dictate the operating system, app store, and overall user experience. This control enables Meta to set platform rules and take a percentage of all transactions, akin to Apple's model with its App Store.
-  
+
 - **Subsidizing Adoption**: Meta has heavily subsidized the Quest headsets, often selling them at or below cost. This strategy aims to place as many devices as possible in consumers' hands, building a substantial user base before competitors can gain traction.
 
 ### 2. Horizon Worlds: The Flagship Application
@@ -55,11 +55,10 @@ Zuckerberg emphasizes the concept of "social presence", the sensation of truly b
 
 Meta's vision for the metaverse fundamentally contradicts the principles of the Web3 movement. The following table outlines these differences clearly:
 
-| Feature            | Meta's Centralized Metaverse                   | Web3's Decentralized Metaverse                       |
+| Feature | Meta's Centralized Metaverse | Web3's Decentralized Metaverse |
 |--------------------|------------------------------------------------|-----------------------------------------------------|
-| **Ownership**      | Assets exist in Meta's database; Meta retains ultimate control. | Assets are NFTs on a public [blockchain](/what-is-a-blockchain); users have genuine ownership. |
-| **Identity**       | Tied to a Meta account (e.g., Facebook or Instagram). | Based on a self-sovereign [wallet](/how-to-choose-a-crypto-wallet) address or decentralized ID (DID). |
+| **Ownership** | Assets exist in Meta's database; Meta retains ultimate control. | Assets are NFTs on a public [blockchain](/what-is-a-blockchain); users have genuine ownership. |
+| **Identity** | Tied to a Meta account (e.g., Facebook or Instagram). | Based on a self-sovereign [wallet](/how-to-choose-a-crypto-wallet) address or decentralized ID (DID). |
 | **Interoperability** | "Walled Garden" - assets are confined to Meta's platform. | Open and permissionless; assets can move freely across different virtual worlds and marketplaces. |
-| **Governance**     | Centralized control by Meta, which establishes all rules. | Community governance often facilitated through [DAOs](/what-is-a-dao). |
-| **Economics**      | Elevated take rates that favor the platform owner. | Minimal platform fees and royalties, benefiting creators and users. |
-
+| **Governance** | Centralized control by Meta, which establishes all rules. | Community governance often facilitated through [DAOs](/what-is-a-dao). |
+| **Economics** | improve take rates that favor the platform owner. | Minimal platform fees and royalties, benefiting creators and users. |

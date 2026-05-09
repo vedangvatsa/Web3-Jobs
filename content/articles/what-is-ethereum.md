@@ -30,7 +30,7 @@ In September 2022, Ethereum achieved a significant milestone with "The Merge," t
 
 In a Proof-of-Stake system, validators stake ETH to secure the network instead of relying on energy-consuming mining. Honest validators receive rewards in ETH, while malicious actors risk losing their staked ETH. This framework incentivizes ethical network participation.
 
-This shift resulted in substantial benefits. Ethereum's energy consumption significantly decreased, making it more environmentally sustainable. Network security improved, as attacking the network now necessitated owning a substantial amount of ETH rather than merely possessing mining equipment. Additionally, this transition paved the way for upgrades that were previously unattainable.
+This shift resulted in substantial benefits. Ethereum's energy consumption significantly decreased, making it more environmentally sustainable. Network security improved, as attacking the network now necessitated owning a substantial amount of ETH rather than merely possessing mining equipment. this transition paved the way for upgrades that were previously unattainable.
 
 ## Scaling Ethereum: The Layer 2 Ecosystem
 
@@ -58,7 +58,7 @@ Ethereum's development is ongoing, with several major upgrades outlined in its c
 
 - **Danksharding**: This upgrade aims to enhance Layer 2 rollups by increasing their efficiency in storing data on Ethereum. Instead of relying on costly blockspace for transaction data, rollups will use a new "blob" storage mechanism that significantly reduces expenses.
 
-- **Account Abstraction**: This initiative seeks to simplify user interactions with Ethereum. Currently, users must manage private keys, seed phrases, and complex wallet operations. Account abstraction aims to streamline these processes, making Ethereum more accessible to everyday users.
+- **Account Abstraction**: This initiative seeks to simplify user interactions with Ethereum. Currently, users must manage private keys, seed phrases, and complex wallet operations. Account abstraction aims to simplify these processes, making Ethereum more accessible to everyday users.
 
 - **Proposer-Builder Separation (PBS) and Maximal Extractable Value (MEV)**: These solutions focus on transaction ordering and profit distribution, addressing critical technical issues that impact the network's long-term health.
 
@@ -86,5 +86,4 @@ Ethereum faces criticisms that professionals should consider when contemplating 
 
 Ethereum serves as the foundational platform for Web3. It supports the majority of Web3 applications, making it a valuable skill for developers in the blockchain field. 
 
-Investing time in Ethereum knowledge yields significant dividends. The technical challenges are real and engaging, compensation is competitive, and professionals work on transformative projects with the potential to reshape the global financial sector.
-
+Investing time in Ethereum knowledge yields significant dividends. The technical challenges are real and engaging, compensation is competitive, and professionals work on significant projects with the potential to reshape the global financial sector.

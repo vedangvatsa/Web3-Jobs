@@ -30,13 +30,13 @@ Avoid simply assembling team members from various departments without a structur
 
 The project charter should be a living document encompassing:
 
-| Element              | Description                                                 |
+| Element | Description |
 |---------------------|-------------------------------------------------------------|
-| **The Goal**        | The North Star metric defined earlier.                     |
-| **The Team**        | A list of all team members and their roles, including the DRI. |
-| **The Scope**       | Define what the project includes and excludes.             |
+| **The Goal** | The North Star metric defined earlier. |
+| **The Team** | A list of all team members and their roles, including the DRI. |
+| **The Scope** | Define what the project includes and excludes. |
 | **The Communication Plan** | Outline communication methods, meeting frequency, and how progress will be reported to stakeholders. |
-| **The Timeline**    | Key milestones and the target completion date.             |
+| **The Timeline** | Key milestones and the target completion date. |
 
 ### 3. Speak a Common Language
 
@@ -125,18 +125,17 @@ The relevance of these skills increases at each career level:
 
 ### FAQ
 
-**Can these skills be taught or are they innate?**  
+**Can these skills be taught or are they innate?** 
 All of these skills can be cultivated through intentional practice. While some individuals may possess natural advantages, training and experience play a more important role.
 
-**How do I know I'm improving?**  
+**How do I know I'm improving?** 
 Set specific, measurable goals. Assess your progress through projects, feedback from peers, and your success rate in various tasks.
 
-**What time commitment is necessary?**  
+**What time commitment is necessary?** 
 Allocate 5-10 hours weekly for skill development. With consistent effort, you can achieve noticeable improvement within a few months.
 
-**How do I apply these skills in my current role?**  
+**How do I apply these skills in my current role?** 
 Start small by focusing on one skill each month. Integrate it into your daily work routine and seek feedback for improvement.
 
-**Are these skills relevant in Web3?**  
+**Are these skills relevant in Web3?** 
 Yes, these competencies are even more important in Web3 due to the need for clear communication and collaboration within distributed teams.
-

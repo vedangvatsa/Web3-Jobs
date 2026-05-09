@@ -55,4 +55,3 @@ Digital creators face ongoing challenges in protecting their intellectual proper
 **Real-World Example:** An artist sells an [NFT](/what-are-nfts), with a smart contract stipulating that every resale on a secondary market earns the artist a percentage of the sale price. This structure creates a continuous revenue stream for the creator.
 
 ### Key Opportunities in Web3
-

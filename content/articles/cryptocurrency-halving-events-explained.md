@@ -20,13 +20,13 @@ In a Proof-of-Work blockchain like Bitcoin, miners receive rewards for securing 
 
 **Bitcoin Halving History:**
 
-| Year | Event               | Block Reward  |
+| Year | Event | Block Reward |
 |------|---------------------|---------------|
-| 2009 | Genesis Block       | 50 BTC        |
-| 2012 | First Halving       | 25 BTC        |
-| 2016 | Second Halving      | 12.5 BTC      |
-| 2020 | Third Halving       | 6.25 BTC      |
-| 2024 | Fourth Halving      | 3.125 BTC     |
+| 2009 | Genesis Block | 50 BTC |
+| 2012 | First Halving | 25 BTC |
+| 2016 | Second Halving | 12.5 BTC |
+| 2020 | Third Halving | 6.25 BTC |
+| 2024 | Fourth Halving | 3.125 BTC |
 
 This process will continue until 2140, when all 21 million Bitcoins will be mined. Post-2140, miners will only earn transaction fees as rewards.
 
@@ -47,4 +47,3 @@ Not all cryptocurrencies incorporate halving events. Halving is a characteristic
 Cryptocurrencies using a Proof-of-Stake consensus mechanism, like [Ethereum](/what-is-ethereum), do not involve mining or halvings. Their supply is regulated by different parameters governing [staking](/how-to-become-a-web3-staking-specialist) rewards and, in Ethereum's case, a **[fee-burning mechanism](/what-is-burning-tokens-in-cryptocurrency)** that can lead to deflation during high network activity periods.
 
 The halving mechanism effectively creates digital scarcity, making Bitcoin a distinct financial asset and a significant driver of the market cycles that shape the cryptocurrency space.
-

@@ -28,7 +28,7 @@ He champions Dogecoin for its low transaction fees and high throughput compared 
 
 ### The Role of Community and Memes
 
-Musk's enthusiasm for Dogecoin highlights his understanding of a vital Web3 principle: the strength of community and cultural narratives. Dogecoin's value is not rooted in technical sophistication but rather in its vibrant community. Musk recognizes that for a currency to gain popular acceptance, it must be approachable and culturally relevant. His "Doge to the Moon" tweets, while lighthearted, tap into the community-driven value creation that is essential in Web3.
+Musk's enthusiasm for Dogecoin highlights his understanding of a vital Web3 principle: the strength of community and cultural narratives. Dogecoin's value is not rooted in technical sophistication but rather in its active community. Musk recognizes that for a currency to gain popular acceptance, it must be approachable and culturally relevant. His "Doge to the Moon" tweets, while lighthearted, tap into the community-driven value creation that is essential in Web3.
 
 ## Bitcoin and Environmental Concerns
 
@@ -52,11 +52,11 @@ Musk's vision for X provides insight into his thinking. He aims to transform the
 
 This vision shares some commonalities with Web3 ideals:
 
-| **Web3 Ideal**             | **X Vision Element**                  |
+| **Web3 Ideal** | **X Vision Element** |
 |----------------------------|---------------------------------------|
-| Creator Monetization        | Helping creators to monetize content directly |
-| Freedom of Speech          | Advocating for "free speech absolutism" |
-| Payments Integration        | Integrating payments into the app     |
+| Creator Monetization | Helping creators to monetize content directly |
+| Freedom of Speech | Advocating for "free speech absolutism" |
+| Payments Integration | Integrating payments into the app |
 
 However, Musk's approach remains fundamentally centralized. The "everything app" would be under the control of X Corp, contrasting sharply with the Web3 ideal of a decentralized ecosystem composed of interoperable protocols. Musk appears to believe that a centralized approach can deliver a superior user experience and support faster innovation, even if it incorporates features reminiscent of Web3. Essentially, he is creating a walled garden with some decentralized elements.
 
@@ -75,4 +75,3 @@ His philosophy can be summarized as follows:
 4. **Support for Centralized Solutions:** His vision for X indicates he believes a centralized platform can provide a better user experience, even while borrowing concepts from Web3.
 
 Musk is not idly waiting for a decentralized future; he is actively shaping his interpretation of it. His approach does not align with the principles of a Web3 purist but reflects a pragmatism willing to adopt both centralized and decentralized tools to further human progress. His critical engagement ensures he remains a significant and unpredictable figure influencing the future of the internet.
-

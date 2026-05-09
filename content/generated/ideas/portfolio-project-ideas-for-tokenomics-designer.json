@@ -1,293 +1,293 @@
 {
-  "meta": {
-    "contentType": "ideas",
-    "topic": "portfolio",
-    "niche": "tokenomics-designer",
-    "generatedAt": "2026-03-13T00:00:00.000Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "35 Portfolio Project Ideas for Tokenomics Designers",
-    "description": "Discover portfolio project ideas for tokenomics designers. From economic models to incentive design, build a portfolio that demonstrates token economics expertise.",
-    "keywords": ["tokenomics-designer", "portfolio", "token-economics", "incentives", "DeFi"],
-    "canonicalSlug": "portfolio-project-ideas-for-tokenomics-designer"
-  },
-  "content": {
-    "intro": "Tokenomics design requires understanding economics, game theory, and mechanism design. These projects help you demonstrate token economics expertise through analysis and original design work.",
-    "sections": [
-      {
-        "heading": "Token Analysis Projects",
-        "description": "Analyze existing tokenomics to demonstrate understanding.",
-        "items": [
-          {
-            "title": "Token Comparative Analysis",
-            "description": "Compare tokenomics of competing protocols. Analyze strengths and weaknesses.",
-            "difficulty": "intermediate",
-            "skills": ["Research", "analysis", "comparative frameworks"],
-            "estimatedTime": "2-3 weeks"
-          },
-          {
-            "title": "Failed Tokenomics Post-mortem",
-            "description": "Analyze why specific token models failed. Terra, Olympus forks, etc.",
-            "difficulty": "intermediate",
-            "skills": ["Post-mortem analysis", "failure modes", "lessons learned"],
-            "estimatedTime": "2 weeks"
-          },
-          {
-            "title": "Emission Schedule Analysis",
-            "description": "Analyze and compare emission schedules across protocols.",
-            "difficulty": "intermediate",
-            "skills": ["Emission modeling", "inflation analysis", "visualization"],
-            "estimatedTime": "2 weeks"
-          },
-          {
-            "title": "Governance Token Value Accrual",
-            "description": "Study how different governance tokens accrue (or fail to accrue) value.",
-            "difficulty": "intermediate",
-            "skills": ["Value analysis", "governance mechanics", "token utility"],
-            "estimatedTime": "2-3 weeks"
-          },
-          {
-            "title": "veToken Model Comparison",
-            "description": "Compare implementations of the veToken model across protocols.",
-            "difficulty": "intermediate",
-            "skills": ["veToken mechanics", "lock dynamics", "comparison"],
-            "estimatedTime": "2 weeks"
-          },
-          {
-            "title": "Protocol Revenue Analysis",
-            "description": "Analyze protocol revenue and how it flows to token holders.",
-            "difficulty": "intermediate",
-            "skills": ["Revenue analysis", "fee mechanics", "value distribution"],
-            "estimatedTime": "2-3 weeks"
-          }
-        ]
-      },
-      {
-        "heading": "Economic Modeling",
-        "description": "Build models to simulate token economics.",
-        "items": [
-          {
-            "title": "Token Supply Model",
-            "description": "Build a model simulating token supply over time with emissions and burns.",
-            "difficulty": "intermediate",
-            "skills": ["Modeling", "spreadsheets", "simulation"],
-            "estimatedTime": "2-3 weeks"
-          },
-          {
-            "title": "Liquidity Mining Simulator",
-            "description": "Model the dynamics of liquidity mining programs.",
-            "difficulty": "intermediate",
-            "skills": ["Incentive modeling", "yield dynamics", "simulation"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "Staking Economics Model",
-            "description": "Model staking participation, APY, and network security tradeoffs.",
-            "difficulty": "intermediate",
-            "skills": ["Staking mechanics", "security modeling", "economics"],
-            "estimatedTime": "2-3 weeks"
-          },
-          {
-            "title": "Token Buyback Model",
-            "description": "Model the effect of buyback programs on token price and supply.",
-            "difficulty": "intermediate",
-            "skills": ["Buyback mechanics", "price modeling", "treasury management"],
-            "estimatedTime": "2 weeks"
-          },
-          {
-            "title": "Inflation vs Deflation Scenarios",
-            "description": "Model different inflation/deflation scenarios and their effects.",
-            "difficulty": "intermediate",
-            "skills": ["Economic scenarios", "sensitivity analysis", "modeling"],
-            "estimatedTime": "2 weeks"
-          },
-          {
-            "title": "Agent-based Token Simulation",
-            "description": "Build an agent-based model simulating participant behavior.",
-            "difficulty": "advanced",
-            "skills": ["Agent-based modeling", "Python", "behavioral economics"],
-            "estimatedTime": "6 weeks"
-          }
-        ]
-      },
-      {
-        "heading": "Original Tokenomics Design",
-        "description": "Design token models for hypothetical protocols.",
-        "items": [
-          {
-            "title": "DeFi Protocol Token Design",
-            "description": "Design complete tokenomics for a hypothetical DeFi protocol.",
-            "difficulty": "advanced",
-            "skills": ["Token design", "incentive alignment", "documentation"],
-            "estimatedTime": "4-6 weeks"
-          },
-          {
-            "title": "GameFi Economy Design",
-            "description": "Design a sustainable dual-token economy for a blockchain game.",
-            "difficulty": "advanced",
-            "skills": ["Game economics", "sustainability", "sink design"],
-            "estimatedTime": "4-6 weeks"
-          },
-          {
-            "title": "DAO Treasury Token",
-            "description": "Design a token model focused on DAO treasury management.",
-            "difficulty": "intermediate",
-            "skills": ["Treasury mechanics", "governance", "value accrual"],
-            "estimatedTime": "3-4 weeks"
-          },
-          {
-            "title": "NFT Collection Tokenomics",
-            "description": "Design tokenomics for an NFT project with utility and governance.",
-            "difficulty": "intermediate",
-            "skills": ["NFT utility", "community tokens", "royalties"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "Layer 2 Token Design",
-            "description": "Design tokenomics for a hypothetical Layer 2 rollup.",
-            "difficulty": "advanced",
-            "skills": ["L2 economics", "sequencer incentives", "fee distribution"],
-            "estimatedTime": "4-6 weeks"
-          },
-          {
-            "title": "Real World Asset Token",
-            "description": "Design tokenomics for a real-world asset protocol.",
-            "difficulty": "advanced",
-            "skills": ["RWA mechanics", "yield distribution", "compliance"],
-            "estimatedTime": "4 weeks"
-          }
-        ]
-      },
-      {
-        "heading": "Incentive Design",
-        "description": "Focus on incentive alignment problems.",
-        "items": [
-          {
-            "title": "Liquidity Bootstrap Design",
-            "description": "Design a liquidity bootstrapping mechanism for a new protocol.",
-            "difficulty": "intermediate",
-            "skills": ["Bootstrap mechanics", "fair launch", "liquidity"],
-            "estimatedTime": "2-3 weeks"
-          },
-          {
-            "title": "Anti-vampire Attack Mechanism",
-            "description": "Design defenses against liquidity vampire attacks.",
-            "difficulty": "advanced",
-            "skills": ["Attack analysis", "defense mechanisms", "game theory"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "Bribing Economics Analysis",
-            "description": "Analyze the economics of governance bribing (Votium, Hidden Hand).",
-            "difficulty": "intermediate",
-            "skills": ["Bribe mechanics", "governance markets", "analysis"],
-            "estimatedTime": "2 weeks"
-          },
-          {
-            "title": "Points Program Design",
-            "description": "Design a points program that transitions to tokens effectively.",
-            "difficulty": "intermediate",
-            "skills": ["Points mechanics", "Sybil resistance", "fair distribution"],
-            "estimatedTime": "2-3 weeks"
-          },
-          {
-            "title": "Referral Incentive Design",
-            "description": "Design referral incentives that grow without gaming.",
-            "difficulty": "intermediate",
-            "skills": ["Referral mechanics", "anti-gaming", "growth"],
-            "estimatedTime": "2 weeks"
-          }
-        ]
-      },
-      {
-        "heading": "Tools and Resources",
-        "description": "Build tools for tokenomics analysis.",
-        "items": [
-          {
-            "title": "Token Analysis Framework",
-            "description": "Create a framework for systematically analyzing any tokenomics.",
-            "difficulty": "intermediate",
-            "skills": ["Framework design", "documentation", "analysis"],
-            "estimatedTime": "3 weeks"
-          },
-          {
-            "title": "Emission Calculator",
-            "description": "Build a calculator for modeling token emissions over time.",
-            "difficulty": "intermediate",
-            "skills": ["Spreadsheets", "modeling", "visualization"],
-            "estimatedTime": "2 weeks"
-          },
-          {
-            "title": "Tokenomics Checklist",
-            "description": "Create a comprehensive checklist for evaluating tokenomics.",
-            "difficulty": "beginner",
-            "skills": ["Checklist design", "best practices", "evaluation"],
-            "estimatedTime": "1-2 weeks"
-          },
-          {
-            "title": "Token Distribution Dashboard",
-            "description": "Build a Dune dashboard analyzing token distribution patterns.",
-            "difficulty": "intermediate",
-            "skills": ["Dune Analytics", "SQL", "visualization"],
-            "estimatedTime": "2-3 weeks"
-          },
-          {
-            "title": "Whale Impact Analyzer",
-            "description": "Tool to analyze how whale movements affect token price and liquidity.",
-            "difficulty": "intermediate",
-            "skills": ["Data analysis", "on-chain analytics", "visualization"],
-            "estimatedTime": "2-3 weeks"
-          },
-          {
-            "title": "Tokenomics Comparison Report",
-            "description": "Compare tokenomics of similar protocols side-by-side.",
-            "difficulty": "intermediate",
-            "skills": ["Research", "comparative analysis", "writing"],
-            "estimatedTime": "2-3 weeks"
-          },
-          {
-            "title": "Token Unlock Calendar",
-            "description": "Track and visualize upcoming token unlocks across protocols.",
-            "difficulty": "beginner",
-            "skills": ["Research", "data tracking", "visualization"],
-            "estimatedTime": "1-2 weeks"
-          }
-        ]
-      }
-    ],
-    "gettingStarted": [
-      {
-        "step": 1,
-        "title": "Study existing tokenomics",
-        "description": "Read whitepapers and docs. Understand what exists."
-      },
-      {
-        "step": 2,
-        "title": "Learn the failures",
-        "description": "Study failed token models. Understand why they failed."
-      },
-      {
-        "step": 3,
-        "title": "Build economic models",
-        "description": "Use spreadsheets or Python to model token dynamics."
-      },
-      {
-        "step": 4,
-        "title": "Understand game theory",
-        "description": "Token design is applied game theory. Study the basics."
-      },
-      {
-        "step": 5,
-        "title": "Write and share",
-        "description": "Publish your analyses. Build a reputation for insight."
-      }
-    ],
-    "relatedResources": [
-      {
-        "title": "Portfolio Project Ideas for DeFi Developers",
-        "slug": "portfolio-project-ideas-for-defi-developer"
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "ideas",
+ "topic": "portfolio",
+ "niche": "tokenomics-designer",
+ "generatedAt": "2026-03-13T00:00:00.000Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "35 Portfolio Project Ideas for Tokenomics Designers",
+ "description": "Discover portfolio project ideas for tokenomics designers. From economic models to incentive design, build a portfolio that demonstrates token economics expertise.",
+ "keywords": ["tokenomics-designer", "portfolio", "token-economics", "incentives", "DeFi"],
+ "canonicalSlug": "portfolio-project-ideas-for-tokenomics-designer"
+ },
+ "content": {
+ "intro": "Tokenomics design requires understanding economics, game theory, and mechanism design. These projects help you demonstrate token economics expertise through analysis and original design work.",
+ "sections": [
+ {
+ "heading": "Token Analysis Projects",
+ "description": "Analyze existing tokenomics to demonstrate understanding.",
+ "items": [
+ {
+ "title": "Token Comparative Analysis",
+ "description": "Compare tokenomics of competing protocols. Analyze strengths and weaknesses.",
+ "difficulty": "intermediate",
+ "skills": ["Research", "analysis", "comparative frameworks"],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Failed Tokenomics Post-mortem",
+ "description": "Analyze why specific token models failed. Terra, Olympus forks, etc.",
+ "difficulty": "intermediate",
+ "skills": ["Post-mortem analysis", "failure modes", "lessons learned"],
+ "estimatedTime": "2 weeks"
+ },
+ {
+ "title": "Emission Schedule Analysis",
+ "description": "Analyze and compare emission schedules across protocols.",
+ "difficulty": "intermediate",
+ "skills": ["Emission modeling", "inflation analysis", "visualization"],
+ "estimatedTime": "2 weeks"
+ },
+ {
+ "title": "Governance Token Value Accrual",
+ "description": "Study how different governance tokens accrue (or fail to accrue) value.",
+ "difficulty": "intermediate",
+ "skills": ["Value analysis", "governance mechanics", "token utility"],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "veToken Model Comparison",
+ "description": "Compare implementations of the veToken model across protocols.",
+ "difficulty": "intermediate",
+ "skills": ["veToken mechanics", "lock dynamics", "comparison"],
+ "estimatedTime": "2 weeks"
+ },
+ {
+ "title": "Protocol Revenue Analysis",
+ "description": "Analyze protocol revenue and how it flows to token holders.",
+ "difficulty": "intermediate",
+ "skills": ["Revenue analysis", "fee mechanics", "value distribution"],
+ "estimatedTime": "2-3 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Economic Modeling",
+ "description": "Build models to simulate token economics.",
+ "items": [
+ {
+ "title": "Token Supply Model",
+ "description": "Build a model simulating token supply over time with emissions and burns.",
+ "difficulty": "intermediate",
+ "skills": ["Modeling", "spreadsheets", "simulation"],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Liquidity Mining Simulator",
+ "description": "Model the dynamics of liquidity mining programs.",
+ "difficulty": "intermediate",
+ "skills": ["Incentive modeling", "yield dynamics", "simulation"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Staking Economics Model",
+ "description": "Model staking participation, APY, and network security tradeoffs.",
+ "difficulty": "intermediate",
+ "skills": ["Staking mechanics", "security modeling", "economics"],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Token Buyback Model",
+ "description": "Model the effect of buyback programs on token price and supply.",
+ "difficulty": "intermediate",
+ "skills": ["Buyback mechanics", "price modeling", "treasury management"],
+ "estimatedTime": "2 weeks"
+ },
+ {
+ "title": "Inflation vs Deflation Scenarios",
+ "description": "Model different inflation/deflation scenarios and their effects.",
+ "difficulty": "intermediate",
+ "skills": ["Economic scenarios", "sensitivity analysis", "modeling"],
+ "estimatedTime": "2 weeks"
+ },
+ {
+ "title": "Agent-based Token Simulation",
+ "description": "Build an agent-based model simulating participant behavior.",
+ "difficulty": "advanced",
+ "skills": ["Agent-based modeling", "Python", "behavioral economics"],
+ "estimatedTime": "6 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Original Tokenomics Design",
+ "description": "Design token models for hypothetical protocols.",
+ "items": [
+ {
+ "title": "DeFi Protocol Token Design",
+ "description": "Design complete tokenomics for a hypothetical DeFi protocol.",
+ "difficulty": "advanced",
+ "skills": ["Token design", "incentive alignment", "documentation"],
+ "estimatedTime": "4-6 weeks"
+ },
+ {
+ "title": "GameFi Economy Design",
+ "description": "Design a sustainable dual-token economy for a blockchain game.",
+ "difficulty": "advanced",
+ "skills": ["Game economics", "sustainability", "sink design"],
+ "estimatedTime": "4-6 weeks"
+ },
+ {
+ "title": "DAO Treasury Token",
+ "description": "Design a token model focused on DAO treasury management.",
+ "difficulty": "intermediate",
+ "skills": ["Treasury mechanics", "governance", "value accrual"],
+ "estimatedTime": "3-4 weeks"
+ },
+ {
+ "title": "NFT Collection Tokenomics",
+ "description": "Design tokenomics for an NFT project with utility and governance.",
+ "difficulty": "intermediate",
+ "skills": ["NFT utility", "community tokens", "royalties"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Layer 2 Token Design",
+ "description": "Design tokenomics for a hypothetical Layer 2 rollup.",
+ "difficulty": "advanced",
+ "skills": ["L2 economics", "sequencer incentives", "fee distribution"],
+ "estimatedTime": "4-6 weeks"
+ },
+ {
+ "title": "Real World Asset Token",
+ "description": "Design tokenomics for a real-world asset protocol.",
+ "difficulty": "advanced",
+ "skills": ["RWA mechanics", "yield distribution", "compliance"],
+ "estimatedTime": "4 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Incentive Design",
+ "description": "Focus on incentive alignment problems.",
+ "items": [
+ {
+ "title": "Liquidity Bootstrap Design",
+ "description": "Design a liquidity bootstrapping mechanism for a new protocol.",
+ "difficulty": "intermediate",
+ "skills": ["Bootstrap mechanics", "fair launch", "liquidity"],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Anti-vampire Attack Mechanism",
+ "description": "Design defenses against liquidity vampire attacks.",
+ "difficulty": "advanced",
+ "skills": ["Attack analysis", "defense mechanisms", "game theory"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Bribing Economics Analysis",
+ "description": "Analyze the economics of governance bribing (Votium, Hidden Hand).",
+ "difficulty": "intermediate",
+ "skills": ["Bribe mechanics", "governance markets", "analysis"],
+ "estimatedTime": "2 weeks"
+ },
+ {
+ "title": "Points Program Design",
+ "description": "Design a points program that transitions to tokens effectively.",
+ "difficulty": "intermediate",
+ "skills": ["Points mechanics", "Sybil resistance", "fair distribution"],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Referral Incentive Design",
+ "description": "Design referral incentives that grow without gaming.",
+ "difficulty": "intermediate",
+ "skills": ["Referral mechanics", "anti-gaming", "growth"],
+ "estimatedTime": "2 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Tools and Resources",
+ "description": "Build tools for tokenomics analysis.",
+ "items": [
+ {
+ "title": "Token Analysis Framework",
+ "description": "Create a framework for systematically analyzing any tokenomics.",
+ "difficulty": "intermediate",
+ "skills": ["Framework design", "documentation", "analysis"],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Emission Calculator",
+ "description": "Build a calculator for modeling token emissions over time.",
+ "difficulty": "intermediate",
+ "skills": ["Spreadsheets", "modeling", "visualization"],
+ "estimatedTime": "2 weeks"
+ },
+ {
+ "title": "Tokenomics Checklist",
+ "description": "Create a comprehensive checklist for evaluating tokenomics.",
+ "difficulty": "beginner",
+ "skills": ["Checklist design", "best practices", "evaluation"],
+ "estimatedTime": "1-2 weeks"
+ },
+ {
+ "title": "Token Distribution Dashboard",
+ "description": "Build a Dune dashboard analyzing token distribution patterns.",
+ "difficulty": "intermediate",
+ "skills": ["Dune Analytics", "SQL", "visualization"],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Whale Impact Analyzer",
+ "description": "Tool to analyze how whale movements affect token price and liquidity.",
+ "difficulty": "intermediate",
+ "skills": ["Data analysis", "on-chain analytics", "visualization"],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Tokenomics Comparison Report",
+ "description": "Compare tokenomics of similar protocols side-by-side.",
+ "difficulty": "intermediate",
+ "skills": ["Research", "comparative analysis", "writing"],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Token Unlock Calendar",
+ "description": "Track and visualize upcoming token unlocks across protocols.",
+ "difficulty": "beginner",
+ "skills": ["Research", "data tracking", "visualization"],
+ "estimatedTime": "1-2 weeks"
+ }
+ ]
+ }
+ ],
+ "gettingStarted": [
+ {
+ "step": 1,
+ "title": "Study existing tokenomics",
+ "description": "Read whitepapers and docs. Understand what exists."
+ },
+ {
+ "step": 2,
+ "title": "Learn the failures",
+ "description": "Study failed token models. Understand why they failed."
+ },
+ {
+ "step": 3,
+ "title": "Build economic models",
+ "description": "Use spreadsheets or Python to model token dynamics."
+ },
+ {
+ "step": 4,
+ "title": "Understand game theory",
+ "description": "Token design is applied game theory. Study the basics."
+ },
+ {
+ "step": 5,
+ "title": "Write and share",
+ "description": "Publish your analyses. Build a reputation for insight."
+ }
+ ],
+ "relatedResources": [
+ {
+ "title": "Portfolio Project Ideas for DeFi Developers",
+ "slug": "portfolio-project-ideas-for-defi-developer"
+ }
+ ]
+ }
 }

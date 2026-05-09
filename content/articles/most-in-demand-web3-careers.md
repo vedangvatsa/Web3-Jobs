@@ -44,7 +44,7 @@ Many protocol developers begin their careers in smart contract development, gain
 
 ### Security Auditor
 
-As the financial stakes of smart contracts increase, the importance of security auditing becomes essential. Auditors meticulously review code for vulnerabilities before deployment, with individual audit engagements potentially costing significant amounts. This potential income makes auditing a lucrative field.
+As the financial stakes of smart contracts increase, the importance of security auditing becomes essential. Auditors carefully review code for vulnerabilities before deployment, with individual audit engagements potentially costing significant amounts. This potential income makes auditing a lucrative field.
 
 However, entering this role requires extensive smart contract knowledge and a proven ability to identify genuine bugs. Most auditors start as developers, specializing in security before moving into auditing roles.
 
@@ -142,4 +142,3 @@ Compensation in Web3 is strong, and the work is intellectually stimulating. Prof
 For developers, Web3 remains one of the last frontiers. You can join a small team building a protocol that impacts millions, allowing for significant contributions to the tech industry.
 
 While volatility, risk, and the uncertainty of mainstream crypto adoption exist, those passionate about the potential and able to accept the risks will find ample opportunities in Web3.
-

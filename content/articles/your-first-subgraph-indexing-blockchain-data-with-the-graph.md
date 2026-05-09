@@ -62,14 +62,14 @@ Next, define the data you wish to save. For tracking each NFT and its current ow
 
 ```graphql
 type Token @entity {
-  id: ID! # The token ID
-  tokenURI: String!
-  owner: User!
+ id: ID! # The token ID
+ tokenURI: String!
+ owner: User!
 }
 
 type User @entity {
-  id: ID! # The user's address
-  tokens: [Token!]! @derivedFrom(field: "owner")
+ id: ID! # The user's address
+ tokens: [Token!]! @derivedFrom(field: "owner")
 }
 ```
 
@@ -85,27 +85,27 @@ import { Transfer as TransferEvent } from "../generated/MyNFT/MyNFT";
 import { Token, User } from "../generated/schema";
 
 export function handleTransfer(event: TransferEvent): void {
-  // Find or create the User (the recipient of the NFT)
-  let to = User.load(event.params.to.toHex());
-  if (!to) {
-    to = new User(event.params.to.toHex());
-    to.save();
-  }
-  
-  // Find or create the Token
-  let tokenId = event.params.tokenId.toString();
-  let token = Token.load(tokenId);
-  if (!token) {
-    token = new Token(tokenId);
-    // Optionally call the contract to get the tokenURI
-    // let contract = MyNFT.bind(event.address)
-    // token.tokenURI = contract.tokenURI(event.params.tokenId)
-    token.tokenURI = "/placeholder.json"; // Placeholder for simplicity
-  }
-  
-  // Update the owner of the token
-  token.owner = to.id;
-  token.save();
+ // Find or create the User (the recipient of the NFT)
+ let to = User.load(event.params.to.toHex());
+ if (!to) {
+ to = new User(event.params.to.toHex());
+ to.save();
+ }
+
+ // Find or create the Token
+ let tokenId = event.params.tokenId.toString();
+ let token = Token.load(tokenId);
+ if (!token) {
+ token = new Token(tokenId);
+ // Optionally call the contract to get the tokenURI
+ // let contract = MyNFT.bind(event.address)
+ // token.tokenURI = contract.tokenURI(event.params.tokenId)
+ token.tokenURI = "/placeholder.json"; // Placeholder for simplicity
+ }
+
+ // Update the owner of the token
+ token.owner = to.id;
+ token.save();
 }
 ```
 
@@ -114,19 +114,18 @@ This function activates with each `Transfer` event. It creates a `User` entity f
 **Step 4: Deploy the Subgraph**
 
 1. **Authenticate:** Use the command:
-   ```bash
-   graph auth --studio <YOUR_DEPLOY_KEY>
-   ```
+ ```bash
+ graph auth --studio <YOUR_DEPLOY_KEY>
+ ```
 2. **Codegen & Build:** Execute:
-   ```bash
-   graph codegen && graph build
-   ```
+ ```bash
+ graph codegen && graph build
+ ```
 3. **Deploy:** Run:
-   ```bash
-   graph deploy --studio <SUBGRAPH_NAME>
-   ```
+ ```bash
+ graph deploy --studio <SUBGRAPH_NAME>
+ ```
 
 Upon deployment to The Graph's hosted service (the "Subgraph Studio"), it will begin indexing data from your selected contract. After syncing, you’ll have a GraphQL endpoint that your dApp can use to query NFT and owner data efficiently.
 
 Building subgraphs is a fundamental step toward becoming a full-stack Web3 developer. It bridges your on-chain logic with the off-chain user experience, enabling the development of fast, data-rich decentralized applications.
-

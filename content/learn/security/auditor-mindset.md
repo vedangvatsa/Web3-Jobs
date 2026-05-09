@@ -6,46 +6,46 @@ readTime: "7 min"
 difficulty: "advanced"
 prerequisites: []
 quiz:
-  - question: "How does Web3 security differ from traditional Web2 cybersecurity?"
-    options:
-      - "It doesn't; they are identical"
-      - "Web2 focuses on keeping hackers out of servers; Web3 code is public, so security is entirely about flawless logic"
-      - "Web3 relies on antivirus software"
-      - "Web2 is more secure"
-    correct: 1
-    explanation: "In Web3, the smart contract code is public and immutable. Hackers don't need to bypass firewalls; they just read the code, find a logical flaw, and execute an exploit directly on the blockchain."
-  - question: "What is the primary goal of a smart contract audit?"
-    options:
-      - "To fix spelling errors in the code"
-      - "To guarantee 100% that the code can never be hacked"
-      - "To identify vulnerabilities, edge cases, and deviations from intended logic before deployment"
-      - "To rewrite the code in a different language"
-    correct: 2
-    explanation: "An audit cannot guarantee perfect security. Its goal is to thoroughly review the code, identify known vulnerability patterns, and ensure the contract logic matches the documentation."
-  - question: "What does it mean to 'assume the caller is malicious'?"
-    options:
-      - "Never talk to strangers"
-      - "In Solidity, you must build functions assuming every input is designed to break the system"
-      - "Hackers always use specific IP addresses"
-      - "You should ban all users"
-    correct: 1
-    explanation: "The core auditor mindset is adversarial thinking. Because anyone can interact with a public contract, every function parameter, external call, and state change must be scrutinized against malicious manipulation."
-  - question: "Why are invariant checks crucial in auditing?"
-    options:
-      - "They check if the compiler is working"
-      - "They are core mathematical truths about the protocol that must always remain true (e.g., total deposits must equal total liabilities)"
-      - "They check for variable names"
-      - "They ensure the contract deploys quickly"
-    correct: 1
-    explanation: "Invariants are the fundamental rules of a system. An auditor tests every possible state change to ensure invariants are never broken. If a rule can be broken, an exploit exists."
-  - question: "What happens if a critical bug is found after a contract is deployed?"
-    options:
-      - "The developers press the undo button"
-      - "The blockchain is paused"
-      - "If the contract is not upgradeable, the funds might be lost or the contract must be abandoned"
-      - "The gas fee is refunded"
-    correct: 2
-    explanation: "Smart contracts are immutable by default. Unless the contract was specifically designed with an upgrade proxy pattern, fixing a bug requires deploying a completely new contract and migrating users over."
+ - question: "How does Web3 security differ from traditional Web2 cybersecurity?"
+ options:
+ - "It doesn't; they are identical"
+ - "Web2 focuses on keeping hackers out of servers; Web3 code is public, so security is entirely about flawless logic"
+ - "Web3 relies on antivirus software"
+ - "Web2 is more secure"
+ correct: 1
+ explanation: "In Web3, the smart contract code is public and immutable. Hackers don't need to bypass firewalls; they just read the code, find a logical flaw, and execute an exploit directly on the blockchain."
+ - question: "What is the primary goal of a smart contract audit?"
+ options:
+ - "To fix spelling errors in the code"
+ - "To guarantee 100% that the code can never be hacked"
+ - "To identify vulnerabilities, edge cases, and deviations from intended logic before deployment"
+ - "To rewrite the code in a different language"
+ correct: 2
+ explanation: "An audit cannot guarantee perfect security. Its goal is to thoroughly review the code, identify known vulnerability patterns, and ensure the contract logic matches the documentation."
+ - question: "What does it mean to 'assume the caller is malicious'?"
+ options:
+ - "Never talk to strangers"
+ - "In Solidity, you must build functions assuming every input is designed to break the system"
+ - "Hackers always use specific IP addresses"
+ - "You should ban all users"
+ correct: 1
+ explanation: "The core auditor mindset is adversarial thinking. Because anyone can interact with a public contract, every function parameter, external call, and state change must be scrutinized against malicious manipulation."
+ - question: "Why are invariant checks crucial in auditing?"
+ options:
+ - "They check if the compiler is working"
+ - "They are core mathematical truths about the protocol that must always remain true (e.g., total deposits must equal total liabilities)"
+ - "They check for variable names"
+ - "They ensure the contract deploys quickly"
+ correct: 1
+ explanation: "Invariants are the fundamental rules of a system. An auditor tests every possible state change to ensure invariants are never broken. If a rule can be broken, an exploit exists."
+ - question: "What happens if a critical bug is found after a contract is deployed?"
+ options:
+ - "The developers press the undo button"
+ - "The blockchain is paused"
+ - "If the contract is not upgradeable, the funds might be lost or the contract must be abandoned"
+ - "The gas fee is refunded"
+ correct: 2
+ explanation: "Smart contracts are immutable by default. Unless the contract was specifically designed with an upgrade proxy pattern, fixing a bug requires deploying a completely new contract and migrating users over."
 ---
 
 ## The Highest Stakes in Software
@@ -62,28 +62,28 @@ Because of these extreme stakes, **Smart Contract Auditing** is one of the most 
 
 <div class="diagram">
 <svg viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <!-- Web2 -->
-  <rect x="50" y="20" width="320" height="180" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
-  <text x="210" y="50" text-anchor="middle" font-size="14" font-weight="bold" fill="#334155">Web2 Security (The Castle)</text>
-  
-  <circle cx="210" cy="120" r="40" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
-  <text x="210" y="125" text-anchor="middle" font-size="12" font-weight="bold" fill="#334155">Server</text>
-  
-  <!-- Walls -->
-  <path d="M 150,120 A 60,60 0 0,1 270,120" fill="none" stroke="#ef4444" stroke-width="4" stroke-dasharray="4"/>
-  <text x="210" y="80" text-anchor="middle" font-size="10" fill="#ef4444">Firewalls / Auth</text>
-  
-  <text x="210" y="185" text-anchor="middle" font-size="11" fill="#475569">Goal: Keep the hacker OUT of the system.</text>
+ <!-- Web2 -->
+ <rect x="50" y="20" width="320" height="180" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
+ <text x="210" y="50" text-anchor="middle" font-size="14" font-weight="bold" fill="#334155">Web2 Security (The Castle)</text>
 
-  <!-- Web3 -->
-  <rect x="430" y="20" width="320" height="180" rx="8" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
-  <text x="590" y="50" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Web3 Security (The Board Game)</text>
-  
-  <rect x="530" y="90" width="120" height="60" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
-  <text x="590" y="115" text-anchor="middle" font-size="12" font-weight="bold" fill="#166534">Public Code</text>
-  <text x="590" y="135" text-anchor="middle" font-size="9" fill="#166534">Hackers are already inside.</text>
+ <circle cx="210" cy="120" r="40" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+ <text x="210" y="125" text-anchor="middle" font-size="12" font-weight="bold" fill="#334155">Server</text>
 
-  <text x="590" y="185" text-anchor="middle" font-size="11" fill="#166534">Goal: Ensure the rules (code) are flawless.</text>
+ <!-- Walls -->
+ <path d="M 150,120 A 60,60 0 0,1 270,120" fill="none" stroke="#ef4444" stroke-width="4" stroke-dasharray="4"/>
+ <text x="210" y="80" text-anchor="middle" font-size="10" fill="#ef4444">Firewalls / Auth</text>
+
+ <text x="210" y="185" text-anchor="middle" font-size="11" fill="#475569">Goal: Keep the hacker OUT of the system.</text>
+
+ <!-- Web3 -->
+ <rect x="430" y="20" width="320" height="180" rx="8" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+ <text x="590" y="50" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Web3 Security (The Board Game)</text>
+
+ <rect x="530" y="90" width="120" height="60" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+ <text x="590" y="115" text-anchor="middle" font-size="12" font-weight="bold" fill="#166534">Public Code</text>
+ <text x="590" y="135" text-anchor="middle" font-size="9" fill="#166534">Hackers are already inside.</text>
+
+ <text x="590" y="185" text-anchor="middle" font-size="11" fill="#166534">Goal: Ensure the rules (code) are flawless.</text>
 </svg>
 </div>
 

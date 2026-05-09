@@ -24,24 +24,23 @@ Web3 reintroduces the open, permissionless principles of the early internet, whi
 
 For example:
 
-| Feature                       | Web2 Platform                | Web3 Protocol                  |
+| Feature | Web2 Platform | Web3 Protocol |
 |-------------------------------|------------------------------|---------------------------------|
-| **The Task**                  | Exchanging assets            | Exchanging assets               |
-| **Example**                   | New York Stock Exchange or Coinbase | Uniswap Protocol               |
-| **Control**                   | Centralized company          | Decentralized smart contracts    |
-| **Censorship**                | Can censor transactions      | Immutable code prevents censorship |
+| **The Task** | Exchanging assets | Exchanging assets |
+| **Example** | New York Stock Exchange or Coinbase | Uniswap Protocol |
+| **Control** | Centralized company | Decentralized smart contracts |
+| **Censorship** | Can censor transactions | Immutable code prevents censorship |
 
 The **Uniswap Protocol** serves as an illustration. Unlike traditional companies, Uniswap operates as a collection of [smart contracts](/what-are-smart-contracts) on the [Ethereum](/what-is-ethereum) blockchain, outlining rules for token swaps via an [Automated Market Maker (AMM)](/how-to-build-a-simple-amm-on-an-l2).
 
 ### Key Characteristics of a Web3 Protocol
 
 1. **Open and Permissionless:** Users can use the Uniswap protocol to swap tokens freely. Developers can create new applications on top of this protocol without seeking approval. This flexibility is why [DeFi](/what-is-defi) is often referred to as "money legos."
-   
+
 2. **Neutral and Censorship-Resistant:** The rules of the protocol are upheld by the unchangeable code of smart contracts. No single entity can block a transaction that complies with the protocol’s guidelines.
-   
+
 3. **Community-Governed:** Successful protocols often operate under a [DAO (Decentralized Autonomous Organization)](/what-is-a-dao). Token holders can vote to modify the protocol’s rules over time.
-   
+
 4. **Composability:** Open protocols enable integration in new ways. For instance, a lending protocol may build upon a decentralized exchange protocol, which may depend on a stablecoin protocol. This interconnectedness supports a network effect and drives innovation.
 
 When you encounter the term "protocol" in Web3, view it as a foundational, open-source building block for the new internet. Unlike private applications, protocols serve as shared public goods. The transition from platforms to protocols encapsulates the architectural evolution that highlights the vision for a more decentralized digital future.
-

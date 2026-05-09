@@ -150,4 +150,3 @@ Clear documentation is vital in Web3. Technical writers create tutorials, guides
 
 ### Essential Skills
 Excellent writing and communication abilities, an aptitude for grasping complex technical concepts, and the ability to convey them simply are important. A technical background often enhances effectiveness. Learn more about [becoming a Web3 technical writer](/becoming-a-web3-technical-writer).
-

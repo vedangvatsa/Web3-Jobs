@@ -38,7 +38,7 @@ Korean gamers maintain exceptionally high expectations. They are accustomed to s
 
 - **Competitive Drive:** Esports culture has deeply permeated South Korean society. Games that feature high skill ceilings and competitive player-versus-player (PvP) modes are particularly favored. Engagement mechanics such as leaderboards, tournaments, and guild competitions enhance player involvement.
 
-- **Community Engagement:** Gaming functions as a social activity in South Korea. Strong guild systems, integrated chat features, and community events are vital for success. A vibrant community serves as a strong protective barrier for games.
+- **Community Engagement:** Gaming functions as a social activity in South Korea. Strong guild systems, integrated chat features, and community events are vital for success. A active community serves as a strong protective barrier for games.
 
 - **Acceptance of Grinding:** South Korean gamers are generally more tolerant of "grinding," the repetitive task completion for rewards, than players in Western markets. This characteristic aligns well with many GameFi systems, though the grind must feel rewarding and fair.
 
@@ -64,11 +64,10 @@ As the global focus shifts from P2E to Play-and-Own models, and as regulatory cl
 
 The South Korean GameFi market is not only about gaming; it also intersects with various economic and cultural factors. Below is an analysis of key market statistics and trends.
 
-| Metric                         | Value                          |
+| Metric | Value |
 |--------------------------------|--------------------------------|
-| Total Gaming Revenue           | Billions in value              |
-| Mobile Gaming Revenue          | Billions in value              |
-| Estimated eSports Viewership   | Significant volume per event    |
-| Number of Active Gamers        | Millions                       |
-| Growth Rate                    | Significant growth              |
-
+| Total Gaming Revenue | Billions in value |
+| Mobile Gaming Revenue | Billions in value |
+| Estimated eSports Viewership | Significant volume per event |
+| Number of Active Gamers | Millions |
+| Growth Rate | Significant growth |

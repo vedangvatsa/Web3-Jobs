@@ -68,11 +68,10 @@ Engaging in [DeFi](/what-is-defi) activities like [staking](/how-to-become-a-web
 Tracking every transaction can be nearly impossible without specialized tools. A range of crypto tax software has emerged to assist with this challenge. These tools connect to your exchange accounts and wallets via API to automatically track your cost basis and generate necessary tax forms.
 
 **Popular Tools:**
-| Tool         | Features                                    |
+| Tool | Features |
 |--------------|---------------------------------------------|
-| CoinLedger   | Automated tax reporting, integration with exchanges |
-| Koinly       | Multi-country support, full tax reports |
-| TokenTax     | Tax calculation, integration with wallets and exchanges |
+| CoinLedger | Automated tax reporting, integration with exchanges |
+| Koinly | Multi-country support, full tax reports |
+| TokenTax | Tax calculation, integration with wallets and exchanges |
 
 Tracking your transactions is essential for compliance. Understanding how crypto is treated as property, recognizing taxable events, and distinguishing between short-term and long-term gains will help you manage your obligations. Keep thorough records, consider using specialized software, and consult a tax professional when required.
-

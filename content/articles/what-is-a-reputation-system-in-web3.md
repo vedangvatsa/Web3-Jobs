@@ -27,8 +27,8 @@ Unlike centralized credit scores, which rely on banks and credit bureaus, a Web3
 1. **[Decentralized Identifier (DID):](/what-is-a-decentralized-identifier)** A user's reputation is tied to their DID, typically represented by their public wallet address, such as an Ethereum Name Service (ENS) name like `vitalik.[eth](/what-is-ethereum)`.
 
 2. **Verifiable Credentials and Attestations:** Tamper-proof claims made about a user's wallet by other entities. Examples include:
-   - **[Soulbound Tokens (SBTs):](/what-is-soulbound-token-technology)** Non-transferable SBTs can be issued by universities to validate degrees or by conferences to confirm attendance.
-   - **On-Chain Activity:** A DeFi protocol may issue an attestation for a user who has successfully repaid a loan, thereby boosting their on-chain credit history.
+ - **[Soulbound Tokens (SBTs):](/what-is-soulbound-token-technology)** Non-transferable SBTs can be issued by universities to validate degrees or by conferences to confirm attendance.
+ - **On-Chain Activity:** A DeFi protocol may issue an attestation for a user who has successfully repaid a loan, thereby boosting their on-chain credit history.
 
 3. **Social Graph Analysis:** By examining a user's connections on decentralized social platforms like Farcaster or Lens, reputation systems can infer trustworthiness. A user followed by multiple reputable accounts will likely see their reputation score rise.
 
@@ -37,12 +37,11 @@ Unlike centralized credit scores, which rely on banks and credit bureaus, a Web3
 ### Applications of Reputation Systems
 
 - **Undercollateralized Lending in DeFi:** Users with high on-chain reputation scores can secure loans with less collateral, as their reputation serves as a form of social collateral.
-  
+
 - **Targeted Airdrop Distribution:** Projects can use reputation scores to exclude bots and airdrop farmers, ensuring that tokens reach authentic and valuable community members.
-  
+
 - **DAO Governance:** Higher reputation scores can translate into greater voting power, promoting a meritocratic approach over a simple one-token-one-vote system.
-  
+
 - **Exclusive Community Access:** Membership in curated communities or DAOs can be granted based on on-chain reputation instead of wealth.
 
 A strong reputation system is essential for building trust in a pseudonymous environment. This system can facilitate more sophisticated and human-centric applications, ranging from social finance to decentralized labor markets.
-

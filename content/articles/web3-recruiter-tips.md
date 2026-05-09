@@ -32,10 +32,10 @@ Recruiters prioritize **genuine passion** over monetary motivation. While high s
 For technical positions, recruiters look for a blend of strong foundational skills and specific Web3 competencies.
 
 - **GitHub serves as your resume:** This is the primary focus for evaluation. We want to see:
-    - Personal projects that extend beyond basic tutorials.
-    - Well-structured, documented code.
-    - Thorough test suites; missing tests raise concerns.
-    - Contributions to open-source Web3 projects, which significantly enhance your profile.
+ - Personal projects that extend beyond basic tutorials.
+ - Well-structured, documented code.
+ - Thorough test suites; missing tests raise concerns.
+ - Contributions to open-source Web3 projects, which significantly enhance your profile.
 - **Security awareness:** Expect questions that assess your understanding of security. Can you explain reentrancy attacks? Are you familiar with the Checks-Effects-Interactions pattern? For advanced roles, we look for a mindset that anticipates potential attacks.
 - **Solid computer science fundamentals:** Given that Web3 is still developing, strong foundations in computer science (data structures, algorithms, distributed systems) are vital for adapting to evolving technology.
 
@@ -54,7 +54,6 @@ For roles in marketing, product management, or community engagement, we seek "T-
 3. **Communicate effectively:** Many Web3 teams operate remotely. Your ability to express complex ideas concisely, especially in written form, is critical. Your take-home tasks will often assess your communication skills as much as your technical abilities.
 4. **Acknowledge gaps in knowledge:** The pace of change in Web3 means no one can know everything. It's preferable to admit, "I lack experience in that area, but here's my approach to learning it," rather than attempting to bluff.
 
-The [Web3 job](/web3-jobs-for-beginners) market may be competitive, but it operates on merit. By showcasing your passion, building a reliable public portfolio, and diligently preparing for interviews, you can differentiate yourself and secure a position at the forefront of the new internet.
+The [Web3 job](/web3-jobs-for-beginners) market may be competitive, but it operates on merit. By showcasing your passion, building a reliable public portfolio, and diligently preparing for interviews, you can differentiate yourself and secure a position leading the new internet.
 
 ### Understanding the Web3 Opportunity
-

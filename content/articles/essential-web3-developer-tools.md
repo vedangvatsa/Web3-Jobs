@@ -18,10 +18,10 @@ This guide highlights the critical tools every Web3 developer should be familiar
 
 Integrated development environments (IDEs) like Foundry and Hardhat serve as foundational tools for smart contract development. They offer complete frameworks for compiling, testing, and deploying [Solidity](/best-programming-languages-for-blockchain-development) code.
 
-| Tool     | Language         | Key Features                                                   |
+| Tool | Language | Key Features |
 |----------|------------------|---------------------------------------------------------------|
-| Foundry  | Rust             | Speed, Solidity-native testing, built-in fuzz testing         |
-| Hardhat  | JavaScript/TypeScript | Flexibility, extensive plugin ecosystem, established community |
+| Foundry | Rust | Speed, Solidity-native testing, built-in fuzz testing |
+| Hardhat | JavaScript/TypeScript | Flexibility, extensive plugin ecosystem, established community |
 
 - **Foundry:** This Rust-based toolkit has gained popularity for its speed and developer-friendly features. Its standout capability is allowing developers to write tests directly in Solidity, making it intuitive to use. Foundry includes built-in fuzz testing, which enhances security.
 - **Hardhat:** An established industry standard, this JavaScript/TypeScript-based environment offers flexibility and a vast ecosystem of plugins. While Foundry is gaining traction, proficiency in Hardhat remains valuable due to its widespread use across existing projects.
@@ -32,10 +32,10 @@ Integrated development environments (IDEs) like Foundry and Hardhat serve as fou
 
 JavaScript libraries like Ethers.js and Viem facilitate blockchain interaction within your frontend application.
 
-| Library   | Description                                           | Advantages                                                |
+| Library | Description | Advantages |
 |-----------|-------------------------------------------------------|----------------------------------------------------------|
-| Ethers.js | Long-standing library for Ethereum interaction       | Feature-rich, stable, extensive community support         |
-| Viem      | Lightweight, modular alternative to Ethers.js       | Excellent performance, type safety with TypeScript       |
+| Ethers.js | Long-standing library for Ethereum interaction | Feature-rich, stable, extensive community support |
+| Viem | Lightweight, modular alternative to Ethers.js | Excellent performance, type safety with TypeScript |
 
 - **Ethers.js:** This library remains a reliable tool for interacting with [Ethereum](/what-is-ethereum). It boasts a rich feature set, stability, and extensive community documentation.
 - **Viem:** A newer, modular library developed by the team behind Wagmi, Viem is known for its performance and type safety in TypeScript.
@@ -46,10 +46,10 @@ JavaScript libraries like Ethers.js and Viem facilitate blockchain interaction w
 
 Testing your dApp locally without incurring gas fees is important.
 
-| Tool      | Description                                                     | Use Case                                                  |
+| Tool | Description | Use Case |
 |-----------|---------------------------------------------------------------|----------------------------------------------------------|
-| Anvil     | Fast local testnet node part of Foundry                       | Deploy and test contracts in a local environment         |
-| MetaMask  | Popular browser-based crypto wallet                            | Connect to local Anvil testnet for dApp interaction      |
+| Anvil | Fast local testnet node part of Foundry | Deploy and test contracts in a local environment |
+| MetaMask | Popular browser-based crypto wallet | Connect to local Anvil testnet for dApp interaction |
 
 - **Anvil (part of Foundry):** This rapid local testnet node allows developers to deploy and test contracts instantly in an environment that simulates the mainnet.
 - **MetaMask:** The leading browser-based crypto wallet, MetaMask enables developers to connect to the local Anvil testnet and interact with their dApp as a real user would. Learn how to choose and secure your [wallet](/how-to-choose-a-crypto-wallet) here.
@@ -58,9 +58,9 @@ Testing your dApp locally without incurring gas fees is important.
 
 Using established libraries for standard components like ERC-20 or ERC-721 [tokens](/what-is-a-token) significantly enhances security and efficiency.
 
-| Library                 | Features                                                      | Benefits                                                     |
+| Library | Features | Benefits |
 |-------------------------|--------------------------------------------------------------|-------------------------------------------------------------|
-| OpenZeppelin Contracts   | Audited implementations of common standards                 | Time-saving, security-enhancing, community-accepted standards|
+| OpenZeppelin Contracts | Audited implementations of common standards | Time-saving, security-enhancing, community-accepted standards|
 
 - **OpenZeppelin Contracts:** This library remains the gold standard for secure, reusable smart contract components. Their implementations undergo meticulous audits, ensuring they meet community-accepted standards. Using OpenZeppelin saves significant development time while improving the security posture of your dApp.
 
@@ -68,9 +68,9 @@ Using established libraries for standard components like ERC-20 or ERC-721 [toke
 
 Querying historical data or complex states directly from the blockchain can be inefficient.
 
-| Tool       | Description                                                   | Purpose                                                   |
+| Tool | Description | Purpose |
 |------------|---------------------------------------------------------------|----------------------------------------------------------|
-| The Graph  | Indexing and querying blockchain data                         | Simplifies data retrieval for frontend applications       |
+| The Graph | Indexing and querying blockchain data | Simplifies data retrieval for frontend applications |
 
 - **The Graph:** This tool has become the industry standard for indexing and querying blockchain data. Developers create a "subgraph" that listens for events emitted by smart contracts and organizes data into a database. The frontend can then access this data via a fast GraphQL API.
 
@@ -80,11 +80,10 @@ Querying historical data or complex states directly from the blockchain can be i
 
 Vulnerability detection is critical in smart contract development.
 
-| Tool    | Description                                                    | Functionality                                                |
+| Tool | Description | Functionality |
 |---------|---------------------------------------------------------------|-------------------------------------------------------------|
-| Slither  | Static analysis framework by Trail of Bits                    | Scans Solidity code for vulnerabilities, logic errors      |
+| Slither | Static analysis framework by Trail of Bits | Scans Solidity code for vulnerabilities, logic errors |
 
 - **Slither:** This static analysis framework helps developers identify known vulnerabilities, logic errors, and code quality issues in Solidity code. Integrating Slither into your CI/CD pipeline ensures you catch potential security flaws early in the development process.
 
-Mastering these tools is essential for becoming an effective Web3 developer. They streamline the development process while promoting best practices in security and performance, which are vital in the high-stakes environment of decentralized applications.
-
+Mastering these tools is essential for becoming an effective Web3 developer. They simplify the development process while promoting best practices in security and performance, which are vital in the high-stakes environment of decentralized applications.

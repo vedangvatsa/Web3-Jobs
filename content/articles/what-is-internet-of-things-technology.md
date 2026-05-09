@@ -46,12 +46,12 @@ For example, a smart security camera using edge computing can analyze video feed
 
 IoT is actively transforming various sectors today.
 
-| Application       | Description                                                                 |
+| Application | Description |
 |-------------------|-----------------------------------------------------------------------------|
-| **Smart Homes**    | Devices like smart thermostats, speakers, and lights connect to the internet, enhancing convenience and security. |
-| **Wearables**      | Smartwatches and fitness trackers monitor physical activity and health metrics, relaying data to mobile applications. |
-| **Smart Cities**   | Urban areas implement IoT technologies for improved efficiency, including adaptive traffic lights, smart parking solutions, and waste management systems. |
-| **Connected Cars**  | Modern vehicles incorporate sensors to transmit performance data to manufacturers, enabling predictive maintenance and features like remote start. |
+| **Smart Homes** | Devices like smart thermostats, speakers, and lights connect to the internet, enhancing convenience and security. |
+| **Wearables** | Smartwatches and fitness trackers monitor physical activity and health metrics, relaying data to mobile applications. |
+| **Smart Cities** | Urban areas implement IoT technologies for improved efficiency, including adaptive traffic lights, smart parking solutions, and waste management systems. |
+| **Connected Cars** | Modern vehicles incorporate sensors to transmit performance data to manufacturers, enabling predictive maintenance and features like remote start. |
 | **Industrial IoT (IIoT)** | In manufacturing, sensors on machinery monitor performance and facilitate predictive maintenance. In agriculture, IoT devices optimize irrigation and crop management. |
 
 ### Future Trends in IoT
@@ -125,4 +125,3 @@ M2M refers to direct communication between machines without human input. IoT enc
 
 **How many IoT devices exist?**
 Current estimates suggest billions of active IoT devices, with projections indicating that this number could reach significantly higher levels in the coming years.
-

@@ -87,18 +87,18 @@ For a Quant, the line between work and passion is often blurry. After dinner and
 ### The Quant's Toolkit: Essential Skills & Technologies
 
 - **Core Skills:**
-  - **Mathematics & Statistics:** Deep knowledge of calculus, linear algebra, and statistical modeling is non-negotiable.
-  - **Economics & Game Theory:** You must understand how rational (and irrational) actors will behave within the systems you design.
-  - **Financial Primitives:** Deep familiarity with options, futures, AMMs, lending protocols, and other financial building blocks.
+ - **Mathematics & Statistics:** Deep knowledge of calculus, linear algebra, and statistical modeling is non-negotiable.
+ - **Economics & Game Theory:** You must understand how rational (and irrational) actors will behave within the systems you design.
+ - **Financial Primitives:** Deep familiarity with options, futures, AMMs, lending protocols, and other financial building blocks.
 - **Technical Skills:**
-  - **SQL:** The ability to write complex SQL queries is the most important technical skill. Quants live in data tools like Dune Analytics.
-  - **Python:** The language of choice for data analysis, modeling, and scripting. Mastery of libraries like Pandas, NumPy, and SciPy is essential.
-  - **[Solidity](/best-programming-languages-for-blockchain-development) (Reading):** While you may not be a full-time [smart contract developer](/how-to-become-a-web3-smart-contract-developer), you must be able to read and understand Solidity to analyze protocol logic.
+ - **SQL:** The ability to write complex SQL queries is the most important technical skill. Quants live in data tools like Dune Analytics.
+ - **Python:** The language of choice for data analysis, modeling, and scripting. Mastery of libraries like Pandas, NumPy, and SciPy is essential.
+ - **[Solidity](/best-programming-languages-for-blockchain-development) (Reading):** While you may not be a full-time [smart contract developer](/how-to-become-a-web3-smart-contract-developer), you must be able to read and understand Solidity to analyze protocol logic.
 - **Tools of the Trade:**
-  - **Dune Analytics:** The primary tool for querying and visualizing on-chain data.
-  - **Jupyter Notebooks:** The standard environment for data analysis and model prototyping.
-  - **Etherscan:** For drilling down into specific transactions and contracts.
-  - **DeFiLlama:** For high-level competitive analysis and significant value locked data.
+ - **Dune Analytics:** The primary tool for querying and visualizing on-chain data.
+ - **Jupyter Notebooks:** The standard environment for data analysis and model prototyping.
+ - **Etherscan:** For drilling down into specific transactions and contracts.
+ - **DeFiLlama:** For high-level competitive analysis and significant value locked data.
 
 ### Is This the Role for You?
 

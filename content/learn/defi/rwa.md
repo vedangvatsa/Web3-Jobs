@@ -6,22 +6,22 @@ readTime: "10 min"
 difficulty: "intermediate"
 prerequisites: ["lending"]
 quiz:
-  - question: "What are Real-World Assets (RWAs) in crypto?"
-    options:
-      - "Physical items like gold bars stored in vaults."
-      - "Traditional financial assets (bonds, stocks, real estate) represented as tokens on a blockchain."
-      - "NFTs of real-world photos."
-      - "Stablecoins backed by real USD."
-    correct: 1
-    explanation: "RWAs are tokens that represent ownership of or exposure to traditional financial assets like US Treasury bonds, real estate, private credit, and equities, bringing them into the DeFi ecosystem."
-  - question: "Why is RWA tokenization growing rapidly?"
-    options:
-      - "Because crypto is replacing all traditional finance."
-      - "Because DeFi yields declined, making tokenized Treasury bonds (earning 4-5%) attractive as low-risk yield sources for on-chain capital."
-      - "Because regulators require it."
-      - "Because gas fees are now zero."
-    correct: 1
-    explanation: "After the DeFi yield compression of 2022-2023, stablecoin holders sought safer yield. Tokenized Treasuries offer US government-backed 4-5% yields accessible 24/7 on-chain."
+ - question: "What are Real-World Assets (RWAs) in crypto?"
+ options:
+ - "Physical items like gold bars stored in vaults."
+ - "Traditional financial assets (bonds, stocks, real estate) represented as tokens on a blockchain."
+ - "NFTs of real-world photos."
+ - "Stablecoins backed by real USD."
+ correct: 1
+ explanation: "RWAs are tokens that represent ownership of or exposure to traditional financial assets like US Treasury bonds, real estate, private credit, and equities, bringing them into the DeFi ecosystem."
+ - question: "Why is RWA tokenization growing rapidly?"
+ options:
+ - "Because crypto is replacing all traditional finance."
+ - "Because DeFi yields declined, making tokenized Treasury bonds (earning 4-5%) attractive as low-risk yield sources for on-chain capital."
+ - "Because regulators require it."
+ - "Because gas fees are now zero."
+ correct: 1
+ explanation: "After the DeFi yield compression of 2022-2023, stablecoin holders sought safer yield. Tokenized Treasuries offer US government-backed 4-5% yields accessible 24/7 on-chain."
 ---
 
 ## What Are RWAs?

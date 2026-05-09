@@ -30,9 +30,9 @@ You'll be greeted with a default workspace. You can explore the example files, b
 ## Step 1: Create Your First Contract File
 
 In the Remix file explorer on the left, you'll see a folder named `contracts`.
-1.  Right-click on the `contracts` folder.
-2.  Select "New File".
-3.  Name your file `SimpleStorage.sol`. The `.sol` extension is important.
+1. Right-click on the `contracts` folder.
+2. Select "New File".
+3. Name your file `SimpleStorage.sol`. The `.sol` extension is important.
 
 A new, empty file will open in the editor. Now, we're ready to write some code.
 
@@ -56,8 +56,8 @@ The next line tells the compiler which version of Solidity we're using. This is 
 ```solidity
 pragma solidity ^0.8.20;
 ```
--   `pragma` is a directive to the compiler.
--   `solidity ^0.8.20` means this code is compatible with Solidity version 0.8.20 and any newer patch versions (e.g., 0.8.21), but not with a new minor version (like 0.9.0). The caret `^` specifies this rule.
+- `pragma` is a directive to the compiler.
+- `solidity ^0.8.20` means this code is compatible with Solidity version 0.8.20 and any newer patch versions (e.g., 0.8.21), but not with a new minor version (like 0.9.0). The caret `^` specifies this rule.
 
 ### 3. The Contract Keyword
 
@@ -65,7 +65,7 @@ Now, we define the contract itself. A contract is a collection of code (its func
 
 ```solidity
 contract SimpleStorage {
-    // Our code will go in here
+ // Our code will go in here
 }
 ```
 Our contract is named `SimpleStorage`. All the variables and functions that belong to this contract will be inside these curly braces `{}`.
@@ -76,7 +76,7 @@ Your `SimpleStorage.sol` file should now look like this:
 pragma solidity ^0.8.20;
 
 contract SimpleStorage {
-    // Our code will go in here
+ // Our code will go in here
 }
 ```
 
@@ -88,13 +88,13 @@ Let's create a state variable to store a number.
 
 ```solidity
 contract SimpleStorage {
-    uint256 public favoriteNumber;
+ uint256 public favoriteNumber;
 }
 ```
 Let's break this down:
--   `uint256`: This is the data type. `uint` stands for "unsigned integer," meaning it cannot be negative. `256` refers to the number of bits it takes up in storage. This is the standard type for numbers in Solidity.
--   `public`: This is a visibility keyword. Making a variable `public` tells the Solidity compiler to automatically create a getter function for it. This means other contracts (and us!) can read the value of this variable without us having to write a specific function for it.
--   `favoriteNumber`: This is the name of our variable.
+- `uint256`: This is the data type. `uint` stands for "unsigned integer," meaning it cannot be negative. `256` refers to the number of bits it takes up in storage. This is the standard type for numbers in Solidity.
+- `public`: This is a visibility keyword. Making a variable `public` tells the Solidity compiler to automatically create a getter function for it. This means other contracts (and us!) can read the value of this variable without us having to write a specific function for it.
+- `favoriteNumber`: This is the name of our variable.
 
 ## Step 4: Writing Functions to Modify State
 
@@ -104,26 +104,26 @@ Let's create a function called `store` that will allow us to change the value of
 
 ```solidity
 contract SimpleStorage {
-    uint256 public favoriteNumber;
+ uint256 public favoriteNumber;
 
-    function store(uint256 _newFavoriteNumber) public {
-        favoriteNumber = _newFavoriteNumber;
-    }
+ function store(uint256 _newFavoriteNumber) public {
+ favoriteNumber = _newFavoriteNumber;
+ }
 }
 ```
 
 Dissecting the `store` function:
--   `function store(...)`: We use the `function` keyword to declare a function named `store`.
--   `(uint256 _newFavoriteNumber)`: This defines the function's input parameters. We expect one parameter, a `uint256`, which we'll call `_newFavoriteNumber`. It's a common convention to prefix parameter names with an underscore `_` to distinguish them from state variables.
--   `public`: This visibility keyword means the function can be called by anyone (any external account or other smart contract).
--   `{ favoriteNumber = _newFavoriteNumber; }`: This is the function's body. It takes the input `_newFavoriteNumber` and assigns its value to our state variable `favoriteNumber`. This action changes the state of the blockchain and will require a transaction (and gas fees, on a real network).
+- `function store(...)`: We use the `function` keyword to declare a function named `store`.
+- `(uint256 _newFavoriteNumber)`: This defines the function's input parameters. We expect one parameter, a `uint256`, which we'll call `_newFavoriteNumber`. It's a common convention to prefix parameter names with an underscore `_` to distinguish them from state variables.
+- `public`: This visibility keyword means the function can be called by anyone (any external account or other smart contract).
+- `{ favoriteNumber = _newFavoriteNumber; }`: This is the function's body. It takes the input `_newFavoriteNumber` and assigns its value to our state variable `favoriteNumber`. This action changes the state of the blockchain and will require a transaction (and gas fees, on a real network).
 
 ## Step 5: Compiling Your Smart Contract
 
 Now that our code is written, we need to compile it.
-1.  On the left-hand side of Remix, click on the "Solidity compiler" icon (it looks like a plug).
-2.  Make sure the "Compiler" version matches the one in your pragma directive (e.g., 0.8.20 or newer). Remix usually selects the correct one automatically.
-3.  Click the big blue "Compile SimpleStorage.sol" button.
+1. On the left-hand side of Remix, click on the "Solidity compiler" icon (it looks like a plug).
+2. Make sure the "Compiler" version matches the one in your pragma directive (e.g., 0.8.20 or newer). Remix usually selects the correct one automatically.
+3. Click the big blue "Compile SimpleStorage.sol" button.
 
 If everything is correct, you'll see a green checkmark appear on the compiler icon. Congratulations, you've successfully compiled your first smart contract!
 
@@ -131,10 +131,10 @@ If everything is correct, you'll see a green checkmark appear on the compiler ic
 
 Compiling the code is just the first step. To use it, we need to deploy it to a blockchain. Remix provides a simulated blockchain for this purpose.
 
-1.  On the left-hand side, click the "Deploy & run transactions" icon (it looks like the Ethereum logo).
-2.  **Environment:** Make sure the environment is set to "Remix VM (London)". This is your personal, in-browser blockchain.
-3.  **Account:** You'll see a list of accounts, each pre-loaded with fake Ether. This is the account you'll use to deploy the contract.
-4.  **Deploy:** Ensure your `SimpleStorage` contract is selected in the "Contract" dropdown. Click the orange "Deploy" button.
+1. On the left-hand side, click the "Deploy & run transactions" icon (it looks like the Ethereum logo).
+2. **Environment:** Make sure the environment is set to "Remix VM (London)". This is your personal, in-browser blockchain.
+3. **Account:** You'll see a list of accounts, each pre-loaded with fake Ether. This is the account you'll use to deploy the contract.
+4. **Deploy:** Ensure your `SimpleStorage` contract is selected in the "Contract" dropdown. Click the orange "Deploy" button.
 
 You should see some activity in the Remix terminal at the bottom, and then under "Deployed Contracts," you will see your `SimpleStorage` contract.
 
@@ -142,11 +142,11 @@ You should see some activity in the Remix terminal at the bottom, and then under
 
 Click the small arrow next to your `SimpleStorage` contract to expand it. You will see buttons corresponding to the public parts of your contract.
 
--   **`favoriteNumber` (blue button):** This is the public getter function for our state variable. Click it now. It will instantly return the value `0`, which is the default value for a `uint256`.
--   **`store` (orange button):** This is our function for changing the state.
-    -   In the input field next to the `store` button, type a number (e.g., `77`).
-    -   Click the `store` button. This simulates a transaction. You'll see it logged in the terminal.
--   **Check the new value:** Now, click the blue `favoriteNumber` button again. It will now return `77`!
+- **`favoriteNumber` (blue button):** This is the public getter function for our state variable. Click it now. It will instantly return the value `0`, which is the default value for a `uint256`.
+- **`store` (orange button):** This is our function for changing the state.
+ - In the input field next to the `store` button, type a number (e.g., `77`).
+ - Click the `store` button. This simulates a transaction. You'll see it logged in the terminal.
+- **Check the new value:** Now, click the blue `favoriteNumber` button again. It will now return `77`!
 
 You have successfully written, compiled, deployed, and interacted with a smart contract. You have stored a value on a (simulated) blockchain and then retrieved it. This is the fundamental pattern behind all dApps.
 
@@ -162,27 +162,27 @@ pragma solidity ^0.8.20;
  * @notice This is a very simple contract to store and retrieve a number.
  */
 contract SimpleStorage {
-    // A state variable to store a number.
-    // It is public, so Solidity automatically creates a getter function for it.
-    uint256 public favoriteNumber;
+ // A state variable to store a number.
+ // It is public, so Solidity automatically creates a getter function for it.
+ uint256 public favoriteNumber;
 
-    /**
-     * @notice Stores a new favorite number in the contract.
-     * @param _newFavoriteNumber The new number to store.
-     */
-    function store(uint256 _newFavoriteNumber) public {
-        favoriteNumber = _newFavoriteNumber;
-    }
+ /**
+ * @notice Stores a new favorite number in the contract.
+ * @param _newFavoriteNumber The new number to store.
+ */
+ function store(uint256 _newFavoriteNumber) public {
+ favoriteNumber = _newFavoriteNumber;
+ }
 
-    /**
-     * @notice Retrieves the currently stored favorite number.
-     * @dev This function is not strictly necessary because the state variable
-     * is public, which automatically creates a getter. However, it's included
-     * here for educational purposes to show how a view function works.
-     */
-    function retrieve() public view returns (uint256) {
-        return favoriteNumber;
-    }
+ /**
+ * @notice Retrieves the currently stored favorite number.
+ * @dev This function is not strictly necessary because the state variable
+ * is public, which automatically creates a getter. However, it's included
+ * here for educational purposes to show how a view function works.
+ */
+ function retrieve() public view returns (uint256) {
+ return favoriteNumber;
+ }
 }
 ```
 *Note: I've added a `retrieve` function and some comments (`@notice`, `@dev`) which are part of a documentation standard called NatSpec. This is a good habit to get into early! The `view` keyword in the `retrieve` function means it only reads from the blockchain state and doesn't modify it, so it doesn't cost any gas to call.*

@@ -41,11 +41,11 @@ Compensation in Web3 frequently extends beyond salary alone. Token grants enable
 
 Discussions about Web3 compensation often focus solely on base salary. A complete view of earning potential encompasses the entire compensation package.
 
-| Component          | Description                                                  |
+| Component | Description |
 |--------------------|--------------------------------------------------------------|
-| **Base Salary**    | Paid in fiat currency (e.g., USD), offering stability. Web3 salaries are typically higher than Web2 equivalents. |
-| **Token Grant**    | A high-upside component that vests over time (usually 4 years). This can lead to significant wealth creation. |
-| **Equity**         | In centralized companies operating within Web3, traditional stock options may also be included. |
+| **Base Salary** | Paid in fiat currency (e.g., USD), offering stability. Web3 salaries are typically higher than Web2 equivalents. |
+| **Token Grant** | A high-upside component that vests over time (usually 4 years). This can lead to significant wealth creation. |
+| **Equity** | In centralized companies operating within Web3, traditional stock options may also be included. |
 
 For example, a candidate might receive a base salary alongside a token grant valued at a significant amount (vesting over four years). Their "on-paper" compensation totals a substantial annual figure. If the token appreciates significantly, their actual compensation can be much higher. Conversely, if the token's value declines, total compensation also decreases.
 
@@ -54,4 +54,3 @@ For example, a candidate might receive a base salary alongside a token grant val
 Market downturns can temporarily soften Web3 salaries. However, strong underlying fundamentals persist. The industry remains well-capitalized and continues to face a talent shortage that shows no signs of abating.
 
 While the speculative allure of a bull market may fade, the demand for skilled builders will endure. Web3 pays well because top performers generate immense value. As long as the industry innovates and attracts capital, it will remain a lucrative career path.
-

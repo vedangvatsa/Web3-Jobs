@@ -6,46 +6,46 @@ readTime: "9 min"
 difficulty: "beginner"
 prerequisites: ["defi"]
 quiz:
-  - question: "What is the most common type of Web3 scam?"
-    options:
-      - "Hardware wallet theft"
-      - "Phishing — fake websites or DMs that trick you into approving malicious transactions"
-      - "Blockchain hacking"
-      - "Mining scams"
-    correct: 1
-    explanation: "Phishing is by far the most common attack. Scammers create fake websites that look like real DeFi protocols or send DMs pretending to be 'support.' When you connect your wallet and sign a transaction, they drain your funds."
-  - question: "What is a 'token approval' and why is it dangerous?"
-    options:
-      - "Approving a token listing on an exchange"
-      - "Giving a smart contract permission to spend your tokens — a malicious contract can drain your wallet"
-      - "Approving a governance proposal"
-      - "Creating a new token"
-    correct: 1
-    explanation: "When you interact with a DeFi protocol, it asks you to 'approve' access to your tokens. A legitimate protocol only uses what it needs. A malicious contract can use that approval to drain your entire balance of that token."
-  - question: "What should you do if someone DMs you offering 'free tokens'?"
-    options:
-      - "Click the link quickly before it expires"
-      - "Ask for more details"
-      - "Ignore and block — it is almost certainly a scam"
-      - "Share it with friends"
-    correct: 2
-    explanation: "Unsolicited DMs about free tokens, airdrops, or investment opportunities are almost always scams. Legitimate projects do not DM individuals asking them to connect wallets."
-  - question: "What is revoke.cash used for?"
-    options:
-      - "Earning interest on crypto"
-      - "Reviewing and revoking token approvals you have given to smart contracts"
-      - "Creating new wallets"
-      - "Mining cryptocurrency"
-    correct: 1
-    explanation: "Revoke.cash lets you see all the smart contracts that have permission to spend your tokens. You can revoke approvals you no longer need, reducing your attack surface."
-  - question: "Which is the safest practice?"
-    options:
-      - "Keeping all your crypto in one hot wallet"
-      - "Using separate wallets for different purposes (daily use vs savings)"
-      - "Sharing your seed phrase with a trusted friend for backup"
-      - "Storing your seed phrase in a cloud document"
-    correct: 1
-    explanation: "Using separate wallets isolates risk. If your daily-use wallet gets compromised, your savings wallet stays safe. Never share your seed phrase with anyone, and never store it digitally."
+ - question: "What is the most common type of Web3 scam?"
+ options:
+ - "Hardware wallet theft"
+ - "Phishing — fake websites or DMs that trick you into approving malicious transactions"
+ - "Blockchain hacking"
+ - "Mining scams"
+ correct: 1
+ explanation: "Phishing is by far the most common attack. Scammers create fake websites that look like real DeFi protocols or send DMs pretending to be 'support.' When you connect your wallet and sign a transaction, they drain your funds."
+ - question: "What is a 'token approval' and why is it dangerous?"
+ options:
+ - "Approving a token listing on an exchange"
+ - "Giving a smart contract permission to spend your tokens — a malicious contract can drain your wallet"
+ - "Approving a governance proposal"
+ - "Creating a new token"
+ correct: 1
+ explanation: "When you interact with a DeFi protocol, it asks you to 'approve' access to your tokens. A legitimate protocol only uses what it needs. A malicious contract can use that approval to drain your entire balance of that token."
+ - question: "What should you do if someone DMs you offering 'free tokens'?"
+ options:
+ - "Click the link quickly before it expires"
+ - "Ask for more details"
+ - "Ignore and block — it is almost certainly a scam"
+ - "Share it with friends"
+ correct: 2
+ explanation: "Unsolicited DMs about free tokens, airdrops, or investment opportunities are almost always scams. Legitimate projects do not DM individuals asking them to connect wallets."
+ - question: "What is revoke.cash used for?"
+ options:
+ - "Earning interest on crypto"
+ - "Reviewing and revoking token approvals you have given to smart contracts"
+ - "Creating new wallets"
+ - "Mining cryptocurrency"
+ correct: 1
+ explanation: "Revoke.cash lets you see all the smart contracts that have permission to spend your tokens. You can revoke approvals you no longer need, reducing your attack surface."
+ - question: "Which is the safest practice?"
+ options:
+ - "Keeping all your crypto in one hot wallet"
+ - "Using separate wallets for different purposes (daily use vs savings)"
+ - "Sharing your seed phrase with a trusted friend for backup"
+ - "Storing your seed phrase in a cloud document"
+ correct: 1
+ explanation: "Using separate wallets isolates risk. If your daily-use wallet gets compromised, your savings wallet stays safe. Never share your seed phrase with anyone, and never store it digitally."
 ---
 
 ## The number one rule
@@ -60,36 +60,36 @@ Your best defense: slow down and verify everything.
 
 <div class="diagram">
 <svg viewBox="0 0 800 280" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <!-- Phishing -->
-  <rect x="20" y="20" width="240" height="120" rx="10" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
-  <text x="140" y="48" text-anchor="middle" font-size="13" font-weight="bold" fill="#991b1b">Phishing</text>
-  <text x="140" y="68" text-anchor="middle" font-size="10" fill="#64748b">Fake websites and DMs</text>
-  <text x="140" y="85" text-anchor="middle" font-size="10" fill="#64748b">that trick you into signing</text>
-  <text x="140" y="100" text-anchor="middle" font-size="10" fill="#64748b">malicious transactions</text>
-  <text x="140" y="125" text-anchor="middle" font-size="11" fill="#ef4444">Most common attack</text>
+ <!-- Phishing -->
+ <rect x="20" y="20" width="240" height="120" rx="10" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+ <text x="140" y="48" text-anchor="middle" font-size="13" font-weight="bold" fill="#991b1b">Phishing</text>
+ <text x="140" y="68" text-anchor="middle" font-size="10" fill="#64748b">Fake websites and DMs</text>
+ <text x="140" y="85" text-anchor="middle" font-size="10" fill="#64748b">that trick you into signing</text>
+ <text x="140" y="100" text-anchor="middle" font-size="10" fill="#64748b">malicious transactions</text>
+ <text x="140" y="125" text-anchor="middle" font-size="11" fill="#ef4444">Most common attack</text>
 
-  <!-- Rug pull -->
-  <rect x="280" y="20" width="240" height="120" rx="10" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
-  <text x="400" y="48" text-anchor="middle" font-size="13" font-weight="bold" fill="#854d0e">Rug Pull</text>
-  <text x="400" y="68" text-anchor="middle" font-size="10" fill="#64748b">Developer launches a project,</text>
-  <text x="400" y="85" text-anchor="middle" font-size="10" fill="#64748b">attracts deposits, then</text>
-  <text x="400" y="100" text-anchor="middle" font-size="10" fill="#64748b">drains all the funds</text>
-  <text x="400" y="125" text-anchor="middle" font-size="11" fill="#854d0e">Check for audits + lock-ups</text>
+ <!-- Rug pull -->
+ <rect x="280" y="20" width="240" height="120" rx="10" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+ <text x="400" y="48" text-anchor="middle" font-size="13" font-weight="bold" fill="#854d0e">Rug Pull</text>
+ <text x="400" y="68" text-anchor="middle" font-size="10" fill="#64748b">Developer launches a project,</text>
+ <text x="400" y="85" text-anchor="middle" font-size="10" fill="#64748b">attracts deposits, then</text>
+ <text x="400" y="100" text-anchor="middle" font-size="10" fill="#64748b">drains all the funds</text>
+ <text x="400" y="125" text-anchor="middle" font-size="11" fill="#854d0e">Check for audits + lock-ups</text>
 
-  <!-- Malicious approval -->
-  <rect x="540" y="20" width="240" height="120" rx="10" fill="#fdf2f8" stroke="#ec4899" stroke-width="1.5"/>
-  <text x="660" y="48" text-anchor="middle" font-size="13" font-weight="bold" fill="#9d174d">Bad Approvals</text>
-  <text x="660" y="68" text-anchor="middle" font-size="10" fill="#64748b">Approving a contract to</text>
-  <text x="660" y="85" text-anchor="middle" font-size="10" fill="#64748b">spend unlimited tokens,</text>
-  <text x="660" y="100" text-anchor="middle" font-size="10" fill="#64748b">which it later drains</text>
-  <text x="660" y="125" text-anchor="middle" font-size="11" fill="#9d174d">Use revoke.cash regularly</text>
+ <!-- Malicious approval -->
+ <rect x="540" y="20" width="240" height="120" rx="10" fill="#fdf2f8" stroke="#ec4899" stroke-width="1.5"/>
+ <text x="660" y="48" text-anchor="middle" font-size="13" font-weight="bold" fill="#9d174d">Bad Approvals</text>
+ <text x="660" y="68" text-anchor="middle" font-size="10" fill="#64748b">Approving a contract to</text>
+ <text x="660" y="85" text-anchor="middle" font-size="10" fill="#64748b">spend unlimited tokens,</text>
+ <text x="660" y="100" text-anchor="middle" font-size="10" fill="#64748b">which it later drains</text>
+ <text x="660" y="125" text-anchor="middle" font-size="11" fill="#9d174d">Use revoke.cash regularly</text>
 
-  <!-- Bottom tips -->
-  <rect x="20" y="160" width="760" height="100" rx="10" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
-  <text x="400" y="188" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Defense checklist</text>
-  <text x="400" y="210" text-anchor="middle" font-size="11" fill="#64748b">✓ Bookmark real sites · ✓ Never click DM links · ✓ Verify contract addresses</text>
-  <text x="400" y="230" text-anchor="middle" font-size="11" fill="#64748b">✓ Use hardware wallet for savings · ✓ Separate wallets for daily/savings · ✓ Revoke old approvals</text>
-  <text x="400" y="248" text-anchor="middle" font-size="11" fill="#64748b">✓ Start with small amounts · ✓ Read what you sign · ✓ If it sounds too good, it is</text>
+ <!-- Bottom tips -->
+ <rect x="20" y="160" width="760" height="100" rx="10" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+ <text x="400" y="188" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Defense checklist</text>
+ <text x="400" y="210" text-anchor="middle" font-size="11" fill="#64748b">✓ Bookmark real sites · ✓ Never click DM links · ✓ Verify contract addresses</text>
+ <text x="400" y="230" text-anchor="middle" font-size="11" fill="#64748b">✓ Use hardware wallet for savings · ✓ Separate wallets for daily/savings · ✓ Revoke old approvals</text>
+ <text x="400" y="248" text-anchor="middle" font-size="11" fill="#64748b">✓ Start with small amounts · ✓ Read what you sign · ✓ If it sounds too good, it is</text>
 </svg>
 </div>
 

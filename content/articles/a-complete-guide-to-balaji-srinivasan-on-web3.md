@@ -27,12 +27,12 @@ At the heart of Balaji's recent work lies the concept of "The Network State," wh
 
 ### Key Characteristics of a Network State
 
-| Characteristic               | Description                                                                                  |
+| Characteristic | Description |
 |------------------------------|----------------------------------------------------------------------------------------------|
-| Founded Online, Not on Land  | Initiates with an online community sharing values, distinguishing it from traditional states. |
-| From Community to Country     | Builds a digital economy with its cryptocurrency, then uses economic power to acquire territory. |
-| Diplomatic Recognition        | Aims for recognition from at least one nation-state to gain full sovereignty attributes.      |
-| Voluntary and Opt-In         | Membership is voluntary, shifting from coercive monopolies to peaceful, opt-in governance.   |
+| Founded Online, Not on Land | Initiates with an online community sharing values, distinguishing it from traditional states. |
+| From Community to Country | Builds a digital economy with its cryptocurrency, then uses economic power to acquire territory. |
+| Diplomatic Recognition | Aims for recognition from at least one nation-state to gain full sovereignty attributes. |
+| Voluntary and Opt-In | Membership is voluntary, shifting from coercive monopolies to peaceful, opt-in governance. |
 
 Balaji envisions the Network State as a successor to the nation-state, a new political organization enabled by the internet and cryptography. It offers a peaceful, exit-based alternative for those dissatisfied with existing governments.
 
@@ -70,4 +70,3 @@ Balaji's views extend into transhumanism and life extension, where he regards ag
 Balaji emphasizes the importance of a "recognized founder" in new decentralized systems, contrasting with some advocates of leaderless organizations. He argues that successful initiatives require a visionary leader to catalyze development.
 
 The model he proposes involves "centralized launch, decentralized long-term." A founder must provide initial moral and technical direction while designing systems to evolve toward greater decentralization, ultimately governed by the community.
-

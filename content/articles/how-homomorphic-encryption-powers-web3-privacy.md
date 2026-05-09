@@ -29,11 +29,11 @@ The mathematics behind HE relies on advanced lattice-based cryptography. The enc
 
 Various HE schemes enable different computational capabilities:
 
-| HE Scheme                         | Description                                                   |
+| HE Scheme | Description |
 |-----------------------------------|---------------------------------------------------------------|
 | Partially Homomorphic Encryption (PHE) | Allows unlimited operations of one type (addition or multiplication) but not both. |
-| Somewhat Homomorphic Encryption (SHE)  | Permits a limited number of both addition and multiplication operations. |
-| Fully Homomorphic Encryption (FHE)     | Enables unlimited operations of both types, accommodating any arbitrary computation. |
+| Somewhat Homomorphic Encryption (SHE) | Permits a limited number of both addition and multiplication operations. |
+| Fully Homomorphic Encryption (FHE) | Enables unlimited operations of both types, accommodating any arbitrary computation. |
 
 ### Use Cases in Web3
 
@@ -66,4 +66,3 @@ Recent advancements in both hardware, such as specialized FHE accelerator chips,
 ### The Future of On-Chain Privacy
 
 Homomorphic Encryption stands as a promising development that could transform the Web3 space. It offers a potential pathway to secure, decentralized public blockchains that do not compromise the privacy of sensitive data. Although challenges remain, the capability to compute on encrypted data will support a new generation of decentralized applications, including private DeFi systems, confidential voting mechanisms, and secure medical data analysis.
-

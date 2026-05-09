@@ -18,7 +18,7 @@ The demand for skilled technical writers in Web3 is surging. As protocols grow m
 Technical writing serves several critical functions in the Web3 ecosystem:
 
 - **Facilitating Developer Adoption:** Developers require a thorough understanding of your APIs and smart contracts before they can build on your protocol. High-quality documentation is essential for attracting and retaining developers. Ineffective documentation can deter them from engaging with your project.
-  
+
 - **Building User Trust and Safety:** Interacting with a [DeFi protocol](/what-is-defi) can be intimidating for users, as errors can lead to financial losses. Clear guides, tutorials, and explanatory content help instill user confidence and enable them to manage the platform safely.
 
 - **Minimizing Support Queries:** Well-crafted documentation anticipates common questions, reducing the workload for community and support teams. This allows community managers to focus on more strategic engagement rather than repetitive support tasks.
@@ -71,9 +71,8 @@ Breaking into this role is accessible for those passionate about Web3:
 
 Web3 technical writers can expect competitive salaries. Here are the salary ranges based on experience:
 
-| Experience Level | Salary Range  |
+| Experience Level | Salary Range |
 |------------------|---------------|
-| Entry Level      | Competitive range |
-| Mid-Level        | Competitive range |
-| Senior Level     | Competitive range |
-
+| Entry Level | Competitive range |
+| Mid-Level | Competitive range |
+| Senior Level | Competitive range |

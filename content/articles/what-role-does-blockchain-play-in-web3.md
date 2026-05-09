@@ -45,4 +45,3 @@ Blockchains come with their own native cryptocurrencies that incentivize partici
 ### The Impact of Blockchain on Web3
 
 The blockchain stands as the essential foundation of Web3, providing four essential pillars for the emerging internet: decentralized and censorship-resistant infrastructure, mechanisms for true digital ownership, automated trust, and a native economic layer. Without the unique features of blockchain technology, the vision of a more open, transparent, and user-controlled internet would remain unattainable.
-

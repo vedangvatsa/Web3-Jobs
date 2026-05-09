@@ -26,7 +26,7 @@ The influx of venture capital serves as the primary driver for job creation in W
 Decentralized Autonomous Organizations (DAOs) represent a unique aspect of the Web3 ecosystem. Many leading [DeFi](/what-is-defi) protocols are governed by DAOs that manage treasuries worth significant value.
 
 - **New Organizational Structure:** DAOs operate like traditional companies but with a twist: their "shareholders" are global token holders. This structure creates a persistent need for talent to build, maintain, and expand the protocol.
-- **Funding for Contributors:** DAOs use their treasuries to finance development and operations through grants and bounties. This model supports a vibrant freelance economy. Skilled contributors can sustain themselves by working on multiple DAO projects, a work style that is uncommon in traditional tech environments.
+- **Funding for Contributors:** DAOs use their treasuries to finance development and operations through grants and bounties. This model supports a active freelance economy. Skilled contributors can sustain themselves by working on multiple DAO projects, a work style that is uncommon in traditional tech environments.
 - **Ecosystem Funds:** Layer 1 and Layer 2 blockchains such as [Ethereum](/what-is-ethereum), Polygon, and Arbitrum have established substantial "ecosystem funds." These funds provide grants to new projects and developers building on their platforms, further stimulating the growth of new startups and jobs.
 
 ### Driver 3: The Need for Specialized Expertise
@@ -35,7 +35,7 @@ The complexity of the Web3 stack evolves rapidly, resulting in an ongoing demand
 
 - **Smart Contract Security:** As the total value locked in DeFi protocols increases, the demand for smart contract security auditors rises. These professionals play a critical role in preventing security breaches.
 - **Zero-Knowledge Proofs:** The rise of ZK-Rollups and other privacy-focused technologies creates a high demand for cryptographers and engineers skilled in the intricate mathematics of [ZK-proofs](/zero-knowledge-proofs-explained).
-- **Protocol Research:** Competitive pressures compel protocols to innovate continually. This environment leads to roles for researchers capable of designing next-generation automated market makers (AMMs), lending protocols, and governance systems.
+- **Protocol Research:** Competitive pressures compel protocols to innovate continually. This environment leads to roles for researchers capable of designing modern automated market makers (AMMs), lending protocols, and governance systems.
 - **On-Chain Data Analysis:** The transparency of blockchains has generated a new field of data science that focuses on analyzing on-chain data to understand user behavior and market trends.
 
 ### Driver 4: Expanding Use Cases in Web3
@@ -47,4 +47,3 @@ Web3 is moving beyond its initial focus on finance, applying blockchain technolo
 - **Decentralized Physical Infrastructure Networks (DePIN):** These projects use tokens to incentivize the development of physical infrastructure, from wireless networks to energy grids, leading to a demand for hardware engineers and operations specialists.
 
 The Web3 job market is not a temporary phenomenon. It arises from significant technological and organizational changes that are constructing a new economy. The combination of substantial funding, new DAO structures, and a constant demand for specialized talent has created a strong and rapidly expanding array of opportunities. Professionals with the right skill sets and a willingness to adapt can cultivate rewarding careers in Web3.
-

@@ -27,10 +27,10 @@ Ethereum chose the third path: keep Layer 1 secure and decentralized, handle vol
 
 L2 solutions process transactions off Ethereum mainnet (Layer 1), then periodically commit batched transaction data to mainnet. This creates:
 
-- **Higher throughput**: Hundreds of off-chain transactions per mainnet transaction  
-- **Cost reduction**: Distribute mainnet gas costs across many transactions  
-- **Maintained security**: Mainnet can verify L2 transaction validity  
-- **Ethereum settlement**: Final settlement on Ethereum provides security guarantees  
+- **Higher throughput**: Hundreds of off-chain transactions per mainnet transaction 
+- **Cost reduction**: Distribute mainnet gas costs across many transactions 
+- **Maintained security**: Mainnet can verify L2 transaction validity 
+- **Ethereum settlement**: Final settlement on Ethereum provides security guarantees 
 
 Think of it like local bank branches handling daily transactions but settling with the central bank periodically. The central bank (Ethereum) provides ultimate security and finality.
 
@@ -159,9 +159,9 @@ The goal is for users to interact with Ethereum without needing to understand th
 
 ## L2s vs Sidechains vs Alt-L1s
 
-- **Layer 2s**: Inherit Ethereum security, post data to mainnet  
-- **Sidechains** (Polygon PoS, Ronin): Separate consensus, do not inherit Ethereum security  
-- **Alt-L1s** (Solana, Avalanche): Completely independent blockchains  
+- **Layer 2s**: Inherit Ethereum security, post data to mainnet 
+- **Sidechains** (Polygon PoS, Ronin): Separate consensus, do not inherit Ethereum security 
+- **Alt-L1s** (Solana, Avalanche): Completely independent blockchains 
 
 L2s provide Ethereum security with better performance. Sidechains provide better performance with independent security. Alt-L1s offer different trade-offs entirely.
 

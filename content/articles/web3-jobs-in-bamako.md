@@ -27,14 +27,14 @@ Bamako's Web3 ecosystem is being constructed from the ground up, motivated by ne
 
 The formal Web3 job market in Bamako currently offers limited opportunities. However, Malian professionals can develop globally competitive skills and secure [remote work](/remote-work-in-web3) with international companies.
 
-| **Role**                                         | **Description**                                            | **Salary Range**            |
+| **Role** | **Description** | **Salary Range** |
 |--------------------------------------------------|----------------------------------------------------------|-----------------------------------|
-| Remote Web3 Developer (Full-Stack, Mobile)       | Developers working remotely for global companies          | Significant monthly compensation       |
-| Community Manager (French/Bambara)               | Building and managing communities in local languages      | Significant monthly compensation       |
-| Entrepreneurs and Educators                       | Leading new projects or educational initiatives           | Varies, often self-funded         |
+| Remote Web3 Developer (Full-Stack, Mobile) | Developers working remotely for global companies | Significant monthly compensation |
+| Community Manager (French/Bambara) | Building and managing communities in local languages | Significant monthly compensation |
+| Entrepreneurs and Educators | Leading new projects or educational initiatives | Varies, often self-funded |
 
 - **Remote Web3 Developer (Full-Stack, Mobile):** The primary opportunity lies in remote development. A strong [portfolio](/building-web3-portfolio) and proficiency in English are essential. Mid-level to senior developers can earn international salaries that provide a high standard of living in Bamako.
-  
+
 - **Community Manager (French/Bambara):** Local expertise is important for projects entering the Sahel region, creating opportunities for non-technical professionals. Mid-level community managers can expect to earn significant monthly compensation.
 
 - **Entrepreneurs and Educators:** Those who take the initiative to start new projects or lead educational efforts to onboard more Malians into Web3 have the potential for the greatest impact. These roles often rely on self-funding or grants.
@@ -42,10 +42,10 @@ The formal Web3 job market in Bamako currently offers limited opportunities. How
 ### Building a Web3 Career in Bamako
 
 1. **Become a Community Teacher:** In an area where knowledge is scarce, educators can emerge as leaders. Organize local Web3 meetups in Bamako. Start a YouTube channel or blog that explains crypto concepts in French and Bambara. This approach enhances your reputation and expands your network.
-  
+
 2. **Focus on Mobile-First FinTech:** Create projects in your portfolio that address local needs. Develop a simple, mobile-friendly dApp that tackles issues in micro-finance or remittances. This demonstrates your understanding of the local market's demands.
-  
-3. **Develop a World-Class Remote Skillset:** Your main career trajectory will involve remote work. Concentrate on building a GitHub portfolio or a body of public content that competes globally. Master asynchronous communication and professional English.
+
+3. **Develop a top-tier Remote Skillset:** Your main career trajectory will involve remote work. Concentrate on building a GitHub portfolio or a body of public content that competes globally. Master asynchronous communication and professional English.
 
 4. **Connect with the Regional Ecosystem:** Engage with the broader Francophone African Web3 community online, and attend events in cities like Dakar and Abidjan when possible. Building these connections is vital for learning and uncovering opportunities.
 
@@ -53,14 +53,14 @@ The formal Web3 job market in Bamako currently offers limited opportunities. How
 
 The following table summarizes expected salaries for various positions in Bamako's Web3 ecosystem.
 
-| **Role**                                         | **Compensation**                             |
+| **Role** | **Compensation** |
 |--------------------------------------------------|---------------------------------------------------------|
-| Junior Developer (0-1 year)                      | Significant monthly compensation                                        |
-| Mid-Level Developer (1-3 years)                  | Significant monthly compensation                                        |
-| Senior Developer (3+ years)                      | Significant monthly compensation                                      |
-| Community Manager (French/Bambara speaker)       | Significant monthly compensation                                        |
-| Operations Manager                                | Significant monthly compensation                                        |
-| Content Strategist                                | Significant monthly compensation                                        |
+| Junior Developer (0-1 year) | Significant monthly compensation |
+| Mid-Level Developer (1-3 years) | Significant monthly compensation |
+| Senior Developer (3+ years) | Significant monthly compensation |
+| Community Manager (French/Bambara speaker) | Significant monthly compensation |
+| Operations Manager | Significant monthly compensation |
+| Content Strategist | Significant monthly compensation |
 
 **Freelance Rates:**
 - Smart contract audit: Varies based on project complexity
@@ -70,14 +70,14 @@ The following table summarizes expected salaries for various positions in Bamako
 **Cost of Living in Bamako:**
 A developer earning a competitive salary monthly can expect the following expenses:
 
-| **Expense**                  | **Cost**       |
+| **Expense** | **Cost** |
 |------------------------------|----------------------|
-| Rent (nice apartment)        | Varies          |
-| Food & living costs          | Varies          |
-| Transportation               | Varies           |
-| Internet/utilities           | Varies            |
-| **Total Living**             | Varies        |
-| **Savings Potential**        | Varies      |
+| Rent (nice apartment) | Varies |
+| Food & living costs | Varies |
+| Transportation | Varies |
+| Internet/utilities | Varies |
+| **Total Living** | Varies |
+| **Savings Potential** | Varies |
 
 ### Career Path 1: Mobile-First Developer (8-14 months)
 
@@ -240,4 +240,3 @@ A: Persistence significantly reduces the likelihood of failure. Even if you do n
 
 **Q: How often should I network?**
 A: Aim to network weekly. Post on Twitter regularly, engage in Discord conversations daily, and attend local meetups or mentor calls weekly. Networking is essential, the benefits compound over time.
-

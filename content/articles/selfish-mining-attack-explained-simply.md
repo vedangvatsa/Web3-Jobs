@@ -20,12 +20,12 @@ This article clarifies the mechanics of selfish mining, its implications for blo
 
 ### Key Insights
 
-| Insight                      | Details                                                                                                                 |
+| Insight | Details |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Core Idea**                | A selfish miner keeps their discovered blocks private to gain a head start on constructing a longer secret chain.      |
-| **The Goal**                 | To force honest miners to waste their efforts on a public chain that will later be orphaned, thus increasing the selfish miner's relative share of rewards. |
-| **Key Exploit**              | This attack exploits the **[fork choice rule](/what-is-a-blockchain-fork-choice-rule)** and the inherent delays in block propagation in distributed networks. |
-| **Threat Level**             | Although theoretically possible, executing a successful selfish mining attack is challenging and typically requires a significant portion of the network's hash rate. It poses a threat to the fairness and security of blockchains. |
+| **Core Idea** | A selfish miner keeps their discovered blocks private to gain a head start on constructing a longer secret chain. |
+| **The Goal** | To force honest miners to waste their efforts on a public chain that will later be orphaned, thus increasing the selfish miner's relative share of rewards. |
+| **Key Exploit** | This attack exploits the **[fork choice rule](/what-is-a-blockchain-fork-choice-rule)** and the inherent delays in block propagation in distributed networks. |
+| **Threat Level** | Although theoretically possible, executing a successful selfish mining attack is challenging and typically requires a significant portion of the network's hash rate. It poses a threat to the fairness and security of blockchains. |
 
 ### The Honest Mining Process
 
@@ -41,24 +41,24 @@ This collaborative effort ensures that the network extends a single, canonical c
 
 A selfish miner diverges from the standard honest mining strategy. Consider a scenario where a selfish mining pool, "S," competes against a group of honest miners, "H."
 
-**Step 1: Find a Block and Keep it Secret**  
+**Step 1: Find a Block and Keep it Secret** 
 * The selfish pool "S" discovers a new block (S1).
 * Instead of broadcasting it, "S" keeps S1 private and immediately begins mining the next block (S2) on top of S1.
 
-**Step 2: The Race Begins**  
+**Step 2: The Race Begins** 
 At this stage, two races are occurring:
 * The selfish pool "S" builds on its private chain, which is now one block ahead.
 * The honest miners "H" continue to mine on the previous public block, unaware of S1's existence.
 
 This creates a "delta" of one block between the secret and public chains. The outcome will depend on who finds the next block.
 
-**Scenario A: The Honest Miners Find a Block**  
+**Scenario A: The Honest Miners Find a Block** 
 * The honest miners "H" discover a block (H1) and broadcast it.
 * The selfish pool "S" becomes aware of H1. Their secret chain (S1) is now equal in length to the public chain (H1).
 * To avoid wasting their block, "S" broadcasts S1.
 * The network splits, with some nodes receiving H1 first and others S1 first. The competition now focuses on who finds the next block on their respective chains, effectively creating a 50/50 race instead of losing their block entirely.
 
-**Scenario B: The Selfish Miner Finds Another Block**  
+**Scenario B: The Selfish Miner Finds Another Block** 
 * While the honest miners continue their work, the selfish pool "S" discovers a second block (S2) on top of S1.
 * Their secret chain (S1 -> S2) is now two blocks ahead of the public chain (delta = 2).
 * The selfish miner has a guaranteed advantage. Even if the honest miners find a block now, their chain remains only one block long, while the selfish chain is two blocks long.
@@ -82,16 +82,16 @@ In highly decentralized networks like Bitcoin, executing a successful selfish mi
 
 ### Frequently Asked Questions (FAQ)
 
-**Q: How much hash power is needed for a selfish mining attack to be profitable?**  
+**Q: How much hash power is needed for a selfish mining attack to be profitable?** 
 A: Research indicates that selfish mining could theoretically become profitable with a minority of the network's hash rate, contingent on network conditions. However, this estimate is theoretical; actual required hash power is likely higher in practice.
 
-**Q: Is selfish mining the same as a 51% attack?**  
+**Q: Is selfish mining the same as a 51% attack?** 
 A: No. A 51% attack requires a majority of hash power, granting the attacker full control to double-spend and censor transactions. Selfish mining focuses on maximizing revenue and can (theoretically) be executed by a minority miner. Nevertheless, a successful selfish mining strategy can pave the way to a 51% attack if it attracts additional miners to the selfish pool.
 
-**Q: Has selfish mining ever occurred on a major blockchain?**  
+**Q: Has selfish mining ever occurred on a major blockchain?** 
 A: There is no definitive, publicly verified case of a large-scale selfish mining attack on a major blockchain like Bitcoin. However, small-scale or subtle attempts may have occurred. The strategy's profitability is heavily reliant on ideal network conditions, which may not be present in real-world scenarios.
 
-**Q: Does Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) suffer from selfish mining?**  
+**Q: Does Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) suffer from selfish mining?** 
 A: PoS systems do not face the same risks as PoW in terms of selfish mining since block creation does not depend on computational power races. However, they can experience different strategic attacks where a validator withholds attestations or blocks to gain an advantage. PoS protocols implement various mechanisms, such as slashing penalties, to deter such behaviors.
 
 ### Why This Matters 
@@ -122,11 +122,11 @@ Continuously track your progress in mitigating selfish mining risks. Use metrics
 
 ### Real-World Examples
 
-| Name           | Role                  | Improvement Achieved                                        | Metrics Used          |
+| Name | Role | Improvement Achieved | Metrics Used |
 |----------------|-----------------------|-----------------------------------------------------------|-----------------------|
-| Sarah          | Developer             | Improved block validation time by implementing efficient algorithms.         | Block validation time decreased significantly. |
-| Juan           | Product Manager       | Enhanced team collaboration leading to faster project delivery. | Project delivery time reduced significantly.   |
-| Maya           | Transitioning to Web3 | Adapted quickly to Web3 protocols and practices.          | Successfully completed two Web3 projects within three months. |
+| Sarah | Developer | Improved block validation time by implementing efficient algorithms. | Block validation time decreased significantly. |
+| Juan | Product Manager | Enhanced team collaboration leading to faster project delivery. | Project delivery time reduced significantly. |
+| Maya | Transitioning to Web3 | Adapted quickly to Web3 protocols and practices. | Successfully completed two Web3 projects within three months. |
 
 ### Common Mistakes to Avoid
 
@@ -135,4 +135,3 @@ Continuously track your progress in mitigating selfish mining risks. Use metrics
 3. **One-Size-Fits-All Approach**: Strategies must be adaptable to your unique circumstances. Customize your methods accordingly.
 4. **Giving Up Too Soon**: Persistence is key. Overcome the initial discomfort to achieve better outcomes.
 5. **Not Tracking Progress**: Establish metrics to measure improvements. You can only enhance what you monitor.
-

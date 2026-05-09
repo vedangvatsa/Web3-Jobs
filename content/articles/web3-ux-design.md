@@ -38,13 +38,13 @@ The initial moments a user spends with your dApp are critical. The onboarding ex
 Transactions often confuse new users, necessitating a UI that offers clear and continuous feedback about transaction status.
 
 - **Pre-Transaction:**
-  - **Gas Estimation:** Clearly communicate the estimated gas fee prior to transaction signing.
-  - **Slippage Notifications:** For decentralized exchanges (DEXs), explain slippage and alert users if their trade could experience significant price changes.
-  - **Explicit Calls to Action:** Use specific language on buttons, such as "Approve USDC," to clarify user actions.
+ - **Gas Estimation:** Clearly communicate the estimated gas fee prior to transaction signing.
+ - **Slippage Notifications:** For decentralized exchanges (DEXs), explain slippage and alert users if their trade could experience significant price changes.
+ - **Explicit Calls to Action:** Use specific language on buttons, such as "Approve USDC," to clarify user actions.
 - **Post-Transaction:**
-  - **Immediate Feedback:** Update the UI to display a "Pending" state immediately after submission.
-  - **Link to Block Explorer:** Provide direct access to Etherscan or similar services for users to track their transaction progress.
-  - **Clear Confirmation/Failure Messages:** Offer a straightforward "Success!" message upon transaction confirmation. If a transaction fails, provide a clear, understandable explanation rather than an error code.
+ - **Immediate Feedback:** Update the UI to display a "Pending" state immediately after submission.
+ - **Link to Block Explorer:** Provide direct access to Etherscan or similar services for users to track their transaction progress.
+ - **Clear Confirmation/Failure Messages:** Offer a straightforward "Success!" message upon transaction confirmation. If a transaction fails, provide a clear, understandable explanation rather than an error code.
 
 ### Best Practice #3: Design for Trust and Security
 
@@ -61,7 +61,6 @@ In a trustless environment, application design must consistently build user trus
 - **Help Center & Documentation:** Maintain a detailed help center and accessible documentation, potentially through platforms like Discord.
 - **Application-Level Reversibility:** While blockchain transactions are irreversible, consider designing features that allow users to undo actions within the application, such as canceling an NFT listing before a sale.
 
-Designers play a important role in supporting Web3 adoption. By understanding user perspectives, streamlining complex interactions, and focusing on trust and security, UX/UI professionals can create intuitive experiences that promote the decentralized internet's benefits.
+Designers play a important role in supporting Web3 adoption. By understanding user perspectives, simplify complex interactions, and focusing on trust and security, UX/UI professionals can create intuitive experiences that promote the decentralized internet's benefits.
 
 ## The Expanding Web3 Opportunity
-

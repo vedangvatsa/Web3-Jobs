@@ -18,9 +18,9 @@ The demand for proficient technical writers in Web3 is surging. As projects grow
 Technical writing is important for several key areas:
 
 - **Developer Adoption**: Developers require a solid understanding of APIs and smart contracts before they can effectively use a protocol. High-quality documentation serves as a primary tool to attract and maintain a strong developer community. Insufficient documentation can deter potential contributors.
-  
+
 - **User Trust and Safety**: Engaging with a [DeFi](/what-is-defi) protocol can be intimidating for users, where even minor errors can result in significant monetary loss. Detailed guides, tutorials, and "how-to" articles are essential for instilling user confidence and ensuring safe interaction with products.
-  
+
 - **Reducing Support Load**: High-quality documentation acts as a force multiplier for community and support teams. By proactively addressing common questions, technical writers allow community managers to concentrate on more strategic engagement rather than repetitive queries.
 
 - **Internal Knowledge Sharing**: In a remote-first, globally distributed environment, internal documentation supports efficient collaboration. Technical writers create a single source of truth for project architecture, processes, and decisions, enhancing team productivity.
@@ -68,4 +68,3 @@ Breaking into this field is feasible for those passionate about technology and c
 5. **Engage with the Community**: Share your work in project Discord channels and solicit feedback. Building a reputation as someone who understands the protocol can lead directly to job opportunities.
 
 A clear thinker and precise writer passionate about simplifying the complex can find a fulfilling entry point into Web3 as a technical writer.
-

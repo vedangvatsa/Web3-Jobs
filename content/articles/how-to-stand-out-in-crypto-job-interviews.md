@@ -21,9 +21,9 @@ The first question typically asked is, "What got you into Web3? What's your stor
 **How to Prepare:**
 - **Pinpoint the Moment:** Identify the exact experience or concept that sparked your interest in Web3. This could involve using a [DeFi](/what-is-defi) protocol for the first time, reading the [Bitcoin](/what-is-bitcoin) whitepaper, or learning about [NFTs](/what-are-nfts) and their impact on artists.
 - **Structure Your Narrative:**
-  - **The Spark:** "While working in traditional finance, I became frustrated with slow settlement times. The first time I witnessed a cross-border stablecoin payment settle in seconds, I realized this was the future."
-  - **The Journey:** "This experience led me to explore DeFi extensively. I started with resources from Bankless and eventually provided liquidity on Uniswap to gain hands-on experience."
-  - **The Vision:** "Now, I aim to use my product management background to develop accessible financial tools that help users."
+ - **The Spark:** "While working in traditional finance, I became frustrated with slow settlement times. The first time I witnessed a cross-border stablecoin payment settle in seconds, I realized this was the future."
+ - **The Journey:** "This experience led me to explore DeFi extensively. I started with resources from Bankless and eventually provided liquidity on Uniswap to gain hands-on experience."
+ - **The Vision:** "Now, I aim to use my product management background to develop accessible financial tools that help users."
 
 ### 2. Present a Strong, Justified Opinion
 
@@ -70,4 +70,3 @@ Arrive at the interview with a thorough understanding of the project you're appl
 Being able to mention, "I read through your governance forum and have a question about the recent proposal to expand to a new L2…" indicates your proactive engagement and interest.
 
 By preparing your story, forming a strong opinion, showcasing your public contributions, and asking intelligent questions, you can stand out in the crowded Web3 job market. Show that you are the thoughtful, passionate, and proactive candidate every Web3 project seeks.
-

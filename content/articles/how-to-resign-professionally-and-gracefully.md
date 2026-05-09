@@ -67,12 +67,12 @@ While two weeks is customary, consult your employment contract for specific noti
 
 During your final two weeks, focus on facilitating a smooth handover. Collaborate with your manager to create a transition plan that may include:
 
-| Task                                     | Description                                                            |
+| Task | Description |
 |------------------------------------------|------------------------------------------------------------------------|
-| **Document Key Responsibilities**        | Create a guide detailing your main tasks and processes for your successor. |
-| **Organize Files**                       | Ensure all project files and important documents are accessible and well-organized. |
-| **Train Your Replacement**               | If possible, train your successor and introduce them to key team members. |
-| **Complete Critical Tasks**              | Aim to finish any urgent projects before your departure.              |
+| **Document Key Responsibilities** | Create a guide detailing your main tasks and processes for your successor. |
+| **Organize Files** | Ensure all project files and important documents are accessible and well-organized. |
+| **Train Your Replacement** | If possible, train your successor and introduce them to key team members. |
+| **Complete Critical Tasks** | Aim to finish any urgent projects before your departure. |
 
 A proactive and cooperative attitude during your notice period will be remembered positively.
 
@@ -129,12 +129,11 @@ Monitor your progress regularly. Are you achieving your goals? Adjust your strat
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process**: Expecting immediate results can lead to disappointment. Sustainable change requires time.
-   
-2. **Ignoring Feedback**: Colleagues, managers, and mentors can provide insights you may overlook. Value their input.
-   
-3. **One-Size-Fits-All Approach**: What works for one person may not work for another. Customize your strategies to fit your unique context.
-   
-4. **Giving Up Too Soon**: Change can be uncomfortable. Persist through initial difficulties to achieve the desired outcomes.
-   
-5. **Neglecting Progress Tracking**: You cannot improve what you do not measure. Keep metrics on your progress.
 
+2. **Ignoring Feedback**: Colleagues, managers, and mentors can provide insights you may overlook. Value their input.
+
+3. **One-Size-Fits-All Approach**: What works for one person may not work for another. Customize your strategies to fit your unique context.
+
+4. **Giving Up Too Soon**: Change can be uncomfortable. Persist through initial difficulties to achieve the desired outcomes.
+
+5. **Neglecting Progress Tracking**: You cannot improve what you do not measure. Keep metrics on your progress.

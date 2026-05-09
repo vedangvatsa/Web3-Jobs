@@ -62,28 +62,27 @@ Despite their potential, Layer 3 solutions face scrutiny and challenges.
 
 The emergence of Layer 3 solutions aligns with the overarching trend toward a modular blockchain architecture. This concept posits that instead of a single, all-encompassing blockchain, the future will comprise specialized layers working in tandem.
 
-| Layer Type             | Function                                          | Characteristics                      |
+| Layer Type | Function | Characteristics |
 |-----------------------|--------------------------------------------------|--------------------------------------|
-| **Execution Layer (L3)** | Application-specific transaction handling       | Optimized for speed and customization |
-| **Settlement Layer (L2)** | Proof posting and dispute resolution            | Optimized for security and verification |
-| **Data Availability Layer (L1)** | Core source of truth and security           | Ensures data availability for verification |
+| **Execution Layer (L3)** | Application-specific transaction handling | Optimized for speed and customization |
+| **Settlement Layer (L2)** | Proof posting and dispute resolution | Optimized for security and verification |
+| **Data Availability Layer (L1)** | Core source of truth and security | Ensures data availability for verification |
 
 This modular approach envisions a dynamic ecosystem of interconnected L3 appchains, all settling on a few prominent L2s, which are secured by the reliable foundation of Ethereum.
 
 ### Frequently Asked Questions (FAQ)
 
-**1. What distinguishes Layer 2 from Layer 3?**  
+**1. What distinguishes Layer 2 from Layer 3?** 
 Layer 2 serves as a general-purpose scaling solution directly linked to Layer 1 (Ethereum). In contrast, Layer 3 represents a specialized, application-specific scaling solution that settles on Layer 2.
 
-**2. Is Layer 3 security comparable to Layer 2?**  
+**2. Is Layer 3 security comparable to Layer 2?** 
 Layer 3 security derives from the underlying Layer 2, which in turn is secured by Layer 1. While theoretically part of a unified security framework, the sequencer's centralized management can introduce risks like censorship not present in L1 or L2.
 
-**3. Are Layer 3 solutions necessary, or can we enhance Layer 2 speeds?**  
+**3. Are Layer 3 solutions necessary, or can we enhance Layer 2 speeds?** 
 While Layer 2 solutions will continue to improve, they serve general purposes. Layer 3s cater to applications requiring performance or customization beyond what a general-purpose L2 can offer, such as games needing high transaction rates.
 
-**4. What are examples of emerging Layer 3 projects?**  
+**4. What are examples of emerging Layer 3 projects?** 
 The Layer 3 ecosystem is still developing, with projects like the Arbitrum Orbit framework enabling developers to launch their own L3s on Arbitrum One and the OP Stack facilitating L3 creation within the Optimism ecosystem.
 
-**5. Can a Layer 3 have its own token?**  
+**5. Can a Layer 3 have its own token?** 
 Yes, it can use ETH or the parent L2's native token for transaction fees. However, many appchains will likely issue their own tokens for governance, staking, or fees within their network, enabling the creation of micro-economies.
-

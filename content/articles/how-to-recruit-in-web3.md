@@ -28,12 +28,12 @@ While some Web3 professionals maintain LinkedIn profiles, the primary channels f
 In Web3, demonstrated accomplishments carry more weight than traditional employment history. Recruiters must learn to assess "proof of work."
 
 - **For Developers:**
-    - **GitHub Review:** Examine their personal projects. Check for clean, well-documented code and a thorough test suite. A lack of tests can indicate carelessness.
-    - **On-Chain Activity:** Use block explorers to analyze their public [wallet](/how-to-choose-a-crypto-wallet) address. Investigate the protocols they’ve engaged with and their participation in governance.
+ - **GitHub Review:** Examine their personal projects. Check for clean, well-documented code and a thorough test suite. A lack of tests can indicate carelessness.
+ - **On-Chain Activity:** Use block explorers to analyze their public [wallet](/how-to-choose-a-crypto-wallet) address. Investigate the protocols they’ve engaged with and their participation in governance.
 - **For Non-Technical Roles:**
-    - **Public Writing:** Assess their contributions through insightful Twitter threads or blog posts. This reflects their expertise and communication skills.
-    - **[DAO](/what-is-a-dao) Contributions:** Check their involvement in [DAOs](/the-rise-of-daos). Review their comments in governance forums and their proposals, which highlight their initiative and strategic thinking.
-    - **Dune Dashboards:** For analytical roles, a portfolio featuring insightful Dune dashboards can signal strong capabilities.
+ - **Public Writing:** Assess their contributions through insightful Twitter threads or blog posts. This reflects their expertise and communication skills.
+ - **[DAO](/what-is-a-dao) Contributions:** Check their involvement in [DAOs](/the-rise-of-daos). Review their comments in governance forums and their proposals, which highlight their initiative and strategic thinking.
+ - **Dune Dashboards:** For analytical roles, a portfolio featuring insightful Dune dashboards can signal strong capabilities.
 
 ### Principle #3: Your Project is Also Being Interviewed
 
@@ -54,4 +54,3 @@ Web3 compensation structures differ significantly from traditional roles. Be pre
 Clearly explain the project's [tokenomics](/understanding-tokenomics) and the potential long-term value of the token grant. This information is important for closing top candidates.
 
 Recruiting in Web3 demands a profound understanding of the ecosystem. Passive observation will not yield success. By actively engaging with the community, evaluating both on-chain and off-chain proof of work, and building a collaborative hiring process, you can attract and retain the elite talent necessary to build the decentralized internet.
-

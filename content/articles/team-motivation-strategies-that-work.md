@@ -23,12 +23,12 @@ Autonomy focuses on granting individuals control over their work rather than iso
 
 **Actionable Strategies to Build Autonomy:**
 
-| Strategy                        | Implementation Example                                                                                                                                  |
+| Strategy | Implementation Example |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Focus on Outcomes, Not Process  | Define goals and objectives but allow teams the flexibility to determine their approach. <br>*Instead of:* "First, you need to create a ticket..." <br>*Try:* "Our goal is to reduce login errors significantly. I trust you to find the best approach." |
-| Flexible Work Hours             | Allow team members to choose their working hours. Flexibility shows respect for individual productivity patterns.                                       |
-| Encourage 20% Time              | Implement policies similar to Google's 20% time, allowing employees to pursue projects of their choice that benefit the company.                       |
-| Choice of Tools                 | Allow team members to select the tools and technologies they find most effective, building ownership and pride in their work.                           |
+| Focus on Outcomes, Not Process | Define goals and objectives but allow teams the flexibility to determine their approach. <br>*Instead of:* "First, you need to create a ticket..." <br>*Try:* "Our goal is to reduce login errors significantly. I trust you to find the best approach." |
+| Flexible Work Hours | Allow team members to choose their working hours. Flexibility shows respect for individual productivity patterns. |
+| Encourage 20% Time | Implement policies similar to Google's 20% time, allowing employees to pursue projects of their choice that benefit the company. |
+| Choice of Tools | Allow team members to select the tools and technologies they find most effective, building ownership and pride in their work. |
 
 ### 2. Mastery: The Urge to Get Better at What Matters
 
@@ -36,12 +36,12 @@ Individuals naturally desire to enhance their skills and master their craft. Job
 
 **Actionable Strategies to Build Mastery:**
 
-| Strategy                        | Implementation Example                                                                                                                                  |
+| Strategy | Implementation Example |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Assign "Goldilocks" Tasks      | Assign tasks that are appropriately challenging, neither too hard nor too easy. This balance encourages skill development without overwhelming individuals. |
-| Learning and Development Budget  | Allocate an annual budget for each employee to spend on books, courses, or conferences, showcasing your commitment to their growth.                     |
-| Mentorship Opportunities         | Establish mentorship programs pairing junior employees with experienced mentors to facilitate learning and development through shared experiences.       |
-| Celebrate Skill Growth          | Acknowledge skill development alongside project completion. <br>*Instead of:* "Great job finishing the project." <br>*Try:* "Your refactoring of that code was impressive." |
+| Assign "Goldilocks" Tasks | Assign tasks that are appropriately challenging, neither too hard nor too easy. This balance encourages skill development without overwhelming individuals. |
+| Learning and Development Budget | Allocate an annual budget for each employee to spend on books, courses, or conferences, showcasing your commitment to their growth. |
+| Mentorship Opportunities | Establish mentorship programs pairing junior employees with experienced mentors to facilitate learning and development through shared experiences. |
+| Celebrate Skill Growth | Acknowledge skill development alongside project completion. <br>*Instead of:* "Great job finishing the project." <br>*Try:* "Your refactoring of that code was impressive." |
 
 ### 3. Purpose: The Yearning to Contribute to Something Larger
 
@@ -49,12 +49,12 @@ People feel most motivated when their work aligns with a greater mission. Leader
 
 **Actionable Strategies to Build Purpose:**
 
-| Strategy                                   | Implementation Example                                                                                                                                  |
+| Strategy | Implementation Example |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Reinforce the "Why"                        | Begin meetings by discussing the purpose behind each project. Clarify why the work matters and who it impacts.                                         |
-| Connect Work to Customer Impact            | Share customer feedback and success stories. When team members see the positive impact of their efforts, it instills a powerful sense of purpose.      |
-| Transparency About Company Goals           | Keep the team informed about strategic goals and challenges. Transparency builds a sense of trust and belonging.                                        |
-| Stake in Outcomes                          | Offer equity or tokens to team members. This aligns their interests with the company's success, creating a shared mission and sense of ownership.      |
+| Reinforce the "Why" | Begin meetings by discussing the purpose behind each project. Clarify why the work matters and who it impacts. |
+| Connect Work to Customer Impact | Share customer feedback and success stories. When team members see the positive impact of their efforts, it instills a powerful sense of purpose. |
+| Transparency About Company Goals | Keep the team informed about strategic goals and challenges. Transparency builds a sense of trust and belonging. |
+| Stake in Outcomes | Offer equity or tokens to team members. This aligns their interests with the company's success, creating a shared mission and sense of ownership. |
 
 ### The Role of Compensation
 
@@ -77,4 +77,3 @@ Understanding these concepts significantly impacts professional success. In dyna
 4. **Implement Gradually**: Begin with small, manageable changes and build upon them. Monitor what works and adjust as necessary.
 
 5. **Measure and Adjust**: Continuously track your progress. Assess results and adapt your strategies based on feedback and outcomes.
-

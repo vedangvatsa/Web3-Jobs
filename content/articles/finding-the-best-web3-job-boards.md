@@ -27,18 +27,18 @@ Searching for a job in this environment can be overwhelming. Identifying legitim
 
 For those serious about building a career in Web3, the following platforms are essential starting points.
 
-| Job Board               | Description                                                                                   | Best For                                    |
+| Job Board | Description | Best For |
 |-------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------|
-| **Hashtag Web3**       | A Telegram channel offering real-time job postings and networking opportunities. | All professionals, from developers to marketers. |
-| **CryptoJobs**          | A well-established job board featuring a variety of roles from reputable companies with a user-friendly interface. | Candidates who prefer a traditional web interface. |
-| **Web3.career**        | Similar to CryptoJobs, this platform provides a range of listings and filtering options for job seekers. | Those seeking a broad spectrum of job types. |
+| **Hashtag Web3** | A Telegram channel offering real-time job postings and networking opportunities. | All professionals, from developers to marketers. |
+| **CryptoJobs** | A well-established job board featuring a variety of roles from reputable companies with a user-friendly interface. | Candidates who prefer a traditional web interface. |
+| **Web3.career** | Similar to CryptoJobs, this platform provides a range of listings and filtering options for job seekers. | Those seeking a broad spectrum of job types. |
 
 ### The Influence of Venture Capital Portfolios
 
 Venture capital (VC) firms play a important role in funding Web3 startups. Their [portfolio](/building-web3-portfolio) job pages offer a treasure trove of quality opportunities at established companies.
 
 1. **a16z Crypto Jobs**: Andreessen Horowitz (a16z) is a leading investor in Web3. Their job page lists open roles across their portfolio companies, which include many top names in the industry.
-2. **Model Jobs**: Model, a major crypto-focused venture fund, features a curated list of roles in engineering, research, and design at their portfolio companies, often at the forefront of Web3 innovation.
+2. **Model Jobs**: Model, a major crypto-focused venture fund, features a curated list of roles in engineering, research, and design at their portfolio companies, often leading Web3 innovation.
 
 ### Niche and Specialized Platforms
 
@@ -54,4 +54,3 @@ Venture capital (VC) firms play a important role in funding Web3 startups. Their
 The Web3 job search departs from the traditional corporate approach, rewarding passion, initiative, and authentic contributions. By concentrating your efforts on the right platforms and accepting the culture of transparency and public building, you can rise above the noise of mainstream job sites and secure a role that allows you to impact the future of the internet.
 
 ## Understanding the Web3 Opportunity
-

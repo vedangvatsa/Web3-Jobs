@@ -18,35 +18,35 @@ The Web3 community in Addis Ababa features a grassroots environment filled with 
 
 Although the Web3 ecosystem in Addis Ababa is still developing, it possesses several critical components for future growth.
 
-| Factor                    | Details                                                                                      |
+| Factor | Details |
 |--------------------------|----------------------------------------------------------------------------------------------|
-| **Youth Population**     | Ethiopia has one of the youngest demographics globally, eager to adopt new technologies.    |
-| **Use Case Focus**       | The community emphasizes practical applications, such as decentralized identity systems and transparent supply chains for coffee. |
-| **Government Interest**   | The Ethiopian government has shown interest in blockchain initiatives, including a digital identity system for students. |
-| **Developer Community**   | While small, the local developer community is enthusiastic. Hubs like IceAddis nurture tech entrepreneurship and collaboration. |
+| **Youth Population** | Ethiopia has one of the youngest demographics globally, eager to adopt new technologies. |
+| **Use Case Focus** | The community emphasizes practical applications, such as decentralized identity systems and transparent supply chains for coffee. |
+| **Government Interest** | The Ethiopian government has shown interest in blockchain initiatives, including a digital identity system for students. |
+| **Developer Community** | While small, the local developer community is enthusiastic. Hubs like IceAddis nurture tech entrepreneurship and collaboration. |
 
 ### In-Demand Roles and Salary Expectations
 
 The formal Web3 job market in Addis Ababa is small but growing. Opportunities primarily exist within local startups, NGOs conducting blockchain pilot projects, and remote positions with international companies.
 
 * **[Blockchain Developer](/how-to-become-a-blockchain-developer) (focus on practical applications):** There is a rising demand for developers capable of creating solutions, particularly in digital identity and supply chain management.
-    - **Mid-Level:** Competitive local salaries.
-    - **Senior / Remote:** Potential for significantly higher, USD-denominated salaries.
+ - **Mid-Level:** Competitive local salaries.
+ - **Senior / Remote:** Potential for significantly higher, USD-denominated salaries.
 
 * **Community Educators and Organizers:** These roles are vital in a developing market. Professionals who can run workshops, organize meetups, and create educational content in local languages (such as Amharic) are important for ecosystem growth.
-    - **Stipends and Grants:** Often provided by international organizations entering the Ethiopian market.
+ - **Stipends and Grants:** Often provided by international organizations entering the Ethiopian market.
 
 * **Project Managers (experience in NGOs or Agribusiness):** Individuals who can effectively manage blockchain pilot implementations in agriculture or humanitarian sectors are highly sought after.
-    - **Experienced Professionals:** Competitive local salaries.
+ - **Experienced Professionals:** Competitive local salaries.
 
 ### Building a Web3 Career in Addis Ababa
 
 1. **Educate and Lead:** The young ecosystem provides an opportunity to establish yourself as a leader. Start a blog, YouTube channel, or local meetup group focusing on Web3 education. This approach quickly builds your reputation.
 2. **Address Real-World Problems:** In your [portfolio](/building-web3-portfolio), emphasize projects that tackle specific challenges in Ethiopia.
-    - *Example Project:* Develop a [smart contract](/what-are-smart-contracts) to monitor coffee shipments from co-ops to exporters.
-    - *Example Project:* Create a decentralized application (dApp) for community savings groups (known as "Ekub").
+ - *Example Project:* Develop a [smart contract](/what-are-smart-contracts) to monitor coffee shipments from co-ops to exporters.
+ - *Example Project:* Create a decentralized application (dApp) for community savings groups (known as "Ekub").
 3. **Engage with International Development Entities:** Many large-scale blockchain initiatives in Ethiopia will likely receive funding from international organizations like the UN or World Bank. Build connections with tech and innovation leaders in these organizations based in Addis Ababa.
-4. **Develop a Competitive Technical Portfolio:** The most lucrative opportunities will likely be remote. Focus on acquiring world-class development skills and maintaining a GitHub profile that can compete internationally.
+4. **Develop a Competitive Technical Portfolio:** The most lucrative opportunities will likely be remote. Focus on acquiring top-tier development skills and maintaining a GitHub profile that can compete internationally.
 
 ### Next Steps: Finding a Web3 Job
 
@@ -54,11 +54,11 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 
 ## Complete Salary Guide: Web3 Jobs in Addis Ababa
 
-| Role                          | Local/Remote Hybrid Salary Range                | Full-Time Remote Salary Range         |
+| Role | Local/Remote Hybrid Salary Range | Full-Time Remote Salary Range |
 |-------------------------------|------------------------------------------------|---------------------------------------|
-| **Blockchain Developer**      | Competitive local salaries                      | Competitive remote salaries           |
-| **Community Manager**         | Competitive local salaries                      |                                       |
-| **Project Manager**           | Competitive local salaries                      |                                       |
+| **Blockchain Developer** | Competitive local salaries | Competitive remote salaries |
+| **Community Manager** | Competitive local salaries | |
+| **Project Manager** | Competitive local salaries | |
 
 ## Career Paths in Addis Ababa Web3
 
@@ -86,9 +86,9 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 **Months 1-5: Build Portfolio**
 - Learn essential skills: [Solidity](/best-programming-languages-for-blockchain-development), smart contracts, and dApp development.
 - Develop projects that solve Ethiopian issues:
-  - Digital identity proof-of-concept.
-  - Coffee supply chain tracker.
-  - Community savings group (Ekub) dApp.
+ - Digital identity proof-of-concept.
+ - Coffee supply chain tracker.
+ - Community savings group (Ekub) dApp.
 - Network with developers, NGOs, and government tech leads.
 - **Deliverable:** Several projects and a strong portfolio.
 
@@ -188,7 +188,7 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 
 **Week 11-12:**
 - [ ] Target securing either a paid role/grant or a significant number of attendees at weekly workshops.
-- [ ] Reflect on your journey: "Pioneering Web3 in Ethiopia."
+- [ ] Reflect on your journey: "early Web3 in Ethiopia."
 - [ ] Outline your next phase.
 
 **Expected Outputs after 90 Days:**
@@ -223,4 +223,3 @@ A: Opportunities in community management, education, or policy do not require ex
 
 **Q8: Is focusing on such an early market risky?**
 A: Yes, but this also presents a significant opportunity. Establishing yourself early can provide considerable advantages.
-

@@ -19,7 +19,7 @@ This guide outlines the process of creating AI art using Midjourney, a widely us
 The foundation of AI art generators lies in a process known as diffusion. This technique allows the AI to create images by interpreting the prompts provided by users. Here’s how the process works:
 
 1. **Training the Model**: The AI undergoes training on a vast dataset of images paired with text descriptions. It learns to associate words with specific visual characteristics. For instance, it understands what a "dog" or "forest" looks like and recognizes various artistic styles, including "impressionism" and "cyberpunk."
-   
+
 2. **Generating Noise**: The process begins with a random noise field, reminiscent of the static seen on an old television.
 
 3. **Providing Guidance**: You input a text prompt, such as "a majestic lion wearing a crown in the style of a renaissance oil painting."
@@ -55,7 +55,7 @@ All commands in Midjourney start with a forward slash (`/`). To generate an imag
 1. In the message box of the newbie channel, type `/imagine`.
 2. A prompt box will appear; this is where you input your text description.
 3. Start with a straightforward prompt. For example, type:
-   `"A friendly robot waving hello, cute character, 3D render"`
+ `"A friendly robot waving hello, cute character, 3D render"`
 4. Press Enter.
 
 Your request is sent to the Midjourney bots. You will see your prompt in the channel, and shortly, a grid of four low-resolution images will begin to generate. This process typically takes about one minute.
@@ -79,7 +79,7 @@ Writing a basic prompt is just the beginning. Crafting detailed and imaginative 
 **Essential Elements of a Strong Prompt:**
 
 1. **Subject**: Specify the primary focus. Instead of "a car," use "a vintage 1960s convertible sports car."
-   
+
 2. **Action or Setting**: Describe what the subject is doing and its environment. For example, "A vintage 1960s convertible sports car driving on a winding coastal road at sunset."
 
 3. **Style and Medium**: Define how you want the image to appear. Indicate whether it should resemble a photograph, painting, or another medium. For instance, "in the style of a 35mm film photograph, golden hour lighting."
@@ -90,10 +90,10 @@ Writing a basic prompt is just the beginning. Crafting detailed and imaginative 
 
 **Example Comparisons of Prompts:**
 
-| Prompt Type      | Example Prompt                                           | Outcome                               |
+| Prompt Type | Example Prompt | Outcome |
 |------------------|---------------------------------------------------------|---------------------------------------|
-| Simple Prompt    | "A dragon."                                            | Generic image of a dragon.           |
-| Detailed Prompt  | "A majestic black dragon, perched on a snowy mountain peak, breathing blue fire, epic fantasy art, cinematic lighting, ultra detailed, --ar 16:9" | A specific and impressive image. |
+| Simple Prompt | "A dragon." | Generic image of a dragon. |
+| Detailed Prompt | "A majestic black dragon, perched on a snowy mountain peak, breathing blue fire, epic fantasy art, cinematic lighting, ultra detailed, --ar 16:9" | A specific and impressive image. |
 
 The detailed prompt provides the AI with precise instructions regarding the subject, setting, action, style, quality, and format.
 
@@ -102,7 +102,7 @@ The detailed prompt provides the AI with precise instructions regarding the subj
 Engaging with AI art requires experimentation and creativity.
 
 - **Observe Others**: Use the Discord channels as a source of inspiration. Analyze images you find appealing and study the prompts that generated them. Identify the words and styles they employed.
-  
+
 - **Combine Unconventional Ideas**: Experiment with unexpected combinations, such as "An astronaut riding a bicycle on the moon in the style of a Van Gogh painting" or "A library inside a giant, ancient tree." The AI excels at synthesizing diverse concepts into unique creations.
 
 - **Use the "Vary" Buttons**: If you receive an image that is close to your vision, explore similar options using the V buttons. This is an effective way to refine your artwork.
@@ -111,20 +111,19 @@ Creating AI art is a collaborative endeavor between you and the model. You act a
 
 ### Frequently Asked Questions (FAQs)
 
-**1. Who owns the art I create with AI?**  
+**1. Who owns the art I create with AI?** 
 Ownership varies based on the terms of service of the respective tool. For Midjourney's paid plans, users typically retain rights to the images they create and can use them commercially. However, it's important to review the most current terms, as the legalities surrounding AI-generated art are still developing.
 
-**2. Can I sell the art I make?**  
+**2. Can I sell the art I make?** 
 Yes, many artists successfully sell their AI-generated art as prints or digital downloads. Developing a distinctive style and curating your work to a high standard is essential. Simply selling random images is not advisable; a clear vision enhances marketability.
 
 **3. What are some other AI art tools besides Midjourney?**
 
-| Tool              | Description |
+| Tool | Description |
 |-------------------|-------------|
-| Stable Diffusion   | An open-source model that offers powerful, customizable options, though it requires more technical setup. |
-| DALL-E 3          | Developed by OpenAI, it excels at interpreting complex prompts and is integrated into ChatGPT for subscribers. |
-| Leonardo.Ai       | A user-friendly platform featuring various AI models, ideal for beginners seeking to try different styles. |
+| Stable Diffusion | An open-source model that offers powerful, customizable options, though it requires more technical setup. |
+| DALL-E 3 | Developed by OpenAI, it excels at interpreting complex prompts and is integrated into ChatGPT for subscribers. |
+| Leonardo.Ai | A user-friendly platform featuring various AI models, ideal for beginners seeking to try different styles. |
 
-**4. Why doesn't my image look exactly like my prompt?**  
+**4. Why doesn't my image look exactly like my prompt?** 
 The AI interprets your prompt rather than replicating it. Variability in output can occur due to the model's learned patterns. If the result does not align with your expectations, rephrase your prompt, enhance specificity, or use the "reroll" and "vary" options for better guidance.
-

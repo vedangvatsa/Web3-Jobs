@@ -30,7 +30,7 @@ Prior to 2021, Ethereum operated on a first-price auction model for gas fees, wh
 EIP-1559 divides the gas fee into two components:
 
 1. **Base Fee**: This protocol-defined fee is necessary for a transaction to be included in a block. The network algorithmically adjusts the base fee based on congestion. If the previous block was over 50% full, the base fee increases; if less than 50% full, it decreases. Importantly, the base fee is burned rather than paid to validators, creating a deflationary effect on ETH.
-  
+
 2. **Priority Fee (Tip)**: This optional fee allows users to incentivize validators to prioritize their transactions. During periods of high congestion, higher priority fees can expedite transaction confirmation.
 
 Thus, the total gas price a user pays is: **`gasPrice = Base Fee + Priority Fee`**.
@@ -39,25 +39,25 @@ Thus, the total gas price a user pays is: **`gasPrice = Base Fee + Priority Fee`
 
 Developers must focus on writing gas-efficient code. High gas costs can deter users from interacting with decentralized applications (dApps). Below are essential optimization techniques.
 
-**1. Minimize Storage Writes (`SSTORE`)**  
+**1. Minimize Storage Writes (`SSTORE`)** 
 Writing to storage is the most expensive operation in the EVM. Reading from storage (`SLOAD`) costs significantly less.
 - **Bad Practice**: Executing multiple calculations that each write to a state variable.
 - **Good Practice**: Load the variable into a cheaper `memory` variable, perform calculations, and write the final result to `storage` only once.
 
-**2. Use the Right Data Types (Struct Packing)**  
+**2. Use the Right Data Types (Struct Packing)** 
 The EVM processes data in 32-byte (256-bit) words. Packing smaller variables into a single slot can save gas.
 - **Bad Practice**: Declaring struct variables randomly, such as `uint128, uint256, uint128`, which uses three storage slots.
 - **Good Practice**: Ordering variables from smallest to largest (e.g., `uint128, uint128, uint256`) enables the compiler to pack two `uint128` variables into a single 32-byte slot.
 
-**3. Use `calldata` for External Function Arguments**  
+**3. Use `calldata` for External Function Arguments** 
 For external arguments, especially dynamic types like `string` or `bytes`, using `calldata` is more cost-effective than `memory`. This read-only location avoids the expensive copying process.
 
-**4. Use Custom Errors**  
+**4. Use Custom Errors** 
 Instead of traditional `require(condition, "Error message")` statements, use custom errors introduced in Solidity 0.8.4.
 - **Bad Practice**: Storing error strings on-chain, which incurs gas costs.
 - **Good Practice**: Defining custom errors like `error NotTheOwner();` and reverting conditions with `revert NotTheOwner();`, which is cheaper.
 
-**5. Use `unchecked` for Safe Math**  
+**5. Use `unchecked` for Safe Math** 
 Since Solidity 0.8.0, arithmetic operations include overflow checks that add gas costs. If certain operations cannot overflow, wrap them in an `unchecked` block to save gas. Caution is important, as unexpected overflows can lead to vulnerabilities.
 
 ### The Role of Layer 2
@@ -72,18 +72,17 @@ Mastering gas fees can enhance your career prospects. Professionals who understa
 
 ### Step-by-Step Approach to Gas Optimization
 
-**Step 1: Understand the Fundamentals**  
+**Step 1: Understand the Fundamentals** 
 Grasping core principles is vital. This foundation will guide your actions in gas optimization. Research best practices from industry leaders to build your knowledge.
 
-**Step 2: Assess Your Current Situation**  
+**Step 2: Assess Your Current Situation** 
 Evaluate your strengths and weaknesses in gas optimization. Identify specific challenges that affect your efficiency.
 
-**Step 3: Develop Your Personal Strategy**  
+**Step 3: Develop Your Personal Strategy** 
 Create a customized plan based on your situation. Your approach should consider your role, team dynamics, and personal goals to be effective.
 
-**Step 4: Implement Gradually**  
+**Step 4: Implement Gradually** 
 Avoid overwhelming changes. Start with small adjustments and expand from there. Track what works and what doesn’t to facilitate continuous improvement.
 
-**Step 5: Measure and Adjust**  
+**Step 5: Measure and Adjust** 
 Monitor your progress regularly. Assess whether you are achieving desired results and adjust your strategies accordingly.
-

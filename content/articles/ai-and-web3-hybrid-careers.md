@@ -80,19 +80,19 @@ Traditional Product Managers collect user feedback to guide product development.
 Entering this hybrid field requires a proactive, multidisciplinary approach to skill development.
 
 1. **Strengthen Your Foundation:**
-   * **For those with an AI background:** Learn Web3 fundamentals. Understand how [Ethereum](/what-is-ethereum) operates and familiarize yourself with Solidity by developing a basic dApp. Grasp core concepts of public key cryptography, smart contracts, and gas fees. This knowledge will help you understand the constraints and capabilities of the on-chain environment.
-   * **For those with a Web3 background:** Develop a practical understanding of AI. While a PhD is not necessary, completing introductory courses on machine learning, such as Andrew Ng's courses on Coursera, is beneficial. Learn Python and become comfortable with libraries like PyTorch and Pandas. This will enable you to communicate effectively in the AI domain and recognize its possibilities and limitations.
+ * **For those with an AI background:** Learn Web3 fundamentals. Understand how [Ethereum](/what-is-ethereum) operates and familiarize yourself with Solidity by developing a basic dApp. Grasp core concepts of public key cryptography, smart contracts, and gas fees. This knowledge will help you understand the constraints and capabilities of the on-chain environment.
+ * **For those with a Web3 background:** Develop a practical understanding of AI. While a PhD is not necessary, completing introductory courses on machine learning, such as Andrew Ng's courses on Coursera, is beneficial. Learn Python and become comfortable with libraries like PyTorch and Pandas. This will enable you to communicate effectively in the AI domain and recognize its possibilities and limitations.
 
 2. **Build a Hybrid Project:** The most effective way to showcase your skills is through practical application.
-   * Create a dApp that incorporates a machine learning model as one of its features.
-   * Develop a Dune Analytics dashboard employing statistical analysis to reveal non-obvious trends.
-   * Attempt to replicate a ZKML research paper by implementing a simplified version of the circuit.
-   * This "proof of work" serves as a strong addition to your [resume](/how-to-build-a-web3-resume-that-stands-out).
+ * Create a dApp that incorporates a machine learning model as one of its features.
+ * Develop a Dune Analytics dashboard employing statistical analysis to reveal non-obvious trends.
+ * Attempt to replicate a ZKML research paper by implementing a simplified version of the circuit.
+ * This "proof of work" serves as a strong addition to your [resume](/how-to-build-a-web3-resume-that-stands-out).
 
 3. **Engage with the Community:** The AI-Web3 ecosystem is evolving in an open environment.
-   * Follow and interact with leading researchers and projects on platforms like X (Twitter) and Farcaster.
-   * Join Discord communities for projects and participate in discussions, ask insightful questions, and contribute where possible.
-   * Keep abreast of research papers, as many significant advancements occur in academia before transitioning into practical applications. Monitoring papers on arXiv is essential.
+ * Follow and interact with leading researchers and projects on platforms like X (Twitter) and Farcaster.
+ * Join Discord communities for projects and participate in discussions, ask insightful questions, and contribute where possible.
+ * Keep abreast of research papers, as many significant advancements occur in academia before transitioning into practical applications. Monitoring papers on arXiv is essential.
 
 ### The Next Five Years: Anticipated Developments
 
@@ -106,13 +106,13 @@ The AI-Web3 revolution is unfolding. For professionals willing to accept complex
 
 ### Career Comparison Table
 
-| Role                               | Key Skills Needed                                          | Average Salary Range      | Job Market Demand       |
+| Role | Key Skills Needed | Average Salary Range | Job Market Demand |
 |------------------------------------|----------------------------------------------------------|---------------------------|--------------------------|
-| Decentralized AI Developer          | Python, Solidity, Rust, decentralized computing          | Competitive               | High                     |
-| ZKML Engineer                       | ZK-proof frameworks, cryptography, circuit-building      | Competitive               | Very High                |
-| AI Agent Economist                  | Game theory, statistical modeling, DeFi knowledge        | Competitive               | Growing                  |
-| On-Chain Data Scientist             | SQL, Python, blockchain data structures                   | Competitive               | High                     |
-| Decentralized AI Ethicist           | AI principles, Web3 governance, communication             | Competitive               | Moderate                 |
-| AI Agent Product Manager            | Product management, data analysis, API design             | Competitive               | Increasing                |
+| Decentralized AI Developer | Python, Solidity, Rust, decentralized computing | Competitive | High |
+| ZKML Engineer | ZK-proof frameworks, cryptography, circuit-building | Competitive | Very High |
+| AI Agent Economist | Game theory, statistical modeling, DeFi knowledge | Competitive | Growing |
+| On-Chain Data Scientist | SQL, Python, blockchain data structures | Competitive | High |
+| Decentralized AI Ethicist | AI principles, Web3 governance, communication | Competitive | Moderate |
+| AI Agent Product Manager | Product management, data analysis, API design | Competitive | Increasing |
 
 In this evolving sector, the roles that merge AI and Web3 will define the future of technology. The potential for growth, innovation, and career development in this space is substantial. Embrace the journey.

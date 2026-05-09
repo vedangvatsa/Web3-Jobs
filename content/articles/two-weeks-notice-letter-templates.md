@@ -34,7 +34,7 @@ I am dedicated to ensuring a smooth transition in my final two weeks. Please let
 
 Wishing you and [Company Name] continued success.
 
-Sincerely,  
+Sincerely, 
 [Your Name]
 
 ### Template 2: The More Personal and Heartfelt
@@ -55,7 +55,7 @@ During my remaining two weeks, I will do everything I can to facilitate a smooth
 
 While I look forward to the next chapter in my career, I will sincerely miss working with you and the team. I hope to stay in touch.
 
-Best wishes,  
+Best wishes, 
 [Your Name]
 
 ### Template 3: The "Leaving a Difficult Situation" Letter
@@ -74,7 +74,7 @@ Thank you for the opportunity to work here. I will assist with the transition of
 
 Wishing you and the company success in the future.
 
-Regards,  
+Regards, 
 [Your Name]
 
 This template is intentionally brief and neutral, fulfilling your professional obligation without looking into personal issues. Discuss your reasons for leaving during an exit [interview](/how-to-prepare-for-job-interview) with HR, if you choose to participate.
@@ -95,7 +95,7 @@ I apologize for any inconvenience my short notice may cause. I am committed to e
 
 Thank you for the opportunity to work at [Company Name]. I wish you all the best.
 
-Sincerely,  
+Sincerely, 
 [Your Name]
 
 Regardless of the circumstances surrounding your departure, your resignation letter should formally close this chapter of your career. Keeping a positive and forward-looking tone ensures that you leave on the best possible terms.
@@ -118,13 +118,12 @@ Typically, your last working day will be two full weeks from the day you submit 
 
 When you decide to resign, consider the following factors to ensure a smooth transition:
 
-| Factor                           | Consideration                                                   |
+| Factor | Consideration |
 |----------------------------------|----------------------------------------------------------------|
-| **Timing**                       | Submit your resignation when it minimizes disruption to your team. |
-| **Exit Interview**               | Be prepared to share feedback in an exit interview, if offered. |
-| **Transition Plan**              | Offer to prepare documentation for your responsibilities.       |
-| **Future References**            | Maintain a positive relationship for potential future references. |
-| **Networking**                   | Keep in touch with colleagues, as they are part of your professional network. |
+| **Timing** | Submit your resignation when it minimizes disruption to your team. |
+| **Exit Interview** | Be prepared to share feedback in an exit interview, if offered. |
+| **Transition Plan** | Offer to prepare documentation for your responsibilities. |
+| **Future References** | Maintain a positive relationship for potential future references. |
+| **Networking** | Keep in touch with colleagues, as they are part of your professional network. |
 
 By considering these factors, you can manage your resignation professionally and maintain positive relationships.
-

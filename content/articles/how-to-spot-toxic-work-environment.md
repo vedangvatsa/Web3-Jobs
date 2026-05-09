@@ -18,11 +18,11 @@ Toxicity manifests in various ways, from overt bullying to more insidious passiv
 
 Poor communication is a hallmark of toxicity. Here are some patterns to identify:
 
-| **Indicator**                  | **Description**                                                                                 |
+| **Indicator** | **Description** |
 |--------------------------------|-------------------------------------------------------------------------------------------------|
-| Lack of Transparency           | Leadership keeps critical information about company performance and strategic decisions hidden. Employees feel uninformed and surprised by significant changes. |
-| Gossip and Cliques             | Information circulates through rumors and exclusive social groups rather than open dialogues. This breeds distrust and alienation. |
-| Passive-Aggressive Behavior     | Employees avoid direct confrontations, opting instead for sarcasm, silence, or backchanneling. This creates a strained work atmosphere. |
+| Lack of Transparency | Leadership keeps critical information about company performance and strategic decisions hidden. Employees feel uninformed and surprised by significant changes. |
+| Gossip and Cliques | Information circulates through rumors and exclusive social groups rather than open dialogues. This breeds distrust and alienation. |
+| Passive-Aggressive Behavior | Employees avoid direct confrontations, opting instead for sarcasm, silence, or backchanneling. This creates a strained work atmosphere. |
 
 In contrast, a healthy work environment supports clear, open, and respectful communication. Constructive feedback flows freely, and employees share information willingly.
 
@@ -32,11 +32,11 @@ While healthy competition can drive performance, a toxic workplace creates a cli
 
 Signs of detrimental competition include:
 
-| **Sign**                       | **Description**                                                                                 |
+| **Sign** | **Description** |
 |--------------------------------|-------------------------------------------------------------------------------------------------|
-| Credit-Stealing                | Colleagues or managers frequently claim credit for others' accomplishments.                    |
-| Information Hoarding           | Employees intentionally conceal information to gain an upper hand over peers.                  |
-| Zero-Sum Mentality             | The culture promotes the belief that one person's success requires another's failure.      |
+| Credit-Stealing | Colleagues or managers frequently claim credit for others' accomplishments. |
+| Information Hoarding | Employees intentionally conceal information to gain an upper hand over peers. |
+| Zero-Sum Mentality | The culture promotes the belief that one person's success requires another's failure. |
 
 Conversely, a positive work environment encourages collaboration. Team members celebrate each other's achievements and work collectively toward shared objectives.
 
@@ -52,11 +52,11 @@ Micromanagement reflects a lack of trust from leadership. Managers who excessive
 
 Indicators of micromanagement include:
 
-| **Indicator**                  | **Description**                                                                                 |
+| **Indicator** | **Description** |
 |--------------------------------|-------------------------------------------------------------------------------------------------|
-| Constant Email Oversight       | Your supervisor insists on being copied on every email, indicating a lack of trust.          |
-| Prescriptive Task Management    | They dictate every step of a task, leaving no room for personal input or creativity.         |
-| Frequent Check-Ins             | They regularly demand detailed updates on your work, which can feel intrusive.                |
+| Constant Email Oversight | Your supervisor insists on being copied on every email, indicating a lack of trust. |
+| Prescriptive Task Management | They dictate every step of a task, leaving no room for personal input or creativity. |
+| Frequent Check-Ins | They regularly demand detailed updates on your work, which can feel intrusive. |
 
 Effective managers enable their teams, providing support and guidance without excessive oversight.
 
@@ -66,11 +66,11 @@ Be cautious of organizations that glorify a relentless "hustle culture" that dem
 
 Signs of a burnout culture include:
 
-| **Indicator**                  | **Description**                                                                                 |
+| **Indicator** | **Description** |
 |--------------------------------|-------------------------------------------------------------------------------------------------|
-| Late-Night Communication       | Leaders frequently send emails during off-hours, creating an unspoken expectation of availability. |
-| Vacation Stigma                | Taking time off is discouraged or challenging to schedule.                                     |
-| Constant Urgency               | There’s a perpetual sense of urgency, even for tasks that are non-critical.                    |
+| Late-Night Communication | Leaders frequently send emails during off-hours, creating an unspoken expectation of availability. |
+| Vacation Stigma | Taking time off is discouraged or challenging to schedule. |
+| Constant Urgency | There’s a perpetual sense of urgency, even for tasks that are non-critical. |
 
 A supportive work environment values employee well-being, recognizing that well-rested individuals are more productive and engaged. Such organizations encourage taking breaks and respect personal boundaries.
 
@@ -95,4 +95,3 @@ Not necessarily. A fast-paced setting can be invigorating and offer valuable cha
 **What if only one individual on the team exhibits toxic behavior?**
 
 One toxic person can significantly impact team dynamics, especially if they hold a leadership role. If management is aware of the problematic behavior and fails to intervene, this indicates broader issues within the company culture.
-

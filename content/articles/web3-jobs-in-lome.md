@@ -18,7 +18,7 @@ The Web3 ecosystem in Lome emphasizes mobile-first financial solutions and serve
 
 ### Togo's FinTech Leadership
 
-Lome is at the forefront of digital finance innovation within Togo, a country that has emerged as a leader on the continent:
+Lome is leading digital finance innovation within Togo, a country that has emerged as a leader on the continent:
 - **Mobile Money Penetration:** A significant portion of the population uses mobile money services, surpassing many other African nations.
 - **Government Digital Payments:** The successful deployment of a mobile-based cash transfer system during the pandemic showcased Togo's adaptability.
 - **Regulatory Support:** The creation of a regulatory sandbox for FinTech startups encourages innovation.
@@ -245,12 +245,12 @@ The government has demonstrated its ability to rapidly deploy digital financial 
 
 ## Salary Expectations: Local vs. Remote
 
-| Role                     | Local (Lome)         | Remote (International) | Notes                      |
+| Role | Local (Lome) | Remote (International) | Notes |
 |--------------------------|----------------------|------------------------|----------------------------|
-| Mobile Developer          | Competitive salary range | Competitive salary range  | 2-3x salary difference     |
-| Product Manager           | Competitive salary range | Competitive salary range  | 2-3x salary difference     |
-| Community Lead            | Competitive salary range   | Competitive salary range  | Smaller salary disparity   |
-| Protocol Developer        | Competitive salary range | Competitive salary range | 2-3x salary difference     |
+| Mobile Developer | Competitive salary range | Competitive salary range | 2-3x salary difference |
+| Product Manager | Competitive salary range | Competitive salary range | 2-3x salary difference |
+| Community Lead | Competitive salary range | Competitive salary range | Smaller salary disparity |
+| Protocol Developer | Competitive salary range | Competitive salary range | 2-3x salary difference |
 
 **Cost of Living in Lome:**
 - Rent for a decent apartment: Competitive range
@@ -348,4 +348,3 @@ The formal Web3 job market in Lome is still in its infancy. Most opportunities c
 - Contact NGOs regarding blockchain opportunities.
 - Establish your community group via meetups or online platforms.
 - Secure your first paid engagement.
-

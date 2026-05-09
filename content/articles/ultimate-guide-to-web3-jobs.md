@@ -20,14 +20,14 @@ This guide outlines the [Web3 job](/web3-jobs-for-beginners) market in the comin
 
 The Web3 ecosystem is diverse, encompassing roles in engineering, product management, marketing, finance, and community management. Here’s a breakdown of some of the most sought-after positions:
 
-| Role                         | Description                                                                                                                 | Key Skills                               |
+| Role | Description | Key Skills |
 |------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| **[Smart Contract](/what-are-smart-contracts) Developer** | These developers write, test, and deploy the on-chain logic powering [DeFi](/what-is-defi) protocols, [NFT](/what-are-nfts) projects, and [DAOs](/what-is-a-dao). Proficiency in [Solidity](/best-programming-languages-for-blockchain-development) or Rust is essential. Security best practices are important. | Solidity, Rust, security protocols      |
-| **Frontend / dApp Engineer** | Responsible for user interfaces that connect to smart contracts. Engineers create intuitive user experiences, a important challenge in Web3. Mastery of React, Next.js, and Web3 libraries like Ethers.js or Viem is key. | React, Next.js, Ethers.js, Viem        |
-| **On-Chain Data Analyst**    | Analysts query and analyze on-chain data using tools like Dune Analytics and Nansen to derive insights about user behavior, protocol health, and market trends. Strong SQL skills are required. | SQL, data analytics tools               |
-| **Web3 Product Manager**      | PMs guide the "what" and "why" of decentralized products, balancing user needs, technical constraints, and community governance. A deep understanding of tokenomics and crypto-native user behavior is critical. | Product management, tokenomics         |
-| **Community Manager**         | They manage Discord and Telegram channels, build positive culture, and bridge users and core teams. Exceptional communication skills and empathy are essential. | Communication, community engagement     |
-| **Smart Contract Auditor**    | Auditors specialize in identifying security vulnerabilities in smart contract code before deployment. This role requires an adversarial mindset and in-depth knowledge of common attack vectors. | Security analysis, audit processes      |
+| **[Smart Contract](/what-are-smart-contracts) Developer** | These developers write, test, and deploy the on-chain logic powering [DeFi](/what-is-defi) protocols, [NFT](/what-are-nfts) projects, and [DAOs](/what-is-a-dao). Proficiency in [Solidity](/best-programming-languages-for-blockchain-development) or Rust is essential. Security best practices are important. | Solidity, Rust, security protocols |
+| **Frontend / dApp Engineer** | Responsible for user interfaces that connect to smart contracts. Engineers create intuitive user experiences, a important challenge in Web3. Mastery of React, Next.js, and Web3 libraries like Ethers.js or Viem is key. | React, Next.js, Ethers.js, Viem |
+| **On-Chain Data Analyst** | Analysts query and analyze on-chain data using tools like Dune Analytics and Nansen to derive insights about user behavior, protocol health, and market trends. Strong SQL skills are required. | SQL, data analytics tools |
+| **Web3 Product Manager** | PMs guide the "what" and "why" of decentralized products, balancing user needs, technical constraints, and community governance. A deep understanding of tokenomics and crypto-native user behavior is critical. | Product management, tokenomics |
+| **Community Manager** | They manage Discord and Telegram channels, build positive culture, and bridge users and core teams. Exceptional communication skills and empathy are essential. | Communication, community engagement |
+| **Smart Contract Auditor** | Auditors specialize in identifying security vulnerabilities in smart contract code before deployment. This role requires an adversarial mindset and in-depth knowledge of common attack vectors. | Security analysis, audit processes |
 
 ### Essential Skills for a Web3 Career
 
@@ -56,4 +56,3 @@ Your resume should reflect the distinct values of the Web3 space.
 - **Tailor Your Language:** Use Web3-specific terminology to demonstrate your understanding of the space.
 
 The Web3 job market represents more than just a new sector; it offers a chance to be an owner rather than just an employee. By developing the right skills, engaging with the community, and showcasing your "proof of work," you can set yourself up for a rewarding career in this fast-moving field. The future is being built now, and today presents an excellent opportunity to become a builder in this new era.
-

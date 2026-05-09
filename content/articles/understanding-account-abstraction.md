@@ -16,7 +16,7 @@ Web3 faces significant user experience challenges. New users struggle with acqui
 
 This article explores **EIP-4337**, the prevailing Account Abstraction standard. It explains how EIP-4337 operates, the specific features it enables, such as social recovery, gasless transactions, and multi-factor authentication, and how it shifts the account model from fixed private-key-based (Externally Owned Accounts, or EOAs) to programmable smart contract-based accounts.
 
-Understanding Account Abstraction is essential for anyone building Web3 products, as it directly influences user experience. It also matters for users, as wallets will increasingly adopt this model. Additionally, for blockchain students, AA represents a key technical solution to Web3's adoption hurdles. Transitioning from EOAs to smart contract wallets alters how users manage accounts, recover funds, and engage with decentralized applications (dApps).
+Understanding Account Abstraction is essential for anyone building Web3 products, as it directly influences user experience. It also matters for users, as wallets will increasingly adopt this model. for blockchain students, AA represents a key technical solution to Web3's adoption hurdles. Transitioning from EOAs to smart contract wallets alters how users manage accounts, recover funds, and engage with decentralized applications (dApps).
 
 ## The Problem: Externally Owned Accounts (EOAs)
 
@@ -72,4 +72,3 @@ Smart contract wallets facilitate features that EOAs cannot offer:
 Account Abstraction, specifically through EIP-4337, represents a fundamental rethinking of user interaction with blockchain. It replaces the rigid model of EOAs with a flexible, programmable, and user-friendly approach.
 
 These features address specific barriers to adoption: social recovery mitigates the risk of permanent fund loss from lost keys, gasless transactions eliminate the need to acquire ETH before participation, and multi-factor authentication enhances security beyond single seed phrase protection. Collectively, they simplify the technical knowledge necessary for safe Web3 use, enabling non-technical users to adopt the technology. Current Web3 requires users to comprehend private keys, gas fees, approvals, and transaction data; Account Abstraction-enabled wallets abstract these complexities behind familiar user interface patterns.
-

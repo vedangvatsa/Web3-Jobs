@@ -26,11 +26,11 @@ The South Korean Web3 job market comprises a blend of established corporations a
 
 South Korea's expansive gaming sector leads the charge in Web3 adoption. Companies that have thrived in online and mobile gaming are now making significant moves into the blockchain domain.
 
-| Company      | Notable Projects                   | Hiring Focus                                 |
+| Company | Notable Projects | Hiring Focus |
 |--------------|-----------------------------------|---------------------------------------------|
-| Krafton      | Settlus (Blockchain)             | NFT marketplaces, blockchain game development |
-| Netmarble    | MARBLEX (Blockchain Ecosystem)   | Integration of NFT and tokenomics in games  |
-| WeMade       | WEMIX (Blockchain Platform)      | Game design, tokenomics, blockchain engineering |
+| Krafton | Settlus (Blockchain) | NFT marketplaces, blockchain game development |
+| Netmarble | MARBLEX (Blockchain Ecosystem) | Integration of NFT and tokenomics in games |
+| WeMade | WEMIX (Blockchain Platform) | Game design, tokenomics, blockchain engineering |
 
 - **Krafton:** Known for creating PUBG, Krafton is investing in its own blockchain, Settlus, and is actively seeking talent for NFT marketplaces and blockchain game development roles.
 - **Netmarble:** This mobile gaming giant has developed its own blockchain ecosystem, MARBLEX, and is incorporating NFT and tokenomics into upcoming titles.
@@ -40,22 +40,22 @@ South Korea's expansive gaming sector leads the charge in Web3 adoption. Compani
 
 Kakao and Naver, the largest tech companies in South Korea, have made significant investments in Web3.
 
-| Company      | Blockchain Initiative             | Hiring Focus                                 |
+| Company | Blockchain Initiative | Hiring Focus |
 |--------------|-----------------------------------|---------------------------------------------|
-| Kakao        | Klaytn (Layer 1 Blockchain)      | Protocol engineers, dApp developers, business managers |
-| Naver        | Finschia (Blockchain)            | Core protocol development, dApp planning    |
+| Kakao | Klaytn (Layer 1 Blockchain) | Protocol engineers, dApp developers, business managers |
+| Naver | Finschia (Blockchain) | Core protocol development, dApp planning |
 
 - **Kakao (Klaytn):** Kakao's blockchain subsidiary, GroundX, developed Klaytn, a prominent Layer 1 platform in Korea. The company is actively searching for protocol engineers, dApp developers, and business development managers to enhance the Klaytn ecosystem.
 - **Naver (Finschia):** Collaborating with LINE, Naver is building the Finschia blockchain, focusing on creating a substantial Web3 ecosystem for its extensive user base. The company is hiring for various roles, from core protocol development to dApp planning.
 
 ### 3. The Homegrown Protocols
 
-South Korea's vibrant blockchain ecosystem includes several new homegrown projects making a global impact.
+South Korea's active blockchain ecosystem includes several new homegrown projects making a global impact.
 
-| Company            | Notable Projects           | Hiring Focus                       |
+| Company | Notable Projects | Hiring Focus |
 |--------------------|----------------------------|-----------------------------------|
-| Terraform Labs     | Terra/Luna                 | Developers with Cosmos SDK experience |
-| Hashed             | Investments in multiple projects | Talent acquisition support       |
+| Terraform Labs | Terra/Luna | Developers with Cosmos SDK experience |
+| Hashed | Investments in multiple projects | Talent acquisition support |
 
 - **Terraform Labs (Terra/Luna):** Despite its notorious collapse, the technology and talent from the Terra ecosystem remain highly sought after. Many new projects have emerged, creating demand for developers skilled in the Cosmos SDK, the foundation of Terra.
 - **Hashed:** As one of Asia's leading crypto venture capital firms, Hashed invests in various projects and actively assists its [portfolio](/building-web3-portfolio) companies in hiring top talent in Korea.
@@ -64,13 +64,13 @@ South Korea's vibrant blockchain ecosystem includes several new homegrown projec
 
 The Korean Web3 market reflects a strong demand for various roles beyond engineering.
 
-| Role                             | Skill Set Required                          | Demand Level         |
+| Role | Skill Set Required | Demand Level |
 |----------------------------------|--------------------------------------------|----------------------|
-| Blockchain Game Developers        | Unity, Unreal Engine, blockchain concepts  | High                 |
-| Protocol Engineers (Rust/Go)     | Core blockchain infrastructure expertise    | Constant             |
-| Smart Contract Developers         | Solidity, EVM compatibility                 | Always Needed        |
-| Business Development/Partnerships | Market integration, relationship building   | Highly Valued        |
-| Community Managers               | Bilingual (Korean/English), online community management | Essential            |
+| Blockchain Game Developers | Unity, Unreal Engine, blockchain concepts | High |
+| Protocol Engineers (Rust/Go) | Core blockchain infrastructure expertise | Constant |
+| Smart Contract Developers | Solidity, EVM compatibility | Always Needed |
+| Business Development/Partnerships | Market integration, relationship building | Highly Valued |
+| Community Managers | Bilingual (Korean/English), online community management | Essential |
 
 - **Blockchain Game Developers:** The gaming sector's prominence drives demand for developers skilled in Unity or Unreal Engine, along with a solid understanding of blockchain principles.
 - **Protocol Engineers (Rust/Go):** As platforms like Klaytn and Finschia grow, they require core engineers to fortify their blockchain infrastructure.
@@ -82,11 +82,11 @@ The Korean Web3 market reflects a strong demand for various roles beyond enginee
 
 Salaries in the South Korean Web3 market are competitive, influenced by experience and company size.
 
-| Role                      | Experience Level    | Salary Range     |
+| Role | Experience Level | Salary Range |
 |---------------------------|---------------------|------------------|
-| Junior Developer           | 1-3 years           | Competitive       |
-| Senior Developer           | 5+ years            | Competitive, often with token options |
-| Non-technical Roles        | Varies              | Comparable to traditional tech roles, often includes performance-based token incentives |
+| Junior Developer | 1-3 years | Competitive |
+| Senior Developer | 5+ years | Competitive, often with token options |
+| Non-technical Roles | Varies | Comparable to traditional tech roles, often includes performance-based token incentives |
 
 - **Junior Developer (1-3 years):** Expect competitive salaries based on experience.
 - **Senior Developer (5+ years):** Salaries can be competitive, frequently supplemented with [token](/what-is-a-token) options.
@@ -111,4 +111,3 @@ Finding Web3 opportunities in South Korea involves multiple strategies.
 - **Korean Job Platforms:** Websites like Wanted and RocketPunch are popular in the Korean tech scene and feature an increasing number of Web3 roles.
 - **Networking:** Attend local meetups and conferences, such as Korea Blockchain Week. The Web3 community in Seoul is close-knit, and networking offers one of the best pathways to discover job opportunities.
 - **Recruiters:** Specialized Web3 recruitment agencies operate in Korea and can help connect candidates with suitable companies.
-

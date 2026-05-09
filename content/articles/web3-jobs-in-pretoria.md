@@ -37,7 +37,7 @@ The job market in Pretoria shows strong demand for professionals experienced in 
 ### Building a Web3 Career in Pretoria
 
 1. **Use Your Public Sector or Enterprise Experience:** A background in government or a large IT consultancy provides a significant edge. Emphasize your understanding of public sector processes, compliance, and project management.
-   
+
 2. **Specialize in GovTech and Regulation:** Focus on how blockchain can address governance challenges. Stay informed about the South African Reserve Bank's research and the Financial Sector Conduct Authority's evolving regulatory framework. Establish yourself as a thought leader in this niche.
 
 3. **Network in Policy and Academic Circles:** Engage with institutions in the city. Attend seminars at the CSIR and the University of Pretoria. Build relationships with policymakers and technologists in government innovation departments.
@@ -69,73 +69,73 @@ Salaries in Pretoria reflect the city's focus on government and enterprise, cont
 #### Path 1: GovTech Blockchain Engineer (Public Sector Innovation) (10-18 Month Timeline)
 
 - **Months 1-6: Build Government Tech Expertise**
-  - Study government procurement and enterprise blockchain (Hyperledger, Corda).
-  - Understand public sector compliance and security standards.
-  - Develop three projects showcasing government use cases: a digital identity system, a blockchain land registry, and a government document verification system.
-  - Network with government CTOs and blockchain engineers.
-  - **Deliverable:** Three government-focused projects and strong relationships.
+ - Study government procurement and enterprise blockchain (Hyperledger, Corda).
+ - Understand public sector compliance and security standards.
+ - Develop three projects showcasing government use cases: a digital identity system, a blockchain land registry, and a government document verification system.
+ - Network with government CTOs and blockchain engineers.
+ - **Deliverable:** Three government-focused projects and strong relationships.
 
 - **Months 7-12: Secure a GovTech Role**
-  - Apply to CSIR, government innovation departments, and corporate blockchain teams.
-  - Anticipated salary: Competitive.
-  - Lead a major government blockchain project.
-  - **Expected Compensation:** Competitive.
+ - Apply to CSIR, government innovation departments, and corporate blockchain teams.
+ - Anticipated salary: Competitive.
+ - Lead a major government blockchain project.
+ - **Expected Compensation:** Competitive.
 
 - **Months 13-17: Specialize & Lead**
-  - Establish yourself as a leading GovTech blockchain engineer.
-  - Oversee multiple government blockchain initiatives.
-  - Potential for a senior engineer or technical director position.
-  - **Expected Compensation:** Competitive.
+ - Establish yourself as a leading GovTech blockchain engineer.
+ - Oversee multiple government blockchain initiatives.
+ - Potential for a senior engineer or technical director position.
+ - **Expected Compensation:** Competitive.
 
 - **Month 18: Transition to Strategy/Leadership**
-  - Aim for a Chief Technology Officer or director role in blockchain innovation.
-  - **Expected Compensation:** Competitive.
+ - Aim for a Chief Technology Officer or director role in blockchain innovation.
+ - **Expected Compensation:** Competitive.
 
 #### Path 2: Digital Assets Policy Advisor (Regulatory Expert) (12-24 Month Timeline)
 
 - **Months 1-6: Develop Deep Policy Knowledge**
-  - Study the South African Reserve Bank's CBDC project (Project Khokha) and FSCA regulations.
-  - Build a legal and policy foundation through formal education or self-study.
-  - Network with regulators and experts in crypto policy.
-  - Publish policy analysis pieces.
-  - **Deliverable:** In-depth policy knowledge and valuable relationships.
+ - Study the South African Reserve Bank's CBDC project (Project Khokha) and FSCA regulations.
+ - Build a legal and policy foundation through formal education or self-study.
+ - Network with regulators and experts in crypto policy.
+ - Publish policy analysis pieces.
+ - **Deliverable:** In-depth policy knowledge and valuable relationships.
 
 - **Months 7-12: Transition to Advisory Role**
-  - Secure a consulting contract with the central bank, financial regulator, or government policy body.
-  - Expected salary: Competitive.
-  - Advise on regulatory strategies.
-  - **Expected Compensation:** Competitive.
+ - Secure a consulting contract with the central bank, financial regulator, or government policy body.
+ - Expected salary: Competitive.
+ - Advise on regulatory strategies.
+ - **Expected Compensation:** Competitive.
 
 - **Months 13-18: Full Advisory Role**
-  - Move into a full-time policy advisor position.
-  - Expected salary: Competitive.
+ - Move into a full-time policy advisor position.
+ - Expected salary: Competitive.
 
 - **Months 19-24: Strategic Leadership**
-  - Pursue a senior policy role within a central bank, regulator, or major corporation.
-  - Lead national policy strategies on digital assets and CBDCs.
-  - **Expected Compensation:** Competitive.
+ - Pursue a senior policy role within a central bank, regulator, or major corporation.
+ - Lead national policy strategies on digital assets and CBDCs.
+ - **Expected Compensation:** Competitive.
 
 #### Path 3: Corporate Blockchain Program Lead (Enterprise Blockchain at Scale) (10-16 Month Timeline)
 
 - **Months 1-5: Gain Enterprise Blockchain Expertise**
-  - Understand enterprise blockchain platforms and large-scale implementations.
-  - Build 2-3 enterprise blockchain prototypes.
-  - Network with enterprise architects and blockchain consultants.
-  - **Deliverable:** Enterprise knowledge and project experience.
+ - Understand enterprise blockchain platforms and large-scale implementations.
+ - Build 2-3 enterprise blockchain prototypes.
+ - Network with enterprise architects and blockchain consultants.
+ - **Deliverable:** Enterprise knowledge and project experience.
 
 - **Months 6-10: Secure Corporate Role**
-  - Apply to major South African banks, large enterprises, and consulting firms.
-  - Expected salary: Competitive.
-  - Lead an enterprise blockchain program.
-  - **Expected Compensation:** Competitive.
+ - Apply to major South African banks, large enterprises, and consulting firms.
+ - Expected salary: Competitive.
+ - Lead an enterprise blockchain program.
+ - **Expected Compensation:** Competitive.
 
 - **Months 11-15: Enhance Reputation**
-  - Successfully deliver a blockchain implementation.
-  - **Expected Compensation:** Competitive.
+ - Successfully deliver a blockchain implementation.
+ - **Expected Compensation:** Competitive.
 
 - **Month 16: Aim for Executive Position**
-  - Positions such as Chief Information Officer or Chief Strategy Officer.
-  - **Expected Compensation:** Competitive.
+ - Positions such as Chief Information Officer or Chief Strategy Officer.
+ - **Expected Compensation:** Competitive.
 
 ### Challenges and Solutions
 
@@ -251,4 +251,3 @@ South Africa has strict tax requirements. Employment income is taxed at standard
 
 **How can I avoid scams and maintain professionalism?**
 Work only with established government or corporate entities. Refrain from personal crypto trading, and focus on building a reputation based on expertise and integrity. Help government agencies avoid crypto scams by sharing your knowledge.
-

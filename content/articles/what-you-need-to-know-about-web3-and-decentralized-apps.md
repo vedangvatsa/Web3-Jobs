@@ -16,14 +16,14 @@ Understanding this architectural difference is essential for grasping [Web3](/wh
 
 ### Differences Between dApps and Traditional Apps
 
-| Feature          | Traditional App (Web2)                    | Decentralized App (dApp) ([Web3](/what-is-web3))               |
+| Feature | Traditional App (Web2) | Decentralized App (dApp) ([Web3](/what-is-web3)) |
 |------------------|--------------------------------------------|-----------------------------------------------|
-| **Backend**      | Operates on private, centralized servers (e.g., AWS) | Operates on a public, decentralized [blockchain](/what-is-a-blockchain) (e.g., Ethereum) |
-| **Control**      | Managed by a single company                 | Governed by a community of users (often a **[DAO](/what-is-a-dao)**) |
-| **Data Storage** | User data resides on company servers       | Data is stored on the public blockchain       |
-| **Censorship**   | Companies can censor or remove content/users | Transactions and data resist censorship       |
-| **Identity**     | Users log in with an email and password    | Users log in by connecting a **[crypto wallet](/how-to-choose-a-crypto-wallet)** |
-| **Payments**     | Uses traditional payment processors     | Employs native cryptocurrencies for transactions |
+| **Backend** | Operates on private, centralized servers (e.g., AWS) | Operates on a public, decentralized [blockchain](/what-is-a-blockchain) (e.g., Ethereum) |
+| **Control** | Managed by a single company | Governed by a community of users (often a **[DAO](/what-is-a-dao)**) |
+| **Data Storage** | User data resides on company servers | Data is stored on the public blockchain |
+| **Censorship** | Companies can censor or remove content/users | Transactions and data resist censorship |
+| **Identity** | Users log in with an email and password | Users log in by connecting a **[crypto wallet](/how-to-choose-a-crypto-wallet)** |
+| **Payments** | Uses traditional payment processors | Employs native cryptocurrencies for transactions |
 
 ### Structure of a dApp
 
@@ -57,4 +57,3 @@ User experience (UX) remains the most significant challenge for dApps today. Man
 Decentralized applications form the foundation of the Web3 movement. They signify a shift toward a more open and user-controlled internet, creating opportunities for developers and allowing users genuine ownership of their digital experiences.
 
 ## The Expanding Web3 Opportunity
-

@@ -127,4 +127,3 @@ Here are security best practices to follow consistently.
 **Use 2FA**: Enable two-factor authentication everywhere it's available. Use an authenticator app (like Authy) rather than SMS for critical accounts.
 
 **Insurance options**: Some platforms offer protection for assets. If security is your priority, storing assets on a regulated exchange might be worth the counterparty risk.
-

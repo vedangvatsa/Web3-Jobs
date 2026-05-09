@@ -51,13 +51,13 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 
 ### Salary Overview: Social Graph Protocol Jobs
 
-| Job Title                           | Salary Range               |
+| Job Title | Salary Range |
 |-------------------------------------|----------------------------|
-| Protocol Engineer (Farcaster/Lens)  | Competitive salary range    |
-| [Smart Contract](/what-are-smart-contracts) Developer (Lens) | Competitive salary range    |
-| Product Manager (Protocol)          | Competitive salary range    |
-| Community Lead/Growth               | Competitive salary range    |
-| Social App Developer                | Competitive salary range    |
+| Protocol Engineer (Farcaster/Lens) | Competitive salary range |
+| [Smart Contract](/what-are-smart-contracts) Developer (Lens) | Competitive salary range |
+| Product Manager (Protocol) | Competitive salary range |
+| Community Lead/Growth | Competitive salary range |
+| Social App Developer | Competitive salary range |
 
 ## Career Paths in Web3 Social Graph
 
@@ -198,4 +198,3 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 The social graph represents a new frontier within Web3. Opportunities abound for those interested in building protocols, applications, or communities. Engage with our [job board](/jobs) to explore available roles.
 
 The journey towards a fully decentralized social media ecosystem is still underway. Building an open social graph is a significant step towards creating a more equitable, user-owned internet.
-

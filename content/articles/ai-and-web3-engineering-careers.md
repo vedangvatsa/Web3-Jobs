@@ -22,7 +22,7 @@ An AI/Web3 Engineer engages in projects that integrate machine learning models w
 This area focuses on developing infrastructure to execute or verify AI models in a decentralized context.
 
 - **Zero-Knowledge Machine Learning (ZKML):** This segment uses [Zero-Knowledge Proofs](/zero-knowledge-proofs-explained) to confirm that an AI model executed correctly without disclosing proprietary weights or input data. This is vital for privacy and verification.
-  - *Example Task:* Write a ZK-circuit using Circom to prove the inference of a basic neural network.
+ - *Example Task:* Write a ZK-circuit using Circom to prove the inference of a basic neural network.
 - **Optimistic ML:** Similar to Optimistic Rollups, this approach accepts the outcome of an AI model's computation and allows a period for others to challenge it with a fraud proof if they suspect inaccuracies.
 
 #### 2. Creating Intelligent Oracles
@@ -52,19 +52,19 @@ To excel as an AI/Web3 Engineer, proficiency in both the AI/ML stack and the Web
 
 #### AI/ML Stack
 
-| Skill/Tool                  | Description                                           |
+| Skill/Tool | Description |
 |-----------------------------|-------------------------------------------------------|
-| **Programming Language**     | **Python** remains the primary language for AI. Mastering it is essential. |
-| **Core Libraries**           | Expertise in **PyTorch** or **TensorFlow** (for model building), **Pandas** (for data manipulation), and **NumPy** (for numerical computation) is important.|
+| **Programming Language** | **Python** remains the primary language for AI. Mastering it is essential. |
+| **Core Libraries** | Expertise in **PyTorch** or **TensorFlow** (for model building), **Pandas** (for data manipulation), and **NumPy** (for numerical computation) is important.|
 
 #### Web3 Stack
 
-| Skill/Tool                  | Description                                           |
+| Skill/Tool | Description |
 |-----------------------------|-------------------------------------------------------|
-| **Smart Contract Language**   | **[Solidity](/best-programming-languages-for-blockchain-development)** is essential for writing, testing, and deploying secure smart contracts. |
-| **Development Environments**  | Proficiency in **Hardhat** or **Foundry** is necessary for testing and deployment. |
-| **Blockchain Interaction**    | Familiarity with libraries like **Ethers.js** or **Viem** to connect off-chain AI components with on-chain smart contracts is required. |
-| **Systems Language**          | **Rust** is increasingly important, especially for ZK-proofs and high-performance protocols.|
+| **Smart Contract Language** | **[Solidity](/best-programming-languages-for-blockchain-development)** is essential for writing, testing, and deploying secure smart contracts. |
+| **Development Environments** | Proficiency in **Hardhat** or **Foundry** is necessary for testing and deployment. |
+| **Blockchain Interaction** | Familiarity with libraries like **Ethers.js** or **Viem** to connect off-chain AI components with on-chain smart contracts is required. |
+| **Systems Language** | **Rust** is increasingly important, especially for ZK-proofs and high-performance protocols.|
 
 ### Steps to Become an AI/Web3 Engineer
 
@@ -75,12 +75,11 @@ Entering this advanced, interdisciplinary field typically involves mastering one
 1. **Start with the Basics:** For seasoned ML engineers, begin with a Web3 onboarding. Resources like our guide on transitioning from Web2 to Web3 can provide valuable insights.
 2. **Learn Solidity:** Dedicate time to mastering smart contract development. Build a few fundamental projects to grasp the foundational concepts.
 3. **Create a Hybrid Project:** Your [portfolio](/building-web3-portfolio) should showcase both skill sets.
-   - *Project Idea:* Develop a simple decentralized application (dApp) where users can upload an image. An off-chain Python script would run an image classification model, and the result (e.g., "This is a cat") would be submitted to a smart contract on a testnet.
+ - *Project Idea:* Develop a simple decentralized application (dApp) where users can upload an image. An off-chain Python script would run an image classification model, and the result (e.g., "This is a cat") would be submitted to a smart contract on a testnet.
 
 #### Path 2: Transitioning from Web3 Developer to AI
 
 1. **Master the Fundamentals of ML:** A PhD is not necessary, but understanding core concepts is essential. Consider reputable online courses, such as those from Coursera or fast.ai.
 2. **Learn Python and PyTorch/TensorFlow:** Familiarize yourself with essential tools for training, testing, and deploying simple models.
 3. **Build a Hybrid Project:**
-   - *Project Idea:* Use on-chain data (e.g., from a Dune Analytics export) as the training set for a predictive model. For instance, develop a model to predict which new [NFT](/what-are-nfts) mints are likely to succeed based on on-chain metrics.
-
+ - *Project Idea:* Use on-chain data (e.g., from a Dune Analytics export) as the training set for a predictive model. For instance, develop a model to predict which new [NFT](/what-are-nfts) mints are likely to succeed based on on-chain metrics.

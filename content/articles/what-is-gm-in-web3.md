@@ -18,7 +18,7 @@ At first glance, GM seems trivial, merely a way to say good morning. However, in
 
 The term GM gradually gained popularity. In the early days of [Bitcoin](/what-is-bitcoin) and cryptocurrency, individuals used it as a standard greeting in online forums and chat groups. As these communities expanded, GM developed a unique significance.
 
-During the 2017 bull market, GM surged in prominence. The crypto community was thriving, and optimism was high. Experienced members greeted each other and newcomers with GM, building a sense of belonging and shared purpose. This phrase became a signal of participation in a meaningful movement.
+During the 2017 bull market, GM surged in prominence. The crypto community was growing, and optimism was high. Experienced members greeted each other and newcomers with GM, building a sense of belonging and shared purpose. This phrase became a signal of participation in a meaningful movement.
 
 Even amid the subsequent bear market, GM persisted. Those who remained in the crypto space greeted each other with GM, conveying a message of resilience and solidarity. This greeting evolved into a badge of commitment.
 
@@ -81,4 +81,3 @@ GM transcends a mere greeting. It represents a cultural artifact embodying optim
 For anyone working in Web3, whether participating in GM daily or not, grasping its implications helps contextualize the culture you are entering. It offers insights into how crypto communities perceive themselves and each other.
 
 When you encounter GM across crypto Twitter, remember that it signifies more than a friendly hello. It conveys a message of solidarity: "Good morning, I'm here, I believe in this, we are in this together." This sense of community and shared purpose contributes significantly to the resilience of Web3 amid challenges and setbacks.
-

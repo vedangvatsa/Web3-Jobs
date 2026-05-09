@@ -38,15 +38,15 @@ This setup allows you to interact with the Ethereum test network, so there’s n
 pragma solidity ^0.8.20;
 
 contract HelloWorld {
-    string public message;
+ string public message;
 
-    constructor() {
-        message = "Hello, Web3 World!";
-    }
+ constructor() {
+ message = "Hello, Web3 World!";
+ }
 
-    function updateMessage(string memory newMessage) public {
-        message = newMessage;
-    }
+ function updateMessage(string memory newMessage) public {
+ message = newMessage;
+ }
 }
 ```
 
@@ -80,4 +80,3 @@ Once the transaction is confirmed, your contract will appear under "Deployed Con
 4. **Read the New Message**: After the transaction confirms, click the `message` button again. You will see the updated value, now reflecting "My first dApp!".
 
 Congratulations on successfully writing, compiling, and deploying your first smart contract to a public [blockchain](/what-is-a-blockchain). This achievement opens the door to exploring more complex contract types and developing frontends that interact with them, advancing your journey as a Web3 developer.
-

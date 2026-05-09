@@ -43,8 +43,8 @@ With reduced market noise, a bear market provides an excellent opportunity for p
 
 - **Focus on Core Skills:** Use this time to deepen your understanding of the technology. Read whitepapers, learn a new [programming language](/best-programming-languages-for-blockchain-development), or master analytics tools relevant to Web3.
 - **Create Your [Portfolio](/building-web3-portfolio):** Develop a tangible showcase of your work.
-    - For developers: Contribute to open-source projects or create a decentralized application (dApp).
-    - For non-technical professionals: Write analytical pieces on platforms like Medium or Twitter.
+ - For developers: Contribute to open-source projects or create a decentralized application (dApp).
+ - For non-technical professionals: Write analytical pieces on platforms like Medium or Twitter.
 - Your dedication to growth during challenging periods demonstrates to potential employers that you are committed to the technology rather than just market conditions.
 
 ### Strategies for Job Searching in a Bear Market
@@ -54,4 +54,3 @@ With reduced market noise, a bear market provides an excellent opportunity for p
 - **Be Patient and Persistent:** The hiring process may take longer during bear markets. Use this time to continue building your skills and portfolio.
 
 A bear market acts as a filter, eliminating weak projects and short-term speculators. For those who remain in the space, it presents a unique chance to join mission-driven teams, tackle significant challenges, and establish a career with lasting impact. Serious job seekers will find that now is the optimal time to pursue a career in Web3.
-

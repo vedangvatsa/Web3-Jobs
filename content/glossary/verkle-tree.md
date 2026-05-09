@@ -99,4 +99,4 @@ Trends:
 
 ## Enable Compact State Proofs
 
-Verkle trees are critical for stateless clients and blockchain scalability. They represent next-generation state commitment. If you're interested in cryptography, explore [cryptography careers](/) at protocol research teams.
+Verkle trees are critical for stateless clients and blockchain scalability. They represent modern state commitment. If you're interested in cryptography, explore [cryptography careers](/) at protocol research teams.

@@ -148,4 +148,4 @@ Evolution:
 
 ## Express Desired Outcomes
 
-Intent-based architecture enables users to specify outcomes rather than execution paths. Solvers compete to optimize execution. This approach has potential for MEV elimination and UX improvement. If you're interested in solver infrastructure or MEV, explore careers at solver teams and protocol research. These roles focus on next-generation execution infrastructure.
+Intent-based architecture enables users to specify outcomes rather than execution paths. Solvers compete to optimize execution. This approach has potential for MEV elimination and UX improvement. If you're interested in solver infrastructure or MEV, explore careers at solver teams and protocol research. These roles focus on modern execution infrastructure.

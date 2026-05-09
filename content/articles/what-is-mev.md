@@ -30,7 +30,7 @@ Here’s a detailed process of a sandwich attack:
 2. **The Searcher**: Bots, known as "MEV searchers," monitor the mempool for opportunities. A searcher bot identifies the user's large buy order.
 3. **The Front-run**: The searcher bot submits a transaction to buy Token Y with a slightly higher gas fee than the user's transaction, ensuring its priority in execution. This action raises Token Y's price slightly due to the automated market maker (AMM) mechanics.
 4. **The User's Trade**: The user’s transaction executes at a worse price than expected, resulting in **slippage**.
-5. **The Back-run**: The searcher bot quickly submits another transaction to sell the Token Y purchased earlier. The price, now elevated by the user’s trade, allows the searcher to sell for a profit. This transaction has a lower gas fee to ensure it executes after the user’s trade.
+5. **The Back-run**: The searcher bot quickly submits another transaction to sell the Token Y purchased earlier. The price, now improve by the user’s trade, allows the searcher to sell for a profit. This transaction has a lower gas fee to ensure it executes after the user’s trade.
 
 In this scenario, the user’s trade is "sandwiched" between the searcher's buy and sell orders. The searcher secures a risk-free profit, while the user faces a disadvantage in execution price. This profit embodies the Maximal Extractable Value.
 
@@ -38,10 +38,10 @@ In this scenario, the user’s trade is "sandwiched" between the searcher's buy 
 
 MEV manifests in various forms beyond sandwich attacks:
 
-| MEV Type            | Description                                                                                                           | Impact                          |
+| MEV Type | Description | Impact |
 |---------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|
-| **DEX Arbitrage**   | If a token's price differs between two DEXs (e.g., Uniswap vs. Sushiswap), a searcher can buy low on one and sell high on another in a single transaction. | Generally beneficial; promotes price consistency. |
-| **Liquidations**    | In DeFi lending platforms like Aave or Compound, if collateral value dips below a threshold, positions can be liquidated. Searchers aim to trigger these liquidations first for bonuses. | Helps maintain protocol solvency. |
+| **DEX Arbitrage** | If a token's price differs between two DEXs (e.g., Uniswap vs. Sushiswap), a searcher can buy low on one and sell high on another in a single transaction. | Generally beneficial; promotes price consistency. |
+| **Liquidations** | In DeFi lending platforms like Aave or Compound, if collateral value dips below a threshold, positions can be liquidated. Searchers aim to trigger these liquidations first for bonuses. | Helps maintain protocol solvency. |
 | **[NFT](/what-are-nfts) MEV** | During NFT mints, transaction ordering can be advantageous. A searcher may attempt to mint a rare NFT ahead of others or sandwich a user accepting a high bid on an NFT marketplace. | Can create unfair advantages in NFT markets. |
 
 ### The MEV Supply Chain: Searchers, Builders, and Proposers
@@ -71,4 +71,3 @@ Understanding MEV equips developers and users to make informed decisions. While 
 - Employ private transaction relays to shield trades from potential front-running.
 
 As the blockchain ecosystem matures, strategies for managing and minimizing the "invisible tax" of MEV will evolve.
-

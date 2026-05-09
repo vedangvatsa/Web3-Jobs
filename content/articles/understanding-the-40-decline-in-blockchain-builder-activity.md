@@ -30,7 +30,7 @@ Developer activity is vital because developers form the backbone of blockchain t
 
 Binji Pande, a contributor to the Ethereum-based layer-2 network Optimism, points out that the decline signifies a shift in focus. Pande states that “attention has shifted, incentives have dried up, and speculation is moving faster than utility in the crypto space.” He emphasizes that the industry has become “rife with narrative-led development when it should focus on development-driven narratives.”
 
-Other developers echo this sentiment, suggesting that the industry needs to return to its roots and support applications that showcase the transformative potential of crypto. Without active developers, protocols stagnate, security vulnerabilities remain unaddressed, and the emergence of new features halts.
+Other developers echo this sentiment, suggesting that the industry needs to return to its roots and support applications that showcase the significant potential of crypto. Without active developers, protocols stagnate, security vulnerabilities remain unaddressed, and the emergence of new features halts.
 
 ### The Venture Capital Factor: Following the Money
 
@@ -108,14 +108,14 @@ Financial institutions are increasingly using their regulatory relationships to 
 
 The focus of crypto VC funding is shifting from infrastructure projects to application-layer innovations. This transition could stimulate a new wave of development centered on real-world use cases rather than speculative infrastructure investments.
 
-| Year    | VC Funding in AI (Billions USD) | VC Funding in Crypto (Billions USD) |
+| Year | VC Funding in AI (Billions USD) | VC Funding in Crypto (Billions USD) |
 |---------|----------------------------------|-------------------------------------|
-| 2020    | 36                               | 4.9                                 |
-| 2021    | 50                               | 31                                  |
-| 2022    | 90                               | 14                                  |
-| 2023    | 30                               | 3                                   |
-| 2024    | 131.5                            | 4.9                                 |
-| 2025    | 20                               | 0.861                               |
+| 2020 | 36 | 4.9 |
+| 2021 | 50 | 31 |
+| 2022 | 90 | 14 |
+| 2023 | 30 | 3 |
+| 2024 | 131.5 | 4.9 |
+| 2025 | 20 | 0.861 |
 
 ### Case Study: Polymarket’s Long Road to Success
 
@@ -150,4 +150,3 @@ Research shows that developers increasingly seek guidance from community platfor
 #### 5. Patience and Long-Term Vision
 
 The industry may need to embrace slower growth and longer development cycles. As one commenter noted, comparing crypto to AI, “AI has gone through two major ‘winters’ that combined spanned almost 20 years,” before its current resurgence.
-

@@ -18,13 +18,13 @@ Understanding block propagation is essential for grasping the performance, secur
 
 ### Key Insights
 
-| Insight                 | Description                                                                                                  |
+| Insight | Description |
 |-------------------------|--------------------------------------------------------------------------------------------------------------|
-| Core Function           | Block propagation spreads a new, valid block to all nodes in a decentralized network.                       |
-| Goal                    | The objective is for all honest nodes to receive and accept the new block, maintaining a unified network state. |
-| Impact of Latency       | High latency can lead to increased forks and centralization risks, negatively affecting blockchain performance.|
-| Mechanism               | Propagation uses "gossip protocols," where nodes share new blocks with peers, propagating through the network. |
-| Innovations             | Solutions like compact blocks and specialized block relay networks enhance propagation speed. |
+| Core Function | Block propagation spreads a new, valid block to all nodes in a decentralized network. |
+| Goal | The objective is for all honest nodes to receive and accept the new block, maintaining a unified network state. |
+| Impact of Latency | High latency can lead to increased forks and centralization risks, negatively affecting blockchain performance.|
+| Mechanism | Propagation uses "gossip protocols," where nodes share new blocks with peers, propagating through the network. |
+| Innovations | Solutions like compact blocks and specialized block relay networks enhance propagation speed. |
 
 ### The Block Propagation Process: A Step-by-Step Look
 
@@ -35,10 +35,10 @@ Consider a miner in Shanghai who has just mined a new [Bitcoin](/what-is-bitcoin
 2. **Initial Broadcast**: The miner sends the new block to its directly connected peers in the P2P network, typically around 8 to 10 nodes.
 
 3. **Receive and Validate**: Upon receiving the block, a peer node conducts several checks:
-   - Does the block's hash meet the current difficulty target?
-   - Is it correctly linked to the hash of the previous block?
-   - Are all transactions within the block valid (e.g., valid signatures, no **[double-spending](/double-spending-problem-in-cryptocurrency)**)?
-   - Is the block size compliant with protocol limits?
+ - Does the block's hash meet the current difficulty target?
+ - Is it correctly linked to the hash of the previous block?
+ - Are all transactions within the block valid (e.g., valid signatures, no **[double-spending](/double-spending-problem-in-cryptocurrency)**)?
+ - Is the block size compliant with protocol limits?
 
 4. **Gossip (Forwarding)**: If the block passes validation, the receiving node adds it to its local blockchain copy. It then immediately forwards the block to its own peers, excluding the node from which it received the block.
 
@@ -88,18 +88,17 @@ These networks, often run by research groups or private companies, are optimized
 
 ### Frequently Asked Questions (FAQ)
 
-**How long does block propagation take?**  
+**How long does block propagation take?** 
 Propagation time varies based on the blockchain, block size, and network conditions. For Bitcoin, it typically takes several seconds to reach a majority of nodes. Ethereum, with shorter block times, often achieves propagation in under a second due to optimizations.
 
-**What happens if a node receives an invalid block?**  
+**What happens if a node receives an invalid block?** 
 The node discards the invalid block and does not forward it to peers. It may also disconnect from or penalize the peer that sent the invalid block, as this contravenes protocol rules.
 
-**Does block propagation incur gas costs?**  
+**Does block propagation incur gas costs?** 
 No. Block propagation occurs through P2P networking and is separate from the on-chain execution of transactions. While transactions within the block require gas, the act of propagating the block itself does not.
 
-**How many peers does a typical node connect to?**  
+**How many peers does a typical node connect to?** 
 This number is configurable, but a standard Bitcoin or Ethereum node typically maintains active connections with 8 to 25 peers. This configuration ensures sufficient connectivity to the gossip network without overwhelming bandwidth.
 
-**Can block propagation be attacked?**  
+**Can block propagation be attacked?** 
 Yes. An attacker might attempt an "eclipse attack," surrounding a specific node with malicious peers to feed it false information and isolate it from the true network state. Nodes have built-in defenses that complicate such attacks, including randomizing peer connections.
-

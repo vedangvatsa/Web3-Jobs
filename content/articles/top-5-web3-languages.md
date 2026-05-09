@@ -25,11 +25,11 @@ For developers aiming to create applications on [Ethereum](/what-is-ethereum) or
 
 ### Pros and Cons
 
-| Pros                          | Cons                               |
+| Pros | Cons |
 |-------------------------------|-------------------------------------|
-| Largest developer ecosystem    | Security vulnerabilities exist      |
-| High demand for developers     | EVM design limits performance       |
-| Relatively easy to learn       | Gas fees can be costly             |
+| Largest developer ecosystem | Security vulnerabilities exist |
+| High demand for developers | EVM design limits performance |
+| Relatively easy to learn | Gas fees can be costly |
 
 **Should you learn it?** Yes. For many aspiring Web3 application developers, Solidity is a critical starting point. It opens doors to a significant segment of the [Web3 job](/web3-jobs-for-beginners) market.
 
@@ -43,11 +43,11 @@ While Solidity excels at the application layer, Rust is increasingly the languag
 
 ### Pros and Cons
 
-| Pros                          | Cons                               |
+| Pros | Cons |
 |-------------------------------|-------------------------------------|
-| Exceptional performance        | Steep learning curve                |
-| Strong memory safety          | Smaller ecosystem compared to Solidity |
-| High demand and salaries      | More complex than other languages   |
+| Exceptional performance | Steep learning curve |
+| Strong memory safety | Smaller ecosystem compared to Solidity |
+| High demand and salaries | More complex than other languages |
 
 **Should you learn it?** If you possess a strong computer science background and are interested in systems programming, learning Rust is a valuable long-term career investment.
 
@@ -61,11 +61,11 @@ JavaScript and TypeScript skills are essential in the Web3 environment. Every de
 
 ### Pros and Cons
 
-| Pros                          | Cons                               |
+| Pros | Cons |
 |-------------------------------|-------------------------------------|
 | Transferable skills from existing knowledge | Limited to client-side logic |
-| Essential for full-stack roles | Cannot write smart contracts       |
-| Rich library ecosystem        |                                    |
+| Essential for full-stack roles | Cannot write smart contracts |
+| Rich library ecosystem | |
 
 **Should you learn it?** If you have frontend development experience, you can quickly transition to building Web3 frontends. If you're new to programming, JavaScript serves as an excellent entry point into Web3 development.
 
@@ -79,11 +79,11 @@ While Python may not be the primary language for smart contract development, it 
 
 ### Pros and Cons
 
-| Pros                          | Cons                               |
+| Pros | Cons |
 |-------------------------------|-------------------------------------|
-| Easy to learn                 | Limited use in smart contracts      |
+| Easy to learn | Limited use in smart contracts |
 | Strong data science capabilities | Not widely adopted for on-chain use |
-| Strong Web3 libraries         |                                    |
+| Strong Web3 libraries | |
 
 **Should you learn it?** If you're interested in data, analytics, or security research, Python is an excellent choice. It’s also a practical option for backend developers who need to build services interacting with the blockchain.
 
@@ -97,23 +97,23 @@ Similar to Rust, Go is favored for constructing the underlying infrastructure of
 
 ### Pros and Cons
 
-| Pros                          | Cons                               |
+| Pros | Cons |
 |-------------------------------|-------------------------------------|
-| Clean and readable syntax     | Not applicable for application-level smart contracts |
-| Excellent concurrency support  | Demand is niche and concentrated   |
-| Strong performance            |                                    |
+| Clean and readable syntax | Not applicable for application-level smart contracts |
+| Excellent concurrency support | Demand is niche and concentrated |
+| Strong performance | |
 
 **Should you learn it?** If you are interested in the low-level operations of blockchain networks and wish to contribute to the core clients that power these systems, Go is a respected choice.
 
 ### Language Summary
 
-| Language        | Primary Use Case                 | Learning Curve   | Ecosystems                       |
+| Language | Primary Use Case | Learning Curve | Ecosystems |
 |------------------|----------------------------------|------------------|----------------------------------|
-| Solidity         | Smart Contracts                  | Easy             | Ethereum, EVM Chains             |
-| Rust             | Blockchains (Layer 1)           | Hard             | Solana, Polkadot, Near           |
-| JavaScript/TS    | Frontends (dApps)               | Easy             | All ecosystems                   |
-| Python           | Data Analysis & Scripting        | Easy             | Ethereum, EVM Chains             |
-| Go               | Blockchain Clients               | Medium           | Ethereum, Cosmos                 |
+| Solidity | Smart Contracts | Easy | Ethereum, EVM Chains |
+| Rust | Blockchains (Layer 1) | Hard | Solana, Polkadot, Near |
+| JavaScript/TS | Frontends (dApps) | Easy | All ecosystems |
+| Python | Data Analysis & Scripting | Easy | Ethereum, EVM Chains |
+| Go | Blockchain Clients | Medium | Ethereum, Cosmos |
 
 Your entry into Web3 development will hinge on the programming language you select. For most, starting with Solidity and JavaScript will facilitate the creation of full-stack decentralized applications. Those motivated by performance and systems-level work should consider Rust and Go to engage with the foundational elements of the new internet. If your interests lie in data analysis, Python equips you with the necessary tools to glean insights from the transparent nature of on-chain data.
 

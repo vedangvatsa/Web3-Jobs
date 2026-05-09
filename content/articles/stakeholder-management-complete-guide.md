@@ -76,12 +76,12 @@ Your communication plan should include:
 
 **Example Communication Plan:**
 
-| Stakeholder        | Key Message                                           | Method              | Frequency   | Owner            |
+| Stakeholder | Key Message | Method | Frequency | Owner |
 |--------------------|------------------------------------------------------|---------------------|-------------|-------------------|
-| Project Sponsor     | Progress against milestones, budget status, key risks | 1-on-1 Meeting      | Weekly      | Project Manager    |
-| End-Users          | Upcoming feature releases, training materials        | Email Newsletter    | Bi-weekly   | Product Manager     |
-| CEO                | Alignment with strategic goals, major wins           | Executive Summary    | Monthly     | Project Sponsor     |
-| Engineering Team    | Task assignments, technical specs, dependencies      | Daily Stand-up      | Daily       | Tech Lead          |
+| Project Sponsor | Progress against milestones, budget status, key risks | 1-on-1 Meeting | Weekly | Project Manager |
+| End-Users | Upcoming feature releases, training materials | Email Newsletter | Bi-weekly | Product Manager |
+| CEO | Alignment with strategic goals, major wins | Executive Summary | Monthly | Project Sponsor |
+| Engineering Team | Task assignments, technical specs, dependencies | Daily Stand-up | Daily | Tech Lead |
 
 ## Step 4: Engage and Manage Your Stakeholders
 
@@ -103,4 +103,3 @@ Some stakeholders will resist change or have competing priorities.
 - **Acknowledge Their Concerns:** Validate their feelings, even if you disagree with their position. For instance, saying, "I understand your concern about how this will impact your team's workflow," is more effective than dismissing it.
 - **Find Common Ground:** Seek areas of agreement and build on them. Frame solutions that address their concerns while still achieving project objectives.
 - **Involve a Neutral Third Party:** If discussions reach a stalemate, consider bringing in a neutral third party, such as a senior manager or another department head, to mediate.
-

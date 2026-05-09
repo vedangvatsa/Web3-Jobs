@@ -94,4 +94,3 @@ These questions can yield valuable insights but should be phrased carefully to a
 24. **What is the decision-making process for new ideas or projects?** Understanding the organizational structure can reveal whether the company is bureaucratic or agile.
 
 25. **What are the next steps in the interview process, and what is the expected timeline?** This straightforward question shows your organizational skills and respect for the interviewer’s time.
-

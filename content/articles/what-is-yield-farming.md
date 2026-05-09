@@ -49,10 +49,9 @@ DeFi yields are often presented as APY and can reach impressive levels; however,
 Yield farming is not a passive investment; it requires active management and comes with significant risks:
 
 - **Impermanent Loss**: This risk affects liquidity providers when the price of one token in the pair changes drastically relative to the other. The value of the LP’s stake can diminish compared to simply holding the individual tokens.
-  
+
 - **Smart Contract Risk**: Bugs in the protocol code can lead to vulnerabilities, allowing hackers to drain liquidity pools. This risk escalates with newer, unaudited protocols.
 
 - **Liquidation Risk**: Advanced yield farming strategies may involve borrowing assets to amplify positions. If market conditions shift unfavorably, the collateral provided can be liquidated, resulting in total loss.
 
 Yield farming serves as a strong mechanism within the DeFi ecosystem, offering high-risk, high-reward opportunities. It facilitates liquidity for new protocols while allowing sophisticated users to generate returns that significantly surpass those available in traditional finance.
-

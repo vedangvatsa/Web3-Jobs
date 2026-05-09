@@ -18,23 +18,23 @@ The Chicago Web3 scene is populated by some of the most sophisticated crypto tra
 
 Chicago's crypto ecosystem reflects its identity as a global financial trading hub.
 
-| **Feature**                               | **Details**                                                                                                             |
+| **Feature** | **Details** |
 |-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Quantitative Trading Firms**            | Major players like Jump Crypto and Cumberland DRW provide liquidity to global crypto markets and invest in Web3 infrastructure. |
-| **DeFi Projects**                         | The city hosts projects focused on decentralized derivatives exchanges and complex financial primitives.                   |
-| **Connection to Traditional Finance**     | Institutions like the CME (Chicago Mercantile Exchange) are involved in crypto derivatives, linking traditional finance with crypto. |
-| **Talent Pool**                           | A rich pool of professionals skilled in high-frequency trading and risk management, directly applicable to the DeFi sector. |
+| **Quantitative Trading Firms** | Major players like Jump Crypto and Cumberland DRW provide liquidity to global crypto markets and invest in Web3 infrastructure. |
+| **DeFi Projects** | The city hosts projects focused on decentralized derivatives exchanges and complex financial primitives. |
+| **Connection to Traditional Finance** | Institutions like the CME (Chicago Mercantile Exchange) are involved in crypto derivatives, linking traditional finance with crypto. |
+| **Talent Pool** | A rich pool of professionals skilled in high-frequency trading and risk management, directly applicable to the DeFi sector. |
 
 ### In-Demand Roles and Salary Expectations
 
 The competitive job market in Chicago offers lucrative salaries, particularly for those with backgrounds in quantitative finance or low-latency systems engineering.
 
-| **Role**                                   | **Description**                                                                                                   | **Salary Range**                    |
+| **Role** | **Description** | **Salary Range** |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| **Quantitative Trader / Researcher**       | Professionals who design and implement automated trading strategies for crypto hedge funds.                       | Competitive compensation             |
-| **Smart Contract Engineer**                 | Developers focused on building secure and optimized smart contracts for DeFi applications.                        | Competitive compensation             |
-| **Low-Latency Software Engineer**          | Engineers who develop high-performance off-chain systems for market making and arbitrage.                        | Competitive compensation             |
-| **Business Development / Institutional Sales** | Professionals who establish relationships and sell trading or DeFi products to financial institutions.              | Competitive compensation             |
+| **Quantitative Trader / Researcher** | Professionals who design and implement automated trading strategies for crypto hedge funds. | Competitive compensation |
+| **Smart Contract Engineer** | Developers focused on building secure and optimized smart contracts for DeFi applications. | Competitive compensation |
+| **Low-Latency Software Engineer** | Engineers who develop high-performance off-chain systems for market making and arbitrage. | Competitive compensation |
+| **Business Development / Institutional Sales** | Professionals who establish relationships and sell trading or DeFi products to financial institutions. | Competitive compensation |
 
 ### Building a Web3 Career in Chicago
 
@@ -60,4 +60,3 @@ The culture in these organizations prioritizes high-performance and reliable sys
 ### Finding Your Web3 Job in Chicago
 
 For those ready to contribute to the decentralized economy at the highest level, the Chicago job market offers a wealth of opportunities. Explore the latest roles on our [Web3 job board](/jobs). Chicago provides a unique career path for professionals who excel in fast-paced, quantitative, market-driven environments.
-

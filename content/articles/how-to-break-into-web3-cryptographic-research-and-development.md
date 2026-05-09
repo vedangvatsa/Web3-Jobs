@@ -41,4 +41,3 @@ Entering the field of cryptographic R&D involves extensive academic preparation.
 3. **Publishing Research:** Engage with the academic community by publishing papers at prestigious conferences in security and cryptography, such as a16z's Crypto Startup School.
 
 A career in Web3 cryptography appeals to those who thrive on tackling complex challenges at the intersection of mathematics and computer science.
-

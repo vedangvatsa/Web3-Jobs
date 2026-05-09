@@ -125,4 +125,3 @@ To be effective, you must understand core DEX concepts.
 - Bridge design and security
 - Cross-chain DEX design
 - Slippage and fees in bridges
-

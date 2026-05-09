@@ -69,7 +69,7 @@ The toolkit comprises three key components:
 - **Cast**: A command-line tool for interacting with contracts and the blockchain.
 - **Anvil**: A fast local Ethereum node comparable to Hardhat Network.
 
-The standout feature of Foundry is that **tests are written in Solidity**, not JavaScript. This approach allows testing contracts in the same language used for development, eliminating the abstraction layer of JavaScript and simplifying the testing of low-level functionalities. Additionally, Foundry's test runner operates significantly faster than Hardhat's; compilation and test suites that take longer in Hardhat often complete in a shorter time with Foundry.
+The standout feature of Foundry is that **tests are written in Solidity**, not JavaScript. This approach allows testing contracts in the same language used for development, eliminating the abstraction layer of JavaScript and simplifying the testing of low-level functionalities. Foundry's test runner operates significantly faster than Hardhat's; compilation and test suites that take longer in Hardhat often complete in a shorter time with Foundry.
 
 ### Example of a Minimal Foundry Test
 
@@ -83,15 +83,15 @@ import "forge-std/Test.sol";
 import "../src/MyContract.sol";
 
 contract MyContractTest is Test {
-    MyContract public c;
+ MyContract public c;
 
-    function setUp() public {
-        c = new MyContract();
-    }
+ function setUp() public {
+ c = new MyContract();
+ }
 
-    function test_initialValue() public {
-        assertEq(c.getValue(), 0);
-    }
+ function test_initialValue() public {
+ assertEq(c.getValue(), 0);
+ }
 }
 ```
 
@@ -109,12 +109,12 @@ For those focused on building within the **Solana** ecosystem rather than Ethere
 
 ## Quick Comparison Table
 
-| Tool                   | Setup Difficulty | Primary Language | Best For                       | Cost  |
+| Tool | Setup Difficulty | Primary Language | Best For | Cost |
 |------------------------|------------------|------------------|--------------------------------|-------|
-| Remix IDE              | None (browser)   | Solidity         | Absolute beginners, quick prototyping | Free  |
-| VS Code + Hardhat      | Low (npm)        | Solidity + JS/TS | Professional EVM development   | Free  |
-| VS Code + Foundry      | Medium (Rust toolchain) | Solidity         | Testing-focused, security work | Free  |
-| VS Code + Anchor       | High (Rust + Solana) | Rust            | Solana program development     | Free  |
+| Remix IDE | None (browser) | Solidity | Absolute beginners, quick prototyping | Free |
+| VS Code + Hardhat | Low (npm) | Solidity + JS/TS | Professional EVM development | Free |
+| VS Code + Foundry | Medium (Rust toolchain) | Solidity | Testing-focused, security work | Free |
+| VS Code + Anchor | High (Rust + Solana) | Rust | Solana program development | Free |
 
 All four tools are completely free and open source.
 
@@ -129,4 +129,3 @@ Adopting a sequential learning approach yields the best results rather than atte
 **Month 2 and Beyond: Explore Foundry.** After establishing a working Hardhat project with adequate test coverage, recreate the test suite in Foundry. You will quickly notice the performance improvements. Begin experimenting with fuzz testing. From this point, you can choose either tool depending on the project; many developers effectively use both.
 
 **Optional , Anchor for Solana:** If you eventually decide to target Solana, dedicate time to mastering Rust fundamentals before tackling Anchor. Trying to learn Rust, Solana's programming model, and Anchor simultaneously can become overwhelming.
-

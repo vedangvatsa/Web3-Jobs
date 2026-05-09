@@ -37,8 +37,8 @@ Explore our [breakdown of the top 5 Web3 languages](/top-5-web3-languages) to he
 A specialized set of tools is necessary for writing, testing, and deploying your smart contracts.
 
 - **Development Environment:**
-  - **Hardhat (Recommended for Beginners):** This versatile JavaScript-based environment allows for the compilation, testing, and deployment of Solidity contracts.
-  - **Foundry:** A modern alternative that enables you to write tests directly in Solidity, offering enhanced speed and efficiency.
+ - **Hardhat (Recommended for Beginners):** This versatile JavaScript-based environment allows for the compilation, testing, and deployment of Solidity contracts.
+ - **Foundry:** A modern alternative that enables you to write tests directly in Solidity, offering enhanced speed and efficiency.
 - **[Wallet](/how-to-choose-a-crypto-wallet):** **MetaMask** serves as the standard browser-based wallet for development and testing. Familiarize yourself with its functionality using test networks like Sepolia.
 - **Indexing Protocol:** **The Graph** allows for efficient querying of blockchain data, essential for building APIs that support your dApp’s front end.
 - **Boilerplates & Libraries:** Use resources like **Scaffold-ETH** to quickly establish a full-stack dApp environment.
@@ -47,13 +47,13 @@ A specialized set of tools is necessary for writing, testing, and deploying your
 
 Hands-on experience is vital for mastering blockchain development. Progress through the following projects to develop your skills and enhance your [portfolio](/building-web3-portfolio).
 
-| Project Number | Project Title                         | Goal                                                | Task Description                                                                                                  |
+| Project Number | Project Title | Goal | Task Description |
 |----------------|---------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| 1              | Simple Storage Contract               | Learn Solidity syntax                               | Write a contract that stores and retrieves a number. Deploy it on a testnet using Remix or Hardhat.              |
-| 2              | Your Own ERC-20 [Token](/what-is-a-token) | Understand token standards                           | Create and deploy your own cryptocurrency. Build a basic front end with React and Ethers.js for wallet connection. |
-| 3              | An [NFT](/what-are-nfts) Collection  | Learn the ERC-721 standard                          | Develop a generative art NFT collection. Implement a contract allowing users to mint NFTs and display them.       |
-| 4              | A Decentralized Staking dApp          | Understand basic [DeFi](/what-is-defi) mechanics   | Create a contract where users can deposit your ERC-20 token from Project 2 and earn rewards over time.            |
-| 5              | Contribute to an Open-Source Project  | Gain real-world experience and build your reputation | Identify a Web3 project on GitHub. Start by fixing a bug, improving documentation, or adding a feature.         |
+| 1 | Simple Storage Contract | Learn Solidity syntax | Write a contract that stores and retrieves a number. Deploy it on a testnet using Remix or Hardhat. |
+| 2 | Your Own ERC-20 [Token](/what-is-a-token) | Understand token standards | Create and deploy your own cryptocurrency. Build a basic front end with React and Ethers.js for wallet connection. |
+| 3 | An [NFT](/what-are-nfts) Collection | Learn the ERC-721 standard | Develop a generative art NFT collection. Implement a contract allowing users to mint NFTs and display them. |
+| 4 | A Decentralized Staking dApp | Understand basic [DeFi](/what-is-defi) mechanics | Create a contract where users can deposit your ERC-20 token from Project 2 and earn rewards over time. |
+| 5 | Contribute to an Open-Source Project | Gain real-world experience and build your reputation | Identify a Web3 project on GitHub. Start by fixing a bug, improving documentation, or adding a feature. |
 
 ### Step 5: Build Your Web3 Presence
 
@@ -62,4 +62,3 @@ Hands-on experience is vital for mastering blockchain development. Progress thro
 - **Participate in Hackathons:** Join events like those organized by ETHGlobal. Hackathons provide opportunities to learn rapidly, network, and potentially secure funding for projects.
 
 The path to becoming a blockchain developer demands commitment and an ongoing desire to learn. By adhering to this roadmap and consistently building projects, you will cultivate the expertise and portfolio necessary to secure a significant position in the industry.
-

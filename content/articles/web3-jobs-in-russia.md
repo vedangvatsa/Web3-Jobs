@@ -21,7 +21,7 @@ The Russian crypto scene is characterized by profound technical expertise and a 
 - **Abundant Engineering Talent**: Russia has a rich history of excellence in mathematics, computer science, and cryptography. This has led to a significant pool of highly skilled developers, protocol engineers, and security researchers who contribute extensively to global open-source Web3 projects.
 - **Geopolitical and Regulatory Challenges**: The current geopolitical climate and international sanctions hinder local Web3 companies' ability to operate and access global capital. The regulatory framework remains ambiguous, with the Central Bank of Russia expressing skepticism while other government sectors explore the technology's potential.
 - **Remote Work Opportunities**: Due to these challenges, most career prospects for Russian Web3 professionals are remote roles with international companies and [DAOs](/what-is-a-dao). A considerable number of talented developers have relocated to more crypto-friendly regions such as Dubai, Lisbon, or parts of Asia.
-- **Active Technical Communities**: Despite the difficulties, the developer community remains vibrant and engaged on platforms like Telegram and through independent community-organized technical meetups.
+- **Active Technical Communities**: Despite the difficulties, the developer community remains active and engaged on platforms like Telegram and through independent community-organized technical meetups.
 
 ### In-Demand Roles and Salary Expectations
 
@@ -37,8 +37,8 @@ The most lucrative opportunities arise with international, remote-first companie
 
 ### Building a Web3 Career as a Russian Professional
 
-1. **Create a Strong, Public, Global [Portfolio](/building-web3-portfolio)**: Your GitHub profile serves as your professional passport. Maintaining a world-class portfolio showcasing your work on global platforms is critical. Contribute to major international open-source protocols. A solid history of high-quality pull requests provides substantial credibility.
-   
+1. **Create a Strong, Public, Global [Portfolio](/building-web3-portfolio)**: Your GitHub profile serves as your professional passport. Maintaining a top-tier portfolio showcasing your work on global platforms is critical. Contribute to major international open-source protocols. A solid history of high-quality pull requests provides substantial credibility.
+
 2. **Excel in Global Hackathons and Competitions**: Participating in online hackathons, such as ETHGlobal, and competitive auditing contests like Code4rena allows you to demonstrate your skills to a global audience and gain recognition from leading protocols.
 
 3. **Develop English and Asynchronous Communication Skills**: Fluency in English is essential for securing remote roles. You must also excel in asynchronous communication, clearly articulating complex technical ideas in writing on platforms like Discord, Telegram, and Notion.
@@ -236,4 +236,3 @@ The most lucrative opportunities arise with international, remote-first companie
 - Path 1: Recognized contributor with PRs in major protocols.
 - Path 2: 1+ Code4rena earnings or bug bounty success.
 - Path 3: 1-2 serious interviews.
-

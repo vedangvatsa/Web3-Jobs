@@ -19,7 +19,7 @@ Windhoek's Web3 scene is still developing but presents significant potential, pa
 Windhoek's Web3 ecosystem benefits from Namibia's distinctive economic and environmental factors.
 
 - **Conservation and ReFi (Regenerative Finance):** Namibia is a global leader in conservation, with a significant portion of its land under conservation management. This creates substantial opportunities for Web3 initiatives focused on ReFi, including the use of blockchain for transparent carbon credit markets, monitoring conservation efforts, and funding community-based projects through [DAOs](/what-is-a-dao).
-  
+
 - **Tourism and Digital Collectibles:** Tourism significantly contributes to Namibia's economy. Opportunities exist for projects using [NFTs](/what-are-nfts) to represent unique travel experiences, create digital souvenirs, or raise funds for preserving cultural and natural heritage sites.
 
 - **Growing FinTech Sector:** The Bank of Namibia is investigating digital currencies and has established a regulatory sandbox for FinTech innovation. This environment supports opportunities for blockchain-based payment solutions and inclusive financial services.
@@ -30,19 +30,19 @@ Windhoek's Web3 ecosystem benefits from Namibia's distinctive economic and envir
 
 The formal Web3 job market in Windhoek is still nascent. Primary opportunities include entrepreneurship, remote work for international companies, and consulting roles with local conservation and tourism organizations on blockchain pilot projects.
 
-| Role                                   | Salary Range (USD)               | Salary Range (NAD)               |
+| Role | Salary Range (USD) | Salary Range (NAD) |
 |----------------------------------------|----------------------------------|----------------------------------|
-| Web3 Developer (Remote)                | Significant range                | ,                                |
-| Web3 Developer (Local Startup)         | ,                                | Variable                         |
-| Project Manager (Conservation/ReFi)    | ,                                | Variable                         |
-| Community and Ecosystem Builders        | ,                                | Variable, depends on projects    |
+| Web3 Developer (Remote) | Significant range | , |
+| Web3 Developer (Local Startup) | , | Variable |
+| Project Manager (Conservation/ReFi) | , | Variable |
+| Community and Ecosystem Builders | , | Variable, depends on projects |
 
 * **Web3 Developer (Full-Stack / [Solidity](/best-programming-languages-for-blockchain-development))**: Developers skilled in building practical applications are in high demand.
-    - **Remote for Global Company**: Can earn competitive salaries, allowing for a high quality of life in Windhoek.
-    - **Local Startup**: Salaries are still emerging, likely within a variable range for experienced developers.
+ - **Remote for Global Company**: Can earn competitive salaries, allowing for a high quality of life in Windhoek.
+ - **Local Startup**: Salaries are still emerging, likely within a variable range for experienced developers.
 
 * **Project Manager (Conservation/ReFi Focus)**: Professionals managing blockchain-based conservation projects are uniquely positioned for growth.
-    - **Grant-funded or NGO roles**: Compensation varies significantly based on the funding organization.
+ - **Grant-funded or NGO roles**: Compensation varies significantly based on the funding organization.
 
 * **Community and Ecosystem Builders**: As the scene is new, individuals who lead in organizing meetups and educational initiatives will gain recognition as local leaders.
 
@@ -60,31 +60,31 @@ The formal Web3 job market in Windhoek is still nascent. Primary opportunities i
 
 **Developer Compensation:**
 
-| Experience Level                         | Remote Salary Range (USD)               |
+| Experience Level | Remote Salary Range (USD) |
 |------------------------------------------|-----------------------------------------|
-| Junior Web3 Developer (0-1 year)        | Competitive range                       |
-| Mid-Level Developer (1-3 years)         | Competitive range                       |
-| Senior Developer (3+ years)             | Competitive range                       |
+| Junior Web3 Developer (0-1 year) | Competitive range |
+| Mid-Level Developer (1-3 years) | Competitive range |
+| Senior Developer (3+ years) | Competitive range |
 
 **Local Options:**
 
-| Role                                          | Salary Range (NAD)                     |
+| Role | Salary Range (NAD) |
 |-----------------------------------------------|----------------------------------------|
-| Local Startup Developer                        | Variable                               |
-| Conservation/ReFi Project Manager             | Variable                               |
-| Consulting                                    | Variable                               |
+| Local Startup Developer | Variable |
+| Conservation/ReFi Project Manager | Variable |
+| Consulting | Variable |
 
 **Real Numbers: Cost of Living in Windhoek**
 
 For a remote developer earning a competitive salary, the estimated monthly expenses are as follows:
 
-| Expense Category               | Cost (USD)          |
+| Expense Category | Cost (USD) |
 |--------------------------------|---------------------|
-| Rent (nice area)               | Variable            |
-| Food & Living                  | Variable            |
-| Recreation                     | Variable            |
-| **Total**                      | **Variable**        |
-| **Savings**                    | **Variable**        |
+| Rent (nice area) | Variable |
+| Food & Living | Variable |
+| Recreation | Variable |
+| **Total** | **Variable** |
+| **Savings** | **Variable** |
 
 Windhoek offers an exceptional quality of life with safety, beautiful nature, and solid infrastructure.
 
@@ -100,8 +100,8 @@ Windhoek offers an exceptional quality of life with safety, beautiful nature, an
 
 **Months 4-6: ReFi Project Development**
 - Build two conservation-focused projects:
-  - Carbon credit tokenization system.
-  - Conservation DAO treasury management.
+ - Carbon credit tokenization system.
+ - Conservation DAO treasury management.
 - Research organizations like Toucan and Verra.
 - Expected time: 25-30 hours/week.
 
@@ -248,4 +248,3 @@ The community is small but growing. Use platforms like Twitter to connect with o
 
 **What about living costs?**
 Monthly expenses for a comfortable lifestyle vary. The visa costs annually, and internet access ranges, making it manageable on any Web3 salary.
-

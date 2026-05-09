@@ -69,4 +69,3 @@ An interview serves both parties. Asking insightful questions demonstrates your 
 - What does the roadmap for the next 6 to 12 months look like?
 
 By preparing for these types of questions, you can convey your expertise, passion, and analytical skills, positioning yourself as a strong candidate in the competitive [Web3 job](/web3-jobs-for-beginners) market.
-

@@ -6,15 +6,15 @@ difficulty: intermediate
 image: "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80"
 description: Liquid restaking combines restaking with liquidity by issuing fungible tokens (Liquid Restaking Tokens or LRTs) that represent restaked positions. Users deposit staked assets into restaking protocols and receive tradable tokens, maintaining liquidity while earning staking, restaking, and DeFi yields simultaneously.
 relatedTerms:
-  - restaking
-  - liquid-staking-token
-  - eigenlayer
-  - staking
-  - yield
+ - restaking
+ - liquid-staking-token
+ - eigenlayer
+ - staking
+ - yield
 synonyms:
-  - LRT
-  - Liquid restaking tokens
-  - Restaked LST
+ - LRT
+ - Liquid restaking tokens
+ - Restaked LST
 ---
 
 - **Liquid restaking** combines the capital efficiency of restaking with the liquidity of liquid staking tokens, enabling users to earn multiple layers of yield while maintaining asset liquidity. By depositing liquid staking tokens (like stETH or rETH) into restaking protocols and receiving Liquid Restaking Tokens (LRTs) in return, users can simultaneously earn base staking rewards, restaking rewards from AVS validation, and additional DeFi yields while keeping their assets liquid and composable.
@@ -36,22 +36,22 @@ The liquid restaking process follows these steps:
 3. **Receive LRT**: Protocol issues a Liquid Restaking Token (eETH, pufETH, ezETH, rsETH) representing the restaked position.
 
 4. **Automatic Restaking**: Protocol operators handle:
-   - Selecting optimal AVSs to validate
-   - Running required infrastructure
-   - Managing slashing risks
-   - Distributing rewards
+ - Selecting optimal AVSs to validate
+ - Running required infrastructure
+ - Managing slashing risks
+ - Distributing rewards
 
 5. **Earn Multiple Yields**: User now earns:
-   - **Base staking yield**: From underlying ETH validation
-   - **Restaking yield**: From AVS validation via EigenLayer
-   - **Protocol incentives**: Token emissions from the LRT protocol
-   - **DeFi yields**: By using LRT in lending, LP pools, etc.
+ - **Base staking yield**: From underlying ETH validation
+ - **Restaking yield**: From AVS validation via EigenLayer
+ - **Protocol incentives**: Token emissions from the LRT protocol
+ - **DeFi yields**: By using LRT in lending, LP pools, etc.
 
 6. **Maintain Liquidity**: LRTs can be:
-   - Traded on DEXs (swapped back to ETH or other assets)
-   - Used as collateral in lending protocols (Aave, Compound)
-   - Deposited in liquidity pools (Curve, Uniswap)
-   - Held in yield aggregators (Yearn, Pendle)
+ - Traded on DEXs (swapped back to ETH or other assets)
+ - Used as collateral in lending protocols (Aave, Compound)
+ - Deposited in liquidity pools (Curve, Uniswap)
+ - Held in yield aggregators (Yearn, Pendle)
 
 ### For Protocols
 

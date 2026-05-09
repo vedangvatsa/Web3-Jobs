@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "intermediate"
 prerequisites: ["yield"]
 quiz:
-  - question: "What is an oracle manipulation attack?"
-    options:
-      - "Hacking the blockchain's core code"
-      - "Tricking a smart contract by temporarily manipulating the price feed it relies on"
-      - "Stealing someone's private keys"
-      - "A phishing website"
-    correct: 1
-    explanation: "If a lending protocol relies on a single DEX for price data, a hacker can use a massive amount of capital (a flash loan) to temporarily crash the price on that DEX, tricking the lending protocol into liquidating users or allowing under-collateralized borrowing."
-  - question: "What is a Flash Loan?"
-    options:
-      - "A fast transaction on Layer 2"
-      - "An uncollateralized loan that must be borrowed and repaid within the exact same transaction block"
-      - "A loan for buying NFTs"
-      - "A traditional bank loan that settles quickly"
-    correct: 1
-    explanation: "Flash loans allow anyone to borrow millions of dollars with no collateral, as long as the money is returned in the same transaction. Hackers often use flash loans to fund massive oracle manipulation attacks."
-  - question: "What does TVL (Total Value Locked) indicate about a protocol's security?"
-    options:
-      - "High TVL means the protocol is 100% safe"
-      - "High TVL means the code has survived being a high-value target, but it is not a guarantee of safety"
-      - "Low TVL is safer because hackers ignore it"
-      - "TVL has no relation to security"
-    correct: 1
-    explanation: "A protocol with $1 billion TVL has an open $1 billion bounty for any hacker who can find a bug. If it has survived for years with high TVL, the code is battle-tested. However, even battle-tested protocols can be hacked."
-  - question: "Why do smart contract audits NOT guarantee safety?"
-    options:
-      - "Auditors don't look at the code"
-      - "Auditors only check for spelling errors"
-      - "Auditors check for known vulnerabilities, but complex logic bugs or new attack vectors can be missed"
-      - "Auditors are usually the hackers"
-    correct: 2
-    explanation: "An audit is a review by security experts. It catches many bugs, but humans make mistakes. A clean audit reduces risk but does not mean the protocol is 'hack-proof'."
-  - question: "What is the safest way to approach a brand new DeFi protocol offering high yields?"
-    options:
-      - "Put all your savings in to maximize the yield"
-      - "Use a new, empty wallet and only deposit funds you are fully prepared to lose"
-      - "Trust it if it has an audit"
-      - "Borrow money to deposit"
-    correct: 1
-    explanation: "New protocols are the riskiest. Using a separate, dedicated 'degen' wallet protects your main holdings from malicious approvals, and only risking what you can lose protects you from smart contract bugs."
+ - question: "What is an oracle manipulation attack?"
+ options:
+ - "Hacking the blockchain's core code"
+ - "Tricking a smart contract by temporarily manipulating the price feed it relies on"
+ - "Stealing someone's private keys"
+ - "A phishing website"
+ correct: 1
+ explanation: "If a lending protocol relies on a single DEX for price data, a hacker can use a massive amount of capital (a flash loan) to temporarily crash the price on that DEX, tricking the lending protocol into liquidating users or allowing under-collateralized borrowing."
+ - question: "What is a Flash Loan?"
+ options:
+ - "A fast transaction on Layer 2"
+ - "An uncollateralized loan that must be borrowed and repaid within the exact same transaction block"
+ - "A loan for buying NFTs"
+ - "A traditional bank loan that settles quickly"
+ correct: 1
+ explanation: "Flash loans allow anyone to borrow millions of dollars with no collateral, as long as the money is returned in the same transaction. Hackers often use flash loans to fund massive oracle manipulation attacks."
+ - question: "What does TVL (Total Value Locked) indicate about a protocol's security?"
+ options:
+ - "High TVL means the protocol is 100% safe"
+ - "High TVL means the code has survived being a high-value target, but it is not a guarantee of safety"
+ - "Low TVL is safer because hackers ignore it"
+ - "TVL has no relation to security"
+ correct: 1
+ explanation: "A protocol with $1 billion TVL has an open $1 billion bounty for any hacker who can find a bug. If it has survived for years with high TVL, the code is battle-tested. However, even battle-tested protocols can be hacked."
+ - question: "Why do smart contract audits NOT guarantee safety?"
+ options:
+ - "Auditors don't look at the code"
+ - "Auditors only check for spelling errors"
+ - "Auditors check for known vulnerabilities, but complex logic bugs or new attack vectors can be missed"
+ - "Auditors are usually the hackers"
+ correct: 2
+ explanation: "An audit is a review by security experts. It catches many bugs, but humans make mistakes. A clean audit reduces risk but does not mean the protocol is 'hack-proof'."
+ - question: "What is the safest way to approach a brand new DeFi protocol offering high yields?"
+ options:
+ - "Put all your savings in to maximize the yield"
+ - "Use a new, empty wallet and only deposit funds you are fully prepared to lose"
+ - "Trust it if it has an audit"
+ - "Borrow money to deposit"
+ correct: 1
+ explanation: "New protocols are the riskiest. Using a separate, dedicated 'degen' wallet protects your main holdings from malicious approvals, and only risking what you can lose protects you from smart contract bugs."
 ---
 
 ## The dark side of "code is law"
@@ -58,41 +58,41 @@ Understanding how protocols break is the first step to protecting your funds.
 
 <div class="diagram">
 <svg viewBox="0 0 800 280" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <!-- Logic Bugs -->
-  <rect x="20" y="20" width="240" height="240" rx="12" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
-  <text x="140" y="48" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">Logic Bugs</text>
-  <line x1="40" y1="65" x2="240" y2="65" stroke="#fecaca"/>
-  <text x="140" y="90" text-anchor="middle" font-size="11" fill="#64748b">Flaws in the smart contract code.</text>
-  
-  <rect x="40" y="110" width="200" height="40" rx="6" fill="#fee2e2"/>
-  <text x="140" y="128" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">Reentrancy</text>
-  <text x="140" y="142" text-anchor="middle" font-size="9" fill="#991b1b">Withdrawing funds repeatedly</text>
-  
-  <rect x="40" y="160" width="200" height="40" rx="6" fill="#fee2e2"/>
-  <text x="140" y="178" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">Access Control</text>
-  <text x="140" y="192" text-anchor="middle" font-size="9" fill="#991b1b">Hacker calling admin functions</text>
+ <!-- Logic Bugs -->
+ <rect x="20" y="20" width="240" height="240" rx="12" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+ <text x="140" y="48" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">Logic Bugs</text>
+ <line x1="40" y1="65" x2="240" y2="65" stroke="#fecaca"/>
+ <text x="140" y="90" text-anchor="middle" font-size="11" fill="#64748b">Flaws in the smart contract code.</text>
 
-  <!-- Oracle Attacks -->
-  <rect x="280" y="20" width="240" height="240" rx="12" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.5"/>
-  <text x="400" y="48" text-anchor="middle" font-size="14" font-weight="bold" fill="#b45309">Oracle Manipulation</text>
-  <line x1="300" y1="65" x2="500" y2="65" stroke="#fde68a"/>
-  <text x="400" y="90" text-anchor="middle" font-size="11" fill="#64748b">Tricking the protocol's price feed.</text>
+ <rect x="40" y="110" width="200" height="40" rx="6" fill="#fee2e2"/>
+ <text x="140" y="128" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">Reentrancy</text>
+ <text x="140" y="142" text-anchor="middle" font-size="9" fill="#991b1b">Withdrawing funds repeatedly</text>
 
-  <rect x="300" y="110" width="200" height="60" rx="6" fill="#fef3c7"/>
-  <text x="400" y="128" text-anchor="middle" font-size="11" font-weight="bold" fill="#b45309">Flash Loans</text>
-  <text x="400" y="145" text-anchor="middle" font-size="9" fill="#b45309">Borrow $50M, crash a token price,</text>
-  <text x="400" y="158" text-anchor="middle" font-size="9" fill="#b45309">trick a protocol, repay loan in 1 block.</text>
+ <rect x="40" y="160" width="200" height="40" rx="6" fill="#fee2e2"/>
+ <text x="140" y="178" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">Access Control</text>
+ <text x="140" y="192" text-anchor="middle" font-size="9" fill="#991b1b">Hacker calling admin functions</text>
 
-  <!-- Economic Exploits -->
-  <rect x="540" y="20" width="240" height="240" rx="12" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5"/>
-  <text x="660" y="48" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d4ed8">Economic Exploits</text>
-  <line x1="560" y1="65" x2="760" y2="65" stroke="#bfdbfe"/>
-  <text x="660" y="90" text-anchor="middle" font-size="11" fill="#64748b">Code works, but mechanics fail.</text>
+ <!-- Oracle Attacks -->
+ <rect x="280" y="20" width="240" height="240" rx="12" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.5"/>
+ <text x="400" y="48" text-anchor="middle" font-size="14" font-weight="bold" fill="#b45309">Oracle Manipulation</text>
+ <line x1="300" y1="65" x2="500" y2="65" stroke="#fde68a"/>
+ <text x="400" y="90" text-anchor="middle" font-size="11" fill="#64748b">Tricking the protocol's price feed.</text>
 
-  <rect x="560" y="110" width="200" height="60" rx="6" fill="#dbeafe"/>
-  <text x="660" y="128" text-anchor="middle" font-size="11" font-weight="bold" fill="#1d4ed8">Liquidity Crisis</text>
-  <text x="660" y="145" text-anchor="middle" font-size="9" fill="#1d4ed8">Everyone tries to withdraw,</text>
-  <text x="660" y="158" text-anchor="middle" font-size="9" fill="#1d4ed8">but the funds are locked up.</text>
+ <rect x="300" y="110" width="200" height="60" rx="6" fill="#fef3c7"/>
+ <text x="400" y="128" text-anchor="middle" font-size="11" font-weight="bold" fill="#b45309">Flash Loans</text>
+ <text x="400" y="145" text-anchor="middle" font-size="9" fill="#b45309">Borrow $50M, crash a token price,</text>
+ <text x="400" y="158" text-anchor="middle" font-size="9" fill="#b45309">trick a protocol, repay loan in 1 block.</text>
+
+ <!-- Economic Exploits -->
+ <rect x="540" y="20" width="240" height="240" rx="12" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5"/>
+ <text x="660" y="48" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d4ed8">Economic Exploits</text>
+ <line x1="560" y1="65" x2="760" y2="65" stroke="#bfdbfe"/>
+ <text x="660" y="90" text-anchor="middle" font-size="11" fill="#64748b">Code works, but mechanics fail.</text>
+
+ <rect x="560" y="110" width="200" height="60" rx="6" fill="#dbeafe"/>
+ <text x="660" y="128" text-anchor="middle" font-size="11" font-weight="bold" fill="#1d4ed8">Liquidity Crisis</text>
+ <text x="660" y="145" text-anchor="middle" font-size="9" fill="#1d4ed8">Everyone tries to withdraw,</text>
+ <text x="660" y="158" text-anchor="middle" font-size="9" fill="#1d4ed8">but the funds are locked up.</text>
 </svg>
 </div>
 

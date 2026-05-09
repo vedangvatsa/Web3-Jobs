@@ -62,12 +62,11 @@ This move represents one of the most ambitious attempts by a major artist to int
 
 Snoop Dogg’s ventures into NFTs align with broader market trends indicating a strong economic opportunity for artists. The NFT market generated billions in sales in 2021, showcasing the potential for artists to monetize their work outside traditional frameworks.
 
-| Year        | NFT Market Sales (in billions) | Year-on-Year Growth (%) |
+| Year | NFT Market Sales (in billions) | Year-on-Year Growth (%) |
 |-------------|-------------------------------|-------------------------|
-| 2020        | 0.25                          | -                       |
-| 2021        | 25                            | -                       |
-| 2022        | 8.4                           | -66.4                   |
-| 2023 (est.) | 10                            | 19.05                   |
+| 2020 | 0.25 | - |
+| 2021 | 25 | - |
+| 2022 | 8.4 | -66.4 |
+| 2023 (est.) | 10 | 19.05 |
 
 The data shows that while the NFT market faced a significant downturn in 2022, it is projected to rebound. Artists like Snoop Dogg are positioned to capitalize on this growth, particularly as they innovate in the space.
-

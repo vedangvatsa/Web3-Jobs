@@ -18,11 +18,11 @@ Creating a professional resume is manageable when you focus on a few essential p
 
 Selecting the appropriate resume format is vital for presenting your information effectively. The three primary formats include:
 
-| Format               | Description                                                                                                                                      | Best For                           |
+| Format | Description | Best For |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| **Reverse-Chronological** | Lists work experience in reverse order, starting with the most recent job. This format is familiar to recruiters and clearly shows career progression. | Those with a steady work history    |
-| **Functional**       | Emphasizes skills and abilities rather than work history, making it suitable for career changers or those with gaps in employment.                | Career changers or those with gaps |
-| **Combination**      | Merges the two formats, beginning with a skills summary and followed by work experience in reverse order.                                        | Individuals wanting to highlight both skills and experience |
+| **Reverse-Chronological** | Lists work experience in reverse order, starting with the most recent job. This format is familiar to recruiters and clearly shows career progression. | Those with a steady work history |
+| **Functional** | Emphasizes skills and abilities rather than work history, making it suitable for career changers or those with gaps in employment. | Career changers or those with gaps |
+| **Combination** | Merges the two formats, beginning with a skills summary and followed by work experience in reverse order. | Individuals wanting to highlight both skills and experience |
 
 The reverse-chronological format is generally the best choice. Recruiters are accustomed to this layout, which effectively showcases your career trajectory.
 
@@ -30,11 +30,11 @@ The reverse-chronological format is generally the best choice. Recruiters are ac
 
 Your resume should include a brief summary or objective statement at the top.
 
-- **Summary Statement**: A 2-3 sentence overview of your skills and experience, ideal for individuals with work experience.  
-  *Example*: "Highly motivated software engineer with significant experience in building and scaling web applications. Proficient in JavaScript, React, and Node.js."
+- **Summary Statement**: A 2-3 sentence overview of your skills and experience, ideal for individuals with work experience. 
+ *Example*: "Highly motivated software engineer with significant experience in building and scaling web applications. Proficient in JavaScript, React, and Node.js."
 
-- **Objective Statement**: A statement that outlines your career goals, suitable for recent graduates or those changing careers.  
-  *Example*: "Recent computer science graduate seeking a junior software [developer position](/entry-level-jobs-in-web3) to apply skills in Python and machine learning."
+- **Objective Statement**: A statement that outlines your career goals, suitable for recent graduates or those changing careers. 
+ *Example*: "Recent computer science graduate seeking a junior software [developer position](/entry-level-jobs-in-web3) to apply skills in Python and machine learning."
 
 ### 3. Focus on Achievements, Not Just Responsibilities
 
@@ -74,13 +74,13 @@ Your resume should feature the following essential sections:
 
 ### FAQs
 
-**Should I include a photo on my resume?**  
+**Should I include a photo on my resume?** 
 In most cases, particularly in the U.S. and U.K., avoid including a photo on your resume. It can inadvertently lead to bias.
 
-**How far back should my work experience go?**  
+**How far back should my work experience go?** 
 Typically, include the last 10-15 years of your work experience. If older experience is highly relevant, it may also be included.
 
-**Is it acceptable to have a gap in my employment history?**  
+**Is it acceptable to have a gap in my employment history?** 
 Yes, employment gaps are common. Be prepared to explain the gap in your cover letter or during an interview, but avoid excessive detail on your resume.
 
 ### Why This Matters
@@ -111,18 +111,18 @@ Track your progress. Are you achieving desired outcomes? Modify your strategy ba
 
 ### Real-World Examples
 
-| Name  | Role             | Achievement                                  | Timeframe       |
+| Name | Role | Achievement | Timeframe |
 |-------|------------------|----------------------------------------------|-----------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Improved application performance significantly | 3 months         |
-| Juan  | Product Manager in [DeFi](/what-is-defi) | Successfully launched a new feature, increasing user retention | 6 months         |
-| Maya  | Transitioning from Web2 to Web3 | Adapted to new technologies, resulting in increased productivity | 4 months         |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Improved application performance significantly | 3 months |
+| Juan | Product Manager in [DeFi](/what-is-defi) | Successfully launched a new feature, increasing user retention | 6 months |
+| Maya | Transitioning from Web2 to Web3 | Adapted to new technologies, resulting in increased productivity | 4 months |
 
 These examples illustrate the effectiveness of applying tailored strategies in various roles within the Web3 space.
 
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process**: Sustainable changes take time. Avoid expecting immediate results.
-   
+
 2. **Ignoring Feedback**: Colleagues and mentors can provide valuable insights. Be receptive to their input.
 
 3. **One-Size-Fits-All Approach**: What works for others may not work for you. Customize strategies to fit your context.
@@ -130,4 +130,3 @@ These examples illustrate the effectiveness of applying tailored strategies in v
 4. **Giving Up Too Soon**: Change can be uncomfortable. Persisting through initial discomfort often leads to improved outcomes.
 
 5. **Not Tracking Progress**: You cannot improve what you do not measure. Keep a record of your progress.
-

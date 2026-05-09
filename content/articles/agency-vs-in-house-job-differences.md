@@ -35,7 +35,7 @@ In-house life emphasizes depth and specialization.
 Agencies serve as accelerators for developing a wide range of skills.
 
 - **Breadth of Experience:** Exposure to diverse clients and problems builds adaptability and quick learning. You develop a broad toolkit that includes various marketing strategies, creative processes, and technical skills.
-- **Advanced Practices:** Agencies remain competitive by staying on top of the latest trends, tools, and best practices. This often places you at the forefront of industry developments.
+- **Advanced Practices:** Agencies remain competitive by staying on top of the latest trends, tools, and best practices. This often places you leading industry developments.
 - **Presentation and Client Management:** Strong skills in pitching ideas, managing client expectations, and communicating the value of your work become essential.
 
 **In-House:**
@@ -79,12 +79,11 @@ Career progression in-house can be less predictable.
 
 ### Comparative Overview of Agency vs. In-House
 
-| Aspect                      | Agency                                   | In-House                                |
+| Aspect | Agency | In-House |
 |-----------------------------|------------------------------------------|-----------------------------------------|
-| Client Focus                | Multiple clients, varied projects        | Single brand, focused product           |
-| Work Environment            | Fast-paced, dynamic                      | More stable, predictable                |
-| Skill Development           | Broad experience, adaptable skills       | Deep expertise, business acumen         |
-| Collaboration               | Cross-client teams, creative brainstorming| Cross-departmental teamwork              |
-| Career Progression          | Structured hierarchy, clear paths        | Varied paths, potential lateral moves   |
-| Work Ownership              | Project-based, client-driven             | Full ownership of long-term strategies   |
-
+| Client Focus | Multiple clients, varied projects | Single brand, focused product |
+| Work Environment | Fast-paced, dynamic | More stable, predictable |
+| Skill Development | Broad experience, adaptable skills | Deep expertise, business acumen |
+| Collaboration | Cross-client teams, creative brainstorming| Cross-departmental teamwork |
+| Career Progression | Structured hierarchy, clear paths | Varied paths, potential lateral moves |
+| Work Ownership | Project-based, client-driven | Full ownership of long-term strategies |

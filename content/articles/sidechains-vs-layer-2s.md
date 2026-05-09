@@ -36,12 +36,12 @@ A **Layer 2 (L2)** solution processes transactions off-chain and posts the data 
 
 ### Security Model Comparison
 
-| Feature             | Sidechain (e.g., Polygon PoS) | Layer 2 Rollup (e.g., Arbitrum) |
+| Feature | Sidechain (e.g., Polygon PoS) | Layer 2 Rollup (e.g., Arbitrum) |
 | ------------------- | ------------------------------ | ------------------------------- |
-| **Security**        | Independent (own validators)   | Inherited from Ethereum         |
-| **Trust Assumption**| Trust in sidechain validators   | Trust in Ethereum's security    |
-| **Data Handling**   | Data remains on the sidechain   | Transaction data posted to L1    |
-| **Primary Risk**    | Collusion of validators          | Bugs in [smart contracts](/what-are-smart-contracts) |
+| **Security** | Independent (own validators) | Inherited from Ethereum |
+| **Trust Assumption**| Trust in sidechain validators | Trust in Ethereum's security |
+| **Data Handling** | Data remains on the sidechain | Transaction data posted to L1 |
+| **Primary Risk** | Collusion of validators | Bugs in [smart contracts](/what-are-smart-contracts) |
 
 ### The Shift Towards Layer 2 Solutions
 
@@ -72,4 +72,3 @@ Avoid attempting to overhaul everything simultaneously. Focus on making one smal
 ### Step 5: Monitor and Adjust
 
 Regularly evaluate your progress. Are you achieving your goals? Use feedback to modify your strategy as needed. Embracing a mindset of continuous improvement is vital for long-term success.
-

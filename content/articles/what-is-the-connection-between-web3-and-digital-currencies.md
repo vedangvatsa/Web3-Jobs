@@ -19,8 +19,8 @@ Web3 envisions a user-owned internet built on **[blockchain technology](/what-is
 Decentralization stands as a core principle of Web3. Instead of being controlled by a single entity, Web3 applications operate on a distributed network of independent computers, known as nodes. The question arises: why would these node operators contribute their resources?
 
 - **The Connection:** The network's native digital currency acts as the incentive.
-  - In a Proof-of-Work system like [Bitcoin](/what-is-bitcoin), miners receive BTC as a reward for securing the network.
-  - In a Proof-of-Stake system such as [Ethereum](/what-is-ethereum), validators earn ETH for [staking](/how-to-become-a-web3-staking-specialist) their resources and confirming transactions.
+ - In a Proof-of-Work system like [Bitcoin](/what-is-bitcoin), miners receive BTC as a reward for securing the network.
+ - In a Proof-of-Stake system such as [Ethereum](/what-is-ethereum), validators earn ETH for [staking](/how-to-become-a-web3-staking-specialist) their resources and confirming transactions.
 - **The Importance:** Without a native digital currency to reward these participants, the network would lack an economic model to sustain its security and functionality in a decentralized manner.
 
 ### Digital Currencies as the "Gas" for Computation
@@ -45,4 +45,3 @@ Web3 applications are inherently global and permissionless. They require an equa
 - **The Importance:** This creates a simple, internet-native economic layer essential for global decentralized applications (dApps), spanning e-commerce to gaming.
 
 Web3 represents the vision of a decentralized internet, while digital currencies act as the mechanism that actualizes this vision. They are not merely an application of Web3; they are integral to its economic structure.
-

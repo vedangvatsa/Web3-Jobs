@@ -16,10 +16,10 @@ Solidity is a statically-typed, object-oriented programming language designed sp
 
 Traditional programming languages weren't designed for blockchain's unique constraints:
 
-- **Immutability**: Once deployed, smart contracts cannot be changed without upgrade patterns.  
-- **Gas Costs**: Every operation costs gas, requiring optimization.  
-- **Determinism**: Code must produce identical results across all nodes.  
-- **Value Transfer**: Language needs built-in support for cryptocurrency handling.  
+- **Immutability**: Once deployed, smart contracts cannot be changed without upgrade patterns. 
+- **Gas Costs**: Every operation costs gas, requiring optimization. 
+- **Determinism**: Code must produce identical results across all nodes. 
+- **Value Transfer**: Language needs built-in support for cryptocurrency handling. 
 - **Security**: Bugs can result in significant financial losses.
 
 Solidity addresses these blockchain-specific needs with features like:
@@ -37,14 +37,14 @@ Solidity addresses these blockchain-specific needs with features like:
 pragma solidity ^0.8.0;
 
 contract MyToken {
-    string public name = "MyToken";
-    mapping(address => uint256) public balances;
-    
-    function transfer(address to, uint256 amount) public {
-        require(balances[msg.sender] >= amount, "Insufficient balance");
-        balances[msg.sender] -= amount;
-        balances[to] += amount;
-    }
+ string public name = "MyToken";
+ mapping(address => uint256) public balances;
+
+ function transfer(address to, uint256 amount) public {
+ require(balances[msg.sender] >= amount, "Insufficient balance");
+ balances[msg.sender] -= amount;
+ balances[to] += amount;
+ }
 }
 ```
 
@@ -78,14 +78,14 @@ contract MyToken {
 - **Example**:
 ```solidity
 contract DataTypes {
-    address public owner;
-    uint256 public totalSupply;
-    mapping(address => uint256) public balances;
-    struct User {
-        string name;
-        uint256 age;
-        bool active;
-    }
+ address public owner;
+ uint256 public totalSupply;
+ mapping(address => uint256) public balances;
+ struct User {
+ string name;
+ uint256 age;
+ bool active;
+ }
 }
 ```
 
@@ -105,11 +105,11 @@ contract DataTypes {
 - **Example**:
 ```solidity
 function getBalance(address user) public view returns (uint256) {
-    return balances[user];
+ return balances[user];
 }
 
 function deposit() public payable {
-    balances[msg.sender] += msg.value;
+ balances[msg.sender] += msg.value;
 }
 ```
 
@@ -119,12 +119,12 @@ Modifiers add reusable checks to functions:
 
 ```solidity
 modifier onlyOwner() {
-    require(msg.sender == owner, "Not authorized");
-    _; // Function body executes here
+ require(msg.sender == owner, "Not authorized");
+ _; // Function body executes here
 }
 
 function withdraw() public onlyOwner {
-    // Only owner can execute
+ // Only owner can execute
 }
 ```
 
@@ -142,8 +142,8 @@ Events log information for off-chain applications to react to:
 event Transfer(address indexed from, address indexed to, uint256 value);
 
 function transfer(address to, uint256 amount) public {
-    // ... transfer logic
-    emit Transfer(msg.sender, to, amount);
+ // ... transfer logic
+ emit Transfer(msg.sender, to, amount);
 }
 ```
 
@@ -159,16 +159,16 @@ Solidity supports multiple inheritance:
 
 ```solidity
 contract ERC20 {
-    function transfer(address to, uint256 amount) public virtual {
-        // Base implementation
-    }
+ function transfer(address to, uint256 amount) public virtual {
+ // Base implementation
+ }
 }
 
 contract MyToken is ERC20 {
-    function transfer(address to, uint256 amount) public override {
-        // Custom implementation
-        super.transfer(to, amount);
-    }
+ function transfer(address to, uint256 amount) public override {
+ // Custom implementation
+ super.transfer(to, amount);
+ }
 }
 ```
 
@@ -183,14 +183,14 @@ Define contract structure without implementation:
 
 ```solidity
 interface IERC20 {
-    function transfer(address to, uint256 amount) external returns (bool);
-    function balanceOf(address account) external view returns (uint256);
+ function transfer(address to, uint256 amount) external returns (bool);
+ function balanceOf(address account) external view returns (uint256);
 }
 
 contract MyContract {
-    function interactWith(IERC20 token) public {
-        uint256 balance = token.balanceOf(address(this));
-    }
+ function interactWith(IERC20 token) public {
+ uint256 balance = token.balanceOf(address(this));
+ }
 }
 ```
 
@@ -202,19 +202,19 @@ Reusable code deployed once and used by many contracts:
 
 ```solidity
 library SafeMath {
-    function add(uint256 a, uint256 b) internal pure returns (uint256) {
-        uint256 c = a + b;
-        require(c >= a, "Overflow");
-        return c;
-    }
+ function add(uint256 a, uint256 b) internal pure returns (uint256) {
+ uint256 c = a + b;
+ require(c >= a, "Overflow");
+ return c;
+ }
 }
 
 contract MyContract {
-    using SafeMath for uint256;
-    
-    function calculate(uint256 a, uint256 b) public pure returns (uint256) {
-        return a.add(b);
-    }
+ using SafeMath for uint256;
+
+ function calculate(uint256 a, uint256 b) public pure returns (uint256) {
+ return a.add(b);
+ }
 }
 ```
 
@@ -226,8 +226,8 @@ OpenZeppelin libraries provide implementations for:
 
 ## Error Handling
 
-- **require**: Validates inputs and conditions, refunds remaining gas.  
-- **revert**: Similar to require but can include custom errors.  
+- **require**: Validates inputs and conditions, refunds remaining gas. 
+- **revert**: Similar to require but can include custom errors. 
 - **assert**: Checks for internal errors, consumes all gas.
 
 ```solidity
@@ -238,9 +238,9 @@ require(balance >= amount, "Insufficient balance");
 error InsufficientBalance(uint256 available, uint256 required);
 
 function transfer(uint256 amount) public {
-    if (balance < amount) {
-        revert InsufficientBalance(balance, amount);
-    }
+ if (balance < amount) {
+ revert InsufficientBalance(balance, amount);
+ }
 }
 ```
 
@@ -254,17 +254,17 @@ Solidity developers must optimize for gas costs:
 ```solidity
 // Expensive: Multiple storage reads
 function badLoop() public {
-    for (uint i = 0; i < users.length; i++) {
-        // Each users.length is a storage read
-    }
+ for (uint i = 0; i < users.length; i++) {
+ // Each users.length is a storage read
+ }
 }
 
 // Optimized: Cache in memory
 function goodLoop() public {
-    uint256 length = users.length; // One storage read
-    for (uint i = 0; i < length; i++) {
-        // Uses memory variable
-    }
+ uint256 length = users.length; // One storage read
+ for (uint i = 0; i < length; i++) {
+ // Uses memory variable
+ }
 }
 ```
 
@@ -281,8 +281,8 @@ uint128 c;
 uint256 b;
 ```
 
-- **Short-Circuit Evaluation**: Order conditions to fail fast.  
-- **Use events not storage**: Where possible, emit events instead of storing data.  
+- **Short-Circuit Evaluation**: Order conditions to fail fast. 
+- **Use events not storage**: Where possible, emit events instead of storing data. 
 - **External vs Public**: External functions are cheaper for external calls.
 
 ## Security Considerations
@@ -292,33 +292,33 @@ uint256 b;
 ```solidity
 // Vulnerable
 function withdraw() public {
-    uint256 amount = balances[msg.sender];
-    (bool success,) = msg.sender.call{value: amount}("");
-    require(success);
-    balances[msg.sender] = 0; // Too late!
+ uint256 amount = balances[msg.sender];
+ (bool success,) = msg.sender.call{value: amount}("");
+ require(success);
+ balances[msg.sender] = 0; // Too late!
 }
 
 // Secure: Checks-Effects-Interactions pattern
 function withdraw() public {
-    uint256 amount = balances[msg.sender];
-    balances[msg.sender] = 0; // Update state first
-    (bool success,) = msg.sender.call{value: amount}("");
-    require(success);
+ uint256 amount = balances[msg.sender];
+ balances[msg.sender] = 0; // Update state first
+ (bool success,) = msg.sender.call{value: amount}("");
+ require(success);
 }
 ```
 
-- **Integer Overflow**: Solidity 0.8+ has built-in overflow protection.  
-- **Access Control**: Always validate msg.sender for privileged functions.  
-- **Oracle Manipulation**: Validate external data sources.  
+- **Integer Overflow**: Solidity 0.8+ has built-in overflow protection. 
+- **Access Control**: Always validate msg.sender for privileged functions. 
+- **Oracle Manipulation**: Validate external data sources. 
 - **Front-Running**: Be aware of MEV and transaction ordering.
 
 The DAO hack and Parity wallet freeze demonstrate the critical importance of secure Solidity code.
 
 ## Development Tools
 
-- **Hardhat**: Popular development environment for testing and deployment.  
-- **Foundry**: Rust-based toolkit for fast, Solidity-native testing.  
-- **Remix**: Browser-based IDE for learning and quick prototyping.  
+- **Hardhat**: Popular development environment for testing and deployment. 
+- **Foundry**: Rust-based toolkit for fast, Solidity-native testing. 
+- **Remix**: Browser-based IDE for learning and quick prototyping. 
 - **Truffle**: Older framework still widely used.
 
 - **Testing**:
@@ -326,12 +326,12 @@ The DAO hack and Parity wallet freeze demonstrate the critical importance of sec
 const { expect } = require("chai");
 
 describe("Token", function () {
-  it("Should transfer tokens", async function () {
-    const Token = await ethers.getContractFactory("MyToken");
-    const token = await Token.deploy();
-    await token.transfer(addr1.address, 50);
-    expect(await token.balanceOf(addr1.address)).to.equal(50);
-  });
+ it("Should transfer tokens", async function () {
+ const Token = await ethers.getContractFactory("MyToken");
+ const token = await Token.deploy();
+ await token.transfer(addr1.address, 50);
+ expect(await token.balanceOf(addr1.address)).to.equal(50);
+ });
 });
 ```
 
@@ -364,9 +364,9 @@ One codebase can deploy across multiple chains, though gas costs and available o
 
 ## Alternatives to Solidity
 
-- **Vyper**: Python-like syntax, prioritizes security and auditability.  
-- **Rust**: Used for Solana and NEAR smart contracts.  
-- **Move**: Used in Aptos and Sui, designed for asset-oriented programming.  
+- **Vyper**: Python-like syntax, prioritizes security and auditability. 
+- **Rust**: Used for Solana and NEAR smart contracts. 
+- **Move**: Used in Aptos and Sui, designed for asset-oriented programming. 
 - **Cairo**: StarkNet's language for ZK proofs.
 
 Solidity remains dominant with the largest developer community and most tooling.

@@ -72,10 +72,9 @@ As persistent virtual environments and economies become commonplace, specialized
 
 The Web3 job market operates under different dynamics compared to the traditional Web2 environment. Key factors include:
 
-| Factor                   | Web2                                 | Web3                                   |
+| Factor | Web2 | Web3 |
 |--------------------------|--------------------------------------|----------------------------------------|
-| **Compensation**         | Standard salaries                     | Generally higher average compensation, with bonuses and equity included |
-| **Work Culture**         | Office-based or hybrid                | Primarily remote, offering unique flexibility |
-| **Career Progression**   | Slower, often linear                  | Rapid advancement due to scaling and talent shortages |
-| **Equity Opportunities**  | Limited stock options                 | Token and equity packages that provide significant wealth potential |
-
+| **Compensation** | Standard salaries | Generally higher average compensation, with bonuses and equity included |
+| **Work Culture** | Office-based or hybrid | Primarily remote, offering unique flexibility |
+| **Career Progression** | Slower, often linear | Rapid advancement due to scaling and talent shortages |
+| **Equity Opportunities** | Limited stock options | Token and equity packages that provide significant wealth potential |

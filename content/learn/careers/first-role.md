@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "beginner"
 prerequisites: ["freelancing"]
 quiz:
-  - question: "What is the most effective way to find Web3 jobs?"
-    options:
-      - "Searching on LinkedIn only"
-      - "Using specialized Web3 job boards and networking in protocol communities"
-      - "Cold emailing every crypto company"
-      - "Waiting for recruiters to contact you"
-    correct: 1
-    explanation: "Web3-specific job boards (like this one) and direct networking in Discord communities are more effective than general platforms. Many roles are filled through community connections before they are publicly posted."
-  - question: "When should you apply even if you do not meet every requirement?"
-    options:
-      - "Never"
-      - "When you meet 60-70% of the requirements — job descriptions are wishlists, not checklists"
-      - "Only if you know someone at the company"
-      - "Only for internships"
-    correct: 1
-    explanation: "Job descriptions describe the ideal candidate, not the minimum. If you meet 60-70% of the requirements and have genuine interest in the protocol, apply. Many successful hires did not meet every listed requirement."
-  - question: "What is the fastest way to stand out in a Web3 application?"
-    options:
-      - "A long cover letter about your passion for blockchain"
-      - "Mentioning that you have used the company's product and sharing specific feedback"
-      - "Listing every technology you know"
-      - "Attaching your degree certificate"
-    correct: 1
-    explanation: "Product knowledge is the strongest signal. If you have used the protocol and can give specific feedback, you are already ahead of 90% of applicants who have not tried the product."
-  - question: "What is 'building in public' and why does it help with job hunting?"
-    options:
-      - "Making your code repository private"
-      - "Sharing your learning journey, projects, and opinions publicly on Twitter"
-      - "Going to in-person crypto conferences"
-      - "Publishing your salary expectations"
-    correct: 1
-    explanation: "Building in public means sharing your work as you do it — tweeting about what you are learning, posting project updates, writing about problems you solved. Hiring managers notice people who are visibly active in the space."
-  - question: "What should you do the week before starting a new Web3 job?"
-    options:
-      - "Sell all your crypto"
-      - "Set up a hardware wallet, join the company's Discord, and read the docs"
-      - "Post about it on social media before signing"
-      - "Nothing special"
-    correct: 1
-    explanation: "Before starting, set up proper security (hardware wallet), join the community channels, read the protocol documentation, and try the product. Show up prepared on day one."
+ - question: "What is the most effective way to find Web3 jobs?"
+ options:
+ - "Searching on LinkedIn only"
+ - "Using specialized Web3 job boards and networking in protocol communities"
+ - "Cold emailing every crypto company"
+ - "Waiting for recruiters to contact you"
+ correct: 1
+ explanation: "Web3-specific job boards (like this one) and direct networking in Discord communities are more effective than general platforms. Many roles are filled through community connections before they are publicly posted."
+ - question: "When should you apply even if you do not meet every requirement?"
+ options:
+ - "Never"
+ - "When you meet 60-70% of the requirements — job descriptions are wishlists, not checklists"
+ - "Only if you know someone at the company"
+ - "Only for internships"
+ correct: 1
+ explanation: "Job descriptions describe the ideal candidate, not the minimum. If you meet 60-70% of the requirements and have genuine interest in the protocol, apply. Many successful hires did not meet every listed requirement."
+ - question: "What is the fastest way to stand out in a Web3 application?"
+ options:
+ - "A long cover letter about your passion for blockchain"
+ - "Mentioning that you have used the company's product and sharing specific feedback"
+ - "Listing every technology you know"
+ - "Attaching your degree certificate"
+ correct: 1
+ explanation: "Product knowledge is the strongest signal. If you have used the protocol and can give specific feedback, you are already ahead of 90% of applicants who have not tried the product."
+ - question: "What is 'building in public' and why does it help with job hunting?"
+ options:
+ - "Making your code repository private"
+ - "Sharing your learning journey, projects, and opinions publicly on Twitter"
+ - "Going to in-person crypto conferences"
+ - "Publishing your salary expectations"
+ correct: 1
+ explanation: "Building in public means sharing your work as you do it — tweeting about what you are learning, posting project updates, writing about problems you solved. Hiring managers notice people who are visibly active in the space."
+ - question: "What should you do the week before starting a new Web3 job?"
+ options:
+ - "Sell all your crypto"
+ - "Set up a hardware wallet, join the company's Discord, and read the docs"
+ - "Post about it on social media before signing"
+ - "Nothing special"
+ correct: 1
+ explanation: "Before starting, set up proper security (hardware wallet), join the community channels, read the protocol documentation, and try the product. Show up prepared on day one."
 ---
 
 ## The 30-day action plan

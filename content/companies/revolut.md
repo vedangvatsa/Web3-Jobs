@@ -9,4 +9,4 @@ Revolut is a financial technology company that provides a range of banking servi
 
 The company has expanded its services to include business accounts and various financial products aimed at both individuals and businesses. Revolut is known for its user-friendly mobile application, which facilitates easy management of finances. 
 
-Revolut is currently hiring for various positions, including Strategy & Operations Manager and Financial Crime Compliance Manager. These roles reflect the company's focus on expanding its operations and ensuring compliance in a rapidly evolving financial landscape.
+Revolut is currently hiring for various positions, including Strategy & Operations Manager and Financial Crime Compliance Manager. These roles reflect the company's focus on expanding its operations and ensuring compliance in a fast-moving financial landscape.

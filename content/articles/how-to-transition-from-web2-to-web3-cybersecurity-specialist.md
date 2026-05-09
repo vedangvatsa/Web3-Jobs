@@ -35,16 +35,15 @@ Several roles cater to different aspects of cybersecurity within the Web3 space:
 ### Roadmap for Transition
 
 1. **Learn the Fundamentals:** Gain a solid understanding of the technology. Focus on how blockchains function, the Ethereum Virtual Machine (EVM), and the transaction lifecycle.
-  
+
 2. **Master Smart Contract Security:** This area presents a significant knowledge gap.
-   - Engage with the Ethernaut and Damn Vulnerable [DeFi](/what-is-defi) Capture the Flag challenges.
-   - Review audit reports from leading firms to learn vulnerability detection techniques.
+ - Engage with the Ethernaut and Damn Vulnerable [DeFi](/what-is-defi) Capture the Flag challenges.
+ - Review audit reports from leading firms to learn vulnerability detection techniques.
 
 3. **Build a [Portfolio](/building-web3-portfolio):**
-   - Participate in competitive auditing platforms to showcase your skills by finding valid bugs.
-   - Conduct a review of an unaudited project on GitHub, document your findings, and share them through a blog post.
+ - Participate in competitive auditing platforms to showcase your skills by finding valid bugs.
+ - Conduct a review of an unaudited project on GitHub, document your findings, and share them through a blog post.
 
 4. **Frame Your Existing Experience:** Highlight your Web2 experience in a Web3 context. For instance, "Experience in threat modeling for web applications" should become "Experience in threat modeling for dApps and smart contract systems."
 
 The transition from Web2 to Web3 cybersecurity may be challenging, but it presents a rewarding opportunity to apply your adversarial mindset to new problems and secure the future of the internet.
-

@@ -20,16 +20,16 @@ This guide outlines key strategies for finding and succeeding in a remote Web3 r
 
 The remote-first aspect of Web3 is not coincidental; it is deeply integrated into its framework.
 
-| Factor                     | Description                                                                        |
+| Factor | Description |
 |---------------------------|------------------------------------------------------------------------------------|
-| **Global Talent Pool**     | Projects can source talent worldwide. A team in Lisbon might include engineers from Seoul and community managers from Buenos Aires. Limiting recruitment to one location excludes top talent. |
+| **Global Talent Pool** | Projects can source talent worldwide. A team in Lisbon might include engineers from Seoul and community managers from Buenos Aires. Limiting recruitment to one location excludes top talent. |
 | **Philosophical Alignment**| Decentralization removes single points of failure. A globally distributed team enhances resilience compared to a centralized one. |
-| **24/7 Market**           | The crypto market operates around the clock. A global team ensures constant availability for community engagement and issue resolution. |
+| **24/7 Market** | The crypto market operates around the clock. A global team ensures constant availability for community engagement and issue resolution. |
 | **Internet-Native Culture**| Web3 emerged from online communities. Tools and practices for remote collaboration are intrinsic rather than adapted. |
 
 ### Essential Skills for Remote Web3 Success
 
-Thriving in a remote, distributed team requires specific soft skills. While technical competence is assumed, the following skills can set you apart.
+growing in a remote, distributed team requires specific soft skills. While technical competence is assumed, the following skills can set you apart.
 
 **1. Mastery of Asynchronous Communication**
 
@@ -70,4 +70,3 @@ The [interview](/how-to-prepare-for-job-interview) process for remote Web3 jobs 
 - **Culture Fit Call:** This informal discussion with a founder or team lead gauges your passion for the project and alignment with the company’s values.
 
 Remote work in Web3 presents unmatched freedom and flexibility. It allows you to tackle intriguing challenges from any location. However, this freedom entails substantial responsibility, demanding discipline, effective communication, and a proactive mindset. By mastering these competencies and embracing the asynchronous culture, you can cultivate a successful career in this decentralized work environment.
-

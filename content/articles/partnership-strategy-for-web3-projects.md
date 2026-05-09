@@ -33,9 +33,9 @@ Before forging partnerships, you need a thorough understanding of your environme
 
 1. **Define Your Vertical:** Identify your primary focus area. Are you involved in [DeFi](/what-is-defi), gaming, an [NFT](/what-are-nfts) marketplace, or providing infrastructure?
 2. **Map Your Ecosystem:** Create a detailed map of all projects within your vertical. This should include:
-   - **Direct Competitors:** Identify those building similar products.
-   - **Adjacent Protocols:** Find projects that complement your offerings. For instance, if you're a [DEX](/what-is-a-decentralized-exchange-dex), look for lending protocols, stablecoins, and yield aggregators.
-   - **Infrastructure Layers:** List essential L1s, L2s, oracles, and [wallet](/how-to-choose-a-crypto-wallet) providers relevant to your vertical.
+ - **Direct Competitors:** Identify those building similar products.
+ - **Adjacent Protocols:** Find projects that complement your offerings. For instance, if you're a [DEX](/what-is-a-decentralized-exchange-dex), look for lending protocols, stablecoins, and yield aggregators.
+ - **Infrastructure Layers:** List essential L1s, L2s, oracles, and [wallet](/how-to-choose-a-crypto-wallet) providers relevant to your vertical.
 3. **Develop a Partnership Thesis:** Based on your ecosystem map, create a clear thesis. What types of integrations will deliver the most value for your users and your protocol? For example, a new DEX might identify that integrating with leading yield aggregators is important for sustainable liquidity.
 
 **Practical Insight:** Use tools like DeFiLlama, on-chain analytics, and industry reports to build a data-driven map. Your thesis should rely on concrete data rather than intuition.
@@ -74,4 +74,3 @@ Finalizing a deal marks the beginning of your work.
 A strategic and disciplined approach to partnerships is vital for growth in Web3. By shifting from transactional selling to building collaborative relationships, you can create a strong network of allies that fortifies your project and supports its long-term success in the decentralized economy.
 
 ## Understanding the Web3 Opportunity
-

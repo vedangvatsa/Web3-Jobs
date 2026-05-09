@@ -19,7 +19,7 @@ The **[Web3](/what-is-web3) Social Graph** represents a significant shift in thi
 The current social media ecosystem, dominated by a handful of massive platforms, reveals several fundamental flaws inherent in its centralized nature.
 
 1. **Centralized Control and Censorship:** A single company owns the social graph and dictates the rules. They can change APIs, modify content moderation policies, or de-platform users and applications without notice.
-   
+
 2. **Data Silos and Lack of Portability:** Users cannot transport their social graphs from one platform to another. For instance, moving Twitter followers to a new application is impossible. This creates substantial barriers for new competitors, stifling innovation.
 
 3. **Exploitative Monetization:** Users do not own their data, allowing platforms to monetize it by selling user attention to advertisers. Users essentially become the product.
@@ -30,10 +30,10 @@ The current social media ecosystem, dominated by a handful of massive platforms,
 
 Web3 social graph protocols fundamentally transform the relationship between users and platforms by decoupling the data layer from the application layer.
 
-| Layer             | Description                                                                                                                                          |
+| Layer | Description |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Protocol Layer**| This layer consists of an open, decentralized network where core social data resides. Users' identities, content, and connections are stored on a public [blockchain](/what-is-a-blockchain) or decentralized nodes. Each user controls their data via cryptographic keys. |
-| **Application Layer**| Users can build frontend applications, or "clients," on top of this shared social graph. This enables a vibrant ecosystem of diverse applications that access the same user-owned data. |
+| **Application Layer**| Users can build frontend applications, or "clients," on top of this shared social graph. This enables a active ecosystem of diverse applications that access the same user-owned data. |
 
 Users can create profiles on one client, build followings, and switch to another client, taking all their data, content, and followers with them. This shift enables users, placing control in their hands.
 
@@ -44,7 +44,7 @@ Two key projects are leading the development of the open social graph, each empl
 #### 1. Farcaster: The "Sufficiently Decentralized" Approach
 
 - **Architecture:** Farcaster adopts a pragmatic hybrid model. Users control their identities as [NFT](/what-are-nfts) on the [Ethereum](/what-is-ethereum) Layer 2 network, Optimism. This on-chain identity serves as a permanent, self-sovereign account. However, high-frequency social data, such as posts ("casts"), likes, and follows, is stored off-chain on a peer-to-peer network known as "Hubs."
-  
+
 - **The Trade-off:** This design emphasizes user experience. Storing every social action on a blockchain can be slow and costly. By managing social data off-chain, Farcaster maintains the speed and responsiveness of traditional Web2 applications while anchoring core identity and ownership on-chain.
 
 - **Ecosystem:** The hybrid architecture has cultivated a dynamic ecosystem of clients built on the Farcaster protocol. For example, **Warpcast** is a popular "Twitter-like" client, but numerous others exist, each providing a unique experience, from Reddit-style interfaces to those focused on long-form content.
@@ -52,9 +52,9 @@ Two key projects are leading the development of the open social graph, each empl
 #### 2. Lens Protocol: The "Fully Composable" Approach
 
 - **Architecture:** Lens, developed by the team behind Aave, adopts a fully on-chain model on the Polygon blockchain. In Lens, every element is an NFT:
-    - Your profile is an NFT.
-    - Following someone generates a "Follower NFT."
-    - Publishing content allows other users to "collect" it, minting it as an NFT.
+ - Your profile is an NFT.
+ - Following someone generates a "Follower NFT."
+ - Publishing content allows other users to "collect" it, minting it as an NFT.
 
 - **The Trade-off:** This approach enhances composability, allowing developers to create new applications that use social data in creative ways.
 
@@ -65,10 +65,9 @@ Two key projects are leading the development of the open social graph, each empl
 The emergence of a decentralized social graph is a critical development in the Web3 space. This shift goes beyond merely replicating existing platforms on a blockchain; it envisions a future where:
 
 - **Users Own Their Digital Identity:** Your online persona, audience, and content remain under your control. You cannot be de-platformed, and you can migrate your identity across platforms easily.
-  
+
 - **Innovation Thrives:** Establishing a shared, open data layer will significantly lower barriers for developers to create new social applications. This environment encourages competition, experimentation, and enhanced user experiences.
 
 - **New Monetization Models Emerge:** Creators can move beyond ad-based revenue models of Web2. They can monetize their work directly through crypto-native tools, such as NFTs, social tokens, and token-gated content, nurturing a more equitable relationship with their audience.
 
 The path to a fully decentralized social media ecosystem is still unfolding. Current user experiences may be uneven, and the challenges of content moderation in a decentralized context are considerable. Nevertheless, developing an open social graph marks a vital step toward fulfilling the internet's original promise: a permissionless space for connection, creativity, and user agency.
-

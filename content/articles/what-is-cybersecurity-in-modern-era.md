@@ -30,12 +30,12 @@ The foundational principles of information security are encapsulated in the "CIA
 
 Recognizing common attack vectors is essential for establishing a strong defense strategy.
 
-| Type of Threat           | Description                                                                                       | Potential Impact                                                                 |
+| Type of Threat | Description | Potential Impact |
 |-------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **Malware**             | Malicious software like viruses, worms, trojans, and spyware designed to disrupt or steal data. | Can lead to data breaches, operational disruptions, or unauthorized access.      |
-| **Phishing**            | Social engineering tactics to deceive users into revealing sensitive information.                | Can result in identity theft and financial loss.                                 |
-| **Ransomware**          | Malware that encrypts files and demands ransom, often in cryptocurrency, for decryption.         | Can cripple businesses, schools, and hospitals, leading to significant losses.   |
-| **Denial of Service (DoS)** | Attacks aimed at making systems or resources unavailable to users.                              | Can cause significant downtime and loss of services.                             |
+| **Malware** | Malicious software like viruses, worms, trojans, and spyware designed to disrupt or steal data. | Can lead to data breaches, operational disruptions, or unauthorized access. |
+| **Phishing** | Social engineering tactics to deceive users into revealing sensitive information. | Can result in identity theft and financial loss. |
+| **Ransomware** | Malware that encrypts files and demands ransom, often in cryptocurrency, for decryption. | Can cripple businesses, schools, and hospitals, leading to significant losses. |
+| **Denial of Service (DoS)** | Attacks aimed at making systems or resources unavailable to users. | Can cause significant downtime and loss of services. |
 
 ### Defense in Depth
 
@@ -59,13 +59,13 @@ In our current environment, cybersecurity is an ongoing process of adaptation. A
 
 ### Frequently Asked Questions (FAQs)
 
-**1. What is the single most important action to protect myself online?**  
-Using a password manager to generate strong, unique passwords for each of your online accounts is essential. Additionally, enabling two-factor authentication (2FA) wherever available significantly enhances security. This combination makes it considerably more challenging for attackers to access your accounts, even if one password is compromised.
+**1. What is the single most important action to protect myself online?** 
+Using a password manager to generate strong, unique passwords for each of your online accounts is essential. enabling two-factor authentication (2FA) wherever available significantly enhances security. This combination makes it considerably more challenging for attackers to access your accounts, even if one password is compromised.
 
-**2. Is public Wi-Fi safe for use?**  
+**2. Is public Wi-Fi safe for use?** 
 Public Wi-Fi networks, often found in coffee shops or airports, typically lack security. An attacker on the same network could intercept your traffic. If you must use public Wi-Fi, using a Virtual Private Network (VPN) is highly advisable. A VPN encrypts your internet traffic, creating a secure tunnel between your device and the internet.
 
-**3. How can I determine if I've been a victim of a data breach?**  
+**3. How can I determine if I've been a victim of a data breach?** 
 The website "Have I Been Pwned?" (haveibeenpwned.com) is a reliable tool for checking if your email address has appeared in known data breaches. If it has, promptly change the password for that account and any other accounts using the same password.
 
 ### Why This Matters
@@ -93,4 +93,3 @@ Avoid overwhelming yourself by trying to change everything at once. Start with s
 #### Step 5: Measure and Adjust
 
 Monitor your progress closely. Are you achieving the desired outcomes? Adjust your methods based on feedback and results. This mindset of continuous improvement is essential.
-

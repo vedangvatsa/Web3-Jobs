@@ -23,10 +23,10 @@ The term has its origins in traditional con artistry, where a "shill" would act 
 - **Objective of Shilling:** The primary motive for a shill is personal profit. They often purchase a project’s tokens at a low price and create excitement around the project to entice new investors. This influx of buyers drives up the price, allowing the shill to sell their holdings at a profit, a practice commonly referred to as a "pump and dump."
 
 - **Common Tactics Used:** Shilling tactics are prevalent on social media platforms, especially Twitter and Telegram. Common strategies include:
-    - Posting overly positive messages that lack detailed analysis (e.g., "Massive news for $XYZ coin coming soon! 🚀 #WAGMI").
-    - Flooding comment sections with promotional content for their chosen project.
-    - Making unrealistic price forecasts.
-    - Influencers with large followings may receive compensation to promote specific tokens without disclosing their sponsorship.
+ - Posting overly positive messages that lack detailed analysis (e.g., "Massive news for $XYZ coin coming soon! 🚀 #WAGMI").
+ - Flooding comment sections with promotional content for their chosen project.
+ - Making unrealistic price forecasts.
+ - Influencers with large followings may receive compensation to promote specific tokens without disclosing their sponsorship.
 
 **Identifying Shilling**
 
@@ -42,4 +42,3 @@ Recognizing shilling is vital for engaging in responsible [Doing Your Own Resear
 Not all promotional activity constitutes shilling. Genuine enthusiasm for a project can coexist with responsible discussion about its potential risks and benefits. For example, a well-researched analysis that highlights both strengths and weaknesses is not shilling. In contrast, vague promises of "100x gains" alongside hype-filled tweets likely indicate shilling.
 
 In the decentralized world of [Web3](/what-is-web3), skepticism is necessary. Always approach promotions critically and conduct thorough research before committing to any investment.
-

@@ -34,4 +34,3 @@ This process of guessing a number is the essence of "work" in Proof-of-Work. It 
 2. **Network Security:** The computational expense associated with finding a valid nonce for a single block makes it nearly impossible for an attacker to alter a previous block. To successfully execute such an attack, an individual would need to re-mine that block, along with all subsequent blocks, faster than the rest of the network. This would demand an extraordinary amount of computational power.
 
 The nonce serves as a simple yet ingenious mechanism. It is the variable that enables the brute-force competition of mining, thereby forming a cornerstone of the security model for Proof-of-Work blockchains.
-

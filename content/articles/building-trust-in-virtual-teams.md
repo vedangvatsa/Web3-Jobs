@@ -28,7 +28,7 @@ Craft a tailored strategy that aligns with your team's unique culture and dynami
 
 - **Regular Check-Ins**: Schedule weekly meetings to discuss progress and challenges.
 - **Transparent Communication**: Encourage openness about personal and professional updates.
-  
+
 For example, a project manager at a [blockchain](/what-is-a-blockchain) startup might implement bi-weekly updates to track project milestones and address concerns.
 
 ### Step 4: Implement Changes Gradually
@@ -41,11 +41,10 @@ Establish metrics to gauge the success of your trust-building strategies. Collec
 
 #### Sample Metrics Table
 
-| Metric                  | Baseline | Target   | Current Status | Comments                               |
+| Metric | Baseline | Target | Current Status | Comments |
 |-------------------------|----------|----------|----------------|----------------------------------------|
-| Team Engagement Score   | 65%      | 85%      | 70%            | Implemented weekly check-ins.         |
-| Project Completion Rate  | 75%      | 90%      | 80%            | Improved clarity on project goals.    |
-| Frequency of Feedback Sessions | Monthly  | Bi-Weekly | Monthly        | New feedback tool introduced.          |
+| Team Engagement Score | 65% | 85% | 70% | Implemented weekly check-ins. |
+| Project Completion Rate | 75% | 90% | 80% | Improved clarity on project goals. |
+| Frequency of Feedback Sessions | Monthly | Bi-Weekly | Monthly | New feedback tool introduced. |
 
 ## Real-World Applications
-

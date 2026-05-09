@@ -96,4 +96,3 @@ A strong sense of ownership and adaptability is important in Web3.
 
 - **Ownership Mentality:** In a decentralized environment, contributors must take initiative and act like founders, identifying problems and proposing solutions proactively.
 - **Adaptability:** The fast-paced nature of Web3 demands a willingness to learn and adapt continually. What is relevant today may change within a year.
-

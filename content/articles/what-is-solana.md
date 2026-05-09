@@ -19,7 +19,7 @@ Speed is Solana's defining feature. Ethereum often emphasizes decentralization a
 Solana achieves its impressive speed through several unique architectural features, with **Proof-of-History (PoH)** being the most notable.
 
 - **Proof-of-History (PoH):** This feature acts as a cryptographic clock that enables the network to establish the order of events without waiting for consensus from other nodes. PoH generates a verifiable, timestamped record of all transactions, which allows validators to process these transactions in parallel. This enhances the network's capacity.
-  
+
 - **Tower BFT:** Solana employs a variant of Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) that is optimized by Proof-of-History. This consensus mechanism enhances the performance and security of the network.
 
 - **Parallel Transaction Processing:** Thanks to PoH, Solana can handle multiple transactions simultaneously, provided they do not alter the same state. This contrasts with the sequential processing typical of most other blockchains.
@@ -41,4 +41,3 @@ Solana's performance-oriented focus introduces specific challenges and trade-off
 - **Uptime:** The network has experienced several outages due to bugs or stress during peak usage. While reliability has improved, these incidents raise concerns regarding the network's stability for some users.
 
 Solana takes a distinctive approach to addressing the blockchain trilemma, focusing on scalability to facilitate the development of high-performance dApps. Despite its challenges, Solana's dynamic developer ecosystem and commitment to speed solidify its position as a key player in the Web3 field.
-

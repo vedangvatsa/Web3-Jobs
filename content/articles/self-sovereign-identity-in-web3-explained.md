@@ -19,7 +19,7 @@ In the current digital environment, individuals do not truly own their identitie
 To grasp the concept of SSI, one must examine the evolution of digital identity systems.
 
 1. **Centralized Identity:** In this traditional model, each service maintains its own database of usernames and passwords. This method is not only insecure but also limits user control.
-   
+
 2. **Federated Identity:** This model, exemplified by "Sign in with Google" or "Sign in with Facebook," allows users to authenticate with various services through a single identity provider. While this adds convenience, it centralizes power and control, leaving users without true ownership of their data.
 
 3. **Self-Sovereign Identity:** Under this model, users retain control of their identities. Their digital identity is not linked to a specific company or platform. Users store their credentials in a private digital [wallet](/how-to-choose-a-crypto-wallet) and can share them with whomever they choose, without the need for a central authority.
@@ -44,7 +44,7 @@ SSI is built upon several key principles defined by technologist Christopher All
 SSI is supported by a variety of emerging Web3 technologies:
 
 - **Blockchains:** Serve as decentralized and censorship-resistant foundations for identity systems.
-  
+
 - **[Decentralized Identifiers (DIDs)](/what-is-a-decentralized-identifier):** These identifiers are unique to each user and owned by them, acting as permanent digital addresses.
 
 - **[Verifiable Credentials (VCs)](/understanding-verifiable-credentials-in-blockchain):** These are tamper-proof digital attestations issued to a user’s DID by trusted entities, such as universities offering digital diplomas.
@@ -60,13 +60,12 @@ Consider the process of obtaining a loan from a **[DeFi](/what-is-defi)** protoc
 - **Web2 Method:** Users must upload sensitive financial documents directly to the protocol, exposing personal information.
 
 - **SSI Method:**
-    1. A regulated financial institution issues a **Verifiable Credential** to the user's DID, stating, "The holder of this DID is an accredited investor."
-    2. The user securely stores this VC in their crypto wallet.
-    3. They connect their wallet to the [DeFi](/what-is-defi) protocol.
-    4. The user presents the VC to the protocol’s [smart contract](/what-are-smart-contracts). The smart contract verifies the credential's validity without needing to reveal any personal financial data.
-    5. The user gains access to the loan without disclosing their name, net worth, or any other private financial information.
+ 1. A regulated financial institution issues a **Verifiable Credential** to the user's DID, stating, "The holder of this DID is an accredited investor."
+ 2. The user securely stores this VC in their crypto wallet.
+ 3. They connect their wallet to the [DeFi](/what-is-defi) protocol.
+ 4. The user presents the VC to the protocol’s [smart contract](/what-are-smart-contracts). The smart contract verifies the credential's validity without needing to reveal any personal financial data.
+ 5. The user gains access to the loan without disclosing their name, net worth, or any other private financial information.
 
 This illustrates the potential of Self-Sovereign Identity, which facilitates trust and verification in a digital context while maintaining privacy and control.
 
 ## The Web3 Job Market
-

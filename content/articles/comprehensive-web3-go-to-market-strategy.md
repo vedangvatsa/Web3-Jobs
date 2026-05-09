@@ -92,4 +92,3 @@ Use on-chain data to gain insights into your users and assess the health of your
 
 - **Dashboards:** Build public dashboards (for example, on Dune Analytics) to monitor key metrics such as Daily Active Users, transaction volume, and Total Value Locked (TVL). Transparency builds trust.
 - **Cohort Analysis:** Categorize users based on when they joined and monitor their retention over time. This analysis provides the best indication of true product-market fit.
-

@@ -31,9 +31,9 @@ For developers, gas optimization skills command premium salaries and distinguish
 
 Storage operations are the most expensive:
 
-- **SSTORE (First Set)**: ~20,000 gas  
-- **SSTORE (Modify)**: ~5,000 gas  
-- **SLOAD**: ~2,100 gas  
+- **SSTORE (First Set)**: ~20,000 gas 
+- **SSTORE (Modify)**: ~5,000 gas 
+- **SLOAD**: ~2,100 gas 
 
 Strategies for minimizing storage costs:
 
@@ -61,25 +61,25 @@ uint256 c; // separate slot
 
 ```solidity
 // Bad: uses 4 slots
-bool flag1;    // slot 1
-uint256 num;   // slot 2
-bool flag2;    // slot 3
-address addr;  // slot 4
+bool flag1; // slot 1
+uint256 num; // slot 2
+bool flag2; // slot 3
+address addr; // slot 4
 
 // Good: uses 2 slots
-uint256 num;   // slot 1
-bool flag1;    // slot 2
-bool flag2;    // slot 2 (packed)
-address addr;  // slot 2 (packed)
+uint256 num; // slot 1
+bool flag1; // slot 2
+bool flag2; // slot 2 (packed)
+address addr; // slot 2 (packed)
 ```
 
 ## Memory vs. Storage vs. Calldata
 
 Understanding data location dramatically impacts gas:
 
-- **Storage**: Persistent blockchain state, most expensive  
-- **Memory**: Temporary execution memory, moderate cost  
-- **Calldata**: Read-only input data, cheapest  
+- **Storage**: Persistent blockchain state, most expensive 
+- **Memory**: Temporary execution memory, moderate cost 
+- **Calldata**: Read-only input data, cheapest 
 
 Key optimizations:
 
@@ -88,12 +88,12 @@ Key optimizations:
 ```solidity
 // Expensive
 function process(uint256[] memory data) external {
-    // costs gas to copy to memory
+ // costs gas to copy to memory
 }
 
 // Optimized
 function process(uint256[] calldata data) external {
-    // no copy, direct access
+ // no copy, direct access
 }
 ```
 
@@ -109,13 +109,13 @@ Loops can consume massive gas:
 ```solidity
 // Bad
 for (uint i = 0; i < array.length; i++) {
-    // repeatedly reads array.length from storage
+ // repeatedly reads array.length from storage
 }
 
 // Good
 uint256 length = array.length;
 for (uint i = 0; i < length; i++) {
-    // reads once
+ // reads once
 }
 ```
 
@@ -123,8 +123,8 @@ for (uint i = 0; i < length; i++) {
 
 ```solidity
 for (uint i = 0; i < 100; ) {
-    // loop body
-    unchecked { ++i; } // saves gas per iteration
+ // loop body
+ unchecked { ++i; } // saves gas per iteration
 }
 ```
 
@@ -145,7 +145,7 @@ Multiple techniques optimize function gas consumption:
 ```solidity
 // Better
 if (cheapCheck() && expensiveCheck()) {
-    // if cheapCheck fails, expensiveCheck never runs
+ // if cheapCheck fails, expensiveCheck never runs
 }
 ```
 

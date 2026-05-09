@@ -36,7 +36,7 @@ Despite rollups managing millions of transactions daily, the Web3 user experienc
 
 The **CoW Protocol** (Coincidence of Wants) pioneered this concept on Ethereum, facilitating peer-to-peer order matching before routing any remaining orders through automated market makers (AMMs). This protocol has processed significant trading volume and consistently provides better pricing than conventional AMM routing. Meanwhile, **1inch Fusion** has built on this model by introducing a Dutch auction system where solvers bid to fulfill orders. **Anoma** is developing a protocol-level intent-centric architecture, establishing a unified platform where intents serve as the core primitive.
 
-For developers, this transition requires a focus on user goals rather than the mechanics of achieving them. The infrastructure for solvers, off-chain matching and simulation engines, becomes essential. Users benefit from a streamlined experience that resembles Web2: specify an outcome, pay a fee, and let the protocol manage the rest.
+For developers, this transition requires a focus on user goals rather than the mechanics of achieving them. The infrastructure for solvers, off-chain matching and simulation engines, becomes essential. Users benefit from a simplify experience that resembles Web2: specify an outcome, pay a fee, and let the protocol manage the rest.
 
 The [intent-centric protocol](/intent-centric-protocol) model also influences the management of [concentrated liquidity](/concentrated-liquidity). Active liquidity managers and Automated Liquidity Managers (ALMs) can articulate their rebalancing strategies as intents, allowing solver networks to optimize execution across multiple venues at once.
 
@@ -56,12 +56,12 @@ For instance, Giza's ONNX-to-Cairo compiler enables developers to convert traine
 
 The modular blockchain thesis has transitioned from theoretical discussions to real-world applications. The following table outlines the modern [modular blockchain](/modular-blockchain) stack in active deployments:
 
-| Layer                    | Function                                             | Leading Solutions                                    |
+| Layer | Function | Leading Solutions |
 |--------------------------|------------------------------------------------------|------------------------------------------------------|
-| **Execution**            | Process transactions, run smart contracts            | Arbitrum, Optimism, zkSync Era, Starknet             |
-| **Data Availability**    | Store transaction data, ensure retrievability       | Celestia, EigenDA, Avail, Ethereum blobs             |
-| **Settlement**           | Verify proofs, resolve disputes                       | Ethereum                                             |
-| **Sequencing**           | Order transactions, produce blocks                   | Centralized sequencers (current), shared sequencing (emerging) |
+| **Execution** | Process transactions, run smart contracts | Arbitrum, Optimism, zkSync Era, Starknet |
+| **Data Availability** | Store transaction data, ensure retrievability | Celestia, EigenDA, Avail, Ethereum blobs |
+| **Settlement** | Verify proofs, resolve disputes | Ethereum |
+| **Sequencing** | Order transactions, produce blocks | Centralized sequencers (current), shared sequencing (emerging) |
 
 **Arbitrum** currently leads in developer activity among optimistic [rollup](/optimistic-rollup) networks. Its Orbit stack allows teams to launch custom Layer 3 chains settled on Arbitrum. **Optimism's Superchain** initiative connects OP Stack chains, including Base (Coinbase), Mode, and Zora, through a shared messaging layer. **zkSync's ZK Stack** and **Starknet's Madara** framework provide ZK-rollup equivalents.
 

@@ -85,7 +85,7 @@ While a visually appealing resume template may be tempting, it can hinder ATS sc
 
 When using an AI resume builder, opt for simpler, traditional templates:
 
-| **Do's**                       | **Don'ts**                       |
+| **Do's** | **Don'ts** |
 |--------------------------------|----------------------------------|
 | Use a clean, single-column layout. | Avoid images, graphs, or text boxes. |
 | Use standard section headings (Experience, Education, Skills). | Don't include important information in headers or footers. |
@@ -98,15 +98,14 @@ Despite the capabilities of AI, the final review must always be a human one. Rea
 
 ### Frequently Asked Questions (FAQs)
 
-**1. Can I just use ChatGPT to write my resume?**  
+**1. Can I just use ChatGPT to write my resume?** 
 You can incorporate ChatGPT for specific elements, such as crafting bullet points or summaries. However, dedicated AI resume builders are often more effective. They provide ATS-friendly templates and features specifically designed to tailor resumes to job descriptions, which ChatGPT lacks.
 
-**2. Is using an AI resume builder considered cheating?**  
+**2. Is using an AI resume builder considered cheating?** 
 No. Using tools to assist with writing and formatting your resume is not cheating; it demonstrates resourcefulness. Recruiters expect candidates to present the best version of themselves. As long as your resume content is truthful and accurately reflects your experiences, using AI to articulate that information is acceptable.
 
-**3. How much do AI resume builders cost?**  
+**3. How much do AI resume builders cost?** 
 Most AI resume builders offer free versions that allow the creation of one or two resumes with limited features. Paid plans typically unlock premium templates, unlimited resume creation, and advanced AI features like in-depth analysis and tailoring.
 
-**4. What is the biggest mistake to avoid?**  
+**4. What is the biggest mistake to avoid?** 
 The most significant mistake is relying entirely on AI outputs. Always treat these outputs as first drafts. Review, edit, and personalize all content to ensure it accurately reflects your unique voice and experiences.
-

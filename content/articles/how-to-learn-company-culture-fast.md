@@ -29,7 +29,7 @@ Establishing a connection with a more experienced colleague can accelerate your 
 
 Frame your inquiries strategically. Instead of asking, “Can I do X?” consider asking, “Why do we approach X this way?” This approach signals that you think critically about your role and invites the opportunity for mentorship.
 
-Maintain a “culture notebook” to document the insights you gather. This living document can serve as a reference in future situations where you encounter similar challenges, streamlining your integration process.
+Maintain a “culture notebook” to document the insights you gather. This living document can serve as a reference in future situations where you encounter similar challenges, simplify your integration process.
 
 ### 4. Dive Into Documentation – The Formal Playbook
 
@@ -45,10 +45,10 @@ For remote teams, propose a 15-minute video call for a virtual coffee. Use light
 
 ### FAQs
 
-**What if the company culture isn’t a good fit for me?**  
+**What if the company culture isn’t a good fit for me?** 
 Give yourself a 30-day period to adapt. If, after this time, you still feel misaligned, consider a mutual transition. A change may benefit both you and the organization.
 
-**How do I learn the culture in a fully remote company?**  
+**How do I learn the culture in a fully remote company?** 
 Be intentional in your efforts. Attend all optional virtual social gatherings, engage in non-project-related channels, and mimic the communication style you observe among colleagues.
 
 ### Bottom Line
@@ -63,13 +63,13 @@ Building these competencies is vital for success in any career, whether in [Web3
 
 ### Core Competencies
 
-| Skill                   | Importance                                                                                     | Description                                                                                                                                                    |
+| Skill | Importance | Description |
 |-------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Technical Foundation     | Essential                                                                                     | Familiarity with technical concepts relevant to your field is non-negotiable. You do not need to be an expert, but foundational knowledge can prevent mistakes. |
-| Communication Excellence  | Highly Valuable                                                                                | The ability to articulate complex ideas clearly sets you apart. Practice writing emails, documentation, and presentations to enhance this skill.                |
-| Problem-Solving Methodology | Critical                                                                                     | Tackle problems systematically: define the issue, research solutions, evaluate options, implement, and measure outcomes. This framework applies to various challenges. |
-| Learning Agility         | Key Asset                                                                                     | In fast-paced environments, the ability to acquire new skills rapidly is invaluable. Engage in hands-on learning rather than passively consuming content.       |
-| Emotional Intelligence    | Determines Team Effectiveness                                                                 | The ability to manage your emotions and understand others significantly influences your effectiveness in collaboration and negotiations.                        |
+| Technical Foundation | Essential | Familiarity with technical concepts relevant to your field is non-negotiable. You do not need to be an expert, but foundational knowledge can prevent mistakes. |
+| Communication Excellence | Highly Valuable | The ability to articulate complex ideas clearly sets you apart. Practice writing emails, documentation, and presentations to enhance this skill. |
+| Problem-Solving Methodology | Critical | Tackle problems systematically: define the issue, research solutions, evaluate options, implement, and measure outcomes. This framework applies to various challenges. |
+| Learning Agility | Key Asset | In fast-paced environments, the ability to acquire new skills rapidly is invaluable. Engage in hands-on learning rather than passively consuming content. |
+| Emotional Intelligence | Determines Team Effectiveness | The ability to manage your emotions and understand others significantly influences your effectiveness in collaboration and negotiations. |
 
 ## Development Roadmap
 
@@ -103,12 +103,12 @@ Building these competencies is vital for success in any career, whether in [Web3
 
 Web3 teams often work in distributed environments that demand adaptability and clear communication. These skills directly impact your ability to deliver results efficiently. For example:
 
-| Skill                   | Application                                                                                       | Impact                                                                                                  |
+| Skill | Application | Impact |
 |-------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Technical + Communication | Shipping products faster                                                                          | Enhanced collaboration leads to quicker product iterations and releases.                                  |
-| Problem-Solving + Learning Agility | Navigating ambiguity with confidence                                                         | Ability to address unexpected challenges swiftly, maintaining project momentum.                          |
-| Emotional Intelligence + Communication | Building trust with colleagues                                                               | Strong interpersonal relationships build collaboration and innovation within teams.                      |
-| Communication + EI      | Influencing without authority                                                                     | Effective communication allows you to advocate for ideas and gain buy-in across the organization.       |
+| Technical + Communication | Shipping products faster | Enhanced collaboration leads to quicker product iterations and releases. |
+| Problem-Solving + Learning Agility | Navigating ambiguity with confidence | Ability to address unexpected challenges swiftly, maintaining project momentum. |
+| Emotional Intelligence + Communication | Building trust with colleagues | Strong interpersonal relationships build collaboration and innovation within teams. |
+| Communication + EI | Influencing without authority | Effective communication allows you to advocate for ideas and gain buy-in across the organization. |
 
 ### In Your Career Progression
 
@@ -149,4 +149,3 @@ As you advance in your career, the importance of these skills evolves:
 - Participate in Reddit communities focusing on your skills.
 - Attend local meetups and networking events.
 - Enroll in online cohort-based courses for collaborative learning experiences.
-

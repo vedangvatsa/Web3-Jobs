@@ -6,46 +6,46 @@ readTime: "7 min"
 difficulty: "intermediate"
 prerequisites: ["community"]
 quiz:
-  - question: "What does Total Value Locked (TVL) measure?"
-    options:
-      - "The total market cap of a protocol's token"
-      - "The total dollar value of crypto deposited into a protocol's smart contracts"
-      - "The number of users who have interacted with the protocol"
-      - "The protocol's annual revenue"
-    correct: 1
-    explanation: "TVL counts all assets sitting in a protocol's smart contracts. If users have deposited $500M of ETH and USDC into Aave's lending pools, Aave's TVL is $500M. It is the closest equivalent to 'assets under management' in traditional finance."
-  - question: "Why is TVL alone a misleading metric?"
-    options:
-      - "Because TVL is hard to calculate"
-      - "Because TVL can be inflated by incentive farming — users deposit money to earn token rewards, then leave when rewards stop"
-      - "Because TVL doesn't include Bitcoin"
-      - "Because TVL is calculated differently on each chain"
-    correct: 1
-    explanation: "During 'DeFi Summer' and beyond, protocols offered massive token rewards to attract deposits. TVL spiked, but the capital was mercenary — it left the moment rewards decreased. TVL without revenue or retention data is vanity."
-  - question: "What is the Web3 equivalent of Monthly Active Users (MAU)?"
-    options:
-      - "Token holders"
-      - "Unique Active Wallets (UAW) — the number of distinct wallet addresses interacting with contracts in a given period"
-      - "Twitter followers"
-      - "Discord members"
-    correct: 1
-    explanation: "Unique Active Wallets counts how many distinct addresses called a protocol's smart contracts. It is imperfect — one person can control multiple wallets (sybil) — but it is the best on-chain proxy for actual usage. Dune Analytics and Flipside are the standard tools for tracking UAW."
-  - question: "What does the 'Protocol Revenue' metric tell you that TVL doesn't?"
-    options:
-      - "How much the team has raised from investors"
-      - "How much real economic value flows through the protocol — actual fees paid by real users for a real service"
-      - "How many tokens have been burned"
-      - "How many partnerships the protocol has signed"
-    correct: 1
-    explanation: "Protocol revenue is the total fees users pay to use the protocol. Uniswap generates ~$2-5M per day in swap fees. This is real demand, not subsidized by token incentives. A protocol with high TVL but low revenue means users are only there for incentives."
-  - question: "Which analytics platform is most commonly used to build custom Web3 dashboards?"
-    options:
-      - "Google Analytics"
-      - "Dune Analytics — it lets you write SQL queries against decoded blockchain data"
-      - "Mixpanel"
-      - "Tableau"
-    correct: 1
-    explanation: "Dune Analytics indexes and decodes blockchain transaction data into SQL-queryable tables. Anyone can write queries like 'SELECT COUNT(DISTINCT sender) FROM uniswap_v3.swaps WHERE block_time > now() - interval '7 days'' to get weekly active traders. Dashboards are public and forkable."
+ - question: "What does Total Value Locked (TVL) measure?"
+ options:
+ - "The total market cap of a protocol's token"
+ - "The total dollar value of crypto deposited into a protocol's smart contracts"
+ - "The number of users who have interacted with the protocol"
+ - "The protocol's annual revenue"
+ correct: 1
+ explanation: "TVL counts all assets sitting in a protocol's smart contracts. If users have deposited $500M of ETH and USDC into Aave's lending pools, Aave's TVL is $500M. It is the closest equivalent to 'assets under management' in traditional finance."
+ - question: "Why is TVL alone a misleading metric?"
+ options:
+ - "Because TVL is hard to calculate"
+ - "Because TVL can be inflated by incentive farming — users deposit money to earn token rewards, then leave when rewards stop"
+ - "Because TVL doesn't include Bitcoin"
+ - "Because TVL is calculated differently on each chain"
+ correct: 1
+ explanation: "During 'DeFi Summer' and beyond, protocols offered massive token rewards to attract deposits. TVL spiked, but the capital was mercenary — it left the moment rewards decreased. TVL without revenue or retention data is vanity."
+ - question: "What is the Web3 equivalent of Monthly Active Users (MAU)?"
+ options:
+ - "Token holders"
+ - "Unique Active Wallets (UAW) — the number of distinct wallet addresses interacting with contracts in a given period"
+ - "Twitter followers"
+ - "Discord members"
+ correct: 1
+ explanation: "Unique Active Wallets counts how many distinct addresses called a protocol's smart contracts. It is imperfect — one person can control multiple wallets (sybil) — but it is the best on-chain proxy for actual usage. Dune Analytics and Flipside are the standard tools for tracking UAW."
+ - question: "What does the 'Protocol Revenue' metric tell you that TVL doesn't?"
+ options:
+ - "How much the team has raised from investors"
+ - "How much real economic value flows through the protocol — actual fees paid by real users for a real service"
+ - "How many tokens have been burned"
+ - "How many partnerships the protocol has signed"
+ correct: 1
+ explanation: "Protocol revenue is the total fees users pay to use the protocol. Uniswap generates ~$2-5M per day in swap fees. This is real demand, not subsidized by token incentives. A protocol with high TVL but low revenue means users are only there for incentives."
+ - question: "Which analytics platform is most commonly used to build custom Web3 dashboards?"
+ options:
+ - "Google Analytics"
+ - "Dune Analytics — it lets you write SQL queries against decoded blockchain data"
+ - "Mixpanel"
+ - "Tableau"
+ correct: 1
+ explanation: "Dune Analytics indexes and decodes blockchain transaction data into SQL-queryable tables. Anyone can write queries like 'SELECT COUNT(DISTINCT sender) FROM uniswap_v3.swaps WHERE block_time > now() - interval '7 days'' to get weekly active traders. Dashboards are public and forkable."
 ---
 
 ## Web3 Metrics Are Different
@@ -56,35 +56,35 @@ You cannot track emails. You cannot track logins. You track wallet addresses and
 
 <div class="diagram">
 <svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <rect x="20" y="25" width="145" height="110" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
-  <text x="92" y="55" text-anchor="middle" font-size="22">💰</text>
-  <text x="92" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#166534">TVL</text>
-  <text x="92" y="95" text-anchor="middle" font-size="10" fill="#22c55e">Capital locked</text>
-  <text x="92" y="110" text-anchor="middle" font-size="9" fill="#64748b">DeFiLlama</text>
+ <rect x="20" y="25" width="145" height="110" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+ <text x="92" y="55" text-anchor="middle" font-size="22">💰</text>
+ <text x="92" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#166534">TVL</text>
+ <text x="92" y="95" text-anchor="middle" font-size="10" fill="#22c55e">Capital locked</text>
+ <text x="92" y="110" text-anchor="middle" font-size="9" fill="#64748b">DeFiLlama</text>
 
-  <rect x="185" y="25" width="145" height="110" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
-  <text x="257" y="55" text-anchor="middle" font-size="22">👛</text>
-  <text x="257" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e40af">UAW</text>
-  <text x="257" y="95" text-anchor="middle" font-size="10" fill="#3b82f6">Active wallets</text>
-  <text x="257" y="110" text-anchor="middle" font-size="9" fill="#64748b">Dune Analytics</text>
+ <rect x="185" y="25" width="145" height="110" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+ <text x="257" y="55" text-anchor="middle" font-size="22">👛</text>
+ <text x="257" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e40af">UAW</text>
+ <text x="257" y="95" text-anchor="middle" font-size="10" fill="#3b82f6">Active wallets</text>
+ <text x="257" y="110" text-anchor="middle" font-size="9" fill="#64748b">Dune Analytics</text>
 
-  <rect x="350" y="25" width="145" height="110" rx="10" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
-  <text x="422" y="55" text-anchor="middle" font-size="22">📊</text>
-  <text x="422" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#854d0e">Revenue</text>
-  <text x="422" y="95" text-anchor="middle" font-size="10" fill="#eab308">Real fees paid</text>
-  <text x="422" y="110" text-anchor="middle" font-size="9" fill="#64748b">Token Terminal</text>
+ <rect x="350" y="25" width="145" height="110" rx="10" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+ <text x="422" y="55" text-anchor="middle" font-size="22">📊</text>
+ <text x="422" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#854d0e">Revenue</text>
+ <text x="422" y="95" text-anchor="middle" font-size="10" fill="#eab308">Real fees paid</text>
+ <text x="422" y="110" text-anchor="middle" font-size="9" fill="#64748b">Token Terminal</text>
 
-  <rect x="515" y="25" width="145" height="110" rx="10" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
-  <text x="587" y="55" text-anchor="middle" font-size="22">🔄</text>
-  <text x="587" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#7c3aed">Retention</text>
-  <text x="587" y="95" text-anchor="middle" font-size="10" fill="#a855f7">Returning users</text>
-  <text x="587" y="110" text-anchor="middle" font-size="9" fill="#64748b">Cohort analysis</text>
+ <rect x="515" y="25" width="145" height="110" rx="10" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+ <text x="587" y="55" text-anchor="middle" font-size="22">🔄</text>
+ <text x="587" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#7c3aed">Retention</text>
+ <text x="587" y="95" text-anchor="middle" font-size="10" fill="#a855f7">Returning users</text>
+ <text x="587" y="110" text-anchor="middle" font-size="9" fill="#64748b">Cohort analysis</text>
 
-  <rect x="680" y="25" width="105" height="110" rx="10" fill="#fff7ed" stroke="#f97316" stroke-width="1.5"/>
-  <text x="732" y="55" text-anchor="middle" font-size="22">🏛️</text>
-  <text x="732" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#c2410c">Distribution</text>
-  <text x="732" y="95" text-anchor="middle" font-size="10" fill="#f97316">Token holders</text>
-  <text x="732" y="110" text-anchor="middle" font-size="9" fill="#64748b">Nansen</text>
+ <rect x="680" y="25" width="105" height="110" rx="10" fill="#fff7ed" stroke="#f97316" stroke-width="1.5"/>
+ <text x="732" y="55" text-anchor="middle" font-size="22">🏛️</text>
+ <text x="732" y="78" text-anchor="middle" font-size="12" font-weight="bold" fill="#c2410c">Distribution</text>
+ <text x="732" y="95" text-anchor="middle" font-size="10" fill="#f97316">Token holders</text>
+ <text x="732" y="110" text-anchor="middle" font-size="9" fill="#64748b">Nansen</text>
 </svg>
 </div>
 
@@ -136,21 +136,21 @@ This is harder to measure on-chain than in Web2 (no session tracking), but Dune 
 ```sql
 -- Example: 7-day retention for a DEX
 WITH first_swap AS (
-  SELECT
-    sender,
-    MIN(DATE_TRUNC('week', block_time)) AS first_week
-  FROM dex.trades
-  WHERE project = 'uniswap'
-  GROUP BY sender
+ SELECT
+ sender,
+ MIN(DATE_TRUNC('week', block_time)) AS first_week
+ FROM dex.trades
+ WHERE project = 'uniswap'
+ GROUP BY sender
 )
 SELECT
-  first_week,
-  COUNT(DISTINCT f.sender) AS cohort_size,
-  COUNT(DISTINCT CASE
-    WHEN t.block_time BETWEEN f.first_week + INTERVAL '7 days'
-      AND f.first_week + INTERVAL '14 days'
-    THEN f.sender
-  END) AS retained_week_2
+ first_week,
+ COUNT(DISTINCT f.sender) AS cohort_size,
+ COUNT(DISTINCT CASE
+ WHEN t.block_time BETWEEN f.first_week + INTERVAL '7 days'
+ AND f.first_week + INTERVAL '14 days'
+ THEN f.sender
+ END) AS retained_week_2
 FROM first_swap f
 LEFT JOIN dex.trades t ON f.sender = t.sender
 GROUP BY first_week

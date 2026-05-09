@@ -18,11 +18,11 @@ This article provides a detailed overview of dynamic NFTs, how they function, an
 
 ### Differences Between Static and Dynamic NFTs
 
-| Feature              | Static NFT                                            | Dynamic NFT                                         |
+| Feature | Static NFT | Dynamic NFT |
 |----------------------|------------------------------------------------------|----------------------------------------------------|
-| Metadata Storage     | Immutable metadata stored on decentralized systems like IPFS | Metadata can be updated through smart contracts     |
-| Update Mechanism     | No mechanism for updates; once minted, it is fixed   | Smart contract logic enables updates based on triggers |
-| Examples             | Digital art, collectibles                             | Interactive avatars, real-time sports stats        |
+| Metadata Storage | Immutable metadata stored on decentralized systems like IPFS | Metadata can be updated through smart contracts |
+| Update Mechanism | No mechanism for updates; once minted, it is fixed | Smart contract logic enables updates based on triggers |
+| Examples | Digital art, collectibles | Interactive avatars, real-time sports stats |
 
 In static NFTs, the [token](/what-is-a-token) metadata, typically a JSON file that defines traits and points to images, remains unchanged once uploaded. In contrast, a dynamic NFT's [smart contract](/what-are-smart-contracts) includes logic for metadata updates based on external inputs.
 
@@ -48,10 +48,10 @@ Creating a dynamic NFT involves advanced development that merges standard NFT cr
 1. **Define Possible States**: Begin by creating all potential images and metadata files for your NFT. For a weather-related NFT, you would prepare distinct images and JSON files for states like "Sunny," "Rainy," and "Cloudy." Upload these files to IPFS.
 
 2. **Develop the Smart Contract**: The smart contract forms the backbone of your project. Key components include:
-   - **State Variable**: A variable to track the current state, such as `string public currentState = "Sunny";`.
-   - **Oracle Integration**: Use services like Chainlink to request external data. The contract should contain a function to request weather data from a Chainlink oracle.
-   - **Update Function**: This function is triggered by the Chainlink oracle when it receives the data, updating the `currentState` variable based on the data (e.g., current weather).
-   - **Modified `tokenURI` Function**: Override the default `tokenURI` function to construct links based on the `currentState`. For example, if `currentState` is "Rainy," it will return the link to the `rainy.json` file.
+ - **State Variable**: A variable to track the current state, such as `string public currentState = "Sunny";`.
+ - **Oracle Integration**: Use services like Chainlink to request external data. The contract should contain a function to request weather data from a Chainlink oracle.
+ - **Update Function**: This function is triggered by the Chainlink oracle when it receives the data, updating the `currentState` variable based on the data (e.g., current weather).
+ - **Modified `tokenURI` Function**: Override the default `tokenURI` function to construct links based on the `currentState`. For example, if `currentState` is "Rainy," it will return the link to the `rainy.json` file.
 
 3. **Configure an Oracle Job**: Set up a Chainlink job detailing which API will provide the weather data and how the response should be formatted. Chainlink's documentation includes extensive instructions for this process.
 
@@ -92,4 +92,3 @@ Avoid overwhelming yourself with drastic changes. Start with one manageable proj
 #### Step 5: Measure Your Progress
 
 Continuously track your progress. Are you achieving your development goals? Adjust your approach based on feedback and results. Embrace a mindset of continuous improvement.
-

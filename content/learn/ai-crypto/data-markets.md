@@ -6,22 +6,22 @@ readTime: "9 min"
 difficulty: "intermediate"
 prerequisites: ["introduction"]
 quiz:
-  - question: "What is a major bottleneck in AI training today?"
-    options:
-      - "There is too much high-quality data."
-      - "Running out of human-generated, high-quality data to train on."
-      - "Data is too heavily encrypted."
-      - "Humans type too slowly."
-    correct: 1
-    explanation: "AI models have consumed most of the open internet. To get smarter, they need new, specialized, high-quality human data, which is expensive and hard to source."
-  - question: "How do decentralized networks solve the data sourcing problem?"
-    options:
-      - "By hacking into private databases."
-      - "By paying everyday users crypto tokens to provide and verify specialized data."
-      - "By replacing data with synthetic data."
-      - "By asking the government for data."
-    correct: 1
-    explanation: "Decentralized data markets use crypto tokens to incentivize humans globally to upload, label, and verify data, effectively crowdsourcing the creation of high-quality training datasets."
+ - question: "What is a major bottleneck in AI training today?"
+ options:
+ - "There is too much high-quality data."
+ - "Running out of human-generated, high-quality data to train on."
+ - "Data is too heavily encrypted."
+ - "Humans type too slowly."
+ correct: 1
+ explanation: "AI models have consumed most of the open internet. To get smarter, they need new, specialized, high-quality human data, which is expensive and hard to source."
+ - question: "How do decentralized networks solve the data sourcing problem?"
+ options:
+ - "By hacking into private databases."
+ - "By paying everyday users crypto tokens to provide and verify specialized data."
+ - "By replacing data with synthetic data."
+ - "By asking the government for data."
+ correct: 1
+ explanation: "Decentralized data markets use crypto tokens to incentivize humans globally to upload, label, and verify data, effectively crowdsourcing the creation of high-quality training datasets."
 ---
 
 ## The Data Wall
@@ -43,65 +43,65 @@ This data is owned by individuals and institutions who won't share it for free.
 
 <div class="diagram">
 <svg viewBox="0 0 800 300" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <!-- Centralized Model -->
-  <text x="400" y="20" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">Today: Centralized Data Sourcing</text>
+ <!-- Centralized Model -->
+ <text x="400" y="20" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">Today: Centralized Data Sourcing</text>
 
-  <!-- Users -->
-  <rect x="20" y="50" width="160" height="80" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
-  <text x="100" y="75" text-anchor="middle" font-size="12" font-weight="600" fill="#991b1b">Internet Users</text>
-  <text x="100" y="95" text-anchor="middle" font-size="10" fill="#64748b">Create free content</text>
-  <text x="100" y="110" text-anchor="middle" font-size="10" fill="#64748b">Get paid $0</text>
+ <!-- Users -->
+ <rect x="20" y="50" width="160" height="80" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+ <text x="100" y="75" text-anchor="middle" font-size="12" font-weight="600" fill="#991b1b">Internet Users</text>
+ <text x="100" y="95" text-anchor="middle" font-size="10" fill="#64748b">Create free content</text>
+ <text x="100" y="110" text-anchor="middle" font-size="10" fill="#64748b">Get paid $0</text>
 
-  <line x1="180" y1="90" x2="250" y2="90" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrowDM)"/>
+ <line x1="180" y1="90" x2="250" y2="90" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrowDM)"/>
 
-  <!-- Scraping -->
-  <rect x="250" y="50" width="160" height="80" rx="8" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
-  <text x="330" y="75" text-anchor="middle" font-size="12" font-weight="600" fill="#854d0e">Data Scrapers</text>
-  <text x="330" y="95" text-anchor="middle" font-size="10" fill="#64748b">Scale AI, Surge</text>
-  <text x="330" y="110" text-anchor="middle" font-size="10" fill="#64748b">Contractors paid $12/hr</text>
+ <!-- Scraping -->
+ <rect x="250" y="50" width="160" height="80" rx="8" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+ <text x="330" y="75" text-anchor="middle" font-size="12" font-weight="600" fill="#854d0e">Data Scrapers</text>
+ <text x="330" y="95" text-anchor="middle" font-size="10" fill="#64748b">Scale AI, Surge</text>
+ <text x="330" y="110" text-anchor="middle" font-size="10" fill="#64748b">Contractors paid $12/hr</text>
 
-  <line x1="410" y1="90" x2="480" y2="90" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrowDM)"/>
+ <line x1="410" y1="90" x2="480" y2="90" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrowDM)"/>
 
-  <!-- AI Companies -->
-  <rect x="480" y="50" width="160" height="80" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
-  <text x="560" y="75" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">AI Companies</text>
-  <text x="560" y="95" text-anchor="middle" font-size="10" fill="#64748b">OpenAI, Google, Meta</text>
-  <text x="560" y="110" text-anchor="middle" font-size="10" fill="#64748b">Capture $Billions</text>
+ <!-- AI Companies -->
+ <rect x="480" y="50" width="160" height="80" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+ <text x="560" y="75" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">AI Companies</text>
+ <text x="560" y="95" text-anchor="middle" font-size="10" fill="#64748b">OpenAI, Google, Meta</text>
+ <text x="560" y="110" text-anchor="middle" font-size="10" fill="#64748b">Capture $Billions</text>
 
-  <!-- Decentralized Model -->
-  <text x="400" y="170" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Future: Decentralized Data Markets</text>
+ <!-- Decentralized Model -->
+ <text x="400" y="170" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Future: Decentralized Data Markets</text>
 
-  <!-- Users -->
-  <rect x="20" y="195" width="160" height="80" rx="8" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
-  <text x="100" y="220" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">Data Providers</text>
-  <text x="100" y="240" text-anchor="middle" font-size="10" fill="#64748b">Contribute data</text>
-  <text x="100" y="255" text-anchor="middle" font-size="10" fill="#22c55e" font-weight="600">Earn tokens + ownership</text>
+ <!-- Users -->
+ <rect x="20" y="195" width="160" height="80" rx="8" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+ <text x="100" y="220" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">Data Providers</text>
+ <text x="100" y="240" text-anchor="middle" font-size="10" fill="#64748b">Contribute data</text>
+ <text x="100" y="255" text-anchor="middle" font-size="10" fill="#22c55e" font-weight="600">Earn tokens + ownership</text>
 
-  <line x1="180" y1="235" x2="250" y2="235" stroke="#22c55e" stroke-width="1.5" marker-end="url(#arrowDMg)"/>
+ <line x1="180" y1="235" x2="250" y2="235" stroke="#22c55e" stroke-width="1.5" marker-end="url(#arrowDMg)"/>
 
-  <!-- Protocol -->
-  <rect x="250" y="195" width="160" height="80" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
-  <text x="330" y="220" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">Data Protocol</text>
-  <text x="330" y="240" text-anchor="middle" font-size="10" fill="#64748b">Aggregates + verifies</text>
-  <text x="330" y="255" text-anchor="middle" font-size="10" fill="#64748b">Token-governed</text>
+ <!-- Protocol -->
+ <rect x="250" y="195" width="160" height="80" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+ <text x="330" y="220" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">Data Protocol</text>
+ <text x="330" y="240" text-anchor="middle" font-size="10" fill="#64748b">Aggregates + verifies</text>
+ <text x="330" y="255" text-anchor="middle" font-size="10" fill="#64748b">Token-governed</text>
 
-  <line x1="410" y1="235" x2="480" y2="235" stroke="#22c55e" stroke-width="1.5" marker-end="url(#arrowDMg)"/>
+ <line x1="410" y1="235" x2="480" y2="235" stroke="#22c55e" stroke-width="1.5" marker-end="url(#arrowDMg)"/>
 
-  <!-- AI Buyers -->
-  <rect x="480" y="195" width="160" height="80" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
-  <text x="560" y="220" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">AI Companies</text>
-  <text x="560" y="240" text-anchor="middle" font-size="10" fill="#64748b">Buy data with tokens</text>
-  <text x="560" y="255" text-anchor="middle" font-size="10" fill="#64748b">Value flows back</text>
+ <!-- AI Buyers -->
+ <rect x="480" y="195" width="160" height="80" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+ <text x="560" y="220" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">AI Companies</text>
+ <text x="560" y="240" text-anchor="middle" font-size="10" fill="#64748b">Buy data with tokens</text>
+ <text x="560" y="255" text-anchor="middle" font-size="10" fill="#64748b">Value flows back</text>
 
-  <!-- Revenue arrow back -->
-  <path d="M480 265 L180 265" stroke="#22c55e" stroke-width="1" stroke-dasharray="4" marker-end="url(#arrowDMg2)"/>
-  <text x="330" y="285" text-anchor="middle" font-size="10" fill="#22c55e">Revenue flows back to contributors</text>
+ <!-- Revenue arrow back -->
+ <path d="M480 265 L180 265" stroke="#22c55e" stroke-width="1" stroke-dasharray="4" marker-end="url(#arrowDMg2)"/>
+ <text x="330" y="285" text-anchor="middle" font-size="10" fill="#22c55e">Revenue flows back to contributors</text>
 
-  <defs>
-    <marker id="arrowDM" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#94a3b8"/></marker>
-    <marker id="arrowDMg" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#22c55e"/></marker>
-    <marker id="arrowDMg2" markerWidth="8" markerHeight="6" refX="0" refY="3" orient="auto"><path d="M8,0 L0,3 L8,6" fill="#22c55e"/></marker>
-  </defs>
+ <defs>
+ <marker id="arrowDM" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#94a3b8"/></marker>
+ <marker id="arrowDMg" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#22c55e"/></marker>
+ <marker id="arrowDMg2" markerWidth="8" markerHeight="6" refX="0" refY="3" orient="auto"><path d="M8,0 L0,3 L8,6" fill="#22c55e"/></marker>
+ </defs>
 </svg>
 </div>
 
@@ -191,4 +191,3 @@ Sharing personal data raises obvious privacy concerns. The best decentralized da
 - Quality verification (staking, cross-validation, compute-to-data) is the hardest challenge.
 - Privacy-preserving techniques allow data contribution without full disclosure.
 - The network effects of decentralized data markets could create data cooperatives worth billions.
-

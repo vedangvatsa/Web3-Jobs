@@ -19,24 +19,24 @@ The country's involvement in GameFi has cultivated a specialized talent pool. Gl
 The job market in the Philippines is shaped by its history with Web3 gaming, leading to a unique ecosystem with distinct strengths:
 
 - **Extensive Community Talent Pool:** The Philippines boasts a large pool of community managers, moderators, and player support specialists. These professionals played key roles in managing some of the largest gaming guilds and communities during the P2E surge. They possess expertise in Discord management, community engagement, and large-scale user support.
-  
+
 - **GameFi Expertise:** The local population has a thorough understanding of the "Play-to-Earn" and "Play-and-Own" models, making the Philippines a prime market for launching new Web3 games and a key recruiting ground for gaming-related roles.
-  
+
 - **Strong Guild Culture:** The country is home to some of the largest and most organized gaming guilds globally. These guilds function as sophisticated entities that contribute talent, capital, and community support within the GameFi ecosystem.
-  
+
 - **Emerging Developer Scene:** While non-technical roles currently dominate, the developer community is expanding rapidly, particularly in mobile development and game engineering.
 
 ### Key Roles and Salary Expectations
 
 The Philippines offers a well-trained talent pool, particularly in community and support roles, with salary expectations that remain competitive within the local market. Below is a detailed breakdown of in-demand roles and their respective salary ranges:
 
-| Role                                      | Experience Level     | Monthly Salary (PHP)  |
+| Role | Experience Level | Monthly Salary (PHP) |
 |-------------------------------------------|----------------------|------------------------|
-| Community Manager / Moderator (English & Tagalog) | Junior/Mid-Level      | 30,000 - 60,000        |
-|                                           | Senior/Lead          | 60,000 - 120,000+      |
-| Web3 Customer Support Specialist          | Mid-Level            | 25,000 - 50,000        |
-| [Smart Contract](/what-are-smart-contracts) & Web3 Developers | Mid-Level (2-4 years) | 80,000 - 150,000+      |
-|                                           | Senior (5+ years)    | 150,000 - 250,000+      |
+| Community Manager / Moderator (English & Tagalog) | Junior/Mid-Level | 30,000 - 60,000 |
+| | Senior/Lead | 60,000 - 120,000+ |
+| Web3 Customer Support Specialist | Mid-Level | 25,000 - 50,000 |
+| [Smart Contract](/what-are-smart-contracts) & Web3 Developers | Mid-Level (2-4 years) | 80,000 - 150,000+ |
+| | Senior (5+ years) | 150,000 - 250,000+ |
 
 *Note: Senior developers working remotely for top international protocols can command significantly higher salaries.*
 
@@ -48,7 +48,7 @@ The Philippines offers a well-trained talent pool, particularly in community and
 
 3. **Engage with the GameFi Ecosystem:** Immerse yourself in Web3 gaming. Play games, join guilds like YGG Pilipinas, and follow prominent players and influencers. Understanding the player's perspective and in-game economies will provide a competitive edge in any role within this sector.
 
-4. **Network at Local Events:** Manila has a vibrant Web3 event scene. Attend meetups and conferences, such as the Philippine [Blockchain](/what-is-a-blockchain) Week, to connect with local and international teams that are hiring.
+4. **Network at Local Events:** Manila has a active Web3 event scene. Attend meetups and conferences, such as the Philippine [Blockchain](/what-is-a-blockchain) Week, to connect with local and international teams that are hiring.
 
 ### Managing Your Web3 Job Search in the Philippines
 
@@ -56,13 +56,13 @@ To discover the latest community, support, and development roles within the Phil
 
 ## Complete Salary Guide: Web3 Jobs in the Philippines
 
-| Role                                      | Local/Remote Salary (PHP) | Equivalent USD (approx.) |
+| Role | Local/Remote Salary (PHP) | Equivalent USD (approx.) |
 |-------------------------------------------|----------------------------|--------------------------|
-| Community Manager                          | 25,000 - 60,000/month      | 425 - 1,020              |
-| GameFi/NFT Support Specialist             | 20,000 - 45,000/month      | 340 - 765                |
-| [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) | 80,000 - 150,000+/month    | 1,360 - 2,550+           |
-| GameFi Content Creator                    | 30,000 - 80,000/month      | 510 - 1,360              |
-| Full-Time Remote (International)          | 1,500 - 4,000+/month       |                          |
+| Community Manager | 25,000 - 60,000/month | 425 - 1,020 |
+| GameFi/NFT Support Specialist | 20,000 - 45,000/month | 340 - 765 |
+| [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) | 80,000 - 150,000+/month | 1,360 - 2,550+ |
+| GameFi Content Creator | 30,000 - 80,000/month | 510 - 1,360 |
+| Full-Time Remote (International) | 1,500 - 4,000+/month | |
 
 ## Career Paths in Philippine Web3
 
@@ -218,28 +218,28 @@ The Philippines presents a unique opportunity for talent in GameFi:
 
 ## Career FAQs for Philippine Web3
 
-**Is the P2E model dead?**  
+**Is the P2E model dead?** 
 The initial hype has subsided, but higher-quality games are emerging, presenting real opportunities compared to past speculative trends.
 
-**What is the fastest way to start earning?**  
+**What is the fastest way to start earning?** 
 Community management roles typically offer the quickest path, with opportunities arising within 1-2 months, alongside gaming rewards that can be collected continually.
 
-**Should I focus on local or remote roles?**  
+**Should I focus on local or remote roles?** 
 Consider both options. Start with local positions to build experience, then use that for international roles that pay in USD.
 
-**Is joining a guild necessary for success?**  
+**Is joining a guild necessary for success?** 
 While joining a guild like YGG can enhance your network, it is not a requirement for success in the industry.
 
-**Can I pursue this part-time?**  
+**Can I pursue this part-time?** 
 Yes, you can engage in gaming, earn rewards, and build your [portfolio](/building-web3-portfolio) during weekends or in your spare time.
 
-**What about uncertainties in game monetization?**  
+**What about uncertainties in game monetization?** 
 This remains a risk. Focus on projects with proven sustainable models and avoid untested experimental games.
 
-**Which path is better, gaming or development?**  
+**Which path is better, gaming or development?** 
 Development roles generally offer higher salaries, while gaming and community roles are more accessible for entry-level candidates.
 
-**Is there a long-term career path in this field?**  
+**Is there a long-term career path in this field?** 
 Yes, as the industry matures, roles will become more specialized and stable, offering promising career growth.
 
 The Philippines has positioned itself as a vital hub for talents in the Web3 gaming ecosystem. With its extensive community engagement, emerging development scene, and strong guild culture, the country presents numerous opportunities for professionals seeking to establish themselves in this dynamic sector. As the industry is changing, those who adapt and specialize will find ample pathways to success.

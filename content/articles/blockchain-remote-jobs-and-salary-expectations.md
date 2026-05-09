@@ -25,13 +25,13 @@ The remote-friendly nature of Web3 stems from several key factors:
 
 Salaries for remote [Web3 jobs](/web3-jobs-for-beginners) are competitive, but they can differ significantly based on the company's location, funding stage, and the specific role. Typically, US-based companies offer higher salaries compared to European or Asian firms. Below is a breakdown of the most common roles along with their average salaries for experienced professionals:
 
-| Role                          | Responsibilities                                   | Average Senior Salary          |
+| Role | Responsibilities | Average Senior Salary |
 |-------------------------------|---------------------------------------------------|--------------------------------|
-| **[Smart Contract](/what-are-smart-contracts) Developer**   | Develops secure, on-chain logic for decentralized applications (dApps). | Competitive                     |
-| **Full-Stack Web3 Engineer**  | Creates user-facing applications that connect with smart contracts.        | Competitive                     |
-| **Community Manager**         | Builds the project's community, engages users via Discord and Telegram.    | Competitive                     |
-| **Marketing Manager**         | Develops project narratives and drives growth through crypto channels.      | Competitive                     |
-| **Technical Product Manager** | Defines product vision and roadmap, serving as a bridge between developers and users. | Competitive                     |
+| **[Smart Contract](/what-are-smart-contracts) Developer** | Develops secure, on-chain logic for decentralized applications (dApps). | Competitive |
+| **Full-Stack Web3 Engineer** | Creates user-facing applications that connect with smart contracts. | Competitive |
+| **Community Manager** | Builds the project's community, engages users via Discord and Telegram. | Competitive |
+| **Marketing Manager** | Develops project narratives and drives growth through crypto channels. | Competitive |
+| **Technical Product Manager** | Defines product vision and roadmap, serving as a bridge between developers and users. | Competitive |
 
 **Note on Compensation**: The figures outlined above reflect base salaries. In the Web3 sector, a substantial portion of total compensation often comes from [token](/what-is-a-token) grants, which can equal or even surpass base salary value over time. For insights into negotiating Web3 salaries, see our guide on **[Web3 salary](/web3-developer-salaries-2025) negotiation**.
 
@@ -47,4 +47,3 @@ To successfully land a remote Web3 job, consider the following strategies:
 The remote job market in Web3 offers unique freedom and potential. By honing in-demand skills and applying the remote-first culture, you can cultivate a high-impact career from anywhere.
 
 ### The Expanding Web3 Opportunity
-

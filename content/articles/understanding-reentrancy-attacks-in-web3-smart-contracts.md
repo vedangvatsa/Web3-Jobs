@@ -34,15 +34,15 @@ Here’s a flawed version of the `withdraw` function:
 ```solidity
 // THIS IS VULNERABLE CODE - DO NOT USE
 function withdraw(uint _amount) public {
-    // Check if the user has enough balance
-    require(balances[msg.sender] >= _amount);
+ // Check if the user has enough balance
+ require(balances[msg.sender] >= _amount);
 
-    // Send the Ether to the user
-    (bool sent, ) = msg.sender.call{value: _amount}("");
-    require(sent, "Failed to send Ether");
+ // Send the Ether to the user
+ (bool sent, ) = msg.sender.call{value: _amount}("");
+ require(sent, "Failed to send Ether");
 
-    // Update the user's balance
-    balances[msg.sender] -= _amount;
+ // Update the user's balance
+ balances[msg.sender] -= _amount;
 }
 ```
 
@@ -54,14 +54,14 @@ Here’s how the attack unfolds:
 2. **Initial Deposit**: The attacker deposits Ether by calling the `deposit` function on `InsecureBank`. The `AttackContract`'s balance in `InsecureBank` now stands at a certain amount of Ether.
 3. **The First Withdrawal**: The attacker then calls `withdraw` on `InsecureBank` from `AttackContract`.
 4. **The Trap is Sprung**:
-    *   `InsecureBank` verifies the balance. The `AttackContract` has a sufficient balance, allowing the `require` statement to pass.
-    *   `InsecureBank` transfers Ether to `AttackContract` through the `.call{value: amount}` function.
-    *   This Ether transfer activates the fallback function in `AttackContract`.
-    *   **The Re-entry**: The fallback function instantly calls the `withdraw` function *again* on `InsecureBank`.
+ * `InsecureBank` verifies the balance. The `AttackContract` has a sufficient balance, allowing the `require` statement to pass.
+ * `InsecureBank` transfers Ether to `AttackContract` through the `.call{value: amount}` function.
+ * This Ether transfer activates the fallback function in `AttackContract`.
+ * **The Re-entry**: The fallback function instantly calls the `withdraw` function *again* on `InsecureBank`.
 5. **The Loop**: Now, `withdraw` executes a second time without updating `InsecureBank`'s state. The `AttackContract` still holds a balance.
-    *   The `require` check passes again.
-    *   `InsecureBank` sends another amount of Ether to `AttackContract`.
-    *   This process continues recursively until `InsecureBank` runs out of Ether. Once the gas limit is reached or the funds are depleted, the calls begin to unwind, but it is too late. The bank has been emptied.
+ * The `require` check passes again.
+ * `InsecureBank` sends another amount of Ether to `AttackContract`.
+ * This process continues recursively until `InsecureBank` runs out of Ether. Once the gas limit is reached or the funds are depleted, the calls begin to unwind, but it is too late. The bank has been emptied.
 
 ### Preventing Reentrancy: The Checks-Effects-Interactions Pattern
 
@@ -76,16 +76,16 @@ Here’s a secure version of the `withdraw` function using this pattern:
 ```solidity
 // SECURE CODE
 function withdraw(uint _amount) public {
-    // 1. Checks
-    uint balance = balances[msg.sender];
-    require(balance >= _amount, "Insufficient balance");
+ // 1. Checks
+ uint balance = balances[msg.sender];
+ require(balance >= _amount, "Insufficient balance");
 
-    // 2. Effects
-    balances[msg.sender] = balance - _amount;
+ // 2. Effects
+ balances[msg.sender] = balance - _amount;
 
-    // 3. Interactions
-    (bool sent, ) = msg.sender.call{value: _amount}("");
-    require(sent, "Failed to send Ether");
+ // 3. Interactions
+ (bool sent, ) = msg.sender.call{value: _amount}("");
+ require(sent, "Failed to send Ether");
 }
 ```
 
@@ -101,10 +101,10 @@ A straightforward implementation is as follows:
 bool internal locked;
 
 modifier noReentrant() {
-    require(!locked, "No re-entrancy");
-    locked = true;
-    _; // The function body executes here
-    locked = false;
+ require(!locked, "No re-entrancy");
+ locked = true;
+ _; // The function body executes here
+ locked = false;
 }
 ```
 
@@ -112,7 +112,7 @@ Apply this modifier to any function that involves external calls:
 
 ```solidity
 function withdraw(uint _amount) public noReentrant {
-    // ... function logic ...
+ // ... function logic ...
 }
 ```
 
@@ -150,11 +150,11 @@ Regularly assess your progress. Are you achieving desired results? Adjust your s
 
 ### Real-World Examples of Successful Implementation
 
-| Name   | Role                      | Challenge Faced                                 | Outcome Achieved                             |
+| Name | Role | Challenge Faced | Outcome Achieved |
 |--------|---------------------------|------------------------------------------------|---------------------------------------------|
-| Sarah  | Developer at a blockchain startup | Struggled with security vulnerabilities in contracts | Achieved a significant reduction in security issues within a few months |
-| Juan   | Product Manager in [DeFi](/what-is-defi) | Encountered frequent bugs in smart contracts   | Streamlined deployment processes, reducing errors significantly |
-| Maya   | Transitioning from Web2 to Web3 | Needed to adapt to decentralized methodologies | Successfully integrated into Web3 teams, enhancing productivity |
+| Sarah | Developer at a blockchain startup | Struggled with security vulnerabilities in contracts | Achieved a significant reduction in security issues within a few months |
+| Juan | Product Manager in [DeFi](/what-is-defi) | Encountered frequent bugs in smart contracts | simplify deployment processes, reducing errors significantly |
+| Maya | Transitioning from Web2 to Web3 | Needed to adapt to decentralized methodologies | Successfully integrated into Web3 teams, enhancing productivity |
 
 ### Common Mistakes to Avoid
 
@@ -166,18 +166,17 @@ Regularly assess your progress. Are you achieving desired results? Adjust your s
 
 ### FAQ
 
-**Q: How long will it take to implement these practices?**  
+**Q: How long will it take to implement these practices?** 
 A: Initial results typically appear within a few weeks of consistent application, with significant improvements becoming noticeable within a couple of months. The timeline varies depending on your starting point, commitment to daily practice, and willingness to seek feedback. Professionals who actively track their progress tend to see faster advancements.
 
-**Q: What if my workplace environment does not support these practices?**  
+**Q: What if my workplace environment does not support these practices?** 
 A: Many times, you possess more agency in challenging environments than you may realize. Start with small, self-contained actions that require no institutional approval. Focus on individual habits or internal discussions with like-minded colleagues. Gradually build momentum. If sustained efforts reveal a lack of support, it may indicate the need to seek an environment that values professional development.
 
-**Q: How is this relevant specifically to Web3?**  
+**Q: How is this relevant specifically to Web3?** 
 A: Web3 organizations differ from traditional companies in ways that amplify the importance of security skills. The flatter hierarchies offer direct access to decision-makers but demand greater self-direction. Teams often work remotely and globally, necessitating effective written communication and asynchronous collaboration. The pace of development is faster, with product cycles occurring in weeks rather than months. Adapting to this environment is a vital professional skill.
 
-**Q: Can I implement these practices alongside my current role?**  
+**Q: Can I implement these practices alongside my current role?** 
 A: Yes, it is advisable to adopt these strategies within your existing workload. Focus on integrating two or three practices into your daily responsibilities rather than attempting a complete overhaul. The cumulative effect of small, consistent improvements often surpasses sporadic major efforts.
 
-**Q: What additional resources can deepen my understanding?**  
+**Q: What additional resources can deepen my understanding?** 
 A: Explore specific articles and resources that look into smart contract security. A highly effective approach is to find a mentor or peer group excelling in this field. Observing their practices can provide insights that written material cannot convey. Engage with Web3 communities on platforms like Discord and Telegram, where experienced practitioners often share their knowledge. Structured accountability, such as committing to a timeline with a peer to review your progress, can accelerate your growth.
-

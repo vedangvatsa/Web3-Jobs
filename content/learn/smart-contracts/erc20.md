@@ -6,46 +6,46 @@ readTime: "9 min"
 difficulty: "intermediate"
 prerequisites: ["first-contract"]
 quiz:
-  - question: "What data structure does an ERC-20 contract use to keep track of everyone's token balances?"
-    options:
-      - "An array of addresses"
-      - "A SQL database"
-      - "A mapping linking addresses to integers (mapping(address => uint256))"
-      - "A linked list"
-    correct: 2
-    explanation: "A mapping acts like a dictionary. It links a specific wallet address directly to a uint256 number representing their balance. The tokens do not live in your wallet; they live as a number in the contract's mapping."
-  - question: "In Solidity, what is an 'event' used for?"
-    options:
-      - "To schedule a transaction for the future"
-      - "To emit a log to the blockchain that external apps (like frontends or block explorers) can listen to"
-      - "To trigger a function automatically"
-      - "To pause the contract"
-    correct: 1
-    explanation: "Events provide a cheap way to log activity. When a transfer happens, the contract emits a Transfer event. Etherscan and frontend UIs listen for these events to update transaction histories."
-  - question: "What does the require() statement do in a transfer function?"
-    options:
-      - "It pays the gas fee"
-      - "It checks if the sender has enough balance; if not, it reverts the transaction"
-      - "It requires the receiver to accept the transfer"
-      - "It asks the owner for permission"
-    correct: 1
-    explanation: "The require(balances[msg.sender] >= amount) statement ensures you cannot send more tokens than you own. If the condition is false, the transaction fails."
-  - question: "What does uint256 stand for?"
-    options:
-      - "Universal Integer 256"
-      - "Unsigned Integer of 256 bits (cannot be negative)"
-      - "Union Integer"
-      - "Unique Identifier"
-    correct: 1
-    explanation: "An unsigned integer cannot hold negative numbers. 256 bits means it can hold incredibly large numbers, which is necessary for handling token decimals."
-  - question: "Why do most ERC-20 tokens have 18 decimals?"
-    options:
-      - "Because Ethereum (ETH) has 18 decimals"
-      - "Because 18 is the maximum allowed by Solidity"
-      - "To make the math harder"
-      - "Because the ERC-20 standard requires exactly 18"
-    correct: 0
-    explanation: "Most tokens use 18 decimals to mirror ETH (1 ETH = 10^18 wei). Solidity does not support decimals/floats natively, so a token balance of '1' is actually represented as '1,000,000,000,000,000,000' in the code."
+ - question: "What data structure does an ERC-20 contract use to keep track of everyone's token balances?"
+ options:
+ - "An array of addresses"
+ - "A SQL database"
+ - "A mapping linking addresses to integers (mapping(address => uint256))"
+ - "A linked list"
+ correct: 2
+ explanation: "A mapping acts like a dictionary. It links a specific wallet address directly to a uint256 number representing their balance. The tokens do not live in your wallet; they live as a number in the contract's mapping."
+ - question: "In Solidity, what is an 'event' used for?"
+ options:
+ - "To schedule a transaction for the future"
+ - "To emit a log to the blockchain that external apps (like frontends or block explorers) can listen to"
+ - "To trigger a function automatically"
+ - "To pause the contract"
+ correct: 1
+ explanation: "Events provide a cheap way to log activity. When a transfer happens, the contract emits a Transfer event. Etherscan and frontend UIs listen for these events to update transaction histories."
+ - question: "What does the require() statement do in a transfer function?"
+ options:
+ - "It pays the gas fee"
+ - "It checks if the sender has enough balance; if not, it reverts the transaction"
+ - "It requires the receiver to accept the transfer"
+ - "It asks the owner for permission"
+ correct: 1
+ explanation: "The require(balances[msg.sender] >= amount) statement ensures you cannot send more tokens than you own. If the condition is false, the transaction fails."
+ - question: "What does uint256 stand for?"
+ options:
+ - "Universal Integer 256"
+ - "Unsigned Integer of 256 bits (cannot be negative)"
+ - "Union Integer"
+ - "Unique Identifier"
+ correct: 1
+ explanation: "An unsigned integer cannot hold negative numbers. 256 bits means it can hold incredibly large numbers, which is necessary for handling token decimals."
+ - question: "Why do most ERC-20 tokens have 18 decimals?"
+ options:
+ - "Because Ethereum (ETH) has 18 decimals"
+ - "Because 18 is the maximum allowed by Solidity"
+ - "To make the math harder"
+ - "Because the ERC-20 standard requires exactly 18"
+ correct: 0
+ explanation: "Most tokens use 18 decimals to mirror ETH (1 ETH = 10^18 wei). Solidity does not support decimals/floats natively, so a token balance of '1' is actually represented as '1,000,000,000,000,000,000' in the code."
 ---
 
 ## Tokens are just spreadsheets
@@ -54,34 +54,34 @@ When people say "I have 100 USDC in my wallet," they are technically wrong. The 
 
 <div class="diagram">
 <svg viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <text x="400" y="22" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">ERC-20 Token = A Mapping Inside a Contract</text>
+ <text x="400" y="22" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">ERC-20 Token = A Mapping Inside a Contract</text>
 
-  <!-- Contract box -->
-  <rect x="200" y="38" width="400" height="130" rx="12" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
-  <text x="400" y="60" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e40af">USDC Contract (0x1a2b...)</text>
+ <!-- Contract box -->
+ <rect x="200" y="38" width="400" height="130" rx="12" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
+ <text x="400" y="60" text-anchor="middle" font-size="12" font-weight="bold" fill="#1e40af">USDC Contract (0x1a2b...)</text>
 
-  <!-- Mapping rows -->
-  <rect x="230" y="72" width="340" height="25" rx="4" fill="#dbeafe"/>
-  <text x="240" y="89" font-size="10" font-family="monospace" fill="#1e40af">0xAlice...</text>
-  <text x="520" y="89" text-anchor="end" font-size="11" font-weight="bold" fill="#1e40af">100 USDC</text>
+ <!-- Mapping rows -->
+ <rect x="230" y="72" width="340" height="25" rx="4" fill="#dbeafe"/>
+ <text x="240" y="89" font-size="10" font-family="monospace" fill="#1e40af">0xAlice...</text>
+ <text x="520" y="89" text-anchor="end" font-size="11" font-weight="bold" fill="#1e40af">100 USDC</text>
 
-  <rect x="230" y="100" width="340" height="25" rx="4" fill="#f8fafc"/>
-  <text x="240" y="117" font-size="10" font-family="monospace" fill="#64748b">0xBob...</text>
-  <text x="520" y="117" text-anchor="end" font-size="11" font-weight="bold" fill="#64748b">2,500 USDC</text>
+ <rect x="230" y="100" width="340" height="25" rx="4" fill="#f8fafc"/>
+ <text x="240" y="117" font-size="10" font-family="monospace" fill="#64748b">0xBob...</text>
+ <text x="520" y="117" text-anchor="end" font-size="11" font-weight="bold" fill="#64748b">2,500 USDC</text>
 
-  <rect x="230" y="128" width="340" height="25" rx="4" fill="#dbeafe"/>
-  <text x="240" y="145" font-size="10" font-family="monospace" fill="#1e40af">0xCarol...</text>
-  <text x="520" y="145" text-anchor="end" font-size="11" font-weight="bold" fill="#1e40af">50 USDC</text>
+ <rect x="230" y="128" width="340" height="25" rx="4" fill="#dbeafe"/>
+ <text x="240" y="145" font-size="10" font-family="monospace" fill="#1e40af">0xCarol...</text>
+ <text x="520" y="145" text-anchor="end" font-size="11" font-weight="bold" fill="#1e40af">50 USDC</text>
 
-  <!-- Alice's wallet -->
-  <rect x="30" y="60" width="140" height="55" rx="8" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
-  <text x="100" y="82" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Alice's Wallet</text>
-  <text x="100" y="100" text-anchor="middle" font-size="9" fill="#64748b">Tokens aren't here!</text>
-  <line x1="170" y1="87" x2="225" y2="84" stroke="#a855f7" stroke-width="1" stroke-dasharray="4"/>
+ <!-- Alice's wallet -->
+ <rect x="30" y="60" width="140" height="55" rx="8" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+ <text x="100" y="82" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Alice's Wallet</text>
+ <text x="100" y="100" text-anchor="middle" font-size="9" fill="#64748b">Tokens aren't here!</text>
+ <line x1="170" y1="87" x2="225" y2="84" stroke="#a855f7" stroke-width="1" stroke-dasharray="4"/>
 
-  <!-- Arrow label -->
-  <text x="680" y="95" text-anchor="middle" font-size="10" fill="#64748b">balanceOf[addr]</text>
-  <text x="680" y="112" text-anchor="middle" font-size="10" fill="#64748b">→ uint256</text>
+ <!-- Arrow label -->
+ <text x="680" y="95" text-anchor="middle" font-size="10" fill="#64748b">balanceOf[addr]</text>
+ <text x="680" y="112" text-anchor="middle" font-size="10" fill="#64748b">→ uint256</text>
 </svg>
 </div>
 
@@ -95,16 +95,16 @@ To keep track of balances, Solidity uses a `mapping`. A mapping is like a dictio
 
 ```solidity
 contract SimpleToken {
-    // This creates a dictionary linking an address to a number
-    mapping(address => uint256) public balanceOf;
-    
-    // Total supply of the token
-    uint256 public totalSupply;
-    
-    // Token metadata
-    string public name = "HashtagToken";
-    string public symbol = "HTG";
-    uint8 public decimals = 18;
+ // This creates a dictionary linking an address to a number
+ mapping(address => uint256) public balanceOf;
+
+ // Total supply of the token
+ uint256 public totalSupply;
+
+ // Token metadata
+ string public name = "HashtagToken";
+ string public symbol = "HTG";
+ uint8 public decimals = 18;
 }
 ```
 
@@ -119,24 +119,24 @@ If you call `balanceOf[0xabc...]`, it returns the token balance of that address.
 How do tokens move? We just subtract from one address in the mapping and add to another.
 
 ```solidity
-    // An event we will trigger when tokens move
-    event Transfer(address indexed from, address indexed to, uint256 value);
+ // An event we will trigger when tokens move
+ event Transfer(address indexed from, address indexed to, uint256 value);
 
-    function transfer(address _to, uint256 _amount) public returns (bool) {
-        // 1. Check: Does the sender have enough tokens?
-        require(balanceOf[msg.sender] >= _amount, "Not enough tokens");
+ function transfer(address _to, uint256 _amount) public returns (bool) {
+ // 1. Check: Does the sender have enough tokens?
+ require(balanceOf[msg.sender] >= _amount, "Not enough tokens");
 
-        // 2. Execute: Subtract from sender
-        balanceOf[msg.sender] = balanceOf[msg.sender] - _amount;
+ // 2. Execute: Subtract from sender
+ balanceOf[msg.sender] = balanceOf[msg.sender] - _amount;
 
-        // 3. Execute: Add to receiver
-        balanceOf[_to] = balanceOf[_to] + _amount;
+ // 3. Execute: Add to receiver
+ balanceOf[_to] = balanceOf[_to] + _amount;
 
-        // 4. Log: Emit an event for the outside world
-        emit Transfer(msg.sender, _to, _amount);
+ // 4. Log: Emit an event for the outside world
+ emit Transfer(msg.sender, _to, _amount);
 
-        return true;
-    }
+ return true;
+ }
 ```
 
 ### Breaking down the transfer

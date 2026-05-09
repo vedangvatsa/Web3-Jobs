@@ -19,7 +19,7 @@ The Web3 ecosystem in Tunis is marked by strong technical skills, an emphasis on
 Tunis’s emergence as a Web3 talent hub rests on a solid educational foundation and technical expertise.
 
 - **Engineering Talent:** Tunisia produces a significant number of engineering graduates annually, many specializing in software development and computer science. These graduates are known for their strong fundamentals and adaptability, positioning them well for the complexities of Web3 development.
-  
+
 - **FinTech Innovations:** The FinTech sector in Tunis is expanding, with a focus on digital payments and improving financial infrastructure. This aligns with key applications of blockchain technology. The e-dinar initiative, an early digital currency experiment, reflects the country's commitment to financial innovation.
 
 - **Remote Work Opportunities:** Due to the abundance of skilled talent and a lower cost of living compared to Europe, Tunis has become an attractive location for international Web3 companies hiring remote engineers. Many top career opportunities for Tunisian professionals are found within these global, remote-first teams.
@@ -30,13 +30,13 @@ Tunis’s emergence as a Web3 talent hub rests on a solid educational foundation
 
 The job market for Tunisian Web3 professionals primarily targets global and remote positions. As a result, top talent can secure salaries significantly higher than the local average, especially when compensated in major currencies.
 
-| Role                                  | Mid-Level Salary (Remote)         | Senior Salary (Remote)          |
+| Role | Mid-Level Salary (Remote) | Senior Salary (Remote) |
 |---------------------------------------|-----------------------------------|---------------------------------|
-| Smart Contract & Backend Developer     | Competitive compensation           | Higher-end compensation          |
-| Full-Stack Web3 Engineer              | Competitive compensation           | Higher-end compensation          |
-| Local Roles                           |                                   |                                 |
-| Mid-Level Developer                   | Competitive local compensation     |                                 |
-| Community Manager (Arabic/French)     | Competitive local compensation     |                                 |
+| Smart Contract & Backend Developer | Competitive compensation | Higher-end compensation |
+| Full-Stack Web3 Engineer | Competitive compensation | Higher-end compensation |
+| Local Roles | | |
+| Mid-Level Developer | Competitive local compensation | |
+| Community Manager (Arabic/French) | Competitive local compensation | |
 
 **Salary Guide: Web3 Jobs in Tunis**
 
@@ -228,7 +228,7 @@ A realistic timeline includes:
 Yes, especially for remote work. The advantages include a high talent pool, a low cost of living, and a strong internet infrastructure. However, the local market is limited, making remote opportunities more viable.
 
 **How do I stand out in a global job market?**
-Focus on your technical fundamentals, use your lower cost of living, and pursue specialization in a niche area. Being a world-class specialist in a specific domain will enhance your competitiveness.
+Focus on your technical fundamentals, use your lower cost of living, and pursue specialization in a niche area. Being a top-tier specialist in a specific domain will enhance your competitiveness.
 
 **What if I don’t have a degree or professional experience?**
 In Web3, practical experience and project work hold more weight than formal education. Build projects and demonstrate your abilities through your work.

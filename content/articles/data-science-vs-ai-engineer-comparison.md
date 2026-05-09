@@ -21,16 +21,16 @@ An AI engineer, on the other hand, takes the model created by the data scientist
 To really get a feel for the contrast, let's look at what a typical day might involve for each role.
 
 **A Day in the Life of a Data Scientist**
-*   **Morning**: Meet with stakeholders to understand a new business problem. They might spend a lot of time just figuring out what question needs to be answered.
-*   **Mid-day**: Write complex SQL queries to pull data from various databases. Then, using Python libraries like Pandas, they'll spend hours cleaning and improving how this data is formatted. This is often a significant portion of the job.
-*   **Afternoon**: Explore the data using visualization tools like Matplotlib or Seaborn. They'll build a few different machine learning models using Scikit-learn to see which one best predicts the outcome they're interested in.
-*   **End of Day**: Prepare a presentation or a Jupyter Notebook to share their findings with the team, explaining the insights they've discovered.
+* **Morning**: Meet with stakeholders to understand a new business problem. They might spend a lot of time just figuring out what question needs to be answered.
+* **Mid-day**: Write complex SQL queries to pull data from various databases. Then, using Python libraries like Pandas, they'll spend hours cleaning and improving how this data is formatted. This is often a significant portion of the job.
+* **Afternoon**: Explore the data using visualization tools like Matplotlib or Seaborn. They'll build a few different machine learning models using Scikit-learn to see which one best predicts the outcome they're interested in.
+* **End of Day**: Prepare a presentation or a Jupyter Notebook to share their findings with the team, explaining the insights they've discovered.
 
 **A Day in the Life of an AI Engineer**
-*   **Morning**: Review the performance logs of a deployed machine learning model. They might notice that its accuracy has started to drift and create a ticket to investigate retraining it.
-*   **Mid-day**: Write code to build a data pipeline using tools like Apache Airflow. This pipeline will automatically pull new data, process it, and feed it into the model for retraining.
-*   **Afternoon**: Containerize a new model using Docker and work on deploying it to a Kubernetes cluster on a cloud platform. They'll be configuring YAML files and setting up monitoring alerts.
-*   **End of Day**: Collaborate with a frontend developer to create an API endpoint so the application can get predictions from the newly deployed model.
+* **Morning**: Review the performance logs of a deployed machine learning model. They might notice that its accuracy has started to drift and create a ticket to investigate retraining it.
+* **Mid-day**: Write code to build a data pipeline using tools like Apache Airflow. This pipeline will automatically pull new data, process it, and feed it into the model for retraining.
+* **Afternoon**: Containerize a new model using Docker and work on deploying it to a Kubernetes cluster on a cloud platform. They'll be configuring YAML files and setting up monitoring alerts.
+* **End of Day**: Collaborate with a frontend developer to create an API endpoint so the application can get predictions from the newly deployed model.
 
 As you can see, while both work with data and models, their focus is very different. The data scientist is closer to the research and discovery phase, while the AI engineer is all about building and maintaining the production system.
 
@@ -39,18 +39,18 @@ As you can see, while both work with data and models, their focus is very differ
 The skills required for these two jobs also reflect their different focuses. There's some overlap, but the depth required in each area varies significantly.
 
 **[Essential Skills](/mastering-web3-essential-skills) for a Data Scientist**
-*   **Statistics and Probability**: This is non-negotiable. You need a deep understanding of statistical concepts to build and validate models correctly.
-*   **Python or R**: Strong programming skills in one of these two languages are a must, especially with data science libraries like Pandas, NumPy, and Scikit-learn.
-*   **Data Wrangling and Cleaning**: You'll spend most of your time dealing with messy data, so you need to be an expert at cleaning and preparing it.
-*   **Machine Learning Theory**: You need to understand how different algorithms work, their pros and cons, and when to use them.
-*   **Data Visualization and Communication**: You have to be able to explain your complex findings to a non-technical audience.
+* **Statistics and Probability**: This is non-negotiable. You need a deep understanding of statistical concepts to build and validate models correctly.
+* **Python or R**: Strong programming skills in one of these two languages are a must, especially with data science libraries like Pandas, NumPy, and Scikit-learn.
+* **Data Wrangling and Cleaning**: You'll spend most of your time dealing with messy data, so you need to be an expert at cleaning and preparing it.
+* **Machine Learning Theory**: You need to understand how different algorithms work, their pros and cons, and when to use them.
+* **Data Visualization and Communication**: You have to be able to explain your complex findings to a non-technical audience.
 
 **Essential Skills for an AI Engineer**
-*   **Software Engineering Fundamentals**: Strong programming skills (usually in Python), knowledge of data structures, algorithms, and software design patterns are essential.
-*   **Cloud Computing**: You need to be proficient with at least one major cloud provider and their AI/ML services.
-*   **MLOps Tools**: Experience with machine learning operations tools for deployment, monitoring, and automation is key. This includes things like Docker, Kubernetes, and CI/CD pipelines.
-*   **Big Data Technologies**: Familiarity with technologies like Spark or Kafka is often required for handling large-scale data pipelines.
-*   **API Development**: You'll be building APIs to serve your models, so experience with frameworks like FastAPI or Flask is important.
+* **Software Engineering Fundamentals**: Strong programming skills (usually in Python), knowledge of data structures, algorithms, and software design patterns are essential.
+* **Cloud Computing**: You need to be proficient with at least one major cloud provider and their AI/ML services.
+* **MLOps Tools**: Experience with machine learning operations tools for deployment, monitoring, and automation is key. This includes things like Docker, Kubernetes, and CI/CD pipelines.
+* **Big Data Technologies**: Familiarity with technologies like Spark or Kafka is often required for handling large-scale data pipelines.
+* **API Development**: You'll be building APIs to serve your models, so experience with frameworks like FastAPI or Flask is important.
 
 ### Career Paths and Salaries
 
@@ -64,8 +64,8 @@ An AI engineer's path often looks more like a traditional software engineering l
 
 So, how do you choose? It really comes down to what you enjoy doing.
 
-*   **Choose Data Science if**: You love statistics, research, and the thrill of discovery. You enjoy spending your time exploring data, finding hidden patterns, and using those insights to tell a story. You are more interested in the "what" and "why" than the "how."
-*   **Choose AI Engineering if**: You love building things. You enjoy software engineering, system design, and the challenge of creating reliable, scalable systems. You get satisfaction from seeing a model you've deployed handle significant real-world requests. You are more interested in the "how" than the "why."
+* **Choose Data Science if**: You love statistics, research, and the thrill of discovery. You enjoy spending your time exploring data, finding hidden patterns, and using those insights to tell a story. You are more interested in the "what" and "why" than the "how."
+* **Choose AI Engineering if**: You love building things. You enjoy software engineering, system design, and the challenge of creating reliable, scalable systems. You get satisfaction from seeing a model you've deployed handle significant real-world requests. You are more interested in the "how" than the "why."
 
 Ultimately, both roles are critical to the success of any modern data-driven organization. The best teams have data scientists and AI engineers working closely together, with the data scientist providing the models and the AI engineer building the systems that bring them to life.
 

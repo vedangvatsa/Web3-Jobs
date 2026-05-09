@@ -18,11 +18,11 @@ The story of Ali Baba's cave serves as an analogy to illustrate how Zero-Knowled
 ### The Scenario:
 - **Peggy (the Prover)** seeks to prove to **Victor (the Verifier)** her knowledge of a secret phrase without revealing it.
 - **The Process:**
-  1. Victor remains outside the cave, unable to see which path Peggy chooses.
-  2. Peggy enters the cave and takes either Path A or Path B.
-  3. After Peggy enters, Victor randomly calls out, “Come out of Path A!” or “Come out of Path B!”
-  4. If Peggy knows the secret phrase, she can easily comply. If she took Path B and Victor calls for Path A, she can open the magic door and emerge from Path A.
-  5. If she does not know the phrase, she faces a 50% chance of guessing the correct path to exit.
+ 1. Victor remains outside the cave, unable to see which path Peggy chooses.
+ 2. Peggy enters the cave and takes either Path A or Path B.
+ 3. After Peggy enters, Victor randomly calls out, “Come out of Path A!” or “Come out of Path B!”
+ 4. If Peggy knows the secret phrase, she can easily comply. If she took Path B and Victor calls for Path A, she can open the magic door and emerge from Path A.
+ 5. If she does not know the phrase, she faces a 50% chance of guessing the correct path to exit.
 
 ### The Proof:
 Repeating this process multiple times reduces the likelihood that Peggy is merely lucky. For example, if Peggy successfully emerges from the correct path multiple times, Victor can statistically conclude that she knows the phrase, despite never learning it.
@@ -32,7 +32,7 @@ Repeating this process multiple times reduces the likelihood that Peggy is merel
 A valid Zero-Knowledge Proof system must satisfy three essential properties:
 
 1. **Completeness:** When the statement is true, an honest prover can always convince an honest verifier. If Peggy knows the secret phrase, she will consistently pass the test.
-  
+
 2. **Soundness:** If the statement is false, a dishonest prover cannot convince the verifier of its truth, except with a very low probability. If Peggy does not know the secret, she will eventually be caught.
 
 3. **Zero-Knowledge:** The verifier gains no information beyond the affirmation that the statement is true. Victor learns that Peggy knows the phrase without any details about the phrase itself.
@@ -46,10 +46,10 @@ The ability to validate claims without revealing underlying data has substantial
 Blockchains like [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) operate transparently, meaning every transaction is publicly accessible. ZKPs can transform this model.
 
 - **Case Study: Zcash:** This cryptocurrency employs zk-SNARKs (Zero-Knowledge Succinct Non-Interactive Argument of Knowledge) to facilitate "shielded transactions."
-  
+
 - **Functionality:** When a user sends Zcash, the transaction is logged on the public blockchain. However, the sender's identity, recipient's identity, and transaction amount remain encrypted. The transaction includes a ZK proof that validates:
-  - The sender possesses sufficient funds.
-  - The sender has not double-spent their coins.
+ - The sender possesses sufficient funds.
+ - The sender has not double-spent their coins.
 
 As a result, the network verifies the transaction's validity without accessing any sensitive details, thus ensuring financial privacy.
 
@@ -58,10 +58,10 @@ As a result, the network verifies the transaction's validity without accessing a
 ZK-Rollups represent one of the most impactful current applications of ZKPs. They play a key role in scaling Ethereum.
 
 - **Mechanism:**
-  1. A Layer 2 solution processes thousands of transactions off-chain, where processing is faster and cheaper.
-  2. These transactions are consolidated into a single batch.
-  3. A compact ZK proof is generated to demonstrate that all transactions in the batch were valid.
-  4. This single transaction and its proof are submitted to the Ethereum mainnet.
+ 1. A Layer 2 solution processes thousands of transactions off-chain, where processing is faster and cheaper.
+ 2. These transactions are consolidated into a single batch.
+ 3. A compact ZK proof is generated to demonstrate that all transactions in the batch were valid.
+ 4. This single transaction and its proof are submitted to the Ethereum mainnet.
 
 ### Result:
 The Ethereum network only needs to validate one small proof instead of executing thousands of individual transactions, allowing for significant scalability without sacrificing security. Leading projects in this area include **zkSync** and **Polygon zkEVM**.
@@ -79,4 +79,3 @@ Zero-Knowledge Proofs represent a significant advancement in cryptography over t
 ## Importance for Professionals
 
 Grasping Zero-Knowledge Proofs is vital for career advancement, especially within the fast-changing tech sector. Professionals who understand and apply this knowledge can distinguish themselves, potentially leading to higher salaries and faster career progression. This is particularly relevant in Web3 environments, where collaborative communication is essential.
-

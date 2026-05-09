@@ -37,13 +37,13 @@ Entering a negotiation without knowledge of the market rate for your position is
 Compensation extends beyond base salary. Numerous elements contribute to a total compensation package that may be negotiable.
 
 **Components to Consider:**
-| Compensation Element        | Description                                              |
+| Compensation Element | Description |
 |-----------------------------|----------------------------------------------------------|
-| Signing Bonus                | A one-time bonus for accepting the job.                 |
-| Performance Bonus            | An annual bonus based on individual performance.         |
-| Stock Options or RSUs       | Equity in the company, particularly valuable in startups.|
-| Vacation Time                | Additional paid time off can be as valuable as extra salary. |
-| Professional Development      | Funding for courses, conferences, or certifications.    |
+| Signing Bonus | A one-time bonus for accepting the job. |
+| Performance Bonus | An annual bonus based on individual performance. |
+| Stock Options or RSUs | Equity in the company, particularly valuable in startups.|
+| Vacation Time | Additional paid time off can be as valuable as extra salary. |
+| Professional Development | Funding for courses, conferences, or certifications. |
 
 If a company cannot adjust the base salary, explore opportunities to negotiate other aspects of the compensation package.
 
@@ -51,15 +51,15 @@ If a company cannot adjust the base salary, explore opportunities to negotiate o
 
 A salary negotiation functions as a business transaction rather than a personal appeal. Your request for a higher salary should stem from market value and the contributions you will make to the organization, not personal financial needs.
 
-*   **Avoid saying:** "I need a higher salary to pay my rent."
-*   **Instead, say:** "Based on my research of similar roles within the industry and my experience in [specific area], I believe a salary of [your number] aligns better with my market value."
+* **Avoid saying:** "I need a higher salary to pay my rent."
+* **Instead, say:** "Based on my research of similar roles within the industry and my experience in [specific area], I believe a salary of [your number] aligns better with my market value."
 
 ### 6. Being Apologetic or Aggressive
 
 Your tone during negotiation plays a important role in its outcome.
 
-*   **Avoid being apologetic.** Requesting what you deserve does not equate to greed. Maintain confidence and clarity.
-*   **Avoid being aggressive or demanding.** An aggressive approach can harm your relationship with your new employer before you even start. Frame discussions as collaborative efforts to reach a mutually beneficial solution.
+* **Avoid being apologetic.** Requesting what you deserve does not equate to greed. Maintain confidence and clarity.
+* **Avoid being aggressive or demanding.** An aggressive approach can harm your relationship with your new employer before you even start. Frame discussions as collaborative efforts to reach a mutually beneficial solution.
 
 ### 7. Not Getting the Final Offer in Writing
 
@@ -67,13 +67,13 @@ Once you reach a verbal agreement, the process does not end there. Always reques
 
 ### FAQs
 
-**What if the company states their offer is non-negotiable?**  
+**What if the company states their offer is non-negotiable?** 
 If the employer asserts their offer is non-negotiable, you must assess whether you can accept it as is. However, you can still negotiate other elements of the compensation package, such as a signing bonus or additional vacation time.
 
-**How do I deal with a lowball offer?**  
+**How do I deal with a lowball offer?** 
 Remain professional when responding to a low offer. You might say, "Thank you for the offer. It is lower than my expectations based on my research and the market rate for this role. Is there any flexibility on the base salary?"
 
-**Is it acceptable to negotiate for an entry-level position?**  
+**Is it acceptable to negotiate for an entry-level position?** 
 Yes. Although entry-level roles may have limited negotiation flexibility, it is still worth attempting to negotiate. Even a modest increase can yield significant benefits over time.
 
 ### Why This Matters
@@ -101,4 +101,3 @@ Avoid making sweeping changes all at once. Start with one small adjustment and b
 #### Step 5: Measure and Adjust
 
 Continuously evaluate your progress. Are you achieving desired outcomes? Adjust your strategy based on feedback and results. Embrace a mindset of continuous improvement.
-

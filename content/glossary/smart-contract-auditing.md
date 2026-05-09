@@ -6,15 +6,15 @@ difficulty: intermediate
 image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: Smart contract auditing is the process of systematically analyzing code for security vulnerabilities, logic flaws, and inefficiencies before deployment to production. Audits are critical for DeFi protocols, bridges, and other high-value smart contracts, protecting billions in user funds.
 relatedTerms:
-  - smart-contract
-  - security-vulnerability
-  - formal-verification
-  - exploit
-  - insurance
+ - smart-contract
+ - security-vulnerability
+ - formal-verification
+ - exploit
+ - insurance
 synonyms:
-  - Code audit
-  - Security audit
-  - Contract review
+ - Code audit
+ - Security audit
+ - Contract review
 ---
 
 - **Smart contract auditing** is the systematic review and analysis of smart contract code to identify security vulnerabilities, logical flaws, and operational risks before deployment. Audits are critical in crypto because once smart contracts are deployed and hold funds, they are immutable. Bugs become permanent, potentially allowing theft of funds.

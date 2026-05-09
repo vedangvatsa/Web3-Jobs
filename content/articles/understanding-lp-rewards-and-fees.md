@@ -74,10 +74,10 @@ Yield farming returns are often advertised with high APR (Annual Percentage Rate
 
 Success as an LP relies on finding pools where the rewards earned exceed the risks of impermanent loss.
 
-| Pool Type        | Example Assets         | Risk of Impermanent Loss | Expected Returns       |
+| Pool Type | Example Assets | Risk of Impermanent Loss | Expected Returns |
 |------------------|-----------------------|--------------------------|------------------------|
-| Stable Pairs     | Stablecoins           | Near zero                | Low (predominantly fees) |
-| Volatile Pairs   | New altcoin/ETH       | High                     | High (fees + yield)    |
+| Stable Pairs | Stablecoins | Near zero | Low (predominantly fees) |
+| Volatile Pairs | New altcoin/ETH | High | High (fees + yield) |
 
 - **Stable Pairs**: In pools containing two stable assets, the risk of impermanent loss is minimal. Returns are primarily driven by trading fees, which typically remain low, making this a low-risk, low-reward strategy.
 
@@ -87,15 +87,14 @@ Success as an LP relies on finding pools where the rewards earned exceed the ris
 
 ### Frequently Asked Questions (FAQ)
 
-**How do I claim my trading fees?**  
+**How do I claim my trading fees?** 
 LPs do not claim trading fees separately. Instead, fees are automatically reinvested into the liquidity pool, raising its value. When withdrawing liquidity, LPs realize their share of the fees, typically receiving more assets than initially deposited (barring any impermanent loss).
 
-**Where does the funding for yield farming rewards originate?**  
+**Where does the funding for yield farming rewards originate?** 
 Yield farming rewards usually come from the project’s treasury or ecosystem fund. A percentage of the total token supply is often allocated for liquidity mining to incentivize early participation in the protocol.
 
-**Are high APYs a warning sign?**  
+**Are high APYs a warning sign?** 
 High APYs are not inherently negative, but they warrant caution. An exorbitant APY is often unsustainable, indicating a new farm with high token emission rates. While such opportunities may yield short-term gains, the value of the reward token can rapidly decline, negating profits.
 
-**How does [concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap) (Uniswap v3) affect LP fees?**  
+**How does [concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap) (Uniswap v3) affect LP fees?** 
 Concentrated liquidity allows LPs to capture a larger share of fees with the same capital investment, provided their liquidity remains within the active trading range. This can enhance fee revenue but also increases exposure to impermanent loss.
-

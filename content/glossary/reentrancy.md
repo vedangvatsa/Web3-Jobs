@@ -54,18 +54,18 @@ How to prevent:
 ```solidity
 // BAD - Vulnerable to reentrancy
 function withdraw() {
-    uint amount = balances[msg.sender];
-    (bool success, ) = msg.sender.call{value: amount}("");
-    require(success);
-    balances[msg.sender] = 0; // Updated AFTER sending funds
+ uint amount = balances[msg.sender];
+ (bool success, ) = msg.sender.call{value: amount}("");
+ require(success);
+ balances[msg.sender] = 0; // Updated AFTER sending funds
 }
 
 // GOOD - Prevents reentrancy
 function withdraw() {
-    uint amount = balances[msg.sender];
-    balances[msg.sender] = 0; // Update BEFORE sending
-    (bool success, ) = msg.sender.call{value: amount}("");
-    require(success);
+ uint amount = balances[msg.sender];
+ balances[msg.sender] = 0; // Update BEFORE sending
+ (bool success, ) = msg.sender.call{value: amount}("");
+ require(success);
 }
 ```
 
@@ -81,14 +81,14 @@ Automated prevention:
 bool locked = false;
 
 modifier nonReentrant() {
-    require(!locked);
-    locked = true;
-    _;
-    locked = false;
+ require(!locked);
+ locked = true;
+ _;
+ locked = false;
 }
 
 function withdraw() nonReentrant {
-    // Reentrancy protected
+ // Reentrancy protected
 }
 ```
 

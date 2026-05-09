@@ -108,4 +108,3 @@ A3: Exiting a meeting when your input is no longer relevant is perfectly accepta
 **Q4: How can I push back against excessive meetings?**
 
 A4: To address meeting overload, model effective asynchronous communication. When you receive a meeting invitation, inquire if the goals can be met through a shared document or Slack conversation. When running your own meetings, keep them concise and focused. Gradually, this may help shift the company culture away from a meeting-centric approach.
-

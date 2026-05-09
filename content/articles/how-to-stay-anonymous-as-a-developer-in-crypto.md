@@ -35,9 +35,9 @@ Your [blockchain](/what-is-a-blockchain) transactions are publicly accessible, m
 
 - **Fresh Wallets:** Set up new [crypto wallets](/how-to-choose-a-crypto-wallet) (e.g., on MetaMask) dedicated to your pseudonymous endeavors.
 - **Anonymous Wallet Funding:** Funding your new wallet anonymously is challenging. Consider these methods:
-  - **Avoid Centralized Exchanges:** Do not transfer crypto from accounts at centralized exchanges that associate with your real name. This creates a permanent link.
-  - **Use Privacy Protocols (Mixers):** Employ a mixer (be aware of legal implications) to break the on-chain link. Withdraw crypto from an exchange to a "burner" wallet, send it through the mixer, then withdraw to your anonymous wallet.
-  - **Compensation for Anonymous Work:** A straightforward method to fund an anonymous wallet is to receive payment for pseudonymous contributions, such as completing a [DAO](/what-is-a-dao) bounty.
+ - **Avoid Centralized Exchanges:** Do not transfer crypto from accounts at centralized exchanges that associate with your real name. This creates a permanent link.
+ - **Use Privacy Protocols (Mixers):** Employ a mixer (be aware of legal implications) to break the on-chain link. Withdraw crypto from an exchange to a "burner" wallet, send it through the mixer, then withdraw to your anonymous wallet.
+ - **Compensation for Anonymous Work:** A straightforward method to fund an anonymous wallet is to receive payment for pseudonymous contributions, such as completing a [DAO](/what-is-a-dao) bounty.
 
 - **Separate Wallets:** Maintain distinct wallets for "doxxed" and "anon" activities. Never transfer funds directly between wallets tied to your real name and your anonymous wallet.
 
@@ -46,9 +46,9 @@ Your [blockchain](/what-is-a-blockchain) transactions are publicly accessible, m
 Off-chain activities can also expose your identity.
 
 - **[GitHub](/building-web3-portfolio):** Create a new GitHub account using your anonymous email. Be cautious when setting your Git configuration locally to prevent accidental commits under your real name.
-    - **Command to check/set local git config:**
-      - `git config user.name`
-      - `git config user.email`
+ - **Command to check/set local git config:**
+ - `git config user.name`
+ - `git config user.email`
 - **Twitter (X):** Establish a new Twitter account to represent your pseudonymous identity.
 - **Discord:** Use a new Discord account. Be cautious about the servers you join, as they can reveal interests that may lead back to your real identity.
 - **Photo Sharing:** Avoid posting images that include EXIF data, which can contain location information. Use a metadata scrubber to eliminate this data before sharing images.
@@ -69,4 +69,3 @@ While anonymity offers advantages, it entails certain trade-offs.
 - **Constant Vigilance:** Maintaining anonymity demands discipline and vigilance. A single lapse can have irreversible consequences.
 
 Achieving anonymity as a developer in Web3 is challenging but feasible. It requires a disciplined approach to operational security, addressing everything from on-chain transactions to social media activities. For those valuing privacy, the effort can yield significant rewards, allowing for uninhibited contributions to the open and permissionless Web3 environment.
-

@@ -19,7 +19,7 @@ A modern Web3 GTM strategy embodies a bottom-up approach that emphasizes communi
 In Web3, the community serves as the product. Community members are co-owners, passionate advocates, and invaluable sources of early feedback. A GTM strategy that fails to prioritize community engagement risks failure.
 
 - **Pre-Launch Phase: Building Community:** The GTM process begins well before any [smart contract](/what-are-smart-contracts) code is written. Initially, focus on building a dedicated community around a shared mission or new idea. Achieve this through high-quality content, participation in ecosystem discussions, and establishing a reputation for expertise. The primary objective is not to attract thousands but to cultivate a core group of true fans who will form the foundation of your community.
-  
+
 - **Launch Phase: Rewarding Early Supporters:** The protocol or [NFT](/what-are-nfts) collection launch should center on community members. This phase rewards your earliest supporters through mechanisms such as **[airdrops](/understanding-airdrop-campaigns-in-web3)** or **allowlists**. By granting these early supporters a meaningful ownership [stake](/how-to-become-a-web3-staking-specialist) in the network, you transform them from mere users into invested owners, aligning their incentives with the project's long-term success.
 
 - **Post-Launch Phase: Enabling Community Growth:** A well-designed protocol incorporates incentive mechanisms that allow the community to drive growth. This may include rewards for liquidity provision, referral programs benefiting participants, or grants from a [DAO](/what-is-a-dao)-controlled treasury to fund community-led initiatives.
@@ -28,13 +28,13 @@ In Web3, the community serves as the product. Community members are co-owners, p
 
 While Web2 companies focus heavily on metrics like Monthly Active Users (MAUs) and Customer Acquisition Cost (CAC), Web3 offers richer on-chain metrics that reflect real economic activity and community health.
 
-| Metric                          | Description                                                                                                         |
+| Metric | Description |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| On-Chain Active Wallets         | The number of unique wallets interacting with smart contracts on a daily, weekly, or monthly basis.                |
-| Protocol Revenue                 | Total fees generated from core activities, such as trading fees for a [DEX](/what-is-a-decentralized-exchange-dex). |
-| Governance Participation Rate    | Percentage of [token](/what-is-a-token) holders voting on governance proposals, indicating community engagement.    |
-| User Retention Cohorts          | Percentage of users active over time, tracked using on-chain data to measure long-term stickiness.                 |
-| Sybil Resistance                 | Analysis to filter out "sybil" activity, ensuring an accurate picture of the unique user base.                     |
+| On-Chain Active Wallets | The number of unique wallets interacting with smart contracts on a daily, weekly, or monthly basis. |
+| Protocol Revenue | Total fees generated from core activities, such as trading fees for a [DEX](/what-is-a-decentralized-exchange-dex). |
+| Governance Participation Rate | Percentage of [token](/what-is-a-token) holders voting on governance proposals, indicating community engagement. |
+| User Retention Cohorts | Percentage of users active over time, tracked using on-chain data to measure long-term stickiness. |
+| Sybil Resistance | Analysis to filter out "sybil" activity, ensuring an accurate picture of the unique user base. |
 
 **[On-chain data analysts](/on-chain-analyst-job)** using tools like Dune Analytics are essential for tracking these metrics and providing insights that inform a successful GTM strategy.
 
@@ -56,7 +56,7 @@ In an intricate and evolving environment, education serves as a marketing strate
 In an environment where code can be easily forked, creating a lasting competitive advantage is important.
 
 - **Liquidity as a Moat:** For [DeFi](/what-is-defi) protocols, deep liquidity serves as a powerful network effect.
-  
+
 - **Community as a Moat:** A passionate and engaged community is an intangible asset that cannot be replicated.
 
 - **Integrations as a Moat:** The more protocols build upon your protocol, the higher the switching costs for users.
@@ -64,4 +64,3 @@ In an environment where code can be easily forked, creating a lasting competitiv
 ### Crafting a Sustainable Web3 Project
 
 A successful Web3 GTM strategy departs from the aggressive growth tactics of Web2. It requires patience, authenticity, and a long-term vision. Focus on building a credible reputation rather than employing aggressive advertising. In Web3, community building is critical; users will naturally gravitate towards you.
-

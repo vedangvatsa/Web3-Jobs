@@ -138,4 +138,4 @@ STARK evolution:
 
 ## Prove Transparently at Scale
 
-STARKs enable transparent cryptographic proofs without trusted setup. Important for future-proof systems. If you're interested in scaling or cryptography, explore [scaling careers](/) at StarkWare and protocol teams. These roles focus on next-generation scaling infrastructure.
+STARKs enable transparent cryptographic proofs without trusted setup. Important for future-proof systems. If you're interested in scaling or cryptography, explore [scaling careers](/) at StarkWare and protocol teams. These roles focus on modern scaling infrastructure.

@@ -54,14 +54,14 @@ The architecture's design ensures that computation occurs at the most suitable l
 
 Edge computing finds applications across various sectors:
 
-| Use Case               | Description                                                                                  |
+| Use Case | Description |
 |-----------------------|----------------------------------------------------------------------------------------------|
-| Smart Factories       | Sensors on equipment predict maintenance needs, preventing costly downtimes.                |
-| Autonomous Vehicles   | Vehicles process sensor data in real time for navigation and collision avoidance.           |
-| Smart Cities          | Edge computing analyzes traffic camera data to optimize traffic light timing and air quality.|
-| Retail                | In-store cameras assess customer behavior and alert staff about inventory shortages.         |
-| Healthcare            | Wearable health monitors evaluate vitals locally and alert healthcare providers only when anomalies arise. |
-| Content Delivery       | Content Delivery Networks (CDNs) use edge computing to cache content close to users, speeding up access. |
+| Smart Factories | Sensors on equipment predict maintenance needs, preventing costly downtimes. |
+| Autonomous Vehicles | Vehicles process sensor data in real time for navigation and collision avoidance. |
+| Smart Cities | Edge computing analyzes traffic camera data to optimize traffic light timing and air quality.|
+| Retail | In-store cameras assess customer behavior and alert staff about inventory shortages. |
+| Healthcare | Wearable health monitors evaluate vitals locally and alert healthcare providers only when anomalies arise. |
+| Content Delivery | Content Delivery Networks (CDNs) use edge computing to cache content close to users, speeding up access. |
 
 ### Frequently Asked Questions
 
@@ -79,4 +79,3 @@ Edge AI involves executing AI and machine learning models directly on edge devic
 
 **5. What is a "cloudlet"?**
 A cloudlet represents a small-scale, localized data center positioned at the network's edge. This concept aligns with the Regional Edge layer of the architecture, serving as a bridge between local edge servers and centralized cloud facilities.
-

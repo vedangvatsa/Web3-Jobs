@@ -50,12 +50,12 @@ As of 2023, DeFi encompasses billions in lending, borrowing, and trading activit
 
 Key players in the DeFi space include:
 
-| Platform  | Type                          | Description                                                       |
+| Platform | Type | Description |
 |-----------|-------------------------------|-------------------------------------------------------------------|
-| Uniswap   | Decentralized Exchange (DEX)  | Largest DEX, facilitating trades between various cryptocurrencies. |
-| Aave      | Lending Platform               | Major player in decentralized lending, allowing users to borrow and lend assets. |
-| Curve     | Stablecoin Exchange            | Specializes in trading between stablecoins and similar-value assets. |
-| MakerDAO  | Stablecoin Generation          | Allows users to create stablecoins backed by cryptocurrency collateral. |
+| Uniswap | Decentralized Exchange (DEX) | Largest DEX, facilitating trades between various cryptocurrencies. |
+| Aave | Lending Platform | Major player in decentralized lending, allowing users to borrow and lend assets. |
+| Curve | Stablecoin Exchange | Specializes in trading between stablecoins and similar-value assets. |
+| MakerDAO | Stablecoin Generation | Allows users to create stablecoins backed by cryptocurrency collateral. |
 
 User engagement within DeFi varies. Some use these services for legitimate financial needs, such as obtaining loans unavailable through traditional banks, while others engage for speculative reasons, seeking profit from price fluctuations.
 
@@ -64,7 +64,7 @@ User engagement within DeFi varies. Some use these services for legitimate finan
 DeFi offers several benefits, particularly in scenarios where traditional finance falls short.
 
 1. **Financial Inclusion**: DeFi does not require identification or credit history. Anyone with cryptocurrency and internet access can participate. This is important for billions lacking banking access.
-  
+
 2. **Transparency**: Traditional banks operate opaquely, leaving customers unaware of their practices. In contrast, DeFi smart contracts are open for public scrutiny. Users can review code and monitor collateral in real-time.
 
 3. **Programmability**: DeFi enables the creation of financial products that are not feasible within traditional finance. Automated investment strategies, asset ownership division, and complex financial instruments can be developed without extensive legal frameworks.
@@ -96,4 +96,3 @@ However, the risks are considerable. Many DeFi projects may fail, and market dyn
 DeFi serves as a viable alternative to traditional finance in certain situations. It excels in areas where traditional systems struggle, such as providing services to unbanked populations, facilitating cross-border transactions without intermediaries, and offering transparency about financial operations.
 
 The DeFi ecosystem is evolving. As infrastructure improves, auditing practices become more thorough, and regulatory frameworks become clearer, the risks associated with fraud and hacks may diminish. However, DeFi is unlikely to completely replace traditional finance. Instead, it will coexist, catering to use cases where decentralization adds significant value.
-
