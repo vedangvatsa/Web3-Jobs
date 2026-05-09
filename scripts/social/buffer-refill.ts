@@ -117,7 +117,8 @@ async function schedulePost(
   text: string,
   imageUrl: string,
   dueAt: string,
-  isInstagram: boolean
+  isInstagram: boolean,
+  videoUrl?: string
 ): Promise<{ success: boolean; duplicate: boolean }> {
   const input: any = {
     channelId,
@@ -127,7 +128,11 @@ async function schedulePost(
     dueAt,
   };
 
-  if (imageUrl) {
+  if (videoUrl) {
+    input.assets = {
+      videos: [{ url: videoUrl }],
+    };
+  } else if (imageUrl) {
     input.assets = {
       images: [{ url: imageUrl, thumbnailUrl: imageUrl }],
     };
@@ -193,12 +198,21 @@ async function run() {
   const REFILL_THRESHOLD = 5;
   const BATCH_SIZE = 5;
 
-  // Generate time slots starting from now
-  const now = new Date();
-  const generateSlots = (count: number): Date[] => {
+  // Generate time slots starting from a given time
+  const generateSlots = (count: number, startTimeStr: string): Date[] => {
     const slots: Date[] = [];
     const hours = [1, 9, 17]; // IST hours
-    const d = new Date(now);
+    
+    let d = new Date();
+    let strictlyAfter = new Date();
+    if (startTimeStr) {
+      const st = new Date(startTimeStr);
+      if (!isNaN(st.getTime()) && st > d) {
+        d = new Date(st);
+        strictlyAfter = new Date(st);
+      }
+    }
+    
     d.setMinutes(0, 0, 0);
 
     while (slots.length < count) {
@@ -220,7 +234,8 @@ async function run() {
           slot.setDate(slot.getDate() - 1);
         }
 
-        if (slot > now && slots.length < count) {
+        const now = new Date();
+        if (slot > now && slot > strictlyAfter && slots.length < count) {
           slots.push(new Date(slot));
         }
       }
@@ -233,7 +248,7 @@ async function run() {
   if (liCount < REFILL_THRESHOLD) {
     const toSchedule = Math.min(BATCH_SIZE, 10 - liCount);
     console.log(`\nRefilling LinkedIn: scheduling up to ${toSchedule} posts...`);
-    const slots = generateSlots(toSchedule);
+    const slots = generateSlots(toSchedule, state.linkedin.lastScheduledAt);
     let scheduled = 0;
 
     for (let i = 0; i < toSchedule; i++) {
@@ -249,21 +264,14 @@ async function run() {
       }
 
       console.log(`  ${post.id} at ${dueAt}`);
-      // Buffer's duplicate detection is aggressive — even appended CTAs don't bypass it.
-      // Solution: Append invisible zero-width characters to make each post unique
-      // without showing any visible date or prefix to readers.
-      const zwChars = ['\u200B', '\u200C', '\u200D', '\uFEFF']; // zero-width space, non-joiner, joiner, BOM
-      const uniqueIdx = (state.linkedin.lastIndex + 1 + i);
-      const uniqueSuffix = Array.from(uniqueIdx.toString(4).padStart(4, '0'))
-        .map(d => zwChars[parseInt(d)])
-        .join('');
-      const uniqueText = `${post.linkedin.text}${uniqueSuffix}`;
+      const uniqueText = post.linkedin.text;
       const result = await schedulePost(
         LINKEDIN_ID,
         uniqueText,
         post.imageUrl || '',
         dueAt,
-        false
+        false,
+        post.videoUrl || undefined
       );
 
       if (result.success) {
@@ -288,7 +296,7 @@ async function run() {
   if (igCount < REFILL_THRESHOLD) {
     const toSchedule = Math.min(BATCH_SIZE, 10 - igCount);
     console.log(`\nRefilling Instagram: scheduling up to ${toSchedule} posts...`);
-    const slots = generateSlots(toSchedule);
+    const slots = generateSlots(toSchedule, state.instagram.lastScheduledAt);
     let scheduled = 0;
     let skippedNoImage = 0;
 
@@ -299,9 +307,9 @@ async function run() {
       const post = schedule[shuffledIdx];
       const dueAt = slots[i].toISOString();
 
-      // Skip posts without imageUrl — Instagram requires images
-      if (!post.imageUrl) {
-        console.log(`  SKIP ${post.id} (no imageUrl — Instagram requires images)`);
+      // Skip posts without imageUrl or videoUrl — Instagram requires media
+      if (!post.imageUrl && !post.videoUrl) {
+        console.log(`  SKIP ${post.id} (no imageUrl/videoUrl — Instagram requires media)`);
         skippedNoImage++;
         continue;
       }
@@ -318,9 +326,10 @@ async function run() {
       const result = await schedulePost(
         INSTAGRAM_ID,
         post.instagram.text,
-        post.imageUrl,
+        post.imageUrl || '',
         dueAt,
-        true
+        true,
+        post.videoUrl || undefined
       );
 
       if (result.success) {

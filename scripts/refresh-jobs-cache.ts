@@ -175,6 +175,16 @@ async function refreshJobsCache() {
 
   // --- Greenhouse API Sources ---
   const GREENHOUSE_BOARDS = [
+    { board: 'guild', company: 'Guild' },
+
+    { board: 'stripe', company: 'Stripe' },
+
+    { board: 'messari', company: 'Messari' },
+
+    { board: 'gearbox', company: 'Gearbox' },
+
+    { board: 'axiom', company: 'Axiom' },
+
     { board: 'coinbase', company: 'Coinbase' },
     { board: 'ripple', company: 'Ripple' },
     { board: 'robinhood', company: 'Robinhood' },
@@ -229,6 +239,22 @@ async function refreshJobsCache() {
     { board: 'woo', company: 'WOO Network' },
     { board: 'shakepay', company: 'Shakepay' },
     { board: 'polychaincapital', company: 'Polychain Capital' },
+    // --- Massive May 2026 expansion ---
+    { board: 'falconx', company: 'FalconX' },
+    { board: 'gsrmarkets', company: 'GSR Markets' },
+    { board: 'dvtrading', company: 'DV Trading' },
+    { board: 'alpaca', company: 'Alpaca' },
+    { board: 'dfinity', company: 'DFINITY' },
+    { board: 'sei', company: 'Sei' },
+    { board: 'magic', company: 'Magic' },
+    { board: 'helium', company: 'Helium' },
+    { board: 'janestreet', company: 'Jane Street' },
+    { board: 'galaxy', company: 'Galaxy Digital' },
+    { board: 'genesis', company: 'Genesis' },
+    { board: 'foundry', company: 'Foundry' },
+    // --- CoinGecko May 2026 expansion ---
+    { board: 'sonic', company: 'Sonic' },
+    { board: 'spire', company: 'Spire' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -272,6 +298,12 @@ async function refreshJobsCache() {
 
   // --- Lever API Sources ---
   const LEVER_BOARDS = [
+    { board: 'crypto', company: 'Crypto' },
+
+    { board: 'zeta', company: 'Zeta' },
+
+    { board: 'cleanspark', company: 'Cleanspark' },
+
     { board: 'immutable', company: 'Immutable' },
     { board: 'celestia', company: 'Celestia' },
     { board: 'starknet', company: 'StarkNet' },
@@ -308,6 +340,14 @@ async function refreshJobsCache() {
     { board: 'bigtime', company: 'Big Time' },
     // --- Apr 2026 expansion (wave 4) ---
     { board: 'newton', company: 'Newton' },
+    // --- Massive May 2026 expansion ---
+    { board: 'coins', company: 'Coins.ph' },
+    { board: 'coinmarketcap', company: 'CoinMarketCap' },
+    { board: 'zerion', company: 'Zerion' },
+    { board: 'aragon', company: 'Aragon' },
+    // --- CoinGecko May 2026 expansion ---
+    { board: 'mantra', company: 'MANTRA' },
+    { board: 'neon', company: 'Neon EVM' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -348,6 +388,16 @@ async function refreshJobsCache() {
 
   // --- Ashby API Sources ---
   const ASHBY_BOARDS = [
+    { board: 'ramp', company: 'Ramp' },
+
+    { board: 'jump', company: 'Jump' },
+
+    { board: 'jane', company: 'Jane' },
+
+    { board: 'electric', company: 'Electric' },
+
+    { board: 'tokenterminal', company: 'Tokenterminal' },
+
     // L1/L2 Chains
     { board: 'polygon-labs', company: 'Polygon Labs' },
     { board: 'mystenlabs', company: 'Mysten Labs' },
@@ -427,6 +477,11 @@ async function refreshJobsCache() {
     { board: 'delphi', company: 'Delphi Digital' },
     { board: 'variant-fund', company: 'Variant Fund' },
     { board: 'flipsidecrypto', company: 'Flipside Crypto' },
+    // --- Massive May 2026 expansion ---
+    { board: 'biconomy', company: 'Biconomy' },
+    { board: 'dapper', company: 'Dapper Labs' },
+    { board: 'protocol', company: 'Protocol Labs' },
+    { board: 'cyberconnect', company: 'CyberConnect' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -462,6 +517,90 @@ async function refreshJobsCache() {
     } catch (error: any) {
       feedsFailed++;
       console.warn(`  ❌ Ashby (${ab.company}): ${error.message}`);
+    }
+  }
+
+  // --- Workable API Sources ---
+  const WORKABLE_BOARDS = [
+    { board: 'aethir', company: 'Aethir' },
+  ];
+
+  for (const wb of WORKABLE_BOARDS) {
+    try {
+      const res = await fetch(`https://apply.workable.com/api/v1/widget/accounts/${wb.board}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json() as { jobs: Array<{ title: string; url: string; id: string; published_on: string; department: string; location: { city: string; country: string } }> };
+
+      let added = 0;
+      for (const job of data.jobs) {
+        const title = cleanTitle(job.title);
+        const company = normalizeCompany(wb.company);
+        const link = `https://apply.workable.com/${wb.board}/j/${job.id}/`;
+        const date = job.published_on || new Date().toISOString();
+
+        if (link && title && title.split(' ').length <= 8 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
+          const key = createUniqueKey(title, company);
+          if (!jobMap.has(key)) {
+            jobMap.set(key, {
+              id: job.id,
+              title,
+              company,
+              link,
+              date,
+              source: `Workable: ${wb.company}`,
+            });
+            added++;
+          }
+        }
+      }
+      feedsOk++;
+      console.log(`  ✅ Workable (${wb.company}): ${data.jobs.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Workable (${wb.company}): ${error.message}`);
+    }
+  }
+
+  // --- Recruitee API Sources ---
+  const RECRUITEE_BOARDS = [
+    { board: 'circle', company: 'Circle' },
+    { board: 'celestia', company: 'Celestia' },
+    { board: 'harmony', company: 'Harmony' },
+  ];
+
+  for (const rt of RECRUITEE_BOARDS) {
+    try {
+      const res = await fetch(`https://${rt.board}.recruitee.com/api/offers`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json() as { offers: Array<{ title: string; careers_url: string; id: number; published_at: string; department: string; location: string }> };
+
+      let added = 0;
+      for (const offer of data.offers) {
+        const title = cleanTitle(offer.title);
+        const company = normalizeCompany(rt.company);
+        const link = offer.careers_url;
+        const date = offer.published_at || new Date().toISOString();
+
+        if (link && title && title.split(' ').length <= 8 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
+          const key = createUniqueKey(title, company);
+          if (!jobMap.has(key)) {
+            jobMap.set(key, {
+              id: String(offer.id),
+              title,
+              company,
+              link,
+              date,
+              source: `Recruitee: ${rt.company}`,
+            });
+            added++;
+          }
+        }
+      }
+      feedsOk++;
+      console.log(`  ✅ Recruitee (${rt.company}): ${data.offers.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Recruitee (${rt.company}): ${error.message}`);
     }
   }
 
