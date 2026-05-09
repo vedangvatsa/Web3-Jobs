@@ -55,15 +55,15 @@ It is also a good practice to send a farewell email to the broader team or compa
 
 To ensure a smooth departure, use the following checklist:
 
-| Task                                             | Status       | Notes                         |
+| Task | Status | Notes |
 |--------------------------------------------------|--------------|-------------------------------|
-| Provide two weeks' notice                        | Not Started  | Check employment contract      |
-| Schedule a meeting with your manager             | Not Started  | Prepare resignation reasons    |
-| Draft a formal resignation letter                | Not Started  | Include last working day       |
-| Create a transition document                     | Not Started  | Include key contacts           |
-| Organize digital files                           | Not Started  | Prioritize important projects  |
-| Offer training to your replacement               | Not Started  | Coordinate schedule            |
-| Send farewell email                              | Not Started  | Include contact information     |
+| Provide two weeks' notice | Not Started | Check employment contract |
+| Schedule a meeting with your manager | Not Started | Prepare resignation reasons |
+| Draft a formal resignation letter | Not Started | Include last working day |
+| Create a transition document | Not Started | Include key contacts |
+| Organize digital files | Not Started | Prioritize important projects |
+| Offer training to your replacement | Not Started | Coordinate schedule |
+| Send farewell email | Not Started | Include contact information |
 
 Leaving a job on good terms involves professionalism and foresight. By managing your exit gracefully, you ensure that you are remembered as a valuable and respectful team member, preserving your professional reputation and keeping doors open for the future.
 
@@ -80,4 +80,3 @@ Be honest yet professional during your exit interview. This setting provides an 
 **Is it appropriate to connect with former colleagues on social media?**
 
 Connecting on LinkedIn is advisable for maintaining your professional network. For other platforms like Instagram or Twitter, use discretion based on your relationship with each colleague.
-

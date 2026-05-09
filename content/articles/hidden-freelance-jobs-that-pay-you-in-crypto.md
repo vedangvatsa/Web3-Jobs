@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-29"
 ---
 
-For many professionals, entering a [Web3](/what-is-web3) career starts outside traditional job applications. It often begins as a side hustle during evenings or weekends. Individuals contribute to projects they find interesting, complete "bounties" for a [DAO](/what-is-a-dao), or write insightful blog posts that garner community attention. The transparent and permissionless nature of the Web3 ecosystem has built a vibrant gig economy, allowing anyone to contribute and earn without a formal job.
+For many professionals, entering a [Web3](/what-is-web3) career starts outside traditional job applications. It often begins as a side hustle during evenings or weekends. Individuals contribute to projects they find interesting, complete "bounties" for a [DAO](/what-is-a-dao), or write insightful blog posts that garner community attention. The transparent and permissionless nature of the Web3 ecosystem has built a active gig economy, allowing anyone to contribute and earn without a formal job.
 
 This contribution-based pathway serves more than just as an extra source of income; it is an effective strategy for building a reputation, refining skills, and ultimately securing a full-time position. This guide provides an overview of Web3 gigs, detailing how to find your initial bounty and transition your freelance work into a sustainable career.
 
@@ -32,20 +32,20 @@ Bounties represent a primary entry point into the Web3 gig economy. A bounty is 
 
 1. **DAO Discord Servers:** Start here. Join a DAO that interests you and explore their `#bounties` or `#contribute` channels to discover available tasks.
 2. **Bounty Platforms:** Several platforms aggregate bounties from across the Web3 ecosystem:
-   - **Dework:** Functions like a "Trello for DAOs," organizing bounties on Kanban boards.
-   - **Layer3:** Gamifies the contribution process, allowing you to earn rewards and build your on-chain reputation by completing tasks for various protocols.
-   - **Gitcoin:** Focuses on funding public goods and features bounties from various projects.
+ - **Dework:** Functions like a "Trello for DAOs," organizing bounties on Kanban boards.
+ - **Layer3:** Gamifies the contribution process, allowing you to earn rewards and build your on-chain reputation by completing tasks for various protocols.
+ - **Gitcoin:** Focuses on funding public goods and features bounties from various projects.
 
 **Types of Bounties:**
 
 Bounties are available across a wide range of skills beyond coding, including:
 
-| Type       | Examples                                                      |
+| Type | Examples |
 |------------|--------------------------------------------------------------|
-| Technical  | Fix a bug in our [smart contract](/what-are-smart-contracts), write a test case, build a Telegram bot. |
-| Content    | Write a blog post, create a Twitter thread, translate documentation. |
-| Design     | Design a POAP for a community call, create a Twitter banner. |
-| Community  | Summarize governance calls, welcome new members to Discord.  |
+| Technical | Fix a bug in our [smart contract](/what-are-smart-contracts), write a test case, build a Telegram bot. |
+| Content | Write a blog post, create a Twitter thread, translate documentation. |
+| Design | Design a POAP for a community call, create a Twitter banner. |
+| Community | Summarize governance calls, welcome new members to Discord. |
 
 **How to Succeed with Bounties:**
 
@@ -67,4 +67,3 @@ Consistently completing bounties helps build your reputation within a DAO. As yo
 5. **The Full-Time Offer:** After consistent, impactful work, the DAO or its core team may offer you a full-time position. At this point, the [interview](/how-to-prepare-for-job-interview) becomes a formality; your proof of work has already established your credibility.
 
 Transitioning from a side hustle to a career in Web3 requires active participation. Focus on identifying a community that aligns with your values, demonstrating your worth through tangible contributions, and building a reputation as a skilled and reliable operator. In this new work environment, you do not need permission to start. The door is open; walk through it and begin building.
-

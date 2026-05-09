@@ -70,14 +70,14 @@ Degens actively participate in the NFT market, purchasing tokens from lesser-kno
 
 Degens engage in [DAO](/what-is-a-dao) governance, not out of ideological commitment, but to manipulate voting outcomes that favor their holdings. They may vote for decisions that increase the value of their tokens.
 
-| Activity                  | Description                                                                 | Risk Level    |
+| Activity | Description | Risk Level |
 |---------------------------|-----------------------------------------------------------------------------|---------------|
-| Yield Farming             | Providing liquidity for high APY DeFi protocols                            | High          |
-| Use Trading          | Trading with margin to amplify potential returns                            | Very High     |
-| Aping Into New Tokens     | Buying new tokens to capitalize on early investment potential               | Very High     |
-| Complex DeFi Strategies   | Creating multi-step trades to exploit price discrepancies                  | High          |
-| NFT Speculation           | Investing in obscure NFTs with the hope of high future valuations          | High          |
-| Governance Gaming         | Participating in DAOs to influence decisions for personal gain             | Moderate      |
+| Yield Farming | Providing liquidity for high APY DeFi protocols | High |
+| Use Trading | Trading with margin to amplify potential returns | Very High |
+| Aping Into New Tokens | Buying new tokens to capitalize on early investment potential | Very High |
+| Complex DeFi Strategies | Creating multi-step trades to exploit price discrepancies | High |
+| NFT Speculation | Investing in obscure NFTs with the hope of high future valuations | High |
+| Governance Gaming | Participating in DAOs to influence decisions for personal gain | Moderate |
 
 ## The Risks Involved
 
@@ -140,4 +140,3 @@ However, if you find yourself:
 Understanding the role of degens is important for anyone considering a [Web3 career](/web3-jobs-for-beginners). Your users and colleagues will likely include degens. The Web3 culture, heavily influenced by the degen mindset, emphasizes fast action, risk-taking, and embracing volatility.
 
 Acknowledging this culture equips you to engage with Web3 professionally and to connect with the community more effectively.
-

@@ -48,7 +48,6 @@ Web3 enables creators to earn revenue directly from their audiences, minimizing 
 
 ### Challenges Ahead
 
-Transitioning to a Web3 advertising model poses significant challenges. Established Web2 companies will resist changes that threaten their dominance. Additionally, the user experience of managing data permissions and engaging with crypto systems must improve for widespread adoption.
+Transitioning to a Web3 advertising model poses significant challenges. Established Web2 companies will resist changes that threaten their dominance. the user experience of managing data permissions and engaging with crypto systems must improve for widespread adoption.
 
 Nevertheless, the trend toward enhanced privacy is evident. Regulations like GDPR and Apple's App Tracking Transparency are already challenging the traditional surveillance model. Web3 offers a technological framework for a new advertising model built on user consent, respect for privacy, and equitable value distribution across the internet. For marketers, the future will focus on rewarding users for their attention rather than tracking them.
-

@@ -19,38 +19,37 @@ The Web3 ecosystem in Mumbai emphasizes DeFi, institutional crypto services, and
 Mumbai's crypto sector is deeply intertwined with its strong financial industry.
 
 - **DeFi and FinTech Integration**: The city attracts a wealth of financial professionals, positioning it as a leading center for DeFi protocols, crypto hedge funds, and on-chain asset management platforms. These projects often require advanced financial knowledge.
-- **Institutional Crypto Adoption**: Mumbai stands at the forefront of institutional crypto adoption in India. Key players developing custody solutions, trading desks, and platforms for tokenizing real-world assets (RWAs) primarily operate from this city.
+- **Institutional Crypto Adoption**: Mumbai stands leading institutional crypto adoption in India. Key players developing custody solutions, trading desks, and platforms for tokenizing real-world assets (RWAs) primarily operate from this city.
 - **Venture Capital Concentration**: As the financial core of India, Mumbai hosts numerous venture capital and private equity funds. A growing number are launching dedicated Web3 funds, which provide essential capital to local startups.
 - **Global Financial Gateway**: The city serves as the primary base for international banks and financial firms operating in India. Many are expanding their digital asset teams in Mumbai, creating high-value job opportunities for professionals skilled in both traditional and decentralized finance.
 
 ### In-Demand Roles and Salary Expectations
 
-The job market in Mumbai favors professionals with a blend of finance and technology skills. Salaries reflect the high demand for specialized expertise and the city's elevated cost of living.
+The job market in Mumbai favors professionals with a blend of finance and technology skills. Salaries reflect the high demand for specialized expertise and the city's improve cost of living.
 
-| Role                                    | Experience Level        | Salary Range                     |
+| Role | Experience Level | Salary Range |
 |-----------------------------------------|-------------------------|----------------------------------|
-| DeFi Quantitative Analyst               | 3+ years                | Significant compensation per annum      |
-| Smart Contract Developer (DeFi Focus)   | Mid-Level               | Significant compensation per annum       |
-|                                         | Senior                  | Significant compensation per annum      |
+| DeFi Quantitative Analyst | 3+ years | Significant compensation per annum |
+| Smart Contract Developer (DeFi Focus) | Mid-Level | Significant compensation per annum |
+| | Senior | Significant compensation per annum |
 | Institutional Sales & Business Development | Experienced Professional | Significant compensation, plus commission |
-| Legal & Compliance (Financial Regulation) | Experienced Professional | Significant compensation per annum      |
-| Product Manager (FinTech/DeFi)         | Senior                  | Significant compensation per annum      |
+| Legal & Compliance (Financial Regulation) | Experienced Professional | Significant compensation per annum |
+| Product Manager (FinTech/DeFi) | Senior | Significant compensation per annum |
 
 ### Building a Web3 Career in Mumbai
 
 1. **Use Your TradFi Experience**: Your background in investment banking, asset management, trading, or financial regulation is a valuable asset. Highlight your understanding of financial markets and risk management on your [resume](/how-to-build-a-web3-resume-that-stands-out) and in interviews, demonstrating how you’ve applied this knowledge in the Web3 sector.
-   
+
 2. **Engage with DeFi Platforms**: To contribute effectively to DeFi products, you must have firsthand experience using them. Engage actively within the ecosystem by providing liquidity on a [DEX](/what-is-a-decentralized-exchange-dex), obtaining loans on platforms like Aave, or exploring derivatives protocols. Your practical experience enhances your profile.
 
 3. **Create a Public Financial Analysis Portfolio**: Develop a portfolio showcasing your financial analysis skills within the Web3 domain. Start a blog or a Substack to publish your insights on DeFi protocols.
-    - **Project Ideas**: 
-      - Compare the risk parameters of two lending protocols.
-      - Create a financial sustainability model for a protocol's tokenomics.
-      - Develop a Dune dashboard tracking key financial metrics in a specific DeFi sector.
+ - **Project Ideas**: 
+ - Compare the risk parameters of two lending protocols.
+ - Create a financial sustainability model for a protocol's tokenomics.
+ - Develop a Dune dashboard tracking key financial metrics in a specific DeFi sector.
 
 4. **Network within FinTech and Crypto Communities**: Attend events that merge the TradFi and Web3 sectors. Your ability to communicate fluently in both domains will enhance your value as a connector and candidate.
 
 ### Finding Your Next Web3 Job
 
 Explore opportunities in Mumbai through our [Web3 job board](/jobs), a premier platform featuring curated positions from leading companies, [DAOs](/what-is-a-dao), and protocols. Roles are available across various disciplines, including development, marketing, and product management. Your next career move in the decentralized economy is accessible through our listings.
-

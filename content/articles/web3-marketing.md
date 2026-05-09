@@ -214,4 +214,3 @@ When applying:
 **Step 5: Start small**
 
 Consider starting at smaller projects or part-time roles. Build experience and credibility. Move to larger opportunities.
-

@@ -27,7 +27,7 @@ Traditional maritime trade often involves numerous intermediaries, extensive pap
 - Processing times of 2-3 weeks
 - Billions in annual friction costs
 
-Blockchain technology can streamline this entire process. An immutable ledger can track containers, verify documentation, and facilitate automatic payments via [smart contracts](/what-are-smart-contracts). For a port city like Djibouti, these factors create immediate and high-value use cases.
+Blockchain technology can simplify this entire process. An immutable ledger can track containers, verify documentation, and facilitate automatic payments via [smart contracts](/what-are-smart-contracts). For a port city like Djibouti, these factors create immediate and high-value use cases.
 
 ### Regional Financial Hub Ambitions
 
@@ -373,4 +373,3 @@ Djibouti is one of Africa's more expensive nations:
 - **Week 1-2:** Write a detailed proposal for a blockchain solution tailored to the port.
 - **Week 3:** Submit your proposal to DPFZA or the relevant government agency.
 - **Week 4:** Apply for positions and attend regional Web3 or trade finance events.
-

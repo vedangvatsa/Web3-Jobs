@@ -85,12 +85,12 @@ Consider offering value in return, such as assistance with their projects or con
 
 It is essential to have **multiple mentors** to cover various aspects of your career. Here’s a breakdown of different types of mentors and where to find them:
 
-| Type                | Focus                                  | Where to Find                               |
+| Type | Focus | Where to Find |
 |---------------------|----------------------------------------|---------------------------------------------|
-| **Technical Mentor**| Code reviews, architecture             | [GitHub](/building-web3-portfolio), open-source projects |
-| **Business Mentor** | Strategy, fundraising                  | Accelerators, experienced founders          |
-| **Career Mentor**   | Growth, opportunities                  | Your existing network, company connections  |
-| **Domain Expert**   | Specifics of [DeFi](/what-is-defi), [NFTs](/what-are-nfts), or AI | Discord, Twitter, hackathons               |
+| **Technical Mentor**| Code reviews, architecture | [GitHub](/building-web3-portfolio), open-source projects |
+| **Business Mentor** | Strategy, fundraising | Accelerators, experienced founders |
+| **Career Mentor** | Growth, opportunities | Your existing network, company connections |
+| **Domain Expert** | Specifics of [DeFi](/what-is-defi), [NFTs](/what-are-nfts), or AI | Discord, Twitter, hackathons |
 
 ## Establishing a Mentorship Agreement
 
@@ -116,4 +116,3 @@ Mentorship is a two-way street. You do not have to wait until you are an expert 
 Mentors are prevalent in the Web3 community; building these relationships can significantly enhance your career trajectory.
 
 ## The Web3 Employment Sector
-

@@ -66,10 +66,9 @@ The demand for expertise in smart contract development, protocol security, and t
 
 The dynamics of the [Web3 job](/web3-jobs-for-beginners) market differ significantly from those of Web2:
 
-| Aspect                  | Web2                                 | Web3                                 |
+| Aspect | Web2 | Web3 |
 |------------------------|--------------------------------------|--------------------------------------|
-| **Compensation**       | Standard base salary                 | Generally higher base salary, bonuses   |
-| **Work Environment**    | Hybrid or in-office                  | Fully remote                          |
-| **Career Progression** | Slower due to established hierarchy   | Rapid advancement due to scaling      |
-| **Equity Opportunities**| Limited options                     | Standard token and equity packages    |
-
+| **Compensation** | Standard base salary | Generally higher base salary, bonuses |
+| **Work Environment** | Hybrid or in-office | Fully remote |
+| **Career Progression** | Slower due to established hierarchy | Rapid advancement due to scaling |
+| **Equity Opportunities**| Limited options | Standard token and equity packages |

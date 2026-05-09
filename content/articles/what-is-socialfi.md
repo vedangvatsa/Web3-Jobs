@@ -76,12 +76,12 @@ Successful SocialFi projects are identifying product-market fit within specific 
 
 The most promising use cases to date include:
 
-| Use Case                     | Description                                                                                          |
+| Use Case | Description |
 |------------------------------|------------------------------------------------------------------------------------------------------|
-| Niche communities             | Direct monetization by specific interest groups.                                                    |
-| Artists and musicians         | Selling limited edition content and NFTs directly to fans.                                         |
-| Researchers and experts       | Creating token-gated access to research and exclusive content.                                      |
-| Gaming communities            | Establishing social experiences that incorporate financial components.                               |
+| Niche communities | Direct monetization by specific interest groups. |
+| Artists and musicians | Selling limited edition content and NFTs directly to fans. |
+| Researchers and experts | Creating token-gated access to research and exclusive content. |
+| Gaming communities | Establishing social experiences that incorporate financial components. |
 
 Mainstream adoption of SocialFi remains several years away. However, the infrastructure continues to improve, with more creators experimenting with these tools.
 
@@ -96,4 +96,3 @@ Understanding SocialFi is pertinent for anyone considering careers in Web3 acros
 **Creator services** present a growing opportunity. Building tools that assist creators in launching tokens, managing communities, or monetizing effectively holds significant value.
 
 **Risk and compliance** roles become essential as projects must navigate interactions with securities regulations.
-

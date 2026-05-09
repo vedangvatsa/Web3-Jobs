@@ -50,9 +50,8 @@ The responsibilities of a Web3 FPM include:
 2. **Gain Hands-On Experience in DeFi**: Practical experience with a variety of DeFi protocols is essential. Engage in activities such as providing liquidity, taking out loans, and yield farming. This experience becomes your primary credential.
 
 3. **Develop a Public Portfolio**: 
-   - Analyze the design of a DeFi protocol, highlighting its strengths and weaknesses.
-   - Create a Dune Analytics dashboard to track key financial metrics.
-   - Draft a governance proposal for a major DeFi [DAO](/what-is-a-dao) aimed at enhancing risk parameters.
+ - Analyze the design of a DeFi protocol, highlighting its strengths and weaknesses.
+ - Create a Dune Analytics dashboard to track key financial metrics.
+ - Draft a governance proposal for a major DeFi [DAO](/what-is-a-dao) aimed at enhancing risk parameters.
 
 The role of a Web3 Financial Product Manager is both challenging and rewarding. It provides an opportunity to shape a more transparent and efficient financial system through new product design.
-

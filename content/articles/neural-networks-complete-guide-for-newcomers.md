@@ -65,28 +65,27 @@ This depth enables neural networks to tackle sophisticated tasks like natural la
 
 Neural networks find extensive applications across various sectors. Here are some notable examples:
 
-| Application Area        | Description                                                                                      | Example Use Case                            |
+| Application Area | Description | Example Use Case |
 |-------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------|
-| Image Recognition       | Identifying and classifying objects within images.                                              | Facial recognition systems in smartphones. |
-| Natural Language Processing | Understanding and generating human language.                                                  | Chatbots and virtual assistants.           |
-| Financial Services      | Detecting fraud and assessing credit risk.                                                      | Anomaly detection in transaction records.  |
-| Healthcare              | Analyzing medical images and predicting patient outcomes.                                        | Diagnosing diseases through radiology images. |
-| Autonomous Vehicles     | Enabling vehicles to perceive their environment and make driving decisions.                     | Self-driving car navigation systems.       |
+| Image Recognition | Identifying and classifying objects within images. | Facial recognition systems in smartphones. |
+| Natural Language Processing | Understanding and generating human language. | Chatbots and virtual assistants. |
+| Financial Services | Detecting fraud and assessing credit risk. | Anomaly detection in transaction records. |
+| Healthcare | Analyzing medical images and predicting patient outcomes. | Diagnosing diseases through radiology images. |
+| Autonomous Vehicles | Enabling vehicles to perceive their environment and make driving decisions. | Self-driving car navigation systems. |
 
 ### Frequently Asked Questions
 
-**1. What differentiates a neural network from a traditional algorithm?**  
+**1. What differentiates a neural network from a traditional algorithm?** 
 An algorithm represents a specific set of rules or instructions for problem-solving. In contrast, a neural network is a model that learns from data rather than relying on predefined rules. The training process for a neural network, such as backpropagation, is an algorithm, but the neural network itself makes decisions based on learned patterns.
 
-**2. Are neural networks genuinely similar to human brains?**  
+**2. Are neural networks genuinely similar to human brains?** 
 While neural networks draw inspiration from the brain, the analogy is loose. The human brain's complexity far surpasses that of artificial neural networks. Biological neurons are intricate living cells, while artificial neurons function as simplified mathematical models. The term "neural network" serves more as a metaphor than an accurate biological representation.
 
-**3. Is a strong math background necessary to understand neural networks?**  
+**3. Is a strong math background necessary to understand neural networks?** 
 A high-level understanding and programming skills are sufficient for practitioners. However, researchers who design new neural networks require a solid foundation in linear algebra, calculus, and probability. Mastery of these mathematical fields helps articulate and manipulate the learning processes of neural networks.
 
-**4. How do neural networks apply to crypto and [Web3](/what-is-web3)?**  
+**4. How do neural networks apply to crypto and [Web3](/what-is-web3)?** 
 In Web3, neural networks are used for various applications. For instance, they analyze on-chain transaction data to spot fraudulent activities or predict market trends. Some initiatives aim to establish decentralized AI platforms where community-controlled neural network models supersede single-company ownership. This aligns with concepts like decentralized prediction markets and [DAOs](/what-is-a-dao).
 
-**5. What constitutes a "large language model"?**  
+**5. What constitutes a "large language model"?** 
 A [large language model (LLM)](/large-language-models-explained-simply) represents a vast and deep neural network trained on extensive text and code datasets. Its specific architecture, known as a Transformer, excels at comprehending human language.
-

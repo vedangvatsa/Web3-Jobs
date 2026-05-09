@@ -118,4 +118,3 @@ You now have a solid understanding of the company dynamics. It is time to start 
 **Be Patient with Yourself:** Your goal during this phase is to demonstrate progress, not perfection. You will make mistakes, which are opportunities for learning.
 
 **Stay Humble:** Avoid suggesting major changes in your initial days. Approach your new role with humility and openness, which can be more impressive than having all the answers.
-

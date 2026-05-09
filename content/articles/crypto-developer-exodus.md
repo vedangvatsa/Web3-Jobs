@@ -18,7 +18,7 @@ Understanding the reasons behind developers leaving one chain is essential for e
 
 Developer experience remains a primary concern. If a platform proves to be frustrating and poorly supported, developers will inevitably seek alternatives.
 
-- **Clunky Tooling**: Inefficient compilers, unreliable testnets, and the absence of development frameworks hinder productivity. For instance, the Ethereum Virtual Machine (EVM) benefits from tools like Foundry, which streamline the development lifecycle. Platforms lacking such resources suffer.
+- **Clunky Tooling**: Inefficient compilers, unreliable testnets, and the absence of development frameworks hinder productivity. For instance, the Ethereum Virtual Machine (EVM) benefits from tools like Foundry, which simplify the development lifecycle. Platforms lacking such resources suffer.
 - **Inadequate Documentation**: Detailed and current documentation is non-negotiable. If developers struggle to use a platform’s features due to poor documentation, they are less likely to stay.
 - **Steep Learning Curve**: Platforms that rely on obscure programming languages without adequate educational resources face challenges attracting developers. Non-EVM chains often struggle to attract talent from the larger pool of EVM-native developers, as they demand significant time investment to learn.
 
@@ -46,6 +46,5 @@ The narratives driving Web3 development significantly impact developer interest.
 ### Case Studies in Developer Migration
 
 - **Litecoin**: The analysis of the **[Litecoin developer slowdown](/litecoin-developer-activity-slowdown)** highlights its limited [smart contract](/what-are-smart-contracts) capabilities. This limitation results in fewer development opportunities, prompting developers to transition to more flexible platforms.
-  
-- **Solana**: The decline in Solana's developer count, exacerbated by the collapse of its major supporter FTX, reflects the powerful draw of the EVM-compatible L2 ecosystem. Despite these challenges, Solana's community remains resilient.
 
+- **Solana**: The decline in Solana's developer count, exacerbated by the collapse of its major supporter FTX, reflects the powerful draw of the EVM-compatible L2 ecosystem. Despite these challenges, Solana's community remains resilient.

@@ -38,15 +38,15 @@ Many Web3 companies experience difficulty filling these non-technical roles beca
 
 The following are prominent non-technical career paths within Web3:
 
-| Role                        | Responsibilities                                                                 | Typical Qualifications                                      | Compensation Range           |
+| Role | Responsibilities | Typical Qualifications | Compensation Range |
 |-----------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------|
-| Product Manager             | Define product features and drive development.                                 | 3+ years in product management, strong communication.      | Competitive                   |
-| Growth and Marketing Specialist | Drive user acquisition and retention through community understanding and content. | Marketing experience, creative, understanding crypto culture. | Competitive                   |
-| Community Manager           | Build and nurture online communities on platforms like Discord and Twitter.    | Experience managing online communities, excellent communication. | Competitive                   |
-| Business Development Manager | Identify and execute revenue opportunities and partnerships.                   | Business development experience, strong negotiation skills.  | Competitive                   |
-| Operations and Finance Specialist | Manage operations, financial tracking, and HR functions.                     | Background in finance or operations, detail-oriented.       | Competitive                   |
-| Legal and Compliance Professional | Navigate and ensure adherence to regulatory standards.                      | Legal experience, familiarity with cryptocurrency regulations. | Competitive                   |
-| Content Creator and Writer   | Produce educational content and marketing materials.                          | Strong writing skills, ability to simplify complex topics.   | Competitive                   |
+| Product Manager | Define product features and drive development. | 3+ years in product management, strong communication. | Competitive |
+| Growth and Marketing Specialist | Drive user acquisition and retention through community understanding and content. | Marketing experience, creative, understanding crypto culture. | Competitive |
+| Community Manager | Build and nurture online communities on platforms like Discord and Twitter. | Experience managing online communities, excellent communication. | Competitive |
+| Business Development Manager | Identify and execute revenue opportunities and partnerships. | Business development experience, strong negotiation skills. | Competitive |
+| Operations and Finance Specialist | Manage operations, financial tracking, and HR functions. | Background in finance or operations, detail-oriented. | Competitive |
+| Legal and Compliance Professional | Navigate and ensure adherence to regulatory standards. | Legal experience, familiarity with cryptocurrency regulations. | Competitive |
+| Content Creator and Writer | Produce educational content and marketing materials. | Strong writing skills, ability to simplify complex topics. | Competitive |
 
 ## Steps to Transition into Web3
 
@@ -179,4 +179,3 @@ Despite the challenges, pursuing a non-technical role in Web3 can be highly rewa
 **Competitive Compensation**: Many roles in Web3 offer salaries that exceed traditional industry norms, particularly when factoring in [token](/what-is-a-token) compensation structures.
 
 **Valuable Networking**: The connections you forge within the Web3 community can lead to numerous opportunities over the course of your career.
-

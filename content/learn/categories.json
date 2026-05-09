@@ -1,74 +1,74 @@
 {
-  "categories": [
-    {
-      "slug": "fundamentals",
-      "title": "Web3 Fundamentals",
-      "description": "Understand Web3 from scratch. No prior knowledge needed.",
-      "icon": "Globe",
-      "order": 1,
-      "type": "core",
-      "duration": "~4 hours",
-      "audience": "Everyone"
-    },
-    {
-      "slug": "defi",
-      "title": "Decentralized Finance",
-      "description": "How decentralized finance works: DEXs, lending, yield, and risks.",
-      "icon": "Landmark",
-      "order": 2,
-      "type": "elective",
-      "duration": "~2.5 hours",
-      "audience": "Finance-interested"
-    },
-    {
-      "slug": "smart-contracts",
-      "title": "Smart Contract Development",
-      "description": "Write, test, and deploy smart contracts with Solidity.",
-      "icon": "Code",
-      "order": 3,
-      "type": "elective",
-      "duration": "~3 hours",
-      "audience": "Developers"
-    },
-    {
-      "slug": "careers",
-      "title": "Web3 Careers",
-      "description": "Get hired in Web3. Roles, skills, resumes, and interview prep.",
-      "icon": "Briefcase",
-      "order": 4,
-      "type": "elective",
-      "duration": "~2 hours",
-      "audience": "Job seekers"
-    },
-    {
-      "slug": "marketing",
-      "title": "Web3 Marketing & Community",
-      "description": "Grow Web3 protocols. Discord, Twitter, and token launches.",
-      "icon": "Megaphone",
-      "order": 5,
-      "type": "elective",
-      "duration": "~2 hours",
-      "audience": "Non-technical"
-    },
-    {
-      "slug": "security",
-      "title": "Web3 Security & Auditing",
-      "description": "Find bugs and audit smart contracts. High-demand technical track.",
-      "icon": "Shield",
-      "order": 6,
-      "type": "elective",
-      "duration": "~3 hours",
-      "audience": "Advanced Developers"
-    },
-    {
-      "slug": "ai-crypto",
-      "title": "AI x Crypto Intersection",
-      "description": "Explore the convergence of Artificial Intelligence and decentralized networks. Autonomous agents, data markets, and compute networks.",
-      "icon": "Globe",
-      "order": 7,
-      "type": "elective",
-      "duration": "~3 hours",
-      "audience": "Everyone"
-    }
-  ]
+ "categories": [
+ {
+ "slug": "fundamentals",
+ "title": "Web3 Fundamentals",
+ "description": "Understand Web3 from scratch. No prior knowledge needed.",
+ "icon": "Globe",
+ "order": 1,
+ "type": "core",
+ "duration": "~4 hours",
+ "audience": "Everyone"
+ },
+ {
+ "slug": "defi",
+ "title": "Decentralized Finance",
+ "description": "How decentralized finance works: DEXs, lending, yield, and risks.",
+ "icon": "Landmark",
+ "order": 2,
+ "type": "elective",
+ "duration": "~2.5 hours",
+ "audience": "Finance-interested"
+ },
+ {
+ "slug": "smart-contracts",
+ "title": "Smart Contract Development",
+ "description": "Write, test, and deploy smart contracts with Solidity.",
+ "icon": "Code",
+ "order": 3,
+ "type": "elective",
+ "duration": "~3 hours",
+ "audience": "Developers"
+ },
+ {
+ "slug": "careers",
+ "title": "Web3 Careers",
+ "description": "Get hired in Web3. Roles, skills, resumes, and interview prep.",
+ "icon": "Briefcase",
+ "order": 4,
+ "type": "elective",
+ "duration": "~2 hours",
+ "audience": "Job seekers"
+ },
+ {
+ "slug": "marketing",
+ "title": "Web3 Marketing & Community",
+ "description": "Grow Web3 protocols. Discord, Twitter, and token launches.",
+ "icon": "Megaphone",
+ "order": 5,
+ "type": "elective",
+ "duration": "~2 hours",
+ "audience": "Non-technical"
+ },
+ {
+ "slug": "security",
+ "title": "Web3 Security & Auditing",
+ "description": "Find bugs and audit smart contracts. High-demand technical track.",
+ "icon": "Shield",
+ "order": 6,
+ "type": "elective",
+ "duration": "~3 hours",
+ "audience": "Advanced Developers"
+ },
+ {
+ "slug": "ai-crypto",
+ "title": "AI x Crypto Intersection",
+ "description": "Explore the convergence of Artificial Intelligence and decentralized networks. Autonomous agents, data markets, and compute networks.",
+ "icon": "Globe",
+ "order": 7,
+ "type": "elective",
+ "duration": "~3 hours",
+ "audience": "Everyone"
+ }
+ ]
 }

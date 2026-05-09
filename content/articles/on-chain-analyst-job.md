@@ -34,7 +34,7 @@ To tackle these questions, analysts use specialized tools to write queries, cons
 A PhD in data science is not a prerequisite for this career. Mastering the right tools is key to success.
 
 1. **SQL (Structured Query Language):** SQL is the fundamental skill for on-chain analysis. Platforms like Dune Analytics offer "decoded" databases where raw blockchain data is structured into readable tables. Proficiency in SQL is essential for querying these tables effectively.
-   
+
 2. **Dune Analytics:** This platform is essential for on-chain analysis. It enables users to write SQL queries against data from various blockchains, allowing the creation of powerful, shareable dashboards. Developing high-quality Dune dashboards serves as an excellent way to build your portfolio.
 
 3. **Python:** For advanced or customized analyses, Python is the preferred language. Libraries such as Pandas for data manipulation, Matplotlib for visualization, and Web3.py for direct blockchain interaction provide a strong toolkit for in-depth research.
@@ -64,13 +64,13 @@ This role is accessible since you can build a portfolio independently.
 2. **Understand Blockchain Fundamentals:** Familiarize yourself with the data you will analyze. Review guides on [what a blockchain is](/what-is-a-blockchain) and how [smart contracts](/what-are-smart-contracts) operate.
 
 3. **Master Dune Analytics:** The platform offers a free tier for experimentation.
-   - Begin by forking existing queries from popular dashboards to understand their structure. Consult Dune’s documentation and tutorials.
-   - Study the queries of established "Dune wizards" to enhance your skills.
+ - Begin by forking existing queries from popular dashboards to understand their structure. Consult Dune’s documentation and tutorials.
+ - Study the queries of established "Dune wizards" to enhance your skills.
 
 4. **Build a Portfolio of Dashboards:** This portfolio acts as your [resume](/how-to-build-a-web3-resume-that-stands-out). Choose an interesting protocol and construct a dashboard that tracks its key metrics.
-   - *Good first project:* A dashboard for a new NFT collection.
-   - *Intermediate project:* A dashboard comparing user growth across two competing [DeFi](/what-is-defi) protocols.
-   - *Advanced project:* An analysis of MEV (Maximal Extractable Value) activity on a specific DEX.
+ - *Good first project:* A dashboard for a new NFT collection.
+ - *Intermediate project:* A dashboard comparing user growth across two competing [DeFi](/what-is-defi) protocols.
+ - *Advanced project:* An analysis of MEV (Maximal Extractable Value) activity on a specific DEX.
 
 5. **Share Your Work Publicly:** Public visibility is essential for recognition. Share your dashboards on Twitter, tagging the projects you analyze. Write blog posts or Twitter threads to explain the key insights from your work. Successful on-chain analysts often build a public reputation that attracts job offers directly from the community of "Dune wizards."
 
@@ -104,11 +104,11 @@ Regularly assess your progress. Are you achieving your desired outcomes? Adapt y
 
 ### Real-World Examples of Success
 
-| Example       | Background                                           | Outcome                         |
+| Example | Background | Outcome |
 |---------------|-----------------------------------------------------|---------------------------------|
-| Sarah         | Developer at a blockchain startup                   | Improvements in user retention within a few months after adopting structured data analysis strategies. |
-| Juan          | Product manager in DeFi                             | Successfully increased product adoption by following a strategic analysis framework. |
-| Maya          | Transitioned from Web2 to Web3                      | Quickly adapted and excelled in her new role, demonstrating the effectiveness of structured learning. |
+| Sarah | Developer at a blockchain startup | Improvements in user retention within a few months after adopting structured data analysis strategies. |
+| Juan | Product manager in DeFi | Successfully increased product adoption by following a strategic analysis framework. |
+| Maya | Transitioned from Web2 to Web3 | Quickly adapted and excelled in her new role, demonstrating the effectiveness of structured learning. |
 
 These examples illustrate how applying structured strategies can lead to significant improvements in performance and outcomes within the Web3 space.
 
@@ -126,18 +126,17 @@ These examples illustrate how applying structured strategies can lead to signifi
 
 ### FAQ
 
-**Q: How long will it take to see results from these strategies?**  
+**Q: How long will it take to see results from these strategies?** 
 A: Initial results typically appear within a few weeks of consistent application, with more substantial improvements evident in a couple of months. The timeline depends on your starting point, daily practice commitment, and feedback engagement. Professionals who actively track their progress tend to advance faster than those who observe passively.
 
-**Q: What if my workplace lacks support for these initiatives?**  
+**Q: What if my workplace lacks support for these initiatives?** 
 A: You often have more agency than you may realize, even in challenging environments. Start with small, self-contained actions that don’t require organizational approval. Build momentum gradually, and document your progress. If you find that structural barriers persist despite your efforts, this information is valuable for your career decisions.
 
-**Q: How does this apply specifically to the Web3 sector?**  
-A: Web3 organizations differ from traditional companies in ways that elevate the importance of these skills. The flatter hierarchies offer more direct access to decision-makers, yet place greater responsibility on self-direction. Remote and globally distributed teams require strong written communication and asynchronous collaboration skills. Additionally, the faster pace of product cycles in Web3 compared to traditional enterprises requires agility and adaptability.
+**Q: How does this apply specifically to the Web3 sector?** 
+A: Web3 organizations differ from traditional companies in ways that improve the importance of these skills. The flatter hierarchies offer more direct access to decision-makers, yet place greater responsibility on self-direction. Remote and globally distributed teams require strong written communication and asynchronous collaboration skills. the faster pace of product cycles in Web3 compared to traditional enterprises requires agility and adaptability.
 
-**Q: Can I implement this alongside my current job?**  
+**Q: Can I implement this alongside my current job?** 
 A: Yes. This is the recommended approach for most professionals. You do not need additional hours; focus on intentionality within your existing schedule. Identify a few practices that align with your current responsibilities and apply them consistently for maximum impact.
 
-**Q: What resources can help me deepen my understanding?**  
+**Q: What resources can help me deepen my understanding?** 
 A: Explore various written resources, particularly those listed in related articles for targeted insights. The most impactful step is to find a mentor or peer group excelling in this field. Observing their practices offers insights that no article can match. Engage with Web3 communities on platforms like Discord and Telegram to connect with practitioners willing to share their processes. Establishing structured accountability with a peer can also accelerate your progress.
-

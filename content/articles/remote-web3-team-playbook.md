@@ -46,13 +46,12 @@ Culture in a remote environment requires deliberate cultivation rather than spon
 
 Effective remote collaboration hinges on a shared set of tools, including:
 
-| Tool Category        | Recommended Tools                                       |
+| Tool Category | Recommended Tools |
 |----------------------|-------------------------------------------------------|
-| Communication        | Discord (community and team), Slack (internal team), Telegram (announcements) |
+| Communication | Discord (community and team), Slack (internal team), Telegram (announcements) |
 | Collaboration & Documentation | Notion, GitHub (project management and documentation) |
-| Meetings             | Google Meet, Zoom                                     |
-| Design               | Figma (for collaborative design)                     |
+| Meetings | Google Meet, Zoom |
+| Design | Figma (for collaborative design) |
 | [DAO](/what-is-a-dao) Governance | Snapshot (gasless voting), Discourse (long-form proposals) |
 
 ### The Unique Sector of Web3 Careers
-

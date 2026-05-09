@@ -56,9 +56,9 @@ Identifying these red flags enables you to make informed decisions about potenti
 
 ### Internal Links for Further Reading
 
-*   [How to Spot a Toxic Work Environment](/how-to-spot-toxic-work-environment)
-*   [Multiple Job Offers: How to Choose](/multiple-job-offers-how-to-choose)
-*   [How to Prepare for a Job Interview](/how-to-prepare-for-job-interview)
+* [How to Spot a Toxic Work Environment](/how-to-spot-toxic-work-environment)
+* [Multiple Job Offers: How to Choose](/multiple-job-offers-how-to-choose)
+* [How to Prepare for a Job Interview](/how-to-prepare-for-job-interview)
 
 ### Frequently Asked Questions (FAQs)
 
@@ -73,4 +73,3 @@ Green flags include interviewers who demonstrate preparedness and engagement, pr
 **How can I inquire about company culture without sounding negative?**
 
 Frame your questions positively. Instead of asking, "Is this a toxic place to work?" you might ask, "What do you enjoy most about the company culture?" or "How would you describe the team’s dynamic and collaborative efforts on projects?"
-

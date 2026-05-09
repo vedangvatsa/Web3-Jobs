@@ -99,10 +99,10 @@ A smart contract needs real-world data (e.g., the price of ETH/USD). It emits an
 ```solidity
 // Example: A [DeFi](/what-is-defi) lending protocol requesting ETH/USD price
 event OracleRequest(
-    bytes32 indexed specId,
-    address indexed requester,
-    bytes32 requestId,
-    uint256 payment
+ bytes32 indexed specId,
+ address indexed requester,
+ bytes32 requestId,
+ uint256 payment
 );
 ```
 

@@ -22,7 +22,7 @@ Take time to think about what you want from your next role. Your career break mi
 * **Non-Negotiables**: Identify your must-haves for your next position. Are remote work and a flexible schedule essential for you?
 * **Energizing Work**: Think about the type of work that excites you. Use this time to explore roles that might differ from your previous experiences.
 
-Clarifying your goals will streamline your job search and help you focus on positions that align with your current aspirations.
+Clarifying your goals will simplify your job search and help you focus on positions that align with your current aspirations.
 
 ### Step 2: Update Your Professional Toolkit
 
@@ -64,13 +64,13 @@ Returning to work after a break involves a strategic approach. By being proactiv
 
 ### Key Components of a Successful Job Search
 
-| Component                   | Description                                                                                     |
+| Component | Description |
 |-----------------------------|-------------------------------------------------------------------------------------------------|
-| **Career Goals**            | Define what you want from your next role and what makes you happy.                            |
-| **Professional Toolkit**     | Update your resume, LinkedIn, and portfolio to reflect recent experiences and skills.          |
-| **Networking**              | Reactivate your professional connections and seek out informational interviews.                |
-| **Personal Narrative**      | Prepare a concise story about your career break and current ambitions.                         |
-| **Patience and Persistence**| Stay committed to your search, celebrate small wins, and maintain confidence in your value.    |
+| **Career Goals** | Define what you want from your next role and what makes you happy. |
+| **Professional Toolkit** | Update your resume, LinkedIn, and portfolio to reflect recent experiences and skills. |
+| **Networking** | Reactivate your professional connections and seek out informational interviews. |
+| **Personal Narrative** | Prepare a concise story about your career break and current ambitions. |
+| **Patience and Persistence**| Stay committed to your search, celebrate small wins, and maintain confidence in your value. |
 
 ### Frequently Asked Questions (FAQs)
 
@@ -85,4 +85,3 @@ Even a period of rest can be framed positively. You can refer to it as a "sabbat
 **Should I consider a "returnship" or a contract role first?**
 
 These options can facilitate a smoother transition back into the workforce. A returnship offers internship-like experiences for seasoned professionals, providing a way to update skills. Contract roles can also help establish your value within a company.
-

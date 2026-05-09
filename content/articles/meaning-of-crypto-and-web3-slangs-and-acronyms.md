@@ -16,31 +16,30 @@ This guide presents a glossary of the most prevalent slang terms and acronyms yo
 
 ### Core Acronyms and Phrases
 
-| Acronym  | Meaning | Significance |
+| Acronym | Meaning | Significance |
 |----------|---------|--------------|
 | **WAGMI** | We're All Gonna Make It | A motivational phrase indicating collective optimism for success in the Web3 community. |
-| **NGMI**  | Not Gonna Make It | A term used to dismiss individuals who make poor decisions or show skepticism towards the space. |
-| **GM**    | Good Morning | A customary greeting in the Crypto Twitter community that encourages a sense of belonging and positivity. |
-| **HODL**  | Hold On for Dear Life | Initially a misspelling of "hold," it describes a long-term investment strategy, especially during market fluctuations. |
-| **FUD**   | Fear, Uncertainty, and Doubt | Refers to negative information spread to manipulate asset prices. |
-| **FOMO**  | Fear Of Missing Out | The anxiety of missing lucrative investment opportunities, often resulting in impulsive buying. |
-| **DYOR**  | Do Your Own Research | A critical reminder to conduct personal research before making investment decisions. |
+| **NGMI** | Not Gonna Make It | A term used to dismiss individuals who make poor decisions or show skepticism towards the space. |
+| **GM** | Good Morning | A customary greeting in the Crypto Twitter community that encourages a sense of belonging and positivity. |
+| **HODL** | Hold On for Dear Life | Initially a misspelling of "hold," it describes a long-term investment strategy, especially during market fluctuations. |
+| **FUD** | Fear, Uncertainty, and Doubt | Refers to negative information spread to manipulate asset prices. |
+| **FOMO** | Fear Of Missing Out | The anxiety of missing lucrative investment opportunities, often resulting in impulsive buying. |
+| **DYOR** | Do Your Own Research | A critical reminder to conduct personal research before making investment decisions. |
 | **Apeing In** | Investing heavily into a new project without thorough research, influenced by hype and FOMO. | 
 
 ### Technical and Financial Slang
 
-| Term     | Definition |
+| Term | Definition |
 |----------|------------|
 | **[DeFi](/what-is-defi)** | Decentralized Finance; financial applications built on blockchain technologies for lending, borrowing, and trading. |
-| **DEX**  | [Decentralized Exchange](/what-is-a-decentralized-exchange-dex); a marketplace for peer-to-peer crypto trading, exemplified by platforms like Uniswap. |
+| **DEX** | [Decentralized Exchange](/what-is-a-decentralized-exchange-dex); a marketplace for peer-to-peer crypto trading, exemplified by platforms like Uniswap. |
 | **[DAO](/what-is-a-dao)** | Decentralized Autonomous Organization; a member-managed organization governed by smart contracts. |
 | **Degen** | A trader engaging in exceptionally high-risk investment strategies, often in a playful or ironic manner. |
-| **TVL**  | Total Value Locked; the aggregate value of assets held within a DeFi protocol, used to gauge its size and adoption. |
-| **PFP**  | Profile Picture; a category of NFTs, like those from the Bored Ape Yacht Club, used primarily as avatars. |
-| **Gas**  | Transaction fees on a blockchain such as [Ethereum](/what-is-ethereum). |
+| **TVL** | Total Value Locked; the aggregate value of assets held within a DeFi protocol, used to gauge its size and adoption. |
+| **PFP** | Profile Picture; a category of NFTs, like those from the Bored Ape Yacht Club, used primarily as avatars. |
+| **Gas** | Transaction fees on a blockchain such as [Ethereum](/what-is-ethereum). |
 | **Shilling** | Promoting a project in which you hold a financial interest, often with insincere enthusiasm. |
 | **Rug Pull** | A scam where developers abandon a project and take off with investors' funds. |
 | **Diamond Hands / Paper Hands** | Refers to the resilience or lack thereof in holding assets through market fluctuations; "Diamond Hands" retains assets, while "Paper Hands" sells at the first sign of trouble. |
 
 The glossary represents only a fraction of the evolving language in crypto. New terms and memes emerge daily. Engaging with the community on Twitter and Discord allows you to learn and clarify unfamiliar terms.
-

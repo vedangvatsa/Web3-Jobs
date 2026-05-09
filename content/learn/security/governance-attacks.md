@@ -6,22 +6,22 @@ readTime: "10 min"
 difficulty: "advanced"
 prerequisites: ["exploits"]
 quiz:
-  - question: "What is a governance attack?"
-    options:
-      - "Hacking a DAO's smart contract code."
-      - "Using economic power (flash loans or token accumulation) to pass malicious governance proposals."
-      - "DDoS attacking a DAO's website."
-      - "Social engineering a DAO's multisig signers."
-    correct: 1
-    explanation: "Governance attacks exploit the voting mechanism itself. An attacker acquires enough voting power (often via flash loans) to push through proposals that drain the treasury or change protocol parameters."
-  - question: "What is a common defense against flash loan governance attacks?"
-    options:
-      - "Removing governance entirely."
-      - "Requiring token holders to lock tokens before a snapshot block to be eligible to vote."
-      - "Increasing gas fees."
-      - "Using proof of work for voting."
-    correct: 1
-    explanation: "Time-locking or snapshotting voting power before a proposal is created prevents attackers from flash-borrowing tokens to vote, since they need to hold them before the snapshot."
+ - question: "What is a governance attack?"
+ options:
+ - "Hacking a DAO's smart contract code."
+ - "Using economic power (flash loans or token accumulation) to pass malicious governance proposals."
+ - "DDoS attacking a DAO's website."
+ - "Social engineering a DAO's multisig signers."
+ correct: 1
+ explanation: "Governance attacks exploit the voting mechanism itself. An attacker acquires enough voting power (often via flash loans) to push through proposals that drain the treasury or change protocol parameters."
+ - question: "What is a common defense against flash loan governance attacks?"
+ options:
+ - "Removing governance entirely."
+ - "Requiring token holders to lock tokens before a snapshot block to be eligible to vote."
+ - "Increasing gas fees."
+ - "Using proof of work for voting."
+ correct: 1
+ explanation: "Time-locking or snapshotting voting power before a proposal is created prevents attackers from flash-borrowing tokens to vote, since they need to hold them before the snapshot."
 ---
 
 ## What Is a Governance Attack?

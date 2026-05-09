@@ -65,4 +65,3 @@ This changes because it separates the agreement from the execution. Traditionall
 ## How Web3 Actually Works: Real Examples
 
 Let's walk through concrete examples of how Web3 applications work today.
-

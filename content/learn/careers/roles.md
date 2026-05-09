@@ -6,46 +6,46 @@ readTime: "9 min"
 difficulty: "beginner"
 prerequisites: ["job-market"]
 quiz:
-  - question: "What does a Smart Contract Developer do?"
-    options:
-      - "Manages social media accounts"
-      - "Writes, tests, and audits code that runs on the blockchain"
-      - "Designs website layouts"
-      - "Handles customer support"
-    correct: 1
-    explanation: "Smart contract developers write the core business logic in Solidity or Rust. Their code handles real money, so security and testing are critical."
-  - question: "What makes a Web3 Product Manager different from a Web2 PM?"
-    options:
-      - "They write code instead of specs"
-      - "They need to understand tokenomics, governance, and on-chain data"
-      - "They only manage marketing"
-      - "They work fewer hours"
-    correct: 1
-    explanation: "Web3 PMs need traditional PM skills (roadmap, prioritization, user research) plus understanding of token incentives, on-chain analytics, and how smart contracts affect product design."
-  - question: "What is 'DevRel' in Web3?"
-    options:
-      - "A DeFi protocol"
-      - "Developer Relations — helping developers build on your protocol"
-      - "A compliance role"
-      - "A type of token"
-    correct: 1
-    explanation: "DevRel (Developer Relations) professionals create documentation, tutorials, and SDKs. They help external developers integrate with the protocol. It is one of the fastest-growing roles in Web3."
-  - question: "Why is community management more important in Web3 than Web2?"
-    options:
-      - "Because Web3 companies do not have websites"
-      - "Because communities govern protocols and drive adoption — they are the product's users and owners"
-      - "Because it pays more"
-      - "Because regulators require it"
-    correct: 1
-    explanation: "In Web3, your community members are often your token holders, your governors, and your evangelists. A strong community directly affects protocol health, TVL, and governance participation."
-  - question: "Which role requires zero coding ability?"
-    options:
-      - "Protocol engineer"
-      - "Smart contract auditor"
-      - "Community manager"
-      - "Frontend developer"
-    correct: 2
-    explanation: "Community managers need communication, organization, and empathy. While understanding the tech at a high level helps, no coding is required."
+ - question: "What does a Smart Contract Developer do?"
+ options:
+ - "Manages social media accounts"
+ - "Writes, tests, and audits code that runs on the blockchain"
+ - "Designs website layouts"
+ - "Handles customer support"
+ correct: 1
+ explanation: "Smart contract developers write the core business logic in Solidity or Rust. Their code handles real money, so security and testing are critical."
+ - question: "What makes a Web3 Product Manager different from a Web2 PM?"
+ options:
+ - "They write code instead of specs"
+ - "They need to understand tokenomics, governance, and on-chain data"
+ - "They only manage marketing"
+ - "They work fewer hours"
+ correct: 1
+ explanation: "Web3 PMs need traditional PM skills (roadmap, prioritization, user research) plus understanding of token incentives, on-chain analytics, and how smart contracts affect product design."
+ - question: "What is 'DevRel' in Web3?"
+ options:
+ - "A DeFi protocol"
+ - "Developer Relations — helping developers build on your protocol"
+ - "A compliance role"
+ - "A type of token"
+ correct: 1
+ explanation: "DevRel (Developer Relations) professionals create documentation, tutorials, and SDKs. They help external developers integrate with the protocol. It is one of the fastest-growing roles in Web3."
+ - question: "Why is community management more important in Web3 than Web2?"
+ options:
+ - "Because Web3 companies do not have websites"
+ - "Because communities govern protocols and drive adoption — they are the product's users and owners"
+ - "Because it pays more"
+ - "Because regulators require it"
+ correct: 1
+ explanation: "In Web3, your community members are often your token holders, your governors, and your evangelists. A strong community directly affects protocol health, TVL, and governance participation."
+ - question: "Which role requires zero coding ability?"
+ options:
+ - "Protocol engineer"
+ - "Smart contract auditor"
+ - "Community manager"
+ - "Frontend developer"
+ correct: 2
+ explanation: "Community managers need communication, organization, and empathy. While understanding the tech at a high level helps, no coding is required."
 ---
 
 ## Technical roles

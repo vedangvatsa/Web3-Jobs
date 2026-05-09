@@ -21,7 +21,7 @@ A **cliff** represents a designated period at the start of a vesting schedule du
 Consider a typical vesting schedule for a Web3 startup: a **"4-year vest with a 1-year cliff."** Let's illustrate this with an employee, Bob, who receives a grant of tokens.
 
 - **Cliff Period (First Year):** For the initial 364 days of Bob's tenure, none of his tokens vest. If he decides to leave the company on day 360, he walks away with 0 tokens.
-  
+
 - **Cliff Event (1-Year Anniversary):** On day 365, Bob reaches his 1-year cliff. On this day, a portion of his total allocation vests immediately. He now owns these tokens and can use them as per the project’s policies.
 
 - **Linear Vesting Post-Cliff:** The remaining tokens then vest on a linear schedule, typically monthly, over the next three years. Starting from month 13, Bob will earn tokens each month until the end of the fourth year.
@@ -63,4 +63,3 @@ Avoid attempting to overhaul everything at once. Start with one small change and
 ### Step 5: Track Progress and Adapt
 
 Regularly assess your progress in understanding vesting schedules. Are you achieving your learning objectives? Modify your approach based on feedback and results. A continuous improvement mindset is essential for mastery.
-

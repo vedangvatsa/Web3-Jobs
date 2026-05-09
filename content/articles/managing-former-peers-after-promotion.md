@@ -87,4 +87,3 @@ Understanding how to manage former peers is essential for your professional grow
 | 3 | Develop Your Personal Strategy: Create a tailored plan based on your specific context. |
 | 4 | Implement Gradually: Introduce changes step-by-step rather than all at once. |
 | 5 | Measure and Adjust: Track your progress and adjust your strategy based on feedback. |
-

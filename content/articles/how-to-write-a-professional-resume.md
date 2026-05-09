@@ -18,11 +18,11 @@ Developing a professional resume does not have to be overwhelming. By adhering t
 
 Selecting an appropriate resume format is critical. The three primary formats are:
 
-| Format                  | Description                                                                                 | Best For                                  |
+| Format | Description | Best For |
 |------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------|
-| **Reverse-Chronological** | Lists your work experience in reverse order, starting with your most recent position.      | Individuals with a consistent work history.|
-| **Functional**          | Emphasizes skills and qualifications over work history.                                    | Those changing careers or with employment gaps.|
-| **Combination**         | Combines elements of both formats, starting with a skills summary followed by work history. | Candidates with diverse skill sets and experiences.|
+| **Reverse-Chronological** | Lists your work experience in reverse order, starting with your most recent position. | Individuals with a consistent work history.|
+| **Functional** | Emphasizes skills and qualifications over work history. | Those changing careers or with employment gaps.|
+| **Combination** | Combines elements of both formats, starting with a skills summary followed by work history. | Candidates with diverse skill sets and experiences.|
 
 Most professionals benefit from the reverse-chronological format, as it clearly presents career progression and aligns with recruiter expectations.
 
@@ -31,19 +31,19 @@ Most professionals benefit from the reverse-chronological format, as it clearly 
 Include a brief summary or objective statement at the top of your resume. This section should encapsulate your skills and career aspirations.
 
 - **Summary Statement:** A 2-3 sentence overview of your skills and experience, ideal for those with work history.
-  - *Example:* "Detail-oriented project manager with experience leading cross-functional teams and delivering projects on time and within budget. Proficient in Agile methodologies and stakeholder engagement."
-  
+ - *Example:* "Detail-oriented project manager with experience leading cross-functional teams and delivering projects on time and within budget. Proficient in Agile methodologies and stakeholder engagement."
+
 - **Objective Statement:** A declaration of your career goals, suitable for recent graduates or individuals transitioning careers.
-  - *Example:* "Aspiring marketing professional with a Bachelor’s degree in Communications seeking an entry-level marketing role, eager to apply skills in digital marketing and content creation."
+ - *Example:* "Aspiring marketing professional with a Bachelor’s degree in Communications seeking an entry-level marketing role, eager to apply skills in digital marketing and content creation."
 
 ### 3. Focus on Achievements, Not Just Responsibilities
 
 Highlighting achievements rather than just listing job duties is important for creating an impactful resume. Use quantifiable metrics to showcase your contributions.
 
-| Instead of…                                       | Try…                                                                                           |
+| Instead of… | Try… |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------|
-| "Responsible for managing the sales team."        | "Increased sales significantly over one year by implementing a targeted training program for the sales team." |
-| "Conducted customer service training."            | "Improved customer satisfaction ratings by developing and executing a new service training module." |
+| "Responsible for managing the sales team." | "Increased sales significantly over one year by implementing a targeted training program for the sales team." |
+| "Conducted customer service training." | "Improved customer satisfaction ratings by developing and executing a new service training module." |
 
 Start bullet points with action verbs such as "developed," "managed," or "achieved" to convey a sense of initiative and accomplishment.
 
@@ -76,16 +76,16 @@ To create a solid resume, incorporate these essential sections:
 
 ### FAQs
 
-**Should I include a photo on my resume?**  
+**Should I include a photo on my resume?** 
 In most countries, including the US and the UK, it is advisable not to include a photo. A photo may introduce unconscious bias and distract from your qualifications.
 
-**How far back should my work experience go?**  
+**How far back should my work experience go?** 
 Include the last 10-15 years of work experience. If older experience is particularly relevant to the job, you may also include it.
 
-**Is it acceptable to have a gap in my employment history?**  
+**Is it acceptable to have a gap in my employment history?** 
 Yes, gaps in employment are common. Be ready to explain any gaps in your cover letter or during interviews, but avoid excessive detail on your resume.
 
-**Why does this matter?**  
+**Why does this matter?** 
 Mastering resume writing and presentation is vital for professional success. Professionals who excel in this area often secure better roles, earn higher salaries, and experience faster career advancement. This is especially true in [Web3](/what-is-web3) organizations, where effective communication and collaboration are critical.
 
 ### Step-by-Step Guide to Resume Writing
@@ -109,4 +109,3 @@ Avoid the temptation to overhaul your resume all at once. Start with small, mana
 #### Step 5: Measure and Adjust
 
 Continuously monitor your progress. Are you achieving the desired results? Be prepared to adjust your approach based on feedback and outcomes. Maintaining a mindset of continuous improvement is vital.
-

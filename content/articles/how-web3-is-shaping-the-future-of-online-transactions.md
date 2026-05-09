@@ -20,7 +20,7 @@ The existing framework, referred to as "TradFi" (Traditional Finance), suffers f
 
 1. **High Fees:** Each intermediary in the payment chain extracts fees. Credit card companies generally charge merchants a percentage per transaction. For small businesses, these costs can substantially reduce profit margins.
 2. **Slow Settlement Times:** Although transactions may seem instantaneous, the actual settlement process between banks often takes several business days, tying up merchants’ capital.
-3. **Censorship and Accessibility Issues:** Banks and payment processors have the authority to freeze accounts or block transactions for individuals or businesses they classify as high-risk. Additionally, many people globally lack access to conventional banking systems, excluding them from participating in the online economy.
+3. **Censorship and Accessibility Issues:** Banks and payment processors have the authority to freeze accounts or block transactions for individuals or businesses they classify as high-risk. many people globally lack access to conventional banking systems, excluding them from participating in the online economy.
 4. **Fraud and Chargeback Risks:** The potential for fraudulent transactions and chargebacks incurs additional overhead costs for merchants.
 
 ### Web3's Solution: A Peer-to-Peer Financial System
@@ -39,9 +39,9 @@ Web3 payments operate on open public blockchains rather than the closed networks
 
 - **Operational Mechanics:** When a user pays a merchant using a stablecoin, the transaction is broadcast to a public blockchain such as [Ethereum](/what-is-ethereum) or a scalable **[Layer 2 network](/guide-to-layer-2s)** like Arbitrum. Validators on the network process the transaction, settling funds in the merchant's [wallet](/how-to-choose-a-crypto-wallet) in seconds.
 - **Benefits:**
-    - **Lower Transaction Fees:** On a Layer 2 network, transaction costs can be mere fractions of a penny compared to traditional payment methods.
-    - **Rapid Settlement:** Transactions settle and become final once confirmed on the blockchain, usually within seconds.
-    - **Permissionless Access:** Anyone with a cryptocurrency wallet and internet access can participate without the risk of being de-platformed.
+ - **Lower Transaction Fees:** On a Layer 2 network, transaction costs can be mere fractions of a penny compared to traditional payment methods.
+ - **Rapid Settlement:** Transactions settle and become final once confirmed on the blockchain, usually within seconds.
+ - **Permissionless Access:** Anyone with a cryptocurrency wallet and internet access can participate without the risk of being de-platformed.
 
 #### 3. Smart Contracts for Programmable Transactions
 
@@ -61,5 +61,4 @@ Despite the numerous advantages, mass adoption of Web3 payments faces several hu
 
 ### The Future of Transactions: A Decentralized Approach
 
-Web3 is laying the groundwork for a new, open financial infrastructure. Although the transition will take time, the efficiency, low costs, and permissionless nature of blockchain-based transactions present significant disruptive potential. As user experience improves and regulatory clarity increases, Web3 could fundamentally alter online transaction methods, building a more inclusive and efficient digital economy.
-
+Web3 is laying the groundwork for a new, open financial infrastructure. Although the transition will take time, the efficiency, low costs, and permissionless nature of blockchain-based transactions present significant new potential. As user experience improves and regulatory clarity increases, Web3 could fundamentally alter online transaction methods, building a more inclusive and efficient digital economy.

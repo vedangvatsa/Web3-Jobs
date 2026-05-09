@@ -42,11 +42,11 @@ A "third place" refers to a social environment outside your home and office, vit
 
 The tools you use directly impact your productivity. Investing in high-quality equipment yields significant returns.
 
-| Tool Type         | Recommended Items                                           |
+| Tool Type | Recommended Items |
 |-------------------|------------------------------------------------------------|
-| Tech Gear         | Powerful laptop, noise-canceling headphones, portable monitor |
-| Ergonomics        | Portable laptop stand, ergonomic mouse, separate keyboard   |
-| Software          | Project management tools (Notion, Asana), reliable VPN     |
+| Tech Gear | Powerful laptop, noise-canceling headphones, portable monitor |
+| Ergonomics | Portable laptop stand, ergonomic mouse, separate keyboard |
+| Software | Project management tools (Notion, Asana), reliable VPN |
 
 - **Tech Gear**: A powerful laptop, noise-canceling headphones, and a portable monitor form the essential trio for a productive nomad. A reliable mobile hotspot serves as a necessary backup. Refer to our [Ultimate Packing List for Digital Nomads](/the-ultimate-packing-list-for-digital-nomads-working-in-tech) for additional recommendations.
 - **Ergonomics**: The physical strain of working on a laptop can be significant. Investing in a portable laptop stand, ergonomic mouse, and separate keyboard can alleviate chronic neck and back pain.
@@ -86,4 +86,3 @@ Avoid the temptation to overhaul everything at once. Start with one small change
 #### Step 5: Measure and Adjust
 
 Track your progress. Are you achieving desired results? Adjust your techniques based on feedback and outcomes. A mindset focused on continuous improvement is essential.
-

@@ -53,24 +53,24 @@ This phase represents your "proof of work." Develop a high-quality solution for 
 **Role-Specific Examples:**
 
 - **Aspiring Technical Writer:**
-    - **Problem:** The documentation for using their [staking](/how-to-become-a-web3-staking-specialist) feature is unclear.
-    - **Solution:** Create a clear, concise guide with screenshots outlining the process. Publish it on your personal blog (e.g., on Mirror or Substack).
+ - **Problem:** The documentation for using their [staking](/how-to-become-a-web3-staking-specialist) feature is unclear.
+ - **Solution:** Create a clear, concise guide with screenshots outlining the process. Publish it on your personal blog (e.g., on Mirror or Substack).
 
 - **Aspiring Community Manager:**
-    - **Problem:** New users in Discord repeatedly ask the same questions.
-    - **Solution:** Compile a well-organized FAQ document addressing these questions. Share it with the community and offer to maintain it.
+ - **Problem:** New users in Discord repeatedly ask the same questions.
+ - **Solution:** Compile a well-organized FAQ document addressing these questions. Share it with the community and offer to maintain it.
 
 - **Aspiring Marketing Manager:**
-    - **Problem:** The project recently launched a significant feature, but the announcement was overly technical.
-    - **Solution:** Craft an engaging Twitter thread using simple language and visuals to explain the feature to a broader audience.
+ - **Problem:** The project recently launched a significant feature, but the announcement was overly technical.
+ - **Solution:** Craft an engaging Twitter thread using simple language and visuals to explain the feature to a broader audience.
 
 - **Aspiring Data Analyst:**
-    - **Problem:** The project lacks a suitable way to visualize user growth.
-    - **Solution:** Use Dune Analytics to create a dashboard tracking important metrics such as Daily Active Wallets, user retention, and transaction volume.
+ - **Problem:** The project lacks a suitable way to visualize user growth.
+ - **Solution:** Use Dune Analytics to create a dashboard tracking important metrics such as Daily Active Wallets, user retention, and transaction volume.
 
 - **Aspiring Developer:**
-    - **Problem:** You discover a minor, unassigned bug in the project's open-source GitHub repository.
-    - **Solution:** Resolve the bug, write a clean test case, and submit a professional pull request with a clear explanation of your changes.
+ - **Problem:** You discover a minor, unassigned bug in the project's open-source GitHub repository.
+ - **Solution:** Resolve the bug, write a clean test case, and submit a professional pull request with a clear explanation of your changes.
 
 #### Step 4: Share Your Work as a "Soft" Application
 
@@ -83,4 +83,3 @@ Having created your value-added piece, share it with the project’s community a
 At this stage, you are no longer an anonymous applicant. You have established yourself as a known contributor who has already demonstrated your skills and enthusiasm. You have effectively advanced your candidacy.
 
 This method requires dedication, initiative, and a genuine desire to provide value. By embodying the ethos of building publicly, you can stand out in the crowded job market and prove that you are the candidate they need.
-

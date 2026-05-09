@@ -22,11 +22,11 @@ Organize your skills into relevant categories. For example, if you are pursuing 
 
 | Skills Section Example | Technical Role | Marketing Role |
 |-----------------------|----------------|----------------|
-| Programming Languages  | Python, Java, JavaScript | N/A |
-| Developer Tools       | Git, Docker, AWS | N/A |
-| Databases             | MySQL, MongoDB | N/A |
+| Programming Languages | Python, Java, JavaScript | N/A |
+| Developer Tools | Git, Docker, AWS | N/A |
+| Databases | MySQL, MongoDB | N/A |
 | Social Media Marketing | N/A | Facebook Ads, SEO, Google Analytics |
-| Content Creation      | N/A | Blogging, Video Production |
+| Content Creation | N/A | Blogging, Video Production |
 
 * **Be Specific:** Instead of simply stating "Communication," specify "Public Speaking," "Technical Writing," or "Cross-functional Collaboration."
 * **Show, Don't Just Tell:** Whenever possible, connect a skill to a project or accomplishment, even if it is not from paid work. This concept is further explored in our guide on [Transferable Skills Every Professional Has](/transferable-skills-every-professional-has).
@@ -89,19 +89,19 @@ Competencies such as communication, problem-solving, and emotional intelligence 
 
 ### Core Competencies
 
-**Technical Foundation** (if applicable)  
+**Technical Foundation** (if applicable) 
 Understanding technical concepts relevant to your field is essential. You do not need to be an expert, but foundational knowledge prevents costly errors.
 
-**Communication Excellence**  
+**Communication Excellence** 
 The ability to articulate complex ideas clearly is rare and highly valued. Practice writing emails, documentation, and presentations. Clarity accelerates understanding and collaboration.
 
-**Problem-Solving Methodology**  
+**Problem-Solving Methodology** 
 Approach challenges methodically: define the problem, research solutions, evaluate options, implement, and measure outcomes. This framework applies to both technical and non-technical issues.
 
-**Learning Agility**  
+**Learning Agility** 
 In rapidly changing industries, the ability to learn new skills quickly is invaluable. Focus on experiential learning rather than mere consumption of content.
 
-**Emotional Intelligence**  
+**Emotional Intelligence** 
 Understanding and managing your emotions, as well as interpreting others' emotions, enhances your effectiveness in teamwork and negotiations.
 
 ## Development Roadmap
@@ -148,19 +148,19 @@ The importance of these skills varies by career level:
 
 ## Common Development Mistakes
 
-1. **Studying Without Doing**  
+1. **Studying Without Doing** 
 Theory without practice leads to superficial understanding. Focus on building projects instead of accumulating knowledge.
 
-2. **Neglecting Soft Skills**  
+2. **Neglecting Soft Skills** 
 While technical proficiency is common, strong soft skills are rare. Prioritize their development.
 
-3. **Not Seeking Feedback**  
+3. **Not Seeking Feedback** 
 Improving without feedback is challenging. Regularly seek input from mentors and colleagues.
 
-4. **Comparing Yourself to Others**  
+4. **Comparing Yourself to Others** 
 Skill development is a personal journey. Concentrate on your own progress.
 
-5. **Expecting Quick Mastery**  
+5. **Expecting Quick Mastery** 
 Genuine skill development takes time. Embrace the journey and enjoy the process.
 
 ## Resources for Continued Learning
@@ -181,4 +181,3 @@ Genuine skill development takes time. Embrace the journey and enjoy the process.
 - Participate in Reddit communities focused on your skills.
 - Attend local meetups and networking events.
 - Enroll in online cohort-based courses.
-

@@ -19,10 +19,10 @@ Mysten Labs developed Sui, bringing together a team of former senior engineers f
 Sui's most significant innovation lies in its data model. Unlike Ethereum and other EVM chains that rely on an "account-based" model, Sui employs an **object-centric model**.
 
 - **Mechanics of the Model:** In Sui, the fundamental data unit is an "object." This object can range from a basic [token](/what-is-a-token) to a sophisticated [NFT](/what-are-nfts) with dynamic attributes. Every object has a distinct ID and is owned by a specific address.
-  
+
 - **Parallel Transaction Processing:** This model enables Sui to process transactions in parallel. 
-  - Transactions involving "owned objects" (those owned by a single address with no dependencies on other objects) can be processed and finalized almost instantly. These transactions bypass the global consensus mechanism.
-  - Only transactions that involve "shared objects" (which can be modified by multiple users, such as a [smart contract](/what-are-smart-contracts) for a [DEX](/what-is-a-decentralized-exchange-dex)) must go through the more traditional consensus protocol.
+ - Transactions involving "owned objects" (those owned by a single address with no dependencies on other objects) can be processed and finalized almost instantly. These transactions bypass the global consensus mechanism.
+ - Only transactions that involve "shared objects" (which can be modified by multiple users, such as a [smart contract](/what-are-smart-contracts) for a [DEX](/what-is-a-decentralized-exchange-dex)) must go through the more traditional consensus protocol.
 
 - **Scalability Impact:** The capacity to process most transactions in parallel is important for Sui's scalability, theoretically allowing it to handle a very high number of transactions per second.
 
@@ -31,9 +31,9 @@ Sui's most significant innovation lies in its data model. Unlike Ethereum and ot
 Sui uses a smart contract programming language called **Move**, which was initially created for Meta's Diem project. Move focuses on safety and asset security.
 
 - **Key Features of Move:**
-  - **Strong Static Typing:** This feature helps to catch many common bugs during compile time.
-  - **Resource-Based Scarcity:** Move introduces "resources," a unique data type that cannot be duplicated or deleted accidentally. This characteristic makes it suitable for representing digital assets like tokens and NFTs, enhancing security at the language level.
-  - **Formal Verification:** Move's design facilitates analysis by formal verification tools, simplifying the process of writing secure and provably correct code.
+ - **Strong Static Typing:** This feature helps to catch many common bugs during compile time.
+ - **Resource-Based Scarcity:** Move introduces "resources," a unique data type that cannot be duplicated or deleted accidentally. This characteristic makes it suitable for representing digital assets like tokens and NFTs, enhancing security at the language level.
+ - **Formal Verification:** Move's design facilitates analysis by formal verification tools, simplifying the process of writing secure and provably correct code.
 
 For developers transitioning from other programming languages, learning Move may require a shift in mindset compared to [Solidity](/best-programming-languages-for-blockchain-development). However, Move offers strong guarantees regarding asset safety.
 
@@ -46,4 +46,3 @@ The Sui ecosystem is rapidly expanding, focusing on applications that can capita
 - **Payments and Social Applications:** Sui’s ability to handle fast, low-cost transactions suits payment applications and decentralized social media platforms.
 
 Developers, especially those familiar with systems programming languages like **Rust** (which shares syntax similarities with Move), will find ample opportunities within the Sui ecosystem. The demand for skilled **Move developers** is increasing, offering a promising career path for those willing to master this new blockchain technology.
-

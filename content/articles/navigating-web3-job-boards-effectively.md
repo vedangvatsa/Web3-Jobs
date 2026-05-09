@@ -20,14 +20,14 @@ To find success, develop a systematic approach to filter out distractions, ident
 
 Not all job boards provide the same quality. Focus on platforms recognized for high-quality, legitimate job postings.
 
-| Job Board            | Description                                                   |
+| Job Board | Description |
 |----------------------|---------------------------------------------------------------|
-| **Hashtag Web3**     | A reputable platform with a curated selection of Web3 jobs.  |
-| **CryptoJobs**       | Offers a diverse range of roles across the crypto industry.   |
-| **Web3.career**      | Specializes in connecting top talent with Web3 projects.      |
+| **Hashtag Web3** | A reputable platform with a curated selection of Web3 jobs. |
+| **CryptoJobs** | Offers a diverse range of roles across the crypto industry. |
+| **Web3.career** | Specializes in connecting top talent with Web3 projects. |
 | **VC Portfolio Pages**| Job boards from firms like a16z Crypto and Model list roles at vetted, well-funded projects. |
 | **Ecosystem-Specific Boards** | Target boards focused on specific ecosystems, such as Solana or Cosmos. |
-| **Twitter (X)**      | Engage with a curated list of influential founders and developers to discover opportunities before they're posted. |
+| **Twitter (X)** | Engage with a curated list of influential founders and developers to discover opportunities before they're posted. |
 
 ### Step 2: Develop a "Red Flag" Filter
 
@@ -49,10 +49,9 @@ In the Web3 space, a passive approach of merely applying for jobs is often ineff
 2. **Join the Community:** Participate actively in the project's Discord and Telegram channels. Ask thoughtful questions, assist newcomers, and engage in governance discussions. Build your reputation as a positive contributor.
 3. **Conduct Thorough Research:** Familiarize yourself with documentation, understand the tokenomics, and analyze on-chain data using tools like Dune. Develop an informed perspective on the project's strategy and competitive position.
 4. **Tailor Your "Proof of Work":** Your application must reflect your unique contributions.
-   - **For Developers:** Identify open issues on GitHub and submit pull requests.
-   - **For Analysts:** Create a Dune dashboard analyzing user growth or protocol revenue.
-   - **For Designers:** Develop a Figma prototype critiquing their UX with suggested improvements.
-   - **For Marketers:** Write a blog post dissecting their go-to-market strategy.
+ - **For Developers:** Identify open issues on GitHub and submit pull requests.
+ - **For Analysts:** Create a Dune dashboard analyzing user growth or protocol revenue.
+ - **For Designers:** Develop a Figma prototype critiquing their UX with suggested improvements.
+ - **For Marketers:** Write a blog post dissecting their go-to-market strategy.
 
 5. **The Application:** When you apply, prepare as an engaged community member who has demonstrated value. Reference your contributions in your cover letter, providing specific feedback about the product. This approach sets you apart from the majority of applicants.
-

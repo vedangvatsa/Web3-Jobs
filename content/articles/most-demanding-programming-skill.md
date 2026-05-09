@@ -35,7 +35,7 @@ LLMs operate on literal interpretations. Ambiguous language leads to misundersta
 
 | Prompt Type | Prompt | Quality |
 |-------------|--------|---------|
-| Bad Prompt  | "Write about dogs." | Vague, open to interpretation |
+| Bad Prompt | "Write about dogs." | Vague, open to interpretation |
 | Good Prompt | "Write a 500-word blog post about the benefits of positive reinforcement training for golden retriever puppies. The tone should be informative but friendly. Include a short, bulleted list of essential training equipment." | Specific and directive |
 
 #### 2. Providing Context
@@ -77,13 +77,13 @@ In modern careers, these competencies prove foundational. Whether in Web3, tradi
 
 ### Detailed Skill Breakdown
 
-| Skill Category               | Description                                                                 |
+| Skill Category | Description |
 |------------------------------|-----------------------------------------------------------------------------|
-| **Technical Foundation**      | Understanding relevant technical concepts is essential. Foundational knowledge prevents costly errors, though you need not be an expert. |
-| **Communication Excellence**  | The ability to articulate complex ideas clearly is invaluable. Practice writing emails, documentation, and presentations to enhance clarity. |
+| **Technical Foundation** | Understanding relevant technical concepts is essential. Foundational knowledge prevents costly errors, though you need not be an expert. |
+| **Communication Excellence** | The ability to articulate complex ideas clearly is invaluable. Practice writing emails, documentation, and presentations to enhance clarity. |
 | **Problem-Solving Methodology** | Approach problems systematically: define the issue, research solutions, evaluate options, implement, and measure effectiveness. This method applies to both technical and non-technical challenges. |
-| **Learning Agility**         | In fast-changing fields, the capacity to acquire new skills quickly is invaluable. Engage in hands-on learning rather than passive consumption of content. |
-| **Emotional Intelligence**    | Understanding and managing one's emotions, as well as interpreting others, enhances effectiveness in teams and negotiations. |
+| **Learning Agility** | In fast-changing fields, the capacity to acquire new skills quickly is invaluable. Engage in hands-on learning rather than passive consumption of content. |
+| **Emotional Intelligence** | Understanding and managing one's emotions, as well as interpreting others, enhances effectiveness in teams and negotiations. |
 
 ### Development Roadmap
 
@@ -156,18 +156,17 @@ Skills play differentiated roles at various career levels:
 
 ### FAQ
 
-**Can these skills be taught or are they innate?**  
+**Can these skills be taught or are they innate?** 
 All skills can develop through deliberate practice. While some individuals may possess natural advantages, training and experience hold far greater significance.
 
-**How do I know I'm improving?**  
+**How do I know I'm improving?** 
 Establish specific, measurable goals. Monitor progress through projects, feedback from peers, and success in your work. Progress typically compounds over time.
 
-**What is the expected time commitment?**  
+**What is the expected time commitment?** 
 Aim to dedicate 5-10 hours weekly for skill development. With consistent effort, significant improvement is achievable within 6-12 months.
 
-**How can I apply these skills in my current role?**  
+**How can I apply these skills in my current role?** 
 Start small by focusing on one skill each month. Apply it in daily tasks, seek feedback, and refine your approach as needed.
 
-**Are these skills relevant in Web3?**  
+**Are these skills relevant in Web3?** 
 Yes, they are even more critical within Web3 due to the fast-paced environment, distributed teams, and the necessity for clear communication in complex technical contexts.
-

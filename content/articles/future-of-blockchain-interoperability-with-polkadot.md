@@ -26,13 +26,13 @@ Dr. Gavin Wood, Polkadot's founder and co-founder of Ethereum, proposed a differ
 
 Polkadot's architecture resembles a hub and spoke model.
 
-**1. The Relay Chain (The Hub)**  
+**1. The Relay Chain (The Hub)** 
 The Relay Chain serves as the core of the Polkadot network. It is a secure and minimalist blockchain.
 
 - **Function:** The Relay Chain primarily facilitates communication and provides security for the connected chains. It does not process transactions or host applications.
 - **Shared Security:** Validators on the Relay Chain stake DOT (Polkadot's native [token](/what-is-a-token)) to secure the network. This security is shared among all connected blockchains.
 
-**2. Parachains (The Spokes)**  
+**2. Parachains (The Spokes)** 
 Parachains are specialized, sovereign blockchains that link to the Relay Chain.
 
 - **Specialization:** Each parachain can be tailored for specific use cases, such as DeFi, gaming, or digital identity. This specialization enhances flexibility and performance compared to a single, general-purpose blockchain.
@@ -45,9 +45,9 @@ XCM, or Cross-Consensus Message Format, enables communication among parachains.
 
 - **Nature of XCM:** XCM is a messaging format rather than a protocol. It standardizes how parachains exchange messages securely through the Relay Chain.
 - **Capabilities:** XCM allows for interoperability beyond basic token transfers. It can:
-  - Transfer assets across parachains.
-  - Invoke functions on smart contracts on other parachains.
-  - Send arbitrary data between chains.
+ - Transfer assets across parachains.
+ - Invoke functions on smart contracts on other parachains.
+ - Send arbitrary data between chains.
 - **Example Scenario:** A user on Acala, a DeFi parachain, can use their assets to engage with a game on a separate gaming parachain without relying on traditional bridges. This interaction occurs natively within the Polkadot ecosystem.
 
 ### Polkadot vs. Other Interoperability Solutions
@@ -66,4 +66,3 @@ Polkadot's ambitious vision presents challenges.
 - **Ecosystem Size:** Despite its powerful technology, Polkadot's ecosystem of decentralized applications (dApps) and users has not yet reached the scale of Ethereum's.
 
 Despite these hurdles, Polkadot offers one of the most compelling solutions to blockchain interoperability. Its architecture supports a secure and scalable framework for a future where diverse specialized blockchains can communicate and share value. As the Web3 ecosystem evolves into a multichain reality, Polkadot's principles of shared security and native interoperability will gain significance.
-

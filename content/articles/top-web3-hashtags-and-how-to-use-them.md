@@ -26,14 +26,14 @@ Hashtags in Web3 perform several key functions:
 
 These broad, high-volume hashtags represent the core aspects of the Web3 industry. They help ensure that your content captures the attention of a wide audience interested in this space.
 
-| Hashtag          | Description                                           |
+| Hashtag | Description |
 |------------------|-------------------------------------------------------|
-| `#Web3`          | Refers to the decentralized internet.                 |
-| `#Crypto`        | Encompasses financial and trading aspects of cryptocurrency. |
-| `#Blockchain`    | Technical term for discussions related to the technology. |
-| `#Ethereum`      | Pertains to the dominant platform for smart contracts. |
-| `#DeFi`          | Relates to Decentralized Finance content.             |
-| `#NFT`           | Focuses on Non-Fungible Tokens.                        |
+| `#Web3` | Refers to the decentralized internet. |
+| `#Crypto` | Encompasses financial and trading aspects of cryptocurrency. |
+| `#Blockchain` | Technical term for discussions related to the technology. |
+| `#Ethereum` | Pertains to the dominant platform for smart contracts. |
+| `#DeFi` | Relates to Decentralized Finance content. |
+| `#NFT` | Focuses on Non-Fungible Tokens. |
 
 **Strategy:** Incorporate one or two of these foundational hashtags in most posts to maximize visibility.
 
@@ -41,12 +41,12 @@ These broad, high-volume hashtags represent the core aspects of the Web3 industr
 
 These hashtags demonstrate that you are aware of current industry trends.
 
-| Hashtag      | Description                                           |
+| Hashtag | Description |
 |--------------|-------------------------------------------------------|
-| `#L2s`       | Discusses Layer 2 scaling solutions like Arbitrum and Optimism. |
-| `#RWA`       | Centers on the trend of tokenizing real-world assets. |
-| `#DePIN`     | Covers projects focused on decentralized physical infrastructure. |
-| `#AI`        | Addresses the intersection of artificial intelligence and Web3. |
+| `#L2s` | Discusses Layer 2 scaling solutions like Arbitrum and Optimism. |
+| `#RWA` | Centers on the trend of tokenizing real-world assets. |
+| `#DePIN` | Covers projects focused on decentralized physical infrastructure. |
+| `#AI` | Addresses the intersection of artificial intelligence and Web3. |
 | `#Restaking` | Focuses on the DeFi narrative around protocols like EigenLayer. |
 
 **Strategy:** Identify one to two relevant narratives and consistently use those hashtags to establish your expertise.
@@ -55,9 +55,9 @@ These hashtags demonstrate that you are aware of current industry trends.
 
 These hashtags help you connect authentically with the Web3 community.
 
-| Hashtag  | Description                                             |
+| Hashtag | Description |
 |----------|---------------------------------------------------------|
-| `#gm`    | "Good Morning," a daily engagement ritual.              |
+| `#gm` | "Good Morning," a daily engagement ritual. |
 | `#WAGMI` | "We're All Gonna Make It," a phrase that embodies optimism. |
 | `#BUIDL` | A playful misspelling of "build," indicating a focus on long-term value. |
 
@@ -72,4 +72,3 @@ For any single post, a recommended hashtag structure includes:
 3. **(Optional) 1 Event Hashtag:** If applicable (e.g., `#ETHGlobal`)
 
 By understanding and using the different tiers of hashtags, you can amplify your message, reach your target audience, and position your brand as an informed and credible presence in the Web3 space.
-

@@ -44,12 +44,11 @@ As you transition from Web2, your [portfolio](/building-web3-portfolio) becomes 
 
 1. **Immerse Yourself as a User**: Engage with [DeFi](/what-is-defi) protocols, purchase [NFTs](/what-are-nfts), and experience the strengths and weaknesses of Web3 UX firsthand.
 2. **The Redesign Project**: Make this the centerpiece of your portfolio:
-   - Identify a popular dApp with a poor user experience.
-   - Develop a detailed case study that focuses on redesigning a specific user flow, such as the [staking](/how-to-become-a-web3-staking-specialist) process or governance voting page.
-   - Document your process: Define the problem, identify the user, and explain your design decisions.
-   - Create high-fidelity mockups using Figma.
+ - Identify a popular dApp with a poor user experience.
+ - Develop a detailed case study that focuses on redesigning a specific user flow, such as the [staking](/how-to-become-a-web3-staking-specialist) process or governance voting page.
+ - Document your process: Define the problem, identify the user, and explain your design decisions.
+ - Create high-fidelity mockups using Figma.
 3. **Contribute to an Open-Source Project**: Find a Web3 project on GitHub and offer your design skills, whether by redesigning a component, creating a new icon set, or improving documentation layout.
 4. **Publish Your Insights**: Write blog posts or Twitter threads discussing specific Web3 UX challenges and your proposed solutions.
 
-A career as a Web3 UX designer places you at the forefront of a design evolution. By prioritizing clarity, security, and user empathy, you can significantly impact the accessibility of the decentralized internet.
-
+A career as a Web3 UX designer places you leading a design evolution. By prioritizing clarity, security, and user empathy, you can significantly impact the accessibility of the decentralized internet.

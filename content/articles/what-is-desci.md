@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-29"
 ---
 
-The scientific research field faces challenges that hinder its effectiveness. Centralized funding structures limit opportunities for new researchers outside elite institutions. Many research papers remain inaccessible due to high paywalls, stifling the dissemination of knowledge. Collaboration is often restricted by institutional barriers, leading to duplicated efforts and missed opportunities for joint discoveries. Additionally, the peer review process is slow, with critical findings stalled in lengthy review cycles. The emphasis on publication counts for career advancement frequently prioritizes quantity over impactful research. These systemic issues create an environment where scientific progress is often hampered.
+The scientific research field faces challenges that hinder its effectiveness. Centralized funding structures limit opportunities for new researchers outside elite institutions. Many research papers remain inaccessible due to high paywalls, stifling the dissemination of knowledge. Collaboration is often restricted by institutional barriers, leading to duplicated efforts and missed opportunities for joint discoveries. the peer review process is slow, with critical findings stalled in lengthy review cycles. The emphasis on publication counts for career advancement frequently prioritizes quantity over impactful research. These systemic issues create an environment where scientific progress is often hampered.
 
 **Decentralized Science (DeSci)** seeks to address these challenges by promoting a more open, equitable, and transparent scientific ecosystem. By using Web3 technologies, including decentralized autonomous organizations (DAOs), non-fungible tokens (NFTs), and decentralized storage, DeSci aims to create a public infrastructure that enhances scientific funding, peer review, and knowledge sharing.
 
@@ -87,8 +87,7 @@ DeSci introduces new incentive structures using tokens and NFTs. These systems c
 
 NFTs and smart contracts offer new ways to manage intellectual property in research. This approach allows for:
 
-- Streamlined licensing of research findings.
+- simplify licensing of research findings.
 - Shared commercialization rights among multiple stakeholders.
 - New funding mechanisms based on research outcomes.
 - Tracking and rewarding contributions throughout the research lifecycle.
-

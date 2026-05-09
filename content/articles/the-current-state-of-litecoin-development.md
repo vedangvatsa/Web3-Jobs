@@ -32,9 +32,9 @@ Litecoin has operated for over a decade with exceptional uptime. Fewer commits t
 
 It is important to differentiate between core protocol development and ecosystem development. While the core Litecoin client remains stable, innovation thrives in the surrounding ecosystem, including:
 
-| Ecosystem Component         | Description                                                  |
+| Ecosystem Component | Description |
 |-----------------------------|--------------------------------------------------------------|
-| **Lightning Network**       | A fully operational Lightning Network that facilitates quick, low-cost transactions. We will assess the growth in channels, nodes, and capacity on Litecoin's network. |
+| **Lightning Network** | A fully operational Lightning Network that facilitates quick, low-cost transactions. We will assess the growth in channels, nodes, and capacity on Litecoin's network. |
 | **MWEB (Mimblewimble Extension Block)** | A significant upgrade that provides opt-in privacy for transactions. We will detail the technical aspects of MWEB and its adoption since launch. |
 | **Third-Party Wallets & Services** | A survey of wallets, payment processors, and exchanges supporting Litecoin, particularly its MWEB features. The integration by third parties serves as a critical indicator of ecosystem vitality. |
 
@@ -52,7 +52,7 @@ The technical implementation includes transaction "cut-through," allowing the re
 
 Despite its technical sophistication, MWEB has encountered challenges in adoption. Major exchanges, particularly in South Korea, delisted Litecoin following MWEB's activation, citing concerns over anti-money laundering (AML) regulations. This has restricted access to the protocol for certain market segments.
 
-We will analyze on-chain data to monitor the volume of LTC entering and exiting the MWEB. This analysis will provide insights into user engagement with this privacy feature. Additionally, we will discuss community efforts to educate users and exchanges on MWEB's opt-in nature and its compatibility with compliance frameworks. The success of MWEB plays a important role in Litecoin's future relevance as a medium of exchange.
+We will analyze on-chain data to monitor the volume of LTC entering and exiting the MWEB. This analysis will provide insights into user engagement with this privacy feature. we will discuss community efforts to educate users and exchanges on MWEB's opt-in nature and its compatibility with compliance frameworks. The success of MWEB plays a important role in Litecoin's future relevance as a medium of exchange.
 
 ## Litecoin's Niche: A Reliable Medium of Exchange
 
@@ -72,11 +72,10 @@ A cryptocurrency's acceptance among merchants is a fundamental indicator of its 
 
 Litecoin operates within a competitive ecosystem that includes various challengers:
 
-| Competitor                  | Description                                                  |
+| Competitor | Description |
 |-----------------------------|--------------------------------------------------------------|
 | **Bitcoin's Lightning Network** | As Bitcoin's own Layer 2 payment solution matures, it directly competes with Litecoin's primary use case. |
-| **Stablecoins**             | Stable assets have emerged as primary currencies for payments, offering price stability absent in volatile assets like LTC. |
-| **Newer L1s**              | High-throughput blockchains provide quick, inexpensive transactions and support vibrant dApp ecosystems, pressuring older chains. |
+| **Stablecoins** | Stable assets have emerged as primary currencies for payments, offering price stability absent in volatile assets like LTC. |
+| **Newer L1s** | High-throughput blockchains provide quick, inexpensive transactions and support active dApp ecosystems, pressuring older chains. |
 
 We will analyze how Litecoin's value proposition stacks up against these competitors. Does its established brand, long history of security, and new privacy features from MWEB provide a competitive edge?
-

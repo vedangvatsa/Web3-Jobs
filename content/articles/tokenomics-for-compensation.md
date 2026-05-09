@@ -24,11 +24,11 @@ The primary objective of a token compensation plan is to achieve **long-term ali
 
 A token grant typically includes the following components:
 
-| Component               | Description                                                                                                                                     |
+| Component | Description |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Grant Size**          | The total number of tokens allocated, expressed as a percentage of the total token supply and a relative value at the time of the grant.            |
-| **Vesting Schedule**    | The timeline over which the employee earns the right to their tokens, usually spanning **four years**.                                         |
-| **Cliff**               | A designated period at the start of the vesting schedule during which no tokens vest, typically a **one-year** cliff.                          |
+| **Grant Size** | The total number of tokens allocated, expressed as a percentage of the total token supply and a relative value at the time of the grant. |
+| **Vesting Schedule** | The timeline over which the employee earns the right to their tokens, usually spanning **four years**. |
+| **Cliff** | A designated period at the start of the vesting schedule during which no tokens vest, typically a **one-year** cliff. |
 
 #### 1. The Grant Size
 
@@ -76,4 +76,3 @@ Transparency in communicating token compensation details to candidates and emplo
 - **Provide Tax Guidance**: The receipt and sale of tokens carry significant tax implications. While providing tax advice is not feasible, offer resources and encourage employees to consult with a knowledgeable tax professional.
 
 By adopting token-based compensation, organizations transform employees into owners, aligning the entire team around a shared mission. Thoughtful, transparent plans with long-term vesting attract top talent and cultivate dedicated teams focused on creating lasting value.
-

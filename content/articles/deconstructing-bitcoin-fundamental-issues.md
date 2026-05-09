@@ -31,7 +31,7 @@ Bitcoin's security relies on its Proof-of-Work (PoW) consensus mechanism, which 
 The debate around Bitcoin's energy consumption includes two contrasting perspectives:
 
 * **Critics argue** that the energy consumed by the Bitcoin network, comparable to that of some small countries, represents a wasteful and unnecessary externality for a digital asset.
-* **Proponents contend** that a growing portion of Bitcoin mining uses renewable energy sources. They assert that the energy is not wasted but rather a necessary cost for securing a global, decentralized monetary network, providing substantial value. Additionally, Bitcoin mining can monetize stranded or excess energy, promoting greater efficiency in energy grids.
+* **Proponents contend** that a growing portion of Bitcoin mining uses renewable energy sources. They assert that the energy is not wasted but rather a necessary cost for securing a global, decentralized monetary network, providing substantial value. Bitcoin mining can monetize stranded or excess energy, promoting greater efficiency in energy grids.
 
 Regardless of personal views, the energy consumption associated with Bitcoin's PoW mechanism poses a significant challenge for public perception and regulatory acceptance.
 
@@ -55,10 +55,9 @@ The debate over increasing the block size, which led to the creation of Bitcoin 
 
 The future of Bitcoin hinges on its community's ability to confront these issues head-on. Below is a structured overview of potential strategies to address these challenges.
 
-| Challenge                       | Current State                                | Potential Solutions                                          |
+| Challenge | Current State | Potential Solutions |
 |---------------------------------|---------------------------------------------|-------------------------------------------------------------|
-| Scalability                     | Limited to ~7 TPS                           | Enhance Layer 2 solutions like Lightning Network            |
-| Energy Consumption              | High environmental impact                   | Increase renewable energy usage in mining                   |
-| Fee Market & Security Budget     | Dependency on transaction fees               | Explore alternative incentive models and fee structures     |
-| Conservative Development         | Slow protocol changes                        | Encourage more flexible governance structures                |
-
+| Scalability | Limited to ~7 TPS | Enhance Layer 2 solutions like Lightning Network |
+| Energy Consumption | High environmental impact | Increase renewable energy usage in mining |
+| Fee Market & Security Budget | Dependency on transaction fees | Explore alternative incentive models and fee structures |
+| Conservative Development | Slow protocol changes | Encourage more flexible governance structures |

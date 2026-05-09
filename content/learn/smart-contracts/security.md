@@ -6,46 +6,46 @@ readTime: "9 min"
 difficulty: "advanced"
 prerequisites: ["erc20"]
 quiz:
-  - question: "What is a reentrancy attack?"
-    options:
-      - "When a hacker guesses your private key"
-      - "When a malicious contract calls a withdrawal function, receives funds, and calls the withdrawal function again before its balance is updated"
-      - "When a network processes the same block twice"
-      - "When an admin loses their keys"
-    correct: 1
-    explanation: "Reentrancy occurs when a contract sends ETH to an external address before updating its internal state. A malicious receiving contract can instantly call back ('re-enter') the withdrawal function, draining the contract before the first balance update finishes."
-  - question: "What is the standard pattern used to prevent reentrancy attacks?"
-    options:
-      - "Checks-Effects-Interactions (CEI)"
-      - "Object-Oriented Design"
-      - "Proof of Work"
-      - "Encrypting the source code"
-    correct: 0
-    explanation: "The Checks-Effects-Interactions pattern dictates that a function should first Check conditions, then update state Effects (like setting balance to zero), and ONLY THEN Interact with external contracts (like sending ETH). This prevents the re-entry from finding a positive balance."
-  - question: "What is a reentrancy guard (ReentrancyGuard)?"
-    options:
-      - "A firewall hardware device"
-      - "A modifier (like nonReentrant) that uses a boolean flag to lock a function while it is executing"
-      - "An antivirus for Ethereum"
-      - "A consensus rule"
-    correct: 1
-    explanation: "OpenZeppelin's ReentrancyGuard provides a `nonReentrant` modifier. It sets a flag to true when the function starts and false when it ends. If the function is called again while the flag is true, it reverts."
-  - question: "What is a common access control vulnerability?"
-    options:
-      - "Making a sensitive function 'public' without requiring the caller to be an admin/owner"
-      - "Using the wrong compiler version"
-      - "Storing data on IPFS"
-      - "Paying too much gas"
-    correct: 0
-    explanation: "If you have a function like `withdrawProtocolFees()` and leave it `public` without a `require(msg.sender == owner)`, anyone can call it and steal the fees. Access control is vital."
-  - question: "Why should you use audited libraries like OpenZeppelin instead of writing your own token logic?"
-    options:
-      - "It makes the code run faster"
-      - "OpenZeppelin pays you to use their code"
-      - "Their code is battle-tested, heavily audited, and secures billions of dollars, reducing your risk of writing a bug"
-      - "It is required by law"
-    correct: 2
-    explanation: "Writing custom implementation of standards like ERC-20 or Ownable introduces unnecessary risk. Using community-audited, battle-tested libraries like OpenZeppelin is the industry standard for safety."
+ - question: "What is a reentrancy attack?"
+ options:
+ - "When a hacker guesses your private key"
+ - "When a malicious contract calls a withdrawal function, receives funds, and calls the withdrawal function again before its balance is updated"
+ - "When a network processes the same block twice"
+ - "When an admin loses their keys"
+ correct: 1
+ explanation: "Reentrancy occurs when a contract sends ETH to an external address before updating its internal state. A malicious receiving contract can instantly call back ('re-enter') the withdrawal function, draining the contract before the first balance update finishes."
+ - question: "What is the standard pattern used to prevent reentrancy attacks?"
+ options:
+ - "Checks-Effects-Interactions (CEI)"
+ - "Object-Oriented Design"
+ - "Proof of Work"
+ - "Encrypting the source code"
+ correct: 0
+ explanation: "The Checks-Effects-Interactions pattern dictates that a function should first Check conditions, then update state Effects (like setting balance to zero), and ONLY THEN Interact with external contracts (like sending ETH). This prevents the re-entry from finding a positive balance."
+ - question: "What is a reentrancy guard (ReentrancyGuard)?"
+ options:
+ - "A firewall hardware device"
+ - "A modifier (like nonReentrant) that uses a boolean flag to lock a function while it is executing"
+ - "An antivirus for Ethereum"
+ - "A consensus rule"
+ correct: 1
+ explanation: "OpenZeppelin's ReentrancyGuard provides a `nonReentrant` modifier. It sets a flag to true when the function starts and false when it ends. If the function is called again while the flag is true, it reverts."
+ - question: "What is a common access control vulnerability?"
+ options:
+ - "Making a sensitive function 'public' without requiring the caller to be an admin/owner"
+ - "Using the wrong compiler version"
+ - "Storing data on IPFS"
+ - "Paying too much gas"
+ correct: 0
+ explanation: "If you have a function like `withdrawProtocolFees()` and leave it `public` without a `require(msg.sender == owner)`, anyone can call it and steal the fees. Access control is vital."
+ - question: "Why should you use audited libraries like OpenZeppelin instead of writing your own token logic?"
+ options:
+ - "It makes the code run faster"
+ - "OpenZeppelin pays you to use their code"
+ - "Their code is battle-tested, heavily audited, and secures billions of dollars, reducing your risk of writing a bug"
+ - "It is required by law"
+ correct: 2
+ explanation: "Writing custom implementation of standards like ERC-20 or Ownable introduces unnecessary risk. Using community-audited, battle-tested libraries like OpenZeppelin is the industry standard for safety."
 ---
 
 ## The stakes are high
@@ -56,31 +56,31 @@ Security must be the primary focus of every Solidity developer.
 
 <div class="diagram">
 <svg viewBox="0 0 800 130" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
-  <text x="400" y="20" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">Top Smart Contract Vulnerabilities</text>
+ <text x="400" y="20" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">Top Smart Contract Vulnerabilities</text>
 
-  <rect x="20" y="35" width="175" height="80" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
-  <text x="107" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">Reentrancy</text>
-  <text x="107" y="75" text-anchor="middle" font-size="9" fill="#ef4444">External call before</text>
-  <text x="107" y="88" text-anchor="middle" font-size="9" fill="#ef4444">state update</text>
-  <text x="107" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: CEI pattern</text>
+ <rect x="20" y="35" width="175" height="80" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+ <text x="107" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">Reentrancy</text>
+ <text x="107" y="75" text-anchor="middle" font-size="9" fill="#ef4444">External call before</text>
+ <text x="107" y="88" text-anchor="middle" font-size="9" fill="#ef4444">state update</text>
+ <text x="107" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: CEI pattern</text>
 
-  <rect x="215" y="35" width="175" height="80" rx="8" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
-  <text x="302" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#854d0e">Access Control</text>
-  <text x="302" y="75" text-anchor="middle" font-size="9" fill="#eab308">Missing onlyOwner</text>
-  <text x="302" y="88" text-anchor="middle" font-size="9" fill="#eab308">on admin functions</text>
-  <text x="302" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: OpenZeppelin</text>
+ <rect x="215" y="35" width="175" height="80" rx="8" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+ <text x="302" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#854d0e">Access Control</text>
+ <text x="302" y="75" text-anchor="middle" font-size="9" fill="#eab308">Missing onlyOwner</text>
+ <text x="302" y="88" text-anchor="middle" font-size="9" fill="#eab308">on admin functions</text>
+ <text x="302" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: OpenZeppelin</text>
 
-  <rect x="410" y="35" width="175" height="80" rx="8" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
-  <text x="497" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e40af">Integer Overflow</text>
-  <text x="497" y="75" text-anchor="middle" font-size="9" fill="#3b82f6">Math wraps around</text>
-  <text x="497" y="88" text-anchor="middle" font-size="9" fill="#3b82f6">to max/min values</text>
-  <text x="497" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: Solidity 0.8+</text>
+ <rect x="410" y="35" width="175" height="80" rx="8" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
+ <text x="497" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e40af">Integer Overflow</text>
+ <text x="497" y="75" text-anchor="middle" font-size="9" fill="#3b82f6">Math wraps around</text>
+ <text x="497" y="88" text-anchor="middle" font-size="9" fill="#3b82f6">to max/min values</text>
+ <text x="497" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: Solidity 0.8+</text>
 
-  <rect x="605" y="35" width="175" height="80" rx="8" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
-  <text x="692" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Front-Running</text>
-  <text x="692" y="75" text-anchor="middle" font-size="9" fill="#a855f7">Bots see pending TX</text>
-  <text x="692" y="88" text-anchor="middle" font-size="9" fill="#a855f7">and trade ahead</text>
-  <text x="692" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: Slippage checks</text>
+ <rect x="605" y="35" width="175" height="80" rx="8" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+ <text x="692" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Front-Running</text>
+ <text x="692" y="75" text-anchor="middle" font-size="9" fill="#a855f7">Bots see pending TX</text>
+ <text x="692" y="88" text-anchor="middle" font-size="9" fill="#a855f7">and trade ahead</text>
+ <text x="692" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: Slippage checks</text>
 </svg>
 </div>
 
@@ -94,20 +94,20 @@ Imagine a contract where users can deposit and withdraw ETH.
 
 ```solidity
 contract VulnerableBank {
-    mapping(address => uint256) public balances;
+ mapping(address => uint256) public balances;
 
-    // 1. User requests withdrawal
-    function withdraw() public {
-        uint256 amount = balances[msg.sender];
-        require(amount > 0, "No balance");
+ // 1. User requests withdrawal
+ function withdraw() public {
+ uint256 amount = balances[msg.sender];
+ require(amount > 0, "No balance");
 
-        // 2. Contract sends the ETH to the user
-        (bool success, ) = msg.sender.call{value: amount}("");
-        require(success, "Transfer failed");
+ // 2. Contract sends the ETH to the user
+ (bool success, ) = msg.sender.call{value: amount}("");
+ require(success, "Transfer failed");
 
-        // 3. Contract updates the user's balance to 0
-        balances[msg.sender] = 0;
-    }
+ // 3. Contract updates the user's balance to 0
+ balances[msg.sender] = 0;
+ }
 }
 ```
 
@@ -123,20 +123,20 @@ Always update your state *before* interacting with the outside world.
 
 ```solidity
 contract SafeBank {
-    mapping(address => uint256) public balances;
+ mapping(address => uint256) public balances;
 
-    function withdraw() public {
-        // CHECKS
-        uint256 amount = balances[msg.sender];
-        require(amount > 0, "No balance");
+ function withdraw() public {
+ // CHECKS
+ uint256 amount = balances[msg.sender];
+ require(amount > 0, "No balance");
 
-        // EFFECTS (Update state FIRST)
-        balances[msg.sender] = 0;
+ // EFFECTS (Update state FIRST)
+ balances[msg.sender] = 0;
 
-        // INTERACTIONS (Send ETH LAST)
-        (bool success, ) = msg.sender.call{value: amount}("");
-        require(success, "Transfer failed");
-    }
+ // INTERACTIONS (Send ETH LAST)
+ (bool success, ) = msg.sender.call{value: amount}("");
+ require(success, "Transfer failed");
+ }
 }
 ```
 Now, if the hacker tries to re-enter, the `amount` will be 0 on the second loop, and the attack fails. Developers also commonly use OpenZeppelin's `nonReentrant` modifier to lock functions during execution.
@@ -148,13 +148,13 @@ Access control defines *who* is allowed to call certain functions. A classic mis
 ```solidity
 // VULNERABLE
 function changeOwner(address newOwner) public {
-    owner = newOwner; // Anyone can call this and take over the contract!
+ owner = newOwner; // Anyone can call this and take over the contract!
 }
 
 // SAFE
 function changeOwner(address newOwner) public {
-    require(msg.sender == owner, "Not authorized");
-    owner = newOwner;
+ require(msg.sender == owner, "Not authorized");
+ owner = newOwner;
 }
 ```
 

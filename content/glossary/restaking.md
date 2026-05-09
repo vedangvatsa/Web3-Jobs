@@ -202,4 +202,4 @@ Restaking evolution:
 
 ## Maximize Validator Yield
 
-Restaking offers significant capital efficiency for validators willing to bear additional risks. If you're interested in blockchain protocol security, validator economics, or building next-generation security infrastructure, explore [blockchain infrastructure careers](/) at Eigenlayer, protocols building AVS, and validator services. These roles focus on evolving validator economics and protocol security in more capital-efficient directions.
+Restaking offers significant capital efficiency for validators willing to bear additional risks. If you're interested in blockchain protocol security, validator economics, or building modern security infrastructure, explore [blockchain infrastructure careers](/) at Eigenlayer, protocols building AVS, and validator services. These roles focus on evolving validator economics and protocol security in more capital-efficient directions.

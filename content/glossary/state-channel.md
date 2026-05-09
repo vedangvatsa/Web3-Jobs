@@ -67,7 +67,7 @@ Comparing scaling solutions:
 | **Liquidity** | Locked in channels | Better capital efficiency |
 | **Finality** | Participant-defined | Blockchain finality |
 | **Scalability** | Very high (per channel) | High (per chain) |
-| **UX** | Channel management friction | Seamless to user |
+| **UX** | Channel management friction | smooth to user |
 
 State channels are for payments; rollups are for general computation.
 

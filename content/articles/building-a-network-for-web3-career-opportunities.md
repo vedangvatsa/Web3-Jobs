@@ -49,4 +49,3 @@ Despite being internet-native, in-person events present high-value networking op
 4. **The "Warm" DM:** After establishing a rapport, send a direct message. Do not ask for a job; instead, seek feedback on your work or pose a specific question about one of their initiatives.
 
 Building a network in Web3 is a long-term commitment. It involves demonstrating value, sharing knowledge, and Building meaningful relationships. Through consistent contributions, you will develop a reputation that attracts top career opportunities in the space.
-

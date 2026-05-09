@@ -39,9 +39,9 @@ The revenue share model aligns incentives among all parties. A typical earnings 
 
 | Earnings Distribution | Percentage |
 |-----------------------|------------|
-| To the Scholar        | 60-70%     |
-| To the Guild          | 20-30%     |
-| To the Manager        | 5-10%      |
+| To the Scholar | 60-70% |
+| To the Guild | 20-30% |
+| To the Manager | 5-10% |
 
 In this arrangement, the scholar retains the majority of their earnings, which they can keep, spend, or reinvest. The guild receives a portion to reinvest in new assets and cover operational costs, while managers are compensated for their work in supporting scholars.
 
@@ -51,7 +51,7 @@ The economic dynamics are favorable. Players who previously earned nothing can n
 
 ### Yield Guild Games (YGG): The Market Leader
 
-**Yield Guild Games (YGG)** stands out as the most prominent and influential gaming guild. Established in 2020, YGG was at the forefront of the scholarship model and has grown into a significant entity in GameFi. By 2022, YGG had achieved notable milestones:
+**Yield Guild Games (YGG)** stands out as the most prominent and influential gaming guild. Established in 2020, YGG was leading the scholarship model and has grown into a significant entity in GameFi. By 2022, YGG had achieved notable milestones:
 
 - A substantial number of active scholars
 - Presence in numerous countries
@@ -71,7 +71,7 @@ Initially focused on scholarships, gaming guilds have significantly broadened th
 
 **Player Data Platforms**: Guilds are developing on-chain "resumes" for scholars, documenting gaming history and achievements. This data is valuable for assessing player skills, reliability, and earning potential. New games can use this information to better match players with suitable challenges and recruitment initiatives.
 
-**Community and Social Hubs**: Guilds serve as vibrant communities, supporting a sense of belonging among gamers. Scholars often express that the community aspect, connecting with fellow gamers for strategy sharing and encouragement, holds nearly as much value as the financial benefits.
+**Community and Social Hubs**: Guilds serve as active communities, supporting a sense of belonging among gamers. Scholars often express that the community aspect, connecting with fellow gamers for strategy sharing and encouragement, holds nearly as much value as the financial benefits.
 
 **Research and Analytics**: Leading guilds are investing in analytics to assess game economics, sustainability, and resource allocation. Guilds like YGG produce research that shapes industry trends and provides insights into the viability of different games.
 
@@ -158,4 +158,3 @@ A variety of roles are emerging within gaming guilds, including:
 - **Data Scientist**: Analyzes scholar performance, forecasts game sustainability, and optimizes resource allocation.
 
 Compensation in these roles varies, with guild managers earning commission-based incomes, while leadership positions at major guilds can command competitive salaries.
-

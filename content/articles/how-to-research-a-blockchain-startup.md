@@ -35,8 +35,8 @@ The economic model of the project significantly impacts its long-term viability.
 
 - **Token Utility:** Analyze the purpose of the token. Does it serve a clear function, such as governance, [staking](/how-to-become-a-web3-staking-specialist), or fee payments? A token lacking real utility raises red flags.
 - **Token Distribution:** Scrutinize who holds the tokens and how they are allocated. 
-  - **Red Flags:** A high percentage of tokens allocated to the team and private investors with short vesting periods increases the risk of token dumping on the community.
-  - **Green Flags:** A substantial portion of tokens reserved for the community treasury distributed over several years indicates a commitment to long-term sustainability.
+ - **Red Flags:** A high percentage of tokens allocated to the team and private investors with short vesting periods increases the risk of token dumping on the community.
+ - **Green Flags:** A substantial portion of tokens reserved for the community treasury distributed over several years indicates a commitment to long-term sustainability.
 - **Value Accrual:** Evaluate how value returns to token holders. Is the protocol generating revenue through mechanisms like trading fees? Is this revenue used to buy back tokens or distributed to stakers?
 
 ### 4. Community and Ecosystem
@@ -55,4 +55,3 @@ Understanding the financial supportings of a project provides insight into its s
 - **Treasury Management Practices:** Examine how the project's treasury is managed. Is it mainly held in volatile assets, or has it been diversified into stablecoins? A well-managed treasury enhances the project's chances of weathering market downturns.
 
 Joining a Web3 startup is a significant decision. By conducting thorough due diligence, you can discern the genuine risks and opportunities, allowing you to make an informed choice about where to invest your time and talents.
-

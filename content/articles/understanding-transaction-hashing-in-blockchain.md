@@ -45,4 +45,3 @@ For everyday users, the transaction hash acts as a receipt.
 - **Verification**: The transaction hash serves as definitive proof that a transaction took place. When sending funds to an exchange or merchant, the TxID provides verifiable proof of payment.
 
 Transaction hashing is a straightforward yet powerful concept. It transforms arbitrary data into a secure and unique fingerprint, enabling a decentralized network to agree on a single, tamper-proof version of history. Without hashing, the trustless environment of [Web3](/what-is-web3) would not be possible.
-

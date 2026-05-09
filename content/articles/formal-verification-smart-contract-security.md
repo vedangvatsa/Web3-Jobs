@@ -22,10 +22,10 @@ Formal verification uses mathematical logic to assert properties about code. Unl
 
 ### Comparison of Verification Methods
 
-| Method                     | Approach                                     | Limitations                                                   |
+| Method | Approach | Limitations |
 |---------------------------|----------------------------------------------|--------------------------------------------------------------|
-| **Traditional Testing**    | Runs specific test cases to check code      | Cannot test every possible input or edge case                |
-| **Formal Verification**    | Uses mathematical specifications to validate | Requires clear specifications; cannot identify business logic flaws |
+| **Traditional Testing** | Runs specific test cases to check code | Cannot test every possible input or edge case |
+| **Formal Verification** | Uses mathematical specifications to validate | Requires clear specifications; cannot identify business logic flaws |
 
 In traditional testing, developers write test cases covering various scenarios. A passing test increases confidence in the code's functionality, but untested scenarios may still harbor bugs.
 
@@ -38,15 +38,15 @@ Smart contracts manage financial assets, and errors can have dire consequences.
 ### Key Challenges Addressed by Formal Verification
 
 1. **Immutability:** Once deployed, smart contracts cannot be easily modified. If a bug is discovered after deployment, funds can be permanently lost. Traditional software can be patched quickly, but smart contracts lack this flexibility.
-   
+
 2. **Scale of Assets:** High-value decentralized finance (DeFi) protocols can secure significant amounts of assets. Traditional audits rely heavily on human review, which can overlook critical bugs. Formal verification provides an additional layer of assurance.
 
 3. **Vulnerability Classes:** Formal verification can eliminate entire categories of bugs, including:
-   - Integer overflow/underflow
-   - Reentrancy vulnerabilities
-   - Access control violations
-   - Incorrect state transitions
-   - [Token](/what-is-a-token) arithmetic errors
+ - Integer overflow/underflow
+ - Reentrancy vulnerabilities
+ - Access control violations
+ - Incorrect state transitions
+ - [Token](/what-is-a-token) arithmetic errors
 
 Historically, these bugs have resulted in significant financial losses. Formal verification can mathematically demonstrate that these vulnerabilities are impossible within a contract.
 
@@ -61,16 +61,16 @@ The formal verification process consists of several key steps:
 3. **Automated Proving:** A specialized tool analyzes the contract bytecode against these rules. This analysis is not a simulation; it represents an exhaustive logical evaluation.
 
 4. **Result Assessment:** The prover produces one of three possible outcomes:
-   - **Proven:** The property holds true; the contract is correct for that property.
-   - **Violated:** The property can be violated; the tool provides a specific execution sequence that demonstrates a violation.
-   - **Inconclusive:** The prover cannot confirm or deny the property (this outcome is rare for well-constructed specifications).
+ - **Proven:** The property holds true; the contract is correct for that property.
+ - **Violated:** The property can be violated; the tool provides a specific execution sequence that demonstrates a violation.
+ - **Inconclusive:** The prover cannot confirm or deny the property (this outcome is rare for well-constructed specifications).
 
 ## Leading Tools for Formal Verification
 
 Several prominent tools facilitate formal verification:
 
 - **Certora Prover:** A leading tool for EVM smart contracts. Developers write specifications in Certora Verification Language (CVL), and Certora checks the contract bytecode exhaustively.
-  
+
 - **Mythril and Manticore:** Open-source tools that verify properties using symbolic execution, a related mathematical approach.
 
 - **K Framework:** An academic tool that verifies complex protocols, requiring more expertise but capable of handling intricate properties.
@@ -81,11 +81,11 @@ Several prominent tools facilitate formal verification:
 
 These methods complement one another rather than compete.
 
-| Approach                | Strengths                                    | Limitations                                                    |
+| Approach | Strengths | Limitations |
 |------------------------|----------------------------------------------|---------------------------------------------------------------|
-| **Security Audits**     | Manual review by security experts           | May miss certain bugs; relies on human oversight              |
-| **Testing and Fuzzing** | Extensively tests scenarios                  | Cannot guarantee bug absence in untested scenarios            |
-| **Formal Verification**  | Proves specific mathematical properties     | Cannot identify business logic flaws; requires clear specs    |
+| **Security Audits** | Manual review by security experts | May miss certain bugs; relies on human oversight |
+| **Testing and Fuzzing** | Extensively tests scenarios | Cannot guarantee bug absence in untested scenarios |
+| **Formal Verification** | Proves specific mathematical properties | Cannot identify business logic flaws; requires clear specs |
 
 The strongest security strategy involves a combination of all three approaches. Conduct thorough testing during development, apply formal verification to critical properties, and use expert security audits to identify business logic vulnerabilities.
 
@@ -94,7 +94,7 @@ The strongest security strategy involves a combination of all three approaches. 
 Many major protocols have adopted formal verification to enhance their security.
 
 - **dYdX:** Used Certora Prover to verify key properties of its lending protocol.
-  
+
 - **OpenZeppelin Contracts:** Certain components of their standard library have undergone formal verification.
 
 - **Uniswap:** Employed formal verification to confirm critical invariants within their AMM design.
@@ -142,4 +142,3 @@ Formal verification is still an emerging field within blockchain development. An
 3. **Automated Property Inference:** Future tools may automatically infer and verify important properties from the code, reducing the need for manual specification by developers.
 
 4. **Regulatory Integration:** As regulatory bodies demand higher security standards, formal verification may become a requirement for certain classes of protocols or applications that manage user assets.
-

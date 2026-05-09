@@ -20,13 +20,13 @@ This guide outlines passive liquidity provision, including its advantages, inher
 
 ### Key Insights
 
-| Insight                     | Description                                                                                          |
+| Insight | Description |
 |-----------------------------|------------------------------------------------------------------------------------------------------|
-| **Core Concept**            | Users deposit assets into a liquidity pool and earn fees with minimal active management.            |
-| **The Original Model**      | Uniswap v2 operates on a simple `x * y = k` principle, allowing LPs to earn fees from trades.      |
-| **Primary Risk**            | The main risk is **impermanent loss**, occurring when the assets' prices diverge significantly.      |
+| **Core Concept** | Users deposit assets into a liquidity pool and earn fees with minimal active management. |
+| **The Original Model** | Uniswap v2 operates on a simple `x * y = k` principle, allowing LPs to earn fees from trades. |
+| **Primary Risk** | The main risk is **impermanent loss**, occurring when the assets' prices diverge significantly. |
 | **Challenges of Modern AMMs** | Protocols like Uniswap v3 require active management to maintain positions within a specific price range. |
-| **Modern Solutions**        | Third-party protocols (Liquidity Managers) such as Arrakis Finance and Gamma automate strategies for users. |
+| **Modern Solutions** | Third-party protocols (Liquidity Managers) such as Arrakis Finance and Gamma automate strategies for users. |
 
 ### The Classic Model: Passive Liquidity Provision on Uniswap v2
 
@@ -81,15 +81,14 @@ For users, the process remains passive. They deposit funds into a vault, while t
 
 ### Frequently Asked Questions (FAQ)
 
-**Is passive liquidity provision a risk-free way to earn yield?**  
+**Is passive liquidity provision a risk-free way to earn yield?** 
 No, it carries risks, particularly impermanent loss with volatile assets. In some cases, impermanent loss can exceed earned fees, resulting in a net loss compared to holding the assets.
 
-**What is a good APR for a passive LP strategy?**  
+**What is a good APR for a passive LP strategy?** 
 APR varies widely depending on the pool's risk profile. Low-risk stablecoin pools may offer competitive returns, while more volatile pairs managed by automated liquidity systems can yield higher returns, albeit with a higher risk of impermanent loss.
 
-**Do I still own my funds when using an automated liquidity manager?**  
+**Do I still own my funds when using an automated liquidity manager?** 
 Users receive a "vault token" representing their share of the managed funds, akin to an LP token. However, this adds a layer of smart contract risk, as users must trust both the underlying [DEX](/what-is-a-decentralized-exchange-dex) and the liquidity manager protocol.
 
-**How do I choose a pool for passive liquidity provision?**  
+**How do I choose a pool for passive liquidity provision?** 
 Select pools that balance high trading volume with low volatility to minimize impermanent loss. Beginners may find it safer to start with pools of well-established, highly correlated assets, such as ETH/wBTC or stablecoin pairs.
-

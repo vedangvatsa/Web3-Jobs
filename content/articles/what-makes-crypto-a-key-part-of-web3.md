@@ -17,8 +17,8 @@ The connection between **[Web3](/what-is-web3)** and cryptocurrency often confus
 A public **[blockchain](/what-is-a-blockchain)** operates through a distributed network of independent participants, known as "miners" or "validators." This decentralization ensures security and resistance to censorship. Without a financial incentive, few would invest in the electricity and hardware necessary to maintain this network.
 
 - **The Role of Crypto:** Cryptocurrency provides the economic incentive to encourage participation.
-  - In a Proof-of-Work system such as [Bitcoin](/what-is-bitcoin), miners receive newly minted cryptocurrency for validating transactions.
-  - In a Proof-of-Stake system like [Ethereum](/what-is-ethereum), validators earn cryptocurrency by "staking" their capital to secure the network.
+ - In a Proof-of-Work system such as [Bitcoin](/what-is-bitcoin), miners receive newly minted cryptocurrency for validating transactions.
+ - In a Proof-of-Stake system like [Ethereum](/what-is-ethereum), validators earn cryptocurrency by "staking" their capital to secure the network.
 
 Without a native cryptocurrency to reward these operators, the network would lack a viable economic model, ultimately leading to its collapse. **Crypto serves as the payment system for decentralization.**
 
@@ -49,12 +49,11 @@ Web3 applications are inherently global, accessible to anyone with an internet c
 
 Web3 represents the architectural and philosophical vision for a decentralized internet. Cryptocurrency serves as the practical, economic means that supports this vision.
 
-| Aspect                    | Web3                                   | Cryptocurrency                           |
+| Aspect | Web3 | Cryptocurrency |
 |--------------------------|----------------------------------------|-----------------------------------------|
-| Infrastructure           | Decentralized, blockchain-based        | Native asset for payment and rewards    |
-| Incentives               | Secured by decentralized protocols     | Rewards for miners and validators        |
-| Programmable Logic       | Smart contracts                        | Native value to execute contracts       |
-| Vision of Ownership      | User-owned digital assets              | Tangible tokens representing ownership   |
+| Infrastructure | Decentralized, blockchain-based | Native asset for payment and rewards |
+| Incentives | Secured by decentralized protocols | Rewards for miners and validators |
+| Programmable Logic | Smart contracts | Native value to execute contracts |
+| Vision of Ownership | User-owned digital assets | Tangible tokens representing ownership |
 
 The absence of a decentralized currency makes it impossible to achieve a truly secure and user-owned internet. The two elements are fundamentally connected.
-

@@ -24,13 +24,13 @@ The operation of a crypto faucet is generally straightforward:
 ### The Two Main Types of Faucets
 
 1. **Mainnet Faucets (Historical Context):**
-   In the early days of [Bitcoin](/what-is-bitcoin), faucets introduced newcomers to the technology. Gavin Andresen, a prominent Bitcoin developer, famously operated a faucet that distributed a notable amount of Bitcoin per visitor in 2010. Although these were genuine Bitcoins, mainnet faucets today have become rare and typically dispense minuscule amounts due to the substantial increase in cryptocurrency values.
+ In the early days of [Bitcoin](/what-is-bitcoin), faucets introduced newcomers to the technology. Gavin Andresen, a prominent Bitcoin developer, famously operated a faucet that distributed a notable amount of Bitcoin per visitor in 2010. Although these were genuine Bitcoins, mainnet faucets today have become rare and typically dispense minuscule amounts due to the substantial increase in cryptocurrency values.
 
 2. **Testnet Faucets (Current Application):**
-   Testnet faucets represent the primary use of faucets today. Blockchains operate "test networks" or "testnets," which are imitations of the main network ("mainnet"). These testnets provide developers a realistic environment to build and test their applications without using real money.
+ Testnet faucets represent the primary use of faucets today. Blockchains operate "test networks" or "testnets," which are imitations of the main network ("mainnet"). These testnets provide developers a realistic environment to build and test their applications without using real money.
 
-   - **Example of Testnet Ether:** A developer working on [Ethereum](/what-is-ethereum) requires testnet ETH to cover "gas" fees for deploying and testing their [smart contracts](/what-are-smart-contracts).
-   - **Acquisition Process:** Developers visit a testnet faucet (such as a Sepolia or Holesky faucet), enter their wallet address, and receive free, valueless testnet ETH. This allows experimentation without any financial risk.
+ - **Example of Testnet Ether:** A developer working on [Ethereum](/what-is-ethereum) requires testnet ETH to cover "gas" fees for deploying and testing their [smart contracts](/what-are-smart-contracts).
+ - **Acquisition Process:** Developers visit a testnet faucet (such as a Sepolia or Holesky faucet), enter their wallet address, and receive free, valueless testnet ETH. This allows experimentation without any financial risk.
 
 ### Reasons for Faucet Existence
 
@@ -39,4 +39,3 @@ The operation of a crypto faucet is generally straightforward:
 - **Traffic and Engagement:** Faucet operators use these platforms to attract visitors to their websites, generating revenue through advertising.
 
 While faucets no longer offer free Bitcoin as they once did, they remain a critical component of the Web3 infrastructure, especially for developers working on the next generation of decentralized applications.
-

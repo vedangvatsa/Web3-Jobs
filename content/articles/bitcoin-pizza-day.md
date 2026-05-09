@@ -31,13 +31,13 @@ This moment marked a critical milestone. Bitcoin successfully bridged the gap be
 
 The significance of this transaction grew as Bitcoin's value increased in subsequent years. Below is a table illustrating the increasing value of those 10,000 bitcoins over the years:
 
-| Year | Value of 10,000 BTC         |
+| Year | Value of 10,000 BTC |
 |------|-----------------------------|
-| 2010 | A small amount              |
-| 2011 | Significant value            |
-| 2015 | A notable amount             |
-| 2021 | Substantial value            |
-| 2023 | Hundreds of millions of dollars*  |
+| 2010 | A small amount |
+| 2011 | Significant value |
+| 2015 | A notable amount |
+| 2021 | Substantial value |
+| 2023 | Hundreds of millions of dollars* |
 
 *Value fluctuates based on market conditions.
 
@@ -72,4 +72,3 @@ Bitcoin Pizza Day symbolizes the early days of cryptocurrency, but it also highl
 3. **Market Adoption:** As more businesses accept cryptocurrency payments, the practical applications of Bitcoin will expand. Consumers may prioritize spending digital currencies, further integrating them into daily life.
 
 As Bitcoin is changing, annual celebrations like Bitcoin Pizza Day will remind us of the journey from an obscure digital asset to a widely recognized currency. This journey involved countless individuals and narratives, all contributing to the rich history of cryptocurrency.
-

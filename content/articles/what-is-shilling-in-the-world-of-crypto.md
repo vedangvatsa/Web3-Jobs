@@ -85,12 +85,12 @@ The Web3 sector experiences rapid growth, with demand for qualified talent signi
 
 ### Market Dynamics Comparison
 
-| Factor                     | Web2                              | Web3                                 |
+| Factor | Web2 | Web3 |
 |---------------------------|-----------------------------------|--------------------------------------|
-| **Compensation**          | Generally lower than Web3         | Higher salaries and equity options    |
-| **Remote Work**           | Hybrid or office-based             | Fully remote or primarily remote      |
-| **Career Progression**    | Slow, often requiring years        | Rapid advancement within a few years  |
-| **Equity Opportunities**   | Limited                            | Significant potential for early members|
+| **Compensation** | Generally lower than Web3 | Higher salaries and equity options |
+| **Remote Work** | Hybrid or office-based | Fully remote or primarily remote |
+| **Career Progression** | Slow, often requiring years | Rapid advancement within a few years |
+| **Equity Opportunities** | Limited | Significant potential for early members|
 
 ### Compensation Insights
 
@@ -107,4 +107,3 @@ Career advancement in Web3 tends to occur at a faster pace due to rapid scaling 
 ### Equity Upside
 
 Token and equity packages are standard, offering substantial wealth-building potential for early team members at successful protocols.
-

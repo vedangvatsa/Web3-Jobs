@@ -69,4 +69,3 @@ Avoid attempting to change everything simultaneously. Initiate one small change 
 #### Step 5: Measure Progress and Adapt
 
 Regularly assess your progress. Are you achieving the desired outcomes? Modify your methods based on feedback and results. Accept a mindset of continuous improvement.
-

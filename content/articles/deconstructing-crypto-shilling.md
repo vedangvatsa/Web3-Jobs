@@ -18,7 +18,7 @@ Recognizing what shilling entails, how to identify it, and understanding its mot
 
 ### Definition of Shilling
 
-Shilling refers to the act of promoting a cryptocurrency or [NFT](/what-are-nfts) project for personal benefit, typically without revealing any vested interests. A "shill" promotes a project to generate hype and elevate its price, allowing them to sell their holdings for profit.
+Shilling refers to the act of promoting a cryptocurrency or [NFT](/what-are-nfts) project for personal benefit, typically without revealing any vested interests. A "shill" promotes a project to generate hype and improve its price, allowing them to sell their holdings for profit.
 
 Shilling manifests along a spectrum:
 
@@ -59,4 +59,3 @@ Recognizing the difference between genuine support and malicious shilling requir
 Shilling represents a significant challenge within the crypto industry. It thrives on the hope and excitement that define this sector. By learning to recognize the warning signs, urgency, price fixation, and a lack of substance, you can develop a critical perspective to differentiate between genuine innovation and malicious hype.
 
 Successful investors and participants in the [Web3](/what-is-web3) field do not chase the latest "100x gem." Instead, they adopt a disciplined, research-focused approach. Always prioritize thorough research, challenge assumptions, and resist the influence of FOMO in financial decisions.
-

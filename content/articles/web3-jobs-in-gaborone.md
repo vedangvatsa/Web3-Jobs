@@ -17,27 +17,27 @@ The Web3 sector in Gaborone is nascent but supported by a proactive government, 
 
 Gaborone's Web3 ecosystem is influenced by Botswana's economic strengths and its forward-looking governance.
 
-| **Aspect**                            | **Details**                                                                                                      |
+| **Aspect** | **Details** |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| **Stability and Trust**               | Botswana's history of political stability supports the development of blockchain applications that require compliance and security. |
+| **Stability and Trust** | Botswana's history of political stability supports the development of blockchain applications that require compliance and security. |
 | **Supply Chain and Natural Resources** | As a major diamond producer, Botswana aims to use blockchain for supply chain traceability, ensuring ethical sourcing of its resources. |
-| **FinTech Innovation**                | Gaborone's well-regulated banking sector supports innovation in FinTech, with a growing interest in integrating digital assets and [DeFi](/what-is-defi) into existing financial systems. |
+| **FinTech Innovation** | Gaborone's well-regulated banking sector supports innovation in FinTech, with a growing interest in integrating digital assets and [DeFi](/what-is-defi) into existing financial systems. |
 | **Botswana Digital & Innovation Hub** | This government-backed initiative serves as the core of the tech ecosystem, providing support for startups, including those focused on Web3. |
 
 ### In-Demand Roles and Salary Expectations
 
 The formal Web3 job market in Gaborone remains small, with opportunities primarily found within government-backed innovation hubs, the FinTech sector, or as remote positions with international companies.
 
-| **Role**                                      | **Typical Salary (BWP/month)**       | **Description**                                                                  |
+| **Role** | **Typical Salary (BWP/month)** | **Description** |
 |-----------------------------------------------|---------------------------------------|----------------------------------------------------------------------------------|
-| **Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer)** | 25,000 - 50,000+                     | Developers create solutions for enterprise clients, particularly in supply chain and finance. |
-| **FinTech Product Manager**                   | 30,000 - 55,000+                     | PMs design and manage the development of compliant digital asset products.       |
-| **Business Development (Enterprise & Government)** | 25,000 - 50,000+                     | Professionals establish relationships with government agencies and corporations to facilitate blockchain adoption. |
+| **Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer)** | 25,000 - 50,000+ | Developers create solutions for enterprise clients, particularly in supply chain and finance. |
+| **FinTech Product Manager** | 30,000 - 55,000+ | PMs design and manage the development of compliant digital asset products. |
+| **Business Development (Enterprise & Government)** | 25,000 - 50,000+ | Professionals establish relationships with government agencies and corporations to facilitate blockchain adoption. |
 
 ### Building a Web3 Career in Gaborone
 
 1. **Engage with the Botswana Digital & Innovation Hub:** This hub is the focal point for the local tech ecosystem. Attend their events, participate in programs, and connect with startups and researchers. This engagement is important for discovering local opportunities.
-   
+
 2. **Focus on Enterprise Use Cases:** When building your [portfolio](/building-web3-portfolio), emphasize projects that demonstrate blockchain solutions for real-world business challenges. For instance, create a proof-of-concept for a supply chain tracking system that aligns with local market needs.
 
 3. **Use Your Expertise in Key Industries:** If you have a background in Botswana's primary sectors, such as mining, finance, or tourism, apply this knowledge. Position your understanding of Web3 as a means to enhance these industries.
@@ -46,16 +46,16 @@ The formal Web3 job market in Gaborone remains small, with opportunities primari
 
 ### Salary & Cost of Living Overview
 
-| **Role**                                 | **Salary Range (BWP/month)**           | **USD Equivalent**                       |
+| **Role** | **Salary Range (BWP/month)** | **USD Equivalent** |
 |------------------------------------------|----------------------------------------|------------------------------------------|
-| **Junior Developer (0-1 year)**         | 15,000 - 25,000                        | Varies                                   |
-| **Mid-Level Developer (1-3 years)**     | 25,000 - 45,000                        | Varies                                   |
-| **Senior Developer (3+ years)**          | 45,000 - 70,000+                       | Varies                                   |
-| **Enterprise Blockchain Developer**      | 30,000 - 55,000                        | N/A                                      |
-| **FinTech Product Manager**              | 35,000 - 60,000                        | N/A                                      |
-| **Business Development**                  | 25,000 - 50,000                        | N/A                                      |
-| **Remote Roles (International)**         | Significant range                      | N/A                                      |
-| **Consulting**                           | Varies                                 | N/A                                      |
+| **Junior Developer (0-1 year)** | 15,000 - 25,000 | Varies |
+| **Mid-Level Developer (1-3 years)** | 25,000 - 45,000 | Varies |
+| **Senior Developer (3+ years)** | 45,000 - 70,000+ | Varies |
+| **Enterprise Blockchain Developer** | 30,000 - 55,000 | N/A |
+| **FinTech Product Manager** | 35,000 - 60,000 | N/A |
+| **Business Development** | 25,000 - 50,000 | N/A |
+| **Remote Roles (International)** | Significant range | N/A |
+| **Consulting** | Varies | N/A |
 
 **Cost of Living Example:**
 A mid-level developer earning a competitive salary in a remote role might face the following expenses:
@@ -70,72 +70,72 @@ A mid-level developer earning a competitive salary in a remote role might face t
 **Path 1: Enterprise Blockchain Specialist (10-16 months)**
 
 - **Months 1-3: Foundation**
-  - Learn Solidity and Hyperledger basics.
-  - Study enterprise blockchain patterns.
-  - Complete a Buildspace course.
-  - Time: 20-25 hours/week.
+ - Learn Solidity and Hyperledger basics.
+ - Study enterprise blockchain patterns.
+ - Complete a Buildspace course.
+ - Time: 20-25 hours/week.
 
 - **Months 4-6: Specialization**
-  - Focus on supply chain blockchain (Hyperledger Fabric).
-  - Build a proof-of-concept for a diamond supply chain tracker.
-  - Study enterprise architecture.
-  - Time: 25-30 hours/week.
+ - Focus on supply chain blockchain (Hyperledger Fabric).
+ - Build a proof-of-concept for a diamond supply chain tracker.
+ - Study enterprise architecture.
+ - Time: 25-30 hours/week.
 
 - **Months 7-10: Local Partnerships**
-  - Network with the Botswana Digital & Innovation Hub.
-  - Propose pilot projects to mining and finance companies.
-  - Complete 1-2 consulting contracts.
-  - Expected income: Varies.
+ - Network with the Botswana Digital & Innovation Hub.
+ - Propose pilot projects to mining and finance companies.
+ - Complete 1-2 consulting contracts.
+ - Expected income: Varies.
 
 - **Months 11-16: Enterprise Role**
-  - Secure a position with a major corporation or a hub-based startup.
-  - Target salary: Varies.
+ - Secure a position with a major corporation or a hub-based startup.
+ - Target salary: Varies.
 
 **Path 2: FinTech/Digital Asset Product Manager (12-18 months)**
 
 - **Months 1-4: Deep Learning**
-  - Study DeFi protocols and digital asset regulations.
-  - Research Botswana's financial ecosystem.
-  - Join product management communities.
-  - Network with fintech leaders in Gaborone.
-  - Time: 15-20 hours/week.
+ - Study DeFi protocols and digital asset regulations.
+ - Research Botswana's financial ecosystem.
+ - Join product management communities.
+ - Network with fintech leaders in Gaborone.
+ - Time: 15-20 hours/week.
 
 - **Months 5-8: Portfolio Development**
-  - Design detailed product specifications for two digital asset products.
-  - Example: Develop a compliant stablecoin for the SADC region.
-  - Seek feedback from fintech professionals.
-  - Time: 20-25 hours/week.
+ - Design detailed product specifications for two digital asset products.
+ - Example: Develop a compliant stablecoin for the SADC region.
+ - Seek feedback from fintech professionals.
+ - Time: 20-25 hours/week.
 
 - **Months 9-12: Funding & Partnerships**
-  - Apply to fintech grants and accelerators.
-  - Pitch to banks and the Bank of Botswana.
-  - Aim for partnerships or funding.
+ - Apply to fintech grants and accelerators.
+ - Pitch to banks and the Bank of Botswana.
+ - Aim for partnerships or funding.
 
 - **Months 13-18: Product Leadership**
-  - Lead product development at a fintech startup or hub.
-  - Expected salary: Varies.
+ - Lead product development at a fintech startup or hub.
+ - Expected salary: Varies.
 
 **Path 3: Community & Ecosystem Builder (6-12 months)**
 
 - **Months 1-2: Planning**
-  - Choose a niche: enterprise blockchain or fintech.
-  - Create a content calendar.
-  - Establish Twitter, Medium, and Discord channels.
-  - Time: 10-12 hours/week.
+ - Choose a niche: enterprise blockchain or fintech.
+ - Create a content calendar.
+ - Establish Twitter, Medium, and Discord channels.
+ - Time: 10-12 hours/week.
 
 - **Months 3-6: Content & Community**
-  - Publish weekly content on Web3 or enterprise blockchain topics.
-  - Establish a Gaborone Web3/blockchain study group.
-  - Goal: Achieve significant social media following and community members.
-  - Time: 15-20 hours/week.
+ - Publish weekly content on Web3 or enterprise blockchain topics.
+ - Establish a Gaborone Web3/blockchain study group.
+ - Goal: Achieve significant social media following and community members.
+ - Time: 15-20 hours/week.
 
 - **Months 7-9: Partnerships & Income**
-  - Secure a position as a community manager or ecosystem lead.
-  - Expected income: Varies.
+ - Secure a position as a community manager or ecosystem lead.
+ - Expected income: Varies.
 
 - **Months 10-12: Scale**
-  - Expand the community and establish yourself as a leading voice in local Web3.
-  - Expected salary: Varies.
+ - Expand the community and establish yourself as a leading voice in local Web3.
+ - Expected salary: Varies.
 
 ### Challenges and Solutions
 
@@ -184,4 +184,3 @@ Anticipate 8-12 months, which includes 4 months of learning, 3 months of freelan
 
 **Should I prioritize local or remote opportunities?**
 Focus on building remote skills first. Securing a role with an international company allows you to enjoy Gaborone's low living costs while benefiting from a higher salary. Alternatively, build local enterprise connections for consulting roles.
-

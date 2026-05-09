@@ -19,8 +19,8 @@ The nascent Web3 community in Luanda prioritizes education and seeks new solutio
 Luanda's Web3 environment is in its formative phase, driven by several influential factors.
 
 - **Financial and Energy Center:** Luanda's economy, rich in oil and diamonds, hosts numerous corporate and financial operations. This setting offers a potential market for enterprise blockchain solutions focusing on supply chain traceability, trade finance, and corporate treasury management.
-  
-- **Emerging FinTech Market:** There is a notable surge in interest in FinTech as a tool for enhancing financial inclusion and streamlining payment systems. The exploration of blockchain and stablecoins aims to reduce remittance costs and facilitate cross-border trade.
+
+- **Emerging FinTech Market:** There is a notable surge in interest in FinTech as a tool for enhancing financial inclusion and simplify payment systems. The exploration of blockchain and stablecoins aims to reduce remittance costs and facilitate cross-border trade.
 
 - **Young, Tech-Savvy Population:** Angola's youth demographic is highly connected and increasingly interested in technology. This grassroots enthusiasm for cryptocurrency and blockchain can cultivate a future generation of users and innovators.
 
@@ -30,15 +30,15 @@ Luanda's Web3 environment is in its formative phase, driven by several influenti
 
 The Web3 job market in Luanda is still limited, with opportunities primarily for experienced software engineers. These individuals typically work remotely for international firms or engage with innovation teams in local banks and corporations.
 
-| Role                                          | Salary Range (AOA/Month)         | Salary Range (USD/Month)       |
+| Role | Salary Range (AOA/Month) | Salary Range (USD/Month) |
 |-----------------------------------------------|----------------------------------|--------------------------------|
-| Backend/FinTech Developer (Local)             | Competitive                      | Competitive                    |
-| Backend/FinTech Developer (Remote)            | Varies significantly              | Competitive                    |
-| Community Educators and Organizers            | Voluntary/Grant-funded            | N/A                            |
-| Business Development (Enterprise Focus)       | Negotiable                       | N/A                            |
+| Backend/FinTech Developer (Local) | Competitive | Competitive |
+| Backend/FinTech Developer (Remote) | Varies significantly | Competitive |
+| Community Educators and Organizers | Voluntary/Grant-funded | N/A |
+| Business Development (Enterprise Focus) | Negotiable | N/A |
 
 - **Backend/FinTech Developer with Blockchain Interest:** The greatest demand lies with developers experienced in traditional FinTech who are eager to learn and implement blockchain technologies.
-  
+
 - **Community Educators and Organizers:** There is a significant opportunity for individuals to lead educational initiatives within the local community. These roles are frequently voluntary or supported by grants from international organizations.
 
 - **Business Development Professionals:** Those capable of establishing relationships with large Angolan companies to implement blockchain solutions are highly sought after.
@@ -46,8 +46,8 @@ The Web3 job market in Luanda is still limited, with opportunities primarily for
 ### Building a Web3 Career in Luanda
 
 1. **Become a Community Leader:** The emerging ecosystem provides a unique chance to be a founding member.
-   - **Organize Meetups:** Initiate regular Web3 developer or enthusiast meetups in Luanda.
-   - **Create Portuguese Content:** Launch a blog, YouTube channel, or Telegram group that explains Web3 topics in Portuguese, tailored to the Angolan audience. This will position you as a thought leader.
+ - **Organize Meetups:** Initiate regular Web3 developer or enthusiast meetups in Luanda.
+ - **Create Portuguese Content:** Launch a blog, YouTube channel, or Telegram group that explains Web3 topics in Portuguese, tailored to the Angolan audience. This will position you as a thought leader.
 
 2. **Focus on Relevant Use Cases:** Concentrate on developing solutions for Angola's key industries in your projects and learning endeavors. Build a [portfolio](/building-web3-portfolio) that highlights your ability to address real-world challenges in finance or logistics using blockchain.
 
@@ -59,20 +59,20 @@ The Web3 job market in Luanda is still limited, with opportunities primarily for
 
 #### Local Opportunities
 
-| Role                                          | Salary Range (AOA/Month)        | Salary Range (USD/Month)       |
+| Role | Salary Range (AOA/Month) | Salary Range (USD/Month) |
 |-----------------------------------------------|---------------------------------|--------------------------------|
-| Junior [Blockchain Developer](/how-to-become-a-blockchain-developer) | Competitive                      | Competitive                    |
-| Community Manager (Crypto Education)         | Competitive                      | Competitive                    |
-| Tech Consultant (FinTech Background)         | Competitive                      | Competitive                    |
+| Junior [Blockchain Developer](/how-to-become-a-blockchain-developer) | Competitive | Competitive |
+| Community Manager (Crypto Education) | Competitive | Competitive |
+| Tech Consultant (FinTech Background) | Competitive | Competitive |
 
 #### Remote Opportunities
 
-| Role                                          | Salary Range (USD/Month)       |
+| Role | Salary Range (USD/Month) |
 |-----------------------------------------------|--------------------------------|
-| Mid-Level Developer                           | Competitive                    |
-| Senior Developer                              | Competitive                    |
-| FinTech/Product Manager                       | Competitive                    |
-| Community Lead                                | Competitive                    |
+| Mid-Level Developer | Competitive |
+| Senior Developer | Competitive |
+| FinTech/Product Manager | Competitive |
+| Community Lead | Competitive |
 
 The cost of living in Luanda is among the highest in Africa, with estimates of significant monthly expenses. However, a remote salary allows for substantial savings compared to many developed countries.
 
@@ -89,8 +89,8 @@ The cost of living in Luanda is among the highest in Africa, with estimates of s
 
 **Months 5-9: Build Your Portfolio**
 - Create two products addressing local issues:
-  - A cross-border payment tool targeting Angola to Europe, especially Portugal.
-  - A stablecoin payment system for local merchants.
+ - A cross-border payment tool targeting Angola to Europe, especially Portugal.
+ - A stablecoin payment system for local merchants.
 - Secure freelance contracts focusing on blockchain consulting.
 - Publish a detailed article on how blockchain addresses Angola's payment challenges.
 - **Deliverable:** Three completed projects and increased social media presence.
@@ -144,19 +144,19 @@ The cost of living in Luanda is among the highest in Africa, with estimates of s
 ### Challenges and Solutions
 
 1. **Regulatory Ambiguity:** The Central Bank of Angola has not clearly defined the status of cryptocurrencies, which poses risks.
-   - **Solution:** Engage in compliant remote work with international companies while avoiding unlicensed schemes. Position yourself as a legitimate expert as regulations evolve.
+ - **Solution:** Engage in compliant remote work with international companies while avoiding unlicensed schemes. Position yourself as a legitimate expert as regulations evolve.
 
 2. **Inflation and Currency Devaluation:** The Angolan Kwanza is subject to significant inflation.
-   - **Solution:** Focus on remote work to earn in stable currencies, hedging against local economic instability. Saving in USD or stablecoins will help maintain your wealth.
+ - **Solution:** Focus on remote work to earn in stable currencies, hedging against local economic instability. Saving in USD or stablecoins will help maintain your wealth.
 
 3. **Tech Infrastructure Limitations:** Internet reliability can be inconsistent.
-   - **Solution:** Work in distributed teams that function asynchronously. Use cloud services and have backup plans, ensuring your operations are resilient.
+ - **Solution:** Work in distributed teams that function asynchronously. Use cloud services and have backup plans, ensuring your operations are resilient.
 
 4. **Small Local Market:** The Web3 ecosystem in Luanda is still developing.
-   - **Solution:** Compete on a global scale through remote work, allowing you to build valuable skills and wealth more rapidly than in local contexts.
+ - **Solution:** Compete on a global scale through remote work, allowing you to build valuable skills and wealth more rapidly than in local contexts.
 
 5. **Lack of Networking Opportunities:** Mentorship can be harder to find locally.
-   - **Solution:** Use online platforms to build your network. Engage with developers through open-source projects and participate in global communities.
+ - **Solution:** Use online platforms to build your network. Engage with developers through open-source projects and participate in global communities.
 
 ### 90-Day Quick-Start Action Plan
 
@@ -233,4 +233,3 @@ A: A realistic progression could start at competitive compensation in your first
 
 **Q12: Should I reinvest my earnings or save them?**
 A: Aim to save a portion for emergencies, invest a portion in cryptocurrencies, and allocate a portion for living expenses and enjoyment. Adjust your strategy as your financial situation evolves.
-

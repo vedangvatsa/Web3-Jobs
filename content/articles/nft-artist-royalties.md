@@ -39,8 +39,8 @@ function royaltyInfo(uint256 _tokenId, uint256 _salePrice) external view returns
 - Any marketplace can invoke the `royaltyInfo` function on an NFT contract.
 - The marketplace passes the ID of the token being sold (`_tokenId`) and the sale price (`_salePrice`).
 - The function returns two values:
-    - `receiver`: The Ethereum address designated to receive the royalty payment.
-    - `royaltyAmount`: The precise royalty fee to be paid.
+ - `receiver`: The Ethereum address designated to receive the royalty payment.
+ - `royaltyAmount`: The precise royalty fee to be paid.
 
 This standard marked a significant advancement. It provided a reliable method for any marketplace to discover and calculate the correct royalty for any NFT implementing the standard, eliminating the need for custom integrations for each project.
 
@@ -65,12 +65,12 @@ This created a competitive environment where traders flocked to zero-royalty pla
 
 The NFT ecosystem now exists in a fragmented state. There is no universally accepted approach to royalties. However, several models have emerged.
 
-| Model                | Description                                                                 | Pros                                              | Cons                                                |
+| Model | Description | Pros | Cons |
 |----------------------|-----------------------------------------------------------------------------|---------------------------------------------------|-----------------------------------------------------|
-| Voluntary            | Collectors decide whether to honor creator royalties.                      | Upholds ownership principles; lower fees for traders. | Detrimental impact on creator income; unreliable.   |
+| Voluntary | Collectors decide whether to honor creator royalties. | Upholds ownership principles; lower fees for traders. | Detrimental impact on creator income; unreliable. |
 | Allowlist Enforcement | NFT contracts restrict transfers to marketplaces on a royalty-honoring allowlist. | Increased creator control; effective royalty enforcement. | Seen as anti-decentralization; requires list maintenance. |
-| Community and Brand  | Creators build a loyal community that voluntarily supports royalties.     | Aligns incentives; builds long-term value.       | Challenging to establish; relies on social pressure.  |
-| Evolving Standards    | New token standards aim to enforce royalties more effectively.            | Potential for strong technical solutions.        | Requires broad adoption by wallets and marketplaces.  |
+| Community and Brand | Creators build a loyal community that voluntarily supports royalties. | Aligns incentives; builds long-term value. | Challenging to establish; relies on social pressure. |
+| Evolving Standards | New token standards aim to enforce royalties more effectively. | Potential for strong technical solutions. | Requires broad adoption by wallets and marketplaces. |
 
 ### Voluntary Model
 
@@ -127,4 +127,3 @@ Grasping the concept of NFT royalties is vital for professional success in the d
 4. **Implement Gradually:** Avoid attempting to change everything simultaneously. Start with one small adjustment and build from there. Track the outcomes of these changes to identify what works best.
 
 5. **Measure and Adjust:** Regularly monitor your progress. Are you seeing the desired results? Adjust your approach based on feedback and outcomes. This commitment to continuous improvement is essential for long-term success.
-

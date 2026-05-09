@@ -37,8 +37,8 @@ You can learn more about which language to choose in our [breakdown of the top 5
 You'll need a specialized set of tools to write, test, and deploy your smart contracts.
 
 - **Development Environment:**
-  - **Hardhat (Recommended for Beginners):** A flexible and popular JavaScript-based environment for compiling, testing, and deploying Solidity contracts.
-  - **Foundry:** A faster, more modern alternative that allows you to write your tests directly in Solidity. Read our [introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit).
+ - **Hardhat (Recommended for Beginners):** A flexible and popular JavaScript-based environment for compiling, testing, and deploying Solidity contracts.
+ - **Foundry:** A faster, more modern alternative that allows you to write your tests directly in Solidity. Read our [introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit).
 - **[Wallet](/how-to-choose-a-crypto-wallet):** **MetaMask** is the standard browser-based wallet you'll use for development and testing. Learn how to use it with test networks like Sepolia.
 - **Indexing Protocol:** **The Graph** is the standard way to query data from the blockchain efficiently. You'll use it to build APIs for your dApp's frontend.
 - **Boilerplates & Libraries:** Use resources like **Scaffold-ETH** to quickly set up a full-stack dApp environment.
@@ -47,21 +47,21 @@ You'll need a specialized set of tools to write, test, and deploy your smart con
 
 The best way to learn is by building. Follow this project progression to build your skills and your [portfolio](/building-web3-portfolio).
 
-1.  **Project 1: Simple Storage Contract**
-    -   **Goal:** Learn the basics of Solidity syntax.
-    -   **Task:** Write a contract that allows you to store a number and retrieve it. Deploy it on a testnet using Remix or Hardhat.
-2.  **Project 2: Your Own ERC-20 [Token](/what-is-a-token)**
-    -   **Goal:** Understand token standards.
-    -   **Task:** Write and deploy your own simple cryptocurrency. Build a basic frontend using React and Ethers.js that allows users to connect their wallet and see their balance of your token.
-3.  **Project 3: An [NFT](/what-are-nfts) Collection**
-    -   **Goal:** Learn the ERC-721 standard.
-    -   **Task:** Create a simple generative art NFT collection. Write a contract that allows users to mint one of your NFTs. Display the minted NFTs on your frontend.
-4.  **Project 4: A Decentralized Staking dApp**
-    -   **Goal:** Understand basic [DeFi](/what-is-defi) mechanics.
-    -   **Task:** Build a contract where users can deposit the ERC-20 token you created in Project 2. The contract should reward them with more tokens over time as a reward. This is a foundational DeFi primitive.
-5.  **Project 5: Contribute to an Open-Source Project**
-    -   **Goal:** Get real-world experience and build your reputation.
-    -   **Task:** Find a Web3 project on GitHub. Start by fixing a small bug, improving documentation, or adding a simple feature. This is one of the most powerful signals you can send to potential employers.
+1. **Project 1: Simple Storage Contract**
+ - **Goal:** Learn the basics of Solidity syntax.
+ - **Task:** Write a contract that allows you to store a number and retrieve it. Deploy it on a testnet using Remix or Hardhat.
+2. **Project 2: Your Own ERC-20 [Token](/what-is-a-token)**
+ - **Goal:** Understand token standards.
+ - **Task:** Write and deploy your own simple cryptocurrency. Build a basic frontend using React and Ethers.js that allows users to connect their wallet and see their balance of your token.
+3. **Project 3: An [NFT](/what-are-nfts) Collection**
+ - **Goal:** Learn the ERC-721 standard.
+ - **Task:** Create a simple generative art NFT collection. Write a contract that allows users to mint one of your NFTs. Display the minted NFTs on your frontend.
+4. **Project 4: A Decentralized Staking dApp**
+ - **Goal:** Understand basic [DeFi](/what-is-defi) mechanics.
+ - **Task:** Build a contract where users can deposit the ERC-20 token you created in Project 2. The contract should reward them with more tokens over time as a reward. This is a foundational DeFi primitive.
+5. **Project 5: Contribute to an Open-Source Project**
+ - **Goal:** Get real-world experience and build your reputation.
+ - **Task:** Find a Web3 project on GitHub. Start by fixing a small bug, improving documentation, or adding a simple feature. This is one of the most powerful signals you can send to potential employers.
 
 ### Step 5: Build Your Web3 Presence
 
@@ -79,19 +79,19 @@ These competencies are foundational for success in modern careers. Whether you'r
 
 ### Core Competencies
 
-**Technical Foundation** (if applicable)  
+**Technical Foundation** (if applicable) 
 Understanding technical concepts relevant to your field is non-negotiable. You don't need to be an expert, but foundational knowledge prevents costly mistakes.
 
-**Communication Excellence**  
+**Communication Excellence** 
 The ability to clearly explain complex ideas is rare and valuable. Practice writing emails, documentation, and presentations. Clarity compounds over time.
 
-**Problem-Solving Methodology**  
+**Problem-Solving Methodology** 
 Approach problems systematically: define the problem, research solutions, evaluate options, implement, and measure. This framework works for technical and non-technical challenges.
 
-**Learning Agility**  
+**Learning Agility** 
 In rapidly changing fields, the ability to quickly acquire new skills is your greatest asset. Practice learning by doing, not just consuming content.
 
-**Emotional Intelligence**  
+**Emotional Intelligence** 
 Understanding and managing your emotions, and reading others, determines your effectiveness in teams and negotiations.
 
 ## Development Roadmap
@@ -121,4 +121,3 @@ Understanding and managing your emotions, and reading others, determines your ef
 - Continuously refine through feedback
 
 ## Real-World Applications
-

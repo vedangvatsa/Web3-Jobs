@@ -12,14 +12,14 @@ lastUpdated: "2026-04-29"
 
 Kigali, Rwanda's capital, is emerging as a significant center for technology and innovation in Africa. The local government focuses on technological advancement, education, and creating a favorable business environment. This proactive approach attracts tech startups and international companies, positioning Kigali as a key player in the [Web3](/what-is-web3) domain. The city is becoming a vital location for [blockchain](/what-is-a-blockchain) development and entrepreneurship across the continent.
 
-The Web3 ecosystem in Kigali is still developing but shows strong potential due to government backing, an emphasis on practical enterprise solutions, and a vibrant community of young tech talent. Kigali serves as a testing ground for new governance and financial technologies, opening doors for Web3 professionals interested in impactful, real-world applications. This guide explores the [Web3 career](/web3-jobs-for-beginners) opportunities in Kigali, highlighting unique advantages, in-demand roles, and strategies for building a successful career in this promising environment.
+The Web3 ecosystem in Kigali is still developing but shows strong potential due to government backing, an emphasis on practical enterprise solutions, and a active community of young tech talent. Kigali serves as a testing ground for new governance and financial technologies, opening doors for Web3 professionals interested in impactful, real-world applications. This guide explores the [Web3 career](/web3-jobs-for-beginners) opportunities in Kigali, highlighting unique advantages, in-demand roles, and strategies for building a successful career in this promising environment.
 
 ### The Web3 Ecosystem in Kigali
 
 Kigali's ascent as a Web3 hub results from intentional policy-making and investment in technology.
 
-- **Government Support**: The Rwandan government actively builds a supportive environment for tech companies through initiatives like Kigali Innovation City and partnerships with institutions such as Carnegie Mellon University Africa. This strategic focus aims to develop a world-class tech ecosystem.
-  
+- **Government Support**: The Rwandan government actively builds a supportive environment for tech companies through initiatives like Kigali Innovation City and partnerships with institutions such as Carnegie Mellon University Africa. This strategic focus aims to develop a top-tier tech ecosystem.
+
 - **Enterprise and Governance Focus**: Most Web3 initiatives in Kigali concentrate on practical enterprise applications. Examples include blockchain implementations for land registries, supply chain management, and transparent e-governance systems.
 
 - **Central Pan-African Hub**: Kigali's geographic location and political stability make it a key meeting point for the African tech community. This centrality provides an ideal base for projects with pan-African objectives.
@@ -30,11 +30,11 @@ Kigali's ascent as a Web3 hub results from intentional policy-making and investm
 
 The Web3 job market in Kigali is in its infancy but is expected to grow rapidly as more businesses and projects establish themselves. The highest demand currently lies with skilled software engineers adept in blockchain development.
 
-| Role                                  | Skills Required                                      | Salary Range (RWF/month) |
+| Role | Skills Required | Salary Range (RWF/month) |
 |---------------------------------------|-----------------------------------------------------|---------------------------|
-| Blockchain / Full-Stack Developer     | Solidity, Java, Go                                  | Mid-Level: 1,500,000 - 3,000,000<br>Senior: 3,000,000 - 5,500,000+ |
-| Product Manager (GovTech/FinTech)    | Experience in government or financial technology    | 2,500,000 - 4,500,000+    |
-| Business Development & Policy          | Relationship-building skills with agencies and NGOs | 2,000,000 - 4,000,000+    |
+| Blockchain / Full-Stack Developer | Solidity, Java, Go | Mid-Level: 1,500,000 - 3,000,000<br>Senior: 3,000,000 - 5,500,000+ |
+| Product Manager (GovTech/FinTech) | Experience in government or financial technology | 2,500,000 - 4,500,000+ |
+| Business Development & Policy | Relationship-building skills with agencies and NGOs | 2,000,000 - 4,000,000+ |
 
 ### Strategies for Building a Web3 Career in Kigali
 
@@ -150,4 +150,3 @@ Absolutely. Kigali's central position and stability make it a strategic base for
 
 **How is cryptocurrency regulated in Rwanda?**
 While the government takes a cautious approach, cryptocurrencies like [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) are not prohibited, and there is encouragement for stablecoins and regulated digital assets.
-

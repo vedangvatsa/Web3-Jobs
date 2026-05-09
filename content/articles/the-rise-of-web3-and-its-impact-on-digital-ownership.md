@@ -61,4 +61,3 @@ In Web3, ownership extends beyond assets to include the platforms themselves.
 ## The Road Ahead
 
 True digital ownership remains in its early stages, and while the user experience can be complex, the shift is fundamental and likely irreversible. We are transitioning from an internet where users serve as tenants of corporate platforms to one where individuals own their digital property and co-own the communities they participate in. This represents the promise of Web3 and holds the potential to build a more equitable, creative, and enabled digital world.
-

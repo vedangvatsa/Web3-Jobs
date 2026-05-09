@@ -12,7 +12,7 @@ Binance is the world's largest cryptocurrency exchange by daily trading volume. 
 ## Products and Services
 
 - **Spot Trading**: Buy and sell 350+ cryptocurrencies
-- **Futures & Derivatives**: Leveraged trading products
+- **Futures & Derivatives**: use trading products
 - **Binance Earn**: Staking, savings, and yield products
 - **BNB Chain**: Binance's native blockchain ecosystem (BNB Smart Chain and BNB Beacon Chain)
 - **Binance Pay**: Cryptocurrency payment solution

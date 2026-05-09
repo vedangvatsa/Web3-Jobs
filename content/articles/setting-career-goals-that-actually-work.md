@@ -151,9 +151,9 @@ Example: "Become the go-to expert on our system's scalability challenges."
 **Quarterly Goals (90 Days):**
 Break down your annual goal into quarterly milestones.
 
-Q1: Learn our system deeply. Read codebase. Run profiling analysis.  
-Q2: Identify top scalability issues. Document findings.  
-Q3: Propose and implement solutions for top issues.  
+Q1: Learn our system deeply. Read codebase. Run profiling analysis. 
+Q2: Identify top scalability issues. Document findings. 
+Q3: Propose and implement solutions for top issues. 
 Q4: Present findings to leadership. Mentor team on scalability patterns.
 
 **Monthly/Weekly Goals:**

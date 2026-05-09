@@ -34,4 +34,3 @@ A spot ETF differs significantly from a **futures ETF**. Futures ETFs, which hav
 3. **Institutional Investment Influx:** Large institutional investors, such as pension funds and endowments, often cannot hold cryptocurrencies directly due to internal mandates. However, they can invest in regulated products like ETFs, creating a significant opportunity for new capital to enter the crypto market.
 
 While self-custody remains a foundational principle in cryptocurrency, illustrated by the phrase “not your keys, not your coins”, crypto ETFs bridge the gap between traditional finance and [Decentralized Finance (DeFi)](/what-is-defi). They offer a secure entry point for millions of new users and significant capital, which is essential for building the long-term growth and acceptance of the entire [Web3](/what-is-web3) ecosystem.
-

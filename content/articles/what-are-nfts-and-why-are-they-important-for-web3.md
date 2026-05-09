@@ -56,12 +56,11 @@ NFT collections, particularly PFP (Profile Picture) projects, have emerged as a 
 
 The initial NFT boom focused on speculative trading, but the technology is now expanding into various practical applications. The future of NFTs will likely shift from whimsical images to representing ownership of diverse digital and physical assets, including:
 
-| Use Case            | Description                                               |
+| Use Case | Description |
 |---------------------|-----------------------------------------------------------|
-| Gaming Assets       | In-game items that players can own and trade freely.     |
-| Digital Identity     | University degrees or professional licenses as NFTs.      |
-| Real-World Assets   | Ownership of a house or company shares represented as NFTs. |
+| Gaming Assets | In-game items that players can own and trade freely. |
+| Digital Identity | University degrees or professional licenses as NFTs. |
+| Real-World Assets | Ownership of a house or company shares represented as NFTs. |
 | Tickets and Memberships | Concert tickets or gym memberships as NFTs, enabling secure resale. |
 
 NFTs are fundamental to Web3, reshaping the concept of digital ownership and establishing a new economic layer for the internet, where value flows directly to creators and users.
-

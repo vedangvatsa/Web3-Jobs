@@ -6,15 +6,15 @@ difficulty: advanced
 image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: A ZK (Zero-Knowledge) rollup is a Layer 2 scaling solution that uses validity proofs (zero-knowledge proofs) to prove the correctness of off-chain computations to Ethereum L1. Unlike Optimistic rollups that assume validity, ZK rollups cryptographically prove every batch is correct, enabling faster finality without challenge periods.
 relatedTerms:
-  - zero-knowledge-proof
-  - rollup
-  - layer-2
-  - zk-snark
-  - validity-proof
+ - zero-knowledge-proof
+ - rollup
+ - layer-2
+ - zk-snark
+ - validity-proof
 synonyms:
-  - Zero-knowledge rollup
-  - Validity rollup
-  - ZKR
+ - Zero-knowledge rollup
+ - Validity rollup
+ - ZKR
 ---
 
 A **ZK (Zero-Knowledge) rollup** is a **Layer 2 scaling solution that uses validity proofs, cryptographic proofs that computations were executed correctly, to secure transaction batches** submitted to Ethereum L1. Rather than optimistically assuming validity like Optimistic rollups, ZK rollups provide mathematical certainty that every state transition is correct, enabling **instant finality** once the proof is verified on L1.
@@ -38,9 +38,9 @@ The ZK rollup architecture involves these key steps:
 
 - After executing a batch, a **prover** generates a validity proof (ZK-SNARK or ZK-STARK).
 - The proof cryptographically demonstrates that:
-  - All transactions in the batch were executed correctly.
-  - The new state root was computed properly.
-  - All state transitions follow the rollup's rules.
+ - All transactions in the batch were executed correctly.
+ - The new state root was computed properly.
+ - All state transitions follow the rollup's rules.
 - Proof generation is computationally intensive and requires specialized hardware.
 - Proofs are compact: a proof can verify millions of transactions.
 
@@ -166,9 +166,9 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 
 ### zkSync Era
 
-- **Developer**: Matter Labs  
-- **Type**: Type 3 zkEVM transitioning toward Type 2  
-- **Proof System**: ZK-SNARKs  
+- **Developer**: Matter Labs 
+- **Type**: Type 3 zkEVM transitioning toward Type 2 
+- **Proof System**: ZK-SNARKs 
 
 - **Key Features**:
 - Native account abstraction.
@@ -180,9 +180,9 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 
 ### Polygon zkEVM
 
-- **Developer**: Polygon Labs  
-- **Type**: Type 2 zkEVM  
-- **Proof System**: FRI-based STARKs + SNARKs (hybrid)  
+- **Developer**: Polygon Labs 
+- **Type**: Type 2 zkEVM 
+- **Proof System**: FRI-based STARKs + SNARKs (hybrid) 
 
 - **Key Features**:
 - High EVM equivalence.
@@ -193,9 +193,9 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 
 ### Scroll
 
-- **Developer**: Scroll Foundation  
-- **Type**: Type 2 zkEVM  
-- **Proof System**: ZK-SNARKs  
+- **Developer**: Scroll Foundation 
+- **Type**: Type 2 zkEVM 
+- **Proof System**: ZK-SNARKs 
 
 - **Key Features**:
 - Close EVM equivalence for easy migration.
@@ -206,9 +206,9 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 
 ### StarkNet
 
-- **Developer**: StarkWare  
-- **Type**: Type 4 (Cairo VM, not EVM)  
-- **Proof System**: ZK-STARKs  
+- **Developer**: StarkWare 
+- **Type**: Type 4 (Cairo VM, not EVM) 
+- **Proof System**: ZK-STARKs 
 
 - **Key Features**:
 - Cairo language (custom for ZK-friendliness).
@@ -219,8 +219,8 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 
 ### Other Notable Projects
 
-- **Linea** (ConsenSys): Type 2 zkEVM, tight MetaMask integration.  
-- **Taiko**: Type 1 zkEVM (most Ethereum-equivalent), based rollup.  
+- **Linea** (ConsenSys): Type 2 zkEVM, tight MetaMask integration. 
+- **Taiko**: Type 1 zkEVM (most Ethereum-equivalent), based rollup. 
 - **Aztec**: Privacy-focused ZK rollup with confidential transactions.
 
 ## Challenges Facing ZK Rollups
@@ -344,7 +344,7 @@ When building on ZK rollups:
 
 ## The Future of ZK Rollups
 
-ZK rollups are rapidly evolving:
+ZK rollups are fast-moving:
 
 - **Type 1 zkEVMs**: Eventually, full Ethereum equivalence will be achieved with acceptable proving times.
 

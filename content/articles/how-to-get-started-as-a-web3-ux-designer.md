@@ -38,16 +38,15 @@ To succeed as a Web3 designer, you need the following skills:
 Transitioning from Web2 to Web3 requires a compelling [portfolio](/building-web3-portfolio) to demonstrate your understanding of the Web3 space.
 
 1. **Immerse Yourself as a User:** Before designing, experience Web3 as a user. Engage with [DeFi](/what-is-defi) protocols, buy [NFTs](/what-are-nfts), and learn from both positive and negative Web3 UX experiences.
-  
+
 2. **The Redesign Project (Portfolio Centerpiece):**
-    - Identify a popular dApp with a poor user experience.
-    - Create a detailed case study that involves redesigning a specific user flow, such as the [staking](/how-to-become-a-web3-staking-specialist) process or a governance voting page.
-    - Document your entire process: Define the problem, identify the user you aimed to help, and explain your design decisions.
-    - Develop high-fidelity mockups in Figma.
-  
+ - Identify a popular dApp with a poor user experience.
+ - Create a detailed case study that involves redesigning a specific user flow, such as the [staking](/how-to-become-a-web3-staking-specialist) process or a governance voting page.
+ - Document your entire process: Define the problem, identify the user you aimed to help, and explain your design decisions.
+ - Develop high-fidelity mockups in Figma.
+
 3. **Contribute to an Open-Source Project:** Seek out Web3 projects on GitHub and offer your design skills. You might redesign a component, create a new icon set, or enhance the documentation layout.
 
 4. **Publish Your Insights:** Write a blog post or a Twitter thread addressing a specific Web3 UX challenge and propose solutions.
 
-A career as a Web3 UX designer positions you at the forefront of a design evolution. By emphasizing clarity, security, and user empathy, you can significantly contribute to making the decentralized internet accessible to all.
-
+A career as a Web3 UX designer positions you leading a design evolution. By emphasizing clarity, security, and user empathy, you can significantly contribute to making the decentralized internet accessible to all.

@@ -55,4 +55,3 @@ By including a link to your "proof of work," you provide tangible evidence of yo
 - **Keep It Concise:** Respect the reader's time. Your cover letter should be brief and impactful.
 - **Customize Each Letter:** A generic cover letter wastes an opportunity. Tailor every letter to the specific project and role.
 - **Proofread Carefully:** Errors in spelling or grammar reflect a lack of attention to detail, which raises red flags in the competitive Web3 environment.
-

@@ -61,13 +61,13 @@ Fiverr reverses the traditional model. Instead of bidding on projects, freelance
 
 ### Key Differences
 
-| Feature               | Upwork                                      | Fiverr                                         |
+| Feature | Upwork | Fiverr |
 | --------------------- | ------------------------------------------- | ---------------------------------------------- |
-| **Model**             | Traditional job board (bidding on projects) | Gig-based marketplace (clients buy services)   |
-| **Project Type**      | Larger, more complex, long-term projects    | Smaller, well-defined, short-term projects     |
-| **Pricing**           | Set by the freelancer (hourly or fixed)     | Set by the freelancer in pre-packaged gigs     |
-| **Effort to Get Work**| High (requires writing proposals)           | Low (clients come to you)                      |
-| **Best For**          | Experienced freelancers, long-term work     | Beginners, offering specific, repeatable services |
+| **Model** | Traditional job board (bidding on projects) | Gig-based marketplace (clients buy services) |
+| **Project Type** | Larger, more complex, long-term projects | Smaller, well-defined, short-term projects |
+| **Pricing** | Set by the freelancer (hourly or fixed) | Set by the freelancer in pre-packaged gigs |
+| **Effort to Get Work**| High (requires writing proposals) | Low (clients come to you) |
+| **Best For** | Experienced freelancers, long-term work | Beginners, offering specific, repeatable services |
 
 ### Choosing the Right Platform
 
@@ -108,4 +108,3 @@ Juan began on Fiverr, offering logo design services. Initially, he priced his gi
 
 **Example 3: Maya Transitioning to Web3**
 Maya transitioned from a traditional marketing role to freelancing in the Web3 space. She used both platforms, offering content writing on Fiverr and complex project management on Upwork. Her ability to adapt her services to the unique demands of the Web3 industry allowed her to thrive in this competitive sector.
-

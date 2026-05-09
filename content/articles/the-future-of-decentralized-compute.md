@@ -35,10 +35,10 @@ Decentralized compute networks employ [blockchain](/what-is-a-blockchain) techno
 
 Several notable projects are leading the charge in decentralized computing:
 
-| Project Name       | Description                                                                                       | Key Features                        |
+| Project Name | Description | Key Features |
 |--------------------|---------------------------------------------------------------------------------------------------|-------------------------------------|
-| **Akash Network**   | A decentralized computing marketplace built on the [Cosmos SDK](/exploring-cosmos-sdk-for-web3-development). Focuses on general-purpose compute for applications like dApp backends and blockchain nodes. | Cost-effective, flexible compute options, open-source |
-| **Render Network**  | A decentralized network designed for GPU rendering, enabling 3D artists and animation studios to tap into a global network of idle GPUs. | Fast, affordable rendering, community-driven |
+| **Akash Network** | A decentralized computing marketplace built on the [Cosmos SDK](/exploring-cosmos-sdk-for-web3-development). Focuses on general-purpose compute for applications like dApp backends and blockchain nodes. | Cost-effective, flexible compute options, open-source |
+| **Render Network** | A decentralized network designed for GPU rendering, enabling 3D artists and animation studios to tap into a global network of idle GPUs. | Fast, affordable rendering, community-driven |
 
 Decentralized Compute is important for the "DePIN" (Decentralized Physical Infrastructure Networks) narrative. While still nascent, it promises to build a more open, resilient, and competitive market for one of the essential resources in the digital age: computation.
 
@@ -67,4 +67,3 @@ Take a step-by-step approach to implementation. Start with manageable changes an
 #### Step 5: Measure and Adjust
 
 Keep track of your progress. Are you achieving the desired outcomes? Modify your strategy based on feedback and results. A mindset focused on continuous improvement will serve you well.
-

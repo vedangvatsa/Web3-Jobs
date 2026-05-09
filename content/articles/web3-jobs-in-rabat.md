@@ -18,7 +18,7 @@ The Web3 environment in Rabat emphasizes professionalism, policy focus, and long
 
 Rabat's Web3 ecosystem thrives due to its proximity to decision-makers and its strong academic foundation.
 
-- **GovTech and Public Sector Innovation:** Rabat is at the forefront of projects that use blockchain to enhance public services. Key areas of interest include digital identity solutions, secure document verification, and the creation of transparent administrative processes.
+- **GovTech and Public Sector Innovation:** Rabat is leading projects that use blockchain to enhance public services. Key areas of interest include digital identity solutions, secure document verification, and the creation of transparent administrative processes.
 
 - **Regulatory Development Center:** As the headquarters of Bank Al-Maghrib and various government ministries, Rabat is instrumental in shaping Morocco's national strategy for cryptocurrencies and Central Bank Digital Currencies (CBDCs). The central bank's research into a digital Dirham places Rabat at the core of the country’s future financial framework, leading to a high demand for legal and policy experts.
 
@@ -221,4 +221,3 @@ Rabat's job market shows a strong demand for professionals with expertise in tec
 - A growing Twitter following.
 - Speaking engagements.
 - Clear positioning as a policy and GovTech expert.
-

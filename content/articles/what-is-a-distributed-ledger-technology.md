@@ -112,4 +112,3 @@ Understanding DLTs deeply is foundational for Web3 careers:
 - **Compliance/Forensics:** Understanding DLT transparency and traceability is essential.
 
 Professionals who can explain DLTs clearly to non-technical audiences (regulators, executives, investors) are especially valuable.
-

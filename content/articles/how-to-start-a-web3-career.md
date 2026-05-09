@@ -22,32 +22,32 @@ Your initial month should focus entirely on learning and immersing yourself in t
 
 **1. Learn the Language:**
 Start by mastering essential terminology. You should be able to clearly explain concepts such as:
--   [What is a Blockchain?](/what-is-a-blockchain)
--   [What is Web3?](/what-is-web3)
--   [What are Smart Contracts?](/what-are-smart-contracts)
--   [What are NFTs?](/what-are-nfts)
--   [What is DeFi?](/what-is-defi)
+- [What is a Blockchain?](/what-is-a-blockchain)
+- [What is Web3?](/what-is-web3)
+- [What are Smart Contracts?](/what-are-smart-contracts)
+- [What are NFTs?](/what-are-nfts)
+- [What is DeFi?](/what-is-defi)
 
 **2. Curate Your Information Sources:**
 Engage with the ongoing conversations in Web3, primarily on Twitter (X) and through podcasts.
--   **Twitter:** Set up a dedicated Twitter account for Web3. Follow leading builders, investors, and projects to stay updated and informed.
--   **Podcasts:** Tune into shows like *Bankless*, *The Defiant*, and *Unchained* for in-depth insights into current trends and narratives.
+- **Twitter:** Set up a dedicated Twitter account for Web3. Follow leading builders, investors, and projects to stay updated and informed.
+- **Podcasts:** Tune into shows like *Bankless*, *The Defiant*, and *Unchained* for in-depth insights into current trends and narratives.
 
 **3. Gain Practical Experience:**
 Active participation is important. 
--   **Get a [Wallet](/how-to-choose-a-crypto-wallet):** Install MetaMask as your browser extension. This wallet serves as your access point to Web3. Importantly, write down your seed phrase on paper and store it securely. Never keep it digitally.
--   **Purchase a Small Amount of Cryptocurrency:** Use a trusted centralized exchange like Coinbase to buy a modest amount of [Ethereum](/what-is-ethereum) (ETH).
--   **Execute Your First Transaction:** Withdraw your ETH from the exchange to your personal MetaMask wallet. This step teaches you about self-custody.
--   **Engage with a dApp:** With ETH in your wallet, use it. Visit a [decentralized exchange](/what-is-a-decentralized-exchange-dex) like Uniswap and swap a small amount of ETH for a stablecoin, such as USDC. Experiencing gas fees and signing transactions will teach you more than theoretical knowledge.
+- **Get a [Wallet](/how-to-choose-a-crypto-wallet):** Install MetaMask as your browser extension. This wallet serves as your access point to Web3. Importantly, write down your seed phrase on paper and store it securely. Never keep it digitally.
+- **Purchase a Small Amount of Cryptocurrency:** Use a trusted centralized exchange like Coinbase to buy a modest amount of [Ethereum](/what-is-ethereum) (ETH).
+- **Execute Your First Transaction:** Withdraw your ETH from the exchange to your personal MetaMask wallet. This step teaches you about self-custody.
+- **Engage with a dApp:** With ETH in your wallet, use it. Visit a [decentralized exchange](/what-is-a-decentralized-exchange-dex) like Uniswap and swap a small amount of ETH for a stablecoin, such as USDC. Experiencing gas fees and signing transactions will teach you more than theoretical knowledge.
 
 ### Step 2: Choose a Path and Develop a Skill
 
 After immersing yourself for a month, identify the aspects of Web3 that excite you the most. Now, focus on developing a specific skill that holds value in the ecosystem.
 
--   **Community Management:** If you have an interest in community engagement, consider aiming for a role as a **Community Manager**. These professionals oversee project Discord servers. Start by becoming an active and helpful member in a project’s Discord to get noticed by the team.
--   **Marketing:** Start creating content. Launch a blog or Twitter account to explain the concepts you’ve learned. This showcases your communication skills and serves as your public [portfolio](/building-web3-portfolio).
--   **Design:** Identify a dApp with a confusing user interface. Redesign a user flow using Figma and share your case study publicly to demonstrate your design skills.
--   **Development:** Begin with the basics. Follow a free tutorial like CryptoZombies to learn the fundamentals of [Solidity](/solidity-for-beginners), the primary programming language for Ethereum.
+- **Community Management:** If you have an interest in community engagement, consider aiming for a role as a **Community Manager**. These professionals oversee project Discord servers. Start by becoming an active and helpful member in a project’s Discord to get noticed by the team.
+- **Marketing:** Start creating content. Launch a blog or Twitter account to explain the concepts you’ve learned. This showcases your communication skills and serves as your public [portfolio](/building-web3-portfolio).
+- **Design:** Identify a dApp with a confusing user interface. Redesign a user flow using Figma and share your case study publicly to demonstrate your design skills.
+- **Development:** Begin with the basics. Follow a free tutorial like CryptoZombies to learn the fundamentals of [Solidity](/solidity-for-beginners), the primary programming language for Ethereum.
 
 It's essential to create verifiable evidence of your skills and passion, often referred to as "proof of work."
 
@@ -55,22 +55,21 @@ It's essential to create verifiable evidence of your skills and passion, often r
 
 [DAOs (Decentralized Autonomous Organizations)](/what-is-a-dao) serve as community-run organizations and offer beginners a valuable avenue to gain real-world experience.
 
-1.  **Identify a [DAO](/what-is-a-dao):** Seek a DAO that aligns with your interests. For instance, writers may consider joining BanklessDAO.
-2.  **Join a Guild:** Most DAOs include working groups or "guilds" focused on various functions (e.g., Marketing Guild, Writers Guild). Choose one that aligns with the skills you wish to develop.
-3.  **Complete a Bounty:** Many DAOs provide small, paid tasks called bounties. These could involve writing articles, creating graphics, or testing new features. Successfully completing a bounty represents your first professional Web3 experience and serves as a strong signal to potential employers.
+1. **Identify a [DAO](/what-is-a-dao):** Seek a DAO that aligns with your interests. For instance, writers may consider joining BanklessDAO.
+2. **Join a Guild:** Most DAOs include working groups or "guilds" focused on various functions (e.g., Marketing Guild, Writers Guild). Choose one that aligns with the skills you wish to develop.
+3. **Complete a Bounty:** Many DAOs provide small, paid tasks called bounties. These could involve writing articles, creating graphics, or testing new features. Successfully completing a bounty represents your first professional Web3 experience and serves as a strong signal to potential employers.
 
 ### Step 4: From Contribution to Career
 
 With some experience and a small portfolio of work, you can begin searching for more formal roles.
 
--   **Build Authentic Connections:** The relationships established in Discord servers and on Twitter become your professional network. Focus on forming genuine connections rather than simply asking for jobs. Contribute value to the community.
--   **Tailor Your [Resume](/how-to-build-a-web3-resume-that-stands-out):** Reframe your previous experience using Web3 terminology. For example, a "social media manager" can become a "community builder." Include a "Web3 Contributions" section in your resume, linking directly to your work.
--   **Look for Entry-Level Roles Such As:**
-    -   Community Moderator
-    -   Marketing Assistant
-    -   Social Media Coordinator
-    -   [Technical Support Specialist](/web3-customer-support-careers)
-    -   Junior Content Writer
+- **Build Authentic Connections:** The relationships established in Discord servers and on Twitter become your professional network. Focus on forming genuine connections rather than simply asking for jobs. Contribute value to the community.
+- **Tailor Your [Resume](/how-to-build-a-web3-resume-that-stands-out):** Reframe your previous experience using Web3 terminology. For example, a "social media manager" can become a "community builder." Include a "Web3 Contributions" section in your resume, linking directly to your work.
+- **Look for Entry-Level Roles Such As:**
+ - Community Moderator
+ - Marketing Assistant
+ - Social Media Coordinator
+ - [Technical Support Specialist](/web3-customer-support-careers)
+ - Junior Content Writer
 
 The process of securing your first [Web3 job](/web3-jobs-for-beginners) requires patience and active engagement. The barriers to entry are low compared to traditional industries, and the opportunities for growth are substantial. By immersing yourself in the culture, honing a valuable skill, and creating a public portfolio of your contributions, you can successfully start a rewarding career in the evolving digital field.
-

@@ -18,7 +18,7 @@ The Web3 environment in Lusaka thrives on community engagement, educational init
 
 Lusaka's Web3 community is characterized by a collaborative spirit and a focus on real-world applications.
 
-- **Youthful and Entrepreneurial Culture:** Zambia's young demographic supports a vibrant startup ecosystem. An increasing number of founders are exploring Web3 opportunities, leading to innovation and growth.
+- **Youthful and Entrepreneurial Culture:** Zambia's young demographic supports a active startup ecosystem. An increasing number of founders are exploring Web3 opportunities, leading to innovation and growth.
 - **Focus on FinTech and AgriTech:** Local interest in blockchain revolves around practical applications. Projects aim to develop inclusive FinTech solutions for unbanked populations and enhance supply chain transparency and financing in Zambia's agricultural sector.
 - **Community and Education:** The Lusaka Web3 community is tightly knit, encouraging collaboration. Tech hubs and organizations facilitate meetups, boot camps, and workshops to educate the public and enhance the skills of local developers in blockchain technology.
 - **Strategic Economic Hub:** Lusaka serves as a vital economic center within the Southern African Development Community (SADC), making it an ideal location for projects aiming to expand into neighboring countries.
@@ -40,7 +40,7 @@ The Web3 job market in Lusaka is small but expanding. Significant roles often in
 ### Building a Web3 Career in Lusaka
 
 1. **Become a Community Leader and Educator:** The local scene craves knowledge. Establish yourself as a leader by organizing regular Web3 meetups, starting a YouTube channel to explain crypto concepts in the local context, or conducting workshops for university students. Your proactive approach will enhance your visibility.
-   
+
 2. **Focus on Local Use Cases:** When developing your [portfolio](/building-web3-portfolio), showcase your understanding of Zambia's specific challenges and opportunities. Create decentralized applications (dApps) that address issues in micro-finance, agricultural supply chains, or cross-border payments.
 
 3. **Engage with Local Tech Hubs:** Connect with key tech hubs and innovation centers in Lusaka. These organizations are key in the startup ecosystem and often serve as the first point of contact for international projects seeking to enter the Zambian market.
@@ -169,4 +169,3 @@ The Web3 job market in Lusaka is small but expanding. Significant roles often in
 - Three completed projects on GitHub.
 - Several published articles and one or two paid contracts.
 - Established Lusaka Web3 meetup with regular attendees.
-

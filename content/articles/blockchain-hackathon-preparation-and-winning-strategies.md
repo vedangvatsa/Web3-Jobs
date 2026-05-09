@@ -21,9 +21,9 @@ Preparation begins long before the event.
 **1. Form Your Team (or Not):**
 - **Going Solo:** Experienced full-stack developers might opt to work independently. This choice requires strong self-management but allows for complete creative control.
 - **Forming a Team:** Most participants benefit from collaboration. A balanced team of 3-4 members can enhance the project’s potential. Consider including:
-    - **1-2 [Smart Contract](/what-are-smart-contracts) Developers:** Focus on on-chain logic.
-    - **1 Frontend Developer:** Responsible for the user interface.
-    - **1 Project Manager/Designer:** Oversees project management, user flow design, and presentation preparation.
+ - **1-2 [Smart Contract](/what-are-smart-contracts) Developers:** Focus on on-chain logic.
+ - **1 Frontend Developer:** Responsible for the user interface.
+ - **1 Project Manager/Designer:** Oversees project management, user flow design, and presentation preparation.
 - **Finding a Team:** Use the hackathon's official Discord server to connect with others. Look for team members a week or two before the event.
 
 **2. Study the Sponsors and Bounties:**
@@ -32,9 +32,9 @@ Preparation begins long before the event.
 
 **3. Set Up Your Development Environment:**
 - Avoid wasting time during the hackathon by preparing your tools in advance:
-    - Choose an IDE (e.g., VS Code) and ensure it has the necessary extensions.
-    - Select a smart contract framework; **[Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit)** is often favored for its speed.
-    - Create a frontend boilerplate (e.g., a basic Next.js app with [wallet](/how-to-choose-a-crypto-wallet) connection configured).
+ - Choose an IDE (e.g., VS Code) and ensure it has the necessary extensions.
+ - Select a smart contract framework; **[Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit)** is often favored for its speed.
+ - Create a frontend boilerplate (e.g., a basic Next.js app with [wallet](/how-to-choose-a-crypto-wallet) connection configured).
 
 ### Part 2: The Hackathon Weekend
 
@@ -53,8 +53,8 @@ The event typically spans about 48 hours, and time management is critical.
 **3. The Final Sprint: Polish and Pitch (The Last 9 Hours):**
 - **Code Freeze:** Stop adding new features. Concentrate on fixing bugs and enhancing the user experience.
 - **Prepare Your Pitch:** Your presentation is as important as your code. Typically, you will need to submit a short video (usually 3 minutes) along with a presentation.
-    - **Presentation Structure:** Clearly articulate the problem you are addressing, how your solution works, the technologies employed, and your future plans.
-    - **Live Demo:** Include a live demonstration of your application. Projects without a demo are unlikely to win.
+ - **Presentation Structure:** Clearly articulate the problem you are addressing, how your solution works, the technologies employed, and your future plans.
+ - **Live Demo:** Include a live demonstration of your application. Projects without a demo are unlikely to win.
 - **Submission:** Submit your project to the judging platform (e.g., Devfolio) well before the deadline.
 
 ### The Importance of Participation (Even Without Winning)
@@ -67,4 +67,3 @@ Winning a prize is an achievement, but the true value of a hackathon extends bey
 - **Increased Visibility:** A well-executed project can attract attention from investors and recruiters.
 
 Blockchain hackathons are integral to the Web3 builder community, building skills, connections, and career advancement. Whether you are an experienced developer or a newcomer, participating in a hackathon offers substantial rewards.
-

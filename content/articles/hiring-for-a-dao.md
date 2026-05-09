@@ -38,9 +38,9 @@ This individual is a new community member exploring the DAO's Discord. They are 
 At this stage, the participant begins contributing to discussions, while the bounty hunter is ready to complete their first task.
 - **DAO's Goal:** Simplify the contribution process. Provide a clear "bounty board" offering a variety of small, well-defined tasks suited to different skill sets (e.g., writing, design, translation, coding).
 - **Bounty Best Practices:**
-    - **Be Specific:** Each bounty should have a clear deliverable, defined timeline, and set reward.
-    - **Pay Fairly:** Ensure timely and competitive compensation. A DAO's reputation for fair payments influences contributor retention.
-    - **Provide Feedback:** Deliver constructive feedback on completed work to help contributors learn and improve.
+ - **Be Specific:** Each bounty should have a clear deliverable, defined timeline, and set reward.
+ - **Pay Fairly:** Ensure timely and competitive compensation. A DAO's reputation for fair payments influences contributor retention.
+ - **Provide Feedback:** Deliver constructive feedback on completed work to help contributors learn and improve.
 - **Tools:** Platforms like Dework, Layer3, or a simple Notion board can effectively manage bounties.
 
 **3. Bottom of Funnel: The Core Contributor**
@@ -48,9 +48,9 @@ At this stage, the participant begins contributing to discussions, while the bou
 Core contributors are individuals who have successfully completed multiple bounties and are trusted members of the community.
 - **DAO's Goal:** Retain this talent and enhance their ownership within the organization. This is the stage where longer-term roles may be offered.
 - **Options for Engagement:**
-    - **Grant-Funded Project:** Contributors can submit proposals for projects to work on larger initiatives.
-    - **Joining a Guild:** They can take on leadership roles within specific working groups (e.g., the Marketing Guild) and receive regular stipends.
-    - **Full-Time Role:** As the DAO evolves, it may establish a core team with more traditional full-time roles, making these proven contributors ideal candidates.
+ - **Grant-Funded Project:** Contributors can submit proposals for projects to work on larger initiatives.
+ - **Joining a Guild:** They can take on leadership roles within specific working groups (e.g., the Marketing Guild) and receive regular stipends.
+ - **Full-Time Role:** As the DAO evolves, it may establish a core team with more traditional full-time roles, making these proven contributors ideal candidates.
 
 ### Assessing Candidates in a Pseudonymous World
 
@@ -90,16 +90,16 @@ Monitor your progress consistently. Are you achieving desired results? Adapt you
 
 ### Real-World Examples
 
-| Name   | Role            | Organization       | Challenge                             | Outcome                                       |
+| Name | Role | Organization | Challenge | Outcome |
 |--------|-----------------|--------------------|---------------------------------------|-----------------------------------------------|
-| Sarah  | Developer       | [Blockchain](/what-is-a-blockchain) Startup | Difficulty in completing tasks on time | Implemented structured time management; improved productivity within 3 months |
-| Juan   | Product Manager  | [DeFi](/what-is-defi) Company | Ineffective communication with stakeholders | Adopted transparent communication practices; resulted in faster decision-making and improved project outcomes |
-| Maya   | Transitioner    | Various Web3 Roles | Adapting to a decentralized work environment | Engaged in community discussions and completed bounties; gained confidence and secured a full-time position |
+| Sarah | Developer | [Blockchain](/what-is-a-blockchain) Startup | Difficulty in completing tasks on time | Implemented structured time management; improved productivity within 3 months |
+| Juan | Product Manager | [DeFi](/what-is-defi) Company | Ineffective communication with stakeholders | Adopted transparent communication practices; resulted in faster decision-making and improved project outcomes |
+| Maya | Transitioner | Various Web3 Roles | Adapting to a decentralized work environment | Engaged in community discussions and completed bounties; gained confidence and secured a full-time position |
 
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process:** Expecting immediate results can lead to frustration. Sustainable change takes time and requires patience.
-   
+
 2. **Ignoring Feedback:** Colleagues and mentors can provide insights you might overlook. Actively listen to their observations and suggestions.
 
 3. **One-Size-Fits-All Approach:** Strategies that work for others may not suit your context. Adapt practices to fit your specific situation.
@@ -110,18 +110,17 @@ Monitor your progress consistently. Are you achieving desired results? Adapt you
 
 ### FAQ
 
-**Q: How long will this take to implement?**  
+**Q: How long will this take to implement?** 
 A: Initial results typically appear within a few weeks of consistent application, with significant improvements visible within a couple of months. The timeline varies based on your starting point, daily practice commitment, and whether you actively seek feedback. Professionals who track their progress through metrics, peer feedback, or journaling tend to accelerate their growth compared to those who passively observe. Treating implementation as a structured project consistently yields better outcomes.
 
-**Q: What if my workplace environment doesn't support this?**  
+**Q: What if my workplace environment doesn't support this?** 
 A: You often have more agency than it seems, even in challenging environments. Begin with small, self-contained actions that do not require organizational buy-in, such as individual habits or internal conversations with supportive colleagues. Gradually build momentum instead of waiting for permission. Document your progress and results. If after sustained effort the environment hinders your growth, consider seeking opportunities that prioritize employee development.
 
-**Q: How does this apply specifically to Web3?**  
+**Q: How does this apply specifically to Web3?** 
 A: Web3 organizations differ from traditional companies in ways that enhance the importance of these skills. With flatter hierarchies, you gain direct access to decision-makers but also bear more responsibility for self-direction. Remote, globally distributed teams place greater importance on written communication and asynchronous collaboration compared to in-office dynamics. The pace in Web3 is faster, with product cycles taking weeks instead of quarters. Adapting to this environment is a core professional skill in the space.
 
-**Q: Can I implement this alongside my current role?**  
+**Q: Can I implement this alongside my current role?** 
 A: Yes. This approach is advisable for most professionals. You do not need extra hours; you need to be intentional within your existing schedule. Identify two or three practices that align with your daily work and apply them consistently. Small, deliberate changes compound effectively, leading to substantial improvements over time. Many people successfully develop new professional habits without changing their overall work hours.
 
-**Q: What resources can help me go deeper?**  
+**Q: What resources can help me go deeper?** 
 A: The related articles section below details specific topics extensively. In addition to written resources, the most impactful move is finding a mentor or peer group excelling in this area. Observing their practices reveals insights that articles cannot convey. Engaging in Web3-specific communities on platforms like Discord and Telegram can connect you with practitioners willing to share their experiences. Establishing structured accountability, committing to a timeline with someone who will check in, also accelerates progress significantly.
-

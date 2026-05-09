@@ -14,13 +14,13 @@ Understanding the fundamental differences between Ethereum and Solana is vital f
 
 ### Key Differences Between Ethereum and Solana
 
-| Feature               | Ethereum                                   | Solana                                     |
+| Feature | Ethereum | Solana |
 |-----------------------|--------------------------------------------|-------------------------------------------|
-| Consensus Mechanism   | Proof of Work transitioning to Proof of Stake | Proof of History combined with Proof of Stake |
-| Transaction Speed      | Generally supports a moderate number of transactions per second                | Capable of processing a high number of transactions per second            |
-| Transaction Fees      | Average fees can vary significantly               | Average fees are typically very low        |
-| Programming Model     | Code and state are combined in contracts   | Separates code and state into accounts     |
-| Popular Languages     | Solidity                                   | Rust, C, C++                             |
+| Consensus Mechanism | Proof of Work transitioning to Proof of Stake | Proof of History combined with Proof of Stake |
+| Transaction Speed | Generally supports a moderate number of transactions per second | Capable of processing a high number of transactions per second |
+| Transaction Fees | Average fees can vary significantly | Average fees are typically very low |
+| Programming Model | Code and state are combined in contracts | Separates code and state into accounts |
+| Popular Languages | Solidity | Rust, C, C++ |
 
 ### Why Choose Rust for Solana Development
 
@@ -32,7 +32,7 @@ To begin building on Solana, you need to install several tools:
 
 1. **Rust:** Install Rust through `rustup`, which manages Rust versions and associated tools.
 2. **Solana Tool Suite:** This includes command-line tools essential for interacting with the Solana blockchain.
-3. **Anchor:** Install Anchor to streamline your development process. It provides a command-line interface (CLI) and a Domain Specific Language (DSL) for writing programs.
+3. **Anchor:** Install Anchor to simplify your development process. It provides a command-line interface (CLI) and a Domain Specific Language (DSL) for writing programs.
 
 **Actionable Step:** Check the official Anchor installation guide for detailed setup instructions. Proper environment configuration is critical to successful development.
 
@@ -62,44 +62,44 @@ declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
 #[program]
 pub mod my_first_dapp {
-    use super::*;
+ use super::*;
 
-    // Function to initialize the counter account.
-    pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
-        let base_account = &mut ctx.accounts.base_account;
-        base_account.count = 0;
-        Ok(())
-    }
+ // Function to initialize the counter account.
+ pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
+ let base_account = &mut ctx.accounts.base_account;
+ base_account.count = 0;
+ Ok(())
+ }
 
-    // Function to increment the counter.
-    pub fn increment(ctx: Context<Increment>) -> Result<()> {
-        let base_account = &mut ctx.accounts.base_account;
-        base_account.count += 1;
-        Ok(())
-    }
+ // Function to increment the counter.
+ pub fn increment(ctx: Context<Increment>) -> Result<()> {
+ let base_account = &mut ctx.accounts.base_account;
+ base_account.count += 1;
+ Ok(())
+ }
 }
 
 // Struct for the accounts needed for the `initialize` function.
 #[derive(Accounts)]
 pub struct Initialize<'info> {
-    #[account(init, payer = user, space = 8 + 8)]
-    pub base_account: Account<'info, BaseAccount>,
-    #[account(mut)]
-    pub user: Signer<'info>,
-    pub system_program: Program<'info, System>,
+ #[account(init, payer = user, space = 8 + 8)]
+ pub base_account: Account<'info, BaseAccount>,
+ #[account(mut)]
+ pub user: Signer<'info>,
+ pub system_program: Program<'info, System>,
 }
 
 // Struct for the accounts needed for the `increment` function.
 #[derive(Accounts)]
 pub struct Increment<'info> {
-    #[account(mut)]
-    pub base_account: Account<'info, BaseAccount>,
+ #[account(mut)]
+ pub base_account: Account<'info, BaseAccount>,
 }
 
 // Struct that holds the counter data.
 #[account]
 pub struct BaseAccount {
-    pub count: u64,
+ pub count: u64,
 }
 ```
 
@@ -115,19 +115,19 @@ pub struct BaseAccount {
 After writing your program, navigate to your project's root directory and execute the following commands to build and deploy your program:
 
 1. **Build the Program:** 
-   ```bash
-   anchor build
-   ```
+ ```bash
+ anchor build
+ ```
 
 2. **Start a Local Test Validator:** 
-   ```bash
-   solana-test-validator
-   ```
+ ```bash
+ solana-test-validator
+ ```
 
 3. **Deploy the Program:** 
-   ```bash
-   anchor deploy
-   ```
+ ```bash
+ anchor deploy
+ ```
 
 The deployment process updates your program ID in the `declare_id!` macro and in `Anchor.toml`, allowing you to interact with your newly created program.
 
@@ -142,37 +142,37 @@ import { MyFirstDapp } from "../target/types/my_first_dapp";
 import { assert } from "chai";
 
 describe("my_first_dapp", () => {
-  const provider = anchor.AnchorProvider.env();
-  anchor.setProvider(provider);
+ const provider = anchor.AnchorProvider.env();
+ anchor.setProvider(provider);
 
-  const program = anchor.workspace.MyFirstDapp as Program<MyFirstDapp>;
-  
-  const baseAccount = anchor.web3.Keypair.generate();
+ const program = anchor.workspace.MyFirstDapp as Program<MyFirstDapp>;
 
-  it("Is initialized!", async () => {
-    await program.methods.initialize()
-      .accounts({
-        baseAccount: baseAccount.publicKey,
-        user: provider.wallet.publicKey,
-        systemProgram: anchor.web3.SystemProgram.programId,
-      })
-      .signers([baseAccount])
-      .rpc();
+ const baseAccount = anchor.web3.Keypair.generate();
 
-    const account = await program.account.baseAccount.fetch(baseAccount.publicKey);
-    assert.ok(account.count.toNumber() === 0);
-  });
+ it("Is initialized!", async () => {
+ await program.methods.initialize()
+ .accounts({
+ baseAccount: baseAccount.publicKey,
+ user: provider.wallet.publicKey,
+ systemProgram: anchor.web3.SystemProgram.programId,
+ })
+ .signers([baseAccount])
+ .rpc();
 
-  it("Increments the count", async () => {
-    await program.methods.increment()
-      .accounts({
-        baseAccount: baseAccount.publicKey,
-      })
-      .rpc();
+ const account = await program.account.baseAccount.fetch(baseAccount.publicKey);
+ assert.ok(account.count.toNumber() === 0);
+ });
 
-    const account = await program.account.baseAccount.fetch(baseAccount.publicKey);
-    assert.ok(account.count.toNumber() === 1);
-  });
+ it("Increments the count", async () => {
+ await program.methods.increment()
+ .accounts({
+ baseAccount: baseAccount.publicKey,
+ })
+ .rpc();
+
+ const account = await program.account.baseAccount.fetch(baseAccount.publicKey);
+ assert.ok(account.count.toNumber() === 1);
+ });
 });
 ```
 
@@ -218,7 +218,7 @@ Consider Alex, a developer who transitioned from a traditional software engineer
 
 #### Example 2
 
-Maria, a project manager in a Web3 startup, used her understanding of decentralized finance (DeFi) to streamline project workflows. By implementing agile methodologies tailored for blockchain projects, she improved team productivity and enhanced project outcomes.
+Maria, a project manager in a Web3 startup, used her understanding of decentralized finance (DeFi) to simplify project workflows. By implementing agile methodologies tailored for blockchain projects, she improved team productivity and enhanced project outcomes.
 
 #### Example 3
 
@@ -234,19 +234,19 @@ John, who shifted from Web2 to Web3, used the skills gained from his previous ex
 
 ### FAQ
 
-**Q: What is the expected timeline for becoming proficient in Solana development?**  
+**Q: What is the expected timeline for becoming proficient in Solana development?** 
 A: Many developers report feeling comfortable with the basics within a few weeks of dedicated practice, while achieving proficiency can take several months. Consistency and engagement with real-world projects can accelerate this timeline.
 
-**Q: How do I find opportunities in the Web3 space?**  
+**Q: How do I find opportunities in the Web3 space?** 
 A: Use platforms like GitHub to contribute to open-source projects, attend blockchain meetups, and join online communities such as Discord or Telegram. Engaging with other developers can lead to job opportunities and collaborations.
 
-**Q: How does Solana compare with other high-performance blockchains?**  
+**Q: How does Solana compare with other high-performance blockchains?** 
 A: Solana's unique architecture, including its use of Proof of History, allows for exceptional transaction speeds and lower fees compared to other blockchains. This makes it attractive for developers focused on scalability.
 
-**Q: Can I transition from a non-technical role to a technical one in Web3?**  
+**Q: Can I transition from a non-technical role to a technical one in Web3?** 
 A: Yes, many professionals transition into technical roles by learning programming languages and blockchain concepts through online courses and hands-on experience. Start with foundational knowledge and gradually build your skills.
 
-**Q: What resources are available for further learning?**  
+**Q: What resources are available for further learning?** 
 A: Numerous online courses, tutorials, and documentation are available, including the official Solana and Rust websites. Engaging with community resources and mentorship opportunities can also enhance your learning experience.
 
 In summary, developing your first DApp on Solana using Rust and Anchor can open numerous doors in the blockchain space. By understanding the core principles and Building your skills, you prepare for a successful career in this dynamic environment. As the demand for blockchain solutions continues to grow, your expertise in Solana development will be a valuable asset.

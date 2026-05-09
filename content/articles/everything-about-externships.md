@@ -24,13 +24,13 @@ Externships serve as a conduit for career exploration. They typically last from 
 
 ### Externship vs. Internship: Key Differences
 
-| Feature         | Externship                               | Internship                                     |
+| Feature | Externship | Internship |
 | --------------- | ---------------------------------------- | ---------------------------------------------- |
-| **Primary Goal**  | Career exploration and observational learning | Skill development and practical work experience|
-| **Duration**      | Short-term (1 day to a few weeks)        | Longer-term (Typically 1-3 months or a semester) |
-| **Compensation**  | Usually unpaid (often for academic credit) | Usually paid                                   |
-| **Work Involved** | Primarily shadowing and observing        | Assigned projects and specific job duties      |
-| **Commitment**    | Low commitment from both sides           | High commitment, resembling a temporary job     |
+| **Primary Goal** | Career exploration and observational learning | Skill development and practical work experience|
+| **Duration** | Short-term (1 day to a few weeks) | Longer-term (Typically 1-3 months or a semester) |
+| **Compensation** | Usually unpaid (often for academic credit) | Usually paid |
+| **Work Involved** | Primarily shadowing and observing | Assigned projects and specific job duties |
+| **Commitment** | Low commitment from both sides | High commitment, resembling a temporary job |
 
 Externships facilitate the exploration of whether a specific career path is suitable, while internships focus on gaining practical experience in a chosen field.
 
@@ -53,10 +53,10 @@ Finding an externship requires strategic planning and proactive outreach. Here a
 1. **University Career Services:** Many universities have established externship programs, often available during winter or spring breaks. These programs facilitate connections with alumni and companies willing to host students.
 
 2. **Cold Outreach:** Creating your own externship through cold outreach can be effective. Follow these steps:
-   - Identify professionals in your field of interest using LinkedIn or Twitter.
-   - Conduct research on them and their organizations.
-   - Send a polite message expressing admiration for their work and request a brief informational conversation rather than a job inquiry.
-   - If the discussion goes well, follow up with a request to shadow them for a day.
+ - Identify professionals in your field of interest using LinkedIn or Twitter.
+ - Conduct research on them and their organizations.
+ - Send a polite message expressing admiration for their work and request a brief informational conversation rather than a job inquiry.
+ - If the discussion goes well, follow up with a request to shadow them for a day.
 
 3. **Networking:** Use your existing network to discover externship opportunities. Engage professors, family friends, and alumni to share your interests. Personal introductions often yield better results than cold applications.
 
@@ -87,4 +87,3 @@ Understanding the externship concept is vital for professional growth. Professio
 4. **Implement Gradually:** Avoid overwhelming changes. Start with small, manageable adjustments and track their effectiveness, building on what works over time.
 
 5. **Measure Progress:** Continuously monitor your progress. Are you achieving your goals? Adjust your strategies based on feedback and outcomes to ensure ongoing improvement.
-

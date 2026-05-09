@@ -28,15 +28,14 @@ The important metric is not the total number of developers, but the **retention 
 
 The Solana of today is not the Solana of 2021. The ecosystem has learned from its challenges and has become significantly more reliable.
 
-*   **Client Diversity:** The development of Firedancer, a new validator client built by Jump Crypto, enables network stability. It diversifies the client software, reducing the risk of a single point of failure and making the network more resilient to bugs and outages.
-*   **Improved Tooling:** The developer experience on Solana has improved dramatically. The maturation of the Anchor framework, better documentation, and more sophisticated testing tools have made it easier for developers to build secure and efficient applications.
-*   **The Rise of Rust:** Solana's use of Rust, a language known for its performance and safety, has a steep learning curve. This acts as a natural filter, attracting a higher caliber of systems-level engineers compared to easier-to-learn languages. The Rust community on Solana is known for being highly technical and collaborative.
+* **Client Diversity:** The development of Firedancer, a new validator client built by Jump Crypto, enables network stability. It diversifies the client software, reducing the risk of a single point of failure and making the network more resilient to bugs and outages.
+* **Improved Tooling:** The developer experience on Solana has improved dramatically. The maturation of the Anchor framework, better documentation, and more sophisticated testing tools have made it easier for developers to build secure and efficient applications.
+* **The Rise of Rust:** Solana's use of Rust, a language known for its performance and safety, has a steep learning curve. This acts as a natural filter, attracting a higher caliber of systems-level engineers compared to easier-to-learn languages. The Rust community on Solana is known for being highly technical and collaborative.
 
 ### Dominance in High-Performance Niches
 
 While [Ethereum](/what-is-ethereum) and its Layer 2s dominate the narrative around general-purpose [smart contracts](/what-are-smart-contracts), Solana has carved out a clear niche and is becoming the dominant platform for applications that require extremely high throughput and low latency.
 
-*   **DePIN (Decentralized Physical Infrastructure):** Projects like Helium (which migrated its entire network to Solana) and Hivemapper are using Solana's speed to manage vast, real-world networks of physical devices. This is a use case that would be prohibitively expensive on most other chains.
-*   **High-Frequency [DeFi](/what-is-defi):** Solana's ability to handle tens of thousands of transactions per second makes it the ideal venue for central limit order book (CLOB) decentralized exchanges and other high-frequency trading applications.
-*   **Payments and Micropayments:** With near-instant finality and transaction fees that are fractions of a cent, Solana is a viable platform for real-world payment applications.
-
+* **DePIN (Decentralized Physical Infrastructure):** Projects like Helium (which migrated its entire network to Solana) and Hivemapper are using Solana's speed to manage vast, real-world networks of physical devices. This is a use case that would be prohibitively expensive on most other chains.
+* **High-Frequency [DeFi](/what-is-defi):** Solana's ability to handle tens of thousands of transactions per second makes it the ideal venue for central limit order book (CLOB) decentralized exchanges and other high-frequency trading applications.
+* **Payments and Micropayments:** With near-instant finality and transaction fees that are fractions of a cent, Solana is a viable platform for real-world payment applications.

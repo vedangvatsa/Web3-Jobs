@@ -3,7 +3,7 @@
 title: "What is a Web3 DevRel Engineer? A Career Guide"
 image: "/images/thisisengineering-32PpagSzeGs-unsplash.jpg"
 data-ai-hint: "developer relations talk"
-description: "A guide to the unique role of a Developer Relations (DevRel) Engineer in Web3. Learn what they do, the skills they need, and how they build a thriving."
+description: "A guide to the unique role of a Developer Relations (DevRel) Engineer in Web3. Learn what they do, the skills they need, and how they build a growing."
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
@@ -21,17 +21,17 @@ The daily responsibilities of a DevRel engineer are diverse and complex. They ac
 **Key Responsibilities:**
 
 1. **Education and Content Creation:** This aspect forms the foundation of the role.
-   - **Documentation:** Writing and maintaining clear, detailed, and accurate documentation is the most critical output of a DevRel engineer. This resource serves as the primary reference for developers.
-   - **Tutorials and Guides:** Developing tutorials, example code repositories, and video content that instruct developers on using the protocol effectively.
-   - **Technical Blog Posts:** Crafting articles that clarify complex features or highlight new use cases.
+ - **Documentation:** Writing and maintaining clear, detailed, and accurate documentation is the most critical output of a DevRel engineer. This resource serves as the primary reference for developers.
+ - **Tutorials and Guides:** Developing tutorials, example code repositories, and video content that instruct developers on using the protocol effectively.
+ - **Technical Blog Posts:** Crafting articles that clarify complex features or highlight new use cases.
 
 2. **Community Engagement:**
-   - **Developer Support:** Assisting developers with technical inquiries on platforms such as Discord, Telegram, and forums like Stack Overflow. They serve as the first point of contact for developers facing challenges.
-   - **Event Presence:** Participating in hackathons and conferences, leading workshops, and judging projects. They act as the public representative of the protocol within the developer community.
+ - **Developer Support:** Assisting developers with technical inquiries on platforms such as Discord, Telegram, and forums like Stack Overflow. They serve as the first point of contact for developers facing challenges.
+ - **Event Presence:** Participating in hackathons and conferences, leading workshops, and judging projects. They act as the public representative of the protocol within the developer community.
 
 3. **Product Feedback:**
-   - **Voice of the Developer:** DevRel engineers create a vital feedback loop between the external developer community and internal product and engineering teams.
-   - **Enhancing the Developer Experience (DX):** They identify pain points and advocate for enhancements to the protocol's APIs, SDKs, and documentation.
+ - **Voice of the Developer:** DevRel engineers create a vital feedback loop between the external developer community and internal product and engineering teams.
+ - **Enhancing the Developer Experience (DX):** They identify pain points and advocate for enhancements to the protocol's APIs, SDKs, and documentation.
 
 ### Skills Essential for DevRel
 
@@ -52,4 +52,3 @@ The journey to becoming a DevRel engineer often begins with active involvement i
 4. **Exemplify Community Engagement:** Participate in the project’s Discord and assist other developers facing challenges. Your [public contributions](/how-to-build-a-public-on-chain-developer-brand) will draw the attention of the core team.
 
 The DevRel role plays a high-impact part in a protocol's growth strategy. For developers passionate about teaching, communication, and community engagement, this role offers a dynamic and fulfilling career within the Web3 ecosystem.
-

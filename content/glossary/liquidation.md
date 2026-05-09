@@ -89,7 +89,7 @@ Major liquidation events have shaped DeFi:
 
 - **May 2021 Crash**: Significant liquidations occurred across DeFi and centralized platforms as crypto markets crashed. Aave processed over $1 billion in liquidations.
 
-- **Luna/UST Collapse (2022)**: As UST de-pegged and Luna crashed, billions in collateral evaporated, causing liquidation cascades. Some users lost substantial amounts as protocols struggled to process liquidations during unprecedented volatility.
+- **Luna/UST Collapse (2022)**: As UST de-pegged and Luna crashed, billions in collateral evaporated, causing liquidation cascades. Some users lost substantial amounts as protocols struggled to process liquidations during rare volatility.
 
 These events highlighted both the importance and limitations of liquidation mechanisms.
 

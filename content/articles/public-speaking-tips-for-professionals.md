@@ -26,12 +26,12 @@ Strong delivery cannot compensate for weak content. A successful presentation hi
 
 Understanding your audience is important before drafting your speech. Consider the following factors:
 
-| Audience Aspect         | Considerations                       |
+| Audience Aspect | Considerations |
 |-------------------------|-------------------------------------|
-| **Demographics**        | Age, profession, education level    |
-| **Prior Knowledge**     | What they already know about your topic |
-| **Information Needs**   | What they need to learn from you    |
-| **Motivation**          | Why should they care?               |
+| **Demographics** | Age, profession, education level |
+| **Prior Knowledge** | What they already know about your topic |
+| **Information Needs** | What they need to learn from you |
+| **Motivation** | Why should they care? |
 
 For instance, presenting to a group of experienced engineers requires a different approach than speaking to non-technical executives. Adjust your language, examples, and depth of detail accordingly.
 
@@ -45,9 +45,9 @@ People are naturally drawn to stories. A narrative format enhances engagement an
 
 - **The Hook (Opening):** Start with an attention-grabbing element, this could be a surprising statistic, a provocative question, or a relatable anecdote. Clearly articulate the problem you will address and its significance.
 - **The Body (Journey):** This section builds your case. Organize your main points logically. Aim for three primary points, employing the "What? So What? Now What?" framework:
-    - **What?** Present your point or data.
-    - **So What?** Clarify its importance.
-    - **Now What?** Discuss the implications or recommended actions.
+ - **What?** Present your point or data.
+ - **So What?** Clarify its importance.
+ - **Now What?** Discuss the implications or recommended actions.
 - **The Conclusion (Destination):** Recap your core message and main points. End with a strong call to action, specifying what you want your audience to do, think, or feel post-presentation.
 
 ## Part 2: The Delivery - Connecting with Your Audience
@@ -82,11 +82,11 @@ Filler words like "um," "ah," "like," and "you know" can undermine your credibil
 
 Slides should serve as visual aids, not scripts. They are designed for your audience, not for you.
 
-| Slide Guidelines       | Recommendations                       |
+| Slide Guidelines | Recommendations |
 |------------------------|---------------------------------------|
 | **One Idea Per Slide** | Each slide should convey a single, clear purpose |
 | **Use Images, Not Words** | Incorporate high-quality images, simple charts, and diagrams |
-| **The 6x6 Rule**      | Limit to six bullet points per slide and six words per bullet point |
+| **The 6x6 Rule** | Limit to six bullet points per slide and six words per bullet point |
 
 If your slides contain lengthy paragraphs, simplify the content.
 
@@ -98,4 +98,3 @@ Great speakers invest time in rigorous practice:
 - **Record Yourself:** Use your smartphone to capture your presentation. Reviewing the recording helps spot nervous habits and areas for enhancement.
 - **Time Yourself:** Know the duration of your presentation.
 - **Conduct a Dress Rehearsal:** If possible, practice in front of a supportive audience, like colleagues, and solicit honest feedback.
-

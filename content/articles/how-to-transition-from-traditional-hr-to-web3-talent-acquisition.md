@@ -40,7 +40,7 @@ While your traditional HR skills remain valuable, they require adaptation for th
 ### How to Transition to Web3 HR
 
 1. **Immerse Yourself in the Culture:** To effectively hire for a culture you don't understand is challenging. Become an active participant in Web3. Join a [DAO](/what-is-a-dao), engage in governance, and familiarize yourself with the industry’s language.
-   
+
 2. **Learn the Fundamentals:** You don’t need to be a developer, but a solid understanding of [blockchain](/what-is-a-blockchain) technology, [smart contracts](/what-are-smart-contracts), and tokenomics is essential.
 
 3. **Establish a Public Presence:** Start a blog or Twitter account to share your insights on the future of work, DAO governance, or Web3 culture. This serves as your proof of knowledge.
@@ -48,4 +48,3 @@ While your traditional HR skills remain valuable, they require adaptation for th
 4. **Network with Industry Leaders:** Connect with founders and team leads of Web3 projects to understand their unique human resources challenges. Offer your expertise and perspective.
 
 A career in Web3 HR allows you to shape the future of work. It provides a platform for ambitious HR professionals to move away from traditional corporate roles and become architects of a decentralized workplace.
-

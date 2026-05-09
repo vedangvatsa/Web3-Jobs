@@ -334,4 +334,3 @@ Designing consensus that coordinates across multiple blockchains.
 - Finality between chains
 - Economic security guarantees
 - Practical implementation
-

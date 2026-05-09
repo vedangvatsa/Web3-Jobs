@@ -45,11 +45,11 @@ Understanding the mechanics of liquidity pools is essential for grasping how DEX
 
 ### Advantages of DEXs
 
-The advantages of using a DEX primarily stem from security and self-custody. Users retain control of their private keys, reducing vulnerability to hacking or bankruptcy scenarios that can affect centralized exchanges. Additionally, DEXs are permissionless, granting users broader financial freedom and access to a diverse range of tokens.
+The advantages of using a DEX primarily stem from security and self-custody. Users retain control of their private keys, reducing vulnerability to hacking or bankruptcy scenarios that can affect centralized exchanges. DEXs are permissionless, granting users broader financial freedom and access to a diverse range of tokens.
 
 ### Risks Associated with DEXs
 
-Despite their benefits, DEXs carry inherent risks. Smart contract vulnerabilities pose a significant threat; a flaw in the contract code could lead to fund loss in liquidity pools. Additionally, liquidity providers may experience impermanent loss, which occurs when the value of their deposited assets decreases compared to simply holding them in a wallet.
+Despite their benefits, DEXs carry inherent risks. Smart contract vulnerabilities pose a significant threat; a flaw in the contract code could lead to fund loss in liquidity pools. liquidity providers may experience impermanent loss, which occurs when the value of their deposited assets decreases compared to simply holding them in a wallet.
 
 ### Anonymity in DEXs
 
@@ -96,4 +96,3 @@ Understanding how DEXs function can enhance your professional expertise in the W
 4. **Underestimating the Importance of Research**: Thoroughly research projects before investing. Consider factors like team credibility, market demand, and technological viability.
 
 5. **Failing to Engage with the Community**: Participate in discussions within the DEX community. Engaging with other traders can provide valuable insights and enhance your trading strategies.
-

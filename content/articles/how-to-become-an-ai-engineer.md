@@ -33,10 +33,10 @@ Python stands as the dominant programming language in AI. Its straightforward sy
 
 **What to Learn**
 
-| Topic                      | Details                                                                                 |
+| Topic | Details |
 |---------------------------|-----------------------------------------------------------------------------------------|
-| Core Python Syntax        | Data types, loops, functions, classes                                                  |
-| Data Structures           | Lists, dictionaries, sets, tuples                                                      |
+| Core Python Syntax | Data types, loops, functions, classes |
+| Data Structures | Lists, dictionaries, sets, tuples |
 | Key Libraries for Data Science | **NumPy** for numerical operations, **Pandas** for data manipulation, **Matplotlib/Seaborn** for data visualization |
 
 **Best Resources**
@@ -51,11 +51,11 @@ Once you are comfortable with Python, shift your focus to learning the theoretic
 
 **What to Learn**
 
-| Topic                      | Details                                                                                 |
+| Topic | Details |
 |---------------------------|-----------------------------------------------------------------------------------------|
-| Supervised Learning       | Linear Regression, Logistic Regression, Support Vector Machines (SVMs), Decision Trees |
-| Unsupervised Learning     | K-Means Clustering, Principal Component Analysis (PCA)                                 |
-| The ML Workflow           | Concepts like feature engineering, training vs. test sets, model evaluation metrics (accuracy, precision, recall) |
+| Supervised Learning | Linear Regression, Logistic Regression, Support Vector Machines (SVMs), Decision Trees |
+| Unsupervised Learning | K-Means Clustering, Principal Component Analysis (PCA) |
+| The ML Workflow | Concepts like feature engineering, training vs. test sets, model evaluation metrics (accuracy, precision, recall) |
 
 **Best Resources**
 
@@ -68,11 +68,11 @@ Deep Learning is a vital subfield of machine learning, powering many advanced AI
 
 **What to Learn**
 
-| Topic                      | Details                                                                                 |
+| Topic | Details |
 |---------------------------|-----------------------------------------------------------------------------------------|
-| Neural Network Basics      | Understanding neurons, activation functions, and backpropagation                       |
-| Deep Learning Frameworks   | Master either **TensorFlow** (developed by Google) or **PyTorch** (developed by Facebook); PyTorch is currently favored in research and is often seen as more intuitive for beginners. |
-| Network Architectures      | Learn about Convolutional Neural Networks (CNNs) for image data and Recurrent Neural Networks (RNNs) or Transformers for sequence data (like text) |
+| Neural Network Basics | Understanding neurons, activation functions, and backpropagation |
+| Deep Learning Frameworks | Master either **TensorFlow** (developed by Google) or **PyTorch** (developed by Facebook); PyTorch is currently favored in research and is often seen as more intuitive for beginners. |
+| Network Architectures | Learn about Convolutional Neural Networks (CNNs) for image data and Recurrent Neural Networks (RNNs) or Transformers for sequence data (like text) |
 
 **Best Resources**
 
@@ -85,11 +85,11 @@ While degrees and certificates are valuable, a well-crafted [portfolio](/buildin
 
 **What to Build**
 
-| Project Type             | Description                                                                             |
+| Project Type | Description |
 |--------------------------|-----------------------------------------------------------------------------------------|
-| Classic Datasets         | Create models to classify handwritten digits using the MNIST dataset or predict housing prices with the Boston Housing dataset. These serve as foundational projects in machine learning. |
-| Kaggle Competitions      | Engage in data science competitions on Kaggle. Participation helps you tackle real-world problems and assess your skills against others. You don’t need to win; showing your work holds value. |
-| Passion Projects         | Choose datasets that interest you. If you enjoy sports, analyze game statistics; if music fascinates you, create a genre classifier. Personal projects are often the most rewarding and likely to be completed. |
+| Classic Datasets | Create models to classify handwritten digits using the MNIST dataset or predict housing prices with the Boston Housing dataset. These serve as foundational projects in machine learning. |
+| Kaggle Competitions | Engage in data science competitions on Kaggle. Participation helps you tackle real-world problems and assess your skills against others. You don’t need to win; showing your work holds value. |
+| Passion Projects | Choose datasets that interest you. If you enjoy sports, analyze game statistics; if music fascinates you, create a genre classifier. Personal projects are often the most rewarding and likely to be completed. |
 | Open Source Contributions | Contribute to smaller AI libraries on GitHub. Fixing bugs or adding features offers invaluable experience and enhances your visibility to employers. |
 
 **Your GitHub profile serves as your [resume](/how-to-build-a-web3-resume-that-stands-out).** Ensure your projects are well-documented with a clear `README.md` file that details project functionality, execution instructions, and learning outcomes.
@@ -100,12 +100,12 @@ This knowledge differentiates a Machine Learning Engineer from a Data Scientist.
 
 **What to Learn**
 
-| Skill                     | Description                                                                             |
+| Skill | Description |
 |---------------------------|-----------------------------------------------------------------------------------------|
-| APIs                      | Learn to wrap your model in a simple API using frameworks like Flask or FastAPI.       |
-| Containerization          | Understand how to use Docker to package your application and its dependencies into containers. |
-| Cloud Platforms           | Familiarize yourself with AI/ML services from major cloud providers like AWS, Google Cloud, or Azure. |
-| Monitoring                | Learn to monitor deployed models for performance degradation or data drift.            |
+| APIs | Learn to wrap your model in a simple API using frameworks like Flask or FastAPI. |
+| Containerization | Understand how to use Docker to package your application and its dependencies into containers. |
+| Cloud Platforms | Familiarize yourself with AI/ML services from major cloud providers like AWS, Google Cloud, or Azure. |
+| Monitoring | Learn to monitor deployed models for performance degradation or data drift. |
 
 ### Integrating Your Knowledge
 
@@ -128,4 +128,3 @@ Engaging in personal projects and contributing to open-source initiatives is vit
 **4. Should I focus on TensorFlow or PyTorch?**
 
 Both frameworks are excellent choices. PyTorch currently enjoys greater popularity in research and is often easier for newcomers to learn. TensorFlow boasts a reliable production ecosystem. A good strategy is to master one framework deeply, likely PyTorch, while familiarizing yourself with the basics of the other.
-

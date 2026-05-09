@@ -26,18 +26,18 @@ State modifications in the Ethereum Virtual Machine (EVM) represent the most exp
 ```solidity
 // Inefficient: 3 SSTORE operations
 function calculateBad() public {
-    myStateVar += 1; // SSTORE 1
-    myStateVar *= 2; // SSTORE 2
-    myStateVar -= 5; // SSTORE 3
+ myStateVar += 1; // SSTORE 1
+ myStateVar *= 2; // SSTORE 2
+ myStateVar -= 5; // SSTORE 3
 }
 
 // Efficient: 1 SSTORE operation
 function calculateGood() public {
-    uint256 local_myStateVar = myStateVar; // SLOAD (cheap)
-    local_myStateVar += 1;
-    local_myStateVar *= 2;
-    local_myStateVar -= 5;
-    myStateVar = local_myStateVar; // SSTORE (once)
+ uint256 local_myStateVar = myStateVar; // SLOAD (cheap)
+ local_myStateVar += 1;
+ local_myStateVar *= 2;
+ local_myStateVar -= 5;
+ myStateVar = local_myStateVar; // SSTORE (once)
 }
 ```
 
@@ -52,14 +52,14 @@ The choice of data types in Solidity can significantly influence gas costs due t
 ```solidity
 // Inefficient: Uses two 32-byte slots
 struct BadStruct {
-    uint256 a; // Slot 1
-    uint256 b; // Slot 2
+ uint256 a; // Slot 1
+ uint256 b; // Slot 2
 }
 
 // Efficient: Uses one 32-byte slot
 struct GoodStruct {
-    uint128 a; // Slot 1 (first 128 bits)
-    uint128 b; // Slot 1 (last 128 bits)
+ uint128 a; // Slot 1 (first 128 bits)
+ uint128 b; // Slot 1 (last 128 bits)
 }
 ```
 
@@ -97,7 +97,7 @@ require(msg.sender == owner, "Caller is not the owner");
 error NotOwner();
 ...
 if (msg.sender != owner) {
-    revert NotOwner();
+ revert NotOwner();
 }
 ```
 
@@ -108,12 +108,11 @@ With Solidity 0.8.0, arithmetic operations automatically check for overflow and 
 ```solidity
 // Example: A for loop where `i` will never overflow
 for (uint256 i = 0; i < length; i++) {
-    unchecked {
-        // ... operations with i
-    }
+ unchecked {
+ // ... operations with i
+ }
 }
 ```
 **Warning:** Use this feature cautiously, ensuring that you are certain the arithmetic is safe. An unexpected overflow can create serious security vulnerabilities.
 
 Gas optimization is a complex subject. However, by applying these fundamental techniques, developers can achieve substantial savings. It requires a thorough understanding of how the EVM operates, as well as a focus on both functionality and gas efficiency.
-

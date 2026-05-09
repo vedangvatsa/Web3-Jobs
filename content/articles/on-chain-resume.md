@@ -19,7 +19,7 @@ An on-chain resume is not merely a document; it represents a public record of yo
 Your on-chain resume tells a story through your public wallet address, ideally represented by a human-readable ENS name like `yourname.eth`(/what-is-ethereum). Using a block explorer such as Etherscan, anyone, including recruiters, can access the following information:
 
 - **Interaction History:** This reveals which protocols you have engaged with. Have you merely used Uniswap once, or are you actively involved in complex [DeFi](/what-is-defi) strategies? This indicates your practical experience level.
-  
+
 - **Governance Participation:** Your voting record in major DAO governance proposals and whether you've delegated your voting power indicates your engagement level as a stakeholder.
 
 - **NFT Collection:** The NFTs you mint and collect reflect your taste and understanding of the culture. Are you investing in art from emerging artists, or merely trading popular projects?
@@ -42,7 +42,7 @@ Creating a strong on-chain resume requires intentional actions. It involves cura
 
 **2. Engage Actively:**
 - **Explore Various Protocols:** Go beyond the basics. Experiment with different Layer 2 solutions, dive into new DeFi protocols, or lend assets on a money market.
-  
+
 - **Participate in Governance:** This is a key indicator of your commitment. Even with a small number of tokens, voting on governance proposals demonstrates that you care about the protocols you use. Platforms like Tally simplify this process.
 
 - **Collect POAPs:** POAPs are NFT badges awarded to attendees of events, whether virtual or in-person. Having a collection of POAPs from significant conferences shows your engagement.
@@ -50,7 +50,7 @@ Creating a strong on-chain resume requires intentional actions. It involves cura
 **3. Maintain Separate Wallets:**
 It's beneficial to have distinct wallets for different purposes:
 - **"Resume" Wallet:** Your public-facing wallet linked to your ENS name should contain high-signal, professional activities.
-  
+
 - **"Degen" Wallet:** Use a separate wallet for risky experiments or trading meme coins.
 
 - **"Vault":** Store your most valuable assets in a hardware wallet for security.
@@ -65,4 +65,3 @@ It's beneficial to have distinct wallets for different purposes:
 As the Web3 sector grows, your on-chain resume may gain even more significance. New protocols are emerging that enable users to attach attestations and verifiable credentials to their wallets. This could allow for a rich and user-owned professional identity, encompassing your university degree, work history, and professional certifications.
 
 The rise of the on-chain resume marks a significant shift away from unverifiable claims. Instead, your reputation will reflect your public actions. For Web3 professionals, the message is clear: the most impactful story is the one documented on the blockchain.
-

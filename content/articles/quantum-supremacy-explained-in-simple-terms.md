@@ -38,9 +38,9 @@ Classical bits represent either a 0 or a 1. To describe a system of 53 bits, one
 
 Understanding what quantum supremacy does not entail is equally important.
 
-*   **Quantum computers are not universally useful yet.** Google’s solution targeted a problem specifically designed to exploit a quantum computer’s strengths while posing challenges for classical counterparts. This task lacks any known practical application.
-*   **Quantum computers are not superior in all tasks.** Traditional laptops remain far more effective for everyday activities like internet browsing, emailing, or gaming.
-*   **Quantum computers are not free from errors.** Current quantum machines exhibit significant noise and are prone to errors. A substantial portion of ongoing research focuses on developing quantum error correction methods to enhance their reliability.
+* **Quantum computers are not universally useful yet.** Google’s solution targeted a problem specifically designed to exploit a quantum computer’s strengths while posing challenges for classical counterparts. This task lacks any known practical application.
+* **Quantum computers are not superior in all tasks.** Traditional laptops remain far more effective for everyday activities like internet browsing, emailing, or gaming.
+* **Quantum computers are not free from errors.** Current quantum machines exhibit significant noise and are prone to errors. A substantial portion of ongoing research focuses on developing quantum error correction methods to enhance their reliability.
 
 ### Transitioning from Supremacy to Advantage
 
@@ -50,16 +50,16 @@ Achieving quantum advantage represents the next significant objective for the fi
 
 ### Frequently Asked Questions
 
-**1. Has anyone other than Google claimed quantum supremacy?**  
+**1. Has anyone other than Google claimed quantum supremacy?** 
 Yes. In 2020, researchers from the University of Science and Technology of China asserted that they had achieved quantum supremacy using a different type of quantum computer based on photons. Their task, known as boson sampling, also addressed a highly specific problem without immediate practical applications.
 
-**2. Why was the problem they solved deemed useless?**  
+**2. Why was the problem they solved deemed useless?** 
 The objective was not to find a useful solution. Instead, the focus was on selecting a computational task that perfectly aligned with the inherent strengths of a quantum processor, accentuating the exponential difference in how quantum and classical machines handle complexity. This was a scientific demonstration rather than a market-ready product.
 
-**3. When will quantum computers become practically useful?**  
+**3. When will quantum computers become practically useful?** 
 Predictions vary, but experts generally estimate that we are still several years away from quantum computers resolving commercially relevant challenges that classical machines cannot handle. This period is characterized as the era of "Noisy Intermediate-Scale Quantum" (NISQ) computers, where the technology is powerful enough to be intriguing but remains too small and error-prone for many promising applications.
 
-**4. What implications does this have for encryption?**  
+**4. What implications does this have for encryption?** 
 The demonstration of quantum supremacy does not imply that encryption is compromised today. The Sycamore chip cannot execute Shor's algorithm, the quantum algorithm capable of breaking modern encryption methods. Nonetheless, it serves as a critical reminder. It highlights the rapid advancement of quantum computation and highlights the urgent need to transition to new forms of "post-quantum cryptography" that withstand both classical and quantum attacks.
 
 ## Importance of Understanding Quantum Supremacy
@@ -92,7 +92,7 @@ Regularly evaluate your progress. Are you achieving your desired outcomes? Be pr
 
 ### Application 1: Drug Discovery
 
-Consider the pharmaceutical industry. Quantum computers could significantly accelerate drug discovery processes by simulating molecular interactions at an unprecedented scale. For example, a quantum computer capable of simulating complex protein folding could reduce the time required for discovery from years to weeks.
+Consider the pharmaceutical industry. Quantum computers could significantly accelerate drug discovery processes by simulating molecular interactions at an rare scale. For example, a quantum computer capable of simulating complex protein folding could reduce the time required for discovery from years to weeks.
 
 ### Application 2: Material Science
 
@@ -108,18 +108,17 @@ Quantum computing can also enhance supply chain management. By analyzing complex
 
 ## Common Missteps to Avoid in Quantum Computing
 
-1. **Rushing to Conclusions**  
+1. **Rushing to Conclusions** 
 Avoid jumping to conclusions based on initial research. Quantum computing is a complex field, and understanding its nuances takes time.
 
-2. **Neglecting Collaboration**  
+2. **Neglecting Collaboration** 
 Do not overlook the importance of collaboration. Engaging with peers and experts can provide valuable insights and enhance your learning experience.
 
-3. **Focusing Solely on Theory**  
+3. **Focusing Solely on Theory** 
 Practical application is important. Strive to engage with real-world examples and projects to solidify your understanding.
 
-4. **Ignoring Emerging Research**  
+4. **Ignoring Emerging Research** 
 Stay informed about the latest developments in quantum computing. This field evolves rapidly, and keeping up with new research can provide significant advantages.
 
-5. **Underestimating the Importance of Error Correction**  
+5. **Underestimating the Importance of Error Correction** 
 Recognize that error correction is a vital area of research in quantum computing. Understanding its implications is important for grasping the technology's future potential.
-

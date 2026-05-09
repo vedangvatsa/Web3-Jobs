@@ -1,342 +1,342 @@
 {
-  "meta": {
-    "contentType": "mistakes",
-    "topic": "security",
-    "niche": "blockchain-engineer",
-    "generatedAt": "2026-03-13T00:00:00.000Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "Critical Security Mistakes Blockchain Engineers Make",
-    "description": "Learn from common security mistakes in blockchain infrastructure. Avoid consensus bugs, P2P vulnerabilities, and cryptographic implementation errors.",
-    "keywords": ["blockchain-engineer", "security", "mistakes", "consensus", "P2P"],
-    "canonicalSlug": "security-mistakes-for-blockchain-engineer"
-  },
-  "content": {
-    "intro": "A single bug in blockchain infrastructure can compromise an entire network. These mistakes have caused chain splits, fund losses, and network outages. Learn from them.",
-    "sections": [
-      {
-        "heading": "Consensus Mistakes",
-        "description": "Errors in consensus implementation.",
-        "items": [
-          {
-            "mistake": "Nondeterministic state transitions",
-            "description": "Using operations that produce different results on different machines: floating point, unordered maps, system time.",
-            "severity": "critical",
-            "impact": "Different nodes compute different state. Chain split. Network partition.",
-            "prevention": "Audit all code paths for determinism. No floats, ordered data structures only, use block time.",
-            "example": "Using HashMap instead of BTreeMap in Rust, causing different iteration order on different machines."
-          },
-          {
-            "mistake": "Incorrect fork choice implementation",
-            "description": "Fork choice rule that does not match specification or has edge case bugs.",
-            "severity": "critical",
-            "impact": "Nodes follow different chains. Network cannot reach consensus.",
-            "prevention": "Extensive testing against spec test vectors. Fuzzing fork choice code.",
-            "example": "Tie-breaking rule for equal-weight forks that differs between clients."
-          },
-          {
-            "mistake": "Finality gadget bugs",
-            "description": "Marking blocks as final when they are not, or not finalizing when they should be.",
-            "severity": "critical",
-            "impact": "Reorging 'final' blocks breaks applications. Not finalizing stalls the chain.",
-            "prevention": "Follow finality specs exactly. Test all finality edge cases.",
-            "example": "Finalizing a block before checking if it has sufficient attestations."
-          },
-          {
-            "mistake": "Slashing condition errors",
-            "description": "Not slashing validators who violate rules, or slashing innocent validators.",
-            "severity": "critical",
-            "impact": "Attacks go unpunished or honest validators lose stake.",
-            "prevention": "Implement slashing conditions exactly per spec. Extensive testing.",
-            "example": "Failing to detect double-voting because of timestamp precision issues."
-          }
-        ]
-      },
-      {
-        "heading": "P2P Network Mistakes",
-        "description": "Peer-to-peer networking vulnerabilities.",
-        "items": [
-          {
-            "mistake": "Trusting peer data without verification",
-            "description": "Accepting blocks, transactions, or state from peers without cryptographic verification.",
-            "severity": "critical",
-            "impact": "Malicious peers can corrupt node state. False blocks accepted.",
-            "prevention": "Verify all signatures and proofs. Never trust, always verify.",
-            "example": "Accepting a block header without verifying the proof-of-work or signature."
-          },
-          {
-            "mistake": "Eclipse attack vulnerability",
-            "description": "Node can be surrounded by attacker peers, isolated from honest network.",
-            "severity": "critical",
-            "impact": "Attacker controls node's view of the network. Double-spend possible.",
-            "prevention": "Diverse peer selection. Monitor peer behavior. Detect isolation.",
-            "example": "All peer slots filled by attacker-controlled nodes feeding false chain."
-          },
-          {
-            "mistake": "Insufficient DoS protection",
-            "description": "Not rate limiting messages, not validating before heavy processing.",
-            "severity": "high",
-            "impact": "Network brought down by spam. Nodes crash or fall behind.",
-            "prevention": "Validate cheaply first. Rate limit per peer. Disconnect bad actors.",
-            "example": "Processing full block validation before checking basic header validity."
-          },
-          {
-            "mistake": "Message amplification vulnerabilities",
-            "description": "Small request triggers large response, enabling DDoS amplification.",
-            "severity": "high",
-            "impact": "Attackers use nodes to amplify attacks against other targets.",
-            "prevention": "Limit response sizes. Authenticate requesters when appropriate.",
-            "example": "Responding to getdata requests for hundreds of blocks without limiting."
-          }
-        ]
-      },
-      {
-        "heading": "Cryptographic Mistakes",
-        "description": "Errors in cryptographic implementation.",
-        "items": [
-          {
-            "mistake": "Rolling your own cryptography",
-            "description": "Implementing cryptographic primitives instead of using audited libraries.",
-            "severity": "critical",
-            "impact": "Implementation bugs lead to key leakage, forgery, or breaks.",
-            "prevention": "Use established, audited libraries. Have crypto code reviewed.",
-            "example": "Writing your own ECDSA implementation with a timing vulnerability."
-          },
-          {
-            "mistake": "Non-constant-time secret operations",
-            "description": "Operations involving secrets that take variable time based on secret values.",
-            "severity": "critical",
-            "impact": "Timing attacks leak private keys.",
-            "prevention": "Use constant-time comparison and arithmetic for all secret data.",
-            "example": "Comparing signatures byte-by-byte and returning early on mismatch."
-          },
-          {
-            "mistake": "Weak random number generation",
-            "description": "Using non-cryptographic RNG for key generation or protocol randomness.",
-            "severity": "critical",
-            "impact": "Predictable keys or protocol values. Complete security break.",
-            "prevention": "Always use cryptographically secure RNG (OS-provided or audited library).",
-            "example": "Using rand() or time-seeded PRNG for generating validator private keys."
-          },
-          {
-            "mistake": "Private key exposure in logs or errors",
-            "description": "Accidentally logging private keys or including them in error messages.",
-            "severity": "critical",
-            "impact": "Private keys leaked to log files or monitoring systems.",
-            "prevention": "Never format private keys as strings. Audit all logging paths.",
-            "example": "Debug log statement that prints the full validator key object."
-          }
-        ]
-      },
-      {
-        "heading": "State Management Mistakes",
-        "description": "Errors in state storage and sync.",
-        "items": [
-          {
-            "mistake": "State root calculation differences",
-            "description": "Different clients computing different state roots for same transactions.",
-            "severity": "critical",
-            "impact": "Chain split. Clients cannot agree on state.",
-            "prevention": "Exhaustive testing. Use execution spec tests. Fuzzing.",
-            "example": "Different padding in Merkle Patricia trie causing different roots."
-          },
-          {
-            "mistake": "Unsafe database operations",
-            "description": "Not handling database errors, crashes, or corruption properly.",
-            "severity": "high",
-            "impact": "Data corruption. Node unable to sync or stuck.",
-            "prevention": "Use atomic operations. Implement recovery procedures.",
-            "example": "Crash during write leaving database in inconsistent state."
-          },
-          {
-            "mistake": "Pruning too aggressively",
-            "description": "Removing historical data that is still needed for reorgs or validation.",
-            "severity": "high",
-            "impact": "Node cannot handle reorgs. Unable to provide historical data.",
-            "prevention": "Conservative pruning. Keep sufficient history for max reorg.",
-            "example": "Pruning pre-merge data that archive queries still need."
-          },
-          {
-            "mistake": "State sync without verification",
-            "description": "Downloading state from peers and using it without checking proofs.",
-            "severity": "critical",
-            "impact": "Malicious peer provides false state. Node operates on corrupted data.",
-            "prevention": "Verify state proofs against block headers from trusted source.",
-            "example": "Snap sync accepting account data without checking against state root."
-          }
-        ]
-      },
-      {
-        "heading": "Operations Mistakes",
-        "description": "Errors in node operations and deployment.",
-        "items": [
-          {
-            "mistake": "Exposing admin RPC publicly",
-            "description": "Admin APIs (send transactions, control node) accessible without auth.",
-            "severity": "critical",
-            "impact": "Anyone can control the node. Funds stolen.",
-            "prevention": "Firewall admin APIs. Require authentication. Localhost only.",
-            "example": "Running geth with --http and admin APIs enabled on public IP."
-          },
-          {
-            "mistake": "Validator keys on hot machine",
-            "description": "Storing validator signing keys on internet-connected machine.",
-            "severity": "high",
-            "impact": "Keys stolen if machine compromised. Slashing possible.",
-            "prevention": "Use remote signer or HSM. Air-gapped key storage.",
-            "example": "Validator private key in plaintext config file on cloud VM."
-          },
-          {
-            "mistake": "No monitoring or alerting",
-            "description": "Running nodes without visibility into their health or behavior.",
-            "severity": "high",
-            "impact": "Problems not detected until too late. Missed attestations.",
-            "prevention": "Prometheus metrics. Grafana dashboards. PagerDuty alerts.",
-            "example": "Validator falling behind and missing attestations for hours undetected."
-          },
-          {
-            "mistake": "Untested upgrade procedure",
-            "description": "Upgrading nodes without testing the procedure in staging.",
-            "severity": "high",
-            "impact": "Botched upgrade takes nodes offline. Missed rewards or slashing.",
-            "prevention": "Test upgrades on testnet. Have rollback plan. Monitor closely.",
-            "example": "Config format change breaks validator on upgrade."
-          }
-        ]
-      },
-      {
-        "heading": "Protocol Implementation Mistakes",
-        "description": "Errors when implementing protocol specifications.",
-        "items": [
-          {
-            "mistake": "Spec interpretation differences",
-            "description": "Ambiguous spec language interpreted differently between clients.",
-            "severity": "critical",
-            "impact": "Client incompatibility. Network splits during edge cases.",
-            "prevention": "Coordinate with other teams. Use reference tests. Fuzzing against other clients.",
-            "example": "Spec says 'should' but one client treats as 'must', another as optional."
-          },
-          {
-            "mistake": "Missing protocol versioning",
-            "description": "No way to identify or negotiate protocol version between peers.",
-            "severity": "high",
-            "impact": "Incompatible clients cannot communicate. Hard fork coordination issues.",
-            "prevention": "Version all protocol messages. Implement negotiation handshake.",
-            "example": "New message format breaks old clients without version check."
-          },
-          {
-            "mistake": "Incorrect serialization",
-            "description": "Encoding/decoding that differs from specification or other clients.",
-            "severity": "critical",
-            "impact": "Messages misinterpreted. Invalid blocks created or rejected incorrectly.",
-            "prevention": "Use spec-compliant serialization. Test against cross-client fixtures.",
-            "example": "SSZ encoding with wrong field order, producing different hashes."
-          },
-          {
-            "mistake": "Gas metering inconsistencies",
-            "description": "Gas costs for operations that differ from specification.",
-            "severity": "critical",
-            "impact": "Different execution results. Out-of-gas at different points.",
-            "prevention": "Follow EIP gas costs exactly. Benchmark actual costs vs charged.",
-            "example": "SSTORE gas calculation edge case differs, causing state divergence."
-          },
-          {
-            "mistake": "Missing bounds checks",
-            "description": "Not validating that values fit within expected ranges.",
-            "severity": "high",
-            "impact": "Overflow, underflow, or crashes on malformed input.",
-            "prevention": "Check all input ranges. Use bounded integer types.",
-            "example": "Block number as u32 overflows after 4 billion blocks."
-          }
-        ]
-      },
-      {
-        "heading": "Memory and Resource Mistakes",
-        "description": "Resource management vulnerabilities.",
-        "items": [
-          {
-            "mistake": "Unbounded memory allocation",
-            "description": "Allocating memory based on peer-provided sizes without limits.",
-            "severity": "high",
-            "impact": "Memory exhaustion. Node crash. Denial of service.",
-            "prevention": "Cap all allocations. Validate sizes before allocating.",
-            "example": "Peer claims message is 4GB, node tries to allocate buffer."
-          },
-          {
-            "mistake": "Resource leaks",
-            "description": "Not cleaning up connections, file handles, or memory.",
-            "severity": "medium",
-            "impact": "Slow degradation. Eventually node fails or slows.",
-            "prevention": "Use RAII patterns. Monitor resource usage. Regular restarts if needed.",
-            "example": "TCP connections from disconnected peers never cleaned up."
-          },
-          {
-            "mistake": "Blocking the event loop",
-            "description": "Long-running operations blocking critical network handling.",
-            "severity": "high",
-            "impact": "Node appears offline. Misses messages. Falls behind.",
-            "prevention": "Async everywhere. Move heavy work to background threads.",
-            "example": "Block verification blocking peer message handling for 10+ seconds."
-          },
-          {
-            "mistake": "Insufficient connection limits",
-            "description": "No cap on peer connections allowing resource exhaustion.",
-            "severity": "medium",
-            "impact": "Too many connections consume resources. Degrades performance.",
-            "prevention": "Set reasonable connection limits. Quality-based peer selection.",
-            "example": "Node accepts 10000 connections, runs out of file descriptors."
-          },
-          {
-            "mistake": "Cache poisoning",
-            "description": "Allowing attackers to fill caches with useless data.",
-            "severity": "high",
-            "impact": "Legitimate data evicted from cache. Performance drops.",
-            "prevention": "Cache admission policies. Per-peer cache quotas.",
-            "example": "Attacker sends many unique transactions, evicts valid pending txs."
-          }
-        ]
-      },
-      {
-        "heading": "Testing and Validation Mistakes",
-        "description": "Quality assurance errors.",
-        "items": [
-          {
-            "mistake": "No fuzzing",
-            "description": "Not using fuzz testing on parsers and state transitions.",
-            "severity": "high",
-            "impact": "Edge case bugs not found until exploited in production.",
-            "prevention": "Fuzz all input parsing. Fuzz state transitions. Coverage-guided fuzzing.",
-            "example": "Malformed RLP crashes node, found only when attacker sends it."
-          },
-          {
-            "mistake": "Insufficient cross-client testing",
-            "description": "Not testing against other implementations before release.",
-            "severity": "high",
-            "impact": "Incompatibilities discovered on mainnet.",
-            "prevention": "Sync against all major clients on testnet. Use Hive testing.",
-            "example": "New release cannot sync with Geth due to encoding difference."
-          },
-          {
-            "mistake": "Missing regression tests",
-            "description": "Not adding tests for previously found bugs.",
-            "severity": "medium",
-            "impact": "Old bugs reappear after refactoring.",
-            "prevention": "Add regression test for every bug fix. Never delete tests.",
-            "example": "Fixed consensus bug reappears after performance optimization."
-          }
-        ]
-      }
-    ],
-    "additionalResources": [
-      {
-        "title": "Blockchain Client Security Checklist",
-        "slug": "security-checklists-for-blockchain-engineer"
-      },
-      {
-        "title": "Development Tools for Blockchain Engineers",
-        "slug": "development-tools-for-blockchain-engineer"
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "mistakes",
+ "topic": "security",
+ "niche": "blockchain-engineer",
+ "generatedAt": "2026-03-13T00:00:00.000Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "Critical Security Mistakes Blockchain Engineers Make",
+ "description": "Learn from common security mistakes in blockchain infrastructure. Avoid consensus bugs, P2P vulnerabilities, and cryptographic implementation errors.",
+ "keywords": ["blockchain-engineer", "security", "mistakes", "consensus", "P2P"],
+ "canonicalSlug": "security-mistakes-for-blockchain-engineer"
+ },
+ "content": {
+ "intro": "A single bug in blockchain infrastructure can compromise an entire network. These mistakes have caused chain splits, fund losses, and network outages. Learn from them.",
+ "sections": [
+ {
+ "heading": "Consensus Mistakes",
+ "description": "Errors in consensus implementation.",
+ "items": [
+ {
+ "mistake": "Nondeterministic state transitions",
+ "description": "Using operations that produce different results on different machines: floating point, unordered maps, system time.",
+ "severity": "critical",
+ "impact": "Different nodes compute different state. Chain split. Network partition.",
+ "prevention": "Audit all code paths for determinism. No floats, ordered data structures only, use block time.",
+ "example": "Using HashMap instead of BTreeMap in Rust, causing different iteration order on different machines."
+ },
+ {
+ "mistake": "Incorrect fork choice implementation",
+ "description": "Fork choice rule that does not match specification or has edge case bugs.",
+ "severity": "critical",
+ "impact": "Nodes follow different chains. Network cannot reach consensus.",
+ "prevention": "Extensive testing against spec test vectors. Fuzzing fork choice code.",
+ "example": "Tie-breaking rule for equal-weight forks that differs between clients."
+ },
+ {
+ "mistake": "Finality gadget bugs",
+ "description": "Marking blocks as final when they are not, or not finalizing when they should be.",
+ "severity": "critical",
+ "impact": "Reorging 'final' blocks breaks applications. Not finalizing stalls the chain.",
+ "prevention": "Follow finality specs exactly. Test all finality edge cases.",
+ "example": "Finalizing a block before checking if it has sufficient attestations."
+ },
+ {
+ "mistake": "Slashing condition errors",
+ "description": "Not slashing validators who violate rules, or slashing innocent validators.",
+ "severity": "critical",
+ "impact": "Attacks go unpunished or honest validators lose stake.",
+ "prevention": "Implement slashing conditions exactly per spec. Extensive testing.",
+ "example": "Failing to detect double-voting because of timestamp precision issues."
+ }
+ ]
+ },
+ {
+ "heading": "P2P Network Mistakes",
+ "description": "Peer-to-peer networking vulnerabilities.",
+ "items": [
+ {
+ "mistake": "Trusting peer data without verification",
+ "description": "Accepting blocks, transactions, or state from peers without cryptographic verification.",
+ "severity": "critical",
+ "impact": "Malicious peers can corrupt node state. False blocks accepted.",
+ "prevention": "Verify all signatures and proofs. Never trust, always verify.",
+ "example": "Accepting a block header without verifying the proof-of-work or signature."
+ },
+ {
+ "mistake": "Eclipse attack vulnerability",
+ "description": "Node can be surrounded by attacker peers, isolated from honest network.",
+ "severity": "critical",
+ "impact": "Attacker controls node's view of the network. Double-spend possible.",
+ "prevention": "Diverse peer selection. Monitor peer behavior. Detect isolation.",
+ "example": "All peer slots filled by attacker-controlled nodes feeding false chain."
+ },
+ {
+ "mistake": "Insufficient DoS protection",
+ "description": "Not rate limiting messages, not validating before heavy processing.",
+ "severity": "high",
+ "impact": "Network brought down by spam. Nodes crash or fall behind.",
+ "prevention": "Validate cheaply first. Rate limit per peer. Disconnect bad actors.",
+ "example": "Processing full block validation before checking basic header validity."
+ },
+ {
+ "mistake": "Message amplification vulnerabilities",
+ "description": "Small request triggers large response, enabling DDoS amplification.",
+ "severity": "high",
+ "impact": "Attackers use nodes to amplify attacks against other targets.",
+ "prevention": "Limit response sizes. Authenticate requesters when appropriate.",
+ "example": "Responding to getdata requests for hundreds of blocks without limiting."
+ }
+ ]
+ },
+ {
+ "heading": "Cryptographic Mistakes",
+ "description": "Errors in cryptographic implementation.",
+ "items": [
+ {
+ "mistake": "Rolling your own cryptography",
+ "description": "Implementing cryptographic primitives instead of using audited libraries.",
+ "severity": "critical",
+ "impact": "Implementation bugs lead to key leakage, forgery, or breaks.",
+ "prevention": "Use established, audited libraries. Have crypto code reviewed.",
+ "example": "Writing your own ECDSA implementation with a timing vulnerability."
+ },
+ {
+ "mistake": "Non-constant-time secret operations",
+ "description": "Operations involving secrets that take variable time based on secret values.",
+ "severity": "critical",
+ "impact": "Timing attacks leak private keys.",
+ "prevention": "Use constant-time comparison and arithmetic for all secret data.",
+ "example": "Comparing signatures byte-by-byte and returning early on mismatch."
+ },
+ {
+ "mistake": "Weak random number generation",
+ "description": "Using non-cryptographic RNG for key generation or protocol randomness.",
+ "severity": "critical",
+ "impact": "Predictable keys or protocol values. Complete security break.",
+ "prevention": "Always use cryptographically secure RNG (OS-provided or audited library).",
+ "example": "Using rand() or time-seeded PRNG for generating validator private keys."
+ },
+ {
+ "mistake": "Private key exposure in logs or errors",
+ "description": "Accidentally logging private keys or including them in error messages.",
+ "severity": "critical",
+ "impact": "Private keys leaked to log files or monitoring systems.",
+ "prevention": "Never format private keys as strings. Audit all logging paths.",
+ "example": "Debug log statement that prints the full validator key object."
+ }
+ ]
+ },
+ {
+ "heading": "State Management Mistakes",
+ "description": "Errors in state storage and sync.",
+ "items": [
+ {
+ "mistake": "State root calculation differences",
+ "description": "Different clients computing different state roots for same transactions.",
+ "severity": "critical",
+ "impact": "Chain split. Clients cannot agree on state.",
+ "prevention": "Exhaustive testing. Use execution spec tests. Fuzzing.",
+ "example": "Different padding in Merkle Patricia trie causing different roots."
+ },
+ {
+ "mistake": "Unsafe database operations",
+ "description": "Not handling database errors, crashes, or corruption properly.",
+ "severity": "high",
+ "impact": "Data corruption. Node unable to sync or stuck.",
+ "prevention": "Use atomic operations. Implement recovery procedures.",
+ "example": "Crash during write leaving database in inconsistent state."
+ },
+ {
+ "mistake": "Pruning too aggressively",
+ "description": "Removing historical data that is still needed for reorgs or validation.",
+ "severity": "high",
+ "impact": "Node cannot handle reorgs. Unable to provide historical data.",
+ "prevention": "Conservative pruning. Keep sufficient history for max reorg.",
+ "example": "Pruning pre-merge data that archive queries still need."
+ },
+ {
+ "mistake": "State sync without verification",
+ "description": "Downloading state from peers and using it without checking proofs.",
+ "severity": "critical",
+ "impact": "Malicious peer provides false state. Node operates on corrupted data.",
+ "prevention": "Verify state proofs against block headers from trusted source.",
+ "example": "Snap sync accepting account data without checking against state root."
+ }
+ ]
+ },
+ {
+ "heading": "Operations Mistakes",
+ "description": "Errors in node operations and deployment.",
+ "items": [
+ {
+ "mistake": "Exposing admin RPC publicly",
+ "description": "Admin APIs (send transactions, control node) accessible without auth.",
+ "severity": "critical",
+ "impact": "Anyone can control the node. Funds stolen.",
+ "prevention": "Firewall admin APIs. Require authentication. Localhost only.",
+ "example": "Running geth with --http and admin APIs enabled on public IP."
+ },
+ {
+ "mistake": "Validator keys on hot machine",
+ "description": "Storing validator signing keys on internet-connected machine.",
+ "severity": "high",
+ "impact": "Keys stolen if machine compromised. Slashing possible.",
+ "prevention": "Use remote signer or HSM. Air-gapped key storage.",
+ "example": "Validator private key in plaintext config file on cloud VM."
+ },
+ {
+ "mistake": "No monitoring or alerting",
+ "description": "Running nodes without visibility into their health or behavior.",
+ "severity": "high",
+ "impact": "Problems not detected until too late. Missed attestations.",
+ "prevention": "Prometheus metrics. Grafana dashboards. PagerDuty alerts.",
+ "example": "Validator falling behind and missing attestations for hours undetected."
+ },
+ {
+ "mistake": "Untested upgrade procedure",
+ "description": "Upgrading nodes without testing the procedure in staging.",
+ "severity": "high",
+ "impact": "Botched upgrade takes nodes offline. Missed rewards or slashing.",
+ "prevention": "Test upgrades on testnet. Have rollback plan. Monitor closely.",
+ "example": "Config format change breaks validator on upgrade."
+ }
+ ]
+ },
+ {
+ "heading": "Protocol Implementation Mistakes",
+ "description": "Errors when implementing protocol specifications.",
+ "items": [
+ {
+ "mistake": "Spec interpretation differences",
+ "description": "Ambiguous spec language interpreted differently between clients.",
+ "severity": "critical",
+ "impact": "Client incompatibility. Network splits during edge cases.",
+ "prevention": "Coordinate with other teams. Use reference tests. Fuzzing against other clients.",
+ "example": "Spec says 'should' but one client treats as 'must', another as optional."
+ },
+ {
+ "mistake": "Missing protocol versioning",
+ "description": "No way to identify or negotiate protocol version between peers.",
+ "severity": "high",
+ "impact": "Incompatible clients cannot communicate. Hard fork coordination issues.",
+ "prevention": "Version all protocol messages. Implement negotiation handshake.",
+ "example": "New message format breaks old clients without version check."
+ },
+ {
+ "mistake": "Incorrect serialization",
+ "description": "Encoding/decoding that differs from specification or other clients.",
+ "severity": "critical",
+ "impact": "Messages misinterpreted. Invalid blocks created or rejected incorrectly.",
+ "prevention": "Use spec-compliant serialization. Test against cross-client fixtures.",
+ "example": "SSZ encoding with wrong field order, producing different hashes."
+ },
+ {
+ "mistake": "Gas metering inconsistencies",
+ "description": "Gas costs for operations that differ from specification.",
+ "severity": "critical",
+ "impact": "Different execution results. Out-of-gas at different points.",
+ "prevention": "Follow EIP gas costs exactly. Benchmark actual costs vs charged.",
+ "example": "SSTORE gas calculation edge case differs, causing state divergence."
+ },
+ {
+ "mistake": "Missing bounds checks",
+ "description": "Not validating that values fit within expected ranges.",
+ "severity": "high",
+ "impact": "Overflow, underflow, or crashes on malformed input.",
+ "prevention": "Check all input ranges. Use bounded integer types.",
+ "example": "Block number as u32 overflows after 4 billion blocks."
+ }
+ ]
+ },
+ {
+ "heading": "Memory and Resource Mistakes",
+ "description": "Resource management vulnerabilities.",
+ "items": [
+ {
+ "mistake": "Unbounded memory allocation",
+ "description": "Allocating memory based on peer-provided sizes without limits.",
+ "severity": "high",
+ "impact": "Memory exhaustion. Node crash. Denial of service.",
+ "prevention": "Cap all allocations. Validate sizes before allocating.",
+ "example": "Peer claims message is 4GB, node tries to allocate buffer."
+ },
+ {
+ "mistake": "Resource leaks",
+ "description": "Not cleaning up connections, file handles, or memory.",
+ "severity": "medium",
+ "impact": "Slow degradation. Eventually node fails or slows.",
+ "prevention": "Use RAII patterns. Monitor resource usage. Regular restarts if needed.",
+ "example": "TCP connections from disconnected peers never cleaned up."
+ },
+ {
+ "mistake": "Blocking the event loop",
+ "description": "Long-running operations blocking critical network handling.",
+ "severity": "high",
+ "impact": "Node appears offline. Misses messages. Falls behind.",
+ "prevention": "Async everywhere. Move heavy work to background threads.",
+ "example": "Block verification blocking peer message handling for 10+ seconds."
+ },
+ {
+ "mistake": "Insufficient connection limits",
+ "description": "No cap on peer connections allowing resource exhaustion.",
+ "severity": "medium",
+ "impact": "Too many connections consume resources. Degrades performance.",
+ "prevention": "Set reasonable connection limits. Quality-based peer selection.",
+ "example": "Node accepts 10000 connections, runs out of file descriptors."
+ },
+ {
+ "mistake": "Cache poisoning",
+ "description": "Allowing attackers to fill caches with useless data.",
+ "severity": "high",
+ "impact": "Legitimate data evicted from cache. Performance drops.",
+ "prevention": "Cache admission policies. Per-peer cache quotas.",
+ "example": "Attacker sends many unique transactions, evicts valid pending txs."
+ }
+ ]
+ },
+ {
+ "heading": "Testing and Validation Mistakes",
+ "description": "Quality assurance errors.",
+ "items": [
+ {
+ "mistake": "No fuzzing",
+ "description": "Not using fuzz testing on parsers and state transitions.",
+ "severity": "high",
+ "impact": "Edge case bugs not found until exploited in production.",
+ "prevention": "Fuzz all input parsing. Fuzz state transitions. Coverage-guided fuzzing.",
+ "example": "Malformed RLP crashes node, found only when attacker sends it."
+ },
+ {
+ "mistake": "Insufficient cross-client testing",
+ "description": "Not testing against other implementations before release.",
+ "severity": "high",
+ "impact": "Incompatibilities discovered on mainnet.",
+ "prevention": "Sync against all major clients on testnet. Use Hive testing.",
+ "example": "New release cannot sync with Geth due to encoding difference."
+ },
+ {
+ "mistake": "Missing regression tests",
+ "description": "Not adding tests for previously found bugs.",
+ "severity": "medium",
+ "impact": "Old bugs reappear after refactoring.",
+ "prevention": "Add regression test for every bug fix. Never delete tests.",
+ "example": "Fixed consensus bug reappears after performance optimization."
+ }
+ ]
+ }
+ ],
+ "additionalResources": [
+ {
+ "title": "Blockchain Client Security Checklist",
+ "slug": "security-checklists-for-blockchain-engineer"
+ },
+ {
+ "title": "Development Tools for Blockchain Engineers",
+ "slug": "development-tools-for-blockchain-engineer"
+ }
+ ]
+ }
 }

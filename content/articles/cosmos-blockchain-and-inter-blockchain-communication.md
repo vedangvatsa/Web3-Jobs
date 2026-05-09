@@ -57,4 +57,3 @@ The Cosmos Hub, the first blockchain launched within the Cosmos network, uses th
 ### The Vision of Cosmos
 
 The Cosmos SDK embodies a forward-thinking vision for Web3. Rather than a single monolithic chain, Cosmos promotes a collaborative ecosystem of thousands of interconnected, application-specific blockchains. This modular and sovereign approach equips developers with the tools to push the boundaries of blockchain technology. For those with experience in Go and an interest in distributed systems, the Cosmos ecosystem presents a wealth of opportunities to build the infrastructure for a multichain future.
-

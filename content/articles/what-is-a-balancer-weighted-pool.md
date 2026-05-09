@@ -77,16 +77,16 @@ Weighted Pools allow liquidity providers to maintain their desired portfolio exp
 
 ### Frequently Asked Questions (FAQ)
 
-**Q: How many tokens can be included in a Weighted Pool?**  
+**Q: How many tokens can be included in a Weighted Pool?** 
 A: Balancer v2 supports up to eight tokens per Weighted Pool.
 
-**Q: Do Weighted Pools experience impermanent loss?**  
+**Q: Do Weighted Pools experience impermanent loss?** 
 A: Yes. Similar to any AMM holding volatile assets, liquidity providers in Weighted Pools face impermanent loss risks. The more volatile the assets, the greater the exposure.
 
-**Q: Who determines the trading fee for a pool?**  
+**Q: Who determines the trading fee for a pool?** 
 A: The pool creator sets the trading fee, which can be either fixed or adjustable. This flexibility contrasts with protocols using fixed, universal fees.
 
-**Q: What distinguishes Balancer v1 from v2?**  
+**Q: What distinguishes Balancer v1 from v2?** 
 A: Balancer v2 introduced a "single vault" architecture, consolidating all assets from various pools into one master vault contract. In v1, each pool was a separate smart contract managing its own assets. This new structure enhances gas efficiency for multi-hop trades across pools.
 
 ### Practical Implementation Steps
@@ -110,4 +110,3 @@ Avoid attempting to change everything simultaneously. Start with one manageable 
 #### Step 5: Monitor and Adapt
 
 Evaluate your progress consistently. Are you achieving your goals? Modify your strategy based on outcomes and feedback to support continuous improvement.
-

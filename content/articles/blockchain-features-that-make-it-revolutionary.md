@@ -20,8 +20,8 @@ Decentralization stands as the most critical feature of public blockchains.
 
 - **Definition:** A blockchain ledger exists as a distributed database, copied across a peer-to-peer network of independent computers, known as nodes. No single entity possesses control over the entire network.
 - **Importance:**
-    - **Censorship Resistance:** Since there is no central authority, no one can block transactions or shut down the network.
-    - **Resilience:** The network remains operational even if one node goes offline. The remaining nodes continue to uphold the ledger, ensuring continuity.
+ - **Censorship Resistance:** Since there is no central authority, no one can block transactions or shut down the network.
+ - **Resilience:** The network remains operational even if one node goes offline. The remaining nodes continue to uphold the ledger, ensuring continuity.
 
 ### 2. Immutability
 
@@ -29,8 +29,8 @@ Immutability refers to the unchangeable nature of recorded data on a blockchain.
 
 - **Definition:** Transactions are grouped into "blocks," each cryptographically linked to its predecessor through a unique hash. This creates an unbreakable chain extending back to the initial block.
 - **Importance:**
-    - **Tamper-Proof Record:** If a malicious actor attempts to modify data in a previous block, the hash of that block will alter, disrupting the chain. The network will reject any fraudulent attempts to change the data.
-    - **Trust Through History:** The permanent and auditable record provided by immutability allows anyone to verify historical data independently. This removes the need for a trusted authority to confirm the accuracy of past transactions.
+ - **Tamper-Proof Record:** If a malicious actor attempts to modify data in a previous block, the hash of that block will alter, disrupting the chain. The network will reject any fraudulent attempts to change the data.
+ - **Trust Through History:** The permanent and auditable record provided by immutability allows anyone to verify historical data independently. This removes the need for a trusted authority to confirm the accuracy of past transactions.
 
 ### 3. Transparency
 
@@ -49,4 +49,3 @@ Smart contracts, introduced by **[Ethereum](/what-is-ethereum)**, automate proce
 ### A New System for Trust
 
 These features, when combined, create a new model for trust. Instead of relying on a central institution, blockchain enables trust in open-source code and cryptographic principles. The architecture of digital systems shifts from centralized control to code-based governance, allowing users to verify transactions and data independently. This change forms the foundation of [Web3](/what-is-web3).
-

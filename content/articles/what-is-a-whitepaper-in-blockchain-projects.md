@@ -33,9 +33,9 @@ While the layout may vary, a strong whitepaper typically includes these sections
 - **Proposed Solution:** An overview of how the project intends to use blockchain technology to resolve the problem.
 - **Technical Architecture:** This technical section provides detailed information about the protocol, smart contract design, consensus mechanism, and any new cryptographic methods employed.
 - **Tokenomics:** This section covers:
-    - **Token Utility:** The token's functions, such as governance, [staking](/how-to-become-a-web3-staking-specialist), or transaction fees.
-    - **Supply and Distribution:** Information on total supply, allocation between team, investors, and community, as well as any vesting schedules.
-    - **Incentive Mechanisms:** How users and network participants, such as validators, are motivated to act honestly and contribute to the network.
+ - **Token Utility:** The token's functions, such as governance, [staking](/how-to-become-a-web3-staking-specialist), or transaction fees.
+ - **Supply and Distribution:** Information on total supply, allocation between team, investors, and community, as well as any vesting schedules.
+ - **Incentive Mechanisms:** How users and network participants, such as validators, are motivated to act honestly and contribute to the network.
 - **Roadmap:** A timeline outlining significant development phases, including testnet launch, mainnet deployment, and future features.
 - **Team and Advisors:** Introductions to core team members and respected advisors, emphasizing their relevant experience.
 - **Conclusion:** A summary of the project's vision and its potential impact.
@@ -58,4 +58,3 @@ Reading a project's whitepaper is a vital step in due diligence. Here are indica
 - **Strong Team:** The team should have a proven history of success in building products within Web3 or related sectors.
 
 The whitepaper transcends being a mere marketing document; it encapsulates the intellectual and technical foundation of a Web3 project. Understanding how to read and analyze these documents is essential for anyone looking to evaluate or contribute to this space.
-

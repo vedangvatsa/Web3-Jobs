@@ -54,5 +54,4 @@ The rapid pace of change in the Web3 sector means that current technologies can 
 
 ## Assessing Suitability for a Web3 Career
 
-A career in Web3 can offer substantial rewards. You have the opportunity to work at the forefront of technology, collaborate with talented individuals worldwide, and significantly influence the internet's future. However, this environment may not be suitable for everyone. If you prefer structured settings, predictability, and clear boundaries between work and personal life, it might not be the right fit. Conversely, if you are curious, self-driven, and thrive in chaos while being passionate about creating a more open and decentralized world, you may have found your ideal environment.
-
+A career in Web3 can offer substantial rewards. You have the opportunity to work leading technology, collaborate with talented individuals worldwide, and significantly influence the internet's future. However, this environment may not be suitable for everyone. If you prefer structured settings, predictability, and clear boundaries between work and personal life, it might not be the right fit. Conversely, if you are curious, self-driven, and thrive in chaos while being passionate about creating a more open and decentralized world, you may have found your ideal environment.

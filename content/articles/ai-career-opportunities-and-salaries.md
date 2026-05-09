@@ -70,21 +70,21 @@ A Ph.D. in computer science is not necessary to start a career in AI. There are 
 1. **Acquire Foundational Knowledge**: Enroll in online courses such as "Elements of AI" or "AI For Everyone" to grasp core concepts without looking into technical complexities.
 2. **Select a Career Path**: Determine your interest in technical roles (like ML Engineering) versus application roles (such as Product Management or Marketing).
 3. **Develop Key Skills**:
-   - **For Technical Roles**: Master Python, the primary language in AI. Consider structured programs like the Machine Learning Specialization on Coursera.
-   - **For Non-Technical Roles**: Cultivate "AI Literacy." Understand how AI tools function, their limitations, and effective usage. Become proficient in tools like ChatGPT and Midjourney.
+ - **For Technical Roles**: Master Python, the primary language in AI. Consider structured programs like the Machine Learning Specialization on Coursera.
+ - **For Non-Technical Roles**: Cultivate "AI Literacy." Understand how AI tools function, their limitations, and effective usage. Become proficient in tools like ChatGPT and Midjourney.
 4. **Build a Portfolio**: Demonstrate your skills through practical projects.
-   - **Technical**: Create a machine learning project, such as a model predicting housing prices, and showcase it on GitHub.
-   - **Non-Technical**: Generate a piece of AI art, write an insightful blog post using AI, or develop a simple AI-powered workflow in Zapier; document your processes and outcomes.
+ - **Technical**: Create a machine learning project, such as a model predicting housing prices, and showcase it on GitHub.
+ - **Non-Technical**: Generate a piece of AI art, write an insightful blog post using AI, or develop a simple AI-powered workflow in Zapier; document your processes and outcomes.
 
 ### Salary Comparison Table
 
-| Job Role                     | Salary Range               |
+| Job Role | Salary Range |
 |------------------------------|----------------------------|
-| Machine Learning Engineer     | Generally ranges from six figures to significantly higher amounts per year. |
-| Data Scientist               | Generally ranges from six figures to significantly higher amounts per year. |
-| AI Product Manager           | Generally ranges from six figures to significantly higher amounts per year. |
+| Machine Learning Engineer | Generally ranges from six figures to significantly higher amounts per year. |
+| Data Scientist | Generally ranges from six figures to significantly higher amounts per year. |
+| AI Product Manager | Generally ranges from six figures to significantly higher amounts per year. |
 | AI Ethicist / AI Safety Researcher | Generally ranges from six figures to significantly higher amounts per year. |
-| Prompt Engineer              | Generally ranges from six figures to significantly higher amounts, with top AI labs offering even greater compensation. |
-| AI Consultant                | Salaries can vary widely based on experience and firm size, with seasoned consultants potentially earning significantly higher amounts annually. |
+| Prompt Engineer | Generally ranges from six figures to significantly higher amounts, with top AI labs offering even greater compensation. |
+| AI Consultant | Salaries can vary widely based on experience and firm size, with seasoned consultants potentially earning significantly higher amounts annually. |
 
-The demand for AI talent continues to rise, driven by the technology's rapid advancement and adoption. Starting your learning journey now positions you for a fulfilling and successful career in this fast-moving field. By identifying your interests, acquiring relevant skills, and building a portfolio, you can stand out in the competitive job market. As AI is changing, professionals who adapt and grow their expertise will find themselves at the forefront of innovation and impact in various industries.
+The demand for AI talent continues to rise, driven by the technology's rapid advancement and adoption. Starting your learning journey now positions you for a fulfilling and successful career in this fast-moving field. By identifying your interests, acquiring relevant skills, and building a portfolio, you can stand out in the competitive job market. As AI is changing, professionals who adapt and grow their expertise will find themselves leading innovation and impact in various industries.

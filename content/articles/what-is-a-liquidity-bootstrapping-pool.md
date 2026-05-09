@@ -25,11 +25,11 @@ An LBP effectively addresses these challenges through a structure that employs *
 
 **A typical LBP launch can be illustrated as follows:**
 
-| **Phase**               | **Project Token Weight** | **Collateral Token Weight (e.g., USDC)** | **Price Behavior**              |
+| **Phase** | **Project Token Weight** | **Collateral Token Weight (e.g., USDC)** | **Price Behavior** |
 |-------------------------|--------------------------|-------------------------------------------|----------------------------------|
-| Initial State           | 90%                      | 10%                                       | High price due to low supply     |
-| Weight Shift (Over 72h) | Decreasing               | Increasing                                | Price gradually decreases         |
-| Final State             | 10%                      | 90%                                       | Price stabilizes at a market level|
+| Initial State | 90% | 10% | High price due to low supply |
+| Weight Shift (Over 72h) | Decreasing | Increasing | Price gradually decreases |
+| Final State | 10% | 90% | Price stabilizes at a market level|
 
 1. **Initial State:** At launch, the Balancer pool may start with a high percentage of project tokens and a low percentage of USDC. This structure significantly reduces the capital required upfront for the project team.
 2. **Weight Shift:** The smart contract automatically adjusts the pool’s weights over a designated time frame, such as 72 hours. The project token's weight decreases while the USDC weight increases.
@@ -70,4 +70,3 @@ Change does not happen overnight. Begin with small, manageable adjustments and b
 #### Step 5: Monitor and Adapt
 
 Regularly evaluate your progress. Are you achieving your desired outcomes? Be prepared to adjust your strategy based on feedback and results. This iterative process is important for sustained growth.
-

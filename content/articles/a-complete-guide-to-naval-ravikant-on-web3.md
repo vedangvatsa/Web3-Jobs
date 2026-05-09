@@ -26,7 +26,7 @@ Ravikant's interpretation of Web3 is grounded in a profound grasp of markets, ca
 Ravikant argues that Bitcoin introduced a form of money that exists independently of state or corporate control.
 
 - **Digital Scarcity:** He points out that Satoshi Nakamoto's innovation resolved the issue of digital scarcity. Prior to Bitcoin, digital assets could be replicated indefinitely. Bitcoin's finite supply establishes it as a provably scarce asset, akin to gold, and positions it as a store of value.
-  
+
 - **Separation of Money and State:** Ravikant states that just as the printing press decentralized the production of information, Bitcoin decentralizes the production of money. This separation offers an alternative to government-controlled fiat currencies, which can lose value through inflation.
 
 ### 2. Blockchains as Markets
@@ -66,4 +66,3 @@ Ravikant emphasizes that the fundamental promise of Web3 lies in individual sove
 Ravikant differentiates between **blockchains**, public, open, and permissionless networks like Bitcoin and Ethereum, and **"blockchain technology"**, private, permissioned databases used by corporations.
 
 He expresses skepticism towards corporate or consortium blockchains, arguing that they fail to capture the true essence of blockchain technology. For him, the value of a blockchain lies in its decentralization and capacity to create neutral, open platforms. Private blockchains merely function as slow, inefficient databases, while true innovation thrives on public chains.
-

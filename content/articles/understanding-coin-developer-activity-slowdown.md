@@ -21,11 +21,11 @@ Bitcoin serves as the most prominent example of this phenomenon.
 - The Bitcoin Core codebase exhibits stability. 
 - Rapid commits could pose risks to the protocol's integrity. 
 - Development priorities include:
-  - Strengthening security
-  - Tuning performance
-  - Implementing minor optimizations
-  - Conducting scaling research
-  - Executing slow, careful upgrades
+ - Strengthening security
+ - Tuning performance
+ - Implementing minor optimizations
+ - Conducting scaling research
+ - Executing slow, careful upgrades
 
 In this context, 
 
@@ -37,8 +37,8 @@ This pattern also holds for other mature layer-1 protocols that have reached a s
 
 Ecosystems often evolve in a predictable manner:
 
-**Phase 1:** Establish the core protocol  
-**Phase 2:** Harden and stabilize the protocol  
+**Phase 1:** Establish the core protocol 
+**Phase 2:** Harden and stabilize the protocol 
 **Phase 3:** Encourage innovation at the application layer
 
 Ethereum exemplifies this transition:
@@ -91,17 +91,17 @@ Understanding the age and development stage of a project is essential for interp
 
 ### Early-Stage Projects (0–2 Years)
 
-- **Expected activity:** High-velocity commits, rapid iteration, and quick experimentation.  
+- **Expected activity:** High-velocity commits, rapid iteration, and quick experimentation. 
 - **Implications of a slowdown:** Typically signals a **major red flag.** Early-stage projects should demonstrate consistent shipping of features; reduced activity may indicate funding challenges, technical impediments, or stalled execution.
 
 ### Mid-Stage Projects (2–5 Years)
 
-- **Expected activity:** A balanced and stable commit cadence emerges. The focus shifts from experimentation to refinement and roadmap-driven development.  
+- **Expected activity:** A balanced and stable commit cadence emerges. The focus shifts from experimentation to refinement and roadmap-driven development. 
 - **Implications of a slowdown:** Context-dependent. This could suggest maturing architecture or the emergence of issues.
 
 ### Mature Protocols (5+ Years)
 
-- **Expected activity:** Slow, stable, and highly vetted updates that prioritize security, audits, and long-term stability.  
+- **Expected activity:** Slow, stable, and highly vetted updates that prioritize security, audits, and long-term stability. 
 - **Implications of a slowdown:** Often signals a **healthy** state of affairs. Low commit velocity may reflect the maturity of the protocol rather than inactivity.
 
 ## Evaluating Contributor Composition
@@ -174,4 +174,3 @@ Understanding the reasons behind a slowdown is far more significant than simply 
 The future of crypto lies with ecosystems that strike a balance between rapid innovation and stability, alongside rigorous security practices and long-term developer engagement. As the industry matures, development evolves from rapid experimentation to professional-grade engineering.
 
 A specific perspective that combines quantitative metrics with qualitative insights is essential for distinguishing healthy maturity from genuine decline.
-

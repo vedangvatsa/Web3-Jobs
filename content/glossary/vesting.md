@@ -96,17 +96,17 @@ Technically, vesting works through smart contracts:
 ```solidity
 // Simplified vesting contract concept
 contract TokenVesting {
-    uint256 public cliffDate;
-    uint256 public vestingEndDate;
-    address public beneficiary;
-    uint256 public totalTokens;
-    
-    function releasableAmount() public view returns (uint256) {
-        if (now < cliffDate) return 0;
-        uint256 monthsVested = (now - cliffDate) / 30 days;
-        uint256 totalMonths = (vestingEndDate - cliffDate) / 30 days;
-        return (totalTokens * monthsVested) / totalMonths;
-    }
+ uint256 public cliffDate;
+ uint256 public vestingEndDate;
+ address public beneficiary;
+ uint256 public totalTokens;
+
+ function releasableAmount() public view returns (uint256) {
+ if (now < cliffDate) return 0;
+ uint256 monthsVested = (now - cliffDate) / 30 days;
+ uint256 totalMonths = (vestingEndDate - cliffDate) / 30 days;
+ return (totalTokens * monthsVested) / totalMonths;
+ }
 }
 ```
 

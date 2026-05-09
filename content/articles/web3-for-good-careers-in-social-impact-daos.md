@@ -25,11 +25,11 @@ One of the most recognized and effective Public Goods DAOs is **Gitcoin**. Gitco
 Gitcoin introduced **Quadratic Funding**, which changed the way public goods are financed. 
 
 * **Quadratic Funding Explained**: This funding method optimally allocates resources based on community contributions, emphasizing the importance of the number of contributors rather than the total amount donated.
-  
+
 * **Mechanics of Quadratic Funding**:
-    1. Gitcoin maintains a "matching pool" of funds, sourced from donations by large foundations or protocols like the Ethereum Foundation.
-    2. Community members contribute to projects they wish to support.
-    3. The distribution of matching funds relies on a formula where the amount a project receives correlates to the square of the sum of the square roots of the contributions received.
+ 1. Gitcoin maintains a "matching pool" of funds, sourced from donations by large foundations or protocols like the Ethereum Foundation.
+ 2. Community members contribute to projects they wish to support.
+ 3. The distribution of matching funds relies on a formula where the amount a project receives correlates to the square of the sum of the square roots of the contributions received.
 
 * **Significance**: This approach ensures that projects benefiting from numerous small donations receive more matching funds than those reliant on a few large contributions. For example, a project garnering many donations of a small amount will receive more support than one with a single large donation. This model encourages a democratic and community-driven method for resource allocation.
 
@@ -45,12 +45,12 @@ Several other DAOs also focus on social impact:
 
 The growth of Public Goods DAOs and the "Regenerative Finance" (ReFi) sector presents various career opportunities for individuals passionate about aligning their work with their values.
 
-| Job Title                     | Responsibilities                                                                                           |
+| Job Title | Responsibilities |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Community & Ecosystem Managers | Identify promising projects, assist in grant applications, and provide support throughout the funding process. |
-| Grant Program Managers         | Oversee daily operations of funding rounds, communicate with projects, and ensure a smooth process.     |
-| Governance Facilitators        | Aid the DAO community in making decisions regarding treasury allocation and supported causes.               |
-| Data Analysts                 | Evaluate the impact of DAO funding, identifying successful projects and suggesting improvements in allocation mechanisms. |
+| Grant Program Managers | Oversee daily operations of funding rounds, communicate with projects, and ensure a smooth process. |
+| Governance Facilitators | Aid the DAO community in making decisions regarding treasury allocation and supported causes. |
+| Data Analysts | Evaluate the impact of DAO funding, identifying successful projects and suggesting improvements in allocation mechanisms. |
 
 ### Getting Involved
 
@@ -61,4 +61,3 @@ The growth of Public Goods DAOs and the "Regenerative Finance" (ReFi) sector pre
 Working within the Public Goods sector of Web3 allows professionals to contribute to an important movement that seeks equitable funding solutions for essential societal needs. Using the resources of blockchain technology, individuals have the chance to make a tangible, positive difference.
 
 ## The Expanding Web3 Opportunity
-

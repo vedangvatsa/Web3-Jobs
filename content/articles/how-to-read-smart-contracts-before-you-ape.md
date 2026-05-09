@@ -37,13 +37,13 @@ You should now be on the contract's main page within the block explorer. The mos
 
 Once you access the [Solidity](/best-programming-languages-for-blockchain-development) code, do not feel overwhelmed. You do not need to understand every line. Instead, look for specific, identifiable keywords and patterns that may indicate risk. Use `Ctrl+F` or `Cmd+F` to search the code for these critical terms.
 
-| **Keyword**       | **What to Look For**                                                                                       | **Verdict**                                         |
+| **Keyword** | **What to Look For** | **Verdict** |
 |-------------------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| `selfdestruct`    | If you find `selfdestruct(owner)`, it means the contract owner can destroy the contract and take all funds. | **EXTREME RED FLAG.** Avoid.                        |
-| `set` functions    | Functions like `setBaseURI`, `setPrice`, `setFee`, `pause`, `withdraw` should have an `onlyOwner` modifier. | **CRITICAL RED FLAG** if public.                    |
-| `withdraw`        | A simple `withdraw` function is normal. Complex logic can hide malicious intent.                          | Requires careful inspection.                        |
-| `delegatecall`    | This opcode allows execution of code from another contract in the current contract's context.              | **MAJOR RED FLAG** unless it's a recognized proxy. |
-| Code complexity    | Strange variable names or excessive length for simple functions may indicate obfuscation.                  | Simplified code is typically safer.                 |
+| `selfdestruct` | If you find `selfdestruct(owner)`, it means the contract owner can destroy the contract and take all funds. | **EXTREME RED FLAG.** Avoid. |
+| `set` functions | Functions like `setBaseURI`, `setPrice`, `setFee`, `pause`, `withdraw` should have an `onlyOwner` modifier. | **CRITICAL RED FLAG** if public. |
+| `withdraw` | A simple `withdraw` function is normal. Complex logic can hide malicious intent. | Requires careful inspection. |
+| `delegatecall` | This opcode allows execution of code from another contract in the current contract's context. | **MAJOR RED FLAG** unless it's a recognized proxy. |
+| Code complexity | Strange variable names or excessive length for simple functions may indicate obfuscation. | Simplified code is typically safer. |
 
 #### 1. Selfdestruct Opcode
 
@@ -81,7 +81,7 @@ Assess the overall structure of the code.
 Contract analysis is only one component of your due diligence.
 
 - **Team Transparency:** Investigate whether the team members are identifiable. Anonymity is common in crypto, but reputable projects typically feature a transparent team.
-- **Community Engagement:** Join the project's Discord. Assess whether discussions are authentic and vibrant or dominated by bots and hype. A healthy, engaged community often indicates a trustworthy project.
+- **Community Engagement:** Join the project's Discord. Assess whether discussions are authentic and active or dominated by bots and hype. A healthy, engaged community often indicates a trustworthy project.
 - **Security Audits:** Determine if the project has undergone a security audit by a reputable firm. While an audit does not guarantee safety, it reflects a commitment to security.
 
 ### Trust, but Verify
@@ -113,4 +113,3 @@ Avoid overwhelming yourself with drastic changes. Start with manageable steps an
 #### Step 5: Measure Progress and Adapt
 
 Regularly monitor your advancement. Adjust your approach based on feedback and outcomes to support a mindset of continuous improvement.
-

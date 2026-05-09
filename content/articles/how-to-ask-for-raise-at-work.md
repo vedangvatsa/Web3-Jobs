@@ -21,7 +21,7 @@ Choosing the right moment to ask for a raise can significantly impact the outcom
 #### Good times to ask include:
 - **During your performance review**: This period naturally lends itself to discussing achievements and salary adjustments.
 - **After a significant success**: If you recently completed a major project or surpassed your goals, use this momentum to highlight your contributions.
-- **When the company is thriving**: If the organization just experienced a profitable quarter, there may be more openness to salary increases.
+- **When the company is growing**: If the organization just experienced a profitable quarter, there may be more openness to salary increases.
 
 #### Bad times to ask include:
 - **During periods of high stress**: Avoid busy times for the company or your manager.
@@ -35,9 +35,9 @@ Simply stating that you want more money is insufficient. Develop a compelling, d
 - **Investigate Market Salaries**: Use platforms like Glassdoor and Payscale to determine average salaries for your position, experience, and geographic area. This information will help you establish a reasonable salary target.
 - **Keep Track of Your Achievements**: Document your accomplishments over several months. Focus on those that have resulted in measurable benefits for the company.
 - **Quantify Your Contributions**: Use specific metrics to underline your value. For instance:
-  - "I increased sales in my territory significantly."
-  - "I optimized a process that saved the company considerable time."
-  - "I led a project that came in under budget."
+ - "I increased sales in my territory significantly."
+ - "I optimized a process that saved the company considerable time."
+ - "I led a project that came in under budget."
 
 ### 3. Arrange a Dedicated Meeting
 
@@ -65,13 +65,13 @@ While spontaneity can be appealing, having a structured script or at least key t
 
 ### FAQs
 
-**What raise percentage should I request?**  
+**What raise percentage should I request?** 
 A typical raise ranges between a few percent. If your market research indicates you are underpaid or if you have significantly increased your responsibilities, you can reasonably request a higher raise, provided you can substantiate your claim.
 
-**How should I respond if my manager reacts defensively?**  
+**How should I respond if my manager reacts defensively?** 
 Remain calm and professional. Reinforce your commitment to the organization and clarify that your goal is to ensure your compensation reflects your contributions and the market value of your role.
 
-**Is it necessary to have another job offer to negotiate a raise?**  
+**Is it necessary to have another job offer to negotiate a raise?** 
 While a competing offer can strengthen your case, using it as use carries risks. Only use an external offer if you are genuinely prepared to leave your current position. Focus on articulating your value to the organization instead.
 
 ### Why This Matters
@@ -99,4 +99,3 @@ Avoid attempting to change everything at once. Focus on one small adjustment and
 #### Step 5: Measure and Adapt
 
 Monitor your progress. Are you achieving the desired results? Adjust your strategy based on feedback and outcomes. Embrace a mindset of continuous improvement.
-

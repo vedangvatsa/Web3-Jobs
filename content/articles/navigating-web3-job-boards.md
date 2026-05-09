@@ -79,17 +79,16 @@ Most Web3 companies operate in a remote-first environment across various time zo
 
 The Web3 job market continuously evolves, but several roles and skills consistently remain in high demand.
 
-| Role                   | Key Skills                          |
+| Role | Key Skills |
 |------------------------|-------------------------------------|
-| Smart Contract Developer| Solidity, Rust                      |
-| Frontend Engineer       | React, Next.js                     |
-| Community Manager       | Community Building, Engagement      |
-| Data Analyst            | On-Chain Data Analysis, SQL        |
-| Product Manager         | Token Economics, User Experience    |
+| Smart Contract Developer| Solidity, Rust |
+| Frontend Engineer | React, Next.js |
+| Community Manager | Community Building, Engagement |
+| Data Analyst | On-Chain Data Analysis, SQL |
+| Product Manager | Token Economics, User Experience |
 
 - **Smart Contract Developers (Solidity/Rust):** This role is the most sought after, with developers who can create secure and efficient smart contracts forming the backbone of the industry.
 - **Frontend Engineers (React/Next.js):** The demand for professionals who can build intuitive user interfaces for decentralized applications (dApps) remains strong.
 - **Community Managers:** Building and managing engaged communities is important in Web3, making skilled community managers highly valuable.
 - **Data Analysts:** As protocols grow more complex, the ability to analyze on-chain data for informed business decisions becomes increasingly important.
 - **Product Managers:** PMs with a grasp of the technical and user experience challenges unique to Web3 are in short supply.
-

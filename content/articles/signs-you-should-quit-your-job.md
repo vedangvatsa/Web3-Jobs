@@ -38,13 +38,13 @@ A toxic work environment remains one of the strongest reasons to resign. No sala
 
 Signs of a toxic culture include:
 
-| Indicator                     | Description                                                                          |
+| Indicator | Description |
 |-------------------------------|--------------------------------------------------------------------------------------|
-| Office Politics                | Widespread gossip and manipulation among colleagues.                                 |
-| Lack of Trust                 | Absence of transparency from leadership, leading to distrust.                       |
-| Micromanagement               | Managers who excessively control their teams or take credit for others' work.      |
-| Blame Culture                 | A tendency to punish mistakes rather than treating them as learning opportunities.   |
-| Tolerance of Harassment       | Management ignoring or failing to address bullying or harassment.                    |
+| Office Politics | Widespread gossip and manipulation among colleagues. |
+| Lack of Trust | Absence of transparency from leadership, leading to distrust. |
+| Micromanagement | Managers who excessively control their teams or take credit for others' work. |
+| Blame Culture | A tendency to punish mistakes rather than treating them as learning opportunities. |
+| Tolerance of Harassment | Management ignoring or failing to address bullying or harassment. |
 
 If you find yourself in a toxic environment, prioritize your well-being. In many cases, leaving is the only effective way to escape a harmful culture.
 
@@ -79,4 +79,3 @@ Identify the root cause of your dissatisfaction. Is it a temporary, stressful pr
 **I'm afraid of change. How do I overcome the fear of quitting?**
 
 Change can be intimidating, but remaining in an unsatisfactory situation is often more daunting in the long run. Approach the process in small steps. Start by updating your [resume](/how-to-build-a-web3-resume-that-stands-out) and exploring job listings. You do not need to commit to anything right away. Taking these small, proactive steps can create momentum and help you feel more in control.
-

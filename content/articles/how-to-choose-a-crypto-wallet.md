@@ -19,12 +19,12 @@ This article outlines the various types of crypto wallets, highlighting their ad
 The primary distinction between wallets lies in who possesses the "private keys." Your private key acts as the secret password granting you ownership and control over your cryptocurrencies.
 
 - **Custodial Wallets:** A centralized third party, typically a crypto exchange, manages your private keys.
-  - **Pros:** User-friendly experience, familiar password/login systems, and account recovery options if you forget your password.
-  - **Cons:** You do not fully own your crypto. Trusting the exchange to secure your assets is necessary. If the exchange suffers a security breach or goes bankrupt, you risk losing your funds. This principle is encapsulated in the saying: **"Not your keys, not your coins."**
+ - **Pros:** User-friendly experience, familiar password/login systems, and account recovery options if you forget your password.
+ - **Cons:** You do not fully own your crypto. Trusting the exchange to secure your assets is necessary. If the exchange suffers a security breach or goes bankrupt, you risk losing your funds. This principle is encapsulated in the saying: **"Not your keys, not your coins."**
 
 - **Non-Custodial Wallets:** You alone control your private keys. Upon creating the wallet, you receive a "seed phrase," a series of 12-24 words serving as the master key for your assets.
-  - **Pros:** You maintain full control over your funds. No third party can freeze your assets or censor transactions, placing you in the role of your own bank.
-  - **Cons:** You bear significant personal responsibility. **If you lose your seed phrase, your funds are unrecoverable.** There is no support system available.
+ - **Pros:** You maintain full control over your funds. No third party can freeze your assets or censor transactions, placing you in the role of your own bank.
+ - **Cons:** You bear significant personal responsibility. **If you lose your seed phrase, your funds are unrecoverable.** There is no support system available.
 
 For those wishing to engage deeply in Web3, whether through [DeFi](/what-is-defi), collecting [NFTs](/what-are-nfts), or participating in [DAOs](/what-is-a-dao), a non-custodial wallet is essential.
 
@@ -37,8 +37,8 @@ Among non-custodial wallets, the main difference is their connection to the inte
 Hot wallets are software applications that run on your computer or mobile device and remain continuously connected to the internet.
 
 - **Examples:**
-  - **Browser Extensions:** MetaMask, Rabby, Phantom (for Solana).
-  - **Mobile Wallets:** Trust Wallet, Rainbow Wallet.
+ - **Browser Extensions:** MetaMask, Rabby, Phantom (for Solana).
+ - **Mobile Wallets:** Trust Wallet, Rainbow Wallet.
 - **Usage:** Ideal for managing small amounts of crypto for daily transactions. A hot wallet functions like a physical wallet or a checking account, facilitating interactions with dApps, trading, and NFT minting.
 - **Security Risk:** Since they are always online, hot wallets are more susceptible to malware, phishing attacks, and other remote hacks.
 
@@ -63,13 +63,13 @@ Most users will benefit from a hybrid approach, deploying both hot and cold wall
 
 The significance of security cannot be overstated. Below is a comparative overview of custodial and non-custodial wallets regarding various security aspects.
 
-| Feature                         | Custodial Wallets                       | Non-Custodial Wallets                   |
+| Feature | Custodial Wallets | Non-Custodial Wallets |
 |---------------------------------|----------------------------------------|-----------------------------------------|
-| **Ownership of Private Keys**   | Third party holds the keys             | User retains full ownership              |
-| **Recovery Options**            | Account recovery available              | Seed phrase must be securely stored      |
-| **Susceptibility to Hacks**     | High risk; exchange could be hacked    | Lower risk; user must protect storage    |
-| **Control Over Funds**          | Limited; depends on third party        | Full control; user is their own bank     |
-| **Ease of Use**                 | User-friendly; familiar interfaces      | Steeper learning curve, but greater control |
+| **Ownership of Private Keys** | Third party holds the keys | User retains full ownership |
+| **Recovery Options** | Account recovery available | Seed phrase must be securely stored |
+| **Susceptibility to Hacks** | High risk; exchange could be hacked | Lower risk; user must protect storage |
+| **Control Over Funds** | Limited; depends on third party | Full control; user is their own bank |
+| **Ease of Use** | User-friendly; familiar interfaces | Steeper learning curve, but greater control |
 
 ### Important Security Practices
 
@@ -81,4 +81,3 @@ Regardless of the wallet type you choose, adhering to best security practices is
 - **Stay Informed:** Keep abreast of potential threats, such as new phishing tactics or scams targeting crypto users.
 
 ### Understanding the Web3 Opportunity
-

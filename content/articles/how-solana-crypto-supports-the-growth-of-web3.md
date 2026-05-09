@@ -20,15 +20,15 @@ Ethereum's limitations, particularly regarding transaction speed and high gas fe
 
 - **Technology Overview:** Solana uses **Proof-of-History (PoH)**, enabling it to process a high number of transactions per second with minimal fees.
 - **Implications for Web3:** This capability makes Solana ideal for applications that require rapid transaction processing.
-    - **Central Limit Order Books (CLOBs):** Solana hosts multiple decentralized exchanges that operate on-chain order books, which necessitate swift transaction processing.
-    - **Micropayments:** The network's minimal fees allow for new solutions such as per-second streaming payments and affordable global remittances. Solana Pay exemplifies this initiative, facilitating easy payment solutions for merchants.
+ - **Central Limit Order Books (CLOBs):** Solana hosts multiple decentralized exchanges that operate on-chain order books, which necessitate swift transaction processing.
+ - **Micropayments:** The network's minimal fees allow for new solutions such as per-second streaming payments and affordable global remittances. Solana Pay exemplifies this initiative, facilitating easy payment solutions for merchants.
 
 ### 2. A Center for NFTs and Gaming
 
 High gas fees on Ethereum have often barred mainstream users from minting and trading NFTs. Solana's lower costs have led to its emergence as a prominent hub for accessible [NFT](/what-are-nfts) projects and Web3 gaming.
 
 - **Cost Efficiency:** Minting an NFT on Solana costs only a few cents, compared to the often prohibitive fees on Ethereum.
-- **Web3 Impact:** This affordability has stimulated a vibrant community of NFT projects, including profile picture (PFP) collections, digital art, and in-game assets. It has significantly broadened NFT ownership and serves as a primary entry point for newcomers to Web3. Many **[Web3 games](/exploring-web3-gaming)** choose Solana for its fast transaction speeds, which are essential for in-game interactions.
+- **Web3 Impact:** This affordability has stimulated a active community of NFT projects, including profile picture (PFP) collections, digital art, and in-game assets. It has significantly broadened NFT ownership and serves as a primary entry point for newcomers to Web3. Many **[Web3 games](/exploring-web3-gaming)** choose Solana for its fast transaction speeds, which are essential for in-game interactions.
 
 ### 3. The Importance of the SOL Token
 
@@ -46,4 +46,3 @@ While the Ethereum Virtual Machine (EVM) is prevalent, a diverse ecosystem enhan
 - **Web3 Innovation:** This uniqueness supports a parallel ecosystem that encourages innovation. Developers who find the EVM limiting can explore Solana's architecture, which advances the industry by testing new scalability and security approaches. Despite fluctuations in developer activity, the core community remains engaged, creating products that would not thrive within the confines of the EVM.
 
 Solana's performance focus positions it as a important component in the Web3 ecosystem. It provides a platform for efficient financial applications, accessible NFTs, and scalable gaming environments, ultimately expanding the potential of public blockchains and facilitating the onboarding of new Web3 users.
-

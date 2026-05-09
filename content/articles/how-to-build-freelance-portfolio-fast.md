@@ -68,13 +68,13 @@ Always seek permission before using work completed for an employer. However, do 
 
 ### FAQs
 
-**What is the ideal number of pieces for my portfolio?**  
+**What is the ideal number of pieces for my portfolio?** 
 Prioritize quality over quantity. Aim for 3-5 high-quality projects that reflect your best work and the types of projects you wish to attract.
 
-**Where should I host my portfolio?**  
+**Where should I host my portfolio?** 
 A personal website offers the most professional presentation. Platforms like Squarespace and Webflow allow for easy customization. Designers often use Behance, while developers should maintain an organized GitHub profile.
 
-**Should I include pricing in my portfolio?**  
+**Should I include pricing in my portfolio?** 
 Avoid including prices in your portfolio. Each project is unique, and pricing should be based on specific requirements. Instead, provide a clear call to action for potential clients to reach out for custom quotes.
 
 ### Why This Matters
@@ -102,4 +102,3 @@ Avoid overwhelming yourself by attempting to implement all changes at once. Star
 #### Step 5: Measure and Adjust
 
 Track your progress over time. Are your efforts yielding results? Adjust your strategy based on feedback and observed outcomes. This mindset of continuous improvement is important.
-

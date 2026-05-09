@@ -34,12 +34,12 @@ Your narrative should consist of three key elements: The Spark, The Journey, and
 This section represents your origin story. Identify the moment or concept that made you realize Web3 transcended a passing trend.
 
 * **Avoid vague responses**:
-    * "I believe it's the future of technology."
-    * "I was intrigued by the investment potential."
+ * "I believe it's the future of technology."
+ * "I was intrigued by the investment potential."
 * **Focus on a powerful, specific concept**:
-    * **Example for a DeFi enthusiast**: "Having a background in traditional finance, my first experience using Aave to secure an instant, permissionless loan against my assets was transformative. This moment illuminated the potential to reconstruct the financial system to be more accessible and efficient."
-    * **Example for a creator-focused individual**: "The notion of [NFTs](/what-are-nfts) granting true digital ownership to artists captivated me. The idea of on-chain royalties, enabling creators to earn from the secondary market of their work indefinitely, struck me as a significant way to support artists."
-    * **Example for a privacy advocate**: "Learning about decentralized identity and the concept of using zero-knowledge proofs to verify information without disclosing personal data was eye-opening. This realization highlighted that Web3 is about more than just financial transactions; it’s about building a more private and user-centered internet."
+ * **Example for a DeFi enthusiast**: "Having a background in traditional finance, my first experience using Aave to secure an instant, permissionless loan against my assets was significant. This moment illuminated the potential to reconstruct the financial system to be more accessible and efficient."
+ * **Example for a creator-focused individual**: "The notion of [NFTs](/what-are-nfts) granting true digital ownership to artists captivated me. The idea of on-chain royalties, enabling creators to earn from the secondary market of their work indefinitely, struck me as a significant way to support artists."
+ * **Example for a privacy advocate**: "Learning about decentralized identity and the concept of using zero-knowledge proofs to verify information without disclosing personal data was eye-opening. This realization highlighted that Web3 is about more than just financial transactions; it’s about building a more private and user-centered internet."
 
 **Part 2: The Journey (Your "Proof of Work")**
 
@@ -47,18 +47,18 @@ The spark ignites your interest, but your subsequent actions demonstrate your de
 
 * **Use actionable verbs**: Detail what you read, what you created, and whom you engaged with.
 * **Connect your journey to your skills**:
-    * **Developer**: "Following my initial spark, I immersed myself in the CryptoZombies tutorial to learn [Solidity](/best-programming-languages-for-blockchain-development). I developed a simple [staking](/how-to-become-a-web3-staking-specialist) contract and became intrigued by gas optimization, diving into Ethereum Improvement Proposals (EIPs)."
-    * **Non-Technical Professional**: "I became captivated by the space. I listened to every episode of the Bankless podcast. To deepen my understanding, I began writing a weekly blog post on Mirror, where I dissected complex topics like Miner Extractable Value (MEV). This practice not only enhanced my knowledge but also helped me cultivate a modest following."
-    * **Community Manager**: "I joined the Discord for [Project X] and actively engaged by answering questions. My obsession with their governance model led me to draft a proposal to enhance their onboarding process, which ultimately gained approval."
+ * **Developer**: "Following my initial spark, I immersed myself in the CryptoZombies tutorial to learn [Solidity](/best-programming-languages-for-blockchain-development). I developed a simple [staking](/how-to-become-a-web3-staking-specialist) contract and became intrigued by gas optimization, diving into Ethereum Improvement Proposals (EIPs)."
+ * **Non-Technical Professional**: "I became captivated by the space. I listened to every episode of the Bankless podcast. To deepen my understanding, I began writing a weekly blog post on Mirror, where I dissected complex topics like Miner Extractable Value (MEV). This practice not only enhanced my knowledge but also helped me cultivate a modest following."
+ * **Community Manager**: "I joined the Discord for [Project X] and actively engaged by answering questions. My obsession with their governance model led me to draft a proposal to enhance their onboarding process, which ultimately gained approval."
 
 **Part 3: The Vision (Why *This* Role at *This* Company)**
 
 This segment connects your personal journey to the specific position for which you are interviewing.
 
 * **Demonstrate detailed research**:
-    * "My experiences have fueled my passion for addressing [specific problem]. I have closely followed how [The Company] tackles this issue with [their specific approach], which I find to be the most compelling solution available. I am eager to apply my skills in [your skill] to contribute to this vision."
+ * "My experiences have fueled my passion for addressing [specific problem]. I have closely followed how [The Company] tackles this issue with [their specific approach], which I find to be the most compelling solution available. I am eager to apply my skills in [your skill] to contribute to this vision."
 * **Show alignment with the company's goals**:
-    * "What excites me most about this role is the chance to work on [specific feature on their roadmap]. I believe this aspect is vital for attracting a mainstream audience, and my background in [your experience] will be directly applicable."
+ * "What excites me most about this role is the chance to work on [specific feature on their roadmap]. I believe this aspect is vital for attracting a mainstream audience, and my background in [your experience] will be directly applicable."
 
 Structuring your answer around The Spark, The Journey, and The Vision allows you to create a powerful narrative that reflects your authenticity and aligns with the role. This approach establishes that you are not merely seeking employment but are on a mission, one where this company represents the next logical step in your journey.
 
@@ -66,11 +66,11 @@ Structuring your answer around The Spark, The Journey, and The Vision allows you
 
 To assist you in organizing your thoughts, consider the following table that outlines the components of your story:
 
-| Component          | Description                                           | Example                                                                                       |
+| Component | Description | Example |
 |--------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| The Spark          | The initial moment that ignited your interest in Web3 | "I realized the potential of Aave when I secured a loan without intermediaries."             |
-| The Journey        | Actions taken to deepen your knowledge                | "I completed a Solidity tutorial and built a staking contract while studying EIPs."         |
-| The Vision         | Connection to the role and company                    | "I am passionate about [specific problem], and [The Company] has a unique approach to solve it." |
+| The Spark | The initial moment that ignited your interest in Web3 | "I realized the potential of Aave when I secured a loan without intermediaries." |
+| The Journey | Actions taken to deepen your knowledge | "I completed a Solidity tutorial and built a staking contract while studying EIPs." |
+| The Vision | Connection to the role and company | "I am passionate about [specific problem], and [The Company] has a unique approach to solve it." |
 
 ### Crafting Your Story
 
@@ -79,4 +79,3 @@ When you combine these elements, your narrative becomes not only compelling but 
 ### Practice Makes Perfect
 
 Rehearse your narrative until you can present it confidently. Practice with peers or mentors who understand the Web3 space. Seek feedback and refine your story based on their insights. 
-

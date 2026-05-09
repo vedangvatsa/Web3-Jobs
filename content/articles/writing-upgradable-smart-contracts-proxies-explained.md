@@ -50,10 +50,10 @@ This process completes the upgrade. Users continue to interact with the same Pro
 
 Avoid crafting your own proxy contracts from scratch. This task is complex and laden with risks. The industry standard is to use the **OpenZeppelin Upgrades Plugins**.
 
-| Plugin Name                          | Description                       |
+| Plugin Name | Description |
 |--------------------------------------|-----------------------------------|
-| `@openzeppelin/hardhat-upgrades`    | Integration with Hardhat         |
-| `@openzeppelin/foundry-upgrades`    | Integration with Foundry         |
+| `@openzeppelin/hardhat-upgrades` | Integration with Hardhat |
+| `@openzeppelin/foundry-upgrades` | Integration with Foundry |
 
 **A typical workflow with Hardhat includes:**
 
@@ -61,20 +61,20 @@ Avoid crafting your own proxy contracts from scratch. This task is complex and l
 
 2. **Deploy as upgradable:** Use the OpenZeppelin plugin for deployment instead of a standard deployment script:
 
-   ```javascript
-   const MyContract = await ethers.getContractFactory("MyContract");
-   const instance = await upgrades.deployProxy(MyContract, [arg1, arg2]);
-   await instance.waitForDeployment();
-   ```
-   The plugin deploys your implementation contract, establishes a proxy contract, and links both together automatically.
+ ```javascript
+ const MyContract = await ethers.getContractFactory("MyContract");
+ const instance = await upgrades.deployProxy(MyContract, [arg1, arg2]);
+ await instance.waitForDeployment();
+ ```
+ The plugin deploys your implementation contract, establishes a proxy contract, and links both together automatically.
 
 3. **Upgrade:** When you are ready to upgrade, create `MyContractV2.sol` and execute:
 
-   ```javascript
-   const MyContractV2 = await ethers.getContractFactory("MyContractV2");
-   const upgraded = await upgrades.upgradeProxy(instance.address, MyContractV2);
-   ```
-   The plugin manages the deployment of the new implementation and invokes the `upgradeTo` function on the proxy.
+ ```javascript
+ const MyContractV2 = await ethers.getContractFactory("MyContractV2");
+ const upgraded = await upgrades.upgradeProxy(instance.address, MyContractV2);
+ ```
+ The plugin manages the deployment of the new implementation and invokes the `upgradeTo` function on the proxy.
 
 ### Important Considerations and Risks
 
@@ -109,4 +109,3 @@ Avoid attempting to change everything at once. Start with manageable adjustments
 #### Step 5: Measure and Adjust
 
 Keep track of your progress. Are you achieving the desired results? Modify your approach based on feedback and outcomes. Embracing a mindset of continuous improvement is vital.
-

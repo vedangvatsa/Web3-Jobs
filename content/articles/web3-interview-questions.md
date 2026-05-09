@@ -249,4 +249,3 @@ Bad answer: Generic answer, or answer that suggests you'll leave immediately.
 **Prepare thoughtful questions**: Ask about the team, technical challenges, culture, and roadmap. Show genuine interest.
 
 **Follow up**: Thank the interviewer after the interview. Reiterate interest in the role.
-

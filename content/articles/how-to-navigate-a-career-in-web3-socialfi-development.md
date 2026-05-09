@@ -30,9 +30,8 @@ A SocialFi developer is responsible for creating the protocols and applications 
 
 1. **Engage as a User:** Actively participate in the ecosystem by creating profiles on platforms like Farcaster and Lens. Using various client applications gives insight into the culture and user experience.
 2. **Develop on a Protocol:** Building applications is one of the best methods to learn. Use the Farcaster or Lens API to create a simple client application.
-    - *Project Idea:* Develop a client that filters posts by specific topics.
-    - *Project Idea:* Create a tool that visualizes user social graphs.
+ - *Project Idea:* Develop a client that filters posts by specific topics.
+ - *Project Idea:* Create a tool that visualizes user social graphs.
 3. **Contribute to the Ecosystem:** Both Farcaster and Lens are open-source protocols. Contributing to their core infrastructure on [GitHub](/building-web3-portfolio) or developing useful tools for the community can enhance visibility.
 
 A career in SocialFi appeals to developers committed to building open and equitable social systems. This field allows professionals to work at the intersection of technology and human-centered design, shaping platforms that will influence future connections in a decentralized environment.
-

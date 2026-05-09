@@ -1,471 +1,471 @@
 {
-  "meta": {
-    "contentType": "checklists",
-    "topic": "audit",
-    "niche": "smart-contract-auditor",
-    "generatedAt": "2026-03-12T20:08:56.231Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "Audit Engagement Checklist for Smart Contract Auditors",
-    "description": "Complete smart contract audit methodology from scoping to report delivery. 75+ items covering security reviews used by professional audit firms.",
-    "keywords": [
-      "smart-contract-auditor",
-      "checklists",
-      "audit",
-      "web3",
-      "smart-contract",
-      "blockchain",
-      "pre-engagement-phase",
-      "architecture-review",
-      "manual-code-review"
-    ],
-    "canonicalSlug": "audit-checklists-for-smart-contract-auditor"
-  },
-  "content": {
-    "intro": "A complete audit methodology checklist covering every phase of a professional smart contract security review—from initial scoping to final report delivery. Used by top audit firms.",
-    "sections": [
-      {
-        "heading": "Pre-Engagement Phase",
-        "description": "Initial scoping and preparation before the audit begins.",
-        "items": [
-          {
-            "title": "Define audit scope and deliverables",
-            "description": "Document all contracts in scope, lines of code, and expected deliverables. Clarify what's out of scope.",
-            "priority": "critical",
-            "category": "Scoping"
-          },
-          {
-            "title": "Gather project documentation",
-            "description": "Collect whitepapers, architecture docs, previous audits, and design specifications from the client.",
-            "priority": "critical",
-            "category": "Preparation"
-          },
-          {
-            "title": "Identify external dependencies",
-            "description": "List all oracles, external protocols, and third-party contracts the system interacts with.",
-            "priority": "critical",
-            "category": "Scoping"
-          },
-          {
-            "title": "Establish communication channels",
-            "description": "Set up secure channels for questions, findings disclosure, and progress updates.",
-            "priority": "important",
-            "category": "Process"
-          },
-          {
-            "title": "Review previous audit reports",
-            "description": "Study any prior audits to understand historical issues and verify fixes.",
-            "priority": "important",
-            "category": "Preparation"
-          },
-          {
-            "title": "Set up development environment",
-            "description": "Clone repo, install dependencies, ensure all tests pass, set up debugging tools.",
-            "priority": "important",
-            "category": "Setup"
-          },
-          {
-            "title": "Identify key invariants with team",
-            "description": "Discuss critical properties that must always hold—these become primary audit targets.",
-            "priority": "critical",
-            "category": "Scoping"
-          },
-          {
-            "title": "Map trust assumptions",
-            "description": "Document what roles are trusted, what external systems are trusted, and failure assumptions.",
-            "priority": "critical",
-            "category": "Scoping"
-          }
-        ]
-      },
-      {
-        "heading": "Architecture Review",
-        "description": "High-level analysis of system design and threat model.",
-        "items": [
-          {
-            "title": "Map contract inheritance hierarchy",
-            "description": "Diagram inheritance relationships and identify diamond/multiple inheritance issues.",
-            "priority": "critical",
-            "category": "Architecture"
-          },
-          {
-            "title": "Analyze access control model",
-            "description": "Document all privileged roles, their capabilities, and how permissions can change.",
-            "priority": "critical",
-            "category": "Access Control"
-          },
-          {
-            "title": "Review upgrade mechanisms",
-            "description": "Analyze proxy patterns, upgrade timelock, and storage collision risks.",
-            "priority": "critical",
-            "category": "Architecture"
-          },
-          {
-            "title": "Map external call graph",
-            "description": "Document all cross-contract calls and potential reentrancy entry points.",
-            "priority": "critical",
-            "category": "Integration"
-          },
-          {
-            "title": "Analyze economic model",
-            "description": "Understand token flows, fee mechanisms, and economic invariants.",
-            "priority": "critical",
-            "category": "Economics"
-          },
-          {
-            "title": "Review oracle integration design",
-            "description": "Analyze price feed sources, staleness handling, and manipulation resistance.",
-            "priority": "critical",
-            "category": "Integration"
-          },
-          {
-            "title": "Document state machine transitions",
-            "description": "Map all possible states and valid transitions for stateful contracts.",
-            "priority": "important",
-            "category": "Architecture"
-          },
-          {
-            "title": "Identify centralization risks",
-            "description": "Document admin keys, multisig requirements, and potential single points of failure.",
-            "priority": "important",
-            "category": "Trust"
-          }
-        ]
-      },
-      {
-        "heading": "Manual Code Review",
-        "description": "Line-by-line analysis of contract code.",
-        "items": [
-          {
-            "title": "Review all external/public functions",
-            "description": "Analyze each entry point for input validation, access control, and state changes.",
-            "priority": "critical",
-            "category": "Code Review"
-          },
-          {
-            "title": "Trace ETH and token flows",
-            "description": "Follow all value transfers to verify accounting accuracy and prevent fund loss.",
-            "priority": "critical",
-            "category": "Code Review"
-          },
-          {
-            "title": "Analyze arithmetic operations",
-            "description": "Check for overflow/underflow, rounding errors, and precision loss.",
-            "priority": "critical",
-            "category": "Code Review"
-          },
-          {
-            "title": "Review loop bounds and gas limits",
-            "description": "Identify unbounded loops that could cause DoS via gas exhaustion.",
-            "priority": "critical",
-            "category": "Code Review"
-          },
-          {
-            "title": "Check reentrancy guards",
-            "description": "Verify CEI pattern or reentrancy locks on all external calls.",
-            "priority": "critical",
-            "category": "Code Review"
-          },
-          {
-            "title": "Analyze storage layouts",
-            "description": "Check for slot collisions in upgradeable contracts and packed struct issues.",
-            "priority": "important",
-            "category": "Code Review"
-          },
-          {
-            "title": "Review error handling",
-            "description": "Verify appropriate use of require/revert, custom errors, and error messages.",
-            "priority": "important",
-            "category": "Code Review"
-          },
-          {
-            "title": "Check event emissions",
-            "description": "Verify all state changes emit appropriate events for off-chain tracking.",
-            "priority": "nice-to-have",
-            "category": "Code Review"
-          }
-        ]
-      },
-      {
-        "heading": "Automated Analysis",
-        "description": "Tool-assisted vulnerability detection.",
-        "items": [
-          {
-            "title": "Run static analyzers (Slither, Mythril)",
-            "description": "Execute static analysis tools and triage all findings.",
-            "priority": "critical",
-            "category": "Tooling"
-          },
-          {
-            "title": "Execute symbolic execution (Manticore)",
-            "description": "Use symbolic execution to explore edge cases and constraint violations.",
-            "priority": "important",
-            "category": "Tooling"
-          },
-          {
-            "title": "Run fuzzing campaigns",
-            "description": "Set up Echidna or Foundry fuzzing with property-based tests.",
-            "priority": "critical",
-            "category": "Tooling"
-          },
-          {
-            "title": "Perform formal verification checks",
-            "description": "Use Certora or Halmos for critical invariant verification.",
-            "priority": "important",
-            "category": "Tooling"
-          },
-          {
-            "title": "Analyze gas optimization opportunities",
-            "description": "Identify expensive operations and suggest optimizations.",
-            "priority": "nice-to-have",
-            "category": "Tooling"
-          },
-          {
-            "title": "Check code coverage",
-            "description": "Ensure test suite covers all branches and edge cases.",
-            "priority": "important",
-            "category": "Tooling"
-          },
-          {
-            "title": "Run dependency audit",
-            "description": "Check imported libraries for known vulnerabilities.",
-            "priority": "important",
-            "category": "Tooling"
-          },
-          {
-            "title": "Verify compiler settings",
-            "description": "Check Solidity version, optimizer settings, and via-IR usage.",
-            "priority": "important",
-            "category": "Tooling"
-          }
-        ]
-      },
-      {
-        "heading": "DeFi-Specific Checks",
-        "description": "Protocol-specific vulnerability patterns.",
-        "items": [
-          {
-            "title": "Test flash loan attack vectors",
-            "description": "Attempt price manipulation, governance attacks, and liquidity drainage via flash loans.",
-            "priority": "critical",
-            "category": "DeFi"
-          },
-          {
-            "title": "Analyze oracle manipulation resistance",
-            "description": "Test TWAP effectiveness, multi-oracle fallbacks, and manipulation costs.",
-            "priority": "critical",
-            "category": "DeFi"
-          },
-          {
-            "title": "Check MEV extraction risks",
-            "description": "Identify sandwich attack vectors, frontrunning opportunities, and backrunning risks.",
-            "priority": "critical",
-            "category": "DeFi"
-          },
-          {
-            "title": "Test liquidation mechanics",
-            "description": "Verify liquidation thresholds, incentives, and cascade prevention.",
-            "priority": "critical",
-            "category": "DeFi"
-          },
-          {
-            "title": "Analyze interest rate models",
-            "description": "Test utilization curves, rate jumps, and economic stability.",
-            "priority": "important",
-            "category": "DeFi"
-          },
-          {
-            "title": "Check slippage protections",
-            "description": "Verify deadline parameters, minimum output amounts, and price bounds.",
-            "priority": "critical",
-            "category": "DeFi"
-          },
-          {
-            "title": "Test deposit/withdrawal edge cases",
-            "description": "Check first depositor attacks, rounding exploits, and share inflation.",
-            "priority": "critical",
-            "category": "DeFi"
-          },
-          {
-            "title": "Analyze governance attack vectors",
-            "description": "Test vote buying, flash loan voting, and proposal spam attacks.",
-            "priority": "important",
-            "category": "DeFi"
-          }
-        ]
-      },
-      {
-        "heading": "Integration Testing",
-        "description": "Testing contract interactions with external systems.",
-        "items": [
-          {
-            "title": "Test mainnet fork scenarios",
-            "description": "Run integration tests against forked mainnet state with real protocol data.",
-            "priority": "critical",
-            "category": "Testing"
-          },
-          {
-            "title": "Verify cross-chain bridge interactions",
-            "description": "Test message passing, finality assumptions, and bridge failure handling.",
-            "priority": "critical",
-            "category": "Testing"
-          },
-          {
-            "title": "Test oracle failure scenarios",
-            "description": "Simulate stale prices, oracle downtime, and manipulation attempts.",
-            "priority": "critical",
-            "category": "Testing"
-          },
-          {
-            "title": "Verify upgrade path correctness",
-            "description": "Test storage migrations, initialization, and rollback scenarios.",
-            "priority": "critical",
-            "category": "Testing"
-          },
-          {
-            "title": "Test emergency procedures",
-            "description": "Verify pause mechanisms, emergency withdrawals, and circuit breakers.",
-            "priority": "critical",
-            "category": "Testing"
-          },
-          {
-            "title": "Analyze composability risks",
-            "description": "Test interactions with other DeFi protocols and potential conflicts.",
-            "priority": "important",
-            "category": "Testing"
-          },
-          {
-            "title": "Test gas under network congestion",
-            "description": "Verify critical functions work within block gas limits during high gas periods.",
-            "priority": "important",
-            "category": "Testing"
-          },
-          {
-            "title": "Verify off-chain component integration",
-            "description": "Test keeper bots, relayers, and off-chain computation correctness.",
-            "priority": "important",
-            "category": "Testing"
-          }
-        ]
-      },
-      {
-        "heading": "Finding Documentation",
-        "description": "Recording and classifying discovered issues.",
-        "items": [
-          {
-            "title": "Classify severity accurately",
-            "description": "Use consistent severity ratings: Critical, High, Medium, Low, Informational.",
-            "priority": "critical",
-            "category": "Reporting"
-          },
-          {
-            "title": "Write clear reproduction steps",
-            "description": "Provide PoC code or step-by-step instructions to reproduce each finding.",
-            "priority": "critical",
-            "category": "Reporting"
-          },
-          {
-            "title": "Explain impact clearly",
-            "description": "Describe worst-case scenarios, affected users, and potential fund loss.",
-            "priority": "critical",
-            "category": "Reporting"
-          },
-          {
-            "title": "Provide actionable recommendations",
-            "description": "Suggest specific code changes or architectural improvements.",
-            "priority": "critical",
-            "category": "Reporting"
-          },
-          {
-            "title": "Link to relevant references",
-            "description": "Reference similar past exploits, documentation, or security guidelines.",
-            "priority": "important",
-            "category": "Reporting"
-          },
-          {
-            "title": "Track finding status",
-            "description": "Maintain status tracking: Open, Acknowledged, Fixed, Won't Fix.",
-            "priority": "important",
-            "category": "Reporting"
-          },
-          {
-            "title": "Document mitigating factors",
-            "description": "Note any factors that reduce severity or exploitability.",
-            "priority": "important",
-            "category": "Reporting"
-          },
-          {
-            "title": "Cross-reference related findings",
-            "description": "Link findings that share root causes or have combined impact.",
-            "priority": "nice-to-have",
-            "category": "Reporting"
-          }
-        ]
-      },
-      {
-        "heading": "Report Delivery",
-        "description": "Finalizing and delivering the audit report.",
-        "items": [
-          {
-            "title": "Conduct internal peer review",
-            "description": "Have findings reviewed by another auditor before client delivery.",
-            "priority": "critical",
-            "category": "QA"
-          },
-          {
-            "title": "Verify fix implementations",
-            "description": "Review all fixes and confirm they address the root cause without introducing new issues.",
-            "priority": "critical",
-            "category": "Verification"
-          },
-          {
-            "title": "Update finding statuses",
-            "description": "Mark all findings as Fixed, Partially Fixed, Acknowledged, or Disputed.",
-            "priority": "critical",
-            "category": "Reporting"
-          },
-          {
-            "title": "Write executive summary",
-            "description": "Summarize overall security posture, key risks, and recommendations.",
-            "priority": "critical",
-            "category": "Reporting"
-          },
-          {
-            "title": "Document audit limitations",
-            "description": "Clearly state scope boundaries, time constraints, and what wasn't reviewed.",
-            "priority": "important",
-            "category": "Reporting"
-          },
-          {
-            "title": "Provide deployment recommendations",
-            "description": "Suggest monitoring, incident response, and post-deployment security measures.",
-            "priority": "important",
-            "category": "Recommendations"
-          },
-          {
-            "title": "Schedule final walkthrough",
-            "description": "Review findings with client team and answer technical questions.",
-            "priority": "important",
-            "category": "Delivery"
-          },
-          {
-            "title": "Archive audit materials",
-            "description": "Securely store PoCs, notes, and tooling output for future reference.",
-            "priority": "nice-to-have",
-            "category": "Process"
-          }
-        ]
-      }
-    ],
-    "proTips": [
-      "Build a personal vulnerability checklist: Maintain your own list of patterns based on past audits and public exploits. Update it after every engagement.",
-      "Read the code multiple times with different lenses: First pass for understanding, second for logic errors, third for edge cases, fourth for economic attacks.",
-      "Always question trust assumptions: Admin keys get compromised, oracles fail, external protocols get hacked. Test what happens when trusted components misbehave.",
-      "Write PoCs for every medium+ finding: A working exploit removes all doubt about severity and helps clients prioritize fixes.",
-      "Study past exploits weekly: Follow rekt.news, DeFiHackLabs, and post-mortems. Most vulnerabilities are variations of known patterns."
-    ],
-    "conclusion": "Master smart contract security and join the elite ranks of blockchain auditors.",
-    "relatedResources": []
-  }
+ "meta": {
+ "contentType": "checklists",
+ "topic": "audit",
+ "niche": "smart-contract-auditor",
+ "generatedAt": "2026-03-12T20:08:56.231Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "Audit Engagement Checklist for Smart Contract Auditors",
+ "description": "Complete smart contract audit methodology from scoping to report delivery. 75+ items covering security reviews used by professional audit firms.",
+ "keywords": [
+ "smart-contract-auditor",
+ "checklists",
+ "audit",
+ "web3",
+ "smart-contract",
+ "blockchain",
+ "pre-engagement-phase",
+ "architecture-review",
+ "manual-code-review"
+ ],
+ "canonicalSlug": "audit-checklists-for-smart-contract-auditor"
+ },
+ "content": {
+ "intro": "A complete audit methodology checklist covering every phase of a professional smart contract security review—from initial scoping to final report delivery. Used by top audit firms.",
+ "sections": [
+ {
+ "heading": "Pre-Engagement Phase",
+ "description": "Initial scoping and preparation before the audit begins.",
+ "items": [
+ {
+ "title": "Define audit scope and deliverables",
+ "description": "Document all contracts in scope, lines of code, and expected deliverables. Clarify what's out of scope.",
+ "priority": "critical",
+ "category": "Scoping"
+ },
+ {
+ "title": "Gather project documentation",
+ "description": "Collect whitepapers, architecture docs, previous audits, and design specifications from the client.",
+ "priority": "critical",
+ "category": "Preparation"
+ },
+ {
+ "title": "Identify external dependencies",
+ "description": "List all oracles, external protocols, and third-party contracts the system interacts with.",
+ "priority": "critical",
+ "category": "Scoping"
+ },
+ {
+ "title": "Establish communication channels",
+ "description": "Set up secure channels for questions, findings disclosure, and progress updates.",
+ "priority": "important",
+ "category": "Process"
+ },
+ {
+ "title": "Review previous audit reports",
+ "description": "Study any prior audits to understand historical issues and verify fixes.",
+ "priority": "important",
+ "category": "Preparation"
+ },
+ {
+ "title": "Set up development environment",
+ "description": "Clone repo, install dependencies, ensure all tests pass, set up debugging tools.",
+ "priority": "important",
+ "category": "Setup"
+ },
+ {
+ "title": "Identify key invariants with team",
+ "description": "Discuss critical properties that must always hold—these become primary audit targets.",
+ "priority": "critical",
+ "category": "Scoping"
+ },
+ {
+ "title": "Map trust assumptions",
+ "description": "Document what roles are trusted, what external systems are trusted, and failure assumptions.",
+ "priority": "critical",
+ "category": "Scoping"
+ }
+ ]
+ },
+ {
+ "heading": "Architecture Review",
+ "description": "High-level analysis of system design and threat model.",
+ "items": [
+ {
+ "title": "Map contract inheritance hierarchy",
+ "description": "Diagram inheritance relationships and identify diamond/multiple inheritance issues.",
+ "priority": "critical",
+ "category": "Architecture"
+ },
+ {
+ "title": "Analyze access control model",
+ "description": "Document all privileged roles, their capabilities, and how permissions can change.",
+ "priority": "critical",
+ "category": "Access Control"
+ },
+ {
+ "title": "Review upgrade mechanisms",
+ "description": "Analyze proxy patterns, upgrade timelock, and storage collision risks.",
+ "priority": "critical",
+ "category": "Architecture"
+ },
+ {
+ "title": "Map external call graph",
+ "description": "Document all cross-contract calls and potential reentrancy entry points.",
+ "priority": "critical",
+ "category": "Integration"
+ },
+ {
+ "title": "Analyze economic model",
+ "description": "Understand token flows, fee mechanisms, and economic invariants.",
+ "priority": "critical",
+ "category": "Economics"
+ },
+ {
+ "title": "Review oracle integration design",
+ "description": "Analyze price feed sources, staleness handling, and manipulation resistance.",
+ "priority": "critical",
+ "category": "Integration"
+ },
+ {
+ "title": "Document state machine transitions",
+ "description": "Map all possible states and valid transitions for stateful contracts.",
+ "priority": "important",
+ "category": "Architecture"
+ },
+ {
+ "title": "Identify centralization risks",
+ "description": "Document admin keys, multisig requirements, and potential single points of failure.",
+ "priority": "important",
+ "category": "Trust"
+ }
+ ]
+ },
+ {
+ "heading": "Manual Code Review",
+ "description": "Line-by-line analysis of contract code.",
+ "items": [
+ {
+ "title": "Review all external/public functions",
+ "description": "Analyze each entry point for input validation, access control, and state changes.",
+ "priority": "critical",
+ "category": "Code Review"
+ },
+ {
+ "title": "Trace ETH and token flows",
+ "description": "Follow all value transfers to verify accounting accuracy and prevent fund loss.",
+ "priority": "critical",
+ "category": "Code Review"
+ },
+ {
+ "title": "Analyze arithmetic operations",
+ "description": "Check for overflow/underflow, rounding errors, and precision loss.",
+ "priority": "critical",
+ "category": "Code Review"
+ },
+ {
+ "title": "Review loop bounds and gas limits",
+ "description": "Identify unbounded loops that could cause DoS via gas exhaustion.",
+ "priority": "critical",
+ "category": "Code Review"
+ },
+ {
+ "title": "Check reentrancy guards",
+ "description": "Verify CEI pattern or reentrancy locks on all external calls.",
+ "priority": "critical",
+ "category": "Code Review"
+ },
+ {
+ "title": "Analyze storage layouts",
+ "description": "Check for slot collisions in upgradeable contracts and packed struct issues.",
+ "priority": "important",
+ "category": "Code Review"
+ },
+ {
+ "title": "Review error handling",
+ "description": "Verify appropriate use of require/revert, custom errors, and error messages.",
+ "priority": "important",
+ "category": "Code Review"
+ },
+ {
+ "title": "Check event emissions",
+ "description": "Verify all state changes emit appropriate events for off-chain tracking.",
+ "priority": "nice-to-have",
+ "category": "Code Review"
+ }
+ ]
+ },
+ {
+ "heading": "Automated Analysis",
+ "description": "Tool-assisted vulnerability detection.",
+ "items": [
+ {
+ "title": "Run static analyzers (Slither, Mythril)",
+ "description": "Execute static analysis tools and triage all findings.",
+ "priority": "critical",
+ "category": "Tooling"
+ },
+ {
+ "title": "Execute symbolic execution (Manticore)",
+ "description": "Use symbolic execution to explore edge cases and constraint violations.",
+ "priority": "important",
+ "category": "Tooling"
+ },
+ {
+ "title": "Run fuzzing campaigns",
+ "description": "Set up Echidna or Foundry fuzzing with property-based tests.",
+ "priority": "critical",
+ "category": "Tooling"
+ },
+ {
+ "title": "Perform formal verification checks",
+ "description": "Use Certora or Halmos for critical invariant verification.",
+ "priority": "important",
+ "category": "Tooling"
+ },
+ {
+ "title": "Analyze gas optimization opportunities",
+ "description": "Identify expensive operations and suggest optimizations.",
+ "priority": "nice-to-have",
+ "category": "Tooling"
+ },
+ {
+ "title": "Check code coverage",
+ "description": "Ensure test suite covers all branches and edge cases.",
+ "priority": "important",
+ "category": "Tooling"
+ },
+ {
+ "title": "Run dependency audit",
+ "description": "Check imported libraries for known vulnerabilities.",
+ "priority": "important",
+ "category": "Tooling"
+ },
+ {
+ "title": "Verify compiler settings",
+ "description": "Check Solidity version, optimizer settings, and via-IR usage.",
+ "priority": "important",
+ "category": "Tooling"
+ }
+ ]
+ },
+ {
+ "heading": "DeFi-Specific Checks",
+ "description": "Protocol-specific vulnerability patterns.",
+ "items": [
+ {
+ "title": "Test flash loan attack vectors",
+ "description": "Attempt price manipulation, governance attacks, and liquidity drainage via flash loans.",
+ "priority": "critical",
+ "category": "DeFi"
+ },
+ {
+ "title": "Analyze oracle manipulation resistance",
+ "description": "Test TWAP effectiveness, multi-oracle fallbacks, and manipulation costs.",
+ "priority": "critical",
+ "category": "DeFi"
+ },
+ {
+ "title": "Check MEV extraction risks",
+ "description": "Identify sandwich attack vectors, frontrunning opportunities, and backrunning risks.",
+ "priority": "critical",
+ "category": "DeFi"
+ },
+ {
+ "title": "Test liquidation mechanics",
+ "description": "Verify liquidation thresholds, incentives, and cascade prevention.",
+ "priority": "critical",
+ "category": "DeFi"
+ },
+ {
+ "title": "Analyze interest rate models",
+ "description": "Test utilization curves, rate jumps, and economic stability.",
+ "priority": "important",
+ "category": "DeFi"
+ },
+ {
+ "title": "Check slippage protections",
+ "description": "Verify deadline parameters, minimum output amounts, and price bounds.",
+ "priority": "critical",
+ "category": "DeFi"
+ },
+ {
+ "title": "Test deposit/withdrawal edge cases",
+ "description": "Check first depositor attacks, rounding exploits, and share inflation.",
+ "priority": "critical",
+ "category": "DeFi"
+ },
+ {
+ "title": "Analyze governance attack vectors",
+ "description": "Test vote buying, flash loan voting, and proposal spam attacks.",
+ "priority": "important",
+ "category": "DeFi"
+ }
+ ]
+ },
+ {
+ "heading": "Integration Testing",
+ "description": "Testing contract interactions with external systems.",
+ "items": [
+ {
+ "title": "Test mainnet fork scenarios",
+ "description": "Run integration tests against forked mainnet state with real protocol data.",
+ "priority": "critical",
+ "category": "Testing"
+ },
+ {
+ "title": "Verify cross-chain bridge interactions",
+ "description": "Test message passing, finality assumptions, and bridge failure handling.",
+ "priority": "critical",
+ "category": "Testing"
+ },
+ {
+ "title": "Test oracle failure scenarios",
+ "description": "Simulate stale prices, oracle downtime, and manipulation attempts.",
+ "priority": "critical",
+ "category": "Testing"
+ },
+ {
+ "title": "Verify upgrade path correctness",
+ "description": "Test storage migrations, initialization, and rollback scenarios.",
+ "priority": "critical",
+ "category": "Testing"
+ },
+ {
+ "title": "Test emergency procedures",
+ "description": "Verify pause mechanisms, emergency withdrawals, and circuit breakers.",
+ "priority": "critical",
+ "category": "Testing"
+ },
+ {
+ "title": "Analyze composability risks",
+ "description": "Test interactions with other DeFi protocols and potential conflicts.",
+ "priority": "important",
+ "category": "Testing"
+ },
+ {
+ "title": "Test gas under network congestion",
+ "description": "Verify critical functions work within block gas limits during high gas periods.",
+ "priority": "important",
+ "category": "Testing"
+ },
+ {
+ "title": "Verify off-chain component integration",
+ "description": "Test keeper bots, relayers, and off-chain computation correctness.",
+ "priority": "important",
+ "category": "Testing"
+ }
+ ]
+ },
+ {
+ "heading": "Finding Documentation",
+ "description": "Recording and classifying discovered issues.",
+ "items": [
+ {
+ "title": "Classify severity accurately",
+ "description": "Use consistent severity ratings: Critical, High, Medium, Low, Informational.",
+ "priority": "critical",
+ "category": "Reporting"
+ },
+ {
+ "title": "Write clear reproduction steps",
+ "description": "Provide PoC code or step-by-step instructions to reproduce each finding.",
+ "priority": "critical",
+ "category": "Reporting"
+ },
+ {
+ "title": "Explain impact clearly",
+ "description": "Describe worst-case scenarios, affected users, and potential fund loss.",
+ "priority": "critical",
+ "category": "Reporting"
+ },
+ {
+ "title": "Provide actionable recommendations",
+ "description": "Suggest specific code changes or architectural improvements.",
+ "priority": "critical",
+ "category": "Reporting"
+ },
+ {
+ "title": "Link to relevant references",
+ "description": "Reference similar past exploits, documentation, or security guidelines.",
+ "priority": "important",
+ "category": "Reporting"
+ },
+ {
+ "title": "Track finding status",
+ "description": "Maintain status tracking: Open, Acknowledged, Fixed, Won't Fix.",
+ "priority": "important",
+ "category": "Reporting"
+ },
+ {
+ "title": "Document mitigating factors",
+ "description": "Note any factors that reduce severity or exploitability.",
+ "priority": "important",
+ "category": "Reporting"
+ },
+ {
+ "title": "Cross-reference related findings",
+ "description": "Link findings that share root causes or have combined impact.",
+ "priority": "nice-to-have",
+ "category": "Reporting"
+ }
+ ]
+ },
+ {
+ "heading": "Report Delivery",
+ "description": "Finalizing and delivering the audit report.",
+ "items": [
+ {
+ "title": "Conduct internal peer review",
+ "description": "Have findings reviewed by another auditor before client delivery.",
+ "priority": "critical",
+ "category": "QA"
+ },
+ {
+ "title": "Verify fix implementations",
+ "description": "Review all fixes and confirm they address the root cause without introducing new issues.",
+ "priority": "critical",
+ "category": "Verification"
+ },
+ {
+ "title": "Update finding statuses",
+ "description": "Mark all findings as Fixed, Partially Fixed, Acknowledged, or Disputed.",
+ "priority": "critical",
+ "category": "Reporting"
+ },
+ {
+ "title": "Write executive summary",
+ "description": "Summarize overall security posture, key risks, and recommendations.",
+ "priority": "critical",
+ "category": "Reporting"
+ },
+ {
+ "title": "Document audit limitations",
+ "description": "Clearly state scope boundaries, time constraints, and what wasn't reviewed.",
+ "priority": "important",
+ "category": "Reporting"
+ },
+ {
+ "title": "Provide deployment recommendations",
+ "description": "Suggest monitoring, incident response, and post-deployment security measures.",
+ "priority": "important",
+ "category": "Recommendations"
+ },
+ {
+ "title": "Schedule final walkthrough",
+ "description": "Review findings with client team and answer technical questions.",
+ "priority": "important",
+ "category": "Delivery"
+ },
+ {
+ "title": "Archive audit materials",
+ "description": "Securely store PoCs, notes, and tooling output for future reference.",
+ "priority": "nice-to-have",
+ "category": "Process"
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ "Build a personal vulnerability checklist: Maintain your own list of patterns based on past audits and public exploits. Update it after every engagement.",
+ "Read the code multiple times with different lenses: First pass for understanding, second for logic errors, third for edge cases, fourth for economic attacks.",
+ "Always question trust assumptions: Admin keys get compromised, oracles fail, external protocols get hacked. Test what happens when trusted components misbehave.",
+ "Write PoCs for every medium+ finding: A working exploit removes all doubt about severity and helps clients prioritize fixes.",
+ "Study past exploits weekly: Follow rekt.news, DeFiHackLabs, and post-mortems. Most vulnerabilities are variations of known patterns."
+ ],
+ "conclusion": "Master smart contract security and join the elite ranks of blockchain auditors.",
+ "relatedResources": []
+ }
 }

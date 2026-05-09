@@ -26,9 +26,9 @@ The fundamental aim of supporting users, resolving their issues with compassion 
 
 - **User Query Response:** Addressing inquiries forms the backbone of this role. Interactions primarily occur in public channels like Discord and Telegram, and occasionally through private ticketing systems such as Intercom.
 - **Technical Troubleshooting:** Assisting users with a variety of technical issues, including:
-    - "My transaction is stuck."
-    - "I can't see my [tokens](/what-is-a-token) in my wallet."
-    - "How do I bridge my assets to a [Layer 2](/guide-to-layer-2s)?"
+ - "My transaction is stuck."
+ - "I can't see my [tokens](/what-is-a-token) in my wallet."
+ - "How do I bridge my assets to a [Layer 2](/guide-to-layer-2s)?"
 - **Support Documentation Creation:** Developing and updating a knowledge base featuring FAQs, tutorials, and step-by-step guides to facilitate user self-service.
 - **Scam Identification and Reporting:** Vigilantly monitoring community channels for scams and phishing attempts, and issuing alerts to the community.
 - **Feedback Synthesis:** Acting as the "voice of the user" by systematically gathering, categorizing, and relaying user issues to product and engineering teams.
@@ -50,5 +50,4 @@ This role serves as an excellent entry point for aspiring professionals looking 
 3. **Establish a Reputation for Helpfulness:** Consistently provide accurate, friendly responses to user inquiries. Your contributions will get noticed by the core team and community managers.
 4. **Progress from Helper to Moderator to Support Staff:** This trajectory is common. Organizations often promote their most helpful community members to moderator roles, which can lead to paid support positions.
 
-A career in Web3 customer support places you at the forefront of technological innovation, making decentralized technology more user-friendly. This role presents challenges but also offers significant impact for those who possess the right mix of empathy, communication skills, and technical curiosity.
-
+A career in Web3 customer support places you leading technological innovation, making decentralized technology more user-friendly. This role presents challenges but also offers significant impact for those who possess the right mix of empathy, communication skills, and technical curiosity.

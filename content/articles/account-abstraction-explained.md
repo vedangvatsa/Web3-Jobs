@@ -13,14 +13,14 @@ lastUpdated: "2026-04-29"
 
 For [Web3](/what-is-web3) to reach mass adoption, it must simplify the user experience. The current complexity surrounding [crypto wallets](/how-to-choose-a-crypto-wallet) creates a significant barrier. Concepts such as seed phrases, gas fees, and signing transactions can be daunting for the average user. **Account Abstraction (AA)**, particularly through the technical proposal **EIP-4337**, addresses these issues by enhancing user accounts to be smarter, more flexible, and user-friendly.
 
-This article breaks down Account Abstraction, especially EIP-4337, and its implications for the future of Web3. For [smart contract](/what-are-smart-contracts) developers and full-stack builders, grasping AA is vital for crafting next-generation user experiences.
+This article breaks down Account Abstraction, especially EIP-4337, and its implications for the future of Web3. For [smart contract](/what-are-smart-contracts) developers and full-stack builders, grasping AA is vital for crafting modern user experiences.
 
 ### The Problem: Limitations of Externally Owned Accounts
 
 Ethereum currently operates with two primary account types:
 
 1. **Externally Owned Accounts (EOAs)**: These wallets, including popular ones like MetaMask and Ledger, are controlled by private keys. Users must initiate all transactions and pay gas fees in ETH. While simple to understand, they lack flexibility. Losing a private key results in permanent loss of funds.
-   
+
 2. **Contract Accounts (Smart Contracts)**: These accounts run on code and lack private keys. They execute logic only when called by an EOA or another contract.
 
 The primary issue is that only EOAs can initiate transactions. Users must manage private keys and maintain ETH for gas fees, creating several user experience challenges:
@@ -38,7 +38,7 @@ Past proposals for Account Abstraction necessitated changes to Ethereum's core p
 This proposal introduces a separate mempool for a new object type called `UserOperation`. It establishes several new roles in the Ethereum ecosystem:
 
 1. **Smart Wallets (or Smart Accounts)**: This smart contract represents the user's account. It can have arbitrary verification logic instead of a seed phrase. For example, it could require multi-signature approval from different devices, allow recovery through trusted friends, or use biometric authentication like Face ID.
-   
+
 2. **UserOperations**: When users perform actions, their smart wallets generate a `UserOperation` object, detailing their intent (e.g., "execute the `swap` function on Uniswap with specified parameters"). This object is sent to the dedicated mempool.
 
 3. **Bundlers**: These special nodes function as block builders within this new system. They collect `UserOperation` objects from the mempool, bundle them, and submit them as a single transaction to a global smart contract known as the `EntryPoint`.
@@ -70,4 +70,3 @@ Despite the advancements presented by EIP-4337, several challenges remain for wi
 - **Wallet Adoption**: Users will need to transition from existing EOA wallets to new smart contract wallets. This process will likely unfold gradually, with wallet providers like MetaMask integrating smart account features alongside traditional EOAs.
 
 - **Developer Education**: dApp developers must understand how to use the new capabilities of Account Abstraction effectively, particularly Paymasters, to enhance user experiences.
-
