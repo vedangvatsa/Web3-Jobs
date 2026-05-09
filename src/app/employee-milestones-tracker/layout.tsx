@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
  title: 'Employee 30-60-90 Day Plan | Free Milestones Tracker',
- description: 'Create a structured 30-60-90 day plan for new hires. Track employee milestones and align on goals to foster career progression with our free tool.',
+ description: 'Create a structured 30-60-90 day plan for new hires. Track employee milestones and align on goals to support career progression with our free tool.',
  alternates: {
   canonical: '/employee-milestones-tracker',
  },
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  twitter: {
   card: 'summary_large_image',
   title: 'Employee 30-60-90 Day Plan | Free Milestones Tracker',
-  description: 'Create structured 30-60-90 day plans for new hires. Track employee milestones, align on goals, and foster career progression with our free milestone tracking tool.',
+  description: 'Create structured 30-60-90 day plans for new hires. Track employee milestones, align on goals, and support career progression with our free milestone tracking tool.',
   images: ['/api/og?type=default&title=Employee%20Milestones%20Tracker'],
  },
 };

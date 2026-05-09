@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
  title: 'Company Culture Guide Builder',
- description: 'A free tool to help you define and document your company culture. Create a comprehensive guide to share your values and communication norms.',
+ description: 'A free tool to help you define and document your company culture. Create a complete guide to share your values and communication norms.',
  alternates: {
   canonical: '/company-culture-guide',
  },
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  twitter: {
   card: 'summary_large_image',
   title: 'Company Culture Guide Builder',
-  description: 'Define and document your company culture with our free builder. Create a comprehensive guide to share your values, communication norms, and team rituals to attract aligned talent.',
+  description: 'Define and document your company culture with our free builder. Create a complete guide to share your values, communication norms, and team rituals to attract aligned talent.',
   images: ['/api/og?type=default&title=Company%20Culture%20Guide%20Builder'],
  },
 };
