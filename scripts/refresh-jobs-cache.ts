@@ -14,17 +14,31 @@ interface GetroBoard {
   defaultCompany?: string; // fallback when content doesn't contain company name
 }
 
+// Getro SSR returns the 20 most-recently-posted jobs in __NEXT_DATA__.
+// With an 8-hour cron + 30-day cache window this is sufficient to capture
+// all new postings unless a board publishes >20 jobs in a single 8-hour window.
 const GETRO_BOARDS: GetroBoard[] = [
+  // --- VC portfolio boards ---
   { url: 'https://jobs.dragonfly.xyz/jobs', defaultCompany: 'Dragonfly' },
+  { url: 'https://jobs.polychain.capital/jobs', defaultCompany: 'Polychain Capital' },
+  { url: 'https://jobs.electriccapital.com/jobs', defaultCompany: 'Electric Capital' },
+  { url: 'https://jobs.blockchaincapital.com/jobs', defaultCompany: 'Blockchain Capital' },
+  { url: 'https://jobs.variant.fund/jobs', defaultCompany: 'Variant' },
+  { url: 'https://jobs.dcg.co/jobs', defaultCompany: 'DCG' },
+  { url: 'https://jobs.framework.ventures/jobs', defaultCompany: 'Framework Ventures' },
+  { url: 'https://jobs.multicoin.capital/jobs', defaultCompany: 'Multicoin Capital' },
+  { url: 'https://jobs.spartangroup.io/jobs', defaultCompany: 'Spartan Group' },
+  { url: 'https://jobs.archetype.fund/jobs', defaultCompany: 'Archetype' },
+  { url: 'https://nascent.getro.com/jobs', defaultCompany: 'Nascent' },
+  { url: 'https://jobs.placeholder.vc/jobs', defaultCompany: 'Placeholder' },
+  // --- Ecosystem boards ---
   { url: 'https://jobs.arbitrum.io/jobs', defaultCompany: 'Arbitrum' },
   { url: 'https://jobs.avax.network/jobs', defaultCompany: 'Avalanche' },
   { url: 'https://jobs.solana.com/jobs', defaultCompany: 'Solana' },
-  { url: 'https://jobs.multicoin.capital/jobs', defaultCompany: 'Multicoin Capital' },
   { url: 'https://coinbase.getro.com/jobs', defaultCompany: 'Coinbase' },
-  { url: 'https://jobs.spartangroup.io/jobs', defaultCompany: 'Spartan Group' },
 ];
 
-const FEED_TIMEOUT_MS = 8000;
+const FEED_TIMEOUT_MS = 15000;
 
 // Normalize variant company names to a canonical form
 const COMPANY_ALIASES: Record<string, string> = {
@@ -146,9 +160,9 @@ async function refreshJobsCache() {
         let added = 0;
         jobsData.forEach((job: any) => {
           const title = cleanTitle(job.title || '');
-          const rawCompany = job.company?.name || board.defaultCompany;
+          const rawCompany = job.organization?.name || board.defaultCompany;
           const company = rawCompany ? normalizeCompany(rawCompany) : undefined;
-          const link = job.application_url || job.job_url || job.url;
+          const link = job.url || job.application_url || job.job_url;
           
           if (link && title && company && !title.includes('*') && title.split(' ').length <= 15 && !title.toLowerCase().includes('bounty')) {
             const key = createUniqueKey(title, company);
@@ -158,7 +172,7 @@ async function refreshJobsCache() {
                 title,
                 company,
                 link,
-                date: job.published_at || job.updated_at || new Date().toISOString(),
+                date: job.createdAt ? new Date(job.createdAt * 1000).toISOString() : new Date().toISOString(),
                 source: board.url,
               });
               added++;
