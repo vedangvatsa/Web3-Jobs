@@ -629,6 +629,7 @@ async function refreshJobsCache() {
     'crusoe', 'florida street', 'wyoming stable token commission',
     'katana',          // Restaurant chain, not web3
     'fuse energy',     // Energy company, not web3
+    'ashby',           // ATS software, not web3 (leaks through VC feeds)
   ]);
 
   const BLOCKED_TITLE_KEYWORDS = [
