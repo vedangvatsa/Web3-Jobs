@@ -19,6 +19,8 @@ const GREENHOUSE_BOARDS = [
   'worldcoin','wormholecrypto','jupiterexchange',
   'hashgraph','algorand','stellar','iota','tezos','polkadot',
   'binance','kucoin','gateio','crypto','ftx','huobi',
+  'falconx','gsrmarkets','jumpcrypto','dvtrading','alpaca','dfinity','immunefi','polychaincapital',
+  'sei','magic','openzeppelin','helium','janestreet','galaxy','grayscale','genesis','foundry',
 ];
 
 const ASHBY_ORGS = [
@@ -43,6 +45,8 @@ const ASHBY_ORGS = [
   'fireblocks','anchorage','bitgo','copper','cobo',
   'nansen','messari','dune','flipside','token-terminal',
   'eigenlayer','etherfi','renzo','puffer','kelp-dao',
+  'biconomy',
+  'dapper','protocol','blockworks','cyberconnect',
 ];
 
 const LEVER_COMPANIES = [
@@ -63,6 +67,8 @@ const LEVER_COMPANIES = [
   'celestia','monad','berachain','movement-labs',
   'wormhole','layerzero-labs','axelar',
   'eigen-labs','etherfi','puffer','renzo',
+  'coins','certik',
+  'coinmarketcap','zerion','aragon',
 ];
 
 function cleanHtml(html) {
