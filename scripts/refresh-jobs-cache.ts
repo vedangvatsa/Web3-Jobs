@@ -110,16 +110,16 @@ async function refreshJobsCache() {
   try {
     if (fs.existsSync(cachePath)) {
       const existing: CachedJob[] = JSON.parse(fs.readFileSync(cachePath, 'utf-8'));
-      const ninetyDaysAgo = new Date();
-      ninetyDaysAgo.setDate(ninetyDaysAgo.getDate() - 90);
+      const thirtyDaysAgo = new Date();
+      thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
       
       existing.forEach(job => {
-        if (new Date(job.date) > ninetyDaysAgo) {
+        if (new Date(job.date) > thirtyDaysAgo) {
           const key = createUniqueKey(job.title, job.company);
           jobMap.set(key, job);
         }
       });
-      console.log(`📦 Loaded ${jobMap.size} existing jobs from cache (after 90-day filter)`);
+      console.log(`📦 Loaded ${jobMap.size} existing jobs from cache (after 30-day filter)`);
     }
   } catch (e) {
     console.warn('⚠️ Could not read existing cache, starting fresh');
@@ -614,10 +614,10 @@ async function refreshJobsCache() {
   // Convert to array and sort by date
   let allJobs = Array.from(jobMap.values());
 
-  // Apply 90-day filter
-  const ninetyDaysAgo = new Date();
-  ninetyDaysAgo.setDate(ninetyDaysAgo.getDate() - 90);
-  allJobs = allJobs.filter(job => new Date(job.date) > ninetyDaysAgo);
+  // Apply 30-day filter
+  const thirtyDaysAgo = new Date();
+  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+  allJobs = allJobs.filter(job => new Date(job.date) > thirtyDaysAgo);
 
   // Filter out unwanted companies and non-tech roles
   const BLOCKED_COMPANIES = new Set([
