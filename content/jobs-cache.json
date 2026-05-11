@@ -1,5 +1,61 @@
 [
   {
+    "id": "4863104101",
+    "title": "Test Development Engineer Intern",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4863104101",
+    "date": "2026-05-11T01:57:35-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "88ddd5c0-0859-47ec-bd7a-2f8f7c4ecd7b",
+    "title": "/BizDev (Mantra Engine)",
+    "company": "MANTRA",
+    "link": "https://jobs.lever.co/mantra/88ddd5c0-0859-47ec-bd7a-2f8f7c4ecd7b",
+    "date": "2026-05-11T03:58:03.333Z",
+    "source": "Lever: MANTRA"
+  },
+  {
+    "id": "325278f0-eaaf-453e-902f-909ac0fe7a98",
+    "title": "Sanctions & CTF Investigator",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/325278f0-eaaf-453e-902f-909ac0fe7a98",
+    "date": "2026-05-11T03:48:40.610Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "7729861003",
+    "title": "Senior Strategy & Operations Manager, OKX SG",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7729861003",
+    "date": "2026-05-10T23:00:05-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "5993013004",
+    "title": "Vice President, Senior Quality Engineer (Automation)",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5993013004",
+    "date": "2026-05-10T22:48:55-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "4863089101",
+    "title": "Human Resources Operations Specialist- (12 Months Contractor - Maternity Cover)",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4863089101",
+    "date": "2026-05-10T22:35:17-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4863085101",
+    "title": "Head of Organization Development",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4863085101",
+    "date": "2026-05-10T22:19:28-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "78166027",
     "title": "(Senior) Benefits Manager",
     "company": "Chainlink",
@@ -458,6 +514,14 @@
   {
     "id": "7895311",
     "title": "Staff Motion Designer - MetaMask",
+    "company": "Consensys",
+    "link": "https://consensys.io/open-roles/7895311?gh_jid=7895311",
+    "date": "2026-05-08T12:42:31-04:00",
+    "source": "Greenhouse: Consensys"
+  },
+  {
+    "id": "7895311",
+    "title": "Staff UX Motion Designer - MetaMask",
     "company": "Consensys",
     "link": "https://consensys.io/open-roles/7895311?gh_jid=7895311",
     "date": "2026-05-08T12:42:31-04:00",
@@ -1456,6 +1520,14 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "4861335101",
+    "title": "Administration and Procurement Lead",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4861335101",
+    "date": "2026-05-07T05:12:36-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "https://jobs.lever.co/binance/b46a1b43-d138-408d-af45-de505982b47a",
     "title": "Binance Accelerator Programme - Campaigns Operations, Binance Square",
     "company": "Binance",
@@ -1494,6 +1566,14 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7726893003",
     "date": "2026-05-07T02:08:47-04:00",
     "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "9c15239a-ff63-4885-ae49-e120b71023f0",
+    "title": "Animoca Minds Intern",
+    "company": "Animoca Brands",
+    "link": "https://jobs.lever.co/animocabrands/9c15239a-ff63-4885-ae49-e120b71023f0",
+    "date": "2026-05-07T05:04:39.333Z",
+    "source": "Lever: Animoca Brands"
   },
   {
     "id": "8401818002",
@@ -3574,6 +3654,14 @@
     "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4692093005",
     "date": "2026-05-04T11:18:06-04:00",
     "source": "Greenhouse: DV Trading"
+  },
+  {
+    "id": "7866374",
+    "title": "People Consultant",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7866374",
+    "date": "2026-05-04T10:43:21-04:00",
+    "source": "Greenhouse: Stripe"
   },
   {
     "id": "3d25a6ac-30b7-424c-a93c-54ccf2e538b6",
@@ -24306,6 +24394,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "7748114",
+    "title": "Forward Deployed AI Accelerator, Marketing",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7748114",
+    "date": "2026-04-16T01:25:58-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "88105512-a438-4fb4-b3bb-a31726042949",
     "title": "Compliance Training and Documentation Officer",
     "company": "Coins.ph",
@@ -24896,29 +24992,5 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7779294",
     "date": "2026-04-11T07:51:06-04:00",
     "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7697203003",
-    "title": "Product Manager (Crypto Core)",
-    "company": "Bitso",
-    "link": "https://bitso.com/jobs/7697203003?gh_jid=7697203003",
-    "date": "2026-04-10T19:59:44-04:00",
-    "source": "Greenhouse: Bitso"
-  },
-  {
-    "id": "73966162",
-    "title": "Payments & Privacy Counsel",
-    "company": "Tephra",
-    "link": "https://jobs.ashbyhq.com/rain/98e49658-7018-43fc-8fa5-a061cccbf51b",
-    "date": "2026-04-10T23:22:37.000Z",
-    "source": "https://jobs.archetype.fund/jobs"
-  },
-  {
-    "id": "178c4bed-36ac-4705-97fa-48ed08d5876d",
-    "title": "Senior Software Engineer, Frontend | Product Engineering",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/178c4bed-36ac-4705-97fa-48ed08d5876d",
-    "date": "2026-04-10T22:27:32.236+00:00",
-    "source": "Ashby: TRM Labs"
   }
 ]
