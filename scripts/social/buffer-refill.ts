@@ -218,21 +218,9 @@ async function run() {
     while (slots.length < count) {
       for (const h of hours) {
         // Convert IST hour to UTC: IST = UTC+5:30
-        // So IST 1:00 = UTC 19:30 (prev day), IST 9:00 = UTC 3:30, IST 17:00 = UTC 11:30
+        // JS Date automatically handles negative hours/minutes by rolling back the calendar day correctly.
         const slot = new Date(d);
-        const utcHour = h < 6 ? (h - 6 + 24) : (h - 6);
-        const utcMin = h < 6 ? 30 : 30;
-        slot.setUTCHours(utcHour, utcMin, 0, 0);
-
-        // If IST hour < 6, slot is on previous UTC day but we started from current day,
-        // so for IST 1am, the UTC time is 19:30 previous day
-        if (h < 6) {
-          // IST 1am = UTC 19:30 same calendar day minus 1
-          // Actually: IST 1:00 Mar 31 = UTC 19:30 Mar 30
-          // But we want future slots, so if IST 1am today already passed, skip
-          slot.setUTCHours(19, 30, 0, 0);
-          slot.setDate(slot.getDate() - 1);
-        }
+        slot.setUTCHours(h - 5, -30, 0, 0);
 
         const now = new Date();
         if (slot > now && slot > strictlyAfter && slots.length < count) {
