@@ -255,7 +255,6 @@ async function run() {
       const idx = (state.linkedin.lastIndex + 1 + i) % schedule.length;
       const post = schedule[idx];
       const textHash = hashText(post.linkedin.text);
-      const dueAt = slots[i].toISOString();
 
       // Skip if we already posted this exact content recently
       if (state.linkedin.postedHashes.includes(textHash)) {
@@ -263,6 +262,7 @@ async function run() {
         continue;
       }
 
+      const dueAt = slots[scheduled].toISOString();
       console.log(`  ${post.id} at ${dueAt}`);
       const uniqueText = post.linkedin.text;
       const result = await schedulePost(
@@ -276,6 +276,7 @@ async function run() {
 
       if (result.success) {
         state.linkedin.postedHashes.push(textHash);
+        state.linkedin.lastScheduledAt = dueAt;
         scheduled++;
       } else if (result.duplicate) {
         // Mark as posted so we skip it next time
@@ -286,7 +287,6 @@ async function run() {
     // ALWAYS advance the index, even if all posts failed
     // This prevents the stuck loop where we keep retrying the same posts
     state.linkedin.lastIndex = (state.linkedin.lastIndex + toSchedule) % schedule.length;
-    state.linkedin.lastScheduledAt = slots[slots.length - 1]?.toISOString() || '';
     console.log(`  LinkedIn index advanced to: ${state.linkedin.lastIndex} (scheduled ${scheduled}/${toSchedule})`);
   } else {
     console.log('LinkedIn queue OK, no refill needed');
@@ -305,7 +305,6 @@ async function run() {
       // Instagram uses offset 3 for shuffling
       const shuffledIdx = (baseIdx + 3) % schedule.length;
       const post = schedule[shuffledIdx];
-      const dueAt = slots[i].toISOString();
 
       // Skip posts without imageUrl or videoUrl — Instagram requires media
       if (!post.imageUrl && !post.videoUrl) {
@@ -322,6 +321,7 @@ async function run() {
         continue;
       }
 
+      const dueAt = slots[scheduled].toISOString();
       console.log(`  ${post.id} at ${dueAt}`);
       const result = await schedulePost(
         INSTAGRAM_ID,
@@ -334,6 +334,7 @@ async function run() {
 
       if (result.success) {
         state.instagram.postedHashes.push(textHash);
+        state.instagram.lastScheduledAt = dueAt;
         scheduled++;
       } else if (result.duplicate) {
         state.instagram.postedHashes.push(textHash);
@@ -342,15 +343,15 @@ async function run() {
 
     // ALWAYS advance the index
     state.instagram.lastIndex = (state.instagram.lastIndex + toSchedule) % schedule.length;
-    state.instagram.lastScheduledAt = slots[slots.length - 1]?.toISOString() || '';
     console.log(`  Instagram index advanced to: ${state.instagram.lastIndex} (scheduled ${scheduled}/${toSchedule}, skipped ${skippedNoImage} no-image)`);
   } else {
     console.log('Instagram queue OK, no refill needed');
   }
 
-  // Keep postedHashes from growing unbounded (keep last 100)
-  state.linkedin.postedHashes = state.linkedin.postedHashes.slice(-100);
-  state.instagram.postedHashes = state.instagram.postedHashes.slice(-100);
+  // Keep postedHashes from growing unbounded and preventing looping
+  // Keep fewer items than the total schedule length (e.g. 20) so the loop can start over
+  state.linkedin.postedHashes = state.linkedin.postedHashes.slice(-20);
+  state.instagram.postedHashes = state.instagram.postedHashes.slice(-20);
 
   saveState(state);
   console.log('\nRefill complete. State saved.');
