@@ -201,7 +201,7 @@ async function run() {
   // Generate time slots starting from a given time
   const generateSlots = (count: number, startTimeStr: string): Date[] => {
     const slots: Date[] = [];
-    const hours = [1, 9, 17]; // IST hours
+    const hours = [1, 5, 9, 13, 17, 21]; // IST hours (4-hour gap)
     
     let d = new Date();
     let strictlyAfter = new Date();
