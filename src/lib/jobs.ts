@@ -40,19 +40,6 @@ function cleanJobTitle(title: string, company?: string): string {
   }
  }
 
- // Try removing " - suffix" at end, but only if the remaining part is
- // a meaningful title (at least 2 words and 8 chars)
- const dashIdx = cleaned.search(/\s+-\s+/);
- if (dashIdx > 0) {
-  const before = cleaned.substring(0, dashIdx).trim();
-  if (before.split(/\s+/).length >= 2 && before.length >= 8) {
-   cleaned = before;
-  }
- }
-
- // Remove [anything]
- cleaned = cleaned.replace(/\s*\[.*?\]\s*/g, ' ').trim();
-
  // If entire title is wrapped in parens, unwrap it: "(Core Dev)" → "Core Dev"
  if (/^\(.*\)$/.test(cleaned)) {
   cleaned = cleaned.slice(1, -1).trim();
@@ -63,6 +50,25 @@ function cleanJobTitle(title: string, company?: string): string {
  if (withoutParens.length > 0 && (!company || withoutParens.toLowerCase() !== company.toLowerCase())) {
   cleaned = withoutParens;
  }
+
+ // Remove [anything]
+ cleaned = cleaned.replace(/\s*\[.*?\]\s*/g, ' ').trim();
+
+ // Try removing " - suffix" at end, but only if the remaining part is
+ // a meaningful title (at least 2 words and 8 chars)
+ const dashIdx = cleaned.search(/\s+-\s+/);
+ if (dashIdx > 0) {
+  const before = cleaned.substring(0, dashIdx).trim();
+  if (before.split(/\s+/).length >= 2 && before.length >= 8) {
+   cleaned = before;
+  }
+ }
+
+ // Clean up leading slashes, dashes, or pipes (e.g. "/BizDev" -> "BizDev")
+ cleaned = cleaned.replace(/^[\/\-\|\\\s]+/, '').trim();
+
+ // Clean up trailing dashes
+ cleaned = cleaned.replace(/[-–]$/, '').trim();
 
  // Collapse whitespace
  cleaned = cleaned.replace(/\s+/g, ' ').trim();
