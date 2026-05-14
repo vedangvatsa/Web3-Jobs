@@ -105,11 +105,16 @@ function truncateTitle(title) {
     const before = title.slice(0, comma).trim();
     if (before.split(/\s+/).length >= 2 && before.length >= 8) title = before;
   }
-  // Drop after " - " (only if result is meaningful)
+  // Drop the short side of " - " splits
   const dash = title.indexOf(' - ');
   if (dash > 0) {
     const before = title.slice(0, dash).trim();
-    if (before.split(/\s+/).length >= 2 && before.length >= 8) title = before;
+    const after = title.slice(dash + 3).trim();
+    if (before.split(/\s+/).length >= 2 && before.length >= 8) {
+      title = before; // before is meaningful, drop suffix
+    } else if (after.split(/\s+/).length >= 2 && after.length >= 8) {
+      title = after;  // before is a short qualifier like "Mid", keep after
+    }
   }
   // Drop parenthetical suffixes
   const paren = title.indexOf('(');
