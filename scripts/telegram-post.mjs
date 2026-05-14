@@ -99,12 +99,18 @@ function pickJobs(count) {
 
 // ── Shorten long titles: drop qualifiers after , or - or ( ──
 function truncateTitle(title) {
-  // Drop after comma
+  // Drop after comma (only if result is meaningful: 2+ words, 8+ chars)
   const comma = title.indexOf(',');
-  if (comma > 0) title = title.slice(0, comma).trim();
-  // Drop after " - " (but not hyphens inside words)
+  if (comma > 0) {
+    const before = title.slice(0, comma).trim();
+    if (before.split(/\s+/).length >= 2 && before.length >= 8) title = before;
+  }
+  // Drop after " - " (only if result is meaningful)
   const dash = title.indexOf(' - ');
-  if (dash > 0) title = title.slice(0, dash).trim();
+  if (dash > 0) {
+    const before = title.slice(0, dash).trim();
+    if (before.split(/\s+/).length >= 2 && before.length >= 8) title = before;
+  }
   // Drop parenthetical suffixes
   const paren = title.indexOf('(');
   if (paren > 10) title = title.slice(0, paren).trim();
