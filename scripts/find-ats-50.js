@@ -20,7 +20,7 @@ async function main() {
   }
 
   // Parse existing
-  const fetchScript = fs.readFileSync('LOCAL_PATH/scripts/refresh-jobs-cache.ts', 'utf8');
+  const fetchScript = fs.readFileSync('process.cwd() + '/scripts/refresh-jobs-cache.ts', 'utf8');
   const existingStrings = new Set();
   const matches = fetchScript.match(/'[^']+'/g);
   if (matches) {

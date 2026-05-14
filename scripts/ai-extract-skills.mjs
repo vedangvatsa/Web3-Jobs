@@ -1,7 +1,7 @@
 import fs from 'fs';
 import dotenv from 'dotenv';
 
-dotenv.config({ path: 'LOCAL_PATH/.env.local' });
+dotenv.config({ path: '.env.local' });
 
 const API_KEY = process.env.GEMINI_API_KEY;
 if (!API_KEY) { console.error('No GEMINI_API_KEY'); process.exit(1); }
@@ -73,7 +73,7 @@ async function classify(title, desc) {
 }
 
 async function main() {
-  const csvContent = fs.readFileSync('LOCAL_PATH/jobs-extracted.csv', 'utf8');
+  const csvContent = fs.readFileSync('process.cwd() + '/jobs-extracted.csv', 'utf8');
   const rows = parseCSV(csvContent);
   const header = rows[0];
   const data = rows.slice(1);
@@ -86,7 +86,7 @@ async function main() {
   let errors = 0;
   
   // Save progress periodically
-  const progressFile = 'LOCAL_PATH/ai-extract-progress.json';
+  const progressFile = 'process.cwd() + '/ai-extract-progress.json';
   let progress = {};
   if (fs.existsSync(progressFile)) {
     progress = JSON.parse(fs.readFileSync(progressFile, 'utf8'));
@@ -139,8 +139,8 @@ async function main() {
   const esc = v => { const s = String(v||'-'); if (s.includes(',') || s.includes('"')) return '"'+s.replace(/"/g,'""')+'"'; return s; };
   const out = [header.map(h => esc(h)).join(',')];
   for (const row of data) out.push(row.map(v => esc(v)).join(','));
-  fs.writeFileSync('LOCAL_PATH/jobs-extracted.csv', out.join('\n'));
-  fs.writeFileSync('LOCAL_PATH/jobs-extracted.csv', out.join('\n'));
+  fs.writeFileSync('process.cwd() + '/jobs-extracted.csv', out.join('\n'));
+  fs.writeFileSync('jobs-extracted.csv', out.join('\n'));
   
   console.log(`Done! ${processed} jobs classified, ${errors} errors`);
   

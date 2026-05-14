@@ -33,7 +33,7 @@ async function testSend() {
     });
   }
 
-  const testEmail = ['REMOVED_EMAIL'];
+  const testEmail = [process.env.TEST_EMAIL || 'test@example.com'];
   
   console.log(`Sending test email to ${testEmail} with ${newJobs.length} jobs...`);
   
