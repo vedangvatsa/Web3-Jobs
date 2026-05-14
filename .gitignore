@@ -70,3 +70,6 @@ firestore-debug.log
 *.pfx
 secrets/
 credentials/
+
+# Subscriber email data (encrypted versions *.enc are committed instead)
+scripts/manual-emails*.json
