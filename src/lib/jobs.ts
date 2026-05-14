@@ -54,13 +54,15 @@ function cleanJobTitle(title: string, company?: string): string {
  // Remove [anything]
  cleaned = cleaned.replace(/\s*\[.*?\]\s*/g, ' ').trim();
 
- // Try removing " - suffix" at end, but only if the remaining part is
- // a meaningful title (at least 2 words and 8 chars)
+ // Handle " - " splits: keep the meaningful side
  const dashIdx = cleaned.search(/\s+-\s+/);
  if (dashIdx > 0) {
   const before = cleaned.substring(0, dashIdx).trim();
+  const after = cleaned.substring(dashIdx).replace(/^\s+-\s+/, '').trim();
   if (before.split(/\s+/).length >= 2 && before.length >= 8) {
-   cleaned = before;
+   cleaned = before; // before is meaningful, drop suffix
+  } else if (after.split(/\s+/).length >= 2 && after.length >= 8) {
+   cleaned = after;  // before is a short qualifier like "Mid", keep after
   }
  }
 
