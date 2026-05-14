@@ -170,10 +170,10 @@ async function extractSkills(path, skillIdx, label) {
 
 async function main() {
   console.log('Extracting CVin.bio skills (field 9: Skills)...');
-  const cvin = await extractSkills('/Users/vedang/Documents/cvinbio-jobs-extracted.csv', 9, 'CVin.bio');
+  const cvin = await extractSkills('path/to/local', 9, 'CVin.bio');
   
   console.log('Extracting Web3 Jobs skills (field 5: Skills)...');
-  const web3 = await extractSkills('LOCAL_PATH/jobs-extracted.csv', 5, 'Web3 Jobs');
+  const web3 = await extractSkills('jobs-extracted.csv', 5, 'Web3 Jobs');
   
   // Merge — normalize keys to group case variants
   const mergeMap = {};
@@ -210,8 +210,8 @@ async function main() {
     ].join(','));
   });
   
-  fs.writeFileSync('/Users/vedang/Documents/skills-by-platform.csv', rows.join('\n'));
-  console.log(`\n✅ Written /Users/vedang/Documents/skills-by-platform.csv (${merged.length} unique skills)`);
+  fs.writeFileSync('path/to/local', rows.join('\n'));
+  console.log(`\n✅ Written path/to/local (${merged.length} unique skills)`);
   
   // Print top 30
   console.log('\nTop 30 Skills (combined):');

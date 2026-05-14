@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const fetchScript = fs.readFileSync('LOCAL_PATH/scripts/fetch-new-jobs.mjs', 'utf8');
+const fetchScript = fs.readFileSync('process.cwd() + '/scripts/fetch-new-jobs.mjs', 'utf8');
 
 // Rough regex to find string literals in arrays
 const existingStrings = new Set();

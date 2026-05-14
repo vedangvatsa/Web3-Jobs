@@ -25,7 +25,7 @@ async function checkUrl(url) {
 
 async function main() {
   console.log('Reading jobs-extracted.csv...');
-  const csvContent = fs.readFileSync('LOCAL_PATH/jobs-extracted.csv', 'utf8');
+  const csvContent = fs.readFileSync('jobs-extracted.csv', 'utf8');
   const rows = parseCSV(csvContent);
   const header = rows[0];
   const jobs = rows.slice(1);
@@ -64,11 +64,11 @@ async function main() {
     lines.push(row.map(esc).join(','));
   }
   
-  fs.writeFileSync('LOCAL_PATH/jobs-extracted.csv', lines.join('\n'));
+  fs.writeFileSync('jobs-extracted.csv', lines.join('\n'));
   console.log(`Successfully updated jobs-extracted.csv with ${validJobs.length} active jobs.`);
   
   // Save log of removed jobs
-  fs.writeFileSync('LOCAL_PATH/scripts/removed-404-jobs.json', JSON.stringify(removedJobs, null, 2));
+  fs.writeFileSync('scripts/removed-404-jobs.json', JSON.stringify(removedJobs, null, 2));
 }
 
 main();

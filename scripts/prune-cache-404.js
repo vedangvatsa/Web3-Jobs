@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const CACHE_FILE = 'LOCAL_PATH/content/jobs-cache.json';
+const CACHE_FILE = 'content/jobs-cache.json';
 
 async function checkUrl(url) {
   try {

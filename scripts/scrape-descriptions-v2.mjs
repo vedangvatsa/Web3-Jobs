@@ -219,7 +219,7 @@ async function fetchDescription(url) {
 }
 
 async function main() {
-  const rl = readline.createInterface({ input: fs.createReadStream('/Users/vedang/Downloads/HashtagWeb3.csv'), crlfDelay: Infinity });
+  const rl = readline.createInterface({ input: fs.createReadStream('path/to/local'), crlfDelay: Infinity });
   let ln = 0;
   const rows = [];
   let headers = '';
@@ -267,10 +267,10 @@ async function main() {
   };
   const outRows = [headers];
   for (const row of rows) outRows.push(row.fields.map(f => esc(f)).join(','));
-  fs.writeFileSync('/Users/vedang/Downloads/HashtagWeb3.csv', outRows.join('\n'));
+  fs.writeFileSync('path/to/local', outRows.join('\n'));
   
   const finalGood = rows.filter(r => r.desc.length >= 100 && !isNavJunk(r.desc)).length;
-  console.log(`✅ Updated /Users/vedang/Downloads/HashtagWeb3.csv`);
+  console.log(`✅ Updated path/to/local`);
   console.log(`   Good descriptions: ${finalGood}/${rows.length} (${(finalGood/rows.length*100).toFixed(1)}%)`);
   console.log(`   Newly scraped: ${success}`);
 }

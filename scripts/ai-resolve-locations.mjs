@@ -64,8 +64,8 @@ async function main() {
   }
 
   console.log('Collecting unmapped locations...');
-  const cvinUnmapped = await collectUnmapped('/Users/vedang/Documents/cvinbio-jobs-extracted.csv', 4);
-  const web3Unmapped = await collectUnmapped('LOCAL_PATH/jobs-extracted.csv', 7);
+  const cvinUnmapped = await collectUnmapped('path/to/local', 4);
+  const web3Unmapped = await collectUnmapped('process.cwd() + '/jobs-extracted.csv', 7);
   
   // Merge
   const allUnmapped = {};
@@ -95,7 +95,7 @@ async function main() {
   }
 
   // Save AI mapping
-  fs.writeFileSync('LOCAL_PATH/scripts/_ai_location_map.json', JSON.stringify(aiMap, null, 2));
+  fs.writeFileSync('process.cwd() + '/scripts/_ai_location_map.json', JSON.stringify(aiMap, null, 2));
   console.log(`\n✅ AI mapped ${Object.keys(aiMap).length} locations. Saved to _ai_location_map.json`);
 }
 

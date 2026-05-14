@@ -29,7 +29,7 @@ async function main() {
   }
 
   // Parse existing to NEVER output duplicates
-  const fetchScript = fs.readFileSync('LOCAL_PATH/scripts/refresh-jobs-cache.ts', 'utf8');
+  const fetchScript = fs.readFileSync('process.cwd() + '/scripts/refresh-jobs-cache.ts', 'utf8');
   const existingSlugs = new Set();
   const matches = fetchScript.match(/board:\s*'([^']+)'/g);
   if (matches) {
@@ -82,7 +82,7 @@ async function main() {
     
     // Periodically save to avoid losing data
     if (found.length > 0) {
-       fs.writeFileSync('LOCAL_PATH/found-200.json', JSON.stringify(found, null, 2));
+       fs.writeFileSync('process.cwd() + '/found-200.json', JSON.stringify(found, null, 2));
     }
     
     if (found.length >= 200) {

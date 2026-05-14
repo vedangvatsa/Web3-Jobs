@@ -130,7 +130,7 @@ async function fetchGeneric(url) {
 
 async function main() {
   // Read CSV
-  const rl = readline.createInterface({ input: fs.createReadStream('/Users/vedang/Downloads/HashtagWeb3.csv'), crlfDelay: Infinity });
+  const rl = readline.createInterface({ input: fs.createReadStream('path/to/local'), crlfDelay: Infinity });
   let ln = 0, headers = '';
   const rows = [];
   for await (const line of rl) {
@@ -215,11 +215,11 @@ async function main() {
   const esc = v => { const s = String(v||''); if (s.includes(',')||s.includes('"')||s.includes('\n')) return '"'+s.replace(/"/g,'""')+'"'; return s; };
   const outRows = [headers];
   for (const row of rows) outRows.push(row.fields.map(f => esc(f)).join(','));
-  fs.writeFileSync('/Users/vedang/Downloads/HashtagWeb3.csv', outRows.join('\n'));
+  fs.writeFileSync('path/to/local', outRows.join('\n'));
   
   const good = rows.filter(r => r.desc.length >= 100).length;
   const bad = rows.filter(r => r.desc.length < 100).length;
-  console.log(`✅ Updated /Users/vedang/Downloads/HashtagWeb3.csv`);
+  console.log(`✅ Updated path/to/local`);
   console.log(`   Good descriptions: ${good}/${rows.length} (${(good/rows.length*100).toFixed(1)}%)`);
   console.log(`   Still missing: ${bad} (${(bad/rows.length*100).toFixed(1)}%)`);
   console.log(`   Fixed: GH=${ghFixed} Ashby=${ashbyFixed} Lever=${leverFixed} Generic=${genFixed}`);

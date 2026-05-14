@@ -44,7 +44,7 @@ function isAISummary(desc) {
 }
 
 async function main() {
-  const content = fs.readFileSync('LOCAL_PATH/jobs-extracted.csv', 'utf8');
+  const content = fs.readFileSync('jobs-extracted.csv', 'utf8');
   const rows = parseCSV(content);
   const header = rows[0];
   const data = rows.slice(1);
@@ -215,7 +215,7 @@ async function main() {
   const esc = v => { const s = String(v||'-'); if (s.includes(',')||s.includes('"')||s.includes('\n')) return '"'+s.replace(/"/g,'""')+'"'; return s; };
   const out = [header.map(h => esc(h)).join(',')];
   for (const row of data) out.push(row.map(v => esc(v)).join(','));
-  fs.writeFileSync('LOCAL_PATH/jobs-extracted.csv', out.join('\n'));
+  fs.writeFileSync('jobs-extracted.csv', out.join('\n'));
 
   // Final stats
   const stillAI = data.filter(r => isAISummary((r[4]||'').trim())).length;
