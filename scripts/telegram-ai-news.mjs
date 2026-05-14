@@ -53,8 +53,7 @@ function loadPosted() {
 }
 
 function savePosted(posted) {
-  const arr = [...posted].slice(-300);
-  fs.writeFileSync(POSTED_LOG, JSON.stringify(arr));
+  fs.writeFileSync(POSTED_LOG, JSON.stringify([...posted]));
 }
 
 // ── Fetch all RSS news ──
@@ -243,15 +242,34 @@ async function postOnce() {
   const allNews = await fetchAllNews();
   console.log(`  Found ${allNews.length} unique stories`);
 
+  // Filter out already posted (by link AND by headline similarity)
   const posted = loadPosted();
-  const fresh = allNews.filter(n => !posted.has(n.link));
+  const postedHeadlines = [...posted].filter(p => !p.startsWith('http'));
+  const postedLinks = [...posted].filter(p => p.startsWith('http'));
+
+  function getKeywordsForDedup(text) {
+    const stop = new Set(['this','that','with','from','what','where','when','the','and','for','artificial','intelligence','says','could','will','would','about']);
+    return text.toLowerCase().replace(/[^a-z0-9]/g, ' ').split(/\s+/).filter(w => w.length > 3 && !stop.has(w));
+  }
+  function isHeadlineSimilar(a, b) {
+    const wa = new Set(getKeywordsForDedup(a));
+    const wb = new Set(getKeywordsForDedup(b));
+    if (!wa.size || !wb.size) return false;
+    let overlap = 0;
+    for (const w of wa) if (wb.has(w)) overlap++;
+    return overlap / Math.min(wa.size, wb.size) > 0.5;
+  }
+
+  const fresh = allNews.filter(n => {
+    if (postedLinks.includes(n.link)) return false;
+    if (postedHeadlines.some(h => isHeadlineSimilar(n.title, h))) return false;
+    return true;
+  });
   console.log(`  ${fresh.length} not yet posted`);
 
   if (fresh.length < STORIES_PER_POST) {
-    console.log('  Not enough fresh stories, resetting history');
-    posted.clear();
-    savePosted(posted);
-    return postOnce();
+    console.log('  Not enough fresh stories, skipping this run');
+    return;
   }
 
   console.log('Asking Gemini to filter & summarize...');
@@ -271,7 +289,11 @@ async function postOnce() {
   const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Singapore' });
   console.log(`Posted ${stories.length} stories at ${now} | Message ID: ${result.result.message_id}`);
 
-  for (const s of stories) if (s.link) posted.add(s.link);
+  // Mark as posted (store both link and headline for cross-source dedup)
+  for (const s of stories) {
+    if (s.link) posted.add(s.link);
+    if (s.headline) posted.add(s.headline);
+  }
   savePosted(posted);
 }
 
