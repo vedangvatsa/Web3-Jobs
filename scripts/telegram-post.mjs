@@ -20,9 +20,11 @@ const CHANNEL_ID = process.env.TELEGRAM_CHANNEL_ID;
 const THREAD_ID = process.env.TELEGRAM_THREAD_ID;
 const JOBS_PER_POST = 10;
 const CTA_URL = 'https://hashtagweb3.com?utm_source=telegram&utm_medium=social&utm_campaign=daily_jobs';
-const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-posted.json');
+// Use channel-specific state files so channel + group posts don't share cooldowns
+const channelSlug = (CHANNEL_ID || '').replace(/[^a-zA-Z0-9]/g, '');
+const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-posted-${channelSlug}.json`);
 const POST_COOLDOWN_HOURS = 8;
-const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-posted-last.json');
+const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-posted-last-${channelSlug}.json`);
 
 if (!BOT_TOKEN || !CHANNEL_ID) {
   console.error('Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHANNEL_ID');
