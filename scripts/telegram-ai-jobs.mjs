@@ -18,7 +18,9 @@ try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }
 const BOT_TOKEN = process.env.TELEGRAM_AI_BOT_TOKEN;
 const CHANNEL_ID = process.env.TELEGRAM_AI_CHANNEL_ID;
 const JOBS_PER_POST = 5;
+const POST_COOLDOWN_HOURS = 7;
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-ai-jobs-posted.json');
+const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-ai-jobs-last.json');
 
 if (!BOT_TOKEN || !CHANNEL_ID) {
   console.error('Missing TELEGRAM_AI_BOT_TOKEN or TELEGRAM_AI_CHANNEL_ID');
@@ -197,6 +199,16 @@ async function sendToTelegram(message) {
 
 // ── Main ──
 async function postOnce() {
+  // ── 7-hour cooldown ──
+  try {
+    const last = JSON.parse(fs.readFileSync(LAST_POST_FILE, 'utf8'));
+    const hoursSince = (Date.now() - new Date(last.timestamp).getTime()) / 3.6e6;
+    if (hoursSince < POST_COOLDOWN_HOURS && !process.argv.includes('--force')) {
+      console.log(`⏳ Last posted ${hoursSince.toFixed(1)}h ago. Cooldown is ${POST_COOLDOWN_HOURS}h. Skipping.`);
+      return;
+    }
+  } catch {}
+
   console.log('Fetching AI jobs...');
   const allJobs = await fetchAllJobs();
   console.log(`  ${allJobs.length} unique AI jobs`);
@@ -250,6 +262,9 @@ async function postOnce() {
   // Mark as posted
   for (const j of selected) posted.add(j.link);
   savePosted(posted);
+
+  // Save cooldown timestamp
+  fs.writeFileSync(LAST_POST_FILE, JSON.stringify({ timestamp: new Date().toISOString() }));
 }
 
 postOnce().catch(e => { console.error(e); process.exit(1); });

@@ -23,7 +23,7 @@ const CTA_URL = 'https://hashtagweb3.com?utm_source=telegram&utm_medium=social&u
 // Use channel-specific state files so channel + group posts don't share cooldowns
 const channelSlug = (CHANNEL_ID || '').replace(/[^a-zA-Z0-9]/g, '');
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-posted-${channelSlug}.json`);
-const POST_COOLDOWN_HOURS = 8;
+const POST_COOLDOWN_HOURS = 7;
 const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-posted-last-${channelSlug}.json`);
 
 if (!BOT_TOKEN || !CHANNEL_ID) {
