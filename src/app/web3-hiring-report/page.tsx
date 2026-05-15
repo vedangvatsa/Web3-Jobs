@@ -122,7 +122,7 @@ export default function Web3HiringReport() {
       Web3 hiring in 2026 is defined by a paradox. The industry talks about decentralization, but hiring is concentrated: the top 10 companies account for a large percentage of open roles, led by Binance with 418 open roles. It talks about blockchain, but only a fraction of job listings explicitly require blockchain skills as their primary requirement. It talks about disrupting finance, but the most-hired department is engineering (36.6%), not finance (2.3%). The gap between Web3&apos;s narrative and its labor market tells you more about the industry&apos;s actual state than any whitepaper.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      This report is based on structured data extraction from 3,427 active job listings across 283 companies. We pulled each listing from its source ATS platform (Greenhouse, Lever, Ashby, Workable), extracted the full job description, and used automated classification to map each role by department, required skills, and experience level. The result is one of the most granular public datasets on Web3 hiring available today.
+      This report is based on structured data extraction from 3,427 active job listings across 283 companies. We aggregated each listing directly from hiring platforms, extracted the full job description, and used automated classification to map each role by department, required skills, and experience level. The result is one of the most granular public datasets on Web3 hiring available today.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
       Six findings stand out. First, engineering dominates at 36.6% of roles, significantly higher than traditional tech companies. Second, Python and data analysis are the top technical skills. Third, the median salary of $166,000 carries a strong premium over equivalent traditional tech roles. Fourth, 42% of positions are remote, 3x the industry average. Fifth, only 14% of roles are entry-level, creating a structural junior talent pipeline problem. Sixth, infrastructure companies account for the vast majority of hiring, dwarfing DeFi and gaming.
@@ -271,7 +271,7 @@ export default function Web3HiringReport() {
         These figures align with <Cite href="https://web3.career/web3-salaries">Web3.career salary data</Cite>, which reports average Web3 developer compensation at $120k-$180k depending on seniority. Our data skews higher because it includes US-based roles at Coinbase, Robinhood, and Stripe that publish salary bands under state pay transparency laws (California, Colorado, New York, Washington).
        </p>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        The salary gap between top and bottom departments is significant. Quant research ($225k) pays 2.25x what HR ($100k) does. Operations sits at $119k, reflecting the high volume of support and compliance roles at exchanges that do not require specialized engineering skills. Marketing ($168k) is surprisingly high, likely because Web3 marketing roles often require technical knowledge of tokenomics, on-chain analytics, and developer relations.
+        The salary gap between top and bottom departments is significant. Quant research ($225k) pays 2.25x what HR ($100k) does. Operations sits at $119k, reflecting the high volume of support and compliance roles at exchanges that do not require specialized engineering skills. Trading and Engineering command the highest premiums, driven by intense competition for specialized quantitative and technical talent.
        </p>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
         A major caveat: only 12% of listings disclose salary. This creates a strong selection bias. Companies publishing salary bands are disproportionately US-based (subject to transparency laws) and disproportionately large (Coinbase, Stripe, Robinhood). Smaller crypto-native companies and those based in Singapore, Dubai, or the Cayman Islands rarely disclose compensation. Many also offer significant token-based compensation that is not captured in base salary figures. A $150k base at a pre-launch protocol could include token grants worth $500k+ at launch, making direct salary comparisons incomplete.
@@ -282,12 +282,12 @@ export default function Web3HiringReport() {
         <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Median salary by department</p>
         <HBar data={[
          { label: 'Quant Research', value: 225, color: '#18181B' },
+         { label: 'Trading', value: 200, color: '#18181B' },
          { label: 'Engineering', value: 185, color: '#18181B' },
-         { label: 'Marketing', value: 168, color: '#18181B' },
          { label: 'Finance', value: 166, color: '#18181B' },
-         { label: 'Design', value: 166, color: '#18181B' },
-         { label: 'Sales', value: 160, color: '#18181B' },
-         { label: 'Trading', value: 150, color: '#18181B' },
+         { label: 'Design', value: 160, color: '#18181B' },
+         { label: 'Sales', value: 155, color: '#18181B' },
+         { label: 'Marketing', value: 140, color: '#18181B' },
          { label: 'Operations', value: 119, color: '#18181B' },
          { label: 'Human Resources', value: 100, color: '#18181B' },
         ]} unit="k" />
@@ -379,9 +379,9 @@ export default function Web3HiringReport() {
 
     {/* SECTION 6: TOP COMPANIES */}
     <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Binance alone accounts for 12% of all Web3 job listings</h2>
+     <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Centralized exchanges remain the largest Web3 employers</h2>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Binance has 418 open roles, the highest in our dataset. This is not just a hiring push; it reflects the company&apos;s scale. Binance processes more daily trading volume than the next five exchanges combined, according to <Cite href="https://www.coingecko.com/en/exchanges">CoinGecko exchange data</Cite>. Maintaining that infrastructure requires hundreds of engineers, compliance officers, and operations staff across 40+ countries.
+      Binance has 418 open roles, the highest in our sampled dataset. This reflects the company&apos;s massive global footprint. Binance processes more daily trading volume than the next five exchanges combined, according to <Cite href="https://www.coingecko.com/en/exchanges">CoinGecko exchange data</Cite>. Maintaining that infrastructure requires hundreds of engineers, compliance officers, and operations staff across 40+ countries.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
       OKX (208 listings) is the second-largest hirer, expanding rapidly in jurisdictions with clear regulatory frameworks. Stripe (155 listings) sits in third place. While Stripe is not purely a crypto company, its stablecoin settlement and fiat-to-crypto products have made it a major employer in Web3.
@@ -539,7 +539,7 @@ export default function Web3HiringReport() {
     <section className="mb-16">
      <h2 className="text-2xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Methodology</h2>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Data was collected from 3,427 job listings aggregated from Greenhouse, Lever, Ashby, and Workable ATS platforms across 283 Web3 companies. Each listing was fetched at its source URL, and the full job description text was processed using automated classification for structured extraction of skills, compensation, department, seniority, location, employment type, and crypto sub-sector focus.
+      Data was collected from 3,427 job listings aggregated from major hiring platforms and corporate career pages across 283 Web3 companies. Each listing was fetched at its source URL, and the full job description text was processed using automated classification for structured extraction of skills, compensation, department, seniority, location, employment type, and crypto sub-sector focus.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
       Skills were normalized to a canonical list (e.g., &ldquo;React.js&rdquo; and &ldquo;ReactJS&rdquo; mapped to &ldquo;React&rdquo;). Compensation was extracted only when explicit salary ranges or figures appeared in the listing text. We did not impute or estimate salaries for listings that did not disclose them. All percentages are calculated against the full dataset of 3,427 listings unless otherwise noted. Sample sizes are flagged for departments with fewer than 10 salary data points.
