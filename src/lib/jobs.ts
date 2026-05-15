@@ -87,7 +87,25 @@ export async function getJobs(): Promise<Job[]> {
   }));
 
   // Filter out non-Web3 companies
-  const web3Jobs = jobs.filter(job => !BLOCKED_COMPANIES.has(job.company.toLowerCase()));
+  const web3Jobs = jobs.filter(job => {
+   if (BLOCKED_COMPANIES.has(job.company.toLowerCase())) return false;
+   const titleLower = job.title.toLowerCase();
+   
+   // Filter out common ATS placeholder/test job titles
+   if (
+    titleLower.includes('default template') || 
+    titleLower.includes('new job template') ||
+    titleLower.includes('test job') ||
+    titleLower.includes('(sample)') ||
+    titleLower === 'test' ||
+    titleLower === 'testextrenal' ||
+    titleLower === '[template] default template'
+   ) {
+    return false;
+   }
+   
+   return true;
+  });
 
   // Apply 30-day freshness filter
   const thirtyDaysAgo = new Date();
