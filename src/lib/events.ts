@@ -7,11 +7,15 @@ export interface Web3Event {
   description: string;
   startDate: string;
   endDate: string;
+  city?: string;
+  country?: string;
   location: string;
+  month?: string;
   url: string;
-  website: string | null;
+  website?: string | null;
   coverImage: string | null;
-  twitter: string | null;
+  twitter?: string | null;
+  source?: string;
 }
 
 export async function getEvents(): Promise<Web3Event[]> {
