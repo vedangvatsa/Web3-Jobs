@@ -1,5 +1,61 @@
 [
   {
+    "id": "78869280",
+    "title": "Founding Hype Lead",
+    "company": "Octet",
+    "link": "https://octetproof.com/careers/founding-hype-lead",
+    "date": "2026-05-15T08:08:50.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "016f3af9-236f-40ba-b982-613399c77a18",
+    "title": "Security Engineer, Security Operation & Vulnerability Monitoring",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/016f3af9-236f-40ba-b982-613399c77a18",
+    "date": "2026-05-15T08:00:10.197Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "7735191003",
+    "title": "Senior/Staff Software Engineer, Liquidity Platform, Risk & Analytics",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7735191003",
+    "date": "2026-05-15T03:44:33-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "4867451101",
+    "title": "AML Manager, Turkey",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867451101",
+    "date": "2026-05-15T03:10:46-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4867407101",
+    "title": "Blockchain Risk Algorithm Intern",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867407101",
+    "date": "2026-05-15T02:32:36-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4867379101",
+    "title": "Mobile Development Engineer Intern",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867379101",
+    "date": "2026-05-15T02:07:50-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4867388101",
+    "title": "Senior Compliance Audit Manager",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867388101",
+    "date": "2026-05-15T01:25:10-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "4857723101",
     "title": "LATAM Business Development Assistant",
     "company": "Bybit",
@@ -230,6 +286,14 @@
     "link": "https://jobs.ashbyhq.com/Elliptic/63248d12-5abc-49a1-9083-7b910a6092c6",
     "date": "2026-05-14T14:48:21.361+00:00",
     "source": "Ashby: Elliptic"
+  },
+  {
+    "id": "1801f2c6-fee7-4ec2-b37d-b3dd08a3e3ed",
+    "title": "Senior Frontend Engineer - Web3 Wallet",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/1801f2c6-fee7-4ec2-b37d-b3dd08a3e3ed",
+    "date": "2026-05-14T14:47:27.739Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "7734441003",
@@ -27344,21 +27408,5 @@
     "link": "https://jobs.lever.co/animocabrands/c7cd4219-13ba-4716-8106-beb66785b2ae",
     "date": "2026-04-15T09:02:13.618Z",
     "source": "Lever: Animoca Brands"
-  },
-  {
-    "id": "7701559003",
-    "title": "Overseas Operations Manager",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7701559003",
-    "date": "2026-04-15T03:09:50-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/81ee372e-2c14-44ef-aafe-ac6a9dda1a7d",
-    "title": "Operations Specialist",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/81ee372e-2c14-44ef-aafe-ac6a9dda1a7d",
-    "date": "2026-04-15T07:08:40.000Z",
-    "source": "Binance"
   }
 ]
