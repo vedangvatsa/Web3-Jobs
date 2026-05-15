@@ -12,6 +12,38 @@ const CHEVRON = (
   </div>
 );
 
+// ISO 3166-1 alpha-2 → full country name
+const COUNTRY_NAMES: Record<string, string> = {
+  AE: 'United Arab Emirates', AF: 'Afghanistan', AR: 'Argentina', AT: 'Austria',
+  AU: 'Australia', BD: 'Bangladesh', BE: 'Belgium', BG: 'Bulgaria', BN: 'Brunei',
+  BO: 'Bolivia', BR: 'Brazil', BS: 'Bahamas', CA: 'Canada', CH: 'Switzerland',
+  CL: 'Chile', CN: 'China', CO: 'Colombia', CR: 'Costa Rica', CZ: 'Czechia',
+  DE: 'Germany', DK: 'Denmark', DO: 'Dominican Republic', EC: 'Ecuador',
+  EE: 'Estonia', EG: 'Egypt', ES: 'Spain', FI: 'Finland', FR: 'France',
+  GB: 'United Kingdom', GE: 'Georgia', GF: 'French Guiana', GH: 'Ghana',
+  GR: 'Greece', GT: 'Guatemala', HK: 'Hong Kong', HR: 'Croatia', HU: 'Hungary',
+  ID: 'Indonesia', IE: 'Ireland', IL: 'Israel', IN: 'India', IS: 'Iceland',
+  IT: 'Italy', JM: 'Jamaica', JO: 'Jordan', JP: 'Japan', KE: 'Kenya',
+  KR: 'South Korea', KW: 'Kuwait', KZ: 'Kazakhstan', LB: 'Lebanon', LK: 'Sri Lanka',
+  LT: 'Lithuania', LU: 'Luxembourg', LV: 'Latvia', MA: 'Morocco', MC: 'Monaco',
+  MX: 'Mexico', MY: 'Malaysia', NG: 'Nigeria', NL: 'Netherlands', NO: 'Norway',
+  NZ: 'New Zealand', PA: 'Panama', PE: 'Peru', PH: 'Philippines', PK: 'Pakistan',
+  PL: 'Poland', PR: 'Puerto Rico', PT: 'Portugal', QA: 'Qatar', RO: 'Romania',
+  RS: 'Serbia', RU: 'Russia', RW: 'Rwanda', SA: 'Saudi Arabia', SE: 'Sweden',
+  SG: 'Singapore', SI: 'Slovenia', SK: 'Slovakia', TH: 'Thailand', TN: 'Tunisia',
+  TR: 'Turkey', TW: 'Taiwan', TZ: 'Tanzania', UA: 'Ukraine', UG: 'Uganda',
+  US: 'United States', UY: 'Uruguay', UZ: 'Uzbekistan', VE: 'Venezuela',
+  VN: 'Vietnam', ZA: 'South Africa',
+};
+
+function normalizeCountry(raw: string): string {
+  if (!raw) return '';
+  const upper = raw.trim().toUpperCase();
+  if (COUNTRY_NAMES[upper]) return COUNTRY_NAMES[upper];
+  // Already a full name
+  return raw.trim();
+}
+
 export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
   const [searchTerm, setSearchTerm] = useState('');
   const [countryFilter, setCountryFilter] = useState<string | null>(null);
@@ -20,26 +52,22 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
   const countries = useMemo(() => {
     const set = new Set<string>();
     initialEvents.forEach(e => {
-      if (e.country) set.add(e.country);
+      if (e.country) set.add(normalizeCountry(e.country));
       else if (e.location === 'Online' || e.location?.toLowerCase().includes('online')) set.add('Online');
     });
     return Array.from(set).sort();
   }, [initialEvents]);
 
-  const months = useMemo(() => {
-    const set = new Set<string>();
-    initialEvents.forEach(e => {
-      if (e.month) set.add(e.month);
-      else if (e.startDate) {
-        const d = new Date(e.startDate);
-        set.add(d.toLocaleString('en-US', { month: 'long', year: 'numeric' }));
-      }
-    });
-    // Sort chronologically
-    return Array.from(set).sort((a, b) => new Date(a).getTime() - new Date(b).getTime());
-  }, [initialEvents]);
+  const DATE_RANGES = [
+    { label: 'Today', value: 'today' },
+    { label: 'This Week', value: 'week' },
+    { label: 'This Month', value: 'month' },
+    { label: 'Next Month', value: 'next-month' },
+    { label: 'This Year', value: 'year' },
+  ];
 
   const filteredEvents = useMemo(() => {
+    const now = new Date();
     return initialEvents.filter(event => {
       // Search
       const q = searchTerm.toLowerCase();
@@ -53,18 +81,41 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
         if (countryFilter === 'Online') {
           matchesCountry = event.location === 'Online' || event.location?.toLowerCase().includes('online');
         } else {
-          matchesCountry = event.country === countryFilter || event.location?.includes(countryFilter);
+          matchesCountry = normalizeCountry(event.country) === countryFilter || event.location?.includes(countryFilter);
         }
       }
 
-      // Month
-      let matchesMonth = true;
+      // Date range
+      let matchesDate = true;
       if (monthFilter) {
-        const eventMonth = event.month || new Date(event.startDate).toLocaleString('en-US', { month: 'long', year: 'numeric' });
-        matchesMonth = eventMonth === monthFilter;
+        const eventDate = new Date(event.startDate);
+        const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+        
+        switch (monthFilter) {
+          case 'today':
+            matchesDate = eventDate >= today && eventDate < new Date(today.getTime() + 86400000);
+            break;
+          case 'week': {
+            const weekEnd = new Date(today.getTime() + 7 * 86400000);
+            matchesDate = eventDate >= today && eventDate < weekEnd;
+            break;
+          }
+          case 'month':
+            matchesDate = eventDate.getMonth() === now.getMonth() && eventDate.getFullYear() === now.getFullYear();
+            break;
+          case 'next-month': {
+            const nm = now.getMonth() === 11 ? 0 : now.getMonth() + 1;
+            const ny = now.getMonth() === 11 ? now.getFullYear() + 1 : now.getFullYear();
+            matchesDate = eventDate.getMonth() === nm && eventDate.getFullYear() === ny;
+            break;
+          }
+          case 'year':
+            matchesDate = eventDate.getFullYear() === now.getFullYear();
+            break;
+        }
       }
 
-      return matchesSearch && matchesCountry && matchesMonth;
+      return matchesSearch && matchesCountry && matchesDate;
     });
   }, [initialEvents, searchTerm, countryFilter, monthFilter]);
 
@@ -114,8 +165,8 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             className={SELECT_STYLE}
           >
             <option value="">All Dates</option>
-            {months.map(m => (
-              <option key={m} value={m}>{m}</option>
+            {DATE_RANGES.map(r => (
+              <option key={r.value} value={r.value}>{r.label}</option>
             ))}
           </select>
           {CHEVRON}

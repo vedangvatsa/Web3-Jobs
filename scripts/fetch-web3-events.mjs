@@ -531,9 +531,10 @@ async function fetchWeb3Events() {
   const validEvents = Array.from(allEventsMap.values())
     .filter(e => {
       if (!e.startDate) return false;
-      if ((e.endDate || e.startDate) < now) return false;
-      // Luma geo events need Web3 filtering; all other sources are already relevant.
-      if (e.source === 'luma' && !isWeb3Relevant(e.name, e.description)) return false;
+      // Strict future-only: startDate must be today or later
+      if (e.startDate < now) return false;
+      // Apply Web3 relevance filter to ALL sources
+      if (!isWeb3Relevant(e.name, e.description)) return false;
       return true;
     })
     .map(e => {
