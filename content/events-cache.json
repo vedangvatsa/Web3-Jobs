@@ -261,7 +261,7 @@
     "country": "CA",
     "location": "Barrie, CA",
     "url": "https://www.eventbrite.ca/e/cw-coops-may-15th-tickets-1987098950452",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181828871%2F1661488753253%2F1%2Foriginal.20260409-223112?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.437&fp-y=0.691&s=ccb0638ff095746c45f36273b9f4abb6",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181828871%2F1661488753253%2F1%2Foriginal.20260409-223112?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.437&fp-y=0.691&s=cfc31fd013a6bfbecff89df47dd0189f",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -378,20 +378,6 @@
     "month": "May 2026"
   },
   {
-    "id": "eb-1989237746649",
-    "name": "Female Founders Breakfast  #PortoSIMConference",
-    "description": "Female Founders Club is an informal networking event for Female Entrepreneurs to exchange opportunities and lessons of life.",
-    "startDate": "2026-05-15",
-    "endDate": "2026-06-20",
-    "city": "Porto",
-    "country": "PT",
-    "location": "Porto, PT",
-    "url": "https://www.eventbrite.com/e/female-founders-breakfast-portosimconference-registration-1989237746649",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184320507%2F1063958557333%2F1%2Foriginal.20260511-175536?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1601045a7dcf0f98a4e3a3a57630f3c1",
-    "source": "eventbrite",
-    "month": "May 2026"
-  },
-  {
     "id": "eb-1983152192593",
     "name": "Dextra Daps Live! Champagne Tour",
     "description": "Los Angeles",
@@ -504,58 +490,44 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/friends-of-kuala-lumpur/events/314102682/",
+    "id": "mu-314102682",
     "name": "Chill & Cheers Friday",
     "description": "✨ More Than Just a Friday Night ✨\n\nSome nights are simply unforgettable — not because of the place, but because of the people.\nEvery Friday, we create a space filled with laughter, music, beautiful co",
-    "startDate": "2026-05-15T11:00:00.000Z",
-    "endDate": "2026-05-15T11:00:00.000Z",
+    "startDate": "2026-05-15T19:00:00+08:00",
+    "endDate": "2026-05-15T19:00:00+08:00",
     "city": "Kuala lumpur",
     "country": "MY",
     "location": "Kuala lumpur, MY",
     "url": "https://www.meetup.com/friends-of-kuala-lumpur/events/314102682/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-2-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/bisakita/events/314400099/",
+    "id": "mu-314400099",
     "name": "First Look Presentation (An Introduction of UnFranchise Business) - Free Event",
     "description": "BISA would like to invite you on:\nFirst Look Presentation\nAn Introduction of UnFranchise Business\nMarket America\nFri, 15 May 2026\nMITEC KL\nAt 8-9 PM Kuala Lumpur\n[#SEACON2026](https://www.facebook.com",
-    "startDate": "2026-05-15T12:00:00.000Z",
-    "endDate": "2026-05-15T12:00:00.000Z",
+    "startDate": "2026-05-15T20:00:00+08:00",
+    "endDate": "2026-05-15T20:00:00+08:00",
     "city": "Kuala Lumpur",
     "country": "MY",
     "location": "Kuala Lumpur, MY",
     "url": "https://www.meetup.com/bisakita/events/314400099/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-2-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/startuplokal/events/314399860/",
+    "id": "mu-314399860",
     "name": "Malaysia Business Trip 2026",
     "description": "I would like to invite you on Malaysia Business Trip 2026 with this secial event\nThe Southeast Asia Convention 2026\n\nFrom 15-18 May 2026\nMITEC / Malaysia International Trade & Convention Centre in Kua",
-    "startDate": "2026-05-15T12:00:00.000Z",
-    "endDate": "2026-05-15T12:00:00.000Z",
+    "startDate": "2026-05-15T19:00:00+07:00",
+    "endDate": "2026-05-15T19:00:00+07:00",
     "city": "Kuala Lumpur",
     "country": "MY",
     "location": "Kuala Lumpur, MY",
     "url": "https://www.meetup.com/startuplokal/events/314399860/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-4-square.webp",
-    "source": "meetup",
-    "month": "May 2026"
-  },
-  {
-    "id": "mu-https://www.meetup.com/learnindonesianasia/events/314400243/",
-    "name": "Mega UBP / UnFranchise Business Presentation",
-    "description": "",
-    "startDate": "2026-05-15T12:00:00.000Z",
-    "endDate": "2026-05-15T12:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "TBA",
-    "url": "https://www.meetup.com/learnindonesianasia/events/314400243/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-3-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -574,30 +546,30 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/cordyket/events/314473982/",
+    "id": "mu-314473982",
     "name": "合一气功。免费（随喜乐捐）。在线。",
     "description": "免费（随喜乐捐）的在线合一气功课！\n\n“合一气功”是一套独特的、简单易学的，由CordyKet发现的气功，能释放负能量、提升积极能量，并激活所有的三个能量系统（生命力、气和普拉纳）在体内顺畅流动。\n\n合一气功与其他类型的气功的不同之处在于：\n\n人体中有两个不同的能量系统：\n普拉纳系统——普拉纳的能量在脉（nadis）和脉轮（chakras）中流动；\n气的系统——气在三个丹田和经络中流动。\n大部分气",
-    "startDate": "2026-05-15T13:00:00.000Z",
-    "endDate": "2026-05-15T13:00:00.000Z",
+    "startDate": "2026-05-15T21:00:00+08:00",
+    "endDate": "2026-05-15T21:00:00+08:00",
     "city": "",
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/cordyket/events/314473982/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-1-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/startuplokal/events/314400271/",
+    "id": "mu-314400271",
     "name": "Mega UBP / UnFranchise Businesa Presentation",
     "description": "BISA would like to invite you on:\nFirst Look Presentation\nAn Introduction of UnFranchise Business\nMarket America\nFri, 15 May 2026\nMITEC KL\nAt 8-9 PM Kuala Lumpur\n#SEACON2026\n\nRegister to:\n+65 93554952",
-    "startDate": "2026-05-15T13:00:00.000Z",
-    "endDate": "2026-05-15T13:00:00.000Z",
+    "startDate": "2026-05-15T20:00:00+07:00",
+    "endDate": "2026-05-15T20:00:00+07:00",
     "city": "Kuala Lumpur",
     "country": "MY",
     "location": "Kuala Lumpur, MY",
     "url": "https://www.meetup.com/startuplokal/events/314400271/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-4-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -1101,7 +1073,7 @@
     "country": "AE",
     "location": "دبي, AE",
     "url": "https://www.eventbrite.com/e/masaar-3-layan-cluster-launch-event-tickets-1986322265366",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181091486%2F2545929244361%2F1%2Foriginal.20260331-132858?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8c6edaa20b075fcbf91d2c8e64af1114",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181091486%2F2545929244361%2F1%2Foriginal.20260331-132858?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=549eff8409e482b296c3abc00514ecc6",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -1284,6 +1256,20 @@
     "location": "Aberdeen, HK",
     "url": "https://www.eventbrite.hk/e/wset-level-3-award-in-wines-tickets-1983759913302",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178183192%2F241683944419%2F1%2Foriginal.20260223-095546?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C68%2C1920%2C960&s=d11232b85bda32cbca333e98f7415394",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1988060992947",
+    "name": "AIA Vitality Hub | Kids (3-5yr) TaeKwanDo 跆拳道3-5歲幼兒班",
+    "description": "AIA Vitality Hub | Kids (3-5yr) TaeKwanDo\n跆拳道3-5歲幼兒班",
+    "startDate": "2026-05-16",
+    "endDate": "2026-05-16",
+    "city": "Central",
+    "country": "HK",
+    "location": "Central, HK",
+    "url": "https://www.eventbrite.hk/e/aia-vitality-hub-kids-3-5yr-taekwando-3-5-tickets-1988060992947",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1032933193%2F2646274941481%2F1%2Foriginal.20250517-030105?w=400&auto=format%2Ccompress&q=75&sharp=10&s=b7ded0a1b203f8a5a6c6ecdc6a6ea916",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -1536,6 +1522,34 @@
     "location": "Online",
     "url": "https://www.eventbrite.ca/e/crypto-clarity-workshop-tickets-1983403997749",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178124173%2F2992463928044%2F1%2Foriginal.20260222-030524?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1344%2C672&s=3f5902ed81654ad9377865627e675bbd",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989069918671",
+    "name": "Blockchain Fundamentals",
+    "description": "7-in-1 Course Flash Sale: Enroll now for just £24.99 (was £399) + FREE digital certificate",
+    "startDate": "2026-05-16",
+    "endDate": "2026-05-16",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.com/e/blockchain-fundamentals-tickets-1989069918671",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184090345%2F471732907117%2F1%2Foriginal.20260508-043256?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=259adc8e67e565e90fea1cf85ed61018",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1988886717712",
+    "name": "Blockchain & Cryptocurrency",
+    "description": "Master Blockchain fundamentals, explore Blockchain systems, and understand Blockchain applications in modern digital finance.",
+    "startDate": "2026-05-16",
+    "endDate": "2026-05-16",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.com/e/blockchain-cryptocurrency-tickets-1988886717712",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183881112%2F471732907117%2F1%2Foriginal.20260506-033348?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=23242148265361685fe0c76e3d652a9e",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -1956,20 +1970,6 @@
     "location": "Online",
     "url": "https://www.eventbrite.com/e/woman-of-fire-power-overflow-tickets-1989351341414",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184547380%2F127317727893%2F1%2Foriginal.20260513-215228?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.49&fp-y=0.036&s=77b503651b39a7e74ffa96007880aaed",
-    "source": "eventbrite",
-    "month": "May 2026"
-  },
-  {
-    "id": "eb-1511332970599",
-    "name": "The Young Victoria: Emily Blunt as Queen Victoria - Film History Livestream",
-    "description": "The Young Victoria: Emily Blunt as Queen Victoria - Film History Livestream. Hosted by Robert Kelleman - Washington, DC History & Culture.",
-    "startDate": "2026-05-16",
-    "endDate": "2026-05-16",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com/e/the-young-victoria-emily-blunt-as-queen-victoria-film-history-livestream-tickets-1511332970599",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F619587429%2F37309396322%2F1%2Foriginal.20231013-012508?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1%2C720%2C360&s=dcd3dfad58599474578f62d9fd3db234",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -2982,6 +2982,20 @@
     "month": "May 2026"
   },
   {
+    "id": "eb-1988750094067",
+    "name": "荃灣西如心酒店「長期住宿開放日」Nina Hotel Tsuen Wan West Long Stay Open Day",
+    "description": "Meet our specialists for a guided tour and discover the all-rounded facilities along with an array of enticing perks.",
+    "startDate": "2026-05-16",
+    "endDate": "2026-05-16",
+    "city": "Tsuen Wan",
+    "country": "HK",
+    "location": "Tsuen Wan, HK",
+    "url": "https://www.eventbrite.hk/e/nina-hotel-tsuen-wan-west-long-stay-open-day-registration-1988750094067",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183686008%2F491663022135%2F1%2Foriginal.20260504-083315?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ab890e91e234fdca49b336288287db35",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
     "id": "eb-1987894310395",
     "name": "Forest Retreat in Chaltbrunnental, Baselland",
     "description": "A confident walk towards your professional and personal goals!",
@@ -3738,30 +3752,44 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/kuala-lumpur-volleyball-meetup/events/314620112/",
-    "name": "Volleyball @ Pine Hills International School Kuala Lumpur Campus (Jalan Puchong)",
-    "description": "",
-    "startDate": "2026-05-16T02:00:00.000Z",
-    "endDate": "2026-05-16T02:00:00.000Z",
+    "id": "cmc-69e05ec4b22a767afc6cbcb2",
+    "name": "Arbitrum: Token Unlock",
+    "description": "Arbitrum unlocks approximately 0.93% of its released supply at 9:30 AM UTC.",
+    "startDate": "2026-05-16T00:00:00.000Z",
+    "endDate": "2026-05-16T00:00:00.000Z",
     "city": "",
     "country": "",
-    "location": "TBA",
+    "location": "Online",
+    "url": "https://defillama.com/unlocks/arbitrum",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314620112",
+    "name": "Volleyball @ Pine Hills International School Kuala Lumpur Campus (Jalan Puchong)",
+    "description": "",
+    "startDate": "2026-05-16T10:00:00+08:00",
+    "endDate": "2026-05-16T10:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
     "url": "https://www.meetup.com/kuala-lumpur-volleyball-meetup/events/314620112/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-3-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/my-inner-child-animal-plant-healing/events/314727572/",
+    "id": "mu-314727572",
     "name": "Discover AURA to heal & love MYself- for small group or personal consultation",
     "description": "**By appointment only- available to small group or personal consultation.**\n\n**Kindly make appointment for this special service- Whatsapp: +60197232112.**\n**Service charge: RM150 per pax.**\n\nThe flow ",
-    "startDate": "2026-05-16T02:00:00.000Z",
-    "endDate": "2026-05-16T02:00:00.000Z",
+    "startDate": "2026-05-16T10:00:00+08:00",
+    "endDate": "2026-05-16T10:00:00+08:00",
     "city": "Kuala Lumpur",
     "country": "my",
     "location": "Kuala Lumpur, my",
     "url": "https://www.meetup.com/my-inner-child-animal-plant-healing/events/314727572/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-4-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -3780,16 +3808,16 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/klboulderclub/events/314704719/",
+    "id": "mu-314704719",
     "name": "💜 Bouldering @ BUMP (Jaya One) 🧗 ✨Beginner Friendly✨ + Dinner 🍜",
     "description": "**\\#\\#\\# READ THIS CAREFULLY \\#\\#\\#**\n\nJoin us for an afternoon of Bouldering and a (optional) night of dinner, drinks, and good conversations! **🧗🍽️🍻**\n\n**The official event starts at 2:30 pm. Mor",
-    "startDate": "2026-05-16T06:30:00.000Z",
-    "endDate": "2026-05-16T06:30:00.000Z",
+    "startDate": "2026-05-16T14:30:00+08:00",
+    "endDate": "2026-05-16T14:30:00+08:00",
     "city": "Kuala Lumpur",
     "country": "MY",
     "location": "Kuala Lumpur, MY",
     "url": "https://www.meetup.com/klboulderclub/events/314704719/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-1-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -3822,16 +3850,16 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/absolutely-free-dance-lessons-saturdays-salsa-bachata/events/314346937/",
+    "id": "mu-314346937",
     "name": "Absolutely FREE DANCE CLASSES, Salsa, Bachata, Kizomba & More",
     "description": "💃 Absolutely **FREE** Dance Lessons & Social | Salsa | Bachata | Kizomba |Zouk and more!\n\nEvery Saturday @ HRC Sky Lounge\nNu Sentral Mall | Level 6 | KL Sentral\nHosted by KL Social Society (KLSS)\n\nLo",
-    "startDate": "2026-05-16T11:00:00.000Z",
-    "endDate": "2026-05-16T11:00:00.000Z",
+    "startDate": "2026-05-16T19:00:00+08:00",
+    "endDate": "2026-05-16T19:00:00+08:00",
     "city": "Kuala Lumpur",
     "country": "my",
     "location": "Kuala Lumpur, my",
     "url": "https://www.meetup.com/absolutely-free-dance-lessons-saturdays-salsa-bachata/events/314346937/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-5-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -4704,20 +4732,6 @@
     "month": "May 2026"
   },
   {
-    "id": "eb-1061968088139",
-    "name": "KirtanJOY",
-    "description": "Enter the world of kirtan - the world of peace, love and true happiness.",
-    "startDate": "2026-05-17",
-    "endDate": "2026-05-17",
-    "city": "Berlin",
-    "country": "DE",
-    "location": "Berlin, DE",
-    "url": "https://www.eventbrite.de/e/kirtanjoy-tickets-1061968088139",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131780213%2F1970886482253%2F1%2Foriginal.20250918-193632?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=d7510ed3389104980f01d49fef2413e3",
-    "source": "eventbrite",
-    "month": "May 2026"
-  },
-  {
     "id": "eb-1984656336528",
     "name": "Wisdom of Yoga -  online series with Carlos Pomeda",
     "description": "Join us for the full series or a specific date. 6-class series about the wisdom of Yoga.",
@@ -5306,30 +5320,56 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/absolute-living/events/314503086/",
-    "name": "Wellness Preview",
-    "description": "Its just a Wellness Presentation. Please bring friends and family. There will be light refreshments served too. The event is free.",
-    "startDate": "2026-05-17T06:00:00.000Z",
-    "endDate": "2026-05-17T06:00:00.000Z",
-    "city": "Ipoh",
-    "country": "my",
-    "location": "Ipoh, my",
-    "url": "https://www.meetup.com/absolute-living/events/314503086/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-4-square.webp",
+    "id": "cmc-69f0d98333ae890e5315bf17",
+    "name": "APEcoin.dev: BAYC P2P Platform",
+    "description": "\"... we'll be updating the bayc shop to feature a p2p platform where vintage/deadstock/sold-out bayc physical collectibles and apparel...\"",
+    "startDate": "2026-05-17T00:00:00.000Z",
+    "endDate": "2026-05-17T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/apecoin/status/2048848220101771567",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314727573",
+    "description": "",
+    "startDate": "2026-05-17T10:00:00+08:00",
+    "endDate": "2026-05-17T10:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/kl-language-exchange/events/313907984/",
+    "id": "mu-314503086",
+    "name": "Wellness Preview",
+    "description": "Its just a Wellness Presentation. Please bring friends and family. There will be light refreshments served too. The event is free.",
+    "startDate": "2026-05-17T14:00:00+08:00",
+    "endDate": "2026-05-17T14:00:00+08:00",
+    "city": "Ipoh",
+    "country": "my",
+    "location": "Ipoh, my",
+    "url": "https://www.meetup.com/absolute-living/events/314503086/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-313907984",
     "name": "KL LANGUAGE EXCHANGE & INTERNATIONAL FRIENDS",
     "description": "Are you looking for a language exchange partner ? Or a venue where\nyou can practice and grow your target language ? Or you're just\ninterested in making new international friends ? Our community might\n",
-    "startDate": "2026-05-17T09:00:00.000Z",
-    "endDate": "2026-05-17T09:00:00.000Z",
+    "startDate": "2026-05-17T17:00:00+08:00",
+    "endDate": "2026-05-17T17:00:00+08:00",
     "city": "Kuala Lumpur",
     "country": "my",
     "location": "Kuala Lumpur, my",
     "url": "https://www.meetup.com/kl-language-exchange/events/313907984/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-2-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -5373,6 +5413,90 @@
     "url": "https://lu.ma/mmqp6xlw",
     "coverImage": "https://images.lumacdn.com/uploads/7j/f6e20fac-9821-440e-b172-e2bb2e72c301.jpg",
     "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
+    "description": "",
+    "startDate": "2026-05-17T16:00:00.000Z",
+    "endDate": "2026-05-17T16:00:00.000Z",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "location": "Belgrade, Serbia",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-may-belgrade-rs",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "May 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-informatics-and-applications-icia-2026",
+    "name": "International Conference on Informatics and Applications (ICIA)",
+    "description": "",
+    "startDate": "2026-05-17T16:00:00.000Z",
+    "endDate": "2026-05-17T16:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://conferenceindex.org/event/international-conference-on-informatics-and-applications-icia-2026-may-berlin-de",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "May 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-science-programming-and-secur",
+    "name": "International Conference on Computer Science, Programming and Security (ICCSPS)",
+    "description": "",
+    "startDate": "2026-05-17T16:00:00.000Z",
+    "endDate": "2026-05-17T16:00:00.000Z",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "location": "Belgrade, Serbia",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-science-programming-and-security-iccsps-2026-may-belgrade-rs",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "May 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-science-cybersecurity-and-inf",
+    "name": "International Conference on Computer Science, Cybersecurity and Information Technology (ICCSCIT)",
+    "description": "",
+    "startDate": "2026-05-17T16:00:00.000Z",
+    "endDate": "2026-05-17T16:00:00.000Z",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "location": "Belgrade, Serbia",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-science-cybersecurity-and-information-technology-iccscit-2026-may-belgrade-rs",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "May 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-information-technology-and-engineering",
+    "name": "International Conference on Information Technology and Engineering (ICITE)",
+    "description": "",
+    "startDate": "2026-05-17T16:00:00.000Z",
+    "endDate": "2026-05-17T16:00:00.000Z",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "location": "Belgrade, Serbia",
+    "url": "https://conferenceindex.org/event/international-conference-on-information-technology-and-engineering-icite-2026-may-belgrade-rs",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "May 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computing-and-information-technology-i",
+    "name": "International Conference on Computing and Information Technology (ICCIT)",
+    "description": "",
+    "startDate": "2026-05-17T16:00:00.000Z",
+    "endDate": "2026-05-17T16:00:00.000Z",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "location": "Belgrade, Serbia",
+    "url": "https://conferenceindex.org/event/international-conference-on-computing-and-information-technology-iccit-2026-may-belgrade-rs",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "May 2026"
   },
   {
@@ -6286,6 +6410,118 @@
     "month": "May 2026"
   },
   {
+    "id": "cmc-69e301c324b20107622d39fa",
+    "name": "Enjin Coin: Kallang Upgrade",
+    "description": "\"Governance enhancements, reliable sENJ voting, staking fixes, and an updated Polkadot SDK.\"",
+    "startDate": "2026-05-18T00:00:00.000Z",
+    "endDate": "2026-05-18T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/enjin/status/2044556000586567858",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-69feb1441c4aed1ecaa4788a",
+    "name": "Raydium: CLMM Program Upgrade",
+    "description": "\"Three opt-in features land together: - limit orders - dynamic fee - single-sided fee\"",
+    "startDate": "2026-05-18T00:00:00.000Z",
+    "endDate": "2026-05-18T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/Raydium/status/2052761132402667619",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-6a0548c31c4aed1ecaa84b9d",
+    "name": "Lido DAO: NEST Vote",
+    "description": "\"This proposal seeks DAO approval for the final design and implementation of NEST — a rule-based mechanism that creates an on-chain link...\"",
+    "startDate": "2026-05-18T00:00:00.000Z",
+    "endDate": "2026-05-18T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/LidoFinance/status/2054519751389426047",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-6a0548c31c4aed1ecaa84b9f",
+    "name": "Lido DAO: Pier Two Vote",
+    "description": "\"Should Pier Two continue in the Curated and SDVT sets following the acquisition by Bitmine Immersion Technologies?\"",
+    "startDate": "2026-05-18T00:00:00.000Z",
+    "endDate": "2026-05-18T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://snapshot.org/#/s:lido-snapshot.eth/proposal/0x80959462b3026fc118ee9a3d7f46485b335677a2a5a739b3ede2656b7982f8e8",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-6a0548c31c4aed1ecaa84b9e",
+    "name": "Lido DAO: CircuitBreaker Vote",
+    "description": "\"It is proposed to replace GateSeals with CircuitBreaker, a permanent emergency pause contract.\"",
+    "startDate": "2026-05-18T00:00:00.000Z",
+    "endDate": "2026-05-18T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://snapshot.org/#/s:lido-snapshot.eth/proposal/0x46d8df504c019be2be84a38c8705cd8bdbe4f5f4d2b141d4e8bd3e69af9ef5f3",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-69e301c324b20107622d39fb",
+    "name": "Undeads Games: Undeads Rush 2.0",
+    "description": "",
+    "startDate": "2026-05-18T00:00:00.000Z",
+    "endDate": "2026-05-18T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/Undeadscom/status/2042507015793316120",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-6a0548c31c4aed1ecaa84ba0",
+    "name": "Lido DAO: LOL Limits Vote",
+    "description": "\"Increase Easy Track transfer limits for Liquidity Observation Lab to align with EGG\"",
+    "startDate": "2026-05-18T00:00:00.000Z",
+    "endDate": "2026-05-18T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://snapshot.org/#/s:lido-snapshot.eth/proposal/0x863859d857c7429a0dcb85a4b324de803e2f66ddd8f50e4c2f04a31c35c6ae6f",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-6a0548c31c4aed1ecaa84b9c",
+    "name": "Injective: NOTAF Vote",
+    "description": "\"This proposal seeks DAO approval for the Node Operator Type Assessment Framework for Curated Module v2 (CMv2).\"",
+    "startDate": "2026-05-18T00:00:00.000Z",
+    "endDate": "2026-05-18T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://snapshot.org/#/s:lido-snapshot.eth/proposal/0x2b221847bae789551593115be9a364db4c9a478056d6394b1bef7728790258ee",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-l0OaADvZlNAf1M2",
     "name": "newMOON Circle - FromSoil2Soul",
     "description": "",
@@ -6325,6 +6561,20 @@
     "url": "https://lu.ma/p93gjnik",
     "coverImage": "https://images.lumacdn.com/event-covers/id/640f06a4-4537-43d1-b5cf-54cc14b2567a.png",
     "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-vi3nna-2026-may-vienna-at",
+    "name": "VI3NNA",
+    "description": "",
+    "startDate": "2026-05-18T16:00:00.000Z",
+    "endDate": "2026-05-18T16:00:00.000Z",
+    "city": "Vienna",
+    "country": "Austria",
+    "location": "Vienna, Austria",
+    "url": "https://conferenceindex.org/event/vi3nna-2026-may-vienna-at",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "May 2026"
   },
   {
@@ -7639,7 +7889,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.eventbrite.com/e/psny-free-verse-workshop-for-immigrant-writers-resisting-assimilation-tickets-1988587763532",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183470781%2F2791376260171%2F1%2Foriginal.20260430-210426?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1424ae9d45aba7a6e1d26b20d3438172",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183470781%2F2791376260171%2F1%2Foriginal.20260430-210426?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fd1b00f51191e10d9dfa8aab5d36cd20",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -7840,30 +8090,16 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/bisakita/events/314770172/",
+    "id": "mu-314770172",
     "name": "Singapore - Kuala Lumpur Table Talk",
     "description": "Singapore - Kuala Lumpur Table Talk\n\n📅 Tanggal: Selasa, 19 Mei 2026\n🕙 10 AM - 12 Noon (Kuala Lumpur Time)\n\nLokasi:\nCafe at B Hotel, Kuala Lumpur\n82-84 Petailing Street, Chinatown\n\nMore Info:\nStephan",
-    "startDate": "2026-05-19T02:00:00.000Z",
-    "endDate": "2026-05-19T02:00:00.000Z",
+    "startDate": "2026-05-19T10:00:00+08:00",
+    "endDate": "2026-05-19T10:00:00+08:00",
     "city": "Kuala Lumpur",
     "country": "MY",
     "location": "Kuala Lumpur, MY",
     "url": "https://www.meetup.com/bisakita/events/314770172/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-2-square.webp",
-    "source": "meetup",
-    "month": "May 2026"
-  },
-  {
-    "id": "mu-https://www.meetup.com/startuplokal/events/314770318/",
-    "name": "Singapore Manado Table Talk",
-    "description": "Singapore - Kuala Lumpur Table Talk\n\n📅 Tanggal: Selasa, 19 Mei 2026\n🕙 10 AM - 12 Noon (Kuala Lumpur Time)\n\nLokasi:\nCafe at B Hotel, Kuala Lumpur\n82-84 Petailing Street, Chinatown\n\nMore Info:\nStephan",
-    "startDate": "2026-05-19T03:00:00.000Z",
-    "endDate": "2026-05-19T03:00:00.000Z",
-    "city": "Kuala Lumpur",
-    "country": "MY",
-    "location": "Kuala Lumpur, MY",
-    "url": "https://www.meetup.com/startuplokal/events/314770318/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-4-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -7896,16 +8132,16 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/k-l-divorcee-widow-widower/events/314783297/",
+    "id": "mu-314783297",
     "name": "KLDW ☕️Meetup,@Hogan Bakery@ Jaya Shopping Centre",
     "description": "Table under Anna See",
-    "startDate": "2026-05-19T07:00:00.000Z",
-    "endDate": "2026-05-19T07:00:00.000Z",
+    "startDate": "2026-05-19T15:00:00+08:00",
+    "endDate": "2026-05-19T15:00:00+08:00",
     "city": "Petaling Jaya",
     "country": "my",
     "location": "Petaling Jaya, my",
     "url": "https://www.meetup.com/k-l-divorcee-widow-widower/events/314783297/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-5-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -8115,7 +8351,7 @@
     "country": "AE",
     "location": "Dubai, AE",
     "url": "https://www.eventbrite.com/e/dubai-entrepreneurs-meetup-b2b-networking-investors-founders-tickets-1985974929475",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180021742%2F2837456016251%2F1%2Foriginal.20260317-075108?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.047&fp-y=0.454&s=9c63b7b1e51499552496f7e6318cc049",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180021742%2F2837456016251%2F1%2Foriginal.20260317-075108?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.047&fp-y=0.454&s=f2d1b0a7cacca25df18b3245d131bf2b",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -8171,7 +8407,7 @@
     "country": "JP",
     "location": "Minato City, JP",
     "url": "https://www.eventbrite.com/e/tokyo-the-session-creative-industry-mixer-tickets-1988541037774",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183374466%2F3000302536884%2F1%2Foriginal.20260429-204350?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5cbc9c502df45cb6c0fb4858309938f9",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183374466%2F3000302536884%2F1%2Foriginal.20260429-204350?crop=focalpoint&fit=crop&h=200&w=334&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=26226cd97b1c23980eefc82167fc6b93",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -8186,20 +8422,6 @@
     "location": "Hong Kong, HK",
     "url": "https://www.eventbrite.hk/e/bestie-approved-the-ultimate-wingperson-pitch-night-tickets-1988452753714",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183788163%2F3000616185160%2F1%2Foriginal.20260505-055920?w=400&auto=format%2Ccompress&q=75&sharp=10&s=040755474aee2ac500749f563131a1d5",
-    "source": "eventbrite",
-    "month": "May 2026"
-  },
-  {
-    "id": "eb-1985430179112",
-    "name": "免費 - Data Science with Python Workshop (Cantonese Speaker)",
-    "description": "Python 是一個強大、快速、簡單易讀的程式語言",
-    "startDate": "2026-05-20",
-    "endDate": "2026-05-20",
-    "city": "Hong Kong",
-    "country": "HK",
-    "location": "Hong Kong, HK",
-    "url": "https://www.eventbrite.hk/e/-data-science-with-python-workshop-cantonese-speaker-tickets-1985430179112",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180118977%2F182288185266%2F1%2Foriginal.20240405-131158?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1397%2C3024%2C1512&s=b9cb774c06f52cf3a09edbb01b8ac48e",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -8466,6 +8688,20 @@
     "location": "London, GB",
     "url": "https://www.eventbrite.com/e/the-agentic-edge-agentic-ai-strategy-simulation-keynote-tickets-1985986916328",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184041703%2F2993798173841%2F1%2Foriginal.20260507-173539?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.479&fp-y=0.13&s=d6892b748fc1fecd38184dc93fd2e42e",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1988871442022",
+    "name": "Ushirika Tech Lab: What Can AI Do For The Community?",
+    "description": "",
+    "startDate": "2026-05-20",
+    "endDate": "2026-05-20",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://www.eventbrite.co.uk/e/ushirika-tech-lab-what-can-ai-do-for-the-community-tickets-1988871442022",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173247808%2F41932716596%2F1%2Foriginal.20251219-022656?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.649&fp-y=0.44&s=b84fe075c8cc383dfc779618e2748be0",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -8843,7 +9079,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.eventbrite.com/e/own-the-room-influence-and-persuasion-for-women-who-want-to-be-listened-to-tickets-1988363610083",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183172730%2F365535675991%2F1%2Foriginal.20260427-222633?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.094&fp-y=0.363&s=5d3eac7371d2b5a2c5d9a992b78a665b",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183172730%2F365535675991%2F1%2Foriginal.20260427-222633?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.094&fp-y=0.363&s=490fa223be325d01f12e3f02d8dc7cb2",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -9352,6 +9588,62 @@
     "month": "May 2026"
   },
   {
+    "id": "cmc-69fb658333ae890e5323a68e",
+    "name": "Manta Network: Staking Ends",
+    "description": "Staking rewards officially stop on May 20, 2026; after this date no further network rewards are generated.",
+    "startDate": "2026-05-20T00:00:00.000Z",
+    "endDate": "2026-05-20T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/MantaNetwork/status/2052024701426524243",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-69e5a4c324b20107623092e4",
+    "name": "Pyth Network: Token Unlock",
+    "description": "Based on Pyth's official vesting schedule, locked tokens unlock 30 months after the initial token launch on November 20, 2023.",
+    "startDate": "2026-05-20T00:00:00.000Z",
+    "endDate": "2026-05-20T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://defillama.com/unlocks/pyth",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-6a04a00433ae890e532fcd17",
+    "name": "Jito: Q1 Quarterly Call",
+    "description": "Jito hosts its official Q1 Quarterly Call at 5 PM UTC, covering Q1 numbers, trends, and takeaways.",
+    "startDate": "2026-05-20T00:00:00.000Z",
+    "endDate": "2026-05-20T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/jito_sol/status/2054264626854940682",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-6a05f1816fc16b1e95c638d1",
+    "name": "Anvil: LoC Deep Dive",
+    "description": "\"Join @m_at_anvil & @trspalding for a Consensus recap and a deeper dive into digital Letters of Credit at scale,\" at 12 AM UTC.",
+    "startDate": "2026-05-20T00:00:00.000Z",
+    "endDate": "2026-05-20T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/anvil_xyz/status/2054725284230840482",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-4WbR0Y0ME1eBABC",
     "name": "Crypto Founder & VC Happy Hour 🍻 Hosted by Kraken",
     "description": "",
@@ -9408,16 +9700,16 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/aws-sbg-at-asia-pacific-university/events/314471252/",
+    "id": "mu-314471252",
     "name": "AWS CendekiAwan 2026: Showcase Event",
     "description": "**🚀 AWS CendekiAwan Showcase Event**\n\nWe're excited to announce the **AWS CendekiAwan Showcase Event** an incredible opportunity to witness real-world AI solutions built by the **top 20 shortlisted t",
-    "startDate": "2026-05-20T05:30:00.000Z",
-    "endDate": "2026-05-20T05:30:00.000Z",
+    "startDate": "2026-05-20T13:30:00+08:00",
+    "endDate": "2026-05-20T13:30:00+08:00",
     "city": "Kuala Lumpur",
     "country": "MY",
     "location": "Kuala Lumpur, MY",
     "url": "https://www.meetup.com/aws-sbg-at-asia-pacific-university/events/314471252/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-2-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -9436,30 +9728,30 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/digital-nomad/events/314557839/",
+    "id": "mu-314557839",
     "name": "🎒💻️🍺 Wednesday Nomad Drink in Kuala Lumpur 🎒💻️🍺",
     "description": "**🍺 Drink and connect with fellow digital nomads in the city! 🍺**\nJoin us every Wednesday for a fun night out with fellow digital nomads! We'll be hitting up different bars in the vibrant Bukit Bint",
-    "startDate": "2026-05-20T11:00:00.000Z",
-    "endDate": "2026-05-20T11:00:00.000Z",
+    "startDate": "2026-05-20T19:00:00+08:00",
+    "endDate": "2026-05-20T19:00:00+08:00",
     "city": "",
     "country": "",
-    "location": "TBA",
+    "location": "Online",
     "url": "https://www.meetup.com/digital-nomad/events/314557839/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-4-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/toastmasters-district-102-kuala-lumpur-selangor/events/314557967/",
+    "id": "mu-314557967",
     "name": "<Setia Alam> Join & Speak With Style | free event",
     "description": "**Setia Toastmasters Club – Join & Speak With Style**\nSetia Toastmasters Club is a welcoming community dedicated to empowering speakers and inspiring leaders. Our meetings offer a supportive and posit",
-    "startDate": "2026-05-20T11:00:00.000Z",
-    "endDate": "2026-05-20T11:00:00.000Z",
+    "startDate": "2026-05-20T19:00:00+08:00",
+    "endDate": "2026-05-20T19:00:00+08:00",
     "city": "Shah Alam",
     "country": "my",
     "location": "Shah Alam, my",
     "url": "https://www.meetup.com/toastmasters-district-102-kuala-lumpur-selangor/events/314557967/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-4-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -9520,16 +9812,16 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/kuala-lumpur-cyber-security-for-controls-systems/events/314664970/",
+    "id": "mu-314664970",
     "name": "(CS)²AI Online™- Outpaced: Defending CI Against Rapidly Evolving Threats",
     "description": "Reserve a seat to join the discussion: [https://events.zoom.us/ev/AklCAhvRz-zrdAhax75wR_HJxnr5c_-VUirnHL_sACEY1dTonirp~AkMq9tokJx6dKRIc7LThVHQcvs6_sBJbbjsGXGW0KkXEUyMzzmNROc80mG6Mg7VhRFIQR2vOTDpShdUZU",
-    "startDate": "2026-05-20T20:00:00.000Z",
-    "endDate": "2026-05-20T20:00:00.000Z",
+    "startDate": "2026-05-21T04:00:00+08:00",
+    "endDate": "2026-05-21T04:00:00+08:00",
     "city": "",
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/kuala-lumpur-cyber-security-for-controls-systems/events/314664970/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-1-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -10542,6 +10834,20 @@
     "month": "May 2026"
   },
   {
+    "id": "eb-1988065239649",
+    "name": "Club Gallery Opening: Looking Over the Fence: Void Is Not Empty",
+    "description": "AHK Culture Club x Amsterdam Academy of Architecture present Looking Over the Fence at Marineterrein Amsterdam.",
+    "startDate": "2026-05-21",
+    "endDate": "2026-05-21",
+    "city": "Amsterdam",
+    "country": "NL",
+    "location": "Amsterdam, NL",
+    "url": "https://www.eventbrite.nl/e/club-gallery-opening-looking-over-the-fence-void-is-not-empty-tickets-1988065239649",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182945625%2F2208841367713%2F1%2Foriginal.20260424-085228?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=445ad91f8c9911b878de9ea2835948c2",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
     "id": "eb-1985714019085",
     "name": "Public-Interest AI Accelerator Program",
     "description": "The Public-Interest AI accelerator builds practical AI literacy and helps learners understand what it means to use AI for public interest.",
@@ -11466,6 +11772,62 @@
     "month": "May 2026"
   },
   {
+    "id": "cmc-69e6f6438f5bcf69d27b6cdb",
+    "name": "LayerZero: Token Unlock",
+    "description": "LayerZero unlocks approximately 2.36% of its released supply at 1 AM UTC.",
+    "startDate": "2026-05-21T00:00:00.000Z",
+    "endDate": "2026-05-21T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://defillama.com/unlocks/layerzero",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-69fd5fc333ae890e532699a6",
+    "name": "Horizen: Discord Community Call",
+    "description": "\"We'll cover ecosystem updates, what's coming next, and where the community can get more involved.\"",
+    "startDate": "2026-05-21T00:00:00.000Z",
+    "endDate": "2026-05-21T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/horizenglobal/status/2052451109059576312",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-69fe088333ae890e53269c41",
+    "name": "Ridges AI: Screener Auto-scaling",
+    "description": "\"Screener auto-scaling - screener nodes scale up and down with demand. More throughput, less bottleneck.\"",
+    "startDate": "2026-05-21T00:00:00.000Z",
+    "endDate": "2026-05-21T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/opentensor/status/2052635730900328931",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "cmc-69fe088333ae890e53269c40",
+    "name": "Ridges AI: BYOK",
+    "description": "\"BYOK - miners bring their own key and pay for their own inference during eval. Makes cost accurate and puts skin in the game.\"",
+    "startDate": "2026-05-21T00:00:00.000Z",
+    "endDate": "2026-05-21T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/opentensor/status/2052635730900328931",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-FK86VQtlX2jd6xi",
     "name": "Butterbase Build Night @ UW",
     "description": "",
@@ -11480,44 +11842,56 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/awsugmy/events/314769064/",
+    "id": "mu-314769064",
     "name": "AWS User Group Meetup Kuala Lumpur– May 2026 @ The Access Group",
     "description": "Kuala Lumpur AWS fam! 👋 Get ready for an unmissable 𝐀𝐖𝐒 𝐔𝐬𝐞𝐫 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐥𝐚𝐲𝐬𝐢𝐚 𝐌𝐞𝐞𝐭𝐮𝐩 𝐨𝐧 **May 21**st !\n***RSVP here to secure your spot for two engaging sessions and network",
-    "startDate": "2026-05-21T11:00:00.000Z",
-    "endDate": "2026-05-21T11:00:00.000Z",
+    "startDate": "2026-05-21T19:00:00+08:00",
+    "endDate": "2026-05-21T19:00:00+08:00",
     "city": "Kuala Lumpur",
     "country": "my",
     "location": "Kuala Lumpur, my",
     "url": "https://www.meetup.com/awsugmy/events/314769064/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-5-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/kuala-lumpur-healing-meditation-spirituality/events/314747804/",
+    "id": "mu-314747804",
     "name": "Ancestral Healing for Prosperity",
     "description": "✨ Do you ever feel like money struggles, fear, or blocked opportunities keep repeating in your life or family?\n\nSometimes these patterns go deeper than habits or mindset — they may be rooted in emotio",
-    "startDate": "2026-05-21T11:00:00.000Z",
-    "endDate": "2026-05-21T11:00:00.000Z",
+    "startDate": "2026-05-21T19:00:00+08:00",
+    "endDate": "2026-05-21T19:00:00+08:00",
     "city": "Kuala Lumpur",
     "country": "my",
     "location": "Kuala Lumpur, my",
     "url": "https://www.meetup.com/kuala-lumpur-healing-meditation-spirituality/events/314747804/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-4-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/brotherhoodcircle/events/314747825/",
+    "id": "mu-brrjxtyjchbcc",
+    "description": "",
+    "startDate": "2026-05-21T15:00:00+04:00",
+    "endDate": "2026-05-21T15:00:00+04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314747825",
     "name": "Men's Circle Kuala Lumpur Malaysia, Accountability & Brotherhood",
     "description": "You're surrounded by people. Still alone.\nThat's not a complaint. It's a quiet truth most men carry for years without naming it.\n\nYou've built a career. You hold it together. And somewhere along the w",
-    "startDate": "2026-05-21T12:00:00.000Z",
-    "endDate": "2026-05-21T12:00:00.000Z",
+    "startDate": "2026-05-21T20:00:00+08:00",
+    "endDate": "2026-05-21T20:00:00+08:00",
     "city": "Kuala Lumpur",
     "country": "my",
     "location": "Kuala Lumpur, my",
     "url": "https://www.meetup.com/brotherhoodcircle/events/314747825/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-4-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -11536,30 +11910,30 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/lfdt-kuala-lumpur-and-cyberjaya/events/314285042/",
+    "id": "mu-314285042",
     "name": "Hiero Heka: A Ready-To-Use Decentralized Identity Solution",
     "description": "The Heka Identity Platform is a ready-to-use decentralized identity (aka Self-Sovereign Identity or SSI) solution for the Hiero ecosystem. The project delivers a complete set of applications and tools",
-    "startDate": "2026-05-21T15:00:00.000Z",
-    "endDate": "2026-05-21T15:00:00.000Z",
+    "startDate": "2026-05-21T23:00:00+08:00",
+    "endDate": "2026-05-21T23:00:00+08:00",
     "city": "",
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-kuala-lumpur-and-cyberjaya/events/314285042/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-2-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/kong-kuala-lumpur/events/314738946/",
+    "id": "mu-314738946",
     "name": "Agentic AI Cost Control for the CFO: Attribution & Visibility",
     "description": "As agentic AI deployments scale, so do the costs and most CFOs are flying blind. Token usage is fragmented across teams, attribution is murky, and finance has no seat at the table when AI budgets spir",
-    "startDate": "2026-05-21T15:00:00.000Z",
-    "endDate": "2026-05-21T15:00:00.000Z",
+    "startDate": "2026-05-21T23:00:00+08:00",
+    "endDate": "2026-05-21T23:00:00+08:00",
     "city": "",
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/kong-kuala-lumpur/events/314738946/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-2-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -12091,7 +12465,7 @@
     "country": "AU",
     "location": "Brisbane City, AU",
     "url": "https://www.eventbrite.com/e/sharpbridge-funds-management-information-event-tattersalls-brisbane-tickets-1982408885341",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177028209%2F2991070911713%2F1%2Foriginal.20260209-022626?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=74b2f42229b8dde08f54b21012d51ddc",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177028209%2F2991070911713%2F1%2Foriginal.20260209-022626?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c5c83368a49e15eaf0bd379a2ed73cf4",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -12106,6 +12480,76 @@
     "location": "Hobart, AU",
     "url": "https://www.eventbrite.com/e/hobart-tech-mixer-and-social-tech-ai-data-it-tickets-1987414501273",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182151357%2F2996277132930%2F1%2Foriginal.20260414-165605?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=15dca4db1a8757c4e2ce41d43b9461c8",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1987407433132",
+    "name": "Gold Coast Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "city": "Gold Coast",
+    "country": "AU",
+    "location": "Gold Coast, AU",
+    "url": "https://www.eventbrite.com/e/gold-coast-tech-mixer-and-social-tech-ai-data-it-tickets-1987407433132",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182146143%2F2996277132930%2F1%2Foriginal.20260414-160911?w=400&auto=format%2Ccompress&q=75&sharp=10&s=8be79d20a46c1ddb3f9b8c6c2cf048f8",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1986013481786",
+    "name": "Adelaide Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "city": "Adelaide",
+    "country": "AU",
+    "location": "Adelaide, AU",
+    "url": "https://www.eventbrite.com/e/adelaide-tech-mixer-and-social-tech-ai-data-it-tickets-1986013481786",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180776494%2F2996277132930%2F1%2Foriginal.20260326-180355?w=400&auto=format%2Ccompress&q=75&sharp=10&s=256e2864955ba2c0deac8c50da54393f",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1986013031439",
+    "name": "Sydney Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "city": "Sydney",
+    "country": "AU",
+    "location": "Sydney, AU",
+    "url": "https://www.eventbrite.com/e/sydney-tech-mixer-and-social-tech-ai-data-it-tickets-1986013031439",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180775921%2F2996277132930%2F1%2Foriginal.20260326-175813?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6f87a93b87312450b3df44cc3b6ca7f2",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1986013089613",
+    "name": "Brisbane Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "city": "Brisbane",
+    "country": "AU",
+    "location": "Brisbane, AU",
+    "url": "https://www.eventbrite.com/e/brisbane-tech-mixer-and-social-tech-ai-data-it-tickets-1986013089613",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180775959%2F2996277132930%2F1%2Foriginal.20260326-175837?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=7c3afd4231ac64ee48215c74987decfe",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1986023682296",
+    "name": "Canberra Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-22",
+    "city": "Canberra",
+    "country": "AU",
+    "location": "Canberra, AU",
+    "url": "https://www.eventbrite.com/e/canberra-tech-mixer-and-social-tech-ai-data-it-tickets-1986023682296",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182054206%2F2996277132930%2F1%2Foriginal.20260413-171423?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9a44c647014fc27916086291c2e2686e",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -12166,16 +12610,16 @@
     "month": "May 2026"
   },
   {
-    "id": "eb-1980838086038",
-    "name": "Global Conference on Information Technology and Computer Science 2026",
-    "description": "Hey there! Join us at the Global Conference on Information Technology and Computer Science for a deep dive into the latest trends and innova",
+    "id": "eb-1988319647590",
+    "name": "Bitcoin Trading With  AI - Workshop",
+    "description": "Dive into Bitcoin trading with our fully automated AI Robot that produces remarkable profit monthly, in-person workshop!",
     "startDate": "2026-05-22",
     "endDate": "2026-05-22",
-    "city": "Montreal",
-    "country": "CA",
-    "location": "Montreal, CA",
-    "url": "https://www.eventbrite.ca/e/global-conference-on-information-technology-and-computer-science-2026-tickets-1980838086038",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175208479%2F2433719888911%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=585ec3904e5c02900c8329bae57a02fa",
+    "city": "Lekki",
+    "country": "NG",
+    "location": "Lekki, NG",
+    "url": "https://www.eventbrite.com/e/bitcoin-trading-with-ai-workshop-tickets-1988319647590",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183120232%2F2481796525991%2F1%2Foriginal.20260427-131031?w=400&auto=format%2Ccompress&q=75&sharp=10&s=b6445e71f8c711ebebee4d754dc1cce0",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -13146,16 +13590,28 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/kuala-lumpur-writing-workshop/events/314468797/",
+    "id": "mu-314468797",
     "name": "So You Think You Can Write",
     "description": "It is a casual meetup for anyone who likes to write. We will meet and have a pleasant time together.\nWe are a mixed group in terms of experience, backgrounds, and languages, but we are also very suppo",
-    "startDate": "2026-05-22T10:30:00.000Z",
-    "endDate": "2026-05-22T10:30:00.000Z",
+    "startDate": "2026-05-22T18:30:00+08:00",
+    "endDate": "2026-05-22T18:30:00+08:00",
     "city": "KUALA LUMPUR",
     "country": "my",
     "location": "KUALA LUMPUR, my",
     "url": "https://www.meetup.com/kuala-lumpur-writing-workshop/events/314468797/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-2-square.webp",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314346938",
+    "description": "",
+    "startDate": "2026-05-22T19:00:00+08:00",
+    "endDate": "2026-05-22T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -13580,20 +14036,6 @@
     "month": "May 2026"
   },
   {
-    "id": "eb-1988064599735",
-    "name": "AIA Vitality Hub | Kids (3-5yr) TaeKwanDo 跆拳道3-5歲幼兒班",
-    "description": "AIA Vitality Hub | Kids (3-5yr) TaeKwanDo\n跆拳道3-5歲幼兒班",
-    "startDate": "2026-05-23",
-    "endDate": "2026-05-23",
-    "city": "Central",
-    "country": "HK",
-    "location": "Central, HK",
-    "url": "https://www.eventbrite.hk/e/aia-vitality-hub-kids-3-5yr-taekwando-3-5-tickets-1988064599735",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1032933193%2F2646274941481%2F1%2Foriginal.20250517-030105?w=400&auto=format%2Ccompress&q=75&sharp=10&s=b7ded0a1b203f8a5a6c6ecdc6a6ea916",
-    "source": "eventbrite",
-    "month": "May 2026"
-  },
-  {
     "id": "eb-1681488400069",
     "name": "Play Conference 2026 HK: Play to Connect - East and West",
     "description": "Strategic Play's 1st international conference in HK! Use LEGO® SERIOUS PLAY® to connect East & West. For facilitators, leaders, you.",
@@ -13800,6 +14242,20 @@
     "location": "Jardim Paulista, BR",
     "url": "https://www.eventbrite.com.br/e/sp-curso-de-marketing-de-servicos-e-gestao-de-atendimento-106a-turma-tickets-1392690517829",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F221336769%2F158602256306%2F1%2Foriginal.20190707-153309?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C612%2C306&s=34f2e42164a5b89ed6004fb779a2e1e3",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1980101629276",
+    "name": "SP:  Curso de Marketing de Relacionamento Digital - 2026 [pré-lançamento]",
+    "description": "Como ativar um projeto de relacionamento no ambiente digital com clientes, seguidores e fãs para gerar mais leads e engajamento.",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-23",
+    "city": "São Paulo",
+    "country": "BR",
+    "location": "São Paulo, BR",
+    "url": "https://www.eventbrite.com.br/e/sp-curso-de-marketing-de-relacionamento-digital-2026-pre-lancamento-tickets-1980101629276",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F850351529%2F158602256306%2F1%2Foriginal.20240914-201005?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C88%2C788%2C394&s=df50886456f4b7cc9bacc9d0437fd6ef",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -15134,16 +15590,26 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/kl-lgbt/events/314703589/",
-    "name": "May edition : Makan, mingle and make friends",
+    "id": "mu-xcbfqtyjchbfc",
     "description": "",
-    "startDate": "2026-05-23T10:30:00.000Z",
-    "endDate": "2026-05-23T10:30:00.000Z",
+    "startDate": "2026-05-23T10:00:00+08:00",
+    "endDate": "2026-05-23T10:00:00+08:00",
     "city": "",
     "country": "",
-    "location": "TBA",
-    "url": "https://www.meetup.com/kl-lgbt/events/314703589/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-1-square.webp",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314346940",
+    "description": "",
+    "startDate": "2026-05-23T19:00:00+08:00",
+    "endDate": "2026-05-23T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -15522,6 +15988,20 @@
     "location": "Tyler, US",
     "url": "https://www.eventbrite.com/e/e-estate-live-tyler-tx-unlocking-the-future-of-real-estate-tickets-1989094719852",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184120021%2F67306064379%2F1%2Foriginal.20260508-135407?w=358&auto=format%2Ccompress&q=75&sharp=10&s=db6ac0294effa7269b467829055a4465",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1980838178314",
+    "name": "Global Conference on Information Technology and Computer Science 2026",
+    "description": "Hey there! Join us at the Global Conference on Information Technology and Computer Science for a deep dive into the latest trends and innova",
+    "startDate": "2026-05-24",
+    "endDate": "2026-05-24",
+    "city": "Montreal",
+    "country": "CA",
+    "location": "Montreal, CA",
+    "url": "https://www.eventbrite.ca/e/global-conference-on-information-technology-and-computer-science-2026-tickets-1980838178314",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175208829%2F2433719888911%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=8540faa0038fddab258d650cd99d53f2",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -16156,6 +16636,48 @@
     "month": "May 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-science-and-information-engin",
+    "name": "International Conference on Computer Science and Information Engineering (ICCSIE)",
+    "description": "",
+    "startDate": "2026-05-24T16:00:00.000Z",
+    "endDate": "2026-05-24T16:00:00.000Z",
+    "city": "Barcelona",
+    "country": "Spain",
+    "location": "Barcelona, Spain",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-information-engineering-iccsie-2026-may-barcelona-es",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "May 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-distributed-computing-and-networking-i",
+    "name": "International Conference on Distributed Computing and Networking (ICDCN)",
+    "description": "",
+    "startDate": "2026-05-24T16:00:00.000Z",
+    "endDate": "2026-05-24T16:00:00.000Z",
+    "city": "Barcelona",
+    "country": "Spain",
+    "location": "Barcelona, Spain",
+    "url": "https://conferenceindex.org/event/international-conference-on-distributed-computing-and-networking-icdcn-2026-may-barcelona-es",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "May 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-sciences-softwares-and-applic",
+    "name": "International Conference on Computer Sciences, Softwares and Applications (ICCSSA)",
+    "description": "",
+    "startDate": "2026-05-24T16:00:00.000Z",
+    "endDate": "2026-05-24T16:00:00.000Z",
+    "city": "Batumi",
+    "country": "Georgia",
+    "location": "Batumi, Georgia",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-sciences-softwares-and-applications-iccssa-2026-may-batumi-ge",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "May 2026"
+  },
+  {
     "id": "eb-1987483362238",
     "name": "3D card making workshop – Statue of Liberty",
     "description": "Bring out the artist in you and create a fun 3D card for yourself or someone special.",
@@ -16394,6 +16916,20 @@
     "month": "May 2026"
   },
   {
+    "id": "eb-1988740325850",
+    "name": "Glorious Glass and Jawdropping Jewelry:  The Art of René Lalique",
+    "description": "Glorious Glass and Jawdropping Jewelry:  The Art of René Lalique",
+    "startDate": "2026-05-25",
+    "endDate": "2026-05-25",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.com/e/glorious-glass-and-jawdropping-jewelry-the-art-of-rene-lalique-tickets-1988740325850",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183674494%2F141778824904%2F1%2Foriginal.20260504-031321?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.485&fp-y=0.275&s=5f4563c9f67f01714656c9ad999bf567",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
     "id": "eb-1983457646213",
     "name": "Workshop |  Scent Workshop with Alessandra Mondin",
     "description": "Join this relaxed workshop to explore together through simple exercises our sense of smell and how art, scent, and wellbeing can intertwine.",
@@ -16417,7 +16953,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.eventbrite.com/e/you-should-read-may-virtual-book-club-tickets-1986040753356",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180805375%2F183708041168%2F1%2Foriginal.20260327-003318?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.127&fp-y=0.621&s=07a6933fb76db5f426e47506896e39da",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180805375%2F183708041168%2F1%2Foriginal.20260327-003318?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.127&fp-y=0.621&s=0586b7a8a9b8718fb9e91d189bc6372d",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -17528,6 +18064,20 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-314795148",
+    "name": "-",
+    "description": "-",
+    "startDate": "2026-05-26T10:30:00+08:00",
+    "endDate": "2026-05-26T10:30:00+08:00",
+    "city": "Kuala Lumpur",
+    "country": "MY",
+    "location": "Kuala Lumpur, MY",
+    "url": "https://www.meetup.com/aws-sbg-at-asia-pacific-university/events/314795148/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-yiCErdtLxaR1rol",
     "name": "AI + Breakfast in Etobicoke (TTW Edition)",
     "description": "",
@@ -17654,16 +18204,16 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/lfdt-kuala-lumpur-and-cyberjaya/events/313872979/",
+    "id": "mu-313872979",
     "name": "Enabling Anyone to Build and Operate Decentralized Networks with Hiero",
     "description": "Join us for a meetup exploring Hiero ([https://github.com/hiero-ledger](https://github.com/hiero-ledger)), an open-source, vendor-neutral distributed ledger technology (DLT) stack that powers the Hede",
-    "startDate": "2026-05-26T16:00:00.000Z",
-    "endDate": "2026-05-26T16:00:00.000Z",
+    "startDate": "2026-05-27T00:00:00+08:00",
+    "endDate": "2026-05-27T00:00:00+08:00",
     "city": "",
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-kuala-lumpur-and-cyberjaya/events/313872979/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-2-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "May 2026"
   },
@@ -17804,20 +18354,6 @@
     "location": "hongkong, HK",
     "url": "https://www.eventbrite.com/e/online-trading-expo-asia-tickets-1989200116095",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184269867%2F284685337751%2F1%2Foriginal.20260511-062606?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.017&fp-y=0.534&s=77f7a7b9a39ce7c32aa27a72ca72d1ef",
-    "source": "eventbrite",
-    "month": "May 2026"
-  },
-  {
-    "id": "eb-1436137799819",
-    "name": "XLCubed / FluenceXL Administrator - Schulung in Zürich",
-    "description": "Nach der Schulung sind Sie in der Lage, den XLCubed-Webserver zu administrieren und Reports auf unterschiedlichen Geräten bereitzustellen.",
-    "startDate": "2026-05-27",
-    "endDate": "2026-05-27",
-    "city": "Zürich",
-    "country": "CH",
-    "location": "Zürich, CH",
-    "url": "https://www.eventbrite.de/e/xlcubed-fluencexl-administrator-schulung-in-zurich-tickets-1436137799819",
-    "coverImage": null,
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -18195,7 +18731,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.eventbrite.co.uk/e/ai-change-management-leading-confidently-through-transformation-tickets-1981574162663",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176241425%2F337247251517%2F1%2Foriginal.20260130-094012?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8070c435029d4ad9338c0c48e958316b",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176241425%2F337247251517%2F1%2Foriginal.20260130-094012?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=11a93ca8dd7557bc810546ac26dcd300",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -19012,6 +19548,18 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-314673406",
+    "description": "",
+    "startDate": "2026-05-27T19:00:00+08:00",
+    "endDate": "2026-05-27T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-UC6c6jfYp8F01tg",
     "name": "SatoShe Special – Gold, Diamonds & Bitcoin: Timeless Assets in a Modern World (EN, Zurich)",
     "description": "",
@@ -19148,6 +19696,20 @@
     "location": "九龍塘, HK",
     "url": "https://www.eventbrite.hk/e/-digital-marketing-workshop-cantonese-speaker-tickets-1985428349640",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F480445149%2F182288185266%2F1%2Foriginal.20230114-173135?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C579%2C4032%2C2016&s=db3bc0ed20596a1612b5b7d940da40b2",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1436139093689",
+    "name": "XLCubed / FluenceXL Administrator - Schulung in Bern",
+    "description": "Nach der Schulung sind Sie in der Lage, den XLCubed-Webserver zu administrieren und Reports auf unterschiedlichen Geräten bereitzustellen.",
+    "startDate": "2026-05-28",
+    "endDate": "2026-05-28",
+    "city": "Bern",
+    "country": "CH",
+    "location": "Bern, CH",
+    "url": "https://www.eventbrite.de/e/xlcubed-fluencexl-administrator-schulung-in-bern-tickets-1436139093689",
+    "coverImage": null,
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -19301,7 +19863,7 @@
     "country": "CA",
     "location": "Burnaby, CA",
     "url": "https://www.eventbrite.ca/e/learn-how-to-achieve-financial-freedom-by-building-wealth-and-savings-tickets-1989288040078",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F681490969%2F35844896082%2F1%2Foriginal.20240124-085908?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C37%2C1200%2C600&s=a8984815cf238c4e0dde0fc7efbca851",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F681490969%2F35844896082%2F1%2Foriginal.20240124-085908?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C37%2C1200%2C600&s=963d21880a971dd3fde34ae9a8ac066a",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -19525,7 +20087,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.eventbrite.com/e/online-amb-aharoni-answers-session-4-tickets-1978298007595",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173231832%2F2802773536521%2F1%2Foriginal.20251218-210135?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=460c42c09547ba98566c5931839ab034",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173231832%2F2802773536521%2F1%2Foriginal.20251218-210135?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a6ee481406ebe72bfa0792b6e66631a8",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -19694,6 +20256,20 @@
     "location": "Amsterdam, NL",
     "url": "https://www.eventbrite.nl/e/an-exclusive-c-level-session-by-ai-compass-iaa-benelux-tickets-1985266972958",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183654696%2F2995400595822%2F1%2Foriginal.20260503-200605?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9e0d8804b6deb2c87bff8dcb2da86fff",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989550439923",
+    "name": "ETFs & NETWORKING",
+    "description": "Join us for a practical ETF workshop & networking event designed to help women invest with more clarity and confidence.",
+    "startDate": "2026-05-28",
+    "endDate": "2026-05-28",
+    "city": "Quarteira",
+    "country": "PT",
+    "location": "Quarteira, PT",
+    "url": "https://www.eventbrite.pt/e/bilhetes-etfs-networking-1989550439923",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184677326%2F1861584496923%2F1%2Foriginal.20260515-115344?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=59f79b02cb4c0cb879f7475c697f3256",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -19918,20 +20494,6 @@
     "location": "Mawson Lakes, AU",
     "url": "https://www.eventbrite.com.au/e/efm-ndis-support-services-open-day-tickets-1988127872987",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184172511%2F2999737585716%2F1%2Foriginal.20260509-023753?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c7387b4cdfd43556cce326f3a6b04706",
-    "source": "eventbrite",
-    "month": "May 2026"
-  },
-  {
-    "id": "eb-1988339772785",
-    "name": "Is this a T visa? – India and South Asia Focus - 5/28/26",
-    "description": "Come listen and learn/ask your T questions with a South Asia focus with Taiyyaba Qureshi and Somya Gupta!",
-    "startDate": "2026-05-28",
-    "endDate": "2026-05-28",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com/e/is-this-a-t-visa-india-and-south-asia-focus-52826-tickets-1988339772785",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183150073%2F907418504103%2F1%2Foriginal.20260427-181352?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e793e95d271309faab23abd46e6a173a",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -20650,6 +21212,34 @@
     "month": "May 2026"
   },
   {
+    "id": "eb-1989645222420",
+    "name": "Ottawa Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "city": "Ottawa",
+    "country": "CA",
+    "location": "Ottawa, CA",
+    "url": "https://www.eventbrite.com/e/ottawa-tech-mixer-and-social-tech-ai-data-it-tickets-1989645222420",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184671734%2F2996277132930%2F1%2Foriginal.20260515-101224?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=5003ac803b8fc467e97ec0b684bfe21e",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989646126123",
+    "name": "Calgary Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "city": "Calgary",
+    "country": "CA",
+    "location": "Calgary, CA",
+    "url": "https://www.eventbrite.com/e/calgary-tech-mixer-and-social-tech-ai-data-it-tickets-1989646126123",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184672583%2F2996277132930%2F1%2Foriginal.20260515-102817?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=7a3c7205400b76477c371d3aa26cf60d",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
     "id": "eb-1987669886136",
     "name": "Copy of Tales From The Crypt by Eerie Tours",
     "description": "An open-mic of a different kind! Venture down into The Crypt to listen to and share haunting tales!",
@@ -20692,6 +21282,48 @@
     "month": "May 2026"
   },
   {
+    "id": "eb-1989644052922",
+    "name": "Hamburg Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "city": "Hamburg",
+    "country": "DE",
+    "location": "Hamburg, DE",
+    "url": "https://www.eventbrite.com/e/hamburg-tech-mixer-and-social-tech-ai-data-it-tickets-1989644052922",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184671395%2F2996277132930%2F1%2Foriginal.20260515-100655?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=e9c2c3b297f5774897fa5c41727c2414",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989647679770",
+    "name": "Frankfurt Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "city": "Frankfurt",
+    "country": "DE",
+    "location": "Frankfurt, DE",
+    "url": "https://www.eventbrite.com/e/frankfurt-tech-mixer-and-social-tech-ai-data-it-tickets-1989647679770",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184673786%2F2996277132930%2F1%2Foriginal.20260515-105117?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=fb66a731761ecd910639d4e3f4f4257e",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989645790118",
+    "name": "Abu Dhabi Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "city": "Abu Dhabi",
+    "country": "AE",
+    "location": "Abu Dhabi, AE",
+    "url": "https://www.eventbrite.com/e/abu-dhabi-tech-mixer-and-social-tech-ai-data-it-tickets-1989645790118",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184672346%2F2996277132930%2F1%2Foriginal.20260515-102349?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4e90e4fbbcd8ed07f448a4a95b5e7a79",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
     "id": "eb-1989293742133",
     "name": "Grow with Clo: The Alignment Experience",
     "description": "Join us for an intimate, invite-only celebration of movement, healing, and reset.",
@@ -20706,16 +21338,58 @@
     "month": "May 2026"
   },
   {
-    "id": "eb-1989645790118",
-    "name": "Abu Dhabi Tech Mixer and Social (Tech / AI / Data / IT) ✨",
-    "description": "Whether you're a seasoned tech veteran or just starting out, let's create the ideal afterwork place\n          to meet and chill with other workers in tech - find that new job, expand your network, sha",
+    "id": "eb-1989646083997",
+    "name": "Marseille Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
     "startDate": "2026-05-29",
     "endDate": "2026-05-29",
-    "city": "Abu Dhabi",
-    "country": "AE",
-    "location": "Abu Dhabi, AE",
-    "url": "https://www.eventbrite.com/e/abu-dhabi-tech-mixer-and-social-tech-ai-data-it-tickets-1989645790118",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184672346%2F2996277132930%2F1%2Foriginal.20260515-102349?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4e90e4fbbcd8ed07f448a4a95b5e7a79",
+    "city": "Marseille",
+    "country": "FR",
+    "location": "Marseille, FR",
+    "url": "https://www.eventbrite.com/e/marseille-tech-mixer-and-social-tech-ai-data-it-tickets-1989646083997",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184672548%2F2996277132930%2F1%2Foriginal.20260515-102750?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=60b3a760c519322bde6657d08c01e3b2",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989643892442",
+    "name": "Zurich Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "city": "Zurich",
+    "country": "CH",
+    "location": "Zurich, CH",
+    "url": "https://www.eventbrite.com/e/zurich-tech-mixer-and-social-tech-ai-data-it-tickets-1989643892442",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184671322%2F2996277132930%2F1%2Foriginal.20260515-100538?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=444d161fa48df3721ef8b4a03ffb06de",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989647641656",
+    "name": "Geneva Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "city": "Geneva",
+    "country": "CH",
+    "location": "Geneva, CH",
+    "url": "https://www.eventbrite.com/e/geneva-tech-mixer-and-social-tech-ai-data-it-tickets-1989647641656",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184673758%2F2996277132930%2F1%2Foriginal.20260515-105050?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=a4c75855e2b036dad9eba9bb931516ed",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989647389903",
+    "name": "Rotterdam Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "city": "Rotterdam",
+    "country": "NL",
+    "location": "Rotterdam, NL",
+    "url": "https://www.eventbrite.com/e/rotterdam-tech-mixer-and-social-tech-ai-data-it-tickets-1989647389903",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184673641%2F2996277132930%2F1%2Foriginal.20260515-104831?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4ba6d49becb88423dcf9da8bc4b827fb",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -20729,7 +21403,35 @@
     "country": "NL",
     "location": "Rotterdam, NL",
     "url": "https://www.eventbrite.com/e/tickets-eid-al-adha-2026-1988536964591",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183405979%2F2998487940003%2F1%2Foriginal.20260430-060536?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.019&fp-y=0.514&s=a17c71bd77b3da55d35f9334df7aff4b",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183405979%2F2998487940003%2F1%2Foriginal.20260430-060536?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.019&fp-y=0.514&s=efcccde5fc5d44da015001e931d51e44",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989645331747",
+    "name": "Lagos Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "city": "Lagos",
+    "country": "NG",
+    "location": "Lagos, NG",
+    "url": "https://www.eventbrite.com/e/lagos-tech-mixer-and-social-tech-ai-data-it-tickets-1989645331747",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184671860%2F2996277132930%2F1%2Foriginal.20260515-101500?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=b1923d68d2e6f814572e48da79a39fc6",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989643165267",
+    "name": "Lisbon Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+    "description": "Join us at our TECH MIXER AND SOCIAL for afterwork drinks, networking with tech / IT workers in and connect with others in tech",
+    "startDate": "2026-05-29",
+    "endDate": "2026-05-29",
+    "city": "Lisbon",
+    "country": "PT",
+    "location": "Lisbon, PT",
+    "url": "https://www.eventbrite.com/e/lisbon-tech-mixer-and-social-tech-ai-data-it-tickets-1989643165267",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184670894%2F2996277132930%2F1%2Foriginal.20260515-095719?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=40e47b662c2f09af26656c9f4b133af0",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -21560,6 +22262,30 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-314727574",
+    "description": "",
+    "startDate": "2026-05-29T10:00:00+08:00",
+    "endDate": "2026-05-29T10:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-310846510",
+    "description": "",
+    "startDate": "2026-05-29T19:00:00+08:00",
+    "endDate": "2026-05-29T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-5AxLKBFvAhgltvJ",
     "name": "Byte and Bite: Women in Bioinformatics Lunch Meetup",
     "description": "",
@@ -21784,20 +22510,6 @@
     "month": "May 2026"
   },
   {
-    "id": "eb-1988618847505",
-    "name": "eChai Startup Demo Day in Pune",
-    "description": "It is a platform for promising startups from the community to present their ventures, get early feedback, engage with enablers & community",
-    "startDate": "2026-05-30",
-    "endDate": "2026-05-30",
-    "city": "Pune",
-    "country": "IN",
-    "location": "Pune, IN",
-    "url": "https://www.eventbrite.com/e/echai-startup-demo-day-in-pune-tickets-1988618847505",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183509000%2F189164586473%2F1%2Foriginal.20260501-104542?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.112&fp-y=0.647&s=91b303d572859d0897d10cba208300f0",
-    "source": "eventbrite",
-    "month": "May 2026"
-  },
-  {
     "id": "eb-1410009730059",
     "name": "Insurance planning session",
     "description": "Join us  to connect with like-minded individuals, learn valuable financial concepts, and take control of your investments!",
@@ -21812,6 +22524,20 @@
     "month": "May 2026"
   },
   {
+    "id": "eb-1988618847505",
+    "name": "eChai Startup Demo Day in Pune",
+    "description": "It is a platform for promising startups from the community to present their ventures, get early feedback, engage with enablers & community",
+    "startDate": "2026-05-30",
+    "endDate": "2026-05-30",
+    "city": "Pune",
+    "country": "IN",
+    "location": "Pune, IN",
+    "url": "https://www.eventbrite.com/e/echai-startup-demo-day-in-pune-tickets-1988618847505",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183509000%2F189164586473%2F1%2Foriginal.20260501-104542?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.112&fp-y=0.647&s=91b303d572859d0897d10cba208300f0",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
     "id": "eb-1982073450045",
     "name": "Tournoi Skirmish RIFTBOUND saison 2 numero 3",
     "description": "Tournoi de fin de set, PAF 15€ , 16 places maximum VENEZ AVEC VOTRE IDENTIFIANT RIOT",
@@ -21822,6 +22548,20 @@
     "location": "Rambouillet, FR",
     "url": "https://www.eventbrite.fr/e/tournoi-skirmish-riftbound-saison-2-numero-3-tickets-1982073450045",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176325462%2F2208699944633%2F1%2Foriginal.20260131-134206?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c94226424f0203ab75a67ee719ccc841",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1988967127219",
+    "name": "NO CURFEW CLUB: THE ABOVE 30 SERIES",
+    "description": "3 hours, 3 genres strictly 2000s\nMessy y2k main character energy is here!",
+    "startDate": "2026-05-30",
+    "endDate": "2026-05-30",
+    "city": "Hong Kong",
+    "country": "HK",
+    "location": "Hong Kong, HK",
+    "url": "https://www.eventbrite.hk/e/no-curfew-club-the-above-30-series-tickets-1988967127219",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184371659%2F2988692151138%2F1%2Foriginal.20260512-071941?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a8f2000c7e53fa2c042f78ab55bfd89f",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -22088,6 +22828,20 @@
     "location": "Amsterdam, NL",
     "url": "https://www.eventbrite.com/e/tickets-vegan-celebration-festival-1988852617718",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183837104%2F3001045574995%2F1%2Foriginal.20260505-173748?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1518c76ad0954829adf669b75eb6a867",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1986319486053",
+    "name": "CMHI 4th Annual Faith, Meds, and Therapy Virtual Mental Health Symposium",
+    "description": "Join us for CMHI's 4th Annual Virtual Mental Health Symposium.",
+    "startDate": "2026-05-30",
+    "endDate": "2026-05-30",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.com/e/cmhi-4th-annual-faith-meds-and-therapy-virtual-mental-health-symposium-tickets-1986319486053",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181991445%2F1236625725633%2F1%2Foriginal.20260412-220352?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.467&fp-y=0.012&s=63d064faa37e25bd9c1d5718a3a75670",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -22666,6 +23420,20 @@
     "month": "May 2026"
   },
   {
+    "id": "eb-1987118047572",
+    "name": "Encuentra tu flow! – Ceremonia chamánica y transformación somática",
+    "description": "Un encuentro presencial con Nataly de la Gala y Clara Dell'Oro donde lo ancestral y la neurociencia se dan la mano",
+    "startDate": "2026-05-30",
+    "endDate": "2026-05-30",
+    "city": "Barcelona",
+    "country": "ES",
+    "location": "Barcelona, ES",
+    "url": "https://www.eventbrite.ca/e/entradas-encuentra-tu-flow-ceremonia-chamanica-y-transformacion-somatica-1987118047572",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182613058%2F2791072448271%2F1%2Foriginal.20260420-210952?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.502&s=bf98be7e008407e3a60b115a3bd7b4bf",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
     "id": "eb-1985756121013",
     "name": "CONFERÊNCIA EXTRAORDINÁRIAS",
     "description": "Florescer",
@@ -22988,6 +23756,30 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-314620113",
+    "description": "",
+    "startDate": "2026-05-30T10:00:00+08:00",
+    "endDate": "2026-05-30T10:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314727575",
+    "description": "",
+    "startDate": "2026-05-30T10:00:00+08:00",
+    "endDate": "2026-05-30T10:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-iGsD5shW3GKQpmx",
     "name": "Catalyst - AI for Protein Intelligence Hackathon",
     "description": "",
@@ -22999,6 +23791,18 @@
     "url": "https://lu.ma/4gca12wa",
     "coverImage": "https://images.lumacdn.com/event-covers/ak/7f3a0f1a-7674-436e-b40f-831e12c98896.png",
     "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314346941",
+    "description": "",
+    "startDate": "2026-05-30T19:00:00+08:00",
+    "endDate": "2026-05-30T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
     "month": "May 2026"
   },
   {
@@ -23142,6 +23946,20 @@
     "month": "May 2026"
   },
   {
+    "id": "eb-1986173170419",
+    "name": "BikeSA Grand Slam Challenge Series 2026 - #3 Meadows",
+    "description": "Grand Slam Challenge #3, commencing from Meadows is the next step in the series. With 2 ride lengths, choose the best suited for you.",
+    "startDate": "2026-05-31",
+    "endDate": "2026-05-31",
+    "city": "Meadows",
+    "country": "AU",
+    "location": "Meadows, AU",
+    "url": "https://www.eventbrite.com.au/e/bikesa-grand-slam-challenge-series-2026-3-meadows-tickets-1986173170419",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177608677%2F2963282136471%2F1%2Foriginal.20260216-052347?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.668&fp-y=0.516&s=ed2f257dce1e6a024c840961e491ee79",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
     "id": "eb-1098089167259",
     "name": "Personal Finance session- From confusion to clarity",
     "description": "Join us  to connect with like-minded individuals, learn valuable financial concepts, and take control of your investments!",
@@ -23222,6 +24040,20 @@
     "location": "Bilbao, ES",
     "url": "https://www.eventbrite.com/e/entradas-taller-de-reiki-conocimientos-basicos-1154282894209",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F934525253%2F2574943139831%2F1%2Foriginal.20250113-180934?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503891050584&fp-y=0.355058365759&s=ea41226df99a47bf46c7c83faf5e37e4",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1984126934071",
+    "name": "Visita Guiada Bienvenida Primavera\"Camino las fuentes Balneario Panticosa\"",
+    "description": "Descubre la belleza natural del Alto Gállego en primavera con nuestras rutas guiadas. Disfruta de los paisajes, flora y fauna local.",
+    "startDate": "2026-05-31",
+    "endDate": "2026-05-31",
+    "city": "Balneario de Panticosa",
+    "country": "ES",
+    "location": "Balneario de Panticosa, ES",
+    "url": "https://www.eventbrite.es/e/entradas-visita-guiada-bienvenida-primaveracamino-las-fuentes-balneario-panticosa-1984126934071",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178593254%2F2317607820373%2F1%2Foriginal.20260227-091912?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=271447cc0dcda170926d84b73f4ccae9",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -23800,6 +24632,34 @@
     "month": "June 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-information-science-engineering-and-te",
+    "name": "International Conference on Information Science, Engineering and Technology (ICISET)",
+    "description": "",
+    "startDate": "2026-05-31T16:00:00.000Z",
+    "endDate": "2026-05-31T16:00:00.000Z",
+    "city": "Rome",
+    "country": "Italy",
+    "location": "Rome, Italy",
+    "url": "https://conferenceindex.org/event/international-conference-on-information-science-engineering-and-technology-iciset-2026-june-rome-it",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-and-blockchain-icscb-2",
+    "name": "International Conference on Smart Contracts and Blockchain (ICSCB)",
+    "description": "",
+    "startDate": "2026-05-31T16:00:00.000Z",
+    "endDate": "2026-05-31T16:00:00.000Z",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "location": "Sofia, Bulgaria",
+    "url": "https://conferenceindex.org/event/international-conference-on-smart-contracts-and-blockchain-icscb-2026-june-sofia-bg",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-evt-GzR5dkeQKxwKvHC",
     "name": "Lovable Future Founder Series - Los Angeles: Tech Together Edition",
     "description": "",
@@ -23996,16 +24856,16 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1367060377389",
-    "name": "ISTQB® Advanced Level Test Manager Training Course (3 days) - Tokyo",
+    "id": "eb-1368281439619",
+    "name": "ISTQB® Advanced Level Test Manager Training Course (3 days) - Nagoya",
     "description": "ISTQB® ADVANCED LEVEL TEST MANAGER \nThe aim of this course is to provide you with the knowledge and skills to pass the exam",
     "startDate": "2026-06-01",
     "endDate": "2026-06-01",
-    "city": "Shibuya City",
+    "city": "Nagoya",
     "country": "JP",
-    "location": "Shibuya City, JP",
-    "url": "https://www.eventbrite.com/e/istqb-advanced-level-test-manager-training-course-3-days-tokyo-tickets-1367060377389",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1031568633%2F195639312499%2F1%2Foriginal.20250515-121514?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.239382239382&fp-y=0.494267506205&s=154c924bd3cb08f60225dbf812841d10",
+    "location": "Nagoya, JP",
+    "url": "https://www.eventbrite.com/e/istqb-advanced-level-test-manager-training-course-3-days-nagoya-tickets-1368281439619",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1032301133%2F195639312499%2F1%2Foriginal.20250516-082645?h=200&w=334&auto=format%2Ccompress&q=75&sharp=10&s=c9f2b98cebeb82a9700b0807417554d0",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -24090,6 +24950,20 @@
     "location": "Huizen, NL",
     "url": "https://www.eventbrite.nl/e/tickets-ai-monday-claude-in-de-praktijk-1986318402813",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181087283%2F276123395776%2F1%2Foriginal.20260331-123444?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=835cba1107e10b44b078bdbe8e28e3bb",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "eb-1987602946919",
+    "name": "AI Monday - Claude in de praktijk",
+    "description": "Tijdens AI Monday ontdek je met Alex Klein (PromptGorillas) hoe Claude werkt, waarom bedrijven overstappen en hoe jij het direct inzet.",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-01",
+    "city": "Huizen",
+    "country": "NL",
+    "location": "Huizen, NL",
+    "url": "https://www.eventbrite.nl/e/ai-monday-claude-in-de-praktijk-tickets-1987602946919",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182313046%2F919187866953%2F1%2Foriginal.20260416-113143?crop=focalpoint&fit=crop&w=200&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2a640065b366e06d600192cadbb053ca",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -24640,15 +25514,15 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1835682568979",
-    "name": "Decrypting DeSci (Decentralized Science) | Brisbane",
+    "id": "eb-1835684083509",
+    "name": "Decrypting DeSci (Decentralized Science) | Perth",
     "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
     "startDate": "2026-06-02",
     "endDate": "2026-06-02",
-    "city": "Brisbane",
+    "city": "Perth",
     "country": "AU",
-    "location": "Brisbane, AU",
-    "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-brisbane-tickets-1835682568979",
+    "location": "Perth, AU",
+    "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-perth-tickets-1835684083509",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1155430453%2F952210770403%2F1%2Foriginal.20251016-221859?w=400&auto=format%2Ccompress&q=75&sharp=10&s=6255ac717f8331a0d2e9a47949d51dc0",
     "source": "eventbrite",
     "month": "June 2026"
@@ -24850,20 +25724,6 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1989009299357",
-    "name": "Startups Pitch & Investors in   Amsterdam",
-    "description": "A focused pitch night with live startup pitches, direct investor feedback, and time to meet relevant founders and peers.",
-    "startDate": "2026-06-02",
-    "endDate": "2026-06-02",
-    "city": "Amsterdam",
-    "country": "NL",
-    "location": "Amsterdam, NL",
-    "url": "https://www.eventbrite.com/e/startups-pitch-investors-in-amsterdam-tickets-1989009299357",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178970023%2F2171032696763%2F1%2Foriginal.20260304-013253?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b518b1808e2d54b85c3302f28ac16645",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1983523315632",
     "name": "Quantum x AI Summit",
     "description": "Biharko teknologiek bat egiten duten ekitaldia. El evento donde convergen las tecnologías del mañana.",
@@ -24944,20 +25804,6 @@
     "location": "Vancouver, CA",
     "url": "https://www.eventbrite.ca/e/transforming-healthcare-with-ai-1-day-workshop-in-vancouver-tickets-1989278479482",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184366253%2F2824010078961%2F1%2Foriginal.20260512-044436?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b1570f28fca2f08c6fa423907c9a9d43",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "eb-1835684083509",
-    "name": "Decrypting DeSci (Decentralized Science) | Perth",
-    "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
-    "startDate": "2026-06-02",
-    "endDate": "2026-06-02",
-    "city": "Perth",
-    "country": "AU",
-    "location": "Perth, AU",
-    "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-perth-tickets-1835684083509",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1155430453%2F952210770403%2F1%2Foriginal.20251016-221859?w=400&auto=format%2Ccompress&q=75&sharp=10&s=6255ac717f8331a0d2e9a47949d51dc0",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -25925,6 +26771,32 @@
     "url": "https://www.eventbrite.com/e/das-pech-wereld-weg-tickets-1988821421409",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183797954%2F1555420395973%2F1%2Foriginal.20260505-101810?crop=focalpoint&fit=crop&h=200&w=301&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ecefe6265736357f4e2ef7cdcaa10014",
     "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314782337",
+    "description": "",
+    "startDate": "2026-06-03T19:00:00+08:00",
+    "endDate": "2026-06-03T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-bitcoin-filmfest-bff-2026-june-warsaw-pl",
+    "name": "Bitcoin FilmFest (BFF)",
+    "description": "",
+    "startDate": "2026-06-03T16:00:00.000Z",
+    "endDate": "2026-06-03T16:00:00.000Z",
+    "city": "Warsaw",
+    "country": "Poland",
+    "location": "Warsaw, Poland",
+    "url": "https://conferenceindex.org/event/bitcoin-filmfest-bff-2026-june-warsaw-pl",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "June 2026"
   },
   {
@@ -26922,17 +27794,45 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/lfdt-kuala-lumpur-and-cyberjaya/events/314584571/",
+    "id": "mu-314799892",
+    "name": "Join Biggest Community | Investors Founders | Kuala Lumpur | Online",
+    "description": "Please reserve your spot by registering on the below link : https://www.eventbrite.com/e/join-biggest-community-investors-founders-kuala-lumpur-online-tickets-1975105068428?aff=meetup QUESTIONS ? Pls ",
+    "startDate": "2026-06-04T15:00:00+04:00",
+    "endDate": "2026-06-04T15:00:00+04:00",
+    "city": "50100",
+    "country": "my",
+    "location": "50100, my",
+    "url": "https://www.meetup.com/investor/events/314799892/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314584571",
     "name": "Quantum Threat Landscape: Where We Stand and How to Prepare",
     "description": "Quantum computing is no longer a distant threat. Improvements in hardware design, new algorithmic breakthroughs, and expert surveys now put a cryptographically-relevant quantum computer sooner than th",
-    "startDate": "2026-06-04T15:00:00.000Z",
-    "endDate": "2026-06-04T15:00:00.000Z",
+    "startDate": "2026-06-04T23:00:00+08:00",
+    "endDate": "2026-06-04T23:00:00+08:00",
     "city": "",
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-kuala-lumpur-and-cyberjaya/events/314584571/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-2-square.webp",
+    "coverImage": null,
     "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-ai-enabled-digital-media-and-design-in",
+    "name": "International Conference on AI-Enabled Digital Media and Design Innovation (AIDMDI)",
+    "description": "",
+    "startDate": "2026-06-04T16:00:00.000Z",
+    "endDate": "2026-06-04T16:00:00.000Z",
+    "city": "Chengdu",
+    "country": "China",
+    "location": "Chengdu, China",
+    "url": "https://conferenceindex.org/event/international-conference-on-ai-enabled-digital-media-and-design-innovation-aidmdi-2026-june-chengdu-cn",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "June 2026"
   },
   {
@@ -27521,6 +28421,30 @@
     "url": "https://lu.ma/bxi31tef",
     "coverImage": "https://images.lumacdn.com/uploads/gl/8b020284-b3e5-4596-a084-5c6d76cbab2c.png",
     "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314684781",
+    "description": "",
+    "startDate": "2026-06-05T18:30:00+08:00",
+    "endDate": "2026-06-05T18:30:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-310846511",
+    "description": "",
+    "startDate": "2026-06-05T19:00:00+08:00",
+    "endDate": "2026-06-05T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -28672,16 +29596,40 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/wakanda-blockchain-and-cryptocurrency-meet-up/events/314699936/",
+    "id": "mu-xcbfqtyjcjbjb",
+    "description": "",
+    "startDate": "2026-06-06T10:00:00+08:00",
+    "endDate": "2026-06-06T10:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314346943",
+    "description": "",
+    "startDate": "2026-06-06T19:00:00+08:00",
+    "endDate": "2026-06-06T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314699936",
     "name": "June 2026 Wakanda Blockchain, Bitcoin and Digital Asset MeetUp",
     "description": "",
-    "startDate": "2026-06-06T13:00:00.000Z",
-    "endDate": "2026-06-06T13:00:00.000Z",
+    "startDate": "2026-06-06T21:00:00+08:00",
+    "endDate": "2026-06-06T21:00:00+08:00",
     "city": "",
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/wakanda-blockchain-and-cryptocurrency-meet-up/events/314699936/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-3-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "June 2026"
   },
@@ -28714,16 +29662,16 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-895466212547",
-    "name": "Canadian Citizenship for Managers and Business Owners - Zoom Webinar (Dub)",
+    "id": "eb-895467476327",
+    "name": "Canadian Citizenship for Managers and Business Owners - Zoom Webinar (Abu)",
     "description": "Get ready to become a proud Canadian citizen, eh? Join our online event designed exclusively for business folks like you!",
     "startDate": "2026-06-07",
     "endDate": "2026-06-07",
-    "city": "Dubai",
+    "city": "Abu Dhabi",
     "country": "AE",
-    "location": "Dubai, AE",
-    "url": "https://www.eventbrite.ca/e/canadian-citizenship-for-managers-and-business-owners-zoom-webinar-dub-tickets-895466212547",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F828025269%2F118734410329%2F1%2Foriginal.20240815-214656?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C270%2C1080%2C540&s=5b7b49b165380699e5fa160032017cef",
+    "location": "Abu Dhabi, AE",
+    "url": "https://www.eventbrite.ca/e/canadian-citizenship-for-managers-and-business-owners-zoom-webinar-abu-tickets-895467476327",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F828025719%2F118734410329%2F1%2Foriginal.20240815-214742?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C270%2C1080%2C540&s=70ab1cbbf3a5d0fb48fd3d038b3c6518",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -29103,6 +30051,62 @@
     "url": "https://www.eventbrite.com/e/paris-yoga-club-june-7-with-lucy-tickets-1985110633342",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962349833%2F1109158306183%2F1%2Foriginal.20250217-132144?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=056fa72b3df26859f0410e5c6ecd6983",
     "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-ethconf-2026-june-new-york-us",
+    "name": "ETHConf",
+    "description": "",
+    "startDate": "2026-06-07T16:00:00.000Z",
+    "endDate": "2026-06-07T16:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://conferenceindex.org/event/ethconf-2026-june-new-york-us",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-science-and-technology-iccst-",
+    "name": "International Conference on Computer Science and Technology (ICCST)",
+    "description": "",
+    "startDate": "2026-06-07T16:00:00.000Z",
+    "endDate": "2026-06-07T16:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-technology-iccst-2026-june-tokyo-jp",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi",
+    "name": "International Conference on Financial Cryptography and Data Security (ICFCDS)",
+    "description": "",
+    "startDate": "2026-06-07T16:00:00.000Z",
+    "endDate": "2026-06-07T16:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://conferenceindex.org/event/international-conference-on-financial-cryptography-and-data-security-icfcds-2026-june-tokyo-jp",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-science-and-electronics-engin",
+    "name": "International Conference on Computer Science and Electronics Engineering (ICCSEE)",
+    "description": "",
+    "startDate": "2026-06-07T16:00:00.000Z",
+    "endDate": "2026-06-07T16:00:00.000Z",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "location": "Ljubljana, Slovenia",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-electronics-engineering-iccsee-2026-june-ljubljana-si",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "June 2026"
   },
   {
@@ -29722,15 +30726,15 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1988230885099",
-    "name": "AWS Solutions Architect Associate Classroom Training in La Palma, CA",
+    "id": "eb-1988223742736",
+    "name": "AWS Solutions Architect Associate Classroom Training in Merced, CA",
     "description": "Gain AWS expertise through hands-on labs. Build secure, scalable cloud solutions and prepare confidently for the AWS Architect certification",
     "startDate": "2026-06-09",
     "endDate": "2026-06-09",
     "city": "Las Palmas de Gran Canaria",
     "country": "ES",
     "location": "Las Palmas de Gran Canaria, ES",
-    "url": "https://www.eventbrite.com/e/aws-solutions-architect-associate-classroom-training-in-la-palma-ca-tickets-1988230885099",
+    "url": "https://www.eventbrite.com/e/aws-solutions-architect-associate-classroom-training-in-merced-ca-tickets-1988223742736",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182905451%2F2966728573831%2F1%2Foriginal.20260423-190848?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.578&s=f2a22c69d8ad3de1e65ce5925b26463e",
     "source": "eventbrite",
     "month": "June 2026"
@@ -29820,16 +30824,16 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1744335968839",
-    "name": "Unravelling NFTs | Sydney",
+    "id": "eb-1744351084049",
+    "name": "Unravelling NFTs | Perth",
     "description": "2-hours live online training to help you understand the NFTs.",
     "startDate": "2026-06-09",
     "endDate": "2026-06-09",
-    "city": "Sydney",
+    "city": "Perth",
     "country": "AU",
-    "location": "Sydney, AU",
-    "url": "https://www.eventbrite.com.au/e/unravelling-nfts-sydney-tickets-1744335968839",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F281656469%2F952210770403%2F1%2Foriginal.20220510-021313?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=3d9e7a9831bfbbd4e4694e35b402082b",
+    "location": "Perth, AU",
+    "url": "https://www.eventbrite.com.au/e/unravelling-nfts-perth-tickets-1744351084049",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F281709139%2F952210770403%2F1%2Foriginal.20220510-021313?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=27e3c39283be127896b407f38a58d482",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -30030,20 +31034,6 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1744351084049",
-    "name": "Unravelling NFTs | Perth",
-    "description": "2-hours live online training to help you understand the NFTs.",
-    "startDate": "2026-06-09",
-    "endDate": "2026-06-09",
-    "city": "Perth",
-    "country": "AU",
-    "location": "Perth, AU",
-    "url": "https://www.eventbrite.com.au/e/unravelling-nfts-perth-tickets-1744351084049",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F281709139%2F952210770403%2F1%2Foriginal.20220510-021313?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=27e3c39283be127896b407f38a58d482",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1984491811429",
     "name": "Panel: Fonda Lee, Soraya Bouazzaoui & A.S. Tamaki",
     "description": "We are absolutely delighted to be joined by Fonda Lee, Soraya Bouazzaoui and A.S. Tamaki on the 9th of June!",
@@ -30226,20 +31216,6 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1968312423444",
-    "name": "Unravelling NFTs (Non Fungible Tokens)| San Francisco",
-    "description": "2-hours live online training to help you understand the NFTs.",
-    "startDate": "2026-06-10",
-    "endDate": "2026-06-10",
-    "city": "San Francisco",
-    "country": "US",
-    "location": "San Francisco, US",
-    "url": "https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-san-francisco-tickets-1968312423444",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F278991639%2F931565618923%2F1%2Foriginal.20220430-144035?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=00deb23d1ea9ac9115292b956085217b",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1967896637818",
     "name": "Unravelling NFTs (Non Fungible Tokens)| New York City",
     "description": "2-hours live online training to help you understand the NFTs.",
@@ -30250,6 +31226,20 @@
     "location": "New York, US",
     "url": "https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-new-york-city-tickets-1967896637818",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F276140869%2F931565618923%2F1%2Foriginal.20220430-144035?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=622b33a50ccec86528bd4689aab562c7",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "eb-1968312423444",
+    "name": "Unravelling NFTs (Non Fungible Tokens)| San Francisco",
+    "description": "2-hours live online training to help you understand the NFTs.",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-10",
+    "city": "San Francisco",
+    "country": "US",
+    "location": "San Francisco, US",
+    "url": "https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-san-francisco-tickets-1968312423444",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F278991639%2F931565618923%2F1%2Foriginal.20220430-144035?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=00deb23d1ea9ac9115292b956085217b",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -30688,16 +31678,28 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/lfdt-kuala-lumpur-and-cyberjaya/events/314651593/",
+    "id": "mu-zcljxtyjcjbnb",
+    "description": "",
+    "startDate": "2026-06-10T19:00:00+08:00",
+    "endDate": "2026-06-10T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314651593",
     "name": "Lineth Technical Deep Dive: Inside the Production-Grade ZK Rollup Stack",
     "description": "[With the announcement of Lineth joining Linux Foundation Decentralized Trust as an incubating project](https://www.lfdecentralizedtrust.org/blog/announcing-lineth-a-production-grade-zk-rollup-stack-j",
-    "startDate": "2026-06-10T13:00:00.000Z",
-    "endDate": "2026-06-10T13:00:00.000Z",
+    "startDate": "2026-06-10T21:00:00+08:00",
+    "endDate": "2026-06-10T21:00:00+08:00",
     "city": "",
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-kuala-lumpur-and-cyberjaya/events/314651593/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-2-square.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "June 2026"
   },
@@ -31304,6 +32306,34 @@
     "month": "June 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-management-science-and-computer-engine",
+    "name": "International Conference on Management Science and Computer Engineering (MSCE)",
+    "description": "",
+    "startDate": "2026-06-11T16:00:00.000Z",
+    "endDate": "2026-06-11T16:00:00.000Z",
+    "city": "Beijing",
+    "country": "China",
+    "location": "Beijing, China",
+    "url": "https://conferenceindex.org/event/international-conference-on-management-science-and-computer-engineering-msce-2026-june-beijing-cn",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-digital-economy-and-intelligent-comput",
+    "name": "International Conference on Digital Economy and Intelligent Computing (DEIC)",
+    "description": "",
+    "startDate": "2026-06-11T16:00:00.000Z",
+    "endDate": "2026-06-11T16:00:00.000Z",
+    "city": "Johor Bahru",
+    "country": "Malaysia",
+    "location": "Johor Bahru, Malaysia",
+    "url": "https://conferenceindex.org/event/international-conference-on-digital-economy-and-intelligent-computing-deic-2026-june-johor-bahru-my",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
     "id": "eb-1988640381915",
     "name": "HTML for Front End Web Development",
     "description": "Get ready to sharpen your number skills and dive into the world of accounting with this fun, hands-on training session!",
@@ -31892,6 +32922,18 @@
     "month": "June 2026"
   },
   {
+    "id": "mu-314346946",
+    "description": "",
+    "startDate": "2026-06-12T19:00:00+08:00",
+    "endDate": "2026-06-12T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-evt-z7ueLjGvXzHZWgI",
     "name": "Bitcoin, Beer & Live Art Auction",
     "description": "",
@@ -32055,7 +33097,7 @@
     "country": "JP",
     "location": "Chatan, JP",
     "url": "https://www.eventbrite.com/e/father-and-daughter-dance-butler-officers-club-tickets-1988622749175",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184190222%2F557987687475%2F1%2Foriginal.20260509-130916?crop=focalpoint&fit=crop&h=122&w=318&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e3c1e8b624590dddc872729d6ffe3815",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184190222%2F557987687475%2F1%2Foriginal.20260509-130916?crop=focalpoint&fit=crop&h=159&w=270&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=04af6de9426428c80263bc9aa69f8644",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -32746,17 +33788,55 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-https://www.meetup.com/redefine-wellness/events/314159676/",
+    "id": "mu-xcbfqtyjcjbrb",
+    "description": "",
+    "startDate": "2026-06-13T10:00:00+08:00",
+    "endDate": "2026-06-13T10:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314159676",
     "name": "ICIT Talk",
     "description": "Do you have any emotions or behaviour patterns? Relationship issues? Fears or phobias? Unexplainable physical issues? Limiting belief systems or unexplained emotional reactions? The root cause may be ",
-    "startDate": "2026-06-13T06:00:00.000Z",
-    "endDate": "2026-06-13T06:00:00.000Z",
+    "startDate": "2026-06-13T14:00:00+08:00",
+    "endDate": "2026-06-13T14:00:00+08:00",
     "city": "",
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/redefine-wellness/events/314159676/",
-    "coverImage": "/images/fallbacks/redesign/group-cover-4-square.webp",
+    "coverImage": null,
     "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314376100",
+    "description": "",
+    "startDate": "2026-06-13T19:00:00+08:00",
+    "endDate": "2026-06-13T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-neocypherpunk-summit-science-2026-june-berlin-de",
+    "name": "Neocypherpunk Summit (SCIENCE)",
+    "description": "",
+    "startDate": "2026-06-13T16:00:00.000Z",
+    "endDate": "2026-06-13T16:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://conferenceindex.org/event/neocypherpunk-summit-science-2026-june-berlin-de",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "June 2026"
   },
   {
@@ -33460,6 +34540,20 @@
     "month": "June 2026"
   },
   {
+    "id": "eb-1984347445627",
+    "name": "MCCS Okinawa Dolphins Swim School McTureous Session 1 2026",
+    "description": "Summer Session 1 Online Registration: Opens (12:00am) Mon 1 June; Closes (11:59pm) Sun 14 June. Classes 16-18th & 23-26th June",
+    "startDate": "2026-06-16",
+    "endDate": "2026-06-27",
+    "city": "Chatan",
+    "country": "JP",
+    "location": "Chatan, JP",
+    "url": "https://www.eventbrite.com/e/mccs-okinawa-dolphins-swim-school-mctureous-session-1-2026-registration-1984347445627",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1040465133%2F236313101863%2F1%2Foriginal.20250528-101837?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=56f72cc2b79a088efb1292a4d0671179",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
     "id": "eb-1981272926658",
     "name": "MCCS Okinawa Dolphins Swim School Plaza Session 1 2026",
     "description": "Summer Session 1 Online Registration: Opens (12:00am) Mon 1 June; Closes (11:59pm) Sun 14 June. Classes 16-18th & 23-26th June",
@@ -33474,15 +34568,15 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1984347445627",
-    "name": "MCCS Okinawa Dolphins Swim School McTureous Session 1 2026",
-    "description": "Summer Session 1 Online Registration: Opens (12:00am) Mon 1 June; Closes (11:59pm) Sun 14 June. Classes 16-18th & 23-26th June",
+    "id": "eb-1984211121879",
+    "name": "MCCS Okinawa Dolphins Swim School Kinser Session 1 2026",
+    "description": "Summer Session 1 Online Registration: Opens (12:00am) Mon 1 June; Closes (11:59pm) Sun 14 June. Classes  June16-18th & 23-26th June",
     "startDate": "2026-06-16",
     "endDate": "2026-06-27",
-    "city": "Chatan",
+    "city": "Urasoe",
     "country": "JP",
-    "location": "Chatan, JP",
-    "url": "https://www.eventbrite.com/e/mccs-okinawa-dolphins-swim-school-mctureous-session-1-2026-registration-1984347445627",
+    "location": "Urasoe, JP",
+    "url": "https://www.eventbrite.com/e/mccs-okinawa-dolphins-swim-school-kinser-session-1-2026-registration-1984211121879",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1040465133%2F236313101863%2F1%2Foriginal.20250528-101837?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=56f72cc2b79a088efb1292a4d0671179",
     "source": "eventbrite",
     "month": "June 2026"
@@ -33866,20 +34960,6 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1981418744804",
-    "name": "Curso de Energia Solar em Cuiabá MT nos dias 16/06 e 17/06/2026",
-    "description": "Curso de Energia Solar em Cuibá. Curso Projetista Solar e Curso Instalador Solar em Cuiabá Mato Grosso",
-    "startDate": "2026-06-16",
-    "endDate": "2026-06-17",
-    "city": "Centro Norte",
-    "country": "BR",
-    "location": "Centro Norte, BR",
-    "url": "https://www.eventbrite.com.br/e/curso-de-energia-solar-em-cuiaba-mt-nos-dias-1606-e-17062026-tickets-1981418744804",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F244363739%2F375801408595%2F1%2Foriginal.20191118-010724?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=116%2C0%2C630%2C315&s=9be66d27b4a76d72d51d416b9d623ac9",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1988824052278",
     "name": "Sunrise Yoga: Balance found in the first light",
     "description": "Stretch your body, clear your mind, and fuel your spirit in this uplifting, intention-setting yoga class to enhance your day ahead.",
@@ -33890,6 +34970,20 @@
     "location": "Almancil, PT",
     "url": "https://www.eventbrite.pt/e/sunrise-yoga-balance-found-in-the-first-light-tickets-1988824052278",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183801661%2F325966086295%2F1%2Foriginal.20260505-113842?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.525&fp-y=0.683&s=4f654641c10dae71d5044205b61da2fc",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "eb-1981418744804",
+    "name": "Curso de Energia Solar em Cuiabá MT nos dias 16/06 e 17/06/2026",
+    "description": "Curso de Energia Solar em Cuibá. Curso Projetista Solar e Curso Instalador Solar em Cuiabá Mato Grosso",
+    "startDate": "2026-06-16",
+    "endDate": "2026-06-17",
+    "city": "Centro Norte",
+    "country": "BR",
+    "location": "Centro Norte, BR",
+    "url": "https://www.eventbrite.com.br/e/curso-de-energia-solar-em-cuiaba-mt-nos-dias-1606-e-17062026-tickets-1981418744804",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F244363739%2F375801408595%2F1%2Foriginal.20191118-010724?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=116%2C0%2C630%2C315&s=9be66d27b4a76d72d51d416b9d623ac9",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -34090,6 +35184,20 @@
     "month": "June 2026"
   },
   {
+    "id": "eb-1989652708812",
+    "name": "Défilé de mode MJM Graphic Design Marseille 2026",
+    "description": "The Manifest met en lumière les talents de nos étudiants en stylisme : des créations originales, un manifeste d’idées et la mode de demain.",
+    "startDate": "2026-06-17",
+    "endDate": "2026-06-17",
+    "city": "Marseille",
+    "country": "FR",
+    "location": "Marseille, FR",
+    "url": "https://www.eventbrite.com/e/billets-defile-de-mode-mjm-graphic-design-marseille-2026-1989652708812",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184676660%2F1169787671553%2F1%2Foriginal.20260515-114021?crop=focalpoint&fit=crop&w=300&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6d252b35089a5e97f59ded5d7281067e",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
     "id": "eb-1988392464387",
     "name": "Das KI-Dilemma zwischen Nutzen und Haftung",
     "description": "KI nutzen ohne Haftungsrisiken: Was Führungskräfte jetzt zu Chancen, Pflichten und rechtssicherem KI‑Einsatz wissen müssen.",
@@ -34157,6 +35265,44 @@
     "url": "https://lu.ma/bcq3wqfs",
     "coverImage": "https://images.lumacdn.com/event-covers/3a/a58f23ba-95f0-450e-8625-9015aec2cbf2.png",
     "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-zcljxtyjcjbwb",
+    "description": "",
+    "startDate": "2026-06-17T19:00:00+08:00",
+    "endDate": "2026-06-17T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-313124892",
+    "description": "",
+    "startDate": "2026-06-17T19:00:00+08:00",
+    "endDate": "2026-06-17T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computational-science-and-ai-applicati",
+    "name": "International Conference on Computational Science and AI Applications",
+    "description": "",
+    "startDate": "2026-06-17T16:00:00.000Z",
+    "endDate": "2026-06-17T16:00:00.000Z",
+    "city": "Singapore",
+    "country": "Singapore",
+    "location": "Singapore, Singapore",
+    "url": "https://conferenceindex.org/event/international-conference-on-computational-science-and-ai-applications-2026-june-singapore-sg",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "June 2026"
   },
   {
@@ -34692,6 +35838,18 @@
     "month": "June 2026"
   },
   {
+    "id": "mu-brrjxtyjcjbxb",
+    "description": "",
+    "startDate": "2026-06-18T15:00:00+04:00",
+    "endDate": "2026-06-18T15:00:00+04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-cal-toPMv16nlf4gHVa",
     "name": "Web3 Summit",
     "description": "Catch side events at Web3 Summit in Berlin from June 18–19, where developers and pioneers dive into the future of the decentralized web.",
@@ -34703,6 +35861,20 @@
     "url": "https://lu.ma/web3-summit",
     "coverImage": "https://images.unsplash.com/photo-1484689228555-fd6bc1b28b7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxM3x8YmVybGlufGVufDB8fHx8MTc1MTE0ODYyNnwy&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-information-technology-and-",
+    "name": "International Conference on Blockchain, Information Technology and Smart Finance (ICBIS)",
+    "description": "",
+    "startDate": "2026-06-18T16:00:00.000Z",
+    "endDate": "2026-06-18T16:00:00.000Z",
+    "city": "Shanghai",
+    "country": "China",
+    "location": "Shanghai, China",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-information-technology-and-smart-finance-icbis-2026-june-shanghai-cn",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "June 2026"
   },
   {
@@ -34997,6 +36169,30 @@
     "url": "https://www.eventbrite.com.br/e/curso-de-energia-solar-em-brasilia-df-nos-dias-1906-e-20062026-tickets-1984123614141",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F425667859%2F375801408595%2F1%2Foriginal.20191118-010724?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=116%2C0%2C630%2C315&s=58c961a31c41bbb5f3c32bb398d4b31c",
     "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-qtqwwtyjcjbzb",
+    "description": "",
+    "startDate": "2026-06-19T18:30:00+08:00",
+    "endDate": "2026-06-19T18:30:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-rqvsrtyjcjbzb",
+    "description": "",
+    "startDate": "2026-06-19T21:00:00+08:00",
+    "endDate": "2026-06-19T21:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -35658,6 +36854,18 @@
     "month": "June 2026"
   },
   {
+    "id": "mu-qhdlxtyjcjbbc",
+    "description": "",
+    "startDate": "2026-06-20T14:30:00+08:00",
+    "endDate": "2026-06-20T14:30:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
     "id": "eb-1981659599206",
     "name": "Kinser Bike Race June 2026 MCCS Adult Sports",
     "description": "Get ready to pedal your way to victory in the Kinser Bike Race - it's time to show off those biking skills!",
@@ -35667,7 +36875,7 @@
     "country": "JP",
     "location": "Urasoe, JP",
     "url": "https://www.eventbrite.com/e/kinser-bike-race-june-2026-mccs-adult-sports-tickets-1981659599206",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180442097%2F240810672005%2F1%2Foriginal.20260323-044201?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.505&fp-y=0.345&s=279e836532de4652376f0e47b404cd77",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180442097%2F240810672005%2F1%2Foriginal.20260323-044201?crop=focalpoint&fit=crop&h=200&w=334&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.505&fp-y=0.345&s=6dd542c9a501af6523018bd286a92b3b",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -35921,6 +37129,32 @@
     "url": "https://www.eventbrite.com/e/bilhetes-devocional-da-primaria-1982181620586",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176441143%2F2346067996753%2F1%2Foriginal.20260202-120341?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=0a3dd45d84b7cb427430c3b7db3fdfa4",
     "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-vqkbspyjcjbcc",
+    "description": "",
+    "startDate": "2026-06-21T14:00:00+08:00",
+    "endDate": "2026-06-21T14:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-",
+    "name": "International Conference on Cryptography and Information Security (ICCIS)",
+    "description": "",
+    "startDate": "2026-06-21T16:00:00.000Z",
+    "endDate": "2026-06-21T16:00:00.000Z",
+    "city": "Vienna",
+    "country": "Austria",
+    "location": "Vienna, Austria",
+    "url": "https://conferenceindex.org/event/international-conference-on-cryptography-and-information-security-iccis-2026-june-vienna-at",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "June 2026"
   },
   {
@@ -37235,7 +38469,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.eventbrite.co.uk/e/fundamentals-of-crypto-trading-tickets-1984481230782",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178320163%2F2775024372631%2F1%2Foriginal.20260224-165103?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.095&fp-y=0.449&s=9539d2d6df4a2e44c61d94351f0558fe",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178320163%2F2775024372631%2F1%2Foriginal.20260224-165103?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.095&fp-y=0.449&s=d5f8781430af3f6f734dc9f9e488ae86",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -37727,6 +38961,34 @@
     "url": "https://www.eventbrite.com/e/embrasa-convida-nandatsunami-faro-pt-art-haus-club-tickets-1988913359398",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183916857%2F2998468055781%2F1%2Foriginal.20260506-141413?w=434&auto=format%2Ccompress&q=75&sharp=10&s=ca140bac6246ccb5417924dd37eb59be",
     "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-information-and-computer-technology-ic",
+    "name": "International Conference on Information and Computer Technology (ICICT)",
+    "description": "",
+    "startDate": "2026-06-28T16:00:00.000Z",
+    "endDate": "2026-06-28T16:00:00.000Z",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "location": "Istanbul, Turkey",
+    "url": "https://conferenceindex.org/event/international-conference-on-information-and-computer-technology-icict-2026-june-istanbul-tr",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-advanced-computer-science-and-informat",
+    "name": "International Conference on Advanced Computer Science and Information Technology (ICACSIT)",
+    "description": "",
+    "startDate": "2026-06-28T16:00:00.000Z",
+    "endDate": "2026-06-28T16:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://conferenceindex.org/event/international-conference-on-advanced-computer-science-and-information-technology-icacsit-2026-june-london-gb",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "June 2026"
   },
   {
@@ -38318,6 +39580,32 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-brrjxtyjckbdb",
+    "description": "",
+    "startDate": "2026-07-02T15:00:00+04:00",
+    "endDate": "2026-07-02T15:00:00+04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-digital-economy-blockchain-and-artific",
+    "name": "International Conference on Digital Economy, Blockchain and Artificial Intelligence (DEBAI)",
+    "description": "",
+    "startDate": "2026-07-02T16:00:00.000Z",
+    "endDate": "2026-07-02T16:00:00.000Z",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://conferenceindex.org/event/international-conference-on-digital-economy-blockchain-and-artificial-intelligence-debai-2026-july-ho-chi-minh-city-vn",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "July 2026"
+  },
+  {
     "id": "eb-1989173105305",
     "name": "Web Development Fundamentals for Modern Websites",
     "description": "Get ready to build cool, up-to-date websites from scratch with easy, hands-on tips and tricks.",
@@ -38468,20 +39756,6 @@
     "location": "St. Thomas, CA",
     "url": "https://www.eventbrite.ca/e/railway-city-fc-mens-l3-vs-st-catharines-roma-tickets-1986590596953",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180776491%2F2454887129611%2F1%2Foriginal.20260326-180353?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b32bea78b67d35621406c5ffd5db697e",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
-    "id": "eb-1988808852816",
-    "name": "Silver Run Club  9",
-    "description": "เพราะมากกว่าการออกกำลังกาย คือการใช้เวลาดีๆร่วมกัน\nเพราะดีกว่ารอให้ป่วยแล้วไปรักษา คือการบอกรักและขอบคุณร่างกาย \nSilver Run Club  ของทุกวัย",
-    "startDate": "2026-07-04",
-    "endDate": "2026-07-04",
-    "city": "Pathum Wan",
-    "country": "TH",
-    "location": "Pathum Wan, TH",
-    "url": "https://www.eventbrite.com/e/silver-run-club-9-tickets-1988808852816",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183881096%2F1195594413003%2F1%2Foriginal.20260506-033328?crop=focalpoint&fit=crop&w=156&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a3d73ce81303265421876f5743f8e885",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -39060,6 +40334,20 @@
     "month": "July 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-blockchain-and-internet-of-things-conference-biotc-2026-july-tokyo",
+    "name": "Blockchain and Internet of Things Conference (BIOTC)",
+    "description": "",
+    "startDate": "2026-07-07T16:00:00.000Z",
+    "endDate": "2026-07-07T16:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://conferenceindex.org/event/blockchain-and-internet-of-things-conference-biotc-2026-july-tokyo-jp-1",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "July 2026"
+  },
+  {
     "id": "eb-1985733662840",
     "name": "What Is Crypto? What Savvy Investors Should Know",
     "description": "Crypto has evolved. Learn the basics—and what actually matters for investors today.",
@@ -39531,7 +40819,7 @@
     "country": "AE",
     "location": "dubai, AE",
     "url": "https://www.eventbrite.com/e/corporate-training-event-in-dubai-tickets-1978230071396",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173118168%2F436351908746%2F1%2Foriginal.20251217-095835?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c23265ce30f6ab0082d557b11630815e",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173118168%2F436351908746%2F1%2Foriginal.20251217-095835?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=606f0cd536468372a0f83e3b714934dc",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -39732,20 +41020,6 @@
     "month": "July 2026"
   },
   {
-    "id": "eb-1989019330360",
-    "name": "Digital Asset Regulatory Authority: Suriname Task Force Meeting",
-    "description": "Join the online Task Force meeting to shape digital asset regulations together!",
-    "startDate": "2026-07-13",
-    "endDate": "2026-07-17",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com/e/digital-asset-regulatory-authority-suriname-task-force-meeting-tickets-1989019330360",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184028870%2F1715137040773%2F1%2Foriginal.20260507-153402?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d7fc80f8050efa149cf108062197bc38",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1988959621770",
     "name": "Digital Asset Regulatory Authority: Norway Task Force Meeting",
     "description": "Join the online Task Force meeting to shape digital asset regulations together!",
@@ -39756,6 +41030,20 @@
     "location": "Online",
     "url": "https://www.eventbrite.com/e/digital-asset-regulatory-authority-norway-task-force-meeting-tickets-1988959621770",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183970632%2F1715137040773%2F1%2Foriginal.20260506-231429?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d032e8cc89e62119d0a45ffb22fabf02",
+    "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
+    "id": "eb-1989019330360",
+    "name": "Digital Asset Regulatory Authority: Suriname Task Force Meeting",
+    "description": "Join the online Task Force meeting to shape digital asset regulations together!",
+    "startDate": "2026-07-13",
+    "endDate": "2026-07-17",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.com/e/digital-asset-regulatory-authority-suriname-task-force-meeting-tickets-1989019330360",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184028870%2F1715137040773%2F1%2Foriginal.20260507-153402?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d7fc80f8050efa149cf108062197bc38",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -39798,20 +41086,6 @@
     "location": "Online",
     "url": "https://www.eventbrite.com/e/digital-asset-regulatory-authority-south-america-task-force-meeting-tickets-1988212951459",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183003026%2F1715137040773%2F1%2Foriginal.20260424-222818?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cabc048947f31c986de55201c6e89b84",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
-    "id": "eb-1988454190010",
-    "name": "Digital Asset Regulatory Authority: Belgium Task Force Meeting",
-    "description": "Join the online Task Force meeting to shape digital asset regulations together!",
-    "startDate": "2026-07-13",
-    "endDate": "2026-07-17",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com/e/digital-asset-regulatory-authority-belgium-task-force-meeting-tickets-1988454190010",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183295990%2F1715137040773%2F1%2Foriginal.20260429-033215?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c3501cbff5abd42f095a2e08887cea25",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -39909,7 +41183,7 @@
     "country": "NG",
     "location": "Victoria Island, NG",
     "url": "https://www.eventbrite.be/e/odoo-business-show-lagos-tickets-1989376886821",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184489781%2F249279770594%2F1%2Foriginal.20260513-114358?crop=focalpoint&fit=crop&w=300&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ee70113c95d7770858a46c87995abf17",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184489781%2F249279770594%2F1%2Foriginal.20260513-114358?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=76dcef3c1d2c10daa4812bbec9078b76",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -40054,6 +41328,18 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-xddwvtyjckbtb",
+    "description": "",
+    "startDate": "2026-07-15T19:00:00+08:00",
+    "endDate": "2026-07-15T19:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "eb-1988857768123",
     "name": "CARIBBEAN VIBEZ (SOLUNA TORONTO)",
     "description": "Get ready to dance all night with hot beats and island vibes at SOLUNA Toronto’s Caribbean Vibez party!",
@@ -40065,6 +41351,18 @@
     "url": "https://www.eventbrite.com/e/caribbean-vibez-soluna-toronto-tickets-1988857768123",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183844275%2F1630133592853%2F1%2Foriginal.20260505-184246?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=df052312b6d9df340cf5b4a1402e4f06",
     "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-brrjxtyjckbvb",
+    "description": "",
+    "startDate": "2026-07-16T15:00:00+04:00",
+    "endDate": "2026-07-16T15:00:00+04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -40194,6 +41492,18 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-rqvsrtyjckbwb",
+    "description": "",
+    "startDate": "2026-07-17T21:00:00+08:00",
+    "endDate": "2026-07-17T21:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "eb-1986149488586",
     "name": "Watercolour Oracle Card Class with Mindfulness",
     "description": "Join us in person to create beautiful set of watercolor oracle cards while practicing mindfulness and good vibes!",
@@ -40264,6 +41574,18 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-qhdlxtyjckbxb",
+    "description": "",
+    "startDate": "2026-07-18T14:30:00+08:00",
+    "endDate": "2026-07-18T14:30:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "eb-1985647909349",
     "name": "12th Global Conference On Hospitality & Tourism Management (GCHTM) 2026",
     "description": "Get ready for the ultimate gathering of hospitality and tourism experts from around the world in 2026!",
@@ -40289,6 +41611,18 @@
     "url": "https://www.eventbrite.sg/e/all-new-shio-pan-crispy-fluffy-tickets-1988796697459",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183762259%2F461236375148%2F1%2Foriginal.20260504-233931?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=95067b813d2fa98b123ae8db72a61826",
     "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-vqkbspyjckbzb",
+    "description": "",
+    "startDate": "2026-07-19T14:00:00+08:00",
+    "endDate": "2026-07-19T14:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -40474,6 +41808,20 @@
     "month": "July 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-pragma-pragma-2026-july-lisbon-pt",
+    "name": "Pragma (PRAGMA)",
+    "description": "",
+    "startDate": "2026-07-22T16:00:00.000Z",
+    "endDate": "2026-07-22T16:00:00.000Z",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "location": "Lisbon, Portugal",
+    "url": "https://conferenceindex.org/event/pragma-pragma-2026-july-lisbon-pt",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "July 2026"
+  },
+  {
     "id": "eb-1987826246815",
     "name": "5th Annual Web3 Investor Day",
     "description": "Investing in Adoption",
@@ -40541,6 +41889,20 @@
     "url": "https://www.eventbrite.com/e/ded-the-anti-everything-tour-wsg-dropout-kings-tickets-1984415611513",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178955530%2F368031249573%2F1%2Foriginal.20260303-221937?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.496&fp-y=0.382&s=1f1d46d38609d28f5890c10eacf50f20",
     "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-blockchain-and-cryptoc",
+    "name": "International Conference on Smart Contracts, Blockchain and Cryptocurrencies (ICSCBC)",
+    "description": "",
+    "startDate": "2026-07-23T16:00:00.000Z",
+    "endDate": "2026-07-23T16:00:00.000Z",
+    "city": "Rhodes",
+    "country": "Greece",
+    "location": "Rhodes, Greece",
+    "url": "https://conferenceindex.org/event/international-conference-on-smart-contracts-blockchain-and-cryptocurrencies-icscbc-2026-july-rhodes-gr",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "July 2026"
   },
   {
@@ -40642,6 +42004,34 @@
     "month": "July 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-coding-and-information-se",
+    "name": "International Conference on Cryptography, Coding and Information Security (ICCCIS)",
+    "description": "",
+    "startDate": "2026-07-25T16:00:00.000Z",
+    "endDate": "2026-07-25T16:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://conferenceindex.org/event/international-conference-on-cryptography-coding-and-information-security-icccis-2026-july-london-gb",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "July 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-and-information-sciences-icci",
+    "name": "International Conference on Computer and Information Sciences (ICCIS)",
+    "description": "",
+    "startDate": "2026-07-25T16:00:00.000Z",
+    "endDate": "2026-07-25T16:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-and-information-sciences-iccis-2026-july-london-gb",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "July 2026"
+  },
+  {
     "id": "eb-1987286839433",
     "name": "PPDS STEAM Summer Camp 2026: Week 3: 27 - 31 July 2026 (Mon to Fri)",
     "description": "PPDS Summer Camp 2026",
@@ -40695,6 +42085,20 @@
     "url": "https://www.eventbrite.co.uk/e/film-probeunterricht-foley-tickets-1987127295232",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181863667%2F1155369495903%2F1%2Foriginal.20260410-123130?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fd879c9b634dd147e79cafcbd69df1be",
     "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-artificial-intelligence-and",
+    "name": "International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys)",
+    "description": "",
+    "startDate": "2026-07-28T16:00:00.000Z",
+    "endDate": "2026-07-28T16:00:00.000Z",
+    "city": "Chengdu",
+    "country": "China",
+    "location": "Chengdu, China",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-artificial-intelligence-and-trustworthy-systems-blocksys-2026-july-chengdu-cn",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "July 2026"
   },
   {
@@ -40992,6 +42396,20 @@
     "month": "August 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-science-and-information-techn",
+    "name": "International Conference on Computer Science and Information Technology (ICCSIT)",
+    "description": "",
+    "startDate": "2026-08-04T16:00:00.000Z",
+    "endDate": "2026-08-04T16:00:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-information-technology-iccsit-2026-august-amsterdam-nl",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "August 2026"
+  },
+  {
     "id": "eb-1987401982830",
     "name": "A3 Problem Solving: Craft Clear Solutions with Precision",
     "description": "Learn A3 techniques to identify, analyze, and solve problems efficiently within your organization!",
@@ -41174,6 +42592,20 @@
     "month": "August 2026"
   },
   {
+    "id": "eb-1988886138981",
+    "name": "Silver Run Club 10",
+    "description": "เพราะมากกว่าการออกกำลังกาย คือการใช้เวลาดีๆร่วมกัน\nเพราะดีกว่ารอให้ป่วยแล้วไปรักษา คือการบอกรักและขอบคุณร่างกาย \nSilver Run Club  ของทุกวัย",
+    "startDate": "2026-08-08",
+    "endDate": "2026-08-08",
+    "city": "Pathum Wan",
+    "country": "TH",
+    "location": "Pathum Wan, TH",
+    "url": "https://www.eventbrite.com/e/silver-run-club-10-tickets-1988886138981",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183881210%2F1195594413003%2F1%2Foriginal.20260506-033540?crop=focalpoint&fit=crop&w=156&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.21&fp-y=0.409&s=665a1d059fed52bca940e7693aa36fca",
+    "source": "eventbrite",
+    "month": "August 2026"
+  },
+  {
     "id": "eb-1988929862760",
     "name": "Découverte de Bruges - DAY TRIP - 8 août",
     "description": "Découverte de Bruges - DAY TRIP - 8 août",
@@ -41314,6 +42746,20 @@
     "month": "August 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-applied-cryptography-icac-2026-august-",
+    "name": "International Conference on Applied Cryptography (ICAC)",
+    "description": "",
+    "startDate": "2026-08-11T16:00:00.000Z",
+    "endDate": "2026-08-11T16:00:00.000Z",
+    "city": "Venice",
+    "country": "Italy",
+    "location": "Venice, Italy",
+    "url": "https://conferenceindex.org/event/international-conference-on-applied-cryptography-icac-2026-august-venice-it",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-cal-tGrgzk7qB81dvI8",
     "name": "Blockchain Rio",
     "description": "Explore side events at Blockchain Rio from August 11-13, bringing together the crypto community in Rio de Janeiro.",
@@ -41367,6 +42813,20 @@
     "url": "https://www.eventbrite.de/e/avi-avital-friends-world-tickets-1981567066438",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175824921%2F2885271649001%2F1%2Foriginal.20260126-110118?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C407%2C8220%2C4110&s=9e4e41bcb8ad6e4a779398e9d3e3dd89",
     "source": "eventbrite",
+    "month": "August 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-bitcoin-beyond-bb66-2026-august-bodo-no",
+    "name": "Bitcoin Beyond (BB66)",
+    "description": "",
+    "startDate": "2026-08-13T16:00:00.000Z",
+    "endDate": "2026-08-13T16:00:00.000Z",
+    "city": "Bodø",
+    "country": "Norway",
+    "location": "Bodø, Norway",
+    "url": "https://conferenceindex.org/event/bitcoin-beyond-bb66-2026-august-bodo-no",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "August 2026"
   },
   {
@@ -41440,6 +42900,18 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-314781348",
+    "description": "",
+    "startDate": "2026-08-15T14:30:00+08:00",
+    "endDate": "2026-08-15T14:30:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-tMwSsSP5skcLgia",
     "name": "FashionDAO PRINTER'S ROW ART FEST",
     "description": "",
@@ -41465,6 +42937,18 @@
     "url": "https://www.eventbrite.ca/e/space-awareness-ether-element-soundbath-nervous-system-regulation-tickets-1985145541754",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179786478%2F2489396173731%2F1%2Foriginal.20260313-155413?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C41%2C1200%2C600&s=483b754a28eec7d67e869c028d98b319",
     "source": "eventbrite",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-vqkbspyjclbvb",
+    "description": "",
+    "startDate": "2026-08-16T14:00:00+08:00",
+    "endDate": "2026-08-16T14:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -41594,6 +43078,18 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-rqvsrtyjclbcc",
+    "description": "",
+    "startDate": "2026-08-21T21:00:00+08:00",
+    "endDate": "2026-08-21T21:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "eb-1986404725005",
     "name": "Understanding the Flaming-Mouth Ceremony (Yankou) in Chinese Buddhism",
     "description": "Discover the meaning, symbolism, and compassion behind the Flaming-Mouth (Yankou) ritual in Chinese Buddhism",
@@ -41689,6 +43185,20 @@
     "url": "https://www.eventbrite.com/e/future-world-expo-toronto-tickets-1502956386009",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184473421%2F2412375150363%2F1%2Foriginal.20260513-062626?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.504&fp-y=0.403&s=e338791ee79bfdbf48ac2cc6e6210f14",
     "source": "eventbrite",
+    "month": "August 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-e-commerce-e-administration-e-society-",
+    "name": "International Conference on E-commerce, E-administration, E-society, E-education and E-technology (ICCASET)",
+    "description": "",
+    "startDate": "2026-08-25T16:00:00.000Z",
+    "endDate": "2026-08-25T16:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://conferenceindex.org/event/international-conference-on-e-commerce-e-administration-e-society-e-education-and-e-technology-iccaset-2026-august-paris-fr",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "August 2026"
   },
   {
@@ -42107,7 +43617,7 @@
     "country": "CA",
     "location": "Elora, CA",
     "url": "https://www.eventbrite.com/e/cw-family-funday-2026-tickets-1989259872829",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184339628%2F2992394317155%2F1%2Foriginal.20260511-211833?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d7e17b042d2f282e64507ffc325c41dc",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184339628%2F2992394317155%2F1%2Foriginal.20260511-211833?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=167f8f207b96330dce64411b2f8fe977",
     "source": "eventbrite",
     "month": "September 2026"
   },
@@ -42714,6 +44224,18 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-rqvsrtyjcmbxb",
+    "description": "",
+    "startDate": "2026-09-18T21:00:00+08:00",
+    "endDate": "2026-09-18T21:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "eb-1988757950566",
     "name": "HAPPY 4 ALL SA SINGAPORE – Birthday Comedy Special ni Alex Calleja",
     "description": "Bumabalik sa SG si Alex Calleja! Fresh mula sa #1 Netflix special—ipagdiwang ang kanyang birthday sa gabing puno ng tawa.",
@@ -42728,6 +44250,32 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-qhdlxtyjcmbzb",
+    "description": "",
+    "startDate": "2026-09-19T14:30:00+08:00",
+    "endDate": "2026-09-19T14:30:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-applied-cryptography-icac-2026-septemb",
+    "name": "International Conference on Applied Cryptography (ICAC)",
+    "description": "",
+    "startDate": "2026-09-19T16:00:00.000Z",
+    "endDate": "2026-09-19T16:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://conferenceindex.org/event/international-conference-on-applied-cryptography-icac-2026-september-toronto-ca",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "September 2026"
+  },
+  {
     "id": "eb-1989369775551",
     "name": "Salsa 3-Hour Basic QUEER Rotterdam - LatinBootcamp.nl",
     "description": "Leer Salsa dansen in slechts 3 uur tijd! \nDeze bootcamp is voor iedereen die de basis elementen van Cuban Salsa wil leren dansen.",
@@ -42737,20 +44285,6 @@
     "country": "NL",
     "location": "Rotterdam, NL",
     "url": "https://www.eventbrite.nl/e/salsa-3-hour-basic-queer-rotterdam-latinbootcampnl-tickets-1989369775551",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149499243%2F2947941287001%2F1%2Foriginal.20251009-215641?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f876f9ac0fc3af2ee8c352a98f9aa0da",
-    "source": "eventbrite",
-    "month": "September 2026"
-  },
-  {
-    "id": "eb-1989370211856",
-    "name": "Bachata 3-Hour Basic QUEER Rotterdam - LatinBootcamp.nl",
-    "description": "Leer Salsa dansen in slechts 3 uur tijd! \nDeze bootcamp is voor iedereen die de basis elementen van Cuban Salsa wil leren dansen.",
-    "startDate": "2026-09-20",
-    "endDate": "2026-09-20",
-    "city": "Rotterdam",
-    "country": "NL",
-    "location": "Rotterdam, NL",
-    "url": "https://www.eventbrite.nl/e/bachata-3-hour-basic-queer-rotterdam-latinbootcampnl-tickets-1989370211856",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149499243%2F2947941287001%2F1%2Foriginal.20251009-215641?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f876f9ac0fc3af2ee8c352a98f9aa0da",
     "source": "eventbrite",
     "month": "September 2026"
@@ -42784,6 +44318,18 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-vqkbspyjcmbbc",
+    "description": "",
+    "startDate": "2026-09-20T14:00:00+08:00",
+    "endDate": "2026-09-20T14:00:00+08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "eb-1585480878989",
     "name": "Software training institute",
     "description": "Get ready to level up your tech skills at our Software Training Institute event - where hands-on learning meets real-world applications!",
@@ -42795,6 +44341,20 @@
     "url": "https://www.eventbrite.com/e/software-training-institute-tickets-1585480878989",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1094581103%2F2863490400121%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=ffc8cdcca90470dc086333439ba1ad6c",
     "source": "eventbrite",
+    "month": "September 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-pragma-pragma-2026-september-tokyo-jp",
+    "name": "Pragma (PRAGMA)",
+    "description": "",
+    "startDate": "2026-09-23T16:00:00.000Z",
+    "endDate": "2026-09-23T16:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://conferenceindex.org/event/pragma-pragma-2026-september-tokyo-jp",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "September 2026"
   },
   {
@@ -43061,6 +44621,34 @@
     "url": "https://www.eventbrite.com/e/autumn-ball-tickets-1984670983337",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179273893%2F350960645993%2F1%2Foriginal.20260307-141236?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C94%2C2478%2C1239&s=e1ab785946ad264b5f3851f3d97038b3",
     "source": "eventbrite",
+    "month": "October 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-science-engineering-and-appli",
+    "name": "International Conference on Computer Science, Engineering and Applications (ICCSEA)",
+    "description": "",
+    "startDate": "2026-10-03T16:00:00.000Z",
+    "endDate": "2026-10-03T16:00:00.000Z",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "location": "Tbilisi, Georgia",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-science-engineering-and-applications-iccsea-2026-october-tbilisi-ge",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "October 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-engineering-and-computer-science-icecs",
+    "name": "International Conference on Engineering and Computer Science (ICECS)",
+    "description": "",
+    "startDate": "2026-10-03T16:00:00.000Z",
+    "endDate": "2026-10-03T16:00:00.000Z",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "location": "Tbilisi, Georgia",
+    "url": "https://conferenceindex.org/event/international-conference-on-engineering-and-computer-science-icecs-2026-october-tbilisi-ge",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "October 2026"
   },
   {
@@ -43470,6 +45058,20 @@
     "month": "October 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-applied-cryptography-icac-2026-october",
+    "name": "International Conference on Applied Cryptography (ICAC)",
+    "description": "",
+    "startDate": "2026-10-24T16:00:00.000Z",
+    "endDate": "2026-10-24T16:00:00.000Z",
+    "city": "Houston",
+    "country": "United States",
+    "location": "Houston, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-applied-cryptography-icac-2026-october-houston-us",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "October 2026"
+  },
+  {
     "id": "eb-1987509529505",
     "name": "International Conference on Strategic Management & Leadership, South Korea",
     "description": "International Conference on Strategic Management & Leadership, South Korea",
@@ -43521,7 +45123,21 @@
     "country": "AU",
     "location": "Sydney, AU",
     "url": "https://www.eventbrite.com/e/future-world-expo-sydney-tickets-1124239644039",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182186860%2F2412375150363%2F1%2Foriginal.20260414-232158?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.591&s=4030c765e676606050d6d809412a990c",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182186860%2F2412375150363%2F1%2Foriginal.20260414-232158?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.591&s=b29c045bf7e2a1de9eb9776829d17442",
+    "source": "eventbrite",
+    "month": "October 2026"
+  },
+  {
+    "id": "eb-1989652310621",
+    "name": "Demonology: Decipher + Frostland",
+    "description": "Am 29. Oktober treten Decipher und Frostland ab 18 Uhr mit Black und Death Metal im Valhalla Köln auf.",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "city": "Köln",
+    "country": "DE",
+    "location": "Köln, DE",
+    "url": "https://www.eventbrite.de/e/demonology-decipher-frostland-tickets-1989652310621",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184675938%2F2900782963431%2F1%2Foriginal.20260515-112717?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=633f00e479922cca3da96984e8e13773",
     "source": "eventbrite",
     "month": "October 2026"
   },
@@ -43579,6 +45195,20 @@
     "url": "https://lu.ma/devcon",
     "coverImage": "https://images.unsplash.com/photo-1644130171866-8236ff6d821a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw0MDN8fGJhbmdrb2t8ZW58MHx8fHwxNzIzMjg2OTkyfDI&ixlib=rb-4.0.3&q=80&w=1080",
     "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-applied-cryptography-icac-2026-novembe",
+    "name": "International Conference on Applied Cryptography (ICAC)",
+    "description": "",
+    "startDate": "2026-11-03T16:00:00.000Z",
+    "endDate": "2026-11-03T16:00:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://conferenceindex.org/event/international-conference-on-applied-cryptography-icac-2026-november-amsterdam-nl",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "November 2026"
   },
   {
@@ -43806,6 +45436,20 @@
     "month": "November 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-sciences-and-software-enginee",
+    "name": "International Conference on Computer Sciences and Software Engineering (ICCSSE)",
+    "description": "",
+    "startDate": "2026-11-10T16:00:00.000Z",
+    "endDate": "2026-11-10T16:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-sciences-and-software-engineering-iccsse-2026-november-tokyo-jp",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "November 2026"
+  },
+  {
     "id": "eb-1051277067007",
     "name": "Future World Expo DubAI: Shaping our Future",
     "description": "Explore cutting-edge tech & innovations shaping our future at Future World Expo DubAI. PropTech, FinTech, Smart Real Estate, AI, Smart City.",
@@ -43857,7 +45501,7 @@
     "country": "NG",
     "location": "Lagos, NG",
     "url": "https://www.eventbrite.com/e/africa-forex-trading-expo-2026-2nd-edition-tickets-1986048750275",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183678333%2F2816023954691%2F1%2Foriginal.20260504-044452?crop=focalpoint&fit=crop&w=300&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9585e4924f56173939523ea419c2e5e2",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183678333%2F2816023954691%2F1%2Foriginal.20260504-044452?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9c6ebc3a6444e2e1396573fac540e193",
     "source": "eventbrite",
     "month": "November 2026"
   },
@@ -43985,6 +45629,20 @@
     "url": "https://www.eventbrite.com/e/18th-middle-east-enterprise-ai-analytics-summit-tickets-1978203785775",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173106116%2F1904026556133%2F1%2Foriginal.20251217-024445?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.683&fp-y=0.775&s=61233ba9bb8910ab604247b98cdd3233",
     "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-artificial-intelligence-and-blockchain-conference-ai",
+    "name": "International Artificial Intelligence and Blockchain Conference (AIBC)",
+    "description": "",
+    "startDate": "2026-11-19T16:00:00.000Z",
+    "endDate": "2026-11-19T16:00:00.000Z",
+    "city": "Osaka",
+    "country": "Japan",
+    "location": "Osaka, Japan",
+    "url": "https://conferenceindex.org/event/international-artificial-intelligence-and-blockchain-conference-aibc-2026-november-osaka-jp",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "November 2026"
   },
   {
@@ -44240,6 +45898,20 @@
     "month": "December 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-applied-cryptography-icac-2026-decembe",
+    "name": "International Conference on Applied Cryptography (ICAC)",
+    "description": "",
+    "startDate": "2026-12-01T16:00:00.000Z",
+    "endDate": "2026-12-01T16:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://conferenceindex.org/event/international-conference-on-applied-cryptography-icac-2026-december-tokyo-jp",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "December 2026"
+  },
+  {
     "id": "eb-1984871622454",
     "name": "Founders 2.0 Conference Singapore",
     "description": "The Founders 2.0 Conference is where trailblazing founders and entrepreneurs converge.",
@@ -44251,6 +45923,20 @@
     "url": "https://www.eventbrite.com/e/founders-20-conference-singapore-tickets-1984871622454",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179462638%2F2629089509691%2F1%2Foriginal.20260310-080914?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.429&fp-y=0.392&s=417a41c33528c6ea8bee558db2d85177",
     "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2026-december-kuala-lum",
+    "name": "International Conference on Blockchain (ICB)",
+    "description": "",
+    "startDate": "2026-12-05T16:00:00.000Z",
+    "endDate": "2026-12-05T16:00:00.000Z",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur, Malaysia",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-icb-2026-december-kuala-lumpur-my",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "December 2026"
   },
   {
@@ -44324,6 +46010,20 @@
     "month": "December 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-future-smart-cities-fsc-2026-december-rabat-ma",
+    "name": "Future Smart Cities (FSC)",
+    "description": "",
+    "startDate": "2026-12-07T16:00:00.000Z",
+    "endDate": "2026-12-07T16:00:00.000Z",
+    "city": "Rabat",
+    "country": "Morocco",
+    "location": "Rabat, Morocco",
+    "url": "https://conferenceindex.org/event/future-smart-cities-fsc-2026-december-rabat-ma",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "December 2026"
+  },
+  {
     "id": "eb-1977876522923",
     "name": "8th Annual ETFGI Global ETFs Insights Summit - Canada",
     "description": "8th Annual ETFGI Global ETFs Insights Summit - Canada  on December 8th in Toronto",
@@ -44363,6 +46063,20 @@
     "url": "https://www.eventbrite.co.uk/e/forma-mumbai-2022-tickets-255104282777",
     "coverImage": null,
     "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-and-applications",
+    "name": "International Conference on Blockchain Technology and Applications (ICBTA)",
+    "description": "",
+    "startDate": "2026-12-10T16:00:00.000Z",
+    "endDate": "2026-12-10T16:00:00.000Z",
+    "city": "Seoul",
+    "country": "Republic of Korea",
+    "location": "Seoul, Republic of Korea",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-and-applications-icbta-2026-december-seoul-kr",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "December 2026"
   },
   {
@@ -44422,6 +46136,20 @@
     "month": "December 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-bangkok-international-conference-on-management-business-practices-",
+    "name": "Bangkok International Conference on Management & Business Practices (MBP)",
+    "description": "",
+    "startDate": "2026-12-20T16:00:00.000Z",
+    "endDate": "2026-12-20T16:00:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Bangkok, Thailand",
+    "url": "https://conferenceindex.org/event/bangkok-international-conference-on-management-business-practices-mbp-2026-december-bangkok-th",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "December 2026"
+  },
+  {
     "id": "eb-486729820997",
     "name": "Advanced Yoga Teacher Training Course - RYT 500",
     "description": "We are offering the most affordable and residential 500 Hour Multi Style Yoga Teacher Training Course in Rishikesh, India.",
@@ -44433,6 +46161,20 @@
     "url": "https://www.eventbrite.com/e/advanced-yoga-teacher-training-course-ryt-500-tickets-486729820997",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F408383499%2F250951354342%2F1%2Foriginal.20221114-083146?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=108%2C0%2C1936%2C968&s=ac23ae3af4e7252e1c7040a314e4e0f5",
     "source": "eventbrite",
+    "month": "January 2027"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-informatics-and-applications-icia-2027",
+    "name": "International Conference on Informatics and Applications (ICIA)",
+    "description": "",
+    "startDate": "2027-01-06T16:00:00.000Z",
+    "endDate": "2027-01-06T16:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://conferenceindex.org/event/international-conference-on-informatics-and-applications-icia-2027-january-tokyo-jp",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "January 2027"
   },
   {
@@ -44461,6 +46203,20 @@
     "url": "https://www.eventbrite.com/e/ai-2030-summit-hong-kong-2027-tickets-1257641101389",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175706160%2F239812797439%2F1%2Foriginal.20260124-051310?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9c1fb1a25eb3b844ec894dbf79e7d318",
     "source": "eventbrite",
+    "month": "January 2027"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-science-and-computer-technolo",
+    "name": "International Conference on Computer Science and Computer Technology (ICCSCT)",
+    "description": "",
+    "startDate": "2027-01-27T16:00:00.000Z",
+    "endDate": "2027-01-27T16:00:00.000Z",
+    "city": "Sydney",
+    "country": "Australia",
+    "location": "Sydney, Australia",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-computer-technology-iccsct-2027-january-sydney-au",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "January 2027"
   },
   {
@@ -44674,6 +46430,20 @@
     "month": "April 2027"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2027-april-mexico-city-",
+    "name": "International Conference on Blockchain (ICB)",
+    "description": "",
+    "startDate": "2027-04-02T16:00:00.000Z",
+    "endDate": "2027-04-02T16:00:00.000Z",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "location": "Mexico City, Mexico",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-icb-2027-april-mexico-city-mx",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "April 2027"
+  },
+  {
     "id": "eb-1975853664499",
     "name": "Business-Ladies Winterthur 06.04.2027",
     "description": "Business Ladies Winterthur - Villa Sträuli",
@@ -44699,6 +46469,20 @@
     "url": "https://www.eventbrite.sg/e/adex-big-blue-legacy-33rd-edition-singapore-ocean-week-2027-tickets-1988138858846",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183668722%2F357641321645%2F1%2Foriginal.20260504-010101?w=355&auto=format%2Ccompress&q=75&sharp=10&s=0786ee70c6488621d676ded53d10b148",
     "source": "eventbrite",
+    "month": "April 2027"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2027-april-boston-us",
+    "name": "International Conference on Blockchain (ICB)",
+    "description": "",
+    "startDate": "2027-04-21T16:00:00.000Z",
+    "endDate": "2027-04-21T16:00:00.000Z",
+    "city": "Boston",
+    "country": "United States",
+    "location": "Boston, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-icb-2027-april-boston-us",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "April 2027"
   },
   {
@@ -45038,18 +46822,18 @@
     "month": "June 2031"
   },
   {
-    "id": "eb-1556424450429",
+    "id": "eb-1556332846439",
     "name": "Meditation Teacher Training Course in Rishikesh",
     "description": "We are offering the most affordable and traditional 200 Hour Meditation Teacher Training Course in Rishikesh, India.",
-    "startDate": "2031-09-02",
-    "endDate": "2031-09-26",
+    "startDate": "2031-08-02",
+    "endDate": "2031-08-26",
     "city": "Rishikesh",
     "country": "IN",
     "location": "Rishikesh, IN",
-    "url": "https://www.eventbrite.com/e/meditation-teacher-training-course-in-rishikesh-tickets-1556424450429",
+    "url": "https://www.eventbrite.com/e/meditation-teacher-training-course-in-rishikesh-tickets-1556332846439",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F958904693%2F250951354342%2F1%2Foriginal.20250212-113434?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.721470019342&fp-y=0.451097773935&s=63be8a56e20adc6a32d1ae480bd04fb2",
     "source": "eventbrite",
-    "month": "September 2031"
+    "month": "August 2031"
   },
   {
     "id": "eb-922715215047",
