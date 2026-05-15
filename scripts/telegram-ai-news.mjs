@@ -209,7 +209,7 @@ function formatMessage(stories) {
     return `<a href="${trackedLink}"><b>${headline}</b></a>. ${summary}`;
   });
 
-  return lines.join('\n\n') + '\n\n_\nAI Discussion Group: t.me/hashtag_ai';
+  return lines.join('\n\n');
 }
 
 function escapeHtml(text) {
