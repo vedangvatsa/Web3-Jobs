@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-const found = require('process.cwd() + '/found-50.json');
-const targetFile = 'process.cwd() + '/scripts/refresh-jobs-cache.ts';
+const found = require('/Users/vedang/web3jobs/Web3-Jobs/found-50.json');
+const targetFile = '/Users/vedang/web3jobs/Web3-Jobs/scripts/refresh-jobs-cache.ts';
 let content = fs.readFileSync(targetFile, 'utf8');
 
 let added = 0;

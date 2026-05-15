@@ -121,7 +121,7 @@ function extractSkills(desc) {
 }
 
 async function main() {
-  const csvContent = fs.readFileSync('process.cwd() + '/jobs-extracted.csv', 'utf8');
+  const csvContent = fs.readFileSync('/Users/vedang/web3jobs/Web3-Jobs/jobs-extracted.csv', 'utf8');
   const csvRows = parseCSV(csvContent);
   const existingUrls = new Set(csvRows.slice(1).map(r => (r[0]||'').trim()));
   console.log(`Existing jobs: ${existingUrls.size}\n`);
@@ -218,7 +218,7 @@ async function main() {
     const esc = v => { const s = String(v||'-'); if (s.includes(',')||s.includes('"')||s.includes('\n')) return '"'+s.replace(/"/g,'""')+'"'; return s; };
     const lines = csvContent.split('\n');
     for (const row of unique) lines.push(row.map(v => esc(v)).join(','));
-    fs.writeFileSync('process.cwd() + '/jobs-extracted.csv', lines.join('\n'));
+    fs.writeFileSync('/Users/vedang/web3jobs/Web3-Jobs/jobs-extracted.csv', lines.join('\n'));
     console.log(`CSV updated: ${existingUrls.size} + ${unique.length} = ${existingUrls.size + unique.length} total jobs`);
   }
 }

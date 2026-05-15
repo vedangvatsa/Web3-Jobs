@@ -116,11 +116,11 @@ async function curlFetch(url) {
 async function main() {
   // Read original from git + current
   const { execSync } = await import('child_process');
-  const origContent = execSync('git show HEAD:jobs-extracted.csv', { cwd: '', maxBuffer: 50*1024*1024 }).toString();
+  const origContent = execSync('git show HEAD:jobs-extracted.csv', { cwd: '/Users/vedang/web3jobs/Web3-Jobs', maxBuffer: 50*1024*1024 }).toString();
   const origRows = parseCSV(origContent);
   const origData = origRows.slice(1);
   
-  const curContent = fs.readFileSync('process.cwd() + '/jobs-extracted.csv', 'utf8');
+  const curContent = fs.readFileSync('/Users/vedang/web3jobs/Web3-Jobs/jobs-extracted.csv', 'utf8');
   const curRows = parseCSV(curContent);
   const curHeader = curRows[0];
   const curData = curRows.slice(1);
@@ -159,7 +159,7 @@ async function main() {
   for (const row of recovered) {
     lines.push(row.map(v => esc(v)).join(','));
   }
-  fs.writeFileSync('process.cwd() + '/jobs-extracted.csv', lines.join('\n'));
+  fs.writeFileSync('/Users/vedang/web3jobs/Web3-Jobs/jobs-extracted.csv', lines.join('\n'));
   
   console.log(`\n✅ Recovered ${success} jobs with real descriptions`);
   console.log(`   Total now: ${curData.length + recovered.length}`);

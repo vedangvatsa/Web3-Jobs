@@ -1,6 +1,6 @@
 import fs from 'fs';
 import dotenv from 'dotenv';
-dotenv.config({ path: '.env.local' });
+dotenv.config({ path: '/Users/vedang/PDFtoWebsite/.env.local' });
 
 const API_KEY = process.env.GEMINI_API_KEY;
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`;
@@ -69,7 +69,7 @@ async function classify(title, desc) {
 }
 
 async function main() {
-  const csvContent = fs.readFileSync('process.cwd() + '/jobs-extracted.csv', 'utf8');
+  const csvContent = fs.readFileSync('/Users/vedang/web3jobs/Web3-Jobs/jobs-extracted.csv', 'utf8');
   const rows = parseCSV(csvContent);
   const header = rows[0];
   const data = rows.slice(1);
@@ -115,8 +115,8 @@ async function main() {
   const esc = v => { const s = String(v||'-'); if (s.includes(',') || s.includes('"')) return '"'+s.replace(/"/g,'""')+'"'; return s; };
   const out = [header.map(h => esc(h)).join(',')];
   for (const row of data) out.push(row.map(v => esc(v)).join(','));
-  fs.writeFileSync('process.cwd() + '/jobs-extracted.csv', out.join('\n'));
-  fs.writeFileSync('jobs-extracted.csv', out.join('\n'));
+  fs.writeFileSync('/Users/vedang/web3jobs/Web3-Jobs/jobs-extracted.csv', out.join('\n'));
+  fs.writeFileSync('/Users/vedang/Desktop/jobs-extracted.csv', out.join('\n'));
   
   // Audit
   let one = 0, two = 0, three = 0;
