@@ -26,14 +26,9 @@ export const metadata: Metadata = {
 
 export default async function EventsPage() {
   const events = await getEvents();
-  const headlines = [
-    "Web3 Events Calendar",
-    "Top Crypto Conferences",
-    "Blockchain Summits"
-  ];
-  
+
   const siteUrl = 'https://hashtagweb3.com';
-  
+
   const pageSchema: WebPage = {
     '@type': 'WebPage',
     url: `${siteUrl}/events`,
@@ -72,20 +67,18 @@ export default async function EventsPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(eventsSchema) }}
       />
-      <div className="h-screen overflow-y-auto bg-[#fafafa] dark:bg-black selection:bg-zinc-200 dark:selection:bg-zinc-800 transition-colors duration-200 flex flex-col">
+      <div className="flex flex-col min-h-screen">
         <Header />
-        <main id="main-content" className="w-full max-w-5xl mx-auto px-6 py-16 md:py-20 pb-20 flex-1">
-          {/* HERO */}
-          <div className="mb-20">
-            <p className="text-[11px] font-semibold text-zinc-400 uppercase tracking-[0.2em] mb-6">Hashtag Web3 Events / 2026</p>
-            <h1 className="text-4xl sm:text-[3.4rem] font-bold tracking-tight text-zinc-900 dark:text-zinc-50 leading-[1.12]">
-              Web3 Events
-            </h1>
-          </div>
-          </div>
-          
-          <div className="w-full">
-            <EventsBoard initialEvents={events} />
+        <main className="flex-1">
+          <div className="container mx-auto py-8 px-4">
+            <section className="text-center mb-8">
+              <div className="max-w-6xl mx-auto">
+                <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-foreground">Web3 Events</h1>
+              </div>
+            </section>
+            <article className="max-w-6xl mx-auto">
+              <EventsBoard initialEvents={events} />
+            </article>
           </div>
         </main>
       </div>

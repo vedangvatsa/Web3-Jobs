@@ -3,31 +3,26 @@
 
 import * as React from 'react';
 import { Header } from '@/components/header';
-import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card';
-import Link from 'next/link';
-import { ExternalLink, Rss, Newspaper, ArrowRight } from 'lucide-react';
-import { trackNewsClick, trackCTAClick } from '@/lib/posthog';
+import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
+import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
+import { Search, Newspaper } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
+import { trackNewsClick, trackCTAClick } from '@/lib/posthog';
 import type { NewsItem } from '@/types';
 import type { WebPage, NewsArticle, WithContext } from 'schema-dts';
 
 function NewsCardSkeleton() {
  return (
-  <Card className="bg-background border border-white/10">
-   <CardHeader>
-    <div className="flex items-center justify-between gap-2 mb-2">
-     <Skeleton className="h-5 w-20 rounded-full" />
-    </div>
-    <Skeleton className="h-6 w-3/4" />
+  <Card className="flex flex-col h-full">
+   <CardHeader className="pb-2 pt-4 px-4">
+    <Skeleton className="h-4 w-16 rounded-full mb-2" />
+    <Skeleton className="h-5 w-3/4" />
    </CardHeader>
-   <CardContent>
-    <Skeleton className="h-4 w-full mb-2" />
+   <CardContent className="pt-0 pb-3 px-4">
+    <Skeleton className="h-4 w-full mb-1" />
     <Skeleton className="h-4 w-5/6" />
    </CardContent>
-   <CardFooter>
-    <Skeleton className="h-5 w-28" />
-   </CardFooter>
   </Card>
  );
 }
@@ -35,14 +30,13 @@ function NewsCardSkeleton() {
 export default function NewsPage() {
  const [newsItems, setNewsItems] = React.useState<NewsItem[]>([]);
  const [loading, setLoading] = React.useState(true);
+ const [searchQuery, setSearchQuery] = React.useState('');
 
  React.useEffect(() => {
   async function fetchNews() {
    try {
     const response = await fetch('/api/news');
-    if (!response.ok) {
-     throw new Error('Failed to fetch news');
-    }
+    if (!response.ok) throw new Error('Failed to fetch news');
     const data = await response.json();
     setNewsItems(data);
    } catch (error) {
@@ -53,6 +47,16 @@ export default function NewsPage() {
   }
   fetchNews();
  }, []);
+
+ const filteredNews = React.useMemo(() => {
+  if (!searchQuery) return newsItems;
+  const q = searchQuery.toLowerCase();
+  return newsItems.filter(item =>
+   item.title.toLowerCase().includes(q) ||
+   item.source.toLowerCase().includes(q) ||
+   (item.contentSnippet || '').toLowerCase().includes(q)
+  );
+ }, [newsItems, searchQuery]);
  
  const siteUrl = 'https://hashtagweb3.com';
  
@@ -104,47 +108,77 @@ export default function NewsPage() {
    <div className="flex flex-col min-h-screen">
     <Header />
     <main className="flex-1">
-     <div className="container mx-auto px-4 py-12 md:py-16">
-      <section className="mb-10 max-w-6xl mx-auto">
-       <h1 className="text-3xl font-bold tracking-tight mb-3">
-        Web3 News Feed
-       </h1>
-       <p className="text-muted-foreground text-lg">
-        Aggregated news from top crypto sources. Updated frequently.
-       </p>
-      </section>
+     <div className="container mx-auto py-8 px-4">
+       <section className="text-center mb-8">
+         <div className="max-w-6xl mx-auto">
+           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-foreground">Web3 News</h1>
+         </div>
+       </section>
+       <article className="max-w-6xl mx-auto">
+        {/* Search */}
+        <div className="mb-8 max-w-6xl mx-auto">
+          <div className="relative">
+            <Input
+              placeholder="Search news..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="w-full text-base pl-12 h-12 rounded-full shadow-sm focus-visible:ring-offset-4"
+            />
+            <Search className="absolute left-5 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
+          </div>
+          {searchQuery && (
+            <p className="text-center text-sm text-muted-foreground mt-3">
+              {filteredNews.length} result{filteredNews.length !== 1 ? 's' : ''} found
+            </p>
+          )}
+        </div>
 
-      <div className="max-w-6xl mx-auto">
-       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">
-        {loading ? (
-         [...Array(12)].map((_, i) => <NewsCardSkeleton key={i} />)
-        ) : (
-          newsItems.map((item, index) => (
-           <Card key={index} className="flex flex-col h-full transition-all duration-200 hover:border-zinc-300 dark:hover:border-zinc-700 shadow-none border bg-transparent">
-            <CardHeader className="pb-3">
-             <div className="flex items-center gap-2 mb-1">
-              <Badge variant={
-               item.source === 'Decrypt' ? 'destructive' :
-               item.source === 'Cointelegraph' ? 'secondary' :
-               item.source === 'Coindesk' ? 'default' :
-               'outline'
-              } className="text-[10px] uppercase font-semibold">
-               {item.source}
-              </Badge>
-             </div>
-             <CardTitle className="text-xl leading-tight">
-              <a href={item.link} target="_blank" rel="noopener noreferrer" onClick={() => trackNewsClick(item.title, item.link, item.source)} className="hover:text-primary hover:underline underline-offset-4 transition-colors">
-               {item.title}
-              </a>
-             </CardTitle>
-            </CardHeader>
-            <CardContent className="flex-1">
-             <p className="text-muted-foreground text-sm leading-relaxed">{item.contentSnippet}</p>
-            </CardContent>
-           </Card>
-          ))
+        {/* News Grid */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">
+         {loading ? (
+          [...Array(12)].map((_, i) => <NewsCardSkeleton key={i} />)
+         ) : (
+           filteredNews.map((item, index) => (
+            <a
+              key={index}
+              href={item.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => trackNewsClick(item.title, item.link, item.source)}
+              className="block group"
+            >
+             <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow-sm border-transparent hover:border-border/60 bg-card transition-all duration-200">
+              <CardHeader className="pb-2 pt-4 px-4">
+               <div className="mb-1">
+                <Badge variant={
+                 item.source === 'Decrypt' ? 'destructive' :
+                 item.source === 'Cointelegraph' ? 'secondary' :
+                 item.source === 'Coindesk' ? 'default' :
+                 'outline'
+                } className="text-[10px] uppercase font-semibold">
+                 {item.source}
+                </Badge>
+               </div>
+               <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors line-clamp-2">
+                {item.title}
+               </CardTitle>
+              </CardHeader>
+              <CardContent className="flex-grow pt-0 pb-3 px-4">
+               <p className="text-sm text-muted-foreground line-clamp-3">{item.contentSnippet}</p>
+              </CardContent>
+             </Card>
+            </a>
+           ))
+         )}
+        </div>
+
+        {!loading && filteredNews.length === 0 && (
+          <div className="text-center py-20 border-2 border-dashed rounded-lg col-span-full mt-8">
+            <Newspaper className="mx-auto h-12 w-12 text-muted-foreground/40 mb-4" />
+            <h3 className="text-xl font-semibold">No News Found</h3>
+            <p className="text-muted-foreground mt-2">Try adjusting your search query.</p>
+          </div>
         )}
-       </div>
 
         <div className="mt-12 pt-8 border-t flex flex-col sm:flex-row items-center justify-between gap-4">
             <div>
@@ -157,7 +191,7 @@ export default function NewsPage() {
               </span>
             </a>
         </div>
-      </div>
+       </article>
      </div>
     </main>
    </div>
