@@ -353,7 +353,7 @@ export default function Web3HiringReport() {
       <div>
        <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Web3 is hiring mid-level engineers, not juniors</h2>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        55.8% of listings target mid-level professionals. Senior and Staff roles account for 33.2%. Executive and Director level roles make up 8.2%. True entry-level and junior roles are shockingly low at just 0.6%, with internships adding another 2.1%. Compare this to traditional tech, where entry-level roles typically represent 20-25% of listings. Web3 is not a place to get your first job. It is a place to apply experience you already have.
+        Assuming roles without explicit seniority markers in the title (e.g. "Software Engineer") default to mid-level, 56.1% of listings target mid-level professionals. Senior, Staff, and Lead roles explicitly account for 33.2%. Executive and Director level roles make up 7.6%. True entry-level and junior roles are shockingly low at just 0.8%, with internships adding another 2.1%. Compare this to traditional tech, where entry-level roles typically represent 20-25% of listings.
        </p>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
         The low entry-level percentage creates a structural talent pipeline problem. If Web3 does not hire and train juniors, where will the next generation of senior Web3 engineers come from? Currently, the answer is: from traditional tech. Most Web3 engineers spent 3-5 years at companies like Google, Meta, or Stripe before transitioning. This works when crypto is growing, but creates a fragile talent supply that depends on traditional tech continuing to produce engineers who are curious about blockchain.
@@ -470,7 +470,7 @@ export default function Web3HiringReport() {
         In our latest full-text sampling, an astonishing <strong>35% of all active Web3 job postings explicitly mention AI, LLMs, or Machine Learning</strong>. By contrast, traditional crypto-native languages like Rust and Solidity are mentioned in fewer than 3% of the exact same descriptions. Web3 companies are no longer just hiring developers to write smart contracts; they are hiring engineers to build autonomous agents, optimize data pipelines, and deploy LLMs on decentralized rails.
        </p>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        This explains the structural shift we identified in Section 5. The total collapse of entry-level Web3 roles (0.6%) is directly correlated with the rise of AI tooling. Junior boilerplate code is being automated away by GitHub Copilot and Claude. As a result, Web3 companies are reserving their massive $166k median salaries exclusively for senior architects who can bridge the complex gap between decentralized ledgers and deep learning models.
+        This explains the structural shift we identified in Section 5. The total collapse of entry-level Web3 roles (just 0.8% of listings) is directly correlated with the rise of AI tooling. Junior boilerplate code is being automated away by GitHub Copilot and Claude. As a result, Web3 companies are reserving their massive $166k median salaries exclusively for senior architects who can bridge the complex gap between decentralized ledgers and deep learning models.
        </p>
       </div>
       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
@@ -523,7 +523,7 @@ export default function Web3HiringReport() {
       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
        <h3 className=" font-bold text-lg text-zinc-900 dark:text-zinc-50 mb-3">For hiring managers at Web3 companies</h3>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        The data shows a clear junior talent pipeline problem. With entry-level roles sitting at just 0.6%, the industry is creating a dependency on poaching mid-career engineers from FAANG companies. Consider investing in internship programs and junior roles now. The cost of not building a pipeline is higher long-term. Also: publishing salary bands is table stakes. The 88% of listings that hide compensation are losing candidates to the 12% that show it.
+        The data shows a clear junior talent pipeline problem. With entry-level roles sitting at just 0.8%, the industry is creating a dependency on poaching mid-career engineers from FAANG companies. Consider investing in internship programs and junior roles now. The cost of not building a pipeline is higher long-term. Also: publishing salary bands is table stakes. The 88% of listings that hide compensation are losing candidates to the 12% that show it.
        </p>
       </div>
       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
