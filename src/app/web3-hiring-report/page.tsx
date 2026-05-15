@@ -447,6 +447,33 @@ export default function Web3HiringReport() {
      </div>
     </section>
 
+    {/* SECTION 8: THE AI INTEGRATION SHIFT */}
+    <section className="mb-28">
+     <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
+      <div>
+       <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">AI isn&apos;t wiping out Web3 jobs—it&apos;s merging with them</h2>
+       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
+        There is a pervasive narrative that artificial intelligence is cannibalizing Web3 developer talent and wiping out blockchain jobs. Based on full-text parsing of our dataset, this is categorically false. What we are actually seeing is an aggressive integration cycle: founders are cutting basic technical roles to keep their teams lean, while actively hunting for engineers who know how to build AI into blockchain infrastructure.
+       </p>
+       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
+        In our latest full-text sampling, an astonishing <strong>35% of all active Web3 job postings explicitly mention AI, LLMs, or Machine Learning</strong>. By contrast, traditional crypto-native languages like Rust and Solidity are mentioned in fewer than 3% of the exact same descriptions. Web3 companies are no longer just hiring developers to write smart contracts; they are hiring engineers to build autonomous agents, optimize data pipelines, and deploy LLMs on decentralized rails.
+       </p>
+       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
+        This explains the structural shift we identified in Section 5. The total collapse of entry-level Web3 roles (0.6%) is directly correlated with the rise of AI tooling. Junior boilerplate code is being automated away by GitHub Copilot and Claude. As a result, Web3 companies are reserving their massive $166k median salaries exclusively for senior architects who can bridge the complex gap between decentralized ledgers and deep learning models.
+       </p>
+      </div>
+      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
+       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Keyword Mentions in Full-Text Job Descriptions</p>
+       <HBar data={[
+        { label: 'AI / Machine Learning / LLMs', value: 35.3, color: '#18181B' },
+        { label: 'Tokenomics / Equity', value: 3.9, color: '#6366f1' },
+        { label: 'Rust', value: 2.6, color: '#A1A1AA' },
+        { label: 'Solidity / Smart Contracts', value: 0.3, color: '#A1A1AA' },
+       ]} unit="%" />
+      </div>
+     </div>
+    </section>
+
     {/* KEY TAKEAWAYS */}
     <section className="mb-28">
      <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-8">Key takeaways for job seekers and hiring managers</h2>
