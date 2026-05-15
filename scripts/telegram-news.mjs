@@ -218,7 +218,7 @@ function formatMessage(stories) {
     return `<a href="${trackedLink}"><b>${headline}</b></a>. ${summary}`;
   });
 
-  return lines.join('\n\n') + '\n\n_\nWeb3 News Feed: t.me/web3newsfeed';
+  return lines.join('\n\n');
 }
 
 function escapeHtml(text) {
@@ -240,6 +240,11 @@ async function sendToTelegram(message) {
       parse_mode: 'HTML',
       disable_web_page_preview: true,
       ...(THREAD_ID ? { message_thread_id: Number(THREAD_ID) } : {}),
+      reply_markup: {
+        inline_keyboard: [
+          [{ text: 'Web3 Jobs', url: 'https://hashtagweb3.com/?utm_source=telegram&utm_medium=social' }],
+        ],
+      },
     }),
   });
 

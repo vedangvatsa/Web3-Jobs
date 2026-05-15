@@ -232,11 +232,7 @@ function formatMessage(jobs) {
     return `• ${company} is hiring <a href="${j.url}">${title}</a>`;
   });
 
-  const message = lines.join('\n') +
-    '\n\n—\n' +
-    `Web3 Jobs: <a href="${CTA_URL}">hashtagweb3.com</a>`;
-
-  return message;
+  return lines.join('\n');
 }
 
 function escapeHtml(text) {
@@ -259,6 +255,11 @@ async function sendToTelegram(message) {
       parse_mode: 'HTML',
       disable_web_page_preview: true,
       ...(THREAD_ID ? { message_thread_id: Number(THREAD_ID) } : {}),
+      reply_markup: {
+        inline_keyboard: [
+          [{ text: 'Web3 Jobs', url: CTA_URL }],
+        ],
+      },
     }),
   });
   
