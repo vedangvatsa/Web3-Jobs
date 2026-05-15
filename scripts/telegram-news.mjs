@@ -23,8 +23,10 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const STORIES_PER_POST = 5;
 const POST_COOLDOWN_HOURS = 8;
 const CTA_URL = 'https://hashtagweb3.com/news?utm_source=telegram&utm_medium=social&utm_campaign=news_digest';
-const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-news-posted.json');
-const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-news-last.json');
+// Use channel-specific state files so channel + group posts don't share cooldowns
+const channelSlug = (CHANNEL_ID || '').replace(/[^a-zA-Z0-9]/g, '');
+const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-news-posted-${channelSlug}.json`);
+const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-news-last-${channelSlug}.json`);
 
 if (!BOT_TOKEN || !CHANNEL_ID) {
   console.error('Missing TELEGRAM_BOT_TOKEN or TELEGRAM_NEWS_CHANNEL_ID');
