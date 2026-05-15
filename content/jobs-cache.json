@@ -1,5 +1,53 @@
 [
   {
+    "id": "7932082",
+    "title": "Executive Sourcer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7932082?t=gh_src=&gh_jid=7932082",
+    "date": "2026-05-15T19:12:15-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "e9127772-8d48-415d-a947-5831a40d891b",
+    "title": "Senior SOC Analyst",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/e9127772-8d48-415d-a947-5831a40d891b",
+    "date": "2026-05-15T21:58:22.430+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "7862772",
+    "title": "KYB/KYC Operations Associate, Bridge",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7862772",
+    "date": "2026-05-15T17:37:22-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "18b4968a-7242-4c62-a264-ce2326a528af",
+    "title": "Head of Talent Story & Culture",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/18b4968a-7242-4c62-a264-ce2326a528af",
+    "date": "2026-05-15T21:30:45.192+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "8172c0c7-6278-4c2a-b0d2-e6c6e7a32224",
+    "title": "Senior Backend Engineer",
+    "company": "Stellar",
+    "link": "https://jobs.ashbyhq.com/Stellar/8172c0c7-6278-4c2a-b0d2-e6c6e7a32224",
+    "date": "2026-05-15T21:22:27.692+00:00",
+    "source": "Ashby: Stellar"
+  },
+  {
+    "id": "5997360004",
+    "title": "Vice President Site Reliability Engineering (Data Centers)",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004",
+    "date": "2026-05-15T17:01:19-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "7887519",
     "title": "Employee Compensation and Benefits Tax Lead",
     "company": "Stripe",
@@ -64,6 +112,86 @@
     "source": "Ashby: Socket"
   },
   {
+    "id": "78980190",
+    "title": "VASP Compliance Officer & Money Laundering Reporting Officer",
+    "company": "Merge",
+    "link": "https://fr.linkedin.com/jobs/view/vasp-compliance-officer-money-laundering-reporting-officer-mlro-at-merge-4414777752",
+    "date": "2026-05-15T17:10:33.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "78980188",
+    "title": "AI-Led Revenue Operations Lead",
+    "company": "Merge",
+    "link": "https://uk.linkedin.com/jobs/view/ai-led-revenue-operations-lead-at-merge-4414731220",
+    "date": "2026-05-15T17:10:33.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "78980189",
+    "title": "Customer Success Associate",
+    "company": "Merge",
+    "link": "https://fr.linkedin.com/jobs/view/customer-success-associate-at-merge-4414768816",
+    "date": "2026-05-15T17:10:33.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "78977851",
+    "title": "Principal Infrastructure Engineer",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/principal-infrastructure-engineer-at-hadrian-4410631867",
+    "date": "2026-05-15T16:44:15.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "78977848",
+    "title": "People Compliance Manager",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/people-compliance-manager-at-hadrian-4411552134",
+    "date": "2026-05-15T16:44:14.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "78977849",
+    "title": "Infrastructure Engineer",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/infrastructure-engineer-at-hadrian-4410638832",
+    "date": "2026-05-15T16:44:14.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "78977850",
+    "title": "Senior Manager, Additive Materials & Process Laboratory",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/senior-manager-additive-materials-process-laboratory-at-hadrian-4410307529",
+    "date": "2026-05-15T16:44:14.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "78976736",
+    "title": "Content Intern",
+    "company": "Cinch",
+    "link": "https://my.linkedin.com/jobs/view/content-intern-at-cinch-4413908369",
+    "date": "2026-05-15T16:36:13.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "78976735",
+    "title": "Marketing Intern",
+    "company": "Cinch",
+    "link": "https://id.linkedin.com/jobs/view/marketing-intern-at-cinch-4414549069",
+    "date": "2026-05-15T16:36:12.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "78976319",
+    "title": "Call Center Agent",
+    "company": "Axis Pay",
+    "link": "https://eg.linkedin.com/jobs/view/call-center-agent-at-axis-4411153482",
+    "date": "2026-05-15T16:31:11.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "7922396",
     "title": "Community Manager, Social",
     "company": "Robinhood",
@@ -86,6 +214,14 @@
     "link": "https://jobs.ashbyhq.com/switchboard/89de9a79-1f70-49be-94a1-8696f45e2c73",
     "date": "2026-05-15T15:52:08.381+00:00",
     "source": "Ashby: Switchboard"
+  },
+  {
+    "id": "78963598",
+    "title": "Technical Support Specialist",
+    "company": "Greenhouse",
+    "link": "https://boards.greenhouse.io/greenhouse/jobs/7926000",
+    "date": "2026-05-15T15:48:15.000Z",
+    "source": "https://coinbase.getro.com/jobs"
   },
   {
     "id": "7913464",
@@ -834,6 +970,14 @@
   {
     "id": "7925073",
     "title": "Staff Full Stack Engineer - Support Products",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7925073",
+    "date": "2026-05-14T09:59:40-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7925073",
+    "title": "Staff Full Stack Engineer - Paid Support Experience",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=7925073",
     "date": "2026-05-14T09:59:40-04:00",
@@ -27864,13 +28008,5 @@
     "link": "https://jobs.ashbyhq.com/ramp/440606b5-1923-4f9d-a0ed-c126445b9477",
     "date": "2026-04-16T00:58:13.531+00:00",
     "source": "Ashby: Ramp"
-  },
-  {
-    "id": "7813942",
-    "title": "Machine Learning Engineer, Support Experience",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7813942",
-    "date": "2026-04-15T16:52:21-04:00",
-    "source": "Greenhouse: Stripe"
   }
 ]
