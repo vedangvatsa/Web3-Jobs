@@ -6,46 +6,46 @@ readTime: "7 min"
 difficulty: "beginner"
 prerequisites: ["skills"]
 quiz:
- - question: "What is the most important thing for a Web3 portfolio?"
- options:
- - "A fancy website design"
- - "Proof that you have built or contributed to something real"
- - "A long list of certifications"
- - "A professional headshot"
- correct: 1
- explanation: "Web3 values building over credentials. A deployed smart contract, a PR to an open-source protocol, or a data dashboard on Dune shows more than any certification."
- - question: "What is ENS?"
- options:
- - "A DeFi protocol"
- - "Ethereum Name Service — a .eth domain name for your wallet"
- - "A security tool"
- - "A Layer 2 network"
- correct: 1
- explanation: "ENS lets you register a .eth name (like yourname.eth) that maps to your wallet address. It serves as your on-chain identity and is commonly used in Web3 profiles and Twitter bios."
- - question: "How can a non-developer build a Web3 portfolio?"
- options:
- - "They cannot — portfolios are only for engineers"
- - "Write thread explainers, build Dune dashboards, contribute to DAO governance"
- - "Buy a lot of cryptocurrency"
- - "Get certified by a university"
- correct: 1
- explanation: "Non-developers can write educational content, analyze on-chain data, participate in governance, or manage community events. All of these are portfolio-worthy contributions."
- - question: "Why does GitHub matter for Web3 jobs?"
- options:
- - "It does not matter"
- - "Open-source contributions show you can work with existing codebases"
- - "Employers check how many followers you have"
- - "You need 100+ repositories"
- correct: 1
- explanation: "Web3 is heavily open-source. Contributing to protocol repos, writing documentation fixes, or building tools shows you understand the ecosystem and can work collaboratively."
- - question: "What should your Twitter/X bio include for Web3 networking?"
- options:
- - "Your home address"
- - "Your ENS name, what you are building, and a link to your portfolio"
- - "A list of every token you hold"
- - "Your favorite memes"
- correct: 1
- explanation: "Crypto Twitter is where industry conversations happen. A clear bio (ENS, current focus, portfolio link) helps you get noticed by hiring managers who actively recruit through the platform."
+  - question: "What is the most important thing for a Web3 portfolio?"
+    options:
+      - "A fancy website design"
+      - "Proof that you have built or contributed to something real"
+      - "A long list of certifications"
+      - "A professional headshot"
+    correct: 1
+    explanation: "Web3 values building over credentials. A deployed smart contract, a PR to an open-source protocol, or a data dashboard on Dune shows more than any certification."
+  - question: "What is ENS?"
+    options:
+      - "A DeFi protocol"
+      - "Ethereum Name Service — a .eth domain name for your wallet"
+      - "A security tool"
+      - "A Layer 2 network"
+    correct: 1
+    explanation: "ENS lets you register a .eth name (like yourname.eth) that maps to your wallet address. It serves as your on-chain identity and is commonly used in Web3 profiles and Twitter bios."
+  - question: "How can a non-developer build a Web3 portfolio?"
+    options:
+      - "They cannot — portfolios are only for engineers"
+      - "Write thread explainers, build Dune dashboards, contribute to DAO governance"
+      - "Buy a lot of cryptocurrency"
+      - "Get certified by a university"
+    correct: 1
+    explanation: "Non-developers can write educational content, analyze on-chain data, participate in governance, or manage community events. All of these are portfolio-worthy contributions."
+  - question: "Why does GitHub matter for Web3 jobs?"
+    options:
+      - "It does not matter"
+      - "Open-source contributions show you can work with existing codebases"
+      - "Employers check how many followers you have"
+      - "You need 100+ repositories"
+    correct: 1
+    explanation: "Web3 is heavily open-source. Contributing to protocol repos, writing documentation fixes, or building tools shows you understand the ecosystem and can work collaboratively."
+  - question: "What should your Twitter/X bio include for Web3 networking?"
+    options:
+      - "Your home address"
+      - "Your ENS name, what you are building, and a link to your portfolio"
+      - "A list of every token you hold"
+      - "Your favorite memes"
+    correct: 1
+    explanation: "Crypto Twitter is where industry conversations happen. A clear bio (ENS, current focus, portfolio link) helps you get noticed by hiring managers who actively recruit through the platform."
 ---
 
 ## You are what you build

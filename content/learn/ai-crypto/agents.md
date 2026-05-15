@@ -6,22 +6,22 @@ readTime: "10 min"
 difficulty: "intermediate"
 prerequisites: ["introduction"]
 quiz:
- - question: "What is an autonomous agent?"
- options:
- - "A smart contract that executes automatically on a schedule."
- - "An AI program that can make decisions and take actions to achieve a goal."
- - "A new type of cryptocurrency token."
- - "A human who trades crypto automatically."
- correct: 1
- explanation: "An autonomous agent is an AI that has a goal, can plan steps to achieve it, and take actions (like using tools or transacting) without continuous human oversight."
- - question: "Why do agents use crypto wallets instead of bank accounts?"
- options:
- - "Crypto is faster than fiat."
- - "Bank accounts require human identity verification (KYC), which an AI lacks."
- - "Crypto is cheaper."
- - "Banks do not have APIs."
- correct: 1
- explanation: "Traditional banks require KYC (Know Your Customer) and legal human identity. An AI cannot pass KYC, but it can mathematically generate a crypto wallet in milliseconds."
+  - question: "What is an autonomous agent?"
+    options:
+      - "A smart contract that executes automatically on a schedule."
+      - "An AI program that can make decisions and take actions to achieve a goal."
+      - "A new type of cryptocurrency token."
+      - "A human who trades crypto automatically."
+    correct: 1
+    explanation: "An autonomous agent is an AI that has a goal, can plan steps to achieve it, and take actions (like using tools or transacting) without continuous human oversight."
+  - question: "Why do agents use crypto wallets instead of bank accounts?"
+    options:
+      - "Crypto is faster than fiat."
+      - "Bank accounts require human identity verification (KYC), which an AI lacks."
+      - "Crypto is cheaper."
+      - "Banks do not have APIs."
+    correct: 1
+    explanation: "Traditional banks require KYC (Know Your Customer) and legal human identity. An AI cannot pass KYC, but it can mathematically generate a crypto wallet in milliseconds."
 ---
 
 ## What is an Autonomous Agent?

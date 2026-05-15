@@ -6,46 +6,46 @@ readTime: "10 min"
 difficulty: "beginner"
 prerequisites: ["blockchains"]
 quiz:
- - question: "What makes Ethereum different from Bitcoin?"
- options:
- - "Ethereum is faster than Bitcoin"
- - "Ethereum can run programs (smart contracts), Bitcoin mainly handles money transfers"
- - "Ethereum does not use a blockchain"
- - "Bitcoin has more developers"
- correct: 1
- explanation: "Bitcoin was designed for sending and receiving money. Ethereum added the ability to run programs (smart contracts) on the blockchain, making it a platform for building applications."
- - question: "What is the EVM?"
- options:
- - "A type of cryptocurrency"
- - "A hardware device for mining"
- - "The Ethereum Virtual Machine - the computer that runs smart contracts"
- - "An Ethereum wallet"
- correct: 2
- explanation: "The EVM (Ethereum Virtual Machine) is the computing engine that runs smart contracts. Every node in the network runs the same EVM, so everyone gets the same results."
- - question: "What are gas fees?"
- options:
- - "Monthly subscription costs for Ethereum"
- - "Fees you pay to execute operations on the Ethereum network"
- - "The cost of electricity to run a node"
- - "A tax collected by the Ethereum Foundation"
- correct: 1
- explanation: "Gas fees are paid by users to compensate validators for processing their transactions. Every operation (sending ETH, calling a contract) costs gas. You pay in ETH."
- - question: "What is an ERC-20 token?"
- options:
- - "A type of NFT"
- - "A standard for creating fungible tokens on Ethereum"
- - "A wallet application"
- - "A layer 2 network"
- correct: 1
- explanation: "ERC-20 is a standard that defines how tokens work on Ethereum. It ensures all tokens share the same basic functions (transfer, approve, balance check), making them compatible with any wallet or exchange."
- - question: "How much ETH must a validator stake to participate in Ethereum's consensus?"
- options:
- - "1 ETH"
- - "10 ETH"
- - "32 ETH"
- - "100 ETH"
- correct: 2
- explanation: "Validators must stake 32 ETH to participate in Ethereum's Proof of Stake consensus. This acts as collateral — validators who act dishonestly lose a portion of their stake."
+  - question: "What makes Ethereum different from Bitcoin?"
+    options:
+      - "Ethereum is faster than Bitcoin"
+      - "Ethereum can run programs (smart contracts), Bitcoin mainly handles money transfers"
+      - "Ethereum does not use a blockchain"
+      - "Bitcoin has more developers"
+    correct: 1
+    explanation: "Bitcoin was designed for sending and receiving money. Ethereum added the ability to run programs (smart contracts) on the blockchain, making it a platform for building applications."
+  - question: "What is the EVM?"
+    options:
+      - "A type of cryptocurrency"
+      - "A hardware device for mining"
+      - "The Ethereum Virtual Machine - the computer that runs smart contracts"
+      - "An Ethereum wallet"
+    correct: 2
+    explanation: "The EVM (Ethereum Virtual Machine) is the computing engine that runs smart contracts. Every node in the network runs the same EVM, so everyone gets the same results."
+  - question: "What are gas fees?"
+    options:
+      - "Monthly subscription costs for Ethereum"
+      - "Fees you pay to execute operations on the Ethereum network"
+      - "The cost of electricity to run a node"
+      - "A tax collected by the Ethereum Foundation"
+    correct: 1
+    explanation: "Gas fees are paid by users to compensate validators for processing their transactions. Every operation (sending ETH, calling a contract) costs gas. You pay in ETH."
+  - question: "What is an ERC-20 token?"
+    options:
+      - "A type of NFT"
+      - "A standard for creating fungible tokens on Ethereum"
+      - "A wallet application"
+      - "A layer 2 network"
+    correct: 1
+    explanation: "ERC-20 is a standard that defines how tokens work on Ethereum. It ensures all tokens share the same basic functions (transfer, approve, balance check), making them compatible with any wallet or exchange."
+  - question: "How much ETH must a validator stake to participate in Ethereum's consensus?"
+    options:
+      - "1 ETH"
+      - "10 ETH"
+      - "32 ETH"
+      - "100 ETH"
+    correct: 2
+    explanation: "Validators must stake 32 ETH to participate in Ethereum's Proof of Stake consensus. This acts as collateral — validators who act dishonestly lose a portion of their stake."
 ---
 
 ## Bitcoin was step one. Ethereum was step two.

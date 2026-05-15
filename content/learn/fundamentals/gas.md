@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "beginner"
 prerequisites: ["smart-contracts"]
 quiz:
- - question: "Why do gas fees exist?"
- options:
- - "To make the Ethereum Foundation money"
- - "To prevent spam and compensate validators for processing transactions"
- - "To pay for Ethereum's marketing"
- - "To keep the price of ETH high"
- correct: 1
- explanation: "Gas fees serve two purposes: they prevent spam (it costs money to flood the network) and they compensate validators for the computing resources used to process and verify transactions."
- - question: "What happens to the base fee portion of gas?"
- options:
- - "It goes to the validators"
- - "It is burned (permanently destroyed)"
- - "It goes to the Ethereum Foundation"
- - "It is refunded to the user"
- correct: 1
- explanation: "Since EIP-1559 (August 2021), the base fee is burned — permanently removed from circulation. Only the priority tip goes to validators. This burning mechanism can make ETH deflationary during high-usage periods."
- - question: "When are gas fees highest?"
- options:
- - "On weekends"
- - "At night"
- - "When the network is busy (popular NFT mints, market crashes)"
- - "When ETH price is low"
- correct: 2
- explanation: "Gas fees rise when demand exceeds capacity. Popular NFT drops, market panic, and new token launches all increase demand for block space, which drives up fees."
- - question: "How much cheaper are Layer 2 fees compared to Ethereum mainnet?"
- options:
- - "About the same"
- - "2x cheaper"
- - "10-100x cheaper"
- - "Free"
- correct: 2
- explanation: "Layer 2 networks like Arbitrum and Base can be 10 to 100 times cheaper than Ethereum mainnet. A swap that costs $5-20 on mainnet might cost $0.10-0.50 on a Layer 2."
- - question: "What unit is gas measured in?"
- options:
- - "Dollars"
- - "Bitcoin"
- - "Gwei (one billionth of an ETH)"
- - "Megabytes"
- correct: 2
- explanation: "Gas prices are measured in gwei. One gwei is 0.000000001 ETH (one billionth). A typical transaction might cost 20-30 gwei per unit of gas, multiplied by the number of gas units the operation requires."
+  - question: "Why do gas fees exist?"
+    options:
+      - "To make the Ethereum Foundation money"
+      - "To prevent spam and compensate validators for processing transactions"
+      - "To pay for Ethereum's marketing"
+      - "To keep the price of ETH high"
+    correct: 1
+    explanation: "Gas fees serve two purposes: they prevent spam (it costs money to flood the network) and they compensate validators for the computing resources used to process and verify transactions."
+  - question: "What happens to the base fee portion of gas?"
+    options:
+      - "It goes to the validators"
+      - "It is burned (permanently destroyed)"
+      - "It goes to the Ethereum Foundation"
+      - "It is refunded to the user"
+    correct: 1
+    explanation: "Since EIP-1559 (August 2021), the base fee is burned — permanently removed from circulation. Only the priority tip goes to validators. This burning mechanism can make ETH deflationary during high-usage periods."
+  - question: "When are gas fees highest?"
+    options:
+      - "On weekends"
+      - "At night"
+      - "When the network is busy (popular NFT mints, market crashes)"
+      - "When ETH price is low"
+    correct: 2
+    explanation: "Gas fees rise when demand exceeds capacity. Popular NFT drops, market panic, and new token launches all increase demand for block space, which drives up fees."
+  - question: "How much cheaper are Layer 2 fees compared to Ethereum mainnet?"
+    options:
+      - "About the same"
+      - "2x cheaper"
+      - "10-100x cheaper"
+      - "Free"
+    correct: 2
+    explanation: "Layer 2 networks like Arbitrum and Base can be 10 to 100 times cheaper than Ethereum mainnet. A swap that costs $5-20 on mainnet might cost $0.10-0.50 on a Layer 2."
+  - question: "What unit is gas measured in?"
+    options:
+      - "Dollars"
+      - "Bitcoin"
+      - "Gwei (one billionth of an ETH)"
+      - "Megabytes"
+    correct: 2
+    explanation: "Gas prices are measured in gwei. One gwei is 0.000000001 ETH (one billionth). A typical transaction might cost 20-30 gwei per unit of gas, multiplied by the number of gas units the operation requires."
 ---
 
 ## Gas is not a fee - it is a unit of computation

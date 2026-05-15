@@ -6,22 +6,22 @@ readTime: "9 min"
 difficulty: "intermediate"
 prerequisites: ["twitter"]
 quiz:
- - question: "What is the biggest risk of KOL-driven marketing in crypto?"
- options:
- - "KOLs charge too much."
- - "Many KOLs shill projects they are paid to promote without disclosing the sponsorship, creating regulatory and reputational risk."
- - "KOLs only work on Twitter."
- - "KOL audiences are too small to matter."
- correct: 1
- explanation: "Undisclosed paid promotions violate securities regulations in many jurisdictions. If a KOL promotes a token without disclosing they were paid (often in tokens they later dump), it harms both the project's credibility and exposes it to legal risk."
- - question: "Which KOL engagement model tends to produce the best results?"
- options:
- - "One-time paid tweet campaigns."
- - "Long-term ambassadorships where KOLs genuinely use the product and have vested interest."
- - "Mass outreach to hundreds of small influencers."
- - "Anonymous paid promotions."
- correct: 1
- explanation: "Long-term relationships where KOLs actually use the product and hold tokens with vesting create authentic engagement. Their audience trusts them because the promotion is genuine, not a one-off cash grab."
+  - question: "What is the biggest risk of KOL-driven marketing in crypto?"
+    options:
+      - "KOLs charge too much."
+      - "Many KOLs shill projects they are paid to promote without disclosing the sponsorship, creating regulatory and reputational risk."
+      - "KOLs only work on Twitter."
+      - "KOL audiences are too small to matter."
+    correct: 1
+    explanation: "Undisclosed paid promotions violate securities regulations in many jurisdictions. If a KOL promotes a token without disclosing they were paid (often in tokens they later dump), it harms both the project's credibility and exposes it to legal risk."
+  - question: "Which KOL engagement model tends to produce the best results?"
+    options:
+      - "One-time paid tweet campaigns."
+      - "Long-term ambassadorships where KOLs genuinely use the product and have vested interest."
+      - "Mass outreach to hundreds of small influencers."
+      - "Anonymous paid promotions."
+    correct: 1
+    explanation: "Long-term relationships where KOLs actually use the product and hold tokens with vesting create authentic engagement. Their audience trusts them because the promotion is genuine, not a one-off cash grab."
 ---
 
 ## What Is a KOL?

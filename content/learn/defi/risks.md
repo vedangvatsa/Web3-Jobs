@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "intermediate"
 prerequisites: ["yield"]
 quiz:
- - question: "What is an oracle manipulation attack?"
- options:
- - "Hacking the blockchain's core code"
- - "Tricking a smart contract by temporarily manipulating the price feed it relies on"
- - "Stealing someone's private keys"
- - "A phishing website"
- correct: 1
- explanation: "If a lending protocol relies on a single DEX for price data, a hacker can use a massive amount of capital (a flash loan) to temporarily crash the price on that DEX, tricking the lending protocol into liquidating users or allowing under-collateralized borrowing."
- - question: "What is a Flash Loan?"
- options:
- - "A fast transaction on Layer 2"
- - "An uncollateralized loan that must be borrowed and repaid within the exact same transaction block"
- - "A loan for buying NFTs"
- - "A traditional bank loan that settles quickly"
- correct: 1
- explanation: "Flash loans allow anyone to borrow millions of dollars with no collateral, as long as the money is returned in the same transaction. Hackers often use flash loans to fund massive oracle manipulation attacks."
- - question: "What does TVL (Total Value Locked) indicate about a protocol's security?"
- options:
- - "High TVL means the protocol is 100% safe"
- - "High TVL means the code has survived being a high-value target, but it is not a guarantee of safety"
- - "Low TVL is safer because hackers ignore it"
- - "TVL has no relation to security"
- correct: 1
- explanation: "A protocol with $1 billion TVL has an open $1 billion bounty for any hacker who can find a bug. If it has survived for years with high TVL, the code is battle-tested. However, even battle-tested protocols can be hacked."
- - question: "Why do smart contract audits NOT guarantee safety?"
- options:
- - "Auditors don't look at the code"
- - "Auditors only check for spelling errors"
- - "Auditors check for known vulnerabilities, but complex logic bugs or new attack vectors can be missed"
- - "Auditors are usually the hackers"
- correct: 2
- explanation: "An audit is a review by security experts. It catches many bugs, but humans make mistakes. A clean audit reduces risk but does not mean the protocol is 'hack-proof'."
- - question: "What is the safest way to approach a brand new DeFi protocol offering high yields?"
- options:
- - "Put all your savings in to maximize the yield"
- - "Use a new, empty wallet and only deposit funds you are fully prepared to lose"
- - "Trust it if it has an audit"
- - "Borrow money to deposit"
- correct: 1
- explanation: "New protocols are the riskiest. Using a separate, dedicated 'degen' wallet protects your main holdings from malicious approvals, and only risking what you can lose protects you from smart contract bugs."
+  - question: "What is an oracle manipulation attack?"
+    options:
+      - "Hacking the blockchain's core code"
+      - "Tricking a smart contract by temporarily manipulating the price feed it relies on"
+      - "Stealing someone's private keys"
+      - "A phishing website"
+    correct: 1
+    explanation: "If a lending protocol relies on a single DEX for price data, a hacker can use a massive amount of capital (a flash loan) to temporarily crash the price on that DEX, tricking the lending protocol into liquidating users or allowing under-collateralized borrowing."
+  - question: "What is a Flash Loan?"
+    options:
+      - "A fast transaction on Layer 2"
+      - "An uncollateralized loan that must be borrowed and repaid within the exact same transaction block"
+      - "A loan for buying NFTs"
+      - "A traditional bank loan that settles quickly"
+    correct: 1
+    explanation: "Flash loans allow anyone to borrow millions of dollars with no collateral, as long as the money is returned in the same transaction. Hackers often use flash loans to fund massive oracle manipulation attacks."
+  - question: "What does TVL (Total Value Locked) indicate about a protocol's security?"
+    options:
+      - "High TVL means the protocol is 100% safe"
+      - "High TVL means the code has survived being a high-value target, but it is not a guarantee of safety"
+      - "Low TVL is safer because hackers ignore it"
+      - "TVL has no relation to security"
+    correct: 1
+    explanation: "A protocol with $1 billion TVL has an open $1 billion bounty for any hacker who can find a bug. If it has survived for years with high TVL, the code is battle-tested. However, even battle-tested protocols can be hacked."
+  - question: "Why do smart contract audits NOT guarantee safety?"
+    options:
+      - "Auditors don't look at the code"
+      - "Auditors only check for spelling errors"
+      - "Auditors check for known vulnerabilities, but complex logic bugs or new attack vectors can be missed"
+      - "Auditors are usually the hackers"
+    correct: 2
+    explanation: "An audit is a review by security experts. It catches many bugs, but humans make mistakes. A clean audit reduces risk but does not mean the protocol is 'hack-proof'."
+  - question: "What is the safest way to approach a brand new DeFi protocol offering high yields?"
+    options:
+      - "Put all your savings in to maximize the yield"
+      - "Use a new, empty wallet and only deposit funds you are fully prepared to lose"
+      - "Trust it if it has an audit"
+      - "Borrow money to deposit"
+    correct: 1
+    explanation: "New protocols are the riskiest. Using a separate, dedicated 'degen' wallet protects your main holdings from malicious approvals, and only risking what you can lose protects you from smart contract bugs."
 ---
 
 ## The dark side of "code is law"

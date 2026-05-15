@@ -6,22 +6,22 @@ readTime: "10 min"
 difficulty: "beginner"
 prerequisites: ["introduction"]
 quiz:
- - question: "What is the primary function of most AI tokens?"
- options:
- - "To replace Bitcoin as digital gold."
- - "To serve as the payment and incentive layer for a specific AI-related network."
- - "To give holders voting rights in OpenAI."
- - "To track the stock price of NVIDIA."
- correct: 1
- explanation: "AI tokens typically serve as the native currency for payment within a decentralized AI network and as incentive mechanisms for providers (compute, data, model training)."
- - question: "What should you check before investing in an AI token?"
- options:
- - "Whether the token logo looks good."
- - "Whether the project has real usage metrics, actual technology, and genuine demand for its token."
- - "Whether it is listed on the most exchanges."
- - "Whether influencers are promoting it."
- correct: 1
- explanation: "Many AI tokens are purely speculative with no real technology behind them. Always check for actual network usage, real revenue, technical documentation, and whether the token is genuinely needed for the protocol to function."
+  - question: "What is the primary function of most AI tokens?"
+    options:
+      - "To replace Bitcoin as digital gold."
+      - "To serve as the payment and incentive layer for a specific AI-related network."
+      - "To give holders voting rights in OpenAI."
+      - "To track the stock price of NVIDIA."
+    correct: 1
+    explanation: "AI tokens typically serve as the native currency for payment within a decentralized AI network and as incentive mechanisms for providers (compute, data, model training)."
+  - question: "What should you check before investing in an AI token?"
+    options:
+      - "Whether the token logo looks good."
+      - "Whether the project has real usage metrics, actual technology, and genuine demand for its token."
+      - "Whether it is listed on the most exchanges."
+      - "Whether influencers are promoting it."
+    correct: 1
+    explanation: "Many AI tokens are purely speculative with no real technology behind them. Always check for actual network usage, real revenue, technical documentation, and whether the token is genuinely needed for the protocol to function."
 ---
 
 ## The AI Token Landscape

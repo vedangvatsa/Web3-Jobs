@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "intermediate"
 prerequisites: ["lending"]
 quiz:
- - question: "Where does sustainable yield in DeFi come from?"
- options:
- - "The Ethereum Foundation printing new tokens"
- - "Real economic activity like trading fees and borrowing interest"
- - "New users depositing money to pay older users"
- - "Mining new blocks"
- correct: 1
- explanation: "Sustainable yield comes from real economic activity. When you provide liquidity to a DEX, you earn trading fees. When you lend on Aave, you earn interest paid by borrowers."
- - question: "What is 'liquidity mining'?"
- options:
- - "Extracting minerals to power blockchain hardware"
- - "When a protocol gives its own governance token to users as a reward for depositing funds"
- - "A hacking technique"
- - "Creating new liquidity pools"
- correct: 1
- explanation: "Liquidity mining is a marketing strategy. Protocols give away their own tokens to incentivize users to deposit funds. This often results in high initial APYs that drop over time as the token price falls or rewards run out."
- - question: "Why do some protocols offer 10,000% APY?"
- options:
- - "They found a risk-free arbitrage opportunity"
- - "They are heavily inflating their own token supply to pay depositors, which is usually unsustainable"
- - "The stock market is doing poorly"
- - "They are officially endorsed by regulators"
- correct: 1
- explanation: "Astronomical APYs are almost always paid in a highly inflationary, newly created token. The APY looks high on paper, but as they print more tokens to pay the yield, the token price usually crashes."
- - question: "What does APY stand for?"
- options:
- - "Annual Percentage Yield"
- - "Average Protocol Yearly"
- - "Automated Pricing Yield"
- - "Annual Payment Yield"
- correct: 0
- explanation: "Annual Percentage Yield (APY) includes the effect of compounding. APR (Annual Percentage Rate) does not. In DeFi, APY rates change constantly based on market conditions."
- - question: "What is a 'yield aggregator'?"
- options:
- - "A spreadsheet tracking prices"
- - "A protocol like Yearn Finance that automatically moves your funds to wherever the yield is highest"
- - "A regulatory body"
- - "A type of stablecoin"
- correct: 1
- explanation: "Yield aggregators automatically deploy your funds across different DeFi protocols to find the best return, rebalancing as rates change, saving you gas fees and time."
+  - question: "Where does sustainable yield in DeFi come from?"
+    options:
+      - "The Ethereum Foundation printing new tokens"
+      - "Real economic activity like trading fees and borrowing interest"
+      - "New users depositing money to pay older users"
+      - "Mining new blocks"
+    correct: 1
+    explanation: "Sustainable yield comes from real economic activity. When you provide liquidity to a DEX, you earn trading fees. When you lend on Aave, you earn interest paid by borrowers."
+  - question: "What is 'liquidity mining'?"
+    options:
+      - "Extracting minerals to power blockchain hardware"
+      - "When a protocol gives its own governance token to users as a reward for depositing funds"
+      - "A hacking technique"
+      - "Creating new liquidity pools"
+    correct: 1
+    explanation: "Liquidity mining is a marketing strategy. Protocols give away their own tokens to incentivize users to deposit funds. This often results in high initial APYs that drop over time as the token price falls or rewards run out."
+  - question: "Why do some protocols offer 10,000% APY?"
+    options:
+      - "They found a risk-free arbitrage opportunity"
+      - "They are heavily inflating their own token supply to pay depositors, which is usually unsustainable"
+      - "The stock market is doing poorly"
+      - "They are officially endorsed by regulators"
+    correct: 1
+    explanation: "Astronomical APYs are almost always paid in a highly inflationary, newly created token. The APY looks high on paper, but as they print more tokens to pay the yield, the token price usually crashes."
+  - question: "What does APY stand for?"
+    options:
+      - "Annual Percentage Yield"
+      - "Average Protocol Yearly"
+      - "Automated Pricing Yield"
+      - "Annual Payment Yield"
+    correct: 0
+    explanation: "Annual Percentage Yield (APY) includes the effect of compounding. APR (Annual Percentage Rate) does not. In DeFi, APY rates change constantly based on market conditions."
+  - question: "What is a 'yield aggregator'?"
+    options:
+      - "A spreadsheet tracking prices"
+      - "A protocol like Yearn Finance that automatically moves your funds to wherever the yield is highest"
+      - "A regulatory body"
+      - "A type of stablecoin"
+    correct: 1
+    explanation: "Yield aggregators automatically deploy your funds across different DeFi protocols to find the best return, rebalancing as rates change, saving you gas fees and time."
 ---
 
 ## Where does the money come from?

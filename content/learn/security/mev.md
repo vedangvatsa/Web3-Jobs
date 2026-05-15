@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "advanced"
 prerequisites: ["exploits"]
 quiz:
- - question: "What is MEV?"
- options:
- - "A type of mining reward"
- - "Profit that validators or searchers extract by including, excluding, or reordering transactions within a block"
- - "A metric for measuring blockchain performance"
- - "A token used for Ethereum governance"
- correct: 1
- explanation: "MEV (Maximal Extractable Value) is the profit available from manipulating transaction order. If a large buy order is sitting in the mempool, a searcher can place their own buy before it (front-running) and a sell after it (back-running), extracting profit from the price movement."
- - question: "What is a 'sandwich attack'?"
- options:
- - "An attack that targets three different protocols"
- - "A front-run + back-run combo: the attacker buys before your swap (raising the price), your swap executes at the worse price, then the attacker sells at the higher price"
- - "An attack on the consensus layer"
- - "A social engineering technique"
- correct: 1
- explanation: "Your pending Uniswap swap is visible in the mempool. A bot sees it, submits a buy order with higher gas to execute first (front-run), your swap executes at a worse price due to the price impact, then the bot sells at the inflated price (back-run). The bot profits from the price difference."
- - question: "Why is MEV sometimes called an 'invisible tax' on DeFi users?"
- options:
- - "Because it appears as a gas fee"
- - "Because users unknowingly receive worse execution prices on their swaps due to front-running, and this cost is never displayed in the UI"
- - "Because MEV is taxed by governments"
- - "Because validators charge hidden fees"
- correct: 1
- explanation: "When you swap on Uniswap, the UI shows an expected price. But if a sandwich bot intervenes, you receive fewer tokens than expected. The difference — often $5-50 per trade — goes to the MEV extractor. Most users never realize this happened because the transaction still succeeds."
- - question: "What is Flashbots and how does it address MEV?"
- options:
- - "A tool for writing flash loans"
- - "An organization that built a private transaction relay to protect users from front-running, and a transparent MEV marketplace for validators"
- - "A blockchain explorer"
- - "A DeFi aggregator"
- correct: 1
- explanation: "Flashbots created 'MEV-Boost' — a system where searchers submit transaction bundles to a private relay instead of the public mempool. This prevents sandwich attacks (your transaction isn't visible to attackers) and creates a competitive auction for MEV extraction."
- - question: "What is a 'private mempool' or 'RPC endpoint' and why do advanced users use one?"
- options:
- - "A faster internet connection for trading"
- - "A transaction submission channel that hides your pending transaction from public view, preventing front-running bots from seeing it"
- - "A private blockchain"
- - "An encrypted wallet"
- correct: 1
- explanation: "When you submit a transaction through MetaMask's default RPC, it enters the public mempool where any bot can see it. Private RPCs (like Flashbots Protect or MEV Blocker) route your transaction directly to block builders without exposing it publicly, making sandwich attacks impossible."
+  - question: "What is MEV?"
+    options:
+      - "A type of mining reward"
+      - "Profit that validators or searchers extract by including, excluding, or reordering transactions within a block"
+      - "A metric for measuring blockchain performance"
+      - "A token used for Ethereum governance"
+    correct: 1
+    explanation: "MEV (Maximal Extractable Value) is the profit available from manipulating transaction order. If a large buy order is sitting in the mempool, a searcher can place their own buy before it (front-running) and a sell after it (back-running), extracting profit from the price movement."
+  - question: "What is a 'sandwich attack'?"
+    options:
+      - "An attack that targets three different protocols"
+      - "A front-run + back-run combo: the attacker buys before your swap (raising the price), your swap executes at the worse price, then the attacker sells at the higher price"
+      - "An attack on the consensus layer"
+      - "A social engineering technique"
+    correct: 1
+    explanation: "Your pending Uniswap swap is visible in the mempool. A bot sees it, submits a buy order with higher gas to execute first (front-run), your swap executes at a worse price due to the price impact, then the bot sells at the inflated price (back-run). The bot profits from the price difference."
+  - question: "Why is MEV sometimes called an 'invisible tax' on DeFi users?"
+    options:
+      - "Because it appears as a gas fee"
+      - "Because users unknowingly receive worse execution prices on their swaps due to front-running, and this cost is never displayed in the UI"
+      - "Because MEV is taxed by governments"
+      - "Because validators charge hidden fees"
+    correct: 1
+    explanation: "When you swap on Uniswap, the UI shows an expected price. But if a sandwich bot intervenes, you receive fewer tokens than expected. The difference — often $5-50 per trade — goes to the MEV extractor. Most users never realize this happened because the transaction still succeeds."
+  - question: "What is Flashbots and how does it address MEV?"
+    options:
+      - "A tool for writing flash loans"
+      - "An organization that built a private transaction relay to protect users from front-running, and a transparent MEV marketplace for validators"
+      - "A blockchain explorer"
+      - "A DeFi aggregator"
+    correct: 1
+    explanation: "Flashbots created 'MEV-Boost' — a system where searchers submit transaction bundles to a private relay instead of the public mempool. This prevents sandwich attacks (your transaction isn't visible to attackers) and creates a competitive auction for MEV extraction."
+  - question: "What is a 'private mempool' or 'RPC endpoint' and why do advanced users use one?"
+    options:
+      - "A faster internet connection for trading"
+      - "A transaction submission channel that hides your pending transaction from public view, preventing front-running bots from seeing it"
+      - "A private blockchain"
+      - "An encrypted wallet"
+    correct: 1
+    explanation: "When you submit a transaction through MetaMask's default RPC, it enters the public mempool where any bot can see it. Private RPCs (like Flashbots Protect or MEV Blocker) route your transaction directly to block builders without exposing it publicly, making sandwich attacks impossible."
 ---
 
 ## The Dark Forest

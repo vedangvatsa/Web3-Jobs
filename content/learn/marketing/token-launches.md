@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "intermediate"
 prerequisites: ["community"]
 quiz:
- - question: "What are 'tokenomics'?"
- options:
- - "The price history of a token"
- - "The design of a token's supply, distribution, vesting schedules, and utility within a protocol"
- - "A marketing strategy for promoting tokens"
- - "The legal framework for token regulation"
- correct: 1
- explanation: "Tokenomics is the economic design of a token: how many tokens exist, who gets them, when they unlock, what they're used for, and how supply changes over time. Bad tokenomics (e.g., team selling large unlocks) is one of the primary reasons tokens lose value."
- - question: "Why do teams use vesting schedules for insider token allocations?"
- options:
- - "To comply with SEC regulations"
- - "To prevent insiders from dumping tokens immediately after launch, which would crash the price and destroy user trust"
- - "Because smart contracts require vesting"
- - "To make the token more scarce"
- correct: 1
- explanation: "If a team holds 20% of tokens with no lockup, they can sell everything on day one and walk away. Vesting schedules (e.g., 12-month cliff, 36-month linear unlock) force insiders to stay aligned with the project's long-term success. Users check vesting schedules before investing."
- - question: "What is a 'cliff' in a vesting schedule?"
- options:
- - "The maximum price a token can reach"
- - "A period after launch where no insider tokens unlock at all, typically 6-12 months"
- - "The minimum amount of tokens required to vote"
- - "A type of smart contract vulnerability"
- correct: 1
- explanation: "A cliff means zero tokens unlock for a set period after launch. A '12-month cliff with 36-month linear vesting' means: no tokens for year one, then tokens unlock gradually over the next three years. This protects early buyers from immediate insider selling."
- - question: "What is a Token Generation Event (TGE)?"
- options:
- - "When a new blockchain is created"
- - "The moment a token is first minted and distributed — when it starts trading on exchanges or DEXs"
- - "A fundraising event for the development team"
- - "An airdrop to all Ethereum users"
- correct: 1
- explanation: "TGE is the launch day. The token smart contract is deployed, initial distributions occur (community allocation, liquidity pools), and trading begins. The circulating supply at TGE is a critical number — it determines initial price discovery and market cap."
- - question: "What percentage of supply is typically circulating at TGE for a well-designed token?"
- options:
- - "100%"
- - "5-15%, with the rest locked in vesting contracts"
- - "50%"
- - "0% — all tokens are locked initially"
- correct: 1
- explanation: "Most well-structured launches put 5-15% of supply in circulation at TGE (for liquidity, airdrops, and community rewards). The rest unlocks over 3-5 years. This creates a predictable supply schedule. If too much circulates at launch, there is heavy sell pressure."
+  - question: "What are 'tokenomics'?"
+    options:
+      - "The price history of a token"
+      - "The design of a token's supply, distribution, vesting schedules, and utility within a protocol"
+      - "A marketing strategy for promoting tokens"
+      - "The legal framework for token regulation"
+    correct: 1
+    explanation: "Tokenomics is the economic design of a token: how many tokens exist, who gets them, when they unlock, what they're used for, and how supply changes over time. Bad tokenomics (e.g., team selling large unlocks) is one of the primary reasons tokens lose value."
+  - question: "Why do teams use vesting schedules for insider token allocations?"
+    options:
+      - "To comply with SEC regulations"
+      - "To prevent insiders from dumping tokens immediately after launch, which would crash the price and destroy user trust"
+      - "Because smart contracts require vesting"
+      - "To make the token more scarce"
+    correct: 1
+    explanation: "If a team holds 20% of tokens with no lockup, they can sell everything on day one and walk away. Vesting schedules (e.g., 12-month cliff, 36-month linear unlock) force insiders to stay aligned with the project's long-term success. Users check vesting schedules before investing."
+  - question: "What is a 'cliff' in a vesting schedule?"
+    options:
+      - "The maximum price a token can reach"
+      - "A period after launch where no insider tokens unlock at all, typically 6-12 months"
+      - "The minimum amount of tokens required to vote"
+      - "A type of smart contract vulnerability"
+    correct: 1
+    explanation: "A cliff means zero tokens unlock for a set period after launch. A '12-month cliff with 36-month linear vesting' means: no tokens for year one, then tokens unlock gradually over the next three years. This protects early buyers from immediate insider selling."
+  - question: "What is a Token Generation Event (TGE)?"
+    options:
+      - "When a new blockchain is created"
+      - "The moment a token is first minted and distributed — when it starts trading on exchanges or DEXs"
+      - "A fundraising event for the development team"
+      - "An airdrop to all Ethereum users"
+    correct: 1
+    explanation: "TGE is the launch day. The token smart contract is deployed, initial distributions occur (community allocation, liquidity pools), and trading begins. The circulating supply at TGE is a critical number — it determines initial price discovery and market cap."
+  - question: "What percentage of supply is typically circulating at TGE for a well-designed token?"
+    options:
+      - "100%"
+      - "5-15%, with the rest locked in vesting contracts"
+      - "50%"
+      - "0% — all tokens are locked initially"
+    correct: 1
+    explanation: "Most well-structured launches put 5-15% of supply in circulation at TGE (for liquidity, airdrops, and community rewards). The rest unlocks over 3-5 years. This creates a predictable supply schedule. If too much circulates at launch, there is heavy sell pressure."
 ---
 
 ## Token Launches Are Protocol-Defining Events

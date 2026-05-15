@@ -6,22 +6,22 @@ readTime: "10 min"
 difficulty: "intermediate"
 prerequisites: ["introduction"]
 quiz:
- - question: "What is the main problem with centralized AI compute?"
- options:
- - "GPUs are too slow for AI training."
- - "A small number of companies control access to the hardware needed for AI."
- - "There are not enough data centers in the world."
- - "Electricity is too expensive everywhere."
- correct: 1
- explanation: "NVIDIA GPUs are the primary hardware for AI training, and access is controlled by a handful of hyperscalers (AWS, Google Cloud, Azure). This creates bottlenecks, high prices, and gatekeeping."
- - question: "How does Akash Network reduce compute costs?"
- options:
- - "By manufacturing its own GPUs."
- - "By matching buyers with providers who have idle GPU capacity in a permissionless marketplace."
- - "By using CPUs instead of GPUs."
- - "By running everything on a single supercomputer."
- correct: 1
- explanation: "Akash acts as a decentralized marketplace where anyone with spare GPU capacity can list it, and anyone who needs compute can bid on it. This creates price competition and eliminates middlemen."
+  - question: "What is the main problem with centralized AI compute?"
+    options:
+      - "GPUs are too slow for AI training."
+      - "A small number of companies control access to the hardware needed for AI."
+      - "There are not enough data centers in the world."
+      - "Electricity is too expensive everywhere."
+    correct: 1
+    explanation: "NVIDIA GPUs are the primary hardware for AI training, and access is controlled by a handful of hyperscalers (AWS, Google Cloud, Azure). This creates bottlenecks, high prices, and gatekeeping."
+  - question: "How does Akash Network reduce compute costs?"
+    options:
+      - "By manufacturing its own GPUs."
+      - "By matching buyers with providers who have idle GPU capacity in a permissionless marketplace."
+      - "By using CPUs instead of GPUs."
+      - "By running everything on a single supercomputer."
+    correct: 1
+    explanation: "Akash acts as a decentralized marketplace where anyone with spare GPU capacity can list it, and anyone who needs compute can bid on it. This creates price competition and eliminates middlemen."
 ---
 
 ## The GPU Bottleneck

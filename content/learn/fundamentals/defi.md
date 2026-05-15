@@ -6,46 +6,46 @@ readTime: "11 min"
 difficulty: "beginner"
 prerequisites: ["daos"]
 quiz:
- - question: "What is DeFi?"
- options:
- - "A type of cryptocurrency"
- - "Financial services built on smart contracts, without banks or brokers"
- - "A digital bank account"
- - "A government financial program"
- correct: 1
- explanation: "DeFi (Decentralized Finance) rebuilds traditional financial services — trading, lending, borrowing, savings — using smart contracts instead of banks. Anyone with a wallet can use it, 24/7."
- - question: "How does a DEX like Uniswap handle trading?"
- options:
- - "It matches buy and sell orders like a stock exchange"
- - "It uses liquidity pools and a mathematical formula to set prices"
- - "A human market maker sets the prices"
- - "It connects to a bank's trading system"
- correct: 1
- explanation: "Uniswap uses an Automated Market Maker (AMM). Liquidity providers deposit token pairs into pools. A formula (x * y = k) determines the price based on the ratio of tokens in the pool."
- - question: "What is 'collateral' in DeFi lending?"
- options:
- - "The interest rate on a loan"
- - "Crypto you lock up as security to borrow against"
- - "A type of stablecoin"
- - "The fee you pay to a smart contract"
- correct: 1
- explanation: "To borrow in DeFi, you deposit crypto as collateral — typically worth 150%+ of what you borrow. If the value of your collateral drops too far, the smart contract automatically sells it to protect lenders."
- - question: "What is 'Total Value Locked' (TVL)?"
- options:
- - "The price of Ethereum"
- - "The total amount of crypto deposited in DeFi smart contracts"
- - "The number of DeFi users"
- - "The market cap of all cryptocurrencies"
- correct: 1
- explanation: "TVL measures the total value of crypto deposited in DeFi protocols. A higher TVL generally means more liquidity and more trust in the protocol. As of 2024, total DeFi TVL exceeds $80 billion."
- - question: "What is the biggest risk in DeFi?"
- options:
- - "Internet speed"
- - "Smart contract bugs that can lead to fund losses"
- - "Government taxes"
- - "Slow transactions"
- correct: 1
- explanation: "Smart contract risk is the biggest concern. If a contract has a bug, hackers can exploit it and drain funds. Billions of dollars have been lost to DeFi hacks. Always use audited protocols and start with small amounts."
+  - question: "What is DeFi?"
+    options:
+      - "A type of cryptocurrency"
+      - "Financial services built on smart contracts, without banks or brokers"
+      - "A digital bank account"
+      - "A government financial program"
+    correct: 1
+    explanation: "DeFi (Decentralized Finance) rebuilds traditional financial services — trading, lending, borrowing, savings — using smart contracts instead of banks. Anyone with a wallet can use it, 24/7."
+  - question: "How does a DEX like Uniswap handle trading?"
+    options:
+      - "It matches buy and sell orders like a stock exchange"
+      - "It uses liquidity pools and a mathematical formula to set prices"
+      - "A human market maker sets the prices"
+      - "It connects to a bank's trading system"
+    correct: 1
+    explanation: "Uniswap uses an Automated Market Maker (AMM). Liquidity providers deposit token pairs into pools. A formula (x * y = k) determines the price based on the ratio of tokens in the pool."
+  - question: "What is 'collateral' in DeFi lending?"
+    options:
+      - "The interest rate on a loan"
+      - "Crypto you lock up as security to borrow against"
+      - "A type of stablecoin"
+      - "The fee you pay to a smart contract"
+    correct: 1
+    explanation: "To borrow in DeFi, you deposit crypto as collateral — typically worth 150%+ of what you borrow. If the value of your collateral drops too far, the smart contract automatically sells it to protect lenders."
+  - question: "What is 'Total Value Locked' (TVL)?"
+    options:
+      - "The price of Ethereum"
+      - "The total amount of crypto deposited in DeFi smart contracts"
+      - "The number of DeFi users"
+      - "The market cap of all cryptocurrencies"
+    correct: 1
+    explanation: "TVL measures the total value of crypto deposited in DeFi protocols. A higher TVL generally means more liquidity and more trust in the protocol. As of 2024, total DeFi TVL exceeds $80 billion."
+  - question: "What is the biggest risk in DeFi?"
+    options:
+      - "Internet speed"
+      - "Smart contract bugs that can lead to fund losses"
+      - "Government taxes"
+      - "Slow transactions"
+    correct: 1
+    explanation: "Smart contract risk is the biggest concern. If a contract has a bug, hackers can exploit it and drain funds. Billions of dollars have been lost to DeFi hacks. Always use audited protocols and start with small amounts."
 ---
 
 ## What DeFi replaces

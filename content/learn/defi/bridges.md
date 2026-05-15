@@ -6,46 +6,46 @@ readTime: "7 min"
 difficulty: "intermediate"
 prerequisites: ["dexs"]
 quiz:
- - question: "Why can't you simply send ETH from Ethereum to Solana?"
- options:
- - "Solana doesn't support ETH"
- - "Each blockchain is a separate ledger with no native ability to verify the state of another chain"
- - "ETH is only compatible with EVM chains"
- - "You need a special wallet"
- correct: 1
- explanation: "Blockchains are isolated state machines. Ethereum validators have no way to verify what happened on Solana, and vice versa. A bridge acts as the intermediary that locks tokens on one chain and issues equivalent tokens on the other."
- - question: "In a lock-and-mint bridge, what happens to your original ETH when you bridge it to Arbitrum?"
- options:
- - "It is destroyed and re-created on Arbitrum"
- - "It is locked in a smart contract on Ethereum, and a wrapped representation is minted on Arbitrum"
- - "It is converted to MATIC automatically"
- - "It is sent to the bridge operator's wallet"
- correct: 1
- explanation: "Your real ETH stays locked in a contract on Ethereum. On Arbitrum, the bridge mints 'Wrapped ETH' (a synthetic token that represents a claim on the locked ETH). When you bridge back, the wrapped token is burned and the original ETH is unlocked."
- - question: "Why have bridge hacks resulted in some of the largest losses in crypto history?"
- options:
- - "Bridges process more transactions than DEXs"
- - "Bridge contracts hold massive pools of locked assets — if the contract is exploited, the attacker gets everything in the pool"
- - "Bridges don't use smart contracts"
- - "Hackers prefer attacking bridges for ideological reasons"
- correct: 1
- explanation: "The Ronin Bridge hack ($625M, 2022) and Wormhole hack ($320M, 2022) both exploited the bridge's validation mechanism. Because bridges custody billions in locked tokens, a single vulnerability grants access to the entire pool."
- - question: "What is a validator-based bridge?"
- options:
- - "A bridge that uses the same validators as Ethereum"
- - "A bridge where a set of independent validators observe transactions on Chain A and sign attestations that Chain B uses to release funds"
- - "A bridge that requires no trust assumptions"
- - "A centralized exchange that operates on two chains"
- correct: 1
- explanation: "Validator bridges (like Wormhole's Guardian network) use a committee of validators who watch both chains. When enough validators confirm a deposit on Chain A, they produce a signed message that Chain B's contract accepts to release tokens. The security depends entirely on how many validators must be compromised."
- - question: "What is the safest way to bridge assets between Ethereum and an L2 like Arbitrum?"
- options:
- - "Use any third-party bridge for speed"
- - "Use the native (canonical) bridge operated by the L2 itself, which inherits Ethereum's security"
- - "Send tokens through a centralized exchange"
- - "There is no safe way"
- correct: 1
- explanation: "L2 native bridges (like Arbitrum's official bridge) settle transactions through Ethereum's own consensus. While slower (7-day withdrawal period for optimistic rollups), they inherit Ethereum's full security guarantees rather than relying on a separate set of validators."
+  - question: "Why can't you simply send ETH from Ethereum to Solana?"
+    options:
+      - "Solana doesn't support ETH"
+      - "Each blockchain is a separate ledger with no native ability to verify the state of another chain"
+      - "ETH is only compatible with EVM chains"
+      - "You need a special wallet"
+    correct: 1
+    explanation: "Blockchains are isolated state machines. Ethereum validators have no way to verify what happened on Solana, and vice versa. A bridge acts as the intermediary that locks tokens on one chain and issues equivalent tokens on the other."
+  - question: "In a lock-and-mint bridge, what happens to your original ETH when you bridge it to Arbitrum?"
+    options:
+      - "It is destroyed and re-created on Arbitrum"
+      - "It is locked in a smart contract on Ethereum, and a wrapped representation is minted on Arbitrum"
+      - "It is converted to MATIC automatically"
+      - "It is sent to the bridge operator's wallet"
+    correct: 1
+    explanation: "Your real ETH stays locked in a contract on Ethereum. On Arbitrum, the bridge mints 'Wrapped ETH' (a synthetic token that represents a claim on the locked ETH). When you bridge back, the wrapped token is burned and the original ETH is unlocked."
+  - question: "Why have bridge hacks resulted in some of the largest losses in crypto history?"
+    options:
+      - "Bridges process more transactions than DEXs"
+      - "Bridge contracts hold massive pools of locked assets — if the contract is exploited, the attacker gets everything in the pool"
+      - "Bridges don't use smart contracts"
+      - "Hackers prefer attacking bridges for ideological reasons"
+    correct: 1
+    explanation: "The Ronin Bridge hack ($625M, 2022) and Wormhole hack ($320M, 2022) both exploited the bridge's validation mechanism. Because bridges custody billions in locked tokens, a single vulnerability grants access to the entire pool."
+  - question: "What is a validator-based bridge?"
+    options:
+      - "A bridge that uses the same validators as Ethereum"
+      - "A bridge where a set of independent validators observe transactions on Chain A and sign attestations that Chain B uses to release funds"
+      - "A bridge that requires no trust assumptions"
+      - "A centralized exchange that operates on two chains"
+    correct: 1
+    explanation: "Validator bridges (like Wormhole's Guardian network) use a committee of validators who watch both chains. When enough validators confirm a deposit on Chain A, they produce a signed message that Chain B's contract accepts to release tokens. The security depends entirely on how many validators must be compromised."
+  - question: "What is the safest way to bridge assets between Ethereum and an L2 like Arbitrum?"
+    options:
+      - "Use any third-party bridge for speed"
+      - "Use the native (canonical) bridge operated by the L2 itself, which inherits Ethereum's security"
+      - "Send tokens through a centralized exchange"
+      - "There is no safe way"
+    correct: 1
+    explanation: "L2 native bridges (like Arbitrum's official bridge) settle transactions through Ethereum's own consensus. While slower (7-day withdrawal period for optimistic rollups), they inherit Ethereum's full security guarantees rather than relying on a separate set of validators."
 ---
 
 ## The Problem: Isolated Blockchains

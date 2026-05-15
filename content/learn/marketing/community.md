@@ -6,46 +6,46 @@ readTime: "7 min"
 difficulty: "beginner"
 prerequisites: []
 quiz:
- - question: "Why is community more important in Web3 than Web2?"
- options:
- - "Because Web3 doesn't have marketing budgets"
- - "Because community members are often also investors, users, and governors of the protocol"
- - "Because Web3 founders don't like talking to people"
- - "It is not more important"
- correct: 1
- explanation: "In Web3, the users are the owners. Community members often hold tokens, vote on governance proposals, and drive liquidity. A strong community is a competitive moat."
- - question: "What is the primary platform for Web3 communities?"
- options:
- - "Facebook Groups"
- - "LinkedIn"
- - "Discord"
- - "WhatsApp"
- correct: 2
- explanation: "Discord is the central hub for almost all Web3 projects. It allows for organized channels, role-gating (e.g., channels only for token holders), and direct developer-user interaction."
- - question: "What is a 'Collab.Land' or 'Guild.xyz' integration used for?"
- options:
- - "To process payments"
- - "To verify that a user holds a specific token or NFT before giving them a Discord role"
- - "To ban spammers"
- - "To host voice calls"
- correct: 1
- explanation: "Token-gating is a core Web3 mechanic. Bots like Collab.Land and Guild check a user's crypto wallet and automatically assign Discord roles if they hold the required assets."
- - question: "How should a community manager handle FUD (Fear, Uncertainty, and Doubt)?"
- options:
- - "Ban anyone who asks difficult questions"
- - "Ignore it and hope it goes away"
- - "Address it transparently with facts, data, and updates from the core team"
- - "Insult the person spreading the FUD"
- correct: 2
- explanation: "Banning users for legitimate concerns destroys trust. Addressing FUD transparently with verifiable on-chain data or clear developer updates is the only way to maintain a healthy community."
- - question: "What is a 'Community Call'?"
- options:
- - "A sales pitch to venture capitalists"
- - "A regular (often weekly) voice or video meeting where the core team updates the community and answers questions"
- - "A customer support ticket"
- - "A marketing email"
- correct: 1
- explanation: "Community calls, usually held on Twitter Spaces or Discord Voice, are essential for transparency. They give the community direct access to the founders and developers."
+  - question: "Why is community more important in Web3 than Web2?"
+    options:
+      - "Because Web3 doesn't have marketing budgets"
+      - "Because community members are often also investors, users, and governors of the protocol"
+      - "Because Web3 founders don't like talking to people"
+      - "It is not more important"
+    correct: 1
+    explanation: "In Web3, the users are the owners. Community members often hold tokens, vote on governance proposals, and drive liquidity. A strong community is a competitive moat."
+  - question: "What is the primary platform for Web3 communities?"
+    options:
+      - "Facebook Groups"
+      - "LinkedIn"
+      - "Discord"
+      - "WhatsApp"
+    correct: 2
+    explanation: "Discord is the central hub for almost all Web3 projects. It allows for organized channels, role-gating (e.g., channels only for token holders), and direct developer-user interaction."
+  - question: "What is a 'Collab.Land' or 'Guild.xyz' integration used for?"
+    options:
+      - "To process payments"
+      - "To verify that a user holds a specific token or NFT before giving them a Discord role"
+      - "To ban spammers"
+      - "To host voice calls"
+    correct: 1
+    explanation: "Token-gating is a core Web3 mechanic. Bots like Collab.Land and Guild check a user's crypto wallet and automatically assign Discord roles if they hold the required assets."
+  - question: "How should a community manager handle FUD (Fear, Uncertainty, and Doubt)?"
+    options:
+      - "Ban anyone who asks difficult questions"
+      - "Ignore it and hope it goes away"
+      - "Address it transparently with facts, data, and updates from the core team"
+      - "Insult the person spreading the FUD"
+    correct: 2
+    explanation: "Banning users for legitimate concerns destroys trust. Addressing FUD transparently with verifiable on-chain data or clear developer updates is the only way to maintain a healthy community."
+  - question: "What is a 'Community Call'?"
+    options:
+      - "A sales pitch to venture capitalists"
+      - "A regular (often weekly) voice or video meeting where the core team updates the community and answers questions"
+      - "A customer support ticket"
+      - "A marketing email"
+    correct: 1
+    explanation: "Community calls, usually held on Twitter Spaces or Discord Voice, are essential for transparency. They give the community direct access to the founders and developers."
 ---
 
 ## The Community is the Product

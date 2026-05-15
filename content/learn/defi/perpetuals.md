@@ -6,22 +6,22 @@ readTime: "11 min"
 difficulty: "advanced"
 prerequisites: ["dexs"]
 quiz:
- - question: "What is a perpetual futures contract?"
- options:
- - "A futures contract that expires every month."
- - "A futures contract with no expiration date, allowing traders to hold use positions indefinitely."
- - "A type of options contract."
- - "A stablecoin that tracks commodity prices."
- correct: 1
- explanation: "Perpetual futures ('perps') are futures contracts that never expire. They use a funding rate mechanism to keep the contract price anchored to the spot price."
- - question: "What is the 'funding rate' in perpetual futures?"
- options:
- - "The gas fee for opening a trade."
- - "A periodic payment between longs and shorts that keeps the perp price aligned with the spot price."
- - "The interest rate on borrowed margin."
- - "The protocol's trading fee."
- correct: 1
- explanation: "When the perp price is above spot, longs pay shorts (incentivizing shorting). When the perp price is below spot, shorts pay longs. This mechanism keeps prices aligned without expiration."
+  - question: "What is a perpetual futures contract?"
+    options:
+      - "A futures contract that expires every month."
+      - "A futures contract with no expiration date, allowing traders to hold use positions indefinitely."
+      - "A type of options contract."
+      - "A stablecoin that tracks commodity prices."
+    correct: 1
+    explanation: "Perpetual futures ('perps') are futures contracts that never expire. They use a funding rate mechanism to keep the contract price anchored to the spot price."
+  - question: "What is the 'funding rate' in perpetual futures?"
+    options:
+      - "The gas fee for opening a trade."
+      - "A periodic payment between longs and shorts that keeps the perp price aligned with the spot price."
+      - "The interest rate on borrowed margin."
+      - "The protocol's trading fee."
+    correct: 1
+    explanation: "When the perp price is above spot, longs pay shorts (incentivizing shorting). When the perp price is below spot, shorts pay longs. This mechanism keeps prices aligned without expiration."
 ---
 
 ## What Are Perpetual Futures?

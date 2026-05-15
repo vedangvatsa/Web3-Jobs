@@ -6,22 +6,22 @@ readTime: "10 min"
 difficulty: "advanced"
 prerequisites: ["erc20", "security"]
 quiz:
- - question: "Why can't smart contracts be updated directly?"
- options:
- - "The EVM doesn't support code changes."
- - "Once deployed, smart contract code is immutable — it cannot be changed."
- - "Only the contract owner can update them."
- - "Updates require a hard fork."
- correct: 1
- explanation: "Smart contracts are deployed as bytecode at a fixed address. The EVM provides no mechanism to modify deployed code. Proxy patterns work around this by separating storage from logic."
- - question: "What is the main security risk of proxy-based upgradeable contracts?"
- options:
- - "They use more gas."
- - "The upgrade admin can replace the contract logic with malicious code, effectively rugging all users."
- - "They are incompatible with DeFi."
- - "They cannot hold ETH."
- correct: 1
- explanation: "Whoever controls the upgrade key can swap the implementation contract for anything — including code that drains all funds. This is why upgrade mechanisms must be secured with timelocks and multisigs."
+  - question: "Why can't smart contracts be updated directly?"
+    options:
+      - "The EVM doesn't support code changes."
+      - "Once deployed, smart contract code is immutable — it cannot be changed."
+      - "Only the contract owner can update them."
+      - "Updates require a hard fork."
+    correct: 1
+    explanation: "Smart contracts are deployed as bytecode at a fixed address. The EVM provides no mechanism to modify deployed code. Proxy patterns work around this by separating storage from logic."
+  - question: "What is the main security risk of proxy-based upgradeable contracts?"
+    options:
+      - "They use more gas."
+      - "The upgrade admin can replace the contract logic with malicious code, effectively rugging all users."
+      - "They are incompatible with DeFi."
+      - "They cannot hold ETH."
+    correct: 1
+    explanation: "Whoever controls the upgrade key can swap the implementation contract for anything — including code that drains all funds. This is why upgrade mechanisms must be secured with timelocks and multisigs."
 ---
 
 ## The Immutability Problem

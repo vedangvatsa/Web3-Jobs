@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "beginner"
 prerequisites: ["wallets"]
 quiz:
- - question: "What is a testnet?"
- options:
- - "A fake blockchain used for practice, with no real money"
- - "A premium version of Ethereum"
- - "A tool for testing internet speed"
- - "A wallet application"
- correct: 0
- explanation: "A testnet is a copy of Ethereum where the ETH has no real value. Developers and learners use it to practice transactions and test smart contracts without risking real money."
- - question: "What is a faucet in crypto?"
- options:
- - "A tool to mine cryptocurrency"
- - "A website that gives you free testnet tokens for practice"
- - "A type of hardware wallet"
- - "A DeFi lending protocol"
- correct: 1
- explanation: "A faucet is a website that distributes free testnet tokens. Since testnet ETH has no value, faucets give it away so developers and learners can experiment."
- - question: "What do you need to pay a gas fee?"
- options:
- - "A credit card"
- - "A monthly subscription"
- - "ETH in your wallet"
- - "A special gas token"
- correct: 2
- explanation: "Gas fees on Ethereum are always paid in ETH. You need ETH in your wallet to send any transaction, even if you are sending a different token."
- - question: "What should you always do before sending a large transaction?"
- options:
- - "Post about it on social media"
- - "Send a small test transaction first"
- - "Wait for the weekend when fees are lower"
- - "Turn off your VPN"
- correct: 1
- explanation: "Always send a small test transaction first to confirm the address is correct. Blockchain transactions are irreversible — if you send to the wrong address, your money is gone."
- - question: "Where can you view the details of any Ethereum transaction?"
- options:
- - "In your email inbox"
- - "On a block explorer like Etherscan"
- - "In the Ethereum Foundation's database"
- - "Only in your wallet app"
- correct: 1
- explanation: "Block explorers like Etherscan let anyone view any transaction on the blockchain. Since the blockchain is public, all transactions are visible to everyone."
+  - question: "What is a testnet?"
+    options:
+      - "A fake blockchain used for practice, with no real money"
+      - "A premium version of Ethereum"
+      - "A tool for testing internet speed"
+      - "A wallet application"
+    correct: 0
+    explanation: "A testnet is a copy of Ethereum where the ETH has no real value. Developers and learners use it to practice transactions and test smart contracts without risking real money."
+  - question: "What is a faucet in crypto?"
+    options:
+      - "A tool to mine cryptocurrency"
+      - "A website that gives you free testnet tokens for practice"
+      - "A type of hardware wallet"
+      - "A DeFi lending protocol"
+    correct: 1
+    explanation: "A faucet is a website that distributes free testnet tokens. Since testnet ETH has no value, faucets give it away so developers and learners can experiment."
+  - question: "What do you need to pay a gas fee?"
+    options:
+      - "A credit card"
+      - "A monthly subscription"
+      - "ETH in your wallet"
+      - "A special gas token"
+    correct: 2
+    explanation: "Gas fees on Ethereum are always paid in ETH. You need ETH in your wallet to send any transaction, even if you are sending a different token."
+  - question: "What should you always do before sending a large transaction?"
+    options:
+      - "Post about it on social media"
+      - "Send a small test transaction first"
+      - "Wait for the weekend when fees are lower"
+      - "Turn off your VPN"
+    correct: 1
+    explanation: "Always send a small test transaction first to confirm the address is correct. Blockchain transactions are irreversible — if you send to the wrong address, your money is gone."
+  - question: "Where can you view the details of any Ethereum transaction?"
+    options:
+      - "In your email inbox"
+      - "On a block explorer like Etherscan"
+      - "In the Ethereum Foundation's database"
+      - "Only in your wallet app"
+    correct: 1
+    explanation: "Block explorers like Etherscan let anyone view any transaction on the blockchain. Since the blockchain is public, all transactions are visible to everyone."
 ---
 
 ## What you will do in this lesson

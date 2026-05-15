@@ -6,46 +6,46 @@ readTime: "7 min"
 difficulty: "intermediate"
 prerequisites: ["yield"]
 quiz:
- - question: "What problem does liquid staking solve?"
- options:
- - "It makes staking faster"
- - "It lets you earn staking rewards without locking your ETH — you get a tradeable receipt token instead"
- - "It eliminates the need for validators"
- - "It reduces Ethereum gas fees"
- correct: 1
- explanation: "Normally, staking ETH locks it in a validator for months. Liquid staking protocols like Lido give you stETH (a receipt token) that represents your staked ETH. You earn staking rewards while the stETH remains tradeable and usable in DeFi."
- - question: "What is stETH?"
- options:
- - "A new cryptocurrency competing with ETH"
- - "A receipt token from Lido representing staked ETH plus accrued staking rewards"
- - "A governance token for Ethereum"
- - "A stablecoin"
- correct: 1
- explanation: "stETH is a liquid staking derivative. If you stake 10 ETH through Lido, you receive 10 stETH. The stETH balance automatically increases daily as staking rewards accrue (a mechanism called rebasing). You can sell, lend, or use stETH in DeFi at any time."
- - question: "What is restaking (EigenLayer)?"
- options:
- - "Staking the same ETH twice on Ethereum"
- - "Taking ETH that is already staked and opting it in to secure additional protocols, earning extra yield"
- - "Unstaking and re-staking at a different validator"
- - "Converting staked ETH to Bitcoin"
- correct: 1
- explanation: "EigenLayer lets validators take their already-staked ETH and use it as economic security for other services (oracles, bridges, data availability layers). The staker earns additional rewards from these services on top of their base Ethereum staking yield."
- - question: "What is the main risk of restaking?"
- options:
- - "Higher gas fees"
- - "Slashing — if a service you're securing has a bug or acts maliciously, your staked ETH can be partially confiscated"
- - "Your ETH changes to a different token permanently"
- - "Restaking is risk-free"
- correct: 1
- explanation: "Restaking extends your slashing conditions. You're not just subject to Ethereum's slashing rules — you're also exposed to the slashing conditions of every additional service you opt in to. A bug in one of those services could result in a portion of your ETH being slashed."
- - question: "Why do DeFi protocols prefer stETH over regular ETH?"
- options:
- - "stETH is cheaper to transfer"
- - "stETH earns ~3-4% staking yield while sitting in a lending pool or LP position, creating stacked returns"
- - "stETH has better smart contract security"
- - "Regulators prefer it"
- correct: 1
- explanation: "If you deposit ETH into a lending pool, you earn lending fees but miss out on staking rewards. If you deposit stETH, you earn lending fees AND your stETH continues accruing staking yield in the background. This capital efficiency is why stETH dominates DeFi collateral."
+  - question: "What problem does liquid staking solve?"
+    options:
+      - "It makes staking faster"
+      - "It lets you earn staking rewards without locking your ETH — you get a tradeable receipt token instead"
+      - "It eliminates the need for validators"
+      - "It reduces Ethereum gas fees"
+    correct: 1
+    explanation: "Normally, staking ETH locks it in a validator for months. Liquid staking protocols like Lido give you stETH (a receipt token) that represents your staked ETH. You earn staking rewards while the stETH remains tradeable and usable in DeFi."
+  - question: "What is stETH?"
+    options:
+      - "A new cryptocurrency competing with ETH"
+      - "A receipt token from Lido representing staked ETH plus accrued staking rewards"
+      - "A governance token for Ethereum"
+      - "A stablecoin"
+    correct: 1
+    explanation: "stETH is a liquid staking derivative. If you stake 10 ETH through Lido, you receive 10 stETH. The stETH balance automatically increases daily as staking rewards accrue (a mechanism called rebasing). You can sell, lend, or use stETH in DeFi at any time."
+  - question: "What is restaking (EigenLayer)?"
+    options:
+      - "Staking the same ETH twice on Ethereum"
+      - "Taking ETH that is already staked and opting it in to secure additional protocols, earning extra yield"
+      - "Unstaking and re-staking at a different validator"
+      - "Converting staked ETH to Bitcoin"
+    correct: 1
+    explanation: "EigenLayer lets validators take their already-staked ETH and use it as economic security for other services (oracles, bridges, data availability layers). The staker earns additional rewards from these services on top of their base Ethereum staking yield."
+  - question: "What is the main risk of restaking?"
+    options:
+      - "Higher gas fees"
+      - "Slashing — if a service you're securing has a bug or acts maliciously, your staked ETH can be partially confiscated"
+      - "Your ETH changes to a different token permanently"
+      - "Restaking is risk-free"
+    correct: 1
+    explanation: "Restaking extends your slashing conditions. You're not just subject to Ethereum's slashing rules — you're also exposed to the slashing conditions of every additional service you opt in to. A bug in one of those services could result in a portion of your ETH being slashed."
+  - question: "Why do DeFi protocols prefer stETH over regular ETH?"
+    options:
+      - "stETH is cheaper to transfer"
+      - "stETH earns ~3-4% staking yield while sitting in a lending pool or LP position, creating stacked returns"
+      - "stETH has better smart contract security"
+      - "Regulators prefer it"
+    correct: 1
+    explanation: "If you deposit ETH into a lending pool, you earn lending fees but miss out on staking rewards. If you deposit stETH, you earn lending fees AND your stETH continues accruing staking yield in the background. This capital efficiency is why stETH dominates DeFi collateral."
 ---
 
 ## The Locking Problem

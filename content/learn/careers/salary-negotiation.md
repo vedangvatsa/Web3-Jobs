@@ -6,22 +6,22 @@ readTime: "8 min"
 difficulty: "beginner"
 prerequisites: ["first-role"]
 quiz:
- - question: "What is the biggest risk of token-heavy compensation?"
- options:
- - "Tokens are harder to spend than cash."
- - "Token value can drop 80-90% during bear markets, making your compensation worth far less than promised."
- - "You have to pay extra taxes on tokens."
- - "Tokens vest too slowly."
- correct: 1
- explanation: "Token-heavy packages can look lucrative at current prices, but crypto markets are extremely volatile. A $200K token package can become $20K in a bear market. Always consider the downside scenario."
- - question: "What is a 'cliff' in token vesting?"
- options:
- - "A period after which all tokens are released at once."
- - "A waiting period before any tokens begin unlocking."
- - "The maximum number of tokens you can sell per day."
- - "A bonus paid when you leave the company."
- correct: 1
- explanation: "A cliff (typically 6-12 months) is a period where zero tokens unlock. After the cliff, tokens begin unlocking on a regular schedule (usually monthly or quarterly). If you leave before the cliff, you get no tokens."
+  - question: "What is the biggest risk of token-heavy compensation?"
+    options:
+      - "Tokens are harder to spend than cash."
+      - "Token value can drop 80-90% during bear markets, making your compensation worth far less than promised."
+      - "You have to pay extra taxes on tokens."
+      - "Tokens vest too slowly."
+    correct: 1
+    explanation: "Token-heavy packages can look lucrative at current prices, but crypto markets are extremely volatile. A $200K token package can become $20K in a bear market. Always consider the downside scenario."
+  - question: "What is a 'cliff' in token vesting?"
+    options:
+      - "A period after which all tokens are released at once."
+      - "A waiting period before any tokens begin unlocking."
+      - "The maximum number of tokens you can sell per day."
+      - "A bonus paid when you leave the company."
+    correct: 1
+    explanation: "A cliff (typically 6-12 months) is a period where zero tokens unlock. After the cliff, tokens begin unlocking on a regular schedule (usually monthly or quarterly). If you leave before the cliff, you get no tokens."
 ---
 
 ## Understanding Web3 Compensation

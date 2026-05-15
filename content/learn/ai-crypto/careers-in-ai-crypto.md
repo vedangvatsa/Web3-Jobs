@@ -6,22 +6,22 @@ readTime: "8 min"
 difficulty: "beginner"
 prerequisites: ["introduction"]
 quiz:
- - question: "Which skill combination is most in-demand at the AI x Crypto intersection?"
- options:
- - "Marketing and community management."
- - "ML engineering combined with smart contract development."
- - "Graphic design and NFT art creation."
- - "Legal compliance and regulations."
- correct: 1
- explanation: "The intersection demands engineers who understand both machine learning pipelines (PyTorch, model serving) and blockchain infrastructure (Solidity, on-chain verification). This rare combination commands premium salaries."
- - question: "What type of company is most likely to hire for AI x Crypto roles?"
- options:
- - "Traditional banks."
- - "Decentralized compute networks, AI agent protocols, and DeFi protocols adding AI features."
- - "Social media companies."
- - "Hardware manufacturers."
- correct: 1
- explanation: "Projects like Bittensor, Render, io.net, and DeFi protocols integrating AI-powered risk assessment are the primary employers at this intersection."
+  - question: "Which skill combination is most in-demand at the AI x Crypto intersection?"
+    options:
+      - "Marketing and community management."
+      - "ML engineering combined with smart contract development."
+      - "Graphic design and NFT art creation."
+      - "Legal compliance and regulations."
+    correct: 1
+    explanation: "The intersection demands engineers who understand both machine learning pipelines (PyTorch, model serving) and blockchain infrastructure (Solidity, on-chain verification). This rare combination commands premium salaries."
+  - question: "What type of company is most likely to hire for AI x Crypto roles?"
+    options:
+      - "Traditional banks."
+      - "Decentralized compute networks, AI agent protocols, and DeFi protocols adding AI features."
+      - "Social media companies."
+      - "Hardware manufacturers."
+    correct: 1
+    explanation: "Projects like Bittensor, Render, io.net, and DeFi protocols integrating AI-powered risk assessment are the primary employers at this intersection."
 ---
 
 ## The Talent Gap

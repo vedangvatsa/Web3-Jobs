@@ -6,22 +6,22 @@ readTime: "9 min"
 difficulty: "advanced"
 prerequisites: ["exploits"]
 quiz:
- - question: "What is a price oracle in DeFi?"
- options:
- - "A prediction market for token prices."
- - "A system that feeds external price data into smart contracts."
- - "A tool that predicts future prices using AI."
- - "A decentralized exchange's order book."
- correct: 1
- explanation: "An oracle is a bridge between off-chain data and on-chain smart contracts. Price oracles specifically feed asset prices that DeFi protocols use for lending, liquidations, and trading."
- - question: "Why are spot price oracles dangerous for DeFi?"
- options:
- - "They are too slow."
- - "An attacker can manipulate the spot price in a single transaction using flash loans, causing the oracle to report a fake price."
- - "They cost too much gas."
- - "They only work on Ethereum."
- correct: 1
- explanation: "Using a DEX's current spot price as an oracle is dangerous because flash loans can artificially move the price in a single block. Time-weighted average prices (TWAPs) resist this by averaging over multiple blocks."
+  - question: "What is a price oracle in DeFi?"
+    options:
+      - "A prediction market for token prices."
+      - "A system that feeds external price data into smart contracts."
+      - "A tool that predicts future prices using AI."
+      - "A decentralized exchange's order book."
+    correct: 1
+    explanation: "An oracle is a bridge between off-chain data and on-chain smart contracts. Price oracles specifically feed asset prices that DeFi protocols use for lending, liquidations, and trading."
+  - question: "Why are spot price oracles dangerous for DeFi?"
+    options:
+      - "They are too slow."
+      - "An attacker can manipulate the spot price in a single transaction using flash loans, causing the oracle to report a fake price."
+      - "They cost too much gas."
+      - "They only work on Ethereum."
+    correct: 1
+    explanation: "Using a DEX's current spot price as an oracle is dangerous because flash loans can artificially move the price in a single block. Time-weighted average prices (TWAPs) resist this by averaging over multiple blocks."
 ---
 
 ## Why Oracles Matter

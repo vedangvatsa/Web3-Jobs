@@ -6,22 +6,22 @@ readTime: "8 min"
 difficulty: "beginner"
 prerequisites: []
 quiz:
- - question: "Why do AI agents benefit from blockchains?"
- options:
- - "Blockchains process AI models faster."
- - "Blockchains allow AI agents to own digital money and transact without humans."
- - "Blockchains improve the intelligence of the AI."
- - "Blockchains protect AI from getting viruses."
- correct: 1
- explanation: "Blockchains give AI agents the ability to hold a wallet and execute financial transactions autonomously without relying on human identity systems or traditional banks."
- - question: "What is a major problem with centralized AI that decentralized networks aim to solve?"
- options:
- - "Centralized AI models are too small."
- - "Centralized AI restricts access, concentrates power, and lacks transparency."
- - "Centralized AI cannot speak different languages."
- - "Centralized AI doesn't work on mobile phones."
- correct: 1
- explanation: "Centralized AI models act as black boxes with closed data and concentrated power. Decentralized networks aim to open up compute, data, and model access."
+  - question: "Why do AI agents benefit from blockchains?"
+    options:
+      - "Blockchains process AI models faster."
+      - "Blockchains allow AI agents to own digital money and transact without humans."
+      - "Blockchains improve the intelligence of the AI."
+      - "Blockchains protect AI from getting viruses."
+    correct: 1
+    explanation: "Blockchains give AI agents the ability to hold a wallet and execute financial transactions autonomously without relying on human identity systems or traditional banks."
+  - question: "What is a major problem with centralized AI that decentralized networks aim to solve?"
+    options:
+      - "Centralized AI models are too small."
+      - "Centralized AI restricts access, concentrates power, and lacks transparency."
+      - "Centralized AI cannot speak different languages."
+      - "Centralized AI doesn't work on mobile phones."
+    correct: 1
+    explanation: "Centralized AI models act as black boxes with closed data and concentrated power. Decentralized networks aim to open up compute, data, and model access."
 ---
 
 ## The Convergence of Two Revolutions
