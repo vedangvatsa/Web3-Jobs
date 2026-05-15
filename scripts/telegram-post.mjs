@@ -21,12 +21,13 @@ const THREAD_ID = process.env.TELEGRAM_THREAD_ID;
 const JOBS_PER_POST = 10;
 const CTA_URL = 'https://hashtagweb3.com?utm_source=telegram&utm_medium=social&utm_campaign=daily_jobs';
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-posted.json');
+const POST_COOLDOWN_HOURS = 8;
+const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-posted-last.json');
 
 if (!BOT_TOKEN || !CHANNEL_ID) {
   console.error('Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHANNEL_ID');
   process.exit(1);
 }
-
 
 
 
@@ -269,6 +270,16 @@ async function sendToTelegram(message) {
 
 // ── Post once ──
 async function postOnce() {
+  // ── 8-hour cooldown ──
+  try {
+    const last = JSON.parse(fs.readFileSync(LAST_POST_FILE, 'utf8'));
+    const hoursSince = (Date.now() - new Date(last.postedAt).getTime()) / (1000 * 60 * 60);
+    if (hoursSince < POST_COOLDOWN_HOURS && !process.argv.includes('--force')) {
+      console.log(`⏳ Last posted ${hoursSince.toFixed(1)}h ago. Cooldown is ${POST_COOLDOWN_HOURS}h. Skipping.`);
+      return;
+    }
+  } catch {}
+
   const jobs = pickJobs(JOBS_PER_POST);
   const message = formatMessage(jobs);
   
@@ -288,6 +299,9 @@ async function postOnce() {
   const result = await sendToTelegram(message);
   const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Singapore' });
   console.log(`✅ Posted ${jobs.length} jobs at ${now} | Message ID: ${result.result.message_id}`);
+
+  // Save cooldown timestamp
+  fs.writeFileSync(LAST_POST_FILE, JSON.stringify({ postedAt: new Date().toISOString() }));
 }
 
 // ── Schedule mode (3x/day) ──
