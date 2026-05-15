@@ -21,8 +21,10 @@ const CHANNEL_ID = process.env.TELEGRAM_NEWS_CHANNEL_ID;
 const THREAD_ID = process.env.TELEGRAM_THREAD_ID;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const STORIES_PER_POST = 5;
+const POST_COOLDOWN_HOURS = 8;
 const CTA_URL = 'https://hashtagweb3.com/news?utm_source=telegram&utm_medium=social&utm_campaign=news_digest';
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-news-posted.json');
+const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-news-last.json');
 
 if (!BOT_TOKEN || !CHANNEL_ID) {
   console.error('Missing TELEGRAM_BOT_TOKEN or TELEGRAM_NEWS_CHANNEL_ID');
@@ -246,6 +248,16 @@ async function sendToTelegram(message) {
 
 // ── Main ──
 async function postOnce() {
+  // ── 8-hour cooldown ──
+  try {
+    const last = JSON.parse(fs.readFileSync(LAST_POST_FILE, 'utf8'));
+    const hoursSince = (Date.now() - new Date(last.postedAt).getTime()) / (1000 * 60 * 60);
+    if (hoursSince < POST_COOLDOWN_HOURS && !process.argv.includes('--force')) {
+      console.log(`⏳ Last posted ${hoursSince.toFixed(1)}h ago. Cooldown is ${POST_COOLDOWN_HOURS}h. Skipping.`);
+      return;
+    }
+  } catch {}
+
   console.log('📰 Fetching news feeds...');
   const allNews = await fetchAllNews();
   console.log(`  Found ${allNews.length} unique stories`);
@@ -296,6 +308,9 @@ async function postOnce() {
   const result = await sendToTelegram(message);
   const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Singapore' });
   console.log(`✅ Posted ${stories.length} stories at ${now} | Message ID: ${result.result.message_id}`);
+
+  // Save cooldown timestamp
+  fs.writeFileSync(LAST_POST_FILE, JSON.stringify({ postedAt: new Date().toISOString() }));
 
   // Mark as posted (store both link and headline for cross-source dedup)
   for (const s of stories) {
