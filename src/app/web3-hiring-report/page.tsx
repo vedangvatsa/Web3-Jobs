@@ -277,19 +277,30 @@ export default function Web3HiringReport() {
         A major caveat: only 12% of listings disclose salary. This creates a strong selection bias. Companies publishing salary bands are disproportionately US-based (subject to transparency laws) and disproportionately large (Coinbase, Stripe, Robinhood). Smaller crypto-native companies and those based in Singapore, Dubai, or the Cayman Islands rarely disclose compensation. Many also offer significant token-based compensation that is not captured in base salary figures. A $150k base at a pre-launch protocol could include token grants worth $500k+ at launch, making direct salary comparisons incomplete.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
-       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Median salary by department</p>
-       <HBar data={[
-        { label: 'Quant Research', value: 225, color: '#18181B' },
-        { label: 'Engineering', value: 185, color: '#18181B' },
-        { label: 'Marketing', value: 168, color: '#18181B' },
-        { label: 'Finance', value: 166, color: '#18181B' },
-        { label: 'Design', value: 166, color: '#18181B' },
-        { label: 'Sales', value: 160, color: '#18181B' },
-        { label: 'Trading', value: 150, color: '#18181B' },
-        { label: 'Operations', value: 119, color: '#18181B' },
-        { label: 'Human Resources', value: 100, color: '#18181B' },
-       ]} unit="k" />
+      <div className="flex flex-col gap-6">
+       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
+        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Median salary by department</p>
+        <HBar data={[
+         { label: 'Quant Research', value: 225, color: '#18181B' },
+         { label: 'Engineering', value: 185, color: '#18181B' },
+         { label: 'Marketing', value: 168, color: '#18181B' },
+         { label: 'Finance', value: 166, color: '#18181B' },
+         { label: 'Design', value: 166, color: '#18181B' },
+         { label: 'Sales', value: 160, color: '#18181B' },
+         { label: 'Trading', value: 150, color: '#18181B' },
+         { label: 'Operations', value: 119, color: '#18181B' },
+         { label: 'Human Resources', value: 100, color: '#18181B' },
+        ]} unit="k" />
+       </div>
+       
+       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
+        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Distribution of Disclosed Salaries</p>
+        <HBar data={[
+         { label: '$100k - $150k', value: 55.7, color: '#6366f1' },
+         { label: '< $100k', value: 23.4, color: '#A1A1AA' },
+         { label: '$150k - $200k', value: 20.9, color: '#18181B' },
+        ]} unit="%" />
+       </div>
       </div>
      </div>
      <Callout>Quant researchers earn 2.25x what HR professionals make in Web3. Engineering sits at $185k median, 11% above the industry-wide median.</Callout>
@@ -470,6 +481,31 @@ export default function Web3HiringReport() {
         { label: 'Rust', value: 2.6, color: '#A1A1AA' },
         { label: 'Solidity / Smart Contracts', value: 0.3, color: '#A1A1AA' },
        ]} unit="%" />
+      </div>
+     </div>
+    </section>
+
+    {/* SECTION 9: EQUITY VS TOKENS */}
+    <section className="mb-28">
+     <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
+      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
+       <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-5 text-center">Compensation Structure</p>
+       <DonutChart segments={[
+        { label: 'Traditional Equity/Options', value: 95.7, color: '#18181B' },
+        { label: 'Crypto Tokens', value: 4.3, color: '#A1A1AA' },
+       ]} size={180} />
+      </div>
+      <div>
+       <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">The death of the "paid in tokens" era</h2>
+       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
+        During the 2021 bull run, many Web3 jobs compensated employees heavily in illiquid governance tokens. Our full-text analysis reveals that this era is largely over. When companies explicitly discuss long-term incentives in their job descriptions, <strong>95.7% offer traditional corporate equity or stock options</strong>. Only 4.3% explicitly state they will compensate employees in crypto tokens.
+       </p>
+       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
+        This massive shift toward standard ISOs (Incentive Stock Options) reflects the maturation of Web3 companies into standard corporate entities. With major firms like Stripe, Robinhood, and Coinbase aggressively expanding their Web3 footprints, they use the same compensation structures as FAANG companies. Even smaller, crypto-native startups are incorporating as standard C-Corps and issuing equity to satisfy traditional venture capital backers.
+       </p>
+       <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
+        While token allocations are occasionally offered as a secondary bonus at protocol-layer companies (e.g., L2 chains or DeFi protocols), the data proves that standard USD-denominated salaries and traditional equity are now the baseline expectation for Web3 professionals.
+       </p>
       </div>
      </div>
     </section>
