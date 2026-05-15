@@ -1,0 +1,4 @@
+vatsvedang@gmail.com==>REMOVED_EMAIL
+/Users/vedang/web3jobs/Web3-Jobs/==>LOCAL_PATH/
+/Users/vedang/PDFtoWebsite/==>LOCAL_PATH/
+/Users/vedang/Desktop/==>LOCAL_PATH/

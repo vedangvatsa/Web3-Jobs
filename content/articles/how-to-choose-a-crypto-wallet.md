@@ -7,7 +7,7 @@ description: "From hot wallets to cold storage, this guide breaks down the diffe
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 Your crypto wallet serves as the essential gateway to the [Web3](/what-is-web3) ecosystem. It acts as your identity, bank account, and keychain, enabling you to send, receive, and store digital assets while interacting with thousands of decentralized applications (dApps). Selecting the right wallet is important, as it directly affects your fund security and overall user experience.

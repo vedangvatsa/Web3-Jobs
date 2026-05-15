@@ -7,7 +7,7 @@ description: "A deep dive into sharding, a powerful technique for improving bloc
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 The main obstacle to mainstream [blockchain](/what-is-a-blockchain) adoption is the **scalability trilemma**. This issue asserts that achieving decentralization, security, and scalability in a blockchain simultaneously poses significant challenges. Developers are exploring various scaling solutions, with **sharding** emerging as a prominent Layer 1 technique to tackle these issues.

@@ -7,7 +7,7 @@ description: "A look at how Web3's decentralized architecture, self-custodial wa
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 The internet of today, often referred to as Web2, relies on a centralized structure that creates significant security vulnerabilities. Large corporations manage vast amounts of data in isolated databases, making them attractive targets for cybercriminals. online identities hinge on email and password combinations, which are frequently compromised. Web3 represents a fundamental shift in this architecture, aiming to create a more secure and resilient internet.

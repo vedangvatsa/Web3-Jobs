@@ -121,34 +121,43 @@ async function fetchLumaByCity(city) {
   return events;
 }
 
-// Luma Crypto Hub
-async function fetchLumaHub() {
+// Luma Community Hosts
+const LUMA_COMMUNITIES = [
+  'crypto', 'superteam', 'encode-club', 'ethglobal', 'chainlink',
+  'token2049', 'ethprague', 'ethwarsaw', 'sui-network', 'web3foundation',
+  'gnosis', 'lido', 'solana-nyc', 'wearelightdao', 'gemini',
+];
+
+async function fetchLumaCommunity(slug) {
   try {
-    const res = await fetch('https://lu.ma/crypto', { headers: { 'User-Agent': UA, 'Accept': 'text/html' } });
+    const res = await fetch(`https://lu.ma/${slug}`, { headers: { 'User-Agent': UA, 'Accept': 'text/html' }, signal: AbortSignal.timeout(10000) });
     if (!res.ok) return [];
     const html = await res.text();
     const match = html.match(/id="__NEXT_DATA__"[^>]*>(.*?)<\/script>/s);
     if (!match) return [];
     const data = JSON.parse(match[1]);
-    const items = data.props?.pageProps?.initialData?.data?.timeline_calendars || [];
+    const initialData = data.props?.pageProps?.initialData?.data;
+    const items = initialData?.featured_items || initialData?.timeline_calendars || [];
 
     return items.map(item => {
-      const cal = item.calendar;
-      if (!cal) return null;
+      const cal = item.calendar || item;
+      const event = item.event || item;
+      if (!cal && !event) return null;
+      const geo = event?.geo_address_info || {};
       return {
-        id: `luma-${cal.api_id}`,
-        name: cal.name,
-        description: cal.description_short || '',
-        startDate: item.start_at,
-        endDate: item.end_at,
-        city: cal.geo_city || '',
-        country: cal.geo_country || '',
-        location: [cal.geo_city, cal.geo_country].filter(Boolean).join(', ') || 'Virtual / TBA',
-        url: `https://lu.ma/${cal.slug}`,
-        coverImage: cal.cover_image_url || cal.social_image_url || null,
+        id: `luma-${event?.api_id || cal?.api_id}`,
+        name: event?.name || cal?.name || '',
+        description: (event?.description_short || cal?.description_short || '').slice(0, 200),
+        startDate: event?.start_at || item.start_at || '',
+        endDate: event?.end_at || item.end_at || '',
+        city: geo.city || cal?.geo_city || '',
+        country: geo.country || cal?.geo_country || '',
+        location: [geo.city || cal?.geo_city, geo.country || cal?.geo_country].filter(Boolean).join(', ') || 'Virtual / TBA',
+        url: `https://lu.ma/${event?.url || cal?.slug || event?.api_id}`,
+        coverImage: event?.cover_url || cal?.cover_image_url || null,
         source: 'luma',
       };
-    }).filter(Boolean);
+    }).filter(e => e && e.name && e.startDate);
   } catch { return []; }
 }
 
@@ -354,22 +363,21 @@ async function fetchETHGlobal() {
       const text = $(el).text().replace(/\s+/g, ' ').trim();
       if (!text || text.length < 10) return;
 
-      // Parse: "June1214Fri—SunETHGlobal New York 2026New York City, United StatesIRL Hackathon..."
-      // Extract name
-      const nameMatch = text.match(/(ETHGlobal\s+\w+\s+\d{4}|Pragma\s+\w+\s+\d{4}|ETHOnline\s+\d{4})/i);
-      const name = nameMatch ? nameMatch[1] : text.substring(0, 60);
+      // Extract name (handles ETHGlobal X 2026, Pragma X 2026, ETHOnline 2026, etc.)
+      const nameMatch = text.match(/(ETHGlobal\s+[\w\s]+\d{4}|Pragma\s+[\w\s]+\d{4}|ETHOnline\s+\d{4}|Superhack\s*\d{4}|HackFS\s*\d{4}|Agentic\s+\w+)/i);
+      const name = nameMatch ? nameMatch[1].trim() : text.substring(0, 60);
 
-      // Extract location
-      const locMatch = text.match(/([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*,\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)/);
-      const location = locMatch ? locMatch[1] : 'Online';
+      // Extract location (City, Country pattern)
+      const locMatch = text.match(/([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*),\s*([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)(?:Hackathon|Conference|Summit|Co-working|Meetup|Online)/);
+      const location = locMatch ? `${locMatch[1]}, ${locMatch[2]}` : (text.includes('Online') ? 'Online' : 'TBA');
       const locParts = location.split(',').map(s => s.trim());
 
-      // Extract month + date
-      const dateMatch = text.match(/(January|February|March|April|May|June|July|August|September|October|November|December)\s*(\d{1,2})/i);
+      // Extract date: handles "Jun 12th", "July 4th", "May 30th – Jun 1st, 2025"
+      const dateMatch = text.match(/(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+(\d{1,2})(?:st|nd|rd|th)/i);
+      const yearMatch = text.match(/,\s*(\d{4})/);
       let startDate = '';
-      if (dateMatch) {
-        const year = text.match(/\d{4}/)?.[0] || new Date().getFullYear();
-        startDate = new Date(`${dateMatch[1]} ${dateMatch[2]}, ${year}`).toISOString();
+      if (dateMatch && yearMatch) {
+        startDate = new Date(`${dateMatch[1]} ${dateMatch[2]}, ${yearMatch[1]}`).toISOString();
       }
 
       events.push({
@@ -450,10 +458,14 @@ async function fetchWeb3Events() {
     await new Promise(r => setTimeout(r, 200));
   }
 
-  // ── 2. Luma Crypto Hub ──
-  console.log(`[Luma] Fetching crypto hub...`);
-  const hubEvents = await fetchLumaHub();
-  hubEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+  // ── 2. Luma Community Hosts ──
+  console.log(`\n[Luma] Scraping ${LUMA_COMMUNITIES.length} community hosts...`);
+  for (let i = 0; i < LUMA_COMMUNITIES.length; i += 5) {
+    const batch = LUMA_COMMUNITIES.slice(i, i + 5);
+    const results = await Promise.all(batch.map(fetchLumaCommunity));
+    results.flat().forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+    await new Promise(r => setTimeout(r, 200));
+  }
   console.log(`[Luma] Total: ${allEventsMap.size}`);
 
   // ── 3. Eventbrite ──

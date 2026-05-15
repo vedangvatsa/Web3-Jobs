@@ -1,14 +1,28 @@
 import { EventsBoard } from '@/components/events-board';
 import { Header } from '@/components/header';
 import { getEvents } from '@/lib/events';
+import type { Metadata } from 'next';
 import type { WebPage, Event } from 'schema-dts';
 
-export const metadata = {
+export const metadata: Metadata = {
   title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
   description: 'Discover the top Web3 events, crypto conferences, blockchain summits, and virtual meetups. Stay updated with the latest in DeFi, DAOs, and crypto networking.',
+  openGraph: {
+    title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
+    description: 'Browse 3,000+ upcoming Web3 events, crypto conferences, blockchain summits, and builder meetups worldwide.',
+    url: 'https://hashtagweb3.com/events',
+    images: [{ url: '/api/og?type=default&title=Web3%20Events%20Calendar', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
+    description: 'Browse 3,000+ upcoming Web3 events, crypto conferences, blockchain summits, and builder meetups worldwide.',
+    images: ['/api/og?type=default&title=Web3%20Events%20Calendar'],
+  },
+  alternates: {
+    canonical: '/events',
+  },
 };
-
-export const revalidate = 3600; // Revalidate every hour
 
 export default async function EventsPage() {
   const events = await getEvents();

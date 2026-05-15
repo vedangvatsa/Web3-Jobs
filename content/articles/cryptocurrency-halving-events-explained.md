@@ -7,7 +7,7 @@ description: "A cryptocurrency halving is a programmed event that reduces the ra
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 A **cryptocurrency halving** is a programmed event coded into the protocol of a cryptocurrency that reduces the reward for mining new blocks by 50%. This mechanism directly affects the rate at which new coins are generated and circulated, serving to manage the cryptocurrency's supply and build a predictable, deflationary economic model.

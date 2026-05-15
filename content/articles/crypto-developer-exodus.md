@@ -7,7 +7,7 @@ description: "An analysis of the 'great migration' in Web3 development. We explo
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 The [Web3](/what-is-web3) developer ecosystem is dynamic and competitive, with talent continually shifting between various blockchain platforms. While the overall number of Web3 developers has increased, a closer investigation uncovers a significant trend of migration. Developers are transitioning away from specific [blockchain](/what-is-a-blockchain) ecosystems in favor of others. This movement reveals insights into the sustainability and attractiveness of different platforms.
