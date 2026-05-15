@@ -209,7 +209,7 @@ function formatMessage(stories) {
     return `<a href="${trackedLink}"><b>${headline}</b></a>. ${summary}`;
   });
 
-  return lines.join('\n\n') + '\n\n_\nAI Discussion Group: t.me/hashtag_ai';
+  return lines.join('\n\n');
 }
 
 function escapeHtml(text) {
@@ -230,6 +230,11 @@ async function sendToTelegram(message) {
       text: message,
       parse_mode: 'HTML',
       disable_web_page_preview: true,
+      reply_markup: {
+        inline_keyboard: [
+          [{ text: 'Turn your CV into a Website', url: 'https://cvin.bio/?utm_source=social&utm_medium=telegram' }],
+        ],
+      },
     }),
   });
 

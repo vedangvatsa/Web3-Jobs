@@ -257,7 +257,7 @@ async function sendToTelegram(message) {
       ...(THREAD_ID ? { message_thread_id: Number(THREAD_ID) } : {}),
       reply_markup: {
         inline_keyboard: [
-          [{ text: 'Web3 Jobs', url: CTA_URL }],
+          [{ text: 'Turn your CV into a Website', url: 'https://cvin.bio/?utm_source=social&utm_medium=telegram' }],
         ],
       },
     }),
