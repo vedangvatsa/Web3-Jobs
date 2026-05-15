@@ -58,24 +58,22 @@ export default async function EventsPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(eventsSchema) }}
       />
-      <div className="flex flex-col min-h-screen">
+      <div className="h-screen overflow-y-auto bg-[#fafafa] dark:bg-black selection:bg-zinc-200 dark:selection:bg-zinc-800 transition-colors duration-200 flex flex-col">
         <Header />
-        <main className="flex-1 bg-muted/20">
-          <div className="container mx-auto py-12 px-4">
-            <section className="text-center mb-12">
-              <div className="max-w-3xl mx-auto space-y-4">
-                <h1 className="text-4xl md:text-5xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70 pb-2">
-                  {headlines[0]}
-                </h1>
-                <p className="text-xl text-muted-foreground">
-                  The ultimate calendar for Web3 conferences, blockchain summits, and crypto meetups worldwide.
-                </p>
-              </div>
-            </section>
-            
-            <div className="max-w-7xl mx-auto">
-              <EventsBoard initialEvents={events} />
-            </div>
+        <main id="main-content" className="w-full max-w-5xl mx-auto px-6 py-16 md:py-20 pb-20 flex-1">
+          {/* HERO */}
+          <div className="mb-20">
+            <p className="text-[11px] font-semibold text-zinc-400 uppercase tracking-[0.2em] mb-6">Hashtag Web3 Events / 2026</p>
+            <h1 className="text-4xl sm:text-[3.4rem] font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-8 leading-[1.12]">
+              Web3 Events<br />& Conferences
+            </h1>
+            <p className="text-[17px] text-zinc-500 dark:text-zinc-400 leading-[1.8] max-w-3xl">
+              A directory of active Web3 conferences, blockchain summits, and builder meetups. Browse global events or filter by location to find networking opportunities near you.
+            </p>
+          </div>
+          
+          <div className="w-full">
+            <EventsBoard initialEvents={events} />
           </div>
         </main>
       </div>
