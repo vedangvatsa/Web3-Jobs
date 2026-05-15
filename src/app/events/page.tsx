@@ -78,12 +78,10 @@ export default async function EventsPage() {
           {/* HERO */}
           <div className="mb-20">
             <p className="text-[11px] font-semibold text-zinc-400 uppercase tracking-[0.2em] mb-6">Hashtag Web3 Events / 2026</p>
-            <h1 className="text-4xl sm:text-[3.4rem] font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-8 leading-[1.12]">
-              Web3 Events<br />& Conferences
+            <h1 className="text-4xl sm:text-[3.4rem] font-bold tracking-tight text-zinc-900 dark:text-zinc-50 leading-[1.12]">
+              Web3 Events
             </h1>
-            <p className="text-[17px] text-zinc-500 dark:text-zinc-400 leading-[1.8] max-w-3xl">
-              A directory of active Web3 conferences, blockchain summits, and builder meetups. Browse global events or filter by location to find networking opportunities near you.
-            </p>
+          </div>
           </div>
           
           <div className="w-full">
