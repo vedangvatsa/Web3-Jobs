@@ -216,61 +216,220 @@ async function fetchEventbritePage(keyword, region, page = 1) {
 }
 
 // ═══════════════════════════════════════════════════════════════════════
-// SOURCE 3: Meetup.com (JSON-LD scraping)
+// SOURCE 3: Meetup.com (Apollo State extraction across cities)
 // ═══════════════════════════════════════════════════════════════════════
-async function fetchMeetupPage(keyword) {
-  const url = `https://www.meetup.com/find/?keywords=${keyword}&source=EVENTS`;
+const MEETUP_CITIES = [
+  'New York', 'San Francisco', 'London', 'Singapore', 'Berlin',
+  'Miami', 'Tokyo', 'Dubai', 'Toronto', 'Hong Kong',
+  'Austin', 'Paris', 'Chicago', 'Los Angeles', 'Seoul',
+];
+
+async function fetchMeetupPage(keyword, location) {
+  const url = `https://www.meetup.com/find/?keywords=${keyword}&source=EVENTS&location=${encodeURIComponent(location)}`;
   try {
-    const res = await fetch(url, { headers: { 'User-Agent': UA } });
+    const res = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(10000) });
     if (!res.ok) return [];
     const html = await res.text();
 
-    const jsonLdBlocks = html.match(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/gi) || [];
+    const nextMatch = html.match(/id="__NEXT_DATA__"[^>]*>(.*?)<\/script>/s);
+    if (!nextMatch) return [];
+
+    const data = JSON.parse(nextMatch[1]);
+    const apollo = data.props?.pageProps?.__APOLLO_STATE__;
+    if (!apollo) return [];
+
+    const eventKeys = Object.keys(apollo).filter(k => k.startsWith('Event:'));
+    return eventKeys.map(k => {
+      const e = apollo[k];
+      if (!e) return null;
+
+      const venue = e.venue ? apollo[`Venue:${e.venue.id || e.venue.__ref?.split(':')[1]}`] || e.venue : null;
+      const city = venue?.city || '';
+      const country = venue?.country || '';
+
+      return {
+        id: `mu-${e.id}`,
+        name: e.title,
+        description: (e.description || '').slice(0, 200),
+        startDate: e.dateTime,
+        endDate: e.endTime || e.dateTime,
+        city,
+        country,
+        location: city && country ? `${city}, ${country}` : city || country || 'Online',
+        url: e.eventUrl,
+        coverImage: e.featuredEventPhoto?.highResUrl || e.featuredEventPhoto?.baseUrl || null,
+        source: 'meetup',
+      };
+    }).filter(e => e && e.startDate);
+  } catch { return []; }
+}
+
+// ═══════════════════════════════════════════════════════════════════════
+// SOURCE 4: ConferenceIndex.org (HTML parsing with cheerio)
+// ═══════════════════════════════════════════════════════════════════════
+async function fetchConferenceIndex(page = 1) {
+  const url = page === 1
+    ? 'https://conferenceindex.org/conferences/blockchain'
+    : `https://conferenceindex.org/conferences/blockchain?page=${page}`;
+  try {
+    const { load } = await import('cheerio');
+    const res = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(15000) });
+    if (!res.ok) return [];
+    const html = await res.text();
+    const $ = load(html);
+
     const events = [];
+    $('a[href*="/event/"]').each((_, el) => {
+      const href = $(el).attr('href') || '';
+      const title = $(el).text().trim();
+      if (!title || title.length < 5) return;
 
-    for (const block of jsonLdBlocks) {
-      try {
-        const json = block.replace(/<script[^>]*>/, '').replace(/<\/script>/, '').trim();
-        const parsed = JSON.parse(json);
+      // Context contains "Mon DD Title - City, Country"
+      const $parent = $(el).closest('tr, li, div');
+      const ctx = $parent.text().replace(/\s+/g, ' ').trim();
 
-        const items = parsed.itemListElement
-          ? parsed.itemListElement.map(li => li.item).filter(Boolean)
-          : (Array.isArray(parsed) ? parsed : [parsed]);
+      // Extract date (e.g. "May 18", "Jun 12")
+      const dateMatch = ctx.match(/(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})/i);
+      let startDate = '';
+      if (dateMatch) {
+        const year = new Date().getFullYear();
+        const d = new Date(`${dateMatch[1]} ${dateMatch[2]}, ${year}`);
+        if (d < new Date()) d.setFullYear(year + 1);
+        startDate = d.toISOString();
+      }
 
-        for (const item of items) {
-          if (item['@type'] !== 'Event') continue;
+      // Extract location (after " - ")
+      const locMatch = ctx.match(/\s-\s(.+?)$/);
+      const location = locMatch ? locMatch[1].trim() : 'TBA';
+      const locParts = location.split(',').map(s => s.trim());
+      const city = locParts[0] || '';
+      const country = locParts[1] || '';
 
-          const loc = item.location;
-          let locationStr = 'Online';
-          let city = '';
-          let country = '';
-          if (loc) {
-            if (loc.address) {
-              city = loc.address.addressLocality || '';
-              country = loc.address.addressCountry || '';
-              locationStr = [city, country].filter(Boolean).join(', ') || loc.name || 'TBA';
-            } else if (loc.name) {
-              locationStr = loc.name;
-            }
-          }
+      const fullUrl = href.startsWith('http') ? href : `https://conferenceindex.org${href}`;
 
-          events.push({
-            id: `mu-${item.url || item.name?.replace(/\s+/g, '-').slice(0, 80)}`,
-            name: item.name,
-            description: (item.description || '').slice(0, 200),
-            startDate: item.startDate,
-            endDate: item.endDate || item.startDate,
-            city,
-            country,
-            location: locationStr,
-            url: item.url,
-            coverImage: item.image || null,
-            source: 'meetup',
-          });
-        }
-      } catch { /* skip */ }
+      events.push({
+        id: `ci-${href.replace(/[^a-z0-9]/gi, '-').slice(0, 100)}`,
+        name: title,
+        description: '',
+        startDate,
+        endDate: startDate,
+        city,
+        country,
+        location,
+        url: fullUrl,
+        coverImage: null,
+        source: 'conferenceindex',
+      });
+    });
+
+    // Deduplicate within page
+    const seen = new Set();
+    return events.filter(e => {
+      if (seen.has(e.url)) return false;
+      seen.add(e.url);
+      return e.startDate;
+    });
+  } catch { return []; }
+}
+
+// ═══════════════════════════════════════════════════════════════════════
+// SOURCE 5: ETHGlobal (HTML parsing)
+// ═══════════════════════════════════════════════════════════════════════
+async function fetchETHGlobal() {
+  try {
+    const { load } = await import('cheerio');
+    const res = await fetch('https://ethglobal.com/events', { headers: { 'User-Agent': UA } });
+    if (!res.ok) return [];
+    const html = await res.text();
+    const $ = load(html);
+
+    const events = [];
+    const seen = new Set();
+
+    $('a[href^="/events/"]').each((_, el) => {
+      const href = $(el).attr('href');
+      if (!href || seen.has(href) || href === '/events/') return;
+      seen.add(href);
+
+      const text = $(el).text().replace(/\s+/g, ' ').trim();
+      if (!text || text.length < 10) return;
+
+      // Parse: "June1214Fri—SunETHGlobal New York 2026New York City, United StatesIRL Hackathon..."
+      // Extract name
+      const nameMatch = text.match(/(ETHGlobal\s+\w+\s+\d{4}|Pragma\s+\w+\s+\d{4}|ETHOnline\s+\d{4})/i);
+      const name = nameMatch ? nameMatch[1] : text.substring(0, 60);
+
+      // Extract location
+      const locMatch = text.match(/([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*,\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)/);
+      const location = locMatch ? locMatch[1] : 'Online';
+      const locParts = location.split(',').map(s => s.trim());
+
+      // Extract month + date
+      const dateMatch = text.match(/(January|February|March|April|May|June|July|August|September|October|November|December)\s*(\d{1,2})/i);
+      let startDate = '';
+      if (dateMatch) {
+        const year = text.match(/\d{4}/)?.[0] || new Date().getFullYear();
+        startDate = new Date(`${dateMatch[1]} ${dateMatch[2]}, ${year}`).toISOString();
+      }
+
+      events.push({
+        id: `ethg-${href.replace(/\//g, '')}`,
+        name,
+        description: '',
+        startDate,
+        endDate: startDate,
+        city: locParts[0] || '',
+        country: locParts[1] || '',
+        location,
+        url: `https://ethglobal.com${href}`,
+        coverImage: null,
+        source: 'ethglobal',
+      });
+    });
+
+    return events.filter(e => e.startDate);
+  } catch { return []; }
+}
+
+// ═══════════════════════════════════════════════════════════════════════
+// SOURCE 6: CoinMarketCap Events (__NEXT_DATA__)
+// ═══════════════════════════════════════════════════════════════════════
+async function fetchCoinMarketCap() {
+  try {
+    const res = await fetch('https://coinmarketcap.com/events/', { headers: { 'User-Agent': UA } });
+    if (!res.ok) return [];
+    const html = await res.text();
+    const match = html.match(/id="__NEXT_DATA__"[^>]*>(.*?)<\/script>/s);
+    if (!match) return [];
+
+    const data = JSON.parse(match[1]);
+    const table = data.props?.pageProps?.tableData;
+    if (!table) return [];
+
+    const events = [];
+    for (const key of Object.keys(table)) {
+      const group = table[key];
+      if (!group?.eventsList) continue;
+      for (const item of group.eventsList) {
+        const coinName = item.name?.[0]?.name || '';
+        const startDate = item.eventTime ? new Date(item.eventTime).toISOString() : '';
+
+        events.push({
+          id: `cmc-${item.id}`,
+          name: `${coinName}: ${item.title}`,
+          description: (item.content || '').slice(0, 200),
+          startDate,
+          endDate: startDate,
+          city: '',
+          country: '',
+          location: 'Online',
+          url: item.originalSource || `https://coinmarketcap.com/events/`,
+          coverImage: null,
+          source: 'coinmarketcap',
+        });
+      }
     }
-    return events;
+    return events.filter(e => e.startDate);
   } catch { return []; }
 }
 
@@ -316,14 +475,42 @@ async function fetchWeb3Events() {
   console.log(`[Eventbrite] +${allEventsMap.size - ebBefore} events`);
 
   // ── 4. Meetup.com ──
-  console.log(`\n[Meetup] Scraping ${MEETUP_KEYWORDS.length} keywords...`);
+  console.log(`\n[Meetup] Scraping ${MEETUP_KEYWORDS.length} keywords × ${MEETUP_CITIES.length} cities...`);
   let muBefore = allEventsMap.size;
   for (const kw of MEETUP_KEYWORDS) {
-    const events = await fetchMeetupPage(kw);
-    events.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
-    await new Promise(r => setTimeout(r, 300));
+    for (let i = 0; i < MEETUP_CITIES.length; i += 5) {
+      const cityBatch = MEETUP_CITIES.slice(i, i + 5);
+      const results = await Promise.all(cityBatch.map(c => fetchMeetupPage(kw, c)));
+      results.flat().forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+      await new Promise(r => setTimeout(r, 300));
+    }
   }
   console.log(`[Meetup] +${allEventsMap.size - muBefore} events`);
+
+  // ── 5. ConferenceIndex (3 pages) ──
+  console.log(`\n[ConferenceIndex] Scraping blockchain conferences...`);
+  let ciBefore = allEventsMap.size;
+  for (let page = 1; page <= 3; page++) {
+    const events = await fetchConferenceIndex(page);
+    events.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+    console.log(`  Page ${page}: ${events.length} events (total: ${allEventsMap.size})`);
+    await new Promise(r => setTimeout(r, 500));
+  }
+  console.log(`[ConferenceIndex] +${allEventsMap.size - ciBefore} events`);
+
+  // ── 6. ETHGlobal ──
+  console.log(`\n[ETHGlobal] Fetching upcoming events...`);
+  let egBefore = allEventsMap.size;
+  const ethgEvents = await fetchETHGlobal();
+  ethgEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+  console.log(`[ETHGlobal] +${allEventsMap.size - egBefore} events`);
+
+  // ── 7. CoinMarketCap ──
+  console.log(`\n[CoinMarketCap] Fetching token events...`);
+  let cmcBefore = allEventsMap.size;
+  const cmcEvents = await fetchCoinMarketCap();
+  cmcEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+  console.log(`[CoinMarketCap] +${allEventsMap.size - cmcBefore} events`);
 
   // ── Filter: future + Web3 relevant ──
   const now = new Date().toISOString();
@@ -333,8 +520,7 @@ async function fetchWeb3Events() {
     .filter(e => {
       if (!e.startDate) return false;
       if ((e.endDate || e.startDate) < now) return false;
-      // Eventbrite & Meetup events are already keyword-searched, so always relevant.
-      // Luma geo events need filtering.
+      // Luma geo events need Web3 filtering; all other sources are already relevant.
       if (e.source === 'luma' && !isWeb3Relevant(e.name, e.description)) return false;
       return true;
     })
