@@ -168,7 +168,7 @@ export default function Web3HiringReport() {
      </div>
      <Callout>Engineering at 34.4% is nearly double the ratio at traditional tech companies. Web3 is still in build mode.</Callout>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, April 2026 · <Cite href="https://www.developerreport.com/">Electric Capital Developer Report 2025</Cite> · <Cite href="https://www.bls.gov/ooh/computer-and-information-technology/">BLS Occupational Outlook</Cite>
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 · <Cite href="https://www.developerreport.com/">Electric Capital Developer Report 2025</Cite> · <Cite href="https://www.bls.gov/ooh/computer-and-information-technology/">BLS Occupational Outlook</Cite>
      </Sources>
     </section>
 
@@ -213,7 +213,7 @@ export default function Web3HiringReport() {
      </div>
      <Callout>Only 5% of Web3 job listings explicitly require blockchain skills. Most companies hire for Python, SQL, and data, then train crypto domain knowledge internally. Solidity does not appear in the top 30 skills.</Callout>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, April 2026 · <Cite href="https://survey.stackoverflow.co/2025/">Stack Overflow Developer Survey 2025</Cite> · <Cite href="https://www.linuxfoundation.org/research/open-source-jobs-report-2025">LF 2025 Open Source Jobs</Cite>
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 · <Cite href="https://survey.stackoverflow.co/2025/">Stack Overflow Developer Survey 2025</Cite> · <Cite href="https://www.linuxfoundation.org/research/open-source-jobs-report-2025">LF 2025 Open Source Jobs</Cite>
      </Sources>
     </section>
 
@@ -252,7 +252,7 @@ export default function Web3HiringReport() {
      </div>
      <Callout>Communication (11.6%) is the third most requested skill in Web3, ahead of Java, blockchain, and TypeScript. The industry needs people who can talk to regulators, not just write code.</Callout>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, April 2026 · <Cite href="https://www.chainalysis.com/blog/2024-crypto-crime-report-introduction/">Chainalysis Crypto Crime Report 2024</Cite>
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 · <Cite href="https://www.chainalysis.com/blog/2024-crypto-crime-report-introduction/">Chainalysis Crypto Crime Report 2024</Cite>
      </Sources>
     </section>
 
@@ -305,7 +305,7 @@ export default function Web3HiringReport() {
      </div>
      <Callout>Quant researchers earn 2.25x what HR professionals make in Web3. Engineering sits at $185k median, 11% above the industry-wide median.</Callout>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, April 2026 (n=178 with disclosed salary) · <Cite href="https://web3.career/web3-salaries">Web3.career</Cite> for industry benchmarks
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 (n=178 with disclosed salary) · <Cite href="https://web3.career/web3-salaries">Web3.career</Cite> for industry benchmarks
      </Sources>
     </section>
 
@@ -343,7 +343,7 @@ export default function Web3HiringReport() {
       </div>
      </div>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, April 2026 · <Cite href="https://economicgraph.linkedin.com/">LinkedIn Economic Graph</Cite> for industry remote work baseline
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 · <Cite href="https://economicgraph.linkedin.com/">LinkedIn Economic Graph</Cite> for industry remote work baseline
      </Sources>
     </section>
 
@@ -422,7 +422,7 @@ export default function Web3HiringReport() {
      </div>
      <Callout>Infrastructure dominates at 38% of roles. DeFi is only 5%. The &ldquo;picks and shovels&rdquo; strategy, building tools rather than protocols, is where Web3 hiring is concentrated.</Callout>
      <Sources>
-      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, April 2026 · <Cite href="https://www.coingecko.com/en/exchanges">CoinGecko</Cite> for exchange volume data · 187 companies analyzed
+      Source: <Cite href="https://hashtagweb3.com/jobs">Hashtag Web3</Cite>, May 2026 · <Cite href="https://www.coingecko.com/en/exchanges">CoinGecko</Cite> for exchange volume data · 187 companies analyzed
      </Sources>
     </section>
 
@@ -523,7 +523,7 @@ export default function Web3HiringReport() {
       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
        <h3 className=" font-bold text-lg text-zinc-900 dark:text-zinc-50 mb-3">For hiring managers at Web3 companies</h3>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-        The data shows a clear junior talent pipeline problem. With only 13.7% entry-level roles, the industry is creating a dependency on poaching mid-career engineers from FAANG companies. Consider investing in internship programs and junior roles now. The cost of not building a pipeline is higher long-term. Also: publishing salary bands is table stakes. The 88% of listings that hide compensation are losing candidates to the 12% that show it.
+        The data shows a clear junior talent pipeline problem. With entry-level roles sitting at just 0.6%, the industry is creating a dependency on poaching mid-career engineers from FAANG companies. Consider investing in internship programs and junior roles now. The cost of not building a pipeline is higher long-term. Also: publishing salary bands is table stakes. The 88% of listings that hide compensation are losing candidates to the 12% that show it.
        </p>
       </div>
       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
@@ -548,7 +548,7 @@ export default function Web3HiringReport() {
       Key limitations: Our dataset captures jobs posted through structured ATS platforms. DAOs, protocol teams, and smaller crypto startups that hire through Twitter, Discord, or direct outreach are underrepresented. The salary data (n=178, or 12% of listings) is biased toward US-based companies subject to pay transparency laws. Token-based compensation is not captured. Geographic categorization is based on listing location, not where the work is actually performed.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-      This report was produced by <Cite href="https://hashtagweb3.com">Hashtag Web3</Cite> in April 2026. Data is refreshed daily via automated ATS polling. For the full dataset, visit our <Cite href="https://hashtagweb3.com/jobs">jobs page</Cite>. For questions about methodology or data access, contact us at <Cite href="https://t.me/web3hiring">@web3hiring on Telegram</Cite>.
+      This report was produced by <Cite href="https://hashtagweb3.com">Hashtag Web3</Cite> in May 2026. Data is refreshed daily via automated ATS polling. For the full dataset, visit our <Cite href="https://hashtagweb3.com/jobs">jobs page</Cite>. For questions about methodology or data access, contact us at <Cite href="https://t.me/web3hiring">@web3hiring on Telegram</Cite>.
      </p>
     </section>
 
