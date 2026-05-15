@@ -196,8 +196,8 @@ async function processFile(path, locIdx, label) {
 }
 
 async function main() {
-  const cvin = await processFile('path/to/local', 4, 'CVin.bio');
-  const web3 = await processFile('jobs-extracted.csv', 7, 'Web3 Jobs');
+  const cvin = await processFile('/Users/vedang/Documents/cvinbio-jobs-extracted.csv', 4, 'CVin.bio');
+  const web3 = await processFile('/Users/vedang/web3jobs/Web3-Jobs/jobs-extracted.csv', 7, 'Web3 Jobs');
   
   // Merge
   const allCountries = new Set([...Object.keys(cvin.countries), ...Object.keys(web3.countries)]);
@@ -220,11 +220,11 @@ async function main() {
     ].join(','));
   });
   
-  fs.writeFileSync('path/to/local', rows.join('\n'));
-  console.log(`\n✅ Written path/to/local (${merged.length} countries)`);
+  fs.writeFileSync('/Users/vedang/Documents/locations-by-country.csv', rows.join('\n'));
+  console.log(`\n✅ Written /Users/vedang/Documents/locations-by-country.csv (${merged.length} countries)`);
   
   // Save for Excel rebuild
-  fs.writeFileSync('scripts/_country_data.json', JSON.stringify({ cvin: cvin.countries, web3: web3.countries, cvinTotal: cvin.total, web3Total: web3.total }, null, 2));
+  fs.writeFileSync('/Users/vedang/web3jobs/Web3-Jobs/scripts/_country_data.json', JSON.stringify({ cvin: cvin.countries, web3: web3.countries, cvinTotal: cvin.total, web3Total: web3.total }, null, 2));
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

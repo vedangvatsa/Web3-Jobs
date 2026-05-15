@@ -61,7 +61,7 @@ ${description.slice(0, 2000)}`;
 }
 
 async function main() {
-  const content = fs.readFileSync('process.cwd() + '/jobs-extracted.csv', 'utf8');
+  const content = fs.readFileSync('/Users/vedang/web3jobs/Web3-Jobs/jobs-extracted.csv', 'utf8');
   const rows = parseCSV(content);
   const header = rows[0];
   const data = rows.slice(1);
@@ -175,7 +175,7 @@ async function main() {
   };
   const out = [header.map(h => esc(h)).join(',')];
   for (const row of data) out.push(row.map(v => esc(v)).join(','));
-  fs.writeFileSync('process.cwd() + '/jobs-extracted.csv', out.join('\n'));
+  fs.writeFileSync('/Users/vedang/web3jobs/Web3-Jobs/jobs-extracted.csv', out.join('\n'));
   
   // Final audit
   const finalSkills = data.filter(r => (r[5]||'').trim() && r[5] !== '-').length;

@@ -7,7 +7,7 @@ echo "Verifying glossary image URLs..."
 echo "================================"
 
 # Extract unique image URLs
-URLs=$(grep "^image:" LOCAL_PATH/content/glossary/*.md | sed 's/.*image: "\(.*\)"/\1/' | sort -u)
+URLs=$(grep "^image:" /Users/vedang/web3jobs/Web3-Jobs/content/glossary/*.md | sed 's/.*image: "\(.*\)"/\1/' | sort -u)
 
 total=0
 valid=0

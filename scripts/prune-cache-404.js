@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const CACHE_FILE = 'content/jobs-cache.json';
+const CACHE_FILE = '/Users/vedang/web3jobs/Web3-Jobs/content/jobs-cache.json';
 
 async function checkUrl(url) {
   try {

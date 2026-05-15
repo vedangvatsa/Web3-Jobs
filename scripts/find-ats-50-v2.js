@@ -37,7 +37,7 @@ const slugs = [
 // Let's brute force them
 async function main() {
   const fs = require('fs');
-  const fetchScript = fs.readFileSync('process.cwd() + '/scripts/refresh-jobs-cache.ts', 'utf8');
+  const fetchScript = fs.readFileSync('/Users/vedang/web3jobs/Web3-Jobs/scripts/refresh-jobs-cache.ts', 'utf8');
   const existingStrings = new Set();
   const matches = fetchScript.match(/'[^']+'/g);
   if (matches) {

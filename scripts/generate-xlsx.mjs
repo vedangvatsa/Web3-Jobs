@@ -31,7 +31,7 @@ async function readCSV(path) {
 }
 
 async function analyzeCvinBio() {
-  const rl = readline.createInterface({ input: fs.createReadStream('path/to/local'), crlfDelay: Infinity });
+  const rl = readline.createInterface({ input: fs.createReadStream('/Users/vedang/Documents/cvinbio-jobs-extracted.csv'), crlfDelay: Infinity });
   let ln = 0;
   const stats = { total: 0, withDesc: 0, withSalary: 0, withApply: 0, withLocation: 0, withTags: 0, withType: 0 };
   const companies = new Map(), tags = {}, categories = {}, types = {}, locations = {};
@@ -65,7 +65,7 @@ async function analyzeCvinBio() {
 }
 
 async function analyzeWeb3() {
-  const rl = readline.createInterface({ input: fs.createReadStream('process.cwd() + '/jobs-extracted.csv'), crlfDelay: Infinity });
+  const rl = readline.createInterface({ input: fs.createReadStream('/Users/vedang/web3jobs/Web3-Jobs/jobs-extracted.csv'), crlfDelay: Infinity });
   let ln = 0;
   const stats = { total: 0, withDesc: 0, withSkills: 0, withSalary: 0, withLocation: 0, withType: 0, withLevel: 0 };
   const companies = new Map(), skills = {}, locations = {}, types = {}, levels = {}, depts = {}, cryptos = {}, sources = {};
@@ -264,7 +264,7 @@ async function main() {
   ]);
 
   // Write the workbook
-  const outPath = 'path/to/local';
+  const outPath = '/Users/vedang/Documents/platform-stats.xlsx';
   XLSX.writeFile(wb, outPath);
   console.log(`\n✅ Written to ${outPath}`);
   console.log(`   ${wb.SheetNames.length} sheets: ${wb.SheetNames.join(', ')}`);

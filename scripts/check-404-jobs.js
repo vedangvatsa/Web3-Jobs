@@ -3,7 +3,7 @@ const https = require('https');
 const http = require('http');
 
 async function checkJobs() {
-  const csv = fs.readFileSync('process.cwd() + '/jobs-extracted.csv', 'utf8');
+  const csv = fs.readFileSync('/Users/vedang/web3jobs/Web3-Jobs/jobs-extracted.csv', 'utf8');
   const lines = csv.split('\n');
   
   // We'll check all companies
