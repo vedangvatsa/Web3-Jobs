@@ -16,28 +16,40 @@ const WEB3_KEYWORDS = [
   'decentralized', 'decentralisation', 'decentralization',
   'metaverse', 'gamefi', 'wallet', 'ledger', 'metamask', 'phantom',
   'ipfs', 'filecoin', 'arweave', 'cosmos', 'polkadot', 'avalanche',
-  'near', 'sui', 'aptos', 'monad', 'chainlink', 'oracle',
-  'eigenlayer', 'restaking', 'celestia', 'modular',
-  'base', 'coinbase', 'binance', 'okx', 'kraken',
+  'sui', 'aptos', 'monad', 'chainlink',
+  'eigenlayer', 'restaking', 'celestia',
+  'coinbase', 'binance', 'okx', 'kraken',
   'uniswap', 'aave', 'maker', 'compound', 'curve',
   'ethglobal', 'ethdenver', 'ethcc', 'devcon', 'token2049',
   'hackathon', 'buildathon', 'hacker house', 'mining', 'miner',
-  'rwa', 'on-chain', 'onchain', 'protocol', 'mainnet', 'testnet',
-  'airdrop', 'farcaster', 'lens', 'socialfi', 'digital asset',
+  'rwa', 'on-chain', 'onchain', 'mainnet', 'testnet',
+  'airdrop', 'farcaster', 'socialfi', 'digital asset',
   'memecoin', 'meme coin', 'pragma', 'starknet', 'wormhole',
-  'layerzero', 'bridge', 'ordinal', 'brc-20', 'rune',
-  'dex', 'cex', 'amm', 'liquidity', 'yield',
-  'opensea', 'blur', 'nft', 'mint',
+  'layerzero', 'brc-20',
+  'dex', 'cex', 'amm', 'liquidity',
+  'opensea', 'blur', 'nft',
   'web 3', 'block chain', 'bit coin', 'ether',
   'tron', 'cardano', 'ripple', 'xrp', 'dogecoin', 'shiba',
   'depin', 'zkp', 'zero knowledge', 'zk-snark', 'zk-stark',
   'ico', 'ido', 'ieo', 'launchpad',
-  'validator', 'node operator', 'proof of',
+  'validator', 'node operator', 'proof of work', 'proof of stake'
 ];
 
 function isWeb3Relevant(name, description = '') {
-  const text = `${name} ${description}`.toLowerCase();
-  return WEB3_KEYWORDS.some(kw => text.includes(kw));
+  if (!name) return false;
+  const text = `${name} ${description || ''}`.toLowerCase();
+  
+  // Exclude events that are just generic tech hackathons unless they mention crypto
+  if (text.includes('hackathon') && !WEB3_KEYWORDS.some(kw => kw !== 'hackathon' && text.includes(kw))) {
+    return false;
+  }
+
+  // Exact word boundary checks for very short keywords
+  if (/\b(zk|l2|eth|btc)\b/.test(text)) return true;
+
+  // Filter out the short ones from the general `includes` check to avoid false positives like "teeth" (eth)
+  const safeKeywords = WEB3_KEYWORDS.filter(kw => !['zk', 'l2', 'eth', 'btc'].includes(kw));
+  return safeKeywords.some(kw => text.includes(kw));
 }
 
 // ─── Cities for Luma geo-discovery ──────────────────────────────────────
@@ -52,29 +64,58 @@ const LUMA_CITIES = [
   { lat: 47.6062, lng: -122.3321 },  // Seattle
   { lat: 42.3601, lng: -71.0589 },   // Boston
   { lat: 43.6532, lng: -79.3832 },   // Toronto
+  { lat: 49.2827, lng: -123.1207 },  // Vancouver
+  { lat: 45.5017, lng: -73.5673 },   // Montreal
   { lat: 51.5074, lng: -0.1278 },    // London
   { lat: 48.8566, lng: 2.3522 },     // Paris
   { lat: 52.5200, lng: 13.4050 },    // Berlin
   { lat: 52.3676, lng: 4.9041 },     // Amsterdam
   { lat: 47.3769, lng: 8.5417 },     // Zurich
   { lat: 38.7223, lng: -9.1393 },    // Lisbon
+  { lat: 40.4168, lng: -3.7038 },    // Madrid
+  { lat: 41.3851, lng: 2.1734 },     // Barcelona
+  { lat: 50.1109, lng: 8.6821 },     // Frankfurt
+  { lat: 59.3293, lng: 18.0686 },    // Stockholm
   { lat: 1.3521, lng: 103.8198 },    // Singapore
   { lat: 25.2048, lng: 55.2708 },    // Dubai
+  { lat: 24.4539, lng: 54.3773 },    // Abu Dhabi
   { lat: 22.3193, lng: 114.1694 },   // Hong Kong
   { lat: 35.6762, lng: 139.6503 },   // Tokyo
+  { lat: 37.5665, lng: 126.9780 },   // Seoul
+  { lat: -33.8688, lng: 151.2093 },  // Sydney
+  { lat: -37.8136, lng: 144.9631 },  // Melbourne
+  { lat: 19.0760, lng: 72.8777 },    // Mumbai
+  { lat: 12.9716, lng: 77.5946 },    // Bangalore
+  { lat: 28.6139, lng: 77.2090 },    // New Delhi
+  { lat: -23.5505, lng: -46.6333 },  // Sao Paulo
+  { lat: -34.6037, lng: -58.3816 },  // Buenos Aires
+  { lat: 19.4326, lng: -99.1332 },   // Mexico City
+  { lat: 4.6097, lng: -74.0817 },    // Bogota
+  { lat: 6.5244, lng: 3.3792 },      // Lagos
+  { lat: -33.9249, lng: 18.4241 },   // Cape Town
+  { lat: 1.2921, lng: 36.8219 },     // Nairobi
+  { lat: 13.7563, lng: 100.5018 },   // Bangkok
+  { lat: 3.1390, lng: 101.6869 },    // Kuala Lumpur
+  { lat: 14.5995, lng: 120.9842 },   // Manila
+  { lat: -6.2088, lng: 106.8456 },   // Jakarta
+  { lat: 10.7626, lng: 106.6601 },   // Ho Chi Minh
 ];
 
-// ─── Eventbrite dimensions ──────────────────────────────────────────────
-const EB_KEYWORDS = ['web3', 'crypto', 'blockchain', 'ethereum', 'bitcoin', 'defi', 'nft', 'solana', 'dao'];
+// ─── Eventbrite & Meetup dimensions ──────────────────────────────────────
+const EB_KEYWORDS = ['web3', 'crypto', 'blockchain', 'ethereum', 'bitcoin', 'defi', 'nft', 'solana', 'dao', 'rwa', 'decentralized', 'token'];
 const EB_REGIONS = [
   'online', 'united-states', 'united-kingdom', 'canada', 'australia',
   'singapore', 'germany', 'uae', 'india', 'france',
   'japan', 'south-korea', 'hong-kong', 'switzerland', 'netherlands',
   'spain', 'brazil', 'nigeria', 'thailand', 'portugal',
+  'argentina', 'mexico', 'colombia', 'chile', 'peru',
+  'italy', 'sweden', 'denmark', 'austria', 'ireland',
+  'malaysia', 'indonesia', 'vietnam', 'philippines', 'taiwan',
+  'kenya', 'south-africa', 'ghana', 'egypt', 'morocco',
+  'turkey', 'poland', 'czechia', 'romania', 'israel'
 ];
 
-// ─── Meetup dimensions ─────────────────────────────────────────────────
-const MEETUP_KEYWORDS = ['blockchain', 'web3', 'crypto', 'ethereum', 'bitcoin', 'defi', 'nft'];
+const MEETUP_KEYWORDS = ['blockchain', 'web3', 'crypto', 'ethereum', 'bitcoin', 'defi', 'nft', 'solana', 'decentralized'];
 
 // ═══════════════════════════════════════════════════════════════════════
 // SOURCE 1: Luma (Geo Discovery API)
@@ -126,6 +167,12 @@ const LUMA_COMMUNITIES = [
   'crypto', 'superteam', 'encode-club', 'ethglobal', 'chainlink',
   'token2049', 'ethprague', 'ethwarsaw', 'sui-network', 'web3foundation',
   'gnosis', 'lido', 'solana-nyc', 'wearelightdao', 'gemini',
+  'polygon', 'arbitrum', 'optimism', 'base', 'avalanche', 
+  'consensys', 'filecoin', 'polkadot', 'starknet', 'zksync',
+  'a16zcrypto', 'paradigm', 'multicoin', 'panteracapital', 'framework',
+  'buidlguidl', 'gitcoin', 'celo', 'aptos', 'sui',
+  'berachain', 'monad', 'movementlabs', 'nearprotocol', 'bnbchain',
+  'developerdao', 'boysclub', 'shefi', 'cryptomondays', 'ethereum'
 ];
 
 async function fetchLumaCommunity(slug) {
@@ -145,7 +192,7 @@ async function fetchLumaCommunity(slug) {
       if (!cal && !event) return null;
       const geo = event?.geo_address_info || {};
       return {
-        id: `luma-${event?.api_id || cal?.api_id}`,
+        id: `luma-host-${event?.api_id || cal?.api_id}`,
         name: event?.name || cal?.name || '',
         description: (event?.description_short || cal?.description_short || '').slice(0, 200),
         startDate: event?.start_at || item.start_at || '',
@@ -155,7 +202,7 @@ async function fetchLumaCommunity(slug) {
         location: [geo.city || cal?.geo_city, geo.country || cal?.geo_country].filter(Boolean).join(', ') || 'Virtual / TBA',
         url: `https://lu.ma/${event?.url || cal?.slug || event?.api_id}`,
         coverImage: event?.cover_url || cal?.cover_image_url || null,
-        source: 'luma',
+        source: 'luma-trusted',
       };
     }).filter(e => e && e.name && e.startDate);
   } catch { return []; }
@@ -472,15 +519,12 @@ async function fetchWeb3Events() {
   console.log(`\n[Eventbrite] Scraping ${EB_KEYWORDS.length} keywords × ${EB_REGIONS.length} regions...`);
   let ebBefore = allEventsMap.size;
   for (const keyword of EB_KEYWORDS) {
-    for (let i = 0; i < EB_REGIONS.length; i += 5) {
-      const regionBatch = EB_REGIONS.slice(i, i + 5);
-      const fetches = regionBatch.flatMap(r => [
-        fetchEventbritePage(keyword, r, 1),
-        fetchEventbritePage(keyword, r, 2),
-      ]);
-      const results = await Promise.all(fetches);
-      results.flat().forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
-      await new Promise(r => setTimeout(r, 200));
+    for (const region of EB_REGIONS) {
+      const p1 = await fetchEventbritePage(keyword, region, 1);
+      p1.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+      
+      // Random sleep 200-500ms to avoid 429 Too Many Requests
+      await new Promise(r => setTimeout(r, 200 + Math.random() * 300));
     }
     console.log(`  "${keyword}" done (total: ${allEventsMap.size})`);
   }
@@ -490,11 +534,10 @@ async function fetchWeb3Events() {
   console.log(`\n[Meetup] Scraping ${MEETUP_KEYWORDS.length} keywords × ${MEETUP_CITIES.length} cities...`);
   let muBefore = allEventsMap.size;
   for (const kw of MEETUP_KEYWORDS) {
-    for (let i = 0; i < MEETUP_CITIES.length; i += 5) {
-      const cityBatch = MEETUP_CITIES.slice(i, i + 5);
-      const results = await Promise.all(cityBatch.map(c => fetchMeetupPage(kw, c)));
-      results.flat().forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
-      await new Promise(r => setTimeout(r, 300));
+    for (const city of MEETUP_CITIES) {
+      const results = await fetchMeetupPage(kw, city);
+      results.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+      await new Promise(r => setTimeout(r, 200 + Math.random() * 300));
     }
   }
   console.log(`[Meetup] +${allEventsMap.size - muBefore} events`);
@@ -524,17 +567,36 @@ async function fetchWeb3Events() {
   cmcEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
   console.log(`[CoinMarketCap] +${allEventsMap.size - cmcBefore} events`);
 
-  // ── Filter: future + Web3 relevant ──
+  // Blacklist: catch obvious non-Web3 spam
+  const BLACKLIST = [
+    'apple repair', 'garden festival', 'yoga', 'pilates', 'cooking class',
+    'real estate agent', 'pottery', 'wine tasting', 'book club', 'knitting',
+    'full stack training', 'python training', 'java training', 'seo training',
+    'wedding', 'baby shower', 'bridal', 'church service', 'sermon',
+  ];
+  function isBlacklisted(name) {
+    if (!name) return false;
+    const lower = name.toLowerCase();
+    return BLACKLIST.some(b => lower.includes(b));
+  }
+
   const now = new Date().toISOString();
   const rawCount = allEventsMap.size;
+
+  // Sources that use Web3 keyword search or are verified Web3 hosts — their results are already relevant
+  const TRUSTED_SOURCES = new Set(['eventbrite', 'meetup', 'conferenceindex', 'ethglobal', 'coinmarketcap', 'luma-trusted']);
 
   const validEvents = Array.from(allEventsMap.values())
     .filter(e => {
       if (!e.startDate) return false;
-      // Strict future-only: startDate must be today or later
+      if (!e.name) return false;
       if (e.startDate < now) return false;
-      // Apply Web3 relevance filter to ALL sources
-      if (!isWeb3Relevant(e.name, e.description)) return false;
+      if (isBlacklisted(e.name)) return false;
+      
+      // Keyword-searched sources bypass strict title filtering
+      if (!TRUSTED_SOURCES.has(e.source) && !isWeb3Relevant(e.name, e.description)) {
+        return false;
+      }
       return true;
     })
     .map(e => {
