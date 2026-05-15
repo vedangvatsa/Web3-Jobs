@@ -1,5 +1,101 @@
 [
   {
+    "id": "f3e22d5b-46e1-4f8b-847f-f4e1a70a34f5",
+    "title": "Cloud Security Engineer",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/f3e22d5b-46e1-4f8b-847f-f4e1a70a34f5",
+    "date": "2026-05-15T11:50:41.885+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "d72eb0de-64f7-410b-9000-89899bdfe4c2",
+    "title": "Regional Account Manager (Mindanao) - Local Payments",
+    "company": "Coins.ph",
+    "link": "https://jobs.lever.co/coins/d72eb0de-64f7-410b-9000-89899bdfe4c2",
+    "date": "2026-05-15T11:33:10.094Z",
+    "source": "Lever: Coins.ph"
+  },
+  {
+    "id": "b6aed46a-ebce-4c0e-aee7-a63179a1f3bd",
+    "title": "Regional Account Manager (Visayas) - Local Payments",
+    "company": "Coins.ph",
+    "link": "https://jobs.lever.co/coins/b6aed46a-ebce-4c0e-aee7-a63179a1f3bd",
+    "date": "2026-05-15T11:29:45.981Z",
+    "source": "Lever: Coins.ph"
+  },
+  {
+    "id": "ed38f47b-210f-4b6f-a8be-7e991668ea70",
+    "title": "Regional Account Manager (South Luzon) - Local Payments",
+    "company": "Coins.ph",
+    "link": "https://jobs.lever.co/coins/ed38f47b-210f-4b6f-a8be-7e991668ea70",
+    "date": "2026-05-15T11:20:21.403Z",
+    "source": "Lever: Coins.ph"
+  },
+  {
+    "id": "3530efd0-3674-4717-a32a-bae757ba63ea",
+    "title": "Regional Account Manager (North Luzon) - Local Payments",
+    "company": "Coins.ph",
+    "link": "https://jobs.lever.co/coins/3530efd0-3674-4717-a32a-bae757ba63ea",
+    "date": "2026-05-15T11:16:10.571Z",
+    "source": "Lever: Coins.ph"
+  },
+  {
+    "id": "78875320",
+    "title": "Accountant, Assistant Manager",
+    "company": "Matrixport",
+    "link": "https://hk.linkedin.com/jobs/view/accountant-assistant-manager-at-bit-official-4413849793",
+    "date": "2026-05-15T10:00:47.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "4a3df740-ff2b-4492-bfd0-31fddc3250cf",
+    "title": "Solutions Consultant - San Francisco",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/4a3df740-ff2b-4492-bfd0-31fddc3250cf",
+    "date": "2026-05-15T09:50:52.980+00:00",
+    "source": "Ashby: Elliptic"
+  },
+  {
+    "id": "7735227003",
+    "title": "Senior Product Manager, Infra Operations",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7735227003",
+    "date": "2026-05-15T05:43:53-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "76263fb4-6547-492a-aa25-53819d58baec",
+    "title": "Senior Frontend Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/76263fb4-6547-492a-aa25-53819d58baec",
+    "date": "2026-05-15T09:42:45.548Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "4867587101",
+    "title": "Senior Growth Product Manager - User Activation",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867587101",
+    "date": "2026-05-15T05:40:15-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "ac6f91fb-8de5-4236-ae4e-bf8059f4e8a6",
+    "title": "/App Operations Planner(Langaku)",
+    "company": "MANTRA",
+    "link": "https://jobs.lever.co/mantra/ac6f91fb-8de5-4236-ae4e-bf8059f4e8a6",
+    "date": "2026-05-15T09:16:36.023Z",
+    "source": "Lever: MANTRA"
+  },
+  {
+    "id": "7735205003",
+    "title": "Senior Treasury Manager",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7735205003",
+    "date": "2026-05-15T05:00:12-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "78869280",
     "title": "Founding Hype Lead",
     "company": "Octet",
@@ -5942,6 +6038,14 @@
     "link": "https://www.revolut.com/en-US/careers/position/f0d6a742-3b31-455e-979d-ca7b7430d51f/",
     "date": "2026-05-05T08:50:57.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "c34e85bc-a07a-4476-ae5b-17b9230ca01e",
+    "title": "IAM Security Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/c34e85bc-a07a-4476-ae5b-17b9230ca01e",
+    "date": "2026-05-05T08:47:19.501Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "7874446",
@@ -27376,37 +27480,5 @@
     "link": "https://job-boards.greenhouse.io/janestreet/jobs/8505873002",
     "date": "2026-04-15T08:44:35-04:00",
     "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "74315222",
-    "title": "Senior Loan Originator",
-    "company": "Ethena Labs",
-    "link": "https://jobs.lever.co/ethenalabs/3b0542be-cace-4db3-866f-72d1e3a364c9",
-    "date": "2026-04-15T11:40:29.000Z",
-    "source": "https://nascent.getro.com/jobs"
-  },
-  {
-    "id": "7c113779-0f85-45a7-b69e-f2e10d4218bf",
-    "title": "HRIS Manager",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/7c113779-0f85-45a7-b69e-f2e10d4218bf",
-    "date": "2026-04-15T10:59:26.138+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "7813945",
-    "title": "Product Accounting Data Insights",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7813945",
-    "date": "2026-04-15T05:05:20-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "c7cd4219-13ba-4716-8106-beb66785b2ae",
-    "title": "Junior AI Project Manager / Associate Tech PM (Fresh Graduates Welcome)",
-    "company": "Animoca Brands",
-    "link": "https://jobs.lever.co/animocabrands/c7cd4219-13ba-4716-8106-beb66785b2ae",
-    "date": "2026-04-15T09:02:13.618Z",
-    "source": "Lever: Animoca Brands"
   }
 ]
