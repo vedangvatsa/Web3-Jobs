@@ -1,5 +1,45 @@
 [
   {
+    "id": "4857723101",
+    "title": "LATAM Business Development Assistant",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4857723101",
+    "date": "2026-05-15T00:46:04-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4857726101",
+    "title": "Senior Business Risk Control Specialist",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4857726101",
+    "date": "2026-05-15T00:13:34-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4867352101",
+    "title": "Java Development Engineer Intern",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867352101",
+    "date": "2026-05-15T00:08:15-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4867356101",
+    "title": "Principal Backend Development Engineer",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867356101",
+    "date": "2026-05-14T23:54:17-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "7919030",
+    "title": "[TEMPLATE] Default Template",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7919030",
+    "date": "2026-05-14T21:34:53-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "7917252",
     "title": "Program Manager, Security Business Enablement",
     "company": "Stripe",
@@ -166,6 +206,22 @@
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4866985101",
     "date": "2026-05-14T11:16:39-04:00",
     "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "78808827",
+    "title": "Member of Specialist Staff (Treasury) @ Zuba",
+    "company": "Zuba",
+    "link": "https://getzuba.notion.site/Member-of-Specialist-Staff-Treasury-Zuba-360fffbb5f2a8013921ed84deb2e796b?pvs=25",
+    "date": "2026-05-14T14:55:19.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "78807803",
+    "title": "Senior Backend Software Developer",
+    "company": "BitPay",
+    "link": "https://bitpay.applytojob.com/apply/scufGKyASo/Senior-Backend-Software-Developer",
+    "date": "2026-05-14T14:48:44.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "63248d12-5abc-49a1-9083-7b910a6092c6",
@@ -27304,21 +27360,5 @@
     "link": "https://jobs.lever.co/binance/81ee372e-2c14-44ef-aafe-ac6a9dda1a7d",
     "date": "2026-04-15T07:08:40.000Z",
     "source": "Binance"
-  },
-  {
-    "id": "7813141",
-    "title": "Operations Associate - Product Support Operations",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7813141",
-    "date": "2026-04-14T23:48:30-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7813755",
-    "title": "Sales Development Representative (Mandarin-speaking)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7813755",
-    "date": "2026-04-14T22:55:18-04:00",
-    "source": "Greenhouse: Stripe"
   }
 ]
