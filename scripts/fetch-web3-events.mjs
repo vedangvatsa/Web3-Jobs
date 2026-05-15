@@ -583,8 +583,8 @@ async function fetchWeb3Events() {
   const now = new Date().toISOString();
   const rawCount = allEventsMap.size;
 
-  // Sources that use Web3 keyword search or are verified Web3 hosts — their results are already relevant
-  const TRUSTED_SOURCES = new Set(['eventbrite', 'meetup', 'conferenceindex', 'ethglobal', 'coinmarketcap', 'luma-trusted']);
+  // Exclusively Web3 sources (verified crypto hosts, dedicated blockchain categories)
+  const TRUSTED_SOURCES = new Set(['conferenceindex', 'ethglobal', 'coinmarketcap', 'luma-trusted']);
 
   const validEvents = Array.from(allEventsMap.values())
     .filter(e => {
