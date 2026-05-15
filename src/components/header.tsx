@@ -1,6 +1,6 @@
 
 import { Button } from '@/components/ui/button';
-import { Users, GraduationCap, Newspaper, Calculator, DollarSign, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Briefcase, ClipboardEdit, UserMinus, Mic, Milestone, Smile, Scale, Building2, Library } from 'lucide-react';
+import { Users, GraduationCap, Newspaper, Calculator, DollarSign, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Briefcase, ClipboardEdit, UserMinus, Mic, Milestone, Smile, Scale, Building2, Library, Calendar } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import Script from 'next/script';
@@ -17,6 +17,7 @@ import { MobileNav } from './mobile-nav';
 
 const mainNavLinks = [
  { href: "/", label: "Jobs", icon: Briefcase },
+ { href: "/events", label: "Events", icon: Calendar },
  { href: "/news", label: "News", icon: Newspaper },
  { href: "/community", label: "Community", icon: Users },
 ];
