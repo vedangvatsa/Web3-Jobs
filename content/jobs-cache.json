@@ -1,11 +1,419 @@
 [
   {
+    "id": "7887519",
+    "title": "Employee Compensation and Benefits Tax Lead",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7887519",
+    "date": "2026-05-15T15:59:16-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "5191720e-c026-4f53-b58a-094e0ec049f6",
+    "title": "IT Operations Specialist",
+    "company": "CertiK",
+    "link": "https://jobs.lever.co/certik/5191720e-c026-4f53-b58a-094e0ec049f6",
+    "date": "2026-05-15T19:59:09.999Z",
+    "source": "Lever: CertiK"
+  },
+  {
+    "id": "8552556002",
+    "title": "Sales Director, Financial Services - San Francisco",
+    "company": "Hedera",
+    "link": "https://www.hashgraph.com/careers/8552556002?gh_jid=8552556002",
+    "date": "2026-05-15T15:33:32-04:00",
+    "source": "Greenhouse: Hedera"
+  },
+  {
+    "id": "7931072",
+    "title": "Digital Assets Operations Analyst",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7931072",
+    "date": "2026-05-15T14:22:32-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
+    "id": "8552286002",
+    "title": "Commercial Contracts Attorney",
+    "company": "Jane Street",
+    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8552286002",
+    "date": "2026-05-15T14:04:43-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "8548891002",
+    "title": "Director, Sales",
+    "company": "Axiom",
+    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8548891002&gh_jid=8548891002",
+    "date": "2026-05-15T13:31:40-04:00",
+    "source": "Greenhouse: Axiom"
+  },
+  {
+    "id": "7769005",
+    "title": "Engineering Manager, Terminal",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7769005",
+    "date": "2026-05-15T13:27:45-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "514d3098-a489-4c55-8ec4-80cdb16fc54a",
+    "title": "Customer Success Manager, SMB",
+    "company": "Socket",
+    "link": "https://jobs.ashbyhq.com/Socket/514d3098-a489-4c55-8ec4-80cdb16fc54a",
+    "date": "2026-05-15T17:16:19.566+00:00",
+    "source": "Ashby: Socket"
+  },
+  {
+    "id": "7922396",
+    "title": "Community Manager, Social",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7922396?t=gh_src=&gh_jid=7922396",
+    "date": "2026-05-15T12:12:17-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "5996733004",
+    "title": "Senior Software Engineer - NewMarkets Japan",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/5996733004",
+    "date": "2026-05-15T12:00:29-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "89de9a79-1f70-49be-94a1-8696f45e2c73",
+    "title": "Chief of Staff",
+    "company": "Switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/89de9a79-1f70-49be-94a1-8696f45e2c73",
+    "date": "2026-05-15T15:52:08.381+00:00",
+    "source": "Ashby: Switchboard"
+  },
+  {
+    "id": "7913464",
+    "title": "Full Stack Engineer, Paid Support Experience",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7913464",
+    "date": "2026-05-15T11:48:02-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "78957536",
+    "title": "Marketing Lead",
+    "company": "Very AI",
+    "link": "https://wellfound.com/company/veryai/jobs/4218457-marketing-lead",
+    "date": "2026-05-15T15:36:42.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
+    "id": "7922615",
+    "title": "Executive Assistant",
+    "company": "Spire",
+    "link": "https://spire.com/careers/job-openings/job/?gh_jid=7922615&gh_jid=7922615",
+    "date": "2026-05-15T10:57:30-04:00",
+    "source": "Greenhouse: Spire"
+  },
+  {
+    "id": "78930504",
+    "title": "AI Engineer - London",
+    "company": "Sequence",
+    "link": "https://jobs.ashbyhq.com/sequence/2b03f289-263b-4f2d-92b2-bed646e0bc25",
+    "date": "2026-05-15T14:33:23.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "78930507",
+    "title": "AI Engineer - NYC",
+    "company": "Sequence",
+    "link": "https://jobs.ashbyhq.com/sequence/3d64276a-98ad-4b23-8807-0c013415b1a9",
+    "date": "2026-05-15T14:33:23.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "78918028",
+    "title": "Senior Manager, Partner Marketing, APAC",
+    "company": "Circle",
+    "link": "https://careers.circle.com/us/en/job/JR101036",
+    "date": "2026-05-15T13:44:32.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "78918027",
+    "title": "Regional Marketing Director, MENA",
+    "company": "Circle",
+    "link": "https://careers.circle.com/us/en/job/JR100864",
+    "date": "2026-05-15T13:44:32.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "78910601",
+    "title": "Scaled Customer Success Manager - Spanish",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/a711f964-014a-4c5c-bfa4-a300ef7d96fd",
+    "date": "2026-05-15T13:23:07.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "78906603",
+    "title": "Payroll & Benefit Assistant",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/5996728004",
+    "date": "2026-05-15T13:07:43.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "78906599",
+    "title": "Field Auditor",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/5996008004",
+    "date": "2026-05-15T13:07:43.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "78906600",
+    "title": "Operations Training Lead",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/5995217004",
+    "date": "2026-05-15T13:07:43.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "78906595",
+    "title": "Accountant",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/5994133004",
+    "date": "2026-05-15T13:07:42.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "78904981",
+    "title": "Senior Infrastructure Engineer, Government Systems",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/0782bd50-fc84-45e5-a517-835bb2a79e37?embed=js",
+    "date": "2026-05-15T13:00:10.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "78904974",
+    "title": "People Programs Lead",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/e861cdd4-c294-4557-b276-16ef7546ff6d?embed=js",
+    "date": "2026-05-15T13:00:09.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "78899500",
+    "title": "Graduate DevSecOps Engineer",
+    "company": "Elwood Technologies",
+    "link": "https://boards.greenhouse.io/elwoodtechnologies/jobs/5996808004",
+    "date": "2026-05-15T12:51:24.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "5996852004",
+    "title": "Senior Manager, Pre-Construction (Data Centers)",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5996852004",
+    "date": "2026-05-15T08:41:22-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "78893358",
+    "title": "Protocol Support Manager",
+    "company": "UMA",
+    "link": "https://jobs.ashbyhq.com/risklabs/1282e0c1-7598-4975-b6a5-1ad696bcf366",
+    "date": "2026-05-15T12:29:11.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "78892384",
+    "title": "Infrastructure Engineer",
+    "company": "Jito Labs",
+    "link": "https://jobs.lever.co/jito.wtf/ebb4a84c-7624-4eb3-aa0f-03823492860d",
+    "date": "2026-05-15T12:26:32.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "78891623",
+    "title": "Expert Audio Transcriber, Urdu",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/2457f067-f5fd-4046-9736-530f1e46a528",
+    "date": "2026-05-15T12:23:32.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891622",
+    "title": "Expert Audio Transcriber, Ukrainian",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/fc9418d7-9cbf-4d7e-8c36-64be641f10a8",
+    "date": "2026-05-15T12:23:32.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891620",
+    "title": "Expert Audio Transcriber, UAE Arabic (Emirati)",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/bd5902d4-5872-450e-af45-77e33685a3af",
+    "date": "2026-05-15T12:23:31.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891618",
+    "title": "Expert Audio Transcriber, Tunisian Arabic",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/4aa9fa72-8811-404a-affb-5e1437db2edf",
+    "date": "2026-05-15T12:23:30.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891612",
+    "title": "Expert Audio Transcriber, Swahili",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/ed258dd6-dcfa-4592-a875-32830226a1a2",
+    "date": "2026-05-15T12:23:29.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891615",
+    "title": "Expert Audio Transcriber, Tajik",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/c6afe00a-1006-4981-97d4-df63c44a0357",
+    "date": "2026-05-15T12:23:29.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891606",
+    "title": "Expert Audio Transcriber, Spanish",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/a3872291-7f88-47bd-ae9a-f94f80838654",
+    "date": "2026-05-15T12:23:28.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891607",
+    "title": "Expert Audio Transcriber, Sudanese Arabic",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/5658ab6c-eaa8-4677-b719-f8d4ad07cc9a",
+    "date": "2026-05-15T12:23:28.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891602",
+    "title": "Expert Audio Transcriber, Slovenian",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/cf5a8d0a-4dc3-4ec9-a9ec-265496ae182f",
+    "date": "2026-05-15T12:23:27.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891597",
+    "title": "Expert Audio Transcriber, Slovak",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/db22d645-e4f9-455f-9bde-cde5c9b43a58",
+    "date": "2026-05-15T12:23:27.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891595",
+    "title": "Expert Audio Transcriber, Romanian",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/a1d6c4eb-a474-46a9-a512-a27943f3aeb6",
+    "date": "2026-05-15T12:23:26.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891591",
+    "title": "Expert Audio Transcriber, Portuguese (European)",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/d8157fcb-84c5-4f6e-8853-f626bd8f79f6",
+    "date": "2026-05-15T12:23:26.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891596",
+    "title": "Expert Audio Transcriber, Saidi Arabic",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/89a8c385-3a91-4a03-889f-e2f8909a28c0",
+    "date": "2026-05-15T12:23:26.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891588",
+    "title": "Expert Audio Transcriber, Portuguese (Brazilian)",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/0a80af8c-57bb-47ce-8389-b573006b13f2",
+    "date": "2026-05-15T12:23:25.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891582",
+    "title": "Expert Audio Transcriber, Persian",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/8e03fab2-705d-4dec-bc5e-a6421d27f3c6",
+    "date": "2026-05-15T12:23:24.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891580",
+    "title": "Expert Audio Transcriber, Norwegian",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/71c8f42b-d1fa-4909-a804-79d47b54480a",
+    "date": "2026-05-15T12:23:23.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891575",
+    "title": "Expert Audio Transcriber, North Levantine Arabic",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/aef7a787-4289-425c-870e-b9e3e987ec82",
+    "date": "2026-05-15T12:23:22.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78891568",
+    "title": "Expert Audio Transcriber, Najdi Arabic",
+    "company": "Perle",
+    "link": "https://ats.rippling.com/perle/jobs/58ef8bc1-057c-4836-ac02-d48fe0ccac5e",
+    "date": "2026-05-15T12:23:21.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78886220",
+    "title": "Senior Talent Acquisition Partner",
+    "company": "BVNK",
+    "link": "https://boards.greenhouse.io/bvnk/jobs/4867059101",
+    "date": "2026-05-15T11:59:08.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "78885882",
+    "title": "Security Engineer",
+    "company": "Coinflow Labs",
+    "link": "https://jobs.ashbyhq.com/Coinflow/5ef1599d-a828-4733-8983-58a9488aedfb",
+    "date": "2026-05-15T11:57:29.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "f3e22d5b-46e1-4f8b-847f-f4e1a70a34f5",
     "title": "Cloud Security Engineer",
     "company": "Polymarket",
     "link": "https://jobs.ashbyhq.com/Polymarket/f3e22d5b-46e1-4f8b-847f-f4e1a70a34f5",
     "date": "2026-05-15T11:50:41.885+00:00",
     "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "78883584",
+    "title": "Fullstack Developer (Java, React)",
+    "company": "Veem",
+    "link": "https://veem.applytojob.com/apply/jQwjaNyuul/Fullstack-Developer-Java-React",
+    "date": "2026-05-15T11:45:01.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "78883583",
+    "title": "Data Engineer, BI & Reporting",
+    "company": "Veem",
+    "link": "https://veem.applytojob.com/apply/RVeM5XsGof/Data-Engineer-BI-Reporting",
+    "date": "2026-05-15T11:45:00.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "d72eb0de-64f7-410b-9000-89899bdfe4c2",
@@ -22,6 +430,22 @@
     "link": "https://jobs.lever.co/coins/b6aed46a-ebce-4c0e-aee7-a63179a1f3bd",
     "date": "2026-05-15T11:29:45.981Z",
     "source": "Lever: Coins.ph"
+  },
+  {
+    "id": "78879957",
+    "title": "Graduate Python Developer - RegTech - Singapore - 2026",
+    "company": "Suade",
+    "link": "https://apply.workable.com/suade/j/B876A3A1C3",
+    "date": "2026-05-15T11:25:11.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "78879956",
+    "title": "Fintech Graduate Software Engineer (Backend) - Regtech - 2026",
+    "company": "Suade",
+    "link": "https://apply.workable.com/suade/j/7256986BD2",
+    "date": "2026-05-15T11:25:10.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "ed38f47b-210f-4b6f-a8be-7e991668ea70",
@@ -234,6 +658,14 @@
   {
     "id": "8549874002",
     "title": "Senior Manager of Solution Marketing (Remote)",
+    "company": "Axiom",
+    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8549874002&gh_jid=8549874002",
+    "date": "2026-05-14T17:20:00-04:00",
+    "source": "Greenhouse: Axiom"
+  },
+  {
+    "id": "8549874002",
+    "title": "Senior Manager of AI Tech+Talent Solution Marketing (Remote)",
     "company": "Axiom",
     "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8549874002&gh_jid=8549874002",
     "date": "2026-05-14T17:20:00-04:00",
@@ -1144,6 +1576,14 @@
     "source": "https://jobs.electriccapital.com/jobs"
   },
   {
+    "id": "78627945",
+    "title": "People & Talent Aquisition Leader",
+    "company": "San Francisco Compute Company",
+    "link": "https://jobs.ashbyhq.com/sfcompute/233c53b3-30b2-4db6-b0f9-2cc3af63195c",
+    "date": "2026-05-13T14:50:00.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
     "id": "7921182",
     "title": "Data Engineering Manager",
     "company": "Flow Traders",
@@ -1746,6 +2186,14 @@
   {
     "id": "7896142",
     "title": "Testing and Monitoring Specialist",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7896142?t=gh_src=&gh_jid=7896142",
+    "date": "2026-05-12T15:10:37-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7896142",
+    "title": "Compliance Testing and Monitoring Specialist",
     "company": "Robinhood",
     "link": "https://boards.greenhouse.io/robinhood/jobs/7896142?t=gh_src=&gh_jid=7896142",
     "date": "2026-05-12T15:10:37-04:00",
@@ -2662,6 +3110,14 @@
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4862135101",
     "date": "2026-05-11T06:28:52-04:00",
     "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "7905896",
+    "title": "Senior Software Engineer, Authentication & Authorisation (Backend)",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7905896?gh_jid=7905896",
+    "date": "2026-05-11T04:54:59-04:00",
+    "source": "Greenhouse: Ripple"
   },
   {
     "id": "41efc4cd-56dc-4dbe-8164-1a5eac3b8b95",
@@ -24976,6 +25432,14 @@
     "source": "Greenhouse: Jane Street"
   },
   {
+    "id": "7870891",
+    "title": "Senior Solutions Architect",
+    "company": "Spire",
+    "link": "https://spire.com/careers/job-openings/job/?gh_jid=7870891&gh_jid=7870891",
+    "date": "2026-04-30T09:33:39-04:00",
+    "source": "Greenhouse: Spire"
+  },
+  {
     "id": "b2da8d9c-34a3-4abe-9cec-2ae4c57f85fa",
     "title": "Project Manager I",
     "company": "Zeta",
@@ -27250,6 +27714,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "7815794",
+    "title": "Operations Program Manager, Capital Collections",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7815794",
+    "date": "2026-04-16T15:47:40-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "5970737004",
     "title": "DevOps Team Lead, Core Foundation",
     "company": "Alpaca",
@@ -27400,85 +27872,5 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7813942",
     "date": "2026-04-15T16:52:21-04:00",
     "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "ca9a8794-b40c-44bc-8f8a-d85182c62c6e",
-    "title": "Senior Channel Partner Manager | Franchise",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/ca9a8794-b40c-44bc-8f8a-d85182c62c6e",
-    "date": "2026-04-15T19:28:26.012+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "df23ddb7-4477-4843-9fdf-008148cf261a",
-    "title": "Counsel, Corporate and Regulatory",
-    "company": "Stellar",
-    "link": "https://jobs.ashbyhq.com/Stellar/df23ddb7-4477-4843-9fdf-008148cf261a",
-    "date": "2026-04-15T18:38:38.216+00:00",
-    "source": "Ashby: Stellar"
-  },
-  {
-    "id": "7819059",
-    "title": "Staff Product Manager, Payments",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7819059",
-    "date": "2026-04-15T14:12:39-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7808044",
-    "title": "Compensation Design & Programs Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7808044",
-    "date": "2026-04-15T13:55:24-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "b599c5a9-9c9d-4826-b67a-ca5e012faaad",
-    "title": "Partner Development Representative | Reseller",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad",
-    "date": "2026-04-15T16:24:26.146+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "7784353",
-    "title": "Solutions Architect, Italy",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7784353",
-    "date": "2026-04-15T11:42:29-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7815571",
-    "title": "People Operations Associate - Fixed Term Contract",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7815571",
-    "date": "2026-04-15T10:37:12-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7793069",
-    "title": "Treasury Finance AI and Quantitative Analytics",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7793069",
-    "date": "2026-04-15T10:22:09-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "4685205005",
-    "title": "Senior Manager TreasuryOps",
-    "company": "FalconX",
-    "link": "https://job-boards.greenhouse.io/falconx/jobs/4685205005",
-    "date": "2026-04-15T10:03:40-04:00",
-    "source": "Greenhouse: FalconX"
-  },
-  {
-    "id": "8505873002",
-    "title": "Logistics Coordinator",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8505873002",
-    "date": "2026-04-15T08:44:35-04:00",
-    "source": "Greenhouse: Jane Street"
   }
 ]
