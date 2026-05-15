@@ -7,7 +7,7 @@ description: "Addressing underperformance is a manager's toughest job. This guid
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "difficult conversation meeting"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 ## Importance of Addressing Underperformance

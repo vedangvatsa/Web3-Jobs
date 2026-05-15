@@ -7,7 +7,7 @@ description: "A Decentralized Identifier (DID) is a new type of globally unique 
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 A **Decentralized Identifier (DID)** serves as a unique identifier in the digital field, offering verifiable ownership without reliance on centralized authorities. DIDs are integral to **[Self-Sovereign Identity (SSI)](/self-sovereign-identity-in-web3-explained)**, which lets people to manage their own digital identities.

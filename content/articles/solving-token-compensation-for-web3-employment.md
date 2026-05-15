@@ -7,7 +7,7 @@ description: "A guide to designing and understanding token-based compensation. L
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 One of the most important innovations of [Web3](/what-is-web3) is the ability to provide team members and contributors with direct ownership in the networks they help build. This ownership comes through **[token](/what-is-a-token)-based compensation**, which often represents a substantial portion of a Web3 professional's earnings. Instead of merely receiving a salary and possibly some equity in a centralized company, team members can receive native tokens as part of their compensation package.

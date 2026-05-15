@@ -7,7 +7,7 @@ category: "Industry Insights"
 data-ai-hint: "code on screen laptop"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 ## Explaining the Web3 Developer Activity Slowdown

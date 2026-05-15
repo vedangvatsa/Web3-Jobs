@@ -7,7 +7,7 @@ description: "A guide for aspiring crypto investors. Learn what a Web3 VC analys
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 The role of an Investment Analyst at a [Web3](/what-is-web3) venture capital fund ranks among the most intellectually rewarding positions in the cryptocurrency sector. Analysts focus on identifying promising founders and protocols that will influence the future of the decentralized internet.

@@ -7,7 +7,7 @@ description: "A stealth launch is a token launch strategy where a project goes l
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 In cryptocurrency [token](/what-is-a-token) launches, where hype and marketing often dominate, the **stealth launch** presents a unique strategy. Also referred to as a "stealth drop," this approach involves launching a new cryptocurrency or [NFT](/what-are-nfts) project without prior announcements, marketing, or promotion.

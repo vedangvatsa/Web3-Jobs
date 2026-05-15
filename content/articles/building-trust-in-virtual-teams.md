@@ -7,7 +7,7 @@ description: "Trust is the foundation of any high-performing team, but it's hard
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "virtual team handshake"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 ## Understanding the Importance of Trust in Remote Teams

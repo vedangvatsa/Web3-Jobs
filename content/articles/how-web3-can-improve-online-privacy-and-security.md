@@ -7,7 +7,7 @@ description: "Explore how Web3 technologies like decentralized identity, zero-kn
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 The Web2 internet suffers from significant privacy issues. Major tech companies control vast amounts of personal data, acting as centralized custodians. Users often trade their privacy for convenience, handing over sensitive information in exchange for free services. This dynamic has resulted in a digital environment characterized by mass surveillance, frequent data breaches, and diminished user control.

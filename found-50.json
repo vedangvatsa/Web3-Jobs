@@ -1,0 +1,266 @@
+[
+  {
+    "platform": "greenhouse",
+    "slug": "socket"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "ritual"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "axiom"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "orca"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "nansen"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "gearbox"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "messari"
+  },
+  {
+    "platform": "ashby",
+    "slug": "biconomy"
+  },
+  {
+    "platform": "ashby",
+    "slug": "espresso"
+  },
+  {
+    "platform": "ashby",
+    "slug": "conduit"
+  },
+  {
+    "platform": "ashby",
+    "slug": "succinct"
+  },
+  {
+    "platform": "ashby",
+    "slug": "gelato"
+  },
+  {
+    "platform": "ashby",
+    "slug": "uniswap"
+  },
+  {
+    "platform": "ashby",
+    "slug": "compound"
+  },
+  {
+    "platform": "ashby",
+    "slug": "morpho"
+  },
+  {
+    "platform": "ashby",
+    "slug": "dune"
+  },
+  {
+    "platform": "ashby",
+    "slug": "maple"
+  },
+  {
+    "platform": "ashby",
+    "slug": "tokenterminal"
+  },
+  {
+    "platform": "lever",
+    "slug": "celestia"
+  },
+  {
+    "platform": "lever",
+    "slug": "ethena"
+  },
+  {
+    "platform": "lever",
+    "slug": "1inch"
+  },
+  {
+    "platform": "lever",
+    "slug": "coingecko"
+  },
+  {
+    "platform": "lever",
+    "slug": "centrifuge"
+  },
+  {
+    "platform": "lever",
+    "slug": "zeta"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "magic"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "immunefi"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "openzeppelin"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "zora"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "falconx"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "paradigm"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "binance"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "b2c2"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "a16z"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "gemini"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "bybit"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "luno"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "okx"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "dvtrading"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "stripe"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "bitpanda"
+  },
+  {
+    "platform": "greenhouse",
+    "slug": "guild"
+  },
+  {
+    "platform": "ashby",
+    "slug": "ledger"
+  },
+  {
+    "platform": "ashby",
+    "slug": "phantom"
+  },
+  {
+    "platform": "ashby",
+    "slug": "safe"
+  },
+  {
+    "platform": "ashby",
+    "slug": "quicknode"
+  },
+  {
+    "platform": "ashby",
+    "slug": "alchemy"
+  },
+  {
+    "platform": "ashby",
+    "slug": "foundation"
+  },
+  {
+    "platform": "ashby",
+    "slug": "backpack"
+  },
+  {
+    "platform": "ashby",
+    "slug": "sorare"
+  },
+  {
+    "platform": "ashby",
+    "slug": "magiceden"
+  },
+  {
+    "platform": "ashby",
+    "slug": "skymavis"
+  },
+  {
+    "platform": "ashby",
+    "slug": "opensea"
+  },
+  {
+    "platform": "ashby",
+    "slug": "dapper"
+  },
+  {
+    "platform": "ashby",
+    "slug": "blockworks"
+  },
+  {
+    "platform": "ashby",
+    "slug": "electric"
+  },
+  {
+    "platform": "ashby",
+    "slug": "jane"
+  },
+  {
+    "platform": "ashby",
+    "slug": "jump"
+  },
+  {
+    "platform": "ashby",
+    "slug": "cyberconnect"
+  },
+  {
+    "platform": "ashby",
+    "slug": "ramp"
+  },
+  {
+    "platform": "ashby",
+    "slug": "kraken"
+  },
+  {
+    "platform": "ashby",
+    "slug": "paxos"
+  },
+  {
+    "platform": "lever",
+    "slug": "coinmarketcap"
+  },
+  {
+    "platform": "lever",
+    "slug": "certik"
+  },
+  {
+    "platform": "lever",
+    "slug": "crypto"
+  },
+  {
+    "platform": "lever",
+    "slug": "moonpay"
+  },
+  {
+    "platform": "lever",
+    "slug": "cleanspark"
+  }
+]

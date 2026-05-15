@@ -6,7 +6,7 @@ description: 'Build a Web3 portfolio in 2026 that gets you hired. Essential proj
 category: 'Getting Started'
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 In the [Web3](/what-is-web3) sector, your portfolio serves as concrete evidence of your skills, interests, and knowledge. Unlike the conventional tech industry, where resumes and formal qualifications dominate, Web3 emphasizes practical demonstration. Hiring managers focus on your actual contributions, projects, and interactions within the blockchain ecosystem. A well-constructed portfolio is essential for anyone aiming to [land a job in this space](/how-to-land-first-web3-job), regardless of whether you are a developer, designer, or community builder. This guide outlines a straightforward approach to creating an impressive Web3 portfolio, featuring specific project ideas suited for various roles and expertise levels. We will explore what to create, how to showcase it, and how to use your on-chain activity as an evolving [resume](/how-to-build-a-web3-resume-that-stands-out).

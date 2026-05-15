@@ -7,5 +7,5 @@ description: "Managing up isn't about manipulation; it's about making your manag
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "manager employee meeting"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---

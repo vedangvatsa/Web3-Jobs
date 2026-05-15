@@ -7,7 +7,7 @@ data-ai-hint: "writing letter"
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-04-29"
+lastUpdated: "2026-05-15"
 ---
 
 When you decide to leave your job, giving two weeks' notice is a standard professional practice. You should first have a conversation with your manager before submitting a formal resignation letter. This letter serves as the official record for HR and should express your intentions clearly and professionally. The objective is to leave on good terms.
