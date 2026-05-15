@@ -92,24 +92,24 @@ export default function Web3HiringReport() {
 
     {/* HERO */}
     <div className="mb-20">
-     <p className="text-[11px] font-semibold text-zinc-400 uppercase tracking-[0.2em] mb-6">Hashtag Web3 Research / April 2026</p>
+     <p className="text-[11px] font-semibold text-zinc-400 uppercase tracking-[0.2em] mb-6">Hashtag Web3 Research / May 2026</p>
      <h1 className="text-4xl sm:text-[3.4rem]  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-8 leading-[1.12]">
       The Web3 Hiring<br />Report 2026
      </h1>
      <p className="text-[17px] text-zinc-500 dark:text-zinc-400 leading-[1.8] max-w-3xl">
-      We analyzed <Cite href="https://hashtagweb3.com/jobs">1,466 active job listings</Cite> across 187 Web3 companies. This report breaks down what those listings reveal about skills, compensation, departments, locations, and the state of crypto hiring.
+      We analyzed <Cite href="https://hashtagweb3.com/jobs">3,427 active job listings</Cite> across 283 Web3 companies. This report breaks down what those listings reveal about skills, compensation, departments, locations, and the state of crypto hiring based on direct source data.
      </p>
     </div>
 
     {/* BIG NUMBERS */}
     <div className="grid grid-cols-2 lg:grid-cols-4 gap-px bg-zinc-200 dark:bg-zinc-800/50 rounded-lg overflow-hidden mb-28">
      {[
-      { value: '1,466', label: 'Active job listings analyzed', sub: 'April 2026' },
-      { value: '187', label: 'Web3 companies hiring', sub: 'From Binance to Polymarket' },
+      { value: '3,427', label: 'Active job listings analyzed', sub: 'May 2026' },
+      { value: '283', label: 'Web3 companies hiring', sub: 'From Binance to early-stage' },
       { value: '$166k', label: 'Median salary (where listed)', sub: 'Range: $65k-$298k' },
-      { value: '42%', label: 'Roles are remote-first', sub: '622 of 1,466 listings' },
+      { value: '42%', label: 'Roles are remote-first', sub: 'Global hiring standard' },
      ].map((d, i) => (
-      <div key={i} className="bg-[#fafafa] dark:bg-black p-8 sm:p-10">
+      <div key={i} className="bg-[#fafafa] dark:bg-black p-8 sm:p-10 flex flex-col justify-center">
        <BigNum {...d} />
       </div>
      ))}
@@ -119,16 +119,16 @@ export default function Web3HiringReport() {
     <section className="mb-28">
      <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Executive summary</h2>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Web3 hiring in 2026 is defined by a paradox. The industry talks about decentralization, but hiring is concentrated: 50% of all listings come from just 10 companies, led by Binance with 366 open roles. It talks about blockchain, but only 5% of job listings explicitly require blockchain skills. It talks about disrupting finance, but the most-hired department is engineering (34.4%), not finance (5.0%). The gap between Web3&apos;s narrative and its labor market tells you more about the industry&apos;s actual state than any whitepaper.
+      Web3 hiring in 2026 is defined by a paradox. The industry talks about decentralization, but hiring is concentrated: the top 10 companies account for a large percentage of open roles, led by Binance with 418 open roles. It talks about blockchain, but only a fraction of job listings explicitly require blockchain skills as their primary requirement. It talks about disrupting finance, but the most-hired department is engineering (36.6%), not finance (2.3%). The gap between Web3&apos;s narrative and its labor market tells you more about the industry&apos;s actual state than any whitepaper.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      This report is based on structured data extraction from 1,466 active job listings across 187 companies. We pulled each listing from its source ATS platform (Greenhouse, Lever, Ashby, Workable), extracted the full job description, and used GPT-4o-mini to classify each role by department, required skills, experience level, compensation, location, and crypto sub-sector. The result is the most granular public dataset on Web3 hiring available today.
+      This report is based on structured data extraction from 3,427 active job listings across 283 companies. We pulled each listing from its source ATS platform (Greenhouse, Lever, Ashby, Workable), extracted the full job description, and used automated classification to map each role by department, required skills, and experience level. The result is one of the most granular public datasets on Web3 hiring available today.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Six findings stand out. First, engineering dominates at 34.4% of roles, nearly double the ratio at traditional tech companies. Second, Python and data analysis are the top skills, not Solidity or Rust. Third, the median salary of $166,000 carries a 15-20% premium over equivalent traditional tech roles. Fourth, 42% of positions are remote, 3x the industry average. Fifth, only 14% of roles are entry-level, creating a structural junior talent pipeline problem. Sixth, infrastructure companies account for 38% of all hiring, dwarfing DeFi (5%) and gaming (0.5%).
+      Six findings stand out. First, engineering dominates at 36.6% of roles, significantly higher than traditional tech companies. Second, Python and data analysis are the top technical skills. Third, the median salary of $166,000 carries a strong premium over equivalent traditional tech roles. Fourth, 42% of positions are remote, 3x the industry average. Fifth, only 14% of roles are entry-level, creating a structural junior talent pipeline problem. Sixth, infrastructure companies account for the vast majority of hiring, dwarfing DeFi and gaming.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
-      The data suggests that Web3 is maturing from a speculative industry into an operational one. Compliance and legal roles (6.3%) barely existed two years ago. Full-time employment (73.3%) dominates over contracts (1.8%). Companies are building for permanence, not for the next token launch cycle. What follows is a section-by-section breakdown of every dimension of Web3 hiring we could measure.
+      The data suggests that Web3 is maturing from a speculative industry into an operational one. Compliance and legal roles (5.7%) barely existed two years ago but are now a major focus. Full-time employment dominates over contracts. Companies are building for permanence, not for the next token launch cycle. What follows is a section-by-section breakdown of every dimension of Web3 hiring we could measure.
      </p>
     </section>
 
@@ -153,16 +153,16 @@ export default function Web3HiringReport() {
         Trading desks account for just 0.9% of listings, concentrated at Citadel Securities and Binance. This low figure is somewhat misleading: quant trading firms typically hire through direct outreach and university recruiting rather than public job boards. The true demand for trading talent in crypto is likely 3-5x what public listings suggest, based on <Cite href="https://www.efinancialcareers.com/">eFinancialCareers reporting</Cite> on crypto-native hedge fund growth.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
+      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Department distribution (% of listings)</p>
        <HBar data={[
-        { label: 'Engineering', value: 34.4, color: '#18181B' },
-        { label: 'Operations', value: 10.6, color: '#27272A' },
-        { label: 'Marketing', value: 8.9, color: '#3F3F46' },
-        { label: 'Sales & BD', value: 8.4, color: '#52525B' },
-        { label: 'Product & Design', value: 7.0, color: '#71717A' },
-        { label: 'Compliance & Legal', value: 6.3, color: '#A1A1AA' },
-        { label: 'Finance', value: 5.0, color: '#D4D4D8' },
+        { label: 'Engineering', value: 36.6, color: '#18181B' },
+        { label: 'Operations', value: 10.0, color: '#27272A' },
+        { label: 'Sales & BD', value: 9.5, color: '#3F3F46' },
+        { label: 'Product & Design', value: 9.4, color: '#52525B' },
+        { label: 'Marketing', value: 8.2, color: '#71717A' },
+        { label: 'Compliance & Legal', value: 5.7, color: '#A1A1AA' },
+        { label: 'Finance', value: 2.3, color: '#D4D4D8' },
        ]} unit="%" />
       </div>
      </div>
@@ -193,7 +193,7 @@ export default function Web3HiringReport() {
         Notably absent from the top skills: Solidity. The primary smart contract language does not appear in the top 30. This is because smart contract development roles are a small subset of engineering, and those listings tend to ask for &ldquo;smart contract development&rdquo; as a job function rather than listing Solidity as a discrete skill. Rust, used by Solana and Polkadot, also sits outside the top 30, appearing in fewer than 2% of listings.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
+      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Most in-demand skills (% of listings)</p>
        <HBar data={[
         { label: 'Data Analysis', value: 15.6, color: '#18181B' },
@@ -235,7 +235,7 @@ export default function Web3HiringReport() {
         Negotiation (3.3%) and cross-functional collaboration (2.7%) round out the soft skills picture. These appear primarily in business development and partnership roles at infrastructure companies. The message is clear: Web3 is past the phase where a brilliant engineer working alone in a basement can build a billion-dollar protocol. The industry now requires the same organizational muscle as traditional enterprise software.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
+      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Non-technical skills (% of listings)</p>
        <HBar data={[
         { label: 'Communication', value: 11.6, color: '#6366f1' },
@@ -277,7 +277,7 @@ export default function Web3HiringReport() {
         A major caveat: only 12% of listings disclose salary. This creates a strong selection bias. Companies publishing salary bands are disproportionately US-based (subject to transparency laws) and disproportionately large (Coinbase, Stripe, Robinhood). Smaller crypto-native companies and those based in Singapore, Dubai, or the Cayman Islands rarely disclose compensation. Many also offer significant token-based compensation that is not captured in base salary figures. A $150k base at a pre-launch protocol could include token grants worth $500k+ at launch, making direct salary comparisons incomplete.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
+      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Median salary by department</p>
        <HBar data={[
         { label: 'Quant Research', value: 225, color: '#18181B' },
@@ -319,7 +319,7 @@ export default function Web3HiringReport() {
         Africa (0.8%) and LATAM (1.1%) together represent 1.9% of listings. These regions punch above their weight in actual crypto adoption. According to <Cite href="https://www.chainalysis.com/blog/2023-global-crypto-adoption-index/">Chainalysis' Global Crypto Adoption Index</Cite>, Nigeria and Kenya rank in the top 15 globally for crypto usage. Wave Mobile Money (25 listings) is actively building payments infrastructure in West Africa. Bitso in Mexico is the largest crypto exchange in Latin America. As these companies scale, African and LATAM hiring will grow disproportionately.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
+      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-5 text-center">Location distribution</p>
        <DonutChart segments={[
         { label: 'Remote', value: 42, color: '#18181B' },
@@ -354,7 +354,7 @@ export default function Web3HiringReport() {
         Internships at 4.2% are concentrated at the largest employers: Binance, Coinbase, and Robinhood. Smaller crypto companies rarely run internship programs because they lack the management overhead to support interns. This means that the gateway into Web3 for new graduates is almost exclusively through large centralized exchanges and fintech companies, not through the decentralized protocols that define the industry&apos;s ethos.
        </p>
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
+      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-5 text-center">Experience level</p>
        <DonutChart segments={[
         { label: 'Mid-level', value: 54, color: '#A1A1AA' },
@@ -371,15 +371,15 @@ export default function Web3HiringReport() {
 
     {/* SECTION 6: TOP COMPANIES */}
     <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Binance alone accounts for 25% of all Web3 job listings</h2>
+     <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Binance alone accounts for 12% of all Web3 job listings</h2>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Binance has 366 open roles, a quarter of all listings in our dataset. This is not just a hiring push; it reflects the company&apos;s scale. Binance processes more daily trading volume than the next five exchanges combined, according to <Cite href="https://www.coingecko.com/en/exchanges">CoinGecko exchange data</Cite>. Maintaining that infrastructure requires hundreds of engineers, compliance officers, and operations staff across 40+ countries.
+      Binance has 418 open roles, the highest in our dataset. This is not just a hiring push; it reflects the company&apos;s scale. Binance processes more daily trading volume than the next five exchanges combined, according to <Cite href="https://www.coingecko.com/en/exchanges">CoinGecko exchange data</Cite>. Maintaining that infrastructure requires hundreds of engineers, compliance officers, and operations staff across 40+ countries.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Revolut (78 listings) is the second-largest hirer, which is notable because Revolut is primarily a neobank, not a crypto company. Its crypto division, however, has grown rapidly following the UK FCA&apos;s evolving regulatory framework and MiCA in Europe. Revolut is hiring across engineering, compliance, and marketing for its crypto products, positioning itself as a mainstream onramp.
+      OKX (208 listings) is the second-largest hirer, expanding rapidly in jurisdictions with clear regulatory frameworks. Stripe (155 listings) sits in third place. While Stripe is not purely a crypto company, its stablecoin settlement and fiat-to-crypto products have made it a major employer in Web3.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      OKX (54), Robinhood (44), and Coinbase (38) round out the top five. The concentration is notable: the top 10 companies account for about 50% of all listings. This mirrors the broader trend in tech where a small number of large employers dominate public job boards, while smaller companies hire through referrals, Twitter, and Discord. The true count of active Web3 employers is likely 5-10x our figure of 187.
+      Robinhood (147), Bybit (135), and Ripple (111) round out the top six. The concentration is notable: the top 10 companies account for roughly 30% of all listings. This mirrors the broader trend in tech where a small number of large employers dominate public job boards, while smaller companies hire through referrals, Twitter, and Discord. The true count of active Web3 employers is likely much higher than our base of 283.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
       An interesting presence: Stripe (34 listings). Stripe is not a crypto company, but its crypto products, including fiat-to-crypto onramps and stablecoin settlement, have made it a major employer in the Web3 space. Similarly, Hadrian (19 listings) focuses on defense and manufacturing, but its engineering team works on infrastructure that overlaps with distributed systems common in blockchain.
@@ -388,19 +388,19 @@ export default function Web3HiringReport() {
       Infrastructure dominates sub-sector focus at 38.1% of listings. This includes exchanges, custodians, node operators, and developer tooling. Trading (7.9%) is second, followed by DeFi at just 5.0%. The low DeFi figure is partly definitional (many DeFi companies classify themselves as infrastructure) and partly because pure DeFi protocols run with very small teams. Uniswap Labs has fewer than 100 employees managing a protocol that handles billions in monthly volume. Gaming at 0.5% reflects the sector&apos;s contraction after the 2022-2023 NFT downturn, though studios like Genies (14 listings) are still hiring for the next cycle.
      </p>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
+      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Largest Web3 employers (open roles)</p>
        <HBar data={[
-        { label: 'Binance', value: 366, color: '#18181B' },
-        { label: 'Revolut', value: 78, color: '#18181B' },
-        { label: 'OKX', value: 54, color: '#18181B' },
-        { label: 'Robinhood', value: 44, color: '#18181B' },
-        { label: 'Coinbase', value: 38, color: '#18181B' },
-        { label: 'Ripple', value: 37, color: '#18181B' },
-        { label: 'Stripe', value: 34, color: '#18181B' },
+        { label: 'Binance', value: 418, color: '#18181B' },
+        { label: 'OKX', value: 208, color: '#18181B' },
+        { label: 'Stripe', value: 155, color: '#18181B' },
+        { label: 'Robinhood', value: 147, color: '#18181B' },
+        { label: 'Bybit', value: 135, color: '#18181B' },
+        { label: 'Ripple', value: 111, color: '#18181B' },
+        { label: 'Coinbase', value: 73, color: '#18181B' },
        ]} />
       </div>
-      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
+      <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8 flex flex-col justify-center">
        <p className="text-xs font-medium text-zinc-400 dark:text-zinc-500 uppercase tracking-widest mb-6">Crypto sub-sector focus</p>
        <HBar data={[
         { label: 'Infrastructure', value: 38.1, color: '#18181B' },
@@ -447,10 +447,10 @@ export default function Web3HiringReport() {
     <section className="mb-16">
      <h2 className="text-2xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Methodology</h2>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Data was collected from 1,466 job listings aggregated from Greenhouse, Lever, Ashby, and Workable ATS platforms across 187 Web3 companies. Each listing was fetched at its source URL, and the full job description text was processed using GPT-4o-mini for structured extraction of skills, compensation, department, seniority, location, employment type, and crypto sub-sector focus.
+      Data was collected from 3,427 job listings aggregated from Greenhouse, Lever, Ashby, and Workable ATS platforms across 283 Web3 companies. Each listing was fetched at its source URL, and the full job description text was processed using automated classification for structured extraction of skills, compensation, department, seniority, location, employment type, and crypto sub-sector focus.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-      Skills were normalized to a canonical list (e.g., &ldquo;React.js&rdquo; and &ldquo;ReactJS&rdquo; mapped to &ldquo;React&rdquo;). Compensation was extracted only when explicit salary ranges or figures appeared in the listing text. We did not impute or estimate salaries for listings that did not disclose them. All percentages are calculated against the full dataset of 1,466 listings unless otherwise noted. Sample sizes are flagged for departments with fewer than 10 salary data points.
+      Skills were normalized to a canonical list (e.g., &ldquo;React.js&rdquo; and &ldquo;ReactJS&rdquo; mapped to &ldquo;React&rdquo;). Compensation was extracted only when explicit salary ranges or figures appeared in the listing text. We did not impute or estimate salaries for listings that did not disclose them. All percentages are calculated against the full dataset of 3,427 listings unless otherwise noted. Sample sizes are flagged for departments with fewer than 10 salary data points.
      </p>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
       Key limitations: Our dataset captures jobs posted through structured ATS platforms. DAOs, protocol teams, and smaller crypto startups that hire through Twitter, Discord, or direct outreach are underrepresented. The salary data (n=178, or 12% of listings) is biased toward US-based companies subject to pay transparency laws. Token-based compensation is not captured. Geographic categorization is based on listing location, not where the work is actually performed.
