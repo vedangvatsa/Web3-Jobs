@@ -84,54 +84,41 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-px bg-zinc-200 dark:bg-zinc-800/50 rounded-lg overflow-hidden">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-3 md:gap-4">
         {filteredEvents.map(event => (
           <a 
             key={event.id}
             href={event.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="group block h-full bg-[#fafafa] dark:bg-black hover:bg-white dark:hover:bg-zinc-900 transition-colors flex flex-col"
+            className="group flex items-center p-4 md:p-5 bg-white dark:bg-zinc-900/50 border border-zinc-200 dark:border-zinc-800 rounded-xl hover:border-zinc-300 dark:hover:border-zinc-700 transition-colors"
           >
-            {event.coverImage ? (
-              <div className="h-48 w-full overflow-hidden">
+            <div className="shrink-0 h-10 w-10 md:h-12 md:w-12 rounded-lg bg-zinc-100 dark:bg-zinc-800 flex items-center justify-center overflow-hidden border border-zinc-200/50 dark:border-zinc-700/50 mr-4">
+              {event.coverImage ? (
                 <img 
                   src={event.coverImage} 
                   alt={event.name} 
-                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                  className="w-full h-full object-cover"
                   loading="lazy"
                 />
-              </div>
-            ) : (
-              <div className="h-48 w-full bg-muted flex items-center justify-center">
-                <Calendar className="h-12 w-12 text-muted-foreground/30" />
-              </div>
-            )}
+              ) : (
+                <Calendar className="h-5 w-5 text-zinc-400" />
+              )}
+            </div>
             
-            <div className="p-8 flex flex-col flex-1">
-              <div className="mb-4">
-                <h3 className="font-bold text-[19px] leading-tight text-zinc-900 dark:text-zinc-50 mb-4 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">
-                  {event.name}
-                </h3>
-                <div className="space-y-2.5 text-[14px] text-zinc-500 dark:text-zinc-400 font-medium">
-                  <div className="flex items-center gap-2.5">
-                    <Calendar className="h-4 w-4 shrink-0 opacity-70" />
-                    <span>{formatEventDate(event.startDate, event.endDate)}</span>
-                  </div>
-                  <div className="flex items-center gap-2.5">
-                    <MapPin className="h-4 w-4 shrink-0 opacity-70" />
-                    <span className="line-clamp-1">{event.location}</span>
-                  </div>
-                </div>
+            <div className="flex-1 min-w-0 pr-4">
+              <h3 className="text-[15px] md:text-[16px] font-semibold text-zinc-900 dark:text-zinc-100 truncate group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">
+                {event.name}
+              </h3>
+              <div className="mt-1 flex items-center text-[13px] text-zinc-500 dark:text-zinc-400">
+                <span className="truncate max-w-[140px] md:max-w-[200px]">{event.location}</span>
+                <span className="mx-1.5 opacity-50">&middot;</span>
+                <span className="whitespace-nowrap shrink-0">{formatEventDate(event.startDate, event.endDate)}</span>
               </div>
-              
-              <p className="text-[15px] leading-relaxed text-zinc-500 dark:text-zinc-400 line-clamp-3 mb-6 flex-1">
-                {event.description}
-              </p>
-              
-              <div className="mt-auto flex items-center text-[13px] font-semibold text-zinc-900 dark:text-zinc-100 tracking-wide uppercase">
-                View Event <ArrowRight className="ml-1.5 h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
-              </div>
+            </div>
+            
+            <div className="shrink-0 ml-auto">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-zinc-300 dark:text-zinc-600 group-hover:text-indigo-500 transition-colors"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" x2="21" y1="14" y2="3"/></svg>
             </div>
           </a>
         ))}
