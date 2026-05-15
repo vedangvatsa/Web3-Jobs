@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   canonical: 'https://hashtagweb3.com/web3-hiring-report',
  },
  openGraph: {
-  title: 'Web3 Hiring Report 2026 | Crypto Job Market Trends',
+  title: 'Web3 Hiring Report 2026 | Crypto Job Market Trends | Hashtag Web3',
   description: 'Data-driven insights based on 3,400+ active Web3 job listings. Explore hiring velocity, in-demand roles, salary benchmarks, and remote work patterns.',
   url: 'https://hashtagweb3.com/web3-hiring-report',
   images: [
    {
-    url: '/api/og?type=article&title=Web3%20Hiring%20Report%202026&category=Market%20Data',
+    url: 'https://hashtagweb3.com/og-image-report.png',
     width: 1200,
     height: 630,
     alt: 'Web3 Hiring Report 2026 - Crypto job market trends and data',
@@ -22,9 +22,9 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Hiring Report 2026 | Crypto Job Market Trends',
+  title: 'Web3 Hiring Report 2026 | Crypto Job Market Trends | Hashtag Web3',
   description: 'Data-driven insights based on 3,400+ active Web3 job listings. Explore hiring velocity, in-demand roles, and salary benchmarks.',
-  images: ['/api/og?type=article&title=Web3%20Hiring%20Report%202026&category=Market%20Data'],
+  images: ['https://hashtagweb3.com/og-image-report.png'],
  },
 };
 
