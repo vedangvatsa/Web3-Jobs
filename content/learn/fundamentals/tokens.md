@@ -6,46 +6,46 @@ readTime: "9 min"
 difficulty: "beginner"
 prerequisites: ["transactions"]
 quiz:
- - question: "What is the difference between a coin and a token?"
- options:
- - "They are the same thing"
- - "A coin is native to its blockchain (like ETH), a token is created by a smart contract on that blockchain"
- - "Coins are more valuable than tokens"
- - "Tokens can only be used for voting"
- correct: 1
- explanation: "ETH is a coin — it is native to Ethereum. USDC is a token — it was created by a smart contract deployed on Ethereum. Both live on the same blockchain, but coins are built into the protocol while tokens are created by developers."
- - question: "What does ERC-20 define?"
- options:
- - "How NFTs work"
- - "How to run a validator node"
- - "A standard set of functions all fungible tokens must have"
- - "The price of Ethereum"
- correct: 2
- explanation: "ERC-20 defines functions like transfer(), balanceOf(), and approve(). Because all ERC-20 tokens share these functions, any wallet, exchange, or DeFi protocol can work with any ERC-20 token."
- - question: "What is a governance token used for?"
- options:
- - "Paying gas fees"
- - "Mining cryptocurrency"
- - "Voting on protocol decisions"
- - "Storing files on-chain"
- correct: 2
- explanation: "Governance tokens give holders voting power over protocol decisions. UNI holders vote on Uniswap changes, AAVE holders vote on Aave risk parameters, and MKR holders vote on MakerDAO policies."
- - question: "What makes a token 'fungible'?"
- options:
- - "It can only be used once"
- - "Every unit is identical and interchangeable"
- - "It is connected to a physical object"
- - "It cannot be transferred"
- correct: 1
- explanation: "Fungible means interchangeable. One USDC is identical to any other USDC, just like one dollar bill is the same as any other dollar bill. NFTs are non-fungible — each one is unique."
- - question: "What does 'token supply' mean?"
- options:
- - "How fast tokens can be sent"
- - "The total number of tokens that exist or will ever exist"
- - "The price of the token"
- - "The number of people who own the token"
- correct: 1
- explanation: "Token supply is the total number of tokens. Bitcoin has a fixed supply of 21 million. ETH has no hard cap but burns some tokens with each transaction. Some tokens have inflationary supply, others are deflationary."
+  - question: "What is the difference between a coin and a token?"
+    options:
+      - "They are the same thing"
+      - "A coin is native to its blockchain (like ETH), a token is created by a smart contract on that blockchain"
+      - "Coins are more valuable than tokens"
+      - "Tokens can only be used for voting"
+    correct: 1
+    explanation: "ETH is a coin — it is native to Ethereum. USDC is a token — it was created by a smart contract deployed on Ethereum. Both live on the same blockchain, but coins are built into the protocol while tokens are created by developers."
+  - question: "What does ERC-20 define?"
+    options:
+      - "How NFTs work"
+      - "How to run a validator node"
+      - "A standard set of functions all fungible tokens must have"
+      - "The price of Ethereum"
+    correct: 2
+    explanation: "ERC-20 defines functions like transfer(), balanceOf(), and approve(). Because all ERC-20 tokens share these functions, any wallet, exchange, or DeFi protocol can work with any ERC-20 token."
+  - question: "What is a governance token used for?"
+    options:
+      - "Paying gas fees"
+      - "Mining cryptocurrency"
+      - "Voting on protocol decisions"
+      - "Storing files on-chain"
+    correct: 2
+    explanation: "Governance tokens give holders voting power over protocol decisions. UNI holders vote on Uniswap changes, AAVE holders vote on Aave risk parameters, and MKR holders vote on MakerDAO policies."
+  - question: "What makes a token 'fungible'?"
+    options:
+      - "It can only be used once"
+      - "Every unit is identical and interchangeable"
+      - "It is connected to a physical object"
+      - "It cannot be transferred"
+    correct: 1
+    explanation: "Fungible means interchangeable. One USDC is identical to any other USDC, just like one dollar bill is the same as any other dollar bill. NFTs are non-fungible — each one is unique."
+  - question: "What does 'token supply' mean?"
+    options:
+      - "How fast tokens can be sent"
+      - "The total number of tokens that exist or will ever exist"
+      - "The price of the token"
+      - "The number of people who own the token"
+    correct: 1
+    explanation: "Token supply is the total number of tokens. Bitcoin has a fixed supply of 21 million. ETH has no hard cap but burns some tokens with each transaction. Some tokens have inflationary supply, others are deflationary."
 ---
 
 ## Coins vs tokens

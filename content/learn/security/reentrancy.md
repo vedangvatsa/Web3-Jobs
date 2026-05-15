@@ -6,46 +6,46 @@ readTime: "9 min"
 difficulty: "advanced"
 prerequisites: ["auditor-mindset"]
 quiz:
- - question: "What is a reentrancy attack?"
- options:
- - "When a user calls a function twice in a row"
- - "When a malicious contract calls back into the victim contract during an external call, before the victim has updated its state"
- - "When a contract runs out of gas"
- - "When two contracts deploy simultaneously"
- correct: 1
- explanation: "Reentrancy exploits the order of operations. If a contract sends ETH before updating the sender's balance, the receiving contract's fallback function can call withdraw() again. The balance hasn't been updated yet, so the check passes again. This loops until the contract is drained."
- - question: "How much was stolen in the 2016 DAO hack?"
- options:
- - "$1 million"
- - "$3.6 million (60 million at the time) — roughly one-third of The DAO's total funds"
- - "$100 million"
- - "$500 million"
- correct: 1
- explanation: "The DAO held $150M in ETH. The attacker used a reentrancy exploit to drain $60M (~3.6M ETH). This hack was so severe that the Ethereum community voted to hard-fork the blockchain to reverse the theft, creating Ethereum (the fork) and Ethereum Classic (the original chain)."
- - question: "What is the Checks-Effects-Interactions pattern?"
- options:
- - "A deployment checklist"
- - "A coding pattern where you: (1) check conditions, (2) update state variables, (3) make external calls — in that exact order"
- - "A testing methodology"
- - "A Solidity compiler optimization"
- correct: 1
- explanation: "By updating state (setting balance to 0) BEFORE making the external call (sending ETH), a reentrant call will see the updated balance of 0 and fail the check. The order matters: Checks first, then Effects on state, then Interactions with other contracts."
- - question: "What does a reentrancy guard (mutex) do?"
- options:
- - "It encrypts the function call"
- - "It uses a boolean lock that prevents any function from being entered while it is already executing"
- - "It limits how much gas a function can use"
- - "It restricts which addresses can call the function"
- correct: 1
- explanation: "A reentrancy guard sets a 'locked' flag to true when a function starts executing and sets it back to false when it finishes. If a reentrant call tries to enter the function while locked is true, it reverts. OpenZeppelin's ReentrancyGuard is the standard implementation."
- - question: "What is 'cross-function reentrancy'?"
- options:
- - "Calling a function on a different blockchain"
- - "When the attacker reenters a DIFFERENT function in the same contract that shares state with the vulnerable function"
- - "When two contracts call each other simultaneously"
- - "A type of reentrancy that only affects proxies"
- correct: 1
- explanation: "If withdraw() sends ETH before updating the balance, and transfer() reads the balance to move tokens, the attacker's fallback can call transfer() during the reentrancy window. The balance hasn't been updated by withdraw() yet, so transfer() sees the old, inflated balance."
+  - question: "What is a reentrancy attack?"
+    options:
+      - "When a user calls a function twice in a row"
+      - "When a malicious contract calls back into the victim contract during an external call, before the victim has updated its state"
+      - "When a contract runs out of gas"
+      - "When two contracts deploy simultaneously"
+    correct: 1
+    explanation: "Reentrancy exploits the order of operations. If a contract sends ETH before updating the sender's balance, the receiving contract's fallback function can call withdraw() again. The balance hasn't been updated yet, so the check passes again. This loops until the contract is drained."
+  - question: "How much was stolen in the 2016 DAO hack?"
+    options:
+      - "$1 million"
+      - "$3.6 million (60 million at the time) — roughly one-third of The DAO's total funds"
+      - "$100 million"
+      - "$500 million"
+    correct: 1
+    explanation: "The DAO held $150M in ETH. The attacker used a reentrancy exploit to drain $60M (~3.6M ETH). This hack was so severe that the Ethereum community voted to hard-fork the blockchain to reverse the theft, creating Ethereum (the fork) and Ethereum Classic (the original chain)."
+  - question: "What is the Checks-Effects-Interactions pattern?"
+    options:
+      - "A deployment checklist"
+      - "A coding pattern where you: (1) check conditions, (2) update state variables, (3) make external calls — in that exact order"
+      - "A testing methodology"
+      - "A Solidity compiler optimization"
+    correct: 1
+    explanation: "By updating state (setting balance to 0) BEFORE making the external call (sending ETH), a reentrant call will see the updated balance of 0 and fail the check. The order matters: Checks first, then Effects on state, then Interactions with other contracts."
+  - question: "What does a reentrancy guard (mutex) do?"
+    options:
+      - "It encrypts the function call"
+      - "It uses a boolean lock that prevents any function from being entered while it is already executing"
+      - "It limits how much gas a function can use"
+      - "It restricts which addresses can call the function"
+    correct: 1
+    explanation: "A reentrancy guard sets a 'locked' flag to true when a function starts executing and sets it back to false when it finishes. If a reentrant call tries to enter the function while locked is true, it reverts. OpenZeppelin's ReentrancyGuard is the standard implementation."
+  - question: "What is 'cross-function reentrancy'?"
+    options:
+      - "Calling a function on a different blockchain"
+      - "When the attacker reenters a DIFFERENT function in the same contract that shares state with the vulnerable function"
+      - "When two contracts call each other simultaneously"
+      - "A type of reentrancy that only affects proxies"
+    correct: 1
+    explanation: "If withdraw() sends ETH before updating the balance, and transfer() reads the balance to move tokens, the attacker's fallback can call transfer() during the reentrancy window. The balance hasn't been updated by withdraw() yet, so transfer() sees the old, inflated balance."
 ---
 
 ## The Most Famous Bug in Crypto History

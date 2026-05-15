@@ -6,46 +6,46 @@ readTime: "12 min"
 difficulty: "beginner"
 prerequisites: ["history"]
 quiz:
- - question: "What is a block in a blockchain?"
- options:
- - "A type of cryptocurrency"
- - "A bundle of transactions grouped together"
- - "A computer that runs the network"
- - "A password for your wallet"
- correct: 1
- explanation: "A block is a bundle of transactions. Each block holds a few hundred to a few thousand transactions, along with a hash of the previous block."
- - question: "What makes it nearly impossible to change old transactions?"
- options:
- - "A company reviews every change"
- - "Each block contains the hash of the previous block, so changing one breaks the chain"
- - "Transactions are encrypted with passwords"
- - "Old blocks are deleted from the system"
- correct: 1
- explanation: "Each block contains the hash of the previous block. If you change one old transaction, its block's hash changes, which breaks every block after it. You would need to redo all the work for every subsequent block."
- - question: "What do nodes do in a blockchain network?"
- options:
- - "They design the blockchain's website"
- - "They store a copy of the blockchain and verify transactions"
- - "They create new cryptocurrencies"
- - "They set the price of tokens"
- correct: 1
- explanation: "Nodes are computers that each keep a full copy of the blockchain. They verify every transaction independently. If thousands of nodes agree, the transaction is valid."
- - question: "In Proof of Stake, what do validators risk to participate?"
- options:
- - "Their electricity bill"
- - "Their computer hardware"
- - "Their own tokens (staked as collateral)"
- - "Their identity documents"
- correct: 2
- explanation: "In Proof of Stake, validators lock up (stake) their own tokens as collateral. If they try to cheat, their stake gets 'slashed' (taken away). This is what keeps them honest."
- - question: "Why is a blockchain called 'immutable'?"
- options:
- - "Because it is very fast"
- - "Because no one is allowed to read it"
- - "Because once data is added, it is practically impossible to change"
- - "Because it only works on one computer"
- correct: 2
- explanation: "Immutable means it cannot be changed. Once a transaction is confirmed and buried under more blocks, changing it would require redoing all the work after it and convincing the entire network to accept your version."
+  - question: "What is a block in a blockchain?"
+    options:
+      - "A type of cryptocurrency"
+      - "A bundle of transactions grouped together"
+      - "A computer that runs the network"
+      - "A password for your wallet"
+    correct: 1
+    explanation: "A block is a bundle of transactions. Each block holds a few hundred to a few thousand transactions, along with a hash of the previous block."
+  - question: "What makes it nearly impossible to change old transactions?"
+    options:
+      - "A company reviews every change"
+      - "Each block contains the hash of the previous block, so changing one breaks the chain"
+      - "Transactions are encrypted with passwords"
+      - "Old blocks are deleted from the system"
+    correct: 1
+    explanation: "Each block contains the hash of the previous block. If you change one old transaction, its block's hash changes, which breaks every block after it. You would need to redo all the work for every subsequent block."
+  - question: "What do nodes do in a blockchain network?"
+    options:
+      - "They design the blockchain's website"
+      - "They store a copy of the blockchain and verify transactions"
+      - "They create new cryptocurrencies"
+      - "They set the price of tokens"
+    correct: 1
+    explanation: "Nodes are computers that each keep a full copy of the blockchain. They verify every transaction independently. If thousands of nodes agree, the transaction is valid."
+  - question: "In Proof of Stake, what do validators risk to participate?"
+    options:
+      - "Their electricity bill"
+      - "Their computer hardware"
+      - "Their own tokens (staked as collateral)"
+      - "Their identity documents"
+    correct: 2
+    explanation: "In Proof of Stake, validators lock up (stake) their own tokens as collateral. If they try to cheat, their stake gets 'slashed' (taken away). This is what keeps them honest."
+  - question: "Why is a blockchain called 'immutable'?"
+    options:
+      - "Because it is very fast"
+      - "Because no one is allowed to read it"
+      - "Because once data is added, it is practically impossible to change"
+      - "Because it only works on one computer"
+    correct: 2
+    explanation: "Immutable means it cannot be changed. Once a transaction is confirmed and buried under more blocks, changing it would require redoing all the work after it and convincing the entire network to accept your version."
 ---
 
 ## What problem does a blockchain solve?

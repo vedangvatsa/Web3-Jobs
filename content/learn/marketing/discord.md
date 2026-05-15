@@ -6,22 +6,22 @@ readTime: "10 min"
 difficulty: "beginner"
 prerequisites: ["community"]
 quiz:
- - question: "What is the most common mistake in Web3 Discord management?"
- options:
- - "Having too many channels."
- - "Opening general chat to everyone without verification, leading to bot spam."
- - "Using too many bots."
- - "Not having enough moderators."
- correct: 1
- explanation: "Unverified open channels attract mass bot spam. The first step in any Web3 Discord is implementing verification gates (Captcha, wallet connect, or role-based access) before users can post."
- - question: "Why do successful Web3 Discords use 'gated' channels?"
- options:
- - "To make the server look exclusive."
- - "To create tiered access where holders, contributors, and community members get different information and perks."
- - "Because Discord requires it."
- - "To reduce server costs."
- correct: 1
- explanation: "Gated channels (token-gated, role-gated) create a sense of exclusivity and reward engagement. Token holders get alpha channels, contributors get project updates, and general members get community channels."
+  - question: "What is the most common mistake in Web3 Discord management?"
+    options:
+      - "Having too many channels."
+      - "Opening general chat to everyone without verification, leading to bot spam."
+      - "Using too many bots."
+      - "Not having enough moderators."
+    correct: 1
+    explanation: "Unverified open channels attract mass bot spam. The first step in any Web3 Discord is implementing verification gates (Captcha, wallet connect, or role-based access) before users can post."
+  - question: "Why do successful Web3 Discords use 'gated' channels?"
+    options:
+      - "To make the server look exclusive."
+      - "To create tiered access where holders, contributors, and community members get different information and perks."
+      - "Because Discord requires it."
+      - "To reduce server costs."
+    correct: 1
+    explanation: "Gated channels (token-gated, role-gated) create a sense of exclusivity and reward engagement. Token holders get alpha channels, contributors get project updates, and general members get community channels."
 ---
 
 ## Why Discord Matters in Web3

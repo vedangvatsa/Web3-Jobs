@@ -6,46 +6,46 @@ readTime: "10 min"
 difficulty: "beginner"
 prerequisites: ["ethereum"]
 quiz:
- - question: "What is a private key?"
- options:
- - "Your username on a blockchain"
- - "A secret number that lets you spend your crypto"
- - "A password you set when creating a wallet"
- - "The address where you receive crypto"
- correct: 1
- explanation: "A private key is a secret number that proves you own your crypto. Anyone who has your private key can spend your money. You must never share it."
- - question: "What is a seed phrase?"
- options:
- - "A password to log into a website"
- - "A list of 12 or 24 words that can regenerate all your private keys"
- - "A code sent to your email for verification"
- - "The name of your wallet"
- correct: 1
- explanation: "A seed phrase (also called recovery phrase) is 12 or 24 random words. From these words, your wallet can regenerate all your private keys and addresses. If you lose your seed phrase and your device, your crypto is gone forever."
- - question: "What happens if you lose your seed phrase and your device breaks?"
- options:
- - "You can reset it through customer support"
- - "The blockchain will recover your funds"
- - "Your crypto is permanently lost"
- - "Your bank will reimburse you"
- correct: 2
- explanation: "There is no customer support for blockchains. If you lose both your seed phrase and your device, there is no way to recover your crypto. This is why backing up your seed phrase is critical."
- - question: "Which is safer for storing large amounts of crypto?"
- options:
- - "A browser extension wallet"
- - "A mobile wallet app"
- - "A hardware wallet"
- - "A screenshot of your seed phrase"
- correct: 2
- explanation: "Hardware wallets (like Ledger or Trezor) store your private keys on a physical device that never connects to the internet. This makes them nearly impossible to hack remotely."
- - question: "Your wallet address is like a..."
- options:
- - "Password that must stay secret"
- - "Bank account number that you can share publicly"
- - "Social security number"
- - "Credit card number"
- correct: 1
- explanation: "Your wallet address is public, like a bank account number. Anyone can send crypto to it. Your private key is what you keep secret — it is what lets you spend the crypto in that address."
+  - question: "What is a private key?"
+    options:
+      - "Your username on a blockchain"
+      - "A secret number that lets you spend your crypto"
+      - "A password you set when creating a wallet"
+      - "The address where you receive crypto"
+    correct: 1
+    explanation: "A private key is a secret number that proves you own your crypto. Anyone who has your private key can spend your money. You must never share it."
+  - question: "What is a seed phrase?"
+    options:
+      - "A password to log into a website"
+      - "A list of 12 or 24 words that can regenerate all your private keys"
+      - "A code sent to your email for verification"
+      - "The name of your wallet"
+    correct: 1
+    explanation: "A seed phrase (also called recovery phrase) is 12 or 24 random words. From these words, your wallet can regenerate all your private keys and addresses. If you lose your seed phrase and your device, your crypto is gone forever."
+  - question: "What happens if you lose your seed phrase and your device breaks?"
+    options:
+      - "You can reset it through customer support"
+      - "The blockchain will recover your funds"
+      - "Your crypto is permanently lost"
+      - "Your bank will reimburse you"
+    correct: 2
+    explanation: "There is no customer support for blockchains. If you lose both your seed phrase and your device, there is no way to recover your crypto. This is why backing up your seed phrase is critical."
+  - question: "Which is safer for storing large amounts of crypto?"
+    options:
+      - "A browser extension wallet"
+      - "A mobile wallet app"
+      - "A hardware wallet"
+      - "A screenshot of your seed phrase"
+    correct: 2
+    explanation: "Hardware wallets (like Ledger or Trezor) store your private keys on a physical device that never connects to the internet. This makes them nearly impossible to hack remotely."
+  - question: "Your wallet address is like a..."
+    options:
+      - "Password that must stay secret"
+      - "Bank account number that you can share publicly"
+      - "Social security number"
+      - "Credit card number"
+    correct: 1
+    explanation: "Your wallet address is public, like a bank account number. Anyone can send crypto to it. Your private key is what you keep secret — it is what lets you spend the crypto in that address."
 ---
 
 ## Your wallet is your bank account and your ID

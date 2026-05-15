@@ -6,46 +6,46 @@ readTime: "9 min"
 difficulty: "beginner"
 prerequisites: ["gas"]
 quiz:
- - question: "Why does Ethereum need Layer 2 networks?"
- options:
- - "Because Ethereum is broken"
- - "Because Ethereum is too slow and expensive for everyday transactions"
- - "Because Layer 2 replaces Ethereum"
- - "Because regulators require it"
- correct: 1
- explanation: "Ethereum processes ~15-30 transactions per second and fees can reach $20+ during busy periods. Layer 2 networks process thousands of transactions per second at a fraction of the cost."
- - question: "What is a rollup?"
- options:
- - "A type of cryptocurrency"
- - "A Layer 2 that processes transactions off-chain and posts proof to Ethereum"
- - "A method for creating NFTs"
- - "A wallet feature"
- correct: 1
- explanation: "Rollups execute transactions on their own chain, then batch-compress the results and post them to Ethereum. This lets them inherit Ethereum's security while being much faster and cheaper."
- - question: "What is the difference between Optimistic and ZK rollups?"
- options:
- - "Optimistic rollups are faster"
- - "ZK rollups use cryptographic proofs; Optimistic rollups assume validity unless challenged"
- - "They work on different blockchains"
- - "There is no difference"
- correct: 1
- explanation: "Optimistic rollups assume transactions are valid and allow a challenge period (7 days) to dispute fraud. ZK rollups generate a mathematical proof that transactions are valid — no trust or waiting required."
- - question: "Which of these is a Layer 2 network?"
- options:
- - "Bitcoin"
- - "Solana"
- - "Arbitrum"
- - "Cardano"
- correct: 2
- explanation: "Arbitrum is a Layer 2 rollup built on top of Ethereum. Bitcoin and Solana are Layer 1 blockchains. Cardano is also a Layer 1."
- - question: "How do you move assets from Ethereum to a Layer 2?"
- options:
- - "You email the Layer 2 support team"
- - "You use a bridge to transfer tokens from L1 to L2"
- - "Assets automatically appear on Layer 2"
- - "You need to buy new tokens on the Layer 2"
- correct: 1
- explanation: "You use a bridge — a smart contract that locks your tokens on Ethereum and mints equivalent tokens on the Layer 2. When you want to go back, the L2 tokens are burned and the L1 tokens are unlocked."
+  - question: "Why does Ethereum need Layer 2 networks?"
+    options:
+      - "Because Ethereum is broken"
+      - "Because Ethereum is too slow and expensive for everyday transactions"
+      - "Because Layer 2 replaces Ethereum"
+      - "Because regulators require it"
+    correct: 1
+    explanation: "Ethereum processes ~15-30 transactions per second and fees can reach $20+ during busy periods. Layer 2 networks process thousands of transactions per second at a fraction of the cost."
+  - question: "What is a rollup?"
+    options:
+      - "A type of cryptocurrency"
+      - "A Layer 2 that processes transactions off-chain and posts proof to Ethereum"
+      - "A method for creating NFTs"
+      - "A wallet feature"
+    correct: 1
+    explanation: "Rollups execute transactions on their own chain, then batch-compress the results and post them to Ethereum. This lets them inherit Ethereum's security while being much faster and cheaper."
+  - question: "What is the difference between Optimistic and ZK rollups?"
+    options:
+      - "Optimistic rollups are faster"
+      - "ZK rollups use cryptographic proofs; Optimistic rollups assume validity unless challenged"
+      - "They work on different blockchains"
+      - "There is no difference"
+    correct: 1
+    explanation: "Optimistic rollups assume transactions are valid and allow a challenge period (7 days) to dispute fraud. ZK rollups generate a mathematical proof that transactions are valid — no trust or waiting required."
+  - question: "Which of these is a Layer 2 network?"
+    options:
+      - "Bitcoin"
+      - "Solana"
+      - "Arbitrum"
+      - "Cardano"
+    correct: 2
+    explanation: "Arbitrum is a Layer 2 rollup built on top of Ethereum. Bitcoin and Solana are Layer 1 blockchains. Cardano is also a Layer 1."
+  - question: "How do you move assets from Ethereum to a Layer 2?"
+    options:
+      - "You email the Layer 2 support team"
+      - "You use a bridge to transfer tokens from L1 to L2"
+      - "Assets automatically appear on Layer 2"
+      - "You need to buy new tokens on the Layer 2"
+    correct: 1
+    explanation: "You use a bridge — a smart contract that locks your tokens on Ethereum and mints equivalent tokens on the Layer 2. When you want to go back, the L2 tokens are burned and the L1 tokens are unlocked."
 ---
 
 ## The scalability problem

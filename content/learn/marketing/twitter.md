@@ -6,46 +6,46 @@ readTime: "6 min"
 difficulty: "beginner"
 prerequisites: ["community"]
 quiz:
- - question: "What is the primary marketing channel for Web3?"
- options:
- - "Facebook Ads"
- - "Google SEO"
- - "Crypto Twitter (CT)"
- - "LinkedIn Articles"
- correct: 2
- explanation: "Crypto Twitter (CT) is the town square of Web3. It is where narratives are formed, protocols are discovered, and founders interact directly with users."
- - question: "Why are Twitter threads so effective in Web3?"
- options:
- - "They are easy for the algorithm to suppress"
- - "They allow you to break down complex, technical blockchain concepts into digestible, sequential bites"
- - "They cost money to post"
- - "They automatically mint NFTs"
- correct: 1
- explanation: "Web3 concepts (like ZK-rollups or AMM math) are complex. Threads allow marketers and founders to explain these concepts step-by-step in a highly readable format."
- - question: "What is the purpose of 'Building in Public'?"
- options:
- - "To show off how much money you make"
- - "To build trust and a loyal following by transparently sharing product updates, failures, and code as you build"
- - "To complain about competitors"
- - "To leak private user data"
- correct: 1
- explanation: "Web3 values transparency. Founders who tweet about their roadmap, engineering challenges, and metrics build a cult-like following that becomes their first user base."
- - question: "Which content format works best for deep, technical protocol documentation?"
- options:
- - "TikTok videos"
- - "Mirror.xyz or Substack articles"
- - "Instagram Stories"
- - "140-character tweets"
- correct: 1
- explanation: "While Twitter is for discovery, long-form platforms like Mirror (a Web3 blogging platform) or Substack are used for whitepapers, in-depth technical reports, and official protocol announcements."
- - question: "What is a major red flag in Web3 marketing?"
- options:
- - "Posting memes"
- - "Promising guaranteed returns or using excessive hype language (e.g., 'next 100x gem')"
- - "Sharing open-source code"
- - "Hosting AMAs"
- correct: 1
- explanation: "Promising financial returns is legally dangerous and a massive red flag for experienced users. Authentic Web3 marketing focuses on technology, utility, and community, not price hype."
+  - question: "What is the primary marketing channel for Web3?"
+    options:
+      - "Facebook Ads"
+      - "Google SEO"
+      - "Crypto Twitter (CT)"
+      - "LinkedIn Articles"
+    correct: 2
+    explanation: "Crypto Twitter (CT) is the town square of Web3. It is where narratives are formed, protocols are discovered, and founders interact directly with users."
+  - question: "Why are Twitter threads so effective in Web3?"
+    options:
+      - "They are easy for the algorithm to suppress"
+      - "They allow you to break down complex, technical blockchain concepts into digestible, sequential bites"
+      - "They cost money to post"
+      - "They automatically mint NFTs"
+    correct: 1
+    explanation: "Web3 concepts (like ZK-rollups or AMM math) are complex. Threads allow marketers and founders to explain these concepts step-by-step in a highly readable format."
+  - question: "What is the purpose of 'Building in Public'?"
+    options:
+      - "To show off how much money you make"
+      - "To build trust and a loyal following by transparently sharing product updates, failures, and code as you build"
+      - "To complain about competitors"
+      - "To leak private user data"
+    correct: 1
+    explanation: "Web3 values transparency. Founders who tweet about their roadmap, engineering challenges, and metrics build a cult-like following that becomes their first user base."
+  - question: "Which content format works best for deep, technical protocol documentation?"
+    options:
+      - "TikTok videos"
+      - "Mirror.xyz or Substack articles"
+      - "Instagram Stories"
+      - "140-character tweets"
+    correct: 1
+    explanation: "While Twitter is for discovery, long-form platforms like Mirror (a Web3 blogging platform) or Substack are used for whitepapers, in-depth technical reports, and official protocol announcements."
+  - question: "What is a major red flag in Web3 marketing?"
+    options:
+      - "Posting memes"
+      - "Promising guaranteed returns or using excessive hype language (e.g., 'next 100x gem')"
+      - "Sharing open-source code"
+      - "Hosting AMAs"
+    correct: 1
+    explanation: "Promising financial returns is legally dangerous and a massive red flag for experienced users. Authentic Web3 marketing focuses on technology, utility, and community, not price hype."
 ---
 
 ## The Town Square of Crypto

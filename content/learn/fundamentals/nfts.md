@@ -6,46 +6,46 @@ readTime: "9 min"
 difficulty: "beginner"
 prerequisites: ["layer2"]
 quiz:
- - question: "What makes an NFT 'non-fungible'?"
- options:
- - "It cannot be transferred"
- - "Each token is unique and not interchangeable with another"
- - "It is more expensive than regular tokens"
- - "It can only exist on Ethereum"
- correct: 1
- explanation: "Non-fungible means unique. One USDC is identical to any other USDC (fungible). But each NFT has a unique token ID and can represent something different — a specific image, a concert ticket, or a deed."
- - question: "Where is the image for most NFTs stored?"
- options:
- - "Directly on the Ethereum blockchain"
- - "In the smart contract code"
- - "Off-chain, usually on IPFS or a server, with a link stored on-chain"
- - "In your wallet"
- correct: 2
- explanation: "Storing images on-chain is too expensive. Most NFTs store metadata and images on IPFS (a decentralized file system) or centralized servers. The blockchain only stores the token ID and a link to the metadata."
- - question: "What standard do most NFTs on Ethereum use?"
- options:
- - "ERC-20"
- - "ERC-721"
- - "ERC-1559"
- - "ERC-4626"
- correct: 1
- explanation: "ERC-721 is the standard for non-fungible tokens on Ethereum. Each ERC-721 token has a unique ID. ERC-1155 is a newer standard that supports both fungible and non-fungible tokens in one contract."
- - question: "Which is a real use case for NFTs beyond art?"
- options:
- - "Mining cryptocurrency faster"
- - "Event tickets that cannot be counterfeited"
- - "Speeding up internet connections"
- - "Replacing email"
- correct: 1
- explanation: "NFTs can represent event tickets (verifiable, non-counterfeitable), domain names (Ethereum Name Service), game items (tradeable across platforms), and membership passes (token-gated communities)."
- - question: "What does 'royalties' mean for NFTs?"
- options:
- - "A tax the government collects"
- - "A percentage the original creator earns on every resale"
- - "A fee to mint the NFT"
- - "The price increase over time"
- correct: 1
- explanation: "Some NFT marketplaces enforce royalties — a percentage (often 2.5-10%) of every resale goes back to the original creator. This lets artists earn ongoing revenue from their work."
+  - question: "What makes an NFT 'non-fungible'?"
+    options:
+      - "It cannot be transferred"
+      - "Each token is unique and not interchangeable with another"
+      - "It is more expensive than regular tokens"
+      - "It can only exist on Ethereum"
+    correct: 1
+    explanation: "Non-fungible means unique. One USDC is identical to any other USDC (fungible). But each NFT has a unique token ID and can represent something different — a specific image, a concert ticket, or a deed."
+  - question: "Where is the image for most NFTs stored?"
+    options:
+      - "Directly on the Ethereum blockchain"
+      - "In the smart contract code"
+      - "Off-chain, usually on IPFS or a server, with a link stored on-chain"
+      - "In your wallet"
+    correct: 2
+    explanation: "Storing images on-chain is too expensive. Most NFTs store metadata and images on IPFS (a decentralized file system) or centralized servers. The blockchain only stores the token ID and a link to the metadata."
+  - question: "What standard do most NFTs on Ethereum use?"
+    options:
+      - "ERC-20"
+      - "ERC-721"
+      - "ERC-1559"
+      - "ERC-4626"
+    correct: 1
+    explanation: "ERC-721 is the standard for non-fungible tokens on Ethereum. Each ERC-721 token has a unique ID. ERC-1155 is a newer standard that supports both fungible and non-fungible tokens in one contract."
+  - question: "Which is a real use case for NFTs beyond art?"
+    options:
+      - "Mining cryptocurrency faster"
+      - "Event tickets that cannot be counterfeited"
+      - "Speeding up internet connections"
+      - "Replacing email"
+    correct: 1
+    explanation: "NFTs can represent event tickets (verifiable, non-counterfeitable), domain names (Ethereum Name Service), game items (tradeable across platforms), and membership passes (token-gated communities)."
+  - question: "What does 'royalties' mean for NFTs?"
+    options:
+      - "A tax the government collects"
+      - "A percentage the original creator earns on every resale"
+      - "A fee to mint the NFT"
+      - "The price increase over time"
+    correct: 1
+    explanation: "Some NFT marketplaces enforce royalties — a percentage (often 2.5-10%) of every resale goes back to the original creator. This lets artists earn ongoing revenue from their work."
 ---
 
 ## Beyond the hype

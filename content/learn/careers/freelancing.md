@@ -6,46 +6,46 @@ readTime: "7 min"
 difficulty: "beginner"
 prerequisites: ["interviews"]
 quiz:
- - question: "What is a bounty in Web3?"
- options:
- - "A reward for finding bugs in a protocol"
- - "A task posted by a project with a fixed payment for completion"
- - "A type of governance vote"
- - "A staking reward"
- correct: 1
- explanation: "Bounties are tasks posted by projects (build a feature, write docs, design graphics) with a fixed payment. They are a great way to start earning in Web3 without a full-time job."
- - question: "Where can you find Web3 bounties?"
- options:
- - "LinkedIn only"
- - "Platforms like Gitcoin, Dework, Layer3, and project-specific Discord channels"
- - "On the blockchain directly"
- - "Only through personal connections"
- correct: 1
- explanation: "Gitcoin, Dework, and Layer3 are the main bounty platforms. Many projects also post bounties in their Discord or GitHub repositories."
- - question: "What is a 'grant' in Web3?"
- options:
- - "A loan from a bank"
- - "Funding from a protocol's treasury to build something useful for the ecosystem"
- - "A type of token airdrop"
- - "Permission to use the protocol"
- correct: 1
- explanation: "Grants are non-dilutive funding from protocol treasuries. Ethereum Foundation, Uniswap, and Optimism all run grant programs for developers and researchers building useful tools."
- - question: "How are Web3 freelancers typically paid?"
- options:
- - "By check"
- - "Through bank wire"
- - "In stablecoins (USDC, USDT) or native tokens"
- - "In stock options"
- correct: 2
- explanation: "Most Web3 freelance work is paid in stablecoins (USDC, USDT) sent directly to your wallet. Some projects also pay in their native token."
- - question: "What is the best way to build a Web3 freelance reputation?"
- options:
- - "Cold emailing CEOs"
- - "Completing bounties, contributing to open-source, and building in public"
- - "Buying tokens of many projects"
- - "Having a large social media following"
- correct: 1
- explanation: "Completed bounties, merged PRs, and public contributions create a verifiable track record. This reputation compounds — each successful project leads to more opportunities."
+  - question: "What is a bounty in Web3?"
+    options:
+      - "A reward for finding bugs in a protocol"
+      - "A task posted by a project with a fixed payment for completion"
+      - "A type of governance vote"
+      - "A staking reward"
+    correct: 1
+    explanation: "Bounties are tasks posted by projects (build a feature, write docs, design graphics) with a fixed payment. They are a great way to start earning in Web3 without a full-time job."
+  - question: "Where can you find Web3 bounties?"
+    options:
+      - "LinkedIn only"
+      - "Platforms like Gitcoin, Dework, Layer3, and project-specific Discord channels"
+      - "On the blockchain directly"
+      - "Only through personal connections"
+    correct: 1
+    explanation: "Gitcoin, Dework, and Layer3 are the main bounty platforms. Many projects also post bounties in their Discord or GitHub repositories."
+  - question: "What is a 'grant' in Web3?"
+    options:
+      - "A loan from a bank"
+      - "Funding from a protocol's treasury to build something useful for the ecosystem"
+      - "A type of token airdrop"
+      - "Permission to use the protocol"
+    correct: 1
+    explanation: "Grants are non-dilutive funding from protocol treasuries. Ethereum Foundation, Uniswap, and Optimism all run grant programs for developers and researchers building useful tools."
+  - question: "How are Web3 freelancers typically paid?"
+    options:
+      - "By check"
+      - "Through bank wire"
+      - "In stablecoins (USDC, USDT) or native tokens"
+      - "In stock options"
+    correct: 2
+    explanation: "Most Web3 freelance work is paid in stablecoins (USDC, USDT) sent directly to your wallet. Some projects also pay in their native token."
+  - question: "What is the best way to build a Web3 freelance reputation?"
+    options:
+      - "Cold emailing CEOs"
+      - "Completing bounties, contributing to open-source, and building in public"
+      - "Buying tokens of many projects"
+      - "Having a large social media following"
+    correct: 1
+    explanation: "Completed bounties, merged PRs, and public contributions create a verifiable track record. This reputation compounds — each successful project leads to more opportunities."
 ---
 
 ## Why freelancing works in Web3

@@ -6,22 +6,22 @@ readTime: "9 min"
 difficulty: "intermediate"
 prerequisites: ["introduction"]
 quiz:
- - question: "What is a major bottleneck in AI training today?"
- options:
- - "There is too much high-quality data."
- - "Running out of human-generated, high-quality data to train on."
- - "Data is too heavily encrypted."
- - "Humans type too slowly."
- correct: 1
- explanation: "AI models have consumed most of the open internet. To get smarter, they need new, specialized, high-quality human data, which is expensive and hard to source."
- - question: "How do decentralized networks solve the data sourcing problem?"
- options:
- - "By hacking into private databases."
- - "By paying everyday users crypto tokens to provide and verify specialized data."
- - "By replacing data with synthetic data."
- - "By asking the government for data."
- correct: 1
- explanation: "Decentralized data markets use crypto tokens to incentivize humans globally to upload, label, and verify data, effectively crowdsourcing the creation of high-quality training datasets."
+  - question: "What is a major bottleneck in AI training today?"
+    options:
+      - "There is too much high-quality data."
+      - "Running out of human-generated, high-quality data to train on."
+      - "Data is too heavily encrypted."
+      - "Humans type too slowly."
+    correct: 1
+    explanation: "AI models have consumed most of the open internet. To get smarter, they need new, specialized, high-quality human data, which is expensive and hard to source."
+  - question: "How do decentralized networks solve the data sourcing problem?"
+    options:
+      - "By hacking into private databases."
+      - "By paying everyday users crypto tokens to provide and verify specialized data."
+      - "By replacing data with synthetic data."
+      - "By asking the government for data."
+    correct: 1
+    explanation: "Decentralized data markets use crypto tokens to incentivize humans globally to upload, label, and verify data, effectively crowdsourcing the creation of high-quality training datasets."
 ---
 
 ## The Data Wall

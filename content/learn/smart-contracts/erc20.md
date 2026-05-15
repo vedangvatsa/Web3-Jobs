@@ -6,46 +6,46 @@ readTime: "9 min"
 difficulty: "intermediate"
 prerequisites: ["first-contract"]
 quiz:
- - question: "What data structure does an ERC-20 contract use to keep track of everyone's token balances?"
- options:
- - "An array of addresses"
- - "A SQL database"
- - "A mapping linking addresses to integers (mapping(address => uint256))"
- - "A linked list"
- correct: 2
- explanation: "A mapping acts like a dictionary. It links a specific wallet address directly to a uint256 number representing their balance. The tokens do not live in your wallet; they live as a number in the contract's mapping."
- - question: "In Solidity, what is an 'event' used for?"
- options:
- - "To schedule a transaction for the future"
- - "To emit a log to the blockchain that external apps (like frontends or block explorers) can listen to"
- - "To trigger a function automatically"
- - "To pause the contract"
- correct: 1
- explanation: "Events provide a cheap way to log activity. When a transfer happens, the contract emits a Transfer event. Etherscan and frontend UIs listen for these events to update transaction histories."
- - question: "What does the require() statement do in a transfer function?"
- options:
- - "It pays the gas fee"
- - "It checks if the sender has enough balance; if not, it reverts the transaction"
- - "It requires the receiver to accept the transfer"
- - "It asks the owner for permission"
- correct: 1
- explanation: "The require(balances[msg.sender] >= amount) statement ensures you cannot send more tokens than you own. If the condition is false, the transaction fails."
- - question: "What does uint256 stand for?"
- options:
- - "Universal Integer 256"
- - "Unsigned Integer of 256 bits (cannot be negative)"
- - "Union Integer"
- - "Unique Identifier"
- correct: 1
- explanation: "An unsigned integer cannot hold negative numbers. 256 bits means it can hold incredibly large numbers, which is necessary for handling token decimals."
- - question: "Why do most ERC-20 tokens have 18 decimals?"
- options:
- - "Because Ethereum (ETH) has 18 decimals"
- - "Because 18 is the maximum allowed by Solidity"
- - "To make the math harder"
- - "Because the ERC-20 standard requires exactly 18"
- correct: 0
- explanation: "Most tokens use 18 decimals to mirror ETH (1 ETH = 10^18 wei). Solidity does not support decimals/floats natively, so a token balance of '1' is actually represented as '1,000,000,000,000,000,000' in the code."
+  - question: "What data structure does an ERC-20 contract use to keep track of everyone's token balances?"
+    options:
+      - "An array of addresses"
+      - "A SQL database"
+      - "A mapping linking addresses to integers (mapping(address => uint256))"
+      - "A linked list"
+    correct: 2
+    explanation: "A mapping acts like a dictionary. It links a specific wallet address directly to a uint256 number representing their balance. The tokens do not live in your wallet; they live as a number in the contract's mapping."
+  - question: "In Solidity, what is an 'event' used for?"
+    options:
+      - "To schedule a transaction for the future"
+      - "To emit a log to the blockchain that external apps (like frontends or block explorers) can listen to"
+      - "To trigger a function automatically"
+      - "To pause the contract"
+    correct: 1
+    explanation: "Events provide a cheap way to log activity. When a transfer happens, the contract emits a Transfer event. Etherscan and frontend UIs listen for these events to update transaction histories."
+  - question: "What does the require() statement do in a transfer function?"
+    options:
+      - "It pays the gas fee"
+      - "It checks if the sender has enough balance; if not, it reverts the transaction"
+      - "It requires the receiver to accept the transfer"
+      - "It asks the owner for permission"
+    correct: 1
+    explanation: "The require(balances[msg.sender] >= amount) statement ensures you cannot send more tokens than you own. If the condition is false, the transaction fails."
+  - question: "What does uint256 stand for?"
+    options:
+      - "Universal Integer 256"
+      - "Unsigned Integer of 256 bits (cannot be negative)"
+      - "Union Integer"
+      - "Unique Identifier"
+    correct: 1
+    explanation: "An unsigned integer cannot hold negative numbers. 256 bits means it can hold incredibly large numbers, which is necessary for handling token decimals."
+  - question: "Why do most ERC-20 tokens have 18 decimals?"
+    options:
+      - "Because Ethereum (ETH) has 18 decimals"
+      - "Because 18 is the maximum allowed by Solidity"
+      - "To make the math harder"
+      - "Because the ERC-20 standard requires exactly 18"
+    correct: 0
+    explanation: "Most tokens use 18 decimals to mirror ETH (1 ETH = 10^18 wei). Solidity does not support decimals/floats natively, so a token balance of '1' is actually represented as '1,000,000,000,000,000,000' in the code."
 ---
 
 ## Tokens are just spreadsheets

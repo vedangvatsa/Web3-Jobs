@@ -6,46 +6,46 @@ readTime: "9 min"
 difficulty: "beginner"
 prerequisites: ["defi"]
 quiz:
- - question: "What is the most common type of Web3 scam?"
- options:
- - "Hardware wallet theft"
- - "Phishing — fake websites or DMs that trick you into approving malicious transactions"
- - "Blockchain hacking"
- - "Mining scams"
- correct: 1
- explanation: "Phishing is by far the most common attack. Scammers create fake websites that look like real DeFi protocols or send DMs pretending to be 'support.' When you connect your wallet and sign a transaction, they drain your funds."
- - question: "What is a 'token approval' and why is it dangerous?"
- options:
- - "Approving a token listing on an exchange"
- - "Giving a smart contract permission to spend your tokens — a malicious contract can drain your wallet"
- - "Approving a governance proposal"
- - "Creating a new token"
- correct: 1
- explanation: "When you interact with a DeFi protocol, it asks you to 'approve' access to your tokens. A legitimate protocol only uses what it needs. A malicious contract can use that approval to drain your entire balance of that token."
- - question: "What should you do if someone DMs you offering 'free tokens'?"
- options:
- - "Click the link quickly before it expires"
- - "Ask for more details"
- - "Ignore and block — it is almost certainly a scam"
- - "Share it with friends"
- correct: 2
- explanation: "Unsolicited DMs about free tokens, airdrops, or investment opportunities are almost always scams. Legitimate projects do not DM individuals asking them to connect wallets."
- - question: "What is revoke.cash used for?"
- options:
- - "Earning interest on crypto"
- - "Reviewing and revoking token approvals you have given to smart contracts"
- - "Creating new wallets"
- - "Mining cryptocurrency"
- correct: 1
- explanation: "Revoke.cash lets you see all the smart contracts that have permission to spend your tokens. You can revoke approvals you no longer need, reducing your attack surface."
- - question: "Which is the safest practice?"
- options:
- - "Keeping all your crypto in one hot wallet"
- - "Using separate wallets for different purposes (daily use vs savings)"
- - "Sharing your seed phrase with a trusted friend for backup"
- - "Storing your seed phrase in a cloud document"
- correct: 1
- explanation: "Using separate wallets isolates risk. If your daily-use wallet gets compromised, your savings wallet stays safe. Never share your seed phrase with anyone, and never store it digitally."
+  - question: "What is the most common type of Web3 scam?"
+    options:
+      - "Hardware wallet theft"
+      - "Phishing — fake websites or DMs that trick you into approving malicious transactions"
+      - "Blockchain hacking"
+      - "Mining scams"
+    correct: 1
+    explanation: "Phishing is by far the most common attack. Scammers create fake websites that look like real DeFi protocols or send DMs pretending to be 'support.' When you connect your wallet and sign a transaction, they drain your funds."
+  - question: "What is a 'token approval' and why is it dangerous?"
+    options:
+      - "Approving a token listing on an exchange"
+      - "Giving a smart contract permission to spend your tokens — a malicious contract can drain your wallet"
+      - "Approving a governance proposal"
+      - "Creating a new token"
+    correct: 1
+    explanation: "When you interact with a DeFi protocol, it asks you to 'approve' access to your tokens. A legitimate protocol only uses what it needs. A malicious contract can use that approval to drain your entire balance of that token."
+  - question: "What should you do if someone DMs you offering 'free tokens'?"
+    options:
+      - "Click the link quickly before it expires"
+      - "Ask for more details"
+      - "Ignore and block — it is almost certainly a scam"
+      - "Share it with friends"
+    correct: 2
+    explanation: "Unsolicited DMs about free tokens, airdrops, or investment opportunities are almost always scams. Legitimate projects do not DM individuals asking them to connect wallets."
+  - question: "What is revoke.cash used for?"
+    options:
+      - "Earning interest on crypto"
+      - "Reviewing and revoking token approvals you have given to smart contracts"
+      - "Creating new wallets"
+      - "Mining cryptocurrency"
+    correct: 1
+    explanation: "Revoke.cash lets you see all the smart contracts that have permission to spend your tokens. You can revoke approvals you no longer need, reducing your attack surface."
+  - question: "Which is the safest practice?"
+    options:
+      - "Keeping all your crypto in one hot wallet"
+      - "Using separate wallets for different purposes (daily use vs savings)"
+      - "Sharing your seed phrase with a trusted friend for backup"
+      - "Storing your seed phrase in a cloud document"
+    correct: 1
+    explanation: "Using separate wallets isolates risk. If your daily-use wallet gets compromised, your savings wallet stays safe. Never share your seed phrase with anyone, and never store it digitally."
 ---
 
 ## The number one rule

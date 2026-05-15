@@ -6,46 +6,46 @@ readTime: "7 min"
 difficulty: "beginner"
 prerequisites: ["roles"]
 quiz:
- - question: "What programming language do most Ethereum smart contract jobs require?"
- options:
- - "Python"
- - "Java"
- - "Solidity"
- - "C++"
- correct: 2
- explanation: "Solidity is the primary language for Ethereum smart contracts. Nearly every smart contract developer job listing requires it."
- - question: "For a non-technical Web3 role, which skill matters most?"
- options:
- - "Writing Solidity code"
- - "Understanding how tokens, governance, and DeFi work"
- - "Running blockchain nodes"
- - "Cryptography"
- correct: 1
- explanation: "Non-technical roles (PM, marketing, BD) require understanding the product space. If you cannot explain how a DEX works or why governance matters, you cannot market or manage these products."
- - question: "What is Dune Analytics used for?"
- options:
- - "Mining cryptocurrency"
- - "Querying on-chain blockchain data with SQL"
- - "Building smart contracts"
- - "Managing Discord servers"
- correct: 1
- explanation: "Dune Analytics lets you write SQL queries against blockchain data. It is widely used by analysts, PMs, and researchers to track protocol metrics, user behavior, and market trends."
- - question: "Which soft skill do Web3 employers value most?"
- options:
- - "Formal corporate communication"
- - "Self-direction and ability to work independently in a remote environment"
- - "In-person presentation skills"
- - "Multilingual ability"
- correct: 1
- explanation: "Most Web3 teams are small and remote. They need people who can identify problems, propose solutions, and ship without constant supervision. Self-direction is consistently the top soft skill."
- - question: "What frontend library do most Web3 dApps use?"
- options:
- - "Angular"
- - "Vue.js"
- - "React (with Next.js)"
- - "jQuery"
- correct: 2
- explanation: "React (often with Next.js) dominates Web3 frontend development. Libraries like wagmi and viem are built for the React ecosystem, making it the default choice."
+  - question: "What programming language do most Ethereum smart contract jobs require?"
+    options:
+      - "Python"
+      - "Java"
+      - "Solidity"
+      - "C++"
+    correct: 2
+    explanation: "Solidity is the primary language for Ethereum smart contracts. Nearly every smart contract developer job listing requires it."
+  - question: "For a non-technical Web3 role, which skill matters most?"
+    options:
+      - "Writing Solidity code"
+      - "Understanding how tokens, governance, and DeFi work"
+      - "Running blockchain nodes"
+      - "Cryptography"
+    correct: 1
+    explanation: "Non-technical roles (PM, marketing, BD) require understanding the product space. If you cannot explain how a DEX works or why governance matters, you cannot market or manage these products."
+  - question: "What is Dune Analytics used for?"
+    options:
+      - "Mining cryptocurrency"
+      - "Querying on-chain blockchain data with SQL"
+      - "Building smart contracts"
+      - "Managing Discord servers"
+    correct: 1
+    explanation: "Dune Analytics lets you write SQL queries against blockchain data. It is widely used by analysts, PMs, and researchers to track protocol metrics, user behavior, and market trends."
+  - question: "Which soft skill do Web3 employers value most?"
+    options:
+      - "Formal corporate communication"
+      - "Self-direction and ability to work independently in a remote environment"
+      - "In-person presentation skills"
+      - "Multilingual ability"
+    correct: 1
+    explanation: "Most Web3 teams are small and remote. They need people who can identify problems, propose solutions, and ship without constant supervision. Self-direction is consistently the top soft skill."
+  - question: "What frontend library do most Web3 dApps use?"
+    options:
+      - "Angular"
+      - "Vue.js"
+      - "React (with Next.js)"
+      - "jQuery"
+    correct: 2
+    explanation: "React (often with Next.js) dominates Web3 frontend development. Libraries like wagmi and viem are built for the React ecosystem, making it the default choice."
 ---
 
 ## What job descriptions actually ask for

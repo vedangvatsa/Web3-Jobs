@@ -6,22 +6,22 @@ readTime: "11 min"
 difficulty: "advanced"
 prerequisites: ["reentrancy"]
 quiz:
- - question: "What is a zero-knowledge proof?"
- options:
- - "A way to encrypt data so nobody can read it."
- - "A cryptographic method that proves a statement is true without revealing the underlying data."
- - "A consensus mechanism for blockchains."
- - "A type of digital signature."
- correct: 1
- explanation: "Zero-knowledge proofs let you prove something (e.g., 'I have enough balance to make this transaction') without revealing the actual data (your balance). The verifier learns nothing except that the statement is true."
- - question: "How do ZK-Rollups improve blockchain scalability?"
- options:
- - "By running on faster hardware."
- - "By batching thousands of transactions off-chain and posting a single proof to the main chain that verifies all of them."
- - "By reducing the size of each transaction."
- - "By using a different programming language."
- correct: 1
- explanation: "ZK-Rollups execute transactions off-chain, then generate a cryptographic proof that all transactions were valid. Only the proof (not all the transaction data) needs to be verified on-chain, dramatically reducing costs."
+  - question: "What is a zero-knowledge proof?"
+    options:
+      - "A way to encrypt data so nobody can read it."
+      - "A cryptographic method that proves a statement is true without revealing the underlying data."
+      - "A consensus mechanism for blockchains."
+      - "A type of digital signature."
+    correct: 1
+    explanation: "Zero-knowledge proofs let you prove something (e.g., 'I have enough balance to make this transaction') without revealing the actual data (your balance). The verifier learns nothing except that the statement is true."
+  - question: "How do ZK-Rollups improve blockchain scalability?"
+    options:
+      - "By running on faster hardware."
+      - "By batching thousands of transactions off-chain and posting a single proof to the main chain that verifies all of them."
+      - "By reducing the size of each transaction."
+      - "By using a different programming language."
+    correct: 1
+    explanation: "ZK-Rollups execute transactions off-chain, then generate a cryptographic proof that all transactions were valid. Only the proof (not all the transaction data) needs to be verified on-chain, dramatically reducing costs."
 ---
 
 ## What Are Zero-Knowledge Proofs?

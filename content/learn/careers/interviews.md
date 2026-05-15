@@ -6,46 +6,46 @@ readTime: "8 min"
 difficulty: "beginner"
 prerequisites: ["resume"]
 quiz:
- - question: "What type of question is most common in Web3 interviews?"
- options:
- - "Brain teasers"
- - "Questions about your understanding of blockchain technology and its trade-offs"
- - "Personality tests"
- - "Questions about your investment portfolio"
- correct: 1
- explanation: "Web3 interviews focus on whether you understand the technology, its trade-offs, and how it applies to the product. Interviewers want to know you can think critically about blockchain, not just recite definitions."
- - question: "For a smart contract developer interview, what should you practice?"
- options:
- - "Whiteboard algorithm puzzles"
- - "Writing and analyzing Solidity code, understanding common vulnerabilities"
- - "System design for microservices"
- - "SQL queries"
- correct: 1
- explanation: "Smart contract interviews focus on Solidity: writing contracts, identifying bugs (reentrancy, overflow), understanding gas optimization, and explaining ERC standards."
- - question: "What is a 'take-home project' in Web3 hiring?"
- options:
- - "Homework about cryptocurrency prices"
- - "A small project (build a dApp, write a contract) you complete on your own time"
- - "A written essay about blockchain"
- - "A personality assessment"
- correct: 1
- explanation: "Many Web3 companies use take-home projects instead of whiteboard interviews. You might be asked to build a simple dApp, write a smart contract, or create a Dune dashboard."
- - question: "How should you answer 'Why Web3?' in an interview?"
- options:
- - "Talk about wanting to get rich from crypto"
- - "Be honest about what specifically interests you — a protocol, a problem, a technology"
- - "Say you want to work remotely"
- - "Mention you heard salaries are high"
- correct: 1
- explanation: "Interviewers want genuine interest. Talk about a specific protocol you use, a problem you find interesting, or a project you built. Generic answers about 'the future of finance' are not convincing."
- - question: "What should you always do before a Web3 interview?"
- options:
- - "Buy the company's token"
- - "Use the company's product and be ready to discuss it specifically"
- - "Memorize the Bitcoin whitepaper"
- - "Follow the CEO on all social media"
- correct: 1
- explanation: "Nothing impresses interviewers more than a candidate who has actually used their product and can discuss it intelligently — what works, what does not, and what they would improve."
+  - question: "What type of question is most common in Web3 interviews?"
+    options:
+      - "Brain teasers"
+      - "Questions about your understanding of blockchain technology and its trade-offs"
+      - "Personality tests"
+      - "Questions about your investment portfolio"
+    correct: 1
+    explanation: "Web3 interviews focus on whether you understand the technology, its trade-offs, and how it applies to the product. Interviewers want to know you can think critically about blockchain, not just recite definitions."
+  - question: "For a smart contract developer interview, what should you practice?"
+    options:
+      - "Whiteboard algorithm puzzles"
+      - "Writing and analyzing Solidity code, understanding common vulnerabilities"
+      - "System design for microservices"
+      - "SQL queries"
+    correct: 1
+    explanation: "Smart contract interviews focus on Solidity: writing contracts, identifying bugs (reentrancy, overflow), understanding gas optimization, and explaining ERC standards."
+  - question: "What is a 'take-home project' in Web3 hiring?"
+    options:
+      - "Homework about cryptocurrency prices"
+      - "A small project (build a dApp, write a contract) you complete on your own time"
+      - "A written essay about blockchain"
+      - "A personality assessment"
+    correct: 1
+    explanation: "Many Web3 companies use take-home projects instead of whiteboard interviews. You might be asked to build a simple dApp, write a smart contract, or create a Dune dashboard."
+  - question: "How should you answer 'Why Web3?' in an interview?"
+    options:
+      - "Talk about wanting to get rich from crypto"
+      - "Be honest about what specifically interests you — a protocol, a problem, a technology"
+      - "Say you want to work remotely"
+      - "Mention you heard salaries are high"
+    correct: 1
+    explanation: "Interviewers want genuine interest. Talk about a specific protocol you use, a problem you find interesting, or a project you built. Generic answers about 'the future of finance' are not convincing."
+  - question: "What should you always do before a Web3 interview?"
+    options:
+      - "Buy the company's token"
+      - "Use the company's product and be ready to discuss it specifically"
+      - "Memorize the Bitcoin whitepaper"
+      - "Follow the CEO on all social media"
+    correct: 1
+    explanation: "Nothing impresses interviewers more than a candidate who has actually used their product and can discuss it intelligently — what works, what does not, and what they would improve."
 ---
 
 ## What Web3 interviews look like
