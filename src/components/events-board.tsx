@@ -66,22 +66,21 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             className="w-full pl-11 pr-4 py-3 bg-[#fafafa] dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-lg text-sm text-zinc-900 dark:text-zinc-100 placeholder:text-zinc-500 focus:outline-none focus:ring-2 focus:ring-zinc-400 dark:focus:ring-zinc-600 transition-all"
           />
         </div>
-        <div className="flex gap-2 flex-wrap md:flex-nowrap overflow-x-auto pb-2 md:pb-0 hide-scrollbar items-center">
-          <button 
-            className={`px-4 py-2 text-sm rounded-full transition-colors whitespace-nowrap ${locationFilter === null ? 'bg-zinc-900 text-white dark:bg-white dark:text-zinc-900' : 'bg-zinc-100 text-zinc-600 hover:bg-zinc-200 dark:bg-zinc-900 dark:text-zinc-400 dark:hover:bg-zinc-800'}`}
-            onClick={() => setLocationFilter(null)}
+        <div className="relative md:w-64 shrink-0">
+          <MapPin className="absolute left-4 top-1/2 -translate-y-1/2 h-4 w-4 text-zinc-400" />
+          <select
+            value={locationFilter || ''}
+            onChange={(e) => setLocationFilter(e.target.value === '' ? null : e.target.value)}
+            className="w-full pl-11 pr-10 py-3 appearance-none bg-[#fafafa] dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-lg text-sm text-zinc-900 dark:text-zinc-100 focus:outline-none focus:ring-2 focus:ring-zinc-400 dark:focus:ring-zinc-600 transition-all cursor-pointer"
           >
-            All Locations
-          </button>
-          {locations.map(loc => (
-            <button 
-              key={loc}
-              className={`px-4 py-2 text-sm rounded-full transition-colors whitespace-nowrap ${locationFilter === loc ? 'bg-zinc-900 text-white dark:bg-white dark:text-zinc-900' : 'bg-zinc-100 text-zinc-600 hover:bg-zinc-200 dark:bg-zinc-900 dark:text-zinc-400 dark:hover:bg-zinc-800'}`}
-              onClick={() => setLocationFilter(loc)}
-            >
-              {loc}
-            </button>
-          ))}
+            <option value="">All Locations</option>
+            {locations.map(loc => (
+              <option key={loc} value={loc}>{loc}</option>
+            ))}
+          </select>
+          <div className="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-zinc-400">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+          </div>
         </div>
       </div>
 
