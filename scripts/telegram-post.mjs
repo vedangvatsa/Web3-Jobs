@@ -258,6 +258,7 @@ async function sendToTelegram(message) {
       reply_markup: {
         inline_keyboard: [
           [{ text: 'Turn your CV into a Website', url: 'https://cvin.bio/?utm_source=social&utm_medium=telegram' }],
+          [{ text: 'Tech Jobs', url: 'https://t.me/techjobsdaily' }],
         ],
       },
     }),
