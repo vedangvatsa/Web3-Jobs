@@ -8,48 +8,63 @@ const __dirname = path.dirname(__filename);
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 
 // ─── Web3 Relevance Filter ─────────────────────────────────────────────
-const WEB3_KEYWORDS = [
-  'web3', 'crypto', 'blockchain', 'bitcoin', 'btc', 'ethereum', 'eth ',
-  'defi', 'nft', 'dao', 'dapp', 'solana', 'polygon', 'matic',
-  'arbitrum', 'optimism', 'zk', 'layer 2', 'l2', 'rollup',
-  'token', 'stablecoin', 'staking', 'smart contract', 'consensus',
-  'decentralized', 'decentralisation', 'decentralization',
-  'metaverse', 'gamefi', 'wallet', 'ledger', 'metamask', 'phantom',
-  'ipfs', 'filecoin', 'arweave', 'cosmos', 'polkadot', 'avalanche',
-  'sui', 'aptos', 'monad', 'chainlink',
-  'eigenlayer', 'restaking', 'celestia',
-  'coinbase', 'binance', 'okx', 'kraken',
-  'uniswap', 'aave', 'maker', 'compound', 'curve',
+// STRONG keywords: unambiguously Web3/crypto — a single match is enough
+const STRONG_KEYWORDS = [
+  'web3', 'web 3', 'crypto', 'cryptocurrency', 'blockchain', 'block chain',
+  'bitcoin', 'bit coin', 'ethereum', 'defi', 'nft', 'dao',
+  'dapp', 'solana', 'polygon', 'matic', 'arbitrum', 'optimism',
+  'rollup', 'stablecoin', 'staking', 'restaking', 'smart contract',
+  'decentralized finance', 'decentralised finance',
+  'metaverse', 'gamefi', 'socialfi', 'depin',
+  'metamask', 'phantom wallet', 'ipfs', 'filecoin', 'arweave',
+  'cosmos', 'polkadot', 'avalanche', 'chainlink',
+  'eigenlayer', 'celestia', 'monad', 'berachain',
+  'coinbase', 'binance', 'okx', 'kraken', 'bybit',
+  'uniswap', 'aave', 'compound', 'curve finance', 'lido',
   'ethglobal', 'ethdenver', 'ethcc', 'devcon', 'token2049',
-  'hackathon', 'buildathon', 'hacker house', 'mining', 'miner',
   'rwa', 'on-chain', 'onchain', 'mainnet', 'testnet',
-  'airdrop', 'farcaster', 'socialfi', 'digital asset',
+  'airdrop', 'farcaster', 'digital asset',
   'memecoin', 'meme coin', 'pragma', 'starknet', 'wormhole',
-  'layerzero', 'brc-20',
-  'dex', 'cex', 'amm', 'liquidity',
-  'opensea', 'blur', 'nft',
-  'web 3', 'block chain', 'bit coin', 'ether',
+  'layerzero', 'brc-20', 'opensea', 'blur nft',
   'tron', 'cardano', 'ripple', 'xrp', 'dogecoin', 'shiba',
-  'depin', 'zkp', 'zero knowledge', 'zk-snark', 'zk-stark',
+  'zk-snark', 'zk-stark', 'zero knowledge proof',
   'ico', 'ido', 'ieo', 'launchpad',
-  'validator', 'node operator', 'proof of work', 'proof of stake'
+  'proof of work', 'proof of stake', 'hacker house',
+  'buildathon', 'aptos', 'sui network', 'sui blockchain',
+  'near protocol', 'bnb chain', 'base chain',
+  'web3 festival', 'coinfest', 'consensus 20',
+  'decentralized', 'decentralised',
+  'apecoin', 'bayc', 'bored ape', 'cryptopunk',
+  'ethconf', 'ethberlin', 'ethsafari', 'ethseoul', 'ethtaipei',
+  'hedera', 'icp', 'internet computer', 'zkync', 'zksync',
+  'superteam', 'encode club',
+];
+
+// WEAK keywords: common English words that ALSO appear in crypto.
+// These only count if ANOTHER keyword (strong or weak) co-occurs.
+const WEAK_KEYWORDS = [
+  'token', 'mining', 'miner', 'wallet', 'ledger', 'consensus',
+  'liquidity', 'validator', 'node operator', 'dex', 'cex', 'amm',
+  'hackathon', 'ether', 'maker',
 ];
 
 function isWeb3Relevant(name, description = '') {
   if (!name) return false;
   const text = `${name} ${description || ''}`.toLowerCase();
-  
-  // Exclude events that are just generic tech hackathons unless they mention crypto
-  if (text.includes('hackathon') && !WEB3_KEYWORDS.some(kw => kw !== 'hackathon' && text.includes(kw))) {
-    return false;
-  }
 
-  // Exact word boundary checks for very short keywords
-  if (/\b(zk|l2|eth|btc)\b/.test(text)) return true;
+  // Exact word boundary checks for very short unambiguous keywords
+  if (/\b(web3|btc|nft|dao|defi|zk|l2)\b/i.test(text)) return true;
+  // "eth" only as a standalone word (not "teeth", "seth", "method")
+  if (/(?:^|\s|\/)eth(?:\s|$|\b)/i.test(text)) return true;
 
-  // Filter out the short ones from the general `includes` check to avoid false positives like "teeth" (eth)
-  const safeKeywords = WEB3_KEYWORDS.filter(kw => !['zk', 'l2', 'eth', 'btc'].includes(kw));
-  return safeKeywords.some(kw => text.includes(kw));
+  // Check strong keywords — a single match is sufficient
+  if (STRONG_KEYWORDS.some(kw => text.includes(kw))) return true;
+
+  // Check weak keywords — require at least 2 co-occurring matches
+  const weakMatches = WEAK_KEYWORDS.filter(kw => text.includes(kw));
+  if (weakMatches.length >= 2) return true;
+
+  return false;
 }
 
 // ─── Cities for Luma geo-discovery ──────────────────────────────────────
@@ -172,7 +187,11 @@ const LUMA_COMMUNITIES = [
   'a16zcrypto', 'paradigm', 'multicoin', 'panteracapital', 'framework',
   'buidlguidl', 'gitcoin', 'celo', 'aptos', 'sui',
   'berachain', 'monad', 'movementlabs', 'nearprotocol', 'bnbchain',
-  'developerdao', 'boysclub', 'shefi', 'cryptomondays', 'ethereum'
+  'developerdao', 'boysclub', 'shefi', 'cryptomondays', 'ethereum',
+  'hkweb3', 'ethseoul', 'ethtaipei', 'ethlondon', 'ethsafari',
+  'wgmi', 'bankless', 'defiance-capital', 'dydx', 'scroll',
+  'Web3_Events', 'DecentralHouse', 'WEB3SG', 'web3hubdavos',
+  'calendar/cal-EjxsY533E9N5pz2',
 ];
 
 async function fetchLumaCommunity(slug) {
@@ -447,7 +466,107 @@ async function fetchETHGlobal() {
 }
 
 // ═══════════════════════════════════════════════════════════════════════
-// SOURCE 6: CoinMarketCap Events (__NEXT_DATA__)
+// SOURCE 6: DeepTechTimes Web3 Events (HTML)
+// ═══════════════════════════════════════════════════════════════════════
+async function fetchDeepTechTimes() {
+  try {
+    const { load } = await import('cheerio');
+    const res = await fetch('https://deeptechtimes.com/web3events/', { headers: { 'User-Agent': UA } });
+    if (!res.ok) return [];
+    const html = await res.text();
+    const $ = load(html);
+    const events = [];
+
+    $('h3').each((_, el) => {
+      const anchor = $(el).find('a');
+      if (!anchor.length) return;
+      const rawText = $(el).text().replace(/\s+/g, ' ').trim();
+      const url = anchor.attr('href');
+      if (!url || !rawText) return;
+
+      // Parse: "EVENT NAMEMonthName DD-DD, YYYYCity"
+      const nameMatch = rawText.match(/^(.+?)(January|February|March|April|May|June|July|August|September|October|November|December)/i);
+      if (!nameMatch) return;
+      const name = nameMatch[1].trim();
+
+      const dateMatch = rawText.match(/(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})(?:[-–]\d{1,2})?,?\s*(\d{4})/i);
+      let startDate = '';
+      if (dateMatch) {
+        startDate = new Date(`${dateMatch[1]} ${dateMatch[2]}, ${dateMatch[3]}`).toISOString();
+      }
+
+      const locMatch = rawText.match(/\d{4}(.+)$/);
+      const location = locMatch ? locMatch[1].trim() : 'TBA';
+
+      if (name && startDate) {
+        events.push({
+          id: `dtt-${name.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 40)}`,
+          name,
+          description: '',
+          startDate,
+          endDate: startDate,
+          city: location,
+          country: '',
+          location,
+          url: url.startsWith('http') ? url : `https://deeptechtimes.com${url}`,
+          coverImage: null,
+          source: 'deeptechtimes',
+        });
+      }
+    });
+
+    return events;
+  } catch { return []; }
+}
+
+// ═══════════════════════════════════════════════════════════════════════
+// SOURCE 7b: MarketAcross Crypto Events (embedded JSON)
+// ═══════════════════════════════════════════════════════════════════════
+async function fetchMarketAcross() {
+  try {
+    const res = await fetch('https://marketacross.com/crypto-events/', { headers: { 'User-Agent': UA } });
+    if (!res.ok) return [];
+    const html = await res.text();
+
+    // MarketAcross embeds event data as JSON arrays in code blocks
+    const jsonMatches = html.match(/\[\s*\{\s*"title"\s*:.*?"url"\s*:.*?\}\s*\]/gs) || [];
+    const events = [];
+    const seen = new Set();
+
+    for (const jsonStr of jsonMatches) {
+      try {
+        const items = JSON.parse(jsonStr);
+        for (const item of items) {
+          if (!item.title || !item.start_date || seen.has(item.title)) continue;
+          seen.add(item.title);
+
+          const startDate = new Date(item.start_date).toISOString();
+          const endDate = item.end_date ? new Date(item.end_date).toISOString() : startDate;
+
+          events.push({
+            id: `ma-${item.title.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 50)}`,
+            name: item.title,
+            description: (item.description || '').slice(0, 200),
+            startDate,
+            endDate,
+            city: item.location || '',
+            country: item.country || '',
+            location: item.location && item.country
+              ? `${item.location}, ${item.country}`
+              : item.location || item.country || 'TBA',
+            url: item.url || '',
+            coverImage: (item.img && !item.img.includes('placeholder')) ? item.img : null,
+            source: 'marketacross',
+          });
+        }
+      } catch { /* skip malformed JSON block */ }
+    }
+    return events;
+  } catch { return []; }
+}
+
+// ═══════════════════════════════════════════════════════════════════════
+// SOURCE 8: CoinMarketCap Events (__NEXT_DATA__)
 // ═══════════════════════════════════════════════════════════════════════
 async function fetchCoinMarketCap() {
   try {
@@ -560,12 +679,26 @@ async function fetchWeb3Events() {
   ethgEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
   console.log(`[ETHGlobal] +${allEventsMap.size - egBefore} events`);
 
-  // ── 7. CoinMarketCap ──
+  // ── 7. DeepTechTimes ──
+  console.log(`\n[DeepTechTimes] Fetching curated Web3 events...`);
+  let dttBefore = allEventsMap.size;
+  const dttEvents = await fetchDeepTechTimes();
+  dttEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+  console.log(`[DeepTechTimes] +${allEventsMap.size - dttBefore} events`);
+
+  // ── 8. CoinMarketCap ──
   console.log(`\n[CoinMarketCap] Fetching token events...`);
   let cmcBefore = allEventsMap.size;
   const cmcEvents = await fetchCoinMarketCap();
   cmcEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
   console.log(`[CoinMarketCap] +${allEventsMap.size - cmcBefore} events`);
+
+  // ── 9. MarketAcross ──
+  console.log(`\n[MarketAcross] Fetching curated crypto events...`);
+  let maBefore = allEventsMap.size;
+  const maEvents = await fetchMarketAcross();
+  maEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+  console.log(`[MarketAcross] +${allEventsMap.size - maBefore} events`);
 
   // Blacklist: catch obvious non-Web3 spam
   const BLACKLIST = [
