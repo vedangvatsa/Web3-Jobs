@@ -933,6 +933,12 @@ async function fetchWeb3Events() {
     'set in stone', 'city break', 'financial education event',
     'finance expo', 'fintech hub', 'mindful leadership',
     'cosmic abundance', 'cultivating clarity',
+    // Audit round 3: final sweep
+    'coluxchain', 'applied cryptography', 'cryptography, coding',
+    'informatics and applications', 'michale graves',
+    'wiki finance expo', 'dubai predict', 'future world expo',
+    'online degree', 'crypto masterclass', 'master blockchain',
+    'task force meeting', 'conviction 2026', 'future money conference',
   ];
   function isBlacklisted(name) {
     if (!name) return false;
