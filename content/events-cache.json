@@ -266,20 +266,6 @@
     "month": "May 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-informatics-and-applications-icia-2026",
-    "name": "International Conference on Informatics and Applications (ICIA)",
-    "description": "",
-    "startDate": "2026-05-17T16:00:00.000Z",
-    "endDate": "2026-05-17T16:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://conferenceindex.org/event/international-conference-on-informatics-and-applications-icia-2026-may-berlin-de",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "May 2026"
-  },
-  {
     "id": "luma-evt-mnwquKEdWYFjnBp",
     "name": "Mongolian Silicon Valley Tech Community Meetup",
     "description": "",
@@ -4004,20 +3990,6 @@
     "month": "May 2026"
   },
   {
-    "id": "eb-1989093914443",
-    "name": "ColuxChain Leeds Meetup",
-    "description": "It's the Crypto Tour de Yorkshire! Starting in Leeds, it'll be a great night - free to attend, pool tables, great chat and plenty of laughs!",
-    "startDate": "2026-05-27",
-    "endDate": "2026-05-27",
-    "city": "Leeds",
-    "country": "GB",
-    "location": "Leeds, GB",
-    "url": "https://www.eventbrite.com/e/coluxchain-leeds-meetup-tickets-1989093914443",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184115436%2F2991145359223%2F1%2Foriginal.20260508-125249?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.618&fp-y=0.461&s=0e75e6287cb5787bf0e04beeb2e6729a",
-    "source": "eventbrite",
-    "month": "May 2026"
-  },
-  {
     "id": "eb-1976687514567",
     "name": "Intro to Blockchain for Non-Developers – 1 Day Course, Houston, TX",
     "description": "Learn blockchain in clear, business-friendly terms & understand when and how it delivers real value—without any coding or technical complexi",
@@ -7504,20 +7476,6 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1989094293577",
-    "name": "ColuxChain York Meetup",
-    "description": "It's the Crypto Tour de Yorkshire! Next Stop - York. It'll be a great night - free to attend, great chat and plenty of laughs!",
-    "startDate": "2026-06-24",
-    "endDate": "2026-06-24",
-    "city": "York",
-    "country": "GB",
-    "location": "York, GB",
-    "url": "https://www.eventbrite.com/e/coluxchain-york-meetup-tickets-1989094293577",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184116322%2F2991145359223%2F1%2Foriginal.20260508-130420?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.527&fp-y=0.042&s=b4f88a8ab4829b73aabe3f0fe16dec3c",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1985751389862",
     "name": "Blockchain and Business Networking - Trinity-Bellwoods",
     "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Compton Ave! 18+. Limited Tickets.",
@@ -7994,20 +7952,6 @@
     "month": "July 2026"
   },
   {
-    "id": "eb-1989433967551",
-    "name": "Digital Asset Regulatory Authority: Burundi Task Force Meeting",
-    "description": "Join the online Task Force meeting to shape digital asset regulations together!",
-    "startDate": "2026-07-13",
-    "endDate": "2026-07-17",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com/e/digital-asset-regulatory-authority-burundi-task-force-meeting-tickets-1989433967551",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184559592%2F1715137040773%2F1%2Foriginal.20260514-011348?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ca996b8779fcdb65f1e1ea68f0fc0510",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1520453680889",
     "name": "2026 Blockchain Futurist Conference Toronto - Canada's Largest Web3 Event",
     "description": "9th Annual - Canada's Largest & Longest Running Web3 Conference,  showcases top leaders in Crypto, Web3, AI, DeFi, and more!",
@@ -8106,20 +8050,6 @@
     "month": "July 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-coding-and-information-se",
-    "name": "International Conference on Cryptography, Coding and Information Security (ICCCIS)",
-    "description": "",
-    "startDate": "2026-07-25T16:00:00.000Z",
-    "endDate": "2026-07-25T16:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://conferenceindex.org/event/international-conference-on-cryptography-coding-and-information-security-icccis-2026-july-london-gb",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-artificial-intelligence-and",
     "name": "International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys)",
     "description": "",
@@ -8131,20 +8061,6 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-artificial-intelligence-and-trustworthy-systems-blocksys-2026-july-chengdu-cn",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "July 2026"
-  },
-  {
-    "id": "eb-1989094644627",
-    "name": "ColuxChain Bradford Meetup",
-    "description": "It's the Crypto Tour de Yorkshire! Next stop - Bradford. It'll be a great night - free to attend, good chat and plenty of laughs.",
-    "startDate": "2026-07-29",
-    "endDate": "2026-07-29",
-    "city": "Bradford",
-    "country": "GB",
-    "location": "Bradford, GB",
-    "url": "https://www.eventbrite.com/e/coluxchain-bradford-meetup-tickets-1989094644627",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184117185%2F2991145359223%2F1%2Foriginal.20260508-131450?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ac24c22e4d42779e3018610e1def9193",
-    "source": "eventbrite",
     "month": "July 2026"
   },
   {
@@ -8176,20 +8092,6 @@
     "month": "August 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-applied-cryptography-icac-2026-august-",
-    "name": "International Conference on Applied Cryptography (ICAC)",
-    "description": "",
-    "startDate": "2026-08-11T16:00:00.000Z",
-    "endDate": "2026-08-11T16:00:00.000Z",
-    "city": "Venice",
-    "country": "Italy",
-    "location": "Venice, Italy",
-    "url": "https://conferenceindex.org/event/international-conference-on-applied-cryptography-icac-2026-august-venice-it",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "August 2026"
-  },
-  {
     "id": "eb-1982328587167",
     "name": "Indonesia Blockchain Week Summit 2026",
     "description": "Indonesia Blockchain Week Summit 2026, 12–13 August at JICC. Join thousands of builders, investors, and leaders shaping blockchain adoption.",
@@ -8218,62 +8120,6 @@
     "month": "August 2026"
   },
   {
-    "id": "eb-1981837540433",
-    "name": "CONVICTION 2026",
-    "description": "CONVICTION 2026 is a forum connecting Vietnam to the global digital asset economy",
-    "startDate": "2026-08-14",
-    "endDate": "2026-08-15",
-    "city": "Ho Chi Minh",
-    "country": "VN",
-    "location": "Ho Chi Minh, VN",
-    "url": "https://www.eventbrite.com/e/conviction-2026-tickets-1981837540433",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182851066%2F2990221793201%2F1%2Foriginal.20260423-072509?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.468&fp-y=0.51&s=755c4f597ecd6f9d8884384287a15efb",
-    "source": "eventbrite",
-    "month": "August 2026"
-  },
-  {
-    "id": "eb-1981282779127",
-    "name": "Complete Crypto Masterclass: Bitcoin, NFTs, DeFi & Metaverse",
-    "description": "Understand the complete digital asset ecosystem, including investing, blockchain, DeFi platforms, and NFT markets.",
-    "startDate": "2026-08-15",
-    "endDate": "2026-08-15",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.co.uk/e/complete-crypto-masterclass-bitcoin-nfts-defi-metaverse-tickets-1981282779127",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1019941363%2F569932215961%2F1%2Foriginal.20250430-101426?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2048%2C1024&s=d408448902272853757d5e2373170045",
-    "source": "eventbrite",
-    "month": "August 2026"
-  },
-  {
-    "id": "eb-1981995461780",
-    "name": "Master Blockchain & Cryptocurrency Skills with Online Degree",
-    "description": "Gain blockchain & crypto expertise in this career-boosting online courses with certification.",
-    "startDate": "2026-08-15",
-    "endDate": "2026-08-15",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.co.uk/e/master-blockchain-cryptocurrency-skills-with-online-degree-tickets-1981995461780",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1026097143%2F569932215961%2F1%2Foriginal.20250508-085053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=85db2183f7b4f849c27841464a54766b",
-    "source": "eventbrite",
-    "month": "August 2026"
-  },
-  {
-    "id": "eb-1987200812123",
-    "name": "Michale Graves - CDMX 2026",
-    "description": "Michale Graves, legendario Ex Vocalista de The Misfits regresa a Ciudad de México!",
-    "startDate": "2026-08-15",
-    "endDate": "2026-08-15",
-    "city": "Ciudad de México",
-    "country": "MX",
-    "location": "Ciudad de México, MX",
-    "url": "https://www.eventbrite.com.mx/e/michale-graves-cdmx-2026-tickets-1987200812123",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182153880%2F1367326219283%2F1%2Foriginal.20260414-171852?w=400&auto=format%2Ccompress&q=75&sharp=10&s=af5eb27058998e543dddded98ddcebf6",
-    "source": "eventbrite",
-    "month": "August 2026"
-  },
-  {
     "id": "dtt-coinfest-asia-2026",
     "name": "COINFEST ASIA 2026",
     "description": "",
@@ -8298,20 +8144,6 @@
     "location": "New York, US",
     "url": "https://www.eventbrite.com/e/bitcoinaltcoins-cryptocurrency-enthusiast-night-crypto-gathering-tickets-1981206450827",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F915313803%2F240086305688%2F1%2Foriginal.20241211-003921?w=348&auto=format%2Ccompress&q=75&sharp=10&s=1eb00b63d9ee11430ad5363e8436b893",
-    "source": "eventbrite",
-    "month": "August 2026"
-  },
-  {
-    "id": "eb-1989094775017",
-    "name": "ColuxChain Sheffield Meetup",
-    "description": "It's the Crypto Tour de Yorkshire! Next stop - Sheffield! It'll be a great night - free to attend, good chat and plenty of laughs.",
-    "startDate": "2026-08-26",
-    "endDate": "2026-08-26",
-    "city": "Sheffield City Centre",
-    "country": "GB",
-    "location": "Sheffield City Centre, GB",
-    "url": "https://www.eventbrite.com/e/coluxchain-sheffield-meetup-tickets-1989094775017",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184117561%2F2991145359223%2F1%2Foriginal.20260508-132102?crop=focalpoint&fit=crop&w=454&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4c95e4e3f3945fd6c56ee9d9fdd95835",
     "source": "eventbrite",
     "month": "August 2026"
   },
@@ -8442,20 +8274,6 @@
     "month": "September 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-applied-cryptography-icac-2026-septemb",
-    "name": "International Conference on Applied Cryptography (ICAC)",
-    "description": "",
-    "startDate": "2026-09-19T16:00:00.000Z",
-    "endDate": "2026-09-19T16:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://conferenceindex.org/event/international-conference-on-applied-cryptography-icac-2026-september-toronto-ca",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "September 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-pragma-pragma-2026-september-tokyo-jp",
     "name": "Pragma (PRAGMA)",
     "description": "",
@@ -8568,34 +8386,6 @@
     "month": "October 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-applied-cryptography-icac-2026-october",
-    "name": "International Conference on Applied Cryptography (ICAC)",
-    "description": "",
-    "startDate": "2026-10-24T16:00:00.000Z",
-    "endDate": "2026-10-24T16:00:00.000Z",
-    "city": "Houston",
-    "country": "United States",
-    "location": "Houston, United States",
-    "url": "https://conferenceindex.org/event/international-conference-on-applied-cryptography-icac-2026-october-houston-us",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "October 2026"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-applied-cryptography-icac-2026-novembe",
-    "name": "International Conference on Applied Cryptography (ICAC)",
-    "description": "",
-    "startDate": "2026-11-03T16:00:00.000Z",
-    "endDate": "2026-11-03T16:00:00.000Z",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://conferenceindex.org/event/international-conference-on-applied-cryptography-icac-2026-november-amsterdam-nl",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "November 2026"
-  },
-  {
     "id": "luma-host-evt-ktYtj2edpeRFLQd",
     "name": "Cosmoverse Hong Kong - Institutional Digital Asset Summit",
     "description": "The digital asset summit where institutions meet blockchain infrastructure. Coming to Hong Kong November 2026 | #Cosmoverse26",
@@ -8610,20 +8400,6 @@
     "month": "November 2026"
   },
   {
-    "id": "eb-1252591979329",
-    "name": "Future World Expo DubAI Exhibition Packages",
-    "description": "Explore cutting-edge tech & innovations shaping our future at Future World Expo DubAI. Crypto, AI, FinTech, Smart Real Estate, Smart Cities.",
-    "startDate": "2026-11-11",
-    "endDate": "2026-11-12",
-    "city": "Dubai",
-    "country": "AE",
-    "location": "Dubai, AE",
-    "url": "https://www.eventbrite.com/e/future-world-expo-dubai-exhibition-packages-tickets-1252591979329",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F957713213%2F2412375150363%2F1%2Foriginal.20250211-044813?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.499905684105&fp-y=0.852525252525&s=dbc85591e3753332f3df7ecf174f8739",
-    "source": "eventbrite",
-    "month": "November 2026"
-  },
-  {
     "id": "eb-1987539925420",
     "name": "2026 Blockchain Futurist Conference - FLORIDA, USA",
     "description": "The 10th Edition of Blockchain Futurist Conference - The Future of Crypto, Web3, AI, DeFi, & More at an Immersive Venue in South Florida.",
@@ -8634,20 +8410,6 @@
     "location": "Hollywood, US",
     "url": "https://www.eventbrite.ca/e/2026-blockchain-futurist-conference-florida-usa-tickets-1987539925420",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182790434%2F256314814581%2F1%2Foriginal.20260422-160025?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.951&fp-y=0.489&s=10f9385953bcfb95629acdf9d81d623f",
-    "source": "eventbrite",
-    "month": "November 2026"
-  },
-  {
-    "id": "eb-1149660167509",
-    "name": "DubAI Predict: Discover DubAI Market Trends",
-    "description": "Explore cutting-edge innovations shaping our future at DubAI Predict. Discover DubAI Real Estate, Crypto, AI, Fintech & Cyber Market Trends",
-    "startDate": "2026-11-18",
-    "endDate": "2026-11-18",
-    "city": "Dubai",
-    "country": "AE",
-    "location": "Dubai, AE",
-    "url": "https://www.eventbrite.com/e/dubai-predict-discover-dubai-market-trends-tickets-1149660167509",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180974411%2F2412375150363%2F1%2Foriginal.20260330-082617?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=eb9092e052d903c7cda66ed520859015",
     "source": "eventbrite",
     "month": "November 2026"
   },
@@ -8694,20 +8456,6 @@
     "month": "November 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-applied-cryptography-icac-2026-decembe",
-    "name": "International Conference on Applied Cryptography (ICAC)",
-    "description": "",
-    "startDate": "2026-12-01T16:00:00.000Z",
-    "endDate": "2026-12-01T16:00:00.000Z",
-    "city": "Tokyo",
-    "country": "Japan",
-    "location": "Tokyo, Japan",
-    "url": "https://conferenceindex.org/event/international-conference-on-applied-cryptography-icac-2026-december-tokyo-jp",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "December 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2026-december-kuala-lum",
     "name": "International Conference on Blockchain (ICB)",
     "description": "",
@@ -8748,34 +8496,6 @@
     "coverImage": null,
     "source": "conferenceindex",
     "month": "December 2026"
-  },
-  {
-    "id": "eb-1977187013582",
-    "name": "Future Money Conference 2025",
-    "description": "The Future Money Conference brings together thought leaders to explore the dynamic and fast-changing world of digital assets, blockchain tec",
-    "startDate": "2026-12-14",
-    "endDate": "2026-12-14",
-    "city": "Pune",
-    "country": "IN",
-    "location": "Pune, IN",
-    "url": "https://www.eventbrite.com/e/future-money-conference-2025-tickets-1977187013582",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172477437%2F2985766730543%2F1%2Foriginal.20251207-170812?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=69c15857c4f26111c49f987a630d28e5",
-    "source": "eventbrite",
-    "month": "December 2026"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-informatics-and-applications-icia-2027",
-    "name": "International Conference on Informatics and Applications (ICIA)",
-    "description": "",
-    "startDate": "2027-01-06T16:00:00.000Z",
-    "endDate": "2027-01-06T16:00:00.000Z",
-    "city": "Tokyo",
-    "country": "Japan",
-    "location": "Tokyo, Japan",
-    "url": "https://conferenceindex.org/event/international-conference-on-informatics-and-applications-icia-2027-january-tokyo-jp",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "January 2027"
   },
   {
     "id": "luma-host-evt-EPjnp5olv91GFK2",
