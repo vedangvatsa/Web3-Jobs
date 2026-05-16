@@ -649,7 +649,8 @@ async function fetchWeb3Meetups() {
     const res = await fetch('https://web3meetups.xyz/', { headers: { 'User-Agent': UA } });
     if (!res.ok) return [];
     const html = await res.text();
-    const $ = cheerio.load(html);
+    const { load } = await import('cheerio');
+    const $ = load(html);
     const events = [];
 
     $('a[href]').each((_, el) => {
@@ -697,7 +698,8 @@ async function fetchEthereumOrgEvents() {
       const res = await fetch(pageUrl, { headers: { 'User-Agent': UA } });
       if (!res.ok) continue;
       const html = await res.text();
-      const $ = cheerio.load(html);
+      const { load } = await import('cheerio');
+      const $ = load(html);
 
       // ethereum.org uses links with event names + location text nearby
       $('a[href]').each((_, el) => {
@@ -918,6 +920,19 @@ async function fetchWeb3Events() {
     'paint night', 'art class', 'photography walk', 'flower',
     'brunch', 'potluck', 'barbecue', 'picnic',
     'play together', 'board game night', 'trivia night',
+    // Audit round 2: discovered from 666-event cache scan
+    'salsa', 'bachata', 'sound ceremony', 'dating and relationships',
+    'halloween party', 'power electronics', 'power system conference',
+    'strongfirst', 'barbell instructor', 'public health',
+    'fashiondao', 'forex trading', 'forex expo', 'traders fair',
+    'ifinexpo', 'top traders show', 'dao de jing', 'gitex',
+    'eretail day', 'retail day', 'maelo ruiz', 'jazz tribute',
+    'tribute concert', 'she rise', 'shopaholic', 'icsift',
+    'mexico dreamin', 'tech hub conference', 'mexico tech summit',
+    'metaverse of travel', 'cumbre de inversiones', 'lion\\'s gate',
+    'set in stone', 'city break', 'financial education event',
+    'finance expo', 'fintech hub', 'mindful leadership',
+    'cosmic abundance', 'cultivating clarity',
   ];
   function isBlacklisted(name) {
     if (!name) return false;
