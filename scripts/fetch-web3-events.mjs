@@ -596,7 +596,7 @@ async function fetchDeepTechTimes() {
 }
 
 // ═══════════════════════════════════════════════════════════════════════
-// SOURCE 7b: MarketAcross Crypto Events (embedded JSON)
+// SOURCE 7b: MarketAcross Crypto Events (embedded JSON in hidden pre block)
 // ═══════════════════════════════════════════════════════════════════════
 async function fetchMarketAcross() {
   try {
@@ -604,38 +604,129 @@ async function fetchMarketAcross() {
     if (!res.ok) return [];
     const html = await res.text();
 
-    // MarketAcross embeds event data as JSON arrays in code blocks
-    const jsonMatches = html.match(/\[\s*\{\s*"title"\s*:.*?"url"\s*:.*?\}\s*\]/gs) || [];
+    // MarketAcross embeds the full events database inside <pre class="events__json is-hidden">
+    const preMatch = html.match(/<pre class="events__json is-hidden">\s*(\[[\s\S]*?\])\s*<\/pre>/);
+    if (!preMatch) {
+      // Fallback: try the old regex for any JSON arrays with title+url
+      const jsonMatches = html.match(/\[\s*\{\s*"title"\s*:.*?"url"\s*:.*?\}\s*\]/gs) || [];
+      const events = [];
+      for (const jsonStr of jsonMatches) {
+        try {
+          const items = JSON.parse(jsonStr);
+          for (const item of items) {
+            if (!item.title || !item.start_date) continue;
+            events.push({
+              id: `ma-${item.title.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 50)}`,
+              name: item.title,
+              description: (item.description || '').slice(0, 200),
+              startDate: new Date(item.start_date).toISOString(),
+              endDate: item.end_date ? new Date(item.end_date).toISOString() : new Date(item.start_date).toISOString(),
+              city: item.location || '', country: item.country || '',
+              location: item.location && item.country ? `${item.location}, ${item.country}` : item.location || item.country || 'TBA',
+              url: item.url || '', coverImage: null, source: 'marketacross',
+            });
+          }
+        } catch { /* skip malformed JSON */ }
+      }
+      return events;
+    }
+
+    // Clean HTML artifacts embedded inside JSON values (e.g. <a> tags in descriptions)
+    let jsonStr = preMatch[1];
+    jsonStr = jsonStr.replace(/<a [^>]*>/g, '').replace(/<\/a>/g, '');
+    jsonStr = jsonStr.replace(/<[^>]+>/g, '');
+    jsonStr = jsonStr.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+    jsonStr = jsonStr.replace(/&quot;/g, '"').replace(/&#039;/g, "'");
+
+    const items = JSON.parse(jsonStr);
     const events = [];
     const seen = new Set();
 
-    for (const jsonStr of jsonMatches) {
-      try {
-        const items = JSON.parse(jsonStr);
-        for (const item of items) {
-          if (!item.title || !item.start_date || seen.has(item.title)) continue;
-          seen.add(item.title);
+    for (const item of items) {
+      if (!item.title || !item.start_date || seen.has(item.title)) continue;
+      seen.add(item.title);
 
-          const startDate = new Date(item.start_date).toISOString();
-          const endDate = item.end_date ? new Date(item.end_date).toISOString() : startDate;
+      const startDate = new Date(item.start_date).toISOString();
+      const endDate = item.end_date ? new Date(item.end_date).toISOString() : startDate;
 
-          events.push({
-            id: `ma-${item.title.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 50)}`,
-            name: item.title,
-            description: (item.description || '').slice(0, 200),
-            startDate,
-            endDate,
-            city: item.location || '',
-            country: item.country || '',
-            location: item.location && item.country
-              ? `${item.location}, ${item.country}`
-              : item.location || item.country || 'TBA',
-            url: item.url || '',
-            coverImage: (item.img && !item.img.includes('placeholder')) ? item.img : null,
-            source: 'marketacross',
-          });
-        }
-      } catch { /* skip malformed JSON block */ }
+      events.push({
+        id: `ma-${item.title.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 50)}`,
+        name: item.title,
+        description: (item.description || '').slice(0, 200),
+        startDate,
+        endDate,
+        city: item.location || '',
+        country: item.country || '',
+        location: item.location && item.country
+          ? `${item.location}, ${item.country}`
+          : item.location || item.country || 'TBA',
+        url: item.url || '',
+        coverImage: (item.img && !item.img.includes('placeholder')) ? item.img : null,
+        source: 'marketacross',
+      });
+    }
+    return events;
+  } catch { return []; }
+}
+
+// ═══════════════════════════════════════════════════════════════════════
+// SOURCE 7c: Google Cloud Web3 Events (embedded WIZ data)
+// ═══════════════════════════════════════════════════════════════════════
+async function fetchGoogleCloudWeb3Events() {
+  try {
+    const res = await fetch('https://cloud.google.com/application/web3/events', { headers: { 'User-Agent': UA } });
+    if (!res.ok) return [];
+    const html = await res.text();
+
+    // Google embeds events in WIZ framework as nested JS arrays
+    // Find the events section starting with known event titles
+    const anchor = html.indexOf('Consensus Hong Kong');
+    if (anchor === -1) return [];
+
+    let start = anchor;
+    while (start > 0 && html.slice(start - 2, start) !== '[[') start--;
+    start -= 2;
+
+    let depth = 0, end = start;
+    for (let i = start; i < html.length && i < start + 50000; i++) {
+      if (html[i] === '[') depth++;
+      if (html[i] === ']') depth--;
+      if (depth === 0) { end = i + 1; break; }
+    }
+
+    let eventsStr = html.slice(start, end);
+    eventsStr = eventsStr.replace(/\\"/g, '"');
+    eventsStr = eventsStr.replace(/\\u([0-9a-fA-F]{4})/g, (_, hex) => String.fromCharCode(parseInt(hex, 16)));
+    eventsStr = eventsStr.replace(/\\([^"\\nrtbfu/])/g, '$1');
+
+    const data = JSON.parse(eventsStr);
+    const events = [];
+
+    for (const ev of data) {
+      if (!Array.isArray(ev) || !ev[0]) continue;
+      const title = ev[0];
+      const image = ev[1]?.[0] || null;
+      const type = ev[2] || 'event';
+      const description = (ev[3] || '').slice(0, 200);
+      const url = ev[4]?.[0] || '';
+      if (!url) continue;
+
+      // Extract date from description text (e.g. "February 17, 2025 - ...")
+      const dateMatch = description.match(/(\w+ \d{1,2},?\s*20\d{2})/);
+      const startDate = dateMatch ? new Date(dateMatch[1]).toISOString() : '';
+
+      events.push({
+        id: `gcp-${title.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 50)}`,
+        name: `${title} (Google Cloud Web3)`,
+        description,
+        startDate,
+        endDate: startDate,
+        city: '', country: '',
+        location: type === 'Sponsor' ? 'Google Cloud Sponsored' : 'Google Cloud Speaker',
+        url,
+        coverImage: image,
+        source: 'google-cloud-web3',
+      });
     }
     return events;
   } catch { return []; }
@@ -903,6 +994,13 @@ async function fetchWeb3Events() {
   const ethOrgEvents = await fetchEthereumOrgEvents();
   ethOrgEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
   console.log(`[ethereum.org] +${allEventsMap.size - ethOrgBefore} events`);
+
+  // ── 12. Google Cloud Web3 ──
+  console.log(`\n[Google Cloud Web3] Fetching Google-sponsored events...`);
+  let gcpBefore = allEventsMap.size;
+  const gcpEvents = await fetchGoogleCloudWeb3Events();
+  gcpEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+  console.log(`[Google Cloud Web3] +${allEventsMap.size - gcpBefore} events`);
 
   // Blacklist: catch obvious non-Web3 spam
   const BLACKLIST = [
