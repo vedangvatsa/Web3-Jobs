@@ -48,12 +48,139 @@ const WEAK_KEYWORDS = [
   'hackathon', 'ether', 'maker',
 ];
 
+// POISON words — if ANY of these appear, the event is NOT Web3 regardless of keywords
+const POISON_WORDS = [
+  // Lifestyle / wellness / fitness
+  'bath bomb', 'bomba de baño', 'yoga', 'pilates', 'zumba', 'crossfit',
+  'bootcamp fitness', 'soundbath', 'sound bath', 'meditation retreat',
+  'reiki', 'ayahuasca', 'facial balancing', 'wellness club', 'alo wellness',
+  'strong flow', 'slow flow', 'reset energético',
+  // Real estate / home
+  'real estate career', 'home appliances', 'consumer electronics',
+  // Film / performing arts
+  'casting certificate', 'bbc cymru', 'film school', 'animation mfa',
+  'directing animation', 'open day @nfts', 'production design mfa',
+  'open day @', 'stand-up comedy', 'comedy show', 'standup comedy',
+  'comedy hour', 'improv show', 'muestra de alumnos', 'tato broda',
+  // DJ / nightlife / music
+  'dj zia', 'mallu night', 'pool party', 'disco vol',
+  'karaoke', 'noche sabinera', 'noche íntima', 'piano neoclásico',
+  'daal & bass', 'synth club', 'electronic live music', 'golosa pride',
+  'sonidos del alma', 'santos en la nau',
+  // Dance / cultural performances
+  'flamenco', 'flamenca', 'gala flamenca', 'tango love story',
+  'salsa dancing', 'bachata', 'ballet folklórico', 'bafona',
+  // Tours / travel / sightseeing
+  'safari', 'wildlife', 'tour romantico', 'père-lachaise',
+  'visita guiada', 'medina azahara', 'visita arquitectónica', 'recorrido casa',
+  'camminando', 'sentiero', 'palermo chico', 'palacios a embajadas',
+  // Food / drink / gastronomy
+  'wine tasting', 'wines of', 'beer tasting', 'cocktail class',
+  'cooking class', 'cooking course', 'gastronomic crawl', 'food tour',
+  'bar crawl', 'pub crawl', 'cenas clandestinas', 'hokkaido table',
+  'club drinks', 'binckhaven bbq', 'brunch', 'potluck', 'barbecue',
+  'bbq party', 'picnic',
+  // Crafts / hobbies / DIY
+  'ceramica', 'pottery', 'glass workshop', 'glass ripples', 'diy glass',
+  'urban gardening', 'photography walk', 'art class', 'paint night',
+  'watercolor', 'book club', 'knitting', 'sewing', 'crochet', 'craft fair',
+  'taller de laca', 'olinalá', 'taller abierto', 'laboratorio creativo',
+  'hecho a mano', 'mercado artesano', 'mercado estilo artesano',
+  'feira criativa', 'flea market', 'garage sale',
+  // Sports / recreation
+  'soccer', 'football match', 'basketball game', 'volleyball', 'tennis',
+  'marathon', 'run club', 'triathlon', 'cycling event', 'entrenamiento mmb',
+  'pool party', 'chicos break',
+  // Religious / spiritual
+  'church service', 'sermon', 'prayer meeting', 'bible study',
+  'constelaciones familiares',
+  // Dating / social
+  'wedding', 'baby shower', 'bridal', 'speed dating', 'singles mixer',
+  'peña match', 'solteros',
+  // Pets
+  'dog walk', 'pet adoption', 'animal shelter',
+  // Board games
+  'board game', 'trivia night', 'game night',
+  // Forex / non-crypto trading
+  'forex trading', 'forex expo', 'traders fair', 'ifinexpo',
+  'copy trading', 'manuale d\'uso',
+  // Generic professional certifications
+  'pmp course', 'pmp certification', 'scrum master',
+  'ecu programming', 'practical ecu',
+  // NGO / academic
+  'ngo workshop', 'digital transformation for ngo',
+  'digital transformation strategy for ngo',
+  'jornadas académicas', 'simposio de uso', 'doctorado en derecho',
+  'apertura del año académico', 'scuola di psicologia',
+  'nudos críticos del nivel medio',
+  // Cannabis / drugs
+  'cannabis training',
+  // Sports events
+  'world cup', 'mundial 2026', 'copa del mundo',
+  // Music production
+  'electronic music production', 'music production course',
+  // Science
+  'pint of science', 'bioinformatics lunch', 'astronomy on tap',
+  // Auto / electronics
+  'auto electrics', 'engine diagnostics', 'carro eletrico', 'power bi',
+  // Spanish / local culture events
+  'melo road show', 'charanga', 'tardeo', 'verbena',
+  'koro pacifico', 'retreat in mexico', 'adventure retreat',
+  'concierto mágico', 'tribute concert', 'jazz tribute',
+  'homenaje', 'día de la independencia',
+  'aerografía', 'aerografia', 'cortometraje', 'cortometrajes',
+  // Festival / awards
+  'linces awards', 'mfc fest', 'fotografía de calle',
+  'foro verdeo', 'unidos de corazón',
+  // Misc garbage
+  'colonia ali', 'campamento', 'guardiani',
+  'space night philharmonic', 'video art drinks',
+  'magnalonga', 'sentience of the unearthed', 'soft scores',
+  'apollo guidance computer', 'kawah iyyen',
+  'emanuele pantano', 'secondo me', 'il tempo delle cose belle',
+  'limite e potere', 'alessio torino', 'piccoli e grandi',
+  'inebriati d\'arte', 'game/over', 'armani trubute',
+  'irish song tour', 'villa devoto', 'jardín en la ciudad',
+  'la periferia', 'de palenque', 'cibersecurity congress',
+  'formatnull ventures', 'nnbn network meeting',
+  'spotlight | 4th edition', 'principales claves',
+  'comercio internacional', 'unicorn pitches',
+  'women in programmatic', 'maker space launch party',
+  'gosforth\'s wild web', 'ladybird',
+  'emprendimiento digital', 'herramientas digitales',
+  'region mamas', 'techwalk', 'ai + breakfast',
+  'silicon valley central asian', 'mongolian silicon valley',
+  'adolescenti e digitale', 'smartphone, social',
+  'sharks\' valley launchpad', 'ai fuckup nights',
+  'ai lab - intelligenza', 'change strong workshop',
+  'where music, art', 'expo antad', 'alimentaria mexico',
+  'finanzas descentralizadas en méxico',
+  '2-person unicorn', 'mexico in the spotlight',
+  'computer science and electronics engineering',
+  // Round 5: final stragglers
+  'inebriati', 'citas rápidas de negocios', 'networking: citas',
+  'platforms & initiations', 'quién hace ese ruido',
+  'disco! vol', 'space night at the philharmonic',
+  'perceptron ai', 'fiftyone for video', 'video understanding workshop',
+  'vi3nna congress',
+];
+
 function isWeb3Relevant(name, description = '') {
   if (!name) return false;
   const text = `${name} ${description || ''}`.toLowerCase();
+  const nameOnly = name.toLowerCase();
 
-  // Exact word boundary checks for very short unambiguous keywords
-  if (/\b(web3|btc|nft|dao|defi|zk|l2)\b/i.test(text)) return true;
+  // POISON check — reject immediately if obvious non-Web3 content
+  if (POISON_WORDS.some(pw => text.includes(pw))) return false;
+
+  // Exact word boundary checks for short keywords
+  // Exclude false positives: "NFTS" (National Film and Television School)
+  if (/\b(web3|btc|defi|zk|l2)\b/i.test(text)) return true;
+  // NFT but NOT "NFTS" school — require "nft" not followed by "s " or at end
+  if (/\bnfts?\b/i.test(nameOnly) && !/nfts\b/i.test(nameOnly)) return true;
+  if (/\bnft\b/i.test(text) && !/open day|film|television|school/i.test(text)) return true;
+  // DAO but NOT Taoism/Daoism
+  if (/\bdao\b/i.test(text) && !/dao de jing|tao|pure ones|return to the/i.test(text)) return true;
   // "eth" only as a standalone word (not "teeth", "seth", "method")
   if (/(?:^|\s|\/)eth(?:\s|$|\b)/i.test(text)) return true;
 
@@ -1047,6 +1174,12 @@ async function fetchWeb3Events() {
   const now = new Date().toISOString();
   const rawCount = allEventsMap.size;
 
+  // Trusted sources that are inherently Web3 (bypass strict name-level check)
+  const TRUSTED_SOURCES = new Set([
+    'ethglobal', 'deeptechtimes', 'marketacross', 'coinmarketcap',
+    'ethereum.org', 'web3meetups', 'google-cloud-web3',
+  ]);
+
   // ALL events must pass Web3 relevance — no exceptions
   const validEvents = Array.from(allEventsMap.values())
     .filter(e => {
@@ -1054,7 +1187,21 @@ async function fetchWeb3Events() {
       if (!e.name) return false;
       if (e.startDate < now) return false;
       if (isBlacklisted(e.name)) return false;
-      if (!isWeb3Relevant(e.name, e.description)) return false;
+      // POISON check at filter level too
+      const fullText = `${e.name} ${e.description || ''}`.toLowerCase();
+      if (POISON_WORDS.some(pw => fullText.includes(pw))) return false;
+      // For untrusted sources (Eventbrite, Luma geo), require keyword in NAME
+      if (!TRUSTED_SOURCES.has(e.source) && !e.source?.startsWith('luma-trusted')) {
+        if (!isWeb3Relevant(e.name, '')) {
+          // Fall back: check full text but be stricter
+          if (!isWeb3Relevant(e.name, e.description)) return false;
+          // If only description matches, require a STRONG keyword in description
+          const desc = (e.description || '').toLowerCase();
+          if (!STRONG_KEYWORDS.some(kw => desc.includes(kw))) return false;
+        }
+      } else {
+        if (!isWeb3Relevant(e.name, e.description)) return false;
+      }
       return true;
     })
     .map(e => {
