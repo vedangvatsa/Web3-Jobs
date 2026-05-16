@@ -177,21 +177,97 @@ async function fetchLumaByCity(city) {
   return events;
 }
 
-// Luma Community Hosts
+// Luma Community Hosts — 200+ Web3/Crypto communities globally
 const LUMA_COMMUNITIES = [
-  'crypto', 'superteam', 'encode-club', 'ethglobal', 'chainlink',
-  'token2049', 'ethprague', 'ethwarsaw', 'sui-network', 'web3foundation',
-  'gnosis', 'lido', 'solana-nyc', 'wearelightdao', 'gemini',
-  'polygon', 'arbitrum', 'optimism', 'base', 'avalanche', 
-  'consensys', 'filecoin', 'polkadot', 'starknet', 'zksync',
+  // ── Major Platforms & Protocols ──
+  'crypto', 'ethereum', 'superteam', 'ethglobal', 'chainlink',
+  'token2049', 'sui-network', 'web3foundation', 'consensys',
+  'polygon', 'arbitrum', 'optimism', 'base', 'avalanche',
+  'filecoin', 'polkadot', 'starknet', 'zksync', 'scroll',
+  'gnosis', 'lido', 'gemini', 'encode-club', 'dydx',
+  'aptos', 'sui', 'celo', 'nearprotocol', 'bnbchain',
+  'berachain', 'monad', 'movementlabs', 'solana-nyc',
+  'wearelightdao', 'buidlguidl', 'gitcoin',
+
+  // ── VC & Investment Funds ──
   'a16zcrypto', 'paradigm', 'multicoin', 'panteracapital', 'framework',
-  'buidlguidl', 'gitcoin', 'celo', 'aptos', 'sui',
-  'berachain', 'monad', 'movementlabs', 'nearprotocol', 'bnbchain',
-  'developerdao', 'boysclub', 'shefi', 'cryptomondays', 'ethereum',
-  'hkweb3', 'ethseoul', 'ethtaipei', 'ethlondon', 'ethsafari',
-  'wgmi', 'bankless', 'defiance-capital', 'dydx', 'scroll',
-  'Web3_Events', 'DecentralHouse', 'WEB3SG', 'web3hubdavos',
+  'defiance-capital', 'polychain', 'dragonfly-capital', 'electriccapital',
+  'hashkey', 'animocabrands', 'binancelabs', 'coinbase-ventures',
+
+  // ── ETH Regional Conferences ──
+  'ethprague', 'ethwarsaw', 'ethtaipei', 'ethseoul', 'ethlondon',
+  'ethsafari', 'ethdenver', 'ethcc', 'ethberlin', 'ethnewyork',
+  'ethsingapore', 'ethdubai', 'ethaccra', 'ethlagos', 'ethbogota',
+  'ethmelbourne', 'ethvancouver', 'ethparis', 'ethtokyo', 'ethriyadh',
+  'ethbelgrade', 'ethbratislava', 'ethsofia', 'ethrome', 'ethmilan',
+  'ethmexico', 'ethenugu', 'ethbhopal', 'ethmanila', 'ethsydney',
+  'ethtbilisi', 'ethcluj', 'ethpdx', 'ethvienna', 'ethmadrid',
+
+  // ── Solana Ecosystem ──
+  'solanafoundation-community', 'superteam-india', 'superteam-germany',
+  'superteam-uk', 'superteam-vietnam', 'superteam-turkey', 'superteam-brazil',
+  'superteam-nigeria', 'superteam-japan', 'superteam-korea',
+
+  // ── City-Based Web3 Hubs ──
+  'hkweb3', 'WEB3SG', 'web3hubdavos', 'web3fest', 'DecentralHouse',
+  'Web3_Events', 'web3london', 'web3dubai', 'web3sydney', 'web3tokyo',
+  'web3berlin', 'web3paris', 'web3nyc', 'web3lagos', 'web3nairobi',
+  'web3india', 'web3bangalore', 'web3mumbai', 'web3seoul',
+  'web3amsterdam', 'web3istanbul', 'web3lisbon', 'web3miami',
+  'web3austin', 'web3denver', 'web3chicago', 'web3la', 'web3sf',
+  'web3zurich', 'web3taipei', 'web3jakarta', 'web3manila',
+  'web3bangkok', 'web3saigon', 'web3hanoi', 'web3kualalumpur',
+  'web3africa', 'web3latam', 'web3asia', 'web3europe',
+
+  // ── DAOs & Community Groups ──
+  'developerdao', 'boysclub', 'shefi', 'cryptomondays', 'bankless',
+  'wgmi', 'seedclub', 'orangedao', 'pleasrdao', 'noundao',
+  'metaverseHQ', 'lobby3', 'readydao', 'thegraph',
+  'uniswap', 'aave', 'maker', 'compound', 'curve',
+  'yearn', 'synthetix', 'balancer', 'sushiswap', '1inch',
+
+  // ── Hackathon Hosts & Accelerators ──
+  'buildspace', 'alchemyplatform', 'quicknode', 'moralis',
+  'thirdweb', 'replit', 'dorahacks', 'hackathon-global',
+  'labyrinth-dao', 'longhash', 'outlier-ventures',
+  'alliance-dao', 'ssvnetwork', 'devfolio',
+
+  // ── ethereum.org Community Hub Luma pages ──
+  'crecimientoar', 'UrbeHub', 'ethldn', 'HadronFC', 'ethereumhouseSF',
+  'decaffeth', 'erc55', 'ETHNanJing', 'ethbelgium',
+
+  // ── Regional Blockchain Associations ──
+  'blockchain-australia', 'blockchain-canada', 'blockchain-india',
+  'blockchain-japan', 'blockchain-korea', 'blockchain-singapore',
+  'blockchain-thailand', 'blockchain-vietnam', 'blockchain-africa',
+  'blockchain-latam', 'blockchain-europe', 'blockchain-mena',
+  'cryptocanal', 'napuleth', 'urbe-eth',
+
+  // ── Major Conferences & Side Events ──
+  'consensus2026', 'token2049-sideevents', 'pbw-paris',
+  'koreaBlockchainWeek', 'singaporeBlockchainWeek',
+  'istanbulBlockchainWeek', 'berlinBlockchainWeek',
+  'nyBlockchainWeek', 'sfBlockchainWeek',
+  'dubaiBlockchainWeek', 'londonBlockchainWeek',
+
+  // ── NFT & Gaming Communities ──
+  'nftnyc', 'nftlondon', 'nftparis', 'nfttokyo',
+  'immutable', 'ronin-network', 'sandbox-game', 'decentraland',
+  'axie-infinity', 'treasure-dao', 'yuga-labs',
+
+  // ── Infra & Tooling ──
+  'alchemy', 'infura', 'chainalysis', 'dune-analytics',
+  'nansen', 'tenderly', 'hardhat', 'foundry-rs',
+  'openzeppelin', 'eigenlayer', 'celestia', 'cosmos',
+  'osmosis', 'injective', 'sei-network', 'mantle', 'linea',
+  'taiko', 'blast', 'mode-network', 'manta-network',
+
+  // ── Calendar URLs ──
   'calendar/cal-EjxsY533E9N5pz2',
+
+  // ── Luma Short-Code Communities (from ethereum.org) ──
+  'jnwjc3gr', 'c22o9tcz', 'zbiimfx9', 'zph1l8hh', '4zexoksb',
+  'f47k4xnd', 'soi886zk', 'sixp297m', 'ispxo30p', 'spsnos9t',
 ];
 
 async function fetchLumaCommunity(slug) {
@@ -566,7 +642,119 @@ async function fetchMarketAcross() {
 }
 
 // ═══════════════════════════════════════════════════════════════════════
-// SOURCE 8: CoinMarketCap Events (__NEXT_DATA__)
+// SOURCE 8: web3meetups.xyz (India-focused Web3 events)
+// ═══════════════════════════════════════════════════════════════════════
+async function fetchWeb3Meetups() {
+  try {
+    const res = await fetch('https://web3meetups.xyz/', { headers: { 'User-Agent': UA } });
+    if (!res.ok) return [];
+    const html = await res.text();
+    const $ = cheerio.load(html);
+    const events = [];
+
+    $('a[href]').each((_, el) => {
+      const $el = $(el);
+      const href = $el.attr('href') || '';
+      const text = $el.text().trim();
+      // Only grab event links (t.ly shortlinks used for events)
+      if (!href.includes('t.ly/') && !href.includes('lu.ma/') && !href.includes('luma.com/')) return;
+      if (!text || text.length < 5) return;
+
+      // Get sibling city text
+      const parent = $el.parent();
+      const cityText = parent.text().replace(text, '').trim();
+
+      events.push({
+        id: `w3m-${text.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 50)}`,
+        name: text,
+        description: '',
+        startDate: new Date().toISOString(), // web3meetups doesn't expose structured dates
+        endDate: '',
+        city: cityText || 'India',
+        country: 'India',
+        location: cityText ? `${cityText}, India` : 'India',
+        url: href,
+        coverImage: null,
+        source: 'web3meetups',
+      });
+    });
+    return events;
+  } catch { return []; }
+}
+
+// ═══════════════════════════════════════════════════════════════════════
+// SOURCE 9: ethereum.org Community Events (conferences + meetups)
+// ═══════════════════════════════════════════════════════════════════════
+async function fetchEthereumOrgEvents() {
+  const allEvents = [];
+  const pages = [
+    'https://ethereum.org/community/events/conferences/',
+    'https://ethereum.org/community/events/meetups/',
+  ];
+
+  for (const pageUrl of pages) {
+    try {
+      const res = await fetch(pageUrl, { headers: { 'User-Agent': UA } });
+      if (!res.ok) continue;
+      const html = await res.text();
+      const $ = cheerio.load(html);
+
+      // ethereum.org uses links with event names + location text nearby
+      $('a[href]').each((_, el) => {
+        const $el = $(el);
+        const href = $el.attr('href') || '';
+        // Skip internal/navigation links
+        if (href.startsWith('/') || href.includes('ethereum.org') || href.includes('github.com')) return;
+        if (href.includes('discord') || href.includes('t.me/') || href.includes('x.com/') ||
+            href.includes('twitter.com') || href.includes('meetup.com/') || href.includes('farcaster') ||
+            href.includes('linkedin') || href.includes('facebook') || href.includes('forms.g') ||
+            href.includes('docs.google') || href.includes('mailto:') || href.includes('substack')) return;
+
+        const text = $el.text().trim();
+        if (!text || text.length < 4 || text === 'opens in a new tab') return;
+        if (text.includes('Submit event') || text.includes('Read the guide') || text.includes('ETHStars')) return;
+
+        // Try to find location from surrounding text
+        const parent = $el.parent();
+        const siblings = parent.text();
+        const locationMatch = siblings.match(/([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*,\s*[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)/)?.[1] || '';
+
+        // Extract date patterns like "Jun 8 – 10" or "May 20"
+        const dateMatch = siblings.match(/((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+\d{1,2}(?:\s*[–-]\s*(?:(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+)?\d{1,2})?)/)?.[1] || '';
+
+        let startDate = '';
+        if (dateMatch) {
+          try {
+            const parsed = new Date(`${dateMatch}, 2026`);
+            if (!isNaN(parsed.getTime())) startDate = parsed.toISOString();
+          } catch {}
+        }
+        if (!startDate) startDate = new Date().toISOString();
+
+        const id = `ethorg-${text.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 50)}`;
+        if (allEvents.some(e => e.id === id)) return;
+
+        allEvents.push({
+          id,
+          name: text,
+          description: '',
+          startDate,
+          endDate: '',
+          city: locationMatch.split(',')[0]?.trim() || '',
+          country: locationMatch.split(',')[1]?.trim() || '',
+          location: locationMatch || 'TBA',
+          url: href,
+          coverImage: null,
+          source: 'ethereum-org',
+        });
+      });
+    } catch { continue; }
+  }
+  return allEvents;
+}
+
+// ═══════════════════════════════════════════════════════════════════════
+// SOURCE 10: CoinMarketCap Events (__NEXT_DATA__)
 // ═══════════════════════════════════════════════════════════════════════
 async function fetchCoinMarketCap() {
   try {
@@ -699,6 +887,20 @@ async function fetchWeb3Events() {
   const maEvents = await fetchMarketAcross();
   maEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
   console.log(`[MarketAcross] +${allEventsMap.size - maBefore} events`);
+
+  // ── 10. web3meetups.xyz ──
+  console.log(`\n[web3meetups.xyz] Fetching India Web3 events...`);
+  let w3mBefore = allEventsMap.size;
+  const w3mEvents = await fetchWeb3Meetups();
+  w3mEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+  console.log(`[web3meetups.xyz] +${allEventsMap.size - w3mBefore} events`);
+
+  // ── 11. ethereum.org ──
+  console.log(`\n[ethereum.org] Fetching community events...`);
+  let ethOrgBefore = allEventsMap.size;
+  const ethOrgEvents = await fetchEthereumOrgEvents();
+  ethOrgEvents.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+  console.log(`[ethereum.org] +${allEventsMap.size - ethOrgBefore} events`);
 
   // Blacklist: catch obvious non-Web3 spam
   const BLACKLIST = [
