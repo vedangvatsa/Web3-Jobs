@@ -232,8 +232,7 @@ async function sendToTelegram(message) {
       disable_web_page_preview: true,
       reply_markup: {
         inline_keyboard: [
-          [{ text: 'Turn your CV into a Website', url: 'https://cvin.bio?utm_source=hashtag_ai&utm_medium=telegram' }],
-          [{ text: 'Tech Jobs', url: 'https://hashtagweb3.com?utm_source=hashtag_ai&utm_medium=telegram' }],
+          [{ text: 'Web3 News', url: 'https://t.me/web3newsfeed' }],
         ],
       },
     }),

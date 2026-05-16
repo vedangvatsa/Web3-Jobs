@@ -3,7 +3,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, DollarSign, FileText, Globe, ListChecks, BookOpen, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit, UserMinus, Mic, Milestone, BarChart, Smile, Scale, Building2, Library } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, DollarSign, FileText, Globe, ListChecks, BookOpen, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit, UserMinus, Mic, Milestone, BarChart, Smile, Scale, Building2, Library, Calendar } from 'lucide-react';
 import Link from 'next/link';
 import {
  Accordion,
@@ -15,6 +15,7 @@ import { trackCTAClick, trackOutboundClick } from '@/lib/posthog'
 
 const mainNavLinks: Array<{ href: string; label: string; icon: any; target?: string }> = [
  { href: "/", label: "Jobs", icon: Briefcase },
+ { href: "/events", label: "Events", icon: Calendar },
  { href: "/news", label: "News", icon: Newspaper },
  { href: "/community", label: "Community", icon: Users },
 ];
