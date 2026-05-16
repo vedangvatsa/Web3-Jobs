@@ -1050,6 +1050,20 @@
     "month": "May 2026"
   },
   {
+    "id": "luma-evt-YIW2BZeyo7UhOlv",
+    "name": "Solana Incubator Demo Day (Cohort 4)",
+    "description": "",
+    "startDate": "2026-05-20T20:00:00.000Z",
+    "endDate": "2026-05-20T23:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/p18fyyxx",
+    "coverImage": "https://images.lumacdn.com/uploads/06/abaab247-ebea-4052-8f17-15fa40d707d8.png",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-host-evt-YIW2BZeyo7UhOlv",
     "name": "Solana Incubator Demo Day (Cohort 4)",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -1508,6 +1522,20 @@
     "location": "Online",
     "url": "https://www.eventbrite.com/e/defi-demystified-the-new-wealth-system-knowit-owlz-web3-ai-cohort-tickets-1988926820661",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183953801%2F2985699604930%2F1%2Foriginal.20260506-195938?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f44f9ffebc6c432ad76597eb38f0e011",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1987986228324",
+    "name": "Zukunft Auto - Zwischen Transformation und Realitätsschock",
+    "description": "Im Morning Briefing spricht Dr. Dietmar Voggenreiter, Ex-Vorstand bei Audi, über die Transformation und Realität in der Autobranche",
+    "startDate": "2026-05-21",
+    "endDate": "2026-05-21",
+    "city": "München",
+    "country": "DE",
+    "location": "München, DE",
+    "url": "https://www.eventbrite.de/e/zukunft-auto-zwischen-transformation-und-realitatsschock-tickets-1987986228324",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182762519%2F2816308623521%2F1%2Foriginal.20260422-102247?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6f9ee9ab19e0ab3981ca23d7236ec467",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -2618,6 +2646,20 @@
     "month": "May 2026"
   },
   {
+    "id": "luma-host-evt-kApYzdACX4cetz1",
+    "name": "Solana Network State [Spring 2026] Demo Day presented by AppWorks and Jelawang Capital",
+    "description": "We are the official Solana community of Malaysia! Focusing on helping Solana developers and creators earn and grow!",
+    "startDate": "2026-05-25T02:00:00.000Z",
+    "endDate": "2026-05-25T08:00:00.000Z",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "location": "Kuala Lumpur, Malaysia",
+    "url": "https://lu.ma/lr3rdz1y",
+    "coverImage": "https://images.lumacdn.com/uploads/6q/e66c68d4-e0e9-4cb1-9a59-c94fb11b53ac.png",
+    "source": "luma-trusted",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-tAhcroeBNikSD7C",
     "name": "CryptoMondays Toronto x Toronto Tech Week — Startup Demo Night",
     "description": "",
@@ -3048,6 +3090,20 @@
     "location": "London, GB",
     "url": "https://www.eventbrite.co.uk/e/focus-on-festivals-film-programming-and-curation-in-practice-tickets-1989103869218",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1044620873%2F264990362268%2F1%2Foriginal.20250603-102035?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1920%2C960&s=10d7be337251b69a0342e346949cb6a6",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989161330085",
+    "name": "LAS BRAVAS PRESENT: CANTA Y NO LLORES",
+    "description": "¡Una experiencia musical trascendental en forma física! Un viaje a través de los sonidos sagrados de México.",
+    "startDate": "2026-05-27",
+    "endDate": "2026-05-27",
+    "city": "Playa del Carmen",
+    "country": "MX",
+    "location": "Playa del Carmen, MX",
+    "url": "https://www.eventbrite.ca/e/las-bravas-present-canta-y-no-llores-tickets-1989161330085",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184220012%2F2987255170194%2F1%2Foriginal.20260510-010416?crop=focalpoint&fit=crop&h=192&w=500&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.609&fp-y=0.105&s=13ae41c2e4c0c7b70fadcb1d73d15643",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -3682,15 +3738,15 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1835684083509",
-    "name": "Decrypting DeSci (Decentralized Science) | Perth",
+    "id": "eb-1836404949639",
+    "name": "Decrypting DeSci (Decentralized Science) | Auckland",
     "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
     "startDate": "2026-06-02",
     "endDate": "2026-06-02",
-    "city": "Perth",
+    "city": "Sydney",
     "country": "AU",
-    "location": "Perth, AU",
-    "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-perth-tickets-1835684083509",
+    "location": "Sydney, AU",
+    "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-auckland-tickets-1836404949639",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1155430453%2F952210770403%2F1%2Foriginal.20251016-221859?w=400&auto=format%2Ccompress&q=75&sharp=10&s=6255ac717f8331a0d2e9a47949d51dc0",
     "source": "eventbrite",
     "month": "June 2026"
@@ -3720,6 +3776,20 @@
     "location": "Barrie, CA",
     "url": "https://www.eventbrite.ca/e/blockchain-essentials-for-non-developers-1-day-training-barrie-tickets-1981841610607",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182219565%2F2824010078961%2F1%2Foriginal.20260415-115508?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=990d65f24c17fc32b46ec7c0ee4f1a5e",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "eb-1835684083509",
+    "name": "Decrypting DeSci (Decentralized Science) | Perth",
+    "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
+    "startDate": "2026-06-02",
+    "endDate": "2026-06-02",
+    "city": "Perth",
+    "country": "AU",
+    "location": "Perth, AU",
+    "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-perth-tickets-1835684083509",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1155430453%2F952210770403%2F1%2Foriginal.20251016-221859?w=400&auto=format%2Ccompress&q=75&sharp=10&s=6255ac717f8331a0d2e9a47949d51dc0",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -4032,15 +4102,15 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1647790167749",
-    "name": "Decrypting DeSci (Decentralized Science) | Washington DC",
+    "id": "eb-1647867067759",
+    "name": "Decrypting DeSci (Decentralized Science) | Seattle",
     "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
     "startDate": "2026-06-03",
     "endDate": "2026-06-03",
-    "city": "Washington",
+    "city": "Seattle",
     "country": "US",
-    "location": "Washington, US",
-    "url": "https://www.eventbrite.com/e/decrypting-desci-decentralized-science-washington-dc-tickets-1647790167749",
+    "location": "Seattle, US",
+    "url": "https://www.eventbrite.com/e/decrypting-desci-decentralized-science-seattle-tickets-1647867067759",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1109847233%2F931565618923%2F1%2Foriginal.20250831-132847?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=2c737403f96f6bbf3d1027355d724841",
     "source": "eventbrite",
     "month": "June 2026"
@@ -4084,20 +4154,6 @@
     "location": "New York, US",
     "url": "https://www.eventbrite.com/e/tokenization-of-real-world-assets-using-blockchain-new-york-city-tickets-1962745504640",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170873381%2F931565618923%2F1%2Foriginal.20251113-132258?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2b6fbbc3fd495801ce1014de1a3aee9a",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "eb-1647867067759",
-    "name": "Decrypting DeSci (Decentralized Science) | Seattle",
-    "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
-    "startDate": "2026-06-03",
-    "endDate": "2026-06-03",
-    "city": "Seattle",
-    "country": "US",
-    "location": "Seattle, US",
-    "url": "https://www.eventbrite.com/e/decrypting-desci-decentralized-science-seattle-tickets-1647867067759",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1109847233%2F931565618923%2F1%2Foriginal.20250831-132847?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=2c737403f96f6bbf3d1027355d724841",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -4606,16 +4662,16 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1744351084049",
-    "name": "Unravelling NFTs | Perth",
+    "id": "eb-1744338566609",
+    "name": "Unravelling NFTs | Melbourne",
     "description": "2-hours live online training to help you understand the NFTs.",
     "startDate": "2026-06-09",
     "endDate": "2026-06-09",
-    "city": "Perth",
+    "city": "Melbourne",
     "country": "AU",
-    "location": "Perth, AU",
-    "url": "https://www.eventbrite.com.au/e/unravelling-nfts-perth-tickets-1744351084049",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F281709139%2F952210770403%2F1%2Foriginal.20220510-021313?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=27e3c39283be127896b407f38a58d482",
+    "location": "Melbourne, AU",
+    "url": "https://www.eventbrite.com.au/e/unravelling-nfts-melbourne-tickets-1744338566609",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F281706369%2F952210770403%2F1%2Foriginal.20220510-021313?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=b5ec4d66a876e921ce1ffc2309f62edf",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -4686,6 +4742,20 @@
     "location": "Online",
     "url": "https://www.eventbrite.com/e/ai-believe-i-can-fly-ai-defi-futures-knowit-owlz-web3-ai-cohort-tickets-1988929156648",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183953467%2F2985699604930%2F1%2Foriginal.20260506-195630?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=477397a0bd88471f29533261835849f7",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "eb-1744351084049",
+    "name": "Unravelling NFTs | Perth",
+    "description": "2-hours live online training to help you understand the NFTs.",
+    "startDate": "2026-06-09",
+    "endDate": "2026-06-09",
+    "city": "Perth",
+    "country": "AU",
+    "location": "Perth, AU",
+    "url": "https://www.eventbrite.com.au/e/unravelling-nfts-perth-tickets-1744351084049",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F281709139%2F952210770403%2F1%2Foriginal.20220510-021313?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=27e3c39283be127896b407f38a58d482",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -5782,20 +5852,6 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1983894720514",
-    "name": "The Complete NFT Course: Become an NFT Creator & Investor",
-    "description": "►►► Level Up Your Career with a Professional Qualification! ◄◄◄\n\n Are You Looking to Get Professionally Qualified and Boost Your Career?\n  Whether you’re starting fresh, changing industries, or adding",
-    "startDate": "2026-06-27",
-    "endDate": "2026-06-27",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.co.uk/e/the-complete-nft-course-become-an-nft-creator-investor-tickets-1983894720514",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178320163%2F2775024372631%2F1%2Foriginal.20260224-165103?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.095&fp-y=0.449&s=d5f8781430af3f6f734dc9f9e488ae86",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1983972255423",
     "name": "The Complete NFT Course: Become an NFT Creator & Investor",
     "description": "►►► Level Up Your Career with a Professional Qualification! ◄◄◄\n\n Are You Looking to Get Professionally Qualified and Boost Your Career?\n  Whether you’re starting fresh, changing industries, or adding",
@@ -5805,6 +5861,20 @@
     "country": "",
     "location": "Online",
     "url": "https://www.eventbrite.co.uk/e/the-complete-nft-course-become-an-nft-creator-investor-tickets-1983972255423",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178320163%2F2775024372631%2F1%2Foriginal.20260224-165103?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.095&fp-y=0.449&s=d5f8781430af3f6f734dc9f9e488ae86",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "eb-1983894720514",
+    "name": "The Complete NFT Course: Become an NFT Creator & Investor",
+    "description": "►►► Level Up Your Career with a Professional Qualification! ◄◄◄\n\n Are You Looking to Get Professionally Qualified and Boost Your Career?\n  Whether you’re starting fresh, changing industries, or adding",
+    "startDate": "2026-06-27",
+    "endDate": "2026-06-27",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.co.uk/e/the-complete-nft-course-become-an-nft-creator-investor-tickets-1983894720514",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178320163%2F2775024372631%2F1%2Foriginal.20260224-165103?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.095&fp-y=0.449&s=d5f8781430af3f6f734dc9f9e488ae86",
     "source": "eventbrite",
     "month": "June 2026"
