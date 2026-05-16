@@ -573,6 +573,16 @@ async function fetchWeb3Events() {
     'real estate agent', 'pottery', 'wine tasting', 'book club', 'knitting',
     'full stack training', 'python training', 'java training', 'seo training',
     'wedding', 'baby shower', 'bridal', 'church service', 'sermon',
+    'volleyball', 'basketball', 'soccer', 'football', 'tennis', 'golf',
+    'dance therapy', 'somatic', 'meditation', 'mindfulness', 'reiki',
+    'karaoke', 'comedy show', 'stand-up', 'improv', 'open mic',
+    'bake sale', 'garage sale', 'flea market', 'craft fair',
+    'dog walk', 'pet', 'animal shelter', 'rescue',
+    'speed dating', 'singles', 'mixer',
+    'zumba', 'crossfit', 'bootcamp', 'marathon', 'run club',
+    'paint night', 'art class', 'photography walk', 'flower',
+    'brunch', 'potluck', 'barbecue', 'picnic',
+    'play together', 'board game night', 'trivia night',
   ];
   function isBlacklisted(name) {
     if (!name) return false;
@@ -583,20 +593,14 @@ async function fetchWeb3Events() {
   const now = new Date().toISOString();
   const rawCount = allEventsMap.size;
 
-  // Exclusively Web3 sources (verified crypto hosts, dedicated blockchain categories)
-  const TRUSTED_SOURCES = new Set(['conferenceindex', 'ethglobal', 'coinmarketcap', 'luma-trusted']);
-
+  // ALL events must pass Web3 relevance — no exceptions
   const validEvents = Array.from(allEventsMap.values())
     .filter(e => {
       if (!e.startDate) return false;
       if (!e.name) return false;
       if (e.startDate < now) return false;
       if (isBlacklisted(e.name)) return false;
-      
-      // Keyword-searched sources bypass strict title filtering
-      if (!TRUSTED_SOURCES.has(e.source) && !isWeb3Relevant(e.name, e.description)) {
-        return false;
-      }
+      if (!isWeb3Relevant(e.name, e.description)) return false;
       return true;
     })
     .map(e => {
