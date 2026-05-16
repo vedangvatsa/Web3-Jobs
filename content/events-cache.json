@@ -210,20 +210,6 @@
     "month": "May 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
-    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
-    "description": "",
-    "startDate": "2026-05-17T16:00:00.000Z",
-    "endDate": "2026-05-17T16:00:00.000Z",
-    "city": "Belgrade",
-    "country": "Serbia",
-    "location": "Belgrade, Serbia",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-may-belgrade-rs",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "May 2026"
-  },
-  {
     "id": "eb-1979158837360",
     "name": "Vienna Blockchain Week (VBW26)",
     "description": "Vienna Blockchain Week 2026 is back and it will be bigger than ever.",
@@ -336,6 +322,20 @@
     "month": "May 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
+    "description": "",
+    "startDate": "2026-05-18T00:00:00.000Z",
+    "endDate": "2026-05-18T00:00:00.000Z",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "location": "Belgrade, Serbia",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-may-belgrade-rs",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "May 2026"
+  },
+  {
     "id": "cmc-69e301c324b20107622d39fa",
     "name": "Enjin Coin: Kallang Upgrade",
     "description": "\"Governance enhancements, reliable sENJ voting, staking fixes, and an updated Polkadot SDK.\"",
@@ -431,6 +431,20 @@
     "url": "https://snapshot.org/#/s:lido-snapshot.eth/proposal/0x2b221847bae789551593115be9a364db4c9a478056d6394b1bef7728790258ee",
     "coverImage": null,
     "source": "coinmarketcap",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-D685KKa91gYFbIO",
+    "name": "Stablecoin Sandwich Club: Amsterdam",
+    "description": "",
+    "startDate": "2026-05-18T14:00:00.000Z",
+    "endDate": "2026-05-18T17:00:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://lu.ma/p93gjnik",
+    "coverImage": "https://images.lumacdn.com/event-covers/id/640f06a4-4537-43d1-b5cf-54cc14b2567a.png",
+    "source": "luma",
     "month": "May 2026"
   },
   {
@@ -1036,6 +1050,20 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-314655289",
+    "name": "Neo4j Live: NeoArbi - Real-Time Crypto Arbitrage Intelligence with AI Agents",
+    "description": "NeoArbi uses Neo4j and AI agents to power a real-time crypto intelligence platform - covering arbitrage detection, market insights, blockchain forensics and regulatory analysis. By modeling exchanges,",
+    "startDate": "2026-05-20T11:00:00-04:00",
+    "endDate": "2026-05-20T11:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/graphdb-baltimore/events/314655289/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-6jMzP2jLAuEDPd3",
     "name": "Foresight AI Salon: Aurélien Nicolas | An architecture of trustable agents",
     "description": "",
@@ -1046,6 +1074,20 @@
     "location": "Berlin, Germany",
     "url": "https://lu.ma/7kzxj0uw",
     "coverImage": "https://images.lumacdn.com/uploads/h0/b58e42cd-e3e6-4cb5-9120-63256764b95f.png",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-PUkXeh5Pn810a2t",
+    "name": "Forward Deployed: Engineering Robots in the Real World",
+    "description": "",
+    "startDate": "2026-05-20T16:00:00.000Z",
+    "endDate": "2026-05-20T19:00:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://lu.ma/6ingok1f",
+    "coverImage": "https://images.lumacdn.com/event-covers/eo/bce4041f-36cd-4407-882f-2e2749b7521a.jpg",
     "source": "luma",
     "month": "May 2026"
   },
@@ -1218,20 +1260,6 @@
     "month": "May 2026"
   },
   {
-    "id": "eb-1733128948339",
-    "name": "Dubai Blockchain Network Meetup",
-    "description": "The monthly meetup for the Dubai crypto and blockchain community.",
-    "startDate": "2026-05-21",
-    "endDate": "2026-05-21",
-    "city": "Dubai",
-    "country": "AE",
-    "location": "Dubai, AE",
-    "url": "https://www.eventbrite.com/e/dubai-blockchain-network-meetup-tickets-1733128948339",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1132366393%2F1604697296493%2F1%2Foriginal.20250923-075608?w=400&auto=format%2Ccompress&q=75&sharp=10&s=e0004d2d3af68cabfbafa9ebb1d74ed9",
-    "source": "eventbrite",
-    "month": "May 2026"
-  },
-  {
     "id": "eb-1988551930354",
     "name": "Bridging the Trillion: Institutional RWA Tokenization Meets DeFi Liquidity",
     "description": "This event brings institutional issuers and DeFi protocol leaders to examine what it will take to unlock the trillion in onchain RWAs.",
@@ -1354,6 +1382,20 @@
     "location": "München, DE",
     "url": "https://www.eventbrite.de/e/spannungsfeld-governance-can-science-go-dao-tickets-1988749428075",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183709818%2F2755795757981%2F1%2Foriginal.20260504-145708?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ce2d6ad4a3a31ba94613817c6133624f",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1733128948339",
+    "name": "Dubai Blockchain Network Meetup",
+    "description": "The monthly meetup for the Dubai crypto and blockchain community.",
+    "startDate": "2026-05-21",
+    "endDate": "2026-05-21",
+    "city": "Dubai",
+    "country": "AE",
+    "location": "Dubai, AE",
+    "url": "https://www.eventbrite.com/e/dubai-blockchain-network-meetup-tickets-1733128948339",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1132366393%2F1604697296493%2F1%2Foriginal.20250923-075608?w=400&auto=format%2Ccompress&q=75&sharp=10&s=e0004d2d3af68cabfbafa9ebb1d74ed9",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -1596,6 +1638,20 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-314569963",
+    "name": "Open Bitcoin Q&A chat!",
+    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* Bitcoin.rocks\n* Bitcoin-Only.com\n* Bitcoiner.Guide\n* The",
+    "startDate": "2026-05-20T20:00:00-04:00",
+    "endDate": "2026-05-20T20:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/philadelphia-bitcoin-club/events/314569963/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-host-evt-VxAFCSzWV1emW8d",
     "name": "Lido Poolside: Tokenholder Update, May 2026",
     "description": "Events from Lido",
@@ -1610,17 +1666,59 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-314285084",
+    "id": "mu-314285113",
     "name": "Hiero Heka: A Ready-To-Use Decentralized Identity Solution",
     "description": "The Heka Identity Platform is a ready-to-use decentralized identity (aka Self-Sovereign Identity or SSI) solution for the Hiero ecosystem. The project delivers a complete set of applications and tools",
-    "startDate": "2026-05-21T23:00:00+08:00",
-    "endDate": "2026-05-21T23:00:00+08:00",
+    "startDate": "2026-05-21T11:00:00-04:00",
+    "endDate": "2026-05-21T11:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-singapore/events/314285084/",
+    "url": "https://www.meetup.com/lfdt-washington-dc/events/314285113/",
     "coverImage": null,
     "source": "meetup",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-m1L3ptYg2F7t8Ww",
+    "name": "Sesión Comisión de Derecho Público · 21 de mayo",
+    "description": "",
+    "startDate": "2026-05-21T16:00:00.000Z",
+    "endDate": "2026-05-21T17:30:00.000Z",
+    "city": "Madrid",
+    "country": "Spain",
+    "location": "Madrid, Spain",
+    "url": "https://lu.ma/7gn46c5l",
+    "coverImage": "https://images.lumacdn.com/gallery-images/r8/6d051335-7887-48c1-9148-0ea2c9ed1a37",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-lLqsl2x7e86945K",
+    "name": "Bitcoin Pizza Day | Bybit EU 🍕",
+    "description": "",
+    "startDate": "2026-05-21T17:00:00.000Z",
+    "endDate": "2026-05-21T20:30:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/sk5de3cn",
+    "coverImage": "https://images.lumacdn.com/gallery-images/4m/336f1588-c190-46e9-9dca-e662686e7697",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-f7V2f7fBkN2vr4V",
+    "name": "Lisbon Ethereum Community Hub Launch",
+    "description": "",
+    "startDate": "2026-05-21T17:00:00.000Z",
+    "endDate": "2026-05-21T20:00:00.000Z",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "location": "Lisboa, Portugal",
+    "url": "https://lu.ma/re8izfmk",
+    "coverImage": "https://images.lumacdn.com/uploads/w6/53d695fa-9311-4024-bb66-4d38b5572c45.png",
+    "source": "luma",
     "month": "May 2026"
   },
   {
@@ -2254,6 +2352,62 @@
     "month": "May 2026"
   },
   {
+    "id": "luma-evt-UmxNpkfU5rtxrhV",
+    "name": "Tokenisation and Stablecoins (feat. Citi and JPMorgan Kinexys)",
+    "description": "",
+    "startDate": "2026-05-22T16:00:00.000Z",
+    "endDate": "2026-05-22T17:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/urt5f4xq",
+    "coverImage": "https://images.lumacdn.com/uploads/ao/240e7d45-153b-4bb7-a1e4-7b91033b8872.jpg",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-0kF4o5EF2RvO9TE",
+    "name": "Bitcoin Pizza Day Berlin 🍕",
+    "description": "",
+    "startDate": "2026-05-22T16:00:00.000Z",
+    "endDate": "2026-05-22T19:30:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/btc-pizza-day",
+    "coverImage": "https://images.lumacdn.com/uploads/2q/5e24c83b-07f1-42bf-88f2-6152705a0ee8.png",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-xzzVWs2rEzHWS01",
+    "name": "Bitcoin Pizza Day",
+    "description": "",
+    "startDate": "2026-05-22T16:30:00.000Z",
+    "endDate": "2026-05-22T19:30:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/u575tio7",
+    "coverImage": "https://images.lumacdn.com/event-covers/du/62cf4cb6-af07-4cfe-bc1d-521a03ddba86.png",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-QQMv7ALOpSHkdJC",
+    "name": "SatoShe Special – Bitcoin Pizza Day 2026 🍕",
+    "description": "",
+    "startDate": "2026-05-22T16:30:00.000Z",
+    "endDate": "2026-05-22T20:00:00.000Z",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "location": "Zürich, Switzerland",
+    "url": "https://lu.ma/ojhu9l1o",
+    "coverImage": "https://images.lumacdn.com/event-covers/1o/eb94db69-5d9f-424d-9ca6-a94e28460729.webp",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-host-evt-QYMTE8kl5aWuqWu",
     "name": "Vancouver VibeStation",
     "description": "Building the Solana ecosystem in Canada 🇨🇦",
@@ -2265,6 +2419,20 @@
     "url": "https://lu.ma/v55b8q4t",
     "coverImage": "https://images.lumacdn.com/event-covers/g7/e3cf8181-b6a3-4459-94ce-da3996d308f4.png",
     "source": "luma-trusted",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-dikgHB3E5PsRPxg",
+    "name": "London MonkeDAO Meetup",
+    "description": "",
+    "startDate": "2026-05-22T17:30:00.000Z",
+    "endDate": "2026-05-22T20:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/r4411orb",
+    "coverImage": "https://images.lumacdn.com/uploads/ya/0fed4392-c269-4615-8e37-0081b8852e3e.png",
+    "source": "luma",
     "month": "May 2026"
   },
   {
@@ -2431,7 +2599,21 @@
     "country": "CA",
     "location": "Toronto, CA",
     "url": "https://www.eventbrite.ca/e/free-toronto-live-trading-event-tickets-1988372353234",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183188637%2F569271452771%2F1%2Foriginal.20260428-031634?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.504&fp-y=0.334&s=5dc2f734fc1d84e826c38809cb5e4f7c",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183188637%2F569271452771%2F1%2Foriginal.20260428-031634?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.504&fp-y=0.334&s=11d0dbf967fb5d0b25984fead999aac1",
+    "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "eb-1989760530309",
+    "name": "Seminar: Getting  Started with Blockchain and Cryptocurrencies",
+    "description": "Explore crypto markets through order flow, order book dynamics, whale activity, and real-time data analysis.",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-23",
+    "city": "Dubai",
+    "country": "AE",
+    "location": "Dubai, AE",
+    "url": "https://www.eventbrite.com/e/seminar-getting-started-with-blockchain-and-cryptocurrencies-tickets-1989760530309",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F176968489%2F198476887449%2F1%2Foriginal.20210908-134418?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=114%2C0%2C1212%2C606&s=ebc7e95185a41f1a7723f31330f932fd",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -2898,31 +3080,17 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-313873090",
+    "id": "mu-313873115",
     "name": "Enabling Anyone to Build and Operate Decentralized Networks with Hiero",
     "description": "Join us for a meetup exploring Hiero ([https://github.com/hiero-ledger](https://github.com/hiero-ledger)), an open-source, vendor-neutral distributed ledger technology (DLT) stack that powers the Hede",
-    "startDate": "2026-05-27T00:00:00+08:00",
-    "endDate": "2026-05-27T00:00:00+08:00",
+    "startDate": "2026-05-26T12:00:00-04:00",
+    "endDate": "2026-05-26T12:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-singapore/events/313873090/",
+    "url": "https://www.meetup.com/lfdt-washington-dc/events/313873115/",
     "coverImage": null,
     "source": "meetup",
-    "month": "May 2026"
-  },
-  {
-    "id": "luma-host-evt-aXzoDgAPQp60E5D",
-    "name": "Building with Chainlink: Infrastructure, Innovation, and Careers",
-    "description": "Find your local meetup on the Chainlink Community Global Events Calendar",
-    "startDate": "2026-05-26T16:45:00.000Z",
-    "endDate": "2026-05-26T18:45:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/cl_nyu02",
-    "coverImage": "https://images.lumacdn.com/uploads/q4/1a102c8c-ae2f-4d54-a64f-f6b5a9d66956.jpg",
-    "source": "luma-trusted",
     "month": "May 2026"
   },
   {
@@ -3117,7 +3285,7 @@
     "country": "US",
     "location": "Lansing, US",
     "url": "https://www.eventbrite.com/e/irwa-general-meeting-at-jackson-field-in-lansing-mi-registration-1986988238309",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181692455%2F2860875382241%2F1%2Foriginal.20260408-142742?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.973&fp-y=0.088&s=e9f4a30fd6c1107781577fe0d4acc1b0",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181692455%2F2860875382241%2F1%2Foriginal.20260408-142742?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.973&fp-y=0.088&s=a4bf1b203802b2502de4dcab948b785c",
     "source": "eventbrite",
     "month": "May 2026"
   },
@@ -3147,6 +3315,20 @@
     "url": "https://www.eventbrite.sg/e/digital-strategy-to-execution-2-day-workshop-in-san-jose-ca-tickets-1984103063674",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171902092%2F2740397811611%2F1%2Foriginal.20251128-041956?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=880192c4a3e77146e91278a1e0c1cde7",
     "source": "eventbrite",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-UC6c6jfYp8F01tg",
+    "name": "SatoShe Special – Gold, Diamonds & Bitcoin: Timeless Assets in a Modern World (EN, Zurich)",
+    "description": "",
+    "startDate": "2026-05-27T16:00:00.000Z",
+    "endDate": "2026-05-27T19:00:00.000Z",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "location": "Zürich, Switzerland",
+    "url": "https://lu.ma/nzxk6vm2",
+    "coverImage": "https://images.lumacdn.com/event-covers/ez/aefdb090-a7a8-4e0e-9539-7f995f7afcce.png",
+    "source": "luma",
     "month": "May 2026"
   },
   {
@@ -3402,6 +3584,48 @@
     "month": "May 2026"
   },
   {
+    "id": "luma-evt-5sV8eNmSraXNGSW",
+    "name": "CVC26 - Binance Institutional Breakfast",
+    "description": "",
+    "startDate": "2026-05-28T06:30:00.000Z",
+    "endDate": "2026-05-28T09:30:00.000Z",
+    "city": "Risch-Rotkreuz",
+    "country": "Switzerland",
+    "location": "Risch-Rotkreuz, Switzerland",
+    "url": "https://lu.ma/CVC26-Binance-Breakfast",
+    "coverImage": "https://images.lumacdn.com/uploads/cq/4cc9bff3-27c9-4ccf-b500-7bc38bb08048.png",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-VTlPtaqkkRHd3tx",
+    "name": "Crypto Valley Conference 2026",
+    "description": "",
+    "startDate": "2026-05-28T07:00:00.000Z",
+    "endDate": "2026-05-28T19:00:00.000Z",
+    "city": "Risch-Rotkreuz",
+    "country": "Switzerland",
+    "location": "Risch-Rotkreuz, Switzerland",
+    "url": "https://lu.ma/CVC26",
+    "coverImage": "https://images.lumacdn.com/uploads/10/f2f93f51-c88f-4ab0-abc7-a9c36023065a.png",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-EOMrOB8URF9dt7G",
+    "name": "ARCHITECTURE ICONS: Beyond Context – Jasper Architects im Budapester Salon",
+    "description": "",
+    "startDate": "2026-05-28T16:00:00.000Z",
+    "endDate": "2026-05-28T20:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/ja_budapester",
+    "coverImage": "https://images.lumacdn.com/uploads/3x/83845468-c3d2-44e6-831f-efe7ab838684.jpg",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-jByIa4y2wdoMNM5",
     "name": "Sharks’ Valley Launchpad",
     "description": "",
@@ -3640,20 +3864,6 @@
     "month": "May 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-and-blockchain-icscb-2",
-    "name": "International Conference on Smart Contracts and Blockchain (ICSCB)",
-    "description": "",
-    "startDate": "2026-05-31T16:00:00.000Z",
-    "endDate": "2026-05-31T16:00:00.000Z",
-    "city": "Sofia",
-    "country": "Bulgaria",
-    "location": "Sofia, Bulgaria",
-    "url": "https://conferenceindex.org/event/international-conference-on-smart-contracts-and-blockchain-icscb-2026-june-sofia-bg",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1988763425943",
     "name": "Bitcoin Indonesia Community Meetup Pekanbaru 01 Juni 2026",
     "description": "Apakah Bitcoin Akan ke 0?",
@@ -3710,6 +3920,48 @@
     "month": "June 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-and-blockchain-icscb-2",
+    "name": "International Conference on Smart Contracts and Blockchain (ICSCB)",
+    "description": "",
+    "startDate": "2026-06-01T00:00:00.000Z",
+    "endDate": "2026-06-01T00:00:00.000Z",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "location": "Sofia, Bulgaria",
+    "url": "https://conferenceindex.org/event/international-conference-on-smart-contracts-and-blockchain-icscb-2026-june-sofia-bg",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-fvWeKO3Wu7eGjJH",
+    "name": "Maker Basics: Soldering & Electronics",
+    "description": "",
+    "startDate": "2026-06-01T14:00:00.000Z",
+    "endDate": "2026-06-01T16:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/pbfws2mk",
+    "coverImage": "https://images.lumacdn.com/event-covers/2m/724fa110-8f37-42de-9441-4b3307c22ab5.jpg",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-UUbuiARlP81y3AU",
+    "name": "CryptoMondays (Proof of Talk)",
+    "description": "",
+    "startDate": "2026-06-01T16:00:00.000Z",
+    "endDate": "2026-06-01T18:30:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/5r1vj6zl",
+    "coverImage": "https://images.lumacdn.com/event-covers/af/21d36905-f605-4b21-a496-449fc80d9881.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-host-disccal-n6TM01HTzsnUHAl",
     "name": "Istanbul Blockchain Week",
     "description": "Explore side events at Istanbul Blockchain Week from June 2-3, where global blockchain enthusiasts and experts converge to discuss innovations and trends in the industry.",
@@ -3721,6 +3973,34 @@
     "url": "https://lu.ma/istanbul-blockchain-week",
     "coverImage": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwyfHxpc3RhbmJ1bHxlbnwwfHx8fDE3MjEzMDAzNTV8Mg&ixlib=rb-4.0.3&q=80&w=1080",
     "source": "luma-trusted",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314502579",
+    "name": "Online Bitcoin Hangout",
+    "description": "**Online Bitcoin Hangout**\nThis virtual meetup is perfect for anyone interested in Bitcoin who can't (or prefers not to) attend our in-person events in Charlotte. This is an informal hangout where we ",
+    "startDate": "2026-06-01T18:30:00-04:00",
+    "endDate": "2026-06-01T18:30:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/bitcoincharlotte/events/314502579/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-313083744",
+    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
+    "description": "Network virtually with those located in the DMV (District of Columbia, Virginia & Maryland) and internationally!\n\nThis monthly Monday meeting is hosted by Maryland Blockchain Association, Blockchain L",
+    "startDate": "2026-06-01T19:00:00-04:00",
+    "endDate": "2026-06-01T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/313083744/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -3864,6 +4144,20 @@
     "month": "June 2026"
   },
   {
+    "id": "eb-1835682568979",
+    "name": "Decrypting DeSci (Decentralized Science) | Brisbane",
+    "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
+    "startDate": "2026-06-02",
+    "endDate": "2026-06-02",
+    "city": "Brisbane",
+    "country": "AU",
+    "location": "Brisbane, AU",
+    "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-brisbane-tickets-1835682568979",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1155430453%2F952210770403%2F1%2Foriginal.20251016-221859?w=400&auto=format%2Ccompress&q=75&sharp=10&s=6255ac717f8331a0d2e9a47949d51dc0",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
     "id": "eb-1988049835575",
     "name": "Agribusiness Australia | WA Evening Event",
     "description": "The current fuel landscape and emerging opportunities moving forward!",
@@ -3931,6 +4225,34 @@
     "url": "https://europe.money2020.com/",
     "coverImage": null,
     "source": "marketacross",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-iVSPH4tFOz1gjOt",
+    "name": "2030: Every Asset Is Onchain. What's Your Move Today?",
+    "description": "",
+    "startDate": "2026-06-02T06:30:00.000Z",
+    "endDate": "2026-06-02T08:30:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/tbw_proof_of_talk",
+    "coverImage": "https://images.lumacdn.com/uploads/kx/38d18d98-8311-4b6c-871a-7ed7cef1695e.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314290209",
+    "name": "Redefining Success – The Metrics That Matter",
+    "description": "**Creating Your Own Business KPI’s**\nLet’s stop guessing at idealistic revenue goals and watching for social media post conversions. What if success looked and felt different — and better? We’ll be di",
+    "startDate": "2026-06-02T09:00:00-04:00",
+    "endDate": "2026-06-02T09:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/collaberex-self-development-business-community-washington-dc/events/314290209/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -4158,20 +4480,6 @@
     "month": "June 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-bitcoin-filmfest-bff-2026-june-warsaw-pl",
-    "name": "Bitcoin FilmFest (BFF)",
-    "description": "",
-    "startDate": "2026-06-03T16:00:00.000Z",
-    "endDate": "2026-06-03T16:00:00.000Z",
-    "city": "Warsaw",
-    "country": "Poland",
-    "location": "Warsaw, Poland",
-    "url": "https://conferenceindex.org/event/bitcoin-filmfest-bff-2026-june-warsaw-pl",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1918820536879",
     "name": "Decrypting DeSci (Decentralized Science) | Zurich",
     "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
@@ -4270,15 +4578,29 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314584609",
+    "id": "ci-https---conferenceindex-org-event-bitcoin-filmfest-bff-2026-june-warsaw-pl",
+    "name": "Bitcoin FilmFest (BFF)",
+    "description": "",
+    "startDate": "2026-06-04T00:00:00.000Z",
+    "endDate": "2026-06-04T00:00:00.000Z",
+    "city": "Warsaw",
+    "country": "Poland",
+    "location": "Warsaw, Poland",
+    "url": "https://conferenceindex.org/event/bitcoin-filmfest-bff-2026-june-warsaw-pl",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314584688",
     "name": "Quantum Threat Landscape: Where We Stand and How to Prepare",
     "description": "Quantum computing is no longer a distant threat. Improvements in hardware design, new algorithmic breakthroughs, and expert surveys now put a cryptographically-relevant quantum computer sooner than th",
-    "startDate": "2026-06-04T23:00:00+08:00",
-    "endDate": "2026-06-04T23:00:00+08:00",
+    "startDate": "2026-06-04T11:00:00-04:00",
+    "endDate": "2026-06-04T11:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-singapore/events/314584609/",
+    "url": "https://www.meetup.com/lfdt-washington-dc/events/314584688/",
     "coverImage": null,
     "source": "meetup",
     "month": "June 2026"
@@ -4480,20 +4802,6 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314699936",
-    "name": "June 2026 Wakanda Blockchain, Bitcoin and Digital Asset MeetUp",
-    "description": "",
-    "startDate": "2026-06-06T21:00:00+08:00",
-    "endDate": "2026-06-06T21:00:00+08:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/wakanda-blockchain-and-cryptocurrency-meet-up/events/314699936/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1988825989071",
     "name": "Bitcoin Indonesia Community Meetup Jakarta Barat 07 Juni 2026",
     "description": "Pengantar Ekonomi Austria - Part 3",
@@ -4503,7 +4811,7 @@
     "country": "ID",
     "location": "Kec. Grogol petamburan, ID",
     "url": "https://www.eventbrite.com/e/bitcoin-indonesia-community-meetup-jakarta-barat-07-juni-2026-tickets-1988825989071",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181499336%2F1964280582393%2F1%2Foriginal.20260406-124532?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5fe0da0b4e76a744315942cec914c7cc",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181499336%2F1964280582393%2F1%2Foriginal.20260406-124532?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=92499ca6183bb9b035d345212e91df9a",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -4536,34 +4844,6 @@
     "month": "June 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-ethconf-2026-june-new-york-us",
-    "name": "ETHConf",
-    "description": "",
-    "startDate": "2026-06-07T16:00:00.000Z",
-    "endDate": "2026-06-07T16:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://conferenceindex.org/event/ethconf-2026-june-new-york-us",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "June 2026"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi",
-    "name": "International Conference on Financial Cryptography and Data Security (ICFCDS)",
-    "description": "",
-    "startDate": "2026-06-07T16:00:00.000Z",
-    "endDate": "2026-06-07T16:00:00.000Z",
-    "city": "Tokyo",
-    "country": "Japan",
-    "location": "Tokyo, Japan",
-    "url": "https://conferenceindex.org/event/international-conference-on-financial-cryptography-and-data-security-icfcds-2026-june-tokyo-jp",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1985719838491",
     "name": "Blockchain Community Day 2026 | Enterprise Web3 Conference",
     "description": "An enterprise-focused Web3 conference built around production-grade technology and real-world applications.",
@@ -4592,6 +4872,34 @@
     "month": "June 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-ethconf-2026-june-new-york-us",
+    "name": "ETHConf",
+    "description": "",
+    "startDate": "2026-06-08T00:00:00.000Z",
+    "endDate": "2026-06-08T00:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://conferenceindex.org/event/ethconf-2026-june-new-york-us",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi",
+    "name": "International Conference on Financial Cryptography and Data Security (ICFCDS)",
+    "description": "",
+    "startDate": "2026-06-08T00:00:00.000Z",
+    "endDate": "2026-06-08T00:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://conferenceindex.org/event/international-conference-on-financial-cryptography-and-data-security-icfcds-2026-june-tokyo-jp",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
     "id": "ma-ethconf",
     "name": "ETHConf",
     "description": "Shaping the Future Together ETHConf is a 3 day event for founders, industry leaders, and builders who are excited about the possibilities of building on top of Ethereum. Join 5,000+ founders, speakers",
@@ -4617,6 +4925,20 @@
     "url": "https://ukrainianblockchainweek.com/",
     "coverImage": null,
     "source": "marketacross",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-host-evt-aXzoDgAPQp60E5D",
+    "name": "Building with Chainlink: Infrastructure, Innovation, and Careers",
+    "description": "Find your local meetup on the Chainlink Community Global Events Calendar",
+    "startDate": "2026-06-08T17:00:00.000Z",
+    "endDate": "2026-06-08T19:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/cl_nyu02",
+    "coverImage": "https://images.lumacdn.com/uploads/q4/1a102c8c-ae2f-4d54-a64f-f6b5a9d66956.jpg",
+    "source": "luma-trusted",
     "month": "June 2026"
   },
   {
@@ -4741,7 +5063,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.eventbrite.com/e/ai-believe-i-can-fly-ai-defi-futures-knowit-owlz-web3-ai-cohort-tickets-1988929156648",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183953467%2F2985699604930%2F1%2Foriginal.20260506-195630?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=477397a0bd88471f29533261835849f7",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183953467%2F2985699604930%2F1%2Foriginal.20260506-195630?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8c37fb98499fb7017955f831a42f9218",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -5026,15 +5348,15 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314651633",
+    "id": "mu-314651575",
     "name": "Lineth Technical Deep Dive: Inside the Production-Grade ZK Rollup Stack",
     "description": "[With the announcement of Lineth joining Linux Foundation Decentralized Trust as an incubating project](https://www.lfdecentralizedtrust.org/blog/announcing-lineth-a-production-grade-zk-rollup-stack-j",
-    "startDate": "2026-06-10T21:00:00+08:00",
-    "endDate": "2026-06-10T21:00:00+08:00",
+    "startDate": "2026-06-10T09:00:00-04:00",
+    "endDate": "2026-06-10T09:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-singapore/events/314651633/",
+    "url": "https://www.meetup.com/lfdt-washington-dc/events/314651575/",
     "coverImage": null,
     "source": "meetup",
     "month": "June 2026"
@@ -5205,6 +5527,20 @@
     "url": "https://lu.ma/hyperliquid-forum-ny",
     "coverImage": "https://images.lumacdn.com/event-covers/pa/421b824e-df06-43ad-964a-c7969e2ddac6.png",
     "source": "luma-trusted",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-312444426",
+    "name": "Web 3.0: Exploring DAOs, NFTs, Cryptos, and RWAs",
+    "description": "Welcome to Blockchain in Business, the premier destination to learn, share, explore, and practice all things related to blockchain. Whether you're a seasoned expert or a curious beginner, our platform",
+    "startDate": "2026-06-11T19:00:00-04:00",
+    "endDate": "2026-06-11T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/blockchaininbusiness/events/312444426/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -5432,6 +5768,20 @@
     "month": "June 2026"
   },
   {
+    "id": "luma-evt-6Hw5LUImISrcGrD",
+    "name": "XRPL Blockchain Research Summit",
+    "description": "",
+    "startDate": "2026-06-16T07:00:00.000Z",
+    "endDate": "2026-06-17T13:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/XRPL-Blockchain-Research-Summit",
+    "coverImage": "https://images.lumacdn.com/uploads/gs/6119ff52-888c-42aa-a273-a617e1fc8424.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "eb-1988442762831",
     "name": "Part One: Demystifying Crypto; Part Two: Ethics in Action",
     "description": "Dive into the crypto world and explore real-life ethics—all from your couch!",
@@ -5603,8 +5953,8 @@
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-information-technology-and-",
     "name": "International Conference on Blockchain, Information Technology and Smart Finance (ICBIS)",
     "description": "",
-    "startDate": "2026-06-18T16:00:00.000Z",
-    "endDate": "2026-06-18T16:00:00.000Z",
+    "startDate": "2026-06-19T00:00:00.000Z",
+    "endDate": "2026-06-19T00:00:00.000Z",
     "city": "Shanghai",
     "country": "China",
     "location": "Shanghai, China",
@@ -5670,20 +6020,6 @@
     "month": "June 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-",
-    "name": "International Conference on Cryptography and Information Security (ICCIS)",
-    "description": "",
-    "startDate": "2026-06-21T16:00:00.000Z",
-    "endDate": "2026-06-21T16:00:00.000Z",
-    "city": "Vienna",
-    "country": "Austria",
-    "location": "Vienna, Austria",
-    "url": "https://conferenceindex.org/event/international-conference-on-cryptography-and-information-security-iccis-2026-june-vienna-at",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "June 2026"
-  },
-  {
     "id": "luma-host-disccal-UcoUVkGcHV0eWAG",
     "name": "Dutch Blockchain Week 2026",
     "description": "Dutch Blockchain Week returns for its 8th edition, bringing together Tier 1 exchanges, leading Web3 projects, global institutions, and policymakers from across the globe. Dates will be announced soon!",
@@ -5723,6 +6059,20 @@
     "url": "https://www.eventbrite.fr/e/bitcoin-pizza-day-bucuresti-tickets-1989662748842",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184686552%2F2183186129413%2F1%2Foriginal.20260515-141407?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.522&fp-y=0.74&s=669bcab8042e24f68e915a69070eacd8",
     "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-",
+    "name": "International Conference on Cryptography and Information Security (ICCIS)",
+    "description": "",
+    "startDate": "2026-06-22T00:00:00.000Z",
+    "endDate": "2026-06-22T00:00:00.000Z",
+    "city": "Vienna",
+    "country": "Austria",
+    "location": "Vienna, Austria",
+    "url": "https://conferenceindex.org/event/international-conference-on-cryptography-and-information-security-iccis-2026-june-vienna-at",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "June 2026"
   },
   {
@@ -5777,7 +6127,7 @@
     "country": "CA",
     "location": "Calgary, CA",
     "url": "https://www.eventbrite.ca/e/the-bitcoin-rodeo-2026-tickets-1527947525179",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1080817253%2F2411163215793%2F1%2Foriginal.20250724-203212?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.479166666667&fp-y=0.102649006623&s=5f98feaf6efbcef349141ff21bbfba51",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1080817253%2F2411163215793%2F1%2Foriginal.20250724-203212?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.479166666667&fp-y=0.102649006623&s=e16453c8eb8c60ccd581a23eaf174d53",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -5852,20 +6202,6 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1983972255423",
-    "name": "The Complete NFT Course: Become an NFT Creator & Investor",
-    "description": "►►► Level Up Your Career with a Professional Qualification! ◄◄◄\n\n Are You Looking to Get Professionally Qualified and Boost Your Career?\n  Whether you’re starting fresh, changing industries, or adding",
-    "startDate": "2026-06-27",
-    "endDate": "2026-06-27",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.co.uk/e/the-complete-nft-course-become-an-nft-creator-investor-tickets-1983972255423",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178320163%2F2775024372631%2F1%2Foriginal.20260224-165103?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.095&fp-y=0.449&s=d5f8781430af3f6f734dc9f9e488ae86",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1983894720514",
     "name": "The Complete NFT Course: Become an NFT Creator & Investor",
     "description": "►►► Level Up Your Career with a Professional Qualification! ◄◄◄\n\n Are You Looking to Get Professionally Qualified and Boost Your Career?\n  Whether you’re starting fresh, changing industries, or adding",
@@ -5875,6 +6211,20 @@
     "country": "",
     "location": "Online",
     "url": "https://www.eventbrite.co.uk/e/the-complete-nft-course-become-an-nft-creator-investor-tickets-1983894720514",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178320163%2F2775024372631%2F1%2Foriginal.20260224-165103?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.095&fp-y=0.449&s=d5f8781430af3f6f734dc9f9e488ae86",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "eb-1983972255423",
+    "name": "The Complete NFT Course: Become an NFT Creator & Investor",
+    "description": "►►► Level Up Your Career with a Professional Qualification! ◄◄◄\n\n Are You Looking to Get Professionally Qualified and Boost Your Career?\n  Whether you’re starting fresh, changing industries, or adding",
+    "startDate": "2026-06-27",
+    "endDate": "2026-06-27",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.co.uk/e/the-complete-nft-course-become-an-nft-creator-investor-tickets-1983972255423",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178320163%2F2775024372631%2F1%2Foriginal.20260224-165103?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.095&fp-y=0.449&s=d5f8781430af3f6f734dc9f9e488ae86",
     "source": "eventbrite",
     "month": "June 2026"
@@ -5897,8 +6247,8 @@
     "id": "dtt-global-blockchain-show-2026",
     "name": "GLOBAL BLOCKCHAIN SHOW 2026",
     "description": "",
-    "startDate": "2026-06-28T16:00:00.000Z",
-    "endDate": "2026-06-28T16:00:00.000Z",
+    "startDate": "2026-06-29T00:00:00.000Z",
+    "endDate": "2026-06-29T00:00:00.000Z",
     "city": "June 29-30, 2026Riyadh, Saudi Arabia",
     "country": "",
     "location": "June 29-30, 2026Riyadh, Saudi Arabia",
@@ -5919,7 +6269,7 @@
     "url": "https://lu.ma/ivs",
     "coverImage": "https://images.unsplash.com/photo-1590150009955-c310afa4ff36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwzNTB8fGt5b3RvfGVufDB8fHx8MTc1MTE0NjY2Mnwy&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "luma-trusted",
-    "month": "July 2026"
+    "month": "June 2026"
   },
   {
     "id": "eb-1988761127067",
@@ -5964,20 +6314,6 @@
     "month": "July 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-digital-economy-blockchain-and-artific",
-    "name": "International Conference on Digital Economy, Blockchain and Artificial Intelligence (DEBAI)",
-    "description": "",
-    "startDate": "2026-07-02T16:00:00.000Z",
-    "endDate": "2026-07-02T16:00:00.000Z",
-    "city": "Ho Chi Minh City",
-    "country": "Vietnam",
-    "location": "Ho Chi Minh City, Vietnam",
-    "url": "https://conferenceindex.org/event/international-conference-on-digital-economy-blockchain-and-artificial-intelligence-debai-2026-july-ho-chi-minh-city-vn",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1981104022461",
     "name": "KI & ZUKUNFT DES COACHINGS - INTERAKTIVE MASTERCLASS",
     "description": "KI bewusst nutzen. Zukunft gestalten. Coaching menschlich halten.",
@@ -5989,6 +6325,20 @@
     "url": "https://www.eventbrite.de/e/ki-zukunft-des-coachings-interaktive-masterclass-tickets-1981104022461",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F535647779%2F433985132478%2F1%2Foriginal.20200326-141300?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1026%2C0%2C1176%2C588&s=4c36720942f41ac2b706bded78b91b41",
     "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-digital-economy-blockchain-and-artific",
+    "name": "International Conference on Digital Economy, Blockchain and Artificial Intelligence (DEBAI)",
+    "description": "",
+    "startDate": "2026-07-03T00:00:00.000Z",
+    "endDate": "2026-07-03T00:00:00.000Z",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://conferenceindex.org/event/international-conference-on-digital-economy-blockchain-and-artificial-intelligence-debai-2026-july-ho-chi-minh-city-vn",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "July 2026"
   },
   {
@@ -6020,20 +6370,6 @@
     "month": "July 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-blockchain-and-internet-of-things-conference-biotc-2026-july-tokyo",
-    "name": "Blockchain and Internet of Things Conference (BIOTC)",
-    "description": "",
-    "startDate": "2026-07-07T16:00:00.000Z",
-    "endDate": "2026-07-07T16:00:00.000Z",
-    "city": "Tokyo",
-    "country": "Japan",
-    "location": "Tokyo, Japan",
-    "url": "https://conferenceindex.org/event/blockchain-and-internet-of-things-conference-biotc-2026-july-tokyo-jp-1",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1985733662840",
     "name": "What Is Crypto? What Savvy Investors Should Know",
     "description": "Crypto has evolved. Learn the basics—and what actually matters for investors today.",
@@ -6059,6 +6395,20 @@
     "url": "https://www.eventbrite.com/e/capital-variation-empowering-women-the-future-of-uk-global-economy-tickets-1989265174687",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184367534%2F2288216461023%2F1%2Foriginal.20260512-052141?w=398&auto=format%2Ccompress&q=75&sharp=10&s=b249fc422d5fb22d15dd725513be6db8",
     "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-blockchain-and-internet-of-things-conference-biotc-2026-july-tokyo",
+    "name": "Blockchain and Internet of Things Conference (BIOTC)",
+    "description": "",
+    "startDate": "2026-07-08T00:00:00.000Z",
+    "endDate": "2026-07-08T00:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://conferenceindex.org/event/blockchain-and-internet-of-things-conference-biotc-2026-july-tokyo-jp-1",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "July 2026"
   },
   {
@@ -6314,20 +6664,6 @@
     "month": "July 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-pragma-pragma-2026-july-lisbon-pt",
-    "name": "Pragma (PRAGMA)",
-    "description": "",
-    "startDate": "2026-07-22T16:00:00.000Z",
-    "endDate": "2026-07-22T16:00:00.000Z",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "location": "Lisbon, Portugal",
-    "url": "https://conferenceindex.org/event/pragma-pragma-2026-july-lisbon-pt",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1987826246815",
     "name": "5th Annual Web3 Investor Day",
     "description": "Investing in Adoption",
@@ -6339,6 +6675,20 @@
     "url": "https://www.eventbrite.com/e/5th-annual-web3-investor-day-tickets-1987826246815",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184711478%2F2998867448093%2F1%2Foriginal.20260515-191025?crop=focalpoint&fit=crop&h=200&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c0b4c66b174ed5330d074a1c8ec3e508",
     "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-pragma-pragma-2026-july-lisbon-pt",
+    "name": "Pragma (PRAGMA)",
+    "description": "",
+    "startDate": "2026-07-23T00:00:00.000Z",
+    "endDate": "2026-07-23T00:00:00.000Z",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "location": "Lisbon, Portugal",
+    "url": "https://conferenceindex.org/event/pragma-pragma-2026-july-lisbon-pt",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "July 2026"
   },
   {
@@ -6373,8 +6723,8 @@
     "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-blockchain-and-cryptoc",
     "name": "International Conference on Smart Contracts, Blockchain and Cryptocurrencies (ICSCBC)",
     "description": "",
-    "startDate": "2026-07-23T16:00:00.000Z",
-    "endDate": "2026-07-23T16:00:00.000Z",
+    "startDate": "2026-07-24T00:00:00.000Z",
+    "endDate": "2026-07-24T00:00:00.000Z",
     "city": "Rhodes",
     "country": "Greece",
     "location": "Rhodes, Greece",
@@ -6415,8 +6765,8 @@
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-artificial-intelligence-and",
     "name": "International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys)",
     "description": "",
-    "startDate": "2026-07-28T16:00:00.000Z",
-    "endDate": "2026-07-28T16:00:00.000Z",
+    "startDate": "2026-07-29T00:00:00.000Z",
+    "endDate": "2026-07-29T00:00:00.000Z",
     "city": "Chengdu",
     "country": "China",
     "location": "Chengdu, China",
@@ -6485,8 +6835,8 @@
     "id": "ci-https---conferenceindex-org-event-bitcoin-beyond-bb66-2026-august-bodo-no",
     "name": "Bitcoin Beyond (BB66)",
     "description": "",
-    "startDate": "2026-08-13T16:00:00.000Z",
-    "endDate": "2026-08-13T16:00:00.000Z",
+    "startDate": "2026-08-14T00:00:00.000Z",
+    "endDate": "2026-08-14T00:00:00.000Z",
     "city": "Bodø",
     "country": "Norway",
     "location": "Bodø, Norway",
@@ -6510,20 +6860,6 @@
     "month": "August 2026"
   },
   {
-    "id": "dtt-coinfest-asia-2026",
-    "name": "COINFEST ASIA 2026",
-    "description": "",
-    "startDate": "2026-08-19T16:00:00.000Z",
-    "endDate": "2026-08-19T16:00:00.000Z",
-    "city": "August 20-21, 2026Bali",
-    "country": "",
-    "location": "August 20-21, 2026Bali",
-    "url": "https://coinfest.asia",
-    "coverImage": null,
-    "source": "deeptechtimes",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-disccal-evjncqP22uBRK1E",
     "name": "Coinfest Asia",
     "description": "World's largest crypto festival, where innovation meets adoption.\nBali, Indonesia | 20-21 Aug 2026",
@@ -6538,6 +6874,20 @@
     "month": "August 2026"
   },
   {
+    "id": "dtt-coinfest-asia-2026",
+    "name": "COINFEST ASIA 2026",
+    "description": "",
+    "startDate": "2026-08-20T00:00:00.000Z",
+    "endDate": "2026-08-20T00:00:00.000Z",
+    "city": "August 20-21, 2026Bali",
+    "country": "",
+    "location": "August 20-21, 2026Bali",
+    "url": "https://coinfest.asia",
+    "coverImage": null,
+    "source": "deeptechtimes",
+    "month": "August 2026"
+  },
+  {
     "id": "ma-coinfest-asia",
     "name": "CoinFest Asia",
     "description": "Coinfest Asia is the world's biggest crypto festival, held annually in Bali, Indonesia. It brings together developers, investors, builders, creators, and enthusiasts from over 90 countries for two day",
@@ -6549,6 +6899,20 @@
     "url": "https://coinfest.asia/",
     "coverImage": null,
     "source": "marketacross",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-J6FD5pFOxRSZgKx",
+    "name": "Bitcoin Block Party",
+    "description": "",
+    "startDate": "2026-08-23T18:00:00.000Z",
+    "endDate": "2026-08-24T02:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/ed63hjqz",
+    "coverImage": "https://images.lumacdn.com/gallery-images/3o/1eac0497-1680-41a6-ba52-6b3b2cc61025",
+    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -6608,20 +6972,6 @@
     "month": "August 2026"
   },
   {
-    "id": "ethorg-meetupweb3privacy-now-meetupseptember-1amsterdam--",
-    "name": "MeetupWeb3Privacy now meetupSeptember 1Amsterdam, Netherlands (opens in a new tab)",
-    "description": "",
-    "startDate": "2026-08-31T16:00:00.000Z",
-    "endDate": "",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://luma.com/sixp297m",
-    "coverImage": null,
-    "source": "ethereum-org",
-    "month": "September 2026"
-  },
-  {
     "id": "eb-1985747187292",
     "name": "NFT.NYC 2026",
     "description": "NFT.NYC 2026 returns to Times Square where Builders, Brands, and Creators shape the Future of Digital Ownership.",
@@ -6633,6 +6983,20 @@
     "url": "https://www.eventbrite.com/e/nftnyc-2026-tickets-1985747187292",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180500057%2F154876678546%2F1%2Foriginal.20260323-192530?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=381%2C0%2C2564%2C1282&s=f0d4d885f65deae762c94ec6ffe9e45b",
     "source": "eventbrite",
+    "month": "September 2026"
+  },
+  {
+    "id": "ethorg-meetupweb3privacy-now-meetupseptember-1amsterdam--",
+    "name": "MeetupWeb3Privacy now meetupSeptember 1Amsterdam, Netherlands (opens in a new tab)",
+    "description": "",
+    "startDate": "2026-09-01T00:00:00.000Z",
+    "endDate": "",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://luma.com/sixp297m",
+    "coverImage": null,
+    "source": "ethereum-org",
     "month": "September 2026"
   },
   {
@@ -6720,6 +7084,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-nZ3FGlDyNEHGDJI",
+    "name": "AI & WEB3 Growth Summit",
+    "description": "",
+    "startDate": "2026-09-14T07:00:00.000Z",
+    "endDate": "2026-09-14T15:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/nivf7yvb",
+    "coverImage": "https://images.lumacdn.com/uploads/bt/9d1ffe93-a29a-4659-b887-b23a66edbc9b.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-host-disccal-oomOTSz0UtKANFu",
     "name": "European Blockchain Convention",
     "description": "Barcelona hosts the European Blockchain Convention from September 16–17, bringing together developers, investors, and policymakers to dive into the future of blockchain in Europe.",
@@ -6751,7 +7129,7 @@
     "id": "ethorg-meetupweb3privacy-now-tokyo-meetupseptember-18toky",
     "name": "MeetupWeb3Privacy now Tokyo meetupSeptember 18Tokyo, Japan (opens in a new tab)",
     "description": "",
-    "startDate": "2026-09-17T16:00:00.000Z",
+    "startDate": "2026-09-18T00:00:00.000Z",
     "endDate": "",
     "city": "Tokyo",
     "country": "Japan",
@@ -6765,8 +7143,8 @@
     "id": "ci-https---conferenceindex-org-event-pragma-pragma-2026-september-tokyo-jp",
     "name": "Pragma (PRAGMA)",
     "description": "",
-    "startDate": "2026-09-23T16:00:00.000Z",
-    "endDate": "2026-09-23T16:00:00.000Z",
+    "startDate": "2026-09-24T00:00:00.000Z",
+    "endDate": "2026-09-24T00:00:00.000Z",
     "city": "Tokyo",
     "country": "Japan",
     "location": "Tokyo, Japan",
@@ -6801,6 +7179,20 @@
     "url": "https://ethglobal.com/events/tokyo2026",
     "coverImage": null,
     "source": "marketacross",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-n9rDNPFnX8LmpJC",
+    "name": "RWA EUROPE - The Leading European Summit for Real-World Asset Tokenization",
+    "description": "",
+    "startDate": "2026-09-25T07:30:00.000Z",
+    "endDate": "2026-09-25T19:30:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/47w93rzv",
+    "coverImage": "https://images.lumacdn.com/event-covers/zu/f55e44cb-a569-4c30-84e5-c83542e61a9c.png",
+    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -6891,8 +7283,8 @@
     "id": "dtt-token2049-singapore-2026",
     "name": "TOKEN2049 SINGAPORE 2026",
     "description": "",
-    "startDate": "2026-10-06T16:00:00.000Z",
-    "endDate": "2026-10-06T16:00:00.000Z",
+    "startDate": "2026-10-07T00:00:00.000Z",
+    "endDate": "2026-10-07T00:00:00.000Z",
     "city": "SINGAPORE 2026October 7-8, 2026Singapore",
     "country": "",
     "location": "SINGAPORE 2026October 7-8, 2026Singapore",
@@ -6986,20 +7378,6 @@
     "month": "November 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-artificial-intelligence-and-blockchain-conference-ai",
-    "name": "International Artificial Intelligence and Blockchain Conference (AIBC)",
-    "description": "",
-    "startDate": "2026-11-19T16:00:00.000Z",
-    "endDate": "2026-11-19T16:00:00.000Z",
-    "city": "Osaka",
-    "country": "Japan",
-    "location": "Osaka, Japan",
-    "url": "https://conferenceindex.org/event/international-artificial-intelligence-and-blockchain-conference-aibc-2026-november-osaka-jp",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "November 2026"
-  },
-  {
     "id": "eb-1984371266877",
     "name": "Bitcoin (& crypto) Wealth Summit  #2 Bordeaux 20 Novembre 2026",
     "description": "Avocats, Notaires, Experts Comptables, Bitcoiner : Faites un point sur les dernières actualités juridiques, fiscales et éco",
@@ -7011,6 +7389,20 @@
     "url": "https://www.eventbrite.fr/e/bitcoin-crypto-wealth-summit-2-bordeaux-20-novembre-2026-tickets-1984371266877",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1073121573%2F172358476478%2F1%2Foriginal.20250714-162335?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C151%2C946%2C473&s=7e71f94c257c57a922d229d7a991b904",
     "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-artificial-intelligence-and-blockchain-conference-ai",
+    "name": "International Artificial Intelligence and Blockchain Conference (AIBC)",
+    "description": "",
+    "startDate": "2026-11-20T00:00:00.000Z",
+    "endDate": "2026-11-20T00:00:00.000Z",
+    "city": "Osaka",
+    "country": "Japan",
+    "location": "Osaka, Japan",
+    "url": "https://conferenceindex.org/event/international-artificial-intelligence-and-blockchain-conference-aibc-2026-november-osaka-jp",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "November 2026"
   },
   {
@@ -7115,8 +7507,8 @@
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2026-december-kuala-lum",
     "name": "International Conference on Blockchain (ICB)",
     "description": "",
-    "startDate": "2026-12-05T16:00:00.000Z",
-    "endDate": "2026-12-05T16:00:00.000Z",
+    "startDate": "2026-12-06T00:00:00.000Z",
+    "endDate": "2026-12-06T00:00:00.000Z",
     "city": "Kuala Lumpur",
     "country": "Malaysia",
     "location": "Kuala Lumpur, Malaysia",
@@ -7171,8 +7563,8 @@
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-and-applications",
     "name": "International Conference on Blockchain Technology and Applications (ICBTA)",
     "description": "",
-    "startDate": "2026-12-10T16:00:00.000Z",
-    "endDate": "2026-12-10T16:00:00.000Z",
+    "startDate": "2026-12-11T00:00:00.000Z",
+    "endDate": "2026-12-11T00:00:00.000Z",
     "city": "Seoul",
     "country": "Republic of Korea",
     "location": "Seoul, Republic of Korea",
@@ -7199,8 +7591,8 @@
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2027-april-mexico-city-",
     "name": "International Conference on Blockchain (ICB)",
     "description": "",
-    "startDate": "2027-04-02T16:00:00.000Z",
-    "endDate": "2027-04-02T16:00:00.000Z",
+    "startDate": "2027-04-03T00:00:00.000Z",
+    "endDate": "2027-04-03T00:00:00.000Z",
     "city": "Mexico City",
     "country": "Mexico",
     "location": "Mexico City, Mexico",
@@ -7213,8 +7605,8 @@
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2027-april-boston-us",
     "name": "International Conference on Blockchain (ICB)",
     "description": "",
-    "startDate": "2027-04-21T16:00:00.000Z",
-    "endDate": "2027-04-21T16:00:00.000Z",
+    "startDate": "2027-04-22T00:00:00.000Z",
+    "endDate": "2027-04-22T00:00:00.000Z",
     "city": "Boston",
     "country": "United States",
     "location": "Boston, United States",
