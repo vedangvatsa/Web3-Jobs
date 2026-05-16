@@ -929,7 +929,7 @@ async function fetchWeb3Events() {
     'eretail day', 'retail day', 'maelo ruiz', 'jazz tribute',
     'tribute concert', 'she rise', 'shopaholic', 'icsift',
     'mexico dreamin', 'tech hub conference', 'mexico tech summit',
-    'metaverse of travel', 'cumbre de inversiones', 'lion\\'s gate',
+    'metaverse of travel', 'cumbre de inversiones', 'lions gate',
     'set in stone', 'city break', 'financial education event',
     'finance expo', 'fintech hub', 'mindful leadership',
     'cosmic abundance', 'cultivating clarity',
