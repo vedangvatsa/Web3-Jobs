@@ -215,16 +215,21 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             className="block group"
           >
             <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow-sm border-transparent hover:border-border/60 bg-card transition-all duration-200">
-              {event.coverImage && (
-                <div className="h-36 w-full overflow-hidden rounded-t-lg">
+              <div className="h-36 w-full overflow-hidden rounded-t-lg">
+                {event.coverImage ? (
                   <img
                     src={event.coverImage}
                     alt={event.name}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     loading="lazy"
+                    onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; (e.target as HTMLImageElement).parentElement!.classList.add('bg-gradient-to-br', 'from-primary/20', 'to-primary/5', 'flex', 'items-center', 'justify-center'); (e.target as HTMLImageElement).parentElement!.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="text-primary/40"><rect width="18" height="18" x="3" y="4" rx="2" ry="2"/><line x1="16" x2="16" y1="2" y2="6"/><line x1="8" x2="8" y1="2" y2="6"/><line x1="3" x2="21" y1="10" y2="10"/></svg>'; }}
                   />
-                </div>
-              )}
+                ) : (
+                  <div className="w-full h-full bg-gradient-to-br from-primary/20 to-primary/5 flex items-center justify-center">
+                    <Calendar className="h-8 w-8 text-primary/40" />
+                  </div>
+                )}
+              </div>
               <CardHeader className="pb-2 pt-4 px-4">
                 <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors line-clamp-2">
                   {event.name}
