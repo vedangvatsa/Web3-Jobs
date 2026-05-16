@@ -1,11 +1,35 @@
 [
   {
+    "id": "7900932",
+    "title": "Financial Compliance Senior Associate",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7900932?t=gh_src=&gh_jid=7900932",
+    "date": "2026-05-15T21:01:16-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
     "id": "7932082",
     "title": "Executive Sourcer",
     "company": "Robinhood",
     "link": "https://boards.greenhouse.io/robinhood/jobs/7932082?t=gh_src=&gh_jid=7932082",
     "date": "2026-05-15T19:12:15-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "38de2d3a-a711-4ee5-a022-0bde5390f440",
+    "title": "Technical Support Engineer, US",
+    "company": "Socket",
+    "link": "https://jobs.ashbyhq.com/Socket/38de2d3a-a711-4ee5-a022-0bde5390f440",
+    "date": "2026-05-15T23:09:13.487+00:00",
+    "source": "Ashby: Socket"
+  },
+  {
+    "id": "c5a98f1a-8c17-43de-afb7-1cfb1c34cc1e",
+    "title": "Technical Support Engineer, APAC",
+    "company": "Socket",
+    "link": "https://jobs.ashbyhq.com/Socket/c5a98f1a-8c17-43de-afb7-1cfb1c34cc1e",
+    "date": "2026-05-15T22:53:23.889+00:00",
+    "source": "Ashby: Socket"
   },
   {
     "id": "e9127772-8d48-415d-a947-5831a40d891b",
@@ -25168,6 +25192,14 @@
     "source": "Binance"
   },
   {
+    "id": "b6ebfb7b-165c-418f-b7a6-fd23f8f00da2",
+    "title": "Technical Support Engineer, EMEA",
+    "company": "Socket",
+    "link": "https://jobs.ashbyhq.com/Socket/b6ebfb7b-165c-418f-b7a6-fd23f8f00da2",
+    "date": "2026-05-01T13:51:21.279+00:00",
+    "source": "Ashby: Socket"
+  },
+  {
     "id": "https://jobs.lever.co/binance/d5591e60-0d81-4e51-9f7c-4f1f5c8709f0",
     "title": "Junior Frontend AI Engineer (React)",
     "company": "Binance",
@@ -27960,53 +27992,5 @@
     "link": "https://jobs.lever.co/coins/fc18db78-e48c-49ce-a5c8-af5f2d370c91",
     "date": "2026-04-16T09:05:13.194Z",
     "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "7757552",
-    "title": "Japan Regulatory Compliance & Money Laundering Reporting Officer (RC & MLRO)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7757552",
-    "date": "2026-04-16T02:42:06-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7748114",
-    "title": "Forward Deployed AI Accelerator, Marketing",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7748114",
-    "date": "2026-04-16T01:25:58-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "88105512-a438-4fb4-b3bb-a31726042949",
-    "title": "Compliance Training and Documentation Officer",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/88105512-a438-4fb4-b3bb-a31726042949",
-    "date": "2026-04-16T04:05:02.743Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "d1641d28-01e3-4728-95d1-64df76049e3d",
-    "title": "IT Compliance Officer",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/d1641d28-01e3-4728-95d1-64df76049e3d",
-    "date": "2026-04-16T04:04:02.990Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "7702529003",
-    "title": "(Senior) DeFi Trader",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7702529003",
-    "date": "2026-04-15T23:07:34-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "440606b5-1923-4f9d-a0ed-c126445b9477",
-    "title": "Channel Partner Manager | Accounting",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/440606b5-1923-4f9d-a0ed-c126445b9477",
-    "date": "2026-04-16T00:58:13.531+00:00",
-    "source": "Ashby: Ramp"
   }
 ]
