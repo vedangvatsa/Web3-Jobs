@@ -1,5 +1,69 @@
 [
   {
+    "id": "8e30f6f7-8d89-4d3c-83cc-7c6aa6210825",
+    "title": "City Host",
+    "company": "Base",
+    "link": "https://jobs.ashbyhq.com/Base/8e30f6f7-8d89-4d3c-83cc-7c6aa6210825",
+    "date": "2026-05-17T15:11:00.726+00:00",
+    "source": "Ashby: Base"
+  },
+  {
+    "id": "79048266",
+    "title": "Senior Counsel, Privacy & Data Protection Officer (EU/UK)",
+    "company": "World",
+    "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/b7c1d97e-9dfa-4ad3-9fbb-f7120c54120e",
+    "date": "2026-05-17T12:00:49.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "79044545",
+    "title": "Growth",
+    "company": "Antimetal",
+    "link": "https://jobs.ashbyhq.com/antimetal/42cdd873-c2e1-4693-b4a5-0a5026dcb976",
+    "date": "2026-05-17T11:25:16.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "79043387",
+    "title": "Business Development Lead, Financial Institutions",
+    "company": "Monad Foundation",
+    "link": "https://jobs.ashbyhq.com/monad.foundation/796fb90b-83c2-480f-820f-8ac9532ef80e",
+    "date": "2026-05-17T11:08:48.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "79043388",
+    "title": "Tokenization Lead",
+    "company": "Monad Foundation",
+    "link": "https://jobs.ashbyhq.com/monad.foundation/1c0abfd1-bea2-47a5-b459-dfa7c3261687",
+    "date": "2026-05-17T11:08:48.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "79040055",
+    "title": "Business Development Associate in Hyderabad",
+    "company": "Swipe.io",
+    "link": "https://in.linkedin.com/jobs/view/business-development-associate-in-hyderabad-at-swipe-4415578851",
+    "date": "2026-05-17T10:24:25.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "79036373",
+    "title": "Senior Data Analyst",
+    "company": "Solana Foundation",
+    "link": "https://jobs.ashbyhq.com/Solana%20Foundation/7d7753a4-1620-4a43-8342-58e06dbb546d",
+    "date": "2026-05-17T10:00:27.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "79035292",
+    "title": "Research Fellow, User Modeling & Personal Memory",
+    "company": "koodos",
+    "link": "https://koodos.notion.site/Research-Fellow-User-Modeling-Personal-Memory-350c87335a4e80359753e460bac75645?pvs=25",
+    "date": "2026-05-17T09:45:49.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
     "id": "7900932",
     "title": "Financial Compliance Senior Associate",
     "company": "Robinhood",
@@ -27728,29 +27792,5 @@
     "link": "https://spire.com/careers/job-openings/job/?gh_jid=7819332&gh_jid=7819332",
     "date": "2026-04-17T13:10:17-04:00",
     "source": "Greenhouse: Spire"
-  },
-  {
-    "id": "5972648004",
-    "title": "Production Support Engineer",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/5972648004",
-    "date": "2026-04-17T10:29:20-04:00",
-    "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "4f12f5ea-b995-4e16-8d9f-5d81c7fb4178",
-    "title": "Senior iOS Engineer",
-    "company": "Jump",
-    "link": "https://jobs.ashbyhq.com/jump/4f12f5ea-b995-4e16-8d9f-5d81c7fb4178",
-    "date": "2026-04-17T14:25:33.338+00:00",
-    "source": "Ashby: Jump"
-  },
-  {
-    "id": "8507745002",
-    "title": "Junior Frontend Engineer",
-    "company": "ComplyAdvantage",
-    "link": "https://complyadvantage.com/careers/jobs/8507745002?gh_jid=8507745002",
-    "date": "2026-04-17T08:49:10-04:00",
-    "source": "Greenhouse: ComplyAdvantage"
   }
 ]
