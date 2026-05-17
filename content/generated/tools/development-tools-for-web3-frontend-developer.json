@@ -3,7 +3,7 @@
     "contentType": "tools",
     "topic": "development",
     "niche": "web3-frontend-developer",
-    "generatedAt": "2026-05-17T05:30:09.460Z",
+    "generatedAt": "2026-05-17T19:57:17.201Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -137,7 +137,7 @@
           },
           {
             "name": "Jotai",
-            "description": "Atomic state management. Works well for complex dApp state.",
+            "description": "Atomic state management. Works well for complex dApp state. Free and open-source.",
             "category": "State",
             "url": "https://jotai.org",
             "pricing": "Free",
@@ -175,7 +175,7 @@
           },
           {
             "name": "daisyUI",
-            "description": "Tailwind CSS component library. Quick styling for dApps.",
+            "description": "Tailwind CSS component library. Quick styling for dApps. Free and open-source.",
             "category": "UI Library",
             "url": "https://daisyui.com",
             "pricing": "Free",
@@ -205,7 +205,7 @@
           },
           {
             "name": "QuickNode",
-            "description": "Multi-chain RPC provider with good performance.",
+            "description": "Multi-chain RPC provider with good performance. Used by production teams across the ecosystem.",
             "category": "Infrastructure",
             "url": "https://www.quicknode.com",
             "pricing": "Free tier + Paid",
@@ -213,7 +213,7 @@
           },
           {
             "name": "The Graph",
-            "description": "Decentralized indexing. Query blockchain data with GraphQL.",
+            "description": "Decentralized indexing. Query blockchain data with GraphQL. Used by production teams across the ecosystem.",
             "category": "Indexing",
             "url": "https://thegraph.com",
             "pricing": "Free tier + Paid",
@@ -221,7 +221,7 @@
           },
           {
             "name": "Moralis",
-            "description": "Web3 APIs for tokens, NFTs, and wallets. Quick integration.",
+            "description": "Web3 APIs for tokens, NFTs, and wallets. Quick integration. Used by production teams across the ecosystem.",
             "category": "API",
             "url": "https://moralis.io",
             "pricing": "Free tier + Paid",
@@ -229,7 +229,7 @@
           },
           {
             "name": "CoinGecko API",
-            "description": "Price data for tokens. Essential for portfolio displays.",
+            "description": "Price data for tokens. Essential for portfolio displays. Used by production teams across the ecosystem.",
             "category": "API",
             "url": "https://www.coingecko.com/en/api",
             "pricing": "Free tier + Paid",
@@ -243,7 +243,7 @@
         "items": [
           {
             "name": "ENS.js",
-            "description": "Library for ENS resolution and management.",
+            "description": "Library for ENS resolution and management. Check the GitHub repo for documentation and examples.",
             "category": "Library",
             "url": "https://github.com/ensdomains/ensjs",
             "pricing": "Free",
@@ -251,7 +251,7 @@
           },
           {
             "name": "Effigy",
-            "description": "Ethereum avatar service. Display ENS avatars easily.",
+            "description": "Ethereum avatar service. Display ENS avatars easily. Free and open-source.",
             "category": "Service",
             "url": "https://effigy.im",
             "pricing": "Free",
@@ -259,7 +259,7 @@
           },
           {
             "name": "Ethereum Blockies",
-            "description": "Generate blockie identicons for addresses without ENS.",
+            "description": "Generate blockie identicons for addresses without ENS. Free and open-source. Active open-source project on GitHub.",
             "category": "Library",
             "url": "https://github.com/ethereum/blockies",
             "pricing": "Free",
@@ -311,7 +311,7 @@
         "items": [
           {
             "name": "Etherscan APIs",
-            "description": "Contract verification, ABI fetching, and transaction data.",
+            "description": "Contract verification, ABI fetching, and transaction data. Used by production teams across the ecosystem.",
             "category": "API",
             "url": "https://etherscan.io/apis",
             "pricing": "Free tier + Paid",
@@ -327,7 +327,7 @@
           },
           {
             "name": "useHooks",
-            "description": "Collection of React hooks including Web3-useful ones.",
+            "description": "Collection of React hooks including Web3-useful ones. Free and open-source.",
             "category": "Library",
             "url": "https://usehooks.com",
             "pricing": "Free",

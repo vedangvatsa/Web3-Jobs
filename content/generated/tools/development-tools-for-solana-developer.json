@@ -3,7 +3,7 @@
     "contentType": "tools",
     "topic": "development",
     "niche": "solana-developer",
-    "generatedAt": "2026-05-17T05:30:09.459Z",
+    "generatedAt": "2026-05-17T19:57:17.201Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -53,7 +53,7 @@
           },
           {
             "name": "Native Solana SDK",
-            "description": "Low-level SDK for maximum control and optimization.",
+            "description": "Low-level SDK for maximum control and optimization. Free and open-source.",
             "category": "SDK",
             "url": "https://docs.rs/solana-sdk",
             "pricing": "Free",
@@ -137,7 +137,7 @@
           },
           {
             "name": "Umi",
-            "description": "Metaplex's modular framework for building Solana clients.",
+            "description": "Metaplex's modular framework for building Solana clients. Free and open-source. Active open-source project on GitHub.",
             "category": "Framework",
             "url": "https://github.com/metaplex-foundation/umi",
             "pricing": "Free",
@@ -159,7 +159,7 @@
           },
           {
             "name": "Solana Test Validator",
-            "description": "Local validator for integration testing.",
+            "description": "Local validator for integration testing. Free and open-source.",
             "category": "Testing",
             "url": "https://docs.solana.com/developing/test-validator",
             "pricing": "Free",
@@ -167,7 +167,7 @@
           },
           {
             "name": "Anchor Testing",
-            "description": "Built-in testing framework in Anchor using Mocha.",
+            "description": "Built-in testing framework in Anchor using Mocha. Free and open-source.",
             "category": "Testing",
             "url": "https://www.anchor-lang.com/docs/testing",
             "pricing": "Free",
@@ -175,7 +175,7 @@
           },
           {
             "name": "Trident",
-            "description": "Fuzzing framework for Anchor programs.",
+            "description": "Fuzzing framework for Anchor programs. Worth evaluating for your workflow.",
             "category": "Testing",
             "url": "https://ackee.xyz/trident/docs/latest/",
             "pricing": "Free",
@@ -205,7 +205,7 @@
           },
           {
             "name": "Jupiter SDK",
-            "description": "DEX aggregator SDK. Best prices across Solana DEXes.",
+            "description": "DEX aggregator SDK. Best prices across Solana DEXes. Free and open-source.",
             "category": "SDK",
             "url": "https://station.jup.ag/docs",
             "pricing": "Free",
@@ -213,7 +213,7 @@
           },
           {
             "name": "Raydium SDK",
-            "description": "SDK for Raydium AMM integration.",
+            "description": "SDK for Raydium AMM integration. Check the GitHub repo for documentation and examples.",
             "category": "SDK",
             "url": "https://github.com/raydium-io/raydium-sdk",
             "pricing": "Free",
@@ -243,7 +243,7 @@
           },
           {
             "name": "QuickNode Solana",
-            "description": "Reliable Solana RPC with good performance.",
+            "description": "Reliable Solana RPC with good performance. Used by production teams across the ecosystem.",
             "category": "Infrastructure",
             "url": "https://www.quicknode.com/chains/sol",
             "pricing": "Free tier + Paid",
@@ -251,7 +251,7 @@
           },
           {
             "name": "Triton",
-            "description": "Dedicated Solana RPC infrastructure.",
+            "description": "Dedicated Solana RPC infrastructure. Worth evaluating for your workflow.",
             "category": "Infrastructure",
             "url": "https://triton.one",
             "pricing": "Paid",
@@ -259,7 +259,7 @@
           },
           {
             "name": "GenesysGo",
-            "description": "Shadow Drive and RPC services for Solana.",
+            "description": "Shadow Drive and RPC services for Solana. Used by production teams across the ecosystem.",
             "category": "Infrastructure",
             "url": "https://www.shdwdrive.com",
             "pricing": "Free tier + Paid",
@@ -281,7 +281,7 @@
           },
           {
             "name": "Solscan",
-            "description": "Alternative explorer with better UX for some use cases.",
+            "description": "Alternative explorer with better UX for some use cases. Free and open-source.",
             "category": "Explorer",
             "url": "https://solscan.io",
             "pricing": "Free",
@@ -289,7 +289,7 @@
           },
           {
             "name": "Anchor IDL Explorer",
-            "description": "Interact with Anchor programs directly via browser.",
+            "description": "Interact with Anchor programs directly via browser. Free and open-source.",
             "category": "Tool",
             "url": "https://anchor.so",
             "pricing": "Free",
