@@ -3,7 +3,7 @@
     "contentType": "ideas",
     "topic": "portfolio",
     "niche": "tokenomics-designer",
-    "generatedAt": "2026-05-17T05:28:45.886Z",
+    "generatedAt": "2026-05-17T05:30:09.451Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -414,7 +414,6 @@
         "title": "Portfolio Project Ideas for DeFi Developers",
         "slug": "portfolio-project-ideas-for-defi-developer"
       }
-    ],
-    "conclusion": "Tokenomics projects should include simulation data. Model your token economy in a spreadsheet or Python, test edge cases, and document your assumptions."
+    ]
   }
 }

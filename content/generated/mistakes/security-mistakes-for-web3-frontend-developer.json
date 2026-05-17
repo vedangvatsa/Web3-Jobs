@@ -3,7 +3,7 @@
     "contentType": "mistakes",
     "topic": "security",
     "niche": "web3-frontend-developer",
-    "generatedAt": "2026-05-17T05:28:45.892Z",
+    "generatedAt": "2026-05-17T05:30:09.457Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -243,7 +243,6 @@
         "slug": "development-tools-for-web3-frontend-developer"
       }
     ],
-    "conclusion": "Frontend vulnerabilities are the most common entry point for phishing and social engineering attacks. Never trust URL parameters, always validate contract addresses, and implement transaction simulation.",
     "proTips": [
       "Most frontend exploits target the user, not the code. Think like a phisher.",
       "Test with multiple wallets. MetaMask behavior differs from WalletConnect.",

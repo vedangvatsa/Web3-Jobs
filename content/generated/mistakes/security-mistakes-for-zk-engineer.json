@@ -3,7 +3,7 @@
     "contentType": "mistakes",
     "topic": "security",
     "niche": "zk-engineer",
-    "generatedAt": "2026-05-17T05:28:45.893Z",
+    "generatedAt": "2026-05-17T05:30:09.457Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -314,7 +314,6 @@
         "slug": "development-tools-for-zk-engineer"
       }
     ],
-    "conclusion": "ZK bugs are silent — a broken circuit may still produce proofs that verify. Formal verification, fuzzing with edge cases, and independent reviews are essential.",
     "proTips": [
       "If in doubt, add more constraints. Under-constrained circuits are the most dangerous bugs.",
       "Use formal verification for critical circuits. Manual review alone is insufficient.",

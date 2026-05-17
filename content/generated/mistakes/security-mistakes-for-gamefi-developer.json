@@ -3,7 +3,7 @@
     "contentType": "mistakes",
     "topic": "security",
     "niche": "gamefi-developer",
-    "generatedAt": "2026-05-17T05:28:45.890Z",
+    "generatedAt": "2026-05-17T05:30:09.455Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -314,7 +314,6 @@
         "slug": "development-tools-for-gamefi-developer"
       }
     ],
-    "conclusion": "GameFi exploits often target economic design rather than code. Infinite minting, reward manipulation, and sybil attacks all need both technical and economic countermeasures.",
     "proTips": [
       "Playtest your economy with adversarial players before launch.",
       "Token sinks are as important as faucets. Plan both from day one.",

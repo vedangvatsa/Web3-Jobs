@@ -3,7 +3,7 @@
     "contentType": "mistakes",
     "topic": "security",
     "niche": "solana-developer",
-    "generatedAt": "2026-05-17T05:28:45.892Z",
+    "generatedAt": "2026-05-17T05:30:09.456Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -249,7 +249,6 @@
         "slug": "development-tools-for-solana-developer"
       }
     ],
-    "conclusion": "Solana security differs fundamentally from EVM security. Account ownership checks, CPI validation, and PDA derivation are unique attack surfaces. Learn from programs that have been exploited.",
     "proTips": [
       "Read the source code of programs you interact with via CPI. Documentation may be outdated.",
       "Test with realistic transaction volumes. Solana programs behave differently under load.",

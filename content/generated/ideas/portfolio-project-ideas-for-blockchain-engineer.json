@@ -3,7 +3,7 @@
     "contentType": "ideas",
     "topic": "portfolio",
     "niche": "blockchain-engineer",
-    "generatedAt": "2026-05-17T05:28:45.882Z",
+    "generatedAt": "2026-05-17T05:30:09.447Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -576,7 +576,6 @@
         "title": "Development Tools for Solidity Developers",
         "slug": "development-tools-for-solidity-developer"
       }
-    ],
-    "conclusion": "Infrastructure projects demonstrate systems thinking. Focus on performance, reliability, and observability. Open-source contributions to existing clients count."
+    ]
   }
 }

@@ -3,7 +3,7 @@
     "contentType": "checklists",
     "topic": "security",
     "niche": "smart-contract-auditor",
-    "generatedAt": "2026-05-17T05:28:45.879Z",
+    "generatedAt": "2026-05-17T05:30:09.443Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -358,7 +358,6 @@
       {
         "tip": "Document your findings as you go. Waiting until the end often means missing details you noticed early."
       }
-    ],
-    "conclusion": "Audit quality depends on thoroughness. Use this checklist to ensure consistent coverage across engagements. Document findings precisely — your report is the deliverable."
+    ]
   }
 }

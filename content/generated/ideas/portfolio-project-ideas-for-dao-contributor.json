@@ -3,7 +3,7 @@
     "contentType": "ideas",
     "topic": "portfolio",
     "niche": "dao-contributor",
-    "generatedAt": "2026-05-17T05:28:45.883Z",
+    "generatedAt": "2026-05-17T05:30:09.447Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -463,7 +463,6 @@
         "title": "Portfolio Project Ideas for Tokenomics Designers",
         "slug": "portfolio-project-ideas-for-tokenomics-designer"
       }
-    ],
-    "conclusion": "DAO contributions are inherently public. Link to governance proposals, forum discussions, and on-chain votes. Measurable impact on protocol direction is the strongest signal."
+    ]
   }
 }

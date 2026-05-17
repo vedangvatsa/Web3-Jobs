@@ -3,7 +3,7 @@
     "contentType": "mistakes",
     "topic": "security",
     "niche": "defi-developer",
-    "generatedAt": "2026-05-17T05:28:45.890Z",
+    "generatedAt": "2026-05-17T05:30:09.454Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -256,7 +256,6 @@
       {
         "tip": "Build monitoring and alerts from day one. Fast response limits damage."
       }
-    ],
-    "conclusion": "DeFi exploits follow patterns. Oracle manipulation, flash loan attacks, and access control gaps account for the majority of losses. Study past incidents and build defenses into your architecture."
+    ]
   }
 }

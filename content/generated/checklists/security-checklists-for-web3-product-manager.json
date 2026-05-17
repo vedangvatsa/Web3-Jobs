@@ -3,7 +3,7 @@
     "contentType": "checklists",
     "topic": "security",
     "niche": "web3-product-manager",
-    "generatedAt": "2026-05-17T05:28:45.881Z",
+    "generatedAt": "2026-05-17T05:30:09.446Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -256,7 +256,6 @@
         "prevention": "Document plan before you need it. Practice scenarios."
       }
     ],
-    "conclusion": "Product security is not just an engineering concern. Understand the threat model, verify user-facing flows, and ensure the team has a clear incident response plan.",
     "proTips": [
       "Security checklists should be part of the product spec, not an afterthought.",
       "Involve the security team in design reviews, not just code reviews.",
