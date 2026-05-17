@@ -3,7 +3,7 @@
     "contentType": "mistakes",
     "topic": "security",
     "niche": "smart-contract-auditor",
-    "generatedAt": "2026-05-17T05:28:45.891Z",
+    "generatedAt": "2026-05-17T05:30:09.456Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -255,7 +255,6 @@
       {
         "tip": "Contribute to open-source security tools. Building tools deepens your understanding of vulnerability patterns."
       }
-    ],
-    "conclusion": "Auditing is pattern recognition. Study these common failures, but always look for the non-obvious issues specific to each protocol. The most expensive bugs are the ones nobody has seen before."
+    ]
   }
 }

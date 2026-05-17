@@ -3,7 +3,7 @@
     "contentType": "checklists",
     "topic": "code-review",
     "niche": "defi-developer",
-    "generatedAt": "2026-05-17T05:28:45.871Z",
+    "generatedAt": "2026-05-17T05:30:09.437Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -411,7 +411,6 @@
       "Review rounding direction for every division: Rounding should favor the protocol, not users. Inconsistent rounding is exploitable.",
       "Draw the token flow diagram: For complex operations, diagram where tokens move. Missing flows mean lost or stuck funds."
     ],
-    "conclusion": "DeFi protocols handle real money. Treat every checklist item as non-negotiable before mainnet. Schedule periodic re-audits as the threat model evolves.",
     "relatedResources": []
   }
 }

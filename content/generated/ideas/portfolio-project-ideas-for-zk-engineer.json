@@ -3,7 +3,7 @@
     "contentType": "ideas",
     "topic": "portfolio",
     "niche": "zk-engineer",
-    "generatedAt": "2026-05-17T05:28:45.889Z",
+    "generatedAt": "2026-05-17T05:30:09.453Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -577,7 +577,6 @@
         "title": "Security Checklist for Solidity Developers",
         "slug": "security-checklists-for-solidity-developer"
       }
-    ],
-    "conclusion": "ZK portfolio projects should balance theory and implementation. Implement a well-known protocol (Semaphore, Tornado-style mixer) to show you can translate math into circuits."
+    ]
   }
 }

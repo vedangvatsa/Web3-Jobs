@@ -3,7 +3,7 @@
     "contentType": "checklists",
     "topic": "security",
     "niche": "solana-developer",
-    "generatedAt": "2026-05-17T05:28:45.880Z",
+    "generatedAt": "2026-05-17T05:30:09.444Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -399,7 +399,6 @@
         "slug": "portfolio-project-ideas-for-solana-developer"
       }
     ],
-    "conclusion": "Solana programs have unique security requirements. Account validation, CPI safety, and rent handling all differ from EVM patterns. Test on devnet with realistic transaction volumes.",
     "proTips": [
       "Account validation is the most common source of Solana vulnerabilities. Check every account constraint.",
       "Test with the exact version of the Solana CLI you will deploy with.",

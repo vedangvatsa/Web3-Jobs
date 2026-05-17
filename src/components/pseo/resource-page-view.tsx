@@ -158,13 +158,6 @@ export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps
       </section>
      )}
 
-     {/* Conclusion */}
-     {page.content.conclusion && (
-      <section className="mt-12 p-6 bg-muted/40 rounded-xl border">
-       <h3 className="font-semibold mb-2">Summary</h3>
-       <p className="text-muted-foreground leading-relaxed">{page.content.conclusion}</p>
-      </section>
-     )}
 
      {/* Related resources from same niche */}
      {nicheResources && nicheResources.length > 0 && (

@@ -1,363 +1,362 @@
 {
- "meta": {
- "contentType": "checklists",
- "topic": "deployment",
- "niche": "solana-developer",
- "generatedAt": "2026-03-12T20:08:56.236Z",
- "version": "1.0.0"
- },
- "seo": {
- "title": "Solana Program Deployment Checklist",
- "description": "Solana program deployment checklist covering Anchor builds, authority management, and mainnet launch. 50+ items for production readiness.",
- "keywords": [
- "solana-developer",
- "checklists",
- "deployment",
- "web3",
- "smart-contract",
- "blockchain",
- "final-code-review",
- "build-configuration",
- "devnet-final-testing"
- ],
- "canonicalSlug": "deployment-checklists-for-solana-developer"
- },
- "content": {
- "intro": "The complete Solana program deployment checklist from final testing through mainnet deployment. Covers Anchor-specific steps, upgrade authority management, and production monitoring.",
- "sections": [
- {
- "heading": "Final Code Review",
- "description": "Last checks before building for production.",
- "items": [
- {
- "title": "All tests passing on localnet and devnet",
- "description": "Run `anchor test` and integration tests. Verify all instructions work correctly.",
- "priority": "critical",
- "category": "Testing"
- },
- {
- "title": "Remove all msg! debug logging",
- "description": "Debug logs consume compute units. Search for and remove all msg! statements.",
- "priority": "critical",
- "category": "Cleanup"
- },
- {
- "title": "Verify program ID in declare_id!",
- "description": "Confirm the declared program ID matches your deployment keypair.",
- "priority": "critical",
- "category": "Configuration"
- },
- {
- "title": "Check compute unit budget",
- "description": "Ensure all instructions fit within 200K CU limit. Profile heavy operations.",
- "priority": "critical",
- "category": "Performance"
- },
- {
- "title": "Verify account size calculations",
- "description": "Check all account space allocations include discriminator (8 bytes for Anchor).",
- "priority": "critical",
- "category": "Architecture"
- },
- {
- "title": "Audit signer and authority checks",
- "description": "Verify every instruction validates required signers and authorities.",
- "priority": "critical",
- "category": "Security"
- },
- {
- "title": "Review PDA seeds for uniqueness",
- "description": "Ensure PDA seeds create unique addresses. Avoid seed collisions.",
- "priority": "critical",
- "category": "Architecture"
- },
- {
- "title": "Confirm all security audit findings fixed",
- "description": "Review audit report. All critical and high issues must be resolved.",
- "priority": "critical",
- "category": "Security"
- }
- ]
- },
- {
- "heading": "Build Configuration",
- "description": "Configure production build settings.",
- "items": [
- {
- "title": "Set verifiable build in Anchor.toml",
- "description": "Enable `[programs.localnet]` with verifiable = true for reproducible builds.",
- "priority": "important",
- "category": "Configuration"
- },
- {
- "title": "Configure correct cluster in Anchor.toml",
- "description": "Set cluster to mainnet-beta for production deployment.",
- "priority": "critical",
- "category": "Configuration"
- },
- {
- "title": "Verify Rust and Solana CLI versions",
- "description": "Document exact versions used. Match audited build environment.",
- "priority": "important",
- "category": "Environment"
- },
- {
- "title": "Build with --verifiable flag",
- "description": "Run `anchor build --verifiable` for reproducible bytecode.",
- "priority": "important",
- "category": "Build"
- },
- {
- "title": "Check program binary size",
- "description": "Verify .so file is under size limits. Optimize if needed.",
- "priority": "important",
- "category": "Build"
- },
- {
- "title": "Generate and verify IDL",
- "description": "Build IDL with `anchor idl init`. Verify it matches program interface.",
- "priority": "critical",
- "category": "Documentation"
- },
- {
- "title": "Document build hash",
- "description": "Record SHA256 of deployed .so file for verification.",
- "priority": "important",
- "category": "Documentation"
- },
- {
- "title": "Prepare deployment keypairs",
- "description": "Have program keypair and upgrade authority keypair ready and backed up.",
- "priority": "critical",
- "category": "Security"
- }
- ]
- },
- {
- "heading": "Devnet Final Testing",
- "description": "Complete testing on devnet before mainnet.",
- "items": [
- {
- "title": "Deploy to devnet with production config",
- "description": "Use identical build and configuration as planned mainnet deployment.",
- "priority": "critical",
- "category": "Testing"
- },
- {
- "title": "Run full integration test suite",
- "description": "Execute all user flows against devnet deployment.",
- "priority": "critical",
- "category": "Testing"
- },
- {
- "title": "Test upgrade path",
- "description": "If upgradeable, test full upgrade process including data migration.",
- "priority": "critical",
- "category": "Testing"
- },
- {
- "title": "Verify client SDK works correctly",
- "description": "Test TypeScript/Rust client against devnet deployment.",
- "priority": "critical",
- "category": "Integration"
- },
- {
- "title": "Test error handling paths",
- "description": "Verify all error conditions return correct error codes.",
- "priority": "important",
- "category": "Testing"
- },
- {
- "title": "Measure transaction costs",
- "description": "Profile SOL costs for all instructions. Document for users.",
- "priority": "important",
- "category": "Economics"
- },
- {
- "title": "Test with production RPC",
- "description": "Use mainnet RPC provider against devnet to verify connection.",
- "priority": "important",
- "category": "Infrastructure"
- },
- {
- "title": "Verify event/log parsing",
- "description": "Confirm off-chain services correctly parse program logs.",
- "priority": "important",
- "category": "Integration"
- }
- ]
- },
- {
- "heading": "Mainnet Deployment",
- "description": "Deploy to mainnet-beta.",
- "items": [
- {
- "title": "Fund deployment wallet",
- "description": "Ensure deployer has enough SOL for deployment and buffer account rent.",
- "priority": "critical",
- "category": "Preparation"
- },
- {
- "title": "Deploy program to mainnet",
- "description": "Run `anchor deploy` or `solana program deploy` with correct keypairs.",
- "priority": "critical",
- "category": "Deployment"
- },
- {
- "title": "Upload IDL to chain",
- "description": "Run `anchor idl init` to store IDL on-chain for explorers.",
- "priority": "important",
- "category": "Documentation"
- },
- {
- "title": "Verify deployment on explorer",
- "description": "Check Solscan/Solana Explorer. Confirm program data account.",
- "priority": "critical",
- "category": "Verification"
- },
- {
- "title": "Record deployment transaction",
- "description": "Document deployment signature, slot, and timestamp.",
- "priority": "important",
- "category": "Documentation"
- },
- {
- "title": "Verify upgrade authority",
- "description": "Confirm upgrade authority is set to intended address (multisig).",
- "priority": "critical",
- "category": "Security"
- },
- {
- "title": "Initialize required accounts",
- "description": "Create any global state accounts or config PDAs.",
- "priority": "critical",
- "category": "Setup"
- },
- {
- "title": "Configure program parameters",
- "description": "Set fees, limits, and other configurable parameters.",
- "priority": "critical",
- "category": "Configuration"
- }
- ]
- },
- {
- "heading": "Authority Management",
- "description": "Secure program upgrade authority.",
- "items": [
- {
- "title": "Transfer upgrade authority to multisig",
- "description": "Use `solana program set-upgrade-authority` to move to Squads multisig.",
- "priority": "critical",
- "category": "Security"
- },
- {
- "title": "Verify multisig configuration",
- "description": "Confirm multisig threshold, signers, and timelock settings.",
- "priority": "critical",
- "category": "Security"
- },
- {
- "title": "Document authority addresses",
- "description": "Public documentation of upgrade authority and any admin keys.",
- "priority": "important",
- "category": "Documentation"
- },
- {
- "title": "Test authority functions",
- "description": "Verify admin functions work with new authority.",
- "priority": "important",
- "category": "Testing"
- },
- {
- "title": "Set up authority monitoring",
- "description": "Alert on any upgrade authority changes or program upgrades.",
- "priority": "important",
- "category": "Monitoring"
- },
- {
- "title": "Plan upgrade process",
- "description": "Document exact steps for future program upgrades.",
- "priority": "important",
- "category": "Process"
- },
- {
- "title": "Consider making immutable",
- "description": "For mature programs, consider removing upgrade authority entirely.",
- "priority": "nice-to-have",
- "category": "Security"
- },
- {
- "title": "Back up all keypairs securely",
- "description": "Store program keypair and authority keys in secure cold storage.",
- "priority": "critical",
- "category": "Security"
- }
- ]
- },
- {
- "heading": "Post-Deployment",
- "description": "Verify deployment and set up monitoring.",
- "items": [
- {
- "title": "Execute smoke tests on mainnet",
- "description": "Run basic operations with small amounts to verify functionality.",
- "priority": "critical",
- "category": "Testing"
- },
- {
- "title": "Verify all PDAs are accessible",
- "description": "Confirm all program-derived addresses resolve correctly.",
- "priority": "critical",
- "category": "Verification"
- },
- {
- "title": "Test frontend with mainnet",
- "description": "Full end-to-end test of application with production deployment.",
- "priority": "critical",
- "category": "Integration"
- },
- {
- "title": "Set up transaction monitoring",
- "description": "Configure alerts for failed transactions and unusual patterns.",
- "priority": "important",
- "category": "Monitoring"
- },
- {
- "title": "Monitor program logs",
- "description": "Set up log aggregation for debugging and analytics.",
- "priority": "important",
- "category": "Monitoring"
- },
- {
- "title": "Configure error alerting",
- "description": "Alert on specific error codes indicating security issues.",
- "priority": "important",
- "category": "Monitoring"
- },
- {
- "title": "Update documentation",
- "description": "Publish program address, IDL, and integration guides.",
- "priority": "important",
- "category": "Documentation"
- },
- {
- "title": "Schedule security monitoring",
- "description": "Set up ongoing security reviews and monitoring.",
- "priority": "important",
- "category": "Security"
- }
- ]
- }
- ],
- "proTips": [
- "Always use verifiable builds: Verifiable builds let anyone confirm deployed bytecode matches source. Essential for trust.",
- "Deploy program first, then transfer authority: Easier to fix deployment issues before authority is with multisig.",
- "Keep your program keypair forever: Even after transferring upgrade authority, you need the keypair to prove program ownership.",
- "Use priority fees during congestion: Deployment transactions can fail during high activity. Add priority fees for reliability.",
- "Test IDL parsing with Anchor clients: An IDL mismatch between client and program is a common source of integration bugs."
- ],
- "conclusion": "Join the fastest-growing blockchain ecosystem and build high-performance dapps.",
- "relatedResources": []
- }
+  "meta": {
+    "contentType": "checklists",
+    "topic": "deployment",
+    "niche": "solana-developer",
+    "generatedAt": "2026-05-17T05:30:09.438Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "Solana Program Deployment Checklist",
+    "description": "Solana program deployment checklist covering Anchor builds, authority management, and mainnet launch. 50+ items for production readiness.",
+    "keywords": [
+      "solana-developer",
+      "checklists",
+      "deployment",
+      "web3",
+      "smart-contract",
+      "blockchain",
+      "final-code-review",
+      "build-configuration",
+      "devnet-final-testing"
+    ],
+    "canonicalSlug": "deployment-checklists-for-solana-developer"
+  },
+  "content": {
+    "intro": "The complete Solana program deployment checklist from final testing through mainnet deployment. Covers Anchor-specific steps, upgrade authority management, and production monitoring.",
+    "sections": [
+      {
+        "heading": "Final Code Review",
+        "description": "Last checks before building for production.",
+        "items": [
+          {
+            "title": "All tests passing on localnet and devnet",
+            "description": "Run `anchor test` and integration tests. Verify all instructions work correctly.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Remove all msg! debug logging",
+            "description": "Debug logs consume compute units. Search for and remove all msg! statements.",
+            "priority": "critical",
+            "category": "Cleanup"
+          },
+          {
+            "title": "Verify program ID in declare_id!",
+            "description": "Confirm the declared program ID matches your deployment keypair.",
+            "priority": "critical",
+            "category": "Configuration"
+          },
+          {
+            "title": "Check compute unit budget",
+            "description": "Ensure all instructions fit within 200K CU limit. Profile heavy operations.",
+            "priority": "critical",
+            "category": "Performance"
+          },
+          {
+            "title": "Verify account size calculations",
+            "description": "Check all account space allocations include discriminator (8 bytes for Anchor).",
+            "priority": "critical",
+            "category": "Architecture"
+          },
+          {
+            "title": "Audit signer and authority checks",
+            "description": "Verify every instruction validates required signers and authorities.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Review PDA seeds for uniqueness",
+            "description": "Ensure PDA seeds create unique addresses. Avoid seed collisions.",
+            "priority": "critical",
+            "category": "Architecture"
+          },
+          {
+            "title": "Confirm all security audit findings fixed",
+            "description": "Review audit report. All critical and high issues must be resolved.",
+            "priority": "critical",
+            "category": "Security"
+          }
+        ]
+      },
+      {
+        "heading": "Build Configuration",
+        "description": "Configure production build settings.",
+        "items": [
+          {
+            "title": "Set verifiable build in Anchor.toml",
+            "description": "Enable `[programs.localnet]` with verifiable = true for reproducible builds.",
+            "priority": "important",
+            "category": "Configuration"
+          },
+          {
+            "title": "Configure correct cluster in Anchor.toml",
+            "description": "Set cluster to mainnet-beta for production deployment.",
+            "priority": "critical",
+            "category": "Configuration"
+          },
+          {
+            "title": "Verify Rust and Solana CLI versions",
+            "description": "Document exact versions used. Match audited build environment.",
+            "priority": "important",
+            "category": "Environment"
+          },
+          {
+            "title": "Build with --verifiable flag",
+            "description": "Run `anchor build --verifiable` for reproducible bytecode.",
+            "priority": "important",
+            "category": "Build"
+          },
+          {
+            "title": "Check program binary size",
+            "description": "Verify .so file is under size limits. Optimize if needed.",
+            "priority": "important",
+            "category": "Build"
+          },
+          {
+            "title": "Generate and verify IDL",
+            "description": "Build IDL with `anchor idl init`. Verify it matches program interface.",
+            "priority": "critical",
+            "category": "Documentation"
+          },
+          {
+            "title": "Document build hash",
+            "description": "Record SHA256 of deployed .so file for verification.",
+            "priority": "important",
+            "category": "Documentation"
+          },
+          {
+            "title": "Prepare deployment keypairs",
+            "description": "Have program keypair and upgrade authority keypair ready and backed up.",
+            "priority": "critical",
+            "category": "Security"
+          }
+        ]
+      },
+      {
+        "heading": "Devnet Final Testing",
+        "description": "Complete testing on devnet before mainnet.",
+        "items": [
+          {
+            "title": "Deploy to devnet with production config",
+            "description": "Use identical build and configuration as planned mainnet deployment.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Run full integration test suite",
+            "description": "Execute all user flows against devnet deployment.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Test upgrade path",
+            "description": "If upgradeable, test full upgrade process including data migration.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Verify client SDK works correctly",
+            "description": "Test TypeScript/Rust client against devnet deployment.",
+            "priority": "critical",
+            "category": "Integration"
+          },
+          {
+            "title": "Test error handling paths",
+            "description": "Verify all error conditions return correct error codes.",
+            "priority": "important",
+            "category": "Testing"
+          },
+          {
+            "title": "Measure transaction costs",
+            "description": "Profile SOL costs for all instructions. Document for users.",
+            "priority": "important",
+            "category": "Economics"
+          },
+          {
+            "title": "Test with production RPC",
+            "description": "Use mainnet RPC provider against devnet to verify connection.",
+            "priority": "important",
+            "category": "Infrastructure"
+          },
+          {
+            "title": "Verify event/log parsing",
+            "description": "Confirm off-chain services correctly parse program logs.",
+            "priority": "important",
+            "category": "Integration"
+          }
+        ]
+      },
+      {
+        "heading": "Mainnet Deployment",
+        "description": "Deploy to mainnet-beta.",
+        "items": [
+          {
+            "title": "Fund deployment wallet",
+            "description": "Ensure deployer has enough SOL for deployment and buffer account rent.",
+            "priority": "critical",
+            "category": "Preparation"
+          },
+          {
+            "title": "Deploy program to mainnet",
+            "description": "Run `anchor deploy` or `solana program deploy` with correct keypairs.",
+            "priority": "critical",
+            "category": "Deployment"
+          },
+          {
+            "title": "Upload IDL to chain",
+            "description": "Run `anchor idl init` to store IDL on-chain for explorers.",
+            "priority": "important",
+            "category": "Documentation"
+          },
+          {
+            "title": "Verify deployment on explorer",
+            "description": "Check Solscan/Solana Explorer. Confirm program data account.",
+            "priority": "critical",
+            "category": "Verification"
+          },
+          {
+            "title": "Record deployment transaction",
+            "description": "Document deployment signature, slot, and timestamp.",
+            "priority": "important",
+            "category": "Documentation"
+          },
+          {
+            "title": "Verify upgrade authority",
+            "description": "Confirm upgrade authority is set to intended address (multisig).",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Initialize required accounts",
+            "description": "Create any global state accounts or config PDAs.",
+            "priority": "critical",
+            "category": "Setup"
+          },
+          {
+            "title": "Configure program parameters",
+            "description": "Set fees, limits, and other configurable parameters.",
+            "priority": "critical",
+            "category": "Configuration"
+          }
+        ]
+      },
+      {
+        "heading": "Authority Management",
+        "description": "Secure program upgrade authority.",
+        "items": [
+          {
+            "title": "Transfer upgrade authority to multisig",
+            "description": "Use `solana program set-upgrade-authority` to move to Squads multisig.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Verify multisig configuration",
+            "description": "Confirm multisig threshold, signers, and timelock settings.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Document authority addresses",
+            "description": "Public documentation of upgrade authority and any admin keys.",
+            "priority": "important",
+            "category": "Documentation"
+          },
+          {
+            "title": "Test authority functions",
+            "description": "Verify admin functions work with new authority.",
+            "priority": "important",
+            "category": "Testing"
+          },
+          {
+            "title": "Set up authority monitoring",
+            "description": "Alert on any upgrade authority changes or program upgrades.",
+            "priority": "important",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Plan upgrade process",
+            "description": "Document exact steps for future program upgrades.",
+            "priority": "important",
+            "category": "Process"
+          },
+          {
+            "title": "Consider making immutable",
+            "description": "For mature programs, consider removing upgrade authority entirely.",
+            "priority": "nice-to-have",
+            "category": "Security"
+          },
+          {
+            "title": "Back up all keypairs securely",
+            "description": "Store program keypair and authority keys in secure cold storage.",
+            "priority": "critical",
+            "category": "Security"
+          }
+        ]
+      },
+      {
+        "heading": "Post-Deployment",
+        "description": "Verify deployment and set up monitoring.",
+        "items": [
+          {
+            "title": "Execute smoke tests on mainnet",
+            "description": "Run basic operations with small amounts to verify functionality.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Verify all PDAs are accessible",
+            "description": "Confirm all program-derived addresses resolve correctly.",
+            "priority": "critical",
+            "category": "Verification"
+          },
+          {
+            "title": "Test frontend with mainnet",
+            "description": "Full end-to-end test of application with production deployment.",
+            "priority": "critical",
+            "category": "Integration"
+          },
+          {
+            "title": "Set up transaction monitoring",
+            "description": "Configure alerts for failed transactions and unusual patterns.",
+            "priority": "important",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Monitor program logs",
+            "description": "Set up log aggregation for debugging and analytics.",
+            "priority": "important",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Configure error alerting",
+            "description": "Alert on specific error codes indicating security issues.",
+            "priority": "important",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Update documentation",
+            "description": "Publish program address, IDL, and integration guides.",
+            "priority": "important",
+            "category": "Documentation"
+          },
+          {
+            "title": "Schedule security monitoring",
+            "description": "Set up ongoing security reviews and monitoring.",
+            "priority": "important",
+            "category": "Security"
+          }
+        ]
+      }
+    ],
+    "proTips": [
+      "Always use verifiable builds: Verifiable builds let anyone confirm deployed bytecode matches source. Essential for trust.",
+      "Deploy program first, then transfer authority: Easier to fix deployment issues before authority is with multisig.",
+      "Keep your program keypair forever: Even after transferring upgrade authority, you need the keypair to prove program ownership.",
+      "Use priority fees during congestion: Deployment transactions can fail during high activity. Add priority fees for reliability.",
+      "Test IDL parsing with Anchor clients: An IDL mismatch between client and program is a common source of integration bugs."
+    ],
+    "relatedResources": []
+  }
 }

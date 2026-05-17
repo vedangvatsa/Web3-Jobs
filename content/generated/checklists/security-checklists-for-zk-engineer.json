@@ -3,7 +3,7 @@
     "contentType": "checklists",
     "topic": "security",
     "niche": "zk-engineer",
-    "generatedAt": "2026-05-17T05:28:45.881Z",
+    "generatedAt": "2026-05-17T05:30:09.446Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -256,7 +256,6 @@
         "prevention": "Include domain separator in nullifier derivation."
       }
     ],
-    "conclusion": "ZK circuits are mathematically precise — but implementation bugs can silently break soundness. Verify constraint counts, test with adversarial inputs, and audit the trusted setup.",
     "proTips": [
       "Verify constraint counts match expected values for every circuit change.",
       "Test with adversarial inputs, not just happy-path cases.",

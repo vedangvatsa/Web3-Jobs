@@ -3,7 +3,7 @@
     "contentType": "checklists",
     "topic": "security",
     "niche": "defi-developer",
-    "generatedAt": "2026-05-17T05:28:45.878Z",
+    "generatedAt": "2026-05-17T05:30:09.441Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -322,7 +322,6 @@
       {
         "tip": "Have an incident response plan ready before you need it. Know who to call and what to do."
       }
-    ],
-    "conclusion": "DeFi protocols handle real money. Treat every checklist item as non-negotiable before mainnet. Schedule periodic re-audits as the threat model evolves."
+    ]
   }
 }

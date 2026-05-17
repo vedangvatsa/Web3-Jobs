@@ -3,7 +3,7 @@
     "contentType": "checklists",
     "topic": "security",
     "niche": "blockchain-engineer",
-    "generatedAt": "2026-05-17T05:28:45.877Z",
+    "generatedAt": "2026-05-17T05:30:09.441Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -266,7 +266,6 @@
         "prevention": "Use audited libraries. Have cryptographic implementations reviewed."
       }
     ],
-    "conclusion": "Infrastructure security is foundational. A vulnerability at the client or node level affects every application built on top. Audit systematically and keep dependencies current.",
     "proTips": [
       "Run the checklist against your CI pipeline, not just before release.",
       "Track which items have caught real issues to prioritize your review effort.",

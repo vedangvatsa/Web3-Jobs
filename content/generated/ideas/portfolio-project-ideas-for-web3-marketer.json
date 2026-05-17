@@ -3,7 +3,7 @@
     "contentType": "ideas",
     "topic": "portfolio",
     "niche": "web3-marketer",
-    "generatedAt": "2026-05-17T05:28:45.888Z",
+    "generatedAt": "2026-05-17T05:30:09.453Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -415,7 +415,6 @@
         "title": "Portfolio Project Ideas for Web3 Community Managers",
         "slug": "portfolio-project-ideas-for-web3-community-manager"
       }
-    ],
-    "conclusion": "Marketing portfolios should show results, not activities. Document campaign performance, attribution data, and learnings from failures."
+    ]
   }
 }

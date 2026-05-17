@@ -3,7 +3,7 @@
     "contentType": "ideas",
     "topic": "portfolio",
     "niche": "web3-devrel",
-    "generatedAt": "2026-05-17T05:28:45.887Z",
+    "generatedAt": "2026-05-17T05:30:09.452Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -417,7 +417,6 @@
         "title": "Development Tools for Solidity Developers",
         "slug": "development-tools-for-solidity-developer"
       }
-    ],
-    "conclusion": "DevRel portfolios combine technical content with community impact. Talks, tutorials, SDK improvements, and developer adoption metrics all matter."
+    ]
   }
 }
