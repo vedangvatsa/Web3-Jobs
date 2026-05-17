@@ -419,10 +419,13 @@ interface ActualMistakeItem {
  severity?: 'critical' | 'major' | 'minor';
 }
 
-const SEVERITY_STYLES = {
+const SEVERITY_STYLES: Record<string, { badge: string; border: string; icon: string }> = {
  critical: { badge: 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300', border: 'border-l-red-500', icon: '🚨' },
+ high:   { badge: 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300', border: 'border-l-red-500', icon: '🚨' },
  major:   { badge: 'bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300', border: 'border-l-amber-500', icon: '⚠️' },
+ medium:  { badge: 'bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300', border: 'border-l-amber-500', icon: '⚠️' },
  minor:   { badge: 'bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300', border: 'border-l-gray-400', icon: '💡' },
+ low:    { badge: 'bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300', border: 'border-l-gray-400', icon: '💡' },
 };
 
 function MistakesContent({ sections }: { sections: Array<{ heading: string; description: string; items: ActualMistakeItem[] }> }) {
@@ -438,7 +441,7 @@ function MistakesContent({ sections }: { sections: Array<{ heading: string; desc
        const mistakeText = item.description || item.mistake || '';
        const consequenceText = item.impact || item.consequence || '';
        const solutionText = item.prevention || item.solution || '';
-       const sev = SEVERITY_STYLES[item.severity || 'minor'];
+       const sev = SEVERITY_STYLES[item.severity || 'minor'] || SEVERITY_STYLES.minor;
        
        return (
         <div key={itemIdx} className={`border border-l-4 ${sev.border} rounded-lg p-4 hover:bg-muted/20 transition-colors`}>
