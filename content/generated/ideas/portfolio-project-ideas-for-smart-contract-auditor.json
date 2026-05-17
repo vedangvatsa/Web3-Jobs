@@ -3,7 +3,7 @@
     "contentType": "ideas",
     "topic": "portfolio-project",
     "niche": "smart-contract-auditor",
-    "generatedAt": "2026-05-17T05:07:10.519Z",
+    "generatedAt": "2026-05-17T05:28:45.885Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -573,6 +573,7 @@
       {
         "tip": "Always disclose responsibly. Never publish exploit details before the protocol has patched. Your reputation depends on trust."
       }
-    ]
+    ],
+    "conclusion": "Build audit portfolio projects that demonstrate finding real vulnerabilities. CTFs, audit contests on Code4rena/Sherlock, and open-source protocol reviews all count."
   }
 }

@@ -1,253 +1,259 @@
 {
- "meta": {
- "contentType": "mistakes",
- "topic": "security",
- "niche": "solana-developer",
- "generatedAt": "2026-03-13T00:00:00.000Z",
- "version": "1.0.0"
- },
- "seo": {
- "title": "30 Common Mistakes Solana Developers Make (And How to Avoid Them)",
- "description": "Learn from the mistakes of others. A comprehensive guide to the most common errors Solana developers make with accounts, PDAs, and program security.",
- "keywords": [
- "solana-developer",
- "mistakes",
- "Anchor",
- "PDA",
- "accounts",
- "security"
- ],
- "canonicalSlug": "security-mistakes-for-solana-developer"
- },
- "content": {
- "intro": "Solana's account model and Rust-based development create unique pitfalls that catch even experienced developers. Here are the most common mistakes and how to avoid them.",
- "sections": [
- {
- "heading": "Account Validation Failures",
- "items": [
- {
- "title": "Missing account ownership check",
- "description": "Not verifying that accounts are owned by expected programs allows attackers to pass fake accounts.",
- "severity": "critical",
- "solution": "Always check account.owner matches expected program ID. Anchor does this automatically with #[account()]."
- },
- {
- "title": "Not validating account discriminators",
- "description": "Without discriminator checks, wrong account types can be passed to instructions.",
- "severity": "high",
- "solution": "Use Anchor's automatic discriminator validation. In native, implement manual type checks."
- },
- {
- "title": "Missing signer validation",
- "description": "Not checking that required accounts have actually signed the transaction.",
- "severity": "critical",
- "solution": "Always verify is_signer for accounts that should authorize the action."
- },
- {
- "title": "Trusting account data without validation",
- "description": "Assuming account data is correctly formatted without deserializing and validating.",
- "severity": "high",
- "solution": "Always deserialize and validate account data. Handle deserialization errors."
- },
- {
- "title": "Not checking account mutability",
- "description": "Attempting to write to accounts not marked as writable.",
- "severity": "medium",
- "solution": "Mark accounts as writable with #[account(mut)] or is_writable checks."
- }
- ]
- },
- {
- "heading": "PDA Problems",
- "items": [
- {
- "title": "Inconsistent PDA seeds",
- "description": "Using different seeds for derivation and validation causes lookup failures.",
- "severity": "high",
- "solution": "Centralize seed generation. Use constants for seed strings."
- },
- {
- "title": "Not storing bump in account",
- "description": "Recalculating bump wastes compute units and can fail.",
- "severity": "medium",
- "solution": "Store bump seed in the account data. Pass stored bump for signing."
- },
- {
- "title": "Using find_program_address in instruction handlers",
- "description": "find_program_address is expensive. Calling it repeatedly wastes compute.",
- "severity": "medium",
- "solution": "Derive PDA client-side and pass as account. Verify with create_program_address."
- },
- {
- "title": "Wrong program ID in PDA derivation",
- "description": "Using wrong program ID creates PDAs that can't sign for your program.",
- "severity": "high",
- "solution": "Always use your program's ID for PDA derivation."
- },
- {
- "title": "Seeds too long",
- "description": "PDA seeds have a maximum total length of 32 bytes.",
- "severity": "medium",
- "solution": "Hash long seeds or restructure to stay under limit."
- }
- ]
- },
- {
- "heading": "Token Handling Errors",
- "items": [
- {
- "title": "Not checking token mint",
- "description": "Token accounts can hold any SPL token. Not validating mint allows wrong tokens.",
- "severity": "critical",
- "solution": "Always validate token_account.mint matches expected mint."
- },
- {
- "title": "Ignoring token decimals",
- "description": "Calculating amounts without considering decimals leads to wrong values.",
- "severity": "high",
- "solution": "Always account for token decimals in calculations."
- },
- {
- "title": "Not closing empty accounts",
- "description": "Empty token accounts still cost rent. Not closing them leaks SOL.",
- "severity": "low",
- "solution": "Close token accounts when emptied to recover rent."
- },
- {
- "title": "Wrong token program ID",
- "description": "Token-2022 uses different program ID than SPL Token.",
- "severity": "medium",
- "solution": "Check token_program matches account.owner."
- },
- {
- "title": "Not handling frozen accounts",
- "description": "Transfers to/from frozen accounts fail silently or with confusing errors.",
- "severity": "medium",
- "solution": "Check account freeze state before transfers."
- }
- ]
- },
- {
- "heading": "Arithmetic Issues",
- "items": [
- {
- "title": "Integer overflow/underflow",
- "description": "Rust's release mode doesn't check for overflow by default.",
- "severity": "high",
- "solution": "Use checked_add, checked_sub, checked_mul for all arithmetic."
- },
- {
- "title": "Precision loss in division",
- "description": "Integer division truncates. Order of operations matters for precision.",
- "severity": "high",
- "solution": "Multiply before dividing. Use fixed-point math for precision."
- },
- {
- "title": "Rounding in wrong direction",
- "description": "Rounding errors can be exploited over many transactions.",
- "severity": "medium",
- "solution": "Round in favor of the protocol, not the user."
- },
- {
- "title": "Using u64 for timestamps",
- "description": "Solana Clock uses i64 for timestamps. Type mismatch causes issues.",
- "severity": "low",
- "solution": "Use i64 for timestamp handling. Cast carefully."
- }
- ]
- },
- {
- "heading": "CPI Vulnerabilities",
- "items": [
- {
- "title": "CPI to arbitrary programs",
- "description": "Not validating target program allows attackers to redirect CPIs.",
- "severity": "critical",
- "solution": "Hardcode expected program IDs or validate against known addresses."
- },
- {
- "title": "Missing signer seeds in CPI",
- "description": "PDA-signed CPIs without seeds fail authorization.",
- "severity": "high",
- "solution": "Pass correct signer_seeds when PDA needs to sign CPI."
- },
- {
- "title": "Reentrancy through CPI",
- "description": "CPIs can call back into your program with unexpected state.",
- "severity": "high",
- "solution": "Follow checks-effects-interactions. Update state before CPI."
- },
- {
- "title": "Not checking CPI return values",
- "description": "Ignoring CPI results can mask failures.",
- "severity": "medium",
- "solution": "Always check invoke/invoke_signed results."
- }
- ]
- },
- {
- "heading": "Common Development Mistakes",
- "items": [
- {
- "title": "Not handling compute budget",
- "description": "Complex operations can exceed compute limit.",
- "severity": "medium",
- "solution": "Test compute usage. Request additional compute units if needed."
- },
- {
- "title": "Forgetting to update IDL",
- "description": "Changed program without updating IDL breaks clients.",
- "severity": "medium",
- "solution": "Regenerate IDL after program changes. Version your IDLs."
- },
- {
- "title": "Testing only on localnet",
- "description": "Localnet doesn't have same constraints as mainnet.",
- "severity": "medium",
- "solution": "Test on devnet with realistic conditions."
- },
- {
- "title": "Not initializing accounts properly",
- "description": "Uninitialized accounts contain garbage data.",
- "severity": "high",
- "solution": "Always initialize account data. Use Anchor's init constraint."
- },
- {
- "title": "Ignoring rent requirements",
- "description": "Accounts below rent-exempt threshold get garbage collected.",
- "severity": "high",
- "solution": "Ensure accounts have sufficient lamports for rent exemption."
- },
- {
- "title": "Clockwork misuse",
- "description": "Using Solana's clock sysvar for critical timing without considering validator manipulation.",
- "severity": "medium",
- "solution": "Use slot numbers or understand clock manipulation bounds."
- },
- {
- "title": "Hardcoded cluster-specific addresses",
- "description": "Using mainnet program IDs in devnet code or vice versa.",
- "severity": "medium",
- "solution": "Use environment configuration for cluster-specific addresses."
- },
- {
- "title": "Ignoring transaction size limits",
- "description": "Solana transactions have a 1232 byte limit, causing unexpected failures.",
- "severity": "high",
- "solution": "Monitor transaction sizes. Split large operations across multiple transactions."
- }
- ]
- }
- ],
- "relatedResources": [
- {
- "title": "Portfolio Project Ideas for Solana Developers",
- "slug": "portfolio-project-ideas-for-solana-developer"
- },
- {
- "title": "Development Tools for Solana Developers",
- "slug": "development-tools-for-solana-developer"
- }
- ]
- }
+  "meta": {
+    "contentType": "mistakes",
+    "topic": "security",
+    "niche": "solana-developer",
+    "generatedAt": "2026-05-17T05:28:45.892Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "30 Common Mistakes Solana Developers Make (And How to Avoid Them)",
+    "description": "Learn from the mistakes of others. A comprehensive guide to the most common errors Solana developers make with accounts, PDAs, and program security.",
+    "keywords": [
+      "solana-developer",
+      "mistakes",
+      "Anchor",
+      "PDA",
+      "accounts",
+      "security"
+    ],
+    "canonicalSlug": "security-mistakes-for-solana-developer"
+  },
+  "content": {
+    "intro": "Solana's account model and Rust-based development create unique pitfalls that catch even experienced developers. Here are the most common mistakes and how to avoid them.",
+    "sections": [
+      {
+        "heading": "Account Validation Failures",
+        "items": [
+          {
+            "title": "Missing account ownership check",
+            "description": "Not verifying that accounts are owned by expected programs allows attackers to pass fake accounts.",
+            "severity": "critical",
+            "solution": "Always check account.owner matches expected program ID. Anchor does this automatically with #[account()]."
+          },
+          {
+            "title": "Not validating account discriminators",
+            "description": "Without discriminator checks, wrong account types can be passed to instructions.",
+            "severity": "high",
+            "solution": "Use Anchor's automatic discriminator validation. In native, implement manual type checks."
+          },
+          {
+            "title": "Missing signer validation",
+            "description": "Not checking that required accounts have actually signed the transaction.",
+            "severity": "critical",
+            "solution": "Always verify is_signer for accounts that should authorize the action."
+          },
+          {
+            "title": "Trusting account data without validation",
+            "description": "Assuming account data is correctly formatted without deserializing and validating.",
+            "severity": "high",
+            "solution": "Always deserialize and validate account data. Handle deserialization errors."
+          },
+          {
+            "title": "Not checking account mutability",
+            "description": "Attempting to write to accounts not marked as writable.",
+            "severity": "medium",
+            "solution": "Mark accounts as writable with #[account(mut)] or is_writable checks."
+          }
+        ]
+      },
+      {
+        "heading": "PDA Problems",
+        "items": [
+          {
+            "title": "Inconsistent PDA seeds",
+            "description": "Using different seeds for derivation and validation causes lookup failures.",
+            "severity": "high",
+            "solution": "Centralize seed generation. Use constants for seed strings."
+          },
+          {
+            "title": "Not storing bump in account",
+            "description": "Recalculating bump wastes compute units and can fail.",
+            "severity": "medium",
+            "solution": "Store bump seed in the account data. Pass stored bump for signing."
+          },
+          {
+            "title": "Using find_program_address in instruction handlers",
+            "description": "find_program_address is expensive. Calling it repeatedly wastes compute.",
+            "severity": "medium",
+            "solution": "Derive PDA client-side and pass as account. Verify with create_program_address."
+          },
+          {
+            "title": "Wrong program ID in PDA derivation",
+            "description": "Using wrong program ID creates PDAs that can't sign for your program.",
+            "severity": "high",
+            "solution": "Always use your program's ID for PDA derivation."
+          },
+          {
+            "title": "Seeds too long",
+            "description": "PDA seeds have a maximum total length of 32 bytes.",
+            "severity": "medium",
+            "solution": "Hash long seeds or restructure to stay under limit."
+          }
+        ]
+      },
+      {
+        "heading": "Token Handling Errors",
+        "items": [
+          {
+            "title": "Not checking token mint",
+            "description": "Token accounts can hold any SPL token. Not validating mint allows wrong tokens.",
+            "severity": "critical",
+            "solution": "Always validate token_account.mint matches expected mint."
+          },
+          {
+            "title": "Ignoring token decimals",
+            "description": "Calculating amounts without considering decimals leads to wrong values.",
+            "severity": "high",
+            "solution": "Always account for token decimals in calculations."
+          },
+          {
+            "title": "Not closing empty accounts",
+            "description": "Empty token accounts still cost rent. Not closing them leaks SOL.",
+            "severity": "low",
+            "solution": "Close token accounts when emptied to recover rent."
+          },
+          {
+            "title": "Wrong token program ID",
+            "description": "Token-2022 uses different program ID than SPL Token.",
+            "severity": "medium",
+            "solution": "Check token_program matches account.owner."
+          },
+          {
+            "title": "Not handling frozen accounts",
+            "description": "Transfers to/from frozen accounts fail silently or with confusing errors.",
+            "severity": "medium",
+            "solution": "Check account freeze state before transfers."
+          }
+        ]
+      },
+      {
+        "heading": "Arithmetic Issues",
+        "items": [
+          {
+            "title": "Integer overflow/underflow",
+            "description": "Rust's release mode doesn't check for overflow by default.",
+            "severity": "high",
+            "solution": "Use checked_add, checked_sub, checked_mul for all arithmetic."
+          },
+          {
+            "title": "Precision loss in division",
+            "description": "Integer division truncates. Order of operations matters for precision.",
+            "severity": "high",
+            "solution": "Multiply before dividing. Use fixed-point math for precision."
+          },
+          {
+            "title": "Rounding in wrong direction",
+            "description": "Rounding errors can be exploited over many transactions.",
+            "severity": "medium",
+            "solution": "Round in favor of the protocol, not the user."
+          },
+          {
+            "title": "Using u64 for timestamps",
+            "description": "Solana Clock uses i64 for timestamps. Type mismatch causes issues.",
+            "severity": "low",
+            "solution": "Use i64 for timestamp handling. Cast carefully."
+          }
+        ]
+      },
+      {
+        "heading": "CPI Vulnerabilities",
+        "items": [
+          {
+            "title": "CPI to arbitrary programs",
+            "description": "Not validating target program allows attackers to redirect CPIs.",
+            "severity": "critical",
+            "solution": "Hardcode expected program IDs or validate against known addresses."
+          },
+          {
+            "title": "Missing signer seeds in CPI",
+            "description": "PDA-signed CPIs without seeds fail authorization.",
+            "severity": "high",
+            "solution": "Pass correct signer_seeds when PDA needs to sign CPI."
+          },
+          {
+            "title": "Reentrancy through CPI",
+            "description": "CPIs can call back into your program with unexpected state.",
+            "severity": "high",
+            "solution": "Follow checks-effects-interactions. Update state before CPI."
+          },
+          {
+            "title": "Not checking CPI return values",
+            "description": "Ignoring CPI results can mask failures.",
+            "severity": "medium",
+            "solution": "Always check invoke/invoke_signed results."
+          }
+        ]
+      },
+      {
+        "heading": "Common Development Mistakes",
+        "items": [
+          {
+            "title": "Not handling compute budget",
+            "description": "Complex operations can exceed compute limit.",
+            "severity": "medium",
+            "solution": "Test compute usage. Request additional compute units if needed."
+          },
+          {
+            "title": "Forgetting to update IDL",
+            "description": "Changed program without updating IDL breaks clients.",
+            "severity": "medium",
+            "solution": "Regenerate IDL after program changes. Version your IDLs."
+          },
+          {
+            "title": "Testing only on localnet",
+            "description": "Localnet doesn't have same constraints as mainnet.",
+            "severity": "medium",
+            "solution": "Test on devnet with realistic conditions."
+          },
+          {
+            "title": "Not initializing accounts properly",
+            "description": "Uninitialized accounts contain garbage data.",
+            "severity": "high",
+            "solution": "Always initialize account data. Use Anchor's init constraint."
+          },
+          {
+            "title": "Ignoring rent requirements",
+            "description": "Accounts below rent-exempt threshold get garbage collected.",
+            "severity": "high",
+            "solution": "Ensure accounts have sufficient lamports for rent exemption."
+          },
+          {
+            "title": "Clockwork misuse",
+            "description": "Using Solana's clock sysvar for critical timing without considering validator manipulation.",
+            "severity": "medium",
+            "solution": "Use slot numbers or understand clock manipulation bounds."
+          },
+          {
+            "title": "Hardcoded cluster-specific addresses",
+            "description": "Using mainnet program IDs in devnet code or vice versa.",
+            "severity": "medium",
+            "solution": "Use environment configuration for cluster-specific addresses."
+          },
+          {
+            "title": "Ignoring transaction size limits",
+            "description": "Solana transactions have a 1232 byte limit, causing unexpected failures.",
+            "severity": "high",
+            "solution": "Monitor transaction sizes. Split large operations across multiple transactions."
+          }
+        ]
+      }
+    ],
+    "relatedResources": [
+      {
+        "title": "Portfolio Project Ideas for Solana Developers",
+        "slug": "portfolio-project-ideas-for-solana-developer"
+      },
+      {
+        "title": "Development Tools for Solana Developers",
+        "slug": "development-tools-for-solana-developer"
+      }
+    ],
+    "conclusion": "Solana security differs fundamentally from EVM security. Account ownership checks, CPI validation, and PDA derivation are unique attack surfaces. Learn from programs that have been exploited.",
+    "proTips": [
+      "Read the source code of programs you interact with via CPI. Documentation may be outdated.",
+      "Test with realistic transaction volumes. Solana programs behave differently under load.",
+      "Keep your Anchor version pinned. Breaking changes between versions are common."
+    ]
+  }
 }
