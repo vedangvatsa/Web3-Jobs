@@ -3,7 +3,7 @@
     "contentType": "tools",
     "topic": "development",
     "niche": "zk-engineer",
-    "generatedAt": "2026-05-17T05:30:09.461Z",
+    "generatedAt": "2026-05-17T19:57:17.202Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -28,7 +28,7 @@
         "items": [
           {
             "name": "Circom",
-            "description": "Domain-specific language for writing arithmetic circuits.",
+            "description": "Domain-specific language for writing arithmetic circuits. Free and open-source.",
             "category": "Language",
             "url": "https://docs.circom.io",
             "pricing": "Free",
@@ -36,7 +36,7 @@
           },
           {
             "name": "Noir",
-            "description": "Rust-like language for ZK applications from Aztec.",
+            "description": "Rust-like language for ZK applications from Aztec. Free and open-source.",
             "category": "Language",
             "url": "https://noir-lang.org",
             "pricing": "Free",
@@ -44,7 +44,7 @@
           },
           {
             "name": "Halo2",
-            "description": "Rust framework for writing PLONK-based circuits.",
+            "description": "Rust framework for writing PLONK-based circuits. Free and open-source.",
             "category": "Framework",
             "url": "https://zcash.github.io/halo2/",
             "pricing": "Free",
@@ -52,7 +52,7 @@
           },
           {
             "name": "Leo",
-            "description": "Programming language for Aleo's private applications.",
+            "description": "Programming language for Aleo's private applications. Free and open-source.",
             "category": "Language",
             "url": "https://leo-lang.org",
             "pricing": "Free",
@@ -60,7 +60,7 @@
           },
           {
             "name": "Cairo",
-            "description": "Language for writing provable programs for StarkNet.",
+            "description": "Language for writing provable programs for StarkNet. Free and open-source.",
             "category": "Language",
             "url": "https://www.cairo-lang.org",
             "pricing": "Free",
@@ -68,7 +68,7 @@
           },
           {
             "name": "o1js",
-            "description": "TypeScript library for writing Mina zkApps.",
+            "description": "TypeScript library for writing Mina zkApps. Free and open-source.",
             "category": "Library",
             "url": "https://docs.minaprotocol.com/zkapps/o1js",
             "pricing": "Free",
@@ -82,7 +82,7 @@
         "items": [
           {
             "name": "SnarkJS",
-            "description": "JavaScript implementation of zkSNARKs. Works with Circom.",
+            "description": "JavaScript implementation of zkSNARKs. Works with Circom. Free and open-source. Active open-source project on GitHub.",
             "category": "Library",
             "url": "https://github.com/iden3/snarkjs",
             "pricing": "Free",
@@ -90,7 +90,7 @@
           },
           {
             "name": "arkworks",
-            "description": "Rust libraries for SNARKs including Groth16 and Marlin.",
+            "description": "Rust libraries for SNARKs including Groth16 and Marlin. Free and open-source.",
             "category": "Library",
             "url": "https://arkworks.rs",
             "pricing": "Free",
@@ -98,7 +98,7 @@
           },
           {
             "name": "Plonky2",
-            "description": "Recursive SNARK system from Polygon. Very fast.",
+            "description": "Recursive SNARK system from Polygon. Very fast. Check the GitHub repo for documentation and examples.",
             "category": "Library",
             "url": "https://github.com/0xPolygonZero/plonky2",
             "pricing": "Free",
@@ -106,7 +106,7 @@
           },
           {
             "name": "Plonky3",
-            "description": "modern proving system. Modular and flexible.",
+            "description": "modern proving system. Modular and flexible. Check the GitHub repo for documentation and examples.",
             "category": "Library",
             "url": "https://github.com/Plonky3/Plonky3",
             "pricing": "Free",
@@ -114,7 +114,7 @@
           },
           {
             "name": "Risc0",
-            "description": "ZK-VM based on RISC-V. Prove arbitrary computation.",
+            "description": "ZK-VM based on RISC-V. Prove arbitrary computation. Free and open-source.",
             "category": "Framework",
             "url": "https://risczero.com",
             "pricing": "Free",
@@ -122,7 +122,7 @@
           },
           {
             "name": "SP1",
-            "description": "High-performance zkVM from Succinct Labs.",
+            "description": "High-performance zkVM from Succinct Labs. Check the GitHub repo for documentation and examples.",
             "category": "Framework",
             "url": "https://github.com/succinctlabs/sp1",
             "pricing": "Free",
@@ -136,7 +136,7 @@
         "items": [
           {
             "name": "circomlib",
-            "description": "Library of common Circom components.",
+            "description": "Library of common Circom components. Check the GitHub repo for documentation and examples.",
             "category": "Library",
             "url": "https://github.com/iden3/circomlib",
             "pricing": "Free",
@@ -144,7 +144,7 @@
           },
           {
             "name": "Hardhat Circom",
-            "description": "Hardhat plugin for Circom development.",
+            "description": "Hardhat plugin for Circom development. Check the GitHub repo for documentation and examples.",
             "category": "Plugin",
             "url": "https://github.com/projectsophon/hardhat-circom",
             "pricing": "Free",
@@ -152,7 +152,7 @@
           },
           {
             "name": "Nargo",
-            "description": "Package manager and CLI for Noir.",
+            "description": "Package manager and CLI for Noir. Worth evaluating for your workflow.",
             "category": "CLI",
             "url": "https://noir-lang.org/docs",
             "pricing": "Free",
@@ -160,7 +160,7 @@
           },
           {
             "name": "Scarb",
-            "description": "Build toolchain and package manager for Cairo.",
+            "description": "Build toolchain and package manager for Cairo. Free and open-source.",
             "category": "Build",
             "url": "https://docs.swmansion.com/scarb/",
             "pricing": "Free",
@@ -168,7 +168,7 @@
           },
           {
             "name": "Protostar",
-            "description": "Development framework for StarkNet contracts.",
+            "description": "Development framework for StarkNet contracts. Free and open-source.",
             "category": "Framework",
             "url": "https://docs.swmansion.com/protostar/",
             "pricing": "Free",
@@ -182,7 +182,7 @@
         "items": [
           {
             "name": "bn254",
-            "description": "BN254 curve implementation. Most common for SNARKs.",
+            "description": "BN254 curve implementation. Most common for SNARKs. Free and open-source. Active open-source project on GitHub.",
             "category": "Library",
             "url": "https://github.com/arkworks-rs/curves",
             "pricing": "Free",
@@ -190,7 +190,7 @@
           },
           {
             "name": "Poseidon Hash",
-            "description": "ZK-friendly hash function implementations.",
+            "description": "ZK-friendly hash function implementations. Check the GitHub repo for documentation and examples.",
             "category": "Library",
             "url": "https://github.com/iden3/circomlib",
             "pricing": "Free",
@@ -198,7 +198,7 @@
           },
           {
             "name": "blstrs",
-            "description": "BLS12-381 implementation for BLS signatures and SNARKs.",
+            "description": "BLS12-381 implementation for BLS signatures and SNARKs. Free and open-source. Active open-source project on GitHub.",
             "category": "Library",
             "url": "https://github.com/filecoin-project/blstrs",
             "pricing": "Free",
@@ -206,7 +206,7 @@
           },
           {
             "name": "ff",
-            "description": "Finite field arithmetic traits and implementations.",
+            "description": "Finite field arithmetic traits and implementations. Free and open-source. Active open-source project on GitHub.",
             "category": "Library",
             "url": "https://github.com/zkcrypto/ff",
             "pricing": "Free",
@@ -220,7 +220,7 @@
         "items": [
           {
             "name": "Semaphore",
-            "description": "Anonymous signaling protocol. Foundation for many ZK apps.",
+            "description": "Anonymous signaling protocol. Foundation for many ZK apps. Free and open-source.",
             "category": "Protocol",
             "url": "https://semaphore.appliedzkp.org",
             "pricing": "Free",
@@ -228,7 +228,7 @@
           },
           {
             "name": "ZK Email",
-            "description": "Prove email ownership without revealing content.",
+            "description": "Prove email ownership without revealing content. Free and open-source.",
             "category": "Protocol",
             "url": "https://prove.email",
             "pricing": "Free",
@@ -236,7 +236,7 @@
           },
           {
             "name": "Worldcoin SDK",
-            "description": "Integration with World ID for proof of personhood.",
+            "description": "Integration with World ID for proof of personhood. Free and open-source.",
             "category": "SDK",
             "url": "https://docs.worldcoin.org",
             "pricing": "Free",
@@ -244,7 +244,7 @@
           },
           {
             "name": "Axiom",
-            "description": "ZK coprocessor for accessing historical blockchain data.",
+            "description": "ZK coprocessor for accessing historical blockchain data. Used by production teams across the ecosystem.",
             "category": "Protocol",
             "url": "https://www.axiom.xyz",
             "pricing": "Paid per query",
@@ -252,7 +252,7 @@
           },
           {
             "name": "Brevis",
-            "description": "ZK coprocessor for cross-chain data and computation.",
+            "description": "ZK coprocessor for cross-chain data and computation. Used by production teams across the ecosystem.",
             "category": "Protocol",
             "url": "https://brevis.network",
             "pricing": "Paid per query",
@@ -266,7 +266,7 @@
         "items": [
           {
             "name": "ZK Hack",
-            "description": "Community and learning platform for ZK developers.",
+            "description": "Community and learning platform for ZK developers. Free and open-source.",
             "category": "Community",
             "url": "https://zkhack.dev",
             "pricing": "Free",
@@ -274,7 +274,7 @@
           },
           {
             "name": "ZK Whiteboard Sessions",
-            "description": "Video series explaining ZK concepts.",
+            "description": "Video series explaining ZK concepts. Worth evaluating for your workflow.",
             "category": "Education",
             "url": "https://zkhack.dev/whiteboard/",
             "pricing": "Free",
@@ -282,7 +282,7 @@
           },
           {
             "name": "Ingopedia",
-            "description": "Curated ZK learning resources.",
+            "description": "Curated ZK learning resources. Worth evaluating for your workflow.",
             "category": "Education",
             "url": "https://www.ingopedia.com",
             "pricing": "Free",
@@ -290,7 +290,7 @@
           },
           {
             "name": "Awesome ZKP",
-            "description": "Curated list of ZK resources and projects.",
+            "description": "Curated list of ZK resources and projects. Check the GitHub repo for documentation and examples.",
             "category": "Directory",
             "url": "https://github.com/matter-labs/awesome-zero-knowledge-proofs",
             "pricing": "Free",

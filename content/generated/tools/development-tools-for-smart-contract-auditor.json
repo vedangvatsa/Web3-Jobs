@@ -3,7 +3,7 @@
     "contentType": "tools",
     "topic": "development",
     "niche": "smart-contract-auditor",
-    "generatedAt": "2026-05-17T05:30:09.459Z",
+    "generatedAt": "2026-05-17T19:57:17.201Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -61,7 +61,7 @@
           },
           {
             "name": "Amarna",
-            "description": "Static analyzer for Cairo/StarkNet contracts.",
+            "description": "Static analyzer for Cairo/StarkNet contracts. Check the GitHub repo for documentation and examples.",
             "category": "Analysis",
             "url": "https://github.com/crytic/amarna",
             "pricing": "Free",
@@ -175,7 +175,7 @@
           },
           {
             "name": "Solidity SMTChecker",
-            "description": "Built-in formal verification in Solidity compiler.",
+            "description": "Built-in formal verification in Solidity compiler. Free and open-source.",
             "category": "Verification",
             "url": "https://docs.soliditylang.org/en/latest/smtchecker.html",
             "pricing": "Free",
@@ -191,7 +191,7 @@
           },
           {
             "name": "K Framework",
-            "description": "Formal semantics framework. Used for EVM formal semantics.",
+            "description": "Formal semantics framework. Used for EVM formal semantics. Free and open-source.",
             "category": "Verification",
             "url": "https://kframework.org",
             "pricing": "Free",
@@ -213,7 +213,7 @@
           },
           {
             "name": "Foundry Debugger",
-            "description": "Interactive debugger for stepping through transactions.",
+            "description": "Interactive debugger for stepping through transactions. Free and open-source.",
             "category": "Debugging",
             "url": "https://book.getfoundry.sh/forge/debugger",
             "pricing": "Free",
@@ -267,7 +267,7 @@
           },
           {
             "name": "Sol2UML",
-            "description": "Generate UML diagrams from Solidity contracts.",
+            "description": "Generate UML diagrams from Solidity contracts. Check the GitHub repo for documentation and examples.",
             "category": "Visualization",
             "url": "https://github.com/naddison36/sol2uml",
             "pricing": "Free",
@@ -297,7 +297,7 @@
           },
           {
             "name": "Sherlock",
-            "description": "Audit marketplace with insurance component.",
+            "description": "Audit marketplace with insurance component. Used by production teams across the ecosystem.",
             "category": "Platform",
             "url": "https://www.sherlock.xyz",
             "pricing": "Revenue share",
@@ -335,7 +335,7 @@
           },
           {
             "name": "Rekt News",
-            "description": "Post-mortems of DeFi hacks. Essential reading for auditors.",
+            "description": "Post-mortems of DeFi hacks. Essential reading for auditors. Free and open-source.",
             "category": "Reference",
             "url": "https://rekt.news",
             "pricing": "Free",
@@ -351,7 +351,7 @@
           },
           {
             "name": "Solodit",
-            "description": "Database of audit findings from public reports.",
+            "description": "Database of audit findings from public reports. Free and open-source.",
             "category": "Reference",
             "url": "https://solodit.xyz",
             "pricing": "Free",
