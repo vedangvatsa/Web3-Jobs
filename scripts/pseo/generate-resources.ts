@@ -159,7 +159,6 @@ Return a JSON object with this exact structure:
     }
   ],
   "proTips": ["Tip 1", "Tip 2", "Tip 3", "Tip 4", "Tip 5"],
-  "conclusion": "A motivating conclusion with next steps",
   "relatedResources": ["Related topic 1", "Related topic 2", "Related topic 3"]
 }
 
