@@ -104,14 +104,35 @@ const ResourceCard = ({ href, label, icon: Icon, description }: { href: string; 
   </Link>
 );
 
-function NicheResourceGroup({ niche, pages }: { niche: string; pages: ResourcePage[] }) {
+// Content type color config for badges
+const contentTypeBadge: Record<string, { label: string; icon: React.ElementType; color: string }> = {
+  ideas:     { label: 'Ideas',     icon: Lightbulb,     color: 'bg-violet-100 text-violet-700 dark:bg-violet-900/30 dark:text-violet-300' },
+  checklists:  { label: 'Checklist',   icon: CheckSquare,   color: 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-300' },
+  mistakes:   { label: 'Mistakes',   icon: AlertTriangle,  color: 'bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300' },
+  tools:     { label: 'Tools',     icon: Wrench,      color: 'bg-sky-100 text-sky-700 dark:bg-sky-900/30 dark:text-sky-300' },
+  guides:    { label: 'Guide',     icon: BookOpen,     color: 'bg-rose-100 text-rose-700 dark:bg-rose-900/30 dark:text-rose-300' },
+};
+
+// Accent colors for niche cards (deterministic)
+const NICHE_ACCENTS = [
+  'border-l-violet-500', 'border-l-sky-500', 'border-l-emerald-500', 'border-l-amber-500',
+  'border-l-rose-500', 'border-l-fuchsia-500', 'border-l-teal-500', 'border-l-orange-500',
+  'border-l-indigo-500', 'border-l-cyan-500', 'border-l-lime-500', 'border-l-pink-500',
+  'border-l-blue-500', 'border-l-green-500', 'border-l-red-500',
+];
+
+function NicheResourceGroup({ niche, pages, accentIndex }: { niche: string; pages: ResourcePage[]; accentIndex: number }) {
   const label = nicheLabels[niche] ?? niche.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+  const accent = NICHE_ACCENTS[accentIndex % NICHE_ACCENTS.length];
   return (
-    <div className="border rounded-lg p-5">
-      <h3 className="font-semibold text-sm mb-3">{label}</h3>
-      <ul className="space-y-1">
+    <div className={`border border-l-4 ${accent} rounded-lg p-5 hover:shadow-md transition-shadow duration-200`}>
+      <div className="flex items-center justify-between mb-4">
+        <h3 className="font-bold text-base">{label}</h3>
+        <span className="text-xs text-muted-foreground bg-muted px-2 py-0.5 rounded-full">{pages.length}</span>
+      </div>
+      <ul className="space-y-1.5">
         {pages.map(page => {
-          const config = contentTypeConfig[page.meta.contentType] ?? { label: page.meta.contentType, icon: BookOpen };
+          const config = contentTypeBadge[page.meta.contentType] ?? { label: page.meta.contentType, icon: BookOpen, color: 'bg-gray-100 text-gray-700' };
           const Icon = config.icon;
           // Use page title, but strip the niche suffix to keep it concise
           const nicheLabel = nicheLabels[niche] ?? niche.replace(/-/g, ' ');
@@ -122,11 +143,13 @@ function NicheResourceGroup({ niche, pages }: { niche: string; pages: ResourcePa
             <li key={page.seo.canonicalSlug}>
               <Link
                 href={`/${page.seo.canonicalSlug}`}
-                className="flex items-center gap-2 text-sm py-1 px-2 rounded-md hover:bg-muted transition-colors group"
+                className="flex items-center gap-2.5 text-sm py-1.5 px-2 -mx-1 rounded-md hover:bg-muted/60 transition-colors group"
               >
-                <Icon className="h-3.5 w-3.5 text-muted-foreground shrink-0" />
-                <span className="text-muted-foreground group-hover:text-foreground transition-colors">{displayTitle || page.seo.title}</span>
-                <ChevronRight className="h-3 w-3 text-muted-foreground/50 ml-auto shrink-0 opacity-0 group-hover:opacity-100 transition-opacity" />
+                <span className={`inline-flex items-center gap-1 text-[10px] font-semibold px-1.5 py-0.5 rounded ${config.color} shrink-0 uppercase tracking-wider`}>
+                  <Icon className="h-2.5 w-2.5" />
+                </span>
+                <span className="text-foreground/80 group-hover:text-foreground transition-colors leading-snug">{displayTitle || page.seo.title}</span>
+                <ChevronRight className="h-3 w-3 text-muted-foreground/40 ml-auto shrink-0 opacity-0 group-hover:opacity-100 transition-opacity" />
               </Link>
             </li>
           );
@@ -135,6 +158,8 @@ function NicheResourceGroup({ niche, pages }: { niche: string; pages: ResourcePa
     </div>
   );
 }
+
+// ─── Main Page ──────────────────────────────────────────────────────────────
 
 export default function ResourcesPage() {
   const allResources = getAllResourcePages();
@@ -176,8 +201,8 @@ export default function ResourcesPage() {
                   </p>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-                  {sortedNiches.map(([niche, pages]) => (
-                    <NicheResourceGroup key={niche} niche={niche} pages={pages} />
+                  {sortedNiches.map(([niche, pages], idx) => (
+                    <NicheResourceGroup key={niche} niche={niche} pages={pages} accentIndex={idx} />
                   ))}
                 </div>
               </section>
