@@ -1215,6 +1215,79 @@ async function fetchWeb3Events() {
 
   console.log(`\n${rawCount} raw → ${validEvents.length} Web3-relevant upcoming events.`);
 
+  // ── OG Image Enrichment ──────────────────────────────────────────────
+  // Fetch og:image from event URLs for events missing coverImage
+  const needsImage = validEvents.filter(e => !e.coverImage && e.url);
+  if (needsImage.length > 0) {
+    console.log(`\n[OG Image] Fetching images for ${needsImage.length} events without cover images...`);
+    let found = 0;
+    const BATCH_SIZE = 10;
+    for (let i = 0; i < needsImage.length; i += BATCH_SIZE) {
+      const batch = needsImage.slice(i, i + BATCH_SIZE);
+      const results = await Promise.allSettled(
+        batch.map(async (event) => {
+          try {
+            const controller = new AbortController();
+            const timeout = setTimeout(() => controller.abort(), 5000);
+            const resp = await fetch(event.url, {
+              headers: { 'User-Agent': UA },
+              signal: controller.signal,
+              redirect: 'follow',
+            });
+            clearTimeout(timeout);
+            if (!resp.ok) return null;
+            const html = await resp.text();
+            // Extract og:image — try multiple patterns
+            const ogMatch = html.match(
+              /<meta[^>]*property=["']og:image["'][^>]*content=["']([^"']+)["']/i
+            ) || html.match(
+              /<meta[^>]*content=["']([^"']+)["'][^>]*property=["']og:image["']/i
+            );
+            if (ogMatch && ogMatch[1]) {
+              let imgUrl = ogMatch[1].trim();
+              // Skip tiny placeholder/default images
+              if (imgUrl.includes('1x1') || imgUrl.includes('pixel') || imgUrl.length < 20) return null;
+              // Make relative URLs absolute
+              if (imgUrl.startsWith('/')) {
+                const base = new URL(event.url);
+                imgUrl = `${base.protocol}//${base.host}${imgUrl}`;
+              }
+              event.coverImage = imgUrl;
+              return imgUrl;
+            }
+            return null;
+          } catch {
+            return null;
+          }
+        })
+      );
+      found += results.filter(r => r.status === 'fulfilled' && r.value).length;
+      // Small delay between batches to be polite
+      if (i + BATCH_SIZE < needsImage.length) {
+        await new Promise(r => setTimeout(r, 800));
+      }
+    }
+    console.log(`[OG Image] Found ${found}/${needsImage.length} images from og:image tags.`);
+  }
+
+  // Sort: events with images first within each date, then by date
+  validEvents.sort((a, b) => {
+    const dateA = new Date(a.startDate).getTime();
+    const dateB = new Date(b.startDate).getTime();
+    // Same day? Prefer events with images
+    const dayA = Math.floor(dateA / 86400000);
+    const dayB = Math.floor(dateB / 86400000);
+    if (dayA === dayB) {
+      const imgA = a.coverImage ? 0 : 1;
+      const imgB = b.coverImage ? 0 : 1;
+      if (imgA !== imgB) return imgA - imgB;
+    }
+    return dateA - dateB;
+  });
+
+  const finalWithImage = validEvents.filter(e => e.coverImage).length;
+  console.log(`\nFinal: ${validEvents.length} events (${finalWithImage} with images, ${validEvents.length - finalWithImage} placeholder).`);
+
   const cachePath = path.join(__dirname, '../content/events-cache.json');
   fs.writeFileSync(cachePath, JSON.stringify(validEvents, null, 2));
   console.log(`Saved to ${cachePath}`);
