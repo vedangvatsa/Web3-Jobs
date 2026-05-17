@@ -1,313 +1,320 @@
 {
- "meta": {
- "contentType": "tools",
- "topic": "development",
- "niche": "zk-engineer",
- "generatedAt": "2026-03-13T00:00:00.000Z",
- "version": "1.0.0"
- },
- "seo": {
- "title": "35 Essential Tools for ZK Engineers",
- "description": "A curated list of tools for zero-knowledge engineers covering proof systems, circuit development, and ZK application frameworks.",
- "keywords": ["zk-engineer", "tools", "zero-knowledge", "circuits", "SNARKs", "STARKs"],
- "canonicalSlug": "development-tools-for-zk-engineer"
- },
- "content": {
- "intro": "Zero-knowledge engineering requires specialized tools for developing circuits, generating proofs, and building ZK applications. Here are the essentials.",
- "sections": [
- {
- "heading": "Circuit Development Languages",
- "description": "Languages for writing ZK circuits.",
- "items": [
- {
- "name": "Circom",
- "description": "Domain-specific language for writing arithmetic circuits.",
- "category": "Language",
- "url": "https://docs.circom.io",
- "pricing": "Free",
- "useCase": "SNARK circuit development"
- },
- {
- "name": "Noir",
- "description": "Rust-like language for ZK applications from Aztec.",
- "category": "Language",
- "url": "https://noir-lang.org",
- "pricing": "Free",
- "useCase": "ZK app development"
- },
- {
- "name": "Halo2",
- "description": "Rust framework for writing PLONK-based circuits.",
- "category": "Framework",
- "url": "https://zcash.github.io/halo2/",
- "pricing": "Free",
- "useCase": "Halo2 circuit development"
- },
- {
- "name": "Leo",
- "description": "Programming language for Aleo's private applications.",
- "category": "Language",
- "url": "https://leo-lang.org",
- "pricing": "Free",
- "useCase": "Aleo development"
- },
- {
- "name": "Cairo",
- "description": "Language for writing provable programs for StarkNet.",
- "category": "Language",
- "url": "https://www.cairo-lang.org",
- "pricing": "Free",
- "useCase": "STARK development"
- },
- {
- "name": "o1js",
- "description": "TypeScript library for writing Mina zkApps.",
- "category": "Library",
- "url": "https://docs.minaprotocol.com/zkapps/o1js",
- "pricing": "Free",
- "useCase": "Mina development"
- }
- ]
- },
- {
- "heading": "Proof Systems",
- "description": "Libraries implementing ZK proof systems.",
- "items": [
- {
- "name": "SnarkJS",
- "description": "JavaScript implementation of zkSNARKs. Works with Circom.",
- "category": "Library",
- "url": "https://github.com/iden3/snarkjs",
- "pricing": "Free",
- "useCase": "Browser-based proof generation"
- },
- {
- "name": "arkworks",
- "description": "Rust libraries for SNARKs including Groth16 and Marlin.",
- "category": "Library",
- "url": "https://arkworks.rs",
- "pricing": "Free",
- "useCase": "Rust SNARK development"
- },
- {
- "name": "Plonky2",
- "description": "Recursive SNARK system from Polygon. Very fast.",
- "category": "Library",
- "url": "https://github.com/0xPolygonZero/plonky2",
- "pricing": "Free",
- "useCase": "Recursive proofs"
- },
- {
- "name": "Plonky3",
- "description": "modern proving system. Modular and flexible.",
- "category": "Library",
- "url": "https://github.com/Plonky3/Plonky3",
- "pricing": "Free",
- "useCase": "Modern proving"
- },
- {
- "name": "Risc0",
- "description": "ZK-VM based on RISC-V. Prove arbitrary computation.",
- "category": "Framework",
- "url": "https://risczero.com",
- "pricing": "Free",
- "useCase": "General ZK computation"
- },
- {
- "name": "SP1",
- "description": "High-performance zkVM from Succinct Labs.",
- "category": "Framework",
- "url": "https://github.com/succinctlabs/sp1",
- "pricing": "Free",
- "useCase": "zkVM proving"
- }
- ]
- },
- {
- "heading": "Development and Testing",
- "description": "Tools for developing and testing circuits.",
- "items": [
- {
- "name": "circomlib",
- "description": "Library of common Circom components.",
- "category": "Library",
- "url": "https://github.com/iden3/circomlib",
- "pricing": "Free",
- "useCase": "Reusable circuit components"
- },
- {
- "name": "Hardhat Circom",
- "description": "Hardhat plugin for Circom development.",
- "category": "Plugin",
- "url": "https://github.com/projectsophon/hardhat-circom",
- "pricing": "Free",
- "useCase": "Circom in Hardhat"
- },
- {
- "name": "Nargo",
- "description": "Package manager and CLI for Noir.",
- "category": "CLI",
- "url": "https://noir-lang.org/docs/getting_started/installation",
- "pricing": "Free",
- "useCase": "Noir project management"
- },
- {
- "name": "Scarb",
- "description": "Build toolchain and package manager for Cairo.",
- "category": "Build",
- "url": "https://docs.swmansion.com/scarb/",
- "pricing": "Free",
- "useCase": "Cairo development"
- },
- {
- "name": "Protostar",
- "description": "Development framework for StarkNet contracts.",
- "category": "Framework",
- "url": "https://docs.swmansion.com/protostar/",
- "pricing": "Free",
- "useCase": "StarkNet testing"
- }
- ]
- },
- {
- "heading": "Cryptography Fundamentals",
- "description": "Low-level cryptographic libraries.",
- "items": [
- {
- "name": "bn254",
- "description": "BN254 curve implementation. Most common for SNARKs.",
- "category": "Library",
- "url": "https://github.com/arkworks-rs/curves",
- "pricing": "Free",
- "useCase": "Pairing-based crypto"
- },
- {
- "name": "Poseidon Hash",
- "description": "ZK-friendly hash function implementations.",
- "category": "Library",
- "url": "https://github.com/iden3/circomlib",
- "pricing": "Free",
- "useCase": "In-circuit hashing"
- },
- {
- "name": "blstrs",
- "description": "BLS12-381 implementation for BLS signatures and SNARKs.",
- "category": "Library",
- "url": "https://github.com/filecoin-project/blstrs",
- "pricing": "Free",
- "useCase": "BLS cryptography"
- },
- {
- "name": "ff",
- "description": "Finite field arithmetic traits and implementations.",
- "category": "Library",
- "url": "https://github.com/zkcrypto/ff",
- "pricing": "Free",
- "useCase": "Field arithmetic"
- }
- ]
- },
- {
- "heading": "ZK Applications",
- "description": "Frameworks for ZK application patterns.",
- "items": [
- {
- "name": "Semaphore",
- "description": "Anonymous signaling protocol. Foundation for many ZK apps.",
- "category": "Protocol",
- "url": "https://semaphore.appliedzkp.org",
- "pricing": "Free",
- "useCase": "Anonymous groups"
- },
- {
- "name": "ZK Email",
- "description": "Prove email ownership without revealing content.",
- "category": "Protocol",
- "url": "https://prove.email",
- "pricing": "Free",
- "useCase": "Email verification"
- },
- {
- "name": "Worldcoin SDK",
- "description": "Integration with World ID for proof of personhood.",
- "category": "SDK",
- "url": "https://docs.worldcoin.org",
- "pricing": "Free",
- "useCase": "Identity verification"
- },
- {
- "name": "Axiom",
- "description": "ZK coprocessor for accessing historical blockchain data.",
- "category": "Protocol",
- "url": "https://www.axiom.xyz",
- "pricing": "Paid per query",
- "useCase": "Historical data proofs"
- },
- {
- "name": "Brevis",
- "description": "ZK coprocessor for cross-chain data and computation.",
- "category": "Protocol",
- "url": "https://brevis.network",
- "pricing": "Paid per query",
- "useCase": "Cross-chain ZK"
- }
- ]
- },
- {
- "heading": "Learning Resources",
- "description": "Educational tools and resources.",
- "items": [
- {
- "name": "ZK Hack",
- "description": "Community and learning platform for ZK developers.",
- "category": "Community",
- "url": "https://zkhack.dev",
- "pricing": "Free",
- "useCase": "ZK education"
- },
- {
- "name": "ZK Whiteboard Sessions",
- "description": "Video series explaining ZK concepts.",
- "category": "Education",
- "url": "https://zkhack.dev/whiteboard/",
- "pricing": "Free",
- "useCase": "Conceptual learning"
- },
- {
- "name": "Ingopedia",
- "description": "Curated ZK learning resources.",
- "category": "Education",
- "url": "https://www.ingopedia.com",
- "pricing": "Free",
- "useCase": "Resource discovery"
- },
- {
- "name": "Awesome ZKP",
- "description": "Curated list of ZK resources and projects.",
- "category": "Directory",
- "url": "https://github.com/matter-labs/awesome-zero-knowledge-proofs",
- "pricing": "Free",
- "useCase": "Discovery"
- }
- ]
- }
- ],
- "proTips": [
- {
- "tip": "Start with Circom to understand circuit constraints before moving to lower-level libraries."
- },
- {
- "tip": "zkVMs like SP1 and Risc0 let you write normal Rust instead of circuits."
- },
- {
- "tip": "Understand the tradeoffs between different proof systems (proving time vs verification cost vs proof size)."
- },
- {
- "tip": "Poseidon is faster than Keccak in circuits. Use ZK-friendly primitives."
- },
- {
- "tip": "Test constraint counts carefully. Small changes can dramatically affect proof times."
- }
- ]
- }
+  "meta": {
+    "contentType": "tools",
+    "topic": "development",
+    "niche": "zk-engineer",
+    "generatedAt": "2026-05-17T05:12:49.197Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "30 Essential Tools for ZK Engineers",
+    "description": "A curated list of tools for zero-knowledge engineers covering proof systems, circuit development, and ZK application frameworks.",
+    "keywords": [
+      "zk-engineer",
+      "tools",
+      "zero-knowledge",
+      "circuits",
+      "SNARKs",
+      "STARKs"
+    ],
+    "canonicalSlug": "development-tools-for-zk-engineer"
+  },
+  "content": {
+    "intro": "Zero-knowledge engineering requires specialized tools for developing circuits, generating proofs, and building ZK applications. Here are the essentials.",
+    "sections": [
+      {
+        "heading": "Circuit Development Languages",
+        "description": "Languages for writing ZK circuits.",
+        "items": [
+          {
+            "name": "Circom",
+            "description": "Domain-specific language for writing arithmetic circuits.",
+            "category": "Language",
+            "url": "https://docs.circom.io",
+            "pricing": "Free",
+            "useCase": "SNARK circuit development"
+          },
+          {
+            "name": "Noir",
+            "description": "Rust-like language for ZK applications from Aztec.",
+            "category": "Language",
+            "url": "https://noir-lang.org",
+            "pricing": "Free",
+            "useCase": "ZK app development"
+          },
+          {
+            "name": "Halo2",
+            "description": "Rust framework for writing PLONK-based circuits.",
+            "category": "Framework",
+            "url": "https://zcash.github.io/halo2/",
+            "pricing": "Free",
+            "useCase": "Halo2 circuit development"
+          },
+          {
+            "name": "Leo",
+            "description": "Programming language for Aleo's private applications.",
+            "category": "Language",
+            "url": "https://leo-lang.org",
+            "pricing": "Free",
+            "useCase": "Aleo development"
+          },
+          {
+            "name": "Cairo",
+            "description": "Language for writing provable programs for StarkNet.",
+            "category": "Language",
+            "url": "https://www.cairo-lang.org",
+            "pricing": "Free",
+            "useCase": "STARK development"
+          },
+          {
+            "name": "o1js",
+            "description": "TypeScript library for writing Mina zkApps.",
+            "category": "Library",
+            "url": "https://docs.minaprotocol.com/zkapps/o1js",
+            "pricing": "Free",
+            "useCase": "Mina development"
+          }
+        ]
+      },
+      {
+        "heading": "Proof Systems",
+        "description": "Libraries implementing ZK proof systems.",
+        "items": [
+          {
+            "name": "SnarkJS",
+            "description": "JavaScript implementation of zkSNARKs. Works with Circom.",
+            "category": "Library",
+            "url": "https://github.com/iden3/snarkjs",
+            "pricing": "Free",
+            "useCase": "Browser-based proof generation"
+          },
+          {
+            "name": "arkworks",
+            "description": "Rust libraries for SNARKs including Groth16 and Marlin.",
+            "category": "Library",
+            "url": "https://arkworks.rs",
+            "pricing": "Free",
+            "useCase": "Rust SNARK development"
+          },
+          {
+            "name": "Plonky2",
+            "description": "Recursive SNARK system from Polygon. Very fast.",
+            "category": "Library",
+            "url": "https://github.com/0xPolygonZero/plonky2",
+            "pricing": "Free",
+            "useCase": "Recursive proofs"
+          },
+          {
+            "name": "Plonky3",
+            "description": "modern proving system. Modular and flexible.",
+            "category": "Library",
+            "url": "https://github.com/Plonky3/Plonky3",
+            "pricing": "Free",
+            "useCase": "Modern proving"
+          },
+          {
+            "name": "Risc0",
+            "description": "ZK-VM based on RISC-V. Prove arbitrary computation.",
+            "category": "Framework",
+            "url": "https://risczero.com",
+            "pricing": "Free",
+            "useCase": "General ZK computation"
+          },
+          {
+            "name": "SP1",
+            "description": "High-performance zkVM from Succinct Labs.",
+            "category": "Framework",
+            "url": "https://github.com/succinctlabs/sp1",
+            "pricing": "Free",
+            "useCase": "zkVM proving"
+          }
+        ]
+      },
+      {
+        "heading": "Development and Testing",
+        "description": "Tools for developing and testing circuits.",
+        "items": [
+          {
+            "name": "circomlib",
+            "description": "Library of common Circom components.",
+            "category": "Library",
+            "url": "https://github.com/iden3/circomlib",
+            "pricing": "Free",
+            "useCase": "Reusable circuit components"
+          },
+          {
+            "name": "Hardhat Circom",
+            "description": "Hardhat plugin for Circom development.",
+            "category": "Plugin",
+            "url": "https://github.com/projectsophon/hardhat-circom",
+            "pricing": "Free",
+            "useCase": "Circom in Hardhat"
+          },
+          {
+            "name": "Nargo",
+            "description": "Package manager and CLI for Noir.",
+            "category": "CLI",
+            "url": "https://noir-lang.org/docs",
+            "pricing": "Free",
+            "useCase": "Noir project management"
+          },
+          {
+            "name": "Scarb",
+            "description": "Build toolchain and package manager for Cairo.",
+            "category": "Build",
+            "url": "https://docs.swmansion.com/scarb/",
+            "pricing": "Free",
+            "useCase": "Cairo development"
+          },
+          {
+            "name": "Protostar",
+            "description": "Development framework for StarkNet contracts.",
+            "category": "Framework",
+            "url": "https://docs.swmansion.com/protostar/",
+            "pricing": "Free",
+            "useCase": "StarkNet testing"
+          }
+        ]
+      },
+      {
+        "heading": "Cryptography Fundamentals",
+        "description": "Low-level cryptographic libraries.",
+        "items": [
+          {
+            "name": "bn254",
+            "description": "BN254 curve implementation. Most common for SNARKs.",
+            "category": "Library",
+            "url": "https://github.com/arkworks-rs/curves",
+            "pricing": "Free",
+            "useCase": "Pairing-based crypto"
+          },
+          {
+            "name": "Poseidon Hash",
+            "description": "ZK-friendly hash function implementations.",
+            "category": "Library",
+            "url": "https://github.com/iden3/circomlib",
+            "pricing": "Free",
+            "useCase": "In-circuit hashing"
+          },
+          {
+            "name": "blstrs",
+            "description": "BLS12-381 implementation for BLS signatures and SNARKs.",
+            "category": "Library",
+            "url": "https://github.com/filecoin-project/blstrs",
+            "pricing": "Free",
+            "useCase": "BLS cryptography"
+          },
+          {
+            "name": "ff",
+            "description": "Finite field arithmetic traits and implementations.",
+            "category": "Library",
+            "url": "https://github.com/zkcrypto/ff",
+            "pricing": "Free",
+            "useCase": "Field arithmetic"
+          }
+        ]
+      },
+      {
+        "heading": "ZK Applications",
+        "description": "Frameworks for ZK application patterns.",
+        "items": [
+          {
+            "name": "Semaphore",
+            "description": "Anonymous signaling protocol. Foundation for many ZK apps.",
+            "category": "Protocol",
+            "url": "https://semaphore.appliedzkp.org",
+            "pricing": "Free",
+            "useCase": "Anonymous groups"
+          },
+          {
+            "name": "ZK Email",
+            "description": "Prove email ownership without revealing content.",
+            "category": "Protocol",
+            "url": "https://prove.email",
+            "pricing": "Free",
+            "useCase": "Email verification"
+          },
+          {
+            "name": "Worldcoin SDK",
+            "description": "Integration with World ID for proof of personhood.",
+            "category": "SDK",
+            "url": "https://docs.worldcoin.org",
+            "pricing": "Free",
+            "useCase": "Identity verification"
+          },
+          {
+            "name": "Axiom",
+            "description": "ZK coprocessor for accessing historical blockchain data.",
+            "category": "Protocol",
+            "url": "https://www.axiom.xyz",
+            "pricing": "Paid per query",
+            "useCase": "Historical data proofs"
+          },
+          {
+            "name": "Brevis",
+            "description": "ZK coprocessor for cross-chain data and computation.",
+            "category": "Protocol",
+            "url": "https://brevis.network",
+            "pricing": "Paid per query",
+            "useCase": "Cross-chain ZK"
+          }
+        ]
+      },
+      {
+        "heading": "Learning Resources",
+        "description": "Educational tools and resources.",
+        "items": [
+          {
+            "name": "ZK Hack",
+            "description": "Community and learning platform for ZK developers.",
+            "category": "Community",
+            "url": "https://zkhack.dev",
+            "pricing": "Free",
+            "useCase": "ZK education"
+          },
+          {
+            "name": "ZK Whiteboard Sessions",
+            "description": "Video series explaining ZK concepts.",
+            "category": "Education",
+            "url": "https://zkhack.dev/whiteboard/",
+            "pricing": "Free",
+            "useCase": "Conceptual learning"
+          },
+          {
+            "name": "Ingopedia",
+            "description": "Curated ZK learning resources.",
+            "category": "Education",
+            "url": "https://www.ingopedia.com",
+            "pricing": "Free",
+            "useCase": "Resource discovery"
+          },
+          {
+            "name": "Awesome ZKP",
+            "description": "Curated list of ZK resources and projects.",
+            "category": "Directory",
+            "url": "https://github.com/matter-labs/awesome-zero-knowledge-proofs",
+            "pricing": "Free",
+            "useCase": "Discovery"
+          }
+        ]
+      }
+    ],
+    "proTips": [
+      {
+        "tip": "Start with Circom to understand circuit constraints before moving to lower-level libraries."
+      },
+      {
+        "tip": "zkVMs like SP1 and Risc0 let you write normal Rust instead of circuits."
+      },
+      {
+        "tip": "Understand the tradeoffs between different proof systems (proving time vs verification cost vs proof size)."
+      },
+      {
+        "tip": "Poseidon is faster than Keccak in circuits. Use ZK-friendly primitives."
+      },
+      {
+        "tip": "Test constraint counts carefully. Small changes can dramatically affect proof times."
+      }
+    ]
+  }
 }
