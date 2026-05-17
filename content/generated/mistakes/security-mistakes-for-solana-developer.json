@@ -3,7 +3,7 @@
     "contentType": "mistakes",
     "topic": "security",
     "niche": "solana-developer",
-    "generatedAt": "2026-05-17T05:30:09.456Z",
+    "generatedAt": "2026-05-17T16:55:57.097Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -55,7 +55,8 @@
             "severity": "medium",
             "solution": "Mark accounts as writable with #[account(mut)] or is_writable checks."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "PDA Problems",
@@ -90,7 +91,8 @@
             "severity": "medium",
             "solution": "Hash long seeds or restructure to stay under limit."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Token Handling Errors",
@@ -125,7 +127,8 @@
             "severity": "medium",
             "solution": "Check account freeze state before transfers."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Arithmetic Issues",
@@ -154,7 +157,8 @@
             "severity": "low",
             "solution": "Use i64 for timestamp handling. Cast carefully."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "CPI Vulnerabilities",
@@ -183,7 +187,8 @@
             "severity": "medium",
             "solution": "Always check invoke/invoke_signed results."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Common Development Mistakes",
@@ -236,7 +241,8 @@
             "severity": "high",
             "solution": "Monitor transaction sizes. Split large operations across multiple transactions."
           }
-        ]
+        ],
+        "description": ""
       }
     ],
     "relatedResources": [

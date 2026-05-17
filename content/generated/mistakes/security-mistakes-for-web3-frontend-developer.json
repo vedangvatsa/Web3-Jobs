@@ -3,7 +3,7 @@
     "contentType": "mistakes",
     "topic": "security",
     "niche": "web3-frontend-developer",
-    "generatedAt": "2026-05-17T05:30:09.457Z",
+    "generatedAt": "2026-05-17T16:55:57.098Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -55,7 +55,8 @@
             "severity": "medium",
             "solution": "Show loading state but allow cancellation. Timeout long requests."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Transaction Handling",
@@ -90,7 +91,8 @@
             "severity": "medium",
             "solution": "Map common errors to friendly messages. Log technical details."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "State Management",
@@ -125,7 +127,8 @@
             "severity": "low",
             "solution": "Wait for sufficient confirmations for important transactions."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Security Problems",
@@ -160,7 +163,8 @@
             "severity": "medium",
             "solution": "Never store private keys or sensitive tokens in localStorage."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "UX Mistakes",
@@ -195,7 +199,8 @@
             "severity": "medium",
             "solution": "Explain gas in simple terms. Show estimated costs in USD."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Development Practices",
@@ -230,7 +235,8 @@
             "severity": "medium",
             "solution": "Use strict TypeScript. wagmi and viem have excellent types."
           }
-        ]
+        ],
+        "description": ""
       }
     ],
     "relatedResources": [

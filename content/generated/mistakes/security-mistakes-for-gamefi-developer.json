@@ -3,7 +3,7 @@
     "contentType": "mistakes",
     "topic": "security",
     "niche": "gamefi-developer",
-    "generatedAt": "2026-05-17T05:30:09.455Z",
+    "generatedAt": "2026-05-17T16:55:57.097Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -31,7 +31,8 @@
             "severity": "critical",
             "impact": "Hyperinflation. Token becomes worthless. Economy collapses.",
             "prevention": "Design meaningful sinks: crafting, upgrades, fees. Balance emissions with burns.",
-            "example": "Play-to-earn game that only emits tokens with no mechanisms to burn them."
+            "example": "Play-to-earn game that only emits tokens with no mechanisms to burn them.",
+            "title": "No token sinks"
           },
           {
             "mistake": "Exploitable reward formulas",
@@ -39,7 +40,8 @@
             "severity": "high",
             "impact": "Farmers find optimal exploit strategy. Drain rewards intended for real players.",
             "prevention": "Model economy before launch. Red team your reward formulas.",
-            "example": "Reward per action without considering that bots can do 1000x actions."
+            "example": "Reward per action without considering that bots can do 1000x actions.",
+            "title": "Exploitable reward formulas"
           },
           {
             "mistake": "Uncapped minting",
@@ -47,7 +49,8 @@
             "severity": "critical",
             "impact": "Exploit that triggers mint floods the economy. Instant inflation spiral.",
             "prevention": "Rate limits on all minting. Caps per address and globally.",
-            "example": "Bug allows single transaction to mint billions of tokens."
+            "example": "Bug allows single transaction to mint billions of tokens.",
+            "title": "Uncapped minting"
           },
           {
             "mistake": "Ignoring multi-accounting",
@@ -55,7 +58,8 @@
             "severity": "high",
             "impact": "Rewards meant for many players concentrated in few hands.",
             "prevention": "Design assuming Sybil attacks. Cap per-wallet rewards.",
-            "example": "Airdrop formula that rewards each wallet equally. Farmers create thousands."
+            "example": "Airdrop formula that rewards each wallet equally. Farmers create thousands.",
+            "title": "Ignoring multi-accounting"
           }
         ]
       },
@@ -69,7 +73,8 @@
             "severity": "critical",
             "impact": "Miners/validators can predict or manipulate outcomes.",
             "prevention": "Use Chainlink VRF or commit-reveal schemes.",
-            "example": "NFT rarity determined by blockhash. Miners manipulate for rare drops."
+            "example": "NFT rarity determined by blockhash. Miners manipulate for rare drops.",
+            "title": "Block hash randomness"
           },
           {
             "mistake": "Missing reentrancy guards on rewards",
@@ -77,7 +82,8 @@
             "severity": "critical",
             "impact": "Attacker drains reward pool by reentering during claim.",
             "prevention": "Use ReentrancyGuard. Follow checks-effects-interactions.",
-            "example": "claimRewards() sends ETH before updating balance. Reenter and claim again."
+            "example": "claimRewards() sends ETH before updating balance. Reenter and claim again.",
+            "title": "Missing reentrancy guards on rewards"
           },
           {
             "mistake": "Upgradeable contracts without safeguards",
@@ -85,7 +91,8 @@
             "severity": "high",
             "impact": "Single compromise or rug pull can change all game rules.",
             "prevention": "Multisig for upgrades. Timelock delays. Transparent upgrade process.",
-            "example": "Dev wallet hacked. Attacker upgrades contract to drain all NFTs."
+            "example": "Dev wallet hacked. Attacker upgrades contract to drain all NFTs.",
+            "title": "Upgradeable contracts without safeguards"
           },
           {
             "mistake": "No pause mechanism",
@@ -93,7 +100,8 @@
             "severity": "high",
             "impact": "Cannot stop ongoing exploit. Damage continues until fix deployed.",
             "prevention": "Implement pausable pattern. Multi-party control of pause.",
-            "example": "Economy exploit discovered but contracts cannot be paused to stop bleeding."
+            "example": "Economy exploit discovered but contracts cannot be paused to stop bleeding.",
+            "title": "No pause mechanism"
           }
         ]
       },
@@ -107,7 +115,8 @@
             "severity": "critical",
             "impact": "Cheaters modify client to claim any outcome. Infinite rewards.",
             "prevention": "Server-authoritative for all economic outcomes. Client is display only.",
-            "example": "Client reports 'killed boss, give 1000 tokens'. Server trusts it."
+            "example": "Client reports 'killed boss, give 1000 tokens'. Server trusts it.",
+            "title": "Client-authoritative game state"
           },
           {
             "mistake": "Admin keys in client",
@@ -115,7 +124,8 @@
             "severity": "critical",
             "impact": "Anyone decompiling client gets full admin access.",
             "prevention": "Admin operations server-side only. Keys never in client.",
-            "example": "Unity game with hardcoded treasury wallet private key in build."
+            "example": "Unity game with hardcoded treasury wallet private key in build.",
+            "title": "Admin keys in client"
           },
           {
             "mistake": "No anti-cheat",
@@ -123,7 +133,8 @@
             "severity": "high",
             "impact": "Widespread cheating. Legit players leave. Economy ruined by botters.",
             "prevention": "Implement anti-cheat. Server-side validation. Behavioral detection.",
-            "example": "Speed hack lets players complete dungeons 100x faster than intended."
+            "example": "Speed hack lets players complete dungeons 100x faster than intended.",
+            "title": "No anti-cheat"
           },
           {
             "mistake": "Unvalidated transaction parameters",
@@ -131,7 +142,8 @@
             "severity": "critical",
             "impact": "Users modify transaction data to claim unearned rewards.",
             "prevention": "Server generates transaction data. Sign with backend key.",
-            "example": "Client submits 'claim 1000 tokens' transaction. Server doesn't verify amount."
+            "example": "Client submits 'claim 1000 tokens' transaction. Server doesn't verify amount.",
+            "title": "Unvalidated transaction parameters"
           }
         ]
       },
@@ -145,7 +157,8 @@
             "severity": "high",
             "impact": "Team can change NFT properties after sale. Rug potential.",
             "prevention": "IPFS for metadata. On-chain attributes when possible. Immutable after mint.",
-            "example": "NFT stats changed after purchase to nerf valuable items."
+            "example": "NFT stats changed after purchase to nerf valuable items.",
+            "title": "Off-chain metadata tampering"
           },
           {
             "mistake": "Asset duplication bugs",
@@ -153,7 +166,8 @@
             "severity": "critical",
             "impact": "Unique items duplicated. Supply assumptions broken.",
             "prevention": "Test minting thoroughly. Unique ID constraints.",
-            "example": "Race condition in mint allows two identical 'unique' items."
+            "example": "Race condition in mint allows two identical 'unique' items.",
+            "title": "Asset duplication bugs"
           },
           {
             "mistake": "Uncontrolled secondary sales",
@@ -161,7 +175,8 @@
             "severity": "medium",
             "impact": "Wash trading, market manipulation, royalty evasion.",
             "prevention": "Design with secondary market in mind. Accept royalty limitations.",
-            "example": "Game economy assumes 10% royalty but marketplaces allow 0%."
+            "example": "Game economy assumes 10% royalty but marketplaces allow 0%.",
+            "title": "Uncontrolled secondary sales"
           },
           {
             "mistake": "No asset freezing mechanism",
@@ -169,7 +184,8 @@
             "severity": "high",
             "impact": "Exploited items traded away before team can respond.",
             "prevention": "Implement freeze functionality with proper governance.",
-            "example": "Duplicated rare item sold 100 times before bug is fixed."
+            "example": "Duplicated rare item sold 100 times before bug is fixed.",
+            "title": "No asset freezing mechanism"
           },
           {
             "mistake": "Predictable token IDs",
@@ -177,7 +193,8 @@
             "severity": "medium",
             "impact": "Bots snipe rare items by predicting IDs before reveal.",
             "prevention": "Randomize token ID assignment. Delayed reveal mechanisms.",
-            "example": "Rare items always mint at certain ID ranges. Bots target those."
+            "example": "Rare items always mint at certain ID ranges. Bots target those.",
+            "title": "Predictable token IDs"
           }
         ]
       },
@@ -191,7 +208,8 @@
             "severity": "high",
             "impact": "Exploits run unchecked until manual intervention.",
             "prevention": "Automatic pauses when daily volume or minting exceeds thresholds.",
-            "example": "Bot mints 10x normal daily tokens before anyone notices."
+            "example": "Bot mints 10x normal daily tokens before anyone notices.",
+            "title": "No economic circuit breakers"
           },
           {
             "mistake": "Static reward rates",
@@ -199,7 +217,8 @@
             "severity": "high",
             "impact": "Economy death spiral when conditions change.",
             "prevention": "Dynamic rewards based on treasury health and player metrics.",
-            "example": "Fixed 100 token reward becomes worthless or too valuable."
+            "example": "Fixed 100 token reward becomes worthless or too valuable.",
+            "title": "Static reward rates"
           },
           {
             "mistake": "Ignoring whale behavior",
@@ -207,7 +226,8 @@
             "severity": "high",
             "impact": "Whales dominate. New players cannot compete. Game dies.",
             "prevention": "Diminishing returns. Activity-based rewards. Catch-up mechanics.",
-            "example": "Top 10 players own 90% of all rewards. Others quit."
+            "example": "Top 10 players own 90% of all rewards. Others quit.",
+            "title": "Ignoring whale behavior"
           },
           {
             "mistake": "No fee adjustment mechanism",
@@ -215,7 +235,8 @@
             "severity": "medium",
             "impact": "Fees become prohibitive or negligible, breaking UX or spam protection.",
             "prevention": "Oracle-based fee adjustment. USD-denominated minimum fees.",
-            "example": "Fixed 10 token fee becomes $1000 when token moons."
+            "example": "Fixed 10 token fee becomes $1000 when token moons.",
+            "title": "No fee adjustment mechanism"
           }
         ]
       },
@@ -229,7 +250,8 @@
             "severity": "high",
             "impact": "Scripts claim rewards faster than intended, draining pools.",
             "prevention": "Per-address cooldowns. Global rate limits. Batch claim penalties.",
-            "example": "Bot claims 1000 small rewards per second instead of one big one."
+            "example": "Bot claims 1000 small rewards per second instead of one big one.",
+            "title": "No rate limiting on claims"
           },
           {
             "mistake": "Flash loan vulnerable pricing",
@@ -237,7 +259,8 @@
             "severity": "critical",
             "impact": "Flash loans manipulate prices for unfair advantages.",
             "prevention": "Use TWAPs. Multi-block price averaging. Oracle integration.",
-            "example": "Manipulate token price, buy cheap game items, restore price."
+            "example": "Manipulate token price, buy cheap game items, restore price.",
+            "title": "Flash loan vulnerable pricing"
           },
           {
             "mistake": "No slippage protection",
@@ -245,7 +268,8 @@
             "severity": "high",
             "impact": "Sandwich attacks extract value from player trades.",
             "prevention": "User-defined slippage limits. MEV protection integration.",
-            "example": "Player swap gets sandwiched, loses 20% to MEV bots."
+            "example": "Player swap gets sandwiched, loses 20% to MEV bots.",
+            "title": "No slippage protection"
           },
           {
             "mistake": "Timestamp manipulation vulnerability",
@@ -253,7 +277,8 @@
             "severity": "medium",
             "impact": "Validators manipulate timestamp within allowed range for advantage.",
             "prevention": "Use block numbers for timing. Accept timestamp variance.",
-            "example": "Daily reset based on timestamp. Validator extends their play window."
+            "example": "Daily reset based on timestamp. Validator extends their play window.",
+            "title": "Timestamp manipulation vulnerability"
           }
         ]
       },
@@ -267,7 +292,8 @@
             "severity": "medium",
             "impact": "Slow game. RPC rate limits. Poor player experience.",
             "prevention": "Index on-chain data. Cache appropriately. Background sync.",
-            "example": "Game queries NFT ownership on-chain for every frame."
+            "example": "Game queries NFT ownership on-chain for every frame.",
+            "title": "Trusting on-chain data without indexing"
           },
           {
             "mistake": "No transaction failure handling",
@@ -275,7 +301,8 @@
             "severity": "high",
             "impact": "Players lose progress or get stuck when transactions fail.",
             "prevention": "Handle all transaction states. Retry logic. Clear error messages.",
-            "example": "Player completes level but reward transaction fails silently."
+            "example": "Player completes level but reward transaction fails silently.",
+            "title": "No transaction failure handling"
           },
           {
             "mistake": "Wallet UX friction",
@@ -283,7 +310,8 @@
             "severity": "medium",
             "impact": "Players frustrated. Abandon game due to wallet fatigue.",
             "prevention": "Batch transactions. Session keys. Embedded wallets for minor actions.",
-            "example": "Pop-up to sign every item pickup in action game."
+            "example": "Pop-up to sign every item pickup in action game.",
+            "title": "Wallet UX friction"
           },
           {
             "mistake": "Incorrect chain event handling",
@@ -291,7 +319,8 @@
             "severity": "high",
             "impact": "Game state desyncs from actual on-chain state.",
             "prevention": "Wait for finality. Handle reorg events. Resync mechanisms.",
-            "example": "Player shows item they no longer own due to reorg."
+            "example": "Player shows item they no longer own due to reorg.",
+            "title": "Incorrect chain event handling"
           },
           {
             "mistake": "Insufficient error messages",
@@ -299,7 +328,8 @@
             "severity": "medium",
             "impact": "Players confused and frustrated. Support tickets increase.",
             "prevention": "Specific error messages with suggested actions.",
-            "example": "'Transaction failed' instead of 'Insufficient gas for this action'."
+            "example": "'Transaction failed' instead of 'Insufficient gas for this action'.",
+            "title": "Insufficient error messages"
           }
         ]
       }
