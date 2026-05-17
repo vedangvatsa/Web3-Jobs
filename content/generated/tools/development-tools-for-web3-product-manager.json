@@ -3,7 +3,7 @@
     "contentType": "tools",
     "topic": "development",
     "niche": "web3-product-manager",
-    "generatedAt": "2026-05-17T05:12:49.197Z",
+    "generatedAt": "2026-05-17T05:28:45.898Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -342,6 +342,7 @@
       {
         "tip": "Track wallet addresses, not just pageviews. On-chain is the source of truth."
       }
-    ]
+    ],
+    "conclusion": "Product management tools for Web3 are mostly the same as Web2, with on-chain analytics layered on top. Dune for data, Notion for specs, and Linear for execution."
   }
 }

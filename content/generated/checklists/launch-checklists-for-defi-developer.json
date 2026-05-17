@@ -1,471 +1,471 @@
 {
- "meta": {
- "contentType": "checklists",
- "topic": "launch",
- "niche": "defi-developer",
- "generatedAt": "2026-03-12T20:08:56.236Z",
- "version": "1.0.0"
- },
- "seo": {
- "title": "DeFi Protocol Launch Checklist",
- "description": "DeFi protocol launch checklist covering security audits, liquidity bootstrapping, and monitoring. 65+ items for mainnet readiness.",
- "keywords": [
- "defi-developer",
- "checklists",
- "launch",
- "web3",
- "smart-contract",
- "blockchain",
- "security-preparation",
- "protocol-configuration",
- "access-control-setup"
- ],
- "canonicalSlug": "launch-checklists-for-defi-developer"
- },
- "content": {
- "intro": "The complete checklist for launching a DeFi protocol. Covers security audits, liquidity bootstrapping, monitoring setup, and safe mainnet deployment for lending protocols, DEXs, and yield aggregators.",
- "sections": [
- {
- "heading": "Security Preparation",
- "description": "Complete security review before launch.",
- "items": [
- {
- "title": "Complete professional security audit",
- "description": "Engage reputable audit firm. Allow 4-8 weeks for thorough review.",
- "priority": "critical",
- "category": "Security"
- },
- {
- "title": "Fix all critical and high audit findings",
- "description": "No launch with unresolved critical issues. Document any accepted risks.",
- "priority": "critical",
- "category": "Security"
- },
- {
- "title": "Run bug bounty program",
- "description": "Launch on Immunefi or similar. Set meaningful bounty amounts.",
- "priority": "critical",
- "category": "Security"
- },
- {
- "title": "Complete formal verification for core functions",
- "description": "Use Certora, Halmos, or similar for critical invariants.",
- "priority": "important",
- "category": "Security"
- },
- {
- "title": "Run extensive fuzzing campaigns",
- "description": "Echidna/Foundry fuzzing for all financial operations.",
- "priority": "critical",
- "category": "Testing"
- },
- {
- "title": "Review all external dependencies",
- "description": "Audit imported libraries. Check for known vulnerabilities.",
- "priority": "important",
- "category": "Security"
- },
- {
- "title": "Conduct economic security review",
- "description": "Model attack economics, MEV, and manipulation vectors.",
- "priority": "critical",
- "category": "Economics"
- },
- {
- "title": "Set up security monitoring",
- "description": "Configure Forta bots, Tenderly alerts, or custom monitoring.",
- "priority": "critical",
- "category": "Operations"
- }
- ]
- },
- {
- "heading": "Protocol Configuration",
- "description": "Set conservative launch parameters.",
- "items": [
- {
- "title": "Set conservative initial parameters",
- "description": "Lower TVL caps, higher collateral ratios, wider spreads for launch.",
- "priority": "critical",
- "category": "Parameters"
- },
- {
- "title": "Configure asset listings carefully",
- "description": "Start with battle-tested assets (ETH, USDC). Add riskier assets later.",
- "priority": "critical",
- "category": "Risk"
- },
- {
- "title": "Set supply and borrow caps",
- "description": "Limit exposure per asset until protocol is battle-tested.",
- "priority": "critical",
- "category": "Risk"
- },
- {
- "title": "Configure oracle feeds",
- "description": "Use Chainlink primary with fallbacks. Set staleness thresholds.",
- "priority": "critical",
- "category": "Oracles"
- },
- {
- "title": "Set liquidation incentives",
- "description": "Ensure liquidators are profitable to maintain solvency.",
- "priority": "critical",
- "category": "Economics"
- },
- {
- "title": "Configure interest rate models",
- "description": "Set utilization targets and rate curves appropriately.",
- "priority": "critical",
- "category": "Economics"
- },
- {
- "title": "Set fee parameters",
- "description": "Configure protocol fees, withdrawal fees, and distribution.",
- "priority": "important",
- "category": "Economics"
- },
- {
- "title": "Configure governance timelock",
- "description": "Set appropriate delay (24-48h minimum) for parameter changes.",
- "priority": "critical",
- "category": "Governance"
- }
- ]
- },
- {
- "heading": "Access Control Setup",
- "description": "Secure admin functions and keys.",
- "items": [
- {
- "title": "Deploy governance multisig",
- "description": "Use Gnosis Safe with reputable signers. Document threshold.",
- "priority": "critical",
- "category": "Security"
- },
- {
- "title": "Transfer ownership to multisig",
- "description": "Move all admin rights from deployer to governance.",
- "priority": "critical",
- "category": "Security"
- },
- {
- "title": "Configure emergency guardian",
- "description": "Set up fast-response guardian for pause functionality.",
- "priority": "critical",
- "category": "Emergency"
- },
- {
- "title": "Document all privileged roles",
- "description": "Public documentation of who controls what.",
- "priority": "important",
- "category": "Transparency"
- },
- {
- "title": "Set up key ceremony for critical keys",
- "description": "Proper key generation with multiple witnesses.",
- "priority": "important",
- "category": "Security"
- },
- {
- "title": "Configure upgrade authority",
- "description": "Set timelock as upgrade admin for proxies.",
- "priority": "critical",
- "category": "Security"
- },
- {
- "title": "Test emergency procedures",
- "description": "Dry run pause, unpause, and emergency actions.",
- "priority": "critical",
- "category": "Operations"
- },
- {
- "title": "Plan key rotation procedures",
- "description": "Document how to rotate signers if needed.",
- "priority": "important",
- "category": "Operations"
- }
- ]
- },
- {
- "heading": "Liquidity Bootstrapping",
- "description": "Seed initial protocol liquidity.",
- "items": [
- {
- "title": "Plan liquidity bootstrapping strategy",
- "description": "Choose LBP, fair launch, liquidity mining, or VC seeding.",
- "priority": "critical",
- "category": "Strategy"
- },
- {
- "title": "Secure initial liquidity commitments",
- "description": "Line up launch liquidity from team, investors, or partners.",
- "priority": "critical",
- "category": "Liquidity"
- },
- {
- "title": "Design liquidity incentive program",
- "description": "Structure rewards to attract sticky liquidity, not mercenary.",
- "priority": "important",
- "category": "Incentives"
- },
- {
- "title": "Set up liquidity mining contracts",
- "description": "Deploy and test reward distribution contracts.",
- "priority": "important",
- "category": "Infrastructure"
- },
- {
- "title": "Coordinate with DEX aggregators",
- "description": "List on 1inch, Paraswap, etc. for discoverability.",
- "priority": "important",
- "category": "Distribution"
- },
- {
- "title": "Plan trading pair strategy",
- "description": "Prioritize deep liquidity for key pairs.",
- "priority": "important",
- "category": "Strategy"
- },
- {
- "title": "Set up token vesting if applicable",
- "description": "Configure vesting schedules for team and investors.",
- "priority": "important",
- "category": "Tokenomics"
- },
- {
- "title": "Prepare treasury management",
- "description": "Plan how protocol-owned liquidity will be managed.",
- "priority": "important",
- "category": "Treasury"
- }
- ]
- },
- {
- "heading": "Infrastructure & Monitoring",
- "description": "Set up operational infrastructure.",
- "items": [
- {
- "title": "Deploy and index subgraph",
- "description": "The Graph or custom indexer for protocol analytics.",
- "priority": "critical",
- "category": "Infrastructure"
- },
- {
- "title": "Set up protocol dashboard",
- "description": "Real-time TVL, utilization, and health metrics.",
- "priority": "critical",
- "category": "Analytics"
- },
- {
- "title": "Configure liquidation bots",
- "description": "Run redundant liquidation bots or partner with liquidators.",
- "priority": "critical",
- "category": "Operations"
- },
- {
- "title": "Set up keeper infrastructure",
- "description": "Automated keepers for oracle updates, rewards, etc.",
- "priority": "important",
- "category": "Operations"
- },
- {
- "title": "Configure alerting system",
- "description": "PagerDuty or similar for critical alerts.",
- "priority": "critical",
- "category": "Operations"
- },
- {
- "title": "Set up 24/7 on-call rotation",
- "description": "Ensure someone can respond to incidents anytime.",
- "priority": "critical",
- "category": "Operations"
- },
- {
- "title": "Deploy frontend to reliable hosting",
- "description": "CDN with DDoS protection. Consider IPFS backup.",
- "priority": "critical",
- "category": "Infrastructure"
- },
- {
- "title": "Configure RPC redundancy",
- "description": "Multiple RPC providers with automatic failover.",
- "priority": "critical",
- "category": "Infrastructure"
- }
- ]
- },
- {
- "heading": "Documentation & Communication",
- "description": "Prepare launch communications.",
- "items": [
- {
- "title": "Publish comprehensive docs",
- "description": "Protocol mechanics, risks, and user guides.",
- "priority": "critical",
- "category": "Documentation"
- },
- {
- "title": "Write risk disclosure",
- "description": "Clear documentation of protocol risks for users.",
- "priority": "critical",
- "category": "Legal"
- },
- {
- "title": "Prepare audit report publication",
- "description": "Make audit reports easily accessible.",
- "priority": "important",
- "category": "Transparency"
- },
- {
- "title": "Create integration documentation",
- "description": "SDK docs, contract addresses, and integration guides.",
- "priority": "important",
- "category": "Developer"
- },
- {
- "title": "Brief community moderators",
- "description": "Train mods on protocol mechanics and common issues.",
- "priority": "important",
- "category": "Community"
- },
- {
- "title": "Prepare launch announcements",
- "description": "Blog posts, tweets, and press materials ready.",
- "priority": "important",
- "category": "Marketing"
- },
- {
- "title": "Set up support channels",
- "description": "Discord support, FAQ, and escalation paths.",
- "priority": "important",
- "category": "Support"
- },
- {
- "title": "Coordinate launch PR",
- "description": "Reach out to media, influencers, and partners.",
- "priority": "important",
- "category": "Marketing"
- }
- ]
- },
- {
- "heading": "Launch Execution",
- "description": "Execute the mainnet launch.",
- "items": [
- {
- "title": "Final testnet validation",
- "description": "Complete end-to-end testing on testnet fork of mainnet.",
- "priority": "critical",
- "category": "Testing"
- },
- {
- "title": "Deploy contracts to mainnet",
- "description": "Execute deployment scripts. Verify all contracts.",
- "priority": "critical",
- "category": "Deployment"
- },
- {
- "title": "Seed initial liquidity",
- "description": "Deploy committed liquidity before opening to public.",
- "priority": "critical",
- "category": "Liquidity"
- },
- {
- "title": "Enable deposits with caps",
- "description": "Start with conservative caps. Raise as confidence grows.",
- "priority": "critical",
- "category": "Launch"
- },
- {
- "title": "Monitor first transactions closely",
- "description": "Watch initial deposits, borrows, and trades for issues.",
- "priority": "critical",
- "category": "Monitoring"
- },
- {
- "title": "Verify oracle functionality",
- "description": "Confirm price feeds are working correctly.",
- "priority": "critical",
- "category": "Verification"
- },
- {
- "title": "Test emergency pause",
- "description": "Verify pause functionality works without affecting funds.",
- "priority": "critical",
- "category": "Emergency"
- },
- {
- "title": "Announce launch",
- "description": "Publish announcements once system is stable.",
- "priority": "important",
- "category": "Marketing"
- }
- ]
- },
- {
- "heading": "Post-Launch Operations",
- "description": "Ongoing operations after launch.",
- "items": [
- {
- "title": "Monitor protocol health daily",
- "description": "Check TVL, utilization, bad debt, and anomalies.",
- "priority": "critical",
- "category": "Monitoring"
- },
- {
- "title": "Gradually raise caps",
- "description": "Increase limits as protocol proves stability.",
- "priority": "important",
- "category": "Growth"
- },
- {
- "title": "Process bug bounty submissions",
- "description": "Triage and respond to security reports quickly.",
- "priority": "critical",
- "category": "Security"
- },
- {
- "title": "Maintain community communication",
- "description": "Regular updates on metrics, roadmap, and issues.",
- "priority": "important",
- "category": "Community"
- },
- {
- "title": "Plan next asset listings",
- "description": "Due diligence on new assets before adding.",
- "priority": "important",
- "category": "Growth"
- },
- {
- "title": "Schedule follow-up audits",
- "description": "Plan audits for new features and periodic reviews.",
- "priority": "important",
- "category": "Security"
- },
- {
- "title": "Gather user feedback",
- "description": "Collect feedback for product improvements.",
- "priority": "important",
- "category": "Product"
- },
- {
- "title": "Document lessons learned",
- "description": "Record what worked and what to improve.",
- "priority": "nice-to-have",
- "category": "Process"
- }
- ]
- }
- ],
- "proTips": [
- "Launch with lower caps than you think you need: You can always raise caps. You can't undo a hack. Start conservative.",
- "Have war room ready for launch week: Engineering, security, and ops should be available 24/7 for the first week.",
- "Partner with professional liquidators: Don't rely solely on your own bots. Liquidation failures cause bad debt.",
- "Monitor competitor incidents: When similar protocols get hacked, review if you're vulnerable to the same attack.",
- "Build relationships with security researchers: White hats who know your protocol can spot issues before black hats do."
- ],
- "conclusion": "Join teams building the financial rails of the decentralized economy.",
- "relatedResources": []
- }
+  "meta": {
+    "contentType": "checklists",
+    "topic": "launch",
+    "niche": "defi-developer",
+    "generatedAt": "2026-05-17T05:28:45.875Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "DeFi Protocol Launch Checklist",
+    "description": "DeFi protocol launch checklist covering security audits, liquidity bootstrapping, and monitoring. 65+ items for mainnet readiness.",
+    "keywords": [
+      "defi-developer",
+      "checklists",
+      "launch",
+      "web3",
+      "smart-contract",
+      "blockchain",
+      "security-preparation",
+      "protocol-configuration",
+      "access-control-setup"
+    ],
+    "canonicalSlug": "launch-checklists-for-defi-developer"
+  },
+  "content": {
+    "intro": "The complete checklist for launching a DeFi protocol. Covers security audits, liquidity bootstrapping, monitoring setup, and safe mainnet deployment for lending protocols, DEXs, and yield aggregators.",
+    "sections": [
+      {
+        "heading": "Security Preparation",
+        "description": "Complete security review before launch.",
+        "items": [
+          {
+            "title": "Complete professional security audit",
+            "description": "Engage reputable audit firm. Allow 4-8 weeks for thorough review.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Fix all critical and high audit findings",
+            "description": "No launch with unresolved critical issues. Document any accepted risks.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Run bug bounty program",
+            "description": "Launch on Immunefi or similar. Set meaningful bounty amounts.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Complete formal verification for core functions",
+            "description": "Use Certora, Halmos, or similar for critical invariants.",
+            "priority": "important",
+            "category": "Security"
+          },
+          {
+            "title": "Run extensive fuzzing campaigns",
+            "description": "Echidna/Foundry fuzzing for all financial operations.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Review all external dependencies",
+            "description": "Audit imported libraries. Check for known vulnerabilities.",
+            "priority": "important",
+            "category": "Security"
+          },
+          {
+            "title": "Conduct economic security review",
+            "description": "Model attack economics, MEV, and manipulation vectors.",
+            "priority": "critical",
+            "category": "Economics"
+          },
+          {
+            "title": "Set up security monitoring",
+            "description": "Configure Forta bots, Tenderly alerts, or custom monitoring.",
+            "priority": "critical",
+            "category": "Operations"
+          }
+        ]
+      },
+      {
+        "heading": "Protocol Configuration",
+        "description": "Set conservative launch parameters.",
+        "items": [
+          {
+            "title": "Set conservative initial parameters",
+            "description": "Lower TVL caps, higher collateral ratios, wider spreads for launch.",
+            "priority": "critical",
+            "category": "Parameters"
+          },
+          {
+            "title": "Configure asset listings carefully",
+            "description": "Start with battle-tested assets (ETH, USDC). Add riskier assets later.",
+            "priority": "critical",
+            "category": "Risk"
+          },
+          {
+            "title": "Set supply and borrow caps",
+            "description": "Limit exposure per asset until protocol is battle-tested.",
+            "priority": "critical",
+            "category": "Risk"
+          },
+          {
+            "title": "Configure oracle feeds",
+            "description": "Use Chainlink primary with fallbacks. Set staleness thresholds.",
+            "priority": "critical",
+            "category": "Oracles"
+          },
+          {
+            "title": "Set liquidation incentives",
+            "description": "Ensure liquidators are profitable to maintain solvency.",
+            "priority": "critical",
+            "category": "Economics"
+          },
+          {
+            "title": "Configure interest rate models",
+            "description": "Set utilization targets and rate curves appropriately.",
+            "priority": "critical",
+            "category": "Economics"
+          },
+          {
+            "title": "Set fee parameters",
+            "description": "Configure protocol fees, withdrawal fees, and distribution.",
+            "priority": "important",
+            "category": "Economics"
+          },
+          {
+            "title": "Configure governance timelock",
+            "description": "Set appropriate delay (24-48h minimum) for parameter changes.",
+            "priority": "critical",
+            "category": "Governance"
+          }
+        ]
+      },
+      {
+        "heading": "Access Control Setup",
+        "description": "Secure admin functions and keys.",
+        "items": [
+          {
+            "title": "Deploy governance multisig",
+            "description": "Use Gnosis Safe with reputable signers. Document threshold.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Transfer ownership to multisig",
+            "description": "Move all admin rights from deployer to governance.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Configure emergency guardian",
+            "description": "Set up fast-response guardian for pause functionality.",
+            "priority": "critical",
+            "category": "Emergency"
+          },
+          {
+            "title": "Document all privileged roles",
+            "description": "Public documentation of who controls what.",
+            "priority": "important",
+            "category": "Transparency"
+          },
+          {
+            "title": "Set up key ceremony for critical keys",
+            "description": "Proper key generation with multiple witnesses.",
+            "priority": "important",
+            "category": "Security"
+          },
+          {
+            "title": "Configure upgrade authority",
+            "description": "Set timelock as upgrade admin for proxies.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Test emergency procedures",
+            "description": "Dry run pause, unpause, and emergency actions.",
+            "priority": "critical",
+            "category": "Operations"
+          },
+          {
+            "title": "Plan key rotation procedures",
+            "description": "Document how to rotate signers if needed.",
+            "priority": "important",
+            "category": "Operations"
+          }
+        ]
+      },
+      {
+        "heading": "Liquidity Bootstrapping",
+        "description": "Seed initial protocol liquidity.",
+        "items": [
+          {
+            "title": "Plan liquidity bootstrapping strategy",
+            "description": "Choose LBP, fair launch, liquidity mining, or VC seeding.",
+            "priority": "critical",
+            "category": "Strategy"
+          },
+          {
+            "title": "Secure initial liquidity commitments",
+            "description": "Line up launch liquidity from team, investors, or partners.",
+            "priority": "critical",
+            "category": "Liquidity"
+          },
+          {
+            "title": "Design liquidity incentive program",
+            "description": "Structure rewards to attract sticky liquidity, not mercenary.",
+            "priority": "important",
+            "category": "Incentives"
+          },
+          {
+            "title": "Set up liquidity mining contracts",
+            "description": "Deploy and test reward distribution contracts.",
+            "priority": "important",
+            "category": "Infrastructure"
+          },
+          {
+            "title": "Coordinate with DEX aggregators",
+            "description": "List on 1inch, Paraswap, etc. for discoverability.",
+            "priority": "important",
+            "category": "Distribution"
+          },
+          {
+            "title": "Plan trading pair strategy",
+            "description": "Prioritize deep liquidity for key pairs.",
+            "priority": "important",
+            "category": "Strategy"
+          },
+          {
+            "title": "Set up token vesting if applicable",
+            "description": "Configure vesting schedules for team and investors.",
+            "priority": "important",
+            "category": "Tokenomics"
+          },
+          {
+            "title": "Prepare treasury management",
+            "description": "Plan how protocol-owned liquidity will be managed.",
+            "priority": "important",
+            "category": "Treasury"
+          }
+        ]
+      },
+      {
+        "heading": "Infrastructure & Monitoring",
+        "description": "Set up operational infrastructure.",
+        "items": [
+          {
+            "title": "Deploy and index subgraph",
+            "description": "The Graph or custom indexer for protocol analytics.",
+            "priority": "critical",
+            "category": "Infrastructure"
+          },
+          {
+            "title": "Set up protocol dashboard",
+            "description": "Real-time TVL, utilization, and health metrics.",
+            "priority": "critical",
+            "category": "Analytics"
+          },
+          {
+            "title": "Configure liquidation bots",
+            "description": "Run redundant liquidation bots or partner with liquidators.",
+            "priority": "critical",
+            "category": "Operations"
+          },
+          {
+            "title": "Set up keeper infrastructure",
+            "description": "Automated keepers for oracle updates, rewards, etc.",
+            "priority": "important",
+            "category": "Operations"
+          },
+          {
+            "title": "Configure alerting system",
+            "description": "PagerDuty or similar for critical alerts.",
+            "priority": "critical",
+            "category": "Operations"
+          },
+          {
+            "title": "Set up 24/7 on-call rotation",
+            "description": "Ensure someone can respond to incidents anytime.",
+            "priority": "critical",
+            "category": "Operations"
+          },
+          {
+            "title": "Deploy frontend to reliable hosting",
+            "description": "CDN with DDoS protection. Consider IPFS backup.",
+            "priority": "critical",
+            "category": "Infrastructure"
+          },
+          {
+            "title": "Configure RPC redundancy",
+            "description": "Multiple RPC providers with automatic failover.",
+            "priority": "critical",
+            "category": "Infrastructure"
+          }
+        ]
+      },
+      {
+        "heading": "Documentation & Communication",
+        "description": "Prepare launch communications.",
+        "items": [
+          {
+            "title": "Publish comprehensive docs",
+            "description": "Protocol mechanics, risks, and user guides.",
+            "priority": "critical",
+            "category": "Documentation"
+          },
+          {
+            "title": "Write risk disclosure",
+            "description": "Clear documentation of protocol risks for users.",
+            "priority": "critical",
+            "category": "Legal"
+          },
+          {
+            "title": "Prepare audit report publication",
+            "description": "Make audit reports easily accessible.",
+            "priority": "important",
+            "category": "Transparency"
+          },
+          {
+            "title": "Create integration documentation",
+            "description": "SDK docs, contract addresses, and integration guides.",
+            "priority": "important",
+            "category": "Developer"
+          },
+          {
+            "title": "Brief community moderators",
+            "description": "Train mods on protocol mechanics and common issues.",
+            "priority": "important",
+            "category": "Community"
+          },
+          {
+            "title": "Prepare launch announcements",
+            "description": "Blog posts, tweets, and press materials ready.",
+            "priority": "important",
+            "category": "Marketing"
+          },
+          {
+            "title": "Set up support channels",
+            "description": "Discord support, FAQ, and escalation paths.",
+            "priority": "important",
+            "category": "Support"
+          },
+          {
+            "title": "Coordinate launch PR",
+            "description": "Reach out to media, influencers, and partners.",
+            "priority": "important",
+            "category": "Marketing"
+          }
+        ]
+      },
+      {
+        "heading": "Launch Execution",
+        "description": "Execute the mainnet launch.",
+        "items": [
+          {
+            "title": "Final testnet validation",
+            "description": "Complete end-to-end testing on testnet fork of mainnet.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Deploy contracts to mainnet",
+            "description": "Execute deployment scripts. Verify all contracts.",
+            "priority": "critical",
+            "category": "Deployment"
+          },
+          {
+            "title": "Seed initial liquidity",
+            "description": "Deploy committed liquidity before opening to public.",
+            "priority": "critical",
+            "category": "Liquidity"
+          },
+          {
+            "title": "Enable deposits with caps",
+            "description": "Start with conservative caps. Raise as confidence grows.",
+            "priority": "critical",
+            "category": "Launch"
+          },
+          {
+            "title": "Monitor first transactions closely",
+            "description": "Watch initial deposits, borrows, and trades for issues.",
+            "priority": "critical",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Verify oracle functionality",
+            "description": "Confirm price feeds are working correctly.",
+            "priority": "critical",
+            "category": "Verification"
+          },
+          {
+            "title": "Test emergency pause",
+            "description": "Verify pause functionality works without affecting funds.",
+            "priority": "critical",
+            "category": "Emergency"
+          },
+          {
+            "title": "Announce launch",
+            "description": "Publish announcements once system is stable.",
+            "priority": "important",
+            "category": "Marketing"
+          }
+        ]
+      },
+      {
+        "heading": "Post-Launch Operations",
+        "description": "Ongoing operations after launch.",
+        "items": [
+          {
+            "title": "Monitor protocol health daily",
+            "description": "Check TVL, utilization, bad debt, and anomalies.",
+            "priority": "critical",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Gradually raise caps",
+            "description": "Increase limits as protocol proves stability.",
+            "priority": "important",
+            "category": "Growth"
+          },
+          {
+            "title": "Process bug bounty submissions",
+            "description": "Triage and respond to security reports quickly.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Maintain community communication",
+            "description": "Regular updates on metrics, roadmap, and issues.",
+            "priority": "important",
+            "category": "Community"
+          },
+          {
+            "title": "Plan next asset listings",
+            "description": "Due diligence on new assets before adding.",
+            "priority": "important",
+            "category": "Growth"
+          },
+          {
+            "title": "Schedule follow-up audits",
+            "description": "Plan audits for new features and periodic reviews.",
+            "priority": "important",
+            "category": "Security"
+          },
+          {
+            "title": "Gather user feedback",
+            "description": "Collect feedback for product improvements.",
+            "priority": "important",
+            "category": "Product"
+          },
+          {
+            "title": "Document lessons learned",
+            "description": "Record what worked and what to improve.",
+            "priority": "nice-to-have",
+            "category": "Process"
+          }
+        ]
+      }
+    ],
+    "proTips": [
+      "Launch with lower caps than you think you need: You can always raise caps. You can't undo a hack. Start conservative.",
+      "Have war room ready for launch week: Engineering, security, and ops should be available 24/7 for the first week.",
+      "Partner with professional liquidators: Don't rely solely on your own bots. Liquidation failures cause bad debt.",
+      "Monitor competitor incidents: When similar protocols get hacked, review if you're vulnerable to the same attack.",
+      "Build relationships with security researchers: White hats who know your protocol can spot issues before black hats do."
+    ],
+    "conclusion": "DeFi protocols handle real money. Treat every checklist item as non-negotiable before mainnet. Schedule periodic re-audits as the threat model evolves.",
+    "relatedResources": []
+  }
 }

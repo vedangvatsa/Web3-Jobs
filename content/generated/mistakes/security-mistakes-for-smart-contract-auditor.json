@@ -1,253 +1,261 @@
 {
- "meta": {
- "contentType": "mistakes",
- "topic": "security",
- "niche": "smart-contract-auditor",
- "generatedAt": "2026-03-13T00:00:00.000Z",
- "version": "1.0.0"
- },
- "seo": {
- "title": "30 Common Mistakes Smart Contract Auditors Make",
- "description": "Avoid these 30 common mistakes that smart contract auditors make. From missing edge cases to report writing errors, improve your audit quality.",
- "keywords": ["smart-contract-auditor", "mistakes", "audit", "security", "vulnerability", "findings"],
- "canonicalSlug": "security-mistakes-for-smart-contract-auditor"
- },
- "content": {
- "intro": "Even experienced auditors make mistakes that can lead to missed vulnerabilities or inaccurate reports. Learn from these common pitfalls to improve your audit quality.",
- "sections": [
- {
- "heading": "Preparation Mistakes",
- "description": "Errors made before the actual code review begins.",
- "items": [
- {
- "title": "Not reading the documentation first",
- "description": "Jumping straight into code without understanding intended behavior leads to false positives and missed business logic bugs.",
- "impact": "Miss context-dependent vulnerabilities",
- "prevention": "Spend first 10-15% of audit time on docs, specs, and similar protocol audits."
- },
- {
- "title": "Unclear scope definition",
- "description": "Starting without clear scope leads to wasted time on out-of-scope contracts or missing in-scope dependencies.",
- "impact": "Inefficient time use and missed vulnerabilities",
- "prevention": "Get explicit scope confirmation in writing before starting any code review."
- },
- {
- "title": "Skipping automated tool runs",
- "description": "Not running Slither, Mythril, or other tools because you think manual review is sufficient.",
- "impact": "Miss low-hanging fruit that tools catch instantly",
- "prevention": "Always run automated tools first. They catch issues you might overlook."
- },
- {
- "title": "Not setting up the local environment",
- "description": "Reviewing code without being able to run tests or write PoCs limits vulnerability verification.",
- "impact": "Cannot verify findings with proof of concept",
- "prevention": "Clone repo and get tests passing before deep code review."
- },
- {
- "title": "Underestimating audit time needed",
- "description": "Accepting tight deadlines leads to rushed reviews and missed vulnerabilities.",
- "impact": "Incomplete audit coverage",
- "prevention": "Use realistic time estimates. Complex DeFi needs 1000+ lines per day is aggressive."
- }
- ]
- },
- {
- "heading": "Technical Mistakes",
- "description": "Errors in vulnerability identification and analysis.",
- "items": [
- {
- "title": "Focusing only on code, not economics",
- "description": "Missing economic exploits because you only look for code bugs, not incentive manipulation.",
- "impact": "Miss profitable exploits that don't require code bugs",
- "prevention": "Model economic attacks. Ask: how would someone profit from manipulating this?"
- },
- {
- "title": "Missing cross-contract reentrancy",
- "description": "Only checking for single-contract reentrancy when the protocol has multiple interacting contracts.",
- "impact": "Miss complex reentrancy paths",
- "prevention": "Map all external calls and check if any can re-enter other protocol contracts."
- },
- {
- "title": "Ignoring external dependencies",
- "description": "Not reviewing how the contract interacts with external protocols like Uniswap, Aave, or Chainlink.",
- "impact": "Miss integration vulnerabilities",
- "prevention": "Review external call assumptions. Check for edge cases in integrated protocols."
- },
- {
- "title": "Not testing edge cases",
- "description": "Only testing happy path scenarios without considering zero values, max values, or empty arrays.",
- "impact": "Miss boundary condition bugs",
- "prevention": "Systematically test all boundary conditions in critical functions."
- },
- {
- "title": "Misunderstanding protocol assumptions",
- "description": "Making incorrect assumptions about how the protocol should work without verifying with the team.",
- "impact": "False positives that waste everyone's time",
- "prevention": "When unsure, ask the team. Document assumptions in your notes."
- },
- {
- "title": "Missing read-only reentrancy",
- "description": "Not considering that view functions can return stale data during reentrancy.",
- "impact": "Miss reentrancy that affects external protocols",
- "prevention": "Check if other protocols read state during external calls."
- }
- ]
- },
- {
- "heading": "Analysis Mistakes",
- "description": "Errors in vulnerability assessment and severity rating.",
- "items": [
- {
- "title": "Incorrect severity assessment",
- "description": "Rating findings too high or too low damages credibility and prioritization.",
- "impact": "Team ignores valid findings or panics over minor issues",
- "prevention": "Use consistent severity framework. High/Critical requires fund loss or protocol break."
- },
- {
- "title": "Not writing proof of concept",
- "description": "Reporting theoretical vulnerabilities without proving they're exploitable.",
- "impact": "Invalid findings that cannot be reproduced",
- "prevention": "Write PoC for all medium+ findings. If you cannot exploit it, reconsider."
- },
- {
- "title": "Missing the root cause",
- "description": "Reporting symptoms rather than underlying vulnerability leads to incomplete fixes.",
- "impact": "Fix addresses symptom but root cause remains exploitable",
- "prevention": "Always identify why the vulnerability exists, not just what it does."
- },
- {
- "title": "Duplicate findings from different angles",
- "description": "Reporting the same underlying issue multiple times as separate findings.",
- "impact": "Inflated finding count, wastes team time reviewing duplicates",
- "prevention": "Before adding finding, check if it shares root cause with existing finding."
- },
- {
- "title": "Missing attack prerequisites",
- "description": "Not clearly stating what conditions must exist for the attack to succeed.",
- "impact": "Overstated severity or invalid findings",
- "prevention": "Document all prerequisites: timing, capital, permissions, market conditions."
- },
- {
- "title": "Ignoring gas costs in attack profitability",
- "description": "Reporting attacks that are unprofitable after gas costs are considered.",
- "impact": "Invalid economic exploits",
- "prevention": "Calculate full attack cost including gas and flash loan fees."
- }
- ]
- },
- {
- "heading": "Report Writing Mistakes",
- "description": "Errors in documenting and communicating findings.",
- "items": [
- {
- "title": "Unclear vulnerability descriptions",
- "description": "Writing descriptions that only make sense to you, not the development team.",
- "impact": "Team cannot understand or fix the issue",
- "prevention": "Write for developers who did not audit. Include context and clear steps."
- },
- {
- "title": "Missing code references",
- "description": "Not including specific line numbers and file paths for vulnerable code.",
- "impact": "Team cannot locate the vulnerable code",
- "prevention": "Include file path, line numbers, and relevant code snippets."
- },
- {
- "title": "Vague recommendations",
- "description": "Suggesting fixes like 'add validation' without specifying what validation.",
- "impact": "Team implements incomplete fix",
- "prevention": "Provide specific, implementable fix recommendations with code examples."
- },
- {
- "title": "Not explaining impact clearly",
- "description": "Technical description without business impact leaves team unsure how to prioritize.",
- "impact": "Critical issues may be deprioritized",
- "prevention": "Always explain: what can attacker do, how much can they steal, what breaks."
- },
- {
- "title": "Forgetting to verify fixes",
- "description": "Not reviewing the fixes implemented for your findings.",
- "impact": "Incomplete or incorrect fixes deploy to mainnet",
- "prevention": "Review all fix commits. Verify root cause addressed, not just symptom."
- },
- {
- "title": "Poor report organization",
- "description": "Dumping findings without logical organization or executive summary.",
- "impact": "Stakeholders cannot quickly understand risk exposure",
- "prevention": "Include executive summary, group by severity, provide statistics."
- }
- ]
- },
- {
- "heading": "Process Mistakes",
- "description": "Workflow and professional conduct errors.",
- "items": [
- {
- "title": "Working in isolation without team discussion",
- "description": "Not discussing potential findings with other auditors leads to missed insights.",
- "impact": "Lower quality audit, duplicate efforts",
- "prevention": "Schedule regular sync calls. Discuss interesting code paths and potential issues."
- },
- {
- "title": "Not tracking time per area",
- "description": "Spending too much time on one area while neglecting others.",
- "impact": "Uneven coverage leaves blind spots",
- "prevention": "Track time spent per contract or area. Ensure balanced coverage."
- },
- {
- "title": "Disclosing vulnerabilities inappropriately",
- "description": "Sharing findings publicly before the team has patched.",
- "impact": "Enable exploits, damage reputation, potential legal issues",
- "prevention": "Follow responsible disclosure. Never share details until fixed."
- },
- {
- "title": "Not maintaining finding database",
- "description": "Each audit starts from scratch without use patterns from past audits.",
- "impact": "Slower audits, repeated mistakes",
- "prevention": "Maintain personal database of finding patterns and vulnerable code patterns."
- },
- {
- "title": "Skipping the retest phase",
- "description": "Assuming fixes are correct without verification.",
- "impact": "Broken or incomplete fixes go to production",
- "prevention": "Always verify fixes address root cause and don't introduce new issues."
- },
- {
- "title": "Ignoring test coverage gaps",
- "description": "Not reviewing what tests exist and what code paths remain untested.",
- "impact": "Critical paths may be untested, hiding bugs",
- "prevention": "Review test coverage. Flag untested code as higher risk."
- },
- {
- "title": "Missing cross-protocol interactions",
- "description": "Auditing in isolation without considering how other protocols might interact.",
- "impact": "Composability attacks missed",
- "prevention": "Consider flash loan attack vectors and other protocol interactions."
- },
- {
- "title": "Not tracking previous audits",
- "description": "Failing to review findings from previous audits of the same protocol.",
- "impact": "Re-introducing old vulnerabilities or missing recurring patterns",
- "prevention": "Always request and review previous audit reports."
- }
- ]
- }
- ],
- "proTips": [
- {
- "tip": "Keep a checklist of common vulnerabilities and check each one explicitly. Do not rely on memory."
- },
- {
- "tip": "Take breaks. Auditor fatigue causes missed findings. Fresh eyes catch more bugs."
- },
- {
- "tip": "Build relationships with protocol teams. Good communication improves audit quality for everyone."
- },
- {
- "tip": "Study every post-mortem. When a protocol gets exploited, understand exactly what the auditors missed."
- },
- {
- "tip": "Contribute to open-source security tools. Building tools deepens your understanding of vulnerability patterns."
- }
- ]
- }
+  "meta": {
+    "contentType": "mistakes",
+    "topic": "security",
+    "niche": "smart-contract-auditor",
+    "generatedAt": "2026-05-17T05:28:45.891Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "30 Common Mistakes Smart Contract Auditors Make",
+    "description": "Avoid these 30 common mistakes that smart contract auditors make. From missing edge cases to report writing errors, improve your audit quality.",
+    "keywords": [
+      "smart-contract-auditor",
+      "mistakes",
+      "audit",
+      "security",
+      "vulnerability",
+      "findings"
+    ],
+    "canonicalSlug": "security-mistakes-for-smart-contract-auditor"
+  },
+  "content": {
+    "intro": "Even experienced auditors make mistakes that can lead to missed vulnerabilities or inaccurate reports. Learn from these common pitfalls to improve your audit quality.",
+    "sections": [
+      {
+        "heading": "Preparation Mistakes",
+        "description": "Errors made before the actual code review begins.",
+        "items": [
+          {
+            "title": "Not reading the documentation first",
+            "description": "Jumping straight into code without understanding intended behavior leads to false positives and missed business logic bugs.",
+            "impact": "Miss context-dependent vulnerabilities",
+            "prevention": "Spend first 10-15% of audit time on docs, specs, and similar protocol audits."
+          },
+          {
+            "title": "Unclear scope definition",
+            "description": "Starting without clear scope leads to wasted time on out-of-scope contracts or missing in-scope dependencies.",
+            "impact": "Inefficient time use and missed vulnerabilities",
+            "prevention": "Get explicit scope confirmation in writing before starting any code review."
+          },
+          {
+            "title": "Skipping automated tool runs",
+            "description": "Not running Slither, Mythril, or other tools because you think manual review is sufficient.",
+            "impact": "Miss low-hanging fruit that tools catch instantly",
+            "prevention": "Always run automated tools first. They catch issues you might overlook."
+          },
+          {
+            "title": "Not setting up the local environment",
+            "description": "Reviewing code without being able to run tests or write PoCs limits vulnerability verification.",
+            "impact": "Cannot verify findings with proof of concept",
+            "prevention": "Clone repo and get tests passing before deep code review."
+          },
+          {
+            "title": "Underestimating audit time needed",
+            "description": "Accepting tight deadlines leads to rushed reviews and missed vulnerabilities.",
+            "impact": "Incomplete audit coverage",
+            "prevention": "Use realistic time estimates. Complex DeFi needs 1000+ lines per day is aggressive."
+          }
+        ]
+      },
+      {
+        "heading": "Technical Mistakes",
+        "description": "Errors in vulnerability identification and analysis.",
+        "items": [
+          {
+            "title": "Focusing only on code, not economics",
+            "description": "Missing economic exploits because you only look for code bugs, not incentive manipulation.",
+            "impact": "Miss profitable exploits that don't require code bugs",
+            "prevention": "Model economic attacks. Ask: how would someone profit from manipulating this?"
+          },
+          {
+            "title": "Missing cross-contract reentrancy",
+            "description": "Only checking for single-contract reentrancy when the protocol has multiple interacting contracts.",
+            "impact": "Miss complex reentrancy paths",
+            "prevention": "Map all external calls and check if any can re-enter other protocol contracts."
+          },
+          {
+            "title": "Ignoring external dependencies",
+            "description": "Not reviewing how the contract interacts with external protocols like Uniswap, Aave, or Chainlink.",
+            "impact": "Miss integration vulnerabilities",
+            "prevention": "Review external call assumptions. Check for edge cases in integrated protocols."
+          },
+          {
+            "title": "Not testing edge cases",
+            "description": "Only testing happy path scenarios without considering zero values, max values, or empty arrays.",
+            "impact": "Miss boundary condition bugs",
+            "prevention": "Systematically test all boundary conditions in critical functions."
+          },
+          {
+            "title": "Misunderstanding protocol assumptions",
+            "description": "Making incorrect assumptions about how the protocol should work without verifying with the team.",
+            "impact": "False positives that waste everyone's time",
+            "prevention": "When unsure, ask the team. Document assumptions in your notes."
+          },
+          {
+            "title": "Missing read-only reentrancy",
+            "description": "Not considering that view functions can return stale data during reentrancy.",
+            "impact": "Miss reentrancy that affects external protocols",
+            "prevention": "Check if other protocols read state during external calls."
+          }
+        ]
+      },
+      {
+        "heading": "Analysis Mistakes",
+        "description": "Errors in vulnerability assessment and severity rating.",
+        "items": [
+          {
+            "title": "Incorrect severity assessment",
+            "description": "Rating findings too high or too low damages credibility and prioritization.",
+            "impact": "Team ignores valid findings or panics over minor issues",
+            "prevention": "Use consistent severity framework. High/Critical requires fund loss or protocol break."
+          },
+          {
+            "title": "Not writing proof of concept",
+            "description": "Reporting theoretical vulnerabilities without proving they're exploitable.",
+            "impact": "Invalid findings that cannot be reproduced",
+            "prevention": "Write PoC for all medium+ findings. If you cannot exploit it, reconsider."
+          },
+          {
+            "title": "Missing the root cause",
+            "description": "Reporting symptoms rather than underlying vulnerability leads to incomplete fixes.",
+            "impact": "Fix addresses symptom but root cause remains exploitable",
+            "prevention": "Always identify why the vulnerability exists, not just what it does."
+          },
+          {
+            "title": "Duplicate findings from different angles",
+            "description": "Reporting the same underlying issue multiple times as separate findings.",
+            "impact": "Inflated finding count, wastes team time reviewing duplicates",
+            "prevention": "Before adding finding, check if it shares root cause with existing finding."
+          },
+          {
+            "title": "Missing attack prerequisites",
+            "description": "Not clearly stating what conditions must exist for the attack to succeed.",
+            "impact": "Overstated severity or invalid findings",
+            "prevention": "Document all prerequisites: timing, capital, permissions, market conditions."
+          },
+          {
+            "title": "Ignoring gas costs in attack profitability",
+            "description": "Reporting attacks that are unprofitable after gas costs are considered.",
+            "impact": "Invalid economic exploits",
+            "prevention": "Calculate full attack cost including gas and flash loan fees."
+          }
+        ]
+      },
+      {
+        "heading": "Report Writing Mistakes",
+        "description": "Errors in documenting and communicating findings.",
+        "items": [
+          {
+            "title": "Unclear vulnerability descriptions",
+            "description": "Writing descriptions that only make sense to you, not the development team.",
+            "impact": "Team cannot understand or fix the issue",
+            "prevention": "Write for developers who did not audit. Include context and clear steps."
+          },
+          {
+            "title": "Missing code references",
+            "description": "Not including specific line numbers and file paths for vulnerable code.",
+            "impact": "Team cannot locate the vulnerable code",
+            "prevention": "Include file path, line numbers, and relevant code snippets."
+          },
+          {
+            "title": "Vague recommendations",
+            "description": "Suggesting fixes like 'add validation' without specifying what validation.",
+            "impact": "Team implements incomplete fix",
+            "prevention": "Provide specific, implementable fix recommendations with code examples."
+          },
+          {
+            "title": "Not explaining impact clearly",
+            "description": "Technical description without business impact leaves team unsure how to prioritize.",
+            "impact": "Critical issues may be deprioritized",
+            "prevention": "Always explain: what can attacker do, how much can they steal, what breaks."
+          },
+          {
+            "title": "Forgetting to verify fixes",
+            "description": "Not reviewing the fixes implemented for your findings.",
+            "impact": "Incomplete or incorrect fixes deploy to mainnet",
+            "prevention": "Review all fix commits. Verify root cause addressed, not just symptom."
+          },
+          {
+            "title": "Poor report organization",
+            "description": "Dumping findings without logical organization or executive summary.",
+            "impact": "Stakeholders cannot quickly understand risk exposure",
+            "prevention": "Include executive summary, group by severity, provide statistics."
+          }
+        ]
+      },
+      {
+        "heading": "Process Mistakes",
+        "description": "Workflow and professional conduct errors.",
+        "items": [
+          {
+            "title": "Working in isolation without team discussion",
+            "description": "Not discussing potential findings with other auditors leads to missed insights.",
+            "impact": "Lower quality audit, duplicate efforts",
+            "prevention": "Schedule regular sync calls. Discuss interesting code paths and potential issues."
+          },
+          {
+            "title": "Not tracking time per area",
+            "description": "Spending too much time on one area while neglecting others.",
+            "impact": "Uneven coverage leaves blind spots",
+            "prevention": "Track time spent per contract or area. Ensure balanced coverage."
+          },
+          {
+            "title": "Disclosing vulnerabilities inappropriately",
+            "description": "Sharing findings publicly before the team has patched.",
+            "impact": "Enable exploits, damage reputation, potential legal issues",
+            "prevention": "Follow responsible disclosure. Never share details until fixed."
+          },
+          {
+            "title": "Not maintaining finding database",
+            "description": "Each audit starts from scratch without use patterns from past audits.",
+            "impact": "Slower audits, repeated mistakes",
+            "prevention": "Maintain personal database of finding patterns and vulnerable code patterns."
+          },
+          {
+            "title": "Skipping the retest phase",
+            "description": "Assuming fixes are correct without verification.",
+            "impact": "Broken or incomplete fixes go to production",
+            "prevention": "Always verify fixes address root cause and don't introduce new issues."
+          },
+          {
+            "title": "Ignoring test coverage gaps",
+            "description": "Not reviewing what tests exist and what code paths remain untested.",
+            "impact": "Critical paths may be untested, hiding bugs",
+            "prevention": "Review test coverage. Flag untested code as higher risk."
+          },
+          {
+            "title": "Missing cross-protocol interactions",
+            "description": "Auditing in isolation without considering how other protocols might interact.",
+            "impact": "Composability attacks missed",
+            "prevention": "Consider flash loan attack vectors and other protocol interactions."
+          },
+          {
+            "title": "Not tracking previous audits",
+            "description": "Failing to review findings from previous audits of the same protocol.",
+            "impact": "Re-introducing old vulnerabilities or missing recurring patterns",
+            "prevention": "Always request and review previous audit reports."
+          }
+        ]
+      }
+    ],
+    "proTips": [
+      {
+        "tip": "Keep a checklist of common vulnerabilities and check each one explicitly. Do not rely on memory."
+      },
+      {
+        "tip": "Take breaks. Auditor fatigue causes missed findings. Fresh eyes catch more bugs."
+      },
+      {
+        "tip": "Build relationships with protocol teams. Good communication improves audit quality for everyone."
+      },
+      {
+        "tip": "Study every post-mortem. When a protocol gets exploited, understand exactly what the auditors missed."
+      },
+      {
+        "tip": "Contribute to open-source security tools. Building tools deepens your understanding of vulnerability patterns."
+      }
+    ],
+    "conclusion": "Auditing is pattern recognition. Study these common failures, but always look for the non-obvious issues specific to each protocol. The most expensive bugs are the ones nobody has seen before."
+  }
 }
