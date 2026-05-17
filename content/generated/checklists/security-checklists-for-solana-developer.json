@@ -3,7 +3,7 @@
     "contentType": "checklists",
     "topic": "security",
     "niche": "solana-developer",
-    "generatedAt": "2026-05-17T05:30:09.444Z",
+    "generatedAt": "2026-05-17T16:55:57.088Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -27,362 +27,450 @@
         "items": [
           {
             "text": "Verify account owner matches expected program ID",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Verify account owner matches expected program ID"
           },
           {
             "text": "Check account discriminator to ensure correct account type",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Check account discriminator to ensure correct account type"
           },
           {
             "text": "Validate signer status for accounts that should authorize actions",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Validate signer status for accounts that should authorize actions"
           },
           {
             "text": "Check writable flag for accounts that will be modified",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Check writable flag for accounts that will be modified"
           },
           {
             "text": "Verify account is initialized before reading data",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Verify account is initialized before reading data"
           },
           {
             "text": "Validate account data length matches expected size",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Validate account data length matches expected size"
           },
           {
             "text": "Check that accounts are not closed (lamports = 0)",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Check that accounts are not closed (lamports = 0)"
           },
           {
             "text": "Verify rent-exempt status for accounts that should persist",
-            "priority": "important"
+            "priority": "important",
+            "title": "Verify rent-exempt status for accounts that should persist"
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "PDA Security",
         "items": [
           {
             "text": "Use consistent seeds for PDA derivation across program and client",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Use consistent seeds for PDA derivation across program and client"
           },
           {
             "text": "Store bump seed in account data to avoid recalculation",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Store bump seed in account data to avoid recalculation"
           },
           {
             "text": "Validate PDA derivation on-chain, don't trust client-provided PDAs",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Validate PDA derivation on-chain, don't trust client-provided PDAs"
           },
           {
             "text": "Use create_program_address for validation, not find_program_address",
-            "priority": "important"
+            "priority": "important",
+            "title": "Use create_program_address for validation, not find_program_address"
           },
           {
             "text": "Include unique identifiers in seeds to prevent collisions",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Include unique identifiers in seeds to prevent collisions"
           },
           {
             "text": "Document seed structure clearly for maintainability",
-            "priority": "important"
+            "priority": "important",
+            "title": "Document seed structure clearly for maintainability"
           },
           {
             "text": "Use canonical bump (the one from find_program_address)",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Use canonical bump (the one from find_program_address)"
           },
           {
             "text": "Keep total seed length under 32 bytes",
-            "priority": "important"
+            "priority": "important",
+            "title": "Keep total seed length under 32 bytes"
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Token Operations",
         "items": [
           {
             "text": "Verify token account mint matches expected token",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Verify token account mint matches expected token"
           },
           {
             "text": "Check token account owner is the expected user/PDA",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Check token account owner is the expected user/PDA"
           },
           {
             "text": "Validate token program ID (SPL Token vs Token-2022)",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Validate token program ID (SPL Token vs Token-2022)"
           },
           {
             "text": "Account for token decimals in all calculations",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Account for token decimals in all calculations"
           },
           {
             "text": "Check token account is not frozen before transfers",
-            "priority": "important"
+            "priority": "important",
+            "title": "Check token account is not frozen before transfers"
           },
           {
             "text": "Verify associated token account derivation",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Verify associated token account derivation"
           },
           {
             "text": "Handle close authority properly for token accounts",
-            "priority": "important"
+            "priority": "important",
+            "title": "Handle close authority properly for token accounts"
           },
           {
             "text": "Check delegate and delegated amount for token accounts",
-            "priority": "important"
+            "priority": "important",
+            "title": "Check delegate and delegated amount for token accounts"
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Arithmetic Safety",
         "items": [
           {
             "text": "Use checked arithmetic (checked_add, checked_sub, checked_mul)",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Use checked arithmetic (checked_add, checked_sub, checked_mul)"
           },
           {
             "text": "Handle division by zero explicitly",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Handle division by zero explicitly"
           },
           {
             "text": "Consider precision loss in division operations",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Consider precision loss in division operations"
           },
           {
             "text": "Round in protocol's favor, not user's favor",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Round in protocol's favor, not user's favor"
           },
           {
             "text": "Use saturating arithmetic where appropriate",
-            "priority": "important"
+            "priority": "important",
+            "title": "Use saturating arithmetic where appropriate"
           },
           {
             "text": "Validate numeric inputs are within expected ranges",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Validate numeric inputs are within expected ranges"
           },
           {
             "text": "Use fixed-point math for financial calculations",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Use fixed-point math for financial calculations"
           },
           {
             "text": "Test edge cases with minimum and maximum values",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Test edge cases with minimum and maximum values"
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "CPI Security",
         "items": [
           {
             "text": "Validate target program ID before CPI",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Validate target program ID before CPI"
           },
           {
             "text": "Use hardcoded program IDs, not account-provided ones",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Use hardcoded program IDs, not account-provided ones"
           },
           {
             "text": "Pass correct signer seeds for PDA-signed CPIs",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Pass correct signer seeds for PDA-signed CPIs"
           },
           {
             "text": "Follow checks-effects-interactions pattern",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Follow checks-effects-interactions pattern"
           },
           {
             "text": "Update state before making CPIs to prevent reentrancy",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Update state before making CPIs to prevent reentrancy"
           },
           {
             "text": "Check CPI return values for success",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Check CPI return values for success"
           },
           {
             "text": "Limit CPIs to known, audited programs",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Limit CPIs to known, audited programs"
           },
           {
             "text": "Document CPI trust assumptions",
-            "priority": "important"
+            "priority": "important",
+            "title": "Document CPI trust assumptions"
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Access Control",
         "items": [
           {
             "text": "Implement proper authority checks for admin functions",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Implement proper authority checks for admin functions"
           },
           {
             "text": "Use multi-sig or governance for critical operations",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Use multi-sig or governance for critical operations"
           },
           {
             "text": "Implement upgrade authority controls",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Implement upgrade authority controls"
           },
           {
             "text": "Add timelock for sensitive parameter changes",
-            "priority": "important"
+            "priority": "important",
+            "title": "Add timelock for sensitive parameter changes"
           },
           {
             "text": "Document all privileged operations",
-            "priority": "important"
+            "priority": "important",
+            "title": "Document all privileged operations"
           },
           {
             "text": "Allow authority transfer/revocation",
-            "priority": "important"
+            "priority": "important",
+            "title": "Allow authority transfer/revocation"
           },
           {
             "text": "Validate authority accounts are signers",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Validate authority accounts are signers"
           },
           {
             "text": "Consider program freezing for emergencies",
-            "priority": "important"
+            "priority": "important",
+            "title": "Consider program freezing for emergencies"
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "State Management",
         "items": [
           {
             "text": "Initialize all account fields explicitly",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Initialize all account fields explicitly"
           },
           {
             "text": "Use proper serialization/deserialization",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Use proper serialization/deserialization"
           },
           {
             "text": "Handle account resizing carefully",
-            "priority": "important"
+            "priority": "important",
+            "title": "Handle account resizing carefully"
           },
           {
             "text": "Clean up closed accounts properly",
-            "priority": "important"
+            "priority": "important",
+            "title": "Clean up closed accounts properly"
           },
           {
             "text": "Prevent duplicate initialization",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Prevent duplicate initialization"
           },
           {
             "text": "Use version field for future migrations",
-            "priority": "important"
+            "priority": "important",
+            "title": "Use version field for future migrations"
           },
           {
             "text": "Validate state transitions are valid",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Validate state transitions are valid"
           },
           {
             "text": "Document account lifecycle",
-            "priority": "important"
+            "priority": "important",
+            "title": "Document account lifecycle"
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Clock and Timing",
         "items": [
           {
             "text": "Use Clock sysvar for timestamps, not block data",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Use Clock sysvar for timestamps, not block data"
           },
           {
             "text": "Handle i64 timestamps correctly (not u64)",
-            "priority": "important"
+            "priority": "important",
+            "title": "Handle i64 timestamps correctly (not u64)"
           },
           {
             "text": "Consider slot vs Unix timestamp based on precision needs",
-            "priority": "important"
+            "priority": "important",
+            "title": "Consider slot vs Unix timestamp based on precision needs"
           },
           {
             "text": "Account for clock skew in time-sensitive operations",
-            "priority": "important"
+            "priority": "important",
+            "title": "Account for clock skew in time-sensitive operations"
           },
           {
             "text": "Don't trust future timestamps from users",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Don't trust future timestamps from users"
           },
           {
             "text": "Implement reasonable timelock durations",
-            "priority": "important"
+            "priority": "important",
+            "title": "Implement reasonable timelock durations"
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Testing",
         "items": [
           {
             "text": "Write comprehensive unit tests with Bankrun",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Write comprehensive unit tests with Bankrun"
           },
           {
             "text": "Test on devnet with realistic conditions",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Test on devnet with realistic conditions"
           },
           {
             "text": "Test all error paths, not just happy paths",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Test all error paths, not just happy paths"
           },
           {
             "text": "Use fuzzing (Trident) for complex logic",
-            "priority": "important"
+            "priority": "important",
+            "title": "Use fuzzing (Trident) for complex logic"
           },
           {
             "text": "Test with invalid account inputs",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Test with invalid account inputs"
           },
           {
             "text": "Test arithmetic edge cases",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Test arithmetic edge cases"
           },
           {
             "text": "Test CPI failure scenarios",
-            "priority": "important"
+            "priority": "important",
+            "title": "Test CPI failure scenarios"
           },
           {
             "text": "Verify compute unit usage under load",
-            "priority": "important"
+            "priority": "important",
+            "title": "Verify compute unit usage under load"
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Deployment",
         "items": [
           {
             "text": "Verify program builds are reproducible",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Verify program builds are reproducible"
           },
           {
             "text": "Use verified builds on-chain",
-            "priority": "important"
+            "priority": "important",
+            "title": "Use verified builds on-chain"
           },
           {
             "text": "Store upgrade authority securely (multi-sig)",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Store upgrade authority securely (multi-sig)"
           },
           {
             "text": "Test upgrade procedure before mainnet",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Test upgrade procedure before mainnet"
           },
           {
             "text": "Document deployment and upgrade process",
-            "priority": "important"
+            "priority": "important",
+            "title": "Document deployment and upgrade process"
           },
           {
             "text": "Consider making program immutable after stabilization",
-            "priority": "important"
+            "priority": "important",
+            "title": "Consider making program immutable after stabilization"
           },
           {
             "text": "Monitor program after deployment",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Monitor program after deployment"
           },
           {
             "text": "Have incident response plan ready",
-            "priority": "critical"
+            "priority": "critical",
+            "title": "Have incident response plan ready"
           }
-        ]
+        ],
+        "description": ""
       }
     ],
     "relatedResources": [

@@ -3,7 +3,7 @@
     "contentType": "mistakes",
     "topic": "security",
     "niche": "nft-developer",
-    "generatedAt": "2026-05-17T05:30:09.455Z",
+    "generatedAt": "2026-05-17T16:55:57.097Z",
     "version": "1.0.0"
   },
   "seo": {
@@ -55,7 +55,8 @@
             "severity": "medium",
             "solution": "Use safeMint or implement receiver checks."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Allowlist Issues",
@@ -90,7 +91,8 @@
             "severity": "medium",
             "solution": "Tie signatures to specific msg.sender addresses."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Metadata Problems",
@@ -125,7 +127,8 @@
             "severity": "low",
             "solution": "Optimize images. Use proper compression. Consider thumbnails."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Randomness Failures",
@@ -154,7 +157,8 @@
             "severity": "medium",
             "solution": "Use cryptographically secure randomness from oracles."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Access Control",
@@ -183,7 +187,8 @@
             "severity": "medium",
             "solution": "Ensure all pausable functionality can be reversed."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Royalty Issues",
@@ -206,7 +211,8 @@
             "severity": "low",
             "solution": "Keep royalties reasonable. 5-10% is standard."
           }
-        ]
+        ],
+        "description": ""
       },
       {
         "heading": "Launch Mistakes",
@@ -235,7 +241,8 @@
             "severity": "high",
             "solution": "Double-check network ID in deployment scripts."
           }
-        ]
+        ],
+        "description": ""
       }
     ],
     "relatedResources": [

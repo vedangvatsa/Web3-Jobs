@@ -255,7 +255,7 @@ function IdeasContent({ sections }: { sections: Array<{ heading: string; descrip
    {sections.map((section, idx) => (
     <section key={idx}>
      <h2 className="text-xl font-bold mb-2">{section.heading}</h2>
-     <p className="text-muted-foreground mb-6 text-sm">{section.description}</p>
+     {section.description && <p className="text-muted-foreground mb-6 text-sm">{section.description}</p>}
      
      <div className="space-y-3">
       {section.items.map((item, itemIdx) => {
@@ -263,7 +263,7 @@ function IdeasContent({ sections }: { sections: Array<{ heading: string; descrip
        return (
         <div key={itemIdx} className="p-4 border rounded-lg hover:border-primary/30 hover:bg-muted/20 transition-all duration-200">
          <div className="flex items-start justify-between gap-4 mb-2">
-          <h3 className="font-semibold text-sm">{item.title}</h3>
+          <h3 className="font-semibold text-sm">{item.title || item.mistake || ""}</h3>
           <div className="flex gap-2 shrink-0">
            {item.difficulty && (
             <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full uppercase tracking-wider ${DIFFICULTY_STYLES[item.difficulty] || ''}`}>
@@ -358,7 +358,7 @@ function ChecklistContent({ sections, slug }: { sections: Array<{ heading: strin
    {sections.map((section, sIdx) => (
     <section key={sIdx}>
      <h2 className="text-xl font-bold mb-2">{section.heading}</h2>
-     <p className="text-muted-foreground mb-6 text-sm">{section.description}</p>
+     {section.description && <p className="text-muted-foreground mb-6 text-sm">{section.description}</p>}
      
      <div className="space-y-2">
       {section.items.map((item, iIdx) => {
@@ -434,7 +434,7 @@ function MistakesContent({ sections }: { sections: Array<{ heading: string; desc
    {sections.map((section, idx) => (
     <section key={idx}>
      <h2 className="text-xl font-bold mb-2">{section.heading}</h2>
-     <p className="text-muted-foreground mb-6 text-sm">{section.description}</p>
+     {section.description && <p className="text-muted-foreground mb-6 text-sm">{section.description}</p>}
      
      <div className="space-y-4">
       {section.items.map((item, itemIdx) => {
@@ -446,7 +446,7 @@ function MistakesContent({ sections }: { sections: Array<{ heading: string; desc
        return (
         <div key={itemIdx} className={`border border-l-4 ${sev.border} rounded-lg p-4 hover:bg-muted/20 transition-colors`}>
          <div className="flex items-center gap-2 mb-2">
-          <h3 className="font-semibold text-sm">{item.title}</h3>
+          <h3 className="font-semibold text-sm">{item.title || item.mistake || ""}</h3>
           {item.severity && (
            <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full uppercase tracking-wider ${sev.badge}`}>
             {item.severity}
@@ -489,7 +489,7 @@ function ToolsContent({ sections }: { sections: Array<{ heading: string; descrip
    {sections.map((section, idx) => (
     <section key={idx}>
      <h2 className="text-xl font-bold mb-2">{section.heading}</h2>
-     <p className="text-muted-foreground mb-6 text-sm">{section.description}</p>
+     {section.description && <p className="text-muted-foreground mb-6 text-sm">{section.description}</p>}
      
      <div className="grid gap-3 sm:grid-cols-2">
       {section.items.map((item, itemIdx) => (
@@ -530,7 +530,7 @@ function DefaultContent({ sections }: { sections: Array<{ heading: string; descr
    {sections.map((section, idx) => (
     <section key={idx}>
      <h2 className="text-xl font-bold mb-2">{section.heading}</h2>
-     <p className="text-muted-foreground mb-6 text-sm">{section.description}</p>
+     {section.description && <p className="text-muted-foreground mb-6 text-sm">{section.description}</p>}
      
      <div className="space-y-3">
       {section.items.map((item, itemIdx) => (
