@@ -5,7 +5,7 @@ import { Web3Event } from '@/lib/events';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Search, Calendar, MapPin, ExternalLink } from 'lucide-react';
+import { Search, Calendar, MapPin, ExternalLink, Globe, Zap } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
 
 // ISO 3166-1 alpha-2 → full country name
@@ -49,6 +49,82 @@ const DATE_RANGES = [
   { label: 'Next Month', value: 'next-month' },
   { label: 'This Year', value: 'year' },
 ];
+
+// ─── Image placeholder system ────────────────────────────────────────────────
+// Deterministic gradient based on event name — each card gets a unique color
+const PLACEHOLDER_GRADIENTS = [
+  'from-violet-600/80 to-indigo-700/80',
+  'from-cyan-600/80 to-blue-700/80',
+  'from-emerald-600/80 to-teal-700/80',
+  'from-amber-600/80 to-orange-700/80',
+  'from-rose-600/80 to-pink-700/80',
+  'from-fuchsia-600/80 to-purple-700/80',
+  'from-sky-600/80 to-blue-700/80',
+  'from-lime-600/80 to-green-700/80',
+];
+
+function getGradient(name: string): string {
+  let hash = 0;
+  for (let i = 0; i < name.length; i++) {
+    hash = name.charCodeAt(i) + ((hash << 5) - hash);
+  }
+  return PLACEHOLDER_GRADIENTS[Math.abs(hash) % PLACEHOLDER_GRADIENTS.length];
+}
+
+function EventCardImage({ src, name, location }: { src?: string; name: string; location?: string }) {
+  const [status, setStatus] = useState<'loading' | 'loaded' | 'error'>(src ? 'loading' : 'error');
+
+  const initial = name.replace(/[^a-zA-Z0-9]/g, '').charAt(0).toUpperCase() || '?';
+  const gradient = getGradient(name);
+  const isOnline = location?.toLowerCase().includes('online');
+
+  // Branded placeholder — shown when no image or image fails to load
+  const placeholder = (
+    <div className={`w-full h-full bg-gradient-to-br ${gradient} flex items-center justify-center relative overflow-hidden`}>
+      {/* Decorative background pattern */}
+      <div className="absolute inset-0 opacity-10">
+        <div className="absolute -top-4 -right-4 w-24 h-24 border border-white/40 rounded-full" />
+        <div className="absolute -bottom-6 -left-6 w-32 h-32 border border-white/40 rounded-full" />
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-16 h-16 border border-white/20 rounded-lg rotate-45" />
+      </div>
+      <div className="flex flex-col items-center gap-1.5 relative z-10">
+        <div className="w-12 h-12 rounded-xl bg-white/20 backdrop-blur-sm flex items-center justify-center border border-white/20 shadow-lg">
+          <span className="text-xl font-bold text-white">{initial}</span>
+        </div>
+        <div className="flex items-center gap-1 text-white/70">
+          {isOnline ? (
+            <Globe className="h-3 w-3" />
+          ) : (
+            <Zap className="h-3 w-3" />
+          )}
+          <span className="text-[10px] font-medium uppercase tracking-wider">
+            {isOnline ? 'Online Event' : 'Web3 Event'}
+          </span>
+        </div>
+      </div>
+    </div>
+  );
+
+  if (!src || status === 'error') return placeholder;
+
+  return (
+    <>
+      {/* Show placeholder as background while image loads */}
+      {status === 'loading' && <div className="absolute inset-0">{placeholder}</div>}
+      <img
+        src={src}
+        alt={name}
+        className={`relative w-full h-full object-cover group-hover:scale-105 transition-all duration-300 ${
+          status === 'loaded' ? 'opacity-100' : 'opacity-0'
+        }`}
+        loading="lazy"
+        decoding="async"
+        onLoad={() => setStatus('loaded')}
+        onError={() => setStatus('error')}
+      />
+    </>
+  );
+}
 
 function EventCardSkeleton() {
   return (
@@ -216,24 +292,11 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
           >
             <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow-sm border-transparent hover:border-border/60 bg-card transition-all duration-200">
               <div className="h-36 w-full overflow-hidden rounded-t-lg relative bg-muted">
-                {event.coverImage ? (
-                  <>
-                    <div className="absolute inset-0 animate-pulse bg-gradient-to-r from-muted via-muted-foreground/5 to-muted" />
-                    <img
-                      src={event.coverImage}
-                      alt={event.name}
-                      className="relative w-full h-full object-cover group-hover:scale-105 transition-transform duration-300 opacity-0"
-                      loading="lazy"
-                      decoding="async"
-                      onLoad={(e) => { (e.target as HTMLImageElement).classList.remove('opacity-0'); (e.target as HTMLImageElement).classList.add('opacity-100', 'transition-opacity', 'duration-300'); }}
-                      onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; (e.target as HTMLImageElement).parentElement!.classList.add('bg-gradient-to-br', 'from-primary/20', 'to-primary/5', 'flex', 'items-center', 'justify-center'); (e.target as HTMLImageElement).parentElement!.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="text-primary/40"><rect width="18" height="18" x="3" y="4" rx="2" ry="2"/><line x1="16" x2="16" y1="2" y2="6"/><line x1="8" x2="8" y1="2" y2="6"/><line x1="3" x2="21" y1="10" y2="10"/></svg>'; }}
-                    />
-                  </>
-                ) : (
-                  <div className="w-full h-full bg-gradient-to-br from-primary/20 to-primary/5 flex items-center justify-center">
-                    <Calendar className="h-8 w-8 text-primary/40" />
-                  </div>
-                )}
+                <EventCardImage
+                  src={event.coverImage}
+                  name={event.name}
+                  location={event.location}
+                />
               </div>
               <CardHeader className="pb-2 pt-4 px-4">
                 <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors line-clamp-2">
