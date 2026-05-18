@@ -1,33 +1,5 @@
 [
   {
-    "id": "luma-evt-PkwboWxFB4LykFW",
-    "name": "BITCOIN: From Pizza to Protocol 🍕",
-    "description": "",
-    "startDate": "2026-05-18T17:00:00.000Z",
-    "endDate": "2026-05-18T20:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/qhe1km0l",
-    "coverImage": "https://images.lumacdn.com/uploads/gm/53fc2f27-54f6-40de-8634-f960c2acf82f.png",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
-    "id": "luma-evt-IFYFeRZszGHLDUI",
-    "name": "Blockchain Technology and Crypto in Real Estate",
-    "description": "",
-    "startDate": "2026-05-18T19:00:00.000Z",
-    "endDate": "2026-05-18T22:00:00.000Z",
-    "city": "Englewood",
-    "country": "United States",
-    "location": "Englewood, United States",
-    "url": "https://lu.ma/6o6wbspt",
-    "coverImage": "https://images.lumacdn.com/event-covers/vx/092d81e5-dbc9-43e6-bf6d-23a79cfc9b97.png",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
     "id": "luma-evt-eBBWrGThWqJt4YF",
     "name": "BitcoinMondays NYC - Celebrating Pizza Week",
     "description": "",
@@ -67,20 +39,6 @@
     "url": "https://lu.ma/2a76ge6y",
     "coverImage": "https://images.lumacdn.com/event-covers/ly/4ec4f79b-6df5-4d28-b694-312d41f4823b.png",
     "source": "luma",
-    "month": "May 2026"
-  },
-  {
-    "id": "mu-314535572",
-    "name": "Crypto Mondays: Talk Web3 With Your Community!",
-    "description": "We're back and at a new and improved location, Santisi Brothers Sports Grill and Pizzeria, hosted by MoodConnect's CEO Amy Ouzoonian\nJoin us to celebrate a new year and new home for our Phoenix chapte",
-    "startDate": "2026-05-18T18:00:00-07:00",
-    "endDate": "2026-05-18T18:00:00-07:00",
-    "city": "Phoenix",
-    "country": "us",
-    "location": "Phoenix, us",
-    "url": "https://www.meetup.com/cryptomondays-phoenix/events/314535572/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/2/5/3/7/600_511269527.jpeg",
-    "source": "meetup",
     "month": "May 2026"
   },
   {
@@ -151,6 +109,20 @@
     "url": "https://lu.ma/057okge3",
     "coverImage": "https://images.lumacdn.com/uploads/yx/201e8063-f36d-4a5c-979f-6a56eb17e970.png",
     "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-312821913",
+    "name": "Capitol City Bitcoin meetup - virtual",
+    "description": "Let’s talk about bitcoin, crypto and what’s going on in South Carolina ! You must RSVP in advance to obtain the video link.\nThis will be scheduled on the third Tuesday of every month.",
+    "startDate": "2026-05-19T19:00:00-04:00",
+    "endDate": "2026-05-19T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/312821913/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/c/9/4/1/600_499671521.jpeg",
+    "source": "meetup",
     "month": "May 2026"
   },
   {
@@ -266,6 +238,20 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-314655289",
+    "name": "Neo4j Live: NeoArbi - Real-Time Crypto Arbitrage Intelligence with AI Agents",
+    "description": "NeoArbi uses Neo4j and AI agents to power a real-time crypto intelligence platform - covering arbitrage detection, market insights, blockchain forensics and regulatory analysis. By modeling exchanges,",
+    "startDate": "2026-05-20T11:00:00-04:00",
+    "endDate": "2026-05-20T11:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/graphdb-baltimore/events/314655289/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/f/e/3/600_534092739.jpeg",
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-6jMzP2jLAuEDPd3",
     "name": "Foresight AI Salon: Aurélien Nicolas | An architecture of trustable agents",
     "description": "",
@@ -350,6 +336,20 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-312740372",
+    "name": "AWG Meeting - Critique ",
+    "description": "1. \"Getting Hired - John Madden\" from Tamon's non-fiction book about leadership lessons\n2. \"Crypto Chrysanthemum\" a short story from Jenny",
+    "startDate": "2026-05-20T19:00:00-04:00",
+    "endDate": "2026-05-20T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/writers-499/events/312740372/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/e/f/2/600_531963826.jpeg",
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "cmc-69fb658333ae890e5323a68e",
     "name": "Manta Network: Staking Ends",
     "description": "Staking rewards officially stop on May 20, 2026; after this date no further network rewards are generated.",
@@ -361,34 +361,6 @@
     "url": "https://x.com/MantaNetwork/status/2052024701426524243",
     "coverImage": null,
     "source": "coinmarketcap",
-    "month": "May 2026"
-  },
-  {
-    "id": "cmc-6a074301981b9b76993cdd07",
-    "name": "tx: Agricultural RWA Talk",
-    "description": "@Cropto_io CEO Demir Maksoy joins tx for a live discussion on what agricultural real world assets can unlock at 4 PM UTC.",
-    "startDate": "2026-05-20T00:00:00.000Z",
-    "endDate": "2026-05-20T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/txEcosystem/status/2054983158412853332",
-    "coverImage": null,
-    "source": "coinmarketcap",
-    "month": "May 2026"
-  },
-  {
-    "id": "mu-314376836",
-    "name": "Whitepaper Wednesdays",
-    "description": "Join **Stand With Crypto Arizona** every other Wednesday for **Whitepaper Wednesdays**, our dedicated workshop series. We dissect the latest technical protocols, analyze upcoming crypto legislation, a",
-    "startDate": "2026-05-20T18:00:00-07:00",
-    "endDate": "2026-05-20T18:00:00-07:00",
-    "city": "Phoenix",
-    "country": "us",
-    "location": "Phoenix, us",
-    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/314376836/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/5/1/f/600_533806367.jpeg",
-    "source": "meetup",
     "month": "May 2026"
   },
   {
@@ -406,16 +378,16 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-314285056",
+    "id": "mu-314285074",
     "name": "Hiero Heka: A Ready-To-Use Decentralized Identity Solution",
     "description": "The Heka Identity Platform is a ready-to-use decentralized identity (aka Self-Sovereign Identity or SSI) solution for the Hiero ecosystem. The project delivers a complete set of applications and tools",
-    "startDate": "2026-05-21T08:00:00-07:00",
-    "endDate": "2026-05-21T08:00:00-07:00",
+    "startDate": "2026-05-21T11:00:00-04:00",
+    "endDate": "2026-05-21T11:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-phoenix/events/314285056/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/8/1/6/600_533722550.jpeg",
+    "url": "https://www.meetup.com/lfdt-north-carolina/events/314285074/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/8/6/0/600_533722624.jpeg",
     "source": "meetup",
     "month": "May 2026"
   },
@@ -518,6 +490,20 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-314804154",
+    "name": "Connection Deficit — Breaking Career Limbo Isolation",
+    "description": "Nobody prepared you for the specific loneliness of being reachable 24/7 and still feeling completely invisible.\n\nThe group chat has 47 unread messages. You have plans this weekend. You have people. An",
+    "startDate": "2026-05-21T19:00:00-04:00",
+    "endDate": "2026-05-21T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/feel-the-vibe-meetup/events/314804154/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/8/a/600_534241418.jpeg",
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-evt-cNX4jjZroqCdbys",
     "name": "IN-PERSON | What Silicon Valley Can Learn from Japanese Innovation",
     "description": "",
@@ -571,34 +557,6 @@
     "url": "https://lu.ma/ethconf-hh-sf-may",
     "coverImage": "https://images.lumacdn.com/uploads/to/053e9096-37ae-4fcf-9289-8da8897c5b2e.png",
     "source": "luma-trusted",
-    "month": "May 2026"
-  },
-  {
-    "id": "mu-314655116",
-    "name": "Phoenix World Blockchain Group : Ai Agents/L1&2/RWA&DEPIN",
-    "description": "Join us at Phoenix World Blockchain Group for an insightful discussion on the integration of Crypto Assets ,Non-fungible Tokens (NFTs) and Artificial Intelligence (AI) in the world of Blockchain .\n\nNo",
-    "startDate": "2026-05-21T19:00:00-07:00",
-    "endDate": "2026-05-21T19:00:00-07:00",
-    "city": "Phoenix",
-    "country": "us",
-    "location": "Phoenix, us",
-    "url": "https://www.meetup.com/phoenix-world-blockchain-group-ai-agents-l1-2-rwa-depin/events/314655116/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/7/d/d/600_528775261.jpeg",
-    "source": "meetup",
-    "month": "May 2026"
-  },
-  {
-    "id": "mu-314590220",
-    "name": "Crypto talk - Money is Freedom; currency is slavery ",
-    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
-    "startDate": "2026-05-21T19:00:00-07:00",
-    "endDate": "2026-05-21T19:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cashflow-271/events/314590220/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/c/2/600_501417026.jpeg",
-    "source": "meetup",
     "month": "May 2026"
   },
   {
@@ -812,20 +770,6 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-314285598",
-    "name": "Global Pizza Party Phoenix",
-    "description": "Join us for the Global Pizza Party, a worldwide celebration of pizza and bitcoin, where communities around the world come together to share pizza and good vibes.\nWhat to expect:\n\\- Free pizza\n\\- Crypt",
-    "startDate": "2026-05-22T13:00:00-07:00",
-    "endDate": "2026-05-22T13:00:00-07:00",
-    "city": "Tempe",
-    "country": "us",
-    "location": "Tempe, us",
-    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/314285598/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/c/a/3/0/600_534231760.jpeg",
-    "source": "meetup",
-    "month": "May 2026"
-  },
-  {
     "id": "luma-evt-jKHgslnhyPY4rxr",
     "name": "Bitcoin Pizza Day",
     "description": "",
@@ -1008,16 +952,16 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-313873100",
+    "id": "mu-313873113",
     "name": "Enabling Anyone to Build and Operate Decentralized Networks with Hiero",
     "description": "Join us for a meetup exploring Hiero ([https://github.com/hiero-ledger](https://github.com/hiero-ledger)), an open-source, vendor-neutral distributed ledger technology (DLT) stack that powers the Hede",
-    "startDate": "2026-05-26T09:00:00-07:00",
-    "endDate": "2026-05-26T09:00:00-07:00",
+    "startDate": "2026-05-26T12:00:00-04:00",
+    "endDate": "2026-05-26T12:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-phoenix/events/313873100/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/9/b/600_534180155.jpeg",
+    "url": "https://www.meetup.com/lfdt-north-carolina/events/313873113/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/b/600_534180219.jpeg",
     "source": "meetup",
     "month": "May 2026"
   },
@@ -1050,17 +994,31 @@
     "month": "May 2026"
   },
   {
-    "id": "ma-unchained-summit",
-    "name": "Unchained Summit",
-    "description": "Unchained Summit is a premier Web3, Crypto and Blockchain event in Vietnam, bringing together global industry leaders, institutional/VC investors, innovators, and policymakers to shape the future of d",
-    "startDate": "2026-05-28T00:00:00.000Z",
-    "endDate": "2026-05-29T00:00:00.000Z",
-    "city": "Da Nang, Vietname ",
-    "country": "Vietname ",
-    "location": "Da Nang, Vietname , Vietname ",
-    "url": "https://unchainedsummit.com/vietnam",
-    "coverImage": "https://unchainedsummit.com/vietnam/wp-content/uploads/sites/11/2026/05/Unchained-Summit-Vietnam-An-Event-by-Aeternum.webp",
-    "source": "marketacross",
+    "id": "luma-host-evt-GO1wZSoMb0c2b2H",
+    "name": "Where Crypto is Headed Next: Founder & Exec Panel (Presented by Uniblock & Superteam Canada)",
+    "description": "",
+    "startDate": "2026-05-27T21:30:00.000Z",
+    "endDate": "2026-05-27T23:30:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/183u4p3z",
+    "coverImage": "https://images.lumacdn.com/event-covers/yz/0142a4d6-c8ff-4b01-8036-6cb1c8043598.png",
+    "source": "luma-trusted",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-1RjvEgNQbPqSHhI",
+    "name": "1871 Events: Claude Code Workshop with Women Defining AI",
+    "description": "",
+    "startDate": "2026-05-28T17:00:00.000Z",
+    "endDate": "2026-05-28T18:00:00.000Z",
+    "city": "Chicago",
+    "country": "United States",
+    "location": "Chicago, United States",
+    "url": "https://lu.ma/8j2l4k9p",
+    "coverImage": "https://images.lumacdn.com/uploads/cw/ec5b6168-42f5-448e-affa-5bf611014e15.png",
+    "source": "luma",
     "month": "May 2026"
   },
   {
@@ -1089,6 +1047,20 @@
     "url": "https://lu.ma/ethconf-hh-newyork-may",
     "coverImage": "https://images.lumacdn.com/uploads/z6/891f2d59-8235-4d95-8794-25bba9d867a5.png",
     "source": "luma-trusted",
+    "month": "May 2026"
+  },
+  {
+    "id": "ma-unchained-summit",
+    "name": "Unchained Summit",
+    "description": "Unchained Summit is a premier Web3, Crypto and Blockchain event in Vietnam, bringing together global industry leaders, institutional/VC investors, innovators, and policymakers to shape the future of d",
+    "startDate": "2026-05-28T00:00:00.000Z",
+    "endDate": "2026-05-29T00:00:00.000Z",
+    "city": "Da Nang, Vietname ",
+    "country": "Vietname ",
+    "location": "Da Nang, Vietname , Vietname ",
+    "url": "https://unchainedsummit.com/vietnam",
+    "coverImage": null,
+    "source": "marketacross",
     "month": "May 2026"
   },
   {
@@ -1176,6 +1148,34 @@
     "month": "June 2026"
   },
   {
+    "id": "mu-314502579",
+    "name": "Online Bitcoin Hangout",
+    "description": "**Online Bitcoin Hangout**\nThis virtual meetup is perfect for anyone interested in Bitcoin who can't (or prefers not to) attend our in-person events in Charlotte. This is an informal hangout where we ",
+    "startDate": "2026-06-01T18:30:00-04:00",
+    "endDate": "2026-06-01T18:30:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/bitcoincharlotte/events/314502579/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/3/d/c/600_533034236.jpeg",
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-313083744",
+    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
+    "description": "Network virtually with those located in the DMV (District of Columbia, Virginia & Maryland) and internationally!\n\nThis monthly Monday meeting is hosted by Maryland Blockchain Association, Blockchain L",
+    "startDate": "2026-06-01T19:00:00-04:00",
+    "endDate": "2026-06-01T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/313083744/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/a/f/600_527389071.jpeg",
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-and-blockchain-icscb-2",
     "name": "International Conference on Smart Contracts and Blockchain (ICSCB)",
     "description": "",
@@ -1204,16 +1204,16 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314290222",
+    "id": "mu-314290209",
     "name": "Redefining Success – The Metrics That Matter",
     "description": "**Creating Your Own Business KPI’s**\nLet’s stop guessing at idealistic revenue goals and watching for social media post conversions. What if success looked and felt different — and better? We’ll be di",
-    "startDate": "2026-06-02T06:00:00-07:00",
-    "endDate": "2026-06-02T06:00:00-07:00",
+    "startDate": "2026-06-02T09:00:00-04:00",
+    "endDate": "2026-06-02T09:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/collaberex-self-development-business-community-phoenix/events/314290222/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/4/f/a/600_534089946.jpeg",
+    "url": "https://www.meetup.com/collaberex-self-development-business-community-washington-dc/events/314290209/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/3/8/8/5/600_533714469.jpeg",
     "source": "meetup",
     "month": "June 2026"
   },
@@ -1246,30 +1246,16 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314172054",
-    "name": "Bitcoin 101",
-    "description": "**AGENDA**\n\n* Lottery Mining with Bitaxe for Fun\n* What interesting things are you doing with bitcoin?\n* Q&A - Our usual chats about bitcoin stuff.\n\nWhile the meeting is free to all, we ask that you p",
-    "startDate": "2026-06-03T18:00:00-07:00",
-    "endDate": "2026-06-03T18:00:00-07:00",
-    "city": "Phoenix",
-    "country": "us",
-    "location": "Phoenix, us",
-    "url": "https://www.meetup.com/arizona-bitcoin-meetup/events/314172054/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/2/4/4/600_494605156.jpeg",
-    "source": "meetup",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-314584551",
+    "id": "mu-314584577",
     "name": "Quantum Threat Landscape: Where We Stand and How to Prepare",
     "description": "Quantum computing is no longer a distant threat. Improvements in hardware design, new algorithmic breakthroughs, and expert surveys now put a cryptographically-relevant quantum computer sooner than th",
-    "startDate": "2026-06-04T08:00:00-07:00",
-    "endDate": "2026-06-04T08:00:00-07:00",
+    "startDate": "2026-06-04T11:00:00-04:00",
+    "endDate": "2026-06-04T11:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-phoenix/events/314584551/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/f/9/a/600_534088570.jpeg",
+    "url": "https://www.meetup.com/lfdt-north-carolina/events/314584577/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/f/6/1/600_534088513.jpeg",
     "source": "meetup",
     "month": "June 2026"
   },
@@ -1313,20 +1299,6 @@
     "url": "https://lu.ma/5eobpsqy",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-314823980",
-    "name": "Off-Chain Fridays",
-    "description": "Presented by Stand With Crypto & AI Film3\nCurated by DevilsDAO\n\nStep away from the screens and join **Stand With Crypto Arizona** for our weekly \"Layer 0\" social. In the world of blockchain, the stron",
-    "startDate": "2026-06-05T17:00:00-07:00",
-    "endDate": "2026-06-05T17:00:00-07:00",
-    "city": "Phoenix",
-    "country": "us",
-    "location": "Phoenix, us",
-    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/314823980/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/c/7/2/b/600_529970987.jpeg",
-    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -1428,16 +1400,16 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314651667",
+    "id": "mu-314651610",
     "name": "Lineth Technical Deep Dive: Inside the Production-Grade ZK Rollup Stack",
     "description": "[With the announcement of Lineth joining Linux Foundation Decentralized Trust as an incubating project](https://www.lfdecentralizedtrust.org/blog/announcing-lineth-a-production-grade-zk-rollup-stack-j",
-    "startDate": "2026-06-10T06:00:00-07:00",
-    "endDate": "2026-06-10T06:00:00-07:00",
+    "startDate": "2026-06-10T09:00:00-04:00",
+    "endDate": "2026-06-10T09:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-phoenix/events/314651667/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/a/600_534240186.jpeg",
+    "url": "https://www.meetup.com/lfdt-north-carolina/events/314651610/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/1/0/2/600_534240258.jpeg",
     "source": "meetup",
     "month": "June 2026"
   },
@@ -2039,7 +2011,7 @@
     "country": "United Arab Emirates",
     "location": "Dubai, United Arab Emirates, United Arab Emirates",
     "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/04/unchained-summit-dubai-may-2026-an-event-by-aeternum.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2026"
   },
