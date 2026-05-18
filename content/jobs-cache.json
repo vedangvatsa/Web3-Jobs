@@ -1,5 +1,69 @@
 [
   {
+    "id": "7e8ba3f0-14fe-4e57-932f-c28a110e5950",
+    "title": "Senior Counsel, Corporate & Commercial",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/7e8ba3f0-14fe-4e57-932f-c28a110e5950",
+    "date": "2026-05-18T18:59:59.815+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "41988841-3686-4d18-a749-c9f9b9960f26",
+    "title": "Senior All Source Investigator",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/41988841-3686-4d18-a749-c9f9b9960f26",
+    "date": "2026-05-18T18:40:10.184+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "7737697003",
+    "title": "AI Automation Developer",
+    "company": "OpenZeppelin",
+    "link": "https://openzeppelin.com/careers/opening/?gh_jid=7737697003",
+    "date": "2026-05-18T14:34:04-04:00",
+    "source": "Greenhouse: OpenZeppelin"
+  },
+  {
+    "id": "7932066",
+    "title": "Field Sales Market Manager",
+    "company": "Sonic",
+    "link": "https://boards.greenhouse.io/sonic/jobs/7932066?gh_jid=7932066",
+    "date": "2026-05-18T14:23:11-04:00",
+    "source": "Greenhouse: Sonic"
+  },
+  {
+    "id": "7738108003",
+    "title": "Associate Development Producer",
+    "company": "Gearbox",
+    "link": "https://job-boards.greenhouse.io/gearbox/jobs/7738108003",
+    "date": "2026-05-18T13:42:31-04:00",
+    "source": "Greenhouse: Gearbox"
+  },
+  {
+    "id": "2607364",
+    "title": "Senior Fullstack Software Engineer Websites (100% remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/senior-fullstack-software-engineer-websites-100-remote-4",
+    "date": "2026-05-18 17:26:03 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
+    "id": "7922532",
+    "title": "Program Manager, Go To Market",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7922532",
+    "date": "2026-05-18T13:10:47-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7921816",
+    "title": "Office Services Intern (Summer 2026)",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7921816&gh_jid=7921816",
+    "date": "2026-05-18T12:53:19-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
     "id": "745c2fd2-b5a5-4149-b256-5e716ff2c18a",
     "title": "Mid Market Customer Activation Manager | Bill Pay Specialist",
     "company": "Ramp",
@@ -16,6 +80,30 @@
     "source": "Greenhouse: Jane Street"
   },
   {
+    "id": "79170622",
+    "title": "Business Operations",
+    "company": "Matrixport",
+    "link": "https://sg.linkedin.com/jobs/view/business-operations-at-bit-official-4411005083",
+    "date": "2026-05-18T15:26:06.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "79163223",
+    "title": "Senior Product Manager, Trading",
+    "company": "Astar Foundation",
+    "link": "https://boards.greenhouse.io/startale/jobs/5223211008",
+    "date": "2026-05-18T14:47:22.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "79163198",
+    "title": "Product Manager, Currency Expansion - Europe",
+    "company": "Openfx",
+    "link": "https://boards.greenhouse.io/openfx/jobs/5223338008",
+    "date": "2026-05-18T14:47:15.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
     "id": "80dcf3a6-3429-485a-8f05-81173b1ea52e",
     "title": "All Source Investigator",
     "company": "TRM Labs",
@@ -24,12 +112,28 @@
     "source": "Ashby: TRM Labs"
   },
   {
+    "id": "79157805",
+    "title": "Engineering Manager, Data Science",
+    "company": "Zone",
+    "link": "https://appzonegroup.zohorecruit.com/jobs/Careers/284302000032189027/Engineering-Manager-Data-Science?source=CareerSite",
+    "date": "2026-05-18T14:21:17.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "180e7759-db80-4f25-8a77-c9a151da3e23",
     "title": "Product Lead",
     "company": "Stacks",
     "link": "https://jobs.ashbyhq.com/Stacks/180e7759-db80-4f25-8a77-c9a151da3e23",
     "date": "2026-05-18T14:17:04.660+00:00",
     "source": "Ashby: Stacks"
+  },
+  {
+    "id": "79154145",
+    "title": "Assistant Manager - Customer Support Operations",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/680",
+    "date": "2026-05-18T14:10:21.000Z",
+    "source": "https://coinbase.getro.com/jobs"
   },
   {
     "id": "2606859",
@@ -134,6 +238,38 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7894387",
     "date": "2026-05-18T05:07:46-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "79125084",
+    "title": "Senior Solutions Architect, Banking and Capital Markets",
+    "company": "Chainlink",
+    "link": "https://www.linkedin.com/jobs/view/senior-solutions-architect-banking-and-capital-markets-at-chainlink-labs-4414955926",
+    "date": "2026-05-18T08:47:17.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "79125079",
+    "title": "Legal Counsel",
+    "company": "Chainlink",
+    "link": "https://www.linkedin.com/jobs/view/legal-counsel-at-chainlink-labs-4415353482",
+    "date": "2026-05-18T08:47:14.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "79125075",
+    "title": "VP Engineering, Data & CCIP",
+    "company": "Chainlink",
+    "link": "https://www.linkedin.com/jobs/view/vp-engineering-data-ccip-at-chainlink-labs-4414670088",
+    "date": "2026-05-18T08:47:11.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "79125074",
+    "title": "Senior Manager - Talent Operations",
+    "company": "Chainlink",
+    "link": "https://ca.linkedin.com/jobs/view/senior-manager-talent-operations-at-chainlink-labs-4413767385",
+    "date": "2026-05-18T08:47:11.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
   },
   {
     "id": "28608b0b-07f7-4ab2-81fe-7d982858ed7b",
@@ -558,6 +694,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7887519",
     "date": "2026-05-15T15:59:16-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "5191720e-c026-4f53-b58a-094e0ec049f6",
+    "title": "IT Operations Specialist",
+    "company": "CertiK",
+    "link": "https://jobs.lever.co/certik/5191720e-c026-4f53-b58a-094e0ec049f6",
+    "date": "2026-05-15T19:59:09.999Z",
+    "source": "Lever: CertiK"
   },
   {
     "id": "8552556002",
@@ -1864,6 +2008,14 @@
     "source": "Lever: Binance"
   },
   {
+    "id": "7921649",
+    "title": "Staff Data Analyst",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7921649",
+    "date": "2026-05-13T12:35:42-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "c117bdab-2dbb-45b6-963f-67ff698eb0cc",
     "title": "Pre-Sales Solutions Specialist I",
     "company": "Safe",
@@ -2750,6 +2902,14 @@
     "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7905052&gh_jid=7905052",
     "date": "2026-05-11T21:30:37-04:00",
     "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "7731626003",
+    "title": "Deputy General Counsel, Regulatory",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7731626003",
+    "date": "2026-05-11T20:50:20-04:00",
+    "source": "Greenhouse: OKX"
   },
   {
     "id": "7827184",
