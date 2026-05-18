@@ -1,5 +1,141 @@
 [
   {
+    "id": "745c2fd2-b5a5-4149-b256-5e716ff2c18a",
+    "title": "Mid Market Customer Activation Manager | Bill Pay Specialist",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/745c2fd2-b5a5-4149-b256-5e716ff2c18a",
+    "date": "2026-05-18T16:15:16.918+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "8549369002",
+    "title": "Securities Financing Specialist",
+    "company": "Jane Street",
+    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8549369002",
+    "date": "2026-05-18T11:40:12-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "80dcf3a6-3429-485a-8f05-81173b1ea52e",
+    "title": "All Source Investigator",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/80dcf3a6-3429-485a-8f05-81173b1ea52e",
+    "date": "2026-05-18T14:21:17.968+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "180e7759-db80-4f25-8a77-c9a151da3e23",
+    "title": "Product Lead",
+    "company": "Stacks",
+    "link": "https://jobs.ashbyhq.com/Stacks/180e7759-db80-4f25-8a77-c9a151da3e23",
+    "date": "2026-05-18T14:17:04.660+00:00",
+    "source": "Ashby: Stacks"
+  },
+  {
+    "id": "2606859",
+    "title": "Senior Fullstack Software Engineer Websites (100% remote, worldwide)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/senior-fullstack-software-engineer-websites-100-remote-worldwide",
+    "date": "2026-05-18 13:36:15 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
+    "id": "ec75f897-31ce-436a-b5e1-3420a883e131",
+    "title": "Senior Director, Strategic Initiatives for MoonPay Institutional",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/ec75f897-31ce-436a-b5e1-3420a883e131",
+    "date": "2026-05-18T13:32:07.084Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "f0e3a9bb-1ea1-4ea7-aa82-56ae24b2ab3a",
+    "title": "Growth Marketing Associate",
+    "company": "Notabene",
+    "link": "https://jobs.ashbyhq.com/Notabene/f0e3a9bb-1ea1-4ea7-aa82-56ae24b2ab3a",
+    "date": "2026-05-18T13:24:25.689+00:00",
+    "source": "Ashby: Notabene"
+  },
+  {
+    "id": "79147098",
+    "title": "Solana Blockchain Engineer",
+    "company": "Fireblocks",
+    "link": "https://jobs.solana.com/companies/fireblocks/jobs/79147098-solana-blockchain-engineer",
+    "date": "2026-05-18T13:11:14.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "7e94169f-c082-4e36-ade1-b74189c3ed0b",
+    "title": "Recruiter",
+    "company": "Sei",
+    "link": "https://jobs.ashbyhq.com/seifoundation/7e94169f-c082-4e36-ade1-b74189c3ed0b",
+    "date": "2026-05-18T13:05:11.023+00:00",
+    "source": "Ashby: Sei"
+  },
+  {
+    "id": "ffc67958-ce58-442d-a76d-1e8417d31279",
+    "title": "Product Manager I",
+    "company": "Zeta",
+    "link": "https://jobs.lever.co/zeta/ffc67958-ce58-442d-a76d-1e8417d31279",
+    "date": "2026-05-18T12:36:19.308Z",
+    "source": "Lever: Zeta"
+  },
+  {
+    "id": "79142507",
+    "title": "Full Stack Engineer",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/elliptic/cf977cc5-3ed6-4357-bd20-5a536d020aae",
+    "date": "2026-05-18T11:57:36.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "7898534",
+    "title": "Full-Stack Weather Software Engineer",
+    "company": "Spire",
+    "link": "https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534",
+    "date": "2026-05-18T07:52:43-04:00",
+    "source": "Greenhouse: Spire"
+  },
+  {
+    "id": "4869233101",
+    "title": "Marketing - Market Insights Lead (Research)",
+    "company": "B2C2",
+    "link": "https://job-boards.eu.greenhouse.io/b2c2/jobs/4869233101",
+    "date": "2026-05-18T07:09:38-04:00",
+    "source": "Greenhouse: B2C2"
+  },
+  {
+    "id": "79134951",
+    "title": "Sales Director, Financial Services - San Francisco",
+    "company": "Hedera Hashgraph",
+    "link": "https://boards.greenhouse.io/hashgraph/jobs/8552556002",
+    "date": "2026-05-18T09:53:42.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "7757554",
+    "title": "Compliance and Money Laundering Reporting Officer , UAE (COMLRO)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7757554",
+    "date": "2026-05-18T05:46:14-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4868991101",
+    "title": "Frontend Development Engineer Intern",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4868991101",
+    "date": "2026-05-18T05:39:54-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "7894387",
+    "title": "Enterprise Product Support Manager",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7894387",
+    "date": "2026-05-18T05:07:46-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "28608b0b-07f7-4ab2-81fe-7d982858ed7b",
     "title": "Marketing Manager - Romania",
     "company": "Binance",
@@ -848,6 +984,14 @@
     "source": "https://jobs.solana.com/jobs"
   },
   {
+    "id": "78885882",
+    "title": "Security Engineer",
+    "company": "Coinflow Labs",
+    "link": "https://jobs.ashbyhq.com/Coinflow/5ef1599d-a828-4733-8983-58a9488aedfb",
+    "date": "2026-05-15T11:57:29.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
     "id": "d72eb0de-64f7-410b-9000-89899bdfe4c2",
     "title": "Regional Account Manager (Mindanao) - Local Payments",
     "company": "Coins.ph",
@@ -1042,6 +1186,14 @@
   {
     "id": "7919030",
     "title": "[TEMPLATE] Default Template",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7919030",
+    "date": "2026-05-14T21:34:53-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7919030",
+    "title": "Technical Solutions Specialist",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=7919030",
     "date": "2026-05-14T21:34:53-04:00",
@@ -1464,6 +1616,22 @@
     "source": "Lever: MANTRA"
   },
   {
+    "id": "78709251",
+    "title": "Freelance Visual Designer",
+    "company": "Jupiter",
+    "link": "https://jobs.solana.com/companies/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717/jobs/78709251-freelance-visual-designer",
+    "date": "2026-05-14T05:14:28.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78709250",
+    "title": "Product Designer (Mid–Senior)",
+    "company": "Jupiter",
+    "link": "https://jobs.solana.com/companies/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717/jobs/78709250-product-designer-mid-senior",
+    "date": "2026-05-14T05:12:39.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
     "id": "df2892b9-78d3-45e2-825c-38b8fbe75a15",
     "title": "/ Machine Learning Researcher(Mantra Engine)",
     "company": "MANTRA",
@@ -1720,6 +1888,14 @@
     "source": "Greenhouse: Nexus"
   },
   {
+    "id": "78651023",
+    "title": "Legal Counsel",
+    "company": "Solflare",
+    "link": "https://www.solflare.com/careers/legal-counsel/",
+    "date": "2026-05-13T15:50:25.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
     "id": "8547779002",
     "title": "Senior  Talent Acquisition Manager (Legal)",
     "company": "Axiom",
@@ -1790,6 +1966,14 @@
     "link": "https://jobs.ashbyhq.com/Dapper/0b07788b-2405-4550-9aee-2e0d5f3f5fa3",
     "date": "2026-05-13T13:45:56.455+00:00",
     "source": "Ashby: Dapper Labs"
+  },
+  {
+    "id": "78590945",
+    "title": "Events Marketing Manager",
+    "company": "Squads",
+    "link": "https://jobs.ashbyhq.com/squads/a4701031-eb98-4483-946f-3002d136baed",
+    "date": "2026-05-13T13:27:39.000Z",
+    "source": "https://jobs.solana.com/jobs"
   },
   {
     "id": "4568861f-1700-4877-a751-73d3e3a08c52",
@@ -2320,6 +2504,14 @@
     "source": "Greenhouse: Alpaca"
   },
   {
+    "id": "78409314",
+    "title": "Designer (Full Stack)",
+    "company": "Very AI",
+    "link": "https://wellfound.com/company/veryai/jobs/4144784-designer-full-stack",
+    "date": "2026-05-12T15:06:42.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
     "id": "7904965",
     "title": "Compliance Communications Team Lead",
     "company": "Robinhood",
@@ -2358,6 +2550,14 @@
     "link": "https://jobs.ashbyhq.com/jump/f27fdf15-29d3-4b0e-9a66-84520e2a4b65",
     "date": "2026-05-12T14:01:17.330+00:00",
     "source": "Ashby: Jump"
+  },
+  {
+    "id": "78388181",
+    "title": "Sales Development Representative",
+    "company": "Coinflow Labs",
+    "link": "https://jobs.ashbyhq.com/Coinflow/37562c51-ae83-4623-a44b-807348bb82eb",
+    "date": "2026-05-12T13:55:18.000Z",
+    "source": "https://jobs.solana.com/jobs"
   },
   {
     "id": "7913442",
@@ -2438,6 +2638,14 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7731884003",
     "date": "2026-05-12T07:41:32-04:00",
     "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "78342484",
+    "title": "Security Engineer - Operations / Incident Response",
+    "company": "Ondo Finance",
+    "link": "https://jobs.gem.com/ondo-finance/am9icG9zdDp8c3_bkWC0QF2N3kOoUCVy",
+    "date": "2026-05-12T11:32:25.000Z",
+    "source": "https://jobs.solana.com/jobs"
   },
   {
     "id": "7916697",
@@ -2640,6 +2848,22 @@
     "source": "Lever: Crypto"
   },
   {
+    "id": "78288560",
+    "title": "Rust Engineer (Solana)",
+    "company": "Exo Tech",
+    "link": "https://jobs.solana.com/companies/exo-tech/jobs/78288560-rust-engineer-solana",
+    "date": "2026-05-11T19:08:26.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "7913505",
+    "title": "Operations Associate, New Grad (Mexico)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7913505",
+    "date": "2026-05-11T13:48:31-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "7913503",
     "title": "Product Marketing Manager, Apps and Ecosystem",
     "company": "Stripe",
@@ -2702,6 +2926,14 @@
     "link": "https://ripple.com/careers/all-jobs/job/7905312?gh_jid=7905312",
     "date": "2026-05-11T11:15:22-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "78254161",
+    "title": "Customer Operations Specialist (SpherePay)",
+    "company": "Sphere",
+    "link": "https://jobs.lever.co/sphere-laboratories/e8ec4e09-e1fa-4ad7-9bec-c8458dd32884",
+    "date": "2026-05-11T15:03:34.000Z",
+    "source": "https://jobs.solana.com/jobs"
   },
   {
     "id": "3361f5db-a99c-497d-9f9a-bf011a9e4c5a",
@@ -25824,6 +26056,14 @@
     "source": "Greenhouse: Alpaca"
   },
   {
+    "id": "7870958",
+    "title": "Senior Bid Manager",
+    "company": "Spire",
+    "link": "https://spire.com/careers/job-openings/job/?gh_jid=7870958&gh_jid=7870958",
+    "date": "2026-04-30T09:57:23-04:00",
+    "source": "Greenhouse: Spire"
+  },
+  {
     "id": "8531243002",
     "title": "ASIC Physical Design Engineer",
     "company": "Jane Street",
@@ -27194,6 +27434,14 @@
     "link": "https://job-boards.greenhouse.io/janestreet/jobs/8507700002",
     "date": "2026-04-23T07:12:10-04:00",
     "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "7742977",
+    "title": "Staff Software Engineer, Ruby on Rails",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7742977?gh_jid=7742977",
+    "date": "2026-04-23T06:51:38-04:00",
+    "source": "Greenhouse: Ripple"
   },
   {
     "id": "https://jobs.lever.co/binance/08deb184-b150-4e44-8cc2-4b9fb2c000c0",
