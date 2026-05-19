@@ -183,7 +183,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
         if (countryFilter === 'Online') {
           matchesCountry = event.location === 'Online' || event.location?.toLowerCase().includes('online');
         } else {
-          matchesCountry = normalizeCountry(event.country) === countryFilter || event.location?.includes(countryFilter);
+          matchesCountry = normalizeCountry(event.country || "") === countryFilter || event.location?.includes(countryFilter);
         }
       }
 
@@ -293,7 +293,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow-sm border-transparent hover:border-border/60 bg-card transition-all duration-200">
               <div className="h-36 w-full overflow-hidden rounded-t-lg relative bg-muted">
                 <EventCardImage
-                  src={event.coverImage}
+                  src={event.coverImage || undefined}
                   name={event.name}
                   location={event.location}
                 />

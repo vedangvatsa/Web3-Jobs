@@ -1,10 +1,33 @@
-
-'use client';
-
 import { Header } from '@/components/header';
 import dynamic from 'next/dynamic';
 import { Skeleton } from '@/components/ui/skeleton';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+ title: 'Web3 Salary Calculator | Blockchain & Crypto Salary Insights',
+ description: 'Estimate Web3 salaries by role, experience, and location. Compare live Solidity developer, smart contract auditor, crypto marketer, and product manager salary ranges.',
+ alternates: {
+  canonical: 'https://hashtagweb3.com/salary-calculator',
+ },
+ openGraph: {
+  title: 'Web3 Salary Calculator | Blockchain & Crypto Salary Insights',
+  description: 'Estimate Web3 salaries by role, experience, and location. Compare live Solidity developer, smart contract auditor, crypto marketer, and product manager salary ranges.',
+  url: 'https://hashtagweb3.com/salary-calculator',
+  images: [{
+   url: '/api/og?type=default&title=Web3%20Salary%20Calculator',
+   width: 1200,
+   height: 630,
+   alt: 'Web3 Salary Calculator Tool',
+  }],
+ },
+ twitter: {
+  card: 'summary_large_image',
+  title: 'Web3 Salary Calculator | Blockchain & Crypto Salary Insights',
+  description: 'Estimate Web3 salaries by role, experience, and location. Compare live Solidity developer, smart contract auditor, crypto marketer, and product manager salary ranges.',
+  images: ['/api/og?type=default&title=Web3%20Salary%20Calculator'],
+ },
+};
 
 const SalaryCalculatorForm = dynamic(
  () => import('@/components/salary-calculator-form').then(m => ({ default: m.SalaryCalculatorForm })),

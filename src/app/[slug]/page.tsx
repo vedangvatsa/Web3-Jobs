@@ -34,7 +34,7 @@ export async function generateStaticParams() {
  // Remaining ~716 articles are generated on-demand via ISR (built on first request, then cached).
  // Glossary terms (157 pages) are also generated on-demand via ISR.
  const topArticles = articles
-  .sort((a, b) => new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime())
+  .sort((a, b) => new Date(b.publishedDate || 0).getTime() - new Date(a.publishedDate || 0).getTime())
   .slice(0, 50);
  return [
   ...topArticles.map((article) => ({ slug: article.slug })),
