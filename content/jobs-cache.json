@@ -1,5 +1,125 @@
 [
   {
+    "id": "8557034002",
+    "title": "Infrastructure Engineer - DataOps Team",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8557034002",
+    "date": "2026-05-19T19:34:20-04:00",
+    "source": "Greenhouse: BitGo"
+  },
+  {
+    "id": "7921325",
+    "title": "Regional Product Marketing Manager, United Kingdom",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7921325",
+    "date": "2026-05-19T19:19:42-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "face70ab-860c-44c3-bc92-2c9784dd31a1",
+    "title": "Senior Backend Engineer, Exchange Systems",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/face70ab-860c-44c3-bc92-2c9784dd31a1",
+    "date": "2026-05-19T22:47:31.429+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "8d0777f8-5b03-47c9-a93a-c4aa5070d534",
+    "title": "Commercial Lending Officer",
+    "company": "Switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/8d0777f8-5b03-47c9-a93a-c4aa5070d534",
+    "date": "2026-05-19T22:00:25.229+00:00",
+    "source": "Ashby: Switchboard"
+  },
+  {
+    "id": "35043143-bd74-474b-b068-e78f15f35f11",
+    "title": "Lead All Source Investigator",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/35043143-bd74-474b-b068-e78f15f35f11",
+    "date": "2026-05-19T21:59:48.658+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "7809139",
+    "title": "Product Manager, Growth AI Outreach Motion",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7809139",
+    "date": "2026-05-19T17:29:26-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "5225650008",
+    "title": "Pro Camera Support",
+    "company": "Nexus",
+    "link": "https://job-boards.greenhouse.io/nexus/jobs/5225650008",
+    "date": "2026-05-19T17:19:18-04:00",
+    "source": "Greenhouse: Nexus"
+  },
+  {
+    "id": "7943903",
+    "title": "Technical Support Engineer",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7943903",
+    "date": "2026-05-19T16:52:07-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
+    "id": "79368147",
+    "title": "Human Resources Administrative Assistant",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/5993161004",
+    "date": "2026-05-19T20:50:30.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "6000287004",
+    "title": "VP, Quantitative Developer - Risk Engineering",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6000287004",
+    "date": "2026-05-19T16:46:48-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "7943923",
+    "title": "Senior IT Support Engineer - UK - Hybrid",
+    "company": "Brave",
+    "link": "https://job-boards.greenhouse.io/brave/jobs/7943923",
+    "date": "2026-05-19T16:41:56-04:00",
+    "source": "Greenhouse: Brave"
+  },
+  {
+    "id": "79352591",
+    "title": "Legal Counsel",
+    "company": "BVNK",
+    "link": "https://boards.greenhouse.io/bvnk/jobs/4870316101",
+    "date": "2026-05-19T19:51:42.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "79352190",
+    "title": "Recruiter",
+    "company": "Breeze",
+    "link": "https://boards.greenhouse.io/breezecash/jobs/5224667008",
+    "date": "2026-05-19T19:49:21.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "79352191",
+    "title": "Senior Account Executive",
+    "company": "Breeze",
+    "link": "https://boards.greenhouse.io/breezecash/jobs/5223940008",
+    "date": "2026-05-19T19:49:21.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "79352186",
+    "title": "Account Executive",
+    "company": "Breeze",
+    "link": "https://boards.greenhouse.io/breezecash/jobs/5223941008",
+    "date": "2026-05-19T19:49:20.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
     "id": "79351129",
     "title": "Senior Full-stack Engineer",
     "company": "Crossmint",
@@ -664,6 +784,14 @@
     "source": "Ashby: TRM Labs"
   },
   {
+    "id": "b5f265fc-c8fa-47aa-8382-3aa72108c513",
+    "title": "Senior Commercial Counsel - GTM & Partnerships",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/b5f265fc-c8fa-47aa-8382-3aa72108c513",
+    "date": "2026-05-18T22:16:41.016+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
     "id": "7931247",
     "title": "Account Executive, SMB (New Business)",
     "company": "Stripe",
@@ -762,6 +890,14 @@
   {
     "id": "41988841-3686-4d18-a749-c9f9b9960f26",
     "title": "Senior All Source Investigator",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/41988841-3686-4d18-a749-c9f9b9960f26",
+    "date": "2026-05-18T18:40:10.184+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "41988841-3686-4d18-a749-c9f9b9960f26",
+    "title": "Senior All Source Investigator (DC, MD, VA only)",
     "company": "TRM Labs",
     "link": "https://jobs.ashbyhq.com/trm-labs/41988841-3686-4d18-a749-c9f9b9960f26",
     "date": "2026-05-18T18:40:10.184+00:00",
@@ -882,6 +1018,14 @@
   {
     "id": "80dcf3a6-3429-485a-8f05-81173b1ea52e",
     "title": "All Source Investigator",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/80dcf3a6-3429-485a-8f05-81173b1ea52e",
+    "date": "2026-05-18T14:21:17.968+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "80dcf3a6-3429-485a-8f05-81173b1ea52e",
+    "title": "All Source Investigator (DC, MD, VA only)",
     "company": "TRM Labs",
     "link": "https://jobs.ashbyhq.com/trm-labs/80dcf3a6-3429-485a-8f05-81173b1ea52e",
     "date": "2026-05-18T14:21:17.968+00:00",
@@ -1458,6 +1602,14 @@
   {
     "id": "c00602bb-a99a-4a9b-a0da-630dfa4c2cca",
     "title": "Threat Intelligence Analyst, Scams",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/c00602bb-a99a-4a9b-a0da-630dfa4c2cca",
+    "date": "2026-05-15T21:22:40.991+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "c00602bb-a99a-4a9b-a0da-630dfa4c2cca",
+    "title": "Threat Intelligence Analyst, Scams Expert",
     "company": "TRM Labs",
     "link": "https://jobs.ashbyhq.com/trm-labs/c00602bb-a99a-4a9b-a0da-630dfa4c2cca",
     "date": "2026-05-15T21:22:40.991+00:00",
@@ -29208,21 +29360,5 @@
     "link": "https://apply.workable.com/blast/j/undefined/",
     "date": "2026-04-20",
     "source": "Workable: Blast"
-  },
-  {
-    "id": "2546da1e-f288-4744-b167-af5ecbfd6634",
-    "title": "City Host - Dallas",
-    "company": "Base",
-    "link": "https://jobs.ashbyhq.com/Base/2546da1e-f288-4744-b167-af5ecbfd6634",
-    "date": "2026-04-19T22:57:01.095+00:00",
-    "source": "Ashby: Base"
-  },
-  {
-    "id": "00260fe4-aded-4700-a328-17de818eec63",
-    "title": "City Host - Tampa",
-    "company": "Base",
-    "link": "https://jobs.ashbyhq.com/Base/00260fe4-aded-4700-a328-17de818eec63",
-    "date": "2026-04-19T22:54:38.441+00:00",
-    "source": "Ashby: Base"
   }
 ]
