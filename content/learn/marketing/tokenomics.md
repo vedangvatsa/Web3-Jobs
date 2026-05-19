@@ -22,6 +22,30 @@ quiz:
       - "It means the token is on too many exchanges."
     correct: 1
     explanation: "A high FDV/MC ratio means most tokens haven't been released yet. When they unlock (team vesting, ecosystem emissions), selling pressure increases dramatically."
+  - question: "What is the difference between 'circulating supply' and 'total supply'?"
+    options:
+      - "They are the same thing."
+      - "Circulating supply is the number of tokens currently tradeable on the market; total supply includes locked, vesting, and unreleased tokens."
+      - "Total supply is always smaller."
+      - "Circulating supply includes future tokens."
+    correct: 1
+    explanation: "Circulating supply reflects what's actually available for trading right now. Total supply includes everything — team tokens still vesting, ecosystem funds locked in smart contracts, and tokens yet to be minted. The gap between them determines future sell pressure."
+  - question: "What is a 'cliff' in token vesting?"
+    options:
+      - "The point where a token's price drops."
+      - "An initial period (usually 6-12 months) during which zero tokens unlock, after which tokens begin releasing on a regular schedule."
+      - "A type of smart contract bug."
+      - "A trading strategy."
+    correct: 1
+    explanation: "The cliff protects early investors and community members from team/insider dumps. If a team has a 1-year cliff with 4-year vesting, they receive zero tokens for the first year. This aligns incentives — the team must build real value before receiving any tokens."
+  - question: "What is a red flag in token distribution?"
+    options:
+      - "A large community allocation."
+      - "Insiders (team + investors) holding over 50% of the supply with short vesting periods — this concentrates power and creates massive future sell pressure."
+      - "Having a fixed supply."
+      - "Using vesting schedules."
+    correct: 1
+    explanation: "When insiders hold the majority of tokens with aggressive unlock schedules, they can dump on retail investors after launch. Healthy distributions typically give 50%+ to community, ecosystem, and treasury, with insider tokens vesting over 3-4 years."
 ---
 
 ## What Is Tokenomics?

@@ -22,6 +22,30 @@ quiz:
       - "By asking the government for data."
     correct: 1
     explanation: "Decentralized data markets use crypto tokens to incentivize humans globally to upload, label, and verify data, effectively crowdsourcing the creation of high-quality training datasets."
+  - question: "Why is the 'data wall' a problem for AI companies?"
+    options:
+      - "There is too much data to process."
+      - "AI models have consumed most publicly available internet data, and the remaining high-quality data is proprietary and requires incentives to access."
+      - "Data is too cheap."
+      - "Only governments have data."
+    correct: 1
+    explanation: "Frontier AI models have already trained on most of the public web. The next wave of improvement requires specialized, proprietary, and personal data — medical records, financial data, sensor data — that people won't share without compensation."
+  - question: "How does Grass collect data for AI training?"
+    options:
+      - "It scrapes data from private databases."
+      - "Users share their idle internet bandwidth, and Grass uses it to crawl the web, rewarding users with tokens."
+      - "It buys data from Google."
+      - "It generates synthetic data using AI."
+    correct: 1
+    explanation: "Grass pays users crypto tokens in exchange for sharing their unused internet bandwidth. Grass then uses this distributed network of residential IPs to ethically scrape public web data for AI training datasets."
+  - question: "What role does The Graph (GRT) play in the AI x Crypto data ecosystem?"
+    options:
+      - "It trains AI models."
+      - "It indexes and queries blockchain data, making on-chain information easily accessible for AI applications."
+      - "It stores encrypted files."
+      - "It validates transactions."
+    correct: 1
+    explanation: "The Graph acts as the 'Google of blockchains' — it indexes on-chain data from Ethereum, Polygon, and other networks into queryable subgraphs. AI agents use these indexed data feeds for real-time on-chain analytics and decision-making."
 ---
 
 ## The Data Wall

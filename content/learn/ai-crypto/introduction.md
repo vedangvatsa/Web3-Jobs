@@ -22,6 +22,30 @@ quiz:
       - "Centralized AI doesn't work on mobile phones."
     correct: 1
     explanation: "Centralized AI models act as black boxes with closed data and concentrated power. Decentralized networks aim to open up compute, data, and model access."
+  - question: "What are the four layers of the AI x Crypto stack?"
+    options:
+      - "Mining, Trading, Staking, Governance."
+      - "Compute, Data Markets, Model Networks, Agent Networks."
+      - "Frontend, Backend, Database, API."
+      - "Bitcoin, Ethereum, Solana, Polygon."
+    correct: 1
+    explanation: "The AI x Crypto stack is: (1) Decentralized Compute (GPU power), (2) Data Markets (training data), (3) Model Networks (training and serving AI), (4) Agent Networks (autonomous AI actors). Each layer builds on the ones below."
+  - question: "How can AI improve the crypto user experience?"
+    options:
+      - "By making blockchains faster."
+      - "By acting as intelligent copilots that translate natural language into on-chain transactions."
+      - "By mining cryptocurrency more efficiently."
+      - "By replacing smart contracts."
+    correct: 1
+    explanation: "AI agents can interpret commands like 'Buy $100 of ETH on the cheapest DEX' and handle the complex multi-step process (routing, gas estimation, token approvals, execution) automatically."
+  - question: "Why is data verification important in the age of AI?"
+    options:
+      - "It makes AI models run faster."
+      - "Because AI can generate perfectly convincing fake content, cryptographic proofs are needed to verify what is real and who created it."
+      - "It reduces cloud computing costs."
+      - "It is required by law in all countries."
+    correct: 1
+    explanation: "When AI can generate realistic deepfakes, fake articles, and synthetic media, cryptographic tools like digital signatures and on-chain timestamps become essential for proving content authenticity and provenance."
 ---
 
 ## The Convergence of Two Revolutions

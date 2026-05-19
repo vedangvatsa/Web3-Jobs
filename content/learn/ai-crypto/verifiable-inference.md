@@ -22,6 +22,30 @@ quiz:
       - "It allows blockchains to train AI models."
     correct: 1
     explanation: "Blockchains are too slow to run AI models directly. Instead, AI runs off-chain, and verifiable inference lets smart contracts trust the result without re-running the computation."
+  - question: "What is zkML (Zero-Knowledge Machine Learning)?"
+    options:
+      - "A machine learning model that runs on a blockchain."
+      - "A technique that generates a cryptographic proof that a specific AI model produced a specific output, without revealing the model's weights."
+      - "A privacy-focused cryptocurrency."
+      - "A method to compress AI models."
+    correct: 1
+    explanation: "zkML uses zero-knowledge proofs to prove that a particular inference result came from a particular model, without exposing the model itself. This lets smart contracts verify AI outputs trustlessly."
+  - question: "What is the difference between zkML and opML (Optimistic ML)?"
+    options:
+      - "They are the same thing."
+      - "zkML proves correctness upfront with cryptographic proofs; opML assumes correctness and only verifies if someone challenges the result."
+      - "opML is faster than zkML in all cases."
+      - "zkML only works with image models."
+    correct: 1
+    explanation: "zkML generates a proof at inference time (slow but guaranteed correct). opML assumes the result is correct and opens a challenge window — if someone disputes the result, a verification process runs. opML is faster for the common case but has a delay for finality."
+  - question: "Why can't smart contracts just run AI models directly?"
+    options:
+      - "Smart contracts don't support Python."
+      - "Running a neural network inference on-chain would cost millions of dollars in gas fees — blockchains are designed for simple state transitions, not heavy computation."
+      - "Smart contracts can only process text."
+      - "There aren't enough nodes."
+    correct: 1
+    explanation: "Even a small neural network requires millions of floating-point operations. At Ethereum's gas prices, running inference on-chain would be prohibitively expensive. This is why the computation happens off-chain and only the verified result is submitted on-chain."
 ---
 
 ## The Trust Problem

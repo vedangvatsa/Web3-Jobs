@@ -22,6 +22,30 @@ quiz:
       - "Whether influencers are promoting it."
     correct: 1
     explanation: "Many AI tokens are purely speculative with no real technology behind them. Always check for actual network usage, real revenue, technical documentation, and whether the token is genuinely needed for the protocol to function."
+  - question: "What are the four main categories of AI tokens?"
+    options:
+      - "Bitcoin, Ethereum, Solana, and Polygon."
+      - "Compute tokens, Data tokens, Agent/Inference tokens, and Verification tokens."
+      - "Stablecoins, Governance tokens, Utility tokens, and Meme tokens."
+      - "Mining tokens, Staking tokens, LP tokens, and NFTs."
+    correct: 1
+    explanation: "AI tokens map to the four layers of the AI x Crypto stack: Compute (paying for GPU power), Data (incentivizing data contributions), Agent/Inference (powering autonomous agents and model serving), and Verification (ensuring AI outputs are trustworthy)."
+  - question: "What is the key question to ask when evaluating any AI token?"
+    options:
+      - "Is the token price going up?"
+      - "Does the protocol actually need a token to function, or is it bolted on for speculation?"
+      - "How many exchanges list the token?"
+      - "Who is the CEO?"
+    correct: 1
+    explanation: "The most important filter: does removing the token break the protocol? If a centralized database could do the same job, the token is likely unnecessary. Real utility tokens are required for the protocol's core mechanism — paying for compute, staking for verification, or governing network parameters."
+  - question: "What distinguishes real AI token utility from speculative hype?"
+    options:
+      - "The number of Twitter followers."
+      - "Real network usage metrics — active GPU hours, data uploaded, inference requests served — versus just trading volume on exchanges."
+      - "The total supply of the token."
+      - "Whether the token is listed on Coinbase."
+    correct: 1
+    explanation: "A legitimate AI token has measurable network usage: Render tracks GPU hours rendered, Akash shows active deployments, The Graph counts queries served. If the only activity is trading on exchanges, the token likely has no real utility."
 ---
 
 ## The AI Token Landscape

@@ -22,6 +22,30 @@ quiz:
       - "Using proof of work for voting."
     correct: 1
     explanation: "Time-locking or snapshotting voting power before a proposal is created prevents attackers from flash-borrowing tokens to vote, since they need to hold them before the snapshot."
+  - question: "How did the Beanstalk attacker use a flash loan to take over governance?"
+    options:
+      - "They bribed the validators."
+      - "They borrowed billions in tokens within a single transaction, voted to transfer the treasury to themselves, and returned the borrowed tokens — all in one block."
+      - "They hacked the voting contract."
+      - "They bought all tokens on the open market."
+    correct: 1
+    explanation: "The attacker flash-borrowed governance tokens, used them to pass a proposal transferring $182M from the treasury, collected the funds, repaid the loan, and pocketed the difference — all within a single Ethereum transaction. The entire attack took seconds."
+  - question: "What is 'quorum exploitation' in governance attacks?"
+    options:
+      - "Having too many voters."
+      - "Passing malicious proposals when voter participation is low, because fewer tokens are needed to reach the minimum vote threshold."
+      - "Voting multiple times."
+      - "Bribing validators."
+    correct: 1
+    explanation: "If a DAO requires 10% of tokens to vote for a proposal to pass (quorum), and most token holders are inactive, an attacker needs far fewer tokens than expected. During weekends or holidays, participation drops, making quorum easier to reach with a smaller stake."
+  - question: "What is a 'timelock' in governance and why is it important?"
+    options:
+      - "A lock on the token's price."
+      - "A mandatory delay (typically 24-72 hours) between a proposal passing and its execution, giving the community time to detect and respond to malicious proposals."
+      - "A lock on staking rewards."
+      - "A time limit on voting."
+    correct: 1
+    explanation: "Without a timelock, a malicious proposal executes immediately upon passing. A 48-hour timelock gives the community time to review the proposal's on-chain actions, raise alarms, and potentially veto or exit their positions before the proposal takes effect."
 ---
 
 ## What Is a Governance Attack?

@@ -22,6 +22,30 @@ quiz:
       - "Because gas fees are now zero."
     correct: 1
     explanation: "After the DeFi yield compression of 2022-2023, stablecoin holders sought safer yield. Tokenized Treasuries offer US government-backed 4-5% yields accessible 24/7 on-chain."
+  - question: "What is a 'Real World Asset' (RWA) in the context of DeFi?"
+    options:
+      - "A physical object stored on the blockchain."
+      - "A token that represents ownership or a claim on a real-world asset like US Treasuries, real estate, or private credit."
+      - "A stablecoin."
+      - "An NFT of a real painting."
+    correct: 1
+    explanation: "RWA tokenization creates on-chain representations of off-chain assets. A tokenized Treasury bill, for example, is a token backed by actual US government debt, giving holders the yield and security of Treasuries with the composability of DeFi."
+  - question: "What legal entity typically sits between the real-world asset and the on-chain token?"
+    options:
+      - "A DAO."
+      - "A Special Purpose Vehicle (SPV) — a legal entity that holds the actual asset and issues tokens representing claims on it."
+      - "A centralized exchange."
+      - "A mining pool."
+    correct: 1
+    explanation: "An SPV is a legal entity created specifically to hold the underlying asset (e.g., Treasury bills). The SPV issues tokens that represent fractional ownership. This is the bridge between the legal system and the blockchain."
+  - question: "What is the primary risk of RWA tokens compared to fully on-chain DeFi assets?"
+    options:
+      - "They are more volatile."
+      - "They depend on off-chain custodians and legal systems — if the entity holding the real asset defaults, mismanages funds, or faces regulatory action, token holders may lose value."
+      - "They use too much gas."
+      - "They cannot be traded."
+    correct: 1
+    explanation: "Unlike fully on-chain assets where 'code is law,' RWA tokens require trust in off-chain entities: the custodian holding the asset, the legal jurisdiction governing the SPV, and the oracle reporting the asset's value. This reintroduces counterparty risk that pure DeFi eliminates."
 ---
 
 ## What Are RWAs?

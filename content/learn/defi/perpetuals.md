@@ -22,6 +22,30 @@ quiz:
       - "The protocol's trading fee."
     correct: 1
     explanation: "When the perp price is above spot, longs pay shorts (incentivizing shorting). When the perp price is below spot, shorts pay longs. This mechanism keeps prices aligned without expiration."
+  - question: "What happens when a leveraged position gets liquidated?"
+    options:
+      - "The exchange refunds your money."
+      - "Your collateral is seized because the position's losses approached the deposited margin, and the exchange closes the position to prevent bad debt."
+      - "You receive more tokens."
+      - "Nothing — you can always hold."
+    correct: 1
+    explanation: "Liquidation occurs when losses eat through most of your collateral. At that point, the exchange forcibly closes your position and takes your remaining margin to cover the loss. With 10x leverage, a 10% move against you wipes out your entire deposit."
+  - question: "What is the main advantage of decentralized perp exchanges over centralized ones like Binance?"
+    options:
+      - "They are always cheaper."
+      - "Non-custodial — you trade from your own wallet and never deposit funds with a company that could freeze or lose them."
+      - "They have more trading pairs."
+      - "They are faster."
+    correct: 1
+    explanation: "On decentralized perp exchanges like GMX or Hyperliquid, you trade directly from your wallet. Your funds never sit on a company's servers. After the FTX collapse showed the risks of custodial exchanges, this became a major selling point."
+  - question: "Why are perpetual futures called 'perpetual'?"
+    options:
+      - "Because they last forever once opened."
+      - "Because unlike traditional futures that expire on a set date, perpetual contracts have no expiration — they can be held indefinitely, with the funding rate mechanism keeping prices anchored to spot."
+      - "Because they cannot be closed."
+      - "Because the profits are perpetual."
+    correct: 1
+    explanation: "Traditional futures expire quarterly. Perpetual futures eliminated this constraint. Instead of expiration forcing convergence to spot price, the funding rate — a periodic payment between longs and shorts — continuously pulls the perp price toward the spot price."
 ---
 
 ## What Are Perpetual Futures?
