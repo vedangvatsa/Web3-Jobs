@@ -1,7 +1,7 @@
 ---
 term: "ERC-20"
 slug: "erc-20"
-category: "Protocols & Standards"
+category: "protocols"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&h=600&fit=crop"
 imageAlt: "Token standards and Ethereum protocol visualization"

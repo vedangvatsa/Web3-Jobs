@@ -1,7 +1,7 @@
 ---
 term: "Wrapped Token"
 slug: "wrapped-token-v2"
-category: "tokens"
+category: "cryptocurrencies"
 difficulty: "Beginner"
 image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A representation of an asset from one blockchain on another blockchain, enabling assets to move between chains and participate in different ecosystems while maintaining value parity."

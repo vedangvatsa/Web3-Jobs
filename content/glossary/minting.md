@@ -1,7 +1,7 @@
 ---
 term: "Minting"
 slug: "minting"
-category: "NFTs & Digital Assets"
+category: "nfts"
 difficulty: "Beginner"
 image: "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=1200&h=600&fit=crop"
 imageAlt: "Digital art creation and NFT minting concept"

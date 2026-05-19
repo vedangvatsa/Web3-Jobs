@@ -109,7 +109,7 @@ If an agent tries to use traditional finance, it hits a wall:
 - It cannot pass KYC/AML checks.
 - It cannot get a credit card.
 
-This is where crypto becomes essential. Traditional AI is limited to generating text. Crypto-enabled AI can *transact*.
+Traditional AI just generates text. Add crypto and it can *spend money*.
 
 ## Enter Crypto Wallets
 

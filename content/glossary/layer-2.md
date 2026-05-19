@@ -1,7 +1,7 @@
 ---
 term: "Layer 2"
 slug: "layer-2"
-category: "Protocols & Networks"
+category: "protocols"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1080"
 imageAlt: "Blockchain scaling and layer 2 networks"

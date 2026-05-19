@@ -1,7 +1,7 @@
 ---
 term: "Stealth Address"
 slug: "stealth-address"
-category: "privacy"
+category: "security"
 difficulty: "Advanced"
 image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A privacy mechanism where unique receiving addresses are created for each transaction, preventing observers from linking payments to a single wallet or identity."
