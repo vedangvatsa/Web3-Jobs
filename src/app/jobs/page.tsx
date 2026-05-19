@@ -1,13 +1,38 @@
-
 import { JobBoard } from '@/components/job-board';
 import { Header } from '@/components/header';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
 import { Rss } from 'lucide-react';
+import type { Metadata } from 'next';
 import type { WebPage, JobPosting } from 'schema-dts';
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
+
+export const metadata: Metadata = {
+ title: 'Web3 Jobs & Crypto Careers | Hashtag Web3',
+ description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, smart contracts, DeFi, DAOs, and crypto marketing at top Web3 startups.',
+ alternates: {
+  canonical: 'https://hashtagweb3.com/jobs',
+ },
+ openGraph: {
+  title: 'Web3 Jobs & Crypto Careers | Hashtag Web3',
+  description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
+  url: 'https://hashtagweb3.com/jobs',
+  images: [{
+   url: '/api/og?type=default&title=Remote%20Web3%20Jobs',
+   width: 1200,
+   height: 630,
+   alt: 'Hashtag Web3 Remote Jobs',
+  }],
+ },
+ twitter: {
+  card: 'summary_large_image',
+  title: 'Web3 Jobs & Crypto Careers | Hashtag Web3',
+  description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
+  images: ['/api/og?type=default&title=Remote%20Web3%20Jobs'],
+ },
+};
 
 export default async function JobsPage() {
  const initialJobs = await getJobs();
@@ -18,7 +43,7 @@ export default async function JobsPage() {
    "Explore DeFi Careers",
    "Join a DAO Today"
  ];
- 
+  
  const siteUrl = 'https://hashtagweb3.com';
  const pageSchema: WebPage = {
   '@type': 'WebPage',

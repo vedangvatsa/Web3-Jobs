@@ -30,6 +30,12 @@ const BLOCKED_COMPANIES = new Set([
 function cleanJobTitle(title: string, company?: string): string {
  let cleaned = title.trim();
 
+ // Handle pipe splits: keep only the first part
+ const pipeIdx = cleaned.indexOf('|');
+ if (pipeIdx >= 0) {
+  cleaned = cleaned.substring(0, pipeIdx).trim();
+ }
+
  // Strip "CompanyName - " prefix (e.g. "Morph - Token Growth Lead" → "Token Growth Lead")
  if (company) {
   const escaped = company.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');

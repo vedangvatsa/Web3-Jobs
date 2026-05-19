@@ -78,7 +78,7 @@ export function Header() {
      <Image src="/logo/HashtagWeb3.png" alt="Hashtag Web3 Logo" width={140} height={24} className="h-6 w-auto" priority />
     </Link>
 
-    <nav className="hidden lg:flex items-center gap-6 text-sm font-medium">
+    <nav className="hidden lg:flex items-center gap-6 text-sm font-medium" aria-label="Main Navigation">
      {mainNavLinks.map((link) => (
       <Link
        key={link.label}
@@ -90,15 +90,18 @@ export function Header() {
      ))}
 
      <DropdownMenu>
-      <DropdownMenuTrigger className="flex items-center gap-1 text-muted-foreground transition-colors hover:text-foreground text-sm font-medium focus:outline-none">
+      <DropdownMenuTrigger 
+       className="flex items-center gap-1 text-muted-foreground transition-colors hover:text-foreground text-sm font-medium focus:outline-none"
+       aria-label="Toggle resources menu"
+      >
        Resources <ChevronDown className="h-4 w-4" />
       </DropdownMenuTrigger>
-      <DropdownMenuContent className="w-64">
+      <DropdownMenuContent className="w-64" aria-label="Resources Dropdown">
        <DropdownMenuLabel>Learn & Explore</DropdownMenuLabel>
        <DropdownMenuSeparator />
        {resourceLinks.map(link => (
         <DropdownMenuItem key={link.label} asChild>
-         <Link href={link.href} target={link.target} rel={link.target ? "noopener noreferrer" : undefined} className="flex items-center gap-2">
+         <Link href={link.href} className="flex items-center gap-2">
           <link.icon className="h-4 w-4 text-muted-foreground" />
           {link.label}
          </Link>
@@ -126,14 +129,15 @@ export function Header() {
        ))}
       </DropdownMenuContent>
      </DropdownMenu>
-
-     <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
-      <Button size="sm">Post a Job</Button>
-     </a>
     </nav>
 
-    <div className="lg:hidden">
-     <MobileNav />
+    <div className="flex items-center gap-3">
+     <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
+      <Button size="sm" variant="default" className="shadow-sm font-semibold">Post a Job</Button>
+     </a>
+     <div className="lg:hidden">
+      <MobileNav />
+     </div>
     </div>
    </div>
   </header>

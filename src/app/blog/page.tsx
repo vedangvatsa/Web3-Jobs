@@ -1,8 +1,33 @@
-
 import { Header } from '@/components/header';
 import { getAllArticles } from '@/lib/articles';
 import { BlogPageClientWrapper } from '@/components/blog-page-client-wrapper';
+import type { Metadata } from 'next';
 import type { CollectionPage } from 'schema-dts';
+
+export const metadata: Metadata = {
+ title: 'Web3 Career Playbook | Land $120K+ Blockchain & Crypto Jobs',
+ description: 'Actionable guides to land a job in Web3. Read deep-dives on blockchain developer resumes, salary negotiation, smart contract interview prep, and tech guides.',
+ alternates: {
+  canonical: 'https://hashtagweb3.com/blog',
+ },
+ openGraph: {
+  title: 'Web3 Career Playbook | Land $120K+ Blockchain & Crypto Jobs',
+  description: 'Actionable guides to land a job in Web3. Read deep-dives on blockchain developer resumes, salary negotiation, and smart contract interview prep.',
+  url: 'https://hashtagweb3.com/blog',
+  images: [{
+   url: '/api/og?type=default&title=Web3%20Career%20Playbook',
+   width: 1200,
+   height: 630,
+   alt: 'Hashtag Web3 Career Playbook',
+  }],
+ },
+ twitter: {
+  card: 'summary_large_image',
+  title: 'Web3 Career Playbook | Land $120K+ Blockchain & Crypto Jobs',
+  description: 'Actionable guides to land a job in Web3. Read deep-dives on blockchain developer resumes, salary negotiation, and smart contract interview prep.',
+  images: ['/api/og?type=default&title=Web3%20Career%20Playbook'],
+ },
+};
 
 // The page can be statically generated because useSearchParams is wrapped in a Suspense boundary in BlogPageClientWrapper
 export default async function PlaybookIndexPage() {
@@ -16,7 +41,6 @@ export default async function PlaybookIndexPage() {
   url: `${siteUrl}/blog`,
   description: 'Expert Web3 career guides for 2026. Learn how to land blockchain jobs, negotiate $120K+ salaries, build your portfolio, and break into DeFi, NFT, and DAO roles.',
  };
-
 
  return (
   <div className="bg-background">

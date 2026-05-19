@@ -1,10 +1,33 @@
-
-'use client';
-
 import { Header } from '@/components/header';
 import dynamic from 'next/dynamic';
 import { Skeleton } from '@/components/ui/skeleton';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+ title: 'Web3 Resume Builder | Create ATS-Optimized Crypto Resumes',
+ description: 'Free AI-powered resume builder for blockchain and Web3 professionals. Build an ATS-optimized resume tailored for DeFi, Solidity, Smart Contract, and DAO roles.',
+ alternates: {
+  canonical: 'https://hashtagweb3.com/resume-builder',
+ },
+ openGraph: {
+  title: 'Web3 Resume Builder | Create ATS-Optimized Crypto Resumes',
+  description: 'Free AI-powered resume builder for blockchain and Web3 professionals. Build an ATS-optimized resume tailored for DeFi, Solidity, Smart Contract, and DAO roles.',
+  url: 'https://hashtagweb3.com/resume-builder',
+  images: [{
+   url: '/api/og?type=default&title=Web3%20Resume%20Builder',
+   width: 1200,
+   height: 630,
+   alt: 'Web3 Resume Builder Tool',
+  }],
+ },
+ twitter: {
+  card: 'summary_large_image',
+  title: 'Web3 Resume Builder | Create ATS-Optimized Crypto Resumes',
+  description: 'Free AI-powered resume builder for blockchain and Web3 professionals. Build an ATS-optimized resume tailored for DeFi, Solidity, Smart Contract, and DAO roles.',
+  images: ['/api/og?type=default&title=Web3%20Resume%20Builder'],
+ },
+};
 
 const ResumeForm = dynamic(
  () => import('@/components/resume-form').then(m => ({ default: m.ResumeForm })),

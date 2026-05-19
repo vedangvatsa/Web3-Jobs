@@ -1,11 +1,33 @@
-
-'use client';
-
-import * as React from 'react';
 import { Header } from '@/components/header';
 import dynamic from 'next/dynamic';
 import { Skeleton } from '@/components/ui/skeleton';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+ title: 'Web3 Invoice Generator | Free PDF Crypto Invoicing',
+ description: 'Free online invoice generator for Web3 freelancers, consultants, and contractors. Create professional PDF invoices accepting ETH, USDC, BTC, or fiat.',
+ alternates: {
+  canonical: 'https://hashtagweb3.com/invoice-generator',
+ },
+ openGraph: {
+  title: 'Web3 Invoice Generator | Free PDF Crypto Invoicing',
+  description: 'Free online invoice generator for Web3 freelancers, consultants, and contractors. Create professional PDF invoices accepting ETH, USDC, BTC, or fiat.',
+  url: 'https://hashtagweb3.com/invoice-generator',
+  images: [{
+   url: '/api/og?type=default&title=Web3%20Invoice%20Generator',
+   width: 1200,
+   height: 630,
+   alt: 'Web3 Invoice Generator Tool',
+  }],
+ },
+ twitter: {
+  card: 'summary_large_image',
+  title: 'Web3 Invoice Generator | Free PDF Crypto Invoicing',
+  description: 'Free online invoice generator for Web3 freelancers, consultants, and contractors. Create professional PDF invoices accepting ETH, USDC, BTC, or fiat.',
+  images: ['/api/og?type=default&title=Web3%20Invoice%20Generator'],
+ },
+};
 
 const InvoiceForm = dynamic(
  () => import('@/components/invoice-form').then(m => ({ default: m.InvoiceForm })),
