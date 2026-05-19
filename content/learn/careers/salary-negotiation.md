@@ -22,6 +22,30 @@ quiz:
       - "A bonus paid when you leave the company."
     correct: 1
     explanation: "A cliff (typically 6-12 months) is a period where zero tokens unlock. After the cliff, tokens begin unlocking on a regular schedule (usually monthly or quarterly). If you leave before the cliff, you get no tokens."
+  - question: "In a bear market, should you prioritize cash or token compensation?"
+    options:
+      - "Always prioritize tokens — they'll go up eventually."
+      - "Prioritize cash base salary, because token prices may drop further and the token may never recover to its current value."
+      - "It doesn't matter."
+      - "Always take 100% tokens for maximum upside."
+    correct: 1
+    explanation: "In a bear market, tokens carry significant downside risk. A $100K token package at today's prices could be worth $20K in 6 months. Maximizing your cash base salary protects against this risk while still allowing you to negotiate token allocation as upside."
+  - question: "What should you negotiate in a token compensation package?"
+    options:
+      - "Only the total dollar value."
+      - "The number of tokens (not just dollar value), the vesting schedule length, cliff duration, and whether there is accelerated vesting on acquisition."
+      - "Only the cliff period."
+      - "Only the token type."
+    correct: 1
+    explanation: "Dollar value of tokens changes with price. Negotiate the actual token count, a reasonable vesting schedule (3-4 years), a manageable cliff (6-12 months), and acceleration clauses. If the company gets acquired, accelerated vesting ensures your tokens unlock early instead of being voided."
+  - question: "What is a red flag in a Web3 job offer?"
+    options:
+      - "Offering a competitive cash salary."
+      - "Below-market cash salary with compensation heavily weighted in an illiquid, pre-launch token with no clear path to liquidity."
+      - "Offering equity in addition to tokens."
+      - "Requiring a technical interview."
+    correct: 1
+    explanation: "If a company offers $60K cash + $300K in tokens that haven't launched yet and have no exchange listing, those tokens could be worth zero. Red flags: no vesting schedule in writing, tokens from a protocol with no users, and high cash discount justified by 'future token value.'"
 ---
 
 ## Understanding Web3 Compensation

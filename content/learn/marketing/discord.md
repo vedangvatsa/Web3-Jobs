@@ -22,6 +22,30 @@ quiz:
       - "To reduce server costs."
     correct: 1
     explanation: "Gated channels (token-gated, role-gated) create a sense of exclusivity and reward engagement. Token holders get alpha channels, contributors get project updates, and general members get community channels."
+  - question: "What is the most important metric for a healthy Discord community?"
+    options:
+      - "Total number of members."
+      - "Daily Active Users (DAU) and message-to-member ratio — showing actual engagement, not just sign-ups."
+      - "Number of channels."
+      - "Number of bots."
+    correct: 1
+    explanation: "A server with 100K members but only 50 daily messages is less healthy than one with 5K members and 500 daily messages. DAU and engagement rate reveal whether a community is alive or full of airdrop farmers who joined and never returned."
+  - question: "What is 'token gating' in a Discord server?"
+    options:
+      - "Charging tokens to join the server."
+      - "Restricting access to specific channels based on whether a member holds a certain token or NFT in their connected wallet."
+      - "Using tokens to vote on server rules."
+      - "Paying moderators in tokens."
+    correct: 1
+    explanation: "Token gating uses wallet verification (via bots like Collab.Land) to check if a member holds specific tokens or NFTs. If they do, they get access to exclusive channels. This creates real value for token holders and incentivizes holding."
+  - question: "What is the biggest mistake new Web3 community managers make with Discord?"
+    options:
+      - "Having too few channels."
+      - "Opening too many channels too early, creating a ghost town effect where conversations are spread thin across dozens of empty channels."
+      - "Using too many emojis."
+      - "Not having enough bots."
+    correct: 1
+    explanation: "Start with 5-8 focused channels. A busy #general channel feels alive. Twenty empty channels feels dead. You can always add channels as the community grows and conversations naturally need more space."
 ---
 
 ## Why Discord Matters in Web3

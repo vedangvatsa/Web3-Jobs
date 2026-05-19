@@ -22,6 +22,30 @@ quiz:
       - "By using a different programming language."
     correct: 1
     explanation: "ZK-Rollups execute transactions off-chain, then generate a cryptographic proof that all transactions were valid. Only the proof (not all the transaction data) needs to be verified on-chain, dramatically reducing costs."
+  - question: "What is the key difference between SNARKs and STARKs?"
+    options:
+      - "SNARKs are faster."
+      - "SNARKs require a trusted setup ceremony but produce smaller proofs; STARKs need no trusted setup and are quantum-resistant but produce larger proofs."
+      - "STARKs are older technology."
+      - "They are the same thing with different names."
+    correct: 1
+    explanation: "SNARKs (used by zkSync, Scroll) need a one-time trusted setup — if the setup is compromised, fake proofs could be generated. STARKs (used by StarkNet) eliminate this risk with transparent setup, and they resist quantum computing attacks, but their proofs are 10-100x larger."
+  - question: "How do ZK-Rollups reduce Ethereum transaction costs?"
+    options:
+      - "By using a different cryptocurrency."
+      - "By executing thousands of transactions off-chain and submitting a single validity proof to Ethereum that proves all transactions were computed correctly."
+      - "By removing gas fees entirely."
+      - "By using a centralized server."
+    correct: 1
+    explanation: "Instead of processing each transaction individually on Ethereum (expensive), a ZK-Rollup batches thousands of transactions, executes them off-chain, and generates a single compact proof. Ethereum only needs to verify this proof — amortizing the gas cost across thousands of transactions."
+  - question: "What is a privacy application of zero-knowledge proofs?"
+    options:
+      - "Making blockchains slower."
+      - "Proving you meet a condition (like being over 18 or having enough funds) without revealing the underlying data."
+      - "Encrypting emails."
+      - "Hiding transaction fees."
+    correct: 1
+    explanation: "ZK proofs enable powerful privacy use cases: prove you're a citizen of a country without revealing which one, prove you have sufficient funds without revealing your balance, or prove you voted without revealing your choice. The proof verifies the claim without exposing any private data."
 ---
 
 ## What Are Zero-Knowledge Proofs?

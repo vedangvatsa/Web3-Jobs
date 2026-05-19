@@ -22,6 +22,30 @@ quiz:
       - "By compressing transactions to use less gas."
     correct: 1
     explanation: "ERC-4337 introduces Paymasters — smart contracts that pay gas fees on behalf of users. This allows apps to offer gasless experiences by absorbing gas costs."
+  - question: "What problem does Account Abstraction solve?"
+    options:
+      - "It makes transactions faster."
+      - "It replaces rigid externally owned accounts (EOAs) with programmable smart contract wallets that support social recovery, session keys, and batched transactions."
+      - "It removes the need for private keys."
+      - "It eliminates gas fees entirely."
+    correct: 1
+    explanation: "Traditional EOAs (MetaMask-style wallets) have a single point of failure: lose the private key, lose everything. Account abstraction makes wallets programmable — you can add recovery options, spending limits, multi-sig approval, and even let apps transact on your behalf within defined rules."
+  - question: "What are 'session keys' and why are they important for Web3 gaming?"
+    options:
+      - "Keys that expire after each login."
+      - "Temporary keys with limited permissions that let a game sign transactions on your behalf without prompting for wallet approval on every action."
+      - "Keys shared between multiple users."
+      - "Keys stored on the blockchain."
+    correct: 1
+    explanation: "In a Web3 game, approving every sword swing or item pickup with a wallet popup would be unplayable. Session keys grant the game temporary, scoped permission (e.g., 'can spend up to 0.01 ETH on in-game actions for the next 2 hours') without exposing your main private key."
+  - question: "What is a 'UserOperation' in ERC-4337?"
+    options:
+      - "A regular Ethereum transaction."
+      - "A pseudo-transaction object that represents the user's intent — it gets collected by a Bundler, batched with other UserOperations, and submitted to the blockchain as a single transaction."
+      - "A database query."
+      - "A smart contract deployment."
+    correct: 1
+    explanation: "ERC-4337 introduced UserOperations as an alternative to standard transactions. Instead of users paying gas directly, they create UserOps that are collected by Bundlers (specialized relayers). The Bundler groups multiple UserOps into one on-chain transaction, allowing flexible gas payment and sponsorship."
 ---
 
 ## The Problem with Traditional Wallets

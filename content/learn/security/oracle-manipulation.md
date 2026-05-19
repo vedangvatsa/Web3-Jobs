@@ -22,6 +22,30 @@ quiz:
       - "They only work on Ethereum."
     correct: 1
     explanation: "Using a DEX's current spot price as an oracle is dangerous because flash loans can artificially move the price in a single block. Time-weighted average prices (TWAPs) resist this by averaging over multiple blocks."
+  - question: "What is Chainlink and why is it the industry standard for price feeds?"
+    options:
+      - "A blockchain for NFTs."
+      - "A decentralized oracle network that aggregates price data from multiple off-chain sources, providing tamper-resistant price feeds that cannot be manipulated by a single actor."
+      - "A decentralized exchange."
+      - "A Layer 2 network."
+    correct: 1
+    explanation: "Chainlink aggregates prices from multiple data sources (exchanges, market makers) through a decentralized network of oracle nodes. Manipulating a Chainlink feed would require corrupting the majority of independent data sources simultaneously — far harder than manipulating a single DEX pool."
+  - question: "What is a TWAP and how does it defend against oracle manipulation?"
+    options:
+      - "A type of token swap."
+      - "Time-Weighted Average Price — it averages prices over multiple blocks (e.g., 30 minutes), making single-block flash loan manipulation ineffective."
+      - "A trading strategy."
+      - "A smart contract language."
+    correct: 1
+    explanation: "A TWAP smooths out price over time. If an attacker flash-manipulates a DEX price in one block, the TWAP barely changes because it averages across hundreds of blocks. To meaningfully shift a TWAP, an attacker would need to sustain the manipulation for many blocks — which is extremely expensive."
+  - question: "What is a 'spot price oracle' and why is it dangerous?"
+    options:
+      - "A price feed from a regulated exchange."
+      - "Reading the current instantaneous price from a single DEX pool — dangerous because a flash loan can move this price arbitrarily within a single transaction."
+      - "A Chainlink price feed."
+      - "An average of multiple exchange prices."
+    correct: 1
+    explanation: "Spot price = current price at this exact moment on one pool. A flash loan can deposit millions into a small pool, drastically changing the ratio and thus the price, use this manipulated price to exploit a lending protocol, and return the loan — all in one transaction."
 ---
 
 ## Why Oracles Matter

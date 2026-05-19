@@ -22,6 +22,30 @@ quiz:
       - "Anonymous paid promotions."
     correct: 1
     explanation: "Long-term relationships where KOLs actually use the product and hold tokens with vesting create authentic engagement. Their audience trusts them because the promotion is genuine, not a one-off cash grab."
+  - question: "What is the most effective KOL tier for early-stage Web3 projects?"
+    options:
+      - "Tier 1 macro influencers with 500K+ followers."
+      - "Tier 3 micro-KOLs (5K-50K followers) who have high engagement rates and niche credibility."
+      - "Celebrity endorsements."
+      - "Paid Twitter ads."
+    correct: 1
+    explanation: "Micro-KOLs typically have higher engagement rates (5-15%) versus macro influencers (1-3%). Their audiences are more targeted and trusting. For early-stage projects with limited budgets, 10 micro-KOLs often outperform 1 macro influencer."
+  - question: "What is a major red flag when a KOL promotes a crypto project?"
+    options:
+      - "They disclose they are being paid."
+      - "They promote a project without disclosing compensation, have no vesting on their token allocation, and have a history of promoting projects that later collapsed."
+      - "They explain the risks."
+      - "They compare it to competitors."
+    correct: 1
+    explanation: "Ethical KOLs disclose paid partnerships, accept token compensation with vesting (aligned with the project's success), and maintain editorial standards. Red flags include no disclosure, instant token dumps after promotion, and a history of 'pump and dump' associations."
+  - question: "How should you measure the ROI of a KOL campaign?"
+    options:
+      - "Number of likes on the post."
+      - "Track referral codes, unique sign-up links, and on-chain wallet activity from the campaign — not just impressions."
+      - "Total follower count of the KOL."
+      - "How much you paid."
+    correct: 1
+    explanation: "Impressions and likes are vanity metrics. Effective measurement uses UTM-tagged links, referral codes, and on-chain analytics to track how many users actually converted — signed up, connected a wallet, or made a transaction — from the KOL's promotion."
 ---
 
 ## What Is a KOL?

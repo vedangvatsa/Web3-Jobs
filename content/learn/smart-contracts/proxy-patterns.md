@@ -22,6 +22,30 @@ quiz:
       - "They cannot hold ETH."
     correct: 1
     explanation: "Whoever controls the upgrade key can swap the implementation contract for anything — including code that drains all funds. This is why upgrade mechanisms must be secured with timelocks and multisigs."
+  - question: "How does a proxy contract work at the EVM level?"
+    options:
+      - "It copies the implementation contract's code."
+      - "It uses delegatecall to execute the implementation contract's code in the context of the proxy's storage, allowing the logic to be swapped while keeping the same address and state."
+      - "It creates a new contract for every function call."
+      - "It uses a different blockchain."
+    correct: 1
+    explanation: "delegatecall is the key EVM opcode. When a proxy receives a call, it uses delegatecall to run the implementation contract's code but reads and writes to the proxy's own storage. This means you can swap the implementation (upgrade the logic) without changing the proxy address or losing stored data."
+  - question: "What is 'storage collision' in proxy contracts?"
+    options:
+      - "When two users try to write at the same time."
+      - "When the proxy and implementation contract accidentally use the same storage slot for different variables, causing data corruption."
+      - "When the contract runs out of storage."
+      - "When two contracts have the same address."
+    correct: 1
+    explanation: "Because delegatecall executes implementation code against proxy storage, both contracts must agree on which storage slots hold which data. If the proxy stores the admin address in slot 0 and the implementation stores a user balance in slot 0, they overwrite each other — silently corrupting critical data."
+  - question: "What is the difference between Transparent Proxy and UUPS patterns?"
+    options:
+      - "They are the same."
+      - "In Transparent Proxy, the upgrade logic lives in the proxy contract; in UUPS, the upgrade logic lives in the implementation contract — making UUPS cheaper to deploy and more gas-efficient."
+      - "UUPS is older."
+      - "Transparent Proxy doesn't use delegatecall."
+    correct: 1
+    explanation: "Transparent Proxy puts upgrade functions in the proxy itself (higher deploy cost, simpler). UUPS puts upgrade functions in the implementation (cheaper deploy, but if you deploy an implementation without the upgrade function, the contract becomes permanently non-upgradeable). UUPS is now the recommended OpenZeppelin pattern."
 ---
 
 ## The Immutability Problem

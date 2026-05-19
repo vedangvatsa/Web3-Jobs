@@ -22,6 +22,30 @@ quiz:
       - "By running everything on a single supercomputer."
     correct: 1
     explanation: "Akash acts as a decentralized marketplace where anyone with spare GPU capacity can list it, and anyone who needs compute can bid on it. This creates price competition and eliminates middlemen."
+  - question: "What is the main advantage of decentralized compute networks over AWS or Google Cloud?"
+    options:
+      - "They are always faster."
+      - "They are permissionless and typically 50-85% cheaper due to open competition among GPU providers."
+      - "They have better customer support."
+      - "They are owned by governments."
+    correct: 1
+    explanation: "Decentralized compute creates an open market where anyone can supply GPU power. This competition drives prices significantly below the markup-heavy pricing of hyperscalers, and there are no gatekeepers deciding who can access compute."
+  - question: "What is the 'verification problem' in decentralized compute?"
+    options:
+      - "Verifying the identity of GPU providers."
+      - "Proving that a remote GPU actually performed the requested computation correctly, rather than returning garbage results."
+      - "Verifying that users paid the right amount."
+      - "Checking that the network has enough bandwidth."
+    correct: 1
+    explanation: "When you rent a GPU from an anonymous provider, you need cryptographic proof that the computation was done correctly. Without verification, a malicious provider could return random data and still collect payment."
+  - question: "Which project focuses specifically on verifiable AI model training?"
+    options:
+      - "Uniswap"
+      - "Gensyn"
+      - "OpenSea"
+      - "Aave"
+    correct: 1
+    explanation: "Gensyn is building infrastructure for verifiable machine learning training on decentralized hardware. It uses novel verification methods to ensure that distributed training tasks are completed correctly."
 ---
 
 ## The GPU Bottleneck
