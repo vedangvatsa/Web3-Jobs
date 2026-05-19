@@ -1,7 +1,7 @@
 ---
 term: "Slippage"
 slug: "slippage"
-category: "Trading & Markets"
+category: "trading"
 difficulty: "Beginner"
 image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop"
 imageAlt: "Price movement and trading execution visualization"

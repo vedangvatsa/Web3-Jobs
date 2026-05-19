@@ -52,8 +52,8 @@ quiz:
 
 Artificial Intelligence (AI) and Crypto (Web3) are the two most significant technologies of this decade. They look unrelated on the surface — one generates content, the other manages money. But they solve complementary problems:
 
-- **AI** is fundamentally about **abundance** — generating infinite content, code, images, and intelligence at near-zero marginal cost.
-- **Crypto** is fundamentally about **scarcity** — verifying truth, enforcing ownership, and transferring value without middlemen.
+- **AI** creates **abundance** — generating infinite content, code, images, and intelligence at near-zero marginal cost.
+- **Crypto** enforces **scarcity** — verifying truth, enforcing ownership, and transferring value without middlemen.
 
 When you combine them, abundance gets an economic layer. AI creates; crypto pays, verifies, and governs.
 
@@ -181,7 +181,7 @@ Traditional NFTs are static JPEGs. AI-powered NFTs can evolve:
 
 ## The AI x Crypto Stack
 
-The intersection is being built across multiple infrastructure layers:
+This stack is being built across four layers:
 
 <div class="diagram">
 <svg viewBox="0 0 800 320" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -250,5 +250,5 @@ Even if decentralized AI captures just 5% of the centralized AI compute market, 
 - AI creates abundance (content, intelligence); Crypto manages scarcity (value, identity, verification).
 - AI agents need crypto wallets to become economically sovereign — they cannot use banks.
 - Crypto needs AI to fix its UX problems and enable intelligent automation.
-- The intersection spans four layers: compute, data, models, and agents.
+- The stack has four layers: compute, data, models, and agents.
 - The market is nascent but growing rapidly — understanding it now is a career advantage.

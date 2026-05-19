@@ -52,7 +52,7 @@ quiz:
 
 On June 17, 2016, an attacker exploited a reentrancy vulnerability in The DAO — a decentralized investment fund — and drained 3.6 million ETH ($60M at the time). The hack was so catastrophic that the Ethereum community voted to hard-fork the entire blockchain to reverse it, splitting the network into Ethereum and Ethereum Classic.
 
-Nine years later, reentrancy remains one of the most common smart contract vulnerabilities. Understanding it deeply is non-negotiable for any auditor.
+Nine years later, reentrancy remains one of the most common smart contract vulnerabilities. Every auditor needs to understand this attack inside out.
 
 <div class="diagram">
 <svg viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">

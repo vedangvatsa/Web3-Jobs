@@ -1,7 +1,7 @@
 ---
 term: "Recursive Proof"
 slug: "recursive-proof"
-category: "cryptography"
+category: "security"
 difficulty: "Advanced"
 image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A cryptographic proof that can prove other proofs, enabling compression of large computations into single small proofs through iterative proof composition."

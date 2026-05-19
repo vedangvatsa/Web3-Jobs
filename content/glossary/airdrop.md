@@ -1,7 +1,7 @@
 ---
 term: "Airdrop"
 slug: "airdrop"
-category: "Trading & Markets"
+category: "trading"
 difficulty: "Beginner"
 image: "https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1080"
 imageAlt: "Cryptocurrency airdrop and token distribution"

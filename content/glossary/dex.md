@@ -1,7 +1,7 @@
 ---
 term: "DEX"
 slug: "dex"
-category: "Trading & Markets"
+category: "trading"
 difficulty: "Beginner"
 image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1080"
 imageAlt: "Decentralized exchange trading interface"

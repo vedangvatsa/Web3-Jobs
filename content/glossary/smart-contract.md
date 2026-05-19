@@ -57,7 +57,7 @@ When someone interacts with a smart contract, they send a transaction to the blo
 
 - **Rust** powers smart contracts on Solana, Near, and Polkadot. Rust's memory safety guarantees and performance characteristics make it popular for high-throughput chains. The learning curve is steeper than Solidity, but Rust's growing ecosystem and tooling continue improving.
 
-- **Move**, developed for Diem (Facebook's blockchain project), focuses on resource safety. Sui and Aptos now use Move, bringing novel programming paradigms to smart contract development.
+- **Move**, developed for Diem (Facebook's blockchain project), focuses on resource safety. Sui and Aptos now use Move, taking a different approach to smart contract safety.
 
 ## Security Considerations
 

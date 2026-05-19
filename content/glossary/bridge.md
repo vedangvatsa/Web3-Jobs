@@ -1,7 +1,7 @@
 ---
 term: "Bridge"
 slug: "bridge"
-category: "Protocols & Networks"
+category: "protocols"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=1080"
 imageAlt: "Cross-chain bridge connecting blockchains"

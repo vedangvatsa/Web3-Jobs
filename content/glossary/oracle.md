@@ -1,7 +1,7 @@
 ---
 term: "Oracle"
 slug: "oracle"
-category: "Protocols & Networks"
+category: "protocols"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1080"
 imageAlt: "Blockchain oracle connecting off-chain data"

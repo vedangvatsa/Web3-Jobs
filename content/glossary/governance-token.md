@@ -1,7 +1,7 @@
 ---
 term: "Governance Token"
 slug: "governance-token"
-category: "Governance & DAOs"
+category: "governance"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=600&fit=crop"
 imageAlt: "Voting and democratic decision-making in blockchain governance"

@@ -1,7 +1,7 @@
 ---
 term: "Threshold Encryption"
 slug: "threshold-encryption"
-category: "cryptography"
+category: "security"
 difficulty: "Advanced"
 image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A cryptographic scheme where a message is encrypted such that a threshold number of participants must cooperate to decrypt it, enabling distributed control and MEV prevention."

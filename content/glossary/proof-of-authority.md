@@ -1,7 +1,7 @@
 ---
 term: "Proof of Authority"
 slug: "proof-of-authority"
-category: "consensus-mechanism"
+category: "blockchain-fundamentals"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&q=80"
 description: "A consensus mechanism where designated trusted validators create blocks and validate transactions, sacrificing decentralization for efficiency and speed in private or semi-public blockchains."

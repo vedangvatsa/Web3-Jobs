@@ -1,7 +1,7 @@
 ---
 term: "Privacy Pool"
 slug: "privacy-pool"
-category: "privacy"
+category: "security"
 difficulty: "Advanced"
 image: "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80"
 description: "A cryptographic system that allows users to deposit funds into a shared pool and later withdraw anonymously, breaking the on-chain link between sender and receiver."

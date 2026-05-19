@@ -1,7 +1,7 @@
 ---
 term: "NFT"
 slug: "nft"
-category: "NFTs & Digital Assets"
+category: "nfts"
 difficulty: "Beginner"
 image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1080"
 imageAlt: "Digital NFT artwork concept"

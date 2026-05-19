@@ -1,7 +1,7 @@
 ---
 term: "Royalty"
 slug: "royalty"
-category: "NFTs & Digital Assets"
+category: "nfts"
 difficulty: "Beginner"
 image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&h=600&fit=crop"
 imageAlt: "Artist earnings and creative compensation concept"

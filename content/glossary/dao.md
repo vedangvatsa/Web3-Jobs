@@ -1,7 +1,7 @@
 ---
 term: "DAO"
 slug: "dao"
-category: "Governance & DAOs"
+category: "governance"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1080"
 imageAlt: "Community governance and collaboration concept"

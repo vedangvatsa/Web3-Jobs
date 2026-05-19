@@ -56,7 +56,7 @@ Other protocols like Tokemak use specialized mechanics to enable single-sided de
 
 The safest way to avoid impermanent loss is providing liquidity to stablecoin pairs like USDC/USDT or DAI/USDC. Since both assets maintain the same price target, there's minimal price divergence and thus minimal impermanent loss. These pools generate consistent fee income with low risk.
 
-Returns on stablecoin pools are generally lower than volatile pairs because the risk is lower. During market volatility, however, stablecoin pools can outperform riskier alternatives. They've become a cornerstone of DeFi, providing reliable yield for risk-averse liquidity providers while ensuring deep liquidity for traders.
+Returns on stablecoin pools are generally lower than volatile pairs because the risk is lower. During market volatility, however, stablecoin pools can outperform riskier alternatives. They are core to DeFi, providing reliable yield for risk-averse liquidity providers while ensuring deep liquidity for traders.
 
 ## Historical Analysis
 
