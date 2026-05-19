@@ -1,5 +1,45 @@
 [
   {
+    "id": "4870028101",
+    "title": "Senior Security Engineer",
+    "company": "NEAR",
+    "link": "https://job-boards.eu.greenhouse.io/nearfoundation/jobs/4870028101",
+    "date": "2026-05-18T19:38:56-04:00",
+    "source": "Greenhouse: NEAR"
+  },
+  {
+    "id": "90255ea2-4a89-4727-907b-25bd3b369a90",
+    "title": "Infrastructure Engineer",
+    "company": "Conduit",
+    "link": "https://jobs.ashbyhq.com/Conduit/90255ea2-4a89-4727-907b-25bd3b369a90",
+    "date": "2026-05-18T23:24:09.292+00:00",
+    "source": "Ashby: Conduit"
+  },
+  {
+    "id": "7915142",
+    "title": "Program Manager, GTM Strategic Programs",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7915142",
+    "date": "2026-05-18T19:22:15-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "b5f265fc-c8fa-47aa-8382-3aa72108c513",
+    "title": "Senior Commercial Counsel",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/b5f265fc-c8fa-47aa-8382-3aa72108c513",
+    "date": "2026-05-18T22:16:41.016+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "7931247",
+    "title": "Account Executive, SMB (New Business)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7931247",
+    "date": "2026-05-18T17:50:02-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "7e8ba3f0-14fe-4e57-932f-c28a110e5950",
     "title": "Senior Counsel, Corporate & Commercial",
     "company": "Polymarket",
@@ -30,6 +70,14 @@
     "link": "https://boards.greenhouse.io/sonic/jobs/7932066?gh_jid=7932066",
     "date": "2026-05-18T14:23:11-04:00",
     "source": "Greenhouse: Sonic"
+  },
+  {
+    "id": "79191415",
+    "title": "International HR Advisor",
+    "company": "Rise",
+    "link": "https://de.linkedin.com/jobs/view/international-hr-advisor-at-rise-4416086957",
+    "date": "2026-05-18T18:12:32.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "7738108003",
@@ -720,6 +768,14 @@
     "source": "Greenhouse: Flow Traders"
   },
   {
+    "id": "7804686",
+    "title": "Staff iOS Engineer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7804686?t=gh_src=&gh_jid=7804686",
+    "date": "2026-05-15T14:13:02-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
     "id": "8552286002",
     "title": "Commercial Contracts Attorney",
     "company": "Jane Street",
@@ -872,6 +928,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "7913464",
+    "title": "Full Stack Engineer, Support Experience",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7913464",
+    "date": "2026-05-15T11:48:02-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "78957536",
     "title": "Marketing Lead",
     "company": "Very AI",
@@ -957,6 +1021,22 @@
     "company": "Wave Mobile Money",
     "link": "https://boards.greenhouse.io/wavemm1/jobs/5996008004",
     "date": "2026-05-15T13:07:43.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "78906600",
+    "title": "Operations Training Lead",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/5995217004",
+    "date": "2026-05-15T13:07:43.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "78906595",
+    "title": "Accountant",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/5994133004",
+    "date": "2026-05-15T13:07:42.000Z",
     "source": "https://coinbase.getro.com/jobs"
   },
   {
@@ -1126,6 +1206,14 @@
     "link": "https://ats.rippling.com/perle/jobs/aef7a787-4289-425c-870e-b9e3e987ec82",
     "date": "2026-05-15T12:23:22.000Z",
     "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "78886220",
+    "title": "Senior Talent Acquisition Partner",
+    "company": "BVNK",
+    "link": "https://boards.greenhouse.io/bvnk/jobs/4867059101",
+    "date": "2026-05-15T11:59:08.000Z",
+    "source": "https://coinbase.getro.com/jobs"
   },
   {
     "id": "78885882",
@@ -1530,6 +1618,14 @@
   {
     "id": "7925073",
     "title": "Staff Full Stack Engineer - Paid Support Experience",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7925073",
+    "date": "2026-05-14T09:59:40-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7925073",
+    "title": "Staff Full Stack Engineer - Support Experience",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=7925073",
     "date": "2026-05-14T09:59:40-04:00",
@@ -2566,6 +2662,22 @@
     "link": "https://www.guild.com/open-positions-at-guild?gh_jid=7909385",
     "date": "2026-05-12T14:14:45-04:00",
     "source": "Greenhouse: Guild"
+  },
+  {
+    "id": "78464655",
+    "title": "CNC Machining Engineering Specialist",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/cnc-machining-engineering-specialist-at-hadrian-4410183565",
+    "date": "2026-05-12T18:04:39.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "78464653",
+    "title": "Manager, Early Career Recruiting",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/manager-early-career-recruiting-at-hadrian-4410159007",
+    "date": "2026-05-12T18:04:38.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
   },
   {
     "id": "5994474004",
