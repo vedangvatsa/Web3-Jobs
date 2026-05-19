@@ -78,6 +78,41 @@ A well-structured Web3 Discord has these channel categories:
 - `#alpha` (role-gated) — Early information for active contributors
 - `#team-updates` (role-gated) — Internal updates visible to core team
 
+<div class="diagram">
+<svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+ <text x="400" y="20" text-anchor="middle" font-size="13" font-weight="bold" fill="#666">Discord Access Tiers</text>
+
+ <rect x="30" y="40" width="170" height="90" rx="10" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1.5"/>
+ <text x="115" y="65" text-anchor="middle" font-size="12" font-weight="600" fill="#374151">Public</text>
+ <text x="115" y="82" text-anchor="middle" font-size="10" fill="#64748b">#rules, #verify</text>
+ <text x="115" y="97" text-anchor="middle" font-size="10" fill="#64748b">#announcements</text>
+ <text x="115" y="115" text-anchor="middle" font-size="9" fill="#9ca3af">Anyone can see</text>
+
+ <line x1="200" y1="85" x2="240" y2="85" stroke="#3b82f6" stroke-width="1.5" marker-end="url(#adisc)"/>
+ <text x="220" y="75" text-anchor="middle" font-size="8" fill="#3b82f6">verify</text>
+
+ <rect x="240" y="40" width="170" height="90" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+ <text x="325" y="65" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">Verified</text>
+ <text x="325" y="82" text-anchor="middle" font-size="10" fill="#64748b">#general, #support</text>
+ <text x="325" y="97" text-anchor="middle" font-size="10" fill="#64748b">#governance</text>
+ <text x="325" y="115" text-anchor="middle" font-size="9" fill="#3b82f6">Captcha or wallet</text>
+
+ <line x1="410" y1="85" x2="450" y2="85" stroke="#22c55e" stroke-width="1.5" marker-end="url(#adisc2)"/>
+ <text x="430" y="75" text-anchor="middle" font-size="8" fill="#22c55e">hold token</text>
+
+ <rect x="450" y="40" width="170" height="90" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+ <text x="535" y="65" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">Token-Gated</text>
+ <text x="535" y="82" text-anchor="middle" font-size="10" fill="#64748b">#holder-chat, #alpha</text>
+ <text x="535" y="97" text-anchor="middle" font-size="10" fill="#64748b">#team-updates</text>
+ <text x="535" y="115" text-anchor="middle" font-size="9" fill="#22c55e">Collab.Land verifies</text>
+
+ <defs>
+ <marker id="adisc" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#3b82f6"/></marker>
+ <marker id="adisc2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#22c55e"/></marker>
+ </defs>
+</svg>
+</div>
+
 ## Bot Stack
 
 Essential bots for a Web3 Discord:

@@ -84,6 +84,36 @@ How tokens are allocated at launch determines who benefits and who gets diluted.
 - No vesting for insiders → Immediate dump potential
 - Vague "ecosystem" allocation with no clear plan → Often used as a slush fund
 
+<div class="diagram">
+<svg viewBox="0 0 800 130" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+ <text x="400" y="20" text-anchor="middle" font-size="13" font-weight="bold" fill="#666">Typical Token Distribution</text>
+
+ <!-- Stacked bar -->
+ <rect x="50" y="40" width="136" height="40" rx="4" fill="#dbeafe" stroke="#3b82f6" stroke-width="1"/>
+ <text x="118" y="64" text-anchor="middle" font-size="10" font-weight="600" fill="#1e40af">Team 17%</text>
+
+ <rect x="186" y="40" width="152" height="40" rx="4" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
+ <text x="262" y="64" text-anchor="middle" font-size="10" font-weight="600" fill="#92400e">Investors 19%</text>
+
+ <rect x="338" y="40" width="240" height="40" rx="4" fill="#dcfce7" stroke="#22c55e" stroke-width="1"/>
+ <text x="458" y="64" text-anchor="middle" font-size="10" font-weight="600" fill="#166534">Community/Ecosystem 30%</text>
+
+ <rect x="578" y="40" width="120" height="40" rx="4" fill="#fdf2f8" stroke="#ec4899" stroke-width="1"/>
+ <text x="638" y="64" text-anchor="middle" font-size="10" font-weight="600" fill="#9d174d">Treasury 15%</text>
+
+ <rect x="698" y="40" width="52" height="40" rx="4" fill="#e5e7eb" stroke="#9ca3af" stroke-width="1"/>
+ <text x="724" y="64" text-anchor="middle" font-size="9" fill="#374151">Other</text>
+
+ <!-- Labels below -->
+ <text x="118" y="100" text-anchor="middle" font-size="9" fill="#64748b">4yr vest</text>
+ <text x="262" y="100" text-anchor="middle" font-size="9" fill="#64748b">1-2yr vest</text>
+ <text x="458" y="100" text-anchor="middle" font-size="9" fill="#64748b">Grants + airdrops</text>
+ <text x="638" y="100" text-anchor="middle" font-size="9" fill="#64748b">DAO-controlled</text>
+
+ <text x="400" y="125" text-anchor="middle" font-size="10" fill="#ef4444">Red flag: insiders (team + investors) > 50%</text>
+</svg>
+</div>
+
 ## Vesting and Cliffs
 
 **Vesting** means tokens unlock gradually over time. **Cliffs** are periods where no tokens unlock at all.

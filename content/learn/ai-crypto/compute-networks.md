@@ -70,6 +70,38 @@ The basic flow:
 4. **Payment** happens on-chain, often in the protocol's native token or stablecoins.
 5. **Verification** mechanisms ensure providers actually completed the work correctly.
 
+<div class="diagram">
+<svg viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+ <rect x="10" y="60" width="150" height="60" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+ <text x="85" y="82" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">GPU Providers</text>
+ <text x="85" y="100" text-anchor="middle" font-size="10" fill="#166534">List idle hardware</text>
+
+ <line x1="160" y1="90" x2="240" y2="90" stroke="#22c55e" stroke-width="1.5" marker-end="url(#acmp)"/>
+
+ <rect x="240" y="40" width="170" height="100" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+ <text x="325" y="70" text-anchor="middle" font-size="13" font-weight="600" fill="#1e40af">Protocol</text>
+ <text x="325" y="90" text-anchor="middle" font-size="10" fill="#64748b">Matches buyers</text>
+ <text x="325" y="105" text-anchor="middle" font-size="10" fill="#64748b">with providers</text>
+ <text x="325" y="125" text-anchor="middle" font-size="10" fill="#3b82f6">Verifies work</text>
+
+ <line x1="410" y1="90" x2="490" y2="90" stroke="#3b82f6" stroke-width="1.5" marker-end="url(#acmp2)"/>
+
+ <rect x="490" y="60" width="150" height="60" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+ <text x="565" y="82" text-anchor="middle" font-size="12" font-weight="600" fill="#92400e">Buyers</text>
+ <text x="565" y="100" text-anchor="middle" font-size="10" fill="#b45309">Submit AI workloads</text>
+
+ <line x1="565" y1="120" x2="565" y2="155" stroke="#f59e0b" stroke-width="1" stroke-dasharray="4,3"/>
+ <text x="565" y="170" text-anchor="middle" font-size="10" fill="#94a3b8">Pay with tokens on-chain</text>
+
+ <text x="325" y="170" text-anchor="middle" font-size="11" fill="#94a3b8">50-85% cheaper than AWS/Google Cloud</text>
+
+ <defs>
+ <marker id="acmp" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#22c55e"/></marker>
+ <marker id="acmp2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#3b82f6"/></marker>
+ </defs>
+</svg>
+</div>
+
 ## Key Projects
 
 ### Akash Network

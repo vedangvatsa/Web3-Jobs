@@ -65,6 +65,49 @@ The core idea: separate the **contract you call** (the proxy) from the **code th
 
 The user's experience never changes — they always interact with the same address. But the logic behind that address can be swapped.
 
+<div class="diagram">
+<svg viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+ <!-- User -->
+ <rect x="20" y="80" width="120" height="60" rx="10" fill="#f0f9ff" stroke="#3b82f6" stroke-width="2"/>
+ <text x="80" y="105" text-anchor="middle" font-size="13" fill="#1e40af">User</text>
+ <text x="80" y="122" text-anchor="middle" font-size="11" fill="#64748b">calls transfer()</text>
+
+ <!-- Arrow User → Proxy -->
+ <line x1="140" y1="110" x2="220" y2="110" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrowB)"/>
+
+ <!-- Proxy -->
+ <rect x="220" y="60" width="160" height="100" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+ <text x="300" y="90" text-anchor="middle" font-size="14" font-weight="600" fill="#1e40af">Proxy</text>
+ <text x="300" y="108" text-anchor="middle" font-size="11" fill="#64748b">Fixed address</text>
+ <text x="300" y="123" text-anchor="middle" font-size="11" fill="#64748b">Holds all storage</text>
+ <text x="300" y="148" text-anchor="middle" font-size="10" fill="#3b82f6">delegatecall →</text>
+
+ <!-- Arrow Proxy → Implementation -->
+ <line x1="380" y1="110" x2="460" y2="110" stroke="#22c55e" stroke-width="2" stroke-dasharray="6,3" marker-end="url(#arrowG)"/>
+
+ <!-- Implementation -->
+ <rect x="460" y="60" width="160" height="100" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+ <text x="540" y="90" text-anchor="middle" font-size="14" font-weight="600" fill="#166534">Implementation</text>
+ <text x="540" y="108" text-anchor="middle" font-size="11" fill="#64748b">Has the logic</text>
+ <text x="540" y="123" text-anchor="middle" font-size="11" fill="#64748b">Swappable</text>
+
+ <!-- Upgrade arrow -->
+ <rect x="660" y="80" width="120" height="60" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+ <text x="720" y="105" text-anchor="middle" font-size="12" font-weight="600" fill="#92400e">New Version</text>
+ <text x="720" y="120" text-anchor="middle" font-size="10" fill="#b45309">upgrade points here</text>
+ <path d="M660,110 L630,90" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowO)"/>
+
+ <!-- Label -->
+ <text x="400" y="200" text-anchor="middle" font-size="12" fill="#94a3b8">Runs implementation code, but reads/writes proxy storage</text>
+
+ <defs>
+ <marker id="arrowB" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#3b82f6"/></marker>
+ <marker id="arrowG" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#22c55e"/></marker>
+ <marker id="arrowO" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#f59e0b"/></marker>
+ </defs>
+</svg>
+</div>
+
 ## Common Proxy Patterns
 
 ### Transparent Proxy (OpenZeppelin)

@@ -102,6 +102,39 @@ Run the AI model inside a hardware enclave (Intel SGX, AMD SEV, ARM TrustZone) t
 
 Most production systems today use TEEs or opML because zkML is still too expensive for large models. But as ZK proof technology improves, the industry is moving toward fully trustless AI inference.
 
+<div class="diagram">
+<svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+ <text x="400" y="20" text-anchor="middle" font-size="13" font-weight="bold" fill="#666">Trust Spectrum: less trust needed →</text>
+
+ <rect x="30" y="40" width="200" height="80" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+ <text x="130" y="65" text-anchor="middle" font-size="13" font-weight="600" fill="#92400e">TEE</text>
+ <text x="130" y="82" text-anchor="middle" font-size="10" fill="#b45309">Trust: hardware vendor</text>
+ <text x="130" y="97" text-anchor="middle" font-size="10" fill="#b45309">Speed: fast</text>
+ <text x="130" y="112" text-anchor="middle" font-size="10" fill="#b45309">Cost: low</text>
+
+ <rect x="280" y="40" width="200" height="80" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+ <text x="380" y="65" text-anchor="middle" font-size="13" font-weight="600" fill="#1e40af">opML</text>
+ <text x="380" y="82" text-anchor="middle" font-size="10" fill="#3b82f6">Trust: honest challengers</text>
+ <text x="380" y="97" text-anchor="middle" font-size="10" fill="#3b82f6">Speed: medium</text>
+ <text x="380" y="112" text-anchor="middle" font-size="10" fill="#3b82f6">Cost: low</text>
+
+ <rect x="530" y="40" width="200" height="80" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+ <text x="630" y="65" text-anchor="middle" font-size="13" font-weight="600" fill="#166534">zkML</text>
+ <text x="630" y="82" text-anchor="middle" font-size="10" fill="#166534">Trust: math only</text>
+ <text x="630" y="97" text-anchor="middle" font-size="10" fill="#166534">Speed: slow</text>
+ <text x="630" y="112" text-anchor="middle" font-size="10" fill="#166534">Cost: high</text>
+
+ <line x1="230" y1="80" x2="280" y2="80" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#atrust)"/>
+ <line x1="480" y1="80" x2="530" y2="80" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#atrust)"/>
+
+ <text x="400" y="150" text-anchor="middle" font-size="11" fill="#94a3b8">Most production systems use TEE or opML today; zkML is the goal</text>
+
+ <defs>
+ <marker id="atrust" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#94a3b8"/></marker>
+ </defs>
+</svg>
+</div>
+
 ## Real-World Applications
 
 - **AI Oracles:** Protocols like ORA bring AI model outputs on-chain with verification, enabling smart contracts to use GPT-level intelligence.
