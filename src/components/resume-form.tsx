@@ -549,7 +549,7 @@ export function ResumeForm() {
      </div>
      {/* Preview Column */}
      <div>
-      <div className="sticky top-8">
+      <div className="sticky top-[72px]">
        <ResumePreview data={watchedForm as any} />
       </div>
      </div>
