@@ -1,61 +1,5 @@
 [
   {
-    "id": "luma-evt-Pud4pnH8MDpeOBs",
-    "name": "NYC Berkeley Alum & AI Builder Happy Hour + Keynote w/ NYC unicorn Cockroach Labs' Founder/CEO",
-    "description": "",
-    "startDate": "2026-05-19T22:00:00.000Z",
-    "endDate": "2026-05-20T01:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/9pmmfm2c",
-    "coverImage": "https://images.lumacdn.com/event-covers/tv/d89b7ad0-7683-408d-99c0-7e24adf97089.png",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
-    "id": "luma-evt-1LtHb4xA8oukqjl",
-    "name": "TBV & Aptos: NYC Meetup",
-    "description": "",
-    "startDate": "2026-05-19T22:00:00.000Z",
-    "endDate": "2026-05-20T01:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/NYC-meetup26",
-    "coverImage": "https://images.lumacdn.com/uploads/qv/56baa9f6-5f69-4ff2-8fa9-7eed3c7d8c62.gif",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
-    "id": "luma-evt-ipaud1kJZ2UZaHW",
-    "name": "Bitcoin Cash Toronto",
-    "description": "",
-    "startDate": "2026-05-19T22:00:00.000Z",
-    "endDate": "2026-05-20T01:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/daecj908",
-    "coverImage": "https://images.lumacdn.com/event-covers/ej/86d4c464-9f83-435b-bcbf-64439ff6022b.png",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
-    "id": "luma-evt-JHhdfThYoCpLL5X",
-    "name": "Understanding and Addressing Fairwashing in Machine Learning",
-    "description": "",
-    "startDate": "2026-05-19T23:00:00.000Z",
-    "endDate": "2026-05-20T01:00:00.000Z",
-    "city": "Montréal",
-    "country": "Canada",
-    "location": "Montréal, Canada",
-    "url": "https://lu.ma/057okge3",
-    "coverImage": "https://images.lumacdn.com/uploads/yx/201e8063-f36d-4a5c-979f-6a56eb17e970.png",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
     "id": "luma-evt-4WbR0Y0ME1eBABC",
     "name": "Crypto Founder & VC Happy Hour 🍻 Hosted by Kraken",
     "description": "",
@@ -112,6 +56,34 @@
     "month": "May 2026"
   },
   {
+    "id": "luma-evt-bn6brpY3FGmT3QT",
+    "name": "DTM Wake Up Call with Zaz Ventures, Extantia & Matterwave Ventures",
+    "description": "",
+    "startDate": "2026-05-20T06:00:00.000Z",
+    "endDate": "2026-05-20T08:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/sw7tz8wh",
+    "coverImage": "https://images.lumacdn.com/uploads/tt/929ce772-3589-4208-85fb-d6a07e1493de.png",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-RABIAOvoRVnhGF8",
+    "name": "Antidote Office Open Day! ⚡️",
+    "description": "",
+    "startDate": "2026-05-20T09:00:00.000Z",
+    "endDate": "2026-05-20T15:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/sqowcll0",
+    "coverImage": "https://images.lumacdn.com/event-covers/b3/8e8f233a-c0a6-4869-acbc-d2d901c0f3d8.jpg",
+    "source": "luma",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-host-evt-7JamotfwWXmBpW3",
     "name": "2nd Unofficial Solana and Friends Meetup, Bangkok Edition",
     "description": "Unofficial Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
@@ -137,6 +109,20 @@
     "url": "https://www.meetup.com/graphdb-baltimore/events/314655289/",
     "coverImage": "https://secure.meetupstatic.com/photos/event/7/f/e/3/600_534092739.jpeg",
     "source": "meetup",
+    "month": "May 2026"
+  },
+  {
+    "id": "luma-evt-6jMzP2jLAuEDPd3",
+    "name": "Foresight‘s AI Salon with Aurélien Nicolas | An architecture of trustable agents",
+    "description": "",
+    "startDate": "2026-05-20T16:00:00.000Z",
+    "endDate": "2026-05-20T19:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/7kzxj0uw",
+    "coverImage": "https://images.lumacdn.com/uploads/h0/b58e42cd-e3e6-4cb5-9120-63256764b95f.png",
+    "source": "luma",
     "month": "May 2026"
   },
   {
@@ -275,7 +261,7 @@
     "country": "",
     "location": "Virtual / TBA",
     "url": "https://lu.ma/qtck3h2d",
-    "coverImage": "https://images.lumacdn.com/uploads/h5/92246e35-9d23-4e5f-acb5-aed8dbcd2622.png",
+    "coverImage": "https://images.lumacdn.com/uploads/iu/fb160280-43be-4f8a-b115-d59190c6097f.png",
     "source": "luma-trusted",
     "month": "May 2026"
   },
@@ -798,22 +784,8 @@
     "month": "May 2026"
   },
   {
-    "id": "luma-evt-LsrAdm2yHzToAWh",
-    "name": "Eazo AI 2026 Global Hackathon: Silicon Valley | $300K Prize Pool (Mountain View, CA Only)",
-    "description": "",
-    "startDate": "2026-05-23T17:00:00.000Z",
-    "endDate": "2026-05-24T01:00:00.000Z",
-    "city": "Mountain View",
-    "country": "United States",
-    "location": "Mountain View, United States",
-    "url": "https://lu.ma/frw43jmv",
-    "coverImage": "https://images.lumacdn.com/uploads/uw/bba7637c-0dd8-421d-834a-808caef69784.png",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
     "id": "luma-evt-R1j4rMtYtIycU4D",
-    "name": "Greater Silicon Valley Robotics Robotics & Automation Luncheon",
+    "name": "Greater Silicon Valley Robotics & Automation Luncheon",
     "description": "",
     "startDate": "2026-05-23T18:00:00.000Z",
     "endDate": "2026-05-24T22:30:00.000Z",
@@ -1218,20 +1190,6 @@
     "month": "May 2026"
   },
   {
-    "id": "luma-evt-UUbuiARlP81y3AU",
-    "name": "CryptoMondays (Proof of Talk)",
-    "description": "",
-    "startDate": "2026-06-01T16:00:00.000Z",
-    "endDate": "2026-06-01T18:30:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/5r1vj6zl",
-    "coverImage": "https://images.lumacdn.com/event-covers/af/21d36905-f605-4b21-a496-449fc80d9881.png",
-    "source": "luma",
-    "month": "June 2026"
-  },
-  {
     "id": "luma-host-disccal-n6TM01HTzsnUHAl",
     "name": "Istanbul Blockchain Week",
     "description": "Explore side events at Istanbul Blockchain Week from June 2-3, where global blockchain enthusiasts and experts converge to discuss innovations and trends in the industry.",
@@ -1302,20 +1260,6 @@
     "month": "June 2026"
   },
   {
-    "id": "luma-evt-iVSPH4tFOz1gjOt",
-    "name": "2030: Every Asset Is Onchain. What's Your Move Today?",
-    "description": "",
-    "startDate": "2026-06-02T06:30:00.000Z",
-    "endDate": "2026-06-02T08:30:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/tbw_proof_of_talk",
-    "coverImage": "https://images.lumacdn.com/uploads/kx/38d18d98-8311-4b6c-871a-7ed7cef1695e.png",
-    "source": "luma",
-    "month": "June 2026"
-  },
-  {
     "id": "mu-314290209",
     "name": "Redefining Success – The Metrics That Matter",
     "description": "**Creating Your Own Business KPI’s**\nLet’s stop guessing at idealistic revenue goals and watching for social media post conversions. What if success looked and felt different — and better? We’ll be di",
@@ -1358,16 +1302,16 @@
     "month": "June 2026"
   },
   {
-    "id": "luma-evt-9u71rUpCyFUEpXJ",
-    "name": "Onchain Lunch at the Louvre with Rain",
+    "id": "luma-evt-nDhlygQQ0yXYaxG",
+    "name": "MetaMask Community Builder Night with UW Blockchain Society Seattle - US Edition",
     "description": "",
-    "startDate": "2026-06-03T10:30:00.000Z",
-    "endDate": "2026-06-03T12:00:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/z52vfylf",
-    "coverImage": "https://images.lumacdn.com/uploads/vk/01bbf413-2696-424e-a32e-b10e64739dab.png",
+    "startDate": "2026-06-03T01:00:00.000Z",
+    "endDate": "2026-06-03T03:00:00.000Z",
+    "city": "Seattle",
+    "country": "United States",
+    "location": "Seattle, United States",
+    "url": "https://lu.ma/cbnseattlejune",
+    "coverImage": "https://images.lumacdn.com/uploads/s9/6540bf72-d5e2-4883-aeb4-a23061d6e8e6.png",
     "source": "luma",
     "month": "June 2026"
   },
@@ -1396,6 +1340,20 @@
     "location": "Lisboa, Portugal",
     "url": "https://lu.ma/1ux7r3t2",
     "coverImage": "https://images.lumacdn.com/uploads/4g/1f6c900a-3c43-4ab5-9208-14e9011b36d1.png",
+    "source": "luma-trusted",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-host-evt-UCZWsE5DxCgCBkP",
+    "name": "Solana Career Day NYC",
+    "description": "",
+    "startDate": "2026-06-04T18:00:00.000Z",
+    "endDate": "2026-06-05T01:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/n09ixw34",
+    "coverImage": "https://images.lumacdn.com/event-covers/g7/0fc01b57-6622-4b85-94be-fdc63aa98591.png",
     "source": "luma-trusted",
     "month": "June 2026"
   },
