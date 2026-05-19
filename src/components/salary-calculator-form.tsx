@@ -358,7 +358,7 @@ export function SalaryCalculatorForm() {
         </div>
 
         <div className="md:col-span-2">
-          <div className="sticky top-24">
+          <div className="sticky top-[72px]">
           {isCalculated && estimatedSalary !== null ? (
           <Card className="bg-muted/30 border shadow-none transition-all duration-300 animate-in fade-in ">
             <CardHeader className="text-center">

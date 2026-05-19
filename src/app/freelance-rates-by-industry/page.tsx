@@ -166,7 +166,6 @@ export default function FreelanceRatesByIndustryPage() {
     <div className="container mx-auto px-4 py-8 md:py-16">
      <section className="text-center mb-12 max-w-4xl mx-auto">
       
-      <h1 className="sr-only">Freelance Rates by Industry</h1>
       <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
       <p className="mt-4 text-muted-foreground">
        Compare benchmark ranges by industry and estimate your pricing by experience,

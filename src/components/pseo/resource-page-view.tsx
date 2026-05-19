@@ -338,7 +338,7 @@ function ChecklistContent({ sections, slug }: { sections: Array<{ heading: strin
  return (
   <div className="space-y-14">
    {/* Progress bar */}
-   <div className="sticky top-0 z-10 bg-background/95 backdrop-blur-sm py-3 -mt-3 border-b">
+   <div className="sticky top-14 z-10 bg-background/95 backdrop-blur-sm py-3 -mt-3 border-b">
     <div className="flex items-center justify-between text-sm mb-2">
      <span className="font-medium">{done} of {total} complete ({pct}%)</span>
      {done > 0 && (
