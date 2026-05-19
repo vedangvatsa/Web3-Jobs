@@ -73,6 +73,28 @@ This has been used in dozens of DeFi exploits, including attacks on Harvest Fina
 
 More sophisticated attacks manipulate prices across multiple blocks. By bribing or controlling block producers (MEV), an attacker can sustain a fake price for long enough to trick TWAP oracles that average over short windows.
 
+<div class="diagram">
+<svg viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+ <!-- Spot price side -->
+ <text x="180" y="25" text-anchor="middle" font-size="14" font-weight="bold" fill="#ef4444">Spot Price Oracle</text>
+ <rect x="30" y="40" width="300" height="130" rx="10" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+ <text x="180" y="65" text-anchor="middle" font-size="11" fill="#374151">Block 100: ETH = $2,000</text>
+ <text x="180" y="85" text-anchor="middle" font-size="11" font-weight="600" fill="#ef4444">Block 101: ETH = $50 (flash loan attack!)</text>
+ <text x="180" y="105" text-anchor="middle" font-size="11" fill="#374151">Block 102: ETH = $2,000</text>
+ <text x="180" y="135" text-anchor="middle" font-size="12" fill="#ef4444">Reads $50 → protocol liquidates</text>
+ <text x="180" y="155" text-anchor="middle" font-size="12" fill="#ef4444">everyone at the wrong price</text>
+
+ <!-- TWAP side -->
+ <text x="600" y="25" text-anchor="middle" font-size="14" font-weight="bold" fill="#22c55e">TWAP Oracle (30 min avg)</text>
+ <rect x="450" y="40" width="300" height="130" rx="10" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
+ <text x="600" y="65" text-anchor="middle" font-size="11" fill="#374151">Averages 150 blocks of data</text>
+ <text x="600" y="85" text-anchor="middle" font-size="11" fill="#374151">1 manipulated block = tiny impact</text>
+ <text x="600" y="115" text-anchor="middle" font-size="12" font-weight="600" fill="#22c55e">TWAP reads $1,987</text>
+ <text x="600" y="135" text-anchor="middle" font-size="12" fill="#22c55e">Almost unchanged.</text>
+ <text x="600" y="155" text-anchor="middle" font-size="12" fill="#22c55e">Attack fails.</text>
+</svg>
+</div>
+
 ## Oracle Solutions
 
 ### Chainlink Price Feeds

@@ -99,6 +99,40 @@ Fractional ownership of real estate properties via tokens.
 
 The legal wrapper is the critical piece. Without proper legal structure, you are holding a token that *claims* to be backed by an asset, but has no enforceable legal claim. Always verify the legal structure.
 
+<div class="diagram">
+<svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+ <rect x="10" y="50" width="140" height="60" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+ <text x="80" y="75" text-anchor="middle" font-size="12" font-weight="600" fill="#92400e">Real Asset</text>
+ <text x="80" y="93" text-anchor="middle" font-size="10" fill="#b45309">$10M in T-Bills</text>
+
+ <line x1="150" y1="80" x2="200" y2="80" stroke="#f59e0b" stroke-width="1.5" marker-end="url(#arwa)"/>
+
+ <rect x="200" y="50" width="140" height="60" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+ <text x="270" y="75" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">SPV / Trust</text>
+ <text x="270" y="93" text-anchor="middle" font-size="10" fill="#3b82f6">Holds asset legally</text>
+
+ <line x1="340" y1="80" x2="390" y2="80" stroke="#3b82f6" stroke-width="1.5" marker-end="url(#arwa2)"/>
+
+ <rect x="390" y="50" width="140" height="60" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+ <text x="460" y="75" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">ERC-20 Token</text>
+ <text x="460" y="93" text-anchor="middle" font-size="10" fill="#22c55e">Minted on-chain</text>
+
+ <line x1="530" y1="80" x2="580" y2="80" stroke="#22c55e" stroke-width="1.5" marker-end="url(#arwa3)"/>
+
+ <rect x="580" y="50" width="140" height="60" rx="8" fill="#fdf2f8" stroke="#ec4899" stroke-width="2"/>
+ <text x="650" y="75" text-anchor="middle" font-size="12" font-weight="600" fill="#9d174d">DeFi</text>
+ <text x="650" y="93" text-anchor="middle" font-size="10" fill="#ec4899">Lend, trade, collateral</text>
+
+ <text x="400" y="140" text-anchor="middle" font-size="11" fill="#94a3b8">Token holders can redeem for underlying asset or cash equivalent</text>
+
+ <defs>
+ <marker id="arwa" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#f59e0b"/></marker>
+ <marker id="arwa2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#3b82f6"/></marker>
+ <marker id="arwa3" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#22c55e"/></marker>
+ </defs>
+</svg>
+</div>
+
 ## Risks
 
 - **Regulatory uncertainty:** Securities laws vary by jurisdiction, and many RWA tokens may be classified as securities.

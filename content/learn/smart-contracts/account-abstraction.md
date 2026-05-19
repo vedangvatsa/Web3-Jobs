@@ -98,6 +98,45 @@ ERC-4337 is the Ethereum standard for account abstraction, deployed on mainnet i
 5. If a Paymaster is specified, EntryPoint asks the Paymaster to cover gas.
 6. The operation executes.
 
+<div class="diagram">
+<svg viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+ <rect x="10" y="70" width="100" height="60" rx="8" fill="#f0f9ff" stroke="#3b82f6" stroke-width="2"/>
+ <text x="60" y="95" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">User</text>
+ <text x="60" y="112" text-anchor="middle" font-size="10" fill="#64748b">creates UserOp</text>
+
+ <line x1="110" y1="100" x2="170" y2="100" stroke="#3b82f6" stroke-width="1.5" marker-end="url(#a4337)"/>
+
+ <rect x="170" y="70" width="110" height="60" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+ <text x="225" y="95" text-anchor="middle" font-size="12" font-weight="600" fill="#92400e">Bundler</text>
+ <text x="225" y="112" text-anchor="middle" font-size="10" fill="#b45309">batches ops</text>
+
+ <line x1="280" y1="100" x2="340" y2="100" stroke="#f59e0b" stroke-width="1.5" marker-end="url(#a4337b)"/>
+
+ <rect x="340" y="70" width="120" height="60" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+ <text x="400" y="95" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">EntryPoint</text>
+ <text x="400" y="112" text-anchor="middle" font-size="10" fill="#64748b">validates + runs</text>
+
+ <line x1="460" y1="85" x2="520" y2="85" stroke="#22c55e" stroke-width="1.5" marker-end="url(#a4337c)"/>
+ <line x1="460" y1="115" x2="520" y2="115" stroke="#ec4899" stroke-width="1.5" marker-end="url(#a4337d)"/>
+
+ <rect x="520" y="50" width="120" height="40" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+ <text x="580" y="75" text-anchor="middle" font-size="11" font-weight="600" fill="#166534">Account</text>
+
+ <rect x="520" y="110" width="120" height="40" rx="8" fill="#fdf2f8" stroke="#ec4899" stroke-width="1.5"/>
+ <text x="580" y="135" text-anchor="middle" font-size="11" font-weight="600" fill="#9d174d">Paymaster</text>
+
+ <text x="680" y="75" font-size="10" fill="#64748b">verifies signer</text>
+ <text x="680" y="135" font-size="10" fill="#64748b">pays gas</text>
+
+ <defs>
+ <marker id="a4337" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#3b82f6"/></marker>
+ <marker id="a4337b" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#f59e0b"/></marker>
+ <marker id="a4337c" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#22c55e"/></marker>
+ <marker id="a4337d" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#ec4899"/></marker>
+ </defs>
+</svg>
+</div>
+
 ## Real-World Implementations
 
 ### Safe (formerly Gnosis Safe)

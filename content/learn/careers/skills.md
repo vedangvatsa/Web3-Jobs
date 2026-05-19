@@ -85,9 +85,32 @@ We analyzed thousands of Web3 job postings on our platform. Here are the skills 
 
 If you can explain DeFi to a non-technical person, you are more valuable than someone who knows Solidity but cannot communicate. This is rare and highly valued.
 
+## Where to learn each skill (free)
+
+| Skill | Best free resource | Time to learn |
+| --- | --- | --- |
+| Solidity | CryptoZombies (cryptozombies.io) | 2-3 weeks |
+| Solidity + testing | Speedrun Ethereum (speedrunethereum.com) | 4-6 weeks |
+| Foundry tooling | Foundry Book (book.getfoundry.sh) | 1-2 weeks |
+| React + wallet connection | wagmi docs (wagmi.sh) | 1 week |
+| On-chain data / SQL | Dune Analytics tutorials (dune.com/docs) | 1-2 weeks |
+| DeFi concepts | Finematics YouTube channel | 1 week |
+| General Web3 | This course + Ethereum.org | Ongoing |
+
+### Suggested 90-day learning path
+
+**Month 1 — Foundations:** Complete this course (Web3 Fundamentals). Set up MetaMask. Send a test transaction. Read the Ethereum whitepaper.
+
+**Month 2 — Specialization:** Pick your track:
+- *Engineers*: CryptoZombies → Speedrun Ethereum → deploy to a testnet
+- *Non-engineers*: Build a Dune dashboard → write 5 Twitter threads explaining protocols → join a DAO and vote on a proposal
+
+**Month 3 — Portfolio:** Build one real project. Push it to GitHub (engineers) or publish it publicly (non-engineers). Apply to your first 10 Web3 jobs.
+
 ## Key takeaways
 
 - Engineers: learn Solidity and TypeScript/React. That covers most roles.
 - Non-engineers: understand tokens, DeFi, and governance at a conversational level.
 - Self-direction and written communication are the top soft skills.
 - Being able to explain complex concepts simply is a competitive advantage.
+- Use the 90-day path: foundations → specialization → portfolio → apply.

@@ -81,9 +81,34 @@ Dedicated section for any crypto-related work: personal projects, open-source co
 ### 5. Skills
 Two columns: Technical (Solidity, React, Python) and Domain (DeFi, NFTs, tokenomics).
 
+## Before and after: resume summaries
+
+**Bad — generic, no specifics:**
+> "Passionate blockchain enthusiast seeking opportunities in the Web3 space. Experienced developer with strong problem-solving skills."
+
+This tells a hiring manager nothing. What did you build? What stack do you use? What role do you want?
+
+**Good — specific, shows proof:**
+> "Full-stack engineer, 4 years TypeScript/React. Built and deployed an NFT marketplace on Ethereum testnet (link). Contributed gas optimization PRs to OpenZeppelin. Looking for a frontend role at a DeFi protocol."
+
+Every claim is backed by a link. The role is specific. The reader knows exactly what you can do.
+
+**Good (non-engineer):**
+> "Community lead with 2 years managing 15K+ member Discord servers. Grew a DeFi protocol's Twitter from 3K to 25K followers in 6 months. Built Dune dashboards tracking protocol TVL and user retention. Looking for a Growth or Community role."
+
+## Common mistakes
+
+1. **Listing "blockchain" as a skill.** Too vague. Instead: "Solidity, Hardhat, ERC-20/721 standards, Foundry testing."
+2. **No links.** If you mention a project, link to it. GitHub, deployed URL, Dune dashboard, governance proposal — anything verifiable.
+3. **Applying with the same resume everywhere.** Swap the summary and the top 3 bullet points for each application. Match the job description's language.
+4. **Listing every token you own.** Nobody cares about your portfolio. They care about what you built with the technology.
+5. **Using buzzwords instead of numbers.** "Optimized smart contract gas usage" → "Reduced mint function gas cost from 85K to 52K gas (39% reduction)."
+
 ## Key takeaways
 
 - Reframe Web2 experience using Web3 terminology — your skills transfer.
 - Include links to GitHub, deployed projects, and Dune dashboards.
 - Keep it to 1-2 pages. Web3 hiring managers skim.
 - A dedicated "Web3 Projects" section proves you are active in the space.
+- Write a specific summary for each application — generic summaries get ignored.
+- Every claim on your resume should link to proof.

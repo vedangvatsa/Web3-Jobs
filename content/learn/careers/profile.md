@@ -90,9 +90,44 @@ Web3 cares less about where you went to school and more about what you have buil
 2. **Use a consistent handle** across Twitter, Discord, GitHub, and your wallet
 3. **Join DAOs** that interest you — even passive membership shows engagement
 
+## What a strong Web3 Twitter bio looks like
+
+**Weak:**
+> "Crypto enthusiast | DeFi lover | To the moon 🚀"
+
+This says nothing about what you do or what you are building. It looks like a bot.
+
+**Strong (engineer):**
+> "Solidity dev | Building on Arbitrum | Contributor @OpenZeppelin | vitalik.eth"
+
+**Strong (non-engineer):**
+> "Community @ [Protocol] | Previously grew Discord from 2K → 18K | Writing about DeFi governance | Open to CM roles"
+
+The difference: the strong bios tell you what the person does, what they have built, and what they want. A hiring manager scanning Twitter can immediately see if you are a fit.
+
+## What a strong GitHub profile looks like
+
+A good Web3 GitHub profile has:
+- **Pinned repos** — your 2-3 best projects, with clear README files
+- **Contribution graph** — shows you code regularly, not just once
+- **README on your profile page** — a short intro: who you are, what you work on, links to deployed projects
+- **Real project names** — "uniswap-v2-clone" tells more than "my-project-1"
+
+## Profile setup checklist
+
+| Step | Why it matters | Time |
+| --- | --- | --- |
+| Register an ENS name | On-chain identity, used in bios everywhere | 10 min |
+| Set up Twitter/X with clear bio | Where 80% of Web3 networking happens | 15 min |
+| Create or clean up GitHub profile | Engineers are judged by their repos | 30 min |
+| Join 2-3 Discord servers for protocols you use | Shows engagement, good for networking | 15 min |
+| Vote on 1 DAO proposal | Governance activity proves genuine interest | 10 min |
+| Build one Dune dashboard or deploy one contract | Your first portfolio piece | 2-4 hours |
+
 ## Key takeaways
 
 - Build something visible: a deployed contract, a Dune dashboard, or educational content.
 - GitHub activity matters more than certifications in Web3 hiring.
 - An ENS name and consistent social handle create a recognizable on-chain identity.
 - Participate in DAOs and governance — it shows genuine engagement.
+- Your Twitter bio and GitHub pinned repos are often the first things a hiring manager sees. Make them count.

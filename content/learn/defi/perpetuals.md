@@ -76,6 +76,39 @@ Since perps never expire, they need a mechanism to stay pegged to the underlying
 
 Funding is typically settled every 1-8 hours. This creates a continuous economic incentive that keeps the perp price close to spot.
 
+<div class="diagram">
+<svg viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+ <!-- Perp above spot -->
+ <text x="200" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#666">Perp price ABOVE spot</text>
+ <rect x="40" y="40" width="120" height="50" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+ <text x="100" y="60" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">Longs</text>
+ <text x="100" y="78" text-anchor="middle" font-size="10" fill="#166534">PAY →</text>
+ <rect x="240" y="40" width="120" height="50" rx="8" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
+ <text x="300" y="60" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">Shorts</text>
+ <text x="300" y="78" text-anchor="middle" font-size="10" fill="#1e40af">GET PAID</text>
+ <line x1="160" y1="65" x2="240" y2="65" stroke="#22c55e" stroke-width="2" marker-end="url(#apf)"/>
+ <text x="200" y="115" text-anchor="middle" font-size="11" fill="#64748b">Pushes perp price DOWN toward spot</text>
+
+ <!-- Perp below spot -->
+ <text x="600" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#666">Perp price BELOW spot</text>
+ <rect x="440" y="40" width="120" height="50" rx="8" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
+ <text x="500" y="60" text-anchor="middle" font-size="12" font-weight="600" fill="#1e40af">Shorts</text>
+ <text x="500" y="78" text-anchor="middle" font-size="10" fill="#1e40af">PAY →</text>
+ <rect x="640" y="40" width="120" height="50" rx="8" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
+ <text x="700" y="60" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">Longs</text>
+ <text x="700" y="78" text-anchor="middle" font-size="10" fill="#166534">GET PAID</text>
+ <line x1="560" y1="65" x2="640" y2="65" stroke="#3b82f6" stroke-width="2" marker-end="url(#apf2)"/>
+ <text x="600" y="115" text-anchor="middle" font-size="11" fill="#64748b">Pushes perp price UP toward spot</text>
+
+ <text x="400" y="165" text-anchor="middle" font-size="12" fill="#94a3b8">Result: perp price stays close to spot without any expiration date</text>
+
+ <defs>
+ <marker id="apf" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#22c55e"/></marker>
+ <marker id="apf2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#3b82f6"/></marker>
+ </defs>
+</svg>
+</div>
+
 ## Decentralized Perp Exchanges
 
 ### GMX (Arbitrum, Avalanche)
