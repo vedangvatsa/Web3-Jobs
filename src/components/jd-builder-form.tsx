@@ -310,7 +310,7 @@ export function JDBuilderForm() {
 
      {/* Preview Column */}
      <div>
-      <div className="sticky top-8">
+      <div className="sticky top-[72px]">
        <JDPreview data={watchedForm as any} />
       </div>
      </div>

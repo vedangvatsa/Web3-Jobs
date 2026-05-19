@@ -627,7 +627,7 @@ export function InvoiceForm() {
 
       {/* Preview Column */}
       <div className="lg:col-span-2">
-       <div className="sticky top-8">
+       <div className="sticky top-[72px]">
          <InvoicePreview data={watchedForm as any} />
        </div>
       </div>
