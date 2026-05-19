@@ -185,12 +185,11 @@ export default function InterviewQuestionBankPage() {
      <div className="container mx-auto px-4 py-8 md:py-16">
       <section className="text-center mb-12 max-w-4xl mx-auto">
         
-       <h1 className="sr-only">Web3 Interview Questions and Preparation Guide</h1>
        <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
       </section>
 
       <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
-       <aside className="md:col-span-3 md:sticky top-24 self-start">
+       <aside className="md:col-span-3 md:sticky top-[72px] self-start">
         <Card className="bg-card">
          <CardHeader>
            <CardTitle>Quick Navigation</CardTitle>
