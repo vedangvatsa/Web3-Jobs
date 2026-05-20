@@ -1,5 +1,125 @@
 [
   {
+    "id": "7940329",
+    "title": "Global Payments Experiences Engineering Manager",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7940329",
+    "date": "2026-05-20T12:30:30-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "188647ad-cfb9-42b4-b86b-1e78e0136eee",
+    "title": "Senior Counsel",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/188647ad-cfb9-42b4-b86b-1e78e0136eee",
+    "date": "2026-05-20T16:23:54.506+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "7736833003",
+    "title": "Affiliate Business Development Manager - MENA",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7736833003",
+    "date": "2026-05-20T11:08:39-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7920028",
+    "title": "Product Manager, Support Experience",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7920028",
+    "date": "2026-05-20T10:55:50-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7920219",
+    "title": "Staff Product Manager, Support Experience",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7920219",
+    "date": "2026-05-20T10:55:38-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7869917",
+    "title": "Product Lead, Support Experience",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7869917",
+    "date": "2026-05-20T10:55:30-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "79510344",
+    "title": "Head of Finance",
+    "company": "Arbitrum",
+    "link": "https://jobs.lever.co/offchainlabs/c2e07d80-1db8-446d-9d00-2a424f5798fa",
+    "date": "2026-05-20T14:12:40.000Z",
+    "source": "https://jobs.arbitrum.io/jobs"
+  },
+  {
+    "id": "5222435008",
+    "title": "Garden Education Nonprofit Leadership Fellow",
+    "company": "Sei",
+    "link": "https://www.seiinc.org/careers.html?gh_jid=5222435008",
+    "date": "2026-05-20T09:48:16-04:00",
+    "source": "Greenhouse: Sei"
+  },
+  {
+    "id": "c2e07d80-1db8-446d-9d00-2a424f5798fa",
+    "title": "Head of Finance",
+    "company": "Offchain Labs",
+    "link": "https://jobs.lever.co/offchainlabs/c2e07d80-1db8-446d-9d00-2a424f5798fa",
+    "date": "2026-05-20T13:47:54.134Z",
+    "source": "Lever: Offchain Labs"
+  },
+  {
+    "id": "4871893101",
+    "title": "[EU] Product Lead",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4871893101",
+    "date": "2026-05-20T09:25:36-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4856802101",
+    "title": "Contract Communications Manager (Maternity Leave Cover)",
+    "company": "GSR Markets",
+    "link": "https://job-boards.eu.greenhouse.io/gsrmarkets/jobs/4856802101",
+    "date": "2026-05-20T08:56:23-04:00",
+    "source": "Greenhouse: GSR Markets"
+  },
+  {
+    "id": "8557867002",
+    "title": "Data Investigations Analyst",
+    "company": "ComplyAdvantage",
+    "link": "https://complyadvantage.com/careers/jobs/8557867002?gh_jid=8557867002",
+    "date": "2026-05-20T08:39:28-04:00",
+    "source": "Greenhouse: ComplyAdvantage"
+  },
+  {
+    "id": "79471649",
+    "title": "Staff Security Architect",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/2bad131b-78ad-4266-8c18-7b035a11937d",
+    "date": "2026-05-20T12:09:54.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "79465142",
+    "title": "Legal Operations Lead",
+    "company": "Solana Foundation",
+    "link": "https://jobs.ashbyhq.com/Solana%20Foundation/29affe58-f30e-43f3-b74a-2e2b6346645c",
+    "date": "2026-05-20T11:55:20.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "79462265",
+    "title": "Product Manager - Payments",
+    "company": "Bitwave",
+    "link": "https://bitwave.breezy.hr/p/2ed37b21bf06-product-manager-payments",
+    "date": "2026-05-20T11:45:40.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
     "id": "79458803",
     "title": "Senior Web Developer (Contractor)",
     "company": "OpenZeppelin",
@@ -46,6 +166,22 @@
     "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/3b65b174-a1b6-4ca1-b6ad-a5add0670d2e",
     "date": "2026-05-20T11:04:31.000Z",
     "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "91a89fed-30c5-49bb-9f29-602a5c14e748",
+    "title": "Binance Accelerator Program - Blockchain / Smart Contract Security",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/91a89fed-30c5-49bb-9f29-602a5c14e748",
+    "date": "2026-05-20T10:58:43.574Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "79445854",
+    "title": "Channel Partner Manager, EMEA",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/226a9483-eff5-4175-be4e-8cf0702a13b2?embed=js",
+    "date": "2026-05-20T10:34:11.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "79443894",
@@ -194,6 +330,14 @@
   {
     "id": "35043143-bd74-474b-b068-e78f15f35f11",
     "title": "Lead All Source Investigator",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/35043143-bd74-474b-b068-e78f15f35f11",
+    "date": "2026-05-19T21:59:48.658+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "35043143-bd74-474b-b068-e78f15f35f11",
+    "title": "Lead All Source Investigator (DC, MD, VA only)",
     "company": "TRM Labs",
     "link": "https://jobs.ashbyhq.com/trm-labs/35043143-bd74-474b-b068-e78f15f35f11",
     "date": "2026-05-19T21:59:48.658+00:00",
@@ -7040,6 +7184,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "7895467",
+    "title": "Staff Full Stack Engineer, Identity",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7895467",
+    "date": "2026-05-06T18:03:30-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "7901507",
     "title": "Senior Applications Engineer, Corporate Systems",
     "company": "Robinhood",
@@ -7352,6 +7504,14 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "4861011101",
+    "title": "[EU] Payments Principle Product Specialist",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4861011101",
+    "date": "2026-05-06T13:50:28-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "7815904",
     "title": "Senior Software Engineer II",
     "company": "Guild",
@@ -7416,6 +7576,14 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "4860987101",
+    "title": "[L&C] Licensing Counsel",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860987101",
+    "date": "2026-05-06T13:07:34-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "7899517",
     "title": "Product Marketing Manager",
     "company": "Foundry",
@@ -7448,8 +7616,24 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "4860957101",
+    "title": "[L&C] Regulatory Counsel, Tradfi",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860957101",
+    "date": "2026-05-06T12:35:10-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "4860945101",
     "title": "Payment Counsel",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860945101",
+    "date": "2026-05-06T12:20:14-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4860945101",
+    "title": "[L&C] Payment Counsel",
     "company": "Bybit",
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860945101",
     "date": "2026-05-06T12:20:14-04:00",
@@ -7666,6 +7850,14 @@
   {
     "id": "4860651101",
     "title": "Lead Corporate Counsel",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860651101",
+    "date": "2026-05-06T08:37:47-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4860651101",
+    "title": "[L&C] Lead Corporate Counsel",
     "company": "Bybit",
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860651101",
     "date": "2026-05-06T08:37:47-04:00",
@@ -28316,6 +28508,14 @@
     "source": "Jobs | Avalanche Job Board"
   },
   {
+    "id": "7862122",
+    "title": "Revenue and Technical Accounting Manager",
+    "company": "Brave",
+    "link": "https://job-boards.greenhouse.io/brave/jobs/7862122",
+    "date": "2026-04-28T11:29:40-04:00",
+    "source": "Greenhouse: Brave"
+  },
+  {
     "id": "7825578",
     "title": "Account Executive - Enterprise Germany",
     "company": "Stripe",
@@ -29489,53 +29689,5 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7607568",
     "date": "2026-04-20T12:57:53-04:00",
     "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7832098",
-    "title": "Product Marketing Manager, Portfolio Pricing",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7832098",
-    "date": "2026-04-20T11:45:46-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/ae1a07c1-c971-403c-906b-79d8c16e4f2d",
-    "title": "Binance Accelerator Program - Applied Data Scientist",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/ae1a07c1-c971-403c-906b-79d8c16e4f2d",
-    "date": "2026-04-20T15:21:59.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7827182",
-    "title": "Professional Services Engagement Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7827182",
-    "date": "2026-04-20T09:54:00-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7822560",
-    "title": "Strategic Program Manager, Support",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7822560",
-    "date": "2026-04-20T09:53:42-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7826761",
-    "title": "Software Engineer, Security Analytics Infrastructure",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7826761",
-    "date": "2026-04-20T09:35:49-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7831466",
-    "title": "Growth Marketing Manager",
-    "company": "Spire",
-    "link": "https://spire.com/careers/job-openings/job/?gh_jid=7831466&gh_jid=7831466",
-    "date": "2026-04-20T09:19:05-04:00",
-    "source": "Greenhouse: Spire"
   }
 ]
