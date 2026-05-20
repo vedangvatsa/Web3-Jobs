@@ -1,5 +1,37 @@
 [
   {
+    "id": "5591d4cf-38fc-424a-adca-689af3ba80a5",
+    "title": "Senior Creator Ecosystem Manager – Binance Square",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/5591d4cf-38fc-424a-adca-689af3ba80a5",
+    "date": "2026-05-20T02:16:42.077Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "14352500-fa6d-426a-8491-13e1306aabe0",
+    "title": "Sales Engineer",
+    "company": "Artemis",
+    "link": "https://jobs.ashbyhq.com/artemis/14352500-fa6d-426a-8491-13e1306aabe0",
+    "date": "2026-05-20T02:06:16.495+00:00",
+    "source": "Ashby: Artemis"
+  },
+  {
+    "id": "7925163",
+    "title": "Senior Customer Partner Success Manager",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7925163?gh_jid=7925163",
+    "date": "2026-05-19T20:24:33-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7741041003",
+    "title": "Specialist, Customer Service (English)",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7741041003",
+    "date": "2026-05-19T20:20:55-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "8557034002",
     "title": "Infrastructure Engineer - DataOps Team",
     "company": "BitGo",
@@ -176,6 +208,14 @@
     "source": "Ashby: Cantina"
   },
   {
+    "id": "7061225a-6116-4d95-b556-fb6f95b0ebb8",
+    "title": "Kotlin Multiplatform Engineer (Senior-Staff Levels)",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/7061225a-6116-4d95-b556-fb6f95b0ebb8",
+    "date": "2026-05-19T16:54:31.564+00:00",
+    "source": "Ashby: Cantina"
+  },
+  {
     "id": "79330468",
     "title": "Accounting Manager",
     "company": "Ripple",
@@ -186,6 +226,14 @@
   {
     "id": "fe6f588d-70c4-4699-8c95-e20b472e2432",
     "title": "Android Engineer (Senior to Staff level)",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/fe6f588d-70c4-4699-8c95-e20b472e2432",
+    "date": "2026-05-19T16:44:48.031+00:00",
+    "source": "Ashby: Cantina"
+  },
+  {
+    "id": "fe6f588d-70c4-4699-8c95-e20b472e2432",
+    "title": "Android Engineer (Senior-Staff Levels)",
     "company": "Cantina",
     "link": "https://jobs.ashbyhq.com/cantina/fe6f588d-70c4-4699-8c95-e20b472e2432",
     "date": "2026-05-19T16:44:48.031+00:00",
@@ -282,6 +330,14 @@
   {
     "id": "0cdcc6a1-0187-4bde-9e26-55039517f5db",
     "title": "Senior Backend Engineer",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/0cdcc6a1-0187-4bde-9e26-55039517f5db",
+    "date": "2026-05-19T14:12:52.017+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "0cdcc6a1-0187-4bde-9e26-55039517f5db",
+    "title": "Senior Backend Engineer, API",
     "company": "Polymarket",
     "link": "https://jobs.ashbyhq.com/Polymarket/0cdcc6a1-0187-4bde-9e26-55039517f5db",
     "date": "2026-05-19T14:12:52.017+00:00",
@@ -690,6 +746,14 @@
   {
     "id": "7737030003",
     "title": "Arabic Language Manager",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7737030003",
+    "date": "2026-05-19T02:08:27-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7737030003",
+    "title": "Arabic Language Manager - MENA Remote",
     "company": "OKX",
     "link": "https://job-boards.greenhouse.io/okx/jobs/7737030003",
     "date": "2026-05-19T02:08:27-04:00",
@@ -29345,20 +29409,5 @@
     "link": "https://www.fireblocks.com/careers/position/4674505006?gh_jid=4674505006",
     "date": "2026-04-20T04:41:23-04:00",
     "source": "Greenhouse: Fireblocks"
-  },
-  {
-    "id": "3206c4ba-a9d8-439d-897e-ecd8b34ea337",
-    "title": "Web/ Web Full-Stack Engineer(Mantra Engine)",
-    "company": "MANTRA",
-    "link": "https://jobs.lever.co/mantra/3206c4ba-a9d8-439d-897e-ecd8b34ea337",
-    "date": "2026-04-20T03:28:39.716Z",
-    "source": "Lever: MANTRA"
-  },
-  {
-    "title": "Finance Assistant - FTC (3 Months)",
-    "company": "Blast",
-    "link": "https://apply.workable.com/blast/j/undefined/",
-    "date": "2026-04-20",
-    "source": "Workable: Blast"
   }
 ]
