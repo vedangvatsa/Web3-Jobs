@@ -1,33 +1,5 @@
 [
   {
-    "id": "luma-evt-YIW2BZeyo7UhOlv",
-    "name": "Solana Incubator Demo Day (Cohort 4)",
-    "description": "",
-    "startDate": "2026-05-20T20:00:00.000Z",
-    "endDate": "2026-05-20T23:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/p18fyyxx",
-    "coverImage": "https://images.lumacdn.com/uploads/06/abaab247-ebea-4052-8f17-15fa40d707d8.png",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
-    "id": "luma-host-evt-YIW2BZeyo7UhOlv",
-    "name": "Solana Incubator Demo Day (Cohort 4)",
-    "description": "Events for the Solana ecosystem in NYC 🗽",
-    "startDate": "2026-05-20T20:00:00.000Z",
-    "endDate": "2026-05-20T23:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/p18fyyxx",
-    "coverImage": "https://images.lumacdn.com/uploads/06/abaab247-ebea-4052-8f17-15fa40d707d8.png",
-    "source": "luma-trusted",
-    "month": "May 2026"
-  },
-  {
     "id": "luma-evt-ameQogASNcDbDUx",
     "name": "Thrive Forward: Leaders' Forum",
     "description": "",
@@ -46,7 +18,7 @@
     "name": "Designing DeFi: Happy Hour",
     "description": "",
     "startDate": "2026-05-20T22:00:00.000Z",
-    "endDate": "2026-05-20T23:30:00.000Z",
+    "endDate": "2026-05-21T00:00:00.000Z",
     "city": "New York",
     "country": "United States",
     "location": "New York, United States",
@@ -98,16 +70,30 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-314285083",
+    "id": "mu-314285133",
     "name": "Hiero Heka: A Ready-To-Use Decentralized Identity Solution",
     "description": "The Heka Identity Platform is a ready-to-use decentralized identity (aka Self-Sovereign Identity or SSI) solution for the Hiero ecosystem. The project delivers a complete set of applications and tools",
-    "startDate": "2026-05-21T09:00:00-06:00",
-    "endDate": "2026-05-21T09:00:00-06:00",
+    "startDate": "2026-05-21T08:00:00-07:00",
+    "endDate": "2026-05-21T08:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-denver/events/314285083/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/8/1/9/600_533722553.jpeg",
+    "url": "https://www.meetup.com/lfdt-sf/events/314285133/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/6/6/6/600_533722118.jpeg",
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314285079",
+    "name": "Hiero Heka: A Ready-To-Use Decentralized Identity Solution",
+    "description": "The Heka Identity Platform is a ready-to-use decentralized identity (aka Self-Sovereign Identity or SSI) solution for the Hiero ecosystem. The project delivers a complete set of applications and tools",
+    "startDate": "2026-05-21T08:00:00-07:00",
+    "endDate": "2026-05-21T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-silicon-valley/events/314285079/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/8/2/1/600_533722561.jpeg",
     "source": "meetup",
     "month": "May 2026"
   },
@@ -319,6 +305,20 @@
     "url": "https://lu.ma/glokpvry",
     "coverImage": "https://images.lumacdn.com/uploads/h1/c8524a99-e997-4a3b-b0db-1fd501cb85e5.png",
     "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314741717",
+    "name": "Noche de Español: Cultura, Juegos Y Buena Vibra. May 21st",
+    "description": "Bienvenidos a Noche de Español! Un meet-up relajado y divertido donde la cultura, los juegos y la conversación en Español se combinan para crear una experiencia única. Aquí no importa tu nivel de espa",
+    "startDate": "2026-05-21T18:30:00-07:00",
+    "endDate": "2026-05-21T18:30:00-07:00",
+    "city": "Oakland",
+    "country": "US",
+    "location": "Oakland, US",
+    "url": "https://www.meetup.com/meet-up-en-espanol/events/314741717/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/3/6/e/d/600_531494061.jpeg",
+    "source": "meetup",
     "month": "May 2026"
   },
   {
@@ -700,6 +700,20 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-314637070",
+    "name": "Build the Future: AI, Spatial & Android",
+    "description": "The Google I/O After-Party for AI & Spatial Devs\nThe I/O keynotes are over. Now, let’s build the future.\n\nInnovation is moving off the screen and into the room. Join GDG San Francisco and PICO for an ",
+    "startDate": "2026-05-22T17:00:00-07:00",
+    "endDate": "2026-05-22T17:00:00-07:00",
+    "city": "San Francisco",
+    "country": "us",
+    "location": "San Francisco, us",
+    "url": "https://www.meetup.com/gdgsanfrancisco/events/314637070/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/8/b/f/600_534086815.jpeg",
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-host-evt-mIUQCXlmq4yI11x",
     "name": "| Blockchain X Quantum | Hackathon",
     "description": "Superteam Ireland is the Irish chapter of the global Superteam network.\n\nWe’re a community of founders, engineers, operators, and creators building on Solana.",
@@ -756,6 +770,20 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-314634764",
+    "name": "Berkeley - Bitcoin Meetup ",
+    "description": "Come meet us at [Espresso Roma Cafe ](https://www.yelp.com/biz/espresso-roma-cafe-berkeley)for tea with other bitcoiners! This is a casual event to meet other local bitcoiners on the weekend (Saturday",
+    "startDate": "2026-05-23T14:00:00-07:00",
+    "endDate": "2026-05-23T14:00:00-07:00",
+    "city": "Berkeley",
+    "country": "us",
+    "location": "Berkeley, us",
+    "url": "https://www.meetup.com/bay-area-bitcoiners/events/314634764/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/1/9/b/8/600_518586584.jpeg",
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-host-evt-fBHwwkRqGAkoD17",
     "name": "Oracle & Chainlink Fundamentals: Connecting Web3 to the Real World",
     "description": "Find your local meetup on the Chainlink Community Global Events Calendar",
@@ -781,6 +809,20 @@
     "url": "https://lu.ma/143ghkgg",
     "coverImage": "https://images.lumacdn.com/uploads/b8/7170240b-663f-467d-9fe2-cbf34331c06a.jpg",
     "source": "luma",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314695791",
+    "name": "Corte Madera - Bitcoin Meetup",
+    "description": "If this is your first time at one of our meetups, we have a simple guideline to enhance everyone’s experience:\n\n* Our meetups and events have a singular focus: Bitcoin. All of our topics and discussio",
+    "startDate": "2026-05-24T16:00:00-07:00",
+    "endDate": "2026-05-24T16:00:00-07:00",
+    "city": "Corte Madera",
+    "country": "us",
+    "location": "Corte Madera, us",
+    "url": "https://www.meetup.com/bay-area-bitcoiners/events/314695791/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/8/1/5/600_528490261.jpeg",
+    "source": "meetup",
     "month": "May 2026"
   },
   {
@@ -821,7 +863,7 @@
     "country": "Canada",
     "location": "Toronto, Canada",
     "url": "https://lu.ma/q5kq85kx",
-    "coverImage": "https://images.lumacdn.com/event-covers/60/6bdb5302-0ad6-449d-8c73-c7c8e1296237.png",
+    "coverImage": "https://images.lumacdn.com/uploads/no/fa7c62de-1123-413c-b445-19f98e5c6f34.png",
     "source": "luma",
     "month": "May 2026"
   },
@@ -837,6 +879,20 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-may-tokyo-jp",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314870756",
+    "name": "Web3 and AI networking at The Rose & Crown",
+    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
+    "startDate": "2026-05-25T18:30:00-07:00",
+    "endDate": "2026-05-25T18:30:00-07:00",
+    "city": "Palo Alto",
+    "country": "us",
+    "location": "Palo Alto, us",
+    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/314870756/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/c/4/a/1/600_473750337.jpeg",
+    "source": "meetup",
     "month": "May 2026"
   },
   {
@@ -910,16 +966,30 @@
     "month": "May 2026"
   },
   {
-    "id": "mu-313873101",
+    "id": "mu-313873073",
     "name": "Enabling Anyone to Build and Operate Decentralized Networks with Hiero",
     "description": "Join us for a meetup exploring Hiero ([https://github.com/hiero-ledger](https://github.com/hiero-ledger)), an open-source, vendor-neutral distributed ledger technology (DLT) stack that powers the Hede",
-    "startDate": "2026-05-26T10:00:00-06:00",
-    "endDate": "2026-05-26T10:00:00-06:00",
+    "startDate": "2026-05-26T09:00:00-07:00",
+    "endDate": "2026-05-26T09:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-denver/events/313873101/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/a/5/600_534180165.jpeg",
+    "url": "https://www.meetup.com/lfdt-sf/events/313873073/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/f/600_534180223.jpeg",
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-313873122",
+    "name": "Enabling Anyone to Build and Operate Decentralized Networks with Hiero",
+    "description": "Join us for a meetup exploring Hiero ([https://github.com/hiero-ledger](https://github.com/hiero-ledger)), an open-source, vendor-neutral distributed ledger technology (DLT) stack that powers the Hede",
+    "startDate": "2026-05-26T09:00:00-07:00",
+    "endDate": "2026-05-26T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-silicon-valley/events/313873122/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/600_534180222.jpeg",
     "source": "meetup",
     "month": "May 2026"
   },
@@ -938,6 +1008,20 @@
     "month": "May 2026"
   },
   {
+    "id": "mu-314669098",
+    "name": "How You Can Generate Yield with Bitcoin and RIAs Can Earn a 2% Management Fee",
+    "description": "RIAs, if your clients want to generate yield with their Bitcoin holdings, or you have questions about Bitcoin, then this webinar is for you.\n\nEvery week I answer your questions about Bitcoin.\n\nI will ",
+    "startDate": "2026-05-26T18:00:00-07:00",
+    "endDate": "2026-05-26T18:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/bitcoin-faq/events/314669098/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/e/3/4/d/600_525598189.jpeg",
+    "source": "meetup",
+    "month": "May 2026"
+  },
+  {
     "id": "luma-host-evt-zCQ7GvxdpahEMkB",
     "name": "Link Lab: AI-Native Building with Chainlink",
     "description": "Find your local meetup on the Chainlink Community Global Events Calendar",
@@ -949,6 +1033,20 @@
     "url": "https://lu.ma/LinkLabAI",
     "coverImage": "https://images.lumacdn.com/uploads/1m/141a1d7d-b23b-4578-9d2a-1b0a9f83a477.png",
     "source": "luma-trusted",
+    "month": "May 2026"
+  },
+  {
+    "id": "mu-314665404",
+    "name": "Crypto Wallets That Work — Free Virtual Event for Tech Professionals",
+    "description": "Most people who own crypto have never actually used it to pay for something. This meetup is for the people ready to change that.\nWe are hosting a free virtual roundtable for tech professionals, entrep",
+    "startDate": "2026-05-27T09:00:00-07:00",
+    "endDate": "2026-05-27T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/global-ai-makers-san-francisco/events/314665404/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/a/5/5/5/600_534102325.jpeg",
+    "source": "meetup",
     "month": "May 2026"
   },
   {
@@ -1134,20 +1232,6 @@
     "month": "May 2026"
   },
   {
-    "id": "luma-evt-KJ5rWFAQHv4RlJr",
-    "name": "Plant It Forward : Vancouver",
-    "description": "",
-    "startDate": "2026-05-30T17:00:00.000Z",
-    "endDate": "2026-05-30T19:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/l1d9prxb",
-    "coverImage": "https://images.lumacdn.com/uploads/m9/ebec4ec5-d185-4d93-a8ab-0e78cff9e7f2.png",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
     "id": "luma-host-disccal-n6TM01HTzsnUHAl",
     "name": "Istanbul Blockchain Week",
     "description": "Explore side events at Istanbul Blockchain Week from June 2-3, where global blockchain enthusiasts and experts converge to discuss innovations and trends in the industry.",
@@ -1190,16 +1274,16 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314290221",
+    "id": "mu-314290215",
     "name": "Redefining Success – The Metrics That Matter",
     "description": "**Creating Your Own Business KPI’s**\nLet’s stop guessing at idealistic revenue goals and watching for social media post conversions. What if success looked and felt different — and better? We’ll be di",
-    "startDate": "2026-06-02T07:00:00-06:00",
-    "endDate": "2026-06-02T07:00:00-06:00",
+    "startDate": "2026-06-02T06:00:00-07:00",
+    "endDate": "2026-06-02T06:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/collaberex-self-development-business-community-denver/events/314290221/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/4/f/3/600_534089939.jpeg",
+    "url": "https://www.meetup.com/collaberex-self-development-business-community-san-francisco/events/314290215/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/5/0/2/600_534089954.jpeg",
     "source": "meetup",
     "month": "June 2026"
   },
@@ -1246,16 +1330,30 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314584635",
+    "id": "mu-314584696",
     "name": "Quantum Threat Landscape: Where We Stand and How to Prepare",
     "description": "Quantum computing is no longer a distant threat. Improvements in hardware design, new algorithmic breakthroughs, and expert surveys now put a cryptographically-relevant quantum computer sooner than th",
-    "startDate": "2026-06-04T09:00:00-06:00",
-    "endDate": "2026-06-04T09:00:00-06:00",
+    "startDate": "2026-06-04T08:00:00-07:00",
+    "endDate": "2026-06-04T08:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-denver/events/314584635/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/f/8/5/600_534088549.jpeg",
+    "url": "https://www.meetup.com/lfdt-sf/events/314584696/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/f/a/f/600_534088591.jpeg",
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314584648",
+    "name": "Quantum Threat Landscape: Where We Stand and How to Prepare",
+    "description": "Quantum computing is no longer a distant threat. Improvements in hardware design, new algorithmic breakthroughs, and expert surveys now put a cryptographically-relevant quantum computer sooner than th",
+    "startDate": "2026-06-04T08:00:00-07:00",
+    "endDate": "2026-06-04T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-silicon-valley/events/314584648/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/f/e/0/600_534088640.jpeg",
     "source": "meetup",
     "month": "June 2026"
   },
@@ -1299,20 +1397,6 @@
     "url": "https://conferenceindex.org/event/bitcoin-filmfest-bff-2026-june-warsaw-pl",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-314283669",
-    "name": "Vector Types: defining partially constexpr composable types -- Scott Rytting",
-    "description": "An exploration of how to make strong, useful product types with as much done at compile time as possible. Hopefully getting lots of performance, modular code, and constexpr-correctness along the way!\n",
-    "startDate": "2026-06-04T18:00:00-06:00",
-    "endDate": "2026-06-04T18:00:00-06:00",
-    "city": "Westminster",
-    "country": "us",
-    "location": "Westminster, us",
-    "url": "https://www.meetup.com/north-denver-metro-c-meetup/events/314283669/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/e/4/f/3/600_487498611.jpeg",
-    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -1442,31 +1526,31 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314651650",
+    "id": "mu-314651613",
     "name": "Lineth Overview & Use Cases: Inside the Production-Grade ZK Rollup Stack",
     "description": "[With the announcement of Lineth joining Linux Foundation Decentralized Trust as an incubating project](https://www.lfdecentralizedtrust.org/blog/announcing-lineth-a-production-grade-zk-rollup-stack-j",
-    "startDate": "2026-06-10T07:00:00-06:00",
-    "endDate": "2026-06-10T07:00:00-06:00",
+    "startDate": "2026-06-10T06:00:00-07:00",
+    "endDate": "2026-06-10T06:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-denver/events/314651650/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/8/c/b/600_534326827.jpeg",
+    "url": "https://www.meetup.com/lfdt-silicon-valley/events/314651613/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/8/b/b/600_534326811.jpeg",
     "source": "meetup",
     "month": "June 2026"
   },
   {
-    "id": "luma-host-evt-NpmRSGuw8pXqAMJ",
-    "name": "Digital Asset Yield Summit New York",
-    "description": "The world's best on-chain yield events. Connecting yield, networks, and capital.",
-    "startDate": "2026-06-11T13:00:00.000Z",
-    "endDate": "2026-06-11T22:00:00.000Z",
-    "city": "New York",
+    "id": "luma-evt-TZdOTg6R7gSCfPA",
+    "name": "Orange County Semiconductor Leadership Group Launch Event",
+    "description": "",
+    "startDate": "2026-06-10T21:00:00.000Z",
+    "endDate": "2026-06-11T00:00:00.000Z",
+    "city": "Fullerton",
     "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/digital-asset-yield-summit-new-york",
-    "coverImage": "https://images.lumacdn.com/event-covers/qr/e028f339-05e1-48d7-8912-5abd7cecbf50.png",
-    "source": "luma-trusted",
+    "location": "Fullerton, United States",
+    "url": "https://lu.ma/mrwdyume",
+    "coverImage": "https://images.lumacdn.com/event-covers/dv/705b2c35-1fdc-43e5-a4d7-6b6d90a5502e.png",
+    "source": "luma",
     "month": "June 2026"
   },
   {
@@ -1494,20 +1578,6 @@
     "location": "Prague, Czechia",
     "url": "https://lu.ma/btc-prague",
     "coverImage": "https://images.unsplash.com/photo-1549041490-f64d74264d25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxMXx8cHJhZ3VlfGVufDB8fHx8MTcyOTQzODgwNXwy&ixlib=rb-4.0.3&q=80&w=1080",
-    "source": "luma-trusted",
-    "month": "June 2026"
-  },
-  {
-    "id": "luma-host-evt-Qm3jiCrG5WYct6j",
-    "name": "Hyperliquid Forum - New York",
-    "description": "The world's best on-chain yield events. Connecting yield, networks, and capital.",
-    "startDate": "2026-06-11T18:00:00.000Z",
-    "endDate": "2026-06-11T23:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/hyperliquid-forum-ny",
-    "coverImage": "https://images.lumacdn.com/event-covers/pa/421b824e-df06-43ad-964a-c7969e2ddac6.png",
     "source": "luma-trusted",
     "month": "June 2026"
   },
@@ -2201,13 +2271,27 @@
     "id": "luma-host-evt-fPYLSOuT8iZ9pgf",
     "name": "Digital Asset Yield Summit Singapore",
     "description": "The world's best on-chain yield events. Connecting yield, networks, and capital.",
-    "startDate": "2026-10-05T01:00:00.000Z",
+    "startDate": "2026-10-06T01:00:00.000Z",
     "endDate": "2026-10-06T10:00:00.000Z",
     "city": "",
     "country": "Singapore",
     "location": "Singapore",
     "url": "https://lu.ma/digital-asset-yield-summit-singapore",
     "coverImage": "https://images.lumacdn.com/event-covers/oi/55cd57a0-31cc-47aa-8eea-e5eb78bbab95.png",
+    "source": "luma-trusted",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-host-evt-Qm3jiCrG5WYct6j",
+    "name": "Hyperliquid Forum - Singapore",
+    "description": "The world's best on-chain yield events. Connecting yield, networks, and capital.",
+    "startDate": "2026-10-06T06:00:00.000Z",
+    "endDate": "2026-10-06T11:00:00.000Z",
+    "city": "",
+    "country": "Singapore",
+    "location": "Singapore",
+    "url": "https://lu.ma/hyperliquid-forum-ny",
+    "coverImage": "https://images.lumacdn.com/event-covers/pa/421b824e-df06-43ad-964a-c7969e2ddac6.png",
     "source": "luma-trusted",
     "month": "October 2026"
   },
