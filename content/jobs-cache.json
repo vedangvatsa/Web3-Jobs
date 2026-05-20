@@ -1,5 +1,53 @@
 [
   {
+    "id": "7947510",
+    "title": "Consumer Product Marketing Lead, Link",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7947510",
+    "date": "2026-05-20T15:20:07-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "f7911669-be59-467e-b4ff-355faddafeda",
+    "title": "Executive Assistant, Legal",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/f7911669-be59-467e-b4ff-355faddafeda",
+    "date": "2026-05-20T19:19:56.865+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "79560093",
+    "title": "Platform Lead",
+    "company": "PL Job Board",
+    "link": "https://jobs.polychain.capital/companies/pl-job-board/jobs/79560093-platform-lead",
+    "date": "2026-05-20T19:02:13.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
+    "id": "7947422",
+    "title": "Product Manager, Ecosystem Risk",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7947422",
+    "date": "2026-05-20T14:40:34-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7921701",
+    "title": "Account Executive, Startups - Core Grower",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7921701",
+    "date": "2026-05-20T13:00:57-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4692987005",
+    "title": "Trader",
+    "company": "DV Trading",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4692987005",
+    "date": "2026-05-20T12:51:36-04:00",
+    "source": "Greenhouse: DV Trading"
+  },
+  {
     "id": "7940329",
     "title": "Global Payments Experiences Engineering Manager",
     "company": "Stripe",
@@ -10,6 +58,14 @@
   {
     "id": "188647ad-cfb9-42b4-b86b-1e78e0136eee",
     "title": "Senior Counsel",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/188647ad-cfb9-42b4-b86b-1e78e0136eee",
+    "date": "2026-05-20T16:23:54.506+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "188647ad-cfb9-42b4-b86b-1e78e0136eee",
+    "title": "Senior Legal Counsel",
     "company": "TRM Labs",
     "link": "https://jobs.ashbyhq.com/trm-labs/188647ad-cfb9-42b4-b86b-1e78e0136eee",
     "date": "2026-05-20T16:23:54.506+00:00",
@@ -48,12 +104,68 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "79516665",
+    "title": "Solution Architect (Remote - Work from Anywhere)",
+    "company": "Xapo",
+    "link": "https://boards.greenhouse.io/xapo61/jobs/7734506003",
+    "date": "2026-05-20T14:31:58.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "79516667",
+    "title": "VP of Customer Success (Remote - Work from Anywhere)",
+    "company": "Xapo",
+    "link": "https://boards.greenhouse.io/xapo61/jobs/7737280003",
+    "date": "2026-05-20T14:31:58.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "79514636",
+    "title": "Senior Product Marketing Manager",
+    "company": "Qohash",
+    "link": "https://qohash.com/job/senior-product-marketing-manager/",
+    "date": "2026-05-20T14:25:45.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "79510509",
+    "title": "HR & Payroll Specialist",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6000564004",
+    "date": "2026-05-20T14:13:00.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "79510503",
+    "title": "Agent & Distribution Admin Manager",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/5997851004",
+    "date": "2026-05-20T14:12:59.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
     "id": "79510344",
     "title": "Head of Finance",
     "company": "Arbitrum",
     "link": "https://jobs.lever.co/offchainlabs/c2e07d80-1db8-446d-9d00-2a424f5798fa",
     "date": "2026-05-20T14:12:40.000Z",
     "source": "https://jobs.arbitrum.io/jobs"
+  },
+  {
+    "id": "79508069",
+    "title": "Director, Loan Accounting",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8556834002",
+    "date": "2026-05-20T14:07:08.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "79506796",
+    "title": "Forward Deployed Engineer",
+    "company": "Greenhouse",
+    "link": "https://boards.greenhouse.io/greenhouse/jobs/7891787",
+    "date": "2026-05-20T14:03:02.000Z",
+    "source": "https://coinbase.getro.com/jobs"
   },
   {
     "id": "5222435008",
@@ -29617,77 +29729,5 @@
     "link": "https://jobs.ashbyhq.com/ramp/29d188c7-0529-4bc8-a04a-57902df2a7ae",
     "date": "2026-04-20T20:22:37.571+00:00",
     "source": "Ashby: Ramp"
-  },
-  {
-    "id": "8515510002",
-    "title": "Strategy and Operations Specialist",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8515510002",
-    "date": "2026-04-20T16:02:16-04:00",
-    "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "ae49a850-2023-4d08-b16f-5aeafe1279ce",
-    "title": "Solutions Delivery Manager",
-    "company": "Elliptic",
-    "link": "https://jobs.ashbyhq.com/Elliptic/ae49a850-2023-4d08-b16f-5aeafe1279ce",
-    "date": "2026-04-20T19:32:27.647+00:00",
-    "source": "Ashby: Elliptic"
-  },
-  {
-    "id": "18e66429-bcb9-4a67-858b-5088c5b68caf",
-    "title": "Senior Human Resources Business Partner",
-    "company": "Elliptic",
-    "link": "https://jobs.ashbyhq.com/Elliptic/18e66429-bcb9-4a67-858b-5088c5b68caf",
-    "date": "2026-04-20T19:04:12.116+00:00",
-    "source": "Ashby: Elliptic"
-  },
-  {
-    "id": "4686721005",
-    "title": "Junior Trading Operations Analyst",
-    "company": "DV Trading",
-    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4686721005",
-    "date": "2026-04-20T14:15:02-04:00",
-    "source": "Greenhouse: DV Trading"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/913620d8-db8a-45d3-9969-4929e3e3b558",
-    "title": "Java Backend Engineer (Spring boot, Cloud, AI/Big Data) - Treasury Management Systems",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/913620d8-db8a-45d3-9969-4929e3e3b558",
-    "date": "2026-04-20T18:06:38.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7826765",
-    "title": "Backend Engineer, AI Security",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7826765",
-    "date": "2026-04-20T13:56:42-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7816451",
-    "title": "Senior Partnerships Manager, Crypto",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7816451?t=gh_src=&gh_jid=7816451",
-    "date": "2026-04-20T13:42:43-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7827623",
-    "title": "Engineering Manager -  Batch Compute Infrastructure",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7827623",
-    "date": "2026-04-20T13:22:57-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7607568",
-    "title": "Account Executive, Enterprise - Billing (Existing Business)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7607568",
-    "date": "2026-04-20T12:57:53-04:00",
-    "source": "Greenhouse: Stripe"
   }
 ]
