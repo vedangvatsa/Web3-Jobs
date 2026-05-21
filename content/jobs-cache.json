@@ -1,5 +1,133 @@
 [
   {
+    "id": "7942736",
+    "title": "Engineering Manager, Data Orchestration Platform",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7942736",
+    "date": "2026-05-21T16:05:59-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7951146",
+    "title": "Content Marketing Lead, Bridge",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7951146",
+    "date": "2026-05-21T16:02:58-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "6002074004",
+    "title": "Product Manager, New Assets",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6002074004",
+    "date": "2026-05-21T16:01:59-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "4683657006",
+    "title": "Custody Operations Associate",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position/4683657006?gh_jid=4683657006",
+    "date": "2026-05-21T15:38:46-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "8554f8ec-d36a-4525-9a63-f899b2e89985",
+    "title": "Global Investigator - EMEA",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/8554f8ec-d36a-4525-9a63-f899b2e89985",
+    "date": "2026-05-21T19:26:22.232+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "2612683",
+    "title": "Customer Support Specialist (100 % remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/customer-support-specialist-100-remote-6",
+    "date": "2026-05-21 18:31:38 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
+    "id": "7767706",
+    "title": "Full Stack Engineer, Enterprise & Ecosystem",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7767706",
+    "date": "2026-05-21T14:27:30-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "6002894004",
+    "title": "Senior Software Engineer - Core Trading",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6002894004",
+    "date": "2026-05-21T13:57:20-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "02207060-bdcb-46f6-8195-8a6f2af959ec",
+    "title": "Marketing Executive",
+    "company": "OP Labs",
+    "link": "https://jobs.ashbyhq.com/oplabs/02207060-bdcb-46f6-8195-8a6f2af959ec",
+    "date": "2026-05-21T17:51:57.157+00:00",
+    "source": "Ashby: OP Labs"
+  },
+  {
+    "id": "6002870004",
+    "title": "Site Reliability Engineer",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6002870004",
+    "date": "2026-05-21T13:38:40-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "7950653",
+    "title": "Indirect Tax (VAT/GST) Advisory Consultant",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7950653",
+    "date": "2026-05-21T13:37:24-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8560087002",
+    "title": "Recruiting Coordinator",
+    "company": "Jane Street",
+    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8560087002",
+    "date": "2026-05-21T13:28:48-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "8526737002",
+    "title": "Data Architect (Remote)",
+    "company": "Axiom",
+    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8526737002&gh_jid=8526737002",
+    "date": "2026-05-21T13:17:30-04:00",
+    "source": "Greenhouse: Axiom"
+  },
+  {
+    "id": "8540770002",
+    "title": "Salesforce Technical Lead (Remote)",
+    "company": "Axiom",
+    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8540770002&gh_jid=8540770002",
+    "date": "2026-05-21T13:05:22-04:00",
+    "source": "Greenhouse: Axiom"
+  },
+  {
+    "id": "7804654",
+    "title": "Senior Engineering Manager",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7804654?t=gh_src=&gh_jid=7804654",
+    "date": "2026-05-21T12:58:19-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "88cb74a4-bc28-40b1-b792-d3041e3e17d3",
+    "title": "Software Engineer, Network Infrastructure",
+    "company": "Render Network",
+    "link": "https://jobs.ashbyhq.com/Render/88cb74a4-bc28-40b1-b792-d3041e3e17d3",
+    "date": "2026-05-21T16:55:20.111+00:00",
+    "source": "Ashby: Render Network"
+  },
+  {
     "id": "7943909",
     "title": "Manager, Partner Risk Operations",
     "company": "Stripe",
@@ -14,6 +142,14 @@
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4863532101",
     "date": "2026-05-21T11:52:41-04:00",
     "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "68e0dbbd-5e87-4f06-b8ba-d3ed5bd832e0",
+    "title": "Workplace Manager (London)",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/68e0dbbd-5e87-4f06-b8ba-d3ed5bd832e0",
+    "date": "2026-05-21T15:29:51.892Z",
+    "source": "Lever: MoonPay"
   },
   {
     "id": "a2dd73bb-7318-4440-b953-c645cd6e52d9",
@@ -70,6 +206,22 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7931101",
     "date": "2026-05-21T07:00:20-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "79580179",
+    "title": "Senior Manager, Demand Generation",
+    "company": "Lever",
+    "link": "https://careers.employinc.com/jobs/17764958-senior-manager-demand-generation",
+    "date": "2026-05-21T10:54:24.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
+    "id": "79580178",
+    "title": "High Velocity Account Executive",
+    "company": "Lever",
+    "link": "https://careers.employinc.com/jobs/17767227-high-velocity-account-executive",
+    "date": "2026-05-21T10:54:22.000Z",
+    "source": "https://nascent.getro.com/jobs"
   },
   {
     "id": "1d57f063-257d-495f-bd8e-bb370979eedf",
@@ -254,6 +406,14 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6001722004",
     "date": "2026-05-20T16:40:45-04:00",
     "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "6001633004",
+    "title": "Data Center Manager, Warehouse Operations",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6001633004",
+    "date": "2026-05-20T16:19:27-04:00",
+    "source": "Greenhouse: Galaxy Digital"
   },
   {
     "id": "7947510",
@@ -3298,6 +3458,14 @@
   {
     "id": "8549874002",
     "title": "Senior Manager of AI Tech+Talent Solution Marketing (Remote)",
+    "company": "Axiom",
+    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8549874002&gh_jid=8549874002",
+    "date": "2026-05-14T17:20:00-04:00",
+    "source": "Greenhouse: Axiom"
+  },
+  {
+    "id": "8549874002",
+    "title": "Senior Manager of AI Solution Marketing (Remote)",
     "company": "Axiom",
     "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8549874002&gh_jid=8549874002",
     "date": "2026-05-14T17:20:00-04:00",
@@ -30026,29 +30194,5 @@
     "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4687479005",
     "date": "2026-04-21T16:15:19-04:00",
     "source": "Greenhouse: DV Trading"
-  },
-  {
-    "id": "2576126",
-    "title": "SR Legal and Compliance Analyst (100% REMOTE)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/legal-and-compliance-analyst-100-remote-4",
-    "date": "2026-04-21 19:04:27 UTC",
-    "source": "Recruitee: Tether"
-  },
-  {
-    "id": "7837970",
-    "title": "Senior Recruiting Coordinator",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7837970?gh_jid=7837970",
-    "date": "2026-04-21T13:55:37-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "8b9113e5-d818-476d-a67f-5e34594804f9",
-    "title": "Implementation Manager",
-    "company": "Switchboard",
-    "link": "https://jobs.ashbyhq.com/switchboard/8b9113e5-d818-476d-a67f-5e34594804f9",
-    "date": "2026-04-21T17:16:34.984+00:00",
-    "source": "Ashby: Switchboard"
   }
 ]
