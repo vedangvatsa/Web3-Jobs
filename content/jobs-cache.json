@@ -1,5 +1,213 @@
 [
   {
+    "id": "7950114",
+    "title": "Senior RF Engineer",
+    "company": "Spire",
+    "link": "https://spire.com/careers/job-openings/job/?gh_jid=7950114&gh_jid=7950114",
+    "date": "2026-05-22T08:06:16-04:00",
+    "source": "Greenhouse: Spire"
+  },
+  {
+    "id": "8561927002",
+    "title": "Account Executive (Enterprise )",
+    "company": "Axiom",
+    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8561927002&gh_jid=8561927002",
+    "date": "2026-05-22T08:05:38-04:00",
+    "source": "Greenhouse: Axiom"
+  },
+  {
+    "id": "7921576",
+    "title": "Fraud Officer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7921576?t=gh_src=&gh_jid=7921576",
+    "date": "2026-05-22T07:51:43-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "5f0b1f78-25c7-492c-aecf-e80d631623b2",
+    "title": "Applied AI Engineer",
+    "company": "LI.FI",
+    "link": "https://jobs.ashbyhq.com/LI.FI/5f0b1f78-25c7-492c-aecf-e80d631623b2",
+    "date": "2026-05-22T11:44:11.233+00:00",
+    "source": "Ashby: LI.FI"
+  },
+  {
+    "id": "19815668-7376-43d6-b82e-d01f65288a0a",
+    "title": "Global Investigations Manager",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/19815668-7376-43d6-b82e-d01f65288a0a",
+    "date": "2026-05-22T11:24:52.837+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "7953691",
+    "title": "Staff Product Manager, Local Processor Acquiring",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7953691",
+    "date": "2026-05-22T07:24:04-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7912407",
+    "title": "Staff Product Manager, Adaptive Pricing",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7912407",
+    "date": "2026-05-22T07:20:35-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "0fb6f165-8583-4caa-b964-69c1eeb5fdb5",
+    "title": "Staff MLOps Engineer",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/0fb6f165-8583-4caa-b964-69c1eeb5fdb5",
+    "date": "2026-05-22T10:21:42.159+00:00",
+    "source": "Ashby: Elliptic"
+  },
+  {
+    "id": "6f8c0859-f28c-4ebb-977c-a1a89570bb65",
+    "title": "User Growth Operations",
+    "company": "Coins.ph",
+    "link": "https://jobs.lever.co/coins/6f8c0859-f28c-4ebb-977c-a1a89570bb65",
+    "date": "2026-05-22T09:55:50.725Z",
+    "source": "Lever: Coins.ph"
+  },
+  {
+    "id": "79785933",
+    "title": "Collateral Associate (Capital Markets - Residential Mortgage Due Diligence)",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8557497002",
+    "date": "2026-05-22T09:47:46.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "4873645101",
+    "title": "Product Expert",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4873645101",
+    "date": "2026-05-22T05:35:12-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "7931875",
+    "title": "Staff Partner Engineer",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7931875?gh_jid=7931875",
+    "date": "2026-05-22T05:18:32-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "1edb4f86-713f-44a9-8e9c-489c662d810c",
+    "title": "Application Support Engineer, India, OEX",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/1edb4f86-713f-44a9-8e9c-489c662d810c",
+    "date": "2026-05-22T09:15:34.681Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "8e514377-95f7-4c81-af1b-8161a77abad3",
+    "title": "Application Support Engineer, UK, OEX",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/8e514377-95f7-4c81-af1b-8161a77abad3",
+    "date": "2026-05-22T09:01:31.893Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "b724eeb2-5202-40db-b633-c5a6be535c2d",
+    "title": "Application Support Engineer, Singapore, OEX",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/b724eeb2-5202-40db-b633-c5a6be535c2d",
+    "date": "2026-05-22T08:59:26.878Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "2508a2c1-e231-4a42-b0f5-d6e199a56325",
+    "title": "Application Support Engineer, Hong Kong, OEX",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/2508a2c1-e231-4a42-b0f5-d6e199a56325",
+    "date": "2026-05-22T08:57:57.853Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "79776761",
+    "title": "Staff Quant Strategist Engineer",
+    "company": "Aave",
+    "link": "https://www.linkedin.com/jobs/view/staff-quant-strategist-engineer-at-aave-labs-4417379789",
+    "date": "2026-05-22T08:13:38.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "79776760",
+    "title": "Staff Smart Contract Engineer",
+    "company": "Aave",
+    "link": "https://www.linkedin.com/jobs/view/staff-smart-contract-engineer-at-aave-labs-4417383696",
+    "date": "2026-05-22T08:13:38.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "79776758",
+    "title": "Dream Job",
+    "company": "Aave",
+    "link": "https://fr.linkedin.com/jobs/view/dream-job-at-aave-labs-4417369962",
+    "date": "2026-05-22T08:13:37.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "4873549101",
+    "title": "Specialist, Securities Platform, Corporate Actions & Asset Servicing",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4873549101",
+    "date": "2026-05-22T04:08:41-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "4873545101",
+    "title": "Specialist, Securities Platform, Settlements & Reconciliations",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4873545101",
+    "date": "2026-05-22T04:01:49-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "8555588002",
+    "title": "MacOS Software Engineer",
+    "company": "Jane Street",
+    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8555588002",
+    "date": "2026-05-22T03:41:35-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "79770284",
+    "title": "Automation Engineer, Non-Destructive Testing",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/automation-engineer-non-destructive-testing-ndt-at-hadrian-4407246641",
+    "date": "2026-05-22T07:17:41.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "79770283",
+    "title": "Manufacturing Engineer, Factory Construction",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/manufacturing-engineer-factory-construction-at-hadrian-4413379055",
+    "date": "2026-05-22T07:17:40.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "7947074",
+    "title": "AI Specialist, Treasury Finance Operations",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7947074",
+    "date": "2026-05-22T02:57:03-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4871084101",
+    "title": "Head of Trading Technology",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4871084101",
+    "date": "2026-05-22T02:24:20-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "8fbc3d9e-46a1-40e0-bc09-657efb21cbb2",
     "title": "Vietnam Corporate Paralegal",
     "company": "Sky Mavis",
@@ -658,6 +866,14 @@
   {
     "id": "7945056",
     "title": "Support Specialist",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7945056",
+    "date": "2026-05-21T03:53:10-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7945056",
+    "title": "Product Support Specialist (Mandarin-speaking)",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=7945056",
     "date": "2026-05-21T03:53:10-04:00",
@@ -3806,6 +4022,14 @@
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867356101",
     "date": "2026-05-14T23:54:17-04:00",
     "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "441cbbf1-e674-4ba1-9a36-bd78f8b11475",
+    "title": "Quant Trader",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/441cbbf1-e674-4ba1-9a36-bd78f8b11475",
+    "date": "2026-05-15T03:19:03.660Z",
+    "source": "Lever: Crypto"
   },
   {
     "id": "7919030",
@@ -30436,6 +30660,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "8468790002",
+    "title": "Enterprise Account Executive",
+    "company": "Axiom",
+    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8468790002&gh_jid=8468790002",
+    "date": "2026-04-22T12:27:09-04:00",
+    "source": "Greenhouse: Axiom"
+  },
+  {
     "id": "8518651002",
     "title": "Alpha Capture Specialist",
     "company": "Jane Street",
@@ -30450,61 +30682,5 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7825561",
     "date": "2026-04-22T10:00:20-04:00",
     "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7707468003",
-    "title": "Lead Institutional Sales - APAC",
-    "company": "OpenZeppelin",
-    "link": "https://openzeppelin.com/careers/opening/?gh_jid=7707468003",
-    "date": "2026-04-22T07:38:30-04:00",
-    "source": "Greenhouse: OpenZeppelin"
-  },
-  {
-    "id": "8511908002",
-    "title": "Technical Support Manager",
-    "company": "ComplyAdvantage",
-    "link": "https://complyadvantage.com/careers/jobs/8511908002?gh_jid=8511908002",
-    "date": "2026-04-22T06:18:53-04:00",
-    "source": "Greenhouse: ComplyAdvantage"
-  },
-  {
-    "id": "213433d0-5f5b-4c2a-9a3e-3a3c3cfc16e2",
-    "title": "Quant Trader",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/213433d0-5f5b-4c2a-9a3e-3a3c3cfc16e2",
-    "date": "2026-04-22T09:50:27.414Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "7768979",
-    "title": "Product Manager, EMEA Payments Lead",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7768979",
-    "date": "2026-04-22T05:23:55-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "9794ea23-3af6-4c29-b930-0bbbc5e1ff4d",
-    "title": "Associate Director - Product",
-    "company": "Zeta",
-    "link": "https://jobs.lever.co/zeta/9794ea23-3af6-4c29-b930-0bbbc5e1ff4d",
-    "date": "2026-04-22T08:22:59.618Z",
-    "source": "Lever: Zeta"
-  },
-  {
-    "id": "b8e47a96-89dc-4d44-8345-acafc5bf93e8",
-    "title": "Administrative Assistant / Executive Assistant (Global Sales Team)",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/b8e47a96-89dc-4d44-8345-acafc5bf93e8",
-    "date": "2026-04-22T07:33:51.015Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "7710525003",
-    "title": "Frontend Engineer",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7710525003",
-    "date": "2026-04-22T03:26:30-04:00",
-    "source": "Greenhouse: OKX"
   }
 ]
