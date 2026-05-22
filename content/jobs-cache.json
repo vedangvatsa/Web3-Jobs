@@ -1,5 +1,21 @@
 [
   {
+    "id": "8fbc3d9e-46a1-40e0-bc09-657efb21cbb2",
+    "title": "Vietnam Corporate Paralegal",
+    "company": "Sky Mavis",
+    "link": "https://jobs.ashbyhq.com/SkyMavis/8fbc3d9e-46a1-40e0-bc09-657efb21cbb2",
+    "date": "2026-05-22T04:36:56.362+00:00",
+    "source": "Ashby: Sky Mavis"
+  },
+  {
+    "id": "4873419101",
+    "title": "Security Compliance Management Expert",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4873419101",
+    "date": "2026-05-21T23:05:00-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "7918258",
     "title": "Senior Security Engineer, Application Security",
     "company": "Robinhood",
@@ -30490,77 +30506,5 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7710525003",
     "date": "2026-04-22T03:26:30-04:00",
     "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/afb2f865-cdfb-4a86-b08a-aee3e31c8cf7",
-    "title": "Talent Acquisition Specialist (Tech Focus, 6 months contract, Remote)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/afb2f865-cdfb-4a86-b08a-aee3e31c8cf7",
-    "date": "2026-04-22T04:48:42.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "1096d07a-86c5-460d-a800-d3f155da0d38",
-    "title": "Senior Director, Risk Strategy (Fraud & AML | Fiat + Crypto)",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/1096d07a-86c5-460d-a800-d3f155da0d38",
-    "date": "2026-04-22T04:35:26.099Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "1096d07a-86c5-460d-a800-d3f155da0d38",
-    "title": "Director, Risk Strategy (Fraud & AML | Fiat + Crypto)",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/1096d07a-86c5-460d-a800-d3f155da0d38",
-    "date": "2026-04-22T04:35:26.099Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/e69a313b-0cf3-41a4-a026-856bbcce33ad",
-    "title": "Pioneer Talent Program - Software Engineer - Blockchain Security",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/e69a313b-0cf3-41a4-a026-856bbcce33ad",
-    "date": "2026-04-22T04:30:28.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/e94f5ff8-307c-4737-95cc-ebe5dee72fee",
-    "title": "Binance Accelerator Program - LLM Model Training & Data Processing",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/e94f5ff8-307c-4737-95cc-ebe5dee72fee",
-    "date": "2026-04-22T02:59:09.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "6e1b2cbf-037b-4095-b152-0e7c160593ca",
-    "title": "Binance Accelerator Programme - Institutional Sales",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/6e1b2cbf-037b-4095-b152-0e7c160593ca",
-    "date": "2026-04-22T02:25:14.111Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "9841114d-b81a-4651-9c5d-d44007590132",
-    "title": "/Senior Product Designer(Langaku)",
-    "company": "MANTRA",
-    "link": "https://jobs.lever.co/mantra/9841114d-b81a-4651-9c5d-d44007590132",
-    "date": "2026-04-22T00:50:55.287Z",
-    "source": "Lever: MANTRA"
-  },
-  {
-    "id": "7812856",
-    "title": "Staff Product Manager, Enterprise (Industries)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7812856",
-    "date": "2026-04-21T20:01:23-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7754143",
-    "title": "Backend Software Engineer, Credit Cards & Banking",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7754143?t=gh_src=&gh_jid=7754143",
-    "date": "2026-04-21T19:58:40-04:00",
-    "source": "Greenhouse: Robinhood"
   }
 ]
