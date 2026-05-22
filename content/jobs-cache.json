@@ -1,5 +1,101 @@
 [
   {
+    "id": "9ea0f458-30ca-48ca-a3e3-3db386bafee4",
+    "title": "Recruiting Coordinator",
+    "company": "Render Network",
+    "link": "https://jobs.ashbyhq.com/Render/9ea0f458-30ca-48ca-a3e3-3db386bafee4",
+    "date": "2026-05-22T18:59:19.599+00:00",
+    "source": "Ashby: Render Network"
+  },
+  {
+    "id": "4696917005",
+    "title": "Senior Manager, Global KYC and Client Onboarding",
+    "company": "FalconX",
+    "link": "https://job-boards.greenhouse.io/falconx/jobs/4696917005",
+    "date": "2026-05-22T14:57:35-04:00",
+    "source": "Greenhouse: FalconX"
+  },
+  {
+    "id": "7858716",
+    "title": "Support Process Program Manager",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7858716",
+    "date": "2026-05-22T14:51:04-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4253856009",
+    "title": "Corporate Secretary",
+    "company": "Securitize",
+    "link": "https://job-boards.greenhouse.io/securitize/jobs/4253856009",
+    "date": "2026-05-22T14:23:42-04:00",
+    "source": "Greenhouse: Securitize"
+  },
+  {
+    "id": "7867328",
+    "title": "Social Media, Customer Support Associate",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7867328",
+    "date": "2026-05-22T14:18:20-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7940059",
+    "title": "Account Executive, Product Sales",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7940059",
+    "date": "2026-05-22T14:07:14-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7944348",
+    "title": "Staff Software Engineer, Liquidity Management",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7944348?gh_jid=7944348",
+    "date": "2026-05-22T14:06:55-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "4ff89979-0351-4e39-acef-69a33c8a8457",
+    "title": "Events Manager",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/4ff89979-0351-4e39-acef-69a33c8a8457",
+    "date": "2026-05-22T17:59:59.281+00:00",
+    "source": "Ashby: Cantina"
+  },
+  {
+    "id": "7944457",
+    "title": "Senior Software Engineer, Liquidity Management",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7944457?gh_jid=7944457",
+    "date": "2026-05-22T13:54:20-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "2614457",
+    "title": "Senior Software Architect (100% Remote - Worldwide)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/senior-software-architect-100-remote-worldwide",
+    "date": "2026-05-22 17:17:36 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
+    "id": "7951089",
+    "title": "Analyst, Marketing (Community Engagement)",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951089&gh_jid=7951089",
+    "date": "2026-05-22T12:49:45-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "2c3c860b-4598-4bc3-a36b-e9f40b39768c",
+    "title": "Associate Creative Director, Customer Stories",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/2c3c860b-4598-4bc3-a36b-e9f40b39768c",
+    "date": "2026-05-22T16:36:46.626+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
     "id": "1db75064-e38c-4b21-8310-21471943d0be",
     "title": "Technical Program Manager",
     "company": "Ramp",
@@ -80,6 +176,14 @@
     "source": "Ashby: Ramp"
   },
   {
+    "id": "79896290",
+    "title": "IT Operations Associate",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6001055004",
+    "date": "2026-05-22T15:03:07.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
     "id": "7922978",
     "title": "Brokerage Compliance Operations Associate",
     "company": "Robinhood",
@@ -104,12 +208,28 @@
     "source": "Lever: Zeta"
   },
   {
+    "id": "79890534",
+    "title": "Mobile Developer",
+    "company": "Solflare",
+    "link": "https://www.solflare.com/careers/mobile-developer/",
+    "date": "2026-05-22T14:43:44.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
     "id": "6002028004",
     "title": "Product Manager, Accounts",
     "company": "Alpaca",
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6002028004",
     "date": "2026-05-22T10:41:14-04:00",
     "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "79886733",
+    "title": "DeFi Desk - APAC",
+    "company": "Morpho Labs",
+    "link": "https://morpho.org/jobs/ashby-defi-desk-apac-6cbdcef7-fa15-4fcd-a40a-d0d6b6de9c53",
+    "date": "2026-05-22T14:32:08.000Z",
+    "source": "https://jobs.variant.fund/jobs"
   },
   {
     "id": "c7c7d877-199a-461f-a70b-c4cd1741277a",
@@ -158,6 +278,46 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818",
     "date": "2026-05-22T09:43:54-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "79853227",
+    "title": "Business Development Representative, EMEA",
+    "company": "Blockaid",
+    "link": "https://www.comeet.com/jobs/blockaid/69.00B/business-development-representative-emea/3E.A6A",
+    "date": "2026-05-22T13:43:17.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "79850570",
+    "title": "Associate Account Executive",
+    "company": "Lever",
+    "link": "https://careers.employinc.com/jobs/17770231-associate-account-executive",
+    "date": "2026-05-22T13:36:19.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
+    "id": "79850564",
+    "title": "Senior Customer Account Manager",
+    "company": "Lever",
+    "link": "https://careers.employinc.com/jobs/17771364-senior-customer-account-manager",
+    "date": "2026-05-22T13:36:18.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
+    "id": "79850565",
+    "title": "Manager, Mid-Market Sales",
+    "company": "Lever",
+    "link": "https://careers.employinc.com/jobs/17771363-manager-mid-market-sales",
+    "date": "2026-05-22T13:36:18.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
+    "id": "79850560",
+    "title": "Manager, Solution Consulting",
+    "company": "Lever",
+    "link": "https://careers.employinc.com/jobs/17771722-manager-solution-consulting",
+    "date": "2026-05-22T13:36:17.000Z",
+    "source": "https://nascent.getro.com/jobs"
   },
   {
     "id": "79838594",
@@ -1952,6 +2112,14 @@
     "source": "Ashby: Polymarket"
   },
   {
+    "id": "7863714",
+    "title": "Account Executive, Commercial (Hunter)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7863714",
+    "date": "2026-05-19T18:03:38-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "8d0777f8-5b03-47c9-a93a-c4aa5070d534",
     "title": "Commercial Lending Officer",
     "company": "Switchboard",
@@ -2792,8 +2960,24 @@
     "source": "Ashby: TRM Labs"
   },
   {
+    "id": "b5f265fc-c8fa-47aa-8382-3aa72108c513",
+    "title": "Lead Commercial Counsel",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/b5f265fc-c8fa-47aa-8382-3aa72108c513",
+    "date": "2026-05-18T22:16:41.016+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
     "id": "7931247",
     "title": "Account Executive, SMB (New Business)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7931247",
+    "date": "2026-05-18T17:50:02-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7931247",
+    "title": "Account Executive, SMB (Hunter)",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=7931247",
     "date": "2026-05-18T17:50:02-04:00",
@@ -31010,13 +31194,5 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7440963",
     "date": "2026-04-22T17:36:49-04:00",
     "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8468790002",
-    "title": "Enterprise Account Executive",
-    "company": "Axiom",
-    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8468790002&gh_jid=8468790002",
-    "date": "2026-04-22T12:27:09-04:00",
-    "source": "Greenhouse: Axiom"
   }
 ]
