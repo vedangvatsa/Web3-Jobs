@@ -1,5 +1,37 @@
 [
   {
+    "id": "24c0957e-3ebc-47b6-9061-34982c554447",
+    "title": "Lead All Source Investigator (US - Remote)",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/24c0957e-3ebc-47b6-9061-34982c554447",
+    "date": "2026-05-22T23:18:41.871+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "7955112",
+    "title": "Global Head of HR Operations",
+    "company": "Spire",
+    "link": "https://spire.com/careers/job-openings/job/?gh_jid=7955112&gh_jid=7955112",
+    "date": "2026-05-22T17:56:13-04:00",
+    "source": "Greenhouse: Spire"
+  },
+  {
+    "id": "e542c73a-332e-457b-aed6-29f3d1a0ac75",
+    "title": "Recruiting Operations Associate, GTM (Contract)",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/e542c73a-332e-457b-aed6-29f3d1a0ac75",
+    "date": "2026-05-22T21:21:51.403+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "6c3cbaf3-33ad-453f-8b91-0d0b2c4f897d",
+    "title": "Filmmaker, Customer Stories",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/6c3cbaf3-33ad-453f-8b91-0d0b2c4f897d",
+    "date": "2026-05-22T21:19:57.089+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
     "id": "9ea0f458-30ca-48ca-a3e3-3db386bafee4",
     "title": "Recruiting Coordinator",
     "company": "Render Network",
@@ -85,6 +117,30 @@
     "company": "Gemini",
     "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951089&gh_jid=7951089",
     "date": "2026-05-22T12:49:45-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "7951089",
+    "title": "Marketing Coordinator (Community Engagement)",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951089&gh_jid=7951089",
+    "date": "2026-05-22T12:49:45-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "7951043",
+    "title": "Associate, Growth Marketing (Advanced Trading Products)",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951043&gh_jid=7951043",
+    "date": "2026-05-22T12:49:37-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "7951195",
+    "title": "Manager, Brand Design Engineering",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951195&gh_jid=7951195",
+    "date": "2026-05-22T12:49:26-04:00",
     "source": "Greenhouse: Gemini"
   },
   {
@@ -31186,13 +31242,5 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/5979495004",
     "date": "2026-04-22T20:27:09-04:00",
     "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "7440963",
-    "title": "Data Science Manager, Growth",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7440963",
-    "date": "2026-04-22T17:36:49-04:00",
-    "source": "Greenhouse: Stripe"
   }
 ]
