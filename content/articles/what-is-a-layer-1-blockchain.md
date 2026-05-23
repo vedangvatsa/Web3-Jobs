@@ -7,7 +7,7 @@ description: "A simple guide to understanding Layer 1 (L1) blockchains, the foun
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 In the [Web3](/what-is-web3) ecosystem, the terms "Layer 1" and "Layer 2" frequently arise. Understanding the distinction between these layers is important for grasping how blockchains scale and evolve. A Layer 1 (L1) [blockchain](/what-is-a-blockchain) serves as the main infrastructure in a decentralized ecosystem, forming the foundational layer upon which all other applications and networks are built.

@@ -7,7 +7,7 @@ description: "A guide to the world of Web3 freelancing. Learn how to find and co
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 For many professionals, entering a [Web3](/what-is-web3) career starts outside traditional job applications. It often begins as a side hustle during evenings or weekends. Individuals contribute to projects they find interesting, complete "bounties" for a [DAO](/what-is-a-dao), or write insightful blog posts that garner community attention. The transparent and permissionless nature of the Web3 ecosystem has built a active gig economy, allowing anyone to contribute and earn without a formal job.

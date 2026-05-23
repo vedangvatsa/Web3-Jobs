@@ -7,7 +7,7 @@ description: "A simple guide to understanding what a crypto Exchange-Traded Fund
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 The launch of spot [Bitcoin](/what-is-bitcoin) Exchange-Traded Funds (ETFs) in the United States in early 2024 marked a significant development for the cryptocurrency sector. This introduced a new level of mainstream acceptance, allowing traditional investors a pathway to engage with digital assets. Understanding what a crypto ETF is and its importance can clarify its impact on the market.

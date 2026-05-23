@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/lpreward/1200/630"
 data-ai-hint: "liquidity provider"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 ## Understanding LP Rewards and Fees

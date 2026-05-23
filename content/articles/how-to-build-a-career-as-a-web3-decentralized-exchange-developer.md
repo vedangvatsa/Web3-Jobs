@@ -7,7 +7,7 @@ category: "Career Guides"
 data-ai-hint: "dex developer"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 Decentralized exchanges (DEXs) are critical infrastructure in [Web3](/what-is-web3). Uniswap, Curve, and other DEXs facilitate significant trading volume daily. Building [DEX](/what-is-a-decentralized-exchange-dex) infrastructure, features, and integrations creates opportunities for developers.

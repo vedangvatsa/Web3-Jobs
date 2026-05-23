@@ -7,7 +7,7 @@ description: "A guide for Web3 professionals on how to navigate a crypto bear ma
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 If you have chosen a career in [Web3](/what-is-web3), you must prepare for volatility, a defining aspect of this sector. The crypto markets experience extreme fluctuations, with euphoric bull runs followed by severe bear markets. During a bull market, job opportunities surge, salaries rise, and the value of your [token](/what-is-a-token) compensation seems to increase daily.

@@ -7,7 +7,7 @@ category: "Educational"
 data-ai-hint: cryptocurrency exchange
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 Decentralized exchanges, or DEXs, transform the trading of digital assets. Unlike centralized exchanges (CEXs) such as Coinbase or Binance, which operate under a single company’s control, DEXs use [smart contracts](/what-are-smart-contracts) to facilitate direct trades between users. This peer-to-peer structure allows traders to maintain custody of their funds, creating a more secure and transparent trading environment.

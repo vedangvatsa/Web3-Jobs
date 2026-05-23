@@ -7,7 +7,7 @@ description: "Understand how DIDs and self-sovereign identity give users control
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 In the current digital environment, individuals do not truly own their identities. Instead, identities consist of a series of accounts, such as Google, Facebook, and banking logins, that are owned and managed by centralized corporations. This structure leads to significant privacy concerns, frequent data breaches, and a disjointed user experience.

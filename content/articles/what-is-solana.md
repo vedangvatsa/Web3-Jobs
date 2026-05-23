@@ -7,7 +7,7 @@ description: "An overview of Solana, a Layer 1 blockchain designed for high perf
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 In the **[Layer 1 blockchains](/what-is-a-layer-1-blockchain)** sector, **Solana** stands out as an influential player. It was engineered to tackle the scalability issues that have challenged other networks, notably [Ethereum](/what-is-ethereum). Solana is an open-source blockchain that prioritizes high performance, aiming to deliver the necessary throughput for decentralized applications (dApps) that aspire to serve a global audience.

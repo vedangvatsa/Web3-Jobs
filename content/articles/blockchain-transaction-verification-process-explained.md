@@ -7,7 +7,7 @@ description: "A step-by-step guide to how transactions are verified and added to
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 A [blockchain](/what-is-a-blockchain) serves as a decentralized ledger that records transactions. The verification and secure addition of these transactions to the blockchain are vital for the technology’s integrity. This process establishes a trustless and tamper-proof environment. Understanding how this transaction verification occurs clarifies the significance of blockchain technology.

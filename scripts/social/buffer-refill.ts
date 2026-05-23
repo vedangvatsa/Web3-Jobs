@@ -65,6 +65,41 @@ async function gqlRequest(query: string, variables: any) {
   return res.json() as Promise<any>;
 }
 
+function cleanAndCompareText(candidate: string, existing: string): boolean {
+  const normalize = (t: string) => {
+    return t
+      .toLowerCase()
+      .replace(/https?:\/\/[^\s]+/g, '')
+      .replace(/#\w+/g, '')
+      .replace(/[^a-z0-9]/g, '')
+      .substring(0, 80);
+  };
+  
+  const normCandidate = normalize(candidate);
+  const normExisting = normalize(existing);
+  
+  if (normCandidate.length < 15 || normExisting.length < 15) return false;
+  return normCandidate === normExisting || normExisting.includes(normCandidate) || normCandidate.includes(normExisting);
+}
+
+async function getQueueTexts(channelId: string): Promise<string[]> {
+  const query = `query GetPosts($channelId: String!) {
+    posts(input: { channelId: $channelId, status: "scheduled" }) {
+      edges { node { text } }
+    }
+  }`;
+  try {
+    const data = await gqlRequest(query, { channelId });
+    if (!data.errors) {
+      const edges = data.data?.posts?.edges || [];
+      return edges.map((e: any) => e.node?.text || '');
+    }
+  } catch (err) {
+    console.warn(`[Pre-flight] Buffer fetch queue texts failed for ${channelId}:`, err);
+  }
+  return [];
+}
+
 async function getQueueCount(channelId: string): Promise<number> {
   // Try multiple query patterns since Buffer's GraphQL schema changes
   const queries = [
@@ -248,6 +283,10 @@ async function run() {
   if (liCount < REFILL_THRESHOLD) {
     const toSchedule = Math.min(BATCH_SIZE, 10 - liCount);
     console.log(`\nRefilling LinkedIn: scheduling up to ${toSchedule} posts...`);
+    
+    console.log('🔍 Fetching scheduled Buffer queue texts for LinkedIn...');
+    const queueTexts = await getQueueTexts(LINKEDIN_ID);
+    
     const slots = generateSlots(toSchedule, state.linkedin.lastScheduledAt);
     let scheduled = 0;
 
@@ -256,9 +295,13 @@ async function run() {
       const post = schedule[idx];
       const textHash = hashText(post.linkedin.text);
 
-      // Skip if we already posted this exact content recently
-      if (state.linkedin.postedHashes.includes(textHash)) {
-        console.log(`  SKIP ${post.id} (already posted recently, hash: ${textHash})`);
+      // Skip if we already posted this exact content recently or if it's already in the queue
+      const isAlreadyInQueue = queueTexts.some(qt => cleanAndCompareText(post.linkedin.text, qt));
+      if (isAlreadyInQueue || state.linkedin.postedHashes.includes(textHash)) {
+        console.log(`  SKIP ${post.id} (already in queue or posted recently, hash: ${textHash})`);
+        if (isAlreadyInQueue && !state.linkedin.postedHashes.includes(textHash)) {
+          state.linkedin.postedHashes.push(textHash);
+        }
         continue;
       }
 
@@ -296,6 +339,10 @@ async function run() {
   if (igCount < REFILL_THRESHOLD) {
     const toSchedule = Math.min(BATCH_SIZE, 10 - igCount);
     console.log(`\nRefilling Instagram: scheduling up to ${toSchedule} posts...`);
+    
+    console.log('🔍 Fetching scheduled Buffer queue texts for Instagram...');
+    const queueTexts = await getQueueTexts(INSTAGRAM_ID);
+    
     const slots = generateSlots(toSchedule, state.instagram.lastScheduledAt);
     let scheduled = 0;
     let skippedNoImage = 0;
@@ -315,9 +362,13 @@ async function run() {
 
       const textHash = hashText(post.instagram.text);
 
-      // Skip if already posted recently
-      if (state.instagram.postedHashes.includes(textHash)) {
-        console.log(`  SKIP ${post.id} (already posted recently, hash: ${textHash})`);
+      // Skip if already posted recently or if it's already in the queue
+      const isAlreadyInQueue = queueTexts.some(qt => cleanAndCompareText(post.instagram.text, qt));
+      if (isAlreadyInQueue || state.instagram.postedHashes.includes(textHash)) {
+        console.log(`  SKIP ${post.id} (already in queue or posted recently, hash: ${textHash})`);
+        if (isAlreadyInQueue && !state.instagram.postedHashes.includes(textHash)) {
+          state.instagram.postedHashes.push(textHash);
+        }
         continue;
       }
 

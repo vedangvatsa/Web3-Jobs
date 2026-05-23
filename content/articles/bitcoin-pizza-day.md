@@ -6,7 +6,7 @@ image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "bitcoin pizza day"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 ## The Humble Beginnings of a Multi-Trillion Dollar Asset

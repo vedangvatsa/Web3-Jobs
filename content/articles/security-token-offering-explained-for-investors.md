@@ -7,7 +7,7 @@ description: "A Security Token Offering (STO) is a regulated process where a pro
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 A **Security [Token](/what-is-a-token) Offering (STO)** signifies a shift in the fundraising model for blockchain projects, moving from the less regulated Initial Coin Offering (ICO) to a structured, compliance-focused process. An STO enables a company to raise capital by issuing cryptographic tokens on a [blockchain](/what-is-a-blockchain) that qualify as a **security**.

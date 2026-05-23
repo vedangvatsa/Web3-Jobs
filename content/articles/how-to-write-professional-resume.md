@@ -7,7 +7,7 @@ description: "A step-by-step guide on how to write a professional resume that ge
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 Your resume serves as a critical first impression for potential employers. In a competitive job market, a well-crafted resume can determine whether you secure an interview or get overlooked. A resume is not merely a list of past jobs; it acts as a marketing document that effectively showcases your skills and experience.

@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/vamm/1200/630"
 data-ai-hint: "virtual automated market maker"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 ## What is a Virtual Automated Market Maker (vAMM)?

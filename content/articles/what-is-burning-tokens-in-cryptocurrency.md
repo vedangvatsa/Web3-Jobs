@@ -7,7 +7,7 @@ description: "Token burning is the process of permanently removing a certain num
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 In cryptocurrency, "burning" tokens is a strategic method for managing a token's supply and influencing its economic value. Token burning involves the intentional and permanent removal of a specified number of tokens from circulation. This action is irreversible; once a token is burned, it cannot be recovered.

@@ -7,7 +7,7 @@ description: "Explore the Avalanche consensus mechanism and how it powers fast, 
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 Avalanche (AVAX) is a high-performance, open-source [Layer 1 blockchain](/what-is-a-layer-1-blockchain) that supports a diverse range of decentralized applications and enterprise blockchain solutions. Launched in 2020 by Ava Labs, Avalanche focuses on providing near-instant transaction finality and a scalable platform for developers.

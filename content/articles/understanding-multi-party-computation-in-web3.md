@@ -7,7 +7,7 @@ description: "A guide to Multi-Party Computation (MPC), a powerful cryptographic
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 In the [Web3](/what-is-web3), the safeguarding of digital assets relies heavily on the protection of private keys. A compromised private key leads to permanent loss of access to the associated assets. Traditionally, individuals have used hardware wallets for key security, while institutions have favored multi-signature (multisig) wallets. However, a more sophisticated method, known as **Multi-Party Computation (MPC)**, is becoming increasingly popular.

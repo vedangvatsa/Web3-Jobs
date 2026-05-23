@@ -7,7 +7,7 @@ description: "A clear comparison of the three main types of blockchains: public,
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 While the terms "[blockchain](/what-is-a-blockchain)" and "decentralization" often appear synonymous, not all blockchains are entirely decentralized or accessible to everyone. The architecture of a blockchain can cater to various requirements, resulting in three primary types: **public, private, and consortium blockchains**. 

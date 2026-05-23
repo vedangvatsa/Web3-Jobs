@@ -7,7 +7,7 @@ description: "Lacking direct job experience? Learn how to effectively showcase y
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 The classic career paradox presents a significant challenge: you cannot secure a job without experience, yet you cannot gain experience without a job. This cycle frustrates many individuals, including students, career changers, and those re-entering the workforce. Overcoming this obstacle involves shifting the focus of your [resume](/how-to-build-a-web3-resume-that-stands-out) from your past employment to your potential contributions.

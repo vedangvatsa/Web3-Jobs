@@ -118,6 +118,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # Fetch remote to ensure origin/main is fresh for the merge script
+          git fetch origin main
+
+          # Merge local state files with remote to prevent rebase conflicts
+          npx tsx scripts/social/merge-state.ts
+
           # Pull latest to avoid push conflicts from concurrent runs
           git pull --rebase origin main || true
 

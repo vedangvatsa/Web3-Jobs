@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/302/1200/630"
 data-ai-hint: "new job"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 ## The First 90 Days: A Strategic Plan

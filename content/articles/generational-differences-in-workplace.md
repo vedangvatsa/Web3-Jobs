@@ -7,5 +7,5 @@ description: "From Boomers to Gen Z, today's workplace is a mix of generations. 
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "team diverse generations"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
