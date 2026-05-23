@@ -240,7 +240,7 @@ const testimonials = [
   image: "/logo/quotes/suki.png"
  },
  {
-  quote: "We’ve got many mails, there’s a new one per 5 mins.",
+  quote: "We’ve got many mails of candidates applying for our jobs, there’s a new one per 5 minutes.",
   author: "Kris Lai",
   title: "CEO, Scallop",
   image: "/logo/quotes/kris.png"
