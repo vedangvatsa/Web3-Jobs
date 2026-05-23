@@ -84,6 +84,7 @@ const companies = [
 
 const partnersLogos = [
   { name: 'Altlayer', src: '/logo/partners/altlayer.png', alt: 'Altlayer logo'},
+  { name: 'Based in Lisbon', src: '/logo/partners/basedinlisbon.png', alt: 'Based in Lisbon logo' },
   { name: 'BFF', src: '/logo/partners/bff.png', alt: 'BFF logo'},
   { name: 'Coinfest', src: '/logo/partners/coinfest.png', alt: 'Coinfest logo'},
   { name: 'Date', src: '/logo/partners/date.png', alt: 'Date logo'},
@@ -124,6 +125,7 @@ const mediaLogos = [
 
 const hiredCompanies = [
   { name: 'Alemx', src: '/logo/job/alemx.png', alt: 'Alemx logo' },
+  { name: 'Ante', src: '/logo/job/ante.png', alt: 'Ante logo' },
   { name: 'Antier', src: '/logo/job/Antier.svg', alt: 'Antier logo' },
   { name: 'Bitget', src: '/logo/job/bitget.png', alt: 'Bitget logo' },
   { name: 'Circle', src: '/logo/job/circle.png', alt: 'Circle logo' },
