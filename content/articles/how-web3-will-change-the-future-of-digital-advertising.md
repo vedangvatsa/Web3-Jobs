@@ -7,7 +7,7 @@ description: "An analysis of how Web3 is set to disrupt the digital advertising 
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 The digital advertising industry functions as the backbone of the Web2 internet, heavily influenced by major players like Google and Meta. This sector generates billions in revenue through a model that relies on surveillance. Companies provide "free" services in exchange for the ability to track user behavior, compile data profiles, and sell attention to advertisers. The rise of [Web3](/what-is-web3) challenges this approach, promoting user ownership, privacy, and decentralization. This shift signals a potential transformation in digital advertising, emphasizing consent and direct value exchange.

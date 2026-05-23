@@ -7,7 +7,7 @@ category: "Technology Deep Dives"
 data-ai-hint: "blockchain data"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 ## What is MEV? The Invisible Tax on Web3 Explained

@@ -7,7 +7,7 @@ description: "A career guide for engineers who want to build the core infrastruc
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 While decentralized application (dApp) and [smart contract](/what-are-smart-contracts) developers focus on building user-facing applications within [Web3](/what-is-web3), a distinct group of engineers operates at a foundational level. These professionals, known as **Web3 [Blockchain](/what-is-a-blockchain) Infrastructure Engineers**, specialize in creating, maintaining, and enhancing the essential components of the blockchain ecosystem. This role demands a high level of technical expertise, as it involves deep engagement with the intricacies of blockchain technology.

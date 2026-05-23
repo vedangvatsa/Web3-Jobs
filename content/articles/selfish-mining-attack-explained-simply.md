@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/selfish/1200/630"
 data-ai-hint: "selfish mining"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 ## Selfish Mining Attack Explained Simply

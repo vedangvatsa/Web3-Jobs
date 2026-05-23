@@ -7,7 +7,7 @@ category: "Industry Insights"
 data-ai-hint: "man portrait"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 ## Marc Andreessen on Web3: The Internet's Next Evolution

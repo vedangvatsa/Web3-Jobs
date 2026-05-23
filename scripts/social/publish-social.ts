@@ -517,6 +517,177 @@ async function postToBluesky(text: string, imagePath: string) {
   return postData.uri;
 }
 
+function cleanAndCompareText(candidate: string, existing: string): boolean {
+  const normalize = (t: string) => {
+    return t
+      .toLowerCase()
+      .replace(/https?:\/\/[^\s]+/g, '') // remove URLs
+      .replace(/#\w+/g, '')             // remove hashtags
+      .replace(/[^a-z0-9]/g, '')        // keep only alphanumeric
+      .substring(0, 80);                // compare the first 80 clean chars
+  };
+  
+  const normCandidate = normalize(candidate);
+  const normExisting = normalize(existing);
+  
+  if (normCandidate.length < 15 || normExisting.length < 15) return false;
+  return normCandidate === normExisting || normExisting.includes(normCandidate) || normCandidate.includes(normExisting);
+}
+
+async function fetchRecentLinkedInPosts(accessToken: string, organizationId: string): Promise<string[]> {
+  try {
+    const url = `https://api.linkedin.com/rest/posts?author=urn%3Ali%3Aorganization%3A${organizationId}&q=author&count=20`;
+    const res = await fetch(url, {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${accessToken}`,
+        'LinkedIn-Version': '202405',
+      },
+    });
+
+    if (!res.ok) {
+      console.warn(`[Pre-flight] LinkedIn recent posts API warning: ${res.status} ${await res.text()}`);
+      return [];
+    }
+
+    const data = await res.json() as any;
+    return (data.elements || []).map((el: any) => el.commentary || '');
+  } catch (err) {
+    console.warn('[Pre-flight] LinkedIn fetch failed:', err);
+    return [];
+  }
+}
+
+async function fetchRecentInstagramPosts(accessToken: string, igUserId: string): Promise<string[]> {
+  try {
+    const url = `https://graph.facebook.com/v19.0/${igUserId}/media?fields=caption&limit=20&access_token=${accessToken}`;
+    const res = await fetch(url);
+    if (!res.ok) {
+      console.warn(`[Pre-flight] Instagram API warning: ${res.status} ${await res.text()}`);
+      return [];
+    }
+    const data = await res.json() as any;
+    return (data.data || []).map((el: any) => el.caption || '');
+  } catch (err) {
+    console.warn('[Pre-flight] Instagram fetch failed:', err);
+    return [];
+  }
+}
+
+async function fetchRecentTweetsX(): Promise<string[]> {
+  try {
+    const consumerKey = process.env.X_CONSUMER_KEY;
+    const consumerSecret = process.env.X_CONSUMER_SECRET;
+    const oauthToken = process.env.X_ACCESS_TOKEN;
+    const oauthTokenSecret = process.env.X_ACCESS_TOKEN_SECRET;
+
+    if (!consumerKey || !consumerSecret || !oauthToken || !oauthTokenSecret) {
+      return [];
+    }
+
+    const url = 'https://api.twitter.com/1.1/statuses/user_timeline.json';
+    const params: Record<string, string> = {
+      count: '30',
+      oauth_consumer_key: consumerKey,
+      oauth_nonce: generateOAuthNonce(),
+      oauth_signature_method: 'HMAC-SHA1',
+      oauth_timestamp: Math.floor(Date.now() / 1000).toString(),
+      oauth_token: oauthToken,
+      oauth_version: '1.0',
+    };
+    params.oauth_signature = generateOAuthSignature('GET', url, params, consumerSecret, oauthTokenSecret);
+
+    const res = await fetch(`${url}?count=30`, {
+      method: 'GET',
+      headers: {
+        Authorization: buildOAuthHeader(params),
+      },
+    });
+
+    if (!res.ok) {
+      console.warn(`[Pre-flight] X API warning ${res.status}: ${await res.text()}`);
+      return [];
+    }
+
+    const tweets = await res.json() as any[];
+    return tweets.map((t) => t.text || '');
+  } catch (err) {
+    console.warn('[Pre-flight] X fetch failed:', err);
+    return [];
+  }
+}
+
+async function fetchRecentBlueskyPosts(): Promise<string[]> {
+  try {
+    const handle = process.env.BLUESKY_HANDLE || 'hashtagweb3.bsky.social';
+    const appPassword = process.env.BLUESKY_APP_PASSWORD;
+
+    if (!appPassword) {
+      return [];
+    }
+
+    const sessionRes = await fetch('https://bsky.social/xrpc/com.atproto.server.createSession', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ identifier: handle, password: appPassword }),
+    });
+
+    if (!sessionRes.ok) {
+      console.warn(`[Pre-flight] Bluesky auth failed: ${await sessionRes.text()}`);
+      return [];
+    }
+
+    const session = await sessionRes.json() as any;
+    const { accessJwt, did } = session;
+
+    const feedRes = await fetch(`https://bsky.social/xrpc/app.bsky.feed.getAuthorFeed?actor=${did}&limit=30`, {
+      headers: { Authorization: `Bearer ${accessJwt}` },
+    });
+
+    if (!feedRes.ok) {
+      console.warn(`[Pre-flight] Bluesky recent posts API warning: ${feedRes.status} ${await feedRes.text()}`);
+      return [];
+    }
+
+    const feedData = await feedRes.json() as any;
+    return (feedData.feed || []).map((el: any) => el.post?.record?.text || '');
+  } catch (err) {
+    console.warn('[Pre-flight] Bluesky fetch failed:', err);
+    return [];
+  }
+}
+
+async function checkIfAlreadyPostedOnPlatform(platform: string, text: string): Promise<boolean> {
+  const accessTokenLI = process.env.LINKEDIN_ACCESS_TOKEN;
+  const orgIdLI = process.env.LINKEDIN_ORG_ID || '89714573';
+  const accessTokenIG = process.env.INSTAGRAM_ACCESS_TOKEN;
+  const igUserId = process.env.INSTAGRAM_USER_ID;
+
+  let recentTexts: string[] = [];
+
+  if (platform === 'linkedin' && accessTokenLI) {
+    recentTexts = await fetchRecentLinkedInPosts(accessTokenLI, orgIdLI);
+  } else if (platform === 'instagram' && accessTokenIG && igUserId) {
+    recentTexts = await fetchRecentInstagramPosts(accessTokenIG, igUserId);
+  } else if (platform === 'twitter') {
+    recentTexts = await fetchRecentTweetsX();
+  } else if (platform === 'bluesky') {
+    recentTexts = await fetchRecentBlueskyPosts();
+  }
+
+  if (recentTexts.length === 0) {
+    return false;
+  }
+
+  for (const existingText of recentTexts) {
+    if (cleanAndCompareText(text, existingText)) {
+      return true;
+    }
+  }
+
+  return false;
+}
+
 // --- Main ---
 
 async function main() {
@@ -560,12 +731,38 @@ async function main() {
   
   let post: PostContent | null = null;
   let chosenIndex = -1;
+  let text = '';
   
   for (let attempt = 0; attempt < schedule.length; attempt++) {
     const idx = (platformState.lastIndex + 1 + attempt) % schedule.length;
-    if (!postedIds.has(schedule[idx].id)) {
-      post = schedule[idx];
+    const candidate = schedule[idx];
+    
+    if (!postedIds.has(candidate.id)) {
+      // Use platform-specific text
+      let candidateText: string;
+      if ((platform === 'twitter' || platform === 'bluesky') && candidate.twitter?.text) {
+        candidateText = candidate.twitter.text;
+      } else if (platform === 'instagram') {
+        candidateText = candidate.instagram.text;
+      } else {
+        candidateText = candidate.linkedin.text;
+      }
+      
+      console.log(`🔍 Pre-flight check for ${candidate.id} on ${platform}...`);
+      const alreadyPosted = await checkIfAlreadyPostedOnPlatform(platform, candidateText);
+      
+      if (alreadyPosted) {
+        console.log(`⚠️ Pre-flight check: Post ${candidate.id} was already posted to ${platform}! Updating state and skipping...`);
+        platformState.posted.push(`${candidate.id}_${new Date().toISOString()}`);
+        platformState.lastIndex = idx;
+        saveState(state);
+        postedIds.add(candidate.id); // add to set so we don't try it again in this run
+        continue;
+      }
+      
+      post = candidate;
       chosenIndex = idx;
+      text = candidateText;
       break;
     }
   }
@@ -573,16 +770,6 @@ async function main() {
   if (!post) {
     console.log(`All ${schedule.length} posts already published to ${platform}. Nothing to post.`);
     process.exit(0);
-  }
-
-  // Use platform-specific text: twitter has its own field, falls back to instagram
-  let text: string;
-  if ((platform === 'twitter' || platform === 'bluesky') && post.twitter?.text) {
-    text = post.twitter.text;
-  } else if (platform === 'instagram') {
-    text = post.instagram.text;
-  } else {
-    text = post.linkedin.text;
   }
   let imagePath = '';
   if (post.image) {

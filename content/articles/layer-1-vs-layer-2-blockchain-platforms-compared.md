@@ -7,7 +7,7 @@ description: "A full comparison of Layer 1 (L1) and Layer 2 (L2) blockchain plat
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 The conversation around blockchain scalability focuses on two main categories: **Layer 1 (L1)** and **Layer 2 (L2)**. Understanding the differences between these platforms is essential for developers, users, and investors in the [Web3](/what-is-web3) ecosystem. L1 and L2 represent distinct approaches to addressing the **[blockchain trilemma](/is-web3-dead)**, working together to enhance the scalability and usability of a decentralized internet.

@@ -7,7 +7,7 @@ description: "A career guide to the emerging Web3 job market in Brazzaville. Exp
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 Brazzaville, the capital of the Republic of the Congo, is building its technological aspirations. The city benefits from a wealth of natural resources and a youthful, urban population. As Brazzaville explores [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technologies, it aims to modernize and diversify its economy. Although the local tech ecosystem is in its infancy, a community of tech enthusiasts and entrepreneurs is emerging, focusing on decentralized technologies to address issues in finance, logistics, and governance.

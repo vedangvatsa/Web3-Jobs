@@ -7,7 +7,7 @@ description: "A practical guide for developers on how to build a basic Automated
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 Automated Market Makers (AMMs) serve as foundational elements in Decentralized Finance ([DeFi](/what-is-defi)). They enable users to trade assets without intermediaries, using pools of [tokens](/what-is-a-token) instead of traditional order books. This design allows for easy, permissionless trading.

@@ -7,7 +7,7 @@ description: "An explanation of the symbiotic relationship between Web3 and digi
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 The terms "[Web3](/what-is-web3)" and "digital currencies" or "cryptocurrencies" often intersect, raising the question of their connection. This relationship is foundational. Digital currencies serve as the native economic layer of Web3, offering the incentives, assets, and payment systems necessary for a decentralized internet.

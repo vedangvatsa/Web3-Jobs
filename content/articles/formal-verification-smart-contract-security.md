@@ -7,7 +7,7 @@ description: "A deep dive into formal verification, the technique used to mathem
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 In the high-stakes environment of [smart contract](/what-are-smart-contracts) development, traditional testing methods such as unit tests and fuzzing are important but insufficient. Testing can demonstrate the presence of bugs but cannot guarantee their absence. For protocols securing substantial value, a higher standard of assurance is essential. This is where formal verification plays a critical role.

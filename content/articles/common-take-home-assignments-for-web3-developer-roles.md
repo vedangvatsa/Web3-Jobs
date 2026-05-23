@@ -7,7 +7,7 @@ description: "Review typical smart contract and dApp development assignments use
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 You've successfully passed the initial screening call for a [Web3](/what-is-web3) [developer role](/entry-level-jobs-in-web3). The next step typically involves a **take-home assignment**. This assignment is important for the [interview](/how-to-prepare-for-job-interview) process, allowing companies to evaluate your practical coding skills, attention to detail, and ability to work autonomously.

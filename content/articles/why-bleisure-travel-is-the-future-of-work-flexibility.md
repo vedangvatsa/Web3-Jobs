@@ -7,7 +7,7 @@ description: "An analysis of the rise of 'bleisure' travel and how it represents
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 The nature of work is undergoing significant changes. The rigid 9-to-5, office-centric model of the 20th century is giving way to a more flexible, remote, and autonomous future. Central to this transformation is a trend that is reshaping the boundaries between professional and personal lives: **bleisure** travel.

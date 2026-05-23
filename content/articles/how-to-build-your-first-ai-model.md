@@ -7,7 +7,7 @@ description: "A beginner's, step-by-step guide to building a simple but complete
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 The concept of building an AI model often seems daunting. However, modern tools now enable anyone with basic programming skills to create a functional machine learning model within a few hours.

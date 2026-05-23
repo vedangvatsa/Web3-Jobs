@@ -7,7 +7,7 @@ description: "An analysis of 'shilling' in the crypto space and its corrosive ef
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 The [Web3](/what-is-web3) sector aims to create a "trustless" environment, relying on transparent code instead of human intermediaries. Unfortunately, the social dynamics within Web3 often succumb to misinformation, hype, and a troubling phenomenon known as **"shilling."** This practice significantly undermines user trust and poses serious risks to the sustainable growth and broader acceptance of the decentralized internet.

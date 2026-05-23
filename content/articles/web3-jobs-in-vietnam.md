@@ -7,7 +7,7 @@ description: "Explore Vietnam's explosive Web3 scene, a global leader in GameFi 
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 Vietnam has emerged as a significant player in the [Web3](/what-is-web3) space, particularly within the field of [blockchain](/what-is-a-blockchain) gaming, known as GameFi. Its large, youthful, and entrepreneurial population, coupled with a strong gaming culture and a high cryptocurrency adoption rate, has established a active ecosystem for innovation. The success of Axie Infinity, a blockchain game created by the Vietnamese studio Sky Mavis, has inspired many new developers and solidified Vietnam's reputation in this sector.

@@ -6,7 +6,7 @@ description: "In Web3, your GitHub is your resume. This guide covers the essenti
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-15"
+lastUpdated: "2026-05-20"
 ---
 
 In the [Web3](/what-is-web3) job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary, while your LinkedIn profile holds little significance. The most critical asset in your job search as a developer is your [portfolio](/building-web3-portfolio), particularly your GitHub profile. Hiring managers and technical recruiters seek concrete evidence of your skills, including your ability to write clean, secure [Solidity](/best-programming-languages-for-blockchain-development) code and create intuitive frontends that interact effectively with the [blockchain](/what-is-a-blockchain). They also want to see a genuine enthusiasm for the technology that extends beyond professional obligations.
