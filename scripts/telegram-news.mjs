@@ -205,6 +205,7 @@ ${headlines}`;
     ...s,
     link: newsItems[s.index - 1]?.link,
     source: newsItems[s.index - 1]?.source,
+    originalTitle: newsItems[s.index - 1]?.title,
   }));
 }
 
@@ -284,11 +285,12 @@ async function postOnce() {
     if (!wa.size || !wb.size) return false;
     let overlap = 0;
     for (const w of wa) if (wb.has(w)) overlap++;
-    return overlap / Math.min(wa.size, wb.size) > 0.5;
+    return overlap / Math.min(wa.size, wb.size) > 0.4;
   }
 
   const fresh = allNews.filter(n => {
     if (postedLinks.includes(n.link)) return false;
+    // Check against both rewritten headlines AND original titles stored from previous runs
     if (postedHeadlines.some(h => isHeadlineSimilar(n.title, h))) return false;
     return true;
   });
@@ -319,10 +321,11 @@ async function postOnce() {
   // Save cooldown timestamp
   fs.writeFileSync(LAST_POST_FILE, JSON.stringify({ postedAt: new Date().toISOString() }));
 
-  // Mark as posted (store both link and headline for cross-source dedup)
+  // Mark as posted (store link, rewritten headline, AND original RSS title for cross-source dedup)
   for (const s of stories) {
     if (s.link) posted.add(s.link);
     if (s.headline) posted.add(s.headline);
+    if (s.originalTitle) posted.add(s.originalTitle);
   }
   savePosted(posted);
 }
