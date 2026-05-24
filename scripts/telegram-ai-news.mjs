@@ -19,7 +19,7 @@ try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }
 const BOT_TOKEN = process.env.TELEGRAM_AI_BOT_TOKEN;
 const CHANNEL_ID = process.env.TELEGRAM_AI_CHANNEL_ID;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const STORIES_PER_POST = 5;
+const STORIES_PER_POST = 3;
 const POST_COOLDOWN_HOURS = 7; // Only post every 7 hours
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-ai-news-posted.json');
 const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-ai-news-last.json');

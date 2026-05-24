@@ -20,7 +20,7 @@ const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHANNEL_ID = process.env.TELEGRAM_NEWS_CHANNEL_ID;
 const THREAD_ID = process.env.TELEGRAM_THREAD_ID;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const STORIES_PER_POST = 5;
+const STORIES_PER_POST = 3;
 const POST_COOLDOWN_HOURS = 7;
 const CTA_URL = 'https://hashtagweb3.com/news?utm_source=telegram&utm_medium=social&utm_campaign=news_digest';
 // Use channel-specific state files so channel + group posts don't share cooldowns
