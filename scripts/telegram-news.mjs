@@ -177,11 +177,13 @@ async function filterAndSummarize(newsItems, recentHeadlines = []) {
 
   const prompt = `Pick the ${STORIES_PER_POST} most important Web3 industry stories from these ${Math.min(newsItems.length, 30)} items.
 
-These should be stories a Web3professional MUST know today. Think market-moving events only.
+These should be stories a Web3 professional MUST know today. Think market-moving events only.
 
-Pick: major funding rounds ($50M+), new regulation or government action, protocol launches/upgrades that affect many users, exchange IPOs or acquisitions, stablecoin developments, institutional adoption milestones.
+RELEVANCE FILTER — stories MUST be directly about blockchain, cryptocurrency, DeFi, NFTs, DAOs, tokenization, or Web3 protocols. Reject stories that are about general tech, AI, gaming, deepfakes, cybersecurity, traditional finance, or general law — even if published on a crypto news site. If a story does not involve a blockchain, token, protocol, exchange, or crypto regulation, it is NOT Web3.
 
-Skip: memecoins, celebrity drama, price predictions, whale movements, clickbait, individual company earnings or stock moves, minor partnerships, company PR or marketing pieces (e.g. "X offers solution"), sponsored content, one company's internal business changes.
+Pick: major funding rounds ($50M+), new crypto regulation or government action on digital assets, protocol launches/upgrades that affect many users, exchange IPOs or acquisitions, stablecoin developments, institutional crypto adoption milestones.
+
+Skip: memecoins, celebrity drama, price predictions, whale movements, clickbait, individual company earnings or stock moves, minor partnerships, company PR or marketing pieces (e.g. "X offers solution"), sponsored content, one company's internal business changes, AI/deepfake/cybersecurity stories unrelated to blockchain, general tech news.
 
 CRITICAL: All ${STORIES_PER_POST} stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
 ${recentBlock}
