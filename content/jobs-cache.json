@@ -1,5 +1,21 @@
 [
   {
+    "id": "80221131",
+    "title": "Senior Software Engineer, Trusted Platform",
+    "company": "Fireblocks",
+    "link": "https://boards.greenhouse.io/fireblocks/jobs/4682123006",
+    "date": "2026-05-24T10:32:31.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "7941890",
+    "title": "Contracting Operations Specialist",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7941890",
+    "date": "2026-05-24T05:37:22-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "cd45063a-740a-4526-8d50-51f689dad920",
     "title": "Backend Engineer - Payment",
     "company": "Binance",
@@ -3576,6 +3592,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "7757554",
+    "title": "UAE Chief Risk Officer and Compliance and Money Laundering Reporting Officer (CRO/COMLRO)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7757554",
+    "date": "2026-05-18T05:46:14-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "4868991101",
     "title": "Frontend Development Engineer Intern",
     "company": "Bybit",
@@ -6142,6 +6166,14 @@
     "link": "https://jobs.ashbyhq.com/Goldsky/7df9557b-85e6-4d8b-9d0e-6515522c1f51",
     "date": "2026-05-12T16:36:34.278+00:00",
     "source": "Ashby: Goldsky"
+  },
+  {
+    "id": "2601903",
+    "title": "Expansion Manager - Tokenization (100% remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/expansion-manager-tokenization-100-remote-11",
+    "date": "2026-05-12 16:28:57 UTC",
+    "source": "Recruitee: Tether"
   },
   {
     "id": "8539657002",
@@ -31194,29 +31226,5 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4849999101",
     "date": "2026-04-24T09:10:14-04:00",
     "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "c23327d7-411e-44b7-8f25-3790558ab7ff",
-    "title": "Fraud Risk Expert/Manager",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/c23327d7-411e-44b7-8f25-3790558ab7ff",
-    "date": "2026-04-24T09:44:28.942Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "4844323101",
-    "title": "Associate, Customer Support - Live chat",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4844323101",
-    "date": "2026-04-24T05:39:07-04:00",
-    "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "2580693",
-    "title": "Expansion Manager - Tokenization (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-manager-tokenization-100-remote-8",
-    "date": "2026-04-24 09:02:07 UTC",
-    "source": "Recruitee: Tether"
   }
 ]
