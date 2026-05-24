@@ -165,10 +165,15 @@ async function callGemini(prompt) {
   throw new Error('All Gemini models failed');
 }
 
-async function filterAndSummarize(newsItems) {
+async function filterAndSummarize(newsItems, recentHeadlines = []) {
   const headlines = newsItems.slice(0, 30).map((n, i) => (
     `${i + 1}. [${n.source}] ${n.title}\n   ${n.snippet}`
   )).join('\n\n');
+
+  // Include recently posted headlines so Gemini avoids the same events
+  const recentBlock = recentHeadlines.length > 0
+    ? `\n\nALREADY POSTED (do NOT pick stories about the same events, even if worded differently):\n${recentHeadlines.map(h => `- ${h}`).join('\n')}\n`
+    : '';
 
   const prompt = `Pick the ${STORIES_PER_POST} most important Web3 industry stories from these ${Math.min(newsItems.length, 30)} items.
 
@@ -178,8 +183,8 @@ Pick: major funding rounds ($50M+), new regulation or government action, protoco
 
 Skip: memecoins, celebrity drama, price predictions, whale movements, clickbait, individual company earnings or stock moves, minor partnerships, company PR or marketing pieces (e.g. "X offers solution"), sponsored content, one company's internal business changes.
 
-CRITICAL: All 5 stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
-
+CRITICAL: All ${STORIES_PER_POST} stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
+${recentBlock}
 For each story write:
 - headline: factual, max 10 words, no hype. USE the company name (e.g. "Kraken files for IPO" not "Digital asset company files for IPO"). Spell out regulatory acronyms (write "US commodities regulator" not "CFTC"). No jargon a non-crypto reader wouldn't understand.
 - summary: 1 sentence, max 20 words. DO NOT repeat the headline. Add context, numbers, or consequences. Do NOT name-drop third-party products or brands in the summary.
@@ -302,7 +307,8 @@ async function postOnce() {
   }
 
   console.log('🤖 Asking Gemini to filter & summarize...');
-  const stories = await filterAndSummarize(fresh);
+  const recentHeadlines = postedHeadlines.slice(-30);
+  const stories = await filterAndSummarize(fresh, recentHeadlines);
   console.log(`  Selected ${stories.length} stories`);
 
   const message = formatMessage(stories);
