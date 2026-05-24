@@ -52,6 +52,7 @@ const nextConfig: NextConfig = {
       { source: '/what-is-dao', destination: '/dao', permanent: true },
       { source: '/what-is-staking', destination: '/staking', permanent: true },
       { source: '/what-is-depin', destination: '/glossary/defi', permanent: true },
+      { source: '/how-to-be-a-good-community-moderator', destination: '/web3-community-manager-career', permanent: true },
     ]
   },
   async headers() {
