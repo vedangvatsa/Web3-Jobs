@@ -172,9 +172,11 @@ async function filterAndSummarize(newsItems, recentHeadlines = []) {
 
 These should be stories an AI professional MUST know today. Think industry-moving events only.
 
-Pick: new model releases, major research breakthroughs, funding rounds ($50M+), regulatory moves, open-source releases, infrastructure changes, industry shifts, notable deployments at scale.
+RELEVANCE FILTER — stories MUST be directly about artificial intelligence, machine learning, LLMs, AI infrastructure, or AI regulation. Reject stories about general tech, crypto, gaming, social media drama, or business news that merely mentions AI in passing. If AI is not the core subject, skip it.
 
-Skip: opinion pieces, listicles, how-to guides, product reviews, company PR or marketing pieces, sponsored content, minor feature updates, one company's internal changes or earnings.
+Pick: new model releases, major research breakthroughs, funding rounds ($50M+), regulatory moves on AI, open-source releases, infrastructure changes, industry shifts, notable deployments at scale.
+
+Skip: opinion pieces, listicles, how-to guides, product reviews, company PR or marketing pieces, sponsored content, minor feature updates, one company's internal changes or earnings, crypto/blockchain stories, general tech news that only tangentially mentions AI.
 
 CRITICAL: All ${STORIES_PER_POST} stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
 ${recentBlock}
