@@ -158,10 +158,15 @@ async function callGemini(prompt) {
   throw new Error('All Gemini models failed');
 }
 
-async function filterAndSummarize(newsItems) {
+async function filterAndSummarize(newsItems, recentHeadlines = []) {
   const headlines = newsItems.slice(0, 30).map((n, i) => (
     `${i + 1}. [${n.source}] ${n.title}\n   ${n.snippet}`
   )).join('\n\n');
+
+  // Include recently posted headlines so Gemini avoids the same events
+  const recentBlock = recentHeadlines.length > 0
+    ? `\n\nALREADY POSTED (do NOT pick stories about the same events, even if worded differently):\n${recentHeadlines.map(h => `- ${h}`).join('\n')}\n`
+    : '';
 
   const prompt = `Pick the ${STORIES_PER_POST} most important AI industry stories from these ${Math.min(newsItems.length, 30)} items.
 
@@ -171,8 +176,8 @@ Pick: new model releases, major research breakthroughs, funding rounds ($50M+), 
 
 Skip: opinion pieces, listicles, how-to guides, product reviews, company PR or marketing pieces, sponsored content, minor feature updates, one company's internal changes or earnings.
 
-CRITICAL: All 5 stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
-
+CRITICAL: All ${STORIES_PER_POST} stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
+${recentBlock}
 For each story write:
 - headline: factual, max 10 words, no hype. USE the company name (e.g. "OpenAI releases new reasoning model" not "AI company releases new model"). No jargon a non-technical reader wouldn't understand.
 - summary: 1 sentence, max 20 words. DO NOT repeat the headline. Add context, numbers, or consequences. Do NOT name-drop third-party products or brands in the summary.
@@ -292,7 +297,8 @@ async function postOnce() {
   }
 
   console.log('Asking Gemini to filter & summarize...');
-  const stories = await filterAndSummarize(fresh);
+  const recentHeadlines = postedHeadlines.slice(-30);
+  const stories = await filterAndSummarize(fresh, recentHeadlines);
   console.log(`  Selected ${stories.length} stories`);
 
   const message = formatMessage(stories);
