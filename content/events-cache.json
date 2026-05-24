@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-evt-2eFFngk1BlOZFjR",
-    "name": "Walk&AfterWalk - BookSwap",
-    "description": "",
-    "startDate": "2026-05-24T11:00:00.000Z",
-    "endDate": "2026-05-24T13:00:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/vif00qqq",
-    "coverImage": "https://images.lumacdn.com/event-covers/ej/f1a84473-07d9-4f60-b33f-e40ae00acebb.png",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
     "id": "luma-evt-xOJM2bJL3urnKc0",
     "name": "CARBON x SILICON: The Agentic Shift | Panel Talk",
     "description": "",
@@ -145,10 +131,10 @@
     "description": "",
     "startDate": "2026-05-25T00:00:00.000Z",
     "endDate": "2026-05-25T00:00:00.000Z",
-    "city": "Tokyo",
-    "country": "Japan",
-    "location": "Tokyo, Japan",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-may-tokyo-jp",
+    "city": "Crete",
+    "country": "Greece",
+    "location": "Crete, Greece",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-may-crete-gr",
     "coverImage": null,
     "source": "conferenceindex",
     "month": "May 2026"
@@ -980,6 +966,20 @@
     "month": "May 2026"
   },
   {
+    "id": "luma-host-evt-LuA8RTtYCIF9bPE",
+    "name": "Vancouver VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-05-29T17:00:00.000Z",
+    "endDate": "2026-05-30T01:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/fixm0iob",
+    "coverImage": "https://images.lumacdn.com/event-covers/g7/e3cf8181-b6a3-4459-94ce-da3996d308f4.png",
+    "source": "luma-trusted",
+    "month": "May 2026"
+  },
+  {
     "id": "ma-ethglobal-prague",
     "name": "EthGlobal Prague",
     "description": "ETHGlobal Prague brings together fans and leading experts in the Ethereum Ecosystem and provides teams with software, partners, and mentors to create the product of their lifetime in 36 hours. More th",
@@ -1064,6 +1064,20 @@
     "month": "May 2026"
   },
   {
+    "id": "luma-evt-UUbuiARlP81y3AU",
+    "name": "CryptoMondays (Proof of Talk)",
+    "description": "",
+    "startDate": "2026-06-01T16:00:00.000Z",
+    "endDate": "2026-06-01T18:30:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/5r1vj6zl",
+    "coverImage": "https://images.lumacdn.com/event-covers/af/21d36905-f605-4b21-a496-449fc80d9881.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-host-disccal-n6TM01HTzsnUHAl",
     "name": "Istanbul Blockchain Week",
     "description": "Explore side events at Istanbul Blockchain Week from June 2-3, where global blockchain enthusiasts and experts converge to discuss innovations and trends in the industry.",
@@ -1131,6 +1145,20 @@
     "url": "https://europe.money2020.com/",
     "coverImage": "https://europe.money2020.com//images.ctfassets.net/ksgcgp3n790m/5lzBIfSCht7K107M7Yep5o/cd5210c09b16d3341b02e29bb7ab640c/MN1R1037.jpg",
     "source": "marketacross",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-iVSPH4tFOz1gjOt",
+    "name": "2030: Every Asset Is Onchain. What's Your Move Today?",
+    "description": "",
+    "startDate": "2026-06-02T06:30:00.000Z",
+    "endDate": "2026-06-02T09:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/tbw_proof_of_talk",
+    "coverImage": "https://images.lumacdn.com/uploads/ld/96a9ec71-90ad-47fe-b0c1-78a2adf90ac5.png",
+    "source": "luma",
     "month": "June 2026"
   },
   {
