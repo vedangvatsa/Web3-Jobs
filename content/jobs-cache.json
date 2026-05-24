@@ -1,5 +1,77 @@
 [
   {
+    "id": "cd45063a-740a-4526-8d50-51f689dad920",
+    "title": "Backend Engineer - Payment",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/cd45063a-740a-4526-8d50-51f689dad920",
+    "date": "2026-05-24T00:05:30.195Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "5843597004",
+    "title": "Lead Data Engineer",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5843597004",
+    "date": "2026-05-23T16:04:38-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "73255d78-7e06-4e53-b959-dc5fde29d598",
+    "title": "Senior Sales Recruiter",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/73255d78-7e06-4e53-b959-dc5fde29d598",
+    "date": "2026-05-23T20:00:07.895+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "7900901",
+    "title": "Risk Manager",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7900901?t=gh_src=&gh_jid=7900901",
+    "date": "2026-05-23T12:46:21-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7946230",
+    "title": "Engagement Manager, AUNZ",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7946230",
+    "date": "2026-05-23T10:53:08-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "80124161",
+    "title": "Staff/Senior Security Engineer - DeFi",
+    "company": "Ethena Labs",
+    "link": "https://jobs.lever.co/ethenalabs/726169f0-40fd-44d1-8862-7d9334db69e5",
+    "date": "2026-05-23T13:56:31.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "80095794",
+    "title": "SMB Account Manager",
+    "company": "Gem",
+    "link": "https://jobs.gem.com/gem/am9icG9zdDrVFMofOvSv9Kj_UJIu60gq",
+    "date": "2026-05-23T12:16:37.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "80062287",
+    "title": "Sales Consultant, Financial Services - Sao Paulo",
+    "company": "Hedera Hashgraph",
+    "link": "https://boards.greenhouse.io/hashgraph/jobs/8560876002",
+    "date": "2026-05-23T11:11:11.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "80052100",
+    "title": "Senior Solana Engineer",
+    "company": "M0",
+    "link": "https://boards.greenhouse.io/m0dbathenextthingltd/jobs/4257979009",
+    "date": "2026-05-23T10:55:59.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
     "id": "24c0957e-3ebc-47b6-9061-34982c554447",
     "title": "Lead All Source Investigator (US - Remote)",
     "company": "TRM Labs",
@@ -30,6 +102,102 @@
     "link": "https://jobs.ashbyhq.com/ramp/6c3cbaf3-33ad-453f-8b91-0d0b2c4f897d",
     "date": "2026-05-22T21:19:57.089+00:00",
     "source": "Ashby: Ramp"
+  },
+  {
+    "id": "90bc53c9-b2ef-46f3-944c-b70934a7f5a8",
+    "title": "Customer Service Representative (Czech & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/90bc53c9-b2ef-46f3-944c-b70934a7f5a8",
+    "date": "2026-05-22T21:13:35.734Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "da57d8d7-75d7-49cd-acf7-f1bdb5924281",
+    "title": "Customer Service Representative (Slovak & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/da57d8d7-75d7-49cd-acf7-f1bdb5924281",
+    "date": "2026-05-22T21:11:57.892Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "fef74ee8-318c-4a02-a095-8524bbeb643e",
+    "title": "Customer Service Representative (Hungarian & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/fef74ee8-318c-4a02-a095-8524bbeb643e",
+    "date": "2026-05-22T21:10:45.556Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "729c165a-7ea6-4c3c-9d0d-c352fd98c941",
+    "title": "Customer Service Representative (Slovenian & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/729c165a-7ea6-4c3c-9d0d-c352fd98c941",
+    "date": "2026-05-22T21:09:45.120Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "a5997f0c-38cf-4d8f-927f-7240466fae8b",
+    "title": "Customer Service Representative (Croatian & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/a5997f0c-38cf-4d8f-927f-7240466fae8b",
+    "date": "2026-05-22T21:07:48.972Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "0fe5cc7c-06d4-4ddd-afdc-856cdde27d9e",
+    "title": "Customer Service Representative (Lithuanian & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/0fe5cc7c-06d4-4ddd-afdc-856cdde27d9e",
+    "date": "2026-05-22T21:05:41.701Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "96a1e5bb-37e9-474c-b460-0edee72e88b4",
+    "title": "Customer Service Representative (Estonian & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/96a1e5bb-37e9-474c-b460-0edee72e88b4",
+    "date": "2026-05-22T21:03:30.905Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "325affd6-2201-4e99-895c-07ae0a6f182a",
+    "title": "Customer Service Representative (Latvian & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/325affd6-2201-4e99-895c-07ae0a6f182a",
+    "date": "2026-05-22T21:00:43.901Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "d9cb72fd-af76-48f1-940a-47d21ed7aa9d",
+    "title": "Customer Service Representative (Dutch & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/d9cb72fd-af76-48f1-940a-47d21ed7aa9d",
+    "date": "2026-05-22T20:57:09.668Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "c7d22920-7316-4548-b1fc-7db3b9a6722e",
+    "title": "Customer Service Representative (Danish & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/c7d22920-7316-4548-b1fc-7db3b9a6722e",
+    "date": "2026-05-22T20:54:27.615Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "15c526c6-9343-4cb5-a3db-7015bd0a2fec",
+    "title": "Customer Service Representative (Greek & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/15c526c6-9343-4cb5-a3db-7015bd0a2fec",
+    "date": "2026-05-22T20:51:09.851Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "260ec334-4976-4028-9a61-7b14cb86273c",
+    "title": "Customer Service Representative (Swedish & English)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/260ec334-4976-4028-9a61-7b14cb86273c",
+    "date": "2026-05-22T20:47:04.396Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "9ea0f458-30ca-48ca-a3e3-3db386bafee4",
@@ -31058,189 +31226,5 @@
     "link": "https://jobs.lever.co/zeta/0634dbe9-0cbc-4cee-a8a7-c6185dbae42e",
     "date": "2026-04-24T06:56:50.854Z",
     "source": "Lever: Zeta"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/69fac0bd-c8a0-4a75-aa70-fa3f13f46b67",
-    "title": "Binance Accelerator Program - Web3 AI Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/69fac0bd-c8a0-4a75-aa70-fa3f13f46b67",
-    "date": "2026-04-24T02:59:09.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "5c943f14-54da-4b64-a145-542589b43708",
-    "title": "Senior Tax Specialist/Supervisor",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/5c943f14-54da-4b64-a145-542589b43708",
-    "date": "2026-04-24T02:42:28.630Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "2cd68650-6a17-4ac6-a724-c7e36e02ad0a",
-    "title": "Corporate Secretarial Manager",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/2cd68650-6a17-4ac6-a724-c7e36e02ad0a",
-    "date": "2026-04-24T02:08:13.570Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "98cc360b-16b2-48dc-8129-7a35b8716cda",
-    "title": "City Host - Detroit",
-    "company": "Base",
-    "link": "https://jobs.ashbyhq.com/Base/98cc360b-16b2-48dc-8129-7a35b8716cda",
-    "date": "2026-04-23T22:11:19.306+00:00",
-    "source": "Ashby: Base"
-  },
-  {
-    "id": "7848179",
-    "title": "Senior Financial Analyst GTM & Consolidation",
-    "company": "Foundry",
-    "link": "https://job-boards.greenhouse.io/foundry/jobs/7848179",
-    "date": "2026-04-23T15:37:12-04:00",
-    "source": "Greenhouse: Foundry"
-  },
-  {
-    "id": "c30378ca-9851-46d1-8b0a-1f8c53c6f776",
-    "title": "Director of Software Engineering",
-    "company": "Neon EVM",
-    "link": "https://jobs.lever.co/neon/c30378ca-9851-46d1-8b0a-1f8c53c6f776",
-    "date": "2026-04-23T19:32:26.088Z",
-    "source": "Lever: Neon EVM"
-  },
-  {
-    "id": "940edc50-46c2-44cd-abe0-2f205e70e60a",
-    "title": "Account Director, Federal Civilian (North America)",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/940edc50-46c2-44cd-abe0-2f205e70e60a",
-    "date": "2026-04-23T19:28:34.046+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "7844214",
-    "title": "AEO/GEO Marketing Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7844214",
-    "date": "2026-04-23T14:21:56-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7813067",
-    "title": "Head of Global Network Partnerships",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7813067",
-    "date": "2026-04-23T13:17:03-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7838988",
-    "title": "Senior Business Insights Analyst  (Denver Only)",
-    "company": "Guild",
-    "link": "https://www.guild.com/open-positions-at-guild?gh_jid=7838988",
-    "date": "2026-04-23T11:49:53-04:00",
-    "source": "Greenhouse: Guild"
-  },
-  {
-    "id": "7845963",
-    "title": "Payroll Manager – Europe",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7845963?gh_jid=7845963",
-    "date": "2026-04-23T08:10:59-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "7891e33d-fd9b-4caf-8bb2-442dd4fc4466",
-    "title": "Senior QA Engineer",
-    "company": "Trust Wallet",
-    "link": "https://jobs.ashbyhq.com/trust-wallet/7891e33d-fd9b-4caf-8bb2-442dd4fc4466",
-    "date": "2026-04-23T12:03:17.774+00:00",
-    "source": "Ashby: Trust Wallet"
-  },
-  {
-    "id": "7891e33d-fd9b-4caf-8bb2-442dd4fc4466",
-    "title": "Senior QA Engineer (Contractor)",
-    "company": "Trust Wallet",
-    "link": "https://jobs.ashbyhq.com/trust-wallet/7891e33d-fd9b-4caf-8bb2-442dd4fc4466",
-    "date": "2026-04-23T12:03:17.774+00:00",
-    "source": "Ashby: Trust Wallet"
-  },
-  {
-    "id": "8507700002",
-    "title": "Campus Recruiting Coordinator",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8507700002",
-    "date": "2026-04-23T07:12:10-04:00",
-    "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "7742977",
-    "title": "Staff Software Engineer, Ruby on Rails",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7742977?gh_jid=7742977",
-    "date": "2026-04-23T06:51:38-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/08deb184-b150-4e44-8cc2-4b9fb2c000c0",
-    "title": "Binance Accelerator Program - Frontend Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/08deb184-b150-4e44-8cc2-4b9fb2c000c0",
-    "date": "2026-04-23T08:55:28.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/3372ed44-94ed-4f48-b448-91957f2b3e95",
-    "title": "Senior Site Reliability Engineer (Node.js & Javascript), Trading Technologies",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/3372ed44-94ed-4f48-b448-91957f2b3e95",
-    "date": "2026-04-23T08:22:17.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "71911db9-cd7e-490e-b96e-c4801e98895f",
-    "title": "/Backend Engineer(Langaku)",
-    "company": "MANTRA",
-    "link": "https://jobs.lever.co/mantra/71911db9-cd7e-490e-b96e-c4801e98895f",
-    "date": "2026-04-23T08:01:01.370Z",
-    "source": "Lever: MANTRA"
-  },
-  {
-    "id": "b184fc73-75f4-449a-809f-708ed1ff1db8",
-    "title": "/Mobile App Engineer(Langaku)",
-    "company": "MANTRA",
-    "link": "https://jobs.lever.co/mantra/b184fc73-75f4-449a-809f-708ed1ff1db8",
-    "date": "2026-04-23T07:16:38.244Z",
-    "source": "Lever: MANTRA"
-  },
-  {
-    "id": "7835108",
-    "title": "Engineering Manager - Core Performance",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7835108",
-    "date": "2026-04-23T01:59:39-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "https://pixiongames.teamtailor.com/jobs/7616812-operations-manager-12-month-contract",
-    "title": "Operations Manager (12-month contract)",
-    "company": "Pixion Games",
-    "link": "https://pixiongames.teamtailor.com/jobs/7616812-operations-manager-12-month-contract",
-    "date": "2026-04-23T05:43:02.000Z",
-    "source": "Jobs at Shima Capital Companies | Shima Capital"
-  },
-  {
-    "id": "7841757",
-    "title": "Engineering Manager, APAC & EMEA Cards",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7841757",
-    "date": "2026-04-22T23:44:43-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "5979495004",
-    "title": "Engineer Team Lead, New Markets Singapore",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/5979495004",
-    "date": "2026-04-22T20:27:09-04:00",
-    "source": "Greenhouse: Alpaca"
   }
 ]
