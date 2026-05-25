@@ -363,6 +363,16 @@ async function postOnce() {
     const normUrl = normalizeUrl(originalItem.link);
     if (seenUrls.has(normUrl)) continue; // Duplicate URL in selection
 
+    // Programmatic check: prevent similarity with past headlines or currently selected ones
+    if (postedHeadlines.some(h => isSimilar(story.headline, h, 0.4))) {
+      console.log(`⚠️ Pruned Gemini selection due to similarity with past headline: "${story.headline}"`);
+      continue;
+    }
+    if (stories.some(s => isSimilar(story.headline, s.headline, 0.4))) {
+      console.log(`⚠️ Pruned Gemini selection due to similarity with another selected headline: "${story.headline}"`);
+      continue;
+    }
+
     seenIndices.add(idx);
     seenUrls.add(normUrl);
     stories.push(story);
@@ -397,6 +407,17 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
         const jsonMatch = sumText.match(/\{[\s\S]*\}/);
         if (jsonMatch) {
           const parsed = JSON.parse(jsonMatch[0]);
+
+          // Programmatic check: prevent similarity with past headlines or currently selected ones
+          if (postedHeadlines.some(h => isSimilar(parsed.headline, h, 0.4))) {
+            console.log(`⚠️ Pruned backfilled story due to similarity with past headline: "${parsed.headline}"`);
+            continue;
+          }
+          if (stories.some(s => isSimilar(parsed.headline, s.headline, 0.4))) {
+            console.log(`⚠️ Pruned backfilled story due to similarity with another selected headline: "${parsed.headline}"`);
+            continue;
+          }
+
           stories.push({
             index: idx,
             headline: parsed.headline,
