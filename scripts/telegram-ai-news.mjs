@@ -227,17 +227,21 @@ Pick: new model releases, major research breakthroughs, funding rounds ($50M+), 
 
 Skip: opinion pieces, listicles, how-to guides, product reviews, company PR or marketing pieces, sponsored content, minor feature updates, one company's internal changes or earnings, crypto/blockchain stories, general tech news that only tangentially mentions AI.
 
-CRITICAL: All ${STORIES_PER_POST} stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
+SEMANTIC DEDUPLICATION & CONTEXTUAL FILTERING:
+- Group the incoming stories by the real-world event they cover first. If multiple sources cover the same event (even with completely different words or focus), group them and consider only the single most authoritative article.
+- Do NOT select two stories about the same event. All selected stories must cover completely distinct real-world events.
+- Carefully review the 'ALREADY POSTED' stories below. You MUST NOT select any story that covers the same real-world event or its immediate direct follow-up, even if written differently or containing different details.
 ${recentBlock}
 For each story write:
 - headline: factual, max 10 words, no hype. USE the company name (e.g. "OpenAI releases new reasoning model" not "AI company releases new model"). No jargon a non-technical reader wouldn't understand.
 - summary: 1 sentence, max 20 words. DO NOT repeat the headline. Add context, numbers, or consequences. Do NOT name-drop third-party products or brands in the summary.
+- event_rationale: 1 short sentence explaining exactly what real-world event this covers and how it is semantically distinct from all other selections and recently posted stories.
 
 Write like a wire service. Plain, direct, no filler.
 
 BANNED WORDS: "signifies", "highlights", "underscores", "reshapes", "poised", "bolsters", "notably", "landscape", "paradigm", "innovative", "robust", "leveraging", "cutting-edge", "game-changer", "pivotal", "crucial", "essential", "transformative", "marks a", "reflects".
 
-Return ONLY a JSON array of exactly ${STORIES_PER_POST} objects: {"index", "headline", "summary"}
+Return ONLY a JSON array of exactly ${STORIES_PER_POST} objects: {"index", "headline", "summary", "event_rationale"}
 
 ${headlines}`;
 

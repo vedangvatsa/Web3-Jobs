@@ -230,19 +230,23 @@ RELEVANCE FILTER — stories MUST be directly about blockchain, cryptocurrency, 
 
 Pick: major funding rounds ($50M+), new crypto regulation or government action on digital assets, protocol launches/upgrades that affect many users, exchange IPOs or acquisitions, stablecoin developments, institutional crypto adoption milestones.
 
-Skip: memecoins, celebrity drama, price predictions, whale movements, clickbait, individual company earnings or stock moves, minor partnerships, company PR or marketing pieces (e.g. "X offers solution"), sponsored content, one company's internal business changes, AI/deepfake/cybersecurity stories unrelated to blockchain, general tech news.
+Skip: memecoins, celebrity drama, price predictions, whale movements, clickbait, individual company earnings or stock moves, minor partnerships, company PR or marketing pieces, sponsored content, one company's internal business changes, AI/deepfake/cybersecurity stories unrelated to blockchain, general tech news.
 
-CRITICAL: All ${STORIES_PER_POST} stories must be about DIFFERENT events. Never pick two stories covering the same news from different sources.
+SEMANTIC DEDUPLICATION & CONTEXTUAL FILTERING:
+- Group the incoming stories by the real-world event they cover first. If multiple sources cover the same event (even with completely different words or focus), group them and consider only the single most authoritative article.
+- Do NOT select two stories about the same event. All selected stories must cover completely distinct real-world events.
+- Carefully review the 'ALREADY POSTED' stories below. You MUST NOT select any story that covers the same real-world event or its immediate direct follow-up, even if written differently or containing different details.
 ${recentBlock}
 For each story write:
 - headline: factual, max 10 words, no hype. USE the company name (e.g. "Kraken files for IPO" not "Digital asset company files for IPO"). Spell out regulatory acronyms (write "US commodities regulator" not "CFTC"). No jargon a non-crypto reader wouldn't understand.
 - summary: 1 sentence, max 20 words. DO NOT repeat the headline. Add context, numbers, or consequences. Do NOT name-drop third-party products or brands in the summary.
+- event_rationale: 1 short sentence explaining exactly what real-world event this covers and how it is semantically distinct from all other selections and recently posted stories.
 
 Write like a wire service. Plain, direct, no filler.
 
 BANNED WORDS: "signifies", "highlights", "underscores", "reshapes", "poised", "bolsters", "notably", "landscape", "paradigm", "innovative", "robust", "leveraging", "cutting-edge", "game-changer", "pivotal", "crucial", "essential", "transformative", "marks a", "reflects".
 
-Return ONLY a JSON array of exactly ${STORIES_PER_POST} objects: {"index", "headline", "summary"}
+Return ONLY a JSON array of exactly ${STORIES_PER_POST} objects: {"index", "headline", "summary", "event_rationale"}
 
 ${headlines}`;
 
