@@ -36,9 +36,7 @@ if (!GEMINI_API_KEY) {
 // ── AI/ML RSS Feeds ──
 const FEEDS = [
   { url: 'https://techcrunch.com/category/artificial-intelligence/feed/', source: 'TechCrunch' },
-  { url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', source: 'The Verge' },
   { url: 'https://arstechnica.com/ai/feed/', source: 'Ars Technica' },
-  { url: 'https://www.wired.com/feed/tag/ai/latest/rss', source: 'Wired' },
   { url: 'https://venturebeat.com/category/ai/feed/', source: 'VentureBeat' },
   { url: 'https://www.technologyreview.com/feed/', source: 'MIT Tech Review' },
 ];
