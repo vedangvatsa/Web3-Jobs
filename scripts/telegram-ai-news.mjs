@@ -45,6 +45,63 @@ const FEEDS = [
 
 const parser = new Parser();
 
+// ── Helpers for URL Normalization and Word Stemming ──
+function normalizeUrl(urlString) {
+  try {
+    const url = new URL(urlString);
+    let host = url.hostname.toLowerCase();
+    if (host.startsWith('www.')) host = host.substring(4);
+    let pathname = url.pathname;
+    if (pathname.endsWith('/')) pathname = pathname.slice(0, -1);
+    return `${host}${pathname}`;
+  } catch {
+    return urlString.trim().toLowerCase();
+  }
+}
+
+function stemWord(word) {
+  let w = word.toLowerCase().trim();
+  if (w.endsWith('ies')) {
+    w = w.slice(0, -3) + 'y';
+  } else if (w.endsWith('s') && !w.endsWith('us') && !w.endsWith('is') && !w.endsWith('ss')) {
+    w = w.slice(0, -1);
+  }
+  if (w.endsWith('ing')) {
+    w = w.slice(0, -3);
+  } else if (w.endsWith('ed')) {
+    w = w.slice(0, -2);
+  }
+  if (w.endsWith('e') && w.length > 3) {
+    w = w.slice(0, -1);
+  }
+  return w;
+}
+
+function getKeywords(text) {
+  const stop = new Set([
+    'this','that','with','from','what','where','when','the','and','for',
+    'says','could','will','would','about','after','amid','over','under',
+    'into','onto','than','then','artificial','intelligence'
+  ]);
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9]/g, ' ')
+    .split(/\s+/)
+    .map(w => w.trim())
+    .filter(w => w.length > 3 && !stop.has(w))
+    .map(stemWord)
+    .filter(w => w.length > 2);
+}
+
+function isSimilar(a, b, threshold = 0.4) {
+  const wa = new Set(getKeywords(a));
+  const wb = new Set(getKeywords(b));
+  if (!wa.size || !wb.size) return false;
+  let overlap = 0;
+  for (const w of wa) if (wb.has(w)) overlap++;
+  return overlap / Math.min(wa.size, wb.size) > threshold;
+}
+
 // ── Posted history ──
 function loadPosted() {
   try {
@@ -92,24 +149,16 @@ async function fetchAllNews() {
   for (const items of results) all.push(...items);
   all.sort((a, b) => b.date - a.date);
 
-  // Dedup by keyword overlap
-  function getKeywords(text) {
-    const stop = new Set(['this','that','with','from','what','where','when','the','and','for','artificial','intelligence']);
-    return text.toLowerCase().replace(/[^a-z0-9]/g, ' ').split(/\s+/).filter(w => w.length > 3 && !stop.has(w));
-  }
-  function isSimilar(a, b) {
-    const wa = new Set(getKeywords(a));
-    const wb = new Set(getKeywords(b));
-    if (!wa.size || !wb.size) return false;
-    let overlap = 0;
-    for (const w of wa) if (wb.has(w)) overlap++;
-    return overlap / Math.min(wa.size, wb.size) > 0.5;
-  }
-
+  // Dedup by URL uniqueness and keyword overlap
   const unique = [];
+  const seenUrls = new Set();
   for (const item of all) {
-    if (!unique.some(u => isSimilar(item.title, u.title))) {
+    const normUrl = normalizeUrl(item.link);
+    if (seenUrls.has(normUrl)) continue;
+
+    if (!unique.some(u => isSimilar(item.title, u.title, 0.4) || normalizeUrl(u.link) === normUrl)) {
       unique.push(item);
+      seenUrls.add(normUrl);
     }
   }
 
@@ -271,24 +320,12 @@ async function postOnce() {
   const posted = loadPosted();
   const postedHeadlines = [...posted].filter(p => !p.startsWith('http'));
   const postedLinks = [...posted].filter(p => p.startsWith('http'));
-
-  function getKeywordsForDedup(text) {
-    const stop = new Set(['this','that','with','from','what','where','when','the','and','for','artificial','intelligence','says','could','will','would','about']);
-    return text.toLowerCase().replace(/[^a-z0-9]/g, ' ').split(/\s+/).filter(w => w.length > 3 && !stop.has(w));
-  }
-  function isHeadlineSimilar(a, b) {
-    const wa = new Set(getKeywordsForDedup(a));
-    const wb = new Set(getKeywordsForDedup(b));
-    if (!wa.size || !wb.size) return false;
-    let overlap = 0;
-    for (const w of wa) if (wb.has(w)) overlap++;
-    return overlap / Math.min(wa.size, wb.size) > 0.4;
-  }
+  const normalizedPostedLinks = new Set([...postedLinks].map(normalizeUrl));
 
   const fresh = allNews.filter(n => {
-    if (postedLinks.includes(n.link)) return false;
+    if (normalizedPostedLinks.has(normalizeUrl(n.link))) return false;
     // Check against both rewritten headlines AND original titles stored from previous runs
-    if (postedHeadlines.some(h => isHeadlineSimilar(n.title, h))) return false;
+    if (postedHeadlines.some(h => isSimilar(n.title, h, 0.4))) return false;
     return true;
   });
   console.log(`  ${fresh.length} not yet posted`);
@@ -300,8 +337,74 @@ async function postOnce() {
 
   console.log('Asking Gemini to filter & summarize...');
   const recentHeadlines = postedHeadlines.slice(-30);
-  const stories = await filterAndSummarize(fresh, recentHeadlines);
-  console.log(`  Selected ${stories.length} stories`);
+  const rawStories = await filterAndSummarize(fresh, recentHeadlines);
+
+  // Programmatically validate and deduplicate Gemini's selection
+  const stories = [];
+  const seenIndices = new Set();
+  const seenUrls = new Set();
+
+  for (const story of rawStories) {
+    const idx = story.index;
+    const originalItem = fresh[idx - 1];
+    if (!originalItem) continue; // Out of bounds
+    if (seenIndices.has(idx)) continue; // Duplicate index selection
+
+    const normUrl = normalizeUrl(originalItem.link);
+    if (seenUrls.has(normUrl)) continue; // Duplicate URL in selection
+
+    seenIndices.add(idx);
+    seenUrls.add(normUrl);
+    stories.push(story);
+  }
+
+  // Dynamic Backfill Loop: if Gemini's returned selection is incomplete or had duplicates/errors
+  if (stories.length < STORIES_PER_POST) {
+    console.log(`⚠️ Gemini selection had duplicates/errors. Got ${stories.length}/${STORIES_PER_POST}. Backfilling...`);
+    for (let i = 0; i < fresh.length; i++) {
+      if (stories.length >= STORIES_PER_POST) break;
+      const idx = i + 1;
+      if (seenIndices.has(idx)) continue;
+
+      const item = fresh[i];
+      const normUrl = normalizeUrl(item.link);
+      if (seenUrls.has(normUrl)) continue;
+
+      console.log(`  Backfilling with story: ${item.title}`);
+      try {
+        const summaryPrompt = `Rewrite this AI news headline and snippet into a factual plain-English digest.
+Headline: ${item.title}
+Snippet: ${item.snippet}
+
+Write:
+- headline: factual, max 10 words, no hype.
+- summary: 1 sentence, max 20 words. Do not repeat the headline.
+
+BANNED WORDS: "signifies", "highlights", "underscores", "reshapes", "poised", "bolsters", "notably", "landscape", "paradigm", "innovative", "robust", "leveraging", "cutting-edge", "game-changer", "pivotal", "crucial", "essential", "transformative", "marks a", "reflects".
+
+Return ONLY JSON: {"headline": "...", "summary": "..."}`;
+        const sumText = await callGemini(summaryPrompt);
+        const jsonMatch = sumText.match(/\{[\s\S]*\}/);
+        if (jsonMatch) {
+          const parsed = JSON.parse(jsonMatch[0]);
+          stories.push({
+            index: idx,
+            headline: parsed.headline,
+            summary: parsed.summary,
+            link: item.link,
+            source: item.source,
+            originalTitle: item.title
+          });
+          seenIndices.add(idx);
+          seenUrls.add(normUrl);
+        }
+      } catch (e) {
+        console.warn(`  Failed to summarize backfill story: ${e.message}`);
+      }
+    }
+  }
+
+  console.log(`  Final validated ${stories.length} stories`);
 
   const message = formatMessage(stories);
 
