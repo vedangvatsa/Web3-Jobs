@@ -43,8 +43,6 @@ const FEEDS = [
   { url: 'https://cointelegraph.com/rss', source: 'Cointelegraph' },
   { url: 'https://www.coindesk.com/arc/outboundfeeds/rss/', source: 'CoinDesk' },
   { url: 'https://www.theblock.co/rss.xml', source: 'The Block' },
-  { url: 'https://blockchain.news/RSS/', source: 'Blockchain.News' },
-  { url: 'https://dailyhodl.com/feed/', source: 'Daily Hodl' },
 ];
 
 const parser = new Parser();
