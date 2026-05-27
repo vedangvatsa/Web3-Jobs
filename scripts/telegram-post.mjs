@@ -232,7 +232,10 @@ function formatMessage(jobs) {
     return `• ${company} is hiring <a href="${j.url}">${title}</a>`;
   });
 
-  return lines.join('\n');
+  let text = lines.join('\n');
+  text += `\n\n_\n`;
+  text += `Tech Jobs: <a href="https://t.me/techjobsdaily">t.me/techjobsdaily</a>`;
+  return text;
 }
 
 function escapeHtml(text) {
@@ -258,7 +261,6 @@ async function sendToTelegram(message) {
       reply_markup: {
         inline_keyboard: [
           [{ text: 'Turn your CV into a Website', url: 'https://cvin.bio/?utm_source=social&utm_medium=telegram&utm_campaign=web3hiring' }],
-          [{ text: 'Tech Jobs', url: 'https://t.me/techjobsdaily' }],
         ],
       },
     }),
