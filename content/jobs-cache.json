@@ -1,5 +1,149 @@
 [
   {
+    "id": "5749b1ec-ae7c-4abc-9287-01a2a4e33a66",
+    "title": "Backend / Telemetry Engineer - Wroclaw, PL",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/5749b1ec-ae7c-4abc-9287-01a2a4e33a66",
+    "date": "2026-05-28T12:26:36.677+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "25528e5d-1ed7-46cb-a2dc-bcbf514147a2",
+    "title": "Embedded / Edge Engineer - Wroclaw, PL",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/25528e5d-1ed7-46cb-a2dc-bcbf514147a2",
+    "date": "2026-05-28T12:25:59.023+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "80658341",
+    "title": "Lead KYC Analyst, Specialized Diligence, APAC",
+    "company": "Circle",
+    "link": "https://careers.circle.com/us/en/job/JR101045",
+    "date": "2026-05-28T11:55:59.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "80658331",
+    "title": "Director of Ecosystem Growth, Indonesia",
+    "company": "Circle",
+    "link": "https://careers.circle.com/us/en/job/JR101043",
+    "date": "2026-05-28T11:55:58.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "80657664",
+    "title": "Senior Product Marketing Manager",
+    "company": "Crossmint",
+    "link": "https://crossmint.na.teamtailor.com/jobs/623529-senior-product-marketing-manager-us",
+    "date": "2026-05-28T11:53:42.000Z",
+    "source": "https://jobs.arbitrum.io/jobs"
+  },
+  {
+    "id": "7962965",
+    "title": "Electronic Sales",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7962965",
+    "date": "2026-05-28T07:42:09-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
+    "id": "df76af07-e011-417c-af4d-4e240fc127e2",
+    "title": "Senior DevOps Engineer (Exchange /Trading Platforms)",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/df76af07-e011-417c-af4d-4e240fc127e2",
+    "date": "2026-05-28T10:02:38.931Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "65010b85-f6d0-466a-a8ec-f4c498f537a8",
+    "title": "Senior DevOps Engineer (Exchange /Trading Platforms), Singapore",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/65010b85-f6d0-466a-a8ec-f4c498f537a8",
+    "date": "2026-05-28T10:01:36.132Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "b5d00bcd-e63d-4228-9d2d-3d465e96fd83",
+    "title": "Senior People Operations Specialist",
+    "company": "LI.FI",
+    "link": "https://jobs.ashbyhq.com/LI.FI/b5d00bcd-e63d-4228-9d2d-3d465e96fd83",
+    "date": "2026-05-28T09:57:09.517+00:00",
+    "source": "Ashby: LI.FI"
+  },
+  {
+    "id": "1f917c17-677a-4495-8c4d-94e518ccff57",
+    "title": "Senior DevOps Engineer (Exchange /Trading Platforms), Hong Kong",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/1f917c17-677a-4495-8c4d-94e518ccff57",
+    "date": "2026-05-28T09:51:26.914Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "8e65165c-2f07-463c-94cf-235a7c93f6f4",
+    "title": "Binance Accelerator Program - Product DA",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/8e65165c-2f07-463c-94cf-235a7c93f6f4",
+    "date": "2026-05-28T09:22:23.162Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "a52e0541-005c-4bf2-add7-70c3253f20b1",
+    "title": "Senior DevOps Engineer (Exchange /Trading Platforms), Taiwan",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/a52e0541-005c-4bf2-add7-70c3253f20b1",
+    "date": "2026-05-28T09:22:08.485Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "8635de70-c454-4f29-8ee0-4697552cb705",
+    "title": "Senior DevOps Engineer (Exchange /Trading Platforms), United Kingdom",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/8635de70-c454-4f29-8ee0-4697552cb705",
+    "date": "2026-05-28T09:15:35.134Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "90ed0716-b864-4854-a7cd-2f87ca4ff74b",
+    "title": "Senior DevOps Engineer (Exchange /Trading Platforms), Poland",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/90ed0716-b864-4854-a7cd-2f87ca4ff74b",
+    "date": "2026-05-28T09:06:35.822Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "4877182101",
+    "title": "[L&C] Lead Licensing Counsel",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4877182101",
+    "date": "2026-05-28T05:06:06-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "7954118",
+    "title": "Product Designer, Risk",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7954118",
+    "date": "2026-05-28T05:01:43-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4872578101",
+    "title": "Open Application",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4872578101",
+    "date": "2026-05-28T03:39:49-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "2618450",
+    "title": "QA Automation Engineer - (100% remote Worldwide - UTC+7/+9)",
+    "company": "Bitfinex",
+    "link": "https://careers.bitfinex.com/o/qa-automation-engineer-100-remote-worldwide-utc79-5",
+    "date": "2026-05-28 06:13:05 UTC",
+    "source": "Recruitee: Bitfinex"
+  },
+  {
     "id": "4684187006",
     "title": "Senior Accountant",
     "company": "Fireblocks",
@@ -670,6 +814,14 @@
     "link": "https://jobs.ashbyhq.com/trm-labs/62c75011-1cf1-4c40-85bc-2e2a16d76332",
     "date": "2026-05-26T21:56:03.185+00:00",
     "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "7950824",
+    "title": "Commercial Counsel",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7950824",
+    "date": "2026-05-26T17:47:45-04:00",
+    "source": "Greenhouse: Stripe"
   },
   {
     "id": "1a8e5072-a2d0-476d-9aa0-163e5ec67aa0",
@@ -1438,6 +1590,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7941890",
     "date": "2026-05-24T05:37:22-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4682123006",
+    "title": "Senior Backend Engineer, Trusted Platform",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position/4682123006?gh_jid=4682123006",
+    "date": "2026-05-24T04:38:21-04:00",
+    "source": "Greenhouse: Fireblocks"
   },
   {
     "id": "cd45063a-740a-4526-8d50-51f689dad920",
@@ -2314,6 +2474,14 @@
   {
     "id": "8fbc3d9e-46a1-40e0-bc09-657efb21cbb2",
     "title": "Vietnam Corporate Paralegal",
+    "company": "Sky Mavis",
+    "link": "https://jobs.ashbyhq.com/SkyMavis/8fbc3d9e-46a1-40e0-bc09-657efb21cbb2",
+    "date": "2026-05-22T04:36:56.362+00:00",
+    "source": "Ashby: Sky Mavis"
+  },
+  {
+    "id": "8fbc3d9e-46a1-40e0-bc09-657efb21cbb2",
+    "title": "Vietnam Corporate Paralegal/Legal Counsel",
     "company": "Sky Mavis",
     "link": "https://jobs.ashbyhq.com/SkyMavis/8fbc3d9e-46a1-40e0-bc09-657efb21cbb2",
     "date": "2026-05-22T04:36:56.362+00:00",
@@ -6248,6 +6416,14 @@
     "source": "Lever: Crypto"
   },
   {
+    "id": "441cbbf1-e674-4ba1-9a36-bd78f8b11475",
+    "title": "Quant Trader (Sports & Prediction Markets)",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/441cbbf1-e674-4ba1-9a36-bd78f8b11475",
+    "date": "2026-05-15T03:19:03.660Z",
+    "source": "Lever: Crypto"
+  },
+  {
     "id": "7919030",
     "title": "[TEMPLATE] Default Template",
     "company": "Stripe",
@@ -6466,6 +6642,14 @@
   {
     "id": "7734441003",
     "title": "Treasury Services Director",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7734441003",
+    "date": "2026-05-14T10:02:09-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7734441003",
+    "title": "Director, Treasury Services",
     "company": "OKX",
     "link": "https://job-boards.greenhouse.io/okx/jobs/7734441003",
     "date": "2026-05-14T10:02:09-04:00",
@@ -32378,53 +32562,5 @@
     "link": "https://job-boards.greenhouse.io/falconx/jobs/4689156005",
     "date": "2026-04-28T09:01:39-04:00",
     "source": "Greenhouse: FalconX"
-  },
-  {
-    "id": "5202834008",
-    "title": "Liquidity Operations Analyst",
-    "company": "Orderly Network",
-    "link": "https://job-boards.greenhouse.io/orderly/jobs/5202834008",
-    "date": "2026-04-28T06:21:41-04:00",
-    "source": "Greenhouse: Orderly Network"
-  },
-  {
-    "id": "0a490532-ce77-4bc0-b8d6-83ff4fdf36b6",
-    "title": "Product Lead, Transparency (Compliance, Risk and Reporting)",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.lever.co/anchorage/0a490532-ce77-4bc0-b8d6-83ff4fdf36b6",
-    "date": "2026-04-28T10:03:38.151Z",
-    "source": "Lever: Anchorage Digital"
-  },
-  {
-    "id": "7805386",
-    "title": "Marketing Operations Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7805386",
-    "date": "2026-04-28T03:00:19-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "2af832de-febc-4caf-975a-f3775a0dd67b",
-    "title": "Senior Growth Manager, Paid Search",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/2af832de-febc-4caf-975a-f3775a0dd67b",
-    "date": "2026-04-28T06:34:48.352Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/monad.foundation/9b6bdf21-f522-4ac6-a1e9-6b1c34a2ef0d?utm_source=jobs.shima.capital",
-    "title": "Quantitative Researcher",
-    "company": "Monad Foundation",
-    "link": "https://jobs.ashbyhq.com/monad.foundation/9b6bdf21-f522-4ac6-a1e9-6b1c34a2ef0d?utm_source=jobs.shima.capital",
-    "date": "2026-04-28T06:18:48.000Z",
-    "source": "Jobs at Shima Capital Companies | Shima Capital"
-  },
-  {
-    "id": "d1998d06-66a9-43f5-a542-b1f4b9640381",
-    "title": "Senior AML Modeling Engineer (Payments & Crypto)",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/d1998d06-66a9-43f5-a542-b1f4b9640381",
-    "date": "2026-04-28T05:59:21.255Z",
-    "source": "Lever: Coins.ph"
   }
 ]
