@@ -1,5 +1,61 @@
 [
   {
+    "id": "7c0e0301-f6e0-4092-980d-7e7ec3b566f1",
+    "title": "Vice President - Sales & Business Development",
+    "company": "Zeta",
+    "link": "https://jobs.lever.co/zeta/7c0e0301-f6e0-4092-980d-7e7ec3b566f1",
+    "date": "2026-05-29T12:16:52.689Z",
+    "source": "Lever: Zeta"
+  },
+  {
+    "id": "4873187101",
+    "title": "DeFi Trader",
+    "company": "GSR Markets",
+    "link": "https://job-boards.eu.greenhouse.io/gsrmarkets/jobs/4873187101",
+    "date": "2026-05-29T07:40:15-04:00",
+    "source": "Greenhouse: GSR Markets"
+  },
+  {
+    "id": "4fa9fad2-feed-48db-ae56-363b63fd949e",
+    "title": "Senior Product Designer - JaneX",
+    "company": "Jane",
+    "link": "https://jobs.ashbyhq.com/jane/4fa9fad2-feed-48db-ae56-363b63fd949e",
+    "date": "2026-05-29T10:49:46.308+00:00",
+    "source": "Ashby: Jane"
+  },
+  {
+    "id": "7965406",
+    "title": "Legal Counsel",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7965406",
+    "date": "2026-05-29T05:37:46-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
+    "id": "7964956",
+    "title": "Full Stack Engineer, Growth",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7964956",
+    "date": "2026-05-29T05:02:34-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7965410",
+    "title": "Trading Operations Engineer",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7965410",
+    "date": "2026-05-29T04:16:01-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
+    "id": "4878118101",
+    "title": "Campaign Operations Manager",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4878118101",
+    "date": "2026-05-29T02:53:11-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "7962089",
     "title": "Manager, Product Support Specialist",
     "company": "Stripe",
@@ -22,6 +78,14 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/7965000?t=gh_src=&gh_jid=7965000",
     "date": "2026-05-28T22:03:19-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "5e46e28e-44cb-429d-95c1-c9465ddef88f",
+    "title": "Customer Support Associate",
+    "company": "Delphi Digital",
+    "link": "https://jobs.ashbyhq.com/delphi/5e46e28e-44cb-429d-95c1-c9465ddef88f",
+    "date": "2026-05-29T01:04:04.873+00:00",
+    "source": "Ashby: Delphi Digital"
   },
   {
     "id": "7961064",
@@ -1182,6 +1246,14 @@
     "link": "https://lido.fi/opportunities/it-manager",
     "date": "2026-05-27T13:27:09.000Z",
     "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "8547070002",
+    "title": "Business Development Representative - Calling all Graduates!",
+    "company": "ComplyAdvantage",
+    "link": "https://complyadvantage.com/careers/jobs/8547070002?gh_jid=8547070002",
+    "date": "2026-05-27T09:25:21-04:00",
+    "source": "Greenhouse: ComplyAdvantage"
   },
   {
     "id": "e95e4179-8e24-493a-877f-8a826cd53701",
@@ -10826,6 +10898,14 @@
   {
     "id": "7728124003",
     "title": "Senior Operations Manager, P2P",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7728124003",
+    "date": "2026-05-08T02:39:19-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7728124003",
+    "title": "Senior Manager / Director, Growth Operation",
     "company": "OKX",
     "link": "https://job-boards.greenhouse.io/okx/jobs/7728124003",
     "date": "2026-05-08T02:39:19-04:00",
@@ -32738,245 +32818,5 @@
     "link": "https://jobs.solana.com/companies/magicblock-2-2ffbf174-2d5f-4549-8b52-bca97f08fbdc/jobs/76624501-brand-design-lead#content",
     "date": "2026-04-29T13:06:03.000Z",
     "source": "Jobs | Solana Network Opportunities Job Board"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/rain/jobs/76621578-senior-product-operations-manager#content",
-    "title": "Senior Product Operations Manager",
-    "company": "Rain",
-    "link": "https://jobs.solana.com/companies/rain/jobs/76621578-senior-product-operations-manager#content",
-    "date": "2026-04-29T12:51:03.000Z",
-    "source": "Jobs | Solana Network Opportunities Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/chainstack/jobs/76625279-senior-analytics-engineer#content",
-    "title": "Senior Analytics Engineer",
-    "company": "Chainstack",
-    "link": "https://jobs.avax.network/companies/chainstack/jobs/76625279-senior-analytics-engineer#content",
-    "date": "2026-04-29T12:38:43.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/rain/jobs/76621577-senior-product-data-analyst#content",
-    "title": "Senior Product Data Analyst",
-    "company": "Rain",
-    "link": "https://jobs.solana.com/companies/rain/jobs/76621577-senior-product-data-analyst#content",
-    "date": "2026-04-29T12:36:03.000Z",
-    "source": "Jobs | Solana Network Opportunities Job Board"
-  },
-  {
-    "id": "8524517002",
-    "title": "Solutions Consultant",
-    "company": "ComplyAdvantage",
-    "link": "https://complyadvantage.com/careers/jobs/8524517002?gh_jid=8524517002",
-    "date": "2026-04-29T08:35:54-04:00",
-    "source": "Greenhouse: ComplyAdvantage"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/rain/jobs/76621576-product-manager-cards#content",
-    "title": "Product Manager, Cards",
-    "company": "Rain",
-    "link": "https://jobs.solana.com/companies/rain/jobs/76621576-product-manager-cards#content",
-    "date": "2026-04-29T12:21:03.000Z",
-    "source": "Jobs | Solana Network Opportunities Job Board"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/76630467-executive-assistant#content",
-    "title": "Executive Assistant",
-    "company": "Arbitrum",
-    "link": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/76630467-executive-assistant#content",
-    "date": "2026-04-29T12:10:10.000Z",
-    "source": "Jobs | Arbitrum Job Board"
-  },
-  {
-    "id": "76632671",
-    "title": "Senior Product Operations Manager",
-    "company": "Tephra",
-    "link": "https://jobs.ashbyhq.com/rain/1cce2a69-bd19-4be2-96bc-43a455a88dd3",
-    "date": "2026-04-29T11:41:12.000Z",
-    "source": "https://jobs.archetype.fund/jobs"
-  },
-  {
-    "id": "76632670",
-    "title": "Senior Product Data Analyst",
-    "company": "Tephra",
-    "link": "https://jobs.ashbyhq.com/rain/8bd71e0a-0bb1-4b30-baa0-fa7a814b224a",
-    "date": "2026-04-29T11:41:12.000Z",
-    "source": "https://jobs.archetype.fund/jobs"
-  },
-  {
-    "id": "76632669",
-    "title": "Product Manager, Cards",
-    "company": "Tephra",
-    "link": "https://jobs.ashbyhq.com/rain/95ae1a01-a3a7-4059-847d-e842fa7e13cb",
-    "date": "2026-04-29T11:41:12.000Z",
-    "source": "https://jobs.archetype.fund/jobs"
-  },
-  {
-    "id": "8524994002",
-    "title": "Business Development Representative - Calling all Graduates!",
-    "company": "ComplyAdvantage",
-    "link": "https://complyadvantage.com/careers/jobs/8524994002?gh_jid=8524994002",
-    "date": "2026-04-29T06:22:28-04:00",
-    "source": "Greenhouse: ComplyAdvantage"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/kalshi/2dbad526-1474-43e8-9ec9-c3ffb0a49cc2?utm_source=jobs.paradigm.xyz",
-    "title": "Influencer Sourcing and Activation",
-    "company": "Kalshi",
-    "link": "https://jobs.ashbyhq.com/kalshi/2dbad526-1474-43e8-9ec9-c3ffb0a49cc2?utm_source=jobs.paradigm.xyz",
-    "date": "2026-04-29T10:06:59.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "4690023005",
-    "title": "FX Sales",
-    "company": "FalconX",
-    "link": "https://job-boards.greenhouse.io/falconx/jobs/4690023005",
-    "date": "2026-04-29T06:06:23-04:00",
-    "source": "Greenhouse: FalconX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/cda1b935-410b-4ccd-96ae-cef65de5c680",
-    "title": "VIP & Institutional Client Services (APAC)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/cda1b935-410b-4ccd-96ae-cef65de5c680",
-    "date": "2026-04-29T09:41:24.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/cda1b935-410b-4ccd-96ae-cef65de5c680",
-    "title": "VIP & Institutional Client Services",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/cda1b935-410b-4ccd-96ae-cef65de5c680",
-    "date": "2026-04-29T09:41:24.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/b9c45b65-bba2-4983-b431-61b93ac959e0",
-    "title": "VIP & Institutional Client Services (EU)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/b9c45b65-bba2-4983-b431-61b93ac959e0",
-    "date": "2026-04-29T09:26:24.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "2354b86d-d72f-4853-99a7-2e3cabbfa26e",
-    "title": "Product Marketer - London",
-    "company": "Sequence",
-    "link": "https://jobs.ashbyhq.com/Sequence/2354b86d-d72f-4853-99a7-2e3cabbfa26e",
-    "date": "2026-04-29T09:01:55.044+00:00",
-    "source": "Ashby: Sequence"
-  },
-  {
-    "id": "57d493f3-8c4d-413b-90d1-1d1f2d5f3c4b",
-    "title": "Product Marketer - NYC",
-    "company": "Sequence",
-    "link": "https://jobs.ashbyhq.com/Sequence/57d493f3-8c4d-413b-90d1-1d1f2d5f3c4b",
-    "date": "2026-04-29T09:01:50.185+00:00",
-    "source": "Ashby: Sequence"
-  },
-  {
-    "id": "e1f8fbb6-722a-4b7c-aaa4-2adb618f5cb3",
-    "title": "Senior Software Engineer - London",
-    "company": "Sequence",
-    "link": "https://jobs.ashbyhq.com/Sequence/e1f8fbb6-722a-4b7c-aaa4-2adb618f5cb3",
-    "date": "2026-04-29T09:01:09.335+00:00",
-    "source": "Ashby: Sequence"
-  },
-  {
-    "id": "53c419b8-8556-426b-bf81-78e41875745c",
-    "title": "Senior Product Engineer (Backend) - NYC",
-    "company": "Sequence",
-    "link": "https://jobs.ashbyhq.com/Sequence/53c419b8-8556-426b-bf81-78e41875745c",
-    "date": "2026-04-29T09:00:57.210+00:00",
-    "source": "Ashby: Sequence"
-  },
-  {
-    "id": "6b195d54-ce0c-4d8e-9489-ae817554e5bf",
-    "title": "Senior Software Engineer - NYC",
-    "company": "Sequence",
-    "link": "https://jobs.ashbyhq.com/Sequence/6b195d54-ce0c-4d8e-9489-ae817554e5bf",
-    "date": "2026-04-29T09:00:47.125+00:00",
-    "source": "Ashby: Sequence"
-  },
-  {
-    "id": "22fac603-460a-45b4-9f61-6e99f3d5989d",
-    "title": "Senior Product Engineer (Frontend) - NYC",
-    "company": "Sequence",
-    "link": "https://jobs.ashbyhq.com/Sequence/22fac603-460a-45b4-9f61-6e99f3d5989d",
-    "date": "2026-04-29T09:00:34.008+00:00",
-    "source": "Ashby: Sequence"
-  },
-  {
-    "id": "02a5dce5-bdf2-4ebb-999f-b5903d8c00ab",
-    "title": "Revenue Associate - London",
-    "company": "Sequence",
-    "link": "https://jobs.ashbyhq.com/Sequence/02a5dce5-bdf2-4ebb-999f-b5903d8c00ab",
-    "date": "2026-04-29T09:00:24.829+00:00",
-    "source": "Ashby: Sequence"
-  },
-  {
-    "id": "0eeb850d-1955-43af-bfe6-d23fc06e89d0",
-    "title": "Revenue Associate - NYC",
-    "company": "Sequence",
-    "link": "https://jobs.ashbyhq.com/Sequence/0eeb850d-1955-43af-bfe6-d23fc06e89d0",
-    "date": "2026-04-29T09:00:20.054+00:00",
-    "source": "Ashby: Sequence"
-  },
-  {
-    "id": "daebc3b7-ae0c-4c05-8c1a-831218b806e0",
-    "title": "Business Development Representative (BDR) - NYC",
-    "company": "Sequence",
-    "link": "https://jobs.ashbyhq.com/Sequence/daebc3b7-ae0c-4c05-8c1a-831218b806e0",
-    "date": "2026-04-29T09:00:09.196+00:00",
-    "source": "Ashby: Sequence"
-  },
-  {
-    "id": "22796628-40d6-48fa-9543-db569ca37a39",
-    "title": "Business Development Representative  (BDR) - London",
-    "company": "Sequence",
-    "link": "https://jobs.ashbyhq.com/Sequence/22796628-40d6-48fa-9543-db569ca37a39",
-    "date": "2026-04-29T09:00:04.770+00:00",
-    "source": "Ashby: Sequence"
-  },
-  {
-    "id": "8527804002",
-    "title": "Marketing Operations Specialist",
-    "company": "ComplyAdvantage",
-    "link": "https://complyadvantage.com/careers/jobs/8527804002?gh_jid=8527804002",
-    "date": "2026-04-29T04:53:50-04:00",
-    "source": "Greenhouse: ComplyAdvantage"
-  },
-  {
-    "id": "7861422",
-    "title": "Product Designer, Global",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7861422",
-    "date": "2026-04-29T04:48:33-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8c0bf32d-a98c-4fd3-8958-ac2bfdeb78c4",
-    "title": "Technical Support Leader",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/8c0bf32d-a98c-4fd3-8958-ac2bfdeb78c4",
-    "date": "2026-04-29T07:30:42.162Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "c206c5a3-0bba-4e70-b7ba-0fc9fb16f4c6",
-    "title": "Regulatory Advisor",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/c206c5a3-0bba-4e70-b7ba-0fc9fb16f4c6",
-    "date": "2026-04-29T07:03:17.029+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "8fd94089-5fb6-438f-9e29-ca99c598217f",
-    "title": "Lead Software Development Engineer  (Backend)",
-    "company": "Zeta",
-    "link": "https://jobs.lever.co/zeta/8fd94089-5fb6-438f-9e29-ca99c598217f",
-    "date": "2026-04-29T06:17:41.266Z",
-    "source": "Lever: Zeta"
   }
 ]
