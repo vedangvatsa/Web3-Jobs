@@ -1,5 +1,69 @@
 [
   {
+    "id": "7962089",
+    "title": "Manager, Product Support Specialist",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7962089",
+    "date": "2026-05-29T00:09:03-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "1be5538d-7753-4627-9369-969828a979d5",
+    "title": "Sales Development Representative (Growth)",
+    "company": "Immutable",
+    "link": "https://jobs.lever.co/immutable/1be5538d-7753-4627-9369-969828a979d5",
+    "date": "2026-05-29T03:27:03.834Z",
+    "source": "Lever: Immutable"
+  },
+  {
+    "id": "7965000",
+    "title": "Senior Data Scientist, Product (Crypto)",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7965000?t=gh_src=&gh_jid=7965000",
+    "date": "2026-05-28T22:03:19-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7961064",
+    "title": "Corporate Brand Marketing Manager",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7961064?gh_jid=7961064",
+    "date": "2026-05-28T19:58:29-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "8570028002",
+    "title": "Security Application Engineer",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8570028002",
+    "date": "2026-05-28T19:39:19-04:00",
+    "source": "Greenhouse: BitGo"
+  },
+  {
+    "id": "f4052c62-f643-4902-8507-ecbd902c9247",
+    "title": "Mobile Engineering Manager",
+    "company": "Jump",
+    "link": "https://jobs.ashbyhq.com/jump/f4052c62-f643-4902-8507-ecbd902c9247",
+    "date": "2026-05-28T21:24:45.887+00:00",
+    "source": "Ashby: Jump"
+  },
+  {
+    "id": "8551902002",
+    "title": "Credit Financing Specialist",
+    "company": "Jane Street",
+    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8551902002",
+    "date": "2026-05-28T17:01:11-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "e48468bc-4eb4-46dc-9b91-90fdec12eb81",
+    "title": "Staff Data Scientist I | Risco de Crédito",
+    "company": "Neon EVM",
+    "link": "https://jobs.lever.co/neon/e48468bc-4eb4-46dc-9b91-90fdec12eb81",
+    "date": "2026-05-28T20:48:57.382Z",
+    "source": "Lever: Neon EVM"
+  },
+  {
     "id": "0ce67c47-d932-429c-99e8-e11c02388462",
     "title": "Solutions Integration Engineer",
     "company": "TRM Labs",
@@ -174,6 +238,14 @@
     "link": "https://jobs.ashbyhq.com/Nethermind/f75a83c3-592a-45c3-b2b9-41a3e0a213ed",
     "date": "2026-05-28T16:33:20.043+00:00",
     "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "80775144",
+    "title": "Designer, Brand & Motion",
+    "company": "Tactic",
+    "link": "https://boards.greenhouse.io/taxbit/jobs/6007613004",
+    "date": "2026-05-28T16:15:12.000Z",
+    "source": "https://coinbase.getro.com/jobs"
   },
   {
     "id": "7943996",
@@ -5322,6 +5394,14 @@
   {
     "id": "b5f265fc-c8fa-47aa-8382-3aa72108c513",
     "title": "Lead Commercial Counsel",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/b5f265fc-c8fa-47aa-8382-3aa72108c513",
+    "date": "2026-05-18T22:16:41.016+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "b5f265fc-c8fa-47aa-8382-3aa72108c513",
+    "title": "Assistant General Counsel, Commercial and GTM Partnerships",
     "company": "TRM Labs",
     "link": "https://jobs.ashbyhq.com/trm-labs/b5f265fc-c8fa-47aa-8382-3aa72108c513",
     "date": "2026-05-18T22:16:41.016+00:00",
@@ -32898,77 +32978,5 @@
     "link": "https://jobs.lever.co/zeta/8fd94089-5fb6-438f-9e29-ca99c598217f",
     "date": "2026-04-29T06:17:41.266Z",
     "source": "Lever: Zeta"
-  },
-  {
-    "id": "9e26d79f-acc6-4798-90a3-3eba6f28a36e",
-    "title": "Head of Marketing & Growth, Atlas Oracle",
-    "company": "CoinMarketCap",
-    "link": "https://jobs.lever.co/coinmarketcap/9e26d79f-acc6-4798-90a3-3eba6f28a36e",
-    "date": "2026-04-29T03:49:58.355Z",
-    "source": "Lever: CoinMarketCap"
-  },
-  {
-    "id": "7863844",
-    "title": "Analytics Engineer",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7863844",
-    "date": "2026-04-28T23:03:15-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/ef3e2f17-61a2-42d1-a9e7-8cee86373a45",
-    "title": "Binance Accelerator Program - Affiliate Data",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/ef3e2f17-61a2-42d1-a9e7-8cee86373a45",
-    "date": "2026-04-29T02:26:47.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/0400c0b4-c07e-42c5-a000-205995dcd8ef",
-    "title": "Engineering Manager / Tech Lead - Trading Systems (Korea)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/0400c0b4-c07e-42c5-a000-205995dcd8ef",
-    "date": "2026-04-29T00:37:39.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "0400c0b4-c07e-42c5-a000-205995dcd8ef",
-    "title": "Head of Engineering - Trading Systems (Korea)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/0400c0b4-c07e-42c5-a000-205995dcd8ef",
-    "date": "2026-04-29T00:24:10.569Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "c2c663a0-139a-4db5-bf9c-a8dac643a087",
-    "title": "Senior Technical Recruiter - Engineering (Contractor)",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/c2c663a0-139a-4db5-bf9c-a8dac643a087",
-    "date": "2026-04-28T22:17:24.115+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "c2c663a0-139a-4db5-bf9c-a8dac643a087",
-    "title": "Senior Technical Recruiter (Contractor)",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/c2c663a0-139a-4db5-bf9c-a8dac643a087",
-    "date": "2026-04-28T22:17:24.115+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "7863336",
-    "title": "Sales Engineer (Presales)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7863336",
-    "date": "2026-04-28T18:01:23-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "https://www.revolut.com/en-US/careers/position/85380884-55c0-4471-bfa7-33cad65f3e7d/",
-    "title": "Head of Regulatory Affairs",
-    "company": "Revolut",
-    "link": "https://www.revolut.com/en-US/careers/position/85380884-55c0-4471-bfa7-33cad65f3e7d/",
-    "date": "2026-04-28T21:55:24.000Z",
-    "source": "Jobs | Paradigm Job Board"
   }
 ]
