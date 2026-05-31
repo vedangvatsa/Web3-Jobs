@@ -1,5 +1,205 @@
 [
   {
+    "id": "81110280",
+    "title": "Product Management Intern",
+    "company": "Cinch",
+    "link": "https://sg.linkedin.com/jobs/view/product-management-intern-at-cinch-4420687373",
+    "date": "2026-05-30T19:13:12.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "81106951",
+    "title": "Senior Site Reliability Engineer, Observability",
+    "company": "Chainlink",
+    "link": "https://ar.linkedin.com/jobs/view/senior-site-reliability-engineer-observability-at-chainlink-labs-4421258600",
+    "date": "2026-05-30T18:54:26.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "81106950",
+    "title": "Senior Site Reliability Engineer, Node Platform",
+    "company": "Chainlink",
+    "link": "https://co.linkedin.com/jobs/view/senior-site-reliability-engineer-node-platform-at-chainlink-labs-4421262327",
+    "date": "2026-05-30T18:54:26.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "81106936",
+    "title": "Engineering Manager, Developer Experience",
+    "company": "Chainlink",
+    "link": "https://ar.linkedin.com/jobs/view/engineering-manager-developer-experience-at-chainlink-labs-4421260534",
+    "date": "2026-05-30T18:54:23.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "81104786",
+    "title": "Senior Quality Engineer, Full Stack",
+    "company": "Offchain Labs",
+    "link": "https://www.linkedin.com/jobs/view/senior-quality-engineer-full-stack-at-offchain-4371480212",
+    "date": "2026-05-30T18:31:10.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
+    "id": "81104781",
+    "title": "Senior Quality Engineer, Platform",
+    "company": "Offchain Labs",
+    "link": "https://www.linkedin.com/jobs/view/senior-quality-engineer-platform-at-offchain-4343207087",
+    "date": "2026-05-30T18:31:09.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
+    "id": "81104776",
+    "title": "Finance Manager, FP&A",
+    "company": "Offchain Labs",
+    "link": "https://www.linkedin.com/jobs/view/finance-manager-fp-a-at-offchain-4364911833",
+    "date": "2026-05-30T18:31:08.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
+    "id": "81104778",
+    "title": "Accounting Manager",
+    "company": "Offchain Labs",
+    "link": "https://www.linkedin.com/jobs/view/accounting-manager-at-offchain-4382965789",
+    "date": "2026-05-30T18:31:08.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
+    "id": "81104777",
+    "title": "Research Scientist/Engineer",
+    "company": "Offchain Labs",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-engineer-at-offchain-4376892974",
+    "date": "2026-05-30T18:31:08.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
+    "id": "81104774",
+    "title": "General Manager, Enterprises",
+    "company": "Offchain Labs",
+    "link": "https://www.linkedin.com/jobs/view/general-manager-enterprises-at-offchain-4366201141",
+    "date": "2026-05-30T18:31:08.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
+    "id": "81104765",
+    "title": "Customer Success Lead",
+    "company": "Merge",
+    "link": "https://fr.linkedin.com/jobs/view/customer-success-lead-at-merge-4422072380",
+    "date": "2026-05-30T18:30:58.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "81104763",
+    "title": "Marketing Lead",
+    "company": "Merge",
+    "link": "https://uk.linkedin.com/jobs/view/marketing-lead-at-merge-4419335996",
+    "date": "2026-05-30T18:30:58.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "81104764",
+    "title": "Business Operations (BizOps) Lead",
+    "company": "Merge",
+    "link": "https://fr.linkedin.com/jobs/view/business-operations-bizops-lead-at-merge-4419092564",
+    "date": "2026-05-30T18:30:58.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "81104762",
+    "title": "Chief of Staff",
+    "company": "Merge",
+    "link": "https://fr.linkedin.com/jobs/view/chief-of-staff-at-merge-4419086937",
+    "date": "2026-05-30T18:30:58.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "81102030",
+    "title": "Business Development Associate (Tamil) in Hyderabad",
+    "company": "Swipe.io",
+    "link": "https://in.linkedin.com/jobs/view/business-development-associate-tamil-in-hyderabad-at-swipe-4419994649",
+    "date": "2026-05-30T18:20:16.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "81096598",
+    "title": "Welding Engineer, Special Projects",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/welding-engineer-special-projects-at-hadrian-4418307308",
+    "date": "2026-05-30T18:02:06.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "81096597",
+    "title": "Manager, Technical Programs - Growth",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/manager-technical-programs-growth-at-hadrian-4417605331",
+    "date": "2026-05-30T18:02:05.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "81096596",
+    "title": "Applications Engineer, Additive Manufacturing",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/applications-engineer-additive-manufacturing-at-hadrian-4412188514",
+    "date": "2026-05-30T18:02:05.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "a66a5491-5a84-40e6-8bbf-503aab9ea1c7",
+    "title": "Senior Technical Writer",
+    "company": "QuickNode",
+    "link": "https://jobs.ashbyhq.com/QuickNode/a66a5491-5a84-40e6-8bbf-503aab9ea1c7",
+    "date": "2026-05-30T17:59:53.313+00:00",
+    "source": "Ashby: QuickNode"
+  },
+  {
+    "id": "81065842",
+    "title": "Senior Product Marketing Manager",
+    "company": "Greenhouse",
+    "link": "https://boards.greenhouse.io/greenhouse/jobs/7411199",
+    "date": "2026-05-30T15:17:44.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "81034463",
+    "title": "Legal Operations Analyst",
+    "company": "Ava Labs",
+    "link": "https://jobs.ashbyhq.com/ava-labs/66a44ad7-4382-46c8-bd18-f8d8b1285877",
+    "date": "2026-05-30T13:27:07.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "81034307",
+    "title": "Digital Marketer",
+    "company": "Ligero",
+    "link": "https://pages.ligero-inc.com/jobs#1pco33dymmgzs4aqx2ozrtrmo&:~:text=Digital%20Marketer",
+    "date": "2026-05-30T13:26:12.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "81034306",
+    "title": "VP of Marketing",
+    "company": "Ligero",
+    "link": "https://pages.ligero-inc.com/jobs#934ka158nh2229t2233lr63g1&:~:text=VP%20of%20Marketing",
+    "date": "2026-05-30T13:26:12.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "81034305",
+    "title": "Head of Design",
+    "company": "Ligero",
+    "link": "https://pages.ligero-inc.com/jobs#6c2ymztkbelbvdts8szz0smju&:~:text=Head%20of%20Design",
+    "date": "2026-05-30T13:26:12.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "81013241",
+    "title": "Support Quality & Training Officer",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6008902004",
+    "date": "2026-05-30T11:49:46.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
     "id": "81004918",
     "title": "COO",
     "company": "Pond",
@@ -2286,6 +2486,14 @@
     "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7956143",
     "date": "2026-05-26T05:32:36-04:00",
     "source": "Greenhouse: Flow Traders"
+  },
+  {
+    "id": "7921314",
+    "title": "Customer Success Manager",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7921314",
+    "date": "2026-05-26T05:30:14-04:00",
+    "source": "Greenhouse: Stripe"
   },
   {
     "id": "103ca712-b0d8-484b-a4be-7ccec7797017",
@@ -32392,6 +32600,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "76985276",
+    "title": "Sales Engineer",
+    "company": "OP Labs",
+    "link": "https://jobs.ashbyhq.com/oplabs/885091c2-2f56-4d46-aa01-efe49a065dee",
+    "date": "2026-05-01T14:17:34.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
     "id": "7859196",
     "title": "Enterprise Sales Manager (Key Accounts)",
     "company": "Stripe",
@@ -32614,277 +32830,5 @@
     "link": "https://coinbase.getro.com/companies/greenhouse-2-ec596044-7a5d-49da-9b09-5c0c9c748a73/jobs/76890295-senior-content-designer#content",
     "date": "2026-05-01T05:11:21.000Z",
     "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/greenhouse-2-ec596044-7a5d-49da-9b09-5c0c9c748a73/jobs/76890296-senior-manager-segment-campaign-strategy#content",
-    "title": "Senior Manager, Segment Campaign Strategy",
-    "company": "Greenhouse",
-    "link": "https://coinbase.getro.com/companies/greenhouse-2-ec596044-7a5d-49da-9b09-5c0c9c748a73/jobs/76890296-senior-manager-segment-campaign-strategy#content",
-    "date": "2026-05-01T04:56:21.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/b706c935-de56-4178-866c-449c5d2d3310",
-    "title": "Senior Frontend Engineer (Staff/Tech Lead)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/b706c935-de56-4178-866c-449c5d2d3310",
-    "date": "2026-05-01T02:03:12.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7868564",
-    "title": "Design Program Manager, AI",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7868564",
-    "date": "2026-04-30T21:27:17-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "34ec2f41-d2d1-4197-a97a-f833b9898453",
-    "title": "Deployment Strategist, Public Sector",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/34ec2f41-d2d1-4197-a97a-f833b9898453",
-    "date": "2026-04-30T23:39:20.258+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "885091c2-2f56-4d46-aa01-efe49a065dee",
-    "title": "Senior Sales Engineer",
-    "company": "OP Labs",
-    "link": "https://jobs.ashbyhq.com/oplabs/885091c2-2f56-4d46-aa01-efe49a065dee",
-    "date": "2026-04-30T22:13:56.292+00:00",
-    "source": "Ashby: OP Labs"
-  },
-  {
-    "id": "885091c2-2f56-4d46-aa01-efe49a065dee",
-    "title": "Sales Engineer",
-    "company": "OP Labs",
-    "link": "https://jobs.ashbyhq.com/oplabs/885091c2-2f56-4d46-aa01-efe49a065dee",
-    "date": "2026-04-30T22:13:56.292+00:00",
-    "source": "Ashby: OP Labs"
-  },
-  {
-    "id": "7867330",
-    "title": "Assistant Project Manager, Capital Projects",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7867330",
-    "date": "2026-04-30T18:10:25-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "c75645e2-50c9-4b04-8ffa-a1ab2f5b46cb",
-    "title": "Influencer Partnerships Manager",
-    "company": "Polymarket",
-    "link": "https://jobs.ashbyhq.com/Polymarket/c75645e2-50c9-4b04-8ffa-a1ab2f5b46cb",
-    "date": "2026-04-30T21:56:47.210+00:00",
-    "source": "Ashby: Polymarket"
-  },
-  {
-    "id": "7819587",
-    "title": "Global Partner Marketing Lead, AI",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7819587",
-    "date": "2026-04-30T17:31:21-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7569678",
-    "title": "Program Manager, Intake & Portfolio Management",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7569678",
-    "date": "2026-04-30T17:14:01-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/76848428-member-of-risk-enterprise-risk-management#content",
-    "title": "Member of Risk, Enterprise Risk Management",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/76848428-member-of-risk-enterprise-risk-management#content",
-    "date": "2026-04-30T20:41:58.000Z",
-    "source": "Jobs | Solana Network Opportunities Job Board"
-  },
-  {
-    "id": "5985473004",
-    "title": "Legal Counsel, Europe",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/5985473004",
-    "date": "2026-04-30T15:54:10-04:00",
-    "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/nansen/jobs/76836801-general-counsel#content",
-    "title": "General Counsel",
-    "company": "Nansen",
-    "link": "https://jobs.avax.network/companies/nansen/jobs/76836801-general-counsel#content",
-    "date": "2026-04-30T19:38:24.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "5206752008",
-    "title": "Customer Service Representative Bilingual Spanish",
-    "company": "Nexus",
-    "link": "https://job-boards.greenhouse.io/nexus/jobs/5206752008",
-    "date": "2026-04-30T14:47:46-04:00",
-    "source": "Greenhouse: Nexus"
-  },
-  {
-    "id": "6ae2c6c4-fbb6-4db0-9d69-2b14a59c30c5",
-    "title": "Senior Finance Associate",
-    "company": "LI.FI",
-    "link": "https://jobs.ashbyhq.com/LI.FI/6ae2c6c4-fbb6-4db0-9d69-2b14a59c30c5",
-    "date": "2026-04-30T18:44:52.580+00:00",
-    "source": "Ashby: LI.FI"
-  },
-  {
-    "id": "7871904",
-    "title": "Manager, Community Operations",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7871904",
-    "date": "2026-04-30T14:25:39-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7863507",
-    "title": "Administrative Coordinator",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7863507",
-    "date": "2026-04-30T13:34:10-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7785828",
-    "title": "Risk Partnerships Manager, Banks",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7785828",
-    "date": "2026-04-30T13:06:04-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7862528",
-    "title": "Implementation Consultant",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7862528",
-    "date": "2026-04-30T12:48:44-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/860f5cd4-d415-4e1e-b10c-1a8854e75813",
-    "title": "Binance Accelerator Program - PR",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/860f5cd4-d415-4e1e-b10c-1a8854e75813",
-    "date": "2026-04-30T16:22:32.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/241a47a2-af6e-49e9-b3eb-c1d1a1f486eb",
-    "title": "Finance Business Partner, Regional Finance",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/241a47a2-af6e-49e9-b3eb-c1d1a1f486eb",
-    "date": "2026-04-30T16:04:21.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "241a47a2-af6e-49e9-b3eb-c1d1a1f486eb",
-    "title": "FP&A Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/241a47a2-af6e-49e9-b3eb-c1d1a1f486eb",
-    "date": "2026-04-30T15:09:49.467Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "f47b649e-0b55-4ff0-885b-54b0478502fd",
-    "title": "Director, US Broker-Dealer Compliance",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/f47b649e-0b55-4ff0-885b-54b0478502fd",
-    "date": "2026-04-30T14:56:06.875Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/6b9ff843-c2e2-4e38-84e8-1f397f656cd8",
-    "title": "Binance Accelerator Program - Data Scientist (CV, Agentic AI)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/6b9ff843-c2e2-4e38-84e8-1f397f656cd8",
-    "date": "2026-04-30T14:51:37.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "5985495004",
-    "title": "Community Manager",
-    "company": "Immunefi",
-    "link": "https://job-boards.greenhouse.io/immunefi/jobs/5985495004",
-    "date": "2026-04-30T10:45:20-04:00",
-    "source": "Greenhouse: Immunefi"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/7344ca8b-fee1-41fb-89b1-7f0dba4053ac",
-    "title": "Product Specialist- Wallet Operations",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/7344ca8b-fee1-41fb-89b1-7f0dba4053ac",
-    "date": "2026-04-30T14:33:24.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "5979456004",
-    "title": "Compliance Associate (UK), Appointed Representatives",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/5979456004",
-    "date": "2026-04-30T10:06:44-04:00",
-    "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "7870958",
-    "title": "Senior Bid Manager",
-    "company": "Spire",
-    "link": "https://spire.com/careers/job-openings/job/?gh_jid=7870958&gh_jid=7870958",
-    "date": "2026-04-30T09:57:23-04:00",
-    "source": "Greenhouse: Spire"
-  },
-  {
-    "id": "8531243002",
-    "title": "ASIC Physical Design Engineer",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8531243002",
-    "date": "2026-04-30T09:45:21-04:00",
-    "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "7870891",
-    "title": "Senior Solutions Architect",
-    "company": "Spire",
-    "link": "https://spire.com/careers/job-openings/job/?gh_jid=7870891&gh_jid=7870891",
-    "date": "2026-04-30T09:33:39-04:00",
-    "source": "Greenhouse: Spire"
-  },
-  {
-    "id": "b2da8d9c-34a3-4abe-9cec-2ae4c57f85fa",
-    "title": "Project Manager I",
-    "company": "Zeta",
-    "link": "https://jobs.lever.co/zeta/b2da8d9c-34a3-4abe-9cec-2ae4c57f85fa",
-    "date": "2026-04-30T12:19:09.087Z",
-    "source": "Lever: Zeta"
-  },
-  {
-    "id": "51459e7f-01ff-46d4-86ec-f8188db8c7bb",
-    "title": "Affiliate Manager | Propr.xyz",
-    "company": "SwissBorg",
-    "link": "https://jobs.lever.co/swissborg/51459e7f-01ff-46d4-86ec-f8188db8c7bb",
-    "date": "2026-04-30T12:13:37.923Z",
-    "source": "Lever: SwissBorg"
-  },
-  {
-    "id": "f9370c6c-e50a-44a3-a1a0-5659e1ea3714",
-    "title": "Software Engineer | Propr.xyz",
-    "company": "SwissBorg",
-    "link": "https://jobs.lever.co/swissborg/f9370c6c-e50a-44a3-a1a0-5659e1ea3714",
-    "date": "2026-04-30T12:08:14.586Z",
-    "source": "Lever: SwissBorg"
-  },
-  {
-    "id": "e0c291b1-4498-4bf2-91b4-ea114c381c53",
-    "title": "Quant - Risk | Propr.xyz",
-    "company": "SwissBorg",
-    "link": "https://jobs.lever.co/swissborg/e0c291b1-4498-4bf2-91b4-ea114c381c53",
-    "date": "2026-04-30T12:07:00.352Z",
-    "source": "Lever: SwissBorg"
   }
 ]

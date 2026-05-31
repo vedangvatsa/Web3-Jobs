@@ -1,44 +1,16 @@
 [
   {
-    "id": "luma-evt-ZJHwc1S6SgRGvBE",
-    "name": "Miro Al Buildathon 2026",
-    "description": "",
-    "startDate": "2026-05-30T13:00:00.000Z",
-    "endDate": "2026-05-30T21:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/w3wbeqzt",
-    "coverImage": "https://images.lumacdn.com/uploads/wz/a91919cd-f7d8-4e64-818a-220d8863a786.png",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
-    "id": "luma-evt-KJ5rWFAQHv4RlJr",
-    "name": "Plant It Forward : Vancouver",
-    "description": "",
-    "startDate": "2026-05-30T17:00:00.000Z",
-    "endDate": "2026-05-30T19:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/l1d9prxb",
-    "coverImage": "https://images.lumacdn.com/uploads/m9/ebec4ec5-d185-4d93-a8ab-0e78cff9e7f2.png",
-    "source": "luma",
-    "month": "May 2026"
-  },
-  {
-    "id": "cmc-69f42542965e6a1285572028",
-    "name": "Concordium: Ledger Web & Mobile",
-    "description": "\"... the Ledger team is now working to extend support for their 7.5M+ user base to web and mobile wallets...\"",
-    "startDate": "2026-05-31T00:00:00.000Z",
-    "endDate": "2026-05-31T00:00:00.000Z",
+    "id": "luma-host-evt-2HHjtEpDhf3YsL8",
+    "name": "the purge",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-05-31T11:30:00.000Z",
+    "endDate": "2026-05-31T12:30:00.000Z",
     "city": "",
     "country": "",
-    "location": "Online",
-    "url": "https://www.concordium.com/article/you-asked-we-answer-the-concordium-integrations-update",
-    "coverImage": "https://cdn.prod.website-files.com/67d7fbcd510cf4a3a626797d/69b958408118ba9cf02e5d4d_Product%20Status%20Blog.png",
-    "source": "coinmarketcap",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/the-purge",
+    "coverImage": "https://images.lumacdn.com/event-covers/aa/26cac476-8ce2-4537-8662-015add2a33de.png",
+    "source": "luma-trusted",
     "month": "May 2026"
   },
   {
@@ -53,20 +25,6 @@
     "url": "https://lu.ma/9anmwoeh",
     "coverImage": "https://images.lumacdn.com/uploads/sx/37a360f0-e59b-40cc-9594-eb5bce6a6f37.jpg",
     "source": "luma",
-    "month": "May 2026"
-  },
-  {
-    "id": "luma-host-evt-2HHjtEpDhf3YsL8",
-    "name": "the purge",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-05-31T12:30:00.000Z",
-    "endDate": "2026-05-31T13:30:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/the-purge",
-    "coverImage": "https://images.lumacdn.com/event-covers/aa/26cac476-8ce2-4537-8662-015add2a33de.png",
-    "source": "luma-trusted",
     "month": "May 2026"
   },
   {
@@ -95,118 +53,6 @@
     "url": "https://lu.ma/ydep70db",
     "coverImage": "https://images.lumacdn.com/uploads/7r/7a054092-5e04-4860-be05-2fe526995beb.jpg",
     "source": "luma",
-    "month": "May 2026"
-  },
-  {
-    "id": "cmc-69f42542965e6a1285572024",
-    "name": "Fractal Bitcoin: FIP-101 Public Testing",
-    "description": "\"We are aiming for this phase to begin in late May 2026 and continue for at least 8 weeks, pending development and testing progress.\"",
-    "startDate": "2026-05-31T00:00:00.000Z",
-    "endDate": "2026-05-31T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/fractal_bitcoin/status/2049488920384311408",
-    "coverImage": null,
-    "source": "coinmarketcap",
-    "month": "May 2026"
-  },
-  {
-    "id": "cmc-69f4ce0233ae890e531b0781",
-    "name": "Kaia: Announcement",
-    "description": "\"We have some big news planned for May. Please look forward to it.\"",
-    "startDate": "2026-05-31T00:00:00.000Z",
-    "endDate": "2026-05-31T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/KaiaChain/status/2050108055522885814",
-    "coverImage": null,
-    "source": "coinmarketcap",
-    "month": "May 2026"
-  },
-  {
-    "id": "cmc-69f42542965e6a1285572025",
-    "name": "Dual: Mainnet",
-    "description": "Dual launches its mainnet to help complete protocol decentralization.",
-    "startDate": "2026-05-31T00:00:00.000Z",
-    "endDate": "2026-05-31T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/DualOrg/status/2049950695386989046",
-    "coverImage": null,
-    "source": "coinmarketcap",
-    "month": "May 2026"
-  },
-  {
-    "id": "cmc-69f42542965e6a1285572026",
-    "name": "Dual: Staking",
-    "description": "Dual launches staking to help complete protocol decentralization.",
-    "startDate": "2026-05-31T00:00:00.000Z",
-    "endDate": "2026-05-31T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/DualOrg/status/2049950695386989046",
-    "coverImage": null,
-    "source": "coinmarketcap",
-    "month": "May 2026"
-  },
-  {
-    "id": "cmc-69f42542965e6a1285572021",
-    "name": "Bitcoin Cash: LAYLA Upgrade",
-    "description": "\"... further supercharges CashVM by adding function definitions/invocation, safe looping constructs, and re-enabling bitwise operations.\"",
-    "startDate": "2026-05-31T00:00:00.000Z",
-    "endDate": "2026-05-31T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/BitcoinCashOG/status/2000883608274223579",
-    "coverImage": null,
-    "source": "coinmarketcap",
-    "month": "May 2026"
-  },
-  {
-    "id": "cmc-69f4ce0233ae890e531b0780",
-    "name": "BRN Metaverse: Endless Clash Game",
-    "description": "BRN Metavese plans to release Endless Clash following mobile store approvals, infrastructure partnerships, and testing.",
-    "startDate": "2026-05-31T00:00:00.000Z",
-    "endDate": "2026-05-31T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/BrnMetaverse/status/2048809402371867083?s=20",
-    "coverImage": null,
-    "source": "coinmarketcap",
-    "month": "May 2026"
-  },
-  {
-    "id": "cmc-69f42542965e6a1285572020",
-    "name": "Chiliz: FanIndex",
-    "description": "\"@FanIndexes introduces on-chain indexes built on Chiliz Chain, enabling seamless access to multiple Fan Tokens in a single position.\"",
-    "startDate": "2026-05-31T00:00:00.000Z",
-    "endDate": "2026-05-31T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/Chiliz/status/2047226266550477158",
-    "coverImage": null,
-    "source": "coinmarketcap",
-    "month": "May 2026"
-  },
-  {
-    "id": "cmc-69f42542965e6a1285572022",
-    "name": "SoSoValue: EXP Airdrop",
-    "description": "",
-    "startDate": "2026-05-31T00:00:00.000Z",
-    "endDate": "2026-05-31T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/SoSoValueCrypto/status/2011795774968119338",
-    "coverImage": null,
-    "source": "coinmarketcap",
     "month": "May 2026"
   },
   {
@@ -490,6 +336,20 @@
     "month": "June 2026"
   },
   {
+    "id": "luma-evt-j2N47OrxCKwF7EC",
+    "name": "AI for Rollups & Holdcos — Drinks, Demos & Strategy",
+    "description": "",
+    "startDate": "2026-06-02T17:30:00.000Z",
+    "endDate": "2026-06-02T20:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/9t4vseo2",
+    "coverImage": "https://images.lumacdn.com/uploads/ul/1ade3893-41c1-4c53-ad0f-9c03aac9d761.jpg",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-host-disccal-IHFCShZbBh0T5s8",
     "name": "Proof of Talk 2026",
     "description": "Where the Core 2,500 Leaders in Web3 meet. 85% Decision-Makers. $18T AUM. | The Louvre, Paris. June 2 & 3 2026",
@@ -514,6 +374,20 @@
     "location": "New York, United States",
     "url": "https://lu.ma/msuyjvqw",
     "coverImage": "https://images.lumacdn.com/uploads/2d/64aa061e-40b6-44f3-8087-15b12808fc64.jpg",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-SDbD0fildG3EMV1",
+    "name": "The Atomic Architect: Rick Gottscho on Plasma's Role in Semiconductor Fabrication & Physical AI Infrastructure (In-Person)",
+    "description": "",
+    "startDate": "2026-06-02T22:00:00.000Z",
+    "endDate": "2026-06-03T00:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/jjn5str9",
+    "coverImage": "https://images.lumacdn.com/uploads/d4/cf103b73-c6d0-4e61-a131-2fb5ae189e79.jpg",
     "source": "luma",
     "month": "June 2026"
   },
@@ -616,6 +490,20 @@
     "month": "June 2026"
   },
   {
+    "id": "luma-evt-v50zTbqRTFleIYc",
+    "name": "Nature's Echo: The Science of Optimism Breakfast Event with THE NAT",
+    "description": "",
+    "startDate": "2026-06-03T07:00:00.000Z",
+    "endDate": "2026-06-03T09:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/thenat-jczp",
+    "coverImage": "https://images.lumacdn.com/uploads/nq/ca4753bd-f1a8-416d-8879-f36ec51e1b23.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-host-evt-odK9C9RxAoFjm40",
     "name": "SuperteamTR Build Station @IBW #2",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -640,6 +528,20 @@
     "location": "Paris, France",
     "url": "https://lu.ma/z52vfylf",
     "coverImage": "https://images.lumacdn.com/uploads/vk/01bbf413-2696-424e-a32e-b10e64739dab.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-FPXx12cv2VRaDRZ",
+    "name": "Coffee & Crypto Office Hours",
+    "description": "",
+    "startDate": "2026-06-03T13:30:00.000Z",
+    "endDate": "2026-06-03T14:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/knowit-9xwq",
+    "coverImage": "https://images.lumacdn.com/uploads/uv/06593c21-a715-4994-970a-3f124f715e42.jpg",
     "source": "luma",
     "month": "June 2026"
   },
@@ -728,6 +630,20 @@
     "month": "June 2026"
   },
   {
+    "id": "luma-host-evt-T2tQkKnZEqXWxYO",
+    "name": "Superteam India Community Call [2026]",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-06-04T12:30:00.000Z",
+    "endDate": "2026-06-04T13:10:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/stin-commcall-2026",
+    "coverImage": "https://images.lumacdn.com/event-covers/qo/cbcdd981-6871-45fe-aaab-4bae6cffab27",
+    "source": "luma-trusted",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-host-evt-ASOmg7A9Ok2MK4r",
     "name": "Solana Padel Match — Powered by Superteam UAE",
     "description": "Made for Solana founders, operators and builders.",
@@ -812,6 +728,20 @@
     "month": "June 2026"
   },
   {
+    "id": "luma-evt-G8gB7njOYBS0Qsr",
+    "name": "Deploying Agents for Enterprises (with FailSafe, NEAR AI, AWS, Coinbase, Straiker & Levro)",
+    "description": "",
+    "startDate": "2026-06-04T23:45:00.000Z",
+    "endDate": "2026-06-05T03:30:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/agentarena",
+    "coverImage": "https://images.lumacdn.com/uploads/ll/690db8ea-6247-48f0-b5e0-6dc9b9e091b2.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-bitcoin-filmfest-bff-2026-june-warsaw-pl",
     "name": "Bitcoin FilmFest (BFF)",
     "description": "",
@@ -826,6 +756,20 @@
     "month": "June 2026"
   },
   {
+    "id": "luma-evt-DuechUWbKnbxEhf",
+    "name": "Forward Deployed: Voice AI - The Next Frontier",
+    "description": "",
+    "startDate": "2026-06-05T01:00:00.000Z",
+    "endDate": "2026-06-05T03:30:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/fmpyy1b6",
+    "coverImage": "https://images.lumacdn.com/uploads/nz/add5a86a-b7c9-4f0c-b159-4a3bf42b1729.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-host-evt-O7pavkQGK99ilBS",
     "name": "Talent Hub Friday's @ Dogpatch",
     "description": "Superteam Ireland is the Irish chapter of the global Superteam network.\n\nWe’re a community of founders, engineers, operators, and creators building on Solana.",
@@ -836,6 +780,20 @@
     "location": "Dublin 1, Ireland",
     "url": "https://lu.ma/6ay6015s",
     "coverImage": "https://images.lumacdn.com/uploads/ax/f4204dfa-7b9b-4df6-aad8-11503ee1f36d.png",
+    "source": "luma-trusted",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-host-evt-TcCE0NdRekqZBJj",
+    "name": "Co-Working Fridays : London Chapter",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-06-05T09:00:00.000Z",
+    "endDate": "2026-06-05T19:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/vjm0dkhf",
+    "coverImage": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png",
     "source": "luma-trusted",
     "month": "June 2026"
   },
@@ -907,6 +865,20 @@
     "url": "https://lu.ma/5eobpsqy",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-T2LHGxBBMGyI8so",
+    "name": "AI-tonomy Summit: Models and Agents June 5, 2026 | Plug and Play Tech Center, Silicon Valley",
+    "description": "",
+    "startDate": "2026-06-05T16:00:00.000Z",
+    "endDate": "2026-06-06T00:30:00.000Z",
+    "city": "Sunnyvale",
+    "country": "United States",
+    "location": "Sunnyvale, United States",
+    "url": "https://lu.ma/cvonarf6",
+    "coverImage": "https://images.lumacdn.com/event-covers/h5/e61b124d-548e-4375-b5f1-5911dc8b17b6.png",
+    "source": "luma",
     "month": "June 2026"
   },
   {
@@ -1106,6 +1078,20 @@
     "month": "June 2026"
   },
   {
+    "id": "luma-evt-gxPqBR4drs1H7er",
+    "name": "Mississauga+Oakville Bitcoin meetup",
+    "description": "",
+    "startDate": "2026-06-10T23:00:00.000Z",
+    "endDate": "2026-06-11T01:00:00.000Z",
+    "city": "Mississauga",
+    "country": "Canada",
+    "location": "Mississauga, Canada",
+    "url": "https://lu.ma/at19vnjb",
+    "coverImage": "https://images.lumacdn.com/uploads/zv/d232a666-8cc1-477f-a38a-f0ccaf3ebfd9.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-host-evt-ruEJ4LbQkoxBKSe",
     "name": "Superteam SG Thursday Lunch",
     "description": "A community of founders and operators in Singapore. We run hackathons, facilitate capital introductions, and connect you to a curated network of 300+ builders. 200+ events and counting",
@@ -1187,34 +1173,6 @@
     "url": "https://lu.ma/f0ibfoth",
     "coverImage": "https://images.lumacdn.com/uploads/72/96693c66-b653-48bd-a18a-96036a7abc60.png",
     "source": "luma",
-    "month": "June 2026"
-  },
-  {
-    "id": "luma-host-evt-WZ3OKbKgPRTaJ7j",
-    "name": "TechNExt26 Warm Up Co-Working: Newcastle Chapter",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-06-12T09:00:00.000Z",
-    "endDate": "2026-06-12T14:00:00.000Z",
-    "city": "Newcastle upon Tyne",
-    "country": "United Kingdom",
-    "location": "Newcastle upon Tyne, United Kingdom",
-    "url": "https://lu.ma/12th-june-newcastle",
-    "coverImage": "https://images.lumacdn.com/event-covers/uq/ec97bd7e-ade7-4283-947e-920f278f30e4.png",
-    "source": "luma-trusted",
-    "month": "June 2026"
-  },
-  {
-    "id": "luma-host-evt-PhQ3N8F3j2ZSAtH",
-    "name": "Superteam Poland Co-work: Kraków",
-    "description": "",
-    "startDate": "2026-06-12T09:00:00.000Z",
-    "endDate": "2026-06-12T18:00:00.000Z",
-    "city": "Kraków",
-    "country": "Poland",
-    "location": "Kraków, Poland",
-    "url": "https://lu.ma/co-work19",
-    "coverImage": "https://images.lumacdn.com/event-covers/7p/4d6ba980-2290-443d-8175-1b90bfc0ca71.png",
-    "source": "luma-trusted",
     "month": "June 2026"
   },
   {
@@ -1302,6 +1260,20 @@
     "month": "June 2026"
   },
   {
+    "id": "luma-evt-GZxHieVNFjYxurz",
+    "name": "Light DAO Salon: Investing in the Substrate Layer of the Convergence of AI, Energy, and Compute (LA)",
+    "description": "",
+    "startDate": "2026-06-18T01:30:00.000Z",
+    "endDate": "2026-06-18T04:30:00.000Z",
+    "city": "Beverly Hills",
+    "country": "United States",
+    "location": "Beverly Hills, United States",
+    "url": "https://lu.ma/o9n7w6v8",
+    "coverImage": "https://images.lumacdn.com/uploads/fp/6bace354-62c2-42bc-8ac3-5afa620940bf.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-host-evt-GZxHieVNFjYxurz",
     "name": "Light DAO Salon: Investing in the Substrate Layer of the Convergence of AI, Energy, and Compute (LA)",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
@@ -1355,6 +1327,20 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-information-technology-and-smart-finance-icbis-2026-june-shanghai-cn",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-kDKSc8YgEjtnN6C",
+    "name": "Plant It Forward: Burnaby",
+    "description": "",
+    "startDate": "2026-06-20T17:00:00.000Z",
+    "endDate": "2026-06-20T19:00:00.000Z",
+    "city": "Burnaby",
+    "country": "Canada",
+    "location": "Burnaby, Canada",
+    "url": "https://lu.ma/p5uufgjx",
+    "coverImage": "https://images.lumacdn.com/uploads/06/88d8bbd8-3067-4c00-85a4-9cb69effa3b5.png",
+    "source": "luma",
     "month": "June 2026"
   },
   {
@@ -1666,6 +1652,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-evt-dUBFfP9ju0U0kWl",
+    "name": "Plant It Forward: Surrey",
+    "description": "",
+    "startDate": "2026-07-25T18:00:00.000Z",
+    "endDate": "2026-07-25T19:45:00.000Z",
+    "city": "Surrey",
+    "country": "Canada",
+    "location": "Surrey, Canada",
+    "url": "https://lu.ma/qylupg15",
+    "coverImage": "https://images.lumacdn.com/uploads/rh/c043b194-2252-4d70-95bd-2782525175b4.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
     "id": "ma-rare-evo-2026",
     "name": "Rare Evo 2026",
     "description": "Rare Evo is a blockchain conference presented by Rare Network, a team with decades of collective experience in technology and producing events. The organizers welcome projects across blockchains, lead",
@@ -1792,6 +1792,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-J6FD5pFOxRSZgKx",
+    "name": "Bitcoin Block Party",
+    "description": "",
+    "startDate": "2026-08-23T18:00:00.000Z",
+    "endDate": "2026-08-24T02:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/ed63hjqz",
+    "coverImage": "https://images.lumacdn.com/gallery-images/3o/1eac0497-1680-41a6-ba52-6b3b2cc61025",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "ma-bitcoin-asia",
     "name": "Bitcoin Asia",
     "description": "Bitcoin Asia will return to Hong Kong in 2026 following record growth in recent years, a return that draws attention to the top crypto conference’s pivotal role in the Bitcoin economy. It is taking pl",
@@ -1843,7 +1857,7 @@
     "country": "United Arab Emirates",
     "location": "Dubai, United Arab Emirates, United Arab Emirates",
     "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/04/unchained-summit-dubai-may-2026-an-event-by-aeternum.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2026"
   },
