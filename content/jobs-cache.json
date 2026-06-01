@@ -1,5 +1,77 @@
 [
   {
+    "id": "2623055",
+    "title": "Global Events Financial Controller (100% remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/global-events-financial-controller-100-remote-3",
+    "date": "2026-06-01 13:18:55 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
+    "id": "6ae2c6c4-fbb6-4db0-9d69-2b14a59c30c5",
+    "title": "Finance Associate",
+    "company": "LI.FI",
+    "link": "https://jobs.ashbyhq.com/LI.FI/6ae2c6c4-fbb6-4db0-9d69-2b14a59c30c5",
+    "date": "2026-06-01T12:29:42.508+00:00",
+    "source": "Ashby: LI.FI"
+  },
+  {
+    "id": "4857029101",
+    "title": "Chief Product Officer",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4857029101",
+    "date": "2026-06-01T07:52:31-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4878240101",
+    "title": "Legal Counsel  - Data Protection",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4878240101",
+    "date": "2026-06-01T07:52:28-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "9091625e-560b-4c35-81c3-98d262af4407",
+    "title": "Associate / Sr. Associate - Credit card Operations",
+    "company": "Zeta",
+    "link": "https://jobs.lever.co/zeta/9091625e-560b-4c35-81c3-98d262af4407",
+    "date": "2026-06-01T11:49:12.722Z",
+    "source": "Lever: Zeta"
+  },
+  {
+    "id": "8c29bd7b-bbb8-48ad-a601-c425df86ce2f",
+    "title": "Sr Associate - Infosec GRC",
+    "company": "Zeta",
+    "link": "https://jobs.lever.co/zeta/8c29bd7b-bbb8-48ad-a601-c425df86ce2f",
+    "date": "2026-06-01T11:47:22.072Z",
+    "source": "Lever: Zeta"
+  },
+  {
+    "id": "81170042",
+    "title": "Relationship Manager",
+    "company": "Zone",
+    "link": "https://appzonegroup.zohorecruit.com/jobs/Careers/284302000032424079/Relationship-Manager?source=CareerSite",
+    "date": "2026-06-01T11:38:33.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "00f956a0-48b3-42ed-9490-6d6ffe7cc5e6",
+    "title": "Lead Security Architect",
+    "company": "LI.FI",
+    "link": "https://jobs.ashbyhq.com/LI.FI/00f956a0-48b3-42ed-9490-6d6ffe7cc5e6",
+    "date": "2026-06-01T08:41:02.062+00:00",
+    "source": "Ashby: LI.FI"
+  },
+  {
+    "id": "2622288",
+    "title": "Internal Audit Manager (100% remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/internal-audit-manager-100-remote-5",
+    "date": "2026-06-01 08:36:37 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
     "id": "81147698",
     "title": "Finance Director, Push",
     "company": "Aave",
@@ -220,6 +292,14 @@
     "title": "Head of Social",
     "company": "Offchain Labs",
     "link": "https://www.linkedin.com/jobs/view/head-of-social-at-offchain-4421334122",
+    "date": "2026-05-30T18:31:07.000Z",
+    "source": "https://jobs.spartangroup.io/jobs"
+  },
+  {
+    "id": "81104770",
+    "title": "Executive Assistant",
+    "company": "Offchain Labs",
+    "link": "https://www.linkedin.com/jobs/view/executive-assistant-at-offchain-4421313161",
     "date": "2026-05-30T18:31:07.000Z",
     "source": "https://jobs.spartangroup.io/jobs"
   },
@@ -680,6 +760,14 @@
     "source": "Greenhouse: GSR Markets"
   },
   {
+    "id": "4873187101",
+    "title": "Quant Trader",
+    "company": "GSR Markets",
+    "link": "https://job-boards.eu.greenhouse.io/gsrmarkets/jobs/4873187101",
+    "date": "2026-05-29T07:40:15-04:00",
+    "source": "Greenhouse: GSR Markets"
+  },
+  {
     "id": "80873760",
     "title": "Sr. Accountant (Buenos Aires)",
     "company": "Crossmint",
@@ -936,6 +1024,14 @@
     "source": "Greenhouse: Galaxy Digital"
   },
   {
+    "id": "6008319004",
+    "title": "Trading Operations Analyst",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6008319004",
+    "date": "2026-05-28T13:49:48-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "d05056d7-ab0d-4c62-b7df-134ad78ef00b",
     "title": "Product Designer / Demo Storyteller - EMEA",
     "company": "Nethermind",
@@ -944,8 +1040,24 @@
     "source": "Ashby: Nethermind"
   },
   {
+    "id": "d05056d7-ab0d-4c62-b7df-134ad78ef00b",
+    "title": "Complete Robot: Product Designer / Demo Storyteller - EMEA",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/d05056d7-ab0d-4c62-b7df-134ad78ef00b",
+    "date": "2026-05-28T17:49:42.812+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
     "id": "b0b3c7f7-2fe3-44af-bc11-4a09a3c92262",
     "title": "Product Designer / Demo Storyteller - San Francisco, USA",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/b0b3c7f7-2fe3-44af-bc11-4a09a3c92262",
+    "date": "2026-05-28T17:43:44.416+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "b0b3c7f7-2fe3-44af-bc11-4a09a3c92262",
+    "title": "Complete Robot: Product Designer / Demo Storyteller - San Francisco, USA",
     "company": "Nethermind",
     "link": "https://jobs.ashbyhq.com/Nethermind/b0b3c7f7-2fe3-44af-bc11-4a09a3c92262",
     "date": "2026-05-28T17:43:44.416+00:00",
@@ -968,8 +1080,24 @@
     "source": "Ashby: Nethermind"
   },
   {
+    "id": "25681832-85b4-463c-bc89-8e00ada13833",
+    "title": "Complete Robot: Regional Business Development & Operations Lead - Zaragoza / Navarra , Spain",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/25681832-85b4-463c-bc89-8e00ada13833",
+    "date": "2026-05-28T17:32:05.156+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
     "id": "6487c800-6a63-4057-b97c-59b3b880156a",
     "title": "Field Application Engineer - Italy / Iberia",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/6487c800-6a63-4057-b97c-59b3b880156a",
+    "date": "2026-05-28T17:30:43.501+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "6487c800-6a63-4057-b97c-59b3b880156a",
+    "title": "Complete Robot: Field Application Engineer - Italy / Iberia",
     "company": "Nethermind",
     "link": "https://jobs.ashbyhq.com/Nethermind/6487c800-6a63-4057-b97c-59b3b880156a",
     "date": "2026-05-28T17:30:43.501+00:00",
@@ -992,8 +1120,24 @@
     "source": "Ashby: Nethermind"
   },
   {
+    "id": "9a7174f2-6358-4f59-94e8-43b1b7304f27",
+    "title": "Complete Robot: Regional Business Development & Operations Lead - Tokyo, Japan",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/9a7174f2-6358-4f59-94e8-43b1b7304f27",
+    "date": "2026-05-28T17:27:24.676+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
     "id": "49c0af2b-049c-4c5b-b5f5-609659f75a83",
     "title": "Regional Business Development & Operations Lead - Lombardia, Italy",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/49c0af2b-049c-4c5b-b5f5-609659f75a83",
+    "date": "2026-05-28T17:23:56.682+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "49c0af2b-049c-4c5b-b5f5-609659f75a83",
+    "title": "Complete Robot: Regional Business Development & Operations Lead - Lombardia, Italy",
     "company": "Nethermind",
     "link": "https://jobs.ashbyhq.com/Nethermind/49c0af2b-049c-4c5b-b5f5-609659f75a83",
     "date": "2026-05-28T17:23:56.682+00:00",
@@ -1016,6 +1160,14 @@
     "source": "Ashby: Nethermind"
   },
   {
+    "id": "6d8a7775-8c84-4392-a9f1-018405cee97b",
+    "title": "Complete Robot: Business Development Lead - Bergamo, Italy",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/6d8a7775-8c84-4392-a9f1-018405cee97b",
+    "date": "2026-05-28T17:12:31.466+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
     "id": "9a6f67c9-f0f6-499a-918d-a63523673c99",
     "title": "Regional Business Development & Operations Lead - Detroit, USA",
     "company": "Nethermind",
@@ -1032,8 +1184,24 @@
     "source": "Ashby: Nethermind"
   },
   {
+    "id": "9a6f67c9-f0f6-499a-918d-a63523673c99",
+    "title": "Complete Robot: Regional Business Development & Operations Lead - Michigan / Midwest, USA",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/9a6f67c9-f0f6-499a-918d-a63523673c99",
+    "date": "2026-05-28T16:55:49.167+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
     "id": "fa6ec959-e1e0-461a-8d04-87ff60515c0b",
     "title": "Systems Architect / Head of Product - Tokyo, Japan",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/fa6ec959-e1e0-461a-8d04-87ff60515c0b",
+    "date": "2026-05-28T16:53:51.602+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "fa6ec959-e1e0-461a-8d04-87ff60515c0b",
+    "title": "Complete Robot: Systems Architect / Head of Product - Tokyo, Japan",
     "company": "Nethermind",
     "link": "https://jobs.ashbyhq.com/Nethermind/fa6ec959-e1e0-461a-8d04-87ff60515c0b",
     "date": "2026-05-28T16:53:51.602+00:00",
@@ -1048,8 +1216,24 @@
     "source": "Ashby: Nethermind"
   },
   {
+    "id": "9fb2a056-5d47-415e-98f5-4598803b508a",
+    "title": "Complete Robot: Systems Architect / Head of Product - Detroit, USA",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/9fb2a056-5d47-415e-98f5-4598803b508a",
+    "date": "2026-05-28T16:46:42.575+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
     "id": "f75a83c3-592a-45c3-b2b9-41a3e0a213ed",
     "title": "Systems Architect / Head of Product - Bergamo, Italy",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/f75a83c3-592a-45c3-b2b9-41a3e0a213ed",
+    "date": "2026-05-28T16:33:20.043+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "f75a83c3-592a-45c3-b2b9-41a3e0a213ed",
+    "title": "Complete Robot: Systems Architect / Head of Product - Bergamo, Italy",
     "company": "Nethermind",
     "link": "https://jobs.ashbyhq.com/Nethermind/f75a83c3-592a-45c3-b2b9-41a3e0a213ed",
     "date": "2026-05-28T16:33:20.043+00:00",
@@ -1096,6 +1280,14 @@
     "source": "Ashby: Nethermind"
   },
   {
+    "id": "7a8202e9-a5bc-4635-96f3-885ad4ae0e35",
+    "title": "Complete Robot: Agent / AI Engineer - Zaragoza, Spain",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/7a8202e9-a5bc-4635-96f3-885ad4ae0e35",
+    "date": "2026-05-28T15:36:52.622+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
     "id": "4875115101",
     "title": "Senior Infrastructure Engineer",
     "company": "Copper.co",
@@ -1106,6 +1298,14 @@
   {
     "id": "26e7e2c0-589b-46bb-9106-9f44bcd71fbf",
     "title": "Agent / AI Engineer - Wroclaw, Poland",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/26e7e2c0-589b-46bb-9106-9f44bcd71fbf",
+    "date": "2026-05-28T15:31:54.482+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "26e7e2c0-589b-46bb-9106-9f44bcd71fbf",
+    "title": "Complete Robot: Agent / AI Engineer - Wroclaw, Poland",
     "company": "Nethermind",
     "link": "https://jobs.ashbyhq.com/Nethermind/26e7e2c0-589b-46bb-9106-9f44bcd71fbf",
     "date": "2026-05-28T15:31:54.482+00:00",
@@ -1134,6 +1334,14 @@
     "link": "https://jobs.lever.co/binance/635f9982-bacc-473b-b0bb-fc41be6147db",
     "date": "2026-05-28T15:12:57.847Z",
     "source": "Lever: Binance"
+  },
+  {
+    "id": "7961953",
+    "title": "Senior Staff Partner Engineer",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7961953?gh_jid=7961953",
+    "date": "2026-05-28T10:42:24-04:00",
+    "source": "Greenhouse: Ripple"
   },
   {
     "id": "80730555",
@@ -1320,6 +1528,14 @@
     "source": "Ashby: Nethermind"
   },
   {
+    "id": "8f076631-d1f8-4e08-8ae9-d7e56bb9efc1",
+    "title": "Complete Robot: Partnerships Lead - Nairobi, Kenya",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/8f076631-d1f8-4e08-8ae9-d7e56bb9efc1",
+    "date": "2026-05-28T13:29:36.474+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
     "id": "7963101",
     "title": "Lead Product Manager, Connectivity",
     "company": "Ripple",
@@ -1330,6 +1546,14 @@
   {
     "id": "69909ada-488e-47c6-bbbe-f0f34b7116d9",
     "title": "Supplier Quality + Sourcing Lead - Shenzhen / Hong Kong",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/69909ada-488e-47c6-bbbe-f0f34b7116d9",
+    "date": "2026-05-28T13:16:36.405+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "69909ada-488e-47c6-bbbe-f0f34b7116d9",
+    "title": "Complete Robot: Supplier Quality + Sourcing Lead - Shenzhen / Hong Kong",
     "company": "Nethermind",
     "link": "https://jobs.ashbyhq.com/Nethermind/69909ada-488e-47c6-bbbe-f0f34b7116d9",
     "date": "2026-05-28T13:16:36.405+00:00",
@@ -1360,8 +1584,24 @@
     "source": "Ashby: Nethermind"
   },
   {
+    "id": "7e722079-f7ca-4350-8fbb-bf68f90fbe0b",
+    "title": "Complete Robot: Business Development & Partnerships Lead - Detroit, USA",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/7e722079-f7ca-4350-8fbb-bf68f90fbe0b",
+    "date": "2026-05-28T13:04:49.244+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
     "id": "8d7fd883-02ac-49ae-8810-7120f3b6eb1f",
     "title": "Industrial Integration Engineer - Zaragoza, Spain",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/8d7fd883-02ac-49ae-8810-7120f3b6eb1f",
+    "date": "2026-05-28T12:46:24.981+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "8d7fd883-02ac-49ae-8810-7120f3b6eb1f",
+    "title": "Complete Robot: Industrial Integration Engineer - Zaragoza, Spain",
     "company": "Nethermind",
     "link": "https://jobs.ashbyhq.com/Nethermind/8d7fd883-02ac-49ae-8810-7120f3b6eb1f",
     "date": "2026-05-28T12:46:24.981+00:00",
@@ -1384,6 +1624,14 @@
     "source": "Ashby: Nethermind"
   },
   {
+    "id": "5749b1ec-ae7c-4abc-9287-01a2a4e33a66",
+    "title": "Complete Robot: Backend / Telemetry Engineer - Wroclaw, Poland",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/5749b1ec-ae7c-4abc-9287-01a2a4e33a66",
+    "date": "2026-05-28T12:26:36.677+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
     "id": "25528e5d-1ed7-46cb-a2dc-bcbf514147a2",
     "title": "Embedded / Edge Engineer - Wroclaw, PL",
     "company": "Nethermind",
@@ -1394,6 +1642,14 @@
   {
     "id": "25528e5d-1ed7-46cb-a2dc-bcbf514147a2",
     "title": "Embedded / Edge Engineer - Wroclaw, Poland",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/25528e5d-1ed7-46cb-a2dc-bcbf514147a2",
+    "date": "2026-05-28T12:25:59.023+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "25528e5d-1ed7-46cb-a2dc-bcbf514147a2",
+    "title": "Complete Robot: Embedded / Edge Engineer - Wroclaw, Poland",
     "company": "Nethermind",
     "link": "https://jobs.ashbyhq.com/Nethermind/25528e5d-1ed7-46cb-a2dc-bcbf514147a2",
     "date": "2026-05-28T12:25:59.023+00:00",
@@ -2416,11 +2672,27 @@
     "source": "Greenhouse: Robinhood"
   },
   {
+    "id": "827649c3-2dab-4911-bb2f-97b84dc93126",
+    "title": "Software Engineer, Backend (Golang or Typescript)",
+    "company": "1inch",
+    "link": "https://jobs.lever.co/1inch/827649c3-2dab-4911-bb2f-97b84dc93126",
+    "date": "2026-05-26T17:28:43.857Z",
+    "source": "Lever: 1inch"
+  },
+  {
     "id": "7947800",
     "title": "Senior Software Engineer, Site Reliability",
     "company": "Ripple",
     "link": "https://ripple.com/careers/all-jobs/job/7947800?gh_jid=7947800",
     "date": "2026-05-26T13:10:52-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7947821",
+    "title": "Site Reliability Engineer, Observability",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7947821?gh_jid=7947821",
+    "date": "2026-05-26T13:10:05-04:00",
     "source": "Greenhouse: Ripple"
   },
   {
@@ -15254,173 +15526,5 @@
     "link": "https://jobs.ashbyhq.com/sentient/febe1f8e-3cf3-4b7c-ad2a-7324cfe5cd30?utm_source=jobs.panteracapital.com",
     "date": "2026-05-02T18:47:51.000Z",
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
-    "id": "77108802",
-    "title": "Enterprise Sales Lead",
-    "company": "OP Labs",
-    "link": "https://jobs.ashbyhq.com/oplabs/e4e358f3-e712-4d41-a90e-2b1e8e6b89bf",
-    "date": "2026-05-02T13:13:18.000Z",
-    "source": "https://nascent.getro.com/jobs"
-  },
-  {
-    "id": "4856991101",
-    "title": "BD Assistant (Pakistan)",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856991101",
-    "date": "2026-05-02T09:08:05-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856985101",
-    "title": "Business Development Specialist",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856985101",
-    "date": "2026-05-02T08:50:33-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856983101",
-    "title": "Growth Operations Lead, Earn & Wealth",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856983101",
-    "date": "2026-05-02T08:45:15-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856981101",
-    "title": "Retail Trading Product Expert",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856981101",
-    "date": "2026-05-02T08:40:04-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856979101",
-    "title": "Investment & B2B Operations Specialist",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856979101",
-    "date": "2026-05-02T08:34:46-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/77089283-executive-assistant#content",
-    "title": "Executive Assistant",
-    "company": "Offchain Labs",
-    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/77089283-executive-assistant#content",
-    "date": "2026-05-02T12:07:21.000Z",
-    "source": "Jobs | Spartan Group Job Board"
-  },
-  {
-    "id": "4856972101",
-    "title": "Senior Fiat Product Specialist (12 month contractor)",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856972101",
-    "date": "2026-05-02T06:40:25-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856970101",
-    "title": "Senior Payment Risk Operations Specialist",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856970101",
-    "date": "2026-05-02T06:35:27-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856968101",
-    "title": "Senior Payment Risk Operations Specialist (Support EU)",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856968101",
-    "date": "2026-05-02T06:32:53-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856966101",
-    "title": "Senior B2B Payment Risk Operations Specialist",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856966101",
-    "date": "2026-05-02T06:31:10-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856964101",
-    "title": "Fraud Prevention Investigation Lead",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856964101",
-    "date": "2026-05-02T06:26:50-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856962101",
-    "title": "Senior P2P Risk Strategy Analyst",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856962101",
-    "date": "2026-05-02T06:21:01-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "https://stripe.com/jobs/search?gh_jid=7834218",
-    "title": "Stripe Privacy Fellow",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7834218",
-    "date": "2026-05-02T09:47:25.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "https://www.zipline.com/careers?gh_jid=7722480003",
-    "title": "Service Engineer",
-    "company": "Zipline",
-    "link": "https://www.zipline.com/careers?gh_jid=7722480003",
-    "date": "2026-05-02T09:32:25.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "4855108101",
-    "title": "Brazil Country Manager",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4855108101",
-    "date": "2026-05-02T04:56:30-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856960101",
-    "title": "MLRO, Georgia",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856960101",
-    "date": "2026-05-02T04:43:37-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856958101",
-    "title": "Senior Marketing Specialist, Kazakhstan",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856958101",
-    "date": "2026-05-02T04:32:59-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4856957101",
-    "title": "Senior VIP Relations Specialist, South Asia",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856957101",
-    "date": "2026-05-02T04:25:29-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Principal-Product-Manager--Core-Network_JR101005",
-    "title": "Principal Product Manager, Core Network",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Principal-Product-Manager--Core-Network_JR101005",
-    "date": "2026-05-02T07:01:08.000Z",
-    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/tactic-2/jobs/77059917-strategic-market-development-head-of-network-alliances#content",
-    "title": "Strategic Market Development & Head of Network Alliances",
-    "company": "Tactic",
-    "link": "https://coinbase.getro.com/companies/tactic-2/jobs/77059917-strategic-market-development-head-of-network-alliances#content",
-    "date": "2026-05-02T05:39:23.000Z",
-    "source": "Jobs | Coinbase Job Board"
   }
 ]
