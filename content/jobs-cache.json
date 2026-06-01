@@ -1,5 +1,117 @@
 [
   {
+    "id": "b7d0a7f7-c1d0-43c3-936f-c97ff46ee72e",
+    "title": "Backend Engineer, Data Platform",
+    "company": "Phantom",
+    "link": "https://jobs.ashbyhq.com/Phantom/b7d0a7f7-c1d0-43c3-936f-c97ff46ee72e",
+    "date": "2026-06-01T18:58:18.394+00:00",
+    "source": "Ashby: Phantom"
+  },
+  {
+    "id": "c0391b90-b4c3-47e6-aeea-738f1e9fd3f8",
+    "title": "Technical Sourcer (Contract)",
+    "company": "Artemis",
+    "link": "https://jobs.ashbyhq.com/artemis/c0391b90-b4c3-47e6-aeea-738f1e9fd3f8",
+    "date": "2026-06-01T18:50:31.793+00:00",
+    "source": "Ashby: Artemis"
+  },
+  {
+    "id": "7753700003",
+    "title": "Director, Lifecycle Marketing",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7753700003",
+    "date": "2026-06-01T13:40:18-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "4684691006",
+    "title": "Data Analytics AI Engineer",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position/4684691006?gh_jid=4684691006",
+    "date": "2026-06-01T12:53:13-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "7943204",
+    "title": "Assistant General Counsel, Credit Cards",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7943204?t=gh_src=&gh_jid=7943204",
+    "date": "2026-06-01T12:42:08-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "2623474",
+    "title": "Senior QA Engineer (100% Remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/senior-qa-engineer-100-remote-22",
+    "date": "2026-06-01 16:25:51 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
+    "id": "a9ad784b-af99-42e3-a98f-828a72e68239",
+    "title": "Technical Product Manager",
+    "company": "Safe",
+    "link": "https://jobs.ashbyhq.com/Safe/a9ad784b-af99-42e3-a98f-828a72e68239",
+    "date": "2026-06-01T15:59:03.998+00:00",
+    "source": "Ashby: Safe"
+  },
+  {
+    "id": "7964759",
+    "title": "Risk Operations Analyst - SSO",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7964759",
+    "date": "2026-06-01T11:13:32-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "81194624",
+    "title": "Finance Accountant",
+    "company": "Improbable",
+    "link": "https://jobs.ashbyhq.com/Improbable/79497918-15ae-455f-b251-115c141c4253",
+    "date": "2026-06-01T14:25:56.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "ed7c62c1-db88-481b-8ec0-0df60593a381",
+    "title": "Manager, Network Strategy & Operations",
+    "company": "Paxos",
+    "link": "https://jobs.ashbyhq.com/Paxos/ed7c62c1-db88-481b-8ec0-0df60593a381",
+    "date": "2026-06-01T14:08:30.512+00:00",
+    "source": "Ashby: Paxos"
+  },
+  {
+    "id": "7972155",
+    "title": "Senior Sales Manager",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7972155?gh_jid=7972155",
+    "date": "2026-06-01T10:02:54-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7939813",
+    "title": "Senior Penetration Tester",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7939813?t=gh_src=&gh_jid=7939813",
+    "date": "2026-06-01T09:46:47-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "b50bdb40-d152-4e43-8330-5728361f33cc",
+    "title": "AI Marketing Specialist",
+    "company": "Gelato",
+    "link": "https://jobs.ashbyhq.com/Gelato/b50bdb40-d152-4e43-8330-5728361f33cc",
+    "date": "2026-06-01T13:35:45.239+00:00",
+    "source": "Ashby: Gelato"
+  },
+  {
+    "id": "7972357",
+    "title": "Technical Project Manager",
+    "company": "Spire",
+    "link": "https://spire.com/careers/job-openings/job/?gh_jid=7972357&gh_jid=7972357",
+    "date": "2026-06-01T09:35:06-04:00",
+    "source": "Greenhouse: Spire"
+  },
+  {
     "id": "2623055",
     "title": "Global Events Financial Controller (100% remote)",
     "company": "Tether",
@@ -70,6 +182,14 @@
     "link": "https://careers.tether.io/o/internal-audit-manager-100-remote-5",
     "date": "2026-06-01 08:36:37 UTC",
     "source": "Recruitee: Tether"
+  },
+  {
+    "id": "7757518003",
+    "title": "Relationship Manager",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7757518003",
+    "date": "2026-06-01T02:36:22-04:00",
+    "source": "Greenhouse: OKX"
   },
   {
     "id": "81147698",
@@ -1240,6 +1360,14 @@
     "source": "Ashby: Nethermind"
   },
   {
+    "id": "ceed455a-7d15-4891-acee-bec93fa0989d",
+    "title": "Senior Account Executive",
+    "company": "Switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/ceed455a-7d15-4891-acee-bec93fa0989d",
+    "date": "2026-05-28T16:29:03.275+00:00",
+    "source": "Ashby: Switchboard"
+  },
+  {
     "id": "80780569",
     "title": "Staff Network Engineer",
     "company": "Ripple",
@@ -1754,6 +1882,14 @@
   {
     "id": "4877182101",
     "title": "[L&C] Lead Licensing Counsel",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4877182101",
+    "date": "2026-05-28T05:06:06-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4877182101",
+    "title": "Principal Licensing Counsel",
     "company": "Bybit",
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4877182101",
     "date": "2026-05-28T05:06:06-04:00",
@@ -5680,6 +5816,14 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "4871603101",
+    "title": "Regional Policy Lead - APAC",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4871603101",
+    "date": "2026-05-20T05:18:48-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "4867565101",
     "title": "People Lead - Americas - 6month FTC",
     "company": "Copper.co",
@@ -8350,6 +8494,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7917252",
     "date": "2026-05-14T19:31:08-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7927664",
+    "title": "Product Marketing Lead",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7927664?gh_jid=7927664",
+    "date": "2026-05-14T19:13:17-04:00",
+    "source": "Greenhouse: Ripple"
   },
   {
     "id": "1c75c923-d515-42ba-abbf-d4e78bdead8c",
@@ -13536,6 +13688,14 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "4860995101",
+    "title": "Senior Regulatory Governance and Remediations Specialist",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860995101",
+    "date": "2026-05-06T13:23:53-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "7896404",
     "title": "Analyst, Product Pricing",
     "company": "Stripe",
@@ -13594,6 +13754,14 @@
   {
     "id": "4860962101",
     "title": "[L&C] Legal Manager",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860962101",
+    "date": "2026-05-06T12:44:43-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4860962101",
+    "title": "Compliance & AML Lead, Hong Kong",
     "company": "Bybit",
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860962101",
     "date": "2026-05-06T12:44:43-04:00",
@@ -13882,6 +14050,14 @@
   {
     "id": "4860638101",
     "title": "[L&C] Commercial Counsel, B2B Partnership & Infrastructure",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860638101",
+    "date": "2026-05-06T08:30:21-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "4860638101",
+    "title": "Commercial Counsel, B2B Partnership & Infrastructure",
     "company": "Bybit",
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860638101",
     "date": "2026-05-06T08:30:21-04:00",
@@ -15518,13 +15694,5 @@
     "link": "https://www.zipline.com/careers?gh_jid=7722827003",
     "date": "2026-05-03T09:48:59.000Z",
     "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/sentient/febe1f8e-3cf3-4b7c-ad2a-7324cfe5cd30?utm_source=jobs.panteracapital.com",
-    "title": "Strategic Finance and Operations",
-    "company": "Sentient",
-    "link": "https://jobs.ashbyhq.com/sentient/febe1f8e-3cf3-4b7c-ad2a-7324cfe5cd30?utm_source=jobs.panteracapital.com",
-    "date": "2026-05-02T18:47:51.000Z",
-    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   }
 ]
