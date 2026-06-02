@@ -1,5 +1,117 @@
 [
   {
+    "id": "7972077",
+    "title": "Sales Director",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7972077?gh_jid=7972077",
+    "date": "2026-06-01T23:54:47-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "ca19da4f-720f-4d84-a966-96f08def0735",
+    "title": "Head of Cross-Border Payments",
+    "company": "Coins.ph",
+    "link": "https://jobs.lever.co/coins/ca19da4f-720f-4d84-a966-96f08def0735",
+    "date": "2026-06-02T03:34:21.573Z",
+    "source": "Lever: Coins.ph"
+  },
+  {
+    "id": "0d48d56a-a0ce-40fa-b630-d2aaf5037282",
+    "title": "Complete Robot: Embedded / Edge Engineer - Kiev, Ukraine",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/0d48d56a-a0ce-40fa-b630-d2aaf5037282",
+    "date": "2026-06-02T01:45:53.379+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "9a4c07f8-63b1-4d68-b908-d63bc42ca404",
+    "title": "Complete Robot: Embedded / Edge Engineer - Lviv, Ukraine",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/9a4c07f8-63b1-4d68-b908-d63bc42ca404",
+    "date": "2026-06-02T01:42:47.956+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "7a9fa9a9-b801-4203-8596-ada99077aecd",
+    "title": "Complete Robot: Backend / Telemetry Engineer - Kiev - Ukraine",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/7a9fa9a9-b801-4203-8596-ada99077aecd",
+    "date": "2026-06-02T01:23:32.113+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "caad4887-169f-4587-8488-49258feac680",
+    "title": "Complete Robot: Backend / Telemetry Engineer - Lviv - Ukraine",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/caad4887-169f-4587-8488-49258feac680",
+    "date": "2026-06-02T01:22:10.731+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "a46e6239-b219-431a-9567-25c45b0b49b0",
+    "title": "Complete Robot: Agent / AI Engineer - Kiev, Ukraine",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/a46e6239-b219-431a-9567-25c45b0b49b0",
+    "date": "2026-06-02T00:57:56.107+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "d4b98702-75b4-4c8b-b158-e8b7f6d7e413",
+    "title": "Complete Robot: Agent / AI Engineer - Lviv, Ukraine",
+    "company": "Nethermind",
+    "link": "https://jobs.ashbyhq.com/Nethermind/d4b98702-75b4-4c8b-b158-e8b7f6d7e413",
+    "date": "2026-06-02T00:53:56.038+00:00",
+    "source": "Ashby: Nethermind"
+  },
+  {
+    "id": "a88435b2-d197-4577-b44c-081e2878289e",
+    "title": "Product Management Lead, Growth",
+    "company": "Magic Eden",
+    "link": "https://jobs.ashbyhq.com/MagicEden/a88435b2-d197-4577-b44c-081e2878289e",
+    "date": "2026-06-02T00:39:06.938+00:00",
+    "source": "Ashby: Magic Eden"
+  },
+  {
+    "id": "53ab8226-bcbc-4078-82ce-cbe9033b8e63",
+    "title": "Product Strategy Lead",
+    "company": "Magic Eden",
+    "link": "https://jobs.ashbyhq.com/MagicEden/53ab8226-bcbc-4078-82ce-cbe9033b8e63",
+    "date": "2026-06-02T00:34:01.251+00:00",
+    "source": "Ashby: Magic Eden"
+  },
+  {
+    "id": "05f7a0fa-7b0b-4d26-aca3-5d056c2b5b9b",
+    "title": "Growth Lead, Korea & APAC",
+    "company": "Jito",
+    "link": "https://jobs.lever.co/jito/05f7a0fa-7b0b-4d26-aca3-5d056c2b5b9b",
+    "date": "2026-06-01T23:05:33.159Z",
+    "source": "Lever: Jito"
+  },
+  {
+    "id": "7967656",
+    "title": "Executive Content Marketer",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7967656",
+    "date": "2026-06-01T18:03:26-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7738658003",
+    "title": "Partner 20, Senior Incident Response Engineer",
+    "company": "a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7738658003",
+    "date": "2026-06-01T17:15:30-04:00",
+    "source": "Greenhouse: a16z"
+  },
+  {
+    "id": "7738659003",
+    "title": "Partner 20, Senior Security Engineer",
+    "company": "a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7738659003",
+    "date": "2026-06-01T17:11:31-04:00",
+    "source": "Greenhouse: a16z"
+  },
+  {
     "id": "b7d0a7f7-c1d0-43c3-936f-c97ff46ee72e",
     "title": "Backend Engineer, Data Platform",
     "company": "Phantom",
