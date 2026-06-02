@@ -1,11 +1,515 @@
 [
   {
+    "id": "151db2f9-d89f-4e87-9d8c-cefe7a1afcad",
+    "title": "Talent Acquisition Specialist (Spanish Speaker)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/151db2f9-d89f-4e87-9d8c-cefe7a1afcad",
+    "date": "2026-06-02T20:26:33.790Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "ea64d2f3-d03c-4fc8-bdea-a54fed3ec32e",
+    "title": "Talent Acquisition Specialist (Injective Labs)",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/ea64d2f3-d03c-4fc8-bdea-a54fed3ec32e",
+    "date": "2026-06-02T20:22:29.915+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "6f52abec-efb9-453d-9e50-afdd08c46ad9",
+    "title": "Growth Engineer / Integration Engineer (Injective Labs)",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/6f52abec-efb9-453d-9e50-afdd08c46ad9",
+    "date": "2026-06-02T20:18:51.536+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "0d61c25b-b9b6-4518-9782-67a398d5f327",
+    "title": "Senior Events Marketing Manager",
+    "company": "Stellar",
+    "link": "https://jobs.ashbyhq.com/Stellar/0d61c25b-b9b6-4518-9782-67a398d5f327",
+    "date": "2026-06-02T19:34:52.065+00:00",
+    "source": "Ashby: Stellar"
+  },
+  {
+    "id": "8575478002",
+    "title": "Fixed Asset Accountant",
+    "company": "Jane Street",
+    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8575478002",
+    "date": "2026-06-02T15:32:11-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "6f742700-d81d-453f-9898-9b7d8efc906e",
+    "title": "Strategic Partnerships Dealmaker, Walrus",
+    "company": "Mysten Labs",
+    "link": "https://jobs.ashbyhq.com/mystenlabs/6f742700-d81d-453f-9898-9b7d8efc906e",
+    "date": "2026-06-02T19:30:46.613+00:00",
+    "source": "Ashby: Mysten Labs"
+  },
+  {
+    "id": "7977176",
+    "title": "Staff Software Engineer, CAP",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7977176",
+    "date": "2026-06-02T15:24:46-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7738673003",
+    "title": "Partner 34, Lead, Security Engineering",
+    "company": "a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7738673003",
+    "date": "2026-06-02T14:45:00-04:00",
+    "source": "Greenhouse: a16z"
+  },
+  {
+    "id": "3396dab7-1df5-41c9-a720-fec5b0e8eadd",
+    "title": "Senior Data Scientist",
+    "company": "CertiK",
+    "link": "https://jobs.lever.co/certik/3396dab7-1df5-41c9-a720-fec5b0e8eadd",
+    "date": "2026-06-02T18:10:01.019Z",
+    "source": "Lever: CertiK"
+  },
+  {
+    "id": "6ecf08ea-6292-4673-a636-3e2a852ed027",
+    "title": "SF Office Manager (Contract)",
+    "company": "Phantom",
+    "link": "https://jobs.ashbyhq.com/Phantom/6ecf08ea-6292-4673-a636-3e2a852ed027",
+    "date": "2026-06-02T18:03:01.834+00:00",
+    "source": "Ashby: Phantom"
+  },
+  {
+    "id": "8575180002",
+    "title": "Solutions Engineer",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8575180002",
+    "date": "2026-06-02T13:37:24-04:00",
+    "source": "Greenhouse: BitGo"
+  },
+  {
+    "id": "8fd87fb8-0b72-428d-b346-1abe067c4e28",
+    "title": "Protocol Engineer (Injective Labs)",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/8fd87fb8-0b72-428d-b346-1abe067c4e28",
+    "date": "2026-06-02T17:28:37.502+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "6011440004",
+    "title": "Data Center Risk Associate",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6011440004",
+    "date": "2026-06-02T13:26:42-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "8575199002",
+    "title": "Enterprise Account Executive",
+    "company": "Axiom",
+    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8575199002&gh_jid=8575199002",
+    "date": "2026-06-02T13:15:39-04:00",
+    "source": "Greenhouse: Axiom"
+  },
+  {
+    "id": "cce684de-191d-4a8a-bc42-7ded3ccd47af",
+    "title": "Sales Development Representative | Ontario, Canada",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af",
+    "date": "2026-06-02T17:07:50.079+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "453fc2eb-3eba-42a1-8dd1-36689875b583",
+    "title": "Senior Growth Operator, Partner",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/453fc2eb-3eba-42a1-8dd1-36689875b583",
+    "date": "2026-06-02T16:55:11.783+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "e8db1d02-2643-4dc4-835a-b07577f14de0",
+    "title": "General Opening — Create Your Own Role!",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/e8db1d02-2643-4dc4-835a-b07577f14de0",
+    "date": "2026-06-02T16:49:10.656+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "7974896",
+    "title": "Human Resources Generalist",
+    "company": "Spire",
+    "link": "https://spire.com/careers/job-openings/job/?gh_jid=7974896&gh_jid=7974896",
+    "date": "2026-06-02T12:36:48-04:00",
+    "source": "Greenhouse: Spire"
+  },
+  {
+    "id": "6d9f0316-873a-41a5-9971-b981b1b85430",
+    "title": "Senior Technical Product Manager (Injective Labs)",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/6d9f0316-873a-41a5-9971-b981b1b85430",
+    "date": "2026-06-02T16:34:01.607+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "1774439c-c692-4de9-a4f4-87b713e9d5d4",
+    "title": "Front-End Developer (Injective Labs)",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/1774439c-c692-4de9-a4f4-87b713e9d5d4",
+    "date": "2026-06-02T16:24:30.585+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "7951682",
+    "title": "Program Manager, DEI",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7951682?gh_jid=7951682",
+    "date": "2026-06-02T12:13:16-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7964854",
+    "title": "Major Financial Crimes & Insider Risk Investigator",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7964854",
+    "date": "2026-06-02T11:57:33-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4684839006",
+    "title": "Senior Product Manager, Fireblocks Trust Company",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position/4684839006?gh_jid=4684839006",
+    "date": "2026-06-02T11:35:05-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "dc7ac5c8-b342-48a8-b6ef-3d1c37b48605",
+    "title": "Quant Researcher (Injective Labs)",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/dc7ac5c8-b342-48a8-b6ef-3d1c37b48605",
+    "date": "2026-06-02T15:19:41.728+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "bd520fe5-d22c-4fc2-b286-42f600797b6c",
+    "title": "Senior Financial Planning Analyst",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/bd520fe5-d22c-4fc2-b286-42f600797b6c",
+    "date": "2026-06-02T15:15:10.986+00:00",
+    "source": "Ashby: Elliptic"
+  },
+  {
+    "id": "8da10c0d-4624-43f3-bd6d-c0b11df74292",
+    "title": "Forward Deployed Product Engineer",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/8da10c0d-4624-43f3-bd6d-c0b11df74292",
+    "date": "2026-06-02T14:56:23.436+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "169a8495-0244-406b-b999-6ebb3e66e8ce",
+    "title": "Customer Solutions Engineer",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/169a8495-0244-406b-b999-6ebb3e66e8ce",
+    "date": "2026-06-02T14:56:07.780+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "49886b5f-966f-40bb-b06d-657a7cb8bfdf",
+    "title": "Advanced Customer Product Engineer",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/49886b5f-966f-40bb-b06d-657a7cb8bfdf",
+    "date": "2026-06-02T14:55:48.820+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "7939868",
+    "title": "Staff Software Engineer, Machine Learning Platform",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7939868",
+    "date": "2026-06-02T10:50:40-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4697167005",
+    "title": "Market Data Manager",
+    "company": "DV Trading",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4697167005",
+    "date": "2026-06-02T10:47:14-04:00",
+    "source": "Greenhouse: DV Trading"
+  },
+  {
+    "id": "a699e803-011e-4f0d-9dd0-f4604b72b78b",
+    "title": "Product Marketing Manager",
+    "company": "Electric",
+    "link": "https://jobs.ashbyhq.com/electric/a699e803-011e-4f0d-9dd0-f4604b72b78b",
+    "date": "2026-06-02T14:41:54.987+00:00",
+    "source": "Ashby: Electric"
+  },
+  {
+    "id": "d5a478d4-4441-4e03-a485-7af34a27df9c",
+    "title": "Manager, Product Support",
+    "company": "Electric",
+    "link": "https://jobs.ashbyhq.com/electric/d5a478d4-4441-4e03-a485-7af34a27df9c",
+    "date": "2026-06-02T14:40:44.589+00:00",
+    "source": "Ashby: Electric"
+  },
+  {
+    "id": "81329331",
+    "title": "Growth Lead, Korea & APAC",
+    "company": "Jito Foundation",
+    "link": "https://jobs.lever.co/jito/05f7a0fa-7b0b-4d26-aca3-5d056c2b5b9b",
+    "date": "2026-06-02T14:35:15.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "81328772",
+    "title": "Web3 On-Chain Researcher / SOC Analyst",
+    "company": "Certora",
+    "link": "https://careers.certora.com/jobs/7605813-web3-on-chain-researcher-soc-analyst",
+    "date": "2026-06-02T14:33:04.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "7724380",
+    "title": "Security Engineer, Detection & Response",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7724380?t=gh_src=&gh_jid=7724380",
+    "date": "2026-06-02T10:31:29-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "81325239",
+    "title": "Business Development Lead",
+    "company": "Perena",
+    "link": "https://app.dover.com/apply/perena/fe9a0bd0-819f-4d75-86e8-83a2d9ae7a9f",
+    "date": "2026-06-02T14:25:04.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "4880787101",
+    "title": "Intern, Internal Audit",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4880787101",
+    "date": "2026-06-02T10:22:39-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "7976543",
+    "title": "Benchmarking & Strategy Manager",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7976543?t=gh_src=&gh_jid=7976543",
+    "date": "2026-06-02T10:13:37-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7976534",
+    "title": "Senior Network Reliability Engineer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7976534?t=gh_src=&gh_jid=7976534",
+    "date": "2026-06-02T10:09:04-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7976529",
+    "title": "Senior Machine Learning Engineer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7976529?t=gh_src=&gh_jid=7976529",
+    "date": "2026-06-02T10:06:48-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "81314180",
+    "title": "Underwriting Specialist",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8567724002",
+    "date": "2026-06-02T13:57:40.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "d375587e-7ad9-4e59-b839-4d7931d45496",
+    "title": "Compliance EDD/High Risk Client Analyst - Spanish Speaking",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/d375587e-7ad9-4e59-b839-4d7931d45496",
+    "date": "2026-06-02T13:52:23.097Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "9647aa39-4595-4c80-bda3-76e42d539363",
+    "title": "Compliance EDD/High Risk Client Analyst - Japanese Speaking",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/9647aa39-4595-4c80-bda3-76e42d539363",
+    "date": "2026-06-02T13:48:59.825Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "2625267",
+    "title": "Financial Controller",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/financial-controller",
+    "date": "2026-06-02 13:45:18 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
+    "id": "81304905",
+    "title": "Technical Support Engineer",
+    "company": "Paxos",
+    "link": "https://jobs.ashbyhq.com/paxos/7642ced7-423e-4502-b4af-49208fa37397?embed=js",
+    "date": "2026-06-02T13:37:12.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "400dd15a-6abc-4a27-aaa7-c7f545fbad4d",
+    "title": "Accounting Manager",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/400dd15a-6abc-4a27-aaa7-c7f545fbad4d",
+    "date": "2026-06-02T13:29:02.550+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "81298972",
+    "title": "External Job Post",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/ed0afe5b-df69-400c-bf48-81d2269da4fd",
+    "date": "2026-06-02T13:24:29.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "81298966",
+    "title": "Central GTM Strategy & Operations Manager",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/c45ae77a-37d4-451a-bc59-1723fb15422e",
+    "date": "2026-06-02T13:24:28.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "81298965",
+    "title": "SMB Demand Generation Marketing Manager, Japan (Contract)",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/6a74ae74-4dad-473a-b43b-d00bdf8a3813",
+    "date": "2026-06-02T13:24:28.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "81298964",
+    "title": "International Tax Manager",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/1bdc92f7-8624-4fb8-b746-158b56882c9a",
+    "date": "2026-06-02T13:24:28.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "81297438",
+    "title": "Senior SOX Auditor - Business Process Controls",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/726ebf86-4685-403e-bde2-b233896412bc",
+    "date": "2026-06-02T13:18:27.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "e69f178e-b6fd-481c-9c81-2926fcfb0512",
+    "title": "Growth Marketing Manager",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/e69f178e-b6fd-481c-9c81-2926fcfb0512",
+    "date": "2026-06-02T13:16:47.085+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "81296190",
+    "title": "Product Engineer",
+    "company": "Squads",
+    "link": "https://jobs.ashbyhq.com/squads/d55321fb-d459-4834-ab67-e4bbfae3daa8",
+    "date": "2026-06-02T13:14:45.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "81291752",
+    "title": "Product Manager, Crypto",
+    "company": "eToro",
+    "link": "https://www.comeet.com/jobs/etoro/41.009/product-manager-crypto/C8.86B",
+    "date": "2026-06-02T13:05:48.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "7954688",
+    "title": "Account Executive, AI Sales (Grower)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7954688",
+    "date": "2026-06-02T08:58:57-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "81289151",
+    "title": "Customer Success Manager - APAC",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/cac5107a-879a-488b-89db-c9bff08208c6?embed=js",
+    "date": "2026-06-02T12:56:34.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "ea6b9c3f-942a-429c-9559-5365f31b0b6c",
+    "title": "Ecosystem Growth Manager",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/ea6b9c3f-942a-429c-9559-5365f31b0b6c",
+    "date": "2026-06-02T12:55:14.741+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "351b5ca4-32ac-4f05-91b3-c91dac1c1431",
+    "title": "Director of Finance",
+    "company": "Merkle Science",
+    "link": "https://jobs.lever.co/merklescience/351b5ca4-32ac-4f05-91b3-c91dac1c1431",
+    "date": "2026-06-02T12:52:38.027Z",
+    "source": "Lever: Merkle Science"
+  },
+  {
+    "id": "81281633",
+    "title": "Revenue Intelligence Engineer",
+    "company": "Greenhouse",
+    "link": "https://boards.greenhouse.io/greenhouse/jobs/7958633",
+    "date": "2026-06-02T12:34:57.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "81278806",
+    "title": "BizOps Associate",
+    "company": "Pluralis Research",
+    "link": "https://jobs.ashbyhq.com/pluralis-research/0e6b9b13-9862-43d0-8cc1-fc6d93e95112",
+    "date": "2026-06-02T12:27:17.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "81278305",
+    "title": "General Counsel",
+    "company": "Wormhole Labs",
+    "link": "https://jobs.ashbyhq.com/wormholelabs/05d4bd28-f7bc-4128-b05e-8faeff9cb3b1",
+    "date": "2026-06-02T12:25:24.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "81268271",
+    "title": "General Counsel",
+    "company": "Wormhole",
+    "link": "https://jobs.ashbyhq.com/wormholelabs/05d4bd28-f7bc-4128-b05e-8faeff9cb3b1",
+    "date": "2026-06-02T11:57:37.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
     "id": "7914059",
     "title": "Deputy CCO - Fraud Officer",
     "company": "Robinhood",
     "link": "https://boards.greenhouse.io/robinhood/jobs/7914059?t=gh_src=&gh_jid=7914059",
     "date": "2026-06-02T07:53:06-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "81260682",
+    "title": "Junior Account Executive / Business Development (BDR/SDR) - Netherlands",
+    "company": "Suade",
+    "link": "https://apply.workable.com/suade/j/1F8760D4C8",
+    "date": "2026-06-02T11:38:53.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "81254500",
@@ -128,6 +632,54 @@
     "source": "Lever: Coins.ph"
   },
   {
+    "id": "7960680",
+    "title": "Machine Learning Engineer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7960680?t=gh_src=&gh_jid=7960680",
+    "date": "2026-06-01T22:43:34-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7975551",
+    "title": "Senior Software Engineer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7975551?t=gh_src=&gh_jid=7975551",
+    "date": "2026-06-01T22:40:09-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7975530",
+    "title": "Software Engineer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530",
+    "date": "2026-06-01T22:28:29-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7975477",
+    "title": "Software Engineer, Agentic AI",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7975477?t=gh_src=&gh_jid=7975477",
+    "date": "2026-06-01T21:56:28-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7975475",
+    "title": "Senior Credit Business Analyst",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7975475?t=gh_src=&gh_jid=7975475",
+    "date": "2026-06-01T21:52:15-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7975474",
+    "title": "Futures Risk Program Manager",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7975474?t=gh_src=&gh_jid=7975474",
+    "date": "2026-06-01T21:50:02-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
     "id": "0d48d56a-a0ce-40fa-b630-d2aaf5037282",
     "title": "Complete Robot: Embedded / Edge Engineer - Kiev, Ukraine",
     "company": "Nethermind",
@@ -216,12 +768,36 @@
     "source": "Greenhouse: a16z"
   },
   {
+    "id": "7738658003",
+    "title": "Partner 20, Staff Engineer, Incident Response",
+    "company": "a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7738658003",
+    "date": "2026-06-01T17:15:30-04:00",
+    "source": "Greenhouse: a16z"
+  },
+  {
     "id": "7738659003",
     "title": "Partner 20, Senior Security Engineer",
     "company": "a16z",
     "link": "https://a16z.com/about/jobs/?gh_jid=7738659003",
     "date": "2026-06-01T17:11:31-04:00",
     "source": "Greenhouse: a16z"
+  },
+  {
+    "id": "7738659003",
+    "title": "Partner 20, Staff Security Engineer",
+    "company": "a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7738659003",
+    "date": "2026-06-01T17:11:31-04:00",
+    "source": "Greenhouse: a16z"
+  },
+  {
+    "id": "7960708",
+    "title": "Senior Manager, Capital Markets",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7960708?t=gh_src=&gh_jid=7960708",
+    "date": "2026-06-01T16:14:58-04:00",
+    "source": "Greenhouse: Robinhood"
   },
   {
     "id": "b7d0a7f7-c1d0-43c3-936f-c97ff46ee72e",
@@ -2846,6 +3422,14 @@
     "link": "https://jobs.lever.co/binance/b416961d-ea0a-4eee-b53e-94097d9d11ba",
     "date": "2026-05-27T08:19:05.256Z",
     "source": "Lever: Binance"
+  },
+  {
+    "id": "2617148",
+    "title": "Operations Associate / Senior Associate-Finance (US hours)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/operations-associate-senior-associate-finance-us-hours",
+    "date": "2026-05-27 08:09:16 UTC",
+    "source": "Recruitee: Tether"
   },
   {
     "id": "7941741",
@@ -15910,13 +16494,5 @@
     "link": "https://www.coinbase.com/careers/positions/7881537?gh_jid=7881537",
     "date": "2026-05-03T20:52:36-04:00",
     "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7839662",
-    "title": "CoE Data & Insights",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7839662",
-    "date": "2026-05-03T13:19:13-04:00",
-    "source": "Greenhouse: Stripe"
   }
 ]
