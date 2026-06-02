@@ -1,7 +1,119 @@
 [
   {
+    "id": "7914059",
+    "title": "Deputy CCO - Fraud Officer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7914059?t=gh_src=&gh_jid=7914059",
+    "date": "2026-06-02T07:53:06-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "81254500",
+    "title": "Platform Engineer",
+    "company": "Nala",
+    "link": "https://apply.workable.com/nalamoney/j/B9B65FF169",
+    "date": "2026-06-02T11:20:44.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "4880524101",
+    "title": "Software Engineer, Rust & Python (Asset Pricing & Hedging)",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4880524101",
+    "date": "2026-06-02T07:08:00-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "81238580",
+    "title": "Technical Customer Success Manager (New York)",
+    "company": "Merkle Science",
+    "link": "https://jobs.lever.co/merklescience/bb71aab6-0586-4be8-aab0-4734eba69c0a",
+    "date": "2026-06-02T10:32:11.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "75cea559-66cf-4e60-9d3b-6a0efa67c748",
+    "title": "Member of Technical Staff, Transparency (Backend Engineer)",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/75cea559-66cf-4e60-9d3b-6a0efa67c748",
+    "date": "2026-06-02T10:21:11.529Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
+    "id": "4683941006",
+    "title": "Sales Engineer",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position/4683941006?gh_jid=4683941006",
+    "date": "2026-06-02T06:02:28-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "7761002003",
+    "title": "AI Application Architect",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7761002003",
+    "date": "2026-06-02T04:38:47-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "34dfad03-10c7-4b4d-9cec-4abda1b6e4b1",
+    "title": "VP of Engineering",
+    "company": "LI.FI",
+    "link": "https://jobs.ashbyhq.com/LI.FI/34dfad03-10c7-4b4d-9cec-4abda1b6e4b1",
+    "date": "2026-06-02T08:25:55.847+00:00",
+    "source": "Ashby: LI.FI"
+  },
+  {
+    "id": "3774e970-dff3-4c72-902b-8742faf78e6a",
+    "title": "Regulatory Compliance Specialist",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/3774e970-dff3-4c72-902b-8742faf78e6a",
+    "date": "2026-06-02T08:18:27.648Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "d888da9c-e228-48fc-b15f-0e4077de4482",
+    "title": "General Counsel",
+    "company": "Sky",
+    "link": "https://jobs.ashbyhq.com/SkyEcosystem/d888da9c-e228-48fc-b15f-0e4077de4482",
+    "date": "2026-06-02T08:11:02.611+00:00",
+    "source": "Ashby: Sky (MakerDAO)"
+  },
+  {
+    "id": "4878109101",
+    "title": "[L&C] MLRO & Compliance Officer, UK",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4878109101",
+    "date": "2026-06-02T02:51:40-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "56363170-01d5-4838-9854-3e77c56a6ccc",
+    "title": "Senior Platform Engineer",
+    "company": "Trust Wallet",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/56363170-01d5-4838-9854-3e77c56a6ccc",
+    "date": "2026-06-02T06:20:22.398+00:00",
+    "source": "Ashby: Trust Wallet"
+  },
+  {
+    "id": "e137a291-23ba-4a10-918e-f8480c128cc6",
+    "title": "Operation Associate, Corporate Development",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/e137a291-23ba-4a10-918e-f8480c128cc6",
+    "date": "2026-06-02T05:22:06.202Z",
+    "source": "Lever: Crypto"
+  },
+  {
     "id": "7972077",
     "title": "Sales Director",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7972077?gh_jid=7972077",
+    "date": "2026-06-01T23:54:47-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7972077",
+    "title": "Sales Director - Institutional OTC",
     "company": "Ripple",
     "link": "https://ripple.com/careers/all-jobs/job/7972077?gh_jid=7972077",
     "date": "2026-06-01T23:54:47-04:00",
@@ -13808,6 +13920,14 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "4860995101",
+    "title": "[L&C] Senior Regulatory Governance and Remediations Specialist",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4860995101",
+    "date": "2026-05-06T13:23:53-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "7896404",
     "title": "Analyst, Product Pricing",
     "company": "Stripe",
@@ -15798,13 +15918,5 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7839662",
     "date": "2026-05-03T13:19:13-04:00",
     "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "https://www.zipline.com/careers?gh_jid=7722827003",
-    "title": "Senior IT Engineer",
-    "company": "Zipline",
-    "link": "https://www.zipline.com/careers?gh_jid=7722827003",
-    "date": "2026-05-03T09:48:59.000Z",
-    "source": "Jobs | Paradigm Job Board"
   }
 ]
