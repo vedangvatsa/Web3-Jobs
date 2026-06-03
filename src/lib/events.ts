@@ -25,7 +25,17 @@ export async function getEvents(): Promise<Web3Event[]> {
     const events: Web3Event[] = JSON.parse(fileContents);
     
     // Sort events by date (upcoming first)
-    return events.sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());
+    // Sort events by date (upcoming first)
+    const sorted = events.sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());
+    
+    // Deduplicate by name + startDate
+    const seen = new Set<string>();
+    return sorted.filter(e => {
+      const key = `${e.name.toLowerCase().trim()}|${e.startDate}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
   } catch (error) {
     console.error('Error reading events cache:', error);
     return [];
