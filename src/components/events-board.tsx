@@ -291,17 +291,23 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             className="block group"
           >
             <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow-sm border-transparent hover:border-border/60 bg-card transition-all duration-200">
-              {event.coverImage && (
-                <div className="h-40 w-full overflow-hidden rounded-t-lg bg-muted">
+              <div className="h-40 w-full overflow-hidden rounded-t-lg bg-muted">
+                {event.coverImage ? (
                   <img
                     src={event.coverImage}
                     alt={event.name}
-                    className="w-full h-full object-contain"
+                    className="w-full h-full object-cover"
                     loading="lazy"
-                    onError={(e) => { (e.target as HTMLImageElement).parentElement!.style.display = 'none'; }}
+                    onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
                   />
-                </div>
-              )}
+                ) : (
+                  <div className="w-full h-full flex items-center justify-center">
+                    <span className="text-3xl font-bold text-muted-foreground/30">
+                      {event.name.charAt(0).toUpperCase()}
+                    </span>
+                  </div>
+                )}
+              </div>
               <CardHeader className="pb-2 pt-4 px-4">
                 <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors line-clamp-2">
                   {event.name}
