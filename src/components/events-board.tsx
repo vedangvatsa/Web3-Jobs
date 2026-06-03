@@ -291,13 +291,6 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             className="block group"
           >
             <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow-sm border-transparent hover:border-border/60 bg-card transition-all duration-200">
-              <div className="h-36 w-full overflow-hidden rounded-t-lg relative bg-muted">
-                <EventCardImage
-                  src={event.coverImage || undefined}
-                  name={event.name}
-                  location={event.location}
-                />
-              </div>
               <CardHeader className="pb-2 pt-4 px-4">
                 <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors line-clamp-2">
                   {event.name}
