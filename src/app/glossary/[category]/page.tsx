@@ -11,34 +11,34 @@ import { generateCollectionPageSchema } from '@/lib/seo-utils';
 // Category descriptions
 const CATEGORY_CONTENT: Record<string, { description: string }> = {
  'blockchain-fundamentals': {
-  description: 'Core concepts that form the foundation of blockchain technology and distributed systems.',
+  description: 'Master core blockchain concepts including distributed ledgers, consensus mechanisms, mining, and the foundational technology powering decentralized networks and Web3 applications.',
  },
  'cryptocurrencies': {
-  description: 'Digital currencies and tokens that power decentralized networks and applications.',
+  description: 'Explore digital currencies and tokens including Bitcoin, Ethereum, stablecoins, and altcoins that power decentralized networks, DeFi protocols, and the broader Web3 ecosystem.',
  },
  'defi': {
-  description: 'Decentralized financial protocols for lending, trading, and yield generation.',
+  description: 'Understand decentralized finance protocols including lending platforms, automated market makers, yield farming strategies, liquidity pools, and permissionless financial services.',
  },
  'nfts': {
-  description: 'Non-fungible tokens representing unique digital assets and ownership.',
+  description: 'Learn about non-fungible tokens including digital art, gaming assets, membership passes, and the standards and marketplaces driving unique digital ownership on-chain.',
  },
  'smart-contracts': {
-  description: 'Self-executing code on blockchains that powers decentralized applications.',
+  description: 'Explore self-executing programs deployed on blockchains, including Solidity development, contract security, gas optimization, and building decentralized applications.',
  },
  'protocols': {
-  description: 'Standards and frameworks that enable blockchain interoperability and functionality.',
+  description: 'Discover blockchain protocols and standards enabling cross-chain interoperability, layer-2 scaling solutions, token standards, and decentralized infrastructure.',
  },
  'governance': {
-  description: 'Mechanisms for decentralized decision-making and protocol management.',
+  description: 'Understand decentralized governance mechanisms including DAOs, on-chain voting, token-weighted proposals, treasury management, and community-driven protocol decisions.',
  },
  'security': {
-  description: 'Best practices and tools for protecting digital assets and private keys.',
+  description: 'Learn blockchain security best practices including wallet protection, private key management, smart contract auditing, phishing prevention, and safe DeFi interaction.',
  },
  'trading': {
-  description: 'Market structures, liquidity mechanisms, and trading strategies in crypto.',
+  description: 'Master crypto trading concepts including order types, DEX and CEX mechanics, liquidity provision, technical analysis, market making, and on-chain trading strategies.',
  },
  'technical': {
-  description: 'Infrastructure and technical concepts powering blockchain networks.',
+  description: 'Explore technical blockchain infrastructure including nodes, validators, rollups, data availability layers, cryptographic primitives, and network architecture.',
  },
 };
 
@@ -65,7 +65,7 @@ export async function generateMetadata({ params }: { params: { category: string 
  const categoryDescription = content?.description || category.description;
 
  return {
-  title: `${category.name} - Web3 Glossary | Hashtag Web3`,
+  title: `${category.name} - Web3 Glossary`,
   description: categoryDescription,
   keywords: [
    category.name.toLowerCase(),

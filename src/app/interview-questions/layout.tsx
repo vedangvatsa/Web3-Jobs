@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: '/interview-questions',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Interview Question Bank | 200+ Questions',
   description: 'Ace your next Web3 interview. Our question bank covers 200+ questions for Solidity, DeFi, PM, and non-technical roles.',
   url: 'https://hashtagweb3.com/interview-questions',

@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: '/news',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 News | Daily Crypto and Blockchain Headlines',
   description: 'Stay updated with Web3 and crypto news. Top stories and brief summaries from trusted industry sources.',
   url: 'https://hashtagweb3.com/news',

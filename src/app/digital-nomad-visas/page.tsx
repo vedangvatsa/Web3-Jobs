@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   canonical: 'https://hashtagweb3.com/digital-nomad-visas',
  },
  openGraph: {
+  type: 'website',
   title: 'Digital Nomad Visas for Web3 Builders | Global Nomad Visa List',
   description: 'Complete database of digital nomad visas for blockchain developer, crypto, and remote Web3 builders. Filter by continent, min income, and key requirements.',
   url: 'https://hashtagweb3.com/digital-nomad-visas',

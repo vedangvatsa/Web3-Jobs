@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
  const pageTitle = `${lesson.title} - ${category?.title || 'Learn'}`;
  const ogImageUrl = `/api/og?type=article&title=${encodeURIComponent(lesson.title)}&category=${encodeURIComponent(category?.title || 'Learn Web3')}`;
  return {
-  title: `${pageTitle} | Hashtag Web3`,
+  title: pageTitle,
   description: lesson.description,
   alternates: { canonical: `https://hashtagweb3.com/learn/${params.category}/${params.slug}` },
   openGraph: {

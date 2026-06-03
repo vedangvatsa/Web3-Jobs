@@ -13,6 +13,7 @@ export const metadata: Metadata = {
   canonical: '/companies',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Companies Hiring - Browse Top Blockchain Companies',
   description: 'Explore Web3 companies actively hiring. Find jobs at leading blockchain, DeFi, and crypto companies.',
   url: 'https://hashtagweb3.com/companies',

@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: '/community',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Community | Hashtag Web3',
   description: 'Connect with the Web3 community. Discover industry partners, major companies hiring, and events.',
   url: 'https://hashtagweb3.com/community',

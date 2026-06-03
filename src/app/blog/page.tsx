@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   canonical: 'https://hashtagweb3.com/blog',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Career Playbook | Land $120K+ Blockchain & Crypto Jobs',
   description: 'Actionable guides to land a job in Web3. Read deep-dives on blockchain developer resumes, salary negotiation, and smart contract interview prep.',
   url: 'https://hashtagweb3.com/blog',

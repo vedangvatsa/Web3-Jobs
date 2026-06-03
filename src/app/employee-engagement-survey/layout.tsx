@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: '/employee-engagement-survey',
  },
  openGraph: {
+  type: 'website',
   title: 'Employee Engagement Pulse Survey | Free Tool',
   description: 'Quickly gauge team morale and satisfaction with our free pulse survey generator. Build a strong company culture.',
   url: 'https://hashtagweb3.com/employee-engagement-survey',

@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: '/work-life-balance-survey',
  },
  openGraph: {
+  type: 'website',
   title: 'Work-Life Balance Survey Builder | Free Template',
   description: 'Help your team avoid burnout. Generate a work-life balance survey with our free tool to assess workload, stress, and team well-being.',
   url: 'https://hashtagweb3.com/work-life-balance-survey',

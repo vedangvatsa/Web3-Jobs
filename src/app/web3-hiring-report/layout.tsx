@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: 'https://hashtagweb3.com/web3-hiring-report',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Hiring Report 2026 | Crypto Job Market Trends | Hashtag Web3',
   description: 'Data-driven insights based on 3,400+ active Web3 job listings. Explore hiring velocity, in-demand roles, salary benchmarks, and remote work patterns.',
   url: 'https://hashtagweb3.com/web3-hiring-report',

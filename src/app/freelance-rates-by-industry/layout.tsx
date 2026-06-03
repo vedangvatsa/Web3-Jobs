@@ -30,6 +30,7 @@ export const metadata: Metadata = {
   canonical: '/freelance-rates-by-industry',
  },
  openGraph: {
+  type: 'website',
   title: 'Freelance Rates by Industry (2026) | Hourly & Project Benchmarks',
   description:
    'Explore freelance pricing benchmarks by industry with practical hourly and project-rate ranges.',

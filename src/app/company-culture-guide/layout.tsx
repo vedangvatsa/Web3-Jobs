@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: '/company-culture-guide',
  },
  openGraph: {
+  type: 'website',
   title: 'Company Culture Guide Builder',
   description: 'Define and share your company culture. Our free tool helps you create a professional culture guide to align your team and attract talent.',
   url: 'https://hashtagweb3.com/company-culture-guide',
