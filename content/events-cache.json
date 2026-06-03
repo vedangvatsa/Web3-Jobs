@@ -597,7 +597,7 @@
     "country": "",
     "location": "Online",
     "url": "https://x.com/iotex_io/status/2053885209444294723",
-    "coverImage": null,
+    "coverImage": "https://pbs.twimg.com/profile_images/1995650957372227584/5OGMa5vB_200x200.jpg",
     "source": "coinmarketcap",
     "month": "June 2026"
   },
@@ -793,7 +793,7 @@
     "country": "",
     "location": "Online",
     "url": "https://x.com/Cardano_CF/status/2052759837780463760",
-    "coverImage": null,
+    "coverImage": "https://pbs.twimg.com/profile_images/1765479184586166272/cziOm5PO_200x200.png",
     "source": "coinmarketcap",
     "month": "June 2026"
   },
@@ -1101,7 +1101,7 @@
     "country": "",
     "location": "Online",
     "url": "https://defillama.com/unlocks/aptos",
-    "coverImage": null,
+    "coverImage": "https://og-cards-chi.vercel.app/Aptos.jpeg?theme=dark&amp;valueHeader=Next+Unlock+%7C+%249.37m&amp;tvl=in+8+days&amp;footerURL=&amp;images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg&amp;images=https%3A%2F%2Ficons.llamao.fi%2Ficons%2Fprotocols%2Faptos%3Fw%3D48%26h%3D48",
     "source": "coinmarketcap",
     "month": "June 2026"
   },
@@ -1171,7 +1171,7 @@
     "country": "",
     "location": "Online",
     "url": "https://defillama.com/unlocks/arbitrum",
-    "coverImage": null,
+    "coverImage": "https://og-cards-chi.vercel.app/Arbitrum.jpeg?theme=dark&amp;valueHeader=Next+Unlock+%7C+%248.78m&amp;tvl=in+11+days&amp;footerURL=&amp;images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg&amp;images=https%3A%2F%2Ficons.llamao.fi%2Ficons%2Fprotocols%2Farbitrum%3Fw%3D48%26h%3D48",
     "source": "coinmarketcap",
     "month": "June 2026"
   },
@@ -1325,7 +1325,7 @@
     "country": "",
     "location": "Online",
     "url": "https://defillama.com/unlocks/layerzero",
-    "coverImage": null,
+    "coverImage": "https://og-cards-chi.vercel.app/LayerZero.jpeg?theme=dark&amp;valueHeader=Next+Unlock+%7C+%2428.59m&amp;tvl=in+16+days&amp;footerURL=&amp;images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg&amp;images=https%3A%2F%2Ficons.llamao.fi%2Ficons%2Fprotocols%2Flayerzero%3Fw%3D48%26h%3D48",
     "source": "coinmarketcap",
     "month": "June 2026"
   },
@@ -1437,7 +1437,7 @@
     "country": "",
     "location": "June 29-30, 2026Riyadh, Saudi Arabia",
     "url": "https://www.globalblockchainshow.com/riyadh/",
-    "coverImage": null,
+    "coverImage": "https://www.globalblockchainshow.com/images/opengrpah-image/global-blockchain-show-riyadh-og.webp",
     "source": "deeptechtimes",
     "month": "June 2026"
   },
