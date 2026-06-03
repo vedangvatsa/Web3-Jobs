@@ -58,7 +58,7 @@ const nextConfig = {
       default-src 'self';
       script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://vercel.ai https://us.i.posthog.com;
       style-src 'self' 'unsafe-inline';
-      img-src 'self' blob: data: https://images.unsplash.com https://picsum.photos https://fastly.picsum.photos https://i.picsum.photos https://s.w.org https://images.lumacdn.com https://og.luma.com https://secure.meetupstatic.com https://cdn.prod.website-files.com https://storage.googleapis.com https://token2049.nyc3.cdn.digitaloceanspaces.com https://wojgrioccmbywgtruwfl.supabase.co https://aibc.world https://api.rareevo.io https://asia.b.tc https://berachain-422fce37.mintlify.app https://blockchain-life.com https://dutchblockchainweek.com https://ethconf.com https://incryptedconference.com https://s26ber.web3privacy.info https://supervietnam.com https://ukrainianblockchainweek.com https://unchainedsummit.com https://us.money2020.com https://webx-asia.com https://www.blockcon.co;
+      img-src 'self' blob: data: https:;
       font-src 'self' data:;
       object-src 'none';
       base-uri 'self';
