@@ -291,21 +291,21 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             className="block group"
           >
             <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow-sm border-transparent hover:border-border/60 bg-card transition-all duration-200">
-              <CardHeader className="pb-2 pt-4 px-4">
-                <div className="flex items-start gap-3">
-                  {event.coverImage && (
-                    <img
-                      src={event.coverImage}
-                      alt=""
-                      className="w-10 h-10 rounded-md object-cover shrink-0 bg-muted"
-                      loading="lazy"
-                      onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
-                    />
-                  )}
-                  <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors line-clamp-2">
-                    {event.name}
-                  </CardTitle>
+              {event.coverImage && (
+                <div className="h-36 w-full overflow-hidden rounded-t-lg bg-muted">
+                  <img
+                    src={event.coverImage}
+                    alt={event.name}
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                    loading="lazy"
+                    onError={(e) => { (e.target as HTMLImageElement).parentElement!.style.display = 'none'; }}
+                  />
                 </div>
+              )}
+              <CardHeader className="pb-2 pt-4 px-4">
+                <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors line-clamp-2">
+                  {event.name}
+                </CardTitle>
               </CardHeader>
               <CardContent className="flex-grow pt-0 pb-3 px-4 space-y-1.5">
                 <p className="text-sm text-muted-foreground flex items-center gap-1.5">
