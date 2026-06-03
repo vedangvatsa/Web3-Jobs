@@ -292,11 +292,11 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
           >
             <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow-sm border-transparent hover:border-border/60 bg-card transition-all duration-200">
               {event.coverImage && (
-                <div className="h-36 w-full overflow-hidden rounded-t-lg bg-muted">
+                <div className="h-40 w-full overflow-hidden rounded-t-lg bg-muted">
                   <img
                     src={event.coverImage}
                     alt={event.name}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                    className="w-full h-full object-contain"
                     loading="lazy"
                     onError={(e) => { (e.target as HTMLImageElement).parentElement!.style.display = 'none'; }}
                   />
