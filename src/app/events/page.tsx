@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
   description: 'Discover the top Web3 events, crypto conferences, blockchain summits, and virtual meetups. Stay updated with the latest in DeFi, DAOs, and crypto networking.',
   openGraph: {
+    type: 'website',
     title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
     description: 'Browse 3,000+ upcoming Web3 events, crypto conferences, blockchain summits, and builder meetups worldwide.',
     url: 'https://hashtagweb3.com/events',

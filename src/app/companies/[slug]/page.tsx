@@ -34,15 +34,17 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 
  const siteUrl = 'https://hashtagweb3.com';
  const ogImageUrl = `${siteUrl}/api/og?type=company&title=${encodeURIComponent(company.name)}&count=${company.jobCount}`;
- const desc = company.description 
-  ? `${company.description}. ${company.jobCount} open positions.`
-  : `${company.jobCount} open positions at ${company.name}. Browse Web3 and blockchain jobs.`;
+ const rawDesc = company.description 
+  ? `${company.description}. ${company.jobCount} open positions at ${company.name}.`
+  : `Browse ${company.jobCount} open Web3 and blockchain positions at ${company.name}. Find remote crypto jobs in engineering, marketing, product, and more on Hashtag Web3.`;
+ const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
 
  return {
-  title: `${company.name} Jobs — ${company.jobCount} Open Positions | Hashtag Web3`,
+  title: `${company.name} Jobs — ${company.jobCount} Open Positions`,
   description: desc,
   alternates: { canonical: `${siteUrl}/companies/${company.slug}` },
   openGraph: {
+   type: 'website',
    title: `${company.name} — ${company.jobCount} Open Positions`,
    description: desc,
    url: `${siteUrl}/companies/${company.slug}`,

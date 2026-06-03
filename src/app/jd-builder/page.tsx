@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   canonical: 'https://hashtagweb3.com/jd-builder',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Job Description Builder | AI JD Generator',
   description: 'Free AI-powered job description builder for Web3 and crypto companies. Generate optimized JDs for Solidity, DeFi, smart contracts, Rust, and crypto roles.',
   url: 'https://hashtagweb3.com/jd-builder',

@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   canonical: 'https://hashtagweb3.com/invoice-generator',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Invoice Generator | Free PDF Crypto Invoicing',
   description: 'Free online invoice generator for Web3 freelancers, consultants, and contractors. Create professional PDF invoices accepting ETH, USDC, BTC, or fiat.',
   url: 'https://hashtagweb3.com/invoice-generator',

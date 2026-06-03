@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: '/jd-builder',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Job Description Builder | Free Tool',
   description: 'Craft the perfect job description to attract top Web3 talent with our free and easy-to-use builder. Outline roles and responsibilities.',
   url: 'https://hashtagweb3.com/jd-builder',

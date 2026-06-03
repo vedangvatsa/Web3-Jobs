@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   canonical: 'https://hashtagweb3.com/resume-builder',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Resume Builder | Create ATS-Optimized Crypto Resumes',
   description: 'Free AI-powered resume builder for blockchain and Web3 professionals. Build an ATS-optimized resume tailored for DeFi, Solidity, Smart Contract, and DAO roles.',
   url: 'https://hashtagweb3.com/resume-builder',

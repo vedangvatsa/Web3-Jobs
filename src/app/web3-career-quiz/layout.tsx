@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: '/web3-career-quiz',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Archetype Assessment | Find Your Crypto Career Path',
   description: "What's your Web3 personality? Take our assessment to find out which career path is right for you in the crypto space.",
   url: 'https://hashtagweb3.com/web3-career-quiz',

@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   canonical: '/blog',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Playbook | Practical Career Guides and Tech Deep Dives',
   description: 'Explore in depth Web3 articles on careers, technology, and industry insights to help you build a successful crypto career.',
   url: 'https://hashtagweb3.com/blog',

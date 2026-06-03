@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: '/digital-nomad-visas',
  },
   openGraph: {
+  type: 'website',
   title: 'Digital Nomad Visa List | Work From Anywhere',
   description: 'Browse digital nomad visa options with country-level details for Web3 professionals.',
   url: 'https://hashtagweb3.com/digital-nomad-visas',

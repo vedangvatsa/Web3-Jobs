@@ -1,4 +1,3 @@
-
 import type { Metadata } from 'next';
 import { Toaster } from '@/components/ui/toaster';
 import { cn } from '@/lib/utils';
@@ -18,6 +17,12 @@ const PostHogProvider = dynamic(
 );
 const PostHogPageView = dynamic(
  () => import('@/providers/posthog-provider').then(mod => ({ default: mod.PostHogPageView })),
+ { ssr: false }
+);
+
+// Lazy-load promo popup — only loads after user interaction
+const PromoPopup = dynamic(
+ () => import('@/components/telegram-popup').then(mod => ({ default: mod.PromoPopup })),
  { ssr: false }
 );
 
@@ -194,6 +199,7 @@ export default async function RootLayout({
       {children}
      </div>
      <Toaster />
+     <PromoPopup />
 
      <Footer />
     </PostHogProvider>

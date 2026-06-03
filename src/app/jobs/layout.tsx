@@ -12,6 +12,7 @@ export async function generateMetadata(): Promise<Metadata> {
    canonical: '/jobs',
   },
   openGraph: {
+   type: 'website',
    title: 'Web3 Jobs and Crypto Roles | Remote and Full Time',
    description: 'Find Web3 job listings across engineering, product, design, and marketing. Discover roles at leading crypto companies and DAOs.',
    url: 'https://hashtagweb3.com/jobs',

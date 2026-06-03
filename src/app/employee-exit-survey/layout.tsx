@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: '/employee-exit-survey',
  },
  openGraph: {
+  type: 'website',
   title: 'Employee Exit Survey Tool | Free Template',
   description: 'Understand why employees leave and how you can improve. Create a professional exit survey with our free tool.',
   url: 'https://hashtagweb3.com/employee-exit-survey',

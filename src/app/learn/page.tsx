@@ -13,6 +13,7 @@ export const metadata: Metadata = {
  description: 'Structured courses to learn Web3 from scratch. 66 structured lessons with diagrams, quizzes, and career guidance. Written for beginners, developers, and job seekers.',
  alternates: { canonical: 'https://hashtagweb3.com/learn' },
  openGraph: {
+  type: 'website',
   title: 'Learn Web3 - Free Structured Courses',
   description: 'From zero to building on-chain. 66 structured lessons with diagrams and quizzes for beginners, developers, and job seekers.',
   url: 'https://hashtagweb3.com/learn',

@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   canonical: 'https://hashtagweb3.com/salary-calculator',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Salary Calculator | Blockchain & Crypto Salary Insights',
   description: 'Estimate Web3 salaries by role, experience, and location. Compare live Solidity developer, smart contract auditor, crypto marketer, and product manager salary ranges.',
   url: 'https://hashtagweb3.com/salary-calculator',

@@ -16,6 +16,7 @@ export const metadata: Metadata = {
   canonical: 'https://hashtagweb3.com/jobs',
  },
  openGraph: {
+  type: 'website',
   title: 'Web3 Jobs & Crypto Careers | Hashtag Web3',
   description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
   url: 'https://hashtagweb3.com/jobs',

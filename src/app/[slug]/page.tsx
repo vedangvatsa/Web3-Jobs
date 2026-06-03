@@ -124,9 +124,12 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   ...(article['data-ai-hint'] ? [article['data-ai-hint']] : [])
  ].filter((v, i, a) => a.indexOf(v) === i);
 
+ const truncatedTitle = article.title.length > 44 ? article.title.slice(0, 41) + '...' : article.title;
+ const truncatedDescription = article.description.length > 155 ? article.description.slice(0, 152) + '...' : article.description;
+
  return {
-  title: article.title,
-  description: article.description,
+  title: truncatedTitle,
+  description: truncatedDescription,
   keywords: keywords,
   alternates: {
    canonical: articleUrl,

@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   canonical: '/remote-work-checklist',
  },
  openGraph: {
+  type: 'website',
   title: 'Remote Work Readiness Checklist | Free Template',
   description: 'Optimize your remote setup. Our checklist covers everything from ergonomics to security for Web3 professionals.',
   url: 'https://hashtagweb3.com/remote-work-checklist',
