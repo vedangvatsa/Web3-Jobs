@@ -1,5 +1,7 @@
 
 import { Header } from '@/components/header';
+import { Card, CardContent } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
@@ -62,11 +64,15 @@ const contentTypeLabels: Record<string, string> = {
   guides: 'Guide',
 };
 
-function ToolLink({ href, label, description }: { href: string; label: string; description: string }) {
+function ToolCard({ href, label, description }: { href: string; label: string; description: string }) {
   return (
-    <Link href={href} className="block border rounded-lg p-4 hover:bg-muted/50 transition-colors">
-      <div className="font-medium text-sm">{label}</div>
-      <p className="text-xs text-muted-foreground mt-1 leading-relaxed">{description}</p>
+    <Link href={href}>
+      <Card className="h-full group hover:border-primary hover:shadow-sm transition-all">
+        <CardContent className="p-4">
+          <h3 className="font-semibold text-sm group-hover:text-foreground transition-colors mb-1">{label}</h3>
+          <p className="text-xs text-muted-foreground leading-relaxed">{description}</p>
+        </CardContent>
+      </Card>
     </Link>
   );
 }
@@ -74,36 +80,38 @@ function ToolLink({ href, label, description }: { href: string; label: string; d
 function NicheGroup({ niche, pages }: { niche: string; pages: ResourcePage[] }) {
   const label = nicheLabels[niche] ?? niche.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
   return (
-    <div className="border rounded-lg p-5">
-      <div className="flex items-center justify-between mb-3">
-        <h3 className="font-semibold text-sm">{label}</h3>
-        <span className="text-xs text-muted-foreground">{pages.length}</span>
-      </div>
-      <ul className="space-y-1">
-        {pages.map(page => {
-          const nicheLabel = nicheLabels[niche] ?? niche.replace(/-/g, ' ');
-          const displayTitle = page.seo.title
-            .replace(new RegExp(`\\s*(for\\s+)?${nicheLabel}s?\\s*$`, 'i'), '')
-            .replace(/\s+$/, '');
-          const typeLabel = contentTypeLabels[page.meta.contentType] ?? page.meta.contentType;
-          return (
-            <li key={page.seo.canonicalSlug}>
-              <Link
-                href={`/${page.seo.canonicalSlug}`}
-                className="flex items-baseline gap-2 text-sm py-1.5 rounded hover:bg-muted/50 px-2 -mx-1 transition-colors"
-              >
-                <span className="text-[10px] uppercase tracking-wider text-muted-foreground font-medium shrink-0 w-14">
-                  {typeLabel}
-                </span>
-                <span className="text-foreground/80 hover:text-foreground leading-snug">
-                  {displayTitle || page.seo.title}
-                </span>
-              </Link>
-            </li>
-          );
-        })}
-      </ul>
-    </div>
+    <Card className="h-full hover:border-primary hover:shadow-sm transition-all">
+      <CardContent className="p-5">
+        <div className="flex items-center justify-between mb-3">
+          <h3 className="font-semibold">{label}</h3>
+          <Badge variant="secondary">{pages.length}</Badge>
+        </div>
+        <ul className="space-y-1">
+          {pages.map(page => {
+            const nicheLabel = nicheLabels[niche] ?? niche.replace(/-/g, ' ');
+            const displayTitle = page.seo.title
+              .replace(new RegExp(`\\s*(for\\s+)?${nicheLabel}s?\\s*$`, 'i'), '')
+              .replace(/\s+$/, '');
+            const typeLabel = contentTypeLabels[page.meta.contentType] ?? page.meta.contentType;
+            return (
+              <li key={page.seo.canonicalSlug}>
+                <Link
+                  href={`/${page.seo.canonicalSlug}`}
+                  className="flex items-baseline gap-2 text-sm py-1.5 rounded hover:bg-muted/60 px-2 -mx-1 transition-colors group"
+                >
+                  <Badge variant="outline" className="text-[10px] uppercase tracking-wider shrink-0 font-normal">
+                    {typeLabel}
+                  </Badge>
+                  <span className="text-muted-foreground group-hover:text-foreground transition-colors leading-snug">
+                    {displayTitle || page.seo.title}
+                  </span>
+                </Link>
+              </li>
+            );
+          })}
+        </ul>
+      </CardContent>
+    </Card>
   );
 }
 
@@ -123,71 +131,81 @@ export default function ResourcesPage() {
     <div className="flex flex-col min-h-screen">
       <Header />
       <main className="flex-1">
-        <div className="container mx-auto px-4 py-8 md:py-16 max-w-6xl">
 
-          {/* Header */}
-          <div className="mb-12">
-            <h1 className="text-3xl md:text-4xl font-bold tracking-tight">Resources</h1>
-            <p className="text-muted-foreground mt-2">
-              Free tools and guides for Web3 professionals and hiring teams.
-            </p>
-          </div>
-
-          <div className="space-y-14">
-
-            {/* Role-specific resources */}
-            {sortedNiches.length > 0 && (
-              <section>
-                <h2 className="text-xl font-bold mb-1">By Role</h2>
-                <p className="text-sm text-muted-foreground mb-5">
-                  Guides, checklists, and tools for specific Web3 roles.
-                </p>
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                  {sortedNiches.map(([niche, pages]) => (
-                    <NicheGroup key={niche} niche={niche} pages={pages} />
-                  ))}
-                </div>
-              </section>
-            )}
-
-            {/* For Job Seekers */}
-            <section>
-              <h2 className="text-xl font-bold mb-1">For Job Seekers</h2>
-              <p className="text-sm text-muted-foreground mb-5">
-                Tools to find, land, and thrive in a Web3 role.
+        {/* Hero */}
+        <section className="border-b">
+          <div className="container mx-auto px-4 py-12 md:py-20 max-w-7xl">
+            <div className="max-w-3xl">
+              <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">
+                Web3 Career Resources
+              </h1>
+              <p className="text-xl text-muted-foreground leading-relaxed">
+                Free tools and guides for professionals and hiring teams building in the decentralized economy.
               </p>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
-                {employeeResources.map(tool => <ToolLink key={tool.label} {...tool} />)}
-              </div>
-            </section>
-
-            {/* For Hiring Teams */}
-            <section>
-              <h2 className="text-xl font-bold mb-1">For Hiring Teams</h2>
-              <p className="text-sm text-muted-foreground mb-5">
-                Templates and tools to hire, onboard, and retain talent.
-              </p>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
-                {employerResources.map(tool => <ToolLink key={tool.label} {...tool} />)}
-              </div>
-            </section>
-
-          </div>
-
-          {/* CTA */}
-          <div className="mt-16 border rounded-lg p-6 md:p-8 flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
-            <div>
-              <h3 className="font-bold">Looking for a Web3 job?</h3>
-              <p className="text-sm text-muted-foreground mt-0.5">Find the perfect role on the #1 Web3 job board.</p>
             </div>
-            <Link href="/jobs" className="shrink-0">
-              <Button>
-                Explore Jobs <ArrowRight className="ml-2 h-4 w-4" />
-              </Button>
-            </Link>
           </div>
+        </section>
+
+        <div className="container mx-auto px-4 py-12 md:py-16 max-w-7xl space-y-16">
+
+          {/* Role-specific resources */}
+          {sortedNiches.length > 0 && (
+            <section>
+              <div className="mb-8">
+                <h2 className="text-3xl font-bold mb-2">By Role</h2>
+                <p className="text-muted-foreground">Guides, checklists, and tools for specific Web3 roles.</p>
+              </div>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                {sortedNiches.map(([niche, pages]) => (
+                  <NicheGroup key={niche} niche={niche} pages={pages} />
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* For Job Seekers */}
+          <section>
+            <div className="mb-8">
+              <h2 className="text-3xl font-bold mb-2">For Job Seekers</h2>
+              <p className="text-muted-foreground">Tools to find, land, and thrive in a Web3 role.</p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+              {employeeResources.map(tool => <ToolCard key={tool.label} {...tool} />)}
+            </div>
+          </section>
+
+          {/* For Hiring Teams */}
+          <section>
+            <div className="mb-8">
+              <h2 className="text-3xl font-bold mb-2">For Hiring Teams</h2>
+              <p className="text-muted-foreground">Templates and tools to hire, onboard, and retain talent.</p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+              {employerResources.map(tool => <ToolCard key={tool.label} {...tool} />)}
+            </div>
+          </section>
 
         </div>
+
+        {/* CTA */}
+        <section className="border-t">
+          <div className="container mx-auto px-4 py-12 md:py-16 max-w-7xl">
+            <Card className="bg-muted/30 border shadow-none">
+              <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
+                <div>
+                  <h3 className="text-lg font-bold">Looking for a Web3 Job?</h3>
+                  <p className="text-sm text-muted-foreground mt-1">Now that you have the resources, find the perfect role on the #1 Web3 job board.</p>
+                </div>
+                <Link href="/jobs" className="shrink-0">
+                  <Button size="lg">
+                    Explore Jobs <ArrowRight className="ml-2 h-4 w-4" />
+                  </Button>
+                </Link>
+              </CardContent>
+            </Card>
+          </div>
+        </section>
+
       </main>
     </div>
   );
