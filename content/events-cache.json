@@ -1115,7 +1115,7 @@
     "country": "United States ",
     "location": "New York, United States , United States ",
     "url": "https://ethglobal.com/events/newyork2026",
-    "coverImage": null,
+    "coverImage": "https://ethglobal.b-cdn.net/events/newyork2026/square-logo/default.png",
     "source": "marketacross",
     "month": "June 2026"
   },
@@ -1619,7 +1619,7 @@
     "country": "Portugal ",
     "location": "Lisbon , Portugal , Portugal ",
     "url": "https://ethglobal.com/events/lisbon2026",
-    "coverImage": null,
+    "coverImage": "https://ethglobal.b-cdn.net/events/lisbon2026/square-logo/default.png",
     "source": "marketacross",
     "month": "July 2026"
   },
@@ -1633,7 +1633,7 @@
     "country": "Portugal ",
     "location": "Lisbon , Portugal , Portugal ",
     "url": "https://ethglobal.com/events/pragma-lisbon2026",
-    "coverImage": null,
+    "coverImage": "https://ethglobal.b-cdn.net/events/pragma-lisbon2026/square-logo/default.png",
     "source": "marketacross",
     "month": "July 2026"
   },
@@ -1955,7 +1955,7 @@
     "country": "Japan ",
     "location": "Tokyo , Japan , Japan ",
     "url": "https://ethglobal.com/events/tokyo2026",
-    "coverImage": null,
+    "coverImage": "https://ethglobal.b-cdn.net/events/tokyo2026/square-logo/default.png",
     "source": "marketacross",
     "month": "September 2026"
   },
