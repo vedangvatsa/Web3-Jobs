@@ -1,5 +1,37 @@
 [
   {
+    "id": "81829841",
+    "title": "Staff Software Engineer, Graphs",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/65afb10c-1d7b-4d6f-b6a3-377c3efb4d8a",
+    "date": "2026-06-06T10:44:48.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "81829839",
+    "title": "Senior Operations Analyst",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/e5735ecc-d5ef-4f41-a666-89d318c8c679",
+    "date": "2026-06-06T10:44:48.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "81820587",
+    "title": "Sales Executive, EMEA",
+    "company": "Fordefi",
+    "link": "https://jobs.ashbyhq.com/FORDEFIJobs.ashbyhq.com/967a5690-0625-4db8-85e3-fdfb721035af",
+    "date": "2026-06-06T06:49:56.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "81820586",
+    "title": "Sales Executive, APAC",
+    "company": "Fordefi",
+    "link": "https://jobs.ashbyhq.com/FORDEFIJobs.ashbyhq.com/b4d4ad67-c10b-45ce-a30d-4624694aeec9",
+    "date": "2026-06-06T06:49:55.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "4bf72ced-b09f-4b42-a4b3-92b38ff21025",
     "title": "Customer Engineer",
     "company": "Render Network",
@@ -1166,6 +1198,14 @@
     "link": "https://jobs.lever.co/binance/44b997f0-ec80-442d-93e0-3210f0915216",
     "date": "2026-06-04T07:09:52.069Z",
     "source": "Lever: Binance"
+  },
+  {
+    "id": "4882279101",
+    "title": "HRBP Expert",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882279101",
+    "date": "2026-06-04T02:58:10-04:00",
+    "source": "Greenhouse: Bybit"
   },
   {
     "id": "7950828",
@@ -3700,6 +3740,14 @@
     "link": "https://jobs.lever.co/anchorage/55ea92a9-5d6d-4770-9d87-3d078f73762f",
     "date": "2026-05-29T17:42:13.780Z",
     "source": "Lever: Anchorage Digital"
+  },
+  {
+    "id": "6008640004",
+    "title": "Customer Success Manager",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6008640004",
+    "date": "2026-05-29T12:28:05-04:00",
+    "source": "Greenhouse: Alpaca"
   },
   {
     "id": "7942650",
@@ -16132,125 +16180,5 @@
     "link": "https://jobs.multicoin.capital/companies/passes/jobs/77650358-account-executive#content",
     "date": "2026-05-07T12:14:28.000Z",
     "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "c0ad9fc5-259b-40ab-95a6-6df8c3fe35e7",
-    "title": "Enterprise Account Executive - San Francisco",
-    "company": "Elliptic",
-    "link": "https://jobs.ashbyhq.com/Elliptic/c0ad9fc5-259b-40ab-95a6-6df8c3fe35e7",
-    "date": "2026-05-07T11:51:32.448+00:00",
-    "source": "Ashby: Elliptic"
-  },
-  {
-    "id": "5989774004",
-    "title": "Customer Success Manager",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/5989774004",
-    "date": "2026-05-07T06:50:40-04:00",
-    "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "7861856",
-    "title": "Account Executive, Existing Business",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7861856",
-    "date": "2026-05-07T06:00:47-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "dfd7cdfb-f792-47c9-8c81-15886ead7e3d",
-    "title": "Manager / Senior Manager, Group Reporting",
-    "company": "Animoca Brands",
-    "link": "https://jobs.lever.co/animocabrands/dfd7cdfb-f792-47c9-8c81-15886ead7e3d",
-    "date": "2026-05-07T09:58:27.021Z",
-    "source": "Lever: Animoca Brands"
-  },
-  {
-    "id": "https://www.revolut.com/en-US/careers/position/76115585-7e14-4aaa-9665-93cf66ba2c62/",
-    "title": "FinCrime Risk Manager (Financial Partnerships)",
-    "company": "Revolut",
-    "link": "https://www.revolut.com/en-US/careers/position/76115585-7e14-4aaa-9665-93cf66ba2c62/",
-    "date": "2026-05-07T09:55:11.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Staff-Data-Engineer_JR101020",
-    "title": "Senior Staff Data Engineer",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Staff-Data-Engineer_JR101020",
-    "date": "2026-05-07T09:47:42.000Z",
-    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
-    "id": "4861340101",
-    "title": "Lead Test Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4861340101",
-    "date": "2026-05-07T05:14:00-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4861335101",
-    "title": "Admin Expert",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4861335101",
-    "date": "2026-05-07T05:12:36-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4861335101",
-    "title": "Administration and Procurement Lead",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4861335101",
-    "date": "2026-05-07T05:12:36-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4861317101",
-    "title": "Senior Card Operations Manager",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4861317101",
-    "date": "2026-05-07T04:58:29-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/b46a1b43-d138-408d-af45-de505982b47a",
-    "title": "Binance Accelerator Programme - Campaigns Operations, Binance Square",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/b46a1b43-d138-408d-af45-de505982b47a",
-    "date": "2026-05-07T08:53:55.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "4861283101",
-    "title": "HRBP Expert",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4861283101",
-    "date": "2026-05-07T04:31:16-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "c18b44cf-01bf-400b-b747-123d358a82dc",
-    "title": "Director – Brazil (Financial Services / Virtual Assets)",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/c18b44cf-01bf-400b-b747-123d358a82dc",
-    "date": "2026-05-07T07:08:01.883Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/77603219-vp-accounting#content",
-    "title": "VP, Accounting",
-    "company": "StreamingFast",
-    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/77603219-vp-accounting#content",
-    "date": "2026-05-07T06:23:26.000Z",
-    "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "7726893003",
-    "title": "VIP Relationship Manager, NEA",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7726893003",
-    "date": "2026-05-07T02:08:47-04:00",
-    "source": "Greenhouse: OKX"
   }
 ]
