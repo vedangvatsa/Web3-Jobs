@@ -1,5 +1,157 @@
 [
   {
+    "id": "bd56c6db-fbae-47f3-94cb-ac60e60103cf",
+    "title": "Product Manager - Security Operations",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/bd56c6db-fbae-47f3-94cb-ac60e60103cf",
+    "date": "2026-06-10T10:50:59.908Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "88a5d981-4dbd-4571-80f1-b72321e67eb6",
+    "title": "Data Analytics Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/88a5d981-4dbd-4571-80f1-b72321e67eb6",
+    "date": "2026-06-10T10:40:19.735Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "7768121003",
+    "title": "Principal/Senior Mobile Engineer, CEX",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7768121003",
+    "date": "2026-06-10T06:20:57-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "1b064967-97b9-4e77-99aa-ecb3597effe9",
+    "title": "Senior Java Developer (Exchange/Trading Platform)",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/1b064967-97b9-4e77-99aa-ecb3597effe9",
+    "date": "2026-06-10T09:10:38.961Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "7768054003",
+    "title": "Product Manager / Director, User Growth",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7768054003",
+    "date": "2026-06-10T04:52:35-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7746610003",
+    "title": "Security Operations Engineer",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7746610003",
+    "date": "2026-06-10T03:25:33-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "82237047",
+    "title": "Product Manager · Orchestration",
+    "company": "Saptiva AI",
+    "link": "mailto:hr@saptiva.com?subject=PM%20Orchestration%20application",
+    "date": "2026-06-10T06:32:11.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "82237048",
+    "title": "Designer · Enterprise product",
+    "company": "Saptiva AI",
+    "link": "mailto:hr@saptiva.com?subject=Designer%20application",
+    "date": "2026-06-10T06:32:11.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "82237044",
+    "title": "Security & Compliance Engineer",
+    "company": "Saptiva AI",
+    "link": "mailto:hr@saptiva.com?subject=Security%20Engineer%20application",
+    "date": "2026-06-10T06:32:10.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "82237045",
+    "title": "Enterprise Account Executive · Financial Services",
+    "company": "Saptiva AI",
+    "link": "mailto:hr@saptiva.com?subject=AE%20Financial%20Services%20application",
+    "date": "2026-06-10T06:32:10.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "82237043",
+    "title": "Senior Software Engineer · Studio applications",
+    "company": "Saptiva AI",
+    "link": "mailto:hr@saptiva.com?subject=Software%20Engineer%20application",
+    "date": "2026-06-10T06:32:10.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "82237040",
+    "title": "Senior Platform Engineer · FrIdA",
+    "company": "Saptiva AI",
+    "link": "mailto:hr@saptiva.com?subject=Platform%20Engineer%20application",
+    "date": "2026-06-10T06:32:09.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "82237036",
+    "title": "Forward Deployed Engineer",
+    "company": "Saptiva AI",
+    "link": "mailto:hr@saptiva.com?subject=FDE%20application",
+    "date": "2026-06-10T06:32:06.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "82236808",
+    "title": "Member of Technical Staff, Distributed Training Systems",
+    "company": "Bagel Labs",
+    "link": "https://www.bagel.com/careers/member-of-technical-staff-distributed-training-systems",
+    "date": "2026-06-10T06:30:44.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "82236804",
+    "title": "Member of Technical Staff, Research",
+    "company": "Bagel Labs",
+    "link": "https://www.bagel.com/careers/member-of-technical-staff-physical-ai-research",
+    "date": "2026-06-10T06:30:43.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "82236789",
+    "title": "Head of GTM, Physical AI",
+    "company": "Bagel Labs",
+    "link": "https://www.bagel.com/careers/head-of-gtm-physical-ai",
+    "date": "2026-06-10T06:30:41.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "68e22b7b-7498-4a0a-9104-a580837b1c84",
+    "title": "Operations Analyst - 12 Month Contract",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/68e22b7b-7498-4a0a-9104-a580837b1c84",
+    "date": "2026-06-10T05:50:18.139Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "8582063002",
+    "title": "Sales Trader",
+    "company": "Jane Street",
+    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8582063002",
+    "date": "2026-06-10T01:47:07-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "7992322",
+    "title": "Client Support Analyst",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7992322?gh_jid=7992322",
+    "date": "2026-06-10T01:21:59-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
     "id": "7767880003",
     "title": "Staff/Senior Staff Engineer, Kubernetes",
     "company": "OKX",
@@ -102,6 +254,14 @@
     "link": "https://jobs.ashbyhq.com/SkyMavis/a4dc737a-1893-4981-844c-2153ad06be75",
     "date": "2026-06-10T03:52:45.913+00:00",
     "source": "Ashby: Sky Mavis"
+  },
+  {
+    "id": "3eb9d01a-b829-4864-96eb-8d76c62c8d95",
+    "title": "Principal Product Manager - Discovery & Onboarding(Exchange)",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/3eb9d01a-b829-4864-96eb-8d76c62c8d95",
+    "date": "2026-06-10T03:38:18.834Z",
+    "source": "Lever: Crypto"
   },
   {
     "id": "7990084",
@@ -8853,6 +9013,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "7946230",
+    "title": "Engagement Manager",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7946230",
+    "date": "2026-05-23T10:53:08-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "80124161",
     "title": "Staff/Senior Security Engineer - DeFi",
     "company": "Ethena Labs",
@@ -15995,101 +16163,5 @@
     "link": "https://jobs.ashbyhq.com/ramp/d2d32a6d-5f29-4708-83d0-03b4e44c031d",
     "date": "2026-05-11T13:46:30.118+00:00",
     "source": "Ashby: Ramp"
-  },
-  {
-    "id": "7794729",
-    "title": "Data Analyst",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7794729",
-    "date": "2026-05-11T08:22:37-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "500ad01d-5a9b-4fb9-be4b-96ebdaf3b4b7",
-    "title": "Operations Manager - Payment",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/500ad01d-5a9b-4fb9-be4b-96ebdaf3b4b7",
-    "date": "2026-05-11T11:51:43.899Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "b1ea537f-b90d-4715-bc14-2c7a85ed0b13",
-    "title": "Fraud Prevention and Regulatory Risk Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/b1ea537f-b90d-4715-bc14-2c7a85ed0b13",
-    "date": "2026-05-11T11:48:28.350Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "ce20754c-0c6c-42df-aa65-05a251bab0f7",
-    "title": "Senior Compliance & Regulatory Specialist - Brazil",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/ce20754c-0c6c-42df-aa65-05a251bab0f7",
-    "date": "2026-05-11T11:45:21.799Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "a75ed568-af2a-4d5f-8c9c-71ccfc498d21",
-    "title": "Senior Application Security Engineer",
-    "company": "Polygon Labs",
-    "link": "https://jobs.ashbyhq.com/polygon-labs/a75ed568-af2a-4d5f-8c9c-71ccfc498d21",
-    "date": "2026-05-11T11:40:57.900+00:00",
-    "source": "Ashby: Polygon Labs"
-  },
-  {
-    "id": "2fd3ecd7-7f4b-4979-8417-b4cdd37718c2",
-    "title": "Operations Senior Analyst",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/2fd3ecd7-7f4b-4979-8417-b4cdd37718c2",
-    "date": "2026-05-11T11:32:40.627Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "7905896",
-    "title": "Senior Software Engineer, Authentication & Authorisation (Backend)",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7905896?gh_jid=7905896",
-    "date": "2026-05-11T04:54:59-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "41efc4cd-56dc-4dbe-8164-1a5eac3b8b95",
-    "title": "Analytics Engineer - Crypto and Payments",
-    "company": "MoonPay",
-    "link": "https://jobs.lever.co/moonpay/41efc4cd-56dc-4dbe-8164-1a5eac3b8b95",
-    "date": "2026-05-11T08:52:45.976Z",
-    "source": "Lever: MoonPay"
-  },
-  {
-    "id": "41efc4cd-56dc-4dbe-8164-1a5eac3b8b95",
-    "title": "Senior Analytics Engineer - Crypto and Payments",
-    "company": "MoonPay",
-    "link": "https://jobs.lever.co/moonpay/41efc4cd-56dc-4dbe-8164-1a5eac3b8b95",
-    "date": "2026-05-11T08:52:45.976Z",
-    "source": "Lever: MoonPay"
-  },
-  {
-    "id": "76154a76-bdf2-462c-a5c6-333b224d5c80",
-    "title": "Regulatory Compliance Manager, Malta",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/76154a76-bdf2-462c-a5c6-333b224d5c80",
-    "date": "2026-05-11T08:30:45.175Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "4863164101",
-    "title": "Marketing Specialist, Georgia",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4863164101",
-    "date": "2026-05-11T03:44:16-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4863104101",
-    "title": "Test Development Engineer Intern",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4863104101",
-    "date": "2026-05-11T01:57:35-04:00",
-    "source": "Greenhouse: Bybit"
   }
 ]
