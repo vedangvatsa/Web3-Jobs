@@ -253,12 +253,6 @@ const testimonials = [
  }
 ];
 
-const headlines = [
-  "Connecting The Web3 Ecosystem",
-  "A Global Network",
-  "Reach & Scale",
-  "Your Partner in Growth"
-];
 
 const CompactJobItem = ({ job }: { job: Job }) => (
  <a href={job.link} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-lg hover:bg-secondary transition-colors text-center">
@@ -335,10 +329,6 @@ export function CommunityPageContent({
  return (
   <div className="py-16">
     <div className="container mx-auto px-4 md:py-16">
-     
-     <section className="text-center mb-16 max-w-4xl mx-auto">
-       <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
-     </section>
      
      <section className="mb-16">
       <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
