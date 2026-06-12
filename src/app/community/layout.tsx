@@ -9,7 +9,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Community | Hashtag Web3',
+  title: 'Web3 Community',
   description: 'Connect with the Web3 community. Discover industry partners, major companies hiring, and events.',
   url: 'https://hashtagweb3.com/community',
   images: [{ url: '/api/og?type=default&title=Web3%20Community', width: 1200, height: 630 }],

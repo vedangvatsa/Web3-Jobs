@@ -10,7 +10,7 @@ import { Metadata } from 'next';
 import type { ResourcePage } from '@/types/pseo';
 
 export const metadata: Metadata = {
-  title: 'Free Web3 Career Tools and Resources | Hashtag Web3',
+  title: 'Free Web3 Career Tools and Resources',
   description: 'A complete suite of free tools and resources for professionals and companies building in the decentralized economy.',
 };
 

@@ -10,14 +10,14 @@ import type { WebPage, JobPosting } from 'schema-dts';
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
 export const metadata: Metadata = {
- title: 'Web3 Jobs & Crypto Careers | Hashtag Web3',
+ title: 'Web3 Jobs & Crypto Careers',
  description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, smart contracts, DeFi, DAOs, and crypto marketing at top Web3 startups.',
  alternates: {
   canonical: 'https://hashtagweb3.com/jobs',
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Jobs & Crypto Careers | Hashtag Web3',
+  title: 'Web3 Jobs & Crypto Careers',
   description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
   url: 'https://hashtagweb3.com/jobs',
   images: [{
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Jobs & Crypto Careers | Hashtag Web3',
+  title: 'Web3 Jobs & Crypto Careers',
   description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
   images: ['/api/og?type=default&title=Remote%20Web3%20Jobs'],
  },
