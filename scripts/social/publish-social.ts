@@ -32,6 +32,7 @@ interface PublishState {
   instagram: { lastIndex: number; posted: string[] };
   twitter: { lastIndex: number; posted: string[] };
   bluesky: { lastIndex: number; posted: string[] };
+  threads: { lastIndex: number; posted: string[] };
 }
 
 function loadSchedule(): PostContent[] {
@@ -42,6 +43,7 @@ function loadState(): PublishState {
   if (fs.existsSync(STATE_FILE)) {
     const s = JSON.parse(fs.readFileSync(STATE_FILE, 'utf-8'));
     if (!s.bluesky) s.bluesky = { lastIndex: -1, posted: [] };
+    if (!s.threads) s.threads = { lastIndex: -1, posted: [] };
     return s;
   }
   return {
@@ -49,6 +51,7 @@ function loadState(): PublishState {
     instagram: { lastIndex: -1, posted: [] },
     twitter: { lastIndex: -1, posted: [] },
     bluesky: { lastIndex: -1, posted: [] },
+    threads: { lastIndex: -1, posted: [] },
   };
 }
 
@@ -517,6 +520,76 @@ async function postToBluesky(text: string, imagePath: string) {
   return postData.uri;
 }
 
+// --- Threads API ---
+
+async function postToThreads(text: string, imagePath: string) {
+  const accessToken = process.env.THREADS_ACCESS_TOKEN;
+  const threadsUserId = process.env.THREADS_USER_ID;
+
+  if (!accessToken || !threadsUserId) {
+    throw new Error('THREADS_ACCESS_TOKEN or THREADS_USER_ID not set');
+  }
+
+  // Threads requires a publicly accessible image URL
+  const imageUrl = process.env.SOCIAL_IMAGE_BASE_URL && imagePath
+    ? `${process.env.SOCIAL_IMAGE_BASE_URL}/${path.basename(imagePath)}`
+    : null;
+
+  const urlParams = new URLSearchParams();
+  urlParams.append('access_token', accessToken);
+  if (imageUrl && fs.existsSync(imagePath)) {
+    urlParams.append('media_type', 'IMAGE');
+    urlParams.append('image_url', imageUrl);
+    urlParams.append('text', text);
+  } else {
+    urlParams.append('media_type', 'TEXT');
+    urlParams.append('text', text);
+  }
+
+  // Step 1 - Create media container
+  const createRes = await fetch(
+    `https://graph.threads.net/v1.0/${threadsUserId}/threads`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: urlParams.toString(),
+    }
+  );
+
+  if (!createRes.ok) {
+    const err = await createRes.text();
+    throw new Error(`Threads container creation failed: ${createRes.status} ${err}`);
+  }
+
+  const { id: containerId } = await createRes.json();
+  console.log('Threads container created:', containerId);
+
+  // Wait for processing
+  await new Promise((r) => setTimeout(r, 5000));
+
+  // Step 2 - Publish the container
+  const publishRes = await fetch(
+    `https://graph.threads.net/v1.0/${threadsUserId}/threads_publish`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams({
+        creation_id: containerId,
+        access_token: accessToken,
+      }).toString(),
+    }
+  );
+
+  if (!publishRes.ok) {
+    const err = await publishRes.text();
+    throw new Error(`Threads publish failed: ${publishRes.status} ${err}`);
+  }
+
+  const { id: mediaId } = await publishRes.json();
+  console.log(`Threads post published: ${mediaId}`);
+  return mediaId;
+}
+
 function cleanAndCompareText(candidate: string, existing: string): boolean {
   const normalize = (t: string) => {
     return t
@@ -673,6 +746,10 @@ async function checkIfAlreadyPostedOnPlatform(platform: string, text: string): P
     recentTexts = await fetchRecentTweetsX();
   } else if (platform === 'bluesky') {
     recentTexts = await fetchRecentBlueskyPosts();
+  } else if (platform === 'threads') {
+    // We don't have a fetchRecentThreadsPosts yet, so we assume no duplicate based on API
+    // (A future improvement would implement fetchRecentThreadsPosts)
+    recentTexts = [];
   }
 
   if (recentTexts.length === 0) {
@@ -695,8 +772,8 @@ async function main() {
     ? process.argv[process.argv.indexOf('--platform') + 1]
     : null;
 
-  if (!platform || !['linkedin', 'instagram', 'twitter', 'bluesky'].includes(platform)) {
-    console.error('Usage: npx tsx publish-social.ts --platform linkedin|instagram|twitter|bluesky');
+  if (!platform || !['linkedin', 'instagram', 'twitter', 'bluesky', 'threads'].includes(platform)) {
+    console.error('Usage: npx tsx publish-social.ts --platform linkedin|instagram|twitter|bluesky|threads');
     process.exit(1);
   }
 
@@ -740,9 +817,9 @@ async function main() {
     if (!postedIds.has(candidate.id)) {
       // Use platform-specific text
       let candidateText: string;
-      if ((platform === 'twitter' || platform === 'bluesky') && candidate.twitter?.text) {
+      if ((platform === 'twitter' || platform === 'bluesky' || platform === 'threads') && candidate.twitter?.text) {
         candidateText = candidate.twitter.text;
-      } else if (platform === 'instagram') {
+      } else if (platform === 'instagram' || platform === 'threads') {
         candidateText = candidate.instagram.text;
       } else {
         candidateText = candidate.linkedin.text;
@@ -795,6 +872,8 @@ async function main() {
       await postToTwitter(text, imagePath);
     } else if (platform === 'bluesky') {
       await postToBluesky(text, imagePath);
+    } else if (platform === 'threads') {
+      await postToThreads(text, imagePath);
     }
 
     // Update state — track the chosen index for round-robin
