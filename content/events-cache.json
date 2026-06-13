@@ -1,61 +1,5 @@
 [
   {
-    "id": "luma-evt-hsP2g9Pw6ZMbIPG",
-    "name": "Solana Summit Germany",
-    "description": "",
-    "startDate": "2026-06-13T08:00:00.000Z",
-    "endDate": "2026-06-13T20:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://lu.ma/solanasummitgermany",
-    "coverImage": "https://images.lumacdn.com/event-covers/k9/ce66de96-5346-464b-a262-c87f4e292b37.png",
-    "source": "luma",
-    "month": "June 2026"
-  },
-  {
-    "id": "luma-host-evt-hsP2g9Pw6ZMbIPG",
-    "name": "Solana Summit Germany",
-    "description": "Superteam Germany is here to support your journey in the Solana ecosystem. Our events are the perfect place to learn, network, and find opportunities.",
-    "startDate": "2026-06-13T08:00:00.000Z",
-    "endDate": "2026-06-13T20:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://lu.ma/solanasummitgermany",
-    "coverImage": "https://images.lumacdn.com/event-covers/k9/ce66de96-5346-464b-a262-c87f4e292b37.png",
-    "source": "luma-trusted",
-    "month": "June 2026"
-  },
-  {
-    "id": "luma-host-evt-TE4Vblp82xLi2uy",
-    "name": "Solana Mobile VibeHack for UBW",
-    "description": "Solana спільнота, де запускають web3 стартапи, отримують гранти та інвестиції, навчаються й заробляють у криптоекономіці.",
-    "startDate": "2026-06-13T10:00:00.000Z",
-    "endDate": "2026-06-13T15:00:00.000Z",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "location": "Kyiv, Ukraine",
-    "url": "https://lu.ma/ubw-hackathon",
-    "coverImage": "https://images.lumacdn.com/uploads/h0/e77408f2-6df3-4274-bbd8-8c462cb39a70.png",
-    "source": "luma-trusted",
-    "month": "June 2026"
-  },
-  {
-    "id": "luma-evt-baGqxKY3AfsTB00",
-    "name": "AI x Healthy Vibe Coding Buildathon Berlin",
-    "description": "",
-    "startDate": "2026-06-13T12:00:00.000Z",
-    "endDate": "2026-06-13T18:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://lu.ma/2mbq4ibz",
-    "coverImage": "https://images.lumacdn.com/uploads/v7/589dd5f3-96e3-4a3a-8ad4-76c3716c71c8.png",
-    "source": "luma",
-    "month": "June 2026"
-  },
-  {
     "id": "luma-evt-ICeHf7C5gvqEwsu",
     "name": "Deen Developers - Buildathons Batch 4 Demo Day",
     "description": "",
@@ -280,34 +224,6 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314853836",
-    "name": "Social Saturdays",
-    "description": "Social Saturdays\n\nSocial Saturdays are the Emerging Tech Center’s twice-monthly community gatherings for people interested in crypto, Web3, AI, and emerging technology.\n\nHeld every second and fourth S",
-    "startDate": "2026-06-13T18:00:00-07:00",
-    "endDate": "2026-06-13T18:00:00-07:00",
-    "city": "Mesa",
-    "country": "US",
-    "location": "Mesa, US",
-    "url": "https://www.meetup.com/etcarizona/events/314853836/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/4/a/2/600_534305282.jpeg",
-    "source": "meetup",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-314852346",
-    "name": "Social Saturdays",
-    "description": "Social Saturdays\n\nSocial Saturdays are the Emerging Tech Center’s twice-monthly community gatherings for people interested in crypto, Web3, AI, and emerging technology.\n\nHeld every second and fourth S",
-    "startDate": "2026-06-13T18:00:00-07:00",
-    "endDate": "2026-06-13T18:00:00-07:00",
-    "city": "Mesa",
-    "country": "US",
-    "location": "Mesa, US",
-    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/314852346/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/e/3/6/600_534303638.jpeg",
-    "source": "meetup",
-    "month": "June 2026"
-  },
-  {
     "id": "luma-evt-MpfyjItVJmKmgH0",
     "name": "Neocypherpunk Summit by Web3Privacy now",
     "description": "",
@@ -319,6 +235,20 @@
     "url": "https://lu.ma/f47k4xnd",
     "coverImage": "https://images.lumacdn.com/event-covers/aw/837f2238-008b-44cb-b511-b59bc9cf51c0.png",
     "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314946447",
+    "name": "REAL TRADER IN 3 HOURS | Full Trading Workshop | Forex | Crypto | Stocks",
+    "description": "Most traders lose because they enter too early, manage risk poorly, and spend countless hours staring at charts without understanding what actually moves the market.\nThis live online workshop is desig",
+    "startDate": "2026-06-14T08:00:00-04:00",
+    "endDate": "2026-06-14T08:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/traderfriends-ca/events/314946447/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/3/0/a/8/600_534192456.jpeg",
+    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -373,7 +303,7 @@
     "country": "US",
     "location": "Dallas, US",
     "url": "https://www.eventbrite.com/e/her-money-her-rules-a-crypto-workshop-for-women-virtual-or-in-person-tickets-1990702883914",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185776300%2F306328065725%2F1%2Foriginal.20260530-203820?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.502&fp-y=0.659&s=c6713e9a4985a67991af86761c704c11",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185776300%2F306328065725%2F1%2Foriginal.20260530-203820?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.502&fp-y=0.659&s=62d352c1f117fa3c70b526fca5138ab4",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -420,20 +350,6 @@
     "month": "June 2026"
   },
   {
-    "id": "luma-evt-k8DtOtAI2MHqlBS",
-    "name": "SheFi Berlin: Cute Canal Coffee at Berlin Blockchain Week",
-    "description": "",
-    "startDate": "2026-06-15T07:00:00.000Z",
-    "endDate": "2026-06-15T11:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://lu.ma/i2ttqchg",
-    "coverImage": "https://images.lumacdn.com/uploads/b1/781dff0a-45cf-4276-b29f-0345c505fd06.png",
-    "source": "luma",
-    "month": "June 2026"
-  },
-  {
     "id": "luma-evt-u5jJpV94c6YiTGp",
     "name": "Berlin Blockchain Festival 2026 Ticket (General Access)",
     "description": "",
@@ -444,6 +360,20 @@
     "location": "Berlin, Germany",
     "url": "https://lu.ma/bbfticket",
     "coverImage": "https://images.lumacdn.com/event-covers/ug/d27a5704-17df-47b4-b724-477a07508963.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-k8DtOtAI2MHqlBS",
+    "name": "SheFi Berlin: Cute Canal Coffee at Berlin Blockchain Week",
+    "description": "",
+    "startDate": "2026-06-15T07:00:00.000Z",
+    "endDate": "2026-06-15T11:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/i2ttqchg",
+    "coverImage": "https://images.lumacdn.com/uploads/b1/781dff0a-45cf-4276-b29f-0345c505fd06.png",
     "source": "luma",
     "month": "June 2026"
   },
@@ -529,6 +459,20 @@
     "url": "https://lu.ma/4uk00n6o",
     "coverImage": "https://images.lumacdn.com/uploads/ap/bfdcf2bd-f102-43e9-b1b1-97b7330c5f88.png",
     "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-314962984",
+    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
+    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
+    "startDate": "2026-06-15T12:00:00-04:00",
+    "endDate": "2026-06-15T12:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/314962984/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/2/2/3/600_525981027.jpeg",
+    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -669,20 +613,6 @@
     "url": "https://www.eventbrite.com/e/bitcoin-bourbon-speaker-series-tickets-1983693766455",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178113407%2F2746945506871%2F1%2Foriginal.20260221-213907?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.47&fp-y=0.055&s=a2bb542cc51db7c3eac15b184ec69ff2",
     "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-314970905",
-    "name": "Crypto Mondays: Talk Web3 With Your Community!",
-    "description": "We're back and at a new and improved location, Santisi Brothers Sports Grill and Pizzeria, hosted by MoodConnect's CEO Amy Ouzoonian\nJoin us to celebrate a new year and new home for our Phoenix chapte",
-    "startDate": "2026-06-15T18:00:00-07:00",
-    "endDate": "2026-06-15T18:00:00-07:00",
-    "city": "Phoenix",
-    "country": "us",
-    "location": "Phoenix, us",
-    "url": "https://www.meetup.com/cryptomondays-phoenix/events/314970905/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/2/5/3/7/600_511269527.jpeg",
-    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -990,6 +920,48 @@
     "location": "Berlin, Germany",
     "url": "https://lu.ma/ljmov6xm",
     "coverImage": "https://images.lumacdn.com/event-covers/7g/c3a79990-c748-4d81-a49e-14dc92ac23bf",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-gg9Dw6Y6V8MWhpe",
+    "name": "“No Financial Advice” - Crypto Content, MiCAR & die neue Verantwortung für Creator",
+    "description": "",
+    "startDate": "2026-06-17T13:00:00.000Z",
+    "endDate": "2026-06-17T16:30:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/w34kavxg",
+    "coverImage": "https://images.lumacdn.com/uploads/a0/3ff6a56e-da95-4e6d-b0a5-b20de8c81ff2.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-bmstbxUZcE4iEm8",
+    "name": "Bitbond Afterwork at Berlin Blockchain Week",
+    "description": "",
+    "startDate": "2026-06-17T14:00:00.000Z",
+    "endDate": "2026-06-17T17:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/t9a49z4b",
+    "coverImage": "https://images.lumacdn.com/uploads/go/8c7a3272-e2b9-4449-87a9-9241cfa0c0e6.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-TPxjv1TZrJGK8fm",
+    "name": "OKX Summit: Insights from Top Traders",
+    "description": "",
+    "startDate": "2026-06-17T15:00:00.000Z",
+    "endDate": "2026-06-17T23:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/d394x7oy",
+    "coverImage": "https://images.lumacdn.com/uploads/ib/f4986292-3810-4316-b846-2fc9c341a0e7.png",
     "source": "luma",
     "month": "June 2026"
   },
@@ -1316,6 +1288,20 @@
     "month": "June 2026"
   },
   {
+    "id": "mu-314982064",
+    "name": "Open Bitcoin Q&A chat!",
+    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* Bitcoin.rocks\n* Bitcoin-Only.com\n* Bitcoiner.Guide\n* The",
+    "startDate": "2026-06-17T20:00:00-04:00",
+    "endDate": "2026-06-17T20:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/philadelphia-bitcoin-club/events/314982064/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/4/3/1/600_508345649.jpeg",
+    "source": "meetup",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-evt-ZVMjE6rAq2cOtiS",
     "name": "Bitcoin MeetUp 031 - FEDI",
     "description": "",
@@ -1327,34 +1313,6 @@
     "url": "https://lu.ma/w7skd988",
     "coverImage": "https://images.lumacdn.com/uploads/s2/d9a45612-ff95-4a3a-bd57-21f2d85d5528.png",
     "source": "luma",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-314852328",
-    "name": "Workshop Wednesday",
-    "description": "**Workshop Wednesdays**\n\nThe next Workshop Wednesday is **Litecoin: The Heart of Web 3** with Aztek of LitVM. The agenda: a live presentation, open Q&A, and food & networking to close out the night. B",
-    "startDate": "2026-06-17T18:00:00-07:00",
-    "endDate": "2026-06-17T18:00:00-07:00",
-    "city": "Phoenix",
-    "country": "us",
-    "location": "Phoenix, us",
-    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/314852328/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/8/600_534303560.jpeg",
-    "source": "meetup",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-314853749",
-    "name": "Litecoin: The Heart of Web 3.",
-    "description": "**Workshop Wednesdays**\n\nThe next Workshop Wednesday is **Litecoin: The Heart of Web 3** with Aztek of LitVM. The agenda: a live presentation, open Q&A, and food & networking to close out the night. B",
-    "startDate": "2026-06-17T18:00:00-07:00",
-    "endDate": "2026-06-17T18:00:00-07:00",
-    "city": "Phoenix",
-    "country": "us",
-    "location": "Phoenix, us",
-    "url": "https://www.meetup.com/etcarizona/events/314853749/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/4/8/0/600_534305248.jpeg",
-    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -1400,6 +1358,20 @@
     "month": "June 2026"
   },
   {
+    "id": "luma-evt-Ze5APBQO5ntkF1Z",
+    "name": "VivaTech Pitch Contest | X-HEC Entrepreneurs & Startup Launchpad",
+    "description": "",
+    "startDate": "2026-06-18T07:30:00.000Z",
+    "endDate": "2026-06-18T08:15:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/rapkhzo7",
+    "coverImage": "https://images.lumacdn.com/uploads/bw/1e76289f-ed03-4eac-a6cf-6ee0f5c2adf5.jpg",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-host-evt-p7EDXi0aBndUGar",
     "name": "Web3 Summit 2026",
     "description": "",
@@ -1428,6 +1400,20 @@
     "month": "June 2026"
   },
   {
+    "id": "luma-evt-nlC1fuTy477c8b6",
+    "name": "Fundraising Do's & Don'ts by Unicorn Bakery x Möhrle Happ Luther",
+    "description": "",
+    "startDate": "2026-06-18T13:00:00.000Z",
+    "endDate": "2026-06-18T16:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/ub_mhl",
+    "coverImage": "https://images.lumacdn.com/uploads/5l/9d1dbad9-35a7-43c6-804b-ab12d462e340.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-host-evt-0AuHzJNbhAko48C",
     "name": "Mùa hè Prediction Markets",
     "description": "Find your local meetup on the Chainlink Community Global Events Calendar",
@@ -1442,6 +1428,34 @@
     "month": "June 2026"
   },
   {
+    "id": "luma-evt-oTU9sebtJu87F85",
+    "name": "K-Baby Unicorn @ France IR Demo Day",
+    "description": "",
+    "startDate": "2026-06-18T13:30:00.000Z",
+    "endDate": "2026-06-18T17:30:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/8drvvjhx",
+    "coverImage": "https://images.lumacdn.com/uploads/x4/51a931c7-d606-4f12-904f-b6fbdd62476b.jpg",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-n0uEDnCiNX11zcz",
+    "name": "Student Gathering at Web3 Summit",
+    "description": "",
+    "startDate": "2026-06-18T15:00:00.000Z",
+    "endDate": "2026-06-19T16:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/ruxwhurc",
+    "coverImage": "https://images.lumacdn.com/uploads/cl/b42838b3-024a-4be2-a3b4-c6d03f082c13.jpg",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
     "id": "luma-evt-AuODHY8FQrACAs2",
     "name": "haricot vert chicago pop-up at festive collective",
     "description": "",
@@ -1452,6 +1466,34 @@
     "location": "Chicago, United States",
     "url": "https://lu.ma/do2xx8i5",
     "coverImage": "https://images.lumacdn.com/uploads/lu/2e4a8e04-ea8d-48bc-89e5-492dfdca8631.png",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-nGgJ76yubjc2Bj6",
+    "name": "THE LIVING TABLE. Movement. Sound. Painting. Gastronomy.",
+    "description": "",
+    "startDate": "2026-06-18T16:00:00.000Z",
+    "endDate": "2026-06-18T20:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/19s90avx",
+    "coverImage": "https://images.lumacdn.com/uploads/ut/a98bc715-89af-4661-9c39-5b0d49a8105c.jpg",
+    "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-jd7NYR7jp66Dnvs",
+    "name": "AI x Security | Happy Hour | Consensys Diligence & ETHGlobal",
+    "description": "",
+    "startDate": "2026-06-18T16:00:00.000Z",
+    "endDate": "2026-06-18T19:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/eth-happyhour-bbw26",
+    "coverImage": "https://images.lumacdn.com/uploads/cy/66cd01d9-6d22-418c-b8dd-6b2b84bb880b.png",
     "source": "luma",
     "month": "June 2026"
   },
@@ -1481,6 +1523,20 @@
     "url": "https://lu.ma/eth-happyhour-bbw26",
     "coverImage": "https://images.lumacdn.com/uploads/cy/66cd01d9-6d22-418c-b8dd-6b2b84bb880b.png",
     "source": "luma-trusted",
+    "month": "June 2026"
+  },
+  {
+    "id": "luma-evt-FaKta58RJraOfAb",
+    "name": "Dédicace \"Leçons de Courage\" de Nicolas Princen",
+    "description": "",
+    "startDate": "2026-06-18T16:30:00.000Z",
+    "endDate": "2026-06-18T18:30:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/eqsl5nbn",
+    "coverImage": "https://images.lumacdn.com/uploads/pu/ed5cd710-ccb0-41ee-9f73-8bd5221ab33c.png",
+    "source": "luma",
     "month": "June 2026"
   },
   {
@@ -1551,20 +1607,6 @@
     "url": "https://lu.ma/gqhvwtwb",
     "coverImage": "https://images.lumacdn.com/uploads/ux/d2042fe7-90a5-47ab-a64c-c9e17be46974.jpg",
     "source": "luma",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-315018376",
-    "name": "Artificial Intelligence and Blockchain Discussion",
-    "description": "Join us for an engaging discussion on the latest advancements in Artificial Intelligence and Blockchain technology. Our event will cover topics such as Machine Learning, Ethereum, Smart Contracts, and",
-    "startDate": "2026-06-18T16:00:00-07:00",
-    "endDate": "2026-06-18T16:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/ai-blockchain-more-tech/events/315018376/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/e/2/7/600_521728199.jpeg",
-    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -1747,20 +1789,6 @@
     "url": "https://www.eventbrite.com/e/networking-100-industrial-en-metepec-estado-de-mexico-tickets-1991522114254",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186560716%2F23675266844%2F1%2Foriginal.20260610-025237?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.422&fp-y=0.51&s=7278d9841185dae12daed28352beb7bb",
     "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-315021094",
-    "name": "Crypto talk - Money is Freedom; currency is slavery ",
-    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
-    "startDate": "2026-06-18T19:00:00-07:00",
-    "endDate": "2026-06-18T19:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cashflow-271/events/315021094/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/c/2/600_501417026.jpeg",
-    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -2138,20 +2166,6 @@
     "location": "Amsterdam, NL",
     "url": "https://www.eventbrite.com/e/litecoin-summit-2026-tickets-1977994988256",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173018327%2F957107740913%2F1%2Foriginal.20251215-222640?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=569fbf4479ef106408770af21e96b4ea",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "eb-1894105794419",
-    "name": "Bitcoin Meetup Ubud",
-    "description": "Monthly meetup every 4th Monday of the month 6pm at Outpost Penestenan rooftop, Ubud, Bali. Join us!",
-    "startDate": "2026-06-22",
-    "endDate": "2026-06-22",
-    "city": "Kecamatan Ubud",
-    "country": "ID",
-    "location": "Kecamatan Ubud, ID",
-    "url": "https://www.eventbrite.com/e/bitcoin-meetup-ubud-tickets-1894105794419",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173797758%2F2752801101101%2F1%2Foriginal.20260101-165434?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=af06d8b20b55abe6ab7f5c9c51ae5d3c",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -2646,16 +2660,16 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314651893",
+    "id": "mu-314651936",
     "name": "ZK Learning Group: Cairo and Starknet",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-06-25T09:00:00-07:00",
-    "endDate": "2026-06-25T09:00:00-07:00",
+    "startDate": "2026-06-25T12:00:00-04:00",
+    "endDate": "2026-06-25T12:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-phoenix/events/314651893/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/1/3/f/600_534088991.jpeg",
+    "url": "https://www.meetup.com/lfdt-washington-dc/events/314651936/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/1/9/5/600_534089077.jpeg",
     "source": "meetup",
     "month": "June 2026"
   },
@@ -2814,6 +2828,20 @@
     "month": "June 2026"
   },
   {
+    "id": "eb-1991820851786",
+    "name": "Learn how-to secure your Bitcoin on a  cold wallet",
+    "description": "Join us in Burleigh to  learn easy ways to keep your Bitcoin safe using a cold wallet—no techy skills needed!",
+    "startDate": "2026-06-27",
+    "endDate": "2026-06-27",
+    "city": "Burleigh Heads",
+    "country": "AU",
+    "location": "Burleigh Heads, AU",
+    "url": "https://www.eventbrite.com.au/e/learn-how-to-secure-your-bitcoin-on-a-cold-wallet-tickets-1991820851786",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186813604%2F3005213808808%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=c816cc9168f08d7c5f0401167b7f31b9",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
     "id": "eb-1988830215713",
     "name": "Bitcoin Indonesia Community Meetup Bintaro  27 Juni 2026",
     "description": "Sirkular Ekonomi",
@@ -2926,30 +2954,16 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314852375",
-    "name": "Social Saturdays",
-    "description": "Social Saturdays\n\nSocial Saturdays are the Emerging Tech Center’s twice-monthly community gatherings for people interested in crypto, Web3, AI, and emerging technology.\n\nHeld every second and fourth S",
-    "startDate": "2026-06-27T18:00:00-07:00",
-    "endDate": "2026-06-27T18:00:00-07:00",
-    "city": "Tempe",
-    "country": "US",
-    "location": "Tempe, US",
-    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/314852375/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/e/9/a/600_534303738.jpeg",
-    "source": "meetup",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-314853849",
-    "name": "Social Saturdays",
-    "description": "Social Saturdays\n\nSocial Saturdays are the Emerging Tech Center’s twice-monthly community gatherings for people interested in crypto, Web3, AI, and emerging technology.\n\nHeld every second and fourth S",
-    "startDate": "2026-06-27T18:00:00-07:00",
-    "endDate": "2026-06-27T18:00:00-07:00",
-    "city": "Tempe",
-    "country": "US",
-    "location": "Tempe, US",
-    "url": "https://www.meetup.com/etcarizona/events/314853849/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/4/a/2/600_534305282.jpeg",
+    "id": "mu-315087412",
+    "name": "Defining Agile Success: Aligning at All Levels Through Shared Maturity",
+    "description": "Many Agile transformations struggle not because teams fail to improve, but because organizations never define what success actually looks like. This session shares a two-year transformation case study",
+    "startDate": "2026-06-29T18:15:00-04:00",
+    "endDate": "2026-06-29T18:15:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/women-in-agile-dc-metro/events/315087412/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/e/3/c/600_534551836.jpeg",
     "source": "meetup",
     "month": "June 2026"
   },
@@ -3066,30 +3080,30 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-315123301",
+    "id": "mu-315123349",
     "name": "Increasing Trust on Ethereum with ENS and Enscribe",
     "description": "Most organizations on Ethereum are effectively anonymous. Contracts are deployed to nameless addresses, treasury wallets have no verifiable link to the org that controls them, and AI agents operate wi",
-    "startDate": "2026-06-30T08:00:00-07:00",
-    "endDate": "2026-06-30T08:00:00-07:00",
+    "startDate": "2026-06-30T11:00:00-04:00",
+    "endDate": "2026-06-30T11:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-phoenix/events/315123301/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/8/3/3/600_534587155.jpeg",
+    "url": "https://www.meetup.com/lfdt-washington-dc/events/315123349/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/8/7/e/600_534587230.jpeg",
     "source": "meetup",
     "month": "June 2026"
   },
   {
-    "id": "eb-1956749683979",
-    "name": "Metaverse 101 | New York City",
+    "id": "eb-1962735339235",
+    "name": "Metaverse 101 | San Francisco",
     "description": "2-hours live online training to introduce you to Metaverse!",
     "startDate": "2026-07-01",
     "endDate": "2026-07-01",
-    "city": "New York",
+    "city": "San Francisco",
     "country": "US",
-    "location": "New York, US",
-    "url": "https://www.eventbrite.com/e/metaverse-101-new-york-city-tickets-1956749683979",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F273765999%2F931565618923%2F1%2Foriginal.20220426-225758?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=249cb4e427d50d767faa4734fec7c0f1",
+    "location": "San Francisco, US",
+    "url": "https://www.eventbrite.com/e/metaverse-101-san-francisco-tickets-1962735339235",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F278947419%2F931565618923%2F1%2Foriginal.20220426-225758?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=429c14925b38f26e33f9d1d878bd42d6",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -3145,7 +3159,7 @@
     "country": "ID",
     "location": "Kec. Marpoyan Damai, ID",
     "url": "https://www.eventbrite.com/e/bitcoin-indonesia-community-meetup-pekanbaru-01-juli-2026-tickets-1991475204947",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181457835%2F1964280582393%2F1%2Foriginal.20260405-110134?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.508&s=b1d87972f3cdf18d7193b1d36ea5d33a",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181457835%2F1964280582393%2F1%2Foriginal.20260405-110134?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.508&s=80584f214439c62aed3e4f8c88021463",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -3318,20 +3332,6 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-314990807",
-    "name": "Bitcoin 101",
-    "description": "**AGENDA**\n\n* TBA\n* What interesting things are you doing with bitcoin?\n* Q&A - Our usual chats about bitcoin stuff.\n\nWhile the meeting is free to all, we ask that you plan on purchasing at least some",
-    "startDate": "2026-07-01T18:00:00-07:00",
-    "endDate": "2026-07-01T18:00:00-07:00",
-    "city": "Phoenix",
-    "country": "us",
-    "location": "Phoenix, us",
-    "url": "https://www.meetup.com/arizona-bitcoin-meetup/events/314990807/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/2/4/4/600_494605156.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-host-evt-gRDhW1PWawq3LJ0",
     "name": "Light Dao Salon: An Evening with Yasmeen Turayhi, author, and podcast host Gateways to Awakening (Lisbon)",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
@@ -3343,6 +3343,20 @@
     "url": "https://lu.ma/i9iq3fai",
     "coverImage": "https://images.lumacdn.com/uploads/vf/cbbdc94d-ccbc-4f1c-92a9-ec77f7ced913.png",
     "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315211402",
+    "name": "Learning Game Development the Hard Way with Rust and Bevy",
+    "description": "**Presentation:** Learning Game Development the Hard Way with Rust and Bevy\n\nComing from blockchain engineering, building a game in Rust and Bevy pushed me into a very different kind of software devel",
+    "startDate": "2026-07-02T19:00:00-04:00",
+    "endDate": "2026-07-02T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/charlottesville-rust-meetup/events/315211402/",
+    "coverImage": "https://www.meetup.com/images/fallbacks/redesign/group-cover-3-wide.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -3416,6 +3430,20 @@
     "month": "July 2026"
   },
   {
+    "id": "eb-1990322013721",
+    "name": "My First Bitcoin Diploma - Surabaya #4",
+    "description": "Kelas Offline 3x Pertemuan Program My First Bitcoin Diploma - Surabaya",
+    "startDate": "2026-07-04",
+    "endDate": "2026-07-12",
+    "city": "Kec. Mulyorejo",
+    "country": "ID",
+    "location": "Kec. Mulyorejo, ID",
+    "url": "https://www.eventbrite.com/e/my-first-bitcoin-diploma-surabaya-4-tickets-1990322013721",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185362694%2F1964280582393%2F1%2Foriginal.20260525-134913?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f086aee9f82ce35b42c31b31d97351b8",
+    "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
     "id": "eb-1991151995218",
     "name": "Marrakech: 3-Day Merzouga and Sahara Desert Tour, 4th July",
     "description": "Experience the Moroccan Sahara Desert on a 3-day trip from Marrakech to Merzouga. Explore nomadic life, visit iconic kasbahs, ride camels at",
@@ -3454,20 +3482,6 @@
     "location": "Alicante (Alacant), ES",
     "url": "https://www.eventbrite.es/e/entradas-taller-de-pintura-fluida-pinta-tu-oso-1991582864961",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186610017%2F2869949761341%2F1%2Foriginal.20260610-171341?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.396&s=b674ed6d218486aa5b6194c954834b1e",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
-    "id": "eb-1990322013721",
-    "name": "My First Bitcoin Diploma - Surabaya #4",
-    "description": "Kelas Offline 3x Pertemuan Program My First Bitcoin Diploma - Surabaya",
-    "startDate": "2026-07-04",
-    "endDate": "2026-07-12",
-    "city": "Kec. Mulyorejo",
-    "country": "ID",
-    "location": "Kec. Mulyorejo, ID",
-    "url": "https://www.eventbrite.com/e/my-first-bitcoin-diploma-surabaya-4-tickets-1990322013721",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185362694%2F1964280582393%2F1%2Foriginal.20260525-134913?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=12d4eae0f2b9d1e9976e7f875c6401ef",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -3584,20 +3598,6 @@
     "month": "July 2026"
   },
   {
-    "id": "eb-1836404959669",
-    "name": "Decrypting DeSci (Decentralized Science) | Auckland",
-    "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
-    "startDate": "2026-07-07",
-    "endDate": "2026-07-07",
-    "city": "Sydney",
-    "country": "AU",
-    "location": "Sydney, AU",
-    "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-auckland-tickets-1836404959669",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1155430453%2F952210770403%2F1%2Foriginal.20251016-221859?w=400&auto=format%2Ccompress&q=75&sharp=10&s=6255ac717f8331a0d2e9a47949d51dc0",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1835689730399",
     "name": "Decrypting DeSci (Decentralized Science) | Adelaide",
     "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
@@ -3649,7 +3649,7 @@
     "country": "US",
     "location": "Omaha, US",
     "url": "https://www.eventbrite.com/e/decoding-digital-assets-tickets-1990404178478",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F952446653%2F2399815665103%2F1%2Foriginal.20250204-165513?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7f4492d60fda51cb8494e974bd77076b",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F952446653%2F2399815665103%2F1%2Foriginal.20250204-165513?crop=focalpoint&fit=crop&h=200&w=376&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4b42c774ab1bf293abdc7521a1f148a3",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -3766,30 +3766,16 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315234101",
+    "id": "mu-315234088",
     "name": "Lineth Technical Deep Dive: Inside the Production-Grade ZK Rollup Stack",
     "description": "With the announcement of Lineth ([https://github.com/LFDT-Lineth](https://github.com/LFDT-Lineth)) as a new Linux Foundation Decentralized Trust incubating project, we're opening the hood on the full ",
-    "startDate": "2026-07-08T06:00:00-07:00",
-    "endDate": "2026-07-08T06:00:00-07:00",
+    "startDate": "2026-07-08T09:00:00-04:00",
+    "endDate": "2026-07-08T09:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-phoenix/events/315234101/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/a/2/3/600_534707651.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-314981930",
-    "name": "Architecture for Sustaining Open Source in Web 3",
-    "description": "Open source is the foundation of Web3, but most ecosystems still fund it like a series of short-term projects instead of long-term public infrastructure. As decentralized networks grow, the real chall",
-    "startDate": "2026-07-08T08:00:00-07:00",
-    "endDate": "2026-07-08T08:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/lfdt-phoenix/events/314981930/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/4/b/9/2/600_534439346.jpeg",
+    "url": "https://www.meetup.com/lfdt-washington-dc/events/315234088/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/a/0/c/600_534707628.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
@@ -3930,20 +3916,6 @@
     "location": "San Miguel de Allende, MX",
     "url": "https://www.eventbrite.com.mx/e/trio-ritter-bitran-tickets-1990434003686",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185462321%2F2062079224063%2F1%2Foriginal.20260526-190331?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.65&fp-y=0.501&s=d8e8c5d9f0ab63b89eddc56d2a837e05",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
-    "id": "eb-1249821181799",
-    "name": "Bitcoin for Beginners",
-    "description": "Bitcoin meetup at the Bitcoin House Bali. Newcomers are welcomed - we will all install wallets and talk why it's good to have some bitcoin",
-    "startDate": "2026-07-10",
-    "endDate": "2026-07-10",
-    "city": "Kec. Kuta Utara",
-    "country": "ID",
-    "location": "Kec. Kuta Utara, ID",
-    "url": "https://www.eventbrite.com/e/bitcoin-for-beginners-tickets-1249821181799",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1013076553%2F1964280582393%2F1%2Foriginal.20250421-100723?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.0113636363636&fp-y=0.5&s=935eebd144bf32ad240a7b960a108d2c",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -4111,7 +4083,7 @@
     "country": "ID",
     "location": "Kec. Tamalanrea, ID",
     "url": "https://www.eventbrite.com/e/bitcoin-indonesia-community-meetup-makassar-12-juli-2026-tickets-1991567323476",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182216000%2F1964280582393%2F1%2Foriginal.20260415-104559?h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&s=c06eb96bc930975a9e4c0620bafc2d4d",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182216000%2F1964280582393%2F1%2Foriginal.20260415-104559?w=400&auto=format%2Ccompress&q=75&sharp=10&s=a611315bc35956fe5fac5776510aedf6",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -4155,6 +4127,20 @@
     "url": "https://webx-asia.com/",
     "coverImage": "https://webx-asia.com/img/ogpimg2026.png",
     "source": "marketacross",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-314762063",
+    "name": "Maryland Blockchain Association & CryptoMondays In Person Meetup",
+    "description": "We are hosting our First In Person Maryland Blockchain Association-CryptoMondays Meetup with Special Guest: Lou Kerner.\n\nThis event is a side event to the BlockchAIn Bootcamp & Workforce Expo being he",
+    "startDate": "2026-07-13T17:30:00-04:00",
+    "endDate": "2026-07-13T17:30:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/314762063/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/a/f/600_527389071.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -4228,20 +4214,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-AmBdnUr3UVGZyW3",
-    "name": "Building the Silicon Valley of Carbon in BC",
-    "description": "",
-    "startDate": "2026-07-16T23:30:00.000Z",
-    "endDate": "2026-07-17T01:30:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/8ysp197f",
-    "coverImage": "https://images.lumacdn.com/uploads/yr/725ea87f-deb7-49b2-9d19-0fa2f0a288bb.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1991152004245",
     "name": "Marrakech: 3-Day Merzouga and Sahara Desert Tour, 17th July",
     "description": "Experience the Moroccan Sahara Desert on a 3-day trip from Marrakech to Merzouga. Explore nomadic life, visit iconic kasbahs, ride camels at",
@@ -4307,7 +4279,7 @@
     "country": "ID",
     "location": "Kota Bandung, ID",
     "url": "https://www.eventbrite.com/e/bitcoin-indonesia-community-meetup-bandung-18-juli-2026-tickets-1991568239215",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181500727%2F1964280582393%2F1%2Foriginal.20260406-131724?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=64ba419e36f955ceb6935d02be478b32",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181500727%2F1964280582393%2F1%2Foriginal.20260406-131724?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9ac994b82f8232179f26eb8e301d443f",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -4321,7 +4293,7 @@
     "country": "ID",
     "location": "Kec. Klojen, ID",
     "url": "https://www.eventbrite.com/e/bitcoin-indonesia-community-meetup-malang-18-juli-2026-tickets-1991569206107",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181501002%2F1964280582393%2F1%2Foriginal.20260406-132353?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1a7afb073091702d7827097c356c86d4",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181501002%2F1964280582393%2F1%2Foriginal.20260406-132353?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=311912313a3775fb9d273625e5292d77",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -4620,20 +4592,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-dUBFfP9ju0U0kWl",
-    "name": "Plant It Forward: Surrey",
-    "description": "",
-    "startDate": "2026-07-25T18:00:00.000Z",
-    "endDate": "2026-07-25T19:45:00.000Z",
-    "city": "Surrey",
-    "country": "Canada",
-    "location": "Surrey, Canada",
-    "url": "https://lu.ma/qylupg15",
-    "coverImage": "https://images.lumacdn.com/uploads/rh/c043b194-2252-4d70-95bd-2782525175b4.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1990974079066",
     "name": "Crypto Summit 360",
     "description": "Dive into the future of crypto with fresh insights, cool talks, and networking at Crypto Summit 360!",
@@ -4644,34 +4602,6 @@
     "location": "Wien, AT",
     "url": "https://www.eventbrite.at/e/crypto-summit-360-tickets-1990974079066",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186063459%2F2767144043781%2F1%2Foriginal.20260603-144319?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f250a2fef9ae2c858037c0e967775a52",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
-    "id": "eb-1991571120834",
-    "name": "Bitcoin Indonesia Community Meetup Magelang 26 Juli 2026",
-    "description": "Waktu yang Pas Mengenal Bitcoin",
-    "startDate": "2026-07-26",
-    "endDate": "2026-07-26",
-    "city": "Kec. Magelang Utara",
-    "country": "ID",
-    "location": "Kec. Magelang Utara, ID",
-    "url": "https://www.eventbrite.com/e/bitcoin-indonesia-community-meetup-magelang-26-juli-2026-tickets-1991571120834",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181500560%2F1964280582393%2F1%2Foriginal.20260406-131307?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7410a7de6716ba726fed66816dfca9f2",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
-    "id": "eb-1991570587238",
-    "name": "Bitcoin Indonesia Community Meetup Bandung Barat 26 Juli 2026",
-    "description": "Mengapa Bitcoin Mahal & Langka? (Mining & Halving)",
-    "startDate": "2026-07-26",
-    "endDate": "2026-07-26",
-    "city": "Kec.Cikalong Wetan",
-    "country": "ID",
-    "location": "Kec.Cikalong Wetan, ID",
-    "url": "https://www.eventbrite.com/e/bitcoin-indonesia-community-meetup-bandung-barat-26-juli-2026-tickets-1991570587238",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181501831%2F1964280582393%2F1%2Foriginal.20260406-133954?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ce8d384d3f5bd9042ae0a4d31c4912b1",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -5054,17 +4984,17 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-J6FD5pFOxRSZgKx",
-    "name": "Bitcoin Block Party",
-    "description": "",
-    "startDate": "2026-08-23T18:00:00.000Z",
-    "endDate": "2026-08-24T02:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/ed63hjqz",
-    "coverImage": "https://images.lumacdn.com/gallery-images/3o/1eac0497-1680-41a6-ba52-6b3b2cc61025",
-    "source": "luma",
+    "id": "eb-1991152393409",
+    "name": "Marrakech: 3-Day Merzouga and Sahara Desert Tour, 21st August",
+    "description": "Experience the Moroccan Sahara Desert on a 3-day trip from Marrakech to Merzouga. Explore nomadic life, visit iconic kasbahs, ride camels at",
+    "startDate": "2026-08-21",
+    "endDate": "2026-08-22",
+    "city": "Marrakesh",
+    "country": "MA",
+    "location": "Marrakesh, MA",
+    "url": "https://www.eventbrite.co.uk/e/marrakech-3-day-merzouga-and-sahara-desert-tour-21st-august-tickets-1991152393409",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180427508%2F2069875740303%2F1%2Foriginal.20260322-215904?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=024e811a4e922f3ca39476ca5367ac45",
+    "source": "eventbrite",
     "month": "August 2026"
   },
   {
@@ -5189,7 +5119,7 @@
     "country": "United Arab Emirates",
     "location": "Dubai, United Arab Emirates, United Arab Emirates",
     "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": null,
+    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/04/unchained-summit-dubai-may-2026-an-event-by-aeternum.jpg",
     "source": "marketacross",
     "month": "September 2026"
   },
