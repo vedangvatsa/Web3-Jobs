@@ -1,5 +1,85 @@
 [
   {
+    "id": "8004196",
+    "title": "Recruiting Operations and Programs Manager",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8004196?gh_jid=8004196",
+    "date": "2026-06-12T20:09:27-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "41988841-3686-4d18-a749-c9f9b9960f26",
+    "title": "Lead, All-Source Investigat",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/41988841-3686-4d18-a749-c9f9b9960f26",
+    "date": "2026-06-12T23:47:18.000+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "e6b2197d-9b1f-46ef-b6bc-0e8a973f76a4",
+    "title": "Manager, All Source Investigations (US-only)",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/e6b2197d-9b1f-46ef-b6bc-0e8a973f76a4",
+    "date": "2026-06-12T23:46:41.215+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "8004035",
+    "title": "Copy Editor",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8004035",
+    "date": "2026-06-12T19:46:16-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "834537d0-733a-44c9-80b5-51f0bcf7ce3e",
+    "title": "Global Investigations, Sextortion",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/834537d0-733a-44c9-80b5-51f0bcf7ce3e",
+    "date": "2026-06-12T23:39:46.375+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "7738096003",
+    "title": "Partner 20, Design Systems Lead",
+    "company": "a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7738096003",
+    "date": "2026-06-12T19:24:28-04:00",
+    "source": "Greenhouse: a16z"
+  },
+  {
+    "id": "8004177",
+    "title": "Senior Vice President & General Manager, Commercial Operations",
+    "company": "Foundry",
+    "link": "https://job-boards.greenhouse.io/foundry/jobs/8004177",
+    "date": "2026-06-12T19:13:12-04:00",
+    "source": "Greenhouse: Foundry"
+  },
+  {
+    "id": "fb04769b-ecd3-4154-b0f4-d7984d1bfdff",
+    "title": "Senior Counsel, Partnerships",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/fb04769b-ecd3-4154-b0f4-d7984d1bfdff",
+    "date": "2026-06-12T21:33:06.273+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "7701642",
+    "title": "Group Product Manager, Compliance Automation",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7701642?gh_jid=7701642",
+    "date": "2026-06-12T17:08:36-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "7905025",
+    "title": "Tax Technology Lead",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7905025",
+    "date": "2026-06-12T16:26:47-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "76cd3f11-bb4d-41dc-beae-9327beab91e0",
     "title": "Staff Data Analyst",
     "company": "Polymarket",
@@ -190,6 +270,14 @@
     "link": "https://jobs.ashbyhq.com/bitvavo/1a61b34f-6813-403b-b711-abb630a266a2",
     "date": "2026-06-12T12:00:52.098+00:00",
     "source": "Ashby: Bitvavo"
+  },
+  {
+    "id": "7992594",
+    "title": "Senior Software Engineer, C++",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7992594",
+    "date": "2026-06-12T07:51:25-04:00",
+    "source": "Greenhouse: Flow Traders"
   },
   {
     "id": "4896356101",
@@ -1005,6 +1093,14 @@
     "link": "https://ripple.com/careers/all-jobs/job/7997267?gh_jid=7997267",
     "date": "2026-06-10T13:52:49-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "82263897",
+    "title": "Product Manager - Payments (Bank, PSP integrations)",
+    "company": "Yellow Card",
+    "link": "https://yellowcard.bamboohr.com/careers/398",
+    "date": "2026-06-10T17:29:10.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
   },
   {
     "id": "7891045",
@@ -9220,6 +9316,14 @@
     "source": "Ashby: Sardine"
   },
   {
+    "id": "ddf2be67-bc69-4227-8ca0-306c8710602a",
+    "title": "Customer Support Engineer",
+    "company": "Sardine",
+    "link": "https://jobs.ashbyhq.com/Sardine/ddf2be67-bc69-4227-8ca0-306c8710602a",
+    "date": "2026-05-27T13:41:01.944+00:00",
+    "source": "Ashby: Sardine"
+  },
+  {
     "id": "bcb44650-b5f6-4477-b33e-0aab9446e764",
     "title": "Senior Product Engineer (Backend) - London",
     "company": "Sequence",
@@ -16122,181 +16226,5 @@
     "link": "https://jobs.solana.com/companies/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717/jobs/78709250-product-designer-mid-senior",
     "date": "2026-05-14T05:12:39.000Z",
     "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "df2892b9-78d3-45e2-825c-38b8fbe75a15",
-    "title": "/ Machine Learning Researcher(Mantra Engine)",
-    "company": "MANTRA",
-    "link": "https://jobs.lever.co/mantra/df2892b9-78d3-45e2-825c-38b8fbe75a15",
-    "date": "2026-05-14T05:00:45.532Z",
-    "source": "Lever: MANTRA"
-  },
-  {
-    "id": "cf5f8963-d2f2-4a1d-9f82-acbcdbd19a92",
-    "title": "Chief Auditor",
-    "company": "MoonPay",
-    "link": "https://jobs.lever.co/moonpay/cf5f8963-d2f2-4a1d-9f82-acbcdbd19a92",
-    "date": "2026-05-14T04:37:54.596Z",
-    "source": "Lever: MoonPay"
-  },
-  {
-    "id": "4866320101",
-    "title": "Blockchain Risk Control Research Intern",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4866320101",
-    "date": "2026-05-13T23:38:12-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "13365c0b-76dc-4774-b82d-c33d40262063",
-    "title": "Senior Product Operation Manager, Binance Square",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/13365c0b-76dc-4774-b82d-c33d40262063",
-    "date": "2026-05-14T03:29:25.316Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "4866313101",
-    "title": "Data Warehouse Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4866313101",
-    "date": "2026-05-13T22:51:12-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "7734119003",
-    "title": "Senior Product Designer, Pay",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7734119003",
-    "date": "2026-05-13T22:13:28-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "4866311101",
-    "title": "Data Analyst Director",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4866311101",
-    "date": "2026-05-13T22:00:20-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4866311101",
-    "title": "[BI] Data Analyst Manager/Director",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4866311101",
-    "date": "2026-05-13T22:00:20-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "7734069003",
-    "title": "Product & Strategy Operations Manager",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7734069003",
-    "date": "2026-05-13T20:58:01-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "6040a00f-70d7-4140-9534-d3e670b4fe2b",
-    "title": "Senior Account Executive",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/6040a00f-70d7-4140-9534-d3e670b4fe2b",
-    "date": "2026-05-13T23:36:25.964+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "428f41e2-48e8-409d-b5e3-8053f7fc7a27",
-    "title": "Senior Software Engineer | GTM Platform, Backend",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27",
-    "date": "2026-05-13T23:29:57.643+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "7922957",
-    "title": "Senior Software Engineer, Data Compute",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7922957?t=gh_src=&gh_jid=7922957",
-    "date": "2026-05-13T17:22:43-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "2603661",
-    "title": "Technical Product Manager QVAC - 100% remote",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/technical-product-manager-qvac-100-remote-georgia",
-    "date": "2026-05-13 21:05:12 UTC",
-    "source": "Recruitee: Tether"
-  },
-  {
-    "id": "2603660",
-    "title": "Technical Project Manager Tether Wallet - 100% remote",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/technical-project-manager-tether-wallet-100-remote-georgia",
-    "date": "2026-05-13 21:04:08 UTC",
-    "source": "Recruitee: Tether"
-  },
-  {
-    "id": "7913545",
-    "title": "Engineering Manager, Product (Privy)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7913545",
-    "date": "2026-05-13T16:53:51-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "2603651",
-    "title": "Technical Project Manager Tether Wallet (100% Remote Worldwide)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/technical-project-manager-tether-wallet-100-remote-worldwide",
-    "date": "2026-05-13 20:48:15 UTC",
-    "source": "Recruitee: Tether"
-  },
-  {
-    "id": "2603648",
-    "title": "Technical Product Manager QVAC (100% remote Worldwide)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/technical-product-manager-qvac-100-remote-worldwide-3",
-    "date": "2026-05-13 20:42:05 UTC",
-    "source": "Recruitee: Tether"
-  },
-  {
-    "id": "2a98cd9f-e2a7-4885-a44d-5c7c1c216a47",
-    "title": "Senior Software Engineer, Full Stack | Product Engineering - Canada",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/2a98cd9f-e2a7-4885-a44d-5c7c1c216a47",
-    "date": "2026-05-13T20:32:58.185+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "298ec08c-666b-4cdf-b728-f8abb03a2673",
-    "title": "Senior Software Engineer, Frontend | Product Engineering - Canada",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/298ec08c-666b-4cdf-b728-f8abb03a2673",
-    "date": "2026-05-13T20:32:45.667+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "5598f7b8-4ae2-4105-a2b4-2d0f55c54c40",
-    "title": "Software Engineer, Risk",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40",
-    "date": "2026-05-13T20:28:14.340+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "5598f7b8-4ae2-4105-a2b4-2d0f55c54c40",
-    "title": "Software Engineer, Credit",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40",
-    "date": "2026-05-13T20:28:14.340+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "d1183b00-6590-4fe4-a585-28d84e578fe3",
-    "title": "Software Engineer, Stablecoin",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3",
-    "date": "2026-05-13T20:28:09.574+00:00",
-    "source": "Ashby: Ramp"
   }
 ]
