@@ -1,5 +1,13 @@
 [
   {
+    "id": "4856994101",
+    "title": "Head of HR",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856994101",
+    "date": "2026-06-14T07:44:13-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "8004054",
     "title": "Payments Performance Strategist, Card Authorization",
     "company": "Stripe",
@@ -943,6 +951,14 @@
     "source": "https://coinbase.getro.com/jobs"
   },
   {
+    "id": "82354679",
+    "title": "Solutions Operations, Mortgage Tech",
+    "company": "Aven",
+    "link": "https://jobs.ashbyhq.com/Aven/724a3f08-34d3-4305-8135-ea3236224766",
+    "date": "2026-06-11T08:15:58.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
     "id": "7978456",
     "title": "Operations Specialist",
     "company": "Flow Traders",
@@ -1565,6 +1581,14 @@
     "link": "https://jobs.ashbyhq.com/paxos/d3a57a4f-e222-4a3b-9f52-51be30e0176f",
     "date": "2026-06-10T13:01:38.000Z",
     "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "82249616",
+    "title": "Change Oversight & Third Party Operations Manager",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/155ad131-d77a-4d79-b99d-772df57eff14",
+    "date": "2026-06-10T13:01:00.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
   },
   {
     "id": "7972102",
@@ -15650,189 +15674,5 @@
     "link": "https://ats.rippling.com/perle/jobs/aef7a787-4289-425c-870e-b9e3e987ec82",
     "date": "2026-05-15T12:23:22.000Z",
     "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "78886220",
-    "title": "Senior Talent Acquisition Partner",
-    "company": "BVNK",
-    "link": "https://boards.greenhouse.io/bvnk/jobs/4867059101",
-    "date": "2026-05-15T11:59:08.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "78885882",
-    "title": "Security Engineer",
-    "company": "Coinflow Labs",
-    "link": "https://jobs.ashbyhq.com/Coinflow/5ef1599d-a828-4733-8983-58a9488aedfb",
-    "date": "2026-05-15T11:57:29.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "d72eb0de-64f7-410b-9000-89899bdfe4c2",
-    "title": "Regional Account Manager (Mindanao) - Local Payments",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/d72eb0de-64f7-410b-9000-89899bdfe4c2",
-    "date": "2026-05-15T11:33:10.094Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "b6aed46a-ebce-4c0e-aee7-a63179a1f3bd",
-    "title": "Regional Account Manager (Visayas) - Local Payments",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/b6aed46a-ebce-4c0e-aee7-a63179a1f3bd",
-    "date": "2026-05-15T11:29:45.981Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "ed38f47b-210f-4b6f-a8be-7e991668ea70",
-    "title": "Regional Account Manager (South Luzon) - Local Payments",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/ed38f47b-210f-4b6f-a8be-7e991668ea70",
-    "date": "2026-05-15T11:20:21.403Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "3530efd0-3674-4717-a32a-bae757ba63ea",
-    "title": "Regional Account Manager (North Luzon) - Local Payments",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/3530efd0-3674-4717-a32a-bae757ba63ea",
-    "date": "2026-05-15T11:16:10.571Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "78875320",
-    "title": "Accountant, Assistant Manager",
-    "company": "Matrixport",
-    "link": "https://hk.linkedin.com/jobs/view/accountant-assistant-manager-at-bit-official-4413849793",
-    "date": "2026-05-15T10:00:47.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "78875318",
-    "title": "Finance Business Partner",
-    "company": "Matrixport",
-    "link": "https://hk.linkedin.com/jobs/view/finance-business-partner-at-bit-official-4413846861",
-    "date": "2026-05-15T10:00:45.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "4a3df740-ff2b-4492-bfd0-31fddc3250cf",
-    "title": "Solutions Consultant - San Francisco",
-    "company": "Elliptic",
-    "link": "https://jobs.ashbyhq.com/Elliptic/4a3df740-ff2b-4492-bfd0-31fddc3250cf",
-    "date": "2026-05-15T09:50:52.980+00:00",
-    "source": "Ashby: Elliptic"
-  },
-  {
-    "id": "7735227003",
-    "title": "Senior Product Manager, Infra Operations",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7735227003",
-    "date": "2026-05-15T05:43:53-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "76263fb4-6547-492a-aa25-53819d58baec",
-    "title": "Senior Frontend Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/76263fb4-6547-492a-aa25-53819d58baec",
-    "date": "2026-05-15T09:42:45.548Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "4867587101",
-    "title": "Senior Growth Product Manager - User Activation",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867587101",
-    "date": "2026-05-15T05:40:15-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "ac6f91fb-8de5-4236-ae4e-bf8059f4e8a6",
-    "title": "/App Operations Planner(Langaku)",
-    "company": "MANTRA",
-    "link": "https://jobs.lever.co/mantra/ac6f91fb-8de5-4236-ae4e-bf8059f4e8a6",
-    "date": "2026-05-15T09:16:36.023Z",
-    "source": "Lever: MANTRA"
-  },
-  {
-    "id": "7735205003",
-    "title": "Senior Treasury Manager",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7735205003",
-    "date": "2026-05-15T05:00:12-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "4f2ef0d9-867c-4e73-810b-9994b4cc1a99",
-    "title": "Staff Infrastructure Engineer",
-    "company": "Morpho",
-    "link": "https://jobs.ashbyhq.com/Morpho/4f2ef0d9-867c-4e73-810b-9994b4cc1a99",
-    "date": "2026-05-15T08:47:50.142+00:00",
-    "source": "Ashby: Morpho"
-  },
-  {
-    "id": "78869280",
-    "title": "Founding Hype Lead",
-    "company": "Octet",
-    "link": "https://octetproof.com/careers/founding-hype-lead",
-    "date": "2026-05-15T08:08:50.000Z",
-    "source": "https://jobs.variant.fund/jobs"
-  },
-  {
-    "id": "41ec6850-0344-4df8-8519-d857e34566a9",
-    "title": "Senior Backend Engineer",
-    "company": "LI.FI",
-    "link": "https://jobs.ashbyhq.com/LI.FI/41ec6850-0344-4df8-8519-d857e34566a9",
-    "date": "2026-05-15T08:07:50.754+00:00",
-    "source": "Ashby: LI.FI"
-  },
-  {
-    "id": "016f3af9-236f-40ba-b982-613399c77a18",
-    "title": "Security Engineer, Security Operation & Vulnerability Monitoring",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/016f3af9-236f-40ba-b982-613399c77a18",
-    "date": "2026-05-15T08:00:10.197Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "7735190003",
-    "title": "Senior/Staff Software Engineer, Liquidity Platform, Risk & Analytics",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7735190003",
-    "date": "2026-05-15T03:44:32-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "4867451101",
-    "title": "AML Manager, Turkey",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867451101",
-    "date": "2026-05-15T03:10:46-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4867407101",
-    "title": "Blockchain Risk Algorithm Intern",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867407101",
-    "date": "2026-05-15T02:32:36-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4867379101",
-    "title": "Mobile Development Engineer Intern",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867379101",
-    "date": "2026-05-15T02:07:50-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4867388101",
-    "title": "Senior Compliance Audit Manager",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867388101",
-    "date": "2026-05-15T01:25:10-04:00",
-    "source": "Greenhouse: Bybit"
   }
 ]
