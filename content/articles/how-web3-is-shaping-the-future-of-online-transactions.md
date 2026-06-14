@@ -7,7 +7,7 @@ description: "Explore how Web3 is changing online transactions, offering a decen
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 For decades, a small number of centralized intermediaries have controlled online transactions. When you make a purchase online, various banks, credit card networks like Visa and Mastercard, and payment gateways such as Stripe and PayPal process your payment. This system, while functional, is plagued by inefficiencies, high costs, and exclusivity.

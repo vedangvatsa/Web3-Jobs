@@ -8,10 +8,10 @@ import { Skeleton } from '@/components/ui/skeleton';
 function BlogPageClientSkeleton() {
  return (
   <div className="container mx-auto px-4 py-8">
-   <section className="text-center mb-12 max-w-4xl mx-auto">
+   <section className="text-center mb-12 site-container">
     <Skeleton className="h-12 w-full mb-4" />
    </section>
-   <div className="max-w-7xl mx-auto">
+   <div className="site-container">
     <Skeleton className="h-24 mb-8 rounded-lg" />
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
      {[...Array(12)].map((_, i) => (

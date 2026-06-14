@@ -71,11 +71,11 @@ const checklistData = {
    title: 'Productivity & Workflow',
    icon: BarChart,
    items: [
-    'Defined morning "start work" ritual',
+    'Defined morning"start work" ritual',
     'Daily to-do list or task board updated',
     'Weekly goals reviewed every Monday morning',
     'Pomodoro timer or focus tool installed',
-    'Clear "end of workday" shutdown routine',
+    'Clear"end of workday" shutdown routine',
     'Established priority-setting method (e.g., Eisenhower)',
     'Recurring check-ins scheduled with manager/team',
     '"Deep work" time blocks protected on calendar',
@@ -178,30 +178,26 @@ export function RemoteWorkChecklistClient() {
 
       doc.save('Remote_Work_Checklist_Web3_Edition.pdf');
        toast({
-        title: "Success!",
-        description: "Your checklist has been downloaded.",
+        title:"Success!",
+        description:"Your checklist has been downloaded.",
       });
     } catch (error) {
       console.error("Failed to generate PDF:", error);
       toast({
-        variant: "destructive",
-        title: "Uh oh! Something went wrong.",
-        description: "There was a problem generating the PDF.",
+        variant:"destructive",
+        title:"Uh oh! Something went wrong.",
+        description:"There was a problem generating the PDF.",
       });
     }
   };
   
-  const headlines = [
-    "Remote Work Readiness Checklist",
-    "Optimize Your WFH Setup",
-    "Succeed in a Distributed Team",
-    "Your Guide to Remote Success"
+  const headlines = ["Remote Work Readiness Checklist","Optimize Your WFH Setup","Succeed in a Distributed Team","Your Guide to Remote Success"
   ];
 
  return (
-  <div className="max-w-6xl mx-auto space-y-8">
+  <div className="site-container space-y-8">
    <ToolUsageTracker toolName="Remote Work Checklist" />
-   <section className="text-center mb-12 max-w-4xl mx-auto">
+   <section className="text-center mb-12 site-container">
     <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
     <Button onClick={handleDownloadPdf} className="mt-6">
      <Download className="mr-2 h-4 w-4" />

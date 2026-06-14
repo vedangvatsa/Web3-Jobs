@@ -1,9 +1,9 @@
-import { Header } from '@/components/header';
 import { getCategories } from '@/lib/learn';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import Link from 'next/link';
 import type { Metadata } from 'next';
+import { PageHeader } from "@/components/page-header";
 import {
  Globe, Landmark, Code, Briefcase, ArrowRight, Clock, Users,
 } from 'lucide-react';
@@ -46,14 +46,11 @@ export default function LearnPage() {
 
  return (
   <div className="flex flex-col min-h-screen">
-   <Header />
-   <main className="flex-grow">
+      <main className="flex-grow">
     {/* Hero */}
     <section className="border-b bg-muted/10">
-     <div className="container mx-auto px-4 py-16 md:py-24 max-w-5xl">
-      <h1 className="text-4xl md:text-5xl font-bold mb-4 tracking-tight">
-       Learn Web3
-      </h1>
+     <div className="container mx-auto px-4 page-section max-w-6xl">
+      <PageHeader title="Learn Web3" />
       <p className="text-lg text-muted-foreground leading-relaxed max-w-2xl">
        {totalLessons} free lessons with diagrams, quizzes, and real examples. 
        Start with the fundamentals, then pick your path.
@@ -61,7 +58,7 @@ export default function LearnPage() {
      </div>
     </section>
 
-    <div className="container mx-auto px-4 py-12 md:py-16 max-w-5xl">
+    <div className="container mx-auto px-4 page-section max-w-6xl">
      {/* Core course - prominent */}
      {coreCategory && (
       <div className="mb-12">

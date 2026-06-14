@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/doublespend/1200/630"
 data-ai-hint: "double spend"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 ## The Double-Spending Problem in Cryptocurrency: An In-Depth Analysis

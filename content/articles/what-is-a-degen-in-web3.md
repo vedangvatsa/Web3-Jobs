@@ -7,7 +7,7 @@ description: "An exploration of the 'degen,' a term of endearment in Web3 for hi
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 The [Web3](/what-is-web3) ecosystem features a unique lexicon, and one of the most significant terms you will encounter is "degen." This term is particularly relevant in the fields of [DeFi](/what-is-defi) and [NFT](/what-are-nfts) trading.

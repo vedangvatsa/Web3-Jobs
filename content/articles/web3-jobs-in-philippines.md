@@ -7,7 +7,7 @@ description: "Dive into the Philippines' unique Web3 job market. This guide focu
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 The Philippines has established itself as a significant player in the [Web3](/what-is-web3) space, particularly in the field of gaming. During 2021, the country became the center of the "Play-to-Earn" (P2E) gaming phenomenon, with titles like Axie Infinity gaining immense popularity and providing income for many during the pandemic. This experience has built a strong environment for Web3 gaming, community management, and player support services.

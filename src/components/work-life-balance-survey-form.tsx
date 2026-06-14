@@ -45,9 +45,9 @@ export function WorkLifeBalanceSurveyForm() {
    managerSupport: 5,
    comfortableTakingTimeOff: 5,
    wellbeingResources: 3,
-   improvementSuggestion: "",
-   negativeImpacts: "",
-   finalComments: ""
+   improvementSuggestion:"",
+   negativeImpacts:"",
+   finalComments:""
   },
  });
 
@@ -137,10 +137,10 @@ export function WorkLifeBalanceSurveyForm() {
    addOpenEndedQuestion("Please share any other comments or suggestions regarding work-life balance.", 4);
 
    doc.save('Work-Life-Balance-Survey-Template.pdf');
-   toast({ title: "Success!", description: "Survey template downloaded as PDF." });
+   toast({ title:"Success!", description:"Survey template downloaded as PDF." });
   } catch (error) {
    console.error(error);
-   toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
+   toast({ variant: 'destructive', title:"Error", description:"Failed to generate PDF." });
   }
  });
 
@@ -153,11 +153,11 @@ export function WorkLifeBalanceSurveyForm() {
 
  return (
   <div className="container mx-auto py-12">
-    <Card className="max-w-4xl mx-auto">
+    <Card className="site-container">
       <CardHeader className="text-center">
          
         <CardTitle className="text-3xl">Work-Life Balance Survey Builder</CardTitle>
-        <CardDescription className="max-w-2xl mx-auto">
+        <CardDescription className="site-container">
          Use this anonymous survey to get an honest assessment of your team's work-life balance. Understanding workload, stress levels, and support systems is key to preventing burnout and building a sustainable, high-performing team.
         </CardDescription>
       </CardHeader>
@@ -213,7 +213,7 @@ export function WorkLifeBalanceSurveyForm() {
     <div className="flex justify-center mt-8">
       <Button size="lg" onClick={handleDownload}><Download className="mr-2 h-4 w-4"/> Download Survey as PDF</Button>
     </div>
-    <Card className="mt-12 max-w-4xl mx-auto bg-muted/30 border shadow-none">
+    <Card className="mt-12 site-container bg-muted/30 border shadow-none">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         
         <div>

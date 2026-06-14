@@ -1,5 +1,4 @@
 
-import { Header } from '@/components/header';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import Link from 'next/link';
@@ -8,6 +7,7 @@ import { Button } from '@/components/ui/button';
 import { getAllResourcePages } from '@/lib/pseo';
 import { Metadata } from 'next';
 import type { ResourcePage } from '@/types/pseo';
+import { PageHeader } from "@/components/page-header";
 
 export const metadata: Metadata = {
   title: 'Free Web3 Career Tools and Resources',
@@ -15,26 +15,26 @@ export const metadata: Metadata = {
 };
 
 const employeeResources = [
-  { href: "/interview-questions", label: "Interview Questions", description: "Practice with 200+ Web3 interview questions across technical and non-technical roles." },
-  { href: "/web3-career-quiz", label: "Archetype Assessment", description: "Discover your Web3 personality and the career paths that match." },
-  { href: "/salary-calculator", label: "Salary Calculator", description: "Estimate your potential salary in the Web3 industry." },
-  { href: "/freelance-rates-by-industry", label: "Freelance Rates by Industry", description: "Benchmark freelance hourly and project rates across industries and roles." },
-  { href: "/resume-builder", label: "Resume Builder", description: "Craft a crypto-native resume that gets noticed by recruiters." },
-  { href: "/invoice-generator", label: "Invoice Generator", description: "A free and simple invoice generator for Web3 freelancers." },
-  { href: "/digital-nomad-visas", label: "Digital Nomad Visas", description: "A searchable list of visas for working remotely around the world." },
-  { href: "/remote-work-checklist", label: "Remote Checklist", description: "Optimize your remote work setup for productivity and well-being." },
+  { href:"/interview-questions", label:"Interview Questions", description:"Practice with 200+ Web3 interview questions across technical and non-technical roles." },
+  { href:"/web3-career-quiz", label:"Archetype Assessment", description:"Discover your Web3 personality and the career paths that match." },
+  { href:"/salary-calculator", label:"Salary Calculator", description:"Estimate your potential salary in the Web3 industry." },
+  { href:"/freelance-rates-by-industry", label:"Freelance Rates by Industry", description:"Benchmark freelance hourly and project rates across industries and roles." },
+  { href:"/resume-builder", label:"Resume Builder", description:"Craft a crypto-native resume that gets noticed by recruiters." },
+  { href:"/invoice-generator", label:"Invoice Generator", description:"A free and simple invoice generator for Web3 freelancers." },
+  { href:"/digital-nomad-visas", label:"Digital Nomad Visas", description:"A searchable list of visas for working remotely around the world." },
+  { href:"/remote-work-checklist", label:"Remote Checklist", description:"Optimize your remote work setup for productivity and well-being." },
 ];
 
 const employerResources = [
-  { href: "/jd-builder", label: "JD Builder", description: "Craft the perfect job description to attract top Web3 talent." },
-  { href: "/offer-letter-customizer", label: "Offer Letter Customizer", description: "Generate professional, customizable offer letters for new hires." },
-  { href: "/employee-onboarding-checklist", label: "Onboarding Checklist", description: "Run a structured onboarding process for new Web3 hires." },
-  { href: "/interview-feedback-template", label: "Interview Feedback", description: "Standardize your hiring process with structured feedback." },
-  { href: "/employee-exit-survey", label: "Employee Exit Survey", description: "Gather valuable insights from departing team members." },
-  { href: "/employee-milestones-tracker", label: "Milestones Tracker", description: "Create structured 30-60-90 day plans for new employees." },
-  { href: "/employee-engagement-survey", label: "Engagement Survey", description: "Quickly gauge team morale and satisfaction." },
-  { href: "/work-life-balance-survey", label: "Work-Life Balance Survey", description: "Assess team workload and well-being to prevent burnout." },
-  { href: "/company-culture-guide", label: "Company Culture Guide", description: "Define and document your company's values and ways of working." },
+  { href:"/jd-builder", label:"JD Builder", description:"Craft the perfect job description to attract top Web3 talent." },
+  { href:"/offer-letter-customizer", label:"Offer Letter Customizer", description:"Generate professional, customizable offer letters for new hires." },
+  { href:"/employee-onboarding-checklist", label:"Onboarding Checklist", description:"Run a structured onboarding process for new Web3 hires." },
+  { href:"/interview-feedback-template", label:"Interview Feedback", description:"Standardize your hiring process with structured feedback." },
+  { href:"/employee-exit-survey", label:"Employee Exit Survey", description:"Gather valuable insights from departing team members." },
+  { href:"/employee-milestones-tracker", label:"Milestones Tracker", description:"Create structured 30-60-90 day plans for new employees." },
+  { href:"/employee-engagement-survey", label:"Engagement Survey", description:"Quickly gauge team morale and satisfaction." },
+  { href:"/work-life-balance-survey", label:"Work-Life Balance Survey", description:"Assess team workload and well-being to prevent burnout." },
+  { href:"/company-culture-guide", label:"Company Culture Guide", description:"Define and document your company's values and ways of working." },
 ];
 
 // Niche display names
@@ -129,16 +129,13 @@ export default function ResourcesPage() {
 
   return (
     <div className="flex flex-col min-h-screen">
-      <Header />
-      <main className="flex-1">
+            <main className="flex-1">
 
         {/* Hero */}
         <section className="border-b">
-          <div className="container mx-auto px-4 py-12 md:py-20 max-w-7xl">
+          <div className="container mx-auto px-4 page-section max-w-6xl">
             <div className="max-w-3xl">
-              <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">
-                Web3 Career Resources
-              </h1>
+              <PageHeader title="Web3 Career Resources" />
               <p className="text-xl text-muted-foreground leading-relaxed">
                 Free tools and guides for professionals and hiring teams building in the decentralized economy.
               </p>
@@ -146,7 +143,7 @@ export default function ResourcesPage() {
           </div>
         </section>
 
-        <div className="container mx-auto px-4 py-12 md:py-16 max-w-7xl space-y-16">
+        <div className="container mx-auto px-4 page-section max-w-6xl space-y-16">
 
           {/* Role-specific resources */}
           {sortedNiches.length > 0 && (
@@ -189,7 +186,7 @@ export default function ResourcesPage() {
 
         {/* CTA */}
         <section className="border-t">
-          <div className="container mx-auto px-4 py-12 md:py-16 max-w-7xl">
+          <div className="container mx-auto px-4 page-section max-w-6xl">
             <Card className="bg-muted/30 border shadow-none">
               <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
                 <div>

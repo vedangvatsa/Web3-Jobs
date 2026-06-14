@@ -13,17 +13,17 @@ import { useToast } from '@/hooks/use-toast';
 
 
 const cultureGuideSchema = z.object({
- companyName: z.string().min(1, "Company Name is required"),
- mission: z.string().min(1, "Mission is required"),
- vision: z.string().min(1, "Vision is required"),
+ companyName: z.string().min(1,"Company Name is required"),
+ mission: z.string().min(1,"Mission is required"),
+ vision: z.string().min(1,"Vision is required"),
  values: z.array(z.object({ name: z.string().min(1), description: z.string().min(1) })).min(1),
- communication: z.string().min(1, "Communication style is required"),
+ communication: z.string().min(1,"Communication style is required"),
  decisionMaking: z.string().optional(),
  feedbackCulture: z.string().optional(),
  hiringPhilosophy: z.string().optional(),
  meetingPhilosophy: z.string().optional(),
  tools: z.string().optional(),
- rituals: z.string().min(1, "Team rituals are required"),
+ rituals: z.string().min(1,"Team rituals are required"),
 });
 
 type CultureGuideData = z.infer<typeof cultureGuideSchema>;
@@ -44,7 +44,7 @@ export function CompanyCultureGuideForm() {
    communication: 'We are an async-first team. We prioritize clear, written communication in Notion and Discord over meetings. Meetings are for high-bandwidth discussions, not status updates.',
    decisionMaking: 'Decisions are made through a consensus-seeking process, with major protocol changes ratified by a community vote.',
    feedbackCulture: 'We practice radical candor and provide continuous, constructive feedback. We have bi-weekly 1-on-1s and quarterly performance reviews.',
-   hiringPhilosophy: 'We hire for passion, initiative, and a "proof of work" portfolio over traditional credentials. We value T-shaped individuals with deep expertise and broad curiosity.',
+   hiringPhilosophy: 'We hire for passion, initiative, and a"proof of work" portfolio over traditional credentials. We value T-shaped individuals with deep expertise and broad curiosity.',
    meetingPhilosophy: 'Meetings are rare, have a clear agenda, a designated facilitator, and always end with clear action items. Cameras are on to foster connection.',
    tools: 'Our core stack: Discord for communication, Notion for documentation, Figma for design, GitHub for code, and Asana for project management.',
    rituals: 'Weekly all-hands call on Mondays. Bi-weekly sprint demos. Quarterly in-person team offsites.',
@@ -53,7 +53,7 @@ export function CompanyCultureGuideForm() {
 
  const { fields, append, remove } = useFieldArray({
   control: form.control,
-  name: "values",
+  name:"values",
  });
 
  const handleDownload = form.handleSubmit(async (data) => {
@@ -108,10 +108,10 @@ export function CompanyCultureGuideForm() {
    addSection('Our Team Rituals', data.rituals);
    
    doc.save(`${data.companyName.replace(/ /g, '-')}-Culture-Guide.pdf`);
-   toast({ title: "Success!", description: "Culture guide downloaded as PDF." });
+   toast({ title:"Success!", description:"Culture guide downloaded as PDF." });
   } catch (error) {
    console.error(error);
-   toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
+   toast({ variant: 'destructive', title:"Error", description:"Failed to generate PDF." });
   }
  });
 
@@ -129,11 +129,11 @@ export function CompanyCultureGuideForm() {
 
  return (
   <div className="container mx-auto py-12">
-    <Card className="max-w-4xl mx-auto">
+    <Card className="site-container">
       <CardHeader className="text-center">
          
         <CardTitle className="text-3xl">Company Culture Guide Builder</CardTitle>
-        <CardDescription className="max-w-2xl mx-auto">
+        <CardDescription className="site-container">
           A strong, well-defined culture is the foundation of any successful company, especially in a remote-first Web3 environment. This tool helps you articulate and document your company's core principles, creating a guide to align your team and attract the right talent.
         </CardDescription>
       </CardHeader>
@@ -175,7 +175,7 @@ export function CompanyCultureGuideForm() {
      <div className="flex justify-center mt-8">
       <Button size="lg" onClick={handleDownload}><Download className="mr-2 h-4 w-4"/> Download as PDF</Button>
     </div>
-     <Card className="mt-12 max-w-4xl mx-auto bg-muted/30 border shadow-none">
+     <Card className="mt-12 site-container bg-muted/30 border shadow-none">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         
         <div>

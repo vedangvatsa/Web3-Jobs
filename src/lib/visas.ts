@@ -7,7 +7,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Europe',
     minIncome: 820,
     visaLength: '1 year, renewable up to 5',
-    description: 'Known for its affordable cost of living and beautiful Adriatic coast, Albania\'s "Unique Permit" is a very accessible option for remote workers.',
+    description: 'Known for its affordable cost of living and beautiful Adriatic coast, Albania\'s"Unique Permit" is a very accessible option for remote workers.',
     requirements: [
       'Proof of remote work for a foreign company.',
       'Minimum annual income of ~$10,000 (~$820/month).',
@@ -58,7 +58,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'North America',
     minIncome: 0,
     visaLength: 'Up to 90 days',
-    description: 'Aruba\'s "One Happy Workation" program allows a stay of up to 90 days. While not a long-term visa, it\'s an attractive option for short stays.',
+    description: 'Aruba\'s"One Happy Workation" program allows a stay of up to 90 days. While not a long-term visa, it\'s an attractive option for short stays.',
     requirements: [
       'Hold a passport from an eligible country (e.g., US).',
       'Proof of remote work for a non-Aruban company.',
@@ -83,7 +83,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'North America',
     minIncome: 4167,
     visaLength: '12 months, renewable',
-    description: 'The "Barbados Welcome Stamp" allows remote workers to live on the island for 12 months, with an option to renew. It\'s one of the most popular Caribbean programs.',
+    description: 'The"Barbados Welcome Stamp" allows remote workers to live on the island for 12 months, with an option to renew. It\'s one of the most popular Caribbean programs.',
     requirements: [
       'Proof of remote employment or self-employment.',
       'Annual income of at least $50,000 USD (~$4,167/month).',
@@ -95,7 +95,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'North America',
     minIncome: 6250,
     visaLength: '180 days',
-    description: 'Belize\'s "Work Where You Vacation" program allows a stay of up to 6 months, aimed at professionals who want to enjoy the country\'s natural beauty.',
+    description: 'Belize\'s"Work Where You Vacation" program allows a stay of up to 6 months, aimed at professionals who want to enjoy the country\'s natural beauty.',
     requirements: [
       'Proof of employment with a foreign company.',
       'Annual income of at least $75,000 USD for individuals (~$6,250/month).',
@@ -107,7 +107,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'North America',
     minIncome: 0,
     visaLength: '1 year, renewable',
-    description: 'The "Work From Bermuda" certificate allows remote workers to live in this self-governing British territory for one year. No minimum income is specified, but the cost of living is high.',
+    description: 'The"Work From Bermuda" certificate allows remote workers to live in this self-governing British territory for one year. No minimum income is specified, but the cost of living is high.',
     requirements: [
       'Proof of remote employment or enrollment in higher education.',
       'Sufficient funds to support your stay.',
@@ -207,7 +207,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'North America',
     minIncome: 3000,
     visaLength: '1 year, renewable',
-    description: 'Costa Rica\'s "Estancia por Teletrabajo" visa is for one year, extendable for a second. Nomads are exempt from income tax and can enjoy the "Pura Vida" lifestyle.',
+    description: 'Costa Rica\'s"Estancia por Teletrabajo" visa is for one year, extendable for a second. Nomads are exempt from income tax and can enjoy the"Pura Vida" lifestyle.',
     requirements: [
       'Proof of remote work for a foreign entity.',
       'Stable monthly income of at least $3,000 USD.',
@@ -270,7 +270,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'North America',
     minIncome: 4167,
     visaLength: 'Up to 18 months',
-    description: 'Dominica\'s "Work in Nature" (WIN) visa allows a stay of up to 18 months, targeting professionals who want to work surrounded by the island\'s lush nature.',
+    description: 'Dominica\'s"Work in Nature" (WIN) visa allows a stay of up to 18 months, targeting professionals who want to work surrounded by the island\'s lush nature.',
     requirements: [
       'Proof of remote work.',
       'Expected annual income of $50,000 USD (~$4,167/month).',
@@ -319,7 +319,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Europe',
     minIncome: 2000,
     visaLength: 'Up to 1 year',
-    description: 'Georgia\'s "Remotely from Georgia" program allows citizens of 95 countries to stay and work for at least 180 days and up to a year. It\'s known for its simple application and low cost of living.',
+    description: 'Georgia\'s"Remotely from Georgia" program allows citizens of 95 countries to stay and work for at least 180 days and up to a year. It\'s known for its simple application and low cost of living.',
     requirements: [
       'Citizen of one of the 95 eligible countries.',
       'Proof of remote work.',
@@ -368,7 +368,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Europe',
     minIncome: 3250,
     visaLength: '1 year, renewable',
-    description: 'Hungary\'s "White Card" is a residence permit for digital nomads. It allows a stay of one year, extendable for one more. It targets high-income remote workers.',
+    description: 'Hungary\'s"White Card" is a residence permit for digital nomads. It allows a stay of one year, extendable for one more. It targets high-income remote workers.',
     requirements: [
       'Proof of remote work contract outside of Hungary.',
       'Monthly income of at least €3,000 (~$3,250 USD) for the last 6 months.',
@@ -420,9 +420,9 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Europe',
     minIncome: 2335,
     visaLength: '1 year, renewable',
-    description: 'Launched in 2024, Italy’s Digital Nomad Visa targets "highly skilled" professionals. It grants a one-year renewable permit.',
+    description: 'Launched in 2024, Italy’s Digital Nomad Visa targets"highly skilled" professionals. It grants a one-year renewable permit.',
     requirements: [
-      'Must be a "highly skilled worker" (degree or 3+ years experience).',
+      'Must be a"highly skilled worker" (degree or 3+ years experience).',
       'Minimum annual income of approx. €28,000 (~$2,335/month).',
       'Health insurance covering all risks in Italy.',
       'Proof of accommodation.',
@@ -677,7 +677,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'North America',
     minIncome: 0,
     visaLength: 'Up to 1 year',
-    description: 'The "Live It" program in Saint Lucia offers a multiple-entry visa for up to one year. It is aimed at individuals who want to work remotely while enjoying the island.',
+    description: 'The"Live It" program in Saint Lucia offers a multiple-entry visa for up to one year. It is aimed at individuals who want to work remotely while enjoying the island.',
     requirements: [
       'Proof of remote work and sufficient funds for the stay.',
       'No specific minimum income is stated.',
@@ -726,7 +726,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Asia',
     minIncome: 5500,
     visaLength: '1 year, renewable up to 2',
-    description: 'South Korea\'s F-1-D "workcation" visa allows remote workers to stay for up to two years. It targets high-income professionals wanting to experience Korean culture.',
+    description: 'South Korea\'s F-1-D"workcation" visa allows remote workers to stay for up to two years. It targets high-income professionals wanting to experience Korean culture.',
     requirements: [
       'Proof of remote work for a foreign company for at least 1 year.',
       'Annual income must be at least twice the South Korean GNI per capita (approx. $66,000 USD/year or $5,500/month).',
@@ -738,7 +738,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Europe',
     minIncome: 3100,
     visaLength: '1 year, up to 5',
-    description: 'Spain\'s digital nomad visa allows non-EU citizens to live and work remotely for up to five years. It offers a favorable tax regime under "Beckham\'s Law" (24% flat tax rate on Spanish-source income).',
+    description: 'Spain\'s digital nomad visa allows non-EU citizens to live and work remotely for up to five years. It offers a favorable tax regime under"Beckham\'s Law" (24% flat tax rate on Spanish-source income).',
     requirements: [
       'Proof of being a qualified professional (university degree or 3+ years of experience).',
       'Work contract with a foreign company (active for at least 3 months).',

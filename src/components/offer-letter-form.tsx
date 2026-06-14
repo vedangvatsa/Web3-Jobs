@@ -17,19 +17,19 @@ import { Calendar } from './ui/calendar';
 import { format } from 'date-fns';
 
 const offerLetterSchema = z.object({
- companyName: z.string().min(1, "Company Name is required"),
- companyAddress: z.string().min(1, "Company Address is required"),
- candidateName: z.string().min(1, "Candidate Name is required"),
- candidateAddress: z.string().min(1, "Candidate Address is required"),
+ companyName: z.string().min(1,"Company Name is required"),
+ companyAddress: z.string().min(1,"Company Address is required"),
+ candidateName: z.string().min(1,"Candidate Name is required"),
+ candidateAddress: z.string().min(1,"Candidate Address is required"),
  date: z.date(),
- jobTitle: z.string().min(1, "Job Title is required"),
+ jobTitle: z.string().min(1,"Job Title is required"),
  startDate: z.date(),
- salary: z.string().min(1, "Salary is required"),
+ salary: z.string().min(1,"Salary is required"),
  vestingDetails: z.string().optional(),
  reportingTo: z.string().optional(),
  offerExpiryDate: z.date(),
- senderName: z.string().min(1, "Sender Name is required"),
- senderTitle: z.string().min(1, "Sender Title is required"),
+ senderName: z.string().min(1,"Sender Name is required"),
+ senderTitle: z.string().min(1,"Sender Title is required"),
 });
 
 type OfferLetterData = z.infer<typeof offerLetterSchema>;
@@ -39,16 +39,16 @@ export function OfferLetterForm() {
  const form = useForm<OfferLetterData>({
   resolver: zodResolver(offerLetterSchema),
   defaultValues: {
-   companyName: "Your Web3 Company",
-   companyAddress: "123 Blockchain Ave, Decentraland",
-   candidateName: "",
-   candidateAddress: "",
-   jobTitle: "Senior Solidity Developer",
-   salary: "$150,000 USD per year + 0.1% token allocation",
-   vestingDetails: "Tokens vest over 4 years with a 1-year cliff.",
-   reportingTo: "Head of Engineering",
-   senderName: "John Smith",
-   senderTitle: "CEO",
+   companyName:"Your Web3 Company",
+   companyAddress:"123 Blockchain Ave, Decentraland",
+   candidateName:"",
+   candidateAddress:"",
+   jobTitle:"Senior Solidity Developer",
+   salary:"$150,000 USD per year + 0.1% token allocation",
+   vestingDetails:"Tokens vest over 4 years with a 1-year cliff.",
+   reportingTo:"Head of Engineering",
+   senderName:"John Smith",
+   senderTitle:"CEO",
   },
  });
 
@@ -123,16 +123,16 @@ This offer is open until ${format(data.offerExpiryDate, 'MMMM d, yyyy')}. Please
    doc.text(data.companyName, margin, y);
 
    doc.save('Offer_Letter.pdf');
-   toast({ title: "Success!", description: "Offer Letter downloaded as PDF." });
+   toast({ title:"Success!", description:"Offer Letter downloaded as PDF." });
   } catch (error) {
    console.error(error);
-   toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
+   toast({ variant: 'destructive', title:"Error", description:"Failed to generate PDF." });
   }
  });
 
  return (
   <div className="container mx-auto py-12">
-    <Card className="max-w-4xl mx-auto">
+    <Card className="site-container">
       <CardHeader className="text-center">
         
         <CardTitle className="text-3xl">Web3 Offer Letter Customizer</CardTitle>
@@ -198,7 +198,7 @@ This offer is open until ${format(data.offerExpiryDate, 'MMMM d, yyyy')}. Please
       <Button size="lg" onClick={handleDownload}><Download className="mr-2 h-4 w-4"/> Download PDF</Button>
     </div>
     
-     <Card className="mt-12 max-w-4xl mx-auto bg-muted/30 border shadow-none">
+     <Card className="mt-12 site-container bg-muted/30 border shadow-none">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         
         <div>

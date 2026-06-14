@@ -57,7 +57,7 @@ export function Web3CareerQuiz() {
     initial={{ opacity: 0, scale: 0.9 }}
     animate={{ opacity: 1, scale: 1 }}
     transition={{ duration: 0.5 }}
-    className="container mx-auto px-4 py-8 md:py-16 max-w-3xl"
+    className="container mx-auto px-4 py-8 md:py-16 max-w-6xl"
    >
     <Card className="text-center shadow-sm border-primary/20">
      <CardHeader>
@@ -118,7 +118,7 @@ export function Web3CareerQuiz() {
  const currentQuestion = quizData[currentQuestionIndex];
 
  return (
-  <div className="container mx-auto px-4 py-8 md:py-16 max-w-2xl">
+  <div className="container mx-auto px-4 py-8 md:py-16 max-w-6xl">
    <Card className="shadow-sm">
     <CardHeader>
      <div className="flex items-center justify-between mb-2">

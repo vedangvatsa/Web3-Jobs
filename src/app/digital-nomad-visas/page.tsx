@@ -1,4 +1,3 @@
-import { Header } from '@/components/header';
 import { Suspense } from 'react';
 import { DigitalNomadVisasContent } from '@/components/digital-nomad-visas-client';
 import type { Metadata } from 'next';
@@ -32,11 +31,10 @@ export const metadata: Metadata = {
 export default function DigitalNomadVisasPage() {
  return (
   <div className="flex flex-col min-h-screen bg-background">
-   <Header />
-   <main className="flex-grow">
-    <div className="container mx-auto px-4 py-8 md:py-16">
+      <main className="flex-grow">
+    <div className="container mx-auto px-4 page-section">
      <Suspense fallback={
-      <div className="max-w-7xl mx-auto text-center py-16 text-muted-foreground">
+      <div className="site-container text-center py-16 text-muted-foreground">
        Loading database...
       </div>
      }>

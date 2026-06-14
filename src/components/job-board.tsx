@@ -107,7 +107,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
  return (
   <div>
    <SearchTracker query={searchQuery} resultsCount={filteredJobs.length} />
-   <div className="mb-8 max-w-6xl mx-auto">
+   <div className="mb-8 site-container">
     <div className="relative">
      <Input
       placeholder="Search by role, company, keyword..."

@@ -41,13 +41,13 @@ export function EmployeeMilestonesForm() {
  const form = useForm<MilestonesData>({
   resolver: zodResolver(milestonesSchema),
   defaultValues: {
-   employeeName: "Jane Doe",
-   role: "Senior Engineer",
-   manager: "John Smith",
+   employeeName:"Jane Doe",
+   role:"Senior Engineer",
+   manager:"John Smith",
    period: `Q3 ${new Date().getFullYear()}`,
    objectives: [
     {
-     title: "Launch New Feature 'X'",
+     title:"Launch New Feature 'X'",
      milestones: [
       { description: 'Finalize technical specification document.', metric: 'Spec approved by lead engineer.' },
       { description: 'Complete backend development for core APIs.', metric: 'All API endpoints deployed to staging.' },
@@ -55,7 +55,7 @@ export function EmployeeMilestonesForm() {
      ]
     },
     {
-     title: "Improve Protocol Gas Efficiency",
+     title:"Improve Protocol Gas Efficiency",
      milestones: [
       { description: 'Identify top 3 most gas-intensive functions.', metric: 'Gas usage report published.' },
       { description: 'Implement optimizations for identified functions.', metric: 'PRs merged for all 3 functions.' },
@@ -68,7 +68,7 @@ export function EmployeeMilestonesForm() {
  
  const { fields, append, remove } = useFieldArray({
   control: form.control,
-  name: "objectives"
+  name:"objectives"
  });
 
  const handleDownload = form.handleSubmit(async (data) => {
@@ -125,10 +125,10 @@ export function EmployeeMilestonesForm() {
 
 
    doc.save('Employee-Milestones.pdf');
-   toast({ title: "Success!", description: "Milestones plan downloaded as PDF." });
+   toast({ title:"Success!", description:"Milestones plan downloaded as PDF." });
   } catch (error) {
    console.error(error);
-   toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
+   toast({ variant: 'destructive', title:"Error", description:"Failed to generate PDF." });
   }
  });
 
@@ -162,11 +162,11 @@ export function EmployeeMilestonesForm() {
 
  return (
   <div className="container mx-auto py-12">
-    <Card className="max-w-4xl mx-auto">
+    <Card className="site-container">
       <CardHeader className="text-center">
          
         <CardTitle className="text-3xl">Employee Milestones Tracker</CardTitle>
-        <CardDescription className="max-w-2xl mx-auto">
+        <CardDescription className="site-container">
          A structured 30-60-90 day plan is crucial for aligning new hires with company goals and ensuring their success. This tool helps managers and employees collaboratively define key objectives and measurable milestones for the initial period of employment.
         </CardDescription>
       </CardHeader>
@@ -201,7 +201,7 @@ export function EmployeeMilestonesForm() {
     <div className="flex justify-center mt-8">
       <Button size="lg" onClick={handleDownload}><Download className="mr-2 h-4 w-4"/> Download as PDF</Button>
     </div>
-     <Card className="mt-12 max-w-4xl mx-auto bg-muted/30 border shadow-none">
+     <Card className="mt-12 site-container bg-muted/30 border shadow-none">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         
         <div>

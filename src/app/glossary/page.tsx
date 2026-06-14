@@ -1,10 +1,10 @@
-import { Header } from '@/components/header';
 import { getAllTerms, getCategoriesWithCounts, getGlossaryStats } from '@/lib/glossary';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { BookOpen, Search, TrendingUp } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
+import { PageHeader } from "@/components/page-header";
 
 export const metadata: Metadata = {
  title: 'Web3 Glossary - Complete Guide to Blockchain & Crypto Terms',
@@ -64,11 +64,10 @@ export default async function GlossaryPage({
 
  return (
   <div className="flex flex-col min-h-screen">
-   <Header />
-   <main className="flex-grow">
+      <main className="flex-grow">
     {/* Hero Section */}
     <section className="border-b">
-     <div className="container mx-auto px-4 py-12 md:py-20 max-w-7xl">
+     <div className="container mx-auto px-4 page-section max-w-6xl">
       <div className="max-w-3xl">
        {searchParams.category ? (
         <>
@@ -77,18 +76,14 @@ export default async function GlossaryPage({
            ← All Terms
           </Link>
          </div>
-         <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">
-          {searchParams.category}
-         </h1>
+         <PageHeader title={searchParams.category} />
          <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
           Browse all {searchParams.category} terms in our Web3 glossary.
          </p>
         </>
        ) : (
         <>
-         <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">
-          Web3 Glossary
-         </h1>
+         <PageHeader title="Web3 Glossary" />
          <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
           Your complete guide to blockchain, cryptocurrency, and decentralized technology terminology. 
           From basic concepts to advanced protocols, understand the language that powers Web3.
@@ -111,7 +106,7 @@ export default async function GlossaryPage({
 
     {/* Alphabet Navigation */}
     <section className="border-b bg-muted/30">
-     <div className="container mx-auto px-4 py-6 max-w-7xl">
+     <div className="container mx-auto px-4 page-section max-w-6xl">
       <div className="flex flex-wrap gap-2 justify-center">
        {alphabet.map(letter => (
         <Link
@@ -132,7 +127,7 @@ export default async function GlossaryPage({
 
     {/* Categories - only show when not filtering */}
     {!searchParams.category && (
-     <section className="container mx-auto px-4 py-12 md:py-16 max-w-7xl">
+     <section className="container mx-auto px-4 page-section max-w-6xl">
       <div className="mb-8">
        <h2 className="text-3xl font-bold mb-2">Browse by category</h2>
        <p className="text-muted-foreground">Explore terms organized by Web3 sector</p>
@@ -158,7 +153,7 @@ export default async function GlossaryPage({
     )}
 
     {/* All Terms Alphabetically */}
-    <section className="container mx-auto px-4 py-12 md:py-16 max-w-7xl border-t">
+    <section className="container mx-auto px-4 page-section max-w-6xl border-t">
      <div className="mb-8">
       <h2 className="text-3xl font-bold mb-2">{searchParams.category ? `${searchParams.category} Terms` : 'All terms'}</h2>
       <p className="text-muted-foreground">{searchParams.category ? `${filteredTerms.length} terms in this category` : 'Complete alphabetical listing'}</p>

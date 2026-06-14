@@ -1,8 +1,8 @@
 import { EventsBoard } from '@/components/events-board';
-import { Header } from '@/components/header';
 import { getEvents } from '@/lib/events';
 import type { Metadata } from 'next';
 import type { WebPage, Event } from 'schema-dts';
+import { PageHeader } from "@/components/page-header";
 
 export const metadata: Metadata = {
   title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
@@ -69,15 +69,14 @@ export default async function EventsPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(eventsSchema) }}
       />
       <div className="flex flex-col min-h-screen">
-        <Header />
-        <main className="flex-1">
-          <div className="container mx-auto py-8 px-4">
+                <main className="flex-1">
+          <div className="container mx-auto page-section px-4">
             <section className="text-center mb-8">
-              <div className="max-w-6xl mx-auto">
-                <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-foreground">Web3 Events</h1>
+              <div className="site-container">
+                <PageHeader title="Web3 Events" />
               </div>
             </section>
-            <article className="max-w-6xl mx-auto">
+            <article className="site-container">
               <EventsBoard initialEvents={events} />
             </article>
           </div>

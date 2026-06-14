@@ -4,7 +4,7 @@ description: "A full guide covering the core skills and knowledge areas every We
 category: "Career Guides"
 image: "https://picsum.photos/seed/skills/1200/630"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 ## Master These Core Areas

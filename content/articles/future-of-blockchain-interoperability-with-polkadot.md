@@ -7,7 +7,7 @@ description: "A look at Polkadot's unique 'hub and spoke' model for blockchain i
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 As the [Web3](/what-is-web3) ecosystem expands, it has transformed into a diverse collection of Layer 1 and Layer 2 networks. Each blockchain operates independently, building unique communities, strengths, and weaknesses. This diversity introduces a significant challenge: interoperability. The question remains: how can these distinct blockchains communicate and exchange assets securely and efficiently?

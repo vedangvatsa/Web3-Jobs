@@ -154,7 +154,7 @@ async function fetchAllNews() {
     const normUrl = normalizeUrl(item.link);
     if (seenUrls.has(normUrl)) continue;
 
-    if (!unique.some(u => isSimilar(item.title, u.title, 0.4) || normalizeUrl(u.link) === normUrl)) {
+    if (!unique.some(u => isSimilar(item.title + ' ' + item.snippet, u.title + ' ' + u.snippet, 0.35) || normalizeUrl(u.link) === normUrl)) {
       unique.push(item);
       seenUrls.add(normUrl);
     }
@@ -239,7 +239,7 @@ Write like a wire service. Plain, direct, no filler.
 
 BANNED WORDS: "signifies", "highlights", "underscores", "reshapes", "poised", "bolsters", "notably", "landscape", "paradigm", "innovative", "robust", "leveraging", "cutting-edge", "game-changer", "pivotal", "crucial", "essential", "transformative", "marks a", "reflects".
 
-Return ONLY a JSON array of exactly ${STORIES_PER_POST} objects: {"index", "headline", "summary", "event_rationale"}
+Return ONLY a JSON array of exactly ${STORIES_PER_POST} objects: {"index", "original_title", "headline", "summary", "event_rationale"}
 
 ${headlines}`;
 
@@ -249,13 +249,30 @@ ${headlines}`;
   if (!jsonMatch) throw new Error(`Could not parse Gemini response: ${text.substring(0, 200)}`);
 
   const selected = JSON.parse(jsonMatch[0]);
-  
-  return selected.map(s => ({
-    ...s,
-    link: newsItems[s.index - 1]?.link,
-    source: newsItems[s.index - 1]?.source,
-    originalTitle: newsItems[s.index - 1]?.title,
-  }));
+
+  return selected.map(s => {
+    let actualIndex = newsItems.findIndex(n => n.title === s.original_title);
+    
+    // Fuzzy fallback if Gemini slightly altered the title
+    if (actualIndex === -1 && s.original_title) {
+      actualIndex = newsItems.findIndex(n => isSimilar(n.title, s.original_title, 0.4));
+    }
+    
+    // Extreme fallback to the index Gemini provided
+    if (actualIndex === -1) {
+      actualIndex = s.index - 1;
+    }
+    
+    const item = newsItems[actualIndex] || newsItems[0];
+                 
+    return {
+      ...s,
+      index: actualIndex + 1, // Fix the index so downstream code uses the correct one
+      link: item.link,
+      source: item.source,
+      originalTitle: item.title,
+    };
+  });
 }
 
 // ── Format Telegram message ──
@@ -327,7 +344,7 @@ async function postOnce() {
   const fresh = allNews.filter(n => {
     if (normalizedPostedLinks.has(normalizeUrl(n.link))) return false;
     // Check against both rewritten headlines AND original titles stored from previous runs
-    if (postedHeadlines.some(h => isSimilar(n.title, h, 0.4))) return false;
+    if (postedHeadlines.some(h => isSimilar(n.title + ' ' + n.snippet, h, 0.35))) return false;
     return true;
   });
   console.log(`  ${fresh.length} not yet posted`);
@@ -356,11 +373,11 @@ async function postOnce() {
     if (seenUrls.has(normUrl)) continue; // Duplicate URL in selection
 
     // Programmatic check: prevent similarity with past headlines or currently selected ones
-    if (postedHeadlines.some(h => isSimilar(story.headline, h, 0.4))) {
+    if (postedHeadlines.some(h => isSimilar(story.headline + ' ' + story.summary, h, 0.35))) {
       console.log(`⚠️ Pruned Gemini selection due to similarity with past headline: "${story.headline}"`);
       continue;
     }
-    if (stories.some(s => isSimilar(story.headline, s.headline, 0.4))) {
+    if (stories.some(s => isSimilar(story.headline + ' ' + story.summary, s.headline + ' ' + s.summary, 0.35))) {
       console.log(`⚠️ Pruned Gemini selection due to similarity with another selected headline: "${story.headline}"`);
       continue;
     }
@@ -401,11 +418,11 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
           const parsed = JSON.parse(jsonMatch[0]);
 
           // Programmatic check: prevent similarity with past headlines or currently selected ones
-          if (postedHeadlines.some(h => isSimilar(parsed.headline, h, 0.4))) {
+          if (postedHeadlines.some(h => isSimilar(parsed.headline + ' ' + parsed.summary, h, 0.35))) {
             console.log(`⚠️ Pruned backfilled story due to similarity with past headline: "${parsed.headline}"`);
             continue;
           }
-          if (stories.some(s => isSimilar(parsed.headline, s.headline, 0.4))) {
+          if (stories.some(s => isSimilar(parsed.headline + ' ' + parsed.summary, s.headline + ' ' + s.summary, 0.35))) {
             console.log(`⚠️ Pruned backfilled story due to similarity with another selected headline: "${parsed.headline}"`);
             continue;
           }

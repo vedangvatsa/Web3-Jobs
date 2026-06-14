@@ -1,4 +1,3 @@
-import { Header } from '@/components/header';
 import { getCompanyBySlug, getCompanies } from '@/lib/companies';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -10,6 +9,7 @@ import type { JobPosting, Organization, WithContext } from 'schema-dts';
 import { CompanyViewTracker } from '@/components/tracking/company-view-tracker';
 import { CompanyApplyButton } from '@/components/tracking/company-apply-button';
 import { OutboundLink } from '@/components/tracking/outbound-link';
+import { PageHeader } from "@/components/page-header";
 
 export const revalidate = 3600;
 export const dynamicParams = true;
@@ -130,9 +130,8 @@ export default async function CompanyPage({ params }: { params: { slug: string }
    ))}
    
    <div className="flex flex-col min-h-screen">
-    <Header />
-    <main className="flex-grow">
-     <div className="container mx-auto px-4 py-8 md:py-12 max-w-5xl">
+        <main className="flex-grow">
+     <div className="container mx-auto px-4 page-section md:py-12 max-w-6xl">
       {/* Breadcrumbs */}
       <nav className="text-sm text-muted-foreground mb-6" aria-label="Breadcrumb">
        <Link href="/" className="hover:text-primary">Home</Link>
@@ -149,7 +148,7 @@ export default async function CompanyPage({ params }: { params: { slug: string }
          <Building2 className="h-10 w-10 text-primary" />
         </div>
         <div className="flex-1 min-w-0">
-         <h1 className="text-3xl md:text-4xl font-bold">{company.name} Careers</h1>
+         <PageHeader title="{company.name} Careers" />
          <div className="flex items-center gap-3 text-sm text-muted-foreground mt-1">
           <span className="flex items-center gap-1">
            <Briefcase className="h-3.5 w-3.5" />

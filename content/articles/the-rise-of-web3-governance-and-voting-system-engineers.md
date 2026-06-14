@@ -7,7 +7,7 @@ description: "A look at the specialized engineering roles focused on building an
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 As Decentralized Autonomous Organizations (DAOs) grow in influence, managing treasuries worth billions, the systems governing them have become essential infrastructure. This shift has created a strong demand for a specialized type of developer known as the **Web3 Governance Engineer**.

@@ -14,9 +14,9 @@ export function FirebaseErrorListener() {
    console.error("A Firestore permission error was caught. Context:", error);
    
    toast({
-    variant: "destructive",
-    title: "Permission Denied",
-    description: "Your request was denied by database security rules. The developer has been notified.",
+    variant:"destructive",
+    title:"Permission Denied",
+    description:"Your request was denied by database security rules. The developer has been notified.",
    });
   };
 

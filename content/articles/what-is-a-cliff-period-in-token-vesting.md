@@ -7,7 +7,7 @@ description: "A cliff is a period at the beginning of a vesting schedule where n
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 In the [Web3](/what-is-web3), understanding vesting schedules is essential for aligning the interests of a project's team members and its community. A critical feature of these schedules is the cliff. Both employees receiving [token](/what-is-a-token) grants and investors assessing a project's tokenomics need to grasp what a cliff entails and its purpose.

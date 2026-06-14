@@ -41,19 +41,19 @@ const JDPreview = ({ data }: { data: JobDescriptionData }) => {
   return (
     <Card className="shadow-sm h-full">
       <CardContent className="p-8 font-sans text-gray-800 bg-white min-h-[1200px]">
-        <h2 className="text-2xl font-bold text-gray-900 mb-2">{data.jobTitle || "Job Title"}</h2>
-        <p className="font-semibold text-gray-700">{data.companyName || "Your Company"}</p>
-        <p className="text-sm text-gray-500">{data.location || "Location"} &bull; {data.jobType || "Job Type"}</p>
+        <h2 className="text-2xl font-bold text-gray-900 mb-2">{data.jobTitle ||"Job Title"}</h2>
+        <p className="font-semibold text-gray-700">{data.companyName ||"Your Company"}</p>
+        <p className="text-sm text-gray-500">{data.location ||"Location"} &bull; {data.jobType ||"Job Type"}</p>
         {data.salaryRange && <p className="text-sm text-gray-500 mt-1">Salary: {data.salaryRange}</p>}
 
         <div className="mt-6">
-          <h2 className="text-lg font-bold text-gray-800 mb-2 border-b pb-1">About {data.companyName || "the Company"}</h2>
-          <p className="text-sm text-gray-600 whitespace-pre-wrap">{data.aboutCompany || "Tell us about your company..."}</p>
+          <h2 className="text-lg font-bold text-gray-800 mb-2 border-b pb-1">About {data.companyName ||"the Company"}</h2>
+          <p className="text-sm text-gray-600 whitespace-pre-wrap">{data.aboutCompany ||"Tell us about your company..."}</p>
         </div>
         
         <div className="mt-6">
           <h2 className="text-lg font-bold text-gray-800 mb-2 border-b pb-1">About the Role</h2>
-          <p className="text-sm text-gray-600 whitespace-pre-wrap">{data.aboutRole || "Describe the role..."}</p>
+          <p className="text-sm text-gray-600 whitespace-pre-wrap">{data.aboutRole ||"Describe the role..."}</p>
         </div>
 
         <div className="mt-6">
@@ -204,10 +204,10 @@ export function JDBuilderForm() {
 
     doc.save(`${data.jobTitle.replace(/ /g, '-')}-JD.pdf`);
     
-    toast({ title: "Success!", description: "Job description downloaded as PDF." });
+    toast({ title:"Success!", description:"Job description downloaded as PDF." });
   } catch (error) {
     console.error(error);
-    toast({ variant: 'destructive', title: "Error", description: "Failed to generate file." });
+    toast({ variant: 'destructive', title:"Error", description:"Failed to generate file." });
   }
  });
  

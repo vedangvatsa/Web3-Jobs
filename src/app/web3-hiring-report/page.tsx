@@ -1,6 +1,5 @@
 'use client';
-
-import { Header } from '@/components/header';
+import { PageHeader } from "@/components/page-header";
 
 /* ── Chart Components ── */
 function DonutChart({ segments, size = 180 }: { segments: { label: string; value: number; color: string }[]; size?: number }) {
@@ -52,7 +51,7 @@ function HBar({ data, unit = '' }: { data: { label: string; value: number; color
 function BigNum({ value, label, sub }: { value: string; label: string; sub?: string }) {
  return (
   <div className="text-center">
-   <div className="text-5xl sm:text-6xl  font-bold text-zinc-900 dark:text-zinc-50 tracking-tight leading-none">{value}</div>
+   <div className="text-5xl sm:text-6xl font-bold text-zinc-900 dark:text-zinc-50 tracking-tight leading-none">{value}</div>
    <div className="text-sm text-zinc-500 dark:text-zinc-400 mt-3 leading-relaxed">{label}</div>
    {sub && <div className="text-[11px] text-zinc-400 dark:text-zinc-500 mt-1">{sub}</div>}
   </div>
@@ -62,7 +61,7 @@ function BigNum({ value, label, sub }: { value: string; label: string; sub?: str
 function Callout({ children }: { children: React.ReactNode }) {
  return (
   <blockquote className="border-l-2 border-zinc-900 dark:border-zinc-100 pl-6 py-2 my-10">
-   <p className="text-lg sm:text-xl  text-zinc-800 dark:text-zinc-200 leading-relaxed italic">{children}</p>
+   <p className="text-lg sm:text-xl text-zinc-800 dark:text-zinc-200 leading-relaxed italic">{children}</p>
   </blockquote>
  );
 }
@@ -87,15 +86,12 @@ function Cite({ href, children }: { href: string; children: React.ReactNode }) {
 export default function Web3HiringReport() {
  return (
   <div className="h-screen overflow-y-auto bg-[#fafafa] dark:bg-black selection:bg-zinc-200 dark:selection:bg-zinc-800 transition-colors duration-200 flex flex-col">
-   <Header />
-   <main id="main-content" className="w-full max-w-5xl mx-auto px-6 py-16 md:py-20 pb-20 flex-1">
+      <main id="main-content" className="site-container px-6 py-16 md:py-20 pb-20 flex-1">
 
     {/* HERO */}
     <div className="mb-20">
      <p className="text-[11px] font-semibold text-zinc-400 uppercase tracking-[0.2em] mb-6">Hashtag Web3 Research / May 2026</p>
-     <h1 className="text-4xl sm:text-[3.4rem]  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-8 leading-[1.12]">
-      The Web3 Hiring<br />Report 2026
-     </h1>
+     <PageHeader title={<>The Web3 Hiring<br />Report 2026</>} />
      <p className="text-[17px] text-zinc-500 dark:text-zinc-400 leading-[1.8] max-w-3xl">
       We analyzed <Cite href="https://hashtagweb3.com/jobs">3,427 active job listings</Cite> across 283 Web3 companies. This report breaks down what those listings reveal about skills, compensation, departments, locations, and the state of crypto hiring based on direct source data.
      </p>
@@ -117,7 +113,7 @@ export default function Web3HiringReport() {
 
     {/* EXECUTIVE SUMMARY */}
     <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Executive summary</h2>
+     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Executive summary</h2>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
       Web3 hiring in 2026 is defined by a paradox. The industry talks about decentralization, but hiring is concentrated: the top 10 companies account for a large percentage of open roles, led by Binance with 418 open roles. It talks about blockchain, but only a fraction of job listings explicitly require blockchain skills as their primary requirement. It talks about disrupting finance, but the most-hired department is engineering (36.6%), not finance (2.3%). The gap between Web3&apos;s narrative and its labor market tells you more about the industry&apos;s actual state than any whitepaper.
      </p>
@@ -136,7 +132,7 @@ export default function Web3HiringReport() {
     <section className="mb-28">
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
       <div>
-       <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">1 in 3 Web3 roles is engineering</h2>
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">1 in 3 Web3 roles is engineering</h2>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
         Engineering dominates Web3 hiring at 34.4% of all listings, a figure that far exceeds traditional tech companies. For comparison, <Cite href="https://www.bls.gov/ooh/computer-and-information-technology/">US Bureau of Labor Statistics data</Cite> puts software development at roughly 20-25% of tech company headcount when accounting for all support, sales, and administrative functions. In Web3, the ratio is closer to 1 in 3, driven by the need to build and maintain distributed infrastructure that handles billions in transaction volume.
        </p>
@@ -174,7 +170,7 @@ export default function Web3HiringReport() {
 
     {/* SECTION 2: SKILLS */}
     <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Python and data analysis dominate Web3 skill demand</h2>
+     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Python and data analysis dominate Web3 skill demand</h2>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
       <div>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
@@ -219,7 +215,7 @@ export default function Web3HiringReport() {
 
     {/* SECTION 2B: SOFT SKILLS & NON-TECHNICAL DEMAND */}
     <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">The hidden demand: communication, compliance, and management</h2>
+     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">The hidden demand: communication, compliance, and management</h2>
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
       <div>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
@@ -260,7 +256,7 @@ export default function Web3HiringReport() {
     <section className="mb-28">
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
       <div>
-       <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Web3 median salary: $166,000</h2>
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Web3 median salary: $166,000</h2>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
         Of the 178 listings with explicit compensation, the median base salary is $166,000. The 25th percentile is $125,000 and the 75th is $200,000. This $75,000 interquartile range is wider than typical tech companies, reflecting the diversity of roles from junior operations associates at $65,000 to senior quant researchers clearing $298,000.
        </p>
@@ -313,7 +309,7 @@ export default function Web3HiringReport() {
     <section className="mb-28">
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
       <div>
-       <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">42% of Web3 jobs are remote, 3x the industry average</h2>
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">42% of Web3 jobs are remote, 3x the industry average</h2>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
         42.4% of Web3 listings are remote-first, compared to just 13% in the broader tech industry according to <Cite href="https://economicgraph.linkedin.com/">LinkedIn Economic Graph</Cite>. This 3x premium exists because Web3 was built by geographically distributed teams from its inception. Bitcoin had no office. Ethereum was coordinated across time zones. That DNA persists even as the industry matures and companies like Coinbase and Ripple maintain physical offices.
        </p>
@@ -351,9 +347,9 @@ export default function Web3HiringReport() {
     <section className="mb-28">
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
       <div>
-       <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Web3 is hiring mid-level engineers, not juniors</h2>
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Web3 is hiring mid-level engineers, not juniors</h2>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
-        Assuming roles without explicit seniority markers in the title (e.g. "Software Engineer") default to mid-level, 56.1% of listings target mid-level professionals. Senior, Staff, and Lead roles explicitly account for 33.2%. Executive and Director level roles make up 7.6%. True entry-level, junior, and internship roles combined are shockingly low, representing just 2.9% of all listings. Compare this to traditional tech, where entry-level roles typically represent 20-25% of listings.
+        Assuming roles without explicit seniority markers in the title (e.g."Software Engineer") default to mid-level, 56.1% of listings target mid-level professionals. Senior, Staff, and Lead roles explicitly account for 33.2%. Executive and Director level roles make up 7.6%. True entry-level, junior, and internship roles combined are shockingly low, representing just 2.9% of all listings. Compare this to traditional tech, where entry-level roles typically represent 20-25% of listings.
        </p>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
         The low entry-level percentage creates a structural talent pipeline problem. If Web3 does not hire and train juniors, where will the next generation of senior Web3 engineers come from? Currently, the answer is: from traditional tech. Most Web3 engineers spent 3-5 years at companies like Google, Meta, or Stripe before transitioning. This works when crypto is growing, but creates a fragile talent supply that depends on traditional tech continuing to produce engineers who are curious about blockchain.
@@ -379,7 +375,7 @@ export default function Web3HiringReport() {
 
     {/* SECTION 6: TOP COMPANIES */}
     <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Centralized exchanges remain the largest Web3 employers</h2>
+     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Centralized exchanges remain the largest Web3 employers</h2>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
       Binance has 418 open roles, the highest in our sampled dataset. This reflects the company&apos;s massive global footprint. Binance processes more daily trading volume than the next five exchanges combined, according to <Cite href="https://www.coingecko.com/en/exchanges">CoinGecko exchange data</Cite>. Maintaining that infrastructure requires hundreds of engineers, compliance officers, and operations staff across 40+ countries.
      </p>
@@ -430,7 +426,7 @@ export default function Web3HiringReport() {
     <section className="mb-28">
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
       <div>
-       <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Web3 companies post ~90 new jobs every weekday</h2>
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Web3 companies post ~90 new jobs every weekday</h2>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
         Looking at the last 10 days of our dataset (May 6 to May 15, 2026), there is a highly consistent hiring velocity. On an average weekday, Web3 companies post between 75 and 115 new open roles across major ATS platforms. Over the last 10 days alone, 669 new roles were added to the market.
        </p>
@@ -462,7 +458,7 @@ export default function Web3HiringReport() {
     <section className="mb-28">
      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16">
       <div>
-       <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">AI isn&apos;t wiping out Web3 jobs—it&apos;s merging with them</h2>
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">AI isn&apos;t wiping out Web3 jobs—it&apos;s merging with them</h2>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
         There is a pervasive narrative that artificial intelligence is cannibalizing Web3 developer talent and wiping out blockchain jobs. Based on full-text parsing of our dataset, this is categorically false. What we are actually seeing is an aggressive integration cycle: founders are cutting basic technical roles to keep their teams lean, while actively hunting for engineers who know how to build AI into blockchain infrastructure.
        </p>
@@ -496,7 +492,7 @@ export default function Web3HiringReport() {
        ]} size={180} />
       </div>
       <div>
-       <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">The death of the "paid in tokens" era</h2>
+       <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">The death of the"paid in tokens" era</h2>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
         During the 2021 bull run, many Web3 jobs compensated employees heavily in illiquid governance tokens. Our full-text analysis reveals that this era is largely over. When companies explicitly discuss long-term incentives in their job descriptions, <strong>95.7% offer traditional corporate equity or stock options</strong>. Only 4.3% explicitly state they will compensate employees in crypto tokens.
        </p>
@@ -512,22 +508,22 @@ export default function Web3HiringReport() {
 
     {/* KEY TAKEAWAYS */}
     <section className="mb-28">
-     <h2 className="text-2xl sm:text-3xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-8">Key takeaways for job seekers and hiring managers</h2>
+     <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-8">Key takeaways for job seekers and hiring managers</h2>
      <div className="space-y-6">
       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
-       <h3 className=" font-bold text-lg text-zinc-900 dark:text-zinc-50 mb-3">For candidates transitioning from traditional tech</h3>
+       <h3 className="font-bold text-lg text-zinc-900 dark:text-zinc-50 mb-3">For candidates transitioning from traditional tech</h3>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
         You do not need blockchain experience to get hired in Web3. 95% of listings ask for skills you already have: Python, SQL, data analysis, project management, TypeScript. The barrier to entry is lower than the industry&apos;s reputation suggests. Target mid-level roles at large employers (Binance, Coinbase, Revolut) where structured onboarding programs exist. Expect a 15-20% salary premium over equivalent roles at traditional tech companies.
        </p>
       </div>
       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
-       <h3 className=" font-bold text-lg text-zinc-900 dark:text-zinc-50 mb-3">For hiring managers at Web3 companies</h3>
+       <h3 className="font-bold text-lg text-zinc-900 dark:text-zinc-50 mb-3">For hiring managers at Web3 companies</h3>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
         The data shows a clear junior talent pipeline problem. With entry-level and internship roles sitting at just 2.9% combined, the industry is creating a dependency on poaching mid-career engineers from FAANG companies. Consider investing in internship programs and junior roles now. The cost of not building a pipeline is higher long-term. Also: publishing salary bands is table stakes. The 88% of listings that hide compensation are losing candidates to the 12% that show it.
        </p>
       </div>
       <div className="bg-white dark:bg-zinc-900/30 border border-zinc-200 dark:border-zinc-800/40 rounded-lg p-8">
-       <h3 className=" font-bold text-lg text-zinc-900 dark:text-zinc-50 mb-3">For investors evaluating Web3 companies</h3>
+       <h3 className="font-bold text-lg text-zinc-900 dark:text-zinc-50 mb-3">For investors evaluating Web3 companies</h3>
        <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85]">
         Hiring patterns are a strong signal of company health and sector direction. Engineering at 34% tells you the industry is still building, not optimizing. The 6.3% compliance and legal figure indicates real institutional maturation, not just regulatory theater. Watch for shifts in the DeFi hiring percentage (currently 5%): when that number climbs, it signals renewed builder activity in decentralized finance. Monitor Africa and LATAM hiring as leading indicators for the next wave of crypto adoption.
        </p>
@@ -537,7 +533,7 @@ export default function Web3HiringReport() {
 
     {/* METHODOLOGY */}
     <section className="mb-16">
-     <h2 className="text-2xl  font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Methodology</h2>
+     <h2 className="text-2xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50 mb-5">Methodology</h2>
      <p className="text-[15px] text-zinc-500 dark:text-zinc-400 leading-[1.85] mb-5">
       Data was collected from 3,427 job listings aggregated from major hiring platforms and corporate career pages across 283 Web3 companies. Each listing was fetched at its source URL, and the full job description text was processed using automated classification for structured extraction of skills, compensation, department, seniority, location, employment type, and crypto sub-sector focus.
      </p>

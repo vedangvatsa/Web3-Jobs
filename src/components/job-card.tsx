@@ -6,7 +6,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
 export function JobCard({ job }: { job: Job }) {
  return (
-  <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow-sm border-transparent hover:border-border/60 bg-card ">
+  <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow-sm border-transparent hover:border-border/60 bg-card">
    <CardHeader className="pb-2 pt-4 px-4">
     <CardTitle className="text-base leading-snug font-semibold">{job.title}</CardTitle>
    </CardHeader>

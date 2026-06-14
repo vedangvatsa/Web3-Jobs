@@ -7,7 +7,7 @@ description: "A deep dive into the symbiotic relationship between blockchain and
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 The vision of [Web3](/what-is-web3) as a decentralized, user-owned internet hinges on a foundational technology: the **[blockchain](/what-is-a-blockchain)**. This technology serves as the structural backbone of Web3, delivering an infrastructure that is trustless, permissionless, and resilient. Without blockchain, the primary promises of Web3 cannot be fulfilled.

@@ -22,9 +22,9 @@ export function NewsPageClient({ initialNewsItems }: { initialNewsItems: NewsIte
  }, [initialNewsItems, searchQuery]);
 
  return (
-  <article className="max-w-6xl mx-auto">
+  <article className="site-container">
    {/* Search */}
-   <div className="mb-8 max-w-6xl mx-auto">
+   <div className="mb-8 site-container">
     <div className="relative">
       <Input
         placeholder="Search news..."

@@ -7,5 +7,5 @@ description: "Master the art of the one-on-one meeting. This guide provides a cl
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "one on one meeting"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---

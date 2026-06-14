@@ -1,6 +1,6 @@
-import { Header } from '@/components/header';
 import { Quiz } from '@/components/quiz';
 import { getCategory, getLesson, getLessons, getAdjacentLessons } from '@/lib/learn';
+import { PageHeader } from "@/components/page-header";
 import { Badge } from '@/components/ui/badge';
 import { ChevronRight, Clock, ArrowLeft, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
@@ -69,9 +69,8 @@ export default function LessonPage({ params }: Props) {
 
  return (
   <div className="flex flex-col min-h-screen">
-   <Header />
-   <main className="flex-grow">
-    <div className="container mx-auto px-4 py-8 max-w-7xl">
+      <main className="flex-grow">
+    <div className="container mx-auto px-4 page-section max-w-6xl">
      <div className="flex flex-col lg:flex-row gap-8 lg:gap-12">
       {/* Sidebar */}
       <aside className="hidden lg:block w-56 shrink-0">
@@ -113,9 +112,7 @@ export default function LessonPage({ params }: Props) {
         <span className="text-foreground">{lesson.title}</span>
        </nav>
 
-       <h1 className="text-3xl md:text-4xl font-bold mb-4 tracking-tight">
-        {lesson.title}
-       </h1>
+       <PageHeader title={lesson.title} />
 
        <div className="flex items-center gap-3 mb-8 text-sm text-muted-foreground">
         <span className="flex items-center gap-1">
@@ -129,21 +126,7 @@ export default function LessonPage({ params }: Props) {
 
        {/* Rendered content */}
        <div
-        className="prose prose-neutral dark:prose-invert max-w-none
-         prose-headings:font-semibold prose-headings:tracking-tight
-         prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4
-         prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
-         prose-p:leading-7 prose-p:mb-4
-         prose-li:leading-7
-         prose-strong:font-semibold
-         prose-a:text-primary prose-a:no-underline hover:prose-a:underline
-         prose-code:bg-muted prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm
-         prose-pre:bg-muted prose-pre:border prose-pre:rounded-lg
-         [&_svg]:mx-auto [&_svg]:my-8 [&_svg]:block
-         [&_.diagram]:my-8 [&_.diagram]:p-6 [&_.diagram]:bg-muted/30 [&_.diagram]:border [&_.diagram]:rounded-lg
-         [&_.callout]:my-6 [&_.callout]:p-4 [&_.callout]:border-l-4 [&_.callout]:border-primary [&_.callout]:bg-primary/5 [&_.callout]:rounded-r-lg
-         [&_.comparison-table]:my-8 [&_.comparison-table_table]:w-full
-         [&_table]:w-full [&_table]:border-collapse [&_th]:text-left [&_th]:p-3 [&_th]:border-b-2 [&_th]:font-semibold [&_td]:p-3 [&_td]:border-b"
+        className="prose prose-neutral dark:prose-invert max-w-none prose-headings:font-semibold prose-headings:tracking-tight prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4 prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3 prose-p:leading-7 prose-p:mb-4 prose-li:leading-7 prose-strong:font-semibold prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-code:bg-muted prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm prose-pre:bg-muted prose-pre:border prose-pre:rounded-lg [&_svg]:mx-auto [&_svg]:my-8 [&_svg]:block [&_.diagram]:my-8 [&_.diagram]:p-6 [&_.diagram]:bg-muted/30 [&_.diagram]:border [&_.diagram]:rounded-lg [&_.callout]:my-6 [&_.callout]:p-4 [&_.callout]:border-l-4 [&_.callout]:border-primary [&_.callout]:bg-primary/5 [&_.callout]:rounded-r-lg [&_.comparison-table]:my-8 [&_.comparison-table_table]:w-full [&_table]:w-full [&_table]:border-collapse [&_th]:text-left [&_th]:p-3 [&_th]:border-b-2 [&_th]:font-semibold [&_td]:p-3 [&_td]:border-b"
        dangerouslySetInnerHTML={{ __html: htmlContent }}
        />
 

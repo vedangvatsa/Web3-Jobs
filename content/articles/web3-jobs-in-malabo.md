@@ -7,7 +7,7 @@ description: "A career guide to the emerging Web3 job market in Malabo. Explore 
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 Malabo, the capital of Equatorial Guinea, stands leading its digital transformation. The country, historically dependent on oil and gas, is increasingly aware of the need for economic diversification and enhanced transparency. In this context, [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology are emerging as viable solutions for modernizing the financial sector and managing natural resource wealth more effectively.

@@ -19,10 +19,10 @@ import {
  CarouselItem,
  CarouselNext,
  CarouselPrevious,
-} from "@/components/ui/carousel"
-import Autoplay from "embla-carousel-autoplay"
+} from"@/components/ui/carousel"
+import Autoplay from"embla-carousel-autoplay"
 import { NewsCard } from './news-card';
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from"@/components/ui/tabs"
 
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
@@ -234,22 +234,22 @@ const whatsappGroups = [
 
 const testimonials = [
  {
-  quote: "Their jobs channel is the most effective Web3 job board I’ve come across. Its real-time updates allow me to apply to new roles the moment they are available on the market, significantly improving the visibility of my applications.",
-  author: "Suki Cheung",
-  title: "Community Lead, Trust Wallet",
-  image: "/logo/quotes/suki.png"
+  quote:"Their jobs channel is the most effective Web3 job board I’ve come across. Its real-time updates allow me to apply to new roles the moment they are available on the market, significantly improving the visibility of my applications.",
+  author:"Suki Cheung",
+  title:"Community Lead, Trust Wallet",
+  image:"/logo/quotes/suki.png"
  },
  {
-  quote: "We’ve got many mails of candidates applying for our jobs, there’s a new one per 5 minutes.",
-  author: "Kris Lai",
-  title: "CEO, Scallop",
-  image: "/logo/quotes/kris.png"
+  quote:"We’ve got many mails of candidates applying for our jobs, there’s a new one per 5 minutes.",
+  author:"Kris Lai",
+  title:"CEO, Scallop",
+  image:"/logo/quotes/kris.png"
  },
  {
-  quote: "Our agency has been using the job board for the past year, and we’ve tripled our speed in closing roles thanks to their high-quality talent pool.",
-  author: "Zhanna Manzyk",
-  title: "CEO, Jaya Talent",
-  image: "/logo/quotes/zhanna.png"
+  quote:"Our agency has been using the job board for the past year, and we’ve tripled our speed in closing roles thanks to their high-quality talent pool.",
+  author:"Zhanna Manzyk",
+  title:"CEO, Jaya Talent",
+  image:"/logo/quotes/zhanna.png"
  }
 ];
 
@@ -276,22 +276,22 @@ const CompactArticleItem = ({ article }: { article: Omit<Article, 'content'> }) 
 );
 
 const resources = [
-  { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
-  { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
-  { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
-  { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
-  { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
-  { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
-  { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
-  { href: "/jd-builder", label: "JD Builder", icon: ClipboardEdit },
-  { href: "/offer-letter-customizer", label: "Offer Letter Customizer", icon: FileSignature },
-  { href: "/employee-onboarding-checklist", label: "Onboarding Checklist", icon: ListChecks },
-  { href: "/interview-feedback-template", label: "Interview Feedback", icon: Mic },
-  { href: "/employee-exit-survey", label: "Employee Exit Survey", icon: UserMinus },
-  { href: "/employee-milestones-tracker", label: "Milestones Tracker", icon: Milestone },
-  { href: "/employee-engagement-survey", label: "Engagement Survey", icon: Smile },
-  { href: "/work-life-balance-survey", label: "Work-Life Balance Survey", icon: Scale },
-  { href: "/company-culture-guide", label: "Company Culture Guide", icon: Users },
+  { href:"/interview-questions", label:"Interview Questions", icon: BookOpen },
+  { href:"/web3-career-quiz", label:"Archetype Assessment", icon: BrainCircuit },
+  { href:"/salary-calculator", label:"Salary Calculator", icon: Calculator },
+  { href:"/resume-builder", label:"Resume Builder", icon: FileSignature },
+  { href:"/invoice-generator", label:"Invoice Generator", icon: FileText },
+  { href:"/digital-nomad-visas", label:"Digital Nomad Visas", icon: Globe },
+  { href:"/remote-work-checklist", label:"Remote Checklist", icon: ListChecks },
+  { href:"/jd-builder", label:"JD Builder", icon: ClipboardEdit },
+  { href:"/offer-letter-customizer", label:"Offer Letter Customizer", icon: FileSignature },
+  { href:"/employee-onboarding-checklist", label:"Onboarding Checklist", icon: ListChecks },
+  { href:"/interview-feedback-template", label:"Interview Feedback", icon: Mic },
+  { href:"/employee-exit-survey", label:"Employee Exit Survey", icon: UserMinus },
+  { href:"/employee-milestones-tracker", label:"Milestones Tracker", icon: Milestone },
+  { href:"/employee-engagement-survey", label:"Engagement Survey", icon: Smile },
+  { href:"/work-life-balance-survey", label:"Work-Life Balance Survey", icon: Scale },
+  { href:"/company-culture-guide", label:"Company Culture Guide", icon: Users },
 ];
 
 
@@ -331,7 +331,7 @@ export function CommunityPageContent({
     <div className="container mx-auto px-4 md:py-16">
      
      <section className="mb-16">
-      <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
+      <div className="grid md:grid-cols-2 gap-8 items-center site-container">
         <div>
           <h2 className="text-4xl font-bold mt-2">Join Our 100k+ Global Community</h2>
           <p className="mt-4 text-muted-foreground">
@@ -366,7 +366,7 @@ export function CommunityPageContent({
      </section>
 
      <section className="mb-16">
-       <div className="max-w-6xl mx-auto px-8">
+       <div className="site-container px-8">
          <MediaCarousel logos={mediaLogos} />
        </div>
      </section>
@@ -388,7 +388,7 @@ export function CommunityPageContent({
 
      <section className="mb-16">
        <h2 className="text-3xl font-bold text-center mb-8">Multi-Channel Presence</h2>
-       <div className="max-w-5xl mx-auto">
+       <div className="site-container">
          <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-10">
            {channels.map((channel, i) => (
              <div key={i} className="flex gap-6">
@@ -411,9 +411,9 @@ export function CommunityPageContent({
       <h2 className="text-3xl font-bold text-center mb-2">Case Studies</h2>
       <p className="text-center text-muted-foreground mb-8">We’ve helped many companies find the right audience.</p>
       <Carousel
-        className="w-full max-w-6xl mx-auto"
+        className="site-container"
         opts={{
-          align: "start",
+          align:"start",
           loop: true,
         }}
         plugins={[Autoplay({ delay: 5000, stopOnInteraction: true })]}
@@ -470,7 +470,7 @@ export function CommunityPageContent({
       <h2 className="text-3xl font-bold text-center mb-2">Community Moments</h2>
       <p className="text-center text-muted-foreground mb-8">Highlights from events, partnerships, and community activities.</p>
       <Carousel 
-       className="w-full max-w-5xl mx-auto"
+       className="site-container"
        plugins={[plugin.current]}
        onMouseEnter={() => plugin.current.stop()}
        onMouseLeave={() => plugin.current.play()}
@@ -504,7 +504,7 @@ export function CommunityPageContent({
      </section>
 
      <section className="py-16 px-4 rounded-lg">
-      <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
+      <div className="grid md:grid-cols-2 gap-8 items-center site-container">
         <Carousel 
           className="w-full"
           plugins={[useRef(Autoplay({ delay: 3000, stopOnInteraction: false })).current]}
@@ -538,7 +538,7 @@ export function CommunityPageContent({
 
      <section className="mb-16">
       <h2 className="text-3xl font-bold text-center mb-8">What Our Community Says</h2>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-7xl mx-auto">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 site-container">
        {testimonials.map((testimonial, i) => (
          <Card key={i} className="shadow-sm flex flex-col">
           <CardContent className="p-8 text-center flex-grow flex flex-col justify-center">
@@ -555,7 +555,7 @@ export function CommunityPageContent({
      </section>
 
      <section className="py-16 px-4 rounded-lg">
-      <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
+      <div className="grid md:grid-cols-2 gap-8 items-center site-container">
         <div>
           <h2 className="text-4xl font-bold mt-2">Hire with Hashtag Web3</h2>
           <p className="mt-4 text-muted-foreground">
@@ -589,7 +589,7 @@ export function CommunityPageContent({
      </section>
      
      <section className="py-16">
-      <div className="max-w-4xl mx-auto text-center">
+      <div className="site-container text-center">
         <h2 className="text-3xl font-bold mb-2">Explore Our Resources</h2>
         <p className="text-muted-foreground mb-8">A complete suite of free tools and resources for professionals and companies building in the decentralized economy.</p>
         <div className="flex flex-wrap justify-center gap-2">

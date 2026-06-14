@@ -1,6 +1,5 @@
 
 import { JobBoard } from '@/components/job-board';
-import { Header } from '@/components/header';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
@@ -9,6 +8,7 @@ import { Rss } from 'lucide-react';
 import { FirebaseClientProvider } from '@/firebase/client-provider';
 import { SITE_STATS } from '@/lib/constants';
 import type { WebPage, JobPosting } from 'schema-dts';
+import { PageHeader } from "@/components/page-header";
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
@@ -21,13 +21,13 @@ export default async function JobsPage() {
  const pageSchema: WebPage = {
   '@type': 'WebPage',
   url: `${siteUrl}/jobs`,
-  name: "Web3 Jobs | Hashtag Web3",
+  name:"Web3 Jobs | Hashtag Web3",
   isPartOf: {
    '@type': 'WebSite',
    url: siteUrl,
    name: 'Hashtag Web3'
   },
-  description: "Find the best web3 jobs. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
+  description:"Find the best web3 jobs. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
  };
 
  const jobPostingsSchema: JobPosting[] = initialJobs.slice(0, 10).map(job => ({
@@ -61,15 +61,14 @@ export default async function JobsPage() {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingsSchema) }}
    />
    <div className="flex flex-col min-h-screen">
-    <Header />
-    <main className="flex-1">
-     <div className="container mx-auto py-8 px-4">
+        <main className="flex-1">
+     <div className="container mx-auto page-section px-4">
        <section className="text-center mb-8">
-         <div className="max-w-6xl mx-auto">
-           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-foreground">Find Your Next Web3 Job</h1>
+         <div className="site-container">
+           <PageHeader title="Find Your Next Web3 Job" />
          </div>
        </section>
-       <article className="max-w-6xl mx-auto">
+       <article className="site-container">
          <TrustedBy />
          <div className="text-center my-4 space-y-2">
            <Link

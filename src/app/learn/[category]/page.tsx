@@ -1,10 +1,10 @@
-import { Header } from '@/components/header';
 import { getCategory, getLessons } from '@/lib/learn';
 import { Badge } from '@/components/ui/badge';
 import { ChevronRight, Clock, ArrowLeft } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
+import { PageHeader } from "@/components/page-header";
 
 interface Props {
  params: { category: string };
@@ -48,9 +48,8 @@ export default function CategoryPage({ params }: Props) {
 
  return (
   <div className="flex flex-col min-h-screen">
-   <Header />
-   <main className="flex-grow">
-    <div className="container mx-auto px-4 py-8 max-w-3xl">
+      <main className="flex-grow">
+    <div className="container mx-auto px-4 page-section max-w-6xl">
      {/* Breadcrumb */}
      <nav className="flex items-center gap-2 text-sm text-muted-foreground mb-8">
       <Link href="/learn" className="hover:text-foreground transition-colors">Learn</Link>
@@ -59,9 +58,7 @@ export default function CategoryPage({ params }: Props) {
      </nav>
 
      <div className="mb-10">
-      <h1 className="text-3xl md:text-4xl font-bold mb-3 tracking-tight">
-       {category.title}
-      </h1>
+      <PageHeader title={category.title} />
       <p className="text-muted-foreground text-lg">
        {category.description}
       </p>

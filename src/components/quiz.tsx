@@ -15,7 +15,7 @@ interface QuizProps {
  questions: QuizQuestion[];
 }
 
-export function Quiz({ title = "Check your understanding", questions }: QuizProps) {
+export function Quiz({ title ="Check your understanding", questions }: QuizProps) {
  const [currentQ, setCurrentQ] = useState(0);
  const [selected, setSelected] = useState<number | null>(null);
  const [answered, setAnswered] = useState(false);

@@ -7,7 +7,7 @@ description: "A career guide for those interested in becoming a professional blo
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 In Proof-of-Stake (PoS) blockchains, **validators** serve as the essential components of the network. They process transactions, create new blocks, and ensure the security and integrity of the blockchain. While anyone with sufficient capital can establish a validator node, a new category has emerged: the **professional validator** or **[staking](/how-to-become-a-web3-staking-specialist)-as-a-service provider**. 

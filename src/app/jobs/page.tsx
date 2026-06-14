@@ -1,11 +1,11 @@
 import { JobBoard } from '@/components/job-board';
-import { Header } from '@/components/header';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
 import { Rss } from 'lucide-react';
 import type { Metadata } from 'next';
 import type { WebPage, JobPosting } from 'schema-dts';
+import { PageHeader } from "@/components/page-header";
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
@@ -37,12 +37,7 @@ export const metadata: Metadata = {
 
 export default async function JobsPage() {
  const initialJobs = await getJobs();
- const headlines = [
-   "Find Your Next Web3 Job",
-   "Discover Top Crypto Roles",
-   "Work in Blockchain",
-   "Explore DeFi Careers",
-   "Join a DAO Today"
+ const headlines = ["Find Your Next Web3 Job","Discover Top Crypto Roles","Work in Blockchain","Explore DeFi Careers","Join a DAO Today"
  ];
   
  const siteUrl = 'https://hashtagweb3.com';
@@ -110,15 +105,14 @@ export default async function JobsPage() {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
    />
    <div className="flex flex-col min-h-screen">
-    <Header />
-    <main className="flex-1">
-     <div className="container mx-auto py-8 px-4">
+        <main className="flex-1">
+     <div className="container mx-auto page-section px-4">
        <section className="text-center mb-8">
-         <div className="max-w-6xl mx-auto">
-           <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
+         <div className="site-container">
+           <PageHeader title={headlines[0]} />
          </div>
        </section>
-       <div className="max-w-6xl mx-auto">
+       <div className="site-container">
          <TrustedBy />
          <div className="text-center my-4 space-y-2">
            <Link
