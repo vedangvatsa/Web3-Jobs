@@ -7,7 +7,7 @@ description: "A snapshot is a record of the state of a blockchain at a specific 
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 In the [Web3](/what-is-web3) sector, the term **"snapshot"** holds significant importance. It denotes the process of capturing the complete state of a [blockchain](/what-is-a-blockchain) at a specific moment, marked by a particular block height. This recorded state serves as the authoritative reference for important events such as an **[airdrop](/understanding-airdrop-campaigns-in-web3)** or a governance vote.

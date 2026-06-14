@@ -7,7 +7,7 @@ description: "A career guide to the Web3 job market in Harare. Explore how Zimba
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 Harare, the capital of Zimbabwe, exemplifies resilience in the face of economic adversity. With a history of hyperinflation and currency instability, residents have turned to [Web3](/what-is-web3) technologies as vital tools for financial survival. For many in Harare, cryptocurrency serves not as a speculative investment but as a means of wealth preservation, enabling cross-border transactions and access to the global digital economy. This necessity has cultivated a strong grassroots Web3 community that is both knowledgeable and proactive.

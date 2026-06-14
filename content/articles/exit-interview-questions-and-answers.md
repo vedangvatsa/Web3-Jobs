@@ -8,7 +8,7 @@ image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "exit interview conversation"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 When a valuable employee resigns, organizations often focus on quickly filling the vacancy. However, the time between the employee’s notice and their last day offers a unique opportunity: the exit [interview](/how-to-prepare-for-job-interview). 

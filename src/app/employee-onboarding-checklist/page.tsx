@@ -2,7 +2,6 @@
 'use client';
 
 import * as React from 'react';
-import { Header } from '@/components/header';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Checkbox } from '@/components/ui/checkbox';
@@ -24,6 +23,7 @@ import jsPDF from 'jspdf';
 import { Separator } from '@/components/ui/separator';
 import { Rss } from 'lucide-react';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import { PageHeader } from "@/components/page-header";
 
 const checklistData = {
  sections: [
@@ -34,7 +34,7 @@ const checklistData = {
     'Send welcome email with first-day logistics (start time, schedule).',
     'Ship hardware (laptop, monitor) & company swag.',
     'Grant access to core systems (email, Slack/Discord, Notion).',
-    'Assign an "onboarding buddy" or mentor.',
+    'Assign an"onboarding buddy" or mentor.',
     'Share pre-reading materials: company vision, whitepaper, and key articles.',
     'Send crypto wallet setup guide and security best practices.',
    ],
@@ -56,7 +56,7 @@ const checklistData = {
    icon: BookOpen,
    items: [
     'Schedule 1-on-1s with key team members across departments.',
-    'Provide a curated "rabbit hole" list of essential podcasts/articles.',
+    'Provide a curated"rabbit hole" list of essential podcasts/articles.',
     'Assign their first small, achievable task to get an early win.',
     'Invite them to all relevant team and community calls.',
     'Give them a small crypto budget to use the company\'s own product.',
@@ -90,11 +90,7 @@ function ChecklistItem({ id, label }: { id: string; label: string }) {
 }
 
 export default function EmployeeOnboardingChecklistPage() {
-  const headlines = [
-    "Web3 Onboarding Checklist",
-    "A Framework for Success",
-    "Integrate Your New Hire",
-    "From Day 1 to DAO Contributor"
+  const headlines = ["Web3 Onboarding Checklist","A Framework for Success","Integrate Your New Hire","From Day 1 to DAO Contributor"
   ];
 
   const { toast } = useToast();
@@ -105,17 +101,16 @@ export default function EmployeeOnboardingChecklistPage() {
 
  return (
   <div className="flex flex-col min-h-screen">
-   <Header />
-   <main className="flex-1">
+      <main className="flex-1">
     <ToolUsageTracker toolName="Employee Onboarding Checklist" />
-    <div className="container mx-auto px-4 py-8 md:py-16">
-     <section className="text-center mb-12 max-w-4xl mx-auto">
+    <div className="container mx-auto px-4 page-section">
+     <section className="text-center mb-12 site-container">
        
-      <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
+      <PageHeader title={headlines[0]} />
       <p className="mt-4 text-muted-foreground">A practical onboarding checklist for Web3 teams, from pre-boarding to 90-day execution.</p>
      </section>
 
-     <div className="max-w-5xl mx-auto space-y-8">
+     <div className="site-container space-y-8">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
        {checklistData.sections.map((section, sectionIndex) => (
         <Card key={section.title} className="flex flex-col bg-card">

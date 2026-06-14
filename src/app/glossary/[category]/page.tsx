@@ -1,4 +1,3 @@
-import { Header } from '@/components/header';
 import { getTermsByCategory, getCategory, getAllCategorySlugs } from '@/lib/glossary';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -7,6 +6,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { generateCollectionPageSchema } from '@/lib/seo-utils';
+import { PageHeader } from "@/components/page-header";
 
 // Category descriptions
 const CATEGORY_CONTENT: Record<string, { description: string }> = {
@@ -130,20 +130,17 @@ export default async function CategoryPage({ params }: { params: { category: str
     type="application/ld+json"
     dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }}
    />
-   <Header />
-   <main className="flex-grow">
+      <main className="flex-grow">
     {/* Hero Section */}
     <section className="border-b">
-     <div className="container mx-auto px-4 py-12 md:py-20 max-w-7xl">
+     <div className="container mx-auto px-4 page-section max-w-6xl">
       <div className="max-w-3xl">
        <div className="mb-4">
         <Link href="/glossary" className="text-sm text-muted-foreground hover:text-primary">
          ← Web3 Glossary
         </Link>
        </div>
-       <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">
-        {category.name}
-       </h1>
+       <PageHeader title={category.name} />
        <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
         {content?.description || category.description}
        </p>
@@ -176,7 +173,7 @@ export default async function CategoryPage({ params }: { params: { category: str
     </section>
 
     {/* Terms Grid */}
-    <section className="container mx-auto px-4 py-12 max-w-7xl">{/* Beginner Terms */}
+    <section className="container mx-auto px-4 py-12 max-w-6xl">{/* Beginner Terms */}
      {beginnerTerms.length > 0 && (
       <div className="mb-12">
        <div className="flex items-center gap-3 mb-6">

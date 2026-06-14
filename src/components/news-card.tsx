@@ -16,7 +16,7 @@ export function NewsCard({ item }: { item: NewsItem }) {
   }, [item.pubDate]);
 
   return (
-    <Card className="bg-card ">
+    <Card className="bg-card">
       <CardContent className="p-4">
         <a href={item.link} target="_blank" rel="noopener noreferrer" className="block hover:bg-accent/20 rounded-md p-3">
           <p className="text-xs text-primary font-semibold">{item.source}</p>

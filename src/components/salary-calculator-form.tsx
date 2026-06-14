@@ -40,10 +40,10 @@ const salarySchema = z.object({
   required_error: 'Please select your location',
  }),
  companyType: z.enum(['pre_seed', 'seed', 'series_a', 'growth', 'public'], {
-   required_error: "Please select a company type"
+   required_error:"Please select a company type"
  }),
  companySize: z.enum(['1_10', '11_50', '51_200', '201_plus'], {
-   required_error: "Please select a company size"
+   required_error:"Please select a company size"
  }),
 });
 
@@ -137,20 +137,16 @@ export function SalaryCalculatorForm() {
   setIsCalculated(true);
  };
   
- const headlines = [
-   "Web3 Salary Calculator",
-   "Estimate Your Earnings",
-   "Know Your Worth in Web3",
-   "Crypto Salary Insights"
+ const headlines = ["Web3 Salary Calculator","Estimate Your Earnings","Know Your Worth in Web3","Crypto Salary Insights"
  ];
 
  return (
     <div className="container mx-auto px-4 py-8 md:py-16">
-     <section className="text-center mb-12 max-w-4xl mx-auto">
+     <section className="text-center mb-12 site-container">
       <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
      </section>
 
-     <div className="max-w-4xl mx-auto">
+     <div className="site-container">
       <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
         <div className="md:col-span-3">
         <Card className="bg-background border border-white/10">
@@ -360,7 +356,7 @@ export function SalaryCalculatorForm() {
         <div className="md:col-span-2">
           <div className="sticky top-[72px]">
           {isCalculated && estimatedSalary !== null ? (
-          <Card className="bg-muted/30 border shadow-none transition-all duration-300 animate-in fade-in ">
+          <Card className="bg-muted/30 border shadow-none transition-all duration-300 animate-in fade-in">
             <CardHeader className="text-center">
             <div className="mx-auto bg-primary/10 p-3 rounded-full w-fit mb-2">
                 <Sparkles className="h-8 w-8 text-primary" />
@@ -383,7 +379,7 @@ export function SalaryCalculatorForm() {
             </CardContent>
           </Card>
           ) : (
-            <Card className="bg-background border-dashed h-full flex flex-col justify-center items-center text-center p-8 ">
+            <Card className="bg-background border-dashed h-full flex flex-col justify-center items-center text-center p-8">
               <Calculator className="h-12 w-12 text-muted-foreground mb-4" />
               <h3 className="font-semibold text-lg">Your Estimate Will Appear Here</h3>
               <p className="text-muted-foreground text-sm mt-2">Fill out the form to see your potential Web3 salary.</p>
@@ -392,7 +388,7 @@ export function SalaryCalculatorForm() {
           </div>
         </div>
       </div>
-       <Card className="mt-12 col-span-full bg-muted/30 border shadow-none ">
+       <Card className="mt-12 col-span-full bg-muted/30 border shadow-none">
         <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
           
           <div>

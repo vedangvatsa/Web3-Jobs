@@ -7,7 +7,7 @@ description: "Your traditional resume isn't enough for the crypto space. Learn h
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 In the competitive [Web3](/what-is-web3) job market, your resume serves as the initial point of contact with recruiters and hiring managers. A conventional Web2 resume, which often includes a list of past employers and clichéd bullet points, typically does not meet the expectations of Web3 hiring professionals. The Web3 industry values transparency, on-chain accomplishments, and community engagement, necessitating a resume that effectively communicates your alignment with these principles.

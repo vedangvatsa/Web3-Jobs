@@ -1,14 +1,14 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { usePathname } from "next/navigation";
+import { useEffect, useState } from"react";
+import { usePathname } from"next/navigation";
 
 export function PromoPopup() {
   const [isOpen, setIsOpen] = useState(false);
   const pathname = usePathname();
 
   useEffect(() => {
-    if (pathname === "/") return;
+    if (pathname ==="/") return;
     if (localStorage.getItem("hw3_popup_dismissed")) return;
     const t = setTimeout(() => setIsOpen(true), 5000);
     return () => clearTimeout(t);
@@ -16,7 +16,7 @@ export function PromoPopup() {
 
   const dismiss = () => {
     setIsOpen(false);
-    localStorage.setItem("hw3_popup_dismissed", "true");
+    localStorage.setItem("hw3_popup_dismissed","true");
   };
 
   if (!isOpen) return null;

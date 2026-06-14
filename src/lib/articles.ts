@@ -31,7 +31,7 @@ function readArticlesFromDirectory(directory: string): Omit<Article, 'content' |
    const data = matterResult.data;
 
    if (typeof data.title !== 'string' || !data.title) {
-    console.warn(`Article with slug "${slug}" is missing a title.`);
+    console.warn(`Article with slug"${slug}" is missing a title.`);
     return null;
    }
 
@@ -100,7 +100,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
   const data = matterResult.data;
 
   if (typeof data.title !== 'string' || !data.title) {
-   console.error(`Article with slug "${slug}" is missing a title.`);
+   console.error(`Article with slug"${slug}" is missing a title.`);
    return undefined;
   }
 

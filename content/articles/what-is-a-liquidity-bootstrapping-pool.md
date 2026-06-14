@@ -7,7 +7,7 @@ description: "A Liquidity Bootstrapping Pool (LBP) is a type of token sale mecha
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 A **Liquidity Bootstrapping Pool (LBP)** serves as an new token launch mechanism that promotes fair price discovery and distribution for emerging crypto projects. This approach, developed by Balancer, enhances the traditional **[Initial DEX Offering (IDO)](/initial-dex-offering-complete-guide)** model by incorporating dynamic weighting, thus making it less susceptible to manipulation by bots.

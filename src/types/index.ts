@@ -18,7 +18,7 @@ export interface Article {
  rawContent?: string;
  category: string;
  ['data-ai-hint']?: string;
- publishedDate?: string; // ISO date string e.g. "2025-06-01"
+ publishedDate?: string; // ISO date string e.g."2025-06-01"
  lastUpdated?: string;  // ISO date string, updated on each deploy
 }
 

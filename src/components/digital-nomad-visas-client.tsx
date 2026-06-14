@@ -66,21 +66,7 @@ function getFlagEmoji(countryName: string): string {
   return String.fromCodePoint(...codePoints);
 }
 
-const countryMap: Record<string, string> = {
-  "AL": "Albania", "AG": "Antigua and Barbuda", "AR": "Argentina", "AM": "Armenia", 
-  "AW": "Aruba", "BS": "Bahamas", "BB": "Barbados", "BT": "Bhutan", "BZ": "Belize", "BM": "Bermuda", 
-  "BR": "Brazil", "BG": "Bulgaria", "KH": "Cambodia", "CV": "Cabo Verde", "KY": "Cayman Islands", 
-  "CO": "Colombia", "CR": "Costa Rica", "HR": "Croatia", "CW": "Curacao", "CY": "Cyprus", 
-  "CZ": "Czech Republic", "DM": "Dominica", "EC": "Ecuador", "SV": "El Salvador", "EE": "Estonia", 
-  "FR": "France", "GE": "Georgia", "DE": "Germany", "GR": "Greece", "GD": "Grenada", "HU": "Hungary", 
-  "IS": "Iceland", "ID": "Indonesia", "IE": "Ireland", "IT": "Italy", "JP": "Japan", 
-  "LV": "Latvia", "MY": "Malaysia", "MT": "Malta", "MU": "Mauritius", "MX": "Mexico", 
-  "ME": "Montenegro", "MS": "Montserrat", "MA": "Morocco", "NA": "Namibia", "NL": "Netherlands", 
-  "MK": "North Macedonia", "NO": "Norway", "PA": "Panama", "PY": "Paraguay", "PE": "Peru", 
-  "PH": "Philippines", "PL": "Poland", "PT": "Portugal", "PR": "Puerto Rico", "RO": "Romania",
-  "LC": "Saint Lucia", "RS": "Serbia", "SC": "Seychelles", "ZA": "South Africa", "KR": "South Korea", 
-  "ES": "Spain", "LK": "Sri Lanka", "TW": "Taiwan", "TH": "Thailand", "TR": "Turkey", 
-  "AE": "UAE (Dubai)", "UY": "Uruguay", "VN": "Vietnam"
+const countryMap: Record<string, string> = {"AL":"Albania","AG":"Antigua and Barbuda","AR":"Argentina","AM":"Armenia","AW":"Aruba","BS":"Bahamas","BB":"Barbados","BT":"Bhutan","BZ":"Belize","BM":"Bermuda","BR":"Brazil","BG":"Bulgaria","KH":"Cambodia","CV":"Cabo Verde","KY":"Cayman Islands","CO":"Colombia","CR":"Costa Rica","HR":"Croatia","CW":"Curacao","CY":"Cyprus","CZ":"Czech Republic","DM":"Dominica","EC":"Ecuador","SV":"El Salvador","EE":"Estonia","FR":"France","GE":"Georgia","DE":"Germany","GR":"Greece","GD":"Grenada","HU":"Hungary","IS":"Iceland","ID":"Indonesia","IE":"Ireland","IT":"Italy","JP":"Japan","LV":"Latvia","MY":"Malaysia","MT":"Malta","MU":"Mauritius","MX":"Mexico","ME":"Montenegro","MS":"Montserrat","MA":"Morocco","NA":"Namibia","NL":"Netherlands","MK":"North Macedonia","NO":"Norway","PA":"Panama","PY":"Paraguay","PE":"Peru","PH":"Philippines","PL":"Poland","PT":"Portugal","PR":"Puerto Rico","RO":"Romania","LC":"Saint Lucia","RS":"Serbia","SC":"Seychelles","ZA":"South Africa","KR":"South Korea","ES":"Spain","LK":"Sri Lanka","TW":"Taiwan","TH":"Thailand","TR":"Turkey","AE":"UAE (Dubai)","UY":"Uruguay","VN":"Vietnam"
 };
 
 export function DigitalNomadVisasContent() {
@@ -100,17 +86,13 @@ export function DigitalNomadVisasContent() {
     }).sort((a, b) => a.country.localeCompare(b.country));
   }, [searchTerm, selectedContinent]);
 
-  const headlines = [
-    "Work From Anywhere Visa List",
-    "Your Guide to Global Web3",
-    "Digital Nomad Visa Database",
-    "Live and Work Globally"
+  const headlines = ["Work From Anywhere Visa List","Your Guide to Global Web3","Digital Nomad Visa Database","Live and Work Globally"
   ];
 
   return (
-    <div className="max-w-7xl mx-auto">
+    <div className="site-container">
       <ToolUsageTracker toolName="Digital Nomad Visas" />
-      <section className="text-center mb-12 max-w-4xl mx-auto">
+      <section className="text-center mb-12 site-container">
         <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
       </section>
 

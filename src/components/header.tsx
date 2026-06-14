@@ -12,45 +12,45 @@ import {
  DropdownMenuTrigger,
  DropdownMenuLabel,
  DropdownMenuSeparator,
-} from "@/components/ui/dropdown-menu"
+} from"@/components/ui/dropdown-menu"
 import { MobileNav } from './mobile-nav';
 
 const mainNavLinks = [
- { href: "/", label: "Jobs", icon: Briefcase },
- { href: "/events", label: "Events", icon: Calendar },
- { href: "/news", label: "News", icon: Newspaper },
- { href: "/community", label: "Community", icon: Users },
+ { href:"/", label:"Jobs", icon: Briefcase },
+ { href:"/events", label:"Events", icon: Calendar },
+ { href:"/news", label:"News", icon: Newspaper },
+ { href:"/community", label:"Community", icon: Users },
 ];
 
 const resourceLinks = [
- { href: "/resources", label: "All Resources", icon: ListChecks },
- { href: "/companies", label: "Companies", icon: Building2 },
- { href: "/learn", label: "Learn Web3", icon: GraduationCap },
- { href: "/blog", label: "Playbook", icon: BookOpen },
- { href: "/glossary", label: "Glossary", icon: Library },
+ { href:"/resources", label:"All Resources", icon: ListChecks },
+ { href:"/companies", label:"Companies", icon: Building2 },
+ { href:"/learn", label:"Learn Web3", icon: GraduationCap },
+ { href:"/blog", label:"Playbook", icon: BookOpen },
+ { href:"/glossary", label:"Glossary", icon: Library },
 ];
 
 const employeeLinks = [
- { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
- { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
- { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
- { href: "/freelance-rates-by-industry", label: "Freelance Rates by Industry", icon: DollarSign },
- { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
- { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
- { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
- { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
+ { href:"/interview-questions", label:"Interview Questions", icon: BookOpen },
+ { href:"/web3-career-quiz", label:"Archetype Assessment", icon: BrainCircuit },
+ { href:"/salary-calculator", label:"Salary Calculator", icon: Calculator },
+ { href:"/freelance-rates-by-industry", label:"Freelance Rates by Industry", icon: DollarSign },
+ { href:"/resume-builder", label:"Resume Builder", icon: FileSignature },
+ { href:"/invoice-generator", label:"Invoice Generator", icon: FileText },
+ { href:"/digital-nomad-visas", label:"Digital Nomad Visas", icon: Globe },
+ { href:"/remote-work-checklist", label:"Remote Checklist", icon: ListChecks },
 ];
 
 const employerLinks = [
- { href: "/jd-builder", label: "JD Builder", icon: ClipboardEdit },
- { href: "/offer-letter-customizer", label: "Offer Letter Customizer", icon: FileSignature },
- { href: "/employee-onboarding-checklist", label: "Onboarding Checklist", icon: ListChecks },
- { href: "/interview-feedback-template", label: "Interview Feedback", icon: Mic },
- { href: "/employee-exit-survey", label: "Employee Exit Survey", icon: UserMinus },
- { href: "/employee-milestones-tracker", label: "Milestones Tracker", icon: Milestone },
- { href: "/employee-engagement-survey", label: "Engagement Survey", icon: Smile },
- { href: "/work-life-balance-survey", label: "Work-Life Balance Survey", icon: Scale },
- { href: "/company-culture-guide", label: "Company Culture Guide", icon: Users },
+ { href:"/jd-builder", label:"JD Builder", icon: ClipboardEdit },
+ { href:"/offer-letter-customizer", label:"Offer Letter Customizer", icon: FileSignature },
+ { href:"/employee-onboarding-checklist", label:"Onboarding Checklist", icon: ListChecks },
+ { href:"/interview-feedback-template", label:"Interview Feedback", icon: Mic },
+ { href:"/employee-exit-survey", label:"Employee Exit Survey", icon: UserMinus },
+ { href:"/employee-milestones-tracker", label:"Milestones Tracker", icon: Milestone },
+ { href:"/employee-engagement-survey", label:"Engagement Survey", icon: Smile },
+ { href:"/work-life-balance-survey", label:"Work-Life Balance Survey", icon: Scale },
+ { href:"/company-culture-guide", label:"Company Culture Guide", icon: Users },
 ];
 
 export function Header() {
@@ -67,7 +67,7 @@ export function Header() {
  };
 
  return (
-  <header className="sticky top-0 z-30 w-full border-b bg-background ">
+  <header className="sticky top-0 z-30 w-full border-b bg-background">
    <Script
     id="site-navigation-schema"
     type="application/ld+json"

@@ -76,6 +76,14 @@ body {
 
 /* Premium editorial styling for markdown content */
 @layer components {
+  .site-container {
+    @apply max-w-6xl mx-auto w-full;
+  }
+
+  .page-section {
+    @apply py-10 md:py-16;
+  }
+
   /* Tables: clean card-style matching tech-talent report */
   .article-prose table,
   .prose table {

@@ -4,6 +4,7 @@ import { cn } from '@/lib/utils';
 import './globals.css';
 import { Inter } from 'next/font/google';
 import { Footer } from '@/components/footer';
+import { Header } from '@/components/header';
 import Script from 'next/script';
 import type { WebSite, Organization } from 'schema-dts';
 
@@ -33,9 +34,9 @@ const inter = Inter({
 });
 
 const siteConfig = {
- name: "Hashtag Web3",
- description: "Find verified Web3 jobs, crypto careers, salary data, and practical guides. Updated daily for builders, marketers, and product teams.",
- url: "https://hashtagweb3.com",
+ name:"Hashtag Web3",
+ description:"Find verified Web3 jobs, crypto careers, salary data, and practical guides. Updated daily for builders, marketers, and product teams.",
+ url:"https://hashtagweb3.com",
 };
 
 const ogImageUrl = `/api/og?type=default&title=Hashtag%20Web3`;
@@ -47,12 +48,12 @@ export const metadata: Metadata = {
   template: `%s | ${siteConfig.name}`,
  },
  description: siteConfig.description,
- keywords: ["web3 jobs", "blockchain jobs", "crypto jobs", "developer jobs", "web3 careers", "solidity jobs", "smart contract jobs", "defi jobs", "dao jobs", "remote web3 jobs", "blockchain developer salary"],
- authors: [{ name: "Hashtag Web3", url: siteConfig.url }],
- creator: "Hashtag Web3",
+ keywords: ["web3 jobs","blockchain jobs","crypto jobs","developer jobs","web3 careers","solidity jobs","smart contract jobs","defi jobs","dao jobs","remote web3 jobs","blockchain developer salary"],
+ authors: [{ name:"Hashtag Web3", url: siteConfig.url }],
+ creator:"Hashtag Web3",
  openGraph: {
-  type: "website",
-  locale: "en_US",
+  type:"website",
+  locale:"en_US",
   url: siteConfig.url,
   title: {
    default: `Web3 Jobs and Crypto Careers | ${siteConfig.name}`,
@@ -70,13 +71,13 @@ export const metadata: Metadata = {
   ],
  },
  twitter: {
-  card: "summary_large_image",
+  card:"summary_large_image",
   title: {
    default: `Web3 Jobs and Crypto Careers | ${siteConfig.name}`,
    template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
-  creator: "@hashtag_web3",
+  creator:"@hashtag_web3",
   images: [ogImageUrl],
  },
  alternates: {
@@ -195,6 +196,7 @@ export default async function RootLayout({
      <Suspense fallback={null}>
       <PostHogPageView />
      </Suspense>
+     <Header />
      <div className="flex-grow">
       {children}
      </div>

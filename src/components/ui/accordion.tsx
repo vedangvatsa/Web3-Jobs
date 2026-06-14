@@ -1,10 +1,10 @@
 "use client"
 
-import * as React from "react"
-import * as AccordionPrimitive from "@radix-ui/react-accordion"
-import { ChevronDown } from "lucide-react"
+import * as React from"react"
+import * as AccordionPrimitive from"@radix-ui/react-accordion"
+import { ChevronDown } from"lucide-react"
 
-import { cn } from "@/lib/utils"
+import { cn } from"@/lib/utils"
 
 const Accordion = AccordionPrimitive.Root
 
@@ -18,7 +18,7 @@ const AccordionItem = React.forwardRef<
   {...props}
  />
 ))
-AccordionItem.displayName = "AccordionItem"
+AccordionItem.displayName ="AccordionItem"
 
 const AccordionTrigger = React.forwardRef<
  React.ElementRef<typeof AccordionPrimitive.Trigger>,
@@ -27,8 +27,7 @@ const AccordionTrigger = React.forwardRef<
  <AccordionPrimitive.Header className="flex">
   <AccordionPrimitive.Trigger
    ref={ref}
-   className={cn(
-    "flex flex-1 items-center justify-between py-4 font-medium transition-all hover:underline [&[data-state=open]>svg]:rotate-180",
+   className={cn("flex flex-1 items-center justify-between py-4 font-medium transition-all hover:underline [&[data-state=open]>svg]:rotate-180",
     className
    )}
    {...props}

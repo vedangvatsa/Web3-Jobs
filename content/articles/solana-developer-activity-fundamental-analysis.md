@@ -7,7 +7,7 @@ category: "Industry Insights"
 data-ai-hint: "man coding laptop"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 ## Solana's "Slowdown": A Fundamental Analysis of Developer Activity

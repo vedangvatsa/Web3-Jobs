@@ -3,7 +3,6 @@ import { getArticle, getAllArticles } from '@/lib/articles';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
 import { notFound } from 'next/navigation';
-import { Header } from '@/components/header';
 import { GlossaryCTA } from '@/components/glossary-cta';
 import { GlossaryCharts } from '@/components/glossary-charts';
 import Image from 'next/image';
@@ -17,6 +16,7 @@ import { cn } from '@/lib/utils';
 import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryMetaDescription, extractFAQSchema, extractHowToSchema } from '@/lib/seo-utils';
 import { GlossaryViewTracker } from '@/components/tracking/glossary-view-tracker';
 import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
+import { PageHeader } from "@/components/page-header";
 
 type ArticlePageProps = {
  params: {
@@ -165,7 +165,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const termCollision = await getTerm(params.slug);
   const articleCollision = await getArticle(params.slug);
   if (termCollision || articleCollision) {
-   console.warn(`[slug collision] "${params.slug}" resolved as resource, but also matches: ${[termCollision ? 'glossary term' : '', articleCollision ? 'article' : ''].filter(Boolean).join(', ')}`);
+   console.warn(`[slug collision]"${params.slug}" resolved as resource, but also matches: ${[termCollision ? 'glossary term' : '', articleCollision ? 'article' : ''].filter(Boolean).join(', ')}`);
   }
   const siteUrl = 'https://hashtagweb3.com';
   const pageUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
@@ -257,10 +257,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
      type="application/ld+json"
      dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
     />
-    <Header />
-    <main className="flex-1">
+        <main className="flex-1">
      <div className="bg-background">
-      <article className="container mx-auto px-4 py-8 max-w-7xl">
+      <article className="container mx-auto px-4 page-section max-w-6xl">
        <div className="grid md:grid-cols-[1fr_300px] gap-8">
         {/* Main Content */}
         <div>
@@ -270,9 +269,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             ← Web3 Glossary
            </a>
           </div>
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-           {term.term}
-          </h1>
+          <PageHeader title={term.term} />
           <p className="text-xl text-muted-foreground mb-4">
            {term.description}
           </p>
@@ -383,7 +380,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
  const siteUrl = 'https://hashtagweb3.com';
  const imageUrl = article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`;
 
- const scholarlyCategories = ["AI & The Future of Work", "Web3 Career Guides"];
+ const scholarlyCategories = ["AI & The Future of Work","Web3 Career Guides"];
  const isScholarly = scholarlyCategories.includes(article.category);
 
  const faqSchema = article.rawContent ? extractFAQSchema(article.rawContent) : null;
@@ -463,10 +460,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
      dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
     />
    )}
-   <Header />
-   <main className="flex-1">
+      <main className="flex-1">
     <div className="bg-[#fafafa] dark:bg-black transition-colors duration-200">
-      <article className="w-full max-w-4xl mx-auto px-6 py-12 md:py-16">
+      <article className="site-container px-6 page-section">
        <div>
          <Suspense fallback={<div>Loading...</div>}>
           <header className="mb-12">
@@ -478,9 +474,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
              </time>
             </p>
            )}
-           <h1 className="text-3xl sm:text-4xl md:text-[2.8rem] font-headline font-bold tracking-tight text-zinc-900 dark:text-zinc-50 leading-[1.15] mb-6">
-            {article.title}
-           </h1>
+           <PageHeader title={article.title} />
            <p className="text-[17px] text-zinc-500 dark:text-zinc-400 leading-[1.8] max-w-3xl">
             {article.description}
            </p>
@@ -488,9 +482,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           
           {article.image && (
            <div
-            className={cn(
-             "relative w-full md:max-w-4xl overflow-hidden rounded-lg shadow-sm mb-8",
-             "aspect-[16/9] max-h-[280px] sm:max-h-[320px] md:max-h-[360px]"
+            className={cn("relative w-full md:max-w-6xl overflow-hidden rounded-lg shadow-sm mb-8","aspect-[16/9] max-h-[280px] sm:max-h-[320px] md:max-h-[360px]"
             )}
            >
             <Image

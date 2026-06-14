@@ -183,7 +183,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
         if (countryFilter === 'Online') {
           matchesCountry = event.location === 'Online' || event.location?.toLowerCase().includes('online');
         } else {
-          matchesCountry = normalizeCountry(event.country || "") === countryFilter || event.location?.includes(countryFilter);
+          matchesCountry = normalizeCountry(event.country ||"") === countryFilter || event.location?.includes(countryFilter);
         }
       }
 
@@ -241,7 +241,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
   return (
     <div>
       {/* Search + Filters */}
-      <div className="mb-8 max-w-6xl mx-auto">
+      <div className="mb-8 site-container">
         <div className="flex flex-col sm:flex-row gap-3">
           <div className="relative flex-1">
             <Input

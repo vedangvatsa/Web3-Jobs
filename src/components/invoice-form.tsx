@@ -110,7 +110,7 @@ const InvoicePreview = ({ data }: { data: InvoiceFormData }) => {
           {data.logo ? (
              <img src={data.logo} alt="Company Logo" className="h-16 w-auto object-contain" />
           ) : (
-            <h2 className="text-2xl font-bold text-foreground">{data.fromName || "Your Company"}</h2>
+            <h2 className="text-2xl font-bold text-foreground">{data.fromName ||"Your Company"}</h2>
           )}
         </div>
         <div className="text-right">

@@ -7,7 +7,7 @@ description: "A career guide to the Web3 job market in Rabat. Explore how Morocc
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 Rabat, the political and administrative capital of Morocco, is establishing a important role within the country's expanding [Web3](/what-is-web3) ecosystem. While Casablanca serves as the economic powerhouse, Rabat focuses on governance, policy formulation, and research. This distinction positions the city as a important hub for "GovTech" (government technology) projects, enterprise [blockchain](/what-is-a-blockchain) solutions, and vital discussions surrounding the regulation of digital assets in Morocco.

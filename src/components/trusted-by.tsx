@@ -13,7 +13,7 @@ export function TrustedBy() {
 
   return (
     <section className="pb-6">
-      <div className="mx-auto max-w-4xl px-4">
+      <div className="site-container px-4">
         <div className="flex flex-col items-center">
           <h2 className="text-center text-xs font-semibold text-muted-foreground tracking-wider uppercase mb-3">
             Jobs from companies like:

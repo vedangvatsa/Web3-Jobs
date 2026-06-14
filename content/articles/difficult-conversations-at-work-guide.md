@@ -7,7 +7,7 @@ description: "From giving critical feedback to addressing conflict, difficult co
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "difficult conversation meeting"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 ## Importance of Handling Difficult Conversations

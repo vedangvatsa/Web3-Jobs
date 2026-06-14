@@ -28,7 +28,7 @@ export function RelatedArticles({ allArticles, currentCategory, currentSlug }: R
  }
 
  return (
-  <div className="my-16 max-w-4xl mx-auto px-4">
+  <div className="my-16 site-container px-4">
    <h2 className="text-2xl font-bold text-center mb-8 flex items-center justify-center gap-3"><BookOpen className="h-6 w-6"/> Related Reading</h2>
    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
     {related.map(article => (

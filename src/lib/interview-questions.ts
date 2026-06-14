@@ -112,7 +112,7 @@ export const interviewData: {
               example: `// Solidity ^0.8.x
 address public owner;
 modifier onlyOwner() {
-  require(msg.sender == owner, "Not the owner");
+  require(msg.sender == owner,"Not the owner");
   _; // Function body executes here
 }
 function changeOwner(address _newOwner) public onlyOwner {
@@ -173,7 +173,7 @@ function changeOwner(address _newOwner) public onlyOwner {
             ],
             scoringRubric: {
               1: 'Cannot explain the difference.',
-              3: 'Knows ERC-20 is for "coins" and ERC-721 is for "NFTs" but lacks technical depth.',
+              3: 'Knows ERC-20 is for"coins" and ERC-721 is for"NFTs" but lacks technical depth.',
               5: 'Clearly explains fungibility and the key functional differences between the standards.'
             },
             expectedTime: '90 seconds'
@@ -229,7 +229,7 @@ function changeOwner(address _newOwner) public onlyOwner {
                 '1. Checks: First, perform all validation (e.g., `require(balance > 0)`).',
                 '2. Effects: Second, update the contract\'s internal state (e.g., `balances[msg.sender] = 0`). This is the critical step.',
                 '3. Interactions: Last, call any external contracts or send Ether.',
-                'By updating the state *before* the external call, the contract\'s state is consistent even if the external contract calls back (re-enters). The re-entrant call will fail the initial "check" because the state has already been updated.'
+                'By updating the state *before* the external call, the contract\'s state is consistent even if the external contract calls back (re-enters). The re-entrant call will fail the initial"check" because the state has already been updated.'
               ],
               example: `// Vulnerable to reentrancy
 function withdraw_bad() public {
@@ -262,7 +262,7 @@ function withdraw_good() public {
               'Following this pattern is a fundamental security best practice.'
             ],
             followUps: [
-              'What is a "read-only" reentrancy attack?',
+              'What is a"read-only" reentrancy attack?',
               'How does a reentrancy guard or mutex work as an alternative?',
               'Why is using `.transfer()` or `.send()` no longer the recommended protection against reentrancy?'
             ],
@@ -327,7 +327,7 @@ function withdraw_good() public {
               coreIdea: 'Variables in a struct should be ordered from the smallest data type to the largest, so the EVM can pack smaller variables into a single 256-bit storage slot.',
               keyPoints: [
                 'The EVM operates on 32-byte (256-bit) words. Writing to a new storage slot is very expensive (`SSTORE` opcode).',
-                'If multiple variables can fit into a single 32-byte slot, the compiler will "pack" them together.',
+                'If multiple variables can fit into a single 32-byte slot, the compiler will"pack" them together.',
                 'To enable packing, declare variables smaller than 32 bytes next to each other. The optimal order is by size (e.g., `uint64`, `uint64`, `uint128`, `uint256`).'
               ],
               example: `// Inefficient: Uses 3 storage slots
@@ -416,7 +416,7 @@ struct Packed {
             id: 'SOL-A-02',
             difficulty: 'Advanced',
             category: 'Knowledge',
-            question: 'What is the "CREATE2" opcode and what are its primary use cases?',
+            question: 'What is the"CREATE2" opcode and what are its primary use cases?',
             idealAnswer: {
               coreIdea: 'CREATE2 is an opcode that allows for the creation of a contract at a deterministic address, an address that can be known in advance of deployment.',
               keyPoints: [
@@ -497,17 +497,17 @@ struct Packed {
             id: 'SOL-E-02',
             difficulty: 'Expert',
             category: 'Risk',
-            question: 'What is Maximal Extractable Value (MEV) and how can a "sandwich attack" affect a user of a DEX?',
+            question: 'What is Maximal Extractable Value (MEV) and how can a"sandwich attack" affect a user of a DEX?',
             idealAnswer: {
               coreIdea: 'MEV is the profit a block producer can make by reordering, inserting, or censoring transactions within a block. A sandwich attack is a common MEV strategy that exploits this power.',
               keyPoints: [
                 'Block producers (validators) have the power to decide the order of transactions in a block.',
-                'MEV "searchers" are bots that monitor the public mempool for profitable opportunities.',
+                'MEV"searchers" are bots that monitor the public mempool for profitable opportunities.',
                 'A Sandwich Attack unfolds as follows:',
                 '1. A searcher sees a large user buy order for Token A on a DEX in the mempool.',
                 '2. The searcher front-runs the user by placing their own buy order for Token A with a higher gas fee, ensuring it executes first. This slightly increases the price.',
                 '3. The user\'s original buy order executes at a slightly worse price (higher slippage) than they expected.',
-                '4. The searcher then back-runs the user by immediately selling their Token A, capitalizing on the price increase they caused. The user\'s trade is "sandwiched".',
+                '4. The searcher then back-runs the user by immediately selling their Token A, capitalizing on the price increase they caused. The user\'s trade is"sandwiched".',
               ],
             },
             commonPitfalls: [
@@ -517,7 +517,7 @@ struct Packed {
             ],
             whyThisMatters: [
               'MEV is a fundamental and unavoidable reality of transparent blockchains.',
-              'It represents an "invisible tax" on users and impacts dApp design, especially for DEXs.'
+              'It represents an"invisible tax" on users and impacts dApp design, especially for DEXs.'
             ],
             followUps: [
               'What are some strategies to mitigate sandwich attacks for users and for DEX designers?',
@@ -562,25 +562,25 @@ struct Packed {
             commonPitfalls: ['Thinking an audit is a guarantee that a contract is 100% bug-free.', 'Believing an audit is just about running automated tools.'],
             whyThisMatters: ['Understanding the goal of an audit is the first step to being a good auditor.', 'It sets the context for all other security-related work.'],
             followUps: ['What is the difference between a manual audit and using a static analysis tool?', 'What are some well-known audit firms in the space?'],
-            redFlags: ['Stating that an audit "proves" a contract is safe.', 'Underestimating the role of manual code review.'],
-            scoringRubric: { 1: 'Doesn\'t know.', 3: 'Says "to find bugs" without mentioning security or user funds.', 5: 'Clearly explains the goal of identifying vulnerabilities to protect user funds and build trust.' },
+            redFlags: ['Stating that an audit"proves" a contract is safe.', 'Underestimating the role of manual code review.'],
+            scoringRubric: { 1: 'Doesn\'t know.', 3: 'Says"to find bugs" without mentioning security or user funds.', 5: 'Clearly explains the goal of identifying vulnerabilities to protect user funds and build trust.' },
             expectedTime: '60 seconds'
           },
           {
             id: 'AUD-F-02',
             difficulty: 'Foundation',
             category: 'Knowledge',
-            question: 'What is "slither" and what kind of issues can it find?',
+            question: 'What is"slither" and what kind of issues can it find?',
             idealAnswer: {
               coreIdea: 'Slither is a static analysis framework for Solidity, developed by Trail of Bits. It analyzes source code without running it to find potential vulnerabilities and code quality issues.',
               keyPoints: [
-                'It has a suite of pre-built "detectors" for common vulnerabilities like reentrancy, uninitialized storage pointers, and use of `tx.origin`.',
-                'It provides a "printer" framework for outputting information about the contract, such as its inheritance graph or function summaries.',
+                'It has a suite of pre-built"detectors" for common vulnerabilities like reentrancy, uninitialized storage pointers, and use of `tx.origin`.',
+                'It provides a"printer" framework for outputting information about the contract, such as its inheritance graph or function summaries.',
                 'It can be integrated into CI/CD pipelines to automatically scan code on every commit.',
                 'It is a powerful tool but is not a substitute for manual review, as it can have false positives and cannot detect complex economic logic flaws.'
               ],
             },
-            commonPitfalls: ['Thinking Slither is a dynamic analysis tool.', 'Believing that a "clean" Slither run means the contract is secure.'],
+            commonPitfalls: ['Thinking Slither is a dynamic analysis tool.', 'Believing that a"clean" Slither run means the contract is secure.'],
             whyThisMatters: ['It is a standard tool in every auditor\'s toolkit.', 'Knowing its capabilities and limitations is essential for an efficient audit process.'],
             followUps: ['Name two other static analysis tools.', 'Describe a vulnerability that Slither would likely miss.'],
             redFlags: ['Has never heard of Slither.', 'Confuses it with tools like Mythril (dynamic analysis) or Echidna (fuzzing).'],
@@ -620,7 +620,7 @@ struct Packed {
             category: 'Knowledge',
             question: 'What is a signature replay attack and how can it be prevented?',
             idealAnswer: {
-              coreIdea: 'A signature replay attack occurs when an attacker intercepts a valid, signed message and "replays" it in a different context or at a later time to trigger an unauthorized action. It is prevented using nonces and domain separators.',
+              coreIdea: 'A signature replay attack occurs when an attacker intercepts a valid, signed message and"replays" it in a different context or at a later time to trigger an unauthorized action. It is prevented using nonces and domain separators.',
               keyPoints: [
                 'Prevention Mechanisms:',
                 '1. Nonce: A per-user, incrementing number. The contract tracks each user\'s nonce. A signed message must include the user\'s current nonce. When the message is processed, the contract checks the nonce and then increments it, ensuring the same signature cannot be used again.',
@@ -630,7 +630,7 @@ struct Packed {
             },
             commonPitfalls: ['Only mentioning nonces without domain separators.', 'Not understanding why both are needed for full protection.'],
             whyThisMatters: ['This is a critical vulnerability in systems that use off-chain signatures for actions like permit-style approvals or meta-transactions.'],
-            followUps: ['Explain EIP-2612 (Permit) and how it uses these concepts.', 'How can a user "cancel" a signature they have given out?'],
+            followUps: ['Explain EIP-2612 (Permit) and how it uses these concepts.', 'How can a user"cancel" a signature they have given out?'],
             redFlags: ['Not being aware of signature replay as a vulnerability.', 'Suggesting that simply checking the signature is enough.'],
             scoringRubric: { 1: 'Is unaware of the attack.', 3: 'Mentions nonces as a solution but cannot explain domain separators or the full context.', 5: 'Clearly explains the attack and describes multiple prevention mechanisms (nonce, EIP-712, deadline).' },
             expectedTime: '120 seconds'
@@ -651,7 +651,7 @@ struct Packed {
                 '1. The attacker takes out a large flash loan of Token A.',
                 '2. They swap the large amount of Token A for Token B (the low-liquidity collateral) on the Uniswap v2 pair, drastically pumping the price of Token B.',
                 '3. In the same transaction, they go to the lending protocol. The protocol\'s oracle now reports an artificially high price for Token B.',
-                '4. The attacker deposits their now "highly valuable" Token B as collateral and borrows the maximum amount of another asset (e.g., stablecoins).',
+                '4. The attacker deposits their now"highly valuable" Token B as collateral and borrows the maximum amount of another asset (e.g., stablecoins).',
                 '5. They repay the flash loan. The price of Token B returns to normal, but the attacker has absconded with the borrowed assets, leaving the protocol with undercollateralized debt.'
               ]
             },
@@ -675,7 +675,7 @@ struct Packed {
               coreIdea: 'Fuzzing is an automated testing technique where a tool generates a large number of random inputs for a function to find edge cases that violate a defined property or cause the code to crash.',
               keyPoints: [
                 'Unlike unit testing, where you provide specific inputs, fuzzing explores a much wider input space automatically.',
-                'You define an invariant or property that should always be true (e.g., "the total supply of the token should never decrease" or "no user can withdraw more than they deposited").',
+                'You define an invariant or property that should always be true (e.g.,"the total supply of the token should never decrease" or"no user can withdraw more than they deposited").',
                 'The fuzzer then calls your functions with random data for thousands or millions of iterations, trying to find a sequence of calls that breaks the invariant.',
                 'Popular tools for this are Echidna (from Trail of Bits) and the built-in fuzzing capabilities of Foundry.'
               ]
@@ -705,7 +705,7 @@ struct Packed {
                 '5. Recommendation: Clear, actionable steps the developers can take to fix the bug.',
                 'Communication Strategy:',
                 '1. Private Disclosure: First, communicate the finding privately to the client\'s lead engineer or security contact, often in a secure channel.',
-                '2. Clarity over Jargon: Explain the business impact clearly. "This bug allows an attacker to steal all user funds" is better than "This leads to an arithmetic overflow in the rewards calculation".',
+                '2. Clarity over Jargon: Explain the business impact clearly."This bug allows an attacker to steal all user funds" is better than"This leads to an arithmetic overflow in the rewards calculation".',
                 '3. Collaborative Tone: Frame it as a collaborative effort to improve security, not as a judgment of their code. Offer to have a call to walk them through the PoC.',
               ]
             },
@@ -714,7 +714,7 @@ struct Packed {
             followUps: ['How do you handle a situation where the client disagrees with the severity of your finding?', 'What is your process for re-auditing the fix?'],
             redFlags: ['Advocating for public disclosure before a fix is implemented.', 'Not understanding the importance of a proof of concept.', 'Poor writing or communication skills.'],
             scoringRubric: {
-              1: 'Suggests just sending an email saying "there\'s a bug".',
+              1: 'Suggests just sending an email saying"there\'s a bug".',
               3: 'Describes a decent report structure but misses key elements like a PoC or a communication plan.',
               5: 'Provides a professional, detailed, and empathetic approach covering both the technical report and the human communication aspect.'
             },
@@ -724,7 +724,7 @@ struct Packed {
             id: 'AUD-E-02',
             difficulty: 'Expert',
             category: 'Architecture',
-            question: 'Describe how "unbounded loops" in view functions can become a vector for a Denial of Service (DoS) attack, even if they don\'t consume transaction gas.',
+            question: 'Describe how"unbounded loops" in view functions can become a vector for a Denial of Service (DoS) attack, even if they don\'t consume transaction gas.',
             idealAnswer: {
               coreIdea: 'Even though view functions don\'t consume transaction gas when called externally, they still consume computational resources on the node processing the call. An attacker can craft a view function call with an unbounded loop that is so computationally expensive it will time out or crash the node, effectively creating a DoS attack on third-party services (like block explorers or dApp frontends) that rely on that node.',
               keyPoints: [
@@ -734,7 +734,7 @@ struct Packed {
                 'If many services rely on this call, the attacker can effectively make the dApp unusable for everyone by overloading the public nodes that serve its data. This is a DoS attack at the infrastructure layer, not the consensus layer.'
               ]
             },
-            commonPitfalls: ['Thinking that since `view` calls are "free," they can\'t be a problem.', 'Focusing only on on-chain transaction gas costs.'],
+            commonPitfalls: ['Thinking that since `view` calls are"free," they can\'t be a problem.', 'Focusing only on on-chain transaction gas costs.'],
             whyThisMatters: ['This demonstrates a sophisticated understanding of the entire Web3 stack, including the role of off-chain infrastructure like RPC nodes.', 'It shows the ability to think about attack vectors beyond direct loss of funds.'],
             followUps: ['What is a better pattern for retrieving a large list of items from a contract?', 'How do services like Etherscan protect themselves from this?'],
             redFlags: ['Insisting that `view` functions can never be part of an attack because they are gasless.', 'Having no concept of off-chain infrastructure.'],
@@ -755,7 +755,7 @@ struct Packed {
             id: 'FE-F-01',
             difficulty: 'Foundation',
             category: 'Knowledge',
-            question: 'What is a "provider" in Ethers.js or Viem and what is its role?',
+            question: 'What is a"provider" in Ethers.js or Viem and what is its role?',
             idealAnswer: {
               coreIdea: 'A provider is a class that provides a read-only connection to the Ethereum blockchain, allowing you to query its state.',
               keyPoints: [
@@ -766,7 +766,7 @@ struct Packed {
             },
             commonPitfalls: ['Confusing a provider with a signer.'],
             whyThisMatters: ['This is the most basic building block for any dApp frontend.'],
-            followUps: ['What is a "signer" and how is it different from a provider?'],
+            followUps: ['What is a"signer" and how is it different from a provider?'],
             redFlags: ['Not knowing what a provider is.'],
             scoringRubric: { 1: 'Incorrect.', 3: 'Understands it connects to the blockchain but confuses it with a signer.', 5: 'Clearly distinguishes between provider (read) and signer (write/sign).'},
             expectedTime: '60 seconds'
@@ -781,12 +781,12 @@ struct Packed {
               keyPoints: [
                 'ERC-20 token amounts are stored as large integers to avoid floating-point errors. You need to know the token\'s `decimals` (usually 18 for tokens like ETH or USDC, but can be different) to convert it to a human-readable format.',
                 'You first fetch the token\'s decimals from its contract.',
-                'Then, you use `ethers.utils.formatUnits(balance, decimals)` or `viem.formatUnits(balance, decimals)` to get a formatted string representation (e.g., "123.45").',
+                'Then, you use `ethers.utils.formatUnits(balance, decimals)` or `viem.formatUnits(balance, decimals)` to get a formatted string representation (e.g.,"123.45").',
               ],
               example: `// Ethers.js
-import { ethers } from "ethers";
+import { ethers } from"ethers";
 const balance = 1000000000000000000n; // 1 ETH in wei
-const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
+const formattedBalance = ethers.formatUnits(balance, 18); //"1.0"`
             },
             commonPitfalls: ['Trying to divide the BigInt by 10**18 directly in JavaScript, which can lead to precision loss.', 'Assuming all tokens have 18 decimals.'],
             whyThisMatters: ['Correctly handling token balances is a fundamental task for any DeFi frontend.'],
@@ -801,15 +801,15 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             id: 'FE-I-01',
             difficulty: 'Intermediate',
             category: 'Practical',
-            question: 'A user reports their transaction is "stuck" as pending. What are the possible causes and how could you handle this in the UI?',
+            question: 'A user reports their transaction is"stuck" as pending. What are the possible causes and how could you handle this in the UI?',
             idealAnswer: {
               coreIdea: 'A stuck transaction is usually caused by setting a gas price that is too low for the current network conditions. The UI should provide options to speed up or cancel the transaction.',
               keyPoints: [
                 'Causes: The user submitted a transaction with a `maxFeePerGas` that is below the current network base fee, so validators have no incentive to include it.',
                 'UI Solutions:',
                 '1. Detection: Store the transaction hash in `localStorage`. On page load, check the status of any pending transactions using `provider.getTransaction`.',
-                '2. Feedback: Display a clear "Pending Transaction" indicator in the UI.',
-                '3. Actions: Provide "Speed Up" and "Cancel" buttons.',
+                '2. Feedback: Display a clear"Pending Transaction" indicator in the UI.',
+                '3. Actions: Provide"Speed Up" and"Cancel" buttons.',
                 '  - Speed Up: Re-submit the same transaction with the same nonce but a higher gas fee.',
                 '  - Cancel: Submit a new, zero-value transaction to your own address with the same nonce and a higher gas fee. This will invalidate the original transaction.'
               ]
@@ -818,20 +818,20 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             whyThisMatters: ['Handling transaction states gracefully is a key part of good Web3 UX.', 'Demonstrates practical knowledge beyond simple happy-path development.'],
             followUps: ['How does a nonce work?', 'Where would you get the recommended gas fees for a speed-up transaction?'],
             redFlags: ['Not knowing what a nonce is or why a transaction would be stuck.'],
-            scoringRubric: { 1: 'Is unaware of stuck transactions.', 3: 'Understands the cause (low gas) but not the solution (resubmitting with same nonce).', 5: 'Clearly explains the cause, the role of the nonce, and how to implement both "Speed Up" and "Cancel" functionality.'},
+            scoringRubric: { 1: 'Is unaware of stuck transactions.', 3: 'Understands the cause (low gas) but not the solution (resubmitting with same nonce).', 5: 'Clearly explains the cause, the role of the nonce, and how to implement both"Speed Up" and"Cancel" functionality.'},
             expectedTime: '120 seconds'
           },
           {
             id: 'FE-I-02',
             difficulty: 'Intermediate',
             category: 'Knowledge',
-            question: 'What is a "dead-man\'s switch" in a smart contract?',
+            question: 'What is a"dead-man\'s switch" in a smart contract?',
             idealAnswer: {
               coreIdea: 'A dead-man\'s switch is a mechanism that triggers an action if a specific condition is NOT met within a certain timeframe, essentially acting as a fail-safe.',
               keyPoints: [
                 'It is designed to activate if the contract owner or operator becomes inactive (e.g., loses their keys).',
-                'A common implementation involves the owner having to call a "keep-alive" function periodically.',
-                'If the "keep-alive" function is not called before a deadline, the switch is triggered, and a secondary action, like transferring ownership to a backup address or unlocking funds for beneficiaries, is executed.',
+                'A common implementation involves the owner having to call a"keep-alive" function periodically.',
+                'If the"keep-alive" function is not called before a deadline, the switch is triggered, and a secondary action, like transferring ownership to a backup address or unlocking funds for beneficiaries, is executed.',
                 'This is useful for inheritance planning, multisig recovery, or ensuring a protocol doesn\'t become frozen if an admin key is lost.'
               ]
             },
@@ -872,9 +872,9 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             id: 'FE-A-02',
             difficulty: 'Advanced',
             category: 'Knowledge',
-            question: 'What is a "diamond proxy" (EIP-2535), and how does it differ from a standard transparent proxy?',
+            question: 'What is a"diamond proxy" (EIP-2535), and how does it differ from a standard transparent proxy?',
             idealAnswer: {
-              coreIdea: 'A diamond proxy is an advanced upgradeable proxy pattern that allows a single proxy contract to use logic from multiple implementation contracts (called "facets").',
+              coreIdea: 'A diamond proxy is an advanced upgradeable proxy pattern that allows a single proxy contract to use logic from multiple implementation contracts (called"facets").',
               keyPoints: [
                 'Standard Proxy: A single proxy contract points to a single logic contract.',
                 'Diamond Proxy: A single proxy contract can have multiple facets. When a function is called on the diamond, it looks up which facet is responsible for that function signature and `delegatecall`s to it.',
@@ -884,7 +884,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             },
             commonPitfalls: ['Confusing it with a simple multisig.', 'Not understanding how the function selector routing works.'],
             whyThisMatters: ['It is a powerful pattern for building very large, complex, and modular on-chain systems.', 'Shows knowledge of cutting-edge smart contract architecture.'],
-            followUps: ['What are the trade-offs of using a diamond proxy in terms of gas and complexity?', 'How does the "diamond loupe" feature work?'],
+            followUps: ['What are the trade-offs of using a diamond proxy in terms of gas and complexity?', 'How does the"diamond loupe" feature work?'],
             redFlags: ['Has never heard of the diamond standard.', 'Believing a proxy can only have one implementation.'],
             scoringRubric: { 1: 'Does not know what a diamond proxy is.', 3: 'Understands it allows multiple logic contracts but cannot explain how or why.', 5: 'Clearly explains the function selector lookup, modularity, and contract size benefits.' },
             expectedTime: '120 seconds'
@@ -902,14 +902,14 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                 'The Problem with `personal_sign`: It just signs a hash of a string. Wallets display this to the user as an opaque hex string, e.g., `0x...`. The user has no way of knowing what they are actually agreeing to.',
                 'How EIP-712 Works:',
                 '1. Structured Data: The dApp defines a data structure with named and typed fields (e.g., `domain`, `message`, `types`).',
-                '2. Readable in Wallet: When `eth_signTypedData_v4` is called, wallets like MetaMask can parse this structure and display it to the user in a human-readable format (e.g., "Sign message: From: 0x123, To: 0x456, Amount: 100").',
+                '2. Readable in Wallet: When `eth_signTypedData_v4` is called, wallets like MetaMask can parse this structure and display it to the user in a human-readable format (e.g.,"Sign message: From: 0x123, To: 0x456, Amount: 100").',
                 '3. Domain Separator: It includes a `domain` separator that ties the signature to a specific dApp, preventing a signature from being replayed and used on a different, malicious dApp.',
                 'Why it Matters: It turns signing from a blind action into an informed one, dramatically improving security and user trust. It is the gold standard for off-chain message signing.'
               ]
             },
-            commonPitfalls: ['Not knowing what EIP-712 is.', 'Thinking `personal_sign` is "good enough".', 'Failing to mention the domain separator and replay protection.'],
+            commonPitfalls: ['Not knowing what EIP-712 is.', 'Thinking `personal_sign` is"good enough".', 'Failing to mention the domain separator and replay protection.'],
             whyThisMatters: ['This is a critical security and UX primitive for building sophisticated dApps.', 'Shows expert-level knowledge of wallet interactions and user safety.'],
-            followUps: ['How does the backend verify an EIP-712 signature?', 'What is "blind signing" and why should it always be avoided?'],
+            followUps: ['How does the backend verify an EIP-712 signature?', 'What is"blind signing" and why should it always be avoided?'],
             redFlags: ['Advocating for the use of `personal_sign` for structured data.', 'Being unaware of the phishing risks associated with signing opaque data.'],
             scoringRubric: { 1: 'Does not know what EIP-712 is.', 3: 'Understands it makes signatures more readable but cannot explain why that is important for security or mention the domain separator.', 5: 'Clearly explains the security benefits over `personal_sign`, the role of the domain separator, and the overall improvement in user experience.'},
             expectedTime: '180 seconds'
@@ -925,7 +925,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                 'It introduces a higher-level mempool for `UserOperation` objects, which are pseudo-transaction objects.',
                 '`UserOperation`: A struct sent by a user that describes their desired action. It gets sent to a separate mempool.',
                 '`Bundler`: A node that bundles multiple `UserOperation`s from the mempool into a single transaction and sends it to a global `EntryPoint` contract on-chain.',
-                '`Paymaster`: An optional smart contract that can agree to pay for a user\'s gas fees. This enables "gasless" transactions, where a dApp can sponsor its users\' transactions to improve UX.',
+                '`Paymaster`: An optional smart contract that can agree to pay for a user\'s gas fees. This enables"gasless" transactions, where a dApp can sponsor its users\' transactions to improve UX.',
                 'The goal is to make a user\'s wallet itself a smart contract, unlocking features not possible with simple EOAs (Externally Owned Accounts).'
               ]
             },
@@ -961,8 +961,8 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             },
             commonPitfalls: ['Describing the role as purely social media management or customer support.', 'Focusing only on member count instead of engagement quality.'],
             whyThisMatters: ['This question reveals if the candidate understands the strategic importance of community in Web3, versus a more traditional marketing view.'],
-            followUps: ['How would you measure the "health" of a community?', 'What are some projects you think have excellent communities, and why?'],
-            redFlags: ['Answers are focused on vanity metrics like "number of Discord members".', 'Does not mention fostering a sense of ownership.'],
+            followUps: ['How would you measure the"health" of a community?', 'What are some projects you think have excellent communities, and why?'],
+            redFlags: ['Answers are focused on vanity metrics like"number of Discord members".', 'Does not mention fostering a sense of ownership.'],
             scoringRubric: { 1: 'Describes a basic social media manager role.', 3: 'Understands the community aspect but focuses on tactical tasks rather than strategic goals.', 5: 'Articulates a clear strategic vision for community as a core asset and driver of project success.' },
             expectedTime: '90 seconds'
           },
@@ -996,7 +996,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             idealAnswer: {
               coreIdea: 'The strategy is to respond with empathy, transparency, and calm leadership, while actively managing the conversation to prevent panic from spiraling.',
               keyPoints: [
-                '1. Acknowledge & Empathize: Publicly acknowledge the market situation and the community\'s concerns. Show empathy. "We understand it\'s a tough time in the market and many of you are concerned."',
+                '1. Acknowledge & Empathize: Publicly acknowledge the market situation and the community\'s concerns. Show empathy."We understand it\'s a tough time in the market and many of you are concerned."',
                 '2. Create a Dedicated Channel: Funnel the conversation into a specific channel (e.g., `#market-discussion`) to contain the FUD and not let it dominate all channels.',
                 '3. Be Transparent & Visible: Increase communication from the core team. Provide updates on development progress to show that the team is still building regardless of market price.',
                 '4. Host an AMA: Schedule an impromptu AMA with the founders to address concerns directly and project confidence.',
@@ -1026,7 +1026,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             commonPitfalls: ['Focusing solely on total member count.', 'Not being able to name specific engagement metrics.', 'Failing to mention qualitative aspects.'],
             whyThisMatters: ['Shows that the candidate thinks about community health in a sophisticated, data-informed way.'],
             followUps: ['What tools would you use to track these metrics?', 'How would you use these metrics to change your community strategy?'],
-            redFlags: ['Only suggesting "number of members" as a metric.'],
+            redFlags: ['Only suggesting"number of members" as a metric.'],
             scoringRubric: { 1: 'Cannot name any meaningful metrics.', 3: 'Names basic metrics like member count or number of messages.', 5: 'Provides nuanced metrics that focus on engagement quality and user journey, not just vanity numbers.' },
             expectedTime: '90 seconds'
           }
@@ -1036,13 +1036,13 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             id: 'CM-A-01',
             difficulty: 'Advanced',
             category: 'Design',
-            question: 'Design a program to identify and empower "super-contributors" within your community to help you scale your efforts.',
+            question: 'Design a program to identify and empower"super-contributors" within your community to help you scale your efforts.',
             idealAnswer: {
               coreIdea: 'A successful program formalizes a path for passionate members to take on more responsibility and be rewarded for it, creating a scalable, decentralized community moderation and growth engine.',
               keyPoints: [
-                'Program Name: "Protocol Ambassadors" or "Community Champions".',
+                'Program Name:"Protocol Ambassadors" or"Community Champions".',
                 '1. Identification: Systematically track helpful and active members. Look for those who consistently answer questions, provide thoughtful feedback, and embody the project\'s culture.',
-                '2. Formal Roles & Responsibilities: Create tiered roles (e.g., "Chat Helper", "Content Creator", "Language Moderator"). Give them specific responsibilities and the necessary permissions (e.g., Discord roles).',
+                '2. Formal Roles & Responsibilities: Create tiered roles (e.g.,"Chat Helper","Content Creator","Language Moderator"). Give them specific responsibilities and the necessary permissions (e.g., Discord roles).',
                 '3. Incentives & Rewards: Reward them for their contributions. This can include a mix of monthly stipends (paid in stablecoins or the native token), exclusive access to the team, special swag, or a unique NFT badge.',
                 '4. Communication: Create a private Discord channel for the ambassadors to coordinate with each other and the core team.',
               ]
@@ -1069,7 +1069,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
               ]
             },
             commonPitfalls: ['Ignoring the proposal.', 'Using the team\'s influence to shut down the discussion.', 'Taking sides emotionally.'],
-            whyThisMatters: ['This is a major test of a CM\'s ability to navigate the tension between the core team and the decentralized community.', 'It shows whether they are a "company shill" or a true community advocate and a neutral facilitator.'],
+            whyThisMatters: ['This is a major test of a CM\'s ability to navigate the tension between the core team and the decentralized community.', 'It shows whether they are a"company shill" or a true community advocate and a neutral facilitator.'],
             followUps: ['What if the proposal is malicious but cleverly disguised?', 'What happens if the community votes against the team\'s wishes? How do you manage the aftermath?'],
             redFlags: ['Suggesting to simply ignore or ban the user.', 'Showing an inability to remain neutral.'],
             scoringRubric: { 1: 'Suggests censoring the member.', 3: 'Allows the discussion but doesn\'t have a clear plan for managing the conflict.', 5: 'Provides a clear framework for facilitating a difficult conversation, respecting the community member, and upholding the integrity of the governance process.' },
@@ -1143,7 +1143,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             idealAnswer: {
               coreIdea: 'EOAs are controlled by users with private keys, while Contract Accounts are controlled by their code.',
               keyPoints: [
-                'An EOA is what people typically call a "wallet" (like MetaMask). It has a private key that can sign transactions to initiate actions.',
+                'An EOA is what people typically call a"wallet" (like MetaMask). It has a private key that can sign transactions to initiate actions.',
                 'A Contract Account is a smart contract deployed on the blockchain. It does not have a private key and can only execute code when it is called by an EOA or another contract.',
                 'In a transaction table, you can often distinguish them because an EOA will appear in the `from` field, but a contract address might appear in the `to` field when it is being interacted with.'
               ]
@@ -1169,11 +1169,11 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                 '`prices.usd`: This table can be used to convert any crypto price (like ETH) to USD at the time of the transaction.'
               ]
             },
-            commonPitfalls: ['Looking for a single "nft_sales" table that doesn\'t exist in the raw data.', 'Not understanding that transfers are events.'],
+            commonPitfalls: ['Looking for a single"nft_sales" table that doesn\'t exist in the raw data.', 'Not understanding that transfers are events.'],
             whyThisMatters: ['Shows a practical understanding of how on-chain data is structured in major analytics platforms.'],
             followUps: ['How would you differentiate a sale from a simple wallet-to-wallet transfer?'],
             redFlags: ['Does not know that on-chain activity is analyzed by looking at events.'],
-            scoringRubric: { 1: 'Does not know where to start.', 3: 'Knows to look for "transfers" but is unsure of the specific tables or structure.', 5: 'Correctly identifies `erc721.evt_Transfer` and can describe its key columns and how to use them.' },
+            scoringRubric: { 1: 'Does not know where to start.', 3: 'Knows to look for"transfers" but is unsure of the specific tables or structure.', 5: 'Correctly identifies `erc721.evt_Transfer` and can describe its key columns and how to use them.' },
             expectedTime: '90 seconds'
           }
         ],
@@ -1186,14 +1186,14 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             idealAnswer: {
               coreIdea: 'You need to query the `uniswap.transactions` table, count the distinct number of `from` addresses, and group them by day.',
               keyPoints: [
-                'Use `COUNT(DISTINCT "from")` to count unique wallets.',
+                'Use `COUNT(DISTINCT"from")` to count unique wallets.',
                 'Cast the `block_time` to a date using `DATE_TRUNC(\'day\', block_time)`.',
                 'Group by this truncated date.',
                 'Order the results by date to see the trend.'
               ],
               example: `SELECT 
   date_trunc('day', block_time) AS day,
-  count(distinct "from") AS dau
+  count(distinct"from") AS dau
 FROM
   uniswap_v3."transactions"
 GROUP BY
@@ -1204,7 +1204,7 @@ LIMIT 100;`
             },
             commonPitfalls: ['Counting all transactions instead of distinct users (`COUNT(*)` vs `COUNT(DISTINCT ...)`).', 'Forgetting to truncate the timestamp to group by day.'],
             whyThisMatters: ['DAU is one of the most basic and important metrics for any protocol. This is a fundamental query for any on-chain analyst.'],
-            followUps: ['How would you modify this to calculate Monthly Active Users (MAU)?', 'This query includes bots. How might you try to filter for "real" users?'],
+            followUps: ['How would you modify this to calculate Monthly Active Users (MAU)?', 'This query includes bots. How might you try to filter for"real" users?'],
             redFlags: ['Unable to write a basic SELECT/GROUP BY query.', 'Not knowing to use `DISTINCT`.'],
             scoringRubric: { 1: 'Cannot write the query.', 3: 'Writes a query that is syntactically close but logically flawed (e.g., misses `DISTINCT`).', 5: 'Writes a correct and clean query and can explain each part.' },
             expectedTime: '120 seconds'
@@ -1213,7 +1213,7 @@ LIMIT 100;`
             id: 'DA-I-02',
             difficulty: 'Intermediate',
             category: 'Knowledge',
-            question: 'What is a "sybil attack" in the context of airdrops, and how can on-chain data be used to detect it?',
+            question: 'What is a"sybil attack" in the context of airdrops, and how can on-chain data be used to detect it?',
             idealAnswer: {
               coreIdea: 'A sybil attack is when a single entity creates a large number of fake wallets to farm an airdrop multiple times. On-chain data can be used to find patterns that suggest these wallets are all controlled by the same person.',
               keyPoints: [
@@ -1244,15 +1244,15 @@ LIMIT 100;`
               keyPoints: [
                 'What it is: TVL represents the collateral locked in DeFi protocols. It\'s a measure of the capital base.',
                 'Why it\'s misleading:',
-                '1. Double Counting: A single dollar can be counted multiple times as it moves through "money lego" protocols. (e.g., Deposit ETH in Lido to get stETH, deposit stETH in Aave, borrow USDC, deposit USDC in Curve). The same initial capital is counted at each step.',
-                '2. Mercenary Capital: High token incentives can attract large amounts of "mercenary" TVL that provides no real value and leaves as soon as the incentives dry up.',
+                '1. Double Counting: A single dollar can be counted multiple times as it moves through"money lego" protocols. (e.g., Deposit ETH in Lido to get stETH, deposit stETH in Aave, borrow USDC, deposit USDC in Curve). The same initial capital is counted at each step.',
+                '2. Mercenary Capital: High token incentives can attract large amounts of"mercenary" TVL that provides no real value and leaves as soon as the incentives dry up.',
                 '3. Doesn\'t equal Usage: A protocol can have high TVL but very few users or transactions.',
                 'Better metrics to look at in conjunction with TVL are protocol revenue, daily active users, and the TVL-to-market cap ratio.'
               ]
             },
             commonPitfalls: ['Taking TVL at face value as the most important metric.', 'Not understanding how assets can be rehypothecated and double-counted.'],
             whyThisMatters: ['Demonstrates a sophisticated understanding of DeFi metrics and the ability to think critically about data, not just report it.'],
-            followUps: ['Which protocols do you think have a "healthier" TVL than others, and why?', 'How would you calculate protocol revenue?'],
+            followUps: ['Which protocols do you think have a"healthier" TVL than others, and why?', 'How would you calculate protocol revenue?'],
             redFlags: ['Believing TVL is the ultimate measure of a protocol\'s success.', 'Unable to explain why it can be a vanity metric.'],
             scoringRubric: { 1: 'Does not know what TVL is.', 3: 'Can define TVL but thinks it is the most important metric.', 5: 'Clearly defines TVL and articulates multiple reasons why it is a flawed or incomplete metric.' },
             expectedTime: '150 seconds'
@@ -1261,13 +1261,13 @@ LIMIT 100;`
             id: 'DA-A-02',
             difficulty: 'Advanced',
             category: 'Knowledge',
-            question: 'Explain what a "trace" is in blockchain data and how it differs from a simple transaction.',
+            question: 'Explain what a"trace" is in blockchain data and how it differs from a simple transaction.',
             idealAnswer: {
               coreIdea: 'A trace provides a detailed, step-by-step execution path of a transaction, including all internal calls between contracts. A simple transaction record only shows the top-level `from` and `to` addresses.',
               keyPoints: [
                 'A single transaction can trigger a cascade of internal calls. For example, a user calls a yield aggregator contract, which then calls a Uniswap contract, which then calls a token contract.',
                 'The standard transaction receipt only shows the user calling the aggregator.',
-                'Traces (or internal transactions) expose this entire call stack, showing every contract interaction and value transfer that happened "inside" the top-level transaction.',
+                'Traces (or internal transactions) expose this entire call stack, showing every contract interaction and value transfer that happened"inside" the top-level transaction.',
                 'Analyzing traces is essential for understanding complex DeFi interactions, MEV, or debugging contract logic.'
               ]
             },
@@ -1275,7 +1275,7 @@ LIMIT 100;`
             whyThisMatters: ['This is an advanced data concept. The ability to work with traces separates junior from senior on-chain analysts.'],
             followUps: ['What kind of analysis would require traces instead of just event logs?', 'What tools or nodes are required to get access to full trace data? (e.g., Erigon, Parity-Tracer)'],
             redFlags: ['Does not know what a trace or internal transaction is.'],
-            scoringRubric: { 1: 'Is unaware of traces.', 3: 'Understands it shows "more detail" but cannot articulate the concept of internal calls.', 5: 'Clearly explains the difference between a transaction and a trace and provides a concrete example of a complex DeFi interaction.' },
+            scoringRubric: { 1: 'Is unaware of traces.', 3: 'Understands it shows"more detail" but cannot articulate the concept of internal calls.', 5: 'Clearly explains the difference between a transaction and a trace and provides a concrete example of a complex DeFi interaction.' },
             expectedTime: '180 seconds'
           }
         ],
@@ -1305,12 +1305,12 @@ LIMIT 100;`
             id: 'DA-E-02',
             difficulty: 'Expert',
             category: 'Strategy',
-            question: 'A protocol wants to measure "user stickiness" or retention. Design a cohort analysis to show this. What would be your x-axis, y-axis, and key insight?',
+            question: 'A protocol wants to measure"user stickiness" or retention. Design a cohort analysis to show this. What would be your x-axis, y-axis, and key insight?',
             idealAnswer: {
               coreIdea: 'A cohort analysis groups users by when they first interacted with the protocol and then tracks their activity over subsequent weeks or months. This is the best way to measure true retention.',
               keyPoints: [
                 'Query Design:',
-                '1. First, create a CTE (Common Table Expression) to find the first transaction date for every user (`MIN(block_time)` grouped by `from`). This defines their cohort (e.g., "January 2024 Cohort").',
+                '1. First, create a CTE (Common Table Expression) to find the first transaction date for every user (`MIN(block_time)` grouped by `from`). This defines their cohort (e.g.,"January 2024 Cohort").',
                 '2. Join this back to the main transaction table.',
                 '3. Calculate the time difference between each subsequent transaction and their first transaction date to determine activity in Week 1, Week 2, etc.',
                 '4. Pivot the data to create the cohort chart.',
@@ -1323,7 +1323,7 @@ LIMIT 100;`
             },
             commonPitfalls: ['Proposing a simple DAU chart, which doesn\'t show retention.', 'Struggling with the SQL logic needed for cohorting.'],
             whyThisMatters: ['This is a standard but powerful analysis from Web2 that is highly applicable to Web3. It shows the candidate can go beyond simple vanity metrics to measure what really matters: whether users are sticking around.'],
-            followUps: ['What defines an "active" user for this protocol?', 'How might a large airdrop skew the results of this analysis?'],
+            followUps: ['What defines an"active" user for this protocol?', 'How might a large airdrop skew the results of this analysis?'],
             redFlags: ['Does not know what a cohort analysis is.', 'Cannot explain how to group users by their join date.'],
             scoringRubric: { 1: 'Cannot explain cohort analysis.', 3: 'Understands the concept but struggles to articulate how to implement it in SQL.', 5: 'Clearly and correctly describes the entire process from data querying to chart design and how to interpret the results.' },
             expectedTime: '240 seconds'
@@ -1370,7 +1370,7 @@ LIMIT 100;`
                 'Assets can include tokens deposited for lending, liquidity provision in an AMM, or collateral for minting stablecoins.',
                 'It is typically measured in USD.',
                 'A higher TVL generally indicates greater trust and usage of the protocol.',
-                'However, it can be a vanity metric if the capital is "mercenary" and only there for high temporary rewards.'
+                'However, it can be a vanity metric if the capital is"mercenary" and only there for high temporary rewards.'
               ],
             },
             commonPitfalls: ['Confusing TVL with market cap or trading volume.'],
@@ -1392,7 +1392,7 @@ LIMIT 100;`
               keyPoints: [
                 'It occurs when the price of the tokens in the pool changes from the time you deposited them.',
                 'The greater the price change, the larger the impermanent loss.',
-                'The "loss" is "impermanent" because if the token prices return to their original ratio, the loss disappears. However, if you withdraw your liquidity while there is a price divergence, the loss becomes permanent.',
+                'The"loss" is"impermanent" because if the token prices return to their original ratio, the loss disappears. However, if you withdraw your liquidity while there is a price divergence, the loss becomes permanent.',
                 'LPs are compensated for this risk by earning trading fees. The hope is that the fees earned will be greater than any impermanent loss incurred.'
               ]
             },
@@ -1418,7 +1418,7 @@ LIMIT 100;`
                 'Better solution: Use a decentralized oracle network like Chainlink, which aggregates prices from dozens of off-chain and on-chain sources, making it resistant to manipulation from a single source.'
               ]
             },
-            commonPitfalls: ['Not understanding the link between collateral value and protocol solvency.', 'Thinking that a DEX price is always the "true" price.'],
+            commonPitfalls: ['Not understanding the link between collateral value and protocol solvency.', 'Thinking that a DEX price is always the"true" price.'],
             whyThisMatters: ['Oracle manipulation is one of the most common and costly attack vectors in DeFi history.'],
             followUps: ['What is a TWAP oracle and how does it try to solve this problem?', 'What are the trade-offs of using Chainlink vs an on-chain oracle?'],
             redFlags: ['Not seeing the risk in using a single DEX as a price source.', 'Unable to explain what an oracle is.'],
@@ -1447,7 +1447,7 @@ LIMIT 100;`
             },
             commonPitfalls: ['Thinking a flash loan can last longer than one transaction.', 'Not understanding that atomicity is what makes it risk-free for the lender.'],
             whyThisMatters: ['Flash loans are a unique DeFi primitive and the primary tool used in many major economic exploits.', 'Engineers must design protocols that are resistant to flash loan-based attacks.'],
-            followUps: ['Are flash loans inherently bad?', 'What are some "good" use cases for flash loans? (e.g., arbitrage, collateral swapping)'],
+            followUps: ['Are flash loans inherently bad?', 'What are some"good" use cases for flash loans? (e.g., arbitrage, collateral swapping)'],
             redFlags: ['Not knowing what a flash loan is.', 'Unable to construct a plausible attack scenario.'],
             scoringRubric: { 1: 'Does not know what a flash loan is.', 3: 'Understands it\'s a quick loan but can\'t explain the attack vector or atomicity.', 5: 'Clearly explains the concept of atomicity and provides a detailed example of a flash loan-based exploit.' },
             expectedTime: '180 seconds'
@@ -1458,7 +1458,7 @@ LIMIT 100;`
             category: 'Design',
             question: 'Explain the architecture of a concentrated liquidity AMM like Uniswap V3. How does it improve capital efficiency?',
             idealAnswer: {
-              coreIdea: 'Uniswap V3 allows liquidity providers to "concentrate" their capital within specific price ranges, rather than providing it across the entire price curve from zero to infinity. This dramatically improves capital efficiency.',
+              coreIdea: 'Uniswap V3 allows liquidity providers to"concentrate" their capital within specific price ranges, rather than providing it across the entire price curve from zero to infinity. This dramatically improves capital efficiency.',
               keyPoints: [
                 'The Problem with V2: In a standard `x*y=k` AMM, most of the liquidity sits unused because the assets trade within a relatively narrow price band. The capital that supports prices from $0.01 to $0.50 for an asset trading at $100 is essentially wasted.',
                 'V3 Solution: LPs can choose a specific price range to provide liquidity for (e.g., for ETH-USDC, provide liquidity only between $3000 and $4000).',
@@ -1509,7 +1509,7 @@ LIMIT 100;`
                 'The Problem: Staking ETH directly requires locking it up, making it illiquid and unable to be used in DeFi.',
                 'The Solution (e.g., Lido, Rocket Pool): Users deposit ETH into a liquid staking protocol and receive a derivative token in return (e.g., stETH from Lido).',
                 'DeFi Integration: This stETH token is a standard ERC-20 that can be traded, used as collateral in lending protocols, or used for yield farming, all while still earning the underlying ETH staking rewards.',
-                'Role in DeFi: LSDs have become a foundational "money lego". They massively increase the capital efficiency of the entire ecosystem by allowing staked assets to be productive in DeFi.'
+                'Role in DeFi: LSDs have become a foundational"money lego". They massively increase the capital efficiency of the entire ecosystem by allowing staked assets to be productive in DeFi.'
               ]
             },
             commonPitfalls: ['Confusing liquid staking with simple staking.', 'Not understanding why it improves capital efficiency.'],
@@ -1538,13 +1538,13 @@ LIMIT 100;`
               coreIdea: 'The primary goal is to increase the transaction throughput (scalability) and reduce the transaction costs of a Layer 1 blockchain like Ethereum, without sacrificing its security or decentralization.',
               keyPoints: [
                 'L2s achieve this by processing transactions off-chain in a separate execution environment.',
-                'They then bundle or "roll up" many transactions into a single batch and post a compressed version of this data back to the L1.',
+                'They then bundle or"roll up" many transactions into a single batch and post a compressed version of this data back to the L1.',
                 'The L1 is only responsible for data availability and security, while the L2 handles the expensive computation.',
               ]
             },
             commonPitfalls: ['Thinking L2s are entirely separate blockchains.', 'Not understanding that L2s inherit their security from the L1.'],
-            whyThisMatters: ['This is the fundamental "why" behind the entire L2 ecosystem.'],
-            followUps: ['What is the "blockchain trilemma" and how do L2s attempt to solve it?', 'Name two major L2s on Ethereum.'],
+            whyThisMatters: ['This is the fundamental"why" behind the entire L2 ecosystem.'],
+            followUps: ['What is the"blockchain trilemma" and how do L2s attempt to solve it?', 'Name two major L2s on Ethereum.'],
             redFlags: ['Does not know what an L2 is.', 'Confuses L2s with sidechains.'],
             scoringRubric: { 1: 'Incorrect.', 3: 'Knows L2s are for scaling but can\'t explain how.', 5: 'Clearly explains the off-chain execution model and inheriting security from L1.' },
             expectedTime: '60 seconds'
@@ -1559,14 +1559,14 @@ LIMIT 100;`
             idealAnswer: {
               coreIdea: 'The key difference is their security model and how they prove the validity of off-chain transactions to the L1. Optimistic Rollups use fraud proofs (innocent until proven guilty), while ZK-Rollups use validity proofs (guilty until proven innocent).',
               keyPoints: [
-                'Optimistic Rollups (e.g., Arbitrum, Optimism): Assume all transactions are valid by default. There is a "challenge period" (e.g., 7 days) where anyone can submit a "fraud proof" to challenge a transaction. If the proof is valid, the fraudulent transaction is reverted.',
-                'ZK-Rollups (e.g., zkSync, Polygon zkEVM): Proactively generate a cryptographic "validity proof" (a SNARK or STARK) for every batch of transactions. This proof mathematically guarantees that all transactions are valid. The L1 just needs to verify this single, small proof.',
+                'Optimistic Rollups (e.g., Arbitrum, Optimism): Assume all transactions are valid by default. There is a"challenge period" (e.g., 7 days) where anyone can submit a"fraud proof" to challenge a transaction. If the proof is valid, the fraudulent transaction is reverted.',
+                'ZK-Rollups (e.g., zkSync, Polygon zkEVM): Proactively generate a cryptographic"validity proof" (a SNARK or STARK) for every batch of transactions. This proof mathematically guarantees that all transactions are valid. The L1 just needs to verify this single, small proof.',
                 'Main Trade-off: Optimistic rollups have a long withdrawal period (the 7-day challenge window), while ZK-rollup withdrawals are nearly instant. However, ZK-rollups are more computationally intensive and technologically complex.'
               ]
             },
             commonPitfalls: ['Confusing fraud proofs with validity proofs.', 'Not understanding the implication for withdrawal times.'],
             whyThisMatters: ['This is the most important distinction in the L2 space and defines the major architectural trade-offs.'],
-            followUps: ['Why would a project choose to build on an Optimistic Rollup today, given the advantages of ZK-Rollups?', 'What is a "sequencer" in the context of a rollup?'],
+            followUps: ['Why would a project choose to build on an Optimistic Rollup today, given the advantages of ZK-Rollups?', 'What is a"sequencer" in the context of a rollup?'],
             redFlags: ['Cannot differentiate between the two.', 'Believing both have the same security model.'],
             scoringRubric: { 1: 'Does not know the difference.', 3: 'Can name them but struggles to explain the proof mechanisms.', 5: 'Clearly explains the fraud proof vs. validity proof models and their trade-offs regarding withdrawal times and complexity.' },
             expectedTime: '150 seconds'
@@ -1577,7 +1577,7 @@ LIMIT 100;`
             id: 'L2-A-01',
             difficulty: 'Advanced',
             category: 'Architecture',
-            question: 'What is a "sequencer" in a rollup, and what are the centralization concerns associated with it?',
+            question: 'What is a"sequencer" in a rollup, and what are the centralization concerns associated with it?',
             idealAnswer: {
               coreIdea: 'A sequencer is the node responsible for ordering transactions, creating blocks on the L2, and posting the compressed data to the L1. In most current rollups, the sequencer is a single, centralized entity run by the rollup team, which introduces risks.',
               keyPoints: [
@@ -1586,7 +1586,7 @@ LIMIT 100;`
                 '1. Censorship: A centralized sequencer could refuse to include a user\'s transactions in a block.',
                 '2. MEV Extraction: The sequencer has ultimate control over transaction ordering, allowing it to extract all the MEV from the system.',
                 '3. Liveness Failure: If the centralized sequencer goes down, the entire rollup halts. Users cannot make new transactions.',
-                'Mitigations: Most rollups have a "force inclusion" mechanism on L1 that allows users to bypass a censoring sequencer, but this is slow and expensive. The long-term solution is decentralized sequencer networks.'
+                'Mitigations: Most rollups have a"force inclusion" mechanism on L1 that allows users to bypass a censoring sequencer, but this is slow and expensive. The long-term solution is decentralized sequencer networks.'
               ]
             },
             commonPitfalls: ['Thinking the sequencer also validates transactions (in ZK-rollups, that\'s the prover).', 'Not being aware of the censorship or liveness risks.'],
@@ -1602,7 +1602,7 @@ LIMIT 100;`
             id: 'L2-E-01',
             difficulty: 'Expert',
             category: 'Knowledge',
-            question: 'Explain the concept of "Data Availability" (DA) and the "Data Availability Problem". How do modular DA layers like Celestia aim to solve this?',
+            question: 'Explain the concept of"Data Availability" (DA) and the"Data Availability Problem". How do modular DA layers like Celestia aim to solve this?',
             idealAnswer: {
               coreIdea: 'Data Availability is the guarantee that the transaction data for a rollup has been published and is available for anyone to inspect. The DA Problem is that posting this data to Ethereum L1 is the biggest cost for rollups. Modular DA layers aim to provide a cheaper alternative.',
               keyPoints: [
@@ -1612,7 +1612,7 @@ LIMIT 100;`
                 '1. Celestia is a blockchain optimized for one thing: ordering and making data available. It does not handle smart contract execution.',
                 '2. Rollups can post their transaction data to Celestia instead of Ethereum L1 at a fraction of the cost.',
                 '3. Celestia uses a technique called Data Availability Sampling (DAS), which allows light nodes to verify that all the data is available by just sampling a few small pieces of it. This allows the network to scale securely.',
-                'This creates a "modular stack": Execution on the L2, Settlement on Ethereum, and Data Availability on Celestia.'
+                'This creates a"modular stack": Execution on the L2, Settlement on Ethereum, and Data Availability on Celestia.'
               ]
             },
             commonPitfalls: ['Confusing data availability with data storage.', 'Thinking Celestia is a general-purpose L1.'],
@@ -1644,7 +1644,7 @@ LIMIT 100;`
                 'A common analogy is Ali Baba\'s cave, where someone proves they know a secret password to a magic door without revealing the password.',
               ]
             },
-            commonPitfalls: ['Getting lost in technical jargon.', 'Unable to explain the core "proof without revealing" concept simply.'],
+            commonPitfalls: ['Getting lost in technical jargon.', 'Unable to explain the core"proof without revealing" concept simply.'],
             whyThisMatters: ['This is the foundational concept of the entire field.'],
             followUps: ['What are the two main applications of ZKPs in Web3 today? (Scaling and Privacy)'],
             redFlags: ['Cannot explain the concept in simple terms.'],
@@ -1663,7 +1663,7 @@ LIMIT 100;`
               keyPoints: [
                 'ZK-SNARK (Succinct Non-Interactive Argument of Knowledge):',
                 '- Pros: Very small proof size, making them cheap to verify on-chain.',
-                '- Cons: Requires a "trusted setup" for each circuit, which is a potential centralization vector. They are also not quantum-resistant.',
+                '- Cons: Requires a"trusted setup" for each circuit, which is a potential centralization vector. They are also not quantum-resistant.',
                 'ZK-STARK (Scalable Transparent Argument of Knowledge):',
                 '- Pros: Does not require a trusted setup ("transparent"). It is also quantum-resistant.',
                 '- Cons: Larger proof size, making them more expensive to verify on-chain compared to SNARKs.',
@@ -1672,8 +1672,8 @@ LIMIT 100;`
             },
             commonPitfalls: ['Mixing up the properties of each.', 'Not understanding what a trusted setup is.'],
             whyThisMatters: ['The choice between SNARKs and STARKs is a major architectural decision for ZK systems.'],
-            followUps: ['What is a "trusted setup" ceremony and why is it a potential vulnerability?', 'Which systems use SNARKs vs. STARKs today?'],
-            redFlags: ['Cannot differentiate between them.', 'Does not know what "transparent" means in the context of STARKs.'],
+            followUps: ['What is a"trusted setup" ceremony and why is it a potential vulnerability?', 'Which systems use SNARKs vs. STARKs today?'],
+            redFlags: ['Cannot differentiate between them.', 'Does not know what"transparent" means in the context of STARKs.'],
             scoringRubric: { 1: 'Does not know the difference.', 3: 'Knows they are different proof types but confuses their properties.', 5: 'Clearly explains the trade-offs regarding proof size, trusted setup, and quantum resistance.' },
             expectedTime: '150 seconds'
           }
@@ -1683,19 +1683,19 @@ LIMIT 100;`
             id: 'ZK-A-01',
             difficulty: 'Advanced',
             category: 'Practical',
-            question: 'What is an "arithmetic circuit" in the context of ZKPs?',
+            question: 'What is an"arithmetic circuit" in the context of ZKPs?',
             idealAnswer: {
               coreIdea: 'An arithmetic circuit is a way of representing a computation as a series of basic arithmetic operations (addition and multiplication). This is the first step in converting a program into a format that a ZK proof system can understand.',
               keyPoints: [
                 'A ZKP system cannot directly prove a statement about a program written in a language like Python or JavaScript.',
                 'The program\'s logic must first be converted into a system of mathematical equations.',
-                'An arithmetic circuit breaks down the computation into a sequence of "gates," where each gate is either an addition or multiplication operation.',
+                'An arithmetic circuit breaks down the computation into a sequence of"gates," where each gate is either an addition or multiplication operation.',
                 'This circuit is then converted into a polynomial equation system (e.g., R1CS - Rank-1 Constraint System), which is what the ZKP system actually proves.',
                 'Languages like Circom are used to write these circuits.'
               ]
             },
             commonPitfalls: ['Thinking ZKPs work on source code directly.', 'Not understanding the transformation process.'],
-            whyThisMatters: ['This is the fundamental process of how a computation is made "provable". Any ZK engineer must understand this workflow.'],
+            whyThisMatters: ['This is the fundamental process of how a computation is made"provable". Any ZK engineer must understand this workflow.'],
             followUps: ['What is R1CS and how does it relate to a circuit?', 'What are some of the challenges of writing efficient circuits?'],
             redFlags: ['Has no knowledge of the circuit/program transformation.', 'Confuses it with an electrical circuit.'],
             scoringRubric: { 1: 'Does not know.', 3: 'Understands a program needs to be converted but can\'t explain circuits.', 5: 'Clearly explains that computation must be flattened into arithmetic gates and then into polynomial constraints.' },
@@ -1713,7 +1713,7 @@ LIMIT 100;`
               keyPoints: [
                 'In an interactive proof, the verifier sends random challenges to the prover at various steps.',
                 'The key insight of Fiat-Shamir is to replace the verifier\'s random challenges with the output of a cryptographic hash function.',
-                'The prover simulates the entire interaction by themselves. At each step where they would receive a challenge from the verifier, they instead calculate a hash of all the public data and the messages they\'ve generated so far in the proof. The output of this hash serves as the "random" challenge.',
+                'The prover simulates the entire interaction by themselves. At each step where they would receive a challenge from the verifier, they instead calculate a hash of all the public data and the messages they\'ve generated so far in the proof. The output of this hash serves as the"random" challenge.',
                 'This allows the prover to generate a complete proof in one go, which can be posted on a blockchain or sent to a verifier to be checked asynchronously.',
                 'It is a foundational technique that makes SNARKs and STARKs practical for use in systems like blockchains.'
               ]
@@ -1750,7 +1750,7 @@ LIMIT 100;`
             },
             commonPitfalls: ['Only focusing on supply.', 'Confusing utility with price speculation.'],
             whyThisMatters: ['This is the basic framework for analyzing any crypto asset.'],
-            followUps: ['Give an example of a project with good utility.', 'What is a "vesting schedule" and why is it important for distribution?'],
+            followUps: ['Give an example of a project with good utility.', 'What is a"vesting schedule" and why is it important for distribution?'],
             redFlags: ['Cannot name these three components.', 'Has a purely speculative view of token value.'],
             scoringRubric: { 1: 'Cannot answer.', 3: 'Names one or two components but cannot explain them well.', 5: 'Clearly defines and explains Supply, Distribution, and Utility.' },
             expectedTime: '90 seconds'
@@ -1761,7 +1761,7 @@ LIMIT 100;`
             id: 'TOK-I-01',
             difficulty: 'Intermediate',
             category: 'Design',
-            question: 'Describe a "vote-escrowed" (ve) token model. What problem does it try to solve?',
+            question: 'Describe a"vote-escrowed" (ve) token model. What problem does it try to solve?',
             idealAnswer: {
               coreIdea: 'The ve-token model, pioneered by Curve, is designed to align long-term incentives by rewarding users who lock their governance tokens for longer periods of time with greater voting power and a larger share of protocol revenue.',
               keyPoints: [
@@ -1787,7 +1787,7 @@ LIMIT 100;`
             id: 'TOK-A-01',
             difficulty: 'Advanced',
             category: 'Risk',
-            question: 'What is a "death spiral" in the context of an algorithmic stablecoin that uses a two-token model (e.g., Terra/Luna)?',
+            question: 'What is a"death spiral" in the context of an algorithmic stablecoin that uses a two-token model (e.g., Terra/Luna)?',
             idealAnswer: {
               coreIdea: 'A death spiral is a reflexive, self-reinforcing feedback loop where the price of a stablecoin de-pegs, causing mass creation of the collateral token, which crashes its price, which in turn further erodes confidence in the stablecoin, leading to a total collapse.',
               keyPoints: [
@@ -1852,7 +1852,7 @@ LIMIT 100;`
               coreIdea: 'While simple dApps can run without a backend, most complex applications need one for tasks that are impractical or impossible to do on-chain or on the client, such as data indexing, notifications, and managing private keys.',
               keyPoints: [
                 'Data Indexing: Querying historical data directly from the blockchain is very slow. A backend is needed to index on-chain data into a fast database that the frontend can query easily.',
-                'Notifications: Blockchains cannot "push" data to users. A backend server is needed to monitor the chain for events and send notifications (e.g., via email or push notification) to users.',
+                'Notifications: Blockchains cannot"push" data to users. A backend server is needed to monitor the chain for events and send notifications (e.g., via email or push notification) to users.',
                 'Complex Computations: Running complex or private computations off-chain before submitting a result to the chain is often more efficient.',
                 'Managing Keys: For services that need to submit transactions on behalf of users or the protocol, a secure backend is needed to manage the private keys.'
               ]
@@ -1861,7 +1861,7 @@ LIMIT 100;`
             whyThisMatters: ['This question tests the candidate\'s understanding of the full dApp architecture and the limitations of the blockchain.'],
             followUps: ['What is The Graph and how does it relate to this?', 'Describe how you would build a service to notify a user when their loan is close to liquidation.'],
             redFlags: ['Believing everything can or should be done on-chain.'],
-            scoringRubric: { 1: 'Cannot explain the need for a backend.', 3: 'Gives vague reasons like "performance".', 5: 'Provides specific, concrete examples like indexing, notifications, and key management.' },
+            scoringRubric: { 1: 'Cannot explain the need for a backend.', 3: 'Gives vague reasons like"performance".', 5: 'Provides specific, concrete examples like indexing, notifications, and key management.' },
             expectedTime: '90 seconds'
           }
         ],
@@ -1897,7 +1897,7 @@ LIMIT 100;`
             id: 'BE-A-01',
             difficulty: 'Advanced',
             category: 'Design',
-            question: 'Design a reliable system for submitting transactions to the blockchain from a backend service (a "relayer"). What are the key challenges you need to handle?',
+            question: 'Design a reliable system for submitting transactions to the blockchain from a backend service (a"relayer"). What are the key challenges you need to handle?',
             idealAnswer: {
               coreIdea: 'A reliable relayer needs to handle nonce management, gas price estimation, and transaction monitoring/re-submission to ensure transactions are mined in a timely and cost-effective manner.',
               keyPoints: [
@@ -1905,7 +1905,7 @@ LIMIT 100;`
                 '1. Transaction Queue: Use a robust queue (like RabbitMQ or a database table) to manage pending transactions.',
                 '2. Nonce Manager: The biggest challenge. You must strictly track the nonce for the relayer\'s address to prevent conflicts. A dedicated service or a database row with a transaction lock is needed to ensure only one process can get the next nonce at a time.',
                 '3. Gas Price Oracle: A service that monitors network conditions and recommends optimal gas prices (`maxFeePerGas`, `maxPriorityFeePerGas`) for timely inclusion.',
-                '4. Transaction Monitor: After a transaction is submitted, a separate process must monitor its status. If it gets "stuck" (doesn\'t get mined), the system needs to automatically re-submit it with a higher gas price and the same nonce.',
+                '4. Transaction Monitor: After a transaction is submitted, a separate process must monitor its status. If it gets"stuck" (doesn\'t get mined), the system needs to automatically re-submit it with a higher gas price and the same nonce.',
                 '5. Error Handling & Alerting: The system needs robust logging and alerting for when transactions fail or get stuck for too long.'
               ]
             },
@@ -1922,12 +1922,12 @@ LIMIT 100;`
             id: 'BE-E-01',
             difficulty: 'Expert',
             category: 'Knowledge',
-            question: 'What is a "re-org" (chain reorganization) and how must a backend indexer be designed to handle it?',
+            question: 'What is a"re-org" (chain reorganization) and how must a backend indexer be designed to handle it?',
             idealAnswer: {
               coreIdea: 'A re-org is when a blockchain node discovers a new, longer valid chain, causing it to discard the blocks from its previous canonical chain. A robust indexer must be able to detect re-orgs and roll back its database state to a point before the divergence.',
               keyPoints: [
                 'How it happens: Due to network latency, two miners might solve a block at roughly the same time, creating a temporary fork. The network eventually converges on one, longer chain.',
-                'The Problem for Indexers: An indexer might process several blocks from the "losing" chain. When the re-org happens, the data it has indexed is now from orphaned blocks and is incorrect.',
+                'The Problem for Indexers: An indexer might process several blocks from the"losing" chain. When the re-org happens, the data it has indexed is now from orphaned blocks and is incorrect.',
                 'Design Solution:',
                 '1. Store Block Hashes: The indexer must store the `blockHash` along with every piece of data it indexes.',
                 '2. Detect Re-orgs: While processing a new block, the indexer checks if the new block\'s `parentHash` matches the hash of the last block it processed. If not, a re-org has occurred.',
@@ -1980,7 +1980,7 @@ LIMIT 100;`
             category: 'Knowledge',
             question: 'What is a cryptographic hash function, and what are its key properties?',
             idealAnswer: {
-              coreIdea: 'A hash function is a mathematical algorithm that takes an input of any size and produces a fixed-size, unique output string (a "hash").',
+              coreIdea: 'A hash function is a mathematical algorithm that takes an input of any size and produces a fixed-size, unique output string (a"hash").',
               keyPoints: [
                 'Key Properties:',
                 '1. Deterministic: The same input will always produce the same output.',
@@ -2025,19 +2025,19 @@ LIMIT 100;`
             id: 'CRY-E-01',
             difficulty: 'Expert',
             category: 'Knowledge',
-            question: 'What is a "pairing-based" cryptosystem and what new capabilities does it enable?',
+            question: 'What is a"pairing-based" cryptosystem and what new capabilities does it enable?',
             idealAnswer: {
               coreIdea: 'Pairing-based cryptography uses a mathematical map called a bilinear pairing on elliptic curves. This pairing allows for operations that are not possible with standard ECC, most notably enabling more advanced ZK-SNARK constructions.',
               keyPoints: [
                 'A bilinear pairing takes two points from two different elliptic curve groups and maps them to a third group, with special properties that allow for multiplication of exponents in the clear.',
-                'This "multiplicative" property is what allows for the construction of succinct and efficiently verifiable zero-knowledge proofs (ZK-SNARKs).',
+                'This"multiplicative" property is what allows for the construction of succinct and efficiently verifiable zero-knowledge proofs (ZK-SNARKs).',
                 'While standard ECDSA is sufficient for signatures, pairing-friendly curves (like BLS12-381) are required for many advanced ZK systems.',
                 'Other capabilities include BLS signatures (which are aggregatable) and identity-based encryption.'
               ]
             },
             commonPitfalls: ['Unable to explain what a pairing enables (the multiplicative property).'],
             whyThisMatters: ['This is at the cutting edge of applied cryptography in Web3. It is the foundation for most modern ZK-Rollups and privacy systems.'],
-            followUps: ['What is the difference between a BLS signature and an ECDSA signature?', 'Why are pairing-friendly curves often considered less secure or "exotic" compared to standard curves?'],
+            followUps: ['What is the difference between a BLS signature and an ECDSA signature?', 'Why are pairing-friendly curves often considered less secure or"exotic" compared to standard curves?'],
             redFlags: ['Has not heard of pairings.', 'Confuses them with standard ECC.'],
             scoringRubric: { 1: 'Does not know.', 3: 'Knows pairings are related to ZKPs but cannot explain why.', 5: 'Clearly explains that pairings enable a multiplicative operation which is the key to building many ZK-SNARKs.' },
             expectedTime: '240 seconds'
@@ -2068,9 +2068,9 @@ LIMIT 100;`
             },
             commonPitfalls: ['Thinking the token is just for speculation.', 'Confusing governance rights with direct profit-sharing.'],
             whyThisMatters: ['This is the core mechanism of DAO governance.'],
-            followUps: ['What are the potential problems with 1-token-1-vote governance?', 'What is a "quorum" in a DAO vote?'],
+            followUps: ['What are the potential problems with 1-token-1-vote governance?', 'What is a"quorum" in a DAO vote?'],
             redFlags: ['Does not know what a governance token is used for.'],
-            scoringRubric: { 1: 'Does not know.', 3: 'Says "for voting" but cannot elaborate.', 5: 'Clearly explains the concept of voting rights, proposal creation, and weighted voting.' },
+            scoringRubric: { 1: 'Does not know.', 3: 'Says"for voting" but cannot elaborate.', 5: 'Clearly explains the concept of voting rights, proposal creation, and weighted voting.' },
             expectedTime: '90 seconds'
           }
         ],
@@ -2088,9 +2088,9 @@ LIMIT 100;`
                 '- Low Impact: Small token holders feel their vote doesn\'t matter.',
                 '- Lack of Incentive: Voting costs gas and time with no direct reward.',
                 'Solutions:',
-                '- Delegation: Allow users to delegate their voting power to a trusted community member (a "delegate") who can vote on their behalf.',
+                '- Delegation: Allow users to delegate their voting power to a trusted community member (a"delegate") who can vote on their behalf.',
                 '- Clear Summaries: Create easy-to-understand summaries of complex proposals (e.g., TL;DRs).',
-                '- Gasless Voting: Use off-chain voting tools like Snapshot for "temperature check" votes before the final, binding on-chain vote.',
+                '- Gasless Voting: Use off-chain voting tools like Snapshot for"temperature check" votes before the final, binding on-chain vote.',
                 '- Incentives: Some DAOs experiment with rewards for active voters.'
               ]
             },
@@ -2124,7 +2124,7 @@ LIMIT 100;`
             },
             commonPitfalls: ['Thinking a multisig is the same as on-chain governance.', 'Not understanding the trust assumptions.'],
             whyThisMatters: ['This is the most common treasury management pattern for DAOs.', 'Shows an understanding of the practical trade-offs between decentralization and operational efficiency.'],
-            followUps: ['How would you design a process for electing and rotating multisig signers?', 'What is a "Rage Quit" mechanism and how does it protect minority token holders?'],
+            followUps: ['How would you design a process for electing and rotating multisig signers?', 'What is a"Rage Quit" mechanism and how does it protect minority token holders?'],
             redFlags: ['Does not know what a multisig is.', 'Unable to articulate the pros and cons.'],
             scoringRubric: { 1: 'Does not know.', 3: 'Understands what a multisig is but cannot explain its role in DAO governance.', 5: 'Clearly explains the pros and cons and describes the common hybrid model.' },
             expectedTime: '180 seconds'
@@ -2135,11 +2135,11 @@ LIMIT 100;`
             id: 'DAO-E-01',
             difficulty: 'Expert',
             category: 'Knowledge',
-            question: 'What is a "legal wrapper" for a DAO, and why might a DAO choose to use one?',
+            question: 'What is a"legal wrapper" for a DAO, and why might a DAO choose to use one?',
             idealAnswer: {
               coreIdea: 'A legal wrapper is a traditional legal entity (like a foundation or LLC) that is controlled by the DAO. It is used to provide legal personhood for the DAO, enabling it to interact with the real world and providing liability protection for its members.',
               keyPoints: [
-                'The Problem: Without a legal entity, a DAO might be treated as a "general partnership" by default in many jurisdictions. This means every member could be held personally and fully liable for the actions of the DAO.',
+                'The Problem: Without a legal entity, a DAO might be treated as a"general partnership" by default in many jurisdictions. This means every member could be held personally and fully liable for the actions of the DAO.',
                 'The Solution: The DAO votes to establish a traditional legal entity (e.g., a foundation in the Cayman Islands or a Limited Cooperative Association in the US). This entity can then:',
                 '- Limit Liability: Protects members from personal liability.',
                 '- Sign Contracts: Enter into real-world contracts (e.g., for services, employment, office space).',
@@ -2180,7 +2180,7 @@ LIMIT 100;`
               ]
             },
             commonPitfalls: ['Only focusing on smart contract bugs.', 'Not considering the off-chain components.'],
-            whyThisMatters: ['Many major "hacks" are actually frontend exploits, not smart contract bugs.', 'A DevSecOps role requires thinking about the whole stack, not just the on-chain part.'],
+            whyThisMatters: ['Many major"hacks" are actually frontend exploits, not smart contract bugs.', 'A DevSecOps role requires thinking about the whole stack, not just the on-chain part.'],
             followUps: ['What measures can be taken to protect against this?', 'How can IPFS be used to host a more secure frontend?'],
             redFlags: ['Does not see the frontend as a major attack surface.'],
             scoringRubric: { 1: 'Cannot identify any risks.', 3: 'Mentions generic web security issues but not crypto-specific ones.', 5: 'Clearly explains the specific risk of tricking users into signing malicious transactions.' },
@@ -2216,7 +2216,7 @@ LIMIT 100;`
             id: 'SEC-A-01',
             difficulty: 'Advanced',
             category: 'Practical',
-            question: 'What is an "incident response plan" for a DeFi protocol, and what are the key components?',
+            question: 'What is an"incident response plan" for a DeFi protocol, and what are the key components?',
             idealAnswer: {
               coreIdea: 'An incident response plan is a pre-defined set of procedures for what to do when a security exploit is discovered. The goal is to mitigate the damage, communicate clearly, and recover as quickly as possible.',
               keyPoints: [
@@ -2230,7 +2230,7 @@ LIMIT 100;`
             },
             commonPitfalls: ['Focusing only on the technical fix.', 'Underestimating the importance of communication.', 'Not having a plan *before* an incident happens.'],
             whyThisMatters: ['How a team responds to a hack is a defining moment.', 'A good plan can save a project\'s reputation, while a bad one can destroy it.'],
-            followUps: ['Who should be in the war room?', 'What are the pros and cons of having a "pause" function in a smart contract?'],
+            followUps: ['Who should be in the war room?', 'What are the pros and cons of having a"pause" function in a smart contract?'],
             redFlags: ['No clear plan.', 'Advocating for hiding the hack from the community.'],
             scoringRubric: { 1: 'Has no plan.', 3: 'Focuses only on fixing the bug but not on communication or mitigation.', 5: 'Provides a comprehensive plan covering war room, mitigation, communication, and post-mortem.' },
             expectedTime: '240 seconds'
@@ -2241,7 +2241,7 @@ LIMIT 100;`
             id: 'SEC-E-01',
             difficulty: 'Expert',
             category: 'Design',
-            question: 'What is a "timelock" contract and how does it improve the security and predictability of protocol governance?',
+            question: 'What is a"timelock" contract and how does it improve the security and predictability of protocol governance?',
             idealAnswer: {
               coreIdea: 'A timelock is a smart contract that forces a delay between when a governance proposal is passed and when its code can be executed. This gives the community time to react to potentially malicious or dangerous proposals.',
               keyPoints: [
@@ -2285,10 +2285,10 @@ LIMIT 100;`
               ],
             },
             commonPitfalls: ['Only focusing on the ability to sell items for real money.'],
-            whyThisMatters: ['This is the fundamental "why" of Web3 gaming.'],
-            followUps: ['What are some of the user experience challenges this creates for mainstream gamers?', 'What does "interoperability" mean for game assets?'],
+            whyThisMatters: ['This is the fundamental"why" of Web3 gaming.'],
+            followUps: ['What are some of the user experience challenges this creates for mainstream gamers?', 'What does"interoperability" mean for game assets?'],
             redFlags: ['Unable to explain the concept of true ownership.', 'Thinks NFTs are only about speculation.'],
-            scoringRubric: { 1: 'Cannot explain the difference.', 3: 'Focuses only on the "play-to-earn" aspect.', 5: 'Clearly articulates the concept of true digital ownership and its implications.' },
+            scoringRubric: { 1: 'Cannot explain the difference.', 3: 'Focuses only on the"play-to-earn" aspect.', 5: 'Clearly articulates the concept of true digital ownership and its implications.' },
             expectedTime: '90 seconds'
           }
         ],
@@ -2302,7 +2302,7 @@ LIMIT 100;`
               coreIdea: 'There are several standard mechanics to manage the demand and distribution of an NFT mint.',
               keyPoints: [
                 '1. Allowlist / Whitelist: A list of specific wallet addresses are given early or guaranteed access to mint, often at a lower price. This rewards early community members and prevents gas wars.',
-                '2. Public Sale (Fixed Price): A simple first-come, first-served sale at a fixed price. Can lead to "gas wars" where everyone tries to mint at once, driving up network fees.',
+                '2. Public Sale (Fixed Price): A simple first-come, first-served sale at a fixed price. Can lead to"gas wars" where everyone tries to mint at once, driving up network fees.',
                 '3. Dutch Auction: The mint price starts high and gradually decreases over time until the collection is sold out. This is a price discovery mechanism designed to find the market-clearing price.',
                 '4. Free Mint: The NFTs are free to mint (plus gas fees). This is used to build a wide community quickly, with the project planning to earn revenue from secondary market royalties.'
               ]
@@ -2320,25 +2320,25 @@ LIMIT 100;`
             id: 'GAME-A-01',
             difficulty: 'Advanced',
             category: 'Strategy',
-            question: 'The "Play-to-Earn" (P2E) model has been heavily criticized. What were its main flaws, and what is the "Play-and-Own" model that is emerging to replace it?',
+            question: 'The"Play-to-Earn" (P2E) model has been heavily criticized. What were its main flaws, and what is the"Play-and-Own" model that is emerging to replace it?',
             idealAnswer: {
-              coreIdea: 'P2E created unsustainable economies that felt more like a job ("grind") than a game. The "Play-and-Own" model prioritizes creating a fun game first, with ownership as a feature that enhances the experience, not as the primary goal.',
+              coreIdea: 'P2E created unsustainable economies that felt more like a job ("grind") than a game. The"Play-and-Own" model prioritizes creating a fun game first, with ownership as a feature that enhances the experience, not as the primary goal.',
               keyPoints: [
                 'Flaws of P2E (e.g., Axie Infinity):',
                 '- Unsustainable Inflation: The game economy relied on a constant influx of new players buying the assets sold by older players. When new player growth slowed, the token price crashed.',
                 '- Focus on Earning, Not Fun: The gameplay often became a repetitive grind for rewards, which is not enjoyable for most players.',
                 '- Extraction: It attracted extractors and bots, not genuine players.',
-                'The "Play-and-Own" Model:',
+                'The"Play-and-Own" Model:',
                 '- Fun First: The primary goal is to build a high-quality, engaging game that people would want to play even without any rewards.',
                 '- Ownership as a Bonus: The ability to truly own and trade your assets is a powerful feature that enhances the game, but it is not the core loop.',
-                '- Sustainable Economy: The economy is designed to be more balanced, often with "sinks" that remove currency from the game to balance the "faucets" that create it.'
+                '- Sustainable Economy: The economy is designed to be more balanced, often with"sinks" that remove currency from the game to balance the"faucets" that create it.'
               ]
             },
-            commonPitfalls: ['Defending the old P2E model without acknowledging its flaws.', 'Not being able to articulate the "fun first" philosophy of the new model.'],
+            commonPitfalls: ['Defending the old P2E model without acknowledging its flaws.', 'Not being able to articulate the"fun first" philosophy of the new model.'],
             whyThisMatters: ['This is the most important strategic conversation in the Web3 gaming space today.', 'Shows the candidate is up-to-date with the evolution of the industry and thinks critically about sustainable design.'],
-            followUps: ['How would you design a token sink for an in-game economy?', 'Can a game be successful without any "earn" component at all?'],
+            followUps: ['How would you design a token sink for an in-game economy?', 'Can a game be successful without any"earn" component at all?'],
             redFlags: ['Believes P2E economies are sustainable.', 'Does not understand the importance of game design and fun.'],
-            scoringRubric: { 1: 'Is unaware of the criticisms of P2E.', 3: 'Can criticize P2E but struggles to define the "Play-and-Own" alternative.', 5: 'Clearly articulates the flaws of P2E and the "fun first" philosophy of the Play-and-Own model.' },
+            scoringRubric: { 1: 'Is unaware of the criticisms of P2E.', 3: 'Can criticize P2E but struggles to define the"Play-and-Own" alternative.', 5: 'Clearly articulates the flaws of P2E and the"fun first" philosophy of the Play-and-Own model.' },
             expectedTime: '240 seconds'
           }
         ],
@@ -2357,7 +2357,7 @@ LIMIT 100;`
                 '- Governance: Voting on game balance changes should be on-chain.',
                 'Off-Chain (Fast, Centralized, Good UX):',
                 '- Game State: The moment-to-moment gameplay logic (e.g., player position, combat calculations) should be handled by a traditional game server.',
-                '- Soft Currency: Low-value in-game currencies (like "gold") can be managed off-chain in a standard database and only "bridged" to the chain when the user wants to cash out.',
+                '- Soft Currency: Low-value in-game currencies (like"gold") can be managed off-chain in a standard database and only"bridged" to the chain when the user wants to cash out.',
                 '- Matchmaking & Social: Player matchmaking, chat, and friend lists should be off-chain.',
                 'The Bridge: A reliable system is needed to bridge the state between the off-chain game server and the on-chain smart contracts.'
               ]
@@ -2365,7 +2365,7 @@ LIMIT 100;`
             commonPitfalls: ['Suggesting everything should be on-chain.', 'Not having a clear reason for why certain components are on-chain vs. off-chain.'],
             whyThisMatters: ['This is the core architectural challenge of Web3 game design.', 'It shows the candidate can think through complex trade-offs between decentralization, performance, and user experience.'],
             followUps: ['What are the security risks of this hybrid model?', 'How would you prevent a player from hacking the off-chain server to give themselves an advantage?'],
-            redFlags: ['Proposing a "fully on-chain" game without understanding the performance implications.', 'Unable to articulate the trade-offs.'],
+            redFlags: ['Proposing a"fully on-chain" game without understanding the performance implications.', 'Unable to articulate the trade-offs.'],
             scoringRubric: { 1: 'Does not understand the need for off-chain components.', 3: 'Understands the hybrid model but has a weak rationale for the separation.', 5: 'Clearly defines what should go on-chain vs. off-chain and provides a strong justification based on trade-offs.' },
             expectedTime: '300 seconds'
           }
@@ -2383,9 +2383,9 @@ LIMIT 100;`
             id: 'LEG-F-01',
             difficulty: 'Foundation',
             category: 'Knowledge',
-            question: 'What is the "Howey Test" and why is it relevant to crypto?',
+            question: 'What is the"Howey Test" and why is it relevant to crypto?',
             idealAnswer: {
-              coreIdea: 'The Howey Test is a four-prong test created by the U.S. Supreme Court to determine if a transaction qualifies as an "investment contract" and is therefore subject to securities laws. It is the primary framework the SEC uses to analyze whether a crypto token is a security.',
+              coreIdea: 'The Howey Test is a four-prong test created by the U.S. Supreme Court to determine if a transaction qualifies as an"investment contract" and is therefore subject to securities laws. It is the primary framework the SEC uses to analyze whether a crypto token is a security.',
               keyPoints: [
                 'The four prongs are:',
                 '1. An investment of money',
@@ -2420,7 +2420,7 @@ LIMIT 100;`
             },
             commonPitfalls: ['Thinking crypto is completely unregulated.', 'Confusing AML with general data privacy.'],
             whyThisMatters: ['This is the core of compliance for any centralized crypto company.'],
-            followUps: ['How do these obligations apply to a decentralized protocol like Uniswap?', 'What is the "Travel Rule" for crypto transactions?'],
+            followUps: ['How do these obligations apply to a decentralized protocol like Uniswap?', 'What is the"Travel Rule" for crypto transactions?'],
             redFlags: ['Believes exchanges have no compliance obligations.'],
             scoringRubric: { 1: 'Does not know.', 3: 'Understands they need to do KYC but cannot list other obligations.', 5: 'Lists and explains the core pillars of a crypto AML program (CIP, monitoring, reporting, screening).' },
             expectedTime: '150 seconds'
@@ -2431,7 +2431,7 @@ LIMIT 100;`
             id: 'LEG-A-01',
             difficulty: 'Advanced',
             category: 'Design',
-            question: 'A DAO wants to hire a full-time developer and pay them a salary. What are the legal and operational challenges, and how could a "DAO legal wrapper" help solve them?',
+            question: 'A DAO wants to hire a full-time developer and pay them a salary. What are the legal and operational challenges, and how could a"DAO legal wrapper" help solve them?',
             idealAnswer: {
               coreIdea: 'The challenge is that a DAO is not a recognized legal entity, making it impossible to sign an employment contract or manage payroll. A legal wrapper provides the necessary legal personhood to solve this.',
               keyPoints: [
@@ -2459,7 +2459,7 @@ LIMIT 100;`
             id: 'LEG-E-01',
             difficulty: 'Expert',
             category: 'Knowledge',
-            question: 'Explain the legal distinction between a "utility token" and a "security token." What are the key factors a regulator would consider?',
+            question: 'Explain the legal distinction between a"utility token" and a"security token." What are the key factors a regulator would consider?',
             idealAnswer: {
               coreIdea: 'The distinction, which is often blurry, hinges on the token\'s primary purpose and the expectations of its purchasers. A utility token is primarily for use within a network, while a security token primarily represents an investment in an enterprise.',
               keyPoints: [
@@ -2474,10 +2474,10 @@ LIMIT 100;`
                 'Regulators focus on the economic realities of the transaction, not what the project calls its token. They apply the Howey Test to determine if it\'s a security.'
               ]
             },
-            commonPitfalls: ['Thinking that calling a token a "utility token" is a magical legal shield.', 'Not focusing on the expectation of the purchaser.'],
+            commonPitfalls: ['Thinking that calling a token a"utility token" is a magical legal shield.', 'Not focusing on the expectation of the purchaser.'],
             whyThisMatters: ['This is the central regulatory battle in crypto. The classification has massive legal and compliance implications.'],
-            followUps: ['Can a token start as a security and later become a utility token (the "Hinman test" theory)?', 'How does airdropping a token instead of selling it affect the analysis?'],
-            redFlags: ['Believes the name "utility token" is all that matters.', 'Does not anchor their analysis in the Howey Test.'],
+            followUps: ['Can a token start as a security and later become a utility token (the"Hinman test" theory)?', 'How does airdropping a token instead of selling it affect the analysis?'],
+            redFlags: ['Believes the name"utility token" is all that matters.', 'Does not anchor their analysis in the Howey Test.'],
             scoringRubric: { 1: 'Is unaware of the distinction.', 3: 'Understands the basic difference but cannot articulate the key factors.', 5: 'Clearly explains the distinction based on purpose and expectation of profit, referencing the Howey Test and the importance of economic reality.' },
             expectedTime: '240 seconds'
           }
@@ -2502,7 +2502,7 @@ LIMIT 100;`
                 'Users vs. Owners: Your users are often token holders with a financial stake and a say in governance. This makes the relationship more complex and political.',
                 'Roadmap: You can\'t just set a roadmap. You need to build consensus with the community and often get major features approved via governance proposals.',
                 'Data: You don\'t have access to rich, private user analytics. You must learn to use public on-chain data (e.g., from Dune) to understand user behavior.',
-                'Composability: Your product is an open "money lego." You have to think about how other developers will build on top of your protocol.'
+                'Composability: Your product is an open"money lego." You have to think about how other developers will build on top of your protocol.'
               ]
             },
             commonPitfalls: ['Thinking the job is exactly the same.', 'Not mentioning the role of governance or the community.'],
@@ -2527,15 +2527,15 @@ LIMIT 100;`
                 '  - Community Calls: Host a community call to present the idea and have a live Q&A session.',
                 '  - User Interviews: Actively recruit engaged community members for 1-on-1 feedback calls. You can offer a small token reward for their time.',
                 '2. Quantitative (On-chain Data):',
-                '  - Wallet Analysis: Analyze the on-chain behavior of your current users. What other protocols do they use? How large are their wallets? This can help you build user personas (e.g., "DeFi Degen", "Retail User").',
+                '  - Wallet Analysis: Analyze the on-chain behavior of your current users. What other protocols do they use? How large are their wallets? This can help you build user personas (e.g.,"DeFi Degen","Retail User").',
                 '  - A/B Testing (with Feature Flags): For larger protocols, you can use feature flags to roll out a new feature to a small subset of users and compare their on-chain behavior to a control group.'
               ]
             },
             commonPitfalls: ['Suggesting traditional methods like email surveys, which don\'t work for pseudonymous users.', 'Only relying on on-chain data and ignoring qualitative feedback.'],
             whyThisMatters: ['User research is a core PM skill, but it needs to be adapted for the Web3 context.', 'Shows the candidate can think creatively about gathering insights.'],
-            followUps: ['How do you ensure the feedback you get is representative and not just from the loudest voices?', 'How would you build a "user persona" in Web3?'],
+            followUps: ['How do you ensure the feedback you get is representative and not just from the loudest voices?', 'How would you build a"user persona" in Web3?'],
             redFlags: ['Has no idea how to approach user research with pseudonymous users.', 'Suggests methods that violate user privacy.'],
-            scoringRubric: { 1: 'Does not know.', 3: 'Suggests only one method (e.g., "ask in Discord").', 5: 'Proposes a multi-pronged approach combining qualitative community feedback with quantitative on-chain analysis.' },
+            scoringRubric: { 1: 'Does not know.', 3: 'Suggests only one method (e.g.,"ask in Discord").', 5: 'Proposes a multi-pronged approach combining qualitative community feedback with quantitative on-chain analysis.' },
             expectedTime: '180 seconds'
           }
         ],
@@ -2544,11 +2544,11 @@ LIMIT 100;`
             id: 'PM-A-01',
             difficulty: 'Advanced',
             category: 'Strategy',
-            question: 'What is a "product moat" in Web3? How do you build a defensible product when your code is open source and can be easily forked?',
+            question: 'What is a"product moat" in Web3? How do you build a defensible product when your code is open source and can be easily forked?',
             idealAnswer: {
               coreIdea: 'In Web3, a product moat is not built on proprietary code, but on intangible assets like liquidity, brand, community, and integrations.',
               keyPoints: [
-                'The Problem: Anyone can copy your smart contract code (a "fork").',
+                'The Problem: Anyone can copy your smart contract code (a"fork").',
                 'Building a Moat:',
                 '1. Liquidity: For DeFi protocols, having the deepest liquidity is a powerful moat. Traders will always go where the best prices and lowest slippage are. This creates a network effect.',
                 '2. Community & Brand: A strong, vibrant community and a trusted brand are very difficult to fork. Users are loyal to the community and the brand they trust.',
@@ -2583,7 +2583,7 @@ LIMIT 100;`
             },
             commonPitfalls: ['Giving too large a share to the team/investors.', 'Having no vesting schedule.', 'Not reserving the largest portion for the community.'],
             whyThisMatters: ['Token distribution is one of the most critical and scrutinized decisions a project makes.', 'It reflects the project\'s values and its commitment to decentralization.'],
-            followUps: ['How would you design an airdrop to reward genuine early users while filtering out sybil attackers?', 'What are the pros and cons of a "fair launch" with no team or investor allocation?'],
+            followUps: ['How would you design an airdrop to reward genuine early users while filtering out sybil attackers?', 'What are the pros and cons of a"fair launch" with no team or investor allocation?'],
             redFlags: ['Proposes an allocation that is heavily skewed towards insiders.', 'Does not see the importance of vesting schedules.'],
             scoringRubric: { 1: 'Does not know how to approach this.', 3: 'Provides an allocation but with poor justification or problematic percentages.', 5: 'Designs a well-reasoned allocation with clear justifications for each stakeholder group and strong vesting terms for insiders.' },
             expectedTime: '300 seconds'
@@ -2594,37 +2594,37 @@ LIMIT 100;`
   ],
   appendixA: [
     {
-      question: "Describe a time you disagreed with a team decision. What did you do?",
-      pattern: "Look for the STAR method (Situation, Task, Action, Result). Ideal answers show constructive, data-driven disagreement and an ability to 'disagree and commit' if the final decision goes another way."
+      question:"Describe a time you disagreed with a team decision. What did you do?",
+      pattern:"Look for the STAR method (Situation, Task, Action, Result). Ideal answers show constructive, data-driven disagreement and an ability to 'disagree and commit' if the final decision goes another way."
     },
     {
-      question: "Walk me through the most complex project you've worked on.",
-      pattern: "Assesses communication and ability to simplify complexity. They should be able to explain the project's goal, their specific role, the challenges, and the outcome clearly."
+      question:"Walk me through the most complex project you've worked on.",
+      pattern:"Assesses communication and ability to simplify complexity. They should be able to explain the project's goal, their specific role, the challenges, and the outcome clearly."
     },
     {
-      question: "How do you stay up-to-date with the rapid changes in the Web3 space?",
-      pattern: "Look for specific sources (e.g., Twitter lists, newsletters like Week in Ethereum News, podcasts like Bankless, research forums like ethresear.ch). Shows genuine passion and initiative."
+      question:"How do you stay up-to-date with the rapid changes in the Web3 space?",
+      pattern:"Look for specific sources (e.g., Twitter lists, newsletters like Week in Ethereum News, podcasts like Bankless, research forums like ethresear.ch). Shows genuine passion and initiative."
     },
     {
-      question: "Tell me about a time you had to learn a new technology quickly.",
-      pattern: "Crucial for Web3. Ideal answers describe a structured process: starting with docs, building a small project, seeking feedback, and iterating. It demonstrates their learning methodology."
+      question:"Tell me about a time you had to learn a new technology quickly.",
+      pattern:"Crucial for Web3. Ideal answers describe a structured process: starting with docs, building a small project, seeking feedback, and iterating. It demonstrates their learning methodology."
     },
     {
-      question: "What is a Web3 project you admire, and what would you improve about it?",
-      pattern: "Tests critical thinking and product sense. The admiration part shows what they value. The improvement part shows they can think critically and are not just a 'fan'."
+      question:"What is a Web3 project you admire, and what would you improve about it?",
+      pattern:"Tests critical thinking and product sense. The admiration part shows what they value. The improvement part shows they can think critically and are not just a 'fan'."
     }
   ],
   appendixB: {
-    description: "This rubric provides a general framework for scoring answers. Calibrate with your interview team to ensure consistency. The goal is not just to find correct answers, but to understand the candidate's thought process, depth of knowledge, and communication skills.",
+    description:"This rubric provides a general framework for scoring answers. Calibrate with your interview team to ensure consistency. The goal is not just to find correct answers, but to understand the candidate's thought process, depth of knowledge, and communication skills.",
     guide: [
-      { score: 1, meaning: "Incorrect or Vague: The candidate provides a factually incorrect, dangerously incomplete, or nonsensical answer. They show a fundamental misunderstanding of the core concept." },
-      { score: 2, meaning: "Partially Correct: The candidate has some pieces right but misses key details or has significant misconceptions. The answer is not sufficient for a production environment." },
-      { score: 3, meaning: "Mostly Correct: The candidate understands the concept and can provide a mostly correct definition but struggles with nuance, trade-offs, or practical application. This is often a baseline for junior roles." },
-      { score: 4, meaning: "Correct and Nuanced: The candidate provides a correct and precise answer, can articulate the 'why' behind it, and can discuss some of the trade-offs or related concepts. They can connect theory to practice." },
-      { score: 5, meaning: "Expert / Teacher: The candidate not only gives a correct and nuanced answer but can also explain it with exceptional clarity using analogies or examples. They can discuss related edge cases, historical context, and future directions. They could teach the concept to others." }
+      { score: 1, meaning:"Incorrect or Vague: The candidate provides a factually incorrect, dangerously incomplete, or nonsensical answer. They show a fundamental misunderstanding of the core concept." },
+      { score: 2, meaning:"Partially Correct: The candidate has some pieces right but misses key details or has significant misconceptions. The answer is not sufficient for a production environment." },
+      { score: 3, meaning:"Mostly Correct: The candidate understands the concept and can provide a mostly correct definition but struggles with nuance, trade-offs, or practical application. This is often a baseline for junior roles." },
+      { score: 4, meaning:"Correct and Nuanced: The candidate provides a correct and precise answer, can articulate the 'why' behind it, and can discuss some of the trade-offs or related concepts. They can connect theory to practice." },
+      { score: 5, meaning:"Expert / Teacher: The candidate not only gives a correct and nuanced answer but can also explain it with exceptional clarity using analogies or examples. They can discuss related edge cases, historical context, and future directions. They could teach the concept to others." }
     ]
   },
-  disclaimer: "This question bank is for educational purposes only and is not a substitute for a comprehensive, real-world interview process. It is not legal or financial advice. All code snippets are examples and should not be used in production without extensive testing and auditing."
+  disclaimer:"This question bank is for educational purposes only and is not a substitute for a comprehensive, real-world interview process. It is not legal or financial advice. All code snippets are examples and should not be used in production without extensive testing and auditing."
 };
 
  

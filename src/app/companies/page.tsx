@@ -1,10 +1,10 @@
-import { Header } from '@/components/header';
 import { getCompanies, getCompanyStats } from '@/lib/companies';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Building2, MapPin, BarChart3 } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
+import { PageHeader } from "@/components/page-header";
 
 export const metadata: Metadata = {
  title: 'Web3 Companies Hiring - Browse Blockchain & Crypto Companies',
@@ -48,14 +48,11 @@ export default async function CompaniesPage() {
 
  return (
   <div className="flex flex-col min-h-screen">
-   <Header />
-   <main className="flex-grow">
+      <main className="flex-grow">
     <section className="border-b bg-muted/10">
-     <div className="container mx-auto px-4 py-16 md:py-24 max-w-4xl text-center">
-      <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">
-       Web3 Companies Hiring Now
-      </h1>
-      <p className="text-lg md:text-xl text-muted-foreground mb-10 leading-relaxed max-w-3xl mx-auto">
+     <div className="container mx-auto px-4 page-section max-w-6xl text-center">
+      <PageHeader title="Web3 Companies Hiring Now" />
+      <p className="text-lg md:text-xl text-muted-foreground mb-10 leading-relaxed site-container">
        Browse {stats.totalCompanies} companies with {stats.totalJobs} open roles across exchanges, DeFi, infrastructure, and more.
       </p>
       
@@ -75,7 +72,7 @@ export default async function CompaniesPage() {
 
     {/* Top Hiring — Horizontal Bar Chart */}
     <section className="bg-muted/30 border-y">
-     <div className="container mx-auto px-4 py-12 md:py-16 max-w-7xl">
+     <div className="container mx-auto px-4 page-section max-w-6xl">
       <div className="mb-8">
        <h2 className="text-3xl font-bold mb-2 flex items-center gap-2">
         <BarChart3 className="h-7 w-7 text-primary" />
@@ -116,7 +113,7 @@ export default async function CompaniesPage() {
     </section>
 
     {/* Company Cards */}
-    <section className="container mx-auto px-4 py-12 md:py-16 max-w-7xl">
+    <section className="container mx-auto px-4 page-section max-w-6xl">
      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       {[...companies]
        .sort((a, b) => b.jobCount - a.jobCount)

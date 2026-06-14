@@ -77,8 +77,7 @@ export function ResumeForm() {
    github: 'https://github.com/janedoe',
    twitter: 'https://twitter.com/janedoe',
    handle: 'janedoe',
-   summary:
-    "Transitioned from a 5-year career in traditional finance after becoming fascinated by the potential of decentralized technology to create more open financial systems. For the past year, I have been an active contributor to open source projects, authoring 15+ analyses on protocol strategies, and building a public dashboard to track key metrics.",
+   summary:"Transitioned from a 5-year career in traditional finance after becoming fascinated by the potential of decentralized technology to create more open financial systems. For the past year, I have been an active contributor to open source projects, authoring 15+ analyses on protocol strategies, and building a public dashboard to track key metrics.",
    contributions: [
     {
      project: 'Decentralized Staking App',

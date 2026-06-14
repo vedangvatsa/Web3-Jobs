@@ -24,7 +24,7 @@ export const metadata: Metadata = {
  twitter: {
   card: 'summary_large_image',
   title: 'Work-Life Balance Survey Builder | Free Template',
-  description: "Create a survey to assess and improve your team's work-life balance.",
+  description:"Create a survey to assess and improve your team's work-life balance.",
   images: ['/api/og?type=default&title=Work-Life%20Balance%20Survey%20Builder'],
  },
 };

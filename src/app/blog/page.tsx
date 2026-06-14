@@ -1,4 +1,3 @@
-import { Header } from '@/components/header';
 import { getAllArticles } from '@/lib/articles';
 import { BlogPageClientWrapper } from '@/components/blog-page-client-wrapper';
 import type { Metadata } from 'next';
@@ -50,8 +49,7 @@ export default async function PlaybookIndexPage() {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(blogSchema) }}
    />
    <div className="flex flex-col min-h-screen">
-    <Header />
-    <main className="flex-1">
+        <main className="flex-1">
      <div className="bg-background">
       <h1 className="sr-only">Web3 Playbook - Career Guides and Tech Deep Dives</h1>
       <BlogPageClientWrapper allArticles={allArticles} categories={categories} />

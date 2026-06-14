@@ -25,7 +25,7 @@ const surveySchema = z.object({
  reasonForLeaving: z.string().optional(),
  likes: z.string().optional(),
  dislikes: z.string().optional(),
- recommend: z.enum(["Yes", "No", "Maybe"]).optional(),
+ recommend: z.enum(["Yes","No","Maybe"]).optional(),
  feedback: z.string().optional(),
 });
 
@@ -105,10 +105,10 @@ export function EmployeeExitSurveyForm() {
    addSection('Any additional feedback or suggestions for improvement?', 5);
 
    doc.save('Employee_Exit_Survey_Template.pdf');
-   toast({ title: "Success!", description: "Survey template downloaded as PDF." });
+   toast({ title:"Success!", description:"Survey template downloaded as PDF." });
   } catch (error) {
    console.error(error);
-   toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
+   toast({ variant: 'destructive', title:"Error", description:"Failed to generate PDF." });
   }
  });
 
@@ -116,7 +116,7 @@ export function EmployeeExitSurveyForm() {
 
  return (
   <div className="container mx-auto py-12">
-    <Card className="max-w-4xl mx-auto">
+    <Card className="site-container">
       <CardHeader className="text-center">
          
         <CardTitle className="text-3xl">Employee Exit Survey Tool</CardTitle>
@@ -138,7 +138,7 @@ export function EmployeeExitSurveyForm() {
           <Textarea placeholder="What aspects of your role or the company could be improved?" {...form.register('dislikes')} />
            <div>
             <Label className="mb-2 block">Would you recommend working here to a friend?</Label>
-            <RadioGroup onValueChange={(val: "Yes" | "No" | "Maybe") => form.setValue('recommend', val)} defaultValue={form.getValues('recommend')} className="flex gap-4">
+            <RadioGroup onValueChange={(val:"Yes" |"No" |"Maybe") => form.setValue('recommend', val)} defaultValue={form.getValues('recommend')} className="flex gap-4">
               <div className="flex items-center space-x-2"><RadioGroupItem value="Yes" id="r1" /><Label htmlFor="r1">Yes</Label></div>
               <div className="flex items-center space-x-2"><RadioGroupItem value="No" id="r2" /><Label htmlFor="r2">No</Label></div>
               <div className="flex items-center space-x-2"><RadioGroupItem value="Maybe" id="r3" /><Label htmlFor="r3">Maybe</Label></div>
@@ -151,7 +151,7 @@ export function EmployeeExitSurveyForm() {
      <div className="flex justify-center mt-8">
       <Button size="lg" onClick={handleDownload}><Download className="mr-2 h-4 w-4"/> Download PDF</Button>
     </div>
-     <Card className="mt-12 max-w-4xl mx-auto bg-muted/30 border shadow-none">
+     <Card className="mt-12 site-container bg-muted/30 border shadow-none">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         
         <div>

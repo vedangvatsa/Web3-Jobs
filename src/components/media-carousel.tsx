@@ -2,13 +2,13 @@
 
 import * as React from 'react';
 import Image from 'next/image';
-import { Card, CardContent } from "@/components/ui/card"
+import { Card, CardContent } from"@/components/ui/card"
 import {
  Carousel,
  CarouselContent,
  CarouselItem,
-} from "@/components/ui/carousel"
-import Autoplay from "embla-carousel-autoplay"
+} from"@/components/ui/carousel"
+import Autoplay from"embla-carousel-autoplay"
 
 interface Logo {
   name: string;
@@ -34,7 +34,7 @@ export function MediaCarousel({ logos }: MediaCarouselProps) {
     plugins={[plugin.current]}
     className="w-full"
     opts={{
-      align: "start",
+      align:"start",
       loop: true,
     }}
     >

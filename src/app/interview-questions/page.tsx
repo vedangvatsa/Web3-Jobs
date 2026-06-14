@@ -2,7 +2,6 @@
 'use client';
 
 import * as React from 'react';
-import { Header } from '@/components/header';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import {
  Accordion,
@@ -36,6 +35,7 @@ import { interviewData, Role } from '@/lib/interview-questions';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/button';
+import { PageHeader } from "@/components/page-header";
 
 const difficultyColors: { [key: string]: string } = {
  Foundation: 'bg-green-500/10 text-green-700 border-green-400/50',
@@ -166,11 +166,7 @@ const faqSchema = {
 };
 
 export default function InterviewQuestionBankPage() {
-  const headlines = [
-   "Web3 Interview Question Bank",
-   "Ace Your Next Interview",
-   "200+ Role-Specific Questions",
-   "Land Your Dream Web3 Job"
+  const headlines = ["Web3 Interview Question Bank","Ace Your Next Interview","200+ Role-Specific Questions","Land Your Dream Web3 Job"
   ];
 
  return (
@@ -180,12 +176,11 @@ export default function InterviewQuestionBankPage() {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
    />
    <ToolUsageTracker toolName="Interview Questions" />
-   <Header />
-   <main className="flex-grow">
-     <div className="container mx-auto px-4 py-8 md:py-16">
-      <section className="text-center mb-12 max-w-4xl mx-auto">
+      <main className="flex-grow">
+     <div className="container mx-auto px-4 page-section">
+      <section className="text-center mb-12 site-container">
         
-       <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
+       <PageHeader title={headlines[0]} />
       </section>
 
       <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
@@ -221,8 +216,8 @@ export default function InterviewQuestionBankPage() {
            <p>This question bank is a reference for both hiring managers and candidates.</p>
            <ul className="list-disc pl-5 space-y-1">
              <li>Use difficulty tags to tailor questions to the role's seniority.</li>
-             <li>Use "Follow-ups" to probe for depth and differentiate between good and great candidates.</li>
-             <li>"Red Flags" and "Common Pitfalls" highlight frequent misconceptions or unsafe patterns.</li>
+             <li>Use"Follow-ups" to probe for depth and differentiate between good and great candidates.</li>
+             <li>"Red Flags" and"Common Pitfalls" highlight frequent misconceptions or unsafe patterns.</li>
              <li>The scoring rubric provides a framework for consistent evaluation across interviews.</li>
            </ul>
          </CardContent>

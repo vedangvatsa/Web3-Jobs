@@ -6,13 +6,13 @@ import type { Article } from '@/types';
 
 export function FooterContent({ latestArticles }: { latestArticles: Omit<Article, 'content'>[] }) {
  const resourceLinks = [
-  { href: "/interview-questions", label: "Interview Questions" },
-  { href: "/web3-career-quiz", label: "Archetype Assessment" },
-  { href: "/salary-calculator", label: "Salary Calculator" },
-  { href: "/invoice-generator", label: "Invoice Generator" },
-  { href: "/resume-builder", label: "Resume Builder" },
-  { href: "/digital-nomad-visas", label: "Digital Nomad Visas" },
-  { href: "/remote-work-checklist", label: "Remote Checklist" },
+  { href:"/interview-questions", label:"Interview Questions" },
+  { href:"/web3-career-quiz", label:"Archetype Assessment" },
+  { href:"/salary-calculator", label:"Salary Calculator" },
+  { href:"/invoice-generator", label:"Invoice Generator" },
+  { href:"/resume-builder", label:"Resume Builder" },
+  { href:"/digital-nomad-visas", label:"Digital Nomad Visas" },
+  { href:"/remote-work-checklist", label:"Remote Checklist" },
  ];
 
  return (

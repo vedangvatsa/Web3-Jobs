@@ -7,7 +7,7 @@ description: "A guide for leaders and members of remote Web3 teams. Learn the be
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 The [Web3](/what-is-web3) industry thrives on remote work. Its decentralized ethos encourages teams to work together across various time zones, which introduces specific challenges and opportunities. Managing a remote Web3 team differs greatly from overseeing a traditional or co-located team.

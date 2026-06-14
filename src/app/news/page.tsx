@@ -1,8 +1,8 @@
-import { Header } from '@/components/header';
 import { getNewsFeed } from '@/lib/news';
 import { NewsPageClient } from '@/components/news-page-client';
 import type { Metadata } from 'next';
 import type { WebPage, NewsArticle, WithContext } from 'schema-dts';
+import { PageHeader } from "@/components/page-header";
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
@@ -40,13 +40,13 @@ export default async function NewsPage() {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
   url: `${siteUrl}/news`,
-  name: "Web3 News | Daily Crypto & Blockchain Career Updates",
+  name:"Web3 News | Daily Crypto & Blockchain Career Updates",
   isPartOf: {
    '@type': 'WebSite',
    url: siteUrl,
    name: 'Hashtag Web3'
   },
-  description: "Stay updated with Web3 news: new job openings, company funding, protocol launches, and career opportunities in crypto, DeFi, NFTs, and blockchain. Updated daily.",
+  description:"Stay updated with Web3 news: new job openings, company funding, protocol launches, and career opportunities in crypto, DeFi, NFTs, and blockchain. Updated daily.",
  };
 
  const newsArticlesSchema: WithContext<NewsArticle>[] = newsItems.slice(0, 30).map(item => ({
@@ -61,7 +61,7 @@ export default async function NewsPage() {
   },
   publisher: {
     '@type': 'Organization',
-    name: "Hashtag Web3",
+    name:"Hashtag Web3",
     logo: {
       '@type': 'ImageObject',
       url: `${siteUrl}/logo.png`
@@ -82,12 +82,11 @@ export default async function NewsPage() {
     />
    )}
    <div className="flex flex-col min-h-screen">
-    <Header />
-    <main className="flex-1">
-     <div className="container mx-auto py-8 px-4">
+        <main className="flex-1">
+     <div className="container mx-auto page-section px-4">
        <section className="text-center mb-8">
-         <div className="max-w-6xl mx-auto">
-           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-foreground">Web3 News</h1>
+         <div className="site-container">
+           <PageHeader title="Web3 News" />
          </div>
        </section>
        <NewsPageClient initialNewsItems={newsItems} />

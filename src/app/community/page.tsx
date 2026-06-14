@@ -1,5 +1,4 @@
 
-import { Header } from '@/components/header';
 import { getAllArticles } from '@/lib/articles';
 import { getJobs } from '@/lib/jobs';
 import { getNewsFeed } from '@/lib/news';
@@ -45,13 +44,13 @@ export default async function Page() {
  const pageSchema: WebPage = {
   '@type': 'WebPage',
   url: `${siteUrl}/community`,
-  name: "Web3 Community | Hashtag Web3",
+  name:"Web3 Community | Hashtag Web3",
   isPartOf: {
     '@type': 'WebSite',
     url: siteUrl,
     name: 'Hashtag Web3'
   },
-  description: "Your hub for Web3 careers. Explore thousands of crypto jobs, get career advice, and connect with a global community of blockchain professionals.",
+  description:"Your hub for Web3 careers. Explore thousands of crypto jobs, get career advice, and connect with a global community of blockchain professionals.",
  };
 
  return (
@@ -61,8 +60,7 @@ export default async function Page() {
       dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
     />
     <div className="flex flex-col min-h-screen">
-     <Header />
-     <main className="flex-1">
+          <main className="flex-1">
       <CommunityPageContent 
        latestJobs={latestJobs}
        latestArticles={latestArticles}

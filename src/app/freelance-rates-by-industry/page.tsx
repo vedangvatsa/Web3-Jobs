@@ -1,6 +1,5 @@
  'use client';
 
-import { Header } from '@/components/header';
 import Link from 'next/link';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -17,6 +16,7 @@ import { Slider } from '@/components/ui/slider';
 import { ArrowRight, DollarSign, FileText } from 'lucide-react';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { useMemo, useState } from 'react';
+import { PageHeader } from "@/components/page-header";
 
 const rateRows = [
  {
@@ -159,14 +159,13 @@ export default function FreelanceRatesByIndustryPage() {
     type="application/ld+json"
     dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetSchema) }}
    />
-   <Header />
-   <main className="flex-1">
+      <main className="flex-1">
     <ToolUsageTracker toolName="Freelance Rates by Industry" />
 
-    <div className="container mx-auto px-4 py-8 md:py-16">
-     <section className="text-center mb-12 max-w-4xl mx-auto">
+    <div className="container mx-auto px-4 page-section">
+     <section className="text-center mb-12 site-container">
       
-      <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
+      <PageHeader title={headlines[0]} />
       <p className="mt-4 text-muted-foreground">
        Compare benchmark ranges by industry and estimate your pricing by experience,
        region, and project scope.
@@ -176,7 +175,7 @@ export default function FreelanceRatesByIndustryPage() {
       </Badge>
      </section>
 
-    <section className="max-w-6xl mx-auto">
+    <section className="site-container">
      <h2 className="sr-only">Freelance rate calculator and benchmarks</h2>
      <div className="mb-8 grid gap-6 md:grid-cols-2">
       <Card>
@@ -385,7 +384,7 @@ export default function FreelanceRatesByIndustryPage() {
       </CardContent>
      </Card>
 
-     <Card className="mt-10 max-w-5xl mx-auto bg-muted/30 border shadow-none">
+     <Card className="mt-10 site-container bg-muted/30 border shadow-none">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
        <div>
         <h3 className="text-xl font-bold text-foreground mb-1">Looking for a Web3 Job?</h3>

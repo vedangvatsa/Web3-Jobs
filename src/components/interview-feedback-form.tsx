@@ -24,7 +24,7 @@ const feedbackSchema = z.object({
  problemSolving: z.number().min(1).max(5),
  communication: z.number().min(1).max(5),
  cultureFit: z.number().min(1).max(5),
- overallRecommendation: z.enum(["Strong Hire", "Hire", "No Hire", "Strong No Hire"]),
+ overallRecommendation: z.enum(["Strong Hire","Hire","No Hire","Strong No Hire"]),
  strengths: z.string().min(1),
  weaknesses: z.string().min(1),
  notes: z.string().optional(),
@@ -37,18 +37,18 @@ export function InterviewFeedbackForm() {
  const form = useForm<FeedbackData>({
   resolver: zodResolver(feedbackSchema),
   defaultValues: {
-   candidateName: "",
-   position: "",
-   interviewerName: "",
-   interviewDate: "",
+   candidateName:"",
+   position:"",
+   interviewerName:"",
+   interviewDate:"",
    technicalSkills: 3,
    problemSolving: 3,
    communication: 3,
    cultureFit: 3,
-   overallRecommendation: "Hire",
-   strengths: "• Strong grasp of Solidity fundamentals.\n• Excellent written communication skills.",
-   weaknesses: "• Lacks deep experience in DeFi security.\n• Could be more proactive in leading discussions.",
-   notes: "Candidate showed great passion for the space and a strong desire to learn.",
+   overallRecommendation:"Hire",
+   strengths:"• Strong grasp of Solidity fundamentals.\n• Excellent written communication skills.",
+   weaknesses:"• Lacks deep experience in DeFi security.\n• Could be more proactive in leading discussions.",
+   notes:"Candidate showed great passion for the space and a strong desire to learn.",
   },
  });
 
@@ -139,27 +139,27 @@ export function InterviewFeedbackForm() {
    y += 25;
    doc.setFontSize(10).setFont('helvetica', 'normal');
    let checkboxX = margin;
-   const options = ["Strong Hire", "Hire", "No Hire", "Strong No Hire"];
+   const options = ["Strong Hire","Hire","No Hire","Strong No Hire"];
    options.forEach(option => {
      doc.rect(checkboxX, y-8, 12, 12); doc.text(option, checkboxX + 20, y);
      checkboxX += 120;
    });
 
    doc.save('Interview_Feedback_Template.pdf');
-   toast({ title: "Success!", description: "Feedback form template downloaded as PDF." });
+   toast({ title:"Success!", description:"Feedback form template downloaded as PDF." });
   } catch (error) {
    console.error(error);
-   toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
+   toast({ variant: 'destructive', title:"Error", description:"Failed to generate PDF." });
   }
  });
 
  return (
   <div className="container mx-auto py-12">
-    <Card className="max-w-4xl mx-auto">
+    <Card className="site-container">
       <CardHeader className="text-center">
          
         <CardTitle className="text-3xl">Interview Feedback Template</CardTitle>
-        <CardDescription className="max-w-2xl mx-auto">
+        <CardDescription className="site-container">
           A structured feedback form is essential for a fair and effective hiring process. It helps reduce bias by ensuring all candidates are evaluated against the same criteria and provides clear, actionable data for debrief sessions.
         </CardDescription>
       </CardHeader>
@@ -200,7 +200,7 @@ export function InterviewFeedbackForm() {
           <Textarea placeholder="Any other notes, observations, or red flags..." {...form.register('notes')} rows={4}/>
            <div>
             <Label className="mb-2 block font-semibold">Overall Recommendation</Label>
-            <RadioGroup onValueChange={(val: "Strong Hire" | "Hire" | "No Hire" | "Strong No Hire") => form.setValue('overallRecommendation', val)} defaultValue={form.getValues('overallRecommendation')} className="flex flex-wrap gap-4">
+            <RadioGroup onValueChange={(val:"Strong Hire" |"Hire" |"No Hire" |"Strong No Hire") => form.setValue('overallRecommendation', val)} defaultValue={form.getValues('overallRecommendation')} className="flex flex-wrap gap-4">
               <div className="flex items-center space-x-2"><RadioGroupItem value="Strong Hire" id="r1" /><Label htmlFor="r1">Strong Hire</Label></div>
               <div className="flex items-center space-x-2"><RadioGroupItem value="Hire" id="r2" /><Label htmlFor="r2">Hire</Label></div>
               <div className="flex items-center space-x-2"><RadioGroupItem value="No Hire" id="r3" /><Label htmlFor="r3">No Hire</Label></div>
@@ -213,7 +213,7 @@ export function InterviewFeedbackForm() {
     <div className="flex justify-center mt-8">
       <Button size="lg" onClick={handleDownload}><Download className="mr-2 h-4 w-4"/> Download as PDF</Button>
     </div>
-     <Card className="mt-12 max-w-4xl mx-auto bg-muted/30 border shadow-none">
+     <Card className="mt-12 site-container bg-muted/30 border shadow-none">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         
         <div>

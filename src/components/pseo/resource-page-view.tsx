@@ -85,7 +85,7 @@ export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps
    <main className="flex-1">
     {/* Hero banner with gradient */}
     <div className={`bg-gradient-to-br ${typeMeta.gradient} text-white`}>
-     <div className="container mx-auto px-4 py-12 md:py-16 max-w-4xl">
+     <div className="container mx-auto px-4 py-12 md:py-16 max-w-6xl">
       {/* Breadcrumb */}
       <nav className="mb-6 text-sm text-white/70">
        <Link href="/resources" className="hover:text-white transition-colors inline-flex items-center gap-1">
@@ -126,7 +126,7 @@ export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps
      </div>
     </div>
 
-    <article className="container mx-auto px-4 py-10 max-w-4xl">
+    <article className="container mx-auto px-4 py-10 max-w-6xl">
      {/* Content based on type */}
      {contentType === 'ideas' && <IdeasContent sections={page.content.sections as any} />}
      {contentType === 'checklists' && <ChecklistContent sections={page.content.sections as any} slug={page.seo.canonicalSlug} />}
@@ -263,7 +263,7 @@ function IdeasContent({ sections }: { sections: Array<{ heading: string; descrip
        return (
         <div key={itemIdx} className="p-4 border rounded-lg hover:border-primary/30 hover:bg-muted/20 transition-all duration-200">
          <div className="flex items-start justify-between gap-4 mb-2">
-          <h3 className="font-semibold text-sm">{item.title || (item as any).mistake || ""}</h3>
+          <h3 className="font-semibold text-sm">{item.title || (item as any).mistake ||""}</h3>
           <div className="flex gap-2 shrink-0">
            {item.difficulty && (
             <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full uppercase tracking-wider ${DIFFICULTY_STYLES[item.difficulty] || ''}`}>
@@ -446,7 +446,7 @@ function MistakesContent({ sections }: { sections: Array<{ heading: string; desc
        return (
         <div key={itemIdx} className={`border border-l-4 ${sev.border} rounded-lg p-4 hover:bg-muted/20 transition-colors`}>
          <div className="flex items-center gap-2 mb-2">
-          <h3 className="font-semibold text-sm">{item.title || item.mistake || ""}</h3>
+          <h3 className="font-semibold text-sm">{item.title || item.mistake ||""}</h3>
           {item.severity && (
            <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full uppercase tracking-wider ${sev.badge}`}>
             {item.severity}

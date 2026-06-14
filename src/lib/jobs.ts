@@ -23,9 +23,9 @@ const BLOCKED_COMPANIES = new Set([
  */
 /**
  * Cleans job titles by removing parenthesized/bracketed suffixes
- * and everything after " - " dashes.
- * e.g. "Business Development Manager (Acquiring)" → "Business Development Manager"
- *   "Engineering Manager - DevX" → "Engineering Manager"
+ * and everything after" -" dashes.
+ * e.g."Business Development Manager (Acquiring)" →"Business Development Manager"
+ *"Engineering Manager - DevX" →"Engineering Manager"
  */
 function cleanJobTitle(title: string, company?: string): string {
  let cleaned = title.trim();
@@ -36,7 +36,7 @@ function cleanJobTitle(title: string, company?: string): string {
   cleaned = cleaned.substring(0, pipeIdx).trim();
  }
 
- // Strip "CompanyName - " prefix (e.g. "Morph - Token Growth Lead" → "Token Growth Lead")
+ // Strip"CompanyName -" prefix (e.g."Morph - Token Growth Lead" →"Token Growth Lead")
  if (company) {
   const escaped = company.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const prefixPattern = new RegExp(`^${escaped}\\s*[-–:]\\s*`, 'i');
@@ -46,7 +46,7 @@ function cleanJobTitle(title: string, company?: string): string {
   }
  }
 
- // If entire title is wrapped in parens, unwrap it: "(Core Dev)" → "Core Dev"
+ // If entire title is wrapped in parens, unwrap it:"(Core Dev)" →"Core Dev"
  if (/^\(.*\)$/.test(cleaned)) {
   cleaned = cleaned.slice(1, -1).trim();
  }
@@ -60,7 +60,7 @@ function cleanJobTitle(title: string, company?: string): string {
  // Remove [anything]
  cleaned = cleaned.replace(/\s*\[.*?\]\s*/g, ' ').trim();
 
- // Handle " - " splits: keep the meaningful side
+ // Handle" -" splits: keep the meaningful side
  const dashIdx = cleaned.search(/\s+-\s+/);
  if (dashIdx > 0) {
   const before = cleaned.substring(0, dashIdx).trim();
@@ -68,11 +68,11 @@ function cleanJobTitle(title: string, company?: string): string {
   if (before.split(/\s+/).length >= 2 && before.length >= 8) {
    cleaned = before; // before is meaningful, drop suffix
   } else if (after.split(/\s+/).length >= 2 && after.length >= 8) {
-   cleaned = after;  // before is a short qualifier like "Mid", keep after
+   cleaned = after;  // before is a short qualifier like"Mid", keep after
   }
  }
 
- // Clean up leading slashes, dashes, or pipes (e.g. "/BizDev" -> "BizDev")
+ // Clean up leading slashes, dashes, or pipes (e.g."/BizDev" ->"BizDev")
  cleaned = cleaned.replace(/^[\/\-\|\\\s]+/, '').trim();
 
  // Clean up trailing dashes

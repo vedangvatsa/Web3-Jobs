@@ -6,7 +6,7 @@ description: 'Discover how smart contracts work, why they are the essential buil
 category: 'Technology Deep Dives'
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 Smart contracts serve as the engines of [Web3](/what-is-web3) technology, reshaping how agreements and transactions occur in the digital field. They enable the creation of diverse applications, from Decentralized Finance ([DeFi](/what-is-defi)) protocols to intricate governance systems. A smart contract functions as a self-executing computer program stored on a blockchain, executing automatically when specific conditions are met. This can be likened to a vending machine: you input money, and the machine dispenses the product without the need for intermediaries or paperwork. The rules are built into the machine’s code, ensuring trust in the system.

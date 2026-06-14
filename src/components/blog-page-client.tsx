@@ -107,20 +107,16 @@ export function BlogPageClient({ allArticles, categories }: { allArticles: Omit<
   return articles;
  }, [allArticles, selectedCategory, searchQuery]);
 
- const headlines = [
-   "The Web3 Playbook",
-   "Career Guides",
-   "Technology Deep Dives",
-   "Industry Insights"
+ const headlines = ["The Web3 Playbook","Career Guides","Technology Deep Dives","Industry Insights"
  ];
 
  return (
   <div className="container mx-auto px-4 py-8">
-   <section className="text-center mb-12 max-w-4xl mx-auto">
+   <section className="text-center mb-12 site-container">
     <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
    </section>
 
-   <div className="max-w-7xl mx-auto">
+   <div className="site-container">
     <Card className="p-4 mb-8 sticky top-[72px] z-10 shadow-sm bg-background border-b">
      <div className="flex flex-col gap-4">
        <div className="relative">

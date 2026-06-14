@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/frontrun/1200/630"
 data-ai-hint: "front running"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-05-20"
+lastUpdated: "2026-06-14"
 ---
 
 ## What is Front-Running in DeFi Trading?

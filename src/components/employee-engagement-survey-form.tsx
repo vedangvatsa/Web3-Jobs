@@ -39,9 +39,9 @@ export function EmployeeEngagementSurveyForm() {
    recognition: 6,
    feedback: 7,
    growth: 8,
-   proudOf: "",
-   improvement: "",
-   finalThoughts: "",
+   proudOf:"",
+   improvement:"",
+   finalThoughts:"",
   },
  });
 
@@ -101,20 +101,20 @@ export function EmployeeEngagementSurveyForm() {
    addOpenEndedQuestion("Any final thoughts or comments?", 4);
 
    doc.save('Employee_Engagement_Survey_Template.pdf');
-   toast({ title: "Success!", description: "Survey template downloaded as PDF." });
+   toast({ title:"Success!", description:"Survey template downloaded as PDF." });
   } catch (error) {
    console.error(error);
-   toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
+   toast({ variant: 'destructive', title:"Error", description:"Failed to generate PDF." });
   }
  });
 
  return (
   <div className="container mx-auto py-12">
-    <Card className="max-w-4xl mx-auto">
+    <Card className="site-container">
       <CardHeader className="text-center">
          
         <CardTitle className="text-3xl">Employee Engagement Pulse Survey</CardTitle>
-        <CardDescription className="max-w-2xl mx-auto">
+        <CardDescription className="site-container">
           Quickly gauge team morale, satisfaction, and overall engagement with this pulse survey. Regular feedback is key to building a thriving culture and identifying potential issues before they become major problems.
         </CardDescription>
       </CardHeader>
@@ -154,7 +154,7 @@ export function EmployeeEngagementSurveyForm() {
     <div className="flex justify-center mt-8">
       <Button size="lg" onClick={handleDownload}><Download className="mr-2 h-4 w-4"/> Download Survey as PDF</Button>
     </div>
-    <Card className="mt-12 max-w-4xl mx-auto bg-muted/30 border shadow-none">
+    <Card className="mt-12 site-container bg-muted/30 border shadow-none">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         
         <div>
