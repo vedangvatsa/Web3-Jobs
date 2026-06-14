@@ -671,12 +671,36 @@
     "source": "Ashby: Sardine"
   },
   {
+    "id": "82406238",
+    "title": "Associate DeFi Growth SpecialistProRel",
+    "company": "Lido",
+    "link": "https://lido.fi/opportunities/associate-defi-growth-specialist",
+    "date": "2026-06-11T16:35:40.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "82406239",
+    "title": "SecOps EngineerSecOps",
+    "company": "Lido",
+    "link": "https://lido.fi/opportunities/secops-engineer",
+    "date": "2026-06-11T16:35:40.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
     "id": "7997402",
     "title": "Construction Coordinator",
     "company": "Sonic",
     "link": "https://boards.greenhouse.io/sonic/jobs/7997402?gh_jid=7997402",
     "date": "2026-06-11T12:31:26-04:00",
     "source": "Greenhouse: Sonic"
+  },
+  {
+    "id": "82399931",
+    "title": "Member of Specialist Staff (Legal & Reg) @ Zuba",
+    "company": "Zuba",
+    "link": "https://getzuba.notion.site/Member-of-Specialist-Staff-Legal-Reg-Zuba-30cfffbb5f2a80ffa238c6fbe912caa3?pvs=25",
+    "date": "2026-06-11T16:01:48.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "8000904",
@@ -711,12 +735,68 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "82394695",
+    "title": "Staff DevOps Engineer",
+    "company": "Alchemy",
+    "link": "https://jobs.ashbyhq.com/alchemy/e7a61a12-87f6-4c7f-96a1-289df03e3996",
+    "date": "2026-06-11T15:14:51.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "82394258",
+    "title": "Associate DeFi Growth Specialist",
+    "company": "Lido",
+    "link": "https://jobs.ashbyhq.com/Lido.fi/9cb62bc8-01de-4a13-96a3-933b6d959394",
+    "date": "2026-06-11T15:11:28.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "82394252",
+    "title": "SecOps Engineer",
+    "company": "Lido",
+    "link": "https://jobs.ashbyhq.com/Lido.fi/3a086df3-4a1f-418f-9c70-27eee6138cf6",
+    "date": "2026-06-11T15:11:27.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "82392445",
+    "title": "Technical Program Lead - Avalanche Foundation",
+    "company": "Ava Labs",
+    "link": "https://jobs.ashbyhq.com/ava-labs/c3710230-6e52-4255-ada5-2185663995d9",
+    "date": "2026-06-11T15:05:12.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "82392443",
+    "title": "Senior Forward Deployed Engineer",
+    "company": "Ava Labs",
+    "link": "https://jobs.ashbyhq.com/ava-labs/444892f3-0872-4476-9d52-20c7f1b1f8d4",
+    "date": "2026-06-11T15:05:11.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
     "id": "8000227",
     "title": "Account Executive - Ripple Treasury - French speaking",
     "company": "Ripple",
     "link": "https://ripple.com/careers/all-jobs/job/8000227?gh_jid=8000227",
     "date": "2026-06-11T10:55:25-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "82391238",
+    "title": "Arabic-Speaking Sales Development Representative",
+    "company": "Workable",
+    "link": "https://apply.workable.com/careers/j/9027EBDF1B",
+    "date": "2026-06-11T14:52:23.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "82391237",
+    "title": "Sales Development Representative",
+    "company": "Workable",
+    "link": "https://apply.workable.com/careers/j/7CDA40A959",
+    "date": "2026-06-11T14:52:23.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
   },
   {
     "id": "7813279",
@@ -727,12 +807,52 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "82389791",
+    "title": "Senior LLM Systems Engineer",
+    "company": "Across Protocol",
+    "link": "https://jobs.ashbyhq.com/risklabs/5ce32b6c-a892-4c9f-8b78-26914a7b35ee",
+    "date": "2026-06-11T14:41:37.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "82389790",
+    "title": "Enterprise Partnerships Lead, Prediction Markets",
+    "company": "Across Protocol",
+    "link": "https://jobs.ashbyhq.com/risklabs/08e0c4c0-8e4f-4489-b98b-6b746f1c6546",
+    "date": "2026-06-11T14:41:36.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "82389789",
+    "title": "Protocol Support Manager",
+    "company": "Across Protocol",
+    "link": "https://jobs.ashbyhq.com/risklabs/1282e0c1-7598-4975-b6a5-1ad696bcf366",
+    "date": "2026-06-11T14:41:36.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "82389091",
+    "title": "Senior Software Engineer, Core",
+    "company": "Coin Metrics",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/c4bb58ef-00b0-414d-9788-374fee5bc762",
+    "date": "2026-06-11T14:35:21.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "7947120",
     "title": "Senior Compliance Tech Analyst, Platform (Compliance Automation)",
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/7947120?gh_jid=7947120",
     "date": "2026-06-11T10:12:25-04:00",
     "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "82385734",
+    "title": "Senior Support Engineer",
+    "company": "Greenhouse",
+    "link": "https://boards.greenhouse.io/greenhouse/jobs/7993560",
+    "date": "2026-06-11T14:08:15.000Z",
+    "source": "https://coinbase.getro.com/jobs"
   },
   {
     "id": "7957344",
@@ -749,6 +869,14 @@
     "link": "https://jobs.lever.co/binance/9871f92c-261f-48b6-bc51-0315bfb1e09d",
     "date": "2026-06-11T13:27:51.349Z",
     "source": "Lever: Binance"
+  },
+  {
+    "id": "82381459",
+    "title": "Senior Mobile Engineer (React Native)",
+    "company": "dYdX",
+    "link": "https://jobs.gem.com/dydx/am9icG9zdDpbxm8-qnRQEgAS50-M49v6",
+    "date": "2026-06-11T13:14:29.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
   },
   {
     "id": "7646418",
@@ -807,6 +935,14 @@
     "source": "Greenhouse: Ripple"
   },
   {
+    "id": "82356956",
+    "title": "Sr. GTM Marketing",
+    "company": "Spruce Systems",
+    "link": "https://jobs.ashbyhq.com/spruceid/8d55c448-4a6a-4fac-954e-db8f7fb14d46",
+    "date": "2026-06-11T08:30:28.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
     "id": "7978456",
     "title": "Operations Specialist",
     "company": "Flow Traders",
@@ -831,6 +967,14 @@
     "source": "Greenhouse: Ripple"
   },
   {
+    "id": "82330026",
+    "title": "Account Executive- Singapore",
+    "company": "Blockaid",
+    "link": "https://www.comeet.com/jobs/blockaid/69.00B/account-executive--singapore/E4.C68",
+    "date": "2026-06-11T05:21:55.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
     "id": "82326646",
     "title": "Financial Operations Analyst",
     "company": "OXIO",
@@ -853,6 +997,14 @@
     "link": "https://ripple.com/careers/all-jobs/job/7998113?gh_jid=7998113",
     "date": "2026-06-11T00:11:18-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "23ab4123-002c-45df-8340-2ad5c34d1fa1",
+    "title": "Java Backend QA Engineer (White-box Focus)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/23ab4123-002c-45df-8340-2ad5c34d1fa1",
+    "date": "2026-06-11T03:28:37.783Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "82319625",
@@ -3891,6 +4043,14 @@
     "company": "Axiom",
     "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8580957002&gh_jid=8580957002",
     "date": "2026-06-05T16:42:50-04:00",
+    "source": "Greenhouse: Axiom"
+  },
+  {
+    "id": "8580953002",
+    "title": "Senior Manager of AI Solution Marketing (Remote)",
+    "company": "Axiom",
+    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8580953002&gh_jid=8580953002",
+    "date": "2026-06-05T16:42:07-04:00",
     "source": "Greenhouse: Axiom"
   },
   {
@@ -7602,6 +7762,14 @@
     "link": "https://jobs.ashbyhq.com/Render/d74e304b-7e7e-4c43-9467-cf4b0764cc24",
     "date": "2026-05-29T20:38:01.584+00:00",
     "source": "Ashby: Render Network"
+  },
+  {
+    "id": "7966641",
+    "title": "Program Manager, Security Business Enablement",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7966641",
+    "date": "2026-05-29T16:13:27-04:00",
+    "source": "Greenhouse: Stripe"
   },
   {
     "id": "6007223004",
@@ -15666,181 +15834,5 @@
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867388101",
     "date": "2026-05-15T01:25:10-04:00",
     "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4857723101",
-    "title": "LATAM Business Development Assistant",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4857723101",
-    "date": "2026-05-15T00:46:04-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4857726101",
-    "title": "Senior Business Risk Control Specialist",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4857726101",
-    "date": "2026-05-15T00:13:34-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4867352101",
-    "title": "Java Development Engineer Intern",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867352101",
-    "date": "2026-05-15T00:08:15-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4867356101",
-    "title": "Principal Backend Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4867356101",
-    "date": "2026-05-14T23:54:17-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "441cbbf1-e674-4ba1-9a36-bd78f8b11475",
-    "title": "Quant Trader",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/441cbbf1-e674-4ba1-9a36-bd78f8b11475",
-    "date": "2026-05-15T03:19:03.660Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "441cbbf1-e674-4ba1-9a36-bd78f8b11475",
-    "title": "Quant Trader (Sports & Prediction Markets)",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/441cbbf1-e674-4ba1-9a36-bd78f8b11475",
-    "date": "2026-05-15T03:19:03.660Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "7919030",
-    "title": "[TEMPLATE] Default Template",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7919030",
-    "date": "2026-05-14T21:34:53-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7919030",
-    "title": "Technical Solutions Specialist",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7919030",
-    "date": "2026-05-14T21:34:53-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7917252",
-    "title": "Program Manager, Security Business Enablement",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7917252",
-    "date": "2026-05-14T19:31:08-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7927664",
-    "title": "Product Marketing Lead",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7927664?gh_jid=7927664",
-    "date": "2026-05-14T19:13:17-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "1c75c923-d515-42ba-abbf-d4e78bdead8c",
-    "title": "Senior Software Engineer, Platform",
-    "company": "Stellar",
-    "link": "https://jobs.ashbyhq.com/Stellar/1c75c923-d515-42ba-abbf-d4e78bdead8c",
-    "date": "2026-05-14T22:44:40.696+00:00",
-    "source": "Ashby: Stellar"
-  },
-  {
-    "id": "448fe98a-0075-4615-8a78-3c059aedccc5",
-    "title": "Principal Product Designer",
-    "company": "Ethena",
-    "link": "https://jobs.lever.co/ethena/448fe98a-0075-4615-8a78-3c059aedccc5",
-    "date": "2026-05-14T22:43:27.479Z",
-    "source": "Lever: Ethena"
-  },
-  {
-    "id": "7760310",
-    "title": "Senior Crypto AML Investigator",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7760310?t=gh_src=&gh_jid=7760310",
-    "date": "2026-05-14T18:28:43-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7926728",
-    "title": "Accounts Receivable Analyst - Service Strategy Enablement",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7926728",
-    "date": "2026-05-14T18:28:21-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7818899",
-    "title": "Manager, Client Support NAM",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7818899?gh_jid=7818899",
-    "date": "2026-05-14T17:20:55-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "8549874002",
-    "title": "Senior Manager of AI Tech+Talent Solution Marketing (Remote)",
-    "company": "Axiom",
-    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8549874002&gh_jid=8549874002",
-    "date": "2026-05-14T17:20:00-04:00",
-    "source": "Greenhouse: Axiom"
-  },
-  {
-    "id": "8549874002",
-    "title": "Senior Manager of AI Solution Marketing (Remote)",
-    "company": "Axiom",
-    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8549874002&gh_jid=8549874002",
-    "date": "2026-05-14T17:20:00-04:00",
-    "source": "Greenhouse: Axiom"
-  },
-  {
-    "id": "7927324",
-    "title": "Partner Solutions Architect - AMER Communnities",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7927324",
-    "date": "2026-05-14T17:12:40-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7927324",
-    "title": "Partner Solutions Architect - LatAm",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7927324",
-    "date": "2026-05-14T17:12:40-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7927330",
-    "title": "Partner Solutions Architect - Billing",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7927330",
-    "date": "2026-05-14T17:02:31-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "16fb536d-fe10-4ea7-8956-d6d0cbddd6f5",
-    "title": "AML Operations Analyst, Compliance Operator",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/16fb536d-fe10-4ea7-8956-d6d0cbddd6f5",
-    "date": "2026-05-14T20:36:57.732+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "16fb536d-fe10-4ea7-8956-d6d0cbddd6f5",
-    "title": "AML Operations Analyst",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/16fb536d-fe10-4ea7-8956-d6d0cbddd6f5",
-    "date": "2026-05-14T20:36:57.732+00:00",
-    "source": "Ashby: Ramp"
   }
 ]
