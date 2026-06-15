@@ -14,7 +14,7 @@ import { useToast } from '@/hooks/use-toast';
 
 import { Popover, PopoverContent, PopoverTrigger } from './ui/popover';
 import { Calendar } from './ui/calendar';
-import { format } from 'date-fns';
+
 
 const milestoneItemSchema = z.object({
  description: z.string().min(1, 'Milestone description is required'),

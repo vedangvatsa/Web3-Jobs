@@ -14,7 +14,7 @@ import { useToast } from '@/hooks/use-toast';
 
 import { Popover, PopoverContent, PopoverTrigger } from './ui/popover';
 import { Calendar } from './ui/calendar';
-import { format } from 'date-fns';
+
 
 const offerLetterSchema = z.object({
  companyName: z.string().min(1,"Company Name is required"),
@@ -73,7 +73,7 @@ export function OfferLetterForm() {
    let y = margin;
 
    doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#4B5563');
-   doc.text(format(data.date, 'MMMM d, yyyy'), margin, y);
+   doc.text(data.date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }), margin, y);
    y += 40;
 
    doc.setFontSize(11).setFont('helvetica', 'bold');
@@ -93,14 +93,14 @@ export function OfferLetterForm() {
    const bodyText2 = `This letter outlines the terms and conditions of your employment.
    
 Position: ${data.jobTitle}
-Start Date: ${format(data.startDate, 'MMMM d, yyyy')}
+Start Date: ${data.startDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
 ${data.reportingTo ? `Reporting To: ${data.reportingTo}` : ''}
 
 Compensation: Your starting salary will be ${data.salary}. ${data.vestingDetails || ''}
 
 We are excited about the prospect of you joining our team and contributing to the future of the decentralized web.
 
-This offer is open until ${format(data.offerExpiryDate, 'MMMM d, yyyy')}. Please sign and return a copy of this letter to confirm your acceptance.`;
+This offer is open until ${data.offerExpiryDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}. Please sign and return a copy of this letter to confirm your acceptance.`;
 
    doc.setFontSize(11).setFont('helvetica', 'normal');
    const lines1 = doc.splitTextToSize(bodyText1, contentWidth);
@@ -164,21 +164,21 @@ This offer is open until ${format(data.offerExpiryDate, 'MMMM d, yyyy')}. Please
                <div className="space-y-1">
                 <Label>Offer Date</Label>
                 <Popover>
-                  <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.date ? format(watchedForm.date, 'PPP') : <span>Pick a date</span>}</Button></PopoverTrigger>
+                  <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.date ? watchedForm.date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : <span>Pick a date</span>}</Button></PopoverTrigger>
                   <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.date} onSelect={(d) => d && form.setValue('date', d)} initialFocus /></PopoverContent>
                 </Popover>
               </div>
               <div className="space-y-1">
                 <Label>Start Date</Label>
                 <Popover>
-                  <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.startDate ? format(watchedForm.startDate, 'PPP') : <span>Pick a date</span>}</Button></PopoverTrigger>
+                  <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.startDate ? watchedForm.startDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : <span>Pick a date</span>}</Button></PopoverTrigger>
                   <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.startDate} onSelect={(d) => d && form.setValue('startDate', d)} /></PopoverContent>
                 </Popover>
               </div>
               <div className="space-y-1">
                 <Label>Offer Expiry Date</Label>
                 <Popover>
-                  <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.offerExpiryDate ? format(watchedForm.offerExpiryDate, 'PPP') : <span>Pick a date</span>}</Button></PopoverTrigger>
+                  <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.offerExpiryDate ? watchedForm.offerExpiryDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : <span>Pick a date</span>}</Button></PopoverTrigger>
                   <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.offerExpiryDate} onSelect={(d) => d && form.setValue('offerExpiryDate', d)} /></PopoverContent>
                 </Popover>
               </div>

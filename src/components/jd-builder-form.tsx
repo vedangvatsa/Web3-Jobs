@@ -19,7 +19,6 @@ import {
 } from '@/components/ui/select';
 import { Download, Trash2, Plus, Briefcase, Target, CheckSquare, Sparkles, Bot, ArrowRight, ClipboardEdit } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
-import { motion, AnimatePresence } from 'framer-motion';
 
 
 const jobDescriptionSchema = z.object({

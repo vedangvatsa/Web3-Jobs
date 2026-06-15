@@ -36,7 +36,6 @@ import {
  PopoverTrigger,
 } from '@/components/ui/popover';
 import { Calendar } from '@/components/ui/calendar';
-import { format } from 'date-fns';
 
 const lineItemSchema = z.object({
  description: z.string().min(1, 'Description is required.'),
@@ -139,11 +138,11 @@ const InvoicePreview = ({ data }: { data: InvoiceFormData }) => {
        <div className="grid grid-cols-2 gap-8 mb-8">
         <div className="text-left">
           <p className="text-sm text-gray-500">Issue Date</p>
-          <p className="font-medium">{data.issueDate ? format(data.issueDate, 'PPP') : '-'}</p>
+          <p className="font-medium">{data.issueDate ? data.issueDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : '-'}</p>
         </div>
          <div className="text-right">
           <p className="text-sm text-gray-500">Due Date</p>
-          <p className="font-medium">{data.dueDate ? format(data.dueDate, 'PPP') : '-'}</p>
+          <p className="font-medium">{data.dueDate ? data.dueDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : '-'}</p>
         </div>
        </div>
 
@@ -358,13 +357,13 @@ export function InvoiceForm() {
    doc.setFont('helvetica', 'normal').setFontSize(9).setTextColor(100, 116, 139);
    doc.text('Issue Date', margin, y);
    doc.setFont('helvetica', 'medium').setFontSize(10).setTextColor(0,0,0);
-   doc.text(data.issueDate ? format(data.issueDate, 'PPP') : '', margin, y += 15);
+   doc.text(data.issueDate ? data.issueDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : '', margin, y += 15);
 
    y = dateY;
    doc.setFont('helvetica', 'normal').setFontSize(9).setTextColor(100, 116, 139);
    doc.text('Due Date', docWidth - margin, y, { align: 'right'});
    doc.setFont('helvetica', 'medium').setFontSize(10).setTextColor(0,0,0);
-   doc.text(data.dueDate ? format(data.dueDate, 'PPP') : '', docWidth - margin, y+=15, { align: 'right'});
+   doc.text(data.dueDate ? data.dueDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : '', docWidth - margin, y+=15, { align: 'right'});
    y += 30;
 
    // Table Header
@@ -529,14 +528,14 @@ export function InvoiceForm() {
             <div className="space-y-1">
               <Label>Issue Date</Label>
               <Popover>
-                <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.issueDate ? format(watchedForm.issueDate, 'PPP') : (<span>Pick a date</span>)}</Button></PopoverTrigger>
+                <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.issueDate ? watchedForm.issueDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : (<span>Pick a date</span>)}</Button></PopoverTrigger>
                 <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.issueDate} onSelect={(d) => d && form.setValue('issueDate', d)} initialFocus /></PopoverContent>
               </Popover>
             </div>
             <div className="space-y-1">
               <Label>Due Date</Label>
               <Popover>
-                <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.dueDate ? format(watchedForm.dueDate, 'PPP') : (<span>Pick a date</span>)}</Button></PopoverTrigger>
+                <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.dueDate ? watchedForm.dueDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : (<span>Pick a date</span>)}</Button></PopoverTrigger>
                 <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.dueDate} onSelect={(d) => d && form.setValue('dueDate', d)} /></PopoverContent>
               </Popover>
             </div>

@@ -15,7 +15,7 @@ import { useToast } from '@/hooks/use-toast';
 import { RadioGroup, RadioGroupItem } from './ui/radio-group';
 import { Popover, PopoverContent, PopoverTrigger } from './ui/popover';
 import { Calendar } from './ui/calendar';
-import { format } from 'date-fns';
+
 
 const surveySchema = z.object({
  employeeName: z.string().optional(),
@@ -129,7 +129,7 @@ export function EmployeeExitSurveyForm() {
             <Input placeholder="Job Title" {...form.register('jobTitle')} />
             <Input placeholder="Department" {...form.register('department')} />
              <Popover>
-              <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.lastDay ? format(watchedForm.lastDay, 'PPP') : (<span>Pick a date</span>)}</Button></PopoverTrigger>
+              <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.lastDay ? watchedForm.lastDay.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : (<span>Pick a date</span>)}</Button></PopoverTrigger>
               <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.lastDay} onSelect={(d) => d && form.setValue('lastDay', d)} initialFocus /></PopoverContent>
             </Popover>
           </div>
