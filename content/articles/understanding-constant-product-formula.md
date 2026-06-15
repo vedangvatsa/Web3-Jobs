@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/xyk/1200/630"
 data-ai-hint: "constant product formula"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 ## Understanding the Constant Product Formula (`x * y = k`): The Engine of AMMs

@@ -7,7 +7,7 @@ description: "Set clear expectations, provide feedback, and maintain team alignm
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "performance review meeting"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 ## Importance of Performance Management

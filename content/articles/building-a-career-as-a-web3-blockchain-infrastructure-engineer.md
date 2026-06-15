@@ -7,7 +7,7 @@ description: "A career guide for engineers who want to build the core infrastruc
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 While dApp and [smart contract](/what-are-smart-contracts) developers focus on application development, Web3 [Blockchain](/what-is-a-blockchain) Infrastructure Engineers build the foundational technologies that support those applications. These engineers occupy a specialized role within the blockchain ecosystem, concentrating on constructing, maintaining, and optimizing core components.

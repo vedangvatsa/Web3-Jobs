@@ -7,7 +7,7 @@ description: "Web3 is enabling a shift from an attention-based economy to an int
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 For the past two decades, the internet has operated primarily under the **Attention Economy**. Major platforms such as Google, Facebook, and TikTok have amassed significant revenue by capitalizing on a straightforward concept: your attention is a commodity. These companies design their services to capture your time and focus, then sell this attention to advertisers willing to pay the highest price. This model has created a digital environment optimized for engagement, often resulting in negative consequences such as addiction, misinformation, and a decline in content quality.

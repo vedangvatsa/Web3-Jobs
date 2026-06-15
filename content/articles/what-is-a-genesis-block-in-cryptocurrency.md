@@ -7,7 +7,7 @@ description: "The genesis block is the very first block ever created on a blockc
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 Every [blockchain](/what-is-a-blockchain) has a starting point. The **genesis block** represents the first block ever created in a blockchain's timeline. Known as Block 0, it serves as the foundation from which all subsequent blocks are cryptographically linked, forming the chain that constitutes the distributed ledger. This block is a unique and immutable record in a blockchain’s history.

@@ -7,7 +7,7 @@ category: "Career Guides"
 data-ai-hint: "code on screen"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 ## Beyond JavaScript: The Coding Languages Powering Web3

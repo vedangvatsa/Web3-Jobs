@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/propagate/1200/630"
 data-ai-hint: "block propagation"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 ## What is Block Propagation in Blockchain Networks?

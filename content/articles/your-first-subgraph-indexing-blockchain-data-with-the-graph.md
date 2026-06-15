@@ -6,7 +6,7 @@ description: "Learn how to build a subgraph using The Graph Protocol. This guide
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 Building a decentralized application (dApp) requires two key components: smart contracts, which serve as the on-chain backend, and a user interface, which functions as the off-chain frontend. A significant hurdle for dApp developers is retrieving data from the [blockchain](/what-is-a-blockchain) for display on the frontend. Accessing data directly from a [smart contract](/what-are-smart-contracts) can be slow and inefficient, presenting a challenge for development.

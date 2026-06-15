@@ -7,7 +7,7 @@ category: Career Guides
 data-ai-hint: remote meeting
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 ## Meeting Etiquette for Remote Workers

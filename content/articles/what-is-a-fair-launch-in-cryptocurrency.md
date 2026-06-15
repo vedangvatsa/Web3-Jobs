@@ -7,7 +7,7 @@ description: "A fair launch is a token distribution model where a new cryptocurr
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 In the [Web3](/what-is-web3) sector, the initial distribution method of a cryptocurrency significantly impacts its sustainability and adherence to the principles of decentralization. A **fair launch** represents a token distribution model in which a new cryptocurrency is introduced without pre-mining, venture capital allocations, or early access opportunities for insiders.
