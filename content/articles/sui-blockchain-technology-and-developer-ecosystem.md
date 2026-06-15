@@ -7,7 +7,7 @@ description: "An overview of the Sui blockchain, a new Layer 1 designed for high
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 In the competitive field of **[Layer 1 blockchains](/what-is-a-layer-1-blockchain)**, new networks are emerging that challenge the traditional approaches of established chains like [Ethereum](/what-is-ethereum). One of the most notable of these is **Sui**, a blockchain built specifically for high performance, low latency, and significant scalability.

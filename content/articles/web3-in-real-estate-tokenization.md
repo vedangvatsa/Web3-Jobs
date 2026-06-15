@@ -7,7 +7,7 @@ category: "Industry Insights"
 data-ai-hint: "people discussing chart"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 ## Unlocking Illiquid Markets: How Web3 and Tokenization Will Transform Real Estate

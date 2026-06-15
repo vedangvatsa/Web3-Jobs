@@ -7,7 +7,7 @@ description: "DAOs require a new approach to recruitment. This guide covers how 
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 Hiring for a startup presents challenges. Hiring for a [DAO](/what-is-a-dao) introduces a new set of complexities. A Decentralized Autonomous Organization (DAO) operates differently from traditional companies; it is a community-driven entity where contributions come from pseudonymous participants. Conventional recruitment methods, such as posting job ads on LinkedIn and sifting through resumes, fail to meet the needs of this environment characterized by on-chain reputations and bounty-based work.

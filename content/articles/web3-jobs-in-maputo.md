@@ -7,7 +7,7 @@ description: "A career guide to the emerging Web3 job market in Maputo. Explore 
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 Maputo, the busy port capital of Mozambique, is experiencing a technological renaissance. A youthful and entrepreneurial population is driving the growth of the local technology sector, supported by increasing internet connectivity. Although the [Web3](/what-is-web3) ecosystem in Maputo is still developing, enthusiasm and opportunities are on the rise. A dedicated community of developers, artists, and entrepreneurs is beginning to use [blockchain](/what-is-a-blockchain) technology to tackle local issues and integrate Mozambique into the global decentralized economy.

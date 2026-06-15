@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/305/1200/630"
 data-ai-hint: "team relationships"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 ## Building Strong Relationships with Your New Team

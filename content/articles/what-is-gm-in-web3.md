@@ -7,7 +7,7 @@ category: "Career Guides"
 data-ai-hint: "crypto culture"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 GM stands for "good morning." This simple greeting appears frequently on crypto Twitter and within Discord servers, with numerous individuals from the crypto community exchanging GM messages each morning.

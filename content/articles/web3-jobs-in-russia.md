@@ -7,7 +7,7 @@ description: "A look at the complex space for Web3 careers in Russia. This guide
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 Russia occupies a unique position in the [Web3](/what-is-web3) field. The nation is home to a wealth of technical talent, having produced prominent figures like [Ethereum](/what-is-ethereum) co-founder Vitalik Buterin. However, the ongoing geopolitical situation and an unclear regulatory framework present challenges for the local crypto industry.

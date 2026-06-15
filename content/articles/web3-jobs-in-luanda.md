@@ -7,7 +7,7 @@ description: "A career guide to the nascent Web3 job market in Luanda. Explore h
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 Luanda, the capital of Angola, is entering the Web3 sector, signaling a shift in its technological field. As a significant hub for finance and energy in Central Africa, Luanda has both the economic resources and an emerging tech talent pool to develop a blockchain ecosystem. There is growing interest among developers, entrepreneurs, and corporations in using decentralized technology to address local issues, especially in finance and logistics.

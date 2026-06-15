@@ -7,7 +7,7 @@ description: "A clear explanation of how consensus mechanisms work. This guide d
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 A **[blockchain](/what-is-a-blockchain)** serves as a distributed database, functioning as a shared ledger maintained by a network of untrusting computers. This setup raises a critical issue: How do these independent participants reach a consensus on a single version of truth? How do they determine the validity of transactions and their sequence? The answer is found in the **consensus mechanism**.

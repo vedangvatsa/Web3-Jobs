@@ -7,7 +7,7 @@ description: "A guide to building a career in SocialFi. Learn about the unique c
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 SocialFi merges social media with [decentralized finance](/what-is-defi), creating a dynamic space within [Web3](/what-is-web3). This sector is developing social networks where users maintain control over their data and identity while receiving rewards for their contributions. Developers in this field face unique challenges, combining social graph design with on-chain functionalities.

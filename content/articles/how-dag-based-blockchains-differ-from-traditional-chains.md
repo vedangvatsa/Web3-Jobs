@@ -7,7 +7,7 @@ description: "An exploration of Directed Acyclic Graphs (DAGs), an alternative t
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 When discussing distributed ledgers, most people envision a **[blockchain](/what-is-a-blockchain)**, a linear chain of blocks where each block cryptographically links to its predecessor. This structure, introduced by [Bitcoin](/what-is-bitcoin), forms the backbone of most cryptocurrencies and [smart contract](/what-are-smart-contracts) platforms. However, other data structures exist that can serve as decentralized ledgers, one of the most intriguing being the **Directed Acyclic Graph**, or **DAG**.

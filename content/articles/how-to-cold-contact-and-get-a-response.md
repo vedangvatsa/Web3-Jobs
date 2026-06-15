@@ -7,7 +7,7 @@ description: "A guide to effective cold outreach in Web3. Learn how to write a c
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 In the dynamic world of [Web3](/what-is-web3), mastering the art of cold outreach can significantly impact your career. A well-crafted message can open doors to founders, investors, or hiring managers. Unfortunately, many cold outreach attempts fail due to generic content and a self-serving tone.

@@ -7,7 +7,7 @@ description: "In a market driven by hype, where does marketing end and manipulat
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 The [Web3](/what-is-web3) sector thrives on excitement and engagement. Narratives, memes, and community-driven enthusiasm can transform a project from obscurity to significant value within weeks. This environment presents substantial opportunities for marketers, but it also raises ethical concerns. The distinction between genuine marketing and manipulative tactics can often blur. Understanding where authentic community building ends and mob mentality begins is essential for anyone involved in Web3.

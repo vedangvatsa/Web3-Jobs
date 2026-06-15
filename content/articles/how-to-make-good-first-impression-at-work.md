@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/304/1200/630"
 data-ai-hint: "first impression"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 ## Making a Great First Impression at Work

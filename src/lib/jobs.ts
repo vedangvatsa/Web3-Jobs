@@ -60,6 +60,37 @@ function cleanJobTitle(title: string, company?: string): string {
  // Remove [anything]
  cleaned = cleaned.replace(/\s*\[.*?\]\s*/g, ' ').trim();
 
+ // Remove common unbracketed fluff (case-insensitive)
+ const fluffPatterns = [
+  // Remote/location fluff
+  /100%\s*(?:worldwide\s*)?remote/gi,
+  /worldwide\s*remote/gi,
+  /fully\s*remote/gi,
+  /\bremote\s*(?:ok|only)?\b/gi,
+  // Timezone fluff
+  /\b(?:cet|est|pst|gmt|utc)\s*timezone\b/gi,
+  /\b(?:cet|est|pst|gmt|utc)\b/gi,
+  // Contract/Employment type fluff
+  /\d+\s*months?\s*contract/gi,
+  /with\s*potential\s*extension/gi,
+  /contract\s*to\s*hire/gi,
+  /full[- ]time/gi,
+  /part[- ]time/gi,
+  /fixed[- ]term/gi,
+  /b2b/gi,
+  // Common EU gender inclusivity tags not caught by brackets/parens
+  /\bm\/?w\/?d\b/gi,
+  /\bf\/?m\/?d\b/gi,
+  /\bm\/?f\/?x\b/gi
+ ];
+
+ for (const pattern of fluffPatterns) {
+  cleaned = cleaned.replace(pattern, ' ');
+ }
+
+ // Clean up any hanging " -" or "," that might be left behind
+ cleaned = cleaned.replace(/,\s*$/, '').trim();
+
  // Handle" -" splits: keep the meaningful side
  const dashIdx = cleaned.search(/\s+-\s+/);
  if (dashIdx > 0) {

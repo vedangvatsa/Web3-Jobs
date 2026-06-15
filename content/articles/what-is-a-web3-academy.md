@@ -7,7 +7,7 @@ category: "Career Guides"
 data-ai-hint: "person writing blackboard"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 ## Beyond the University: The Rise of the Web3 Academy

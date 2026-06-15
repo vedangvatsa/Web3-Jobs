@@ -6,7 +6,7 @@ description: "Account Abstraction is set to change Web3 user experience. This gu
 category: "Technology Deep Dives"
 data-ai-hint: "blockchain ethereum"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 ## Account Abstraction Explained: The Future of Web3 Wallets

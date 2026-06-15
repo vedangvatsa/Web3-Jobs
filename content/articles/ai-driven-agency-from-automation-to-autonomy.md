@@ -6,7 +6,7 @@ description: "Explore the evolution of AI agents and how they are moving from si
 category: "Industry Insights"
 data-ai-hint: "ai autonomy"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 Automation has been around for decades. Robotic process automation (RPA) tools automate repetitive tasks. But traditional automation is rigid. It follows predefined rules. If something unexpected happens, automation fails.

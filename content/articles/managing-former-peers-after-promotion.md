@@ -7,7 +7,7 @@ category: "Career Guides"
 data-ai-hint: "promotion manager"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-14"
+lastUpdated: "2026-06-15"
 ---
 
 Getting promoted is a significant milestone in your career. However, when that promotion places you in a management position over your former peers, the transition can be challenging. The shift in dynamics can create discomfort as you manage new relationships. The friend you once confided in about work issues is now your direct report. How you approach this transition can greatly influence your effectiveness as a manager and the team's overall morale.
