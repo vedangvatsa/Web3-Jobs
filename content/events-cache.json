@@ -1,103 +1,5 @@
 [
   {
-    "id": "eb-1989961162405",
-    "name": "3-Day Freediving Masterclass with Montserrat Peart",
-    "description": "Train alongside Montserrat Peart, Mexico’s absolute national record holder in freediving with a 90m depth record and 19 national titles.",
-    "startDate": "2026-06-15",
-    "endDate": "2026-06-17",
-    "city": "Todos Santos",
-    "country": "MX",
-    "location": "Todos Santos, MX",
-    "url": "https://www.eventbrite.com.mx/e/3-day-freediving-masterclass-with-montserrat-peart-tickets-1989961162405",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185455408%2F2061024884993%2F1%2Foriginal.20260526-174835?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.71&fp-y=0.488&s=a6d49ed12227c3584d5be1f20f1999af",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "eb-952882064907",
-    "name": "Research crypto by Decrypto",
-    "description": "Research crypto by Decrypto",
-    "startDate": "2026-06-15",
-    "endDate": "2026-06-15",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com/e/research-crypto-by-decrypto-tickets-952882064907",
-    "coverImage": "https://cdn.evbstatic.com/s3-build/perm_001/6ce389/django/images/logos/eb_orange_on_white_1200x630.png",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "eb-1988314855256",
-    "name": "Bitcoin and Cryptocurrency Course",
-    "description": "Learn Bitcoin & crypto basics, smart investing strategies and the real value behind blockchain—start your journey with confidence today.",
-    "startDate": "2026-06-15",
-    "endDate": "2026-06-15",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.co.uk/e/bitcoin-and-cryptocurrency-course-tickets-1988314855256",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183113159%2F2889520574731%2F1%2Foriginal.20260427-111048?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=69dc5957fee92a466b99a0057466ccb5",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "eb-1990702883914",
-    "name": "Her Money, Her Rules: A Crypto Workshop for Women - Virtual or In Person",
-    "description": "A hands-on, beginner-friendly workshop focused on crypto fundamentals and building independent wealth through digital assets.",
-    "startDate": "2026-06-15",
-    "endDate": "2026-06-15",
-    "city": "Dallas",
-    "country": "US",
-    "location": "Dallas, US",
-    "url": "https://www.eventbrite.com/e/her-money-her-rules-a-crypto-workshop-for-women-virtual-or-in-person-tickets-1990702883914",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185776300%2F306328065725%2F1%2Foriginal.20260530-203820?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.502&fp-y=0.659&s=62d352c1f117fa3c70b526fca5138ab4",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "eb-1991730557714",
-    "name": "Crypto 101: Understanding Crypto Without the Hype presented by Fivoe",
-    "description": "Get the real scoop on crypto without all the buzz and confusion in this chill, no-fluff session by Fivoe Cybersecurity.  40 seats available.",
-    "startDate": "2026-06-15",
-    "endDate": "2026-06-15",
-    "city": "Tulsa",
-    "country": "US",
-    "location": "Tulsa, US",
-    "url": "https://www.eventbrite.com/e/crypto-101-understanding-crypto-without-the-hype-presented-by-fivoe-tickets-1991730557714",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186719632%2F2943967926821%2F1%2Foriginal.20260611-222309?h=200&w=376&auto=format%2Ccompress&q=75&sharp=10&s=79de55249a2f4d94fcf9bc87f87c019a",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "eb-1989075526444",
-    "name": "Talk-a-Bit online bitcoin meetup",
-    "description": "Monthly Bitcoin hangout for beginners and intermediate - learn Bitcoin, Lightning, Nostr, privacy & connect with the community.",
-    "startDate": "2026-06-15",
-    "endDate": "2026-06-15",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com/e/talk-a-bit-online-bitcoin-meetup-tickets-1989075526444",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184095676%2F2752801101101%2F1%2Foriginal.20260508-071339?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495&fp-y=0.124&s=1765398027d33538452c8be814b95682",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "eb-1986702096451",
-    "name": "raw₿it Study Cohort",
-    "description": "10 week study cohort to learn how to build raw bitcoin transactions from scratch and have accountability amongst fellow bitcoiners",
-    "startDate": "2026-06-15",
-    "endDate": "2026-06-15",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com/e/rawit-study-cohort-tickets-1986702096451",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181418869%2F2752801101101%2F1%2Foriginal.20260404-075656?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.941&fp-y=0.363&s=63c331a7378e8a23186137dad2619b65",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
     "id": "luma-evt-u5jJpV94c6YiTGp",
     "name": "Berlin Blockchain Festival 2026 Ticket (General Access)",
     "description": "",
@@ -252,34 +154,6 @@
     "month": "June 2026"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
-    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
-    "description": "",
-    "startDate": "2026-06-15T00:00:00.000Z",
-    "endDate": "2026-06-15T00:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-june-toronto-ca",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "June 2026"
-  },
-  {
-    "id": "cmc-6a069a416fc16b1e95c6b8b1",
-    "name": "Arbitrum: Token Unlock",
-    "description": "Arbitrum unlocks approximately 0.93% of its released supply at 8 PM UTC.",
-    "startDate": "2026-06-15T00:00:00.000Z",
-    "endDate": "2026-06-15T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://defillama.com/unlocks/arbitrum",
-    "coverImage": null,
-    "source": "coinmarketcap",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1988931635061",
     "name": "Web3 + AI Cohort | Learn Web3, Crypto & AI for Work, Wealth & Life",
     "description": "Learn Web3, crypto & AI through real-world application not theory. Build skills, earn, invest, and step into the future of work and life.",
@@ -322,20 +196,6 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1979503430046",
-    "name": "London Crypto & HNWI Sector June Networking At Davys At St.James",
-    "description": "Join Top Crypto Professionals for an Exclusive FinTech Networking Drinks Reception in St.James, London - Connect, Collaborate & Unwind!",
-    "startDate": "2026-06-16",
-    "endDate": "2026-06-16",
-    "city": "London",
-    "country": "GB",
-    "location": "London, GB",
-    "url": "https://www.eventbrite.co.uk/e/london-crypto-hnwi-sector-june-networking-at-davys-at-stjames-tickets-1979503430046",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173442378%2F2597134257851%2F1%2Foriginal.20251223-085657?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.591&fp-y=0.456&s=5ba4bfd6f014e84a09176fc2a8a11d4f",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1535866180089",
     "name": "Stock Market MeetUp Vienna | Aktien-Stammtisch Wien",
     "description": "Your community to connect, interact, and exchange in person. We delve into topics like stocks, ETFs, currencies, options, and crypto.",
@@ -364,6 +224,20 @@
     "month": "June 2026"
   },
   {
+    "id": "eb-1979503430046",
+    "name": "London Crypto & HNWI Sector June Networking At Davys At St.James",
+    "description": "Join Top Crypto Professionals for an Exclusive FinTech Networking Drinks Reception in St.James, London - Connect, Collaborate & Unwind!",
+    "startDate": "2026-06-16",
+    "endDate": "2026-06-16",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://www.eventbrite.co.uk/e/london-crypto-hnwi-sector-june-networking-at-davys-at-stjames-tickets-1979503430046",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173442378%2F2597134257851%2F1%2Foriginal.20251223-085657?crop=focalpoint&fit=crop&w=267&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.591&fp-y=0.456&s=ffff2f7c64cfa36a7cb1cfc5b210102f",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
     "id": "eb-1983693766455",
     "name": "Bitcoin & Bourbon Speaker Series",
     "description": "This is a relaxed, after-work gathering for anyone curious about Bitcoin — whether you’re brand new, actively learning, or already involved.",
@@ -373,7 +247,7 @@
     "country": "US",
     "location": "Lansing, US",
     "url": "https://www.eventbrite.com/e/bitcoin-bourbon-speaker-series-tickets-1983693766455",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178113407%2F2746945506871%2F1%2Foriginal.20260221-213907?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.47&fp-y=0.055&s=a2bb542cc51db7c3eac15b184ec69ff2",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178113407%2F2746945506871%2F1%2Foriginal.20260221-213907?crop=focalpoint&fit=crop&w=348&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.47&fp-y=0.055&s=19f0aa81f08d4560477dfece8f4ed5c2",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -392,17 +266,17 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1212650222459",
-    "name": "DEFAI Demystified for DeFi and Artificial Intelligence",
-    "description": "Discover how AI transforms DeFi with automation, scalability, and innovation in our 2 hour, DEFAI Demystified workshop.",
-    "startDate": "2026-06-16",
-    "endDate": "2026-06-16",
+    "id": "mu-314935591",
+    "name": "It Rhymes With Takei / The Giant / Lon Chaney Speaks",
+    "description": "It Rhymes with Takei by George Takei\nThe Giant: Orson Welles, Artist and the Shadow by Youssef Daoudi\nLon Chaney Speaks by Pat Dorian\nDrinking at the Movies by Julia Wertz",
+    "startDate": "2026-06-15T20:00:00-06:00",
+    "endDate": "2026-06-15T20:00:00-06:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.eventbrite.com.au/e/defai-demystified-for-defi-and-artificial-intelligence-registration-1212650222459",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1020965443%2F2300681107023%2F1%2Foriginal.20250501-135324?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=95a5326371fbef68e8046cb150f55a87",
-    "source": "eventbrite",
+    "url": "https://www.meetup.com/comics-etcetera/events/314935591/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/e/b/e/600_534384254.jpeg",
+    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -546,20 +420,6 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314786047",
-    "name": "Build From The Inside Out: Define Your Values to Build Better",
-    "description": "This session is a guided working experience. You'll leave with more than notes. You'll leave with a clear picture of what you stand for and how that shapes the way you build.\n\n**What we'll work throug",
-    "startDate": "2026-06-16T13:00:00-05:00",
-    "endDate": "2026-06-16T13:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/chicago-small-business-studio/events/314786047/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/a/e/600_533723726.jpeg",
-    "source": "meetup",
-    "month": "June 2026"
-  },
-  {
     "id": "luma-evt-rAsxXMjXB5lSvXM",
     "name": "Webidoo Investment Round Closing Celebration at NASDAQ",
     "description": "",
@@ -625,7 +485,7 @@
     "country": "NL",
     "location": "Rotterdam, NL",
     "url": "https://www.eventbrite.co.uk/e/tickets-web3-meets-property-and-real-estate-1990507292896",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185540812%2F1886288653933%2F1%2Foriginal.20260527-165841?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0383ed28200285c690f02ee5dc3414e1",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185540812%2F1886288653933%2F1%2Foriginal.20260527-165841?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d4b86800e8a6510a955b9c3826b3f971",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -1101,7 +961,7 @@
     "country": "US",
     "location": "Jersey City, US",
     "url": "https://www.eventbrite.com/e/jersey-city-bitcoin-socratic-seminar-series-tickets-1977992382462",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173014590%2F158050329676%2F1%2Foriginal.20251215-213550?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d154305f6c05865314ba10580d6c83a7",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173014590%2F158050329676%2F1%2Foriginal.20251215-213550?crop=focalpoint&fit=crop&w=348&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=573478b8168269b5c1635d120b5e0f19",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -1131,34 +991,6 @@
     "url": "https://www.eventbrite.nl/e/zomerwandeling-nva-tickets-1989304443140",
     "coverImage": "https://cdn.evbstatic.com/s3-build/perm_001/6ce389/django/images/logos/eb_orange_on_white_1200x630.png",
     "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "eb-1990773193211",
-    "name": "El Olimpo de las DeFi — BCS x Etikax",
-    "description": "BCS y Etikax se unen por primera vez para mostrarte cómo funciona el Olimpo de las DeFi. Evento online gratuito el 18 de junio.",
-    "startDate": "2026-06-18",
-    "endDate": "2026-06-18",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com/e/entradas-el-olimpo-de-las-defi-bcs-x-etikax-1990773193211",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185850415%2F3003918948795%2F1%2Foriginal.20260601-103252?crop=focalpoint&fit=crop&w=300&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.68&fp-y=0.563&s=3c510852a73a23761c0e235dafdd6937",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-315259120",
-    "name": "#328 Weekly Bitcoin Chat!",
-    "description": "RSVP for free Bitcoin chat every Wednesday at 8PM. Bring your questions!",
-    "startDate": "2026-06-17T20:00:00-04:00",
-    "endDate": "2026-06-17T20:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/meetup-group-iorzukwe/events/315259120/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/b/d/e/600_534743518.jpeg",
-    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -1451,7 +1283,7 @@
     "country": "United States",
     "location": "San Francisco, United States",
     "url": "https://lu.ma/f7klujxs",
-    "coverImage": "https://images.lumacdn.com/uploads/hr/9e1bc349-6682-4a83-8f63-e4adb4422c60.png",
+    "coverImage": "https://images.lumacdn.com/uploads/6s/955a1a3b-a49d-41d0-a975-367eabcad89b.png",
     "source": "luma",
     "month": "June 2026"
   },
@@ -1536,20 +1368,6 @@
     "location": "Atlanta, US",
     "url": "https://www.eventbrite.com/e/fintech-crypto-networking-dinner-tickets-1988373610996",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183188729%2F1947535118973%2F1%2Foriginal.20260428-031822?crop=focalpoint&fit=crop&w=348&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5ad533ee91c284c36067a387d160005d",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
-    "id": "eb-1979667949127",
-    "name": "AI, Founders, Crypto,  NFT, Web3,Sustainability, FinTech Networking",
-    "description": "AI, Founders, Crypto,  NFT, Web3,Sustainability, FinTech, Data, Investors Networking at SWAY BAR 61 Great Queen St, London WC2B 5BZ",
-    "startDate": "2026-06-19",
-    "endDate": "2026-06-19",
-    "city": "London",
-    "country": "GB",
-    "location": "London, GB",
-    "url": "https://www.eventbrite.co.uk/e/ai-founders-crypto-nft-web3sustainability-fintech-networking-tickets-1979667949127",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F866696009%2F1381938343133%2F1%2Foriginal.20241004-134239?crop=focalpoint&fit=crop&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=057b408f3f8a72ccc1555dd77c74bceb",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -1848,6 +1666,20 @@
     "month": "June 2026"
   },
   {
+    "id": "eb-1991848869588",
+    "name": "Tầm nhìn Vĩ Mô - Bật mí quyền lực về Giới tinh hoa",
+    "description": "Khám phá sức mạnh quyền lực và vai trò của giới tinh hoa trong xã hội qua góc nhìn vĩ mô thú vị nhé!",
+    "startDate": "2026-06-20",
+    "endDate": "2026-06-21",
+    "city": "Thung Nai",
+    "country": "VN",
+    "location": "Thung Nai, VN",
+    "url": "https://www.eventbrite.com/e/tam-nhin-vi-mo-bat-mi-quyen-luc-ve-gioi-tinh-hoa-tickets-1991848869588",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186852867%2F2697536890751%2F1%2Foriginal.20260614-035542?crop=focalpoint&fit=crop&w=382&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b4798c37ec0a9ffbe5ec92fe162ae971",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
     "id": "eb-1991151986191",
     "name": "Marrakech: 3-Day Merzouga and Sahara Desert Tour, 20th June",
     "description": "Experience the Moroccan Sahara Desert on a 3-day trip from Marrakech to Merzouga. Explore nomadic life, visit iconic kasbahs, ride camels at",
@@ -2109,7 +1941,21 @@
     "country": "US",
     "location": "Pembroke Pines, US",
     "url": "https://www.eventbrite.com/e/monthly-bitcoin-missionaries-meetup-baoshi-foodhall-tickets-1979967115943",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174187484%2F2984932836864%2F1%2Foriginal.20260107-094013?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.99&fp-y=0.452&s=e36e2dab6dfe2321d7e3d71a9f98b162",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174187484%2F2984932836864%2F1%2Foriginal.20260107-094013?crop=focalpoint&fit=crop&w=348&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.99&fp-y=0.452&s=a1f7b029d9e1a189b9c820aad9047d69",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "eb-1990426855305",
+    "name": "PM PORTUGAL TOASTMASTERS | 22 Junho |  Falar em público com confiança?",
+    "description": "Um espaço para praticar e melhorar — com discursos, avaliações e improvisos que fazem crescer a confiança.",
+    "startDate": "2026-06-22",
+    "endDate": "2026-06-22",
+    "city": "Lisboa",
+    "country": "PT",
+    "location": "Lisboa, PT",
+    "url": "https://www.eventbrite.pt/e/pm-portugal-toastmasters-22-junho-falar-em-publico-com-confianca-tickets-1990426855305",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185454359%2F2968860473391%2F1%2Foriginal.20260526-173727?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f33094d437399ee3d62b01a1625e3877",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -2137,7 +1983,7 @@
     "country": "VN",
     "location": "Ho Chi Minh City, VN",
     "url": "https://www.eventbrite.com/e/from-iconic-buildings-to-innovative-ideas-tickets-1991347796866",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186380671%2F97655118995%2F1%2Foriginal.20260608-074810?crop=focalpoint&fit=crop&w=156&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=684d8c170f8ca16b8122f1d8c682d3c3",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186380671%2F97655118995%2F1%2Foriginal.20260608-074810?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8d83d8017e94d41be901ca12d37bd033",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -2181,20 +2027,6 @@
     "url": "https://dutchblockchainweek.com/",
     "coverImage": "https://dutchblockchainweek.com/wp-content/uploads/2025/12/logo-dbw.webp",
     "source": "marketacross",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-313742703",
-    "name": "Accelerate Chicago 2026",
-    "description": "Build better software with confidence in 2026.\nJoin us for a **3-day conference for experienced engineers** who value strong fundamentals and practical ideas they can use right away.\n\nSpeakers include",
-    "startDate": "2026-06-22T09:00:00-05:00",
-    "endDate": "2026-06-22T09:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/goto-meetups-chicago/events/313742703/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/7/7/2/600_533146962.jpeg",
-    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -2263,7 +2095,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://www.eventbrite.com/e/bitcoin-101-tickets-1991101865278",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182124791%2F2133996404883%2F1%2Foriginal.20260414-121744?crop=focalpoint&fit=crop&w=302&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1ba5a0bc71fdc7df5134a115869c1957",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182124791%2F2133996404883%2F1%2Foriginal.20260414-121744?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e02a398315dc3b9fa4521e7d391d83ae",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -2352,20 +2184,6 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1976687543654",
-    "name": "Intro to Blockchain for Non-Developers – 1 Day Course, Raleigh, NC",
-    "description": "Learn blockchain in clear, business-friendly terms & understand when and how it delivers real value—without any coding or technical complexi",
-    "startDate": "2026-06-24",
-    "endDate": "2026-06-24",
-    "city": "Raleigh",
-    "country": "US",
-    "location": "Raleigh, US",
-    "url": "https://www.eventbrite.sg/e/intro-to-blockchain-for-non-developers-1-day-course-raleigh-nc-tickets-1976687543654",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173042902%2F2740397811611%2F1%2Foriginal.20251216-091356?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=826b8c069205f0a59e5ddf5f5149e33e",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1968898187480",
     "name": "Certified Blockchain Associate | Seattle",
     "description": "2-hours live online training on the introduction to blockchain technology!",
@@ -2408,20 +2226,6 @@
     "month": "June 2026"
   },
   {
-    "id": "eb-1985751389862",
-    "name": "Blockchain and Business Networking - Trinity-Bellwoods",
-    "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Compton Ave! 18+. Limited Tickets.",
-    "startDate": "2026-06-24",
-    "endDate": "2026-06-24",
-    "city": "Toronto",
-    "country": "CA",
-    "location": "Toronto, CA",
-    "url": "https://www.eventbrite.com/e/blockchain-and-business-networking-trinity-bellwoods-tickets-1985751389862",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F919028093%2F1764357700343%2F1%2Foriginal.20241217-172502?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.501916133996&fp-y=0.526785714286&s=85bb488f44916f67afffef974a407a38",
-    "source": "eventbrite",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1985732939677",
     "name": "Blockchain and Business Networking |Elevating Your Potential - Ottawa",
     "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at The Laff! Event is 18+. Limited Tickets.",
@@ -2431,6 +2235,20 @@
     "country": "CA",
     "location": "Ottawa, CA",
     "url": "https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-ottawa-tickets-1985732939677",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F919028093%2F1764357700343%2F1%2Foriginal.20241217-172502?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.501916133996&fp-y=0.526785714286&s=85bb488f44916f67afffef974a407a38",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "eb-1985751389862",
+    "name": "Blockchain and Business Networking - Trinity-Bellwoods",
+    "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Compton Ave! 18+. Limited Tickets.",
+    "startDate": "2026-06-24",
+    "endDate": "2026-06-24",
+    "city": "Toronto",
+    "country": "CA",
+    "location": "Toronto, CA",
+    "url": "https://www.eventbrite.com/e/blockchain-and-business-networking-trinity-bellwoods-tickets-1985751389862",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F919028093%2F1764357700343%2F1%2Foriginal.20241217-172502?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.501916133996&fp-y=0.526785714286&s=85bb488f44916f67afffef974a407a38",
     "source": "eventbrite",
     "month": "June 2026"
@@ -2478,34 +2296,6 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-315178024",
-    "name": "⚡🟠 BITCOIN & BEERS: SATS & SHADES 😎🍺",
-    "description": "⚡ BITCOIN & BEERS: SATS & SHADES 🍺 🟠\n\n📍 Bottle Theory Elmhurst\n📆 Wednesday, June 24th, 2026\n⏰ 6pm – 10pm\n😎 Join us on the outside patio\n\n⚡ SOLSTICE SIGNAL & SOUND MONEY\n\nSummer is officially here",
-    "startDate": "2026-06-24T18:00:00-05:00",
-    "endDate": "2026-06-24T18:00:00-05:00",
-    "city": "Elmhurst",
-    "country": "US",
-    "location": "Elmhurst, US",
-    "url": "https://www.meetup.com/chicago-western-suburbs-bitcoin-meetup/events/315178024/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/e/1/7/1/600_534657713.jpeg",
-    "source": "meetup",
-    "month": "June 2026"
-  },
-  {
-    "id": "mu-314629735",
-    "name": "\"Optimizing Agents for Front-End Experimentation\" by Ben Odisho & Mike Bosch",
-    "description": "**Get ready, React Chicago community!** 🚀\nWe're back with another evening of great talks, great people, and great conversation. Join us at the iconic Merchandise Mart for an evening focused on one of",
-    "startDate": "2026-06-24T18:00:00-05:00",
-    "endDate": "2026-06-24T18:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/react-chicago/events/314629735/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/a/b/b/c/600_534343964.jpeg",
-    "source": "meetup",
-    "month": "June 2026"
-  },
-  {
     "id": "eb-1989831497574",
     "name": "INVITATION: White Night at Israeli Opera, Nabucco + Drinks, Thurs June 25",
     "description": "Young Patrons of the Arts Celebrating Israeli Creative Culture",
@@ -2543,7 +2333,7 @@
     "country": "PR",
     "location": "San Juan, PR",
     "url": "https://www.eventbrite.com/e/the-crypto-happy-hour-tickets-1980029995016",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174252004%2F543913686299%2F1%2Foriginal.20260107-213643?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508&fp-y=0.229&s=cf1f7a11c50a2f9c4deef400436dc12b",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174252004%2F543913686299%2F1%2Foriginal.20260107-213643?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508&fp-y=0.229&s=c439e3515b3ea46093963cfcdb10c0ce",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -2688,16 +2478,16 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-314651913",
+    "id": "mu-314651938",
     "name": "ZK Learning Group: Cairo and Starknet",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-06-25T11:00:00-05:00",
-    "endDate": "2026-06-25T11:00:00-05:00",
+    "startDate": "2026-06-25T10:00:00-06:00",
+    "endDate": "2026-06-25T10:00:00-06:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/314651913/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/1/6/7/600_534089031.jpeg",
+    "url": "https://www.meetup.com/lfdt-denver/events/314651938/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/1/9/9/600_534089081.jpeg",
     "source": "meetup",
     "month": "June 2026"
   },
@@ -2711,7 +2501,7 @@
     "country": "AR",
     "location": "Mar del Plata, AR",
     "url": "https://www.eventbrite.com.ar/e/experiencia-etnia-5-sentidos-la-india-2026-en-mar-del-plata-tickets-1991162424412",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186213087%2F253597921532%2F1%2Foriginal.20260605-025354?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9f6616fea8c3e1d59a24e4d628b26809",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186213087%2F253597921532%2F1%2Foriginal.20260605-025354?crop=focalpoint&fit=crop&w=300&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1bb861deff2211d573a13e82ed8d2727",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -2796,6 +2586,20 @@
     "location": "Online",
     "url": "https://www.eventbrite.co.uk/e/integration-of-blockchain-dapps-with-web3js-tickets-1984186877363",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178320163%2F2775024372631%2F1%2Foriginal.20260224-165103?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.095&fp-y=0.449&s=f72d12d775b1ee22713e06c83b746e72",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "eb-1980101629276",
+    "name": "SP:  Curso de Marketing de Relacionamento Digital - 2026 [pré-lançamento]",
+    "description": "Como ativar um projeto de relacionamento no ambiente digital com clientes, seguidores e fãs para gerar mais leads e engajamento.",
+    "startDate": "2026-06-27",
+    "endDate": "2026-06-27",
+    "city": "São Paulo",
+    "country": "BR",
+    "location": "São Paulo, BR",
+    "url": "https://www.eventbrite.com.br/e/sp-curso-de-marketing-de-relacionamento-digital-2026-pre-lancamento-tickets-1980101629276",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F850351529%2F158602256306%2F1%2Foriginal.20240914-201005?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C88%2C788%2C394&s=df50886456f4b7cc9bacc9d0437fd6ef",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -2926,17 +2730,17 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-313379202",
-    "name": "South Side Spanish (Bridgeport)",
-    "description": "Estás invitado a un grupo de habla español. Aquí no se juzga, es bienvenido/a el que sea nativo/a o al que este recién empezando. Lo único que te pedimos es que hagas un esfuerzo ya que es primordial ",
-    "startDate": "2026-06-27T15:00:00-05:00",
-    "endDate": "2026-06-27T15:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/chicago-spanish-language/events/313379202/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/6/1/d/600_503345661.jpeg",
-    "source": "meetup",
+    "id": "eb-1991761437075",
+    "name": "LOS 3 TENORES. MEXICO LINDO",
+    "description": "JARDINES DEL HOTEL ALMIRANTE, PLAYA SAN JUAN, ALICANTE. LOS 3 TENORES CANTAN VIVA MEXICO",
+    "startDate": "2026-06-28",
+    "endDate": "2026-06-28",
+    "city": "Alicante",
+    "country": "ES",
+    "location": "Alicante, ES",
+    "url": "https://www.eventbrite.com/e/entradas-los-3-tenores-mexico-lindo-1991761437075",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186747861%2F1317770842983%2F1%2Foriginal.20260612-092240?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.47&fp-y=0.081&s=330c5ecf0d1748ad951ff1a256130f3d",
+    "source": "eventbrite",
     "month": "June 2026"
   },
   {
@@ -2949,7 +2753,21 @@
     "country": "MX",
     "location": "El Porvenir, MX",
     "url": "https://www.eventbrite.com.mx/e/valle-gravel-challenge-2026-registration-1984998122820",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180682726%2F1693514716633%2F1%2Foriginal.20260325-174735?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9b9f2e0c9294898938c3889f80afdeee",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180682726%2F1693514716633%2F1%2Foriginal.20260325-174735?crop=focalpoint&fit=crop&w=360&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=90015727a42684fba2d42e3699749e4d",
+    "source": "eventbrite",
+    "month": "June 2026"
+  },
+  {
+    "id": "eb-1991771719831",
+    "name": "Crypto Cashflow and Coffee",
+    "description": "Grab your coffee and chat crypto tips to boost your cash flow at our chill in-person meetup!",
+    "startDate": "2026-06-28",
+    "endDate": "2026-06-28",
+    "city": "Boston",
+    "country": "US",
+    "location": "Boston, US",
+    "url": "https://www.eventbrite.com/e/crypto-cashflow-and-coffee-tickets-1991771719831",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186895824%2F271189339470%2F1%2Foriginal.20260615-005956?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.654&fp-y=0.015&s=b266a5fc19ad709316836f3b9550b862",
     "source": "eventbrite",
     "month": "June 2026"
   },
@@ -3122,16 +2940,16 @@
     "month": "June 2026"
   },
   {
-    "id": "mu-315123329",
+    "id": "mu-315123237",
     "name": "Increasing Trust on Ethereum with ENS and Enscribe",
     "description": "Most organizations on Ethereum are effectively anonymous. Contracts are deployed to nameless addresses, treasury wallets have no verifiable link to the org that controls them, and AI agents operate wi",
-    "startDate": "2026-06-30T10:00:00-05:00",
-    "endDate": "2026-06-30T10:00:00-05:00",
+    "startDate": "2026-06-30T09:00:00-06:00",
+    "endDate": "2026-06-30T09:00:00-06:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/315123329/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/8/8/9/600_534587241.jpeg",
+    "url": "https://www.meetup.com/lfdt-denver/events/315123237/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/7/f/4/600_534587092.jpeg",
     "source": "meetup",
     "month": "June 2026"
   },
@@ -3276,34 +3094,6 @@
     "month": "July 2026"
   },
   {
-    "id": "eb-1046766535887",
-    "name": "Empowering Finance through DeFi",
-    "description": "Explore how decentralized finance (DeFi) transforms financial systems and unlocking new opportunities.",
-    "startDate": "2026-07-01",
-    "endDate": "2026-07-01",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com.au/e/empowering-finance-through-defi-registration-1046766535887",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1020954383%2F2300681107023%2F1%2Foriginal.20250501-133836?crop=focalpoint&fit=crop&w=300&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=1a9af45eeb02719cd252a35d6411515e",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
-    "id": "eb-1626424723129",
-    "name": "Decrypting DeSci (Decentralized Science) | Live Online Training",
-    "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
-    "startDate": "2026-07-01",
-    "endDate": "2026-07-01",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-live-online-training-registration-1626424723129",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1103731973%2F934024843833%2F1%2Foriginal.20250824-143403?crop=focalpoint&fit=crop&w=300&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511363636364&fp-y=0.481412639405&s=3f98b884135c4b8d57d00a9e7b50ecfa",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1918820546909",
     "name": "Decrypting DeSci (Decentralized Science) | Zurich",
     "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
@@ -3374,20 +3164,6 @@
     "month": "July 2026"
   },
   {
-    "id": "eb-1991577980351",
-    "name": "Tech Networking Event by Startup Valley in Amsterdam",
-    "description": "Dive into tech with other professionals! Network and build strong relationships with investors, tech experts, and entrepreneurs in A'dam.",
-    "startDate": "2026-07-02",
-    "endDate": "2026-07-02",
-    "city": "Amsterdam",
-    "country": "NL",
-    "location": "Amsterdam, NL",
-    "url": "https://www.eventbrite.com/e/tech-networking-event-by-startup-valley-in-amsterdam-tickets-1991577980351",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186606843%2F2735356920661%2F1%2Foriginal.20260610-163656?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.013&fp-y=0.036&s=91f2729d4227be60566bcc54c5896d4f",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1986113382592",
     "name": "Bitcoin Basics",
     "description": "Beginner-friendly Bitcoin meetup covering self-custody, nodes, mining, privacy, and why Bitcoin matters in today’s world",
@@ -3416,20 +3192,6 @@
     "month": "July 2026"
   },
   {
-    "id": "eb-1984263303957",
-    "name": "Sallent Gállego- La Sarra, el agua como fuente de vida.",
-    "description": "El recorrido conecta el núcleo urbano de Sallent con el entorno de La Sarra.",
-    "startDate": "2026-07-03",
-    "endDate": "2026-07-03",
-    "city": "Sallent de Gállego",
-    "country": "ES",
-    "location": "Sallent de Gállego, ES",
-    "url": "https://www.eventbrite.es/e/entradas-sallent-gallego-la-sarra-el-agua-como-fuente-de-vida-1984263303957",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184673603%2F2317607820373%2F1%2Foriginal.20260515-104759?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f31dbacd488ad08cd0f32d8e3a37a385",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1990021811809",
     "name": "YUNG SARRIA EN CDMX 2026 — TRAPHOUSE | 3 de Julio | Centro Histórico",
     "description": "Yung Sarria llega a Ciudad de México el 3 de julio de 2026 para una noche histórica de trap en el corazón del Centro Histórico de la CDMX",
@@ -3439,7 +3201,7 @@
     "country": "MX",
     "location": "Ciudad de México, MX",
     "url": "https://www.eventbrite.com.mx/e/yung-sarria-en-cdmx-2026-traphouse-3-de-julio-centro-historico-tickets-1990021811809",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185062358%2F3002741218994%2F1%2Foriginal.20260520-180200?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.385&fp-y=0.482&s=3eeee28847f0835d8edeffc68a017dbf",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185062358%2F3002741218994%2F1%2Foriginal.20260520-180200?crop=focalpoint&fit=crop&w=360&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.385&fp-y=0.482&s=c988cb24b85ca38a7dd1799a6155f1c6",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -3472,17 +3234,17 @@
     "month": "July 2026"
   },
   {
-    "id": "eb-1990538275566",
-    "name": "Vibe astronaut",
-    "description": "Vibe astronaut se yon bel fèt ke nou organiser nan Brockton kote ou ka vin enjoy ou ak fanmiw ak zanmiw an sekirite",
-    "startDate": "2026-07-03",
-    "endDate": "2026-07-04",
-    "city": "Brockton",
-    "country": "US",
-    "location": "Brockton, US",
-    "url": "https://www.eventbrite.com/e/vibe-astronaut-tickets-1990538275566",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185583543%2F3003437781034%2F1%2Foriginal.20260528-023641?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=20b622f608ec67047180bd2c8d01facc",
-    "source": "eventbrite",
+    "id": "mu-314850006",
+    "name": "Back to Basics: Refactoring, A Tale in Three Acts -- Dave Steffen",
+    "description": "Come out and join us for this exciting talk by Dave, and networking during the meetup and at the Burns pub afterward.\n\nFood will be sponsored by Sovereign (a Nascent group) this month. Learn more abou",
+    "startDate": "2026-07-02T18:00:00-06:00",
+    "endDate": "2026-07-02T18:00:00-06:00",
+    "city": "Westminster",
+    "country": "us",
+    "location": "Westminster, us",
+    "url": "https://www.meetup.com/north-denver-metro-c-meetup/events/314850006/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/e/4/f/3/600_487498611.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -3509,7 +3271,21 @@
     "country": "MX",
     "location": "Ciudad de México, MX",
     "url": "https://www.eventbrite.com.mx/e/joyeria-3d-diseno-tickets-1991285964925",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186311248%2F1565257285543%2F1%2Foriginal.20260606-175816?crop=focalpoint&fit=crop&w=357&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=74f7e4b0506083a4515d276b27242e01",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186311248%2F1565257285543%2F1%2Foriginal.20260606-175816?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9706a2ebfe11827b02184e8868dbc3cf",
+    "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
+    "id": "eb-1990322013721",
+    "name": "My First Bitcoin Diploma - Surabaya #4",
+    "description": "Kelas Offline 3x Pertemuan Program My First Bitcoin Diploma - Surabaya",
+    "startDate": "2026-07-04",
+    "endDate": "2026-07-12",
+    "city": "Kec. Mulyorejo",
+    "country": "ID",
+    "location": "Kec. Mulyorejo, ID",
+    "url": "https://www.eventbrite.com/e/my-first-bitcoin-diploma-surabaya-4-tickets-1990322013721",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185362694%2F1964280582393%2F1%2Foriginal.20260525-134913?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f086aee9f82ce35b42c31b31d97351b8",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -3556,20 +3332,6 @@
     "month": "July 2026"
   },
   {
-    "id": "eb-1990322013721",
-    "name": "My First Bitcoin Diploma - Surabaya #4",
-    "description": "Kelas Offline 3x Pertemuan Program My First Bitcoin Diploma - Surabaya",
-    "startDate": "2026-07-04",
-    "endDate": "2026-07-12",
-    "city": "Kec. Mulyorejo",
-    "country": "ID",
-    "location": "Kec. Mulyorejo, ID",
-    "url": "https://www.eventbrite.com/e/my-first-bitcoin-diploma-surabaya-4-tickets-1990322013721",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185362694%2F1964280582393%2F1%2Foriginal.20260525-134913?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=12d4eae0f2b9d1e9976e7f875c6401ef",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
     "id": "eb-1991559714718",
     "name": "Bitcoin Indonesia Community Meetup Bogor 04 Juli 2026",
     "description": "Sirkular Ekonomi Bitcoin Versi Indonesia",
@@ -3593,7 +3355,7 @@
     "country": "SG",
     "location": "Singapore, SG",
     "url": "https://www.eventbrite.com/e/lp-angels-summit-2026-tickets-1990629862505",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185689660%2F934273542623%2F1%2Foriginal.20260529-104008?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=89c38066a7282243235f33ea2df19772",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185689660%2F934273542623%2F1%2Foriginal.20260529-104008?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=239fafe30ab17face82d371b2546cc98",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -3691,20 +3453,20 @@
     "country": "HK",
     "location": "Hong Kong, HK",
     "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-hong-kong-tickets-1929602907239",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1167067913%2F955667871893%2F1%2Foriginal.20251031-054931?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=70ca353e77dbd3ac76661a3f2e9cd6cc",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1167067913%2F955667871893%2F1%2Foriginal.20251031-054931?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6f5985023968550acc4477303ec38a90",
     "source": "eventbrite",
     "month": "July 2026"
   },
   {
-    "id": "eb-1835684093539",
-    "name": "Decrypting DeSci (Decentralized Science) | Perth",
+    "id": "eb-1835689730399",
+    "name": "Decrypting DeSci (Decentralized Science) | Adelaide",
     "description": "2-hour live online training on how blockchain & Web3 are transforming research with DeSci—open, transparent & collaborative.",
     "startDate": "2026-07-07",
     "endDate": "2026-07-07",
-    "city": "Perth",
+    "city": "Adelaide",
     "country": "AU",
-    "location": "Perth, AU",
-    "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-perth-tickets-1835684093539",
+    "location": "Adelaide, AU",
+    "url": "https://www.eventbrite.com.au/e/decrypting-desci-decentralized-science-adelaide-tickets-1835689730399",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1155430453%2F952210770403%2F1%2Foriginal.20251016-221859?w=400&auto=format%2Ccompress&q=75&sharp=10&s=6255ac717f8331a0d2e9a47949d51dc0",
     "source": "eventbrite",
     "month": "July 2026"
@@ -3719,7 +3481,7 @@
     "country": "US",
     "location": "Portland, US",
     "url": "https://www.eventbrite.com/e/bitcoin-for-beginners-1st-tuesdays-portland-oregon-meetup-tickets-1979058024827",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173536686%2F967185837193%2F1%2Foriginal.20251226-160247?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=adfc0ddd6b4d177e518d03ee4840b694",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173536686%2F967185837193%2F1%2Foriginal.20251226-160247?crop=focalpoint&fit=crop&h=200&w=348&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=501f839f7fb7e841673cfa3985153e23",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -3747,7 +3509,7 @@
     "country": "US",
     "location": "Omaha, US",
     "url": "https://www.eventbrite.com/e/decoding-digital-assets-tickets-1990404178478",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F952446653%2F2399815665103%2F1%2Foriginal.20250204-165513?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=17ec8c6cb22f32a8eefe938e64f16953",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F952446653%2F2399815665103%2F1%2Foriginal.20250204-165513?crop=focalpoint&fit=crop&h=200&w=376&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4b42c774ab1bf293abdc7521a1f148a3",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -3864,30 +3626,30 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315234097",
+    "id": "mu-315234110",
     "name": "Lineth Technical Deep Dive: Inside the Production-Grade ZK Rollup Stack",
     "description": "With the announcement of Lineth ([https://github.com/LFDT-Lineth](https://github.com/LFDT-Lineth)) as a new Linux Foundation Decentralized Trust incubating project, we're opening the hood on the full ",
-    "startDate": "2026-07-08T08:00:00-05:00",
-    "endDate": "2026-07-08T08:00:00-05:00",
+    "startDate": "2026-07-08T07:00:00-06:00",
+    "endDate": "2026-07-08T07:00:00-06:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/315234097/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/9/f/e/600_534707614.jpeg",
+    "url": "https://www.meetup.com/lfdt-denver/events/315234110/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/a/1/8/600_534707640.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
   {
-    "id": "mu-314981928",
+    "id": "mu-314981945",
     "name": "Architecture for Sustaining Open Source in Web 3",
     "description": "Open source is the foundation of Web3, but most ecosystems still fund it like a series of short-term projects instead of long-term public infrastructure. As decentralized networks grow, the real chall",
-    "startDate": "2026-07-08T10:00:00-05:00",
-    "endDate": "2026-07-08T10:00:00-05:00",
+    "startDate": "2026-07-08T09:00:00-06:00",
+    "endDate": "2026-07-08T09:00:00-06:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/314981928/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/4/b/9/0/600_534439344.jpeg",
+    "url": "https://www.meetup.com/lfdt-denver/events/314981945/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/b/a/3/600_534439363.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
@@ -3934,7 +3696,7 @@
     "month": "July 2026"
   },
   {
-    "id": "eb-1975178975486",
+    "id": "eb-1975180584298",
     "name": "Bitcoin & Liberty - Mallorca Blockchain Days VII",
     "description": "2026 will be our seventh conference with our main focus on bitcoin and liberty. Enjoy the relaxed atmosphere in Mallorca.",
     "startDate": "2026-07-09",
@@ -3942,8 +3704,8 @@
     "city": "Port de Pollença",
     "country": "ES",
     "location": "Port de Pollença, ES",
-    "url": "https://www.eventbrite.com/e/bitcoin-liberty-mallorca-blockchain-days-vii-tickets-1975178975486",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171547914%2F268874420681%2F1%2Foriginal.20251122-110236?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5bedcf0588d3c1b328b8227f3082ef7b",
+    "url": "https://www.eventbrite.com/e/bitcoin-liberty-mallorca-blockchain-days-vii-tickets-1975180584298",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171549379%2F268874420681%2F1%2Foriginal.20251122-122308?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f18617587c49eb82aead50cdd8b224ad",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -3958,20 +3720,6 @@
     "location": "Lisbon, PT",
     "url": "https://www.eventbrite.com.au/e/integrating-blockchain-and-ai-artificial-intelligence-lisbon-tickets-1922537323889",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F701733769%2F946124613453%2F1%2Foriginal.20240221-035804?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=1e14d97218e9b2f0d08724bf2e93a0fa",
-    "source": "eventbrite",
-    "month": "July 2026"
-  },
-  {
-    "id": "eb-1975180584298",
-    "name": "Bitcoin & Liberty - Mallorca Blockchain Days VII",
-    "description": "2026 will be our seventh conference with our main focus on bitcoin and liberty. Enjoy the relaxed atmosphere in Mallorca.",
-    "startDate": "2026-07-09",
-    "endDate": "2026-07-09",
-    "city": "Port de Pollença",
-    "country": "ES",
-    "location": "Port de Pollença, ES",
-    "url": "https://www.eventbrite.com/e/bitcoin-liberty-mallorca-blockchain-days-vii-tickets-1975180584298",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171549379%2F268874420681%2F1%2Foriginal.20251122-122308?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f18617587c49eb82aead50cdd8b224ad",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -4475,7 +4223,7 @@
     "country": "ID",
     "location": "Kec. Klojen, ID",
     "url": "https://www.eventbrite.com/e/bitcoin-indonesia-community-meetup-malang-18-juli-2026-tickets-1991569206107",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181501002%2F1964280582393%2F1%2Foriginal.20260406-132353?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=311912313a3775fb9d273625e5292d77",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181501002%2F1964280582393%2F1%2Foriginal.20260406-132353?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1a7afb073091702d7827097c356c86d4",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -4522,6 +4270,20 @@
     "month": "July 2026"
   },
   {
+    "id": "eb-1988137035392",
+    "name": "Youth Fitness Summer Camp 2026",
+    "description": "Get ready to have a blast at Youth Fitness Summer CAMP - Kids can look forward to a blend of physical activity, skill-building and fun!",
+    "startDate": "2026-07-20",
+    "endDate": "2026-07-31",
+    "city": "Iwakuni",
+    "country": "JP",
+    "location": "Iwakuni, JP",
+    "url": "https://www.eventbrite.com/e/youth-fitness-summer-camp-2026-tickets-1988137035392",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1008918233%2F453537912512%2F1%2Foriginal.20250415-001349?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c97e46fa40c70c6c48f903b89df9f515",
+    "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
     "id": "eb-1520453680889",
     "name": "2026 Blockchain Futurist Conference Toronto - Canada's Largest Web3 Event",
     "description": "9th Annual - Canada's Largest & Longest Running Web3 Conference,  showcases top leaders in Crypto, Web3, AI, DeFi, and more!",
@@ -4559,7 +4321,7 @@
     "country": "US",
     "location": "Miami, US",
     "url": "https://www.eventbrite.com/e/mining-disrupt-conference-2026-miami-florida-tickets-1969885866655",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170909022%2F295487848684%2F1%2Foriginal.20251113-193752?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7b55e744ae33f9e4ccebed709aea0516",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170909022%2F295487848684%2F1%2Foriginal.20251113-193752?crop=focalpoint&fit=crop&w=348&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=67533ba3d1b6f8eaa05885382b9906a8",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -4606,6 +4368,20 @@
     "month": "July 2026"
   },
   {
+    "id": "eb-1981802466526",
+    "name": "Blockchain and Business Networking|Elevating Your Potential-Ventura County",
+    "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at The Mighty Axe! Event is 21+.",
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-22",
+    "city": "Oxnard",
+    "country": "US",
+    "location": "Oxnard, US",
+    "url": "https://www.eventbrite.com/e/blockchain-and-business-networkingelevating-your-potential-ventura-county-tickets-1981802466526",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F919028093%2F1764357700343%2F1%2Foriginal.20241217-172502?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.501916133996&fp-y=0.526785714286&s=4caf0e4516af6d65d08b0aa3e52ce816",
+    "source": "eventbrite",
+    "month": "July 2026"
+  },
+  {
     "id": "eb-1987842368034",
     "name": "Blockchain and Business Networking | Elevating Your Potential - Dublin",
     "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Old Fashioned Sam’s! Event is 18+.",
@@ -4629,7 +4405,7 @@
     "country": "US",
     "location": "Chicago, US",
     "url": "https://www.eventbrite.com/e/5th-annual-web3-investor-day-tickets-1987826246815",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184711478%2F2998867448093%2F1%2Foriginal.20260515-191025?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8a28846e6b35be53cc48c5f9ff7b5c9b",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184711478%2F2998867448093%2F1%2Foriginal.20260515-191025?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fda00987fd6512dd2823f88bd3c8572c",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -4867,7 +4643,7 @@
     "country": "SG",
     "location": "Singapore, SG",
     "url": "https://www.eventbrite.sg/e/pen-ink-drawing-course-x-bali-by-kuan-labrador-tickets-1988976128141",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183992594%2F2470079345881%2F1%2Foriginal.20260507-065716?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1c0a0dc958f776c642d337c1e63608c3",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183992594%2F2470079345881%2F1%2Foriginal.20260507-065716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e5bde7ea1097cea51567e9a84dbf7658",
     "source": "eventbrite",
     "month": "July 2026"
   },
@@ -5040,6 +4816,20 @@
     "month": "August 2026"
   },
   {
+    "id": "eb-1985165285809",
+    "name": "Bingo Loco, Pinche Gringo BBQ, CDMX – Sábado, 8 de Agosto 2026",
+    "description": "Bingo Loco: bingo rave, baile, premios épicos y energía sin parar. ¡La noche más loca que vivirás!",
+    "startDate": "2026-08-08",
+    "endDate": "2026-08-08",
+    "city": "Ciudad de México",
+    "country": "MX",
+    "location": "Ciudad de México, MX",
+    "url": "https://www.eventbrite.com.au/e/bingo-loco-pinche-gringo-bbq-cdmx-sabado-8-de-agosto-2026-tickets-1985165285809",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F672545569%2F690526554283%2F1%2Foriginal.20240111-164556?w=360&auto=format%2Ccompress&q=75&sharp=10&s=c3ae0e6b09505263fd1498d5a7d70e34",
+    "source": "eventbrite",
+    "month": "August 2026"
+  },
+  {
     "id": "eb-1991152383379",
     "name": "Marrakech: 3-Day Merzouga and Sahara Desert Tour, 8th August",
     "description": "Experience the Moroccan Sahara Desert on a 3-day trip from Marrakech to Merzouga. Explore nomadic life, visit iconic kasbahs, ride camels at",
@@ -5105,7 +4895,7 @@
     "country": "ID",
     "location": "Kecamatan Tanah Abang, ID",
     "url": "https://www.eventbrite.com/e/indonesia-blockchain-week-summit-2026-tickets-1982328587167",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176637008%2F2246025940343%2F1%2Foriginal.20260204-030048?crop=focalpoint&fit=crop&h=200&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2a16313320c699e7a467be6901cbe690",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176637008%2F2246025940343%2F1%2Foriginal.20260204-030048?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=79355e0b2e98f678d9212a67b29ff8ca",
     "source": "eventbrite",
     "month": "August 2026"
   },
@@ -5236,15 +5026,15 @@
     "month": "August 2026"
   },
   {
-    "id": "eb-1991152754489",
-    "name": "Marrakech: 3-Day Merzouga and Sahara Desert Tour, 22nd August",
+    "id": "eb-1991152393409",
+    "name": "Marrakech: 3-Day Merzouga and Sahara Desert Tour, 21st August",
     "description": "Experience the Moroccan Sahara Desert on a 3-day trip from Marrakech to Merzouga. Explore nomadic life, visit iconic kasbahs, ride camels at",
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-23",
+    "startDate": "2026-08-21",
+    "endDate": "2026-08-22",
     "city": "Marrakesh",
     "country": "MA",
     "location": "Marrakesh, MA",
-    "url": "https://www.eventbrite.co.uk/e/marrakech-3-day-merzouga-and-sahara-desert-tour-22nd-august-tickets-1991152754489",
+    "url": "https://www.eventbrite.co.uk/e/marrakech-3-day-merzouga-and-sahara-desert-tour-21st-august-tickets-1991152393409",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180427508%2F2069875740303%2F1%2Foriginal.20260322-215904?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=024e811a4e922f3ca39476ca5367ac45",
     "source": "eventbrite",
     "month": "August 2026"
@@ -5288,6 +5078,20 @@
     "location": "New York, US",
     "url": "https://www.eventbrite.com/e/bitcoinaltcoins-cryptocurrency-enthusiast-night-crypto-gathering-tickets-1981206450827",
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F915313803%2F240086305688%2F1%2Foriginal.20241211-003921?w=348&auto=format%2Ccompress&q=75&sharp=10&s=1eb00b63d9ee11430ad5363e8436b893",
+    "source": "eventbrite",
+    "month": "August 2026"
+  },
+  {
+    "id": "eb-1987777524084",
+    "name": "Women's Crypto Learning Event hosted by Vizzor - Presented By.....",
+    "description": "Come Join us at Vizzor's Monthly LEARNING  about investment in digital assets /crypto. All levels welcome and handshakes too. #GrowYourMoney",
+    "startDate": "2026-08-26",
+    "endDate": "2026-08-26",
+    "city": "Miami",
+    "country": "US",
+    "location": "Miami, US",
+    "url": "https://www.eventbrite.com/e/womens-crypto-learning-event-hosted-by-vizzor-presented-by-tickets-1987777524084",
+    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182505016%2F2998195133606%2F1%2Foriginal.20260419-133726?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ced431b38cbf2a0122428231b6c8225a",
     "source": "eventbrite",
     "month": "August 2026"
   },
@@ -6174,6 +5978,20 @@
     "month": "June 2027"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
+    "description": "",
+    "startDate": "2027-06-15T00:00:00.000Z",
+    "endDate": "2027-06-15T00:00:00.000Z",
+    "city": "Sydney",
+    "country": "Australia",
+    "location": "Sydney, Australia",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-june-sydney-au",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "June 2027"
+  },
+  {
     "id": "eb-1988500656994",
     "name": "Nashville Bitcoin Conference 2027",
     "description": "The Music City is set to host Bitcoin 2027—world's largest Bitcoin gathering, on July 15–17, 2027, at Music City Center in Nashville, TN.",
@@ -6200,5 +6018,19 @@
     "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F827675669%2F700916941403%2F1%2Foriginal.20240815-143953?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9d23bc86771e947e9df0b6c4896379c2",
     "source": "eventbrite",
     "month": "November 2028"
+  },
+  {
+    "id": "eb-1990233811907",
+    "name": "Global Blockchain Security & Web3 Infrastructure Summit 2034",
+    "description": "The Global Blockchain Security & Web3 Infrastructure Summit 2034 brings together blockchain developers, cybersecurity researchers, decentralized finance innovators, digital asset platforms, infrastruc",
+    "startDate": "2034-11-17",
+    "endDate": "2034-11-17",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.com/e/global-blockchain-security-web3-infrastructure-summit-2034-tickets-1990233811907",
+    "coverImage": "https://cdn.evbstatic.com/s3-build/perm_001/6ce389/django/images/logos/eb_orange_on_white_1200x630.png",
+    "source": "eventbrite",
+    "month": "November 2034"
   }
 ]

@@ -16,12 +16,44 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "82664413",
+    "title": "Site Reliability Engineer",
+    "company": "Offchain Labs",
+    "link": "https://www.linkedin.com/jobs/view/site-reliability-engineer-at-offchain-4425640652",
+    "date": "2026-06-13T20:51:09.000Z",
+    "source": "https://jobs.arbitrum.io/jobs"
+  },
+  {
     "id": "8004054",
     "title": "Payments Performance Strategist, Card Authorization",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=8004054",
     "date": "2026-06-13T15:16:34-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "82660225",
+    "title": "Creative Campaign Strategist",
+    "company": "RedStone",
+    "link": "https://redstone.traffit.com/public/an/56699d30d3b2c54e3a9a5b19d9a26238396a453d?source=career_page",
+    "date": "2026-06-13T18:37:14.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "82629353",
+    "title": "Head of Security (NYC / MIA)",
+    "company": "Crossmint",
+    "link": "https://crossmint.na.teamtailor.com/jobs/642080-head-of-security-nyc-mia",
+    "date": "2026-06-13T09:52:46.000Z",
+    "source": "https://jobs.arbitrum.io/jobs"
+  },
+  {
+    "id": "82629354",
+    "title": "Senior DevSecOps Engineer (NYC / MIA)",
+    "company": "Crossmint",
+    "link": "https://crossmint.na.teamtailor.com/jobs/610015-senior-devsecops-engineer-nyc-mia",
+    "date": "2026-06-13T09:52:46.000Z",
+    "source": "https://jobs.arbitrum.io/jobs"
   },
   {
     "id": "8004196",
@@ -158,6 +190,14 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/7943194?t=gh_src=&gh_jid=7943194",
     "date": "2026-06-12T14:46:05-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "cd344c0b-6e76-4bae-9186-0c1a0bb440dd",
+    "title": "HR Business Partner",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/cd344c0b-6e76-4bae-9186-0c1a0bb440dd",
+    "date": "2026-06-12T18:18:21.679Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "8001327",
@@ -336,6 +376,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "82489323",
+    "title": "Senior Backend Engineer, Rust",
+    "company": "Arbitrum",
+    "link": "https://jobs.lever.co/offchainlabs/163e72c9-cf90-406a-9311-6ee1d743ae84",
+    "date": "2026-06-12T08:59:06.000Z",
+    "source": "https://jobs.arbitrum.io/jobs"
+  },
+  {
     "id": "79c1a7b3-717a-4ad1-b8d6-32053a000ef8",
     "title": "QA Engineer (Square)",
     "company": "Binance",
@@ -398,6 +446,14 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4896130101",
     "date": "2026-06-12T03:30:16-04:00",
     "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "b8182b66-c109-4a81-a091-ca00ccd7201c",
+    "title": "Asisstant Finance Manager",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/b8182b66-c109-4a81-a091-ca00ccd7201c",
+    "date": "2026-06-12T06:41:22.648Z",
+    "source": "Lever: Crypto"
   },
   {
     "id": "6595cbe2-09b5-4feb-8dbf-bb5c4d62f967",
@@ -5214,6 +5270,14 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "4882187101",
+    "title": "Relationship Manager",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882187101",
+    "date": "2026-06-04T04:37:43-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "44b997f0-ec80-442d-93e0-3210f0915216",
     "title": "Binance Accelerator Program - UX Writer",
     "company": "Binance",
@@ -8258,6 +8322,14 @@
     "link": "https://job-boards.greenhouse.io/janestreet/jobs/8551902002",
     "date": "2026-05-28T17:01:11-04:00",
     "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "8172c0c7-6278-4c2a-b0d2-e6c6e7a32224",
+    "title": "Senior Backend Engineer",
+    "company": "Stellar",
+    "link": "https://jobs.ashbyhq.com/Stellar/8172c0c7-6278-4c2a-b0d2-e6c6e7a32224",
+    "date": "2026-05-28T20:52:26.025+00:00",
+    "source": "Ashby: Stellar"
   },
   {
     "id": "e48468bc-4eb4-46dc-9b91-90fdec12eb81",
@@ -15098,93 +15170,5 @@
     "link": "https://koodos.notion.site/Research-Fellow-User-Modeling-Personal-Memory-350c87335a4e80359753e460bac75645?pvs=25",
     "date": "2026-05-17T09:45:49.000Z",
     "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "7900932",
-    "title": "Financial Compliance Senior Associate",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7900932?t=gh_src=&gh_jid=7900932",
-    "date": "2026-05-15T21:01:16-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7932082",
-    "title": "Executive Sourcer",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7932082?t=gh_src=&gh_jid=7932082",
-    "date": "2026-05-15T19:12:15-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "38de2d3a-a711-4ee5-a022-0bde5390f440",
-    "title": "Technical Support Engineer, US",
-    "company": "Socket",
-    "link": "https://jobs.ashbyhq.com/Socket/38de2d3a-a711-4ee5-a022-0bde5390f440",
-    "date": "2026-05-15T23:09:13.487+00:00",
-    "source": "Ashby: Socket"
-  },
-  {
-    "id": "c5a98f1a-8c17-43de-afb7-1cfb1c34cc1e",
-    "title": "Technical Support Engineer, APAC",
-    "company": "Socket",
-    "link": "https://jobs.ashbyhq.com/Socket/c5a98f1a-8c17-43de-afb7-1cfb1c34cc1e",
-    "date": "2026-05-15T22:53:23.889+00:00",
-    "source": "Ashby: Socket"
-  },
-  {
-    "id": "7862772",
-    "title": "KYB/KYC Operations Associate, Bridge",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7862772",
-    "date": "2026-05-15T17:37:22-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "18b4968a-7242-4c62-a264-ce2326a528af",
-    "title": "Head of Talent Story & Culture",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/18b4968a-7242-4c62-a264-ce2326a528af",
-    "date": "2026-05-15T21:30:45.192+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "18b4968a-7242-4c62-a264-ce2326a528af",
-    "title": "Head of Talent Brand Storytelling",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/18b4968a-7242-4c62-a264-ce2326a528af",
-    "date": "2026-05-15T21:30:45.192+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "c00602bb-a99a-4a9b-a0da-630dfa4c2cca",
-    "title": "Threat Intelligence Analyst, Scams",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/c00602bb-a99a-4a9b-a0da-630dfa4c2cca",
-    "date": "2026-05-15T21:22:40.991+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "c00602bb-a99a-4a9b-a0da-630dfa4c2cca",
-    "title": "Threat Intelligence Analyst, Scams Expert",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/c00602bb-a99a-4a9b-a0da-630dfa4c2cca",
-    "date": "2026-05-15T21:22:40.991+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "8172c0c7-6278-4c2a-b0d2-e6c6e7a32224",
-    "title": "Senior Backend Engineer",
-    "company": "Stellar",
-    "link": "https://jobs.ashbyhq.com/Stellar/8172c0c7-6278-4c2a-b0d2-e6c6e7a32224",
-    "date": "2026-05-15T21:22:27.692+00:00",
-    "source": "Ashby: Stellar"
-  },
-  {
-    "id": "5997360004",
-    "title": "Vice President Site Reliability Engineering (Data Centers)",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004",
-    "date": "2026-05-15T17:01:19-04:00",
-    "source": "Greenhouse: Galaxy Digital"
   }
 ]
