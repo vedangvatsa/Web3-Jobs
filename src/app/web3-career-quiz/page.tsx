@@ -1,7 +1,7 @@
 
 'use client';
 
-import { ArchetypeAssessment } from '@/components/archetype-assessment';
+import { Web3CareerQuiz } from '@/components/web3-career-quiz';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 
 const schemaJson = JSON.stringify({
@@ -23,7 +23,7 @@ export default function Web3CareerQuizPage() {
       <main className="flex-1 flex items-center justify-center p-4">
     <h1 className="sr-only">Web3 Career Archetype Quiz</h1>
     <ToolUsageTracker toolName="Web3 Career Quiz" />
-    <ArchetypeAssessment />
+    <Web3CareerQuiz />
    </main>
   </div>
  );

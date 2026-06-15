@@ -6,7 +6,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle, CardFooter }
 import { Progress } from '@/components/ui/progress';
 import { quizData, getResult } from '@/lib/quiz';
 import type { QuizResult } from '@/types';
-import { motion, AnimatePresence } from 'framer-motion';
+
 import { BrainCircuit, Lightbulb, BarChart, Users, Zap, ArrowRight, Rss, Twitter } from 'lucide-react';
 import Link from 'next/link';
 
@@ -53,12 +53,7 @@ export function Web3CareerQuiz() {
   const twitterUrl = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}&via=hashtag_web3`;
 
   return (
-   <motion.div 
-    initial={{ opacity: 0, scale: 0.9 }}
-    animate={{ opacity: 1, scale: 1 }}
-    transition={{ duration: 0.5 }}
-    className="container mx-auto px-4 py-8 md:py-16 max-w-6xl"
-   >
+   <div className="container mx-auto px-4 py-8 md:py-16 max-w-6xl quiz-result-enter">
     <Card className="text-center shadow-sm border-primary/20">
      <CardHeader>
       
@@ -111,7 +106,7 @@ export function Web3CareerQuiz() {
       <p className="text-xs text-muted-foreground pt-4">This is a fun guide, not definitive career advice. Explore all roles to find your true passion!</p>
      </CardFooter>
     </Card>
-   </motion.div>
+   </div>
   );
  }
 
@@ -131,13 +126,9 @@ export function Web3CareerQuiz() {
      <Progress value={progress} className="w-full pt-2" />
     </CardHeader>
     <CardContent>
-      <AnimatePresence mode="wait">
-        <motion.div
+        <div
           key={currentQuestionIndex}
-          initial={{ opacity: 0, x: 50 }}
-          animate={{ opacity: 1, x: 0 }}
-          exit={{ opacity: 0, x: -50 }}
-          transition={{ duration: 0.3 }}
+          className="quiz-question-enter"
         >
           <h3 className="text-xl md:text-2xl font-semibold text-center h-24 flex items-center justify-center">
             {currentQuestion.question}
@@ -158,8 +149,7 @@ export function Web3CareerQuiz() {
               <span className="font-bold mr-3">B)</span> {currentQuestion.options.b}
             </Button>
           </div>
-        </motion.div>
-      </AnimatePresence>
+        </div>
     </CardContent>
    </Card>
   </div>
