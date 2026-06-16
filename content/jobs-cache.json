@@ -1,5 +1,101 @@
 [
   {
+    "id": "b344e5c0-c6d2-4935-8b5e-762cca57cf8b",
+    "title": "Senior Product Manager",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/b344e5c0-c6d2-4935-8b5e-762cca57cf8b",
+    "date": "2026-06-16T04:26:10.307+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "a3a5b27e-a3b7-4096-ba62-d78a7bd24013",
+    "title": "Lead Performance Web Engineer",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/a3a5b27e-a3b7-4096-ba62-d78a7bd24013",
+    "date": "2026-06-16T04:15:31.227+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "553da25c-dc8e-47fb-84f0-10d87d208471",
+    "title": "Senior Risk Manager",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/553da25c-dc8e-47fb-84f0-10d87d208471",
+    "date": "2026-06-16T04:08:17.798+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "2ce7eeb4-e294-40d4-b437-2b6656215245",
+    "title": "Senior Software Engineer, Perpetuals",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/2ce7eeb4-e294-40d4-b437-2b6656215245",
+    "date": "2026-06-16T03:42:47.486+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "e22d45ae-c68d-40d2-997a-1139121fcb6a",
+    "title": "Staff iOS Engineer",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/e22d45ae-c68d-40d2-997a-1139121fcb6a",
+    "date": "2026-06-16T03:22:33.271+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "4689164006",
+    "title": "Sales Director, Japan",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position/4689164006?gh_jid=4689164006",
+    "date": "2026-06-15T22:39:32-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "8001909",
+    "title": "Design Manager, Experiential",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8001909",
+    "date": "2026-06-15T22:21:12-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "9e10062e-c58a-4510-ade2-8a64c013cf1f",
+    "title": "Senior Frontend Engineer - KYC Tech",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/9e10062e-c58a-4510-ade2-8a64c013cf1f",
+    "date": "2026-06-16T00:50:57.003Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "e5846d5a-8000-4ebe-b9dd-637d2f15596e",
+    "title": "Senior Java Engineer - KYC Tech",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/e5846d5a-8000-4ebe-b9dd-637d2f15596e",
+    "date": "2026-06-16T00:48:00.035Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "7701645",
+    "title": "Senior Software Engineer Infra - Compute Platform",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7701645?gh_jid=7701645",
+    "date": "2026-06-15T18:53:46-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8008880",
+    "title": "Growth Engineer",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8008880",
+    "date": "2026-06-15T17:57:28-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8008594",
+    "title": "Privacy Analyst",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8008594?gh_jid=8008594",
+    "date": "2026-06-15T17:41:50-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
     "id": "7997826",
     "title": "Internal Audit Lead, Stablecoins & Digital Assets",
     "company": "Stripe",
@@ -112,6 +208,14 @@
     "source": "Greenhouse: Coinbase"
   },
   {
+    "id": "8008033",
+    "title": "Senior Product Manager, CX & AI Tooling",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8008033?gh_jid=8008033",
+    "date": "2026-06-15T12:58:37-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
     "id": "6020653004",
     "title": "Senior Full-Stack Engineer - Broker API (Partner-Facing Application)",
     "company": "Alpaca",
@@ -168,6 +272,30 @@
     "source": "Greenhouse: Guild"
   },
   {
+    "id": "82806047",
+    "title": "Frontend Engineer - Fintech",
+    "company": "Merge",
+    "link": "https://in.linkedin.com/jobs/view/frontend-engineer-fintech-at-merge-4426749377",
+    "date": "2026-06-15T15:30:47.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "82804118",
+    "title": "Security Data Analyst",
+    "company": "Blockaid",
+    "link": "https://www.comeet.com/jobs/blockaid/69.00B/security-data-analyst/36.F5E",
+    "date": "2026-06-15T15:15:16.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "82804119",
+    "title": "Security Researcher",
+    "company": "Blockaid",
+    "link": "https://www.comeet.com/jobs/blockaid/69.00B/security-researcher/3E.C6A",
+    "date": "2026-06-15T15:15:16.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
     "id": "2641545",
     "title": "Product Manager - (100% remote Worldwide)",
     "company": "Bitfinex",
@@ -208,6 +336,14 @@
     "source": "Ashby: Elliptic"
   },
   {
+    "id": "82796848",
+    "title": "Senior Product Manager - Cards",
+    "company": "BVNK",
+    "link": "https://boards.greenhouse.io/bvnk/jobs/4897619101",
+    "date": "2026-06-15T14:14:48.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
     "id": "4898110101",
     "title": "Senior Product Manager - Payments",
     "company": "Bitpanda",
@@ -224,12 +360,84 @@
     "source": "Ashby: Elliptic"
   },
   {
+    "id": "8592099002",
+    "title": "Site Reliability Engineering Manager (Data Infra)",
+    "company": "ComplyAdvantage",
+    "link": "https://complyadvantage.com/careers/jobs/8592099002?gh_jid=8592099002",
+    "date": "2026-06-15T09:33:39-04:00",
+    "source": "Greenhouse: ComplyAdvantage"
+  },
+  {
     "id": "7773200003",
     "title": "Head of Compliance, Malta",
     "company": "OKX",
     "link": "https://job-boards.greenhouse.io/okx/jobs/7773200003",
     "date": "2026-06-15T09:31:45-04:00",
     "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "82781973",
+    "title": "People Analytics Lead - Recruiting",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/6597b600-7781-46e6-b70a-a9af4fb2b61b",
+    "date": "2026-06-15T12:37:43.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "82781975",
+    "title": "Engineering Manager, Search & Context Platform",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/eb46a31c-a258-4b19-afe6-f2c65eaa2dcc",
+    "date": "2026-06-15T12:37:43.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "82781969",
+    "title": "Lead, Internal Audit and SOX Compliance",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/c8be09c6-f664-473a-85cc-537a4d10025a",
+    "date": "2026-06-15T12:37:42.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "82781970",
+    "title": "Billing Support Specialist",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/9dd54b96-29f7-4263-8aba-768f90cd2715",
+    "date": "2026-06-15T12:37:42.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "82781971",
+    "title": "APAC Campaigns & Content Lead",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/fef0c5d0-6744-40e6-aeae-0c5644f6af5e",
+    "date": "2026-06-15T12:37:42.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "82781959",
+    "title": "Sales Partner Manager — North America",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/b6353219-97e3-4efe-83f9-b9fbdd9164b7",
+    "date": "2026-06-15T12:37:41.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "82781956",
+    "title": "Finance Business Partner, GTM",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/07021c98-7b93-4748-ae7c-b83b3daa7ecd",
+    "date": "2026-06-15T12:37:40.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "82781953",
+    "title": "Forward Deployed Engineer, GTM - Japan",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/4bc0802c-b5e0-411c-be01-daaea2bc3ae0",
+    "date": "2026-06-15T12:37:39.000Z",
+    "source": "https://coinbase.getro.com/jobs"
   },
   {
     "id": "38187660-9908-465f-9b89-562dcf10db2c",
@@ -1161,6 +1369,14 @@
   {
     "id": "8001275",
     "title": "Senior Product Manager, CX Automation",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8001275?gh_jid=8001275",
+    "date": "2026-06-11T17:08:01-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8001275",
+    "title": "Staff Product Manager, CX Automation",
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/8001275?gh_jid=8001275",
     "date": "2026-06-11T17:08:01-04:00",
