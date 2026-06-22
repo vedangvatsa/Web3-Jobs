@@ -64,7 +64,7 @@ const nextConfig = {
       base-uri 'self';
       form-action 'self';
       frame-ancestors 'none';
-      connect-src 'self' https://vitals.vercel-insights.com https://www.googletagmanager.com https://us.i.posthog.com;
+      connect-src 'self' https://vitals.vercel-insights.com https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://us.i.posthog.com;
       upgrade-insecure-requests;
       block-all-mixed-content;
     `.replace(/\s{2,}/g, ' ').trim();
