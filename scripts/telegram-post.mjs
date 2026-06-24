@@ -18,7 +18,7 @@ try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHANNEL_ID = process.env.TELEGRAM_CHANNEL_ID;
 const THREAD_ID = process.env.TELEGRAM_THREAD_ID;
-const JOBS_PER_POST = 10;
+const JOBS_PER_POST = 5;
 const CTA_URL = 'https://hashtagweb3.com?utm_source=telegram&utm_medium=social&utm_campaign=daily_jobs';
 // Use channel-specific state files so channel + group posts don't share cooldowns
 const channelSlug = (CHANNEL_ID || '').replace(/[^a-zA-Z0-9]/g, '');
