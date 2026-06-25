@@ -28,21 +28,15 @@ What actually matters at work isn't your MBTI type—it's how you prefer to comm
 
 ### Detail-Oriented vs. Big-Picture
 
-**Detail-oriented people** want specifics. They'll ask about edge cases, timelines, implementation steps, and risk factors before they're comfortable moving forward. They catch problems early because they think in granular terms.
+**Detail-oriented people** want specifics—edge cases, timelines, risk factors—before they're comfortable moving forward. **Big-picture people** want to know the "why" and the direction before getting into the weeds.
 
-**Big-picture people** want to know the "why" and the direction before getting into the weeds. They're energized by vision and strategy, and they may get impatient with discussions that feel too tactical too soon.
-
-**How to make it work:** When you're pairing these two styles, start conversations with a brief overview of the goal, then move into specifics. If you're the detail person, don't lead with edge cases—you'll lose the big-picture person before you've even started. If you're the big-picture person, resist the urge to hand-wave past implementation concerns. The detail person isn't being difficult; they're trying to make sure the plan actually works.
+**How to make it work:** Start conversations with a brief overview of the goal, then move into specifics. If you're the detail person, don't lead with edge cases—you'll lose the big-picture person before you've started. If you're the big-picture person, don't hand-wave past implementation concerns. The detail person isn't being difficult; they're making sure the plan actually works.
 
 ### Introverts vs. Extroverts
 
-This isn't about being shy vs. outgoing. It's about where people get their energy and how they process information.
+This isn't about shy vs. outgoing—it's about how people process information. **Introverts** think before they speak and do their best work after time to reflect. **Extroverts** think by talking and are energized by group discussion.
 
-**Introverts** tend to think before they speak. They do their best work when they've had time to reflect. In meetings, they may stay quiet—not because they don't have opinions, but because they haven't finished forming them yet.
-
-**Extroverts** think by talking. They process ideas out loud, and they tend to be energized by group discussion. They may dominate meetings not out of ego, but because that's genuinely how they work through problems.
-
-**How to make it work:** Share meeting agendas and key questions ahead of time so introverts can prepare. Create multiple channels for input—not just live meetings, but also async documents, written proposals, and comment threads. If you're running a meeting and you notice someone hasn't spoken, a simple "I'd like to hear your take when you're ready" is better than putting them on the spot.
+**How to make it work:** Share agendas ahead of time so introverts can prepare. Create multiple channels for input—not just live meetings, but also async documents and comment threads. If someone hasn't spoken, "I'd like to hear your take when you're ready" works better than putting them on the spot.
 
 ### Fast Deciders vs. Deliberators
 
