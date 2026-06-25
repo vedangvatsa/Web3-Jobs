@@ -46,10 +46,6 @@ Several challenges and criticisms surrounding Proof of Humanity exist, including
 
 Proof of Humanity represents an ambitious experiment in decentralized identity. It seeks to tackle one of the most formidable challenges in the space, sybil resistance, by creating a system that incorporates elements of a social network, a decentralized court, and an economic model. Despite its challenges, PoH offers a vision for a future where digital identities are verifiably human and self-sovereign.
 
-### Why This Matters
-
-Understanding Proof of Humanity is essential for professionals in the Web3 space. Mastering these concepts enhances career prospects, as organizations increasingly value identity verification and governance models that promote fairness and accountability.
-
 ### Common Mistakes to Avoid
 
 1. **Rushing Implementation**: Expecting immediate results can lead to frustration. Sustainable change requires time and patience.
