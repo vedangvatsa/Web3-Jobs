@@ -76,25 +76,3 @@ A personal website offers the most professional presentation. Platforms like Squ
 
 **Should I include pricing in my portfolio?** 
 Avoid including prices in your portfolio. Each project is unique, and pricing should be based on specific requirements. Instead, provide a clear call to action for potential clients to reach out for custom quotes.
-
-### Step-by-Step Guide
-
-#### Step 1: Understand the Fundamentals
-
-Begin by grasping fundamental principles that guide portfolio creation. Familiarize yourself with best practices shared by industry leaders to inform your approach.
-
-#### Step 2: Assess Your Current Situation
-
-Evaluate your existing skills and experiences. Identify strengths and weaknesses, and pinpoint specific challenges you face. Understanding your starting point is vital for growth.
-
-#### Step 3: Develop Your Personal Strategy
-
-Craft a plan tailored to your unique circumstances. Your approach should reflect your role, team dynamics, organizational culture, and personal aspirations.
-
-#### Step 4: Implement Gradually
-
-Avoid overwhelming yourself by attempting to implement all changes at once. Start with manageable adjustments and build from there. Monitor outcomes to refine your approach continually.
-
-#### Step 5: Measure and Adjust
-
-Track your progress over time. Are your efforts yielding results? Adjust your strategy based on feedback and observed outcomes. This mindset of continuous improvement is important.

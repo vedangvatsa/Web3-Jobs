@@ -87,25 +87,3 @@ Upgradability is a valuable tool, enabling projects to evolve and adapt over tim
 ### The Importance of Upgradability
 
 Understanding the Transparent Proxy Pattern and upgradability is essential for your professional growth. Mastering these concepts can significantly enhance your value in the tech industry, particularly in [Web3](/what-is-web3) environments where flexibility and collaboration are fundamental.
-
-### Step-by-Step Guide to Implementing Upgradable Contracts
-
-#### Step 1: Understand the Fundamentals
-
-Begin with a solid grasp of the principles behind the Transparent Proxy Pattern. Familiarize yourself with best practices from industry leaders and experts.
-
-#### Step 2: Assess Your Current Situation
-
-Evaluate your knowledge and skills. Identify your strengths and weaknesses in this area. Understanding your current capabilities is important for effective improvement.
-
-#### Step 3: Develop Your Personal Strategy
-
-Craft a plan that fits your unique circumstances. Consider factors such as your role, team dynamics, organizational culture, and personal objectives.
-
-#### Step 4: Implement Gradually
-
-Avoid attempting to change everything at once. Start with manageable adjustments, monitoring what works and what does not. This iterative strategy supports sustainable development.
-
-#### Step 5: Measure and Adjust
-
-Keep track of your progress. Are you achieving the desired results? Modify your approach based on feedback and outcomes. Embracing a mindset of continuous improvement is vital.

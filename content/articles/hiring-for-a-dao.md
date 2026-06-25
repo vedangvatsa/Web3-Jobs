@@ -62,26 +62,4 @@ Evaluating candidates who may only be known by their online personas poses uniqu
 
 Hiring for a DAO requires a fundamental rethinking of traditional recruitment processes. This transition emphasizes open, permissionless contributions over closed-door interviews. By constructing a strong contributor funnel, DAOs can cultivate a powerful, scalable, and meritocratic system for attracting top talent aligned with the protocol's long-term success.
 
-### Step-by-Step Guide
-
-#### Step 1: Understand the Fundamentals
-
-Begin by grasping the core principles of effective recruitment in DAOs. This foundational knowledge informs all subsequent actions. Read extensively on best practices from industry leaders and successful DAOs.
-
-#### Step 2: Assess Your Current Situation
-
-Evaluate your existing recruitment processes. Identify strengths and weaknesses. Pinpoint specific challenges you face in sourcing and onboarding talent. Understanding your baseline is critical for improvement.
-
-#### Step 3: Develop Your Personal Strategy
-
-Create a tailored plan based on your assessment. Each situation is unique; your approach should reflect your role, team dynamics, organizational culture, and personal career goals.
-
-#### Step 4: Implement Gradually
-
-Avoid attempting to overhaul everything at once. Start with one small change and gradually build from there. Track what works and what does not. This iterative approach builds sustainable improvement.
-
-#### Step 5: Measure and Adjust
-
-Monitor your progress consistently. Are you achieving desired results? Adapt your strategy based on feedback and outcomes. Embracing a mindset of continuous improvement is vital for success.
-
 ### Real-World Examples
