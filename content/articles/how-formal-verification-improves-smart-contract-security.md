@@ -92,5 +92,3 @@ The most secure protocols in [DeFi](/what-is-defi) incorporate both strategies. 
 Formal verification remains a specialized and complex field, requiring expertise in software engineering, mathematics, and formal logic. The learning curve can be steep, and crafting effective specifications is a skill that develops over time.
 
 As the value secured by smart contracts continues to rise, demand for rigorous assurance methods will increase. Tools are becoming more user-friendly, and knowledge dissemination is expanding. For developers and security researchers, formal verification represents the pinnacle of smart contract security, enabling the creation of systems that are not just tested but mathematically proven to be correct.
-
-### Real-World Examples

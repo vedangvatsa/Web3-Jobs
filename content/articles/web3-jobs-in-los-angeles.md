@@ -57,5 +57,3 @@ A successful career in Web3 requires strategic planning and execution. Here are 
 ### Securing a Web3 Job in Los Angeles
 
 For those ready to explore career opportunities at the intersection of crypto and culture, the latest listings are available on our [Web3 job board](/jobs). For individuals passionate about art, gaming, and the evolving creator economy, Los Angeles provides a unique environment to cultivate a meaningful career.
-
-## Exploring the Web3 Opportunity

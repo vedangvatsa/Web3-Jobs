@@ -50,5 +50,3 @@ Entering the crypto VC space often involves demonstrating passion and analytical
 4. **Network Strategically**: Cultivate relationships with analysts and associates at funds you admire. Instead of merely asking for a job, request feedback on your analyses.
 
 A career as a Web3 Investment Analyst is challenging but rewarding. It offers the opportunity to be leading innovation, supporting founders who are building the foundational infrastructure for the next web.
-
-## Web3 Opportunity

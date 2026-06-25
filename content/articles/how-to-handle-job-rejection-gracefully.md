@@ -72,16 +72,6 @@ Use the experience for self-reflection. Consider the interview process. What que
 
 Every "no" brings you closer to the right "yes." By handling rejection gracefully, you cultivate a reputation as a resilient and composed candidate. This approach transforms a moment of disappointment into a valuable career asset.
 
-### Real-World Case Studies
-
-To illustrate the impact of handling rejection well, consider these examples:
-
-1. **Sarah, a Developer at a Blockchain Startup**: After receiving a rejection, Sarah responded positively and expressed her interest in future roles. Months later, the company reached out to her for a different position that was a perfect match. Her professional demeanor left a lasting impression.
-
-2. **Juan, a Product Manager in DeFi**: Juan faced rejection but maintained a positive outlook. He used the experience to refine his interview skills. When he reapplied later, he secured a position, demonstrating the value of resilience and continuous improvement.
-
-3. **Maya, Transitioning from Web2 to Web3**: Maya received a rejection after her first interview in the Web3 space. Instead of giving up, she sought feedback and refined her approach. She successfully landed a role shortly after, showcasing the importance of persistence and adaptability.
-
 ### Common Mistakes to Avoid
 
 1. **Responding Impulsively**: Avoid sending emotional reactions. Take time to formulate a constructive response.

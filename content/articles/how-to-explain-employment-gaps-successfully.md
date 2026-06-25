@@ -87,11 +87,3 @@ If you have several brief employment gaps (e.g., from freelancing or contract wo
 **Does the reason for the gap matter?**
 
 Yes, but primarily in how you frame it. A gap for professional development is straightforward to explain, whereas a gap due to a layoff or health issue may require more finesse. What matters most is that the issue is resolved and you are now ready and motivated to commit fully to a new role.
-
-### Real-World Examples 
-
-**Sarah**, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in presenting her career break. By applying these strategies, she transformed her narrative within three months, leading to improved interactions with potential employers and ultimately securing a new position. 
-
-**Juan**, a product manager in [DeFi](/what-is-defi), encountered similar hurdles. By following this structured approach, he successfully articulated his experiences and landed a role that aligned with his aspirations. His story illustrates the effectiveness of these principles.
-
-**Maya**, transitioning from Web2 to Web3, effectively adapted her narrative by using the outlined strategies. Her experience highlights the versatility of this approach, regardless of background or experience level.

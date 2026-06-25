@@ -53,5 +53,3 @@ Effective remote collaboration hinges on a shared set of tools, including:
 | Meetings | Google Meet, Zoom |
 | Design | Figma (for collaborative design) |
 | [DAO](/what-is-a-dao) Governance | Snapshot (gasless voting), Discourse (long-form proposals) |
-
-### The Unique Sector of Web3 Careers

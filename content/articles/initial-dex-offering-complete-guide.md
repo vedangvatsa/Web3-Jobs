@@ -44,8 +44,6 @@ While projects can conduct IDOs independently, many use a **[crypto launchpad](/
 
 The IDO model has emerged as a leading method for token launches in Web3. It offers a transparent and accessible fundraising mechanism that resonates with the decentralized ethos of the sector. However, it carries substantial risks, necessitating a cautious approach and diligent research from investors.
 
-### Importance of Understanding IDOs
-
 ### Step-by-Step Implementation Guide for IDOs
 
 #### Step 1: Grasp the Fundamentals

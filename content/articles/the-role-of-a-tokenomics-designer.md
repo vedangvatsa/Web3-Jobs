@@ -49,9 +49,6 @@ This highly specialized role demands a unique T-shaped skill set.
 
 The role of a tokenomics designer presents both challenges and opportunities. It offers a chance to shape new digital economies and the incentives that will govern the future of the internet.
 
-### Importance of Tokenomics Design
-
-
 ### Step-by-Step Implementation Guide
 
 #### Step 1: Grasp Core Principles

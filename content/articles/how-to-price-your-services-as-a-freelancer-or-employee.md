@@ -79,5 +79,3 @@ Negotiating your salary or freelance rate follows similar principles.
 5. **Be Willing to Walk Away:** This represents your strongest use. If a client or employer won’t pay your worth, maintain the confidence to decline politely. This stance demonstrates that you value your skills and time.
 
 Pricing your services improves through practice. By conducting thorough research, recognizing your value, and negotiating confidently, you can secure fair compensation for your contributions as a professional in the tech industry.
-
-### Real-World Examples

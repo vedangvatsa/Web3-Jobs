@@ -64,8 +64,6 @@ Bonding curves find numerous applications in various domains:
 
 Bonding curves present a compelling toolkit in the [Web3](/what-is-web3) economic framework. They introduce new methods for price discovery and liquidity, establishing markets that operate transparently and autonomously through code.
 
-### Importance of Mastery
-
 ### Implementing Bonding Curves in Practice
 
 **Step 1: Grasp Fundamental Concepts** 

@@ -95,11 +95,3 @@ Mastering salary negotiation is vital for career advancement. Professionals who 
 4. **Implement Gradually**: Focus on making small, incremental changes rather than attempting a complete overhaul. Track the impact of each change on your negotiation skills and adjust accordingly.
 
 5. **Measure and Adjust**: Regularly evaluate your progress. Are you achieving the results you desire? Modify your approach based on feedback and outcomes to enhance your effectiveness in salary negotiations.
-
-### Real-World Examples
-
-- **Sarah**, a software engineer at a blockchain startup, initially struggled with salary negotiations. After applying research-based strategies, she successfully negotiated a significant increase in her salary within three months.
-
-- **Juan**, a product manager in the DeFi space, faced challenges when discussing salary. By using his market research and competing offers, he increased his compensation, demonstrating the effectiveness of a strategic approach.
-
-- **Maya**, who transitioned from Web2 to Web3, used these negotiation techniques to secure a competitive salary despite her lack of direct experience. Her success highlights the applicability of these strategies across different backgrounds.

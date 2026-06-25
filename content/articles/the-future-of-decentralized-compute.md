@@ -42,8 +42,6 @@ Several notable projects are leading the charge in decentralized computing:
 
 Decentralized Compute is important for the "DePIN" (Decentralized Physical Infrastructure Networks) narrative. While still nascent, it promises to build a more open, resilient, and competitive market for one of the essential resources in the digital age: computation.
 
-### Importance of Decentralized Compute
-
 ### Steps to Engage with Decentralized Compute
 
 #### Step 1: Understand the Fundamentals

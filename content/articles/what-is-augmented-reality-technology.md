@@ -70,9 +70,6 @@ Most modern smartphones and tablets have built-in AR capabilities, particularly 
 **3. Is an app required for AR?** 
 Most AR experiences currently rely on dedicated mobile applications. However, the trend towards "WebAR" is growing, enabling access to AR experiences directly through web browsers without needing to download an app.
 
-### Why Understanding AR Matters
-
-
 ### Steps to Gain Proficiency in AR
 
 1. **Understand the Fundamentals**: Familiarize yourself with core concepts. Read about best practices from industry leaders to build a strong foundation.

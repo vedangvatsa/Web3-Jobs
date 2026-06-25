@@ -47,5 +47,3 @@ The Web3 job market in Indonesia is expanding, with competitive salaries often e
  - **Develop Local Content**: Launch a YouTube channel, blog, or Twitter account in Bahasa Indonesia that educates the local audience on Web3 concepts.
 
 4. **Engage with Local Communities**: Build connections with key players in Jakarta and Bali. Attend local meetups and crypto events to expand your network. The Indonesian Web3 environment thrives on social interactions and relationships.
-
-### Opportunities in Web3

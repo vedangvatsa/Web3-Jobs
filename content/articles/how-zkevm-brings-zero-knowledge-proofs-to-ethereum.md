@@ -60,8 +60,6 @@ The competition to develop the first and most effective zkEVM is a major narrati
 
 For developers, zkEVMs present an opportunity to build highly scalable decentralized applications (dApps) without the need to learn a new programming language or abandon the familiar Ethereum ecosystem. This technology holds the potential to fulfill the vision of a [blockchain](/what-is-a-blockchain) that is decentralized, secure, and capable of meeting global demand.
 
-### Importance of Understanding zkEVMs
-
 ### Steps to Familiarize Yourself with zkEVMs
 
 1. **Understand the Fundamentals**: Familiarize yourself with the core principles of zkEVMs. This foundational knowledge will support your ongoing learning and application in this area. Reading about best practices from industry leaders can provide valuable insights.

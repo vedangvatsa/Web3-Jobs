@@ -73,5 +73,3 @@ The journey toward a genuine open metaverse faces numerous obstacles.
 - **User experience:** Introducing users to Web3 remains overly complex. The metaverse must provide an easy experience akin to accessing websites or social media applications.
 
 The metaverse represents one of the most ambitious concepts in contemporary technology. Although hype often overshadows reality, a clear trend emerges: our digital and physical lives are converging. The critical question now is whether this future will be built on closed, proprietary platforms dominated by a few tech giants or on the open, decentralized principles espoused by Web3. For those engaged in Web3, the mission is clear: to ensure that the next chapter of the internet belongs to everyone.
-
-## Importance of Understanding the Metaverse

@@ -47,5 +47,3 @@ The value of tokenized real estate increases when it can serve as collateral in 
 ### Future Prospects of Real Estate Tokenization
 
 The tokenization of real estate is still nascent, facing hurdles such as regulatory uncertainty and the challenge of accurately valuing physical assets on-chain. However, the advantages, such as increased liquidity, fractional ownership, and higher transparency, are substantial. As regulatory frameworks solidify and technology advances, the intersection of Web3 and real estate is set to become a significant growth area, generating numerous job opportunities for professionals proficient in both domains.
-
-### The Web3 Employment Market

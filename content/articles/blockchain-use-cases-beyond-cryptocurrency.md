@@ -53,5 +53,3 @@ Digital creators face ongoing challenges in protecting their intellectual proper
 **Blockchain Solution:** **[NFTs (Non-Fungible Tokens)](/what-are-nfts)** allow creators to produce verifiably scarce digital originals. The [smart contract](/what-are-smart-contracts) associated with an NFT can include programmed **[royalties](/nft-artist-royalties)**.
 
 **Real-World Example:** An artist sells an [NFT](/what-are-nfts), with a smart contract stipulating that every resale on a secondary market earns the artist a percentage of the sale price. This structure creates a continuous revenue stream for the creator.
-
-### Key Opportunities in Web3

@@ -50,5 +50,3 @@ Engineers in this area develop the tools and APIs that enable blockchain applica
  - **Contribute to Open Source:** Most blockchain clients are open source. Engage with repositories like Geth or Prysm, identify "good first issues," and submit pull requests. Contributing to core projects serves as a significant proof of capability.
 
 A career as a Web3 Infrastructure Engineer places you at the foundational layer of the emerging internet. This challenging path is also rewarding, positioning you leading the Web3 evolution.
-
-## The Web3 Market Opportunity

@@ -69,5 +69,3 @@ A: The preferred format is PDF. This format preserves your formatting across all
 **Q: Is it appropriate to include a career gap on my resume?**
 
 A: Yes, including a career gap is increasingly common and accepted. Be honest and frame the gap positively. Briefly explain the reason for the gap, whether it was for personal development, travel, or family care. Focus on any skills learned or experiences gained during that time. For more detailed strategies, consult our guide on [How to Explain Employment Gaps Successfully](/how-to-explain-employment-gaps-successfully).
-
-### Real-World Examples

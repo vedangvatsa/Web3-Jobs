@@ -45,5 +45,3 @@ A validator's primary duty is to maintain a node (a computer connected to the bl
 3. **Build a Reputation:** Engage actively in the validator community related to the blockchain you are interested in. Offer assistance to others, share your expertise, and establish a reputation for reliability and technical skill.
 
 A career as a professional validator suits individuals passionate about the foundational elements of [Web3](/what-is-web3). This role demands a balance of technical skill, security awareness, and business acumen. As the industry shifts towards a multi-chain, Proof-of-Stake future, the need for reliable validators will continue to increase.
-
-## Web3 Career Market
