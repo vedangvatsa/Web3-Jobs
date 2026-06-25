@@ -41,25 +41,3 @@ When assessing a job offer or a new project's **[tokenomics](/understanding-toke
 ## The Significance of This Concept
 
 Grasping the concept of a cliff in token vesting is vital for your career advancement. Professionals who understand this dynamic can make informed decisions, negotiate better compensation, and progress within their organizations. This understanding is particularly relevant in Web3, where collaboration and communication are critical.
-
-## Actionable Steps for Understanding Token Vesting
-
-### Step 1: Learn the Basics
-
-Start with the fundamentals. Familiarize yourself with the principles of vesting schedules and their structures. Research best practices shared by industry leaders to build a solid foundation.
-
-### Step 2: Evaluate Your Current Knowledge
-
-Assess your understanding of vesting schedules. Identify your strengths and weaknesses. Pinpoint specific challenges you face in grasping this concept. This awareness is important for your growth.
-
-### Step 3: Formulate a Personal Plan
-
-Develop a strategy that addresses your unique situation. Tailor your approach based on your role, team dynamics, and organizational culture. Set personal goals to guide your learning.
-
-### Step 4: Implement Incrementally
-
-Avoid attempting to overhaul everything at once. Start with one small change and gradually expand from there. Monitor what works and adjust your methods accordingly. This iterative approach promotes sustainable improvement.
-
-### Step 5: Track Progress and Adapt
-
-Regularly assess your progress in understanding vesting schedules. Are you achieving your learning objectives? Modify your approach based on feedback and results. A continuous improvement mindset is essential for mastery.
