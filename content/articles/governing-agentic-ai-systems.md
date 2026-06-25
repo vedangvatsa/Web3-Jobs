@@ -70,7 +70,3 @@ Consider an AI trading agent managing a [DeFi](/what-is-defi) protocol's treasur
 The pace of agentic AI development is accelerating rapidly. Establishing reliable governance and control systems is vital to ensuring these advancements align with human values. Relying solely on centralized corporations for oversight poses significant risks.
 
 Web3 principles, decentralization, transparency, and cryptographic verification provide a promising toolkit for developing accountable AI systems. By implementing on-chain guardrails and subjecting autonomous agents to public scrutiny, we can create a future where these influential systems align with societal values and support the public good. The convergence of AI and Web3 is not merely a technological trend; it may be essential for building a safe and beneficial future in artificial intelligence.
-
-### Why This Matters
-
-Understanding AI governance is important for professionals seeking to excel in their careers. Mastering these concepts can lead to greater recognition and advancement, especially within Web3 organizations where effective communication and collaboration are vital.

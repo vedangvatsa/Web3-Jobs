@@ -82,7 +82,3 @@ A: Research is ongoing in this area. Potential solutions include:
 - **Private Mempools**: Services like Flashbots can obscure initial trades from JIT bots.
 - **Protocol-Level Changes**: DEXs might implement mechanisms that delay fee collection or allocate a greater share of fees to long-term LPs, reducing the profitability of JIT strategies.
 - **Batch Auctions**: Protocols like CowSwap batch trades and execute them at a uniform clearing price, preventing JIT attacks by eliminating specific trades to target.
-
-### Why Understanding JIT Liquidity Matters
-
-Grasping the mechanics of JIT liquidity is essential for professionals operating in the DeFi space. Knowledge of this strategy can inform decisions about liquidity provision, risk management, and the broader implications for the ecosystem. In an environment where the competition is fierce, understanding advanced strategies like JIT liquidity can distinguish professionals and lead to better career opportunities.

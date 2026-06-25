@@ -216,11 +216,6 @@ Consider Alex, a developer who transitioned from a traditional software engineer
 
 Maria, a project manager in a Web3 startup, used her understanding of decentralized finance (DeFi) to simplify project workflows. By implementing agile methodologies tailored for blockchain projects, she improved team productivity and enhanced project outcomes.
 
-#### Example 3
-
-John, who shifted from Web2 to Web3, used the skills gained from his previous experiences to thrive in a decentralized environment. His ability to adapt quickly allowed him to become a valuable team member, leading to recognition and opportunities for advancement.
-
-### Common Pitfalls to Avoid
 
 1. **Rushing Development:** Building blockchain applications takes time. Hasty decisions can lead to critical mistakes.
 2. **Neglecting User Feedback:** Engage with users and stakeholders to gather feedback. This input is invaluable for improving your application.

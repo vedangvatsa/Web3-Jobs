@@ -9,3 +9,63 @@ data-ai-hint: "performance review meeting"
 publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
+
+The annual performance review is a relic. Sitting someone down once a year to tell them how they did over the past twelve months helps nobody. The employee is blindsided by feedback they could have acted on months ago, the manager is scrambling to remember what happened in Q1, and the whole exercise becomes a box-ticking ritual rather than something that actually improves work.
+
+If you're managing a team — especially a distributed or [Web3](/what-is-web3) team — you need a system that works continuously, not annually.
+
+## Why Annual Reviews Fail
+
+Annual reviews assume that performance is static enough to evaluate in a single snapshot. It isn't. Projects shift, priorities change, and people grow at different rates throughout the year. By the time you deliver feedback in December about something that happened in March, the moment to course-correct is long gone.
+
+The other problem is recency bias. Managers disproportionately remember the last six weeks of work. If someone had a rough October but an excellent first half of the year, the review skews negative. That's not fair and it's not accurate.
+
+## Build Continuous Feedback Loops
+
+Replace the annual review with a rhythm of regular check-ins. Here's what works:
+
+**Weekly 1:1s (15-30 minutes):** Keep these short and focused. Ask what's going well, what's stuck, and what the person needs from you. This isn't a status update — you have Slack and project boards for that. This is about alignment, blockers, and how the person is actually doing.
+
+**Monthly goal reviews:** Once a month, zoom out. Are the goals still the right goals? Is progress on track? Do priorities need to shift? This is where you adjust, not just observe.
+
+**Quarterly retrospectives:** Every three months, have a more structured conversation about growth, skill development, and career direction. This replaces the "development plan" section of the old annual review, but happens four times as often.
+
+The key is that none of these conversations should contain surprises. If you're saving feedback for a formal review, you're doing it wrong.
+
+## OKRs vs KPIs: Pick the Right Tool
+
+OKRs (Objectives and Key Results) and KPIs (Key Performance Indicators) get mixed up constantly. They solve different problems.
+
+**KPIs** measure ongoing performance. Think uptime, response time, customer satisfaction scores, or code deployment frequency. They tell you whether the engine is running smoothly. You track them continuously and flag when they drift out of range.
+
+**OKRs** drive change. They set ambitious objectives with measurable results over a defined period, usually a quarter. An OKR might be "Reduce onboarding time for new contributors" with key results like "Create a self-serve documentation portal" and "Cut average time-to-first-commit from 14 days to 5."
+
+Most teams need both. KPIs keep the lights on. OKRs push things forward. The mistake is using KPIs as OKRs (which just maintains the status quo) or setting so many OKRs that none of them get real attention.
+
+## Having Actual Growth Conversations
+
+A growth conversation is different from a performance conversation. Performance asks "are you meeting expectations?" Growth asks "where are you headed and how do we get you there?"
+
+Good growth conversations cover:
+
+- **Skills the person wants to build.** Not skills you think they should build — skills they're genuinely interested in.
+- **Gaps between where they are and where they want to be.** Be specific. "You need to improve your communication" is useless. "Your technical proposals would land better if you led with the business impact before the implementation details" is something a person can actually work on.
+- **Opportunities to stretch.** Can they lead a project, mentor someone newer, or take on a cross-functional initiative? Growth happens through practice, not training slides.
+
+## Performance Management in Flat Orgs and DAOs
+
+Traditional performance management assumes a clear hierarchy: manager evaluates direct report, direct report nods along. In [Web3 organizations](/what-is-web3) and DAOs, that structure often doesn't exist. Contributors might work across multiple projects, report to no single person, and operate under pseudonyms.
+
+So how do you manage performance without managers?
+
+**Peer feedback systems.** When there's no boss, feedback comes from the people you work with directly. Tools like peer review rounds at the end of each project cycle let contributors evaluate each other's reliability, code quality, communication, and follow-through.
+
+**Deliverable-based evaluation.** In many DAOs, your reputation is your track record. Did you ship what you committed to? Did you hit the milestones tied to your [grant or bounty](/web3-careers)? On-chain records of completed work create a transparent, tamper-proof performance history.
+
+**Compensation tied to contribution.** Some DAOs use coordinape-style systems where team members allocate tokens to peers based on perceived contribution. This replaces the manager's unilateral decision about raises and bonuses with a collective assessment.
+
+The downside of flat structures is that hard feedback often doesn't get delivered at all. When nobody is formally responsible for your development, uncomfortable truths go unsaid. The best DAO teams build explicit feedback rituals into their operating cadence — not because someone's in charge, but because everyone agreed that honest feedback matters.
+
+## Make It Stick
+
+Whatever system you choose, consistency matters more than perfection. A basic weekly check-in that actually happens every week beats an elaborate performance framework that gets abandoned by February. Start simple, stay regular, and treat feedback as a normal part of how your team works — not something that requires a calendar invite and a deep breath.
