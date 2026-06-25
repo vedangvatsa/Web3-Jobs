@@ -87,25 +87,3 @@ Yes, gaps in employment are common. Be ready to explain any gaps in your cover l
 
 **Why does this matter?** 
 Mastering resume writing and presentation is vital for professional success. Professionals who excel in this area often secure better roles, earn higher salaries, and experience faster career advancement. This is especially true in [Web3](/what-is-web3) organizations, where effective communication and collaboration are critical.
-
-### Step-by-Step Guide to Resume Writing
-
-#### Step 1: Understand the Fundamentals
-
-Begin by comprehending the essential principles of resume writing. Familiarize yourself with best practices shared by industry leaders. This foundational knowledge will inform your approach throughout the process.
-
-#### Step 2: Assess Your Current Situation
-
-Evaluate your existing resume. Identify strengths and weaknesses. Determine specific challenges you face in presenting your qualifications. Understanding your starting point is essential for effective improvement.
-
-#### Step 3: Develop Your Personal Strategy
-
-Create a tailored plan based on your current situation. Your approach should reflect your unique circumstances, including your role, team dynamics, organizational culture, and personal objectives.
-
-#### Step 4: Implement Gradually
-
-Avoid the temptation to overhaul your resume all at once. Start with small, manageable changes and build from there. Monitor what works and what doesn’t; this iterative method promotes sustainable improvement.
-
-#### Step 5: Measure and Adjust
-
-Continuously monitor your progress. Are you achieving the desired results? Be prepared to adjust your approach based on feedback and outcomes. Maintaining a mindset of continuous improvement is vital.

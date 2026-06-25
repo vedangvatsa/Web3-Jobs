@@ -103,25 +103,3 @@ Yes. In certain situations, especially if you are joining a direct competitor, y
 ### Why This Matters
 
 Managing your resignation effectively influences your professional future. Professionals who master this aspect of career transitions often stand out, receive better compensation, and advance more quickly. This is particularly relevant in [Web3](/what-is-web3) organizations, where strong communication and collaboration skills are essential.
-
-### Step-by-Step Guide to Resigning Gracefully
-
-#### Step 1: Understand the Fundamentals
-
-Grasping the core principles of resignation sets the foundation for a smooth transition. Research best practices from industry leaders and peers to inform your approach.
-
-#### Step 2: Assess Your Current Situation
-
-Evaluate where you currently stand. Identify your strengths and weaknesses. Recognize specific challenges you face, as understanding your baseline is critical for improvement.
-
-#### Step 3: Develop Your Personal Strategy
-
-Create a tailored plan that reflects your unique situation. Consider factors such as your role, team dynamics, organizational culture, and personal career goals.
-
-#### Step 4: Implement Gradually
-
-Avoid attempting to change everything at once. Start with one small adjustment and build from there. Track your outcomes to determine what works and what does not. This incremental approach builds sustainable progress.
-
-#### Step 5: Measure and Adjust
-
-Monitor your progress regularly. Are you achieving your goals? Adjust your strategies based on feedback and results. Embrace a mindset of continuous improvement.
