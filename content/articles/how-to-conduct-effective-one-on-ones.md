@@ -16,7 +16,7 @@ Most one-on-ones are bad. Not because managers don't care, but because the meeti
 
 You already have standups, project boards, and async updates to track what's getting done. If your 1:1 is just another venue for task review, you're burning the one meeting where a person can tell you what's actually going on — what's frustrating them, where they want to grow, what they'd change if they could.
 
-When 1:1s become status meetings, two things happen. First, real problems go underground because there's no space to surface them. Second, your team starts seeing the meeting as overhead rather than something valuable. That's when people start canceling or showing up with nothing to say.
+When 1:1s become status meetings, real problems go underground. Your team starts seeing the meeting as overhead rather than something valuable. That's when people start canceling or showing up with nothing to say.
 
 ## A Better Agenda Structure
 
@@ -57,7 +57,7 @@ If you committed to something — removing a blocker, giving a stretch assignmen
 
 ## Handling 1:1s in Remote and Web3 Teams
 
-Remote-first companies and Web3 orgs have unique challenges here. When you're spread across time zones and might not share a single overlapping work hour, the traditional weekly video call doesn't always work.
+When you're spread across time zones and might not share a single overlapping work hour, the traditional weekly video call doesn't always work.
 
 **Async 1:1s are a valid option.** Use a shared document or a dedicated thread where your report writes updates, concerns, and questions throughout the week. You respond thoughtfully within 24 hours. Then hold a live call biweekly or monthly for the conversations that need real-time back-and-forth — career growth, sensitive feedback, conflict resolution.
 
@@ -67,6 +67,6 @@ Remote-first companies and Web3 orgs have unique challenges here. When you're sp
 
 ## The Simplest Test
 
-After your next 1:1, ask yourself: did I learn something I didn't know before? If the answer is yes, the meeting worked. If the answer is no, you're probably still running a status update. Go back to the questions above and try again.
+After your next 1:1, ask yourself: did I learn something I didn't know before? If the answer is yes, the meeting worked. If the answer is no, you're probably still running a status update.
 
-Good 1:1s are the highest-leverage activity a manager has. They're how you retain people, develop talent, and catch problems before they explode. Treat them like the important meeting they are, and your team will notice the difference. If you're stepping into a [management role in Web3](/career-guides), getting this right from day one sets the tone for everything else.
+Good 1:1s are how you retain people, develop talent, and catch problems before they explode. If you're stepping into a [management role in Web3](/career-guides), getting this right from day one sets the tone for everything else.

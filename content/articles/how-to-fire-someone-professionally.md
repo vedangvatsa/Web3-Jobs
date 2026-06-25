@@ -18,9 +18,9 @@ If the termination is performance-related, there should be a documented trail. P
 
 **Involve HR early.** Even in small companies, get someone from HR or legal in the loop before the conversation happens. They'll help you navigate compliance issues — final pay requirements, benefits continuation, non-compete clauses, and anything specific to the person's location or contract type.
 
-**Prepare the logistics in advance.** Before you walk into the meeting, have answers to: When is their last day? Will they receive severance? How will systems access be handled? What about their equipment? When will they get their final paycheck? Not having these answers makes an already difficult conversation chaotic.
+**Prepare the logistics in advance.** Before you walk into the meeting, have answers to: When is their last day? Will they receive severance? How will systems access be handled? When will they get their final paycheck? Not having these answers makes a difficult conversation chaotic.
 
-**Choose the right time.** Do it early in the week, not on a Friday afternoon. The person needs business hours to contact HR, sort out benefits, and ask follow-up questions. A Friday firing leaves them stewing over a weekend with no one to call.
+**Choose the right time.** Do it early in the week, not on a Friday afternoon. The person needs business hours to contact HR and sort out benefits. A Friday firing leaves them stewing over a weekend with no one to call.
 
 ## The Conversation Itself
 
@@ -53,11 +53,11 @@ Give them this information in writing, either in the meeting or immediately afte
 
 ## After: Telling the Team
 
-The remaining team will notice when someone disappears. Silence breeds speculation, and speculation is always worse than the truth.
+The remaining team will notice when someone disappears. Silence breeds speculation.
 
 Within 24 hours, tell the team directly. Keep it simple and respectful: "I want to let you know that [name] is no longer with the company. I can't go into specifics about the reasons, but I want to address any questions about how this affects the team and our work."
 
-**Don't badmouth the person.** Even if the termination was for cause. Your team is watching how you treat someone on their way out, and they're thinking, "That could be me someday." Handle it with dignity and your remaining team will trust you more.
+**Don't badmouth the person.** Even if the termination was for cause. Your team is watching how you treat someone on their way out. Handle it with dignity and your remaining team will trust you more.
 
 **Redistribute work quickly.** Don't let the departed person's responsibilities float. Assign ownership within a few days so the team has clarity and momentum.
 

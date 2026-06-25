@@ -18,11 +18,9 @@ Here's how to actually do it.
 
 ## Understand What Your Manager Cares About
 
-Your manager has their own set of pressures, goals, and constraints—most of which you probably don't see. They're reporting to someone too. They have targets they're trying to hit, fires they're trying to put out, and limited time and attention.
+Your manager has their own pressures, goals, and constraints—most of which you don't see. The first step is figuring out what those priorities are. Ask directly: "What's the most important thing on your plate this quarter?" You'd be surprised how rarely people ask.
 
-The first step in managing up is figuring out what those priorities are. Ask directly: "What's the most important thing on your plate this quarter?" or "What does success look like for the team right now from your perspective?" You'd be surprised how rarely people ask their managers these questions.
-
-Once you know their priorities, align your work and your communication around them. If your manager is focused on shipping a product by Q3, don't lead your 1-on-1 updates with a deep-dive into a refactoring project that won't matter until Q4. Start with the stuff that maps to what they care about most.
+Once you know their priorities, align your communication around them. If your manager is focused on shipping a product by Q3, don't lead your 1-on-1 with a deep-dive into a refactoring project that won't matter until Q4. Start with what maps to their top concerns.
 
 ## Learn Their Communication Preferences
 
@@ -42,7 +40,7 @@ Instead of: "The smart contract audit is going to take two weeks longer than pla
 
 Try: "The audit is running behind by about two weeks. I see two options: we can push the launch date, or we can bring in a second auditor to run the remaining modules in parallel. Here's the cost tradeoff for each. What's your preference?"
 
-This does two things. First, it shows you've thought about the problem, not just identified it. Second, it gives your manager something concrete to react to, which makes their job easier. They can approve one of your options, suggest a third, or ask for more information—but you've moved the conversation forward instead of just dumping a problem in their lap.
+This shows you've thought about the problem, not just identified it. It gives your manager something concrete to react to—approve one option, suggest a third, or ask for more info—instead of just dumping a problem in their lap.
 
 ## Keep Surprises to a Minimum
 
