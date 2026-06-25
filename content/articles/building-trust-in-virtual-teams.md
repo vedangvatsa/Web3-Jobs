@@ -22,11 +22,11 @@ This is doubly true in [Web3 and DAO teams](/what-is-web3), where contributors m
 
 **Text communication lacks nuance.** A short reply that's perfectly fine in person — "Noted" — can feel dismissive or passive-aggressive in a DM. Small misunderstandings accumulate and erode trust silently.
 
-**Fewer relationship-building moments.** There's no coffee run, no lunch together, no five minutes of small talk before a meeting starts. The informal interactions that build personal connections simply don't happen by default.
+**Fewer relationship-building moments.** There's no coffee run, no lunch together, no small talk before a meeting. The informal interactions that build personal connections don't happen by default.
 
 ## Specific Tactics That Actually Work
 
-Trust isn't built through trust falls and icebreaker games. It's built through dozens of small, reliable behaviors over time. Here's what high-functioning remote teams do:
+Trust isn't built through trust falls and icebreaker games. It's built through dozens of small, reliable behaviors over time.
 
 ### Show Your Face
 
@@ -40,9 +40,9 @@ Dedicate a Slack or Discord channel to non-work conversation. Share what you coo
 
 One of the fastest ways to destroy trust in a remote team is making decisions in private conversations and not writing them down. When people find out about decisions after the fact, they feel excluded.
 
-Write things down. Meeting notes, decision logs, project rationale — all of it should be accessible to everyone. Use a shared wiki, Notion, or whatever tool your team prefers. The point is that anyone can see why a decision was made and who was involved.
+Write things down. Meeting notes, decision logs, project rationale — all accessible to everyone. The point is that anyone can see why a decision was made and who was involved.
 
-This is especially important for teams spread across timezones. If the European contingent makes a call during their working hours, the async write-up lets the APAC team understand and weigh in — even if they do it twelve hours later.
+This matters most for teams spread across timezones. If one group makes a call during their hours, the async write-up lets others understand and weigh in later.
 
 ### Follow Through on Commitments
 
@@ -52,7 +52,7 @@ In a remote setting, broken promises are more visible. If you said you'd review 
 
 ### Give Context, Not Just Conclusions
 
-When you share a decision or an update, explain the reasoning behind it. "We're switching to a biweekly release cycle" tells your team what's changing. "We're switching to a biweekly release cycle because the weekly cadence is causing rushed QA and we shipped two bugs to production last month" tells them why, and makes them feel respected enough to be given the full picture.
+When you share a decision, explain the reasoning. "We're switching to a biweekly release cycle" tells your team what's changing. Adding "because the weekly cadence caused rushed QA and two production bugs last month" tells them why — and makes them feel respected.
 
 ## Trust in Web3 and DAO Teams
 
@@ -60,11 +60,11 @@ When you share a decision or an update, explain the reasoning behind it. "We're 
 
 **On-chain reputation.** Your track record is often visible on-chain. Completed bounties, governance participation, tokens earned — these create a verifiable history. You might not know someone's name, but you can see they've delivered consistently across multiple protocols.
 
-**Consistent delivery over time.** Trust in DAOs is earned the same way it's earned everywhere: by showing up and doing good work, repeatedly. The contributor who ships clean code on time for three months straight earns trust regardless of whether anyone knows their real identity.
+**Consistent delivery over time.** Trust in DAOs is earned the same way it's earned everywhere: by showing up and doing good work, repeatedly.
 
-**Transparent governance.** When decisions are made through on-chain voting with public proposals and discussion, there's less room for backroom politics. Everyone can see the process. That structural transparency compensates for the lack of personal familiarity.
+**Transparent governance.** When decisions happen through on-chain voting with public proposals, there's less room for backroom politics. Everyone can see the process. That structural transparency compensates for the lack of personal familiarity.
 
-**Start with small commitments.** Smart DAO teams don't hand a new pseudonymous contributor a massive grant on day one. They start with a small bounty or a scoped task. If that goes well, the scope increases. Trust is extended gradually based on demonstrated reliability.
+**Start with small commitments.** Smart DAO teams don't hand a new contributor a massive grant on day one. They start with a small bounty. If that goes well, scope increases. Trust is extended gradually based on demonstrated reliability.
 
 ## Trust Is a Practice, Not an Achievement
 

@@ -10,13 +10,13 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-Firing someone is the worst part of management. No framework makes it comfortable. But there's a massive difference between doing it well and doing it badly — for the person being let go, for the team that remains, and for you. Here's how to handle it with clarity and respect.
+Firing someone is the worst part of management. No framework makes it comfortable. But there's a big difference between doing it well and doing it badly. Here's how to handle it with clarity and respect.
 
 ## Before the Conversation: Preparation Is Everything
 
-If the termination is performance-related, there should be a documented trail. Performance improvement plans (PIPs), written feedback, and clear expectations that were communicated and not met. If you don't have this documentation, you're not ready to fire someone — you're ready to start managing them more closely.
+If the termination is performance-related, there should be a documented trail — PIPs, written feedback, and clear expectations that were communicated and not met. If you don't have this, you're not ready to fire someone — you're ready to start managing them more closely.
 
-**Involve HR early.** Even in small companies, get someone from HR or legal in the loop before the conversation happens. They'll help you navigate compliance issues — final pay requirements, benefits continuation, non-compete clauses, and anything specific to the person's location or contract type.
+**Involve HR early.** Even in small companies, get someone from HR or legal in the loop before the conversation. They'll help you navigate final pay requirements, benefits continuation, and anything specific to the person's contract.
 
 **Prepare the logistics in advance.** Before you walk into the meeting, have answers to: When is their last day? Will they receive severance? How will systems access be handled? When will they get their final paycheck? Not having these answers makes a difficult conversation chaotic.
 
@@ -26,21 +26,20 @@ If the termination is performance-related, there should be a documented trail. P
 
 Keep it short. This is not a negotiation or a performance review. The decision has been made. The meeting should be 15–20 minutes, maximum.
 
-**Be direct in the first two sentences.** Don't open with small talk, don't ease into it, don't bury the news behind a compliment sandwich. Say something like: "I need to let you know that we've made the decision to end your employment, effective [date]." Then pause. Let it land.
+**Be direct in the first two sentences.** Don't open with small talk or bury the news behind a compliment sandwich. Say: "I need to let you know that we've made the decision to end your employment, effective [date]." Then pause. Let it land.
 
-**Give a brief, honest reason.** You don't owe a 30-minute explanation, but the person deserves to know why. "The role has evolved beyond the current scope" or "We haven't seen the improvement we discussed during the PIP" — keep it factual and short.
+**Give a brief, honest reason.** You don't owe a long explanation, but the person deserves to know why. "The role has evolved beyond the current scope" or "We haven't seen the improvement we discussed during the PIP" — keep it factual and short.
 
 **What NOT to say:**
 - "This is harder for me than it is for you." (It's not.)
 - "I fought for you but leadership decided..." (Throwing others under the bus destroys trust across the organization.)
 - "Maybe you could try..." (The decision is made. Don't offer false hope.)
-- Anything that sounds like you're asking for their emotional support. They don't owe you comfort right now.
 
-**Show empathy, not pity.** Acknowledge that this is hard. "I know this isn't the news you wanted, and I'm sorry." That's enough. You don't need to over-explain or over-apologize.
+**Show empathy, not pity.** "I know this isn't the news you wanted, and I'm sorry." That's enough. Don't over-explain or over-apologize.
 
 ## Handle the Logistics Clearly
 
-Walk them through what happens next — practically, not emotionally. Cover:
+Walk them through what happens next. Cover:
 
 - **Last day and transition.** Is today their last day, or do they have a transition period?
 - **Final pay and severance.** When they'll receive it and how much, if applicable.
@@ -49,7 +48,7 @@ Walk them through what happens next — practically, not emotionally. Cover:
 - **Equipment return.** How and when to return company hardware.
 - **Reference.** Will you serve as a reference? Be honest about what you can say.
 
-Give them this information in writing, either in the meeting or immediately after via email. People don't absorb details well when they're processing bad news.
+Give them this information in writing. People don't absorb details well when they're processing bad news.
 
 ## After: Telling the Team
 
@@ -63,11 +62,11 @@ Within 24 hours, tell the team directly. Keep it simple and respectful: "I want 
 
 ## Firing in Web3 and DAO Contexts
 
-Traditional companies have employment contracts and HR departments. DAOs and decentralized Web3 teams often don't. Removing a contributor from a DAO involves different mechanics — governance votes, multisig access revocation, or simply not renewing a contributor grant.
+Traditional companies have employment contracts and HR departments. DAOs often don't. Removing a contributor from a DAO involves different mechanics — governance votes, multisig access revocation, or simply not renewing a grant.
 
-But the human element is the same. If someone's work isn't meeting standards, they deserve direct feedback and a chance to improve before being cut off. The decentralized structure doesn't excuse ghosting someone or quietly removing their permissions without a conversation.
+But the human element is the same. If someone's work isn't meeting standards, they deserve direct feedback and a chance to improve before being cut off. Decentralization doesn't excuse ghosting someone or quietly removing their permissions without a conversation.
 
-If you're in a [Web3 leadership role](/jobs) without formal HR, you carry extra responsibility. Document agreements in writing. Set clear deliverables. And when the relationship isn't working, have the conversation directly — over video if possible, not in a Discord DM.
+If you're in a [Web3 leadership role](/jobs) without formal HR, you carry extra responsibility. Document agreements in writing. Set clear deliverables. And when the relationship isn't working, have the conversation directly — over video, not in a Discord DM.
 
 ## The Uncomfortable Truth
 

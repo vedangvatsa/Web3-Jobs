@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-Most one-on-ones are bad. Not because managers don't care, but because the meeting defaults to "what are you working on?" — and then 30 minutes disappear into a project status rundown that could've been a Slack message. The 1:1 is supposed to be your direct report's meeting, not a reporting session. Here's how to fix it.
+Most one-on-ones are bad. Not because managers don't care, but because the meeting defaults to "what are you working on?" — and then 30 minutes disappear into a status rundown that could've been a Slack message. Here's how to fix it.
 
 ## Why Status Update 1:1s Are a Waste
 
@@ -43,11 +43,11 @@ That last one matters. If you never ask for feedback as a manager, you'll never 
 
 ## How Often and How Long
 
-**Weekly is ideal.** Every two weeks is the minimum if you manage a small team. Monthly 1:1s are too infrequent — by the time you meet, small issues have calcified into big ones.
+**Weekly is ideal.** Every two weeks is the minimum. Monthly 1:1s are too infrequent — by the time you meet, small issues have calcified into big ones.
 
-**Thirty minutes is the sweet spot.** You can go to 45 if the person is working through something complex, but don't default to an hour. Shorter meetings force focus.
+**Thirty minutes is the sweet spot.** Don't default to an hour. Shorter meetings force focus.
 
-**Don't cancel.** Rescheduling is fine. Canceling signals that the meeting — and by extension, the person — isn't a priority. If you cancel repeatedly, expect your best people to start job searching.
+**Don't cancel.** Rescheduling is fine. Canceling signals that the person isn't a priority. Do it repeatedly and expect your best people to start job searching.
 
 ## Taking Notes and Following Through
 
@@ -59,11 +59,11 @@ If you committed to something — removing a blocker, giving a stretch assignmen
 
 When you're spread across time zones and might not share a single overlapping work hour, the traditional weekly video call doesn't always work.
 
-**Async 1:1s are a valid option.** Use a shared document or a dedicated thread where your report writes updates, concerns, and questions throughout the week. You respond thoughtfully within 24 hours. Then hold a live call biweekly or monthly for the conversations that need real-time back-and-forth — career growth, sensitive feedback, conflict resolution.
+**Async 1:1s are a valid option.** Use a shared document or thread where your report writes updates, concerns, and questions throughout the week. You respond within 24 hours. Hold a live call biweekly for the conversations that need real-time back-and-forth — career growth, sensitive feedback, conflict resolution.
 
-**In DAOs and flat-structure Web3 teams**, the 1:1 dynamic shifts. You might not have a formal manager-report relationship, but regular check-ins between collaborators still matter. If you're a [project lead or team coordinator](/jobs), set up informal 1:1s with core contributors. These conversations catch misalignment early and help people feel connected to the work, especially when everyone's pseudonymous and distributed.
+**In DAOs and flat-structure Web3 teams**, the 1:1 dynamic shifts. You might not have a formal manager-report relationship, but regular check-ins between collaborators still matter. If you're a [project lead](/jobs), set up informal 1:1s with core contributors. These conversations catch misalignment early, especially when everyone's pseudonymous and distributed.
 
-**Video-off is fine.** Some of the best remote 1:1s happen audio-only, like a phone call. It reduces fatigue, feels more casual, and often leads to more honest conversation. Let your report choose.
+**Video-off is fine.** Some of the best remote 1:1s happen audio-only. It reduces fatigue and often leads to more honest conversation.
 
 ## The Simplest Test
 
