@@ -76,18 +76,6 @@ This role is accessible since you can build a portfolio independently.
 
 The Web3 Data Analyst role is well-suited for individuals who enjoy solving puzzles, identifying hidden patterns, and crafting narratives from data. This career positions you at the center of developments, providing critical insights that help projects thrive in the dynamic world of crypto.
 
-### Common Pitfalls to Avoid
-
-1. **Rushing the Process:** Sustainable change takes time. Avoid expecting immediate results.
-
-2. **Ignoring Feedback:** Engage with colleagues, mentors, and managers for insights that can enhance your work.
-
-3. **One-Size-Fits-All Approach:** Customize strategies to fit your unique context and needs.
-
-4. **Giving Up Too Soon:** Embrace discomfort as part of the growth process. Persist through challenges to achieve better results.
-
-5. **Neglecting Progress Tracking:** Establish metrics to measure improvement. You cannot enhance what you do not quantify.
-
 ### FAQ
 
 **Q: How long will it take to see results from these strategies?** 
