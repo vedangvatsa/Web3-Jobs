@@ -3,7 +3,7 @@
 title: "Understanding Annual Percentage Yield in Crypto"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "apy crypto yield"
-description: "APY is a important metric in DeFi, but what does it really mean? This guide breaks down Annual Percentage Yield, how it differs from APR, and how to."
+description: "APY is an important metric in DeFi, but what does it really mean? This guide breaks down Annual Percentage Yield, how it differs from APR, and how to."
 category: "Educational"
 
 publishedDate: "2026-03-11"

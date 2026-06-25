@@ -73,7 +73,7 @@ Healthcare entities increasingly recognize the advantages of blockchain, includi
 
 - **Enhanced Security**: Protecting patient data from unauthorized access and breaches.
 - **Improved Data Sharing**: Enabling better collaboration among healthcare providers.
-- **Cost Reduction**: simplify operations and reducing waste in healthcare delivery.
+- **Cost Reduction**: Simplifying operations and reducing waste in healthcare delivery.
 
 ### Challenges to Blockchain Implementation
 

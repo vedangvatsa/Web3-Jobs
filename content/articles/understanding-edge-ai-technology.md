@@ -28,7 +28,7 @@ While cloud AI has driven many successful applications, it presents several chal
 
 Edge AI addresses these issues by processing data on local devices instead of relying on cloud servers. This approach allows for real-time data analysis without the need for constant internet connectivity.
 
-**Operational Mechanism**: The typical implementation involves a two-step process. First, a detailed AI model is trained in the cloud using vast datasets. Following this, techniques such as model compression and quantization create a simplify version suitable for local execution on edge devices. This "edge model" is specifically optimized to function with the limited processing capabilities of devices like smartphones or sensors.
+**Operational Mechanism**: The typical implementation involves a two-step process. First, a detailed AI model is trained in the cloud using vast datasets. Following this, techniques such as model compression and quantization create a simplified version suitable for local execution on edge devices. This "edge model" is specifically optimized to function with the limited processing capabilities of devices like smartphones or sensors.
 
 ### Advantages of Edge AI
 

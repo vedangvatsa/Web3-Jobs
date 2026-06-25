@@ -75,7 +75,7 @@ Data scientists, statisticians, and academic researchers who require sophisticat
 
 ### C++: The Performance Leader
 
-In terms of performance, C++ stands out as the top choice. While full AI models are rarely written in C++, it plays a important role in the underlying structure.
+In terms of performance, C++ stands out as the top choice. While full AI models are rarely written in C++, it plays an important role in the underlying structure.
 
 #### Importance of C++
 

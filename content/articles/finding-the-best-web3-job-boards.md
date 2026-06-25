@@ -35,7 +35,7 @@ For those serious about building a career in Web3, the following platforms are e
 
 ### The Influence of Venture Capital Portfolios
 
-Venture capital (VC) firms play a important role in funding Web3 startups. Their [portfolio](/building-web3-portfolio) job pages offer a treasure trove of quality opportunities at established companies.
+Venture capital (VC) firms play an important role in funding Web3 startups. Their [portfolio](/building-web3-portfolio) job pages offer a treasure trove of quality opportunities at established companies.
 
 1. **a16z Crypto Jobs**: Andreessen Horowitz (a16z) is a leading investor in Web3. Their job page lists open roles across their portfolio companies, which include many top names in the industry.
 2. **Model Jobs**: Model, a major crypto-focused venture fund, features a curated list of roles in engineering, research, and design at their portfolio companies, often leading Web3 innovation.

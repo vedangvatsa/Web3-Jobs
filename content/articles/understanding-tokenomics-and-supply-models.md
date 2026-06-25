@@ -21,7 +21,7 @@ The mechanics of a token's supply form the foundation of its design. Key princip
 - **Maximum Supply:** Does the token have a cap on its total supply? For instance, [Bitcoin](/what-is-bitcoin) has a fixed limit of 21 million tokens, classifying it as a deflationary asset akin to digital gold.
 - **Circulating Supply:** What is the current number of tokens available for trading on the market?
 - **Inflation vs. Deflation:**
- - **Inflationary Tokens:** These tokens continuously generate new units, often as rewards for miners or stakers who maintain the network (e.g., [Ethereum](/what-is-ethereum)). Pay attention to the "inflation rate," a important metric for understanding potential devaluation.
+ - **Inflationary Tokens:** These tokens continuously generate new units, often as rewards for miners or stakers who maintain the network (e.g., [Ethereum](/what-is-ethereum)). Pay attention to the "inflation rate," an important metric for understanding potential devaluation.
  - **Deflationary Tokens:** These tokens decrease in supply over time through mechanisms like token burning, where transaction fees are permanently removed from circulation.
 
 **Key Analysis Point:** Does the token's supply model promote long-term scarcity and value retention, or does it encourage high inflation that could erode early adopters' holdings?

@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 For years, Decentralized Finance ([DeFi](/what-is-defi)) operated within a self-contained ecosystem, relying primarily on crypto-native assets, applications, and yield opportunities. Recently, a significant trend in [Web3](/what-is-web3) has emerged, aiming to connect on-chain assets with off-chain value. This trend revolves around **Real-World Asset (RWA) tokenization**.
 
-RWA tokenization refers to creating a digital twin of a traditional asset on the [blockchain](/what-is-a-blockchain). This process involves converting physical assets such as real estate, private credit, U.S. Treasury Bills, and fine art into transferable, programmable [tokens](/what-is-a-token). This movement establishes a important link between the traditional finance (TradFi) sector and the evolving DeFi industry. RWA tokenization has the potential to release significant value from previously illiquid assets while enhancing the efficiency, transparency, and accessibility of the global financial system.
+RWA tokenization refers to creating a digital twin of a traditional asset on the [blockchain](/what-is-a-blockchain). This process involves converting physical assets such as real estate, private credit, U.S. Treasury Bills, and fine art into transferable, programmable [tokens](/what-is-a-token). This movement establishes an important link between the traditional finance (TradFi) sector and the evolving DeFi industry. RWA tokenization has the potential to release significant value from previously illiquid assets while enhancing the efficiency, transparency, and accessibility of the global financial system.
 
 ### Defining Real-World Assets (RWAs)
 

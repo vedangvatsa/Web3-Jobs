@@ -42,7 +42,7 @@ Another promising area involves developing "biosensors." These engineered cells 
 
 Despite its potential, synthetic biology faces significant challenges. The complexity of biological systems makes engineering them often more difficult than building structures like bridges or computers. Biological parts do not always behave predictably, and the genetic circuits constructed can have unintended effects on host organisms.
 
-Safety and ethical considerations also play a important role in the discussion surrounding synthetic biology. Concerns exist about the accidental release of engineered organisms into the environment and the potential for misuse. The synthetic biology community actively engages in discussions about responsible innovation and has established a strong culture of safety to address these risks.
+Safety and ethical considerations also play an important role in the discussion surrounding synthetic biology. Concerns exist about the accidental release of engineered organisms into the environment and the potential for misuse. The synthetic biology community actively engages in discussions about responsible innovation and has established a strong culture of safety to address these risks.
 
 Synthetic biology aims to transition from merely reading the genetic code of life to writing it. This field is merging biology with engineering, with the potential to create a more sustainable and healthier future.
 
@@ -55,4 +55,4 @@ Synthetic biology encompasses a broader scope than genetic engineering. While ge
 Safety is a significant concern in synthetic biology research. Most experiments occur in contained laboratory settings to mitigate risks. For applications involving environmental release, such as bioremediation, scientists implement safeguards, including "kill switches" that cause organisms to self-destruct after completing their intended tasks.
 
 **3. What are some real-world products made with synthetic biology?** 
-Several products derived from synthetic biology are already available. For example, artemisinin, a important anti-malarial drug, is produced by engineered yeast. some fragrances and flavors used in food and cosmetics are made through fermentation with engineered microbes. Animal-free dairy proteins are another notable example.
+Several products derived from synthetic biology are already available. For example, artemisinin, an important anti-malarial drug, is produced by engineered yeast. some fragrances and flavors used in food and cosmetics are made through fermentation with engineered microbes. Animal-free dairy proteins are another notable example.

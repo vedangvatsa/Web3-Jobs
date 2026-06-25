@@ -19,7 +19,7 @@ Professionals from diverse fields such as development, marketing, design, and st
 ### The Technical Track: Building the New Internet
 
 **1. [Smart Contract](/what-are-smart-contracts) Developer** 
-Smart contract developers play a important role in Web3. They write the code that powers various applications, including [DeFi](/what-is-defi) protocols and [NFT](/what-are-nfts) marketplaces. 
+Smart contract developers play an important role in Web3. They write the code that powers various applications, including [DeFi](/what-is-defi) protocols and [NFT](/what-are-nfts) marketplaces. 
 
 - **Skills Required**: Proficiency in [Solidity](/best-programming-languages-for-blockchain-development) for EVM chains, Rust for Solana and other platforms, a deep understanding of security measures, gas optimization, and blockchain architecture.
 - **Job Outlook**: This role is foundational with extremely high demand, offering lucrative compensation packages. Smart contract developers can earn significant salaries, depending on experience.

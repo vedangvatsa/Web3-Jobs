@@ -75,7 +75,7 @@ Initially focused on scholarships, gaming guilds have significantly broadened th
 
 **Research and Analytics**: Leading guilds are investing in analytics to assess game economics, sustainability, and resource allocation. Guilds like YGG produce research that shapes industry trends and provides insights into the viability of different games.
 
-**Regulatory Bridges**: As governments begin to regulate gaming, guilds play a important role in helping scholars understand tax obligations and compliance. Some guilds are even employing tax accountants to assist scholars in their regions.
+**Regulatory Bridges**: As governments begin to regulate gaming, guilds play an important role in helping scholars understand tax obligations and compliance. Some guilds are even employing tax accountants to assist scholars in their regions.
 
 ## The Economics: Assessing Game Profitability
 

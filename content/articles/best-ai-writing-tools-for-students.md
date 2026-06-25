@@ -67,7 +67,7 @@ QuillBot began as a paraphrasing tool but has developed into a writing suite esp
 
 * **Paraphraser**: QuillBot's primary function allows users to input a sentence or paragraph and receive multiple rewritten versions. This feature aids in grasping complex ideas or finding new ways to articulate thoughts. **Warning**: Do not use QuillBot to rewrite others' work and claim it as your own, as this constitutes plagiarism.
 * **Summarizer**: Students can paste lengthy articles or upload documents, and QuillBot will generate summaries. This feature saves time when extracting main points from various research papers.
-* **Co-Writer**: This integrated feature combines research, writing, paraphrasing, and summarization tools into one platform, simplify the writing process.
+* **Co-Writer**: This integrated feature combines research, writing, paraphrasing, and summarization tools into one platform,  simplifying the writing process.
 * **Citation Generator**: QuillBot automates citation creation in various formats (MLA, APA, Chicago), alleviating the burdensome task of manual citation.
 
 ### Best Tool for Focused Academic Writing: Paperpal

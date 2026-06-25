@@ -35,7 +35,7 @@ The operation of a crypto faucet is generally straightforward:
 ### Reasons for Faucet Existence
 
 - **Education and Onboarding:** For newcomers, faucets offer a risk-free introduction to receiving a cryptocurrency transaction, enhancing their understanding of wallets and transactions.
-- **Developer Testing:** Faucets play a important role in the [Web3](/what-is-web3) ecosystem, supplying testnet funds essential for application development and testing.
+- **Developer Testing:** Faucets play an important role in the [Web3](/what-is-web3) ecosystem, supplying testnet funds essential for application development and testing.
 - **Traffic and Engagement:** Faucet operators use these platforms to attract visitors to their websites, generating revenue through advertising.
 
 While faucets no longer offer free Bitcoin as they once did, they remain a critical component of the Web3 infrastructure, especially for developers working on the next generation of decentralized applications.

@@ -41,4 +41,4 @@ To succeed as a liquidity provider, individuals should develop the following ski
 2. **Conduct Thorough Research:** Read the documentation for major AMMs like Uniswap, Curve, and Balancer to grasp their operational mechanisms and trade-offs.
 3. **Model Potential Outcomes:** Use a spreadsheet to simulate potential returns and impermanent loss associated with a position before committing actual capital.
 
-A professional liquidity provider's role suits individuals who possess strong analytical skills and a keen interest in finance and technology. This field is challenging yet rewarding, playing a important role in the functionality of the decentralized economy.
+A professional liquidity provider's role suits individuals who possess strong analytical skills and a keen interest in finance and technology. This field is challenging yet rewarding, playing an important role in the functionality of the decentralized economy.

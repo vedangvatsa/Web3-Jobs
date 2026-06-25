@@ -47,7 +47,7 @@ New York offers some of the highest salaries for Web3 positions globally, reflec
  - **Salary Range:** Competitive.
 
 - **Product Manager (FinTech/Institutional Focus)** 
- Product managers play a important role in developing financial technology solutions.
+ Product managers play an important role in developing financial technology solutions.
  - **Senior Level:** Competitive.
 
 ### Building a Web3 Career in New York

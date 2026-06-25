@@ -52,7 +52,7 @@ Solana is an L1 designed from the ground up for high performance and scalability
 
 ### Avalanche
 
-Avalanche is another high-performance L1 that uses an new "subnet" architecture to achieve scalability. Subnets are specialized blockchains that can be created for specific applications, enabling more granular control over security and performance.
+Avalanche is another high-performance L1 that uses a new "subnet" architecture to achieve scalability. Subnets are specialized blockchains that can be created for specific applications, enabling more granular control over security and performance.
 
 ### Cosmos Hub
 

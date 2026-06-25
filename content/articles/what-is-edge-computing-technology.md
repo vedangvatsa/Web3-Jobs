@@ -46,7 +46,7 @@ Edge computing encompasses a variety of technologies and approaches. A typical e
 
 * **The Regional Edge**: This layer comprises smaller data centers situated closer to end-users than traditional centralized cloud data centers. They offer greater processing power than local edge servers while maintaining lower latency than central cloud infrastructures.
 
-* **The Central Cloud**: The cloud remains a important element of the architecture, handling tasks that are not time-sensitive, such as long-term data storage, extensive analytics, and training machine learning models for deployment on edge devices.
+* **The Central Cloud**: The cloud remains an important element of the architecture, handling tasks that are not time-sensitive, such as long-term data storage, extensive analytics, and training machine learning models for deployment on edge devices.
 
 The architecture's design ensures that computation occurs at the most suitable layer based on an application's requirements for speed, cost, and reliability.
 

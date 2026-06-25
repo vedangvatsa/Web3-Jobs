@@ -30,7 +30,7 @@ It's essential to look at the quality and impact of pull requests, the complexit
 
 ### The Role of the Litecoin Foundation
 
-The Litecoin Foundation plays a important role in funding and directing development efforts. Unlike some fully decentralized projects where development is more chaotic, the Foundation provides a degree of structure and long-term planning. They sponsor core developers, support security audits, and forge partnerships that expand the Litecoin ecosystem.
+The Litecoin Foundation plays an important role in funding and directing development efforts. Unlike some fully decentralized projects where development is more chaotic, the Foundation provides a degree of structure and long-term planning. They sponsor core developers, support security audits, and forge partnerships that expand the Litecoin ecosystem.
 
 However, this centralized support can also be a point of criticism. The perception of activity can be heavily tied to the Foundation's public communications and the projects it chooses to highlight. To get a full picture, one must look beyond the Foundation's announcements and explore the wider ecosystem of independent developers, businesses building on Litecoin, and open-source contributors.
 

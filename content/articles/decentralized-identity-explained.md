@@ -48,7 +48,7 @@ Decentralized Identity offers several significant advantages:
 - **Privacy:** You share only the data necessary for each interaction, enhancing your control over personal information.
 - **Security:** By removing centralized repositories of data, you significantly reduce the risk of large-scale breaches.
 - **Ownership:** You have complete ownership of your data and digital relationships, eliminating the risk of being de-platformed due to reliance on a single service.
-- **simplify Access:** Your DID serves as a universal login across various Web3 applications, simplifying your digital interactions.
+- **Simplify Access:** Your DID serves as a universal login across various Web3 applications, simplifying your digital interactions.
 
 ### Future Developments
 
@@ -77,7 +77,7 @@ The practical implications of Decentralized Identity can be illustrated through 
 | Name | Role | Challenge | Outcome |
 |-------|-----------------------|--------------------------------------------------|-------------------------------------------|
 | Sarah | Developer | Needed to manage multiple identities securely | Improved security and efficiency in 3 months |
-| Juan | Product Manager | Faced challenges in proving identity verification | simplify processes and increased trust |
+| Juan | Product Manager | Faced challenges in proving identity verification | Simplified processes and increased trust |
 | Maya | Transitioning from Web2| Adapting to new Web3 roles | Successfully integrated into a Web3 team |
 
 ### Common Pitfalls to Avoid

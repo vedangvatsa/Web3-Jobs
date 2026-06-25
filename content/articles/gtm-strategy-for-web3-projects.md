@@ -48,7 +48,7 @@ The airdrop has emerged as a prominent GTM strategy in Web3. It effectively buil
 - **Strategic Insight:** A well-executed airdrop is not merely a marketing tactic; it serves as a strategic distribution mechanism. The aim is to distribute tokens to those most likely to become active, long-term participants in governance. This requires careful analysis to filter out short-term opportunists.
 
 **2. Content and Thought Leadership as a Marketing Tool**
-In an complex and evolving environment, education serves as a marketing strategy.
+In a complex and evolving environment, education serves as a marketing strategy.
 
 - **Approach:** Projects that effectively explain complex topics build trust and authority. High-quality content, including in-depth blog posts, data-driven research reports, and insightful Twitter threads, can significantly enhance brand perception.
 

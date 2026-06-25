@@ -123,7 +123,7 @@ No. While advanced degrees can be beneficial, especially for research-oriented r
 
 **3. How can I gain experience without a job?**
 
-Engaging in personal projects and contributing to open-source initiatives is vital. Your GitHub profile serves as proof of your experience. Participate in Kaggle competitions. Collaborate with non-profits needing data analysis assistance, or develop an new web application using an AI model you created. This practical experience is what will help you secure your first job.
+Engaging in personal projects and contributing to open-source initiatives is vital. Your GitHub profile serves as proof of your experience. Participate in Kaggle competitions. Collaborate with non-profits needing data analysis assistance, or develop a new web application using an AI model you created. This practical experience is what will help you secure your first job.
 
 **4. Should I focus on TensorFlow or PyTorch?**
 

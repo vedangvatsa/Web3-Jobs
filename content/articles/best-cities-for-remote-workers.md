@@ -108,7 +108,7 @@ Hungary's government offers a Digital Nomad Visa program, making long-term resid
 
 ### 5. Mexico City, Mexico
 
-For those who love big-city energy and culture, Mexico City is an strong destination. It's a top-tier cultural hub with incredible food, top-tier museums, stunning history, and electric neighborhoods. The cost of living is reasonable.
+For those who love big-city energy and culture, Mexico City is a strong destination. It's a top-tier cultural hub with incredible food, top-tier museums, stunning history, and electric neighborhoods. The cost of living is reasonable.
 
 Mexico City has excellent internet infrastructure, numerous coworking spaces, and a large community of remote workers. The city is divided into distinct neighborhoods, each with its own character, from the bohemian La Condesa to the upscale Polanco to the artistic Roma Norte.
 

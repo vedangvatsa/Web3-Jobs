@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-In the competitive field of [Web3](/what-is-web3), attracting and retaining a strong ecosystem of third-party developers is essential for a protocol's success. When developers build on a platform, the network expands. Conversely, if they encounter challenges or confusion, they may choose alternative platforms. This reality has led to the emergence of a important role in Web3: the **Developer Relations Engineer**, commonly referred to as **DevRel**.
+In the competitive field of [Web3](/what-is-web3), attracting and retaining a strong ecosystem of third-party developers is essential for a protocol's success. When developers build on a platform, the network expands. Conversely, if they encounter challenges or confusion, they may choose alternative platforms. This reality has led to the emergence of an important role in Web3: the **Developer Relations Engineer**, commonly referred to as **DevRel**.
 
 A Web3 DevRel embodies a hybrid professional, combining the skills of an engineer, educator, marketer, and community builder. Their primary goal is to enable an enjoyable and simple experience for developers working with their protocol. They represent the developer's voice within the core team while also conveying the protocol's value to the external developer community.
 

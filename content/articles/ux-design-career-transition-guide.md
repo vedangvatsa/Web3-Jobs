@@ -101,7 +101,7 @@ Engagement with the UX/UI community can significantly enhance your opportunities
 
 ## Importance of Networking
 
-Networking plays a important role in career advancement. Research indicates that a significant portion of job openings are not publicly advertised. Building relationships within the industry can provide access to hidden opportunities. 
+Networking plays an important role in career advancement. Research indicates that a significant portion of job openings are not publicly advertised. Building relationships within the industry can provide access to hidden opportunities. 
 
 ### Step-by-Step Guide
 

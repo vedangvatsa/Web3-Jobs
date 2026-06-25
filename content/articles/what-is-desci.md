@@ -87,7 +87,7 @@ DeSci introduces new incentive structures using tokens and NFTs. These systems c
 
 NFTs and smart contracts offer new ways to manage intellectual property in research. This approach allows for:
 
-- simplify licensing of research findings.
+- Simplify licensing of research findings.
 - Shared commercialization rights among multiple stakeholders.
 - New funding mechanisms based on research outcomes.
 - Tracking and rewarding contributions throughout the research lifecycle.

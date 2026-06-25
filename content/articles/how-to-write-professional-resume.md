@@ -41,7 +41,7 @@ Your resume should include a brief summary or objective statement at the top.
 Highlighting your accomplishments instead of merely listing job duties is important. Quantify your achievements with specific metrics whenever possible.
 
 - **Instead of**: "Responsible for managing the company's social media accounts."
-- **Try**: "Increased the company's Twitter following significantly in six months and boosted engagement through an new content strategy."
+- **Try**: "Increased the company's Twitter following significantly in six months and boosted engagement through a new content strategy."
 
 Start bullet points with strong action verbs such as "developed," "managed," "achieved," and "improved."
 

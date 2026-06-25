@@ -29,7 +29,7 @@ A blockchain captures transactions, which can encompass cryptocurrency transfers
 
 ### 2. Cryptographic Hashing
 
-Cryptographic hashing is a important element for blockchain security. A "hash" is a unique, fixed-length string derived from digital data. The most widely used hashing algorithm in blockchains is SHA-256 (Secure Hash Algorithm 256-bit).
+Cryptographic hashing is an important element for blockchain security. A "hash" is a unique, fixed-length string derived from digital data. The most widely used hashing algorithm in blockchains is SHA-256 (Secure Hash Algorithm 256-bit).
 
 Think of a hash as a digital fingerprint. Any input, regardless of size, produces a distinct 256-bit output. Even minor changes to the original data, such as adding a comma or modifying a letter, generate an entirely different hash. This feature makes data tampering immediately detectable. Each block in a blockchain contains its own hash and the hash of the previous block, creating secure connections between them.
 

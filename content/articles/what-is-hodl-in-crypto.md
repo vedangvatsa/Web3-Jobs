@@ -91,7 +91,7 @@ Historical data shows that HODLing Bitcoin and Ethereum has proven successful ov
 
 However, it is important to acknowledge survivorship bias. Bitcoin and Ethereum are among the few cryptocurrencies that have not only survived but thrived. Many other cryptocurrencies have failed, leaving HODLers with worthless assets.
 
-Timing also plays a important role in HODL success. Investors who bought during bear markets and held through subsequent recoveries generally fared better than those who purchased at market peaks.
+Timing also plays an important role in HODL success. Investors who bought during bear markets and held through subsequent recoveries generally fared better than those who purchased at market peaks.
 
 ## When HODLing Makes Sense
 

@@ -87,7 +87,7 @@ Creating a portfolio that demonstrates your skills is critical.
 
 ### Step 3: Secure an Internship
 
-A [Web3 internship](/web3-internship-101) serves as a important bridge from academic life to a full-time position.
+A [Web3 internship](/web3-internship-101) serves as an important bridge from academic life to a full-time position.
 
 - **Where to Look:** Use your portfolio to apply for internships on job boards. active contributions to a DAO or on GitHub can lead to internship offers.
 - **Prioritize Learning Over Compensation:** Your focus should be on gaining experience and expanding your network. Even a short, unpaid internship can provide valuable insights and add a real project to your resume.

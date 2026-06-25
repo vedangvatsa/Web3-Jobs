@@ -30,7 +30,7 @@ User experience serves as the primary barrier to Web3 adoption. Interacting with
 
 ## Technical Barriers Persist
 
-In addition to user experience issues, technical barriers play a important role in hindering adoption.
+In addition to user experience issues, technical barriers play an important role in hindering adoption.
 
 **Scalability** remains a critical limitation. Popular networks like Ethereum face congestion during high traffic periods, causing gas fees to increase significantly. A simple transaction that should cost mere cents can escalate to several dollars, making blockchain unsuitable for everyday transactions.
 

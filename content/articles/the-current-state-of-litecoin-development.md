@@ -52,7 +52,7 @@ The technical implementation includes transaction "cut-through," allowing the re
 
 Despite its technical sophistication, MWEB has encountered challenges in adoption. Major exchanges, particularly in South Korea, delisted Litecoin following MWEB's activation, citing concerns over anti-money laundering (AML) regulations. This has restricted access to the protocol for certain market segments.
 
-We will analyze on-chain data to monitor the volume of LTC entering and exiting the MWEB. This analysis will provide insights into user engagement with this privacy feature. we will discuss community efforts to educate users and exchanges on MWEB's opt-in nature and its compatibility with compliance frameworks. The success of MWEB plays a important role in Litecoin's future relevance as a medium of exchange.
+We will analyze on-chain data to monitor the volume of LTC entering and exiting the MWEB. This analysis will provide insights into user engagement with this privacy feature. we will discuss community efforts to educate users and exchanges on MWEB's opt-in nature and its compatibility with compliance frameworks. The success of MWEB plays an important role in Litecoin's future relevance as a medium of exchange.
 
 ## Litecoin's Niche: A Reliable Medium of Exchange
 

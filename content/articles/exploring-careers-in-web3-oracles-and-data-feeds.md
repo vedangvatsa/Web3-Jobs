@@ -51,7 +51,7 @@ These engineers focus on developing the oracle protocol. Their work enhances the
 
 #### 3. Business Development / Partnerships Manager
 
-The effectiveness of an oracle network heavily depends on the quality of data it provides and the number of protocols that use it. The business development team plays a important role in expanding both aspects.
+The effectiveness of an oracle network heavily depends on the quality of data it provides and the number of protocols that use it. The business development team plays an important role in expanding both aspects.
 
 - **Responsibilities:**
  - **Data Providers:** Establishing partnerships with reputable data providers, such as financial data firms or weather APIs, to integrate their data on-chain.

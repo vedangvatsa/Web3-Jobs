@@ -48,7 +48,7 @@ Blockchains power cryptocurrency systems like Bitcoin and Ethereum, where they m
 
 - **NFTs**: Proving ownership and authenticity of digital assets, from artwork to in-game items. Blockchain provides an immutable ownership history that cannot be forged.
 
-- **Real Estate**: Property titles and deeds can be recorded on-chain, simplify transfers and reducing fraud in real estate transactions.
+- **Real Estate**: Property titles and deeds can be recorded on-chain,  simplifying transfers and reducing fraud in real estate transactions.
 
 ## Types of Blockchains
 

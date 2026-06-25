@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-In a digital environment where individuals can easily create numerous fake accounts, establishing systems that ensure "one person, one vote" and equitable resource distribution presents significant challenges. This issue is commonly referred to as the **"sybil attack" problem**. **Proof of Humanity (PoH)** is an new social identity verification system on the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) that seeks to address this challenge.
+In a digital environment where individuals can easily create numerous fake accounts, establishing systems that ensure "one person, one vote" and equitable resource distribution presents significant challenges. This issue is commonly referred to as the **"sybil attack" problem**. **Proof of Humanity (PoH)** is a new social identity verification system on the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) that seeks to address this challenge.
 
 PoH combines a web of trust, video verification, and [token](/what-is-a-token)-curated registries to create a definitive list of unique, verified individuals. The primary aim is to establish a sybil-resistant identity that applications, such as [DAOs](/what-is-a-dao), can use for fair governance and the distribution of Universal Basic Income (UBI).
 

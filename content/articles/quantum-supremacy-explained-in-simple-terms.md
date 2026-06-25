@@ -20,7 +20,7 @@ The chosen problem for this demonstration does not need to have practical applic
 
 The term gained substantial visibility in 2019 when Google released a paper in the journal *Nature*, claiming to have achieved quantum supremacy. Their research team, using a 53-qubit quantum processor named "Sycamore," completed a highly specific computational task.
 
-**The Task**: Google aimed to sample the output from a random quantum circuit. This involved sending energy through an complex arrangement of quantum gates. Due to quantum phenomena, such as superposition and interference, the result is a complex probability distribution of various bitstrings. The quantum computer's mission was to execute this experiment and generate a sample set from that output distribution.
+**The Task**: Google aimed to sample the output from a random quantum circuit. This involved sending energy through a complex arrangement of quantum gates. Due to quantum phenomena, such as superposition and interference, the result is a complex probability distribution of various bitstrings. The quantum computer's mission was to execute this experiment and generate a sample set from that output distribution.
 
 **The Result**: The Sycamore processor accomplished this task in approximately 200 seconds. Google estimated that the most powerful classical supercomputer at the time would require an impractically long duration to perform the same operation.
 

@@ -36,7 +36,7 @@ Despite rollups managing millions of transactions daily, the Web3 user experienc
 
 The **CoW Protocol** (Coincidence of Wants) pioneered this concept on Ethereum, enabling peer-to-peer order matching before routing any remaining orders through automated market makers (AMMs). This protocol has processed significant trading volume and consistently provides better pricing than conventional AMM routing. Meanwhile, **1inch Fusion** has built on this model by introducing a Dutch auction system where solvers bid to fulfill orders. **Anoma** is developing a protocol-level intent-centric architecture, establishing a unified platform where intents serve as the core primitive.
 
-For developers, this transition requires a focus on user goals rather than the mechanics of achieving them. The infrastructure for solvers, off-chain matching and simulation engines, becomes essential. Users benefit from a simplify experience that resembles Web2: specify an outcome, pay a fee, and let the protocol manage the rest.
+For developers, this transition requires a focus on user goals rather than the mechanics of achieving them. The infrastructure for solvers, off-chain matching and simulation engines, becomes essential. Users benefit from a simplified experience that resembles Web2: specify an outcome, pay a fee, and let the protocol manage the rest.
 
 The [intent-centric protocol](/intent-centric-protocol) model also influences the management of [concentrated liquidity](/concentrated-liquidity). Active liquidity managers and Automated Liquidity Managers (ALMs) can articulate their rebalancing strategies as intents, allowing solver networks to optimize execution across multiple venues at once.
 
@@ -75,7 +75,7 @@ Several specific technical milestones have significantly enhanced the capabiliti
 
 **EIP-4844 (Proto-Danksharding)**, which activated on Ethereum mainnet in March 2024, introduced "blobs", a new data format that is less expensive to publish than calldata and automatically pruned after approximately 18 days. This change resulted in a significant reduction in data posting costs for Layer 2 networks. Following the upgrade, Arbitrum and Optimism users experienced average transaction fee reductions, dramatically improving the economic viability of the modular stack.
 
-**Based sequencing** is an new approach where Ethereum validators sequence Layer 2 transactions directly instead of relying on separate centralized sequencers operated by rollup teams. This model, introduced by Justin Drake's "based rollup" proposal, mitigates centralization risks associated with current rollup architectures. Taiko has implemented a based ZK rollup on Ethereum mainnet since 2024.
+**Based sequencing** is a new approach where Ethereum validators sequence Layer 2 transactions directly instead of relying on separate centralized sequencers operated by rollup teams. This model, introduced by Justin Drake's "based rollup" proposal, mitigates centralization risks associated with current rollup architectures. Taiko has implemented a based ZK rollup on Ethereum mainnet since 2024.
 
 **Shared sequencing networks**, with Espresso Systems emerging as the most advanced, allow multiple rollups to use a single decentralized sequencer. This development enables atomic cross-rollup transactions, a feature not achievable when each rollup operates its own sequencer. Users can execute a swap on Arbitrum and receive funds on Optimism in a single atomic operation, eliminating existing bridging delays and risks.
 

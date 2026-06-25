@@ -107,7 +107,7 @@ Monitor your progress. Are you achieving desired results? Modify your approach b
 | Name | Role | Context | Outcome |
 |----------|-------------------------|------------------------|------------------------------|
 | Sarah | Developer | Employed delegation strategies at a [blockchain](/what-is-a-blockchain) startup | Improved project delivery speed significantly over a few months |
-| Juan | Product Manager | Implemented delegation in [DeFi](/what-is-defi) team | simplify product development cycle, reducing time to launch significantly |
+| Juan | Product Manager | Implemented delegation in [DeFi](/what-is-defi) team | Simplified product development cycle, reducing time to launch significantly |
 | Maya | Transitioning Professional | Adapting from Web2 to Web3 | Successfully integrated into Web3 role, enhancing team communication |
 
 ### Common Mistakes to Avoid

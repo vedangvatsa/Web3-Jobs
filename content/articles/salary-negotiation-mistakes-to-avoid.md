@@ -56,7 +56,7 @@ A salary negotiation functions as a business transaction rather than a personal 
 
 ### 6. Being Apologetic or Aggressive
 
-Your tone during negotiation plays a important role in its outcome.
+Your tone during negotiation plays an important role in its outcome.
 
 * **Avoid being apologetic.** Requesting what you deserve does not equate to greed. Maintain confidence and clarity.
 * **Avoid being aggressive or demanding.** An aggressive approach can harm your relationship with your new employer before you even start. Frame discussions as collaborative efforts to reach a mutually beneficial solution.

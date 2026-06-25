@@ -64,7 +64,7 @@ A monotone delivery can disengage any audience. Think of your voice as an instru
 
 ### 5. Master Your Body Language
 
-Non-verbal cues play a important role in communication:
+Non-verbal cues play an important role in communication:
 
 - **Make Eye Contact:** Engage with your audience by establishing eye contact with individuals across the room, building a conversational atmosphere.
 - **Use Gestures Purposefully:** Employ hand gestures to reinforce your points, avoiding nervous habits. Keep gestures open and confident.
@@ -88,7 +88,7 @@ Slides should serve as visual aids, not scripts. They are designed for your audi
 | **Use Images, Not Words** | Incorporate high-quality images, simple charts, and diagrams |
 | **The 6x6 Rule** | Limit to six bullet points per slide and six words per bullet point |
 
-If your slides contain lengthy paragraphs, simplify the content.
+If your slides contain lengthy paragraphs,  simplifying the content.
 
 ### 8. The Art of Practice
 

@@ -52,7 +52,7 @@ Bitcoin mining has evolved from laptop CPUs to specialized ASIC hardware in indu
 
 The mining difficulty adjusts every 2,016 blocks to maintain a consistent 10-minute average block time. As more miners join, difficulty increases. This self-regulating mechanism ensures Bitcoin's monetary policy stays on schedule regardless of mining participation.
 
-Miners play a important role beyond minting new coins. They are the transaction validators, the security layer, and the distributed consensus mechanism. The energy expenditure to mine Bitcoin, while controversial, is the very thing that makes the network attack-resistant.
+Miners play an important role beyond minting new coins. They are the transaction validators, the security layer, and the distributed consensus mechanism. The energy expenditure to mine Bitcoin, while controversial, is the very thing that makes the network attack-resistant.
 
 ## Bitcoin's Evolution
 

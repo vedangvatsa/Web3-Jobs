@@ -48,6 +48,6 @@ The MATIC token serves as the native cryptocurrency within the Polygon ecosystem
 - Staking to become a validator and secure the PoS network.
 - Participating in governance decisions regarding the protocol.
 
-Polygon has positioned itself as a leader in scaling Ethereum. Its practical and multi-faceted approach, offering a widely adopted sidechain for immediate solutions and developing modern ZK-Rollups for the future, has made it an essential infrastructure component for numerous decentralized applications (dApps) and a important element of the broader [Web3](/what-is-web3) ecosystem.
+Polygon has positioned itself as a leader in scaling Ethereum. Its practical and multi-faceted approach, offering a widely adopted sidechain for immediate solutions and developing modern ZK-Rollups for the future, has made it an essential infrastructure component for numerous decentralized applications (dApps) and an important element of the broader [Web3](/what-is-web3) ecosystem.
 
 ## The Opportunities in Web3

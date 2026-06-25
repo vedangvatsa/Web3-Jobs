@@ -31,7 +31,7 @@ Web3 operates as a global industry, requiring many organizations to adopt remote
 
 ## Core Trait 3: A Culture of Ownership
 
-Ownership is a important concept in Web3, extending to both users and builders, reflected in compensation and responsibility.
+Ownership is an important concept in Web3, extending to both users and builders, reflected in compensation and responsibility.
 
 - **Token-Based Compensation:** A portion of compensation often comes in the form of a project’s native token, typically subject to a vesting schedule. This structure positions you as an owner rather than merely an employee, linking your financial success to the project's performance.
 - **High Degree of Autonomy:** Teams tend to be small and flat, expecting individuals to take initiative, define tasks, and execute without constant oversight. A mentality of “that’s not my job” will likely hinder your progress.

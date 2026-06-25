@@ -59,4 +59,4 @@ Actuaries play a critical role in modeling risk and uncertainty. In the Web3 con
 2. **Specialize in a Specific Risk Area:** Focus on smart contract exploits, reading audit reports and post-mortems to deepen your understanding.
 3. **Create a Portfolio:** Start a blog or Substack to publish risk assessments of various DeFi protocols; this will serve as a strong [resume](/how-to-build-a-web3-resume-that-stands-out).
 
-The Web3 insurance sector is nascent yet poised for growth as the industry evolves. For risk management professionals willing to tackle the complexities of this financial system, it offers opportunities to shape a important and emerging field.
+The Web3 insurance sector is nascent yet poised for growth as the industry evolves. For risk management professionals willing to tackle the complexities of this financial system, it offers opportunities to shape an important and emerging field.
