@@ -109,4 +109,4 @@ Users should approach audits with a critical eye:
 
 Auditing is not the end of the security process. Projects must adopt a culture of continuous improvement. Regularly scheduled audits, updates based on new threat intelligence, and ongoing education for developers contribute to a more secure environment.
 
-In summary, smart contract audits are essential for ensuring the security and integrity of blockchain projects. They protect user funds, build trust within the community, and help prevent catastrophic losses. Both projects and users have roles to play in this process, emphasizing the importance of effective documentation, thorough testing, and critical evaluation of audit findings.
+Smart contract audits are essential for ensuring the security and integrity of blockchain projects. They protect user funds, build trust within the community, and help prevent catastrophic losses. Both projects and users have roles to play in this process, emphasizing the importance of effective documentation, thorough testing, and critical evaluation of audit findings.

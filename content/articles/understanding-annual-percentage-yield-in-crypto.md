@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-In the world of Decentralized Finance ([DeFi](/what-is-defi)), many projects promote high yields, typically expressed as Annual Percentage Yield (APY). Understanding APY and differentiating it from Annual Percentage Rate (APR) is essential for anyone aiming to earn returns on crypto assets. This knowledge can significantly impact your financial decisions.
+In Decentralized Finance ([DeFi](/what-is-defi)), many projects promote high yields, typically expressed as Annual Percentage Yield (APY). Understanding APY and differentiating it from Annual Percentage Rate (APR) is essential for anyone aiming to earn returns on crypto assets. This knowledge can significantly impact your financial decisions.
 
 ## What is APY (Annual Percentage Yield)?
 
