@@ -20,7 +20,7 @@ Tokenization of real estate follows a structured process:
 
 1. **Legal Structuring:** The property is held within a legal entity, commonly a limited liability company (LLC).
 2. **Tokenization Process:** Ownership shares of the LLC are transformed into digital tokens on a blockchain, such as ERC-20 tokens on [Ethereum](/what-is-ethereum).
-3. **Trading Mechanism:** These tokens can be traded on decentralized exchanges, facilitating fractional ownership and enabling near-instant settlement.
+3. **Trading Mechanism:** These tokens can be traded on decentralized exchanges, enabling fractional ownership and enabling near-instant settlement.
 
 ### Emerging Career Opportunities
 
@@ -31,7 +31,7 @@ These developers design platforms that enable tokenization and trading of real e
 
 #### 2. Legal & Compliance Specialist
 
-This role is vital due to the intricate legal environment surrounding tokenized assets. Understanding securities law, property law, and KYC/AML regulations is essential.
+This role is vital due to the complex legal environment surrounding tokenized assets. Understanding securities law, property law, and KYC/AML regulations is essential.
 - **Skills Required:** A solid background in real estate or securities law is important. Specialists must understand how these laws apply to digital assets.
 
 #### 3. Asset Manager for Tokenized Properties

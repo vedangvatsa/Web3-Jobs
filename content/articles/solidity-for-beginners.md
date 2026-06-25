@@ -23,7 +23,7 @@ Remix is an open-source Integrated Development Environment (IDE) that runs direc
 - A compiler to turn our Solidity code into bytecode that the EVM can understand.
 - A simulated blockchain environment for deploying and testing our contract without needing real cryptocurrency.
 
-> **Action:** Open your browser and navigate to [remix.ethereum.org](https://remix.ethereum.org).
+> **Action:** Open your browser and work through to [remix.ethereum.org](https://remix.ethereum.org).
 
 You'll be greeted with a default workspace. You can explore the example files, but for this tutorial, we'll create our own.
 
@@ -114,7 +114,7 @@ contract SimpleStorage {
 
 Dissecting the `store` function:
 - `function store(...)`: We use the `function` keyword to declare a function named `store`.
-- `(uint256 _newFavoriteNumber)`: This defines the function's input parameters. We expect one parameter, a `uint256`, which we'll call `_newFavoriteNumber`. It's a common convention to prefix parameter names with an underscore `_` to distinguish them from state variables.
+- `(uint256 _newFavoriteNumber)`: This defines the function's input parameters. We expect one parameter, a `uint256`, which we'll call `_newFavoriteNumber`. It's a common convention to prefix parameter names with an highlight `_` to distinguish them from state variables.
 - `public`: This visibility keyword means the function can be called by anyone (any external account or other smart contract).
 - `{ favoriteNumber = _newFavoriteNumber; }`: This is the function's body. It takes the input `_newFavoriteNumber` and assigns its value to our state variable `favoriteNumber`. This action changes the state of the blockchain and will require a transaction (and gas fees, on a real network).
 

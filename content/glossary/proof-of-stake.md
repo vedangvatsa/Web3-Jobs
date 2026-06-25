@@ -32,7 +32,7 @@ The energy savings come from eliminating computational race. PoW miners all comp
 
 ## The Ethereum Merge
 
-Ethereum's transition from proof of work to proof of stake in September 2022, known as "The Merge," was a significant technical achievement. Years of research, testing, and coordination culminated in switching consensus mechanisms without downtime or loss of funds on a blockchain worth significant value.
+Ethereum's transition from proof of work to proof of stake in September 2022, known as "The Merge," was a significant technical achievement. Years of research, testing, and coordination resulted in switching consensus mechanisms without downtime or loss of funds on a blockchain worth significant value.
 
 The Merge demonstrated that large-scale blockchain protocol changes are possible with proper planning and community consensus. It also validated PoS viability for major blockchains. While smaller chains had used PoS previously, Ethereum's successful transition proved the mechanism could secure significant value.
 
@@ -100,4 +100,4 @@ Other innovations explore hybrid consensus mechanisms, combining PoS with other 
 
 Proof of Stake expertise is increasingly valuable. Staking service providers need DevOps engineers, protocol developers, and risk analysts. Blockchain infrastructure companies build staking tools, dashboards, and optimization services. Understanding PoS mechanics is essential for protocol developers working on any modern blockchain.
 
-Financial services entering cryptocurrency need PoS expertise for custody solutions and staking-as-a-service offerings. Consultants help institutions navigate staking decisions, regulatory considerations, and technical implementations. As more blockchains adopt PoS and traditional finance engages with staking, career opportunities in this space will continue expanding across technical, financial, and operational roles.
+Financial services entering cryptocurrency need PoS expertise for custody solutions and staking-as-a-service offerings. Consultants help institutions work through staking decisions, regulatory considerations, and technical implementations. As more blockchains adopt PoS and traditional finance engages with staking, career opportunities in this space will continue expanding across technical, financial, and operational roles.

@@ -88,7 +88,7 @@ Striving for completely "unbiased" AI may not be feasible because societal biase
 
 Achieving fair outcomes may necessitate treating different groups differently. For instance, if a medical model is less accurate for a specific demographic due to historical data issues, applying different thresholds or corrective measures may be necessary to ensure equitable care.
 
-This issue represents a complex socio-technical challenge without simple solutions. It demands ongoing vigilance, adherence to ethical principles, and recognition that AI serves as a tool. Like any tool, it can facilitate the development of a more just world or reinforce historical injustices. The choice rests with us.
+This issue represents a complex socio-technical challenge without simple solutions. It demands ongoing vigilance, adherence to ethical principles, and recognition that AI serves as a tool. Like any tool, it can enable the development of a more just world or reinforce historical injustices. The choice rests with us.
 
 ### Frequently Asked Questions (FAQs)
 
@@ -102,6 +102,6 @@ Not all biases are detrimental. Some biases may highlight useful patterns, such 
 Determining accountability remains a significant legal and ethical dilemma. Responsibility may lie with the developers of the model, the deploying organization, or the end-users acting on AI recommendations. Establishing clear legal frameworks is essential for assigning responsibility.
 
 **4. How can users detect AI bias?** 
-Users should approach AI tools critically. For instance, if an AI art generator consistently depicts CEOs or doctors as male, this indicates bias. If an AI tool frequently aligns with stereotypes, users should question its validity. Providing feedback to developers can facilitate improvements in these systems.
+Users should approach AI tools critically. For instance, if an AI art generator consistently depicts CEOs or doctors as male, this indicates bias. If an AI tool frequently aligns with stereotypes, users should question its validity. Providing feedback to developers can enable improvements in these systems.
 
 Addressing AI bias is essential for supporting equity and fairness in technology. Ongoing efforts to improve data practices, algorithmic approaches, team diversity, and regulatory frameworks will help build AI systems that serve all individuals justly. As we advance in this field, maintaining a commitment to ethical principles will be important in shaping a fairer future.

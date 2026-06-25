@@ -42,7 +42,7 @@ Without crypto tokens, the concept of a user-owned internet loses its relevance.
 
 Web3 applications are inherently global, accessible to anyone with an internet connection. They require a form of currency that is equally global and permissionless.
 
-- **The Role of Crypto:** Cryptocurrencies, particularly **[stablecoins](/guide-to-stablecoins)**, facilitate instant transfers from a user in Brazil to a dApp in Germany for minimal fees, without the need for banks or intermediaries.
+- **The Role of Crypto:** Cryptocurrencies, particularly **[stablecoins](/guide-to-stablecoins)**, enable instant transfers from a user in Brazil to a dApp in Germany for minimal fees, without the need for banks or intermediaries.
 - **The Impact:** This structure supports a frictionless, internet-native economic layer that circumvents the slow and costly traditional financial system. It establishes the foundation for global, peer-to-peer commerce.
 
 ### The Interdependence of Web3 and Cryptocurrency

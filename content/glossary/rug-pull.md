@@ -99,7 +99,7 @@ Investors can reduce (though not eliminate) rug pull risk:
 
 - **Slow Down**: Resist FOMO. Legitimate projects don't require immediate investment. Take time for proper research.
 
-## The Legal Landscape
+## The Legal Space
 
 Rug pulls exist in regulatory gray areas:
 

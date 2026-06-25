@@ -202,7 +202,7 @@ DEX transactions sit in public mempools before confirmation. Bots scan for profi
 
 Solutions include MEV protection, private mempools, or using protocols designed to mitigate MEV.
 
-## Regulatory Landscape
+## Regulatory Space
 
 DEXs face regulatory scrutiny:
 - Are they securities exchanges requiring registration?

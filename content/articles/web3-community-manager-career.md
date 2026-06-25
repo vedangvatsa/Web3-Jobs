@@ -23,7 +23,7 @@ The CM's role is dynamic and varied. Specific responsibilities may differ daily,
 The CM sets and maintains the community's environment.
 
 - **Welcoming Newcomers:** A warm and inviting atmosphere on platforms like Discord and Telegram is essential for user retention. For example, a friendly greeting can increase a new user's likelihood of engagement significantly.
-- **Facilitating Discussion:** The CM encourages productive, positive, and on-topic conversations. Regular engagement can lead to an increase in active members.
+- **Enabling Discussion:** The CM encourages productive, positive, and on-topic conversations. Regular engagement can lead to an increase in active members.
 - **Organizing Events:** Hosting community events such as AMAs, game nights, and educational workshops is critical for maintaining engagement. Projects that host monthly events typically see an increase in user activity.
 
 #### 2. Education and Support
@@ -31,7 +31,7 @@ The CM sets and maintains the community's environment.
 Users often have many questions due to the complexity of Web3.
 
 - **Answering Questions:** The CM serves as the primary source for inquiries regarding protocol functionality, dApp usage, and project roadmaps. A responsive CM can reduce user frustration significantly, improving overall satisfaction.
-- **Creating Educational Content:** Producing "how-to" guides, FAQs, and straightforward explanations of intricate topics helps users understand the ecosystem effectively. Projects with detailed educational resources often see a reduction in support queries.
+- **Creating Educational Content:** Producing "how-to" guides, FAQs, and straightforward explanations of complex topics helps users understand the ecosystem effectively. Projects with detailed educational resources often see a reduction in support queries.
 - **Fighting Scams:** Monitoring for phishing links and fake support accounts is vital. CMs who actively communicate about potential scams can reduce incidents significantly.
 
 #### 3. Moderation and Crisis Management

@@ -25,7 +25,7 @@ Litecoin's developer slowdown stems from its fundamental design, which is heavil
 
 Top blockchain developers gravitate toward the most intriguing and challenging problems. Currently, these opportunities predominantly arise within ecosystems that allow for the development of rich and complex applications.
 
-- **The Lure of DeFi and NFTs:** A significant portion of developer talent has migrated to the Ethereum ecosystem and its Layer 2 solutions. Here, they can create intricate financial protocols, advanced gaming applications, and new NFT initiatives. The expansive design space offers greater excitement and potential.
+- **The Lure of DeFi and NFTs:** A significant portion of developer talent has migrated to the Ethereum ecosystem and its Layer 2 solutions. Here, they can create complex financial protocols, advanced gaming applications, and new NFT initiatives. The expansive design space offers greater excitement and potential.
 - **The Rise of High-Performance Layer 1s:** Developers concentrating on scalability and infrastructure are increasingly attracted to newer Layer 1s like Solana and Aptos, which use modern programming languages such as Rust and Move.
 
 ### Measuring the Slowdown

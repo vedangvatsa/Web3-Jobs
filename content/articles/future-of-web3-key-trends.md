@@ -61,7 +61,7 @@ The simultaneous growth of Generative AI and Web3 is positioning these two secto
 This trend involves using Web3 infrastructure to develop transparent, decentralized, and user-owned AI models and applications. AI can enhance the user experience and capabilities of dApps:
 - **Decentralized AI:** Projects are emerging that enable the creation of AI models owned and governed by a [DAO](/what-is-a-dao). Users can contribute data and computational power to train these models and receive ownership stakes and revenue in return.
 - **AI Agents on-chain:** Smart contracts are being designed to directly interface with AI models, allowing dApps to make autonomous, intelligent decisions based on real-world data.
-- **AI-Enhanced UX:** dApp frontends will incorporate AI to provide natural language interfaces. Instead of navigating through buttons, users could simply type commands like "Swap 1 ETH for USDC and then [stake](/how-to-become-a-web3-staking-specialist) it in the lending pool."
+- **AI-Enhanced UX:** dApp frontends will incorporate AI to provide natural language interfaces. Instead of working through through buttons, users could simply type commands like "Swap 1 ETH for USDC and then [stake](/how-to-become-a-web3-staking-specialist) it in the lending pool."
 
 ### Why does it matter?
 Web3 addresses critical issues related to AI, such as centralization and transparency. Hosting AI models on-chain enables auditable, community-owned models that are not dominated by single corporations. Conversely, AI can enhance Web3's user experience by providing intuitive interfaces that make dApps more accessible to mainstream users.
@@ -91,7 +91,7 @@ By 2025, tokenized US Treasury Bills are expected to become a foundational compo
 DePIN is an emerging sector that employs token incentives to construct and manage physical infrastructure in a decentralized manner.
 
 ### What is it?
-DePIN projects facilitate a two-sided market where individuals and businesses are incentivized to contribute underused physical resources, such as storage space, internet bandwidth, or computational power, to a network. Users can then purchase these resources at a fraction of the cost charged by traditional centralized providers.
+DePIN projects enable a two-sided market where individuals and businesses are incentivized to contribute underused physical resources, such as storage space, internet bandwidth, or computational power, to a network. Users can then purchase these resources at a fraction of the cost charged by traditional centralized providers.
 
 ### Why does it matter?
 DePIN has the potential to disrupt several highly centralized industries:

@@ -50,6 +50,6 @@ The emergence of generative AI has fueled discussions about the nature of creati
 
 The most profound difference between human and artificial intelligence lies in consciousness.
 
-**Human Intelligence** involves subjective experiences, often referred to as "qualia." Humans do not merely process sensations; they experience them. Feelings, self-awareness, and an intricate internal world characterize human cognition. People seek to understand the underlying reasons behind their actions and experiences.
+**Human Intelligence** involves subjective experiences, often referred to as "qualia." Humans do not merely process sensations; they experience them. Feelings, self-awareness, and an complex internal world characterize human cognition. People seek to understand the underlying reasons behind their actions and experiences.
 
 **Artificial Intelligence** lacks this dimension. Regardless of its complexity, AI functions as a sophisticated series of mathematical operations. It can analyze the term "sadness" and relate it to other concepts, but it does not feel sadness. No subjective experience, self-awareness, or genuine understanding exists within AI. It operates as a pattern-matching machine. Large Language Models (LLMs) exemplify this notion; they can generate human-like text without comprehending its meaning, often described as "stochastic parrots" that replicate language patterns without awareness.

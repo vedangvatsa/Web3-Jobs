@@ -60,7 +60,7 @@ When a new token launches, degens are usually among the first buyers. This pheno
 
 ### Complex DeFi Strategies
 
-Degens often devise intricate, multi-step trading strategies to exploit temporary market inefficiencies. They might identify price discrepancies between different DEXs and use flash loans to arbitrage these differences, extracting profits in a single transaction.
+Degens often devise complex, multi-step trading strategies to exploit temporary market inefficiencies. They might identify price discrepancies between different DEXs and use flash loans to arbitrage these differences, extracting profits in a single transaction.
 
 ### NFT Speculation
 
@@ -101,7 +101,7 @@ Despite the inherent risks, degens play important roles in the Web3 ecosystem.
 
 **Liquidity Provision**: Degens supply essential initial liquidity to new protocols. Without their willingness to take risks, many DeFi projects would struggle to gain traction, as they represent the bootstrap capital necessary for launch.
 
-**Price Discovery**: Through their trading activities, degens contribute to the price discovery process for new tokens and protocols. They are willing to transact at uncertain prices, facilitating the market's understanding of true value.
+**Price Discovery**: Through their trading activities, degens contribute to the price discovery process for new tokens and protocols. They are willing to transact at uncertain prices, enabling the market's understanding of true value.
 
 **Innovation Acceleration**: Degens expedite the feedback loop for developers by rapidly adopting experimental protocols. Their engagement allows developers to learn what works and what doesn't more efficiently.
 

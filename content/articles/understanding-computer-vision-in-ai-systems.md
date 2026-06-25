@@ -46,7 +46,7 @@ Computer vision encompasses a range of tasks rather than a single problem:
 
 Computer vision has found utility across numerous industries:
 
-- **Autonomous Vehicles**: Self-driving cars and drones use computer vision to perceive their environment, recognize obstacles, read traffic signs, and navigate safely.
+- **Autonomous Vehicles**: Self-driving cars and drones use computer vision to perceive their environment, recognize obstacles, read traffic signs, and work through safely.
 
 - **Healthcare**: In medical imaging, computer vision aids in analyzing X-rays, MRIs, and CT scans. These models help radiologists detect tumors, fractures, and other abnormalities with accuracy that often surpasses human capabilities.
 

@@ -102,7 +102,7 @@ The first quarter of 2025 saw a notable amount in crypto VC funding, the highest
 
 #### 3. Institutional Involvement
 
-Financial institutions are increasingly using their regulatory relationships to facilitate investments in the sector. Analysts predict that institutional inflows will continue and may even accelerate.
+Financial institutions are increasingly using their regulatory relationships to enable investments in the sector. Analysts predict that institutional inflows will continue and may even accelerate.
 
 #### 4. Focus Shift to Application Layer
 

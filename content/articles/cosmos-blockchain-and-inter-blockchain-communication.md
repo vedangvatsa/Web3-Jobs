@@ -34,7 +34,7 @@ Written in the **Go [programming language](/best-programming-languages-for-block
 |--------|---------|
 | **Staking** | Manages staking, delegation, and validator logic for PoS networks. |
 | **Auth** | Handles account management and signatures. |
-| **Bank** | Facilitates [token](/what-is-a-token) transfers. |
+| **Bank** | Enables [token](/what-is-a-token) transfers. |
 | **Gov** | Manages on-chain governance. |
 | **IBC** | The Inter-Blockchain Communication module, essential for interoperability. |
 
@@ -48,11 +48,11 @@ Tendermint Core serves as the consensus engine behind Cosmos SDK blockchains. Th
 **2. The Inter-Blockchain Communication Protocol (IBC)**
 IBC stands out as a critical feature of the Cosmos ecosystem. It is a standardized protocol that allows independent blockchains to connect and communicate.
 
-- **Operation:** IBC enables one chain to track the state of another via a lightweight "light client." This facilitates the transfer of tokens and arbitrary data between any two IBC-enabled chains.
+- **Operation:** IBC enables one chain to track the state of another via a lightweight "light client." This enables the transfer of tokens and arbitrary data between any two IBC-enabled chains.
 - **Interconnected Ecosystem:** This protocol forms a network of interconnected chains, each optimized for its own purpose. For example, users can use assets from a [DeFi](/what-is-defi)-focused chain like Kava to purchase an [NFT](/what-are-nfts) on a gaming-oriented chain, all through IBC.
 
 **3. The Cosmos Hub & the ATOM Token**
-The Cosmos Hub, the first blockchain launched within the Cosmos network, uses the native token ATOM. It functions as the central router or clearinghouse for the ecosystem, enhancing security and facilitating interoperability among connected chains, known as "Zones." Holders of ATOM can stake their tokens to secure the Hub and participate in governance decisions.
+The Cosmos Hub, the first blockchain launched within the Cosmos network, uses the native token ATOM. It functions as the central router or clearinghouse for the ecosystem, enhancing security and enabling interoperability among connected chains, known as "Zones." Holders of ATOM can stake their tokens to secure the Hub and participate in governance decisions.
 
 ### The Vision of Cosmos
 

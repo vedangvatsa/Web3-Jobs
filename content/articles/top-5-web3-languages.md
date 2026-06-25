@@ -115,6 +115,6 @@ Similar to Rust, Go is favored for constructing the underlying infrastructure of
 | Python | Data Analysis & Scripting | Easy | Ethereum, EVM Chains |
 | Go | Blockchain Clients | Medium | Ethereum, Cosmos |
 
-Your entry into Web3 development will hinge on the programming language you select. For most, starting with Solidity and JavaScript will facilitate the creation of full-stack decentralized applications. Those motivated by performance and systems-level work should consider Rust and Go to engage with the foundational elements of the new internet. If your interests lie in data analysis, Python equips you with the necessary tools to glean insights from the transparent nature of on-chain data.
+Your entry into Web3 development will hinge on the programming language you select. For most, starting with Solidity and JavaScript will enable the creation of full-stack decentralized applications. Those motivated by performance and systems-level work should consider Rust and Go to engage with the foundational elements of the new internet. If your interests lie in data analysis, Python equips you with the necessary tools to glean insights from the transparent nature of on-chain data.
 
 As you manage your career path in Web3, focus on the language that aligns with your passions and strengths. The demand for skilled professionals in this rapidly expanding field continues to grow, offering numerous opportunities for those ready to contribute to the future of technology.

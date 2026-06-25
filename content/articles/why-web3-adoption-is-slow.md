@@ -78,7 +78,7 @@ Despite significant investments in development, Web3 lacks substantial use cases
 
 **Identities** and credentials offer another speculative use case. Blockchain-based IDs could provide financial access to unbanked individuals. However, relying on a technology as nascent and risky as blockchain for critical identity infrastructure is unwise compared to traditional methods with far greater operational maturity.
 
-**[NFTs](/what-are-nfts)** for art and collectibles have gained some traction, primarily as speculative assets. Few users harness NFTs for their intended benefits, which undermines the technology's reputation.
+**[NFTs](/what-are-nfts)** for art and collectibles have gained some traction, primarily as speculative assets. Few users use NFTs for their intended benefits, which undermines the technology's reputation.
 
 The absence of compelling use cases means that most individuals do not perceive clear benefits from Web3. Without evident advantages, adoption remains sluggish.
 
@@ -110,7 +110,7 @@ Several emerging trends could enhance Web3 adoption.
 
 **Layer 2 scaling solutions**, such as Arbitrum and Optimism, are addressing gas fees and improving transaction speed. As these solutions mature and gain adoption, the technical barriers to entry will lessen.
 
-**Regulatory clarity** is important. Institutions are awaiting clear rules before fully engaging with the space. Clear regulations would promote institutional participation and bolster the industry's legitimacy.
+**Regulatory clarity** is important. Institutions are awaiting clear rules before fully engaging with the space. Clear regulations would promote institutional participation and strengthen the industry's legitimacy.
 
 **Emerging use cases** are necessary. Real-world problems where blockchain technology provides advantages over traditional solutions need to be identified and developed. Some areas, such as international remittances and financial access for unbanked populations, show promise but require further maturation.
 

@@ -32,7 +32,7 @@ A full-time job typically involves working for a single employer on a predetermi
 
 - **Limited Flexibility**: Employees often have fixed schedules, which can restrict personal freedom. A study from FlexJobs shows that a large percentage of professionals prefer flexible work arrangements over salary increases.
 
-- **Office Dynamics**: Navigating office politics can be challenging and time-consuming, impacting job satisfaction.
+- **Office Dynamics**: Working through office politics can be challenging and time-consuming, impacting job satisfaction.
 
 - **Reduced Autonomy**: Employees often work towards the goals set by their employers, which may not align with their personal aspirations or values.
 

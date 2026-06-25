@@ -34,7 +34,7 @@ A trustworthy list of verified individuals can lead to various impactful applica
 - **DAO Governance**: DAOs can use PoH to implement a "one person, one vote" governance structure, moving away from the standard "one token, one vote" model that often leads to plutocracy.
 - **Universal Basic Income (UBI)**: The UBI initiative built atop PoH periodically distributes basic income tokens to every registered individual on the list, made feasible by the sybil-resistant nature of the registry.
 - **Airdrop and Fair Distribution**: New projects can use the PoH registry for **[airdrop](/understanding-airdrop-campaigns-in-web3)** campaigns, ensuring equitable distribution to verified individuals rather than bots or duplicates.
-- **Credit and Reputation**: A PoH identity can form the basis for a **[Web3 reputation system](/what-is-a-reputation-system-in-web3)**, facilitating undercollateralized loans and other identity-based financial services.
+- **Credit and Reputation**: A PoH identity can form the basis for a **[Web3 reputation system](/what-is-a-reputation-system-in-web3)**, enabling undercollateralized loans and other identity-based financial services.
 
 ### Challenges and Criticisms
 

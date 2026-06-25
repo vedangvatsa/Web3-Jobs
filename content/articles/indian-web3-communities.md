@@ -21,7 +21,7 @@ India ranks as one of the largest contributors to open-source crypto development
 
 ### Active Web3 Communities in India
 
-India hosts numerous dynamic Web3 communities that facilitate networking, knowledge sharing, and collaboration. Below is a list of some of the most active and impactful communities within the country:
+India hosts numerous dynamic Web3 communities that enable networking, knowledge sharing, and collaboration. Below is a list of some of the most active and impactful communities within the country:
 
 | Community Name | Link |
 |------------------------------|--------------------------------------------------------|

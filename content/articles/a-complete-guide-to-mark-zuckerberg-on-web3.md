@@ -60,5 +60,5 @@ Meta's vision for the metaverse fundamentally contradicts the principles of the 
 | **Ownership** | Assets exist in Meta's database; Meta retains ultimate control. | Assets are NFTs on a public [blockchain](/what-is-a-blockchain); users have genuine ownership. |
 | **Identity** | Tied to a Meta account (e.g., Facebook or Instagram). | Based on a self-sovereign [wallet](/how-to-choose-a-crypto-wallet) address or decentralized ID (DID). |
 | **Interoperability** | "Walled Garden" - assets are confined to Meta's platform. | Open and permissionless; assets can move freely across different virtual worlds and marketplaces. |
-| **Governance** | Centralized control by Meta, which establishes all rules. | Community governance often facilitated through [DAOs](/what-is-a-dao). |
+| **Governance** | Centralized control by Meta, which establishes all rules. | Community governance often enabled through [DAOs](/what-is-a-dao). |
 | **Economics** | improve take rates that favor the platform owner. | Minimal platform fees and royalties, benefiting creators and users. |

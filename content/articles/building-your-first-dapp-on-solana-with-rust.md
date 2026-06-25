@@ -112,7 +112,7 @@ pub struct BaseAccount {
 
 ### Step 3: Build and Deploy Your Program
 
-After writing your program, navigate to your project's root directory and execute the following commands to build and deploy your program:
+After writing your program, work through to your project's root directory and execute the following commands to build and deploy your program:
 
 1. **Build the Program:** 
  ```bash

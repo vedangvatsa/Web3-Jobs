@@ -67,13 +67,13 @@ The formal verification process consists of several key steps:
 
 ## Leading Tools for Formal Verification
 
-Several prominent tools facilitate formal verification:
+Several prominent tools enable formal verification:
 
 - **Certora Prover:** A leading tool for EVM smart contracts. Developers write specifications in Certora Verification Language (CVL), and Certora checks the contract bytecode exhaustively.
 
 - **Mythril and Manticore:** Open-source tools that verify properties using symbolic execution, a related mathematical approach.
 
-- **K Framework:** An academic tool that verifies complex protocols, requiring more expertise but capable of handling intricate properties.
+- **K Framework:** An academic tool that verifies complex protocols, requiring more expertise but capable of handling complex properties.
 
 - **Isabelle and Coq:** Proof assistants used for the most critical code, demanding extensive mathematical knowledge.
 

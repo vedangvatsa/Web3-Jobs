@@ -48,7 +48,7 @@ Meetings can drain productivity. AI meeting assistants like Otter.ai and Firefli
 |------------------------|--------------------------------------------------------------------------------------------------|
 | Automated Transcription | Provides searchable transcripts of meetings almost immediately after they conclude. |
 | Action Item Detection | Automatically identifies and lists action items, clarifying responsibilities post-meeting. |
-| AI-Generated Summaries | Produces concise summaries of key topics and decisions, facilitating easy sharing with attendees. |
+| AI-Generated Summaries | Produces concise summaries of key topics and decisions, enabling easy sharing with attendees. |
 | Searchable Conversations | Allows you to search transcripts for specific keywords, making it easier to locate information. |
 
 ### 4. The Presentation Designer: Gamma or Tome

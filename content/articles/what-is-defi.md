@@ -20,7 +20,7 @@ To appreciate DeFi, one must first grasp the existing financial system it aims t
 
 This model works efficiently for those who have access to banking services. However, it is inherently inefficient. Banks profit from the difference in interest rates between savers and borrowers. Operational costs arise from maintaining physical locations, employing numerous personnel, and adhering to regulatory requirements.
 
-When engaging in currency trading, individuals rely on exchanges to facilitate transactions. These exchanges ensure transaction completion, manage custody of funds, and maintain necessary technical infrastructure. They also charge fees for their services.
+When engaging in currency trading, individuals rely on exchanges to enable transactions. These exchanges ensure transaction completion, manage custody of funds, and maintain necessary technical infrastructure. They also charge fees for their services.
 
 ## Core Applications of DeFi
 
@@ -52,12 +52,12 @@ Key players in the DeFi space include:
 
 | Platform | Type | Description |
 |-----------|-------------------------------|-------------------------------------------------------------------|
-| Uniswap | Decentralized Exchange (DEX) | Largest DEX, facilitating trades between various cryptocurrencies. |
+| Uniswap | Decentralized Exchange (DEX) | Largest DEX, enabling trades between various cryptocurrencies. |
 | Aave | Lending Platform | Major player in decentralized lending, allowing users to borrow and lend assets. |
 | Curve | Stablecoin Exchange | Specializes in trading between stablecoins and similar-value assets. |
 | MakerDAO | Stablecoin Generation | Allows users to create stablecoins backed by cryptocurrency collateral. |
 
-DeFi serves two primary audiences: users seeking practical utility (such as cross-border payments and censorship-resistant credit) and speculators seeking high-yield profits from yield farming, leverage, and asset price volatility.
+DeFi serves two primary audiences: users seeking practical utility (such as cross-border payments and censorship-resistant credit) and speculators seeking high-yield profits from yield farming, use, and asset price volatility.
 
 ## Advantages of DeFi
 
@@ -87,12 +87,12 @@ Despite its potential, DeFi has significant limitations that professionals shoul
 
 DeFi is the highest-paying engineering and security sector in Web3. The demand for Solidity developers, smart contract auditors, Rust protocol engineers, and quantitative analysts vastly exceeds the talent pool.
 
-Unlike traditional finance, where roles are focused on maintaining legacy software and navigating manual administrative processes, DeFi careers focus on designing greenfield financial infrastructure. This environment requires deep algorithmic thinking, game theory awareness, and a strict commitment to software security.
+Unlike traditional finance, where roles are focused on maintaining legacy software and working through manual administrative processes, DeFi careers focus on designing greenfield financial infrastructure. This environment requires deep algorithmic thinking, game theory awareness, and a strict commitment to software security.
 
 However, the risks are considerable. Many DeFi projects may fail, and market dynamics can shift dramatically. Compensation tied to equity may fluctuate significantly depending on project performance and market timing.
 
 ## DeFi’s Role in the Financial Ecosystem
 
-DeFi serves as a viable alternative to traditional finance in certain situations. It excels in areas where traditional systems struggle, such as providing services to unbanked populations, facilitating cross-border transactions without intermediaries, and offering transparency about financial operations.
+DeFi serves as a viable alternative to traditional finance in certain situations. It excels in areas where traditional systems struggle, such as providing services to unbanked populations, enabling cross-border transactions without intermediaries, and offering transparency about financial operations.
 
 The DeFi ecosystem is evolving. As infrastructure improves, auditing practices become more thorough, and regulatory frameworks become clearer, the risks associated with fraud and hacks may diminish. However, DeFi is unlikely to completely replace traditional finance. Instead, it will coexist, catering to use cases where decentralization adds significant value.

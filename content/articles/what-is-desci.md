@@ -61,7 +61,7 @@ DeSci advocates for open access to scientific knowledge. Projects like PubDAO an
 
 - **PubDAO**: A community-driven publisher that enables transparent, rapid peer review.
 - **Rebus Foundation**: Offers a publishing infrastructure that supports open science.
-- **NFT Licensing**: Research can be published with usage rights represented as NFTs, facilitating broader access.
+- **NFT Licensing**: Research can be published with usage rights represented as NFTs, enabling broader access.
 
 ### Verifiable and Transparent Research
 

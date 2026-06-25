@@ -34,7 +34,7 @@ This situation has led to the emergence of "Decentralized AI" projects, creating
 |--------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------|
 | **Protocol Engineer for Decentralized Compute** | Engineers develop decentralized networks that allow users to rent out spare GPU capacity. | Distributed systems, cryptography, Go or Rust |
 | **Cryptoeconomic Designer for AI** | Professionals design token incentive systems to encourage contributions to decentralized AI networks. | Game theory, economics, tokenomics design |
-| **[DAO](/what-is-a-dao) Manager for AI Models** | Managers facilitate governance of AI models owned by DAOs, overseeing proposals and revenue distribution. | Community management, governance facilitation, basic AI knowledge |
+| **[DAO](/what-is-a-dao) Manager for AI Models** | Managers enable governance of AI models owned by DAOs, overseeing proposals and revenue distribution. | Community management, governance facilitation, basic AI knowledge |
 
 ## AI's Solution for Web3: Enhancing User Experience
 

@@ -73,7 +73,7 @@ Onboarding remote employees effectively requires creating accessible, searchable
 | Slab | Searchable documentation | N/A |
 | Loom | Auto-generated video tutorials with chapters and transcripts | Reduces need for lengthy training sessions |
 
-**Company Wikis and Search**: Notion and Slab facilitate the creation of centralized documentation. AI-enhanced search capabilities ensure new employees can quickly find answers to their questions, reducing onboarding time significantly.
+**Company Wikis and Search**: Notion and Slab enable the creation of centralized documentation. AI-enhanced search capabilities ensure new employees can quickly find answers to their questions, reducing onboarding time significantly.
 
 **AI Video Tools**: Loom allows users to record tutorials. It automatically generates chapters, transcripts, and summaries, making process documentation searchable. For example, a tutorial on invoice processing can be documented once, creating a resource that eliminates the need for extended training calls.
 

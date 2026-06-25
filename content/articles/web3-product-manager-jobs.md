@@ -20,7 +20,7 @@ Transitioning from a Web2 PM to a Web3 PM requires a fundamental shift in mindse
 
 - **From Users to Owners:** In Web2, PMs build for users. In Web3, PMs build for owners. Users are often token holders with financial stakes and governance rights in the product's future. This changes the feedback loop from a simple relay of information to a complex, democratic dialogue.
 
-- **From Centralized Roadmaps to Community Governance:** The roadmap does not get decided in isolation. Major feature decisions often require validation through public governance votes. The PM’s role shifts from dictating the path to facilitating consensus among a diverse global community.
+- **From Centralized Roadmaps to Community Governance:** The roadmap does not get decided in isolation. Major feature decisions often require validation through public governance votes. The PM’s role shifts from dictating the path to enabling consensus among a diverse global community.
 
 - **From Private Data to Public Blockchains:** Web2 PMs rely on rich databases of user behavior, while Web3 PMs work with on-chain data that is accessible to all. This demands a different analytical skill set, using tools such as Dune Analytics to assess user interactions and protocol health.
 

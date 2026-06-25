@@ -174,7 +174,7 @@ Explore opportunities in one of the world's most dynamic GameFi hubs by visiting
 - *Solution:* Build your projects with an international focus and consider [remote work](/remote-work-in-web3) to minimize risk.
 
 **Challenge 4: Visa and Legal Complexities**
-- *Reality:* Registering a foreign business can be intricate.
+- *Reality:* Registering a foreign business can be complex.
 - *Solution:* Consider working remotely for an international company that can sponsor your visa.
 
 ## 90-Day Quick-Start Action Plan

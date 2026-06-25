@@ -28,7 +28,7 @@ A honeypot typically involves a smart contract containing malicious logic. The p
 
 ### Common Mechanisms of Honeypot Scams
 
-Scammers implement various tricks within the smart contract's code to facilitate the honeypot.
+Scammers implement various tricks within the smart contract's code to enable the honeypot.
 
 - **Fake `approve` Function:** The contract's `approve` function, which should allow a DEX to access your tokens, may be programmed to fail or perform entirely different actions.
 - **Hidden Sell Restriction:** The `transfer` or `transferFrom` function may contain concealed conditions, such as `require(msg.sender == owner)`, ensuring only the contract owner can move the tokens.

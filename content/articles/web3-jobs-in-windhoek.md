@@ -139,7 +139,7 @@ Windhoek offers an exceptional quality of life with safety, beautiful nature, an
 
 **Months 10-14: Scale & Leadership**
 - Become a leading voice for Web3 in Windhoek/Namibia.
-- Spearhead ecosystem development initiatives.
+- Lead ecosystem development initiatives.
 - Establish partnerships with international organizations.
 - Expected salary: Variable.
 

@@ -34,7 +34,7 @@ DevOps engineers in the blockchain space manage the infrastructure that drives b
 
 **3. API and Tooling Development**
 
-Engineers in this area develop the tools and APIs that facilitate blockchain application development.
+Engineers in this area develop the tools and APIs that enable blockchain application development.
 
 - **Responsibilities:** Their tasks include creating public APIs for node providers (such as Alchemy and Infura), developing frameworks for smart contract testing, and building other vital developer tools.
 - **Skills:** A blend of backend engineering, API design, and an understanding of the specific needs of dApp developers is essential.

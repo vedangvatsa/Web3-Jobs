@@ -74,7 +74,7 @@ Examine the code for any use of `.call`, `.delegatecall`, or `.staticcall`. Thes
 Assess the overall structure of the code.
 
 - **Indicators of Concern:** Look for unusual variable names, excessive length for a simple task, or a heavy reliance on low-level assembly code.
-- **Simplicity as Safety:** While complex code is not always malicious, overly intricate contracts can obscure harmful logic. Simpler contracts often provide greater safety.
+- **Simplicity as Safety:** While complex code is not always malicious, overly complex contracts can obscure harmful logic. Simpler contracts often provide greater safety.
 
 ### Step 4: Evaluate the Social Media Presence and Community
 

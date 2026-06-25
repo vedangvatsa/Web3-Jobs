@@ -136,7 +136,7 @@ DAO infrastructure creates roles:
 
 - **DAO Operators** managing DAOs.
 
-- **Community Managers** facilitating governance.
+- **Community Managers** enabling governance.
 
 ## Best Practices
 

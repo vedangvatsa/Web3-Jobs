@@ -65,7 +65,7 @@ Blockchains vary significantly based on participation criteria. They can be cate
 
 - **Public Blockchains**: These networks are entirely open and permissionless, allowing anyone to join, become a node, and participate in the consensus process. Public blockchains like Bitcoin and Ethereum exemplify full decentralization and transparency.
 - **Private Blockchains**: These permissioned networks are controlled by a single organization that determines membership and rights. Private blockchains are often used by businesses for internal processes, providing benefits like immutability and traceability without full decentralization. They typically offer increased speed and scalability but sacrifice some degree of censorship resistance.
-- **Consortium Blockchains**: This hybrid model features a pre-selected group of organizations or individuals governing the network. These blockchains offer more decentralization than private ones but remain less open than public blockchains. They often facilitate collaboration among companies within the same industry, such as banks sharing a ledger for interbank settlements.
+- **Consortium Blockchains**: This hybrid model features a pre-selected group of organizations or individuals governing the network. These blockchains offer more decentralization than private ones but remain less open than public blockchains. They often enable collaboration among companies within the same industry, such as banks sharing a ledger for interbank settlements.
 
 ## Beyond Cryptocurrency: The Power of Smart Contracts
 

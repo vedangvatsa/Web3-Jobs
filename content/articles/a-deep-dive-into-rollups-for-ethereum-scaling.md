@@ -55,7 +55,7 @@ Zero-Knowledge Rollups, such as **zkSync**, **Starknet**, and **Polygon zkEVM**,
  - **Enhanced Security:** The reliance on cryptographic proof rather than economic incentives can make ZK-Rollups more secure.
 
 - **Disadvantages:**
- - **Technological Complexity:** The cryptography behind ZK-proofs is highly intricate. Developing a ZK-Rollup that fully integrates with the EVM (known as a "zkEVM") presents significant engineering challenges.
+ - **Technological Complexity:** The cryptography behind ZK-proofs is highly complex. Developing a ZK-Rollup that fully integrates with the EVM (known as a "zkEVM") presents significant engineering challenges.
  - **Cost of Provers:** Generating validity proofs requires substantial computational resources, leading to increased costs for the sequencer.
 
 ### The Rollup-Centric Future of Ethereum

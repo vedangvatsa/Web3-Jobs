@@ -20,7 +20,7 @@ Hashtags in Web3 fulfill several essential functions:
 
 1. **Discoverability:** They help your content reach audiences beyond your immediate followers, targeting individuals interested in specific topics.
 2. **Narrative Alignment:** Selecting particular hashtags indicates your involvement in a specific movement, community, or technological trend.
-3. **Community Engagement:** They facilitate participation in real-time global discussions, such as during conferences or significant protocol launches.
+3. **Community Engagement:** They enable participation in real-time global discussions, such as during conferences or significant protocol launches.
 
 ### Tier 1: Foundational Hashtags
 

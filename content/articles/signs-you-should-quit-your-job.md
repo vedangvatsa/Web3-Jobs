@@ -62,7 +62,7 @@ Research industry salary benchmarks for your position. Websites like Glassdoor, 
 
 ### Making the Decision
 
-If you identify several of the signs mentioned, it strongly indicates that it might be time to begin your job search. However, this does not imply that you should quit impulsively. The best strategy involves starting your search while still employed. Doing so provides you with options and financial security, facilitating a transition to a role that better suits your needs.
+If you identify several of the signs mentioned, it strongly indicates that it might be time to begin your job search. However, this does not imply that you should quit impulsively. The best strategy involves starting your search while still employed. Doing so provides you with options and financial security, enabling a transition to a role that better suits your needs.
 
 Leaving a job is a significant step. Staying in a position that contributes to your unhappiness, stagnation, or burnout poses a greater risk to your long-term career and well-being. Recognizing these signs is the first step toward finding a more fulfilling opportunity.
 

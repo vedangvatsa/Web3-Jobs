@@ -29,7 +29,7 @@ While the core responsibilities are similar-managing timelines, resources, and s
 2. **Resource Coordination:** Ensuring that developers, auditors, designers, and marketers are all aligned and have what they need to do their jobs.
 3. **Communication Hub:** Acting as the central point of communication for the project, providing regular updates to both the internal team and the external community.
 4. **Risk Management:** Identifying potential risks to the project-technical, security, or market-related-and developing mitigation plans.
-5. **Governance Facilitation:** For projects governed by a [DAO](/what-is-a-dao), the Project Manager often plays a key role in helping to structure and shepherd governance proposals related to the product roadmap.
+5. **Governance Facilitation:** For projects governed by a [DAO](/what-is-a-dao), the Project Manager often is important for helping to structure and shepherd governance proposals related to the product roadmap.
 
 ### The Skills You Need
 

@@ -11,10 +11,10 @@ lastUpdated: "2026-06-15"
 ## India's Digital Revolution
 
 ### Global Digital Economy Growth
-The global digital economy now contributes over 15% to the world's GDP, expanding at a rate significantly faster than the traditional economy. India's digital economy plays a key role in this growth, accounting for 10% of its GDP and projected to reach 20% in the coming years. This upward trajectory not only bolsters India's domestic economy but also enhances its influence in the international digital economy.
+The global digital economy now contributes over 15% to the world's GDP, expanding at a rate significantly faster than the traditional economy. India's digital economy is important for this growth, accounting for 10% of its GDP and projected to reach 20% in the coming years. This upward trajectory not only strengthens India's domestic economy but also enhances its influence in the international digital economy.
 
 ### Expanding Internet Access
-India's internet access has experienced remarkable growth, achieving a significant penetration rate in 2023, with millions of new users joining within three years. The country benefits from some of the lowest data costs globally, averaging a very low price per GB. This affordability has led to substantial average data usage per user each month, underscoring India's commitment to creating an inclusive digital ecosystem.
+India's internet access has experienced remarkable growth, achieving a significant penetration rate in 2023, with millions of new users joining within three years. The country benefits from some of the lowest data costs globally, averaging a very low price per GB. This affordability has led to substantial average data usage per user each month, highlighting India's commitment to creating an inclusive digital ecosystem.
 
 ### Rise in Smartphone Users
 Smartphones are vital to India's digital growth, with a large number of users in 2023, expected to reach a significant milestone in the coming years. For many individuals, especially in rural and semi-urban areas, smartphones serve as the primary means of accessing digital services, driving further expansion in the digital economy.
@@ -43,7 +43,7 @@ Central Bank Digital Currency (CBDC) represents a digital version of a country's
 
 CBDCs cater to various use cases, such as retail payments for the general public and wholesale payments for financial institutions. The design and implementation of CBDCs differ among countries, reflecting each central bank's unique goals and requirements.
 
-In a traditional financial system, physical cash, bills and coins, constitutes currency issued by the central bank. A CBDC serves as a digital counterpart, facilitating transactions and payments similar to physical cash or debit/credit cards.
+In a traditional financial system, physical cash, bills and coins, constitutes currency issued by the central bank. A CBDC serves as a digital counterpart, enabling transactions and payments similar to physical cash or debit/credit cards.
 
 Possessing a CBDC equates to holding a direct claim on the central bank, akin to having physical cash. The central bank is tasked with issuing the CBDC and maintaining its value, mirroring its management of paper currency.
 
@@ -70,7 +70,7 @@ As of May 2024, a significant number of countries and currency unions are active
 
 ### G20 Engagement
 **Involvement:** Out of the 20 G20 nations, nearly all are actively engaged in CBDC exploration, with several in the pilot phase. 
-**Key Players:** Leading economies like Brazil, Japan, and China are leading CBDC development, underscoring its strategic significance.
+**Key Players:** Leading economies like Brazil, Japan, and China are leading CBDC development, highlighting its strategic significance.
 
 ### Fully Launched CBDCs
 **Current Launches:** Countries like the Bahamas, Jamaica, and Nigeria have fully implemented their CBDCs, establishing operational systems for daily transactions. 
@@ -186,4 +186,4 @@ Developing a regulatory framework is critical for the future of digital payments
  - Considering CBDCs' role in enhancing overall financial system resilience.
  - Evaluating implications for credit creation and the broader economy.
 
-India's journey toward implementing CBDC is a testament to its commitment to applying digital innovation. The successful deployment of the Digital Rupee could not only transform the national economy but also position India as a leader in the evolving global financial ecosystem. By addressing the challenges and using the opportunities presented by CBDCs, India can enhance financial inclusion, improve transaction efficiency, and create a more reliable economic environment for its citizens.
+India's journey toward implementing CBDC is a sign of its commitment to applying digital innovation. The successful deployment of the Digital Rupee could not only transform the national economy but also position India as a leader in the evolving global financial ecosystem. By addressing the challenges and using the opportunities presented by CBDCs, India can enhance financial inclusion, improve transaction efficiency, and create a more reliable economic environment for its citizens.

@@ -39,7 +39,7 @@ lastUpdated: "2026-06-15"
 
 ### The Role of Web3 Naming Services
 
-Services like Unstoppable Domains and ENS play a vital role in enhancing the Web3 user experience. They simplify the daunting task of managing long hexadecimal addresses by providing a more user-friendly system. By establishing a portable and user-owned naming standard, these services contribute to a more accessible and intuitive decentralized internet.
+Services like Unstoppable Domains and ENS are important for enhancing the Web3 user experience. They simplify the daunting task of managing long hexadecimal addresses by providing a more user-friendly system. By establishing a portable and user-owned naming standard, these services contribute to a more accessible and intuitive decentralized internet.
 
 ## Importance of Understanding Unstoppable Domains
 

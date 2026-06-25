@@ -21,7 +21,7 @@ The US leads globally in almost every sector of the Web3 industry. Its supremacy
 - **Venture Capital Dominance:** Silicon Valley and New York house many significant venture capital firms, including Andreessen Horowitz (a16z), Model, and Pantera Capital. This concentration of funding drives continuous innovation and recruitment.
 - **Core Protocol Development:** The US is a primary center for developing essential [blockchain](/what-is-a-blockchain) infrastructure, encompassing both Layer 1 and Layer 2 protocols.
 - **Decentralized Finance (DeFi) Leadership:** The US excels in DeFi innovation, serving as a main market for institutional adoption of cryptocurrency assets.
-- **Regulatory Environment:** The regulatory framework in the US is one of the most intricate and heavily scrutinized globally. This complexity creates a significant demand for high-caliber legal and compliance professionals.
+- **Regulatory Environment:** The regulatory framework in the US is one of the most complex and heavily scrutinized globally. This complexity creates a significant demand for high-caliber legal and compliance professionals.
 - **Key Hubs:**
 
 | Hub | Description |

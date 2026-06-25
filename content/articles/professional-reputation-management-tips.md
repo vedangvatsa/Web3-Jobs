@@ -52,7 +52,7 @@ Your reputation is significantly shaped by what others say about you when you ar
 
 - **Control Your Emotions:** Everyone experiences difficult days; however, maintaining professionalism is important. Avoid letting stress or frustration affect your interactions with colleagues.
 - **Be Open to Feedback:** Welcome constructive criticism as a valuable opportunity for growth rather than viewing it as a personal attack. Individuals who appear defensive about feedback can quickly develop a reputation for being challenging to work with.
-- **Understand Organizational Dynamics:** Every workplace has an informal social structure. Comprehending how decisions are made and identifying key influencers is vital. This does not imply manipulation; rather, it entails being observant and strategic. For guidance, refer to our resource on navigating office politics.
+- **Understand Organizational Dynamics:** Every workplace has an informal social structure. Comprehending how decisions are made and identifying key influencers is vital. This does not imply manipulation; rather, it entails being observant and strategic. For guidance, refer to our resource on working through office politics.
 
 Your professional reputation develops over time through numerous small, consistent actions. By focusing on high-quality work, effective communication, managing your online presence, and nurturing relationships, you can build a powerful reputation that becomes one of your most significant career assets.
 

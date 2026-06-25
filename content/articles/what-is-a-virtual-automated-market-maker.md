@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 ## What is a Virtual Automated Market Maker (vAMM)?
 
-A **Virtual Automated Market Maker (vAMM)** serves as a decentralized exchange mechanism specifically designed for trading derivatives, particularly perpetual futures. Unlike traditional Automated Market Makers (AMMs) such as Uniswap, which rely on a physical liquidity pool of assets, vAMMs use a mathematical model and collateral held in a smart contract vault to facilitate trades.
+A **Virtual Automated Market Maker (vAMM)** serves as a decentralized exchange mechanism specifically designed for trading derivatives, particularly perpetual futures. Unlike traditional Automated Market Makers (AMMs) such as Uniswap, which rely on a physical liquidity pool of assets, vAMMs use a mathematical model and collateral held in a smart contract vault to enable trades.
 
 The vAMM framework enables trading markets for any asset linked to a reliable price feed, all executed in a synthetic environment. Perpetual Protocol was among the first to adopt this model, creating a derivatives trading experience similar to centralized exchanges within a decentralized framework.
 
@@ -28,7 +28,7 @@ This article covers the definition of vAMMs, their differences from standard AMM
 
 ### The Limitations of Standard AMMs for Derivatives
 
-Standard AMMs primarily facilitate spot trading, where real assets are exchanged directly. Their design presents several challenges for derivatives trading:
+Standard AMMs primarily enable spot trading, where real assets are exchanged directly. Their design presents several challenges for derivatives trading:
 
 - **Lack of Use**: Standard AMMs do not allow for used trading.
 - **Complex Shorting**: Shorting assets proves difficult within the standard AMM framework.

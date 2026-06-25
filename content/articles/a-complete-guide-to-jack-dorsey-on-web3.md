@@ -33,7 +33,7 @@ He asserts that much of what is labeled "Web3" lacks true decentralization. Inst
 
 2. **A Different Kind of Control:** Dorsey believes that "Web3" does not represent a new model but merely rebrands the existing one. Users transition from being governed by corporations like Facebook and Google to being subject to the control of VCs. This shift does not liberate users; they simply find themselves under the influence of a different centralized authority.
 
-3. **Complexity and New Centralization:** He contends that the intricate nature of technologies such as Ethereum and its various Layer 2 solutions introduces new points of centralization. The complexity of these systems complicates verification for average users, compelling them to rely on a select group of expert developers and infrastructure providers.
+3. **Complexity and New Centralization:** He contends that the complex nature of technologies such as Ethereum and its various Layer 2 solutions introduces new points of centralization. The complexity of these systems complicates verification for average users, compelling them to rely on a select group of expert developers and infrastructure providers.
 
 ## The Vision: A Bitcoin-Focused Internet
 

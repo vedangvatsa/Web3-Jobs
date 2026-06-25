@@ -73,7 +73,7 @@ The tokenization of natural resources opens avenues in:
 
 - **Supply Chain Engineering:** Design transparent tracking systems for diamonds, gold, and lithium.
 - **[Smart Contract](/what-are-smart-contracts) Development:** Create contracts for resource verification.
-- **Compliance Consulting:** Assist companies in navigating regulatory challenges related to tokenized resources.
+- **Compliance Consulting:** Assist companies in working through regulatory challenges related to tokenized resources.
 
 ### Government Technology Services
 
@@ -114,7 +114,7 @@ Local talent may lag in skills, presenting challenges such as:
 
 - Limited peer learning opportunities.
 - Few local mentors experienced in Web3.
-- The responsibility to mentor others while navigating your own learning curve.
+- The responsibility to mentor others while working through your own learning curve.
 
 ## Creating a Sustainable Career Path
 

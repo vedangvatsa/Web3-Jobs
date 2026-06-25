@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 ## Understanding the Legal Issues in Web3
 
-The [Web3](/what-is-web3) industry thrives on innovation that challenges existing norms in technology, finance, and social structures. However, the speed of this advancement frequently outstrips the slower evolution of legal and regulatory frameworks. For founders, developers, and investors, grappling with this intricate and often unclear legal environment presents significant challenges.
+The [Web3](/what-is-web3) industry thrives on innovation that challenges existing norms in technology, finance, and social structures. However, the speed of this advancement frequently outstrips the slower evolution of legal and regulatory frameworks. For founders, developers, and investors, grappling with this complex and often unclear legal environment presents significant challenges.
 
 This article outlines key legal issues currently affecting the Web3 sector, providing a framework for understanding essential risks and considerations. Always seek advice from a qualified legal professional for specific legal guidance.
 
@@ -33,9 +33,9 @@ Decentralized Autonomous Organizations ([DAOs](/what-is-a-dao)) introduce a nove
 - **Risks Involved:** Without formal legal recognition, regulators might categorize a DAO as an "unincorporated general partnership." This designation carries significant implications, including the potential for all DAO members to face personal, joint, and several liabilities for the organization's debts and actions.
 - **Mitigating Risks: Legal Wrappers:** To address this issue, many DAOs are creating "legal wrappers." This process involves the DAO voting to form a formal legal entity, such as a foundation in the Cayman Islands, a Swiss association, or a limited liability company (LLC) in a crypto-friendly U.S. state. Such entities can enter contracts, hire staff, and crucially, shield DAO members from personal liability.
 
-**Advisory:** DAOs should seriously consider establishing a legal wrapper to protect members and facilitate interactions with traditional legal and financial systems.
+**Advisory:** DAOs should seriously consider establishing a legal wrapper to protect members and enable interactions with traditional legal and financial systems.
 
-### 3. Intellectual Property: Navigating NFT Ownership
+### 3. Intellectual Property: Working through NFT Ownership
 
 The rise of [NFTs](/what-are-nfts) has sparked numerous intellectual property (IP) concerns.
 

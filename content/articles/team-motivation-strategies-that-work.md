@@ -32,7 +32,7 @@ Autonomy focuses on granting individuals control over their work rather than iso
 
 ### 2. Mastery: The Urge to Get Better at What Matters
 
-Individuals naturally desire to enhance their skills and master their craft. Jobs lacking growth opportunities lead to disengagement. Managers must create challenges and provide support to facilitate skill development.
+Individuals naturally desire to enhance their skills and master their craft. Jobs lacking growth opportunities lead to disengagement. Managers must create challenges and provide support to enable skill development.
 
 **Actionable Strategies to Build Mastery:**
 
@@ -40,7 +40,7 @@ Individuals naturally desire to enhance their skills and master their craft. Job
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Assign "Goldilocks" Tasks | Assign tasks that are appropriately challenging, neither too hard nor too easy. This balance encourages skill development without overwhelming individuals. |
 | Learning and Development Budget | Allocate an annual budget for each employee to spend on books, courses, or conferences, showcasing your commitment to their growth. |
-| Mentorship Opportunities | Establish mentorship programs pairing junior employees with experienced mentors to facilitate learning and development through shared experiences. |
+| Mentorship Opportunities | Establish mentorship programs pairing junior employees with experienced mentors to enable learning and development through shared experiences. |
 | Celebrate Skill Growth | Acknowledge skill development alongside project completion. <br>*Instead of:* "Great job finishing the project." <br>*Try:* "Your refactoring of that code was impressive." |
 
 ### 3. Purpose: The Yearning to Contribute to Something Larger

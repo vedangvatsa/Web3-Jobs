@@ -56,7 +56,7 @@ Avalanche is another high-performance L1 that uses an new "subnet" architecture 
 
 ### Cosmos Hub
 
-Cosmos Hub adopts a different approach by focusing on interoperability among various L1 chains built with the Cosmos SDK. Rather than attempting to serve all functions itself, Cosmos facilitates communication between multiple independent chains.
+Cosmos Hub adopts a different approach by focusing on interoperability among various L1 chains built with the Cosmos SDK. Rather than attempting to serve all functions itself, Cosmos enables communication between multiple independent chains.
 
 ### Polkadot
 

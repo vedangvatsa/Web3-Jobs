@@ -32,7 +32,7 @@ The tokenization of real estate requires professionals who possess knowledge in 
 
 | **Career Path** | **Responsibilities** | **Skills Required** |
 |---------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Real Estate Tokenization Platform Developer | Build platforms that facilitate the tokenization lifecycle. | Proficient in smart contracts, token standards (e.g., ERC-3643), backend systems.|
+| Real Estate Tokenization Platform Developer | Build platforms that enable the tokenization lifecycle. | Proficient in smart contracts, token standards (e.g., ERC-3643), backend systems.|
 | Legal & Compliance Specialist (RWA Focus) | Structure the legal SPV and ensure compliance with securities regulations. | Background in real estate or securities law and understanding of digital assets.|
 | Asset Manager (Tokenized Properties) | Manage physical properties and report to token holders. | Traditional property management skills with tech proficiency. |
 | DeFi Integration Specialist (Collateral Onboarding) | Ensure tokenized properties can be used as collateral in DeFi lending protocols. | Knowledge of real estate valuation and DeFi risk management. |

@@ -33,7 +33,7 @@ To succeed as a liquidity provider, individuals should develop the following ski
 - **In-Depth DeFi Knowledge:** Understanding various AMM models, from the fundamental `x*y=k` formula to the nuances of concentrated liquidity, is essential.
 - **Financial Expertise:** A solid grasp of financial concepts, including volatility, arbitrage, and risk management, is necessary for making informed decisions.
 - **On-Chain Analysis:** Professional LPs use tools such as Dune Analytics to examine pool performance data, track fee generation, and pinpoint profitable opportunities.
-- **Technical Skills (for Advanced LPs):** The most adept liquidity providers often employ programming skills to automate their strategies, facilitating automatic rebalancing of positions and capital movement among pools.
+- **Technical Skills (for Advanced LPs):** The most adept liquidity providers often employ programming skills to automate their strategies, enabling automatic rebalancing of positions and capital movement among pools.
 
 ### Steps to Becoming a Liquidity Provider
 

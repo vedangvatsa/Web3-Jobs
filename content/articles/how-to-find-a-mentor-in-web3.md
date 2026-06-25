@@ -38,7 +38,7 @@ Finding the right mentor requires an understanding of where to look and how to a
 ### 2. Events & Conferences
 
 **Hackathons**
-- Participate in hackathons to work alongside experienced builders. This informal environment often facilitates networking with potential mentors.
+- Participate in hackathons to work alongside experienced builders. This informal environment often enables networking with potential mentors.
 - Showcase your skills through project presentations, allowing mentors to recognize your capabilities.
 
 **Conferences**

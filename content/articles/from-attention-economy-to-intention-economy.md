@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 For the past two decades, the internet has operated primarily under the **Attention Economy**. Major platforms such as Google, Facebook, and TikTok have amassed significant revenue by capitalizing on a straightforward concept: your attention is a commodity. These companies design their services to capture your time and focus, then sell this attention to advertisers willing to pay the highest price. This model has created a digital environment optimized for engagement, often resulting in negative consequences such as addiction, misinformation, and a decline in content quality.
 
-In contrast, [Web3](/what-is-web3) introduces an alternative known as the **Intention Economy**. In this new model, users transition from being mere products to becoming key economic participants who maintain control over their data, identity, and, crucially, their intent. This shift is facilitated by [blockchain](/what-is-a-blockchain) technology, which aims to establish a more equitable, efficient, and user-centered internet. This article examines the move from the attention economy to the intention economy, the Web3 tools that enable this transition, and the practical implications for users, developers, and businesses.
+In contrast, [Web3](/what-is-web3) introduces an alternative known as the **Intention Economy**. In this new model, users transition from being mere products to becoming key economic participants who maintain control over their data, identity, and, crucially, their intent. This shift is enabled by [blockchain](/what-is-a-blockchain) technology, which aims to establish a more equitable, efficient, and user-centered internet. This article examines the move from the attention economy to the intention economy, the Web3 tools that enable this transition, and the practical implications for users, developers, and businesses.
 
 ### The Flaws of the Attention Economy
 
@@ -44,7 +44,7 @@ To illustrate the Intention Economy's benefits, consider the process of booking 
 1. You search for "flights to New York" on Google Flights.
 2. Google tracks your search and shares this data with advertisers. You begin seeing ads for flights and hotels throughout the web.
 3. You manage multiple airline websites, each vying for your attention and data.
-4. After navigating through ads and upselling tactics, you book a flight, having inadvertently shared your data along the way.
+4. After working through through ads and upselling tactics, you book a flight, having inadvertently shared your data along the way.
 
 **Booking a Flight in the Intention Economy:**
 1. Using your crypto wallet, you sign a message detailing your intent: "I, `jane.[eth](/what-is-ethereum)`, intend to purchase one round-trip ticket from London to New York, departing between October 10-12 and returning between October 18-20. My maximum budget is $800 USDC, and I prefer a non-stop flight."
@@ -60,7 +60,7 @@ To illustrate the Intention Economy's benefits, consider the process of booking 
 
 ### Building Blocks of the Intention Economy
 
-Several Web3 technologies facilitate the realization of the Intention Economy:
+Several Web3 technologies enable the realization of the Intention Economy:
 
 - **Decentralized Identity (DIDs) & Wallets**: Your wallet acts as your agent, enabling you to articulate your intent.
 - **[Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained)**: ZKPs allow you to validate information about yourself without disclosing the actual data. For instance, you can prove you are over 21 without revealing your birth date.

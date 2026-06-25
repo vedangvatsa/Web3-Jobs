@@ -61,7 +61,7 @@ Your physical workspace can significantly impact productivity and well-being. Co
 - **Audio/Video Equipment:** Use a quality external webcam and microphone for video calls. Proper lighting enhances professionalism.
 - **Separation of Spaces:** If possible, designate a specific area for work to create a clear boundary between personal and professional life.
 
-### Navigating the Remote Interview Process
+### Working through the Remote Interview Process
 
 The [interview](/how-to-prepare-for-job-interview) process for remote Web3 jobs assesses the skills mentioned above.
 

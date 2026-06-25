@@ -103,7 +103,7 @@ Foundry also supports fuzz testing and formal invariant testing, essential capab
 
 For those focused on building within the **Solana** ecosystem rather than Ethereum and EVM-compatible chains, the tools differ significantly. Solana smart contracts, referred to as **programs**, are developed in **Rust**, which presents a more complex starting point for developers lacking systems programming experience.
 
-**Anchor** serves as the leading framework for Solana program development. It simplifies the low-level architecture of Solana programs, providing macros and utilities that facilitate easier writing and testing. Development occurs within VS Code, using the Rust Analyzer extension alongside the Anchor CLI.
+**Anchor** serves as the leading framework for Solana program development. It simplifies the low-level architecture of Solana programs, providing macros and utilities that enable easier writing and testing. Development occurs within VS Code, using the Rust Analyzer extension alongside the Anchor CLI.
 
 **Target Audience**: Developers committed to building on the Solana ecosystem and willing to invest time in learning Rust. If you remain undecided regarding your target chain, beginning with Ethereum and Solidity offers a less challenging path, given the larger pool of tools, tutorials, and job opportunities.
 

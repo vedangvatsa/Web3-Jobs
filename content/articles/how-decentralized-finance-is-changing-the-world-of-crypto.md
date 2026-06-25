@@ -26,7 +26,7 @@ Initially, the primary use case for crypto revolved around speculation. Many ind
 DeFi is often referred to as "money legos" due to the composable nature of its protocols, allowing for the creation of more complex financial products. Key primitives include:
 
 1. **Decentralized Exchanges (DEXs):**
- - **Description:** Protocols like Uniswap facilitate peer-to-peer trading of assets without relying on a central order book.
+ - **Description:** Protocols like Uniswap enable peer-to-peer trading of assets without relying on a central order book.
  - **Impact:** DEXs support a permissionless environment for liquidity and trading. Anyone can list a [token](/what-is-a-token) and trade, breaking the monopoly held by centralized exchanges. This innovation sparked the "DeFi Summer" of 2020.
 
 2. **Lending and Borrowing Protocols:**
@@ -48,7 +48,7 @@ The essence of DeFi lies in its composability. Protocols built on a shared block
 DeFi's innovation carries notable risks.
 
 - **[Smart Contract](/what-are-smart-contracts) Risk:** A coding error in a protocol can be exploited by hackers, resulting in total loss of funds. Security measures are essential.
-- **Economic Risk:** The intricate relationships between protocols can lead to unforeseen economic repercussions and "death spirals."
+- **Economic Risk:** The complex relationships between protocols can lead to unforeseen economic repercussions and "death spirals."
 - **User Experience:** The technical sophistication required to engage with DeFi protocols poses a significant barrier to mainstream adoption.
 
 ### The Engine of Web3

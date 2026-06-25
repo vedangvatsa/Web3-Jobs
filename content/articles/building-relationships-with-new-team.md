@@ -16,7 +16,7 @@ Success in a new role hinges on your ability to collaborate effectively with you
 
 ### The Importance of Team Relationships
 
-Understanding why relationship-building matters goes beyond social niceties. Strong relationships facilitate:
+Understanding why relationship-building matters goes beyond social niceties. Strong relationships enable:
 
 - **Better Communication**: Team members feel safe sharing concerns and ideas.
 - **Faster Learning**: Colleagues are more willing to assist when they trust you.

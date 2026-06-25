@@ -99,7 +99,7 @@ Tripoli's crypto market stands out for several reasons:
 **The Opportunity:** International exchanges and OTC desks seek local experts who understand the unique aspects of the Libyan P2P market.
 
 **Duties Include:**
-- Facilitating large cryptocurrency trades
+- Enabling large cryptocurrency trades
 - Connecting buyers and sellers
 - Managing trading relationships
 - Ensuring compliance with regulations
@@ -235,7 +235,7 @@ Tripoli's P2P market offers many opportunities:
 
 **Job Opportunities:**
 Companies are looking for professionals to:
-- Facilitate trading between local and international markets.
+- Enable trading between local and international markets.
 - Provide liquidity in emerging markets.
 - Manage price discovery.
 - Execute large trades efficiently.

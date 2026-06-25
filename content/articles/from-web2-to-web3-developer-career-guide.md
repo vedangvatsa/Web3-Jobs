@@ -30,7 +30,7 @@ Before you write your first line of [Solidity](/best-programming-languages-for-b
 | **[Blockchain](/what-is-a-blockchain) Basics** | Familiarize yourself with the foundational elements of blockchain, including blocks, transactions, public/private key cryptography, and consensus mechanisms such as Proof-of-Work and Proof-of-[Stake](/how-to-become-a-web3-staking-specialist). Start with the [Ethereum](/what-is-ethereum) documentation for insights. |
 | **Smart Contracts** | Learn that a [smart contract](/what-are-smart-contracts) is a self-executing code segment on the blockchain, ensuring transparent execution without intermediaries. |
 | **The EVM (Ethereum Virtual Machine)** | Understand the EVM as the runtime environment for smart contracts, functioning as a deterministic, sandboxed platform for your applications. |
-| **The Blockchain Trilemma** | Recognize the interplay between security, scalability, and decentralization, which poses challenges for all blockchain projects and informs your architectural decisions. |
+| **The Blockchain Trilemma** | Recognize the interaction between security, scalability, and decentralization, which poses challenges for all blockchain projects and informs your architectural decisions. |
 
 ## Step 2: Acquire the Essential Technical Skills
 

@@ -28,10 +28,10 @@ Upon receiving the transaction, these nodes conduct initial validation checks, s
 
 ### Step 3: Mining and Validation
 
-The **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)** is essential during this phase. A select group of nodes, referred to as "miners" in Proof-of-Work systems or "validators" in Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) systems, selects transactions from the mempool to bundle into a new block.
+The **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-explained)** is essential during this phase. A select group of nodes, referred to as "miners" in Proof-of-Work systems or "validators" in Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) systems, selects transactions from the mempool to bundle into a new block.
 
 - **In Proof-of-Work (e.g., [Bitcoin](/what-is-bitcoin)):**
- - Miners engage in competition to solve intricate mathematical puzzles.
+ - Miners engage in competition to solve complex mathematical puzzles.
  - The first miner to solve the puzzle earns the right to add their block of transactions to the blockchain.
  - This mining process demands substantial computational resources and secures the network.
 

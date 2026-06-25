@@ -28,7 +28,7 @@ This control enables attackers to undermine the blockchain's integrity. They can
 
 In a Proof-of-Work system, the "longest chain" is regarded as the authentic, valid chain due to the **[fork choice rule](/what-is-a-blockchain-fork-choice-rule)**. Miners use computational power (hashrate) to compete for the next block. As finding a block is probabilistic, the miner with the most hashrate typically discovers the most blocks over time.
 
-An entity that controls more than half of the hashrate can statistically build a new chain more rapidly than the rest of the network combined. This capability facilitates the execution of a double-spend attack.
+An entity that controls more than half of the hashrate can statistically build a new chain more rapidly than the rest of the network combined. This capability enables the execution of a double-spend attack.
 
 #### Double-Spend Scenario Explained
 

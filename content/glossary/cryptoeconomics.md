@@ -175,7 +175,7 @@ Designing cryptoeconomic systems:
 
 Evolution:
 
-- **Sophisticated Incentives**: More nuanced incentive mechanisms.
+- **Sophisticated Incentives**: More subtle incentive mechanisms.
 
 - **Cross-Protocol Incentives**: Incentives coordinating across protocols.
 

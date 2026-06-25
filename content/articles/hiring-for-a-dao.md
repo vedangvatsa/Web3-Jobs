@@ -30,7 +30,7 @@ Instead of adhering to a traditional hiring funnel, DAOs should use a "contribut
 **1. Top of Funnel: The Lurker**
 
 This individual is a new community member exploring the DAO's Discord. They are in the early stages of engagement.
-- **DAO's Goal:** Facilitate their learning process. Provide clear onboarding channels, high-quality documentation, and a welcoming community. The objective is to convert lurkers into active participants.
+- **DAO's Goal:** Enable their learning process. Provide clear onboarding channels, high-quality documentation, and a welcoming community. The objective is to convert lurkers into active participants.
 - **Tools:** An organized Discord server, accessible documentation ([a important role for a technical writer](/technical-writer-web3-jobs)), and engaged community managers.
 
 **2. Middle of Funnel: The Participant & Bounty Hunter**

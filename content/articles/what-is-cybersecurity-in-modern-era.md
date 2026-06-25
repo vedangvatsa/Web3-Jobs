@@ -70,7 +70,7 @@ The website "Have I Been Pwned?" (haveibeenpwned.com) is a reliable tool for che
 
 ### Why This Matters
 
-Understanding cybersecurity principles is essential for professionals in today's work environment. Mastery of these skills can differentiate you from colleagues, lead to higher salaries, and accelerate career advancement. This is particularly true in [Web3](/what-is-web3) organizations, where effective communication and collaboration play a vital role.
+Understanding cybersecurity principles is essential for professionals in today's work environment. Mastery of these skills can differentiate you from colleagues, lead to higher salaries, and accelerate career advancement. This is particularly true in [Web3](/what-is-web3) organizations, where effective communication and collaboration are important.
 
 ### Step-by-Step Guide
 

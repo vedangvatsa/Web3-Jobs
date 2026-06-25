@@ -24,7 +24,7 @@ SocialFi platforms integrate social networking functionalities with financial co
 
 **Direct monetization** enhances efficiency compared to ad-based models. Creators earn income directly from their audience without relying on advertising revenue. They can sell content, memberships, or special access. This financial relationship is transparent and advantageous for both creators and fans.
 
-**Community governance** is facilitated through tokens and [smart contracts](/what-are-smart-contracts). When creators issue tokens, holders can vote on critical decisions regarding the platform or the creator's content direction. This alignment of incentives grants the community genuine power.
+**Community governance** is enabled through tokens and [smart contracts](/what-are-smart-contracts). When creators issue tokens, holders can vote on critical decisions regarding the platform or the creator's content direction. This alignment of incentives grants the community genuine power.
 
 **Composability** with other DeFi protocols is achievable since SocialFi operates on [blockchain](/what-is-a-blockchain). Creator tokens can be employed in various DeFi applications, staked for rewards, or used as collateral. This interconnectedness creates a strong financial ecosystem surrounding creators.
 
@@ -95,4 +95,4 @@ Understanding SocialFi is pertinent for anyone considering careers in Web3 acros
 
 **Creator services** present a growing opportunity. Building tools that assist creators in launching tokens, managing communities, or monetizing effectively holds significant value.
 
-**Risk and compliance** roles become essential as projects must navigate interactions with securities regulations.
+**Risk and compliance** roles become essential as projects must work through interactions with securities regulations.

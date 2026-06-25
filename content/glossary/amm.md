@@ -64,7 +64,7 @@ Aggregators like 1inch and Matcha check prices across multiple DEXs and AMMs to 
 
 Curve Finance pioneered stableswap AMMs optimized for assets that should trade close to 1:1. The StableSwap invariant combines constant product and constant sum formulas, acting like a constant sum for small trades and constant product for large trades that might depeg.
 
-This design enables deep stablecoin liquidity with minimal capital. A Curve pool can facilitate significant daily volume with relatively small liquidity, generating fee income for LPs. The success of this model has been replicated across many chains and protocols, making stablecoin swaps one of DeFi's efficient markets.
+This design enables deep stablecoin liquidity with minimal capital. A Curve pool can enable significant daily volume with relatively small liquidity, generating fee income for LPs. The success of this model has been replicated across many chains and protocols, making stablecoin swaps one of DeFi's efficient markets.
 
 ## Gas Optimization
 

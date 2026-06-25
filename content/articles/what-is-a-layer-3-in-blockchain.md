@@ -82,7 +82,7 @@ Layer 3 security derives from the underlying Layer 2, which in turn is secured b
 While Layer 2 solutions will continue to improve, they serve general purposes. Layer 3s cater to applications requiring performance or customization beyond what a general-purpose L2 can offer, such as games needing high transaction rates.
 
 **4. What are examples of emerging Layer 3 projects?** 
-The Layer 3 ecosystem is still developing, with projects like the Arbitrum Orbit framework enabling developers to launch their own L3s on Arbitrum One and the OP Stack facilitating L3 creation within the Optimism ecosystem.
+The Layer 3 ecosystem is still developing, with projects like the Arbitrum Orbit framework enabling developers to launch their own L3s on Arbitrum One and the OP Stack enabling L3 creation within the Optimism ecosystem.
 
 **5. Can a Layer 3 have its own token?** 
 Yes, it can use ETH or the parent L2's native token for transaction fees. However, many appchains will likely issue their own tokens for governance, staking, or fees within their network, enabling the creation of micro-economies.

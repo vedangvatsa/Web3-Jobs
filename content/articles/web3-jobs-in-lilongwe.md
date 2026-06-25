@@ -17,7 +17,7 @@ The growing Web3 market in Lilongwe emphasizes real-world applications, particul
 
 The future of the Web3 ecosystem in Lilongwe will likely reflect Malawi's unique economic and social circumstances.
 
-- **AgriTech Opportunities:** Agriculture employs a significant portion of the population and remains the dominant economic sector. Blockchain technology can enhance supply chain transparency for vital exports such as tobacco and tea. It can also facilitate better financing options for smallholder farmers and create efficient agricultural markets.
+- **AgriTech Opportunities:** Agriculture employs a significant portion of the population and remains the dominant economic sector. Blockchain technology can enhance supply chain transparency for vital exports such as tobacco and tea. It can also enable better financing options for smallholder farmers and create efficient agricultural markets.
 
 - **Financial Inclusion Initiatives:** With a large percentage of Malawians lacking access to traditional banking, there is vast potential for mobile-first [DeFi](/what-is-defi) and stablecoin solutions. Blockchain can deliver essential financial services, including savings, credit, and insurance, to underserved rural communities.
 

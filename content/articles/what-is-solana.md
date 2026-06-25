@@ -40,4 +40,4 @@ Solana's performance-oriented focus introduces specific challenges and trade-off
 
 - **Uptime:** The network has experienced several outages due to bugs or stress during peak usage. While reliability has improved, these incidents raise concerns regarding the network's stability for some users.
 
-Solana takes a distinctive approach to addressing the blockchain trilemma, focusing on scalability to facilitate the development of high-performance dApps. Despite its challenges, Solana's dynamic developer ecosystem and commitment to speed solidify its position as a key player in the Web3 field.
+Solana takes a distinctive approach to addressing the blockchain trilemma, focusing on scalability to enable the development of high-performance dApps. Despite its challenges, Solana's dynamic developer ecosystem and commitment to speed solidify its position as a key player in the Web3 field.

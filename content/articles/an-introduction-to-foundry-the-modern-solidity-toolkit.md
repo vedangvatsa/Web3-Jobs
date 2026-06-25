@@ -19,7 +19,7 @@ Foundry is a suite of command-line tools designed for Ethereum application devel
 
 - **Forge:** The core component that serves as a testing framework, enabling developers to write tests in Solidity. It also provides functionalities for compiling, deploying, and verifying contracts.
 
-- **Cast:** A command-line utility that facilitates interaction with smart contracts. Developers can use Cast to send transactions, call functions, and retrieve data from the [blockchain](/what-is-a-blockchain) directly from the terminal.
+- **Cast:** A command-line utility that enables interaction with smart contracts. Developers can use Cast to send transactions, call functions, and retrieve data from the [blockchain](/what-is-a-blockchain) directly from the terminal.
 
 - **Anvil:** A local testnet node akin to Hardhat Network. Anvil offers a fast local blockchain environment for testing and development.
 

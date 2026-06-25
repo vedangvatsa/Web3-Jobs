@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 Elon Musk, CEO of Tesla and SpaceX, and owner of X (formerly Twitter), wields significant influence in the technology sector. His public statements often impact markets and shape discussions around technological advancements. Given his active role in technology and commitment to free speech, many in the [Web3](/what-is-web3) community view him as a potential advocate for a decentralized internet.
 
-Musk's relationship with Web3, cryptocurrencies, and decentralization is intricate and has evolved over time. His views reflect enthusiasm for certain cryptocurrencies, skepticism about the current state of Web3, and a preference for practical applications over abstract ideals.
+Musk's relationship with Web3, cryptocurrencies, and decentralization is complex and has evolved over time. His views reflect enthusiasm for certain cryptocurrencies, skepticism about the current state of Web3, and a preference for practical applications over abstract ideals.
 
 This article analyzes Elon Musk's public statements, actions, and insights regarding the Web3 ecosystem.
 
@@ -40,7 +40,7 @@ Despite his enthusiasm for cryptocurrency, Musk expresses considerable skepticis
 
 - **"More Marketing Buzzword Than Reality":** In late 2021, Musk tweeted that Web3 "seems more marketing buzzword than reality right now." He raised concerns over its decentralization, suggesting control largely rests with venture capitalists.
 - **Practicality Over Ideals:** Musk's skepticism aligns with his engineering mindset. He prioritizes whether technology provides efficient solutions to real-world problems rather than abstract philosophical ideals. Currently, he does not see the dApps and protocols in the Web3 ecosystem delivering on this promise.
-- **"Where is it?" Commentary:** When questioned about Web3, Musk quipped, "I can’t find it," underscoring his belief that, despite the conversation, Web3 has yet to produce compelling, mainstream applications demonstrating superiority over Web2.
+- **"Where is it?" Commentary:** When questioned about Web3, Musk quipped, "I can’t find it," highlighting his belief that, despite the conversation, Web3 has yet to produce compelling, mainstream applications demonstrating superiority over Web2.
 
 ### The X.com "Everything App": A Centralized Alternative?
 

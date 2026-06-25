@@ -36,7 +36,7 @@ Conversely, the Web3 community advocates for an "open metaverse," rooted in prin
 
 ### 1. True Digital Ownership through NFTs
 
-In an open metaverse, your digital assets, such as your avatar's clothing, virtual land, and digital art, must be genuinely owned by you. This ownership is facilitated by **Non-Fungible Tokens (NFTs)**. When you purchase or earn an item in a Web3-driven virtual world, you receive an [NFT](/what-are-nfts) that verifies your ownership on a public blockchain.
+In an open metaverse, your digital assets, such as your avatar's clothing, virtual land, and digital art, must be genuinely owned by you. This ownership is enabled by **Non-Fungible Tokens (NFTs)**. When you purchase or earn an item in a Web3-driven virtual world, you receive an [NFT](/what-are-nfts) that verifies your ownership on a public blockchain.
 
 - **Ownership lies with you, not the platform:** Unlike conventional video games, platform developers cannot seize your items. You retain them in your own crypto [wallet](/how-to-choose-a-crypto-wallet).
 - **Open marketplaces:** You can trade your digital assets on any NFT marketplace, expanding your trading options beyond the confines of a single game or world.
@@ -69,7 +69,7 @@ While the ultimate vision remains a work in progress, various Web3 projects are 
 The journey toward a genuine open metaverse faces numerous obstacles.
 
 - **Technical challenges:** The graphical quality and performance of decentralized virtual worlds currently fall short of traditional AAA games. Innovations in rendering and processing power are necessary.
-- **Scalability:** Facilitating millions of concurrent users in a single virtual space poses significant technical challenges, requiring advancements in blockchain and networking technologies.
+- **Scalability:** Enabling millions of concurrent users in a single virtual space poses significant technical challenges, requiring advancements in blockchain and networking technologies.
 - **User experience:** Introducing users to Web3 remains overly complex. The metaverse must provide an easy experience akin to accessing websites or social media applications.
 
 The metaverse represents one of the most ambitious concepts in contemporary technology. Although hype often overshadows reality, a clear trend emerges: our digital and physical lives are converging. The critical question now is whether this future will be built on closed, proprietary platforms dominated by a few tech giants or on the open, decentralized principles espoused by Web3. For those engaged in Web3, the mission is clear: to ensure that the next chapter of the internet belongs to everyone.

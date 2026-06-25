@@ -48,12 +48,12 @@ This revelation marked a significant moment for the NFT community. It showcased 
 
 ## Death Row Records: The First NFT Record Label
 
-Snoop's strategic vision in Web3 culminated in early 2022 with his acquisition of **Death Row Records**, the iconic label that launched his career. Shortly after the acquisition, he announced plans to transform Death Row into a major **"NFT record label."**
+Snoop's strategic vision in Web3 resulted in early 2022 with his acquisition of **Death Row Records**, the iconic label that launched his career. Shortly after the acquisition, he announced plans to transform Death Row into a major **"NFT record label."**
 
 His vision encompasses:
 
 * **Music as NFTs:** He aims to release new music from Death Row artists alongside classic tracks as limited edition NFTs, allowing fans to buy and own unique music assets.
-* **Fan Ownership:** The plan includes enabling fans to own a stake in the music, potentially sharing in its financial success. While the legal details are intricate, the concept involves using [tokens](/what-is-a-token) to align the interests of artists and fans.
+* **Fan Ownership:** The plan includes enabling fans to own a stake in the music, potentially sharing in its financial success. While the legal details are complex, the concept involves using [tokens](/what-is-a-token) to align the interests of artists and fans.
 * **A Metaverse-First Label:** Snoop envisions using platforms like The Sandbox to host virtual concerts, release parties, and exclusive events for Death Row token holders.
 
 This move represents one of the most ambitious attempts by a major artist to integrate Web3 technology into the core operational framework of a record label. Snoop aims to illustrate that the future of the music industry hinges on blockchain technology.

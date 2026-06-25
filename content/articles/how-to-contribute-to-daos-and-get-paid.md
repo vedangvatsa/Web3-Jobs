@@ -63,7 +63,7 @@ As you consistently provide value through bounties and community engagement, you
 - **Write a Grant Proposal:** If you identify a significant problem needing resolution, draft a formal proposal to the DAO's governance requesting a grant for a few months to address the issue. A successful grant proposal marks a major achievement.
 - **Get Hired Full-Time:** As DAOs mature, many are offering full-time, salaried roles for their most critical functions. Your history as a trusted contributor makes you an ideal candidate for these positions. For more information on this transition, refer to our guide on [freelance](/how-to-start-freelancing-for-beginners) versus full-time Web3 career paths.
 
-The career path within a DAO involves progressively increasing engagement. It starts with a simple contribution and can culminate in a full-time role that shapes the future of a decentralized protocol. This meritocratic system welcomes anyone willing to put in the effort and demonstrate their value.
+The career path within a DAO involves progressively increasing engagement. It starts with a simple contribution and can result in a full-time role that shapes the future of a decentralized protocol. This meritocratic system welcomes anyone willing to put in the effort and demonstrate their value.
 
 ### Why This Matters
 

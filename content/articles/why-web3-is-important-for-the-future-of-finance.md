@@ -25,7 +25,7 @@ Understanding the significance of Web3 requires an examination of the limitation
 
 ### The Web3 Solution: An Open Financial System
 
-Web3 constructs financial services on public **[blockchains](/what-is-a-blockchain)** and **[smart contracts](/what-are-smart-contracts)**, facilitating a system with unique characteristics.
+Web3 constructs financial services on public **[blockchains](/what-is-a-blockchain)** and **[smart contracts](/what-are-smart-contracts)**, enabling a system with unique characteristics.
 
 #### 1. Accessibility and Financial Inclusion
 
@@ -56,7 +56,7 @@ Web3 protocols are inherently open-source and interoperable, enabling developers
 The future of finance may become decentralized, but significant obstacles remain.
 
 - **Security Risks:** The immutable nature of blockchain means that bugs in smart contracts can lead to substantial and irreversible losses. The role of the **[smart contract auditor](/smart-contract-auditor-career)** is essential in preventing such occurrences.
-- **User Experience (UX):** Interacting with DeFi protocols often requires a degree of technical knowledge. The industry must simplify this complexity to facilitate mainstream adoption.
+- **User Experience (UX):** Interacting with DeFi protocols often requires a degree of technical knowledge. The industry must simplify this complexity to enable mainstream adoption.
 - **Regulatory Uncertainty:** The evolving regulatory environment presents challenges. Regulators attempt to apply existing laws designed for centralized entities to decentralized protocols, complicating compliance efforts.
 
 Despite these challenges, the fundamental advantages of Web3 finance are evident. It offers a blueprint for a financial system that is more open, transparent, efficient, and inclusive. Access to this system is determined by internet connectivity rather than wealth or geography, highlighting the importance of Web3 in reshaping the financial sector.

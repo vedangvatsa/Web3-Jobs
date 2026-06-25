@@ -139,7 +139,7 @@ As circuit breaker user:
 
 Evolution:
 
-- **Sophisticated Triggers**: More nuanced triggers beyond simple thresholds.
+- **Sophisticated Triggers**: More subtle triggers beyond simple thresholds.
 
 - **Cross-Protocol Coordination**: Protocols coordinating circuit breakers to prevent contagion.
 

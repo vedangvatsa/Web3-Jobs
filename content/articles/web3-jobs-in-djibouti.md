@@ -27,7 +27,7 @@ Traditional maritime trade often involves numerous intermediaries, extensive pap
 - Processing times of 2-3 weeks
 - Billions in annual friction costs
 
-Blockchain technology can simplify this entire process. An immutable ledger can track containers, verify documentation, and facilitate automatic payments via [smart contracts](/what-are-smart-contracts). For a port city like Djibouti, these factors create immediate and high-value use cases.
+Blockchain technology can simplify this entire process. An immutable ledger can track containers, verify documentation, and enable automatic payments via [smart contracts](/what-are-smart-contracts). For a port city like Djibouti, these factors create immediate and high-value use cases.
 
 ### Regional Financial Hub Ambitions
 
@@ -51,7 +51,7 @@ If you are relocating to work on such initiatives, see: **[How to Make a Good Fi
 
 **A Critical Trade and Logistics Hub:** Djibouti's economy heavily relies on its port and logistics services. This creates a strong use case for enterprise blockchain solutions, enhancing supply chain transparency, efficiency, and security. Key focus areas include tracking containers, verifying customs documents, and automating trade finance processes.
 
-**A Regional Financial Center:** With a well-regulated banking sector, Djibouti aims to become a financial hub for the region. This ambition creates demand for FinTech and DeFi solutions that facilitate efficient cross-border payments and trade finance.
+**A Regional Financial Center:** With a well-regulated banking sector, Djibouti aims to become a financial hub for the region. This ambition creates demand for FinTech and DeFi solutions that enable efficient cross-border payments and trade finance.
 
 **Government and Port Authority Interest:** The Djibouti Ports and Free Zones Authority (DPFZA) and the national government actively pursue digital transformation. Their openness to new technologies boosts the potential for blockchain pilot projects.
 

@@ -57,7 +57,7 @@ Upon creating a non-custodial wallet, you receive a **[seed phrase](/what-is-a-s
 |---------------------------------------------|-------------------------------------------------------|
 | **True Ownership and Control** | You maintain full control over your assets. No entity can freeze your funds or obstruct transactions. You are, in effect, your own bank. |
 | **Censorship Resistance** | No central authority can block your transactions. |
-| **Full Web3 Access** | A non-custodial wallet acts as your entry point to the entire decentralized ecosystem, facilitating interactions with dApps, lending on DeFi protocols, and voting in DAOs. |
+| **Full Web3 Access** | A non-custodial wallet acts as your entry point to the entire decentralized ecosystem, enabling interactions with dApps, lending on DeFi protocols, and voting in DAOs. |
 
 ### Cons of Non-Custodial Wallets
 

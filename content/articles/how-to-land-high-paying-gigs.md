@@ -50,7 +50,7 @@ In Web3, your GitHub profile, blog, and on-chain activity serve as your resume. 
 High-paying roles often emerge through networking rather than job postings. To succeed, you need to become an integral part of the community.
 
 - **Provide Value First:** The fundamental rule of networking in Web3 is to be helpful. Engage in Discord communities by answering questions and providing constructive feedback on governance proposals. Building a reputation as a valuable community member can open doors to job opportunities.
-- **Become a Connector:** Use your network to facilitate introductions for others. By helping others, you enhance your social capital.
+- **Become a Connector:** Use your network to enable introductions for others. By helping others, you enhance your social capital.
 - **Attend Key Events:** Participate in events where key industry builders gather. Technical conferences and hackathons, such as those organized by ETHGlobal, offer far more valuable networking opportunities than large marketing-focused trade shows.
 
 ### Step 4: Master Negotiation Skills

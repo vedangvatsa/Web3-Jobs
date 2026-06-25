@@ -72,7 +72,7 @@ You do not need to post GM every day, but understanding its cultural significanc
 
 Conversely, if you join a Web3 community lacking GM culture, it may suggest disconnection or low engagement.
 
-For community managers, project leaders, and those building communities in Web3, nurturing GM culture is an effective way to bolster community health.
+For community managers, project leaders, and those building communities in Web3, nurturing GM culture is an effective way to strengthen community health.
 
 ## The Bottom Line
 

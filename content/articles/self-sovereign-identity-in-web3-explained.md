@@ -66,6 +66,6 @@ Consider the process of obtaining a loan from a **[DeFi](/what-is-defi)** protoc
  4. The user presents the VC to the protocol’s [smart contract](/what-are-smart-contracts). The smart contract verifies the credential's validity without needing to reveal any personal financial data.
  5. The user gains access to the loan without disclosing their name, net worth, or any other private financial information.
 
-This illustrates the potential of Self-Sovereign Identity, which facilitates trust and verification in a digital context while maintaining privacy and control.
+This illustrates the potential of Self-Sovereign Identity, which enables trust and verification in a digital context while maintaining privacy and control.
 
 ## The Web3 Job Market

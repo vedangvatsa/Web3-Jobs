@@ -30,7 +30,7 @@ Three primary trends will influence the evolution of Web3 careers:
 
 This role represents the next phase of today's "[Smart Contract](/what-are-smart-contracts) Developer." The future focus will shift from creating standard ERC-20 tokens to designing complex, interconnected systems that underpin the decentralized economy.
 
-- **Future Focus:** Develop new financial primitives, create intricate governance structures, and construct secure, optimized protocols capable of supporting a large number of users.
+- **Future Focus:** Develop new financial primitives, create complex governance structures, and construct secure, optimized protocols capable of supporting a large number of users.
 - **Skills Needed:** Proficiency in formal verification, advanced game theory, and economic modeling.
 
 #### 2. Zero-Knowledge (ZK) Systems Engineer
@@ -61,4 +61,4 @@ In a world where your [wallet](/how-to-choose-a-crypto-wallet) serves as your id
 - **Future Focus:** Assist projects and individuals in building and maintaining positive on-chain reputations.
 - **Skills Needed:** A combination of public relations, data analysis, and knowledge of [decentralized identity standards like Verifiable Credentials](/a-guide-to-verifiable-credentials-in-decentralized-identity).
 
-The future of work in Web3 requires specialized skills and interdisciplinary knowledge. Professionals must be systems thinkers who comprehend the intricate relationships between technology, economics, and human communities. Those who cultivate these hybrid skill sets today will have immense opportunities to shape the next phase of the internet.
+The future of work in Web3 requires specialized skills and interdisciplinary knowledge. Professionals must be systems thinkers who comprehend the complex relationships between technology, economics, and human communities. Those who cultivate these hybrid skill sets today will have immense opportunities to shape the next phase of the internet.

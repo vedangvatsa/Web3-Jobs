@@ -24,7 +24,7 @@ Effective marketing in Argentina begins with a clear understanding of user behav
 |-----------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | **The Saver** | Converts pesos to stablecoins (e.g., USDC, USDT) upon receiving payment. Values wealth preservation. | Security of stablecoin platforms |
 | **The Freelancer/Exporter** | Works with international clients and receives payments in crypto to bypass capital controls. | Efficient off-ramping options for local expenses |
-| **The Small Business Owner** | Uses crypto for cross-border payments without navigating complex foreign exchange restrictions. | Reliable payment solutions for international vendors |
+| **The Small Business Owner** | Uses crypto for cross-border payments without working through complex foreign exchange restrictions. | Reliable payment solutions for international vendors |
 | **The Technologist** | Part of Argentina's skilled developer community, knowledgeable and security-conscious. | Interest in underlying technology and protocols |
 
 These user personas prioritize practical solutions over speculative investments. Marketing messages must align with this reality.

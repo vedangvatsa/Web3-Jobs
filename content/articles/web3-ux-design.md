@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 Web3 faces significant challenges in achieving mainstream adoption, primarily due to its complicated user experience (UX). For individuals unfamiliar with decentralized applications (dApps), handling these platforms can feel overwhelming. Concepts such as gas fees, wallet signatures, and transaction finality present hurdles for those accustomed to traditional Web2 applications.
 
-Bridging the gap between the intricate workings of the blockchain and user-friendly interfaces is essential for bringing Web3 to a broader audience. The demand for skilled UX/UI designers has surged, as they are important in simplifying these experiences. A proficient Web3 designer combines visual artistry with a deep understanding of user psychology, security considerations, and educational approaches.
+Bridging the gap between the complex workings of the blockchain and user-friendly interfaces is essential for bringing Web3 to a broader audience. The demand for skilled UX/UI designers has surged, as they are important in simplifying these experiences. A proficient Web3 designer combines visual artistry with a deep understanding of user psychology, security considerations, and educational approaches.
 
 This article examines common UX challenges in Web3 and presents best practices for designing dApps that are not only aesthetically pleasing but also intuitive, secure, and accessible.
 
@@ -31,7 +31,7 @@ The initial moments a user spends with your dApp are critical. The onboarding ex
 
 - **Wallet Connection:** Begin with a clear explanation of why a wallet is necessary for the user, linking to reputable wallet providers such as MetaMask or Rabby.
 - **Network-Specific Guidance:** If the dApp operates on a Layer 2 solution like Arbitrum, detect the user's wallet network and provide a simple option to switch to the correct network.
-- **Explain the Necessity:** For every action requiring a wallet signature or transaction, clarify the reason. For example, inform users that "To list your [NFT](/what-are-nfts) for sale, you must approve our [smart contract](/what-are-smart-contracts) to facilitate the process."
+- **Explain the Necessity:** For every action requiring a wallet signature or transaction, clarify the reason. For example, inform users that "To list your [NFT](/what-are-nfts) for sale, you must approve our [smart contract](/what-are-smart-contracts) to enable the process."
 
 ### Best Practice #2: Make Transactions Understandable
 

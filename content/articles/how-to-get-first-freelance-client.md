@@ -20,7 +20,7 @@ Your initial client often comes from your existing connections. Use your network
 
 - **Friends and Family:** Inform your close circle that you are starting a freelance business. Someone may require your services or know others who do.
 - **Past Colleagues:** Reach out to former colleagues and supervisors. They can vouch for your skills and work ethic.
-- **Social Media:** Publicize your new freelance endeavor on LinkedIn. Share details about your services and link to pieces from your portfolio to showcase your work.
+- **Social Media:** Publicize your new freelance effort on LinkedIn. Share details about your services and link to pieces from your portfolio to showcase your work.
 
 When reaching out, be precise about your offerings. Instead of simply stating, "I'm a freelancer," say, "I specialize in freelance writing for SaaS companies."
 

@@ -34,7 +34,7 @@ It is important to differentiate between core protocol development and ecosystem
 
 | Ecosystem Component | Description |
 |-----------------------------|--------------------------------------------------------------|
-| **Lightning Network** | A fully operational Lightning Network that facilitates quick, low-cost transactions. We will assess the growth in channels, nodes, and capacity on Litecoin's network. |
+| **Lightning Network** | A fully operational Lightning Network that enables quick, low-cost transactions. We will assess the growth in channels, nodes, and capacity on Litecoin's network. |
 | **MWEB (Mimblewimble Extension Block)** | A significant upgrade that provides opt-in privacy for transactions. We will detail the technical aspects of MWEB and its adoption since launch. |
 | **Third-Party Wallets & Services** | A survey of wallets, payment processors, and exchanges supporting Litecoin, particularly its MWEB features. The integration by third parties serves as a critical indicator of ecosystem vitality. |
 

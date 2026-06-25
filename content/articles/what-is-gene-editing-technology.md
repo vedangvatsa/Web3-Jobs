@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 Gene editing encompasses a range of technologies that enable scientists to modify an organism's DNA. This process allows for the addition, removal, or alteration of genetic material at specific locations within the genome. Researchers can search for a precise DNA sequence, excise it, and substitute it with a new sequence.
 
-Historically, scientists have altered DNA using various methods, which often proved inefficient, labor-intensive, and costly. The advent of advanced tools, particularly CRISPR-Cas9, has transformed gene editing into a more precise, rapid, and affordable endeavor. This shift has catalyzed significant advancements in biological research and has far-reaching implications for medicine, agriculture, and other fields.
+Historically, scientists have altered DNA using various methods, which often proved inefficient, labor-intensive, and costly. The advent of advanced tools, particularly CRISPR-Cas9, has transformed gene editing into a more precise, rapid, and affordable effort. This shift has catalyzed significant advancements in biological research and has far-reaching implications for medicine, agriculture, and other fields.
 
 ### How CRISPR-Cas9 Functions
 

@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 In the evolving field of [Web3](/what-is-web3), the role of the **Tokenomics Designer** has become essential. This position merges economics, game theory, and computer science. Unlike traditional financial analysts or developers, tokenomics designers architect a protocol's digital economy.
 
-A tokenomics designer creates the intricate system of incentives that dictate how a protocol's native [token](/what-is-a-token) operates. Their primary objective is to develop a model that encourages positive engagement, ensures the security and sustainability of the network, and motivates users to hold and use the token. A well-structured tokenomics model can drive a strong cycle of growth, while a poorly constructed one can lead to economic instability.
+A tokenomics designer creates the complex system of incentives that dictate how a protocol's native [token](/what-is-a-token) operates. Their primary objective is to develop a model that encourages positive engagement, ensures the security and sustainability of the network, and motivates users to hold and use the token. A well-structured tokenomics model can drive a strong cycle of growth, while a poorly constructed one can lead to economic instability.
 
 ### Fundamental Questions Addressed by Tokenomics Designers
 

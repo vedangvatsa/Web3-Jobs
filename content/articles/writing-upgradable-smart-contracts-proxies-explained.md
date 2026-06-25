@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 One of the defining characteristics of a [smart contract](/what-are-smart-contracts) is its immutability. Once it is deployed on the [blockchain](/what-is-a-blockchain), its code remains unchanged. This feature enhances security and builds trust, but it also poses significant challenges. What happens when you identify a bug or wish to introduce new features?
 
-Deploying a completely new contract and migrating all associated data and users can be intricate and costly. The solution lies in using an **upgradability pattern**. The most established and reliable method is the **Transparent Proxy Pattern**.
+Deploying a completely new contract and migrating all associated data and users can be complex and costly. The solution lies in using an **upgradability pattern**. The most established and reliable method is the **Transparent Proxy Pattern**.
 
 This article explains how this pattern operates and how you can apply it to develop flexible and maintainable smart contracts.
 

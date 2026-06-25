@@ -16,7 +16,7 @@ Initially branded as Matic Network, Polygon represents not just a singular offer
 
 ### Understanding Ethereum's Scalability Challenge
 
-The Ethereum mainnet is limited to processing a relatively small number of transactions per second. This constraint creates bottlenecks, resulting in improve transaction fees, commonly referred to as "gas," particularly during peak demand periods. Polygon's solutions aim to mitigate these issues by facilitating transactions on dedicated, faster chains before bridging them back to Ethereum.
+The Ethereum mainnet is limited to processing a relatively small number of transactions per second. This constraint creates bottlenecks, resulting in improve transaction fees, commonly referred to as "gas," particularly during peak demand periods. Polygon's solutions aim to mitigate these issues by enabling transactions on dedicated, faster chains before bridging them back to Ethereum.
 
 ### Overview of Polygon's Solutions
 

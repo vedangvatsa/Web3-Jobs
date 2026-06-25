@@ -14,7 +14,7 @@ DeFi refers to a category of financial applications built on blockchain networks
 
 ## The DeFi Revolution
 
-Traditional finance relies on institutions to facilitate transactions, hold assets, and enforce contracts. DeFi replaces these intermediaries with code running on public blockchains. This shift enables:
+Traditional finance relies on institutions to enable transactions, hold assets, and enforce contracts. DeFi replaces these intermediaries with code running on public blockchains. This shift enables:
 
 - 24/7 markets with no trading hours or settlement delays
 - Permissionless access, with no credit checks or account approvals required
@@ -25,7 +25,7 @@ Traditional finance relies on institutions to facilitate transactions, hold asse
 
 - **Lending and Borrowing**: Protocols like Aave and Compound allow users to lend crypto assets to earn interest or borrow against collateral. Interest rates adjust algorithmically based on supply and demand.
 
-- **Decentralized Exchanges (DEXs)**: Platforms like Uniswap and Curve enable peer-to-peer token trading without centralized order books. Automated Market Makers (AMMs) use liquidity pools to facilitate trades.
+- **Decentralized Exchanges (DEXs)**: Platforms like Uniswap and Curve enable peer-to-peer token trading without centralized order books. Automated Market Makers (AMMs) use liquidity pools to enable trades.
 
 - **Stablecoins**: Cryptocurrencies designed to maintain stable value, either backed by reserves (USDC) or algorithmically managed (DAI), provide a stable medium of exchange within DeFi.
 

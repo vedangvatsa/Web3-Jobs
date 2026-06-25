@@ -25,7 +25,7 @@ Historically, ownership in digital spaces has been tenuous. Purchasing a film on
 
 Traditional finance relies heavily on intermediaries such as banks. The **[DeFi](/what-is-defi)** movement seeks to reconstruct this financial system using open, permissionless blockchains.
 
-- **The Change:** Through **[smart contracts](/what-are-smart-contracts)**, DeFi protocols facilitate peer-to-peer lending, borrowing, and trading without centralized control. Users can earn interest on their assets, secure loans, or trade **[tokens](/what-is-a-token)** directly from their personal **[crypto wallets](/how-to-choose-a-crypto-wallet)**.
+- **The Change:** Through **[smart contracts](/what-are-smart-contracts)**, DeFi protocols enable peer-to-peer lending, borrowing, and trading without centralized control. Users can earn interest on their assets, secure loans, or trade **[tokens](/what-is-a-token)** directly from their personal **[crypto wallets](/how-to-choose-a-crypto-wallet)**.
 - **The Impact:** This framework creates a transparent, global financial system that is accessible 24/7 to anyone with internet access, eliminating the need for traditional financial gatekeepers.
 
 ### 3. Community-Owned and Governed Platforms (DAOs)
@@ -37,7 +37,7 @@ Web2 is characterized by corporate-owned platforms. Conversely, **[Web3](/what-i
 
 ### 4. Micropayments and the Creator Economy
 
-Conventional payment systems impose high fees that complicate the process of sending small amounts of money online. Cryptocurrency facilitates efficient micropayments.
+Conventional payment systems impose high fees that complicate the process of sending small amounts of money online. Cryptocurrency enables efficient micropayments.
 
 - **The Change:** On scalable **[Layer 2 networks](/guide-to-layer-2s)**, users can transfer fractions of a cent's worth of stablecoins globally and almost instantly.
 - **The Impact:** This capability opens new revenue streams for content creators; for example, a writer could earn small amounts each time someone reads their work. Musicians could receive payments for every stream. This model promotes a more direct and equitable relationship between creators and their audiences.

@@ -67,7 +67,7 @@ Practical experience is the most effective way to learn.
 
 ### The Future of Programming
 
-Prompt engineering will not replace traditional programming. Skilled engineers will remain essential for constructing the underlying infrastructure, the AI models themselves, and the complex applications that use them. Nonetheless, for a substantial range of technical and non-technical roles, the primary interface with computational systems will rely on prompts.
+Prompt engineering will not replace traditional programming. Skilled engineers will remain essential for constructing the underlying infrastructure, the AI models themselves, and the complex applications that use them. still, for a substantial range of technical and non-technical roles, the primary interface with computational systems will rely on prompts.
 
 Mastering the craft of clear, precise, and creative communication with AI represents the most advantageous skill you can cultivate. It serves as the foundation for numerous careers in the coming decade.
 

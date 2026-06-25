@@ -115,7 +115,7 @@ Token economics creates roles:
 
 - **Data Analysts** tracking burning impact earn competitive salaries.
 
-- **Governance Specialists** facilitating burn voting earn competitive salaries.
+- **Governance Specialists** enabling burn voting earn competitive salaries.
 
 ## Best Practices
 

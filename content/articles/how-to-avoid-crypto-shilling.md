@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 In the dynamic world of [Web3](/what-is-web3), marketing presents both challenges and opportunities. It is essential to create enthusiasm and establish a community around your project while maintaining ethical standards. Distinguishing between authentic marketing and "shilling," the insincere promotion of a [token](/what-is-a-token) for quick profit, is critical for long-term success.
 
-For **[Web3 marketing professionals](/crypto-marketing-jobs)**, this distinction plays a key role in developing a sustainable brand and building a loyal community. While shilling may generate a temporary increase in token value, it undermines the essential element of any project: trust. This guide outlines how to conduct ethical and effective marketing in Web3 without resorting to shilling.
+For **[Web3 marketing professionals](/crypto-marketing-jobs)**, this distinction is important for developing a sustainable brand and building a loyal community. While shilling may generate a temporary increase in token value, it undermines the essential element of any project: trust. This guide outlines how to conduct ethical and effective marketing in Web3 without resorting to shilling.
 
 ### The Golden Rule: Educate, Don't Speculate
 

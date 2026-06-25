@@ -106,7 +106,7 @@ Consistency is key in relationship-building:
 ### Online Platforms
 
 **Discord Servers** 
-These are often the most active spaces for immediate interaction. They facilitate real conversations and connect you directly with the core team and community members.
+These are often the most active spaces for immediate interaction. They enable real conversations and connect you directly with the core team and community members.
 
 **Twitter/X** 
 Use this platform to share insights and engage with community discussions. Direct messaging can help initiate connections with individuals you admire.
@@ -115,7 +115,7 @@ Use this platform to share insights and engage with community discussions. Direc
 Demonstrate your technical skills through collaborative coding projects. Engage with others’ code to learn and contribute meaningfully.
 
 **Telegram and Dedicated Chats** 
-These platforms facilitate more intimate conversations, enabling deeper connections focused on specific projects or groups.
+These platforms enable more intimate conversations, enabling deeper connections focused on specific projects or groups.
 
 ### In-Person Events
 

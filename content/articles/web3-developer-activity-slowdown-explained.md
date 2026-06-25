@@ -32,7 +32,7 @@ When market conditions shift and speculation wanes, a natural correction occurs.
 
 The developers who remain during a bear market tend to be the most committed and skilled. This shift leads to a change in the nature of development activity:
 
-* **Emphasis on Core Infrastructure:** With less urgency to deliver products quickly amid market hype, teams can concentrate on enhancing core infrastructure, bolstering security, and optimizing protocols.
+* **Emphasis on Core Infrastructure:** With less urgency to deliver products quickly amid market hype, teams can concentrate on enhancing core infrastructure, strengthening security, and optimizing protocols.
 * **Higher Impact Contributions:** A smaller group of highly skilled developers can produce more significant advancements than a larger pool of less experienced individuals. For instance, a major protocol upgrade holds more value than numerous minor bug fixes.
 * **Increased Private Development:** As the industry matures, more development occurs in private [GitHub](/building-web3-portfolio) repositories. This "dark matter" of development, not captured by public analytics, signifies a substantial portion of the work undertaken by dedicated teams.
 
@@ -50,6 +50,6 @@ The result is a powerful network effect. Dominant platforms attract the most dev
 
 ### A Healthier, More Sustainable Ecosystem
 
-The predominant narrative of a "Web3 developer slowdown" oversimplifies a more intricate and positive trend. The exit of speculative developers and the consolidation of talent around established platforms do not signify a crisis; they mark the evolution of a healthy, matured industry.
+The predominant narrative of a "Web3 developer slowdown" oversimplifies a more complex and positive trend. The exit of speculative developers and the consolidation of talent around established platforms do not signify a crisis; they mark the evolution of a healthy, matured industry.
 
 The Web3 ecosystem emerging from the bear market is focused, resilient, and composed of a higher concentration of experienced developers tackling sophisticated challenges. The so-called "slowdown" represents a strategic refocusing, laying the foundation for the next wave of innovation and adoption.

@@ -48,7 +48,7 @@ The Web3 BizDev role differs significantly from traditional sales or business de
 
 1. **Establish a Public Presence:** Your Twitter account serves as a digital resume. Share market insights, highlight promising projects, and engage in meaningful discussions to demonstrate your expertise and connectivity within the ecosystem.
 
-2. **Become a Super-Connector:** Facilitate valuable introductions within your network. Connecting individuals who can mutually benefit establishes your reputation as a vital contributor to the ecosystem.
+2. **Become a Super-Connector:** Enable valuable introductions within your network. Connecting individuals who can mutually benefit establishes your reputation as a vital contributor to the ecosystem.
 
 3. **Specialize in a Niche:** Focus on becoming an expert in a specific sector, such as DeFi, Web3 Gaming, Layer 2 solutions, or decentralized physical infrastructure networks (DePIN). This specialization positions you as a go-to resource for high-value partnership opportunities.
 

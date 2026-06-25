@@ -55,7 +55,7 @@ STOs provide several advantages:
 
 - **Liquidity Access**: Tokenizing traditionally illiquid assets, such as shares in private companies or real estate, creates opportunities for liquidity in a 24/7 global market.
 
-- **Fractional Ownership**: STOs facilitate dividing assets into smaller units, allowing more investors to participate in high-value investments.
+- **Fractional Ownership**: STOs enable dividing assets into smaller units, allowing more investors to participate in high-value investments.
 
 - **Process Automation**: Smart contracts can automate functions like dividend payments and interest distributions, minimizing administrative burdens.
 
@@ -63,13 +63,13 @@ STOs provide several advantages:
 
 Despite their advantages, STOs face several challenges:
 
-- **Regulatory Complexity**: Adhering to securities laws can be intricate and costly, establishing a high barrier for many projects.
+- **Regulatory Complexity**: Adhering to securities laws can be complex and costly, establishing a high barrier for many projects.
 
 - **Market Infrastructure**: The ecosystem for security token exchanges and broker-dealers remains underdeveloped compared to traditional crypto markets, which may limit liquidity options.
 
 - **Restricted Participation**: Many STOs are only available to accredited investors, reducing accessibility compared to the open nature of utility token sales.
 
-STOs create a vital connection between traditional finance (TradFi) and decentralized finance ([DeFi](/what-is-defi)). Although they limit the permissionless aspect of earlier crypto projects, they provide a compliant method for integrating real-world assets and financial instruments into the blockchain, potentially facilitating significant value for the Web3 ecosystem.
+STOs create a vital connection between traditional finance (TradFi) and decentralized finance ([DeFi](/what-is-defi)). Although they limit the permissionless aspect of earlier crypto projects, they provide a compliant method for integrating real-world assets and financial instruments into the blockchain, potentially enabling significant value for the Web3 ecosystem.
 
 ## Importance of Understanding STOs
 

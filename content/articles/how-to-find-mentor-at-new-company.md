@@ -207,7 +207,7 @@ Mentorship doesn't have to be the same for everyone. Consider the relationship t
 - Someone at a similar level with complementary skills.
 - Mutual teaching and learning.
 - Often more casual and frequent.
-- Best for: Building specific skills or navigating similar challenges.
+- Best for: Building specific skills or working through similar challenges.
 - Example: A peer who's excellent at public speaking helps you prepare presentations; you help them with technical skills.
 
 **The Sponsor:**
@@ -307,7 +307,7 @@ A: Gracefully and professionally:
 - Express gratitude for their time.
 - Leave the door open for future occasional check-ins.
 
-Example: "I've learned so much from our conversations about navigating this organization. I'm now trying to develop deeper technical expertise in X area, and I think I need to focus on mentors with that specific background. But I really appreciate your guidance and support."
+Example: "I've learned so much from our conversations about working through this organization. I'm now trying to develop deeper technical expertise in X area, and I think I need to focus on mentors with that specific background. But I really appreciate your guidance and support."
 
 ### Building a Mentorship Culture Around You
 

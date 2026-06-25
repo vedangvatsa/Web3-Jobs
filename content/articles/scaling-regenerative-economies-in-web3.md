@@ -25,7 +25,7 @@ ReFi does not oppose profit; it redefines it. In a regenerative economy, profit 
 
 ### Core Primitives of Regenerative Finance
 
-The ReFi ecosystem is developing a new set of "money legos" designed to facilitate impactful initiatives.
+The ReFi ecosystem is developing a new set of "money legos" designed to enable impactful initiatives.
 
 #### 1. On-Chain Carbon Markets
 

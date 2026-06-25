@@ -26,7 +26,7 @@ Conversely, a zkEVM strives to create ZK-proofs directly for the EVM itself, pre
 
 ### Understanding zkEVM Functionality: High-Level Architecture
 
-The architecture of zkEVM is designed to facilitate integration with existing Ethereum tools and operations. Here’s a step-by-step breakdown:
+The architecture of zkEVM is designed to enable integration with existing Ethereum tools and operations. Here’s a step-by-step breakdown:
 
 1. **Standard Ethereum Tools**: Developers write smart contracts in Solidity and compile them using familiar tools such as Hardhat or Foundry.
 2. **Deployment to L2**: The compiled EVM bytecode is deployed onto the zkEVM Layer 2 network.
@@ -72,6 +72,6 @@ Grasping the implications of zkEVMs is vital for professionals aiming to excel i
 
 3. **Develop a Tailored Learning Strategy**: Create a personalized plan to enhance your knowledge and skills related to zkEVMs. Consider your role, team dynamics, organizational culture, and personal goals when crafting this strategy.
 
-4. **Implement Gradually**: Start by integrating small changes into your workflow. Focus on one or two specific areas of improvement related to zkEVMs, and build from there. Keep track of what works and what does not to facilitate continuous improvement.
+4. **Implement Gradually**: Start by integrating small changes into your workflow. Focus on one or two specific areas of improvement related to zkEVMs, and build from there. Keep track of what works and what does not to enable continuous improvement.
 
 5. **Measure and Adjust Your Progress**: Regularly evaluate your progress towards mastering zkEVMs. Make adjustments to your learning strategy based on feedback and outcomes. Adopting a mindset of continuous improvement will enhance your development.

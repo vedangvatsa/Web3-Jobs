@@ -16,7 +16,7 @@ On January 12, 2009, just days after the Bitcoin network's inception with the mi
 
 This transaction represented a historic moment in digital history. It marked the first instance of value being transmitted between two individuals on a decentralized network without relying on a traditional bank or intermediary. This transaction realized the vision articulated in the Bitcoin whitepaper: "A Peer-to-Peer Electronic Cash System." Permanently recorded in Block 170 of the Bitcoin [blockchain](/what-is-a-blockchain), it was a simple handshake between two cypherpunks, yet its implications were profound. It provided proof that Satoshi's theoretical invention operated effectively in practice.
 
-The anniversary of this transaction serves as a celebration within the crypto community. It signifies Bitcoin's transition from a singular endeavor, with Satoshi as the only participant, to a collaborative network. This moment sparked the network effect that ultimately established Bitcoin as a global phenomenon.
+The anniversary of this transaction serves as a celebration within the crypto community. It signifies Bitcoin's transition from a singular effort, with Satoshi as the only participant, to a collaborative network. This moment sparked the network effect that ultimately established Bitcoin as a global phenomenon.
 
 ## The Participants: A Tale of Two Legends
 

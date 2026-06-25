@@ -72,7 +72,7 @@ A prompt is the input, usually text, provided to a generative AI model to specif
 Generative AI is more likely to augment human creativity. Many professionals use it as a tool to enhance workflows, brainstorm ideas, and explore possibilities beyond their initial thoughts. It acts as a powerful creative partner, relying on human input for direction and vision.
 
 **5. How does generative AI relate to the metaverse?** 
-Generative AI could play a vital role in developing the metaverse by creating the substantial 3D content, environments, and virtual objects necessary for immersive virtual spaces.
+Generative AI could are important for developing the metaverse by creating the substantial 3D content, environments, and virtual objects necessary for immersive virtual spaces.
 
 ### Importance of Understanding Generative AI
 

@@ -105,7 +105,7 @@ DeFi protocols need to know the price of assets (e.g., "What is the price of ETH
 A **Flash Loan** allows anyone to borrow tens of millions of dollars with no collateral, provided they return it in the same transaction block. Hackers use flash loans to massively disrupt a DEX pool's price, forcing the lending protocol to read the fake price. They then exploit the confused protocol (e.g., borrowing $10M against collateral that is temporarily reading as worth $100M).
 
 ### 3. Bridge Hacks
-To move assets from Ethereum to Solana, you use a "bridge." A bridge works by locking your Ethereum in a smart contract and minting equivalent tokens on Solana. Bridges hold massive amounts of crypto, making them prime targets. Some of the largest hacks in crypto history ($600M+) have been bridge exploits where hackers forged signatures to unlock the funds.
+To move assets from Ethereum to Solana, you use a "bridge." A bridge works by locking your Ethereum in a smart contract and minting equivalent tokens on Solana. Bridges hold massive amounts of crypto, making them prime targets. Some of the largest hacks in crypto history ($600M+) have been bridge exploits where hackers forged signatures to enable the funds.
 
 ## How to Evaluate Protocol Safety
 

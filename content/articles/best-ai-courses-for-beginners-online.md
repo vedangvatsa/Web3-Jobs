@@ -23,7 +23,7 @@ If your aim is to grasp the fundamentals of AI, its workings, and its societal i
 |------------------------------|-------------------------------------------------------------------------|
 | **Cost** | Free |
 | **Best for** | Absolute beginners seeking a non-technical introduction to AI concepts. |
-| **Why it’s great** | Created by the University of Helsinki, this course demystifies AI. It includes clear explanations, interactive examples, and requires no coding. You will learn about AI definitions, machine learning, neural networks, and ethical considerations, all while developing a foundational intuition about AI's role in society.
+| **Why it’s great** | Created by the University of Helsinki, this course explains AI. It includes clear explanations, interactive examples, and requires no coding. You will learn about AI definitions, machine learning, neural networks, and ethical considerations, all while developing a foundational intuition about AI's role in society.
 
 #### 2. AI For Everyone (Coursera, taught by Andrew Ng)
 
@@ -67,7 +67,7 @@ If you aim to develop AI models, you will need programming skills, typically sta
 |------------------------------|-------------------------------------------------------------------------|
 | **Cost** | Free |
 | **Best for** | Individuals with programming experience preferring a practical approach. |
-| **Why it’s great** | The fast.ai course adopts a top-down approach, allowing you to train an image classifier from the first lesson. You will quickly engage with practical skills before diving into the underlying theory. The course uses the `fastai` library, built on PyTorch, facilitating rapid results.
+| **Why it’s great** | The fast.ai course adopts a top-down approach, allowing you to train an image classifier from the first lesson. You will quickly engage with practical skills before diving into the underlying theory. The course uses the `fastai` library, built on PyTorch, enabling rapid results.
 
 ### How to Choose the Right Course for You
 
@@ -84,7 +84,7 @@ Commitment is essential in this learning journey. Allocate specific hours weekly
 For the non-technical track, advanced math skills are not required. However, for the technical track, a solid understanding of high school-level math, including algebra and basic calculus, is advantageous. Courses by Andrew Ng effectively teach the necessary mathematical concepts, so a university-level background is not mandatory for beginners.
 
 **2. How long will it take to learn AI?** 
-Completing a course like "Elements of AI" can take a few weeks for a basic understanding. However, becoming a proficient machine learning engineer requires a longer commitment. Completing a full specialization on Coursera may take several months of consistent study. Mastery in AI is a gradual process rather than a quick endeavor.
+Completing a course like "Elements of AI" can take a few weeks for a basic understanding. However, becoming a proficient machine learning engineer requires a longer commitment. Completing a full specialization on Coursera may take several months of consistent study. Mastery in AI is a gradual process rather than a quick effort.
 
 **3. What is the best programming language for AI?** 
 Python reigns supreme in AI and machine learning due to its straightforward syntax and full libraries such as TensorFlow, PyTorch, and scikit-learn. If you plan to learn coding for AI, start with Python.

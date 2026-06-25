@@ -54,4 +54,4 @@ Yield farming is not a passive investment; it requires active management and com
 
 - **Liquidation Risk**: Advanced yield farming strategies may involve borrowing assets to amplify positions. If market conditions shift unfavorably, the collateral provided can be liquidated, resulting in total loss.
 
-Yield farming serves as a strong mechanism within the DeFi ecosystem, offering high-risk, high-reward opportunities. It facilitates liquidity for new protocols while allowing sophisticated users to generate returns that significantly surpass those available in traditional finance.
+Yield farming serves as a strong mechanism within the DeFi ecosystem, offering high-risk, high-reward opportunities. It enables liquidity for new protocols while allowing sophisticated users to generate returns that significantly surpass those available in traditional finance.

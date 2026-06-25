@@ -24,7 +24,7 @@ A privacy engineer employs cryptographic techniques to establish confidentiality
 
 Privacy engineers undertake several important tasks:
 
-- **Protocol Design:** They design cryptographic protocols that facilitate private transactions or maintain confidential smart contract states.
+- **Protocol Design:** They design cryptographic protocols that enable private transactions or maintain confidential smart contract states.
 - **Circuit Engineering:** Engineers write, optimize, and audit the ZK circuits central to privacy-preserving systems.
 - **Integration:** Collaboration with application developers is important for the smooth integration of privacy technologies into user-facing decentralized applications (dApps).
 

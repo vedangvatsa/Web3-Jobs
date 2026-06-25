@@ -52,11 +52,11 @@ The MEV ecosystem consists of three key participants:
 2. **Builders**: Specialized entities that construct the most profitable block possible using bundles from multiple searchers. They use algorithms to identify the best combination of bundles and regular transactions.
 3. **Proposers (Validators)**: The chosen validator for the next block does not need to construct the block themselves. With Proposer-Builder Separation (PBS), they can auction their block space to the highest bidding builder. The builder that constructs the most profitable block will pay the highest bid to the proposer.
 
-This arrangement, facilitated by infrastructure like **Flashbots**, seeks to democratize MEV and prevent "gas wars," where searchers escalate gas fees to gain transaction inclusion. It encourages a more orderly and efficient private market for MEV extraction.
+This arrangement, enabled by infrastructure like **Flashbots**, seeks to democratize MEV and prevent "gas wars," where searchers escalate gas fees to gain transaction inclusion. It encourages a more orderly and efficient private market for MEV extraction.
 
 ### MEV: A Double-Edged Sword
 
-The discussion surrounding MEV is intricate. On one hand, it poses as a predatory "invisible tax" on users. Sandwich attacks and front-running diminish the experience for everyday users and create perceptions of a manipulated system.
+The discussion surrounding MEV is complex. On one hand, it poses as a predatory "invisible tax" on users. Sandwich attacks and front-running diminish the experience for everyday users and create perceptions of a manipulated system.
 
 Conversely, some forms of MEV are important for market efficiency. DEX arbitrage enforces price uniformity across the DeFi ecosystem. Liquidations are essential for ensuring the solvency of lending protocols.
 

@@ -41,7 +41,7 @@ The essential insight is that not all nodes need to process all transactions. Su
 
 2. **Validator Assignment:** Validators in the network are randomly assigned to various shards to process transactions and uphold security. This random assignment is vital for security, as it prevents validators from colluding to dominate a single shard and commit fraud. If validators were allowed to choose their shard, a small group could concentrate their efforts and compromise that shard.
 
-3. **Cross-Shard Communication:** A central "Beacon Chain" or "Relay Chain" orchestrates the shards, manages the validator set, and facilitates secure communication between them. The Beacon Chain does not process user transactions; rather, it manages the system's overall coordination. This architecture is referred to as "beacon chain sharding."
+3. **Cross-Shard Communication:** A central "Beacon Chain" or "Relay Chain" orchestrates the shards, manages the validator set, and enables secure communication between them. The Beacon Chain does not process user transactions; rather, it manages the system's overall coordination. This architecture is referred to as "beacon chain sharding."
 
 4. **Consensus:** Each shard operates a consensus mechanism, which is often simpler than that of the main chain due to fewer transactions. The Beacon Chain aggregates these shard states and establishes the canonical history.
 
@@ -137,4 +137,4 @@ Understanding sharding can be beneficial for various professionals:
 
 - **Systems Engineers:** Implementing sharding requires extensive knowledge of distributed systems.
 
-Professionals adept at navigating the technical complexities of sharding are in high demand in the [Web3](/what-is-web3) ecosystem.
+Professionals adept at working through the technical complexities of sharding are in high demand in the [Web3](/what-is-web3) ecosystem.

@@ -47,7 +47,7 @@ This new approach yields significant advantages.
 | Advantage | Description |
 |---------------------------|-----------------------------------------------------------------------------------------------------------|
 | Democratized Access | Individuals can invest in high-quality, income-generating real estate with minimal capital. |
-| Enhanced Liquidity | Tokenized properties can be traded on secondary markets, facilitating quick transactions and immediate liquidity. |
+| Enhanced Liquidity | Tokenized properties can be traded on secondary markets, enabling quick transactions and immediate liquidity. |
 | Increased Transparency | Every transaction is recorded on an immutable public blockchain, providing a reliable source of truth for ownership. |
 | Reduced Costs | Smart contracts automate processes, reducing the need for intermediaries and lowering transaction fees. |
 | Global Markets | Tokenization allows for easy investment across borders, making it simple to invest in properties worldwide. |
@@ -68,6 +68,6 @@ While still maturing, the Web3 real estate industry holds immense potential. Fut
 
 1. **Your Property as a [DeFi](/what-is-defi) Asset**: Tokenized real estate could serve as collateral for loans on DeFi platforms, enhancing financial flexibility for property owners.
 
-2. **Automated Rental Income**: Smart contracts can facilitate the collection and distribution of rental income to token holders' wallets monthly, simplify income management.
+2. **Automated Rental Income**: Smart contracts can enable the collection and distribution of rental income to token holders' wallets monthly, simplify income management.
 
 3. **[DAO](/what-is-a-dao)-Governed Properties**: Token holders may collectively manage properties as a Decentralized Autonomous Organization (DAO), participating in decisions related to maintenance and rental policies.

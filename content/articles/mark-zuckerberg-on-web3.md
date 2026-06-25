@@ -14,7 +14,7 @@ lastUpdated: "2026-06-15"
 
 Mark Zuckerberg, the founder and CEO of Meta (formerly Facebook), has made a significant corporate pivot by betting the future of his multi-billion dollar company on the metaverse. While he does not align with decentralization purists, his vision incorporates several core Web3 technologies, such as [NFTs](/what-are-nfts), digital ownership, and creator economies. This approach raises concerns about the potential for a centralized, corporate-controlled internet versus the open, decentralized vision advocated by the Web3 community.
 
-Zuckerberg's formal entry into this new era began with the rebranding of Facebook to Meta in October 2021. He described the metaverse as "an embodied internet where you’re in the experience, not just looking at it." In his vision, the metaverse will consist of interconnected digital spaces where users can work, socialize, play, and create. To facilitate this vision, Meta has invested significantly into its Reality Labs division, developing hardware like the Quest VR headsets and software platforms such as Horizon Worlds.
+Zuckerberg's formal entry into this new era began with the rebranding of Facebook to Meta in October 2021. He described the metaverse as "an embodied internet where you’re in the experience, not just looking at it." In his vision, the metaverse will consist of interconnected digital spaces where users can work, socialize, play, and create. To enable this vision, Meta has invested significantly into its Reality Labs division, developing hardware like the Quest VR headsets and software platforms such as Horizon Worlds.
 
 The economic layer of this new world connects directly to Web3 principles. Zuckerberg has emphasized the need for users to feel a sense of ownership over their digital goods for the metaverse to be engaging. This is where NFTs and other digital assets are relevant. Meta has gradually integrated NFTs into its platforms, enabling creators and users to display their digital collectibles on Instagram and Facebook. The long-term goal involves creating a marketplace where users can buy, sell, and trade digital items, from avatar clothing to virtual art and real estate, which would be portable across different experiences within the Meta ecosystem.
 
@@ -64,7 +64,7 @@ The key difference lies in control and ownership. Meta's metaverse (such as Hori
 
 **Q3: Why did Meta's cryptocurrency project, Diem (Libra), fail?**
 
-Diem faced strong opposition from global regulators and central banks. Concerns arose that a private, global currency controlled by one corporation could threaten monetary sovereignty, facilitate money laundering, and pose risks to financial stability. The regulatory challenges proved too significant, leading to the project's eventual discontinuation.
+Diem faced strong opposition from global regulators and central banks. Concerns arose that a private, global currency controlled by one corporation could threaten monetary sovereignty, enable money laundering, and pose risks to financial stability. The regulatory challenges proved too significant, leading to the project's eventual discontinuation.
 
 **Q4: Can NFTs from Meta's platform be used on other Web3 platforms?**
 

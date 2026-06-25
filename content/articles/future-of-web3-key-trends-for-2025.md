@@ -68,7 +68,7 @@ DeSo's key innovation lies in separating the social graph from the application l
 
 Initial DeSo applications struggled with complex onboarding and the requirement to pay for every interaction. Newer protocols are addressing these issues with:
 
-- **Account Abstraction (EIP-4337):** Facilitating social logins and eliminating the need for seed phrases.
+- **Account Abstraction (EIP-4337):** Enabling social logins and eliminating the need for seed phrases.
 - **Gasless Transactions:** Protocols subsidizing gas fees to create a user experience akin to Web2.
 
 ## 4. Real-World Asset (RWA) Tokenization Gains Momentum

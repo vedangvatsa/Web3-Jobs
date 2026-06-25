@@ -20,7 +20,7 @@ The CRISPR-Cas9 system comprises two essential components:
 
 1. **Guide RNA (gRNA)**: This RNA strand acts as the navigator in the editing process. Scientists design gRNA to correspond to a specific DNA sequence they wish to target. Its role is to locate the correct position within the genome for the modification.
 
-2. **Cas9 Enzyme**: This protein serves as the molecular scissors, facilitating the cut in the DNA strand. Once the gRNA binds to its target sequence, the Cas9 enzyme cleaves the DNA at that precise location.
+2. **Cas9 Enzyme**: This protein serves as the molecular scissors, enabling the cut in the DNA strand. Once the gRNA binds to its target sequence, the Cas9 enzyme cleaves the DNA at that precise location.
 
 ### Editing Process
 

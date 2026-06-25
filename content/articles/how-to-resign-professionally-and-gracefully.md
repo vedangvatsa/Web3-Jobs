@@ -65,7 +65,7 @@ While two weeks is customary, consult your employment contract for specific noti
 
 ### 4. Develop a Transition Plan
 
-During your final two weeks, focus on facilitating a smooth handover. Collaborate with your manager to create a transition plan that may include:
+During your final two weeks, focus on enabling a smooth handover. Collaborate with your manager to create a transition plan that may include:
 
 | Task | Description |
 |------------------------------------------|------------------------------------------------------------------------|

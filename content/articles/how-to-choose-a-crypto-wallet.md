@@ -39,7 +39,7 @@ Hot wallets are software applications that run on your computer or mobile device
 - **Examples:**
  - **Browser Extensions:** MetaMask, Rabby, Phantom (for Solana).
  - **Mobile Wallets:** Trust Wallet, Rainbow Wallet.
-- **Usage:** Ideal for managing small amounts of crypto for daily transactions. A hot wallet functions like a physical wallet or a checking account, facilitating interactions with dApps, trading, and NFT minting.
+- **Usage:** Ideal for managing small amounts of crypto for daily transactions. A hot wallet functions like a physical wallet or a checking account, enabling interactions with dApps, trading, and NFT minting.
 - **Security Risk:** Since they are always online, hot wallets are more susceptible to malware, phishing attacks, and other remote hacks.
 
 #### Cold Wallets (Offline)

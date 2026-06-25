@@ -16,9 +16,9 @@ Web3 offers ample opportunities to engage with advanced technology, tackle compl
 
 ### 1. Protocol Engineer: Building the Foundation
 
-- **Role Overview:** Protocol engineers design and maintain the core Layer 1 and Layer 2 blockchains that form the bedrock of the Web3 ecosystem. Their work involves intricate systems-level design focused on consensus mechanisms, virtual machines, and cryptographic protocols.
+- **Role Overview:** Protocol engineers design and maintain the core Layer 1 and Layer 2 blockchains that form the bedrock of the Web3 ecosystem. Their work involves complex systems-level design focused on consensus mechanisms, virtual machines, and cryptographic protocols.
 - **Rewards of the Role:**
- - **Intellectual Challenge:** Protocol engineers confront some of the most intricate problems in distributed systems and computer science, pushing the boundaries of technology.
+ - **Intellectual Challenge:** Protocol engineers confront some of the most complex problems in distributed systems and computer science, pushing the boundaries of technology.
  - **Impact:** The code developed by protocol engineers serves as the backbone for a vast array of applications and developers, resulting in significant long-term influence.
  - **Collaboration:** Professionals in this field work with leading researchers and innovators, supporting an environment rich in knowledge exchange and collaboration.
 - **Pathway to Entry:** Candidates typically need a strong academic foundation in computer science and proficiency in low-level programming languages like Rust or Go.

@@ -35,7 +35,7 @@ Historically, implementing this change required a fundamental alteration of the 
 
 ### The Key Components of EIP-4337
 
-EIP-4337 introduces several key components that work together to facilitate smart contract wallets:
+EIP-4337 introduces several key components that work together to enable smart contract wallets:
 
 1. **UserOperation:** This data structure represents a user's intended action (e.g., "send 0.1 ETH to address X"). The user signs this `UserOperation` with a specific signing key associated with their smart wallet.
 2. **Bundler:** A Bundler is a node operator that monitors a dedicated mempool for `UserOperations`. It aggregates multiple operations into a single standard Ethereum transaction before sending it to a global smart contract known as the `EntryPoint`. Bundlers receive a portion of the gas fees as compensation.
@@ -59,7 +59,7 @@ This complex flow remains entirely transparent to the user. The user experience 
 
 ## Benefits of Account Abstraction: Specific Features Smart Wallets Enable
 
-Smart contract wallets facilitate features that EOAs cannot offer:
+Smart contract wallets enable features that EOAs cannot offer:
 
 - **Social Recovery:** This feature allows users to designate trusted individuals or institutions as "guardians" to assist in account recovery if the primary device is lost. This capability mitigates the risk associated with losing a seed phrase, a significant barrier to adoption.
 - **Gasless Transactions:** With Paymasters, dApps can sponsor users' transactions. For instance, new users can post on a social media dApp without needing to purchase ETH first, significantly reducing onboarding friction.

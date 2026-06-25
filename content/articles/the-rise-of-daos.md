@@ -87,7 +87,7 @@ DAOs can be categorized based on their functions.
 - **Grants DAOs**: These focus on funding projects that align with their mission, like Gitcoin, which supports open-source development.
 - **Social DAOs**: Organized around shared interests, these DAOs may coordinate content creation or community engagement efforts.
 - **Media DAOs**: These collectively produce content, with members voting on content creation and revenue distribution.
-- **Employment DAOs**: These facilitate freelance work by organizing projects and making decisions collectively.
+- **Employment DAOs**: These enable freelance work by organizing projects and making decisions collectively.
 - **Treasury DAOs**: These manage and deploy assets on behalf of their communities.
 
 ### The Future of DAOs
@@ -98,7 +98,7 @@ DAOs are still in their infancy but are progressing rapidly.
 - **Regulatory Clarity**: As legal frameworks evolve, clearer regulations will promote broader adoption and reduce risks associated with operating DAOs.
 - **Integration with Traditional Organizations**: Some traditional organizations are adopting DAO principles, creating hybrid models that blend both approaches.
 - **Expansion Beyond Finance**: As understanding of DAO mechanics grows, applications will likely extend into various non-financial sectors, including community governance and social organizations.
-- **Better Tooling**: Enhanced tools for DAO participation will simplify voting, wallet management, and transaction processes, facilitating user engagement.
+- **Better Tooling**: Enhanced tools for DAO participation will simplify voting, wallet management, and transaction processes, enabling user engagement.
 - **Specialization**: DAOs will evolve to focus on specific functions and purposes, moving away from a one-size-fits-all model.
 
 ### DAOs and Career Opportunities

@@ -32,7 +32,7 @@ This process will continue until 2140, when all 21 million Bitcoins will be mine
 
 ### Significance of Halving Events
 
-Halving events play a key role in Bitcoin's economic model and its reputation as a scarce digital asset, often likened to "digital gold."
+Halving events are important for Bitcoin's economic model and its reputation as a scarce digital asset, often likened to "digital gold."
 
 1. **Predictable Supply Reduction:** The halving guarantees that Bitcoin's new supply is both predictable and diminishes over time. Central banks can print fiat currency at will, leading to inflation. In contrast, Bitcoin's supply is systematically constrained.
 

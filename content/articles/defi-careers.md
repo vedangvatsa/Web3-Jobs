@@ -48,7 +48,7 @@ While a finance background can be beneficial, it is not a strict requirement. Ma
 
 ### Backend/Full-Stack Developers
 
-DeFi projects require significant infrastructure support beyond smart contracts. Backend and full-stack developers create servers, databases, and other systems that facilitate the functioning of applications.
+DeFi projects require significant infrastructure support beyond smart contracts. Backend and full-stack developers create servers, databases, and other systems that enable the functioning of applications.
 
 These roles mirror traditional engineering positions but specifically cater to DeFi applications. Proficiency in languages such as Python, Go, Rust, or Node.js is essential. Compensation for backend developers typically falls within a competitive range.
 

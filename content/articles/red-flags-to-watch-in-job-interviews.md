@@ -64,7 +64,7 @@ Identifying these red flags enables you to make informed decisions about potenti
 
 **What if I only notice a red flag after I’ve accepted the offer?**
 
-If you recognize serious red flags post-acceptance, consider rescinding your acceptance before starting the role. While difficult, it’s preferable to navigate this conversation than to endure a toxic work environment.
+If you recognize serious red flags post-acceptance, consider rescinding your acceptance before starting the role. While difficult, it’s preferable to work through this conversation than to endure a toxic work environment.
 
 **Are there any "green flags" I should look for?**
 

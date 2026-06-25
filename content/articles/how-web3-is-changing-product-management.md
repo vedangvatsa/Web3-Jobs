@@ -32,7 +32,7 @@ In Web2, the business model is clear: extract value from users. In contrast, Web
 
 - **Protocol Revenue:** Successful protocols generate revenue through usage fees. Uniswap, for instance, charges a small fee on each trade, and this revenue is integral to the protocol rather than a company’s profit.
 
-- **Value Accrual Mechanisms:** It is essential for the Product Manager to design mechanisms that facilitate the flow of protocol revenue to token holders. Common models include:
+- **Value Accrual Mechanisms:** It is essential for the Product Manager to design mechanisms that enable the flow of protocol revenue to token holders. Common models include:
  - **Fee Sharing:** A portion of the protocol’s revenue is allocated directly to users who [stake](/how-to-become-a-web3-staking-specialist) the governance token.
  - **Buyback and Burn:** The protocol uses its revenue to buy its own token from the market and permanently removes it from circulation. This deflationary mechanism increases the scarcity and potentially enhances the value of remaining tokens.
  - **Governance Control:** The token may provide holders with governance rights, allowing them to influence the protocol’s direction and future revenue streams.
@@ -53,7 +53,7 @@ Web3 Product Managers must prioritize strategies that cultivate these non-code-b
 
 ### The New Role of the Product Manager
 
-- **From Dictator to Facilitator:** You no longer dictate the roadmap. Building consensus within a decentralized community becomes essential. Your role involves facilitating discussions, presenting well-reasoned proposals, and persuading rather than commanding.
+- **From Dictator to Facilitator:** You no longer dictate the roadmap. Building consensus within a decentralized community becomes essential. Your role involves enabling discussions, presenting well-reasoned proposals, and persuading rather than commanding.
 
 - **From Data Analyst to On-Chain Sleuth:** You must use public, on-chain data to gain insights into user behavior. This requires developing new analytical skills and tools, such as Dune Analytics.
 

@@ -27,7 +27,7 @@ Lome is leading digital finance innovation within Togo, a country that has emerg
 **Blockchain Integration Potential:**
 Togo has demonstrated its capacity to implement digital financial solutions effectively. The next step involves decentralization:
 - Current mobile money services, such as those from MTN and Moov, impose fees; blockchain technology could potentially reduce this significantly.
-- Government cash transfers are currently processed in batches; blockchain technology could facilitate real-time transaction settlements.
+- Government cash transfers are currently processed in batches; blockchain technology could enable real-time transaction settlements.
 - International remittance costs are relatively high; stablecoins could lower this considerably.
 - Existing financial inclusion infrastructure lays the groundwork for the addition of a Web3 layer.
 
@@ -41,7 +41,7 @@ Lome is centrally located in Francophone West Africa:
 
 **Implications:**
 - European investments in African FinTech often flow through Francophone hubs.
-- Regulatory frameworks within the WAEMU region are harmonized, facilitating smoother operations for companies.
+- Regulatory frameworks within the WAEMU region are harmonized, enabling smoother operations for companies.
 - Developers in Lome can access the entire West African market.
 - A French-speaking talent pool is available from both Europe and Africa.
 

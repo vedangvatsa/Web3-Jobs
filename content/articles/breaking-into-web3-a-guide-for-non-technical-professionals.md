@@ -18,11 +18,11 @@ This guide targets non-technical professionals looking to transition into Web3. 
 
 The emergence of Web3 projects has led to the formation of entire companies and ecosystems. Engineers alone cannot build a successful company; multiple skill sets are necessary.
 
-**Product management** plays a key role in shaping successful products. A product manager must grasp customer needs, articulate what should be built, and prioritize features effectively. Given the complexity and novelty of Web3 products, skilled product managers are in high demand.
+**Product management** is important for shaping successful products. A product manager must grasp customer needs, articulate what should be built, and prioritize features effectively. Given the complexity and novelty of Web3 products, skilled product managers are in high demand.
 
 **Marketing and growth** specialists are essential for user acquisition and retention. Even the most new product will fail without a user base. Marketing within Web3 requires an understanding of crypto-native audiences, the ability to comply with regulations, and the skill to simplify complex concepts. These competencies are highly sought after.
 
-**Business development** professionals facilitate revenue growth and partnership opportunities. Many non-technical founders excel in business development, as they possess the skills needed to negotiate deals and build strategic partnerships.
+**Business development** professionals enable revenue growth and partnership opportunities. Many non-technical founders excel in business development, as they possess the skills needed to negotiate deals and build strategic partnerships.
 
 **Operations and finance** teams ensure smooth daily functions. These professionals manage budgets, payroll, and compliance, playing a important role in the stability of startups.
 
@@ -30,7 +30,7 @@ The emergence of Web3 projects has led to the formation of entire companies and 
 
 **Community management** builds engaged and loyal user bases. Effective community management across platforms like Discord and Twitter, along with event organization, is critical for project success. A strong community can provide a significant competitive advantage in Web3.
 
-**Content creation and education** simplify complex technologies for users. Writers, educators, and content creators play a key role in demystifying Web3, making it more accessible to a broader audience.
+**Content creation and education** simplify complex technologies for users. Writers, educators, and content creators are important for explaining Web3, making it more accessible to a broader audience.
 
 Many Web3 companies experience difficulty filling these non-technical roles because they often originate from technical backgrounds. Consequently, they actively seek skilled non-technical professionals.
 
@@ -45,7 +45,7 @@ The following are prominent non-technical career paths within Web3:
 | Community Manager | Build and nurture online communities on platforms like Discord and Twitter. | Experience managing online communities, excellent communication. | Competitive |
 | Business Development Manager | Identify and execute revenue opportunities and partnerships. | Business development experience, strong negotiation skills. | Competitive |
 | Operations and Finance Specialist | Manage operations, financial tracking, and HR functions. | Background in finance or operations, detail-oriented. | Competitive |
-| Legal and Compliance Professional | Navigate and ensure adherence to regulatory standards. | Legal experience, familiarity with cryptocurrency regulations. | Competitive |
+| Legal and Compliance Professional | Work through and ensure adherence to regulatory standards. | Legal experience, familiarity with cryptocurrency regulations. | Competitive |
 | Content Creator and Writer | Produce educational content and marketing materials. | Strong writing skills, ability to simplify complex topics. | Competitive |
 
 ## Steps to Transition into Web3
@@ -164,7 +164,7 @@ Transitioning into Web3 as a non-technical professional presents certain challen
 
 **Lack of Established Precedents**: Web3 often lacks established playbooks for resolving issues. Unlike traditional companies, where processes are well-defined, you may need to devise solutions on the fly.
 
-**Community Dynamics**: Navigating community interactions can be challenging. Some parts of crypto discourse can be hostile. Exercising good judgment and maintaining resilience while interacting with others in the space is essential.
+**Community Dynamics**: Working through community interactions can be challenging. Some parts of crypto discourse can be hostile. Exercising good judgment and maintaining resilience while interacting with others in the space is essential.
 
 ## The Value of a Web3 Career
 

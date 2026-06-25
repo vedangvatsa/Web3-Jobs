@@ -17,7 +17,7 @@ The demand for skilled technical writers in Web3 is surging. As protocols grow m
 
 Technical writing serves several critical functions in the Web3 ecosystem:
 
-- **Facilitating Developer Adoption:** Developers require a thorough understanding of your APIs and smart contracts before they can build on your protocol. High-quality documentation is essential for attracting and retaining developers. Ineffective documentation can deter them from engaging with your project.
+- **Enabling Developer Adoption:** Developers require a thorough understanding of your APIs and smart contracts before they can build on your protocol. High-quality documentation is essential for attracting and retaining developers. Ineffective documentation can deter them from engaging with your project.
 
 - **Building User Trust and Safety:** Interacting with a [DeFi protocol](/what-is-defi) can be intimidating for users, as errors can lead to financial losses. Clear guides, tutorials, and explanatory content help instill user confidence and enable them to manage the platform safely.
 

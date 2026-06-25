@@ -14,7 +14,7 @@ lastUpdated: "2026-06-15"
 
 Presenting to leadership offers an opportunity to showcase your strategic value and impact. Executives focus on outcomes, efficiency, and alignment with broader organizational goals. To gain their support for your ideas, you must present them effectively.
 
-Leaders prioritize strategy, resource allocation, and return on investment (ROI). They care less about intricate technical aspects and more about how your proposal fits into the company's mission. This guide provides a clear framework for structuring your presentation, anticipating questions, and engaging with confidence to secure executive buy-in.
+Leaders prioritize strategy, resource allocation, and return on investment (ROI). They care less about complex technical aspects and more about how your proposal fits into the company's mission. This guide provides a clear framework for structuring your presentation, anticipating questions, and engaging with confidence to secure executive buy-in.
 
 ## Step 1: Know Your Audience and Your "Why"
 

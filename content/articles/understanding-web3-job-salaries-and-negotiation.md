@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-You've successfully managed the interview process and received an offer from your desired [Web3](/what-is-web3) company. The next important step is negotiating your compensation. This process is often more intricate than negotiation in traditional tech roles. Your total compensation package typically includes a base salary, equity, and a grant of the project's native [tokens](/what-is-a-token).
+You've successfully managed the interview process and received an offer from your desired [Web3](/what-is-web3) company. The next important step is negotiating your compensation. This process is often more complex than negotiation in traditional tech roles. Your total compensation package typically includes a base salary, equity, and a grant of the project's native [tokens](/what-is-a-token).
 
 Understanding how to assess and negotiate this combination is vital for your long-term financial growth. A lower base salary may be acceptable if the token package holds substantial upside potential, while a high base salary paired with minimal token allocation might not be advantageous over time. This guide outlines a practical approach to managing the [Web3 salary](/web3-developer-salaries-2025) negotiation process.
 

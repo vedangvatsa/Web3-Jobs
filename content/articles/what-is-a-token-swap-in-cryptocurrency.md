@@ -43,4 +43,4 @@ Atomic swaps use Hashed Timelock Contracts (HTLCs) to ensure the trade's atomici
 
 ### Importance of Token Swaps
 
-Token swaps form the backbone of DeFi, providing essential liquidity and interoperability throughout the ecosystem. They enable users to move between various assets, speculate on new projects, and engage in intricate [yield farming](/what-is-yield-farming) strategies. The ability to swap tokens in a decentralized manner supports a multitude of financial innovations.
+Token swaps form the backbone of DeFi, providing essential liquidity and interoperability throughout the ecosystem. They enable users to move between various assets, speculate on new projects, and engage in complex [yield farming](/what-is-yield-farming) strategies. The ability to swap tokens in a decentralized manner supports a multitude of financial innovations.

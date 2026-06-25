@@ -55,7 +55,7 @@ Familiarity with industry-standard design tools is critical.
 | **Adobe XD** | Although less dominant than Figma, it's still a preferred choice for some projects. |
 | **Sketch** | Used by certain companies, particularly in Mac environments. |
 | **Maze** | A tool for usability testing that helps validate design decisions. |
-| **Dovetail** | Organizes research data efficiently, facilitating better insights from user studies. |
+| **Dovetail** | Organizes research data efficiently, enabling better insights from user studies. |
 
 Start by mastering Figma, as it is a key tool in the industry.
 

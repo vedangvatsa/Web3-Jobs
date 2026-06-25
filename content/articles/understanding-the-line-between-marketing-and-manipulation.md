@@ -32,7 +32,7 @@ This combination incentivizes prioritizing hype over substance, leading to poten
 
 ### Gray Area #2: Community Building vs. "Ape" Management
 
-- **Ethical Marketing:** A **[community manager](/web3-community-manager-career)** cultivates a constructive atmosphere on Discord. They promote technical discussions, facilitate governance debates, and provide clear updates from the team. They manage community expectations and address concerns related to FUD (Fear, Uncertainty, and Doubt) transparently.
+- **Ethical Marketing:** A **[community manager](/web3-community-manager-career)** cultivates a constructive atmosphere on Discord. They promote technical discussions, enable governance debates, and provide clear updates from the team. They manage community expectations and address concerns related to FUD (Fear, Uncertainty, and Doubt) transparently.
 
 - **Manipulation:** A community manager's primary responsibility is to maintain the token's price. They delete critical comments, ban users who ask challenging questions, and post constant hype-filled messages to drive more investors to "ape in." Their focus is on manipulating emotions rather than building genuine engagement.
 

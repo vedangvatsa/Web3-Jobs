@@ -51,4 +51,4 @@ Accomplishing this would require more computational power than the entire networ
 
 Despite its strong security, Proof-of-Work's high energy consumption poses significant challenges. This reality has spurred the adoption of **[Proof-of-Stake (PoS)](/proof-of-stake-vs-proof-of-work-in-blockchain)**, a consensus mechanism used by networks like [Ethereum](/what-is-ethereum). In PoS, validators "stake" their cryptocurrency as collateral to gain the right to create new blocks, achieving significant energy efficiency compared to PoW.
 
-While blockchain's future may favor PoS, comprehending mining and Proof-of-Work remains essential for grasping the historical context of cryptocurrency and the foundational principles of blockchain security. This innovation facilitated the advent of decentralized digital currencies for the first time.
+While blockchain's future may favor PoS, comprehending mining and Proof-of-Work remains essential for grasping the historical context of cryptocurrency and the foundational principles of blockchain security. This innovation enabled the advent of decentralized digital currencies for the first time.

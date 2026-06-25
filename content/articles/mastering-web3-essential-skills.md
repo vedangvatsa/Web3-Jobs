@@ -54,7 +54,7 @@ Developing complex dApps requires reliable infrastructure to handle off-chain ta
 
 - **APIs and Indexers:** Backend services must index blockchain data into traditional databases and serve it via APIs to the frontend.
 - **Node Operation:** Knowing how to run and maintain a blockchain node is essential for reliability.
-- **Relayers and Bots:** Automated systems facilitate transaction submissions to perform tasks such as liquidations in lending protocols.
+- **Relayers and Bots:** Automated systems enable transaction submissions to perform tasks such as liquidations in lending protocols.
 
 ## Non-Technical Skills
 
@@ -76,7 +76,7 @@ In Web3, community is important. Building an engaged and positive community is a
 
 ### 8. Governance and Decentralized Coordination
 
-Facilitating community governance has become increasingly important as protocols decentralize.
+Enabling community governance has become increasingly important as protocols decentralize.
 
 - **Facilitation:** Leading discussions in governance forums and community calls helps reach consensus.
 - **Proposal Writing:** Writing clear, well-reasoned governance proposals articulates problems and suggests solutions effectively.

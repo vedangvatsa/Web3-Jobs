@@ -18,9 +18,9 @@ The Bay Area's Web3 ecosystem reflects its Silicon Valley heritage, characterize
 
 The Bay Area's leadership in Web3 stems from its rich talent pool, significant capital, and an unwavering commitment to innovation.
 
-- **Epicenter of Protocol Engineering:** The region boasts a high number of protocol-level engineers worldwide. Core development for new Layer 1 blockchains, Layer 2 scaling solutions, and intricate cryptographic systems occurs here. The emphasis is on deep, systems-level thinking.
+- **Epicenter of Protocol Engineering:** The region boasts a high number of protocol-level engineers worldwide. Core development for new Layer 1 blockchains, Layer 2 scaling solutions, and complex cryptographic systems occurs here. The emphasis is on deep, systems-level thinking.
 - **Venture Capital Powerhouse:** Sand Hill Road stands as the historical center for venture capital, extending its influence into Web3. The Bay Area houses crypto-native giants and numerous venture capital firms. This close proximity to capital provides a significant advantage for entrepreneurs and supports the emergence of well-funded companies.
-- **Research-Driven Culture:** The region is a nexus for research in cryptography, distributed systems, and game theory, bolstered by connections to elite institutions like Stanford and UC Berkeley. This collaboration translates academic research into practical applications for new protocols and startups.
+- **Research-Driven Culture:** The region is a nexus for research in cryptography, distributed systems, and game theory, strengthened by connections to elite institutions like Stanford and UC Berkeley. This collaboration translates academic research into practical applications for new protocols and startups.
 - **Established Community:** The Bay Area hosts one of the oldest and most active crypto communities, featuring high-quality technical meetups, workshops, and significant events like SF Blockchain Week.
 
 ### In-Demand Roles and Salary Expectations

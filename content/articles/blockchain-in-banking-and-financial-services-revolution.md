@@ -45,7 +45,7 @@ Tokenization refers to the creation of digital tokens on a blockchain that repre
 - **Solution:** Financial institutions are exploring the tokenization of various assets, including stocks, bonds, and real estate.
 - **Impact:**
  - **Fractional Ownership:** Tokenization allows multiple investors to own fractions of traditionally illiquid assets, broadening access to investment opportunities.
- - **Enhanced Liquidity:** These tokenized assets can be traded continuously on blockchain marketplaces, facilitating ongoing trading opportunities.
+ - **Enhanced Liquidity:** These tokenized assets can be traded continuously on blockchain marketplaces, enabling ongoing trading opportunities.
  - **Atomic Settlement:** Transactions can be settled instantly as a single, indivisible event, eliminating counterparty risk and ensuring the simultaneous exchange of assets and payments.
 
 #### 4. simplify Digital Identity for KYC/AML
@@ -60,7 +60,7 @@ The rapid advancements in blockchain technology are leading to new career opport
 
 - **Digital Asset Product Manager:** This role involves designing and overseeing the development of high-quality crypto financial products tailored for institutional clients.
 - **Institutional Business Development Specialist:** Focused on selling crypto financial products to traditional hedge funds, asset managers, and corporations.
-- **Crypto Compliance Officer:** An expert in legal and regulatory frameworks navigating the evolving sector for digital assets.
+- **Crypto Compliance Officer:** An expert in legal and regulatory frameworks working through the evolving sector for digital assets.
 - **[DeFi](/what-is-defi) Quantitative Analyst:** This role entails analyzing the unique risks and opportunities associated with decentralized financial protocols.
 
 ### The Web3 Job Market

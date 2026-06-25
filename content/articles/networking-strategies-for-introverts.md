@@ -58,7 +58,7 @@ These questions shift the focus away from you, allowing the other person to shar
 
 ### Arrive Early
 
-Getting to the venue early helps you acclimate to the environment before it becomes crowded. Early arrival facilitates one-on-one conversations with other attendees arriving at the same time.
+Getting to the venue early helps you acclimate to the environment before it becomes crowded. Early arrival enables one-on-one conversations with other attendees arriving at the same time.
 
 ### Identify Fellow Introverts
 

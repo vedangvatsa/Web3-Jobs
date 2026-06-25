@@ -47,7 +47,7 @@ Taking Ethereum as an example, the slashing process involves several steps:
 
 - **For Validators:** Slashing poses a significant operational risk, motivating validators to invest in secure infrastructure and implement reliable procedures to safeguard their validator keys against compromise or conflicting signatures.
 - **For Delegators:** When you delegate tokens to a staking service or liquid staking protocol, you expose yourself to the slashing risks associated with the underlying validators. A slashed validator diminishes the value of your staked position. Therefore, selecting reputable staking providers with a proven track record is critical.
-- **For Network Security:** Slashing forms the backbone of a PoS network's security. It renders a "51% attack" financially ruinous for the attacker. To seize control, an attacker would need to acquire a vast amount of the native token to stake. If this stake is then used for an attack, a significant portion would be destroyed, making the endeavor exceedingly costly and likely unprofitable.
+- **For Network Security:** Slashing forms the backbone of a PoS network's security. It renders a "51% attack" financially ruinous for the attacker. To seize control, an attacker would need to acquire a vast amount of the native token to stake. If this stake is then used for an attack, a significant portion would be destroyed, making the effort exceedingly costly and likely unprofitable.
 
 ### Comparing Slashing to Traditional Penalties
 

@@ -36,7 +36,7 @@ Several defining features differentiate Web3 academies from traditional educatio
 
 4. **Collaborative Learning Environment:** Students learn in cohort-based settings that reflect the community-driven ethos of Web3. They work on group projects, participate in hackathons, and cultivate a professional network that will support them throughout their careers.
 
-5. **Career Development Support:** The primary goal of a Web3 academy is to facilitate student employment. Leading academies offer dedicated career services, including [resume](/how-to-build-a-web3-resume-that-stands-out) workshops, interview preparation, and connections to hiring partners.
+5. **Career Development Support:** The primary goal of a Web3 academy is to enable student employment. Leading academies offer dedicated career services, including [resume](/how-to-build-a-web3-resume-that-stands-out) workshops, interview preparation, and connections to hiring partners.
 
 ### Examples of Web3 Academy Models
 
@@ -50,7 +50,7 @@ Different types of Web3 academies cater to various learning needs:
 
 ### The Importance of the Web3 Academy
 
-Web3 academies play a vital role in shaping the future of the crypto industry:
+Web3 academies are important for shaping the future of the crypto industry:
 
 - **Addressing the Talent Shortage:** These academies serve as efficient mechanisms for training the next generation of builders, helping to mitigate the ongoing talent gap in the sector.
 - **Reducing Barriers to Entry:** Web3 academies provide an accessible and cost-effective alternative to traditional four-year degrees, making it easier for individuals to enter the workforce.

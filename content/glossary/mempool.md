@@ -114,7 +114,7 @@ Post-Ethereum Merge, the mempool changed:
 
 - **Censorship Concerns**: Builders' power to include/exclude transactions raises censorship questions, especially as a few major builders dominate.
 
-- **MEV Supply Chain**: Complex infrastructure has emerged, searchers find MEV opportunities, builders construct blocks, relays facilitate communication, validators propose blocks, each taking a cut of extracted value.
+- **MEV Supply Chain**: Complex infrastructure has emerged, searchers find MEV opportunities, builders construct blocks, relays enable communication, validators propose blocks, each taking a cut of extracted value.
 
 This evolved system is more efficient but more complex than simple fee-based transaction ordering.
 
@@ -186,7 +186,7 @@ The mempool will remain a important but contested part of blockchain infrastruct
 
 ## Best Practices
 
-Navigating the mempool effectively:
+Working through the mempool effectively:
 
 - **Monitor Gas Prices**: Check current mempool state before submitting transactions. Don't overpay or underpay for gas.
 
@@ -200,6 +200,6 @@ Navigating the mempool effectively:
 
 - **Be Paranoid**: Assume actors are watching the mempool. Design strategies accordingly.
 
-## Navigate Blockchain Infrastructure
+## Work through Blockchain Infrastructure
 
 The mempool sits at the intersection of blockchain architecture, theory, and market microstructure. Understanding its dynamics is essential for anyone building applications, trading strategically, or working on blockchain infrastructure. If you're interested in blockchain systems, MEV, or protocol design, explore blockchain engineering opportunities at infrastructure providers, DeFi protocols, and MEV organizations. These roles require deep technical knowledge and offer substantial compensation for those who master the complex dynamics of transaction ordering and value extraction.

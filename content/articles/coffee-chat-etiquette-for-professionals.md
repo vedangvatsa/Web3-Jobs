@@ -42,7 +42,7 @@ Briefly articulate your reason for reaching out.
 
 ### 4. Make It Easy to Say Yes
 
-Facilitate a positive response by reducing the commitment required.
+Enable a positive response by reducing the commitment required.
 - **Specify the length:** "I would appreciate a brief 15-20 minute virtual coffee chat." Specifying a short duration reduces the perceived commitment.
 - **Be flexible:** "I am happy to accommodate your schedule."
 - **Offer convenience:** "I can send a calendar invite with a video link."
@@ -97,7 +97,7 @@ As the conversation nears its end, pose the important networking question:
 
 **"Based on our conversation, is there anyone else you think would be valuable for me to connect with?"**
 
-This question expands your network. If they offer to introduce you, express gratitude and facilitate the process by providing a brief, forwardable blurb about yourself.
+This question expands your network. If they offer to introduce you, express gratitude and enable the process by providing a brief, forwardable blurb about yourself.
 
 ### 5. Conclude Respectfully
 

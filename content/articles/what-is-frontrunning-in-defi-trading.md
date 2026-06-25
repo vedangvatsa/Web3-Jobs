@@ -45,7 +45,7 @@ In this scenario, Alice ends up receiving fewer XYZ tokens for her ETH than she 
 
 ### Factors Enabling Front-Running
 
-Several unique characteristics of blockchain technology facilitate front-running in DeFi:
+Several unique characteristics of blockchain technology enable front-running in DeFi:
 
 - **Public Mempool Visibility**: The transparency of the mempool allows any participant to view pending transactions, giving traders insight into the intentions of others.
 - **Predictable Outcomes**: The results of trades on AMMs can be precisely forecasted. Bots can calculate the expected price impact of transactions, allowing them to plan their actions accordingly.

@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 ## Unlocking Illiquid Markets: How Web3 and Tokenization Will Transform Real Estate
 
-Real estate represents the largest asset class globally, yet it suffers from illiquidity and accessibility issues. High capital requirements, intricate legal processes, and dependence on intermediaries make property transactions slow and costly. As a result, only affluent investors typically engage in buying and selling real estate.
+Real estate represents the largest asset class globally, yet it suffers from illiquidity and accessibility issues. High capital requirements, complex legal processes, and dependence on intermediaries make property transactions slow and costly. As a result, only affluent investors typically engage in buying and selling real estate.
 
 A wave of innovation, driven by [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology, aims to dismantle these barriers. The tokenization of real estate, representing ownership of physical properties as digital [tokens](/what-is-a-token) on a blockchain, has the potential to transform the industry. This process democratizes access and creates significant value in previously illiquid assets.
 
@@ -44,7 +44,7 @@ Tokenization presents several notable benefits:
 
 4. **Transparency:** All ownership records and transactions are stored on an immutable public blockchain. This feature enhances transparency and minimizes fraud risks.
 
-5. **Programmable Assets:** Ownership represented by smart contracts is programmable. This capability allows for automated dividend payments, intricate governance structures, and new [DeFi](/what-is-defi) integrations, such as using real estate tokens as collateral for loans.
+5. **Programmable Assets:** Ownership represented by smart contracts is programmable. This capability allows for automated dividend payments, complex governance structures, and new [DeFi](/what-is-defi) integrations, such as using real estate tokens as collateral for loans.
 
 ### The Challenges Ahead
 

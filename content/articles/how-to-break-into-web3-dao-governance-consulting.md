@@ -18,7 +18,7 @@ Governance Consultants, often referred to as "Governance Facilitators," tackle e
 
 Decentralized organizations can now operate globally without a central authority. However, without effective governance, these organizations may devolve into systems where a few wealthy token holders dominate or risk becoming inefficient and dysfunctional.
 
-Governance consultants play a key role in crafting digital democracies. They design systems that balance efficiency with decentralization, promote wide participation, and prevent wealth concentration from leading to political power imbalances. Successful governance consultants recognize that DAO governance encompasses mechanics and a culture of thoughtful participation.
+Governance consultants are important for crafting digital democracies. They design systems that balance efficiency with decentralization, promote wide participation, and prevent wealth concentration from leading to political power imbalances. Successful governance consultants recognize that DAO governance encompasses mechanics and a culture of thoughtful participation.
 
 ### Responsibilities of a DAO Governance Consultant
 
@@ -38,7 +38,7 @@ A DAO Governance Consultant performs several key functions:
 
 Effective governance distinguishes between a growing DAO that remains decentralized and resilient and one that falls prey to a small group of wealthy holders or becomes neglected by the community. As DAOs manage larger treasuries and make more impactful decisions, the need for expert governance design has surged.
 
-Prominent examples illustrate this point. Aave's governance system, which includes a representative token and intricate voting mechanics, was developed by governance specialists. Likewise, Curve's emphasis on delegation and active community governance demonstrates how sophisticated design enhances community engagement.
+Prominent examples illustrate this point. Aave's governance system, which includes a representative token and complex voting mechanics, was developed by governance specialists. Likewise, Curve's emphasis on delegation and active community governance demonstrates how sophisticated design enhances community engagement.
 
 ### Getting Started: A 7-Step Roadmap
 
@@ -72,7 +72,7 @@ Prominent examples illustrate this point. Aave's governance system, which includ
 
 - **Technical Literacy:** While coding skills are not mandatory, you should grasp smart contract governance mechanics and evaluate proposals realistically.
 
-- **Communication:** Clearly convey complex governance concepts to both technical and non-technical audiences. Writing clear proposal summaries and facilitating productive discussions is key to building consensus.
+- **Communication:** Clearly convey complex governance concepts to both technical and non-technical audiences. Writing clear proposal summaries and enabling productive discussions is key to building consensus.
 
 - **Comparative Thinking:** Recognize how various governance systems function, traditional corporate boards, political democracies, and cooperatives, and apply those lessons to DAOs.
 

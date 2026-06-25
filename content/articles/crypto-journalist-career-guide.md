@@ -38,7 +38,7 @@ To thrive as a crypto journalist, you need to blend traditional journalistic eth
 
 4. **Networking Abilities:** The best stories often emerge from insider information. You must excel at building relationships with founders, developers, investors, and community members on platforms like Twitter and Discord.
 
-5. **Integrity:** In a hype-driven environment, your reputation for impartiality and accuracy is critical. Upholding high ethical standards will bolster your credibility.
+5. **Integrity:** In a hype-driven environment, your reputation for impartiality and accuracy is critical. Upholding high ethical standards will strengthen your credibility.
 
 ### Crafting Your Crypto Journalist Portfolio
 

@@ -55,7 +55,7 @@ Using a generic resume for every application can diminish your chances. Customiz
 
 ### 5. Keep it Clear, Concise, and Readable
 
-Recruiters often spend only a few seconds on each resume. Enhance readability to facilitate quick information retrieval.
+Recruiters often spend only a few seconds on each resume. Enhance readability to enable quick information retrieval.
 
 - **Length**: Limit your resume to one page if you have less than ten years of experience. Two pages are acceptable for those with extensive and relevant work history.
 - **Font**: Select a clean, professional font such as Arial, Calibri, or Times New Roman in a readable size (10-12 points).

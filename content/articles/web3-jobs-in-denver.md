@@ -56,4 +56,4 @@ The job market in Denver is particularly strong for technical roles, especially 
 
 ### Finding Your Web3 Job in Denver
 
-If you're ready to immerse yourself in a community that plays a key role in the Ethereum ecosystem, check out the latest opportunities on our [Web3 job board](/jobs). Denver's passionate builder culture, combined with its influential position in the global Web3 community, offers a unique environment for a rewarding career.
+If you're ready to immerse yourself in a community that is important for the Ethereum ecosystem, check out the latest opportunities on our [Web3 job board](/jobs). Denver's passionate builder culture, combined with its influential position in the global Web3 community, offers a unique environment for a rewarding career.

@@ -94,11 +94,11 @@ Salaries in the South Korean Web3 market are competitive, influenced by experien
 
 Token compensation may constitute a significant portion of the overall package, especially in startups and protocol-level projects. Understanding the vesting schedule and potential value of token allocations is important when evaluating a job offer.
 
-## Navigating the Culture: Tips for Success
+## Working through the Culture: Tips for Success
 
 South Korean work culture has distinct nuances. Though the Web3 industry tends to be more progressive and globalized than traditional Korean companies, some cultural considerations remain.
 
-- **Language:** Many Web3 companies operate in English, but a basic understanding of Korean can facilitate communication, especially in community-facing roles. Developers can often communicate technically in English, yet knowledge of Korean builds better team dynamics.
+- **Language:** Many Web3 companies operate in English, but a basic understanding of Korean can enable communication, especially in community-facing roles. Developers can often communicate technically in English, yet knowledge of Korean builds better team dynamics.
 - **Hierarchy:** Traditional Korean firms maintain a strong hierarchical structure. While Web3 startups often feature flatter organizations, respect for seniority and experience is still emphasized more than in many Western companies.
 - **Team Dinners and Networking:** After-work team dinners, known as hwesik, and networking events play important roles in the culture. Participation is often expected and serves as a vital means of building relationships with colleagues.
 - **Building Trust:** Establishing personal relationships and trust is essential. Investing time in getting to know colleagues personally contributes to success in the Korean workplace.

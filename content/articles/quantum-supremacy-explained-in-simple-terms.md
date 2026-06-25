@@ -14,13 +14,13 @@ Quantum supremacy, frequently referred to as quantum advantage, signifies a land
 
 This milestone does not imply that quantum computers excel in all areas. It does not render traditional laptops obsolete, nor does it suggest that quantum computers can address every global issue. Instead, it represents a significant proof of concept, demonstrating that quantum machines can use quantum mechanics to outperform classical computers in at least one carefully selected task.
 
-The chosen problem for this demonstration does not need to have practical applications. The primary goal is to prove that quantum computing is feasible. This scenario resembles the initial flight of the Wright brothers. Their first aircraft, which flew for merely 12 seconds, did not serve as a practical means of transportation. However, it established the possibility of powered flight and paved the way for subsequent advancements in aviation. Quantum supremacy serves as a similar foundational moment for quantum computing.
+The chosen problem for this demonstration does not need to have practical applications. The primary goal is to prove that quantum computing is feasible. This scenario resembles the initial flight of the Wright brothers. Their first aircraft, which flew for merely 12 seconds, did not serve as a practical means of transportation. However, it established the possibility of powered flight and enabled subsequent advancements in aviation. Quantum supremacy serves as a similar foundational moment for quantum computing.
 
 ### The Landmark 2019 Experiment by Google
 
 The term gained substantial visibility in 2019 when Google released a paper in the journal *Nature*, claiming to have achieved quantum supremacy. Their research team, using a 53-qubit quantum processor named "Sycamore," completed a highly specific computational task.
 
-**The Task**: Google aimed to sample the output from a random quantum circuit. This involved sending energy through an intricate arrangement of quantum gates. Due to quantum phenomena, such as superposition and interference, the result is a complex probability distribution of various bitstrings. The quantum computer's mission was to execute this experiment and generate a sample set from that output distribution.
+**The Task**: Google aimed to sample the output from a random quantum circuit. This involved sending energy through an complex arrangement of quantum gates. Due to quantum phenomena, such as superposition and interference, the result is a complex probability distribution of various bitstrings. The quantum computer's mission was to execute this experiment and generate a sample set from that output distribution.
 
 **The Result**: The Sycamore processor accomplished this task in approximately 200 seconds. Google estimated that the most powerful classical supercomputer at the time would require an impractically long duration to perform the same operation.
 
@@ -60,7 +60,7 @@ The objective was not to find a useful solution. Instead, the focus was on selec
 Predictions vary, but experts generally estimate that we are still several years away from quantum computers resolving commercially relevant challenges that classical machines cannot handle. This period is characterized as the era of "Noisy Intermediate-Scale Quantum" (NISQ) computers, where the technology is powerful enough to be intriguing but remains too small and error-prone for many promising applications.
 
 **4. What implications does this have for encryption?** 
-The demonstration of quantum supremacy does not imply that encryption is compromised today. The Sycamore chip cannot execute Shor's algorithm, the quantum algorithm capable of breaking modern encryption methods. Nonetheless, it serves as a critical reminder. It highlights the rapid advancement of quantum computation and highlights the urgent need to transition to new forms of "post-quantum cryptography" that withstand both classical and quantum attacks.
+The demonstration of quantum supremacy does not imply that encryption is compromised today. The Sycamore chip cannot execute Shor's algorithm, the quantum algorithm capable of breaking modern encryption methods. still, it serves as a critical reminder. It highlights the rapid advancement of quantum computation and highlights the urgent need to transition to new forms of "post-quantum cryptography" that withstand both classical and quantum attacks.
 
 ## Importance of Understanding Quantum Supremacy
 
@@ -96,7 +96,7 @@ Consider the pharmaceutical industry. Quantum computers could significantly acce
 
 ### Application 2: Material Science
 
-In materials science, quantum computers may facilitate the design of new materials with unique properties. For instance, researchers could use quantum algorithms to create high-efficiency solar cells or superconductor materials that exhibit zero resistance at higher temperatures than currently possible.
+In materials science, quantum computers may enable the design of new materials with unique properties. For instance, researchers could use quantum algorithms to create high-efficiency solar cells or superconductor materials that exhibit zero resistance at higher temperatures than currently possible.
 
 ### Application 3: Financial Modeling
 
