@@ -79,5 +79,3 @@ Regardless of the wallet type you choose, adhering to best security practices is
 - **Use Strong Passwords:** Create complex, unique passwords for your wallets and accounts to mitigate unauthorized access.
 - **Enable Two-Factor Authentication (2FA):** For custodial wallets, enable 2FA to add an extra layer of security against unauthorized access.
 - **Stay Informed:** Keep abreast of potential threats, such as new phishing tactics or scams targeting crypto users.
-
-### Understanding the Web3 Opportunity

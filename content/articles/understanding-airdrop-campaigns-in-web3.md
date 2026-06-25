@@ -48,5 +48,3 @@ Once the eligible addresses are identified, the project either "pushes" the new 
 - **Tax Implications:** In various jurisdictions, receiving an airdrop may be considered income, triggering a taxable event for the recipient.
 
 Airdrops represent a significant and distinctive strategy within the crypto space for establishing a network. While often associated with speculation and the allure of free money, they can also serve as an effective method for rewarding community engagement and supporting decentralized ownership.
-
-## The Web3 Career Sector

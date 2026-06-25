@@ -152,8 +152,6 @@ function swap(address _tokenIn, uint256 _amountIn) public returns (uint256 amoun
 
 This overview simplifies the process. A production-level AMM would include additional features, such as mechanisms against specific types of miner extractable value (MEV) and more advanced fee structures. However, creating this basic version provides a solid foundation and understanding of AMM mechanics.
 
-### Importance of Understanding AMMs
-
 ## Step-by-Step Development Guide
 
 ### 1. Grasp the Fundamentals

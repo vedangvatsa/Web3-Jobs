@@ -63,8 +63,6 @@ When assessing a new project, apply this straightforward framework:
 
 By evaluating these three pillars, you can cut through the noise and make informed investment decisions. Tokenomics serves as the guiding force behind decentralized networks; understanding its principles equips you to engage effectively in the Web3 economy.
 
-### Importance of Tokenomics
-
 ### Step-by-Step Guide to Understanding Tokenomics
 
 #### Step 1: Grasp the Fundamentals

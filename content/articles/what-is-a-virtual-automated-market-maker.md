@@ -114,5 +114,3 @@ Avoid overwhelming yourself with too much information at once. Start with one co
 ### Step 5: Measure Outcomes and Adjust
 
 Track your development closely. Are you achieving your learning objectives? Adjust your methods based on feedback and results. Embrace a mindset of continuous improvement.
-
-## Real-World Applications of vAMMs

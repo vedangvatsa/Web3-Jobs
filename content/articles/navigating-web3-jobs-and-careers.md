@@ -57,5 +57,3 @@ The demand for talent in Web3 spans a variety of roles, both technical and non-t
  - If you are a writer, start a blog or share insights on Twitter about complex Web3 topics.
 
 4. **Engage with the Community:** Join Discord channels of projects that interest you. Rather than promoting your resume, focus on providing value by answering questions and participating in discussions. Building relationships within the community often leads to the best job opportunities.
-
-### The Growing Web3 Opportunity

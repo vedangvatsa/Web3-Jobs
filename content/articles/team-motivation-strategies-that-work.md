@@ -62,8 +62,6 @@ While intrinsic motivators are essential, compensation remains a foundational as
 
 Compensation acts as a "hygiene factor." If compensation is inadequate, it becomes a primary concern. However, once employees receive fair pay, intrinsic motivators such as autonomy, mastery, and purpose take precedence.
 
-### Importance of Team Motivation
-
 ### Step-by-Step Guide to Implementing Motivation Strategies
 
 1. **Understand the Fundamentals**: Familiarize yourself with core principles of intrinsic motivation. Research best practices from industry leaders to build a solid foundation.

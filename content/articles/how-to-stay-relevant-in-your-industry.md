@@ -78,5 +78,3 @@ Look for ways to integrate learning into your work. Can you apply a new techniqu
 
 **5. Which is more important, hard skills or soft skills?** 
 Both are essential. Hard skills often secure you an [interview](/how-to-prepare-for-job-interview), while soft skills contribute to your success in the job. As automation increases, soft skills such as communication, critical thinking, and adaptability become even more vital.
-
-### Real-World Examples

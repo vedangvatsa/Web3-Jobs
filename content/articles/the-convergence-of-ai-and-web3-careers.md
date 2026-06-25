@@ -61,5 +61,3 @@ To thrive in a career that merges AI and [Web3 careers](/web3-jobs-for-beginners
 - **For AI Professionals**: Acquire foundational knowledge of Web3. Understand blockchain mechanics, smart contracts, and tokenomics. Engage with practical applications by creating a [wallet](/how-to-choose-a-crypto-wallet), using various dApps, and experimenting with simple smart contracts.
 
 - **For Web3 Professionals**: Learn the basics of AI and machine learning. While you do not need to create a large language model from scratch, understanding various models, their capabilities, and limitations is vital. Enroll in online courses for machine learning and experiment with APIs from providers like OpenAI or Gemini.
-
-## The Current Web3 Opportunity

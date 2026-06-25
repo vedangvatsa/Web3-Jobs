@@ -59,5 +59,3 @@ The open-source ethos of Web3 builds a meritocratic culture.
 A Web3 career is authentic. It entails addressing some of the most challenging technical and social issues of our time. It represents a legitimate and coveted career path offering significant intellectual and financial rewards.
 
 However, it lacks the safety associated with traditional jobs. It demands a high risk tolerance, a passion for self-directed learning, and a firm belief in the long-term potential of decentralization. This path suits builders, pioneers, and those comfortable operating on the frontier. For individuals who meet this criterion, a Web3 career is not just a viable option; it also represents a unique opportunity.
-
-## The Expanding Web3 Sector

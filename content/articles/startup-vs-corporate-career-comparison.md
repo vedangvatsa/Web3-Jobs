@@ -76,8 +76,6 @@ Self-assessing your preferences and priorities is important in determining the b
 | **Work Style** | Flexible, fast-paced, sometimes chaotic | Structured, predictable, process-driven |
 | **Financial Priorities** | Potential for equity upside, lower base salary | Higher, predictable income, reliable benefits |
 
-### Importance of Self-Assessment
-
 ### Steps to Make an Informed Decision
 
 #### Step 1: Understand the Fundamentals

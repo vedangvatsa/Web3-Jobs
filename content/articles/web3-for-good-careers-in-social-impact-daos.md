@@ -59,5 +59,3 @@ The growth of Public Goods DAOs and the "Regenerative Finance" (ReFi) sector pre
 3. **Showcase Your Skills**: Offer your expertise to projects. For instance, if you are a writer, assist with grant proposals. If you're skilled in data analysis, create dashboards to track funding history.
 
 Working within the Public Goods sector of Web3 allows professionals to contribute to an important movement that seeks equitable funding solutions for essential societal needs. Using the resources of blockchain technology, individuals have the chance to make a tangible, positive difference.
-
-## The Expanding Web3 Opportunity

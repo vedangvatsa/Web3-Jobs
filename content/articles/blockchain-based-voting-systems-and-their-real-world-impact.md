@@ -68,5 +68,3 @@ Blockchain voting faces several significant challenges despite its potential adv
 ### The Future of Governance with Verifiable Systems
 
 Blockchain voting signifies a major shift in collective decision-making processes. By transitioning voting onto an open, auditable, and immutable ledger, systems can become fundamentally more trustworthy and transparent. The path to adopting this technology for widespread public elections is complex, yet its impact on decentralized governance is already significant. Professionals in political science, public policy, and software engineering have a unique opportunity to innovate in the next generation of voting systems, addressing pressing governance challenges.
-
-## Web3 Opportunities in Voting Technology

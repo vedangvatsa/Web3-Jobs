@@ -81,8 +81,6 @@ Oracles can function as attestation services, verifying real-world information t
 
 Oracles function as critical infrastructure within the [Web3](/what-is-web3) ecosystem. They enhance the capabilities of smart contracts, transforming them from self-contained programs into sophisticated applications responsive to real-world data. As the Web3 space expands, the necessity for diverse, secure, and new oracle solutions will likely increase, presenting new opportunities for development on the blockchain.
 
-### Why Understanding Oracles Matters
-
 ### Practical Steps for Professionals
 
 1. **Understand Core Principles:** Familiarize yourself with the fundamental concepts of oracles and their applications. Reading industry resources and reports can provide valuable insights.

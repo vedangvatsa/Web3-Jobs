@@ -78,8 +78,6 @@ Once you have honed your skills and built a portfolio, begin your job search.
 - **Networking:** Join technical writing communities on platforms like LinkedIn, Slack, or Discord, such as the "Write the Docs" Slack channel. Participate in discussions, request feedback on your portfolio, and seek out job openings.
 - **Search for Relevant Roles:** Look for job titles such as "Technical Writer," "Documentation Engineer," or "Developer Advocate." Analyze the required skills in job descriptions and customize your application accordingly.
 
-### Real-World Examples
-
 ### FAQ
 
 **Q: How long will it take to see results?** 

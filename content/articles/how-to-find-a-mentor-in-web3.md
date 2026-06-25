@@ -114,5 +114,3 @@ Mentorship is a two-way street. You do not have to wait until you are an expert 
 5. Commit to being a proactive and appreciative mentee.
 
 Mentors are prevalent in the Web3 community; building these relationships can significantly enhance your career trajectory.
-
-## The Web3 Employment Sector

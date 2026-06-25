@@ -74,5 +74,3 @@ The timeline varies based on the degree of change. Transitioning to a closely re
 
 **How do I manage feelings of imposter syndrome?** 
 Imposter syndrome is common during transitions. Focus on recognizing your transferable skills and the value they bring. Embrace the learning process, and do not hesitate to ask questions when needed.
-
-### Real-World Examples

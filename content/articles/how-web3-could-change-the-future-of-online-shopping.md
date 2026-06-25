@@ -52,5 +52,3 @@ Web3 also alters the structure of payment systems in e-commerce.
 ### The Road Ahead for Web3 in E-Commerce
 
 The integration of Web3 into online shopping is in its initial stages. Currently, the user experience of connecting wallets and signing transactions presents challenges for widespread adoption. However, the benefits of true ownership, reduced fees, increased transparency, and enhanced community engagement are compelling. As the technology becomes more user-friendly, Web3 will transform e-commerce from a transactional experience into a rich, interactive, community-owned economy.
-
-## Web3 Opportunities in the Job Market

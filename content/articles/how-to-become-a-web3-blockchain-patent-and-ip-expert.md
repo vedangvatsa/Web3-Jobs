@@ -45,5 +45,3 @@ Web3 Patent and IP Experts undertake a variety of responsibilities, including:
 3. **Establish a Public Profile:** The Web3 legal community is active on Twitter. Start a blog or Twitter account to discuss the latest developments in crypto IP law. Analyze recent court cases or the licensing agreements from significant NFT projects. Your public writing serves as your [portfolio](/building-web3-portfolio).
 
 A career as a Web3 IP expert appeals to legal professionals intrigued by the legal complexities of emerging technologies. This role allows you to contribute to shaping the legal frameworks governing the intellectual property of the new internet. For additional insights, consider our general guide on [Web3 legal careers](/legal-careers-in-web3).
-
-## Web3 Opportunity

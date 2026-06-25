@@ -80,8 +80,6 @@ Stay calm. Taking a moment to think is acceptable. Consider saying, "That's an i
 **How can I practice for an interview?** 
 Rehearse common interview questions aloud, either solo or with a friend. This practice builds comfort and confidence in your responses.
 
-### Real-World Examples
-
 ### Additional Considerations
 
 **Q: How long will this take to implement?** 

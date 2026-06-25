@@ -75,5 +75,3 @@ Start small. Delegate low-risk tasks to reliable team members and observe the ou
 **What's the difference between delegation and just dumping my work on someone?**
 
 Delegation builds growth, while dumping indicates abdication. When you delegate, you thoughtfully assign tasks that support an individual's development, providing context and support for success.
-
-### Real-World Examples

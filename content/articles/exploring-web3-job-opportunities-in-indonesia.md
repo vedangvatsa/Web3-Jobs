@@ -44,5 +44,3 @@ The Web3 job market in Indonesia is expanding rapidly. Salaries are competitive 
 4. **Engage with Local Communities:** Connect with prominent communities and companies in Jakarta and Bali. Attend local meetups and crypto events to expand your network. The Indonesian Web3 scene thrives on social interactions and relationships.
 
 Indonesia's passionate user base and rapid growth present a unique opportunity for professionals eager to participate in Web3 adoption.
-
-## The Web3 Job Opportunity

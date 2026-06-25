@@ -184,8 +184,6 @@ anchor test
 
 This simple example illustrates the fundamental workflow of building on Solana with Anchor, including defining program instructions, specifying required accounts, and testing the interactions.
 
-### Implications for Your Career
-
 ### Step-by-Step Career Strategy
 
 #### Step 1: Build a Strong Foundation

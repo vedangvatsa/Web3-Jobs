@@ -70,6 +70,3 @@ Prepare a clear narrative that explains your motivation for the change, how you'
 
 **Will I have to take a pay cut?** 
 A pay cut may occur, especially if moving into a field with less experience. However, with adequate research and skill development, you may find opportunities that maintain or even increase your salary.
-
-### Real-World Examples
-
