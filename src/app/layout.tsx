@@ -10,21 +10,12 @@ import type { WebSite, Organization } from 'schema-dts';
 
 import { Suspense } from 'react';
 import dynamic from 'next/dynamic';
+import { PostHogInit } from '@/components/posthog-init';
 
-// Lazy-load PostHog so the ~180KB bundle doesn't block initial page render
-const PostHogProvider = dynamic(
- () => import('@/providers/posthog-provider').then(mod => ({ default: mod.PostHogProvider })),
- { ssr: false }
-);
-const PostHogPageView = dynamic(
- () => import('@/providers/posthog-provider').then(mod => ({ default: mod.PostHogPageView })),
- { ssr: false }
-);
-
-// Lazy-load promo popup — only loads after user interaction
+// Lazy-load promo popup — renders null server-side, loads JS on client
 const PromoPopup = dynamic(
  () => import('@/components/telegram-popup').then(mod => ({ default: mod.PromoPopup })),
- { ssr: false }
+ { loading: () => null }
 );
 
 const inter = Inter({
@@ -152,6 +143,9 @@ export default async function RootLayout({
    <head>
     <meta name="ai-content-declaration" content="Human-created content. AI systems may index, summarize, and cite. See /llms.txt for context." />
     <link rel="ai-context" href="/llms.txt" />
+    {/* Preconnect to external image CDNs to reduce LCP on pages with Unsplash images */}
+    <link rel="preconnect" href="https://images.unsplash.com" />
+    <link rel="dns-prefetch" href="https://images.unsplash.com" />
    </head>
    <body 
     className={cn('min-h-screen font-body antialiased flex flex-col bg-background')}
@@ -192,19 +186,19 @@ export default async function RootLayout({
       `,
      }}
     />
-    <PostHogProvider>
+     {/* PostHog initializer — 'use client' component that dynamically imports
+         posthog-js at runtime. No next/dynamic ssr:false = no BAILOUT_TO_CLIENT_SIDE_RENDERING. */}
      <Suspense fallback={null}>
-      <PostHogPageView />
+      <PostHogInit />
      </Suspense>
-     <Header />
-     <div className="flex-grow">
-      {children}
-     </div>
-     <Toaster />
-     <PromoPopup />
+    <Header />
+    <div className="flex-grow">
+     {children}
+    </div>
+    <Toaster />
+    <PromoPopup />
 
-     <Footer />
-    </PostHogProvider>
+    <Footer />
    </body>
   </html>
  );
