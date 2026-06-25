@@ -60,16 +60,10 @@ In a [DAO structure](/what-is-a-dao), you might be accountable to a working grou
 
 A few things that are specific to flat structures:
 
-**Identify the informal decision-makers.** Even in organizations without formal hierarchy, some people carry more influence than others. They might be core contributors, long-tenured community members, or people who control key resources. Figure out who those people are and build relationships with them. This isn't politics—it's understanding how the organization actually works.
+**Identify the informal decision-makers.** Even without formal hierarchy, some people carry more influence than others—core contributors, long-tenured community members, or people who control key resources. Figure out who they are and build relationships with them. This isn't politics—it's understanding how the organization actually works.
 
-**Over-communicate your progress.** In a traditional company, your manager tracks your work. In a DAO or flat team, nobody is tracking it for you. Post regular updates in public channels. Make your contributions visible. If people don't know what you're doing, they can't value it—and they can't help you when you need it.
+**Over-communicate your progress.** In a DAO or flat team, nobody is tracking your work for you. Post regular updates in public channels. Make your contributions visible. If people don't know what you're doing, they can't value it.
 
-**Build trust through consistency.** Without formal authority backing you up, your reputation is your main currency. Deliver on what you say you'll deliver. Meet your deadlines. Follow through on commitments. Over time, that consistency earns you the kind of trust and influence that no title can give you.
+**Build trust through consistency.** Without formal authority, your reputation is your main currency. Deliver on what you say you'll deliver. Meet your deadlines. Over time, that consistency earns you the kind of trust and influence that no title can give you.
 
-## The Bottom Line
-
-Managing up isn't a hack or a career trick. It's a basic professional skill: understanding the people you work with, communicating effectively, and making it easier for everyone to do good work together.
-
-Whether you're reporting to a VP at a startup or coordinating with contributors across a decentralized protocol, the core idea is the same. Figure out what matters, communicate proactively, and be the kind of person who makes the team better.
-
-Ready to put these skills to work? Check out the latest [Web3 job openings](/jobs) and find a team where you can grow.
+Whether you're reporting to a VP at a startup or coordinating with contributors across a decentralized protocol, the core idea is the same. Figure out what matters, communicate proactively, and be the kind of person who makes the team better. Check out the latest [Web3 job openings](/jobs) to put these skills to work.

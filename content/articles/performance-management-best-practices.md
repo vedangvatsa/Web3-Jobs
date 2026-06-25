@@ -10,15 +10,13 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-The annual performance review is a relic. Sitting someone down once a year to tell them how they did over the past twelve months helps nobody. The employee is blindsided by feedback they could have acted on months ago, the manager is scrambling to remember what happened in Q1, and the whole exercise becomes a box-ticking ritual rather than something that actually improves work.
+The annual performance review is a relic. Sitting someone down once a year to tell them how they did helps nobody. The employee gets blindsided by feedback they could have acted on months ago, the manager can barely remember Q1, and the whole exercise becomes a box-ticking ritual.
 
 If you're managing a team — especially a distributed or [Web3](/what-is-web3) team — you need a system that works continuously, not annually.
 
 ## Why Annual Reviews Fail
 
-Annual reviews assume that performance is static enough to evaluate in a single snapshot. It isn't. Projects shift, priorities change, and people grow at different rates throughout the year. By the time you deliver feedback in December about something that happened in March, the moment to course-correct is long gone.
-
-The other problem is recency bias. Managers disproportionately remember the last six weeks of work. If someone had a rough October but an excellent first half of the year, the review skews negative. That's not fair and it's not accurate.
+Annual reviews assume performance is static enough to evaluate in one snapshot. It isn't. By the time you deliver feedback in December about something from March, the moment to course-correct is long gone. There's also recency bias — managers disproportionately remember the last six weeks. A rough October overshadows an excellent first half.
 
 ## Build Continuous Feedback Loops
 
@@ -54,7 +52,7 @@ Good growth conversations cover:
 
 ## Performance Management in Flat Orgs and DAOs
 
-Traditional performance management assumes a clear hierarchy: manager evaluates direct report, direct report nods along. In [Web3 organizations](/what-is-web3) and DAOs, that structure often doesn't exist. Contributors might work across multiple projects, report to no single person, and operate under pseudonyms.
+Traditional performance management assumes a clear hierarchy. In [Web3 organizations](/what-is-web3) and DAOs, that structure often doesn't exist. Contributors work across multiple projects, report to no single person, and may operate under pseudonyms.
 
 So how do you manage performance without managers?
 
@@ -62,9 +60,9 @@ So how do you manage performance without managers?
 
 **Deliverable-based evaluation.** In many DAOs, your reputation is your track record. Did you ship what you committed to? Did you hit the milestones tied to your [grant or bounty](/web3-careers)? On-chain records of completed work create a transparent, tamper-proof performance history.
 
-**Compensation tied to contribution.** Some DAOs use coordinape-style systems where team members allocate tokens to peers based on perceived contribution. This replaces the manager's unilateral decision about raises and bonuses with a collective assessment.
+**Compensation tied to contribution.** Some DAOs use coordinape-style systems where team members allocate tokens to peers based on perceived contribution, replacing the manager's unilateral decision with a collective assessment.
 
-The downside of flat structures is that hard feedback often doesn't get delivered at all. When nobody is formally responsible for your development, uncomfortable truths go unsaid. The best DAO teams build explicit feedback rituals into their operating cadence — not because someone's in charge, but because everyone agreed that honest feedback matters.
+The downside of flat structures is that hard feedback often goes undelivered. When nobody is formally responsible for your development, uncomfortable truths go unsaid. The best DAO teams build explicit feedback rituals into their cadence — because everyone agreed that honest feedback matters.
 
 ## Make It Stick
 

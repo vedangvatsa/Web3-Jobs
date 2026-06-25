@@ -54,20 +54,12 @@ If your team communicates mostly through Slack, Discord, or async tools—which 
 
 ## How to Receive Feedback Well
 
-Giving feedback is half the equation. Receiving it is the other half, and most people are surprisingly bad at it.
+Giving feedback is half the equation. Receiving it is the other half.
 
-**Listen first, react second.** Your instinct will be to explain, defend, or correct the record. Resist that. Let the other person finish. Ask clarifying questions: "Can you give me a specific example?" or "What would you have preferred I did instead?"
+**Listen first, react second.** Your instinct will be to explain or defend. Resist that. Let the other person finish. Ask clarifying questions: "Can you give me a specific example?" or "What would you have preferred I did instead?"
 
-**Separate the message from the delivery.** Sometimes people give good feedback badly. They might be blunt, or choose a bad moment, or frame things as personal. Try to extract the useful signal even when the delivery is rough.
+**Separate the message from the delivery.** Sometimes people give good feedback badly. Try to extract the useful signal even when the delivery is rough.
 
-**You don't have to agree with everything.** Feedback is data, not a verdict. Take what's useful, discard what isn't. But if you're hearing the same thing from multiple people, pay attention—there's probably something real there.
+**Remember: feedback is data, not a verdict.** Take what's useful, discard what isn't. But if you're hearing the same thing from multiple people, pay attention—there's probably something real there.
 
-**Say thank you.** Even when the feedback stings, especially when it stings. The people who are willing to tell you hard truths are doing you a favor. Make it easy for them to keep doing it.
-
-## Build a Feedback Culture
-
-If you're leading a team, don't make feedback a special event. Make it routine. Quick retros after a sprint, short check-ins after a presentation, regular 1-on-1s where both sides share observations. When feedback is a normal part of how your team operates, it stops feeling like a confrontation and starts feeling like collaboration.
-
-The goal isn't to create a culture where everyone is constantly critiquing each other. It's to create one where people can be honest without it being a big deal—where pointing out a problem early is just how you work together, not an act of aggression.
-
-That's the kind of team people actually want to be on. And it starts with learning to say what you see, clearly and kindly, before the moment passes.
+**Say thank you.** Even when it stings, especially when it stings. The people willing to tell you hard truths are doing you a favor. Make it easy for them to keep doing it.

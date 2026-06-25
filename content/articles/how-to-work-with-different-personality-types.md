@@ -54,7 +54,7 @@ This isn't about being shy vs. outgoing. It's about where people get their energ
 
 ## Working With Different Styles on Distributed Web3 Teams
 
-These dynamics get amplified on distributed teams, which are the default for most [Web3 and crypto organizations](/web3-companies-and-டprojects). When you can't read the room in person, miscommunication is more likely.
+These dynamics get amplified on distributed teams, which are the default for most [Web3 and crypto organizations](/web3-companies-and-projects). When you can't read the room in person, miscommunication is more likely.
 
 A few things that help:
 
@@ -66,10 +66,6 @@ A few things that help:
 
 ## The Point Isn't to Change People
 
-You're not trying to turn a deliberator into a snap decision-maker or force an introvert to love brainstorming sessions. The goal is to build a team where different styles can coexist productively.
+You're not trying to turn a deliberator into a snap decision-maker or force an introvert to love brainstorming sessions. The goal is to build a team where different styles can coexist productively—by adjusting your communication to meet people where they are and giving them room to contribute in the ways that work best for them.
 
-That means adjusting your communication to meet people where they are, creating processes flexible enough to accommodate different work styles, and giving people room to contribute in the ways that work best for them.
-
-The best teams aren't the ones where everyone thinks alike. They're the ones where people think differently and have figured out how to make that a strength instead of a source of conflict.
-
-Looking to build or join a team that values this kind of collaboration? Browse [open Web3 jobs](/jobs) to find teams that match your work style.
+The best teams aren't the ones where everyone thinks alike. They're the ones where people think differently and have figured out how to make that a strength. Browse [open Web3 jobs](/jobs) to find teams that match your work style.

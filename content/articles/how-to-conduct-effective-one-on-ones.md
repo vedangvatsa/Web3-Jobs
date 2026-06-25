@@ -51,9 +51,9 @@ That last one matters. If you never ask for feedback as a manager, you'll never 
 
 ## Taking Notes and Following Through
 
-Keep a shared doc for each direct report. Both of you can add agenda items before the meeting. After the meeting, jot down action items and commitments. This takes two minutes and prevents the most common 1:1 failure: talking about the same problem every week without actually doing anything about it.
+Keep a shared doc for each direct report. Both of you can add agenda items before the meeting. After the meeting, jot down action items and commitments. This prevents the most common 1:1 failure: talking about the same problem every week without doing anything about it.
 
-If you committed to something — removing a blocker, giving a stretch assignment, having a conversation with another team — do it before the next 1:1. Nothing kills trust faster than a manager who agrees to help and then forgets.
+If you committed to something — removing a blocker, giving a stretch assignment, having a conversation with another team — do it before the next 1:1. Nothing kills trust faster than a manager who agrees to help and forgets.
 
 ## Handling 1:1s in Remote and Web3 Teams
 

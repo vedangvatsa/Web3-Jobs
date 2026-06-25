@@ -101,10 +101,6 @@ No, price impact is inherently negative. A significant buy order increases the p
 **How does Concentrated Liquidity (Uniswap v3) affect price impact?** 
 **[Concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap)** allows for deeper liquidity around the current market price. This results in significantly lower price impact for trades within the active liquidity range compared to prior versions.
 
-### Importance of Understanding Price Impact
-
-Grasping price impact is vital for professionals in the Web3 space. Mastering this concept can enhance trading strategies, contribute to better decision-making, and ultimately lead to higher earnings and career advancement. In the fast-paced environment of [Web3](/what-is-web3), professionals who understand and effectively manage price impact will significantly improve their trading outcomes.
-
 ### Practical Steps for Improvement
 
 1. **Solidify Core Concepts**: Start by building a strong foundation in AMM mechanics and trade execution principles. Familiarize yourself with best practices from industry experts.

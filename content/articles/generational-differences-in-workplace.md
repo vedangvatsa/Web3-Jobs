@@ -16,13 +16,13 @@ Four generations are working side by side right now, and they don't always agree
 
 Generational labels are blunt instruments, but they do reflect real trends in how people were shaped by technology, economics, and workplace norms.
 
-**Baby Boomers (born ~1946–1964)** tend to value loyalty to organizations, face-to-face communication, and structured hierarchies. They often equate visibility with productivity — if you're at your desk, you're working. Many are experienced leaders who built careers in environments where tenure was rewarded.
+**Baby Boomers (born ~1946–1964)** tend to value loyalty to organizations, face-to-face communication, and structured hierarchies. They often equate visibility with productivity — if you're at your desk, you're working.
 
-**Gen X (born ~1965–1980)** is the smallest cohort and often the most independent. They grew up as latchkey kids, and that self-sufficiency carried into their work style. They generally prefer direct communication, dislike micromanagement, and are skeptical of corporate jargon. They'll get the job done — just don't hover.
+**Gen X (born ~1965–1980)** is the smallest cohort and often the most independent. They prefer direct communication, dislike micromanagement, and are skeptical of corporate jargon. They'll get the job done — just don't hover.
 
-**Millennials (born ~1981–1996)** entered the workforce during or after the 2008 financial crisis, which shaped a healthy skepticism toward institutional loyalty. They're comfortable with collaboration tools, expect regular feedback, and tend to want purpose alongside a paycheck. They're the generation that pushed remote work into the mainstream even before the pandemic.
+**Millennials (born ~1981–1996)** entered the workforce during or after the 2008 financial crisis, shaping a skepticism toward institutional loyalty. They're comfortable with collaboration tools, expect regular feedback, and want purpose alongside a paycheck.
 
-**Gen Z (born ~1997–2012)** are digital natives who've never known a world without smartphones. They communicate in short bursts, default to async, and care deeply about transparency and values alignment. Many entered the workforce fully remote, which means they may have never experienced a traditional office.
+**Gen Z (born ~1997–2012)** are digital natives who communicate in short bursts, default to async, and care deeply about transparency. Many entered the workforce fully remote and may have never experienced a traditional office.
 
 ## Where the Friction Actually Shows Up
 
