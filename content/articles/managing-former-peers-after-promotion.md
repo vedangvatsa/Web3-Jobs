@@ -7,7 +7,7 @@ category: "Career Guides"
 data-ai-hint: "promotion manager"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+lastUpdated: "2026-06-25"
 ---
 
 Getting promoted is a significant milestone in your career. However, when that promotion places you in a management position over your former peers, the transition can be challenging. The shift in dynamics can create discomfort as you manage new relationships. The friend you once confided in about work issues is now your direct report. How you approach this transition can greatly influence your effectiveness as a manager and the team's overall morale.
@@ -74,16 +74,4 @@ You must treat them as you would any other team member. This highlights the impo
 
 Your behavior must change first. If your team invites you to informal gatherings, politely decline. In meetings, assume a facilitator role rather than participating as a peer. Make decisions that prioritize the team's best interests, even if they may not be popular. Over time, your actions will signal the shift in your role, and your team will adapt accordingly.
 
-### Why This Matters
 
-Understanding how to manage former peers is essential for your professional growth. Mastering this skill can lead to increased visibility and opportunities for advancement, especially in environments like [Web3](/what-is-web3). Effective communication and collaboration are critical in this space.
-
-### Step-by-Step Guide
-
-| Step | Action |
-|------|--------|
-| 1 | Understand the Fundamentals: Familiarize yourself with core principles of management. |
-| 2 | Assess Your Current Situation: Evaluate your strengths and weaknesses in your new role. |
-| 3 | Develop Your Personal Strategy: Create a tailored plan based on your specific context. |
-| 4 | Implement Gradually: Introduce changes step-by-step rather than all at once. |
-| 5 | Measure and Adjust: Track your progress and adjust your strategy based on feedback. |
