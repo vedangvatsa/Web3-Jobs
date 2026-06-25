@@ -13,7 +13,7 @@ Tokenomics is important for determining the success of cryptocurrency projects. 
 
 Tokenomics combines the concepts of "token" and "economics" to explore how a cryptocurrency's design impacts its supply, demand, and value. A strong tokenomics framework aligns the interests of all participants, from developers to users, encouraging them to contribute to the network's growth and security. Conversely, poorly structured tokenomics can result in inflation, centralization, and project failure.
 
-Understanding tokenomics is essential for anyone involved in the [Web3](/what-is-web3) ecosystem. This article will outline the key components of tokenomics, providing you with the necessary framework to evaluate crypto assets based on their economic characteristics.
+Understanding tokenomics is essential for anyone involved in the [Web3](/what-is-web3) ecosystem. Here we cover the key components of tokenomics, providing you with the necessary framework to evaluate crypto assets based on their economic characteristics.
 
 ### Supply
 

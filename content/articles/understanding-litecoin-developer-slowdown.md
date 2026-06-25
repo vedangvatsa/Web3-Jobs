@@ -16,7 +16,7 @@ Litecoin (LTC), often dubbed the "silver to [Bitcoin](/what-is-bitcoin)'s gold,"
 
 However, in recent years, a narrative has emerged regarding a "slowdown" in Litecoin's developer activity. On-chain data platforms and crypto analytics firms often show Litecoin with far fewer active developers and code commits compared to newer, more dynamic ecosystems like [Ethereum](/what-is-ethereum), Solana, or even rival payment coins.
 
-This article will explore this perceived slowdown, analyzing the data, providing context, and examining what this means for Litecoin's future.
+Here we cover this perceived slowdown, analyzing the data, providing context, and examining what this means for Litecoin's future.
 
 ### What the Data Says
 

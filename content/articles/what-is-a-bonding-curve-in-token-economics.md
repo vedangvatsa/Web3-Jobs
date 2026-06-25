@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-A bonding curve defines the relationship between a token's price and its supply through a mathematical model. This concept has gained traction in the field of **[tokenomics](/understanding-tokenomics)**. A bonding curve functions as a smart contract that operates as an autonomous market maker. It automatically adjusts the price of a token based on its circulating supply. When individuals purchase tokens, the contract mints new ones; conversely, when they sell tokens, it burns them, all while adjusting the price according to a predetermined curve.
+A bonding curve defines the relationship between a token's price and its supply through a mathematical model. This concept has gained traction In **[tokenomics](/understanding-tokenomics)**. A bonding curve functions as a smart contract that operates as an autonomous market maker. It automatically adjusts the price of a token based on its circulating supply. When individuals purchase tokens, the contract mints new ones; conversely, when they sell tokens, it burns them, all while adjusting the price according to a predetermined curve.
 
 This mechanism establishes a liquid and predictable market from the token's inception, eliminating reliance on traditional order book exchanges.
 

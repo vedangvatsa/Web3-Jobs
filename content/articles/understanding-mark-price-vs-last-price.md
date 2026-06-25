@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 ### Introduction
 
-In the field of crypto derivatives trading, particularly with perpetual futures, exchanges present various price points for the same asset. The two most significant prices are the **Index Price** and the **Mark Price**. While traders often look at the last traded price displayed on charts, the Mark Price is important for calculating unrealized profits and losses. More importantly, it determines whether a position will be liquidated. A strong grasp of these concepts is essential for effective risk management.
+In crypto derivatives trading, particularly with perpetual futures, exchanges present various price points for the same asset. The two most significant prices are the **Index Price** and the **Mark Price**. While traders often look at the last traded price displayed on charts, the Mark Price is important for calculating unrealized profits and losses. More importantly, it determines whether a position will be liquidated. A strong grasp of these concepts is essential for effective risk management.
 
 ### Index Price
 

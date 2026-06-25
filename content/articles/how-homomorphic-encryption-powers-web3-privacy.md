@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-In the field of [Web3](/what-is-web3), a challenge exists between the need for transparency and the requirement for privacy. Public blockchains, such as [Ethereum](/what-is-ethereum), provide a high degree of transparency, allowing all data and transactions to be accessible. This enhances auditability but raises concerns about privacy, especially for applications dealing with sensitive information, such as medical records or confidential financial transactions.
+In [Web3](/what-is-web3), a challenge exists between the need for transparency and the requirement for privacy. Public blockchains, such as [Ethereum](/what-is-ethereum), provide a high degree of transparency, allowing all data and transactions to be accessible. This enhances auditability but raises concerns about privacy, especially for applications dealing with sensitive information, such as medical records or confidential financial transactions.
 
 To address these privacy concerns, **Homomorphic Encryption (HE)** emerges as a promising solution. HE enables computations on encrypted data without requiring decryption. This means sensitive data can remain secure while still allowing for necessary operations. The outcome of these computations remains encrypted, ensuring that only authorized parties can access the final results.
 

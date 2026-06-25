@@ -14,7 +14,7 @@ The global logistics and supply chain industry generates significant value annua
 
 Web3 and blockchain technology present solutions to these persistent issues by establishing a single, shared, and immutable ledger to enhance transparency and efficiency. This development is paving the way for a new breed of **[Web3 Supply Chain Experts](/web3-supply-chain-experts-working through-blockchain-solutions)** who can design and implement these new systems.
 
-This article will detail how Web3 enhances the logistics industry and the emerging business and career opportunities that arise from these advancements.
+Here we cover how Web3 enhances the logistics industry and the emerging business and career opportunities that arise from these advancements.
 
 ### The Challenges of Traditional Logistics
 

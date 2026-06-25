@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 ## What is Just-In-Time (JIT) Liquidity?
 
-Just-In-Time (JIT) liquidity represents a strategy in the field of DeFi and Maximal Extractable Value (MEV). This approach is particularly effective on concentrated liquidity decentralized exchanges (DEXs) such as Uniswap v3. It involves using an MEV bot to add liquidity to a pool for a specified trade, then removing it immediately within the same block.
+Just-In-Time (JIT) liquidity represents a strategy In DeFi and Maximal Extractable Value (MEV). This approach is particularly effective on concentrated liquidity decentralized exchanges (DEXs) such as Uniswap v3. It involves using an MEV bot to add liquidity to a pool for a specified trade, then removing it immediately within the same block.
 
 The strategy aims to capture trading fees from a significant, known-pending transaction while avoiding the long-term capital risks associated with market making. By executing this operation in a single atomic action, JIT liquidity exemplifies a method of extracting value in decentralized finance.
 
