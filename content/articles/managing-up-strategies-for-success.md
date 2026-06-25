@@ -46,9 +46,9 @@ This shows you've thought about the problem, not just identified it. It gives yo
 
 Managers hate being blindsided. If something is going wrong—a deadline slipping, a team conflict, a technical risk that just surfaced—flag it early. Don't wait until it's a full-blown crisis.
 
-The instinct to hide bad news or try to fix it before anyone notices is understandable but counterproductive. If your manager finds out about a problem from someone else, or discovers it too late to help, you've lost trust that's hard to rebuild.
+The instinct to hide bad news is understandable but counterproductive. If your manager finds out about a problem from someone else, or discovers it too late to help, you've lost trust that's hard to rebuild.
 
-A quick heads-up like "I wanted to flag that the token integration is hitting some issues—nothing critical yet, but I'll keep you posted" goes a long way. It keeps your manager informed without creating unnecessary alarm.
+A quick heads-up like \"I wanted to flag that the token integration is hitting some issues—nothing critical yet, but I'll keep you posted\" goes a long way.
 
 ## Managing Up When There's No Traditional Boss
 

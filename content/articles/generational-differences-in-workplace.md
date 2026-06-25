@@ -54,6 +54,6 @@ DAOs add another layer. When there's no formal manager, generational expectation
 
 ## The Bottom Line
 
-Generational differences are real, but they're not destiny. Most workplace friction between age groups comes down to unspoken expectations about communication, feedback, and autonomy. Make those expectations explicit, focus on shared outcomes, and give people room to work in the way that makes them most effective. The teams that do this well — across any industry — consistently outperform those that don't.
+Generational differences are real, but they're not destiny. Most workplace friction between age groups comes down to unspoken expectations about communication, feedback, and autonomy. Make those expectations explicit, focus on shared outcomes, and give people room to work in the way that makes them most effective.
 
-If you're building or [joining a Web3 team](/jobs), expect to work across generational lines. The companies and DAOs that figure this out will attract better talent and keep it longer. The ones that don't will keep wondering why their Slack channels feel like a cold war.
+If you're building or [joining a Web3 team](/jobs), expect to work across generational lines. The companies and DAOs that figure this out will attract better talent and keep it longer.

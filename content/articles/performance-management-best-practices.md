@@ -22,7 +22,7 @@ Annual reviews assume performance is static enough to evaluate in one snapshot. 
 
 Replace the annual review with a rhythm of regular check-ins. Here's what works:
 
-**Weekly 1:1s (15-30 minutes):** Keep these short and focused. Ask what's going well, what's stuck, and what the person needs from you. This isn't a status update — you have Slack and project boards for that. This is about alignment, blockers, and how the person is actually doing.
+**Weekly 1:1s (15-30 minutes):** Ask what's going well, what's stuck, and what the person needs from you. This isn't a status update — you have Slack for that. This is about alignment and how the person is doing.
 
 **Monthly goal reviews:** Once a month, zoom out. Are the goals still the right goals? Is progress on track? Do priorities need to shift? This is where you adjust, not just observe.
 
@@ -36,7 +36,7 @@ OKRs (Objectives and Key Results) and KPIs (Key Performance Indicators) get mixe
 
 **KPIs** measure ongoing performance. Think uptime, response time, customer satisfaction scores, or code deployment frequency. They tell you whether the engine is running smoothly. You track them continuously and flag when they drift out of range.
 
-**OKRs** drive change. They set ambitious objectives with measurable results over a defined period, usually a quarter. An OKR might be "Reduce onboarding time for new contributors" with key results like "Create a self-serve documentation portal" and "Cut average time-to-first-commit from 14 days to 5."
+**OKRs** drive change. They set ambitious objectives with measurable results over a quarter. An OKR might be "Reduce onboarding time" with key results like "Create a self-serve docs portal" and "Cut time-to-first-commit from 14 days to 5."
 
 Most teams need both. KPIs keep the lights on. OKRs push things forward. The mistake is using KPIs as OKRs (which just maintains the status quo) or setting so many OKRs that none of them get real attention.
 
