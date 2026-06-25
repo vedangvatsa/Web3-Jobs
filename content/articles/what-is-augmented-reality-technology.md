@@ -69,15 +69,3 @@ Most modern smartphones and tablets have built-in AR capabilities, particularly 
 
 **3. Is an app required for AR?** 
 Most AR experiences currently rely on dedicated mobile applications. However, the trend towards "WebAR" is growing, enabling access to AR experiences directly through web browsers without needing to download an app.
-
-### Steps to Gain Proficiency in AR
-
-1. **Understand the Fundamentals**: Familiarize yourself with core concepts. Read about best practices from industry leaders to build a strong foundation.
-
-2. **Assess Your Current Situation**: Identify your strengths and weaknesses in AR. Recognizing specific challenges is important for growth.
-
-3. **Develop a Personal Strategy**: Create a tailored plan. Consider your role, team dynamics, and personal goals to craft an effective approach.
-
-4. **Implement Gradually**: Avoid overwhelming changes. Start with small adjustments and build on them. Evaluate what works and what doesn’t.
-
-5. **Measure and Adjust**: Monitor your progress and make adjustments based on feedback. A mindset focused on continuous improvement is vital.

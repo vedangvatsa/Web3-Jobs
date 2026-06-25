@@ -87,15 +87,3 @@ Maintain professionalism and provide ample notice. Send an email outlining the r
 
 **What should I do if a client claims my rate is too high?** 
 Avoid the impulse to lower your price immediately. First, inquire about their budget and see if you can adjust the project's scope to accommodate it. If they are primarily looking for the lowest cost, they may not be the right client for you.
-
-### Steps to Establishing Your Freelance Rates
-
-1. **Understand the Fundamentals**: Begin with a solid grasp of core principles around pricing. Research best practices from industry leaders to inform your approach.
-
-2. **Assess Your Current Situation**: Evaluate your current standing in the freelance market. Identify your strengths and weaknesses, and recognize specific challenges you face.
-
-3. **Develop Your Personal Pricing Strategy**: Create a plan tailored to your unique situation. Consider your skills, the dynamics of your target industry, and your long-term career goals.
-
-4. **Implement Changes Gradually**: Avoid attempting to change everything at once. Start small and build from there, tracking which strategies yield positive results.
-
-5. **Measure and Adjust**: Continuously monitor your progress. Are your efforts leading to desired outcomes? Adjust your strategies based on client feedback and market response.
