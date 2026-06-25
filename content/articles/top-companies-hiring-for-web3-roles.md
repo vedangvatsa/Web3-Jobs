@@ -31,7 +31,7 @@ These blue-chip projects create the foundational infrastructure of Web3. Governe
 **3. Uniswap Labs**
 - **What they do:** The team behind Uniswap, a top [decentralized exchange](/what-is-a-decentralized-exchange-dex) (DEX). They focus on enhancing the protocol and developing user-facing applications.
 - **Typical Roles:** Smart Contract Engineers, Frontend Engineers (React/TypeScript), Product Managers, Data Scientists.
-- **Why work here:** Play a important role in developing one of the most-used applications in DeFi, emphasizing innovation and user experience.
+- **Why work here:** Play an important role in developing one of the most-used applications in DeFi, emphasizing innovation and user experience.
 
 **4. Offchain Labs (Arbitrum) & Optimism**
 - **What they do:** These development teams are behind leading Layer 2 optimistic rollups, Arbitrum and Optimism, concentrating on scaling Ethereum.

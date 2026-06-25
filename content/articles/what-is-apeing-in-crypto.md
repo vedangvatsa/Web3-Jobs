@@ -102,7 +102,7 @@ In poker, skilled players often have a positive expected value due to their unde
 
 ### The Role of Skill and Luck
 
-Even successful apers benefit from luck. Being in the right project at the right time can be just as critical as having skill or judgment. For instance, those who invested early in Bitcoin realized significant gains, but luck also played a important role in their success.
+Even successful apers benefit from luck. Being in the right project at the right time can be just as critical as having skill or judgment. For instance, those who invested early in Bitcoin realized significant gains, but luck also played an important role in their success.
 
 ### Quality of Information
 

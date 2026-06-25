@@ -14,7 +14,7 @@ In an environment where innovation is critical, the cryptocurrency sector is cur
 
 The loss of developer talent from crypto projects occurs at an important moment, marked by shifting venture capital trends and the increasing allure of artificial intelligence (AI) for investors. This article explores the reasons behind the decline in developer activity, examines the changing venture capital sector, and assesses the implications for the future of blockchain technology.
 
-Major platforms such as [Ethereum](/what-is-ethereum), Solana, and Cosmos Network Stack lead in developer engagement and code contributions. However, all significant chains have recorded decreases in activity. Developer activity serves as a important indicator of ecosystem health, often foreshadowing value generation and innovation.
+Major platforms such as [Ethereum](/what-is-ethereum), Solana, and Cosmos Network Stack lead in developer engagement and code contributions. However, all significant chains have recorded decreases in activity. Developer activity serves as an important indicator of ecosystem health, often foreshadowing value generation and innovation.
 
 ### The Alarming Drop in Blockchain Developer Activity
 

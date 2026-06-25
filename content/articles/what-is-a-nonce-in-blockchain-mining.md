@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-In blockchain technology, particularly within Proof-of-Work systems like [Bitcoin](/what-is-bitcoin), the term **"nonce"** plays a important role in the mining process. A nonce, short for **"number used once,"** is a unique number that miners must discover to solve a block and add it to the blockchain.
+In blockchain technology, particularly within Proof-of-Work systems like [Bitcoin](/what-is-bitcoin), the term **"nonce"** plays an important role in the mining process. A nonce, short for **"number used once,"** is a unique number that miners must discover to solve a block and add it to the blockchain.
 
 ### The Role of the Nonce in Proof-of-Work Mining
 

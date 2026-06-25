@@ -63,7 +63,7 @@ Your resume should reflect your Web3 expertise. Emphasize what you have built an
 
 ## Step 5: Network Authentically
 
-Networking in Web3 focuses on building genuine relationships rather than attending formal events. Reputation plays a important role in this industry.
+Networking in Web3 focuses on building genuine relationships rather than attending formal events. Reputation plays an important role in this industry.
 
 - Offer value before asking for a job. Contribute to a project or community first.
 - Attend hackathons and conferences to meet industry builders and founders.

@@ -48,11 +48,11 @@ Tokenization refers to the creation of digital tokens on a blockchain that repre
  - **Enhanced Liquidity:** These tokenized assets can be traded continuously on blockchain marketplaces, enabling ongoing trading opportunities.
  - **Atomic Settlement:** Transactions can be settled instantly as a single, indivisible event, eliminating counterparty risk and ensuring the simultaneous exchange of assets and payments.
 
-#### 4. simplify Digital Identity for KYC/AML
+#### 4. Simplify Digital Identity for KYC/AML
 
 Financial institutions face the burden of extensive Know Your Customer (KYC) and Anti-Money Laundering (AML) compliance, a process that is often repetitive and costly.
 - **Solution:** **[Decentralized Identity (DID)](/decentralized-identity-explained)** systems enable users to control their digital identities. A bank could conduct KYC checks once and issue a **[Verifiable Credential](/a-guide-to-verifiable-credentials-in-decentralized-identity)** that users can store in a digital [wallet](/how-to-choose-a-crypto-wallet).
-- **Impact:** Users can present this credential to other financial institutions to verify their identity without undergoing the full KYC process again, thereby simplify onboarding and enhancing privacy.
+- **Impact:** Users can present this credential to other financial institutions to verify their identity without undergoing the full KYC process again, thereby simplifying onboarding and enhancing privacy.
 
 ### Career Opportunities Arising from Blockchain and Finance Integration
 

@@ -36,7 +36,7 @@ A [DAO](/what-is-a-dao) serves as an internet-native organization collectively o
 
 #### 2. NFTs and Social Tokens: Membership Redefined
 
-[Tokens](/what-is-a-token) play a important role in managing membership, identity, and economic alignment within a Web3 community.
+[Tokens](/what-is-a-token) play an important role in managing membership, identity, and economic alignment within a Web3 community.
 
 - **Token-Gated Access:** Communities can restrict access to private areas, such as Discord servers, based on token ownership. Only individuals holding specific community [NFTs](/what-are-nfts) or social tokens can participate.
 - **Practical Insight:** **Friends with Benefits (FWB)** exemplifies a social DAO where membership requires purchasing and holding a defined quantity of tokens. The token acts as a membership card, with its value linked to the community's desirability and cultural significance.

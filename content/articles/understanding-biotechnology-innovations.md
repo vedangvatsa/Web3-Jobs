@@ -32,7 +32,7 @@ In addition to genetic modification, biotechnology enables sustainable agricultu
 
 Biotechnology's impact extends beyond medicine and agriculture, reaching various industrial applications. Enzymes produced through genetically engineered microbes find use in products ranging from laundry detergents to biofuels. These bio-based processes often offer greater efficiency and reduced environmental impact compared to traditional chemical manufacturing methods.
 
-"Synthetic biology" takes biotechnology a step further. This field focuses on designing and constructing new biological parts, devices, and systems from the ground up. For instance, scientists have engineered yeast to produce artemisinin, a important anti-malarial compound. Others are working on bacteria capable of generating biofuels or biodegradable plastics.
+"Synthetic biology" takes biotechnology a step further. This field focuses on designing and constructing new biological parts, devices, and systems from the ground up. For instance, scientists have engineered yeast to produce artemisinin, an important anti-malarial compound. Others are working on bacteria capable of generating biofuels or biodegradable plastics.
 
 Biotechnology also is important for environmental remediation, known as bioremediation. Scientists engineer microorganisms to decompose pollutants, such as those resulting from oil spills or industrial waste, providing a natural means to clean contaminated areas.
 

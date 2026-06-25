@@ -64,7 +64,7 @@ Internal Link: [Explore more top AI productivity tools.](/top-ai-productivity-to
 
 ### Building Your AI-Powered Freelance Stack
 
-An effective AI toolkit does not need to be extensive. Consider this simplify stack for maximum impact:
+An effective AI toolkit does not need to be extensive. Consider this simplified stack for maximum impact:
 
 1. **General-Purpose LLM**: Tools like ChatGPT or Google Gemini serve as versatile assistants for brainstorming, research, drafting, and summarizing information.
 

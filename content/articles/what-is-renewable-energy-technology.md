@@ -42,7 +42,7 @@ Alternative hydropower methods include run-of-the-river systems, which divert a 
 
 Solar and wind power face a notable challenge: intermittency. Sunlight and wind availability can fluctuate, complicating the management of a power grid that relies heavily on these resources.
 
-Energy storage technology plays a important role in addressing this challenge. Systems that store excess energy during sunny or windy periods and release it when needed are essential for maintaining a stable renewable energy grid. Currently, lithium-ion batteries dominate the energy storage market, but research continues on alternatives, such as pumped hydro storage and compressed air storage.
+Energy storage technology plays an important role in addressing this challenge. Systems that store excess energy during sunny or windy periods and release it when needed are essential for maintaining a stable renewable energy grid. Currently, lithium-ion batteries dominate the energy storage market, but research continues on alternatives, such as pumped hydro storage and compressed air storage.
 
 An enhanced, flexible power grid also contributes to the solution. A grid capable of managing demand and shifting energy usage to times of abundant renewable power helps mitigate the intermittency issues associated with solar and wind.
 

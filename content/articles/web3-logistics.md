@@ -55,7 +55,7 @@ Web3 enhances transparency by representing shipments or individual products as [
 
 #### 3. Efficient Customs and Compliance
 
-Providing customs officials with access to a trusted, shared ledger simplify cross-border clearance processes.
+Providing customs officials with access to a trusted, shared ledger simplifies cross-border clearance processes.
 
 - **Mechanism:** All shipment documentation, including the bill of lading and certificate of origin, can be recorded on the blockchain as verifiable credentials.
 - **Benefits:** This approach accelerates processing at borders, minimizes document fraud, and enhances security.

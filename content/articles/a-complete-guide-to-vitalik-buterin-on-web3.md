@@ -57,7 +57,7 @@ To address scalability challenges, Vitalik supports a "rollup-centric roadmap." 
 Vitalik has extensively analyzed the trade-offs between these two primary types of rollups. While Optimistic Rollups are more feasible initially, he considers ZK-Rollups, which use zero-knowledge proofs to verify transaction validity, to be the future due to their superior security features and quicker withdrawal times.
 
 **Danksharding and EIP-4844:**
-To enable this rollup-centric future, Vitalik has played a important role in developing "Danksharding," a series of upgrades aimed at significantly reducing the costs for rollups to post their data to Ethereum. The first step, EIP-4844 (or "Proto-Danksharding"), introduced a new transaction type that creates dedicated "blob" space for rollup data, thereby considerably lowering costs for L2 users.
+To enable this rollup-centric future, Vitalik has played an important role in developing "Danksharding," a series of upgrades aimed at significantly reducing the costs for rollups to post their data to Ethereum. The first step, EIP-4844 (or "Proto-Danksharding"), introduced a new transaction type that creates dedicated "blob" space for rollup data, thereby considerably lowering costs for L2 users.
 
 ### Evolving Views on Governance and Society
 

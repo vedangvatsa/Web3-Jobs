@@ -19,7 +19,7 @@ The Web3 ecosystem in Mumbai emphasizes DeFi, institutional crypto services, and
 Mumbai's crypto sector is deeply intertwined with its strong financial industry.
 
 - **DeFi and FinTech Integration**: The city attracts a wealth of financial professionals, positioning it as a leading center for DeFi protocols, crypto hedge funds, and on-chain asset management platforms. These projects often require advanced financial knowledge.
-- **Institutional Crypto Adoption**: Mumbai stands leading institutional crypto adoption in India. Key players developing custody solutions, trading desks, and platforms for tokenizing real-world assets (RWAs) primarily operate from this city.
+- **Institutional Crypto Adoption**: Mumbai is leading institutional crypto adoption in India. Key players developing custody solutions, trading desks, and platforms for tokenizing real-world assets (RWAs) primarily operate from this city.
 - **Venture Capital Concentration**: As the financial core of India, Mumbai hosts numerous venture capital and private equity funds. A growing number are launching dedicated Web3 funds, which provide essential capital to local startups.
 - **Global Financial Gateway**: The city serves as the primary base for international banks and financial firms operating in India. Many are expanding their digital asset teams in Mumbai, creating high-value job opportunities for professionals skilled in both traditional and decentralized finance.
 

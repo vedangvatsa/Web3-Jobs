@@ -29,7 +29,7 @@ India has made significant progress in financial inclusion through the Pradhan M
 India has developed a strong digital infrastructure, including initiatives such as India Stack, Aadhaar, UPI, and Digilocker. These systems support diverse services and contribute to financial inclusion. The rollout of 5G technology has significantly boosted connectivity, with median mobile download speeds increasing dramatically over the years. BharatNet has connected numerous rural panchayats, providing access to e-health, e-education, and e-governance services.
 
 ### Advancements in Digital Authentication and Lending
-Digital authentication has simplify access to services, with billions of Aadhaar-based authentications and electronic Know Your Customer (e-KYC) verifications completed. The digital lending ecosystem is also expanding, as FinTech and BigTech companies collaborate to enhance credit access for individuals and businesses.
+Digital authentication has simplified access to services, with billions of Aadhaar-based authentications and electronic Know Your Customer (e-KYC) verifications completed. The digital lending ecosystem is also expanding, as FinTech and BigTech companies collaborate to enhance credit access for individuals and businesses.
 
 ### Data Protection and Cybersecurity
 India's Digital Personal Data Protection Act (DPDP Act), enacted in 2023, addresses privacy concerns by granting users greater control over their data. However, as the digital sector expands, cybersecurity challenges are escalating, necessitating reliable protective measures.
@@ -47,7 +47,7 @@ In a traditional financial system, physical cash, bills and coins, constitutes c
 
 Possessing a CBDC equates to holding a direct claim on the central bank, akin to having physical cash. The central bank is tasked with issuing the CBDC and maintaining its value, mirroring its management of paper currency.
 
-For consumers, CBDCs offer a convenient payment option comparable to mobile payment applications or credit cards, while being backed by the security of the central bank. Businesses benefit from simplify payment processes, reduced transaction costs, and diminished risks associated with handling large amounts of cash. Governments can also use CBDCs as efficient tools for fund distribution, enhancing control over the money supply.
+For consumers, CBDCs offer a convenient payment option comparable to mobile payment applications or credit cards, while being backed by the security of the central bank. Businesses benefit from simplified payment processes, reduced transaction costs, and diminished risks associated with handling large amounts of cash. Governments can also use CBDCs as efficient tools for fund distribution, enhancing control over the money supply.
 
 CBDCs can assume several forms, each tailored to achieve specific objectives within a nation's financial system. These forms vary based on intended use cases, involved entities in distribution, and the infrastructure necessary for support. The following table outlines the types of CBDCs:
 

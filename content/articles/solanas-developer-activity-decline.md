@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-Solana, a high-speed Layer 1 [blockchain](/what-is-a-blockchain), has established itself as a significant player in the [Web3](/what-is-web3) ecosystem. Known for its rapid transactions and low fees, it has drawn a active community of builders focused on [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and payment solutions. Recent data reveals a troubling trend: a notable and sustained decline in the number of active developers on the platform. Developer activity serves as a important indicator of ecosystem health and future innovation. This decline raises questions regarding the sustainability of Solana, often dubbed the "Ethereum killer."
+Solana, a high-speed Layer 1 [blockchain](/what-is-a-blockchain), has established itself as a significant player in the [Web3](/what-is-web3) ecosystem. Known for its rapid transactions and low fees, it has drawn a active community of builders focused on [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and payment solutions. Recent data reveals a troubling trend: a notable and sustained decline in the number of active developers on the platform. Developer activity serves as an important indicator of ecosystem health and future innovation. This decline raises questions regarding the sustainability of Solana, often dubbed the "Ethereum killer."
 
 This analysis examines the data surrounding Solana's developer activity decline, identifies contributing factors such as technical challenges and market shifts, and discusses the implications for the long-term viability of the Solana ecosystem.
 
@@ -49,7 +49,7 @@ Solana's architecture prioritizes high performance but introduces complexities t
 
 **3. The Rise of Ethereum's Layer 2 Ecosystem**
 
-The rapid expansion of Ethereum's Layer 2 scaling solutions, including Arbitrum, Optimism, and various ZK-rollups, plays a important role in this decline.
+The rapid expansion of Ethereum's Layer 2 scaling solutions, including Arbitrum, Optimism, and various ZK-rollups, plays an important role in this decline.
 
 - **The "Best of Both Worlds" Narrative:** Layer 2 solutions provide fast, low-cost transactions while benefiting from Ethereum's security and decentralization. This poses a direct challenge to Solana's value proposition.
 - **EVM Compatibility:** Many major Layer 2s are EVM-compatible, enabling developers to use familiar tools and languages like [Solidity](/best-programming-languages-for-blockchain-development). For developers rooted in the Ethereum ecosystem, transitioning to an EVM-compatible Layer 2 offers a smoother learning curve than adapting to Solana's Rust language and unique architecture.

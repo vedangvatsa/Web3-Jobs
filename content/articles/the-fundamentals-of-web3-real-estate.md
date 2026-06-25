@@ -68,6 +68,6 @@ While still maturing, the Web3 real estate industry holds immense potential. Fut
 
 1. **Your Property as a [DeFi](/what-is-defi) Asset**: Tokenized real estate could serve as collateral for loans on DeFi platforms, enhancing financial flexibility for property owners.
 
-2. **Automated Rental Income**: Smart contracts can enable the collection and distribution of rental income to token holders' wallets monthly, simplify income management.
+2. **Automated Rental Income**: Smart contracts can enable the collection and distribution of rental income to token holders' wallets monthly,  simplifying income management.
 
 3. **[DAO](/what-is-a-dao)-Governed Properties**: Token holders may collectively manage properties as a Decentralized Autonomous Organization (DAO), participating in decisions related to maintenance and rental policies.

@@ -61,6 +61,6 @@ In a trustless environment, application design must consistently build user trus
 - **Help Center & Documentation:** Maintain a detailed help center and accessible documentation, potentially through platforms like Discord.
 - **Application-Level Reversibility:** While blockchain transactions are irreversible, consider designing features that allow users to undo actions within the application, such as canceling an NFT listing before a sale.
 
-Designers play a important role in supporting Web3 adoption. By understanding user perspectives, simplify complex interactions, and focusing on trust and security, UX/UI professionals can create intuitive experiences that promote the decentralized internet's benefits.
+Designers play an important role in supporting Web3 adoption. By understanding user perspectives,  simplifying complex interactions, and focusing on trust and security, UX/UI professionals can create intuitive experiences that promote the decentralized internet's benefits.
 
 ## The Expanding Web3 Opportunity

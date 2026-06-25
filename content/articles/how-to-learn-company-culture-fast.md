@@ -29,7 +29,7 @@ Establishing a connection with a more experienced colleague can accelerate your 
 
 Frame your inquiries strategically. Instead of asking, “Can I do X?” consider asking, “Why do we approach X this way?” This approach signals that you think critically about your role and invites the opportunity for mentorship.
 
-Maintain a “culture notebook” to document the insights you gather. This living document can serve as a reference in future situations where you encounter similar challenges, simplify your integration process.
+Maintain a “culture notebook” to document the insights you gather. This living document can serve as a reference in future situations where you encounter similar challenges,  simplifying your integration process.
 
 ### 4. Dive Into Documentation – The Formal Playbook
 

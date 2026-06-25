@@ -113,7 +113,7 @@ Liquidation mechanisms create professional opportunities:
 
 - **Risk Analysts** model liquidation risk for protocols and users, helping set collateral ratios and liquidation thresholds. These roles require quantitative skills and understanding of market microstructure.
 
-- **Protocol Economists** design liquidation mechanisms that balance lender protection with borrower experience, a important component of protocol design.
+- **Protocol Economists** design liquidation mechanisms that balance lender protection with borrower experience, an important component of protocol design.
 
 - **Quant Traders** at crypto funds analyze liquidation cascades and market impact, using liquidation events as alpha signals.
 

@@ -40,7 +40,7 @@ This evolving model requires professionals who understand both real estate finan
 
 **1. Real Estate Tokenization Platform Developer** 
 These engineers build platforms that enable the entire tokenization lifecycle. 
-- **Skills:** A hybrid skill set is important. Professionals need to be proficient in **[smart contract developers](/smart-contract-jobs)** who understand token standards and [DeFi](/what-is-defi), as well as traditional backend engineers capable of developing secure, scalable off-chain systems for managing property data and investor information.
+- **Skills:** A hybrid skill set is important. Teams need **[smart contract developers](/smart-contract-jobs)** who understand token standards and [DeFi](/what-is-defi), as well as traditional backend engineers capable of developing secure, scalable off-chain systems for managing property data and investor information.
 
 **2. Legal & Compliance Specialist (RWA Focus)** 
 This role is critical due to the complex legal processes involved in tokenizing real estate assets, which touch on securities law, property law, and Anti-Money Laundering (AML) regulations. 
@@ -58,7 +58,7 @@ The true potential of tokenized real estate emerges when it can serve as a produ
 
 Tokenization in real estate is in its infancy. Significant challenges persist, ranging from regulatory uncertainties to establishing reliable on-chain valuation methods, and building trust within a traditionally conservative industry.
 
-still, the potential rewards are substantial. By enabling fractional ownership, increased liquidity, and enhanced transparency, Web3 can democratize access to this important asset class. As technology and regulatory frameworks mature, the intersection of property and protocols will likely drive job growth, creating valuable opportunities for professionals fluent in both real estate and decentralization.
+Still, the potential rewards are substantial. By enabling fractional ownership, increased liquidity, and enhanced transparency, Web3 can democratize access to this important asset class. As technology and regulatory frameworks mature, the intersection of property and protocols will likely drive job growth, creating valuable opportunities for professionals fluent in both real estate and decentralization.
 
 ### Why Understanding Tokenization Matters
 

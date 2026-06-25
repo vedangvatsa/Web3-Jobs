@@ -9,7 +9,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-Foundry has emerged as a modern toolkit for Ethereum development, addressing key limitations of traditional JavaScript-based frameworks like Hardhat and Truffle. These frameworks have played a important role in the Ethereum ecosystem, but they require developers to switch between Solidity for smart contracts and JavaScript for tests and scripts. This context-switching can lead to inefficiencies and bugs.
+Foundry has emerged as a modern toolkit for Ethereum development, addressing key limitations of traditional JavaScript-based frameworks like Hardhat and Truffle. These frameworks have played an important role in the Ethereum ecosystem, but they require developers to switch between Solidity for smart contracts and JavaScript for tests and scripts. This context-switching can lead to inefficiencies and bugs.
 
 **Foundry** redefines the development process by allowing developers to write tests directly in Solidity. This integration promotes consistency and reduces the cognitive load on developers. Foundry has quickly gained traction among Ethereum developers, thanks to its speed, portability, and modular features.
 

@@ -19,7 +19,7 @@ Casablanca's Web3 ecosystem builds on the city’s strengths in finance and comm
 
 - **Financial Hub:** Casablanca hosts the Casablanca Stock Exchange and the headquarters of Morocco's largest banks. This concentration of financial expertise lays a strong foundation for the growth of [DeFi](/what-is-defi) and regulated digital asset platforms.
 - **Emphasis on FinTech and Payments:** Morocco's FinTech sector is expanding, particularly in digital payments and financial inclusion. The potential for blockchain technology to enhance efficiency and reduce costs in cross-border payments and remittances is significant, especially for the large Moroccan diaspora in Europe.
-- **Trade and Logistics Center:** As a leading port city, Casablanca acts as a important hub for international trade. This status naturally opens up opportunities for enterprise blockchain solutions in supply chain management and trade finance, enhancing transparency and efficiency.
+- **Trade and Logistics Center:** As a leading port city, Casablanca acts as an important hub for international trade. This status naturally opens up opportunities for enterprise blockchain solutions in supply chain management and trade finance, enhancing transparency and efficiency.
 - **Community Engagement:** Although the developer community is still small, grassroots interest in Web3 is growing. An increasing number of meetups and online forums are dedicated to blockchain education and networking.
 
 ### In-Demand Roles and Salary Insights

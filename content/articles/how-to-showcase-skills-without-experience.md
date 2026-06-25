@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 The classic career paradox presents a significant challenge: you cannot secure a job without experience, yet you cannot gain experience without a job. This cycle frustrates many individuals, including students, career changers, and those re-entering the workforce. Overcoming this obstacle involves shifting the focus of your [resume](/how-to-build-a-web3-resume-that-stands-out) from your past employment to your potential contributions.
 
-Highlight your skills rather than job titles. A strategic resume can showcase your competencies and potential, even if you lack traditional work experience. Creativity plays a important role here; draw from diverse aspects of your life, including personal projects, academic achievements, and volunteer work. Below are effective strategies to enhance your resume.
+Highlight your skills rather than job titles. A strategic resume can showcase your competencies and potential, even if you lack traditional work experience. Creativity plays an important role here; draw from diverse aspects of your life, including personal projects, academic achievements, and volunteer work. Below are effective strategies to enhance your resume.
 
 ### 1. Lead with a Powerful Skills Section
 

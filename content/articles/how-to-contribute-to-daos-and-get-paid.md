@@ -120,7 +120,7 @@ A: Initial results often appear within a few weeks. Significant improvements typ
 A: You often have more agency than it seems, even in challenging environments. Start with small, self-contained actions that require no external approval. Gradually build momentum, documenting your progress and achievements. If your environment continues to hinder development, it may be time to explore opportunities that better support growth.
 
 **Q: How does this apply specifically to Web3?** 
-A: Web3 organizations differ significantly from traditional companies, emphasizing the importance of self-direction and written communication. With flatter hierarchies, you have direct access to decision-makers but also greater responsibility. The pace of work is quicker, with product cycles often completed in weeks instead of months. Adapting to these dynamics is a important professional skill in Web3.
+A: Web3 organizations differ significantly from traditional companies, emphasizing the importance of self-direction and written communication. With flatter hierarchies, you have direct access to decision-makers but also greater responsibility. The pace of work is quicker, with product cycles often completed in weeks instead of months. Adapting to these dynamics is an important professional skill in Web3.
 
 **Q: Can I implement this alongside my current role?** 
 A: Yes. Focus on intentionality rather than adding more hours. Identify two or three practices that align with your daily tasks and apply them consistently. Small, deliberate improvements yield better results than sporadic large efforts. Most individuals who successfully adopt new professional habits do so without altering their total work hours.

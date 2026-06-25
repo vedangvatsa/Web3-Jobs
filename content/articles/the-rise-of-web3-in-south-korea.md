@@ -37,7 +37,7 @@ Some of the world’s most significant Layer 1 blockchain projects originate fro
 
 ### 3. Entertainment and NFTs
 
-Riding the wave of K-Pop and Korean media, entertainment companies are increasingly exploring NFTs as an new way to engage fans. These companies are developing digital collectibles, ticketing solutions, and fan interaction platforms using blockchain technology. This trend creates demand for [NFT](/what-are-nfts) strategists, community managers, and frontend developers capable of creating engaging user experiences.
+Riding the wave of K-Pop and Korean media, entertainment companies are increasingly exploring NFTs as a new way to engage fans. These companies are developing digital collectibles, ticketing solutions, and fan interaction platforms using blockchain technology. This trend creates demand for [NFT](/what-are-nfts) strategists, community managers, and frontend developers capable of creating engaging user experiences.
 
 ### 4. Exchanges and Financial Services
 

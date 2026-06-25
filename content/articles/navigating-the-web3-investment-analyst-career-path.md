@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-The role of an Investment Analyst at a [Web3](/what-is-web3) venture capital fund stands out as one of the most sought-after positions in the crypto industry. Analysts in this field play a important role in identifying promising founders and protocols that will influence the decentralized internet's future.
+The role of an Investment Analyst at a [Web3](/what-is-web3) venture capital fund stands out as one of the most sought-after positions in the crypto industry. Analysts in this field play an important role in identifying promising founders and protocols that will influence the decentralized internet's future.
 
 Unlike traditional finance, which relies on private company data and financial statements, a Web3 analyst operates in an area of open-source code, transparent on-chain metrics, and rapidly shifting narratives. This guide outlines the responsibilities of a Web3 Investment Analyst and the skills necessary to thrive in this competitive sector.
 

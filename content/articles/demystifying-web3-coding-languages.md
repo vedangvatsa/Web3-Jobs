@@ -52,7 +52,7 @@ Creating a user interface is essential for any blockchain application. JavaScrip
 
 ### Other Notable Languages
 
-- **Cairo:** A specialized language designed for writing "provable" programs for STARK-based zero-knowledge rollups, particularly StarkNet. This language is more advanced and niche but plays a important role in Web3 scaling.
+- **Cairo:** A specialized language designed for writing "provable" programs for STARK-based zero-knowledge rollups, particularly StarkNet. This language is more advanced and niche but plays an important role in Web3 scaling.
 - **Go & C++:** Although these languages are not typically used for writing smart contracts, they are frequently employed to create the core infrastructure of blockchains, including clients, nodes, and consensus engines.
 
 ### Which Language Should You Learn First?

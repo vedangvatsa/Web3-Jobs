@@ -24,7 +24,7 @@ The emergence of Web3 projects has led to the formation of entire companies and 
 
 **Business development** professionals enable revenue growth and partnership opportunities. Many non-technical founders excel in business development, as they possess the skills needed to negotiate deals and build strategic partnerships.
 
-**Operations and finance** teams ensure smooth daily functions. These professionals manage budgets, payroll, and compliance, playing a important role in the stability of startups.
+**Operations and finance** teams ensure smooth daily functions. These professionals manage budgets, payroll, and compliance, playing an important role in the stability of startups.
 
 **Legal and compliance** experts handle the increasing complexity of regulations. A strong grasp of cryptocurrency laws, securities regulations, and operational requirements is essential in this evolving sector.
 
@@ -45,7 +45,7 @@ The following are prominent non-technical career paths within Web3:
 | Community Manager | Build and nurture online communities on platforms like Discord and Twitter. | Experience managing online communities, excellent communication. | Competitive |
 | Business Development Manager | Identify and execute revenue opportunities and partnerships. | Business development experience, strong negotiation skills. | Competitive |
 | Operations and Finance Specialist | Manage operations, financial tracking, and HR functions. | Background in finance or operations, detail-oriented. | Competitive |
-| Legal and Compliance Professional | Work through and ensure adherence to regulatory standards. | Legal experience, familiarity with cryptocurrency regulations. | Competitive |
+| Legal and Compliance Professional | Interpret and ensure adherence to regulatory standards. | Legal experience, familiarity with cryptocurrency regulations. | Competitive |
 | Content Creator and Writer | Produce educational content and marketing materials. | Strong writing skills, ability to simplify complex topics. | Competitive |
 
 ## Steps to Transition into Web3

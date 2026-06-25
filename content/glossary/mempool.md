@@ -182,7 +182,7 @@ Mempool architecture is evolving:
 
 - **Application-Layer Solutions**: Apps building in MEV resistance at the smart contract layer rather than relying on mempool changes.
 
-The mempool will remain a important but contested part of blockchain infrastructure.
+The mempool will remain an important but contested part of blockchain infrastructure.
 
 ## Best Practices
 

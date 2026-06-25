@@ -14,7 +14,7 @@ The [Web3](/what-is-web3) revolution continues to reshape career opportunities, 
 ## 1. Solidity / Smart Contract Developer
 *The architects of the decentralized world.*
 
-Smart contract developers play a important role in Web3. They are responsible for the core logic of decentralized applications (dApps), writing, testing, and deploying the immutable code that fuels everything from [DeFi](/what-is-defi) protocols to [NFT](/what-are-nfts) marketplaces.
+Smart contract developers play an important role in Web3. They are responsible for the core logic of decentralized applications (dApps), writing, testing, and deploying the immutable code that fuels everything from [DeFi](/what-is-defi) protocols to [NFT](/what-are-nfts) marketplaces.
 
 ### Key Responsibilities
 - Write secure, efficient, and gas-optimized smart contracts using languages like [Solidity](/solidity-for-beginners) or Rust.

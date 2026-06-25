@@ -44,7 +44,7 @@ The role of a Web3 product manager has specific challenges. They must manage pro
 - **Ideal Candidates:** Experienced product managers from Web2 who quickly adapt and understand complex technical and economic concepts.
 
 #### 4. UX/UI Designer
-Poor user experience remains a significant obstacle to Web3 adoption. Designers who can simplify the intricacies of [blockchain](/what-is-a-blockchain) play a important role.
+Poor user experience remains a significant obstacle to Web3 adoption. Designers who can simplify the intricacies of [blockchain](/what-is-a-blockchain) play an important role.
 
 - **Responsibilities:** They create intuitive and aesthetically pleasing interfaces for decentralized applications (dApps), making complex tasks like connecting a [wallet](/how-to-choose-a-crypto-wallet), signing transactions, and understanding gas fees more user-friendly.
 - **Ideal Candidates:** Talented UX/UI designers with strong portfolios and a deep empathy for user experience.

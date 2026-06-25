@@ -30,7 +30,7 @@ Calculating market cap involves a simple formula:
 Market cap offers a more insightful metric for evaluating the relative sizes of different cryptocurrencies compared to merely looking at the price of individual coins.
 
 - **Common Misconception:** A newcomer might observe that Dogecoin trades at $0.15 while Ripple (XRP) trades at $0.50, incorrectly assuming that XRP represents a "larger" or "more valuable" project. This interpretation overlooks essential factors.
-- **Understanding Real Value:** Supply plays a important role. Dogecoin has a circulating supply exceeding 140 billion coins, while XRP's circulating supply is approximately 55 billion.
+- **Understanding Real Value:** Supply plays an important role. Dogecoin has a circulating supply exceeding 140 billion coins, while XRP's circulating supply is approximately 55 billion.
  - **Dogecoin Market Cap:** 140 billion * $0.15 = **billions in value**
  - **XRP Market Cap:** 55 billion * $0.50 = **billions in value**
 - This analysis shows that XRP constitutes a larger network than Dogecoin, despite its higher per-coin price.

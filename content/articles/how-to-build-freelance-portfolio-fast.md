@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-As a [freelancer](/how-to-start-freelancing-for-beginners), your [portfolio](/building-web3-portfolio) serves as a important tool for attracting clients. It provides evidence of your capabilities and achievements. A well-structured portfolio can lead to high-paying opportunities and exciting projects. However, new freelancers often face a challenge: how to build a portfolio without prior client work.
+As a [freelancer](/how-to-start-freelancing-for-beginners), your [portfolio](/building-web3-portfolio) serves as an important tool for attracting clients. It provides evidence of your capabilities and achievements. A well-structured portfolio can lead to high-paying opportunities and exciting projects. However, new freelancers often face a challenge: how to build a portfolio without prior client work.
 
 This situation creates a dilemma. You need a portfolio to acquire clients, but you need clients to create a portfolio. Fortunately, you can take proactive steps to construct an impressive portfolio without waiting for paid work. With creativity and determination, you can showcase your skills to potential clients and secure your first projects more rapidly.
 

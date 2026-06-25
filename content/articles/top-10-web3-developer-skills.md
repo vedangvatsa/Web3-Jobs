@@ -79,7 +79,7 @@ For those focused on the core infrastructure of blockchains, proficiency in a sy
 
 ### 10. Asynchronous Written Communication
 
-Effective written communication is a important soft skill in Web3. Many teams operate in remote environments, making clear and concise communication essential.
+Effective written communication is an important soft skill in Web3. Many teams operate in remote environments, making clear and concise communication essential.
 
 - **What to know:** Practice creating detailed documentation, writing clear bug reports, and leaving thoughtful comments on code contributions.
 - **How to learn:** Contribute to an open-source project. This experience will enhance your remote collaboration and communication skills.

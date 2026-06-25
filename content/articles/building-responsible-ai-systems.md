@@ -143,7 +143,7 @@ Data engineers focusing on ownership protocols and privacy-preserving collection
 Experts with knowledge of both AI and blockchain can help manage emerging regulatory frameworks.
 
 ### Product Managers
-Individuals who can integrate responsible AI practices into product development play a important role in shaping future AI systems.
+Individuals who can integrate responsible AI practices into product development play an important role in shaping future AI systems.
 
 ### Community Managers
 Roles in managing decentralized AI governance DAOs are also emerging, requiring expertise in community engagement and governance.

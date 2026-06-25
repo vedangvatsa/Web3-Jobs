@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 Kolkata, recognized as India's cultural capital, is increasingly establishing itself within the country's [Web3](/what-is-web3) sector. While it does not yet rival tech giants like Bangalore or Hyderabad, Kolkata boasts a rich heritage in arts and literature. This cultural foundation, paired with a youthful and enthusiastic population, is building a promising environment for Web3 innovation. The city's Web3 scene emphasizes community engagement, creativity, and marketing, making it an appealing location for non-technical careers in the crypto industry.
 
-The city is witnessing a surge in roles such as community managers, content creators, and marketing professionals. These individuals play a important part in helping both Indian and international blockchain protocols connect with the expansive Bengali-speaking audience. This guide explores the growing [Web3 job](/web3-jobs-for-beginners) market in Kolkata, focusing on its strengths, available opportunities, and ways to engage with this evolving ecosystem.
+The city is witnessing a surge in roles such as community managers, content creators, and marketing professionals. These individuals play an important part in helping both Indian and international blockchain protocols connect with the expansive Bengali-speaking audience. This guide explores the growing [Web3 job](/web3-jobs-for-beginners) market in Kolkata, focusing on its strengths, available opportunities, and ways to engage with this evolving ecosystem.
 
 ### Overview of Kolkata's Web3 Scene
 

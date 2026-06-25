@@ -42,7 +42,7 @@ Voice recognition systems fall into two primary categories:
 
 Voice recognition technology has diverse applications, particularly in security and customer service:
 
-* **Authentication in Call Centers**: Financial institutions increasingly rely on voice recognition for verifying customer identities over the phone. This method can authenticate identity within seconds of the conversation, simplify the process and enhancing security.
+* **Authentication in Call Centers**: Financial institutions increasingly rely on voice recognition for verifying customer identities over the phone. This method can authenticate identity within seconds of the conversation,  simplifying the process and enhancing security.
 
 * **Device Security**: Although less prevalent than fingerprint or facial recognition, some devices use voice recognition for unlocking and accessing secure features.
 

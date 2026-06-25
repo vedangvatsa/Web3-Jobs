@@ -57,7 +57,7 @@ With a portfolio of contributions, you can now focus on refining your resume and
 - **Reframe Your Web2 Experience:** Translate your previous experience into Web3 terms.
  - *Instead of:* "Managed a social media calendar for a consumer brand."
  - *Try:* "Cultivated an online community of members and executed content strategies to drive user engagement and growth."
-- **Include a "Web3 Contributions" Section:** This is a important part of your new resume. Link directly to your Twitter threads, blog posts, DAO contributions, and GitHub projects.
+- **Include a "Web3 Contributions" Section:** This is an important part of your new resume. Link directly to your Twitter threads, blog posts, DAO contributions, and GitHub projects.
 - **Network by Adding Value:** Avoid direct messages solely asking for job opportunities. Engage with others’ content on Twitter, ask thoughtful questions in their Discord, and when you reach out, mention a specific contribution you made to their ecosystem.
 
 Breaking into Web3 without direct experience requires a shift in thinking. By immersing yourself in the culture, contributing proactively, and documenting your journey, you can create a strong reputation. This approach will help you secure your first role in this dynamic industry.

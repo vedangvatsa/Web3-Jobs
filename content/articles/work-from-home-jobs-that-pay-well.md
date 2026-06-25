@@ -46,7 +46,7 @@ Product managers oversee the development and success of products within an organ
 
 ### 4. Digital Marketing Manager
 
-Digital marketing has evolved into a important aspect of business strategy. Digital marketing managers create and implement strategies to enhance brand visibility online.
+Digital marketing has evolved into an important aspect of business strategy. Digital marketing managers create and implement strategies to enhance brand visibility online.
 
 **Responsibilities:** They manage various aspects of online marketing, including search engine optimization (SEO), content marketing, social media, email campaigns, and paid advertising.
 

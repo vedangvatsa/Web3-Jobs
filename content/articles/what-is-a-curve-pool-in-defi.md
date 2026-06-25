@@ -80,4 +80,4 @@ While Curve is primarily recognized for stablecoin swaps, it also accommodates o
 While impermanent loss is relatively low in stablecoin pools, the primary risks involve [smart contract](/what-are-smart-contracts) vulnerabilities and the potential for one of the stablecoins to lose its peg. If a stablecoin, such as USDT, significantly de-pegs from $1, LPs in a pool containing USDT would incur losses as arbitrageurs drain the more valuable stablecoins.
 
 **What are Curve V2 pools?** 
-Curve V2 introduced an new algorithm tailored for volatile, uncorrelated assets, such as ETH/USDC. This version employs a dynamic peg and a form of concentrated liquidity that adjusts automatically, aiming to deliver a more efficient trading experience than Uniswap v3 for volatile pairs, while providing a more passive experience for LPs.
+Curve V2 introduced a new algorithm tailored for volatile, uncorrelated assets, such as ETH/USDC. This version employs a dynamic peg and a form of concentrated liquidity that adjusts automatically, aiming to deliver a more efficient trading experience than Uniswap v3 for volatile pairs, while providing a more passive experience for LPs.

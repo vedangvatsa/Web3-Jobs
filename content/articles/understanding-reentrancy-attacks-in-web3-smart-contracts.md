@@ -153,7 +153,7 @@ Regularly assess your progress. Are you achieving desired results? Adjust your s
 | Name | Role | Challenge Faced | Outcome Achieved |
 |--------|---------------------------|------------------------------------------------|---------------------------------------------|
 | Sarah | Developer at a blockchain startup | Struggled with security vulnerabilities in contracts | Achieved a significant reduction in security issues within a few months |
-| Juan | Product Manager in [DeFi](/what-is-defi) | Encountered frequent bugs in smart contracts | simplify deployment processes, reducing errors significantly |
+| Juan | Product Manager in [DeFi](/what-is-defi) | Encountered frequent bugs in smart contracts | Simplified deployment processes, reducing errors significantly |
 | Maya | Transitioning from Web2 to Web3 | Needed to adapt to decentralized methodologies | Successfully integrated into Web3 teams, enhancing productivity |
 
 ### Common Mistakes to Avoid

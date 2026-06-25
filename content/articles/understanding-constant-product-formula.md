@@ -30,7 +30,7 @@ This article breaks down the constant product formula, its practical application
 
 ### Breaking Down the Formula
 
-Each component of `x * y = k` plays a important role:
+Each component of `x * y = k` plays an important role:
 
 - **`x`**: Total reserve of Token A in the liquidity pool.
  - *Example*: The number of [ETH](/what-is-ethereum) tokens in an ETH/USDC pool.

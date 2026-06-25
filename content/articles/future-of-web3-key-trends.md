@@ -71,7 +71,7 @@ By 2025, the first successful AI dApps will likely emerge. Potential examples in
 
 ## 4. Real-World Asset (RWA) Tokenization
 
-Tokenizing real-world assets is a important step in bridging the trillions of dollars in traditional finance with the efficiency and transparency of DeFi.
+Tokenizing real-world assets is an important step in bridging the trillions of dollars in traditional finance with the efficiency and transparency of DeFi.
 
 ### What is it?
 RWA tokenization involves creating digital representations of physical or traditional financial assets on a blockchain. This process can encompass a variety of assets, including real estate, private equity, government bonds, and art. Tokens represent claims on their underlying assets.
