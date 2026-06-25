@@ -5,7 +5,7 @@ category: "protocols"
 difficulty: "Intermediate"
 image: "https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=1080"
 imageAlt: "Cross-chain bridge connecting blockchains"
-description: "A protocol that enables the transfer of tokens, data, or smart contract commands between different blockchain networks, facilitating interoperability in the multi-chain ecosystem."
+description: "A protocol that enables the transfer of tokens, data, or smart contract commands between different blockchain networks, enabling interoperability in the multi-chain ecosystem."
 relatedTerms: ["Layer 2", "Cross-Chain", "Wrapped Token", "Interoperability", "Multi-Chain"]
 synonyms: ["Cross-Chain Bridge", "Blockchain Bridge"]
 ---

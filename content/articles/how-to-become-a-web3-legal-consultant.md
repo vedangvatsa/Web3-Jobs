@@ -3,7 +3,7 @@
 title: "How to Become a Web3 Legal Consultant"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "law legal books"
-description: "A guide for legal professionals looking to transition into the fast-growing Web3 space. Learn what skills are in demand and how to navigate the complex."
+description: "A guide for legal professionals looking to transition into the fast-growing Web3 space. Learn what skills are in demand and how to work through the complex."
 category: "Career Guides"
 
 publishedDate: "2026-03-11"

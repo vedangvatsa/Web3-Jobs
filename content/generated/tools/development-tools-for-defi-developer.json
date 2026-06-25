@@ -55,7 +55,7 @@
       },
       {
         "heading": "Testing and Fuzzing",
-        "description": "Tools for comprehensive smart contract testing.",
+        "description": "Tools for detailed smart contract testing.",
         "items": [
           {
             "name": "Echidna",

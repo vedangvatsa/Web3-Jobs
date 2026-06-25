@@ -2,7 +2,7 @@
 name: Wave Mobile Money
 website: https://wave.com
 category: Crypto Payments
-description: Mobile money service facilitating financial transactions in Africa.
+description: Mobile money service enabling financial transactions in Africa.
 ---
 
 Wave Mobile Money provides a mobile payment platform that allows users to send and receive money, pay bills, and make purchases via their mobile devices. The service aims to enhance financial inclusion in Africa, particularly in countries where traditional banking services are limited. 

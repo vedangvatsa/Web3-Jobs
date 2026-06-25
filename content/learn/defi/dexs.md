@@ -17,7 +17,7 @@ quiz:
   - question: "What is a Liquidity Provider (LP)?"
     options:
       - "Someone who writes smart contracts"
-      - "A user who deposits pairs of tokens into a DEX to facilitate trading"
+      - "A user who deposits pairs of tokens into a DEX to enable trading"
       - "A regulator"
       - "A node validator"
     correct: 1

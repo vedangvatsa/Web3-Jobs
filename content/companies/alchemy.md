@@ -13,7 +13,7 @@ Alchemy provides blockchain developer tools and infrastructure used by top Web3 
 
 - **Supernode**: Blockchain node infrastructure
 - **Alchemy SDK**: Developer toolkit for building dApps
-- **NFT API**: Comprehensive API for NFT data
+- **NFT API**: Detailed API for NFT data
 - **Account Kit**: Smart account infrastructure (ERC-4337)
 - **Webhooks & Enhanced APIs**: Real-time blockchain data
 

@@ -12,4 +12,4 @@ Chainlink Labs is the core development team behind the Chainlink network, the in
 ## Products and Services
 Chainlink enables smart contracts to interact with external information—such as asset prices, weather data, sports results, and other off-chain computations—without relying on a single, centralized point of failure. The infrastructure provides developers with the middleware needed to create hybrid smart contracts.
 
-The company is also the driving force behind the Cross-Chain Interoperability Protocol (CCIP), facilitating secure cross-chain communication and helping bridge traditional financial institutions with various blockchain networks.
+The company is also the driving force behind the Cross-Chain Interoperability Protocol (CCIP), enabling secure cross-chain communication and helping bridge traditional financial institutions with various blockchain networks.

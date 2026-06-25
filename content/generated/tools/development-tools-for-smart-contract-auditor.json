@@ -21,7 +21,7 @@
     "canonicalSlug": "development-tools-for-smart-contract-auditor"
   },
   "content": {
-    "intro": "Smart contract auditing requires a comprehensive toolkit spanning automated analysis, manual review aids, and workflow management. Here are the essential tools used by professional auditors.",
+    "intro": "Smart contract auditing requires a detailed toolkit spanning automated analysis, manual review aids, and workflow management. Here are the essential tools used by professional auditors.",
     "sections": [
       {
         "heading": "Static Analysis",

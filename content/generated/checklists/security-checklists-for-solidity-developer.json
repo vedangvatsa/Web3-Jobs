@@ -8,7 +8,7 @@
   },
   "seo": {
     "title": "Smart Contract Security Checklist for Solidity Developers",
-    "description": "A comprehensive security checklist for Solidity developers to audit their smart contracts before deployment. Covers reentrancy, access control, and more.",
+    "description": "A detailed security checklist for Solidity developers to audit their smart contracts before deployment. Covers reentrancy, access control, and more.",
     "keywords": [
       "solidity-developer",
       "checklists",

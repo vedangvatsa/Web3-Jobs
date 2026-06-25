@@ -235,7 +235,7 @@
         "items": [
           {
             "name": "Alchemy NFT API",
-            "description": "Comprehensive NFT API. Get ownership, metadata, and floor prices.",
+            "description": "Detailed NFT API. Get ownership, metadata, and floor prices.",
             "category": "API",
             "url": "https://www.alchemy.com/nft-api",
             "pricing": "Free tier + Paid",

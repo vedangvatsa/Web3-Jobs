@@ -15,7 +15,7 @@ Anchorage Digital Bank, N.A. received conditional approval from the Office of th
 
 ## Products and Services
 
-Anchorage Digital offers a comprehensive suite of services for institutional clients:
+Anchorage Digital offers a detailed suite of services for institutional clients:
 
 - **Digital Asset Custody**: Secure storage solutions for cryptocurrencies and tokens
 - **Trading Services**: Access to liquidity and trading capabilities
@@ -36,7 +36,7 @@ Anchorage Digital serves institutional clients including:
 
 ## Security and Compliance
 
-As a federally chartered bank, Anchorage Digital operates under strict regulatory oversight and maintains robust security practices. The company employs advanced cryptographic techniques and institutional-grade security measures to protect client assets.
+As a federally chartered bank, Anchorage Digital operates under strict regulatory oversight and maintains strong security practices. The company employs advanced cryptographic techniques and institutional-grade security measures to protect client assets.
 
 ## Technology
 

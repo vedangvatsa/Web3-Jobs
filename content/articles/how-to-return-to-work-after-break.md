@@ -1,7 +1,7 @@
 ---
 
 title: "How to Return to Work After a Career Break"
-description: "Returning to the workforce after a career break can be intimidating. This guide provides actionable steps to help you navigate your job search with confidence."
+description: "Returning to the workforce after a career break can be intimidating. This guide provides actionable steps to help you work through your job search with confidence."
 image: "https://picsum.photos/seed/319/1200/630"
 data-ai-hint: "return to office"
 category: "Career Guides"

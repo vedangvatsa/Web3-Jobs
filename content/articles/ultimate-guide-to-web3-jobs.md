@@ -1,7 +1,7 @@
 ---
 
 title: "a full guide to Landing a Web3 Job in 2026"
-description: "Your full guide to navigating the Web3 job market. Discover the most in-demand roles, the skills you need, and the platforms to find your dream."
+description: "Your full guide to working through the Web3 job market. Discover the most in-demand roles, the skills you need, and the platforms to find your dream."
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 category: "Career Guides"
 data-ai-hint: "man working laptop"

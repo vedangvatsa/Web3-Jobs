@@ -47,7 +47,7 @@
           },
           {
             "title": "Reentrancy Pattern Catalog",
-            "description": "Build a comprehensive catalog of reentrancy variations including cross-function, cross-contract, and read-only reentrancy with code examples.",
+            "description": "Build a detailed catalog of reentrancy variations including cross-function, cross-contract, and read-only reentrancy with code examples.",
             "difficulty": "intermediate",
             "timeEstimate": "2 weeks",
             "skills": [

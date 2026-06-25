@@ -50,7 +50,7 @@
           },
           {
             "title": "Moderation Playbook",
-            "description": "Create a comprehensive moderation guide with policies, escalation procedures, and templates.",
+            "description": "Create a detailed moderation guide with policies, escalation procedures, and templates.",
             "difficulty": "intermediate",
             "skills": [
               "Moderation",
@@ -122,7 +122,7 @@
           },
           {
             "title": "FAQ and Knowledge Base",
-            "description": "Build comprehensive FAQ documentation for a Web3 project.",
+            "description": "Build detailed FAQ documentation for a Web3 project.",
             "difficulty": "beginner",
             "skills": [
               "Documentation",
@@ -233,7 +233,7 @@
         "items": [
           {
             "title": "Governance Facilitation Log",
-            "description": "Document your role facilitating governance discussions and votes.",
+            "description": "Document your role enabling governance discussions and votes.",
             "difficulty": "intermediate",
             "skills": [
               "Facilitation",
@@ -277,7 +277,7 @@
           },
           {
             "title": "Governance Documentation",
-            "description": "Create comprehensive governance documentation for a DAO.",
+            "description": "Create detailed governance documentation for a DAO.",
             "difficulty": "intermediate",
             "skills": [
               "Documentation",

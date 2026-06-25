@@ -1,6 +1,6 @@
 ---
 
-title: "Demystifying Web3 Jobs in South Korea: A Guide for Aspiring Professionals"
+title: "explaining Web3 Jobs in South Korea: A Guide for Aspiring Professionals"
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 description: "An inside look at the growing Web3 job market in South Korea, covering key players, in-demand roles, salary expectations, and cultural nuances for job."
 category: "Career Guides"

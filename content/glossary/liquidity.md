@@ -4,7 +4,7 @@ slug: "liquidity"
 category: "defi"
 difficulty: "Beginner"
 image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
-description: "Liquidity refers to how easily an asset can be bought or sold without significantly affecting its price, or the availability of assets in a market or liquidity pool to facilitate trading."
+description: "Liquidity refers to how easily an asset can be bought or sold without significantly affecting its price, or the availability of assets in a market or liquidity pool to enable trading."
 relatedTerms: ["liquidity-pool", "dex", "amm", "slippage"]
 synonyms: ["market depth", "available capital"]
 ---

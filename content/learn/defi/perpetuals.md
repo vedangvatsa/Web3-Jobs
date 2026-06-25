@@ -22,14 +22,14 @@ quiz:
       - "The protocol's trading fee."
     correct: 1
     explanation: "When the perp price is above spot, longs pay shorts (incentivizing shorting). When the perp price is below spot, shorts pay longs. This mechanism keeps prices aligned without expiration."
-  - question: "What happens when a leveraged position gets liquidated?"
+  - question: "What happens when a used position gets liquidated?"
     options:
       - "The exchange refunds your money."
       - "Your collateral is seized because the position's losses approached the deposited margin, and the exchange closes the position to prevent bad debt."
       - "You receive more tokens."
       - "Nothing — you can always hold."
     correct: 1
-    explanation: "Liquidation occurs when losses eat through most of your collateral. At that point, the exchange forcibly closes your position and takes your remaining margin to cover the loss. With 10x leverage, a 10% move against you wipes out your entire deposit."
+    explanation: "Liquidation occurs when losses eat through most of your collateral. At that point, the exchange forcibly closes your position and takes your remaining margin to cover the loss. With 10x use, a 10% move against you wipes out your entire deposit."
   - question: "What is the main advantage of decentralized perp exchanges over centralized ones like Binance?"
     options:
       - "They are always cheaper."
