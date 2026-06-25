@@ -63,20 +63,3 @@ Bonding curves find numerous applications in various domains:
 - **Susceptibility to Speculation**: Bonding curves can experience speculative bubbles, where hype inflates prices rapidly, often resulting in sharp declines as early investors cash out.
 
 Bonding curves present a compelling toolkit in the [Web3](/what-is-web3) economic framework. They introduce new methods for price discovery and liquidity, establishing markets that operate transparently and autonomously through code.
-
-### Implementing Bonding Curves in Practice
-
-**Step 1: Grasp Fundamental Concepts** 
-Begin by understanding the foundational principles of bonding curves. This knowledge will underpin all future efforts in this area. Engage with industry literature to absorb best practices from leaders.
-
-**Step 2: Evaluate Your Current Standing** 
-Assess your current understanding and skills. Identify strengths and weaknesses, along with specific challenges you face. Establishing a clear baseline is important.
-
-**Step 3: Create a Tailored Strategy** 
-Formulate a personalized approach based on your circumstances. Each individual’s context varies, so customize your strategy to align with your role, team dynamics, and personal objectives.
-
-**Step 4: Gradual Implementation** 
-Avoid overwhelming changes. Start with minor adjustments, monitoring their effectiveness before expanding. This method builds sustainable improvement.
-
-**Step 5: Continuous Measurement and Adjustment** 
-Track your progress consistently. Are you achieving desired outcomes? Use feedback to refine your approach, building a mindset focused on continuous improvement.
