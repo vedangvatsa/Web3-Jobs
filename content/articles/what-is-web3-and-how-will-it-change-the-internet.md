@@ -63,7 +63,7 @@ Web3 operates on the principle of "don't trust, verify." Blockchains function as
 
 ### What Can You Build on Web3? (Web3 Examples)
 
-The principles of Web3, decentralization, ownership, and verifiability, facilitate a new category of applications previously unattainable. Here are some noteworthy **Web3 examples**:
+The principles of Web3, decentralization, ownership, and verifiability, enable a new category of applications previously unattainable. Here are some noteworthy **Web3 examples**:
 
 - **Decentralized Finance ([DeFi](/what-is-defi)):** A fully alternative financial system enabling lending, borrowing, and trading independent of traditional banks. This sector has generated numerous **[job in cryptocurrency](/defi-careers)** roles.
 - **Non-Fungible [Tokens](/what-is-a-token) (NFTs):** A mechanism for creating unique and provably scarce digital items, granting true ownership of digital art, music, collectibles, and in-game assets to creators and users.

@@ -37,8 +37,8 @@ Additive manufacturing offers many advantages that enhance industrial production
 
 | Advantage | Description |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Design Freedom and Complexity** | Engineers can create intricate geometries, such as complex internal channels and organic lattice structures, optimizing parts for performance rather than manufacturability. |
-| **Mass Customization** | 3D printers can produce unique parts directly from digital files, facilitating custom-fit solutions in sectors like healthcare. |
+| **Design Freedom and Complexity** | Engineers can create complex geometries, such as complex internal channels and organic lattice structures, optimizing parts for performance rather than manufacturability. |
+| **Mass Customization** | 3D printers can produce unique parts directly from digital files, enabling custom-fit solutions in sectors like healthcare. |
 | **Rapid Prototyping** | The ability to quickly produce physical prototypes from digital designs accelerates product development cycles, allowing for multiple design iterations within days. |
 | **Supply Chain Consolidation** | On-demand printing reduces reliance on global supply chains and large inventories. For instance, military units can produce replacement parts in the field. |
 | **Waste Reduction** | Additive manufacturing significantly reduces waste by using only the necessary material for each component, contrasting sharply with traditional subtractive manufacturing methods. |

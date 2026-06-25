@@ -49,7 +49,7 @@ These certifications cater to developers aiming to validate their skills in buil
 | Chainshot Ethereum Developer Bootcamp | Chainshot | This hands-on program guides developers from beginner to full-stack dApp creation, recognized for its thorough curriculum and career support. |
 | Pointer | Pointer | This platform offers project-based tutorials for various Web3 technologies, often in partnership with relevant protocols. |
 
-**Is it worth it?** Yes, particularly for Web2 developers transitioning into Web3. These programs provide the necessary structure and portfolio development to facilitate this shift.
+**Is it worth it?** Yes, particularly for Web2 developers transitioning into Web3. These programs provide the necessary structure and portfolio development to enable this shift.
 
 #### Tier 3: Knowledge-Based Certifications
 

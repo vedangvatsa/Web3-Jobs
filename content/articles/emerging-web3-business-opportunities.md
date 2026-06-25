@@ -14,7 +14,7 @@ The [Web3](/what-is-web3) industry presents numerous entrepreneurial opportuniti
 
 ### 1. Decentralized Physical Infrastructure Networks (DePIN)
 
-DePIN represents a significant advancement in the Web3 sector, integrating crypto incentives to facilitate the development of real-world physical infrastructure.
+DePIN represents a significant advancement in the Web3 sector, integrating crypto incentives to enable the development of real-world physical infrastructure.
 
 - **The Concept:** Rather than relying on a single entity to establish a network, like a telecom company constructing a 5G network, DePIN protocols motivate individuals and small businesses worldwide to contribute their hardware, creating a collaborative network.
 - **Examples:**
@@ -40,7 +40,7 @@ The user experience of crypto wallets has hindered Web3 adoption. Account Abstra
 - **The Concept:** Account Abstraction transforms every user’s wallet into a [smart contract](/what-are-smart-contracts), enabling features that simplify crypto usage, akin to email.
 - **Key Features:**
  - **Social Recovery:** Users can recover their wallets through trusted contacts, eliminating the reliance on seed phrases.
- - **Gas Abstraction:** This feature allows decentralized applications to cover users' transaction fees, facilitating a "gasless" experience.
+ - **Gas Abstraction:** This feature allows decentralized applications to cover users' transaction fees, enabling a "gasless" experience.
 - **The Opportunity:** Developers can create the next generation of "smart wallets" that prioritize user-friendliness and security, with the objective of becoming the "Gmail of Web3."
 
 ### 4. Web3 Gaming and the Creator Economy
@@ -60,4 +60,4 @@ As the Web3 economy expands, so does the demand for advanced data and analytics 
 - **The Concept:** Blockchains serve as transparent public databases. The opportunity lies in developing tools that can query, analyze, and visualize on-chain data, providing actionable insights.
 - **The Opportunity:**
  - **Niche Analytics Platforms:** While Dune Analytics leads general analysis, there is a clear need for specialized platforms focusing on niches like MEV analysis, DAO governance tracking, or NFT market intelligence.
- - **On-Chain Credit Scoring:** Models that assess a wallet's on-chain history to generate a decentralized credit score, potentially facilitating undercollateralized lending in [DeFi](/what-is-defi).
+ - **On-Chain Credit Scoring:** Models that assess a wallet's on-chain history to generate a decentralized credit score, potentially enabling undercollateralized lending in [DeFi](/what-is-defi).

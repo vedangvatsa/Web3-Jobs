@@ -30,7 +30,7 @@ Integrated development environments (IDEs) like Foundry and Hardhat serve as fou
 
 ### 2. Blockchain Interaction Libraries: Ethers.js & Viem
 
-JavaScript libraries like Ethers.js and Viem facilitate blockchain interaction within your frontend application.
+JavaScript libraries like Ethers.js and Viem enable blockchain interaction within your frontend application.
 
 | Library | Description | Advantages |
 |-----------|-------------------------------------------------------|----------------------------------------------------------|

@@ -42,7 +42,7 @@ With increasing demands for privacy and scalability, ZK-proofs will transition f
 
 #### 3. AI / DAO Facilitator
 
-As DAOs grow more complex, they will increasingly use AI agents to automate processes and facilitate optimized decision-making. The AI/DAO Facilitator will act as the human oversight, responsible for designing, managing, and governing these AI systems.
+As DAOs grow more complex, they will increasingly use AI agents to automate processes and enable optimized decision-making. The AI/DAO Facilitator will act as the human oversight, responsible for designing, managing, and governing these AI systems.
 
 - **Future Focus**: This role will involve crafting prompts and reward systems for AI agents tasked with managing DAO treasuries or optimizing protocol parameters, ensuring that AI actions align with community values and objectives.
 - **Skills Needed**: A blend of knowledge in machine learning, prompt engineering, and decentralized governance principles will be essential. This exemplifies a hybrid career combining AI and Web3 expertise, which is becoming more critical.

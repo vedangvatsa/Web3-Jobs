@@ -18,10 +18,10 @@ The Web3 community in "Tana" embodies a grassroots spirit, emphasizing social im
 
 Antananarivo's Web3 ecosystem is in its early stages, with growth potential driven by several distinctive factors:
 
-- **Biodiversity and Conservation Opportunities:** Madagascar ranks among the most critical regions for biodiversity globally. This creates significant use cases for Regenerative Finance (ReFi) and conservation-focused Web3 projects. Blockchain can facilitate transparent funding systems for conservation, wildlife tracking, and sustainable eco-tourism models.
+- **Biodiversity and Conservation Opportunities:** Madagascar ranks among the most critical regions for biodiversity globally. This creates significant use cases for Regenerative Finance (ReFi) and conservation-focused Web3 projects. Blockchain can enable transparent funding systems for conservation, wildlife tracking, and sustainable eco-tourism models.
 - **Youthful Talent Pool:** Madagascar has a large, youthful population eager to learn coding and engage with digital technologies. The low cost of living makes it an appealing location for startups and remote workers.
 - **Mobile Connectivity Expansion:** As mobile internet access improves, there is a substantial opportunity for mobile-first decentralized applications (dApps) that can deliver financial services and other digital tools to a population underserved by traditional infrastructure.
-- **Francophone Connections:** Madagascar's links to the French-speaking world provide pathways to more developed Web3 ecosystems in Europe and Francophone Africa, facilitating collaboration and knowledge exchange.
+- **Francophone Connections:** Madagascar's links to the French-speaking world provide pathways to more developed Web3 ecosystems in Europe and Francophone Africa, enabling collaboration and knowledge exchange.
 
 ### In-Demand Roles and Salary Expectations
 

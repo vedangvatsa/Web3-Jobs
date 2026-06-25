@@ -42,7 +42,7 @@ Creating a mini-brief for significant tasks can help clarify these points, ensur
 
 ### 4. Delegate Authority, Not Just the Task
 
-When delegating, also grant the necessary authority to complete the task. If the person needs information from another department, introduce them and give them permission to proceed. Allowing your team to make decisions shows trust and facilitates task completion.
+When delegating, also grant the necessary authority to complete the task. If the person needs information from another department, introduce them and give them permission to proceed. Allowing your team to make decisions shows trust and enables task completion.
 
 ### 5. Don't Micromanage the "How"
 

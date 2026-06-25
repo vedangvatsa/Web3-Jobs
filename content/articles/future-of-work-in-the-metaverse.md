@@ -18,7 +18,7 @@ This exploration of the [future of work](/future-of-work-in-web3) within the met
 
 Working in the metaverse introduces distinct characteristics that enhance collaboration and productivity.
 
-- **Immersive Co-presence:** Unlike traditional video calls, the metaverse allows genuine co-presence, allowing colleagues to engage in a shared 3D environment. This facilitates more intuitive and effective teamwork.
+- **Immersive Co-presence:** Unlike traditional video calls, the metaverse allows genuine co-presence, allowing colleagues to engage in a shared 3D environment. This enables more intuitive and effective teamwork.
 - **Digital-Native Economies:** Metaverse platforms operate on [Web3 principles](/what-is-web3), featuring economies driven by cryptocurrencies and [NFTs](/what-are-nfts). This setup encourages new work formats, value generation, and compensation models rooted in virtual interactions.
 - **Persistence:** The virtual workspace remains intact even when users log off. This continuity allows for ongoing projects, information displays, and the sustained presence of company culture.
 
@@ -31,7 +31,7 @@ With the expansion of the metaverse, a new class of professionals will emerge, t
 | Metaverse Architect / 3D World Builder | Designers and planners of virtual environments for work and leisure. | Proficiency in 3D modeling software (e.g., Unreal Engine, Unity), spatial design understanding, creativity. |
 | Digital Fashion Designer / Avatar Stylist | Creators of unique digital clothing and accessories for avatars. | Skills in 3D design software (e.g., Blender, Substance Painter), fashion sense, real-time optimization knowledge. |
 | Virtual Event Manager | Organizers of large-scale virtual events such as conferences and concerts. | Event planning skills, technical proficiency in virtual platforms, ability to create engaging experiences. |
-| Metaverse Economist | Analysts managing the complex economies of virtual worlds like [Decentraland and The Sandbox](/navigating-the-metaverse). | Knowledge of macroeconomics, game theory, and [tokenomics](/understanding-tokenomics). |
+| Metaverse Economist | Analysts managing the complex economies of virtual worlds like [Decentraland and The Sandbox](/working through-the-metaverse). | Knowledge of macroeconomics, game theory, and [tokenomics](/understanding-tokenomics). |
 | AI Agent / NPC Developer | Developers creating AI-powered non-player characters that enhance user experience in the metaverse. | Skills in AI/machine learning and game design, ability to create engaging and believable AI interactions. |
 | Community and Safety Moderator | Moderators ensuring safe and welcoming environments in social virtual spaces. | Strong communication, conflict resolution, and community management skills, knowledge of virtual safety issues. |
 

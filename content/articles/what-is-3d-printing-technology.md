@@ -23,7 +23,7 @@ Numerous technologies exist within the field of 3D printing, each possessing uni
 | Fused Deposition Modeling (FDM) | The most widespread and cost-effective printing method. FDM printers extrude melted plastic filament through a nozzle to build objects layer by layer. | Affordable, widely available | Limited materials, lower resolution |
 | Stereolithography (SLA) | The first method developed in the 1980s, SLA uses a UV laser to cure liquid resin into solid plastic. | High detail, smooth surface finish | More expensive, requires post-processing|
 | Selective Laser Sintering (SLS)| Uses a laser to fuse powdered materials, typically nylon, layer by layer without needing support structures. | Complex geometries, strong parts | Higher material costs, slower process |
-| Direct Metal Laser Sintering (DMLS)| Similar to SLS but uses metal powders. A laser melts metal particles together to create strong, intricate metal components. | High strength, complex designs | Very costly, limited material options |
+| Direct Metal Laser Sintering (DMLS)| Similar to SLS but uses metal powders. A laser melts metal particles together to create strong, complex metal components. | High strength, complex designs | Very costly, limited material options |
 
 ### Impact on Manufacturing and Prototyping
 
@@ -31,13 +31,13 @@ Numerous technologies exist within the field of 3D printing, each possessing uni
 
 3D printing supports on-demand manufacturing. Businesses can print spare parts as needed rather than maintaining extensive inventories. This approach proves especially beneficial for outdated machinery, where spare components may no longer be in production.
 
-Additive manufacturing enables the creation of intricate geometries unattainable through traditional methods. Engineers can design parts with internal lattice structures, optimizing strength while minimizing weight. This advantage is particularly important in industries like aerospace, where every gram affects performance.
+Additive manufacturing enables the creation of complex geometries unattainable through traditional methods. Engineers can design parts with internal lattice structures, optimizing strength while minimizing weight. This advantage is particularly important in industries like aerospace, where every gram affects performance.
 
 ### Applications Beyond Traditional Manufacturing
 
 The uses of 3D printing extend far beyond manufacturing. In the medical sector, professionals use it to produce custom surgical guides, implants, and prosthetics tailored to individual patients. Dentists use 3D printers to create crowns, bridges, and clear aligners on-site, enhancing patient care and reducing turnaround times. Also, researchers are exploring bioprinting, which involves printing living tissues and potentially entire organs for future transplantation.
 
-Consumer applications also abound. Individuals create bespoke items ranging from phone cases to game pieces. Architects use 3D printing for detailed building models, facilitating better client presentations. The fashion industry experiments with 3D-printed clothing and footwear, pushing the boundaries of design and production.
+Consumer applications also abound. Individuals create bespoke items ranging from phone cases to game pieces. Architects use 3D printing for detailed building models, enabling better client presentations. The fashion industry experiments with 3D-printed clothing and footwear, pushing the boundaries of design and production.
 
 ### The Future of 3D Printing Technology
 
@@ -73,7 +73,7 @@ Create a tailored plan that addresses your unique needs. Consider your professio
 Avoid overwhelming yourself with drastic changes. Start with small adjustments and expand your efforts as you gain confidence and experience. This step-by-step approach supports sustainable improvement.
 
 #### Step 5: Measure and Adjust
-Continuously monitor your progress. Are you achieving the desired results? Use feedback to refine your strategy. This iterative mindset facilitates ongoing development.
+Continuously monitor your progress. Are you achieving the desired results? Use feedback to refine your strategy. This iterative mindset enables ongoing development.
 
 ### Real-World Applications of 3D Printing
 

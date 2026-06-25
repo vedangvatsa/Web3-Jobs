@@ -58,7 +58,7 @@ Projects face unclear regulations, particularly when conducting token sales or o
 
 The altcoin ecosystem offers diverse career opportunities. Blockchain developers work on layer-1 protocols or build applications on existing platforms. Marketing and community managers help projects build user bases. Analysts research and evaluate altcoin projects for investment funds or media outlets.
 
-Understanding altcoins opens doors in venture capital, where investors fund early-stage blockchain projects. Exchanges need expertise in evaluating which altcoins to list. Legal and compliance professionals help projects navigate regulatory requirements. The variety of altcoin projects means there are opportunities for people with almost any skill set.
+Understanding altcoins opens doors in venture capital, where investors fund early-stage blockchain projects. Exchanges need expertise in evaluating which altcoins to list. Legal and compliance professionals help projects work through regulatory requirements. The variety of altcoin projects means there are opportunities for people with almost any skill set.
 
 ## Future Outlook
 

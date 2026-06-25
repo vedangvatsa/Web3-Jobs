@@ -19,7 +19,7 @@ The regulatory framework in Hong Kong serves as the backbone of its Web3 strateg
 Hong Kong seeks to establish itself as the foremost "TradFi-to-DeFi" bridge in Asia, drawing in institutional investors and established financial firms into the crypto sector.
 
 - **A Regulated Hub for Digital Assets:** The approval of spot [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) ETFs marked a significant milestone, showcasing Hong Kong's ambition to compete with other global financial centers by offering regulated crypto investment products. This development has prompted increased activity from asset managers and financial institutions.
-- **Gateway to Capital:** The city's strong capital markets and its direct link to mainland China through programs like Stock Connect facilitate substantial capital flows within the region.
+- **Gateway to Capital:** The city's strong capital markets and its direct link to mainland China through programs like Stock Connect enable substantial capital flows within the region.
 - **Emphasis on Compliance and Institutions:** The market focuses on creating secure and compliant infrastructure for institutional investors, including regulated exchanges, custody solutions, and asset management platforms.
 - **Active Conference Scene:** Hong Kong hosts numerous major Web3 events, such as the Hong Kong Web3 Festival and various high-profile summits, attracting leading experts from across Asia and beyond.
 

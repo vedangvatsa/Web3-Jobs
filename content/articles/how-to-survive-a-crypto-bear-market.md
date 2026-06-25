@@ -41,7 +41,7 @@ A bear market presents a unique opportunity. The distractions of the bull market
 - **High-Quality Content:** With fewer "tourists" and scammers around, the quality of content on platforms like Twitter and podcasts improves. This is an ideal time to learn from recognized experts in the field.
 
 **2. Expand Your [Portfolio](/building-web3-portfolio):**
-- **Launch Personal Projects:** Use your newfound time to develop that side project you have considered. Whether it is building a new dApp, contributing to an open-source protocol, or creating a detailed Dune Analytics dashboard, these endeavors enhance your skills and provide concrete evidence of your work.
+- **Launch Personal Projects:** Use your newfound time to develop that side project you have considered. Whether it is building a new dApp, contributing to an open-source protocol, or creating a detailed Dune Analytics dashboard, these efforts enhance your skills and provide concrete evidence of your work.
 - **GitHub as an Asset:** A portfolio of public contributions on GitHub makes you an attractive candidate for top jobs that still exist in well-funded projects.
 
 **3. Network with Committed Professionals:**

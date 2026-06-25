@@ -28,7 +28,7 @@ Several factors often converge to trigger this professional identity crisis:
 | **The Arrival Fallacy** | Achieving a long-sought goal, like a promotion to Director, may not bring the anticipated happiness. |
 | **Industry Disruption** | Changes in your industry due to technology or market shifts can render your skills less relevant. |
 
-### A Survival Guide for Navigating Your Crisis
+### A Survival Guide for Working through Your Crisis
 
 Experiencing a mid-career crisis can feel like being lost in a dense forest. Rather than reacting impulsively, take a moment to pause and assess your situation. 
 
@@ -57,7 +57,7 @@ After exploring various options, you may discover that a small adjustment is all
 - **Big Pivot (New Field)**: If you choose a completely new direction, focus on bridging any skill gaps. This may involve enrolling in a more intensive learning program. Update your [resume](/how-to-build-a-web3-resume-that-stands-out) and LinkedIn profile to reflect your journey, emphasizing your [transferable skills](/transferable-skills-every-professional-has) and the outcomes of your career experiments.
 - **Entrepreneurial Pivot**: For some, a mid-career crisis can inspire the decision to start a business. Your years of experience can provide valuable insights and connections, but validate your business idea thoroughly before taking the leap.
 
-A mid-career crisis signifies growth, not failure. It indicates a need for evolution. By applying reflection, experimentation, and strategic action, you can navigate this challenging period and emerge with a career that is both successful and fulfilling.
+A mid-career crisis signifies growth, not failure. It indicates a need for evolution. By applying reflection, experimentation, and strategic action, you can work through this challenging period and emerge with a career that is both successful and fulfilling.
 
 ### Frequently Asked Questions
 
@@ -65,7 +65,7 @@ A mid-career crisis signifies growth, not failure. It indicates a need for evolu
 Burnout typically involves emotional exhaustion, cynicism, and a sense of ineffectiveness related to your job. Conversely, a mid-career crisis revolves around existential questions about your career path. It often emerges from a place of discontent that burnout may initially trigger.
 
 **2. Is it feasible to change careers in my 40s?**
-Transitioning careers at this stage requires careful financial planning. Saving a buffer for a potential pay cut or educational expenses is wise. However, your years of experience are assets, not liabilities. You are not starting from scratch. Your network, reputation, and transferable skills can facilitate a smoother transition into a new field.
+Transitioning careers at this stage requires careful financial planning. Saving a buffer for a potential pay cut or educational expenses is wise. However, your years of experience are assets, not liabilities. You are not starting from scratch. Your network, reputation, and transferable skills can enable a smoother transition into a new field.
 
 **3. How should I communicate my career change to family and friends?**
 Be transparent. Explain your quest for greater fulfillment and outline your structured approach. Sharing your journey can encourage their support, making the process feel less isolating.

@@ -56,7 +56,7 @@ Rehearse your story until it flows naturally. The way you frame your break is as
 
 Re-entering the job market may take time, and you might face rejection along the way. Maintaining a positive attitude is important.
 
-* **Establish a Routine**: Treat your job search as a structured endeavor. Dedicate specific hours each day to exploring job opportunities, tailoring applications, and networking.
+* **Establish a Routine**: Treat your job search as a structured effort. Dedicate specific hours each day to exploring job opportunities, tailoring applications, and networking.
 * **Celebrate Small Wins**: Acknowledge minor victories, such as receiving positive feedback on a networking email or completing an informational interview. These moments can help sustain your motivation.
 * **Maintain Confidence**: Your career break does not diminish your past achievements or future potential. You possess valuable skills and experiences. Own your journey and articulate your value confidently.
 
@@ -84,4 +84,4 @@ Even a period of rest can be framed positively. You can refer to it as a "sabbat
 
 **Should I consider a "returnship" or a contract role first?**
 
-These options can facilitate a smoother transition back into the workforce. A returnship offers internship-like experiences for seasoned professionals, providing a way to update skills. Contract roles can also help establish your value within a company.
+These options can enable a smoother transition back into the workforce. A returnship offers internship-like experiences for seasoned professionals, providing a way to update skills. Contract roles can also help establish your value within a company.

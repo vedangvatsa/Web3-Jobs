@@ -145,7 +145,7 @@ Investigations often involve tracking complex fund flows through numerous addres
 
 ### Curiosity
 
-Successful investigators possess natural curiosity and enjoy solving intricate puzzles. The role requires detective work with code.
+Successful investigators possess natural curiosity and enjoy solving complex puzzles. The role requires detective work with code.
 
 ### Understanding of Financial Crime
 

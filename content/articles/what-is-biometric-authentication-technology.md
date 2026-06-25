@@ -79,7 +79,7 @@ The table below illustrates the growing adoption of biometric authentication acr
 | Government | Significant | National ID systems, border control |
 | Education | Significant | Campus access, examination integrity |
 
-The data indicates a notable trend towards biometric authentication across various sectors, underscoring its significance in enhancing security protocols.
+The data indicates a notable trend towards biometric authentication across various sectors, highlighting its significance in enhancing security protocols.
 
 ### Advantages of Implementing Biometric Authentication
 

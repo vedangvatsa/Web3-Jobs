@@ -34,7 +34,7 @@ Decentralized Autonomous Organizations (DAOs) represent a unique aspect of the W
 The complexity of the Web3 stack evolves rapidly, resulting in an ongoing demand for specialists with niche expertise.
 
 - **Smart Contract Security:** As the total value locked in DeFi protocols increases, the demand for smart contract security auditors rises. These professionals play a critical role in preventing security breaches.
-- **Zero-Knowledge Proofs:** The rise of ZK-Rollups and other privacy-focused technologies creates a high demand for cryptographers and engineers skilled in the intricate mathematics of [ZK-proofs](/zero-knowledge-proofs-explained).
+- **Zero-Knowledge Proofs:** The rise of ZK-Rollups and other privacy-focused technologies creates a high demand for cryptographers and engineers skilled in the complex mathematics of [ZK-proofs](/zero-knowledge-proofs-explained).
 - **Protocol Research:** Competitive pressures compel protocols to innovate continually. This environment leads to roles for researchers capable of designing modern automated market makers (AMMs), lending protocols, and governance systems.
 - **On-Chain Data Analysis:** The transparency of blockchains has generated a new field of data science that focuses on analyzing on-chain data to understand user behavior and market trends.
 

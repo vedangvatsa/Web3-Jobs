@@ -52,7 +52,7 @@ Leading builders like Titan, Beaver Build, and Flashbots Builder dominate the ma
 
 ### 3. Relays
 
-- **Relays** are intermediaries that sit between builders and proposers, facilitating communication while preventing theft. Relays serve several critical functions:
+- **Relays** are intermediaries that sit between builders and proposers, enabling communication while preventing theft. Relays serve several critical functions:
 
 - **Receive sealed blocks** from builders with bid amounts (but not full block content)
 - **Validate blocks** for correctness (proper gas limits, valid transactions, accurate bid amounts)

@@ -41,7 +41,7 @@ This approach conveys your ongoing interest without appearing pushy. It also ser
 
 ### When to Make a Phone Call
 
-While email remains the preferred communication method in most hiring processes, a phone call can feel intrusive unless explicitly encouraged. Nonetheless, there are circumstances where a call may be appropriate.
+While email remains the preferred communication method in most hiring processes, a phone call can feel intrusive unless explicitly encouraged. still, there are circumstances where a call may be appropriate.
 
 If an internal recruiter or a designated contact has not responded to your emails and the timeline has exceeded expectations, consider a brief and professional phone call. Prepare to leave a concise voicemail. State your name, the position you interviewed for, and that you are following up. Keep the message friendly and brief.
 

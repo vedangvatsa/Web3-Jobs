@@ -10,11 +10,11 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-Decentralized exchanges, or DEXs, transform the trading of digital assets. Unlike centralized exchanges (CEXs) such as Coinbase or Binance, which operate under a single company’s control, DEXs use [smart contracts](/what-are-smart-contracts) to facilitate direct trades between users. This peer-to-peer structure allows traders to maintain custody of their funds, creating a more secure and transparent trading environment.
+Decentralized exchanges, or DEXs, transform the trading of digital assets. Unlike centralized exchanges (CEXs) such as Coinbase or Binance, which operate under a single company’s control, DEXs use [smart contracts](/what-are-smart-contracts) to enable direct trades between users. This peer-to-peer structure allows traders to maintain custody of their funds, creating a more secure and transparent trading environment.
 
 The primary innovation in many contemporary DEXs is the Automated Market Maker (AMM). Traditional exchanges rely on order books where buyers and sellers are matched. In contrast, AMMs operate using liquidity pools, which consist of pairs of [tokens](/what-is-a-token) locked in a smart contract. The pricing of these assets derives from a mathematical formula based on the ratio of tokens within the pool. When engaging in a trade on a DEX, users are not trading with an individual directly but rather against a liquidity pool.
 
-This system facilitates instant trades and allows anyone to serve as a market maker by depositing assets into a liquidity pool. In exchange for their contribution, liquidity providers earn a portion of the trading fees generated, creating a strong incentive for participation.
+This system enables instant trades and allows anyone to serve as a market maker by depositing assets into a liquidity pool. In exchange for their contribution, liquidity providers earn a portion of the trading fees generated, creating a strong incentive for participation.
 
 ### How DEXs Operate
 

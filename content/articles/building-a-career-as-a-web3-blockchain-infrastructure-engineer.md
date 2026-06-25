@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 While dApp and [smart contract](/what-are-smart-contracts) developers focus on application development, Web3 [Blockchain](/what-is-a-blockchain) Infrastructure Engineers build the foundational technologies that support those applications. These engineers occupy a specialized role within the blockchain ecosystem, concentrating on constructing, maintaining, and optimizing core components.
 
-This career path attracts those passionate about distributed systems, networking, and the intricate mechanisms of blockchains. It presents one of the most technically demanding and impactful engineering roles in the industry.
+This career path attracts those passionate about distributed systems, networking, and the complex mechanisms of blockchains. It presents one of the most technically demanding and impactful engineering roles in the industry.
 
 ### Responsibilities of a Blockchain Infrastructure Engineer
 
@@ -34,7 +34,7 @@ These engineers manage the physical and cloud infrastructure that supports block
 
 #### 3. API and Tooling Development
 
-Engineers in this domain create developer-facing tools and APIs that facilitate blockchain application development.
+Engineers in this domain create developer-facing tools and APIs that enable blockchain application development.
 
 - **Responsibilities:** They build public APIs for node providers (for instance, Alchemy and Infura), develop smart contract testing frameworks, and create other vital developer tools.
 - **Skills:** This role demands skills in backend engineering, API design, and a detailed understanding of the requirements of dApp developers.

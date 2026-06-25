@@ -15,7 +15,7 @@ Current research and development in battery technology focus on enhancing energy
 
 ### Solid-State Batteries: A New Frontier
 
-Solid-state batteries represent a significant evolution in battery technology. Traditional lithium-ion batteries consist of three core components: a cathode, an anode, and a liquid electrolyte that facilitates the movement of lithium ions. The use of a liquid electrolyte, typically flammable, introduces safety concerns.
+Solid-state batteries represent a significant evolution in battery technology. Traditional lithium-ion batteries consist of three core components: a cathode, an anode, and a liquid electrolyte that enables the movement of lithium ions. The use of a liquid electrolyte, typically flammable, introduces safety concerns.
 
 Solid-state batteries replace this liquid electrolyte with a solid alternative, which can be made from ceramics, polymers, or glass. This fundamental change offers several advantages:
 

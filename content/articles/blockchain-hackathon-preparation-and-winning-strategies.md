@@ -63,7 +63,7 @@ Winning a prize is an achievement, but the true value of a hackathon extends bey
 
 - **Accelerated Learning:** Participants typically gain more knowledge in one weekend than in months of independent study.
 - **Portfolio Enhancement:** A hackathon project serves as a strong addition to your **[portfolio](/building-web3-portfolio)**, demonstrating your ability to build a full-stack dApp under pressure and work effectively in a team.
-- **Networking Opportunities:** Hackathons facilitate connections with other developers, founders, and key teams from major protocols. Many participants discover co-founders or job opportunities through these events.
+- **Networking Opportunities:** Hackathons enable connections with other developers, founders, and key teams from major protocols. Many participants discover co-founders or job opportunities through these events.
 - **Increased Visibility:** A well-executed project can attract attention from investors and recruiters.
 
 Blockchain hackathons are integral to the Web3 builder community, building skills, connections, and career advancement. Whether you are an experienced developer or a newcomer, participating in a hackathon offers substantial rewards.

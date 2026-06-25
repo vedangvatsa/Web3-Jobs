@@ -24,7 +24,7 @@ Austin has become a primary destination for tech talent and companies relocating
 
 ### Pro-Crypto Culture
 
-The city supports a culture of individualism and innovation, bolstered by influential figures in media, podcasting, and venture capital who actively support cryptocurrency, particularly Bitcoin. The local environment is genuinely supportive of crypto, as evidenced by the mayor's public endorsements of Bitcoin and discussions on crypto policy by the city council.
+The city supports a culture of individualism and innovation, strengthened by influential figures in media, podcasting, and venture capital who actively support cryptocurrency, particularly Bitcoin. The local environment is genuinely supportive of crypto, as evidenced by the mayor's public endorsements of Bitcoin and discussions on crypto policy by the city council.
 
 ### A Diverse Web3 Ecosystem
 

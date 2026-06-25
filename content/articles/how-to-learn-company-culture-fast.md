@@ -106,7 +106,7 @@ Web3 teams often work in distributed environments that demand adaptability and c
 | Skill | Application | Impact |
 |-------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | Technical + Communication | Shipping products faster | Enhanced collaboration leads to quicker product iterations and releases. |
-| Problem-Solving + Learning Agility | Navigating ambiguity with confidence | Ability to address unexpected challenges swiftly, maintaining project momentum. |
+| Problem-Solving + Learning Agility | Working through ambiguity with confidence | Ability to address unexpected challenges swiftly, maintaining project momentum. |
 | Emotional Intelligence + Communication | Building trust with colleagues | Strong interpersonal relationships build collaboration and innovation within teams. |
 | Communication + EI | Influencing without authority | Effective communication allows you to advocate for ideas and gain buy-in across the organization. |
 

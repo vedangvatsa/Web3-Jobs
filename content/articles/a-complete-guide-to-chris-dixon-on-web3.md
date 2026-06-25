@@ -52,7 +52,7 @@ He argues that blockchain protocols qualify as "strong technologies." Their tran
 
 The "idea maze" concept, originally introduced by Balaji Srinivasan, illustrates the complex array of possible paths a startup can pursue. This includes product choices, competitive responses, market timing, and technological challenges.
 
-A successful founder, in Dixon's view, has thoroughly explored the idea maze for their project. They consider potential pitfalls and dead ends while developing a clear strategy for managing the maze effectively. When a16z crypto invests in a team, they are betting on that team's ability to navigate this maze more skillfully than others.
+A successful founder, in Dixon's view, has thoroughly explored the idea maze for their project. They consider potential pitfalls and dead ends while developing a clear strategy for managing the maze effectively. When a16z crypto invests in a team, they are betting on that team's ability to work through this maze more skillfully than others.
 
 ### 3. "Come for the Tool, Stay for the Network"
 

@@ -16,7 +16,7 @@ The terms "[Web3](/what-is-web3)" and "cryptocurrency" often appear in discussio
 
 **Cryptocurrency** serves as the economic layer that supports this new internet. It functions as the medium of exchange, enabling transactions and incentivizing behavior within the Web3 ecosystem.
 
-Cryptocurrency fuels the Web3 infrastructure, facilitating decentralization, user ownership, and new economic models. The following sections highlight the critical connections between these two concepts.
+Cryptocurrency fuels the Web3 infrastructure, enabling decentralization, user ownership, and new economic models. The following sections highlight the critical connections between these two concepts.
 
 ### Cryptocurrency as an Incentive for Decentralization
 

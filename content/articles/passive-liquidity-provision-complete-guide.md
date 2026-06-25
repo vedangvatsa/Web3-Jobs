@@ -16,7 +16,7 @@ Passive liquidity provision serves as a "set-and-forget" strategy within Decentr
 
 As DeFi has evolved, the distinction between passive and active liquidity provision has blurred, particularly with the introduction of more sophisticated protocols like Uniswap v3. Today, true passive provision often requires using additional layers of protocols designed to manage the inherent complexities of modern AMMs for the user.
 
-This guide outlines passive liquidity provision, including its advantages, inherent risks, such as impermanent loss, and the tools that facilitate a truly hands-off approach in the current DeFi framework.
+This guide outlines passive liquidity provision, including its advantages, inherent risks, such as impermanent loss, and the tools that enable a truly hands-off approach in the current DeFi framework.
 
 ### Key Insights
 

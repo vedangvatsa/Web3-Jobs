@@ -14,13 +14,13 @@ A Large Language Model (LLM) is a type of [artificial intelligence](/what-is-art
 
 LLMs operate primarily as advanced pattern-matching systems. They do not possess understanding in the human sense but excel at predicting subsequent words in a sequence. When a user inputs a prompt, the model analyzes the text and calculates the statistically most probable next word based on patterns learned during training. This process repeats, generating coherent text one word at a time.
 
-The apparent intelligence of LLM outputs stems from the scale of their training. By processing vast amounts of text, these models learn intricate patterns related to grammar, syntax, factual knowledge, reasoning styles, and various programming languages.
+The apparent intelligence of LLM outputs stems from the scale of their training. By processing vast amounts of text, these models learn complex patterns related to grammar, syntax, factual knowledge, reasoning styles, and various programming languages.
 
 ### Construction and Training of LLMs
 
 Creating a modern LLM involves several critical steps:
 
-1. **Data Collection**: The initial phase requires assembling a vast dataset of text and code. This dataset typically includes web crawls, books, articles, scientific papers, and code repositories like [GitHub](/building-web3-portfolio). The diversity and quality of this data play a vital role in enhancing the model's performance.
+1. **Data Collection**: The initial phase requires assembling a vast dataset of text and code. This dataset typically includes web crawls, books, articles, scientific papers, and code repositories like [GitHub](/building-web3-portfolio). The diversity and quality of this data are important for enhancing the model's performance.
 
 2. **Training the Base Model**: The gathered text data is used to train a base model through an unsupervised learning methodology. The model receives text with certain words omitted and must predict these missing words. This process is repeated many times, enabling the model to grasp statistical relationships between words and concepts. This pre-training is computationally demanding, often taking months and requiring significant resources to complete using specialized GPU clusters. The outcome is a strong base model with a general comprehension of language, albeit lacking proficiency in instruction adherence.
 

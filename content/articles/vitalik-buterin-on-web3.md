@@ -16,6 +16,6 @@ Vitalik Buterin's vision for [Web3](/what-is-web3) represents a realistic and we
 
 At the heart of Buterin's philosophy lies the concept of "credibly neutral" systems. These are frameworks that treat all participants equally, with rules enforced through open-source code rather than the arbitrary choices of corporations or governments. This principle serves as a guiding star for his work.
 
-In a field often filled with noise and speculation, Buterin emerges as a steady voice of intellect and foresight. His writings provide valuable insights for developers, users, and thinkers aiming to unlock the full potential of Web3. He emphasizes that the ultimate goal is not merely to create a new financial system; it is to build a more open, free, and just world.
+In a field often filled with noise and speculation, Buterin emerges as a steady voice of intellect and foresight. His writings provide valuable insights for developers, users, and thinkers aiming to enable the full potential of Web3. He emphasizes that the ultimate goal is not merely to create a new financial system; it is to build a more open, free, and just world.
 
 ## Web3 Career Opportunities

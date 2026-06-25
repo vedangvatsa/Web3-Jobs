@@ -30,13 +30,13 @@ In September 2022, Ethereum achieved a significant milestone with "The Merge," t
 
 In a Proof-of-Stake system, validators stake ETH to secure the network instead of relying on energy-consuming mining. Honest validators receive rewards in ETH, while malicious actors risk losing their staked ETH. This framework incentivizes ethical network participation.
 
-This shift resulted in substantial benefits. Ethereum's energy consumption significantly decreased, making it more environmentally sustainable. Network security improved, as attacking the network now necessitated owning a substantial amount of ETH rather than merely possessing mining equipment. this transition paved the way for upgrades that were previously unattainable.
+This shift resulted in substantial benefits. Ethereum's energy consumption significantly decreased, making it more environmentally sustainable. Network security improved, as attacking the network now necessitated owning a substantial amount of ETH rather than merely possessing mining equipment. this transition enabled upgrades that were previously unattainable.
 
 ## Scaling Ethereum: The Layer 2 Ecosystem
 
 Ethereum's growth has posed challenges, particularly concerning network congestion and high transaction fees, known as "gas fees." During peak usage, simple transactions can incur costs that are feasible for large transactions but impractical for minor payments.
 
-To address this, Ethereum has adopted a "rollup-centric" roadmap that shifts the majority of user activity to Layer 2 (L2) scaling solutions such as Arbitrum, Optimism, and Base. These L2 solutions facilitate rapid and cost-effective transaction processing before submitting a compressed summary to the secured Ethereum mainnet.
+To address this, Ethereum has adopted a "rollup-centric" roadmap that shifts the majority of user activity to Layer 2 (L2) scaling solutions such as Arbitrum, Optimism, and Base. These L2 solutions enable rapid and cost-effective transaction processing before submitting a compressed summary to the secured Ethereum mainnet.
 
 This architectural approach transforms how blockchain ecosystems operate. Ethereum Layer 1 serves as the core settlement and security layer, while most user interactions occur on Layer 2 solutions, which offer speed and cost efficiency. Importantly, Layer 2s inherit Ethereum's security by regularly settling their state on the Ethereum mainnet.
 

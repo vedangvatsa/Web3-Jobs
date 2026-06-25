@@ -20,7 +20,7 @@ Lusaka's Web3 community is characterized by a collaborative spirit and a focus o
 
 - **Youthful and Entrepreneurial Culture:** Zambia's young demographic supports a active startup ecosystem. An increasing number of founders are exploring Web3 opportunities, leading to innovation and growth.
 - **Focus on FinTech and AgriTech:** Local interest in blockchain revolves around practical applications. Projects aim to develop inclusive FinTech solutions for unbanked populations and enhance supply chain transparency and financing in Zambia's agricultural sector.
-- **Community and Education:** The Lusaka Web3 community is tightly knit, encouraging collaboration. Tech hubs and organizations facilitate meetups, boot camps, and workshops to educate the public and enhance the skills of local developers in blockchain technology.
+- **Community and Education:** The Lusaka Web3 community is tightly knit, encouraging collaboration. Tech hubs and organizations enable meetups, boot camps, and workshops to educate the public and enhance the skills of local developers in blockchain technology.
 - **Strategic Economic Hub:** Lusaka serves as a vital economic center within the Southern African Development Community (SADC), making it an ideal location for projects aiming to expand into neighboring countries.
 
 ### In-Demand Roles and Salary Expectations

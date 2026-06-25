@@ -43,7 +43,7 @@ Although not everyone in Web3 needs to be a coder, grasping the technical fundam
 **Importance:** A smart contract lacks utility without a user-friendly interface. Frontend developers create decentralized applications (dApps) that enable user interaction with the blockchain.
 
 - **The Stack:** Modern Web3 frontend development typically uses frameworks like React or Next.js.
-- **Libraries:** Instead of conventional APIs, JavaScript libraries such as Ethers.js or Viem facilitate communication with the blockchain and integration with user wallets like MetaMask.
+- **Libraries:** Instead of conventional APIs, JavaScript libraries such as Ethers.js or Viem enable communication with the blockchain and integration with user wallets like MetaMask.
 
 **Learning Resources:** For those familiar with React, the primary learning curve involves mastering Web3 libraries. Start by developing a basic dApp that retrieves data from a smart contract, then progress to one that executes transactions.
 
@@ -55,7 +55,7 @@ In Web3, your non-technical skills often hold equal importance to your technical
 
 **Importance:** The community is not merely a marketing tool in Web3; it constitutes the essence of the product. An engaged community can serve as a formidable advantage for any project.
 
-- **Role of Community Managers:** They act as the heart of a project, facilitating conversations on platforms like Discord and Telegram, nurturing a positive culture, and bridging the gap between users and the core team.
+- **Role of Community Managers:** They act as the heart of a project, enabling conversations on platforms like Discord and Telegram, nurturing a positive culture, and bridging the gap between users and the core team.
 - **Key Traits:** High emotional intelligence, excellent communication skills, and genuine empathy are essential for success in this role.
 
 **Learning Resources:** Immerse yourself in a decentralized autonomous organization (DAO) or a project you respect. Observe and participate actively to gain insights.
@@ -71,7 +71,7 @@ In Web3, your non-technical skills often hold equal importance to your technical
 
 ### 6. Technical Writing & Communication
 
-**Importance:** Web3 is inherently complex. The ability to convey intricate technical concepts in a straightforward manner is invaluable.
+**Importance:** Web3 is inherently complex. The ability to convey complex technical concepts in a straightforward manner is invaluable.
 
 - **Need for Clear Communication:** Projects require individuals who can produce clear documentation for developers, insightful blog posts for the community, and succinct announcements regarding new features.
 - **Skill Development:** Beyond grammar, effective communication involves empathy for the reader and the capacity to organize information logically.

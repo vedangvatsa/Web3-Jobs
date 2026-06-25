@@ -30,7 +30,7 @@ Superposition refers to the ability of a quantum system to exist in multiple sta
 
 **3. Entanglement**
 
-Entanglement is one of the most intriguing aspects of quantum mechanics. It describes a unique connection between two or more qubits, where the state of one qubit instantaneously influences the state of another, regardless of distance. If you measure one entangled qubit and find it to be 0, the other qubit automatically becomes 1, or vice versa. This correlation facilitates complex computations and secure communication methods unattainable with classical systems.
+Entanglement is one of the most intriguing aspects of quantum mechanics. It describes a unique connection between two or more qubits, where the state of one qubit instantaneously influences the state of another, regardless of distance. If you measure one entangled qubit and find it to be 0, the other qubit automatically becomes 1, or vice versa. This correlation enables complex computations and secure communication methods unattainable with classical systems.
 
 ### Differences Between Quantum and Classical Computers
 

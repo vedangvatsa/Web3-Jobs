@@ -56,7 +56,7 @@ Passive consumption of content is insufficient for effective learning; active pa
 
 Understanding the underlying data is vital to grasping industry trends. Analyze blockchain data to distinguish between hype and reality.
 
-- **Dune Analytics:** Familiarize yourself with basic SQL to navigate Dune's dashboards. This platform provides real-time insights into user growth, transaction volumes, and revenue for various protocols.
+- **Dune Analytics:** Familiarize yourself with basic SQL to work through Dune's dashboards. This platform provides real-time insights into user growth, transaction volumes, and revenue for various protocols.
 - **DeFiLlama:** This resource tracks Total Value Locked (TVL) across DeFi protocols and blockchains, allowing you to see which ecosystems are gaining traction.
 
 ### Building a Sustainable Information System

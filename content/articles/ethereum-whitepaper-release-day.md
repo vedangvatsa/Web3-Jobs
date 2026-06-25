@@ -16,7 +16,7 @@ In late 2013, Vitalik Buterin, a 19-year-old programmer, released a document tit
 
 The publication of the Ethereum whitepaper represented a important moment in the history of blockchain technology. It shifted the discourse from merely "decentralized money" to the broader notion of "decentralized everything." The whitepaper articulated a clear vision that inspired a new generation of developers, entrepreneurs, and thinkers, motivating them to construct the rich and diverse ecosystem we observe today.
 
-Reading the whitepaper today reveals its remarkable accessibility. Buterin synthesized complex concepts from computer science, cryptography, and economics into a coherent narrative. He recognized the limitations of Bitcoin’s scripting language and proposed a new blockchain featuring a Turing-complete [programming language](/best-programming-languages-for-blockchain-development) capable of supporting intricate "smart contracts."
+Reading the whitepaper today reveals its remarkable accessibility. Buterin synthesized complex concepts from computer science, cryptography, and economics into a coherent narrative. He recognized the limitations of Bitcoin’s scripting language and proposed a new blockchain featuring a Turing-complete [programming language](/best-programming-languages-for-blockchain-development) capable of supporting complex "smart contracts."
 
 ## The Core Idea: Generalizing the Blockchain
 

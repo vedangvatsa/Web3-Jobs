@@ -20,7 +20,7 @@ Malabo's future in Web3 will likely reflect the country’s economic framework a
 
 - **Economic Diversification:** Equatorial Guinea's heavy dependence on hydrocarbons drives the need for economic diversification. The government is actively pursuing the development of its FinTech and technology sectors, creating an environment conducive to blockchain-based financial services.
 - **Transparency in Natural Resources:** The oil and gas sector presents a strong case for enterprise blockchain solutions. A distributed ledger could establish a transparent and immutable record of production and export flows, enhancing accountability and operational efficiency.
-- **Strategic Hub in Central Africa:** Malabo’s geographic position and status as a significant oil producer position it as a potential business hub in the Gulf of Guinea. This could pave the way for blockchain-based trade finance and logistics in the region.
+- **Strategic Hub in Central Africa:** Malabo’s geographic position and status as a significant oil producer position it as a potential business hub in the Gulf of Guinea. This could enable blockchain-based trade finance and logistics in the region.
 - **Developing Talent Pool:** Although the local tech talent pool is limited, it is expanding. Government and private sector investments in technology education are essential for developing the skills required for a digital economy.
 
 ### In-Demand Roles and Salary Expectations

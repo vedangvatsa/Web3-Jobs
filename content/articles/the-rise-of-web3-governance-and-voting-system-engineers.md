@@ -12,13 +12,13 @@ lastUpdated: "2026-06-15"
 
 As Decentralized Autonomous Organizations (DAOs) grow in influence, managing treasuries worth billions, the systems governing them have become essential infrastructure. This shift has created a strong demand for a specialized type of developer known as the **Web3 Governance Engineer**.
 
-Governance Engineers design, maintain, and enhance the smart contracts and off-chain tools that facilitate decentralized decision-making. This role demands not only expertise in [smart contract](/what-are-smart-contracts) development but also proficiency in game theory, voting mechanisms, and the political dynamics of DAOs.
+Governance Engineers design, maintain, and enhance the smart contracts and off-chain tools that enable decentralized decision-making. This role demands not only expertise in [smart contract](/what-are-smart-contracts) development but also proficiency in game theory, voting mechanisms, and the political dynamics of DAOs.
 
 ### Responsibilities of a Governance Engineer
 
 A Governance Engineer contributes significantly to the functioning of a DAO's "operating system."
 
-- **On-Chain Governance Contracts:** They build and maintain core smart contracts that facilitate on-chain voting. Key components include:
+- **On-Chain Governance Contracts:** They build and maintain core smart contracts that enable on-chain voting. Key components include:
  - The **Governor contract**, which manages the proposal lifecycle, including proposal creation, voting, and execution.
  - The **[Token](/what-is-a-token) contract**, used to determine voting power among stakeholders.
  - The **Timelock contract**, which enforces a delay between a vote passing and the execution of its code, allowing communities to respond to potentially harmful proposals.

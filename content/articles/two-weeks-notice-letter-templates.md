@@ -51,7 +51,7 @@ I am writing with mixed emotions to announce my resignation from my role as [Job
 
 I am deeply grateful for the incredible opportunities you provided me. I take pride in what we’ve accomplished together, particularly [mention a specific project or accomplishment]. Your mentorship and the support from the team have greatly enriched my professional journey.
 
-During my remaining two weeks, I will do everything I can to facilitate a smooth transition. I am prepared to help train my replacement and document ongoing projects.
+During my remaining two weeks, I will do everything I can to enable a smooth transition. I am prepared to help train my replacement and document ongoing projects.
 
 While I look forward to the next chapter in my career, I will sincerely miss working with you and the team. I hope to stay in touch.
 

@@ -47,7 +47,7 @@ However, a pool based on this formula is highly fragile. If one stablecoin, such
 
 ### The StableSwap Invariant: The Best of Both Worlds
 
-The StableSwap invariant merges the benefits of both the constant sum and constant product formulas. While the actual formula is intricate, its behavior can be intuitively understood:
+The StableSwap invariant merges the benefits of both the constant sum and constant product formulas. While the actual formula is complex, its behavior can be intuitively understood:
 
 > **The StableSwap invariant functions like a constant sum formula when the pool is balanced, then transitions to a constant product formula as the pool becomes imbalanced.**
 

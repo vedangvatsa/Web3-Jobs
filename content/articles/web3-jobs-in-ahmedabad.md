@@ -221,7 +221,7 @@ Consider these advantages:
 3. **Local Leadership:** Establish yourself as a Web3 leader in Ahmedabad for valuable positioning.
 
 **Should I relocate to Bangalore or Mumbai?**
-Staying in Ahmedabad initially can be beneficial. Remote work allows access to broader opportunities, and the lower cost of living facilitates wealth accumulation. Build a local reputation first, then consider relocation after a few years if desired.
+Staying in Ahmedabad initially can be beneficial. Remote work allows access to broader opportunities, and the lower cost of living enables wealth accumulation. Build a local reputation first, then consider relocation after a few years if desired.
 
 **Can I raise funding from Ahmedabad?**
 Raising funds locally is feasible, particularly for angel or seed investments. However, Series A funding may require outreach to Bangalore or Mumbai or seeking international investors. A hybrid strategy of raising seed funds locally and pursuing Series A internationally can work effectively.

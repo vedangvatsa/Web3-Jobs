@@ -29,7 +29,7 @@ The fundamental aim of supporting users, resolving their issues with compassion 
  - "My transaction is stuck."
  - "I can't see my [tokens](/what-is-a-token) in my wallet."
  - "How do I bridge my assets to a [Layer 2](/guide-to-layer-2s)?"
-- **Support Documentation Creation:** Developing and updating a knowledge base featuring FAQs, tutorials, and step-by-step guides to facilitate user self-service.
+- **Support Documentation Creation:** Developing and updating a knowledge base featuring FAQs, tutorials, and step-by-step guides to enable user self-service.
 - **Scam Identification and Reporting:** Vigilantly monitoring community channels for scams and phishing attempts, and issuing alerts to the community.
 - **Feedback Synthesis:** Acting as the "voice of the user" by systematically gathering, categorizing, and relaying user issues to product and engineering teams.
 

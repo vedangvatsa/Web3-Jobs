@@ -21,7 +21,7 @@ Ethereum's limitations, particularly regarding transaction speed and high gas fe
 - **Technology Overview:** Solana uses **Proof-of-History (PoH)**, enabling it to process a high number of transactions per second with minimal fees.
 - **Implications for Web3:** This capability makes Solana ideal for applications that require rapid transaction processing.
  - **Central Limit Order Books (CLOBs):** Solana hosts multiple decentralized exchanges that operate on-chain order books, which necessitate swift transaction processing.
- - **Micropayments:** The network's minimal fees allow for new solutions such as per-second streaming payments and affordable global remittances. Solana Pay exemplifies this initiative, facilitating easy payment solutions for merchants.
+ - **Micropayments:** The network's minimal fees allow for new solutions such as per-second streaming payments and affordable global remittances. Solana Pay exemplifies this initiative, enabling easy payment solutions for merchants.
 
 ### 2. A Center for NFTs and Gaming
 
@@ -45,4 +45,4 @@ While the Ethereum Virtual Machine (EVM) is prevalent, a diverse ecosystem enhan
 - **Distinct Technology:** Solana employs a different architecture and uses the **[Rust](/top-5-web3-languages)** programming language, distinguishing it from EVM-based platforms.
 - **Web3 Innovation:** This uniqueness supports a parallel ecosystem that encourages innovation. Developers who find the EVM limiting can explore Solana's architecture, which advances the industry by testing new scalability and security approaches. Despite fluctuations in developer activity, the core community remains engaged, creating products that would not thrive within the confines of the EVM.
 
-Solana's performance focus positions it as a important component in the Web3 ecosystem. It provides a platform for efficient financial applications, accessible NFTs, and scalable gaming environments, ultimately expanding the potential of public blockchains and facilitating the onboarding of new Web3 users.
+Solana's performance focus positions it as a important component in the Web3 ecosystem. It provides a platform for efficient financial applications, accessible NFTs, and scalable gaming environments, ultimately expanding the potential of public blockchains and enabling the onboarding of new Web3 users.

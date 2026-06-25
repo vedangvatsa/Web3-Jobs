@@ -29,7 +29,7 @@ This setup allows you to interact with the Ethereum test network, so there’s n
 
 ### Step 2: Write Your Smart Contract in Remix
 
-1. **Access Remix**: Open your browser and navigate to `remix.ethereum.org`.
+1. **Access Remix**: Open your browser and work through to `remix.ethereum.org`.
 2. **Create a New File**: In the file explorer on the left, create a new file named `HelloWorld.sol`.
 3. **Insert the Code**: Copy and paste the following basic smart contract code into the newly created file:
 
@@ -59,7 +59,7 @@ contract HelloWorld {
 
 ### Step 3: Compile Your Contract
 
-1. **Navigate to the Compiler Tab**: Click the Solidity compiler icon on the left side of Remix.
+1. **Work through to the Compiler Tab**: Click the Solidity compiler icon on the left side of Remix.
 2. **Select the Compiler Version**: Ensure the compiler version matches the one specified in your code (e.g., `0.8.20`).
 3. **Compile the Contract**: Click the "Compile HelloWorld.sol" button. A green checkmark next to the compiler icon indicates successful compilation.
 

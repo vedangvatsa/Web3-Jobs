@@ -14,7 +14,7 @@ SocialFi merges social media with [decentralized finance](/what-is-defi), creati
 
 ### The Role of a SocialFi Developer
 
-A SocialFi developer is responsible for creating the protocols and applications that facilitate decentralized social networks. This role typically spans multiple disciplines.
+A SocialFi developer is responsible for creating the protocols and applications that enable decentralized social networks. This role typically spans multiple disciplines.
 
 - **Protocol Development:** Developers design core social protocols, which may include creating [smart contracts](/what-are-smart-contracts) for on-chain social graphs. For example, Lens Protocol uses NFTs for profiles and follows. Alternatively, developers may construct the backend infrastructure for federated networks, like Farcaster.
 - **Application Development:** This aspect focuses on creating user-facing client applications, akin to the "Twitter clients" of Web3. A strong emphasis on frontend development is often necessary.

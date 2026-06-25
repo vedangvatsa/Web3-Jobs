@@ -14,7 +14,7 @@ A [smart contract](/what-are-smart-contracts) audit entails a detailed evaluatio
 
 In decentralized finance ([DeFi](/what-is-defi)), where protocols can handle significant value, audits become essential for building trust and credibility. A single vulnerability can result in financial losses, as shown by numerous high-profile hacks. The audit process delivers independent validation, ensuring that the code operates as intended and remains free from various attack vectors.
 
-Auditing is not limited to automated scanning. While tools like Slither play a vital role, effective audits depend heavily on manual reviews conducted by experienced security researchers. These professionals apply an adversarial perspective, continuously asking how they could exploit functions or break economic assumptions.
+Auditing is not limited to automated scanning. While tools like Slither are important, effective audits depend heavily on manual reviews conducted by experienced security researchers. These professionals apply an adversarial perspective, continuously asking how they could exploit functions or break economic assumptions.
 
 ### How a Smart Contract Audit Works
 
@@ -74,7 +74,7 @@ A: Yes, but this scenario is far from ideal. Identifying a critical vulnerabilit
 
 ### Why Smart Contract Audits Matter
 
-Smart contract audits play a vital role in the security of blockchain projects. They build trust among users, investors, and stakeholders. By identifying vulnerabilities before deployment, audits can prevent financial losses and enhance the project's reputation. The consequences of neglecting audits can be dire, leading to loss of user funds and reputational damage that may take years to recover from.
+Smart contract audits are important for the security of blockchain projects. They build trust among users, investors, and stakeholders. By identifying vulnerabilities before deployment, audits can prevent financial losses and enhance the project's reputation. The consequences of neglecting audits can be dire, leading to loss of user funds and reputational damage that may take years to recover from.
 
 ### The Audit Process: A Breakdown
 

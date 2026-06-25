@@ -70,7 +70,7 @@ Bonding curves have been successfully implemented across various projects. The f
 | Aavegotchi | GHST | MATIC | 2021-03-12 |
 | Hegic | Hegic | ETH | 2020-11-10 |
 
-These projects illustrate how bonding curves can facilitate token launches while providing liquidity and price discovery.
+These projects illustrate how bonding curves can enable token launches while providing liquidity and price discovery.
 
 ### Why Understanding Bonding Curves Matters
 

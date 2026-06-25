@@ -51,7 +51,7 @@ Find potential collaborators in online communities, social media groups, or loca
 For developers, contributing to open-source projects on platforms like GitHub is an effective way to build a portfolio.
 
 **Benefits of Open-Source Contributions:**
-- **Real-World Experience:** This work demonstrates your ability to engage with intricate codebases alongside other developers.
+- **Real-World Experience:** This work demonstrates your ability to engage with complex codebases alongside other developers.
 - **Visibility:** Your contributions are publicly accessible, providing proof of your skills.
 - **Networking:** Engaging with open-source projects helps you connect with talented developers and potential employers.
 
@@ -59,7 +59,7 @@ You don't need to make significant contributions to start; even minor bug fixes 
 
 ### 5. Revisit Past Work
 
-Reflect on any previous projects completed during past employment, educational experiences, or personal endeavors. Identify any work you can adapt for your portfolio.
+Reflect on any previous projects completed during past employment, educational experiences, or personal efforts. Identify any work you can adapt for your portfolio.
 
 - **Presentations from Previous Jobs:** With permission, you could showcase design elements used in past presentations.
 - **Academic Papers:** Transform a research paper into a blog post or whitepaper, demonstrating your writing capabilities.

@@ -28,7 +28,7 @@ The main objective of an analyst is to assist the fund's partners in making info
  * **On-Chain Data Analysis**: Use tools like Dune and Nansen to evaluate the project's traction. Does it have a growing user base? Is it generating fees?
  * **Market Analysis**: Assess the total addressable market. Who are the primary competitors? What unique advantages does the project hold?
 
-3. **Investment Memo Writing**: The diligence process culminates in the investment memo, a detailed document that articulates the rationale for or against an investment. This document must present a clear, concise, and data-driven argument and often represents the analyst's most significant work.
+3. **Investment Memo Writing**: The diligence process results in the investment memo, a detailed document that articulates the rationale for or against an investment. This document must present a clear, concise, and data-driven argument and often represents the analyst's most significant work.
 
 4. **Portfolio Support**: Following an investment, analysts frequently assist portfolio companies with various aspects, including recruitment, marketing, and connecting them with other partners.
 

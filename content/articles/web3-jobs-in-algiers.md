@@ -20,8 +20,8 @@ Algiers' Web3 ecosystem is still developing, with several factors driving its gr
 
 - **Untapped Market Potential:** Algeria ranks among the largest countries in Africa by population, featuring a substantial youth demographic. This demographic represents a vast user base and a talent pool for Web3 applications, particularly those tailored for mobile devices.
 - **Government Initiatives for Digital Growth:** The Algerian government actively promotes a knowledge-based economy and supports tech startups through initiatives like the "Algeria Venture" accelerator. This support builds a more conducive environment for innovation.
-- **Focus on FinTech and E-Commerce:** There is an increasing demand for efficient digital payment and e-commerce solutions in Algeria. Local entrepreneurs are exploring blockchain and stablecoins to facilitate smoother and more secure online transactions.
-- **Strong Diaspora Network:** The significant Algerian diaspora, especially in France, serves as a vital link to the more established European Web3 ecosystem. This connection facilitates knowledge transfer, investment, and collaborative efforts.
+- **Focus on FinTech and E-Commerce:** There is an increasing demand for efficient digital payment and e-commerce solutions in Algeria. Local entrepreneurs are exploring blockchain and stablecoins to enable smoother and more secure online transactions.
+- **Strong Diaspora Network:** The significant Algerian diaspora, especially in France, serves as a vital link to the more established European Web3 ecosystem. This connection enables knowledge transfer, investment, and collaborative efforts.
 
 ### In-Demand Roles and Salary Expectations
 

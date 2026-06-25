@@ -107,7 +107,7 @@ Engaging with AI art requires experimentation and creativity.
 
 - **Use the "Vary" Buttons**: If you receive an image that is close to your vision, explore similar options using the V buttons. This is an effective way to refine your artwork.
 
-Creating AI art is a collaborative endeavor between you and the model. You act as the director, offering vision and guidance, while the AI functions as the artist, actualizing that vision. Start by crafting your first prompt and discover the artistic possibilities.
+Creating AI art is a collaborative effort between you and the model. You act as the director, offering vision and guidance, while the AI functions as the artist, actualizing that vision. Start by crafting your first prompt and discover the artistic possibilities.
 
 ### Frequently Asked Questions (FAQs)
 

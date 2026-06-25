@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 The vision of [Web3](/what-is-web3) as a decentralized, user-owned internet hinges on a foundational technology: the **[blockchain](/what-is-a-blockchain)**. This technology serves as the structural backbone of Web3, delivering an infrastructure that is trustless, permissionless, and resilient. Without blockchain, the primary promises of Web3 cannot be fulfilled.
 
-This article examines the relationship between blockchain technology and [Web3](/what-is-web3), detailing how the core features of blockchain facilitate the transition from a centralized Web2 to a decentralized Web3.
+This article examines the relationship between blockchain technology and [Web3](/what-is-web3), detailing how the core features of blockchain enable the transition from a centralized Web2 to a decentralized Web3.
 
 ### The Limitations of Web2's Centralized Foundation
 
@@ -46,12 +46,12 @@ Transactions entered into a blockchain are permanent and cannot be modified or e
 
 Blockchains like Ethereum introduced **[smart contracts](/what-are-smart-contracts)**, which are self-executing programs that operate on the blockchain.
 
-- **Automated Systems:** [Smart contracts](/what-are-smart-contracts) form the foundation of Web3 applications. They facilitate the development of complex, automated systems that can function without intermediaries. They act as the "backend" for decentralized web applications.
+- **Automated Systems:** [Smart contracts](/what-are-smart-contracts) form the foundation of Web3 applications. They enable the development of complex, automated systems that can function without intermediaries. They act as the "backend" for decentralized web applications.
 - **DeFi Applications:** The entire [DeFi](/what-is-defi) ecosystem relies on smart contracts. For example, the lending protocol Aave uses smart contracts to automate lending and borrowing processes, enforcing rules around collateral and interest rates without requiring a bank.
 
 #### 4. Native Digital Value
 
-Blockchains possess native digital currencies (such as ETH on Ethereum) that facilitate network usage payments ("gas fees") and reward those who maintain security.
+Blockchains possess native digital currencies (such as ETH on Ethereum) that enable network usage payments ("gas fees") and reward those who maintain security.
 
 - **Economic Framework:** This establishes an inherent economic layer within the internet, enabling value transfer between users and applications without the traditional banking system.
 - **New Models:** This economic framework supports "Play-to-Earn" gaming models, allows creators to receive direct payments from fans, and supports the freelance "gig economy" associated with [DAOs](/what-is-a-dao).

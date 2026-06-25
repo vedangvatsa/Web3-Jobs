@@ -16,7 +16,7 @@ Your reputation holds immense value in your professional life. By managing your 
 
 ### 1. Provide Sufficient Notice
 
-The standard notice period in most industries is typically two weeks. This duration allows your employer to begin searching for a replacement and facilitates a smooth transition of your responsibilities. 
+The standard notice period in most industries is typically two weeks. This duration allows your employer to begin searching for a replacement and enables a smooth transition of your responsibilities. 
 
 Review your employment contract, as some senior positions may stipulate a longer notice period. Unless you are in a genuinely detrimental work environment, aim to fulfill your entire notice period. Leaving without notice can disrupt your team and may be perceived as unprofessional.
 
@@ -30,10 +30,10 @@ Focus on your future plans and the new opportunity rather than any negative reas
 
 ### 3. Be Cooperative and Proactive During the Transition
 
-Your final two weeks represent a chance to showcase your professionalism and dedication. Resist the urge to disengage mentally. Instead, aim to be as helpful as possible to facilitate a smooth handover.
+Your final two weeks represent a chance to showcase your professionalism and dedication. Resist the urge to disengage mentally. Instead, aim to be as helpful as possible to enable a smooth handover.
 
 - **Create a Transition Document**: Compile a detailed document that outlines your key projects, responsibilities, essential contacts, and any recurring tasks. This resource will be invaluable for your successor.
-- **Organize Your Files**: Clean up and structure your digital files so that they are easy for your colleagues to navigate and comprehend.
+- **Organize Your Files**: Clean up and structure your digital files so that they are easy for your colleagues to work through and comprehend.
 - **Offer to Train Your Replacement**: If your successor is hired before your departure, proactively offer to train them. Walk them through your processes and introduce them to key stakeholders.
 - **Stay Engaged**: Continue to participate in team meetings and complete any outstanding projects. A strong finish will be remembered and appreciated.
 

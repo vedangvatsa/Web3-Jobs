@@ -32,7 +32,7 @@ The formal Web3 job market in Gaborone remains small, with opportunities primari
 |-----------------------------------------------|---------------------------------------|----------------------------------------------------------------------------------|
 | **Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer)** | 25,000 - 50,000+ | Developers create solutions for enterprise clients, particularly in supply chain and finance. |
 | **FinTech Product Manager** | 30,000 - 55,000+ | PMs design and manage the development of compliant digital asset products. |
-| **Business Development (Enterprise & Government)** | 25,000 - 50,000+ | Professionals establish relationships with government agencies and corporations to facilitate blockchain adoption. |
+| **Business Development (Enterprise & Government)** | 25,000 - 50,000+ | Professionals establish relationships with government agencies and corporations to enable blockchain adoption. |
 
 ### Building a Web3 Career in Gaborone
 

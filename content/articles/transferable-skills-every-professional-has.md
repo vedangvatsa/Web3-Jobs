@@ -127,8 +127,8 @@ Transferable skills serve as a foundation for success in various career paths. W
 
 In Web3 organizations, teams often operate in distributed environments and must respond quickly to changes. The following skills directly influence your effectiveness in this context:
 
-- **Speed of Product Delivery:** Technical and communication skills facilitate faster product launches.
-- **Handling Ambiguity:** Problem-solving and learning agility enable you to navigate uncertainties.
+- **Speed of Product Delivery:** Technical and communication skills enable faster product launches.
+- **Handling Ambiguity:** Problem-solving and learning agility enable you to work through uncertainties.
 - **Building Trust:** Emotional intelligence builds strong relationships with colleagues.
 - **Influencing Without Authority:** Communication and emotional intelligence are important in collaborative environments.
 

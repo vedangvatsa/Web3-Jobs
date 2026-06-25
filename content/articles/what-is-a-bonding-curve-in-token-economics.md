@@ -71,7 +71,7 @@ Understanding bonding curves is vital for professional success within the Web3 s
 ### Implementing Bonding Curves in Practice
 
 **Step 1: Grasp Fundamental Concepts** 
-Begin by understanding the foundational principles of bonding curves. This knowledge will underpin all future endeavors in this area. Engage with industry literature to absorb best practices from leaders.
+Begin by understanding the foundational principles of bonding curves. This knowledge will underpin all future efforts in this area. Engage with industry literature to absorb best practices from leaders.
 
 **Step 2: Evaluate Your Current Standing** 
 Assess your current understanding and skills. Identify strengths and weaknesses, along with specific challenges you face. Establishing a clear baseline is important.

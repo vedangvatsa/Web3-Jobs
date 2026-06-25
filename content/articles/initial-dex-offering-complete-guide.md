@@ -34,7 +34,7 @@ While projects can conduct IDOs independently, many use a **[crypto launchpad](/
 
 #### Advantages:
 - **Open Participation**: IDOs democratize early-stage investment opportunities; anyone can participate.
-- **Immediate Trading**: Unlike ICOs, where tokens may not be tradable immediately post-sale, IDOs facilitate immediate trading and price discovery on a DEX.
+- **Immediate Trading**: Unlike ICOs, where tokens may not be tradable immediately post-sale, IDOs enable immediate trading and price discovery on a DEX.
 - **Cost-Effective for Projects**: Launching on a DEX is generally cheaper and faster than managing the complex listing process on centralized exchanges.
 
 #### Disadvantages:

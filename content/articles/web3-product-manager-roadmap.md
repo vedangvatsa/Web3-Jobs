@@ -19,7 +19,7 @@ This guide outlines a structured roadmap for establishing a career as a Web3 Pro
 Transitioning to Web3 demands a shift in mindset. Understanding the fundamental differences between Web2 and Web3 is important.
 
 - **From Users to Owners:** Users in Web3 are often [token](/what-is-a-token) holders who share ownership of the product. This alters the feedback loop from a straightforward interaction to a complex dialogue involving multiple stakeholders.
-- **From Centralized Authority to Community Consensus:** Major decisions are frequently subject to public governance votes. Your role shifts from making unilateral decisions to facilitating discussions and persuading diverse community members.
+- **From Centralized Authority to Community Consensus:** Major decisions are frequently subject to public governance votes. Your role shifts from making unilateral decisions to enabling discussions and persuading diverse community members.
 - **From Private Data to Public Good:** Data and code are accessible on public blockchains. Competitive advantages emerge from community engagement and brand loyalty rather than proprietary technology.
 
 ### Phase 1: Foundational Knowledge (First 3-6 Months)

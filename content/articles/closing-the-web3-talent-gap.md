@@ -20,7 +20,7 @@ This article examines the underlying reasons for the Web3 talent shortage and ou
 
 **1. Steep Learning Curve**
 
-Transitioning to Web3 involves more than adopting new technologies; it requires a fundamental shift in thinking and understanding intricate concepts.
+Transitioning to Web3 involves more than adopting new technologies; it requires a fundamental shift in thinking and understanding complex concepts.
 
 - **Technical Complexity:** Developers must grasp more than programming languages like [Solidity](/best-programming-languages-for-blockchain-development). They must comprehend the Ethereum Virtual Machine (EVM), gas optimization, cryptographic principles, and the many security risks inherent in the ecosystem, where even a minor error can lead to significant losses.
 

@@ -57,7 +57,7 @@ Re-[staking](/how-to-become-a-web3-staking-specialist), led by EigenLayer, intro
 - **Liquid Re-staking Tokens (LRTs):** Similar to Liquid Staking Tokens, LRTs will serve as new forms of DeFi collateral, creating opportunities for "yield on yield" while introducing additional systemic risks.
 
 #### Why It Matters:
-Re-staking allows Ethereum to extend its economic security to new protocols, facilitating their development. However, this model also introduces significant risks of cascading failures across networks.
+Re-staking allows Ethereum to extend its economic security to new protocols, enabling their development. However, this model also introduces significant risks of cascading failures across networks.
 
 ### 5. The Evolution of SocialFi
 

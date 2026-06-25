@@ -25,7 +25,7 @@ The success of DePIN lies in its ability to use token incentives to create suppl
 
 The intersection of AI and crypto is leading to the development of autonomous agents capable of holding funds, executing transactions, and operating economic logic independently.
 
-For instance, Autonolas has facilitated a significant number of on-chain agent transactions. Virtuals Protocol on Base has established an ecosystem where AI agents trade, provide liquidity, and manage treasuries. The technical foundation involves smart contract wallets with programmable permissions accessible through APIs.
+For instance, Autonolas has enabled a significant number of on-chain agent transactions. Virtuals Protocol on Base has established an ecosystem where AI agents trade, provide liquidity, and manage treasuries. The technical foundation involves smart contract wallets with programmable permissions accessible through APIs.
 
 This innovation addresses a significant bottleneck. Traditional payment systems require human identity verification at every transaction, while crypto wallets do not. An AI agent can hold stablecoins, pay for computing services, receive payments, and settle accounts automatically.
 
@@ -73,7 +73,7 @@ The potential for Bitcoin DeFi is significant. With a market cap exceeding trill
 
 Anonymous wallets are giving way to identity systems linked to reputation. The Ethereum Name Service (ENS) boasts a substantial number of registered names. Gitcoin Passport evaluates wallet reputations based on verified credentials, while Worldcoin has enrolled a significant number of verified users through iris scanning technology.
 
-The practical utility of on-chain reputation is evident. Protocols require reliable methods to differentiate genuine users from sybil attackers in contexts such as airdrops, governance, and lending. On-chain reputation facilitates undercollateralized lending and improves DAO governance by weighting votes based on users' contribution histories.
+The practical utility of on-chain reputation is evident. Protocols require reliable methods to differentiate genuine users from sybil attackers in contexts such as airdrops, governance, and lending. On-chain reputation enables undercollateralized lending and improves DAO governance by weighting votes based on users' contribution histories.
 
 **Career signal:** The demand for identity and privacy engineering roles is on the rise, especially within companies developing zero-knowledge proof systems. These systems enable reputation verification without compromising personal data.
 

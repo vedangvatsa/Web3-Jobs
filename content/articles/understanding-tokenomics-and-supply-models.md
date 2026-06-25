@@ -83,7 +83,7 @@ Craft a personalized plan based on your current situation. Everyone's context is
 
 #### Step 4: Implement Changes Gradually
 
-Avoid overwhelming yourself by attempting to change everything at once. Start with small, manageable adjustments, and build upon them. Monitoring what works helps facilitate sustainable improvement.
+Avoid overwhelming yourself by attempting to change everything at once. Start with small, manageable adjustments, and build upon them. Monitoring what works helps enable sustainable improvement.
 
 #### Step 5: Measure Progress and Adapt
 

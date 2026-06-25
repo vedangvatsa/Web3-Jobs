@@ -21,7 +21,7 @@ Libreville's Web3 environment reflects Gabon's identity as a "carbon positive" n
 | Key Features | Description |
 |-----------------------------|----------------------------------------------------------------------------------------------|
 | **Leadership in ReFi** | Gabon actively issues carbon credits on the blockchain and is exploring how to tokenize its natural resources. Projects include sustainable forestry initiatives and biodiversity credits. |
-| **Collaborative Efforts** | The Web3 sector is bolstered by partnerships with the Gabonese government, NGOs such as The Nature Conservancy, and international organizations. |
+| **Collaborative Efforts** | The Web3 sector is strengthened by partnerships with the Gabonese government, NGOs such as The Nature Conservancy, and international organizations. |
 | **Tokenization of Assets** | The primary focus centers on the tokenization of environmental assets, necessitating expertise in both carbon credit science and financial engineering. |
 | **Impact-Driven Talent** | Libreville attracts professionals passionate about Web3 and climate solutions, including conservationists, climate scientists, financial engineers, and policy experts. |
 

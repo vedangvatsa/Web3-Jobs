@@ -61,7 +61,7 @@ Creating a dynamic NFT involves advanced development that merges standard NFT cr
 
 Creating dynamic NFTs comes with its own set of challenges:
 
-- **Increased Complexity**: Developing a dNFT requires more intricate coding than standard NFT projects.
+- **Increased Complexity**: Developing a dNFT requires more complex coding than standard NFT projects.
 - **Gas Fees**: Each time the NFT’s state updates via an oracle call, it incurs an on-chain transaction fee. Frequent updates can lead to high costs, prompting many projects to consider Layer 2 solutions.
 - **Centralization Risks**: The reliability of the oracle network and the data source is critical. An unreliable data source can compromise the logic of the dNFT.
 

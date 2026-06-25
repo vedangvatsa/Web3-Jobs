@@ -161,4 +161,4 @@ Evolution:
 
 ## Enable Cross-Chain Capital
 
-Wrapped assets enable capital to flow across chains. Understanding wrapped assets helps you navigate cross-chain DeFi safely. If you're interested in bridges or cross-chain infrastructure, explore careers at bridge teams. These roles focus on safe cross-chain infrastructure.
+Wrapped assets enable capital to flow across chains. Understanding wrapped assets helps you work through cross-chain DeFi safely. If you're interested in bridges or cross-chain infrastructure, explore careers at bridge teams. These roles focus on safe cross-chain infrastructure.

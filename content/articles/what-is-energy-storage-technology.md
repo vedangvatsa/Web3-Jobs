@@ -20,7 +20,7 @@ Batteries are the most recognized form of energy storage. They store energy chem
 
 - **Lithium-ion Batteries**: Dominating the market, lithium-ion batteries power devices from smartphones to electric vehicles. They have high energy density, meaning they can store substantial energy in compact spaces. Their efficiency and decreasing costs over the last decade have led to widespread adoption. They are particularly effective for short-duration storage, typically ranging from a few minutes to several hours, making them ideal for managing daily solar power fluctuations.
 
-- **Flow Batteries**: Flow batteries differ from traditional batteries by storing energy in two external tanks filled with liquid electrolyte. The liquids circulate through a central stack, where electrochemical reactions facilitate charging and discharging. The primary advantage of flow batteries lies in their scalability; increasing tank size enhances energy capacity. They excel in long-duration storage, capable of sustaining energy for several hours to multiple days.
+- **Flow Batteries**: Flow batteries differ from traditional batteries by storing energy in two external tanks filled with liquid electrolyte. The liquids circulate through a central stack, where electrochemical reactions enable charging and discharging. The primary advantage of flow batteries lies in their scalability; increasing tank size enhances energy capacity. They excel in long-duration storage, capable of sustaining energy for several hours to multiple days.
 
 ### Gravitational and Mechanical Storage
 

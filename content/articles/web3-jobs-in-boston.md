@@ -22,7 +22,7 @@ Boston's Web3 ecosystem mirrors its core strengths: academic excellence and fina
 
 - **Connection to Traditional Finance**: As a major center for asset management and financial services, Boston is key for companies bridging Traditional Finance (TradFi) and [DeFi](/what-is-defi). Numerous projects focus on institutional custody, digital asset management, and compliant DeFi solutions.
 
-- **Technical Talent Pool**: The city's growing tech and biotech sectors have cultivated a wealth of experienced engineers, data scientists, and quantitative analysts who are increasingly attracted to the intricate challenges presented by Web3.
+- **Technical Talent Pool**: The city's growing tech and biotech sectors have cultivated a wealth of experienced engineers, data scientists, and quantitative analysts who are increasingly attracted to the complex challenges presented by Web3.
 
 - **Community Engagement**: The Boston Web3 community emphasizes technical discussions over marketing hype. Events and meetups often center on research papers and in-depth protocol debates, creating an excellent environment for serious developers and researchers.
 
@@ -56,7 +56,7 @@ The job market in Boston is particularly favorable for technical and research-or
 
 The demand for Web3 professionals continues to grow, with companies actively seeking skilled individuals. Available roles encompass a range of specialties, including engineering, product management, and research.
 
-Boston's Web3 job market offers a unique blend of opportunities due to the city's academic strength and finance background. Engaging with local projects can facilitate career advancements. The following table outlines potential employers and their focus areas within the Web3 space.
+Boston's Web3 job market offers a unique blend of opportunities due to the city's academic strength and finance background. Engaging with local projects can enable career advancements. The following table outlines potential employers and their focus areas within the Web3 space.
 
 | Company Name | Focus Area | Notable Projects |
 |----------------------|-----------------------------------------|----------------------------------------------------|

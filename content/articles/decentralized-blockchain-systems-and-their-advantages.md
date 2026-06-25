@@ -30,7 +30,7 @@ Building a system on a decentralized network provides numerous advantages over a
 
 **2. Enhanced Security and Resilience**
 - **Advantage:** Decentralization removes single points of failure. In a centralized system, a hack or server failure can incapacitate the entire service. However, in a decentralized system, if one node goes offline, the network remains operational, supported by countless other nodes.
-- **Impact:** Blockchain networks are thus exceptionally reliable and resilient, designed for continuous operation. The **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)** further enhances security, making network attacks prohibitively expensive.
+- **Impact:** Blockchain networks are thus exceptionally reliable and resilient, designed for continuous operation. The **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-explained)** further enhances security, making network attacks prohibitively expensive.
 
 **3. User Ownership and Control**
 - **Advantage:** Decentralized systems enable users to own their data and digital assets fully. Through a **[crypto wallet](/how-to-choose-a-crypto-wallet)**, individuals maintain self-custody of their assets, governed by their private keys.

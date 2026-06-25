@@ -32,7 +32,7 @@ Externships serve as a conduit for career exploration. They typically last from 
 | **Work Involved** | Primarily shadowing and observing | Assigned projects and specific job duties |
 | **Commitment** | Low commitment from both sides | High commitment, resembling a temporary job |
 
-Externships facilitate the exploration of whether a specific career path is suitable, while internships focus on gaining practical experience in a chosen field.
+Externships enable the exploration of whether a specific career path is suitable, while internships focus on gaining practical experience in a chosen field.
 
 ### The Benefits of an Externship
 
@@ -50,7 +50,7 @@ Externships, despite being unpaid, provide numerous benefits that can significan
 
 Finding an externship requires strategic planning and proactive outreach. Here are effective methods for identifying and securing opportunities:
 
-1. **University Career Services:** Many universities have established externship programs, often available during winter or spring breaks. These programs facilitate connections with alumni and companies willing to host students.
+1. **University Career Services:** Many universities have established externship programs, often available during winter or spring breaks. These programs enable connections with alumni and companies willing to host students.
 
 2. **Cold Outreach:** Creating your own externship through cold outreach can be effective. Follow these steps:
  - Identify professionals in your field of interest using LinkedIn or Twitter.

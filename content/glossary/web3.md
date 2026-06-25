@@ -254,4 +254,4 @@ Web3 has created new career categories:
 - Tim O'Reilly, "Why it's too early to get excited about Web3" 
 - Ben Thompson, Stratechery Web3 analysis 
 
-Web3 represents both opportunity and ongoing experimentation. The technology enables new economic and social coordination mechanisms such as DAOs, DeFi, and digital ownership. Whether it fulfills the promise of returning the internet to users or remains a speculative sideshow depends on addressing real user experience, scalability, and regulatory challenges. Understanding the vision, technology, and criticisms equips you to navigate this fast-moving space.
+Web3 represents both opportunity and ongoing experimentation. The technology enables new economic and social coordination mechanisms such as DAOs, DeFi, and digital ownership. Whether it fulfills the promise of returning the internet to users or remains a speculative sideshow depends on addressing real user experience, scalability, and regulatory challenges. Understanding the vision, technology, and criticisms equips you to work through this fast-moving space.

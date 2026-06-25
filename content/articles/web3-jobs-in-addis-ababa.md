@@ -119,7 +119,7 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 - Expected Compensation: Competitive local salaries.
 
 **Months 21-24: Consultancy or Major Initiative Leader**
-- Establish a consultancy or spearhead a significant national project.
+- Establish a consultancy or lead a significant national project.
 - **Expected Compensation:** Competitive local salaries plus equity.
 
 ## Why Addis Ababa?

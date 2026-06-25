@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-06-15"
 ---
 
-Decentralized exchanges (DEXs) are critical infrastructure in [Web3](/what-is-web3). Uniswap, Curve, and other DEXs facilitate significant trading volume daily. Building [DEX](/what-is-a-decentralized-exchange-dex) infrastructure, features, and integrations creates opportunities for developers.
+Decentralized exchanges (DEXs) are critical infrastructure in [Web3](/what-is-web3). Uniswap, Curve, and other DEXs enable significant trading volume daily. Building [DEX](/what-is-a-decentralized-exchange-dex) infrastructure, features, and integrations creates opportunities for developers.
 
 DEX development combines [smart contract](/what-are-smart-contracts) development with a deep understanding of financial mechanisms. Developers who can build DEX features command competitive salaries. The technical bar is higher than average Web3 development, but rewards match the difficulty.
 

@@ -46,7 +46,7 @@ Follow this structured progression to enhance your skills while building your po
 #### Project 3: A Staking DApp (Your First Full-Stack Project)
 
 - **Description:** A decentralized application where users can "[stake](/how-to-become-a-web3-staking-specialist)" the ERC-20 token from Project 1 and earn additional tokens as rewards over time.
-- **Significance:** This project represents a foundational [DeFi](/what-is-defi) primitive. It’s your initial true full-stack endeavor, integrating a custom smart contract with a user-facing frontend. It reflects your understanding of incentive mechanisms and state management in a more intricate manner.
+- **Significance:** This project represents a foundational [DeFi](/what-is-defi) primitive. It’s your initial true full-stack effort, integrating a custom smart contract with a user-facing frontend. It reflects your understanding of incentive mechanisms and state management in a more complex manner.
 - **Tech Stack:** Solidity, React, Ethers.js/Viem, Hardhat/Foundry.
 - **Key Features to Implement:**
  - A `stake(uint256 amount)` function.
@@ -56,7 +56,7 @@ Follow this structured progression to enhance your skills while building your po
 
 #### Project 4: A More Complex DeFi or Governance dApp
 
-- **Description:** A project that addresses a more intricate problem, showcasing your ability to move beyond basic concepts.
+- **Description:** A project that addresses a more complex problem, showcasing your ability to move beyond basic concepts.
 - **Significance:** This capstone project distinguishes you from other junior developers, demonstrating your capability to manage more complex logic.
 - **Project Ideas:**
  - **On-Chain Voting/DAO System:** Users stake your ERC-20 token to vote on proposals.
@@ -72,4 +72,4 @@ Follow this structured progression to enhance your skills while building your po
  - Search for issues labeled "good first issue" or "help wanted."
  - Begin with smaller contributions, such as fixing typos in documentation or adding missing test cases.
 
-Your portfolio acts as a dynamic document reflecting your journey as a Web3 developer. By completing these projects, you not only enhance your coding skills but also create compelling evidence that can facilitate your entry into this growing industry. Start building today.
+Your portfolio acts as a dynamic document reflecting your journey as a Web3 developer. By completing these projects, you not only enhance your coding skills but also create compelling evidence that can enable your entry into this growing industry. Start building today.

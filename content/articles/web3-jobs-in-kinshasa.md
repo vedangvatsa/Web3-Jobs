@@ -33,7 +33,7 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 | **Remote Blockchain Developer** | Skilled developers from the DRC are highly sought after for remote positions. | Competitive compensation |
 | **Supply Chain/Enterprise Consultant** | Experts in mining who can implement blockchain solutions are valuable for corporate and NGO projects. | Competitive compensation |
 | **Community Manager** | Bilingual professionals who can engage local communities in French, Lingala, or Swahili. | Competitive compensation |
-| **NFT Artists and Curators** | Creative individuals who assist local artists in navigating the NFT space and connecting with global buyers. | Variable, depending on projects |
+| **NFT Artists and Curators** | Creative individuals who assist local artists in working through the NFT space and connecting with global buyers. | Variable, depending on projects |
 
 ### Building a Web3 Career in Kinshasa
 
@@ -135,7 +135,7 @@ The DRC's cobalt supply chain requires blockchain for transparency, representing
 Engage with NGOs that focus on responsible sourcing. These organizations have established relationships with mines and international buyers.
 
 **Can I assist local artists with NFTs?**
-Absolutely. Kinshasa's rich artistic scene is filled with talent eager to reach a global audience. By helping artists navigate the NFT space, you can create mutually beneficial connections.
+Absolutely. Kinshasa's rich artistic scene is filled with talent eager to reach a global audience. By helping artists work through the NFT space, you can create mutually beneficial connections.
 
 **Is it safe to work in Web3 in the DRC?**
 Remote work offers the safest approach. Building an online presence and keeping funds in secure wallets can mitigate risks. Many professionals thrive in this environment.

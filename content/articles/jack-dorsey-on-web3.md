@@ -18,7 +18,7 @@ Dorsey's commitment to decentralization is unwavering. He sees Bitcoin as a mean
 
 ### "Web3" vs. "Web5": A Battle of Philosophies
 
-Dorsey's critique of Web3 gained significant attention in December 2021 when he tweeted, "You don’t own 'web3.' The VCs and their LPs do. It will never escape their incentives. It’s ultimately a centralized entity with a different label." This statement sparked extensive debate. Dorsey argues that the Web3 ecosystem, heavily reliant on Ethereum and bolstered by venture capital funding, replicates the centralized power structures of Web2. He contends that venture capital firms invest in projects, acquire considerable [token](/what-is-a-token) allocations, and use their influence to promote their investments, often to the detriment of retail users.
+Dorsey's critique of Web3 gained significant attention in December 2021 when he tweeted, "You don’t own 'web3.' The VCs and their LPs do. It will never escape their incentives. It’s ultimately a centralized entity with a different label." This statement sparked extensive debate. Dorsey argues that the Web3 ecosystem, heavily reliant on Ethereum and strengthened by venture capital funding, replicates the centralized power structures of Web2. He contends that venture capital firms invest in projects, acquire considerable [token](/what-is-a-token) allocations, and use their influence to promote their investments, often to the detriment of retail users.
 
 In contrast, Dorsey champions “Web5: The Decentralized Web Platform,” announced in June 2022. This ambitious project seeks to enable individuals with true ownership of their data and identity. It uses Bitcoin as its foundational trust layer, foregoing the creation of a new token.
 
@@ -39,7 +39,7 @@ Dorsey's maximalism stems from his belief in Bitcoin's "immaculate conception." 
 Block has embraced this vision through various initiatives:
 
 * **Balance Sheet:** Block was among the first publicly traded companies to incorporate Bitcoin into its corporate treasury, reflecting a long-term commitment to the asset.
-* **Cash App:** This platform facilitates easy buying, selling, and holding of Bitcoin for millions of users.
+* **Cash App:** This platform enables easy buying, selling, and holding of Bitcoin for millions of users.
 * **Hardware [Wallet](/how-to-choose-a-crypto-wallet):** Block is developing a user-friendly hardware wallet aimed at enhancing Bitcoin self-custody.
 * **Bitcoin Mining:** The company has initiated programs to create a more open and decentralized Bitcoin mining ecosystem.
 
@@ -67,7 +67,7 @@ Dorsey critiques Ethereum for its perceived centralization, highlighting its ori
 
 **Q2: What is the relationship between Jack Dorsey and Elon Musk?**
 
-Dorsey and Musk share a mutual respect and a focus on promoting free speech and open protocols. Dorsey supported Musk’s acquisition of Twitter (now X), believing privatization would facilitate a shift toward a more open, protocol-based framework. Both individuals are also strong advocates for Bitcoin.
+Dorsey and Musk share a mutual respect and a focus on promoting free speech and open protocols. Dorsey supported Musk’s acquisition of Twitter (now X), believing privatization would enable a shift toward a more open, protocol-based framework. Both individuals are also strong advocates for Bitcoin.
 
 **Q3: Is "Web5" a real project?**
 

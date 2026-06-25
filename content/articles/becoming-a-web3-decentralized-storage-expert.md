@@ -30,7 +30,7 @@ Engineers can pursue several roles in the decentralized storage sector:
 
 - **dApp Developer:** Developers in this role use decentralized storage networks to create reliable applications. For instance, an NFT developer might store an NFT's image and metadata on IPFS or Arweave, ensuring that the information remains accessible and impervious to deletion by centralized servers.
 
-- **Tooling and API Developer:** This role involves creating tools that facilitate the use of decentralized storage for other developers. Examples include building "pinning services" that ensure data persists on IPFS or developing indexing services to simplify data queries on Arweave.
+- **Tooling and API Developer:** This role involves creating tools that enable the use of decentralized storage for other developers. Examples include building "pinning services" that ensure data persists on IPFS or developing indexing services to simplify data queries on Arweave.
 
 ### Steps to Enter the Decentralized Storage Field
 

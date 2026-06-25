@@ -20,11 +20,11 @@ This article examines the mechanics of Balancer Weighted Pools and their distinc
 
 ### Key Takeaways
 
-- **Flexible Allocation**: Weighted Pools enable custom token allocations beyond the traditional 50/50 split, facilitating multi-token pools.
+- **Flexible Allocation**: Weighted Pools enable custom token allocations beyond the traditional 50/50 split, enabling multi-token pools.
 - **Automated Indexing**: These pools function similarly to automated index funds. Arbitrageurs continuously rebalance the pool, generating fees for liquidity providers.
 - **Generalized Formula**: Balancer uses a generalized constant product formula adaptable to multiple tokens and custom weights.
 - **Diverse Use Cases**: Weighted Pools are perfect for creating token indexes, launching new projects via Liquidity Bootstrapping Pools, and allowing liquidity providers to maintain desired portfolio exposure.
-- **Efficient Trading**: They facilitate efficient trading between any two tokens in the pool, even without a direct pair in other markets.
+- **Efficient Trading**: They enable efficient trading between any two tokens in the pool, even without a direct pair in other markets.
 
 ### Limitations of Traditional 50/50 Pools
 

@@ -19,7 +19,7 @@ Liquidity is fundamental to functioning markets, whether traditional or decentra
 
 - **Market Liquidity**: The depth of buy and sell orders in a market. Deep liquidity means substantial trading volume can occur without moving prices significantly.
 
-- **Pool Liquidity**: In DeFi, liquidity refers to the total value of assets deposited in a liquidity pool that facilitates trading through automated market makers (AMMs).
+- **Pool Liquidity**: In DeFi, liquidity refers to the total value of assets deposited in a liquidity pool that enables trading through automated market makers (AMMs).
 
 Liquidity allows markets to function smoothly, enabling price discovery and efficient capital allocation.
 

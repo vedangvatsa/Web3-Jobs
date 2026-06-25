@@ -26,7 +26,7 @@ Managing a DAO treasury requires balancing security, efficiency, and decentraliz
  - **Advantages:** This model enhances security by eliminating the risk associated with a single private key, reducing the potential for a single point of failure. It also simplify operations compared to requiring a full DAO vote for every minor expense.
  - **Disadvantages:** Trust and centralization become factors. DAO members must rely on the multisig signers to act in good faith and remain available.
 
-2. **On-Chain Governance:** Major treasury decisions, such as allocating significant funds to new initiatives, undergo a full vote by governance token holders. Tools like Tally or Governor Bravo typically facilitate this process. A proposal undergoes discussion in a forum before being subjected to an on-chain vote. If approved, the execution code for the fund transfer triggers automatically.
+2. **On-Chain Governance:** Major treasury decisions, such as allocating significant funds to new initiatives, undergo a full vote by governance token holders. Tools like Tally or Governor Bravo typically enable this process. A proposal undergoes discussion in a forum before being subjected to an on-chain vote. If approved, the execution code for the fund transfer triggers automatically.
  - **Advantages:** This approach promotes decentralization and transparency in governance.
  - **Disadvantages:** The process can be slow, costly due to gas fees, and often suffers from low voter participation.
 

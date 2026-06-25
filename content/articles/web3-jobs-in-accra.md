@@ -151,7 +151,7 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 
 **Challenge 1: Small Local Web3 Market**
 - *Reality:* The number of local Web3 jobs in Accra is limited. To maximize opportunities, consider remote or global positions.
-- *Solution:* Target remote roles that offer global salaries, allowing you to save significantly while living in Accra. This strategy facilitates faster wealth accumulation.
+- *Solution:* Target remote roles that offer global salaries, allowing you to save significantly while living in Accra. This strategy enables faster wealth accumulation.
 
 **Challenge 2: Unstable Internet & Power**
 - *Reality:* Frequent power outages and internet disruptions can hinder productivity in Accra.

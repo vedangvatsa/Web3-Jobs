@@ -24,7 +24,7 @@ The immutability of blockchain relies on the integration of several critical tec
 
 ### Why Blockchain Is Tamper-Proof
 
-Consider a scenario where a hacker endeavors to modify a transaction recorded in Block 100. 
+Consider a scenario where a hacker efforts to modify a transaction recorded in Block 100. 
 
 - Altering the transaction data changes the hash of Block 100.
 - This new hash will not match the "previous block hash" in Block 101, thus disrupting the chain.

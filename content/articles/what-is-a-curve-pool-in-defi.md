@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 ## What is a Curve Pool in DeFi? An In-Depth Look
 
-Curve Finance operates as a decentralized exchange (DEX) specifically optimized for trading assets that are pegged to the same value. This primarily includes stablecoins such as USDC, DAI, and USDT, as well as various wrapped versions of assets like wBTC and renBTC. The liquidity pools that facilitate trades on this platform are referred to as **Curve pools**.
+Curve Finance operates as a decentralized exchange (DEX) specifically optimized for trading assets that are pegged to the same value. This primarily includes stablecoins such as USDC, DAI, and USDT, as well as various wrapped versions of assets like wBTC and renBTC. The liquidity pools that enable trades on this platform are referred to as **Curve pools**.
 
 Curve pools differentiate themselves by not employing the standard `x * y = k` **[constant product formula](/understanding-constant-product-formula)** commonly used in DEXs like Uniswap v2. Instead, they use a specialized algorithm known as the **[StableSwap invariant](/stableswap-invariant-explained-for-traders)**. This formula minimizes slippage while maximizing capital efficiency for trading pegged assets. As a result, Curve has emerged as a preferred venue for stablecoin swaps within the DeFi ecosystem.
 
@@ -22,7 +22,7 @@ This article provides a detailed examination of Curve pools, the mechanics behin
 
 | Aspect | Description |
 |-----------------------|--------------------------------------------------------------------------------------------------------------|
-| **Core Function** | Curve pools facilitate ultra-efficient trading of similarly priced assets, primarily focusing on stablecoin swaps. |
+| **Core Function** | Curve pools enable ultra-efficient trading of similarly priced assets, primarily focusing on stablecoin swaps. |
 | **The StableSwap Invariant** | Curve employs a unique bonding curve that combines constant product and constant sum formulas, resulting in a nearly flat curve around the target price, such as $1.00. |
 | **Key Benefits** | The flat curve enables large trades with minimal price impact, significantly enhancing efficiency for stablecoin swaps compared to general-purpose AMMs. |
 | **LP Tokens and Gauge** | Providing liquidity to a Curve pool earns LP tokens, which can be staked in the "CRV Gauge" to earn CRV [token](/what-is-a-token) rewards, the governance token for Curve. |
@@ -32,7 +32,7 @@ This article provides a detailed examination of Curve pools, the mechanics behin
 
 Standard automated market makers (AMMs), such as Uniswap v2, use the `x * y = k` formula. This framework proves effective for trading volatile, uncorrelated assets like [ETH](/what-is-ethereum)/DAI. However, it becomes inefficient when applied to stablecoins or assets that should maintain a fixed price.
 
-Consider a USDC/DAI pool on Uniswap. The price of these assets should remain close to 1.0. Nonetheless, the `x * y = k` formula spreads liquidity across an expansive price range from zero to infinity. Consequently, a significant portion of the pool's capital remains idle, supporting price ranges that are irrelevant (e.g., a scenario where 1 USDC equals 2 DAI).
+Consider a USDC/DAI pool on Uniswap. The price of these assets should remain close to 1.0. still, the `x * y = k` formula spreads liquidity across an expansive price range from zero to infinity. Consequently, a significant portion of the pool's capital remains idle, supporting price ranges that are irrelevant (e.g., a scenario where 1 USDC equals 2 DAI).
 
 As liquidity becomes dispersed throughout these ranges, even moderately sized transactions can lead to substantial price impacts. This inefficiency can result in unfavorable trading executions.
 

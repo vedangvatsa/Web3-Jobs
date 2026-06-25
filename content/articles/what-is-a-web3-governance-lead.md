@@ -40,9 +40,9 @@ The Governance Lead serves as the architect of the decision-making process.
  4. **On-Chain Vote:** If the temperature check is successful, the proposal proceeds to a binding on-chain vote.
 - **Tooling Management:** The Governance Lead oversees the governance tools, including the Discourse forum, Snapshot page, and on-chain voting platforms.
 
-**2. Facilitating Governance Processes**
+**2. Enabling Governance Processes**
 
-The Governance Lead actively facilitates rather than passively observes.
+The Governance Lead actively enables rather than passively observes.
 
 - **Moderating Forums:** They ensure productive and respectful discussions on governance forums.
 - **Organizing Governance Calls:** Regular community calls are scheduled and hosted to discuss active proposals, allowing real-time debate and clarification.
@@ -68,7 +68,7 @@ This role does not require extensive technical expertise, but a solid understand
 
 | Skill | Description |
 |--------------------------|-----------------------------------------------------------------------------------------------|
-| **Exceptional Communication** | Must excel in both written and verbal communication, capable of facilitating discussions. |
+| **Exceptional Communication** | Must excel in both written and verbal communication, capable of enabling discussions. |
 | **Process-Oriented Mind** | Enjoys designing systems and frameworks to bring order to chaos, with a background in project management. |
 | **Neutrality and Diplomacy** | Capable of acting as a neutral party and de-escalating conflicts while building consensus. |
 | **Deep Protocol Knowledge** | Possesses a thorough understanding of the protocol to grasp the implications of various proposals. |

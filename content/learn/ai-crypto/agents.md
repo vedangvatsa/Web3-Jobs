@@ -127,7 +127,7 @@ Crypto agents are not hypothetical. Several are already operating:
 
 - **AIXBT** — An AI agent on Crypto Twitter that analyzes market data and posts trading insights. It launched its own token (AIXBT) which reached a market cap of over $100M. The agent operates autonomously, posting analysis and interacting with followers.
 - **Virtuals Protocol** — A platform on Base where anyone can launch an AI agent with its own token. Agents earn revenue from user interactions, and token holders share in the profits. Think of it as "tokenized AI employees."
-- **Wayfinder** — An agent framework that lets AI navigate on-chain actions. You tell it "bridge 100 USDC from Ethereum to Arbitrum and deposit into Aave," and the agent figures out the optimal path and executes it.
+- **Wayfinder** — An agent framework that lets AI work through on-chain actions. You tell it "bridge 100 USDC from Ethereum to Arbitrum and deposit into Aave," and the agent figures out the optimal path and executes it.
 
 ## Agent Frameworks
 

@@ -20,7 +20,7 @@ R3 Corda, developed by R3, a consortium of major financial institutions, is desi
 
 **Privacy by design** is Corda's most significant architectural strength. In traditional blockchains, every participant can see every transaction. Corda's approach allows data sharing only among the parties directly involved in a transaction. For example, a trade between HSBC and Barclays remains confidential from Goldman Sachs, even if all three are nodes on the same Corda network. This feature is intrinsic to the protocol.
 
-Applications on Corda are referred to as **CorDapps** (Corda Distributed Applications). Developers write these applications using Kotlin or Java. Each CorDapp consists of three components: states (data stored on the ledger), contracts (deterministic validation logic), and flows (orchestration of business processes). Contracts can directly reference legal text, facilitating what R3 terms "smart legal contracts," which create binding agreements that integrate both code and law.
+Applications on Corda are referred to as **CorDapps** (Corda Distributed Applications). Developers write these applications using Kotlin or Java. Each CorDapp consists of three components: states (data stored on the ledger), contracts (deterministic validation logic), and flows (orchestration of business processes). Contracts can directly reference legal text, enabling what R3 terms "smart legal contracts," which create binding agreements that integrate both code and law.
 
 Corda enjoys extensive real-world adoption. For instance, HSBC uses Corda for trade finance and foreign exchange settlements. Nasdaq has implemented it for managing private market assets. Numerous global financial institutions, including SWIFT, Goldman Sachs, and Barclays, have executed production workloads on Corda. R3’s enterprise support model and the Corda Enterprise tier, distinct from the open-source version, offer SLA-backed deployments suitable for systemically important financial infrastructure.
 
@@ -57,7 +57,7 @@ Cosmos SDK can also be configured as a permissioned enterprise chain by limiting
 
 Corda and Cosmos SDK represent fundamentally different models of distributed ledger technology.
 
-**Corda** adopts a bilateral contract model. It lacks a global state; instead, each node maintains a vault of states relevant to its transactions. When two parties conduct a transaction, they execute a flow that facilitates direct communication between their nodes. This process constructs a transaction, validates it through a **notary** (preventing double-spending), and stores it locally. The notary only sees transaction inputs to detect conflicts but does not view the transaction details. This architecture ensures exceptional privacy, although it also means there is no "mempool" or global broadcast; it resembles a network of bilateral databases with cryptographic assurances.
+**Corda** adopts a bilateral contract model. It lacks a global state; instead, each node maintains a vault of states relevant to its transactions. When two parties conduct a transaction, they execute a flow that enables direct communication between their nodes. This process constructs a transaction, validates it through a **notary** (preventing double-spending), and stores it locally. The notary only sees transaction inputs to detect conflicts but does not view the transaction details. This architecture ensures exceptional privacy, although it also means there is no "mempool" or global broadcast; it resembles a network of bilateral databases with cryptographic assurances.
 
 **Cosmos SDK** employs a replicated state machine model. Every validator processes every transaction and maintains an identical copy of the chain state. Tendermint BFT ensures deterministic consensus; once a block is committed (after two-thirds of validators sign), it becomes final without any probabilistic confirmation windows. The ABCI interface cleanly separates the consensus mechanism from application logic, allowing for a modular and composable SDK. IBC connects chains at the protocol level using light client proofs, enabling a Cosmos chain to verify the state of another chain without relying on a third party.
 
@@ -91,7 +91,7 @@ In contrast, **Cosmos SDK** provides a more approachable experience for develope
 
 - **Marco Polo Network**: Uses Corda for trade finance, focusing on receivables financing.
 - **Contour**: Digitizes letters of credit, supported by major banks including HSBC, Citi, BNP Paribas, and Standard Chartered.
-- **HQLAx**: Facilitates securities lending by connecting Deutsche Börse with major custodians.
+- **HQLAx**: Enables securities lending by connecting Deutsche Börse with major custodians.
 - **SWIFT**: Conducted a proof-of-concept for cross-border payments using Corda.
 
 These implementations are not mere pilots; many handle significant value annually.
@@ -99,7 +99,7 @@ These implementations are not mere pilots; many handle significant value annuall
 **Cosmos SDK's production applications** encompass:
 
 - **dYdX v4**: Manages perpetual trading at volumes comparable to major centralized exchanges.
-- **Osmosis DEX**: Facilitated significant cumulative swap volume.
+- **Osmosis DEX**: Enabled significant cumulative swap volume.
 - **Injective Protocol**: Operates a fully on-chain order book for derivatives.
 - **Celestia**: Innovates in modular blockchain data availability.
 

@@ -55,9 +55,9 @@ The network must agree on the validity of transactions and determine the next bl
 
 * **Mining:** Participants, known as miners, compete to solve complex mathematical problems.
 * **Winning the Block:** The first miner to solve the problem creates the next block of transactions and receives a reward in newly minted bitcoin.
-* **Security:** This process demands substantial computational power, making it prohibitively costly for any single actor to dominate the network. An attacker would need to control a significant portion of the entire network's computational capacity, an exceptionally challenging endeavor.
+* **Security:** This process demands substantial computational power, making it prohibitively costly for any single actor to dominate the network. An attacker would need to control a significant portion of the entire network's computational capacity, an exceptionally challenging effort.
 
-Proof-of-Work was a critical advancement that facilitated a decentralized, trustless network. It provided a method for the network to reach consensus without a central authority.
+Proof-of-Work was a critical advancement that enabled a decentralized, trustless network. It provided a method for the network to reach consensus without a central authority.
 
 ## The Legacy: More Than Just Bitcoin
 

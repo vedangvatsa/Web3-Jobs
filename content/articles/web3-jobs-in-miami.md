@@ -147,7 +147,7 @@ Having a background in these areas can significantly enhance your competitivenes
 
 **Traditional Finance Experience:**
 - Previous roles at hedge funds, trading firms, or banks are highly regarded.
-- Understanding institutional finance, risk management, and compliance can facilitate a smooth transition to crypto.
+- Understanding institutional finance, risk management, and compliance can enable a smooth transition to crypto.
 
 **Latin American Experience:**
 - Living in Latin America, fluency in Spanish or Portuguese, and familiarity with regulatory environments can be valuable assets.

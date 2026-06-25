@@ -19,7 +19,7 @@ This article explores Vitalik Buterin's philosophy, technical contributions, evo
 
 In 2013, at just 19 years old, Buterin, then a co-founder of [Bitcoin](/what-is-bitcoin) Magazine, released the Ethereum whitepaper. While he admired Bitcoin's potential as a decentralized currency, he recognized its limitations. He proposed a blockchain equipped with a Turing-complete [programming language](/best-programming-languages-for-blockchain-development), enabling developers to create any application they could envision.
 
-Buterin sought to extend Bitcoin's decentralized, censorship-resistant properties. Instead of a blockchain limited to one use case (money), Ethereum emerged as a blockchain for *all* applications. This foundational idea led to the development of [smart contracts](/what-are-smart-contracts), decentralized applications (dApps), decentralized finance ([DeFi](/what-is-defi)), and non-fungible tokens ([NFTs](/what-are-nfts)). The Ethereum crowdsale in 2014 raised significant value, culminating in the network's official launch in 2015.
+Buterin sought to extend Bitcoin's decentralized, censorship-resistant properties. Instead of a blockchain limited to one use case (money), Ethereum emerged as a blockchain for *all* applications. This foundational idea led to the development of [smart contracts](/what-are-smart-contracts), decentralized applications (dApps), decentralized finance ([DeFi](/what-is-defi)), and non-fungible tokens ([NFTs](/what-are-nfts)). The Ethereum crowdsale in 2014 raised significant value, resulting in the network's official launch in 2015.
 
 ### Core Philosophical Pillars
 
@@ -57,7 +57,7 @@ To address scalability challenges, Vitalik supports a "rollup-centric roadmap." 
 Vitalik has extensively analyzed the trade-offs between these two primary types of rollups. While Optimistic Rollups are more feasible initially, he considers ZK-Rollups, which use zero-knowledge proofs to verify transaction validity, to be the future due to their superior security features and quicker withdrawal times.
 
 **Danksharding and EIP-4844:**
-To facilitate this rollup-centric future, Vitalik has played a important role in developing "Danksharding," a series of upgrades aimed at significantly reducing the costs for rollups to post their data to Ethereum. The first step, EIP-4844 (or "Proto-Danksharding"), introduced a new transaction type that creates dedicated "blob" space for rollup data, thereby considerably lowering costs for L2 users.
+To enable this rollup-centric future, Vitalik has played a important role in developing "Danksharding," a series of upgrades aimed at significantly reducing the costs for rollups to post their data to Ethereum. The first step, EIP-4844 (or "Proto-Danksharding"), introduced a new transaction type that creates dedicated "blob" space for rollup data, thereby considerably lowering costs for L2 users.
 
 ### Evolving Views on Governance and Society
 

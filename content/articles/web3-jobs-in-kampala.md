@@ -18,7 +18,7 @@ The Web3 movement in Kampala thrives on grassroots efforts from developers, entr
 Kampala's Web3 ecosystem is influenced by its youthful workforce and an active startup culture.
 
 - **A Young and Growing Talent Pool:** With a median age of just 16, Uganda’s youth is digitally savvy and eager to adopt new technologies, including Web3. This demographic represents a significant future talent pool.
-- **active Startup and Tech Hubs:** Kampala has a growing tech ecosystem, supported by innovation centers such as The Innovation Village and Outbox Hub. These organizations play a key role in nurturing startups, hosting developer bootcamps, and serving as community hubs for Web3 enthusiasts.
+- **active Startup and Tech Hubs:** Kampala has a growing tech ecosystem, supported by innovation centers such as The Innovation Village and Outbox Hub. These organizations are important for nurturing startups, hosting developer bootcamps, and serving as community hubs for Web3 enthusiasts.
 - **Focus on [DeFi](/what-is-defi) and Financial Inclusion:** Due to challenges in accessing traditional financial services, the local Web3 community emphasizes developing DeFi solutions. This includes platforms for savings, micro-lending, and efficient cross-border transactions, which are essential for a country with a substantial diaspora.
 - **Dynamic Community and Events:** The Kampala community is actively engaged, hosting regular meetups and conferences like the Africa Blockchain Conference. These events attract talent and enhance networking opportunities, improving collaboration within the ecosystem.
 

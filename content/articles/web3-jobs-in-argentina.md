@@ -173,7 +173,7 @@ To find the latest remote and local job openings in Argentina’s strong Web3 ec
 - *Solution:* Negotiate compensation in USD or stablecoins. Many professionals in the Argentine Web3 space already do this.
 
 **Challenge 2: Visa and Travel Complications**
-- *Reality:* Remote work often involves navigating complex regulations.
+- *Reality:* Remote work often involves working through complex regulations.
 - *Solution:* Crypto payments and borderless hiring practices have addressed many of these challenges.
 
 **Challenge 3: Limited Local Capital**

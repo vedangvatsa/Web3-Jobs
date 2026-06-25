@@ -107,7 +107,7 @@ Fee market roles:
 
 ## Best Practices
 
-Navigating fee markets:
+Working through fee markets:
 
 - **Use Gas Estimators**: Avoid overpaying.
 

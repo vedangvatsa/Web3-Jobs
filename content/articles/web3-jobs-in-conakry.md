@@ -65,7 +65,7 @@ Implementing a distributed ledger system could:
 
 - Establish immutable records of bauxite from mine to port.
 - Enable real-time tracking of shipments and transactions.
-- Facilitate transparent payment channels, reducing the need for intermediaries.
+- Enable transparent payment channels, reducing the need for intermediaries.
 - Assist government agencies in automatically auditing mining revenues.
 
 ### Career Opportunities in Mining Blockchain
@@ -146,7 +146,7 @@ Beyond the mining sector, Guinea's market presents significant opportunities for
 
 **Microfinance on Blockchain**: Develop lending protocols enabling unbanked Guineans to access small loans at fair rates, reducing reliance on predatory lenders. This system could operate via SMS or USSD, accommodating users with basic phones.
 
-**Community Trading Platforms**: Facilitate peer-to-peer trading of goods and services, allowing local farmers to sell directly to consumers through stablecoin payments. This model reduces the costs associated with intermediaries, benefiting both buyers and sellers.
+**Community Trading Platforms**: Enable peer-to-peer trading of goods and services, allowing local farmers to sell directly to consumers through stablecoin payments. This model reduces the costs associated with intermediaries, benefiting both buyers and sellers.
 
 **Savings Groups as [DAOs](/what-is-a-dao)**: Formalize traditional "esusu" saving circles using blockchain technology, where multiple family members can contribute to a shared smart contract. This creates a transparent record of contributions and distributions.
 
@@ -154,7 +154,7 @@ Beyond the mining sector, Guinea's market presents significant opportunities for
 
 Understanding the following is critical:
 
-- **Regulatory Landscape**: Familiarize yourself with the Central Bank of Guinea's stance on cryptocurrency and existing regulations.
+- **Regulatory Space**: Familiarize yourself with the Central Bank of Guinea's stance on cryptocurrency and existing regulations.
 - **User Context**: Acknowledge that many users have basic phones, limited internet access, and varying levels of financial literacy.
 - **Language Considerations**: Ensure that content is available in French or Susu, Guinea's primary local language.
 - **On-Chain Economics**: Minimize transaction costs and use stablecoins to maintain value stability.

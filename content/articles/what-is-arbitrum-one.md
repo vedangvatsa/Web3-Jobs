@@ -34,7 +34,7 @@ Arbitrum's design focuses on executing transactions off the primary Ethereum cha
 
 One significant drawback of the Optimistic Rollup model is the **extended withdrawal time**. Users wishing to transfer funds from Arbitrum back to the Ethereum mainnet must wait for the completion of the seven-day challenge period. However, third-party "bridges" have surfaced, enabling users to bypass this waiting period for a nominal fee.
 
-Arbitrum One has solidified its position as a frontrunner in Ethereum scaling efforts. By providing a fast, cost-effective, and EVM-compatible environment, it has attracted a significant number of users and facilitated billions in value, making the decentralized internet more accessible to a wider audience.
+Arbitrum One has solidified its position as a frontrunner in Ethereum scaling efforts. By providing a fast, cost-effective, and EVM-compatible environment, it has attracted a significant number of users and enabled billions in value, making the decentralized internet more accessible to a wider audience.
 
 ### Understanding the Implications
 

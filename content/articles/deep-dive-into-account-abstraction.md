@@ -39,7 +39,7 @@ Previous Account Abstraction proposals necessitated a "hard fork," which require
 
 EIP-4337 introduces a separate, higher-level transaction mempool. Instead of standard transactions, users submit "UserOperation" objects to this alternate mempool. Specialized nodes, known as "Bundlers," aggregate these UserOperations into a single standard transaction and submit it to a global "EntryPoint" smart contract on the blockchain.
 
-This design allows for swift implementation of the Account Abstraction system through smart contracts, facilitating quicker adoption and iteration.
+This design allows for swift implementation of the Account Abstraction system through smart contracts, enabling quicker adoption and iteration.
 
 ## The Key Components of EIP-4337
 

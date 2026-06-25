@@ -21,7 +21,7 @@ ENS functions similarly to the **Decentralized Name System (DNS)** used on the i
 ENS relies on a series of smart contracts operating on the Ethereum blockchain. The two key components of ENS are:
 
 1. **The ENS Registry:** This central contract maintains a list of all registered domains and their respective owners.
-2. **Resolvers:** These smart contracts facilitate the translation process. An ENS name owner can configure their resolver to direct the name to various types of information.
+2. **Resolvers:** These smart contracts enable the translation process. An ENS name owner can configure their resolver to direct the name to various types of information.
 
 When you enter `vitalik.eth` into a Web3-enabled wallet or decentralized application (dApp), the application queries the ENS registry to obtain the resolver associated with that name. It then asks the resolver for the Ethereum address corresponding to `vitalik.eth`. The resolver retrieves and returns the relevant `0x...` address.
 
@@ -44,7 +44,7 @@ Every ENS name functions as an **[NFT (Non-Fungible Token)](/what-are-nfts)** th
 - **Tradability:** As an NFT, you can buy, sell, or trade your ENS name on any NFT marketplace, similar to digital art. This capability has created a active secondary market for rare or desirable `.eth` names.
 - **Registration and Renewal:** To obtain an ENS name, you register it for a specified duration (typically one year or more) by paying a fee in ETH. To retain the name, you must renew your registration before it expires. This fee structure discourages indefinite squatting on names.
 
-### The Role of ENS in Facilitating Web3 Adoption
+### The Role of ENS in Enabling Web3 Adoption
 
 ENS is important for making Web3 more accessible. By replacing long, unreadable addresses with simple, memorable names, ENS enhances user experience and reduces intimidation for newcomers. This innovation significantly contributes to building a more human-readable and usable decentralized internet.
 

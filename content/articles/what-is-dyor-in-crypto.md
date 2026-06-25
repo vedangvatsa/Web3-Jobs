@@ -18,7 +18,7 @@ The significance of DYOR becomes apparent in a space rife with fraudulent scheme
 
 ## The Philosophy Behind DYOR
 
-The culture surrounding crypto prioritizes individual accountability and skepticism towards authority. The original [Bitcoin](/what-is-bitcoin) whitepaper emerged from a pseudonymous author, underscoring the importance of anonymity in decentralized systems. In [decentralized finance](/what-is-defi), the emphasis on removing trust in institutions further reflects this mindset. [DAOs](/what-is-a-dao) distribute governance among many, rather than concentrating it in a few hands.
+The culture surrounding crypto prioritizes individual accountability and skepticism towards authority. The original [Bitcoin](/what-is-bitcoin) whitepaper emerged from a pseudonymous author, highlighting the importance of anonymity in decentralized systems. In [decentralized finance](/what-is-defi), the emphasis on removing trust in institutions further reflects this mindset. [DAOs](/what-is-a-dao) distribute governance among many, rather than concentrating it in a few hands.
 
 This philosophical framework influences decision-making processes. You should not blindly trust a celebrity's endorsement of a project. Similarly, slick marketing from a company should not be enough to sway your opinion. You need to comprehend the project, assess it based on your judgment, and arrive at your own conclusions.
 

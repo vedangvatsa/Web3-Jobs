@@ -44,4 +44,4 @@ Unlike centralized credit scores, which rely on banks and credit bureaus, a Web3
 
 - **Exclusive Community Access:** Membership in curated communities or DAOs can be granted based on on-chain reputation instead of wealth.
 
-A strong reputation system is essential for building trust in a pseudonymous environment. This system can facilitate more sophisticated and human-centric applications, ranging from social finance to decentralized labor markets.
+A strong reputation system is essential for building trust in a pseudonymous environment. This system can enable more sophisticated and human-centric applications, ranging from social finance to decentralized labor markets.

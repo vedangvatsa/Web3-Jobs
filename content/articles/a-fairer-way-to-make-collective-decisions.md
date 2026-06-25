@@ -52,6 +52,6 @@ To combat this issue, Gitcoin employs various strategies, including on-chain ana
 
 ### The Future of Quadratic Funding
 
-Despite its challenges, Quadratic Funding represents a significant advancement in social coordination. It provides a democratic and scalable mechanism for communities to collectively fund projects they prioritize. As identity verification and sybil resistance technologies improve, QF is likely to extend beyond the Web3 ecosystem to facilitate funding for a wide range of public goods, from local community initiatives to global scientific research.
+Despite its challenges, Quadratic Funding represents a significant advancement in social coordination. It provides a democratic and scalable mechanism for communities to collectively fund projects they prioritize. As identity verification and sybil resistance technologies improve, QF is likely to extend beyond the Web3 ecosystem to enable funding for a wide range of public goods, from local community initiatives to global scientific research.
 
 Quadratic Funding exemplifies Web3's potential to create fairer and more equitable systems. By prioritizing community input and amplifying the voices of numerous contributors, QF not only addresses funding gaps but also builds a more inclusive decision-making process. As society continues to grapple with how to allocate resources for the common good, Quadratic Funding stands out as a viable solution that aligns financial incentives with community values.

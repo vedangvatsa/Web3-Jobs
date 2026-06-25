@@ -20,7 +20,7 @@ Generic questions such as "What's a typical day like?" miss the mark. To differe
 Establishing the significance of this part of the interview helps frame your approach. 
 
 1. **Demonstrates Genuine Interest:** Insightful questions indicate that you have conducted research and are seriously contemplating the position rather than merely going through the motions.
-2. **Facilitates Role Evaluation:** This opportunity allows you to explore the intricacies of the job. Is the role what you anticipated? What challenges should you expect? What defines success?
+2. **Enables Role Evaluation:** This opportunity allows you to explore the intricacies of the job. Is the role what you anticipated? What challenges should you expect? What defines success?
 3. **Assesses Company Culture:** Answers to your inquiries can provide valuable insights into the company's values, communication style, and work environment. Pay close attention to both the content and tone of their responses.
 4. **Highlights Your Expertise:** Asking specific questions can subtly showcase your skills and background. For instance, inquiring about the team’s challenges with a particular technology indicates your knowledge of the field.
 5. **Establishes a Peer-Level Dynamic:** Engaging with thoughtful questions transforms the interview from a one-sided interrogation to a collaborative dialogue between professionals.

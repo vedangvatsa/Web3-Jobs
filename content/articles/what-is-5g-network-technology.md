@@ -12,7 +12,7 @@ lastUpdated: "2026-06-15"
 
 5G represents the fifth generation of cellular network technology, succeeding 4G LTE. While previous generations focused on enhancing mobile capabilities, 5G offers a significant leap that extends beyond faster mobile downloads. It opens the door to advanced technologies such as self-driving cars and a vastly interconnected [Internet of Things (IoT)](/what-is-internet-of-things-technology).
 
-The transition from 3G to 4G prioritized bringing high-speed internet to mobile devices, fueling the app economy and enabling video streaming. In contrast, 5G aims to connect a multitude of devices. This technology not only increases speed but also reduces latency and enhances capacity, facilitating simultaneous connections for countless devices.
+The transition from 3G to 4G prioritized bringing high-speed internet to mobile devices, fueling the app economy and enabling video streaming. In contrast, 5G aims to connect a multitude of devices. This technology not only increases speed but also reduces latency and enhances capacity, enabling simultaneous connections for countless devices.
 
 ### The Three Key Benefits of 5G
 

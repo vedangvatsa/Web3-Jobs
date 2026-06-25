@@ -97,7 +97,7 @@ A developer earning a competitive salary can expect the following expenses:
 Kigali presents several advantages for tech professionals, particularly in the Web3 space.
 
 - **Government Support**: The proactive government stance on innovation and blockchain creates favorable conditions for businesses.
-- **Hub Ecosystem**: Kigali Innovation City serves as a regional tech center, facilitating access to capital, talent, and government connections.
+- **Hub Ecosystem**: Kigali Innovation City serves as a regional tech center, enabling access to capital, talent, and government connections.
 - **Education System**: A strong STEM education focus ensures a pipeline of high-quality tech talent, making recruitment easier compared to other African cities.
 - **Geographic Positioning**: Kigali's central location enhances connectivity with other African cities, establishing it as a hub for pan-African projects.
 
@@ -134,7 +134,7 @@ The combination of government support and a focus on enterprise projects creates
 Yes, positions with international companies or senior roles in local firms can yield salaries in this range, typically within a reasonable timeline.
 
 **Should I relocate to Kigali?**
-While not essential, being on the ground can facilitate government partnerships and enterprise sales. Remote work is still a viable option.
+While not essential, being on the ground can enable government partnerships and enterprise sales. Remote work is still a viable option.
 
 **What’s the best initial approach: startup or job?**
 Securing a job first is typically the faster route to income. After gaining experience, you can consider launching your own company.

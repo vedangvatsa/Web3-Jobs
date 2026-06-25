@@ -25,7 +25,7 @@ A neuron processes one or more inputs, performs a straightforward calculation, a
 1. **Receives Inputs**: Inputs originate from other neurons or from raw data (for example, a pixel from an image).
 2. **Assigns Weights to Inputs**: Inputs possess varying importance. Each connection has a "weight," a numerical value where a higher weight indicates greater influence on the neuron's output.
 3. **Calculates a Sum**: The neuron multiplies each input by its weight and sums the values. It also incorporates a "bias," which fine-tunes the output.
-4. **Applies an Activation Function**: The summed result passes through an activation function. This mathematical function determines whether the neuron activates (produces a strong output) or remains inactive. This step enables the network to identify intricate, non-linear patterns.
+4. **Applies an Activation Function**: The summed result passes through an activation function. This mathematical function determines whether the neuron activates (produces a strong output) or remains inactive. This step enables the network to identify complex, non-linear patterns.
 
 Although a single neuron operates as a basic calculator, true intelligence emerges when thousands or millions of neurons interconnect within a network.
 
@@ -79,7 +79,7 @@ Neural networks find extensive applications across various sectors. Here are som
 An algorithm represents a specific set of rules or instructions for problem-solving. In contrast, a neural network is a model that learns from data rather than relying on predefined rules. The training process for a neural network, such as backpropagation, is an algorithm, but the neural network itself makes decisions based on learned patterns.
 
 **2. Are neural networks genuinely similar to human brains?** 
-While neural networks draw inspiration from the brain, the analogy is loose. The human brain's complexity far surpasses that of artificial neural networks. Biological neurons are intricate living cells, while artificial neurons function as simplified mathematical models. The term "neural network" serves more as a metaphor than an accurate biological representation.
+While neural networks draw inspiration from the brain, the analogy is loose. The human brain's complexity far surpasses that of artificial neural networks. Biological neurons are complex living cells, while artificial neurons function as simplified mathematical models. The term "neural network" serves more as a metaphor than an accurate biological representation.
 
 **3. Is a strong math background necessary to understand neural networks?** 
 A high-level understanding and programming skills are sufficient for practitioners. However, researchers who design new neural networks require a solid foundation in linear algebra, calculus, and probability. Mastery of these mathematical fields helps articulate and manipulate the learning processes of neural networks.

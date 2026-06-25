@@ -32,7 +32,7 @@ The regulatory environment has created significant challenges. Major titles have
 
 ### Understanding the South Korean Gamer
 
-Korean gamers maintain exceptionally high expectations. They are accustomed to sophisticated graphics, intricate gameplay mechanics, and competitive multiplayer environments. Simple, browser-based crypto games are unlikely to thrive in this market.
+Korean gamers maintain exceptionally high expectations. They are accustomed to sophisticated graphics, complex gameplay mechanics, and competitive multiplayer environments. Simple, browser-based crypto games are unlikely to thrive in this market.
 
 **Consumer Preferences:**
 

@@ -140,7 +140,7 @@ Migrations require users to exchange old tokens for new ones, creating friction 
 
 - **Token Analyst**: Evaluates token projects, analyzes tokenomics, provides investment research. Financial analysis skills plus crypto knowledge.
 
-- **Compliance Specialist**: Navigates token regulation, structures compliant offerings, liaises with regulators. Legal background valuable.
+- **Compliance Specialist**: works through token regulation, structures compliant offerings, liaises with regulators. Legal background valuable.
 
 - **Token Growth Strategist**: Plans token distribution, manages airdrops, designs incentive programs. Marketing plus tokenomics understanding.
 

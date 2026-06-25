@@ -31,7 +31,7 @@ This method fails due to gas limits. Executing the loop for a large number of ad
 
 ### The Merkle Tree Solution: A Pull-Based Approach
 
-A Merkle airdrop uses a "pull" mechanism rather than a "push" one. Instead of the contract distributing tokens to everyone, eligible users must come to the contract to "pull" or claim their tokens. The Merkle tree facilitates the contract's verification of a user's eligibility without requiring the entire list of addresses.
+A Merkle airdrop uses a "pull" mechanism rather than a "push" one. Instead of the contract distributing tokens to everyone, eligible users must come to the contract to "pull" or claim their tokens. The Merkle tree enables the contract's verification of a user's eligibility without requiring the entire list of addresses.
 
 **The Process:**
 

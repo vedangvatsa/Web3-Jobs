@@ -42,7 +42,7 @@ Effective communication skills, high emotional intelligence, and a deep understa
 ## 3. Frontend / Web3 Developer
 *The builders of the user-facing gateway to dApps.*
 
-Frontend developers create the user interfaces that facilitate interaction with dApps. This role involves more than simply building a website; it requires integrating with [crypto wallets](/how-to-choose-a-crypto-wallet) and presenting complex blockchain data in an engaging manner.
+Frontend developers create the user interfaces that enable interaction with dApps. This role involves more than simply building a website; it requires integrating with [crypto wallets](/how-to-choose-a-crypto-wallet) and presenting complex blockchain data in an engaging manner.
 
 ### Key Responsibilities
 - Develop responsive and intuitive user interfaces using frameworks like React or Vue.
@@ -112,7 +112,7 @@ A strong foundation in economics, mathematics, or computer science is important.
 ## 8. UX/UI Designer
 *The artists who make Web3 usable for everyone.*
 
-Web3's adoption faces challenges due to its often-clunky user experience. UX/UI designers play a vital role in creating interfaces that simplify blockchain complexities, making dApps intuitive and accessible.
+Web3's adoption faces challenges due to its often-clunky user experience. UX/UI designers are important for creating interfaces that simplify blockchain complexities, making dApps intuitive and accessible.
 
 ### Key Responsibilities
 - Create user flows, wireframes, and prototypes.

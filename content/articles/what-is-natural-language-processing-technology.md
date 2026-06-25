@@ -101,7 +101,7 @@ Develop a personalized plan based on your assessment. Consider your role, team d
 
 #### Step 4: Implement Changes Gradually
 
-Focus on incremental changes rather than attempting a complete overhaul. Start with small adjustments to facilitate sustainable improvement.
+Focus on incremental changes rather than attempting a complete overhaul. Start with small adjustments to enable sustainable improvement.
 
 #### Step 5: Monitor Progress and Adapt
 
@@ -125,4 +125,4 @@ Track your advancements. If results are not as expected, adjust your strategies 
 
 4. **Giving Up Prematurely**: Embrace discomfort as a part of growth. Perseverance leads to positive outcomes.
 
-5. **Failing to Track Progress**: Measurement is important. Record your advancements to facilitate improvement.
+5. **Failing to Track Progress**: Measurement is important. Record your advancements to enable improvement.

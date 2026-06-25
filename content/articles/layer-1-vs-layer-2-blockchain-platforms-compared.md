@@ -17,7 +17,7 @@ The conversation around blockchain scalability focuses on two main categories: *
 A **[Layer 1](/what-is-a-layer-1-blockchain)** blockchain serves as the foundational network. It acts as the primary source of truth and security for its ecosystem.
 
 - **Key Characteristics:**
- - Each L1 blockchain secures itself through its own **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)**, such as Proof-of-Work or Proof-of-[Stake](/how-to-become-a-web3-staking-specialist).
+ - Each L1 blockchain secures itself through its own **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-explained)**, such as Proof-of-Work or Proof-of-[Stake](/how-to-become-a-web3-staking-specialist).
  - It operates with a native [token](/what-is-a-token) used to pay for transaction fees (for instance, BTC for [Bitcoin](/what-is-bitcoin) and ETH for [Ethereum](/what-is-ethereum)).
  - All transactions ultimately occur on the L1 chain.
 

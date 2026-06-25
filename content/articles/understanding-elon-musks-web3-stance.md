@@ -34,9 +34,9 @@ Musk's enthusiasm for Dogecoin highlights his understanding of a vital Web3 prin
 
 Musk's interactions with Bitcoin have been more contentious. In early 2021, Tesla purchased a significant amount of Bitcoin and announced it would accept the cryptocurrency as payment. This move marked a significant institutional endorsement and contributed to a major market surge.
 
-However, just months later, Musk reversed his stance. He announced that Tesla would suspend Bitcoin payments due to concerns over the environmental impact of Bitcoin mining. This decision sent shockwaves through the market and underscored a critical tension in his philosophy regarding Web3: the balance between technological innovation and environmental sustainability.
+However, just months later, Musk reversed his stance. He announced that Tesla would suspend Bitcoin payments due to concerns over the environmental impact of Bitcoin mining. This decision sent shockwaves through the market and highlighted a critical tension in his philosophy regarding Web3: the balance between technological innovation and environmental sustainability.
 
-This incident underscored Musk's prioritization of environmental concerns over significant financial investments. His actions brought the Proof-of-Work vs. Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) debate into broader discussions, forcing the industry to confront its energy consumption issues.
+This incident highlighted Musk's prioritization of environmental concerns over significant financial investments. His actions brought the Proof-of-Work vs. Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) debate into broader discussions, forcing the industry to confront its energy consumption issues.
 
 ## Skepticism About "Web3" as a Concept
 

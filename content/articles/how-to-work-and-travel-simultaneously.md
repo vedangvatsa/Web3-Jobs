@@ -22,7 +22,7 @@ A important first step is to establish a career that allows you to work entirely
 | Freelance Writing and Editing | Content creators can produce articles, blogs, and other written materials remotely. |
 | Graphic Design | Designers can create visuals and marketing materials using design software. |
 | Digital Marketing | Professionals can manage SEO, social media, and advertising campaigns from any location. |
-| Online Tutoring or Teaching | Many platforms connect educators with students globally, facilitating remote teaching. |
+| Online Tutoring or Teaching | Many platforms connect educators with students globally, enabling remote teaching. |
 | E-commerce | Running an online store or engaging in affiliate marketing provides flexibility in location. |
 
 If you currently work in an office, discuss the possibility of transitioning to a remote work arrangement. If your employer is unwilling, consider building a freelance portfolio or acquiring a new skill that is more aligned with remote work.
@@ -82,7 +82,7 @@ While it can be isolating at times, you can mitigate loneliness by staying in co
 Standard travel insurance may not suffice for long-term travel. Seek specific digital nomad health insurance plans from providers such as SafetyWing or World Nomads, which cater to remote workers.
 
 **What about taxes?** 
-Tax responsibilities for digital nomads can be intricate, influenced by your citizenship, duration of stay in a country, and client locations. Consulting an accountant specializing in remote work taxation is advisable.
+Tax responsibilities for digital nomads can be complex, influenced by your citizenship, duration of stay in a country, and client locations. Consulting an accountant specializing in remote work taxation is advisable.
 
 ### The Importance of the Digital Nomad Lifestyle
 

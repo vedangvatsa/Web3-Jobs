@@ -169,7 +169,7 @@ Different questions have different appropriate audiences. Asking the right perso
 
 **Your Mentor/Buddy:**
 - Company culture questions
-- Advice about navigating office politics
+- Advice about working through office politics
 - Career path and growth questions
 - Questions about the broader organization
 

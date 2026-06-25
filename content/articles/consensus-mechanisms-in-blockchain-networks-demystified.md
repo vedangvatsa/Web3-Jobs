@@ -61,7 +61,7 @@ Beyond PoW and PoS, several new mechanisms exist, including:
 
 - **Delegated Proof-of-Stake (DPoS):** Token holders vote to elect a limited number of "delegates" responsible for validating transactions. This model is used by projects like EOS and Tron.
 
-- **Proof-of-History (PoH):** This unique mechanism, employed by **[Solana](/what-is-solana)**, creates a cryptographic clock that timestamps transactions before processing, facilitating parallel processing and high throughput.
+- **Proof-of-History (PoH):** This unique mechanism, employed by **[Solana](/what-is-solana)**, creates a cryptographic clock that timestamps transactions before processing, enabling parallel processing and high throughput.
 
 ### Evaluating Consensus Mechanisms
 

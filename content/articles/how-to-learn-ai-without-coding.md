@@ -35,7 +35,7 @@ Before engaging with any tools, you should focus on core concepts to build your 
 **Recommended Free Resources**
 
 - **"Elements of AI" by the University of Helsinki**: This online course offers a strong foundation for non-technical learners. It covers AI, machine learning, and neural networks with clarity, avoiding complex math and coding.
-- **YouTube Channels**: Channels such as 3Blue1Brown and StatQuest with Josh Starmer explain intricate topics using simple visuals and analogies. They provide insights into the underlying intuition behind complex mathematical concepts.
+- **YouTube Channels**: Channels such as 3Blue1Brown and StatQuest with Josh Starmer explain complex topics using simple visuals and analogies. They provide insights into the underlying intuition behind complex mathematical concepts.
 - **AI Newsletters**: Subscribing to newsletters like "The Neuron" and "Ben's Bites" keeps you updated with easy-to-digest summaries of the latest developments in AI.
 
 Focus on these fundamental ideas:
@@ -108,7 +108,7 @@ AI skills are becoming increasingly vital across various industries, including [
 | AI Literacy | Essential for evaluating AI tools and applications in business. |
 | Communication Skills | Necessary for conveying complex AI concepts to non-technical stakeholders. |
 | Problem-Solving Ability | Critical for addressing challenges in AI implementation and use. |
-| Emotional Intelligence | Helps in team collaboration and navigating organizational dynamics. |
+| Emotional Intelligence | Helps in team collaboration and working through organizational dynamics. |
 
 ### Development Roadmap for AI Competence
 

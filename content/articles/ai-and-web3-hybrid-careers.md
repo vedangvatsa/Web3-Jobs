@@ -19,7 +19,7 @@ The integration of AI and Web3 is motivated by a mutual necessity to address eac
 
 * **AI Requires Web3 for Trust and Ownership:** Traditional AI models often function as opaque systems controlled by large corporations. Users lack clarity regarding the decision-making processes of these models, and the data used for training is frequently collected without consent. Web3 addresses these issues through **verifiable computation** and **data sovereignty**. By placing AI models or their outputs on a blockchain, it becomes possible to demonstrate their training processes and the inferences they draw. [NFTs](/what-are-nfts) enable users to own and control their data and provide the means to license it to AI models as they see fit.
 
-* **Web3 Requires AI for Intelligence and Scalability:** While blockchains are powerful, they have inherent limitations in computational capacity. They are not optimized for the intensive processing demands of AI. On-chain data is also vast and complex. AI can serve as an intelligent layer on top of Web3, analyzing on-chain data, automating complex [DAO](/what-is-a-dao) operations, and facilitating dynamic decentralized applications (dApps).
+* **Web3 Requires AI for Intelligence and Scalability:** While blockchains are powerful, they have inherent limitations in computational capacity. They are not optimized for the intensive processing demands of AI. On-chain data is also vast and complex. AI can serve as an intelligent layer on top of Web3, analyzing on-chain data, automating complex [DAO](/what-is-a-dao) operations, and enabling dynamic decentralized applications (dApps).
 
 This mutually beneficial relationship supports innovation and creates new career opportunities.
 
@@ -31,7 +31,7 @@ The need for professionals who can connect AI and Web3 is rapidly increasing. Th
 
 Decentralized AI Developers focus on building and deploying AI models within decentralized environments. Instead of using a centralized server, they deploy models across a network of nodes, use blockchains to verify outputs, or create systems where the models are governed by a DAO.
 
-* **Daily Responsibilities:** A typical day might include optimizing a machine learning model to predict NFT market trends or writing [smart contracts](/what-are-smart-contracts) to facilitate user payments for model inferences using cryptocurrency. They may also design systems that run models across decentralized computing networks to ensure resistance to censorship.
+* **Daily Responsibilities:** A typical day might include optimizing a machine learning model to predict NFT market trends or writing [smart contracts](/what-are-smart-contracts) to enable user payments for model inferences using cryptocurrency. They may also design systems that run models across decentralized computing networks to ensure resistance to censorship.
 * **Essential Tools & Technologies:** Proficiency in Python (using frameworks like PyTorch or TensorFlow), [Solidity](/best-programming-languages-for-blockchain-development), Rust, decentralized computing platforms, Oracle networks (Chainlink), and containerization knowledge (Docker) is vital.
 * **Career Path:** This role is inherently senior. Progression can lead to positions such as Lead or Principal AI Architect in a Web3 organization, founding a startup that focuses on decentralized AI infrastructure, or becoming a key researcher in the field.
 
@@ -63,7 +63,7 @@ On-chain data presents vast opportunities for analysis. On-Chain Data Scientists
 
 The increasing power and autonomy of AI systems raise significant ethical considerations. The Decentralized AI Ethicist focuses on ensuring that decentralized AI systems are fair, transparent, and aligned with human values.
 
-* **Daily Responsibilities:** Daily tasks might involve analyzing potential biases in datasets used for training on-chain AI models, drafting frameworks for community governance of AI decision-making parameters, or facilitating discussions within a DAO about ethical boundaries for autonomous agents on their platform. This role serves as the ethical compass for the protocol.
+* **Daily Responsibilities:** Daily tasks might involve analyzing potential biases in datasets used for training on-chain AI models, drafting frameworks for community governance of AI decision-making parameters, or enabling discussions within a DAO about ethical boundaries for autonomous agents on their platform. This role serves as the ethical compass for the protocol.
 * **Essential Tools & Technologies:** While this role does not require coding, a deep understanding of AI principles (fairness, accountability, transparency) and Web3 governance models (DAOs, voting mechanisms) is critical. Strong communication, philosophical, and policy skills are essential.
 * **Career Path:** This leadership role can evolve into positions such as Head of Ethics & Safety, a member of a DAO's oversight committee, or a public policy advocate shaping regulations for decentralized AI.
 

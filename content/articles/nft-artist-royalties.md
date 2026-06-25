@@ -27,7 +27,7 @@ In theory, this process is transparent and automated, enforced by the immutable 
 
 ## The Technical Standard: EIP-2981
 
-To facilitate royalty payments across the ecosystem, a common standard was essential. This standard, known as **EIP-2981: NFT Royalty Standard**, is an Ethereum Improvement Proposal that outlines a new feature for the Ethereum ecosystem.
+To enable royalty payments across the ecosystem, a common standard was essential. This standard, known as **EIP-2981: NFT Royalty Standard**, is an Ethereum Improvement Proposal that outlines a new feature for the Ethereum ecosystem.
 
 EIP-2981 introduced a universal function that any NFT contract can implement:
 

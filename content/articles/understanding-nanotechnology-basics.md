@@ -32,7 +32,7 @@ Nanotechnology has significantly transformed materials science. By integrating n
 - **Aerospace**: Stronger and lighter components for aircraft.
 - **Sports Equipment**: Enhanced durability in items such as tennis rackets and bicycle frames.
 
-nanoparticles facilitate the creation of new coatings. Superhydrophobic surfaces repel water, leading to practical applications such as self-cleaning windows and stain-resistant fabrics. Coatings infused with silver nanoparticles exhibit natural antimicrobial properties, making them suitable for medical devices and wound dressings to reduce infection risks.
+nanoparticles enable the creation of new coatings. Superhydrophobic surfaces repel water, leading to practical applications such as self-cleaning windows and stain-resistant fabrics. Coatings infused with silver nanoparticles exhibit natural antimicrobial properties, making them suitable for medical devices and wound dressings to reduce infection risks.
 
 ### Nanotechnology in Electronics
 
@@ -51,7 +51,7 @@ Nanomedicine is an emerging field set to alter disease diagnosis and treatment s
 
 A primary focus is on targeted drug delivery. By encapsulating drugs in nanoparticles and modifying their surfaces to bind specifically to certain cells, like cancer cells, scientists can direct treatments more effectively. This approach enhances drug efficacy and minimizes side effects on healthy tissues.
 
-Nanoparticles are also being developed for use as contrast agents in medical imaging, improving the early and accurate diagnosis of diseases. Future innovations may include nanorobots capable of navigating the bloodstream to perform surgeries or deliver drugs with high precision.
+Nanoparticles are also being developed for use as contrast agents in medical imaging, improving the early and accurate diagnosis of diseases. Future innovations may include nanorobots capable of working through the bloodstream to perform surgeries or deliver drugs with high precision.
 
 ### Future Prospects of Nanotechnology
 

@@ -77,7 +77,7 @@ Storing AI decisions on a blockchain provides an auditable history. For example,
 A DAO could oversee an AI system, allowing token holders to vote on parameters such as fairness constraints and data usage policies. This governance model enables different communities to tailor AI systems to reflect their values.
 
 ### Decentralized Identity
-Web3 identity solutions facilitate user control over identity data. Users can manage their identity without relying on centralized verification services, enhancing privacy and ownership.
+Web3 identity solutions enable user control over identity data. Users can manage their identity without relying on centralized verification services, enhancing privacy and ownership.
 
 ### Verifiable AI Properties
 Zero-knowledge proofs could demonstrate that an AI system adheres to specific standards, such as impartiality or privacy compliance, without disclosing the underlying system.

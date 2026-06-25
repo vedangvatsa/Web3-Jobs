@@ -33,7 +33,7 @@ Sui uses a smart contract programming language called **Move**, which was initia
 - **Key Features of Move:**
  - **Strong Static Typing:** This feature helps to catch many common bugs during compile time.
  - **Resource-Based Scarcity:** Move introduces "resources," a unique data type that cannot be duplicated or deleted accidentally. This characteristic makes it suitable for representing digital assets like tokens and NFTs, enhancing security at the language level.
- - **Formal Verification:** Move's design facilitates analysis by formal verification tools, simplifying the process of writing secure and provably correct code.
+ - **Formal Verification:** Move's design enables analysis by formal verification tools, simplifying the process of writing secure and provably correct code.
 
 For developers transitioning from other programming languages, learning Move may require a shift in mindset compared to [Solidity](/best-programming-languages-for-blockchain-development). However, Move offers strong guarantees regarding asset safety.
 

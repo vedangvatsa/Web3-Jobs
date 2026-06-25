@@ -71,7 +71,7 @@ Mute your microphone when not speaking. This practice reduces background noise a
 
 - **Stay Focused**: Close unnecessary tabs and disable notifications to give the meeting your full attention. If your input is not needed on a specific agenda item, consider leaving the meeting instead of multitasking.
 - **Use the Chat for Parallel Conversations**: The chat feature can be effective for sharing links, asking clarifying questions, or showing agreement without disrupting the speaker. Avoid long discussions in the chat that distract from the main agenda.
-- **Facilitate Inclusively**: If leading the meeting, actively encourage quieter participants to share their thoughts. For example, "David, you have valuable experience in this area. What do you think?"
+- **Enable Inclusively**: If leading the meeting, actively encourage quieter participants to share their thoughts. For example, "David, you have valuable experience in this area. What do you think?"
 
 ## After the Meeting: Follow-Up and Action
 
@@ -89,7 +89,7 @@ Respect everyone's schedule by concluding the meeting at the designated time. If
 
 ## Mastering Remote Meeting Etiquette
 
-Adopting effective remote meeting etiquette is essential for transforming virtual gatherings into productive collaboration tools. By preparing adequately, being present, and maintaining professionalism, you contribute to a meeting culture that values everyone's time and energy. Mastering these practices will enhance the effectiveness of your meetings and bolster your professional reputation as a thoughtful collaborator in a remote-first environment.
+Adopting effective remote meeting etiquette is essential for transforming virtual gatherings into productive collaboration tools. By preparing adequately, being present, and maintaining professionalism, you contribute to a meeting culture that values everyone's time and energy. Mastering these practices will enhance the effectiveness of your meetings and strengthen your professional reputation as a thoughtful collaborator in a remote-first environment.
 
 ### Frequently Asked Questions (FAQ)
 

@@ -24,7 +24,7 @@ Pune's rise as a Web3 hub is fueled by its distinct advantages and strategic pos
 
 - **Active Community Engagement:** The Pune Web3 community is recognized for its inclusivity and activity. Regular meetups, workshops, and hackathons, such as ETHPune, serve as platforms for learning and networking, making them invaluable for professionals looking to connect.
 
-- **Strategic Proximity to Mumbai:** Just a few hours from Mumbai, Pune benefits from access to financial capital, business networks, and expertise that bolster the city’s Web3 projects.
+- **Strategic Proximity to Mumbai:** Just a few hours from Mumbai, Pune benefits from access to financial capital, business networks, and expertise that strengthen the city’s Web3 projects.
 
 - **Commitment to Development and Education:** Pune emphasizes the builder community. Many local experts are dedicated to educating and onboarding new developers into the Web3 space.
 

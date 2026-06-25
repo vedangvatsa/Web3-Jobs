@@ -18,7 +18,7 @@ Its new architecture features multiple blockchains and a unique consensus mechan
 
 Avalanche's main network consists of three interconnected chains, each tailored for specific functions:
 
-1. **The Exchange Chain (X-Chain):** This chain facilitates the creation and trading of digital assets. The native AVAX [token](/what-is-a-token) operates on this chain.
+1. **The Exchange Chain (X-Chain):** This chain enables the creation and trading of digital assets. The native AVAX [token](/what-is-a-token) operates on this chain.
 2. **The Platform Chain (P-Chain):** This chain coordinates validators and manages the network's metadata. It is the platform for [staking](/how-to-become-a-web3-staking-specialist) AVAX and the creation of "subnets."
 3. **The Contract Chain (C-Chain):** This chain is where developers and users engage most actively. The C-Chain is an instance of the [Ethereum](/what-is-ethereum) Virtual Machine (EVM), ensuring compatibility with Ethereum's [smart contracts](/what-are-smart-contracts) and tools. Developers can deploy their [Solidity](/best-programming-languages-for-blockchain-development) dApps on the C-Chain, benefiting from Avalanche's speed and lower transaction fees.
 
@@ -27,7 +27,7 @@ Avalanche's main network consists of three interconnected chains, each tailored 
 Avalanche employs a novel consensus mechanism known as **Avalanche Consensus**, which differs from traditional methods used by [Bitcoin](/what-is-bitcoin) or Ethereum. 
 
 - **Mechanism:** When a transaction is proposed, a small, random selection of validators is asked to assess its validity. These validators then query another random selection of validators, repeating this process until consensus is reached.
-- **Emergent Consensus:** This repeated random sampling facilitates rapid agreement across the network. A valid transaction gains quick acceptance, while conflicting transactions face rejection.
+- **Emergent Consensus:** This repeated random sampling enables rapid agreement across the network. A valid transaction gains quick acceptance, while conflicting transactions face rejection.
 - **Advantage:** This method allows Avalanche to achieve transaction finality in less than a second, providing a speed advantage.
 
 ### Subnets: Custom Blockchains

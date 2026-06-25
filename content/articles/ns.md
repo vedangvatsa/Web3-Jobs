@@ -59,14 +59,14 @@ Network School is strategically located on an island off Singapore, providing th
 
 ## Daily Life at Network School
 
-Members at Network School engage in various activities that facilitate productivity and community building:
+Members at Network School engage in various activities that enable productivity and community building:
 
 - Work in collaborative coworking spaces alongside other builders.
 - Share meals in a communal dining area.
 - Attend scheduled speaker sessions and workshops designed to enhance skills and knowledge.
 - Use fitness facilities and participate in group fitness classes.
 - Access the content studio for creative projects.
-- Take advantage of the makerspace to work on hardware-related endeavors.
+- Take advantage of the makerspace to work on hardware-related efforts.
 - Network with individuals from diverse industries and backgrounds.
 
 Unlike traditional conferences, Network School emphasizes a living and working environment focused on execution rather than mere networking.

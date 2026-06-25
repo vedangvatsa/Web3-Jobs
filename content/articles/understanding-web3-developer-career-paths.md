@@ -28,7 +28,7 @@ This path represents one of the most common entry points for Web3 developers. Sm
 
 These developers focus on building the user interface that connects to on-chain smart contracts, ensuring a smooth user experience.
 
-- **Responsibilities:** They design and implement user-friendly interfaces for dApps, using frameworks like React and libraries such as Ethers.js to facilitate communication with the blockchain.
+- **Responsibilities:** They design and implement user-friendly interfaces for dApps, using frameworks like React and libraries such as Ethers.js to enable communication with the blockchain.
 - **Core Skills:** Mastery of **JavaScript/TypeScript**, **React/Next.js**, and various Web3 libraries is essential for this role.
 - **Resources:** Explore more in [How to Transition from Web2 to Web3 Developer](/how-to-transition-from-web2-to-web3-developer-transition).
 

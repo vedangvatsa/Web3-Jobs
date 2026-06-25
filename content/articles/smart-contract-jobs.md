@@ -48,7 +48,7 @@ Compensation varies depending on seniority.
 
 ### Infrastructure Developer
 
-Some developers work on infrastructure, bridges between blockchains, oracles that provide external data, or systems that monitor and facilitate smart contract interactions. This requires strong systems thinking and understanding of complex distributed systems.
+Some developers work on infrastructure, bridges between blockchains, oracles that provide external data, or systems that monitor and enable smart contract interactions. This requires strong systems thinking and understanding of complex distributed systems.
 
 Compensation varies depending on seniority.
 

@@ -20,7 +20,7 @@ Testing a dApp presents complexities that differ significantly from traditional 
 
 - **Immutable Infrastructure:** Once a smart contract is deployed, it cannot be modified. Bugs discovered post-deployment can lead to severe consequences, often with no feasible fix.
 - **Hostile Environment:** dApps function in public, adversarial spaces. QA engineers must adopt an attacker's perspective, testing for potential economic exploits and vulnerabilities.
-- **Complex State:** The state of a dApp is influenced not only by its own contracts but also by the entire blockchain state and interactions with other protocols. Testing must reflect this intricate, interconnected environment.
+- **Complex State:** The state of a dApp is influenced not only by its own contracts but also by the entire blockchain state and interactions with other protocols. Testing must reflect this complex, interconnected environment.
 - **Asynchronous Operations:** Blockchain transactions are not instant. QA engineers must account for potential race conditions and the various states of transactions, including pending, successful, and failed outcomes.
 
 ### Core Responsibilities of a Web3 QA Engineer

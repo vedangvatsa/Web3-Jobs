@@ -42,7 +42,7 @@ Browser extension wallets signify a shift from traditional web authentication me
 
 In conventional web applications (Web2), centralized companies control your data and assets. For example, Google manages your Google account, and banks oversee your bank accounts. You access these accounts through a username and password, but the company remains the core custodian.
 
-In contrast, a wallet in Web3 facilitates true ownership. Your assets link directly to your cryptographic keys, not to an account on a company's server. This change carries significant implications.
+In contrast, a wallet in Web3 enables true ownership. Your assets link directly to your cryptographic keys, not to an account on a company's server. This change carries significant implications.
 
 ### No Censorship
 

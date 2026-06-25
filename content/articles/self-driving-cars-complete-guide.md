@@ -169,7 +169,7 @@ The demand for skilled professionals in the autonomous vehicle and DePIN space i
 
 The autonomous vehicle market is projected to surpass significant value, while the DePIN sector is anticipated to exceed significant value. The convergence of these industries presents a unique opportunity for professionals seeking to enter a rapidly growing field.
 
-The need for decentralized data infrastructure in autonomous vehicles is clear. Vehicle owners should have control over their data, and blockchain technology can facilitate this ownership while aligning incentives. Engineers who enter this space early may secure a first-mover advantage.
+The need for decentralized data infrastructure in autonomous vehicles is clear. Vehicle owners should have control over their data, and blockchain technology can enable this ownership while aligning incentives. Engineers who enter this space early may secure a first-mover advantage.
 
 ### Job Market Insights
 

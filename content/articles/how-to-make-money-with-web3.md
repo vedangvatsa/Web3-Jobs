@@ -22,7 +22,7 @@ In Web3, your reputation often outweighs your resume. Your "proof of work" is a 
 
 Community managers are among the most sought-after non-technical positions in Web3. Every project needs a active community, and organizations actively seek individuals skilled in community engagement.
 
-- **What You Do:** You take charge of a project's Discord and Telegram channels, welcoming new members, answering inquiries, hosting events, and facilitating discussions. You act as the liaison between users and the core team.
+- **What You Do:** You take charge of a project's Discord and Telegram channels, welcoming new members, answering inquiries, hosting events, and enabling discussions. You act as the liaison between users and the core team.
 - **How to Start:**
  1. Identify a project that excites you.
  2. Join their Discord and engage actively by answering questions.

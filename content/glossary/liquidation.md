@@ -151,6 +151,6 @@ Liquidation mechanisms continue evolving:
 
 - **Layer 2 Integration**: L2 solutions enabling cheaper, faster liquidation management for borrowers trying to avoid liquidation.
 
-## Navigate DeFi Lending
+## Work through DeFi Lending
 
 Understanding liquidation is important for anyone using DeFi lending, whether borrowing, lending, or building protocols. If you're interested in DeFi risk management, quantitative analysis, or protocol design, explore [DeFi career opportunities](/) at leading protocols. These positions place you at the intersection of finance, theory, and smart contract engineering.

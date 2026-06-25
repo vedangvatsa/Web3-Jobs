@@ -47,7 +47,7 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 
 3. **Knowledge of the Local Ecosystem:** Understanding key local players is important. Familiarity with platforms like Upbit and Kakao and how they can drive growth is a key strategic asset.
 
-4. **Networking at Local Events:** Participation in events such as Korea Blockchain Week (KBW) and BUIDL Asia in Seoul can facilitate valuable connections in the Korean and broader Asian Web3 community.
+4. **Networking at Local Events:** Participation in events such as Korea Blockchain Week (KBW) and BUIDL Asia in Seoul can enable valuable connections in the Korean and broader Asian Web3 community.
 
 ### Salary Overview: Web3 Positions in South Korea
 
@@ -153,7 +153,7 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 - **Expected Compensation:** Significant value.
 
 **Quick Wins:**
-- Facilitate partnerships between K-pop/IP and crypto sectors, earning significant value per deal.
+- Enable partnerships between K-pop/IP and crypto sectors, earning significant value per deal.
 - Consult for international companies entering Korea.
 - Participate as a speaker at business events.
 

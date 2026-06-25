@@ -48,7 +48,7 @@ quiz:
     explanation: "A legitimate AI token has measurable network usage: Render tracks GPU hours rendered, Akash shows active deployments, The Graph counts queries served. If the only activity is trading on exchanges, the token likely has no real utility."
 ---
 
-## The AI Token Landscape
+## The AI Token Space
 
 The "AI x Crypto" narrative exploded in 2023-2024, creating hundreds of tokens. Many are legitimate infrastructure projects. Many others are speculative tokens that slapped "AI" on their marketing without building anything meaningful.
 

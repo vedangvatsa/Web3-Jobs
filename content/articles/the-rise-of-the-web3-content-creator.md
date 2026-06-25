@@ -57,7 +57,7 @@ After establishing a reputation and audience, explore various monetization avenu
 - **Full-time roles:** Many content creators secure full-time positions in "Content Marketing" or "[Developer Relations](/what-is-a-web3-devrel-engineer)" at leading protocols.
 - **Direct monetization strategies:**
  - **Subscriptions:** Introduce a paid tier for your newsletter or podcast featuring exclusive content.
- - **NFTs:** Transform your articles or artwork into collectible NFTs. Platforms like Mirror facilitate this process.
+ - **NFTs:** Transform your articles or artwork into collectible NFTs. Platforms like Mirror enable this process.
  - **Grants:** DAOs and foundations often offer grants to independent researchers and creators contributing value to the ecosystem.
 
 Pursuing a career as a Web3 content creator requires self-motivation, discipline, and a passion for knowledge sharing. For those who embody these qualities, this path offers the chance to establish a personal brand, become a respected voice in a dynamic industry, and create a career on your terms.

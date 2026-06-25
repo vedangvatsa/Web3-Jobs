@@ -199,7 +199,7 @@ This improves user experience and security for mainstream users while maintainin
 - **Inheritance**: Without proper planning, heirs cannot access crypto. Options include: 
 - Secure sharing of seed phrases with estate lawyers. 
 - Multi-sig setups with family members. 
-- Services that facilitate inheritance. 
+- Services that enable inheritance. 
 - Dead man's switches that release keys after inactivity. 
 
 - **Jurisdiction**: In some countries, authorities can compel key disclosure. In others, you cannot be forced to provide keys you "don't remember."

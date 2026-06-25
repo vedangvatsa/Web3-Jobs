@@ -151,7 +151,7 @@ Treasury management has become a specialized discipline. Professional treasury m
 
 ## Career Opportunities in DAOs
 
-- **DAO Operations Manager**: Coordinates contributors, manages tools, facilitates governance processes. Requires organizational skills and Web3 knowledge.
+- **DAO Operations Manager**: Coordinates contributors, manages tools, enables governance processes. Requires organizational skills and Web3 knowledge.
 
 - **Governance Analyst**: Researches proposals, analyzes voting patterns, produces governance reports. Critical for informed decision-making.
 
@@ -161,7 +161,7 @@ Treasury management has become a specialized discipline. Professional treasury m
 
 - **Protocol Politician/Delegate**: Full-time delegates in major DAOs participate in governance professionally, compensated via grants or delegate rewards.
 
-- **Legal Counsel**: Navigates regulatory space, structures legal entities, advises on compliance. High demand as DAOs seek legal clarity.
+- **Legal Counsel**: works through regulatory space, structures legal entities, advises on compliance. High demand as DAOs seek legal clarity.
 
 - **Treasury Manager**: Manages DAO treasuries, executes investment strategies, coordinates with DeFi protocols. Finance background plus Web3 knowledge is beneficial.
 

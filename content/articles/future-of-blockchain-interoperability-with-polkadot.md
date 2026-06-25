@@ -29,7 +29,7 @@ Polkadot's architecture resembles a hub and spoke model.
 **1. The Relay Chain (The Hub)** 
 The Relay Chain serves as the core of the Polkadot network. It is a secure and minimalist blockchain.
 
-- **Function:** The Relay Chain primarily facilitates communication and provides security for the connected chains. It does not process transactions or host applications.
+- **Function:** The Relay Chain primarily enables communication and provides security for the connected chains. It does not process transactions or host applications.
 - **Shared Security:** Validators on the Relay Chain stake DOT (Polkadot's native [token](/what-is-a-token)) to secure the network. This security is shared among all connected blockchains.
 
 **2. Parachains (The Spokes)** 

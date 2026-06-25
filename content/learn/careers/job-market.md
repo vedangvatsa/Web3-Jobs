@@ -96,7 +96,7 @@ The difference is that demand still exceeds supply. Companies struggle to fill r
 </svg>
 </div>
 
-## The hiring landscape
+## The hiring space
 
 Most Web3 companies are small (5-50 people) and move fast. They value:
 

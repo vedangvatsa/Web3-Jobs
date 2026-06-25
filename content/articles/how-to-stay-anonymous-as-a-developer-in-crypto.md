@@ -33,7 +33,7 @@ Creating a distinct digital persona is critical for anonymity.
 
 Your [blockchain](/what-is-a-blockchain) transactions are publicly accessible, making it important to avoid linking your pseudonymous wallets to your real identity.
 
-- **Fresh Wallets:** Set up new [crypto wallets](/how-to-choose-a-crypto-wallet) (e.g., on MetaMask) dedicated to your pseudonymous endeavors.
+- **Fresh Wallets:** Set up new [crypto wallets](/how-to-choose-a-crypto-wallet) (e.g., on MetaMask) dedicated to your pseudonymous efforts.
 - **Anonymous Wallet Funding:** Funding your new wallet anonymously is challenging. Consider these methods:
  - **Avoid Centralized Exchanges:** Do not transfer crypto from accounts at centralized exchanges that associate with your real name. This creates a permanent link.
  - **Use Privacy Protocols (Mixers):** Employ a mixer (be aware of legal implications) to break the on-chain link. Withdraw crypto from an exchange to a "burner" wallet, send it through the mixer, then withdraw to your anonymous wallet.

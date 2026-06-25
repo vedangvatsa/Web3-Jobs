@@ -22,7 +22,7 @@ The foundational principle of branding in Web3 is "Show, Don't Tell." Every asse
 
 | Web2 Claim | Web3 Proof |
 |------------|------------|
-| I am a skilled project manager. | I successfully facilitated a contentious governance proposal in the Uniswap [DAO](/what-is-a-dao), leading to a consensus. [Link to the forum discussion]. |
+| I am a skilled project manager. | I successfully enabled a contentious governance proposal in the Uniswap [DAO](/what-is-a-dao), leading to a consensus. [Link to the forum discussion]. |
 | I am a proficient [Solidity](/best-programming-languages-for-blockchain-development) developer. | I wrote a gas-optimized [staking](/how-to-become-a-web3-staking-specialist) contract that was forked multiple times on [GitHub](/building-web3-portfolio) and holds a small amount of real value on a testnet. [Link to GitHub repo] [Link to Etherscan]. |
 
 This verifiable "proof of work" serves as the bedrock of your brand. It is authentic, credible, and impossible to fabricate. For insights on securing a [Web3 job](/web3-jobs-for-beginners) with no experience, refer to our guide.

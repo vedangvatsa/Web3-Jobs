@@ -23,12 +23,12 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 
 ### 2. Web3 Frontend Libraries (Ethers.js / Viem)
 
-**Importance:** A decentralized application (dApp) requires an effective user interface. Frontend developers in the Web3 space must connect their applications to the [blockchain](/what-is-a-blockchain) to facilitate data retrieval and enable user transactions.
+**Importance:** A decentralized application (dApp) requires an effective user interface. Frontend developers in the Web3 space must connect their applications to the [blockchain](/what-is-a-blockchain) to enable data retrieval and enable user transactions.
 
 **Key Learning Areas:**
 - **JavaScript/TypeScript & React/Next.js:** These are the primary technologies for contemporary web development.
 - **Ethers.js or Viem:** These libraries bridge the frontend with the blockchain, allowing interactions with smart contracts, balance retrieval, and wallet connections.
-- **[Wallet](/how-to-choose-a-crypto-wallet) Integration:** Learn to implement libraries such as RainbowKit or Web3Modal to facilitate wallet connections for users.
+- **[Wallet](/how-to-choose-a-crypto-wallet) Integration:** Learn to implement libraries such as RainbowKit or Web3Modal to enable wallet connections for users.
 
 ### 3. Understanding of Blockchain Fundamentals
 
@@ -84,7 +84,7 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 
 ### 8. Technical Writing & Communication
 
-**Importance:** Web3's complexity requires the ability to communicate intricate technical concepts clearly and effectively.
+**Importance:** Web3's complexity requires the ability to communicate complex technical concepts clearly and effectively.
 
 **Key Learning Areas:**
 - **Documentation Skills:** Develop the ability to create clear and concise documentation for developers and users.

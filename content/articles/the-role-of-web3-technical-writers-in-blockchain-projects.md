@@ -18,7 +18,7 @@ The need for proficient technical writers in Web3 is surging. As protocols grow 
 
 Technical writing holds significant weight in Web3 for several reasons:
 
-- **Facilitating Developer Adoption:** Developers must grasp how your APIs and [smart contracts](/what-are-smart-contracts) operate before they can build on your protocol. High-quality documentation serves as the primary means of attracting and retaining a strong developer community. Inadequate documentation can deter developers, preventing them from engaging with your platform.
+- **Enabling Developer Adoption:** Developers must grasp how your APIs and [smart contracts](/what-are-smart-contracts) operate before they can build on your protocol. High-quality documentation serves as the primary means of attracting and retaining a strong developer community. Inadequate documentation can deter developers, preventing them from engaging with your platform.
 
 - **Building User Trust and Safety:** Engaging with a [DeFi protocol](/what-is-defi) can intimidate users, where a single misstep could lead to financial loss. Well-structured guides, tutorials, and explanatory content are vital for instilling user confidence and ensuring they can manage the application securely.
 

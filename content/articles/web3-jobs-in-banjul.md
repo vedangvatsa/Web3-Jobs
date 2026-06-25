@@ -46,7 +46,7 @@ If you are ready to take part in a country with a clear digital vision, our [Web
 
 ## The Remittance Revolution: Banjul's Key Opportunity
 
-The Gambian diaspora sends substantial remittances home to support families. Traditional remittance services incur fees and can take several days. Blockchain solutions could reduce these costs significantly and facilitate transfers within minutes.
+The Gambian diaspora sends substantial remittances home to support families. Traditional remittance services incur fees and can take several days. Blockchain solutions could reduce these costs significantly and enable transfers within minutes.
 
 ### Why This Matters for Your Career
 
@@ -63,7 +63,7 @@ If you are interested in this sector, you can take the following steps:
 
 1. **Analyze the Existing Market:** Research current remittance providers (e.g., Western Union, MoneyGram, banks), their challenges, and pricing structures.
 2. **Technical Understanding:** Learn about stablecoins, bridges, and layer-2 solutions that minimize transaction costs.
-3. **Regulatory Landscape:** Familiarize yourself with The Gambia's stance on cryptocurrency and fintech regulations.
+3. **Regulatory Space:** Familiarize yourself with The Gambia's stance on cryptocurrency and fintech regulations.
 4. **MVP Creation:** Develop a proof-of-concept to showcase your solution. Even a simple mockup can draw attention.
 5. **Engage with Government:** Present your project to relevant fintech-focused government contacts once you have a prototype.
 

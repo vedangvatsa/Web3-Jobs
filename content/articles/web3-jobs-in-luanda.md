@@ -20,7 +20,7 @@ Luanda's Web3 environment is in its formative phase, driven by several influenti
 
 - **Financial and Energy Center:** Luanda's economy, rich in oil and diamonds, hosts numerous corporate and financial operations. This setting offers a potential market for enterprise blockchain solutions focusing on supply chain traceability, trade finance, and corporate treasury management.
 
-- **Emerging FinTech Market:** There is a notable surge in interest in FinTech as a tool for enhancing financial inclusion and simplify payment systems. The exploration of blockchain and stablecoins aims to reduce remittance costs and facilitate cross-border trade.
+- **Emerging FinTech Market:** There is a notable surge in interest in FinTech as a tool for enhancing financial inclusion and simplify payment systems. The exploration of blockchain and stablecoins aims to reduce remittance costs and enable cross-border trade.
 
 - **Young, Tech-Savvy Population:** Angola's youth demographic is highly connected and increasingly interested in technology. This grassroots enthusiasm for cryptocurrency and blockchain can cultivate a future generation of users and innovators.
 
@@ -49,7 +49,7 @@ The Web3 job market in Luanda is still limited, with opportunities primarily for
  - **Organize Meetups:** Initiate regular Web3 developer or enthusiast meetups in Luanda.
  - **Create Portuguese Content:** Launch a blog, YouTube channel, or Telegram group that explains Web3 topics in Portuguese, tailored to the Angolan audience. This will position you as a thought leader.
 
-2. **Focus on Relevant Use Cases:** Concentrate on developing solutions for Angola's key industries in your projects and learning endeavors. Build a [portfolio](/building-web3-portfolio) that highlights your ability to address real-world challenges in finance or logistics using blockchain.
+2. **Focus on Relevant Use Cases:** Concentrate on developing solutions for Angola's key industries in your projects and learning efforts. Build a [portfolio](/building-web3-portfolio) that highlights your ability to address real-world challenges in finance or logistics using blockchain.
 
 3. **Develop a Global Skillset:** The most lucrative positions will likely be remote. Cultivate high-level technical skills such as [Solidity](/best-programming-languages-for-blockchain-development) and Rust, along with strong written English communication abilities. A strong GitHub profile will enhance your visibility in the global job market.
 

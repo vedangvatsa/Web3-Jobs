@@ -20,7 +20,7 @@ Multiple factors contribute to the slow uptake, including a daunting user experi
 
 ## 1. The User Experience Chasm
 
-User experience (UX) stands out as the most significant barrier to mass adoption. For many non-technical users, entering the Web3 ecosystem resembles learning a foreign language while navigating a complex maze.
+User experience (UX) stands out as the most significant barrier to mass adoption. For many non-technical users, entering the Web3 ecosystem resembles learning a foreign language while working through a complex maze.
 
 ### Wallet and Seed Phrase Complexity
 

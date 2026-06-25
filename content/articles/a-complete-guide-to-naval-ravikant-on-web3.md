@@ -13,7 +13,7 @@ lastUpdated: "2026-06-15"
 
 Naval Ravikant stands out as an influential entrepreneur, investor, and philosopher within the technology sector and the Web3 ecosystem. He co-founded AngelList and invested early in successful companies such as Uber, Twitter, and Postmates. His thoughts on wealth, happiness, and technology attract millions of followers who seek to understand his insights.
 
-Ravikant approaches Web3 through first-principles thinking. He articulates that blockchains establish new forms of money that are decentralized and not state-controlled, as well as new markets that facilitate permissionless capital formation. He envisions a shift from traditional top-down organizations to decentralized networks where individuals collaborate via open protocols.
+Ravikant approaches Web3 through first-principles thinking. He articulates that blockchains establish new forms of money that are decentralized and not state-controlled, as well as new markets that enable permissionless capital formation. He envisions a shift from traditional top-down organizations to decentralized networks where individuals collaborate via open protocols.
 
 This article examines Ravikant's key concepts regarding Web3, emphasizing his views on blockchains as novel forms of money and markets, the significance of permissionless capital formation, and the quest for individual sovereignty.
 

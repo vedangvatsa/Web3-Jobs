@@ -55,7 +55,7 @@ Grasping the distinctions between sidechains and Layer 2s is critical for profes
 
 ### Step 1: Grasp Core Principles
 
-Develop a solid understanding of fundamental concepts. This foundational knowledge will support your subsequent endeavors in this field. Learn from industry leaders and their best practices.
+Develop a solid understanding of fundamental concepts. This foundational knowledge will support your subsequent efforts in this field. Learn from industry leaders and their best practices.
 
 ### Step 2: Evaluate Your Current Expertise
 

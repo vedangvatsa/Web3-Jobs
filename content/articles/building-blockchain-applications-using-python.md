@@ -16,13 +16,13 @@ For Python developers aiming to enter the Web3 space, your existing skills are n
 
 ### Advantages of Using Python in Web3
 
-- **Ease of Use and Rapid Prototyping**: Python’s straightforward syntax and extensive libraries facilitate quick development of backend services and scripts that communicate with the blockchain. This makes it an ideal choice for developers who need to iterate rapidly.
+- **Ease of Use and Rapid Prototyping**: Python’s straightforward syntax and extensive libraries enable quick development of backend services and scripts that communicate with the blockchain. This makes it an ideal choice for developers who need to iterate rapidly.
 
 - **Strong Data Science and Machine Learning Ecosystem**: Blockchains generate vast amounts of data. Python reigns in the data science field, supported by libraries such as Pandas, NumPy, and Scikit-learn. This capability makes it particularly suitable for **[on-chain data analysis](/on-chain-analyst-job)**, trend identification, and AI model construction based on blockchain data.
 
 - **Strong Testing Frameworks**: Many teams that develop [smart contracts](/what-are-smart-contracts) rely on Python for their testing suites. Tools like Brownie and Pytest provide frameworks for testing smart contract logic, ensuring that applications behave as expected before deployment.
 
-- **Active Community and Libraries**: The Python developer community in Web3 is active and rapidly growing. This has led to the creation of numerous open-source libraries that facilitate blockchain interactions.
+- **Active Community and Libraries**: The Python developer community in Web3 is active and rapidly growing. This has led to the creation of numerous open-source libraries that enable blockchain interactions.
 
 ### Key Python Library: `Web3.py`
 
