@@ -98,7 +98,3 @@ Engagement with the UX/UI community can significantly enhance your opportunities
 - **Twitter (X)**: The UX community thrives on this platform. Follow designers and participate in discussions.
 - **Behance & Dribbble**: Use these platforms for inspiration and to understand high-quality design work.
 - **Mentorship**: Seek a mentor who can provide feedback on your portfolio and guide you through the transition. Many experienced designers are willing to assist newcomers.
-
-## Importance of Networking
-
-Networking plays an important role in career advancement. Research indicates that a significant portion of job openings are not publicly advertised. Building relationships within the industry can provide access to hidden opportunities. 
