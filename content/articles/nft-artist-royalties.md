@@ -115,15 +115,3 @@ The debate over NFT royalties continues, reflecting the growing pains of the Web
 ## Importance of Understanding NFT Royalties
 
 Grasping the concept of NFT royalties is vital for professional success in the digital art and creator economy. Mastering this knowledge enhances your ability to earn and grow within the Web3 space. Professionals who understand this topic stand out, often achieving higher earnings and faster career advancement.
-
-### Step-by-Step Approach to Mastering NFT Royalties
-
-1. **Understand the Fundamentals:** Familiarize yourself with the core principles. This foundational knowledge will inform your future decisions and actions. Read best practices from industry leaders and experts to gain insights.
-
-2. **Evaluate Your Current Position:** Assess where you currently stand regarding artist royalties. Identify your strengths and weaknesses. Understanding your baseline will help you craft a more effective strategy.
-
-3. **Develop a Personalized Strategy:** Create a plan that aligns with your specific circumstances. Consider your role, team dynamics, and personal goals when formulating your approach.
-
-4. **Implement Gradually:** Avoid attempting to change everything simultaneously. Start with one small adjustment and build from there. Track the outcomes of these changes to identify what works best.
-
-5. **Measure and Adjust:** Regularly monitor your progress. Are you seeing the desired results? Adjust your approach based on feedback and outcomes. This commitment to continuous improvement is essential for long-term success.
