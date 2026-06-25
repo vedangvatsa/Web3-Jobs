@@ -154,8 +154,6 @@ This overview simplifies the process. A production-level AMM would include addit
 
 ### Importance of Understanding AMMs
 
-Mastering AMM concepts is vital for advancing in the DeFi space. Professionals who excel in this area often command higher salaries and faster career progression. This is especially true in [Web3](/what-is-web3) environments, where effective communication and teamwork are essential.
-
 ## Step-by-Step Development Guide
 
 ### 1. Grasp the Fundamentals

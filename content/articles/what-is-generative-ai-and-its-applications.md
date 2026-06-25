@@ -76,8 +76,6 @@ Generative AI could are important for developing the metaverse by creating the s
 
 ### Importance of Understanding Generative AI
 
-Grasping generative AI's implications can significantly impact your professional trajectory. Those who master these skills often stand out, command higher salaries, and accelerate their career progression. This is particularly true in [Web3](/what-is-web3) organizations, where effective communication and collaboration hold immense value.
-
 ### Steps to Master Generative AI
 
 **Step 1: Understand the Fundamentals** 

@@ -72,7 +72,6 @@ Most AR experiences currently rely on dedicated mobile applications. However, th
 
 ### Why Understanding AR Matters
 
-Grasping AR technology is essential for professional advancement. In a fast-paced work environment, individuals who master AR skills often stand out, earn higher salaries, and achieve quicker promotions. This is especially relevant in [Web3](/what-is-web3) organizations, where effective communication and collaboration are critical.
 
 ### Steps to Gain Proficiency in AR
 
