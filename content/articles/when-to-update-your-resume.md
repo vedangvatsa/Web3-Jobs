@@ -98,12 +98,6 @@ Monitor your progress. Are you achieving the desired results? Adjust your approa
 
 ### Real-World Examples
 
-| Name | Role | Initial Challenge | Outcome |
-|-------|-------------------------------------------|-------------------------------------|-----------------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with project management | Improved project delivery timelines significantly within three months |
-| Juan | Product Manager in [DeFi](/what-is-defi) | Faced challenges with cross-team collaboration | Enhanced team efficiency, resulting in faster product launches |
-| Maya | Transitioning from Web2 to Web3 | Needed to adapt to a new environment | Successfully onboarded into Web3, contributing to key projects within two months |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process**: Expecting overnight results can lead to frustration. Sustainable change requires time.

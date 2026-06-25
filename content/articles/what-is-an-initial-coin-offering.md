@@ -72,12 +72,6 @@ Regularly evaluate your progress. Are you achieving desired results? Modify your
 
 ### Real-World Examples
 
-| Name | Role | Initial Challenge | Outcome |
-|-------|-----------------------------|----------------------------------|--------------------------------------|
-| Sarah | Developer at a blockchain startup | Struggled with project deadlines | Achieved a significant reduction in time-to-market within 3 months by implementing agile practices. |
-| Juan | Product Manager in [DeFi](/what-is-defi) | Faced difficulties in user engagement | Increased user retention after applying customer feedback loops to product development. |
-| Maya | Transitioning from Web2 to Web3 | Needed to adapt to a new environment | Successfully integrated into a Web3 team, showcasing adaptability and securing a promotion within six months. |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process:** Sustainable change requires time. Avoid expecting immediate results.

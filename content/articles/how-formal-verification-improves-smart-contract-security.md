@@ -121,12 +121,6 @@ Track your progress and evaluate the effectiveness of your strategies. Are you a
 
 ### Real-World Examples
 
-| Name | Role | Challenge | Outcome |
-|--------|----------------------------|--------------------------------|--------------------------------------------|
-| Sarah | Developer at a blockchain startup | Struggled with smart contract vulnerabilities | Implemented formal verification, reducing bugs significantly within three months. |
-| Juan | Product Manager in DeFi | Faced difficulties in securing contracts | Adopted formal verification, resulting in a decrease in security incidents. |
-| Maya | Transitioning from Web2 to Web3 | Needed to quickly adapt to new technologies | Employed formal verification strategies to simplify code quality and enhance security. |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process:** Sustainable change requires time and patience. Expecting quick results can lead to frustration.

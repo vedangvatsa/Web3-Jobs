@@ -111,13 +111,6 @@ Track your progress. Are you achieving desired outcomes? Modify your strategy ba
 
 ### Real-World Examples
 
-| Name | Role | Achievement | Timeframe |
-|-------|------------------|----------------------------------------------|-----------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Improved application performance significantly | 3 months |
-| Juan | Product Manager in [DeFi](/what-is-defi) | Successfully launched a new feature, increasing user retention | 6 months |
-| Maya | Transitioning from Web2 to Web3 | Adapted to new technologies, resulting in increased productivity | 4 months |
-
-These examples illustrate the effectiveness of applying tailored strategies in various roles within the Web3 space.
 
 ### Common Mistakes to Avoid
 

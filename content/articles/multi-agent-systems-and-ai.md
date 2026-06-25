@@ -68,12 +68,6 @@ Regularly track your progress to evaluate the effectiveness of your strategies. 
 
 ### Real-World Examples
 
-| Name | Role | Initial Challenge | Strategy Implemented | Outcome |
-|-------|-----------------------|--------------------------------|--------------------------------------------------|----------------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with task delegation | Adopted a MAS approach for project management | Improved team efficiency significantly |
-| Juan | Product Manager in DeFi | Difficulty analyzing market data | Deployed specialized agents for market analysis | Increased trade accuracy significantly |
-| Maya | Transitioning to Web3 | Adapting to new environment | Employed collaborative tools and practices | Successfully onboarded within a short timeframe |
-
 1. **Sarah**: A developer at a blockchain startup, Sarah faced challenges in task delegation and project management. By implementing a multi-agent system approach, she simplified workflows and improved team efficiency significantly within a quarter.
 
 2. **Juan**: As a product manager in the DeFi space, Juan struggled with data analysis for trading strategies. By deploying specialized agents focused on different aspects of market analysis, he increased trade accuracy significantly, enhancing overall performance.

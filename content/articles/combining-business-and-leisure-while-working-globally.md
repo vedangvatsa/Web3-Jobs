@@ -85,12 +85,6 @@ Track your progress over time. Are you achieving your desired outcomes? Adjust y
 
 ### Real-World Examples
 
-| Name | Role | Challenge | Solution Implemented | Outcome |
-|-------|-----------------------|--------------------------------|---------------------------------------------|-------------------------------------------|
-| Sarah | Developer at a blockchain startup | Balancing work and travel | Established a dedicated workspace, adopted time-blocking | Improved productivity in a few months |
-| Juan | Product Manager in DeFi | Struggling with team communication | Mastered asynchronous updates, aligned work hours with team | Enhanced collaboration and project delivery speed |
-| Maya | Transitioning from Web2 to Web3 | Adapting to a new environment | Engaged in local networking, participated in community events | Quickly established rapport within her new role |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process:** Sustainable change requires time and patience. Expect gradual improvement rather than overnight results.

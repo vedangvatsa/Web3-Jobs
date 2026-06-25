@@ -100,12 +100,6 @@ Grasping the impact of AI on the job market is vital for professional success. I
 
 ### Real-World Examples
 
-| Name | Role | Challenge | Outcome |
-|--------|----------------------------|-----------------------------|-----------------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with coding efficiency | Implemented AI strategies and improved coding speed significantly within a few months. |
-| Juan | Product Manager in [DeFi](/what-is-defi) | Faced challenges in product development | Adopted AI tools, resulting in a faster time to market for new features.|
-| Maya | Transitioning from Web2 to Web3 | Needed to adapt to new technologies | Successfully used new skills to enhance team collaboration and productivity. |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process**: Sustainable change takes time. Avoid expecting immediate results.

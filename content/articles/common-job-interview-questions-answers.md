@@ -108,12 +108,6 @@ Track your progress. Are you achieving the desired results? Be prepared to adjus
 
 ### Real-World Examples
 
-| Name | Position | Challenge | Outcome |
-|-------|----------------|----------------------------------|--------------------------------------------|
-| Sarah | Developer | Struggled with project deadlines | Improved time management; met deadlines consistently after 3 months. |
-| Juan | Product Manager | Difficulty engaging users | Launched a new feature that increased user retention significantly within 6 months. |
-| Maya | Transitioning | Adapting to a new industry | Successfully led a project within 4 months, demonstrating adaptability. |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process**: Expecting immediate results is unrealistic. Sustainable change requires time.

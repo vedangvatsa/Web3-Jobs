@@ -103,12 +103,6 @@ Regularly assess your progress. Are you achieving the desired results? Modify yo
 
 ### Real-World Examples
 
-| Name | Background | Industry Transition | Outcome |
-|-------|-----------------------|-----------------------------|----------------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Transitioned to product management | Improved team collaboration within a few months, leading to enhanced project efficiency. |
-| Juan | Product manager in [DeFi](/what-is-defi) | Shifted to a marketing role | Successfully launched a new marketing campaign that increased user acquisition significantly. |
-| Maya | Digital marketer moving to Web3 | Entered blockchain project management | Rapidly adapted, leading a project that delivered features ahead of schedule within her first quarter. |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process:** Sustainable change takes time. Avoid expecting immediate results.

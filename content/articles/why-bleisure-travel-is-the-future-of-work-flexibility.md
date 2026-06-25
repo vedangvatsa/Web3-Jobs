@@ -85,12 +85,6 @@ Regularly track your progress. Are you achieving results? Adjust your methods ba
 
 ### Real-World Examples
 
-| Name | Role | Company | Outcome |
-|-------|--------------------|-----------------------------|-----------------------------------------------------------|
-| Sarah | Developer | Blockchain Startup | Improved productivity within 3 months. |
-| Juan | Product Manager | DeFi Platform | Achieved an increase in team engagement after implementing bleisure. |
-| Maya | Transitioning to Web3 | Web2 Tech Company | Adapted to Web3 culture in just 6 weeks by applying flexible work arrangements. |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process:** Expecting overnight results can lead to frustration. Sustainable change requires time.

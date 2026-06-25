@@ -127,12 +127,6 @@ Monitor your progress. Are you achieving desired results? Adjust your approach b
 
 ### Real-World Examples
 
-| Name | Role | Company | Challenge | Outcome |
-|------|------|---------|-----------|---------|
-| Sarah | Developer | Blockchain Startup | Struggled with team collaboration | Improved teamwork within 3 months by applying structured feedback loops |
-| Juan | Product Manager | DeFi | Difficulty in managing stakeholder expectations | Achieved alignment across teams by instituting regular check-ins, leading to enhanced project success |
-| Maya | Transitioning Professional | Web3 | Adapting to a new industry | Successfully integrated into Web3 culture by using mentorship and networking |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process:** Sustainable change takes time. Avoid expecting immediate results.
