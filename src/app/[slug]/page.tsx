@@ -501,12 +501,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
          </Suspense>
        </div>
       </article>
-      
-      <RelatedArticles
-       allArticles={allArticles}
-       currentCategory={article.category}
-       currentSlug={article.slug}
-      />
+            <Suspense fallback={null}>
+        <RelatedArticles
+         allArticles={allArticles}
+         currentCategory={article.category}
+         currentSlug={article.slug}
+        />
+       </Suspense>
     </div>
    </main>
   </div>
