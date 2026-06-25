@@ -80,29 +80,4 @@ Negotiating your salary or freelance rate follows similar principles.
 
 Pricing your services improves through practice. By conducting thorough research, recognizing your value, and negotiating confidently, you can secure fair compensation for your contributions as a professional in the tech industry.
 
-### Common Mistakes to Avoid
-
-1. **Rushing the Process:** Expecting overnight results can lead to frustration. Sustainable change takes time.
-2. **Ignoring Feedback:** Colleagues and mentors may provide insights you overlook. Listen actively to their input.
-3. **One-Size-Fits-All Approach:** Strategies that succeed for others may not be suitable for you. Tailor approaches to fit your context.
-4. **Giving Up Too Soon:** Change can be uncomfortable. Persist through initial discomfort to achieve improved outcomes.
-5. **Not Tracking Progress:** You cannot improve what you do not measure. Keep metrics related to your progress.
-
 ### Real-World Examples
-
-### FAQ
-
-**Q: How long will this take to implement?** 
-A: Initial results typically appear within a few weeks of consistent application. Significant improvements are often visible within a few months. Your timeline may vary based on your starting point, daily practice commitment, and whether you actively seek feedback.
-
-**Q: What if my workplace environment doesn't support this?** 
-A: Start with small, self-contained actions that don't require organizational buy-in. Focus on individual habits, personal projects, or conversations with like-minded colleagues. Document your progress to demonstrate results. If the environment remains unhelpful after sustained effort, it may be time to seek an organization that invests in its people.
-
-**Q: How does this apply specifically to Web3?** 
-A: Web3 organizations feature flatter structures, granting direct access to decision-makers while increasing self-direction responsibility. Remote and globally distributed teams place greater emphasis on written communication and asynchronous collaboration. Rapid product cycles demand adaptability.
-
-**Q: Can I implement this alongside my current role?** 
-A: Yes, and this approach is advisable for most professionals. Focus on two or three practices applicable to your daily work rather than overhauling everything. Small, deliberate improvements yield better results over time compared to sporadic large efforts.
-
-**Q: What resources can help me go deeper?** 
-A: Exploring related articles can provide targeted insights. finding a mentor or peer group excelling in this area can enhance your learning. Consider engaging with Web3 communities on platforms like Discord and Telegram for practical insights. Structured accountability with someone who checks in can also significantly accelerate your progress.

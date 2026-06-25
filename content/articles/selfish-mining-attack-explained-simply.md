@@ -121,11 +121,3 @@ Implement your strategy incrementally. Start with small changes and build from t
 Continuously track your progress in mitigating selfish mining risks. Use metrics to assess performance and adapt your strategy based on feedback.
 
 ### Real-World Examples
-
-### Common Mistakes to Avoid
-
-1. **Rushing the Process**: Expecting immediate results can lead to disappointment. Sustainable change requires time.
-2. **Ignoring Feedback**: Colleagues and mentors can offer valuable insights. Pay attention to their perspectives.
-3. **One-Size-Fits-All Approach**: Strategies must be adaptable to your unique circumstances. Customize your methods accordingly.
-4. **Giving Up Too Soon**: Persistence is key. Overcome the initial discomfort to achieve better outcomes.
-5. **Not Tracking Progress**: Establish metrics to measure improvements. You can only enhance what you monitor.

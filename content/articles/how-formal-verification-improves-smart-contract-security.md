@@ -116,32 +116,3 @@ Avoid overwhelming yourself with drastic changes. Start with manageable adjustme
 Track your progress and evaluate the effectiveness of your strategies. Are you achieving desired results? Modify your approach based on feedback and outcomes. Embrace a mindset of continuous improvement.
 
 ### Real-World Examples
-
-### Common Mistakes to Avoid
-
-1. **Rushing the Process:** Sustainable change requires time and patience. Expecting quick results can lead to frustration.
-
-2. **Ignoring Feedback:** Input from colleagues, managers, and mentors can provide valuable insights. Actively seek and incorporate their feedback.
-
-3. **One-Size-Fits-All Approach:** Tailor strategies to your unique context. What works for others may not suit your situation.
-
-4. **Giving Up Too Soon:** Initial discomfort is a part of the learning process. Persist through challenges to achieve better outcomes.
-
-5. **Not Tracking Progress:** Establish metrics to measure your development. Without tracking, improvement becomes difficult to assess.
-
-### FAQ
-
-**How long will it take to implement formal verification?** 
-Most individuals observe initial results within a few weeks of consistent application, with more significant improvements apparent within a few months. The timeline varies based on your starting point, daily practice, and active feedback-seeking. Professionals who track their progress typically progress faster.
-
-**What if my workplace doesn't support this?** 
-Even in challenging environments, you often have more agency than you realize. Start with small, self-contained initiatives that do not require organizational approval. Gradually build momentum and document outcomes to showcase value. If, after sustained effort, the environment hinders growth, it may be time to consider a more supportive workplace.
-
-**How does this apply specifically to Web3?** 
-Web3 organizations differ structurally from traditional companies, amplifying the importance of formal verification skills. With flatter hierarchies, you have more access to decision-makers and greater responsibility for self-direction. The predominantly remote and globally distributed nature of teams makes effective communication and asynchronous collaboration important. product cycles in Web3 are often quicker than in traditional enterprise environments.
-
-**Can I implement formal verification alongside my current role?** 
-Yes. Focus on intentional application of formal verification principles within your existing work hours. Identify two or three practices that align with your daily tasks and apply them consistently. Small, deliberate improvements yield greater long-term benefits than sporadic large changes.
-
-**What resources can help me go deeper?** 
-In-depth articles and case studies on formal verification are available for targeted reading. The most impactful approach is to connect with a mentor or peer group engaged in formal verification. Observing their practices can deepen your understanding. Engage with Web3 communities on platforms like Discord or Telegram to find practitioners willing to share their experiences. Structured accountability, such as committing to timelines with a peer, can also enable meaningful progress.
