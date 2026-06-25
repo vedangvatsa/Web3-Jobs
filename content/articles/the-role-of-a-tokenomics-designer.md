@@ -48,25 +48,3 @@ This highly specialized role demands a unique T-shaped skill set.
 3. **Create Financial Models:** Design a financial model for a hypothetical protocol. Clearly state your assumptions and publish your work. This acts as your [portfolio](/building-web3-portfolio).
 
 The role of a tokenomics designer presents both challenges and opportunities. It offers a chance to shape new digital economies and the incentives that will govern the future of the internet.
-
-### Step-by-Step Implementation Guide
-
-#### Step 1: Grasp Core Principles
-
-Understanding the foundational concepts is essential. Familiarize yourself with best practices from industry leaders and experts.
-
-#### Step 2: Evaluate Your Current Skills
-
-Assess your current expertise. Identify strengths and weaknesses. Recognizing your baseline is important for improvement.
-
-#### Step 3: Tailor Your Strategy
-
-Develop a personalized plan based on your situation. Consider your role, team dynamics, organizational culture, and individual goals.
-
-#### Step 4: Implement Gradually
-
-Avoid overwhelming changes. Start with incremental adjustments and build from there. Monitor what works and what does not. This iterative method builds sustainable growth.
-
-#### Step 5: Measure and Adapt
-
-Regularly review your progress. Are you achieving your intended outcomes? Adjust your approach based on feedback and results. A mindset focused on continuous improvement is essential for success.
