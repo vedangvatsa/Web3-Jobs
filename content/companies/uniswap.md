@@ -7,7 +7,7 @@ headquarters: New York, New York, USA
 description: Largest decentralized exchange by trading volume
 ---
 
-Uniswap is the largest decentralized exchange (DEX) protocol, enabling permissionless token swaps using automated market maker (AMM) technology. Created by Hayden Adams, the protocol has facilitated over $2 trillion in cumulative trading volume.
+Uniswap is the largest decentralized exchange (DEX) protocol, enabling permissionless token swaps using automated market maker (AMM) technology. Created by Hayden Adams, the protocol has enabled over $2 trillion in cumulative trading volume.
 
 ## Products and Services
 

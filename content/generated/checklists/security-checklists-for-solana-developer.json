@@ -8,7 +8,7 @@
   },
   "seo": {
     "title": "Security Checklist for Solana Developers",
-    "description": "A comprehensive checklist covering account validation, PDA security, CPI safety, and Solana program security best practices.",
+    "description": "A detailed checklist covering account validation, PDA security, CPI safety, and Solana program security best practices.",
     "keywords": [
       "solana-developer",
       "security",
@@ -384,9 +384,9 @@
         "heading": "Testing",
         "items": [
           {
-            "text": "Write comprehensive unit tests with Bankrun",
+            "text": "Write detailed unit tests with Bankrun",
             "priority": "critical",
-            "title": "Write comprehensive unit tests with Bankrun"
+            "title": "Write detailed unit tests with Bankrun"
           },
           {
             "text": "Test on devnet with realistic conditions",

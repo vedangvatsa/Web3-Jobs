@@ -23,7 +23,7 @@
     "canonicalSlug": "code-review-checklists-for-defi-developer"
   },
   "content": {
-    "intro": "A comprehensive code review checklist specifically for DeFi protocols. Use this when reviewing PRs for lending protocols, DEXs, yield aggregators, and other financial smart contracts.",
+    "intro": "A detailed code review checklist specifically for DeFi protocols. Use this when reviewing PRs for lending protocols, DEXs, yield aggregators, and other financial smart contracts.",
     "sections": [
       {
         "heading": "Financial Logic Review",
@@ -355,7 +355,7 @@
         "items": [
           {
             "title": "Check test coverage for changes",
-            "description": "New code should have comprehensive tests including edge cases.",
+            "description": "New code should have detailed tests including edge cases.",
             "priority": "critical",
             "category": "Testing"
           },

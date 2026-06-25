@@ -1,6 +1,6 @@
 ---
 
-title: "How to Effectively Navigate Web3 Job Boards"
+title: "How to Effectively Work through Web3 Job Boards"
 description: "A strategic guide to using Web3 job boards. Learn how to filter out the noise, identify high-quality opportunities, and prepare as a top candidate."
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 category: "Career Guides"

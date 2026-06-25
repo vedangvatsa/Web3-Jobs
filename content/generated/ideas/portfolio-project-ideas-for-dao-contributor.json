@@ -193,7 +193,7 @@
           },
           {
             "title": "Meeting Facilitation",
-            "description": "Facilitate DAO meetings. Document agendas, outcomes, and action items.",
+            "description": "Enable DAO meetings. Document agendas, outcomes, and action items.",
             "difficulty": "beginner",
             "skills": [
               "Facilitation",
@@ -304,7 +304,7 @@
           },
           {
             "title": "DAO Wiki Creation",
-            "description": "Build comprehensive wiki documentation for the DAO ecosystem.",
+            "description": "Build detailed wiki documentation for the DAO ecosystem.",
             "difficulty": "intermediate",
             "skills": [
               "Documentation",

@@ -471,7 +471,7 @@
       }
     ],
     "proTips": [
-      "Always write comprehensive tests using Foundry's fuzzing capabilities - this demonstrates security awareness that employers value highly.",
+      "Always write detailed tests using Foundry's fuzzing capabilities - this demonstrates security awareness that employers value highly.",
       "Document your code with NatSpec comments and create a detailed README explaining architecture decisions and trade-offs.",
       "Deploy your projects to testnets (Sepolia, Goerli) and include verified contract links in your portfolio.",
       "Add a 'Security Considerations' section to each project highlighting potential attack vectors you've mitigated.",

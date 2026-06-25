@@ -300,7 +300,7 @@
         "description": "Prepare launch communications.",
         "items": [
           {
-            "title": "Publish comprehensive docs",
+            "title": "Publish detailed docs",
             "description": "Protocol mechanics, risks, and user guides.",
             "priority": "critical",
             "category": "Documentation"

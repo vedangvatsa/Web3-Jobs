@@ -1,6 +1,6 @@
 ---
 
-title: "A Guide to Navigating Difficult Conversations at Work"
+title: "A Guide to Working through Difficult Conversations at Work"
 category: "Career Guides"
 date: "2025-09-12"
 description: "From giving critical feedback to addressing conflict, difficult conversations are unavoidable. This guide provides a framework for handling them with."

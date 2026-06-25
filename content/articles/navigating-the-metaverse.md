@@ -1,8 +1,8 @@
 ---
 
-title: "Navigating the Metaverse: A Guide to Virtual Worlds and Economies"
+title: "Working through the Metaverse: A Guide to Virtual Worlds and Economies"
 image: "https://images.unsplash.com/photo-1653565685070-660c4cf6c68b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZXRhdmVyc2V8ZW58MHx8fHwxNzU0OTU1NjkxfDA&lib=rb-4.1.0&q=80&w=1080"
-description: "What is the 'metaverse'? This guide demystifies the hype, exploring the core concepts of persistent virtual worlds, digital identity, and the player-owned."
+description: "What is the 'metaverse'? This guide explains the hype, exploring the core concepts of persistent virtual worlds, digital identity, and the player-owned."
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"

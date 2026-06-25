@@ -463,7 +463,7 @@
           },
           {
             "title": "ENS Profile Manager",
-            "description": "Build a comprehensive ENS management interface with records, subdomains, and avatar handling.",
+            "description": "Build a detailed ENS management interface with records, subdomains, and avatar handling.",
             "difficulty": "intermediate",
             "timeEstimate": "3-4 weeks",
             "skills": [
@@ -553,7 +553,7 @@
         "tip": "Always handle loading, error, and empty states explicitly. Web3 has many failure modes users need to understand."
       },
       {
-        "tip": "Test with real wallets on testnets, not just mocks. MetaMask behaves differently than your test harness."
+        "tip": "Test with real wallets on testnets, not just mocks. MetaMask behaves differently than your test use."
       },
       {
         "tip": "Build mobile-responsive dApps. Many users access Web3 apps through mobile wallet browsers."

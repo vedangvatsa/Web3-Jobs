@@ -11,7 +11,7 @@ quiz:
       - "A polished landing page for a fake crypto project."
       - "A deployed, functional project on a testnet or mainnet that demonstrates real on-chain interaction."
       - "A collection of course certificates."
-      - "A comprehensive research paper about blockchain."
+      - "A detailed research paper about blockchain."
     correct: 1
     explanation: "Hiring managers in Web3 want to see that you can ship working code that interacts with actual blockchains. Deployed testnet projects with live demos are far more compelling than certificates or mockups."
   - question: "What is the fastest way to build credibility in Web3 without prior crypto experience?"

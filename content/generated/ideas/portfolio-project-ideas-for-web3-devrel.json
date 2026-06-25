@@ -49,7 +49,7 @@
           },
           {
             "title": "API Reference Documentation",
-            "description": "Write comprehensive API reference docs with examples.",
+            "description": "Write detailed API reference docs with examples.",
             "difficulty": "intermediate",
             "skills": [
               "API documentation",
@@ -358,7 +358,7 @@
           },
           {
             "title": "Open Source Contribution Guide",
-            "description": "Write comprehensive contribution guidelines for open source projects.",
+            "description": "Write detailed contribution guidelines for open source projects.",
             "difficulty": "beginner",
             "skills": [
               "Open source",
