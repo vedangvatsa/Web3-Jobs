@@ -103,15 +103,3 @@ Mastering salary negotiation is vital for career advancement. Professionals who 
 - **Juan**, a product manager in the DeFi space, faced challenges when discussing salary. By using his market research and competing offers, he increased his compensation, demonstrating the effectiveness of a strategic approach.
 
 - **Maya**, who transitioned from Web2 to Web3, used these negotiation techniques to secure a competitive salary despite her lack of direct experience. Her success highlights the applicability of these strategies across different backgrounds.
-
-### Common Mistakes to Avoid
-
-1. **Rushing the Process**: Avoid expecting immediate results. Salary negotiation skills take time to develop, requiring practice and refinement.
-
-2. **Ignoring Feedback**: Seek input from mentors, colleagues, and peers. Their perspectives can provide valuable insights that enhance your negotiation strategy.
-
-3. **One-Size-Fits-All Approach**: Customize your negotiation tactics to fit your unique situation. What works for others may not be suitable for you.
-
-4. **Giving Up Too Soon**: Negotiation can be uncomfortable. Persist through initial discomfort to achieve better outcomes.
-
-5. **Neglecting to Track Progress**: Keep records of your negotiation attempts and outcomes. Metrics help you refine your approach and improve your skills over time.

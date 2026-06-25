@@ -81,28 +81,3 @@ Avoid trying to change everything at once. Start with one small change and build
 Monitor your progress closely. Are you seeing the desired results? Adjust your approach based on feedback and outcomes. Accept a continuous improvement mindset.
 
 ### Real-World Examples
-
-### Common Mistakes to Avoid
-
-1. **Rushing the Process**: Expecting immediate results can lead to frustration. Sustainable change takes time and effort.
-2. **Ignoring Feedback**: Colleagues and mentors can provide insights you may overlook. Actively seek their input.
-3. **One-Size-Fits-All Approach**: Tailor your strategies to fit your unique situation. What works for one person may not work for you.
-4. **Giving Up Too Soon**: Initial discomfort is part of the process. Push through challenges to achieve better outcomes.
-5. **Not Tracking Progress**: Without measuring your progress, it's difficult to identify areas for improvement. Use metrics to gauge your development.
-
-### FAQ
-
-**How long will this take to implement?** 
-Most professionals see initial results within a few weeks of consistent application. Significant improvements often manifest within a couple of months, depending on your starting point and your commitment to practice. Actively seeking feedback can accelerate this process.
-
-**What if my workplace environment doesn't support this?** 
-You typically have more agency than it seems. Start with small, self-contained actions that don't require organizational buy-in. Document your progress, and gradually build momentum.
-
-**How does this apply specifically to Web3?** 
-Web3 organizations often have flatter hierarchies, providing direct access to decision-makers. This structure requires self-direction and strong communication skills. Teams are frequently remote, emphasizing the importance of written communication and asynchronous collaboration.
-
-**Can I implement this alongside my current role?** 
-Yes, and this is the recommended approach. Focus on applying two or three practices that integrate into your daily tasks. Small, consistent improvements yield better results than sporadic large efforts.
-
-**What resources can help me go deeper?** 
-Seek out articles that look into specific aspects of building credibility. Finding a mentor or joining a peer group can also provide insights not found in written resources. Engaging with communities in platforms like Discord or Telegram can offer additional support.
