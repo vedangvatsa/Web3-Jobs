@@ -122,12 +122,6 @@ Continuously track your progress in mitigating selfish mining risks. Use metrics
 
 ### Real-World Examples
 
-| Name | Role | Improvement Achieved | Metrics Used |
-|----------------|-----------------------|-----------------------------------------------------------|-----------------------|
-| Sarah | Developer | Improved block validation time by implementing efficient algorithms. | Block validation time decreased significantly. |
-| Juan | Product Manager | Enhanced team collaboration leading to faster project delivery. | Project delivery time reduced significantly. |
-| Maya | Transitioning to Web3 | Adapted quickly to Web3 protocols and practices. | Successfully completed two Web3 projects within three months. |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process**: Expecting immediate results can lead to disappointment. Sustainable change requires time.

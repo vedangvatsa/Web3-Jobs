@@ -92,12 +92,6 @@ Regularly assess your development. Are you achieving your goals? Modify your app
 
 ### Real-World Examples
 
-| Name | Role | Initial Challenge | Outcome |
-|-----------|-----------------------------|---------------------------------------|--------------------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Difficulty with coding efficiency | Improved code quality within a few months |
-| Juan | Product Manager in [DeFi](/what-is-defi) | Struggled with project deadlines | Met all deadlines consistently after a couple of months |
-| Maya | Transitioning from Web2 to Web3 | Adapting to a new work environment | Successfully integrated into Web3 culture |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Learning Process**: Expecting immediate results can lead to frustration. Sustainable change requires time.

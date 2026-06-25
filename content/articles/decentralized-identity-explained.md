@@ -74,11 +74,6 @@ Grasping the concept of Decentralized Identity is vital for career advancement. 
 
 The practical implications of Decentralized Identity can be illustrated through real-world examples:
 
-| Name | Role | Challenge | Outcome |
-|-------|-----------------------|--------------------------------------------------|-------------------------------------------|
-| Sarah | Developer | Needed to manage multiple identities securely | Improved security and efficiency in 3 months |
-| Juan | Product Manager | Faced challenges in proving identity verification | Simplified processes and increased trust |
-| Maya | Transitioning from Web2| Adapting to new Web3 roles | Successfully integrated into a Web3 team |
 
 ### Common Pitfalls to Avoid
 

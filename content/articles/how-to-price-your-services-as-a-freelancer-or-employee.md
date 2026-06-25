@@ -90,12 +90,6 @@ Pricing your services improves through practice. By conducting thorough research
 
 ### Real-World Examples
 
-| Name | Role | Industry | Outcome |
-|-------|--------------------------|--------------|---------------------------------------------|
-| Sarah | Developer | Blockchain | Implemented pricing strategies, increased project efficiency. |
-| Juan | Product Manager | DeFi | Restructured pricing model, improved client retention. |
-| Maya | Transitioning from Web2 | Web3 | Adapted pricing to fit new market standards, increased income. |
-
 ### FAQ
 
 **Q: How long will this take to implement?** 

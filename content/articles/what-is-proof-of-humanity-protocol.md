@@ -74,12 +74,6 @@ Monitor your progress consistently. Are you observing positive results? Be prepa
 
 ### Real-World Examples
 
-| Name | Role | Challenge Faced | Outcome Achieved |
-|-------|-------------------------------|----------------------------------------------|-----------------------------------------------|
-| Sarah | Developer at a blockchain startup | Struggled with identity verification processes | Implemented PoH strategies, resulting in a significant reduction in duplicate accounts within three months. |
-| Juan | Product Manager in [DeFi](/what-is-defi) | Faced difficulty in ensuring fair governance | Adopted PoH for governance, leading to a successful implementation of "one person, one vote," enhancing engagement significantly. |
-| Maya | Transitioning from Web2 to Web3 | Difficulty adapting to decentralized identity frameworks | Used PoH processes, successfully integrating within her new role, and contributing to improved project outcomes. |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing Implementation**: Expecting immediate results can lead to frustration. Sustainable change requires time and patience.

@@ -101,12 +101,6 @@ Track your progress. Are you achieving the desired results? Modify your strategy
 
 ### Real-World Examples
 
-| Name | Role | Challenge | Outcome |
-|-------|-------------------------------|--------------------------------------|---------------------------------------------|
-| Sarah | Developer at a blockchain startup | Struggled with documentation clarity | Improved documentation clarity within a few months through structured writing practices. |
-| Juan | Product manager in [DeFi](/what-is-defi) | Faced challenges in internal communication | Enhanced team collaboration and documentation practices, leading to increased efficiency. |
-| Maya | Transitioning from Web2 to Web3 | Needed to adapt to new technology | Successfully managed the transition by applying best practices in technical writing. |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process:** Sustainable improvement takes time and cannot be achieved overnight.

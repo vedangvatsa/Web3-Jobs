@@ -94,12 +94,6 @@ Regularly monitor your progress. Are you achieving your goals? Adjust your strat
 
 ### Real-World Examples
 
-| Name | Background | Outcome | Timeframe |
-|--------|---------------------------|---------------------------------------------|--------------------|
-| Sarah | Developer at a blockchain startup | Increased client inquiries significantly | 3 months |
-| Juan | Product manager in DeFi | Secured two new clients and increased revenue | 6 weeks |
-| Maya | Transitioning from Web2 to Web3 | Built a solid client base within her first month | 1 month |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Process:** Expecting immediate results can lead to frustration. Sustainable growth takes time.

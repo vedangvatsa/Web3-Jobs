@@ -180,12 +180,6 @@ Regularly assess your results. Are you achieving your goals? Be prepared to adju
 
 ## Real-World Case Studies
 
-| Name | Role | Outcome |
-|--------|--------------------------|-----------------------------------------|
-| Sarah | Developer at a startup | Enhanced efficiency in code deployment. Within three months, she reduced deployment times significantly. |
-| Juan | Product Manager in DeFi | Improved product delivery speed. By adopting a structured framework, he cut time-to-market for new features significantly. |
-| Maya | Transitioning from Web2 | Successfully adapted to Web3. By applying these strategies, she secured a role at a leading blockchain firm within two months. |
-
 ### Common Mistakes to Avoid
 
 1. **Rushing the Development Process**: Sustainable change requires time. Patience is important.
