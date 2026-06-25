@@ -44,8 +44,6 @@ Decentralized Compute is important for the "DePIN" (Decentralized Physical Infra
 
 ### Importance of Decentralized Compute
 
-Grasping decentralized compute is vital for professionals in tech and related fields. Mastery of this domain can lead to higher salaries and faster career advancement. Understanding decentralized compute is essential in Web3 organizations, where collaboration and communication are key.
-
 ### Steps to Engage with Decentralized Compute
 
 #### Step 1: Understand the Fundamentals
