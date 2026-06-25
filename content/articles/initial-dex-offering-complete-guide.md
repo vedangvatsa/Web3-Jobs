@@ -43,25 +43,3 @@ While projects can conduct IDOs independently, many use a **[crypto launchpad](/
 - **Scams**: The permissionless nature of DEXs allows scammers to create fraudulent tokens and execute rug pulls. Investors must conduct thorough research.
 
 The IDO model has emerged as a leading method for token launches in Web3. It offers a transparent and accessible fundraising mechanism that resonates with the decentralized ethos of the sector. However, it carries substantial risks, necessitating a cautious approach and diligent research from investors.
-
-### Step-by-Step Implementation Guide for IDOs
-
-#### Step 1: Grasp the Fundamentals
-
-Start by understanding the fundamental principles of IDOs. Familiarize yourself with industry best practices by studying insights from established leaders.
-
-#### Step 2: Evaluate Your Current Position
-
-Assess your current understanding and capabilities. Identify strengths and weaknesses, as well as specific challenges you face. Knowing your starting point is important for growth.
-
-#### Step 3: Craft Your Personal Strategy
-
-Develop a tailored plan based on your unique situation. Consider your role, team dynamics, organizational culture, and personal aspirations when formulating your approach.
-
-#### Step 4: Implement Incrementally
-
-Avoid attempting to change everything simultaneously. Initiate one small change and build upon it. Monitor which strategies yield positive results to support sustainable improvement.
-
-#### Step 5: Measure Progress and Adapt
-
-Regularly assess your progress. Are you achieving the desired outcomes? Modify your methods based on feedback and results. Accept a mindset of continuous improvement.

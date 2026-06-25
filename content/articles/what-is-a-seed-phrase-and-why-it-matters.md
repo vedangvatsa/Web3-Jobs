@@ -45,25 +45,3 @@ The seed phrase embodies self-custody in Web3. While it grants you control over 
 ### Understanding the Relevance
 
 Grasping the significance of the seed phrase is essential for professional growth in the crypto domain. Professionals who comprehend and effectively manage their digital assets often find themselves advancing in their careers, earning higher salaries, and enjoying greater opportunities, particularly within Web3 organizations where collaboration and clear communication are vital.
-
-### Steps to Secure Your Seed Phrase
-
-#### Step 1: Grasp the Fundamentals
-
-Begin by understanding the underlying principles of seed phrases and their importance. Familiarize yourself with best practices shared by industry leaders and experts. This foundational knowledge will guide your actions in the field.
-
-#### Step 2: Evaluate Your Current Security Practices
-
-Assess your present situation concerning seed phrase management. Identify strengths and weaknesses in your approach. What specific challenges do you face in safeguarding your seed phrase? Establishing a baseline is critical for improvement.
-
-#### Step 3: Develop a Custom Strategy
-
-Create a tailored plan for managing your seed phrase. Recognize that each individual’s circumstances differ. Your strategy should consider your role, team dynamics, organizational culture, and personal objectives.
-
-#### Step 4: Implement Changes Gradually
-
-Avoid attempting to overhaul your entire approach at once. Start with one small adjustment and expand from there. Keep track of what works and what does not. An iterative method builds sustainable improvement.
-
-#### Step 5: Measure and Adapt
-
-Continuously monitor your progress in managing your seed phrase. Are you achieving desired results? Modify your approach based on feedback and outcomes. Embracing a mindset of continuous improvement is vital.
