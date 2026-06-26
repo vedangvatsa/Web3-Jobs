@@ -1,5 +1,85 @@
 [
   {
+    "id": "8029041",
+    "title": "Head of Sales, Stripe Billing - APAC",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8029041",
+    "date": "2026-06-26T00:04:13-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4905494101",
+    "title": "Principal AI Agent Development Engineer/Architect",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4905494101",
+    "date": "2026-06-25T23:11:25-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "0ed80a29-6cca-42d7-b7e0-066d4fa7b37f",
+    "title": "Staff Software Engineer | iOS",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/0ed80a29-6cca-42d7-b7e0-066d4fa7b37f",
+    "date": "2026-06-26T01:57:53.065+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "8029711",
+    "title": "Staff Software Engineer, Core Reliability",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8029711?gh_jid=8029711",
+    "date": "2026-06-25T20:14:19-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "7738118003",
+    "title": "Partner 22, GTM Executive Talent",
+    "company": "a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7738118003",
+    "date": "2026-06-25T20:10:56-04:00",
+    "source": "Greenhouse: a16z"
+  },
+  {
+    "id": "8024880",
+    "title": "Analytics Engineer, GFCO Analytics",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
+    "date": "2026-06-25T19:35:31-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8dec8a77-dafa-448a-a31c-4bf09e9d4f0d",
+    "title": "Technical Account Manager, Europe",
+    "company": "Socket",
+    "link": "https://jobs.ashbyhq.com/Socket/8dec8a77-dafa-448a-a31c-4bf09e9d4f0d",
+    "date": "2026-06-25T22:02:37.555+00:00",
+    "source": "Ashby: Socket"
+  },
+  {
+    "id": "8020278",
+    "title": "Corporate Counsel",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8020278?gh_jid=8020278",
+    "date": "2026-06-25T17:05:56-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "8029378",
+    "title": "Workplace Operations Coordinator - London",
+    "company": "Brave",
+    "link": "https://job-boards.greenhouse.io/brave/jobs/8029378",
+    "date": "2026-06-25T16:28:14-04:00",
+    "source": "Greenhouse: Brave"
+  },
+  {
+    "id": "8021855",
+    "title": "Senior Operations Excellence Manager",
+    "company": "Guild",
+    "link": "https://www.guild.com/open-positions-at-guild?gh_jid=8021855",
+    "date": "2026-06-25T16:21:45-04:00",
+    "source": "Greenhouse: Guild"
+  },
+  {
     "id": "29b679a8-9990-48c1-b91e-001c566ced27",
     "title": "Solutions Consultant | Enterprise",
     "company": "Ramp",
@@ -168,6 +248,22 @@
     "source": "https://jobs.blockchaincapital.com/jobs"
   },
   {
+    "id": "84113921",
+    "title": "Reconciliation Senior Associate",
+    "company": "Durianpay",
+    "link": "https://dealls.com/en/loker/reconciliation-senior-associate~durianpay-1",
+    "date": "2026-06-25T14:07:44.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "84112178",
+    "title": "Growth Hacker, Undisclosed Projects",
+    "company": "Dapper Labs",
+    "link": "https://careers.kula.ai/dapperlabs/49932/?jobs=true",
+    "date": "2026-06-25T13:58:11.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "27303bfb-946f-4aea-8f2b-20ca6141d954",
     "title": "Product Specialist - NYC",
     "company": "Sequence",
@@ -232,12 +328,28 @@
     "source": "Greenhouse: Galaxy Digital"
   },
   {
+    "id": "48432e94-a2c4-4dfc-822c-705bc53d6150",
+    "title": "Binance Accelerator Program - Enterprise Wide Risk Assessment",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/48432e94-a2c4-4dfc-822c-705bc53d6150",
+    "date": "2026-06-25T13:21:37.815Z",
+    "source": "Lever: Binance"
+  },
+  {
     "id": "84095092",
     "title": "Technical Compliance Analyst",
     "company": "Sphere",
     "link": "https://jobs.lever.co/sphere-laboratories/e533084c-092f-4272-a2e9-dc8090b1850d",
     "date": "2026-06-25T12:53:35.000Z",
     "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "84088013",
+    "title": "Third Party Account Manager",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8586808002",
+    "date": "2026-06-25T12:31:37.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "84080144",
@@ -262,6 +374,22 @@
     "link": "https://jobs.ashbyhq.com/Lido.fi/d0bddacb-1b93-47ec-bc6f-bac0d34749e8",
     "date": "2026-06-25T11:51:45.000Z",
     "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "84069332",
+    "title": "Talent Development Partner",
+    "company": "eToro",
+    "link": "https://www.comeet.com/jobs/etoro/41.009/talent-development-partner/DD.C6C",
+    "date": "2026-06-25T11:26:37.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "84069326",
+    "title": "AI Engineer",
+    "company": "eToro",
+    "link": "https://www.comeet.com/jobs/etoro/41.009/ai-engineer/64.D67",
+    "date": "2026-06-25T11:26:36.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "84067784",
@@ -6630,6 +6758,14 @@
     "source": "Ashby: TRM Labs"
   },
   {
+    "id": "29b027c2-d576-4dfe-b4d9-aa397573a919",
+    "title": "Community Growth Marketing Manager",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/29b027c2-d576-4dfe-b4d9-aa397573a919",
+    "date": "2026-06-11T21:43:24.605+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
     "id": "73b2f6bd-7f59-4378-8b9f-b0921489c8ef",
     "title": "Growth Lead, Consumer Fraud Reporting",
     "company": "TRM Labs",
@@ -10437,6 +10573,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "7985981",
+    "title": "Institutional Trader",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7985981",
+    "date": "2026-06-05T17:07:31-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
     "id": "4685684006",
     "title": "Copy of Full Stack Engineer, Blockchain",
     "company": "Fireblocks",
@@ -13405,6 +13549,14 @@
   {
     "id": "3774e970-dff3-4c72-902b-8742faf78e6a",
     "title": "Regulatory Compliance Specialist",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/3774e970-dff3-4c72-902b-8742faf78e6a",
+    "date": "2026-06-02T08:18:27.648Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "3774e970-dff3-4c72-902b-8742faf78e6a",
+    "title": "Regulatory Compliance Specialist (US Licensing)",
     "company": "MoonPay",
     "link": "https://jobs.lever.co/moonpay/3774e970-dff3-4c72-902b-8742faf78e6a",
     "date": "2026-06-02T08:18:27.648Z",
@@ -16465,125 +16617,5 @@
     "link": "https://careers.bitfinex.com/o/senior-backend-developer-nodejs-fully-remote-worldwide-33",
     "date": "2026-05-27 05:32:42 UTC",
     "source": "Recruitee: Bitfinex"
-  },
-  {
-    "id": "7680548",
-    "title": "Account Executive, Platforms",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7680548",
-    "date": "2026-05-27T00:54:53-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7680548",
-    "title": "Account Executive, Platforms Grower",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7680548",
-    "date": "2026-05-27T00:54:53-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "2616915",
-    "title": "Junior Risk Monitoring Analyst (100% Remote - CET Timezone)",
-    "company": "Bitfinex",
-    "link": "https://careers.bitfinex.com/o/junior-risk-monitoring-analyst-100-remote-cet-timezone-6",
-    "date": "2026-05-27 04:51:38 UTC",
-    "source": "Recruitee: Bitfinex"
-  },
-  {
-    "id": "7927974",
-    "title": "Institutional Trader",
-    "company": "Flow Traders",
-    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7927974",
-    "date": "2026-05-26T21:15:58-04:00",
-    "source": "Greenhouse: Flow Traders"
-  },
-  {
-    "id": "7770004",
-    "title": "Software Developer, Provisioning",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7770004?t=gh_src=&gh_jid=7770004",
-    "date": "2026-05-26T18:12:33-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "62c75011-1cf1-4c40-85bc-2e2a16d76332",
-    "title": "Senior Product Manager, Financial Institutions",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/62c75011-1cf1-4c40-85bc-2e2a16d76332",
-    "date": "2026-05-26T21:56:03.185+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "7950824",
-    "title": "Commercial Counsel",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7950824",
-    "date": "2026-05-26T17:47:45-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "1a8e5072-a2d0-476d-9aa0-163e5ec67aa0",
-    "title": "Capital Markets Lead",
-    "company": "Stellar",
-    "link": "https://jobs.ashbyhq.com/Stellar/1a8e5072-a2d0-476d-9aa0-163e5ec67aa0",
-    "date": "2026-05-26T21:33:08.824+00:00",
-    "source": "Ashby: Stellar"
-  },
-  {
-    "id": "7927089",
-    "title": "Product Manager, Terminal Device Expansion",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7927089",
-    "date": "2026-05-26T17:30:35-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7958750",
-    "title": "Customer Experience Representative, Core Services",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7958750?t=gh_src=&gh_jid=7958750",
-    "date": "2026-05-26T17:18:42-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7958747",
-    "title": "Customer Experience Representative, Advanced Services",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7958747?t=gh_src=&gh_jid=7958747",
-    "date": "2026-05-26T17:17:50-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7913410",
-    "title": "Fraud Patterns Analysts",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7913410",
-    "date": "2026-05-26T16:41:12-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7913410",
-    "title": "Fraud Patterns Analyst",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7913410",
-    "date": "2026-05-26T16:41:12-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7913406",
-    "title": "Payments Fraud Investigator",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7913406",
-    "date": "2026-05-26T16:28:58-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7871249",
-    "title": "Software Developer, Kubernetes Compute",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7871249?t=gh_src=&gh_jid=7871249",
-    "date": "2026-05-26T16:26:47-04:00",
-    "source": "Greenhouse: Robinhood"
   }
 ]
