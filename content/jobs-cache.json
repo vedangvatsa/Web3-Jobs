@@ -1,5 +1,269 @@
 [
   {
+    "id": "84625227",
+    "title": "Product Manager, Payments",
+    "company": "Ansible Labs",
+    "link": "https://jobs.ashbyhq.com/moderntreasury/f11d16f1-641b-4837-a107-f393956144e2",
+    "date": "2026-06-30T11:53:49.000Z",
+    "source": "https://jobs.archetype.fund/jobs"
+  },
+  {
+    "id": "84616677",
+    "title": "Senior Finance Systems Analyst",
+    "company": "Circle",
+    "link": "https://careers.circle.com/us/en/job/JR101077",
+    "date": "2026-06-30T11:15:06.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "84616638",
+    "title": "Senior Analyst, IT Internal Controls & SOX Compliance",
+    "company": "Circle",
+    "link": "https://careers.circle.com/us/en/job/JR101076",
+    "date": "2026-06-30T11:14:52.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "8035557",
+    "title": "React Native Engineer, Merchant Experience Mobile",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8035557",
+    "date": "2026-06-30T07:09:48-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "f0db771f-936b-4999-91d1-7a13fa0b8c25",
+    "title": "Options Trader",
+    "company": "Wintermute",
+    "link": "https://jobs.lever.co/wintermute-trading/f0db771f-936b-4999-91d1-7a13fa0b8c25",
+    "date": "2026-06-30T11:06:46.361Z",
+    "source": "Lever: Wintermute"
+  },
+  {
+    "id": "7789846003",
+    "title": "Specialist, Customer Due Diligence Operations - KYB",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7789846003",
+    "date": "2026-06-30T06:58:15-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "eabc5915-b37f-429b-a182-d7aa205de077",
+    "title": "Senior Experience Engineer",
+    "company": "Parity Technologies",
+    "link": "https://jobs.ashbyhq.com/Parity/eabc5915-b37f-429b-a182-d7aa205de077",
+    "date": "2026-06-30T10:55:13.361+00:00",
+    "source": "Ashby: Parity Technologies"
+  },
+  {
+    "id": "84600846",
+    "title": "Founding Hype Lead",
+    "company": "Octet",
+    "link": "https://octetproof.com/careers#3bpghrwc5gc4b4uib5diztpp0&:~:text=Founding%20Hype%20Lead",
+    "date": "2026-06-30T10:14:40.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "84600718",
+    "title": "Director, Financial Patnerships",
+    "company": "Rain",
+    "link": "https://jobs.ashbyhq.com/rain/6354380b-0370-48e0-9639-bd1427e8de56",
+    "date": "2026-06-30T10:13:13.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "84600428",
+    "title": "Senior Recruiter - GTM/Tech",
+    "company": "Breeze",
+    "link": "https://boards.greenhouse.io/breezecash/jobs/5285816008",
+    "date": "2026-06-30T10:11:29.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "7789825003",
+    "title": "Principal/Senior Mobile Engineer, Trading Strategies, CEX",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7789825003",
+    "date": "2026-06-30T05:58:11-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "8015574",
+    "title": "Project Controller",
+    "company": "Spire",
+    "link": "https://spire.com/careers/job-openings/job/?gh_jid=8015574&gh_jid=8015574",
+    "date": "2026-06-30T05:57:20-04:00",
+    "source": "Greenhouse: Spire"
+  },
+  {
+    "id": "84594797",
+    "title": "FP&A Manager",
+    "company": "BCB Group",
+    "link": "https://boards.greenhouse.io/bcbgroup/jobs/4911355101",
+    "date": "2026-06-30T09:41:27.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "84593255",
+    "title": "Web and Brand Designer - Breakout Prop",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/4276b1b4-ba9e-4298-b8a6-f964f534f69f",
+    "date": "2026-06-30T09:34:09.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "84592933",
+    "title": "STAFF Data Scientist (Crédit et Fraude)",
+    "company": "Djamo",
+    "link": "https://djamo.breezy.hr/p/cc51b0015334-staff-data-scientist-credit-et-fraude",
+    "date": "2026-06-30T09:32:25.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "84591402",
+    "title": "Director, Financial Patnerships",
+    "company": "Tephra",
+    "link": "https://jobs.ashbyhq.com/rain/6354380b-0370-48e0-9639-bd1427e8de56",
+    "date": "2026-06-30T09:24:00.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "84587542",
+    "title": "Senior Data Scientist",
+    "company": "Optimum",
+    "link": "https://jobs.ashbyhq.com/optimum/ee988161-eea5-4ef5-a16c-ec93b541a29e",
+    "date": "2026-06-30T09:01:15.000Z",
+    "source": "https://jobs.spartangroup.io/jobs"
+  },
+  {
+    "id": "6a9dfb01-8143-411c-b789-e7881e8aa520",
+    "title": "Macro Research Analyst",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/6a9dfb01-8143-411c-b789-e7881e8aa520",
+    "date": "2026-06-30T08:41:25.170Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "8008405",
+    "title": "Staff Product Designer, Risk",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8008405",
+    "date": "2026-06-30T04:40:33-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "c1350863-4d3a-4c85-ba13-7b555a73f942",
+    "title": "Earn Product Operation(Tradfi)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/c1350863-4d3a-4c85-ba13-7b555a73f942",
+    "date": "2026-06-30T08:38:09.305Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "84579657",
+    "title": "Head of Quality Engineering (Remote - Work from Anywhere)",
+    "company": "Xapo",
+    "link": "https://boards.greenhouse.io/xapo61/jobs/7774837003",
+    "date": "2026-06-30T08:26:33.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "84579636",
+    "title": "Head of Engineering (Remote - Work from Anywhere)",
+    "company": "Xapo",
+    "link": "https://boards.greenhouse.io/xapo61/jobs/7778750003",
+    "date": "2026-06-30T08:26:31.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "84578856",
+    "title": "Senior Sales Manager - Payment Solutions",
+    "company": "Alchemy Pay",
+    "link": "https://alchemypay.org/careers#e33wq8yhjurlczvr8kz49qudk&:~:text=Senior%20Sales%20Manager%20%E2%80%93%20Payment%20Solutions",
+    "date": "2026-06-30T08:21:43.000Z",
+    "source": "https://jobs.arbitrum.io/jobs"
+  },
+  {
+    "id": "c2e2c4f4-8c2a-49c7-8dbc-651e1da353cd",
+    "title": "Binance Accelerator Program - Macro Research",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/c2e2c4f4-8c2a-49c7-8dbc-651e1da353cd",
+    "date": "2026-06-30T08:15:16.823Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "84575667",
+    "title": "Senior Customer Success Manager.",
+    "company": "Ripple",
+    "link": "https://boards.greenhouse.io/ripple/jobs/8009731",
+    "date": "2026-06-30T08:11:19.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "84575665",
+    "title": "Executive Assistant",
+    "company": "Ripple",
+    "link": "https://boards.greenhouse.io/ripple/jobs/8037355",
+    "date": "2026-06-30T08:11:18.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "f67c9e11-38f0-443f-9223-461b35eba46c",
+    "title": "Brand Marketing & Creative (Contractor)",
+    "company": "Trust Wallet",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/f67c9e11-38f0-443f-9223-461b35eba46c",
+    "date": "2026-06-30T07:38:58.304+00:00",
+    "source": "Ashby: Trust Wallet"
+  },
+  {
+    "id": "2d265735-8142-42d6-8dcb-7fb508b1eaa5",
+    "title": "Brand Growth & Content Creator (Contractor)",
+    "company": "Trust Wallet",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/2d265735-8142-42d6-8dcb-7fb508b1eaa5",
+    "date": "2026-06-30T07:35:27.757+00:00",
+    "source": "Ashby: Trust Wallet"
+  },
+  {
+    "id": "84562690",
+    "title": "Assistant General Counsel or Senior Counsel",
+    "company": "MegaETH",
+    "link": "https://www.megaeth.com/about#career#1lah7z13ynjlrz8skutkamtrk&:~:text=Assistant%20General%20Counsel%20or%20Senior%20Counsel",
+    "date": "2026-06-30T07:31:16.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "4911699101",
+    "title": "Senior Specialist, Internal Audit",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4911699101",
+    "date": "2026-06-30T03:30:28-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "4903448101",
+    "title": "Associate, AFC Compliance",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4903448101",
+    "date": "2026-06-30T02:54:05-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "84554200",
+    "title": "E-Commerce Business Line Director",
+    "company": "Ledger",
+    "link": "https://jobs.ashbyhq.com/ledger/09e27ed1-3895-4330-9577-44638de34f67",
+    "date": "2026-06-30T06:25:34.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "84554201",
+    "title": "Internship - Learning & Development",
+    "company": "Ledger",
+    "link": "https://jobs.ashbyhq.com/ledger/3a5ad91c-7631-44c0-8075-5b4769767cc0",
+    "date": "2026-06-30T06:25:34.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "8036233",
     "title": "Internal Auditor - APAC Regulatory & Financial Operations",
     "company": "Stripe",
@@ -13,6 +277,14 @@
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/ef84083c-53c7-4d8c-b66a-ca432901884a",
     "date": "2026-06-30T01:53:35.871Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "33231ef0-179e-431f-b6ac-821f064e74df",
+    "title": "Growth Manager, West Africa",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/33231ef0-179e-431f-b6ac-821f064e74df",
+    "date": "2026-06-30T01:48:47.186Z",
     "source": "Lever: Binance"
   },
   {
@@ -432,6 +704,14 @@
     "source": "Greenhouse: OKX"
   },
   {
+    "id": "7788114003",
+    "title": "Senior Staff Engineer, HR Platform",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7788114003",
+    "date": "2026-06-29T02:01:34-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "7777031003",
     "title": "Senior Staff Software Engineer, Mobile Infrastructure",
     "company": "OKX",
@@ -670,6 +950,14 @@
     "link": "https://jobs.electriccapital.com/companies/bullet-2-479aed29-c02d-408c-af2d-d7fa109c9498/jobs/84357852-rust-engineer",
     "date": "2026-06-27T09:03:07.000Z",
     "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "84357852",
+    "title": "Staff Rust Engineer",
+    "company": "Bullet",
+    "link": "https://jobs.solana.com/companies/bullet-2-479aed29-c02d-408c-af2d-d7fa109c9498/jobs/84357852-staff-rust-engineer",
+    "date": "2026-06-27T09:03:07.000Z",
+    "source": "https://jobs.solana.com/jobs"
   },
   {
     "id": "84350761",
@@ -9632,6 +9920,14 @@
   {
     "id": "3eb9d01a-b829-4864-96eb-8d76c62c8d95",
     "title": "Principal Product Manager - Discovery & Onboarding(Exchange)",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/3eb9d01a-b829-4864-96eb-8d76c62c8d95",
+    "date": "2026-06-10T03:38:18.834Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "3eb9d01a-b829-4864-96eb-8d76c62c8d95",
+    "title": "Principal Product Manager, Growth - Discovery(Exchange)",
     "company": "Crypto",
     "link": "https://jobs.lever.co/crypto/3eb9d01a-b829-4864-96eb-8d76c62c8d95",
     "date": "2026-06-10T03:38:18.834Z",
