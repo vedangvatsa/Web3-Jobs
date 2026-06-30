@@ -1,47 +1,5 @@
 [
   {
-    "id": "luma-evt-GjQZbwanPUMrjad",
-    "name": "Pitch Day | Soluções de IA para Jurídico",
-    "description": "",
-    "startDate": "2026-06-30T13:00:00.000Z",
-    "endDate": "2026-06-30T15:00:00.000Z",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "location": "São Paulo, Brazil",
-    "url": "https://lu.ma/PitchDayIAparaJuridico",
-    "coverImage": "https://images.lumacdn.com/uploads/bv/07bb4f69-7ae1-4654-a4f0-c8c0bdd81b0b.png",
-    "source": "luma",
-    "month": "June 2026"
-  },
-  {
-    "id": "luma-evt-ZIvW3LSDksueNeO",
-    "name": "Shopify AI Hackathon & AI Office Hours | Upscale AI x Ripple AI x Siena AI",
-    "description": "",
-    "startDate": "2026-06-30T14:00:00.000Z",
-    "endDate": "2026-06-30T20:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/upscale-y4e4",
-    "coverImage": "https://images.lumacdn.com/uploads/25/0cc38b06-57f4-479b-8d02-184a1aad27f8.png",
-    "source": "luma",
-    "month": "June 2026"
-  },
-  {
-    "id": "luma-evt-poGKr4wvNB8pzwe",
-    "name": "HR Hackathon: Building and testing AI-Workflows together",
-    "description": "",
-    "startDate": "2026-06-30T16:00:00.000Z",
-    "endDate": "2026-06-30T18:30:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://lu.ma/0nnuq5z8",
-    "coverImage": "https://images.lumacdn.com/uploads/l6/b312c905-bbf0-4973-a21b-7adef8e84bb5.jpg",
-    "source": "luma",
-    "month": "June 2026"
-  },
-  {
     "id": "luma-evt-iUII2t0ZgC1VdIM",
     "name": "Comprehensive Biomarker Assays for Immunology, Oncology, Neuroscience, and Toxicology Research",
     "description": "",
@@ -67,6 +25,20 @@
     "url": "https://lu.ma/8urr1mid",
     "coverImage": "https://images.lumacdn.com/uploads/7t/c0ab605e-c6b3-45b1-bd1a-4a4889bf96eb.png",
     "source": "luma",
+    "month": "June 2026"
+  },
+  {
+    "id": "mu-315206082",
+    "name": "Bienvenidos a charla en Español.",
+    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
+    "startDate": "2026-06-30T18:30:00-05:00",
+    "endDate": "2026-06-30T18:30:00-05:00",
+    "city": "West Des Moines",
+    "country": "us",
+    "location": "West Des Moines, us",
+    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/315206082/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/d/0/4/600_503531524.jpeg",
+    "source": "meetup",
     "month": "June 2026"
   },
   {
@@ -163,8 +135,22 @@
     "country": "United States",
     "location": "New York, United States",
     "url": "https://lu.ma/ei7wlzv7",
-    "coverImage": "https://images.lumacdn.com/event-covers/px/1fe95801-2a56-4497-9aa4-a0602f44c9bb.png",
+    "coverImage": "https://images.lumacdn.com/uploads/eu/96f1d99a-6242-4458-9b75-210272f8b306.png",
     "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-314880089",
+    "name": "July 1 - Getting Started with FiftyOne",
+    "description": "This workshop is part of our Getting Started with FiftyOne monthly series — a recurring session designed to help you build a strong foundation in data-centric AI workflows.\n\n**Time, Place and Location",
+    "startDate": "2026-07-01T11:00:00-05:00",
+    "endDate": "2026-07-01T11:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/iowa-ai-ml-and-computer-vision-meetup/events/314880089/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/9/5/5/600_534355637.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -172,7 +158,7 @@
     "name": "AI Engineer World’s Fair Afterparty w/ Tailscale, Aikido Security, Docker, Inngest & Rootly AI",
     "description": "",
     "startDate": "2026-07-02T01:00:00.000Z",
-    "endDate": "2026-07-02T04:00:00.000Z",
+    "endDate": "2026-07-02T03:30:00.000Z",
     "city": "San Francisco",
     "country": "United States",
     "location": "San Francisco, United States",
@@ -192,34 +178,6 @@
     "location": "San Francisco, United States",
     "url": "https://lu.ma/stablecoin-night",
     "coverImage": "https://images.lumacdn.com/uploads/at/a13653ce-ade0-4fc7-935a-d68b3408ba7c.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-w3PuFEyi2pbYDPb",
-    "name": "SE-GRM Orientation Workshop: Building Stronger Stakeholder Relationships in Renewable Energy Projects",
-    "description": "",
-    "startDate": "2026-07-02T05:30:00.000Z",
-    "endDate": "2026-07-02T07:30:00.000Z",
-    "city": "Taguig",
-    "country": "Philippines",
-    "location": "Taguig, Philippines",
-    "url": "https://lu.ma/z2re935d",
-    "coverImage": "https://images.lumacdn.com/uploads/f4/e6cd63a1-46cb-4c47-9c3a-f442b614fcab.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-Ina095xsE39wULR",
-    "name": "Pergi Main PS, Pulang Ngerti Crypto",
-    "description": "",
-    "startDate": "2026-07-02T11:00:00.000Z",
-    "endDate": "2026-07-02T14:00:00.000Z",
-    "city": "Kota Jakarta Selatan",
-    "country": "Indonesia",
-    "location": "Kota Jakarta Selatan, Indonesia",
-    "url": "https://lu.ma/c4bstxka",
-    "coverImage": "https://images.lumacdn.com/uploads/dn/809c0e7a-4301-4897-adc9-8cfec6ff0e8c.jpg",
     "source": "luma",
     "month": "July 2026"
   },
@@ -294,20 +252,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-lo4zp5VtC2az9KC",
-    "name": "RWA Leaders Kickoff - Tokenización en Argentina",
-    "description": "",
-    "startDate": "2026-07-02T19:00:00.000Z",
-    "endDate": "2026-07-02T22:30:00.000Z",
-    "city": "AFB",
-    "country": "Argentina",
-    "location": "AFB, Argentina",
-    "url": "https://lu.ma/3q6kjeez",
-    "coverImage": "https://images.lumacdn.com/uploads/f9/9ccd62fe-2659-407f-af2d-b90a3bd06220.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-host-evt-QW1n92jtKOuCK1B",
     "name": "ETHGlobal Happy Hour Rabat with INPT Blockchain Club July",
     "description": "",
@@ -322,20 +266,6 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-314850006",
-    "name": "Back to Basics: Refactoring, A Tale in Three Acts -- Dave Steffen",
-    "description": "Come out and join us for this exciting talk by Dave, and networking during the meetup and at the Burns pub afterward.\n\nFood will be sponsored by Sovereign (a Nascent group) this month. Learn more abou",
-    "startDate": "2026-07-02T18:00:00-06:00",
-    "endDate": "2026-07-02T18:00:00-06:00",
-    "city": "Westminster",
-    "country": "us",
-    "location": "Westminster, us",
-    "url": "https://www.meetup.com/north-denver-metro-c-meetup/events/314850006/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/e/4/f/3/600_487498611.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-7geCyTymG21KIQn",
     "name": "Solana Summer Series: Demo Night",
     "description": "",
@@ -346,20 +276,6 @@
     "location": "San Francisco, United States",
     "url": "https://lu.ma/solana-demo-night",
     "coverImage": "https://images.lumacdn.com/uploads/as/41226a11-6718-4442-8c16-898ceecfc39b.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-LtchRjYncrCn1Xe",
-    "name": "Workshop 02: [Menu Đầu Tư Trong IFC] Bản Đồ Tài Sản Số",
-    "description": "",
-    "startDate": "2026-07-03T02:00:00.000Z",
-    "endDate": "2026-07-03T04:30:00.000Z",
-    "city": "Thành phố Hồ Chí Minh",
-    "country": "Vietnam",
-    "location": "Thành phố Hồ Chí Minh, Vietnam",
-    "url": "https://lu.ma/4fvb5qay",
-    "coverImage": "https://images.lumacdn.com/uploads/54/fa381eb5-dbc4-4f88-a053-205ebe1e4ca4.jpg",
     "source": "luma",
     "month": "July 2026"
   },
@@ -406,20 +322,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-i5u5DD2re9QtASi",
-    "name": "🥅 BINANCE TH เเมตช์ปล่อยจอย ⚽️",
-    "description": "",
-    "startDate": "2026-07-03T09:00:00.000Z",
-    "endDate": "2026-07-03T13:00:00.000Z",
-    "city": "",
-    "country": "Thailand",
-    "location": "Thailand",
-    "url": "https://lu.ma/g7mt2emk",
-    "coverImage": "https://images.lumacdn.com/uploads/ev/62f9ecfb-2a59-4b4c-9716-f2f6b7f90961.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-host-evt-Z4i1ffzldM9X4c3",
     "name": "Co-Working Fridays : London Chapter",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -431,20 +333,6 @@
     "url": "https://lu.ma/london-july-03",
     "coverImage": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png",
     "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-in6v1Idy310bA0K",
-    "name": "Build Forward #1 : What Should Companies Actually Build in the AI Era?",
-    "description": "",
-    "startDate": "2026-07-03T10:30:00.000Z",
-    "endDate": "2026-07-03T13:00:00.000Z",
-    "city": "",
-    "country": "Thailand",
-    "location": "Thailand",
-    "url": "https://lu.ma/blwreaor",
-    "coverImage": "https://images.lumacdn.com/uploads/i9/b1cf40d2-8a16-4cfc-b898-fed2c07c2c2b.jpg",
-    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -487,20 +375,6 @@
     "url": "https://lu.ma/hly7iadn",
     "coverImage": "https://images.lumacdn.com/event-covers/bw/0599c98d-915f-4c33-9471-92269e672a9d.png",
     "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-d9it46RF2zvk7fV",
-    "name": "Audacity RWA Night",
-    "description": "",
-    "startDate": "2026-07-03T16:00:00.000Z",
-    "endDate": "2026-07-03T20:00:00.000Z",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "location": "Lagos, Nigeria",
-    "url": "https://lu.ma/h7tsxq94",
-    "coverImage": "https://images.lumacdn.com/uploads/z8/e6ded48d-5739-4d99-bb8d-8a6bb544a4b2.jpg",
-    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -570,90 +444,6 @@
     "location": "Los Angeles, United States",
     "url": "https://lu.ma/gp82c9uo",
     "coverImage": "https://images.lumacdn.com/event-covers/7g/58aed943-ed32-4fc9-b969-6573c334fdbc.gif",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-ZUztpRdxN4YCliA",
-    "name": "From 24 Words to Keys: Demystifying Bitcoin Wallet Architecture",
-    "description": "",
-    "startDate": "2026-07-04T05:30:00.000Z",
-    "endDate": "2026-07-04T07:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://lu.ma/mrklqx1l",
-    "coverImage": "https://images.lumacdn.com/uploads/rs/ffcee91d-2970-4b6a-90a7-d3b893e01910.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-E7pTGsuoSQs1kC2",
-    "name": "DevConnect",
-    "description": "",
-    "startDate": "2026-07-04T05:30:00.000Z",
-    "endDate": "2026-07-04T10:30:00.000Z",
-    "city": "Gurugram",
-    "country": "India",
-    "location": "Gurugram, India",
-    "url": "https://lu.ma/2hyhx36j",
-    "coverImage": "https://images.lumacdn.com/uploads/mx/8246903f-a4df-4762-a559-8cc1b82da3cf.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-Oy0js0pMmsmunFW",
-    "name": "MetaMask Community Builder Night Gurugram, India Edition",
-    "description": "",
-    "startDate": "2026-07-04T05:30:00.000Z",
-    "endDate": "2026-07-04T07:30:00.000Z",
-    "city": "Gurugram",
-    "country": "India",
-    "location": "Gurugram, India",
-    "url": "https://lu.ma/cbngurugram",
-    "coverImage": "https://images.lumacdn.com/uploads/b9/7b234366-8a90-429d-95ca-d468fb1341e3.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-xJtKTkEMhv1D27E",
-    "name": "AI Agents are Coming For Wall Street: The Future of RWAs",
-    "description": "",
-    "startDate": "2026-07-04T06:00:00.000Z",
-    "endDate": "2026-07-04T09:00:00.000Z",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "location": "Kuala Lumpur, Malaysia",
-    "url": "https://lu.ma/ygu5hoj5",
-    "coverImage": "https://images.lumacdn.com/uploads/8f/3326810c-2b65-43bb-b47f-144c73a85277.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-BzVpcLxGHpSH0wP",
-    "name": "Makers & Founders co-work - Build together #9",
-    "description": "",
-    "startDate": "2026-07-04T07:30:00.000Z",
-    "endDate": "2026-07-04T11:30:00.000Z",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "location": "Cape Town, South Africa",
-    "url": "https://lu.ma/npsqxwra",
-    "coverImage": "https://images.lumacdn.com/event-covers/nq/a0fa4910-095a-4498-a888-dcf8c279c8fe.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-adHdRuJ86ZH4DAF",
-    "name": "Founders Running Club Mexico City: Saturdays 5K Run",
-    "description": "",
-    "startDate": "2026-07-04T13:00:00.000Z",
-    "endDate": "2026-07-04T14:30:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/inj31nl8",
-    "coverImage": "https://images.lumacdn.com/uploads/ch/2d074302-21e4-4c2b-86c5-5986c4eb40f8.jpg",
     "source": "luma",
     "month": "July 2026"
   },
@@ -756,34 +546,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-HbT7GVGhPe6jlV2",
-    "name": "Tech Night Mexico City by JumpCloud",
-    "description": "",
-    "startDate": "2026-07-08T00:30:00.000Z",
-    "endDate": "2026-07-08T02:30:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/uff4qbh4",
-    "coverImage": "https://images.lumacdn.com/uploads/m7/9bc2e8fc-0598-453e-939e-96d081296de7.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-n6Fyn19h7FeAGyE",
-    "name": "Ethereum OPEN Meetup & Coworking Day",
-    "description": "",
-    "startDate": "2026-07-08T11:30:00.000Z",
-    "endDate": "2026-07-08T23:00:00.000Z",
-    "city": "Buenos Aires",
-    "country": "Argentina",
-    "location": "Buenos Aires, Argentina",
-    "url": "https://lu.ma/ethmeetup8jul",
-    "coverImage": "https://images.lumacdn.com/uploads/qy/5f2b2554-b7c7-4ffb-8838-8a484bc30aa0.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-VXQinfjEGGC7Vus",
     "name": "Parent Strong - Wednesday Morning Walk + Mobility",
     "description": "",
@@ -798,45 +560,31 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315234110",
+    "id": "mu-315234097",
     "name": "Lineth Technical Deep Dive: Inside the Production-Grade ZK Rollup Stack",
     "description": "With the announcement of Lineth ([https://github.com/LFDT-Lineth](https://github.com/LFDT-Lineth)) as a new Linux Foundation Decentralized Trust incubating project, we're opening the hood on the full ",
-    "startDate": "2026-07-08T07:00:00-06:00",
-    "endDate": "2026-07-08T07:00:00-06:00",
+    "startDate": "2026-07-08T08:00:00-05:00",
+    "endDate": "2026-07-08T08:00:00-05:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-denver/events/315234110/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/2/a/5/1/600_534790833.jpeg",
+    "url": "https://www.meetup.com/lfdt-chicago/events/315234097/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/a/5/c/600_534790844.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
   {
-    "id": "mu-314981945",
+    "id": "mu-314981928",
     "name": "Architecture for Sustaining Open Source in Web 3",
     "description": "Open source is the foundation of Web3, but most ecosystems still fund it like a series of short-term projects instead of long-term public infrastructure. As decentralized networks grow, the real chall",
-    "startDate": "2026-07-08T09:00:00-06:00",
-    "endDate": "2026-07-08T09:00:00-06:00",
+    "startDate": "2026-07-08T10:00:00-05:00",
+    "endDate": "2026-07-08T10:00:00-05:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-denver/events/314981945/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/4/b/a/3/600_534439363.jpeg",
+    "url": "https://www.meetup.com/lfdt-chicago/events/314981928/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/b/9/0/600_534439344.jpeg",
     "source": "meetup",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-XMtiSLSMgM7Jgcw",
-    "name": "Ethereum Security Day in CDMX by ETH Cinco de Mayo",
-    "description": "",
-    "startDate": "2026-07-08T16:00:00.000Z",
-    "endDate": "2026-07-08T23:00:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/kbkipite",
-    "coverImage": "https://images.lumacdn.com/uploads/7a/a641b477-874e-4233-b9b4-314481d6f21c.png",
-    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -882,17 +630,17 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-Apzg72dfm8HQY9v",
-    "name": "AI x Blockchain Day in Mexico City",
-    "description": "",
-    "startDate": "2026-07-09T16:00:00.000Z",
-    "endDate": "2026-07-09T23:00:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/3rzgnv6f",
-    "coverImage": "https://images.lumacdn.com/uploads/mf/0802496a-3552-4a0d-9fc6-32cff955b200.png",
-    "source": "luma",
+    "id": "mu-315405759",
+    "name": "Who Told You Who You Are? Virtual Sip & Chat",
+    "description": "Every day, we're told who we should be strong, successful, selfless, independent, perfect. Over time, those expectations can become so loud that we lose sight of the woman we were created to be.\n\nThis",
+    "startDate": "2026-07-08T19:00:00-05:00",
+    "endDate": "2026-07-08T19:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/sip-and-chat/events/315405759/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/4/7/5/600_534909333.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -920,20 +668,6 @@
     "location": "El Segundo, United States",
     "url": "https://lu.ma/i69kqepl",
     "coverImage": "https://images.lumacdn.com/uploads/e3/acc27f79-9af5-49ba-9497-24147b4e32c7.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-jAW3ZY1LP8IYsx3",
-    "name": "Compliance Day [Fintech x Blockchain]",
-    "description": "",
-    "startDate": "2026-07-10T00:00:00.000Z",
-    "endDate": "2026-07-10T04:00:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/7s2o55rh",
-    "coverImage": "https://images.lumacdn.com/uploads/it/3205f550-1dd1-415f-873e-bed606c6ee81.png",
     "source": "luma",
     "month": "July 2026"
   },
@@ -1022,6 +756,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-X09dAvALBaB0zxU",
+    "name": "Co-Working Fridays : London Chapter",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-07-10T09:00:00.000Z",
+    "endDate": "2026-07-10T19:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/london-july-10",
+    "coverImage": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-BZOcjINeYYNMGYI",
     "name": "Skyline Coworking",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -1036,48 +784,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-BZNE46svEHM8671",
-    "name": "Incubathon Mexico City by ETH Cinco de Mayo 2026 - Company Application",
-    "description": "",
-    "startDate": "2026-07-10T16:00:00.000Z",
-    "endDate": "2026-07-12T12:00:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/a6zi4sfr",
-    "coverImage": "https://images.lumacdn.com/uploads/5k/058a1b0e-e8f0-4b1d-8262-0cd184bbf727.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-BtYZmLcHyYoe06d",
-    "name": "Incubathon Mexico City by ETH Cinco de Mayo 2026 - Developer Application",
-    "description": "",
-    "startDate": "2026-07-10T16:00:00.000Z",
-    "endDate": "2026-07-13T00:00:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/r97cdj8e",
-    "coverImage": "https://images.lumacdn.com/uploads/4a/e4263272-8a1f-443b-a4c5-aa84b850e15a.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-3G5debU49GbRwBn",
-    "name": "🏆 Web3 Startups Libertadores Cup in CDMX by ETH Cinco de Mayo",
-    "description": "",
-    "startDate": "2026-07-10T17:30:00.000Z",
-    "endDate": "2026-07-12T00:30:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/s8i1xx4p",
-    "coverImage": "https://images.lumacdn.com/uploads/2c/db9d58c6-e301-48c9-9e71-9b3aa8553bc2.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-FEe0AHECTyuDxEE",
     "name": "Bitcoin, Beer & Art Auction",
     "description": "",
@@ -1088,34 +794,6 @@
     "location": "Denver, United States",
     "url": "https://lu.ma/jkneutac",
     "coverImage": "https://images.lumacdn.com/event-covers/2q/ee3d93a1-3236-419b-98f6-898d5eb0d629.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-Os0bLdzeEhnhovV",
-    "name": "Codex Community Hackathon - Kuala Lumpur",
-    "description": "",
-    "startDate": "2026-07-11T00:00:00.000Z",
-    "endDate": "2026-07-18T10:00:00.000Z",
-    "city": "Petaling Jaya",
-    "country": "Malaysia",
-    "location": "Petaling Jaya, Malaysia",
-    "url": "https://lu.ma/rgk6ln4e",
-    "coverImage": "https://images.lumacdn.com/uploads/qu/64eefef3-10d4-46fd-9d0a-0f1b2c1b7146.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-LmvoSrqjDDa487v",
-    "name": "Road to Devcon 8",
-    "description": "",
-    "startDate": "2026-07-11T05:30:00.000Z",
-    "endDate": "2026-07-11T09:30:00.000Z",
-    "city": "Gurugram",
-    "country": "India",
-    "location": "Gurugram, India",
-    "url": "https://lu.ma/17qwjp3b",
-    "coverImage": "https://images.lumacdn.com/uploads/lp/b8285aed-fa7f-4a7d-a34b-8b921acf3e06.png",
     "source": "luma",
     "month": "July 2026"
   },
@@ -1176,31 +854,17 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-db47Bix2jqIOApS",
-    "name": "Bitcoin é puro Rock and Roll!",
-    "description": "",
-    "startDate": "2026-07-13T22:30:00.000Z",
-    "endDate": "2026-07-14T00:00:00.000Z",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "location": "São Paulo, Brazil",
-    "url": "https://lu.ma/rem4l5on",
-    "coverImage": "https://images.lumacdn.com/uploads/lx/5ba078e4-51cf-4ef8-bd3b-a13752d29dc4.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-Sa6uLCx6rR016Cb",
-    "name": "AI tự hành trong HR: Chuẩn data, tuyển nhanh, chọn đúng",
-    "description": "",
-    "startDate": "2026-07-14T07:30:00.000Z",
-    "endDate": "2026-07-14T10:00:00.000Z",
-    "city": "Thành phố Hồ Chí Minh",
-    "country": "Vietnam",
-    "location": "Thành phố Hồ Chí Minh, Vietnam",
-    "url": "https://lu.ma/gp6211vy",
-    "coverImage": "https://images.lumacdn.com/uploads/gv/fd9b41df-9fad-4621-9bf1-7d20e99963c2.jpg",
-    "source": "luma",
+    "id": "luma-host-evt-NNxyaVvSE0m6aOF",
+    "name": "Stablecoin Meetup with Zebec",
+    "description": "Learn, build and advance your career in Emerging Tech with our community of 500,000 talented professionals worldwide.",
+    "startDate": "2026-07-13T17:30:00.000Z",
+    "endDate": "2026-07-13T19:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/encode-whe0",
+    "coverImage": "https://images.lumacdn.com/uploads/ss/20b5f969-27c9-47aa-be52-9045d2905113.png",
+    "source": "luma-trusted",
     "month": "July 2026"
   },
   {
@@ -1215,20 +879,6 @@
     "url": "https://lu.ma/xoit2l4v",
     "coverImage": "https://images.lumacdn.com/event-covers/p9/b7d8de23-97d3-4ccc-8e4d-8e8a11f5bea2",
     "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-IVovktGNFg8hq8W",
-    "name": "Registro weTrade 2026 - Público General",
-    "description": "",
-    "startDate": "2026-07-16T13:00:00.000Z",
-    "endDate": "2026-07-17T22:00:00.000Z",
-    "city": "Bogotá",
-    "country": "Colombia",
-    "location": "Bogotá, Colombia",
-    "url": "https://lu.ma/nojmoe2d",
-    "coverImage": "https://images.lumacdn.com/uploads/fj/0c432785-23ea-491e-afd0-710bd5342e9b.png",
-    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -1274,20 +924,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-czNHb392GxF3fiM",
-    "name": "The 26th Launchpad Ceremony - The SilentFinders",
-    "description": "",
-    "startDate": "2026-07-17T13:00:00.000Z",
-    "endDate": "2026-07-17T15:00:00.000Z",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "location": "Lagos, Nigeria",
-    "url": "https://lu.ma/to9qc6ua",
-    "coverImage": "https://images.lumacdn.com/uploads/ml/2077a2d3-cb24-425c-a9dc-1098ac87a0f6.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-host-evt-aEDlT5umM9speas",
     "name": "Skyline Coworking",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -1299,20 +935,6 @@
     "url": "https://lu.ma/o6tuniv6",
     "coverImage": "https://images.lumacdn.com/event-covers/py/249b4c63-9752-45c2-926c-814cca6e7567.jpg",
     "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-U6ShVPIMSvu0Jeo",
-    "name": "Thaicoon Club | Next Gen Community",
-    "description": "",
-    "startDate": "2026-07-18T23:30:00.000Z",
-    "endDate": "2026-07-19T02:30:00.000Z",
-    "city": "",
-    "country": "Thailand",
-    "location": "Thailand",
-    "url": "https://lu.ma/jw53lv0x",
-    "coverImage": "https://images.lumacdn.com/uploads/ba/58e0a766-d201-4887-99ac-1e145285bf4f.jpg",
-    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -1428,20 +1050,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-asa2va7kUHRl7Di",
-    "name": "Construindo flexibilidade psicológica no trabalho em saúde",
-    "description": "",
-    "startDate": "2026-07-21T18:00:00.000Z",
-    "endDate": "2026-07-21T19:00:00.000Z",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "location": "São Paulo, Brazil",
-    "url": "https://lu.ma/livance-gq3l",
-    "coverImage": "https://images.lumacdn.com/api-uploads/rm/41ecb953-2529-42d5-83e5-ddfbe56bf6c4.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-spf1jCQFsFdodyW",
     "name": "AGENTIC AI DAY @ Blockchain Futurist Conference",
     "description": "",
@@ -1507,7 +1115,7 @@
     "country": "Portugal",
     "location": "Lisboa, Portugal",
     "url": "https://lu.ma/onchainlisbonday",
-    "coverImage": "https://images.lumacdn.com/uploads/ip/13f0d8f2-d5f9-44e7-bbf4-f825b0682d92.png",
+    "coverImage": "https://images.lumacdn.com/uploads/9f/fa5abc27-8a70-45d7-b820-2088bc9bd74c.png",
     "source": "luma-trusted",
     "month": "July 2026"
   },
@@ -1554,20 +1162,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-7eBSC4UtxAYk39P",
-    "name": "BAMM (Buenos Aires Motion Makers) June Meetup 🍁🤎",
-    "description": "",
-    "startDate": "2026-07-24T20:00:00.000Z",
-    "endDate": "2026-07-24T23:00:00.000Z",
-    "city": "Buenos Aires",
-    "country": "Argentina",
-    "location": "Buenos Aires, Argentina",
-    "url": "https://lu.ma/yki8exu7",
-    "coverImage": "https://images.lumacdn.com/event-covers/rj/000dac08-acb3-42fc-be6e-0450c0391e88.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-blockchain-and-cryptoc",
     "name": "International Conference on Smart Contracts, Blockchain and Cryptocurrencies (ICSCBC)",
     "description": "",
@@ -1606,20 +1200,6 @@
     "location": "Fort Lauderdale, United States",
     "url": "https://lu.ma/gcet9mq9",
     "coverImage": "https://images.lumacdn.com/uploads/e5/9784c660-6f91-4daf-bec7-bdcefb79b1e9.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-fRCafNKZlPYOVyg",
-    "name": "MTG PLACE x STRONG",
-    "description": "",
-    "startDate": "2026-07-26T21:00:00.000Z",
-    "endDate": "2026-07-26T22:45:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/x77f7657",
-    "coverImage": "https://images.lumacdn.com/uploads/dk/bb1a7217-9687-45d4-96e3-ed8fe99e4af6.png",
     "source": "luma",
     "month": "July 2026"
   },
@@ -1666,20 +1246,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-CcFk0ACZJjLKeII",
-    "name": "[Bogotá] Sector Público Inteligente: IA y Datos para transformar la gestión",
-    "description": "",
-    "startDate": "2026-07-29T19:00:00.000Z",
-    "endDate": "2026-07-29T22:00:00.000Z",
-    "city": "Bogotá",
-    "country": "Colombia",
-    "location": "Bogotá, Colombia",
-    "url": "https://lu.ma/kdo3yt6y",
-    "coverImage": "https://images.lumacdn.com/uploads/6s/09e29832-a7db-4b70-bb7a-0462d5b32ca3.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-artificial-intelligence-and",
     "name": "International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys)",
     "description": "",
@@ -1706,20 +1272,6 @@
     "coverImage": "https://images.lumacdn.com/uploads/rx/a37c5856-8f24-4e80-b942-03e5f0a49ccf.png",
     "source": "luma",
     "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-B1ZFf0KjbiRwt1U",
-    "name": "JI BOW - BENDECIDO (TOUR)",
-    "description": "",
-    "startDate": "2026-08-01T02:00:00.000Z",
-    "endDate": "2026-08-01T06:30:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/d0e68jpv",
-    "coverImage": "https://images.lumacdn.com/uploads/uq/440032fa-6534-4bbb-89cd-efb0bf7dedd7.png",
-    "source": "luma",
-    "month": "August 2026"
   },
   {
     "id": "luma-evt-dUBFfP9ju0U0kWl",
@@ -1750,20 +1302,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-8JjOeNcaN4TA5hq",
-    "name": "Cộng đồng Web3 Việt Nam | Quantova QVM TP. Hồ Chí Minh 🇻🇳",
-    "description": "",
-    "startDate": "2026-08-11T06:30:00.000Z",
-    "endDate": "2026-08-11T07:30:00.000Z",
-    "city": "Thành phố Hồ Chí Minh",
-    "country": "Vietnam",
-    "location": "Thành phố Hồ Chí Minh, Vietnam",
-    "url": "https://lu.ma/xumr6pca",
-    "coverImage": "https://images.lumacdn.com/event-covers/rg/c92cd986-3601-4c86-b201-d528a8b2a65b.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-disccal-SJo1e6FEo6bPEEm",
     "name": "Blockchain Rio",
     "description": "Explore side events at Blockchain Rio from August 11-13, bringing together the crypto community in Rio de Janeiro.",
@@ -1775,34 +1313,6 @@
     "url": "https://lu.ma/blockchain-rio",
     "coverImage": "https://images.unsplash.com/photo-1593854586136-2edae149504c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwyMnx8cmlvJTIwZGUlMjBqYW5laXJvfGVufDB8fHx8MTc3MTI0NTk2NXwy&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-DCcMhOyROIHwaYC",
-    "name": "Stablecoins, Payments & Fintech Leaders",
-    "description": "",
-    "startDate": "2026-08-12T23:00:00.000Z",
-    "endDate": "2026-08-13T01:00:00.000Z",
-    "city": "",
-    "country": "Colombia",
-    "location": "Colombia",
-    "url": "https://lu.ma/colombia-6sqo",
-    "coverImage": "https://images.lumacdn.com/uploads/0l/bf333ea2-6d2f-4aee-b169-56a321c13186.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-78GVq4bR9wqlOti",
-    "name": "Foro Blockchain & Universidades",
-    "description": "",
-    "startDate": "2026-08-13T13:00:00.000Z",
-    "endDate": "2026-08-13T20:00:00.000Z",
-    "city": "Buenos Aires",
-    "country": "Argentina",
-    "location": "Buenos Aires, Argentina",
-    "url": "https://lu.ma/fuwozz5z",
-    "coverImage": "https://images.lumacdn.com/uploads/el/92f8c5d9-f5f5-42ab-949d-c48cbaae95d6.jpg",
-    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -1929,20 +1439,6 @@
     "url": "https://luma.com/sixp297m",
     "coverImage": "https://og.luma.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event?calendar_avatar=https%3A%2F%2Fimages.lumacdn.com%2Fcalendars%2F97%2F99ef3056-7787-4e83-9247-fca4d4fa948d&amp;calendar_name=Web3Privacy%20Now%20Events&amp;color0=%23070707&amp;color1=%23f6f6f6&amp;color2=%23454545&amp;color3=%23a3a3a3&amp;host_avatar=https%3A%2F%2Fimages.lumacdn.com%2Favatars%2Fvs%2Fef396a89-9292-4be0-ae22-8cae47057b6d&amp;host_name=Mykola%20x%20Web3Privacy%20now&amp;img=https%3A%2F%2Fimages.lumacdn.com%2Fevent-covers%2Fot%2F853d5947-6274-4b02-aa17-98daedcec8c0.png&amp;name=Web3Privacy%20now%20meetup&amp;palette_neutral=%23060606%3A59.39%2C%23f6f6f6%3A22.13",
     "source": "ethereum-org",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-IEYn9wcNbifCUEs",
-    "name": "DevConverge 2026 SP – O Futuro do Código: Devs + IAs",
-    "description": "",
-    "startDate": "2026-09-05T11:30:00.000Z",
-    "endDate": "2026-09-05T22:30:00.000Z",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "location": "São Paulo, Brazil",
-    "url": "https://lu.ma/gmrjgn41",
-    "coverImage": "https://images.lumacdn.com/uploads/nv/8c0de204-3111-412c-8e93-ea847cb62748.png",
-    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -2212,20 +1708,6 @@
     "month": "November 2026"
   },
   {
-    "id": "luma-evt-CyZRiDdLECiCPRS",
-    "name": "Ethereum Cypherpunk Congress #3",
-    "description": "",
-    "startDate": "2026-11-02T04:30:00.000Z",
-    "endDate": "2026-11-02T13:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://lu.ma/spsnos9t",
-    "coverImage": "https://images.lumacdn.com/event-covers/cv/284c4fdb-ab37-4cb2-9981-12311c5d62f0.png",
-    "source": "luma",
-    "month": "November 2026"
-  },
-  {
     "id": "luma-host-disccal-F2wb6yPKUkcnOBJ",
     "name": "Devcon",
     "description": "Explore side events at Devcon from Nov 3-6, where Ethereum developers and enthusiasts share insights and innovations in blockchain technology. \nManaged by the community (not Ethereum Foundation).",
@@ -2419,20 +1901,6 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-and-applications-icbta-2026-december-seoul-kr-1",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "December 2026"
-  },
-  {
-    "id": "luma-evt-t671wDnUAzkDrvu",
-    "name": "☕Coffee Chat Hangout by Web3 Digest — New Date Coming Soon",
-    "description": "",
-    "startDate": "2026-12-22T13:00:00.000Z",
-    "endDate": "2026-12-22T16:30:00.000Z",
-    "city": "Ikeja",
-    "country": "Nigeria",
-    "location": "Ikeja, Nigeria",
-    "url": "https://lu.ma/lpe4mdxt",
-    "coverImage": "https://images.lumacdn.com/event-covers/fe/87776d5b-0572-4eb5-8d30-bf0d0841d5ef.png",
-    "source": "luma",
     "month": "December 2026"
   },
   {
