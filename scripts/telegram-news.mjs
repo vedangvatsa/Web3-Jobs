@@ -114,7 +114,9 @@ function loadPosted() {
 }
 
 function savePosted(posted) {
-  fs.writeFileSync(POSTED_LOG, JSON.stringify([...posted]));
+  // Keep last 1000 to prevent infinite growth while safely avoiding duplicate URLs
+  const arr = [...posted].slice(-1000);
+  fs.writeFileSync(POSTED_LOG, JSON.stringify(arr));
 }
 
 // ── Fetch all RSS news ──
@@ -331,13 +333,14 @@ async function postOnce() {
   // Filter out already posted (by link AND by headline similarity)
   const posted = loadPosted();
   const postedHeadlines = [...posted].filter(p => !p.startsWith('http'));
+  const recentPostedHeadlines = postedHeadlines.slice(-150); // Only check similarity against recent headlines to avoid false positives with old history
   const postedLinks = [...posted].filter(p => p.startsWith('http'));
   const normalizedPostedLinks = new Set([...postedLinks].map(normalizeUrl));
 
   const fresh = allNews.filter(n => {
     if (normalizedPostedLinks.has(normalizeUrl(n.link))) return false;
     // Check against both rewritten headlines AND original titles stored from previous runs
-    if (postedHeadlines.some(h => isSimilar(n.title, h, 0.4))) return false;
+    if (recentPostedHeadlines.some(h => isSimilar(n.title, h, 0.4))) return false;
     return true;
   });
   console.log(`  ${fresh.length} not yet posted`);
@@ -366,7 +369,7 @@ async function postOnce() {
     if (seenUrls.has(normUrl)) continue; // Duplicate URL in selection
 
     // Programmatic check: prevent similarity with past headlines or currently selected ones
-    if (postedHeadlines.some(h => isSimilar(story.headline, h, 0.4))) {
+    if (recentPostedHeadlines.some(h => isSimilar(story.headline, h, 0.4))) {
       console.log(`⚠️ Pruned Gemini selection due to similarity with past headline: "${story.headline}"`);
       continue;
     }
@@ -411,7 +414,7 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
           const parsed = JSON.parse(jsonMatch[0]);
 
           // Programmatic check: prevent similarity with past headlines or currently selected ones
-          if (postedHeadlines.some(h => isSimilar(parsed.headline, h, 0.4))) {
+          if (recentPostedHeadlines.some(h => isSimilar(parsed.headline, h, 0.4))) {
             console.log(`⚠️ Pruned backfilled story due to similarity with past headline: "${parsed.headline}"`);
             continue;
           }
