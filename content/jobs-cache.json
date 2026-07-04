@@ -1,5 +1,37 @@
 [
   {
+    "id": "85245724",
+    "title": "Sales Development Representative (SDR) - Toronto",
+    "company": "Veem",
+    "link": "https://veem.applytojob.com/apply/ymIcltx9YF/Sales-Development-Representative-SDR-Toronto",
+    "date": "2026-07-04T10:21:59.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "85245423",
+    "title": "Senior Recruiter",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6108741004",
+    "date": "2026-07-04T10:17:32.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "85245422",
+    "title": "Senior Marketing Manager",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6108713004",
+    "date": "2026-07-04T10:17:31.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "85245420",
+    "title": "HR Lead",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6107851004",
+    "date": "2026-07-04T10:17:30.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
     "id": "8043641",
     "title": "Senior Finance Manager, Financial & Regulatory Reporting",
     "company": "Ripple",
@@ -182,6 +214,22 @@
     "link": "https://web3.career/video-editor-color-grader-bluecubeservices/149656",
     "date": "2026-07-03T19:29:57.000Z",
     "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85208277",
+    "title": "Account Manager - Compute Providers",
+    "company": "San Francisco Compute Company",
+    "link": "https://jobs.ashbyhq.com/sfcompute/b3402ea1-6fb3-4e29-b778-03b7325bad89",
+    "date": "2026-07-03T19:25:13.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "85208275",
+    "title": "Account Executive",
+    "company": "San Francisco Compute Company",
+    "link": "https://jobs.ashbyhq.com/sfcompute/4f361ed0-efa2-4b53-849b-51a051478d2c",
+    "date": "2026-07-03T19:25:13.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
   },
   {
     "id": "a053e021-e712-453c-9f8b-2e3194f5e7e9",
@@ -8007,6 +8055,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "4897491101",
+    "title": "HRBP Expert",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4897491101",
+    "date": "2026-06-16T22:13:13-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "6030949004",
     "title": "Senior Software Engineer - Advisory Suite",
     "company": "Alpaca",
@@ -15586,133 +15642,5 @@
     "link": "https://boards.greenhouse.io/bitgo/jobs/8577907002",
     "date": "2026-06-04T12:22:38.000Z",
     "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "81557327",
-    "title": "SEO Lead (Technical, Content & AEO)",
-    "company": "Yellow Card",
-    "link": "https://yellowcard.bamboohr.com/careers/387",
-    "date": "2026-06-04T11:25:31.000Z",
-    "source": "https://jobs.polychain.capital/jobs"
-  },
-  {
-    "id": "81557330",
-    "title": "Head of Paid Media",
-    "company": "Yellow Card",
-    "link": "https://yellowcard.bamboohr.com/careers/393",
-    "date": "2026-06-04T11:25:31.000Z",
-    "source": "https://jobs.polychain.capital/jobs"
-  },
-  {
-    "id": "81557329",
-    "title": "Senior Product Manager, Treasury Automation (Cross-Border Payments)",
-    "company": "Yellow Card",
-    "link": "https://yellowcard.bamboohr.com/careers/392",
-    "date": "2026-06-04T11:25:31.000Z",
-    "source": "https://jobs.polychain.capital/jobs"
-  },
-  {
-    "id": "78c6b3fd-cfa8-4c0a-b018-b3a88f0c67b7",
-    "title": "Engineering Manager",
-    "company": "Parity Technologies",
-    "link": "https://jobs.ashbyhq.com/Parity/78c6b3fd-cfa8-4c0a-b018-b3a88f0c67b7",
-    "date": "2026-06-04T10:40:55.913+00:00",
-    "source": "Ashby: Parity Technologies"
-  },
-  {
-    "id": "ffb2ba62-1678-49d7-896b-36d808d946b4",
-    "title": "Site Reliability Engineer II",
-    "company": "Zeta",
-    "link": "https://jobs.lever.co/zeta/ffb2ba62-1678-49d7-896b-36d808d946b4",
-    "date": "2026-06-04T09:38:33.497Z",
-    "source": "Lever: Zeta"
-  },
-  {
-    "id": "81534981",
-    "title": "Creative Director",
-    "company": "Wormhole",
-    "link": "https://jobs.ashbyhq.com/wormholelabs/eb62e3d2-f838-4c79-a472-8e500fa067b5",
-    "date": "2026-06-04T09:36:26.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "4878045101",
-    "title": "[L&C] Quality Assurance Director, Legal & Compliance",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4878045101",
-    "date": "2026-06-04T04:51:38-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4878045101",
-    "title": "Quality Assurance Director, Legal & Compliance",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4878045101",
-    "date": "2026-06-04T04:51:38-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4878079101",
-    "title": "[L&C] Senior Compliance Advisory Manager",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4878079101",
-    "date": "2026-06-04T04:48:51-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4878044101",
-    "title": "[L&C] Deputy Chief Compliance Officer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4878044101",
-    "date": "2026-06-04T04:42:28-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4882187101",
-    "title": "Relationship Manager",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882187101",
-    "date": "2026-06-04T04:37:43-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "44b997f0-ec80-442d-93e0-3210f0915216",
-    "title": "Binance Accelerator Program - UX Writer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/44b997f0-ec80-442d-93e0-3210f0915216",
-    "date": "2026-06-04T07:09:52.069Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "4882279101",
-    "title": "HRBP Expert",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882279101",
-    "date": "2026-06-04T02:58:10-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "7950828",
-    "title": "Head of Finance Operations",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7950828",
-    "date": "2026-06-04T02:45:23-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "4882246101",
-    "title": "[L&C] Lead Licensing Counsel",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882246101",
-    "date": "2026-06-04T01:12:17-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "7975698",
-    "title": "Product Support Operations Associate, Weekend Shift",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7975698",
-    "date": "2026-06-04T01:11:31-04:00",
-    "source": "Greenhouse: Stripe"
   }
 ]
