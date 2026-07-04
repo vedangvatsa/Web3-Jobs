@@ -1,5 +1,189 @@
 [
   {
+    "id": "8043641",
+    "title": "Senior Finance Manager, Financial & Regulatory Reporting",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8043641?gh_jid=8043641",
+    "date": "2026-07-03T17:01:30-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "8043686",
+    "title": "Senior Manager, Finance",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8043686?gh_jid=8043686",
+    "date": "2026-07-03T16:53:57-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "85216775",
+    "title": "Staff SecOps Engineer",
+    "company": "Ledger",
+    "link": "https://jobs.ashbyhq.com/ledger/65849575-f2e1-4445-83c9-07d88d2a3883",
+    "date": "2026-07-03T19:44:57.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "85211788",
+    "title": "Infrastructure Engineer DataOps Team",
+    "company": "Swell Network",
+    "link": "https://web3.career/infrastructure-engineer-dataops-team-bitgo/149635",
+    "date": "2026-07-03T19:30:01.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211785",
+    "title": "Senior IT Support Engineer UK Hybrid",
+    "company": "Swell Network",
+    "link": "https://web3.career/senior-it-support-engineer-uk-hybrid-brave/149636",
+    "date": "2026-07-03T19:30:01.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211777",
+    "title": "Lead Product Manager Money Movement Settlements",
+    "company": "Swell Network",
+    "link": "https://web3.career/lead-product-manager-money-movement-settlements-alpaca/149640",
+    "date": "2026-07-03T19:30:00.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211776",
+    "title": "Product Manager Internal Product",
+    "company": "Swell Network",
+    "link": "https://web3.career/product-manager-internal-product-alpaca/149641",
+    "date": "2026-07-03T19:30:00.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211784",
+    "title": "Senior Software Engineer Core Trading",
+    "company": "Swell Network",
+    "link": "https://web3.career/senior-software-engineer-core-trading-alpaca/149637",
+    "date": "2026-07-03T19:30:00.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211782",
+    "title": "Site Reliability Engineer",
+    "company": "Swell Network",
+    "link": "https://web3.career/site-reliability-engineer-alpaca/149638",
+    "date": "2026-07-03T19:30:00.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211779",
+    "title": "Lead Product Manager Accounts",
+    "company": "Swell Network",
+    "link": "https://web3.career/lead-product-manager-accounts-alpaca/149639",
+    "date": "2026-07-03T19:30:00.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211767",
+    "title": "Content Creator Social Media Manager Institutional",
+    "company": "Swell Network",
+    "link": "https://web3.career/content-creator-social-media-manager-institutional-bluecubeservices/149651",
+    "date": "2026-07-03T19:29:59.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211768",
+    "title": "Affiliate Marketing Specialist",
+    "company": "Swell Network",
+    "link": "https://web3.career/affiliate-marketing-specialist-bluecubeservices/149650",
+    "date": "2026-07-03T19:29:59.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211775",
+    "title": "Product Manager Money Movement Settlements",
+    "company": "Swell Network",
+    "link": "https://web3.career/product-manager-money-movement-settlements-alpaca/149642",
+    "date": "2026-07-03T19:29:59.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211769",
+    "title": "Staff Product Designer",
+    "company": "Swell Network",
+    "link": "https://web3.career/staff-product-designer-alpaca/149643",
+    "date": "2026-07-03T19:29:59.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211764",
+    "title": "Growth Marketer Perpetual Futres Prediction Markets",
+    "company": "Swell Network",
+    "link": "https://web3.career/growth-marketer-perpetual-futres-prediction-markets-bluecubeservices/149652",
+    "date": "2026-07-03T19:29:58.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211759",
+    "title": "Lead Generation Marketer Institutional",
+    "company": "Swell Network",
+    "link": "https://web3.career/lead-generation-marketer-institutional-bluecubeservices/149654",
+    "date": "2026-07-03T19:29:58.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211754",
+    "title": "Partnership CoMarketing Specialist",
+    "company": "Swell Network",
+    "link": "https://web3.career/partnership-co-marketing-specialist-bluecubeservices/149655",
+    "date": "2026-07-03T19:29:58.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211728",
+    "title": "AI Scientist Entrepreneur in Residence",
+    "company": "Swell Network",
+    "link": "https://web3.career/ai-scientist-entrepreneur-in-residence-molecule-xyz/149665",
+    "date": "2026-07-03T19:29:57.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211746",
+    "title": "Wealth Lending Marketing Specialist",
+    "company": "Swell Network",
+    "link": "https://web3.career/wealth-lending-marketing-specialist-bluecubeservices/149657",
+    "date": "2026-07-03T19:29:57.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211735",
+    "title": "Director Loan Accounting",
+    "company": "Swell Network",
+    "link": "https://web3.career/director-loan-accounting-figure/149661",
+    "date": "2026-07-03T19:29:57.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211740",
+    "title": "Collateral Associate Capital Markets - Residential Mortgage Due Diligence",
+    "company": "Swell Network",
+    "link": "https://web3.career/collateral-associate-capital-markets-residential-mortgage-due-diligence-figure/149660",
+    "date": "2026-07-03T19:29:57.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211730",
+    "title": "Commercial Counsel",
+    "company": "Swell Network",
+    "link": "https://web3.career/commercial-counsel-li-fi/149664",
+    "date": "2026-07-03T19:29:57.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "85211748",
+    "title": "Video Editor Color Grader",
+    "company": "Swell Network",
+    "link": "https://web3.career/video-editor-color-grader-bluecubeservices/149656",
+    "date": "2026-07-03T19:29:57.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
     "id": "a053e021-e712-453c-9f8b-2e3194f5e7e9",
     "title": "Analista de Growth Pleno - Cards Acquisition | Afirmativa para Pessoas com Deficiência",
     "company": "Neon EVM",
@@ -14,6 +198,38 @@
     "link": "https://jobs.lever.co/neon/47d36b69-8398-4cbc-ad73-53dfb4a277c5",
     "date": "2026-07-03T18:20:48.607Z",
     "source": "Lever: Neon EVM"
+  },
+  {
+    "id": "85184947",
+    "title": "Architecture Lead",
+    "company": "Kast",
+    "link": "https://careers.kast.xyz/en/postings/d261a454-70d9-4bd8-b17d-de9918b1b498",
+    "date": "2026-07-03T18:07:36.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "85184949",
+    "title": "Database Engineering Lead",
+    "company": "Kast",
+    "link": "https://careers.kast.xyz/en/postings/f2707bae-2831-4fbb-9b26-4ca60d31762b",
+    "date": "2026-07-03T18:07:36.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "85183490",
+    "title": "Customer Success Associate",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8589053002",
+    "date": "2026-07-03T18:01:06.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "85177435",
+    "title": "Technical Program Manager, Information Security",
+    "company": "Openfx",
+    "link": "https://boards.greenhouse.io/openfx/jobs/5264054008",
+    "date": "2026-07-03T17:37:22.000Z",
+    "source": "https://jobs.variant.fund/jobs"
   },
   {
     "id": "8045355",
@@ -40,6 +256,54 @@
     "source": "Greenhouse: Blockchain.com"
   },
   {
+    "id": "85130515",
+    "title": "NDT Level II Inspector, Capabilities",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/ndt-level-ii-inspector-capabilities-at-hadrian-4375295010",
+    "date": "2026-07-03T15:56:32.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "85130510",
+    "title": "Manufacturing Engineer, Tube Bending",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/manufacturing-engineer-tube-bending-at-hadrian-4376225387",
+    "date": "2026-07-03T15:56:31.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "85130511",
+    "title": "Build Engineer, Capabilities",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/build-engineer-capabilities-at-hadrian-4377799734",
+    "date": "2026-07-03T15:56:31.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "85130512",
+    "title": "NDT Engineer, Capabilities",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/ndt-engineer-capabilities-at-hadrian-4375297011",
+    "date": "2026-07-03T15:56:31.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "85130513",
+    "title": "Welding Specialist",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/welding-specialist-at-hadrian-4315457219",
+    "date": "2026-07-03T15:56:31.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "85112178",
+    "title": "Senior Manager, Sales (Mid-Market & Enterprise)",
+    "company": "Greenhouse",
+    "link": "https://boards.greenhouse.io/greenhouse/jobs/8035483",
+    "date": "2026-07-03T14:46:42.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
     "id": "8619336002",
     "title": "VP, Customer Experience & Services",
     "company": "ComplyAdvantage",
@@ -48,12 +312,52 @@
     "source": "Greenhouse: ComplyAdvantage"
   },
   {
+    "id": "85104521",
+    "title": "Head of Client Onboarding",
+    "company": "Codex",
+    "link": "https://jobs.ashbyhq.com/codex/2a37e6ef-ccd1-4508-ae0e-265c22bee0fd",
+    "date": "2026-07-03T14:25:36.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "85089526",
+    "title": "Revenue Transformation Analyst",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/892ed5b8-a654-49ac-a55b-fabea1b236c1",
+    "date": "2026-07-03T12:57:42.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "85089528",
+    "title": "Business Development Manager, Product & Platform",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/f603aedb-1454-4a75-b2f0-a3afb2a8f973",
+    "date": "2026-07-03T12:57:42.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "85089527",
+    "title": "AI Chat Support Lead",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/c45b0b2a-0634-4cda-8b9b-ea6427093915",
+    "date": "2026-07-03T12:57:42.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
     "id": "7793630003",
     "title": "Senior Agent, Customer Service (German Speaker)",
     "company": "OKX",
     "link": "https://job-boards.greenhouse.io/okx/jobs/7793630003",
     "date": "2026-07-03T08:24:57-04:00",
     "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "85086794",
+    "title": "EU Managing Director",
+    "company": "Nala",
+    "link": "https://apply.workable.com/nalamoney/j/528FBBD194",
+    "date": "2026-07-03T12:22:20.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "8044460",
@@ -70,6 +374,14 @@
     "link": "https://jobs.lever.co/binance/f607edcb-9e41-4a76-be9a-12989e30d9f2",
     "date": "2026-07-03T11:53:27.891Z",
     "source": "Lever: Binance"
+  },
+  {
+    "id": "85076108",
+    "title": "Business Development Manager",
+    "company": "CoW DAO",
+    "link": "https://jobs.ashbyhq.com/cow-dao/dfbcc129-2d97-4611-94e3-3df5507c42ad",
+    "date": "2026-07-03T10:48:50.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
   },
   {
     "id": "43baf1b2-998b-4c19-979f-0fc80031c5ac",
@@ -94,6 +406,70 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4918366101",
     "date": "2026-07-03T05:16:24-04:00",
     "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "85060362",
+    "title": "Fintech Graduate Software Engineer (Backend) - Submissions",
+    "company": "Suade",
+    "link": "https://apply.workable.com/suade/j/67D795D3DE",
+    "date": "2026-07-03T09:06:04.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "85060363",
+    "title": "Enterprise Sales Account Executive - UK",
+    "company": "Suade",
+    "link": "https://apply.workable.com/suade/j/E36E8BEE12",
+    "date": "2026-07-03T09:06:04.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "85060353",
+    "title": "Software Engineer - XBRL 2026",
+    "company": "Suade",
+    "link": "https://apply.workable.com/suade/j/9C43981D17",
+    "date": "2026-07-03T09:06:01.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "85057684",
+    "title": "Solutions Engineer",
+    "company": "Spearbit",
+    "link": "https://pod5.app.loxo.co/job/NDQ1MDItcDRibzJ1YnYxcm5oOW9vZQ==",
+    "date": "2026-07-03T08:46:50.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
+    "id": "85057677",
+    "title": "Full Stack Engineer",
+    "company": "Spearbit",
+    "link": "https://pod5.app.loxo.co/job/NDQ1MDItcWN0aTA5Yms5aXhodGozNA==",
+    "date": "2026-07-03T08:46:49.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
+    "id": "85057679",
+    "title": "General Application",
+    "company": "Spearbit",
+    "link": "https://pod5.app.loxo.co/job/NDQ1MDItcW12Y3A3Z2tmdGQxc2h1cw==",
+    "date": "2026-07-03T08:46:49.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
+    "id": "85057681",
+    "title": "Cantina - Security Researcher",
+    "company": "Spearbit",
+    "link": "https://pod5.app.loxo.co/job/NDQ1MDIta2hwNHBtbzM5bTNoZjlobg==",
+    "date": "2026-07-03T08:46:49.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
+    "id": "85057672",
+    "title": "Accounting Specialist",
+    "company": "Spearbit",
+    "link": "https://pod5.app.loxo.co/job/NDQ1MDItc3lhZnZnY2M2eHpmc2h2Yg==",
+    "date": "2026-07-03T08:46:48.000Z",
+    "source": "https://nascent.getro.com/jobs"
   },
   {
     "id": "c1ba880c-a399-4372-9b54-0483cc049099",
@@ -152,6 +528,38 @@
     "source": "https://jobs.solana.com/jobs"
   },
   {
+    "id": "85023531",
+    "title": "B2B Sales Manager – Sempo",
+    "company": "Sempo",
+    "link": "https://jobs.solana.com/companies/sempo/jobs/85023531-b2b-sales-manager-sempo",
+    "date": "2026-07-03T03:52:17.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "85022641",
+    "title": "Business Development Lead",
+    "company": "World",
+    "link": "https://world.org/job/0bfbf9a4-979f-41d5-bb43-43da378034a2",
+    "date": "2026-07-03T03:40:13.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "85022639",
+    "title": "Head of Product, Device",
+    "company": "World",
+    "link": "https://world.org/job/bbea67f0-c460-40c9-83d9-bc01ff2e2a85",
+    "date": "2026-07-03T03:40:12.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "85022640",
+    "title": "Website UI/UX Designer",
+    "company": "World",
+    "link": "https://world.org/job/b775ad86-6f12-4c21-810f-37ea85fcb51c",
+    "date": "2026-07-03T03:40:12.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "5a488d90-b241-4092-85aa-a3982fd8b62c",
     "title": "Growth Content Manager (Sports & Prediction Markets)",
     "company": "Crypto",
@@ -166,6 +574,14 @@
     "link": "https://jobs.lever.co/coingecko/c367a909-cce9-421c-b64c-588b1c3200ee",
     "date": "2026-07-03T02:35:45.957Z",
     "source": "Lever: CoinGecko"
+  },
+  {
+    "id": "85014352",
+    "title": "Senior Director, Strategic Initiatives for MoonPay Institutional",
+    "company": "Decent.xyz",
+    "link": "https://jobs.lever.co/moonpay/ec75f897-31ce-436a-b5e1-3420a883e131",
+    "date": "2026-07-03T02:21:30.000Z",
+    "source": "https://jobs.archetype.fund/jobs"
   },
   {
     "id": "85011272",
@@ -350,6 +766,30 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/8044227?t=gh_src=&gh_jid=8044227",
     "date": "2026-07-02T13:54:50-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "84964485",
+    "title": "Senior Backend Engineer",
+    "company": "Moonshot",
+    "link": "https://jobs.ashbyhq.com/moonshot/e1417b0c-b499-43a0-bfd9-88c6ecbbd1e9",
+    "date": "2026-07-02T17:53:33.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "84964484",
+    "title": "Lifecycle Marketing Manager",
+    "company": "Moonshot",
+    "link": "https://jobs.ashbyhq.com/moonshot/37de5c6f-f600-49c9-a6f2-8ea03fd32955",
+    "date": "2026-07-02T17:53:32.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "84958767",
+    "title": "Senior Product Manager - Trading-as-a-service",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/bd75ddab-ed65-4302-9687-d53302f18a97",
+    "date": "2026-07-02T16:39:20.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
   },
   {
     "id": "8040052",
@@ -728,6 +1168,14 @@
     "source": "https://jobs.dragonfly.xyz/jobs"
   },
   {
+    "id": "84871924",
+    "title": "Customer Support Representative",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6104755004",
+    "date": "2026-07-01T14:18:32.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
     "id": "84870304",
     "title": "Head of AFC (Remote - Work from Anywhere)",
     "company": "Xapo",
@@ -758,6 +1206,46 @@
     "link": "https://jobs.ashbyhq.com/ramp/f0e3a8bb-5f86-4ce1-b345-80d8912f9ddc",
     "date": "2026-07-01T14:12:47.507+00:00",
     "source": "Ashby: Ramp"
+  },
+  {
+    "id": "84855274",
+    "title": "Mid-Market Account Manager",
+    "company": "Greenhouse",
+    "link": "https://boards.greenhouse.io/greenhouse/jobs/8022507",
+    "date": "2026-07-01T13:55:00.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "84855269",
+    "title": "Data Scientist",
+    "company": "Greenhouse",
+    "link": "https://boards.greenhouse.io/greenhouse/jobs/8017323",
+    "date": "2026-07-01T13:55:00.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "84844195",
+    "title": "Recruiting Program Manager",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/6b9d5c16-450a-42e4-af2a-d492460ca811",
+    "date": "2026-07-01T13:34:59.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "84844196",
+    "title": "Technical Recruiter, Early Career",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/e3e0c9e9-4c9a-4390-b713-27d465bce2f1",
+    "date": "2026-07-01T13:34:59.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "84821908",
+    "title": "Senior Software Engineer (Backend): Fiat Integrations",
+    "company": "BVNK",
+    "link": "https://boards.greenhouse.io/bvnk/jobs/4913158101",
+    "date": "2026-07-01T12:52:15.000Z",
+    "source": "https://coinbase.getro.com/jobs"
   },
   {
     "id": "84786155",
@@ -1062,6 +1550,14 @@
     "link": "https://jobs.ashbyhq.com/trm-labs/010cf705-79cc-435b-b44c-5422b0305dae",
     "date": "2026-06-30T22:21:26.460+00:00",
     "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "8039800",
+    "title": "Software Engineer, Product Security Data Platforms",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8039800",
+    "date": "2026-06-30T18:11:48-04:00",
+    "source": "Greenhouse: Stripe"
   },
   {
     "id": "8035198",
@@ -3844,6 +4340,14 @@
     "company": "DV Trading",
     "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4708572005",
     "date": "2026-06-24T13:28:45-04:00",
+    "source": "Greenhouse: DV Trading"
+  },
+  {
+    "id": "4709047005",
+    "title": "2026 Graduate Trader (DV Equities)",
+    "company": "DV Trading",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4709047005",
+    "date": "2026-06-24T13:27:52-04:00",
     "source": "Greenhouse: DV Trading"
   },
   {
@@ -9917,6 +10421,14 @@
     "source": "Ashby: TRM Labs"
   },
   {
+    "id": "7976919",
+    "title": "Crypto Product Compliance Lead",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7976919?t=gh_src=&gh_jid=7976919",
+    "date": "2026-06-11T19:10:35-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
     "id": "7993680",
     "title": "Business Development Manager, Agentic Commerce",
     "company": "Stripe",
@@ -14212,6 +14724,14 @@
     "source": "https://jobs.dcg.co/jobs"
   },
   {
+    "id": "6015127004",
+    "title": "Data Center Risk Associate",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6015127004",
+    "date": "2026-06-05T09:09:34-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "81721089",
     "title": "Technical Gameplay Animator (Combat/ARPG Focus) - Unreal Engine",
     "company": "Illuvium",
@@ -15193,156 +15713,6 @@
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=7975698",
     "date": "2026-06-04T01:11:31-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "1dc0cc40-c39a-4ba7-a160-7d6cb5aa1e1c",
-    "title": "AI Operations Specialist",
-    "company": "CoinMarketCap",
-    "link": "https://jobs.lever.co/coinmarketcap/1dc0cc40-c39a-4ba7-a160-7d6cb5aa1e1c",
-    "date": "2026-06-04T03:31:15.805Z",
-    "source": "Lever: CoinMarketCap"
-  },
-  {
-    "id": "4882191101",
-    "title": "SRE Leader",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882191101",
-    "date": "2026-06-03T22:56:59-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4882189101",
-    "title": "Devops Expert",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882189101",
-    "date": "2026-06-03T22:45:30-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4882185101",
-    "title": "Principal Security Operation Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882185101",
-    "date": "2026-06-03T22:39:51-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "0f15a120-01f8-4785-a5a4-14b29f873136",
-    "title": "Paralegal, Litigation",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/0f15a120-01f8-4785-a5a4-14b29f873136",
-    "date": "2026-06-04T02:00:23.087+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "7763203003",
-    "title": "Partner 18, IT Engineer, San Francisco/Menlo Park",
-    "company": "a16z",
-    "link": "https://a16z.com/about/jobs/?gh_jid=7763203003",
-    "date": "2026-06-03T20:31:40-04:00",
-    "source": "Greenhouse: a16z"
-  },
-  {
-    "title": "Operations & Delivery Manager - JioBLAST",
-    "company": "Blast",
-    "link": "https://apply.workable.com/blast/j/undefined/",
-    "date": "2026-06-04",
-    "source": "Workable: Blast"
-  },
-  {
-    "title": "Team Operations Manager - Supercell (Fixed‑Term Contract to Jan 2028)",
-    "company": "Blast",
-    "link": "https://apply.workable.com/blast/j/undefined/",
-    "date": "2026-06-04",
-    "source": "Workable: Blast"
-  },
-  {
-    "id": "7978584",
-    "title": "Paid Search Marketing Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7978584",
-    "date": "2026-06-03T19:07:12-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "c1f527d2-9b43-47b2-9f83-09a67cb4ad2a",
-    "title": "TRM-CDC Senior All-Source Intelligence Analyst (DC, MD, VA only)",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/c1f527d2-9b43-47b2-9f83-09a67cb4ad2a",
-    "date": "2026-06-03T22:45:35.858+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "7979885",
-    "title": "Central Engineering Finance & Strategy",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7979885",
-    "date": "2026-06-03T18:13:18-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7979885",
-    "title": "Finance & Strategy Partner, Central Engineering",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7979885",
-    "date": "2026-06-03T18:13:18-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7724142003",
-    "title": "DevX / Developer Operations (Partner 16, Partner 18), ASG",
-    "company": "a16z",
-    "link": "https://a16z.com/about/jobs/?gh_jid=7724142003",
-    "date": "2026-06-03T17:27:54-04:00",
-    "source": "Greenhouse: a16z"
-  },
-  {
-    "id": "6013555004",
-    "title": "Brokerage Operations Associate I - ACATS",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6013555004",
-    "date": "2026-06-03T17:25:55-04:00",
-    "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "7980514",
-    "title": "Risk Operations Team Lead, Bridge KYC/KYB",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7980514",
-    "date": "2026-06-03T17:22:46-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7980523",
-    "title": "iOS Engineer",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7980523?t=gh_src=&gh_jid=7980523",
-    "date": "2026-06-03T17:09:32-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7980498",
-    "title": "Staff Product Manager, Cards Monetization",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7980498",
-    "date": "2026-06-03T16:55:09-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7967358",
-    "title": "Engineering Manager, Invoicing",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7967358",
-    "date": "2026-06-03T16:32:25-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7967358",
-    "title": "Engineering Manager, Subscriptions",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7967358",
-    "date": "2026-06-03T16:32:25-04:00",
     "source": "Greenhouse: Stripe"
   }
 ]
