@@ -3,7 +3,7 @@
     "id": "luma-evt-pxUeD9etov2sjcB",
     "name": "OPENING -KOI NO YOKAN- POLYGON1993",
     "description": "",
-    "startDate": "2026-07-04T16:00:00.000Z",
+    "startDate": "2026-07-04T16:30:00.000Z",
     "endDate": "2026-07-04T22:00:00.000Z",
     "city": "Paris",
     "country": "France",
@@ -514,6 +514,20 @@
     "location": "Beverly Hills, United States",
     "url": "https://lu.ma/f1v9yg2s",
     "coverImage": "https://images.lumacdn.com/uploads/li/dffaf207-f6dd-4411-956e-b1976f3c8b14.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-JRloloPOnjwowzA",
+    "name": "Coworking Fridays Belgrade | Superteam Balkan",
+    "description": "A community of founders, developers, and innovators working to grow and promote the Solana ecosystem across the Balkans.",
+    "startDate": "2026-07-10T07:00:00.000Z",
+    "endDate": "2026-07-10T15:00:00.000Z",
+    "city": "Beograd",
+    "country": "Serbia",
+    "location": "Beograd, Serbia",
+    "url": "https://lu.ma/coworking-fridays-belgrade",
+    "coverImage": "https://images.lumacdn.com/event-covers/97/7daf8a9d-64e6-4135-9959-37de003af068.png",
     "source": "luma-trusted",
     "month": "July 2026"
   },
@@ -1036,20 +1050,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-host-evt-JZ11bxM7DQj2xCD",
-    "name": "Co-Working Fridays : London Chapter",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-07-17T09:00:00.000Z",
-    "endDate": "2026-07-17T19:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/london-july-17",
-    "coverImage": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-host-evt-aEDlT5umM9speas",
     "name": "Skyline Coworking",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -1535,7 +1535,7 @@
     "country": "",
     "location": "Online",
     "url": "https://x.com/hedera/status/2025987462342881611",
-    "coverImage": "https://pbs.twimg.com/profile_images/1657693585234337792/0Y5Y6bnW_200x200.jpg",
+    "coverImage": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
     "source": "coinmarketcap",
     "month": "July 2026"
   },
@@ -1552,34 +1552,6 @@
     "coverImage": "https://pbs.twimg.com/profile_images/1874758416658509824/UPaVddbm_200x200.jpg",
     "source": "coinmarketcap",
     "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-ZOyhqruWqmuII2w",
-    "name": "Fairways & Friends",
-    "description": "",
-    "startDate": "2026-07-31T03:00:00.000Z",
-    "endDate": "2026-07-31T05:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/ixuzgbhx",
-    "coverImage": "https://images.lumacdn.com/uploads/rx/a37c5856-8f24-4e80-b942-03e5f0a49ccf.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-dUBFfP9ju0U0kWl",
-    "name": "Plant It Forward: Surrey",
-    "description": "",
-    "startDate": "2026-08-01T17:45:00.000Z",
-    "endDate": "2026-08-01T19:45:00.000Z",
-    "city": "Surrey",
-    "country": "Canada",
-    "location": "Surrey, Canada",
-    "url": "https://lu.ma/qylupg15",
-    "coverImage": "https://images.lumacdn.com/uploads/rh/c043b194-2252-4d70-95bd-2782525175b4.png",
-    "source": "luma",
-    "month": "August 2026"
   },
   {
     "id": "luma-host-evt-LCPk4rgLBELZAO3",
@@ -1680,20 +1652,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-J6FD5pFOxRSZgKx",
-    "name": "Bitcoin Block Party",
-    "description": "",
-    "startDate": "2026-08-23T18:00:00.000Z",
-    "endDate": "2026-08-24T02:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/ed63hjqz",
-    "coverImage": "https://images.lumacdn.com/gallery-images/3o/1eac0497-1680-41a6-ba52-6b3b2cc61025",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-disccal-Kval7gVvigLoQYN",
     "name": "Bitcoin Asia",
     "description": "Bitcoin Asia returns to Hong Kong on August 27–28, bringing together the region’s top minds to explore Bitcoin’s evolution, adoption, and infrastructure.",
@@ -1745,7 +1703,7 @@
     "country": "UAE",
     "location": "Dubai, UAE, UAE",
     "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/04/unchained-summit-dubai-may-2026-an-event-by-aeternum.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2026"
   },
