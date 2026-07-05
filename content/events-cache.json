@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-host-evt-mFNsEmxysj4AhEB",
-    "name": "Crypto Padel x SuperteamNL",
-    "description": "Private Padel matches for Web3 founders, investors & builders within the blockchain industry 💎\n\nJoin: https://t.co/FNWGXrzTWw",
-    "startDate": "2026-07-05T17:00:00.000Z",
-    "endDate": "2026-07-05T19:00:00.000Z",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://lu.ma/3kxbg0af",
-    "coverImage": "https://images.lumacdn.com/uploads/ha/af87c9ff-3524-4562-b03e-6d6457e669dd.jpg",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-GVL0vS6lwk0bb5A",
     "name": "Beyond the Boundary: AI Leaders @ SF Unicorns vs MI New York",
     "description": "",
@@ -70,20 +56,6 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315285511",
-    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
-    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
-    "startDate": "2026-07-06T12:00:00-04:00",
-    "endDate": "2026-07-06T12:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/315285511/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/2/2/3/600_525981027.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-18946GhoZBlWAIG",
     "name": "2026 Silicon Valley Women Leaders Summit",
     "description": "",
@@ -123,20 +95,6 @@
     "url": "https://lu.ma/CryptoMondaysWallStJuly6th",
     "coverImage": "https://images.lumacdn.com/uploads/yh/3bb2aee4-4291-4db6-9a96-0f9cb25f3646.gif",
     "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-315290174",
-    "name": "Online Bitcoin Hangout",
-    "description": "**Online Bitcoin Hangout**\nThis virtual meetup is perfect for anyone interested in Bitcoin who can't (or prefers not to) attend our in-person events in Charlotte. This is an informal hangout where we ",
-    "startDate": "2026-07-06T18:30:00-04:00",
-    "endDate": "2026-07-06T18:30:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/bitcoincharlotte/events/315290174/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/3/d/c/600_533034236.jpeg",
-    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -196,6 +154,34 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315418390",
+    "name": "Emerging Tech Coffee — A Monthly Morning Conversation",
+    "description": "Once a month at Coffee Drunk inside Galvanize Phoenix. Open, friendly conversation about crypto, AI, Web3, and everything emerging in between. No agenda, just curious people and good coffee.",
+    "startDate": "2026-07-07T08:00:00-07:00",
+    "endDate": "2026-07-07T08:00:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/315418390/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/d/c/c/600_534919916.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315418389",
+    "name": "Emerging Tech Coffee — A Monthly Morning Conversation",
+    "description": "Once a month at Coffee Drunk inside Galvanize Phoenix. Open, friendly conversation about crypto, AI, Web3, and everything emerging in between. No agenda, just curious people and good coffee.",
+    "startDate": "2026-07-07T08:00:00-07:00",
+    "endDate": "2026-07-07T08:00:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/etcarizona/events/315418389/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/d/b/5/600_534919893.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-IHVkQCMRi7B5VKe",
     "name": "Web3.Sunset Valencia",
     "description": "",
@@ -252,16 +238,16 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315234094",
+    "id": "mu-315234101",
     "name": "Lineth Technical Deep Dive: Inside the Production-Grade ZK Rollup Stack",
     "description": "With the announcement of Lineth ([https://github.com/LFDT-Lineth](https://github.com/LFDT-Lineth)) as a new Linux Foundation Decentralized Trust incubating project, we're opening the hood on the full ",
-    "startDate": "2026-07-08T09:00:00-04:00",
-    "endDate": "2026-07-08T09:00:00-04:00",
+    "startDate": "2026-07-08T06:00:00-07:00",
+    "endDate": "2026-07-08T06:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-north-carolina/events/315234094/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/2/a/4/5/600_534790821.jpeg",
+    "url": "https://www.meetup.com/lfdt-phoenix/events/315234101/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/a/3/a/600_534790810.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
@@ -280,16 +266,16 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-314981958",
+    "id": "mu-314981930",
     "name": "Architecture for Sustaining Open Source in Web 3",
     "description": "Open source is the foundation of Web3, but most ecosystems still fund it like a series of short-term projects instead of long-term public infrastructure. As decentralized networks grow, the real chall",
-    "startDate": "2026-07-08T11:00:00-04:00",
-    "endDate": "2026-07-08T11:00:00-04:00",
+    "startDate": "2026-07-08T08:00:00-07:00",
+    "endDate": "2026-07-08T08:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-north-carolina/events/314981958/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/9/2/3/600_535026435.jpeg",
+    "url": "https://www.meetup.com/lfdt-phoenix/events/314981930/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/1/8/d/5/600_535026357.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
@@ -350,6 +336,34 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315418496",
+    "name": "Workshop Wednesday · July 8",
+    "description": "A conversation about one of crypto's most pivotal moments — the fork that split Ethereum from Ethereum Classic. Why it happened, what the community learned, and what builders today can take from that ",
+    "startDate": "2026-07-08T18:00:00-07:00",
+    "endDate": "2026-07-08T18:00:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/etcarizona/events/315418496/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/e/4/7/600_534920039.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315418497",
+    "name": "Workshop Wednesday · July 8",
+    "description": "A conversation about one of crypto's most pivotal moments — the fork that split Ethereum from Ethereum Classic. Why it happened, what the community learned, and what builders today can take from that ",
+    "startDate": "2026-07-08T18:00:00-07:00",
+    "endDate": "2026-07-08T18:00:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/315418497/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/e/4/8/600_534920040.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-T2tQkKnZEqXWxYO",
     "name": "Superteam India Community Call [2026]",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -403,20 +417,6 @@
     "url": "https://lu.ma/i69kqepl",
     "coverImage": "https://images.lumacdn.com/uploads/e3/acc27f79-9af5-49ba-9497-24147b4e32c7.png",
     "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-315287594",
-    "name": "State of AI (Online)",
-    "description": "AI initiatives stall when there are no trusted internal champions to carry them forward.\n\n​In this State of AI Leadership session, we’ll explore how organizations can intentionally develop AI champion",
-    "startDate": "2026-07-09T18:30:00-04:00",
-    "endDate": "2026-07-09T18:30:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/triangle-javascript/events/315287594/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/e/8/9/2/600_534779538.jpeg",
-    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -501,6 +501,20 @@
     "url": "https://lu.ma/f1v9yg2s",
     "coverImage": "https://images.lumacdn.com/uploads/li/dffaf207-f6dd-4411-956e-b1976f3c8b14.png",
     "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315338287",
+    "name": "Crypto talk - Money is Freedom; currency is slavery ",
+    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
+    "startDate": "2026-07-09T19:00:00-07:00",
+    "endDate": "2026-07-09T19:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cashflow-271/events/315338287/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/c/2/600_501417026.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -658,20 +672,6 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315146189",
-    "name": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
-    "description": "Are you an AI engineer, data scientist, machine learning researcher, or aspiring innovator in the world of artificial intelligence? **AIConnect** is your dynamic **AI networking event online** designe",
-    "startDate": "2026-07-10T17:00:00-04:00",
-    "endDate": "2026-07-10T17:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/ac-rdu/events/315146189/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/9/f/1/1/600_525040721.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-dd6Nt8MjjdsJN03",
     "name": "Pragmatic Dharma Brooklyn Sangha",
     "description": "",
@@ -798,6 +798,20 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315402825",
+    "name": "Community Day hangout",
+    "description": "This event is a good way to meet and greet, hangout, chat with others. Limited space to try to keep things more manageable and personable. The hope is to make this a more common event going forward.\n\n",
+    "startDate": "2026-07-11T16:00:00-07:00",
+    "endDate": "2026-07-11T16:00:00-07:00",
+    "city": "Chandler",
+    "country": "us",
+    "location": "Chandler, us",
+    "url": "https://www.meetup.com/move-towards-your-best-life/events/315402825/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/6/1/a/600_522354810.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-disccal-d8ZzDq6IAZ2BG0l",
     "name": "WebX",
     "description": "WebX lands in Tokyo from July 13–14, bringing together builders, investors, and innovators shaping the next wave of Web3 and digital tech in Asia. Unofficial side events.",
@@ -882,34 +896,6 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-314762063",
-    "name": "Maryland Blockchain Association & CryptoMondays In Person Meetup",
-    "description": "We are hosting our First In Person Maryland Blockchain Association-CryptoMondays Meetup with Special Guest: Lou Kerner.\n\nThis event is a side event to the BlockchAIn Bootcamp & Workforce Expo being he",
-    "startDate": "2026-07-13T17:30:00-04:00",
-    "endDate": "2026-07-13T17:30:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/314762063/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/a/f/600_527389071.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-315412073",
-    "name": "Transforming Data-Driven Decisions w/ Microsoft Fabric & GenAI",
-    "description": "In an era where timely, data-driven decisions define competitive success, Microsoft Fabric’s newest real-time intelligence capabilities are setting new standards. This presentation dives into how Fabr",
-    "startDate": "2026-07-14T12:00:00-04:00",
-    "endDate": "2026-07-14T12:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/data-platform-wit/events/315412073/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/6/b/1/600_494705809.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-host-evt-RxFE8LIzCStVAq5",
     "name": "Meetup Online: She Is Solana",
     "description": "",
@@ -980,6 +966,20 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315398958",
+    "name": "Artificial Intelligence and Blockchain Discussion",
+    "description": "Join us for an engaging discussion on the latest advancements in Artificial Intelligence and Blockchain technology. Our event will cover topics such as Machine Learning, Ethereum, Smart Contracts, and",
+    "startDate": "2026-07-16T16:00:00-07:00",
+    "endDate": "2026-07-16T16:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/ai-blockchain-more-tech/events/315398958/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/e/2/7/600_521728199.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-evt-AmBdnUr3UVGZyW3",
     "name": "Building the Silicon Valley of Carbon in BC",
     "description": "",
@@ -1005,6 +1005,20 @@
     "url": "https://defillama.com/unlocks/arbitrum",
     "coverImage": null,
     "source": "coinmarketcap",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-lhY4gVwoizFTEAO",
+    "name": "Superteam Poland Co-work: Kraków",
+    "description": "",
+    "startDate": "2026-07-17T07:00:00.000Z",
+    "endDate": "2026-07-17T16:00:00.000Z",
+    "city": "Kraków",
+    "country": "Poland",
+    "location": "Kraków, Poland",
+    "url": "https://lu.ma/co-work24",
+    "coverImage": "https://images.lumacdn.com/event-covers/7p/4d6ba980-2290-443d-8175-1b90bfc0ca71.png",
+    "source": "luma-trusted",
     "month": "July 2026"
   },
   {
@@ -1047,6 +1061,34 @@
     "url": "https://lu.ma/canada-crypto-week",
     "coverImage": "https://images.lumacdn.com/calendar-cover-images/wj/dd05149d-2d52-4530-9351-93eff06004b5",
     "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315418469",
+    "name": "Social Saturday · July 18",
+    "description": "Casual community meetup with the Arizona Web3 scene. No pitch decks, no panels — good people, good drinks. Location shared with RSVPs.",
+    "startDate": "2026-07-18T18:00:00-07:00",
+    "endDate": "2026-07-18T18:00:00-07:00",
+    "city": "Tempe",
+    "country": "US",
+    "location": "Tempe, US",
+    "url": "https://www.meetup.com/etcarizona/events/315418469/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/e/3/1/600_534920017.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315418470",
+    "name": "Social Saturday · July 18",
+    "description": "Casual community meetup with the Arizona Web3 scene. No pitch decks, no panels — good people, good drinks. Location shared with RSVPs.",
+    "startDate": "2026-07-18T18:00:00-07:00",
+    "endDate": "2026-07-18T18:00:00-07:00",
+    "city": "Tempe",
+    "country": "US",
+    "location": "Tempe, US",
+    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/315418470/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/e/3/a/600_534920026.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -1162,34 +1204,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-spf1jCQFsFdodyW",
-    "name": "AGENTIC AI DAY @ Blockchain Futurist Conference",
-    "description": "",
-    "startDate": "2026-07-21T19:00:00.000Z",
-    "endDate": "2026-07-21T22:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/Agentic_AI_Day",
-    "coverImage": "https://images.lumacdn.com/uploads/vw/5abe28a4-2d0c-4090-8cc6-93f5b2f4154c.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-312821920",
-    "name": "Capitol City Bitcoin meetup - virtual",
-    "description": "Let’s talk about bitcoin, crypto and what’s going on in South Carolina ! You must RSVP in advance to obtain the video link.\nThis will be scheduled on the third Tuesday of every month.",
-    "startDate": "2026-07-21T19:00:00-04:00",
-    "endDate": "2026-07-21T19:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/312821920/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/c/9/4/1/600_499671521.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-3IGqWlTmFTJ6YBs",
     "name": "Bitcoin 202: Passphrases & Child Keys — Multiply Your Security Without Multiplying Your Keys",
     "description": "",
@@ -1257,6 +1271,34 @@
     "url": "https://lu.ma/hgcu6iig",
     "coverImage": "https://images.lumacdn.com/uploads/a6/e976486d-3c37-449e-b8e7-473eab586c2c.png",
     "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315418511",
+    "name": "Workshop Wednesday · July 22",
+    "description": "Triple-feature evening. Nico of Acre Finance on building Web3 communities, an ETC roundtable on the state of crypto in Arizona, and Dimitri Kustov on clear crypto accounting.",
+    "startDate": "2026-07-22T18:00:00-07:00",
+    "endDate": "2026-07-22T18:00:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/etcarizona/events/315418511/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/e/5/7/600_534920055.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315418512",
+    "name": "Workshop Wednesday · July 22",
+    "description": "Triple-feature evening. Nico of Acre Finance on building Web3 communities, an ETC roundtable on the state of crypto in Arizona, and Dimitri Kustov on clear crypto accounting.",
+    "startDate": "2026-07-22T18:00:00-07:00",
+    "endDate": "2026-07-22T18:00:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/315418512/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/e/4/e/600_534920046.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -1400,6 +1442,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-evt-fRCafNKZlPYOVyg",
+    "name": "MTG PLACE x STRONG",
+    "description": "",
+    "startDate": "2026-07-26T21:00:00.000Z",
+    "endDate": "2026-07-26T22:45:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/x77f7657",
+    "coverImage": "https://images.lumacdn.com/uploads/dk/bb1a7217-9687-45d4-96e3-ed8fe99e4af6.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
     "id": "ma-rare-evo-2026",
     "name": "Rare Evo 2026",
     "description": "Rare Evo is a blockchain conference presented by Rare Network, a team with decades of collective experience in technology and producing events. The organizers welcome projects across blockchains, lead",
@@ -1456,16 +1512,16 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315536100",
+    "id": "mu-315536079",
     "name": "ZK Learning Group: Basics of Leo and Aleo",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-07-30T12:00:00-04:00",
-    "endDate": "2026-07-30T12:00:00-04:00",
+    "startDate": "2026-07-30T09:00:00-07:00",
+    "endDate": "2026-07-30T09:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-north-carolina/events/315536100/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/0/0/600_535043552.jpeg",
+    "url": "https://www.meetup.com/lfdt-phoenix/events/315536079/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/b/d/0/600_535043504.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
