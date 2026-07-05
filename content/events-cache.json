@@ -1,47 +1,5 @@
 [
   {
-    "id": "luma-evt-pxUeD9etov2sjcB",
-    "name": "OPENING -KOI NO YOKAN- POLYGON1993",
-    "description": "",
-    "startDate": "2026-07-04T16:30:00.000Z",
-    "endDate": "2026-07-04T22:00:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/8op8972s",
-    "coverImage": "https://images.lumacdn.com/uploads/jg/ce0a8d8e-3685-43ce-96c5-ae1159e5ae4e.gif",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-nGf2mZZySompSw5",
-    "name": "Semiconductor Meetup For Top 7 MBA Alumni Hosted by Global MBA Network",
-    "description": "",
-    "startDate": "2026-07-04T21:00:00.000Z",
-    "endDate": "2026-07-04T23:00:00.000Z",
-    "city": "Los Altos",
-    "country": "United States",
-    "location": "Los Altos, United States",
-    "url": "https://lu.ma/w3no0ryq",
-    "coverImage": "https://images.lumacdn.com/uploads/02/3fe6e23b-bae8-4f2d-b217-c69f4bfb77ff.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-hBVglypbe4RgIQ3",
-    "name": "Walk&AfterWalk - BookSwap",
-    "description": "",
-    "startDate": "2026-07-05T12:00:00.000Z",
-    "endDate": "2026-07-05T13:00:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/zit8axik",
-    "coverImage": "https://images.lumacdn.com/event-covers/ej/f1a84473-07d9-4f60-b33f-e40ae00acebb.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-host-evt-mFNsEmxysj4AhEB",
     "name": "Crypto Padel x SuperteamNL",
     "description": "Private Padel matches for Web3 founders, investors & builders within the blockchain industry 💎\n\nJoin: https://t.co/FNWGXrzTWw",
@@ -53,20 +11,6 @@
     "url": "https://lu.ma/3kxbg0af",
     "coverImage": "https://images.lumacdn.com/uploads/ha/af87c9ff-3524-4562-b03e-6d6457e669dd.jpg",
     "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
-    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
-    "description": "",
-    "startDate": "2026-07-05T00:00:00.000Z",
-    "endDate": "2026-07-05T00:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-july-singapore-sg",
-    "coverImage": null,
-    "source": "conferenceindex",
     "month": "July 2026"
   },
   {
@@ -93,7 +37,7 @@
     "country": "",
     "location": "Virtual / TBA",
     "url": "https://lu.ma/coworking-superteamin",
-    "coverImage": "https://images.lumacdn.com/uploads/ld/76414ca4-20e3-4454-9d09-fedb0c68af20.png",
+    "coverImage": "https://images.lumacdn.com/uploads/1r/b5ddcd8e-f60d-49d3-b548-2857c99f23a9.png",
     "source": "luma-trusted",
     "month": "July 2026"
   },
@@ -150,6 +94,20 @@
     "location": "Santa Clara, United States",
     "url": "https://lu.ma/ff95b5xc",
     "coverImage": "https://images.lumacdn.com/uploads/z2/f38b5e7d-fe84-4305-a0f7-658cba53916b.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-AupsAM3StMjUf4z",
+    "name": "CRYPTOMONDAYS Wall St BACK TO THE HUMANS",
+    "description": "",
+    "startDate": "2026-07-06T21:30:00.000Z",
+    "endDate": "2026-07-07T00:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/c28xtrts",
+    "coverImage": "https://images.lumacdn.com/uploads/sz/45266138-e9d6-45b3-84ef-a883c839c5e0.png",
     "source": "luma",
     "month": "July 2026"
   },
@@ -308,6 +266,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-oGq7JRJkO9n7UNV",
+    "name": "Superteam member office hours",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-07-08T14:00:00.000Z",
+    "endDate": "2026-07-08T15:30:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/member-office-hours",
+    "coverImage": "https://images.lumacdn.com/uploads/xl/017ccbe7-5650-42c1-8aa6-c1fe9fe67b9d.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
     "id": "mu-314981958",
     "name": "Architecture for Sustaining Open Source in Web 3",
     "description": "Open source is the foundation of Web3, but most ecosystems still fund it like a series of short-term projects instead of long-term public infrastructure. As decentralized networks grow, the real chall",
@@ -375,6 +347,20 @@
     "url": "https://conferenceindex.org/event/blockchain-and-internet-of-things-conference-biotc-2026-july-tokyo-jp-1",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-T2tQkKnZEqXWxYO",
+    "name": "Superteam India Community Call [2026]",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-07-09T12:30:00.000Z",
+    "endDate": "2026-07-09T13:10:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/stin-commcall-2026",
+    "coverImage": "https://images.lumacdn.com/event-covers/qo/cbcdd981-6871-45fe-aaab-4bae6cffab27",
+    "source": "luma-trusted",
     "month": "July 2026"
   },
   {
@@ -779,7 +765,7 @@
     "country": "United States",
     "location": "San Francisco, United States",
     "url": "https://lu.ma/hermesbuildathonSF",
-    "coverImage": "https://images.lumacdn.com/uploads/x1/f3875b1c-e228-44e6-a274-e22775407a1d.png",
+    "coverImage": "https://images.lumacdn.com/uploads/kb/6f782f46-fa49-46b3-85b0-d4592162e518.png",
     "source": "luma",
     "month": "July 2026"
   },
@@ -1022,34 +1008,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-host-evt-lhY4gVwoizFTEAO",
-    "name": "Superteam Poland Co-work: Kraków",
-    "description": "",
-    "startDate": "2026-07-17T07:00:00.000Z",
-    "endDate": "2026-07-17T16:00:00.000Z",
-    "city": "Kraków",
-    "country": "Poland",
-    "location": "Kraków, Poland",
-    "url": "https://lu.ma/co-work24",
-    "coverImage": "https://images.lumacdn.com/event-covers/7p/4d6ba980-2290-443d-8175-1b90bfc0ca71.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-6XAWwMk7WErshY2",
-    "name": "Talent Hub Friday's @ Dogpatch",
-    "description": "Superteam Ireland is the Irish chapter of the global Superteam network.\n\nWe’re a community of founders, engineers, operators, and creators building on Solana.",
-    "startDate": "2026-07-17T08:30:00.000Z",
-    "endDate": "2026-07-17T17:00:00.000Z",
-    "city": "Dublin 1",
-    "country": "Ireland",
-    "location": "Dublin 1, Ireland",
-    "url": "https://lu.ma/tenfuaap",
-    "coverImage": "https://images.lumacdn.com/uploads/3o/1f44a975-b205-4fe2-a642-1bc1279d40fa.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-host-evt-aEDlT5umM9speas",
     "name": "Skyline Coworking",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -1134,6 +1092,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-evt-6TVrqEDNedjZmi5",
+    "name": "Proof of Buckets 🏀✅ | A Canada Crypto Week Side Event",
+    "description": "",
+    "startDate": "2026-07-20T18:00:00.000Z",
+    "endDate": "2026-07-20T20:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/yeujr4jn",
+    "coverImage": "https://images.lumacdn.com/uploads/yc/1c209bee-3cc5-489d-af41-53f452daa289.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-evt-Qwyk3gVEWKZckbs",
     "name": "CryptoMonday Toronto @ Blockchain Futurist Conference",
     "description": "",
@@ -1187,6 +1159,20 @@
     "url": "https://www.futuristconference.com",
     "coverImage": "https://cdn.prod.website-files.com/61e8788db85eabd9f0305f67/6942e90fa1e312fcc9ece24b_1920x1080%20Cover%20Banner%20for%20TORONTO%202026.webp",
     "source": "marketacross",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-spf1jCQFsFdodyW",
+    "name": "AGENTIC AI DAY @ Blockchain Futurist Conference",
+    "description": "",
+    "startDate": "2026-07-21T19:00:00.000Z",
+    "endDate": "2026-07-21T22:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/Agentic_AI_Day",
+    "coverImage": "https://images.lumacdn.com/uploads/vw/5abe28a4-2d0c-4090-8cc6-93f5b2f4154c.png",
+    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -1535,7 +1521,7 @@
     "country": "",
     "location": "Online",
     "url": "https://x.com/hedera/status/2025987462342881611",
-    "coverImage": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+    "coverImage": "https://pbs.twimg.com/profile_images/1657693585234337792/0Y5Y6bnW_200x200.jpg",
     "source": "coinmarketcap",
     "month": "July 2026"
   },
@@ -1703,7 +1689,7 @@
     "country": "UAE",
     "location": "Dubai, UAE, UAE",
     "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": null,
+    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/04/unchained-summit-dubai-may-2026-an-event-by-aeternum.jpg",
     "source": "marketacross",
     "month": "September 2026"
   },
@@ -2196,5 +2182,19 @@
     "coverImage": "https://images.lumacdn.com/uploads/px/1961f942-3a75-4335-a4e5-a1ebe72e1810.png",
     "source": "luma-trusted",
     "month": "June 2027"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
+    "description": "",
+    "startDate": "2027-07-05T00:00:00.000Z",
+    "endDate": "2027-07-05T00:00:00.000Z",
+    "city": "Singapore",
+    "country": "Singapore",
+    "location": "Singapore, Singapore",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-july-singapore-sg",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "July 2027"
   }
 ]
