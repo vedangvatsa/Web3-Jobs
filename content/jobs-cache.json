@@ -1,5 +1,109 @@
 [
   {
+    "id": "7795796003",
+    "title": "Data Operations Engineer, X-Layer",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7795796003",
+    "date": "2026-07-06T07:53:35-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "c55bcd68-325d-4349-803e-9740eedc5b33",
+    "title": "MLRO - Pakistan",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/c55bcd68-325d-4349-803e-9740eedc5b33",
+    "date": "2026-07-06T10:53:34.464Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "ac1ff79a-18ad-4a0b-b237-70d37ffafcb2",
+    "title": "General Manager, West Africa",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/ac1ff79a-18ad-4a0b-b237-70d37ffafcb2",
+    "date": "2026-07-06T10:49:48.180Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "7795778003",
+    "title": "Senior/Staff Engineer, Operations Automation & Cloud Management Platform",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7795778003",
+    "date": "2026-07-06T06:10:57-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7795777003",
+    "title": "Product Manager, R&D Efficiency Platform",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7795777003",
+    "date": "2026-07-06T06:08:05-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7795773003",
+    "title": "Staff/Senior Staff Web3 Big Data Engineer",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7795773003",
+    "date": "2026-07-06T06:06:47-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7795766003",
+    "title": "Staff Software Engineer, Mobile Security",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7795766003",
+    "date": "2026-07-06T05:16:35-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7795714003",
+    "title": "Senior/Staff Engineer, Security Platform Development",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7795714003",
+    "date": "2026-07-06T04:39:32-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7795698003",
+    "title": "Senior/Staff Engineer, R&D Efficiency Platform",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7795698003",
+    "date": "2026-07-06T04:33:02-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "6d42592d-22a5-4070-a37a-8bcb61c8371e",
+    "title": "Player Experience Specialist (AI & Automation)",
+    "company": "Sorare",
+    "link": "https://jobs.ashbyhq.com/Sorare/6d42592d-22a5-4070-a37a-8bcb61c8371e",
+    "date": "2026-07-06T08:25:41.708+00:00",
+    "source": "Ashby: Sorare"
+  },
+  {
+    "id": "2e602e2d-498f-4838-aaaa-1ac58253ec74",
+    "title": "Payments Liquidity Lead",
+    "company": "Polygon Labs",
+    "link": "https://jobs.ashbyhq.com/polygon-labs/2e602e2d-498f-4838-aaaa-1ac58253ec74",
+    "date": "2026-07-06T08:22:29.108+00:00",
+    "source": "Ashby: Polygon Labs"
+  },
+  {
+    "id": "a26d7d57-a930-49b3-8245-1f9cb91f59cd",
+    "title": "Legal Counsel, Europe",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/a26d7d57-a930-49b3-8245-1f9cb91f59cd",
+    "date": "2026-07-06T02:44:39.669Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "6109321004",
+    "title": "Production Support Engineer (Mumbai)",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6109321004",
+    "date": "2026-07-05T22:16:24-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "4910234101",
     "title": "Risk Operations Lead",
     "company": "Bybit",
@@ -494,6 +598,14 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7793630003",
     "date": "2026-07-03T08:24:57-04:00",
     "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7f4d579c-40f1-4f5e-a595-dcbd86ce6106",
+    "title": "Binance Accelerator Program - DevSecOps Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/7f4d579c-40f1-4f5e-a595-dcbd86ce6106",
+    "date": "2026-07-03T12:22:28.227Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "85086794",
@@ -2645,6 +2757,14 @@
     "link": "https://jobs.ashbyhq.com/ramp/e7f612e1-a9db-41a3-9e4f-9e6389c9111d",
     "date": "2026-06-29T17:26:10.126+00:00",
     "source": "Ashby: Ramp"
+  },
+  {
+    "id": "8612272002",
+    "title": "Senior Manager of AI Solution Marketing (Remote)",
+    "company": "Axiom",
+    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8612272002&gh_jid=8612272002",
+    "date": "2026-06-29T13:22:23-04:00",
+    "source": "Greenhouse: Axiom"
   },
   {
     "id": "42527ca9-03b9-499e-a5c4-18e4245af138",
@@ -6533,6 +6653,14 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777048003",
     "date": "2026-06-19T11:25:57-04:00",
     "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "8601067002",
+    "title": "Corporate Controller",
+    "company": "Axiom",
+    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8601067002&gh_jid=8601067002",
+    "date": "2026-06-19T11:10:58-04:00",
+    "source": "Greenhouse: Axiom"
   },
   {
     "id": "83382080",
@@ -12517,6 +12645,14 @@
     "source": "Ashby: Elliptic"
   },
   {
+    "id": "fc2037d4-b11d-4cef-9dbe-de38edddb91e",
+    "title": "Head of People - U.S.",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/fc2037d4-b11d-4cef-9dbe-de38edddb91e",
+    "date": "2026-06-09T20:20:35.436+00:00",
+    "source": "Ashby: Elliptic"
+  },
+  {
     "id": "8591ebe3-e3fb-40c1-a296-54a5c0f3d94d",
     "title": "Senior Data Engineer",
     "company": "Elliptic",
@@ -14364,6 +14500,14 @@
     "source": "https://jobs.polychain.capital/jobs"
   },
   {
+    "id": "4687466006",
+    "title": "Software Engineer - Blockchain",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/4687466006?gh_jid=4687466006",
+    "date": "2026-06-07T05:37:38-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
     "id": "81903840",
     "title": "Security Engineer",
     "company": "Offchain Labs",
@@ -14474,221 +14618,5 @@
     "link": "https://jobs.ashbyhq.com/kraken.com/29d21b3a-ff85-4ddc-9224-ae7bc90f505b",
     "date": "2026-06-06T12:55:24.000Z",
     "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "81848338",
-    "title": "General Counsel",
-    "company": "Unto Labs",
-    "link": "https://jobs.ashbyhq.com/unto-labs/25708e3d-f518-45ab-84cf-c763cffa4611",
-    "date": "2026-06-06T12:11:04.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "81848332",
-    "title": "Forward Deployed Engineer - Full-Stack",
-    "company": "San Francisco Compute Company",
-    "link": "https://jobs.ashbyhq.com/sfcompute/2d723ede-00f6-4353-ae88-531f86dc2db8",
-    "date": "2026-06-06T12:10:54.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "81848156",
-    "title": "Site Manager",
-    "company": "Fortitude Mining",
-    "link": "https://boards.greenhouse.io/fortitudeminingllc/jobs/4274999009",
-    "date": "2026-06-06T12:09:37.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "81842088",
-    "title": "Partner Development Manager",
-    "company": "BVNK",
-    "link": "https://boards.greenhouse.io/bvnk/jobs/4876678101",
-    "date": "2026-06-06T11:41:49.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "81829841",
-    "title": "Staff Software Engineer, Graphs",
-    "company": "Chainalysis",
-    "link": "https://jobs.ashbyhq.com/chainalysis-careers/65afb10c-1d7b-4d6f-b6a3-377c3efb4d8a",
-    "date": "2026-06-06T10:44:48.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "81829839",
-    "title": "Senior Operations Analyst",
-    "company": "Chainalysis",
-    "link": "https://jobs.ashbyhq.com/chainalysis-careers/e5735ecc-d5ef-4f41-a666-89d318c8c679",
-    "date": "2026-06-06T10:44:48.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "81820587",
-    "title": "Sales Executive, EMEA",
-    "company": "Fordefi",
-    "link": "https://jobs.ashbyhq.com/FORDEFIJobs.ashbyhq.com/967a5690-0625-4db8-85e3-fdfb721035af",
-    "date": "2026-06-06T06:49:56.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "81820586",
-    "title": "Sales Executive, APAC",
-    "company": "Fordefi",
-    "link": "https://jobs.ashbyhq.com/FORDEFIJobs.ashbyhq.com/b4d4ad67-c10b-45ce-a30d-4624694aeec9",
-    "date": "2026-06-06T06:49:55.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "4bf72ced-b09f-4b42-a4b3-92b38ff21025",
-    "title": "Customer Engineer",
-    "company": "Render Network",
-    "link": "https://jobs.ashbyhq.com/Render/4bf72ced-b09f-4b42-a4b3-92b38ff21025",
-    "date": "2026-06-06T04:29:40.059+00:00",
-    "source": "Ashby: Render Network"
-  },
-  {
-    "id": "0bdccba9-a35f-4f04-8206-0e796f927674",
-    "title": "Director of Business Intelligence",
-    "company": "Jane",
-    "link": "https://jobs.ashbyhq.com/jane/0bdccba9-a35f-4f04-8206-0e796f927674",
-    "date": "2026-06-06T00:30:33.061+00:00",
-    "source": "Ashby: Jane"
-  },
-  {
-    "id": "7764201003",
-    "title": "Partner 22, Senior Recruiter",
-    "company": "a16z",
-    "link": "https://a16z.com/about/jobs/?gh_jid=7764201003",
-    "date": "2026-06-05T20:20:55-04:00",
-    "source": "Greenhouse: a16z"
-  },
-  {
-    "id": "7955051",
-    "title": "Operations Associate - Bridge",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7955051",
-    "date": "2026-06-05T19:44:56-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7765261003",
-    "title": "VIP Relationship Director, LATAM",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7765261003",
-    "date": "2026-06-05T19:15:08-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7985368",
-    "title": "Finance & Strategy Analyst",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7985368",
-    "date": "2026-06-05T19:12:22-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7986185",
-    "title": "Staff Engineer, Billing",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7986185",
-    "date": "2026-06-05T18:44:19-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "e6e92a56-1476-48cf-857e-2ea873047a27",
-    "title": "Lead - POC Data Science",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/e6e92a56-1476-48cf-857e-2ea873047a27",
-    "date": "2026-06-05T22:34:56.094+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "7985981",
-    "title": "Institutional Trader",
-    "company": "Flow Traders",
-    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7985981",
-    "date": "2026-06-05T17:07:31-04:00",
-    "source": "Greenhouse: Flow Traders"
-  },
-  {
-    "id": "4685684006",
-    "title": "Copy of Full Stack Engineer, Blockchain",
-    "company": "Fireblocks",
-    "link": "https://www.fireblocks.com/careers/position/4685684006?gh_jid=4685684006",
-    "date": "2026-06-05T17:00:01-04:00",
-    "source": "Greenhouse: Fireblocks"
-  },
-  {
-    "id": "4685684006",
-    "title": "Software Engineer, Blockchain",
-    "company": "Fireblocks",
-    "link": "https://www.fireblocks.com/careers/position/4685684006?gh_jid=4685684006",
-    "date": "2026-06-05T17:00:01-04:00",
-    "source": "Greenhouse: Fireblocks"
-  },
-  {
-    "id": "7589765",
-    "title": "Senior Product Manager, Crypto Trading",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7589765?t=gh_src=&gh_jid=7589765",
-    "date": "2026-06-05T16:56:19-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "3e4f7006-4c1b-4661-beab-be4dbfe624e3",
-    "title": "Strategic People Operations Partner",
-    "company": "Jane",
-    "link": "https://jobs.ashbyhq.com/jane/3e4f7006-4c1b-4661-beab-be4dbfe624e3",
-    "date": "2026-06-05T20:50:59.239+00:00",
-    "source": "Ashby: Jane"
-  },
-  {
-    "id": "8580957002",
-    "title": "Corporate Controller",
-    "company": "Axiom",
-    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8580957002&gh_jid=8580957002",
-    "date": "2026-06-05T16:42:50-04:00",
-    "source": "Greenhouse: Axiom"
-  },
-  {
-    "id": "8580953002",
-    "title": "Senior Manager of AI Solution Marketing (Remote)",
-    "company": "Axiom",
-    "link": "https://www.axiomlaw.com/careers/headquarters/available-positions?job=8580953002&gh_jid=8580953002",
-    "date": "2026-06-05T16:42:07-04:00",
-    "source": "Greenhouse: Axiom"
-  },
-  {
-    "id": "f98771d6-e685-4b91-a466-71789c238e33",
-    "title": "Sales Development Representative | Inbound",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/f98771d6-e685-4b91-a466-71789c238e33",
-    "date": "2026-06-05T20:40:01.832+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "7982720",
-    "title": "Secure Device Mobile Engineer",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7982720",
-    "date": "2026-06-05T16:09:40-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7982720",
-    "title": "Security Engineer, Mobile",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7982720",
-    "date": "2026-06-05T16:09:40-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7982720",
-    "title": "Mobile Security Engineer",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7982720",
-    "date": "2026-06-05T16:09:40-04:00",
-    "source": "Greenhouse: Stripe"
   }
 ]
