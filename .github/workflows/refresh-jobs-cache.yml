@@ -106,6 +106,12 @@ jobs:
         run: node scripts/telegram-ai-news.mjs
         continue-on-error: true
 
+      - name: Post to Telegram (AI Jobs)
+        env:
+          TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
+          TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
+        run: node scripts/telegram-ai-jobs.mjs
+        continue-on-error: true
 
 
       - name: Commit and push updated cache and state
