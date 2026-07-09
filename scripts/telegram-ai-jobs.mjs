@@ -164,11 +164,13 @@ function formatMessage(jobs) {
   const lines = jobs.map(j => {
     const title = escapeHtml(j.title);
     const company = escapeHtml(j.company);
-    const location = escapeHtml(j.location);
-    return `<a href="${j.link}"><b>${title}</b></a>\n${company} · ${location}`;
+    return `• ${company} is hiring <a href="${j.link}">${title}</a>`;
   });
 
-  return lines.join('\n\n');
+  let text = lines.join('\n');
+  text += `\n\n_\n`;
+  text += `Web3 Jobs: <a href="https://t.me/web3hiring">t.me/web3hiring</a>`;
+  return text;
 }
 
 function escapeHtml(text) {
