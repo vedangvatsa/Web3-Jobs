@@ -1,7 +1,151 @@
 [
   {
+    "id": "8060147",
+    "title": "Senior Corporate Counsel",
+    "company": "Spire",
+    "link": "https://spire.com/careers/job-openings/job/?gh_jid=8060147&gh_jid=8060147",
+    "date": "2026-07-13T14:25:06-04:00",
+    "source": "Greenhouse: Spire"
+  },
+  {
+    "id": "8060324",
+    "title": "Product Marketing Manager, Bridge/Stablecoins",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8060324",
+    "date": "2026-07-13T13:59:32-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7801774003",
+    "title": "Sr Software Engineer, Front End",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7801774003",
+    "date": "2026-07-13T13:40:43-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "6df79a74-fcbe-4b12-8e9f-19d99ab0d68e",
+    "title": "Head of Learning Experience",
+    "company": "Ethena",
+    "link": "https://jobs.lever.co/ethena/6df79a74-fcbe-4b12-8e9f-19d99ab0d68e",
+    "date": "2026-07-13T16:36:18.913Z",
+    "source": "Lever: Ethena"
+  },
+  {
+    "id": "6114658004",
+    "title": "Executive Assistant, Trading & Research",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6114658004",
+    "date": "2026-07-13T12:32:19-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "e5eff614-f469-4a08-a0fd-4976200f8c77",
+    "title": "Head of Cyber Missions",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/e5eff614-f469-4a08-a0fd-4976200f8c77",
+    "date": "2026-07-13T16:06:23.145+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "8048193",
+    "title": "Account Executive, Financial Services, Grower",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8048193",
+    "date": "2026-07-13T11:54:32-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8056065",
+    "title": "Solutions Architect",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8056065?gh_jid=8056065",
+    "date": "2026-07-13T11:53:23-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8052544",
+    "title": "Staff DevOps Engineer",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8052544?gh_jid=8052544",
+    "date": "2026-07-13T11:50:31-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "8054046",
+    "title": "Program Manager",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8054046?gh_jid=8054046",
+    "date": "2026-07-13T11:27:19-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "2b63c90d-18ff-4113-b5f0-814251be1b3e",
+    "title": "Software Development Manager - Insurance",
+    "company": "Jane",
+    "link": "https://jobs.ashbyhq.com/jane/2b63c90d-18ff-4113-b5f0-814251be1b3e",
+    "date": "2026-07-13T14:19:46.259+00:00",
+    "source": "Ashby: Jane"
+  },
+  {
+    "id": "86173479",
+    "title": "Business Development Manager, LATAM",
+    "company": "Utila",
+    "link": "https://www.comeet.com/jobs/utila/D9.00F/business-development-manager-latam/A2.E64",
+    "date": "2026-07-13T13:58:01.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "7802627003",
+    "title": "Product Manager, User Center",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7802627003",
+    "date": "2026-07-13T09:19:01-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "86162637",
+    "title": "Technical Client Success Manager - Singapore",
+    "company": "Elwood Technologies",
+    "link": "https://boards.greenhouse.io/elwoodtechnologies/jobs/6114296004",
+    "date": "2026-07-13T13:01:55.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "86162488",
+    "title": "Sr. Security Engineer",
+    "company": "Brave",
+    "link": "https://boards.greenhouse.io/brave/jobs/8048968",
+    "date": "2026-07-13T13:00:24.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "6113939004",
+    "title": "Clearing Operations Associate - Corporate Actions - Overnight 2AM - 11AM EST",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6113939004",
+    "date": "2026-07-13T08:57:55-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "6113944004",
+    "title": "Senior Software Engineer - Payments & Treasury",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6113944004",
+    "date": "2026-07-13T08:54:43-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
     "id": "8055050",
     "title": "Integration Engineer (Customer facing), Professional Services",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8055050",
+    "date": "2026-07-13T08:16:39-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8055050",
+    "title": "Integration Engineer, Professional Services",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=8055050",
     "date": "2026-07-13T08:16:39-04:00",
@@ -80,6 +224,14 @@
     "source": "Lever: Binance"
   },
   {
+    "id": "7802313003",
+    "title": "Business Development Manager, Affiliate (Southeast Asia)",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7802313003",
+    "date": "2026-07-13T03:33:56-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "4925803101",
     "title": "Senior VIP Relationship Specialist, Brazil",
     "company": "Bybit",
@@ -152,12 +304,44 @@
     "source": "https://coinbase.getro.com/jobs"
   },
   {
+    "id": "86095548",
+    "title": "Senior Product Designer",
+    "company": "Axis Pay",
+    "link": "https://eg.linkedin.com/jobs/view/senior-product-designer-at-axis-4434865329",
+    "date": "2026-07-12T14:29:07.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "86095539",
+    "title": "IT Administrator",
+    "company": "Axis Pay",
+    "link": "https://eg.linkedin.com/jobs/view/it-administrator-at-axis-4435663985",
+    "date": "2026-07-12T14:29:07.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "86095543",
+    "title": "Network Security Engineer",
+    "company": "Axis Pay",
+    "link": "https://eg.linkedin.com/jobs/view/network-security-engineer-at-axis-4435661992",
+    "date": "2026-07-12T14:29:07.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "86094828",
     "title": "BD Manager, Payments & OTC",
     "company": "Matrixport",
     "link": "https://sg.linkedin.com/jobs/view/bd-manager-payments-otc-at-bit-official-4436897758",
     "date": "2026-07-12T14:27:36.000Z",
     "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "86094801",
+    "title": "Senior Solutions Architect, Banking and Capital Markets",
+    "company": "Chainlink",
+    "link": "https://uk.linkedin.com/jobs/view/senior-solutions-architect-banking-and-capital-markets-at-chainlink-labs-4437490403",
+    "date": "2026-07-12T14:27:31.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
   },
   {
     "id": "86085932",
@@ -198,6 +382,30 @@
     "link": "https://world.org/job/4335d9e4-a7b1-4bc8-bd7b-d22079481585",
     "date": "2026-07-12T13:52:26.000Z",
     "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "86048346",
+    "title": "Account Administration Associate",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8611133002",
+    "date": "2026-07-12T13:26:47.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "86048352",
+    "title": "Application Security Engineer",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8582241002",
+    "date": "2026-07-12T13:26:47.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "86048359",
+    "title": "Senior Manager, Tax",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8614525002",
+    "date": "2026-07-12T13:26:47.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "86030847",
@@ -13355,62 +13563,6 @@
     "company": "Utila",
     "link": "https://www.comeet.com/jobs/utila/D9.00F/sales-lead--europe-and-middle-east/6D.C67",
     "date": "2026-06-13T20:14:28.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "8004054",
-    "title": "Payments Performance Strategist, Card Authorization",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8004054",
-    "date": "2026-06-13T15:16:34-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "82660225",
-    "title": "Creative Campaign Strategist",
-    "company": "RedStone",
-    "link": "https://redstone.traffit.com/public/an/56699d30d3b2c54e3a9a5b19d9a26238396a453d?source=career_page",
-    "date": "2026-06-13T18:37:14.000Z",
-    "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "f2837b1f-2916-49b1-9dfe-787bf4f3730c",
-    "title": "Solutions Architect",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/f2837b1f-2916-49b1-9dfe-787bf4f3730c",
-    "date": "2026-06-13T14:44:08.030+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "e6b2197d-9b1f-46ef-b6bc-0e8a973f76a4",
-    "title": "Manager, All Source Investigations (US-only)",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/e6b2197d-9b1f-46ef-b6bc-0e8a973f76a4",
-    "date": "2026-06-13T14:38:29.940+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "82646488",
-    "title": "Senior Product Designer",
-    "company": "Axis Pay",
-    "link": "https://eg.linkedin.com/jobs/view/senior-product-designer-at-axis-4421571774",
-    "date": "2026-06-13T13:48:31.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "82646485",
-    "title": "Network Security Engineer",
-    "company": "Axis Pay",
-    "link": "https://eg.linkedin.com/jobs/view/network-security-engineer-at-axis-4422281252",
-    "date": "2026-06-13T13:48:31.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "82646486",
-    "title": "Mobile Engineer",
-    "company": "Axis Pay",
-    "link": "https://eg.linkedin.com/jobs/view/mobile-engineer-at-axis-4422288467",
-    "date": "2026-06-13T13:48:31.000Z",
     "source": "https://jobs.dcg.co/jobs"
   }
 ]
