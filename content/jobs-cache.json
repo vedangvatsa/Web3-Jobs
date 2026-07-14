@@ -1,5 +1,117 @@
 [
   {
+    "id": "c7f3609c-9e7b-48e7-9e8a-815561d3ceed",
+    "title": "Senior Commercial Analyst",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/c7f3609c-9e7b-48e7-9e8a-815561d3ceed",
+    "date": "2026-07-14T10:23:11.813+00:00",
+    "source": "Ashby: Elliptic"
+  },
+  {
+    "id": "8063857",
+    "title": "Fraud Operations Team Lead",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8063857",
+    "date": "2026-07-14T06:03:17-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "86196525",
+    "title": "Email Marketing Partner (Freelancer or Agency)",
+    "company": "Merge",
+    "link": "https://uk.linkedin.com/jobs/view/email-marketing-partner-freelancer-or-agency-at-merge-4439765037",
+    "date": "2026-07-14T09:46:48.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "86196398",
+    "title": "Lead Talent Partner, Engineering",
+    "company": "Chainlink",
+    "link": "https://www.linkedin.com/jobs/view/lead-talent-partner-engineering-at-chainlink-labs-4437430496",
+    "date": "2026-07-14T09:43:22.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "0de37732-ab17-4b6d-8507-58039706abda",
+    "title": "Risk Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/0de37732-ab17-4b6d-8507-58039706abda",
+    "date": "2026-07-14T08:50:10.476Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "b19b7ecb-6f08-4558-a14f-ab92024b9146",
+    "title": "Internal Auditor",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/b19b7ecb-6f08-4558-a14f-ab92024b9146",
+    "date": "2026-07-14T08:46:36.462Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "24e3f280-7407-4619-9e81-9952df77e65c",
+    "title": "Deputy MLRO",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/24e3f280-7407-4619-9e81-9952df77e65c",
+    "date": "2026-07-14T08:43:59.344Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "58e7c686-6074-4f97-a674-f598a31fab92",
+    "title": "LinkedIn Operations",
+    "company": "CertiK",
+    "link": "https://jobs.lever.co/certik/58e7c686-6074-4f97-a674-f598a31fab92",
+    "date": "2026-07-14T07:55:59.374Z",
+    "source": "Lever: CertiK"
+  },
+  {
+    "id": "7772803003",
+    "title": "Senior Talent Acquisition Partner",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7772803003",
+    "date": "2026-07-14T03:10:00-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "8059329",
+    "title": "Senior Market Risk Manager",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8059329",
+    "date": "2026-07-14T03:03:26-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
+    "id": "0040c1a3-1732-497e-a2c8-2504181a40ee",
+    "title": "Sanctions & CTF Investigator",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/0040c1a3-1732-497e-a2c8-2504181a40ee",
+    "date": "2026-07-14T06:58:07.167Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "8053419",
+    "title": "Implementation Consultant, Accelerate (SEA/GCN)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8053419",
+    "date": "2026-07-14T02:24:54-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8060662",
+    "title": "Group Product Manager, Compliance Agent Experience",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662",
+    "date": "2026-07-14T01:16:28-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "4926900101",
+    "title": "Senior Marketing Specialist, Africa",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4926900101",
+    "date": "2026-07-14T01:13:51-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "8049910",
     "title": "Customer Success Manager, Fraud & Disputes",
     "company": "Stripe",
@@ -9598,6 +9710,14 @@
     "source": "Lever: Coins.ph"
   },
   {
+    "id": "8022718",
+    "title": "Operations Manager, Bermuda",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8022718?gh_jid=8022718",
+    "date": "2026-06-22T22:47:20-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
     "id": "8021646",
     "title": "Regional Threat Assessment Manager",
     "company": "Coinbase",
@@ -13716,13 +13836,5 @@
     "link": "https://alliance.breezy.hr/p/739fee2788ca-executive-assistant-office-manager",
     "date": "2026-06-14T15:55:07.000Z",
     "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "4856994101",
-    "title": "Head of HR",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4856994101",
-    "date": "2026-06-14T07:44:13-04:00",
-    "source": "Greenhouse: Bybit"
   }
 ]
