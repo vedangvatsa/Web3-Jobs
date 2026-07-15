@@ -1,75 +1,5 @@
 [
   {
-    "id": "luma-host-evt-n41e2dttG68htB5",
-    "name": "Workshops - Superteam India",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-07-14T12:30:00.000Z",
-    "endDate": "2026-07-14T13:15:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/superteamin-workshop",
-    "coverImage": "https://images.lumacdn.com/uploads/ld/76414ca4-20e3-4454-9d09-fedb0c68af20.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-RxFE8LIzCStVAq5",
-    "name": "Meetup Online: She Is Solana",
-    "description": "",
-    "startDate": "2026-07-14T22:00:00.000Z",
-    "endDate": "2026-07-15T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/45rzfzvg",
-    "coverImage": "https://images.lumacdn.com/uploads/3i/7573cc67-d5f6-413b-9059-275720ed1f85.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "cmc-6a5268813e121649064f4f72",
-    "name": "KUB Coin: KUB Foundation Live AMA",
-    "description": "Bitkub hosts a LIVE AMA with KUB Foundation President Passakorn Pannok covering major KUB Chain updates and building dApps with AI, on 15 July 2026 from 18:00 to 20:00 (GMT+7) via Facebook.",
-    "startDate": "2026-07-15T00:00:00.000Z",
-    "endDate": "2026-07-15T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/BitkubOfficial/status/2075460008901251247",
-    "coverImage": "https://pbs.twimg.com/media/HM18trrbcAAicGC.jpg:large",
-    "source": "coinmarketcap",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-3zGUryX1mzW6WuB",
-    "name": "ISC2 Silicon Valley - July 2026 Chapter Meeting",
-    "description": "",
-    "startDate": "2026-07-15T01:00:00.000Z",
-    "endDate": "2026-07-15T03:00:00.000Z",
-    "city": "Santa Clara",
-    "country": "United States",
-    "location": "Santa Clara, United States",
-    "url": "https://lu.ma/t17qte5z",
-    "coverImage": "https://images.lumacdn.com/uploads/bo/a572f812-9040-4da7-a7c0-49b84b4bc173.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-Ur4IyjLkheDSBVI",
-    "name": "Unidos con Venezuela",
-    "description": "",
-    "startDate": "2026-07-15T01:00:00.000Z",
-    "endDate": "2026-07-15T05:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/8eik9cdb",
-    "coverImage": "https://images.lumacdn.com/uploads/6s/4b253f30-0f48-48c8-89ec-1c2565442f67.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-host-evt-oGq7JRJkO9n7UNV",
     "name": "Superteam member office hours",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -137,20 +67,6 @@
     "url": "https://lu.ma/qps82bo7",
     "coverImage": "https://images.lumacdn.com/uploads/p5/1c9e2742-58b1-44a5-aa81-d771bb1922cd.png",
     "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
-    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
-    "description": "",
-    "startDate": "2026-07-15T00:00:00.000Z",
-    "endDate": "2026-07-15T00:00:00.000Z",
-    "city": "Bali",
-    "country": "Indonesia",
-    "location": "Bali, Indonesia",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-july-bali-id",
-    "coverImage": null,
-    "source": "conferenceindex",
     "month": "July 2026"
   },
   {
@@ -276,6 +192,20 @@
     "location": "New York, United States",
     "url": "https://lu.ma/rz3wo9z5",
     "coverImage": "https://images.lumacdn.com/uploads/nz/563aad3c-eb9c-4a45-9e71-78ec690bdee6.jpg",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-xsm466o8URmipBG",
+    "name": "Jersey City Bitcoin: Monthly Socratic Seminar",
+    "description": "",
+    "startDate": "2026-07-16T23:00:00.000Z",
+    "endDate": "2026-07-17T00:30:00.000Z",
+    "city": "Jersey City",
+    "country": "United States",
+    "location": "Jersey City, United States",
+    "url": "https://lu.ma/4v31zbjc",
+    "coverImage": "https://images.lumacdn.com/event-covers/2s/65c990dd-bf65-4adc-9d19-160e47d71959.png",
     "source": "luma",
     "month": "July 2026"
   },
@@ -518,6 +448,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-evt-qvQDAhBoAOldCWc",
+    "name": "Hack Your Way Into the Hacker House - powered by OnlyExit",
+    "description": "",
+    "startDate": "2026-07-18T14:00:00.000Z",
+    "endDate": "2026-07-18T23:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/hack-to-hacker-house",
+    "coverImage": "https://images.unsplash.com/photo-1582266255765-fa5cf1a1d501?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw5fHxoYWNrZXJ8ZW58MHx8fHwxNzgzMzY2NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-disccal-n4rlQ1OhtspxORn",
     "name": "Canada Crypto Week",
     "description": "Explore side events at Canada Crypto Week from July 20-26, where blockchain and cryptocurrency innovators gather to share insights and developments in the evolving digital asset landscape.",
@@ -672,6 +616,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-n41e2dttG68htB5",
+    "name": "Workshops - Superteam India",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-07-21T12:30:00.000Z",
+    "endDate": "2026-07-21T13:15:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/superteamin-workshop",
+    "coverImage": "https://images.lumacdn.com/uploads/ld/76414ca4-20e3-4454-9d09-fedb0c68af20.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-evt-lDYHEHOG3MBcNBF",
     "name": "VIP Dinner at Futurist with Cryptoworth, Kwantum Advisory, and DualEntry",
     "description": "",
@@ -725,6 +683,34 @@
     "url": "https://lu.ma/cne7j4i7",
     "coverImage": "https://images.lumacdn.com/event-covers/z3/cba9a78b-be95-4db8-b1ca-4617ab202d29.jpg",
     "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-Ct3Dd6Sf5sxCG8C",
+    "name": "Workshop From Zero to Hero: Rust na Blockchain Mais Rápida em Produção (Dia 1 - 07/22)",
+    "description": "Construindo a @Solana no Brasil!",
+    "startDate": "2026-07-22T15:00:00.000Z",
+    "endDate": "2026-07-22T16:00:00.000Z",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "location": "Rio de Janeiro, Brazil",
+    "url": "https://lu.ma/tdc1",
+    "coverImage": "https://images.lumacdn.com/uploads/9v/c62cd2e9-5fd6-4d53-913f-3616339998ed.jpg",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-E6OEevKKmOxZW53",
+    "name": "Vibecoder Wednesday #9",
+    "description": "Kolektyw3 to miejsce, gdzie spotyka się warszawska scena AI i web3. Coworking, meetupy, warsztaty, hackathony i społeczność ludzi, którzy budują, eksperymentują i działają razem.",
+    "startDate": "2026-07-22T16:00:00.000Z",
+    "endDate": "2026-07-22T19:00:00.000Z",
+    "city": "Warszawa",
+    "country": "Poland",
+    "location": "Warszawa, Poland",
+    "url": "https://lu.ma/0ced9jxd",
+    "coverImage": "https://images.lumacdn.com/uploads/n0/1b4ac9bc-f8a7-456b-bd05-b815ef980da0.png",
+    "source": "luma-trusted",
     "month": "July 2026"
   },
   {
@@ -966,17 +952,17 @@
     "month": "July 2026"
   },
   {
-    "id": "cmc-6a41edc1ba10864e553020c5",
-    "name": "Qubic: Smart Contract Go-Live",
-    "description": "New on-chain contract with oracle access & outsourced computation targets go-live, with public testing beforehand.",
-    "startDate": "2026-07-29T00:00:00.000Z",
-    "endDate": "2026-07-29T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/_Qubic_/status/2065064306404651119",
-    "coverImage": "https://pbs.twimg.com/card_img/2075591561694580736/MvDVSg_Q?format=png&amp;name=orig",
-    "source": "coinmarketcap",
+    "id": "luma-host-evt-aFYhYLkMvosFmh4",
+    "name": "Warsaw AI Breakfast #2",
+    "description": "Kolektyw3 to miejsce, gdzie spotyka się warszawska scena AI i web3. Coworking, meetupy, warsztaty, hackathony i społeczność ludzi, którzy budują, eksperymentują i działają razem.",
+    "startDate": "2026-07-28T06:30:00.000Z",
+    "endDate": "2026-07-28T08:30:00.000Z",
+    "city": "Warszawa",
+    "country": "Poland",
+    "location": "Warszawa, Poland",
+    "url": "https://lu.ma/warsawbreakfast2",
+    "coverImage": "https://images.lumacdn.com/uploads/tf/e0d21c10-e1c4-454d-9a59-1a3953fbf341.png",
+    "source": "luma-trusted",
     "month": "July 2026"
   },
   {
@@ -1204,6 +1190,20 @@
     "month": "August 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-science-and-blockchain-ccsb-2",
+    "name": "International Conference on Computer Science and Blockchain (CCSB)",
+    "description": "",
+    "startDate": "2026-08-21T00:00:00.000Z",
+    "endDate": "2026-08-21T00:00:00.000Z",
+    "city": "Zhuhai",
+    "country": "China",
+    "location": "Zhuhai, China",
+    "url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-blockchain-ccsb-2026-august-zhuhai-cn",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-calev-BxBgbXQtf7Gb4DG",
     "name": "ETH Belgrade [4]",
     "description": "",
@@ -1257,6 +1257,20 @@
     "url": "https://luma.com/sixp297m",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/dh/e3bc70d2-a256-47ba-900f-f61c82da4bc1.png",
     "source": "ethereum-org",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-wHcHKHhP8ehAv2n",
+    "name": "Real World Cryptography Paris Meetup 5",
+    "description": "",
+    "startDate": "2026-09-04T17:00:00.000Z",
+    "endDate": "2026-09-04T20:00:00.000Z",
+    "city": "Le Kremlin-Bicêtre",
+    "country": "France",
+    "location": "Le Kremlin-Bicêtre, France",
+    "url": "https://lu.ma/f11wyf7c",
+    "coverImage": "https://images.lumacdn.com/event-covers/wy/6baaed9a-2383-4a61-a4eb-a60937ea3bea",
+    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -1316,6 +1330,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-nZ3FGlDyNEHGDJI",
+    "name": "AI & WEB3 Growth Summit",
+    "description": "",
+    "startDate": "2026-09-14T07:00:00.000Z",
+    "endDate": "2026-09-14T15:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/nivf7yvb",
+    "coverImage": "https://images.lumacdn.com/uploads/bt/9d1ffe93-a29a-4659-b887-b23a66edbc9b.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-host-disccal-oomOTSz0UtKANFu",
     "name": "European Blockchain Convention",
     "description": "Barcelona hosts the European Blockchain Convention from September 16–17, bringing together developers, investors, and policymakers to dive into the future of blockchain in Europe.",
@@ -1369,6 +1397,34 @@
     "url": "https://luma.com/ispxo30p",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/ch/5c8785f4-f489-4370-b057-f7e3d3b654ba.png",
     "source": "ethereum-org",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-guWog2uyJoSwwlV",
+    "name": "10 ans BioLaunchpad",
+    "description": "",
+    "startDate": "2026-09-21T16:00:00.000Z",
+    "endDate": "2026-09-21T19:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/59fgmsee",
+    "coverImage": "https://images.lumacdn.com/uploads/sc/baae43e2-ff02-43bf-b5ba-4241f124067b.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-n9rDNPFnX8LmpJC",
+    "name": "RWA EUROPE - The Leading European Summit for Real-World Asset Tokenization",
+    "description": "",
+    "startDate": "2026-09-25T07:30:00.000Z",
+    "endDate": "2026-09-25T19:30:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/47w93rzv",
+    "coverImage": "https://images.lumacdn.com/event-covers/zu/f55e44cb-a569-4c30-84e5-c83542e61a9c.png",
+    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -1591,7 +1647,7 @@
     "country": "Dominican Republic",
     "location": "Punta Cana, Dominican Republic, Dominican Republic",
     "url": "https://www.blockcon.co",
-    "coverImage": null,
+    "coverImage": "https://www.blockcon.co/og/blockcon-home.png",
     "source": "marketacross",
     "month": "November 2026"
   },
@@ -1762,5 +1818,19 @@
     "coverImage": "https://images.lumacdn.com/uploads/px/1961f942-3a75-4335-a4e5-a1ebe72e1810.png",
     "source": "luma-trusted",
     "month": "June 2027"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
+    "description": "",
+    "startDate": "2027-07-15T00:00:00.000Z",
+    "endDate": "2027-07-15T00:00:00.000Z",
+    "city": "Bali",
+    "country": "Indonesia",
+    "location": "Bali, Indonesia",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-july-bali-id",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "July 2027"
   }
 ]
