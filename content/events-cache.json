@@ -1,89 +1,5 @@
 [
   {
-    "id": "luma-host-evt-oGq7JRJkO9n7UNV",
-    "name": "Superteam member office hours",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-07-15T14:00:00.000Z",
-    "endDate": "2026-07-15T15:30:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/member-office-hours",
-    "coverImage": "https://images.lumacdn.com/uploads/xl/017ccbe7-5650-42c1-8aa6-c1fe9fe67b9d.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-mMvbPdo3x2sDtRP",
-    "name": "Light DAO Town Hall",
-    "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
-    "startDate": "2026-07-15T18:00:00.000Z",
-    "endDate": "2026-07-15T19:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/xoit2l4v",
-    "coverImage": "https://images.lumacdn.com/event-covers/p9/b7d8de23-97d3-4ccc-8e4d-8e8a11f5bea2",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-rLb4bmsD48saYdh",
-    "name": "Podcast SEO: Define Your Strategy & Launch Your Campaign",
-    "description": "",
-    "startDate": "2026-07-15T21:00:00.000Z",
-    "endDate": "2026-07-15T23:00:00.000Z",
-    "city": "Brooklyn",
-    "country": "United States",
-    "location": "Brooklyn, United States",
-    "url": "https://lu.ma/p9u6idp5",
-    "coverImage": "https://images.lumacdn.com/uploads/xb/eb2dc720-f09b-4982-afdc-fc3a487f0c4c.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-rOHcWMwWdc3nUSc",
-    "name": "Deep Tech Investor Gathering, hosted by Omni Ventures, Startup Island Taiwan Silicon Valley Hub and SparkLabs Taiwan",
-    "description": "",
-    "startDate": "2026-07-15T21:00:00.000Z",
-    "endDate": "2026-07-16T00:00:00.000Z",
-    "city": "Palo Alto",
-    "country": "United States",
-    "location": "Palo Alto, United States",
-    "url": "https://lu.ma/ny2bw3dt",
-    "coverImage": "https://images.lumacdn.com/uploads/a3/eee5d98a-c45a-40ca-97a8-67cf89a05444.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-Hzi61eykt25ojDQ",
-    "name": "The Innovator's Mindset: Inside Silicon Valley's Best-Kept Secrets",
-    "description": "",
-    "startDate": "2026-07-15T21:30:00.000Z",
-    "endDate": "2026-07-16T00:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/qps82bo7",
-    "coverImage": "https://images.lumacdn.com/uploads/p5/1c9e2742-58b1-44a5-aa81-d771bb1922cd.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "cmc-6a5117023e121649064e6748",
-    "name": "Kaia: Kaia Earning Program Launch",
-    "description": "Kaia launches a new staking and earning program on the Kaia Portal, letting users deposit, stake, and contribute to earn rewards.",
-    "startDate": "2026-07-16T00:00:00.000Z",
-    "endDate": "2026-07-16T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/KaiaChain/status/2075384571546447910",
-    "coverImage": "https://pbs.twimg.com/amplify_video_thumb/2075384518375301120/img/Q8e_28INSEkedvXw.jpg",
-    "source": "coinmarketcap",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-sJ4tQELUDleg5Fb",
     "name": "Jersey City Cafe Walk ✦ Semicolon Cafe",
     "description": "",
@@ -94,6 +10,20 @@
     "location": "Jersey City, United States",
     "url": "https://lu.ma/bizbestie-walk-jersey-city-july-16",
     "coverImage": "https://images.lumacdn.com/uploads/2f/39d44364-c231-4b01-b63d-282573712baa.jpg",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-ETrQqpV5T4nHwRW",
+    "name": "Intentionally creating & closing ICP deals | Pipeline and Pints Series Episode 3",
+    "description": "",
+    "startDate": "2026-07-16T16:00:00.000Z",
+    "endDate": "2026-07-16T22:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/hphslynz",
+    "coverImage": "https://images.lumacdn.com/uploads/iu/0c7555f2-eee4-4bd5-bace-9e6376ae0830.png",
     "source": "luma",
     "month": "July 2026"
   },
@@ -126,6 +56,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-evt-RVAUcxnofbYgGUb",
+    "name": "How Community is Redefining What's Possible in STEM",
+    "description": "",
+    "startDate": "2026-07-16T17:00:00.000Z",
+    "endDate": "2026-07-16T20:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/qs7dv2g3",
+    "coverImage": "https://images.lumacdn.com/uploads/1r/1a65775b-3b60-4b41-8407-e07a26231a0d.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-evt-5EGEyAamGfg0O2n",
     "name": "Cupido de Hispanos - BERLÍN 💘📊",
     "description": "",
@@ -151,6 +95,20 @@
     "url": "https://lu.ma/ethglobal-cowork-barcelona",
     "coverImage": "https://images.lumacdn.com/uploads/zd/43afdf62-723e-4844-a975-0f024acf2c27.png",
     "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315701821",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-07-16T11:00:00-07:00",
+    "endDate": "2026-07-16T11:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/315701821/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/e/d/2/600_535224274.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -182,20 +140,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-GjMpn67UnXT18Ux",
-    "name": "ONR 168 (Live): Midi Neutron, Choo Choo (solo), Cikara",
-    "description": "",
-    "startDate": "2026-07-16T23:00:00.000Z",
-    "endDate": "2026-07-17T03:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/rz3wo9z5",
-    "coverImage": "https://images.lumacdn.com/uploads/nz/563aad3c-eb9c-4a45-9e71-78ec690bdee6.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-xsm466o8URmipBG",
     "name": "Jersey City Bitcoin: Monthly Socratic Seminar",
     "description": "",
@@ -206,6 +150,20 @@
     "location": "Jersey City, United States",
     "url": "https://lu.ma/4v31zbjc",
     "coverImage": "https://images.lumacdn.com/event-covers/2s/65c990dd-bf65-4adc-9d19-160e47d71959.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-GjMpn67UnXT18Ux",
+    "name": "ONR 168 (Live): Midi Neutron, Choo Choo (solo), Cikara",
+    "description": "",
+    "startDate": "2026-07-16T23:00:00.000Z",
+    "endDate": "2026-07-17T03:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/rz3wo9z5",
+    "coverImage": "https://images.lumacdn.com/uploads/nz/563aad3c-eb9c-4a45-9e71-78ec690bdee6.jpg",
     "source": "luma",
     "month": "July 2026"
   },
@@ -224,31 +182,31 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315475902",
-    "name": "B.O.B. BITCOIN SEASON viewing @ CBC",
-    "description": "B.O.B. BITCOIN SEASON viewing party\n\nBrought to you by Swan\n\nCome visit the Chicago Bitcoin Collective to talk to members and the broader B.O.B. community about Bitcoin and anything else related!\n\nThi",
-    "startDate": "2026-07-16T18:00:00-05:00",
-    "endDate": "2026-07-16T18:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/315475902/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/3/3/5/600_534989493.jpeg",
+    "id": "mu-315398958",
+    "name": "Artificial Intelligence and Blockchain Discussion",
+    "description": "Join us for an engaging discussion on the latest advancements in Artificial Intelligence and Blockchain technology. Our event will cover topics such as Machine Learning, Ethereum, Smart Contracts, and",
+    "startDate": "2026-07-16T16:00:00-07:00",
+    "endDate": "2026-07-16T16:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/ai-blockchain-more-tech/events/315398958/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/e/2/7/600_521728199.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
   {
-    "id": "cmc-6a30ca432ff7e3093307fbcb",
-    "name": "Arbitrum: Token Unlock",
-    "description": "Arbitrum unlocks approximately 0.93% of its released supply at 6:30 AM UTC.",
-    "startDate": "2026-07-16T00:00:00.000Z",
-    "endDate": "2026-07-16T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://defillama.com/unlocks/arbitrum",
-    "coverImage": null,
-    "source": "coinmarketcap",
+    "id": "luma-evt-pxOJdVIJQPMDfyG",
+    "name": "Unicorn Battle in San Francisco",
+    "description": "",
+    "startDate": "2026-07-17T00:00:00.000Z",
+    "endDate": "2026-07-17T03:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/ckpt1lj2",
+    "coverImage": "https://images.lumacdn.com/uploads/7o/cef729f0-e502-4f2f-bc38-51fa1cd0232d.jpg",
+    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -291,6 +249,20 @@
     "url": "https://lu.ma/1bnlz2zn",
     "coverImage": "https://images.lumacdn.com/uploads/yl/4621f132-1da3-4f13-bdae-39d4b814a071.png",
     "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315437540",
+    "name": "Crypto talk - Money is Freedom; currency is slavery ",
+    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
+    "startDate": "2026-07-16T19:00:00-07:00",
+    "endDate": "2026-07-16T19:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cashflow-271/events/315437540/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/c/2/600_501417026.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -434,6 +406,34 @@
     "month": "July 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
+    "description": "",
+    "startDate": "2026-07-17T00:00:00.000Z",
+    "endDate": "2026-07-17T00:00:00.000Z",
+    "city": "Washington",
+    "country": "United States",
+    "location": "Washington, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-july-washington-us",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "July 2026"
+  },
+  {
+    "id": "cmc-6a57ae82c507ea2b187dbabe",
+    "name": "Cardano: Van Rossem Hard Fork",
+    "description": "Cardano Protocol Version 11 hard fork enacts on July 18, 2026 at 21:45 UTC following ratification of the governance action.",
+    "startDate": "2026-07-18T00:00:00.000Z",
+    "endDate": "2026-07-18T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/Cardano_CF/status/2077007268126544174",
+    "coverImage": "https://pbs.twimg.com/profile_images/1765479184586166272/cziOm5PO_200x200.png",
+    "source": "coinmarketcap",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-Cj6xjCrnxfiEkYJ",
     "name": "Light Dao Salon: The Road to the 2028 LA Olympics with LA's Own Artistic Swim Team - Sarba Das & Juliette Eisner (LA)",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
@@ -476,6 +476,34 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315418469",
+    "name": "Social Saturday · July 18",
+    "description": "Casual community meetup with the Arizona Web3 scene. No pitch decks, no panels — good people, good drinks. Location shared with RSVPs.",
+    "startDate": "2026-07-18T18:00:00-07:00",
+    "endDate": "2026-07-18T18:00:00-07:00",
+    "city": "Tempe",
+    "country": "US",
+    "location": "Tempe, US",
+    "url": "https://www.meetup.com/etcarizona/events/315418469/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/e/3/1/600_534920017.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315418470",
+    "name": "Social Saturday · July 18",
+    "description": "Casual community meetup with the Arizona Web3 scene. No pitch decks, no panels — good people, good drinks. Location shared with RSVPs.",
+    "startDate": "2026-07-18T18:00:00-07:00",
+    "endDate": "2026-07-18T18:00:00-07:00",
+    "city": "Tempe",
+    "country": "US",
+    "location": "Tempe, US",
+    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/315418470/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/e/3/a/600_534920026.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-5w5SZormUXqn6OG",
     "name": "TxOdds x Solana Watch Party: Worldcup Finals",
     "description": "Construindo a @Solana no Brasil!",
@@ -487,6 +515,20 @@
     "url": "https://lu.ma/o43sktw8",
     "coverImage": "https://images.lumacdn.com/uploads/az/46176e8b-9d86-4219-b608-0ab94882534c.jpg",
     "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315376197",
+    "name": "Intro to Shibari Class",
+    "description": "Class Description\nJoin us on Sunday, July 19th from 1-3pm to learn the basics to rope bondage, known as Shibari! This beginner class will teach you the fundamental building blocks to get started on yo",
+    "startDate": "2026-07-19T13:00:00-07:00",
+    "endDate": "2026-07-19T13:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/nerdy-childfree-witchy-women-25/events/315376197/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/a/1/5/4/600_517301300.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -569,7 +611,7 @@
     "country": "Canada",
     "location": "Toronto, Canada",
     "url": "https://lu.ma/knepwzoe",
-    "coverImage": "https://images.lumacdn.com/uploads/dr/c322893f-e82e-459b-b4d6-25139c355b76.png",
+    "coverImage": "https://images.lumacdn.com/uploads/hi/965ba183-1258-4d07-a622-31856d356265.jpg",
     "source": "luma",
     "month": "July 2026"
   },
@@ -584,6 +626,20 @@
     "location": "Online",
     "url": "https://defillama.com/unlocks/layerzero",
     "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "July 2026"
+  },
+  {
+    "id": "cmc-6a57ae82c507ea2b187dbab6",
+    "name": "Curve DAO Token: LlamaLend 2 Activation Vote",
+    "description": "Curve DAO vote to activate LlamaLend 2 lending markets (sDOLA-crvUSD, sfrxUSD-crvUSD) on Ethereum mainnet, with defined borrow caps and a 10% admin fee. Voting ends Jul 21, 2026, 12:26 PM.",
+    "startDate": "2026-07-21T00:00:00.000Z",
+    "endDate": "2026-07-21T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/CurveFinance/status/2076984929989087555",
+    "coverImage": "https://pbs.twimg.com/media/HNLudHWWgAAncuR.jpg:large",
     "source": "coinmarketcap",
     "month": "July 2026"
   },
@@ -672,6 +728,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-oGq7JRJkO9n7UNV",
+    "name": "Superteam member office hours",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-07-22T14:00:00.000Z",
+    "endDate": "2026-07-22T15:30:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/member-office-hours",
+    "coverImage": "https://images.lumacdn.com/uploads/xl/017ccbe7-5650-42c1-8aa6-c1fe9fe67b9d.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-evt-ACpYYHJHyXUc9jZ",
     "name": "Bitcoin Devleoper Conference - btcplusplus *consensus edition* 📜✨",
     "description": "",
@@ -737,8 +807,50 @@
     "country": "Canada",
     "location": "Toronto, Canada",
     "url": "https://lu.ma/fh07454f",
-    "coverImage": "https://images.lumacdn.com/uploads/fy/46204188-0f6d-4451-9932-08b6b27bc43c.jpg",
+    "coverImage": "https://images.lumacdn.com/uploads/sg/a670e704-f270-4911-8568-260fa0ce94dc.png",
     "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315418511",
+    "name": "Workshop Wednesday · July 22",
+    "description": "Triple-feature evening. Nico of Acre Finance on building Web3 communities, an ETC roundtable on the state of crypto in Arizona, and Dimitri Kustov on clear crypto accounting.",
+    "startDate": "2026-07-22T18:00:00-07:00",
+    "endDate": "2026-07-22T18:00:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/etcarizona/events/315418511/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/e/5/7/600_534920055.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315418512",
+    "name": "Workshop Wednesday · July 22",
+    "description": "Triple-feature evening. Nico of Acre Finance on building Web3 communities, an ETC roundtable on the state of crypto in Arizona, and Dimitri Kustov on clear crypto accounting.",
+    "startDate": "2026-07-22T18:00:00-07:00",
+    "endDate": "2026-07-22T18:00:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/315418512/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/e/4/e/600_534920046.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-udMnEQSGX3rIit4",
+    "name": "Superteam SG Thursday Lunch",
+    "description": "A community of founders and operators in Singapore. We run hackathons, facilitate capital introductions, and connect you to a curated network of 300+ builders. 200+ events and counting",
+    "startDate": "2026-07-23T04:00:00.000Z",
+    "endDate": "2026-07-23T05:30:00.000Z",
+    "city": "Singapore",
+    "country": "Singapore",
+    "location": "Singapore, Singapore",
+    "url": "https://lu.ma/td37gy7l",
+    "coverImage": "https://images.lumacdn.com/uploads/d1/f4808e74-c081-43bc-9150-55da2f507b83.png",
+    "source": "luma-trusted",
     "month": "July 2026"
   },
   {
@@ -752,6 +864,20 @@
     "location": "Lisboa, Portugal",
     "url": "https://lu.ma/onchainlisbonday",
     "coverImage": "https://images.lumacdn.com/uploads/xu/3f087dc1-496e-455d-9f86-96229f6161f5.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-EYoPN2LfhD2Y7Ir",
+    "name": "Workshop From Zero to Hero: Rust na Blockchain Mais Rápida em Produção (Dia 2 - 07/23)",
+    "description": "Construindo a @Solana no Brasil!",
+    "startDate": "2026-07-23T15:00:00.000Z",
+    "endDate": "2026-07-23T16:00:00.000Z",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "location": "Rio de Janeiro, Brazil",
+    "url": "https://lu.ma/tdc2",
+    "coverImage": "https://images.lumacdn.com/uploads/9v/c62cd2e9-5fd6-4d53-913f-3616339998ed.jpg",
     "source": "luma-trusted",
     "month": "July 2026"
   },
@@ -812,20 +938,6 @@
     "month": "July 2026"
   },
   {
-    "id": "cmc-6a5117023e121649064e677c",
-    "name": "Neo: Gorgon Hardfork TestNet",
-    "description": "Neo activates the Gorgon hardfork on TestNet at block height 17,960,000, enabling SHL/SHR fix, VM JumpTable refactoring, and updated cryptographic verification.",
-    "startDate": "2026-07-24T00:00:00.000Z",
-    "endDate": "2026-07-24T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/Neo_Blockchain/status/2075144625900425252",
-    "coverImage": "https://pbs.twimg.com/profile_images/2008841880122114048/GP_9EGJl_200x200.jpg",
-    "source": "coinmarketcap",
-    "month": "July 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-blockchain-and-cryptoc",
     "name": "International Conference on Smart Contracts, Blockchain and Cryptocurrencies (ICSCBC)",
     "description": "",
@@ -865,34 +977,6 @@
     "url": "https://lu.ma/MonadBlitzTO",
     "coverImage": "https://images.lumacdn.com/uploads/pp/809101ba-e70b-4238-a00b-41a5a9545f25.png",
     "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-315437800",
-    "name": "South Side Spanish (Bridgeport)",
-    "description": "Estás invitado a un grupo de habla español. Aquí no se juzga, es bienvenido/a el que sea nativo/a o al que este recién empezando. Lo único que te pedimos es que hagas un esfuerzo ya que es primordial ",
-    "startDate": "2026-07-25T15:00:00-05:00",
-    "endDate": "2026-07-25T15:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/chicago-spanish-language/events/315437800/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/6/1/d/600_503345661.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
-    "id": "cmc-6a3ca7c4760d514d73dd803b",
-    "name": "Avalanche: Token Unlock",
-    "description": "Avalanche unlocks approximately 0.23% of its total supply at 12:30 PM UTC.",
-    "startDate": "2026-07-25T00:00:00.000Z",
-    "endDate": "2026-07-25T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://defillama.com/unlocks/avalanche",
-    "coverImage": null,
-    "source": "coinmarketcap",
     "month": "July 2026"
   },
   {
@@ -966,20 +1050,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-2yOGF56jBFtQJrJ",
-    "name": "Executive Dinner: The Future of AI & Semiconductor",
-    "description": "",
-    "startDate": "2026-07-29T01:00:00.000Z",
-    "endDate": "2026-07-29T04:30:00.000Z",
-    "city": "Long Beach",
-    "country": "United States",
-    "location": "Long Beach, United States",
-    "url": "https://lu.ma/zwk1q3wl",
-    "coverImage": "https://images.lumacdn.com/uploads/hy/18859bd7-9e9a-48d4-812d-0ea98023921f.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-KxgNFk6gJhwHQMP",
     "name": "Chicago Stablecoin Day",
     "description": "",
@@ -1022,16 +1092,16 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315536124",
+    "id": "mu-315536079",
     "name": "ZK Learning Group: Basics of Leo and Aleo",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-07-30T11:00:00-05:00",
-    "endDate": "2026-07-30T11:00:00-05:00",
+    "startDate": "2026-07-30T09:00:00-07:00",
+    "endDate": "2026-07-30T09:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/315536124/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/3/0/600_535043600.jpeg",
+    "url": "https://www.meetup.com/lfdt-phoenix/events/315536079/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/b/d/0/600_535043504.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
@@ -1075,6 +1145,20 @@
     "url": "https://lu.ma/fuq4ss42",
     "coverImage": "https://images.lumacdn.com/uploads/ma/2f2cebc6-58ae-4310-8a2d-c16d5b22aeff.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-t7EiAWX4WQV20pa",
+    "name": "Radiesse Training with Nicole Wolfe",
+    "description": "",
+    "startDate": "2026-08-10T17:00:00.000Z",
+    "endDate": "2026-08-10T20:00:00.000Z",
+    "city": "Austin",
+    "country": "United States",
+    "location": "Austin, United States",
+    "url": "https://lu.ma/fresh-d53z",
+    "coverImage": "https://images.lumacdn.com/uploads/92/04499666-a1b2-439f-bb47-d086346504af.png",
+    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -1818,19 +1902,5 @@
     "coverImage": "https://images.lumacdn.com/uploads/px/1961f942-3a75-4335-a4e5-a1ebe72e1810.png",
     "source": "luma-trusted",
     "month": "June 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
-    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
-    "description": "",
-    "startDate": "2027-07-15T00:00:00.000Z",
-    "endDate": "2027-07-15T00:00:00.000Z",
-    "city": "Bali",
-    "country": "Indonesia",
-    "location": "Bali, Indonesia",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-july-bali-id",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
   }
 ]
