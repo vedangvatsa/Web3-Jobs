@@ -1,131 +1,5 @@
 [
   {
-    "id": "luma-host-evt-lhY4gVwoizFTEAO",
-    "name": "Superteam Poland Co-work: Kraków",
-    "description": "",
-    "startDate": "2026-07-17T07:00:00.000Z",
-    "endDate": "2026-07-17T16:00:00.000Z",
-    "city": "Kraków",
-    "country": "Poland",
-    "location": "Kraków, Poland",
-    "url": "https://lu.ma/co-work24",
-    "coverImage": "https://images.lumacdn.com/uploads/l3/6980f741-8e25-4c16-8989-bf3311d98fa8.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-JRloloPOnjwowzA",
-    "name": "Coworking Fridays Belgrade | Superteam Balkan",
-    "description": "A community of founders, developers, and innovators working to grow and promote the Solana ecosystem across the Balkans.",
-    "startDate": "2026-07-17T08:00:00.000Z",
-    "endDate": "2026-07-17T15:00:00.000Z",
-    "city": "Beograd",
-    "country": "Serbia",
-    "location": "Beograd, Serbia",
-    "url": "https://lu.ma/coworking-fridays-belgrade",
-    "coverImage": "https://images.lumacdn.com/event-covers/97/7daf8a9d-64e6-4135-9959-37de003af068.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-6XAWwMk7WErshY2",
-    "name": "Talent Hub Friday's | Fundraising with Futarchy: A MetaDAO Workshop",
-    "description": "Superteam Ireland is the Irish chapter of the global Superteam network.\n\nWe’re a community of founders, engineers, operators, and creators building on Solana.",
-    "startDate": "2026-07-17T08:30:00.000Z",
-    "endDate": "2026-07-17T17:00:00.000Z",
-    "city": "Dublin 1",
-    "country": "Ireland",
-    "location": "Dublin 1, Ireland",
-    "url": "https://lu.ma/tenfuaap",
-    "coverImage": "https://images.lumacdn.com/uploads/lt/0ca63d5e-f0fa-4720-92d4-756b9478e650.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-JZ11bxM7DQj2xCD",
-    "name": "Co-Working Fridays : London Chapter",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-07-17T09:00:00.000Z",
-    "endDate": "2026-07-17T19:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/london-july-17",
-    "coverImage": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-DiToYoWeqds2ciw",
-    "name": "TxODDS Hackathon 24h Build Station",
-    "description": "Building the Solana ecosystem in Canada 🇨🇦",
-    "startDate": "2026-07-17T13:00:00.000Z",
-    "endDate": "2026-07-18T13:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/superteam-qlhn",
-    "coverImage": "https://images.lumacdn.com/uploads/23/e9d6c063-0011-4105-9c86-e76d3e9b8b62.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-A1MWifMsd1mmkc5",
-    "name": "Montreal VibeStation",
-    "description": "Building the Solana ecosystem in Canada 🇨🇦",
-    "startDate": "2026-07-17T13:30:00.000Z",
-    "endDate": "2026-07-17T21:30:00.000Z",
-    "city": "Montréal",
-    "country": "Canada",
-    "location": "Montréal, Canada",
-    "url": "https://lu.ma/775x23yz",
-    "coverImage": "https://images.lumacdn.com/event-covers/bw/0599c98d-915f-4c33-9471-92269e672a9d.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-aEDlT5umM9speas",
-    "name": "Skyline Coworking",
-    "description": "Events for the Solana ecosystem in NYC 🗽",
-    "startDate": "2026-07-17T13:30:00.000Z",
-    "endDate": "2026-07-17T21:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/o6tuniv6",
-    "coverImage": "https://images.lumacdn.com/event-covers/py/249b4c63-9752-45c2-926c-814cca6e7567.jpg",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-zftPPkAK0whNScx",
-    "name": "Vancouver VibeStation",
-    "description": "Building the Solana ecosystem in Canada 🇨🇦",
-    "startDate": "2026-07-17T17:00:00.000Z",
-    "endDate": "2026-07-18T01:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/zennyyj3",
-    "coverImage": "https://images.lumacdn.com/event-covers/g7/e3cf8181-b6a3-4459-94ce-da3996d308f4.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-pvNuB4euny35RHQ",
-    "name": "BÉIS x Nicole McLaughlin — Upcycling Workshop",
-    "description": "",
-    "startDate": "2026-07-17T20:00:00.000Z",
-    "endDate": "2026-07-17T21:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/0uvvaty8",
-    "coverImage": "https://images.lumacdn.com/uploads/5f/09c17c64-1933-49b5-b1c0-2f236e1f2813.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-bTK1wpo05ToIRDU",
     "name": "BÉIS x Nicole McLaughlin — Upcycling Workshop",
     "description": "",
@@ -238,6 +112,20 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315376197",
+    "name": "Intro to Shibari Class",
+    "description": "Class Description\nJoin us on Sunday, July 19th from 1-3pm to learn the basics to rope bondage, known as Shibari! This beginner class will teach you the fundamental building blocks to get started on yo",
+    "startDate": "2026-07-19T13:00:00-07:00",
+    "endDate": "2026-07-19T13:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/nerdy-childfree-witchy-women-25/events/315376197/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/a/1/5/4/600_517301300.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-",
     "name": "International Conference on Cryptography and Information Security (ICCIS)",
     "description": "",
@@ -261,8 +149,22 @@
     "country": "Canada",
     "location": "Toronto, Canada",
     "url": "https://lu.ma/canadacryptoweek",
-    "coverImage": "https://images.lumacdn.com/uploads/l5/b542fab9-c890-4323-899d-5bdc5e418398.jpg",
+    "coverImage": "https://images.lumacdn.com/uploads/ag/517ec262-d810-49d7-8dec-534f7f324995.png",
     "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "cmc-6a5a5182c507ea2b187ffc09",
+    "name": "VeChain: X Space on AgentSuite",
+    "description": "VeChain hosts an X Space to share insights on AgentSuite, discuss the role of blockchain, take community questions, and demo agents running on $VET. Scheduled for July 20 at 17:00 UTC.",
+    "startDate": "2026-07-20T00:00:00.000Z",
+    "endDate": "2026-07-20T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/vechainofficial/status/2077773272498815357",
+    "coverImage": "https://pbs.twimg.com/profile_images/1993620501248307200/Q1DGpN8z_200x200.png",
+    "source": "coinmarketcap",
     "month": "July 2026"
   },
   {
@@ -448,6 +350,48 @@
     "month": "July 2026"
   },
   {
+    "id": "cmc-6a5a5182c507ea2b187ffc07",
+    "name": "Pendle: Swing Hours Discord Call",
+    "description": "Pendle hosts a community Discord call covering RWA momentum and the yield trading roadmap, with an open Q&A at 1pm UTC.",
+    "startDate": "2026-07-22T00:00:00.000Z",
+    "endDate": "2026-07-22T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/pendle_fi/status/2077740309463908685",
+    "coverImage": "https://pbs.twimg.com/media/HNWdzNXawAAm9yl.jpg:large",
+    "source": "coinmarketcap",
+    "month": "July 2026"
+  },
+  {
+    "id": "cmc-6a5a5182c507ea2b187ffc08",
+    "name": "Kaia: CR Mission 1 Activation",
+    "description": "Kaia's CR Mission 1 Epoch 1 activates at block 222,566,400 on July 22, 2026 at 11:41 PM GMT, starting a USDT deposit and KAIA staking reward program.",
+    "startDate": "2026-07-22T00:00:00.000Z",
+    "endDate": "2026-07-22T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/KaiaChain/status/2077906149618458959",
+    "coverImage": "https://pbs.twimg.com/amplify_video_thumb/2077906135072567296/img/G9wP0r02dd3kGhuh.jpg",
+    "source": "coinmarketcap",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-ITAxvhpESVVjfom",
+    "name": "Privacy focused Buildathons - Paris",
+    "description": "",
+    "startDate": "2026-07-22T07:00:00.000Z",
+    "endDate": "2026-07-22T19:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/buildSTRK20-Paris",
+    "coverImage": "https://images.lumacdn.com/uploads/wj/d56f0e32-5206-4baa-a24e-75345ea3f4ac.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-oGq7JRJkO9n7UNV",
     "name": "Superteam member office hours",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -527,7 +471,21 @@
     "country": "United States",
     "location": "Miami, United States",
     "url": "https://lu.ma/zcfw4d3p",
-    "coverImage": "https://images.lumacdn.com/uploads/yi/7acc69f3-8d56-451b-8f65-a86edf7f1cc7.png",
+    "coverImage": "https://images.lumacdn.com/uploads/4l/3d4d599f-7c71-45e5-bb29-3c720a543e57.jpg",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-XG1obLbNqiXVJrk",
+    "name": "Lenny’s Newsletter Meetup in Boston (with free drinks courtesy of Matic)",
+    "description": "",
+    "startDate": "2026-07-22T22:00:00.000Z",
+    "endDate": "2026-07-23T01:00:00.000Z",
+    "city": "Boston",
+    "country": "United States",
+    "location": "Boston, United States",
+    "url": "https://lu.ma/1e7pd43g",
+    "coverImage": "https://images.lumacdn.com/event-covers/at/dd2f747a-3ca8-468a-8649-2c0ac53e5949",
     "source": "luma",
     "month": "July 2026"
   },
@@ -542,6 +500,20 @@
     "location": "Toronto, Canada",
     "url": "https://lu.ma/fh07454f",
     "coverImage": "https://images.lumacdn.com/uploads/sg/a670e704-f270-4911-8568-260fa0ce94dc.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-zl8K2dW6Um6Wgx5",
+    "name": "Forward Deployed: The State of Computer Use Agents",
+    "description": "",
+    "startDate": "2026-07-23T01:00:00.000Z",
+    "endDate": "2026-07-23T03:30:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/xfx7c4nw",
+    "coverImage": "https://images.lumacdn.com/uploads/d6/3af7b88a-0005-4b24-8dcf-429c4a12e107.png",
     "source": "luma",
     "month": "July 2026"
   },
@@ -630,6 +602,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-EYoPN2LfhD2Y7Ir",
+    "name": "Workshop From Zero to Hero: Rust na Blockchain Mais Rápida em Produção (Dia 2 - 07/23)",
+    "description": "Construindo a @Solana no Brasil!",
+    "startDate": "2026-07-23T15:00:00.000Z",
+    "endDate": "2026-07-23T16:00:00.000Z",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "location": "Rio de Janeiro, Brazil",
+    "url": "https://lu.ma/tdc2",
+    "coverImage": "https://images.lumacdn.com/uploads/9v/c62cd2e9-5fd6-4d53-913f-3616339998ed.jpg",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-6orsjkovYyhkZG6",
     "name": "Lisbon Ethereum Community Hub: Builders in the Room",
     "description": "Gnosis is a collective of aligned projects, all centered around the GNO token, creating a financial system that benefits every human.",
@@ -653,7 +639,7 @@
     "country": "United States",
     "location": "Chicago, United States",
     "url": "https://lu.ma/securingtomorrow-chicago",
-    "coverImage": "https://images.lumacdn.com/uploads/rx/d864639d-39cd-40a5-84f6-5ad90fca4471.png",
+    "coverImage": "https://images.lumacdn.com/uploads/x9/3d3c6619-32c6-4c4f-854b-f1c7130a5e8c.png",
     "source": "luma",
     "month": "July 2026"
   },
@@ -700,6 +686,20 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315540562",
+    "name": "Crypto talk - Money is Freedom; currency is slavery ",
+    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
+    "startDate": "2026-07-23T19:00:00-07:00",
+    "endDate": "2026-07-23T19:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cashflow-271/events/315540562/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/c/2/600_501417026.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-blockchain-and-cryptoc",
     "name": "International Conference on Smart Contracts, Blockchain and Cryptocurrencies (ICSCBC)",
     "description": "",
@@ -742,20 +742,6 @@
     "month": "July 2026"
   },
   {
-    "id": "cmc-6a3ca7c4760d514d73dd803b",
-    "name": "Avalanche: Token Unlock",
-    "description": "Avalanche unlocks approximately 0.23% of its total supply at 12:30 PM UTC.",
-    "startDate": "2026-07-25T00:00:00.000Z",
-    "endDate": "2026-07-25T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://defillama.com/unlocks/avalanche",
-    "coverImage": null,
-    "source": "coinmarketcap",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-Fa7056x8H9N1bLg",
     "name": "Tropicoqueta Crafternoon",
     "description": "",
@@ -781,20 +767,6 @@
     "url": "https://lu.ma/x77f7657",
     "coverImage": "https://images.lumacdn.com/uploads/dk/bb1a7217-9687-45d4-96e3-ed8fe99e4af6.png",
     "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "cmc-6a57ae82c507ea2b187dbab3",
-    "name": "HashKey Platform Token: HSK × Morpho Partnership",
-    "description": "HashKey Platform Token and Morpho sign a strategic partnership in Hong Kong on July 28 at 14:00–17:00 HKT, focused on on-chain finance.",
-    "startDate": "2026-07-28T00:00:00.000Z",
-    "endDate": "2026-07-28T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/HSKChain/status/2077224223291199622",
-    "coverImage": "https://pbs.twimg.com/media/HNPIJOybwAAaL6H.jpg:large",
-    "source": "coinmarketcap",
     "month": "July 2026"
   },
   {
@@ -837,20 +809,6 @@
     "url": "https://lu.ma/warsawbreakfast2",
     "coverImage": "https://images.lumacdn.com/uploads/tf/e0d21c10-e1c4-454d-9a59-1a3953fbf341.png",
     "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "cmc-6a41edc1ba10864e553020c5",
-    "name": "Qubic: Smart Contract Go-Live",
-    "description": "New on-chain contract with oracle access & outsourced computation targets go-live, with public testing beforehand.",
-    "startDate": "2026-07-29T00:00:00.000Z",
-    "endDate": "2026-07-29T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/_Qubic_/status/2065064306404651119",
-    "coverImage": "https://pbs.twimg.com/card_img/2075591561694580736/MvDVSg_Q?format=png&amp;name=orig",
-    "source": "coinmarketcap",
     "month": "July 2026"
   },
   {
@@ -938,6 +896,20 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315635411",
+    "name": "Artificial Intelligence and Blockchain Discussion",
+    "description": "Join us for an engaging discussion on the latest advancements in Artificial Intelligence and Blockchain technology. Our event will cover topics such as Machine Learning, Ethereum, Smart Contracts, and",
+    "startDate": "2026-07-30T16:00:00-07:00",
+    "endDate": "2026-07-30T16:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/ai-blockchain-more-tech/events/315635411/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/e/2/7/600_521728199.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-evt-i931PXizI4gRD3s",
     "name": "ATX DAO | Bats & Bevs",
     "description": "",
@@ -949,20 +921,6 @@
     "url": "https://lu.ma/7sflryfj",
     "coverImage": "https://images.lumacdn.com/uploads/xw/e2d97365-9f59-4458-b720-b5d20322d5be.png",
     "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "cmc-6a4490c2ba10864e5533bb9c",
-    "name": "Hedera: Consensus Node V0.75",
-    "description": "Consensus node release v0.75 begins deprecating AccountBalanceQuery for balance lookups.",
-    "startDate": "2026-07-31T00:00:00.000Z",
-    "endDate": "2026-07-31T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/hedera/status/2025987462342881611",
-    "coverImage": "https://pbs.twimg.com/card_img/2075704684040560640/kZdq8QKS?format=jpg&amp;name=orig",
-    "source": "coinmarketcap",
     "month": "July 2026"
   },
   {
