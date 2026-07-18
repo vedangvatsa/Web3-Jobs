@@ -1,5 +1,61 @@
 [
   {
+    "id": "bcad338a-4478-409f-a680-b3f7cbb11076",
+    "title": "Senior Manager of Business Systems",
+    "company": "Jane",
+    "link": "https://jobs.ashbyhq.com/jane/bcad338a-4478-409f-a680-b3f7cbb11076",
+    "date": "2026-07-17T22:32:32.736+00:00",
+    "source": "Ashby: Jane"
+  },
+  {
+    "id": "8ef62781-968f-4bdd-81c5-c7a16fd167a7",
+    "title": "Director of Engineering - Booking Group",
+    "company": "Jane",
+    "link": "https://jobs.ashbyhq.com/jane/8ef62781-968f-4bdd-81c5-c7a16fd167a7",
+    "date": "2026-07-17T22:08:11.562+00:00",
+    "source": "Ashby: Jane"
+  },
+  {
+    "id": "8065918",
+    "title": "Solution Consulting Principal",
+    "company": "Guild",
+    "link": "https://www.guild.com/open-positions-at-guild?gh_jid=8065918",
+    "date": "2026-07-17T17:08:40-04:00",
+    "source": "Greenhouse: Guild"
+  },
+  {
+    "id": "1e8c726b-80ff-48a4-bf67-bd29c66c48ff",
+    "title": "Executive Operations Lead",
+    "company": "Lens Protocol",
+    "link": "https://jobs.ashbyhq.com/Lens/1e8c726b-80ff-48a4-bf67-bd29c66c48ff",
+    "date": "2026-07-17T20:47:26.860+00:00",
+    "source": "Ashby: Lens Protocol"
+  },
+  {
+    "id": "8072662",
+    "title": "Senior Software Engineer, Trading Systems (Mobile)",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8072662&gh_jid=8072662",
+    "date": "2026-07-17T16:25:49-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "8069411",
+    "title": "Senior Software Engineer, Money",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8069411&gh_jid=8069411",
+    "date": "2026-07-17T16:24:20-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "63f9b76c-0df0-49c1-b6a6-7147a52ccfc4",
+    "title": "Staff Engineer - Fraud Prevention",
+    "company": "Sardine",
+    "link": "https://jobs.ashbyhq.com/Sardine/63f9b76c-0df0-49c1-b6a6-7147a52ccfc4",
+    "date": "2026-07-17T20:17:13.383+00:00",
+    "source": "Ashby: Sardine"
+  },
+  {
     "id": "73255d78-7e06-4e53-b959-dc5fde29d598",
     "title": "Senior Sales Recruiter",
     "company": "TRM Labs",
@@ -14220,125 +14276,5 @@
     "link": "https://jobs.lever.co/binance/9d952007-8d52-44f4-a791-9b22b57e6381",
     "date": "2026-06-18T04:54:08.382Z",
     "source": "Lever: Binance"
-  },
-  {
-    "id": "4902053101",
-    "title": "Chief Risk Officer (ADGM, RIE &RCH)",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4902053101",
-    "date": "2026-06-18T00:10:35-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4902046101",
-    "title": "Chief Risk Officer (ADGM, Broker Dealer)",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4902046101",
-    "date": "2026-06-18T00:07:06-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4901988101",
-    "title": "Principal Backend Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4901988101",
-    "date": "2026-06-17T23:45:40-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "8014890",
-    "title": "Account Director ANZ",
-    "company": "Foundry",
-    "link": "https://job-boards.greenhouse.io/foundry/jobs/8014890",
-    "date": "2026-06-17T23:40:09-04:00",
-    "source": "Greenhouse: Foundry"
-  },
-  {
-    "id": "e980bd36-e724-4970-bd5c-27ac5d873aed",
-    "title": "Product Manager, Web",
-    "company": "Cantina",
-    "link": "https://jobs.ashbyhq.com/cantina/e980bd36-e724-4970-bd5c-27ac5d873aed",
-    "date": "2026-06-18T02:42:15.980+00:00",
-    "source": "Ashby: Cantina"
-  },
-  {
-    "id": "7777028003",
-    "title": "Principal/Senior Product Manager, Web3 Wallet",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7777028003",
-    "date": "2026-06-17T22:33:38-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7777028003",
-    "title": "Principal/Senior Product Manager, AI & Web3 Wallet",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7777028003",
-    "date": "2026-06-17T22:33:38-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "8008047",
-    "title": "Senior Program Manager, Contracts & Analytics",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8008047?gh_jid=8008047",
-    "date": "2026-06-17T22:01:46-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7bf3be0e-75ca-4661-a5ff-054dcc140f38",
-    "title": "Compliance EDD & High Risk Client Team Lead",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/7bf3be0e-75ca-4661-a5ff-054dcc140f38",
-    "date": "2026-06-18T01:40:09.117Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "7366208",
-    "title": "Senior Staff Software Engineer - Blockchain Platform",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7366208?gh_jid=7366208",
-    "date": "2026-06-17T19:23:13-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7967649",
-    "title": "Senior Software Engineer - Blockchain Network",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7967649?gh_jid=7967649",
-    "date": "2026-06-17T19:11:31-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8013951",
-    "title": "Prime Sales Trader",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8013951?gh_jid=8013951",
-    "date": "2026-06-17T17:49:34-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8013129",
-    "title": "Senior Software Engineer, CDP - Money Movement",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8013129?gh_jid=8013129",
-    "date": "2026-06-17T17:10:12-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8012497",
-    "title": "Analyst Relations Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8012497",
-    "date": "2026-06-17T16:09:56-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "044457c2-be99-4101-ae60-6e61ce2d5d2f",
-    "title": "Enablement Manager, Global Investigators",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/044457c2-be99-4101-ae60-6e61ce2d5d2f",
-    "date": "2026-06-17T20:02:37.725+00:00",
-    "source": "Ashby: TRM Labs"
   }
 ]
