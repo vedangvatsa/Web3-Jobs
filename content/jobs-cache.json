@@ -1,5 +1,13 @@
 [
   {
+    "id": "7809112003",
+    "title": "Senior Manager / Director, Growth Operation",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7809112003",
+    "date": "2026-07-19T03:08:34-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "7808492003",
     "title": "IT Specialist",
     "company": "OKX",
@@ -366,6 +374,14 @@
     "link": "https://www.linkedin.com/jobs/view/infrastructure-security-manager-at-chainlink-labs-4441293259",
     "date": "2026-07-17T14:58:59.000Z",
     "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "86708445",
+    "title": "Senior Security Engineer (Offensive)",
+    "company": "Offchain Labs",
+    "link": "https://www.linkedin.com/jobs/view/senior-security-engineer-offensive-at-offchain-4441927368",
+    "date": "2026-07-17T14:42:31.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
   },
   {
     "id": "86706964",
@@ -7567,6 +7583,14 @@
     "source": "Greenhouse: OKX"
   },
   {
+    "id": "7791118003",
+    "title": "Senior Operations Manager",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7791118003",
+    "date": "2026-07-02T01:17:32-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "1c8e2b03-fcb3-4949-9113-07812f138eb6",
     "title": "Employee Lifecycle Analyst",
     "company": "Ramp",
@@ -10318,6 +10342,14 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "4908928101",
+    "title": "Principal Backend Development Engineer",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908928101",
+    "date": "2026-06-26T02:27:12-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "8029041",
     "title": "Head of Sales, Stripe Billing - APAC",
     "company": "Stripe",
@@ -12950,6 +12982,14 @@
     "source": "Lever: Binance"
   },
   {
+    "id": "4688759006",
+    "title": "Sales Director",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/4688759006?gh_jid=4688759006",
+    "date": "2026-06-22T04:27:41-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
     "id": "0540f33b-1576-4727-a835-08b1cd6ebd56",
     "title": "Associate/Sr Associate- People Experience",
     "company": "Zeta",
@@ -13548,261 +13588,5 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7777055003",
     "date": "2026-06-19T07:57:12-04:00",
     "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "83351200",
-    "title": "Subnet Owner (Bittensor Network)",
-    "company": "Bittensor",
-    "link": "https://wellfound.com/company/bittensor-1/jobs/4365379-subnet-owner-bittensor-network",
-    "date": "2026-06-19T11:44:20.000Z",
-    "source": "https://jobs.polychain.capital/jobs"
-  },
-  {
-    "id": "83346703",
-    "title": "Head of Talent (Founding)",
-    "company": "Astar Foundation",
-    "link": "https://boards.greenhouse.io/startale/jobs/5269166008",
-    "date": "2026-06-19T10:57:08.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "83345855",
-    "title": "Senior Full Stack Developer, Cyber",
-    "company": "Qohash",
-    "link": "https://qohash.com/job/senior-full-stack-developer-cyber-2/",
-    "date": "2026-06-19T10:48:19.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "7777137003",
-    "title": "Engineering Director, Mobile (iOS/Android)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7777137003",
-    "date": "2026-06-19T06:42:33-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "83339854",
-    "title": "Software Engineer - Core & Platform",
-    "company": "Altonomy",
-    "link": "https://tokkalabs.hire.trakstar.com/jobs/fk0z7hj/",
-    "date": "2026-06-19T10:04:06.000Z",
-    "source": "https://jobs.polychain.capital/jobs"
-  },
-  {
-    "id": "83339033",
-    "title": "Compliance Operations Manager (Madrid)",
-    "company": "Crossmint",
-    "link": "https://crossmint.na.teamtailor.com/jobs/649316-compliance-operations-manager-madrid",
-    "date": "2026-06-19T09:56:51.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "8018139",
-    "title": "Senior Research Engineer (Relocate to Hong Kong)",
-    "company": "Flow Traders",
-    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8018139",
-    "date": "2026-06-19T05:32:58-04:00",
-    "source": "Greenhouse: Flow Traders"
-  },
-  {
-    "id": "8007158",
-    "title": "Head of Learning & Quality, Stripe Delivery Center",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8007158",
-    "date": "2026-06-19T04:05:59-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "543ee407-4c31-48f4-9b10-7a0bcdb094c0",
-    "title": "AML Transaction Monitoring Analyst",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/543ee407-4c31-48f4-9b10-7a0bcdb094c0",
-    "date": "2026-06-19T03:22:17.367Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "7777902003",
-    "title": "Principal PM, Affiliate & KOL - Onshore Markets",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7777902003",
-    "date": "2026-06-18T21:58:40-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7777902003",
-    "title": "Principal Product Manager, Affiliate & KOL - Onshore Markets",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7777902003",
-    "date": "2026-06-18T21:58:40-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "8017214",
-    "title": "Program Manager, Agentic Commerce Go-to-Market",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8017214",
-    "date": "2026-06-18T21:23:22-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8001341",
-    "title": "Creative Director, Copy & Campaigns",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8001341",
-    "date": "2026-06-18T21:05:52-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "4674049006",
-    "title": "Staff Full Stack Engineer",
-    "company": "Fireblocks",
-    "link": "https://www.fireblocks.com/careers/position/4674049006?gh_jid=4674049006",
-    "date": "2026-06-18T19:31:41-04:00",
-    "source": "Greenhouse: Fireblocks"
-  },
-  {
-    "id": "8003458",
-    "title": "Assistant General Counsel, Regulatory",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8003458?t=gh_src=&gh_jid=8003458",
-    "date": "2026-06-18T18:54:17-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "4707729005",
-    "title": "Senior Manager, Financial Reporting & Technical Accounting",
-    "company": "FalconX",
-    "link": "https://job-boards.greenhouse.io/falconx/jobs/4707729005",
-    "date": "2026-06-18T18:28:32-04:00",
-    "source": "Greenhouse: FalconX"
-  },
-  {
-    "id": "8017336",
-    "title": "Account Executive, Startups - Grower",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8017336",
-    "date": "2026-06-18T18:22:22-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8017336",
-    "title": "Account Executive, Funded Startups - Core Grower",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8017336",
-    "date": "2026-06-18T18:22:22-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8017336",
-    "title": "Account Executive, Funded Startups - Expansion",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8017336",
-    "date": "2026-06-18T18:22:22-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8599917002",
-    "title": "Workplace Services Rotational Coordinator",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8599917002",
-    "date": "2026-06-18T17:47:52-04:00",
-    "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "83293845",
-    "title": "Member of Specialist Staff (Treasury Analyst) @ Zuba",
-    "company": "Zuba",
-    "link": "https://getzuba.notion.site/Member-of-Specialist-Staff-Treasury-Analyst-Zuba-360fffbb5f2a8013921ed84deb2e796b?pvs=25",
-    "date": "2026-06-18T21:25:46.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "83293846",
-    "title": "Member of Specialist Staff (Treasury Lead) @ Zuba",
-    "company": "Zuba",
-    "link": "https://getzuba.notion.site/Member-of-Specialist-Staff-Treasury-Lead-Zuba-382fffbb5f2a805bbd64f4c940720a95?pvs=25",
-    "date": "2026-06-18T21:25:46.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "8010197",
-    "title": "Product Marketing Manager",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/8010197?gh_jid=8010197",
-    "date": "2026-06-18T16:50:55-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "4690576006",
-    "title": "VP, Customer Success",
-    "company": "Fireblocks",
-    "link": "https://www.fireblocks.com/careers/position/4690576006?gh_jid=4690576006",
-    "date": "2026-06-18T16:48:37-04:00",
-    "source": "Greenhouse: Fireblocks"
-  },
-  {
-    "id": "8010164",
-    "title": "Senior Content Marketing Specialist",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/8010164?gh_jid=8010164",
-    "date": "2026-06-18T16:45:14-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "8016510",
-    "title": "Workplace Strategy & Operations Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8016510",
-    "date": "2026-06-18T16:39:02-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8017084",
-    "title": "Sanctions, Operations Associate",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8017084",
-    "date": "2026-06-18T16:31:14-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "83283762",
-    "title": "Senior Security Engineer (Offensive)",
-    "company": "Offchain Labs",
-    "link": "https://www.linkedin.com/jobs/view/senior-security-engineer-offensive-at-offchain-4427794822",
-    "date": "2026-06-18T20:18:37.000Z",
-    "source": "https://jobs.spartangroup.io/jobs"
-  },
-  {
-    "id": "83283763",
-    "title": "Head of Enterprise",
-    "company": "Offchain Labs",
-    "link": "https://www.linkedin.com/jobs/view/head-of-enterprise-at-offchain-4429768167",
-    "date": "2026-06-18T20:18:37.000Z",
-    "source": "https://jobs.spartangroup.io/jobs"
-  },
-  {
-    "id": "83283759",
-    "title": "Senior Backend Engineer, Rust",
-    "company": "Offchain Labs",
-    "link": "https://www.linkedin.com/jobs/view/senior-backend-engineer-rust-at-offchain-4427537022",
-    "date": "2026-06-18T20:18:37.000Z",
-    "source": "https://jobs.spartangroup.io/jobs"
-  },
-  {
-    "id": "83283761",
-    "title": "Senior Accounting Manager",
-    "company": "Offchain Labs",
-    "link": "https://www.linkedin.com/jobs/view/senior-accounting-manager-at-offchain-4429725163",
-    "date": "2026-06-18T20:18:37.000Z",
-    "source": "https://jobs.spartangroup.io/jobs"
-  },
-  {
-    "id": "83283760",
-    "title": "Director of Accounting",
-    "company": "Offchain Labs",
-    "link": "https://www.linkedin.com/jobs/view/director-of-accounting-at-offchain-4430120913",
-    "date": "2026-06-18T20:18:37.000Z",
-    "source": "https://jobs.spartangroup.io/jobs"
   }
 ]
