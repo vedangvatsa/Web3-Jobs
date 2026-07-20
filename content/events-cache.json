@@ -1,61 +1,5 @@
 [
   {
-    "id": "luma-host-evt-08B7zQUtHNcepID",
-    "name": "Reflect",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-07-19T13:00:00.000Z",
-    "endDate": "2026-07-19T17:00:00.000Z",
-    "city": "Bengaluru",
-    "country": "India",
-    "location": "Bengaluru, India",
-    "url": "https://lu.ma/grp4wzrz",
-    "coverImage": "https://images.lumacdn.com/uploads/68/23c5d9dc-ba54-4ac0-9aab-74993ee9c306.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-8PmvUJahaG1zIkB",
-    "name": "Weekly founder and investor dance meetup with Lynn—‘ICONIC BY MISTAKE’ (Practice Week)",
-    "description": "",
-    "startDate": "2026-07-19T17:00:00.000Z",
-    "endDate": "2026-07-19T18:30:00.000Z",
-    "city": "Bellevue",
-    "country": "United States",
-    "location": "Bellevue, United States",
-    "url": "https://lu.ma/b0jkasjo",
-    "coverImage": "https://images.lumacdn.com/event-covers/oe/be8cab08-74ff-46c7-9185-34f3b9b1c08e.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-disccal-d0YiqeGNo5cLj21",
-    "name": "Canada Crypto Week 🇨🇦",
-    "description": "🇨🇦 Toronto: July 20-26, 2026\n\nA week-long Web3 & AI takeover of Toronto. \n\n🚀 Main Event: Blockchain Futurist Conference \n🚀 July 21-22, 2026\n🚀 Rebel & Cabana, Toronto",
-    "startDate": "2026-07-20T00:00:00.000Z",
-    "endDate": "2026-07-21T00:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/canadacryptoweek",
-    "coverImage": "https://images.lumacdn.com/uploads/ag/517ec262-d810-49d7-8dec-534f7f324995.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "cmc-6a5a5182c507ea2b187ffc09",
-    "name": "VeChain: X Space on AgentSuite",
-    "description": "VeChain hosts an X Space to share insights on AgentSuite, discuss the role of blockchain, take community questions, and demo agents running on $VET. Scheduled for July 20 at 17:00 UTC.",
-    "startDate": "2026-07-20T00:00:00.000Z",
-    "endDate": "2026-07-20T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/vechainofficial/status/2077773272498815357",
-    "coverImage": "https://pbs.twimg.com/profile_images/1993620501248307200/Q1DGpN8z_200x200.png",
-    "source": "coinmarketcap",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-VFQYUYbmVsFzStJ",
     "name": "Parent Strong - Monday morning walk + movement",
     "description": "",
@@ -84,20 +28,6 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315486009",
-    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
-    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
-    "startDate": "2026-07-20T12:00:00-04:00",
-    "endDate": "2026-07-20T12:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/315486009/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/2/2/3/600_525981027.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-rTKA3BJwEXyKwkU",
     "name": "IoD Web3 SIG: Roundtable",
     "description": "",
@@ -122,6 +52,20 @@
     "location": "Toronto, Canada",
     "url": "https://lu.ma/yeujr4jn",
     "coverImage": "https://images.lumacdn.com/uploads/yc/1c209bee-3cc5-489d-af41-53f452daa289.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-QWLnkgLFUyOQMA3",
+    "name": "BitcoinMondays - Featuring A Discussion On Saylor's Strategy",
+    "description": "",
+    "startDate": "2026-07-20T21:30:00.000Z",
+    "endDate": "2026-07-20T22:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/hiqg82pa",
+    "coverImage": "https://images.lumacdn.com/uploads/a5/f662be3e-9303-4217-8e4c-6b6f86b1d090.png",
     "source": "luma",
     "month": "July 2026"
   },
@@ -154,17 +98,31 @@
     "month": "July 2026"
   },
   {
-    "id": "cmc-6a36104186d955733a9b686b",
-    "name": "LayerZero: Token Unlock",
-    "description": "LayerZero unlocks approximately 2.36% of its released supply at 10 PM UTC.",
-    "startDate": "2026-07-20T00:00:00.000Z",
-    "endDate": "2026-07-20T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://defillama.com/unlocks/layerzero",
-    "coverImage": null,
-    "source": "coinmarketcap",
+    "id": "luma-evt-1jh1ECZQs1Ghe7g",
+    "name": "Bitcoin Builders Club",
+    "description": "",
+    "startDate": "2026-07-20T23:30:00.000Z",
+    "endDate": "2026-07-21T02:30:00.000Z",
+    "city": "Austin",
+    "country": "United States",
+    "location": "Austin, United States",
+    "url": "https://lu.ma/pzsfigh5",
+    "coverImage": "https://images.lumacdn.com/event-covers/ly/4ec4f79b-6df5-4d28-b694-312d41f4823b.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-disccal-jvl1MyZHjkPV5NH",
+    "name": "Blockchain Futurist Conference 🚀",
+    "description": "A week-long Web3 takeover of Toronto, led by Blockchain Futurist Conference and 100+ events across the city.",
+    "startDate": "2026-07-21T00:00:00.000Z",
+    "endDate": "2026-07-22T00:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/futurist_conference",
+    "coverImage": "https://images.lumacdn.com/uploads/jp/f14d0000-5843-4ee4-a6c7-5ef892860302.png",
+    "source": "luma-trusted",
     "month": "July 2026"
   },
   {
@@ -252,20 +210,6 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-312821920",
-    "name": "Capitol City Bitcoin meetup - virtual",
-    "description": "Let’s talk about bitcoin, crypto and what’s going on in South Carolina ! You must RSVP in advance to obtain the video link.\nThis will be scheduled on the third Tuesday of every month.",
-    "startDate": "2026-07-21T19:00:00-04:00",
-    "endDate": "2026-07-21T19:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/312821920/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/c/9/4/1/600_499671521.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-3IGqWlTmFTJ6YBs",
     "name": "Bitcoin 202: Passphrases & Child Keys — Multiply Your Security Without Multiplying Your Keys",
     "description": "",
@@ -277,6 +221,20 @@
     "url": "https://lu.ma/3zplji5o",
     "coverImage": "https://images.lumacdn.com/event-covers/ce/7296e49d-aba8-4628-be07-5b0bd5686aba.png",
     "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315507693",
+    "name": "Bienvenidos a charla en Español.",
+    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
+    "startDate": "2026-07-21T18:30:00-05:00",
+    "endDate": "2026-07-21T18:30:00-05:00",
+    "city": "West Des Moines",
+    "country": "us",
+    "location": "West Des Moines, us",
+    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/315507693/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/d/0/4/600_503531524.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -504,6 +462,34 @@
     "month": "July 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-",
+    "name": "International Conference on Cryptography and Information Security (ICCIS)",
+    "description": "",
+    "startDate": "2026-07-22T00:00:00.000Z",
+    "endDate": "2026-07-22T00:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://conferenceindex.org/event/international-conference-on-cryptography-and-information-security-iccis-2026-july-berlin-de",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "July 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
+    "description": "",
+    "startDate": "2026-07-22T00:00:00.000Z",
+    "endDate": "2026-07-22T00:00:00.000Z",
+    "city": "Rome",
+    "country": "Italy",
+    "location": "Rome, Italy",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-july-rome-it",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "July 2026"
+  },
+  {
     "id": "cmc-6a5ba302c507ea2b18814e32",
     "name": "Monad: 470K MON YT Incentives",
     "description": "Pendle distributes 470,000 MON in incentives to YT holders on Monad over 2 weeks, starting 23 Jul 2026.",
@@ -640,6 +626,20 @@
     "location": "New York, United States",
     "url": "https://lu.ma/jzd52x3y",
     "coverImage": "https://images.lumacdn.com/uploads/ir/b417687f-233d-42f5-9524-e283821dc232.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-8RFRKEyqGG4lfbb",
+    "name": "What Bitcoin Did Live at PubKey NYC",
+    "description": "",
+    "startDate": "2026-07-23T22:30:00.000Z",
+    "endDate": "2026-07-24T00:15:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/eszuqxvk",
+    "coverImage": "https://images.lumacdn.com/uploads/uy/fa023a91-5a24-43a9-b220-72165927a420.jpg",
     "source": "luma",
     "month": "July 2026"
   },
@@ -826,6 +826,48 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-iT1c1RhrTkjBSPQ",
+    "name": "Vancouver VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-07-24T17:00:00.000Z",
+    "endDate": "2026-07-25T01:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/ohq87e1j",
+    "coverImage": "https://images.lumacdn.com/event-covers/g7/e3cf8181-b6a3-4459-94ce-da3996d308f4.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-9zQBxXQMVT2yzkU",
+    "name": "K-Founders Connect in Silicon Valley",
+    "description": "",
+    "startDate": "2026-07-24T20:00:00.000Z",
+    "endDate": "2026-07-24T22:00:00.000Z",
+    "city": "Menlo Park",
+    "country": "United States",
+    "location": "Menlo Park, United States",
+    "url": "https://lu.ma/ufahhekd",
+    "coverImage": "https://images.lumacdn.com/uploads/l2/a840c997-25a2-4aca-a599-ebe268e52e31.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-BTLGgyyxAGOWlO3",
+    "name": "半導体設計について学ぼう！ / Learn About Semiconductor Design!",
+    "description": "",
+    "startDate": "2026-07-24T23:00:00.000Z",
+    "endDate": "2026-07-25T01:00:00.000Z",
+    "city": "Santa Clara",
+    "country": "United States",
+    "location": "Santa Clara, United States",
+    "url": "https://lu.ma/dwmj7qam",
+    "coverImage": "https://images.lumacdn.com/gallery-images/l9/8a9304d4-ae5f-4fa4-87d2-acac12d8a637",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-smart-contracts-blockchain-and-cryptoc",
     "name": "International Conference on Smart Contracts, Blockchain and Cryptocurrencies (ICSCBC)",
     "description": "",
@@ -837,6 +879,20 @@
     "url": "https://conferenceindex.org/event/international-conference-on-smart-contracts-blockchain-and-cryptocurrencies-icscbc-2026-july-rhodes-gr",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-7DgEFBrEgdQnNbx",
+    "name": "Superteam Thailand: 1st Community Call",
+    "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
+    "startDate": "2026-07-25T06:00:00.000Z",
+    "endDate": "2026-07-25T07:30:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Bangkok, Thailand",
+    "url": "https://lu.ma/60tnzfxi",
+    "coverImage": "https://images.lumacdn.com/gallery-images/sv/c14ea5cc-0118-46a0-aaba-7d405125c7b4",
+    "source": "luma-trusted",
     "month": "July 2026"
   },
   {
@@ -892,6 +948,20 @@
     "location": "Online",
     "url": "https://defillama.com/unlocks/avalanche",
     "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "July 2026"
+  },
+  {
+    "id": "cmc-6a5a5182c507ea2b187ffc31",
+    "name": "Meteora: Referral Staking Program",
+    "description": "Meteora launches the Referral Staking Program, enabling users to stake and earn through referrals.",
+    "startDate": "2026-07-26T00:00:00.000Z",
+    "endDate": "2026-07-26T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/MeteoraAG/status/2077825968321015929",
+    "coverImage": "https://pbs.twimg.com/amplify_video_thumb/2077825540271308800/img/gDmRFgNOuXIB29Oi.jpg",
     "source": "coinmarketcap",
     "month": "July 2026"
   },
@@ -1022,17 +1092,31 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315536100",
+    "id": "mu-315536124",
     "name": "ZK Learning Group: Basics of Leo and Aleo",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-07-30T12:00:00-04:00",
-    "endDate": "2026-07-30T12:00:00-04:00",
+    "startDate": "2026-07-30T11:00:00-05:00",
+    "endDate": "2026-07-30T11:00:00-05:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-north-carolina/events/315536100/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/0/0/600_535043552.jpeg",
+    "url": "https://www.meetup.com/lfdt-chicago/events/315536124/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/3/0/600_535043600.jpeg",
     "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-zFqnAeUU3XYJAFQ",
+    "name": "Shift.Forward(): Seattle",
+    "description": "",
+    "startDate": "2026-07-30T23:00:00.000Z",
+    "endDate": "2026-07-31T01:00:00.000Z",
+    "city": "Seattle",
+    "country": "United States",
+    "location": "Seattle, United States",
+    "url": "https://lu.ma/mc4a7khd",
+    "coverImage": "https://images.lumacdn.com/uploads/0j/8e78797b-1d90-4902-9b85-4c6ed069ecde.png",
+    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -1078,34 +1162,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315686486",
-    "name": "Online Bitcoin Hangout",
-    "description": "**Online Bitcoin Hangout**\nThis virtual meetup is perfect for anyone interested in Bitcoin who can't (or prefers not to) attend our in-person events in Charlotte. This is an informal hangout where we ",
-    "startDate": "2026-08-03T18:30:00-04:00",
-    "endDate": "2026-08-03T18:30:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/bitcoincharlotte/events/315686486/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/3/d/c/600_533034236.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315687061",
-    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
-    "description": "Network virtually with those located in the DMV (District of Columbia, Virginia & Maryland) and internationally!\n\nThis monthly Monday meeting is hosted by Maryland Blockchain Association, Blockchain L",
-    "startDate": "2026-08-03T19:00:00-04:00",
-    "endDate": "2026-08-03T19:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315687061/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/a/f/600_527389071.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-gqBafNOrMPY96kb",
     "name": "Exploring the Path Forward: Blueprint x Activate Info Session + Happy Hour",
     "description": "",
@@ -1131,6 +1187,20 @@
     "url": "https://lu.ma/blitz-lon-aug-2026",
     "coverImage": "https://images.lumacdn.com/uploads/qs/1179c4d5-e801-472f-81b0-327fcd60e715.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-LCPk4rgLBELZAO3",
+    "name": "Light DAO x VOMO: Voice Activation with Chris Pan (LA)",
+    "description": "",
+    "startDate": "2026-08-10T01:30:00.000Z",
+    "endDate": "2026-08-10T04:30:00.000Z",
+    "city": "Beverly Hills",
+    "country": "United States",
+    "location": "Beverly Hills, United States",
+    "url": "https://lu.ma/fuq4ss42",
+    "coverImage": "https://images.lumacdn.com/uploads/ma/2f2cebc6-58ae-4310-8a2d-c16d5b22aeff.png",
+    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -1172,6 +1242,20 @@
     "location": "Rio de Janeiro, Brazil",
     "url": "https://lu.ma/blockchain-rio",
     "coverImage": "https://images.unsplash.com/photo-1593854586136-2edae149504c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwyMnx8cmlvJTIwZGUlMjBqYW5laXJvfGVufDB8fHx8MTc3MTI0NTk2NXwy&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-UAKNtW8Gx9LpieK",
+    "name": "Light DAO Town Hall",
+    "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
+    "startDate": "2026-08-12T18:00:00.000Z",
+    "endDate": "2026-08-12T19:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/jzeqbkle",
+    "coverImage": "https://images.lumacdn.com/event-covers/p9/b7d8de23-97d3-4ccc-8e4d-8e8a11f5bea2",
     "source": "luma-trusted",
     "month": "August 2026"
   },
@@ -1367,7 +1451,7 @@
     "country": "UAE",
     "location": "Dubai, UAE, UAE",
     "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": null,
+    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/04/unchained-summit-dubai-may-2026-an-event-by-aeternum.jpg",
     "source": "marketacross",
     "month": "September 2026"
   },
@@ -1638,6 +1722,20 @@
     "month": "October 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-advances-in-generative-ai-large-langua",
+    "name": "International Conference on Advances in Generative AI, Large Language Models and Blockchain Technology (ICAGLLMBT)",
+    "description": "",
+    "startDate": "2026-10-24T00:00:00.000Z",
+    "endDate": "2026-10-24T00:00:00.000Z",
+    "city": "Sydney",
+    "country": "Australia",
+    "location": "Sydney, Australia",
+    "url": "https://conferenceindex.org/event/international-conference-on-advances-in-generative-ai-large-language-models-and-blockchain-technology-icagllmbt-2026-october-sydney-au",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "October 2026"
+  },
+  {
     "id": "ma-aibc-world",
     "name": "AIBC World",
     "description": "AIBC World is generating exceptional momentum as a high-profile, influential blockchain event. Exhibition space of 75,000 sqm has already been sold out for the upcoming 2026 edition in Rome, with more",
@@ -1902,33 +2000,5 @@
     "coverImage": "https://images.lumacdn.com/uploads/px/1961f942-3a75-4335-a4e5-a1ebe72e1810.png",
     "source": "luma-trusted",
     "month": "June 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-",
-    "name": "International Conference on Cryptography and Information Security (ICCIS)",
-    "description": "",
-    "startDate": "2027-07-19T00:00:00.000Z",
-    "endDate": "2027-07-19T00:00:00.000Z",
-    "city": "Copenhagen",
-    "country": "Denmark",
-    "location": "Copenhagen, Denmark",
-    "url": "https://conferenceindex.org/event/international-conference-on-cryptography-and-information-security-iccis-2026-july-copenhagen-dk",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
-    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
-    "description": "",
-    "startDate": "2027-07-19T00:00:00.000Z",
-    "endDate": "2027-07-19T00:00:00.000Z",
-    "city": "Helsinki",
-    "country": "Finland",
-    "location": "Helsinki, Finland",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-july-helsinki-fi",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
   }
 ]
