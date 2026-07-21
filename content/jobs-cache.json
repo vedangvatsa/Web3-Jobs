@@ -1,5 +1,349 @@
 [
   {
+    "id": "9a31d73b-3ee1-44cd-a415-f9fa11fdff4f",
+    "title": "Head of Solutions Engineering",
+    "company": "Offchain Labs",
+    "link": "https://jobs.lever.co/offchainlabs/9a31d73b-3ee1-44cd-a415-f9fa11fdff4f",
+    "date": "2026-07-21T19:28:02.807Z",
+    "source": "Lever: Offchain Labs"
+  },
+  {
+    "id": "1b6a5a22-d6ed-4591-987d-6cc5b7bca8e1",
+    "title": "Money Laundering Reporting Officer, AML",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/1b6a5a22-d6ed-4591-987d-6cc5b7bca8e1",
+    "date": "2026-07-21T19:20:17.701+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "8075378",
+    "title": "Senior Manager, Hedge Accounting",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8075378?gh_jid=8075378",
+    "date": "2026-07-21T14:59:21-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "5366085008",
+    "title": "Technical Support Representative Night shift",
+    "company": "Nexus",
+    "link": "https://job-boards.greenhouse.io/nexus/jobs/5366085008",
+    "date": "2026-07-21T14:48:21-04:00",
+    "source": "Greenhouse: Nexus"
+  },
+  {
+    "id": "4717174005",
+    "title": "Senior Paralegal (6 month contract)",
+    "company": "Shakepay",
+    "link": "https://job-boards.greenhouse.io/shakepay/jobs/4717174005",
+    "date": "2026-07-21T14:23:01-04:00",
+    "source": "Greenhouse: Shakepay"
+  },
+  {
+    "id": "8051871",
+    "title": "Senior Software Engineer, Backend - Platform (Core AI Automation)",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8051871?gh_jid=8051871",
+    "date": "2026-07-21T14:04:21-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "87063512",
+    "title": "Technical Program Manager, CX Intelligence & AI",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/8013948",
+    "date": "2026-07-21T16:50:57.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87063514",
+    "title": "Technical Program Manager, Knowledge Systems",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/8013892",
+    "date": "2026-07-21T16:50:57.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87063506",
+    "title": "Staff Software Engineer, Developer Infrastructure",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/7964410",
+    "date": "2026-07-21T16:50:56.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87063508",
+    "title": "Staff Software Engineer, EAA CX",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/6784618",
+    "date": "2026-07-21T16:50:56.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87063509",
+    "title": "Staff Software Engineer (Platform - Identity IDV)",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/7773776",
+    "date": "2026-07-21T16:50:56.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87063511",
+    "title": "Strategic Intelligence Manager, Protective Intelligence",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/8010600",
+    "date": "2026-07-21T16:50:56.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87063502",
+    "title": "Staff Software Engineer, Backend - Payments Platform",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/7993066",
+    "date": "2026-07-21T16:50:55.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87063500",
+    "title": "Staff Software Engineer, Backend (Consumer - Risk)",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/7990660",
+    "date": "2026-07-21T16:50:55.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87063495",
+    "title": "Staff Site Reliability Engineer, Core AI Infrastructure",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/7991691",
+    "date": "2026-07-21T16:50:54.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87063494",
+    "title": "Staff Product Manager, CX Automation",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/8001275",
+    "date": "2026-07-21T16:50:54.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87063489",
+    "title": "Staff Machine Learning Engineer(Platform - Identity)",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/7891045",
+    "date": "2026-07-21T16:50:53.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87063490",
+    "title": "Staff ML Risk Analyst",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/8002967",
+    "date": "2026-07-21T16:50:53.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "8075021",
+    "title": "Group Marketing Manager, Base Chain",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8075021?gh_jid=8075021",
+    "date": "2026-07-21T12:42:55-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "777464d6-234c-4b72-a0b8-f52761f71010",
+    "title": "Sports Markets Lead",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/777464d6-234c-4b72-a0b8-f52761f71010",
+    "date": "2026-07-21T16:02:03.521+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "f0e3a9bb-1ea1-4ea7-aa82-56ae24b2ab3a",
+    "title": "Growth Marketing Associate",
+    "company": "Notabene",
+    "link": "https://jobs.ashbyhq.com/Notabene/f0e3a9bb-1ea1-4ea7-aa82-56ae24b2ab3a",
+    "date": "2026-07-21T15:47:56.663+00:00",
+    "source": "Ashby: Notabene"
+  },
+  {
+    "id": "8036588",
+    "title": "Senior Software Engineer, Kubernetes Compute",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8036588?t=gh_src=&gh_jid=8036588",
+    "date": "2026-07-21T11:36:55-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "b746f064-ea9d-4742-a6f2-8d85e7939438",
+    "title": "Release Management Engineer, Mobile",
+    "company": "Phantom",
+    "link": "https://jobs.ashbyhq.com/Phantom/b746f064-ea9d-4742-a6f2-8d85e7939438",
+    "date": "2026-07-21T15:25:56.083+00:00",
+    "source": "Ashby: Phantom"
+  },
+  {
+    "id": "87045865",
+    "title": "Head of Enterprise",
+    "company": "Offchain Labs",
+    "link": "https://www.linkedin.com/jobs/view/head-of-enterprise-at-offchain-4442426578",
+    "date": "2026-07-21T15:07:05.000Z",
+    "source": "https://jobs.spartangroup.io/jobs"
+  },
+  {
+    "id": "7f65247a-f063-4ee4-afaf-b9d0c3d1abcf",
+    "title": "Senior Campaign Manager",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/7f65247a-f063-4ee4-afaf-b9d0c3d1abcf",
+    "date": "2026-07-21T15:02:05.329+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "8066953",
+    "title": "Solutions Architect, Enterprise (German fluency)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8066953",
+    "date": "2026-07-21T10:55:53-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4698009006",
+    "title": "Sales Engineer",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/4698009006?gh_jid=4698009006",
+    "date": "2026-07-21T10:42:50-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "6115753004",
+    "title": "Senior Software Engineer - Trading",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6115753004",
+    "date": "2026-07-21T10:25:28-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "87031556",
+    "title": "Manager, Strategic Finance",
+    "company": "Agora",
+    "link": "https://jobs.gem.com/agora/am9icG9zdDr9LZ1g4SJ_Jsk1JoS14AYJ",
+    "date": "2026-07-21T14:08:09.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "87030967",
+    "title": "Lead - Talent Acqusition",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/704",
+    "date": "2026-07-21T14:06:42.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "32d0a6da-114f-4b83-aa8b-0fd9c9dc9144",
+    "title": "Member of Client Operations, Settlements",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/32d0a6da-114f-4b83-aa8b-0fd9c9dc9144",
+    "date": "2026-07-21T14:05:18.626Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
+    "id": "8074806",
+    "title": "Prediction Markets Operations Intern (Fall 2026)",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8074806&gh_jid=8074806",
+    "date": "2026-07-21T10:01:08-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "b8bf44e1-db4a-43af-9afe-a3d32171d8a0",
+    "title": "Senior Software Engineer - Data",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/b8bf44e1-db4a-43af-9afe-a3d32171d8a0",
+    "date": "2026-07-21T13:51:38.425+00:00",
+    "source": "Ashby: Elliptic"
+  },
+  {
+    "id": "87014669",
+    "title": "Compliance Analyst",
+    "company": "Rain",
+    "link": "https://jobs.ashbyhq.com/rain/6ac11993-0fb8-4121-85f6-e53d1ecc9d6e",
+    "date": "2026-07-21T13:28:36.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "87014670",
+    "title": "Compliance Engineer",
+    "company": "Rain",
+    "link": "https://jobs.ashbyhq.com/rain/f055197c-7db9-47f4-8978-7ff564ada7ae",
+    "date": "2026-07-21T13:28:36.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "87014667",
+    "title": "Compliance Associate",
+    "company": "Rain",
+    "link": "https://jobs.ashbyhq.com/rain/4ebd8c9d-e68c-4df1-ac82-cb666a1911f3",
+    "date": "2026-07-21T13:28:35.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "8074978",
+    "title": "Staff Application Security Engineer",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8074978&gh_jid=8074978",
+    "date": "2026-07-21T09:21:22-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "8074982",
+    "title": "Senior Manager, Platform Security",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8074982&gh_jid=8074982",
+    "date": "2026-07-21T09:20:59-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "8007738",
+    "title": "Technical Program Manager, Manager",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8007738",
+    "date": "2026-07-21T08:57:54-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4b30efc7-b315-46db-abfb-65f5d2dfb039",
+    "title": "Account Executive, Crypto Native",
+    "company": "Blockdaemon",
+    "link": "https://jobs.ashbyhq.com/Blockdaemon/4b30efc7-b315-46db-abfb-65f5d2dfb039",
+    "date": "2026-07-21T12:50:41.766+00:00",
+    "source": "Ashby: Blockdaemon"
+  },
+  {
+    "id": "86977951",
+    "title": "Compliance Analyst",
+    "company": "Tephra",
+    "link": "https://jobs.ashbyhq.com/rain/6ac11993-0fb8-4121-85f6-e53d1ecc9d6e",
+    "date": "2026-07-21T12:04:24.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "86977952",
+    "title": "Compliance Engineer",
+    "company": "Tephra",
+    "link": "https://jobs.ashbyhq.com/rain/f055197c-7db9-47f4-8978-7ff564ada7ae",
+    "date": "2026-07-21T12:04:24.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "86977948",
+    "title": "Compliance Associate",
+    "company": "Tephra",
+    "link": "https://jobs.ashbyhq.com/rain/4ebd8c9d-e68c-4df1-ac82-cb666a1911f3",
+    "date": "2026-07-21T12:04:23.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
     "id": "952bfcc6-82b7-4dbb-af80-8f770af2729e",
     "title": "Senior Enterprise Sales Executive",
     "company": "Elliptic",
@@ -1544,6 +1888,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "8065818",
+    "title": "Corporate Development M&A Integration Manager",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8065818",
+    "date": "2026-07-16T18:41:16-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "6e134bb0-fadf-49a3-a624-eee90475c3fd",
     "title": "Business Development - Payment",
     "company": "Binance",
@@ -2322,6 +2674,14 @@
   {
     "id": "8067443",
     "title": "Senior Associate, Compliance Technology (Compliance Automation)",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8067443?gh_jid=8067443",
+    "date": "2026-07-15T12:37:35-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8067443",
+    "title": "Senior Analyst, Compliance Technology",
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/8067443?gh_jid=8067443",
     "date": "2026-07-15T12:37:35-04:00",
@@ -6426,6 +6786,14 @@
   {
     "id": "13fe8467-b624-4f30-8aad-af441dfb1797",
     "title": "Technical Consultant, Oracle Fusion",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/13fe8467-b624-4f30-8aad-af441dfb1797",
+    "date": "2026-07-07T20:05:52.829+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "13fe8467-b624-4f30-8aad-af441dfb1797",
+    "title": "Technical Consultant, Oracle Cloud",
     "company": "Ramp",
     "link": "https://jobs.ashbyhq.com/ramp/13fe8467-b624-4f30-8aad-af441dfb1797",
     "date": "2026-07-07T20:05:52.829+00:00",
@@ -13358,6 +13726,14 @@
     "source": "Greenhouse: Robinhood"
   },
   {
+    "id": "7982916",
+    "title": "Customer Experience Representative, Executive Office",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7982916?t=gh_src=&gh_jid=7982916",
+    "date": "2026-06-23T10:23:45-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
     "id": "83738297",
     "title": "Senior AI Product Engineer",
     "company": "Elliptic",
@@ -14108,37 +14484,5 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7779020003",
     "date": "2026-06-21T19:17:14-04:00",
     "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "83530418",
-    "title": "Social Media Live & Content Intern",
-    "company": "Cinch",
-    "link": "https://my.linkedin.com/jobs/view/social-media-live-content-intern-at-cinch-4429314222",
-    "date": "2026-06-21T14:15:06.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "83530296",
-    "title": "Talent Sourcer - Business & Enablement",
-    "company": "Chainlink",
-    "link": "https://www.linkedin.com/jobs/view/talent-sourcer-business-enablement-at-chainlink-labs-4430773276",
-    "date": "2026-06-21T13:51:28.000Z",
-    "source": "https://jobs.framework.ventures/jobs"
-  },
-  {
-    "id": "83529562",
-    "title": "Fullstack Software Engineer, New Grad",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-new-grad-at-hadrian-4427890981",
-    "date": "2026-06-21T12:56:15.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "83529563",
-    "title": "People Systems Product Manager",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/people-systems-product-manager-at-hadrian-4427863552",
-    "date": "2026-06-21T12:56:15.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
   }
 ]
