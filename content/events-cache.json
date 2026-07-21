@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-host-evt-n41e2dttG68htB5",
-    "name": "Workshops - Superteam India",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-07-21T12:30:00.000Z",
-    "endDate": "2026-07-21T13:15:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/superteamin-workshop",
-    "coverImage": "https://images.lumacdn.com/uploads/ld/76414ca4-20e3-4454-9d09-fedb0c68af20.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-lDYHEHOG3MBcNBF",
     "name": "VIP Dinner at Futurist with Cryptoworth, Kwantum Advisory, and DualEntry",
     "description": "",
@@ -39,20 +25,6 @@
     "url": "https://lu.ma/3zplji5o",
     "coverImage": "https://images.lumacdn.com/event-covers/ce/7296e49d-aba8-4628-be07-5b0bd5686aba.png",
     "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-315507693",
-    "name": "Bienvenidos a charla en Español.",
-    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
-    "startDate": "2026-07-21T18:30:00-05:00",
-    "endDate": "2026-07-21T18:30:00-05:00",
-    "city": "West Des Moines",
-    "country": "us",
-    "location": "West Des Moines, us",
-    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/315507693/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/2/d/0/4/600_503531524.jpeg",
-    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -109,6 +81,34 @@
     "url": "https://x.com/KaiaChain/status/2077906149618458959",
     "coverImage": "https://pbs.twimg.com/amplify_video_thumb/2077906135072567296/img/G9wP0r02dd3kGhuh.jpg",
     "source": "coinmarketcap",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315509003",
+    "name": "Silicon Valley Entrepreneur Toastmasters Career Session",
+    "description": "Career Professionals, Entrepreneurs and Job Seekers:\nCareer Sessions: Tuesdays 6:00-7:30 PM Pacific Time\nZoom Link: [https://zoom.us/j/98937546543](https://zoom.us/j/98937546543)\n-Improve Communicatio",
+    "startDate": "2026-07-21T18:00:00-07:00",
+    "endDate": "2026-07-21T18:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/svsei-org/events/315509003/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/9/8/3/600_521791107.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315262060",
+    "name": "What is Solarpunk?",
+    "description": "Let's go back to the basics and talk about what Solarpunk is. What must it have, in which areas could it have a flexible definition, and how do we get there from here?\n\nBelow are some videos to watch.",
+    "startDate": "2026-07-21T19:30:00-07:00",
+    "endDate": "2026-07-21T19:30:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/bay-area-solarpunks/events/315262060/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/5/e/8/600_534750184.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -546,6 +546,20 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315574928",
+    "name": "Noche de Español: Cultura, Juegos Y Buena Vibra. Julio 23",
+    "description": "Bienvenidos a Noche de Español! Un meet-up relajado y divertido donde la cultura, los juegos y la conversación en español se combinan para crear una experiencia única. Aquí no importa tu nivel de espa",
+    "startDate": "2026-07-23T18:30:00-07:00",
+    "endDate": "2026-07-23T18:30:00-07:00",
+    "city": "Oakland",
+    "country": "US",
+    "location": "Oakland, US",
+    "url": "https://www.meetup.com/meet-up-en-espanol/events/315574928/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/9/e/3/3/600_532000499.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-evt-mvzySixPFVG4WZu",
     "name": "ROCm & Roll with TensorWave and Friends",
     "description": "",
@@ -555,7 +569,7 @@
     "country": "United States",
     "location": "San Francisco, United States",
     "url": "https://lu.ma/gm18d420",
-    "coverImage": "https://images.lumacdn.com/uploads/ur/f5201fd9-c877-4ec8-b2e7-b47e40f2d484.png",
+    "coverImage": "https://images.lumacdn.com/uploads/8w/f65d5865-4864-403b-a8b3-7b35c880e7c5.jpg",
     "source": "luma",
     "month": "July 2026"
   },
@@ -798,6 +812,20 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315748450",
+    "name": "Hodl Up, the Bitcoin Mining Game",
+    "description": "Let's have fun together while learning more about Bitcoin.\nTravel the time chain from the Genesis block in 2009 through 2140 when the last bitcoin - ever - is finally mined.\n\nHoldl Up is the most popu",
+    "startDate": "2026-07-25T14:00:00-07:00",
+    "endDate": "2026-07-25T14:00:00-07:00",
+    "city": "Berkeley",
+    "country": "us",
+    "location": "Berkeley, us",
+    "url": "https://www.meetup.com/bay-area-bitcoiners/events/315748450/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/3/5/d/7/600_535273783.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "cmc-6a3ca7c4760d514d73dd803b",
     "name": "Avalanche: Token Unlock",
     "description": "Avalanche unlocks approximately 0.23% of its total supply at 12:30 PM UTC.",
@@ -893,6 +921,20 @@
     "url": "https://lu.ma/SFLightDAOJuly",
     "coverImage": "https://images.lumacdn.com/uploads/o5/cc9a6e93-9ff0-4207-8491-953c3a27b55c.png",
     "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315593827",
+    "name": "Web3 and AI networking at The Rose & Crown",
+    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
+    "startDate": "2026-07-27T18:30:00-07:00",
+    "endDate": "2026-07-27T18:30:00-07:00",
+    "city": "Palo Alto",
+    "country": "us",
+    "location": "Palo Alto, us",
+    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/315593827/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/c/4/a/1/600_473750337.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -1008,16 +1050,30 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315536124",
+    "id": "mu-315536104",
     "name": "ZK Learning Group: Basics of Leo and Aleo",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-07-30T11:00:00-05:00",
-    "endDate": "2026-07-30T11:00:00-05:00",
+    "startDate": "2026-07-30T09:00:00-07:00",
+    "endDate": "2026-07-30T09:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/315536124/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/3/0/600_535043600.jpeg",
+    "url": "https://www.meetup.com/lfdt-sf/events/315536104/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/0/a/600_535043562.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315536123",
+    "name": "ZK Learning Group: Basics of Leo and Aleo",
+    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
+    "startDate": "2026-07-30T09:00:00-07:00",
+    "endDate": "2026-07-30T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-silicon-valley/events/315536123/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/2/e/600_535043598.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
@@ -1061,6 +1117,20 @@
     "url": "https://lu.ma/qylupg15",
     "coverImage": "https://images.lumacdn.com/uploads/rh/c043b194-2252-4d70-95bd-2782525175b4.png",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315748382",
+    "name": "Bitcoin for Beginners",
+    "description": "Learn by doing!\n\nWe're sending Bitcoin to each other using Bitcoin Testnet. Testnet is a replica of Bitcoin Mainnet used for testing without risking real funds. It's a safe, fun way to learn Bitcoin b",
+    "startDate": "2026-08-02T14:00:00-07:00",
+    "endDate": "2026-08-02T14:00:00-07:00",
+    "city": "Oakland",
+    "country": "US",
+    "location": "Oakland, US",
+    "url": "https://www.meetup.com/bay-area-bitcoiners/events/315748382/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/f/6/f/600_530364431.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1466,6 +1536,20 @@
     "location": "Paris, France",
     "url": "https://lu.ma/59fgmsee",
     "coverImage": "https://images.lumacdn.com/uploads/sc/baae43e2-ff02-43bf-b5ba-4241f124067b.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-td8qi5bEW950tcC",
+    "name": "Crypto For Good",
+    "description": "",
+    "startDate": "2026-09-21T23:00:00.000Z",
+    "endDate": "2026-09-22T01:30:00.000Z",
+    "city": "Austin",
+    "country": "United States",
+    "location": "Austin, United States",
+    "url": "https://lu.ma/cb3ejhww",
+    "coverImage": "https://images.lumacdn.com/uploads/e2/48bf7fb3-602c-4ec8-83b8-308425abc5c7.jpg",
     "source": "luma",
     "month": "September 2026"
   },
