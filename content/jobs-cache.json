@@ -1,5 +1,173 @@
 [
   {
+    "id": "952bfcc6-82b7-4dbb-af80-8f770af2729e",
+    "title": "Senior Enterprise Sales Executive",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/952bfcc6-82b7-4dbb-af80-8f770af2729e",
+    "date": "2026-07-21T11:43:37.278+00:00",
+    "source": "Ashby: Elliptic"
+  },
+  {
+    "id": "86959984",
+    "title": "Full Stack Engineer (Senior)",
+    "company": "Akash Network",
+    "link": "https://jobs.lever.co/AkashNetwork/280faa84-15fe-4c31-8920-fbba2de88356",
+    "date": "2026-07-21T11:22:35.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "86958146",
+    "title": "Lead Full Stack Engineer",
+    "company": "Genies",
+    "link": "https://jobs.ashbyhq.com/genies/120e04cd-e786-4ade-bb32-5230c34edadb",
+    "date": "2026-07-21T11:17:09.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "047bc8c2-a79b-4fd3-a57c-6052b585c768",
+    "title": "Senior React Native Engineer",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/047bc8c2-a79b-4fd3-a57c-6052b585c768",
+    "date": "2026-07-21T10:56:51.002Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "86945272",
+    "title": "Contract Talent Acquisition Partner",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8635737002",
+    "date": "2026-07-21T10:37:33.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "86944043",
+    "title": "Talent Officer",
+    "company": "Djamo",
+    "link": "https://djamo.breezy.hr/p/abfbf6ae5143-talent-officer",
+    "date": "2026-07-21T10:31:05.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "86940527",
+    "title": "Field Officer",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6119386004",
+    "date": "2026-07-21T10:13:35.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "86940526",
+    "title": "Assistant Financial Controller",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6119722004",
+    "date": "2026-07-21T10:13:34.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "86938254",
+    "title": "Founding Marketing",
+    "company": "Antimetal",
+    "link": "https://jobs.ashbyhq.com/antimetal/c7fd44d8-514f-47b8-86af-3906954d9f28",
+    "date": "2026-07-21T10:01:25.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "a3c8813a-f2e0-4d12-a6ae-7bb8ace4f994",
+    "title": "Senior DevOps Engineer",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/a3c8813a-f2e0-4d12-a6ae-7bb8ace4f994",
+    "date": "2026-07-21T09:55:40.140+00:00",
+    "source": "Ashby: Elliptic"
+  },
+  {
+    "id": "4933450101",
+    "title": "Business Development Specialist",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4933450101",
+    "date": "2026-07-21T05:54:56-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "c0c6c96d-5611-4a27-9298-b55474f6a1f9",
+    "title": "Lead DevOps Engineer",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/c0c6c96d-5611-4a27-9298-b55474f6a1f9",
+    "date": "2026-07-21T09:51:52.720+00:00",
+    "source": "Ashby: Elliptic"
+  },
+  {
+    "id": "4933368101",
+    "title": "Senior Product Marketing Specialist - Crypto & Advanced Trading",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4933368101",
+    "date": "2026-07-21T04:59:23-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "2684022",
+    "title": "Engagement Manager, AI Implementations",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/engagement-manager-ai-implementations-19",
+    "date": "2026-07-21 08:34:40 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
+    "id": "8dbde7d6-b2e1-46f3-bd98-b7da70a97ffe",
+    "title": "Wallet & Crypto Security Engineer",
+    "company": "Coins.ph",
+    "link": "https://jobs.lever.co/coins/8dbde7d6-b2e1-46f3-bd98-b7da70a97ffe",
+    "date": "2026-07-21T08:28:58.706Z",
+    "source": "Lever: Coins.ph"
+  },
+  {
+    "id": "4933305101",
+    "title": "Software Engineer, Golang (Bitpanda Enterprise)",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4933305101",
+    "date": "2026-07-21T04:20:32-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "7802446003",
+    "title": "Engineering Director/Expert",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7802446003",
+    "date": "2026-07-21T04:08:28-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "8642361002",
+    "title": "GTM Planning and Analysis Lead",
+    "company": "ComplyAdvantage",
+    "link": "https://complyadvantage.com/careers/jobs/8642361002?gh_jid=8642361002",
+    "date": "2026-07-21T04:07:26-04:00",
+    "source": "Greenhouse: ComplyAdvantage"
+  },
+  {
+    "id": "3feb889c-3778-4cc2-9875-128fd77f6db9",
+    "title": "Customer Service Representative, Gulf Binance",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/3feb889c-3778-4cc2-9875-128fd77f6db9",
+    "date": "2026-07-21T07:27:42.072Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "8076108",
+    "title": "Head of Strategic Risk Programs, New Markets",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8076108",
+    "date": "2026-07-21T03:15:30-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "e92d8b5f-0f0a-4569-884f-4f45c8ad024c",
+    "title": "Senior Data Analyst, Trading",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/e92d8b5f-0f0a-4569-884f-4f45c8ad024c",
+    "date": "2026-07-21T05:40:34.049Z",
+    "source": "Lever: Binance"
+  },
+  {
     "id": "86934402",
     "title": "Founding Engineer",
     "company": "Lattica ",
@@ -400,6 +568,22 @@
     "source": "https://jobs.dragonfly.xyz/jobs"
   },
   {
+    "id": "86911359",
+    "title": "Compliance Officer",
+    "company": "Matrixport",
+    "link": "https://my.linkedin.com/jobs/view/compliance-officer-kyc-at-bit-official-4442013924",
+    "date": "2026-07-20T14:09:14.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
+    "id": "86911361",
+    "title": "Compliance Officer (Transaction Monitoring and Investigations)",
+    "company": "Matrixport",
+    "link": "https://my.linkedin.com/jobs/view/compliance-officer-transaction-monitoring-and-investigations-at-bit-official-4442015930",
+    "date": "2026-07-20T14:09:14.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
     "id": "86911068",
     "title": "Senior AML, CTF, CPF & Sanctions Analyst",
     "company": "Luno",
@@ -450,6 +634,14 @@
   {
     "id": "86904081",
     "title": "Senior Data Analyst",
+    "company": "Decent.xyz",
+    "link": "https://jobs.lever.co/moonpay/e42e3201-53dc-40a5-9d36-1fcdcc5c2d99",
+    "date": "2026-07-20T13:34:14.000Z",
+    "source": "https://jobs.archetype.fund/jobs"
+  },
+  {
+    "id": "86904081",
+    "title": "Senior/Staff Data Analyst",
     "company": "Decent.xyz",
     "link": "https://jobs.lever.co/moonpay/e42e3201-53dc-40a5-9d36-1fcdcc5c2d99",
     "date": "2026-07-20T13:34:14.000Z",
@@ -1726,6 +1918,14 @@
     "link": "https://jobs.ashbyhq.com/kraken.com/dafebaed-af62-44fe-a8fe-8ae120ca08c6",
     "date": "2026-07-16T11:53:26.000Z",
     "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "922015ad-b6fa-42e2-a8bb-2ea004b4b224",
+    "title": "SOC Security Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/922015ad-b6fa-42e2-a8bb-2ea004b4b224",
+    "date": "2026-07-16T11:49:51.649Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "86500611",
@@ -3320,8 +3520,24 @@
     "source": "https://jobs.archetype.fund/jobs"
   },
   {
+    "id": "86236032",
+    "title": "Senior People Partner (Acquisitions)",
+    "company": "Decent.xyz",
+    "link": "https://jobs.lever.co/moonpay/89dc5e0f-de6b-4684-942e-01a7ffc4c664",
+    "date": "2026-07-14T11:56:54.000Z",
+    "source": "https://jobs.archetype.fund/jobs"
+  },
+  {
     "id": "86236009",
     "title": "FIU Analyst",
+    "company": "Decent.xyz",
+    "link": "https://jobs.lever.co/moonpay/27a99cfa-aff1-45f8-bc32-9230462398bd",
+    "date": "2026-07-14T11:56:53.000Z",
+    "source": "https://jobs.archetype.fund/jobs"
+  },
+  {
+    "id": "86236009",
+    "title": "FIU Analyst - 12 month contract",
     "company": "Decent.xyz",
     "link": "https://jobs.lever.co/moonpay/27a99cfa-aff1-45f8-bc32-9230462398bd",
     "date": "2026-07-14T11:56:53.000Z",
@@ -3438,6 +3654,14 @@
     "link": "https://www.linkedin.com/jobs/view/lead-talent-partner-engineering-at-chainlink-labs-4437430496",
     "date": "2026-07-14T09:43:22.000Z",
     "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "89dc5e0f-de6b-4684-942e-01a7ffc4c664",
+    "title": "Senior People Partner (Acquisitions)",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/89dc5e0f-de6b-4684-942e-01a7ffc4c664",
+    "date": "2026-07-14T08:50:39.360Z",
+    "source": "Lever: MoonPay"
   },
   {
     "id": "0de37732-ab17-4b6d-8507-58039706abda",
@@ -13454,6 +13678,14 @@
     "source": "Greenhouse: Coinbase"
   },
   {
+    "id": "8596771002",
+    "title": "achine earning esearcher",
+    "company": "Jane Street",
+    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8596771002",
+    "date": "2026-06-22T16:14:59-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
     "id": "3b335c2e-a035-4b17-a61d-2e5e4275d261",
     "title": "Senior Operations Manager",
     "company": "Gelato",
@@ -13908,53 +14140,5 @@
     "link": "https://www.linkedin.com/jobs/view/people-systems-product-manager-at-hadrian-4427863552",
     "date": "2026-06-21T12:56:15.000Z",
     "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "83524305",
-    "title": "Compliance Officer",
-    "company": "Matrixport",
-    "link": "https://my.linkedin.com/jobs/view/compliance-officer-kyc-at-bit-official-4429019769",
-    "date": "2026-06-21T05:15:05.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "83524307",
-    "title": "Compliance Officer (Transaction Monitoring and Investigations)",
-    "company": "Matrixport",
-    "link": "https://my.linkedin.com/jobs/view/compliance-officer-transaction-monitoring-and-investigations-at-bit-official-4429024633",
-    "date": "2026-06-21T05:15:05.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "83524304",
-    "title": "Talent Acquisition Specialist",
-    "company": "Matrixport",
-    "link": "https://sg.linkedin.com/jobs/view/talent-acquisition-specialist-at-bit-official-4429628891",
-    "date": "2026-06-21T05:15:05.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "83523206",
-    "title": "Marketing Lead - Fintech",
-    "company": "Merge",
-    "link": "https://uk.linkedin.com/jobs/view/marketing-lead-fintech-at-merge-4431333468",
-    "date": "2026-06-21T04:54:18.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "83523207",
-    "title": "AI-Led RevOps Lead (Revenue Operations) - Fintech",
-    "company": "Merge",
-    "link": "https://uk.linkedin.com/jobs/view/ai-led-revops-lead-revenue-operations-fintech-at-merge-4431330482",
-    "date": "2026-06-21T04:54:18.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "83523204",
-    "title": "Business Operations Lead - Fintech",
-    "company": "Merge",
-    "link": "https://fr.linkedin.com/jobs/view/business-operations-lead-fintech-at-merge-4431318580",
-    "date": "2026-06-21T04:54:18.000Z",
-    "source": "https://coinbase.getro.com/jobs"
   }
 ]
