@@ -1,61 +1,5 @@
 [
   {
-    "id": "luma-host-evt-XCXDzjsAnJcc9uU",
-    "name": "Superteam Poland Co-work: Kraków",
-    "description": "",
-    "startDate": "2026-07-24T07:00:00.000Z",
-    "endDate": "2026-07-24T16:00:00.000Z",
-    "city": "Kraków",
-    "country": "Poland",
-    "location": "Kraków, Poland",
-    "url": "https://lu.ma/co-work25",
-    "coverImage": "https://images.lumacdn.com/uploads/vo/ce21b29d-51d0-4711-9e3d-1ea2a777b23a.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-JRloloPOnjwowzA",
-    "name": "Coworking Fridays Belgrade | Superteam Balkan",
-    "description": "A community of founders, developers, and innovators working to grow and promote the Solana ecosystem across the Balkans.",
-    "startDate": "2026-07-24T08:00:00.000Z",
-    "endDate": "2026-07-24T15:00:00.000Z",
-    "city": "Beograd",
-    "country": "Serbia",
-    "location": "Beograd, Serbia",
-    "url": "https://lu.ma/coworking-fridays-belgrade",
-    "coverImage": "https://images.lumacdn.com/event-covers/97/7daf8a9d-64e6-4135-9959-37de003af068.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-FEAm8DeIfF5vk6a",
-    "name": "Talent Hub Friday's @ Dogpatch",
-    "description": "Superteam Ireland is the Irish chapter of the global Superteam network.\n\nWe’re a community of founders, engineers, operators, and creators building on Solana.",
-    "startDate": "2026-07-24T08:30:00.000Z",
-    "endDate": "2026-07-24T17:00:00.000Z",
-    "city": "Dublin 1",
-    "country": "Ireland",
-    "location": "Dublin 1, Ireland",
-    "url": "https://lu.ma/s7mjahuy",
-    "coverImage": "https://images.lumacdn.com/uploads/uf/a9e4f9da-64ed-4781-ba78-3dcf3b390350.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-JlxWd2XMvT986uc",
-    "name": "Co-Working Fridays : London Chapter",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-07-24T09:00:00.000Z",
-    "endDate": "2026-07-24T19:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/london-july-24",
-    "coverImage": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-5RRGRH2Iexfng9V",
     "name": "Toronto Solana VibeStation",
     "description": "",
@@ -249,20 +193,6 @@
     "url": "https://lu.ma/pywvj9ag",
     "coverImage": "https://images.lumacdn.com/uploads/mm/a6009bda-1a9c-4dff-b6fe-16b3e086e95c.png",
     "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-315437800",
-    "name": "South Side Spanish (Bridgeport)",
-    "description": "Estás invitado a un grupo de habla español. Aquí no se juzga, es bienvenido/a el que sea nativo/a o al que este recién empezando. Lo único que te pedimos es que hagas un esfuerzo ya que es primordial ",
-    "startDate": "2026-07-25T15:00:00-05:00",
-    "endDate": "2026-07-25T15:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/chicago-spanish-language/events/315437800/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/6/1/d/600_503345661.jpeg",
-    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -462,6 +392,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-OL4rS9WTW0wG5Dm",
+    "name": "Shaping the Future of On-Chain Finance",
+    "description": "",
+    "startDate": "2026-07-28T06:00:00.000Z",
+    "endDate": "2026-07-28T09:00:00.000Z",
+    "city": "",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://lu.ma/y84xn9th",
+    "coverImage": "https://images.lumacdn.com/uploads/tz/94f2e561-f35f-4208-b132-fd46da8ed362.jpg",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-aFYhYLkMvosFmh4",
     "name": "Warsaw AI Breakfast #2",
     "description": "Kolektyw3 to miejsce, gdzie spotyka się warszawska scena AI i web3. Coworking, meetupy, warsztaty, hackathony i społeczność ludzi, którzy budują, eksperymentują i działają razem.",
@@ -472,6 +416,20 @@
     "location": "Warszawa, Poland",
     "url": "https://lu.ma/warsawbreakfast2",
     "coverImage": "https://images.lumacdn.com/uploads/tf/e0d21c10-e1c4-454d-9a59-1a3953fbf341.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-ceWwZvErt2jUWz9",
+    "name": "Solana Grant Demo Day 🇦🇺 | Superteam Australia x AUDD",
+    "description": "Accelerating the Solana ecosystem in Australia 🇦🇺 | powered by Solana Foundation",
+    "startDate": "2026-07-28T08:00:00.000Z",
+    "endDate": "2026-07-28T11:00:00.000Z",
+    "city": "Fortitude Valley",
+    "country": "Australia",
+    "location": "Fortitude Valley, Australia",
+    "url": "https://lu.ma/sol-audd-demo",
+    "coverImage": "https://images.lumacdn.com/uploads/62/a1f9b80e-cc8c-4356-b86f-e18a1fca5305.png",
     "source": "luma-trusted",
     "month": "July 2026"
   },
@@ -546,6 +504,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-60ldxVFdl2RnMlu",
+    "name": "OKX Web3 Night @HK",
+    "description": "打造全球最热华语 Web3 活动聚会；\n连接KOL、开发者、媒体、投资人和建设者；\n相约老朋友，结识新朋友；\n更多活动\n关注(↓)",
+    "startDate": "2026-07-29T11:00:00.000Z",
+    "endDate": "2026-07-29T14:30:00.000Z",
+    "city": "",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://lu.ma/cekqdbvs",
+    "coverImage": "https://images.lumacdn.com/uploads/gn/1f65003e-162a-48cb-ab1a-bf19a6a17b14.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-oGq7JRJkO9n7UNV",
     "name": "Superteam member office hours",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -599,20 +571,6 @@
     "url": "https://lu.ma/uzzxjjjn",
     "coverImage": "https://images.lumacdn.com/uploads/5x/ee76c52a-bbd2-40d0-80db-727e3d1fd113.png",
     "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-315779304",
-    "name": "⚡🟠 BITCOIN & BEERS: JULY MEETUP. Enjoy an OG Bitcoin Burger on the patio! 🍔🍺",
-    "description": "⚡ BITCOIN & BEERS: JULY MEETUP 🍺 🟠\n\n📍 Bottle Theory (Patio) — Elmhurst\n📆 Wednesday, July 29th, 2026\n⏰ 6:00 PM – 10:00 PM\n\nCan you believe it ..we've crossed over the 8+ year mark!!!\nJoin us for ou",
-    "startDate": "2026-07-29T18:00:00-05:00",
-    "endDate": "2026-07-29T18:00:00-05:00",
-    "city": "Elmhurst",
-    "country": "US",
-    "location": "Elmhurst, US",
-    "url": "https://www.meetup.com/chicago-western-suburbs-bitcoin-meetup/events/315779304/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/e/8/b/600_535308779.jpeg",
-    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -714,16 +672,16 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315536124",
+    "id": "mu-315536079",
     "name": "ZK Learning Group: Basics of Leo and Aleo",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-07-30T11:00:00-05:00",
-    "endDate": "2026-07-30T11:00:00-05:00",
+    "startDate": "2026-07-30T09:00:00-07:00",
+    "endDate": "2026-07-30T09:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/315536124/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/3/0/600_535043600.jpeg",
+    "url": "https://www.meetup.com/lfdt-phoenix/events/315536079/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/b/d/0/600_535043504.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
@@ -739,6 +697,20 @@
     "url": "https://lu.ma/9aifj2we",
     "coverImage": "https://images.lumacdn.com/uploads/7t/c0ab605e-c6b3-45b1-bd1a-4a4889bf96eb.png",
     "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315635411",
+    "name": "Artificial Intelligence and Blockchain Discussion",
+    "description": "Join us for an engaging discussion on the latest advancements in Artificial Intelligence and Blockchain technology. Our event will cover topics such as Machine Learning, Ethereum, Smart Contracts, and",
+    "startDate": "2026-07-30T16:00:00-07:00",
+    "endDate": "2026-07-30T16:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/ai-blockchain-more-tech/events/315635411/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/e/2/7/600_521728199.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -891,8 +863,22 @@
     "country": "",
     "location": "Online",
     "url": "https://x.com/DigiByteCoin/status/2075451584818082160",
-    "coverImage": "https://pbs.twimg.com/card_img/2077702439478685696/r8xXPNZb?format=jpg&amp;name=orig",
+    "coverImage": "https://pbs.twimg.com/profile_images/1668401644701196288/czJN13eX_200x200.jpg",
     "source": "coinmarketcap",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315637950",
+    "name": "Crypto talk - Money is Freedom; currency is slavery ",
+    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
+    "startDate": "2026-07-30T19:00:00-07:00",
+    "endDate": "2026-07-30T19:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cashflow-271/events/315637950/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/c/2/600_501417026.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -924,6 +910,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-PJqEcUfT0YW4oaj",
+    "name": "EVOLVE·space | Bridging Wealth: RWA Across Generations",
+    "description": "Multi-Chain, Multi-Asset Tokenization transforming fractional ownership and global capital flows in green energy, real estate, and institutional assets",
+    "startDate": "2026-07-31T08:00:00.000Z",
+    "endDate": "2026-07-31T10:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/j9kprgtg",
+    "coverImage": "https://images.lumacdn.com/uploads/y4/5e4fedf9-5f96-4e85-a872-6ebcd46d3407.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-J38ZT19XxG906nz",
     "name": "Skyline Coworking",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -934,6 +934,48 @@
     "location": "New York, United States",
     "url": "https://lu.ma/t71nqijo",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-HAqaQgqasCFgjWt",
+    "name": "Montreal VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-07-31T13:30:00.000Z",
+    "endDate": "2026-07-31T21:30:00.000Z",
+    "city": "Montréal",
+    "country": "Canada",
+    "location": "Montréal, Canada",
+    "url": "https://lu.ma/gbc7kral",
+    "coverImage": "https://images.lumacdn.com/event-covers/bw/0599c98d-915f-4c33-9471-92269e672a9d.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-WmC6SJLWPvP7HlK",
+    "name": "Toronto Solana VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-07-31T13:30:00.000Z",
+    "endDate": "2026-07-31T22:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/9f556i6m",
+    "coverImage": "https://images.lumacdn.com/uploads/3r/7a26f540-bbb1-4c90-878d-d5586f760523.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-host-evt-CX9MoSqCGw7SJv6",
+    "name": "Vancouver VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-07-31T17:00:00.000Z",
+    "endDate": "2026-08-01T01:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/494et3md",
+    "coverImage": "https://images.lumacdn.com/event-covers/g7/e3cf8181-b6a3-4459-94ce-da3996d308f4.png",
     "source": "luma-trusted",
     "month": "July 2026"
   },
@@ -980,17 +1022,31 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-dib81pGXSyroKNm",
-    "name": "Maker Basics: Soldering & Electronics",
-    "description": "",
-    "startDate": "2026-08-03T14:00:00.000Z",
-    "endDate": "2026-08-03T16:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://lu.ma/1e3ik397",
-    "coverImage": "https://images.lumacdn.com/event-covers/2m/724fa110-8f37-42de-9441-4b3307c22ab5.jpg",
-    "source": "luma",
+    "id": "luma-host-evt-8r1XuPjp1xyA9EO",
+    "name": "HKGHH Event: Premier Networking Night @ LKF 🌟 THEME: Hong Kong Web3 Festival 🌟",
+    "description": "Hong Kong HKGHH PE/VC/TECH Community & HAPPY HOUR \n-Collaboration -Employment -Fundraising\n\n🌟Calling for |PE|VC|Investor|FO|HNI|🌟to join our community to explore insights/talks/dealflows/resources",
+    "startDate": "2026-08-04T11:00:00.000Z",
+    "endDate": "2026-08-04T13:00:00.000Z",
+    "city": "",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://lu.ma/nqz7gjqc",
+    "coverImage": "https://images.lumacdn.com/uploads/9r/4917b4c9-faa6-4825-aa0e-7f4cce3d286f.jpg",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315714970",
+    "name": "Bitcoin 101",
+    "description": "**AGENDA**\n\n* TBA\n* What interesting things are you doing with bitcoin?\n* Q&A - Our usual chats about bitcoin stuff.\n\nWhile the meeting is free to all, we ask that you plan on purchasing at least some",
+    "startDate": "2026-08-04T18:00:00-07:00",
+    "endDate": "2026-08-04T18:00:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/arizona-bitcoin-meetup/events/315714970/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/2/4/4/600_494605156.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1019,6 +1075,20 @@
     "url": "https://lu.ma/m4pjyfuj",
     "coverImage": "https://images.lumacdn.com/event-covers/jk/5c014f67-b63c-4f82-a14a-f7d1e13f31da.jpg",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-vZ1HR9Rka8ch50U",
+    "name": "Community Call",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-06T16:00:00.000Z",
+    "endDate": "2026-08-06T16:30:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/aq7rqqmn",
+    "coverImage": "https://images.lumacdn.com/event-covers/13/c9cd330c-907d-406f-8fd5-c9ee2cb772af",
+    "source": "luma-trusted",
     "month": "August 2026"
   },
   {
@@ -1064,6 +1134,48 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-fpSgtPc6yGZKsZu",
+    "name": "Montreal VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-07T13:30:00.000Z",
+    "endDate": "2026-08-07T21:30:00.000Z",
+    "city": "Montréal",
+    "country": "Canada",
+    "location": "Montréal, Canada",
+    "url": "https://lu.ma/jd6mf370",
+    "coverImage": "https://images.lumacdn.com/event-covers/bw/0599c98d-915f-4c33-9471-92269e672a9d.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-1yEkAtsjJIihNBY",
+    "name": "Toronto Solana VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-07T13:30:00.000Z",
+    "endDate": "2026-08-07T22:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/qs254wqo",
+    "coverImage": "https://images.lumacdn.com/uploads/59/4abedc1c-33eb-4f14-8aa0-d44bf47dd787.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-whti63aPTIP3Ly6",
+    "name": "Vancouver VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-07T17:00:00.000Z",
+    "endDate": "2026-08-08T01:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/vfoplymh",
+    "coverImage": "https://images.lumacdn.com/event-covers/g7/e3cf8181-b6a3-4459-94ce-da3996d308f4.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-UAe1KjIWVcXJB7L",
     "name": "Monad Blitz London Hackathon",
     "description": "Learn, build and advance your career in Emerging Tech with our community of 500,000 talented professionals worldwide.",
@@ -1074,6 +1186,20 @@
     "location": "London, United Kingdom",
     "url": "https://lu.ma/blitz-lon-aug-2026",
     "coverImage": "https://images.lumacdn.com/uploads/rt/ddef9b20-6d34-46f4-9b7c-d84a31324d36.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-p9FDDfzSCAs58MH",
+    "name": "SOLANA SUMMIT NIGERIA: FROM EARN TO INTERNET CAPITAL MARKETS",
+    "description": "",
+    "startDate": "2026-08-08T08:00:00.000Z",
+    "endDate": "2026-08-08T16:00:00.000Z",
+    "city": "Uyo",
+    "country": "Nigeria",
+    "location": "Uyo, Nigeria",
+    "url": "https://lu.ma/Solana-Summit-Nigeria",
+    "coverImage": "https://images.lumacdn.com/uploads/xw/7cfbf877-1583-4f74-9d08-28444637e512.jpg",
     "source": "luma-trusted",
     "month": "August 2026"
   },
@@ -1117,20 +1243,6 @@
     "url": "https://lu.ma/fresh-d53z",
     "coverImage": "https://images.lumacdn.com/uploads/92/04499666-a1b2-439f-bb47-d086346504af.png",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315595694",
-    "name": "CDAO Chicago 2026 (Free Tickets)",
-    "description": "Important Note: Request your free tickets on the [external event website](https://bit.ly/4pbso2z) is required for admission.\n\n## Driving Innovation Through Data and Analytics Excellence\n\nReturning for",
-    "startDate": "2026-08-11T08:00:00-05:00",
-    "endDate": "2026-08-11T08:00:00-05:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/aittg-chicago/events/315595694/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/c/1/8/600_535111768.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1186,6 +1298,48 @@
     "location": "New York, United States",
     "url": "https://lu.ma/cq8l22ns",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-LWz1vUp33Qc5EaS",
+    "name": "Montreal VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-14T13:30:00.000Z",
+    "endDate": "2026-08-14T21:30:00.000Z",
+    "city": "Montréal",
+    "country": "Canada",
+    "location": "Montréal, Canada",
+    "url": "https://lu.ma/c021e0d3",
+    "coverImage": "https://images.lumacdn.com/event-covers/bw/0599c98d-915f-4c33-9471-92269e672a9d.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-NQcBhoDFwcErEkO",
+    "name": "Toronto Solana VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-14T13:30:00.000Z",
+    "endDate": "2026-08-14T22:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/9wrxgucx",
+    "coverImage": "https://images.lumacdn.com/uploads/72/d48a58b6-149e-46a8-ad42-33afa0ad969d.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-aTxrD31kGxWAITZ",
+    "name": "Vancouver VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-14T17:00:00.000Z",
+    "endDate": "2026-08-15T01:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/y1xtj18s",
+    "coverImage": "https://images.lumacdn.com/event-covers/g7/e3cf8181-b6a3-4459-94ce-da3996d308f4.png",
     "source": "luma-trusted",
     "month": "August 2026"
   },
@@ -1274,6 +1428,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-Ib36AtnPFHxQ3rv",
+    "name": "W3H MIX Webinar (August Edition): Managing Enterprise Risk After OpenClaw – Live Agent Command Demo",
+    "description": "Promoting an open, equitable, vibrant, and sustainable environment for Web3 innovation. Our events offer a regular platform learning, connection, critical discourse, and inspiration. Please join us!",
+    "startDate": "2026-08-20T04:30:00.000Z",
+    "endDate": "2026-08-20T05:30:00.000Z",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "location": "Hong Kong, Hong Kong",
+    "url": "https://lu.ma/9twox02u",
+    "coverImage": "https://images.lumacdn.com/uploads/il/c9c939e9-0e74-459a-af7e-0388095fbc9a.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-AZoiUa1n9m33grW",
     "name": "Technology, Innovation & Energy (TIE) Forum 2026 Austin - Hosted By The Texas Blockchain Council",
     "description": "",
@@ -1298,6 +1466,48 @@
     "location": "New York, United States",
     "url": "https://lu.ma/9vtoecnz",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-riX4OqZegAb5JPM",
+    "name": "Toronto Solana VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-21T13:30:00.000Z",
+    "endDate": "2026-08-21T22:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/ophlwpek",
+    "coverImage": "https://images.lumacdn.com/uploads/bi/96b4f03a-d1f1-4526-92ca-bb44c8c9a9a9.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-0ZCkqBYXauO0xZV",
+    "name": "Montreal VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-21T13:30:00.000Z",
+    "endDate": "2026-08-21T21:30:00.000Z",
+    "city": "Montréal",
+    "country": "Canada",
+    "location": "Montréal, Canada",
+    "url": "https://lu.ma/ivq3n57w",
+    "coverImage": "https://images.lumacdn.com/event-covers/bw/0599c98d-915f-4c33-9471-92269e672a9d.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-XZiEt7cfLTWjGve",
+    "name": "Vancouver VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-21T17:00:00.000Z",
+    "endDate": "2026-08-22T01:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/c4etqp43",
+    "coverImage": "https://images.lumacdn.com/event-covers/g7/e3cf8181-b6a3-4459-94ce-da3996d308f4.png",
     "source": "luma-trusted",
     "month": "August 2026"
   },
@@ -1386,6 +1596,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-calev-xMbtbulgtkvCOWy",
+    "name": "Bitcoin Asia",
+    "description": "",
+    "startDate": "2026-08-27T01:00:00.000Z",
+    "endDate": "",
+    "city": "",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://lu.ma/https://asia.b.tc/",
+    "coverImage": null,
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-7QmJchNnzKUraiJ",
     "name": "Skyline Coworking",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -1400,6 +1624,34 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-calev-qHCxChiG6ppiuL9",
+    "name": "Bitcoin Asia",
+    "description": "",
+    "startDate": "2026-08-28T01:00:00.000Z",
+    "endDate": "",
+    "city": "",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://lu.ma/https://x.com/BitcoinConfAsia",
+    "coverImage": null,
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-Bm1qDGhx8qB5H3C",
+    "name": "GDC 2026 Tickets via Linux Foundation",
+    "description": "To register for GDC26, select one Co-Organizer community below or contact the one most aligned with your mission to request a ticket. We look forward to seeing you in Geneva!",
+    "startDate": "2026-09-01T07:00:00.000Z",
+    "endDate": "2026-09-03T16:00:00.000Z",
+    "city": "Le Grand-Saconnex",
+    "country": "Switzerland",
+    "location": "Le Grand-Saconnex, Switzerland",
+    "url": "https://lu.ma/6u3xl5x1",
+    "coverImage": "https://images.lumacdn.com/uploads/93/a830f202-77bd-47db-8930-2c6e2396d274.png",
+    "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
     "id": "ethorg-meetupweb3privacy-now-meetupseptember-1amsterdam--",
     "name": "MeetupWeb3Privacy now meetupSeptember 1Amsterdam, Netherlands (opens in a new tab)",
     "description": "",
@@ -1409,7 +1661,7 @@
     "country": "Netherlands",
     "location": "Amsterdam, Netherlands",
     "url": "https://luma.com/sixp297m",
-    "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/dh/e3bc70d2-a256-47ba-900f-f61c82da4bc1.png",
+    "coverImage": null,
     "source": "ethereum-org",
     "month": "September 2026"
   },
@@ -1439,6 +1691,20 @@
     "url": "https://unchainedsummit.com/dubai/",
     "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/04/unchained-summit-dubai-may-2026-an-event-by-aeternum.jpg",
     "source": "marketacross",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-host-evt-I1Bt28OkPYIurp9",
+    "name": "Onchain Leaders Gathering",
+    "description": "",
+    "startDate": "2026-09-08T11:00:00.000Z",
+    "endDate": "2026-09-08T18:00:00.000Z",
+    "city": "Genève",
+    "country": "Switzerland",
+    "location": "Genève, Switzerland",
+    "url": "https://lu.ma/zrbsjzp3",
+    "coverImage": "https://images.lumacdn.com/uploads/ci/5432901b-6940-4e3c-bcc7-d1f8fe0b5f0b.jpg",
+    "source": "luma-trusted",
     "month": "September 2026"
   },
   {
@@ -1549,7 +1815,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://luma.com/ispxo30p",
-    "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/ch/5c8785f4-f489-4370-b057-f7e3d3b654ba.png",
+    "coverImage": null,
     "source": "ethereum-org",
     "month": "September 2026"
   },
@@ -1649,6 +1915,20 @@
     "url": "https://koreablockchainweek.com/",
     "coverImage": "https://framerusercontent.com/images/pesxh0NQOVpQRnQ7QadhG4wMY.png",
     "source": "marketacross",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-host-evt-wXnbqSNHZeLkLHU",
+    "name": "CV Summit 2026",
+    "description": "CV Summit 2026 is bringing together top financial institutions, investors, and Digital Assets & AI leaders in the heart of Switzerland’s financial and business hub. Join us in Zurich on Sept 29-30! ✨",
+    "startDate": "2026-09-29T10:00:00.000Z",
+    "endDate": "2026-09-30T18:00:00.000Z",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "location": "Zürich, Switzerland",
+    "url": "https://lu.ma/cvsummit2026",
+    "coverImage": "https://images.lumacdn.com/uploads/vb/82e0f9c8-3697-4e9e-9a1d-84500873e84e.png",
+    "source": "luma-trusted",
     "month": "September 2026"
   },
   {
@@ -1788,6 +2068,20 @@
     "location": "Amsterdam, Netherlands",
     "url": "https://lu.ma/bitcoin-amsterdam",
     "coverImage": "https://images.lumacdn.com/calendar-cover-images/ff/eca07886-71b5-4895-ab9b-ca465f7dedda",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-ktYtj2edpeRFLQd",
+    "name": "Hong Kong Digital Asset Summit by Cosmoverse",
+    "description": "The digital asset summit where institutions meet blockchain infrastructure. Coming to Hong Kong November 2026 | #Cosmoverse26",
+    "startDate": "2026-11-05T01:00:00.000Z",
+    "endDate": "2026-11-06T10:00:00.000Z",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "location": "Hong Kong, Hong Kong",
+    "url": "https://lu.ma/CosmoverseHongKong",
+    "coverImage": "https://images.lumacdn.com/uploads/zo/ada68738-a50a-4d94-9a51-015fc5bafaec.jpg",
     "source": "luma-trusted",
     "month": "November 2026"
   },
@@ -1958,6 +2252,20 @@
     "coverImage": null,
     "source": "conferenceindex",
     "month": "December 2026"
+  },
+  {
+    "id": "luma-host-evt-EPjnp5olv91GFK2",
+    "name": "Digital Asset Yield Summit Zurich",
+    "description": "The private, invite-only forum for traditional capital entering digital asset income markets.",
+    "startDate": "2027-01-18T05:00:00.000Z",
+    "endDate": "2027-01-18T14:00:00.000Z",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "location": "Zürich, Switzerland",
+    "url": "https://lu.ma/digital-asset-yield-summit-zurich",
+    "coverImage": "https://images.lumacdn.com/event-covers/oi/55cd57a0-31cc-47aa-8eea-e5eb78bbab95.png",
+    "source": "luma-trusted",
+    "month": "January 2027"
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbct-2027-march",
