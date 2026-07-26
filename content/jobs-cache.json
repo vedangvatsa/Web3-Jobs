@@ -1,11 +1,115 @@
 [
   {
+    "id": "87580733",
+    "title": "Team Manager",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8627034002",
+    "date": "2026-07-25T13:34:57.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87564651",
+    "title": "Support Group Lead",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6126503004",
+    "date": "2026-07-25T12:43:30.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "87564637",
+    "title": "Customer Support Team Lead",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6126510004",
+    "date": "2026-07-25T12:43:29.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "87555990",
+    "title": "Social Media Marketing Lead",
+    "company": "Walrus Foundation",
+    "link": "https://jobs.ashbyhq.com/walrus/8dd70d2b-3e5e-4d63-84d2-2dc46b7ee0c3",
+    "date": "2026-07-25T12:21:51.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "87549801",
+    "title": "Junior Account Executive",
+    "company": "Suade",
+    "link": "https://apply.workable.com/suade/j/2A0561868C",
+    "date": "2026-07-25T12:04:35.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87549802",
+    "title": "Business Development Representative/Sales Development Representative",
+    "company": "Suade",
+    "link": "https://apply.workable.com/suade/j/57B10F8875",
+    "date": "2026-07-25T12:04:35.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "87547799",
     "title": "Director of Sales",
     "company": "Mesh",
     "link": "https://boards.greenhouse.io/mesh/jobs/5367972008",
     "date": "2026-07-25T11:57:46.000Z",
     "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "87547237",
+    "title": "Recruiting Operations and Programs Manager",
+    "company": "Ripple",
+    "link": "https://boards.greenhouse.io/ripple/jobs/8004184",
+    "date": "2026-07-25T11:56:16.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "87545965",
+    "title": "Product Lead - Card Issuing",
+    "company": "Breeze",
+    "link": "https://boards.greenhouse.io/breezecash/jobs/5370457008",
+    "date": "2026-07-25T11:54:22.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "87545952",
+    "title": "Founding Growth Lead",
+    "company": "Breeze",
+    "link": "https://boards.greenhouse.io/breezecash/jobs/5370488008",
+    "date": "2026-07-25T11:54:21.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "87541515",
+    "title": "Engineering Intern",
+    "company": "Mosaic",
+    "link": "https://www.ycombinator.com/companies/mosaic-2/jobs/xyE4cJw-engineering-intern",
+    "date": "2026-07-25T11:43:57.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87541518",
+    "title": "Growth Intern",
+    "company": "Mosaic",
+    "link": "https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-growth-intern",
+    "date": "2026-07-25T11:43:57.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87541514",
+    "title": "Storyteller",
+    "company": "Mosaic",
+    "link": "https://www.ycombinator.com/companies/mosaic-2/jobs/FarBgYY-storyteller",
+    "date": "2026-07-25T11:43:57.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87541513",
+    "title": "Founding GTM",
+    "company": "Mosaic",
+    "link": "https://www.ycombinator.com/companies/mosaic-2/jobs/wNFjl8f-founding-gtm",
+    "date": "2026-07-25T11:43:57.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "87535001",
@@ -534,6 +638,14 @@
     "link": "https://www.comeet.com/jobs/etoro/41.009/product-builder/CE.E6E",
     "date": "2026-07-24T13:09:16.000Z",
     "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87442976",
+    "title": "Staff Software Engineer, Core Reliability",
+    "company": "Coinbase",
+    "link": "https://boards.greenhouse.io/coinbase/jobs/8082787",
+    "date": "2026-07-24T12:59:33.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
   },
   {
     "id": "87440168",
@@ -12630,6 +12742,14 @@
     "source": "Ashby: Socket"
   },
   {
+    "id": "8dec8a77-dafa-448a-a31c-4bf09e9d4f0d",
+    "title": "Technical Account Manager, Europe",
+    "company": "Socket",
+    "link": "https://jobs.ashbyhq.com/Socket/8dec8a77-dafa-448a-a31c-4bf09e9d4f0d",
+    "date": "2026-06-30T19:25:53.113+00:00",
+    "source": "Ashby: Socket"
+  },
+  {
     "id": "8027651",
     "title": "Executive Engagement Lead, Office of the CRO",
     "company": "Stripe",
@@ -14523,181 +14643,5 @@
     "link": "https://boards.greenhouse.io/wavemm1/jobs/6019755004",
     "date": "2026-06-26T13:29:45.000Z",
     "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "84191332",
-    "title": "Senior Front-End Engineer",
-    "company": "Inco",
-    "link": "https://inco.bamboohr.com/careers/35",
-    "date": "2026-06-26T11:40:03.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "84191337",
-    "title": "Director/Senior Institutional Business Development",
-    "company": "Inco",
-    "link": "https://inco.bamboohr.com/careers/36",
-    "date": "2026-06-26T11:40:03.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "c6e9e6d7-79c9-4e8a-9811-afd1c4810ecd",
-    "title": "IT Operations Engineer (Fresh Graduates Welcome)",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/c6e9e6d7-79c9-4e8a-9811-afd1c4810ecd",
-    "date": "2026-06-26T11:15:05.513Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "c6e9e6d7-79c9-4e8a-9811-afd1c4810ecd",
-    "title": "IT Operations Engineer",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/c6e9e6d7-79c9-4e8a-9811-afd1c4810ecd",
-    "date": "2026-06-26T11:15:05.513Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "7786596003",
-    "title": "Senior Agent, Customer Service (Spanish Speaker)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7786596003",
-    "date": "2026-06-26T06:40:28-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7786609003",
-    "title": "Senior Agent, Customer Service (French Speaker)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7786609003",
-    "date": "2026-06-26T06:39:53-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "84162455",
-    "title": "Group Financial Crime & Compliance Product Manager",
-    "company": "BVNK",
-    "link": "https://boards.greenhouse.io/bvnk/jobs/4908294101",
-    "date": "2026-06-26T09:56:07.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "4909075101",
-    "title": "Specialist, Payment & Risk Operations",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4909075101",
-    "date": "2026-06-26T04:49:37-04:00",
-    "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "4909003101",
-    "title": "Senior Data Analyst - Growth/Marketing",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4909003101",
-    "date": "2026-06-26T03:57:09-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4908991101",
-    "title": "Market Surveillance Specialist",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908991101",
-    "date": "2026-06-26T03:21:59-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4908939101",
-    "title": "Copywriting Lead",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908939101",
-    "date": "2026-06-26T02:35:49-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4908928101",
-    "title": "Principal Backend Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908928101",
-    "date": "2026-06-26T02:27:12-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "8029041",
-    "title": "Head of Sales, Stripe Billing - APAC",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8029041",
-    "date": "2026-06-26T00:04:13-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "4905494101",
-    "title": "Principal AI Agent Development Engineer/Architect",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4905494101",
-    "date": "2026-06-25T23:11:25-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "0ed80a29-6cca-42d7-b7e0-066d4fa7b37f",
-    "title": "Staff Software Engineer | iOS",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/0ed80a29-6cca-42d7-b7e0-066d4fa7b37f",
-    "date": "2026-06-26T01:57:53.065+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "8029711",
-    "title": "Staff Software Engineer, Core Reliability",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8029711?gh_jid=8029711",
-    "date": "2026-06-25T20:14:19-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7738118003",
-    "title": "Partner 22, GTM Executive Talent",
-    "company": "a16z",
-    "link": "https://a16z.com/about/jobs/?gh_jid=7738118003",
-    "date": "2026-06-25T20:10:56-04:00",
-    "source": "Greenhouse: a16z"
-  },
-  {
-    "id": "8024880",
-    "title": "Analytics Engineer, GFCO Analytics",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
-    "date": "2026-06-25T19:35:31-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8dec8a77-dafa-448a-a31c-4bf09e9d4f0d",
-    "title": "Technical Account Manager, Europe",
-    "company": "Socket",
-    "link": "https://jobs.ashbyhq.com/Socket/8dec8a77-dafa-448a-a31c-4bf09e9d4f0d",
-    "date": "2026-06-25T22:02:37.555+00:00",
-    "source": "Ashby: Socket"
-  },
-  {
-    "id": "8020278",
-    "title": "Corporate Counsel",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/8020278?gh_jid=8020278",
-    "date": "2026-06-25T17:05:56-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "8029378",
-    "title": "Workplace Operations Coordinator - London",
-    "company": "Brave",
-    "link": "https://job-boards.greenhouse.io/brave/jobs/8029378",
-    "date": "2026-06-25T16:28:14-04:00",
-    "source": "Greenhouse: Brave"
-  },
-  {
-    "id": "8021855",
-    "title": "Senior Operations Excellence Manager",
-    "company": "Guild",
-    "link": "https://www.guild.com/open-positions-at-guild?gh_jid=8021855",
-    "date": "2026-06-25T16:21:45-04:00",
-    "source": "Greenhouse: Guild"
   }
 ]
