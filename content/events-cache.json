@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-evt-stzEJf7cN8UYUgf",
-    "name": "A.M.A.D.U. – African Music, Art & Dance Universe with Amadu “Phil” Turay - RWANDA",
-    "description": "",
-    "startDate": "2026-07-26T16:30:00.000Z",
-    "endDate": "2026-07-26T18:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/ltoj4vvy",
-    "coverImage": "https://images.lumacdn.com/uploads/0t/f770fc4b-7106-4551-bca4-02890485fef1.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-fRCafNKZlPYOVyg",
     "name": "MTG PLACE x STRONG",
     "description": "",
@@ -39,20 +25,6 @@
     "url": "https://lu.ma/ama-with-atharv-stin",
     "coverImage": "https://images.lumacdn.com/uploads/rj/d77453e6-6f24-41ba-94da-5b522e3e89a5.png",
     "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-315586484",
-    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
-    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
-    "startDate": "2026-07-27T12:00:00-04:00",
-    "endDate": "2026-07-27T12:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/315586484/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/2/2/3/600_525981027.jpeg",
-    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -85,7 +57,7 @@
   },
   {
     "id": "luma-evt-D9lX6o7euYqybxC",
-    "name": "Autonomy in Motion: Drones, UAV, USV, UUV & Beyond - Silicon Valley Physical AI Meetup",
+    "name": "Autonomy in Motion: Drones, UAV, USV, UUV & Supply Chains - Silicon Valley Physical AI Meetup",
     "description": "",
     "startDate": "2026-07-27T22:30:00.000Z",
     "endDate": "2026-07-28T02:00:00.000Z",
@@ -238,6 +210,20 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315607194",
+    "name": "Bienvenidos a charla en Español.",
+    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
+    "startDate": "2026-07-28T18:30:00-05:00",
+    "endDate": "2026-07-28T18:30:00-05:00",
+    "city": "West Des Moines",
+    "country": "us",
+    "location": "West Des Moines, us",
+    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/315607194/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/d/0/4/600_503531524.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-disccal-gSoL0Ewq9buLCLp",
     "name": "#MYBW2026 (Malaysia Blockchain Week 2026)",
     "description": "Stay tuned to the HOTTEST blockchain event in Malaysia 🇲🇾 !\n\nMalaysia Blockchain Week 2026 | July 29 - 30th | World Trade Centre, Kuala Lumpur",
@@ -291,6 +277,20 @@
     "url": "https://lu.ma/member-office-hours",
     "coverImage": "https://images.lumacdn.com/uploads/xl/017ccbe7-5650-42c1-8aa6-c1fe9fe67b9d.png",
     "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-WNXXhgckBjtACwc",
+    "name": "Restorative Sound by Rowena (Move Strong London) - Walthamstow",
+    "description": "",
+    "startDate": "2026-07-29T17:30:00.000Z",
+    "endDate": "2026-07-29T18:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/kc6ih0se",
+    "coverImage": "https://images.lumacdn.com/uploads/8q/e263c0f9-a666-4af4-8940-a17984f35af8.jpg",
+    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -392,20 +392,6 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-314982079",
-    "name": "Open Bitcoin Q&A chat!",
-    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* Bitcoin.rocks\n* Bitcoin-Only.com\n* Bitcoiner.Guide\n* The",
-    "startDate": "2026-07-29T20:00:00-04:00",
-    "endDate": "2026-07-29T20:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/philadelphia-bitcoin-club/events/314982079/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/4/3/1/600_508345649.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-4wYqBOXA7ec2pla",
     "name": "Agentic Happy Hour with GitKraken",
     "description": "",
@@ -504,17 +490,31 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315536100",
+    "id": "mu-315536124",
     "name": "ZK Learning Group: Basics of Leo and Aleo",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-07-30T12:00:00-04:00",
-    "endDate": "2026-07-30T12:00:00-04:00",
+    "startDate": "2026-07-30T11:00:00-05:00",
+    "endDate": "2026-07-30T11:00:00-05:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-north-carolina/events/315536100/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/0/0/600_535043552.jpeg",
+    "url": "https://www.meetup.com/lfdt-chicago/events/315536124/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/3/0/600_535043600.jpeg",
     "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-kpy95uoVq9E6uDw",
+    "name": "Critical Minerals & Mining Innovation Exchange",
+    "description": "",
+    "startDate": "2026-07-30T21:00:00.000Z",
+    "endDate": "2026-07-31T01:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/0yxlsf7h",
+    "coverImage": "https://images.lumacdn.com/uploads/0w/7e87cd6a-f91b-4a65-a304-eada9c1b1606.png",
+    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -896,31 +896,17 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315686486",
-    "name": "Online Bitcoin Hangout",
-    "description": "**Online Bitcoin Hangout**\nThis virtual meetup is perfect for anyone interested in Bitcoin who can't (or prefers not to) attend our in-person events in Charlotte. This is an informal hangout where we ",
-    "startDate": "2026-08-03T18:30:00-04:00",
-    "endDate": "2026-08-03T18:30:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/bitcoincharlotte/events/315686486/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/3/d/c/600_533034236.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315687061",
-    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
-    "description": "Network virtually with those located in the DMV (District of Columbia, Virginia & Maryland) and internationally!\n\nThis monthly Monday meeting is hosted by Maryland Blockchain Association, Blockchain L",
-    "startDate": "2026-08-03T19:00:00-04:00",
-    "endDate": "2026-08-03T19:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315687061/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/a/f/600_527389071.jpeg",
-    "source": "meetup",
+    "id": "luma-evt-dib81pGXSyroKNm",
+    "name": "Maker Basics: Soldering & Electronics",
+    "description": "",
+    "startDate": "2026-08-03T14:00:00.000Z",
+    "endDate": "2026-08-03T16:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/1e3ik397",
+    "coverImage": "https://images.lumacdn.com/event-covers/2m/724fa110-8f37-42de-9441-4b3307c22ab5.jpg",
+    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -952,6 +938,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-315836938",
+    "name": "Where do we over identify?: Virtual Sip & Chat",
+    "description": "We all have identities we carry strong woman, independent, caregiver, successful, survivor, Black woman, perfectionist, people pleaser, peacemaker, fixer. But what if the very thing you're most proud ",
+    "startDate": "2026-08-05T19:00:00-05:00",
+    "endDate": "2026-08-05T19:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/sip-and-chat/events/315836938/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/a/3/3/8/600_535361784.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-GGcF1Zipk8FMDPX",
     "name": "Cowork with ETHGlobal in Arrecife with Coworking Guru Lanzarote",
     "description": "",
@@ -962,6 +962,20 @@
     "location": "New York, United States",
     "url": "https://lu.ma/ethglobal-cowork-Arrecife",
     "coverImage": "https://images.lumacdn.com/uploads/eb/5ba344af-da8d-4797-aa86-11bee117824b.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-vZ1HR9Rka8ch50U",
+    "name": "Community Call",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-06T16:00:00.000Z",
+    "endDate": "2026-08-06T16:30:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/aq7rqqmn",
+    "coverImage": "https://images.lumacdn.com/event-covers/13/c9cd330c-907d-406f-8fd5-c9ee2cb772af",
     "source": "luma-trusted",
     "month": "August 2026"
   },
