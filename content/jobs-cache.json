@@ -1,5 +1,13 @@
 [
   {
+    "id": "87610149",
+    "title": "Founding Infrastructure Engineer",
+    "company": "Insforge",
+    "link": "https://insforge.dev/careers/founding-infrastructure-engineer",
+    "date": "2026-07-26T12:16:01.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "87580733",
     "title": "Team Manager",
     "company": "Figure",
@@ -202,6 +210,14 @@
   {
     "id": "8083464",
     "title": "Investment Lead",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8083464",
+    "date": "2026-07-25T05:13:12-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8083464",
+    "title": "Investment Lead, Intercept",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=8083464",
     "date": "2026-07-25T05:13:12-04:00",
@@ -14363,285 +14379,5 @@
     "link": "https://jobs.lever.co/neon/eda38518-4ccd-4938-b843-4a4674c03f0b",
     "date": "2026-06-26T21:24:23.812Z",
     "source": "Lever: Neon EVM"
-  },
-  {
-    "id": "6102260004",
-    "title": "Corporate Security Engineer",
-    "company": "TaxBit",
-    "link": "https://job-boards.greenhouse.io/taxbit/jobs/6102260004",
-    "date": "2026-06-26T15:48:28-04:00",
-    "source": "Greenhouse: TaxBit"
-  },
-  {
-    "id": "4da9db59-b1df-46d8-973e-6a1a9f36ddc4",
-    "title": "Derivative Sales Lead",
-    "company": "Polymarket",
-    "link": "https://jobs.ashbyhq.com/Polymarket/4da9db59-b1df-46d8-973e-6a1a9f36ddc4",
-    "date": "2026-06-26T19:11:53.633+00:00",
-    "source": "Ashby: Polymarket"
-  },
-  {
-    "id": "0af5bd5d-3800-4b4d-9f60-812c2a7e0ac7",
-    "title": "Mortgage Lender",
-    "company": "Switchboard",
-    "link": "https://jobs.ashbyhq.com/switchboard/0af5bd5d-3800-4b4d-9f60-812c2a7e0ac7",
-    "date": "2026-06-26T18:32:40.758+00:00",
-    "source": "Ashby: Switchboard"
-  },
-  {
-    "id": "4299803009",
-    "title": "Marketing Operations",
-    "company": "Securitize",
-    "link": "https://job-boards.greenhouse.io/securitize/jobs/4299803009",
-    "date": "2026-06-26T13:50:00-04:00",
-    "source": "Greenhouse: Securitize"
-  },
-  {
-    "id": "4299793009",
-    "title": "Institutional Marketing Manager",
-    "company": "Securitize",
-    "link": "https://job-boards.greenhouse.io/securitize/jobs/4299793009",
-    "date": "2026-06-26T13:47:14-04:00",
-    "source": "Greenhouse: Securitize"
-  },
-  {
-    "id": "4299801009",
-    "title": "Event Director",
-    "company": "Securitize",
-    "link": "https://job-boards.greenhouse.io/securitize/jobs/4299801009",
-    "date": "2026-06-26T13:46:48-04:00",
-    "source": "Greenhouse: Securitize"
-  },
-  {
-    "id": "4299790009",
-    "title": "Senior Designer",
-    "company": "Securitize",
-    "link": "https://job-boards.greenhouse.io/securitize/jobs/4299790009",
-    "date": "2026-06-26T13:41:01-04:00",
-    "source": "Greenhouse: Securitize"
-  },
-  {
-    "id": "8594336002",
-    "title": "Compiler Engineer",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8594336002",
-    "date": "2026-06-26T13:12:30-04:00",
-    "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "84273637",
-    "title": "Director, Cost Accounting",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/director-cost-accounting-at-hadrian-4430274363",
-    "date": "2026-06-26T17:10:08.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "84273638",
-    "title": "Senior Engineering Manager, Fullstack",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/senior-engineering-manager-fullstack-at-hadrian-4430266539",
-    "date": "2026-06-26T17:10:08.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "84273634",
-    "title": "Payroll Analyst",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/payroll-analyst-at-hadrian-4429473374",
-    "date": "2026-06-26T17:10:07.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "84271771",
-    "title": "Staff Accountant",
-    "company": "Offchain Labs",
-    "link": "https://www.linkedin.com/jobs/view/staff-accountant-at-offchain-4433593057",
-    "date": "2026-06-26T16:58:30.000Z",
-    "source": "https://jobs.polychain.capital/jobs"
-  },
-  {
-    "id": "84271769",
-    "title": "Executive Assistant",
-    "company": "Offchain Labs",
-    "link": "https://www.linkedin.com/jobs/view/executive-assistant-at-offchain-4433579382",
-    "date": "2026-06-26T16:58:30.000Z",
-    "source": "https://jobs.polychain.capital/jobs"
-  },
-  {
-    "id": "8010009",
-    "title": "Counsel, Leasing & Operational Professional Services",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8010009",
-    "date": "2026-06-26T12:53:52-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "84268502",
-    "title": "Product Manager, Node Economics",
-    "company": "Chainlink",
-    "link": "https://br.linkedin.com/jobs/view/product-manager-node-economics-at-chainlink-labs-4433006134",
-    "date": "2026-06-26T16:36:20.000Z",
-    "source": "https://jobs.framework.ventures/jobs"
-  },
-  {
-    "id": "84268511",
-    "title": "Senior Solutions Engineer, Banking and Capital Markets",
-    "company": "Chainlink",
-    "link": "https://www.linkedin.com/jobs/view/senior-solutions-engineer-banking-and-capital-markets-at-chainlink-labs-4432898325",
-    "date": "2026-06-26T16:36:20.000Z",
-    "source": "https://jobs.framework.ventures/jobs"
-  },
-  {
-    "id": "84268504",
-    "title": "Senior Product Manager, Node Infrastructure",
-    "company": "Chainlink",
-    "link": "https://br.linkedin.com/jobs/view/senior-product-manager-node-infrastructure-at-chainlink-labs-4432890429",
-    "date": "2026-06-26T16:36:20.000Z",
-    "source": "https://jobs.framework.ventures/jobs"
-  },
-  {
-    "id": "84268503",
-    "title": "Engineering Manager, CRE Services",
-    "company": "Chainlink",
-    "link": "https://br.linkedin.com/jobs/view/engineering-manager-cre-services-at-chainlink-labs-4433009041",
-    "date": "2026-06-26T16:36:20.000Z",
-    "source": "https://jobs.framework.ventures/jobs"
-  },
-  {
-    "id": "84268496",
-    "title": "Product Manager, Banking and Capital Markets",
-    "company": "Chainlink",
-    "link": "https://gr.linkedin.com/jobs/view/product-manager-banking-and-capital-markets-at-chainlink-labs-4432889456",
-    "date": "2026-06-26T16:36:19.000Z",
-    "source": "https://jobs.framework.ventures/jobs"
-  },
-  {
-    "id": "84268498",
-    "title": "Product Manager, Compliance",
-    "company": "Chainlink",
-    "link": "https://gr.linkedin.com/jobs/view/product-manager-compliance-at-chainlink-labs-4432891476",
-    "date": "2026-06-26T16:36:19.000Z",
-    "source": "https://jobs.framework.ventures/jobs"
-  },
-  {
-    "id": "84268489",
-    "title": "Research Internship",
-    "company": "Chainlink",
-    "link": "https://www.linkedin.com/jobs/view/research-internship-at-chainlink-labs-4432825451",
-    "date": "2026-06-26T16:36:17.000Z",
-    "source": "https://jobs.framework.ventures/jobs"
-  },
-  {
-    "id": "8030859",
-    "title": "Backend Engineer, Financial Connections",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8030859",
-    "date": "2026-06-26T12:29:42-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "b304eb09-6910-4d7f-9e61-e8abdcf254de",
-    "title": "People Operations Coordinator",
-    "company": "Render Network",
-    "link": "https://jobs.ashbyhq.com/Render/b304eb09-6910-4d7f-9e61-e8abdcf254de",
-    "date": "2026-06-26T16:26:06.578+00:00",
-    "source": "Ashby: Render Network"
-  },
-  {
-    "id": "8610403002",
-    "title": "Strategic Account Executive",
-    "company": "ComplyAdvantage",
-    "link": "https://complyadvantage.com/careers/jobs/8610403002?gh_jid=8610403002",
-    "date": "2026-06-26T12:24:52-04:00",
-    "source": "Greenhouse: ComplyAdvantage"
-  },
-  {
-    "id": "6016154004",
-    "title": "Asset Management Counsel",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6016154004",
-    "date": "2026-06-26T12:07:05-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "8024368",
-    "title": "Account Executive, Funded Startups - Expansion",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8024368",
-    "date": "2026-06-26T11:41:36-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "84242655",
-    "title": "Senior Staff Partner Engineer",
-    "company": "Ripple",
-    "link": "https://boards.greenhouse.io/ripple/jobs/8013623",
-    "date": "2026-06-26T14:29:23.000Z",
-    "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "407e3de3-1d06-45a5-8eab-84d3c1fd0bc7",
-    "title": "Business Recruiter",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/407e3de3-1d06-45a5-8eab-84d3c1fd0bc7",
-    "date": "2026-06-26T14:28:40.147+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "84241771",
-    "title": "Sole Counsel",
-    "company": "R3",
-    "link": "https://careers.r3.com/jobs/7760915-sole-counsel",
-    "date": "2026-06-26T14:28:17.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "84232662",
-    "title": "Tech Lead, Backend",
-    "company": "1inch",
-    "link": "https://jobs.lever.co/1inch/b3d4b67e-ea13-497c-bf30-94685efd22b7",
-    "date": "2026-06-26T13:57:52.000Z",
-    "source": "https://jobs.avax.network/jobs"
-  },
-  {
-    "id": "8026689",
-    "title": "Internal Audit Data Analytics Lead",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8026689",
-    "date": "2026-06-26T09:48:43-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8025888",
-    "title": "Senior Account Executive, Platforms Hunter (French fluency)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8025888",
-    "date": "2026-06-26T09:47:03-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "84225065",
-    "title": "Social Media Manager, Shelf [Part-time contract]",
-    "company": "koodos",
-    "link": "https://koodos.notion.site/Social-Media-Manager-Shelf-Part-time-contract-2a3c87335a4e804dba20cad1eeba40bc?pvs=25",
-    "date": "2026-06-26T13:35:47.000Z",
-    "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "84223893",
-    "title": "Risk & Compliance Officer",
-    "company": "Wave Mobile Money",
-    "link": "https://boards.greenhouse.io/wavemm1/jobs/6101347004",
-    "date": "2026-06-26T13:29:45.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "84223889",
-    "title": "Fraud Communication Officer",
-    "company": "Wave Mobile Money",
-    "link": "https://boards.greenhouse.io/wavemm1/jobs/6019755004",
-    "date": "2026-06-26T13:29:45.000Z",
-    "source": "https://coinbase.getro.com/jobs"
   }
 ]
