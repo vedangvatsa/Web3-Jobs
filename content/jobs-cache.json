@@ -1,5 +1,77 @@
 [
   {
+    "id": "87629129",
+    "title": "Engineering Workstream Leader",
+    "company": "ShapeShift",
+    "link": "https://file.notion.so/f/f/aa09466d-4d5c-4b87-bd83-da08b9c1db47/fa8cd883-aa6d-4539-b25f-f67b2df3ee02/Engineering_Workstream_Lead_ShapeShift_DAO_Job_Description.pdf?table=block&id=76013dfd-07cb-411f-951a-d90d4950187e&spaceId=aa09466d-4d5c-4b87-bd83-da08b9c1db47&expirationTimestamp=1785168000000&signature=PQCMxZcoK29xINxJ0znSztxUVC3EwmT8dqTcV1Xahfg&downloadName=Engineering_Workstream_Lead_ShapeShift_DAO_Job_Description.pdf",
+    "date": "2026-07-27T09:56:03.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "8081423",
+    "title": "Product Strategy & Operations",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8081423",
+    "date": "2026-07-27T05:53:22-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8642475002",
+    "title": "Account Executive",
+    "company": "ComplyAdvantage",
+    "link": "https://complyadvantage.com/careers/jobs/8642475002?gh_jid=8642475002",
+    "date": "2026-07-27T05:05:20-04:00",
+    "source": "Greenhouse: ComplyAdvantage"
+  },
+  {
+    "id": "6126498004",
+    "title": "Senior Data Engineer",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6126498004",
+    "date": "2026-07-27T04:18:38-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "8dee80db-8a0e-4f86-b767-c0e443da27d8",
+    "title": "Growth Marketer",
+    "company": "Stacks",
+    "link": "https://jobs.ashbyhq.com/Stacks/8dee80db-8a0e-4f86-b767-c0e443da27d8",
+    "date": "2026-07-27T08:07:46.576+00:00",
+    "source": "Ashby: Stacks"
+  },
+  {
+    "id": "4933366101",
+    "title": "Senior Security Engineer",
+    "company": "Copper.co",
+    "link": "https://job-boards.eu.greenhouse.io/copperco/jobs/4933366101",
+    "date": "2026-07-27T04:04:26-04:00",
+    "source": "Greenhouse: Copper.co"
+  },
+  {
+    "id": "8076966",
+    "title": "Thailand Compliance Officer & Money Laundering Reporting Officer",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8076966",
+    "date": "2026-07-27T03:18:45-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8068746",
+    "title": "Account Executive, Product Sales - Money Management  ASEAN",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8068746",
+    "date": "2026-07-27T02:27:55-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8068744",
+    "title": "Account Executive, Product Sales-  Money Management ANZ",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8068744",
+    "date": "2026-07-27T02:22:00-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "1b13eda4-e7e1-45e4-ab05-794bd4eca6b3",
     "title": "Founding Technical Customer Success Manager",
     "company": "Artemis",
@@ -22,6 +94,22 @@
     "link": "https://jobs.lever.co/binance/420d5a6d-8aff-4dee-94d7-047b1cb78cd2",
     "date": "2026-07-27T01:14:22.731Z",
     "source": "Lever: Binance"
+  },
+  {
+    "id": "87626919",
+    "title": "Sales Director, Financial Services - San Francisco",
+    "company": "Hedera Hashgraph",
+    "link": "https://jobs.ashbyhq.com/hashgraph/4e453a7c-d717-4315-a0a3-55e52490ea47",
+    "date": "2026-07-26T21:53:23.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87626918",
+    "title": "Sales Director, Financial Services - APAC",
+    "company": "Hedera Hashgraph",
+    "link": "https://jobs.ashbyhq.com/hashgraph/afd44f07-70db-4a98-baf3-b967a4a4ec82",
+    "date": "2026-07-26T21:53:22.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "87610149",
@@ -1590,6 +1678,22 @@
     "link": "https://ar.linkedin.com/jobs/view/documentation-engineer-at-chainlink-labs-4443597386",
     "date": "2026-07-23T10:06:03.000Z",
     "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "7632855003",
+    "title": "Senior Affiliate Business Development Manager, Western Europe",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7632855003",
+    "date": "2026-07-23T05:56:50-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "4936076101",
+    "title": "Principal Backend Development Engineer",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4936076101",
+    "date": "2026-07-23T05:26:44-04:00",
+    "source": "Greenhouse: Bybit"
   },
   {
     "id": "4936057101",
@@ -14163,125 +14267,5 @@
     "link": "https://jobs.ashbyhq.com/Talos-Trading/e972a022-9ce2-48b4-9b8d-6e32077fd6d4",
     "date": "2026-06-27T12:41:36.000Z",
     "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "84410712",
-    "title": "Technical Project Manager - Core Infrastructure",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/44cf3322-82df-4c1c-b073-af7cb683c10e",
-    "date": "2026-06-27T12:28:24.000Z",
-    "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "84403240",
-    "title": "Corporate Security Engineer",
-    "company": "Tactic",
-    "link": "https://boards.greenhouse.io/taxbit/jobs/6102260004",
-    "date": "2026-06-27T12:22:01.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "84396344",
-    "title": "Treasury Manager",
-    "company": "Wave Mobile Money",
-    "link": "https://boards.greenhouse.io/wavemm1/jobs/6101303004",
-    "date": "2026-06-27T12:13:21.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "84396338",
-    "title": "Agent Quality Officer",
-    "company": "Wave Mobile Money",
-    "link": "https://boards.greenhouse.io/wavemm1/jobs/6100728004",
-    "date": "2026-06-27T12:13:20.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "84389724",
-    "title": "Lead Talent Acquisition Partner",
-    "company": "Circle",
-    "link": "https://careers.circle.com/us/en/job/JR101075",
-    "date": "2026-06-27T11:52:32.000Z",
-    "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "84377145",
-    "title": "Senior Corporate Counsel",
-    "company": "Greenhouse",
-    "link": "https://boards.greenhouse.io/greenhouse/jobs/8014365",
-    "date": "2026-06-27T11:18:46.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "84375317",
-    "title": "Compliance Officer",
-    "company": "Djamo",
-    "link": "https://djamo.breezy.hr/p/cb2a128f7f33-compliance-officer",
-    "date": "2026-06-27T11:13:45.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "84369011",
-    "title": "Senior Manager, Software Engineering - Identity Platform",
-    "company": "Ripple",
-    "link": "https://boards.greenhouse.io/ripple/jobs/8030741",
-    "date": "2026-06-27T10:48:09.000Z",
-    "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "84368038",
-    "title": "Software Engineer, Data Product Platform",
-    "company": "Notion",
-    "link": "https://jobs.ashbyhq.com/notion/53fb4637-d1d6-4411-8a87-52865db5a11c",
-    "date": "2026-06-27T10:44:18.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "84368037",
-    "title": "Revenue Accountant",
-    "company": "Notion",
-    "link": "https://jobs.ashbyhq.com/notion/39c352a7-3f90-4704-b2ff-92df50b4ca02",
-    "date": "2026-06-27T10:44:18.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "84359201",
-    "title": "Product Manager",
-    "company": "Flashbots",
-    "link": "https://jobs.ashbyhq.com/flashbots.net/dc7c1152-de61-46f3-89a6-7ec111153879",
-    "date": "2026-06-27T09:56:18.000Z",
-    "source": "https://jobs.variant.fund/jobs"
-  },
-  {
-    "id": "84357852",
-    "title": "Rust Engineer",
-    "company": "Bullet",
-    "link": "https://jobs.electriccapital.com/companies/bullet-2-479aed29-c02d-408c-af2d-d7fa109c9498/jobs/84357852-rust-engineer",
-    "date": "2026-06-27T09:03:07.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "84357852",
-    "title": "Staff Rust Engineer",
-    "company": "Bullet",
-    "link": "https://jobs.solana.com/companies/bullet-2-479aed29-c02d-408c-af2d-d7fa109c9498/jobs/84357852-staff-rust-engineer",
-    "date": "2026-06-27T09:03:07.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "84350761",
-    "title": "General Engineering Application",
-    "company": "Tenderly",
-    "link": "https://jobs.ashbyhq.com/tenderly/fbd94710-ff3e-4747-9bbc-bec864b77f58",
-    "date": "2026-06-27T06:41:06.000Z",
-    "source": "https://jobs.avax.network/jobs"
-  },
-  {
-    "id": "84350760",
-    "title": "General Application",
-    "company": "Tenderly",
-    "link": "https://jobs.ashbyhq.com/tenderly/c5417329-bd95-4492-a4ea-cb20afdcd218",
-    "date": "2026-06-27T06:41:05.000Z",
-    "source": "https://jobs.avax.network/jobs"
   }
 ]
