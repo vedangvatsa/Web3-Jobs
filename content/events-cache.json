@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-evt-oakQlSxNME92Cs8",
-    "name": "Stablecoin Sessions @ SBC 2026",
-    "description": "",
-    "startDate": "2026-07-27T17:00:00.000Z",
-    "endDate": "2026-07-27T18:30:00.000Z",
-    "city": "Stanford",
-    "country": "United States",
-    "location": "Stanford, United States",
-    "url": "https://lu.ma/4679e0pd",
-    "coverImage": "https://images.lumacdn.com/uploads/mw/76fdf695-7d37-4ff2-a0cf-d8abf12bf0d5.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-yn9v2SMBLa9CBBN",
     "name": "Cryptomondays x Tech Alley NYC",
     "description": "",
@@ -140,6 +126,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-JqqHZV7txfXgtdd",
+    "name": "Chainlink Community Pulse中文版",
+    "description": "",
+    "startDate": "2026-07-28T12:30:00.000Z",
+    "endDate": "2026-07-28T13:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/olfiehlv",
+    "coverImage": "https://images.lumacdn.com/uploads/ej/373a16b1-1d33-4fe7-a790-0722ad29d9b9.jpg",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-evt-k3yuLSpGgl7frfh",
     "name": "Chicago Women Defining AI Summer Lunch",
     "description": "",
@@ -219,7 +219,7 @@
     "country": "",
     "location": "Online",
     "url": "https://x.com/_Qubic_/status/2065064306404651119",
-    "coverImage": "https://pbs.twimg.com/card_img/2080694808721469440/lSkNVpsu?format=png&amp;name=orig",
+    "coverImage": "https://pbs.twimg.com/profile_images/1955219973753720832/mcLoBRaZ_200x200.jpg",
     "source": "coinmarketcap",
     "month": "July 2026"
   },
@@ -249,20 +249,6 @@
     "url": "https://lu.ma/member-office-hours",
     "coverImage": "https://images.lumacdn.com/uploads/xl/017ccbe7-5650-42c1-8aa6-c1fe9fe67b9d.png",
     "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-WNXXhgckBjtACwc",
-    "name": "Restorative Sound by Rowena (Move Strong London) - Walthamstow",
-    "description": "",
-    "startDate": "2026-07-29T17:30:00.000Z",
-    "endDate": "2026-07-29T18:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/kc6ih0se",
-    "coverImage": "https://images.lumacdn.com/uploads/8q/e263c0f9-a666-4af4-8940-a17984f35af8.jpg",
-    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -333,6 +319,20 @@
     "url": "https://lu.ma/uzzxjjjn",
     "coverImage": "https://images.lumacdn.com/uploads/5x/ee76c52a-bbd2-40d0-80db-727e3d1fd113.png",
     "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315779304",
+    "name": "⚡🟠 BITCOIN & BEERS: JULY MEETUP. Enjoy an OG Bitcoin Burger on the patio! 🍔🍺",
+    "description": "⚡ BITCOIN & BEERS: JULY MEETUP 🍺 🟠\n\n📍 Bottle Theory (Patio) — Elmhurst\n📆 Wednesday, July 29th, 2026\n⏰ 6:00 PM – 10:00 PM\n\nCan you believe it ..we've crossed over the 8+ year mark!!!\nJoin us for ou",
+    "startDate": "2026-07-29T18:00:00-05:00",
+    "endDate": "2026-07-29T18:00:00-05:00",
+    "city": "Elmhurst",
+    "country": "US",
+    "location": "Elmhurst, US",
+    "url": "https://www.meetup.com/chicago-western-suburbs-bitcoin-meetup/events/315779304/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/e/8/b/600_535308779.jpeg",
+    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -462,30 +462,30 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315536079",
-    "name": "ZK Learning Group: Basics of Leo and Aleo",
-    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-07-30T09:00:00-07:00",
-    "endDate": "2026-07-30T09:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/lfdt-phoenix/events/315536079/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/b/d/0/600_535043504.jpeg",
-    "source": "meetup",
+    "id": "luma-evt-158tUI0ZVnExvPA",
+    "name": "SBC DAO Workshop 2026",
+    "description": "",
+    "startDate": "2026-07-30T16:00:00.000Z",
+    "endDate": "2026-07-30T23:30:00.000Z",
+    "city": "Stanford",
+    "country": "United States",
+    "location": "Stanford, United States",
+    "url": "https://lu.ma/28l6e18l",
+    "coverImage": "https://images.lumacdn.com/uploads/2f/14261b16-b1e0-4bf4-981e-a216ea367cf8.png",
+    "source": "luma",
     "month": "July 2026"
   },
   {
-    "id": "mu-315823441",
-    "name": "Live AI Crypto Trading Demo + Founder Q&A",
-    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
-    "startDate": "2026-07-30T11:00:00-07:00",
-    "endDate": "2026-07-30T11:00:00-07:00",
+    "id": "mu-315536124",
+    "name": "ZK Learning Group: Basics of Leo and Aleo",
+    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
+    "startDate": "2026-07-30T11:00:00-05:00",
+    "endDate": "2026-07-30T11:00:00-05:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/315823441/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/e/d/2/600_535224274.jpeg",
+    "url": "https://www.meetup.com/lfdt-chicago/events/315536124/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/3/0/600_535043600.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
@@ -529,20 +529,6 @@
     "url": "https://lu.ma/mc4a7khd",
     "coverImage": "https://images.lumacdn.com/uploads/0j/8e78797b-1d90-4902-9b85-4c6ed069ecde.png",
     "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-315635411",
-    "name": "Artificial Intelligence and Blockchain Discussion",
-    "description": "Join us for an engaging discussion on the latest advancements in Artificial Intelligence and Blockchain technology. Our event will cover topics such as Machine Learning, Ethereum, Smart Contracts, and",
-    "startDate": "2026-07-30T16:00:00-07:00",
-    "endDate": "2026-07-30T16:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/ai-blockchain-more-tech/events/315635411/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/e/2/7/600_521728199.jpeg",
-    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -714,20 +700,6 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315637950",
-    "name": "Crypto talk - Money is Freedom; currency is slavery ",
-    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
-    "startDate": "2026-07-30T19:00:00-07:00",
-    "endDate": "2026-07-30T19:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cashflow-271/events/315637950/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/c/2/600_501417026.jpeg",
-    "source": "meetup",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-ZOyhqruWqmuII2w",
     "name": "Fairways & Friends",
     "description": "",
@@ -854,20 +826,6 @@
     "month": "July 2026"
   },
   {
-    "id": "luma-evt-7nWlcRsxVHbEyMA",
-    "name": "Yale Hacker House Finale",
-    "description": "",
-    "startDate": "2026-07-31T21:00:00.000Z",
-    "endDate": "2026-07-31T23:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/sa2k7wlg",
-    "coverImage": "https://images.lumacdn.com/uploads/7x/e758d222-720a-49c0-999b-a9a7c4223075.jpg",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "cmc-6a4f1cc295fbec25d15a8e0b",
     "name": "Manta Network: Atlantic Parachain Deprecation",
     "description": "The Manta Atlantic Polkadot parachain slot expires as the ecosystem transitions fully to Manta Pacific.",
@@ -921,20 +879,6 @@
     "url": "https://lu.ma/WebidooTechWeek",
     "coverImage": "https://images.lumacdn.com/uploads/ty/4af435de-4e9c-4926-b8ad-a7896f9e581c.jpg",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315714970",
-    "name": "Bitcoin 101",
-    "description": "**AGENDA**\n\n* TBA\n* What interesting things are you doing with bitcoin?\n* Q&A - Our usual chats about bitcoin stuff.\n\nWhile the meeting is free to all, we ask that you plan on purchasing at least some",
-    "startDate": "2026-08-04T18:00:00-07:00",
-    "endDate": "2026-08-04T18:00:00-07:00",
-    "city": "Phoenix",
-    "country": "us",
-    "location": "Phoenix, us",
-    "url": "https://www.meetup.com/arizona-bitcoin-meetup/events/315714970/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/2/4/4/600_494605156.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1036,6 +980,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-3dFTA9j2inBfbjk",
+    "name": "Co-Working Fridays : London Chapter",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-08-07T09:00:00.000Z",
+    "endDate": "2026-08-07T19:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/london-aug-07",
+    "coverImage": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-W9HG07qp0Jy7NFs",
     "name": "Skyline Coworking",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -1061,6 +1019,20 @@
     "url": "https://lu.ma/blitz-lon-aug-2026",
     "coverImage": "https://images.lumacdn.com/uploads/rt/ddef9b20-6d34-46f4-9b7c-d84a31324d36.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315437801",
+    "name": "South Side Spanish (Bridgeport)",
+    "description": "Estás invitado a un grupo de habla español. Aquí no se juzga, es bienvenido/a el que sea nativo/a o al que este recién empezando. Lo único que te pedimos es que hagas un esfuerzo ya que es primordial ",
+    "startDate": "2026-08-08T15:00:00-05:00",
+    "endDate": "2026-08-08T15:00:00-05:00",
+    "city": "Chicago",
+    "country": "us",
+    "location": "Chicago, us",
+    "url": "https://www.meetup.com/chicago-spanish-language/events/315437801/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/1/6/1/d/600_503345661.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1103,6 +1075,20 @@
     "url": "https://lu.ma/fresh-d53z",
     "coverImage": "https://images.lumacdn.com/uploads/92/04499666-a1b2-439f-bb47-d086346504af.png",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315595694",
+    "name": "CDAO Chicago 2026 (Free Tickets)",
+    "description": "Important Note: Request your free tickets on the [external event website](https://bit.ly/4pbso2z) is required for admission.\n\n## Driving Innovation Through Data and Analytics Excellence\n\nReturning for",
+    "startDate": "2026-08-11T08:00:00-05:00",
+    "endDate": "2026-08-11T08:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/aittg-chicago/events/315595694/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/c/1/8/600_535111768.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1159,6 +1145,20 @@
     "url": "https://defillama.com/unlocks/aptos",
     "coverImage": null,
     "source": "coinmarketcap",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315826063",
+    "name": "Socratic Seminar",
+    "description": "Please note that Chicago BitDevs aims at a technical audience. A general expectation is that people are quite familiar with the design, security, and specification of Bitcoin. Everyone is welcome and ",
+    "startDate": "2026-08-13T18:00:00-05:00",
+    "endDate": "2026-08-13T18:00:00-05:00",
+    "city": "Chicago",
+    "country": "us",
+    "location": "Chicago, us",
+    "url": "https://www.meetup.com/chibitdevs/events/315826063/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/c/3/a/600_484947706.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1274,6 +1274,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-EJCS06wku8kTuHj",
+    "name": "Light Dao Salon: Building to Last: Stewardship & Legacy with Kelly Vlahakis-Hanks, CEO of ECOS (LA)",
+    "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
+    "startDate": "2026-08-19T01:30:00.000Z",
+    "endDate": "2026-08-19T04:30:00.000Z",
+    "city": "Beverly Hills",
+    "country": "United States",
+    "location": "Beverly Hills, United States",
+    "url": "https://lu.ma/t85xsndz",
+    "coverImage": "https://images.lumacdn.com/uploads/4r/9d381045-46fb-4201-a30e-cbc76bdbeaee.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "dtt-coinfest-asia-2026",
     "name": "COINFEST ASIA 2026",
     "description": "",
@@ -1299,6 +1313,20 @@
     "url": "https://coinfest.asia/",
     "coverImage": "https://wojgrioccmbywgtruwfl.supabase.co/storage/v1/object/public/Media%20Folders/Coinfest%20Asia%202026/ca26-Thumbnails.png",
     "source": "marketacross",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315844647",
+    "name": "B.O.B. @ Fork and Coin",
+    "description": "Come visit the Chicago Bitcoin Collective to talk to members and the broader B.O.B. community about Bitcoin and anything else related!\n\nCome over to Fork and Coin and get any questions answered about ",
+    "startDate": "2026-08-20T18:00:00-05:00",
+    "endDate": "2026-08-20T18:00:00-05:00",
+    "city": "Chicago",
+    "country": "us",
+    "location": "Chicago, us",
+    "url": "https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/315844647/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/a/7/6/4/600_534102852.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1355,6 +1383,20 @@
     "url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-blockchain-ccsb-2026-august-zhuhai-cn",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-Suhqcj7fxKGinei",
+    "name": "Bitcoin 101: Capitalism is IMPOSSIBLE when the money is corrupt",
+    "description": "",
+    "startDate": "2026-08-22T19:00:00.000Z",
+    "endDate": "2026-08-22T21:00:00.000Z",
+    "city": "Denver",
+    "country": "United States",
+    "location": "Denver, United States",
+    "url": "https://lu.ma/4b01y8vi",
+    "coverImage": "https://images.lumacdn.com/event-covers/q9/d324427c-0642-4183-8e9c-2539e1cfcea3",
+    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -1484,20 +1526,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-GtEGNJmhRNHHxqf",
-    "name": "XRP SoCal 2026",
-    "description": "",
-    "startDate": "2026-09-05T23:30:00.000Z",
-    "endDate": "2026-09-06T03:00:00.000Z",
-    "city": "Santa Ana",
-    "country": "United States",
-    "location": "Santa Ana, United States",
-    "url": "https://lu.ma/udaodoon",
-    "coverImage": "https://images.lumacdn.com/uploads/u6/6776fd46-33d1-4495-9888-4b03e7ff17e1.png",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "ma-unchained-summit-dubai",
     "name": "Unchained Summit Dubai",
     "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
@@ -1521,7 +1549,7 @@
     "country": "United States",
     "location": "Quincy, United States",
     "url": "https://lu.ma/bbw26tickets",
-    "coverImage": "https://images.lumacdn.com/event-covers/6i/317b7067-c82e-4bc5-a1ce-0ef0da1fb937.jpg",
+    "coverImage": "https://images.lumacdn.com/uploads/9e/d71fe488-c33d-480c-8300-f74c6c791f0e.jpg",
     "source": "luma",
     "month": "September 2026"
   },
