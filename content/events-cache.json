@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-evt-fRCafNKZlPYOVyg",
-    "name": "MTG PLACE x STRONG",
-    "description": "",
-    "startDate": "2026-07-26T21:00:00.000Z",
-    "endDate": "2026-07-26T22:45:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/x77f7657",
-    "coverImage": "https://images.lumacdn.com/uploads/dk/bb1a7217-9687-45d4-96e3-ed8fe99e4af6.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-host-evt-7Iz2lapjAUQcL21",
     "name": "AMA with Atharv",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -32,7 +18,7 @@
     "name": "Stablecoin Sessions @ SBC 2026",
     "description": "",
     "startDate": "2026-07-27T17:00:00.000Z",
-    "endDate": "2026-07-27T19:00:00.000Z",
+    "endDate": "2026-07-27T18:30:00.000Z",
     "city": "Stanford",
     "country": "United States",
     "location": "Stanford, United States",
@@ -126,6 +112,20 @@
     "month": "July 2026"
   },
   {
+    "id": "mu-315593827",
+    "name": "Web3 and AI networking at The Rose & Crown",
+    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
+    "startDate": "2026-07-27T18:30:00-07:00",
+    "endDate": "2026-07-27T18:30:00-07:00",
+    "city": "Palo Alto",
+    "country": "us",
+    "location": "Palo Alto, us",
+    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/315593827/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/c/4/a/1/600_473750337.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-9K04fqhDQPsOIBh",
     "name": "Solana Builders Day MY",
     "description": "We are the official Solana community of Malaysia! Focusing on helping Solana developers and creators earn and grow!",
@@ -210,17 +210,17 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315607194",
-    "name": "Bienvenidos a charla en Español.",
-    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
-    "startDate": "2026-07-28T18:30:00-05:00",
-    "endDate": "2026-07-28T18:30:00-05:00",
-    "city": "West Des Moines",
-    "country": "us",
-    "location": "West Des Moines, us",
-    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/315607194/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/2/d/0/4/600_503531524.jpeg",
-    "source": "meetup",
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
+    "description": "",
+    "startDate": "2026-07-28T00:00:00.000Z",
+    "endDate": "2026-07-28T00:00:00.000Z",
+    "city": "Sydney",
+    "country": "Australia",
+    "location": "Sydney, Australia",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-july-sydney-au",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "July 2026"
   },
   {
@@ -490,16 +490,58 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315536124",
+    "id": "mu-315536104",
     "name": "ZK Learning Group: Basics of Leo and Aleo",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-07-30T11:00:00-05:00",
-    "endDate": "2026-07-30T11:00:00-05:00",
+    "startDate": "2026-07-30T09:00:00-07:00",
+    "endDate": "2026-07-30T09:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/315536124/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/3/0/600_535043600.jpeg",
+    "url": "https://www.meetup.com/lfdt-sf/events/315536104/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/0/a/600_535043562.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315536123",
+    "name": "ZK Learning Group: Basics of Leo and Aleo",
+    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
+    "startDate": "2026-07-30T09:00:00-07:00",
+    "endDate": "2026-07-30T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-silicon-valley/events/315536123/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/2/e/600_535043598.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315823439",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-07-30T11:00:00-07:00",
+    "endDate": "2026-07-30T11:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/carpoolcrypto/events/315823439/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/f/f/6/600_535224566.jpeg",
+    "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "mu-315632740",
+    "name": "Silicon Valley Entrepreneurs Toastmaster VIRTUAL Open Meeting",
+    "description": "We are going virtual!\n\nEveryone is invited to attend, here's how to log-in:\n\n\\*\\* 2024! NEW ZOOM as of 1/4/2024 and beyond \\*\\*\nhttps://zoom.us/j/94768340926\n\nThe Silicon Valley Entrepreneurs Toastmas",
+    "startDate": "2026-07-30T12:15:00-07:00",
+    "endDate": "2026-07-30T12:15:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/svsei-org/events/315632740/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/5/2/e/600_398206382.jpeg",
     "source": "meetup",
     "month": "July 2026"
   },
@@ -896,20 +938,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-dib81pGXSyroKNm",
-    "name": "Maker Basics: Soldering & Electronics",
-    "description": "",
-    "startDate": "2026-08-03T14:00:00.000Z",
-    "endDate": "2026-08-03T16:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://lu.ma/1e3ik397",
-    "coverImage": "https://images.lumacdn.com/event-covers/2m/724fa110-8f37-42de-9441-4b3307c22ab5.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-gFA9aOaHFKa3dl6",
     "name": "[KOCCA] Launchpad in Los Angeles DEMO DAY",
     "description": "",
@@ -935,20 +963,6 @@
     "url": "https://lu.ma/m4pjyfuj",
     "coverImage": "https://images.lumacdn.com/event-covers/jk/5c014f67-b63c-4f82-a14a-f7d1e13f31da.jpg",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315836938",
-    "name": "Where do we over identify?: Virtual Sip & Chat",
-    "description": "We all have identities we carry strong woman, independent, caregiver, successful, survivor, Black woman, perfectionist, people pleaser, peacemaker, fixer. But what if the very thing you're most proud ",
-    "startDate": "2026-08-05T19:00:00-05:00",
-    "endDate": "2026-08-05T19:00:00-05:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/sip-and-chat/events/315836938/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/a/3/3/8/600_535361784.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1162,6 +1176,20 @@
     "month": "August 2026"
   },
   {
+    "id": "cmc-6a5705c1a0565349d9a6ddc6",
+    "name": "Cyber: Wallets Sunset",
+    "description": "Cyber sunsets CyberWallet and Passkey Wallet; users withdraw all assets as focus shifts to crypto AI infra and Surf.",
+    "startDate": "2026-08-15T00:00:00.000Z",
+    "endDate": "2026-08-15T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://x.com/BuildOnCyber/status/2023917319983092030",
+    "coverImage": "https://pbs.twimg.com/media/HBZmE4eacAE4DVE.jpg:large",
+    "source": "coinmarketcap",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-XVgMezNYKSfYZHA",
     "name": "MyWeb3 - Launch Party",
     "description": "",
@@ -1173,6 +1201,48 @@
     "url": "https://lu.ma/bgfwfzzc",
     "coverImage": "https://images.lumacdn.com/uploads/oo/ad9b55b6-d19b-4564-97a1-1768a9bee9e2.png",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "cmc-6a5705c1a0565349d9a6ddc7",
+    "name": "Arbitrum: Token Unlock",
+    "description": "Arbitrum unlocks approximately 0.93% of its released supply at 5 PM UTC.",
+    "startDate": "2026-08-15T00:00:00.000Z",
+    "endDate": "2026-08-15T00:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://defillama.com/unlocks/arbitrum",
+    "coverImage": null,
+    "source": "coinmarketcap",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315748382",
+    "name": "Bitcoin for Beginners",
+    "description": "Learn by doing!\n\nWe're sending Bitcoin to each other using Bitcoin Testnet. Testnet is a replica of Bitcoin Mainnet used for testing without risking real funds. It's a safe, fun way to learn Bitcoin b",
+    "startDate": "2026-08-16T14:00:00-07:00",
+    "endDate": "2026-08-16T14:00:00-07:00",
+    "city": "Oakland",
+    "country": "US",
+    "location": "Oakland, US",
+    "url": "https://www.meetup.com/bay-area-bitcoiners/events/315748382/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/f/6/f/600_530364431.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315790604",
+    "name": "Bitcoin for Beginners",
+    "description": "",
+    "startDate": "2026-08-16T14:00:00-07:00",
+    "endDate": "2026-08-16T14:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/bay-area-conservatives/events/315790604/",
+    "coverImage": "https://www.meetup.com/images/fallbacks/redesign/group-cover-1-wide.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1330,6 +1400,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-tEl4FgUf8FyBhhc",
+    "name": "MONKEDAO turns 5!",
+    "description": "",
+    "startDate": "2026-08-24T20:00:00.000Z",
+    "endDate": "2026-08-24T23:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/riegwy4i",
+    "coverImage": "https://images.lumacdn.com/uploads/vh/9f13d407-b43d-4d7c-887c-0106eda46f56.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-calev-BxBgbXQtf7Gb4DG",
     "name": "ETH Belgrade [4]",
     "description": "",
@@ -1414,6 +1498,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-GtEGNJmhRNHHxqf",
+    "name": "XRP SoCal 2026",
+    "description": "",
+    "startDate": "2026-09-05T23:30:00.000Z",
+    "endDate": "2026-09-06T03:00:00.000Z",
+    "city": "Santa Ana",
+    "country": "United States",
+    "location": "Santa Ana, United States",
+    "url": "https://lu.ma/udaodoon",
+    "coverImage": "https://images.lumacdn.com/uploads/u6/6776fd46-33d1-4495-9888-4b03e7ff17e1.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "ma-unchained-summit-dubai",
     "name": "Unchained Summit Dubai",
     "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
@@ -1423,7 +1521,7 @@
     "country": "UAE",
     "location": "Dubai, UAE, UAE",
     "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/04/unchained-summit-dubai-may-2026-an-event-by-aeternum.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2026"
   },
@@ -1843,7 +1941,7 @@
     "country": "Dominican Republic",
     "location": "Punta Cana, Dominican Republic, Dominican Republic",
     "url": "https://www.blockcon.co",
-    "coverImage": "https://www.blockcon.co/og/blockcon-home.png",
+    "coverImage": null,
     "source": "marketacross",
     "month": "November 2026"
   },
@@ -2014,19 +2112,5 @@
     "coverImage": "https://images.lumacdn.com/uploads/px/1961f942-3a75-4335-a4e5-a1ebe72e1810.png",
     "source": "luma-trusted",
     "month": "June 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
-    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
-    "description": "",
-    "startDate": "2027-07-26T00:00:00.000Z",
-    "endDate": "2027-07-26T00:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-july-london-gb",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
   }
 ]

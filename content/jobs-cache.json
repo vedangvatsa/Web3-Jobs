@@ -1,5 +1,29 @@
 [
   {
+    "id": "1b13eda4-e7e1-45e4-ab05-794bd4eca6b3",
+    "title": "Founding Technical Customer Success Manager",
+    "company": "Artemis",
+    "link": "https://jobs.ashbyhq.com/artemis/1b13eda4-e7e1-45e4-ab05-794bd4eca6b3",
+    "date": "2026-07-27T01:47:07.876+00:00",
+    "source": "Ashby: Artemis"
+  },
+  {
+    "id": "0ec4e044-7c6d-4e4a-9a84-ff5ec91c31f3",
+    "title": "Senior Product Designer",
+    "company": "Artemis",
+    "link": "https://jobs.ashbyhq.com/artemis/0ec4e044-7c6d-4e4a-9a84-ff5ec91c31f3",
+    "date": "2026-07-27T01:32:05.016+00:00",
+    "source": "Ashby: Artemis"
+  },
+  {
+    "id": "420d5a6d-8aff-4dee-94d7-047b1cb78cd2",
+    "title": "Risk Analyst (SQL), Card Payment Fraud",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/420d5a6d-8aff-4dee-94d7-047b1cb78cd2",
+    "date": "2026-07-27T01:14:22.731Z",
+    "source": "Lever: Binance"
+  },
+  {
     "id": "87610149",
     "title": "Founding Infrastructure Engineer",
     "company": "Insforge",
@@ -638,6 +662,14 @@
     "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8083332",
     "date": "2026-07-24T09:25:50-04:00",
     "source": "Greenhouse: Flow Traders"
+  },
+  {
+    "id": "33801fbd-c6f4-40be-b9f1-9a435dbc1d30",
+    "title": "Binance Accelerator Program - Affiliate BD",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/33801fbd-c6f4-40be-b9f1-9a435dbc1d30",
+    "date": "2026-07-24T13:22:48.972Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "8076623",
@@ -5399,6 +5431,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "8068669",
+    "title": "Payments Performance Strategist (Greater China)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8068669",
+    "date": "2026-07-15T23:48:19-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "0a03c5e3-4a06-4aa7-8c06-25a473ceeb33",
     "title": "Product Manager, AI Agent & Harness",
     "company": "Binance",
@@ -9597,6 +9637,14 @@
     "link": "https://jobs.ashbyhq.com/Lens/d5cba59b-9e8c-4693-baa2-1b6ddc7466e0",
     "date": "2026-07-08T01:48:46.666+00:00",
     "source": "Ashby: Lens Protocol"
+  },
+  {
+    "id": "8049976",
+    "title": "Risk & Monitoring Analyst IV",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8049976?gh_jid=8049976",
+    "date": "2026-07-07T20:52:16-04:00",
+    "source": "Greenhouse: Coinbase"
   },
   {
     "id": "8029639",
@@ -14235,149 +14283,5 @@
     "link": "https://jobs.ashbyhq.com/tenderly/c5417329-bd95-4492-a4ea-cb20afdcd218",
     "date": "2026-06-27T06:41:05.000Z",
     "source": "https://jobs.avax.network/jobs"
-  },
-  {
-    "id": "8032237",
-    "title": "IT Engineer - Full Time",
-    "company": "Polychain Capital",
-    "link": "https://job-boards.greenhouse.io/polychaincapital/jobs/8032237",
-    "date": "2026-06-27T00:08:58-04:00",
-    "source": "Greenhouse: Polychain Capital"
-  },
-  {
-    "id": "f6e96bdf-5535-4d92-8ee0-593364cf2baf",
-    "title": "Senior Blockchain Intelligence Analyst, Ransomware",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/f6e96bdf-5535-4d92-8ee0-593364cf2baf",
-    "date": "2026-06-27T00:08:32.128+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "c03da7b1-b4be-4c5c-984c-698f09ee464e",
-    "title": "Workplace Experience Manager",
-    "company": "Render Network",
-    "link": "https://jobs.ashbyhq.com/Render/c03da7b1-b4be-4c5c-984c-698f09ee464e",
-    "date": "2026-06-27T00:01:22.778+00:00",
-    "source": "Ashby: Render Network"
-  },
-  {
-    "id": "8014564",
-    "title": "Staff Product Designer (Experience & Engagement)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8014564?gh_jid=8014564",
-    "date": "2026-06-26T19:47:05-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "95282b00-3699-4ffe-a88a-057313621f34",
-    "title": "Lead Cyber Threat Intelligence Analyst",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/95282b00-3699-4ffe-a88a-057313621f34",
-    "date": "2026-06-26T23:46:35.904+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "ffdd3639-d29c-4f71-a22e-04fb00d2b038",
-    "title": "Staff Cyber Threat Intelligence Analyst",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/ffdd3639-d29c-4f71-a22e-04fb00d2b038",
-    "date": "2026-06-26T23:38:46.240+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "85e85964-503e-4252-95af-236a0ea1a29a",
-    "title": "Senior Cyber Threat Intelligence Analyst",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/85e85964-503e-4252-95af-236a0ea1a29a",
-    "date": "2026-06-26T23:33:38.747+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "7107ebcd-3df1-4de3-8ab3-fb145d267edd",
-    "title": "Cyber Threat Intelligence Analyst",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/7107ebcd-3df1-4de3-8ab3-fb145d267edd",
-    "date": "2026-06-26T23:33:35.901+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "6103239004",
-    "title": "Support AI Analyst",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6103239004",
-    "date": "2026-06-26T19:26:41-04:00",
-    "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "6ed041a5-aa56-41e0-b2f6-7616a27424a2",
-    "title": "Critical Infrastructure Sector Engagement Lead",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/6ed041a5-aa56-41e0-b2f6-7616a27424a2",
-    "date": "2026-06-26T22:43:23.275+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "84336829",
-    "title": "Sales Lead, Hong Kong",
-    "company": "Codex",
-    "link": "https://jobs.ashbyhq.com/codex/6f8c3673-f212-4594-bb22-9a76946e62f4",
-    "date": "2026-06-26T22:37:18.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "84336828",
-    "title": "Sales Lead, Latin America",
-    "company": "Codex",
-    "link": "https://jobs.ashbyhq.com/codex/1411758f-874f-4b15-b950-9a62f598a343",
-    "date": "2026-06-26T22:37:17.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "8031603",
-    "title": "Internal Audit Analyst",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8031603?gh_jid=8031603",
-    "date": "2026-06-26T18:34:25-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7997840",
-    "title": "Staff Software Engineer, Backend (Consumer - Prediction Markets)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7997840?gh_jid=7997840",
-    "date": "2026-06-26T18:29:44-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7997836",
-    "title": "Senior Software Engineer, Backend (Consumer - Prediction Markets)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7997836?gh_jid=7997836",
-    "date": "2026-06-26T18:00:09-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8030686",
-    "title": "Risk & Monitoring Analyst IV",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8030686?gh_jid=8030686",
-    "date": "2026-06-26T17:45:39-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8026678",
-    "title": "Senior Software Engineer, Infrastructure - Core Infra Systems",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8026678?gh_jid=8026678",
-    "date": "2026-06-26T17:38:58-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "eda38518-4ccd-4938-b843-4a4674c03f0b",
-    "title": "Product Growth Expert - Acquisition | Afirmativa para Pessoas de Grupos Sub-representados",
-    "company": "Neon EVM",
-    "link": "https://jobs.lever.co/neon/eda38518-4ccd-4938-b843-4a4674c03f0b",
-    "date": "2026-06-26T21:24:23.812Z",
-    "source": "Lever: Neon EVM"
   }
 ]
