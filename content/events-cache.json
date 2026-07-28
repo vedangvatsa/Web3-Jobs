@@ -1,47 +1,5 @@
 [
   {
-    "id": "luma-host-evt-JqqHZV7txfXgtdd",
-    "name": "Chainlink Community Pulse中文版",
-    "description": "",
-    "startDate": "2026-07-28T12:30:00.000Z",
-    "endDate": "2026-07-28T13:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/olfiehlv",
-    "coverImage": "https://images.lumacdn.com/uploads/ej/373a16b1-1d33-4fe7-a790-0722ad29d9b9.jpg",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-k3yuLSpGgl7frfh",
-    "name": "Chicago Women Defining AI Summer Lunch",
-    "description": "",
-    "startDate": "2026-07-28T17:00:00.000Z",
-    "endDate": "2026-07-28T18:30:00.000Z",
-    "city": "Chicago",
-    "country": "United States",
-    "location": "Chicago, United States",
-    "url": "https://lu.ma/women-ahqf",
-    "coverImage": "https://images.lumacdn.com/gallery-images/uv/6bf2f9a3-08ce-410e-946a-93c0a0e47683.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-evt-WOwjLdEu85qYaZK",
-    "name": "How to Manage Multiple AI Companies with Nicole Donnelly and Craig Swanson | Thinkspace",
-    "description": "",
-    "startDate": "2026-07-28T20:00:00.000Z",
-    "endDate": "2026-07-28T21:30:00.000Z",
-    "city": "Seattle",
-    "country": "United States",
-    "location": "Seattle, United States",
-    "url": "https://lu.ma/58uiz5kc",
-    "coverImage": "https://images.lumacdn.com/uploads/ni/0c5876fb-7af1-4de9-bede-085ca8e9835c.png",
-    "source": "luma",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-evt-RNWKeo7r5D5hfdm",
     "name": "C10 Labs and Pegasystems (Pega Ventures and Launchpad) Summer Social - Community Event",
     "description": "",
@@ -53,20 +11,6 @@
     "url": "https://lu.ma/ouubmjxy",
     "coverImage": "https://images.lumacdn.com/uploads/8k/66dd68e0-9c0c-4c27-b43b-d31383bd6f8a.png",
     "source": "luma",
-    "month": "July 2026"
-  },
-  {
-    "id": "mu-315607194",
-    "name": "Bienvenidos a charla en Español.",
-    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
-    "startDate": "2026-07-28T18:30:00-05:00",
-    "endDate": "2026-07-28T18:30:00-05:00",
-    "city": "West Des Moines",
-    "country": "us",
-    "location": "West Des Moines, us",
-    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/315607194/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/2/d/0/4/600_503531524.jpeg",
-    "source": "meetup",
     "month": "July 2026"
   },
   {
@@ -154,6 +98,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-evt-xFWsa2MwePUGUYU",
+    "name": "Crypto Drinks - Amsterdam",
+    "description": "",
+    "startDate": "2026-07-29T16:30:00.000Z",
+    "endDate": "2026-07-29T20:00:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://lu.ma/CryptoDrinks_Amsterdam_July",
+    "coverImage": "https://images.lumacdn.com/uploads/3f/ba0d9d01-163b-46c8-b838-80d89b28ea56.jpg",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-evt-WNXXhgckBjtACwc",
     "name": "Restorative Sound by Rowena (Move Strong London) - Walthamstow",
     "description": "",
@@ -164,6 +122,20 @@
     "location": "London, United Kingdom",
     "url": "https://lu.ma/kc6ih0se",
     "coverImage": "https://images.lumacdn.com/uploads/8q/e263c0f9-a666-4af4-8940-a17984f35af8.jpg",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-yVmxCpNRMxcIE8s",
+    "name": "BUZOKU | AI & Crypto Meetup",
+    "description": "",
+    "startDate": "2026-07-29T17:30:00.000Z",
+    "endDate": "2026-07-29T19:00:00.000Z",
+    "city": "Barcelona",
+    "country": "Spain",
+    "location": "Barcelona, Spain",
+    "url": "https://lu.ma/kg59wg64",
+    "coverImage": "https://images.lumacdn.com/event-covers/u7/e65a6e05-453a-472c-80c8-6bdd415280a3.jpg",
     "source": "luma",
     "month": "July 2026"
   },
@@ -336,6 +308,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-GRdH9WQ9FdEtTHV",
+    "name": "Solana Ecosystem Call | Kyiv",
+    "description": "Solana спільнота, де запускають web3 стартапи, отримують гранти та інвестиції, навчаються й заробляють у криптоекономіці.",
+    "startDate": "2026-07-30T13:30:00.000Z",
+    "endDate": "2026-07-30T15:30:00.000Z",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "location": "Kyiv, Ukraine",
+    "url": "https://lu.ma/k1pz6is8",
+    "coverImage": "https://images.lumacdn.com/uploads/bq/718010ea-f2f9-4893-93a4-ecfa816c88dd.png",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-S1a3G141Dsg60pk",
     "name": "The Solana Ecosystem Call | July",
     "description": "",
@@ -406,17 +392,45 @@
     "month": "July 2026"
   },
   {
-    "id": "mu-315536124",
+    "id": "mu-315536100",
     "name": "ZK Learning Group: Basics of Leo and Aleo",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-07-30T11:00:00-05:00",
-    "endDate": "2026-07-30T11:00:00-05:00",
+    "startDate": "2026-07-30T12:00:00-04:00",
+    "endDate": "2026-07-30T12:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/315536124/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/3/0/600_535043600.jpeg",
+    "url": "https://www.meetup.com/lfdt-north-carolina/events/315536100/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/c/0/0/600_535043552.jpeg",
     "source": "meetup",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-06ZQ3adeObteQLB",
+    "name": "How to make smarter angel investments. Silicon Valley vs UK.",
+    "description": "",
+    "startDate": "2026-07-30T17:00:00.000Z",
+    "endDate": "2026-07-30T19:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/wn2fn4ec",
+    "coverImage": "https://images.lumacdn.com/uploads/86/c7c8ab37-c484-4911-9c4e-15ceb2f3604e.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-IOGRYBo34VhjvDw",
+    "name": "Lenny’s Newsletter Meetup in London (with free drinks courtesy of Matic)",
+    "description": "",
+    "startDate": "2026-07-30T17:00:00.000Z",
+    "endDate": "2026-07-30T20:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/e6d0nzge",
+    "coverImage": "https://images.lumacdn.com/uploads/xp/e40c38e9-abda-4a7d-906f-e3a431e94133.png",
+    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -625,8 +639,22 @@
     "country": "",
     "location": "Online",
     "url": "https://x.com/DigiByteCoin/status/2075451584818082160",
-    "coverImage": "https://pbs.twimg.com/card_img/2077702439478685696/r8xXPNZb?format=jpg&amp;name=orig",
+    "coverImage": "https://pbs.twimg.com/card_img/2082164908343615488/iz7_IqTh?format=jpg&amp;name=orig",
     "source": "coinmarketcap",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-1zt8f9fCEAmts0R",
+    "name": "Pantera Blockchain Lunch 2026 Hot Summer NYC Afterparty (v. Classy UES)",
+    "description": "",
+    "startDate": "2026-07-31T01:00:00.000Z",
+    "endDate": "2026-07-31T02:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/eik1ltyl",
+    "coverImage": "https://images.lumacdn.com/uploads/cu/81a05a5a-065b-4d31-b881-50563a7ebde9.jpg",
+    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -728,6 +756,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-evt-WmC6SJLWPvP7HlK",
+    "name": "Toronto Solana VibeStation",
+    "description": "",
+    "startDate": "2026-07-31T13:30:00.000Z",
+    "endDate": "2026-07-31T22:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/9f556i6m",
+    "coverImage": "https://images.lumacdn.com/uploads/3r/7a26f540-bbb1-4c90-878d-d5586f760523.png",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-HAqaQgqasCFgjWt",
     "name": "Montreal VibeStation",
     "description": "Building the Solana ecosystem in Canada 🇨🇦",
@@ -753,6 +795,20 @@
     "url": "https://lu.ma/t71nqijo",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-0ils33T7WzW6Qdm",
+    "name": "ETHLDN: Decentralised solutions to UK problems",
+    "description": "",
+    "startDate": "2026-07-31T17:30:00.000Z",
+    "endDate": "2026-07-31T20:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/ex7ptl7i",
+    "coverImage": "https://images.lumacdn.com/event-covers/5c/6a2e6091-45c9-4f1f-8e4f-cb125bee5252.png",
+    "source": "luma",
     "month": "July 2026"
   },
   {
@@ -821,7 +877,7 @@
     "country": "",
     "location": "Online",
     "url": "https://x.com/solsticefi/status/2077101281441665512",
-    "coverImage": "https://pbs.twimg.com/profile_images/2070142847945154560/itaTgGE4_200x200.jpg",
+    "coverImage": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
     "source": "coinmarketcap",
     "month": "August 2026"
   },
@@ -854,6 +910,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-vbS0bv4b0fa0Hl5",
+    "name": "Shruti Sound Circle (London) with Lisa Daopraky",
+    "description": "",
+    "startDate": "2026-08-02T13:00:00.000Z",
+    "endDate": "2026-08-02T16:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/6ldf7ver",
+    "coverImage": "https://images.lumacdn.com/event-covers/v7/ba16abab-4c53-4841-8317-a4473adc634b.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-dib81pGXSyroKNm",
     "name": "Maker Basics: Soldering & Electronics",
     "description": "",
@@ -868,16 +938,72 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315872842",
-    "name": "Free AI and Blockchain-Powered Lead Generation for Real Estate",
-    "description": "What if the AI you use could help you find prospects, contact your database, identify interested consumers, support your transactions, and earn rewards that can be used toward additional leads?\nJoin u",
-    "startDate": "2026-08-04T14:00:00-05:00",
-    "endDate": "2026-08-04T14:00:00-05:00",
+    "id": "mu-315681436",
+    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
+    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
+    "startDate": "2026-08-03T12:00:00-04:00",
+    "endDate": "2026-08-03T12:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/minneapolis-real-estate-happy-hour/events/315872842/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/a/3/a/600_535411290.jpeg",
+    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/315681436/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/2/2/3/600_525981027.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315686486",
+    "name": "Online Bitcoin Hangout",
+    "description": "**Online Bitcoin Hangout**\nThis virtual meetup is perfect for anyone interested in Bitcoin who can't (or prefers not to) attend our in-person events in Charlotte. This is an informal hangout where we ",
+    "startDate": "2026-08-03T18:30:00-04:00",
+    "endDate": "2026-08-03T18:30:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/bitcoincharlotte/events/315686486/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/3/d/c/600_533034236.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315687061",
+    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
+    "description": "Network virtually with those located in the DMV (District of Columbia, Virginia & Maryland) and internationally!\n\nThis monthly Monday meeting is hosted by Maryland Blockchain Association, Blockchain L",
+    "startDate": "2026-08-03T19:00:00-04:00",
+    "endDate": "2026-08-03T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315687061/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/a/f/600_527389071.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315866052",
+    "name": "Free AI and Blockchain-Powered Lead Generation for Real Estate",
+    "description": "What if the AI you use could help you find prospects, contact your database, identify interested consumers, support your transactions, and earn rewards that can be used toward additional leads?\nJoin u",
+    "startDate": "2026-08-04T15:00:00-04:00",
+    "endDate": "2026-08-04T15:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/charlotte-wholesaling-houses-meetup/events/315866052/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/1/e/6/600_535405062.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315869617",
+    "name": "Free AI and Blockchain-Powered Lead Generation for Real Estate",
+    "description": "What if the AI you use could help you find prospects, contact your database, identify interested consumers, support your transactions, and earn rewards that can be used toward additional leads?\nJoin u",
+    "startDate": "2026-08-04T15:00:00-04:00",
+    "endDate": "2026-08-04T15:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/triangle-real-estate-referral-network/events/315869617/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/f/5/c/600_535408508.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -911,13 +1037,13 @@
   },
   {
     "id": "luma-host-evt-GGcF1Zipk8FMDPX",
-    "name": "Cowork with ETHGlobal in Arrecife with Coworking Guru Lanzarote",
+    "name": "Cowork with ETHGlobal in Lanzarote with Coworking Guru",
     "description": "",
-    "startDate": "2026-08-06T15:00:00.000Z",
-    "endDate": "2026-08-09T01:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
+    "startDate": "2026-08-06T17:00:00.000Z",
+    "endDate": "2026-08-06T21:00:00.000Z",
+    "city": "Teguise",
+    "country": "Spain",
+    "location": "Teguise, Spain",
     "url": "https://lu.ma/ethglobal-cowork-Arrecife",
     "coverImage": "https://images.lumacdn.com/uploads/eb/5ba344af-da8d-4797-aa86-11bee117824b.png",
     "source": "luma-trusted",
@@ -1106,6 +1232,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-A17BPwh1DCwsKNU",
+    "name": "Bitcoin Summer Party · Crypto Valley Zug",
+    "description": "",
+    "startDate": "2026-08-14T14:00:00.000Z",
+    "endDate": "2026-08-14T20:00:00.000Z",
+    "city": "Zug",
+    "country": "Switzerland",
+    "location": "Zug, Switzerland",
+    "url": "https://lu.ma/BitcoinSummerParty",
+    "coverImage": "https://images.lumacdn.com/uploads/fk/baae7b87-6d36-42f1-80de-25445e760661.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-bitcoin-beyond-bb66-2026-august-bodo-no",
     "name": "Bitcoin Beyond (BB66)",
     "description": "",
@@ -1162,6 +1302,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-MoKfK4jVzIDJF0a",
+    "name": "Kaleidoscope - A Melodrama Showcase",
+    "description": "",
+    "startDate": "2026-08-16T15:30:00.000Z",
+    "endDate": "2026-08-16T18:30:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/xhcafc2g",
+    "coverImage": "https://images.lumacdn.com/uploads/xk/65f1344e-aa7a-46f7-870c-72f93c093407.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "ma-bitcoin-vibecamp",
     "name": "Bitcoin Vibecamp",
     "description": "Vibe-powered builders week on the bitcoinest island of the world. Hackathon, workshops, business networking - for beginners and advanced. We come to ship. vibe coders and traditional devs both welcome",
@@ -1187,6 +1341,20 @@
     "url": "https://lu.ma/l0ungqyu",
     "coverImage": "https://images.lumacdn.com/event-covers/77/27e50d70-259f-43c0-9569-dd135104c559.jpg",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-314396576",
+    "name": "Capitol City Bitcoin meetup - virtual",
+    "description": "Let’s talk about bitcoin, crypto and what’s going on in South Carolina ! You must RSVP in advance to obtain the video link.\nThis will be scheduled on the third Tuesday of every month.",
+    "startDate": "2026-08-18T19:00:00-04:00",
+    "endDate": "2026-08-18T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396576/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/c/9/4/1/600_499671521.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1330,6 +1498,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-J6FD5pFOxRSZgKx",
+    "name": "Bitcoin Block Party",
+    "description": "",
+    "startDate": "2026-08-23T19:00:00.000Z",
+    "endDate": "2026-08-24T03:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/ed63hjqz",
+    "coverImage": "https://images.lumacdn.com/uploads/e8/8012cbb9-3f74-436f-9c62-dfdded85bafe.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-",
     "name": "International Conference on Cryptography and Information Security (ICCIS)",
     "description": "",
@@ -1341,6 +1523,34 @@
     "url": "https://conferenceindex.org/event/international-conference-on-cryptography-and-information-security-iccis-2026-august-kuala-lumpur-my",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-tEl4FgUf8FyBhhc",
+    "name": "MONKEDAO turns 5!",
+    "description": "",
+    "startDate": "2026-08-24T20:00:00.000Z",
+    "endDate": "2026-08-24T23:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/riegwy4i",
+    "coverImage": "https://images.lumacdn.com/uploads/vh/9f13d407-b43d-4d7c-887c-0106eda46f56.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-aNeMr0pbF24uOc1",
+    "name": "Bessere Ergebnisse mit generativer KI: Advanced Prompting für die öffentliche Verwaltung",
+    "description": "",
+    "startDate": "2026-08-25T07:15:00.000Z",
+    "endDate": "2026-08-25T15:00:00.000Z",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "location": "Zürich, Switzerland",
+    "url": "https://lu.ma/i5e6hlcl",
+    "coverImage": "https://images.lumacdn.com/event-covers/h9/7ca820c2-08e7-4d1f-a0ec-a287db2eba0a.png",
+    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -1481,6 +1691,20 @@
     "url": "https://lu.ma/ethrome",
     "coverImage": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxfHxyb21lfGVufDB8fHx8MTc1MTIzNDQzOXwy&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-v7aqcm4LMlpNWE2",
+    "name": "Die zukunftssichere HNO-Praxis",
+    "description": "",
+    "startDate": "2026-09-11T15:00:00.000Z",
+    "endDate": "2026-09-11T19:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/l8pqkb2d",
+    "coverImage": "https://images.lumacdn.com/uploads/4e/9b81e18f-305a-4c0a-acce-60380b5242d3.png",
+    "source": "luma",
     "month": "September 2026"
   },
   {
