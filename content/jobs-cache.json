@@ -1,5 +1,349 @@
 [
   {
+    "id": "46fea241-959b-470c-9676-5573c059fc56",
+    "title": "Senior Software Engineer, Protocol",
+    "company": "OP Labs",
+    "link": "https://jobs.ashbyhq.com/oplabs/46fea241-959b-470c-9676-5573c059fc56",
+    "date": "2026-07-28T11:53:01.959+00:00",
+    "source": "Ashby: OP Labs"
+  },
+  {
+    "id": "4700378006",
+    "title": "Sales Director, TradFi & Banking (Nordics)",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/4700378006?gh_jid=4700378006",
+    "date": "2026-07-28T07:49:17-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "87749982",
+    "title": "Deployment Strategist (Mandarin Speaking)",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/e326a0e9-694e-4dad-b2f4-e67f5bea2622",
+    "date": "2026-07-28T11:48:28.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87749970",
+    "title": "People Operations Coordinator",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/f804e81c-8d77-4800-a58d-4bc6baeca467",
+    "date": "2026-07-28T11:48:27.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87749952",
+    "title": "Channel Partner Manager, AMER",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/ddf10f1b-c35d-4a74-b18c-b1b32374bdd0",
+    "date": "2026-07-28T11:48:26.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "8090692",
+    "title": "Lead HR Generalist",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8090692",
+    "date": "2026-07-28T07:17:53-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
+    "id": "87720139",
+    "title": "Senior IT Security Engineer",
+    "company": "Solana Foundation",
+    "link": "https://jobs.ashbyhq.com/Solana%20Foundation/4f658f17-45e0-446a-a075-b9761bb7f0ff",
+    "date": "2026-07-28T10:37:35.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "87714007",
+    "title": "Chief Operating Officer, UK",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/74f74142-7eed-4222-a742-9abf03d3d078",
+    "date": "2026-07-28T10:11:31.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "87713982",
+    "title": "Senior AI Engineer - Growth",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/a48206ee-2c07-49c6-b83d-6be61a1312e4",
+    "date": "2026-07-28T10:11:23.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "4686947006",
+    "title": "Senior Backend Engineer – Finapps/Access",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/4686947006?gh_jid=4686947006",
+    "date": "2026-07-28T06:06:35-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "87711962",
+    "title": "Account Executive",
+    "company": "Tenderly",
+    "link": "https://careers.kula.ai/tenderly/25245",
+    "date": "2026-07-28T09:52:08.000Z",
+    "source": "https://jobs.avax.network/jobs"
+  },
+  {
+    "id": "87711960",
+    "title": "General Engineering Application",
+    "company": "Tenderly",
+    "link": "https://careers.kula.ai/tenderly/12232",
+    "date": "2026-07-28T09:52:08.000Z",
+    "source": "https://jobs.avax.network/jobs"
+  },
+  {
+    "id": "87711959",
+    "title": "General application",
+    "company": "Tenderly",
+    "link": "https://careers.kula.ai/tenderly/10261",
+    "date": "2026-07-28T09:52:08.000Z",
+    "source": "https://jobs.avax.network/jobs"
+  },
+  {
+    "id": "87711936",
+    "title": "Senior Software Engineer, Flow Protocol, Execution",
+    "company": "Flow Blockchain",
+    "link": "https://careers.kula.ai/flow-com/4316",
+    "date": "2026-07-28T09:52:04.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87711937",
+    "title": "DeFi Engineer",
+    "company": "Flow Blockchain",
+    "link": "https://careers.kula.ai/flow-com/6376",
+    "date": "2026-07-28T09:52:04.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87711935",
+    "title": "Senior Programming Language Engineer, Cadence",
+    "company": "Flow Blockchain",
+    "link": "https://careers.kula.ai/flow-com/4315",
+    "date": "2026-07-28T09:52:04.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87711939",
+    "title": "Marketing & Community Lead",
+    "company": "Flow Blockchain",
+    "link": "https://careers.kula.ai/flow-com/25657",
+    "date": "2026-07-28T09:52:04.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87711212",
+    "title": "Principal Engineer, AI Products",
+    "company": "Paradigm",
+    "link": "https://careers.kula.ai/paradigm/50567",
+    "date": "2026-07-28T09:47:38.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87711211",
+    "title": "BD & Country Manager - China",
+    "company": "Paradigm",
+    "link": "https://careers.kula.ai/paradigm/35240",
+    "date": "2026-07-28T09:47:38.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87711202",
+    "title": "BD & Country Manager - Korea",
+    "company": "Paradigm",
+    "link": "https://careers.kula.ai/paradigm/7487",
+    "date": "2026-07-28T09:47:37.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87711205",
+    "title": "Senior Security Engineer",
+    "company": "Paradigm",
+    "link": "https://careers.kula.ai/paradigm/7497",
+    "date": "2026-07-28T09:47:37.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87711207",
+    "title": "Business Development Associate - NYC",
+    "company": "Paradigm",
+    "link": "https://careers.kula.ai/paradigm/19564",
+    "date": "2026-07-28T09:47:37.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87711209",
+    "title": "Principal Engineer",
+    "company": "Paradigm",
+    "link": "https://careers.kula.ai/paradigm/24645",
+    "date": "2026-07-28T09:47:37.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87711200",
+    "title": "Senior Engineer",
+    "company": "Paradigm",
+    "link": "https://careers.kula.ai/paradigm/7461",
+    "date": "2026-07-28T09:47:37.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87711195",
+    "title": "Quantitative Developer - Paradex",
+    "company": "Paradigm",
+    "link": "https://careers.kula.ai/paradigm/7447",
+    "date": "2026-07-28T09:47:36.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "33cd47bb-b88c-40f0-9d1a-8f2f910801e1",
+    "title": "Sr. Events Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/33cd47bb-b88c-40f0-9d1a-8f2f910801e1",
+    "date": "2026-07-28T09:11:44.840Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "4699832006",
+    "title": "Senior Sales Operations Manager",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/4699832006?gh_jid=4699832006",
+    "date": "2026-07-28T04:07:08-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "4d2279a4-2173-4e95-810d-61d952747db0",
+    "title": "Content Editor",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/4d2279a4-2173-4e95-810d-61d952747db0",
+    "date": "2026-07-28T08:06:39.593Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "b5d7219c-d555-47e4-9ec2-020fe3139584",
+    "title": "Content Writer/Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/b5d7219c-d555-47e4-9ec2-020fe3139584",
+    "date": "2026-07-28T08:04:12.846Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "8074127",
+    "title": "Android Engineer, Dev Productivity",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8074127",
+    "date": "2026-07-28T03:45:54-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "608438a8-1cae-4915-9861-05034a418785",
+    "title": "Binance Accelerator Program - Content Media",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/608438a8-1cae-4915-9861-05034a418785",
+    "date": "2026-07-28T07:12:44.094Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "3d9efc42-b297-4707-8e00-4c665411a47a",
+    "title": "Binance Accelerator Program - Global Campaign Operations",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/3d9efc42-b297-4707-8e00-4c665411a47a",
+    "date": "2026-07-28T05:31:51.144Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "7818499003",
+    "title": "Deputy General Counsel, Institutions",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7818499003",
+    "date": "2026-07-27T22:50:11-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "8089302",
+    "title": "Product Operations Manager, Crypto",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8089302?t=gh_src=&gh_jid=8089302",
+    "date": "2026-07-27T21:31:01-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "8090190",
+    "title": "Financial Operations Manager",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8090190?t=gh_src=&gh_jid=8090190",
+    "date": "2026-07-27T20:27:44-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "70e3955e-23b7-42d9-9263-d5f72f702aa9",
+    "title": "Senior IT Engineer",
+    "company": "Magic Eden",
+    "link": "https://jobs.ashbyhq.com/MagicEden/70e3955e-23b7-42d9-9263-d5f72f702aa9",
+    "date": "2026-07-28T00:13:10.835+00:00",
+    "source": "Ashby: Magic Eden"
+  },
+  {
+    "id": "8080773",
+    "title": "Partner Solutions Architect",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8080773",
+    "date": "2026-07-27T20:05:37-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8090141",
+    "title": "Staff Software Engineer, Service Infrastructure",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8090141",
+    "date": "2026-07-27T19:58:50-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "e39ea193-e746-4062-b604-51ef3cb0b913",
+    "title": "Machine Learning Engineer, Ops",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/e39ea193-e746-4062-b604-51ef3cb0b913",
+    "date": "2026-07-27T22:31:13.927+00:00",
+    "source": "Ashby: Cantina"
+  },
+  {
+    "id": "8088954",
+    "title": "Director of Accounting",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8088954?t=gh_src=&gh_jid=8088954",
+    "date": "2026-07-27T17:25:29-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "8083949",
+    "title": "VP, Software Engineering",
+    "company": "Guild",
+    "link": "https://www.guild.com/open-positions-at-guild?gh_jid=8083949",
+    "date": "2026-07-27T16:47:27-04:00",
+    "source": "Greenhouse: Guild"
+  },
+  {
+    "id": "8089069",
+    "title": "Product Counsel",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8089069",
+    "date": "2026-07-27T16:39:34-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4939042101",
+    "title": "Business Site Reliability Engineer",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4939042101",
+    "date": "2026-07-27T16:29:41-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
     "id": "a37cdf1c-9b0d-45e8-810c-f90965d9f918",
     "title": "Corporate Development Lead",
     "company": "Paxos",
@@ -26,6 +370,14 @@
   {
     "id": "6127941004",
     "title": "Facilities Manager - VP (Data Centers)",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6127941004",
+    "date": "2026-07-27T14:20:25-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "6127941004",
+    "title": "Facilities Manager (Data Centers)",
     "company": "Galaxy Digital",
     "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6127941004",
     "date": "2026-07-27T14:20:25-04:00",
@@ -96,12 +448,28 @@
     "source": "Greenhouse: Fireblocks"
   },
   {
+    "id": "5186735e-4e8a-4962-b402-0fafa00bbde5",
+    "title": "Binance Accelerator Program- CEO Office",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/5186735e-4e8a-4962-b402-0fafa00bbde5",
+    "date": "2026-07-27T16:04:27.533Z",
+    "source": "Lever: Binance"
+  },
+  {
     "id": "1fffd796-b589-4cc1-9664-ed1d2c3d9938",
     "title": "Executive Business Partner (CEO, VP of Finance, VP of People)",
     "company": "Render Network",
     "link": "https://jobs.ashbyhq.com/Render/1fffd796-b589-4cc1-9664-ed1d2c3d9938",
     "date": "2026-07-27T16:02:38.031+00:00",
     "source": "Ashby: Render Network"
+  },
+  {
+    "id": "0d19a45a-f3d1-4a5f-a3ce-d4e0ef630f60",
+    "title": "Junior Accounts Payable Accountant (12 months contract)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/0d19a45a-f3d1-4a5f-a3ce-d4e0ef630f60",
+    "date": "2026-07-27T16:00:53.921Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "e4a3fcd0-90bf-4225-8d91-a0219598bde4",
@@ -368,6 +736,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "8081423",
+    "title": "Product Manager, Strategy & Operations APAC",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8081423",
+    "date": "2026-07-27T05:53:22-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "8642475002",
     "title": "Account Executive",
     "company": "ComplyAdvantage",
@@ -406,6 +782,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8076966",
     "date": "2026-07-27T03:18:45-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "3b198651-7c6c-4c83-96f9-a7fd4e0fa20f",
+    "title": "Operational Risk Advisory Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/3b198651-7c6c-4c83-96f9-a7fd4e0fa20f",
+    "date": "2026-07-27T06:53:22.619Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "8068746",
@@ -802,6 +1186,14 @@
   {
     "id": "8084049",
     "title": "Senior Enterprise Marketing Manager, Base",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8084049?gh_jid=8084049",
+    "date": "2026-07-24T15:58:07-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8084049",
+    "title": "Senior Enterprise Product  Marketing Manager, Base",
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/8084049?gh_jid=8084049",
     "date": "2026-07-24T15:58:07-04:00",
@@ -14555,13 +14947,5 @@
     "link": "https://www.fireblocks.com/careers/position/4691576006?gh_jid=4691576006",
     "date": "2026-06-28T09:08:27-04:00",
     "source": "Greenhouse: Fireblocks"
-  },
-  {
-    "id": "84468360",
-    "title": "Senior Data Engineer",
-    "company": "VALR",
-    "link": "https://valr.careers.hibob.com/jobs/91c5b2b4-7eee-4a5a-8192-7b9a8c228608",
-    "date": "2026-06-28T04:49:12.000Z",
-    "source": "https://coinbase.getro.com/jobs"
   }
 ]
