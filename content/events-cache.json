@@ -1,33 +1,5 @@
 [
   {
-    "id": "luma-host-evt-Vf43wuBXkOdX3lF",
-    "name": "Winternitz Vault 勉強会｜量子コンピューティング時代のSolanaを学ぶ",
-    "description": "Superteam Japanはソラナ上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。🇯🇵 \nhttps://discord.gg/stjp",
-    "startDate": "2026-07-29T11:30:00.000Z",
-    "endDate": "2026-07-29T12:00:00.000Z",
-    "city": "Tokyo",
-    "country": "Japan",
-    "location": "Tokyo, Japan",
-    "url": "https://lu.ma/WinternitzVault-StudySession",
-    "coverImage": "https://images.lumacdn.com/uploads/lh/1e019403-eca2-4b8d-804b-cb545c7b3eb1.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
-    "id": "luma-host-evt-8nDCV7WRTC6yGZE",
-    "name": "The Founders Pitch",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-07-29T11:30:00.000Z",
-    "endDate": "2026-07-29T13:30:00.000Z",
-    "city": "New Delhi",
-    "country": "India",
-    "location": "New Delhi, India",
-    "url": "https://lu.ma/founders-pitch-delhi-stin",
-    "coverImage": "https://images.lumacdn.com/uploads/vh/3fc41360-e0af-4430-9716-431f037319cb.png",
-    "source": "luma-trusted",
-    "month": "July 2026"
-  },
-  {
     "id": "luma-host-evt-oGq7JRJkO9n7UNV",
     "name": "Superteam member office hours",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -714,6 +686,20 @@
     "month": "July 2026"
   },
   {
+    "id": "luma-host-evt-XhGEBqpEZOK3FVj",
+    "name": "Chainlink Community Pulse (English) – July Edition",
+    "description": "Find your local meetup on the Chainlink Community Global Events Calendar",
+    "startDate": "2026-07-31T17:00:00.000Z",
+    "endDate": "2026-07-31T17:30:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/chainlink-lhma",
+    "coverImage": "https://images.lumacdn.com/uploads/x6/88d34978-a2d6-4e15-bf9c-ecde33e02073.jpg",
+    "source": "luma-trusted",
+    "month": "July 2026"
+  },
+  {
     "id": "luma-host-evt-0ils33T7WzW6Qdm",
     "name": "ETHLDN: Decentralised solutions to UK problems",
     "description": "Ethereum London (ETHLDN.org) is the first and longest-running Ethereum meetup in the world, founded in January 2014.",
@@ -738,6 +724,20 @@
     "location": "Seattle, United States",
     "url": "https://lu.ma/3zmex0lo",
     "coverImage": "https://images.lumacdn.com/gallery-images/n2/0a544d41-3888-47b5-bdbc-c5d8cc5131e6",
+    "source": "luma",
+    "month": "July 2026"
+  },
+  {
+    "id": "luma-evt-FwZNcVXcPakCmWo",
+    "name": "Tea & Ambient Electronica. Open Tearoom",
+    "description": "",
+    "startDate": "2026-07-31T18:00:00.000Z",
+    "endDate": "2026-07-31T19:30:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/yzxcc6u6",
+    "coverImage": "https://images.lumacdn.com/uploads/03/a083e6a0-20ea-433c-8963-dfec7a4629fb.png",
     "source": "luma",
     "month": "July 2026"
   },
@@ -812,20 +812,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-XvV4RaFqrjognHv",
-    "name": "Webidoo × Chicago Tech Week · A rooftop party",
-    "description": "",
-    "startDate": "2026-08-01T23:30:00.000Z",
-    "endDate": "2026-08-02T02:30:00.000Z",
-    "city": "Chicago",
-    "country": "United States",
-    "location": "Chicago, United States",
-    "url": "https://lu.ma/WebidooTechWeek",
-    "coverImage": "https://images.lumacdn.com/uploads/ty/4af435de-4e9c-4926-b8ad-a7896f9e581c.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-dib81pGXSyroKNm",
     "name": "Maker Basics: Soldering & Electronics",
     "description": "",
@@ -850,6 +836,20 @@
     "location": "Online",
     "url": "https://www.meetup.com/minneapolis-real-estate-happy-hour/events/315872842/",
     "coverImage": "https://secure.meetupstatic.com/photos/event/7/a/3/a/600_535411290.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315701287",
+    "name": "Bienvenidos a charla en Español.",
+    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
+    "startDate": "2026-08-04T18:30:00-05:00",
+    "endDate": "2026-08-04T18:30:00-05:00",
+    "city": "West Des Moines",
+    "country": "us",
+    "location": "West Des Moines, us",
+    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/315701287/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/d/0/4/600_503531524.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -1204,6 +1204,20 @@
     "month": "August 2026"
   },
   {
+    "id": "dtt-coinfest-asia-2026",
+    "name": "COINFEST ASIA 2026",
+    "description": "",
+    "startDate": "2026-08-20T00:00:00.000Z",
+    "endDate": "2026-08-20T00:00:00.000Z",
+    "city": "August 20-21, 2026Bali",
+    "country": "",
+    "location": "August 20-21, 2026Bali",
+    "url": "https://coinfest.asia",
+    "coverImage": "https://wojgrioccmbywgtruwfl.supabase.co/storage/v1/object/public/Media%20Folders/Coinfest%20Asia%202026/ca26-Thumbnails.png",
+    "source": "deeptechtimes",
+    "month": "August 2026"
+  },
+  {
     "id": "ma-coinfest-asia",
     "name": "CoinFest Asia",
     "description": "Coinfest Asia is the world's biggest crypto festival, held annually in Bali, Indonesia. It brings together developers, investors, builders, creators, and enthusiasts from over 90 countries for two day",
@@ -1246,6 +1260,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-iyygicMKwhNF259",
+    "name": "The Bull Run Blueprint: AI and Crypto for Q4",
+    "description": "",
+    "startDate": "2026-08-21T21:30:00.000Z",
+    "endDate": "2026-08-22T00:30:00.000Z",
+    "city": "Montreal",
+    "country": "Canada",
+    "location": "Montreal, Canada",
+    "url": "https://lu.ma/ccl96wxu",
+    "coverImage": "https://images.lumacdn.com/uploads/nf/e140135b-e494-4137-b4b1-95be103a248d.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-science-and-blockchain-ccsb-2",
     "name": "International Conference on Computer Science and Blockchain (CCSB)",
     "description": "",
@@ -1274,20 +1302,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-J6FD5pFOxRSZgKx",
-    "name": "Bitcoin Block Party",
-    "description": "",
-    "startDate": "2026-08-23T19:00:00.000Z",
-    "endDate": "2026-08-24T03:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/ed63hjqz",
-    "coverImage": "https://images.lumacdn.com/uploads/e8/8012cbb9-3f74-436f-9c62-dfdded85bafe.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-",
     "name": "International Conference on Cryptography and Information Security (ICCIS)",
     "description": "",
@@ -1299,20 +1313,6 @@
     "url": "https://conferenceindex.org/event/international-conference-on-cryptography-and-information-security-iccis-2026-august-kuala-lumpur-my",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-tEl4FgUf8FyBhhc",
-    "name": "MONKEDAO turns 5!",
-    "description": "",
-    "startDate": "2026-08-24T20:00:00.000Z",
-    "endDate": "2026-08-24T23:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/riegwy4i",
-    "coverImage": "https://images.lumacdn.com/uploads/vh/9f13d407-b43d-4d7c-887c-0106eda46f56.jpg",
-    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -1409,7 +1409,7 @@
     "country": "UAE",
     "location": "Dubai, UAE, UAE",
     "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": null,
+    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/04/unchained-summit-dubai-may-2026-an-event-by-aeternum.jpg",
     "source": "marketacross",
     "month": "September 2026"
   },
@@ -1663,6 +1663,20 @@
     "url": "https://lu.ma/token2049",
     "coverImage": "https://images.lumacdn.com/calendar-cover-images/f2/220af4ff-9787-4123-932a-b2b62c7b0335",
     "source": "luma-trusted",
+    "month": "October 2026"
+  },
+  {
+    "id": "dtt-token2049-singapore-2026",
+    "name": "TOKEN2049 SINGAPORE 2026",
+    "description": "",
+    "startDate": "2026-10-07T00:00:00.000Z",
+    "endDate": "2026-10-07T00:00:00.000Z",
+    "city": "SINGAPORE 2026October 7-8, 2026Singapore",
+    "country": "",
+    "location": "SINGAPORE 2026October 7-8, 2026Singapore",
+    "url": "https://token2049.com/singapore?utm_source=newsletter&utm_medium=email&utm_campaign=singapore_2026",
+    "coverImage": "https://token2049.nyc3.cdn.digitaloceanspaces.com/Singapore/OG/T2049%20Singapore%20-%20OpenGraph%20(2026)%202%20OCT%202025.avif",
+    "source": "deeptechtimes",
     "month": "October 2026"
   },
   {
