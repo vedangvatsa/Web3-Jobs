@@ -1,5 +1,125 @@
 [
   {
+    "id": "8093992",
+    "title": "Architect",
+    "company": "Luno",
+    "link": "https://job-boards.greenhouse.io/luno/jobs/8093992",
+    "date": "2026-07-29T08:11:26-04:00",
+    "source": "Greenhouse: Luno"
+  },
+  {
+    "id": "87874154",
+    "title": "Founding Sales Development Representative",
+    "company": "Spearbit",
+    "link": "https://pod5.app.loxo.co/job/NDQ1MDItNjlsdXl6d3htNmk1Mjhzbg==",
+    "date": "2026-07-29T11:56:23.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "8068918",
+    "title": "Lifecycle Marketing Manager",
+    "company": "Consensys",
+    "link": "https://consensys.io/open-roles/8068918?gh_jid=8068918",
+    "date": "2026-07-29T06:41:42-04:00",
+    "source": "Greenhouse: Consensys"
+  },
+  {
+    "id": "7820159003",
+    "title": "Data Security Expert",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7820159003",
+    "date": "2026-07-29T06:39:59-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "87852873",
+    "title": "Senior Software Engineer",
+    "company": "Circle",
+    "link": "https://careers.circle.com/us/en/job/JR100650",
+    "date": "2026-07-29T10:38:09.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87849938",
+    "title": "Product Manager",
+    "company": "Durianpay",
+    "link": "https://dealls.com/en/loker/product-manager-132~durianpay-1",
+    "date": "2026-07-29T10:01:58.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "87849934",
+    "title": "Tax Manager",
+    "company": "Durianpay",
+    "link": "https://dealls.com/en/loker/tax-manager-8~durianpay-1",
+    "date": "2026-07-29T10:01:56.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "4697483006",
+    "title": "Professional Services Engineer",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/4697483006?gh_jid=4697483006",
+    "date": "2026-07-29T05:49:24-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "87848576",
+    "title": "Content & Editorial Lead",
+    "company": "Daffy",
+    "link": "https://www.daffy.org/careers/content-editorial-lead",
+    "date": "2026-07-29T09:33:39.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "87848541",
+    "title": "Sales Engineer",
+    "company": "Matrixport",
+    "link": "https://sg.linkedin.com/jobs/view/sales-engineer-at-bit-official-4446045355",
+    "date": "2026-07-29T09:32:27.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "4940532101",
+    "title": "Senior PMO Specialist",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4940532101",
+    "date": "2026-07-29T05:24:51-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "a58ad049-0cef-4cd2-8059-56f037f24411",
+    "title": "Regional Sales Manager - DACH",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/a58ad049-0cef-4cd2-8059-56f037f24411",
+    "date": "2026-07-29T09:04:13.674+00:00",
+    "source": "Ashby: Elliptic"
+  },
+  {
+    "id": "20e4e920-f108-49a8-a74b-81bc4a17c694",
+    "title": "Social Media Marketing Intern",
+    "company": "Coins.ph",
+    "link": "https://jobs.lever.co/coins/20e4e920-f108-49a8-a74b-81bc4a17c694",
+    "date": "2026-07-29T08:00:41.276Z",
+    "source": "Lever: Coins.ph"
+  },
+  {
+    "id": "72c2f324-d2d7-4037-b3a8-d9afb25dbe18",
+    "title": "Design Engineer",
+    "company": "Trust Wallet",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/72c2f324-d2d7-4037-b3a8-d9afb25dbe18",
+    "date": "2026-07-29T07:22:16.036+00:00",
+    "source": "Ashby: Trust Wallet"
+  },
+  {
+    "id": "7820016003",
+    "title": "Compliance Analyst",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7820016003",
+    "date": "2026-07-29T01:40:02-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "4940313101",
     "title": "Principal Security Development Engineer",
     "company": "Bybit",
@@ -14918,6 +15038,14 @@
     "source": "https://jobs.blockchaincapital.com/jobs"
   },
   {
+    "id": "84572580",
+    "title": "Tech Lead, dApp",
+    "company": "1inch",
+    "link": "https://jobs.lever.co/1inch/feec2508-f482-455a-9644-1fb9fe2092ae",
+    "date": "2026-06-30T08:00:56.000Z",
+    "source": "https://jobs.spartangroup.io/jobs"
+  },
+  {
     "id": "f67c9e11-38f0-443f-9223-461b35eba46c",
     "title": "Brand Marketing & Creative (Contractor)",
     "company": "Trust Wallet",
@@ -15411,117 +15539,5 @@
     "link": "https://jobs.lever.co/coins/0bcf129d-df44-4db6-adce-b8c14d9d09c4",
     "date": "2026-06-29T12:40:20.742Z",
     "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "feec2508-f482-455a-9644-1fb9fe2092ae",
-    "title": "Tech Lead,  dApp",
-    "company": "1inch",
-    "link": "https://jobs.lever.co/1inch/feec2508-f482-455a-9644-1fb9fe2092ae",
-    "date": "2026-06-29T11:06:26.101Z",
-    "source": "Lever: 1inch"
-  },
-  {
-    "id": "4896304101",
-    "title": "Intern, Legal",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4896304101",
-    "date": "2026-06-29T05:42:56-04:00",
-    "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "4896304101",
-    "title": "Intern, Legal & Regulatory",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4896304101",
-    "date": "2026-06-29T05:42:56-04:00",
-    "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "7788241003",
-    "title": "Principal/Senior Product Manager, Growth",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7788241003",
-    "date": "2026-06-29T05:33:33-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7788203003",
-    "title": "Brand Supervisor (Global Markets)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7788203003",
-    "date": "2026-06-29T05:01:54-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "f7f29662-40e1-4a21-a59b-739f462c5dc2",
-    "title": "Technical Customer Support - Contractor",
-    "company": "Trust Wallet",
-    "link": "https://jobs.ashbyhq.com/trust-wallet/f7f29662-40e1-4a21-a59b-739f462c5dc2",
-    "date": "2026-06-29T08:16:58.927+00:00",
-    "source": "Ashby: Trust Wallet"
-  },
-  {
-    "id": "84483801",
-    "title": "Staff Frontend Engineer",
-    "company": "Fomo",
-    "link": "https://jobs.ashbyhq.com/fomo-labs/0e4030ed-01a9-45dc-b2ba-075874a9b32d",
-    "date": "2026-06-29T07:44:14.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "c85bb74a-025e-4a23-abfa-b3a452807f7d",
-    "title": "Binance Accelerator Program - Analytics Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/c85bb74a-025e-4a23-abfa-b3a452807f7d",
-    "date": "2026-06-29T07:07:36.233Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "f3afe3da-ce80-4ab1-9876-9b92578d6efe",
-    "title": "Business Intelligence (BI) Analyst / Senior BI Analyst",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/f3afe3da-ce80-4ab1-9876-9b92578d6efe",
-    "date": "2026-06-29T07:05:09.457Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "e9163f83-82c1-475b-83a6-642149cb294e",
-    "title": "Binance Accelerator Program - Big Data Infrastructure Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/e9163f83-82c1-475b-83a6-642149cb294e",
-    "date": "2026-06-29T06:55:29.178Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "7fdd21fd-0b61-4b75-bd0d-b03f2f2a3576",
-    "title": "Senior Margin Risk Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/7fdd21fd-0b61-4b75-bd0d-b03f2f2a3576",
-    "date": "2026-06-29T06:22:27.443Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "7788114003",
-    "title": "Senior Staff Engineer, Internal Platform",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7788114003",
-    "date": "2026-06-29T02:01:34-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7788114003",
-    "title": "Senior Staff Engineer, HR Platform",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7788114003",
-    "date": "2026-06-29T02:01:34-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7777031003",
-    "title": "Senior Staff Software Engineer, Mobile Infrastructure",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7777031003",
-    "date": "2026-06-29T01:49:51-04:00",
-    "source": "Greenhouse: OKX"
   }
 ]
