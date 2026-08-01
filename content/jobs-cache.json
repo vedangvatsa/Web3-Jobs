@@ -1,5 +1,53 @@
 [
   {
+    "id": "4719851005",
+    "title": "Trade Operations Associate",
+    "company": "FalconX",
+    "link": "https://job-boards.greenhouse.io/falconx/jobs/4719851005",
+    "date": "2026-07-31T22:48:21-04:00",
+    "source": "Greenhouse: FalconX"
+  },
+  {
+    "id": "70f102bd-0c2e-4833-a6fa-46359cc050f2",
+    "title": "Senior Investigation Analyst",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/70f102bd-0c2e-4833-a6fa-46359cc050f2",
+    "date": "2026-07-31T21:39:12.384+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "c69d06c3-96df-493a-afdc-80636d494cf2",
+    "title": "Backend Engineer, Markets",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/c69d06c3-96df-493a-afdc-80636d494cf2",
+    "date": "2026-07-31T21:34:56.095+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "c1349283-81a5-406f-ae14-6d028ecb0a8d",
+    "title": "Business Development, APAC",
+    "company": "Stellar",
+    "link": "https://jobs.ashbyhq.com/Stellar/c1349283-81a5-406f-ae14-6d028ecb0a8d",
+    "date": "2026-07-31T20:53:10.836+00:00",
+    "source": "Ashby: Stellar"
+  },
+  {
+    "id": "8100213",
+    "title": "Senior Software Engineer, Data Lake",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8100213?t=gh_src=&gh_jid=8100213",
+    "date": "2026-07-31T16:43:35-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "8100160",
+    "title": "Senior Android Engineer, Crypto Expansion",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8100160?t=gh_src=&gh_jid=8100160",
+    "date": "2026-07-31T16:09:23-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
     "id": "8024553",
     "title": "Member Support Specialist II",
     "company": "Guild",
@@ -216,6 +264,14 @@
     "source": "Ashby: Jane"
   },
   {
+    "id": "88290277",
+    "title": "Associate, Operational Excellence",
+    "company": "Zone",
+    "link": "https://appzonegroup.zohorecruit.com/jobs/Careers/284302000031073503/Associate-Operational-Excellence?source=CareerSite",
+    "date": "2026-07-31T14:04:00.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "88286102",
     "title": "Head of FP&A",
     "company": "Rain",
@@ -238,6 +294,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8092652",
     "date": "2026-07-31T09:49:25-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "88279167",
+    "title": "Senior Client Service Manager - German speaker",
+    "company": "eToro",
+    "link": "https://www.comeet.com/jobs/etoro/41.009/senior-client-service-manager---german-speaker/53.F6B",
+    "date": "2026-07-31T13:40:24.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "8098691",
@@ -264,6 +328,14 @@
     "source": "Ashby: Elliptic"
   },
   {
+    "id": "88272130",
+    "title": "Bookkeeper",
+    "company": "Utila",
+    "link": "https://www.comeet.com/jobs/utila/D9.00F/bookkeeper/D3.F60",
+    "date": "2026-07-31T13:28:34.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "88266957",
     "title": "Sr Brand Designer - Krak",
     "company": "Kraken",
@@ -278,6 +350,22 @@
     "link": "https://tokkalabs.hire.trakstar.com/jobs/fk0zdvf/",
     "date": "2026-07-31T12:52:45.000Z",
     "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
+    "id": "88254272",
+    "title": "Senior Accounts Payable & Receivable Specialist (6-month fixed-term contract)",
+    "company": "Improbable",
+    "link": "https://jobs.ashbyhq.com/Improbable/342c78f4-cee3-4a28-be22-b92b9654a8ac",
+    "date": "2026-07-31T12:49:00.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "88254275",
+    "title": "Product Engineer",
+    "company": "Improbable",
+    "link": "https://jobs.ashbyhq.com/Improbable/e1da34c8-7bb9-417c-ba75-6ce6214090c7",
+    "date": "2026-07-31T12:49:00.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "4942555101",
@@ -2256,6 +2344,14 @@
     "source": "Greenhouse: Bybit"
   },
   {
+    "id": "8054121",
+    "title": "Technical Program Manager",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8054121",
+    "date": "2026-07-28T22:30:50-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "8078168",
     "title": "Growth Marketing Manager, Greater China",
     "company": "Stripe",
@@ -3848,6 +3944,14 @@
     "source": "https://jobs.electriccapital.com/jobs"
   },
   {
+    "id": "87517871",
+    "title": "Growth Workflow Manager, Performance & Paid",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/7265ed54-fc8a-470f-be56-3f06c0c8a9f0",
+    "date": "2026-07-25T10:25:25.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
     "id": "87517827",
     "title": "Growth Workflow Specialist, Organic Growth",
     "company": "Kraken",
@@ -3858,6 +3962,14 @@
   {
     "id": "87517827",
     "title": "Growth Workflow Specialist, Organic",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/ee900e35-1754-4237-9aa7-db7d8f98ca67",
+    "date": "2026-07-25T10:25:19.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "87517827",
+    "title": "Growth Workflow Manager, Organic Growth",
     "company": "Kraken",
     "link": "https://jobs.ashbyhq.com/kraken.com/ee900e35-1754-4237-9aa7-db7d8f98ca67",
     "date": "2026-07-25T10:25:19.000Z",
@@ -5625,6 +5737,14 @@
   {
     "id": "8072932",
     "title": "Senior Staff Software Engineer, Finance Automation",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932",
+    "date": "2026-07-22T11:44:57-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8072932",
+    "title": "Forward Deployed Engineer, Finance [Office of the CTO]",
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932",
     "date": "2026-07-22T11:44:57-04:00",
@@ -8237,6 +8357,14 @@
     "link": "https://jobs.lever.co/binance/8b0d6e9d-7277-4786-b470-f774f13a3019",
     "date": "2026-07-17T15:59:30.747Z",
     "source": "Lever: Binance"
+  },
+  {
+    "id": "bd30caca-3390-4dcf-81a6-76a10e05ba4c",
+    "title": "Personal Banker",
+    "company": "Switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/bd30caca-3390-4dcf-81a6-76a10e05ba4c",
+    "date": "2026-07-17T15:51:01.974+00:00",
+    "source": "Ashby: Switchboard"
   },
   {
     "id": "8638557002",
@@ -16012,45 +16140,5 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7791118003",
     "date": "2026-07-02T01:17:32-04:00",
     "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "1c8e2b03-fcb3-4949-9113-07812f138eb6",
-    "title": "Employee Lifecycle Analyst",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/1c8e2b03-fcb3-4949-9113-07812f138eb6",
-    "date": "2026-07-01T21:19:57.841+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "6d81400a-8919-44b7-8cee-f461d8cfb08e",
-    "title": "Sales Lead, Prediction & Digital Asset Markets",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/6d81400a-8919-44b7-8cee-f461d8cfb08e",
-    "date": "2026-07-01T21:09:47.299Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "c3e2da16-f0cc-442d-9405-5d27b755bc93",
-    "title": "Director of Design Integration",
-    "company": "Cleanspark",
-    "link": "https://jobs.lever.co/cleanspark/c3e2da16-f0cc-442d-9405-5d27b755bc93",
-    "date": "2026-07-01T21:07:27.131Z",
-    "source": "Lever: Cleanspark"
-  },
-  {
-    "id": "7791961003",
-    "title": "Chief Compliance Officer",
-    "company": "Grayscale",
-    "link": "https://job-boards.greenhouse.io/grayscaleinvestments/jobs/7791961003",
-    "date": "2026-07-01T16:21:57-04:00",
-    "source": "Greenhouse: Grayscale"
-  },
-  {
-    "id": "815cacde-243b-4e59-87b1-d8536374a125",
-    "title": "Head of Brand Creative",
-    "company": "Phantom",
-    "link": "https://jobs.ashbyhq.com/Phantom/815cacde-243b-4e59-87b1-d8536374a125",
-    "date": "2026-07-01T20:18:24.204+00:00",
-    "source": "Ashby: Phantom"
   }
 ]
