@@ -1,61 +1,5 @@
 [
   {
-    "id": "luma-host-evt-LGCZdDxzGVG6Dfb",
-    "name": "SheFi Watch Party: Bangkok #2 Edition x Superteam Thailand",
-    "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
-    "startDate": "2026-08-04T13:30:00.000Z",
-    "endDate": "2026-08-04T15:30:00.000Z",
-    "city": "Bangkok",
-    "country": "Thailand",
-    "location": "Bangkok, Thailand",
-    "url": "https://lu.ma/rruroydr",
-    "coverImage": "https://images.lumacdn.com/uploads/qb/2cb4016b-e979-41c7-8c1c-9b20f8b0341a.jpg",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-EBdHTBo1qSS0jjP",
-    "name": "2′PITCH with Members",
-    "description": "Solana спільнота, де запускають web3 стартапи, отримують гранти та інвестиції, навчаються й заробляють у криптоекономіці.",
-    "startDate": "2026-08-04T16:00:00.000Z",
-    "endDate": "2026-08-04T17:00:00.000Z",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "location": "Kyiv, Ukraine",
-    "url": "https://lu.ma/superteam-xdgj",
-    "coverImage": "https://images.lumacdn.com/uploads/19/b9f35147-d870-445f-8e63-5c4f0f698827.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315866052",
-    "name": "Free AI and Blockchain-Powered Lead Generation for Real Estate",
-    "description": "What if the AI you use could help you find prospects, contact your database, identify interested consumers, support your transactions, and earn rewards that can be used toward additional leads?\nJoin u",
-    "startDate": "2026-08-04T15:00:00-04:00",
-    "endDate": "2026-08-04T15:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/charlotte-wholesaling-houses-meetup/events/315866052/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/1/e/6/600_535405062.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315869617",
-    "name": "Free AI and Blockchain-Powered Lead Generation for Real Estate",
-    "description": "What if the AI you use could help you find prospects, contact your database, identify interested consumers, support your transactions, and earn rewards that can be used toward additional leads?\nJoin u",
-    "startDate": "2026-08-04T15:00:00-04:00",
-    "endDate": "2026-08-04T15:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/triangle-real-estate-referral-network/events/315869617/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/f/5/c/600_535408508.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-fN06aglWo6CHCCU",
     "name": "Drinks & Dinner with Yape + Credicorp",
     "description": "",
@@ -137,20 +81,6 @@
     "url": "https://lu.ma/m4pjyfuj",
     "coverImage": "https://images.lumacdn.com/gallery-images/f4/5570427d-0909-4178-84cc-cb84932d7a23.png",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315716454",
-    "name": "Open Bitcoin Q&A chat!",
-    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* Bitcoin.rocks\n* Bitcoin-Only.com\n* Bitcoiner.Guide\n* The",
-    "startDate": "2026-08-05T20:00:00-04:00",
-    "endDate": "2026-08-05T20:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/philadelphia-bitcoin-club/events/315716454/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/4/3/1/600_508345649.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -333,6 +263,20 @@
     "url": "https://lu.ma/r53sjvu9",
     "coverImage": "https://images.lumacdn.com/uploads/ft/91949d0b-0ad4-4085-b684-5afae635be1f.png",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315708600",
+    "name": "Deconstructing Computation: The Essence of std::execution -- Ben Deane",
+    "description": "Come out and join us for this exciting talk by Ben, and networking during the meetup and at the Burns Pub afterward.\n\nFood will be sponsored by Sovereign this month. Learn more about sovereign at [htt",
+    "startDate": "2026-08-06T18:00:00-06:00",
+    "endDate": "2026-08-06T18:00:00-06:00",
+    "city": "Westminster",
+    "country": "us",
+    "location": "Westminster, us",
+    "url": "https://www.meetup.com/north-denver-metro-c-meetup/events/315708600/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/e/4/f/3/600_487498611.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -686,20 +630,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315776412",
-    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
-    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
-    "startDate": "2026-08-10T12:00:00-04:00",
-    "endDate": "2026-08-10T12:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/315776412/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/2/2/3/600_525981027.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-t7EiAWX4WQV20pa",
     "name": "Radiesse Training with Nicole Wolfe",
     "description": "",
@@ -724,6 +654,34 @@
     "location": "Split, Croatia",
     "url": "https://lu.ma/wf9gpqqg",
     "coverImage": "https://images.lumacdn.com/uploads/9w/a97f8c87-15da-4371-9d83-c3ef627b3029.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-KFaYe6ugKvgUaoi",
+    "name": "Solana Co-Working BKK",
+    "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
+    "startDate": "2026-08-11T06:30:00.000Z",
+    "endDate": "2026-08-11T12:00:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Bangkok, Thailand",
+    "url": "https://lu.ma/5dtjffiy",
+    "coverImage": "https://images.lumacdn.com/uploads/a1/ca55322a-cae8-4cd9-b4b5-a0b7b93f77ba.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-n41e2dttG68htB5",
+    "name": "Workshops - Superteam India",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-08-11T12:30:00.000Z",
+    "endDate": "2026-08-11T13:15:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/superteamin-workshop",
+    "coverImage": "https://images.lumacdn.com/uploads/ld/76414ca4-20e3-4454-9d09-fedb0c68af20.png",
     "source": "luma-trusted",
     "month": "August 2026"
   },
@@ -935,20 +893,6 @@
     "url": "https://lu.ma/l0ungqyu",
     "coverImage": "https://images.lumacdn.com/event-covers/77/27e50d70-259f-43c0-9569-dd135104c559.jpg",
     "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-314396576",
-    "name": "Capitol City Bitcoin meetup - virtual",
-    "description": "Let’s talk about bitcoin, crypto and what’s going on in South Carolina ! You must RSVP in advance to obtain the video link.\nThis will be scheduled on the third Tuesday of every month.",
-    "startDate": "2026-08-18T19:00:00-04:00",
-    "endDate": "2026-08-18T19:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396576/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/c/9/4/1/600_499671521.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1232,6 +1176,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-UKSgHYKSs9vCB4n",
+    "name": "Monad Blitz Amsterdam Hackathon",
+    "description": "Learn, build and advance your career in Emerging Tech with our community of 500,000 talented professionals worldwide.",
+    "startDate": "2026-08-29T07:00:00.000Z",
+    "endDate": "2026-08-29T18:00:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://lu.ma/blitz-ams-aug-2026",
+    "coverImage": "https://images.lumacdn.com/uploads/jf/30e8e7f1-04d9-4d52-964f-a498e66cf402.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "ethorg-meetupweb3privacy-now-meetupseptember-1amsterdam--",
     "name": "MeetupWeb3Privacy now meetupSeptember 1Amsterdam, Netherlands (opens in a new tab)",
     "description": "",
@@ -1297,7 +1255,7 @@
     "country": "UAE",
     "location": "Dubai, UAE, UAE",
     "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": null,
+    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/04/unchained-summit-dubai-may-2026-an-event-by-aeternum.jpg",
     "source": "marketacross",
     "month": "September 2026"
   },
