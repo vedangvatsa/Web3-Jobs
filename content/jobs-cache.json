@@ -1,5 +1,93 @@
 [
   {
+    "id": "7823860003",
+    "title": "Specialist, Customer Due Diligence Operations",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7823860003",
+    "date": "2026-08-04T00:12:04-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "6129741004",
+    "title": "Trading Operations Associate",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6129741004",
+    "date": "2026-08-03T22:15:13-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "744cb1d2-2f53-4819-8b5f-ef82a4460776",
+    "title": "Operational Risk / Enterprise Risk Management Framework (ERMF) Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/744cb1d2-2f53-4819-8b5f-ef82a4460776",
+    "date": "2026-08-04T02:10:26.185Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "f859c941-4579-402a-aad5-a7bacbf33175",
+    "title": "People Operations | Global Mobility, Immigration, and Scale",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f859c941-4579-402a-aad5-a7bacbf33175",
+    "date": "2026-08-04T00:34:51.913+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "1ebf8316-dd3b-4637-b589-8115a30123f3",
+    "title": "Employee Lifecycle Associate",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/1ebf8316-dd3b-4637-b589-8115a30123f3",
+    "date": "2026-08-04T00:07:11.088+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "8036761",
+    "title": "Executive Compensation Business Partner",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8036761",
+    "date": "2026-08-03T19:47:14-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8104175",
+    "title": "Technical Program Manager",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8104175?gh_jid=8104175",
+    "date": "2026-08-03T18:12:17-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "b7508c39-c91f-405a-bdef-9c6b6eca1fee",
+    "title": "Staff Product Manager, CI/CD & Developer Productivity",
+    "company": "Render Network",
+    "link": "https://jobs.ashbyhq.com/Render/b7508c39-c91f-405a-bdef-9c6b6eca1fee",
+    "date": "2026-08-03T21:05:28.881+00:00",
+    "source": "Ashby: Render Network"
+  },
+  {
+    "id": "00aacb23-0dfc-41ae-a40d-5eb1badc3863",
+    "title": "Product Designer (Injective Labs)",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/00aacb23-0dfc-41ae-a40d-5eb1badc3863",
+    "date": "2026-08-03T20:55:04.560+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "8089161",
+    "title": "Manager, WFM Operations",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8089161?gh_jid=8089161",
+    "date": "2026-08-03T16:46:29-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "4720917005",
+    "title": "Software Engineer, Payments Product Lead",
+    "company": "Aptos Labs",
+    "link": "https://job-boards.greenhouse.io/aptoslabs/jobs/4720917005",
+    "date": "2026-08-03T16:36:04-04:00",
+    "source": "Greenhouse: Aptos Labs"
+  },
+  {
     "id": "4720881005",
     "title": "Senior Software Engineer, Trading Infrastructure",
     "company": "Aptos Labs",
@@ -144,12 +232,28 @@
     "source": "https://jobs.solana.com/jobs"
   },
   {
+    "id": "88531726",
+    "title": "People & Culture AssociateStartale",
+    "company": "Astar Foundation",
+    "link": "https://boards.greenhouse.io/startale/jobs/5377502008",
+    "date": "2026-08-03T13:34:32.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
     "id": "6129946004",
     "title": "Senior Analytics Engineer",
     "company": "Alpaca",
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6129946004",
     "date": "2026-08-03T09:28:27-04:00",
     "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "88529907",
+    "title": "SMB Marketing Manager",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/34a5e41b-1457-46ca-8e35-5cfc4ad81b3f",
+    "date": "2026-08-03T13:25:32.000Z",
+    "source": "https://coinbase.getro.com/jobs"
   },
   {
     "id": "8dee80db-8a0e-4f86-b767-c0e443da27d8",
