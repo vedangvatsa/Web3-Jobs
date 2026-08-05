@@ -1,5 +1,77 @@
 [
   {
+    "id": "5c6d06e5-1a56-4690-b8d4-45dc08a915af",
+    "title": "Strategic Finance Manager, R&D",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/5c6d06e5-1a56-4690-b8d4-45dc08a915af",
+    "date": "2026-08-05T00:09:45.889+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "8089353",
+    "title": "Software Engineer, Vulnerability Management",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8089353",
+    "date": "2026-08-04T20:01:19-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "395712e5-eff6-4b04-aaec-00fbd819547c",
+    "title": "Machine Learning Engineer - Voice Conversion",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/395712e5-eff6-4b04-aaec-00fbd819547c",
+    "date": "2026-08-04T23:27:48.136+00:00",
+    "source": "Ashby: Cantina"
+  },
+  {
+    "id": "8107302",
+    "title": "Software Engineer, Sending",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8107302",
+    "date": "2026-08-04T18:47:05-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "6132329004",
+    "title": "VP, Algo Trading / SOR Developer",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6132329004",
+    "date": "2026-08-04T17:28:49-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "026b745f-bc2a-4661-8d4e-a711987c2f0b",
+    "title": "Analista de Growth (Business Analytics) - Pleno",
+    "company": "Neon EVM",
+    "link": "https://jobs.lever.co/neon/026b745f-bc2a-4661-8d4e-a711987c2f0b",
+    "date": "2026-08-04T21:10:47.006Z",
+    "source": "Lever: Neon EVM"
+  },
+  {
+    "id": "6134694004",
+    "title": "Site Development Associate – Data Center Development",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6134694004",
+    "date": "2026-08-04T16:56:49-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "4721259005",
+    "title": "C++ Software Engineer (DV Commodities - Chicago)",
+    "company": "DV Trading",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4721259005",
+    "date": "2026-08-04T16:52:44-04:00",
+    "source": "Greenhouse: DV Trading"
+  },
+  {
+    "id": "97151aba-e3eb-483d-b56c-34711b873760",
+    "title": "Product Designer",
+    "company": "Jito",
+    "link": "https://jobs.lever.co/jito/97151aba-e3eb-483d-b56c-34711b873760",
+    "date": "2026-08-04T20:39:25.274Z",
+    "source": "Lever: Jito"
+  },
+  {
     "id": "b160979b-218a-4dff-bbf0-ae515e8e51be",
     "title": "Senior Manager, Growth Strategy & Insights",
     "company": "Jane",
@@ -38,6 +110,14 @@
     "link": "https://jobs.ashbyhq.com/cantina/0d768e7f-58de-44f5-9f22-541b2f88fbe9",
     "date": "2026-08-04T16:07:13.503+00:00",
     "source": "Ashby: Cantina"
+  },
+  {
+    "id": "7974211",
+    "title": "Risk Operations Analyst, Financial Crimes",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7974211",
+    "date": "2026-08-04T11:42:50-04:00",
+    "source": "Greenhouse: Stripe"
   },
   {
     "id": "8099895",
@@ -410,6 +490,14 @@
   {
     "id": "14a90441-07b2-4a23-a3c0-e31f8a3a56b9",
     "title": "Product Manager (Asset Module) - 6 months contract",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/14a90441-07b2-4a23-a3c0-e31f8a3a56b9",
+    "date": "2026-08-04T03:52:16.019Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "14a90441-07b2-4a23-a3c0-e31f8a3a56b9",
+    "title": "Product Manager - Asset Module (6-12 months contract)",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/14a90441-07b2-4a23-a3c0-e31f8a3a56b9",
     "date": "2026-08-04T03:52:16.019Z",
@@ -2584,6 +2672,14 @@
     "source": "Greenhouse: Guild"
   },
   {
+    "id": "8092408",
+    "title": "Senior Compensation Manager",
+    "company": "Guild",
+    "link": "https://www.guild.com/open-positions-at-guild?gh_jid=8092408",
+    "date": "2026-07-30T08:18:34-04:00",
+    "source": "Greenhouse: Guild"
+  },
+  {
     "id": "4941499101",
     "title": "Spot Product Expert",
     "company": "Bybit",
@@ -2962,6 +3058,14 @@
   {
     "id": "6d4cd6e7-eae8-474f-938a-f61067f8a05b",
     "title": "Staff Data Engineer",
+    "company": "Jane",
+    "link": "https://jobs.ashbyhq.com/jane/6d4cd6e7-eae8-474f-938a-f61067f8a05b",
+    "date": "2026-07-29T19:19:43.564+00:00",
+    "source": "Ashby: Jane"
+  },
+  {
+    "id": "6d4cd6e7-eae8-474f-938a-f61067f8a05b",
+    "title": "Staff Data Engineer - Customer Signals & Instrumentation",
     "company": "Jane",
     "link": "https://jobs.ashbyhq.com/jane/6d4cd6e7-eae8-474f-938a-f61067f8a05b",
     "date": "2026-07-29T19:19:43.564+00:00",
@@ -9073,6 +9177,14 @@
   {
     "id": "8065034",
     "title": "Product Manager, Connect",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8065034",
+    "date": "2026-07-20T10:48:43-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8065034",
+    "title": "Staff Product Manager, Connect",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=8065034",
     "date": "2026-07-20T10:48:43-04:00",
@@ -16292,29 +16404,5 @@
     "link": "https://jobs.ashbyhq.com/polygon-labs/2e602e2d-498f-4838-aaaa-1ac58253ec74",
     "date": "2026-07-06T08:22:29.108+00:00",
     "source": "Ashby: Polygon Labs"
-  },
-  {
-    "id": "da981b97-477a-4cd6-af88-797c6a7c0ea3",
-    "title": "Web/App Test Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/da981b97-477a-4cd6-af88-797c6a7c0ea3",
-    "date": "2026-07-06T04:04:10.234Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "a26d7d57-a930-49b3-8245-1f9cb91f59cd",
-    "title": "Legal Counsel, Europe",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/a26d7d57-a930-49b3-8245-1f9cb91f59cd",
-    "date": "2026-07-06T02:44:39.669Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "6109321004",
-    "title": "Production Support Engineer (Mumbai)",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6109321004",
-    "date": "2026-07-05T22:16:24-04:00",
-    "source": "Greenhouse: Galaxy Digital"
   }
 ]
