@@ -1,5 +1,45 @@
 [
   {
+    "id": "7834182003",
+    "title": "Senior Growth Manager, Brazil",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7834182003",
+    "date": "2026-08-07T00:02:35-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "4944488101",
+    "title": "Head of Platform Product",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4944488101",
+    "date": "2026-08-06T22:21:08-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "8064788",
+    "title": "Senior Recruiter",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8064788?gh_jid=8064788",
+    "date": "2026-08-06T22:17:58-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "89051402",
+    "title": "Engineering Manager, Forward Deployed (Privy)",
+    "company": "Privy",
+    "link": "https://stripe.com/jobs/listing/engineering-manager-forward-deployed-privy/7947546#2gvbjtjlih38bi707t3ggx3e1&:~:text=Engineering%20Manager,%20Forward%20Deployed%20(Privy)",
+    "date": "2026-08-07T01:50:47.000Z",
+    "source": "https://jobs.archetype.fund/jobs"
+  },
+  {
+    "id": "59ae3776-2d0a-41b0-a5b2-ffd1262b92d2",
+    "title": "Associate, Capital Markets",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/59ae3776-2d0a-41b0-a5b2-ffd1262b92d2",
+    "date": "2026-08-07T01:12:02.946+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
     "id": "8102346",
     "title": "Enterprise Account Executive -Grower",
     "company": "Stripe",
@@ -344,6 +384,14 @@
     "source": "https://coinbase.getro.com/jobs"
   },
   {
+    "id": "03d4d216-e76a-45db-8a05-a7fe985b551b",
+    "title": "Head of Risk, NTL",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/03d4d216-e76a-45db-8a05-a7fe985b551b",
+    "date": "2026-08-06T15:21:36.117Z",
+    "source": "Lever: Binance"
+  },
+  {
     "id": "4939209101",
     "title": "Data Product Manager",
     "company": "Bybit",
@@ -638,6 +686,14 @@
     "link": "https://www.derive.xyz/apac-bd",
     "date": "2026-08-06T10:09:51.000Z",
     "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "fbb256a2-46a3-41b7-942d-5ba87018c0dc",
+    "title": "Lead Product Manager - Exchange, Trading",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/fbb256a2-46a3-41b7-942d-5ba87018c0dc",
+    "date": "2026-08-06T10:00:23.709Z",
+    "source": "Lever: Crypto"
   },
   {
     "id": "809c42f3-fedc-475a-9b10-7c544b0b2318",
@@ -2450,6 +2506,14 @@
   {
     "id": "8090473",
     "title": "Staff Engineer, Revenue and Financial Management",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8090473",
+    "date": "2026-08-03T02:58:49-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8090473",
+    "title": "Staff Engineer, Revenue & Finance Automation",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=8090473",
     "date": "2026-08-03T02:58:49-04:00",
@@ -16885,77 +16949,5 @@
     "link": "https://jobs.lever.co/binance/85528437-479b-4d0e-a2bb-6df37bc66dcc",
     "date": "2026-07-08T05:37:16.975Z",
     "source": "Lever: Binance"
-  },
-  {
-    "id": "8050340",
-    "title": "Technical Program Manager, Bridge",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8050340",
-    "date": "2026-07-08T00:41:26-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "4efc431d-a4ec-4fe0-9404-cefdc3a8eb67",
-    "title": "Sales Lead, Derivatives & Digital Asset Markets",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/4efc431d-a4ec-4fe0-9404-cefdc3a8eb67",
-    "date": "2026-07-08T02:37:12.343Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "8048373",
-    "title": "Sales Development Representative (Southeast Asia)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8048373",
-    "date": "2026-07-07T22:22:00-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "3c7794c6-0dac-485b-ae9f-3cd11183ff8f",
-    "title": "Marketing Campaign Manager",
-    "company": "Animoca Brands",
-    "link": "https://jobs.lever.co/animocabrands/3c7794c6-0dac-485b-ae9f-3cd11183ff8f",
-    "date": "2026-07-08T02:06:38.561Z",
-    "source": "Lever: Animoca Brands"
-  },
-  {
-    "id": "7dbcda33-915b-4645-a5bd-edb5c050ec7f",
-    "title": "Growth Marketer",
-    "company": "Animoca Brands",
-    "link": "https://jobs.lever.co/animocabrands/7dbcda33-915b-4645-a5bd-edb5c050ec7f",
-    "date": "2026-07-08T02:03:35.157Z",
-    "source": "Lever: Animoca Brands"
-  },
-  {
-    "id": "d61d24a9-c5ba-479e-8e3a-3fe6e0087712",
-    "title": "Business Operations Lead",
-    "company": "Lens Protocol",
-    "link": "https://jobs.ashbyhq.com/Lens/d61d24a9-c5ba-479e-8e3a-3fe6e0087712",
-    "date": "2026-07-08T01:55:10.278+00:00",
-    "source": "Ashby: Lens Protocol"
-  },
-  {
-    "id": "ad0651c3-5ae0-406a-af68-a4c2991d4a6c",
-    "title": "People Operations Partner",
-    "company": "Lens Protocol",
-    "link": "https://jobs.ashbyhq.com/Lens/ad0651c3-5ae0-406a-af68-a4c2991d4a6c",
-    "date": "2026-07-08T01:51:34.297+00:00",
-    "source": "Ashby: Lens Protocol"
-  },
-  {
-    "id": "d5cba59b-9e8c-4693-baa2-1b6ddc7466e0",
-    "title": "Security Engineer",
-    "company": "Lens Protocol",
-    "link": "https://jobs.ashbyhq.com/Lens/d5cba59b-9e8c-4693-baa2-1b6ddc7466e0",
-    "date": "2026-07-08T01:48:46.666+00:00",
-    "source": "Ashby: Lens Protocol"
-  },
-  {
-    "id": "8049976",
-    "title": "Risk & Monitoring Analyst IV",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8049976?gh_jid=8049976",
-    "date": "2026-07-07T20:52:16-04:00",
-    "source": "Greenhouse: Coinbase"
   }
 ]
