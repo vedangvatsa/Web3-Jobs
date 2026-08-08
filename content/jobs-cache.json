@@ -1,5 +1,101 @@
 [
   {
+    "id": "f67c9e11-38f0-443f-9223-461b35eba46c",
+    "title": "Brand Content Planning Manager",
+    "company": "Trust Wallet",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/f67c9e11-38f0-443f-9223-461b35eba46c",
+    "date": "2026-08-08T02:34:27.187+00:00",
+    "source": "Ashby: Trust Wallet"
+  },
+  {
+    "id": "9cd773a2-75d1-4495-a286-200b2be75eab",
+    "title": "US Insurance Credentialing Expert",
+    "company": "Jane",
+    "link": "https://jobs.ashbyhq.com/jane/9cd773a2-75d1-4495-a286-200b2be75eab",
+    "date": "2026-08-08T00:18:57.708+00:00",
+    "source": "Ashby: Jane"
+  },
+  {
+    "id": "7837636003",
+    "title": "Risk Manager, Brazil",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7837636003",
+    "date": "2026-08-07T19:56:20-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "8104481",
+    "title": "Customer Success Manager, Key Accounts",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8104481",
+    "date": "2026-08-07T19:36:59-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8114684",
+    "title": "Internal Audit Senior Associate, Operations & Compliance",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8114684?gh_jid=8114684",
+    "date": "2026-08-07T18:15:32-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "5aaf4f7a-52dd-488b-af78-2479c33135f5",
+    "title": "Martech Director",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/5aaf4f7a-52dd-488b-af78-2479c33135f5",
+    "date": "2026-08-07T22:13:43.560+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "5383509008",
+    "title": "Technical Support Specialist – Photo Finishing Equipment",
+    "company": "Nexus",
+    "link": "https://job-boards.greenhouse.io/nexus/jobs/5383509008",
+    "date": "2026-08-07T17:24:49-04:00",
+    "source": "Greenhouse: Nexus"
+  },
+  {
+    "id": "a9ad784b-af99-42e3-a98f-828a72e68239",
+    "title": "Technical Product Manager",
+    "company": "Safe",
+    "link": "https://jobs.ashbyhq.com/Safe/a9ad784b-af99-42e3-a98f-828a72e68239",
+    "date": "2026-08-07T20:55:35.751+00:00",
+    "source": "Ashby: Safe"
+  },
+  {
+    "id": "8114514",
+    "title": "IT SOX Controls Specialist",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8114514",
+    "date": "2026-08-07T16:54:29-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8114877",
+    "title": "Staff Software Engineer (Platform - Access & Authorization)",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8114877?gh_jid=8114877",
+    "date": "2026-08-07T16:42:46-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8114364",
+    "title": "Manager, Insider Trust",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8114364?t=gh_src=&gh_jid=8114364",
+    "date": "2026-08-07T16:11:11-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "6139108004",
+    "title": "EHS  Engineer",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6139108004",
+    "date": "2026-08-07T16:11:09-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "8109753",
     "title": "Privacy Engineer",
     "company": "Robinhood",
@@ -30,6 +126,14 @@
     "link": "https://jobs.ashbyhq.com/Render/f1ed029b-9119-4c3d-bd3c-2ce0b9717ee8",
     "date": "2026-08-07T18:31:18.117+00:00",
     "source": "Ashby: Render Network"
+  },
+  {
+    "id": "8106071",
+    "title": "Principal Recruiter",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8106071?gh_jid=8106071",
+    "date": "2026-08-07T13:50:05-04:00",
+    "source": "Greenhouse: Coinbase"
   },
   {
     "id": "b4a86799-59d4-4bf3-9681-23264550f1ea",
@@ -128,6 +232,126 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "89182747",
+    "title": "Marketing Lead - Fintech",
+    "company": "Merge",
+    "link": "https://uk.linkedin.com/jobs/view/marketing-lead-fintech-at-merge-4450205961",
+    "date": "2026-08-07T15:44:23.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "89181096",
+    "title": "Business Development Manager (KOL& Affiliate Manager",
+    "company": "Apex",
+    "link": "https://cn.linkedin.com/jobs/view/business-development-manager-kol-affiliate-manager%EF%BC%89-at-apex-protocol-4450200167",
+    "date": "2026-08-07T15:39:23.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "89174460",
+    "title": "Family Education Advisor (Singapore- Mandarin)",
+    "company": "Coinstore",
+    "link": "https://sg.linkedin.com/jobs/view/family-education-advisor-singapore-mandarin-at-coinstore-4448975766",
+    "date": "2026-08-07T14:58:33.000Z",
+    "source": "https://jobs.arbitrum.io/jobs"
+  },
+  {
+    "id": "89171432",
+    "title": "IT Manager",
+    "company": "Cinch",
+    "link": "https://my.linkedin.com/jobs/view/it-manager-at-cinch-4450214304",
+    "date": "2026-08-07T14:42:22.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "89170175",
+    "title": "Director of Engineering, Infrastructure",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/director-of-engineering-infrastructure-at-hadrian-4448075176",
+    "date": "2026-08-07T14:38:32.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "89170172",
+    "title": "Process Development Engineer, Additive Manufacturing",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/process-development-engineer-additive-manufacturing-at-hadrian-4443641282",
+    "date": "2026-08-07T14:38:32.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "89170173",
+    "title": "Director, Test Engineering",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/director-test-engineering-at-hadrian-4361058833",
+    "date": "2026-08-07T14:38:32.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "89170174",
+    "title": "Tech Lead, Detection & Response",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/tech-lead-detection-response-at-hadrian-4448705471",
+    "date": "2026-08-07T14:38:32.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "89170166",
+    "title": "ML Platform Engineer",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/ml-platform-engineer-at-hadrian-4448494873",
+    "date": "2026-08-07T14:38:31.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "89170165",
+    "title": "Data Platform Engineer",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/data-platform-engineer-at-hadrian-4448498873",
+    "date": "2026-08-07T14:38:31.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "89170167",
+    "title": "Manager, IT Site Lead",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/manager-it-site-lead-at-hadrian-4446683928",
+    "date": "2026-08-07T14:38:31.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "89170169",
+    "title": "Tech Lead, Offensive Security",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/tech-lead-offensive-security-at-hadrian-4448703672",
+    "date": "2026-08-07T14:38:31.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "89170164",
+    "title": "Data Scientist",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-hadrian-4448455911",
+    "date": "2026-08-07T14:38:30.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "89169828",
+    "title": "Call Center Agent",
+    "company": "Axis Pay",
+    "link": "https://eg.linkedin.com/jobs/view/call-center-agent-at-axis-4447399438",
+    "date": "2026-08-07T14:36:41.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "89169830",
+    "title": "Head of Marketing",
+    "company": "Axis Pay",
+    "link": "https://eg.linkedin.com/jobs/view/head-of-marketing-at-axis-4446634003",
+    "date": "2026-08-07T14:36:41.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "89169426",
     "title": "Security Engineer",
     "company": "Offchain Labs",
@@ -192,6 +416,14 @@
     "source": "Ashby: Paxos"
   },
   {
+    "id": "89153057",
+    "title": "Senior Full Stack Developer (Python)",
+    "company": "Qohash",
+    "link": "https://qohash.com/job/senior-full-stack-developer-python/",
+    "date": "2026-08-07T13:51:03.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "89152418",
     "title": "Quant Trader",
     "company": "Paradigm",
@@ -206,6 +438,14 @@
     "link": "https://jobs.ashbyhq.com/polymarket/716aeda5-b81c-45ba-9177-aef4fdeffad7",
     "date": "2026-08-07T13:45:24.000Z",
     "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "89139648",
+    "title": "Senior Compliance Analyst",
+    "company": "Nala",
+    "link": "https://apply.workable.com/nalamoney/j/BA5954949C",
+    "date": "2026-08-07T13:27:11.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "89135812",
@@ -998,6 +1238,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8112037",
     "date": "2026-08-06T10:27:42-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4944619101",
+    "title": "Lead Backend Development Engineer",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4944619101",
+    "date": "2026-08-06T10:21:44-04:00",
+    "source": "Greenhouse: Bybit"
   },
   {
     "id": "88998850",
@@ -3038,6 +3286,14 @@
     "link": "https://jobs.ashbyhq.com/Dapper/b398ccf9-1219-4094-b799-0be555bc1792",
     "date": "2026-08-03T09:28:24.857+00:00",
     "source": "Ashby: Dapper Labs"
+  },
+  {
+    "id": "8648474002",
+    "title": "Machine Learning Engineer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8648474002?gh_jid=8648474002",
+    "date": "2026-08-03T04:36:11-04:00",
+    "source": "Greenhouse: Jane Street"
   },
   {
     "id": "4943154101",
@@ -16909,93 +17165,5 @@
     "link": "https://jobs.lever.co/coins/7b9b8d17-6be0-4121-94ca-02bc485670ad",
     "date": "2026-07-09T05:58:37.224Z",
     "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "8043052",
-    "title": "Data Scientist, Global Growth",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8043052",
-    "date": "2026-07-08T23:44:22-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "aef46cd3-e2b6-440c-9283-39a22b1a621c",
-    "title": "Manager, Commercial Customer Activation",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/aef46cd3-e2b6-440c-9283-39a22b1a621c",
-    "date": "2026-07-08T23:38:23.271+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "8625544002",
-    "title": "Head of Product Management",
-    "company": "Hedera",
-    "link": "https://www.hashgraph.com/careers/8625544002?gh_jid=8625544002",
-    "date": "2026-07-08T19:22:45-04:00",
-    "source": "Greenhouse: Hedera"
-  },
-  {
-    "id": "6112162004",
-    "title": "Account Executive - Asia",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6112162004",
-    "date": "2026-07-08T19:11:33-04:00",
-    "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "8024877",
-    "title": "Technical Program Manager, GFCO Analytics",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8024877?gh_jid=8024877",
-    "date": "2026-07-08T17:48:38-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8050322",
-    "title": "Principal Recruiter",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8050322?gh_jid=8050322",
-    "date": "2026-07-08T17:33:55-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "6112056004",
-    "title": "Design Operations Manager, Web Experience",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6112056004",
-    "date": "2026-07-08T16:51:08-04:00",
-    "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "7977245",
-    "title": "Executive Sourcer",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7977245?t=gh_src=&gh_jid=7977245",
-    "date": "2026-07-08T16:47:41-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "8052344",
-    "title": "Associate Creative Director, Copy",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8052344?t=gh_src=&gh_jid=8052344",
-    "date": "2026-07-08T16:38:25-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "6112042004",
-    "title": "Staff Software Engineer - New Markets Japan (JLPT N1 Fluent)",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6112042004",
-    "date": "2026-07-08T16:35:31-04:00",
-    "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "8052192",
-    "title": "SAM Compliance Lead Analyst",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8052192?gh_jid=8052192",
-    "date": "2026-07-08T16:08:39-04:00",
-    "source": "Greenhouse: Coinbase"
   }
 ]
