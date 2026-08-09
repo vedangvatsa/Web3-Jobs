@@ -1,5 +1,13 @@
 [
   {
+    "id": "89324672",
+    "title": "Product Analyst",
+    "company": "Blockaid",
+    "link": "https://www.comeet.com/jobs/blockaid/69.00B/product-analyst/82.E6D",
+    "date": "2026-08-09T10:24:36.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
     "id": "8102337",
     "title": "Engagement Manager, Professional Services (SEA/GCN)",
     "company": "Stripe",
@@ -102,6 +110,30 @@
     "link": "https://valr.careers.hibob.com/jobs/87bc5803-eb14-4c0c-908b-b2948f97f377",
     "date": "2026-08-08T13:09:08.000Z",
     "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "89253667",
+    "title": "Underwriting Specialist",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8687692002",
+    "date": "2026-08-08T12:13:18.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "89253664",
+    "title": "Director, Partnerships - Banks & Credit Unions",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8675433002",
+    "date": "2026-08-08T12:13:18.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "89253663",
+    "title": "Customer Success Associate",
+    "company": "Figure",
+    "link": "https://boards.greenhouse.io/figure/jobs/8642211002",
+    "date": "2026-08-08T12:13:18.000Z",
+    "source": "https://jobs.dcg.co/jobs"
   },
   {
     "id": "89246706",
@@ -16557,61 +16589,5 @@
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4924676101",
     "date": "2026-07-10T08:00:30-04:00",
     "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "8147704002",
-    "title": "Data Scientist",
-    "company": "BitGo",
-    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8147704002",
-    "date": "2026-07-10T07:51:02-04:00",
-    "source": "Greenhouse: BitGo"
-  },
-  {
-    "id": "fab05093-5714-431a-9941-23b3589919fc",
-    "title": "Account Director , EMEA (Crypto)",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/fab05093-5714-431a-9941-23b3589919fc",
-    "date": "2026-07-10T11:00:41.957+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "fab05093-5714-431a-9941-23b3589919fc",
-    "title": "Account Director, Crypto",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/fab05093-5714-431a-9941-23b3589919fc",
-    "date": "2026-07-10T11:00:41.957+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "8054968",
-    "title": "Software Engineer - RFGL Systems",
-    "company": "Spire",
-    "link": "https://spire.com/careers/job-openings/job/?gh_jid=8054968&gh_jid=8054968",
-    "date": "2026-07-10T04:25:14-04:00",
-    "source": "Greenhouse: Spire"
-  },
-  {
-    "id": "2f14b7a2-da7f-42e6-a9d5-72438e23f419",
-    "title": "Specialist / Manager – People Tech & Transformation",
-    "company": "Zeta",
-    "link": "https://jobs.lever.co/zeta/2f14b7a2-da7f-42e6-a9d5-72438e23f419",
-    "date": "2026-07-10T06:39:13.384Z",
-    "source": "Lever: Zeta"
-  },
-  {
-    "id": "a1a88e5b-0eaa-4827-ab91-fabf6b2f1331",
-    "title": "Java Engineer - Contractor",
-    "company": "CoinMarketCap",
-    "link": "https://jobs.lever.co/coinmarketcap/a1a88e5b-0eaa-4827-ab91-fabf6b2f1331",
-    "date": "2026-07-10T05:43:01.835Z",
-    "source": "Lever: CoinMarketCap"
-  },
-  {
-    "id": "8031833",
-    "title": "Software Engineer, Intern",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8031833",
-    "date": "2026-07-10T01:33:52-04:00",
-    "source": "Greenhouse: Stripe"
   }
 ]
