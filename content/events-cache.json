@@ -1,33 +1,5 @@
 [
   {
-    "id": "luma-evt-9Au52fKQy20m1A2",
-    "name": "GOAI Global Open-source AI Challenge | ~US$730K Prize Pool | GOAI Open-source Pioneer Summit | Silicon Valley Stop",
-    "description": "",
-    "startDate": "2026-08-08T20:30:00.000Z",
-    "endDate": "2026-08-08T23:00:00.000Z",
-    "city": "San Jose",
-    "country": "United States",
-    "location": "San Jose, United States",
-    "url": "https://lu.ma/rj50dx5x",
-    "coverImage": "https://images.lumacdn.com/uploads/vd/425fba02-72ac-479f-8908-bc7403d16d44.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-rQ4Mb8fWKqaDbRN",
-    "name": "GOAI Open-source Pioneer Summit | Silicon Valley Stop",
-    "description": "",
-    "startDate": "2026-08-08T20:30:00.000Z",
-    "endDate": "2026-08-08T23:00:00.000Z",
-    "city": "San Jose",
-    "country": "United States",
-    "location": "San Jose, United States",
-    "url": "https://lu.ma/cxu2xd95",
-    "coverImage": "https://images.lumacdn.com/uploads/5w/61d071b5-9210-4285-a4b5-6b86620a709b.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-2HHjtEpDhf3YsL8",
     "name": "the purge",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -81,20 +53,6 @@
     "url": "https://lu.ma/fuq4ss42",
     "coverImage": "https://images.lumacdn.com/uploads/ma/2f2cebc6-58ae-4310-8a2d-c16d5b22aeff.png",
     "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
-    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
-    "description": "",
-    "startDate": "2026-08-09T00:00:00.000Z",
-    "endDate": "2026-08-09T00:00:00.000Z",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "location": "Lagos, Nigeria",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-august-lagos-ng",
-    "coverImage": null,
-    "source": "conferenceindex",
     "month": "August 2026"
   },
   {
@@ -476,6 +434,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-fNReZHoHdU6VqgZ",
+    "name": "Society Strong HIIT Class + Social",
+    "description": "",
+    "startDate": "2026-08-13T22:00:00.000Z",
+    "endDate": "2026-08-14T01:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/p1lvawha",
+    "coverImage": "https://images.lumacdn.com/uploads/po/4c1d80eb-d394-47c3-8b92-a4c9094df655.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-HmvittFXcuFDeRV",
     "name": "Web3 Backyard Social",
     "description": "",
@@ -627,6 +599,20 @@
     "url": "https://x.com/BuildOnCyber/status/2023917319983092030",
     "coverImage": "https://pbs.twimg.com/media/HBZmE4eacAE4DVE.jpg:large",
     "source": "coinmarketcap",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-wjpkQDARB1j8Rq3",
+    "name": "An Evening with Governor Soludo: Anambra Investment Forum & Silicon Valley Tech and Founders' Showcase",
+    "description": "",
+    "startDate": "2026-08-15T00:30:00.000Z",
+    "endDate": "2026-08-15T03:30:00.000Z",
+    "city": "Fremont",
+    "country": "United States",
+    "location": "Fremont, United States",
+    "url": "https://lu.ma/malaika-0gw1",
+    "coverImage": "https://images.lumacdn.com/uploads/r2/d91ba4e5-3165-48b9-9b13-a49a457000a5.png",
+    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -1064,6 +1050,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-gLVynHA6wVowAs1",
+    "name": "Solana Summer House",
+    "description": "",
+    "startDate": "2026-08-29T17:00:00.000Z",
+    "endDate": "2026-08-30T05:00:00.000Z",
+    "city": "Los Angeles",
+    "country": "United States",
+    "location": "Los Angeles, United States",
+    "url": "https://lu.ma/summerhouse2026",
+    "coverImage": "https://images.lumacdn.com/uploads/gh/e3046aaf-e7e2-459b-8a08-f4461192ef46.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "ethorg-meetupweb3privacy-now-meetupseptember-1amsterdam--",
     "name": "MeetupWeb3Privacy now meetupSeptember 1Amsterdam, Netherlands (opens in a new tab)",
     "description": "",
@@ -1120,6 +1120,20 @@
     "month": "September 2026"
   },
   {
+    "id": "ma-unchained-summit-dubai",
+    "name": "Unchained Summit Dubai",
+    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
+    "startDate": "2026-09-07T00:00:00.000Z",
+    "endDate": "2026-09-08T00:00:00.000Z",
+    "city": "Dubai, UAE",
+    "country": "UAE",
+    "location": "Dubai, UAE, UAE",
+    "url": "https://unchainedsummit.com/dubai/",
+    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/04/unchained-summit-dubai-may-2026-an-event-by-aeternum.jpg",
+    "source": "marketacross",
+    "month": "September 2026"
+  },
+  {
     "id": "mu-315962971",
     "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
     "description": "Network virtually with those located in the DMV (District of Columbia, Virginia & Maryland) and internationally!\n\nThis monthly Monday meeting is hosted by Maryland Blockchain Association, Blockchain L",
@@ -1131,20 +1145,6 @@
     "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962971/",
     "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/a/f/600_527389071.jpeg",
     "source": "meetup",
-    "month": "September 2026"
-  },
-  {
-    "id": "ma-unchained-summit-dubai",
-    "name": "Unchained Summit Dubai",
-    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
-    "startDate": "2026-09-07T00:00:00.000Z",
-    "endDate": "2026-09-08T00:00:00.000Z",
-    "city": "Dubai, UAE",
-    "country": "UAE",
-    "location": "Dubai, UAE, UAE",
-    "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": null,
-    "source": "marketacross",
     "month": "September 2026"
   },
   {
@@ -1748,5 +1748,19 @@
     "coverImage": "https://images.lumacdn.com/uploads/px/1961f942-3a75-4335-a4e5-a1ebe72e1810.png",
     "source": "luma-trusted",
     "month": "June 2027"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
+    "description": "",
+    "startDate": "2027-08-09T00:00:00.000Z",
+    "endDate": "2027-08-09T00:00:00.000Z",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "location": "Lagos, Nigeria",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-august-lagos-ng",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "August 2027"
   }
 ]
