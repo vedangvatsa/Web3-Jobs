@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-evt-4itA9sgMIHi5qxx",
-    "name": "Philosophy at the Museum: Unicorns, the Met Cloisters and a Walk of Tryon Park",
-    "description": "",
-    "startDate": "2026-08-09T18:00:00.000Z",
-    "endDate": "2026-08-09T20:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/ouly651t",
-    "coverImage": "https://images.lumacdn.com/uploads/5l/f63cbf0c-321d-4947-9948-92f25812d553.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-LCPk4rgLBELZAO3",
     "name": "Light DAO x VOMO: Find Your Voice with Chris Pan (LA)",
     "description": "",
@@ -67,6 +53,20 @@
     "url": "https://lu.ma/the-purge",
     "coverImage": "https://images.lumacdn.com/event-covers/aa/26cac476-8ce2-4537-8662-015add2a33de.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-ZgqHoBa1OaBn5WX",
+    "name": "MonkeDAO Paris - The 5th candle",
+    "description": "",
+    "startDate": "2026-08-10T12:00:00.000Z",
+    "endDate": "2026-08-10T16:30:00.000Z",
+    "city": "Le Perreux-sur-Marne",
+    "country": "France",
+    "location": "Le Perreux-sur-Marne, France",
+    "url": "https://lu.ma/mwawjqi0",
+    "coverImage": "https://images.lumacdn.com/uploads/jx/7433b77a-659d-4c5c-b396-d660dafc2576.png",
+    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -210,20 +210,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315796985",
-    "name": "Bienvenidos a charla en Español.",
-    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
-    "startDate": "2026-08-11T18:30:00-05:00",
-    "endDate": "2026-08-11T18:30:00-05:00",
-    "city": "West Des Moines",
-    "country": "us",
-    "location": "West Des Moines, us",
-    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/315796985/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/2/d/0/4/600_503531524.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-disccal-SJo1e6FEo6bPEEm",
     "name": "Blockchain Rio",
     "description": "Explore side events at Blockchain Rio from August 11-13, bringing together the crypto community in Rio de Janeiro.",
@@ -304,6 +290,20 @@
     "location": "London, United Kingdom",
     "url": "https://lu.ma/5lt2wb9j",
     "coverImage": "https://images.lumacdn.com/uploads/rk/0d82900b-c543-4433-9d05-bca9d073e461.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-GnjdGPjbG0sXlAA",
+    "name": "1MC Denver Featuring Stronta",
+    "description": "",
+    "startDate": "2026-08-12T15:00:00.000Z",
+    "endDate": "2026-08-12T16:00:00.000Z",
+    "city": "Denver",
+    "country": "United States",
+    "location": "Denver, United States",
+    "url": "https://lu.ma/s7e6g7n4",
+    "coverImage": "https://images.lumacdn.com/uploads/pq/a911c9f0-15f2-4311-93a9-fd6f600d3f28.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -417,6 +417,34 @@
     "url": "https://lu.ma/superteam-1c9x",
     "coverImage": "https://images.lumacdn.com/uploads/38/f9a29de0-71c2-4cfd-b20e-6b656044e6a7.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315504897",
+    "name": "Let the Agent Write It—But Can It Scale?",
+    "description": "AI coding agents can generate working code quickly, but working code isn't always production-ready code. This session focuses on reviewing agent-generated Azure Cosmos DB code for scalability, RU effi",
+    "startDate": "2026-08-13T09:00:00-07:00",
+    "endDate": "2026-08-13T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315504897/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/9/a/7/600_535015719.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315822430",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-08-13T11:00:00-07:00",
+    "endDate": "2026-08-13T11:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/carpoolcrypto/events/315822430/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/f/f/6/600_535224566.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -602,6 +630,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-fVeUz03wPmR6M5P",
+    "name": "ICPC Training Session @ JetBrains London",
+    "description": "",
+    "startDate": "2026-08-15T10:00:00.000Z",
+    "endDate": "2026-08-15T13:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/8l23evbb",
+    "coverImage": "https://images.lumacdn.com/uploads/bf/57009d19-4379-4368-a90b-58a3f42665e6.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-UkHrnxJ86reDqOE",
     "name": "Whole Before Forward: Half-Day Retreat in Chicago",
     "description": "",
@@ -728,20 +770,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315997223",
-    "name": "Looking back to move forward: A night of reflection: Virtual Sip & Chat",
-    "description": "Each conversation builds on the last, but every meeting also stands on its own. You're joining us at the perfect time.\n\nOver the past several months, we've had honest conversations about self care, id",
-    "startDate": "2026-08-19T19:00:00-05:00",
-    "endDate": "2026-08-19T19:00:00-05:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/sip-and-chat/events/315997223/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/8/4/9/8/600_535533944.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "dtt-coinfest-asia-2026",
     "name": "COINFEST ASIA 2026",
     "description": "",
@@ -795,6 +823,20 @@
     "url": "https://lu.ma/9vtoecnz",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315286635",
+    "name": "Fabric Data Agent como servidor MCP: expón tus datos empresariales a cualquier L",
+    "description": "Esta sesión es el núcleo de la serie: aprenderás a convertir un Fabric Data Agent en un servidor MCP para que cualquier herramienta de IA externa — Claude, Copilot, agentes custom — pueda consultarlo ",
+    "startDate": "2026-08-21T08:00:00-07:00",
+    "endDate": "2026-08-21T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286635/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/e/f/8/600_534888888.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -952,16 +994,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990021",
+    "id": "mu-315990029",
     "name": "ZK Learning Group: Introduction to ZkSync",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-08-27T11:00:00-05:00",
-    "endDate": "2026-08-27T11:00:00-05:00",
+    "startDate": "2026-08-27T09:00:00-07:00",
+    "endDate": "2026-08-27T09:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/315990021/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/7/8/600_535528792.jpeg",
+    "url": "https://www.meetup.com/lfdt-seattle-chapter/events/315990029/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/8/0/600_535528800.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },

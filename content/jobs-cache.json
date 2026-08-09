@@ -1,5 +1,109 @@
 [
   {
+    "id": "89342918",
+    "title": "Settlement, Assistant Manager",
+    "company": "Matrixport",
+    "link": "https://sg.linkedin.com/jobs/view/settlement-assistant-manager-at-bit-official-4450020842",
+    "date": "2026-08-09T14:09:23.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "89342924",
+    "title": "Accounts Payable Specialist",
+    "company": "Matrixport",
+    "link": "https://my.linkedin.com/jobs/view/accounts-payable-specialist-at-bit-official-4449119410",
+    "date": "2026-08-09T14:09:23.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "89342921",
+    "title": "Settlement, Manager",
+    "company": "Matrixport",
+    "link": "https://sg.linkedin.com/jobs/view/settlement-manager-at-bit-official-4450032312",
+    "date": "2026-08-09T14:09:23.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "89342919",
+    "title": "Legal Assistant",
+    "company": "Matrixport",
+    "link": "https://sg.linkedin.com/jobs/view/legal-assistant-at-bit-official-4450088882",
+    "date": "2026-08-09T14:09:23.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "89342923",
+    "title": "Trading Operations, Finance",
+    "company": "Matrixport",
+    "link": "https://my.linkedin.com/jobs/view/trading-operations-finance-at-bit-official-4449106728",
+    "date": "2026-08-09T14:09:23.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "89342750",
+    "title": ".NET Web Developer, Full Stack",
+    "company": "Etherscan",
+    "link": "https://forms.blockscan.com/form/wkt9joV5gkJVevKyKQv7JITz4uXArne-BKnZ3M3Zj_c",
+    "date": "2026-08-09T14:04:16.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
+    "id": "89340829",
+    "title": "Business Advisory Manager",
+    "company": "Spectarium Games",
+    "link": "https://spectarium.careers.hibob.com/jobs/7ffb7002-bb58-4b0a-8e15-05df47d469c2",
+    "date": "2026-08-09T13:33:33.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "89340828",
+    "title": "Senior Insolvency Administrator",
+    "company": "Spectarium Games",
+    "link": "https://spectarium.careers.hibob.com/jobs/ff76adbc-1da7-4f9a-b0ee-903970d52a6a",
+    "date": "2026-08-09T13:33:33.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "89340830",
+    "title": "Assistant Manager",
+    "company": "Spectarium Games",
+    "link": "https://spectarium.careers.hibob.com/jobs/cf6b9374-64ef-4420-ba59-d18b8ae4b1a0",
+    "date": "2026-08-09T13:33:33.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "89340827",
+    "title": "Data Engineer",
+    "company": "Spectarium Games",
+    "link": "https://spectarium.careers.hibob.com/jobs/0880af7a-22cf-4dd5-8fb4-27f858fe564f",
+    "date": "2026-08-09T13:33:33.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "89340825",
+    "title": "Business Development Manager",
+    "company": "Spectarium Games",
+    "link": "https://spectarium.careers.hibob.com/jobs/87bc5803-eb14-4c0c-908b-b2948f97f377",
+    "date": "2026-08-09T13:33:32.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "89340826",
+    "title": "Data Warehouse Architect",
+    "company": "Spectarium Games",
+    "link": "https://spectarium.careers.hibob.com/jobs/ca56ffd5-f41d-4a54-8bdb-550a454ad666",
+    "date": "2026-08-09T13:33:32.000Z",
+    "source": "https://jobs.framework.ventures/jobs"
+  },
+  {
+    "id": "89334069",
+    "title": "Senior Staff Security Engineer, Ripple Treasury",
+    "company": "Ripple",
+    "link": "https://boards.greenhouse.io/ripple/jobs/7997246",
+    "date": "2026-08-09T12:05:34.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
     "id": "89324672",
     "title": "Product Analyst",
     "company": "Blockaid",
@@ -3470,6 +3574,14 @@
     "link": "https://boards.greenhouse.io/bitgo/jobs/8644530002",
     "date": "2026-08-03T11:45:13.000Z",
     "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "8651405002",
+    "title": "Hardware Engineer (FPGA/ASIC)",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8651405002?gh_jid=8651405002",
+    "date": "2026-08-03T06:44:12-04:00",
+    "source": "Greenhouse: Jane Street"
   },
   {
     "id": "8098394",
@@ -7414,6 +7526,14 @@
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4939042101",
     "date": "2026-07-27T16:29:41-04:00",
     "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "8075473",
+    "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8075473",
+    "date": "2026-07-27T15:52:01-04:00",
+    "source": "Greenhouse: Stripe"
   },
   {
     "id": "a37cdf1c-9b0d-45e8-810c-f90965d9f918",
@@ -16429,165 +16549,5 @@
     "link": "https://jobs.ashbyhq.com/cantina/8e83f7a5-e7d4-4371-ad5e-a017d77981d9",
     "date": "2026-07-10T20:14:26.740+00:00",
     "source": "Ashby: Cantina"
-  },
-  {
-    "id": "6989b458-2983-48eb-9a83-6e4415882744",
-    "title": "Business Development, Africa",
-    "company": "Stellar",
-    "link": "https://jobs.ashbyhq.com/Stellar/6989b458-2983-48eb-9a83-6e4415882744",
-    "date": "2026-07-10T19:59:56.968+00:00",
-    "source": "Ashby: Stellar"
-  },
-  {
-    "id": "8055526",
-    "title": "Manager of Response, Automation, Intelligence & Detection Engineering",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8055526?t=gh_src=&gh_jid=8055526",
-    "date": "2026-07-10T15:51:32-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "6da433cc-9075-4faa-9ef0-0e94652a20ba",
-    "title": "Mobile App Developer (Injective Labs)",
-    "company": "Injective",
-    "link": "https://jobs.ashbyhq.com/Injective/6da433cc-9075-4faa-9ef0-0e94652a20ba",
-    "date": "2026-07-10T18:18:41.801+00:00",
-    "source": "Ashby: Injective"
-  },
-  {
-    "id": "8624440002",
-    "title": "Hardware Engineer (FPGA/ASIC)",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8624440002",
-    "date": "2026-07-10T13:26:06-04:00",
-    "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "4924663101",
-    "title": "Senior CRM Specialist",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4924663101",
-    "date": "2026-07-10T12:05:45-04:00",
-    "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "c7f56456-36ef-42bf-863c-91cac5130955",
-    "title": "Director of Government Relations",
-    "company": "Elliptic",
-    "link": "https://jobs.ashbyhq.com/Elliptic/c7f56456-36ef-42bf-863c-91cac5130955",
-    "date": "2026-07-10T15:46:59.524+00:00",
-    "source": "Ashby: Elliptic"
-  },
-  {
-    "id": "8041894",
-    "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8041894",
-    "date": "2026-07-10T11:45:25-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8054464",
-    "title": "Program Manager, Employee Giving and Volunteering",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/8054464?gh_jid=8054464",
-    "date": "2026-07-10T11:43:58-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "8043083",
-    "title": "Staff Product Manager, Issuing",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8043083",
-    "date": "2026-07-10T11:42:29-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "6112079004",
-    "title": "Senior Sales Engineer - Japan",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6112079004",
-    "date": "2026-07-10T11:18:58-04:00",
-    "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "b9ac221e-80ce-4bed-9791-561310bcf33e",
-    "title": "Senior Lead, Customer Success Training",
-    "company": "Jane",
-    "link": "https://jobs.ashbyhq.com/jane/b9ac221e-80ce-4bed-9791-561310bcf33e",
-    "date": "2026-07-10T14:49:25.973+00:00",
-    "source": "Ashby: Jane"
-  },
-  {
-    "id": "4713853005",
-    "title": "Database Engineer",
-    "company": "DV Trading",
-    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4713853005",
-    "date": "2026-07-10T10:10:32-04:00",
-    "source": "Greenhouse: DV Trading"
-  },
-  {
-    "id": "066707eb-9ce4-4b22-9f38-a7c363da5b3e",
-    "title": "FIU Data Analyst - Bengalaru",
-    "company": "MoonPay",
-    "link": "https://jobs.lever.co/moonpay/066707eb-9ce4-4b22-9f38-a7c363da5b3e",
-    "date": "2026-07-10T13:35:55.102Z",
-    "source": "Lever: MoonPay"
-  },
-  {
-    "id": "4312994009",
-    "title": "Investor Relations Associate",
-    "company": "Securitize",
-    "link": "https://job-boards.greenhouse.io/securitize/jobs/4312994009",
-    "date": "2026-07-10T09:28:45-04:00",
-    "source": "Greenhouse: Securitize"
-  },
-  {
-    "id": "4312994009",
-    "title": "Investor Relations Analyst",
-    "company": "Securitize",
-    "link": "https://job-boards.greenhouse.io/securitize/jobs/4312994009",
-    "date": "2026-07-10T09:28:45-04:00",
-    "source": "Greenhouse: Securitize"
-  },
-  {
-    "id": "8053011",
-    "title": "Operations Manager, Stripe Delivery Centre",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8053011",
-    "date": "2026-07-10T09:23:31-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8d61885c-0f08-4267-8ace-69e28b1d3f38",
-    "title": "Senior Software Engineer | Web + Design",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/8d61885c-0f08-4267-8ace-69e28b1d3f38",
-    "date": "2026-07-10T12:14:14.800+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "8d61885c-0f08-4267-8ace-69e28b1d3f38",
-    "title": "Software Engineer, Web + Design",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/8d61885c-0f08-4267-8ace-69e28b1d3f38",
-    "date": "2026-07-10T12:14:14.800+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "4924665101",
-    "title": "Phone Support Agent – Onsite Hiring Day | 24 July 2026",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4924665101",
-    "date": "2026-07-10T08:01:28-04:00",
-    "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "4924676101",
-    "title": "Live chat Agent – Onsite Hiring Day | 24 July 2026",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4924676101",
-    "date": "2026-07-10T08:00:30-04:00",
-    "source": "Greenhouse: Bitpanda"
   }
 ]
