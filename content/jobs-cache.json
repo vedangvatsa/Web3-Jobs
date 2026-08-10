@@ -1,5 +1,133 @@
 [
   {
+    "id": "4944215101",
+    "title": "Treasury Operations Associate",
+    "company": "Copper.co",
+    "link": "https://job-boards.eu.greenhouse.io/copperco/jobs/4944215101",
+    "date": "2026-08-10T07:48:44-04:00",
+    "source": "Greenhouse: Copper.co"
+  },
+  {
+    "id": "eb7aeddb-a021-4ab5-9dfc-e74ec143b8de",
+    "title": "Product Counsel",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/eb7aeddb-a021-4ab5-9dfc-e74ec143b8de",
+    "date": "2026-08-10T11:32:14.064Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "8108391",
+    "title": "Marketing Operations Associate (Automation)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8108391",
+    "date": "2026-08-10T06:49:20-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8079514",
+    "title": "Account Executive, hunter",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8079514",
+    "date": "2026-08-10T06:49:09-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8114157",
+    "title": "Account Executive, Existing Business (Benelux)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8114157",
+    "date": "2026-08-10T06:30:55-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "89353148",
+    "title": "Senior Engineering Manager, Robotics Software",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/senior-engineering-manager-robotics-software-at-hadrian-4443680055",
+    "date": "2026-08-10T10:04:04.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "89352549",
+    "title": "Senior Compliance Product Manager (KYT & Transaction Monitoring)",
+    "company": "Matrixport",
+    "link": "https://hk.linkedin.com/jobs/view/senior-compliance-product-manager-kyt-transaction-monitoring-at-bit-official-4451120977",
+    "date": "2026-08-10T09:45:07.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "8655253002",
+    "title": "Options Compliance Specialist",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8655253002?gh_jid=8655253002",
+    "date": "2026-08-10T03:33:42-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "4939865101",
+    "title": "Video Associate, Social Media",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4939865101",
+    "date": "2026-08-10T03:32:28-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "2b8f01df-1414-4c92-804c-f160d8bb84db",
+    "title": "Manager, Finance – Crypto Accounting",
+    "company": "Animoca Brands",
+    "link": "https://jobs.lever.co/animocabrands/2b8f01df-1414-4c92-804c-f160d8bb84db",
+    "date": "2026-08-10T07:10:19.106Z",
+    "source": "Lever: Animoca Brands"
+  },
+  {
+    "id": "89349814",
+    "title": "Engineering Manager, Product",
+    "company": "Privy",
+    "link": "https://stripe.com/jobs/listing/engineering-manager-product-privy/7913545",
+    "date": "2026-08-10T06:17:10.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "89349810",
+    "title": "Enterprise Account Executive",
+    "company": "Privy",
+    "link": "https://stripe.com/jobs/listing/enterprise-account-executive-privy/8063657",
+    "date": "2026-08-10T06:17:10.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "89349811",
+    "title": "Security Engineer",
+    "company": "Privy",
+    "link": "https://stripe.com/careers/listing/security-engineer-privy/8073092",
+    "date": "2026-08-10T06:17:10.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "89349812",
+    "title": "Solutions Engineer",
+    "company": "Privy",
+    "link": "https://stripe.com/jobs/listing/solutions-engineer-privy/7975567",
+    "date": "2026-08-10T06:17:10.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "89349813",
+    "title": "Engineering Manager, Forward Deployed",
+    "company": "Privy",
+    "link": "https://stripe.com/jobs/listing/engineering-manager-forward-deployed-privy/7947546",
+    "date": "2026-08-10T06:17:10.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "89349809",
+    "title": "Account Manager",
+    "company": "Privy",
+    "link": "https://stripe.com/jobs/listing/account-manager-privy/8064702",
+    "date": "2026-08-10T06:17:09.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
     "id": "2078032",
     "title": "Senior Marketer (Sample)",
     "company": "Celestia",
@@ -1810,6 +1938,14 @@
   {
     "id": "8110814",
     "title": "Staff Enterprise Engineer",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8110814",
+    "date": "2026-08-06T07:04:21-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
+    "id": "8110814",
+    "title": "Staff Infrastructure Engineer",
     "company": "Flow Traders",
     "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8110814",
     "date": "2026-08-06T07:04:21-04:00",
@@ -16445,69 +16581,5 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8050878",
     "date": "2026-07-11T16:06:40-04:00",
     "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "85892267",
-    "title": "Senior Supply Chain Buyer (Direct Spend)",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/senior-supply-chain-buyer-direct-spend-at-hadrian-4434808540",
-    "date": "2026-07-11T10:14:15.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "85892264",
-    "title": "Global Supply Specialist (Direct Spend)",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/global-supply-specialist-direct-spend-at-hadrian-4434806648",
-    "date": "2026-07-11T10:14:15.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "85892265",
-    "title": "Global Supply Manager (Direct Spend)",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/global-supply-manager-direct-spend-at-hadrian-4434803705",
-    "date": "2026-07-11T10:14:15.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "85892268",
-    "title": "Full Stack Software Engineer, Enterprise Applications",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-enterprise-applications-at-hadrian-4435626563",
-    "date": "2026-07-11T10:14:15.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "85892266",
-    "title": "Manufacturing Engineer, Special Projects",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/manufacturing-engineer-special-projects-at-hadrian-4435620781",
-    "date": "2026-07-11T10:14:15.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "85892269",
-    "title": "Tooling Engineer, Forging, Special Projects",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/tooling-engineer-forging-special-projects-at-hadrian-4435639210",
-    "date": "2026-07-11T10:14:15.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "85892262",
-    "title": "Supply Chain Buyer (Direct Spend)",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/supply-chain-buyer-direct-spend-at-hadrian-4434586437",
-    "date": "2026-07-11T10:14:14.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "85892263",
-    "title": "Sourcing Specialist (Direct Spend)",
-    "company": "StreamingFast",
-    "link": "https://www.linkedin.com/jobs/view/sourcing-specialist-direct-spend-at-hadrian-4434598871",
-    "date": "2026-07-11T10:14:14.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
   }
 ]
