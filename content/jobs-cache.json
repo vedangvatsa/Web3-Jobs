@@ -1,5 +1,93 @@
 [
   {
+    "id": "32aa15e8-3299-4a10-99be-4f676d5e97f2",
+    "title": "Sanctions Advisory Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/32aa15e8-3299-4a10-99be-4f676d5e97f2",
+    "date": "2026-08-12T02:28:54.763Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "8042913",
+    "title": "Solutions Architect (SEA, Korea, India)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8042913",
+    "date": "2026-08-11T21:51:05-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "bf52ce08-27ca-41c8-9b32-d53399d8b08d",
+    "title": "Product Counsel",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/bf52ce08-27ca-41c8-9b32-d53399d8b08d",
+    "date": "2026-08-12T00:58:48.158Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "8123027",
+    "title": "Account Executive, Commercial (Grower)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8123027",
+    "date": "2026-08-11T19:45:35-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8115908",
+    "title": "Risk Operations Associate, User Policy Operations",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8115908",
+    "date": "2026-08-11T18:40:46-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "f5cf4790-0b77-47be-b332-02ca6ec755fd",
+    "title": "Account Manager | Enterprise",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f5cf4790-0b77-47be-b332-02ca6ec755fd",
+    "date": "2026-08-11T22:25:11.605+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "8114272",
+    "title": "Comms, Public Goods",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8114272",
+    "date": "2026-08-11T18:16:55-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8110416",
+    "title": "Head of AMER Startups (Grower)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8110416",
+    "date": "2026-08-11T17:12:37-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "0f387fc1-2998-484d-92b7-121780779269",
+    "title": "Business Development Associate (Developer Ecosystem)",
+    "company": "Offchain Labs",
+    "link": "https://jobs.lever.co/offchainlabs/0f387fc1-2998-484d-92b7-121780779269",
+    "date": "2026-08-11T21:05:41.787Z",
+    "source": "Lever: Offchain Labs"
+  },
+  {
+    "id": "7d8ded79-dc7c-4129-8f46-42f0405713ed",
+    "title": "Growth Marketing Manager (Lifecycle)",
+    "company": "Phantom",
+    "link": "https://jobs.ashbyhq.com/Phantom/7d8ded79-dc7c-4129-8f46-42f0405713ed",
+    "date": "2026-08-11T20:58:18.424+00:00",
+    "source": "Ashby: Phantom"
+  },
+  {
+    "id": "8122777",
+    "title": "Specialist, CSIRT",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8122777?gh_jid=8122777",
+    "date": "2026-08-11T16:46:47-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
     "id": "8122623",
     "title": "Customer Experience Associate (New Grad)",
     "company": "Robinhood",
@@ -230,6 +318,14 @@
     "link": "https://boards.greenhouse.io/xapo61/jobs/7827631003",
     "date": "2026-08-11T13:07:59.000Z",
     "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "4e1e2942-2f42-4d09-a930-a8ab0c321ffa",
+    "title": "Product Lead Counsel",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/4e1e2942-2f42-4d09-a930-a8ab0c321ffa",
+    "date": "2026-08-11T12:47:27.504Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "89515916",
@@ -6090,6 +6186,14 @@
   {
     "id": "393e1975-b910-45cd-b835-926cd35fa540",
     "title": "Senior Markets Data Analyst",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/393e1975-b910-45cd-b835-926cd35fa540",
+    "date": "2026-07-30T18:07:32.131+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "393e1975-b910-45cd-b835-926cd35fa540",
+    "title": "Senior Data Scientist / Analyst, Markets",
     "company": "Polymarket",
     "link": "https://jobs.ashbyhq.com/Polymarket/393e1975-b910-45cd-b835-926cd35fa540",
     "date": "2026-07-30T18:07:32.131+00:00",
@@ -14791,6 +14895,14 @@
     "source": "Greenhouse: OKX"
   },
   {
+    "id": "7806737003",
+    "title": "Senior Engineer - Fiat PaymentCard",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7806737003",
+    "date": "2026-07-16T06:25:52-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "4929522101",
     "title": "Senior Associate,  AFC Advisory & Control Oversight",
     "company": "Bitpanda",
@@ -16871,6 +16983,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "8038771",
+    "title": "Staff Software Engineer, Deployment Platform",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8038771",
+    "date": "2026-07-13T16:49:55-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "faae82aa-114e-4c07-92d8-88b1795fb5ee",
     "title": "Head of Public Affairs",
     "company": "TRM Labs",
@@ -17197,37 +17317,5 @@
     "link": "https://jobs.lever.co/mantra/9cc6d22c-c96c-4d99-97af-ec0ef82dbadf",
     "date": "2026-07-13T07:00:05.072Z",
     "source": "Lever: MANTRA"
-  },
-  {
-    "id": "7802200003",
-    "title": "Senior Finance Manager - Group Consolidation",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7802200003",
-    "date": "2026-07-12T22:09:57-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "a4607004-a7fa-40ad-89af-9a885cb8a959",
-    "title": "Merchant Onboarding Lead",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/a4607004-a7fa-40ad-89af-9a885cb8a959",
-    "date": "2026-07-13T01:46:18.944Z",
-    "source": "Lever: Coins.ph"
-  },
-  {
-    "id": "6113960004",
-    "title": "Broker-Dealer Operations Specialist, Japan (Japan Based / Japanese Language Required)",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6113960004",
-    "date": "2026-07-12T21:09:50-04:00",
-    "source": "Greenhouse: Alpaca"
-  },
-  {
-    "id": "6113960004",
-    "title": "Japan Broker-Dealer Compliance Associate  (Japan Based / Japanese Language Required)",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6113960004",
-    "date": "2026-07-12T21:09:50-04:00",
-    "source": "Greenhouse: Alpaca"
   }
 ]
