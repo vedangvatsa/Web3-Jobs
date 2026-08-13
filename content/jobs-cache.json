@@ -1,5 +1,181 @@
 [
   {
+    "id": "520a5e9a-ad1a-4a1b-b9f9-0e98f9b26b7f",
+    "title": "Chief of Staff, CCO",
+    "company": "Immutable",
+    "link": "https://jobs.lever.co/immutable/520a5e9a-ad1a-4a1b-b9f9-0e98f9b26b7f",
+    "date": "2026-08-13T04:38:10.338Z",
+    "source": "Lever: Immutable"
+  },
+  {
+    "id": "fc65899a-cd22-43d6-85c3-2d33050eaa9d",
+    "title": "Senior Treasury Associate",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/fc65899a-cd22-43d6-85c3-2d33050eaa9d",
+    "date": "2026-08-13T03:40:13.774Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "72b1b6ea-3d5d-43cc-a8b8-a74f2918f456",
+    "title": "Senior Tax Associate, Transfer Pricing",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/72b1b6ea-3d5d-43cc-a8b8-a74f2918f456",
+    "date": "2026-08-13T03:38:51.387Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "4908860101",
+    "title": "Principal Tech & Product Engineer",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908860101",
+    "date": "2026-08-12T23:16:24-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "2fc687dc-e7b4-4be0-9815-e665f8dc2d7e",
+    "title": "Binance Accelerator Program - LLM Recommendation & Agentic AI Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/2fc687dc-e7b4-4be0-9815-e665f8dc2d7e",
+    "date": "2026-08-13T02:50:52.914Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "8076151",
+    "title": "Staff Software Engineer, Dashboard",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8076151",
+    "date": "2026-08-12T20:27:36-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "6a644699-0d4d-4f4b-b471-7940a0bd74cc",
+    "title": "Revenue Cycle Management Intern",
+    "company": "Jane",
+    "link": "https://jobs.ashbyhq.com/jane/6a644699-0d4d-4f4b-b471-7940a0bd74cc",
+    "date": "2026-08-13T00:26:12.133+00:00",
+    "source": "Ashby: Jane"
+  },
+  {
+    "id": "8068565",
+    "title": "Account Executive, Startups (Grower)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8068565",
+    "date": "2026-08-12T20:12:11-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "9eecd08f-0ede-4a56-a67f-6bcc19dfeb28",
+    "title": "Rev Ops Analyst",
+    "company": "Switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/9eecd08f-0ede-4a56-a67f-6bcc19dfeb28",
+    "date": "2026-08-12T22:55:06.104+00:00",
+    "source": "Ashby: Switchboard"
+  },
+  {
+    "id": "75699d68-f602-46f3-b51e-4ccc283a727d",
+    "title": "Senior Software Engineer, Data Infrastructure - AI Platform",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/75699d68-f602-46f3-b51e-4ccc283a727d",
+    "date": "2026-08-12T21:59:31.149+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "8126238",
+    "title": "Staff Security Engineer",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8126238?gh_jid=8126238",
+    "date": "2026-08-12T17:59:27-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7786383003",
+    "title": "Software Engineer, Mobile",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7786383003",
+    "date": "2026-08-12T17:59:06-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "85d748d0-5377-486f-9209-c811704dbdaa",
+    "title": "Software Engineer, Data Infrastructure - AI Platform",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/85d748d0-5377-486f-9209-c811704dbdaa",
+    "date": "2026-08-12T21:58:46.749+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "a1ed36fb-8be9-40a9-8452-5641996130c3",
+    "title": "Staff Data Platform Engineer - AI Platform",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/a1ed36fb-8be9-40a9-8452-5641996130c3",
+    "date": "2026-08-12T21:55:48.922+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "cf1c3e90-d709-4a64-825f-7c0f0768965a",
+    "title": "Senior Data Platform Engineer - AI Platform",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/cf1c3e90-d709-4a64-825f-7c0f0768965a",
+    "date": "2026-08-12T21:55:20.868+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "2a784630-702d-4b49-a033-5cbd0d9c8a94",
+    "title": "Data Platform Engineer - AI Platform",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/2a784630-702d-4b49-a033-5cbd0d9c8a94",
+    "date": "2026-08-12T21:54:38.085+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "efe55693-ae11-48cb-ac7f-77b52bdd608b",
+    "title": "Member of Legal, Brokerage and Trading Solutions",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/efe55693-ae11-48cb-ac7f-77b52bdd608b",
+    "date": "2026-08-12T21:48:17.086Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
+    "id": "8126896",
+    "title": "Product Designer II, Design Systems",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8126896?gh_jid=8126896",
+    "date": "2026-08-12T17:41:17-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "494b0acc-7cfa-4a58-b5dc-c3c914f5d394",
+    "title": "Business Development, APAC",
+    "company": "Gauntlet",
+    "link": "https://jobs.lever.co/gauntlet/494b0acc-7cfa-4a58-b5dc-c3c914f5d394",
+    "date": "2026-08-12T21:40:03.097Z",
+    "source": "Lever: Gauntlet"
+  },
+  {
+    "id": "8126403",
+    "title": "Specialist, Treasury & Banking Operations",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8126403?gh_jid=8126403",
+    "date": "2026-08-12T17:30:19-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "4745807e-82f4-4b1a-857c-dc8dadc73076",
+    "title": "Credit Risk Associate",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/4745807e-82f4-4b1a-857c-dc8dadc73076",
+    "date": "2026-08-12T20:22:32.685+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "8c242715-3ea6-47e9-8a9c-9972b57683a7",
+    "title": "Staff Platform Engineer",
+    "company": "OpenSea",
+    "link": "https://jobs.ashbyhq.com/OpenSea/8c242715-3ea6-47e9-8a9c-9972b57683a7",
+    "date": "2026-08-12T20:11:56.499+00:00",
+    "source": "Ashby: OpenSea"
+  },
+  {
     "id": "8126644",
     "title": "US Sales Director",
     "company": "Foundry",
@@ -192,6 +368,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "8432f456-a0b4-4417-bd1f-4593c0f58f8f",
+    "title": "Channel Partner Manager, Canada",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/8432f456-a0b4-4417-bd1f-4593c0f58f8f",
+    "date": "2026-08-12T16:55:50.601+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
     "id": "a450c0e4-7002-47a8-920d-f6937b0cb641",
     "title": "Finance Storytelling Lead",
     "company": "Ramp",
@@ -214,6 +398,14 @@
     "link": "https://jobs.lever.co/offchainlabs/d82ca719-a431-492c-9d5f-312fb2db6331",
     "date": "2026-08-12T16:14:34.144Z",
     "source": "Lever: Offchain Labs"
+  },
+  {
+    "id": "ee2a8335-b57c-4bd0-a96b-2502705edb10",
+    "title": "Network Engineer – Corporate IT",
+    "company": "Cleanspark",
+    "link": "https://jobs.lever.co/cleanspark/ee2a8335-b57c-4bd0-a96b-2502705edb10",
+    "date": "2026-08-12T16:00:17.734Z",
+    "source": "Lever: Cleanspark"
   },
   {
     "id": "7855140003",
@@ -7760,6 +7952,14 @@
     "source": "Ashby: Ramp"
   },
   {
+    "id": "b8291945-567a-4ed6-8a06-3deab4e18fd7",
+    "title": "Senior Channel Partner Manager, Embedded ISV",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/b8291945-567a-4ed6-8a06-3deab4e18fd7",
+    "date": "2026-07-29T18:19:15.778+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
     "id": "8078337",
     "title": "Software Engineer, Connect Tax Reporting",
     "company": "Stripe",
@@ -11711,6 +11911,14 @@
     "source": "Ashby: Ramp"
   },
   {
+    "id": "6c68ed4b-dab8-4e2d-b677-a7b6ddca0272",
+    "title": "Channel Partner Manager, Embedded  ISV",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/6c68ed4b-dab8-4e2d-b677-a7b6ddca0272",
+    "date": "2026-07-22T23:28:36.319+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
     "id": "7799655",
     "title": "Engineering Manager, International Expansion",
     "company": "Robinhood",
@@ -14575,6 +14783,14 @@
     "source": "Ashby: Ramp"
   },
   {
+    "id": "1368191c-94bc-4cfd-b3d2-a2a72f847360",
+    "title": "Manager, Advisory and Services Partnerships",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/1368191c-94bc-4cfd-b3d2-a2a72f847360",
+    "date": "2026-07-17T17:21:25.284+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
     "id": "8069402",
     "title": "Lead, Operations & Growth",
     "company": "Gemini",
@@ -17389,245 +17605,5 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8053419",
     "date": "2026-07-14T02:24:54-04:00",
     "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8060662",
-    "title": "Group Product Manager, Compliance Agent Experience",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662",
-    "date": "2026-07-14T01:16:28-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "4926900101",
-    "title": "Senior Marketing Specialist, Africa",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4926900101",
-    "date": "2026-07-14T01:13:51-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "8049910",
-    "title": "Customer Success Manager, Fraud & Disputes",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8049910",
-    "date": "2026-07-13T23:51:35-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8049910",
-    "title": "Customer Success Manager, Radar",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8049910",
-    "date": "2026-07-13T23:51:35-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7803296003",
-    "title": "Senior Manager, Financial Planning & Analysis",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7803296003",
-    "date": "2026-07-13T23:07:52-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "8055659",
-    "title": "Risk PMO Program Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8055659",
-    "date": "2026-07-13T22:19:39-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8055659",
-    "title": "Risk Operations Program Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8055659",
-    "date": "2026-07-13T22:19:39-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8055659",
-    "title": "Strategy & Operations Program Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8055659",
-    "date": "2026-07-13T22:19:39-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "439d6f0a-bf27-45b5-8cd2-0783d105bb7b",
-    "title": "Binance Accelerator Program - AI Agent Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/439d6f0a-bf27-45b5-8cd2-0783d105bb7b",
-    "date": "2026-07-14T01:26:44.817Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "8631973002",
-    "title": "Data Engineer",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
-    "date": "2026-07-13T20:19:37-04:00",
-    "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "8060884",
-    "title": "Senior Staff Software Engineer, Legal Automation",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8060884?gh_jid=8060884",
-    "date": "2026-07-13T19:51:05-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8060884",
-    "title": "Forward Deployed Engineer, Legal [Office of the CTO]",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8060884?gh_jid=8060884",
-    "date": "2026-07-13T19:51:05-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8055930",
-    "title": "Forward Deployed AI Accelerator, Marketing",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8055930",
-    "date": "2026-07-13T19:29:13-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8062708",
-    "title": "Full Stack Engineer, Support Experience",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8062708",
-    "date": "2026-07-13T19:24:33-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8062305",
-    "title": "Full Stack Engineer, Link",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8062305",
-    "date": "2026-07-13T19:11:57-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8062299",
-    "title": "Backend Engineer, Financial Connections",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8062299",
-    "date": "2026-07-13T19:07:43-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "e277e612-2b24-42bb-bd39-9b45cb21413b",
-    "title": "Product Marketing Manager",
-    "company": "Gauntlet",
-    "link": "https://jobs.lever.co/gauntlet/e277e612-2b24-42bb-bd39-9b45cb21413b",
-    "date": "2026-07-13T21:54:33.522Z",
-    "source": "Lever: Gauntlet"
-  },
-  {
-    "id": "8060842",
-    "title": "Senior Staff Software Engineer, Payments",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8060842?gh_jid=8060842",
-    "date": "2026-07-13T17:44:59-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "220e674a-fc70-439f-bacf-687553ca59c9",
-    "title": "Solutions Consultant, Commercial",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/220e674a-fc70-439f-bacf-687553ca59c9",
-    "date": "2026-07-13T21:37:52.553+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "f0eece71-5927-4f49-bed2-9932af8edd9f",
-    "title": "Security Operations Engineer",
-    "company": "Paxos",
-    "link": "https://jobs.ashbyhq.com/Paxos/f0eece71-5927-4f49-bed2-9932af8edd9f",
-    "date": "2026-07-13T21:28:35.733+00:00",
-    "source": "Ashby: Paxos"
-  },
-  {
-    "id": "16fb536d-fe10-4ea7-8956-d6d0cbddd6f5",
-    "title": "AML Operations Analyst",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/16fb536d-fe10-4ea7-8956-d6d0cbddd6f5",
-    "date": "2026-07-13T21:27:51.381+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "0f0ccf3e-4caf-4586-9a66-411dbf49fcc5",
-    "title": "Senior Product Designer",
-    "company": "Render Network",
-    "link": "https://jobs.ashbyhq.com/Render/0f0ccf3e-4caf-4586-9a66-411dbf49fcc5",
-    "date": "2026-07-13T21:14:36.146+00:00",
-    "source": "Ashby: Render Network"
-  },
-  {
-    "id": "b847e042-6be5-4f8b-b36e-fe6a462cbb63",
-    "title": "Staff Product Designer",
-    "company": "Render Network",
-    "link": "https://jobs.ashbyhq.com/Render/b847e042-6be5-4f8b-b36e-fe6a462cbb63",
-    "date": "2026-07-13T21:14:17.595+00:00",
-    "source": "Ashby: Render Network"
-  },
-  {
-    "id": "86194910",
-    "title": "Head of Recruiting",
-    "company": "Structure",
-    "link": "https://structure.fi/careers/recruiting-lead",
-    "date": "2026-07-13T21:12:44.000Z",
-    "source": "https://jobs.polychain.capital/jobs"
-  },
-  {
-    "id": "6114560004",
-    "title": "Institutional Distribution Associate, Digital Assets",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6114560004",
-    "date": "2026-07-13T17:07:11-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "8038771",
-    "title": "Staff Engineer, Deployment Platform",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8038771",
-    "date": "2026-07-13T16:49:55-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8038771",
-    "title": "Staff Engineer, Release Engineering",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8038771",
-    "date": "2026-07-13T16:49:55-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8038771",
-    "title": "Staff Software Engineer, Release Engineering",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8038771",
-    "date": "2026-07-13T16:49:55-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8038771",
-    "title": "Staff Software Engineer, Deployment Platform",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8038771",
-    "date": "2026-07-13T16:49:55-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "faae82aa-114e-4c07-92d8-88b1795fb5ee",
-    "title": "Head of Public Affairs",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/faae82aa-114e-4c07-92d8-88b1795fb5ee",
-    "date": "2026-07-13T20:37:17.421+00:00",
-    "source": "Ashby: TRM Labs"
   }
 ]
