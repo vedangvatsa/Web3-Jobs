@@ -1,75 +1,5 @@
 [
   {
-    "id": "luma-evt-fNReZHoHdU6VqgZ",
-    "name": "Society Strong HIIT Class + Social",
-    "description": "",
-    "startDate": "2026-08-13T22:00:00.000Z",
-    "endDate": "2026-08-14T01:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/p1lvawha",
-    "coverImage": "https://images.lumacdn.com/uploads/po/4c1d80eb-d394-47c3-8b92-a4c9094df655.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-HmvittFXcuFDeRV",
-    "name": "Web3 Backyard Social",
-    "description": "",
-    "startDate": "2026-08-13T23:30:00.000Z",
-    "endDate": "2026-08-14T03:00:00.000Z",
-    "city": "Chicago",
-    "country": "United States",
-    "location": "Chicago, United States",
-    "url": "https://lu.ma/ig581dy5",
-    "coverImage": "https://images.lumacdn.com/uploads/ux/c2475c95-53c8-4a6d-a2d1-2d52c950be1c.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-S97EoJh3b5mC5vm",
-    "name": "A Night of Creating: Launch Party for Gamma's Creation Index",
-    "description": "",
-    "startDate": "2026-08-14T00:00:00.000Z",
-    "endDate": "2026-08-14T02:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/aelgfyuw",
-    "coverImage": "https://images.lumacdn.com/uploads/vn/cb9c012b-c072-44c9-97d5-2ce8ebca04f7.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-HkkBvGnTXg2W0Rt",
-    "name": "Unicorn Battle in San Francisco",
-    "description": "",
-    "startDate": "2026-08-14T00:00:00.000Z",
-    "endDate": "2026-08-14T03:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/jluzc4h7",
-    "coverImage": "https://images.lumacdn.com/uploads/y8/7b85250e-e5ac-4f1b-bdcc-fdb68578e1f5.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-H39CfFvqwwwbLoJ",
-    "name": "Bitcoin Fireside Chat",
-    "description": "",
-    "startDate": "2026-08-14T01:00:00.000Z",
-    "endDate": "2026-08-14T03:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/kfek9gag",
-    "coverImage": "https://images.lumacdn.com/uploads/tq/bb90da65-c936-4698-a51a-7ee1fca6bd07.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-3x16XK1IKf4iGWs",
     "name": "DFlow × Superteam Thailand: Build What Happens After the Swap Session 1",
     "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
@@ -193,34 +123,6 @@
     "url": "https://lu.ma/office-launch-party",
     "coverImage": "https://images.lumacdn.com/uploads/9n/e5e51485-e015-45c6-a51c-d60487f3f218.png",
     "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-bitcoin-beyond-bb66-2026-august-bodo-no",
-    "name": "Bitcoin Beyond (BB66)",
-    "description": "",
-    "startDate": "2026-08-14T00:00:00.000Z",
-    "endDate": "2026-08-14T00:00:00.000Z",
-    "city": "Bodø",
-    "country": "Norway",
-    "location": "Bodø, Norway",
-    "url": "https://conferenceindex.org/event/bitcoin-beyond-bb66-2026-august-bodo-no",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "August 2026"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
-    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
-    "description": "",
-    "startDate": "2026-08-14T00:00:00.000Z",
-    "endDate": "2026-08-14T00:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-august-toronto-ca",
-    "coverImage": null,
-    "source": "conferenceindex",
     "month": "August 2026"
   },
   {
@@ -361,20 +263,6 @@
     "url": "https://lu.ma/g76fzuoa",
     "coverImage": "https://images.lumacdn.com/uploads/g1/3912e1d8-b59a-4990-8660-12939b4ab777.png",
     "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-j41UGiuFBBpvdkW",
-    "name": "Matcha Retail Therapy with Icon",
-    "description": "",
-    "startDate": "2026-08-16T20:00:00.000Z",
-    "endDate": "2026-08-16T22:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/1bwzcz2z",
-    "coverImage": "https://images.lumacdn.com/uploads/r1/a961b967-b5b1-41a4-9591-015f270838b9.webp",
-    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -682,6 +570,20 @@
     "location": "Austin, United States",
     "url": "https://lu.ma/89mii2do",
     "coverImage": "https://images.lumacdn.com/uploads/k6/ee911ea5-030f-4f77-a61d-8ad8f0ced485.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-nRjdLClFUbFBIeF",
+    "name": "AI For Startups - Silicon Valley Entreprenerus",
+    "description": "",
+    "startDate": "2026-08-19T22:30:00.000Z",
+    "endDate": "2026-08-20T02:30:00.000Z",
+    "city": "Mountain View",
+    "country": "United States",
+    "location": "Mountain View, United States",
+    "url": "https://lu.ma/kqiro7t3",
+    "coverImage": "https://images.lumacdn.com/gallery-images/ah/3c3db379-bc3e-493e-8677-d2fb311882f8",
     "source": "luma",
     "month": "August 2026"
   },
@@ -1199,7 +1101,7 @@
     "country": "Netherlands",
     "location": "Amsterdam, Netherlands",
     "url": "https://luma.com/sixp297m",
-    "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/dh/e3bc70d2-a256-47ba-900f-f61c82da4bc1.png",
+    "coverImage": null,
     "source": "ethereum-org",
     "month": "September 2026"
   },
@@ -1242,6 +1144,20 @@
     "location": "Chicago, United States",
     "url": "https://lu.ma/p38t64dy",
     "coverImage": "https://images.lumacdn.com/uploads/be/0145b66f-73ec-4253-9297-6a0c4eb1e7b3.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-HU41TQvZQ8sljn9",
+    "name": "Boston Digital Asset Dinner with TRM",
+    "description": "",
+    "startDate": "2026-09-03T22:00:00.000Z",
+    "endDate": "2026-09-04T01:00:00.000Z",
+    "city": "Boston",
+    "country": "United States",
+    "location": "Boston, United States",
+    "url": "https://lu.ma/trmlabs-xbmb",
+    "coverImage": "https://images.lumacdn.com/uploads/x4/a01bb317-f16f-4609-8fb2-8b90f9f8ac1e.png",
     "source": "luma",
     "month": "September 2026"
   },
@@ -1409,7 +1325,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://luma.com/ispxo30p",
-    "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/ch/5c8785f4-f489-4370-b057-f7e3d3b654ba.png",
+    "coverImage": null,
     "source": "ethereum-org",
     "month": "September 2026"
   },
@@ -1633,7 +1549,7 @@
     "country": "United States",
     "location": "Cambridge, United States",
     "url": "https://lu.ma/yfucpvp0",
-    "coverImage": "https://images.lumacdn.com/uploads/k0/a1bbc551-8722-4068-bbc1-70a49cc7951d.jpg",
+    "coverImage": "https://images.lumacdn.com/uploads/3p/3bf24c48-b479-4e12-bc6e-950fcebaf38d.jpg",
     "source": "luma",
     "month": "October 2026"
   },
@@ -1916,5 +1832,33 @@
     "coverImage": "https://images.lumacdn.com/uploads/px/1961f942-3a75-4335-a4e5-a1ebe72e1810.png",
     "source": "luma-trusted",
     "month": "June 2027"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-bitcoin-beyond-bb66-2026-august-bodo-no",
+    "name": "Bitcoin Beyond (BB66)",
+    "description": "",
+    "startDate": "2027-08-14T00:00:00.000Z",
+    "endDate": "2027-08-14T00:00:00.000Z",
+    "city": "Bodø",
+    "country": "Norway",
+    "location": "Bodø, Norway",
+    "url": "https://conferenceindex.org/event/bitcoin-beyond-bb66-2026-august-bodo-no",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "August 2027"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
+    "description": "",
+    "startDate": "2027-08-14T00:00:00.000Z",
+    "endDate": "2027-08-14T00:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-august-toronto-ca",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "August 2027"
   }
 ]

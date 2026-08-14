@@ -1,5 +1,141 @@
 [
   {
+    "id": "4719876005",
+    "title": "Senior Software Engineer - Risk",
+    "company": "FalconX",
+    "link": "https://job-boards.greenhouse.io/falconx/jobs/4719876005",
+    "date": "2026-08-14T01:10:58-04:00",
+    "source": "Greenhouse: FalconX"
+  },
+  {
+    "id": "4724185005",
+    "title": "Senior Product Manager - Risk",
+    "company": "FalconX",
+    "link": "https://job-boards.greenhouse.io/falconx/jobs/4724185005",
+    "date": "2026-08-14T00:48:00-04:00",
+    "source": "Greenhouse: FalconX"
+  },
+  {
+    "id": "8069943",
+    "title": "Marketing Services Program Manager",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8069943",
+    "date": "2026-08-13T22:47:21-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "70964a28-d6ce-472e-b8f2-78aa52ac9ea5",
+    "title": "Compliance Officer, Europe",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/70964a28-d6ce-472e-b8f2-78aa52ac9ea5",
+    "date": "2026-08-14T02:00:54.221Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "8122926",
+    "title": "Senior Business Recruiter (12-Month Contract)",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8122926?gh_jid=8122926",
+    "date": "2026-08-13T21:39:17-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "8128900",
+    "title": "Account Executive, Startups (Scaled Grower)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8128900",
+    "date": "2026-08-13T21:12:37-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8129321",
+    "title": "Legal Ops Associate, OC Management",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321",
+    "date": "2026-08-13T20:32:31-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "1c64c5ab-eb2c-40a2-a825-22ffb81a9736",
+    "title": "Staff Security Engineer, Walrus",
+    "company": "Mysten Labs",
+    "link": "https://jobs.ashbyhq.com/mystenlabs/1c64c5ab-eb2c-40a2-a825-22ffb81a9736",
+    "date": "2026-08-13T23:58:50.185+00:00",
+    "source": "Ashby: Mysten Labs"
+  },
+  {
+    "id": "4c24f559-4c12-446d-9ae2-4edd17f465ab",
+    "title": "Social Media & Brand Experience Manager",
+    "company": "Safe",
+    "link": "https://jobs.ashbyhq.com/Safe/4c24f559-4c12-446d-9ae2-4edd17f465ab",
+    "date": "2026-08-13T23:00:48.393+00:00",
+    "source": "Ashby: Safe"
+  },
+  {
+    "id": "8067604",
+    "title": "Software Engineer, Proactive Capabilities",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&gh_jid=8067604",
+    "date": "2026-08-13T17:47:54-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "8126484",
+    "title": "Senior Talent Program Manager",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8126484?gh_jid=8126484",
+    "date": "2026-08-13T17:21:30-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8128634",
+    "title": "Head of AEO & SEO",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8128634",
+    "date": "2026-08-13T17:08:27-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "e4992057-b59e-4fb3-8f18-a919497d0ba5",
+    "title": "Forward Deployed Engineer - US National Security",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/e4992057-b59e-4fb3-8f18-a919497d0ba5",
+    "date": "2026-08-13T21:02:17.320+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "b2d8ae01-b6f9-4266-9363-8141304b199a",
+    "title": "Marketing Specialist, Webinars (14-Month Contract)",
+    "company": "Safe",
+    "link": "https://jobs.ashbyhq.com/Safe/b2d8ae01-b6f9-4266-9363-8141304b199a",
+    "date": "2026-08-13T21:00:41.975+00:00",
+    "source": "Ashby: Safe"
+  },
+  {
+    "id": "2c101be9-f4b8-4a63-a634-9798d9a09eaa",
+    "title": "Director, Brand Operations",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/2c101be9-f4b8-4a63-a634-9798d9a09eaa",
+    "date": "2026-08-13T20:39:51.629+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "8696776002",
+    "title": "Sr Product Manager, BitGo Labs",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8696776002",
+    "date": "2026-08-13T16:30:22-04:00",
+    "source": "Greenhouse: BitGo"
+  },
+  {
+    "id": "8044263",
+    "title": "Customer Experience Representative, Social",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8044263?t=gh_src=&gh_jid=8044263",
+    "date": "2026-08-13T16:08:25-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
     "id": "4723805005",
     "title": "Compliance Officer, Caymans",
     "company": "FalconX",
@@ -15495,6 +15631,14 @@
     "source": "Greenhouse: Coinbase"
   },
   {
+    "id": "8070386",
+    "title": "Senior Associate, Business Development",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8070386?gh_jid=8070386",
+    "date": "2026-07-17T12:03:27-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
     "id": "8072054",
     "title": "M&A and Accounting Policy Manager",
     "company": "Coinbase",
@@ -17039,6 +17183,14 @@
     "source": "https://coinbase.getro.com/jobs"
   },
   {
+    "id": "86410977",
+    "title": "Recruiter",
+    "company": "OP Labs",
+    "link": "https://jobs.ashbyhq.com/oplabs/e409609a-e13e-4164-90bb-b8ce8e58403f",
+    "date": "2026-07-15T13:30:01.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
     "id": "7771634003",
     "title": "Head of Business Operations / COO",
     "company": "OKX",
@@ -17381,117 +17533,5 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7805494003",
     "date": "2026-07-15T01:21:10-04:00",
     "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7962437",
-    "title": "Social Media, Customer Support Associate",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7962437",
-    "date": "2026-07-15T01:11:09-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8054116",
-    "title": "Engineering Manager, Agentic AI",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8054116?t=gh_src=&gh_jid=8054116",
-    "date": "2026-07-15T00:40:41-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "3745c904-d2e4-4b3f-a323-80c8c9308c56",
-    "title": "Solutions Engineer, Americas [Remote]",
-    "company": "Notabene",
-    "link": "https://jobs.ashbyhq.com/Notabene/3745c904-d2e4-4b3f-a323-80c8c9308c56",
-    "date": "2026-07-15T03:40:38.121+00:00",
-    "source": "Ashby: Notabene"
-  },
-  {
-    "id": "4ad6cbc1-8919-43c9-9221-6fc616305347",
-    "title": "Backend Architect - Pay&Card Tech",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/4ad6cbc1-8919-43c9-9221-6fc616305347",
-    "date": "2026-07-15T00:21:25.515Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "0e208910-a03b-4807-9c47-bf9e495a8839",
-    "title": "Senior Brand Designer",
-    "company": "Phantom",
-    "link": "https://jobs.ashbyhq.com/Phantom/0e208910-a03b-4807-9c47-bf9e495a8839",
-    "date": "2026-07-14T23:10:52.882+00:00",
-    "source": "Ashby: Phantom"
-  },
-  {
-    "id": "8054481",
-    "title": "Product Compliance Analyst, Money",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8054481?t=gh_src=&gh_jid=8054481",
-    "date": "2026-07-14T17:58:06-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "8054481",
-    "title": "Lead Compliance Analyst, Money",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8054481?t=gh_src=&gh_jid=8054481",
-    "date": "2026-07-14T17:58:06-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "8054481",
-    "title": "Compliance Advisory Lead, Money",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8054481?t=gh_src=&gh_jid=8054481",
-    "date": "2026-07-14T17:58:06-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7834459",
-    "title": "Senior Business Recruiter",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7834459?t=gh_src=&gh_jid=7834459",
-    "date": "2026-07-14T17:48:38-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "8065643",
-    "title": "Head of Marketing Operations",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8065643",
-    "date": "2026-07-14T17:45:34-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "2f709f91-5d2f-432f-9f09-3ec1861e78cf",
-    "title": "Senior Manager, People Operations & Total Rewards",
-    "company": "Safe",
-    "link": "https://jobs.ashbyhq.com/Safe/2f709f91-5d2f-432f-9f09-3ec1861e78cf",
-    "date": "2026-07-14T21:24:17.668+00:00",
-    "source": "Ashby: Safe"
-  },
-  {
-    "id": "6114919004",
-    "title": "Senior DevOps Engineer",
-    "company": "Figment",
-    "link": "https://job-boards.greenhouse.io/figment/jobs/6114919004",
-    "date": "2026-07-14T17:15:53-04:00",
-    "source": "Greenhouse: Figment"
-  },
-  {
-    "id": "e409609a-e13e-4164-90bb-b8ce8e58403f",
-    "title": "Recruiter",
-    "company": "OP Labs",
-    "link": "https://jobs.ashbyhq.com/oplabs/e409609a-e13e-4164-90bb-b8ce8e58403f",
-    "date": "2026-07-14T20:57:50.833+00:00",
-    "source": "Ashby: OP Labs"
-  },
-  {
-    "id": "4697058006",
-    "title": "Senior Counsel, Crypto Services",
-    "company": "Fireblocks",
-    "link": "https://www.fireblocks.com/careers/4697058006?gh_jid=4697058006",
-    "date": "2026-07-14T16:18:37-04:00",
-    "source": "Greenhouse: Fireblocks"
   }
 ]
