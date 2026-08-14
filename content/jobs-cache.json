@@ -1,5 +1,117 @@
 [
   {
+    "id": "e5901d4d-6588-4877-8c2e-9fabd56d2775",
+    "title": "Staff Data Engineer",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/e5901d4d-6588-4877-8c2e-9fabd56d2775",
+    "date": "2026-08-14T11:05:00.422Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "89897546",
+    "title": "Office Manager, Mexico City",
+    "company": "OXIO",
+    "link": "https://jobs.ashbyhq.com/OXIO/bd81e968-de39-4f43-9043-bdff7e708582",
+    "date": "2026-08-14T11:01:55.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "89892074",
+    "title": "Backend Engineer (TypeScript)",
+    "company": "Wynd Network",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/900e79ba-5668-4a43-9065-3f4bf7db6aa4",
+    "date": "2026-08-14T10:45:58.000Z",
+    "source": "https://jobs.polychain.capital/jobs"
+  },
+  {
+    "id": "89886101",
+    "title": "InfoSec Analyst II, Trust",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/da0b9540-9071-4c80-a1ee-a76d46d19c98",
+    "date": "2026-08-14T10:25:32.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "89886097",
+    "title": "Software Engineer II, Foundation",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/2445c799-1e82-47fc-8218-1a5591e8351c",
+    "date": "2026-08-14T10:25:30.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "89882280",
+    "title": "Senior Site Reliability Engineer - CLO",
+    "company": "Circle",
+    "link": "https://careers.circle.com/us/en/job/JR101103",
+    "date": "2026-08-14T10:03:30.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "89880822",
+    "title": "Full-Stack Software Engineer - Growth",
+    "company": "Ondo Finance",
+    "link": "https://boards.greenhouse.io/ondofinance/jobs/4368461009",
+    "date": "2026-08-14T09:45:51.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "89880821",
+    "title": "Full-Stack Software Engineer - Compliance",
+    "company": "Ondo Finance",
+    "link": "https://boards.greenhouse.io/ondofinance/jobs/4368460009",
+    "date": "2026-08-14T09:45:50.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "4952921101",
+    "title": "Blockchain Risk Control Analyst",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4952921101",
+    "date": "2026-08-14T05:07:00-04:00",
+    "source": "Greenhouse: Bybit"
+  },
+  {
+    "id": "8041076",
+    "title": "Account Executive, Crypto/Stablecoins",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8041076",
+    "date": "2026-08-14T03:45:58-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4cf55d47-2202-435c-8f47-898c891d1eb2",
+    "title": "Product Marketing Manager — GTM Execution Support",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/4cf55d47-2202-435c-8f47-898c891d1eb2",
+    "date": "2026-08-14T07:12:42.195Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "36d0f540-7d25-482a-978e-81452e48c74a",
+    "title": "Binance Accelerator Program - Compliance/Sanctions",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/36d0f540-7d25-482a-978e-81452e48c74a",
+    "date": "2026-08-14T05:57:40.439Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "a91c8c01-cd4f-41af-9a8f-1f3c7041cc64",
+    "title": "Full Stack Engineer - KYC Tech (fully remote!)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/a91c8c01-cd4f-41af-9a8f-1f3c7041cc64",
+    "date": "2026-08-14T05:56:08.898Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "89561243-f095-4264-a1f4-71484727f3fd",
+    "title": "Cloud Security Engineer",
+    "company": "Coins.ph",
+    "link": "https://jobs.lever.co/coins/89561243-f095-4264-a1f4-71484727f3fd",
+    "date": "2026-08-14T05:44:08.283Z",
+    "source": "Lever: Coins.ph"
+  },
+  {
     "id": "4719876005",
     "title": "Senior Software Engineer - Risk",
     "company": "FalconX",
@@ -718,6 +830,14 @@
     "link": "https://jobs.lever.co/immutable/520a5e9a-ad1a-4a1b-b9f9-0e98f9b26b7f",
     "date": "2026-08-13T04:38:10.338Z",
     "source": "Lever: Immutable"
+  },
+  {
+    "id": "7cb4e36e-0d5e-4e9a-8736-9e713db5360e",
+    "title": "Risk Control Analyst, Card & ATO Risk",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/7cb4e36e-0d5e-4e9a-8736-9e713db5360e",
+    "date": "2026-08-13T03:49:22.165Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "fc65899a-cd22-43d6-85c3-2d33050eaa9d",
@@ -2054,6 +2174,14 @@
     "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6140725004",
     "date": "2026-08-11T02:01:42-04:00",
     "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "2f314b4e-79e3-4e4b-ab18-32b7ff539e95",
+    "title": "Product Director - Exchange, Trading Infra",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/2f314b4e-79e3-4e4b-ab18-32b7ff539e95",
+    "date": "2026-08-11T02:38:30.886Z",
+    "source": "Lever: Crypto"
   },
   {
     "id": "8109607",
@@ -3800,6 +3928,14 @@
     "source": "https://jobs.dragonfly.xyz/jobs"
   },
   {
+    "id": "94c737f9-5a40-4d53-bbcb-af05f22ca299",
+    "title": "Earn Operations & User Growth Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/94c737f9-5a40-4d53-bbcb-af05f22ca299",
+    "date": "2026-08-07T05:36:10.321Z",
+    "source": "Lever: Binance"
+  },
+  {
     "id": "7834182003",
     "title": "Senior Growth Manager, Brazil",
     "company": "OKX",
@@ -5318,6 +5454,14 @@
     "link": "https://the-arena.notion.site/None-of-these-22c57861ca8480ec86fbdc225acba37b?pvs=25",
     "date": "2026-08-05T10:07:07.000Z",
     "source": "https://jobs.avax.network/jobs"
+  },
+  {
+    "id": "f156179c-9d28-4c7b-9d14-9179c2a02c28",
+    "title": "Enterprise Sales Director",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/f156179c-9d28-4c7b-9d14-9179c2a02c28",
+    "date": "2026-08-05T10:03:33.623+00:00",
+    "source": "Ashby: Elliptic"
   },
   {
     "id": "4941257101",
@@ -17293,245 +17437,5 @@
     "link": "https://careers.circle.com/us/en/job/JR101083",
     "date": "2026-07-15T12:22:59.000Z",
     "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "86368885",
-    "title": "Marketing Designer",
-    "company": "Luno",
-    "link": "https://boards.greenhouse.io/luno/jobs/8045827",
-    "date": "2026-07-15T11:48:30.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "86364236",
-    "title": "Assistant HR/People Manager",
-    "company": "Kast",
-    "link": "https://careers.kast.xyz/en/postings/d8d40961-803c-4489-bf93-922cff7735d2",
-    "date": "2026-07-15T11:33:50.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "86364239",
-    "title": "Flutter Developer",
-    "company": "Kast",
-    "link": "https://careers.kast.xyz/en/postings/5cc5d6b9-47d7-415d-a951-4d3b76329816",
-    "date": "2026-07-15T11:33:50.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "86358934",
-    "title": "Senior Software Engineer (Backend)",
-    "company": "Wynd Network",
-    "link": "https://jobs.ashbyhq.com/wynd-labs/1e0ceb41-435e-48f7-b70d-4e6b8ed2df0a",
-    "date": "2026-07-15T11:21:35.000Z",
-    "source": "https://jobs.polychain.capital/jobs"
-  },
-  {
-    "id": "8632723002",
-    "title": "Cybersecurity Analyst",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8632723002",
-    "date": "2026-07-15T07:16:20-04:00",
-    "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "752da3e2-f6bb-4293-9ff6-b3d8133a0781",
-    "title": "Paralegal Intern",
-    "company": "SwissBorg",
-    "link": "https://jobs.lever.co/swissborg/752da3e2-f6bb-4293-9ff6-b3d8133a0781",
-    "date": "2026-07-15T11:05:22.090Z",
-    "source": "Lever: SwissBorg"
-  },
-  {
-    "id": "8041655",
-    "title": "Product Manager, E-Invoicing",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8041655",
-    "date": "2026-07-15T07:01:45-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "86342375",
-    "title": "VP of Design (Remote - Work from Anywhere)",
-    "company": "Xapo",
-    "link": "https://boards.greenhouse.io/xapo61/jobs/7802655003",
-    "date": "2026-07-15T10:43:04.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "8634232002",
-    "title": "Frontend Engineer",
-    "company": "ComplyAdvantage",
-    "link": "https://complyadvantage.com/careers/jobs/8634232002?gh_jid=8634232002",
-    "date": "2026-07-15T06:36:59-04:00",
-    "source": "Greenhouse: ComplyAdvantage"
-  },
-  {
-    "id": "8634249002",
-    "title": "Junior Software Engineer",
-    "company": "ComplyAdvantage",
-    "link": "https://complyadvantage.com/careers/jobs/8634249002?gh_jid=8634249002",
-    "date": "2026-07-15T06:36:46-04:00",
-    "source": "Greenhouse: ComplyAdvantage"
-  },
-  {
-    "id": "86338274",
-    "title": "Deal Lead, Corporate Development",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/37abda0c-ef4d-4bbe-9fb4-e6cb64c1acbe",
-    "date": "2026-07-15T10:24:52.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "4928575101",
-    "title": "Senior Principal Frontend Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4928575101",
-    "date": "2026-07-15T06:22:22-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4928533101",
-    "title": "Lead Frontend Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4928533101",
-    "date": "2026-07-15T06:17:33-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "8632946002",
-    "title": "Principal Data Engineer",
-    "company": "ComplyAdvantage",
-    "link": "https://complyadvantage.com/careers/jobs/8632946002?gh_jid=8632946002",
-    "date": "2026-07-15T06:08:28-04:00",
-    "source": "Greenhouse: ComplyAdvantage"
-  },
-  {
-    "id": "8632942002",
-    "title": "Principal Machine Learning Engineer",
-    "company": "ComplyAdvantage",
-    "link": "https://complyadvantage.com/careers/jobs/8632942002?gh_jid=8632942002",
-    "date": "2026-07-15T06:07:42-04:00",
-    "source": "Greenhouse: ComplyAdvantage"
-  },
-  {
-    "id": "86333374",
-    "title": "Lead Analyst, Strategy & Growth",
-    "company": "Blackbird Labs",
-    "link": "https://jobs.ashbyhq.com/blackbird-labs-inc/2db266f3-6167-43ef-892c-67a4f88e354b",
-    "date": "2026-07-15T10:01:53.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "4928166101",
-    "title": "Social Media & Community Lead",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4928166101",
-    "date": "2026-07-15T04:33:09-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "7ddb5a2a-585e-4b5b-9bc1-0e840080f41e",
-    "title": "Web Frontend Engineer - Camera & Video / Image Recognition",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/7ddb5a2a-585e-4b5b-9bc1-0e840080f41e",
-    "date": "2026-07-15T08:29:14.226Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "4928144101",
-    "title": "Senior Sponsorship & Partnership Specialist",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4928144101",
-    "date": "2026-07-15T04:25:14-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "91fcf1c8-537a-4bf7-be4e-89125b177005",
-    "title": "Android Engineer - Camera & Video / Image Recognition",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/91fcf1c8-537a-4bf7-be4e-89125b177005",
-    "date": "2026-07-15T08:24:59.809Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "4928053101",
-    "title": "Senior Growth Product Manager - User Activation",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4928053101",
-    "date": "2026-07-15T03:41:42-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4928100101",
-    "title": "People Operations & SSC Lead",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4928100101",
-    "date": "2026-07-15T03:38:42-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4928100101",
-    "title": "[EU]People Operations & SSC Lead",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4928100101",
-    "date": "2026-07-15T03:38:42-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4920994101",
-    "title": "Data Engineer",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4920994101",
-    "date": "2026-07-15T03:28:17-04:00",
-    "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "38bc828a-8273-4000-83c8-1c666db2207a",
-    "title": "Client Full-Stack Engineer — IM Chat Platform, Android Focus",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/38bc828a-8273-4000-83c8-1c666db2207a",
-    "date": "2026-07-15T07:25:15.337Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "56e3e9ac-582a-4158-b4bd-80f302bdc97b",
-    "title": "Growth Lead, Pakistan",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/56e3e9ac-582a-4158-b4bd-80f302bdc97b",
-    "date": "2026-07-15T06:22:18.344Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "2677704",
-    "title": "Portfolio Manager - Real Estate",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/portfolio-manager-real-estate-4",
-    "date": "2026-07-15 06:20:57 UTC",
-    "source": "Recruitee: Tether"
-  },
-  {
-    "id": "7805503003",
-    "title": "Community Growth Manager",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7805503003",
-    "date": "2026-07-15T01:45:29-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "8066264",
-    "title": "Financial Analyst, Business F&S",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8066264",
-    "date": "2026-07-15T01:44:23-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7805494003",
-    "title": "Senior / Staff Software Engineer, Mobile — Core (Account & Risk)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7805494003",
-    "date": "2026-07-15T01:21:10-04:00",
-    "source": "Greenhouse: OKX"
   }
 ]
