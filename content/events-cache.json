@@ -1,89 +1,5 @@
 [
   {
-    "id": "luma-evt-NQcBhoDFwcErEkO",
-    "name": "Toronto Solana VibeStation",
-    "description": "",
-    "startDate": "2026-08-14T13:30:00.000Z",
-    "endDate": "2026-08-14T22:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/9wrxgucx",
-    "coverImage": "https://images.lumacdn.com/uploads/72/d48a58b6-149e-46a8-ad42-33afa0ad969d.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-NQcBhoDFwcErEkO",
-    "name": "Toronto Solana VibeStation",
-    "description": "Building the Solana ecosystem in Canada 🇨🇦",
-    "startDate": "2026-08-14T13:30:00.000Z",
-    "endDate": "2026-08-14T22:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/9wrxgucx",
-    "coverImage": "https://images.lumacdn.com/uploads/72/d48a58b6-149e-46a8-ad42-33afa0ad969d.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-LWz1vUp33Qc5EaS",
-    "name": "Montreal VibeStation",
-    "description": "Building the Solana ecosystem in Canada 🇨🇦",
-    "startDate": "2026-08-14T13:30:00.000Z",
-    "endDate": "2026-08-14T21:30:00.000Z",
-    "city": "Montréal",
-    "country": "Canada",
-    "location": "Montréal, Canada",
-    "url": "https://lu.ma/c021e0d3",
-    "coverImage": "https://images.lumacdn.com/event-covers/bw/0599c98d-915f-4c33-9471-92269e672a9d.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-XTJvv9wyQqrcriE",
-    "name": "Skyline Coworking",
-    "description": "Events for the Solana ecosystem in NYC 🗽",
-    "startDate": "2026-08-14T13:30:00.000Z",
-    "endDate": "2026-08-14T21:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/cq8l22ns",
-    "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-aTxrD31kGxWAITZ",
-    "name": "Vancouver VibeStation",
-    "description": "Building the Solana ecosystem in Canada 🇨🇦",
-    "startDate": "2026-08-14T17:00:00.000Z",
-    "endDate": "2026-08-15T01:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/y1xtj18s",
-    "coverImage": "https://images.lumacdn.com/event-covers/g7/e3cf8181-b6a3-4459-94ce-da3996d308f4.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-m8n3VfOhBlYPnSq",
-    "name": "London Office Launch Evening @ Somerset House",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-08-14T17:30:00.000Z",
-    "endDate": "2026-08-14T21:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/office-launch-party",
-    "coverImage": "https://images.lumacdn.com/uploads/9n/e5e51485-e015-45c6-a51c-d60487f3f218.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-fnredISKOsi7sU4",
     "name": "985校友圈 × Global AI【Silicon Valley AI Founders Salon #3】Global AI时代，下一轮创业机会到底在哪里？",
     "description": "",
@@ -179,20 +95,6 @@
     "url": "https://lu.ma/5ycpp2eo",
     "coverImage": "https://images.lumacdn.com/event-covers/lg/fe67eec9-905b-4c76-9b5c-cc36bbbde176.jpg",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315966301",
-    "name": "🎤😂 Heaven, Hell & Hilarity: Amy Armstrong Live at Hydrate! 🎶✨",
-    "description": "🎤😂 **Heaven, Hell & Hilarity: Amy Armstrong Live at Hydrate!** 🎶✨\n\nGet ready for an unforgettable night with one of Chicago's most entertaining performers! Join us for **Amy Armstrong: Heaven, Hell",
-    "startDate": "2026-08-15T18:00:00-05:00",
-    "endDate": "2026-08-15T18:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/iwanttodothatchicago/events/315966301/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/7/b/5/600_535506069.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -317,7 +219,7 @@
     "country": "United States",
     "location": "New York, United States",
     "url": "https://lu.ma/zbrewa5t",
-    "coverImage": "https://images.lumacdn.com/uploads/8j/6d60bce2-4d7b-43e7-a242-7806cf80b1f7.png",
+    "coverImage": "https://images.lumacdn.com/uploads/c0/95ab627a-8ff4-4355-8494-ba016b06c0b0.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -448,20 +350,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315965382",
-    "name": "August Meetup-Egypt!",
-    "description": "**Egypt: From Ancient Wonders to Underwater Wonders**\n\nJoin us as we relive an unforgettable journey through Egypt! Before ever getting their feet wet, several members explored the country's rich hist",
-    "startDate": "2026-08-18T19:00:00-05:00",
-    "endDate": "2026-08-18T19:00:00-05:00",
-    "city": "Chicago",
-    "country": "US",
-    "location": "Chicago, US",
-    "url": "https://www.meetup.com/chicago-scuba-meetup/events/315965382/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/3/c/6/600_535505062.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-EJCS06wku8kTuHj",
     "name": "Light Dao Salon: Building to Last: Stewardship & Legacy with Kelly Vlahakis-Hanks, CEO of ECOS (LA)",
     "description": "",
@@ -541,7 +429,7 @@
     "country": "United States",
     "location": "Austin, United States",
     "url": "https://lu.ma/89mii2do",
-    "coverImage": "https://images.lumacdn.com/uploads/k6/ee911ea5-030f-4f77-a61d-8ad8f0ced485.jpg",
+    "coverImage": "https://images.lumacdn.com/uploads/xl/6a9eda31-acd5-4800-8e82-1c82a3758cd8.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -574,20 +462,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316047206",
-    "name": "Open Bitcoin Discussion",
-    "description": "Our weekly **open Bitcoin discussion**.\nTo join, RSVP for the event that you can make\n\nThe usual format: live market dashboard to open, \\~20 minutes of curated slides, then open discussion. Bring your",
-    "startDate": "2026-08-19T20:00:00-04:00",
-    "endDate": "2026-08-19T20:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/meetup-group-cttlfnfm/events/316047206/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/7/c/9/600_535530665.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "dtt-coinfest-asia-2026",
     "name": "COINFEST ASIA 2026",
     "description": "",
@@ -616,6 +490,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-T2tQkKnZEqXWxYO",
+    "name": "Superteam India Community Call [2026]",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-08-20T12:30:00.000Z",
+    "endDate": "2026-08-20T13:10:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/stin-commcall-2026",
+    "coverImage": "https://images.lumacdn.com/event-covers/qo/cbcdd981-6871-45fe-aaab-4bae6cffab27",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-pK1M9WhFYDop2Ye",
     "name": "Toronto Bitcoin Meetup",
     "description": "",
@@ -627,34 +515,6 @@
     "url": "https://lu.ma/9p0k7nkv",
     "coverImage": "https://images.lumacdn.com/uploads/xo/c48114a5-693c-4f93-a17b-fd9d7b0806fd.jpg",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315844647",
-    "name": "B.O.B. @ Fork and Coin",
-    "description": "Come visit the Chicago Bitcoin Collective to talk to members and the broader B.O.B. community about Bitcoin and anything else related!\n\nCome over to Fork and Coin and get any questions answered about ",
-    "startDate": "2026-08-20T18:00:00-05:00",
-    "endDate": "2026-08-20T18:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/315844647/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/a/7/6/4/600_534102852.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315987808",
-    "name": "Silicon Societies",
-    "description": "**Title:** Silicon Societies: What happens when millions of AI agents use the Internet alongside us?\n\n**Abstract:** When OpenClaw came out in early 2026, one of the first things people did was upload ",
-    "startDate": "2026-08-20T18:00:00-05:00",
-    "endDate": "2026-08-20T18:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/pydatachi/events/315987808/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/8/7/6/e/600_472414670.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -687,7 +547,7 @@
   },
   {
     "id": "luma-evt-TEsL2LSVU0vj1kX",
-    "name": "seattle: charming keychains w/ kelsey armstrong",
+    "name": "seattle: charming keychains workshop w/ kelsey armstrong",
     "description": "",
     "startDate": "2026-08-21T01:30:00.000Z",
     "endDate": "2026-08-21T03:30:00.000Z",
@@ -784,6 +644,34 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-m6H81ov4I930SY5",
+    "name": "MonkeDAO Montreal - 5th Anniversary 🍌🎂🍻",
+    "description": "",
+    "startDate": "2026-08-21T21:30:00.000Z",
+    "endDate": "2026-08-22T01:00:00.000Z",
+    "city": "Montréal",
+    "country": "Canada",
+    "location": "Montréal, Canada",
+    "url": "https://lu.ma/ole1orkr",
+    "coverImage": "https://images.lumacdn.com/uploads/0s/f13fdc8b-9096-48e8-97a4-ed1195940ddd.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-iyygicMKwhNF259",
+    "name": "The Bull Run Blueprint: AI and Crypto for Q4",
+    "description": "",
+    "startDate": "2026-08-21T21:30:00.000Z",
+    "endDate": "2026-08-22T00:30:00.000Z",
+    "city": "Montreal",
+    "country": "Canada",
+    "location": "Montreal, Canada",
+    "url": "https://lu.ma/ccl96wxu",
+    "coverImage": "https://images.lumacdn.com/uploads/nf/e140135b-e494-4137-b4b1-95be103a248d.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-computer-science-and-blockchain-ccsb-2",
     "name": "International Conference on Computer Science and Blockchain (CCSB)",
     "description": "",
@@ -795,20 +683,6 @@
     "url": "https://conferenceindex.org/event/international-conference-on-computer-science-and-blockchain-ccsb-2026-august-zhuhai-cn",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315821211",
-    "name": "The Book of Longings, Sue Monk Kidd",
-    "description": "In ancient Galilee, Ana defies societal norms by pushing her passion for writing. Her life transforms when she meets a young carpenter in Nazareth, leading to a journey of love, friendship and female ",
-    "startDate": "2026-08-22T13:00:00-05:00",
-    "endDate": "2026-08-22T13:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/fiction-page-turners-meetup/events/315821211/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/c/2/0/0/600_535609664.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -840,34 +714,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-312804216",
-    "name": "South Side Spanish (Bridgeport)",
-    "description": "Estás invitado a un grupo de habla español. Aquí no se juzga, es bienvenido/a el que sea nativo/a o al que este recién empezando. Lo único que te pedimos es que hagas un esfuerzo ya que es primordial ",
-    "startDate": "2026-08-22T15:00:00-05:00",
-    "endDate": "2026-08-22T15:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/chicago-spanish-language/events/312804216/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/6/1/d/600_503345661.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-J6FD5pFOxRSZgKx",
-    "name": "Bitcoin Block Party",
-    "description": "",
-    "startDate": "2026-08-23T19:00:00.000Z",
-    "endDate": "2026-08-24T03:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/ed63hjqz",
-    "coverImage": "https://images.lumacdn.com/uploads/e8/8012cbb9-3f74-436f-9c62-dfdded85bafe.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-",
     "name": "International Conference on Cryptography and Information Security (ICCIS)",
     "description": "",
@@ -882,20 +728,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-tEl4FgUf8FyBhhc",
-    "name": "MONKEDAO turns 5!",
-    "description": "",
-    "startDate": "2026-08-24T20:00:00.000Z",
-    "endDate": "2026-08-24T23:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "Vancouver, Canada",
-    "url": "https://lu.ma/riegwy4i",
-    "coverImage": "https://images.lumacdn.com/uploads/vh/9f13d407-b43d-4d7c-887c-0106eda46f56.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-2rkOdm0arGqYLvv",
     "name": "LA Founders Dinner w/ Verci, Patron, Rho, & Cake",
     "description": "",
@@ -907,20 +739,6 @@
     "url": "https://lu.ma/verci-3b5i",
     "coverImage": "https://images.lumacdn.com/uploads/8f/14cec0c6-b4cd-4334-8e2b-ceb40d0b6404.png",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-316095991",
-    "name": "⚡🟠 BITCOIN & BEERS: AUGUST MEETUP. Bitcoin Burgers on the patio! 🍔🍺",
-    "description": "⚡ BITCOIN & BEERS: AUGUST MEETUP 🍺 🟠\n\n📍 Bottle Theory (Patio) — Elmhurst\n📆 Wednesday, August 26th, 2026\n⏰ 6:00 PM – 10:00 PM\n\nCan you believe it ..we've crossed over the 8+ year mark!!!\nJoin us fo",
-    "startDate": "2026-08-26T18:00:00-05:00",
-    "endDate": "2026-08-26T18:00:00-05:00",
-    "city": "Elmhurst",
-    "country": "US",
-    "location": "Elmhurst, US",
-    "url": "https://www.meetup.com/chicago-western-suburbs-bitcoin-meetup/events/316095991/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/4/1/e/d/600_535636877.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -980,16 +798,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990021",
+    "id": "mu-315990066",
     "name": "ZK Learning Group: Introduction to ZkSync",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-08-27T11:00:00-05:00",
-    "endDate": "2026-08-27T11:00:00-05:00",
+    "startDate": "2026-08-27T10:00:00-06:00",
+    "endDate": "2026-08-27T10:00:00-06:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/315990021/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/7/8/600_535528792.jpeg",
+    "url": "https://www.meetup.com/lfdt-denver/events/315990066/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/a/6/600_535528838.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -1023,7 +841,7 @@
   },
   {
     "id": "luma-evt-PqD1IT9Im6b2Kot",
-    "name": "los angeles: charming keychains w/ kelsey armstrong",
+    "name": "los angeles: charming keychains workshop w/ kelsey armstrong",
     "description": "",
     "startDate": "2026-08-29T01:30:00.000Z",
     "endDate": "2026-08-29T03:30:00.000Z",
@@ -1065,7 +883,7 @@
   },
   {
     "id": "luma-evt-CUx7hOecWJrO8RW",
-    "name": "austin: charming keychains w/ kelsey armstrong",
+    "name": "austin: charming keychains workshop w/ kelsey armstrong",
     "description": "",
     "startDate": "2026-08-30T23:30:00.000Z",
     "endDate": "2026-08-31T01:30:00.000Z",
@@ -1479,7 +1297,7 @@
     "country": "Singapore",
     "location": "Singapore, Singapore",
     "url": "https://lu.ma/SuiBasecamp2026",
-    "coverImage": "https://images.lumacdn.com/uploads/4q/bd9c586d-13a1-452c-b0d3-dbee3605664d.png",
+    "coverImage": "https://images.lumacdn.com/uploads/be/aa0f84fd-0ef3-47b5-925a-b4715856c69e.png",
     "source": "luma-trusted",
     "month": "October 2026"
   },
@@ -1633,7 +1451,7 @@
     "country": "Dominican Republic",
     "location": "Punta Cana, Dominican Republic, Dominican Republic",
     "url": "https://www.blockcon.co",
-    "coverImage": "https://www.blockcon.co/og/blockcon-home.png",
+    "coverImage": null,
     "source": "marketacross",
     "month": "November 2026"
   },
