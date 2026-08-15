@@ -18,7 +18,7 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 if (!GEMINI_API_KEY) { console.error('Set GEMINI_API_KEY'); process.exit(1); }
 
 const MAX_CONCURRENT = parseInt(process.env.CONCURRENCY || '20', 10);
-const MODEL = 'gemini-2.5-flash';
+const MODEL = 'gemini-2.0-flash';
 
 let progress = {};
 function loadProgress() {
