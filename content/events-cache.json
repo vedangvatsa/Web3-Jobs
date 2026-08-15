@@ -1,75 +1,5 @@
 [
   {
-    "id": "luma-evt-fnredISKOsi7sU4",
-    "name": "985校友圈 × Global AI【Silicon Valley AI Founders Salon #3】Global AI时代，下一轮创业机会到底在哪里？",
-    "description": "",
-    "startDate": "2026-08-15T00:00:00.000Z",
-    "endDate": "2026-08-15T04:00:00.000Z",
-    "city": "Mountain View",
-    "country": "United States",
-    "location": "Mountain View, United States",
-    "url": "https://lu.ma/a9otjl1g",
-    "coverImage": "https://images.lumacdn.com/uploads/mv/6898cf81-079b-4efb-acd9-c54fd6022d00.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "cmc-6a5705c1a0565349d9a6ddc6",
-    "name": "Cyber: Wallets Sunset",
-    "description": "Cyber sunsets CyberWallet and Passkey Wallet; users withdraw all assets as focus shifts to crypto AI infra and Surf.",
-    "startDate": "2026-08-15T00:00:00.000Z",
-    "endDate": "2026-08-15T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://x.com/BuildOnCyber/status/2023917319983092030",
-    "coverImage": "https://pbs.twimg.com/media/HBZmE4eacAE4DVE.jpg:large",
-    "source": "coinmarketcap",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-wjpkQDARB1j8Rq3",
-    "name": "An Evening with Governor Soludo: Anambra Investment Forum & Silicon Valley Tech and Founders' Showcase",
-    "description": "",
-    "startDate": "2026-08-15T00:30:00.000Z",
-    "endDate": "2026-08-15T03:30:00.000Z",
-    "city": "Fremont",
-    "country": "United States",
-    "location": "Fremont, United States",
-    "url": "https://lu.ma/malaika-0gw1",
-    "coverImage": "https://images.lumacdn.com/uploads/r2/d91ba4e5-3165-48b9-9b13-a49a457000a5.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-fVeUz03wPmR6M5P",
-    "name": "ICPC Training Session @ JetBrains London",
-    "description": "",
-    "startDate": "2026-08-15T10:00:00.000Z",
-    "endDate": "2026-08-15T13:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/8l23evbb",
-    "coverImage": "https://images.lumacdn.com/uploads/bf/57009d19-4379-4368-a90b-58a3f42665e6.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-UkHrnxJ86reDqOE",
-    "name": "Whole Before Forward: Half-Day Retreat in Chicago",
-    "description": "",
-    "startDate": "2026-08-15T15:00:00.000Z",
-    "endDate": "2026-08-15T20:00:00.000Z",
-    "city": "Chicago",
-    "country": "United States",
-    "location": "Chicago, United States",
-    "url": "https://lu.ma/sn0ms2bk",
-    "coverImage": "https://images.lumacdn.com/uploads/fp/710ba80d-1ce0-4eaf-8694-29c5a5c4a6ac.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-xyk7Av0kRX15rdx",
     "name": "Silicon Impact - Business Edition",
     "description": "",
@@ -95,20 +25,6 @@
     "url": "https://lu.ma/5ycpp2eo",
     "coverImage": "https://images.lumacdn.com/event-covers/lg/fe67eec9-905b-4c76-9b5c-cc36bbbde176.jpg",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "cmc-6a5705c1a0565349d9a6ddc7",
-    "name": "Arbitrum: Token Unlock",
-    "description": "Arbitrum unlocks approximately 0.93% of its released supply at 5 PM UTC.",
-    "startDate": "2026-08-15T00:00:00.000Z",
-    "endDate": "2026-08-15T00:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://defillama.com/unlocks/arbitrum",
-    "coverImage": null,
-    "source": "coinmarketcap",
     "month": "August 2026"
   },
   {
@@ -154,6 +70,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-315895877",
+    "name": "Over Your Ex in a Weekend DAY 3: Redefine Love and Hope",
+    "description": "This is a part of a 3 day challenge. When you give me 3 days, I will help you get over your ex fast!\n\nDay Three we will reconnect with your values, vision, and self-worth. You’ll design your next chap",
+    "startDate": "2026-08-16T12:00:00-04:00",
+    "endDate": "2026-08-16T12:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/breakup-and-divorce-support/events/315895877/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/8/3/b/8/600_531273720.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-zPk9EMvfz2aIaTg",
     "name": "SuperteamTR Community Call ⚡",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -168,17 +98,17 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-FZ4OvDsFpFpKqn1",
-    "name": "Astronaut Interview: Soyeon Yi, South Korea's First Person In Space!",
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
     "description": "",
-    "startDate": "2026-08-16T21:00:00.000Z",
-    "endDate": "2026-08-16T23:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/bysqxy5w",
-    "coverImage": "https://images.lumacdn.com/uploads/gr/bcd2fee0-3d14-4909-a7ce-029f70f6a4a0.jpg",
-    "source": "luma",
+    "startDate": "2026-08-16T00:00:00.000Z",
+    "endDate": "2026-08-16T00:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-august-tokyo-jp",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "August 2026"
   },
   {
@@ -207,6 +137,20 @@
     "url": "https://lu.ma/l0ungqyu",
     "coverImage": "https://images.lumacdn.com/event-covers/77/27e50d70-259f-43c0-9569-dd135104c559.jpg",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315876034",
+    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
+    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
+    "startDate": "2026-08-17T12:00:00-04:00",
+    "endDate": "2026-08-17T12:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/315876034/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/2/2/3/600_525981027.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -322,6 +266,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-iLObB6pv768ACUS",
+    "name": "A New Way Forward — R³ Group Bodywork Series: Part One",
+    "description": "",
+    "startDate": "2026-08-18T23:00:00.000Z",
+    "endDate": "2026-08-19T01:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/gix2uyni",
+    "coverImage": "https://images.lumacdn.com/uploads/es/5d8abaf7-79fd-4091-b330-02a9ad9e92d7.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-06TKCW5LoZhhHJq",
     "name": "The Pacific Innovation Corridor",
     "description": "",
@@ -406,6 +364,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-316022837",
+    "name": "CLARENDON Investment, Trade & Crypto Networking HourS",
+    "description": "Let us get together and plot to conquer the world!:)\n\n***GRAB A DRINK AND YOU ARE ALL SET TO FLEX YOUR LANGUAGE CAPACITY. YOU NEED TO GET AT LEAST A DRINK OR FOOD:) To get the event going and show sup",
+    "startDate": "2026-08-19T17:00:00-04:00",
+    "endDate": "2026-08-19T17:00:00-04:00",
+    "city": "Arlington",
+    "country": "us",
+    "location": "Arlington, us",
+    "url": "https://www.meetup.com/dc-investo/events/316022837/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/a/b/7/2/600_529243890.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-GBVD61nBbOep6h4",
     "name": "Pay It Forward: Alumni Edition",
     "description": "",
@@ -416,6 +388,20 @@
     "location": "Toronto, Canada",
     "url": "https://lu.ma/nxa08zzc",
     "coverImage": "https://images.lumacdn.com/uploads/aw/288df8df-a78d-4ba3-8d0a-d8068f281fa0.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-rXi4S66NUWmhFHj",
+    "name": "PMAI: Stronger Together - Find Your Co-Founder",
+    "description": "",
+    "startDate": "2026-08-19T22:00:00.000Z",
+    "endDate": "2026-08-20T00:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/pioneerai-t9u1",
+    "coverImage": "https://images.lumacdn.com/uploads/p0/40602cc6-1fc8-4f51-b7a3-57dffa685f31.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -459,6 +445,20 @@
     "url": "https://lu.ma/stca-montreal-dinner",
     "coverImage": "https://images.lumacdn.com/uploads/n0/08a69dd6-e7f7-40a9-87a0-1faa0c389bfc.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315913453",
+    "name": "Open Bitcoin Q&A chat!",
+    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* Bitcoin.rocks\n* Bitcoin-Only.com\n* Bitcoiner.Guide\n* The",
+    "startDate": "2026-08-19T20:00:00-04:00",
+    "endDate": "2026-08-19T20:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/philadelphia-bitcoin-club/events/315913453/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/4/3/1/600_508345649.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -644,6 +644,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-XZiEt7cfLTWjGve",
+    "name": "Vancouver VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-21T17:00:00.000Z",
+    "endDate": "2026-08-22T01:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/c4etqp43",
+    "coverImage": "https://images.lumacdn.com/event-covers/g7/e3cf8181-b6a3-4459-94ce-da3996d308f4.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-m6H81ov4I930SY5",
     "name": "MonkeDAO Montreal - 5th Anniversary 🍌🎂🍻",
     "description": "",
@@ -686,6 +700,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-klHNz8wcA03nv0k",
+    "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WARSZAWA",
+    "description": "",
+    "startDate": "2026-08-22T08:00:00.000Z",
+    "endDate": "2026-08-23T18:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/KursBlockchainWWA2",
+    "coverImage": "https://images.lumacdn.com/uploads/ge/66aea5b2-8e8c-49ac-8b55-857390fcd4f6.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-Suhqcj7fxKGinei",
     "name": "Bitcoin 101: Capitalism is IMPOSSIBLE when the money is corrupt",
     "description": "",
@@ -714,6 +742,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-J6FD5pFOxRSZgKx",
+    "name": "Bitcoin Block Party",
+    "description": "",
+    "startDate": "2026-08-23T19:00:00.000Z",
+    "endDate": "2026-08-24T03:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/ed63hjqz",
+    "coverImage": "https://images.lumacdn.com/uploads/e8/8012cbb9-3f74-436f-9c62-dfdded85bafe.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptography-and-information-security-",
     "name": "International Conference on Cryptography and Information Security (ICCIS)",
     "description": "",
@@ -728,6 +770,34 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-ylnMA4wkpeyDvYq",
+    "name": "Solana Startup Terminal 2.0",
+    "description": "Solana спільнота, де запускають web3 стартапи, отримують гранти та інвестиції, навчаються й заробляють у криптоекономіці.",
+    "startDate": "2026-08-24T17:00:00.000Z",
+    "endDate": "2026-11-02T19:00:00.000Z",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "location": "Kyiv, Ukraine",
+    "url": "https://lu.ma/solana-startup-terminal-2",
+    "coverImage": "https://images.lumacdn.com/uploads/u4/9b27ab0f-0212-46b4-a778-15112a3a7f55.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-tEl4FgUf8FyBhhc",
+    "name": "MONKEDAO turns 5!",
+    "description": "",
+    "startDate": "2026-08-24T20:00:00.000Z",
+    "endDate": "2026-08-24T23:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/riegwy4i",
+    "coverImage": "https://images.lumacdn.com/uploads/vh/9f13d407-b43d-4d7c-887c-0106eda46f56.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-2rkOdm0arGqYLvv",
     "name": "LA Founders Dinner w/ Verci, Patron, Rho, & Cake",
     "description": "",
@@ -739,6 +809,20 @@
     "url": "https://lu.ma/verci-3b5i",
     "coverImage": "https://images.lumacdn.com/uploads/8f/14cec0c6-b4cd-4334-8e2b-ceb40d0b6404.png",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315748481",
+    "name": "Medium Level (B-Group NFT 15): Tuesday Night Ride (TNR) - Arlington Triangloop",
+    "description": "**Tuesday Night Rides (TNR) B-Group Edition with Ryan, Dave, Bruce, Ronne, & Renee**\nAs you may have heard, our illustrious TNR leader Ryan is sporting a repaired knee and is in recovery mode. We are ",
+    "startDate": "2026-08-25T18:00:00-04:00",
+    "endDate": "2026-08-25T18:00:00-04:00",
+    "city": "Arlington",
+    "country": "us",
+    "location": "Arlington, us",
+    "url": "https://www.meetup.com/novacbg/events/315748481/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/d/e/4/600_534259940.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -798,16 +882,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990066",
+    "id": "mu-315989999",
     "name": "ZK Learning Group: Introduction to ZkSync",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-08-27T10:00:00-06:00",
-    "endDate": "2026-08-27T10:00:00-06:00",
+    "startDate": "2026-08-27T12:00:00-04:00",
+    "endDate": "2026-08-27T12:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-denver/events/315990066/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/a/6/600_535528838.jpeg",
+    "url": "https://www.meetup.com/lfdt-washington-dc/events/315989999/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/6/1/600_535528769.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -910,6 +994,20 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-312482404",
+    "name": "· Upside Down · by Juan Solanas ☼ online event",
+    "description": "The story concerns people on a bizarre pair of Earth-like planets that orbit each other in such close proximity that they nearly touch. Furthermore, the gravity of each planet only attracts objects fr",
+    "startDate": "2026-09-01T19:00:00-04:00",
+    "endDate": "2026-09-01T19:00:00-04:00",
+    "city": "Alexandria",
+    "country": "US",
+    "location": "Alexandria, US",
+    "url": "https://www.meetup.com/oddball-cinema/events/312482404/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/2/8/1/600_531848833.jpeg",
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-host-evt-YwoPTAjyTMltniB",
     "name": "Light Dao Salon: An Evening with Sarba Das, former Head of A24 & Media Res' Nonfiction divisions (Lisbon)",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
@@ -1005,6 +1103,20 @@
     "url": "https://unchainedsummit.com/dubai/",
     "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/08/unchianed-summit-dubai-2027-16x9-1.jpg",
     "source": "marketacross",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-315962971",
+    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
+    "description": "Network virtually with those located in the DMV (District of Columbia, Virginia & Maryland) and internationally!\n\nThis monthly Monday meeting is hosted by Maryland Blockchain Association, Blockchain L",
+    "startDate": "2026-09-07T19:00:00-04:00",
+    "endDate": "2026-09-07T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962971/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/a/f/600_527389071.jpeg",
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -1232,6 +1344,20 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-315360934",
+    "name": "The Future of Money, Governance, and the Law 2026 - Washington D.C.",
+    "description": "**The Future of Money, Governance, and the Law 2026** is a world-class event where innovation meets policy. **Together, we shape how AI, blockchain, and quantum computing are changing money, public in",
+    "startDate": "2026-09-29T09:00:00-04:00",
+    "endDate": "2026-09-29T09:00:00-04:00",
+    "city": "Washington",
+    "country": "us",
+    "location": "Washington, us",
+    "url": "https://www.meetup.com/government-blockchain-washington-dc/events/315360934/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/8/7/1/600_534862641.jpeg",
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-host-evt-Qm3jiCrG5WYct6j",
     "name": "Hyperliquid Forum by DAYS",
     "description": "The private, invite-only forum for traditional capital entering digital asset income markets.",
@@ -1451,7 +1577,7 @@
     "country": "Dominican Republic",
     "location": "Punta Cana, Dominican Republic, Dominican Republic",
     "url": "https://www.blockcon.co",
-    "coverImage": null,
+    "coverImage": "https://www.blockcon.co/og/blockcon-home.png",
     "source": "marketacross",
     "month": "November 2026"
   },
@@ -1624,31 +1750,17 @@
     "month": "June 2027"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-bitcoin-beyond-bb66-2026-august-bodo-no",
-    "name": "Bitcoin Beyond (BB66)",
+    "id": "luma-host-evt-UAThcS78mGFGAxP",
+    "name": "ETHGlobal Happy Hour Bali with APAC DAO",
     "description": "",
-    "startDate": "2027-08-14T00:00:00.000Z",
-    "endDate": "2027-08-14T00:00:00.000Z",
-    "city": "Bodø",
-    "country": "Norway",
-    "location": "Bodø, Norway",
-    "url": "https://conferenceindex.org/event/bitcoin-beyond-bb66-2026-august-bodo-no",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "August 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
-    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
-    "description": "",
-    "startDate": "2027-08-14T00:00:00.000Z",
-    "endDate": "2027-08-14T00:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-august-toronto-ca",
-    "coverImage": null,
-    "source": "conferenceindex",
+    "startDate": "2027-08-22T11:00:00.000Z",
+    "endDate": "2027-08-23T14:00:00.000Z",
+    "city": "Kabupaten Badung",
+    "country": "Indonesia",
+    "location": "Kabupaten Badung, Indonesia",
+    "url": "https://lu.ma/ethglobal-hh-bali",
+    "coverImage": "https://images.lumacdn.com/uploads/rk/b3ac6f11-91fa-4b26-9301-bb0ddd8670cf.png",
+    "source": "luma-trusted",
     "month": "August 2027"
   }
 ]
