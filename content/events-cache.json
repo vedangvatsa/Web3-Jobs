@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-evt-xyk7Av0kRX15rdx",
-    "name": "Silicon Impact - Business Edition",
-    "description": "",
-    "startDate": "2026-08-15T17:00:00.000Z",
-    "endDate": "2026-08-15T21:00:00.000Z",
-    "city": "Mountain View",
-    "country": "United States",
-    "location": "Mountain View, United States",
-    "url": "https://lu.ma/o0fvu2n7",
-    "coverImage": "https://images.lumacdn.com/uploads/po/75e93f98-7a4b-432b-a174-d5964e08a6c9.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-XFrkHDJF2MUNMeP",
     "name": "Founders & Fidos: Beach Walk + Connect",
     "description": "",
@@ -123,20 +109,6 @@
     "url": "https://lu.ma/l0ungqyu",
     "coverImage": "https://images.lumacdn.com/event-covers/77/27e50d70-259f-43c0-9569-dd135104c559.jpg",
     "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315876034",
-    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
-    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
-    "startDate": "2026-08-17T12:00:00-04:00",
-    "endDate": "2026-08-17T12:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/315876034/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/2/2/3/600_525981027.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -308,20 +280,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-314396576",
-    "name": "Capitol City Bitcoin meetup - virtual",
-    "description": "Let’s talk about bitcoin, crypto and what’s going on in South Carolina ! You must RSVP in advance to obtain the video link.\nThis will be scheduled on the third Tuesday of every month.",
-    "startDate": "2026-08-18T19:00:00-04:00",
-    "endDate": "2026-08-18T19:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396576/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/c/9/4/1/600_499671521.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-06TKCW5LoZhhHJq",
     "name": "The Pacific Innovation Corridor",
     "description": "",
@@ -462,6 +420,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-tkGmBugDWFdPmS8",
+    "name": "Jersey City Bitcoin: Monthly Socratic Seminar",
+    "description": "",
+    "startDate": "2026-08-19T23:00:00.000Z",
+    "endDate": "2026-08-20T00:30:00.000Z",
+    "city": "Jersey City",
+    "country": "United States",
+    "location": "Jersey City, United States",
+    "url": "https://lu.ma/gvp6fdgl",
+    "coverImage": "https://images.lumacdn.com/event-covers/2s/65c990dd-bf65-4adc-9d19-160e47d71959.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-89ZjD8F9hZbAAe0",
     "name": "Members' Dinner",
     "description": "Building the Solana ecosystem in Canada 🇨🇦",
@@ -476,30 +448,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316049651",
+    "id": "mu-316049641",
     "name": "Where will the wind take you next before the New Year?",
     "description": "Sometimes you don’t need another thing on your calendar.\nYou need **something to look forward to.**\nA little adventure to a new place\nA great meal of local foods\nA glass of wine made just down the roa",
-    "startDate": "2026-08-19T19:00:00-04:00",
-    "endDate": "2026-08-19T19:00:00-04:00",
+    "startDate": "2026-08-19T16:00:00-07:00",
+    "endDate": "2026-08-19T16:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/women-international-travel-meetup-group-raleigh/events/316049651/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/9/4/7/6/600_535658006.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315913453",
-    "name": "Open Bitcoin Q&A chat!",
-    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* Bitcoin.rocks\n* Bitcoin-Only.com\n* Bitcoiner.Guide\n* The",
-    "startDate": "2026-08-19T20:00:00-04:00",
-    "endDate": "2026-08-19T20:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/philadelphia-bitcoin-club/events/315913453/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/4/3/1/600_508345649.jpeg",
+    "url": "https://www.meetup.com/seattle-women-travel-explore-the-world-build-connections/events/316049641/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/9/4/8/0/600_535658016.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -714,6 +672,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-315286635",
+    "name": "Fabric Data Agent como servidor MCP: expón tus datos empresariales a cualquier L",
+    "description": "Esta sesión es el núcleo de la serie: aprenderás a convertir un Fabric Data Agent en un servidor MCP para que cualquier herramienta de IA externa — Claude, Copilot, agentes custom — pueda consultarlo ",
+    "startDate": "2026-08-21T08:00:00-07:00",
+    "endDate": "2026-08-21T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286635/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/e/f/8/600_534888888.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-XZiEt7cfLTWjGve",
     "name": "Vancouver VibeStation",
     "description": "Building the Solana ecosystem in Canada 🇨🇦",
@@ -868,34 +840,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315115532",
-    "name": "Context Is the New Foundation for AI-Ready Governance",
-    "description": "As organizations accelerate AI and analytics initiatives, one challenge keeps surfacing: enterprise data is only as useful as the context behind it.\n\nBusiness definitions, ownership, metadata, lineage",
-    "startDate": "2026-08-26T14:00:00-04:00",
-    "endDate": "2026-08-26T14:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/data-science-nc/events/315115532/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/1/7/2/600_535305426.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-310566378",
-    "name": "Culture Club – Cosmos: A Personal Journey, by Sagan & Druyan (1980; ep. 1–7)",
-    "description": "Our cultural work for August 2026 is the first seven episodes of the 1980 PBS miniseries *[Cosmos: A Personal Journey](https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage)*, by Carl Sagan, Ann Dru",
-    "startDate": "2026-08-26T19:00:00-04:00",
-    "endDate": "2026-08-26T19:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/triangleskeptics/events/310566378/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/f/8/6/600_535323974.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-calev-BxBgbXQtf7Gb4DG",
     "name": "ETH Belgrade [4]",
     "description": "",
@@ -952,16 +896,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990076",
+    "id": "mu-315990029",
     "name": "ZK Learning Group: Introduction to ZkSync",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-08-27T12:00:00-04:00",
-    "endDate": "2026-08-27T12:00:00-04:00",
+    "startDate": "2026-08-27T09:00:00-07:00",
+    "endDate": "2026-08-27T09:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-north-carolina/events/315990076/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/b/0/600_535528848.jpeg",
+    "url": "https://www.meetup.com/lfdt-seattle-chapter/events/315990029/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/8/0/600_535528800.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -980,6 +924,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-316021768",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-08-27T11:00:00-07:00",
+    "endDate": "2026-08-27T11:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/carpoolcrypto/events/316021768/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/f/f/6/600_535224566.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-7QmJchNnzKUraiJ",
     "name": "Skyline Coworking",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -991,6 +949,20 @@
     "url": "https://lu.ma/16mtw7jo",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315286686",
+    "name": "Real-Time Intelligence MCP: consulta datos en streaming con lenguaje natural",
+    "description": "Los datos en tiempo real son el próximo nivel.\n\nEn esta sesión conectaremos el servidor MCP de Real-Time Intelligence (RTI) de Fabric a un agente de IA para interactuar con Eventhouse y Azure Data Exp",
+    "startDate": "2026-08-28T08:00:00-07:00",
+    "endDate": "2026-08-28T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286686/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/3/1/600_534888945.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1033,20 +1005,6 @@
     "url": "https://lu.ma/summerhouse2026",
     "coverImage": "https://images.lumacdn.com/uploads/gh/e3046aaf-e7e2-459b-8a08-f4461192ef46.jpg",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-316071497",
-    "name": "Over Your Ex in a Weekend DAY 3: Redefine Love and Hope",
-    "description": "",
-    "startDate": "2026-08-30T12:00:00-04:00",
-    "endDate": "2026-08-30T12:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/activecharlotteans/events/316071497/",
-    "coverImage": "https://www.meetup.com/images/fallbacks/redesign/group-cover-5-wide.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -1173,20 +1131,6 @@
     "url": "https://unchainedsummit.com/dubai/",
     "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/08/unchianed-summit-dubai-2027-16x9-1.jpg",
     "source": "marketacross",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-315962971",
-    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
-    "description": "Network virtually with those located in the DMV (District of Columbia, Virginia & Maryland) and internationally!\n\nThis monthly Monday meeting is hosted by Maryland Blockchain Association, Blockchain L",
-    "startDate": "2026-09-07T19:00:00-04:00",
-    "endDate": "2026-09-07T19:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962971/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/a/f/600_527389071.jpeg",
-    "source": "meetup",
     "month": "September 2026"
   },
   {
