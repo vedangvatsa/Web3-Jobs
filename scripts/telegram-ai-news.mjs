@@ -166,7 +166,7 @@ async function fetchAllNews() {
 }
 
 // ── Gemini: filter + summarize ──
-const MODELS = ['gemini-2.5-flash-lite', 'gemini-2.5-flash'];
+const MODELS = ['gemini-2.0-flash', 'gemini-1.5-flash'];
 
 async function callGemini(prompt) {
   for (const model of MODELS) {
@@ -179,7 +179,7 @@ async function callGemini(prompt) {
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
               contents: [{ parts: [{ text: prompt }] }],
-              generationConfig: { temperature: 0.3, maxOutputTokens: 1024 },
+              generationConfig: { temperature: 0.3, maxOutputTokens: 2048 },
             }),
           }
         );
@@ -187,6 +187,7 @@ async function callGemini(prompt) {
         if (res.status === 503 || res.status === 429) {
           console.warn(`  ${model} unavailable (${res.status}), retrying...`);
           await new Promise(r => setTimeout(r, 3000));
+          if (attempt === 1) break;
           continue;
         }
 
@@ -196,7 +197,10 @@ async function callGemini(prompt) {
         }
 
         const data = await res.json();
-        const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+        const text = (data.candidates?.[0]?.content?.parts?.[0]?.text || '')
+          .replace(/^```json\s*/i, '')
+          .replace(/\s*```$/, '')
+          .trim();
         console.log(`  Using model: ${model}`);
         return text;
       } catch (e) {
@@ -389,63 +393,6 @@ async function postOnce() {
     seenIndices.add(idx);
     seenUrls.add(normUrl);
     stories.push(story);
-  }
-
-  // Dynamic Backfill Loop: if Gemini's returned selection is incomplete or had duplicates/errors
-  if (stories.length < STORIES_PER_POST) {
-    console.log(`⚠️ Gemini selection had duplicates/errors. Got ${stories.length}/${STORIES_PER_POST}. Backfilling...`);
-    for (let i = 0; i < fresh.length; i++) {
-      if (stories.length >= STORIES_PER_POST) break;
-      const idx = i + 1;
-      if (seenIndices.has(idx)) continue;
-
-      const item = fresh[i];
-      const normUrl = normalizeUrl(item.link);
-      if (seenUrls.has(normUrl)) continue;
-
-      console.log(`  Backfilling with story: ${item.title}`);
-      try {
-        const summaryPrompt = `Rewrite this AI news headline and snippet into a factual plain-English digest.
-Headline: ${item.title}
-Snippet: ${item.snippet}
-
-Write:
-- headline: factual, max 10 words, no hype.
-- summary: 1 sentence, max 20 words. Do not repeat the headline.
-
-BANNED WORDS: "signifies", "highlights", "underscores", "reshapes", "poised", "bolsters", "notably", "landscape", "paradigm", "innovative", "robust", "leveraging", "cutting-edge", "game-changer", "pivotal", "crucial", "essential", "transformative", "marks a", "reflects".
-
-Return ONLY JSON: {"headline": "...", "summary": "..."}`;
-        const sumText = await callGemini(summaryPrompt);
-        const jsonMatch = sumText.match(/\{[\s\S]*\}/);
-        if (jsonMatch) {
-          const parsed = JSON.parse(jsonMatch[0]);
-
-          // Programmatic check: prevent similarity with past headlines or currently selected ones
-          if (recentPostedHeadlines.some(h => isSimilar(parsed.headline + ' ' + parsed.summary, h, 0.35))) {
-            console.log(`⚠️ Pruned backfilled story due to similarity with past headline: "${parsed.headline}"`);
-            continue;
-          }
-          if (stories.some(s => isSimilar(parsed.headline + ' ' + parsed.summary, s.headline + ' ' + s.summary, 0.35))) {
-            console.log(`⚠️ Pruned backfilled story due to similarity with another selected headline: "${parsed.headline}"`);
-            continue;
-          }
-
-          stories.push({
-            index: idx,
-            headline: parsed.headline,
-            summary: parsed.summary,
-            link: item.link,
-            source: item.source,
-            originalTitle: item.title
-          });
-          seenIndices.add(idx);
-          seenUrls.add(normUrl);
-        }
-      } catch (e) {
-        console.warn(`  Failed to summarize backfill story: ${e.message}`);
-      }
-    }
   }
 
   console.log(`  Final validated ${stories.length} stories`);

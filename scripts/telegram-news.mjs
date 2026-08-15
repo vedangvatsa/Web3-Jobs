@@ -172,7 +172,7 @@ async function fetchAllNews() {
 }
 
 // ── Gemini: filter + summarize ──
-const MODELS = ['gemini-2.5-flash-lite', 'gemini-2.5-flash'];
+const MODELS = ['gemini-2.0-flash', 'gemini-1.5-flash'];
 
 async function callGemini(prompt) {
   for (const model of MODELS) {
@@ -185,7 +185,7 @@ async function callGemini(prompt) {
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
               contents: [{ parts: [{ text: prompt }] }],
-              generationConfig: { temperature: 0.3, maxOutputTokens: 1024 },
+              generationConfig: { temperature: 0.3, maxOutputTokens: 2048 },
             }),
           }
         );
@@ -193,6 +193,7 @@ async function callGemini(prompt) {
         if (res.status === 503 || res.status === 429) {
           console.warn(`  ⚠️ ${model} unavailable (${res.status}), retrying...`);
           await new Promise(r => setTimeout(r, 3000));
+          if (attempt === 1) break;
           continue;
         }
 
