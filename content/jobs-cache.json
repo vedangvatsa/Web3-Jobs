@@ -1,5 +1,125 @@
 [
   {
+    "id": "8082847",
+    "title": "Staff Engineer, Link Balance",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8082847",
+    "date": "2026-08-14T23:19:43-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8129139",
+    "title": "Engineering Manager, Digital Assets",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8129139?gh_jid=8129139",
+    "date": "2026-08-14T20:42:21-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "8129099",
+    "title": "Manager, AI Platform Engineering",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8129099?gh_jid=8129099",
+    "date": "2026-08-14T20:36:24-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "8131356",
+    "title": "Credit Risk Analyst",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356",
+    "date": "2026-08-14T19:57:07-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8131316",
+    "title": "Chief of Staff",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8131316?gh_jid=8131316",
+    "date": "2026-08-14T19:15:15-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "157bb000-868b-4a6d-9143-67619871812f",
+    "title": "Solutions Consultant, Public Sector",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/157bb000-868b-4a6d-9143-67619871812f",
+    "date": "2026-08-14T22:05:34.197+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "6144705004",
+    "title": "Senior Mechanical Engineer (Data Centers)",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6144705004",
+    "date": "2026-08-14T17:35:57-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "4721260005",
+    "title": "C++ Software Engineer (DV Commodities - London)",
+    "company": "DV Trading",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4721260005",
+    "date": "2026-08-14T17:26:40-04:00",
+    "source": "Greenhouse: DV Trading"
+  },
+  {
+    "id": "8131144",
+    "title": "Backend Engineer, Link",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8131144",
+    "date": "2026-08-14T17:10:19-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8125586",
+    "title": "Regional Security Manager, Americas",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8125586",
+    "date": "2026-08-14T17:10:01-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8112959",
+    "title": "Sales Manager, SMB (Hunter)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8112959",
+    "date": "2026-08-14T17:03:00-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "90020653",
+    "title": "Senior Enterprise Product Marketing Manager, Base",
+    "company": "Spindl",
+    "link": "https://boards.greenhouse.io/basejobs/jobs/8093154",
+    "date": "2026-08-14T20:47:11.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "90020603",
+    "title": "Start Up Operator",
+    "company": "PL Job Board",
+    "link": "https://jobs.dcg.co/companies/pl-job-board/jobs/90020603-start-up-operator",
+    "date": "2026-08-14T20:22:01.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "8097838",
+    "title": "Program Manager, Customer Success Efficiency and Scale",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8097838",
+    "date": "2026-08-14T16:19:27-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "0cf79980-4cb6-4001-8bea-635f3b22914f",
+    "title": "BDR, Manager",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/0cf79980-4cb6-4001-8bea-635f3b22914f",
+    "date": "2026-08-14T20:18:48.830+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
     "id": "8097597",
     "title": "Senior Data Science Manager, Algorithms",
     "company": "Robinhood",
@@ -22,6 +142,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8128499",
     "date": "2026-08-14T14:57:51-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "90020589",
+    "title": "Token Growth Lead",
+    "company": "Morph",
+    "link": "https://morph.network/careers/Ecosystem/Token%20Growth%20Lead%20(BGB)",
+    "date": "2026-08-14T18:54:15.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
   },
   {
     "id": "1ddd1eb8-9b2d-4f2a-9e70-4f76bb764e7f",
@@ -288,6 +416,14 @@
     "source": "Greenhouse: OKX"
   },
   {
+    "id": "89927022",
+    "title": "Senior Accountant, Financial Operations",
+    "company": "Solana Foundation",
+    "link": "https://jobs.ashbyhq.com/Solana%20Foundation/e9a5aba3-4b4d-4635-b26a-57b7d4591dfd",
+    "date": "2026-08-14T12:01:13.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
     "id": "89924615",
     "title": "Content Marketing Co-ordinator",
     "company": "Suade",
@@ -302,6 +438,14 @@
     "link": "https://boards.greenhouse.io/wavemm1/jobs/6141097004",
     "date": "2026-08-14T11:49:10.000Z",
     "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "89913052",
+    "title": "Business Economics Lead (Strategic Finance)",
+    "company": "Kast",
+    "link": "https://careers.kast.xyz/en/postings/8aade625-aa8e-422d-9d28-f775427ec4af",
+    "date": "2026-08-14T11:29:30.000Z",
+    "source": "https://jobs.solana.com/jobs"
   },
   {
     "id": "89907732",
@@ -17229,197 +17373,5 @@
     "link": "https://job-boards.greenhouse.io/falconx/jobs/4713572005",
     "date": "2026-07-16T01:27:14-04:00",
     "source": "Greenhouse: FalconX"
-  },
-  {
-    "id": "8068669",
-    "title": "Payment Performance Specialist",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8068669",
-    "date": "2026-07-15T23:48:19-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8068669",
-    "title": "Payment Performance Strategist (Greater China)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8068669",
-    "date": "2026-07-15T23:48:19-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8068669",
-    "title": "Payments Performance Strategist (Greater China)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8068669",
-    "date": "2026-07-15T23:48:19-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "0a03c5e3-4a06-4aa7-8c06-25a473ceeb33",
-    "title": "Product Manager, AI Agent & Harness",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/0a03c5e3-4a06-4aa7-8c06-25a473ceeb33",
-    "date": "2026-07-16T02:44:15.457Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "8066735",
-    "title": "Specialist Solutions Architect - Money Management",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8066735",
-    "date": "2026-07-15T22:20:03-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8066735",
-    "title": "Specialist Solutions Architect - Money Management (APAC and Greater China)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8066735",
-    "date": "2026-07-15T22:20:03-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "525de133-f40a-49f2-b6e1-d4091c8e9a01",
-    "title": "Assistant Manager, Global Account Payable",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/525de133-f40a-49f2-b6e1-d4091c8e9a01",
-    "date": "2026-07-16T02:14:03.280Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "4c1f8f31-9427-4d3b-a43a-66b8432264a7",
-    "title": "Assistant Accounting Manager, Payment",
-    "company": "Crypto",
-    "link": "https://jobs.lever.co/crypto/4c1f8f31-9427-4d3b-a43a-66b8432264a7",
-    "date": "2026-07-16T02:12:52.028Z",
-    "source": "Lever: Crypto"
-  },
-  {
-    "id": "8059299",
-    "title": "Head of Marketing, Southeast Asia",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8059299",
-    "date": "2026-07-15T21:41:40-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "dcffa749-a791-424e-b372-070113557c9f",
-    "title": "Account Executive - UK/EU",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/dcffa749-a791-424e-b372-070113557c9f",
-    "date": "2026-07-16T01:41:13.736+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "dcffa749-a791-424e-b372-070113557c9f",
-    "title": "Account Executive - EU & UK",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/dcffa749-a791-424e-b372-070113557c9f",
-    "date": "2026-07-16T01:41:13.736+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "dcffa749-a791-424e-b372-070113557c9f",
-    "title": "Enterprise Account Executive - EU & UK",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/dcffa749-a791-424e-b372-070113557c9f",
-    "date": "2026-07-16T01:41:13.736+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "7860377",
-    "title": "Technical Support Engineer",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7860377",
-    "date": "2026-07-15T19:53:04-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "7860377",
-    "title": "Technical Support Engineer, Metronome",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7860377",
-    "date": "2026-07-15T19:53:04-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8060703",
-    "title": "Senior Compensation Analyst",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8060703?t=gh_src=&gh_jid=8060703",
-    "date": "2026-07-15T19:11:08-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7839130",
-    "title": "Chief of Staff, Brokerage Product & Customer Care",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7839130?t=gh_src=&gh_jid=7839130",
-    "date": "2026-07-15T19:01:49-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7839130",
-    "title": "Chief of Staff, Brokerage Product",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7839130?t=gh_src=&gh_jid=7839130",
-    "date": "2026-07-15T19:01:49-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7806460003",
-    "title": "Senior/Staff Machine Learning Engineer",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7806460003",
-    "date": "2026-07-15T18:27:17-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7806460003",
-    "title": "Staff Machine Learning Engineer",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7806460003",
-    "date": "2026-07-15T18:27:17-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "16660699-5a97-42da-a8b7-9b91f81cf199",
-    "title": "Head of Product Design",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/16660699-5a97-42da-a8b7-9b91f81cf199",
-    "date": "2026-07-15T21:44:31.214+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "6117055004",
-    "title": "DevEx Pipeline Specialist",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6117055004",
-    "date": "2026-07-15T16:55:04-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "8065583",
-    "title": "Senior Associate, Trading Operations (Broker Dealer)",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8065583&gh_jid=8065583",
-    "date": "2026-07-15T16:53:25-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "8064929",
-    "title": "Manager, Compliance (Banking & Lending)",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8064929&gh_jid=8064929",
-    "date": "2026-07-15T16:53:15-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "8064702",
-    "title": "Account Manager, Privy",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8064702",
-    "date": "2026-07-15T16:50:35-04:00",
-    "source": "Greenhouse: Stripe"
   }
 ]
