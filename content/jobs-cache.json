@@ -1,5 +1,93 @@
 [
   {
+    "id": "7885503003",
+    "title": "Group Tax Director",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7885503003",
+    "date": "2026-08-17T07:36:39-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "90183268",
+    "title": "Sales Director, OTC",
+    "company": "Ripple",
+    "link": "https://boards.greenhouse.io/ripple/jobs/8128951",
+    "date": "2026-08-17T11:34:55.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "90183269",
+    "title": "Senior Software Engineer, Data Engineering",
+    "company": "Ripple",
+    "link": "https://boards.greenhouse.io/ripple/jobs/7872447",
+    "date": "2026-08-17T11:34:55.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "90175567",
+    "title": "Admin Lead",
+    "company": "Bybit",
+    "link": "https://boards.greenhouse.io/bybit/jobs/4908770101",
+    "date": "2026-08-17T10:38:53.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
+    "id": "90172236",
+    "title": "Product Operations Lead",
+    "company": "koodos",
+    "link": "https://koodos.notion.site/Product-Operations-Lead-350c87335a4e80fbb39be6289bb83822?pvs=25",
+    "date": "2026-08-17T09:30:51.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "90172238",
+    "title": "Android Craft Engineer (Part-time)",
+    "company": "koodos",
+    "link": "https://koodos.notion.site/Android-Craft-Engineer-Part-time-3bfc87335a4e8142ab98fbbf86f6d40a?pvs=25",
+    "date": "2026-08-17T09:30:51.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "90172235",
+    "title": "iOS Craft Engineer (Part-time)",
+    "company": "koodos",
+    "link": "https://koodos.notion.site/iOS-Craft-Engineer-Part-time-350c87335a4e800e8e23dc4ce38f8807?pvs=25",
+    "date": "2026-08-17T09:30:51.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "90172237",
+    "title": "Open roles",
+    "company": "koodos",
+    "link": "https://koodos.notion.site/Open-roles-3bec87335a4e819686e2dc4302562ce8?pvs=25",
+    "date": "2026-08-17T09:30:51.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "90172234",
+    "title": "Product Engineer (Backend)",
+    "company": "koodos",
+    "link": "https://koodos.notion.site/Product-Engineer-Backend-1e5c87335a4e8091a3c2dffdd6b1db30?pvs=25",
+    "date": "2026-08-17T09:30:50.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "90172233",
+    "title": "Product Engineer (Full-stack)",
+    "company": "koodos",
+    "link": "https://koodos.notion.site/Product-Engineer-Full-stack-86f74d467efc41cfafa71acadbbece8f?pvs=25",
+    "date": "2026-08-17T09:30:50.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "8131132",
+    "title": "F&S COE Manager",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8131132",
+    "date": "2026-08-17T01:26:41-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "8030786",
     "title": "Staff Software Engineer, Data Engineering",
     "company": "Ripple",
@@ -1224,6 +1312,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "367dd077-3ce8-4b7b-bc9f-1726f49ffbce",
+    "title": "Executive - IT Support",
+    "company": "Zeta",
+    "link": "https://jobs.lever.co/zeta/367dd077-3ce8-4b7b-bc9f-1726f49ffbce",
+    "date": "2026-08-13T14:03:45.870Z",
+    "source": "Lever: Zeta"
+  },
+  {
     "id": "8121419",
     "title": "Account Executive, Funded Startups — Hunter, Italy",
     "company": "Stripe",
@@ -2416,6 +2512,14 @@
     "source": "Lever: MoonPay"
   },
   {
+    "id": "48ec667e-9cfb-415f-9228-7bbd3049f000",
+    "title": "Senior Blockchain Platform Engineer",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/48ec667e-9cfb-415f-9228-7bbd3049f000",
+    "date": "2026-08-12T08:33:50.281Z",
+    "source": "Lever: MoonPay"
+  },
+  {
     "id": "92719176-f089-4541-9e17-05acbece23ce",
     "title": "Business Operations & Strategy Lead",
     "company": "MoonPay",
@@ -2474,6 +2578,14 @@
   {
     "id": "bf52ce08-27ca-41c8-9b32-d53399d8b08d",
     "title": "Product Counsel",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/bf52ce08-27ca-41c8-9b32-d53399d8b08d",
+    "date": "2026-08-12T00:58:48.158Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "bf52ce08-27ca-41c8-9b32-d53399d8b08d",
+    "title": "Product Counsel – Equities & Tokenized Securities",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/bf52ce08-27ca-41c8-9b32-d53399d8b08d",
     "date": "2026-08-12T00:58:48.158Z",
@@ -16381,53 +16493,5 @@
     "link": "https://jobs.ashbyhq.com/Sui%20Foundation/e606131b-a4d4-45ad-b773-aff4da7f6ad1",
     "date": "2026-07-18T12:16:01.000Z",
     "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "86764871",
-    "title": "COO, Head of Operations (PCF-42), Payward Ireland Ltd",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/dd26f2c8-502f-48f5-a34b-09bdd3d32ab3",
-    "date": "2026-07-18T11:33:16.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "86764872",
-    "title": "Head of Compliance (PCF-12), Payward Europe Solutions Ltd",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/b22e9c81-a843-49c8-b660-4969e14bf673",
-    "date": "2026-07-18T11:33:16.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "86764874",
-    "title": "Compliance Monitoring Officer, Payward Europe Solutions Ltd",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/026130b9-40b0-4222-bae7-2b632bb37623",
-    "date": "2026-07-18T11:33:16.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "86764870",
-    "title": "Head of AML & CTF (PCF-52), Payward Europe Solutions Ltd",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/dd4af42b-e37b-41bd-a9f3-9b8c9333a80a",
-    "date": "2026-07-18T11:33:15.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "86758850",
-    "title": "Growth Marketing Lead",
-    "company": "CoinTracker",
-    "link": "https://jobs.ashbyhq.com/cointracker/d8e5ae8d-b4db-4844-a78c-1799ee95fdeb",
-    "date": "2026-07-18T11:19:29.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "86756253",
-    "title": "Senior Engineering Manager, Fortary Platform",
-    "company": "Ava Labs",
-    "link": "https://jobs.ashbyhq.com/ava-labs/f57707fb-9826-4491-8df6-b8a3f94c5b30",
-    "date": "2026-07-18T11:15:18.000Z",
-    "source": "https://jobs.polychain.capital/jobs"
   }
 ]
