@@ -1,5 +1,29 @@
 [
   {
+    "id": "8030786",
+    "title": "Staff Software Engineer, Data Engineering",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8030786?gh_jid=8030786",
+    "date": "2026-08-16T22:39:30-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7883324003",
+    "title": "Manager, Customer Service (Escalation & Trading Services, Mandarin Support)",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7883324003",
+    "date": "2026-08-16T21:51:47-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "ae3d6863-aa22-4f06-8067-6b509e0b3513",
+    "title": "Lead Product Designer, Growth",
+    "company": "Magic Eden",
+    "link": "https://jobs.ashbyhq.com/MagicEden/ae3d6863-aa22-4f06-8067-6b509e0b3513",
+    "date": "2026-08-16T21:41:22.598+00:00",
+    "source": "Ashby: Magic Eden"
+  },
+  {
     "id": "619d95e3-6f53-4754-9c76-7607603bbbfc",
     "title": "DeFi Market Surveillance Analyst, Global Intelligence & Investigations",
     "company": "Polymarket",
@@ -16405,85 +16429,5 @@
     "link": "https://jobs.ashbyhq.com/ava-labs/f57707fb-9826-4491-8df6-b8a3f94c5b30",
     "date": "2026-07-18T11:15:18.000Z",
     "source": "https://jobs.polychain.capital/jobs"
-  },
-  {
-    "id": "bcad338a-4478-409f-a680-b3f7cbb11076",
-    "title": "Senior Manager of Business Systems",
-    "company": "Jane",
-    "link": "https://jobs.ashbyhq.com/jane/bcad338a-4478-409f-a680-b3f7cbb11076",
-    "date": "2026-07-17T22:32:32.736+00:00",
-    "source": "Ashby: Jane"
-  },
-  {
-    "id": "8ef62781-968f-4bdd-81c5-c7a16fd167a7",
-    "title": "Director of Engineering - Booking Group",
-    "company": "Jane",
-    "link": "https://jobs.ashbyhq.com/jane/8ef62781-968f-4bdd-81c5-c7a16fd167a7",
-    "date": "2026-07-17T22:08:11.562+00:00",
-    "source": "Ashby: Jane"
-  },
-  {
-    "id": "8065918",
-    "title": "Solution Consulting Principal",
-    "company": "Guild",
-    "link": "https://www.guild.com/open-positions-at-guild?gh_jid=8065918",
-    "date": "2026-07-17T17:08:40-04:00",
-    "source": "Greenhouse: Guild"
-  },
-  {
-    "id": "1e8c726b-80ff-48a4-bf67-bd29c66c48ff",
-    "title": "Executive Operations Lead",
-    "company": "Lens Protocol",
-    "link": "https://jobs.ashbyhq.com/Lens/1e8c726b-80ff-48a4-bf67-bd29c66c48ff",
-    "date": "2026-07-17T20:47:26.860+00:00",
-    "source": "Ashby: Lens Protocol"
-  },
-  {
-    "id": "f509f586-c45d-4c66-8ad1-a09527ab3b03",
-    "title": "Member of Protocols - Client Success & Operations Manager, Token Vesting",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.lever.co/anchorage/f509f586-c45d-4c66-8ad1-a09527ab3b03",
-    "date": "2026-07-17T20:33:31.091Z",
-    "source": "Lever: Anchorage Digital"
-  },
-  {
-    "id": "8072662",
-    "title": "Senior Software Engineer, Trading Systems (Mobile)",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8072662&gh_jid=8072662",
-    "date": "2026-07-17T16:25:49-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "8069411",
-    "title": "Senior Software Engineer, Money",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8069411&gh_jid=8069411",
-    "date": "2026-07-17T16:24:20-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "63f9b76c-0df0-49c1-b6a6-7147a52ccfc4",
-    "title": "Staff Engineer - Fraud Prevention",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/63f9b76c-0df0-49c1-b6a6-7147a52ccfc4",
-    "date": "2026-07-17T20:17:13.383+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "73255d78-7e06-4e53-b959-dc5fde29d598",
-    "title": "Senior Sales Recruiter",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/73255d78-7e06-4e53-b959-dc5fde29d598",
-    "date": "2026-07-17T19:47:53.217+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "6ca99633-14be-4323-a096-e948c9cc2717",
-    "title": "Senior Sales Recruiter – National Security",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/6ca99633-14be-4323-a096-e948c9cc2717",
-    "date": "2026-07-17T19:47:35.982+00:00",
-    "source": "Ashby: TRM Labs"
   }
 ]
