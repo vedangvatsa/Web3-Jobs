@@ -37,7 +37,7 @@
     "country": "United Kingdom",
     "location": "London, United Kingdom",
     "url": "https://lu.ma/fev8b5tk",
-    "coverImage": "https://images.lumacdn.com/uploads/aq/ec00415b-757e-4996-8bf4-7f321c34ba62.png",
+    "coverImage": "https://images.lumacdn.com/uploads/nn/16980efd-3a55-4ef3-879e-2b9b865fe78c.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -67,20 +67,6 @@
     "url": "https://lu.ma/aivalley-tdlu",
     "coverImage": "https://images.lumacdn.com/uploads/um/9495fcc4-e2b6-4914-b3fc-43f971f7d893.png",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-xdzRCPDhA2Tj2QU",
-    "name": "Superteam India Coworking Days (BOM)",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-08-18T05:30:00.000Z",
-    "endDate": "2026-08-18T13:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://lu.ma/IRL-coworking",
-    "coverImage": "https://images.lumacdn.com/uploads/dt/3ff61f23-0ca8-44f7-9588-47b7a9494abd.png",
-    "source": "luma-trusted",
     "month": "August 2026"
   },
   {
@@ -122,20 +108,6 @@
     "location": "Sydney, Australia",
     "url": "https://lu.ma/fdl5w5ht",
     "coverImage": "https://images.lumacdn.com/uploads/xt/950ae209-60b6-40f7-8140-1c4cd81d4ab7.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-n41e2dttG68htB5",
-    "name": "Workshops - Superteam India",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-08-18T12:30:00.000Z",
-    "endDate": "2026-08-18T13:15:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/superteamin-workshop",
-    "coverImage": "https://images.lumacdn.com/uploads/ld/76414ca4-20e3-4454-9d09-fedb0c68af20.png",
     "source": "luma-trusted",
     "month": "August 2026"
   },
@@ -238,6 +210,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-xdzRCPDhA2Tj2QU",
+    "name": "Superteam India Coworking Days (BOM)",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-08-19T05:30:00.000Z",
+    "endDate": "2026-08-19T13:00:00.000Z",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "url": "https://lu.ma/IRL-coworking",
+    "coverImage": "https://images.lumacdn.com/uploads/dt/3ff61f23-0ca8-44f7-9588-47b7a9494abd.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-uecQ8UqyN5yTnFB",
     "name": "Superteam Poland Co-work: Kraków",
     "description": "",
@@ -263,6 +249,20 @@
     "url": "https://lu.ma/6xhst8d8",
     "coverImage": "https://images.lumacdn.com/uploads/rk/0d82900b-c543-4433-9d05-bca9d073e461.png",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-AAD7ak1LoMZDnn2",
+    "name": "Solana Study Session #2｜量子コンピュータに対するSolanaの方向性",
+    "description": "Superteam Japanはソラナ上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。🇯🇵 \nhttps://discord.gg/stjp",
+    "startDate": "2026-08-19T11:30:00.000Z",
+    "endDate": "2026-08-19T12:00:00.000Z",
+    "city": "Tokyo",
+    "country": "Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://lu.ma/SolanaQuantum-StudySession",
+    "coverImage": "https://images.lumacdn.com/uploads/kz/ea36393b-e2a6-42e6-8b29-a8023f800e85.png",
+    "source": "luma-trusted",
     "month": "August 2026"
   },
   {
@@ -434,6 +434,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-316076723",
+    "name": "PHX🎙️TALKS",
+    "description": "**The Autonomous Testing Myth: Why You Don’t Need a Unicorn to Achieve \"Mythos-Level\" Results**\n\n\"Mythos\" has become the industry buzzword for the \"unicorn\" of autonomous testing—a self-healing, self-",
+    "startDate": "2026-08-20T12:00:00-07:00",
+    "endDate": "2026-08-20T12:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/codephx/events/316076723/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/e/9/b/a/600_535619834.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-6FSu5O9Phu5FM2a",
     "name": "SheFi Chicago: Women in Web3 Celebration ✨",
     "description": "",
@@ -518,6 +532,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-315929509",
+    "name": "Crypto talk - Money is Freedom; currency is slavery ",
+    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
+    "startDate": "2026-08-20T19:00:00-07:00",
+    "endDate": "2026-08-20T19:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cashflow-271/events/315929509/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/c/2/600_501417026.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-ZPgtzCLnyO5Gpin",
     "name": "DFlow × Superteam Thailand: Build What Happens After the Swap Session 2",
     "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
@@ -542,6 +570,20 @@
     "location": "Beograd, Serbia",
     "url": "https://lu.ma/coworking-fridays-belgrade",
     "coverImage": "https://images.lumacdn.com/event-covers/97/7daf8a9d-64e6-4135-9959-37de003af068.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-DgFnMIkANxC36XD",
+    "name": "Co-Working Fridays Berlin",
+    "description": "Superteam Germany is here to support your journey in the Solana ecosystem. Our events are the perfect place to learn, network, and find opportunities.",
+    "startDate": "2026-08-21T08:00:00.000Z",
+    "endDate": "2026-08-21T16:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/oe5xs61o",
+    "coverImage": "https://images.lumacdn.com/event-covers/vg/179a8e91-d8a7-4f24-9e33-79df8933018c.jpg",
     "source": "luma-trusted",
     "month": "August 2026"
   },
@@ -672,17 +714,17 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-host-evt-klHNz8wcA03nv0k",
-    "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WARSZAWA",
-    "description": "",
-    "startDate": "2026-08-22T08:00:00.000Z",
-    "endDate": "2026-08-23T18:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/KursBlockchainWWA2",
-    "coverImage": "https://images.lumacdn.com/uploads/ge/66aea5b2-8e8c-49ac-8b55-857390fcd4f6.png",
-    "source": "luma-trusted",
+    "id": "mu-316135471",
+    "name": "Cosmic Clair Astrology",
+    "description": "**We are in unprecedented times astrologically - come see what that means for you. Prices per appointment start at $25 for 20 minutes, $40 for 30 minutes and discounts going forward for longer session",
+    "startDate": "2026-08-21T17:00:00-07:00",
+    "endDate": "2026-08-21T17:00:00-07:00",
+    "city": "Chandler",
+    "country": "US",
+    "location": "Chandler, US",
+    "url": "https://www.meetup.com/rock-your-world-metaphysical-group/events/316135471/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/c/5/0/f/600_535490447.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -714,6 +756,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-316074097",
+    "name": "Community Day hangout",
+    "description": "This event is a good way to meet and greet, hangout, chat with others. Limited space to try to keep things more manageable and personable. The hope is to make this a more common event going forward.\n\n",
+    "startDate": "2026-08-22T16:00:00-07:00",
+    "endDate": "2026-08-22T16:00:00-07:00",
+    "city": "Chandler",
+    "country": "us",
+    "location": "Chandler, us",
+    "url": "https://www.meetup.com/move-towards-your-best-life/events/316074097/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/6/1/a/600_522354810.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-J6FD5pFOxRSZgKx",
     "name": "Bitcoin Block Party",
     "description": "",
@@ -725,20 +781,6 @@
     "url": "https://lu.ma/ed63hjqz",
     "coverImage": "https://images.lumacdn.com/uploads/e8/8012cbb9-3f74-436f-9c62-dfdded85bafe.jpg",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-ylnMA4wkpeyDvYq",
-    "name": "Solana Startup Terminal 2.0",
-    "description": "Solana спільнота, де запускають web3 стартапи, отримують гранти та інвестиції, навчаються й заробляють у криптоекономіці.",
-    "startDate": "2026-08-24T17:00:00.000Z",
-    "endDate": "2026-11-02T19:00:00.000Z",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "location": "Kyiv, Ukraine",
-    "url": "https://lu.ma/solana-startup-terminal-2",
-    "coverImage": "https://images.lumacdn.com/uploads/u4/9b27ab0f-0212-46b4-a778-15112a3a7f55.png",
-    "source": "luma-trusted",
     "month": "August 2026"
   },
   {
@@ -854,16 +896,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990066",
+    "id": "mu-315990056",
     "name": "ZK Learning Group: Introduction to ZkSync",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-08-27T10:00:00-06:00",
-    "endDate": "2026-08-27T10:00:00-06:00",
+    "startDate": "2026-08-27T09:00:00-07:00",
+    "endDate": "2026-08-27T09:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-denver/events/315990066/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/a/6/600_535528838.jpeg",
+    "url": "https://www.meetup.com/lfdt-phoenix/events/315990056/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/9/b/600_535528827.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -879,6 +921,34 @@
     "url": "https://lu.ma/dg71hsm4",
     "coverImage": "https://images.lumacdn.com/uploads/3x/fccea97f-733e-4b6b-89ec-25d97479ff38.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316021772",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-08-27T11:00:00-07:00",
+    "endDate": "2026-08-27T11:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/316021772/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/e/d/2/600_535224274.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316025624",
+    "name": "Artificial Intelligence and Blockchain Discussion",
+    "description": "Join us for an engaging discussion on the latest advancements in Artificial Intelligence and Blockchain technology. Our event will cover topics such as Machine Learning, Ethereum, Smart Contracts, and",
+    "startDate": "2026-08-27T16:00:00-07:00",
+    "endDate": "2026-08-27T16:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/ai-blockchain-more-tech/events/316025624/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/e/2/7/600_521728199.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
