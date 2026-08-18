@@ -1,11 +1,171 @@
 [
   {
+    "id": "01b8f45c-cb9b-4255-ad2d-c9ac1e5c4b2f",
+    "title": "Media Software Engineer, Speech (Senior-Staff Levels)",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/01b8f45c-cb9b-4255-ad2d-c9ac1e5c4b2f",
+    "date": "2026-08-18T19:27:10.808+00:00",
+    "source": "Ashby: Cantina"
+  },
+  {
+    "id": "8139998",
+    "title": "Product Analytics - Developer Experience, Bridge",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8139998",
+    "date": "2026-08-18T15:01:07-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "cc8954f3-fd1f-4332-a6b0-822fe8e6bc6f",
+    "title": "Blockchain Intelligence Analyst, Ransomware",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/cc8954f3-fd1f-4332-a6b0-822fe8e6bc6f",
+    "date": "2026-08-18T18:58:24.042+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "90366766",
+    "title": "Founding Backend Engineer",
+    "company": "Arcade",
+    "link": "https://jobs.solana.com/companies/arcade-2/jobs/90366766-founding-backend-engineer",
+    "date": "2026-08-18T18:49:40.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "90366765",
+    "title": "Founding Mobile (RN) Engineer",
+    "company": "Arcade",
+    "link": "https://jobs.solana.com/companies/arcade-2/jobs/90366765-founding-mobile-rn-engineer",
+    "date": "2026-08-18T18:48:35.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "2714626",
+    "title": "Frontend Software Engineer (100% Remote)",
+    "company": "Tether",
+    "link": "https://careers.tether.io/o/frontend-software-engineer-100-remote-17",
+    "date": "2026-08-18 18:33:13 UTC",
+    "source": "Recruitee: Tether"
+  },
+  {
+    "id": "8120094",
+    "title": "Software Engineer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8120094?t=gh_src=&gh_jid=8120094",
+    "date": "2026-08-18T14:25:23-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "54122c9f-f0fb-4ef9-9226-f3bea247502a",
+    "title": "Customer Marketing Analyst",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/54122c9f-f0fb-4ef9-9226-f3bea247502a",
+    "date": "2026-08-18T18:22:55.199+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "6144764004",
+    "title": "Head of Content & Media",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6144764004",
+    "date": "2026-08-18T13:33:03-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "6144762004",
+    "title": "Product Manager, Clearing Systems",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6144762004",
+    "date": "2026-08-18T13:27:56-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "6144763004",
+    "title": "Project Manager",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6144763004",
+    "date": "2026-08-18T13:26:18-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "8125789",
+    "title": "Trading Specialist",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8125789?t=gh_src=&gh_jid=8125789",
+    "date": "2026-08-18T13:24:22-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "1fb1c183-b49f-42b2-9e41-3c58dbc65cd5",
+    "title": "Senior Risk Analyst",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/1fb1c183-b49f-42b2-9e41-3c58dbc65cd5",
+    "date": "2026-08-18T17:12:28.313+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "8128738",
+    "title": "Customer Experience Associate, Pathways - New Graduates",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8128738?t=gh_src=&gh_jid=8128738",
+    "date": "2026-08-18T12:27:30-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "097dae48-1b48-47a7-9f61-f0010e2022e7",
+    "title": "Chief Control Officer",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/097dae48-1b48-47a7-9f61-f0010e2022e7",
+    "date": "2026-08-18T16:22:05.303Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "8132616",
+    "title": "Senior Software Engineer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8132616?t=gh_src=&gh_jid=8132616",
+    "date": "2026-08-18T12:14:40-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "8112456",
+    "title": "Strategic Program Manager, Support",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8112456",
+    "date": "2026-08-18T11:28:14-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4703919006",
+    "title": "VP Product Marketing",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4703919006",
+    "date": "2026-08-18T11:07:29-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "8138302",
+    "title": "Manager, Risk Operations Technology Programs",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8138302",
+    "date": "2026-08-18T10:49:23-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "440606b5-1923-4f9d-a0ed-c126445b9477",
     "title": "Channel Partner Manager | Accounting",
     "company": "Ramp",
     "link": "https://jobs.ashbyhq.com/ramp/440606b5-1923-4f9d-a0ed-c126445b9477",
     "date": "2026-08-18T14:26:06.075+00:00",
     "source": "Ashby: Ramp"
+  },
+  {
+    "id": "90338819",
+    "title": "NOCIsrael",
+    "company": "WAVE",
+    "link": "https://il.linkedin.com/jobs/view/noc%0Aisrael-at-wavebl-4443917908",
+    "date": "2026-08-18T14:01:37.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
   },
   {
     "id": "077388d7-385f-46e2-b7f0-e870deecd707",
@@ -520,6 +680,14 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "8121223",
+    "title": "Partner Development Manager- Platforms",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8121223",
+    "date": "2026-08-17T10:24:40-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "8131776",
     "title": "Experienced Quantitative Researcher",
     "company": "Flow Traders",
@@ -722,6 +890,14 @@
   {
     "id": "619d95e3-6f53-4754-9c76-7607603bbbfc",
     "title": "DeFi Market Surveillance Analyst, Global Intelligence & Investigations",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/619d95e3-6f53-4754-9c76-7607603bbbfc",
+    "date": "2026-08-16T19:39:38.031+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "619d95e3-6f53-4754-9c76-7607603bbbfc",
+    "title": "DeFi Market Surveillance Analyst",
     "company": "Polymarket",
     "link": "https://jobs.ashbyhq.com/Polymarket/619d95e3-6f53-4754-9c76-7607603bbbfc",
     "date": "2026-08-16T19:39:38.031+00:00",
@@ -10650,6 +10826,14 @@
   {
     "id": "4716257005",
     "title": "Credit Risk Analyst",
+    "company": "DV Trading",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4716257005",
+    "date": "2026-07-29T11:49:21-04:00",
+    "source": "Greenhouse: DV Trading"
+  },
+  {
+    "id": "4716257005",
+    "title": "Credit Risk Manager",
     "company": "DV Trading",
     "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4716257005",
     "date": "2026-07-29T11:49:21-04:00",
