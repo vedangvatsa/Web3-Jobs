@@ -1,5 +1,85 @@
 [
   {
+    "id": "02dca29b-b1cb-489e-a50d-749de57b5a86",
+    "title": "Senior Associate, Financial and Management Reporting",
+    "company": "Crypto",
+    "link": "https://jobs.lever.co/crypto/02dca29b-b1cb-489e-a50d-749de57b5a86",
+    "date": "2026-08-18T03:20:38.497Z",
+    "source": "Lever: Crypto"
+  },
+  {
+    "id": "b88a5ea5-fb24-4e42-b567-072bf14a14ba",
+    "title": "Sales Engineer, EMEA",
+    "company": "Socket",
+    "link": "https://jobs.ashbyhq.com/Socket/b88a5ea5-fb24-4e42-b567-072bf14a14ba",
+    "date": "2026-08-18T00:07:07.134+00:00",
+    "source": "Ashby: Socket"
+  },
+  {
+    "id": "bf7e55d0-910c-4376-9bb2-cc9c21b87599",
+    "title": "Strategic Finance Lead, AI Infrastructure & R&D",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/bf7e55d0-910c-4376-9bb2-cc9c21b87599",
+    "date": "2026-08-17T23:24:17.357+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "ed2442dd-9c74-4012-a361-cc8b4aad6c4b",
+    "title": "B2B Social Marketing Specialist",
+    "company": "Safe",
+    "link": "https://jobs.ashbyhq.com/Safe/ed2442dd-9c74-4012-a361-cc8b4aad6c4b",
+    "date": "2026-08-17T23:20:09.170+00:00",
+    "source": "Ashby: Safe"
+  },
+  {
+    "id": "8138031",
+    "title": "Engineering Manager - Platform (FinHub - Financial Intelligence)",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8138031?gh_jid=8138031",
+    "date": "2026-08-17T18:49:48-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "fead0b21-3b6f-405e-9e19-569e62ff28cf",
+    "title": "Social Media Intern",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/fead0b21-3b6f-405e-9e19-569e62ff28cf",
+    "date": "2026-08-17T21:45:31.965+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "8120681",
+    "title": "Data Solutions & Validation Sr. Specialist",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8120681?t=gh_src=&gh_jid=8120681",
+    "date": "2026-08-17T17:12:12-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "8721530002",
+    "title": "Derivatives Trader, NYC",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8721530002",
+    "date": "2026-08-17T16:43:22-04:00",
+    "source": "Greenhouse: BitGo"
+  },
+  {
+    "id": "8127890",
+    "title": "Program Manager, Performance and Talent Planning",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8127890",
+    "date": "2026-08-17T16:37:29-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8125729",
+    "title": "Sales Manager, Funded Startups",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8125729",
+    "date": "2026-08-17T16:26:56-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "8128772",
     "title": "Account Executive, SMB (Grower)",
     "company": "Stripe",
@@ -54,6 +134,14 @@
     "link": "https://jobs.ashbyhq.com/trm-labs/3a658a20-8030-4c40-8182-04634af7c9a8",
     "date": "2026-08-17T17:35:26.032+00:00",
     "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "18fce834-8f97-4b96-964f-587d0e609127",
+    "title": "Executive Assistant",
+    "company": "Offchain Labs",
+    "link": "https://jobs.lever.co/offchainlabs/18fce834-8f97-4b96-964f-587d0e609127",
+    "date": "2026-08-17T17:29:02.269Z",
+    "source": "Lever: Offchain Labs"
   },
   {
     "id": "8112801",
@@ -118,6 +206,14 @@
     "link": "https://job-boards.greenhouse.io/alpaca/jobs/6144761004",
     "date": "2026-08-17T11:10:04-04:00",
     "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "64713963-f206-4e04-a43a-1e4624eec88d",
+    "title": "Payment Director, Kazakhstan",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/64713963-f206-4e04-a43a-1e4624eec88d",
+    "date": "2026-08-17T14:59:51.210Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "ad15d681-71b3-4e60-8eb3-79de77c11aeb",
@@ -858,6 +954,14 @@
   {
     "id": "8126861",
     "title": "Senior Staff Technical Program Manager",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8126861?gh_jid=8126861",
+    "date": "2026-08-14T11:50:02-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "8126861",
+    "title": "Senior Staff Technical Program Manager, Information Security",
     "company": "Ripple",
     "link": "https://ripple.com/careers/all-jobs/job/8126861?gh_jid=8126861",
     "date": "2026-08-14T11:50:02-04:00",
@@ -15373,6 +15477,14 @@
     "link": "https://www.coinbase.com/careers/positions/8051871?gh_jid=8051871",
     "date": "2026-07-21T14:04:21-04:00",
     "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "7810146003",
+    "title": "Workplace IT Specialist",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7810146003",
+    "date": "2026-07-21T13:31:56-04:00",
+    "source": "Greenhouse: OKX"
   },
   {
     "id": "8641377002",
