@@ -1,47 +1,5 @@
 [
   {
-    "id": "luma-host-evt-GfAyy3XaAVPI0G0",
-    "name": "Superteam Co-Working BKK with Meteora",
-    "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
-    "startDate": "2026-08-18T06:30:00.000Z",
-    "endDate": "2026-08-18T12:00:00.000Z",
-    "city": "Bangkok",
-    "country": "Thailand",
-    "location": "Bangkok, Thailand",
-    "url": "https://lu.ma/nzury1e5",
-    "coverImage": "https://images.lumacdn.com/uploads/kp/33c0d625-0434-4855-a7fb-5661dd838e6a.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-BGxczCx4h93qWAD",
-    "name": "Forward Deployed: Applied AI with Nick Carmont",
-    "description": "",
-    "startDate": "2026-08-18T07:00:00.000Z",
-    "endDate": "2026-08-18T09:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/2izjug7u",
-    "coverImage": "https://images.lumacdn.com/uploads/9z/5122f692-9087-4d1d-8b8a-f2a94898a2da.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-pezYqIuBr7JI417",
-    "name": "Superteam AU Sydney Members Meet-up",
-    "description": "",
-    "startDate": "2026-08-18T08:00:00.000Z",
-    "endDate": "2026-08-18T09:00:00.000Z",
-    "city": "Sydney",
-    "country": "Australia",
-    "location": "Sydney, Australia",
-    "url": "https://lu.ma/fdl5w5ht",
-    "coverImage": "https://images.lumacdn.com/uploads/xt/950ae209-60b6-40f7-8140-1c4cd81d4ab7.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-D5G1sw29x4W3JHa",
     "name": "From Frontier Research to Global Impact: Hon Hai Research Institute in Silicon Valley",
     "description": "",
@@ -137,6 +95,20 @@
     "url": "https://lu.ma/t85xsndz",
     "coverImage": "https://images.lumacdn.com/uploads/50/968a9f99-1495-43e9-b4f8-094a43c6be50.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315938447",
+    "name": "Make New Friends Bowling @ Big Al's 🎳",
+    "description": "**At a Glance**\n📍 **Location:** Big Al’s Silicon Valley\n27 Ranch Drive, Milpitas, CA 95035\n🕡 **Meet-up time:** 7pm\n🎳 **Bowling duration:** Approximately 2 hours lane reservation\n💵 **Estimated bowl",
+    "startDate": "2026-08-18T19:00:00-07:00",
+    "endDate": "2026-08-18T19:00:00-07:00",
+    "city": "Milpitas",
+    "country": "US",
+    "location": "Milpitas, US",
+    "url": "https://www.meetup.com/the-east-bay-boba-and-food-enthusiasts/events/315938447/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/5/7/0/600_535470064.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -322,16 +294,44 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316076723",
-    "name": "PHX🎙️TALKS",
-    "description": "**The Autonomous Testing Myth: Why You Don’t Need a Unicorn to Achieve \"Mythos-Level\" Results**\n\n\"Mythos\" has become the industry buzzword for the \"unicorn\" of autonomous testing—a self-healing, self-",
+    "id": "luma-evt-EBl2ueWGOhUdRXq",
+    "name": "Introduction to Electronics and Computing",
+    "description": "",
+    "startDate": "2026-08-20T13:00:00.000Z",
+    "endDate": "2026-08-20T16:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/zfsofx2a",
+    "coverImage": "https://images.lumacdn.com/uploads/rk/0d82900b-c543-4433-9d05-bca9d073e461.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-vi4HEHkmLLYcOnb",
+    "name": "Build with AI. Build on Blockchain.",
+    "description": "",
+    "startDate": "2026-08-20T16:30:00.000Z",
+    "endDate": "2026-08-20T20:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/q763neb5",
+    "coverImage": "https://images.lumacdn.com/uploads/yz/15125aa3-5f69-4cf6-8bb7-2373fbdc4338.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315923880",
+    "name": "Hi Definitions Speakers Weekly Meeting",
+    "description": "We are a small club looking to grow located at Hitachi Vantara. We welcome outside guest and have the ability to join the meeting remotely. Within the next six months, we will be relocating to Santa C",
     "startDate": "2026-08-20T12:00:00-07:00",
     "endDate": "2026-08-20T12:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/codephx/events/316076723/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/e/9/b/a/600_535619834.jpeg",
+    "city": "Santa Clara",
+    "country": "us",
+    "location": "Santa Clara, us",
+    "url": "https://www.meetup.com/d101tm/events/315923880/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/3/1/5/9/600_507972633.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -361,6 +361,20 @@
     "url": "https://lu.ma/9p0k7nkv",
     "coverImage": "https://images.lumacdn.com/uploads/xo/c48114a5-693c-4f93-a17b-fd9d7b0806fd.jpg",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316024691",
+    "name": "AWS Agentic AI Summit - Grafana, CrowdStrike, Fireworks, LaunchPad, TiDB",
+    "description": "**Important note:** Register on the [AICamp Event Website ](https://www.aicamp.ai/event/eventdetails/W2026082017)is REQUIRED for admission.\n\n**From Code to Production - Building Production-Ready AI Ag",
+    "startDate": "2026-08-20T16:00:00-07:00",
+    "endDate": "2026-08-20T16:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/svsiaa/events/316024691/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/6/d/e/600_535555006.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -417,20 +431,6 @@
     "url": "https://lu.ma/e91768m1",
     "coverImage": "https://images.lumacdn.com/uploads/fh/7eb398ee-10b0-42f0-90e5-c21c6f031d66.png",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315929509",
-    "name": "Crypto talk - Money is Freedom; currency is slavery ",
-    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
-    "startDate": "2026-08-20T19:00:00-07:00",
-    "endDate": "2026-08-20T19:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cashflow-271/events/315929509/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/c/2/600_501417026.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -644,16 +644,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316074097",
-    "name": "Community Day hangout",
-    "description": "This event is a good way to meet and greet, hangout, chat with others. Limited space to try to keep things more manageable and personable. The hope is to make this a more common event going forward.\n\n",
-    "startDate": "2026-08-22T16:00:00-07:00",
-    "endDate": "2026-08-22T16:00:00-07:00",
-    "city": "Chandler",
+    "id": "mu-315963793",
+    "name": "Caffe Italiano - Italian Language Meetup",
+    "description": "Ciao Amici!\n\nHello speakers and learners of the Italian language!\n\nIf you or anyone you know is interested in meeting up for caffè and speaking/practicing Italian, we look forward to meeting you! All ",
+    "startDate": "2026-08-23T10:00:00-07:00",
+    "endDate": "2026-08-23T10:00:00-07:00",
+    "city": "Cupertino",
     "country": "us",
-    "location": "Chandler, us",
-    "url": "https://www.meetup.com/move-towards-your-best-life/events/316074097/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/6/1/a/600_522354810.jpeg",
+    "location": "Cupertino, us",
+    "url": "https://www.meetup.com/caffe-italiano-italian-language-meetup/events/315963793/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/a/5/8/2/600_508422370.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -728,6 +728,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-315983434",
+    "name": "Web3 and AI networking at The Rose & Crown",
+    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
+    "startDate": "2026-08-24T18:30:00-07:00",
+    "endDate": "2026-08-24T18:30:00-07:00",
+    "city": "Palo Alto",
+    "country": "us",
+    "location": "Palo Alto, us",
+    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/315983434/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/c/4/a/1/600_473750337.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-2rkOdm0arGqYLvv",
     "name": "LA Founders Dinner w/ Verci, Patron, Rho, & Cake",
     "description": "",
@@ -756,6 +770,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-315718870",
+    "name": "Tuesday Travel Nights - Mexico: Exploring Cabo and the Baja Peninsula",
+    "description": "# [Events](https://sccl.bibliocommons.com/events) › Tuesday Travel Nights - Mexico: Exploring Cabo and the Baja Peninsula\n\n![](https://sccl.bibliocommons.com/events/uploads/images/full/fb89379a382fa73",
+    "startDate": "2026-08-25T19:00:00-07:00",
+    "endDate": "2026-08-25T19:00:00-07:00",
+    "city": "Cupertino",
+    "country": "US",
+    "location": "Cupertino, US",
+    "url": "https://www.meetup.com/walking-thru-the-valley-of-heart-s-delight-hiking-around/events/315718870/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/1/e/f/600_435225551.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-nlLYpU09DZISw4E",
     "name": "Crypto Outdoor Workout (COW) - Belgrade Blockchain Week 2026",
     "description": "",
@@ -774,7 +802,7 @@
     "name": "ETHGlobal Happy Hour at ETHBelgrade",
     "description": "",
     "startDate": "2026-08-26T08:00:00.000Z",
-    "endDate": "2026-08-27T18:00:00.000Z",
+    "endDate": "2026-08-27T16:00:00.000Z",
     "city": "Beograd",
     "country": "Serbia",
     "location": "Beograd, Serbia",
@@ -882,7 +910,7 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990056",
+    "id": "mu-315989997",
     "name": "ZK Learning Group: Introduction to ZkSync",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
     "startDate": "2026-08-27T09:00:00-07:00",
@@ -890,8 +918,8 @@
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-phoenix/events/315990056/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/9/b/600_535528827.jpeg",
+    "url": "https://www.meetup.com/lfdt-silicon-valley/events/315989997/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/5/f/600_535528767.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -920,20 +948,6 @@
     "location": "Online",
     "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/316021772/",
     "coverImage": "https://secure.meetupstatic.com/photos/event/5/e/d/2/600_535224274.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-316025624",
-    "name": "Artificial Intelligence and Blockchain Discussion",
-    "description": "Join us for an engaging discussion on the latest advancements in Artificial Intelligence and Blockchain technology. Our event will cover topics such as Machine Learning, Ethereum, Smart Contracts, and",
-    "startDate": "2026-08-27T16:00:00-07:00",
-    "endDate": "2026-08-27T16:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/ai-blockchain-more-tech/events/316025624/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/e/2/7/600_521728199.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -1123,8 +1137,8 @@
     "id": "luma-host-evt-0BccVSEUGaRakpD",
     "name": "ETHGlobal Happy Hour Tokyo with AKINDO",
     "description": "",
-    "startDate": "2026-09-05T09:00:00.000Z",
-    "endDate": "2026-09-05T13:00:00.000Z",
+    "startDate": "2026-09-05T08:00:00.000Z",
+    "endDate": "2026-09-05T12:30:00.000Z",
     "city": "Bunkyo City",
     "country": "Japan",
     "location": "Bunkyo City, Japan",
@@ -1274,20 +1288,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-nZ3FGlDyNEHGDJI",
-    "name": "AI & WEB3 Growth Summit",
-    "description": "",
-    "startDate": "2026-09-14T07:00:00.000Z",
-    "endDate": "2026-09-14T15:00:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/nivf7yvb",
-    "coverImage": "https://images.lumacdn.com/uploads/bt/9d1ffe93-a29a-4659-b887-b23a66edbc9b.png",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-disccal-oomOTSz0UtKANFu",
     "name": "European Blockchain Convention",
     "description": "Barcelona hosts the European Blockchain Convention from September 16–17, bringing together developers, investors, and policymakers to dive into the future of blockchain in Europe.",
@@ -1341,20 +1341,6 @@
     "url": "https://lu.ma/urnjrsdt",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-guWog2uyJoSwwlV",
-    "name": "10 ans BioLaunchpad",
-    "description": "",
-    "startDate": "2026-09-21T16:00:00.000Z",
-    "endDate": "2026-09-21T19:00:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/59fgmsee",
-    "coverImage": "https://images.lumacdn.com/uploads/sc/baae43e2-ff02-43bf-b5ba-4241f124067b.png",
-    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -1467,6 +1453,20 @@
     "url": "https://koreablockchainweek.com/",
     "coverImage": "https://framerusercontent.com/images/pesxh0NQOVpQRnQ7QadhG4wMY.png",
     "source": "marketacross",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-ewHxVw9g0DR0oQB",
+    "name": "Blockchain & Stablecoins are Rebuilding the Payment Stack",
+    "description": "",
+    "startDate": "2026-09-29T12:30:00.000Z",
+    "endDate": "2026-09-29T15:00:00.000Z",
+    "city": "Miami Beach",
+    "country": "United States",
+    "location": "Miami Beach, United States",
+    "url": "https://lu.ma/tbw_sibos_2026",
+    "coverImage": "https://images.lumacdn.com/uploads/xu/3aaff35d-3ac3-40c3-b6d3-ed2369126806.png",
+    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -1731,7 +1731,7 @@
     "country": "Dominican Republic",
     "location": "Punta Cana, Dominican Republic, Dominican Republic",
     "url": "https://www.blockcon.co",
-    "coverImage": "https://www.blockcon.co/og/blockcon-home.png",
+    "coverImage": null,
     "source": "marketacross",
     "month": "November 2026"
   },
