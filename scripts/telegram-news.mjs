@@ -172,7 +172,19 @@ async function fetchAllNews() {
 }
 
 // ── Gemini: filter + summarize ──
-const MODELS = ['gemini-2.0-flash', 'gemini-1.5-flash'];
+// 2.0 / 1.5 flash 404 on current API keys. Match cvin.bio parse fallbacks.
+const MODELS = [
+  'gemini-3.6-flash',
+  'gemini-3.5-flash',
+  'gemini-3-flash-preview',
+  'gemini-3.1-flash-lite-preview',
+  'gemini-flash-latest',
+];
+
+function extractGeminiText(data) {
+  const parts = data.candidates?.[0]?.content?.parts || [];
+  return parts.map((p) => p.text || '').join('').trim();
+}
 
 async function callGemini(prompt) {
   for (const model of MODELS) {
@@ -185,7 +197,11 @@ async function callGemini(prompt) {
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
               contents: [{ parts: [{ text: prompt }] }],
-              generationConfig: { temperature: 0.3, maxOutputTokens: 2048 },
+              generationConfig: {
+                temperature: 0.3,
+                maxOutputTokens: 4096,
+                responseMimeType: 'application/json',
+              },
             }),
           }
         );
@@ -199,12 +215,16 @@ async function callGemini(prompt) {
 
         if (!res.ok) {
           const err = await res.text();
-          console.warn(`  ⚠️ ${model} error ${res.status}, trying next model...`);
+          console.warn(`  ⚠️ ${model} error ${res.status}: ${err.slice(0, 180)}`);
           break; // try next model
         }
 
         const data = await res.json();
-        const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+        const text = extractGeminiText(data);
+        if (!text) {
+          console.warn(`  ⚠️ ${model} empty response, trying next model...`);
+          break;
+        }
         console.log(`  Using model: ${model}`);
         return text;
       } catch (e) {
@@ -443,6 +463,11 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
 
   console.log(`  Final validated ${stories.length} stories`);
 
+  if (stories.length === 0) {
+    console.log('  No valid stories after filtering, skipping this run');
+    return;
+  }
+
   const message = formatMessage(stories);
 
   if (process.argv.includes('--dry-run')) {
@@ -468,4 +493,6 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
   savePosted(posted);
 }
 
-postOnce().catch(e => { console.error('❌', e); process.exit(1); });
+postOnce()
+  .then(() => process.exit(0))
+  .catch(e => { console.error('❌', e); process.exit(1); });

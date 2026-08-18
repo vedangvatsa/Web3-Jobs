@@ -166,7 +166,19 @@ async function fetchAllNews() {
 }
 
 // ── Gemini: filter + summarize ──
-const MODELS = ['gemini-2.0-flash', 'gemini-1.5-flash'];
+// 2.0 / 1.5 flash 404 on current API keys. Match cvin.bio parse fallbacks.
+const MODELS = [
+  'gemini-3.6-flash',
+  'gemini-3.5-flash',
+  'gemini-3-flash-preview',
+  'gemini-3.1-flash-lite-preview',
+  'gemini-flash-latest',
+];
+
+function extractGeminiText(data) {
+  const parts = data.candidates?.[0]?.content?.parts || [];
+  return parts.map((p) => p.text || '').join('').trim();
+}
 
 async function callGemini(prompt) {
   for (const model of MODELS) {
@@ -179,7 +191,11 @@ async function callGemini(prompt) {
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
               contents: [{ parts: [{ text: prompt }] }],
-              generationConfig: { temperature: 0.3, maxOutputTokens: 2048 },
+              generationConfig: {
+                temperature: 0.3,
+                maxOutputTokens: 4096,
+                responseMimeType: 'application/json',
+              },
             }),
           }
         );
@@ -192,15 +208,20 @@ async function callGemini(prompt) {
         }
 
         if (!res.ok) {
-          console.warn(`  ${model} error ${res.status}, trying next model...`);
+          const err = await res.text();
+          console.warn(`  ${model} error ${res.status}: ${err.slice(0, 180)}`);
           break;
         }
 
         const data = await res.json();
-        const text = (data.candidates?.[0]?.content?.parts?.[0]?.text || '')
+        const text = extractGeminiText(data)
           .replace(/^```json\s*/i, '')
           .replace(/\s*```$/, '')
           .trim();
+        if (!text) {
+          console.warn(`  ${model} empty response, trying next model...`);
+          break;
+        }
         console.log(`  Using model: ${model}`);
         return text;
       } catch (e) {
@@ -395,7 +416,67 @@ async function postOnce() {
     stories.push(story);
   }
 
+  if (stories.length < STORIES_PER_POST) {
+    console.log(`⚠️ Gemini selection had duplicates/errors. Got ${stories.length}/${STORIES_PER_POST}. Backfilling...`);
+    for (let i = 0; i < fresh.length; i++) {
+      if (stories.length >= STORIES_PER_POST) break;
+      const idx = i + 1;
+      if (seenIndices.has(idx)) continue;
+
+      const item = fresh[i];
+      const normUrl = normalizeUrl(item.link);
+      if (seenUrls.has(normUrl)) continue;
+
+      console.log(`  Backfilling with story: ${item.title}`);
+      try {
+        const summaryPrompt = `Rewrite this AI news headline and snippet into a factual plain-English digest.
+Headline: ${item.title}
+Snippet: ${item.snippet}
+
+Write:
+- headline: factual, max 10 words, no hype.
+- summary: 1 sentence, max 20 words. Do not repeat the headline.
+
+BANNED WORDS: "signifies", "highlights", "underscores", "reshapes", "poised", "bolsters", "notably", "landscape", "paradigm", "innovative", "robust", "leveraging", "cutting-edge", "game-changer", "pivotal", "crucial", "essential", "transformative", "marks a", "reflects".
+
+Return ONLY JSON: {"headline": "...", "summary": "..."}`;
+        const sumText = await callGemini(summaryPrompt);
+        const jsonMatch = sumText.match(/\{[\s\S]*\}/);
+        if (jsonMatch) {
+          const parsed = JSON.parse(jsonMatch[0]);
+
+          if (recentPostedHeadlines.some(h => isSimilar(parsed.headline + ' ' + parsed.summary, h, 0.35))) {
+            console.log(`⚠️ Pruned backfilled story due to similarity with past headline: "${parsed.headline}"`);
+            continue;
+          }
+          if (stories.some(s => isSimilar(parsed.headline + ' ' + parsed.summary, s.headline + ' ' + s.summary, 0.35))) {
+            console.log(`⚠️ Pruned backfilled story due to similarity with another selected headline: "${parsed.headline}"`);
+            continue;
+          }
+
+          stories.push({
+            index: idx,
+            headline: parsed.headline,
+            summary: parsed.summary,
+            link: item.link,
+            source: item.source,
+            originalTitle: item.title
+          });
+          seenIndices.add(idx);
+          seenUrls.add(normUrl);
+        }
+      } catch (e) {
+        console.warn(`  Failed to summarize backfill story: ${e.message}`);
+      }
+    }
+  }
+
   console.log(`  Final validated ${stories.length} stories`);
+
+  if (stories.length === 0) {
+    console.log('  No valid stories after filtering, skipping this run');
+    return;
+  }
 
   const message = formatMessage(stories);
 
@@ -422,4 +503,6 @@ async function postOnce() {
   savePosted(posted);
 }
 
-postOnce().catch(e => { console.error(e); process.exit(1); });
+postOnce()
+  .then(() => process.exit(0))
+  .catch(e => { console.error(e); process.exit(1); });
