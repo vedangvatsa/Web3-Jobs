@@ -1,5 +1,93 @@
 [
   {
+    "id": "440606b5-1923-4f9d-a0ed-c126445b9477",
+    "title": "Channel Partner Manager | Accounting",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/440606b5-1923-4f9d-a0ed-c126445b9477",
+    "date": "2026-08-18T14:26:06.075+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "077388d7-385f-46e2-b7f0-e870deecd707",
+    "title": "Security Operation Intern",
+    "company": "Sky Mavis",
+    "link": "https://jobs.ashbyhq.com/SkyMavis/077388d7-385f-46e2-b7f0-e870deecd707",
+    "date": "2026-08-18T13:34:07.260+00:00",
+    "source": "Ashby: Sky Mavis"
+  },
+  {
+    "id": "8080454",
+    "title": "Integration Engineer, Metronome",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8080454",
+    "date": "2026-08-18T09:25:04-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8103569",
+    "title": "Senior Software Engineer, Simple Trade Experience",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569",
+    "date": "2026-08-18T09:06:07-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "1175e43a-b101-48b1-9968-7eb3886f3d3d",
+    "title": "Risk Strategy Analyst",
+    "company": "Coins.ph",
+    "link": "https://jobs.lever.co/coins/1175e43a-b101-48b1-9968-7eb3886f3d3d",
+    "date": "2026-08-18T12:50:58.584Z",
+    "source": "Lever: Coins.ph"
+  },
+  {
+    "id": "90300509",
+    "title": "Agent Liquidity Lead",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6144282004",
+    "date": "2026-08-18T12:49:59.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "0281d99d-aaa5-4e87-8785-9e3a4fbbff16",
+    "title": "Full Stack Engineer",
+    "company": "Wintermute",
+    "link": "https://jobs.lever.co/wintermute-trading/0281d99d-aaa5-4e87-8785-9e3a4fbbff16",
+    "date": "2026-08-18T12:37:44.658Z",
+    "source": "Lever: Wintermute"
+  },
+  {
+    "id": "90291245",
+    "title": "Product Manager, Blockchain",
+    "company": "Tephra",
+    "link": "https://jobs.ashbyhq.com/rain/e034d6d6-8ece-486b-b447-ee258f5434b7",
+    "date": "2026-08-18T12:34:33.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "90288367",
+    "title": "Executive Assistant",
+    "company": "Arbitrum",
+    "link": "https://jobs.lever.co/offchainlabs/18fce834-8f97-4b96-964f-587d0e609127",
+    "date": "2026-08-18T12:28:28.000Z",
+    "source": "https://jobs.arbitrum.io/jobs"
+  },
+  {
+    "id": "8121659",
+    "title": "Account Executive, Platforms Hunter (Central Eastern Europe)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8121659",
+    "date": "2026-08-18T07:55:46-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "90267211",
+    "title": "Product Manager, Blockchain",
+    "company": "Rain",
+    "link": "https://jobs.ashbyhq.com/rain/e034d6d6-8ece-486b-b447-ee258f5434b7",
+    "date": "2026-08-18T11:49:33.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
     "id": "8129702",
     "title": "Account Executive, SaaS Platforms, Hunter (German fluency)",
     "company": "Stripe",
@@ -8,12 +96,52 @@
     "source": "Greenhouse: Stripe"
   },
   {
+    "id": "8129702",
+    "title": "Account Executive, Platforms Hunter (German fluency)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8129702",
+    "date": "2026-08-18T07:47:29-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "90264782",
+    "title": "Technical Program Manager",
+    "company": "SFOX",
+    "link": "https://boards.greenhouse.io/sfox/jobs/8715514002",
+    "date": "2026-08-18T11:43:05.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "90264135",
+    "title": "Platform Accounting Analyst - US",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/5ff422e3-e06d-499e-91ed-7091755119d2",
+    "date": "2026-08-18T11:42:17.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "90264097",
+    "title": "Software Engineer - Rust - Consumer",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/d9d53a94-8f74-49b3-9e16-8c6b3672b995",
+    "date": "2026-08-18T11:42:15.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
     "id": "8091972",
     "title": "HR Generalist",
     "company": "Spire",
     "link": "https://spire.com/careers/job-openings/job/?gh_jid=8091972&gh_jid=8091972",
     "date": "2026-08-18T07:08:43-04:00",
     "source": "Greenhouse: Spire"
+  },
+  {
+    "id": "90243845",
+    "title": "Money Laundering Reporting Officer (MLRO) / BSA Officer",
+    "company": "Kast",
+    "link": "https://careers.kast.xyz/en/postings/7ab30354-7d80-4b5e-bac8-5396c94da8d1",
+    "date": "2026-08-18T10:55:43.000Z",
+    "source": "https://jobs.solana.com/jobs"
   },
   {
     "id": "8129954",
@@ -2882,6 +3010,14 @@
   {
     "id": "89636319",
     "title": "Business Operations & Strategy Lead",
+    "company": "Decent.xyz",
+    "link": "https://jobs.lever.co/moonpay/92719176-f089-4541-9e17-05acbece23ce",
+    "date": "2026-08-12T11:58:15.000Z",
+    "source": "https://jobs.archetype.fund/jobs"
+  },
+  {
+    "id": "89636319",
+    "title": "Strategy & Business Operations Lead",
     "company": "Decent.xyz",
     "link": "https://jobs.lever.co/moonpay/92719176-f089-4541-9e17-05acbece23ce",
     "date": "2026-08-12T11:58:15.000Z",
