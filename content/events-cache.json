@@ -1,61 +1,5 @@
 [
   {
-    "id": "luma-host-evt-xdzRCPDhA2Tj2QU",
-    "name": "Superteam India Coworking Days (BOM)",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-08-19T05:30:00.000Z",
-    "endDate": "2026-08-19T13:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://lu.ma/IRL-coworking",
-    "coverImage": "https://images.lumacdn.com/uploads/dt/3ff61f23-0ca8-44f7-9588-47b7a9494abd.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-uecQ8UqyN5yTnFB",
-    "name": "Superteam Poland Co-work: Kraków",
-    "description": "",
-    "startDate": "2026-08-19T07:00:00.000Z",
-    "endDate": "2026-08-19T16:00:00.000Z",
-    "city": "Kraków",
-    "country": "Poland",
-    "location": "Kraków, Poland",
-    "url": "https://lu.ma/co-work29",
-    "coverImage": "https://images.lumacdn.com/uploads/li/4ff41648-6621-41d8-b2bd-b1a5deea5cf3.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-tM2knCgwwFNxo2E",
-    "name": "Introduction to Electronics and Computing",
-    "description": "",
-    "startDate": "2026-08-19T10:00:00.000Z",
-    "endDate": "2026-08-19T13:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/6xhst8d8",
-    "coverImage": "https://images.lumacdn.com/uploads/rk/0d82900b-c543-4433-9d05-bca9d073e461.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-AAD7ak1LoMZDnn2",
-    "name": "Solana Study Session #2｜量子コンピュータに対するSolanaの方向性",
-    "description": "Superteam Japanはソラナ上で次世代を創るビルダー、スタートアップ、企業が集うコミュニティです。🇯🇵 \nhttps://discord.gg/stjp",
-    "startDate": "2026-08-19T11:30:00.000Z",
-    "endDate": "2026-08-19T12:00:00.000Z",
-    "city": "Tokyo",
-    "country": "Japan",
-    "location": "Tokyo, Japan",
-    "url": "https://lu.ma/SolanaQuantum-StudySession",
-    "coverImage": "https://images.lumacdn.com/uploads/kz/ea36393b-e2a6-42e6-8b29-a8023f800e85.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-rxBglKCfJ1t9cR1",
     "name": "Pints & Pipelines II — Bioinformatics Pub Night",
     "description": "",
@@ -81,6 +25,20 @@
     "url": "https://lu.ma/member-office-hours",
     "coverImage": "https://images.lumacdn.com/uploads/xl/017ccbe7-5650-42c1-8aa6-c1fe9fe67b9d.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316022837",
+    "name": "CLARENDON Investment, Trade & Crypto Networking HourS",
+    "description": "Let us get together and plot to conquer the world!:)\n\n***GRAB A DRINK AND YOU ARE ALL SET TO FLEX YOUR LANGUAGE CAPACITY. YOU NEED TO GET AT LEAST A DRINK OR FOOD:) To get the event going and show sup",
+    "startDate": "2026-08-19T17:00:00-04:00",
+    "endDate": "2026-08-19T17:00:00-04:00",
+    "city": "Arlington",
+    "country": "us",
+    "location": "Arlington, us",
+    "url": "https://www.meetup.com/dc-investo/events/316022837/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/a/b/7/2/600_529243890.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -140,16 +98,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316047206",
-    "name": "Open Bitcoin Discussion",
-    "description": "Our weekly **open Bitcoin discussion**.\nTo join, RSVP for the event that you can make\n\nThe usual format: live market dashboard to open, \\~20 minutes of curated slides, then open discussion. Bring your",
+    "id": "mu-315913453",
+    "name": "Open Bitcoin Q&A chat!",
+    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* Bitcoin.rocks\n* Bitcoin-Only.com\n* Bitcoiner.Guide\n* The",
     "startDate": "2026-08-19T20:00:00-04:00",
     "endDate": "2026-08-19T20:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/meetup-group-cttlfnfm/events/316047206/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/7/c/9/600_535530665.jpeg",
+    "url": "https://www.meetup.com/philadelphia-bitcoin-club/events/315913453/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/6/4/3/1/600_508345649.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -263,34 +221,6 @@
     "url": "https://lu.ma/9p0k7nkv",
     "coverImage": "https://images.lumacdn.com/uploads/xo/c48114a5-693c-4f93-a17b-fd9d7b0806fd.jpg",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315844647",
-    "name": "B.O.B. @ Fork and Coin",
-    "description": "Come visit the Chicago Bitcoin Collective to talk to members and the broader B.O.B. community about Bitcoin and anything else related!\n\nCome over to Fork and Coin and get any questions answered about ",
-    "startDate": "2026-08-20T18:00:00-05:00",
-    "endDate": "2026-08-20T18:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/315844647/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/a/7/6/4/600_534102852.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315987808",
-    "name": "Silicon Societies",
-    "description": "**Title:** Silicon Societies: What happens when millions of AI agents use the Internet alongside us?\n\n**Abstract:** When OpenClaw came out in early 2026, one of the first things people did was upload ",
-    "startDate": "2026-08-20T18:00:00-05:00",
-    "endDate": "2026-08-20T18:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/pydatachi/events/315987808/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/8/7/6/e/600_472414670.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -574,20 +504,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315821211",
-    "name": "The Book of Longings, Sue Monk Kidd",
-    "description": "In ancient Galilee, Ana defies societal norms by pushing her passion for writing. Her life transforms when she meets a young carpenter in Nazareth, leading to a journey of love, friendship and female ",
-    "startDate": "2026-08-22T13:00:00-05:00",
-    "endDate": "2026-08-22T13:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/fiction-page-turners-meetup/events/315821211/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/c/2/0/0/600_535609664.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-Suhqcj7fxKGinei",
     "name": "Bitcoin 101: Capitalism is IMPOSSIBLE when the money is corrupt",
     "description": "",
@@ -616,20 +532,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-312804216",
-    "name": "South Side Spanish (Bridgeport)",
-    "description": "Estás invitado a un grupo de habla español. Aquí no se juzga, es bienvenido/a el que sea nativo/a o al que este recién empezando. Lo único que te pedimos es que hagas un esfuerzo ya que es primordial ",
-    "startDate": "2026-08-22T15:00:00-05:00",
-    "endDate": "2026-08-22T15:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/chicago-spanish-language/events/312804216/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/6/1/d/600_503345661.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-J6FD5pFOxRSZgKx",
     "name": "Bitcoin Block Party",
     "description": "",
@@ -641,6 +543,20 @@
     "url": "https://lu.ma/ed63hjqz",
     "coverImage": "https://images.lumacdn.com/uploads/e8/8012cbb9-3f74-436f-9c62-dfdded85bafe.jpg",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316170118",
+    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
+    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
+    "startDate": "2026-08-24T12:00:00-04:00",
+    "endDate": "2026-08-24T12:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/316170118/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/2/2/3/600_525981027.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -728,6 +644,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-315748481",
+    "name": "Medium Level (B-Group NFT 15): Tuesday Night Ride (TNR) - Arlington Triangloop",
+    "description": "**Tuesday Night Rides (TNR) B-Group Edition with Ryan, Dave, Bruce, Ronne, & Renee**\nAs you may have heard, our illustrious TNR leader Ryan is sporting a repaired knee and is in recovery mode. We are ",
+    "startDate": "2026-08-25T18:00:00-04:00",
+    "endDate": "2026-08-25T18:00:00-04:00",
+    "city": "Arlington",
+    "country": "us",
+    "location": "Arlington, us",
+    "url": "https://www.meetup.com/novacbg/events/315748481/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/4/d/e/4/600_534259940.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-nlLYpU09DZISw4E",
     "name": "Crypto Outdoor Workout (COW) - Belgrade Blockchain Week 2026",
     "description": "",
@@ -765,7 +695,7 @@
     "country": "Serbia",
     "location": "Beograd, Serbia",
     "url": "https://lu.ma/u9tfbx6a",
-    "coverImage": "https://images.lumacdn.com/uploads/42/207df124-d5f4-4a1a-bb0d-fa6344d9c04b.jpg",
+    "coverImage": "https://images.lumacdn.com/uploads/8u/17e1f9d0-1daf-400d-b065-d191b62782a0.jpg",
     "source": "luma-trusted",
     "month": "August 2026"
   },
@@ -781,20 +711,6 @@
     "url": "https://lu.ma/ag99zbg1",
     "coverImage": "https://images.lumacdn.com/uploads/0k/27a4b3ec-650e-483b-b89f-8875e73c0ddf.png",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-316095991",
-    "name": "⚡🟠 BITCOIN & BEERS: AUGUST MEETUP. Bitcoin Burgers on the patio! 🍔🍺",
-    "description": "⚡ BITCOIN & BEERS: AUGUST MEETUP 🍺 🟠\n\n📍 Bottle Theory (Patio) — Elmhurst\n📆 Wednesday, August 26th, 2026\n⏰ 6:00 PM – 10:00 PM\n\nCan you believe it ..we've crossed over the 8+ year mark!!!\nJoin us fo",
-    "startDate": "2026-08-26T18:00:00-05:00",
-    "endDate": "2026-08-26T18:00:00-05:00",
-    "city": "Elmhurst",
-    "country": "US",
-    "location": "Elmhurst, US",
-    "url": "https://www.meetup.com/chicago-western-suburbs-bitcoin-meetup/events/316095991/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/4/1/e/d/600_535636877.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -868,16 +784,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990021",
+    "id": "mu-315989999",
     "name": "ZK Learning Group: Introduction to ZkSync",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-08-27T11:00:00-05:00",
-    "endDate": "2026-08-27T11:00:00-05:00",
+    "startDate": "2026-08-27T12:00:00-04:00",
+    "endDate": "2026-08-27T12:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-chicago/events/315990021/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/7/8/600_535528792.jpeg",
+    "url": "https://www.meetup.com/lfdt-washington-dc/events/315989999/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/6/1/600_535528769.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -1036,6 +952,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-PS7LAHTUj1LLHDS",
+    "name": "Launchpad Session (In-Person)",
+    "description": "",
+    "startDate": "2026-09-03T17:00:00.000Z",
+    "endDate": "2026-09-03T18:00:00.000Z",
+    "city": "El Segundo",
+    "country": "United States",
+    "location": "El Segundo, United States",
+    "url": "https://lu.ma/idsp5pm4",
+    "coverImage": "https://images.lumacdn.com/uploads/83/f6ceaedc-50a0-4762-a514-e1b7e8fd0b06.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-KuXmtoMB2Al0D41",
     "name": "zerohash Salon Series: Onchain Money For Capital Markets",
     "description": "",
@@ -1096,7 +1026,7 @@
     "name": "ETHGlobal Happy Hour Tokyo with AKINDO",
     "description": "",
     "startDate": "2026-09-05T08:00:00.000Z",
-    "endDate": "2026-09-05T12:30:00.000Z",
+    "endDate": "2026-09-05T12:00:00.000Z",
     "city": "Bunkyo City",
     "country": "Japan",
     "location": "Bunkyo City, Japan",
@@ -1120,17 +1050,17 @@
     "month": "September 2026"
   },
   {
-    "id": "ma-unchained-summit-dubai",
-    "name": "Unchained Summit Dubai",
-    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
-    "startDate": "2026-09-07T00:00:00.000Z",
-    "endDate": "2026-09-08T00:00:00.000Z",
-    "city": "Dubai, UAE",
-    "country": "UAE",
-    "location": "Dubai, UAE, UAE",
-    "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/08/unchianed-summit-dubai-2027-16x9-1.jpg",
-    "source": "marketacross",
+    "id": "mu-315962971",
+    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
+    "description": "Network virtually with those located in the DMV (District of Columbia, Virginia & Maryland) and internationally!\n\nThis monthly Monday meeting is hosted by Maryland Blockchain Association, Blockchain L",
+    "startDate": "2026-09-07T19:00:00-04:00",
+    "endDate": "2026-09-07T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962971/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/a/f/600_527389071.jpeg",
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -1162,6 +1092,20 @@
     "month": "September 2026"
   },
   {
+    "id": "ma-unchained-summit-dubai",
+    "name": "Unchained Summit Dubai",
+    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
+    "startDate": "2026-09-07T00:00:00.000Z",
+    "endDate": "2026-09-08T00:00:00.000Z",
+    "city": "Dubai, UAE",
+    "country": "UAE",
+    "location": "Dubai, UAE, UAE",
+    "url": "https://unchainedsummit.com/dubai/",
+    "coverImage": null,
+    "source": "marketacross",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-PTNz2gFhxFh5lPO",
     "name": "Boston Blockchain Week 2026: The Digital Infrastructure Stack",
     "description": "",
@@ -1173,6 +1117,20 @@
     "url": "https://lu.ma/bbw26tickets",
     "coverImage": "https://images.lumacdn.com/uploads/9e/d71fe488-c33d-480c-8300-f74c6c791f0e.jpg",
     "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-265717061",
+    "name": "Investment, Trade and Crypto Happy Hour ",
+    "description": "Let us meet face-to-face and learn from each other rather than trying to do everything by ourselves.\n\nThere is none other hot topic than Crypto Currency these days. Almost all of us are watching it cl",
+    "startDate": "2026-09-08T18:00:00-04:00",
+    "endDate": "2026-09-08T18:00:00-04:00",
+    "city": "Washington",
+    "country": "us",
+    "location": "Washington, us",
+    "url": "https://www.meetup.com/dc-investo/events/265717061/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/1/1/8/600_387308472.jpeg",
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -1269,7 +1227,7 @@
     "country": "United Kingdom",
     "location": "London, United Kingdom",
     "url": "https://lu.ma/encode-mmls",
-    "coverImage": "https://images.lumacdn.com/uploads/d1/96539a93-0b0f-433d-a1bc-53992f44c169.png",
+    "coverImage": "https://images.lumacdn.com/uploads/6e/87ea81fe-f58f-4684-b959-c945c36f8d1d.png",
     "source": "luma-trusted",
     "month": "September 2026"
   },
