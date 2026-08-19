@@ -13,6 +13,13 @@ import fs from 'fs';
 import path from 'path';
 import Parser from 'rss-parser';
 import dotenv from 'dotenv';
+import {
+  alreadyCovered,
+  isSimilar,
+  normalizeUrl,
+  postedTexts,
+  sameEvent,
+} from './news-story-dedup.mjs';
 
 try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }); } catch {}
 
@@ -43,63 +50,6 @@ const FEEDS = [
 
 const parser = new Parser();
 
-// ── Helpers for URL Normalization and Word Stemming ──
-function normalizeUrl(urlString) {
-  try {
-    const url = new URL(urlString);
-    let host = url.hostname.toLowerCase();
-    if (host.startsWith('www.')) host = host.substring(4);
-    let pathname = url.pathname;
-    if (pathname.endsWith('/')) pathname = pathname.slice(0, -1);
-    return `${host}${pathname}`;
-  } catch {
-    return urlString.trim().toLowerCase();
-  }
-}
-
-function stemWord(word) {
-  let w = word.toLowerCase().trim();
-  if (w.endsWith('ies')) {
-    w = w.slice(0, -3) + 'y';
-  } else if (w.endsWith('s') && !w.endsWith('us') && !w.endsWith('is') && !w.endsWith('ss')) {
-    w = w.slice(0, -1);
-  }
-  if (w.endsWith('ing')) {
-    w = w.slice(0, -3);
-  } else if (w.endsWith('ed')) {
-    w = w.slice(0, -2);
-  }
-  if (w.endsWith('e') && w.length > 3) {
-    w = w.slice(0, -1);
-  }
-  return w;
-}
-
-function getKeywords(text) {
-  const stop = new Set([
-    'this','that','with','from','what','where','when','the','and','for',
-    'says','could','will','would','about','after','amid','over','under',
-    'into','onto','than','then','artificial','intelligence'
-  ]);
-  return text
-    .toLowerCase()
-    .replace(/[^a-z0-9]/g, ' ')
-    .split(/\s+/)
-    .map(w => w.trim())
-    .filter(w => w.length > 3 && !stop.has(w))
-    .map(stemWord)
-    .filter(w => w.length > 2);
-}
-
-function isSimilar(a, b, threshold = 0.4) {
-  const wa = new Set(getKeywords(a));
-  const wb = new Set(getKeywords(b));
-  if (!wa.size || !wb.size) return false;
-  let overlap = 0;
-  for (const w of wa) if (wb.has(w)) overlap++;
-  return overlap / Math.min(wa.size, wb.size) > threshold;
-}
-
 // ── Posted history ──
 function loadPosted() {
   try {
@@ -110,9 +60,10 @@ function loadPosted() {
 }
 
 function savePosted(posted) {
-  // Keep last 1000 to prevent infinite growth while safely avoiding duplicate URLs
-  const arr = [...posted].slice(-1000);
-  fs.writeFileSync(POSTED_LOG, JSON.stringify(arr));
+  // Keep last 2000 so event fingerprints (headline + original title) stay
+  // long enough that a later outlet rewrite cannot sneak through.
+  const arr = [...posted].slice(-2000);
+  fs.writeFileSync(POSTED_LOG, JSON.stringify(arr, null, 2));
 }
 
 // ── Fetch all RSS news ──
@@ -156,7 +107,7 @@ async function fetchAllNews() {
     const normUrl = normalizeUrl(item.link);
     if (seenUrls.has(normUrl)) continue;
 
-    if (!unique.some(u => isSimilar(item.title + ' ' + item.snippet, u.title + ' ' + u.snippet, 0.35) || normalizeUrl(u.link) === normUrl)) {
+    if (!unique.some(u => sameEvent(item.title + ' ' + item.snippet, u.title + ' ' + u.snippet) || normalizeUrl(u.link) === normUrl)) {
       unique.push(item);
       seenUrls.add(normUrl);
     }
@@ -362,17 +313,18 @@ async function postOnce() {
   const allNews = await fetchAllNews();
   console.log(`  Found ${allNews.length} unique stories`);
 
-  // Filter out already posted (by link AND by headline similarity)
+  // Filter out already posted (by link AND by event, across every stored headline)
   const posted = loadPosted();
-  const postedHeadlines = [...posted].filter(p => !p.startsWith('http'));
-  const recentPostedHeadlines = postedHeadlines.slice(-150); // Only check similarity against recent headlines to avoid false positives with old history
-  const postedLinks = [...posted].filter(p => p.startsWith('http'));
+  const allPostedHeadlines = postedTexts(posted);
+  const postedLinks = [...posted].filter(p => /^https?:\/\//i.test(p));
   const normalizedPostedLinks = new Set([...postedLinks].map(normalizeUrl));
 
   const fresh = allNews.filter(n => {
     if (normalizedPostedLinks.has(normalizeUrl(n.link))) return false;
-    // Check against both rewritten headlines AND original titles stored from previous runs
-    if (recentPostedHeadlines.some(h => isSimilar(n.title + ' ' + n.snippet, h, 0.35))) return false;
+    const blob = `${n.title} ${n.snippet || ''}`;
+    if (alreadyCovered(blob, allPostedHeadlines) || alreadyCovered(n.title, allPostedHeadlines)) {
+      return false;
+    }
     return true;
   });
   console.log(`  ${fresh.length} not yet posted`);
@@ -384,7 +336,7 @@ async function postOnce() {
   }
 
   console.log('Asking Gemini to filter & summarize...');
-  const recentHeadlines = postedHeadlines.slice(-30);
+  const recentHeadlines = allPostedHeadlines.slice(-80);
   const rawStories = await filterAndSummarize(fresh, recentHeadlines);
 
   // Programmatically validate and deduplicate Gemini's selection
@@ -401,12 +353,15 @@ async function postOnce() {
     const normUrl = normalizeUrl(originalItem.link);
     if (seenUrls.has(normUrl)) continue; // Duplicate URL in selection
 
-    // Programmatic check: prevent similarity with past headlines or currently selected ones
-    if (recentPostedHeadlines.some(h => isSimilar(story.headline + ' ' + story.summary, h, 0.35))) {
+    const candidate = `${story.headline} ${story.summary || ''} ${originalItem.title} ${originalItem.snippet || ''}`;
+    if (alreadyCovered(candidate, allPostedHeadlines)) {
       console.log(`⚠️ Pruned Gemini selection due to similarity with past headline: "${story.headline}"`);
       continue;
     }
-    if (stories.some(s => isSimilar(story.headline + ' ' + story.summary, s.headline + ' ' + s.summary, 0.35))) {
+    if (stories.some(s => alreadyCovered(
+      `${story.headline} ${story.summary || ''} ${originalItem.title}`,
+      [`${s.headline} ${s.summary || ''} ${s.originalTitle || ''}`]
+    ))) {
       console.log(`⚠️ Pruned Gemini selection due to similarity with another selected headline: "${story.headline}"`);
       continue;
     }
@@ -445,11 +400,15 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
         if (jsonMatch) {
           const parsed = JSON.parse(jsonMatch[0]);
 
-          if (recentPostedHeadlines.some(h => isSimilar(parsed.headline + ' ' + parsed.summary, h, 0.35))) {
+          const candidate = `${parsed.headline} ${parsed.summary || ''} ${item.title} ${item.snippet || ''}`;
+          if (alreadyCovered(candidate, allPostedHeadlines)) {
             console.log(`⚠️ Pruned backfilled story due to similarity with past headline: "${parsed.headline}"`);
             continue;
           }
-          if (stories.some(s => isSimilar(parsed.headline + ' ' + parsed.summary, s.headline + ' ' + s.summary, 0.35))) {
+          if (stories.some(s => alreadyCovered(
+            candidate,
+            [`${s.headline} ${s.summary || ''} ${s.originalTitle || ''}`]
+          ))) {
             console.log(`⚠️ Pruned backfilled story due to similarity with another selected headline: "${parsed.headline}"`);
             continue;
           }
