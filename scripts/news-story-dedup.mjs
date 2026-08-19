@@ -1,7 +1,7 @@
 /**
  * Cross-source news dedup for Telegram digests.
- * Same event from Ars vs TechCrunch must not post twice just because
- * URLs and Gemini headlines differ.
+ * A story may post once. Later coverage from another outlet, or a Gemini
+ * rewrite of the same event, must not go out again.
  */
 
 const STOP = new Set([
@@ -20,7 +20,19 @@ const GENERIC = new Set([
   'update', 'updates', 'feature', 'features', 'users', 'user', 'new', 'latest',
   'first', 'year', 'years', 'today', 'week', 'deal', 'sign', 'signs',
   'according', 'their', 'they', 'have', 'been', 'into', 'more', 'than',
+  'across', 'family', 'maker', 'closes', 'round', 'rolls',
 ]);
+
+/** Map outlet-specific names onto one org token so rewrites still collide. */
+const ALIASES = {
+  chatgpt: 'openai',
+  altman: 'openai',
+  claude: 'anthropic',
+  deepmind: 'google',
+  grok: 'xai',
+  llama: 'meta',
+  aws: 'amazon',
+};
 
 export function normalizeUrl(urlString) {
   try {
@@ -50,22 +62,50 @@ export function stemWord(word) {
   if (w.endsWith('e') && w.length > 3) {
     w = w.slice(0, -1);
   }
-  return w;
+  return ALIASES[w] || w;
+}
+
+function prepareText(text) {
+  return String(text || '')
+    .toLowerCase()
+    .replace(/\$(\d+(?:\.\d+)?)\s*(billion|million|b|m)\b/g, (_, n, u) => {
+      const unit = u.startsWith('b') ? 'b' : 'm';
+      return ` ${String(n).replace('.', '')}${unit} `;
+    })
+    .replace(/(\d+(?:\.\d+)?)\s*(billion|million)\b/g, (_, n, u) => {
+      return ` ${String(n).replace('.', '')}${u.startsWith('b') ? 'b' : 'm'} `;
+    })
+    // GPT-5.6 / Claude 4 → gpt56 / claude4 so versioned products survive tokenization
+    .replace(/([a-z]+)\s*[-.]?\s*(\d+(?:\.\d+)?)/g, (_, name, num) => `${name}${String(num).replace('.', '')}`)
+    .replace(/[^a-z0-9]/g, ' ');
 }
 
 export function getKeywords(text) {
-  return String(text || '')
-    .toLowerCase()
-    .replace(/[^a-z0-9]/g, ' ')
+  return prepareText(text)
     .split(/\s+/)
     .map((w) => w.trim())
-    .filter((w) => w.length > 3 && !STOP.has(w))
+    .filter((w) => w.length > 2 && !STOP.has(w))
     .map(stemWord)
     .filter((w) => w.length > 2);
 }
 
 export function distinctiveTokens(text) {
-  return [...new Set(getKeywords(text).filter((w) => !GENERIC.has(w) && w.length > 3))];
+  return [...new Set(getKeywords(text).filter((w) => !GENERIC.has(w) && w.length > 2))];
+}
+
+export function eventFingerprint(text) {
+  return distinctiveTokens(text).sort().slice(0, 10);
+}
+
+export function fingerprintsMatch(a, b) {
+  const sa = new Set(a.filter(Boolean));
+  const sb = new Set(b.filter(Boolean));
+  if (!sa.size || !sb.size) return false;
+  let n = 0;
+  for (const t of sa) if (sb.has(t)) n++;
+  if (n >= 3) return true;
+  const min = Math.min(sa.size, sb.size);
+  return min >= 2 && n >= 2 && n / min >= 0.5;
 }
 
 export function isSimilar(a, b, threshold = 0.4) {
@@ -78,18 +118,25 @@ export function isSimilar(a, b, threshold = 0.4) {
 }
 
 /**
- * True when two headlines cover the same real-world event.
- * Catches "Amazon destroys rare books…" vs a TechCrunch rewrite of the same scoop.
+ * True when two headlines cover the same real-world event, regardless of
+ * outlet or Gemini wording.
  */
 export function sameEvent(a, b) {
   if (!a || !b) return false;
+  const left = String(a).trim().toLowerCase();
+  const right = String(b).trim().toLowerCase();
+  if (!left || !right) return false;
+  if (left === right) return true;
   if (isSimilar(a, b, 0.28)) return true;
+  if (fingerprintsMatch(eventFingerprint(a), eventFingerprint(b))) return true;
   const da = distinctiveTokens(a);
   const db = distinctiveTokens(b);
   if (!da.length || !db.length) return false;
   const dbSet = new Set(db);
   const shared = da.filter((w) => dbSet.has(w));
   if (shared.length >= 3) return true;
+  const min = Math.min(da.length, db.length);
+  if (min >= 2 && shared.length >= 2 && shared.length / min >= 0.5) return true;
   const hasEntity = shared.some((w) => w.length >= 5);
   const hasTopic = shared.some((w) => w.length >= 4);
   return hasEntity && hasTopic && shared.length >= 2;
@@ -102,5 +149,40 @@ export function postedTexts(posted) {
 export function alreadyCovered(candidate, postedList) {
   const blob = String(candidate || '').trim();
   if (!blob) return false;
-  return postedList.some((h) => sameEvent(blob, h));
+  const candFp = eventFingerprint(blob);
+  for (const h of postedList) {
+    if (!h || typeof h !== 'string') continue;
+    if (h.startsWith('fp:')) {
+      if (fingerprintsMatch(candFp, h.slice(3).split('|').filter(Boolean))) return true;
+      continue;
+    }
+    if (sameEvent(blob, h)) return true;
+  }
+  return false;
+}
+
+export function rememberPostedStory(posted, story) {
+  if (story.link) posted.add(story.link);
+  if (story.headline) posted.add(story.headline);
+  if (story.originalTitle) posted.add(story.originalTitle);
+  const blob = [story.headline, story.originalTitle, story.summary, story.snippet]
+    .filter(Boolean)
+    .join(' ');
+  const fp = eventFingerprint(blob);
+  if (fp.length >= 2) posted.add(`fp:${fp.join('|')}`);
+}
+
+/** Keep event fingerprints and headlines; only trim oldest URLs. */
+export function trimPostedLog(posted, { maxUrls = 2500, maxTexts = 4000 } = {}) {
+  const items = [...posted];
+  const urls = [];
+  const fps = [];
+  const texts = [];
+  for (const p of items) {
+    const s = String(p || '');
+    if (/^https?:\/\//i.test(s)) urls.push(s);
+    else if (s.startsWith('fp:')) fps.push(s);
+    else texts.push(s);
+  }
+  return [...urls.slice(-maxUrls), ...texts.slice(-maxTexts), ...fps.slice(-maxTexts)];
 }
