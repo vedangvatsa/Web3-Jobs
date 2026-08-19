@@ -18,7 +18,9 @@ import {
   isSimilar,
   normalizeUrl,
   postedTexts,
+  rememberPostedStory,
   sameEvent,
+  trimPostedLog,
 } from './news-story-dedup.mjs';
 
 try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }); } catch {}
@@ -60,10 +62,7 @@ function loadPosted() {
 }
 
 function savePosted(posted) {
-  // Keep last 2000 so event fingerprints (headline + original title) stay
-  // long enough that a later outlet rewrite cannot sneak through.
-  const arr = [...posted].slice(-2000);
-  fs.writeFileSync(POSTED_LOG, JSON.stringify(arr, null, 2));
+  fs.writeFileSync(POSTED_LOG, JSON.stringify(trimPostedLog(posted), null, 2));
 }
 
 // ── Fetch all RSS news ──
@@ -206,7 +205,7 @@ Skip: opinion pieces, listicles, how-to guides, product reviews, company PR or m
 SEMANTIC DEDUPLICATION & CONTEXTUAL FILTERING:
 - Group the incoming stories by the real-world event they cover first. If multiple sources cover the same event (even with completely different words or focus), group them and consider only the single most authoritative article.
 - Do NOT select two stories about the same event. All selected stories must cover completely distinct real-world events.
-- Carefully review the 'ALREADY POSTED' stories below. You MUST NOT select any story that covers the same real-world event or its immediate direct follow-up, even if written differently or containing different details.
+- Carefully review the 'ALREADY POSTED' stories below. You MUST NOT select any story that covers the same real-world event or its immediate direct follow-up, even if written differently or containing different details. This applies to every previously posted story, not only last week's.
 ${recentBlock}
 For each story write:
 - headline: factual, max 10 words, no hype. USE the company name (e.g. "OpenAI releases new reasoning model" not "AI company releases new model"). No jargon a non-technical reader wouldn't understand.
@@ -336,7 +335,7 @@ async function postOnce() {
   }
 
   console.log('Asking Gemini to filter & summarize...');
-  const recentHeadlines = allPostedHeadlines.slice(-80);
+  const recentHeadlines = allPostedHeadlines.filter((h) => !String(h).startsWith('fp:')).slice(-200);
   const rawStories = await filterAndSummarize(fresh, recentHeadlines);
 
   // Programmatically validate and deduplicate Gemini's selection
@@ -455,9 +454,7 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
 
   // Mark as posted (store link, rewritten headline, AND original RSS title for cross-source dedup)
   for (const s of stories) {
-    if (s.link) posted.add(s.link);
-    if (s.headline) posted.add(s.headline);
-    if (s.originalTitle) posted.add(s.originalTitle);
+    rememberPostedStory(posted, s);
   }
   savePosted(posted);
 }
