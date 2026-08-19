@@ -1,89 +1,5 @@
 [
   {
-    "id": "luma-evt-QePaEXwyYCWNE1e",
-    "name": "Bitcoin Cash Toronto",
-    "description": "",
-    "startDate": "2026-08-18T22:00:00.000Z",
-    "endDate": "2026-08-19T01:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/ohe9whbe",
-    "coverImage": "https://images.lumacdn.com/event-covers/j2/47100d56-ebb3-47ea-ba84-415aeaa48836.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-iLObB6pv768ACUS",
-    "name": "A New Way Forward — R³ Group Bodywork Series: Part One",
-    "description": "",
-    "startDate": "2026-08-18T23:00:00.000Z",
-    "endDate": "2026-08-19T01:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/gix2uyni",
-    "coverImage": "https://images.lumacdn.com/uploads/us/df075274-94f3-4854-9561-85dd95b74d71.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-06TKCW5LoZhhHJq",
-    "name": "The Pacific Innovation Corridor",
-    "description": "",
-    "startDate": "2026-08-18T23:30:00.000Z",
-    "endDate": "2026-08-19T02:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/pacific-inno-sf",
-    "coverImage": "https://images.lumacdn.com/uploads/57/da80c7bf-b6ea-429b-9793-5ceb6614c06a.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-disccal-evjncqP22uBRK1E",
-    "name": "Coinfest Asia",
-    "description": "World's Crypto Festival ☀️ Bali, Indonesia | 20-21 Aug 2026",
-    "startDate": "2026-08-19T00:00:00.000Z",
-    "endDate": "2026-08-20T00:00:00.000Z",
-    "city": "Badung Regency",
-    "country": "Indonesia",
-    "location": "Badung Regency, Indonesia",
-    "url": "https://lu.ma/coinfest-asia",
-    "coverImage": "https://images.lumacdn.com/uploads/ly/9e4506d9-6559-46de-892b-e8b4d05a0dea.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-EJCS06wku8kTuHj",
-    "name": "Light Dao Salon: Building to Last: Stewardship & Legacy with Kelly Vlahakis-Hanks, CEO of ECOS (LA)",
-    "description": "",
-    "startDate": "2026-08-19T02:00:00.000Z",
-    "endDate": "2026-08-19T04:30:00.000Z",
-    "city": "Beverly Hills",
-    "country": "United States",
-    "location": "Beverly Hills, United States",
-    "url": "https://lu.ma/t85xsndz",
-    "coverImage": "https://images.lumacdn.com/uploads/50/968a9f99-1495-43e9-b4f8-094a43c6be50.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-EJCS06wku8kTuHj",
-    "name": "Light Dao Salon: Building to Last: Stewardship & Legacy with Kelly Vlahakis-Hanks, CEO of ECOS (LA)",
-    "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
-    "startDate": "2026-08-19T02:00:00.000Z",
-    "endDate": "2026-08-19T04:30:00.000Z",
-    "city": "Beverly Hills",
-    "country": "United States",
-    "location": "Beverly Hills, United States",
-    "url": "https://lu.ma/t85xsndz",
-    "coverImage": "https://images.lumacdn.com/uploads/50/968a9f99-1495-43e9-b4f8-094a43c6be50.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-xdzRCPDhA2Tj2QU",
     "name": "Superteam India Coworking Days (BOM)",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -280,6 +196,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-EBl2ueWGOhUdRXq",
+    "name": "Introduction to Electronics and Computing",
+    "description": "",
+    "startDate": "2026-08-20T13:00:00.000Z",
+    "endDate": "2026-08-20T16:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/zfsofx2a",
+    "coverImage": "https://images.lumacdn.com/uploads/rk/0d82900b-c543-4433-9d05-bca9d073e461.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-pg1XekyGm9Qq5uM",
     "name": "Apéro Tricotant - 20 août",
     "description": "",
@@ -290,6 +220,20 @@
     "location": "Paris, France",
     "url": "https://lu.ma/eug5zju3",
     "coverImage": "https://images.lumacdn.com/uploads/co/2d3dc157-4413-4cea-afa8-03647ebdd570.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-vi4HEHkmLLYcOnb",
+    "name": "Build with AI. Build on Blockchain.",
+    "description": "",
+    "startDate": "2026-08-20T16:30:00.000Z",
+    "endDate": "2026-08-20T20:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/q763neb5",
+    "coverImage": "https://images.lumacdn.com/uploads/yz/15125aa3-5f69-4cf6-8bb7-2373fbdc4338.jpg",
     "source": "luma",
     "month": "August 2026"
   },
@@ -364,20 +308,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-G0Bn2F0HkWpGldg",
-    "name": "Silicon Xchange: LA Dinner",
-    "description": "",
-    "startDate": "2026-08-21T01:00:00.000Z",
-    "endDate": "2026-08-21T04:00:00.000Z",
-    "city": "Beverly Hills",
-    "country": "United States",
-    "location": "Beverly Hills, United States",
-    "url": "https://lu.ma/siliconxchange-LA",
-    "coverImage": "https://images.lumacdn.com/uploads/dx/c1aaea52-2b42-490d-83c3-2920ca9b4568.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-x3j0mxV07kqAjnZ",
     "name": "Atletico Health Club: 8/20 Beach Run",
     "description": "",
@@ -388,6 +318,20 @@
     "location": "Santa Monica, United States",
     "url": "https://lu.ma/8i4d4zcm",
     "coverImage": "https://images.lumacdn.com/uploads/mf/53103348-e303-4de5-ac33-63dccf6e5fbe.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-G0Bn2F0HkWpGldg",
+    "name": "Silicon Xchange: LA Dinner",
+    "description": "",
+    "startDate": "2026-08-21T01:00:00.000Z",
+    "endDate": "2026-08-21T04:00:00.000Z",
+    "city": "Beverly Hills",
+    "country": "United States",
+    "location": "Beverly Hills, United States",
+    "url": "https://lu.ma/siliconxchange-LA",
+    "coverImage": "https://images.lumacdn.com/uploads/dx/c1aaea52-2b42-490d-83c3-2920ca9b4568.jpg",
     "source": "luma",
     "month": "August 2026"
   },
@@ -613,6 +557,20 @@
     "url": "https://lu.ma/ethglobal-hh-bali",
     "coverImage": "https://images.lumacdn.com/uploads/rk/b3ac6f11-91fa-4b26-9301-bb0ddd8670cf.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-xBHxaApuuhRCmQL",
+    "name": "AUGUST - Greater Silicon Valley Robotics & Automation Luncheon",
+    "description": "",
+    "startDate": "2026-08-22T18:00:00.000Z",
+    "endDate": "2026-08-22T23:00:00.000Z",
+    "city": "San Gregorio",
+    "country": "United States",
+    "location": "San Gregorio, United States",
+    "url": "https://lu.ma/oknb6fcf",
+    "coverImage": "https://images.lumacdn.com/uploads/ff/72952af0-e822-4e54-bd5b-36c9c2e2ad8a.jpg",
+    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -938,6 +896,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-evt-V6hZ6HZPBaf5CA7",
+    "name": "Crypto Connect Networking Conference Fort Lauderdale",
+    "description": "",
+    "startDate": "2026-08-27T22:00:00.000Z",
+    "endDate": "2026-08-28T02:00:00.000Z",
+    "city": "Fort Lauderdale",
+    "country": "United States",
+    "location": "Fort Lauderdale, United States",
+    "url": "https://lu.ma/5nsur7ln",
+    "coverImage": "https://images.lumacdn.com/gallery-images/j5/e0d9e03b-63b3-452b-8899-3fc8f848a4bb",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-7QmJchNnzKUraiJ",
     "name": "Skyline Coworking CANCELLED",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -1023,7 +995,7 @@
   },
   {
     "id": "luma-host-evt-HTweMuQdLCGA4eD",
-    "name": "AI Agents, Living Labs & the Future of Society: Inside Edge Cities’ Experiments to Prototype New Ways to Live, Create & Flourish",
+    "name": "AI Agents, Living Labs & the Future of Society: Inside Edge Cities’ Experiments to Prototype New Ways to Live, Build & Flourish (SF)",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
     "startDate": "2026-09-01T01:00:00.000Z",
     "endDate": "2026-09-01T04:00:00.000Z",
@@ -1031,7 +1003,7 @@
     "country": "United States",
     "location": "San Francisco, United States",
     "url": "https://lu.ma/SFLightDAOAugust",
-    "coverImage": "https://images.lumacdn.com/uploads/o5/cc9a6e93-9ff0-4207-8491-953c3a27b55c.png",
+    "coverImage": "https://images.lumacdn.com/uploads/5e/f808bbfa-c80e-45b1-8545-e85111dfef23.png",
     "source": "luma-trusted",
     "month": "September 2026"
   },
@@ -1759,7 +1731,7 @@
     "country": "Dominican Republic",
     "location": "Punta Cana, Dominican Republic, Dominican Republic",
     "url": "https://www.blockcon.co",
-    "coverImage": null,
+    "coverImage": "https://www.blockcon.co/og/blockcon-home.png",
     "source": "marketacross",
     "month": "November 2026"
   },
