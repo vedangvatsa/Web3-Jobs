@@ -56,6 +56,30 @@ describe('news story dedup', () => {
     assert.equal(sameEvent(gpt, nyt), false);
   });
 
+  it('does not treat recurring topic words as the same scoop', () => {
+    assert.equal(
+      sameEvent(
+        'Fake Crypto AML Checkers Are Trying to Drain Users\' Wallets',
+        'Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets'
+      ),
+      false
+    );
+    assert.equal(
+      sameEvent(
+        'MiCA cracks down on USDT in Europe... but no one else cares',
+        'Germany leads MiCA crypto authorization race as Europe’s deadline looms'
+      ),
+      false
+    );
+    assert.equal(
+      sameEvent(
+        'OpenLedger’s Ram Kumar sees agentic payments as crypto’s first AI killer app',
+        'Toyota Finance opens tokenized bonds to retail investors via mobile payment app'
+      ),
+      false
+    );
+  });
+
   it('stores a fingerprint so a later rewrite is blocked even without the original headline', () => {
     const posted = new Set();
     rememberPostedStory(posted, {

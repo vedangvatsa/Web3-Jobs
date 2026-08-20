@@ -49,6 +49,7 @@ export function normalizeUrl(urlString) {
 
 export function stemWord(word) {
   let w = String(word || '').toLowerCase().trim();
+  if (ALIASES[w]) return ALIASES[w];
   if (w.endsWith('ies')) {
     w = w.slice(0, -3) + 'y';
   } else if (w.endsWith('s') && !w.endsWith('us') && !w.endsWith('is') && !w.endsWith('ss')) {
@@ -75,8 +76,8 @@ function prepareText(text) {
     .replace(/(\d+(?:\.\d+)?)\s*(billion|million)\b/g, (_, n, u) => {
       return ` ${String(n).replace('.', '')}${u.startsWith('b') ? 'b' : 'm'} `;
     })
-    // GPT-5.6 / Claude 4 → gpt56 / claude4 so versioned products survive tokenization
-    .replace(/([a-z]+)\s*[-.]?\s*(\d+(?:\.\d+)?)/g, (_, name, num) => `${name}${String(num).replace('.', '')}`)
+    // GPT-5.6 / Claude 4 → gpt56 / claude4. Do not glue verbs onto money tokens (raises 20b).
+    .replace(/\b([a-z]{2,})\s*[-./]?\s*(\d+(?:\.\d+)?)(?![a-z0-9])/g, (_, name, num) => `${name}${String(num).replace('.', '')}`)
     .replace(/[^a-z0-9]/g, ' ');
 }
 
@@ -101,11 +102,18 @@ export function fingerprintsMatch(a, b) {
   const sa = new Set(a.filter(Boolean));
   const sb = new Set(b.filter(Boolean));
   if (!sa.size || !sb.size) return false;
-  let n = 0;
-  for (const t of sa) if (sb.has(t)) n++;
+  const shared = [...sa].filter((t) => sb.has(t));
+  const n = shared.length;
   if (n >= 3) return true;
-  const min = Math.min(sa.size, sb.size);
-  return min >= 2 && n >= 2 && n / min >= 0.5;
+  // Soft path only for versioned products (gpt56, claude4, 20b) + an org/name token.
+  // Plain topic overlaps like "mica"+"europe" or "drain"+"wallet" must not match.
+  if (n >= 2) {
+    const min = Math.min(sa.size, sb.size);
+    const hasVersioned = shared.some((t) => /\d/.test(t));
+    const hasOrg = shared.some((t) => t.length >= 4 && !/\d/.test(t));
+    return hasVersioned && hasOrg && n / min >= 0.5;
+  }
+  return false;
 }
 
 export function isSimilar(a, b, threshold = 0.4) {
@@ -120,6 +128,9 @@ export function isSimilar(a, b, threshold = 0.4) {
 /**
  * True when two headlines cover the same real-world event, regardless of
  * outlet or Gemini wording.
+ *
+ * Kept strict on purpose: a soft keyword overlap was blocking ~95% of fresh
+ * RSS items against months of history (e.g. any two "wallet drain" stories).
  */
 export function sameEvent(a, b) {
   if (!a || !b) return false;
@@ -127,7 +138,6 @@ export function sameEvent(a, b) {
   const right = String(b).trim().toLowerCase();
   if (!left || !right) return false;
   if (left === right) return true;
-  if (isSimilar(a, b, 0.28)) return true;
   if (fingerprintsMatch(eventFingerprint(a), eventFingerprint(b))) return true;
   const da = distinctiveTokens(a);
   const db = distinctiveTokens(b);
@@ -135,15 +145,30 @@ export function sameEvent(a, b) {
   const dbSet = new Set(db);
   const shared = da.filter((w) => dbSet.has(w));
   if (shared.length >= 3) return true;
-  const min = Math.min(da.length, db.length);
-  if (min >= 2 && shared.length >= 2 && shared.length / min >= 0.5) return true;
-  const hasEntity = shared.some((w) => w.length >= 5);
-  const hasTopic = shared.some((w) => w.length >= 4);
-  return hasEntity && hasTopic && shared.length >= 2;
+  if (shared.length >= 2) {
+    const min = Math.min(da.length, db.length);
+    const hasVersioned = shared.some((w) => /\d/.test(w));
+    const hasOrg = shared.some((w) => w.length >= 4 && !/\d/.test(w));
+    return hasVersioned && hasOrg && shared.length / min >= 0.5;
+  }
+  return false;
 }
 
 export function postedTexts(posted) {
   return [...posted].filter((p) => typeof p === 'string' && !/^https?:\/\//i.test(p));
+}
+
+/** Prefer recent digests for event matching; ancient headlines create false blocks. */
+export function recentPostedTexts(postedList, { maxTexts = 120, maxFingerprints = 120 } = {}) {
+  const texts = [];
+  const fps = [];
+  for (const p of postedList) {
+    const s = String(p || '');
+    if (!s) continue;
+    if (s.startsWith('fp:')) fps.push(s);
+    else if (!/^https?:\/\//i.test(s)) texts.push(s);
+  }
+  return [...texts.slice(-maxTexts), ...fps.slice(-maxFingerprints)];
 }
 
 export function alreadyCovered(candidate, postedList) {
