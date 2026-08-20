@@ -1,5 +1,101 @@
 [
   {
+    "id": "8733171002",
+    "title": "Associate Implementation Consultant - 2025/2026 Graduates",
+    "company": "ComplyAdvantage",
+    "link": "https://complyadvantage.com/careers/jobs/8733171002?gh_jid=8733171002",
+    "date": "2026-08-20T09:28:59-04:00",
+    "source": "Greenhouse: ComplyAdvantage"
+  },
+  {
+    "id": "8140583",
+    "title": "Solutions Architect, Platforms, UK & Ireland",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8140583",
+    "date": "2026-08-20T09:23:35-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8729499002",
+    "title": "Associate Implementation Consultant",
+    "company": "ComplyAdvantage",
+    "link": "https://complyadvantage.com/careers/jobs/8729499002?gh_jid=8729499002",
+    "date": "2026-08-20T09:17:36-04:00",
+    "source": "Greenhouse: ComplyAdvantage"
+  },
+  {
+    "id": "90604049",
+    "title": "Assistant General Counsel - Commercial (Partnerships)",
+    "company": "Kraken",
+    "link": "https://jobs.ashbyhq.com/kraken.com/506de4d6-4f93-4db6-89c0-8539edbae4ae",
+    "date": "2026-08-20T13:09:36.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "90598566",
+    "title": "Executive Operations Partner - EPD (Executive Assistant)",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/8ee34d10-ba59-44bb-b12c-0130e908810d",
+    "date": "2026-08-20T12:59:18.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "90598567",
+    "title": "Data Science Intern (Winter 2027)",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
+    "date": "2026-08-20T12:59:18.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "90598559",
+    "title": "Mid-Market Outcomes Architect",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/369fd192-61d8-48d2-9430-49905d733349",
+    "date": "2026-08-20T12:59:16.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "90598553",
+    "title": "Engineering Manager, Content Onboarding",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/93219b9d-b694-4f2c-aa05-856fc32f0fba",
+    "date": "2026-08-20T12:59:16.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "e5cad422-c5c2-4504-a687-6f25294f3e84",
+    "title": "Senior Software Engineer (GoLang/PHP)",
+    "company": "Gelato",
+    "link": "https://jobs.ashbyhq.com/Gelato/e5cad422-c5c2-4504-a687-6f25294f3e84",
+    "date": "2026-08-20T12:43:46.782+00:00",
+    "source": "Ashby: Gelato"
+  },
+  {
+    "id": "90592775",
+    "title": "Premium Cash Officer",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6147405004",
+    "date": "2026-08-20T12:40:21.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "90592759",
+    "title": "Premium Cash Assistant",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6147463004",
+    "date": "2026-08-20T12:40:20.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "90584263",
+    "title": "Director of Engineering, Onchain",
+    "company": "Mesh",
+    "link": "https://boards.greenhouse.io/mesh/jobs/5396424008",
+    "date": "2026-08-20T12:20:31.000Z",
+    "source": "https://jobs.dragonfly.xyz/jobs"
+  },
+  {
     "id": "90564760",
     "title": "Fiat P2P Operation Expert",
     "company": "Bybit",
@@ -1016,6 +1112,14 @@
     "source": "https://jobs.arbitrum.io/jobs"
   },
   {
+    "id": "b8bf44e1-db4a-43af-9afe-a3d32171d8a0",
+    "title": "Senior Software Engineer - Data",
+    "company": "Elliptic",
+    "link": "https://jobs.ashbyhq.com/Elliptic/b8bf44e1-db4a-43af-9afe-a3d32171d8a0",
+    "date": "2026-08-18T12:03:22.367+00:00",
+    "source": "Ashby: Elliptic"
+  },
+  {
     "id": "8121659",
     "title": "Account Executive, Platforms Hunter (Central Eastern Europe)",
     "company": "Stripe",
@@ -1932,6 +2036,14 @@
     "title": "Full TimeSoftware Engineer, Hermes Cloud",
     "company": "Nous Research",
     "link": "https://nousresearch.com/software-engineer-hermes-cloud/",
+    "date": "2026-08-15T12:07:57.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "90071015",
+    "title": "Full TimeSoftware Engineer, Product",
+    "company": "Nous Research",
+    "link": "https://nousresearch.com/software-engineer-gui-product/",
     "date": "2026-08-15T12:07:57.000Z",
     "source": "https://jobs.solana.com/jobs"
   },
@@ -17141,101 +17253,5 @@
     "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8074806&gh_jid=8074806",
     "date": "2026-07-21T10:01:08-04:00",
     "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "b8bf44e1-db4a-43af-9afe-a3d32171d8a0",
-    "title": "Senior Software Engineer - Data",
-    "company": "Elliptic",
-    "link": "https://jobs.ashbyhq.com/Elliptic/b8bf44e1-db4a-43af-9afe-a3d32171d8a0",
-    "date": "2026-07-21T13:51:38.425+00:00",
-    "source": "Ashby: Elliptic"
-  },
-  {
-    "id": "87014669",
-    "title": "Compliance Analyst",
-    "company": "Rain",
-    "link": "https://jobs.ashbyhq.com/rain/6ac11993-0fb8-4121-85f6-e53d1ecc9d6e",
-    "date": "2026-07-21T13:28:36.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "87014670",
-    "title": "Compliance Engineer",
-    "company": "Rain",
-    "link": "https://jobs.ashbyhq.com/rain/f055197c-7db9-47f4-8978-7ff564ada7ae",
-    "date": "2026-07-21T13:28:36.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "87014667",
-    "title": "Compliance Associate",
-    "company": "Rain",
-    "link": "https://jobs.ashbyhq.com/rain/4ebd8c9d-e68c-4df1-ac82-cb666a1911f3",
-    "date": "2026-07-21T13:28:35.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "8074978",
-    "title": "Staff Application Security Engineer",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8074978&gh_jid=8074978",
-    "date": "2026-07-21T09:21:22-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "8074982",
-    "title": "Senior Manager, Platform Security",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8074982&gh_jid=8074982",
-    "date": "2026-07-21T09:20:59-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "8628843002",
-    "title": "Windows Engineer",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8628843002",
-    "date": "2026-07-21T09:14:49-04:00",
-    "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "8007738",
-    "title": "Technical Program Manager, Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8007738",
-    "date": "2026-07-21T08:57:54-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "4b30efc7-b315-46db-abfb-65f5d2dfb039",
-    "title": "Account Executive, Crypto Native",
-    "company": "Blockdaemon",
-    "link": "https://jobs.ashbyhq.com/Blockdaemon/4b30efc7-b315-46db-abfb-65f5d2dfb039",
-    "date": "2026-07-21T12:50:41.766+00:00",
-    "source": "Ashby: Blockdaemon"
-  },
-  {
-    "id": "86977951",
-    "title": "Compliance Analyst",
-    "company": "Tephra",
-    "link": "https://jobs.ashbyhq.com/rain/6ac11993-0fb8-4121-85f6-e53d1ecc9d6e",
-    "date": "2026-07-21T12:04:24.000Z",
-    "source": "https://jobs.variant.fund/jobs"
-  },
-  {
-    "id": "86977952",
-    "title": "Compliance Engineer",
-    "company": "Tephra",
-    "link": "https://jobs.ashbyhq.com/rain/f055197c-7db9-47f4-8978-7ff564ada7ae",
-    "date": "2026-07-21T12:04:24.000Z",
-    "source": "https://jobs.variant.fund/jobs"
-  },
-  {
-    "id": "86977948",
-    "title": "Compliance Associate",
-    "company": "Tephra",
-    "link": "https://jobs.ashbyhq.com/rain/4ebd8c9d-e68c-4df1-ac82-cb666a1911f3",
-    "date": "2026-07-21T12:04:23.000Z",
-    "source": "https://jobs.variant.fund/jobs"
   }
 ]
