@@ -1,33 +1,5 @@
 [
   {
-    "id": "luma-host-evt-T2tQkKnZEqXWxYO",
-    "name": "Superteam India Community Call [2026]",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-08-20T12:30:00.000Z",
-    "endDate": "2026-08-20T13:10:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/stin-commcall-2026",
-    "coverImage": "https://images.lumacdn.com/event-covers/qo/cbcdd981-6871-45fe-aaab-4bae6cffab27",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-EBl2ueWGOhUdRXq",
-    "name": "Introduction to Electronics and Computing",
-    "description": "",
-    "startDate": "2026-08-20T13:00:00.000Z",
-    "endDate": "2026-08-20T16:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/zfsofx2a",
-    "coverImage": "https://images.lumacdn.com/uploads/rk/0d82900b-c543-4433-9d05-bca9d073e461.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-pg1XekyGm9Qq5uM",
     "name": "Apéro Tricotant - 20 août",
     "description": "",
@@ -53,20 +25,6 @@
     "url": "https://lu.ma/q763neb5",
     "coverImage": "https://images.lumacdn.com/uploads/yz/15125aa3-5f69-4cf6-8bb7-2373fbdc4338.jpg",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-316076723",
-    "name": "PHX🎙️TALKS",
-    "description": "**The Autonomous Testing Myth: Why You Don’t Need a Unicorn to Achieve \"Mythos-Level\" Results**\n\n\"Mythos\" has become the industry buzzword for the \"unicorn\" of autonomous testing—a self-healing, self-",
-    "startDate": "2026-08-20T12:00:00-07:00",
-    "endDate": "2026-08-20T12:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/codephx/events/316076723/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/e/9/b/a/600_535619834.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -109,6 +67,34 @@
     "url": "https://lu.ma/9p0k7nkv",
     "coverImage": "https://images.lumacdn.com/uploads/xo/c48114a5-693c-4f93-a17b-fd9d7b0806fd.jpg",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316024698",
+    "name": "AWS Agentic AI Summit - Grafana, CrowdStrike, Fireworks, LaunchPad, TiDB",
+    "description": "**Important note:** Register on the [AICamp Event Website ](https://www.aicamp.ai/event/eventdetails/W2026082017)is REQUIRED for admission.\n\n**From Code to Production - Building Production-Ready AI Ag",
+    "startDate": "2026-08-20T16:00:00-07:00",
+    "endDate": "2026-08-20T16:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/sv-enterprise-ai/events/316024698/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/6/e/7/600_535555015.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316024694",
+    "name": "AWS Agentic AI Summit - Grafana, CrowdStrike, Fireworks, LaunchPad, TiDB",
+    "description": "**Important note:** Register on the [AICamp Event Website ](https://www.aicamp.ai/event/eventdetails/W2026082017)is REQUIRED for admission.\n\n**From Code to Production - Building Production-Ready AI Ag",
+    "startDate": "2026-08-20T16:30:00-07:00",
+    "endDate": "2026-08-20T16:30:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/artificial-intelligence-deep-learning/events/316024694/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/6/e/3/600_535555011.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -165,20 +151,6 @@
     "url": "https://lu.ma/e91768m1",
     "coverImage": "https://images.lumacdn.com/uploads/fh/7eb398ee-10b0-42f0-90e5-c21c6f031d66.png",
     "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315929509",
-    "name": "Crypto talk - Money is Freedom; currency is slavery ",
-    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
-    "startDate": "2026-08-20T19:00:00-07:00",
-    "endDate": "2026-08-20T19:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cashflow-271/events/315929509/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/e/c/2/600_501417026.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -308,20 +280,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315935080",
-    "name": "Brokerage Breakdown - The Modern Brokerage for Forward Thinking Agents",
-    "description": "Let's breakdown the differences in the cloud brokerages.\n\nYes, we're biased and will show you how one of them \"breaks the mold\".\nIf you're an early adapter or just don't want to get left behind, come ",
-    "startDate": "2026-08-21T09:00:00-07:00",
-    "endDate": "2026-08-21T09:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/monthly-wholesale-fix-flip-meetup/events/315935080/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/a/7/7/6/600_530622870.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-XZiEt7cfLTWjGve",
     "name": "Vancouver VibeStation",
     "description": "Building the Solana ecosystem in Canada 🇨🇦",
@@ -448,20 +406,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316074097",
-    "name": "Community Day hangout",
-    "description": "This event is a good way to meet and greet, hangout, chat with others. Limited space to try to keep things more manageable and personable. The hope is to make this a more common event going forward.\n\n",
-    "startDate": "2026-08-22T16:00:00-07:00",
-    "endDate": "2026-08-22T16:00:00-07:00",
-    "city": "Chandler",
-    "country": "us",
-    "location": "Chandler, us",
-    "url": "https://www.meetup.com/move-towards-your-best-life/events/316074097/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/6/1/a/600_522354810.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-nYa1pDmEnI3hKz1",
     "name": "Soft Circuit Crown Workshop | Electronic Tea Time by Nasha",
     "description": "",
@@ -501,6 +445,20 @@
     "url": "https://lu.ma/4wcamhxg",
     "coverImage": "https://images.lumacdn.com/uploads/7d/88861a35-7c2d-46fe-a722-d41a7dbab2bb.png",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316103029",
+    "name": "Corte Madera - Bitcoin Meetup",
+    "description": "If this is your first time at one of our meetups, we have a simple guideline to enhance everyone’s experience:\n\n* Our meetups and events have a singular focus: Bitcoin. All of our topics and discussio",
+    "startDate": "2026-08-23T16:00:00-07:00",
+    "endDate": "2026-08-23T16:00:00-07:00",
+    "city": "Corte Madera",
+    "country": "us",
+    "location": "Corte Madera, us",
+    "url": "https://www.meetup.com/bay-area-bitcoiners/events/316103029/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/2/8/1/5/600_528490261.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -585,6 +543,20 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-august-rome-it",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315983434",
+    "name": "Web3 and AI networking at The Rose & Crown",
+    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
+    "startDate": "2026-08-24T18:30:00-07:00",
+    "endDate": "2026-08-24T18:30:00-07:00",
+    "city": "Palo Alto",
+    "country": "us",
+    "location": "Palo Alto, us",
+    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/315983434/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/c/4/a/1/600_473750337.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -756,20 +728,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-host-evt-YkyMEJ3vRCg9s29",
-    "name": "Lido Poolside: Tokenholder Update, August 2026",
-    "description": "Events from Lido",
-    "startDate": "2026-08-27T14:00:00.000Z",
-    "endDate": "2026-08-27T15:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/l1a1gihi",
-    "coverImage": "https://images.lumacdn.com/uploads/h4/834865c7-b614-4d26-b11f-c92fb8286463.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-S1a3G141Dsg60pk",
     "name": "The Solana Ecosystem Call | August",
     "description": "",
@@ -780,6 +738,20 @@
     "location": "Virtual / TBA",
     "url": "https://lu.ma/0j8gx7i1",
     "coverImage": "https://images.lumacdn.com/event-covers/kp/fe5fe8ac-5e54-4e0a-b8b5-fe23c650dcb7.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-YkyMEJ3vRCg9s29",
+    "name": "Lido Poolside: Tokenholder Update, August 2026",
+    "description": "Events from Lido",
+    "startDate": "2026-08-27T14:00:00.000Z",
+    "endDate": "2026-08-27T15:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "Virtual / TBA",
+    "url": "https://lu.ma/l1a1gihi",
+    "coverImage": "https://images.lumacdn.com/uploads/h4/834865c7-b614-4d26-b11f-c92fb8286463.png",
     "source": "luma-trusted",
     "month": "August 2026"
   },
@@ -798,7 +770,7 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990056",
+    "id": "mu-315990006",
     "name": "ZK Learning Group: Introduction to ZkSync",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
     "startDate": "2026-08-27T09:00:00-07:00",
@@ -806,8 +778,22 @@
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-phoenix/events/315990056/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/9/b/600_535528827.jpeg",
+    "url": "https://www.meetup.com/lfdt-sf/events/315990006/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/6/5/600_535528773.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315989997",
+    "name": "ZK Learning Group: Introduction to ZkSync",
+    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
+    "startDate": "2026-08-27T09:00:00-07:00",
+    "endDate": "2026-08-27T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-silicon-valley/events/315989997/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/5/f/600_535528767.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -868,16 +854,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316025624",
-    "name": "Artificial Intelligence and Blockchain Discussion",
-    "description": "Join us for an engaging discussion on the latest advancements in Artificial Intelligence and Blockchain technology. Our event will cover topics such as Machine Learning, Ethereum, Smart Contracts, and",
-    "startDate": "2026-08-27T16:00:00-07:00",
-    "endDate": "2026-08-27T16:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/ai-blockchain-more-tech/events/316025624/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/6/e/2/7/600_521728199.jpeg",
+    "id": "mu-316063273",
+    "name": "Fireside chat with Linley Gwennap",
+    "description": "Fireside chat with Linley Gwennap\nLinley Gwennap ran Microprocessor Report (MPR), a popular publication in Silicon Valley from 90s to 2025. His long career spanned covering processors from covering th",
+    "startDate": "2026-08-27T17:00:00-07:00",
+    "endDate": "2026-08-27T17:00:00-07:00",
+    "city": "Menlo park",
+    "country": "us",
+    "location": "Menlo park, us",
+    "url": "https://www.meetup.com/bay-area-computer-vision-and-deep-learning-meet-up/events/316063273/",
+    "coverImage": "https://www.meetup.com/images/fallbacks/redesign/group-cover-3-wide.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -1260,6 +1246,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-nZ3FGlDyNEHGDJI",
+    "name": "AI & WEB3 Growth Summit",
+    "description": "",
+    "startDate": "2026-09-14T07:00:00.000Z",
+    "endDate": "2026-09-14T15:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/nivf7yvb",
+    "coverImage": "https://images.lumacdn.com/uploads/bt/9d1ffe93-a29a-4659-b887-b23a66edbc9b.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-host-evt-pFcQwUTOA8oLMMD",
     "name": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
     "description": "Learn, build and advance your career in Emerging Tech with our community of 500,000 talented professionals worldwide.",
@@ -1327,6 +1327,20 @@
     "url": "https://lu.ma/urnjrsdt",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-guWog2uyJoSwwlV",
+    "name": "10 ans BioLaunchpad",
+    "description": "",
+    "startDate": "2026-09-21T16:00:00.000Z",
+    "endDate": "2026-09-21T19:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/59fgmsee",
+    "coverImage": "https://images.lumacdn.com/uploads/sc/baae43e2-ff02-43bf-b5ba-4241f124067b.png",
+    "source": "luma",
     "month": "September 2026"
   },
   {
