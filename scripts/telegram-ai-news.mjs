@@ -18,6 +18,7 @@ import {
   isSimilar,
   normalizeUrl,
   postedTexts,
+  recentPostedTexts,
   rememberPostedStory,
   sameEvent,
   trimPostedLog,
@@ -182,7 +183,8 @@ async function callGemini(prompt) {
   throw new Error('All Gemini models failed');
 }
 
-async function filterAndSummarize(newsItems, recentHeadlines = []) {
+async function filterAndSummarize(newsItems, recentHeadlines = [], pickCount = STORIES_PER_POST) {
+  const want = Math.max(1, Math.min(pickCount, STORIES_PER_POST, newsItems.length));
   const headlines = newsItems.slice(0, 30).map((n, i) => (
     `${i + 1}. [${n.source}] ${n.title}\n   ${n.snippet}`
   )).join('\n\n');
@@ -192,7 +194,7 @@ async function filterAndSummarize(newsItems, recentHeadlines = []) {
     ? `\n\nALREADY POSTED (do NOT pick stories about the same events, even if worded differently):\n${recentHeadlines.map(h => `- ${h}`).join('\n')}\n`
     : '';
 
-  const prompt = `Pick the ${STORIES_PER_POST} most important AI industry stories from these ${Math.min(newsItems.length, 30)} items.
+  const prompt = `Pick the ${want} most important AI industry stories from these ${Math.min(newsItems.length, 30)} items.
 
 These should be stories an AI professional MUST know today. Think industry-moving events only.
 
@@ -205,7 +207,7 @@ Skip: opinion pieces, listicles, how-to guides, product reviews, company PR or m
 SEMANTIC DEDUPLICATION & CONTEXTUAL FILTERING:
 - Group the incoming stories by the real-world event they cover first. If multiple sources cover the same event (even with completely different words or focus), group them and consider only the single most authoritative article.
 - Do NOT select two stories about the same event. All selected stories must cover completely distinct real-world events.
-- Carefully review the 'ALREADY POSTED' stories below. You MUST NOT select any story that covers the same real-world event or its immediate direct follow-up, even if written differently or containing different details. This applies to every previously posted story, not only last week's.
+- Carefully review the 'ALREADY POSTED' stories below. You MUST NOT select any story that covers the same real-world event or its immediate direct follow-up, even if written differently or containing different details.
 ${recentBlock}
 For each story write:
 - headline: factual, max 10 words, no hype. USE the company name (e.g. "OpenAI releases new reasoning model" not "AI company releases new model"). No jargon a non-technical reader wouldn't understand.
@@ -216,7 +218,7 @@ Write like a wire service. Plain, direct, no filler.
 
 BANNED WORDS: "signifies", "highlights", "underscores", "reshapes", "poised", "bolsters", "notably", "landscape", "paradigm", "innovative", "robust", "leveraging", "cutting-edge", "game-changer", "pivotal", "crucial", "essential", "transformative", "marks a", "reflects".
 
-Return ONLY a JSON array of exactly ${STORIES_PER_POST} objects: {"index", "original_title", "headline", "summary", "event_rationale"}
+Return ONLY a JSON array of exactly ${want} objects: {"index", "original_title", "headline", "summary", "event_rationale"}
 
 ${headlines}`;
 
@@ -312,31 +314,31 @@ async function postOnce() {
   const allNews = await fetchAllNews();
   console.log(`  Found ${allNews.length} unique stories`);
 
-  // Filter out already posted (by link AND by event, across every stored headline)
+  // Filter out already posted (by link AND by recent event match on titles)
   const posted = loadPosted();
   const allPostedHeadlines = postedTexts(posted);
+  const recentCovered = recentPostedTexts(allPostedHeadlines);
   const postedLinks = [...posted].filter(p => /^https?:\/\//i.test(p));
   const normalizedPostedLinks = new Set([...postedLinks].map(normalizeUrl));
 
   const fresh = allNews.filter(n => {
     if (normalizedPostedLinks.has(normalizeUrl(n.link))) return false;
-    const blob = `${n.title} ${n.snippet || ''}`;
-    if (alreadyCovered(blob, allPostedHeadlines) || alreadyCovered(n.title, allPostedHeadlines)) {
-      return false;
-    }
+    // Title-only: snippets share generic AI wording and caused false blocks.
+    if (alreadyCovered(n.title, recentCovered)) return false;
     return true;
   });
   console.log(`  ${fresh.length} not yet posted`);
 
-  const MIN_STORIES = 3;
+  const MIN_STORIES = 1;
   if (fresh.length < MIN_STORIES) {
     console.log(`  Only ${fresh.length} fresh stories (need ${MIN_STORIES}), skipping this run`);
     return;
   }
 
   console.log('Asking Gemini to filter & summarize...');
-  const recentHeadlines = allPostedHeadlines.filter((h) => !String(h).startsWith('fp:')).slice(-200);
-  const rawStories = await filterAndSummarize(fresh, recentHeadlines);
+  const recentHeadlines = recentCovered.filter((h) => !String(h).startsWith('fp:')).slice(-80);
+  const pickCount = Math.min(STORIES_PER_POST, fresh.length);
+  const rawStories = await filterAndSummarize(fresh, recentHeadlines, pickCount);
 
   // Programmatically validate and deduplicate Gemini's selection
   const stories = [];
@@ -352,8 +354,8 @@ async function postOnce() {
     const normUrl = normalizeUrl(originalItem.link);
     if (seenUrls.has(normUrl)) continue; // Duplicate URL in selection
 
-    const candidate = `${story.headline} ${story.summary || ''} ${originalItem.title} ${originalItem.snippet || ''}`;
-    if (alreadyCovered(candidate, allPostedHeadlines)) {
+    const candidate = `${story.headline} ${story.summary || ''} ${originalItem.title}`;
+    if (alreadyCovered(candidate, recentCovered) || alreadyCovered(story.headline, recentCovered)) {
       console.log(`⚠️ Pruned Gemini selection due to similarity with past headline: "${story.headline}"`);
       continue;
     }
@@ -370,10 +372,11 @@ async function postOnce() {
     stories.push(story);
   }
 
-  if (stories.length < STORIES_PER_POST) {
-    console.log(`⚠️ Gemini selection had duplicates/errors. Got ${stories.length}/${STORIES_PER_POST}. Backfilling...`);
+  const targetCount = Math.min(STORIES_PER_POST, fresh.length);
+  if (stories.length < targetCount) {
+    console.log(`⚠️ Gemini selection had duplicates/errors. Got ${stories.length}/${targetCount}. Backfilling...`);
     for (let i = 0; i < fresh.length; i++) {
-      if (stories.length >= STORIES_PER_POST) break;
+      if (stories.length >= targetCount) break;
       const idx = i + 1;
       if (seenIndices.has(idx)) continue;
 
@@ -399,8 +402,8 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
         if (jsonMatch) {
           const parsed = JSON.parse(jsonMatch[0]);
 
-          const candidate = `${parsed.headline} ${parsed.summary || ''} ${item.title} ${item.snippet || ''}`;
-          if (alreadyCovered(candidate, allPostedHeadlines)) {
+          const candidate = `${parsed.headline} ${parsed.summary || ''} ${item.title}`;
+          if (alreadyCovered(candidate, recentCovered) || alreadyCovered(parsed.headline, recentCovered)) {
             console.log(`⚠️ Pruned backfilled story due to similarity with past headline: "${parsed.headline}"`);
             continue;
           }
