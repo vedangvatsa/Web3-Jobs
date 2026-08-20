@@ -1,33 +1,5 @@
 [
   {
-    "id": "luma-evt-pg1XekyGm9Qq5uM",
-    "name": "Apéro Tricotant - 20 août",
-    "description": "",
-    "startDate": "2026-08-20T15:30:00.000Z",
-    "endDate": "2026-08-20T19:30:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/eug5zju3",
-    "coverImage": "https://images.lumacdn.com/uploads/co/2d3dc157-4413-4cea-afa8-03647ebdd570.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-vi4HEHkmLLYcOnb",
-    "name": "Build with AI. Build on Blockchain.",
-    "description": "",
-    "startDate": "2026-08-20T16:30:00.000Z",
-    "endDate": "2026-08-20T20:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/q763neb5",
-    "coverImage": "https://images.lumacdn.com/uploads/yz/15125aa3-5f69-4cf6-8bb7-2373fbdc4338.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-bEFjoHtA5MnVbF7",
     "name": "Solana Leaders in Toronto",
     "description": "",
@@ -70,34 +42,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316024698",
-    "name": "AWS Agentic AI Summit - Grafana, CrowdStrike, Fireworks, LaunchPad, TiDB",
-    "description": "**Important note:** Register on the [AICamp Event Website ](https://www.aicamp.ai/event/eventdetails/W2026082017)is REQUIRED for admission.\n\n**From Code to Production - Building Production-Ready AI Ag",
-    "startDate": "2026-08-20T16:00:00-07:00",
-    "endDate": "2026-08-20T16:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/sv-enterprise-ai/events/316024698/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/6/e/7/600_535555015.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-316024694",
-    "name": "AWS Agentic AI Summit - Grafana, CrowdStrike, Fireworks, LaunchPad, TiDB",
-    "description": "**Important note:** Register on the [AICamp Event Website ](https://www.aicamp.ai/event/eventdetails/W2026082017)is REQUIRED for admission.\n\n**From Code to Production - Building Production-Ready AI Ag",
-    "startDate": "2026-08-20T16:30:00-07:00",
-    "endDate": "2026-08-20T16:30:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/artificial-intelligence-deep-learning/events/316024694/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/d/6/e/3/600_535555011.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-0XYjvBDJzsHOn2u",
     "name": "Could Movies be the next Silicon Valley Unicorn?",
     "description": "",
@@ -112,20 +56,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-x3j0mxV07kqAjnZ",
-    "name": "Atletico Health Club: 8/20 Beach Run",
-    "description": "",
-    "startDate": "2026-08-21T01:00:00.000Z",
-    "endDate": "2026-08-21T02:00:00.000Z",
-    "city": "Santa Monica",
-    "country": "United States",
-    "location": "Santa Monica, United States",
-    "url": "https://lu.ma/8i4d4zcm",
-    "coverImage": "https://images.lumacdn.com/uploads/mf/53103348-e303-4de5-ac33-63dccf6e5fbe.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-G0Bn2F0HkWpGldg",
     "name": "Silicon Xchange: LA Dinner",
     "description": "",
@@ -136,6 +66,20 @@
     "location": "Beverly Hills, United States",
     "url": "https://lu.ma/siliconxchange-LA",
     "coverImage": "https://images.lumacdn.com/uploads/dx/c1aaea52-2b42-490d-83c3-2920ca9b4568.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-x3j0mxV07kqAjnZ",
+    "name": "Atletico Health Club: 8/20 Beach Run",
+    "description": "",
+    "startDate": "2026-08-21T01:15:00.000Z",
+    "endDate": "2026-08-21T02:15:00.000Z",
+    "city": "Santa Monica",
+    "country": "United States",
+    "location": "Santa Monica, United States",
+    "url": "https://lu.ma/8i4d4zcm",
+    "coverImage": "https://images.lumacdn.com/uploads/mf/53103348-e303-4de5-ac33-63dccf6e5fbe.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -277,6 +221,20 @@
     "url": "https://lu.ma/9vtoecnz",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315286635",
+    "name": "Fabric Data Agent como servidor MCP: expón tus datos empresariales a cualquier L",
+    "description": "Esta sesión es el núcleo de la serie: aprenderás a convertir un Fabric Data Agent en un servidor MCP para que cualquier herramienta de IA externa — Claude, Copilot, agentes custom — pueda consultarlo ",
+    "startDate": "2026-08-21T08:00:00-07:00",
+    "endDate": "2026-08-21T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286635/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/e/f/8/600_534888888.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -448,20 +406,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316103029",
-    "name": "Corte Madera - Bitcoin Meetup",
-    "description": "If this is your first time at one of our meetups, we have a simple guideline to enhance everyone’s experience:\n\n* Our meetups and events have a singular focus: Bitcoin. All of our topics and discussio",
-    "startDate": "2026-08-23T16:00:00-07:00",
-    "endDate": "2026-08-23T16:00:00-07:00",
-    "city": "Corte Madera",
-    "country": "us",
-    "location": "Corte Madera, us",
-    "url": "https://www.meetup.com/bay-area-bitcoiners/events/316103029/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/2/8/1/5/600_528490261.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-B0PbGh6xwp75847",
     "name": "san francisco: charming keychains workshop w/ kelsey armstrong",
     "description": "",
@@ -500,6 +444,20 @@
     "location": "Vancouver, Canada",
     "url": "https://lu.ma/riegwy4i",
     "coverImage": "https://images.lumacdn.com/uploads/vh/9f13d407-b43d-4d7c-887c-0106eda46f56.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-nZDXabLoibf3NXL",
+    "name": "Agents Rise On Solana",
+    "description": "",
+    "startDate": "2026-08-24T21:00:00.000Z",
+    "endDate": "2026-08-24T23:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/i8lky2q0",
+    "coverImage": "https://images.lumacdn.com/uploads/zb/17831597-3462-41fc-bc47-4573534786f3.jpg",
     "source": "luma",
     "month": "August 2026"
   },
@@ -543,20 +501,6 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-august-rome-it",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315983434",
-    "name": "Web3 and AI networking at The Rose & Crown",
-    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
-    "startDate": "2026-08-24T18:30:00-07:00",
-    "endDate": "2026-08-24T18:30:00-07:00",
-    "city": "Palo Alto",
-    "country": "us",
-    "location": "Palo Alto, us",
-    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/315983434/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/c/4/a/1/600_473750337.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -770,7 +714,7 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990006",
+    "id": "mu-315990029",
     "name": "ZK Learning Group: Introduction to ZkSync",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
     "startDate": "2026-08-27T09:00:00-07:00",
@@ -778,22 +722,8 @@
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-sf/events/315990006/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/6/5/600_535528773.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315989997",
-    "name": "ZK Learning Group: Introduction to ZkSync",
-    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-08-27T09:00:00-07:00",
-    "endDate": "2026-08-27T09:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/lfdt-silicon-valley/events/315989997/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/5/f/600_535528767.jpeg",
+    "url": "https://www.meetup.com/lfdt-seattle-chapter/events/315990029/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/8/0/600_535528800.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -812,7 +742,7 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316021772",
+    "id": "mu-316021768",
     "name": "Live AI Crypto Trading Demo + Founder Q&A",
     "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
     "startDate": "2026-08-27T11:00:00-07:00",
@@ -820,8 +750,8 @@
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/316021772/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/5/e/d/2/600_535224274.jpeg",
+    "url": "https://www.meetup.com/carpoolcrypto/events/316021768/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/f/f/6/600_535224566.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -854,20 +784,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316063273",
-    "name": "Fireside chat with Linley Gwennap",
-    "description": "Fireside chat with Linley Gwennap\nLinley Gwennap ran Microprocessor Report (MPR), a popular publication in Silicon Valley from 90s to 2025. His long career spanned covering processors from covering th",
-    "startDate": "2026-08-27T17:00:00-07:00",
-    "endDate": "2026-08-27T17:00:00-07:00",
-    "city": "Menlo park",
-    "country": "us",
-    "location": "Menlo park, us",
-    "url": "https://www.meetup.com/bay-area-computer-vision-and-deep-learning-meet-up/events/316063273/",
-    "coverImage": "https://www.meetup.com/images/fallbacks/redesign/group-cover-3-wide.jpeg",
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-7QmJchNnzKUraiJ",
     "name": "Skyline Coworking CANCELLED",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -879,6 +795,20 @@
     "url": "https://lu.ma/16mtw7jo",
     "coverImage": "https://images.lumacdn.com/uploads/vc/941c67b0-a287-4fe4-b5e6-d019950db127.jpg",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-315286686",
+    "name": "Real-Time Intelligence MCP: consulta datos en streaming con lenguaje natural",
+    "description": "Los datos en tiempo real son el próximo nivel.\n\nEn esta sesión conectaremos el servidor MCP de Real-Time Intelligence (RTI) de Fabric a un agente de IA para interactuar con Eventhouse y Azure Data Exp",
+    "startDate": "2026-08-28T08:00:00-07:00",
+    "endDate": "2026-08-28T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286686/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/3/1/600_534888945.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -910,6 +840,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-316190574",
+    "name": "Where will the wind take you next before the New Year?",
+    "description": "Sometimes you don’t need another thing on your calendar.\nYou need **something to look forward to.**\nA little adventure to a new place\nA great meal of local foods\nA glass of wine made just down the roa",
+    "startDate": "2026-08-29T09:00:00-07:00",
+    "endDate": "2026-08-29T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/seattle-women-travel-explore-the-world-build-connections/events/316190574/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/1/6/1/1/600_535745649.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-gLVynHA6wVowAs1",
     "name": "Solana Summer House",
     "description": "",
@@ -934,6 +878,20 @@
     "location": "Austin, United States",
     "url": "https://lu.ma/p28vp672",
     "coverImage": "https://images.lumacdn.com/uploads/g2/d8b5aa6f-57ee-43e0-b30d-d3af2a8bb773.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-RxmAkgkFrhNpk8K",
+    "name": "CryptoGal & Indigenous Whispers: Crypto, Culture & Community",
+    "description": "",
+    "startDate": "2026-08-31T22:30:00.000Z",
+    "endDate": "2026-09-01T01:00:00.000Z",
+    "city": "Miami",
+    "country": "United States",
+    "location": "Miami, United States",
+    "url": "https://lu.ma/wef1v8is",
+    "coverImage": "https://images.lumacdn.com/uploads/wu/55b521fc-2701-4525-ad30-a5ded3cdeb4f.jpg",
     "source": "luma",
     "month": "August 2026"
   },
@@ -1061,6 +1019,20 @@
     "url": "https://lu.ma/2uxuju6m",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-315286722",
+    "name": "Fabric IQ y Ontología MCP: la capa semántica que entiende tu negocio",
+    "description": "La sesión final lleva la serie al nivel más avanzado: la semántica empresarial como fundamento de todos los agentes.\n\nFabric IQ (GA desde Build 2026) es la capa de contexto compartido que unifica Data",
+    "startDate": "2026-09-04T08:00:00-07:00",
+    "endDate": "2026-09-04T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286722/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/7/0/600_534889008.jpeg",
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -1383,6 +1355,20 @@
     "url": "https://lu.ma/bpt8e0cu",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-yft0JYJNpkPqwAB",
+    "name": "Boston DAO Converge: Crypto, AI & the Future of Agentic Finance",
+    "description": "",
+    "startDate": "2026-09-25T17:00:00.000Z",
+    "endDate": "2026-09-25T22:00:00.000Z",
+    "city": "Boston",
+    "country": "United States",
+    "location": "Boston, United States",
+    "url": "https://lu.ma/converge26",
+    "coverImage": "https://images.lumacdn.com/uploads/gq/19651544-5b67-4057-88bd-8255b24e5bcc.png",
+    "source": "luma",
     "month": "September 2026"
   },
   {
