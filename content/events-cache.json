@@ -1,61 +1,5 @@
 [
   {
-    "id": "luma-host-evt-ZPgtzCLnyO5Gpin",
-    "name": "DFlow × Superteam Thailand: Build What Happens After the Swap Session 2",
-    "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
-    "startDate": "2026-08-21T06:30:00.000Z",
-    "endDate": "2026-08-21T07:30:00.000Z",
-    "city": "Bangkok",
-    "country": "Thailand",
-    "location": "Bangkok, Thailand",
-    "url": "https://lu.ma/zsvaojvq",
-    "coverImage": "https://images.lumacdn.com/uploads/ox/6621b2b5-82aa-4d4f-ac29-8bba97fcc40f.jpg",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-JRloloPOnjwowzA",
-    "name": "Coworking Fridays Belgrade | Superteam Balkan",
-    "description": "A community of founders, developers, and innovators working to grow and promote the Solana ecosystem across the Balkans.",
-    "startDate": "2026-08-21T08:00:00.000Z",
-    "endDate": "2026-08-21T15:00:00.000Z",
-    "city": "Beograd",
-    "country": "Serbia",
-    "location": "Beograd, Serbia",
-    "url": "https://lu.ma/coworking-fridays-belgrade",
-    "coverImage": "https://images.lumacdn.com/event-covers/97/7daf8a9d-64e6-4135-9959-37de003af068.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-DgFnMIkANxC36XD",
-    "name": "Co-Working Fridays Berlin",
-    "description": "Superteam Germany is here to support your journey in the Solana ecosystem. Our events are the perfect place to learn, network, and find opportunities.",
-    "startDate": "2026-08-21T08:00:00.000Z",
-    "endDate": "2026-08-21T16:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://lu.ma/oe5xs61o",
-    "coverImage": "https://images.lumacdn.com/event-covers/vg/179a8e91-d8a7-4f24-9e33-79df8933018c.jpg",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-OqUShHaejkvFC6k",
-    "name": "Co-Working Fridays : London Chapter",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-08-21T09:00:00.000Z",
-    "endDate": "2026-08-21T19:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/london-aug-21",
-    "coverImage": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-AZoiUa1n9m33grW",
     "name": "Technology, Innovation & Energy (TIE) Forum 2026 Austin - Hosted By The Texas Blockchain Council",
     "description": "",
@@ -266,34 +210,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-tsTSmbqpAOSrTLz",
-    "name": "StrongHER Together Bouldering",
-    "description": "",
-    "startDate": "2026-08-23T01:00:00.000Z",
-    "endDate": "2026-08-23T04:00:00.000Z",
-    "city": "Quezon City",
-    "country": "Philippines",
-    "location": "Quezon City, Philippines",
-    "url": "https://lu.ma/6i62ae6b",
-    "coverImage": "https://images.lumacdn.com/uploads/81/e71f83bc-41a2-4fba-a9d4-93ad8255267b.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-tTsF2eiiZiHMy6q",
-    "name": "MonkeDAO's HYROX Birthday Party",
-    "description": "",
-    "startDate": "2026-08-23T03:00:00.000Z",
-    "endDate": "2026-08-23T06:00:00.000Z",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "location": "Kuala Lumpur, Malaysia",
-    "url": "https://lu.ma/8ecugq3h",
-    "coverImage": "https://images.lumacdn.com/uploads/6q/96d85e96-7e93-41b5-b207-b22af516f4d8.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-J6FD5pFOxRSZgKx",
     "name": "Bitcoin Block Party",
     "description": "",
@@ -350,20 +266,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-IQVFxlaGK3Ze4t6",
-    "name": "Introduction to Electronics and Computing",
-    "description": "",
-    "startDate": "2026-08-24T17:00:00.000Z",
-    "endDate": "2026-08-24T20:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/rzgg384s",
-    "coverImage": "https://images.lumacdn.com/uploads/rk/0d82900b-c543-4433-9d05-bca9d073e461.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-ylnMA4wkpeyDvYq",
     "name": "Solana Startup Terminal 2.0",
     "description": "Solana спільнота, де запускають web3 стартапи, отримують гранти та інвестиції, навчаються й заробляють у криптоекономіці.",
@@ -401,7 +303,7 @@
     "country": "United States",
     "location": "New York, United States",
     "url": "https://lu.ma/i8lky2q0",
-    "coverImage": "https://images.lumacdn.com/uploads/zb/17831597-3462-41fc-bc47-4573534786f3.jpg",
+    "coverImage": "https://images.lumacdn.com/uploads/6s/47478b6d-5ff7-4ed9-8872-08b4f5ef5d92.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -686,34 +588,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-xvEepkZbXEPD9E6",
-    "name": "VNIA Design & Build Thiết kế - Thi công trong không gian ngành Ẩm thực",
-    "description": "",
-    "startDate": "2026-08-27T01:30:00.000Z",
-    "endDate": "2026-08-28T12:00:00.000Z",
-    "city": "Thành phố Hồ Chí Minh",
-    "country": "Vietnam",
-    "location": "Thành phố Hồ Chí Minh, Vietnam",
-    "url": "https://lu.ma/5kc7igvs",
-    "coverImage": "https://images.lumacdn.com/uploads/en/7f882d19-aaec-4b40-a999-12ec82463676.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-2oHewq72Ap55NRL",
-    "name": "Web3 AI Agent Workshop",
-    "description": "",
-    "startDate": "2026-08-27T10:30:00.000Z",
-    "endDate": "2026-08-27T13:00:00.000Z",
-    "city": "Subang Jaya",
-    "country": "Malaysia",
-    "location": "Subang Jaya, Malaysia",
-    "url": "https://lu.ma/uu4e6z96",
-    "coverImage": "https://images.lumacdn.com/uploads/vx/583313e1-faed-443b-ad9d-0feb9af11391.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-pQ6uFRC26SJnNoz",
     "name": "Superteam UAE: Solana Ecosystem Call Meetup",
     "description": "Made for Solana founders, operators and builders.",
@@ -753,6 +627,20 @@
     "url": "https://lu.ma/l1a1gihi",
     "coverImage": "https://images.lumacdn.com/uploads/h4/834865c7-b614-4d26-b11f-c92fb8286463.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-C0Mv9v6TO711QCV",
+    "name": "Apéro Tricotant - 27 août",
+    "description": "",
+    "startDate": "2026-08-27T15:30:00.000Z",
+    "endDate": "2026-08-27T19:30:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/zqohje7p",
+    "coverImage": "https://images.lumacdn.com/uploads/p0/47664338-44da-4cc5-bc7f-a8657621652a.jpg",
+    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -826,17 +714,17 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-mQeggJjtAkPaWW1",
-    "name": "Digital Assets & Cryptocurrency Fundamentals",
-    "description": "",
-    "startDate": "2026-08-28T02:00:00.000Z",
-    "endDate": "2026-08-28T03:00:00.000Z",
-    "city": "",
-    "country": "Thailand",
-    "location": "Thailand",
-    "url": "https://lu.ma/pck3y2po",
-    "coverImage": "https://images.lumacdn.com/uploads/kn/96e037ca-2ced-404a-829c-4a62d1090677.jpg",
-    "source": "luma",
+    "id": "luma-host-evt-IHTCMyH6AYMzdvI",
+    "name": "Co-Working Fridays : London Chapter",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-08-28T09:00:00.000Z",
+    "endDate": "2026-08-28T19:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/london-aug-28",
+    "coverImage": "https://images.lumacdn.com/event-covers/js/761a02d4-9def-4fae-9c18-2dcc896635f7.png",
+    "source": "luma-trusted",
     "month": "August 2026"
   },
   {
@@ -864,20 +752,6 @@
     "location": "Los Angeles, United States",
     "url": "https://lu.ma/p7lac2ui",
     "coverImage": "https://images.lumacdn.com/uploads/7g/804d09d7-e8df-47b1-8c5b-17e7b974b8fc.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-0ROHiA3CTypMw30",
-    "name": "[ShopX Coffee Chat] Buildathon: AI Ads Intelligence System",
-    "description": "",
-    "startDate": "2026-08-29T02:00:00.000Z",
-    "endDate": "2026-08-29T06:00:00.000Z",
-    "city": "Thành phố Hồ Chí Minh",
-    "country": "Vietnam",
-    "location": "Thành phố Hồ Chí Minh, Vietnam",
-    "url": "https://lu.ma/6bv6zd1w",
-    "coverImage": "https://images.lumacdn.com/uploads/n0/161f88c5-c674-4669-9f7d-817f119c28c7.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -920,20 +794,6 @@
     "location": "Los Angeles, United States",
     "url": "https://lu.ma/summerhouse2026",
     "coverImage": "https://images.lumacdn.com/uploads/gh/e3046aaf-e7e2-459b-8a08-f4461192ef46.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-4s7SolYUKtcqz1i",
-    "name": "aristotle, nicomachean ethics (book i)",
-    "description": "",
-    "startDate": "2026-08-30T09:00:00.000Z",
-    "endDate": "2026-08-30T11:00:00.000Z",
-    "city": "Makati City",
-    "country": "Philippines",
-    "location": "Makati City, Philippines",
-    "url": "https://lu.ma/k3kgvip2",
-    "coverImage": "https://images.lumacdn.com/uploads/te/c148f249-65d9-435b-9b08-e6908b3f2fcc.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -1022,20 +882,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-IqXrpYo4FwmXbFx",
-    "name": "DFlow × Superteam Thailand Buildathon: Demo Day",
-    "description": "",
-    "startDate": "2026-09-03T06:30:00.000Z",
-    "endDate": "2026-09-03T09:00:00.000Z",
-    "city": "",
-    "country": "Thailand",
-    "location": "Thailand",
-    "url": "https://lu.ma/9pxt4y29",
-    "coverImage": "https://images.lumacdn.com/uploads/zq/8cfbdc2a-0d6f-4d5d-92dd-3f9a21c9ec54.jpg",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-cOrVXkSQSbRfWAo",
     "name": "FINISSAGE - POLYGON1993",
     "description": "",
@@ -1117,48 +963,6 @@
     "url": "https://lu.ma/2uxuju6m",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-wHcHKHhP8ehAv2n",
-    "name": "Real World Cryptography Paris Meetup 5",
-    "description": "",
-    "startDate": "2026-09-04T17:00:00.000Z",
-    "endDate": "2026-09-04T20:00:00.000Z",
-    "city": "Le Kremlin-Bicêtre",
-    "country": "France",
-    "location": "Le Kremlin-Bicêtre, France",
-    "url": "https://lu.ma/f11wyf7c",
-    "coverImage": "https://images.lumacdn.com/event-covers/wy/6baaed9a-2383-4a61-a4eb-a60937ea3bea",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-panjaOjivpCCJtf",
-    "name": "Team1 x Chula: Avalanche Builder Workshop & Networking",
-    "description": "",
-    "startDate": "2026-09-05T06:00:00.000Z",
-    "endDate": "2026-09-05T10:00:00.000Z",
-    "city": "",
-    "country": "Thailand",
-    "location": "Thailand",
-    "url": "https://lu.ma/u3mxs2uu",
-    "coverImage": "https://images.lumacdn.com/uploads/sr/df8fd69c-9d9e-4735-9f01-fe0e50d0be58.jpg",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-kiACCj0WZUqkpzg",
-    "name": "The Crypto PH Roundtable: Has Crypto Lost Its identity?",
-    "description": "",
-    "startDate": "2026-09-05T08:00:00.000Z",
-    "endDate": "2026-09-05T13:00:00.000Z",
-    "city": "Pasig",
-    "country": "Philippines",
-    "location": "Pasig, Philippines",
-    "url": "https://lu.ma/nqd5otqo",
-    "coverImage": "https://images.lumacdn.com/uploads/wk/6c68e901-dba1-4440-9764-c6d35fde5d47.png",
-    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -1358,6 +1162,34 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-mBERNwQdX2gmBia",
+    "name": "Strong Looks Good On You, Bestie!",
+    "description": "",
+    "startDate": "2026-09-12T14:45:00.000Z",
+    "endDate": "2026-09-12T16:15:00.000Z",
+    "city": "Los Angeles",
+    "country": "United States",
+    "location": "Los Angeles, United States",
+    "url": "https://lu.ma/bdftoxqf",
+    "coverImage": "https://images.lumacdn.com/uploads/od/3dfdcfd7-2e12-4e09-abf9-043741ea1d3b.jpg",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-nZ3FGlDyNEHGDJI",
+    "name": "AI & WEB3 Growth Summit",
+    "description": "",
+    "startDate": "2026-09-14T07:00:00.000Z",
+    "endDate": "2026-09-14T15:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/nivf7yvb",
+    "coverImage": "https://images.lumacdn.com/uploads/bt/9d1ffe93-a29a-4659-b887-b23a66edbc9b.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-host-evt-pFcQwUTOA8oLMMD",
     "name": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
     "description": "Learn, build and advance your career in Emerging Tech with our community of 500,000 talented professionals worldwide.",
@@ -1428,6 +1260,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-guWog2uyJoSwwlV",
+    "name": "10 ans BioLaunchpad",
+    "description": "",
+    "startDate": "2026-09-21T16:00:00.000Z",
+    "endDate": "2026-09-21T19:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/59fgmsee",
+    "coverImage": "https://images.lumacdn.com/uploads/sc/baae43e2-ff02-43bf-b5ba-4241f124067b.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-td8qi5bEW950tcC",
     "name": "Crypto For Good",
     "description": "",
@@ -1453,20 +1299,6 @@
     "url": "https://conferenceindex.org/event/driving-platforms-and-decentralized-tech-in-healthcare-life-sciences-2026-september-cambridge-us",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-0OWa38I7A9TDMHs",
-    "name": "BINUS Crypto Week 2026",
-    "description": "",
-    "startDate": "2026-09-25T03:00:00.000Z",
-    "endDate": "2026-09-26T10:00:00.000Z",
-    "city": "Kota Jakarta Barat",
-    "country": "Indonesia",
-    "location": "Kota Jakarta Barat, Indonesia",
-    "url": "https://lu.ma/585ewyql",
-    "coverImage": "https://images.lumacdn.com/uploads/e7/1c8cfd49-a561-43b1-b51b-655d89950778.png",
-    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -1803,20 +1635,6 @@
     "url": "https://conferenceindex.org/event/international-conference-on-smart-contracts-and-blockchain-icscb-2026-november-dubai-ae",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "November 2026"
-  },
-  {
-    "id": "luma-evt-8JjOeNcaN4TA5hq",
-    "name": "Cộng đồng Web3 Việt Nam | Quantova QVM TP. Hồ Chí Minh 🇻🇳",
-    "description": "",
-    "startDate": "2026-11-16T06:30:00.000Z",
-    "endDate": "2026-11-16T07:30:00.000Z",
-    "city": "Thành phố Hồ Chí Minh",
-    "country": "Vietnam",
-    "location": "Thành phố Hồ Chí Minh, Vietnam",
-    "url": "https://lu.ma/xumr6pca",
-    "coverImage": "https://images.lumacdn.com/event-covers/rg/c92cd986-3601-4c86-b201-d528a8b2a65b.jpg",
-    "source": "luma",
     "month": "November 2026"
   },
   {
