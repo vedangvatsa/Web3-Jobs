@@ -452,6 +452,9 @@
   "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
   "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
   "https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327",
+  "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
+  "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1264,7 +1267,16 @@
   "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
   "Chainlink Executive Predicts AI Will Drive Blockchain Transactions",
   "‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions",
+  "US commodities regulator prepares crypto market rules",
+  "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+  "Optimism reallocates 546 million tokens to growth fund",
+  "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+  "US spot Bitcoin funds reach $517 million daily inflow",
+  "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
-  "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv"
+  "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
+  "fp:act|agency|asset|cftc|chair|clarity|commodity|congress|digital|draft",
+  "fp:546m|adoption|airdrop|commercial|distribution|ecosystem|fund|futur|governanc|growth",
+  "fp:517m|daily|day|deposit|draw|early|etf|fund|inflow|investment"
 ]

@@ -1,5 +1,109 @@
 [
   {
+    "id": "95959c87-5902-49f3-af6e-bed398271fad",
+    "title": "AI Agent",
+    "company": "Gate.io",
+    "link": "https://jobs.lever.co/gate/95959c87-5902-49f3-af6e-bed398271fad",
+    "date": "2026-08-21T03:53:15.384Z",
+    "source": "Lever: Gate.io"
+  },
+  {
+    "id": "654cc6d8-371b-43a7-aceb-22df75be2ca9",
+    "title": "Business Development Associate - Vietnam",
+    "company": "CertiK",
+    "link": "https://jobs.lever.co/certik/654cc6d8-371b-43a7-aceb-22df75be2ca9",
+    "date": "2026-08-21T01:23:24.557Z",
+    "source": "Lever: CertiK"
+  },
+  {
+    "id": "2658cf22-7b84-4f71-9dc1-987d05781fb8",
+    "title": "Product Manger, Growth - Lifecycle",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/2658cf22-7b84-4f71-9dc1-987d05781fb8",
+    "date": "2026-08-20T23:57:47.072+00:00",
+    "source": "Ashby: Cantina"
+  },
+  {
+    "id": "8142118",
+    "title": "Sr HR Systems & Data Analyst II",
+    "company": "Consensys",
+    "link": "https://consensys.io/open-roles/8142118?gh_jid=8142118",
+    "date": "2026-08-20T19:56:08-04:00",
+    "source": "Greenhouse: Consensys"
+  },
+  {
+    "id": "8142764",
+    "title": "Full Stack Engineer, Bridge",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8142764",
+    "date": "2026-08-20T19:35:00-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7814393003",
+    "title": "Partner 6, Executive Assistant, New York",
+    "company": "a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7814393003",
+    "date": "2026-08-20T17:50:54-04:00",
+    "source": "Greenhouse: a16z"
+  },
+  {
+    "id": "8693539002",
+    "title": "Network Engineer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8693539002?gh_jid=8693539002",
+    "date": "2026-08-20T17:12:59-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "8693554002",
+    "title": "Procurement Specialist",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8693554002?gh_jid=8693554002",
+    "date": "2026-08-20T17:10:00-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "8144836",
+    "title": "Staff Data Engineer, Market Data",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
+    "date": "2026-08-20T17:05:21-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "7920020003",
+    "title": "Customer Complaints Senior Manager",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7920020003",
+    "date": "2026-08-20T17:00:46-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "8120501",
+    "title": "Senior Workday Analyst, Payroll",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8120501",
+    "date": "2026-08-20T16:56:15-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8144769",
+    "title": "Staff Infrastructure Engineer, Trading",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8144769?gh_jid=8144769",
+    "date": "2026-08-20T16:42:47-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8144772",
+    "title": "Sr. Staff Technical Architect, Unified Trading",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8144772?gh_jid=8144772",
+    "date": "2026-08-20T16:19:35-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
     "id": "7907295003",
     "title": "Partner 20, Social Media Lead, Crypto",
     "company": "a16z",
@@ -232,6 +336,14 @@
     "source": "https://coinbase.getro.com/jobs"
   },
   {
+    "id": "08a7954d-65ed-4c3c-9de6-266fb4cbddbc",
+    "title": "Senior Algorithmic Trader / Liquidity Researcher",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/08a7954d-65ed-4c3c-9de6-266fb4cbddbc",
+    "date": "2026-08-20T12:35:19.242Z",
+    "source": "Lever: Binance"
+  },
+  {
     "id": "90589708",
     "title": "Strategic Finance Manager",
     "company": "Circle",
@@ -318,6 +430,14 @@
     "link": "https://jobs.ashbyhq.com/walrus/aa964a52-1a01-456b-bf82-d1c225385bda",
     "date": "2026-08-20T09:59:16.000Z",
     "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "88fe7933-859b-47e7-a1a0-29c5e14de573",
+    "title": "Junior Software Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/88fe7933-859b-47e7-a1a0-29c5e14de573",
+    "date": "2026-08-20T09:47:20.845Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "7913915003",
@@ -696,6 +816,14 @@
     "source": "Greenhouse: Alpaca"
   },
   {
+    "id": "6146921004",
+    "title": "Senior Sales Engineer (Mandarin fluent) - APAC",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6146921004",
+    "date": "2026-08-19T12:28:18-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
     "id": "8113687",
     "title": "Account Executive, Product Sales (Date Pipeline)",
     "company": "Stripe",
@@ -970,6 +1098,14 @@
   {
     "id": "27ea06ac-89bf-4e59-a6bd-9ec4a607c9ce",
     "title": "Finance Manager - International Tax & Compliance",
+    "company": "Magic Eden",
+    "link": "https://jobs.ashbyhq.com/MagicEden/27ea06ac-89bf-4e59-a6bd-9ec4a607c9ce",
+    "date": "2026-08-19T01:45:08.153+00:00",
+    "source": "Ashby: Magic Eden"
+  },
+  {
+    "id": "27ea06ac-89bf-4e59-a6bd-9ec4a607c9ce",
+    "title": "International Tax & Compliance Lead",
     "company": "Magic Eden",
     "link": "https://jobs.ashbyhq.com/MagicEden/27ea06ac-89bf-4e59-a6bd-9ec4a607c9ce",
     "date": "2026-08-19T01:45:08.153+00:00",
@@ -4146,6 +4282,14 @@
   {
     "id": "4df7b096-1d82-4f09-9a17-665247b2c855",
     "title": "Senior Data Scientist / Analyst, Risk",
+    "company": "Polymarket",
+    "link": "https://jobs.ashbyhq.com/Polymarket/4df7b096-1d82-4f09-9a17-665247b2c855",
+    "date": "2026-08-12T15:27:00.880+00:00",
+    "source": "Ashby: Polymarket"
+  },
+  {
+    "id": "4df7b096-1d82-4f09-9a17-665247b2c855",
+    "title": "Senior Data Scientist / Analyst, Fraud & Risk",
     "company": "Polymarket",
     "link": "https://jobs.ashbyhq.com/Polymarket/4df7b096-1d82-4f09-9a17-665247b2c855",
     "date": "2026-08-12T15:27:00.880+00:00",
@@ -16247,6 +16391,14 @@
     "source": "Ashby: Injective"
   },
   {
+    "id": "8075345",
+    "title": "Senior Manager, Hedge Accounting",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/8075345?gh_jid=8075345",
+    "date": "2026-07-22T11:19:54-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
     "id": "87192986",
     "title": "Team Lead Trust Safety Ops Bangalore",
     "company": "Swell Network",
@@ -16901,181 +17053,5 @@
     "link": "https://jobs.lever.co/binance/fdee019b-d17e-4655-99c4-b8d31d8e61c5",
     "date": "2026-07-22T04:34:09.082Z",
     "source": "Lever: Binance"
-  },
-  {
-    "id": "990a9661-c72f-4d91-a69d-c0ada1de40b0",
-    "title": "Pioneer Talent Program - Full Stack Engineer (Front-end Oriented)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/990a9661-c72f-4d91-a69d-c0ada1de40b0",
-    "date": "2026-07-22T04:06:00.494Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "7962755",
-    "title": "RFP Specialist",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7962755?gh_jid=7962755",
-    "date": "2026-07-21T23:49:14-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "7805904003",
-    "title": "Senior Product Manager, Agent QA & Localization Quality",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7805904003",
-    "date": "2026-07-21T23:07:17-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "4930488101",
-    "title": "User Operations Manager",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4930488101",
-    "date": "2026-07-21T22:50:42-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4930488101",
-    "title": "Marketing Operations Lead",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4930488101",
-    "date": "2026-07-21T22:50:42-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "7795506003",
-    "title": "Specialist, Customer Service (VIP, Mandarin Speaker)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7795506003",
-    "date": "2026-07-21T22:43:02-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7795506003",
-    "title": "Specialist, VIP Customer Relationship Management",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7795506003",
-    "date": "2026-07-21T22:43:02-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7795506003",
-    "title": "Specialist, VIP Customer Relationship Management (Mandarin Speaker)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7795506003",
-    "date": "2026-07-21T22:43:02-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "6fa8076d-5abd-4786-a533-3e0568ccbedf",
-    "title": "Binance Accelerator Program - Global Swag",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/6fa8076d-5abd-4786-a533-3e0568ccbedf",
-    "date": "2026-07-22T02:28:05.316Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "55708b87-29eb-4a2a-b9c1-e26291e4c59f",
-    "title": "Senior Accountant",
-    "company": "Polymarket",
-    "link": "https://jobs.ashbyhq.com/Polymarket/55708b87-29eb-4a2a-b9c1-e26291e4c59f",
-    "date": "2026-07-22T01:55:35.306+00:00",
-    "source": "Ashby: Polymarket"
-  },
-  {
-    "id": "8054241",
-    "title": "Integration Reliability Engineer, Payments",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8054241",
-    "date": "2026-07-21T20:04:24-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "58652210-5084-4818-b254-b29ef8f1102b",
-    "title": "Legal Counsel - Privacy",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/58652210-5084-4818-b254-b29ef8f1102b",
-    "date": "2026-07-21T22:31:17.939+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "6122029004",
-    "title": "Lead Scheduler, Pre-Construction (Data Centers)",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6122029004",
-    "date": "2026-07-21T17:14:04-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "8076855",
-    "title": "Staff Software Engineer, Tooling (Product)",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8076855&gh_jid=8076855",
-    "date": "2026-07-21T17:06:50-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "8076853",
-    "title": "Senior Software Engineer, Tooling (Product)",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8076853&gh_jid=8076853",
-    "date": "2026-07-21T17:05:52-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "8076862",
-    "title": "Principal Software Engineer, Tooling (Product)",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8076862&gh_jid=8076862",
-    "date": "2026-07-21T17:05:07-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "8076880",
-    "title": "Software Engineering Manager, Tooling (Product)",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8076880&gh_jid=8076880",
-    "date": "2026-07-21T17:03:48-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "8076864",
-    "title": "Lead Product Manager, Tooling",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8076864&gh_jid=8076864",
-    "date": "2026-07-21T17:00:57-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "8076827",
-    "title": "Senior Data Engineer",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8076827&gh_jid=8076827",
-    "date": "2026-07-21T16:55:39-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "8076817",
-    "title": "Senior Analytics Engineer",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8076817&gh_jid=8076817",
-    "date": "2026-07-21T16:44:47-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "3ec7433c-efbc-42f2-8f28-b8eca42f384c",
-    "title": "Staff Product Manager - Agent & Systems Observability",
-    "company": "Render Network",
-    "link": "https://jobs.ashbyhq.com/Render/3ec7433c-efbc-42f2-8f28-b8eca42f384c",
-    "date": "2026-07-21T20:39:16.558+00:00",
-    "source": "Ashby: Render Network"
-  },
-  {
-    "id": "d0860ea9-fdbd-4a66-82bc-1d75228cf594",
-    "title": "Staff Product Manager - Datastores (Postgres Specialist)",
-    "company": "Render Network",
-    "link": "https://jobs.ashbyhq.com/Render/d0860ea9-fdbd-4a66-82bc-1d75228cf594",
-    "date": "2026-07-21T20:37:27.809+00:00",
-    "source": "Ashby: Render Network"
   }
 ]
