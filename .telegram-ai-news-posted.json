@@ -491,6 +491,9 @@
   "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
   "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
   "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+  "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+  "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+  "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1256,6 +1259,12 @@
   "Anthropic could be worth $2 trillion when it goes public",
   "ShieldFont tool corrupts training data to stop web scrapers",
   "The web’s newest weapon against AI scrapers is a font",
+  "Nvidia shows framework design outweighs model size in agents",
+  "Nvidia just showed that the harness, not the AI model, is now the real hero",
+  "Starcloud raises $250 million for orbital data centers",
+  "Starcloud raises $250 million for orbital data centers as launch options dry up",
+  "Microsoft Copilot security flaw allowed credential theft via links",
+  "Microsoft Copilot reveals secret input that allowed it to be hacked",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1264,5 +1273,8 @@
   "fp:authorship|contain|content|creat|determin|find|generat|late2022|machin|openai",
   "fp:acquir|automat|becaus|buy|didn|expand|financial|infrastructur|openrouter|process",
   "fp:ahead|anthropic|corporat|dollar|goe|growth|history|largest|list|multi",
-  "fp:against|automat|bot|collection|corrupt|data|disrupt|font|human|newest"
+  "fp:against|automat|bot|collection|corrupt|data|disrupt|font|human|newest",
+  "fp:agent|complex|design|enabl|framework|harness|hero|not|now|nvidia",
+  "fp:250m|bas|bypass|capital|center|comput|constraint|data|dry|fund",
+  "fp:allow|attack|copilot|credential|discover|expos|flaw|hack|injection|input"
 ]
