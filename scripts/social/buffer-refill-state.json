@@ -3,12 +3,6 @@
     "lastIndex": 129,
     "lastScheduledAt": "2026-05-27T03:30:00.000Z",
     "postedHashes": [
-      "512cf15a76c1",
-      "d0142ec9222a",
-      "97f0937ec398",
-      "221d6345f321",
-      "9a22cec226f5",
-      "5c7c4c13bb62",
       "0bce634c8705",
       "bfbf1785e527",
       "d2a68db3f54d",
@@ -28,14 +22,19 @@
       "60562319e5ae",
       "92a4f7d2ecb5",
       "e000bc8c8bdc",
-      "fa33e05bd4d6"
+      "fa33e05bd4d6",
+      "512cf15a76c1",
+      "d0142ec9222a",
+      "97f0937ec398",
+      "221d6345f321",
+      "9a22cec226f5",
+      "5c7c4c13bb62"
     ]
   },
   "instagram": {
     "lastIndex": 130,
     "lastScheduledAt": "2026-05-25T19:30:00.000Z",
     "postedHashes": [
-      "3454e14daff2",
       "d42412a3601b",
       "159994b848c2",
       "856ef5f8565a",
@@ -55,7 +54,8 @@
       "7a71af7338d2",
       "e28b918eaf1b",
       "b26ffd097042",
-      "1073e04a3cbe"
+      "1073e04a3cbe",
+      "3454e14daff2"
     ]
   }
 }
