@@ -1,5 +1,37 @@
 [
   {
+    "id": "90819499",
+    "title": "Senior Software Engineer, CUDA",
+    "company": "Provable",
+    "link": "https://jobs.ashbyhq.com/provable/a2553878-9523-44a4-810a-6e30b0c128f5",
+    "date": "2026-08-22T11:30:21.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "90813017",
+    "title": "APAC Community Lead (Contract)",
+    "company": "Sui Foundation",
+    "link": "https://jobs.ashbyhq.com/Sui%20Foundation/53e137f5-eb47-4233-945e-d092531cc56a",
+    "date": "2026-08-22T11:11:38.000Z",
+    "source": "https://jobs.electriccapital.com/jobs"
+  },
+  {
+    "id": "90808646",
+    "title": "Director, People Systems and Operations",
+    "company": "Greenhouse",
+    "link": "https://boards.greenhouse.io/greenhouse/jobs/8141795",
+    "date": "2026-08-22T11:02:21.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "90803477",
+    "title": "Senior Staff Security Engineer, AI Security",
+    "company": "Ripple",
+    "link": "https://boards.greenhouse.io/ripple/jobs/7961914",
+    "date": "2026-08-22T10:48:57.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
     "id": "6148956004",
     "title": "Director, Corporate Actions",
     "company": "Alpaca",
@@ -10392,6 +10424,14 @@
     "source": "Greenhouse: Jane Street"
   },
   {
+    "id": "8537797002",
+    "title": "Sales and Trading",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
+    "date": "2026-08-03T03:59:10-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
     "id": "4941220101",
     "title": "Principal Security Operation Engineer (Red Team)",
     "company": "Bybit",
@@ -11590,6 +11630,14 @@
     "link": "https://boards.greenhouse.io/ondofinance/jobs/4291446009",
     "date": "2026-07-31T06:07:25.000Z",
     "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "4942178101",
+    "title": "Principal Backend Development Engineer",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4942178101",
+    "date": "2026-07-31T01:53:18-04:00",
+    "source": "Greenhouse: Bybit"
   },
   {
     "id": "8052736",
@@ -16622,157 +16670,5 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8024033",
     "date": "2026-07-23T08:00:07-04:00",
     "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8081276",
-    "title": "Customer Success Manager",
-    "company": "Spire",
-    "link": "https://spire.com/careers/job-openings/job/?gh_jid=8081276&gh_jid=8081276",
-    "date": "2026-07-23T07:27:26-04:00",
-    "source": "Greenhouse: Spire"
-  },
-  {
-    "id": "87224089",
-    "title": "Senior Manager, Internal Audit",
-    "company": "Circle",
-    "link": "https://careers.circle.com/us/en/job/JR101087",
-    "date": "2026-07-23T11:14:43.000Z",
-    "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "acbaf6f3-2d29-4df2-a8b3-962c54558e4c",
-    "title": "Frontend Tech lead ( AI Agent)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/acbaf6f3-2d29-4df2-a8b3-962c54558e4c",
-    "date": "2026-07-23T11:09:20.713Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "acbaf6f3-2d29-4df2-a8b3-962c54558e4c",
-    "title": "Full Stack Engineer ( AI Agent)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/acbaf6f3-2d29-4df2-a8b3-962c54558e4c",
-    "date": "2026-07-23T11:09:20.713Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "87220239",
-    "title": "Engineering Manager, Cloud Platform",
-    "company": "Greenhouse",
-    "link": "https://boards.greenhouse.io/greenhouse/jobs/8021661",
-    "date": "2026-07-23T11:05:14.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "87218117",
-    "title": "Senior Manager, Web Strategy & Experience",
-    "company": "Lever",
-    "link": "https://careers.employinc.com/jobs/18024905-senior-manager-web-strategy-and-experience",
-    "date": "2026-07-23T10:59:53.000Z",
-    "source": "https://nascent.getro.com/jobs"
-  },
-  {
-    "id": "4929391101",
-    "title": "Senior Product Design Specialist",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4929391101",
-    "date": "2026-07-23T06:08:38-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "87204164",
-    "title": "Senior Security Engineer, Insider Trust",
-    "company": "Chainlink",
-    "link": "https://ca.linkedin.com/jobs/view/senior-security-engineer-insider-trust-at-chainlink-labs-4444230142",
-    "date": "2026-07-23T10:06:07.000Z",
-    "source": "https://jobs.framework.ventures/jobs"
-  },
-  {
-    "id": "87204162",
-    "title": "Engineering Manager, Data Feeds",
-    "company": "Chainlink",
-    "link": "https://www.linkedin.com/jobs/view/engineering-manager-data-feeds-at-chainlink-labs-4443963142",
-    "date": "2026-07-23T10:06:06.000Z",
-    "source": "https://jobs.framework.ventures/jobs"
-  },
-  {
-    "id": "87204154",
-    "title": "Documentation Engineer",
-    "company": "Chainlink",
-    "link": "https://ar.linkedin.com/jobs/view/documentation-engineer-at-chainlink-labs-4443597386",
-    "date": "2026-07-23T10:06:03.000Z",
-    "source": "https://jobs.framework.ventures/jobs"
-  },
-  {
-    "id": "7632855003",
-    "title": "Senior Affiliate Business Development Manager, Western Europe",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7632855003",
-    "date": "2026-07-23T05:56:50-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "4936076101",
-    "title": "Principal Backend Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4936076101",
-    "date": "2026-07-23T05:26:44-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "4936057101",
-    "title": "Director, Product Growth",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4936057101",
-    "date": "2026-07-23T04:50:08-04:00",
-    "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "4935964101",
-    "title": "Wallet Custody Operations Director",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4935964101",
-    "date": "2026-07-23T03:57:23-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "5fc9f63a-c66c-4037-ace3-2e2e2e16abdf",
-    "title": "Senior Software Engineer - iOS - Paris",
-    "company": "Sorare",
-    "link": "https://jobs.ashbyhq.com/Sorare/5fc9f63a-c66c-4037-ace3-2e2e2e16abdf",
-    "date": "2026-07-23T07:51:19.209+00:00",
-    "source": "Ashby: Sorare"
-  },
-  {
-    "id": "381c2d18-09c8-4797-900b-57e5382d3f2a",
-    "title": "QA Engineer (Frontend, Mobile, Java) - Trading",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/381c2d18-09c8-4797-900b-57e5382d3f2a",
-    "date": "2026-07-23T07:41:24.529Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "8630687002",
-    "title": "Sales and Trading",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8630687002",
-    "date": "2026-07-23T03:16:58-04:00",
-    "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "4935901101",
-    "title": "Senior Manager (Audit Analytics, Automation & Innovation)",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4935901101",
-    "date": "2026-07-23T02:53:18-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "7805828003",
-    "title": "Senior Finance Analyst",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7805828003",
-    "date": "2026-07-23T02:19:06-04:00",
-    "source": "Greenhouse: OKX"
   }
 ]

@@ -482,6 +482,9 @@
   "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
   "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
   "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
+  "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
+  "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
+  "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1354,6 +1357,12 @@
   "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
   "Grayscale Files Amended SEC Application for Zcash ETF",
   "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
+  "BounceBit sunsets blockchain and migrates to BNB Chain",
+  "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+  "Binance launches software allowing artificial intelligence agents to trade",
+  "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+  "Treasury buybacks reduced yields, pushing Bitcoin toward $80,000",
+  "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1368,5 +1377,8 @@
   "fp:77k|btc|day|decreas|gold|high|highest|level|may|mid",
   "fp:advocat|asset|association|digital|enacted02|fil|group|illinois|join|lawsuit",
   "fp:606m|american|biggest|blackrock|daily|day|etf|fund|had|inflow",
-  "fp:amend|application|approval|asset|closer|etf|fil|fresh|friday|fund"
+  "fp:amend|application|approval|asset|closer|etf|fil|fresh|friday|fund",
+  "fp:announc|blockchain|bnb|bouncebit|chain|dollar|down|exploit|migrat|network",
+  "fp:agent|allow|binanc|can|connect|cryptocurrency|directly|door|enabl|exchang",
+  "fp:000|bearish|bond|buyback|day|driv|help|how|lower|market"
 ]

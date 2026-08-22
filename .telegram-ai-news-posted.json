@@ -497,6 +497,9 @@
   "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
   "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
   "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+  "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+  "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+  "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1274,6 +1277,12 @@
   "Ramp launches its own AI model router, called Router",
   "Security researchers discover prompt injection vulnerability in xAI Grok",
   "Grok exfiltrates user data when malicious instructions are encrypted",
+  "Anthropic Claude Opus 4.6 safety filters fail in testing",
+  "Anthropic’s Opus 4.6 is a smut-machine",
+  "OpenAI integrates ChatGPT into Apple Messages for automated texting",
+  "ChatGPT can now send texts for you with new Apple Messages plug-in",
+  "Google introduces preferred publisher tool to counter AI search losses",
+  "Google gives publishers a new way to fight AI-driven traffic losses",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1288,5 +1297,8 @@
   "fp:allow|attack|copilot|credential|discover|expos|flaw|hack|injection|input",
   "fp:capacity|center|cloverleaf|data|developer|expand|grow|infrastructur|invest|nvidia",
   "fp:allow|api|business|call|direct|dynamically|enterpris|financial|firm|languag",
-  "fp:allow|are|attacker|bypass|chatbot|data|discover|encrypt|exfiltrat|guardrail"
+  "fp:allow|are|attacker|bypass|chatbot|data|discover|encrypt|exfiltrat|guardrail",
+  "fp:anthropic|block|bypass|content|design|easily|explicit|fail|filter|flagship",
+  "fp:allow|appl|automat|can|directly|generat|integrat|messag|mobil|now",
+  "fp:automat|can|counter|driven|favorit|featur|fight|giv|googl|help"
 ]
