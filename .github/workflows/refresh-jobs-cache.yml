@@ -14,13 +14,37 @@ on:
         description: 'Bypass news cooldown and post digests now'
         type: boolean
         default: false
+      diagnose_telegram:
+        description: 'Only diagnose bot/channel access (no posts)'
+        type: boolean
+        default: false
 
 concurrency:
   group: social-syndication
   cancel-in-progress: true
 
 jobs:
+  diagnose:
+    if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.diagnose_telegram == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Diagnose Telegram access
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_NEWS_BOT_TOKEN: ${{ secrets.TELEGRAM_NEWS_BOT_TOKEN }}
+          TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_NEWS_CHANNEL_ID }}
+          TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
+          TELEGRAM_HW3_GROUP_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
+        run: node scripts/telegram-diagnose.mjs
+
   refresh-and-post:
+    if: ${{ github.event.inputs.diagnose_telegram != 'true' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
