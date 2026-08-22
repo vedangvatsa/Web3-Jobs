@@ -461,6 +461,9 @@
   "https://decrypt.co/376245/solana-faster-bullish-sol-price",
   "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
+  "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+  "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
+  "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1291,6 +1294,12 @@
   "Onchain, in court: What happened in crypto legal news this week",
   "MicroStrategy Holds $1.4 Billion in Unrealized Bitcoin Gains",
   "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
+  "Crypto trade groups sue Illinois over state digital asset tax",
+  "Crypto advocates join in suing Illinois over digital asset tax",
+  "Ripple backs institutional credit fund using RLUSD stablecoin",
+  "Ripple backs an RLUSD credit fund amid XRP's best week in months",
+  "Grayscale files amended SEC application for Zcash ETF",
+  "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1302,5 +1311,8 @@
   "fp:act|anti|berkeley|bill|call|clarity|creat|desir|despit|hard",
   "fp:activat|block|blockchain|bullish|decreas|ecosystem|entir|faster|got|latency",
   "fp:advanc|ban|bann|cas|cftc|court|executiv|former|ftx|happen",
-  "fp:13b|14b|averag|btc|cost|exceed|gain|hold|loss|microstrategy"
+  "fp:13b|14b|averag|btc|cost|exceed|gain|hold|loss|microstrategy",
+  "fp:advocat|against|approved02|asset|challeng|cryptocurrency|digital|fil|group|illinois",
+  "fp:are|back|best|build|credit|dollar|financial|firm|fund|institutional",
+  "fp:amend|application|asset|closer|etf|fil|fresh|friday|fund|grayscal"
 ]

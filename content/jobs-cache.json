@@ -1,5 +1,149 @@
 [
   {
+    "id": "6148956004",
+    "title": "Director, Corporate Actions",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6148956004",
+    "date": "2026-08-21T20:17:13-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "e8a7a3d5-938f-4d2b-b9d3-86765d8d1dd2",
+    "title": "Customer Solutions Engineer",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/e8a7a3d5-938f-4d2b-b9d3-86765d8d1dd2",
+    "date": "2026-08-22T00:01:51.995+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "8146271",
+    "title": "Staff Software Engineer, Startup Products",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8146271",
+    "date": "2026-08-21T19:35:53-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "45166a6e-6337-4132-9429-930cde7fd499",
+    "title": "Senior Technical Recruiter – Cybersecurity & Threat Intelligence (Contractor)",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/45166a6e-6337-4132-9429-930cde7fd499",
+    "date": "2026-08-21T23:16:18.583+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "f98771d6-e685-4b91-a466-71789c238e33",
+    "title": "Sales Development Representative | Inbound",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/f98771d6-e685-4b91-a466-71789c238e33",
+    "date": "2026-08-21T23:16:14.436+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "3f3248cb-9b8d-4b4e-ae46-8ad5a28998fc",
+    "title": "Blockchain Intelligence Analyst",
+    "company": "TRM Labs",
+    "link": "https://jobs.ashbyhq.com/trm-labs/3f3248cb-9b8d-4b4e-ae46-8ad5a28998fc",
+    "date": "2026-08-21T22:40:27.818+00:00",
+    "source": "Ashby: TRM Labs"
+  },
+  {
+    "id": "8112448",
+    "title": "Fraud Strategist",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8112448",
+    "date": "2026-08-21T18:30:07-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8148171",
+    "title": "Product Manager II, Workspace and Multi-User",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8148171?gh_jid=8148171",
+    "date": "2026-08-21T18:04:19-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8148248",
+    "title": "Strategic Finance Manager, Platform",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8148248?gh_jid=8148248",
+    "date": "2026-08-21T17:17:17-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8146039",
+    "title": "Senior Software Engineer (Platform - Access & Authorization)",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8146039?gh_jid=8146039",
+    "date": "2026-08-21T17:05:50-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "a2553878-9523-44a4-810a-6e30b0c128f5",
+    "title": "Senior Software Engineer, CUDA",
+    "company": "Provable (Aleo)",
+    "link": "https://jobs.ashbyhq.com/provable/a2553878-9523-44a4-810a-6e30b0c128f5",
+    "date": "2026-08-21T21:05:26.629+00:00",
+    "source": "Ashby: Provable (Aleo)"
+  },
+  {
+    "id": "8147917",
+    "title": "Senior Data Scientist",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8147917?gh_jid=8147917",
+    "date": "2026-08-21T16:42:50-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8013397",
+    "title": "Sourcer",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8013397?t=gh_src=&gh_jid=8013397",
+    "date": "2026-08-21T16:27:50-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "8147756",
+    "title": "Senior Product Designer, DeFi",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8147756?t=gh_src=&gh_jid=8147756",
+    "date": "2026-08-21T16:11:58-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "6147628004",
+    "title": "Senior Technical Recruiter",
+    "company": "Alpaca",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6147628004",
+    "date": "2026-08-21T16:00:23-04:00",
+    "source": "Greenhouse: Alpaca"
+  },
+  {
+    "id": "90792792",
+    "title": "Senior Backend Engineer",
+    "company": "Veda",
+    "link": "https://jobs.ashbyhq.com/veda/9ee0175f-5a95-4cd9-9760-95266b26c548",
+    "date": "2026-08-21T19:58:44.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "90792791",
+    "title": "Compliance Director",
+    "company": "Veda",
+    "link": "https://jobs.ashbyhq.com/veda/834ecceb-61d0-433f-95b3-904e173eca32",
+    "date": "2026-08-21T19:58:42.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
+    "id": "90792790",
+    "title": "Backend Engineer - Solana",
+    "company": "Veda",
+    "link": "https://jobs.ashbyhq.com/veda/a3494276-5759-4d88-8b73-9188d92a5b7e",
+    "date": "2026-08-21T19:58:41.000Z",
+    "source": "https://jobs.solana.com/jobs"
+  },
+  {
     "id": "8123231",
     "title": "Business Analyst (New Grad)",
     "company": "Robinhood",
@@ -3586,6 +3730,14 @@
   {
     "id": "8129321",
     "title": "Legal Ops Associate, OC Management",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321",
+    "date": "2026-08-13T20:32:31-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8129321",
+    "title": "Legal Ops Associate",
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321",
     "date": "2026-08-13T20:32:31-04:00",
@@ -16614,92 +16766,5 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7805828003",
     "date": "2026-07-23T02:19:06-04:00",
     "source": "Greenhouse: OKX"
-  },
-  {
-    "title": "Director of Financial Planning & Analysis",
-    "company": "Blast",
-    "link": "https://apply.workable.com/blast/j/undefined/",
-    "date": "2026-07-23",
-    "source": "Workable: Blast"
-  },
-  {
-    "id": "6c68ed4b-dab8-4e2d-b677-a7b6ddca0272",
-    "title": "Technical Channel Partner Manager | ISV",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/6c68ed4b-dab8-4e2d-b677-a7b6ddca0272",
-    "date": "2026-07-22T23:28:36.319+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "6c68ed4b-dab8-4e2d-b677-a7b6ddca0272",
-    "title": "Channel Partner Manager, ISV",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/6c68ed4b-dab8-4e2d-b677-a7b6ddca0272",
-    "date": "2026-07-22T23:28:36.319+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "6c68ed4b-dab8-4e2d-b677-a7b6ddca0272",
-    "title": "Channel Partner Manager, Embedded  ISV",
-    "company": "Ramp",
-    "link": "https://jobs.ashbyhq.com/ramp/6c68ed4b-dab8-4e2d-b677-a7b6ddca0272",
-    "date": "2026-07-22T23:28:36.319+00:00",
-    "source": "Ashby: Ramp"
-  },
-  {
-    "id": "7799655",
-    "title": "Engineering Manager, International Expansion",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7799655?t=gh_src=&gh_jid=7799655",
-    "date": "2026-07-22T17:46:13-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "8080614",
-    "title": "Data Scientist, Core Infrastructure",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8080614",
-    "date": "2026-07-22T17:45:34-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "0602a07b-6f97-44c8-84e0-b2b1483852e9",
-    "title": "Senior Software Engineer - AI Experiences",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/0602a07b-6f97-44c8-84e0-b2b1483852e9",
-    "date": "2026-07-22T21:22:53.123+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "7813272003",
-    "title": "Senior AI Full-Stack / Applications Engineer",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7813272003",
-    "date": "2026-07-22T17:01:59-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7813260003",
-    "title": "Senior AI Platform & Agentic Infrastructure Engineer",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7813260003",
-    "date": "2026-07-22T17:01:06-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "13abf238-3475-4227-91cd-ac470973080f",
-    "title": "Data Engineer - AI/ML",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/13abf238-3475-4227-91cd-ac470973080f",
-    "date": "2026-07-22T19:49:58.310+00:00",
-    "source": "Ashby: TRM Labs"
-  },
-  {
-    "id": "13abf238-3475-4227-91cd-ac470973080f",
-    "title": "Data Engineer, AI Platform",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/13abf238-3475-4227-91cd-ac470973080f",
-    "date": "2026-07-22T19:49:58.310+00:00",
-    "source": "Ashby: TRM Labs"
   }
 ]

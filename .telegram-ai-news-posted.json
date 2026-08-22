@@ -494,6 +494,9 @@
   "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
   "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
   "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+  "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+  "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+  "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1265,6 +1268,12 @@
   "Starcloud raises $250 million for orbital data centers as launch options dry up",
   "Microsoft Copilot security flaw allowed credential theft via links",
   "Microsoft Copilot reveals secret input that allowed it to be hacked",
+  "Nvidia partners with Cloverleaf to expand AI data center capacity",
+  "Nvidia partners with data center developer Cloverleaf",
+  "Ramp launches software tool to route enterprise artificial intelligence queries",
+  "Ramp launches its own AI model router, called Router",
+  "Security researchers discover prompt injection vulnerability in xAI Grok",
+  "Grok exfiltrates user data when malicious instructions are encrypted",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1276,5 +1285,8 @@
   "fp:against|automat|bot|collection|corrupt|data|disrupt|font|human|newest",
   "fp:agent|complex|design|enabl|framework|harness|hero|not|now|nvidia",
   "fp:250m|bas|bypass|capital|center|comput|constraint|data|dry|fund",
-  "fp:allow|attack|copilot|credential|discover|expos|flaw|hack|injection|input"
+  "fp:allow|attack|copilot|credential|discover|expos|flaw|hack|injection|input",
+  "fp:capacity|center|cloverleaf|data|developer|expand|grow|infrastructur|invest|nvidia",
+  "fp:allow|api|business|call|direct|dynamically|enterpris|financial|firm|languag",
+  "fp:allow|are|attacker|bypass|chatbot|data|discover|encrypt|exfiltrat|guardrail"
 ]
