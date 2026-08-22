@@ -30,7 +30,10 @@ const BOT_TOKEN = process.env.TELEGRAM_AI_BOT_TOKEN;
 const CHANNEL_ID = process.env.TELEGRAM_AI_CHANNEL_ID;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const STORIES_PER_POST = 3;
-const POST_COOLDOWN_HOURS = 7; // Only post every 7 hours
+// Cadence is ~8h (03:30 / 11:30 / 19:30 UTC). Keep cooldown under that with
+// margin for GitHub cron drift and long earlier steps (~10–15m).
+const POST_COOLDOWN_HOURS = Number(process.env.NEWS_COOLDOWN_HOURS || 6);
+const FORCE_POST = process.argv.includes('--force') || process.env.FORCE_NEWS === '1';
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-ai-news-posted.json');
 const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-ai-news-last.json');
 
@@ -304,9 +307,12 @@ async function postOnce() {
   try {
     const last = JSON.parse(fs.readFileSync(LAST_POST_FILE, 'utf8'));
     const hoursSince = (Date.now() - new Date(last.postedAt).getTime()) / (1000 * 60 * 60);
-    if (hoursSince < POST_COOLDOWN_HOURS && !process.argv.includes('--force')) {
+    if (hoursSince < POST_COOLDOWN_HOURS && !FORCE_POST) {
       console.log(`⏳ Last posted ${hoursSince.toFixed(1)}h ago. Cooldown is ${POST_COOLDOWN_HOURS}h. Skipping.`);
       return;
+    }
+    if (FORCE_POST && hoursSince < POST_COOLDOWN_HOURS) {
+      console.log(`⚡ Force post enabled (last posted ${hoursSince.toFixed(1)}h ago).`);
     }
   } catch {}
 

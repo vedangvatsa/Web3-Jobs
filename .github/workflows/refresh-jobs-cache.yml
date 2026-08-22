@@ -9,6 +9,11 @@ on:
     # 1 AM IST / 3:30 AM SGT = 7:30 PM UTC
     - cron: '30 19 * * *'
   workflow_dispatch:
+    inputs:
+      force_news:
+        description: 'Bypass news cooldown and post digests now'
+        type: boolean
+        default: false
 
 concurrency:
   group: social-syndication
@@ -86,6 +91,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_NEWS_CHANNEL_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
         run: node scripts/telegram-news.mjs
         continue-on-error: true
 
@@ -95,6 +101,7 @@ jobs:
           TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
           TELEGRAM_THREAD_ID: '4016'
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
         run: node scripts/telegram-news.mjs
         continue-on-error: true
 
@@ -103,6 +110,7 @@ jobs:
           TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
           TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
         run: node scripts/telegram-ai-news.mjs
         continue-on-error: true
 
