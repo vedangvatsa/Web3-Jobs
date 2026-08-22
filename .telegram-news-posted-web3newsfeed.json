@@ -485,6 +485,9 @@
   "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
   "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
   "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+  "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
+  "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1363,6 +1366,12 @@
   "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
   "Treasury buybacks reduced yields, pushing Bitcoin toward $80,000",
   "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+  "United Arab Emirates authorities clear Binance staff after probe",
+  "Binance says employees questioned in UAE cleared and released",
+  "Bitcoin and Ether ETFs Attract $2.6 Billion Weekly Inflows",
+  "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
+  "Microsoft Patches Critical Vulnerability in Entra ID",
+  "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1380,5 +1389,8 @@
   "fp:amend|application|approval|asset|closer|etf|fil|fresh|friday|fund",
   "fp:announc|blockchain|bnb|bouncebit|chain|dollar|down|exploit|migrat|network",
   "fp:agent|allow|binanc|can|connect|cryptocurrency|directly|door|enabl|exchang",
-  "fp:000|bearish|bond|buyback|day|driv|help|how|lower|market"
+  "fp:000|bearish|bond|buyback|day|driv|help|how|lower|market",
+  "fp:account|arab|associat|authority|binanc|clear|corporat|emirat|employe|examin",
+  "fp:26b|29b|asset|attract|both|down|draw|dur|etf|ether",
+  "fp:activ|befor|cod|critical|disclosur|entra|evidenc|exploit|exploitation|fix"
 ]

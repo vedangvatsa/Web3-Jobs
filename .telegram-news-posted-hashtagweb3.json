@@ -467,6 +467,9 @@
   "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
   "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
   "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+  "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+  "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1309,6 +1312,12 @@
   "MANTRA freezes all transactions and network following incident",
   "US Treasury buybacks help drive Bitcoin toward $80,000",
   "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+  "Laser Digital receives crypto exchange license in Japan",
+  "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
+  "BitMart plans restructuring and creditor payouts following shutdown",
+  "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+  "Microsoft Patches Critical Security Flaw in Entra ID",
+  "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1326,5 +1335,8 @@
   "fp:amend|application|asset|closer|etf|fil|fresh|friday|fund|grayscal",
   "fp:286m|attacker|block|blockchain|bnb|bouncebit|chain|decid|down|exploit",
   "fp:activity|all|cor|critical|developer|discover|execution|follow|freez|halt",
-  "fp:000|bearish|bond|buyback|day|driv|help|how|long|lower"
+  "fp:000|bearish|bond|buyback|day|driv|help|how|long|lower",
+  "fp:approval|asset|client|digital|exchang|get|in4|institutional|japan|laser",
+  "fp:announc|appoint|bitmart|counsel|creditor|exchang|follow|halt|operation|partial",
+  "fp:activ|befor|cod|critical|disclosur|entra|evidenc|exploit|exploitation|fix"
 ]

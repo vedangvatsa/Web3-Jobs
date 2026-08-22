@@ -1,11 +1,195 @@
 [
   {
+    "id": "7941620003",
+    "title": "Lead / Expert, RWA Ecosystem Growth",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7941620003",
+    "date": "2026-08-22T13:40:41-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "90895369",
+    "title": "Applications Engineer",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/applications-engineer-at-hadrian-4454664913",
+    "date": "2026-08-22T14:58:04.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "90895370",
+    "title": "IT System Admin",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/it-system-admin-at-hadrian-4453452885",
+    "date": "2026-08-22T14:58:04.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "90895372",
+    "title": "Technical Program Manager, Manufacturing Operations",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/technical-program-manager-manufacturing-operations-at-hadrian-4452296429",
+    "date": "2026-08-22T14:58:04.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "90895371",
+    "title": "Accounts Payable Manager",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/accounts-payable-manager-at-hadrian-4454131628",
+    "date": "2026-08-22T14:58:04.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "90895373",
+    "title": "CNC Controls Engineer",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/cnc-controls-engineer-at-hadrian-4454658956",
+    "date": "2026-08-22T14:58:04.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "90895367",
+    "title": "Engineering Manager, Technical Data Intelligence",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/engineering-manager-technical-data-intelligence-at-hadrian-4454662956",
+    "date": "2026-08-22T14:58:03.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "90895362",
+    "title": "Accounts Payable Specialist",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/accounts-payable-specialist-at-hadrian-4454140457",
+    "date": "2026-08-22T14:58:03.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "90895363",
+    "title": "Program Manager, Capabilities",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/program-manager-capabilities-at-hadrian-4302605411",
+    "date": "2026-08-22T14:58:03.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "90895361",
+    "title": "Manufacturing Specialist",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/manufacturing-specialist-at-hadrian-4454668894",
+    "date": "2026-08-22T14:58:03.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "90895366",
+    "title": "Welding Specialist, R&D",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/welding-specialist-r-d-at-hadrian-4315457219",
+    "date": "2026-08-22T14:58:03.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "90895368",
+    "title": "Factory Lead - 2nd Shift",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/factory-lead-2nd-shift-at-hadrian-4453838044",
+    "date": "2026-08-22T14:58:03.000Z",
+    "source": "https://jobs.multicoin.capital/jobs"
+  },
+  {
+    "id": "90869705",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Lever",
+    "link": "https://careers.employinc.com/jobs/18152908-senior-site-reliability-engineer",
+    "date": "2026-08-22T13:37:15.000Z",
+    "source": "https://nascent.getro.com/jobs"
+  },
+  {
+    "id": "90859474",
+    "title": "BDR Manager, NYC",
+    "company": "Blockaid",
+    "link": "https://www.comeet.com/jobs/blockaid/69.00B/bdr-manager-nyc/67.07C",
+    "date": "2026-08-22T13:08:07.000Z",
+    "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "90852735",
+    "title": "Senior Product Manager - Core",
+    "company": "Coinflow Labs",
+    "link": "https://jobs.ashbyhq.com/Coinflow/0300fed1-e8d3-42ab-ac32-839faf7ee808",
+    "date": "2026-08-22T12:51:04.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "90852736",
+    "title": "Growth Marketing Manager",
+    "company": "Coinflow Labs",
+    "link": "https://jobs.ashbyhq.com/Coinflow/f81559ac-f5ce-4041-84f2-e43052cf46f5",
+    "date": "2026-08-22T12:51:04.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "90836238",
+    "title": "Infrastructure Security Engineer",
+    "company": "Blockchain.com",
+    "link": "https://boards.greenhouse.io/blockchain/jobs/8147215",
+    "date": "2026-08-22T12:19:13.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "90826117",
+    "title": "Head of Risk",
+    "company": "Ansible Labs",
+    "link": "https://jobs.ashbyhq.com/moderntreasury/6aea2452-d858-434b-acc9-e9785c21cb69",
+    "date": "2026-08-22T11:50:51.000Z",
+    "source": "https://jobs.archetype.fund/jobs"
+  },
+  {
+    "id": "90825471",
+    "title": "Forward Deployed Engineer",
+    "company": "Blockstream",
+    "link": "https://jobs.ashbyhq.com/blockstream/ecf017c0-17ea-4a04-8307-7655eaf56747",
+    "date": "2026-08-22T11:48:54.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "90825470",
+    "title": "Senior DevOps Engineer - APAC (Platform & Reliability)",
+    "company": "Blockstream",
+    "link": "https://jobs.ashbyhq.com/blockstream/8d562d06-9708-4a5c-b74a-d6e672b8f308",
+    "date": "2026-08-22T11:48:53.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "90825465",
+    "title": "Technical Solutions Consultant (Pre-Sales)",
+    "company": "Blockstream",
+    "link": "https://jobs.ashbyhq.com/blockstream/7e39cb0c-e155-4c32-b8b8-c76225ff07ee",
+    "date": "2026-08-22T11:48:53.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "90821720",
+    "title": "Creative Designer",
+    "company": "Nala",
+    "link": "https://apply.workable.com/nalamoney/j/8FC78D2C07",
+    "date": "2026-08-22T11:36:40.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
     "id": "90819499",
     "title": "Senior Software Engineer, CUDA",
     "company": "Provable",
     "link": "https://jobs.ashbyhq.com/provable/a2553878-9523-44a4-810a-6e30b0c128f5",
     "date": "2026-08-22T11:30:21.000Z",
     "source": "https://jobs.variant.fund/jobs"
+  },
+  {
+    "id": "90818881",
+    "title": "Director, Product & Technology Communications",
+    "company": "Circle",
+    "link": "https://careers.circle.com/us/en/job/JR101120",
+    "date": "2026-08-22T11:29:08.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
   },
   {
     "id": "90813017",
@@ -472,6 +656,14 @@
     "source": "https://coinbase.getro.com/jobs"
   },
   {
+    "id": "90714387",
+    "title": "Regional General Manager, France",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/42702b6a-b4a6-47ac-add0-07b435a8be38",
+    "date": "2026-08-21T12:07:51.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
     "id": "90714385",
     "title": "Business Development Representative, Benelux",
     "company": "Notion",
@@ -482,6 +674,14 @@
   {
     "id": "90714383",
     "title": "External Job Post",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/951a7b72-4cb3-4726-be5e-5359269d4929",
+    "date": "2026-08-21T12:07:50.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "90714383",
+    "title": "Regional General Manager, DACH",
     "company": "Notion",
     "link": "https://jobs.ashbyhq.com/notion/951a7b72-4cb3-4726-be5e-5359269d4929",
     "date": "2026-08-21T12:07:50.000Z",
@@ -3918,6 +4118,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8128496",
     "date": "2026-08-13T13:29:57-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8700980002",
+    "title": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
+    "date": "2026-08-13T13:15:09-04:00",
+    "source": "Greenhouse: Jane Street"
   },
   {
     "id": "a755e204-d28e-4894-8364-b849664766c5",
@@ -16109,566 +16317,6 @@
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=8069629",
     "date": "2026-07-23T16:37:23-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8647730002",
-    "title": "Workday Financials Specialist",
-    "company": "Jane Street",
-    "link": "https://job-boards.greenhouse.io/janestreet/jobs/8647730002",
-    "date": "2026-07-23T15:32:37-04:00",
-    "source": "Greenhouse: Jane Street"
-  },
-  {
-    "id": "26af9b11-9fc8-4098-8bd2-73e7aa7dbdbd",
-    "title": "Account Executive, Mid-Market",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/26af9b11-9fc8-4098-8bd2-73e7aa7dbdbd",
-    "date": "2026-07-23T19:26:27.735+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "8079918",
-    "title": "Financial Connections TechOps Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8079918",
-    "date": "2026-07-23T15:02:05-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8082056",
-    "title": "Staff Quality Engineer",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8082056?t=gh_src=&gh_jid=8082056",
-    "date": "2026-07-23T14:53:51-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "6b416cc2-be53-42e2-a9aa-fd3b7036e1c1",
-    "title": "Operations Associate",
-    "company": "Compound",
-    "link": "https://jobs.ashbyhq.com/Compound/6b416cc2-be53-42e2-a9aa-fd3b7036e1c1",
-    "date": "2026-07-23T18:45:36.274+00:00",
-    "source": "Ashby: Compound"
-  },
-  {
-    "id": "4685344006",
-    "title": "Senior Web Engineer, Marketing",
-    "company": "Fireblocks",
-    "link": "https://www.fireblocks.com/careers/4685344006?gh_jid=4685344006",
-    "date": "2026-07-23T14:29:01-04:00",
-    "source": "Greenhouse: Fireblocks"
-  },
-  {
-    "id": "4e1ba978-556c-4b9a-aae9-fe7cbb06fdb2",
-    "title": "Technical Account Manager, APAC",
-    "company": "Socket",
-    "link": "https://jobs.ashbyhq.com/Socket/4e1ba978-556c-4b9a-aae9-fe7cbb06fdb2",
-    "date": "2026-07-23T18:27:36.668+00:00",
-    "source": "Ashby: Socket"
-  },
-  {
-    "id": "87362134",
-    "title": "Flight Operations Coordinator — Middle East",
-    "company": "Raad",
-    "link": "https://raad.com/en/careers/flight-operations-coordinator-middle-east",
-    "date": "2026-07-23T17:59:49.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "87362131",
-    "title": "Flight Operations Coordinator — Germany & Central Europe",
-    "company": "Raad",
-    "link": "https://raad.com/en/careers/flight-operations-coordinator-germany",
-    "date": "2026-07-23T17:59:48.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "87362129",
-    "title": "Flight Operations Coordinator — France & Southern Europe",
-    "company": "Raad",
-    "link": "https://raad.com/en/careers/flight-operations-coordinator-france",
-    "date": "2026-07-23T17:59:48.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "87362125",
-    "title": "Flight Operations Coordinator — South America",
-    "company": "Raad",
-    "link": "https://raad.com/en/careers/flight-operations-coordinator-south-america",
-    "date": "2026-07-23T17:59:46.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "87362120",
-    "title": "Hardware & Rapid Prototyping Specialist — UAS Development",
-    "company": "Raad",
-    "link": "https://raad.com/en/careers/hardware-rapid-prototyping-specialist-uas",
-    "date": "2026-07-23T17:59:45.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "87362114",
-    "title": "SysOps Engineer — Hardware & Secure Infrastructure",
-    "company": "Raad",
-    "link": "https://raad.com/en/careers/sysops-engineer-hardware-infrastructure",
-    "date": "2026-07-23T17:59:43.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "87362112",
-    "title": "Python Engineer — ML Tooling & Annotation Platform",
-    "company": "Raad",
-    "link": "https://raad.com/en/careers/python-engineer-ml-tooling",
-    "date": "2026-07-23T17:59:42.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "87362103",
-    "title": "Machine Learning Engineer — Aerial Image Classification",
-    "company": "Raad",
-    "link": "https://raad.com/en/careers/ml-engineer-aerial-image-classification",
-    "date": "2026-07-23T17:59:40.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "87355682",
-    "title": "Front-end Developer",
-    "company": "FBYT",
-    "link": "https://fbyt.io/careers#al2365tj4qios7cdr95nx3wud&:~:text=Front-end%20Developer",
-    "date": "2026-07-23T17:35:16.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "87355681",
-    "title": "Community Manager",
-    "company": "FBYT",
-    "link": "https://fbyt.io/careers#9cdm2fgtjl55ochsnt2fiao4z&:~:text=Community%20Manager",
-    "date": "2026-07-23T17:35:16.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "87355679",
-    "title": "Business Development Manager",
-    "company": "FBYT",
-    "link": "https://fbyt.io/careers#7n1cw0bhccfm25k59ui420ckh&:~:text=Business%20Development%20Manager",
-    "date": "2026-07-23T17:35:15.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "8081995",
-    "title": "Treasury Operations Analyst",
-    "company": "Blockchain.com",
-    "link": "https://job-boards.greenhouse.io/blockchain/jobs/8081995",
-    "date": "2026-07-23T13:34:03-04:00",
-    "source": "Greenhouse: Blockchain.com"
-  },
-  {
-    "id": "8079744",
-    "title": "Staff Product Manager, Platform Operations",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8079744?t=gh_src=&gh_jid=8079744",
-    "date": "2026-07-23T13:31:25-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "8064873",
-    "title": "Senior Software Engineer, Data Layer",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873",
-    "date": "2026-07-23T13:18:57-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8081953",
-    "title": "Senior IT Engineer",
-    "company": "Blockchain.com",
-    "link": "https://job-boards.greenhouse.io/blockchain/jobs/8081953",
-    "date": "2026-07-23T13:14:08-04:00",
-    "source": "Greenhouse: Blockchain.com"
-  },
-  {
-    "id": "8072764",
-    "title": "Head of Sales Development, AMER",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8072764",
-    "date": "2026-07-23T12:57:15-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "4936493101",
-    "title": "Compliance Audit Manager",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4936493101",
-    "date": "2026-07-23T12:35:32-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "a03dd3f6-af20-4653-a23b-179192964a4f",
-    "title": "APAC Controller & Vertical Finance Lead",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/a03dd3f6-af20-4653-a23b-179192964a4f",
-    "date": "2026-07-23T16:30:49.327Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "6123378004",
-    "title": "Analyst, Investor Relations",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6123378004",
-    "date": "2026-07-23T12:22:33-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "8d5da342-86f7-4ac9-a61d-f91a7e60bfeb",
-    "title": "Marketing Engineer",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/8d5da342-86f7-4ac9-a61d-f91a7e60bfeb",
-    "date": "2026-07-23T16:13:49.105+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "8d5da342-86f7-4ac9-a61d-f91a7e60bfeb",
-    "title": "Marketing Operations Lead",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/8d5da342-86f7-4ac9-a61d-f91a7e60bfeb",
-    "date": "2026-07-23T16:13:49.105+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "8035713",
-    "title": "Senior Cloud Engineer",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8035713?t=gh_src=&gh_jid=8035713",
-    "date": "2026-07-23T12:09:00-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "661a14dc-b5f6-4fea-90a5-ba2a65d171e2",
-    "title": "Head of CEO Office",
-    "company": "Morpho",
-    "link": "https://jobs.ashbyhq.com/Morpho/661a14dc-b5f6-4fea-90a5-ba2a65d171e2",
-    "date": "2026-07-23T15:57:30.907+00:00",
-    "source": "Ashby: Morpho"
-  },
-  {
-    "id": "87325241",
-    "title": "Business Developers (Web3 / DeFi | KOLs & Traders)",
-    "company": "FBYT",
-    "link": "https://jobs.solana.com/companies/fbyt-2-ec88b465-043d-457f-8a1e-c9190e3c7e07/jobs/87325241-business-developers-web3-defi-kols-traders",
-    "date": "2026-07-23T15:56:44.000Z",
-    "source": "https://jobs.solana.com/jobs"
-  },
-  {
-    "id": "87323692",
-    "title": "Head of Solutions Engineering",
-    "company": "Offchain Labs",
-    "link": "https://www.linkedin.com/jobs/view/head-of-solutions-engineering-at-offchain-4443557083",
-    "date": "2026-07-23T15:40:21.000Z",
-    "source": "https://jobs.spartangroup.io/jobs"
-  },
-  {
-    "id": "8080467",
-    "title": "Lead, Benefits",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8080467&gh_jid=8080467",
-    "date": "2026-07-23T11:38:52-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "87323426",
-    "title": "HR Talent Acquisition Internship in Hyderabad",
-    "company": "Swipe.io",
-    "link": "https://in.linkedin.com/jobs/view/hr-talent-acquisition-internship-in-hyderabad-at-swipe-4443596617",
-    "date": "2026-07-23T15:36:58.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "87323424",
-    "title": "Customer Support Associate (Tamil) - Fresher in Hyderabad",
-    "company": "Swipe.io",
-    "link": "https://in.linkedin.com/jobs/view/customer-support-associate-tamil-fresher-in-hyderabad-at-swipe-4443704438",
-    "date": "2026-07-23T15:36:58.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "87321249",
-    "title": "Senior QC Automation Engineer",
-    "company": "Axis Pay",
-    "link": "https://eg.linkedin.com/jobs/view/senior-qc-automation-engineer-at-axis-4440140372",
-    "date": "2026-07-23T15:21:03.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87321248",
-    "title": "Linux System Administrator",
-    "company": "Axis Pay",
-    "link": "https://eg.linkedin.com/jobs/view/linux-system-administrator-at-axis-4441061104",
-    "date": "2026-07-23T15:21:03.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87321250",
-    "title": "Onboarding Specialist",
-    "company": "Axis Pay",
-    "link": "https://eg.linkedin.com/jobs/view/onboarding-specialist-at-axis-4440118853",
-    "date": "2026-07-23T15:21:03.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87321251",
-    "title": "Senior Equity & NBFI Specialist",
-    "company": "Axis Pay",
-    "link": "https://eg.linkedin.com/jobs/view/senior-equity-nbfi-specialist-at-axis-4440134063",
-    "date": "2026-07-23T15:21:03.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87651383-8991-4e9f-9525-1727fac20c6c",
-    "title": "Senior Product Manager, Spot Trading",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/87651383-8991-4e9f-9525-1727fac20c6c",
-    "date": "2026-07-23T15:16:18.348Z",
-    "source": "Lever: Binance"
-  },
-  {
-    "id": "8081633",
-    "title": "Senior Sales Manager, Ripple Treasury (Account Executive)",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/8081633?gh_jid=8081633",
-    "date": "2026-07-23T11:14:37-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "f8cbcedf-5b3a-463c-82d1-0d80b9c34e42",
-    "title": "Data Platform Engineer",
-    "company": "Paxos",
-    "link": "https://jobs.ashbyhq.com/Paxos/f8cbcedf-5b3a-463c-82d1-0d80b9c34e42",
-    "date": "2026-07-23T15:14:23.950+00:00",
-    "source": "Ashby: Paxos"
-  },
-  {
-    "id": "87317374",
-    "title": "BookkeeperIsrael",
-    "company": "WAVE",
-    "link": "https://il.linkedin.com/jobs/view/bookkeeper%0Aisrael-at-wavebl-4443917908",
-    "date": "2026-07-23T14:51:55.000Z",
-    "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "8076626",
-    "title": "Software Engineer, Stripe Tax",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8076626",
-    "date": "2026-07-23T10:35:40-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "87314586",
-    "title": "International Payroll Lead",
-    "company": "Rise",
-    "link": "https://ca.linkedin.com/jobs/view/international-payroll-lead-at-rise-4442134326",
-    "date": "2026-07-23T14:29:00.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87310147",
-    "title": "Startale App",
-    "company": "Astar Foundation",
-    "link": "https://boards.greenhouse.io/startale/jobs/5368171008",
-    "date": "2026-07-23T14:07:12.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "87306434",
-    "title": "Accounting Associate",
-    "company": "Coin Metrics",
-    "link": "https://jobs.ashbyhq.com/Talos-Trading/44d7ac9e-16f7-4fab-8f51-ec7ffcac554d",
-    "date": "2026-07-23T13:57:19.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "87306082",
-    "title": "Senior Software Engineer (Backend): Layer 1 Digital Asset",
-    "company": "BVNK",
-    "link": "https://boards.greenhouse.io/bvnk/jobs/4933228101",
-    "date": "2026-07-23T13:56:52.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "87306074",
-    "title": "Onboarding Analyst",
-    "company": "BVNK",
-    "link": "https://boards.greenhouse.io/bvnk/jobs/4935350101",
-    "date": "2026-07-23T13:56:51.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "8081418",
-    "title": "Product Manager, Global Expansion",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8081418",
-    "date": "2026-07-23T09:55:44-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "87304977",
-    "title": "Staff Technical Program Manager",
-    "company": "Ripple",
-    "link": "https://boards.greenhouse.io/ripple/jobs/7997789",
-    "date": "2026-07-23T13:54:38.000Z",
-    "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "87290904",
-    "title": "Staff Software Engineer, Backend - FinHub (Ledger)",
-    "company": "Coinbase",
-    "link": "https://boards.greenhouse.io/coinbase/jobs/8064916",
-    "date": "2026-07-23T13:26:57.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87290826",
-    "title": "Associate Manager, Premium & Wealth",
-    "company": "Coinbase",
-    "link": "https://boards.greenhouse.io/coinbase/jobs/8080028",
-    "date": "2026-07-23T13:26:52.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87290112",
-    "title": "Support Engineering Lead",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/sardine/b9119961-806c-40d9-a38f-b9df69ecf684",
-    "date": "2026-07-23T13:25:52.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87287649",
-    "title": "Accounts Payable Analyst",
-    "company": "Fortitude Mining",
-    "link": "https://boards.greenhouse.io/fortitudeminingllc/jobs/4329250009",
-    "date": "2026-07-23T13:20:34.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87285354",
-    "title": "Technical Support Engineer - LATAM",
-    "company": "Utila",
-    "link": "https://www.comeet.com/jobs/utila/D9.00F/technical-support-engineer--latam/0E.E6E",
-    "date": "2026-07-23T13:16:44.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87280732",
-    "title": "Android Mobile Engineer",
-    "company": "OXIO",
-    "link": "https://jobs.ashbyhq.com/OXIO/3f068e49-dc21-4121-b7cf-7053598cf071",
-    "date": "2026-07-23T13:08:56.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87280652",
-    "title": "Associate Counsel, Corporate",
-    "company": "Rain",
-    "link": "https://jobs.ashbyhq.com/rain/0ef85bfc-257f-4627-b779-903f07b399d6",
-    "date": "2026-07-23T13:08:46.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "87280650",
-    "title": "Project Manager",
-    "company": "Rain",
-    "link": "https://jobs.ashbyhq.com/rain/d4ca49a9-4b26-4d8c-9668-08aa63f4f89f",
-    "date": "2026-07-23T13:08:46.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "87264740",
-    "title": "Snr QA Automation Engineer - Pro",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/b43e32c0-5562-4f8b-a26f-c66b5f68c935",
-    "date": "2026-07-23T12:42:05.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "87264738",
-    "title": "Head of KOL - Kraken Pro",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/69cc0fbb-a7f5-4170-abf0-4fcee84fd487",
-    "date": "2026-07-23T12:42:04.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "87264737",
-    "title": "Global Head of KOL - Kraken Pro",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/29d85f2c-cf8b-43e2-a3e4-027f6afffc69",
-    "date": "2026-07-23T12:42:04.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "87263768",
-    "title": "Associate Counsel, Corporate",
-    "company": "Tephra",
-    "link": "https://jobs.ashbyhq.com/rain/0ef85bfc-257f-4627-b779-903f07b399d6",
-    "date": "2026-07-23T12:40:38.000Z",
-    "source": "https://jobs.variant.fund/jobs"
-  },
-  {
-    "id": "87263765",
-    "title": "Project Manager",
-    "company": "Tephra",
-    "link": "https://jobs.ashbyhq.com/rain/d4ca49a9-4b26-4d8c-9668-08aa63f4f89f",
-    "date": "2026-07-23T12:40:38.000Z",
-    "source": "https://jobs.variant.fund/jobs"
-  },
-  {
-    "id": "87263395",
-    "title": "Treasury Analyst, Zambia",
-    "company": "Yellow Card",
-    "link": "https://yellowcard.bamboohr.com/careers/408",
-    "date": "2026-07-23T12:40:16.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "87263053",
-    "title": "Merchant Opening Lead",
-    "company": "Wave Mobile Money",
-    "link": "https://boards.greenhouse.io/wavemm1/jobs/6123165004",
-    "date": "2026-07-23T12:39:38.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "87247154",
-    "title": "CTO",
-    "company": "Gnosis",
-    "link": "https://gnosis.jobs.personio.com/job/2723818",
-    "date": "2026-07-23T12:07:58.000Z",
-    "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "87244731",
-    "title": "Compliance Engineer Intern",
-    "company": "CertiK",
-    "link": "https://jobs.lever.co/certik/0b497f25-210b-408e-b2c3-e005c841d867",
-    "date": "2026-07-23T12:01:34.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "87244719",
-    "title": "Compliance Engineer",
-    "company": "CertiK",
-    "link": "https://jobs.lever.co/certik/f507fc48-77e7-4b1b-9a88-11e2b20fe21d",
-    "date": "2026-07-23T12:01:34.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "8024033",
-    "title": "Partner Solutions Architect, AI Partnerships",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8024033",
-    "date": "2026-07-23T08:00:07-04:00",
     "source": "Greenhouse: Stripe"
   }
 ]

@@ -1,47 +1,5 @@
 [
   {
-    "id": "luma-evt-mYTwC3QlzPpgcpq",
-    "name": "Solo Unicorn Roundtable · Series 01",
-    "description": "",
-    "startDate": "2026-08-22T18:00:00.000Z",
-    "endDate": "2026-08-22T21:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/o2f2sufo",
-    "coverImage": "https://images.lumacdn.com/uploads/88/0953e44d-ee1a-4271-9680-87ce7fee89b5.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-xBHxaApuuhRCmQL",
-    "name": "AUGUST - Greater Silicon Valley Robotics & Automation Luncheon",
-    "description": "",
-    "startDate": "2026-08-22T18:00:00.000Z",
-    "endDate": "2026-08-22T23:00:00.000Z",
-    "city": "San Gregorio",
-    "country": "United States",
-    "location": "San Gregorio, United States",
-    "url": "https://lu.ma/oknb6fcf",
-    "coverImage": "https://images.lumacdn.com/uploads/ff/72952af0-e822-4e54-bd5b-36c9c2e2ad8a.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-Suhqcj7fxKGinei",
-    "name": "Bitcoin 101: Capitalism is IMPOSSIBLE when the money is corrupt",
-    "description": "",
-    "startDate": "2026-08-22T19:00:00.000Z",
-    "endDate": "2026-08-22T21:00:00.000Z",
-    "city": "Denver",
-    "country": "United States",
-    "location": "Denver, United States",
-    "url": "https://lu.ma/4b01y8vi",
-    "coverImage": "https://images.lumacdn.com/event-covers/q9/d324427c-0642-4183-8e9c-2539e1cfcea3",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-nYa1pDmEnI3hKz1",
     "name": "Soft Circuit Crown Workshop | Electronic Tea Time by Nasha",
     "description": "",
@@ -94,6 +52,20 @@
     "location": "San Francisco, United States",
     "url": "https://lu.ma/60r2xqa7",
     "coverImage": "https://images.lumacdn.com/uploads/yc/f0b76b24-6d74-4735-9881-6f2167334138.png",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-IQVFxlaGK3Ze4t6",
+    "name": "Introduction to Electronics and Computing",
+    "description": "",
+    "startDate": "2026-08-24T17:00:00.000Z",
+    "endDate": "2026-08-24T20:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/rzgg384s",
+    "coverImage": "https://images.lumacdn.com/uploads/rk/0d82900b-c543-4433-9d05-bca9d073e461.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -406,6 +378,20 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-eEwbcb6VoRwYoAu",
+    "name": "Superteam Thailand Community Call #2",
+    "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
+    "startDate": "2026-08-27T06:30:00.000Z",
+    "endDate": "2026-08-27T08:00:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Bangkok, Thailand",
+    "url": "https://lu.ma/zspk63m0",
+    "coverImage": "https://images.lumacdn.com/uploads/l6/c5111593-d861-4f93-bafa-14eb12ee8b64.jpg",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-pQ6uFRC26SJnNoz",
     "name": "Superteam UAE: Solana Ecosystem Call Meetup",
     "description": "Made for Solana founders, operators and builders.",
@@ -476,16 +462,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990066",
+    "id": "mu-315990029",
     "name": "ZK Learning Group: Introduction to ZkSync",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-08-27T10:00:00-06:00",
-    "endDate": "2026-08-27T10:00:00-06:00",
+    "startDate": "2026-08-27T09:00:00-07:00",
+    "endDate": "2026-08-27T09:00:00-07:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-denver/events/315990066/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/a/6/600_535528838.jpeg",
+    "url": "https://www.meetup.com/lfdt-seattle-chapter/events/315990029/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/8/0/600_535528800.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -501,6 +487,20 @@
     "url": "https://lu.ma/dg71hsm4",
     "coverImage": "https://images.lumacdn.com/uploads/3x/fccea97f-733e-4b6b-89ec-25d97479ff38.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316021768",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-08-27T11:00:00-07:00",
+    "endDate": "2026-08-27T11:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/carpoolcrypto/events/316021768/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/f/f/6/600_535224566.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -602,6 +602,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-315286686",
+    "name": "Real-Time Intelligence MCP: consulta datos en streaming con lenguaje natural",
+    "description": "Los datos en tiempo real son el próximo nivel.\n\nEn esta sesión conectaremos el servidor MCP de Real-Time Intelligence (RTI) de Fabric a un agente de IA para interactuar con Eventhouse y Azure Data Exp",
+    "startDate": "2026-08-28T08:00:00-07:00",
+    "endDate": "2026-08-28T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286686/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/3/1/600_534888945.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-1VsOIcGBaIWowKB",
     "name": "Vancouver VibeStation",
     "description": "Building the Solana ecosystem in Canada 🇨🇦",
@@ -626,20 +640,6 @@
     "location": "Virtual / TBA",
     "url": "https://lu.ma/claugpulse",
     "coverImage": "https://images.lumacdn.com/uploads/1f/63b9134e-f3ae-4a1b-a5ee-5e13c10f2585.jpg",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-cty4Ulf1YKtGVid",
-    "name": "Superteam Argentina - Launch Party",
-    "description": "The home for Solana builders in Argentina 🇦🇷",
-    "startDate": "2026-08-28T21:30:00.000Z",
-    "endDate": "2026-08-29T02:00:00.000Z",
-    "city": "Buenos Aires",
-    "country": "Argentina",
-    "location": "Buenos Aires, Argentina",
-    "url": "https://lu.ma/4e9osxq4",
-    "coverImage": "https://images.lumacdn.com/uploads/vw/7cdd0183-4e59-42cf-8bca-ccd80201c76d.png",
     "source": "luma-trusted",
     "month": "August 2026"
   },
@@ -669,6 +669,20 @@
     "url": "https://lu.ma/blitz-ams-aug-2026",
     "coverImage": "https://images.lumacdn.com/uploads/6p/18c2194e-a876-4493-87e0-886def1a5bf4.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316190574",
+    "name": "Where will the wind take you next before the New Year?",
+    "description": "Sometimes you don’t need another thing on your calendar.\nYou need **something to look forward to.**\nA little adventure to a new place\nA great meal of local foods\nA glass of wine made just down the roa",
+    "startDate": "2026-08-29T09:00:00-07:00",
+    "endDate": "2026-08-29T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/seattle-women-travel-explore-the-world-build-connections/events/316190574/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/1/6/1/1/600_535745649.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -823,6 +837,20 @@
     "url": "https://lu.ma/2uxuju6m",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-315286722",
+    "name": "Fabric IQ y Ontología MCP: la capa semántica que entiende tu negocio",
+    "description": "La sesión final lleva la serie al nivel más avanzado: la semántica empresarial como fundamento de todos los agentes.\n\nFabric IQ (GA desde Build 2026) es la capa de contexto compartido que unifica Data",
+    "startDate": "2026-09-04T08:00:00-07:00",
+    "endDate": "2026-09-04T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286722/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/7/0/600_534889008.jpeg",
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -1046,6 +1074,20 @@
     "location": "Culver City, United States",
     "url": "https://lu.ma/v77nygfp",
     "coverImage": "https://images.lumacdn.com/uploads/w2/84ceabbb-3744-4531-b6db-6781298bc495.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-Dd3eNd55rFmR8bj",
+    "name": "Beginner Acting Workshop Presented by HAFA Art Studio, Starz Studio by Marwa Gabriel, and I Studio by Rafik El Rihany",
+    "description": "",
+    "startDate": "2026-09-15T01:00:00.000Z",
+    "endDate": "2026-09-19T22:00:00.000Z",
+    "city": "Fountain Valley",
+    "country": "United States",
+    "location": "Fountain Valley, United States",
+    "url": "https://lu.ma/5eaoiqfb",
+    "coverImage": "https://images.lumacdn.com/uploads/s4/4dcc410c-d6f1-490a-9e25-f1ab7855b677.jpg",
     "source": "luma",
     "month": "September 2026"
   },
