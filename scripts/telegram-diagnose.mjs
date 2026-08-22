@@ -18,6 +18,10 @@ function summarizeChat(r) {
     type: r.type,
     username: r.username || null,
     title: r.title || null,
+    is_forum: Boolean(r.is_forum),
+    linked_chat_id: r.linked_chat_id || null,
+    join_to_send: r.join_to_send_messages ?? null,
+    join_by_request: r.join_by_request ?? null,
   };
 }
 
