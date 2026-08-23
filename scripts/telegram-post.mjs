@@ -18,6 +18,15 @@ try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }
 const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const CHANNEL_ID = process.env.TELEGRAM_CHANNEL_ID;
 const THREAD_ID = process.env.TELEGRAM_THREAD_ID;
+// Cross-post channel digests to @jobsweb3. Skip extras for forum-topic posts
+// (hashtagweb3 group) so we don't fire a second, different roundup there.
+const EXTRA_CHANNEL_IDS = THREAD_ID
+  ? []
+  : (process.env.TELEGRAM_EXTRA_CHANNEL_IDS ?? '@jobsweb3')
+      .split(',')
+      .map((s) => s.trim())
+      .filter(Boolean);
+const CHANNEL_IDS = [...new Set([CHANNEL_ID, ...EXTRA_CHANNEL_IDS].filter(Boolean))];
 const JOBS_PER_POST = 5;
 const CTA_URL = 'https://hashtagweb3.com?utm_source=telegram&utm_medium=social&utm_campaign=daily_jobs';
 // Use channel-specific state files so channel + group posts don't share cooldowns
@@ -246,18 +255,18 @@ function escapeHtml(text) {
 }
 
 // ── Send to Telegram ──
-async function sendToTelegram(message) {
+async function sendToTelegramChat(chatId, message, { threadId } = {}) {
   const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
-  
+
   const res = await fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
-      chat_id: CHANNEL_ID,
+      chat_id: chatId,
       text: message,
       parse_mode: 'HTML',
       disable_web_page_preview: true,
-      ...(THREAD_ID ? { message_thread_id: Number(THREAD_ID) } : {}),
+      ...(threadId ? { message_thread_id: Number(threadId) } : {}),
       reply_markup: {
         inline_keyboard: [
           [{ text: 'Turn your CV into a Website', url: 'https://cvin.bio/?utm_source=social&utm_medium=telegram&utm_campaign=web3hiring' }],
@@ -265,14 +274,35 @@ async function sendToTelegram(message) {
       },
     }),
   });
-  
+
   const data = await res.json();
-  
+
   if (!data.ok) {
-    throw new Error(`Telegram API error: ${JSON.stringify(data)}`);
+    throw new Error(`Telegram API error (${chatId}): ${JSON.stringify(data)}`);
   }
-  
+
   return data;
+}
+
+/** Post the same digest to the primary channel (and extras like @jobsweb3). */
+async function sendToTelegram(message) {
+  const results = [];
+  const errors = [];
+
+  for (const chatId of CHANNEL_IDS) {
+    // Thread ID only applies to the primary forum destination.
+    const threadId = chatId === CHANNEL_ID ? THREAD_ID : undefined;
+    try {
+      const data = await sendToTelegramChat(chatId, message, { threadId });
+      console.log(`  ✅ ${chatId} message ID: ${data.result.message_id}`);
+      results.push({ chatId, data });
+    } catch (e) {
+      console.error(`  ❌ ${chatId}: ${e.message}`);
+      errors.push({ chatId, error: e });
+    }
+  }
+
+  return { results, errors };
 }
 
 // ── Post once ──
@@ -303,12 +333,24 @@ async function postOnce() {
     return;
   }
   
-  const result = await sendToTelegram(message);
-  const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Singapore' });
-  console.log(`✅ Posted ${jobs.length} jobs at ${now} | Message ID: ${result.result.message_id}`);
+  console.log(`📢 Destinations: ${CHANNEL_IDS.join(', ')}`);
+  const { results, errors } = await sendToTelegram(message);
+  if (results.length === 0) {
+    throw errors[0]?.error || new Error('Telegram post failed for all channels');
+  }
 
-  // Save cooldown timestamp
+  const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Singapore' });
+  console.log(
+    `✅ Posted ${jobs.length} jobs at ${now} → ${results.map((r) => r.chatId).join(', ')}`
+  );
+
+  // Save cooldown even on partial success so @web3hiring isn't double-fired.
   fs.writeFileSync(LAST_POST_FILE, JSON.stringify({ postedAt: new Date().toISOString() }));
+
+  if (errors.length > 0) {
+    const detail = errors.map((e) => `${e.chatId}: ${e.error.message}`).join('; ');
+    throw new Error(`Posted to ${results.map((r) => r.chatId).join(', ')}, but failed: ${detail}`);
+  }
 }
 
 // ── Schedule mode (3x/day) ──

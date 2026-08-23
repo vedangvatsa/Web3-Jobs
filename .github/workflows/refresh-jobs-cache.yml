@@ -95,10 +95,11 @@ jobs:
         run: npx tsx scripts/social/buffer-refill.ts
         continue-on-error: true
 
-      - name: Post to Telegram (Jobs)
+      - name: Post to Telegram (Jobs → @web3hiring + @jobsweb3)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_EXTRA_CHANNEL_IDS: '@jobsweb3'
         run: node scripts/telegram-post.mjs
         continue-on-error: true
 
