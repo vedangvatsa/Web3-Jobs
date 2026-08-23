@@ -503,6 +503,9 @@
   "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
   "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
   "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+  "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+  "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+  "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1292,6 +1295,12 @@
   "Meta ran ads for an app promising to nudify female politicians",
   "Inherent releases AI agent to replicate research papers",
   "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+  "Meta AI glasses demand drives development of detection app",
+  "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+  "Insilico Medicine AI drug discovery sparks patent rights debate",
+  "When AI designs a drug, who gets the credit?",
+  "Harvard startup program uses AI instructor avatars",
+  "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1312,5 +1321,8 @@
   "fp:automat|can|counter|driven|favorit|featur|fight|giv|googl|help",
   "fp:advocat|bill|california|development|govern|legislation|openai|position|previous|regulation",
   "fp:advertisement|app|deepfak|explicit|featur|femal|figur|meta|nudify|paid",
-  "fp:agent|alumni|anthropic|british|claim|faraday|found|google|inherent|openai"
+  "fp:agent|alumni|anthropic|british|claim|faraday|found|google|inherent|openai",
+  "fp:adoption|alert|app|avoid|camera|citizen|creepy|demand|detection|developer",
+  "fp:automat|can|clinical|creat|credit|debat|design|discovery|drug|get",
+  "fp:699|avatar|board|bootcamp|clon|dur|feedback|harvard|instructor|meet"
 ]
