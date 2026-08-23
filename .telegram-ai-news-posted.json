@@ -509,6 +509,9 @@
   "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
   "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
   "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+  "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+  "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+  "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1310,6 +1313,12 @@
   "The DOJ is investigating a16z. What does this mean for venture capital?",
   "Litigant uses prompt injection in court filings",
   "Suspecting court of using AI, man injected prompts in filings to try to win case",
+  "Legal debate grows over training AI models on copyrighted books",
+  "Is it legal to train AI models on copyrighted books? It’s complicated",
+  "Google acquires bankrupt Spirit Airlines employee data amid privacy backlash",
+  "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+  "SpaceX veterans build automated robotic factory for steel parts",
+  "Former SpaceX engineers are building a robotic factory for making steel parts",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1336,5 +1345,8 @@
   "fp:699|avatar|board|bootcamp|clon|dur|feedback|harvard|instructor|meet",
   "fp:autonomous|behavior|contain|containment|dangerous|developer|document|exhibit|fail|frontier",
   "fp:a16z|andreessen|antitrust|are|board|capital|compet|competition|concurrent|directorship",
-  "fp:automat|believ|cas|court|document|embedd|fil|inject|injection|insid"
+  "fp:automat|believ|cas|court|document|embedd|fil|inject|injection|insid",
+  "fp:author|book|compensation|complicat|concern|consent|copyright|debat|developer|explicit",
+  "fp:acquir|administrator|agr|airlin|attendant|backlash|bankrupt|buy|concern|data",
+  "fp:aerospac|are|automat|build|engineer|fabrication|factory|former|found|heavy"
 ]
