@@ -491,6 +491,9 @@
   "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
   "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
   "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
+  "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
+  "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1381,6 +1384,12 @@
   "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
   "Pew Study Finds One-Third of Webpages Are AI-Written",
   "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
+  "Laser Digital secures Japanese crypto exchange license",
+  "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
+  "Coldcard releases wallet security patch following exploit",
+  "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+  "EU considers including crypto lending under MiCA rules",
+  "MiCA is coming for DeFi vaults, but regulation will be difficult",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1404,5 +1413,8 @@
   "fp:activ|befor|cod|critical|disclosur|entra|evidenc|exploit|exploitation|fix",
   "fp:advisor|back|bitmart|counsel|creditor|cryptocurrency|exchang|fight|group|hir",
   "fp:1960|backlog|caus|ceo|crisis|delanou|fairmint|fragment|fragmentation|joris",
-  "fp:are|com|concentrat|content|domain|find|generat|grow|half|nearly"
+  "fp:are|com|concentrat|content|domain|find|generat|grow|half|nearly",
+  "fp:approval|digital|domestic|exchang|firm|get|in4|institutional|japan|japanes",
+  "fp:130m|add|coinkit|coldcard|enforc|entropy|exploit|follow|generation|manual",
+  "fp:but|com|consider|decentraliz|defi|difficult|identify|includ|lend|mica"
 ]

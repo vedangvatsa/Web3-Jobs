@@ -506,6 +506,9 @@
   "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
   "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
   "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+  "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+  "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+  "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1301,6 +1304,12 @@
   "When AI designs a drug, who gets the credit?",
   "Harvard startup program uses AI instructor avatars",
   "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+  "Study shows frontier AI labs lack containment plans",
+  "Frontier AI labs still won’t say how they’d contain a rogue model",
+  "DOJ investigates Andreessen Horowitz over overlapping board seats",
+  "The DOJ is investigating a16z. What does this mean for venture capital?",
+  "Litigant uses prompt injection in court filings",
+  "Suspecting court of using AI, man injected prompts in filings to try to win case",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1324,5 +1333,8 @@
   "fp:agent|alumni|anthropic|british|claim|faraday|found|google|inherent|openai",
   "fp:adoption|alert|app|avoid|camera|citizen|creepy|demand|detection|developer",
   "fp:automat|can|clinical|creat|credit|debat|design|discovery|drug|get",
-  "fp:699|avatar|board|bootcamp|clon|dur|feedback|harvard|instructor|meet"
+  "fp:699|avatar|board|bootcamp|clon|dur|feedback|harvard|instructor|meet",
+  "fp:autonomous|behavior|contain|containment|dangerous|developer|document|exhibit|fail|frontier",
+  "fp:a16z|andreessen|antitrust|are|board|capital|compet|competition|concurrent|directorship",
+  "fp:automat|believ|cas|court|document|embedd|fil|inject|injection|insid"
 ]
