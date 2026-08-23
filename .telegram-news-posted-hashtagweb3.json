@@ -470,6 +470,9 @@
   "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
   "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+  "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1318,6 +1321,12 @@
   "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
   "Microsoft Patches Critical Security Flaw in Entra ID",
   "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+  "European Union reviews crypto rules for decentralized finance vaults",
+  "MiCA is coming for DeFi vaults, but regulation will be difficult",
+  "UAE authorities clear Binance staff after account investigation",
+  "Binance says employees questioned in UAE cleared and released",
+  "Solana reduces mainnet slot time to 350 milliseconds",
+  "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1338,5 +1347,8 @@
   "fp:000|bearish|bond|buyback|day|driv|help|how|long|lower",
   "fp:approval|asset|client|digital|exchang|get|in4|institutional|japan|laser",
   "fp:announc|appoint|bitmart|counsel|creditor|exchang|follow|halt|operation|partial",
-  "fp:activ|befor|cod|critical|disclosur|entra|evidenc|exploit|exploitation|fix"
+  "fp:activ|befor|cod|critical|disclosur|entra|evidenc|exploit|exploitation|fix",
+  "fp:automat|but|com|complianc|decentraliz|defi|difficult|european|evaluat|financ",
+  "fp:account|authority|binanc|clear|client|commercial|employe|exchang|flow|government",
+  "fp:200m|confirmation|cut|enabl|faster|goal|increas|mainnet|millisecond|network"
 ]
