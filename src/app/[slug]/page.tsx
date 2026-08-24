@@ -56,15 +56,21 @@ export async function generateStaticParams() {
   const articles = await getAllArticles();
   const resources = getAllResourcePages();
   const events = await getEvents();
-  // Pre-render only the 50 most recent articles + all resource pages + first 40 events at build time.
-  // Remaining items are generated on-demand via ISR (built on first request, then cached).
+
+  // Pre-render 50 most recent articles + all resource pages at build time.
   const topArticles = articles
    .sort((a, b) => new Date(b.publishedDate || 0).getTime() - new Date(a.publishedDate || 0).getTime())
    .slice(0, 50);
+
+  // Always pre-build pages for all curated events. Feed events are ISR on first request.
+  const curatedEvents = events.filter(e => e.source === 'curated-premier');
+  const feedEvents = events.filter(e => e.source !== 'curated-premier');
+
   return [
    ...topArticles.map((article) => ({ slug: article.slug })),
    ...resources.map((r) => ({ slug: r.seo.canonicalSlug })),
-   ...events.slice(0, 40).map((event) => ({ slug: getEventSlug(event) })),
+   ...curatedEvents.map((event) => ({ slug: getEventSlug(event) })),
+   ...feedEvents.slice(0, 20).map((event) => ({ slug: getEventSlug(event) })),
   ];
 }
 

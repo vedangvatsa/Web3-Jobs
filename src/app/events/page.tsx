@@ -76,7 +76,7 @@ export default async function EventsPage() {
               <div className="site-container">
                 <PageHeader
                   title="Web3 Events & Conferences"
-                  description="Discover verified crypto conferences, hackathons, developer summits, and builder meetups worldwide in 2026."
+                  description="Discover verified crypto conferences, hackathons, developer summits, and builder meetups worldwide."
                 />
               </div>
             </section>

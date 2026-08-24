@@ -71,7 +71,15 @@ export async function getEvents(): Promise<Web3Event[]> {
       return prioA - prioB;
     });
 
-    return cleaned;
+    // Only return future/ongoing events
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    const upcoming = cleaned.filter(e => {
+      const endDate = e.endDate ? new Date(e.endDate) : new Date(e.startDate);
+      return isNaN(endDate.getTime()) || endDate >= today;
+    });
+
+    return upcoming;
   } catch (error) {
     console.error('Error reading events:', error);
     return [];

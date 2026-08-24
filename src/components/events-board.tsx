@@ -50,7 +50,7 @@ const CATEGORY_TABS: Array<{ label: string; value: string; icon: React.ElementTy
 ];
 
 const DATE_RANGES = [
-  { label: 'All Upcoming Dates', value: 'all' },
+  { label: 'Date', value: 'all' },
   { label: 'Happening This Week', value: 'week' },
   { label: 'This Month', value: 'this-month' },
   { label: 'Next Month', value: 'next-month' },
@@ -186,6 +186,14 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
       const type = getEventType(event);
       const format = getEventFormat(event);
       const ecosystems = getEventEcosystems(event);
+
+      // Exclude past events — use endDate if available, otherwise startDate
+      const eventEndDate = event.endDate
+        ? new Date(event.endDate)
+        : event.startDate
+        ? new Date(event.startDate)
+        : null;
+      if (eventEndDate && !isNaN(eventEndDate.getTime()) && eventEndDate < today) return false;
 
       // Category tab
       if (selectedCategory !== 'all') {
@@ -337,44 +345,12 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
 
   return (
     <div className="space-y-8">
-      {/* Category Pills Bar */}
-      <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none">
-        {CATEGORY_TABS.map(tab => {
-          const Icon = tab.icon;
-          const isSelected = selectedCategory === tab.value;
-          const count = tabCounts[tab.value] ?? 0;
-          return (
-            <button
-              key={tab.value}
-              onClick={() => {
-                setSelectedCategory(tab.value);
-                setVisibleCount(INITIAL_COUNT);
-              }}
-              className={`flex items-center gap-2 px-4 py-2.5 rounded-full text-sm font-medium transition-all whitespace-nowrap border ${
-                isSelected
-                  ? 'bg-primary text-primary-foreground border-primary shadow-sm'
-                  : 'bg-card hover:bg-accent text-muted-foreground hover:text-foreground border-border/70'
-              }`}
-            >
-              <Icon className="h-4 w-4" />
-              <span>{tab.label}</span>
-              <span
-                className={`text-xs px-1.5 py-0.5 rounded-full ${
-                  isSelected ? 'bg-primary-foreground/20 text-primary-foreground' : 'bg-muted text-muted-foreground'
-                }`}
-              >
-                {count}
-              </span>
-            </button>
-          );
-        })}
-      </div>
 
-      {/* Search & Filter Toolbar */}
       <div className="p-4 sm:p-5 rounded-2xl border bg-card/60 backdrop-blur-sm shadow-sm space-y-4">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-12 gap-3">
-          {/* Search Input */}
-          <div className="lg:col-span-4 relative">
+        {/* Filter Row */}
+        <div className="flex flex-col sm:flex-row gap-3">
+          {/* Search Input — takes all available space */}
+          <div className="relative flex-1 min-w-0">
             <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
             <Input
               placeholder="Search by event, speaker, city, chain..."
@@ -383,7 +359,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
                 setSearchQuery(e.target.value);
                 setVisibleCount(INITIAL_COUNT);
               }}
-              className="pl-9 pr-8 h-10 rounded-xl text-sm bg-background border-border/80"
+              className="pl-9 pr-8 h-10 rounded-xl text-sm bg-background border-border/80 w-full"
             />
             {searchQuery && (
               <button
@@ -395,17 +371,18 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             )}
           </div>
 
-          {/* Location Dropdown */}
-          <div className="lg:col-span-3">
+          {/* Location + Date + View Toggle in one row on sm+ */}
+          <div className="flex items-center gap-2 w-full sm:w-auto shrink-0">
+            {/* Location Dropdown */}
             <select
               value={selectedLocation}
               onChange={e => {
                 setSelectedLocation(e.target.value);
                 setVisibleCount(INITIAL_COUNT);
               }}
-              className="w-full h-10 px-3 rounded-xl border border-border/80 bg-background text-sm text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-primary/20 cursor-pointer"
+              className="h-10 px-3 rounded-xl border border-border/80 bg-background text-sm text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-primary/20 cursor-pointer flex-1 min-w-0 sm:flex-none sm:w-[140px]"
             >
-              <option value="all">All Locations</option>
+              <option value="all">Location</option>
               <option value="Online">Virtual / Online</option>
               <optgroup label="Popular Cities & Hubs">
                 {locationOptions.map(loc => (
@@ -415,35 +392,15 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
                 ))}
               </optgroup>
             </select>
-          </div>
 
-          {/* Ecosystem Dropdown */}
-          <div className="lg:col-span-3">
-            <select
-              value={selectedEcosystem}
-              onChange={e => {
-                setSelectedEcosystem(e.target.value);
-                setVisibleCount(INITIAL_COUNT);
-              }}
-              className="w-full h-10 px-3 rounded-xl border border-border/80 bg-background text-sm text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-primary/20 cursor-pointer"
-            >
-              {ECOSYSTEM_OPTIONS.map(eco => (
-                <option key={eco} value={eco}>
-                  {eco}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          {/* Date Filter & View Mode Switcher */}
-          <div className="lg:col-span-2 flex items-center gap-2">
+            {/* Date Filter */}
             <select
               value={selectedDateRange}
               onChange={e => {
                 setSelectedDateRange(e.target.value);
                 setVisibleCount(INITIAL_COUNT);
               }}
-              className="flex-1 h-10 px-3 rounded-xl border border-border/80 bg-background text-sm text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-primary/20 cursor-pointer"
+              className="h-10 px-3 rounded-xl border border-border/80 bg-background text-sm text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-primary/20 cursor-pointer flex-1 min-w-0 sm:flex-none sm:w-[120px]"
             >
               {DATE_RANGES.map(d => (
                 <option key={d.value} value={d.value}>
@@ -524,11 +481,12 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             const datePill = getEventDatePill(event.startDate);
             const relativeBadge = getRelativeBadge(event.startDate);
             const slug = getEventSlug(event);
+            const cardHref = `/${slug}`;
 
             return (
               <Link
                 key={event.id}
-                href={`/${slug}`}
+                href={cardHref}
                 className="block group h-full"
               >
                 <Card className="flex flex-col h-full rounded-2xl overflow-hidden border border-border/80 hover:border-primary/50 bg-card hover:shadow-md transition-all duration-300">
@@ -604,26 +562,6 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
                       </p>
                     </div>
 
-                    {/* Description snippet if present */}
-                    {event.description && (
-                      <p className="text-xs text-muted-foreground/90 line-clamp-2 leading-relaxed">
-                        {event.description}
-                      </p>
-                    )}
-
-                    {/* Tags */}
-                    {ecosystems.length > 0 && (
-                      <div className="flex flex-wrap gap-1.5 pt-1">
-                        {ecosystems.map(eco => (
-                          <span
-                            key={eco}
-                            className="text-[11px] px-2 py-0.5 rounded-md bg-muted/80 text-muted-foreground font-medium"
-                          >
-                            {eco}
-                          </span>
-                        ))}
-                      </div>
-                    )}
 
                     {/* Footer Action */}
                     <div className="pt-3 mt-auto border-t border-border/40 flex items-center justify-between text-xs">
@@ -637,8 +575,8 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
                         )}
                       </span>
                       <span className="font-medium text-primary flex items-center gap-1 group-hover:translate-x-0.5 transition-transform">
-                        View Event
-                        <ExternalLink className="h-3.5 w-3.5" />
+                        View Details
+                        <ArrowRight className="h-3.5 w-3.5" />
                       </span>
                     </div>
                   </CardContent>
@@ -674,11 +612,12 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
                   const datePill = getEventDatePill(event.startDate);
                   const relativeBadge = getRelativeBadge(event.startDate);
                   const slug = getEventSlug(event);
+                  const cardHref = `/${slug}`;
 
                   return (
                     <Link
                       key={event.id}
-                      href={`/${slug}`}
+                      href={cardHref}
                       className="block group"
                     >
                       <div className="p-4 sm:p-5 rounded-2xl border border-border/80 bg-card hover:border-primary/50 hover:shadow-sm transition-all duration-200 flex flex-col sm:flex-row items-start sm:items-center gap-4 justify-between">
@@ -723,18 +662,6 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
                               <span>{formatEventDate(event.startDate, event.endDate)}</span>
                             </div>
 
-                            {ecosystems.length > 0 && (
-                              <div className="flex flex-wrap gap-1.5 pt-1">
-                                {ecosystems.map(eco => (
-                                  <span
-                                    key={eco}
-                                    className="text-[10px] px-2 py-0.5 rounded bg-muted text-muted-foreground font-medium"
-                                  >
-                                    {eco}
-                                  </span>
-                                ))}
-                              </div>
-                            )}
                           </div>
                         </div>
 
