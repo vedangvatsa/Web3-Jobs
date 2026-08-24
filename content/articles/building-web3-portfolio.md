@@ -1,12 +1,14 @@
 ---
-
-title: 'Build a Web3 Portfolio in 2026 That Lands $120K+ Jobs'
-image: 'https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxQb3J0Zm9saW98ZW58MHx8fHwxNzU0OTUxNjI0fDA&ixlib=rb-4.1.0&q=80&w=1080'
-description: 'Build a Web3 portfolio in 2026 that gets you hired. Essential projects, GitHub examples, and on-chain proof for developers, designers, and non-technical roles. Land $120K+ blockchain jobs.'
-category: 'Getting Started'
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Build a Web3 Portfolio in 2026 That Lands $120K+ Jobs
+image: >-
+  https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxQb3J0Zm9saW98ZW58MHx8fHwxNzU0OTUxNjI0fDA&ixlib=rb-4.1.0&q=80&w=1080
+description: >-
+  Build a Web3 portfolio in 2026 that gets you hired. Essential projects, GitHub
+  examples, and on-chain proof for developers, designers, and non-technical
+  roles. Land $120K+ blockchain jobs.
+category: Getting Started
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the [Web3](/what-is-web3) sector, your portfolio serves as concrete evidence of your skills, interests, and knowledge. Unlike the conventional tech industry, where resumes and formal qualifications dominate, Web3 emphasizes practical demonstration. Hiring managers focus on your actual contributions, projects, and interactions within the blockchain ecosystem. A well-constructed portfolio is essential for anyone aiming to [land a job in this space](/how-to-land-first-web3-job), regardless of whether you are a developer, designer, or community builder. This guide outlines a straightforward approach to creating an impressive Web3 portfolio, featuring specific project ideas suited for various roles and expertise levels. We will explore what to create, how to showcase it, and how to use your on-chain activity as an evolving [resume](/how-to-build-a-web3-resume-that-stands-out).
@@ -19,7 +21,7 @@ A strong Web3 portfolio is built on three essential pillars. Aim for substantial
  This is the foundation for technical positions. Your GitHub account should reflect your coding abilities, familiarity with Web3 technologies, and project completion. Ensure it remains active, organized, and showcases a variety of projects.
 
 2. **Your On-Chain Identity: The Activity** 
- Your public [wallet](/how-to-choose-a-crypto-wallet) address, preferably an ENS name such as "yourname.[eth](/what-is-ethereum)," provides a transparent account of your blockchain journey. It details the protocols you’ve engaged with, DAOs you’ve voted in, and NFTs you’ve collected.
+ Your public [wallet](/how-to-choose-a-crypto-wallet) address, preferably an ENS name such as "yourname.[eth](/what-is-ethereum)," provides a transparent account of your blockchain journey. It details the protocols you've engaged with, DAOs you've voted in, and NFTs you've collected.
 
 3. **Your Public Content: The Expertise** 
  This component reflects your knowledge and communication skills. It encompasses blog posts, Twitter threads, Dune dashboards, or any other content that illustrates your expertise and ability to articulate complex concepts.

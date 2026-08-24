@@ -8,34 +8,12 @@ import { getAllResourcePages } from '@/lib/pseo';
 import { Metadata } from 'next';
 import type { ResourcePage } from '@/types/pseo';
 import { PageHeader } from "@/components/page-header";
+import { EMPLOYEE_RESOURCES, EMPLOYER_RESOURCES } from '@/lib/nav-config';
 
 export const metadata: Metadata = {
   title: 'Free Web3 Career Tools and Resources',
   description: 'A complete suite of free tools and resources for professionals and companies building in the decentralized economy.',
 };
-
-const employeeResources = [
-  { href:"/interview-questions", label:"Interview Questions", description:"Practice with 200+ Web3 interview questions across technical and non-technical roles." },
-  { href:"/web3-career-quiz", label:"Archetype Assessment", description:"Discover your Web3 personality and the career paths that match." },
-  { href:"/salary-calculator", label:"Salary Calculator", description:"Estimate your potential salary in the Web3 industry." },
-  { href:"/freelance-rates-by-industry", label:"Freelance Rates by Industry", description:"Benchmark freelance hourly and project rates across industries and roles." },
-  { href:"/resume-builder", label:"Resume Builder", description:"Craft a crypto-native resume that gets noticed by recruiters." },
-  { href:"/invoice-generator", label:"Invoice Generator", description:"A free and simple invoice generator for Web3 freelancers." },
-  { href:"/digital-nomad-visas", label:"Digital Nomad Visas", description:"A searchable list of visas for working remotely around the world." },
-  { href:"/remote-work-checklist", label:"Remote Checklist", description:"Optimize your remote work setup for productivity and well-being." },
-];
-
-const employerResources = [
-  { href:"/jd-builder", label:"JD Builder", description:"Craft the perfect job description to attract top Web3 talent." },
-  { href:"/offer-letter-customizer", label:"Offer Letter Customizer", description:"Generate professional, customizable offer letters for new hires." },
-  { href:"/employee-onboarding-checklist", label:"Onboarding Checklist", description:"Run a structured onboarding process for new Web3 hires." },
-  { href:"/interview-feedback-template", label:"Interview Feedback", description:"Standardize your hiring process with structured feedback." },
-  { href:"/employee-exit-survey", label:"Employee Exit Survey", description:"Gather valuable insights from departing team members." },
-  { href:"/employee-milestones-tracker", label:"Milestones Tracker", description:"Create structured 30-60-90 day plans for new employees." },
-  { href:"/employee-engagement-survey", label:"Engagement Survey", description:"Quickly gauge team morale and satisfaction." },
-  { href:"/work-life-balance-survey", label:"Work-Life Balance Survey", description:"Assess team workload and well-being to prevent burnout." },
-  { href:"/company-culture-guide", label:"Company Culture Guide", description:"Define and document your company's values and ways of working." },
-];
 
 // Niche display names
 const nicheLabels: Record<string, string> = {
@@ -64,13 +42,13 @@ const contentTypeLabels: Record<string, string> = {
   guides: 'Guide',
 };
 
-function ToolCard({ href, label, description }: { href: string; label: string; description: string }) {
+function ToolCard({ href, label, description }: { href: string; label: string; description?: string }) {
   return (
     <Link href={href}>
       <Card className="h-full group hover:border-primary hover:shadow-sm transition-all">
         <CardContent className="p-4">
           <h3 className="font-semibold text-sm group-hover:text-foreground transition-colors mb-1">{label}</h3>
-          <p className="text-xs text-muted-foreground leading-relaxed">{description}</p>
+          {description && <p className="text-xs text-muted-foreground leading-relaxed">{description}</p>}
         </CardContent>
       </Card>
     </Link>
@@ -134,12 +112,10 @@ export default function ResourcesPage() {
         {/* Hero */}
         <section className="border-b">
           <div className="container mx-auto px-4 page-section max-w-6xl">
-            <div className="max-w-3xl">
-              <PageHeader title="Web3 Career Resources" />
-              <p className="text-xl text-muted-foreground leading-relaxed">
-                Free tools and guides for professionals and hiring teams building in the decentralized economy.
-              </p>
-            </div>
+            <PageHeader
+              title="Web3 Career Resources"
+              description="Free tools and guides for professionals and hiring teams building in the decentralized economy."
+            />
           </div>
         </section>
 
@@ -167,7 +143,7 @@ export default function ResourcesPage() {
               <p className="text-muted-foreground">Tools to find, land, and thrive in a Web3 role.</p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-              {employeeResources.map(tool => <ToolCard key={tool.label} {...tool} />)}
+              {EMPLOYEE_RESOURCES.map(tool => <ToolCard key={tool.label} {...tool} />)}
             </div>
           </section>
 
@@ -178,7 +154,7 @@ export default function ResourcesPage() {
               <p className="text-muted-foreground">Templates and tools to hire, onboard, and retain talent.</p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-              {employerResources.map(tool => <ToolCard key={tool.label} {...tool} />)}
+              {EMPLOYER_RESOURCES.map(tool => <ToolCard key={tool.label} {...tool} />)}
             </div>
           </section>
 

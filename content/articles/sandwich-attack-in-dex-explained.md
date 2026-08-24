@@ -1,18 +1,18 @@
 ---
-
-title: "Sandwich Attack in DEX Explained"
-description: "Learn how sandwich attacks work on decentralized exchanges (DEXs), how they exploit DeFi traders, and what strategies you can use to protect your trades."
-category: "Educational"
-image: "https://picsum.photos/seed/sandwich/1200/630"
-data-ai-hint: "sandwich attack"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Sandwich Attack in DEX Explained
+description: >-
+  Learn how sandwich attacks work on decentralized exchanges (DEXs), how they
+  exploit DeFi traders, and what strategies you can use to protect your trades.
+category: Educational
+image: 'https://picsum.photos/seed/sandwich/1200/630'
+data-ai-hint: sandwich attack
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Understanding Sandwich Attacks in Decentralized Finance (DeFi)
 
-A **sandwich attack** represents a prevalent and predatory tactic employed in **[front-running](/what-is-frontrunning-in-defi-trading)** within Decentralized Finance (DeFi). This occurs when an attacker identifies a user's pending trade on a **[Decentralized Exchange](/what-is-a-decentralized-exchange-dex)** (DEX) and positions their own trades around it to secure a profit. In this scenario, the attacker’s transactions act as the "bread," while the victim's trade serves as the "filling."
+A **sandwich attack** represents a prevalent and predatory tactic employed in **[front-running](/what-is-frontrunning-in-defi-trading)** within Decentralized Finance (DeFi). This occurs when an attacker identifies a user's pending trade on a **[Decentralized Exchange](/what-is-a-decentralized-exchange-dex)** (DEX) and positions their own trades around it to secure a profit. In this scenario, the attacker's transactions act as the "bread," while the victim's trade serves as the "filling."
 
 This exploitative approach capitalizes on the transparent nature of [blockchain](/what-is-a-blockchain) mempools and the operational mechanics of Automated Market Makers (AMMs). The attacker profits directly from the victim, who ends up receiving a less favorable price for their trade than anticipated.
 
@@ -43,11 +43,11 @@ The block is now forming with the bot's transaction prioritized ahead of Bob's.
 #### Step 2: Victim's Trade (The Filling)
 
 1. **Execution of the Bot's Trade**: The block gets mined, allowing the bot's buy order to execute first, resulting in a slight price increase for CAT.
-2. **Execution of Bob's Trade**: Bob’s trade executes, but now at a higher average price than initially expected due to the price fluctuation caused by his large trade.
+2. **Execution of Bob's Trade**: Bob's trade executes, but now at a higher average price than initially expected due to the price fluctuation caused by his large trade.
 
 #### Step 3: The Back-Run (Final Trade)
 
-1. **Bot’s Sell Transaction**: The attacker’s bot has already submitted a sell transaction for the CAT tokens acquired in Step 1. The bot adjusts its gas fee to ensure this transaction is included immediately after Bob's in the same block.
+1. **Bot's Sell Transaction**: The attacker's bot has already submitted a sell transaction for the CAT tokens acquired in Step 1. The bot adjusts its gas fee to ensure this transaction is included immediately after Bob's in the same block.
 2. **Realization of Profit**: The bot sells its CAT tokens at the improve price resulting from Bob's significant purchase.
 
 **Outcome:**

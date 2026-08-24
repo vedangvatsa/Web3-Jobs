@@ -1,13 +1,14 @@
 ---
-
 title: Presentation Skills for Nervous Speakers
-description: A guide to help nervous speakers build confidence and deliver impactful presentations. Learn techniques for preparation, managing anxiety, and engaging your audience.
-image: https://picsum.photos/seed/presentation/1200/630
+description: >-
+  A guide to help nervous speakers build confidence and deliver impactful
+  presentations. Learn techniques for preparation, managing anxiety, and
+  engaging your audience.
+image: 'https://picsum.photos/seed/presentation/1200/630'
 category: Career Guides
 data-ai-hint: public speaking
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: You Are Not Alone

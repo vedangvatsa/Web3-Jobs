@@ -1,6 +1,6 @@
 ---
 name: Zama
-website: https://zama.ai
+website: 'https://zama.ai'
 category: Other
 description: Zama focuses on privacy solutions for Web3 applications.
 ---

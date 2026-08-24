@@ -1,6 +1,6 @@
 ---
 name: model
-website: https://www.model.xyz
+website: 'https://www.model.xyz'
 category: Other
 description: model is a technology company focused on digital assets and cryptocurrency.
 ---

@@ -238,7 +238,7 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
 }
 
 /**
- * Get company statistics — all computed from real job data
+ * Get company statistics - all computed from real job data
  */
 export async function getCompanyStats() {
  const companies = await getCompanies();

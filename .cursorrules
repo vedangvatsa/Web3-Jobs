@@ -1,0 +1,36 @@
+# Hashtagweb3.com Coding Rules
+
+## Project Context
+- Next.js 14 App Router, TypeScript, Tailwind CSS, Supabase
+- Agent-friendly platform for Web3 professionals
+
+## API Design
+- All `/api/*` routes MUST return `{ error: { code, message, hint, docUrl } }` for errors
+- All `/api/*` routes MUST include CORS headers: `Access-Control-Allow-Origin: *`
+- All `/api/*` routes MUST handle `OPTIONS` preflight requests
+
+## TypeScript
+- Avoid `any` types; use `unknown` and narrow with type guards
+- Use `NextRequest` and `NextResponse` types in route handlers
+- Prefer `interface` over `type` for object shapes
+
+## Components
+- Default to Server Components; add `'use client'` only when using hooks/events
+- Keep components small and single-purpose
+- Use semantic HTML: `<main>`, `<section>`, `<article>`, `<nav>`, `<header>`, `<footer>`
+
+## Styling
+- Tailwind CSS utility classes only; no CSS-in-JS or inline styles
+- Mobile-first responsive design; use `sm:`, `md:`, `lg:` breakpoint prefixes
+- Use `max-w-7xl mx-auto px-4 sm:px-6 lg:px-8` for consistent page width
+
+## Agent-Readiness Requirements
+- New pages MUST include relevant JSON-LD structured data
+- Public content pages MUST have meaningful SSR (server-rendered) text content
+- Discovery files in `public/.well-known/` MUST have corresponding route handlers
+- Markdown content files MUST be served with `Content-Type: text/markdown`
+
+## Content
+- Never use placeholder text (Lorem ipsum, etc.)
+- All copy must be meaningful and relevant to Web3
+- Pages must include real headings, descriptions, and data

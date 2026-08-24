@@ -1,13 +1,13 @@
 ---
-
-title: "A Deep Dive into Rollups: Ethereum's Scaling Solution"
-image: "/images/dell-8pb7Hq539Zw-unsplash.jpg"
-description: "A full explanation of Layer 2 rollups, including the difference between Optimistic and ZK-Rollups, and their important role in the future of."
-category: "Technology Deep Dives"
-data-ai-hint: "abstract shapes background"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'A Deep Dive into Rollups: Ethereum''s Scaling Solution'
+image: /images/dell-8pb7Hq539Zw-unsplash.jpg
+description: >-
+  A full explanation of Layer 2 rollups, including the difference between
+  Optimistic and ZK-Rollups, and their important role in the future of.
+category: Technology Deep Dives
+data-ai-hint: abstract shapes background
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: The Blockchain Scalability Challenge

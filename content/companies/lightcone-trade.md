@@ -1,6 +1,6 @@
 ---
 name: lightcone.trade
-website: https://lightcone.trade
+website: 'https://lightcone.trade'
 category: Other
 description: A platform focused on trading and analytics for Solana-based assets.
 ---

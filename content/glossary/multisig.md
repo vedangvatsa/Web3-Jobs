@@ -1,13 +1,24 @@
 ---
-term: "Multisig"
-slug: "multisig"
-category: "Security"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&h=600&fit=crop"
-imageAlt: "Multiple keys and security concept representing multi-signature wallets"
-description: "A multi-signature wallet that requires multiple private keys to authorize a transaction, providing enhanced security and shared control over cryptocurrency funds."
-relatedTerms: ["wallet", "private-key", "dao", "security"]
-synonyms: ["multi-signature", "multisig wallet", "multi-sig"]
+term: Multisig
+slug: multisig
+category: Security
+difficulty: Intermediate
+image: >-
+  https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&h=600&fit=crop
+imageAlt: Multiple keys and security concept representing multi-signature wallets
+description: >-
+  A multi-signature wallet that requires multiple private keys to authorize a
+  transaction, providing enhanced security and shared control over
+  cryptocurrency funds.
+relatedTerms:
+  - wallet
+  - private-key
+  - dao
+  - security
+synonyms:
+  - multi-signature
+  - multisig wallet
+  - multi-sig
 ---
 
 Multisig is a multi-signature wallet configuration that requires multiple private keys to authorize a transaction, providing enhanced security and shared control over cryptocurrency funds. Rather than relying on a single point of failure, multisig wallets distribute signing authority among several key holders using an M-of-N structure, where M signatures must be collected from N total participants before any funds can move. The Ethereum Foundation uses a multisig arrangement to manage its treasury, ensuring that no single individual can unilaterally access or transfer the organization's holdings. The prevalence of multisig in enterprise and protocol treasury management has created strong demand for professionals who understand secure key management, with blockchain security and operations roles frequently listing multisig implementation experience as a preferred or required qualification.

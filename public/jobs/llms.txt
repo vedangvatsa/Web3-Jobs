@@ -1,0 +1,23 @@
+# Hashtag Web3 — Jobs & Hiring Scoped Context
+
+> Scoped documentation for Web3 job search, crypto compensation benchmarks, hiring companies, and career tools.
+
+## Job Feeds & Categories
+
+- [All Web3 Jobs](https://hashtagweb3.com/jobs): 3,000+ verified active job postings.
+- [Hiring Companies](https://hashtagweb3.com/companies): 150+ Web3-native companies recruiting now.
+- [Salary Calculator](https://hashtagweb3.com/salary-calculator): Market-verified compensation benchmarks.
+- [Crypto Resume Builder](https://hashtagweb3.com/resume-builder): On-chain project & GitHub portfolio resume builder.
+- [Web3 Interview Questions](https://hashtagweb3.com/interview-questions): 200+ interview questions for Solidity, Rust, DeFi, and ZK roles.
+- [Archetype Quiz](https://hashtagweb3.com/web3-career-quiz): Career assessment for Web3 roles.
+- [Telegram Job Feed](https://t.me/web3hiring): Live alert feed with 60,000+ subscribers.
+
+## API Access
+
+- Endpoint: `GET https://hashtagweb3.com/api/jobs`
+- Query parameters:
+  - `search` (e.g. `Solidity`, `Auditor`, `Frontend`)
+  - `tag` (e.g. `Ethereum`, `Solana`, `DeFi`)
+  - `company` (e.g. `Uniswap Labs`, `Coinbase`)
+  - `limit` (default 50, max 200)
+  - `offset` (default 0)

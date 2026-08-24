@@ -1,13 +1,14 @@
 ---
-
-title: "Blockchain in Healthcare Projects and Implementations"
-image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
-data-ai-hint: "healthcare blockchain technology"
-description: "An analysis of how blockchain technology is being used to change the healthcare industry, from securing medical records to improving clinical trial."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Blockchain in Healthcare Projects and Implementations
+image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
+data-ai-hint: healthcare blockchain technology
+description: >-
+  An analysis of how blockchain technology is being used to change the
+  healthcare industry, from securing medical records to improving clinical
+  trial.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The healthcare industry deals with vast amounts of sensitive data, complex supply chains, and a critical demand for trust and transparency. Many challenges, such as fragmented data systems, inefficient processes, and limited patient control, hinder progress. Blockchain technology offers a solution with its features of immutability, security, and decentralization.

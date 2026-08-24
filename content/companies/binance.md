@@ -1,9 +1,9 @@
 ---
 name: Binance
-website: https://binance.com
+website: 'https://binance.com'
 founded: 2017
 category: Cryptocurrency Exchange
-headquarters: Dubai, UAE
+headquarters: 'Dubai, UAE'
 description: World's largest cryptocurrency exchange by trading volume
 ---
 

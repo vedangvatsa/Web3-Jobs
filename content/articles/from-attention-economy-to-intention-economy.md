@@ -1,13 +1,13 @@
 ---
-
-title: "From Attention to Intention: Web3's New Economic Model"
-image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
-data-ai-hint: "attention economy digital"
-description: "Web3 is enabling a shift from an attention-based economy to an intention-based one. Learn how user-owned data and decentralized protocols are creating a."
-category: "Industry Insights"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'From Attention to Intention: Web3''s New Economic Model'
+image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
+data-ai-hint: attention economy digital
+description: >-
+  Web3 is enabling a shift from an attention-based economy to an intention-based
+  one. Learn how user-owned data and decentralized protocols are creating a.
+category: Industry Insights
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 For the past two decades, the internet has operated primarily under the **Attention Economy**. Major platforms such as Google, Facebook, and TikTok have amassed significant revenue by capitalizing on a straightforward concept: your attention is a commodity. These companies design their services to capture your time and focus, then sell this attention to advertisers willing to pay the highest price. This model has created a digital environment optimized for engagement, often resulting in negative consequences such as addiction, misinformation, and a decline in content quality.
@@ -16,7 +16,7 @@ In contrast, [Web3](/what-is-web3) introduces an alternative known as the **Inte
 
 ### The Flaws of the Attention Economy
 
-Understanding the Intention Economy’s potential requires an examination of the fundamental flaws in the existing system.
+Understanding the Intention Economy's potential requires an examination of the fundamental flaws in the existing system.
 
 1. **Misaligned Incentives**: In the attention economy, platforms prioritize maximizing ad revenue, which often contradicts users' goals of completing tasks efficiently. For example, recipe websites cluttered with ads prioritize keeping users on the page longer rather than helping them prepare meals.
 

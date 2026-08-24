@@ -1,12 +1,21 @@
 ---
-term: "Order Book"
-slug: "order-book"
-category: "trading"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
-description: "A list of buy and sell orders for an asset at different prices, used by centralized exchanges to match buyers and sellers and determine market price."
-relatedTerms: ["dex", "amm", "trading", "market"]
-synonyms: ["order matching", "bid-ask spread", "limit order book"]
+term: Order Book
+slug: order-book
+category: trading
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80'
+description: >-
+  A list of buy and sell orders for an asset at different prices, used by
+  centralized exchanges to match buyers and sellers and determine market price.
+relatedTerms:
+  - dex
+  - amm
+  - trading
+  - market
+synonyms:
+  - order matching
+  - bid-ask spread
+  - limit order book
 ---
 
 Order Book refers to a real-time list of buy and sell orders for an asset organized by price levels, serving as the fundamental mechanism for price discovery and trade matching on centralized exchanges. When a buyer places an order to purchase Bitcoin at $40,000 and a seller lists at $40,100, the order book displays this spread until prices converge and a trade executes. Major exchanges like Coinbase and Binance rely on order book systems. Unlike decentralized exchanges that typically use Automated Market Makers to determine prices through liquidity pool ratios, order books provide transparent bid-ask spreads and tend to offer better capital efficiency for highly liquid trading pairs. Understanding order book mechanics is essential for roles in quantitative trading, market making, and exchange development, where professionals analyze order flow patterns to optimize execution strategies.

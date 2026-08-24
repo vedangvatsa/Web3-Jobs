@@ -1,11 +1,8 @@
-
 'use client';
 
-import type { NewsItem } from '@/types';
-import { Card, CardHeader, CardTitle, CardContent, CardFooter } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
-import { ExternalLink } from 'lucide-react';
 import { useState, useEffect } from 'react';
+import type { NewsItem } from '@/types';
+import { Card, CardContent } from '@/components/ui/card';
 import { Skeleton } from '@/components/ui/skeleton';
 
 export function NewsCard({ item }: { item: NewsItem }) {
@@ -18,7 +15,12 @@ export function NewsCard({ item }: { item: NewsItem }) {
   return (
     <Card className="bg-card">
       <CardContent className="p-4">
-        <a href={item.link} target="_blank" rel="noopener noreferrer" className="block hover:bg-accent/20 rounded-md p-3">
+        <a
+          href={item.link}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="block hover:bg-accent/20 rounded-md p-3"
+        >
           <p className="text-xs text-primary font-semibold">{item.source}</p>
           <h4 className="font-semibold leading-snug text-foreground">{item.title}</h4>
           {formattedDate ? (

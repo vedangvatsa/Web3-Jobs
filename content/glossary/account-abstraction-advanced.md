@@ -1,12 +1,22 @@
 ---
-term: "Account Abstraction"
-slug: "account-abstraction-advanced"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "A framework that allows smart contracts to act as user accounts with programmable features like multi-sig, recovery, and gas sponsorship without protocol changes."
-relatedTerms: ["smart-contract-wallet", "eip-4337", "wallet", "user-experience"]
-synonyms: ["AA", "account abstraction", "programmable accounts"]
+term: Account Abstraction
+slug: account-abstraction-advanced
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A framework that allows smart contracts to act as user accounts with
+  programmable features like multi-sig, recovery, and gas sponsorship without
+  protocol changes.
+relatedTerms:
+  - smart-contract-wallet
+  - eip-4337
+  - wallet
+  - user-experience
+synonyms:
+  - AA
+  - account abstraction
+  - programmable accounts
 ---
 
 Account Abstraction is a framework that allows smart contracts to function as user accounts, replacing traditional externally-owned accounts controlled by private keys with programmable wallets that support features like multi-signature authorization, social recovery, gas sponsorship, and transaction batching. Enabled primarily through EIP-4337, this approach works without requiring changes to the underlying Ethereum protocol by introducing UserOperations, Bundlers, and Paymasters as intermediary components. Safe, formerly Gnosis Safe, exemplifies account abstraction in practice, securing digital assets across its smart contract wallets. The technology improves both security and user experience by eliminating seed phrase dependency and enabling features like spending limits and automated transactions. As wallet infrastructure evolves beyond simple key management, developers with account abstraction expertise are increasingly sought after for roles in wallet development, security engineering, and Web3 product design.

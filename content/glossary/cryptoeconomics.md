@@ -1,12 +1,22 @@
 ---
-term: "Cryptoeconomics"
-slug: "cryptoeconomics"
-category: "blockchain-fundamentals"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "The study of how cryptographic mechanisms combined with economic incentives create secure, decentralized systems where participants are rewarded for honest behavior."
-relatedTerms: ["economics", "incentives", "blockchain", "game-theory"]
-synonyms: ["token economics", "mechanism design", "incentive systems"]
+term: Cryptoeconomics
+slug: cryptoeconomics
+category: blockchain-fundamentals
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  The study of how cryptographic mechanisms combined with economic incentives
+  create secure, decentralized systems where participants are rewarded for
+  honest behavior.
+relatedTerms:
+  - economics
+  - incentives
+  - blockchain
+  - game-theory
+synonyms:
+  - token economics
+  - mechanism design
+  - incentive systems
 ---
 
 Cryptoeconomics is the interdisciplinary field that combines cryptographic security mechanisms with economic incentive structures to create decentralized systems where participants are mathematically motivated to behave honestly. This discipline underpins every major blockchain network, using game theory and mechanism design to ensure that cooperation yields greater rewards than malicious behavior. Ethereum provides a clear example, where validators must stake 32 ETH as collateral and face slashing penalties for dishonest actions while earning rewards for correctly validating blocks. Cryptoeconomic principles determine everything from transaction fee markets to governance voting systems, making proper incentive alignment essential for protocol longevity. Professionals who understand cryptoeconomics are highly valued in Web3, with protocol design and tokenomics roles in demand at blockchain foundations and DeFi projects.

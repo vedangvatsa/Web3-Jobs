@@ -2,13 +2,12 @@
 
 import * as React from 'react';
 import Image from 'next/image';
-import { Card, CardContent } from"@/components/ui/card"
 import {
- Carousel,
- CarouselContent,
- CarouselItem,
-} from"@/components/ui/carousel"
-import Autoplay from"embla-carousel-autoplay"
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+} from '@/components/ui/carousel';
+import Autoplay from 'embla-carousel-autoplay';
 
 interface Logo {
   name: string;
@@ -20,43 +19,42 @@ interface MediaCarouselProps {
 }
 
 export function MediaCarousel({ logos }: MediaCarouselProps) {
- const plugin = React.useRef(
-  Autoplay({ delay: 2000, stopOnInteraction: false })
- );
+  const plugin = React.useRef(
+    Autoplay({ delay: 2000, stopOnInteraction: false })
+  );
 
- return (
-  <div>
-    <div className="text-center mb-12">
-    <p className="text-primary font-semibold tracking-wider">AS SEEN ON</p>
-      
+  return (
+    <div className="w-full">
+      <div className="text-center mb-6 sm:mb-10">
+        <p className="text-primary font-semibold tracking-wider text-xs sm:text-sm uppercase">AS SEEN ON</p>
+      </div>
+      <Carousel
+        plugins={[plugin.current]}
+        className="w-full"
+        opts={{
+          align: 'start',
+          loop: true,
+        }}
+      >
+        <CarouselContent className="-ml-2 md:-ml-4">
+          {logos.map((logo, index) => (
+            <CarouselItem key={index} className="pl-2 md:pl-4 basis-1/2 sm:basis-1/3 md:basis-1/5">
+              <div className="p-1">
+                <div className="relative h-10 sm:h-12 w-full" title={logo.name}>
+                  <Image 
+                    src={logo.src} 
+                    alt={`Logo of ${logo.name} media outlet, where Hashtag Web3 has been featured`} 
+                    fill 
+                    className="object-contain" 
+                    unoptimized
+                  />
+                </div>
+              </div>
+            </CarouselItem>
+          ))}
+        </CarouselContent>
+      </Carousel>
+      <p className="text-center text-xs text-muted-foreground mt-4 sm:mt-6">and many more...</p>
     </div>
-    <Carousel
-    plugins={[plugin.current]}
-    className="w-full"
-    opts={{
-      align:"start",
-      loop: true,
-    }}
-    >
-    <CarouselContent>
-      {logos.map((logo, index) => (
-      <CarouselItem key={index} className="basis-1/3 md:basis-1/5">
-        <div className="p-1">
-          <div className="relative h-12 w-full" title={logo.name}>
-            <Image 
-              src={logo.src} 
-              alt={`Logo of ${logo.name} media outlet, where Hashtag Web3 has been featured`} 
-              fill 
-              className="object-contain" 
-              unoptimized
-            />
-          </div>
-        </div>
-      </CarouselItem>
-      ))}
-    </CarouselContent>
-    </Carousel>
-     <p className="text-center text-xs text-muted-foreground mt-6">and many more...</p>
-  </div>
- );
+  );
 }

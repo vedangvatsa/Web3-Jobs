@@ -1,13 +1,13 @@
 ---
-
-title: "What is Generative AI and Its Applications"
-image: "https://picsum.photos/seed/generative-ai/1200/630"
-description: "Learn about generative AI, the technology that can create new content like text, images, and music, and explore its most popular applications."
-category: "Educational"
-data-ai-hint: "ai creation"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is Generative AI and Its Applications
+image: 'https://picsum.photos/seed/generative-ai/1200/630'
+description: >-
+  Learn about generative AI, the technology that can create new content like
+  text, images, and music, and explore its most popular applications.
+category: Educational
+data-ai-hint: ai creation
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Generative AI encompasses a category of [artificial intelligence](/what-is-artificial-intelligence-and-how-it-works) systems capable of producing new, original content. Unlike traditional AI, which focuses on recognizing patterns or making predictions based on existing data, generative models create entirely new text, images, music, and code. For instance, while a traditional AI can identify whether a photo contains a cat, generative AI can create a new image of a cat in the style of Vincent van Gogh.

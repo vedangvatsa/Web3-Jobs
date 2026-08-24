@@ -1,12 +1,13 @@
 ---
-
-title: "What is Yield Farming? A Guide to Earning Passive Income in DeFi"
-image: "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpbmNvbWV8ZW58MHx8fHwxNzU1MDA3MTkxfDA&lib=rb-4.1.0&q=80&w=1080"
-description: "A deep dive into yield farming, the art of maximizing returns in Decentralized Finance (DeFi). Learn the strategies, the risks, and how it powers the DeFi."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is Yield Farming? A Guide to Earning Passive Income in DeFi
+image: >-
+  https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpbmNvbWV8ZW58MHx8fHwxNzU1MDA3MTkxfDA&lib=rb-4.1.0&q=80&w=1080
+description: >-
+  A deep dive into yield farming, the art of maximizing returns in Decentralized
+  Finance (DeFi). Learn the strategies, the risks, and how it powers the DeFi.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Yield farming represents a strategy in Decentralized Finance (DeFi) that allows investors to use their cryptocurrency assets for enhanced returns. Yield farmers actively seek the best yields by shifting their assets among various lending protocols, liquidity pools, and staking opportunities. This practice offers the potential for significant profits but also entails complexities and risks. Yield farming is important for driving liquidity and supporting growth within the DeFi ecosystem. This article addresses the fundamental aspects of yield farming, common strategies employed, and associated risks.
@@ -48,7 +49,7 @@ DeFi yields are often presented as APY and can reach impressive levels; however,
 
 Yield farming is not a passive investment; it requires active management and comes with significant risks:
 
-- **Impermanent Loss**: This risk affects liquidity providers when the price of one token in the pair changes drastically relative to the other. The value of the LP’s stake can diminish compared to simply holding the individual tokens.
+- **Impermanent Loss**: This risk affects liquidity providers when the price of one token in the pair changes drastically relative to the other. The value of the LP's stake can diminish compared to simply holding the individual tokens.
 
 - **Smart Contract Risk**: Bugs in the protocol code can lead to vulnerabilities, allowing hackers to drain liquidity pools. This risk escalates with newer, unaudited protocols.
 

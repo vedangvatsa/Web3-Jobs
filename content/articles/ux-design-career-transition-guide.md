@@ -1,13 +1,13 @@
 ---
-
-title: "UX Design Career Transition Guide: How to Make the Switch"
-description: "A step-by-step guide for professionals looking to transition into a career in UX/UI design. Learn the essential skills, tools, portfolio-building."
-image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
-data-ai-hint: "winding road"
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-25"
+title: 'UX Design Career Transition Guide: How to Make the Switch'
+description: >-
+  A step-by-step guide for professionals looking to transition into a career in
+  UX/UI design. Learn the essential skills, tools, portfolio-building.
+image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
+data-ai-hint: winding road
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 User Experience (UX) and User Interface (UI) design rank among the most sought-after and rewarding careers in the digital sector. UX/UI designers shape the user journey, ensuring that technology is not only functional but also intuitive, accessible, and enjoyable.
@@ -41,7 +41,7 @@ Transitioning to UX/UI demands acquiring a new skill set and mindset.
 - **Design Systems**: Learn to develop and use a consistent library of design components.
 
 **Learning Resources:**
-- **Online Courses**: Enroll in courses such as Google’s UX Design Certificate on Coursera, offerings from the Interaction Design Foundation, or classes on Udemy.
+- **Online Courses**: Enroll in courses such as Google's UX Design Certificate on Coursera, offerings from the Interaction Design Foundation, or classes on Udemy.
 - **Bootcamps**: Intensive programs like General Assembly or Springboard can provide structured learning, though they require significant time and financial investment.
 - **Books**: Read key texts such as "Don't Make Me Think" by Steve Krug and "The Design of Everyday Things" by Don Norman.
 

@@ -1,13 +1,14 @@
 ---
-
-title: "How to Negotiate Salary Successfully"
-image: "https://picsum.photos/seed/salary-negotiation/1200/630"
-data-ai-hint: "money deal handshake"
-description: "A practical guide to salary negotiation. Learn how to research your worth, make a compelling case, and work through the conversation to get the compensation."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Negotiate Salary Successfully
+image: 'https://picsum.photos/seed/salary-negotiation/1200/630'
+data-ai-hint: money deal handshake
+description: >-
+  A practical guide to salary negotiation. Learn how to research your worth,
+  make a compelling case, and work through the conversation to get the
+  compensation.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 You've successfully managed the interview process and received a job offer. This achievement reflects your skills and potential. However, before you finalize your acceptance, salary negotiation is a critical step that can significantly impact your earnings.

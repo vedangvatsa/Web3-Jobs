@@ -1,43 +1,54 @@
 ---
-title: "How the Internet Evolved"
-description: "The full story from dial-up to decentralization, explained simply with a timeline."
+title: How the Internet Evolved
+description: >-
+  The full story from dial-up to decentralization, explained simply with a
+  timeline.
 order: 2
-readTime: "7 min"
-difficulty: "beginner"
-prerequisites: ["web3"]
+readTime: 7 min
+difficulty: beginner
+prerequisites:
+  - web3
 quiz:
-  - question: "What could you do on Web1?"
+  - question: What could you do on Web1?
     options:
-      - "Post photos and videos"
-      - "Read static web pages"
-      - "Trade cryptocurrency"
-      - "Vote on governance proposals"
+      - Post photos and videos
+      - Read static web pages
+      - Trade cryptocurrency
+      - Vote on governance proposals
     correct: 1
-    explanation: "Web1 was read-only. Websites were static HTML pages. You could read them but could not easily create or interact with content."
-  - question: "What was the main trade-off of Web2?"
+    explanation: >-
+      Web1 was read-only. Websites were static HTML pages. You could read them
+      but could not easily create or interact with content.
+  - question: What was the main trade-off of Web2?
     options:
-      - "Websites loaded slowly"
-      - "You needed to pay for every website"
-      - "Platforms collected user data and sold ads against it"
-      - "Only governments could create websites"
+      - Websites loaded slowly
+      - You needed to pay for every website
+      - Platforms collected user data and sold ads against it
+      - Only governments could create websites
     correct: 2
-    explanation: "Web2 gave everyone free tools to publish, but in exchange, platforms collected your data and used it for targeted advertising."
-  - question: "When did Ethereum launch?"
+    explanation: >-
+      Web2 gave everyone free tools to publish, but in exchange, platforms
+      collected your data and used it for targeted advertising.
+  - question: When did Ethereum launch?
     options:
-      - "2004"
-      - "2009"
-      - "2015"
-      - "2020"
+      - '2004'
+      - '2009'
+      - '2015'
+      - '2020'
     correct: 2
-    explanation: "Ethereum launched in 2015. Bitcoin came first in 2009, but Ethereum was the first blockchain designed for general-purpose applications."
-  - question: "What does Web3 add that Web2 does not have?"
+    explanation: >-
+      Ethereum launched in 2015. Bitcoin came first in 2009, but Ethereum was
+      the first blockchain designed for general-purpose applications.
+  - question: What does Web3 add that Web2 does not have?
     options:
-      - "Video streaming"
-      - "Social media"
-      - "User-owned digital assets"
-      - "Search engines"
+      - Video streaming
+      - Social media
+      - User-owned digital assets
+      - Search engines
     correct: 2
-    explanation: "Web3 adds ownership. You can own tokens, NFTs, and other digital assets directly in your wallet without relying on a company's database."
+    explanation: >-
+      Web3 adds ownership. You can own tokens, NFTs, and other digital assets
+      directly in your wallet without relying on a company's database.
 ---
 
 ## A 30-year story in five minutes

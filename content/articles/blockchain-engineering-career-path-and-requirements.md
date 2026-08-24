@@ -1,13 +1,13 @@
 ---
-
-title: "Blockchain Engineering Career Path and Requirements"
-image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
-data-ai-hint: "blockchain engineer career"
-description: "A full guide to the career paths for Web3 developers. Learn about the different specializations, from smart contract engineering to protocol."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Blockchain Engineering Career Path and Requirements
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+data-ai-hint: blockchain engineer career
+description: >-
+  A full guide to the career paths for Web3 developers. Learn about the
+  different specializations, from smart contract engineering to protocol.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The demand for [Web3 developers](/understanding-web3-developer-career-paths) has reached high levels. However, the term "blockchain engineer" encompasses a wide range of roles, each requiring distinct skills and expertise. As the field has evolved, understanding these varied career paths becomes essential for developers aiming to thrive in this space.

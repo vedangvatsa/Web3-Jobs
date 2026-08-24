@@ -1,13 +1,14 @@
 ---
-
-title: "a full guide to Working through Web3 Job Boards"
-image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
-description: "A deep dive into the top Web3 job boards, including strategies for how to stand out as a candidate and what companies are looking for in the decentralized."
-category: "Career Guides"
-data-ai-hint: "man working laptop"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: a full guide to Working through Web3 Job Boards
+image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
+description: >-
+  A deep dive into the top Web3 job boards, including strategies for how to
+  stand out as a candidate and what companies are looking for in the
+  decentralized.
+category: Career Guides
+data-ai-hint: man working laptop
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: A New Frontier for Careers
@@ -52,7 +53,7 @@ Although not specifically a Web3 platform, LinkedIn plays an increasingly import
 
 ## How to Stand Out: Crafting a Web3-Native Resume
 
-Your resume in the Web3 space should serve as a portfolio showcasing your skills, contributions, and on-chain reputation. Here’s how to tailor your application for success in the decentralized economy.
+Your resume in the Web3 space should serve as a portfolio showcasing your skills, contributions, and on-chain reputation. Here's how to tailor your application for success in the decentralized economy.
 
 ### 1. Highlight Your "Proof of Work"
 

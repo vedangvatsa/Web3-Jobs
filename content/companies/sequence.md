@@ -1,9 +1,9 @@
 ---
 name: Sequence
-website: https://sequence.xyz
+website: 'https://sequence.xyz'
 founded: 2018
 category: Wallet / Gaming Infrastructure
-headquarters: Toronto, Canada
+headquarters: 'Toronto, Canada'
 description: Smart wallet and Web3 developer platform for games and applications
 ---
 

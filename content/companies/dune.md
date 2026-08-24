@@ -1,10 +1,12 @@
 ---
 name: Dune
-website: https://dune.com
+website: 'https://dune.com'
 founded: 2018
 category: Data / Analytics
-headquarters: Oslo, Norway
-description: Community-powered crypto analytics platform for querying and visualizing blockchain data
+headquarters: 'Oslo, Norway'
+description: >-
+  Community-powered crypto analytics platform for querying and visualizing
+  blockchain data
 ---
 
 Community-powered crypto analytics platform for querying and visualizing blockchain data.

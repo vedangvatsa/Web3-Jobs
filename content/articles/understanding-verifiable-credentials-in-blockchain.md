@@ -1,13 +1,14 @@
 ---
-
-title: "Understanding Verifiable Credentials in Blockchain"
-image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
-data-ai-hint: "certificate verification blockchain"
-description: "Verifiable Credentials (VCs) are a W3C standard for tamper-proof digital credentials that can be verified on a blockchain. This guide explains how they."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Verifiable Credentials in Blockchain
+image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
+data-ai-hint: certificate verification blockchain
+description: >-
+  Verifiable Credentials (VCs) are a W3C standard for tamper-proof digital
+  credentials that can be verified on a blockchain. This guide explains how
+  they.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the digital era, identity consists of claims made by various authorities. Governments assert citizenship, universities confirm degrees, and employers validate employment. Currently, we rely on physical documents or centralized systems to verify these claims. This approach is inefficient, insecure, and limits user control over personal data.
@@ -34,7 +35,7 @@ The Verifiable Credential model, standardized by the World Wide Web Consortium (
 
 **The Workflow:**
 
-1. **Issuance:** A university (issuer) provides a digital diploma (the VC) to a student (holder). The VC is signed and stored in the student’s wallet.
+1. **Issuance:** A university (issuer) provides a digital diploma (the VC) to a student (holder). The VC is signed and stored in the student's wallet.
 
 2. **Presentation:** The student applies for a job and needs to demonstrate they possess a degree. The employer (verifier) requests proof.
 
@@ -57,7 +58,7 @@ A VC is generally formatted as a JSON object (specifically, JSON-LD - Linked Dat
 | `issuer` | The DID of the entity that issued the credential. |
 | `issuanceDate` | The date when the credential was issued. |
 | `credentialSubject` | The payload of the credential, detailing the claims made about the subject (e.g., ` "degree": "Bachelor of Science", "major": "Computer Science"`). The subject is identified by their DID. |
-| `proof` | The issuer’s digital signature, ensuring the credential is tamper-proof. It includes the signature type, creation date, and signature value. |
+| `proof` | The issuer's digital signature, ensuring the credential is tamper-proof. It includes the signature type, creation date, and signature value. |
 
 ### The Power of VCs: Selective Disclosure and Zero-Knowledge Proofs
 

@@ -1,13 +1,13 @@
 ---
-
-title: "Reentrancy Attacks in Smart Contracts: A Deep Dive"
-image: "https://picsum.photos/seed/25/1200/630"
-description: "Reentrancy is one of the most notorious and destructive vulnerabilities in smart contract security. This article breaks down how it works, its."
-category: "Technology Deep Dives"
-data-ai-hint: "blockchain security"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Reentrancy Attacks in Smart Contracts: A Deep Dive'
+image: 'https://picsum.photos/seed/25/1200/630'
+description: >-
+  Reentrancy is one of the most notorious and destructive vulnerabilities in
+  smart contract security. This article breaks down how it works, its.
+category: Technology Deep Dives
+data-ai-hint: blockchain security
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Understanding Reentrancy Attacks in Web3 Smart Contracts
@@ -16,7 +16,7 @@ Security stands as a critical pillar in [Web3](/what-is-web3) and [smart contrac
 
 ### What is Reentrancy?
 
-Reentrancy occurs when an external contract call permits a recursive call back to the original contract before the initial function execution completes. Essentially, an attacker’s contract can "re-enter" the victim's contract while it is in a vulnerable state, enabling the attacker to extract funds.
+Reentrancy occurs when an external contract call permits a recursive call back to the original contract before the initial function execution completes. Essentially, an attacker's contract can "re-enter" the victim's contract while it is in a vulnerable state, enabling the attacker to extract funds.
 
 To comprehend this concept, two key aspects of the Ethereum Virtual Machine (EVM) are necessary:
 
@@ -29,7 +29,7 @@ The vulnerability manifests when a contract executes an external call (like send
 
 Consider a vulnerable contract named `InsecureBank`, which allows users to deposit and withdraw Ether.
 
-Here’s a flawed version of the `withdraw` function:
+Here's a flawed version of the `withdraw` function:
 
 ```solidity
 // THIS IS VULNERABLE CODE - DO NOT USE
@@ -48,7 +48,7 @@ function withdraw(uint _amount) public {
 
 While this code seems logical initially, it contains a significant flaw: the user's balance updates *after* the Ether transfer. An attacker can exploit this with a malicious contract.
 
-Here’s how the attack unfolds:
+Here's how the attack unfolds:
 
 1. **The Attacker's Contract**: The attacker deploys a contract (`AttackContract`) containing a special fallback function that executes whenever the contract receives Ether without a specified function call. This fallback function invokes the `withdraw` function on `InsecureBank` again.
 2. **Initial Deposit**: The attacker deposits Ether by calling the `deposit` function on `InsecureBank`. The `AttackContract`'s balance in `InsecureBank` now stands at a certain amount of Ether.
@@ -71,7 +71,7 @@ Implementing a strict ordering of operations, known as the **Checks-Effects-Inte
 2. **Effects**: Next, make all changes to the contract's state *before* interacting with external contracts. This step is important. Update balances, change ownership, etc.
 3. **Interactions**: Finally, once all internal states are updated, make external calls (e.g., sending Ether, invoking another contract).
 
-Here’s a secure version of the `withdraw` function using this pattern:
+Here's a secure version of the `withdraw` function using this pattern:
 
 ```solidity
 // SECURE CODE
@@ -89,7 +89,7 @@ function withdraw(uint _amount) public {
 }
 ```
 
-When the attacker’s contract attempts to re-enter the `withdraw` function, the balance has already been adjusted. Consequently, the `require(balance >= _amount)` check will fail, thwarting the recursive call and the attack.
+When the attacker's contract attempts to re-enter the `withdraw` function, the balance has already been adjusted. Consequently, the `require(balance >= _amount)` check will fail, thwarting the recursive call and the attack.
 
 ### Another Layer of Defense: Reentrancy Guards
 
@@ -116,7 +116,7 @@ function withdraw(uint _amount) public noReentrant {
 }
 ```
 
-When `withdraw` is invoked for the first time, `locked` is set to `true`. If the attacker’s contract attempts to re-enter, the `require(!locked)` check will fail immediately, providing a reliable defense against all forms of reentrancy. Many developers turn to OpenZeppelin's `ReentrancyGuard` contract for a secure implementation of this pattern.
+When `withdraw` is invoked for the first time, `locked` is set to `true`. If the attacker's contract attempts to re-enter, the `require(!locked)` check will fail immediately, providing a reliable defense against all forms of reentrancy. Many developers turn to OpenZeppelin's `ReentrancyGuard` contract for a secure implementation of this pattern.
 
 ### The Importance of a Security Mindset
 

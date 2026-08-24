@@ -84,7 +84,7 @@ export async function generateMetadata({ params }: { params: { category: string 
    url: categoryUrl,
    type: 'website',
    images: [{
-    url: '/api/og?type=default&title=Web3%20Glossary',
+    url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Glossary',
     width: 1200,
     height: 630,
     alt: `${category.name} - Web3 Glossary`,
@@ -94,7 +94,7 @@ export async function generateMetadata({ params }: { params: { category: string 
    card: 'summary_large_image',
    title: `${category.name} - Web3 Glossary`,
    description: categoryDescription,
-   images: ['/api/og?type=default&title=Web3%20Glossary'],
+   images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Glossary'],
   },
  };
 }

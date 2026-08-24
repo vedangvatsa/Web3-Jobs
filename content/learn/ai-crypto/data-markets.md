@@ -1,56 +1,84 @@
 ---
-title: "Decentralized Data Markets"
-description: "How crypto incentivizes the creation of high-quality training data for AI."
+title: Decentralized Data Markets
+description: How crypto incentivizes the creation of high-quality training data for AI.
 order: 3
-readTime: "9 min"
-difficulty: "intermediate"
-prerequisites: ["introduction"]
+readTime: 9 min
+difficulty: intermediate
+prerequisites:
+  - introduction
 quiz:
-  - question: "What is a major bottleneck in AI training today?"
+  - question: What is a major bottleneck in AI training today?
     options:
-      - "There is too much high-quality data."
-      - "Running out of human-generated, high-quality data to train on."
-      - "Data is too heavily encrypted."
-      - "Humans type too slowly."
+      - There is too much high-quality data.
+      - 'Running out of human-generated, high-quality data to train on.'
+      - Data is too heavily encrypted.
+      - Humans type too slowly.
     correct: 1
-    explanation: "AI models have consumed most of the open internet. To get smarter, they need new, specialized, high-quality human data, which is expensive and hard to source."
-  - question: "How do decentralized networks solve the data sourcing problem?"
+    explanation: >-
+      AI models have consumed most of the open internet. To get smarter, they
+      need new, specialized, high-quality human data, which is expensive and
+      hard to source.
+  - question: How do decentralized networks solve the data sourcing problem?
     options:
-      - "By hacking into private databases."
-      - "By paying everyday users crypto tokens to provide and verify specialized data."
-      - "By replacing data with synthetic data."
-      - "By asking the government for data."
+      - By hacking into private databases.
+      - >-
+        By paying everyday users crypto tokens to provide and verify specialized
+        data.
+      - By replacing data with synthetic data.
+      - By asking the government for data.
     correct: 1
-    explanation: "Decentralized data markets use crypto tokens to incentivize humans globally to upload, label, and verify data, effectively crowdsourcing the creation of high-quality training datasets."
-  - question: "Why is the 'data wall' a problem for AI companies?"
+    explanation: >-
+      Decentralized data markets use crypto tokens to incentivize humans
+      globally to upload, label, and verify data, effectively crowdsourcing the
+      creation of high-quality training datasets.
+  - question: Why is the 'data wall' a problem for AI companies?
     options:
-      - "There is too much data to process."
-      - "AI models have consumed most publicly available internet data, and the remaining high-quality data is proprietary and requires incentives to access."
-      - "Data is too cheap."
-      - "Only governments have data."
+      - There is too much data to process.
+      - >-
+        AI models have consumed most publicly available internet data, and the
+        remaining high-quality data is proprietary and requires incentives to
+        access.
+      - Data is too cheap.
+      - Only governments have data.
     correct: 1
-    explanation: "Frontier AI models have already trained on most of the public web. The next wave of improvement requires specialized, proprietary, and personal data — medical records, financial data, sensor data — that people won't share without compensation."
-  - question: "How does Grass collect data for AI training?"
+    explanation: >-
+      Frontier AI models have already trained on most of the public web. The
+      next wave of improvement requires specialized, proprietary, and personal
+      data - medical records, financial data, sensor data - that people won't
+      share without compensation.
+  - question: How does Grass collect data for AI training?
     options:
-      - "It scrapes data from private databases."
-      - "Users share their idle internet bandwidth, and Grass uses it to crawl the web, rewarding users with tokens."
-      - "It buys data from Google."
-      - "It generates synthetic data using AI."
+      - It scrapes data from private databases.
+      - >-
+        Users share their idle internet bandwidth, and Grass uses it to crawl
+        the web, rewarding users with tokens.
+      - It buys data from Google.
+      - It generates synthetic data using AI.
     correct: 1
-    explanation: "Grass pays users crypto tokens in exchange for sharing their unused internet bandwidth. Grass then uses this distributed network of residential IPs to ethically scrape public web data for AI training datasets."
-  - question: "What role does The Graph (GRT) play in the AI x Crypto data ecosystem?"
+    explanation: >-
+      Grass pays users crypto tokens in exchange for sharing their unused
+      internet bandwidth. Grass then uses this distributed network of
+      residential IPs to ethically scrape public web data for AI training
+      datasets.
+  - question: What role does The Graph (GRT) play in the AI x Crypto data ecosystem?
     options:
-      - "It trains AI models."
-      - "It indexes and queries blockchain data, making on-chain information easily accessible for AI applications."
-      - "It stores encrypted files."
-      - "It validates transactions."
+      - It trains AI models.
+      - >-
+        It indexes and queries blockchain data, making on-chain information
+        easily accessible for AI applications.
+      - It stores encrypted files.
+      - It validates transactions.
     correct: 1
-    explanation: "The Graph acts as the 'Google of blockchains' — it indexes on-chain data from Ethereum, Polygon, and other networks into queryable subgraphs. AI agents use these indexed data feeds for real-time on-chain analytics and decision-making."
+    explanation: >-
+      The Graph acts as the 'Google of blockchains' - it indexes on-chain data
+      from Ethereum, Polygon, and other networks into queryable subgraphs. AI
+      agents use these indexed data feeds for real-time on-chain analytics and
+      decision-making.
 ---
 
 ## The Data Wall
 
-Modern AI models are extremely data hungry. Models like GPT-4 were trained on massive swaths of the open internet: Reddit, Wikipedia, GitHub, and millions of websites. The training dataset for GPT-3 alone was estimated at 570GB of text — roughly the equivalent of reading 1 million books.
+Modern AI models are extremely data hungry. Models like GPT-4 were trained on massive swaths of the open internet: Reddit, Wikipedia, GitHub, and millions of websites. The training dataset for GPT-3 alone was estimated at 570GB of text - roughly the equivalent of reading 1 million books.
 
 However, the industry is hitting a "data wall." AI companies have essentially exhausted the free, public internet. Epoch AI research estimates that all publicly available, high-quality text data will be consumed by 2026-2028.
 
@@ -131,7 +159,7 @@ This data is owned by individuals and institutions who won't share it for free.
 
 The key difference: in the centralized model, users create data for free and companies capture all the value. In the decentralized model, users earn tokens proportional to the value of their data contributions.
 
-## Centralized Sourcing — The Status Quo
+## Centralized Sourcing - The Status Quo
 
 Currently, AI companies solve the data problem through centralized platforms:
 
@@ -169,13 +197,13 @@ The key innovation: **collective bargaining for data.** Instead of one individua
 A network that pays users for their unused internet bandwidth. Users install a browser extension, and their idle bandwidth is used to scrape publicly available web data for AI training. Grass has over 2 million active users and has processed petabytes of web data.
 
 ### Ocean Protocol (OCEAN)
-The original decentralized data marketplace, launched in 2017. Data publishers tokenize their datasets as "datatokens" — ERC-20 tokens that grant access to specific datasets. Buyers purchase datatokens to access the data. Ocean also provides a compute-to-data framework where buyers can run algorithms on data without ever seeing the raw data.
+The original decentralized data marketplace, launched in 2017. Data publishers tokenize their datasets as "datatokens" - ERC-20 tokens that grant access to specific datasets. Buyers purchase datatokens to access the data. Ocean also provides a compute-to-data framework where buyers can run algorithms on data without ever seeing the raw data.
 
 ### Hivemapper
 A DePIN project for mapping. Users install dashcams in their cars and earn HONEY tokens for contributing street-level imagery. This data is used to build a decentralized Google Maps alternative, with AI processing the imagery to extract road features, signs, and conditions.
 
 ### The Graph (GRT)
-While not strictly a data market for AI training, The Graph provides decentralized indexing and querying of blockchain data. It demonstrates how token incentives can create a reliable, decentralized data infrastructure — Indexers earn GRT for serving queries.
+While not strictly a data market for AI training, The Graph provides decentralized indexing and querying of blockchain data. It demonstrates how token incentives can create a reliable, decentralized data infrastructure - Indexers earn GRT for serving queries.
 
 ## Data Quality and Verification
 
@@ -209,7 +237,7 @@ Sharing personal data raises obvious privacy concerns. The best decentralized da
 
 ## Key Takeaways
 
-- AI is hitting a "data wall" — the free internet has been consumed.
+- AI is hitting a "data wall" - the free internet has been consumed.
 - Centralized data sourcing (Scale AI, contractor platforms) extracts value from data creators.
 - Decentralized data markets use tokens to incentivize and reward data contributors.
 - Quality verification (staking, cross-validation, compute-to-data) is the hardest challenge.

@@ -3,18 +3,23 @@ term: Modular Blockchain
 slug: modular-blockchain
 category: technical
 difficulty: intermediate
-image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&q=80"
-description: A modular blockchain is an architecture that separates core blockchain functions, execution, settlement, consensus, and data availability, into independent specialized layers. This contrasts with monolithic blockchains like Bitcoin or Ethereum L1 that handle all functions in a single layer, enabling greater scalability, flexibility, and specialization.
+image: 'https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&q=80'
+description: >-
+  A modular blockchain is an architecture that separates core blockchain
+  functions, execution, settlement, consensus, and data availability, into
+  independent specialized layers. This contrasts with monolithic blockchains
+  like Bitcoin or Ethereum L1 that handle all functions in a single layer,
+  enabling greater scalability, flexibility, and specialization.
 relatedTerms:
- - rollup
- - data-availability-layer
- - layer-2
- - celestia
- - settlement-layer
+  - rollup
+  - data-availability-layer
+  - layer-2
+  - celestia
+  - settlement-layer
 synonyms:
- - Modular blockchain architecture
- - Layered blockchain
- - Separation of concerns blockchain
+  - Modular blockchain architecture
+  - Layered blockchain
+  - Separation of concerns blockchain
 ---
 
 A **modular blockchain** is an architectural design that separates the core functions of a blockchain into independent, specialized layers rather than handling all functions in a single monolithic chain. These functions include execution, settlement, consensus, and data availability, which can be provided by different protocols optimized for their specific role, creating a flexible, scalable blockchain stack.

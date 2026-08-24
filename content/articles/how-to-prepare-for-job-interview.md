@@ -1,13 +1,13 @@
 ---
-
-title: "How to Prepare for Job Interview"
-image: "https://picsum.photos/seed/job-interview/1200/630"
-data-ai-hint: "interview handshake two people"
-description: "A full guide on how to prepare for a job interview. Learn the key steps to take before, during, and after the interview to maximize your chances."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Prepare for Job Interview
+image: 'https://picsum.photos/seed/job-interview/1200/630'
+data-ai-hint: interview handshake two people
+description: >-
+  A full guide on how to prepare for a job interview. Learn the key steps to
+  take before, during, and after the interview to maximize your chances.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Landing a job interview represents a significant milestone. It indicates that your [resume](/how-to-build-a-web3-resume-that-stands-out) and cover letter have resonated with the hiring team. Now, the focus shifts to demonstrating your skills, personality, and passion for the role. Preparation enables you to enter the interview with confidence, leaving a strong impression.
@@ -73,7 +73,7 @@ Ensure you are ready for both in-person and virtual interviews.
 
 - **Make a Good First Impression:** Dress professionally, establish eye contact, and offer a firm handshake (for in-person interviews).
 - **Exude Confidence and Enthusiasm:** Allow your personality to shine. Demonstrate your genuine interest in the role and the organization.
-- **Listen Carefully:** Attend closely to the interviewer’s questions. Request clarification if necessary.
+- **Listen Carefully:** Attend closely to the interviewer's questions. Request clarification if necessary.
 - **Communicate Clearly:** Speak concisely. Avoid unnecessary elaboration.
 - **Be Honest:** Avoid exaggerating your skills or experiences. It is better to acknowledge areas where you lack knowledge and express a willingness to learn.
 
@@ -97,7 +97,7 @@ If you do not receive a response by the timeline provided during the interview, 
 
 **What should I wear to a job interview?**
 
-Dressing slightly more formally than the expected attire is advisable. For most professional roles, business casual is appropriate. If uncertain, directly ask the recruiter about the company’s dress code.
+Dressing slightly more formally than the expected attire is advisable. For most professional roles, business casual is appropriate. If uncertain, directly ask the recruiter about the company's dress code.
 
 **How do I answer the "What's your biggest weakness?" question?**
 

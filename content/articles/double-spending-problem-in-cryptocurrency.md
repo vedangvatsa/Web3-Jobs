@@ -1,13 +1,13 @@
 ---
-
-title: "Double-Spending Problem in Cryptocurrency Explained"
-description: "A simple guide to understanding the double-spending problem, a fundamental challenge in digital currency, and how blockchains like Bitcoin solve it."
-category: "Educational"
-image: "https://picsum.photos/seed/doublespend/1200/630"
-data-ai-hint: "double spend"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Double-Spending Problem in Cryptocurrency Explained
+description: >-
+  A simple guide to understanding the double-spending problem, a fundamental
+  challenge in digital currency, and how blockchains like Bitcoin solve it.
+category: Educational
+image: 'https://picsum.photos/seed/doublespend/1200/630'
+data-ai-hint: double spend
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## The Double-Spending Problem in Cryptocurrency: An In-Depth Analysis

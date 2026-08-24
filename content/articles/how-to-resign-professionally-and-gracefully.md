@@ -1,13 +1,13 @@
 ---
-
-title: "How to Resign Professionally and Gracefully"
-description: "Quitting your job is a delicate process. Learn how to resign in a way that preserves your professional relationships and protects your reputation."
-image: "https://picsum.photos/seed/312/1200/630"
-data-ai-hint: "person leaving"
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-25"
+title: How to Resign Professionally and Gracefully
+description: >-
+  Quitting your job is a delicate process. Learn how to resign in a way that
+  preserves your professional relationships and protects your reputation.
+image: 'https://picsum.photos/seed/312/1200/630'
+data-ai-hint: person leaving
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Deciding to leave your job marks a significant moment in your career. After making this decision, resigning professionally and gracefully becomes essential. Your exit is as critical as your entrance into the company. A well-managed departure helps maintain positive relationships, protects your reputation, and ensures you receive favorable references in the future.
@@ -20,7 +20,7 @@ Your direct manager should hear about your resignation before anyone else on you
 
 Schedule a private meeting with your manager. If you work in an office, meet in person. For remote work, opt for a video call. Avoid using email or instant messaging for this discussion.
 
-Start the conversation directly and courteously. You could say, "I’ve appreciated my time at [Company Name], but I have accepted another opportunity. My last day will be [Your Last Day]."
+Start the conversation directly and courteously. You could say, "I've appreciated my time at [Company Name], but I have accepted another opportunity. My last day will be [Your Last Day]."
 
 Keep the discussion brief and positive. Provide a straightforward reason for your departure if asked, such as, "I have accepted a role that aligns better with my long-term career goals." Steer clear of criticizing the company, your manager, or your colleagues.
 
@@ -59,7 +59,7 @@ Send this letter to your manager and CC HR.
 
 ### 3. Provide Two Weeks' Notice
 
-It is standard professional etiquette to give two weeks’ notice. This notice period allows your employer to begin the process of finding your replacement and helps you transition responsibilities smoothly.
+It is standard professional etiquette to give two weeks' notice. This notice period allows your employer to begin the process of finding your replacement and helps you transition responsibilities smoothly.
 
 While two weeks is customary, consult your employment contract for specific notice requirements. In some senior roles, the notice period may extend beyond two weeks. Unless the work environment poses a severe issue affecting your health, it is advisable to fulfill the full notice period.
 
@@ -82,7 +82,7 @@ On your last day, take time to say goodbye to your colleagues. You can do this i
 
 Keep your message positive. Thank your colleagues for their support and collaboration. Consider including your personal contact information, such as your LinkedIn profile, to maintain connections.
 
-Avoid negativity or complaints about the company in your farewell message. Focus on the positive relationships you’ve cultivated.
+Avoid negativity or complaints about the company in your farewell message. Focus on the positive relationships you've cultivated.
 
 Resigning from a job represents a natural progression in your career. Handling it professionally, with gratitude and a forward-looking perspective, allows you to leave on good terms and maintain a reliable professional network.
 

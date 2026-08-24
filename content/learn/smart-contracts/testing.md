@@ -1,56 +1,85 @@
 ---
-title: "Testing Smart Contracts"
-description: "How to write unit tests and fuzz tests for Solidity using Hardhat and Foundry."
+title: Testing Smart Contracts
+description: How to write unit tests and fuzz tests for Solidity using Hardhat and Foundry.
 order: 5
-readTime: "9 min"
-difficulty: "intermediate"
-prerequisites: ["first-contract"]
+readTime: 9 min
+difficulty: intermediate
+prerequisites:
+  - first-contract
 quiz:
-  - question: "Why is testing critical for smart contracts specifically?"
+  - question: Why is testing critical for smart contracts specifically?
     options:
-      - "Because Solidity is a slow language"
-      - "Because deployed contracts are immutable — you cannot patch a bug after deployment, and bugs typically mean lost funds"
-      - "Because Ethereum requires all contracts to have tests"
-      - "Because testing makes contracts run faster"
+      - Because Solidity is a slow language
+      - >-
+        Because deployed contracts are immutable - you cannot patch a bug after
+        deployment, and bugs typically mean lost funds
+      - Because Ethereum requires all contracts to have tests
+      - Because testing makes contracts run faster
     correct: 1
-    explanation: "Unlike a web app where you can push a hotfix, a deployed smart contract's code is permanent. If a bug allows an attacker to drain funds, there is no undo button. The Parity wallet bug in 2017 permanently froze $150M in ETH because of an accidental self-destruct call."
-  - question: "What does a Hardhat unit test verify?"
+    explanation: >-
+      Unlike a web app where you can push a hotfix, a deployed smart contract's
+      code is permanent. If a bug allows an attacker to drain funds, there is no
+      undo button. The Parity wallet bug in 2017 permanently froze $150M in ETH
+      because of an accidental self-destruct call.
+  - question: What does a Hardhat unit test verify?
     options:
-      - "That the contract compiles without warnings"
-      - "That specific function calls produce expected outputs and state changes"
-      - "That the contract uses the latest Solidity version"
-      - "That gas fees are below a threshold"
+      - That the contract compiles without warnings
+      - That specific function calls produce expected outputs and state changes
+      - That the contract uses the latest Solidity version
+      - That gas fees are below a threshold
     correct: 1
-    explanation: "Unit tests call individual contract functions with specific inputs and assert that the return values and storage changes match expectations. For example: deposit 100 tokens, then assert that the balance mapping shows 100 for that address."
-  - question: "What is fuzz testing?"
+    explanation: >-
+      Unit tests call individual contract functions with specific inputs and
+      assert that the return values and storage changes match expectations. For
+      example: deposit 100 tokens, then assert that the balance mapping shows
+      100 for that address.
+  - question: What is fuzz testing?
     options:
-      - "Running the same test repeatedly to check for race conditions"
-      - "Automatically generating thousands of random inputs to find edge cases a human tester would miss"
-      - "Testing the contract on multiple blockchains"
-      - "Manually trying to break the contract"
+      - Running the same test repeatedly to check for race conditions
+      - >-
+        Automatically generating thousands of random inputs to find edge cases a
+        human tester would miss
+      - Testing the contract on multiple blockchains
+      - Manually trying to break the contract
     correct: 1
-    explanation: "Fuzz testing (supported natively in Foundry) generates random inputs — extreme values, zero, max uint256, unusual addresses — and runs your test function with each one. This catches edge cases like integer overflow, division by zero, or unexpected behavior with boundary values."
-  - question: "What is the purpose of 'vm.prank()' in Foundry tests?"
+    explanation: >-
+      Fuzz testing (supported natively in Foundry) generates random inputs -
+      extreme values, zero, max uint256, unusual addresses - and runs your test
+      function with each one. This catches edge cases like integer overflow,
+      division by zero, or unexpected behavior with boundary values.
+  - question: What is the purpose of 'vm.prank()' in Foundry tests?
     options:
-      - "To deploy the contract to mainnet"
-      - "To simulate a function call as if it came from a specific address, useful for testing access control"
-      - "To add a delay between transactions"
-      - "To generate random test data"
+      - To deploy the contract to mainnet
+      - >-
+        To simulate a function call as if it came from a specific address,
+        useful for testing access control
+      - To add a delay between transactions
+      - To generate random test data
     correct: 1
-    explanation: "vm.prank(address) makes the next call appear to come from that address. This lets you test scenarios like: 'What happens if a non-admin tries to withdraw funds?' or 'Can user B access user A's balance?' without needing multiple real wallets."
-  - question: "What should you test FIRST when auditing a contract's security?"
+    explanation: >-
+      vm.prank(address) makes the next call appear to come from that address.
+      This lets you test scenarios like: 'What happens if a non-admin tries to
+      withdraw funds?' or 'Can user B access user A's balance?' without needing
+      multiple real wallets.
+  - question: What should you test FIRST when auditing a contract's security?
     options:
-      - "Gas optimization"
-      - "Access control — who can call admin functions, and what happens when unauthorized users try"
-      - "The contract's name and symbol"
-      - "Frontend integration"
+      - Gas optimization
+      - >-
+        Access control - who can call admin functions, and what happens when
+        unauthorized users try
+      - The contract's name and symbol
+      - Frontend integration
     correct: 1
-    explanation: "The most common exploit category is broken access control: an admin-only function that anyone can call, or a withdrawal function that doesn't check the caller's balance. Always test that restricted functions revert when called by unauthorized addresses."
+    explanation: >-
+      The most common exploit category is broken access control: an admin-only
+      function that anyone can call, or a withdrawal function that doesn't check
+      the caller's balance. Always test that restricted functions revert when
+      called by unauthorized addresses.
 ---
 
 ## Why Smart Contract Testing Is Different
 
-In traditional software, bugs are annoying. In smart contracts, bugs are catastrophic. A deployed contract is immutable — once it's on Ethereum, the code cannot be changed. If someone finds a vulnerability, they can drain the contract's entire balance before anyone can react.
+In traditional software, bugs are annoying. In smart contracts, bugs are catastrophic. A deployed contract is immutable - once it's on Ethereum, the code cannot be changed. If someone finds a vulnerability, they can drain the contract's entire balance before anyone can react.
 
 There is no rollback. There is no hotfix. There is no "we'll patch it in the next release."
 
@@ -205,7 +234,7 @@ function testFuzz_TransferNeverExceedsSupply(uint256 amount) public {
 }
 ```
 
-Foundry will run this function with hundreds of random `amount` values — including 0, 1, max uint256, and everything in between. If any input breaks the invariant, Foundry reports the exact failing case.
+Foundry will run this function with hundreds of random `amount` values - including 0, 1, max uint256, and everything in between. If any input breaks the invariant, Foundry reports the exact failing case.
 
 ## What to Test: A Checklist
 
@@ -223,4 +252,4 @@ Foundry will run this function with hundreds of random `amount` values — inclu
 - Smart contract bugs are permanent and expensive. Testing is the first and most important layer of security.
 - Hardhat uses JavaScript tests (familiar, good ecosystem). Foundry uses Solidity tests (faster, native fuzz testing).
 - Fuzz testing automatically generates random inputs to catch edge cases you would never think of manually.
-- Always test access control first — who can call what, and what happens when unauthorized users try.
+- Always test access control first - who can call what, and what happens when unauthorized users try.

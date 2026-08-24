@@ -1,6 +1,6 @@
 ---
 name: Cosmos
-website: https://cosmos.network
+website: 'https://cosmos.network'
 founded: 2014
 category: Layer 0 / Interoperability
 headquarters: Remote

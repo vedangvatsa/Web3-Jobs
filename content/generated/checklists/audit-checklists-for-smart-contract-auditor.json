@@ -23,7 +23,7 @@
     "canonicalSlug": "audit-checklists-for-smart-contract-auditor"
   },
   "content": {
-    "intro": "A complete audit methodology checklist covering every phase of a professional smart contract security review—from initial scoping to final report delivery. Used by top audit firms.",
+    "intro": "A complete audit methodology checklist covering every phase of a professional smart contract security review - from initial scoping to final report delivery. Used by top audit firms.",
     "sections": [
       {
         "heading": "Pre-Engagement Phase",
@@ -67,7 +67,7 @@
           },
           {
             "title": "Identify key invariants with team",
-            "description": "Discuss critical properties that must always hold—these become primary audit targets.",
+            "description": "Discuss critical properties that must always hold - these become primary audit targets.",
             "priority": "critical",
             "category": "Scoping"
           },
@@ -271,7 +271,7 @@
           },
           {
             "title": "Analyze interest rate models",
-            "description": "Test utilization curves, rate jumps, and economic stability.",
+            "description": "Test use curves, rate jumps, and economic stability.",
             "priority": "important",
             "category": "DeFi"
           },

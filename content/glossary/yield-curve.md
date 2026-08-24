@@ -1,12 +1,22 @@
 ---
-term: "Yield Curve"
-slug: "yield-curve"
-category: "defi"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "A graph showing interest rates (yields) across different maturities, used in DeFi to understand lending rates and market expectations about future rates and economic conditions."
-relatedTerms: ["apr", "apy", "lending", "defi"]
-synonyms: ["interest rate curve", "term structure", "maturity curve"]
+term: Yield Curve
+slug: yield-curve
+category: defi
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A graph showing interest rates (yields) across different maturities, used in
+  DeFi to understand lending rates and market expectations about future rates
+  and economic conditions.
+relatedTerms:
+  - apr
+  - apy
+  - lending
+  - defi
+synonyms:
+  - interest rate curve
+  - term structure
+  - maturity curve
 ---
 
 Yield Curve refers to the graphical representation of interest rates across different loan maturities, illustrating how returns vary based on the length of time funds are committed. In decentralized finance, this concept has become increasingly relevant as lending protocols mature and offer term-based products. Pendle Finance enables users to trade tokenized yield across various time horizons, effectively creating on-chain yield curves that traders can analyze and arbitrage. An upward-sloping curve typically indicates expectations of rising rates, while an inverted curve may signal economic uncertainty or anticipated rate decreases. Understanding yield curve dynamics helps traders identify mispriced opportunities and make informed decisions about capital allocation timeframes. Professionals who can interpret yield curves and apply fixed-income concepts to DeFi protocols are increasingly sought after by trading firms and institutional crypto investment teams.

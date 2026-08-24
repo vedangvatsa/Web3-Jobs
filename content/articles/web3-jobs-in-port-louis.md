@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Jobs in Port Louis: A Guide to Mauritius' FinTech and Blockchain Hub"
-image: "/images/africa web3 jobs.jpg"
-data-ai-hint: "port louis mauritius"
-description: "A career guide to the Web3 job market in Port Louis. Explore how Mauritius is using its strength as an international financial center to become a hub."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Port Louis: A Guide to Mauritius'' FinTech and Blockchain Hub'
+image: /images/africa web3 jobs.jpg
+data-ai-hint: port louis mauritius
+description: >-
+  A career guide to the Web3 job market in Port Louis. Explore how Mauritius is
+  using its strength as an international financial center to become a hub.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Port Louis, the capital of Mauritius, capitalizes on the island's established reputation as a stable International Financial Centre (IFC). This positioning helps the city emerge as a significant hub for [Web3](/what-is-web3) and digital assets in the African and Indian Ocean regions. The Mauritian government actively supports this growth by implementing a reliable legal framework for digital assets. This initiative aims to attract reputable FinTech companies, investment funds, and [blockchain](/what-is-a-blockchain) startups.
@@ -51,7 +51,7 @@ The job market in Port Louis favors professionals with backgrounds in finance an
 
 1. **Capitalize on Your Finance/Legal Background**: If you have a background in law, accounting, or fund administration, upskilling in Web3 can make you a highly desirable candidate. Pursue certifications in blockchain fundamentals and digital assets.
 
-2. **Understand the Regulatory Framework**: Expertise in the FSC's VASP framework and the country’s AML/CFT regulations for digital assets will set you apart. This knowledge is a strong differentiator in the job market.
+2. **Understand the Regulatory Framework**: Expertise in the FSC's VASP framework and the country's AML/CFT regulations for digital assets will set you apart. This knowledge is a strong differentiator in the job market.
 
 3. **Network Within the Financial Services Community**: The finance and legal community in Port Louis is close-knit. Participating in industry seminars, FinTech events, and professional association meetings can help you build key connections.
 
@@ -101,7 +101,7 @@ Salaries in Mauritius are premium due to its status as a regulated financial cen
 - **Expected Compensation**: Significant value.
 
 **Quick Wins:**
-- Multi-fund operations: MUR 500,000–MUR 2,000,000 per engagement.
+- Multi-fund operations: MUR 500,000-MUR 2,000,000 per engagement.
 - Consulting for crypto firms on fund structures: Significant value.
 - Speaking at finance events for visibility and authority.
 
@@ -128,7 +128,7 @@ Salaries in Mauritius are premium due to its status as a regulated financial cen
 - **Expected Compensation**: Significant value.
 
 **Quick Wins:**
-- Consulting on VASP licensing: MUR 500,000–MUR 3,000,000 per engagement.
+- Consulting on VASP licensing: MUR 500,000-MUR 3,000,000 per engagement.
 - Speaking engagements at compliance events: Significant value.
 - Publish research to build reputation and attract job offers.
 

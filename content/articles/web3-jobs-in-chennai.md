@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Jobs in Chennai: A Guide to the Rise of a SaaS and Blockchain Hub"
-image: "/images/india web3 jobs.jpg"
-data-ai-hint: "chennai city india"
-description: "A guide to the Web3 job market in Chennai. Learn about the city's emergence as a hub for SaaS, enterprise blockchain, and its growing community of Web3."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Chennai: A Guide to the Rise of a SaaS and Blockchain Hub'
+image: /images/india web3 jobs.jpg
+data-ai-hint: chennai city india
+description: >-
+  A guide to the Web3 job market in Chennai. Learn about the city's emergence as
+  a hub for SaaS, enterprise blockchain, and its growing community of Web3.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Chennai has established itself as the "SaaS Capital of India," and is now carving out an important role in the [Web3](/what-is-web3) ecosystem. The city's expertise in creating high-quality software-as-a-service products, coupled with a strong engineering talent pool and a active startup culture, is increasingly focused on [blockchain](/what-is-a-blockchain) and decentralized applications. Chennai's Web3 environment emphasizes utility, enterprise solutions, and product-led growth.

@@ -1,6 +1,6 @@
 ---
 name: Orderly Network
-website: https://orderly.network
+website: 'https://orderly.network'
 founded: 2022
 category: DeFi / DEX Infrastructure
 headquarters: Remote

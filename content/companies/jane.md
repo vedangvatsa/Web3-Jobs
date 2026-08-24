@@ -1,6 +1,6 @@
 ---
 name: Jane
-website: https://jane.xyz
+website: 'https://jane.xyz'
 founded: 2023
 category: DeFi
 headquarters: Remote

@@ -3,17 +3,17 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
  title: 'Remote Work Checklist | Setup Guide for Web3 Builders',
- description: 'Optimize your remote workspace setup for peak productivity, robust digital security, and physical well-being. Includes a downloadable PDF checklist.',
+ description: 'Optimize your remote workspace setup for peak productivity, strong digital security, and physical well-being. Includes a downloadable PDF checklist.',
  alternates: {
   canonical: 'https://hashtagweb3.com/remote-work-checklist',
  },
  openGraph: {
   type: 'website',
   title: 'Remote Work Checklist | Setup Guide for Web3 Builders',
-  description: 'Optimize your remote workspace setup for peak productivity, robust digital security, and physical well-being. Includes a downloadable PDF checklist.',
+  description: 'Optimize your remote workspace setup for peak productivity, strong digital security, and physical well-being. Includes a downloadable PDF checklist.',
   url: 'https://hashtagweb3.com/remote-work-checklist',
   images: [{
-   url: '/api/og?type=default&title=Remote%20Work%20Checklist',
+   url: 'https://hashtagweb3.com/api/og?type=default&title=Remote%20Work%20Checklist',
    width: 1200,
    height: 630,
    alt: 'Remote Work Checklist Tool',
@@ -22,8 +22,8 @@ export const metadata: Metadata = {
  twitter: {
   card: 'summary_large_image',
   title: 'Remote Work Checklist | Setup Guide for Web3 Builders',
-  description: 'Optimize your remote workspace setup for peak productivity, robust digital security, and physical well-being. Includes a downloadable PDF checklist.',
-  images: ['/api/og?type=default&title=Remote%20Work%20Checklist'],
+  description: 'Optimize your remote workspace setup for peak productivity, strong digital security, and physical well-being. Includes a downloadable PDF checklist.',
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Remote%20Work%20Checklist'],
  },
 };
 

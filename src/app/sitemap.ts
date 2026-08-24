@@ -172,6 +172,37 @@ const staticRoutes: MetadataRoute.Sitemap = [
   changeFrequency: 'monthly',
   priority: 0.4,
  },
+ // Trust Anchor & Developer Pages
+ {
+  url: `${siteUrl}/about`,
+  lastModified: new Date(),
+  changeFrequency: 'monthly',
+  priority: 0.8,
+ },
+ {
+  url: `${siteUrl}/contact`,
+  lastModified: new Date(),
+  changeFrequency: 'monthly',
+  priority: 0.8,
+ },
+ {
+  url: `${siteUrl}/privacy`,
+  lastModified: new Date(),
+  changeFrequency: 'monthly',
+  priority: 0.7,
+ },
+ {
+  url: `${siteUrl}/developers`,
+  lastModified: new Date(),
+  changeFrequency: 'weekly',
+  priority: 0.8,
+ },
+ {
+  url: `${siteUrl}/events`,
+  lastModified: new Date(),
+  changeFrequency: 'daily',
+  priority: 0.8,
+ },
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

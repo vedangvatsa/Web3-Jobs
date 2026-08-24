@@ -1,56 +1,91 @@
 ---
-title: "Account Abstraction (ERC-4337)"
-description: "How smart contract wallets are replacing EOAs and enabling gasless, social-recovery experiences."
+title: Account Abstraction (ERC-4337)
+description: >-
+  How smart contract wallets are replacing EOAs and enabling gasless,
+  social-recovery experiences.
 order: 9
-readTime: "9 min"
-difficulty: "intermediate"
-prerequisites: ["first-contract"]
+readTime: 9 min
+difficulty: intermediate
+prerequisites:
+  - first-contract
 quiz:
-  - question: "What is the main limitation of Externally Owned Accounts (EOAs)?"
+  - question: What is the main limitation of Externally Owned Accounts (EOAs)?
     options:
-      - "They cannot hold tokens."
-      - "They require a private key for every action, offer no recovery, and cannot batch transactions."
-      - "They are too expensive to create."
-      - "They only work on Ethereum."
+      - They cannot hold tokens.
+      - >-
+        They require a private key for every action, offer no recovery, and
+        cannot batch transactions.
+      - They are too expensive to create.
+      - They only work on Ethereum.
     correct: 1
-    explanation: "EOAs are controlled by a single private key. Lose it, and your funds are gone forever. They cannot natively batch transactions, sponsor gas fees, or implement custom security policies."
-  - question: "How does ERC-4337 achieve 'gasless' transactions?"
+    explanation: >-
+      EOAs are controlled by a single private key. Lose it, and your funds are
+      gone forever. They cannot natively batch transactions, sponsor gas fees,
+      or implement custom security policies.
+  - question: How does ERC-4337 achieve 'gasless' transactions?
     options:
-      - "By eliminating gas fees entirely."
-      - "By allowing a third party (Paymaster) to sponsor the gas fees on behalf of the user."
-      - "By using a faster blockchain."
-      - "By compressing transactions to use less gas."
+      - By eliminating gas fees entirely.
+      - >-
+        By allowing a third party (Paymaster) to sponsor the gas fees on behalf
+        of the user.
+      - By using a faster blockchain.
+      - By compressing transactions to use less gas.
     correct: 1
-    explanation: "ERC-4337 introduces Paymasters — smart contracts that pay gas fees on behalf of users. This allows apps to offer gasless experiences by absorbing gas costs."
-  - question: "What problem does Account Abstraction solve?"
+    explanation: >-
+      ERC-4337 introduces Paymasters - smart contracts that pay gas fees on
+      behalf of users. This allows apps to offer gasless experiences by
+      absorbing gas costs.
+  - question: What problem does Account Abstraction solve?
     options:
-      - "It makes transactions faster."
-      - "It replaces rigid externally owned accounts (EOAs) with programmable smart contract wallets that support social recovery, session keys, and batched transactions."
-      - "It removes the need for private keys."
-      - "It eliminates gas fees entirely."
+      - It makes transactions faster.
+      - >-
+        It replaces rigid externally owned accounts (EOAs) with programmable
+        smart contract wallets that support social recovery, session keys, and
+        batched transactions.
+      - It removes the need for private keys.
+      - It eliminates gas fees entirely.
     correct: 1
-    explanation: "Traditional EOAs (MetaMask-style wallets) have a single point of failure: lose the private key, lose everything. Account abstraction makes wallets programmable — you can add recovery options, spending limits, multi-sig approval, and even let apps transact on your behalf within defined rules."
-  - question: "What are 'session keys' and why are they important for Web3 gaming?"
+    explanation: >-
+      Traditional EOAs (MetaMask-style wallets) have a single point of failure:
+      lose the private key, lose everything. Account abstraction makes wallets
+      programmable - you can add recovery options, spending limits, multi-sig
+      approval, and even let apps transact on your behalf within defined rules.
+  - question: What are 'session keys' and why are they important for Web3 gaming?
     options:
-      - "Keys that expire after each login."
-      - "Temporary keys with limited permissions that let a game sign transactions on your behalf without prompting for wallet approval on every action."
-      - "Keys shared between multiple users."
-      - "Keys stored on the blockchain."
+      - Keys that expire after each login.
+      - >-
+        Temporary keys with limited permissions that let a game sign
+        transactions on your behalf without prompting for wallet approval on
+        every action.
+      - Keys shared between multiple users.
+      - Keys stored on the blockchain.
     correct: 1
-    explanation: "In a Web3 game, approving every sword swing or item pickup with a wallet popup would be unplayable. Session keys grant the game temporary, scoped permission (e.g., 'can spend up to 0.01 ETH on in-game actions for the next 2 hours') without exposing your main private key."
-  - question: "What is a 'UserOperation' in ERC-4337?"
+    explanation: >-
+      In a Web3 game, approving every sword swing or item pickup with a wallet
+      popup would be unplayable. Session keys grant the game temporary, scoped
+      permission (e.g., 'can spend up to 0.01 ETH on in-game actions for the
+      next 2 hours') without exposing your main private key.
+  - question: What is a 'UserOperation' in ERC-4337?
     options:
-      - "A regular Ethereum transaction."
-      - "A pseudo-transaction object that represents the user's intent — it gets collected by a Bundler, batched with other UserOperations, and submitted to the blockchain as a single transaction."
-      - "A database query."
-      - "A smart contract deployment."
+      - A regular Ethereum transaction.
+      - >-
+        A pseudo-transaction object that represents the user's intent - it gets
+        collected by a Bundler, batched with other UserOperations, and submitted
+        to the blockchain as a single transaction.
+      - A database query.
+      - A smart contract deployment.
     correct: 1
-    explanation: "ERC-4337 introduced UserOperations as an alternative to standard transactions. Instead of users paying gas directly, they create UserOps that are collected by Bundlers (specialized relayers). The Bundler groups multiple UserOps into one on-chain transaction, allowing flexible gas payment and sponsorship."
+    explanation: >-
+      ERC-4337 introduced UserOperations as an alternative to standard
+      transactions. Instead of users paying gas directly, they create UserOps
+      that are collected by Bundlers (specialized relayers). The Bundler groups
+      multiple UserOps into one on-chain transaction, allowing flexible gas
+      payment and sponsorship.
 ---
 
 ## The Problem with Traditional Wallets
 
-Every Ethereum account today is an Externally Owned Account (EOA) — a raw public-private key pair. MetaMask, Coinbase Wallet, and every hardware wallet use EOAs.
+Every Ethereum account today is an Externally Owned Account (EOA) - a raw public-private key pair. MetaMask, Coinbase Wallet, and every hardware wallet use EOAs.
 
 This creates terrible UX:
 
@@ -79,7 +114,7 @@ ERC-4337 is the Ethereum standard for account abstraction, deployed on mainnet i
 
 ### Key Components
 
-**UserOperation:** Instead of sending a regular transaction, users create a "UserOperation" — a data structure describing what they want to do.
+**UserOperation:** Instead of sending a regular transaction, users create a "UserOperation" - a data structure describing what they want to do.
 
 **Bundler:** A node that collects UserOperations from multiple users and submits them as a single on-chain transaction. Bundlers earn fees for this service.
 
@@ -148,7 +183,7 @@ Coinbase launched a smart wallet using ERC-4337 with passkey authentication. Use
 ### Pimlico, Alchemy, Stackup
 Infrastructure providers that run Bundler services and Paymaster contracts, making it easy for apps to integrate ERC-4337.
 
-## Session Keys: The Game Changer
+## Session Keys: The major shift
 
 Session keys allow a smart wallet to grant temporary, scoped permissions to an application. For example:
 

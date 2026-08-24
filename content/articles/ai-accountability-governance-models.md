@@ -1,12 +1,14 @@
 ---
-
-title: "AI Accountability & Governance Models in a Web3 World"
-image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
-description: "How can we ensure AI systems are accountable? This article explores how Web3 governance models, like DAOs, can be applied to create transparent AI oversight."
-category: "Industry Insights"
-data-ai-hint: "ai governance"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: AI Accountability & Governance Models in a Web3 World
+image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
+description: >-
+  How can we ensure AI systems are accountable? This article explores how Web3
+  governance models, like DAOs, can be applied to create transparent AI
+  oversight.
+category: Industry Insights
+data-ai-hint: ai governance
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 As artificial intelligence (AI) becomes integral to business operations, accountability has shifted from theoretical discussions to urgent necessity. Organizations implementing AI systems face increasing pressure from regulators, users, and stakeholders to prove that their AI solutions are not only effective but also trustworthy and accountable.

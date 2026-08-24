@@ -1,6 +1,6 @@
 ---
 name: Blockdaemon
-website: https://blockdaemon.com
+website: 'https://blockdaemon.com'
 category: Blockchain Infrastructure
 description: Blockdaemon provides blockchain infrastructure for developers and enterprises.
 ---

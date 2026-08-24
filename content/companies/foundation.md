@@ -1,6 +1,6 @@
 ---
 name: Foundation
-website: https://foundation.app
+website: 'https://foundation.app'
 founded: 2020
 category: NFT Marketplace
 headquarters: Remote

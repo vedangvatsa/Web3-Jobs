@@ -1,12 +1,13 @@
 ---
-
-title: "A Deep Dive Into Rollups for Ethereum Scaling"
-image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
-data-ai-hint: "ethereum scaling rollup"
-description: "A full guide to Ethereum's primary scaling solution: rollups. We explore the differences between Optimistic and ZK-Rollups and their role in the."
-category: "Technology Deep Dives"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: A Deep Dive Into Rollups for Ethereum Scaling
+image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
+data-ai-hint: ethereum scaling rollup
+description: >-
+  A full guide to Ethereum's primary scaling solution: rollups. We explore the
+  differences between Optimistic and ZK-Rollups and their role in the.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Ethereum's rapid growth has made it the leading platform for [smart contracts](/what-are-smart-contracts) and decentralized applications. However, this success has resulted in network congestion and increased transaction fees, making it difficult for many users to interact with the platform. The long-term strategy to address these challenges includes [sharding the base layer](/how-sharding-improves-blockchain-scalability). Currently, the primary solution that has gained traction is **Layer 2 (L2) Rollups**.

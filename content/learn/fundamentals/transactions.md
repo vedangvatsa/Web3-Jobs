@@ -1,51 +1,68 @@
 ---
-title: "Making Your First Transaction"
-description: "Step-by-step guide to set up MetaMask, get test ETH, and send your first on-chain transaction."
+title: Making Your First Transaction
+description: >-
+  Step-by-step guide to set up MetaMask, get test ETH, and send your first
+  on-chain transaction.
 order: 6
-readTime: "8 min"
-difficulty: "beginner"
-prerequisites: ["wallets"]
+readTime: 8 min
+difficulty: beginner
+prerequisites:
+  - wallets
 quiz:
-  - question: "What is a testnet?"
+  - question: What is a testnet?
     options:
-      - "A fake blockchain used for practice, with no real money"
-      - "A premium version of Ethereum"
-      - "A tool for testing internet speed"
-      - "A wallet application"
+      - 'A fake blockchain used for practice, with no real money'
+      - A premium version of Ethereum
+      - A tool for testing internet speed
+      - A wallet application
     correct: 0
-    explanation: "A testnet is a copy of Ethereum where the ETH has no real value. Developers and learners use it to practice transactions and test smart contracts without risking real money."
-  - question: "What is a faucet in crypto?"
+    explanation: >-
+      A testnet is a copy of Ethereum where the ETH has no real value.
+      Developers and learners use it to practice transactions and test smart
+      contracts without risking real money.
+  - question: What is a faucet in crypto?
     options:
-      - "A tool to mine cryptocurrency"
-      - "A website that gives you free testnet tokens for practice"
-      - "A type of hardware wallet"
-      - "A DeFi lending protocol"
+      - A tool to mine cryptocurrency
+      - A website that gives you free testnet tokens for practice
+      - A type of hardware wallet
+      - A DeFi lending protocol
     correct: 1
-    explanation: "A faucet is a website that distributes free testnet tokens. Since testnet ETH has no value, faucets give it away so developers and learners can experiment."
-  - question: "What do you need to pay a gas fee?"
+    explanation: >-
+      A faucet is a website that distributes free testnet tokens. Since testnet
+      ETH has no value, faucets give it away so developers and learners can
+      experiment.
+  - question: What do you need to pay a gas fee?
     options:
-      - "A credit card"
-      - "A monthly subscription"
-      - "ETH in your wallet"
-      - "A special gas token"
+      - A credit card
+      - A monthly subscription
+      - ETH in your wallet
+      - A special gas token
     correct: 2
-    explanation: "Gas fees on Ethereum are always paid in ETH. You need ETH in your wallet to send any transaction, even if you are sending a different token."
-  - question: "What should you always do before sending a large transaction?"
+    explanation: >-
+      Gas fees on Ethereum are always paid in ETH. You need ETH in your wallet
+      to send any transaction, even if you are sending a different token.
+  - question: What should you always do before sending a large transaction?
     options:
-      - "Post about it on social media"
-      - "Send a small test transaction first"
-      - "Wait for the weekend when fees are lower"
-      - "Turn off your VPN"
+      - Post about it on social media
+      - Send a small test transaction first
+      - Wait for the weekend when fees are lower
+      - Turn off your VPN
     correct: 1
-    explanation: "Always send a small test transaction first to confirm the address is correct. Blockchain transactions are irreversible — if you send to the wrong address, your money is gone."
-  - question: "Where can you view the details of any Ethereum transaction?"
+    explanation: >-
+      Always send a small test transaction first to confirm the address is
+      correct. Blockchain transactions are irreversible - if you send to the
+      wrong address, your money is gone.
+  - question: Where can you view the details of any Ethereum transaction?
     options:
-      - "In your email inbox"
-      - "On a block explorer like Etherscan"
-      - "In the Ethereum Foundation's database"
-      - "Only in your wallet app"
+      - In your email inbox
+      - On a block explorer like Etherscan
+      - In the Ethereum Foundation's database
+      - Only in your wallet app
     correct: 1
-    explanation: "Block explorers like Etherscan let anyone view any transaction on the blockchain. Since the blockchain is public, all transactions are visible to everyone."
+    explanation: >-
+      Block explorers like Etherscan let anyone view any transaction on the
+      blockchain. Since the blockchain is public, all transactions are visible
+      to everyone.
 ---
 
 ## What you will do in this lesson
@@ -64,11 +81,11 @@ This entire process is free and takes about 10 minutes.
 
 MetaMask is the most popular Ethereum wallet. It runs as a browser extension.
 
-1. Go to **metamask.io** (make sure it is the real site — check the URL)
+1. Go to **metamask.io** (make sure it is the real site - check the URL)
 2. Click "Download" and install the browser extension
 3. Click "Create a new wallet"
 4. Set a password (this locks MetaMask on your device)
-5. **Write down your seed phrase on paper** — MetaMask will show you 12 words
+5. **Write down your seed phrase on paper** - MetaMask will show you 12 words
 6. Confirm the seed phrase by selecting the words in order
 
 You now have a wallet. Your public address will look something like `0x71C7656EC7ab88b098defB751B7401B5f6d8976F`.
@@ -105,12 +122,12 @@ To switch to Sepolia testnet in MetaMask:
 
 A **faucet** is a website that gives away free testnet ETH. Since test ETH has no value, it exists purely for practice.
 
-1. Go to a Sepolia faucet (search "Sepolia faucet" — several are available)
+1. Go to a Sepolia faucet (search "Sepolia faucet" - several are available)
 2. Paste your wallet address
 3. Click "Send me ETH"
 4. Wait about 30 seconds
 
-You should see test ETH appear in your MetaMask balance. If one faucet is empty, try another — they refill periodically.
+You should see test ETH appear in your MetaMask balance. If one faucet is empty, try another - they refill periodically.
 
 ## Step 4: Send your first transaction
 
@@ -126,7 +143,7 @@ Your transaction is now being processed. MetaMask will show "Pending" for about 
 
 ## Step 5: View it on Etherscan
 
-Every transaction on Ethereum is public. You can view any transaction on a **block explorer** — a website that reads the blockchain.
+Every transaction on Ethereum is public. You can view any transaction on a **block explorer** - a website that reads the blockchain.
 
 1. After your transaction confirms, click on it in MetaMask
 2. Click "View on block explorer" (or go to sepolia.etherscan.io)

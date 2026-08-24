@@ -1,8 +1,10 @@
 ---
 name: Blackbird
-website: https://blackbird.xyz
+website: 'https://blackbird.xyz'
 category: Other
-description: Blackbird is a company focused on data analytics and business intelligence solutions.
+description: >-
+  Blackbird is a company focused on data analytics and business intelligence
+  solutions.
 ---
 
 Blackbird specializes in providing data analytics and business intelligence services. The company aims to help organizations make data-driven decisions through its analytical tools and insights. They offer various solutions that enable businesses to use the power of their data effectively.

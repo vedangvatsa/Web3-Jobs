@@ -1,13 +1,14 @@
 ---
-
-title: "Facial Recognition Systems Explained"
-description: "A clear explanation of how facial recognition systems work, their applications from unlocking your phone to surveillance, and the privacy concerns they raise."
-category: "Educational"
-image: "https://picsum.photos/seed/facialrec/1200/630"
-data-ai-hint: "facial recognition"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Facial Recognition Systems Explained
+description: >-
+  A clear explanation of how facial recognition systems work, their applications
+  from unlocking your phone to surveillance, and the privacy concerns they
+  raise.
+category: Educational
+image: 'https://picsum.photos/seed/facialrec/1200/630'
+data-ai-hint: facial recognition
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Facial recognition technology has permeated various sectors, from unlocking personal devices to enhancing security measures in public spaces. This article explores how facial recognition systems operate and highlights the privacy concerns associated with their use.
@@ -22,7 +23,7 @@ The initial task is to locate a face within an image or video frame. Modern syst
 
 #### 2. Face Analysis and Feature Extraction
 
-Once a face is detected, the system proceeds to analyze it for unique features. This step is important as it involves creating a “faceprint,” a digital representation that captures distinctive facial characteristics. 
+Once a face is detected, the system proceeds to analyze it for unique features. This step is important as it involves creating a "faceprint," a digital representation that captures distinctive facial characteristics. 
 
 Typical features measured include:
 
@@ -38,7 +39,7 @@ Advanced facial recognition systems create a 3D map of the face, enhancing featu
 
 After generating a faceprint, the system compares it against a database of known faceprints. This comparison serves two main purposes:
 
-- **Verification (1-to-1)**: This process answers the question, “Is this person who they claim to be?” For instance, when unlocking a smartphone, the system captures the user's face, creates a faceprint, and matches it to the stored faceprint on the device.
+- **Verification (1-to-1)**: This process answers the question, "Is this person who they claim to be?" For instance, when unlocking a smartphone, the system captures the user's face, creates a faceprint, and matches it to the stored faceprint on the device.
 
 - **Identification (1-to-N)**: Here, the system identifies an individual by comparing the new faceprint to all faceprints in a database. Law enforcement agencies often employ this method to identify suspects from surveillance footage by cross-referencing against a database of mugshots.
 

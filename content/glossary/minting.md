@@ -1,13 +1,22 @@
 ---
-term: "Minting"
-slug: "minting"
-category: "nfts"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=1200&h=600&fit=crop"
-imageAlt: "Digital art creation and NFT minting concept"
-description: "The process of creating new tokens or NFTs on a blockchain. For NFTs, minting transforms digital files into blockchain-based assets with verified ownership and provenance."
-relatedTerms: ["nft", "smart-contract", "token"]
-synonyms: ["creating tokens", "token generation"]
+term: Minting
+slug: minting
+category: nfts
+difficulty: Beginner
+image: >-
+  https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?w=1200&h=600&fit=crop
+imageAlt: Digital art creation and NFT minting concept
+description: >-
+  The process of creating new tokens or NFTs on a blockchain. For NFTs, minting
+  transforms digital files into blockchain-based assets with verified ownership
+  and provenance.
+relatedTerms:
+  - nft
+  - smart-contract
+  - token
+synonyms:
+  - creating tokens
+  - token generation
 ---
 
 Minting is the process of creating new digital assets on a blockchain, transforming digital files or token specifications into verified on-chain records with cryptographic proof of ownership and provenance. For NFTs, minting converts artwork, music, videos, or other media into unique blockchain tokens that establish scarcity and authenticity. For cryptocurrencies, minting generates new tokens through mechanisms like mining, staking rewards, or smart contract execution. The term derives from traditional currency production, where metals are struck into official coins. Platforms like Ethereum, Solana, and Polygon each offer different minting approaches with varying gas costs and environmental considerations. Understanding minting mechanics is essential for roles in NFT platform development, tokenomics design, and smart contract engineering, making it a foundational skill for Web3 professionals building digital asset infrastructure.

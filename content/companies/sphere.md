@@ -1,6 +1,6 @@
 ---
 name: Sphere
-website: https://sphere.engineer
+website: 'https://sphere.engineer'
 category: Other
 description: Sphere is a company focused on software engineering and product management.
 ---

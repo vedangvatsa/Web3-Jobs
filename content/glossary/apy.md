@@ -1,12 +1,21 @@
 ---
-term: "APY (Annual Percentage Yield)"
-slug: "apy"
-category: "defi"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&q=80"
-description: "The annualized rate of return on an investment accounting for compound interest, showing total earnings over a year including reinvested gains."
-relatedTerms: ["yield-farming", "staking", "defi", "liquidity-pool"]
-synonyms: ["annual percentage yield", "effective annual rate", "compound interest rate"]
+term: APY (Annual Percentage Yield)
+slug: apy
+category: defi
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&q=80'
+description: >-
+  The annualized rate of return on an investment accounting for compound
+  interest, showing total earnings over a year including reinvested gains.
+relatedTerms:
+  - yield-farming
+  - staking
+  - defi
+  - liquidity-pool
+synonyms:
+  - annual percentage yield
+  - effective annual rate
+  - compound interest rate
 ---
 
 APY (Annual Percentage Yield) is the annualized rate of return on an investment that accounts for compound interest, showing the total earnings over a year including reinvested gains. Unlike APR (Annual Percentage Rate), which only reflects simple interest, APY captures the compounding effect where earned interest generates additional returns. Aave, one of the largest DeFi lending protocols, displays APY rates that fluctuate based on supply and demand for each asset, allowing users to compare potential returns across different tokens. Understanding APY calculations is essential for DeFi analysts, yield strategists, and risk managers who must accurately evaluate protocol performance and communicate realistic return expectations to users and stakeholders.

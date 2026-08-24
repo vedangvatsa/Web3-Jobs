@@ -1,13 +1,14 @@
 ---
-
-title: "What is SocialFi? The Future of Social Media Explained"
-image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
-description: "SocialFi (Social Finance) is the Web3 answer to social media. Learn how it combines social networking with DeFi to create new economic models for creators."
-category: "Industry Insights"
-data-ai-hint: "social media"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is SocialFi? The Future of Social Media Explained
+image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
+description: >-
+  SocialFi (Social Finance) is the Web3 answer to social media. Learn how it
+  combines social networking with DeFi to create new economic models for
+  creators.
+category: Industry Insights
+data-ai-hint: social media
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 SocialFi, or Social Finance, merges social media with [decentralized finance](/what-is-defi). It offers an alternative to conventional platforms like Twitter, Instagram, and TikTok. Rather than enabling content creators to generate income solely through advertising revenue controlled by centralized entities, SocialFi allows creators to monetize their work directly using tokens, [NFTs](/what-are-nfts), and community participation.

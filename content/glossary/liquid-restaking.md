@@ -3,18 +3,23 @@ term: Liquid Restaking
 slug: liquid-restaking
 category: defi
 difficulty: intermediate
-image: "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80"
-description: Liquid restaking combines restaking with liquidity by issuing fungible tokens (Liquid Restaking Tokens or LRTs) that represent restaked positions. Users deposit staked assets into restaking protocols and receive tradable tokens, maintaining liquidity while earning staking, restaking, and DeFi yields simultaneously.
+image: 'https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80'
+description: >-
+  Liquid restaking combines restaking with liquidity by issuing fungible tokens
+  (Liquid Restaking Tokens or LRTs) that represent restaked positions. Users
+  deposit staked assets into restaking protocols and receive tradable tokens,
+  maintaining liquidity while earning staking, restaking, and DeFi yields
+  simultaneously.
 relatedTerms:
- - restaking
- - liquid-staking-token
- - eigenlayer
- - staking
- - yield
+  - restaking
+  - liquid-staking-token
+  - eigenlayer
+  - staking
+  - yield
 synonyms:
- - LRT
- - Liquid restaking tokens
- - Restaked LST
+  - LRT
+  - Liquid restaking tokens
+  - Restaked LST
 ---
 
 - **Liquid restaking** combines the capital efficiency of restaking with the liquidity of liquid staking tokens, enabling users to earn multiple layers of yield while maintaining asset liquidity. By depositing liquid staking tokens (like stETH or rETH) into restaking protocols and receiving Liquid Restaking Tokens (LRTs) in return, users can simultaneously earn base staking rewards, restaking rewards from AVS validation, and additional DeFi yields while keeping their assets liquid and composable.

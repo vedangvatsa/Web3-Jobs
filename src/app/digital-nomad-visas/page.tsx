@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description: 'Complete database of digital nomad visas for blockchain developer, crypto, and remote Web3 builders. Filter by continent, min income, and key requirements.',
   url: 'https://hashtagweb3.com/digital-nomad-visas',
   images: [{
-   url: '/api/og?type=default&title=Digital%20Nomad%20Visas',
+   url: 'https://hashtagweb3.com/api/og?type=default&title=Digital%20Nomad%20Visas',
    width: 1200,
    height: 630,
    alt: 'Digital Nomad Visas Tool',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Digital Nomad Visas for Web3 Builders | Global Nomad Visa List',
   description: 'Complete database of digital nomad visas for blockchain developer, crypto, and remote Web3 builders. Filter by continent, min income, and key requirements.',
-  images: ['/api/og?type=default&title=Digital%20Nomad%20Visas'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Digital%20Nomad%20Visas'],
  },
 };
 

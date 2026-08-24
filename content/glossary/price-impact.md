@@ -1,12 +1,21 @@
 ---
-term: "Price Impact"
-slug: "price-impact"
-category: "trading"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "The percentage change in asset price resulting from a trade, where larger trades move price more than smaller trades due to limited liquidity."
-relatedTerms: ["slippage", "dex", "liquidity", "amm"]
-synonyms: ["price slippage", "market impact", "execution cost"]
+term: Price Impact
+slug: price-impact
+category: trading
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  The percentage change in asset price resulting from a trade, where larger
+  trades move price more than smaller trades due to limited liquidity.
+relatedTerms:
+  - slippage
+  - dex
+  - liquidity
+  - amm
+synonyms:
+  - price slippage
+  - market impact
+  - execution cost
 ---
 
 Price impact refers to the percentage change in an asset's price that occurs as a direct result of executing a trade. Larger transactions move prices more significantly than smaller ones due to the finite liquidity available in any given market. This phenomenon is particularly visible on decentralized exchanges like Uniswap, where automated market makers use mathematical formulas to determine prices based on the ratio of assets in liquidity pools. For example, swapping a small amount of tokens might result in less than 0.1% price impact, while a large institutional trade could move prices by several percentage points. Professionals who understand price impact mechanics and can develop strategies to minimize these costs are highly sought after by trading firms, market makers, and DeFi protocols building liquidity solutions.

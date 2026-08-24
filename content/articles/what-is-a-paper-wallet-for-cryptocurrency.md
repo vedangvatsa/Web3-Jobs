@@ -1,13 +1,14 @@
 ---
-
-title: "What is a Paper Wallet for Cryptocurrency"
-image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
-data-ai-hint: "paper document"
-description: "A paper wallet is a form of 'deep cold storage' where a cryptocurrency's private and public keys are printed onto a piece of paper. Learn how they work."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is a Paper Wallet for Cryptocurrency
+image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
+data-ai-hint: paper document
+description: >-
+  A paper wallet is a form of 'deep cold storage' where a cryptocurrency's
+  private and public keys are printed onto a piece of paper. Learn how they
+  work.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 A **paper [wallet](/how-to-choose-a-crypto-wallet)** serves as one of the oldest methods for securing cryptocurrency assets. This form of cold storage keeps private keys completely offline and disconnected from the internet. Essentially, a paper wallet is a physical document containing the information required to access and manage your cryptocurrency.

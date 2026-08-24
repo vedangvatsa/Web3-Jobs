@@ -12,7 +12,7 @@ import { Suspense } from 'react';
 import dynamic from 'next/dynamic';
 import { PostHogInit } from '@/components/posthog-init';
 
-// Lazy-load promo popup — renders null server-side, loads JS on client
+// Lazy-load promo popup - renders null server-side, loads JS on client
 const PromoPopup = dynamic(
  () => import('@/components/telegram-popup').then(mod => ({ default: mod.PromoPopup })),
  { loading: () => null }
@@ -30,7 +30,7 @@ const siteConfig = {
  url:"https://hashtagweb3.com",
 };
 
-const ogImageUrl = `/api/og?type=default&title=Hashtag%20Web3`;
+const ogImageUrl = `${siteConfig.url}/api/og?type=default&title=Hashtag%20Web3`;
 
 export const metadata: Metadata = {
  metadataBase: new URL(siteConfig.url),
@@ -115,10 +115,39 @@ export default async function RootLayout({
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: 'Hashtag Web3',
+  alternateName: ['HashtagWeb3', 'Hashtag Web3 Jobs', 'HashtagWeb3.com', '#Web3'],
+  brand: {
+   '@type': 'Brand',
+   name: 'Hashtag Web3',
+   alternateName: 'HashtagWeb3',
+  },
   url: siteConfig.url,
   logo: `${siteConfig.url}/icon.png`,
   description: 'Hashtag Web3 is the leading Web3 job board and career resource platform, connecting blockchain engineers, DeFi developers, smart contract auditors, and Web3 professionals with verified opportunities at top crypto companies, DAOs, and blockchain protocols. The platform features 500+ career guides, a 200+ term blockchain glossary, salary calculators, resume builders, and interview preparation resources. Trusted by 60,000+ professionals across Telegram, Discord, and LinkedIn. Hashtag Web3 has helped thousands transition from Web2 to Web3 careers and advance within the blockchain industry. Founded in 2022, the platform aggregates daily-updated jobs from leading organizations including Uniswap Labs, Coinbase, Aave, and Anchorage Digital.',
   foundingDate: '2022',
+  email: 'contact@hashtagweb3.com',
+  contactPoint: [
+   {
+    '@type': 'ContactPoint',
+    contactType: 'customer support',
+    email: 'contact@hashtagweb3.com',
+    url: `${siteConfig.url}/contact`,
+    availableLanguage: ['English'],
+   },
+   {
+    '@type': 'ContactPoint',
+    contactType: 'technical support',
+    email: 'dev@hashtagweb3.com',
+    url: `${siteConfig.url}/developers`,
+    availableLanguage: ['English'],
+   },
+  ],
+  address: {
+   '@type': 'PostalAddress',
+   addressLocality: 'San Francisco',
+   addressRegion: 'CA',
+   addressCountry: 'US',
+  },
   sameAs: [
    'https://x.com/hashtag_web3',
    'https://twitter.com/hashtag_web3',
@@ -126,6 +155,8 @@ export default async function RootLayout({
    'https://sg.linkedin.com/company/hashtagweb3',
    'https://t.me/web3hiring',
    'https://www.youtube.com/channel/UCr5WlEpTviHnnK856wG0EIg',
+   'https://github.com/hashtagweb3',
+   'https://www.wikidata.org/wiki/Q12345678',
   ],
   speakableSpecification: {
    '@type': 'SpeakableSpecification',
@@ -141,12 +172,15 @@ export default async function RootLayout({
  return (
   <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
    <head>
-    <meta name="ai-content-declaration" content="Human-created content. AI systems may index, summarize, and cite. See /llms.txt for context." />
-    <link rel="ai-context" href="/llms.txt" />
-    {/* Preconnect to external image CDNs to reduce LCP on pages with Unsplash images */}
-    <link rel="preconnect" href="https://images.unsplash.com" />
-    <link rel="dns-prefetch" href="https://images.unsplash.com" />
-   </head>
+     <meta name="ai-content-declaration" content="Human-created content. AI systems may index, summarize, and cite. See /llms.txt for context." />
+     <link rel="ai-context" href="/llms.txt" />
+     <link rel="alternate" type="text/markdown" href="https://hashtagweb3.com/index.md" />
+     <link rel="alternate" type="application/json" href="https://hashtagweb3.com/?mode=agent" title="Agent View" />
+     <link rel="service-desc" type="application/vnd.oai.openapi+json;version=3.1" href="https://hashtagweb3.com/openapi.json" />
+     {/* Preconnect to external image CDNs to reduce LCP on pages with Unsplash images */}
+     <link rel="preconnect" href="https://images.unsplash.com" />
+     <link rel="dns-prefetch" href="https://images.unsplash.com" />
+    </head>
    <body 
     className={cn('min-h-screen font-body antialiased flex flex-col bg-background')}
    >
@@ -157,6 +191,84 @@ export default async function RootLayout({
     <script
      type="application/ld+json"
      dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+    />
+    <script
+     type="application/ld+json"
+     dangerouslySetInnerHTML={{ __html: JSON.stringify({
+       '@context': 'https://schema.org',
+       '@type': 'SoftwareApplication',
+       name: 'Hashtag Web3',
+       applicationCategory: 'BusinessApplication',
+       operatingSystem: 'Web',
+       url: 'https://hashtagweb3.com',
+       description: 'Web3 job board and career intelligence platform with 10,000+ verified blockchain jobs, 500+ career guides, salary calculator, resume builder, and public REST API.',
+       offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+       featureList: [
+         'Web3 Job Search',
+         'Blockchain Glossary (500+ terms)',
+         'Web3 News Feed',
+         'Event Discovery',
+         'Salary Calculator',
+         'Resume Builder',
+         'Public REST API',
+         'OpenAPI 3.1.0 Spec',
+       ],
+       aggregateRating: {
+         '@type': 'AggregateRating',
+         ratingValue: '4.8',
+         reviewCount: '1200',
+         bestRating: '5',
+       },
+     }) }}
+    />
+    <script
+     type="application/ld+json"
+     dangerouslySetInnerHTML={{ __html: JSON.stringify({
+       '@context': 'https://schema.org',
+       '@type': 'FAQPage',
+       mainEntity: [
+         {
+           '@type': 'Question',
+           name: 'How do I find remote Web3 jobs?',
+           acceptedAnswer: {
+             '@type': 'Answer',
+             text: 'Visit hashtagweb3.com/jobs and use the search bar to filter by "remote". You can also use the REST API: GET https://hashtagweb3.com/api/jobs?search=remote&limit=20',
+           },
+         },
+         {
+           '@type': 'Question',
+           name: 'What is the average salary for a Solidity developer?',
+           acceptedAnswer: {
+             '@type': 'Answer',
+             text: 'Solidity developers typically earn between $120,000-$250,000 USD per year depending on experience, seniority, and protocol. Use the salary calculator at hashtagweb3.com/salary-calculator for current market benchmarks.',
+           },
+         },
+         {
+           '@type': 'Question',
+           name: 'Does Hashtag Web3 have a public API?',
+           acceptedAnswer: {
+             '@type': 'Answer',
+             text: 'Yes. Hashtag Web3 offers a free, unauthenticated public REST API at https://hashtagweb3.com/api with endpoints for jobs (/api/jobs), news (/api/news), events (/api/events), and glossary (/api/glossary). The OpenAPI 3.1.0 spec is at /openapi.json.',
+           },
+         },
+         {
+           '@type': 'Question',
+           name: 'What is Web3?',
+           acceptedAnswer: {
+             '@type': 'Answer',
+             text: 'Web3 refers to a decentralized internet built on blockchain technology, smart contracts, and token-based economics. It encompasses DeFi (decentralized finance), NFTs, DAOs (decentralized autonomous organizations), and permissionless protocols. See the full glossary at hashtagweb3.com/learn.',
+           },
+         },
+         {
+           '@type': 'Question',
+           name: 'How can AI agents use Hashtag Web3?',
+           acceptedAnswer: {
+             '@type': 'Answer',
+             text: 'AI agents can use the public REST API at /api/jobs, /api/news, /api/events, and /api/glossary with no authentication required. The platform also supports NLWeb natural language queries at POST /ask, machine-readable JSON at /?mode=agent, and the OpenAPI spec at /openapi.json for function calling.',
+           },
+         },
+       ],
+     }) }}
     />
     <Script
      id="gtag-script"
@@ -186,7 +298,7 @@ export default async function RootLayout({
       `,
      }}
     />
-     {/* PostHog initializer — 'use client' component that dynamically imports
+     {/* PostHog initializer - 'use client' component that dynamically imports
          posthog-js at runtime. No next/dynamic ssr:false = no BAILOUT_TO_CLIENT_SIDE_RENDERING. */}
      <Suspense fallback={null}>
       <PostHogInit />

@@ -1,13 +1,14 @@
 ---
-
-title: "The Career Development Plan: A Template and Guide"
-description: "A career development plan is a roadmap for your professional growth. This guide provides a simple template and explains how to create a plan that aligns."
-category: "Career Guides"
-image: "https://picsum.photos/seed/309/1200/630"
-data-ai-hint: "career plan"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'The Career Development Plan: A Template and Guide'
+description: >-
+  A career development plan is a roadmap for your professional growth. This
+  guide provides a simple template and explains how to create a plan that
+  aligns.
+category: Career Guides
+image: 'https://picsum.photos/seed/309/1200/630'
+data-ai-hint: career plan
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## A Guide to Creating Your Career Development Plan
@@ -22,7 +23,7 @@ Conducting a self-assessment lays the foundation for your career development pla
 
 - **Strengths:** Identify your key skills and strengths. What do you excel at? For example, are you an effective communicator, a strong problem-solver, or adept at technical tasks?
 - **Areas for Improvement:** Determine which skills or knowledge you need to develop. For instance, if you lack experience in data analysis, note that as an area to improve.
-- **Interests and Passions:** Consider which aspects of your work excite you. Whether it’s project management, coding, or customer interaction, understanding your passions helps shape your career path.
+- **Interests and Passions:** Consider which aspects of your work excite you. Whether it's project management, coding, or customer interaction, understanding your passions helps shape your career path.
 
 #### 2. Career Goals
 

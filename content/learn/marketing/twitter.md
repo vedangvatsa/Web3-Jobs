@@ -1,51 +1,75 @@
 ---
-title: "Web3 Twitter and Content"
-description: "Why Crypto Twitter drives the market and how to write threads that convert."
+title: Web3 Twitter and Content
+description: Why Crypto Twitter drives the market and how to write threads that convert.
 order: 2
-readTime: "6 min"
-difficulty: "beginner"
-prerequisites: ["community"]
+readTime: 6 min
+difficulty: beginner
+prerequisites:
+  - community
 quiz:
-  - question: "What is the primary marketing channel for Web3?"
+  - question: What is the primary marketing channel for Web3?
     options:
-      - "Facebook Ads"
-      - "Google SEO"
-      - "Crypto Twitter (CT)"
-      - "LinkedIn Articles"
+      - Facebook Ads
+      - Google SEO
+      - Crypto Twitter (CT)
+      - LinkedIn Articles
     correct: 2
-    explanation: "Crypto Twitter (CT) is the town square of Web3. It is where narratives are formed, protocols are discovered, and founders interact directly with users."
-  - question: "Why are Twitter threads so effective in Web3?"
+    explanation: >-
+      Crypto Twitter (CT) is the town square of Web3. It is where narratives are
+      formed, protocols are discovered, and founders interact directly with
+      users.
+  - question: Why are Twitter threads so effective in Web3?
     options:
-      - "They are easy for the algorithm to suppress"
-      - "They allow you to break down complex, technical blockchain concepts into digestible, sequential bites"
-      - "They cost money to post"
-      - "They automatically mint NFTs"
+      - They are easy for the algorithm to suppress
+      - >-
+        They allow you to break down complex, technical blockchain concepts into
+        digestible, sequential bites
+      - They cost money to post
+      - They automatically mint NFTs
     correct: 1
-    explanation: "Web3 concepts (like ZK-rollups or AMM math) are complex. Threads allow marketers and founders to explain these concepts step-by-step in a highly readable format."
-  - question: "What is the purpose of 'Building in Public'?"
+    explanation: >-
+      Web3 concepts (like ZK-rollups or AMM math) are complex. Threads allow
+      marketers and founders to explain these concepts step-by-step in a highly
+      readable format.
+  - question: What is the purpose of 'Building in Public'?
     options:
-      - "To show off how much money you make"
-      - "To build trust and a loyal following by transparently sharing product updates, failures, and code as you build"
-      - "To complain about competitors"
-      - "To leak private user data"
+      - To show off how much money you make
+      - >-
+        To build trust and a loyal following by transparently sharing product
+        updates, failures, and code as you build
+      - To complain about competitors
+      - To leak private user data
     correct: 1
-    explanation: "Web3 values transparency. Founders who tweet about their roadmap, engineering challenges, and metrics build a cult-like following that becomes their first user base."
-  - question: "Which content format works best for deep, technical protocol documentation?"
+    explanation: >-
+      Web3 values transparency. Founders who tweet about their roadmap,
+      engineering challenges, and metrics build a cult-like following that
+      becomes their first user base.
+  - question: >-
+      Which content format works best for deep, technical protocol
+      documentation?
     options:
-      - "TikTok videos"
-      - "Mirror.xyz or Substack articles"
-      - "Instagram Stories"
-      - "140-character tweets"
+      - TikTok videos
+      - Mirror.xyz or Substack articles
+      - Instagram Stories
+      - 140-character tweets
     correct: 1
-    explanation: "While Twitter is for discovery, long-form platforms like Mirror (a Web3 blogging platform) or Substack are used for whitepapers, in-depth technical reports, and official protocol announcements."
-  - question: "What is a major red flag in Web3 marketing?"
+    explanation: >-
+      While Twitter is for discovery, long-form platforms like Mirror (a Web3
+      blogging platform) or Substack are used for whitepapers, in-depth
+      technical reports, and official protocol announcements.
+  - question: What is a major red flag in Web3 marketing?
     options:
-      - "Posting memes"
-      - "Promising guaranteed returns or using excessive hype language (e.g., 'next 100x gem')"
-      - "Sharing open-source code"
-      - "Hosting AMAs"
+      - Posting memes
+      - >-
+        Promising guaranteed returns or using excessive hype language (e.g.,
+        'next 100x gem')
+      - Sharing open-source code
+      - Hosting AMAs
     correct: 1
-    explanation: "Promising financial returns is legally dangerous and a massive red flag for experienced users. Authentic Web3 marketing focuses on technology, utility, and community, not price hype."
+    explanation: >-
+      Promising financial returns is legally dangerous and a massive red flag
+      for experienced users. Authentic Web3 marketing focuses on technology,
+      utility, and community, not price hype.
 ---
 
 ## The Town Square of Crypto
@@ -91,7 +115,7 @@ Every major founder, developer, and investor in Web3 is hyper-active on Twitter/
 
 ## The Art of the Thread
 
-Because blockchain technology is complex, standard marketing slogans do not work. The most effective format on CT is the **Thread**—a series of connected tweets that break down a complex topic.
+Because blockchain technology is complex, standard marketing slogans do not work. The most effective format on CT is the **Thread** - a series of connected tweets that break down a complex topic.
 
 A successful Web3 thread follows a specific anatomy:
 

@@ -1,13 +1,13 @@
 ---
-
-title: "Understanding Concentrated Liquidity in Uniswap v3"
-description: "An in-depth guide to Concentrated Liquidity, the new feature of Uniswap v3 that allows for greater capital efficiency, and its implications for."
-category: "Educational"
-image: "https://picsum.photos/seed/concliquidity/1200/630"
-data-ai-hint: "concentrated liquidity"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Concentrated Liquidity in Uniswap v3
+description: >-
+  An in-depth guide to Concentrated Liquidity, the new feature of Uniswap v3
+  that allows for greater capital efficiency, and its implications for.
+category: Educational
+image: 'https://picsum.photos/seed/concliquidity/1200/630'
+data-ai-hint: concentrated liquidity
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Understanding Concentrated Liquidity in Uniswap v3
@@ -38,7 +38,7 @@ This article explains concentrated liquidity, compares it to traditional Automat
 
 To fully appreciate the advantages of concentrated liquidity, we must first examine the traditional model used by Uniswap v2, which is based on the **[constant product formula](/understanding-constant-product-formula)** (`x * y = k`).
 
-In this model, liquidity is uniformly distributed along an infinite price curve. Consequently, LPs’ capital supports trades across all prices, from zero to infinity. 
+In this model, liquidity is uniformly distributed along an infinite price curve. Consequently, LPs' capital supports trades across all prices, from zero to infinity. 
 
 However, much of this capital remains unused. For instance, in a stablecoin pair like USDC/DAI, the price typically hovers around one dollar. Funds allocated to support trades at lower or higher prices do not contribute to fee generation, leading to inefficiency.
 

@@ -1,12 +1,22 @@
 ---
-term: "Oracle Attack"
-slug: "oracle-attack"
-category: "security"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "An exploit targeting oracle vulnerabilities to manipulate price feeds or external data, enabling attackers to trigger liquidations or drain smart contracts."
-relatedTerms: ["oracle", "security", "price-feed", "vulnerability"]
-synonyms: ["oracle manipulation", "price feed attack", "data attack"]
+term: Oracle Attack
+slug: oracle-attack
+category: security
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  An exploit targeting oracle vulnerabilities to manipulate price feeds or
+  external data, enabling attackers to trigger liquidations or drain smart
+  contracts.
+relatedTerms:
+  - oracle
+  - security
+  - price-feed
+  - vulnerability
+synonyms:
+  - oracle manipulation
+  - price feed attack
+  - data attack
 ---
 
 Oracle Attack refers to an exploit that targets vulnerabilities in blockchain oracles, which are systems that feed external data like prices into smart contracts. This allows attackers to manipulate data and trigger unintended contract behavior such as artificial liquidations or fund drainage. A notable example occurred in February 2020 when an attacker exploited bZx's reliance on a single Uniswap price feed, using flash loans to temporarily manipulate the reported price and profit from the resulting cascading liquidations. Oracle manipulation remains a costly attack vector in decentralized finance. Modern protocols implement protective measures including time-weighted average prices, multiple data sources, and circuit breakers to mitigate these risks. Security engineers and smart contract auditors with expertise in oracle design and attack prevention are increasingly sought after as protocols prioritize data integrity.

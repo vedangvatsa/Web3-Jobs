@@ -1,12 +1,13 @@
 ---
-
-title: "What does Chris Dixon think about Web3"
-description: "Discover the insights of Chris Dixon, a General Partner at Andreessen Horowitz (a16z) and one of Web3's most influential investors. This guide explores."
-image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
-category: "Industry Insights"
-data-ai-hint: "man smile"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What does Chris Dixon think about Web3
+description: >-
+  Discover the insights of Chris Dixon, a General Partner at Andreessen Horowitz
+  (a16z) and one of Web3's most influential investors. This guide explores.
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+category: Industry Insights
+data-ai-hint: man smile
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: The Investor-Philosopher

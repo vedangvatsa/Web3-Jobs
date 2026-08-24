@@ -1,13 +1,13 @@
 ---
-
-title: "How to Set Career Goals That You'll Actually Achieve"
-description: "Many career goals are forgotten after a few weeks. This guide explains how to set meaningful, actionable goals that will drive your career forward."
-category: "Career Guides"
-image: "https://picsum.photos/seed/310/1200/630"
-data-ai-hint: "career goals"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Set Career Goals That You'll Actually Achieve
+description: >-
+  Many career goals are forgotten after a few weeks. This guide explains how to
+  set meaningful, actionable goals that will drive your career forward.
+category: Career Guides
+image: 'https://picsum.photos/seed/310/1200/630'
+data-ai-hint: career goals
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Setting Career Goals That Work
@@ -47,7 +47,7 @@ Example: You say "Get promoted to Senior Engineer." But ask yourself:
 
 Get clear on the real goal.
 
-See also: **[[Web3](/what-is-web3) Career Growth and Development](web3-career-growth-and-development)** – Strategic career planning framework.
+See also: **[[Web3](/what-is-web3) Career Growth and Development](web3-career-growth-and-development)** - Strategic career planning framework.
 
 ### 1. Use the SMART Framework (And Go Deeper)
 
@@ -336,7 +336,7 @@ Focus on building skills, validating ideas, building networks.
 
 Goals: Build an MVP, validate product-market fit, secure initial funding, build a founding team.
 
-See also: **[How to Build Executive Presence at Work](how-to-build-executive-presence-at-work)** – How to prepare for advancement.
+See also: **[How to Build Executive Presence at Work](how-to-build-executive-presence-at-work)** - How to prepare for advancement.
 
 ### Your Goal-Setting Process
 

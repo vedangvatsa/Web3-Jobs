@@ -1,6 +1,6 @@
 ---
 name: Refi Hub
-website: https://refihub.io
+website: 'https://refihub.io'
 category: Other
 description: Refi Hub focuses on sustainable finance solutions in the Web3 space.
 ---

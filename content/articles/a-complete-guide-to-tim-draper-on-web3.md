@@ -1,12 +1,14 @@
 ---
-
-title: "What does Tim Draper think about Web3"
-description: "Explore the unwavering conviction of Tim Draper, a legendary venture capitalist and one of Bitcoin's earliest and most vocal proponents. This guide covers."
-image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
-category: "Industry Insights"
-data-ai-hint: "man confident"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What does Tim Draper think about Web3
+description: >-
+  Explore the unwavering conviction of Tim Draper, a legendary venture
+  capitalist and one of Bitcoin's earliest and most vocal proponents. This guide
+  covers.
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+category: Industry Insights
+data-ai-hint: man confident
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: The Original Bitcoin Bull
@@ -23,11 +25,11 @@ Upon discovering Bitcoin, Draper recognized a similar pattern. He viewed it not 
 
 ## Core Thesis: Bitcoin as the Future of Money and Governance
 
-Draper’s philosophy surrounding Web3 can be distilled into a single, impactful belief: **Bitcoin is the future of money and governance.** While many investors diversify their portfolios across various [crypto assets](/building-web3-portfolio), Draper identifies as a Bitcoin maximalist. He argues that Bitcoin's unique attributes position it as the long-term winner in the cryptocurrency sector.
+Draper's philosophy surrounding Web3 can be distilled into a single, impactful belief: **Bitcoin is the future of money and governance.** While many investors diversify their portfolios across various [crypto assets](/building-web3-portfolio), Draper identifies as a Bitcoin maximalist. He argues that Bitcoin's unique attributes position it as the long-term winner in the cryptocurrency sector.
 
 ### 1. The Silk Road Bitcoin Auction
 
-Draper’s commitment to Bitcoin became widely recognized in 2014 when the U.S. Marshals Service auctioned nearly 30,000 bitcoins seized from the Silk Road, a notorious darknet marketplace. At that time, Bitcoin's reputation suffered due to its association with illegal activities, and its price had significantly declined from previous highs.
+Draper's commitment to Bitcoin became widely recognized in 2014 when the U.S. Marshals Service auctioned nearly 30,000 bitcoins seized from the Silk Road, a notorious darknet marketplace. At that time, Bitcoin's reputation suffered due to its association with illegal activities, and its price had significantly declined from previous highs.
 
 Many investors hesitated, but Draper recognized a historic opportunity. He participated in the auction and secured a substantial amount of bitcoins at a price that represented a significant endorsement of Bitcoin during a period of uncertainty, signaling to the world that a respected venture capitalist envisioned a bright future for the technology, transcending its murky origins.
 

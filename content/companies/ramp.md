@@ -1,10 +1,12 @@
 ---
 name: Ramp
-website: https://ramp.com
+website: 'https://ramp.com'
 founded: 2019
 category: Finance & Spend Management
-headquarters: New York, NY, USA
-description: A finance automation platform expanding into stablecoins and crypto-native corporate treasury.
+headquarters: 'New York, NY, USA'
+description: >-
+  A finance automation platform expanding into stablecoins and crypto-native
+  corporate treasury.
 ---
 
 Ramp is a finance automation and spend management platform that helps businesses save time and money. While traditionally focused on fiat corporate cards and expense management, Ramp has actively expanded its infrastructure to support crypto-native organizations and stablecoin integrations.

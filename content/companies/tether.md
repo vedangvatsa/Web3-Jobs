@@ -1,10 +1,10 @@
 ---
 name: Tether
-website: https://tether.to
+website: 'https://tether.to'
 founded: 2014
 category: Stablecoin / Fintech
 headquarters: British Virgin Islands
-description: Issuer of USDT, the world's largest stablecoin by market capitalization
+description: 'Issuer of USDT, the world''s largest stablecoin by market capitalization'
 ---
 
 Issuer of USDT, the world's largest stablecoin by market capitalization.

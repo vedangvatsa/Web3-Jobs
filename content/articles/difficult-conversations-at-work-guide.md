@@ -1,13 +1,14 @@
 ---
-
-title: "A Guide to Working through Difficult Conversations at Work"
-category: "Career Guides"
-date: "2025-09-12"
-description: "From giving critical feedback to addressing conflict, difficult conversations are unavoidable. This guide provides a framework for handling them with."
-image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
-data-ai-hint: "difficult conversation meeting"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: A Guide to Working through Difficult Conversations at Work
+category: Career Guides
+date: '2025-09-12'
+description: >-
+  From giving critical feedback to addressing conflict, difficult conversations
+  are unavoidable. This guide provides a framework for handling them with.
+image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
+data-ai-hint: difficult conversation meeting
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Nobody enjoys difficult conversations. But avoiding them is always worse than having them. Unaddressed problems compound. Feedback you dodge in March becomes a performance issue by September. A conflict you "let them work out" poisons the team dynamic for months.
@@ -49,19 +50,19 @@ You don't need a script, but you do need structure. This three-part framework wo
 
 **3. Agree on next steps.** Every difficult conversation should end with something concrete. What's going to change? By when? How will you both know if it's working? Write this down and follow up on it.
 
-## Managing Emotions — Yours and Theirs
+## Managing Emotions - Yours and Theirs
 
 Difficult conversations trigger emotional responses. That's normal. Here's how to handle it:
 
-**If they get upset,** don't rush to fix their feelings. Acknowledge what they're feeling — "I can see this is frustrating" — without backing away from the issue.
+**If they get upset,** don't rush to fix their feelings. Acknowledge what they're feeling - "I can see this is frustrating" - without backing away from the issue.
 
 **If you feel yourself getting reactive,** slow down. Take a breath. Say "Let me think about that for a second" to buy yourself time.
 
-**If the conversation goes off the rails,** pause. "Let's take a break and come back to this tomorrow" is not weakness — it's judgment.
+**If the conversation goes off the rails,** pause. "Let's take a break and come back to this tomorrow" is not weakness - it's judgment.
 
 ## The Async Complication
 
-Remote and [Web3 teams](/what-is-web3) often default to text — Discord, Telegram, Slack. This adds real complexity to difficult conversations.
+Remote and [Web3 teams](/what-is-web3) often default to text - Discord, Telegram, Slack. This adds real complexity to difficult conversations.
 
 Text strips out tone, facial expressions, and natural conversational pacing. A message you write carefully can land as blunt or hostile.
 
@@ -73,8 +74,8 @@ Rules of thumb for async difficult conversations:
 
 ## Follow Up
 
-The conversation isn't the end — it's the beginning. Whatever you agreed to, check back on it. If you said you'd revisit the situation in two weeks, actually do it. If the other person committed to a change, notice when they make it and acknowledge it.
+The conversation isn't the end - it's the beginning. Whatever you agreed to, check back on it. If you said you'd revisit the situation in two weeks, actually do it. If the other person committed to a change, notice when they make it and acknowledge it.
 
 Following up shows the conversation mattered. Skipping it sends the opposite message.
 
-Difficult conversations are a skill, not a personality trait. You get better by having more of them, preparing well, and learning from the ones that go sideways. In any work environment — especially one as distributed as Web3 — addressing problems directly is one of the most valuable things you bring to a team.
+Difficult conversations are a skill, not a personality trait. You get better by having more of them, preparing well, and learning from the ones that go sideways. In any work environment - especially one as distributed as Web3 - addressing problems directly is one of the most valuable things you bring to a team.

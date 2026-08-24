@@ -1,13 +1,13 @@
 ---
-
-title: "How to Pass a Solidity Technical Interview"
-image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
-data-ai-hint: "solidity job interview"
-description: "A full guide to acing your Solidity technical interview, covering common questions, live coding challenges, security concepts, and how to."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Pass a Solidity Technical Interview
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+data-ai-hint: solidity job interview
+description: >-
+  A full guide to acing your Solidity technical interview, covering common
+  questions, live coding challenges, security concepts, and how to.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The [Solidity](/best-programming-languages-for-blockchain-development) technical [interview](/how-to-prepare-for-job-interview) is a demanding process aimed at assessing your proficiency in the language, understanding of the Ethereum Virtual Machine (EVM), focus on security, and problem-solving abilities in a decentralized setting. Unlike standard software engineering interviews, Solidity interviews emphasize security, gas optimization, and essential [blockchain](/what-is-a-blockchain) principles.

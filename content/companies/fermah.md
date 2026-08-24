@@ -1,6 +1,6 @@
 ---
 name: Fermah
-website: https://fermah.xyz
+website: 'https://fermah.xyz'
 founded: 2023
 category: ZK Infrastructure
 headquarters: Remote
@@ -11,7 +11,7 @@ Universal ZK proof generation marketplace and infrastructure.
 
 ## Company Overview
 
-Fermah is building a universal proof generation layer — a marketplace connecting ZK proof requesters with proof generators to make zero-knowledge proofs more accessible and cost-effective.
+Fermah is building a universal proof generation layer - a marketplace connecting ZK proof requesters with proof generators to make zero-knowledge proofs more accessible and cost-effective.
 
 ## Open Positions
 

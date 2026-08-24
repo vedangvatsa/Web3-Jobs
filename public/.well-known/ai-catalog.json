@@ -1,0 +1,49 @@
+{
+  "$schema": "https://agenticresourcediscovery.org/schema/v1/ai-catalog.json",
+  "name": "Hashtag Web3",
+  "description": "Agentic resource discovery catalog for Hashtag Web3 — Web3 job board, crypto career tools, blockchain events, and technical glossary.",
+  "provider": {
+    "name": "Hashtag Web3 Inc.",
+    "url": "https://hashtagweb3.com"
+  },
+  "resources": [
+    {
+      "id": "openapi-spec",
+      "type": "openapi",
+      "name": "Hashtag Web3 REST API",
+      "description": "OpenAPI 3.1.0 specification for searching Web3 jobs, crypto news, events, and glossary definitions.",
+      "url": "https://hashtagweb3.com/openapi.json",
+      "version": "1.0.0"
+    },
+    {
+      "id": "mcp-server",
+      "type": "mcp",
+      "name": "Hashtag Web3 MCP Server",
+      "description": "Model Context Protocol server for searching blockchain jobs, glossary terms, events, and news.",
+      "url": "https://hashtagweb3.com/.well-known/mcp/server-card.json",
+      "transport": "streamable-http",
+      "endpoint": "https://hashtagweb3.com/api/mcp"
+    },
+    {
+      "id": "agent-card",
+      "type": "agent-card",
+      "name": "Hashtag Web3 Agent Card",
+      "description": "Agent-to-Agent (A2A) capabilities manifest.",
+      "url": "https://hashtagweb3.com/.well-known/agent-card.json"
+    },
+    {
+      "id": "agent-skills",
+      "type": "skills",
+      "name": "Hashtag Web3 Agent Skills",
+      "description": "Index of specialized skills for LLMs and autonomous agents.",
+      "url": "https://hashtagweb3.com/.well-known/agent-skills/index.json"
+    },
+    {
+      "id": "nlweb-ask",
+      "type": "nlweb",
+      "name": "NLWeb Natural Language Query",
+      "description": "Microsoft NLWeb protocol query endpoint with streaming support.",
+      "url": "https://hashtagweb3.com/ask"
+    }
+  ]
+}

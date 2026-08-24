@@ -1,12 +1,13 @@
 ---
-
-title: "Answering 'Why Web3?': Crafting Your Personal Narrative for Interviews"
-image: "/images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"
-data-ai-hint: "job interview question"
-description: "The most important question in a Web3 interview is 'Why are you here?'. This guide helps you craft a compelling and authentic story about your passion for."
-category: "Career Guides"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Answering ''Why Web3?'': Crafting Your Personal Narrative for Interviews'
+image: /images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg
+data-ai-hint: job interview question
+description: >-
+  The most important question in a Web3 interview is 'Why are you here?'. This
+  guide helps you craft a compelling and authentic story about your passion for.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In any [Web3](/what-is-web3) job [interview](/how-to-prepare-for-job-interview), you will almost certainly encounter the question:
@@ -39,7 +40,7 @@ This section represents your origin story. Identify the moment or concept that m
 * **Focus on a powerful, specific concept**:
  * **Example for a DeFi enthusiast**: "Having a background in traditional finance, my first experience using Aave to secure an instant, permissionless loan against my assets was significant. This moment illuminated the potential to reconstruct the financial system to be more accessible and efficient."
  * **Example for a creator-focused individual**: "The notion of [NFTs](/what-are-nfts) granting true digital ownership to artists captivated me. The idea of on-chain royalties, enabling creators to earn from the secondary market of their work indefinitely, struck me as a significant way to support artists."
- * **Example for a privacy advocate**: "Learning about decentralized identity and the concept of using zero-knowledge proofs to verify information without disclosing personal data was eye-opening. This realization highlighted that Web3 is about more than just financial transactions; it’s about building a more private and user-centered internet."
+ * **Example for a privacy advocate**: "Learning about decentralized identity and the concept of using zero-knowledge proofs to verify information without disclosing personal data was eye-opening. This realization highlighted that Web3 is about more than just financial transactions; it's about building a more private and user-centered internet."
 
 **Part 2: The Journey (Your "Proof of Work")**
 

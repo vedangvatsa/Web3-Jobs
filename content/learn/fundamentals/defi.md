@@ -1,51 +1,69 @@
 ---
-title: "DeFi: Banking Without Banks"
-description: "A complete overview of decentralized finance: DEXs, lending, yield, and how it all fits together."
+title: 'DeFi: Banking Without Banks'
+description: >-
+  A complete overview of decentralized finance: DEXs, lending, yield, and how it
+  all fits together.
 order: 14
-readTime: "11 min"
-difficulty: "beginner"
-prerequisites: ["daos"]
+readTime: 11 min
+difficulty: beginner
+prerequisites:
+  - daos
 quiz:
-  - question: "What is DeFi?"
+  - question: What is DeFi?
     options:
-      - "A type of cryptocurrency"
-      - "Financial services built on smart contracts, without banks or brokers"
-      - "A digital bank account"
-      - "A government financial program"
+      - A type of cryptocurrency
+      - 'Financial services built on smart contracts, without banks or brokers'
+      - A digital bank account
+      - A government financial program
     correct: 1
-    explanation: "DeFi (Decentralized Finance) rebuilds traditional financial services — trading, lending, borrowing, savings — using smart contracts instead of banks. Anyone with a wallet can use it, 24/7."
-  - question: "How does a DEX like Uniswap handle trading?"
+    explanation: >-
+      DeFi (Decentralized Finance) rebuilds traditional financial services -
+      trading, lending, borrowing, savings - using smart contracts instead of
+      banks. Anyone with a wallet can use it, 24/7.
+  - question: How does a DEX like Uniswap handle trading?
     options:
-      - "It matches buy and sell orders like a stock exchange"
-      - "It uses liquidity pools and a mathematical formula to set prices"
-      - "A human market maker sets the prices"
-      - "It connects to a bank's trading system"
+      - It matches buy and sell orders like a stock exchange
+      - It uses liquidity pools and a mathematical formula to set prices
+      - A human market maker sets the prices
+      - It connects to a bank's trading system
     correct: 1
-    explanation: "Uniswap uses an Automated Market Maker (AMM). Liquidity providers deposit token pairs into pools. A formula (x * y = k) determines the price based on the ratio of tokens in the pool."
-  - question: "What is 'collateral' in DeFi lending?"
+    explanation: >-
+      Uniswap uses an Automated Market Maker (AMM). Liquidity providers deposit
+      token pairs into pools. A formula (x * y = k) determines the price based
+      on the ratio of tokens in the pool.
+  - question: What is 'collateral' in DeFi lending?
     options:
-      - "The interest rate on a loan"
-      - "Crypto you lock up as security to borrow against"
-      - "A type of stablecoin"
-      - "The fee you pay to a smart contract"
+      - The interest rate on a loan
+      - Crypto you lock up as security to borrow against
+      - A type of stablecoin
+      - The fee you pay to a smart contract
     correct: 1
-    explanation: "To borrow in DeFi, you deposit crypto as collateral — typically worth 150%+ of what you borrow. If the value of your collateral drops too far, the smart contract automatically sells it to protect lenders."
-  - question: "What is 'Total Value Locked' (TVL)?"
+    explanation: >-
+      To borrow in DeFi, you deposit crypto as collateral - typically worth
+      150%+ of what you borrow. If the value of your collateral drops too far,
+      the smart contract automatically sells it to protect lenders.
+  - question: What is 'Total Value Locked' (TVL)?
     options:
-      - "The price of Ethereum"
-      - "The total amount of crypto deposited in DeFi smart contracts"
-      - "The number of DeFi users"
-      - "The market cap of all cryptocurrencies"
+      - The price of Ethereum
+      - The total amount of crypto deposited in DeFi smart contracts
+      - The number of DeFi users
+      - The market cap of all cryptocurrencies
     correct: 1
-    explanation: "TVL measures the total value of crypto deposited in DeFi protocols. A higher TVL generally means more liquidity and more trust in the protocol. As of 2024, total DeFi TVL exceeds $80 billion."
-  - question: "What is the biggest risk in DeFi?"
+    explanation: >-
+      TVL measures the total value of crypto deposited in DeFi protocols. A
+      higher TVL generally means more liquidity and more trust in the protocol.
+      As of 2024, total DeFi TVL exceeds $80 billion.
+  - question: What is the biggest risk in DeFi?
     options:
-      - "Internet speed"
-      - "Smart contract bugs that can lead to fund losses"
-      - "Government taxes"
-      - "Slow transactions"
+      - Internet speed
+      - Smart contract bugs that can lead to fund losses
+      - Government taxes
+      - Slow transactions
     correct: 1
-    explanation: "Smart contract risk is the biggest concern. If a contract has a bug, hackers can exploit it and drain funds. Billions of dollars have been lost to DeFi hacks. Always use audited protocols and start with small amounts."
+    explanation: >-
+      Smart contract risk is the biggest concern. If a contract has a bug,
+      hackers can exploit it and drain funds. Billions of dollars have been lost
+      to DeFi hacks. Always use audited protocols and start with small amounts.
 ---
 
 ## What DeFi replaces
@@ -62,8 +80,8 @@ Every financial service you use through a bank can be rebuilt with smart contrac
  <text x="190" y="115" text-anchor="middle" font-size="11" fill="#64748b">Savings: Bank savings accounts</text>
  <text x="190" y="135" text-anchor="middle" font-size="11" fill="#64748b">Insurance: Insurance companies</text>
  <line x1="40" y1="150" x2="340" y2="150" stroke="#fecaca"/>
- <text x="190" y="170" text-anchor="middle" font-size="11" fill="#ef4444">Mon-Fri 9-5 · KYC required</text>
- <text x="190" y="190" text-anchor="middle" font-size="11" fill="#ef4444">2-5 days to settle · Geography limits</text>
+ <text x="190" y="170" text-anchor="middle" font-size="11" fill="#ef4444">Mon-Fri 9-5 - KYC required</text>
+ <text x="190" y="190" text-anchor="middle" font-size="11" fill="#ef4444">2-5 days to settle - Geography limits</text>
 
  <!-- DeFi -->
  <rect x="420" y="20" width="340" height="190" rx="12" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
@@ -73,8 +91,8 @@ Every financial service you use through a bank can be rebuilt with smart contrac
  <text x="590" y="115" text-anchor="middle" font-size="11" fill="#64748b">Savings: Yield protocols</text>
  <text x="590" y="135" text-anchor="middle" font-size="11" fill="#64748b">Insurance: Nexus Mutual</text>
  <line x1="440" y1="150" x2="740" y2="150" stroke="#bbf7d0"/>
- <text x="590" y="170" text-anchor="middle" font-size="11" fill="#22c55e">24/7/365 · No KYC needed</text>
- <text x="590" y="190" text-anchor="middle" font-size="11" fill="#22c55e">Instant settlement · Global access</text>
+ <text x="590" y="170" text-anchor="middle" font-size="11" fill="#22c55e">24/7/365 - No KYC needed</text>
+ <text x="590" y="190" text-anchor="middle" font-size="11" fill="#22c55e">Instant settlement - Global access</text>
 </svg>
 </div>
 
@@ -84,7 +102,7 @@ DeFi is not one product. It is layers of protocols that work together, like Lego
 
 ### DEXs (Decentralized Exchanges)
 
-Trade tokens without a centralized exchange. Uniswap is the largest. Instead of matching buyers with sellers (like the stock market), it uses **liquidity pools** — pots of tokens deposited by users.
+Trade tokens without a centralized exchange. Uniswap is the largest. Instead of matching buyers with sellers (like the stock market), it uses **liquidity pools** - pots of tokens deposited by users.
 
 When you swap ETH for USDC, you are trading against a pool, not a person. The price is set by a formula based on the ratio of tokens in the pool. The more you buy, the more the price moves.
 
@@ -123,7 +141,7 @@ DeFi gives you access to financial tools without a middleman, but it also gives 
 
 ## Key takeaways
 
-- DeFi rebuilds banking (trading, lending, saving) using smart contracts — open 24/7, no KYC, global.
+- DeFi rebuilds banking (trading, lending, saving) using smart contracts - open 24/7, no KYC, global.
 - DEXs use liquidity pools and formulas instead of order books.
-- Lending requires over-collateralization — deposit more than you borrow.
-- DeFi gives access but also responsibility — bugs, liquidations, and scams are real risks.
+- Lending requires over-collateralization - deposit more than you borrow.
+- DeFi gives access but also responsibility - bugs, liquidations, and scams are real risks.

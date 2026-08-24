@@ -1,12 +1,22 @@
 ---
-term: "Data Availability Sampling"
-slug: "data-availability-sampling"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "A technique where nodes randomly sample small pieces of block data to probabilistically verify that full data is available, enabling scalable block sizes without full data download."
-relatedTerms: ["data-availability", "rollup", "scaling", "celestia"]
-synonyms: ["DAS", "data sampling", "availability sampling"]
+term: Data Availability Sampling
+slug: data-availability-sampling
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A technique where nodes randomly sample small pieces of block data to
+  probabilistically verify that full data is available, enabling scalable block
+  sizes without full data download.
+relatedTerms:
+  - data-availability
+  - rollup
+  - scaling
+  - celestia
+synonyms:
+  - DAS
+  - data sampling
+  - availability sampling
 ---
 
 Data Availability Sampling refers to a technique where nodes randomly sample small pieces of block data to probabilistically verify that the full data is available. This enables scalable block sizes without requiring every participant to download complete blocks. Rather than downloading entire blocks that could be gigabytes in size, nodes request only a handful of random chunks and use mathematical proofs to confirm data integrity with high confidence. Celestia, a modular blockchain launched in 2023, pioneered this approach as its core scaling mechanism, allowing light clients to verify data availability using minimal bandwidth and storage. DAS preserves decentralization by keeping hardware requirements low enough for ordinary users to run validating nodes. As modular blockchain architectures gain adoption, professionals who understand data availability sampling are increasingly sought after for roles in protocol development, infrastructure engineering, and blockchain scaling research.
@@ -95,4 +105,4 @@ Trends:
 
 ## Scale Without Full Data Downloads
 
-DAS is key to scalable, decentralized data availability. It enables light nodes to verify availability efficiently. If you’re interested in scaling, explore [infrastructure careers](/) at DA-layer teams.
+DAS is key to scalable, decentralized data availability. It enables light nodes to verify availability efficiently. If you're interested in scaling, explore [infrastructure careers](/) at DA-layer teams.

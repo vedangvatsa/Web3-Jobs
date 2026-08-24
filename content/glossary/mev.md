@@ -1,12 +1,22 @@
 ---
-term: "MEV (Maximal Extractable Value)"
-slug: "mev"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
-description: "The profit sophisticated actors can extract through transaction reordering and inclusion decisions, capturing value that users believe they're getting but is intercepted before execution."
-relatedTerms: ["mempool", "front-running", "sandwich-attack", "block-builder"]
-synonyms: ["extractable value", "miner/validator extractable value", "transaction value"]
+term: MEV (Maximal Extractable Value)
+slug: mev
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80'
+description: >-
+  The profit sophisticated actors can extract through transaction reordering and
+  inclusion decisions, capturing value that users believe they're getting but is
+  intercepted before execution.
+relatedTerms:
+  - mempool
+  - front-running
+  - sandwich-attack
+  - block-builder
+synonyms:
+  - extractable value
+  - miner/validator extractable value
+  - transaction value
 ---
 
 MEV (Maximal Extractable Value) refers to the profit that validators, block builders, and specialized searchers can capture by strategically reordering, inserting, or excluding transactions within a block before it is finalized on the blockchain. Originally called Miner Extractable Value before Ethereum's transition to proof-of-stake, MEV represents value that users expect to receive from their transactions but is intercepted by sophisticated actors who can see pending transactions in the mempool. A common example occurs on Uniswap, where a searcher detects a large pending swap, executes a buy order first to push the price up, lets the victim's trade execute at a worse price, then immediately sells for profit. Understanding MEV mechanics has become essential for blockchain engineers, protocol designers, and DeFi developers working to build fairer systems.

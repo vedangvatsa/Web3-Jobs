@@ -81,12 +81,12 @@ export default function LearnPage() {
           </div>
           <div className="flex items-center gap-4 mt-4 text-sm text-muted-foreground">
            <span>{coreCategory.lessonCount} lessons</span>
-           <span>·</span>
+           <span aria-hidden="true">-</span>
            <span className="flex items-center gap-1">
             <Clock className="h-3.5 w-3.5" />
             {(coreCategory as any).duration}
            </span>
-           <span>·</span>
+           <span aria-hidden="true">-</span>
            <Badge variant="secondary" className="text-[10px] uppercase bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200">
             Beginner
            </Badge>
@@ -119,7 +119,7 @@ export default function LearnPage() {
              </p>
              <div className="flex items-center gap-2 text-xs text-muted-foreground">
               <span>{category.lessonCount} lessons</span>
-              <span>·</span>
+              <span aria-hidden="true">-</span>
               <span>{(category as any).audience}</span>
              </div>
             </CardContent>

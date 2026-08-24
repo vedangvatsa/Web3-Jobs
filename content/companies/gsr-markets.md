@@ -1,9 +1,9 @@
 ---
 name: GSR Markets
-website: https://gsr.io
+website: 'https://gsr.io'
 founded: 2013
 category: Market Making & Trading
-headquarters: London, UK
+headquarters: 'London, UK'
 description: Global cryptocurrency market maker and algorithmic trading firm.
 ---
 

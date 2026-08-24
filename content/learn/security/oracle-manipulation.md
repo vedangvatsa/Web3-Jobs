@@ -1,51 +1,82 @@
 ---
-title: "Oracle Manipulation"
-description: "How price oracle attacks work and how protocols defend against them."
+title: Oracle Manipulation
+description: How price oracle attacks work and how protocols defend against them.
 order: 7
-readTime: "9 min"
-difficulty: "advanced"
-prerequisites: ["exploits"]
+readTime: 9 min
+difficulty: advanced
+prerequisites:
+  - exploits
 quiz:
-  - question: "What is a price oracle in DeFi?"
+  - question: What is a price oracle in DeFi?
     options:
-      - "A prediction market for token prices."
-      - "A system that feeds external price data into smart contracts."
-      - "A tool that predicts future prices using AI."
-      - "A decentralized exchange's order book."
+      - A prediction market for token prices.
+      - A system that feeds external price data into smart contracts.
+      - A tool that predicts future prices using AI.
+      - A decentralized exchange's order book.
     correct: 1
-    explanation: "An oracle is a bridge between off-chain data and on-chain smart contracts. Price oracles specifically feed asset prices that DeFi protocols use for lending, liquidations, and trading."
-  - question: "Why are spot price oracles dangerous for DeFi?"
+    explanation: >-
+      An oracle is a bridge between off-chain data and on-chain smart contracts.
+      Price oracles specifically feed asset prices that DeFi protocols use for
+      lending, liquidations, and trading.
+  - question: Why are spot price oracles dangerous for DeFi?
     options:
-      - "They are too slow."
-      - "An attacker can manipulate the spot price in a single transaction using flash loans, causing the oracle to report a fake price."
-      - "They cost too much gas."
-      - "They only work on Ethereum."
+      - They are too slow.
+      - >-
+        An attacker can manipulate the spot price in a single transaction using
+        flash loans, causing the oracle to report a fake price.
+      - They cost too much gas.
+      - They only work on Ethereum.
     correct: 1
-    explanation: "Using a DEX's current spot price as an oracle is dangerous because flash loans can artificially move the price in a single block. Time-weighted average prices (TWAPs) resist this by averaging over multiple blocks."
-  - question: "What is Chainlink and why is it the industry standard for price feeds?"
+    explanation: >-
+      Using a DEX's current spot price as an oracle is dangerous because flash
+      loans can artificially move the price in a single block. Time-weighted
+      average prices (TWAPs) resist this by averaging over multiple blocks.
+  - question: What is Chainlink and why is it the industry standard for price feeds?
     options:
-      - "A blockchain for NFTs."
-      - "A decentralized oracle network that aggregates price data from multiple off-chain sources, providing tamper-resistant price feeds that cannot be manipulated by a single actor."
-      - "A decentralized exchange."
-      - "A Layer 2 network."
+      - A blockchain for NFTs.
+      - >-
+        A decentralized oracle network that aggregates price data from multiple
+        off-chain sources, providing tamper-resistant price feeds that cannot be
+        manipulated by a single actor.
+      - A decentralized exchange.
+      - A Layer 2 network.
     correct: 1
-    explanation: "Chainlink aggregates prices from multiple data sources (exchanges, market makers) through a decentralized network of oracle nodes. Manipulating a Chainlink feed would require corrupting the majority of independent data sources simultaneously — far harder than manipulating a single DEX pool."
-  - question: "What is a TWAP and how does it defend against oracle manipulation?"
+    explanation: >-
+      Chainlink aggregates prices from multiple data sources (exchanges, market
+      makers) through a decentralized network of oracle nodes. Manipulating a
+      Chainlink feed would require corrupting the majority of independent data
+      sources simultaneously - far harder than manipulating a single DEX pool.
+  - question: What is a TWAP and how does it defend against oracle manipulation?
     options:
-      - "A type of token swap."
-      - "Time-Weighted Average Price — it averages prices over multiple blocks (e.g., 30 minutes), making single-block flash loan manipulation ineffective."
-      - "A trading strategy."
-      - "A smart contract language."
+      - A type of token swap.
+      - >-
+        Time-Weighted Average Price - it averages prices over multiple blocks
+        (e.g., 30 minutes), making single-block flash loan manipulation
+        ineffective.
+      - A trading strategy.
+      - A smart contract language.
     correct: 1
-    explanation: "A TWAP smooths out price over time. If an attacker flash-manipulates a DEX price in one block, the TWAP barely changes because it averages across hundreds of blocks. To meaningfully shift a TWAP, an attacker would need to sustain the manipulation for many blocks — which is extremely expensive."
-  - question: "What is a 'spot price oracle' and why is it dangerous?"
+    explanation: >-
+      A TWAP smooths out price over time. If an attacker flash-manipulates a DEX
+      price in one block, the TWAP barely changes because it averages across
+      hundreds of blocks. To meaningfully shift a TWAP, an attacker would need
+      to sustain the manipulation for many blocks - which is extremely
+      expensive.
+  - question: What is a 'spot price oracle' and why is it dangerous?
     options:
-      - "A price feed from a regulated exchange."
-      - "Reading the current instantaneous price from a single DEX pool — dangerous because a flash loan can move this price arbitrarily within a single transaction."
-      - "A Chainlink price feed."
-      - "An average of multiple exchange prices."
+      - A price feed from a regulated exchange.
+      - >-
+        Reading the current instantaneous price from a single DEX pool -
+        dangerous because a flash loan can move this price arbitrarily within a
+        single transaction.
+      - A Chainlink price feed.
+      - An average of multiple exchange prices.
     correct: 1
-    explanation: "Spot price = current price at this exact moment on one pool. A flash loan can deposit millions into a small pool, drastically changing the ratio and thus the price, use this manipulated price to exploit a lending protocol, and return the loan — all in one transaction."
+    explanation: >-
+      Spot price = current price at this exact moment on one pool. A flash loan
+      can deposit millions into a small pool, drastically changing the ratio and
+      thus the price, use this manipulated price to exploit a lending protocol,
+      and return the loan - all in one transaction.
 ---
 
 ## Why Oracles Matter

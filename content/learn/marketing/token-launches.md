@@ -1,56 +1,89 @@
 ---
-title: "Token Launch Strategy"
-description: "How Web3 protocols plan and execute token launches — from tokenomics design to exchange listings."
+title: Token Launch Strategy
+description: >-
+  How Web3 protocols plan and execute token launches - from tokenomics design to
+  exchange listings.
 order: 4
-readTime: "8 min"
-difficulty: "intermediate"
-prerequisites: ["community"]
+readTime: 8 min
+difficulty: intermediate
+prerequisites:
+  - community
 quiz:
-  - question: "What are 'tokenomics'?"
+  - question: What are 'tokenomics'?
     options:
-      - "The price history of a token"
-      - "The design of a token's supply, distribution, vesting schedules, and utility within a protocol"
-      - "A marketing strategy for promoting tokens"
-      - "The legal framework for token regulation"
+      - The price history of a token
+      - >-
+        The design of a token's supply, distribution, vesting schedules, and
+        utility within a protocol
+      - A marketing strategy for promoting tokens
+      - The legal framework for token regulation
     correct: 1
-    explanation: "Tokenomics is the economic design of a token: how many tokens exist, who gets them, when they unlock, what they're used for, and how supply changes over time. Bad tokenomics (e.g., team selling large unlocks) is one of the primary reasons tokens lose value."
-  - question: "Why do teams use vesting schedules for insider token allocations?"
+    explanation: >-
+      Tokenomics is the economic design of a token: how many tokens exist, who
+      gets them, when they unlock, what they're used for, and how supply changes
+      over time. Bad tokenomics (e.g., team selling large unlocks) is one of the
+      primary reasons tokens lose value.
+  - question: Why do teams use vesting schedules for insider token allocations?
     options:
-      - "To comply with SEC regulations"
-      - "To prevent insiders from dumping tokens immediately after launch, which would crash the price and destroy user trust"
-      - "Because smart contracts require vesting"
-      - "To make the token more scarce"
+      - To comply with SEC regulations
+      - >-
+        To prevent insiders from dumping tokens immediately after launch, which
+        would crash the price and destroy user trust
+      - Because smart contracts require vesting
+      - To make the token more scarce
     correct: 1
-    explanation: "If a team holds 20% of tokens with no lockup, they can sell everything on day one and walk away. Vesting schedules (e.g., 12-month cliff, 36-month linear unlock) force insiders to stay aligned with the project's long-term success. Users check vesting schedules before investing."
-  - question: "What is a 'cliff' in a vesting schedule?"
+    explanation: >-
+      If a team holds 20% of tokens with no lockup, they can sell everything on
+      day one and walk away. Vesting schedules (e.g., 12-month cliff, 36-month
+      linear unlock) force insiders to stay aligned with the project's long-term
+      success. Users check vesting schedules before investing.
+  - question: What is a 'cliff' in a vesting schedule?
     options:
-      - "The maximum price a token can reach"
-      - "A period after launch where no insider tokens unlock at all, typically 6-12 months"
-      - "The minimum amount of tokens required to vote"
-      - "A type of smart contract vulnerability"
+      - The maximum price a token can reach
+      - >-
+        A period after launch where no insider tokens unlock at all, typically
+        6-12 months
+      - The minimum amount of tokens required to vote
+      - A type of smart contract vulnerability
     correct: 1
-    explanation: "A cliff means zero tokens unlock for a set period after launch. A '12-month cliff with 36-month linear vesting' means: no tokens for year one, then tokens unlock gradually over the next three years. This protects early buyers from immediate insider selling."
-  - question: "What is a Token Generation Event (TGE)?"
+    explanation: >-
+      A cliff means zero tokens unlock for a set period after launch. A
+      '12-month cliff with 36-month linear vesting' means: no tokens for year
+      one, then tokens unlock gradually over the next three years. This protects
+      early buyers from immediate insider selling.
+  - question: What is a Token Generation Event (TGE)?
     options:
-      - "When a new blockchain is created"
-      - "The moment a token is first minted and distributed — when it starts trading on exchanges or DEXs"
-      - "A fundraising event for the development team"
-      - "An airdrop to all Ethereum users"
+      - When a new blockchain is created
+      - >-
+        The moment a token is first minted and distributed - when it starts
+        trading on exchanges or DEXs
+      - A fundraising event for the development team
+      - An airdrop to all Ethereum users
     correct: 1
-    explanation: "TGE is the launch day. The token smart contract is deployed, initial distributions occur (community allocation, liquidity pools), and trading begins. The circulating supply at TGE is a critical number — it determines initial price discovery and market cap."
-  - question: "What percentage of supply is typically circulating at TGE for a well-designed token?"
+    explanation: >-
+      TGE is the launch day. The token smart contract is deployed, initial
+      distributions occur (community allocation, liquidity pools), and trading
+      begins. The circulating supply at TGE is a critical number - it determines
+      initial price discovery and market cap.
+  - question: >-
+      What percentage of supply is typically circulating at TGE for a
+      well-designed token?
     options:
-      - "100%"
-      - "5-15%, with the rest locked in vesting contracts"
-      - "50%"
-      - "0% — all tokens are locked initially"
+      - 100%
+      - '5-15%, with the rest locked in vesting contracts'
+      - 50%
+      - 0% - all tokens are locked initially
     correct: 1
-    explanation: "Most well-structured launches put 5-15% of supply in circulation at TGE (for liquidity, airdrops, and community rewards). The rest unlocks over 3-5 years. This creates a predictable supply schedule. If too much circulates at launch, there is heavy sell pressure."
+    explanation: >-
+      Most well-structured launches put 5-15% of supply in circulation at TGE
+      (for liquidity, airdrops, and community rewards). The rest unlocks over
+      3-5 years. This creates a predictable supply schedule. If too much
+      circulates at launch, there is heavy sell pressure.
 ---
 
 ## Token Launches Are Protocol-Defining Events
 
-A token launch is not just a marketing milestone — it fundamentally restructures a protocol's incentives, governance, and economics. A well-executed launch aligns the community, creates sustainable liquidity, and establishes long-term value. A poorly executed launch destroys trust in hours.
+A token launch is not just a marketing milestone - it fundamentally restructures a protocol's incentives, governance, and economics. A well-executed launch aligns the community, creates sustainable liquidity, and establishes long-term value. A poorly executed launch destroys trust in hours.
 
 ## Designing Tokenomics
 
@@ -74,24 +107,24 @@ Who gets the tokens?
 
  <!-- Community -->
  <rect x="40" y="45" width="300" height="35" rx="6" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5"/>
- <text x="190" y="67" text-anchor="middle" font-size="11" font-weight="bold" fill="#166534">Community / Ecosystem — 40%</text>
+ <text x="190" y="67" text-anchor="middle" font-size="11" font-weight="bold" fill="#166534">Community / Ecosystem - 40%</text>
 
  <!-- Team -->
  <rect x="40" y="85" width="150" height="35" rx="6" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
- <text x="115" y="107" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e40af">Team — 20%</text>
+ <text x="115" y="107" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e40af">Team - 20%</text>
  <text x="200" y="107" font-size="9" fill="#64748b">🔒 vested</text>
 
  <!-- Investors -->
  <rect x="40" y="125" width="112" height="35" rx="6" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
- <text x="96" y="147" text-anchor="middle" font-size="11" font-weight="bold" fill="#854d0e">Investors — 15%</text>
+ <text x="96" y="147" text-anchor="middle" font-size="11" font-weight="bold" fill="#854d0e">Investors - 15%</text>
  <text x="160" y="147" font-size="9" fill="#64748b">🔒 vested</text>
 
  <!-- Treasury + Liquidity -->
  <rect x="420" y="45" width="110" height="35" rx="6" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
- <text x="475" y="67" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Treasury — 15%</text>
+ <text x="475" y="67" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Treasury - 15%</text>
 
  <rect x="420" y="85" width="75" height="35" rx="6" fill="#fff7ed" stroke="#f97316" stroke-width="1.5"/>
- <text x="457" y="107" text-anchor="middle" font-size="11" font-weight="bold" fill="#c2410c">Liquidity — 10%</text>
+ <text x="457" y="107" text-anchor="middle" font-size="11" font-weight="bold" fill="#c2410c">Liquidity - 10%</text>
 
  <!-- Legend -->
  <rect x="420" y="135" width="8" height="8" rx="2" fill="#dcfce7" stroke="#22c55e" stroke-width="1"/>
@@ -147,19 +180,19 @@ How does protocol revenue flow back to token holders?
 ### Pre-Launch (Months Before)
 1. Audit the token contract (ERC-20 with vesting logic).
 2. Set up vesting contracts for team and investors using tools like Sablier or Hedgey.
-3. Establish initial DEX liquidity — typically through a Liquidity Bootstrapping Pool (LBP) on Balancer, which starts at a high price and decreases until demand stabilizes.
+3. Establish initial DEX liquidity - typically through a Liquidity Bootstrapping Pool (LBP) on Balancer, which starts at a high price and decreases until demand stabilizes.
 4. Finalize airdrop criteria (snapshot block number, eligibility rules).
 
 ### Launch Day (TGE)
 1. Deploy the token contract to mainnet.
 2. Seed DEX liquidity pools (e.g., TOKEN/ETH on Uniswap).
-3. Execute the airdrop — distribute tokens to eligible wallets.
+3. Execute the airdrop - distribute tokens to eligible wallets.
 4. Publish all contract addresses, tokenomics documentation, and vesting schedules publicly.
 
 ### Post-Launch (Ongoing)
-1. Monitor liquidity depth — thin liquidity causes extreme price swings.
-2. Track token distribution — is it concentrating in few wallets?
-3. Manage governance proposals — the community now has voting power.
+1. Monitor liquidity depth - thin liquidity causes extreme price swings.
+2. Track token distribution - is it concentrating in few wallets?
+3. Manage governance proposals - the community now has voting power.
 4. Communicate unlock schedules in advance to avoid surprise sell-offs.
 
 ## Common Mistakes
@@ -171,7 +204,7 @@ How does protocol revenue flow back to token holders?
 
 ## Key takeaways
 
-- Tokenomics is the economic architecture of a token — supply, allocation, vesting, utility, and value accrual.
+- Tokenomics is the economic architecture of a token - supply, allocation, vesting, utility, and value accrual.
 - Insider tokens (team, investors) must vest. Standard: 12-month cliff, 36-month unlock.
 - 5-15% of supply typically circulates at TGE; the rest unlocks predictably over years.
 - A token without clear utility or value accrual mechanism is pure speculation.

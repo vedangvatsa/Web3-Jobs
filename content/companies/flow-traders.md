@@ -1,6 +1,6 @@
 ---
 name: Flow Traders
-website: https://flowtraders.com
+website: 'https://flowtraders.com'
 category: Other
 description: Global technology-enabled liquidity provider in financial markets.
 ---

@@ -1,13 +1,13 @@
 ---
-
-title: "The Top 10 Essential Skills for a growing Career in Web3"
-description: "Want to break into Web3? The rules are different. This guide breaks down the top 10 most in-demand skills, both technical and non-technical, that you need."
-image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
-category: "Career Guides"
-data-ai-hint: "glowing orb"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: The Top 10 Essential Skills for a growing Career in Web3
+description: >-
+  Want to break into Web3? The rules are different. This guide breaks down the
+  top 10 most in-demand skills, both technical and non-technical, that you need.
+image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
+category: Career Guides
+data-ai-hint: glowing orb
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: The Web3 Talent Gap

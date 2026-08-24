@@ -1,13 +1,14 @@
 ---
-
 title: Public Speaking Tips for Professionals
-description: Go from a nervous speaker to a confident presenter with these practical public speaking tips. Learn how to structure your speech, engage your audience, and deliver with impact.
-image: https://picsum.photos/seed/public-speaking/1200/630
+description: >-
+  Go from a nervous speaker to a confident presenter with these practical public
+  speaking tips. Learn how to structure your speech, engage your audience, and
+  deliver with impact.
+image: 'https://picsum.photos/seed/public-speaking/1200/630'
 category: Career Guides
 data-ai-hint: person speaking
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: The Essential Leadership Skill
@@ -88,7 +89,7 @@ Slides should serve as visual aids, not scripts. They are designed for your audi
 | **Use Images, Not Words** | Incorporate high-quality images, simple charts, and diagrams |
 | **The 6x6 Rule** | Limit to six bullet points per slide and six words per bullet point |
 
-If your slides contain lengthy paragraphs,  simplifying the content.
+If your slides contain lengthy paragraphs, simplifying the content.
 
 ### 8. The Art of Practice
 

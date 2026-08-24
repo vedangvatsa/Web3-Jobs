@@ -1,10 +1,12 @@
 ---
 name: Match-Trade Technologies
-website: https://match-trade.com
+website: 'https://match-trade.com'
 founded: 2013
 category: Trading Technology
-headquarters: Limassol, Cyprus
-description: A financial technology provider offering software solutions for Forex brokers and prop trading firms.
+headquarters: 'Limassol, Cyprus'
+description: >-
+  A financial technology provider offering software solutions for Forex brokers
+  and prop trading firms.
 ---
 
 Match-Trade Technologies is a financial technology company that provides detailed software solutions for Forex brokers, liquidity providers, and proprietary (prop) trading firms. Established in 2013, the company specializes in delivering turnkey trading environments and proprietary technology.

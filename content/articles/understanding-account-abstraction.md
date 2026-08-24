@@ -1,13 +1,14 @@
 ---
-
-title: "Account Abstraction Explained: How Smart Wallets Improve Web3 Onboarding"
-image: "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg"
-description: "A deep dive into Account Abstraction (EIP-4337), explaining how it works, specific UX improvements it enables (social recovery, gasless transactions, MFA), and how it reduces Web3 onboarding friction."
-category: "Technology Deep Dives"
-data-ai-hint: "abstract shapes"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Account Abstraction Explained: How Smart Wallets Improve Web3 Onboarding'
+image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
+description: >-
+  A deep dive into Account Abstraction (EIP-4337), explaining how it works,
+  specific UX improvements it enables (social recovery, gasless transactions,
+  MFA), and how it reduces Web3 onboarding friction.
+category: Technology Deep Dives
+data-ai-hint: abstract shapes
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: The Final Frontier for Web3 Adoption
@@ -29,7 +30,7 @@ The rigidity of EOAs presents a significant problem. The security of digital ide
 
 ## The Solution: Smart Contract Wallets and EIP-4337
 
-Account Abstraction seeks to merge EOAs and Contract Accounts by allowing a user’s primary wallet to function as a smart contract. This transformation makes user accounts programmable, presenting numerous possibilities.
+Account Abstraction seeks to merge EOAs and Contract Accounts by allowing a user's primary wallet to function as a smart contract. This transformation makes user accounts programmable, presenting numerous possibilities.
 
 Historically, implementing this change required a fundamental alteration of the Ethereum protocol, a complex and contentious process. **EIP-4337** provides a solution that achieves Account Abstraction without modifying the core consensus layer. It accomplishes this by establishing a separate, higher-level mempool for unique transaction objects known as `UserOperations`.
 

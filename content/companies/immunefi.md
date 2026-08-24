@@ -1,6 +1,6 @@
 ---
 name: Immunefi
-website: https://immunefi.com
+website: 'https://immunefi.com'
 founded: 2020
 category: Web3 Security
 headquarters: Remote

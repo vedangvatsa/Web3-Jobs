@@ -1,9 +1,9 @@
 ---
 name: Andreessen Horowitz
-website: https://a16z.com
+website: 'https://a16z.com'
 founded: 2009
 category: Venture Capital
-headquarters: Menlo Park, California
+headquarters: 'Menlo Park, California'
 description: Leading VC firm with a dedicated crypto fund (a16z crypto)
 ---
 

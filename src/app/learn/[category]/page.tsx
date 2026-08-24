@@ -13,8 +13,9 @@ interface Props {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
  const category = getCategory(params.category);
  if (!category) return {};
+ const siteUrl = 'https://hashtagweb3.com';
  const pageTitle = `${category.title} - Learn Web3`;
- const ogImageUrl = `/api/og?type=article&title=${encodeURIComponent(category.title)}&category=Learn%20Web3`;
+ const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(category.title)}&category=Learn%20Web3`;
  return {
   title: pageTitle,
   description: category.description,

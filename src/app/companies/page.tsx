@@ -17,13 +17,13 @@ export const metadata: Metadata = {
   title: 'Web3 Companies Hiring - Browse Top Blockchain Companies',
   description: 'Explore Web3 companies actively hiring. Find jobs at leading blockchain, DeFi, and crypto companies.',
   url: 'https://hashtagweb3.com/companies',
-  images: [{ url: '/api/og?type=default&title=Web3%20Companies', width: 1200, height: 630, alt: 'Web3 Companies hiring in crypto and blockchain' }],
+  images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Companies', width: 1200, height: 630, alt: 'Web3 Companies hiring in crypto and blockchain' }],
  },
  twitter: {
   card: 'summary_large_image',
   title: 'Web3 Companies Hiring - Browse Top Blockchain Companies',
   description: 'Explore Web3 companies actively hiring in blockchain, DeFi, and crypto.',
-  images: ['/api/og?type=default&title=Web3%20Companies'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Companies'],
  },
 };
 
@@ -70,7 +70,7 @@ export default async function CompaniesPage() {
      </div>
     </section>
 
-    {/* Top Hiring — Horizontal Bar Chart */}
+    {/* Top Hiring - Horizontal Bar Chart */}
     <section className="bg-muted/30 border-y">
      <div className="container mx-auto px-4 page-section max-w-6xl">
       <div className="mb-8">

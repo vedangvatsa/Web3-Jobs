@@ -1,13 +1,13 @@
 ---
-
-title: "What is a DAO? A Beginner's Guide to Decentralized Orgs"
-image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
-description: "What is a Decentralized Autonomous Organization (DAO)? This beginner's guide explains the core concepts of DAOs, how they work, and why they matter."
-category: "Industry Insights"
-data-ai-hint: "dao explained"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is a DAO? A Beginner's Guide to Decentralized Orgs
+image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
+description: >-
+  What is a Decentralized Autonomous Organization (DAO)? This beginner's guide
+  explains the core concepts of DAOs, how they work, and why they matter.
+category: Industry Insights
+data-ai-hint: dao explained
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 A DAO is a Decentralized Autonomous Organization. It's an organization that runs on a [blockchain](/what-is-a-blockchain) instead of having a traditional management structure. Instead of a CEO making decisions, a DAO's decisions get made through votes by [token](/what-is-a-token) holders.

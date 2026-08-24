@@ -1,13 +1,13 @@
 ---
-
-title: "Career Guide: Web3 Decentralized Exchange (DEX) Developer"
-image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
-description: "A step-by-step guide on how to build a career as a DEX developer. Learn the required skills, from Solidity to understanding liquidity pools and AMMs."
-category: "Career Guides"
-data-ai-hint: "dex developer"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Career Guide: Web3 Decentralized Exchange (DEX) Developer'
+image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
+description: >-
+  A step-by-step guide on how to build a career as a DEX developer. Learn the
+  required skills, from Solidity to understanding liquidity pools and AMMs.
+category: Career Guides
+data-ai-hint: dex developer
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Decentralized exchanges (DEXs) are critical infrastructure in [Web3](/what-is-web3). Uniswap, Curve, and other DEXs enable significant trading volume daily. Building [DEX](/what-is-a-decentralized-exchange-dex) infrastructure, features, and integrations creates opportunities for developers.

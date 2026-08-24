@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/resume-builder',
   images: [
    {
-    url: '/api/og?type=default&title=Free%20Resume%20Builder',
+    url: 'https://hashtagweb3.com/api/og?type=default&title=Free%20Resume%20Builder',
     width: 1200,
     height: 630,
     alt: 'Free Resume Builder',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Free Professional Resume Builder',
   description: 'Craft a professional resume tailored for the modern job market. Highlight your unique skills and experience to stand out to recruiters and land your dream role.',
-  images: ['/api/og?type=default&title=Free%20Resume%20Builder'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Free%20Resume%20Builder'],
  },
 };
 

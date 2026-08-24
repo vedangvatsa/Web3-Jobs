@@ -1,12 +1,14 @@
 ---
-
-title: "What does Jack Dorsey think about Web3"
-description: "Explore the perspective of Jack Dorsey, co-founder of Twitter and Block (formerly Square), on Web3. This guide covers his staunch Bitcoin maximalism, his."
-image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
-category: "Industry Insights"
-data-ai-hint: "man walking"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What does Jack Dorsey think about Web3
+description: >-
+  Explore the perspective of Jack Dorsey, co-founder of Twitter and Block
+  (formerly Square), on Web3. This guide covers his staunch Bitcoin maximalism,
+  his.
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+category: Industry Insights
+data-ai-hint: man walking
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: The Bitcoin Advocate
@@ -29,7 +31,7 @@ He asserts that much of what is labeled "Web3" lacks true decentralization. Inst
 
 ### Critiques of "Web3"
 
-1. **Venture Capital (VC) Influence:** Dorsey’s foremost critique points to the dominance of venture capital firms in the "Web3" ecosystem, particularly Andreessen Horowitz (a16z). He famously stated, "You don't own 'web3.' The VCs and their LPs do. It will never escape their incentives." He argues that since VCs hold significant equity stakes in the companies building "Web3" infrastructure and control substantial amounts of their [tokens](/what-is-a-token), these networks do not genuinely serve users' interests and instead cater to their financial backers.
+1. **Venture Capital (VC) Influence:** Dorsey's foremost critique points to the dominance of venture capital firms in the "Web3" ecosystem, particularly Andreessen Horowitz (a16z). He famously stated, "You don't own 'web3.' The VCs and their LPs do. It will never escape their incentives." He argues that since VCs hold significant equity stakes in the companies building "Web3" infrastructure and control substantial amounts of their [tokens](/what-is-a-token), these networks do not genuinely serve users' interests and instead cater to their financial backers.
 
 2. **A Different Kind of Control:** Dorsey believes that "Web3" does not represent a new model but merely rebrands the existing one. Users transition from being governed by corporations like Facebook and Google to being subject to the control of VCs. This shift does not liberate users; they simply find themselves under the influence of a different centralized authority.
 

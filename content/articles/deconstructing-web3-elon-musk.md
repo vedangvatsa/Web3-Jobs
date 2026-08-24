@@ -1,13 +1,13 @@
 ---
-
-title: "Deconstructing Web3: An Analysis of Elon Musk's Stance"
-image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
-description: "A full look at Elon Musk's public statements, investments, and actions related to Web3, cryptocurrencies, and decentralization to understand his."
-category: "Industry Insights"
-data-ai-hint: "man space suit"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Deconstructing Web3: An Analysis of Elon Musk''s Stance'
+image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
+description: >-
+  A full look at Elon Musk's public statements, investments, and actions related
+  to Web3, cryptocurrencies, and decentralization to understand his.
+category: Industry Insights
+data-ai-hint: man space suit
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: The Musk Factor in Web3

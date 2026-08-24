@@ -1,12 +1,21 @@
 ---
-term: "Proto-Danksharding"
-slug: "proto-danksharding"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
-description: "An Ethereum upgrade (EIP-4844) that introduces blob-carrying transactions to reduce rollup data costs, serving as a stepping stone to full danksharding."
-relatedTerms: ["eip-4844", "data-availability", "rollup", "scaling"]
-synonyms: ["EIP-4844", "blob transactions", "proto-sharding"]
+term: Proto-Danksharding
+slug: proto-danksharding
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80'
+description: >-
+  An Ethereum upgrade (EIP-4844) that introduces blob-carrying transactions to
+  reduce rollup data costs, serving as a stepping stone to full danksharding.
+relatedTerms:
+  - eip-4844
+  - data-availability
+  - rollup
+  - scaling
+synonyms:
+  - EIP-4844
+  - blob transactions
+  - proto-sharding
 ---
 
 Proto-Danksharding refers to Ethereum's EIP-4844 upgrade that introduced blob-carrying transactions, a new data type specifically designed to reduce costs for layer 2 rollups. Unlike traditional calldata that competes for block space with regular transactions, blobs provide dedicated temporary storage that validators do not need to process permanently, making data availability substantially cheaper. Blobs are stored for approximately 18 days before being pruned, which is sufficient for rollups to finalize their state while avoiding permanent blockchain bloat. This upgrade serves as a stepping stone toward full danksharding, which will expand data availability capacity through data availability sampling across multiple shards. Professionals who understand proto-danksharding mechanics are increasingly sought after for roles in rollup development, infrastructure optimization, and blockchain scaling research.
@@ -93,4 +102,4 @@ Trends:
 
 ## Cheap Data Availability for Rollups
 
-Proto-danksharding is a major Ethereum scaling milestone enabling cheaper rollup data. Understanding it is important for layer 2 economics. If you’re interested in scaling, explore [scaling careers](/) at rollup teams.
+Proto-danksharding is a major Ethereum scaling milestone enabling cheaper rollup data. Understanding it is important for layer 2 economics. If you're interested in scaling, explore [scaling careers](/) at rollup teams.

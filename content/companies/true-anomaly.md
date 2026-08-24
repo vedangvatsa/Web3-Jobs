@@ -1,9 +1,9 @@
 ---
 name: True Anomaly
-website: https://trueanomaly.space
+website: 'https://trueanomaly.space'
 founded: 2022
 category: Space / Defense Tech
-headquarters: Denver, Colorado
+headquarters: 'Denver, Colorado'
 description: Space domain awareness and orbital operations company
 ---
 

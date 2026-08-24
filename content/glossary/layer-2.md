@@ -1,13 +1,24 @@
 ---
-term: "Layer 2"
-slug: "layer-2"
-category: "protocols"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1080"
-imageAlt: "Blockchain scaling and layer 2 networks"
-description: "Scaling solutions built on top of a base blockchain (Layer 1) that process transactions off-chain while inheriting the security of the underlying network."
-relatedTerms: ["Ethereum", "Rollup", "Sidechain", "Gas Fee", "Scaling"]
-synonyms: ["L2", "Layer Two", "L2 Solution"]
+term: Layer 2
+slug: layer-2
+category: protocols
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1080'
+imageAlt: Blockchain scaling and layer 2 networks
+description: >-
+  Scaling solutions built on top of a base blockchain (Layer 1) that process
+  transactions off-chain while inheriting the security of the underlying
+  network.
+relatedTerms:
+  - Ethereum
+  - Rollup
+  - Sidechain
+  - Gas Fee
+  - Scaling
+synonyms:
+  - L2
+  - Layer Two
+  - L2 Solution
 ---
 
 Layer 2 refers to scaling solutions built on top of a base blockchain, known as Layer 1, that process transactions off the main chain while inheriting the security guarantees of the underlying network. These protocols address the blockchain trilemma by enabling higher transaction throughput and lower fees without sacrificing decentralization. Arbitrum, one of the leading Layer 2 solutions for Ethereum, exemplifies this approach by using optimistic rollup technology to batch transactions together before submitting them to the main chain. Popular applications including decentralized exchanges, lending protocols, and NFT marketplaces have migrated to Layer 2 networks to offer users near-instant transactions at a fraction of mainnet costs. For professionals entering the Web3 space, expertise in Layer 2 architecture and development has become increasingly valuable as major protocols prioritize scalability solutions in their technical roadmaps.

@@ -1,13 +1,14 @@
 ---
-
-title: "What is MEV? The Invisible Tax on Web3 Explained"
-image: "https://picsum.photos/seed/24/1200/630"
-description: "Maximal Extractable Value (MEV) is one of the most powerful and complex forces in crypto. Learn what it is, how it works, and its impact on the Web3 ecosystem."
-category: "Technology Deep Dives"
-data-ai-hint: "blockchain data"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is MEV? The Invisible Tax on Web3 Explained
+image: 'https://picsum.photos/seed/24/1200/630'
+description: >-
+  Maximal Extractable Value (MEV) is one of the most powerful and complex forces
+  in crypto. Learn what it is, how it works, and its impact on the Web3
+  ecosystem.
+category: Technology Deep Dives
+data-ai-hint: blockchain data
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## What is MEV? The Invisible Tax on Web3 Explained
@@ -24,15 +25,15 @@ Block producers choose transactions from the mempool to assemble the next block.
 
 Sandwich attacks exemplify a common form of MEV. This front-running tactic targets users executing large trades on decentralized exchanges (DEXs).
 
-Here’s a detailed process of a sandwich attack:
+Here's a detailed process of a sandwich attack:
 
 1. **The Bait**: A user submits a large purchase order for Token Y using Token X on a DEX like Uniswap.
 2. **The Searcher**: Bots, known as "MEV searchers," monitor the mempool for opportunities. A searcher bot identifies the user's large buy order.
 3. **The Front-run**: The searcher bot submits a transaction to buy Token Y with a slightly higher gas fee than the user's transaction, ensuring its priority in execution. This action raises Token Y's price slightly due to the automated market maker (AMM) mechanics.
-4. **The User's Trade**: The user’s transaction executes at a worse price than expected, resulting in **slippage**.
-5. **The Back-run**: The searcher bot quickly submits another transaction to sell the Token Y purchased earlier. The price, now improve by the user’s trade, allows the searcher to sell for a profit. This transaction has a lower gas fee to ensure it executes after the user’s trade.
+4. **The User's Trade**: The user's transaction executes at a worse price than expected, resulting in **slippage**.
+5. **The Back-run**: The searcher bot quickly submits another transaction to sell the Token Y purchased earlier. The price, now improve by the user's trade, allows the searcher to sell for a profit. This transaction has a lower gas fee to ensure it executes after the user's trade.
 
-In this scenario, the user’s trade is "sandwiched" between the searcher's buy and sell orders. The searcher secures a risk-free profit, while the user faces a disadvantage in execution price. This profit embodies the Maximal Extractable Value.
+In this scenario, the user's trade is "sandwiched" between the searcher's buy and sell orders. The searcher secures a risk-free profit, while the user faces a disadvantage in execution price. This profit embodies the Maximal Extractable Value.
 
 ### Other Forms of MEV
 

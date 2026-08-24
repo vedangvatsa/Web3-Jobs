@@ -1,51 +1,79 @@
 ---
-title: "Using Foundry and Slither"
-description: "The professional toolkit for testing and auditing smart contracts."
+title: Using Foundry and Slither
+description: The professional toolkit for testing and auditing smart contracts.
 order: 3
-readTime: "8 min"
-difficulty: "advanced"
-prerequisites: ["exploits"]
+readTime: 8 min
+difficulty: advanced
+prerequisites:
+  - exploits
 quiz:
-  - question: "What is Foundry?"
+  - question: What is Foundry?
     options:
-      - "A blockchain network"
-      - "A blazing fast, Rust-based testing framework for Solidity developers"
-      - "A decentralized exchange"
-      - "A visual code editor"
+      - A blockchain network
+      - 'A blazing fast, Rust-based testing framework for Solidity developers'
+      - A decentralized exchange
+      - A visual code editor
     correct: 1
-    explanation: "Foundry is the industry standard toolchain for smart contract development. Written in Rust, it allows developers to write their tests directly in Solidity and execute them incredibly fast."
-  - question: "What is 'Fuzz Testing'?"
+    explanation: >-
+      Foundry is the industry standard toolchain for smart contract development.
+      Written in Rust, it allows developers to write their tests directly in
+      Solidity and execute them incredibly fast.
+  - question: What is 'Fuzz Testing'?
     options:
-      - "Testing the code while sleepy"
-      - "A testing method where a tool generates thousands of random inputs to throw at your functions to see if they break"
-      - "Testing the user interface styling"
-      - "Checking the code for spelling errors"
+      - Testing the code while sleepy
+      - >-
+        A testing method where a tool generates thousands of random inputs to
+        throw at your functions to see if they break
+      - Testing the user interface styling
+      - Checking the code for spelling errors
     correct: 1
-    explanation: "Fuzz testing (supported natively by Foundry) feeds a massive amount of random data into your functions. This helps uncover edge cases and vulnerabilities that a developer might not think to test manually."
-  - question: "What is Slither?"
+    explanation: >-
+      Fuzz testing (supported natively by Foundry) feeds a massive amount of
+      random data into your functions. This helps uncover edge cases and
+      vulnerabilities that a developer might not think to test manually.
+  - question: What is Slither?
     options:
-      - "A malicious smart contract"
-      - "A Python-based static analysis tool that automatically scans Solidity code for known vulnerabilities"
-      - "A type of cryptocurrency"
-      - "A blockchain explorer"
+      - A malicious smart contract
+      - >-
+        A Python-based static analysis tool that automatically scans Solidity
+        code for known vulnerabilities
+      - A type of cryptocurrency
+      - A blockchain explorer
     correct: 1
-    explanation: "Slither is a static analyzer. You point it at your codebase, and within seconds it prints out a report of potential security flaws, like missing access controls or reentrancy risks."
-  - question: "Why is writing tests in Solidity (via Foundry) preferred over writing them in JavaScript (via Hardhat) for deep security?"
+    explanation: >-
+      Slither is a static analyzer. You point it at your codebase, and within
+      seconds it prints out a report of potential security flaws, like missing
+      access controls or reentrancy risks.
+  - question: >-
+      Why is writing tests in Solidity (via Foundry) preferred over writing them
+      in JavaScript (via Hardhat) for deep security?
     options:
-      - "JavaScript is too slow"
-      - "It allows developers to use the exact same language and math libraries for testing as they do for the protocol itself, reducing context switching and translation errors"
-      - "JavaScript cannot connect to the blockchain"
-      - "Hardhat is illegal"
+      - JavaScript is too slow
+      - >-
+        It allows developers to use the exact same language and math libraries
+        for testing as they do for the protocol itself, reducing context
+        switching and translation errors
+      - JavaScript cannot connect to the blockchain
+      - Hardhat is illegal
     correct: 1
-    explanation: "While Hardhat (JS/TS) is great for frontend integration, Foundry allows security engineers to write tests in Solidity. This means they can use precise EVM math and state manipulations without dealing with JavaScript's BigNumber conversions."
-  - question: "Does getting a clean report from Slither mean the contract is safe?"
+    explanation: >-
+      While Hardhat (JS/TS) is great for frontend integration, Foundry allows
+      security engineers to write tests in Solidity. This means they can use
+      precise EVM math and state manipulations without dealing with JavaScript's
+      BigNumber conversions.
+  - question: Does getting a clean report from Slither mean the contract is safe?
     options:
-      - "Yes, Slither catches everything"
-      - "No, static analyzers only catch known patterns; they cannot understand the specific business logic or economic design flaws of your protocol"
-      - "Yes, if Foundry tests also pass"
-      - "No, because Python is unreliable"
+      - 'Yes, Slither catches everything'
+      - >-
+        No, static analyzers only catch known patterns; they cannot understand
+        the specific business logic or economic design flaws of your protocol
+      - 'Yes, if Foundry tests also pass'
+      - 'No, because Python is unreliable'
     correct: 1
-    explanation: "Tools like Slither are the absolute bare minimum first step. They catch common mistakes (like uninitialized variables), but they cannot tell you if your tokenomics are flawed or if your oracle can be manipulated."
+    explanation: >-
+      Tools like Slither are the absolute bare minimum first step. They catch
+      common mistakes (like uninitialized variables), but they cannot tell you
+      if your tokenomics are flawed or if your oracle can be manipulated.
 ---
 
 ## The Auditor's Toolkit

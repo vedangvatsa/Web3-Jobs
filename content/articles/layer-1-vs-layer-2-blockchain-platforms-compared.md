@@ -1,13 +1,13 @@
 ---
-
-title: "Layer 1 vs Layer 2 Blockchain Platforms Compared"
-image: "/images/nasa-cIX5TlQ_FgM-unsplash.jpg"
-data-ai-hint: "blockchain layers comparison"
-description: "A full comparison of Layer 1 (L1) and Layer 2 (L2) blockchain platforms. Understand their different roles, security models, and how they work."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Layer 1 vs Layer 2 Blockchain Platforms Compared
+image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
+data-ai-hint: blockchain layers comparison
+description: >-
+  A full comparison of Layer 1 (L1) and Layer 2 (L2) blockchain platforms.
+  Understand their different roles, security models, and how they work.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The conversation around blockchain scalability focuses on two main categories: **Layer 1 (L1)** and **Layer 2 (L2)**. Understanding the differences between these platforms is essential for developers, users, and investors in the [Web3](/what-is-web3) ecosystem. L1 and L2 represent distinct approaches to addressing the **[blockchain trilemma](/is-web3-dead)**, working together to enhance the scalability and usability of a decentralized internet.

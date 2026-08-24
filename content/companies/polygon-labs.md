@@ -1,6 +1,6 @@
 ---
 name: Polygon Labs
-website: https://polygon.technology
+website: 'https://polygon.technology'
 founded: 2017
 category: Blockchain Infrastructure
 headquarters: Remote (Global)

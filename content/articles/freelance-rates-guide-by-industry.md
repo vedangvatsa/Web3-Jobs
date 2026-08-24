@@ -1,13 +1,13 @@
 ---
-
-title: "Freelance Rates Guide by Industry"
-image: "https://picsum.photos/seed/freelance-rates/1200/630"
-data-ai-hint: "money calculator coins"
-description: "A full guide to freelance rates across different industries. Learn what to charge for your services as a writer, designer, developer, and more."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Freelance Rates Guide by Industry
+image: 'https://picsum.photos/seed/freelance-rates/1200/630'
+data-ai-hint: money calculator coins
+description: >-
+  A full guide to freelance rates across different industries. Learn what to
+  charge for your services as a writer, designer, developer, and more.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 One of the biggest challenges for any [freelancer](/how-to-start-freelancing-for-beginners) is determining the appropriate rates to charge. Setting your prices too high may drive potential clients away, while pricing too low can hinder your ability to maintain a sustainable income. The ideal rate hinges on various factors such as your industry, experience level, and the value of your services.
@@ -39,7 +39,7 @@ Rates for writers can vary significantly based on content type and complexity.
 
 #### 2. Graphic and Web Design
 
-Design rates fluctuate based on project scope and the designer’s portfolio.
+Design rates fluctuate based on project scope and the designer's portfolio.
 
 | Experience Level | Logo Design | Website Design (UI/UX) |
 |------------------|---------------------|------------------------|

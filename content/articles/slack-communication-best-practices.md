@@ -1,13 +1,14 @@
 ---
-
 title: Slack Communication Best Practices
-description: Master the art of effective Slack communication. This guide covers best practices for channels, threads, notifications, and etiquette to improve productivity and reduce noise.
-image: https://picsum.photos/seed/slack/1200/630
+description: >-
+  Master the art of effective Slack communication. This guide covers best
+  practices for channels, threads, notifications, and etiquette to improve
+  productivity and reduce noise.
+image: 'https://picsum.photos/seed/slack/1200/630'
 category: Career Guides
 data-ai-hint: team communication
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: Taming the Beast

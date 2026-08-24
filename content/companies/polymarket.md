@@ -1,9 +1,9 @@
 ---
 name: Polymarket
-website: https://polymarket.com
+website: 'https://polymarket.com'
 founded: 2020
 category: Prediction Market
-headquarters: New York, New York, USA
+headquarters: 'New York, New York, USA'
 description: Leading decentralized prediction market for real-world events
 ---
 

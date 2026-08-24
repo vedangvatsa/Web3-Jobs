@@ -1,13 +1,13 @@
 ---
-
-title: "How to Effectively Work through Web3 Job Boards"
-description: "A strategic guide to using Web3 job boards. Learn how to filter out the noise, identify high-quality opportunities, and prepare as a top candidate."
-image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
-category: "Career Guides"
-data-ai-hint: "man searching laptop"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Effectively Work through Web3 Job Boards
+description: >-
+  A strategic guide to using Web3 job boards. Learn how to filter out the noise,
+  identify high-quality opportunities, and prepare as a top candidate.
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+category: Career Guides
+data-ai-hint: man searching laptop
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Signal vs. Noise: How to Effectively Manage Web3 Job Boards

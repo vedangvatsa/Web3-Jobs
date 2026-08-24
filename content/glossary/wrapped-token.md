@@ -1,12 +1,22 @@
 ---
-term: "Wrapped Token"
-slug: "wrapped-token"
-category: "cryptocurrencies"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "A token representing an external asset (another cryptocurrency or asset) locked in a smart contract, enabling that asset to be used on different blockchains or within protocols."
-relatedTerms: ["token", "bridge", "cross-chain-bridge", "ethereum"]
-synonyms: ["synthetic token", "pegged token", "bridged token"]
+term: Wrapped Token
+slug: wrapped-token
+category: cryptocurrencies
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  A token representing an external asset (another cryptocurrency or asset)
+  locked in a smart contract, enabling that asset to be used on different
+  blockchains or within protocols.
+relatedTerms:
+  - token
+  - bridge
+  - cross-chain-bridge
+  - ethereum
+synonyms:
+  - synthetic token
+  - pegged token
+  - bridged token
 ---
 
 Wrapped Token refers to a cryptocurrency asset that represents another asset locked in a smart contract, enabling that underlying asset to be used on blockchains or within protocols where it does not natively exist. The most prominent example is Wrapped Bitcoin (WBTC), which allows Bitcoin holders to participate in Ethereum-based decentralized finance applications by depositing their BTC with a custodian and receiving an equivalent amount of WBTC tokens. The wrapping process is reversible, meaning users can burn their wrapped tokens at any time to reclaim the original underlying asset. Understanding wrapped token mechanics, including custody models, minting procedures, and security considerations, is valuable for professionals seeking roles in cross-chain infrastructure development, DeFi protocol engineering, and blockchain integration architecture.

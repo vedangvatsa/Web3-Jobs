@@ -40,19 +40,19 @@ export async function generateMetadata({ params }: { params: { slug: string } })
  const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
 
  return {
-  title: `${company.name} Jobs — ${company.jobCount} Open Positions`,
+  title: `${company.name} Jobs - ${company.jobCount} Open Positions`,
   description: desc,
   alternates: { canonical: `${siteUrl}/companies/${company.slug}` },
   openGraph: {
    type: 'website',
-   title: `${company.name} — ${company.jobCount} Open Positions`,
+   title: `${company.name} - ${company.jobCount} Open Positions`,
    description: desc,
    url: `${siteUrl}/companies/${company.slug}`,
    images: [{ url: ogImageUrl, width: 1200, height: 630, alt: `${company.name} Jobs` }],
   },
   twitter: {
    card: 'summary_large_image',
-   title: `${company.name} — ${company.jobCount} Open Positions`,
+   title: `${company.name} - ${company.jobCount} Open Positions`,
    description: desc,
    images: [ogImageUrl],
   },
@@ -148,7 +148,7 @@ export default async function CompanyPage({ params }: { params: { slug: string }
          <Building2 className="h-10 w-10 text-primary" />
         </div>
         <div className="flex-1 min-w-0">
-         <PageHeader title="{company.name} Careers" />
+         <PageHeader title={`${company.name} Careers`} />
          <div className="flex items-center gap-3 text-sm text-muted-foreground mt-1">
           <span className="flex items-center gap-1">
            <Briefcase className="h-3.5 w-3.5" />
@@ -250,7 +250,7 @@ export default async function CompanyPage({ params }: { params: { slug: string }
            <div className="font-medium text-sm truncate">{job.title}</div>
            <div className="flex items-center gap-2 text-xs text-muted-foreground mt-1">
             <span>{company.name}</span>
-            <span>·</span>
+            <span aria-hidden="true">-</span>
             <span>{new Date(job.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
            </div>
           </div>

@@ -1,6 +1,6 @@
 ---
 name: Nexus
-website: https://nexus.xyz
+website: 'https://nexus.xyz'
 category: Other
 description: Nexus offers customer support services in various sectors.
 ---

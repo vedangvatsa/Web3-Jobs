@@ -1,10 +1,10 @@
 ---
 name: BitGo
-website: https://www.bitgo.com
+website: 'https://www.bitgo.com'
 founded: 2013
 category: Digital Asset Infrastructure
-headquarters: Palo Alto, California, USA
-description: Institutional digital asset custody, trading, and finance platform
+headquarters: 'Palo Alto, California, USA'
+description: 'Institutional digital asset custody, trading, and finance platform'
 ---
 
 BitGo provides institutional custody, trading, and lending for digital assets. BitGo processes approximately 20% of all global Bitcoin transactions and supports 800+ coins and tokens.

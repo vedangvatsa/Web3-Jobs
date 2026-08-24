@@ -1,13 +1,13 @@
 ---
-
-title: "How to Be a Good Community Moderator"
-image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
-data-ai-hint: "team meeting collaboration"
-description: "A deep dive into the most important non-technical role in Web3. Learn what a community manager does, the skills they need, and how to build a career as."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Be a Good Community Moderator
+image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
+data-ai-hint: team meeting collaboration
+description: >-
+  A deep dive into the most important non-technical role in Web3. Learn what a
+  community manager does, the skills they need, and how to build a career as.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the decentralized field of [Web3](/what-is-web3), community plays a central role in shaping projects and their success. The Community Manager, or "CM," serves as the cornerstone in this ecosystem, transcending traditional social media management. This position demands a unique combination of empathy, communication skills, and in-depth knowledge of protocols to thrive.
@@ -76,14 +76,14 @@ The Community Manager role poses challenges but offers significant rewards. Enga
 Operating a decentralized community requires familiarity with a specialized suite of tools to manage user verification, security, and governance:
 
 - **Discord Infrastructure:** 
-  - **Token Gating & Roles:** Utilizing tools like [Guild.xyz](https://guild.xyz) or Collab.Land to automatically assign Discord roles based on wallet balances, NFT holdings, or on-chain activity.
-  - **Server Security:** Hardening servers using verification bots (e.g., Wick Bot, Double Counter) to prevent raid bots and automated spam.
-  - **Support Ticketing:** Integrating systems like Ticket Tool to handle user support queries privately and efficiently.
+ - **Token Gating & Roles:** using tools like [Guild.xyz](https://guild.xyz) or Collab.Land to automatically assign Discord roles based on wallet balances, NFT holdings, or on-chain activity.
+ - **Server Security:** Hardening servers using verification bots (e.g., Wick Bot, Double Counter) to prevent raid bots and automated spam.
+ - **Support Ticketing:** Integrating systems like Ticket Tool to handle user support queries privately and efficiently.
 - **Telegram Administration:** 
-  - **Moderation Bots:** Deploying Miss Rose Bot or Combot to filter out spam links, restrict new users from posting media immediately, and auto-delete malicious forwarders.
-  - **Group Settings:** Managing permissions to temporarily mute the channel during high-stress market events or targeted attack campaigns.
+ - **Moderation Bots:** Deploying Miss Rose Bot or Combot to filter out spam links, restrict new users from posting media immediately, and auto-delete malicious forwarders.
+ - **Group Settings:** Managing permissions to temporarily mute the channel during high-stress market events or targeted attack campaigns.
 - **Governance Forums:** 
-  - **Discourse:** Structuring and maintaining Discourse forums for formal DAO proposals, tokenomics discussions, and structured community debate prior to on-chain voting on Snapshot.
+ - **Discourse:** Structuring and maintaining Discourse forums for formal DAO proposals, tokenomics discussions, and structured community debate prior to on-chain voting on Snapshot.
 
 ### Frontline Security & Anti-Phishing Protocols
 

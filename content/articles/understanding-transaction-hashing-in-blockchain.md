@@ -1,13 +1,13 @@
 ---
-
-title: "Understanding Transaction Hashing in Blockchain"
-image: "/images/alex-knight-2EJCSULRwC8-unsplash.jpg"
-data-ai-hint: "blockchain hash"
-description: "A detailed look at transaction hashing. Learn what a hash is, how it's created, and why it's a cornerstone of blockchain security and data integrity."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Transaction Hashing in Blockchain
+image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
+data-ai-hint: blockchain hash
+description: >-
+  A detailed look at transaction hashing. Learn what a hash is, how it's
+  created, and why it's a cornerstone of blockchain security and data integrity.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Every transaction on a [blockchain](/what-is-a-blockchain) has a unique identifier known as a transaction hash, or TxID. This hash serves as a digital fingerprint, providing proof of authenticity and securing the transaction's place in the blockchain ledger. Understanding transaction hashing is essential for grasping the security and integrity of blockchain technology. It ensures that the ledger remains tamper-proof.

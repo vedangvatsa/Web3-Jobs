@@ -1,12 +1,22 @@
 ---
-term: "Sharding"
-slug: "sharding"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80"
-description: "A scaling technique dividing blockchain validation into parallel shards, where each shard processes subset of transactions, enabling much higher throughput than single-chain processing."
-relatedTerms: ["blockchain", "scaling", "consensus-mechanism", "ethereum"]
-synonyms: ["shard", "data sharding", "parallel processing"]
+term: Sharding
+slug: sharding
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80'
+description: >-
+  A scaling technique dividing blockchain validation into parallel shards, where
+  each shard processes subset of transactions, enabling much higher throughput
+  than single-chain processing.
+relatedTerms:
+  - blockchain
+  - scaling
+  - consensus-mechanism
+  - ethereum
+synonyms:
+  - shard
+  - data sharding
+  - parallel processing
 ---
 
 Sharding is a blockchain scaling technique that divides the network into multiple parallel segments called shards. Each shard can process transactions independently, allowing different validator sets to work simultaneously on separate portions of the network's workload. This horizontal partitioning increases overall throughput. Ethereum's roadmap features sharding as a core scaling solution, with plans to implement danksharding to support its rollup-centric future. The technical complexity of maintaining cross-shard communication and security while preserving decentralization makes sharding expertise valuable. Protocol engineering roles at major layer-1 projects frequently list sharding knowledge as a preferred qualification.

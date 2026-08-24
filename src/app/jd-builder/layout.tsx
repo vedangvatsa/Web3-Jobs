@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/jd-builder',
   images: [
    {
-    url: '/api/og?type=default&title=Web3%20Job%20Description%20Builder',
+    url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Job%20Description%20Builder',
     width: 1200,
     height: 630,
     alt: 'Web3 Job Description Builder',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 Job Description Builder | Free Tool',
   description: 'Create professional job descriptions for Web3 roles with our free builder. Outline responsibilities, qualifications, and benefits to attract top crypto talent to your team.',
-  images: ['/api/og?type=default&title=Web3%20Job%20Description%20Builder'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Job%20Description%20Builder'],
  },
 };
 

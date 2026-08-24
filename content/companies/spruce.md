@@ -1,6 +1,6 @@
 ---
 name: Spruce
-website: https://spruceid.com
+website: 'https://spruceid.com'
 category: Other
 description: Spruce provides decentralized identity solutions for Web3 applications.
 ---

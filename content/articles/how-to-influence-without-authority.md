@@ -1,14 +1,15 @@
 ---
-
-title: "How to Influence Without Authority: A Guide to Leading Your Peers"
-category: "Career Guides"
-date: "2025-09-12"
-description: "True leadership isn't about a title. This guide explores the tactics of influence-building trust, using data, and creating shared vision-to help you lead."
-image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
-data-ai-hint: "team collaboration influence"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'How to Influence Without Authority: A Guide to Leading Your Peers'
+category: Career Guides
+date: '2025-09-12'
+description: >-
+  True leadership isn't about a title. This guide explores the tactics of
+  influence-building trust, using data, and creating shared vision-to help you
+  lead.
+image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
+data-ai-hint: team collaboration influence
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the collaborative workplace, achieving success often hinges on your ability to work effectively with colleagues who do not report to you. You might require the data science team to prioritize a query, the design team to assist with a presentation, or a colleague from another department to accept a new procedure you developed. In these scenarios, relying on formal authority is ineffective. Instead, you must use the power of **influence**.
@@ -54,7 +55,7 @@ Significant changes rarely happen in isolation. Build a coalition of supporters 
 
 Influencing without authority is a gradual process. Expect to hear "no" more often than "yes," especially at the beginning.
 
-- **Avoid Taking Rejections Personally**: A rejection often reflects the other person’s priorities or constraints rather than a personal failure. Aim to understand their reasons for saying no. For example, respond with, "I recognize this isn't a priority now. Can you clarify what is on your current roadmap?"
+- **Avoid Taking Rejections Personally**: A rejection often reflects the other person's priorities or constraints rather than a personal failure. Aim to understand their reasons for saying no. For example, respond with, "I recognize this isn't a priority now. Can you clarify what is on your current roadmap?"
 - **Seek Incremental Wins**: If your major idea does not gain immediate approval, target smaller, achievable steps. These small victories can collectively build momentum for more significant changes in the future.
 - **Focus on Long-Term Relationships**: Each interaction serves as an opportunity to build credibility and trust. Even if your idea is initially rejected, the professionalism you display will enhance your reputation, increasing the likelihood of future success.
 

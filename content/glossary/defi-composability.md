@@ -1,12 +1,22 @@
 ---
-term: "DeFi Composability"
-slug: "defi-composability"
-category: "defi"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
-description: "The ability of different DeFi protocols to combine and interact smoothly, enabling complex strategies using multiple protocols in single transactions and creating compound value."
-relatedTerms: ["defi", "smart-contract", "protocol", "ethereum"]
-synonyms: ["money legos", "composable finance", "protocol interoperability"]
+term: DeFi Composability
+slug: defi-composability
+category: defi
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80'
+description: >-
+  The ability of different DeFi protocols to combine and interact smoothly,
+  enabling complex strategies using multiple protocols in single transactions
+  and creating compound value.
+relatedTerms:
+  - defi
+  - smart-contract
+  - protocol
+  - ethereum
+synonyms:
+  - money legos
+  - composable finance
+  - protocol interoperability
 ---
 
 DeFi Composability refers to the ability of decentralized finance protocols to integrate and interact with one another. This allows developers and users to build complex financial strategies by combining multiple protocols within single atomic transactions. This characteristic, often called "money legos," enables innovations like flash loans where users can borrow capital, execute arbitrage across multiple exchanges, and repay the loan all within one transaction block. Yearn Finance exemplifies composability by automatically routing user deposits through various lending protocols like Aave and Compound to optimize yields. However, this interconnection also creates systemic risk, as vulnerabilities in one protocol can cascade through dependent applications. For Web3 professionals, understanding composability is essential since protocol integration and cross-platform development skills are among the most sought-after capabilities in blockchain engineering roles.

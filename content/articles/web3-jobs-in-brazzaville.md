@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Jobs in Brazzaville: A Guide to the Republic of the Congo's Tech Scene"
-image: "/images/africa web3 jobs.jpg"
-data-ai-hint: "brazzaville congo city"
-description: "A career guide to the emerging Web3 job market in Brazzaville. Explore how the capital of the Republic of the Congo is beginning to engage with blockchain."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Brazzaville: A Guide to the Republic of the Congo''s Tech Scene'
+image: /images/africa web3 jobs.jpg
+data-ai-hint: brazzaville congo city
+description: >-
+  A career guide to the emerging Web3 job market in Brazzaville. Explore how the
+  capital of the Republic of the Congo is beginning to engage with blockchain.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Brazzaville, the capital of the Republic of the Congo, is building its technological aspirations. The city benefits from a wealth of natural resources and a youthful, urban population. As Brazzaville explores [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technologies, it aims to modernize and diversify its economy. Although the local tech ecosystem is in its infancy, a community of tech enthusiasts and entrepreneurs is emerging, focusing on decentralized technologies to address issues in finance, logistics, and governance.

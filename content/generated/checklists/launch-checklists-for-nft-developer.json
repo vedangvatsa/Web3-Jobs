@@ -406,10 +406,10 @@
     ],
     "proTips": [
       "Test your Merkle tree with the exact production list: Generate proofs for random addresses and verify on-chain. A wrong Merkle root means no one can mint.",
-      "Have emergency contacts ready: RPC provider support, hosting provider, smart contract devs—all on standby during mint.",
+      "Have emergency contacts ready: RPC provider support, hosting provider, smart contract devs - all on standby during mint.",
       "Never change the mint site URL close to launch: Scammers monitor DNS changes. Any URL change gives them opportunity to create fakes.",
       "Price allowlist mints to cover gas mistakes: New minters often set gas wrong. Slightly lower AL price compensates for their learning curve.",
-      "Prepare three versions of your announcement: Sold out, partially sold, not sold—have all three ready so you respond instantly."
+      "Prepare three versions of your announcement: Sold out, partially sold, not sold - have all three ready so you respond instantly."
     ],
     "relatedResources": []
   }

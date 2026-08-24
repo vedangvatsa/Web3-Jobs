@@ -54,6 +54,10 @@ const nextConfig = {
     ]
   },
   async headers() {
+    if (process.env.VERCEL !== '1') {
+      return [];
+    }
+
     const cspHeader = `
       default-src 'self';
       script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://vercel.ai https://us.i.posthog.com;
@@ -65,8 +69,6 @@ const nextConfig = {
       form-action 'self';
       frame-ancestors 'none';
       connect-src 'self' https://vitals.vercel-insights.com https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://us.i.posthog.com;
-      upgrade-insecure-requests;
-      block-all-mixed-content;
     `.replace(/\s{2,}/g, ' ').trim();
 
     return [
@@ -78,7 +80,7 @@ const nextConfig = {
             key: 'X-Frame-Options',
             value: 'SAMEORIGIN',
           },
-          // Agentic Web — Link headers for discoverability
+          // Agentic Web - Link headers for discoverability
           {
             key: 'Link',
             value: [
@@ -88,14 +90,10 @@ const nextConfig = {
               '</.well-known/api-catalog>; rel="api-catalog"',
             ].join(', '),
           },
-           {
+          {
             key: 'Content-Security-Policy',
             value: cspHeader,
           },
-          {
-            key: 'Strict-Transport-Security',
-            value: 'max-age=31536000; includeSubDomains; preload',
-          }
         ],
       },
       {

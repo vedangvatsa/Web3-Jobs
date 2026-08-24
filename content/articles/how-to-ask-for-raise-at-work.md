@@ -1,13 +1,13 @@
 ---
-
-title: "How to Ask for Raise at Work"
-image: "https://picsum.photos/seed/ask-for-raise/1200/630"
-data-ai-hint: "upward graph arrow"
-description: "A practical guide on how to successfully ask for a raise. Learn when to ask, how to prepare, and what to say to get the pay increase you deserve."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Ask for Raise at Work
+image: 'https://picsum.photos/seed/ask-for-raise/1200/630'
+data-ai-hint: upward graph arrow
+description: >-
+  A practical guide on how to successfully ask for a raise. Learn when to ask,
+  how to prepare, and what to say to get the pay increase you deserve.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Asking for a raise often feels daunting. Many professionals worry about discussing compensation due to fears of appearing greedy or ungrateful. However, if you consistently perform well and take on additional responsibilities, you have a valid case for a pay increase.
@@ -25,7 +25,7 @@ Choosing the right moment to ask for a raise can significantly impact the outcom
 
 #### Bad times to ask include:
 - **During periods of high stress**: Avoid busy times for the company or your manager.
-- **After making a major error**: It’s best to wait until the situation stabilizes.
+- **After making a major error**: It's best to wait until the situation stabilizes.
 - **During layoffs or financial struggles**: Asking for a raise during challenging financial times can harm your position.
 
 ### 2. Conduct Thorough Research
@@ -59,7 +59,7 @@ While spontaneity can be appealing, having a structured script or at least key t
 
 - **Maintain Composure**: Treat this discussion as a business conversation. Keep your tone calm, confident, and collaborative.
 - **Anticipate Questions**: Be ready to answer queries regarding your achievements and salary request. Provide clear and concise responses.
-- **Listen Actively**: Pay attention to your manager’s feedback.
+- **Listen Actively**: Pay attention to your manager's feedback.
 - **If they agree**: Thank them and request written confirmation of the new terms.
 - **If they decline or suggest waiting**: Stay positive. Ask for constructive feedback by saying, "I understand. Could we discuss what steps I need to take to earn a raise in the future? Can we set specific goals and revisit this in six months?"
 

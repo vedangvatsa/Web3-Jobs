@@ -1,12 +1,13 @@
 ---
-
-title: "A Guide to Verifiable Credentials in Decentralized Identity"
-image: "/images/austin-distel-tLZhFRLj6nY-unsplash.jpg"
-data-ai-hint: "digital identity credentials"
-description: "A deep dive into Verifiable Credentials (VCs), the W3C standard that is the backbone of decentralized identity, enabling a future of user-owned."
-category: "Technology Deep Dives"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: A Guide to Verifiable Credentials in Decentralized Identity
+image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
+data-ai-hint: digital identity credentials
+description: >-
+  A deep dive into Verifiable Credentials (VCs), the W3C standard that is the
+  backbone of decentralized identity, enabling a future of user-owned.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the digital age, identity consists of claims made about individuals by various authorities. Governments assert citizenship, universities verify degrees, and employers confirm employment. Currently, individuals confirm these claims through physical documents or by accessing centralized systems. This method proves inefficient and insecure, limiting user control over personal data.
@@ -39,7 +40,7 @@ The Verifiable Credential model, standardized by the World Wide Web Consortium (
 |---------------|----------------------------------------------|-----------------------------|
 | Issuance | The University (Issuer) issues a digital diploma (VC) to a student (Holder). | University, Student |
 | Presentation | The student applies for a job and must prove they have a degree. The employer (Verifier) requests proof. | Student, Employer |
-| Verification | The student presents the VC to the employer. The employer verifies the credential authenticity, checks the issuer’s public key, and ensures the credential hasn’t been revoked. | Employer |
+| Verification | The student presents the VC to the employer. The employer verifies the credential authenticity, checks the issuer's public key, and ensures the credential hasn't been revoked. | Employer |
 
 This process can occur within seconds, without the Verifier needing to contact the Issuer directly.
 
@@ -53,7 +54,7 @@ A VC is typically a JSON object (specifically, a JSON-LD - Linked Data) with sev
 - **`issuer`**: The DID of the issuing entity.
 - **`issuanceDate`**: The date the credential was issued.
 - **`credentialSubject`**: The claims made about the subject (e.g., `"degree": "Bachelor of Science", "major": "Computer Science"`). The subject is identified by their DID.
-- **`proof`**: The issuer’s digital signature, ensuring the credential is tamper-proof, including the signature type, creation date, and signature value.
+- **`proof`**: The issuer's digital signature, ensuring the credential is tamper-proof, including the signature type, creation date, and signature value.
 
 ### The Power of VCs: Selective Disclosure and Zero-Knowledge Proofs
 

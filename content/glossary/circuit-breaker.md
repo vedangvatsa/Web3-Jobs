@@ -1,12 +1,22 @@
 ---
-term: "Circuit Breaker"
-slug: "circuit-breaker"
-category: "security"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "A security mechanism in smart contracts that temporarily stops operations when predefined risk thresholds are breached, preventing cascading failures during market stress."
-relatedTerms: ["smart-contract", "security", "governance", "risk"]
-synonyms: ["pause mechanism", "emergency stop", "risk limit"]
+term: Circuit Breaker
+slug: circuit-breaker
+category: security
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A security mechanism in smart contracts that temporarily stops operations when
+  predefined risk thresholds are breached, preventing cascading failures during
+  market stress.
+relatedTerms:
+  - smart-contract
+  - security
+  - governance
+  - risk
+synonyms:
+  - pause mechanism
+  - emergency stop
+  - risk limit
 ---
 
 Circuit Breaker refers to a security mechanism embedded in smart contracts that automatically halts operations when predefined risk thresholds are breached. This protects protocols from cascading failures during periods of extreme market volatility. Similar to traditional stock market safeguards that pause trading during sharp declines, DeFi circuit breakers activate when conditions like rapid price drops or unusual withdrawal volumes exceed acceptable parameters. Aave, one of the largest lending protocols, implements circuit breakers that can freeze specific asset markets when oracle prices deviate significantly, preventing exploits during flash crashes. These defensive tools give development teams critical time to assess situations, update price feeds, or implement emergency measures before damage spreads. For professionals entering Web3 security roles, understanding circuit breaker design and implementation has become essential knowledge for smart contract auditing and risk management positions.

@@ -1,51 +1,71 @@
 ---
-title: "DAOs: Internet Organizations"
-description: "How decentralized autonomous organizations work, vote, and manage money."
+title: 'DAOs: Internet Organizations'
+description: 'How decentralized autonomous organizations work, vote, and manage money.'
 order: 13
-readTime: "8 min"
-difficulty: "beginner"
-prerequisites: ["nfts"]
+readTime: 8 min
+difficulty: beginner
+prerequisites:
+  - nfts
 quiz:
-  - question: "What is a DAO?"
+  - question: What is a DAO?
     options:
-      - "A type of cryptocurrency"
-      - "A digital autonomous organization where decisions are made by token holders through voting"
-      - "A blockchain consensus mechanism"
-      - "A government regulatory body"
+      - A type of cryptocurrency
+      - >-
+        A digital autonomous organization where decisions are made by token
+        holders through voting
+      - A blockchain consensus mechanism
+      - A government regulatory body
     correct: 1
-    explanation: "A DAO (Decentralized Autonomous Organization) is a group organized through smart contracts. Token holders vote on proposals — how to spend money, change rules, or update the protocol."
-  - question: "How are decisions typically made in a DAO?"
+    explanation: >-
+      A DAO (Decentralized Autonomous Organization) is a group organized through
+      smart contracts. Token holders vote on proposals - how to spend money,
+      change rules, or update the protocol.
+  - question: How are decisions typically made in a DAO?
     options:
-      - "A CEO decides"
-      - "The blockchain automatically decides"
-      - "Token holders submit and vote on proposals"
-      - "Employees vote in meetings"
+      - A CEO decides
+      - The blockchain automatically decides
+      - Token holders submit and vote on proposals
+      - Employees vote in meetings
     correct: 2
-    explanation: "Anyone with governance tokens can submit a proposal. Token holders vote yes or no. If the proposal passes (meets quorum and majority), the smart contract executes it automatically."
-  - question: "What is a 'treasury' in a DAO?"
+    explanation: >-
+      Anyone with governance tokens can submit a proposal. Token holders vote
+      yes or no. If the proposal passes (meets quorum and majority), the smart
+      contract executes it automatically.
+  - question: What is a 'treasury' in a DAO?
     options:
-      - "A government reserve"
-      - "A pool of funds controlled by the DAO's smart contract, spent through governance votes"
-      - "The personal wallet of the DAO's founder"
-      - "A type of stablecoin"
+      - A government reserve
+      - >-
+        A pool of funds controlled by the DAO's smart contract, spent through
+        governance votes
+      - The personal wallet of the DAO's founder
+      - A type of stablecoin
     correct: 1
-    explanation: "A DAO treasury is a pool of tokens held in a smart contract. The funds can only be spent when a governance vote approves it. Some DAOs manage treasuries worth hundreds of millions of dollars."
-  - question: "What is a common challenge DAOs face?"
+    explanation: >-
+      A DAO treasury is a pool of tokens held in a smart contract. The funds can
+      only be spent when a governance vote approves it. Some DAOs manage
+      treasuries worth hundreds of millions of dollars.
+  - question: What is a common challenge DAOs face?
     options:
-      - "They cannot hold money"
-      - "Low voter participation — most token holders do not vote"
-      - "They cannot be created on Ethereum"
-      - "They are illegal everywhere"
+      - They cannot hold money
+      - Low voter participation - most token holders do not vote
+      - They cannot be created on Ethereum
+      - They are illegal everywhere
     correct: 1
-    explanation: "Voter apathy is the biggest challenge for DAOs. In many DAOs, fewer than 5% of token holders participate in governance votes, which means a small minority makes decisions for the entire community."
-  - question: "Which of these is a real DAO?"
+    explanation: >-
+      Voter apathy is the biggest challenge for DAOs. In many DAOs, fewer than
+      5% of token holders participate in governance votes, which means a small
+      minority makes decisions for the entire community.
+  - question: Which of these is a real DAO?
     options:
-      - "Google"
-      - "Uniswap governance (UNI holders vote on protocol changes)"
-      - "The US Federal Reserve"
-      - "Apple shareholders"
+      - Google
+      - Uniswap governance (UNI holders vote on protocol changes)
+      - The US Federal Reserve
+      - Apple shareholders
     correct: 1
-    explanation: "Uniswap's governance is a DAO. UNI token holders can propose and vote on fee changes, treasury spending, and protocol upgrades. All votes happen on-chain."
+    explanation: >-
+      Uniswap's governance is a DAO. UNI token holders can propose and vote on
+      fee changes, treasury spending, and protocol upgrades. All votes happen
+      on-chain.
 ---
 
 ## Companies without a CEO
@@ -93,7 +113,7 @@ In a DAO, token holders are the decision-makers. They propose changes, vote on t
 3. **Vote**: Token holders vote with their tokens. More tokens = more voting power
 4. **Execution**: If the vote passes (meets quorum and majority), the smart contract executes the action
 
-Most DAOs require a **quorum** — a minimum percentage of tokens must participate for the vote to be valid. This prevents small groups from pushing proposals through when nobody is paying attention.
+Most DAOs require a **quorum** - a minimum percentage of tokens must participate for the vote to be valid. This prevents small groups from pushing proposals through when nobody is paying attention.
 
 ## Real DAOs today
 

@@ -1,12 +1,13 @@
 ---
-
-title: "AI Bias and Fairness Explained"
-image: "https://picsum.photos/seed/ai-bias/1200/630"
-data-ai-hint: "unbalanced scale"
-description: "A clear explanation of how bias gets into AI systems and why it matters. Learn about the different types of bias and the strategies used to build fairer AI."
-category: "Educational"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: AI Bias and Fairness Explained
+image: 'https://picsum.photos/seed/ai-bias/1200/630'
+data-ai-hint: unbalanced scale
+description: >-
+  A clear explanation of how bias gets into AI systems and why it matters. Learn
+  about the different types of bias and the strategies used to build fairer AI.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 AI systems are often perceived as objective and neutral, but this assumption can lead to significant issues. These systems learn from data, and if that data contains societal biases, the AI will replicate those biases in its outputs. This can result in unfair or discriminatory decisions, with severe implications in various sectors.
@@ -34,7 +35,7 @@ Data bias represents a significant source of AI bias. If the training data is no
  - **Example**: A facial recognition system primarily trained on images of light-skinned individuals will struggle to accurately identify dark-skinned faces, leading to a higher error rate.
 
 - **Measurement Bias**: Flaws in data collection or measurement introduce bias.
- - **Example**: A hospital’s predictive model uses healthcare costs as a proxy for patient health. However, systemic inequalities may cause minority patients, who are equally sick, to incur lower healthcare costs. As a result, the model inaccurately concludes they are healthier and fails to recommend necessary care.
+ - **Example**: A hospital's predictive model uses healthcare costs as a proxy for patient health. However, systemic inequalities may cause minority patients, who are equally sick, to incur lower healthcare costs. As a result, the model inaccurately concludes they are healthier and fails to recommend necessary care.
 
 #### 2. Algorithmic Bias
 

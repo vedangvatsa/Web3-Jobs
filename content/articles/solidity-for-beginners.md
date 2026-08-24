@@ -1,12 +1,14 @@
 ---
-
 title: 'Solidity for Beginners: Your First Smart Contract'
-image: 'https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&ixlib=rb-4.1.0&q=80&w=1080'
-description: 'A step-by-step tutorial for beginners on how to write, compile, and deploy your very first Solidity smart contract. Learn the fundamental concepts of the most popular blockchain programming language.'
-category: 'Getting Started'
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+image: >-
+  https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&ixlib=rb-4.1.0&q=80&w=1080
+description: >-
+  A step-by-step tutorial for beginners on how to write, compile, and deploy
+  your very first Solidity smart contract. Learn the fundamental concepts of the
+  most popular blockchain programming language.
+category: Getting Started
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 So, you want to become a [Web3](/what-is-web3) developer. You've heard about the space of decentralized applications (dApps), [DeFi](/what-is-defi), and [NFTs](/what-are-nfts), and you're ready to start building. The journey for most aspiring [blockchain](/what-is-a-blockchain) developers begins with one language: [Solidity](/best-programming-languages-for-blockchain-development). As the primary language for programming [smart contracts](/what-are-smart-contracts) on [Ethereum](/what-is-ethereum) and other EVM-compatible blockchains, Solidity is the key that opens the door to Web3 development.

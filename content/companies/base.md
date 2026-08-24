@@ -1,6 +1,6 @@
 ---
 name: Base
-website: https://base.org
+website: 'https://base.org'
 category: Other
 description: Base is a platform for building decentralized applications.
 ---

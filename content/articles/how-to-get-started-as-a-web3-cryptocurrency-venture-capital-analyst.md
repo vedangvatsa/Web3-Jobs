@@ -1,13 +1,13 @@
 ---
-
-title: "How to Get Started as a Web3 Cryptocurrency Venture Capital Analyst"
-image: "/images/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
-data-ai-hint: "venture capital crypto"
-description: "A guide for aspiring crypto investors. Learn what a Web3 VC analyst does, the skills needed to succeed, and how to break into a role at a crypto venture."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Get Started as a Web3 Cryptocurrency Venture Capital Analyst
+image: /images/possessed-photography-jIBMSMs4_kA-unsplash.jpg
+data-ai-hint: venture capital crypto
+description: >-
+  A guide for aspiring crypto investors. Learn what a Web3 VC analyst does, the
+  skills needed to succeed, and how to break into a role at a crypto venture.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The role of an Investment Analyst at a [Web3](/what-is-web3) venture capital fund ranks among the most intellectually rewarding positions in the cryptocurrency sector. Analysts focus on identifying promising founders and protocols that will influence the future of the decentralized internet.
@@ -16,7 +16,7 @@ In contrast to traditional finance, where analysis relies on private company dat
 
 ### Core Responsibilities
 
-An analyst’s primary responsibility is to assist the fund's partners in making informed investment decisions. This responsibility encompasses several key areas:
+An analyst's primary responsibility is to assist the fund's partners in making informed investment decisions. This responsibility encompasses several key areas:
 
 1. **Sourcing**: Analysts scout for new projects before they gain widespread attention. This requires immersion in the crypto ecosystem: being active on Twitter, engaging in Discord communities, and attending hackathons to build rapport with founders and developers.
 

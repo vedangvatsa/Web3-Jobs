@@ -1,13 +1,13 @@
 ---
-
-title: "Freelance vs Full Time Job Comparison"
-image: "https://picsum.photos/seed/freelance-vs-full/1200/630"
-data-ai-hint: "two paths choice"
-description: "Explore the pros and cons of freelancing versus a traditional full-time job. Understand the key differences to decide which path is right for you."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Freelance vs Full Time Job Comparison
+image: 'https://picsum.photos/seed/freelance-vs-full/1200/630'
+data-ai-hint: two paths choice
+description: >-
+  Explore the pros and cons of freelancing versus a traditional full-time job.
+  Understand the key differences to decide which path is right for you.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Deciding between a freelance career and a full-time job requires careful consideration of both options. Each pathway presents distinct advantages and disadvantages. Your decision should align with your personality, lifestyle, and career ambitions.

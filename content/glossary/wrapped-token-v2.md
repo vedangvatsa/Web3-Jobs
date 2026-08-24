@@ -1,12 +1,22 @@
 ---
-term: "Wrapped Token"
-slug: "wrapped-token-v2"
-category: "cryptocurrencies"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "A representation of an asset from one blockchain on another blockchain, enabling assets to move between chains and participate in different ecosystems while maintaining value parity."
-relatedTerms: ["token", "bridge", "cross-chain", "defi"]
-synonyms: ["wrapped asset", "bridge token", "pegged token"]
+term: Wrapped Token
+slug: wrapped-token-v2
+category: cryptocurrencies
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  A representation of an asset from one blockchain on another blockchain,
+  enabling assets to move between chains and participate in different ecosystems
+  while maintaining value parity.
+relatedTerms:
+  - token
+  - bridge
+  - cross-chain
+  - defi
+synonyms:
+  - wrapped asset
+  - bridge token
+  - pegged token
 ---
 
 Wrapped Token refers to a cryptocurrency asset that has been tokenized to function on a blockchain different from its native network, allowing it to participate in ecosystems where it otherwise could not operate. The most prominent example is Wrapped Bitcoin (WBTC), where a custodian holds actual Bitcoin in reserve and issues an equivalent ERC-20 token on Ethereum, maintaining a strict one-to-one peg with the underlying asset. This mechanism enables Bitcoin holders to access Ethereum's decentralized finance ecosystem, depositing WBTC into lending protocols like Aave or using it as collateral in various DeFi applications. For professionals entering Web3, understanding wrapped token mechanics is essential, as roles in protocol development, DeFi integration, and cross-chain infrastructure increasingly require expertise in how assets move between blockchain networks.

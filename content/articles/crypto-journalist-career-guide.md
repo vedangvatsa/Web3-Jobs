@@ -1,13 +1,13 @@
 ---
-
-title: "Crypto Journalist Career Roadmap Guide"
-image: "/images/firmbee-com-SpVHcbuKi6E-unsplash.jpg"
-data-ai-hint: "journalist writing crypto"
-description: "A full guide to building a career as a crypto journalist. Learn the skills you need, how to build a portfolio, and how to find opportunities in."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Crypto Journalist Career Roadmap Guide
+image: /images/firmbee-com-SpVHcbuKi6E-unsplash.jpg
+data-ai-hint: journalist writing crypto
+description: >-
+  A full guide to building a career as a crypto journalist. Learn the skills you
+  need, how to build a portfolio, and how to find opportunities in.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The [Web3](/what-is-web3) industry demands skilled communicators capable of transforming complex technical jargon into compelling narratives. The rise of this sector has generated a significant need for a new breed of reporter: the **crypto journalist**. 
@@ -30,7 +30,7 @@ Reporting on Web3 comes with distinct challenges and opportunities that set it a
 
 To thrive as a crypto journalist, you need to blend traditional journalistic ethics with a distinct set of skills tailored to the crypto world.
 
-1. **Technical Curiosity:** You don’t need to be a developer, but you must possess a keen interest in understanding technology. You should be able to explain concepts like [smart contracts](/what-are-smart-contracts), the differences between Layer 1 and Layer 2 solutions, and the fundamentals of tokenomics.
+1. **Technical Curiosity:** You don't need to be a developer, but you must possess a keen interest in understanding technology. You should be able to explain concepts like [smart contracts](/what-are-smart-contracts), the differences between Layer 1 and Layer 2 solutions, and the fundamentals of tokenomics.
 
 2. **Writing and Storytelling Proficiency:** Clear and compelling storytelling is important. You must translate complex, technical subjects into engaging narratives that resonate with readers.
 

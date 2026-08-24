@@ -1,12 +1,22 @@
 ---
-term: "Token Unlock"
-slug: "token-unlock"
-category: "governance"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "The release of previously locked or vested tokens according to a predetermined schedule, often affecting token supply, circulating supply, and market price dynamics."
-relatedTerms: ["vesting", "tokenomics", "governance-token", "supply"]
-synonyms: ["token release", "vesting schedule", "token vesting"]
+term: Token Unlock
+slug: token-unlock
+category: governance
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  The release of previously locked or vested tokens according to a predetermined
+  schedule, often affecting token supply, circulating supply, and market price
+  dynamics.
+relatedTerms:
+  - vesting
+  - tokenomics
+  - governance-token
+  - supply
+synonyms:
+  - token release
+  - vesting schedule
+  - token vesting
 ---
 
 Token Unlock refers to the scheduled release of previously locked or vested tokens into circulating supply, typically following a predetermined timeline established at a project's launch. These unlocks commonly apply to tokens allocated to founding teams, early investors, advisors, and ecosystem development funds, with vesting periods ranging from one to four years. Token unlock events can significantly impact market dynamics, as increased supply often creates selling pressure, particularly when large stakeholders liquidate their newly accessible holdings. Understanding unlock schedules is essential for tokenomics analysts, portfolio managers, and DeFi researchers, making this knowledge valuable for careers in crypto investment and protocol governance.

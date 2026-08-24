@@ -1,12 +1,21 @@
 ---
-term: "Block Builder"
-slug: "block-builder"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
-description: "A specialized entity that constructs optimized blocks by ordering and bundling transactions, bidding to have their blocks proposed by validators."
-relatedTerms: ["mev", "proposer-builder-separation", "sequencer", "flashbots"]
-synonyms: ["builder", "block constructor", "MEV builder"]
+term: Block Builder
+slug: block-builder
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80'
+description: >-
+  A specialized entity that constructs optimized blocks by ordering and bundling
+  transactions, bidding to have their blocks proposed by validators.
+relatedTerms:
+  - mev
+  - proposer-builder-separation
+  - sequencer
+  - flashbots
+synonyms:
+  - builder
+  - block constructor
+  - MEV builder
 ---
 
 Block Builder refers to a specialized entity in blockchain infrastructure that constructs optimized blocks by strategically ordering and bundling transactions, then bidding to have these blocks proposed by validators in Proposer-Builder Separation systems. Block builders collect transactions from both the public mempool and private order flow sources, arranging them to maximize value extraction while competing with other builders for block inclusion rights. Flashbots, the company that pioneered this role through its MEV-Boost software, enabled a builder ecosystem that processes a significant portion of Ethereum blocks. The builder role emerged as protocols sought to separate block construction from block proposal to reduce validator centralization pressures and create more efficient MEV markets. Professionals who understand block builder mechanics are increasingly sought after for roles in MEV research, protocol development, and blockchain infrastructure engineering.

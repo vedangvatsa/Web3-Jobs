@@ -1,12 +1,22 @@
 ---
-term: "Sequencer"
-slug: "sequencer"
-category: "technical"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80"
-description: "A centralized or decentralized entity that orders transactions on layer 2 systems, batching them together before posting to layer 1 for efficient settlement."
-relatedTerms: ["layer2", "rollup", "arbitrum", "optimism"]
-synonyms: ["ordering service", "transaction sequencer", "L2 sequencer"]
+term: Sequencer
+slug: sequencer
+category: technical
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80'
+description: >-
+  A centralized or decentralized entity that orders transactions on layer 2
+  systems, batching them together before posting to layer 1 for efficient
+  settlement.
+relatedTerms:
+  - layer2
+  - rollup
+  - arbitrum
+  - optimism
+synonyms:
+  - ordering service
+  - transaction sequencer
+  - L2 sequencer
 ---
 
 Sequencer refers to the entity responsible for ordering, batching, and submitting transactions on Layer 2 networks before they are posted to the underlying Layer 1 blockchain for final settlement. In practice, sequencers receive user transactions, arrange them in a specific order, compress them into batches, and publish the resulting data to Ethereum or another base layer. Arbitrum One, one of the largest Layer 2 networks, processes a significant portion of its transactions through a centralized sequencer operated by Offchain Labs. While this architecture enables fast confirmation times and low fees, it creates potential risks around censorship and MEV extraction, which is why most major rollups have decentralized sequencer implementations on their roadmaps. For professionals entering Web3 infrastructure roles, understanding sequencer mechanics is increasingly valuable as Layer 2 scaling solutions dominate network activity.

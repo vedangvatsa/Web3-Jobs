@@ -1,12 +1,22 @@
 ---
-term: "Rollup"
-slug: "rollup"
-category: "protocols"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80"
-description: "A Layer 2 scaling solution that bundles thousands of transactions together, submitting a compressed record to the main blockchain to reduce costs and increase throughput while inheriting main chain security."
-relatedTerms: ["layer-2", "optimistic-rollup", "zk-rollup", "ethereum-scaling"]
-synonyms: ["L2 rollup", "transaction rollup", "commit chain"]
+term: Rollup
+slug: rollup
+category: protocols
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80'
+description: >-
+  A Layer 2 scaling solution that bundles thousands of transactions together,
+  submitting a compressed record to the main blockchain to reduce costs and
+  increase throughput while inheriting main chain security.
+relatedTerms:
+  - layer-2
+  - optimistic-rollup
+  - zk-rollup
+  - ethereum-scaling
+synonyms:
+  - L2 rollup
+  - transaction rollup
+  - commit chain
 ---
 
 Rollup refers to a Layer 2 scaling solution that executes transactions off the main blockchain while posting compressed transaction data and cryptographic proofs back to Layer 1 for security verification. Rather than processing each transaction individually on Ethereum's expensive base layer, rollups bundle thousands of transactions together, compress the data, and submit a single proof on-chain, reducing costs while inheriting the security guarantees of the underlying network. Arbitrum, one of the leading rollup implementations, has processed significant total value locked as a dominant Layer 2 solution. This architecture enables decentralized applications to achieve throughput comparable to traditional payment systems without sacrificing decentralization. For professionals entering Web3, rollup expertise has become essential as major protocols and exchanges increasingly migrate to Layer 2 infrastructure, creating strong demand for engineers who understand rollup architecture, sequencer design, and cross-layer communication patterns.

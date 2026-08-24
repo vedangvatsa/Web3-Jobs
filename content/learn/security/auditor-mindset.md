@@ -1,51 +1,76 @@
 ---
-title: "The Auditor Mindset"
-description: "How smart contract auditors think and why code review is different in Web3."
+title: The Auditor Mindset
+description: How smart contract auditors think and why code review is different in Web3.
 order: 1
-readTime: "7 min"
-difficulty: "advanced"
+readTime: 7 min
+difficulty: advanced
 prerequisites: []
 quiz:
-  - question: "How does Web3 security differ from traditional Web2 cybersecurity?"
+  - question: How does Web3 security differ from traditional Web2 cybersecurity?
     options:
-      - "It doesn't; they are identical"
-      - "Web2 focuses on keeping hackers out of servers; Web3 code is public, so security is entirely about flawless logic"
-      - "Web3 relies on antivirus software"
-      - "Web2 is more secure"
+      - It doesn't; they are identical
+      - >-
+        Web2 focuses on keeping hackers out of servers; Web3 code is public, so
+        security is entirely about flawless logic
+      - Web3 relies on antivirus software
+      - Web2 is more secure
     correct: 1
-    explanation: "In Web3, the smart contract code is public and immutable. Hackers don't need to bypass firewalls; they just read the code, find a logical flaw, and execute an exploit directly on the blockchain."
-  - question: "What is the primary goal of a smart contract audit?"
+    explanation: >-
+      In Web3, the smart contract code is public and immutable. Hackers don't
+      need to bypass firewalls; they just read the code, find a logical flaw,
+      and execute an exploit directly on the blockchain.
+  - question: What is the primary goal of a smart contract audit?
     options:
-      - "To fix spelling errors in the code"
-      - "To guarantee 100% that the code can never be hacked"
-      - "To identify vulnerabilities, edge cases, and deviations from intended logic before deployment"
-      - "To rewrite the code in a different language"
+      - To fix spelling errors in the code
+      - To guarantee 100% that the code can never be hacked
+      - >-
+        To identify vulnerabilities, edge cases, and deviations from intended
+        logic before deployment
+      - To rewrite the code in a different language
     correct: 2
-    explanation: "An audit cannot guarantee perfect security. Its goal is to thoroughly review the code, identify known vulnerability patterns, and ensure the contract logic matches the documentation."
-  - question: "What does it mean to 'assume the caller is malicious'?"
+    explanation: >-
+      An audit cannot guarantee perfect security. Its goal is to thoroughly
+      review the code, identify known vulnerability patterns, and ensure the
+      contract logic matches the documentation.
+  - question: What does it mean to 'assume the caller is malicious'?
     options:
-      - "Never talk to strangers"
-      - "In Solidity, you must build functions assuming every input is designed to break the system"
-      - "Hackers always use specific IP addresses"
-      - "You should ban all users"
+      - Never talk to strangers
+      - >-
+        In Solidity, you must build functions assuming every input is designed
+        to break the system
+      - Hackers always use specific IP addresses
+      - You should ban all users
     correct: 1
-    explanation: "The core auditor mindset is adversarial thinking. Because anyone can interact with a public contract, every function parameter, external call, and state change must be scrutinized against malicious manipulation."
-  - question: "Why are invariant checks crucial in auditing?"
+    explanation: >-
+      The core auditor mindset is adversarial thinking. Because anyone can
+      interact with a public contract, every function parameter, external call,
+      and state change must be scrutinized against malicious manipulation.
+  - question: Why are invariant checks crucial in auditing?
     options:
-      - "They check if the compiler is working"
-      - "They are core mathematical truths about the protocol that must always remain true (e.g., total deposits must equal total liabilities)"
-      - "They check for variable names"
-      - "They ensure the contract deploys quickly"
+      - They check if the compiler is working
+      - >-
+        They are core mathematical truths about the protocol that must always
+        remain true (e.g., total deposits must equal total liabilities)
+      - They check for variable names
+      - They ensure the contract deploys quickly
     correct: 1
-    explanation: "Invariants are the fundamental rules of a system. An auditor tests every possible state change to ensure invariants are never broken. If a rule can be broken, an exploit exists."
-  - question: "What happens if a critical bug is found after a contract is deployed?"
+    explanation: >-
+      Invariants are the fundamental rules of a system. An auditor tests every
+      possible state change to ensure invariants are never broken. If a rule can
+      be broken, an exploit exists.
+  - question: What happens if a critical bug is found after a contract is deployed?
     options:
-      - "The developers press the undo button"
-      - "The blockchain is paused"
-      - "If the contract is not upgradeable, the funds might be lost or the contract must be abandoned"
-      - "The gas fee is refunded"
+      - The developers press the undo button
+      - The blockchain is paused
+      - >-
+        If the contract is not upgradeable, the funds might be lost or the
+        contract must be abandoned
+      - The gas fee is refunded
     correct: 2
-    explanation: "Smart contracts are immutable by default. Unless the contract was specifically designed with an upgrade proxy pattern, fixing a bug requires deploying a completely new contract and migrating users over."
+    explanation: >-
+      Smart contracts are immutable by default. Unless the contract was
+      specifically designed with an upgrade proxy pattern, fixing a bug requires
+      deploying a completely new contract and migrating users over.
 ---
 
 ## The Highest Stakes in Software

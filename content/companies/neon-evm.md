@@ -1,6 +1,6 @@
 ---
 name: Neon EVM
-website: https://neonevm.org
+website: 'https://neonevm.org'
 founded: 2021
 category: Infrastructure / EVM
 headquarters: Remote

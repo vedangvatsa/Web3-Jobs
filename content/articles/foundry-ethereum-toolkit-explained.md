@@ -1,13 +1,13 @@
 ---
-
-title: "Foundry Ethereum Toolkit Explained: A Guide for Developers"
-image: "/images/tommy-texter-T42j_xLOqw0-unsplash.jpg"
-data-ai-hint: "foundry software toolkit"
-description: "A guide for Ethereum developers on Foundry, the fast, portable, and Solidity-native development toolkit that is changing how we build and test."
-category: "Getting Started"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Foundry Ethereum Toolkit Explained: A Guide for Developers'
+image: /images/tommy-texter-T42j_xLOqw0-unsplash.jpg
+data-ai-hint: foundry software toolkit
+description: >-
+  A guide for Ethereum developers on Foundry, the fast, portable, and
+  Solidity-native development toolkit that is changing how we build and test.
+category: Getting Started
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 For years, the standard toolkit for [Ethereum](/what-is-ethereum) development was dominated by JavaScript-based frameworks like Hardhat and Truffle. These tools have been instrumental in the growth of the ecosystem, but they come with a key drawback: you write your [smart contracts](/what-are-smart-contracts) in [Solidity](/best-programming-languages-for-blockchain-development), but your tests and scripts in JavaScript. This context-switching can be inefficient and sometimes introduces subtle bugs.

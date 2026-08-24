@@ -271,7 +271,7 @@ async function fetchLumaByCity(city) {
     let url = `https://api.lu.ma/discover/get-paginated-events?pagination_limit=50&latitude=${city.lat}&longitude=${city.lng}`;
     if (cursor) url += `&pagination_cursor=${cursor}`;
     try {
-      const res = await fetch(url, { headers: { 'User-Agent': UA } });
+      const res = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(3000) });
       if (!res.ok) break;
       const data = await res.json();
       const entries = data.entries || [];
@@ -399,7 +399,7 @@ const LUMA_COMMUNITIES = [
 
 async function fetchLumaCommunity(slug) {
   try {
-    const res = await fetch(`https://lu.ma/${slug}`, { headers: { 'User-Agent': UA, 'Accept': 'text/html' }, signal: AbortSignal.timeout(10000) });
+    const res = await fetch(`https://lu.ma/${slug}`, { headers: { 'User-Agent': UA, 'Accept': 'text/html' }, signal: AbortSignal.timeout(3000) });
     if (!res.ok) return [];
     const html = await res.text();
     const match = html.match(/id="__NEXT_DATA__"[^>]*>(.*?)<\/script>/s);
@@ -436,7 +436,7 @@ async function fetchLumaCommunity(slug) {
 async function fetchEventbritePage(keyword, region, page = 1) {
   const url = `https://www.eventbrite.com/d/${region}/${keyword}/?page=${page}`;
   try {
-    const res = await fetch(url, { headers: { 'User-Agent': UA } });
+    const res = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(3000) });
     if (!res.ok) return [];
     const html = await res.text();
 
@@ -616,7 +616,7 @@ async function fetchConferenceIndex(page = 1) {
 async function fetchETHGlobal() {
   try {
     const { load } = await import('cheerio');
-    const res = await fetch('https://ethglobal.com/events', { headers: { 'User-Agent': UA } });
+    const res = await fetch('https://ethglobal.com/events', { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(4000) });
     if (!res.ok) return [];
     const html = await res.text();
     const $ = load(html);
@@ -674,7 +674,7 @@ async function fetchETHGlobal() {
 async function fetchDeepTechTimes() {
   try {
     const { load } = await import('cheerio');
-    const res = await fetch('https://deeptechtimes.com/web3events/', { headers: { 'User-Agent': UA } });
+    const res = await fetch('https://deeptechtimes.com/web3events/', { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(4000) });
     if (!res.ok) return [];
     const html = await res.text();
     const $ = load(html);
@@ -727,7 +727,7 @@ async function fetchDeepTechTimes() {
 // ═══════════════════════════════════════════════════════════════════════
 async function fetchMarketAcross() {
   try {
-    const res = await fetch('https://marketacross.com/crypto-events/', { headers: { 'User-Agent': UA } });
+    const res = await fetch('https://marketacross.com/crypto-events/', { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(4000) });
     if (!res.ok) return [];
     const html = await res.text();
 
@@ -801,7 +801,7 @@ async function fetchMarketAcross() {
 // ═══════════════════════════════════════════════════════════════════════
 async function fetchGoogleCloudWeb3Events() {
   try {
-    const res = await fetch('https://cloud.google.com/application/web3/events', { headers: { 'User-Agent': UA } });
+    const res = await fetch('https://cloud.google.com/application/web3/events', { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(4000) });
     if (!res.ok) return [];
     const html = await res.text();
 
@@ -864,7 +864,7 @@ async function fetchGoogleCloudWeb3Events() {
 // ═══════════════════════════════════════════════════════════════════════
 async function fetchWeb3Meetups() {
   try {
-    const res = await fetch('https://web3meetups.xyz/', { headers: { 'User-Agent': UA } });
+    const res = await fetch('https://web3meetups.xyz/', { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(4000) });
     if (!res.ok) return [];
     const html = await res.text();
     const { load } = await import('cheerio');
@@ -913,7 +913,7 @@ async function fetchEthereumOrgEvents() {
 
   for (const pageUrl of pages) {
     try {
-      const res = await fetch(pageUrl, { headers: { 'User-Agent': UA } });
+      const res = await fetch(pageUrl, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(4000) });
       if (!res.ok) continue;
       const html = await res.text();
       const { load } = await import('cheerio');
@@ -978,7 +978,7 @@ async function fetchEthereumOrgEvents() {
 // ═══════════════════════════════════════════════════════════════════════
 async function fetchCoinMarketCap() {
   try {
-    const res = await fetch('https://coinmarketcap.com/events/', { headers: { 'User-Agent': UA } });
+    const res = await fetch('https://coinmarketcap.com/events/', { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(4000) });
     if (!res.ok) return [];
     const html = await res.text();
     const match = html.match(/id="__NEXT_DATA__"[^>]*>(.*?)<\/script>/s);
@@ -1024,48 +1024,55 @@ async function fetchWeb3Events() {
 
   // ── 1. Luma Geo Discovery ──
   console.log(`[Luma] Scanning ${LUMA_CITIES.length} cities...`);
-  for (let i = 0; i < LUMA_CITIES.length; i += 5) {
-    const batch = LUMA_CITIES.slice(i, i + 5);
+  for (let i = 0; i < LUMA_CITIES.length; i += 10) {
+    const batch = LUMA_CITIES.slice(i, i + 10);
     const results = await Promise.all(batch.map(fetchLumaByCity));
-    results.flat().forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
-    console.log(`  Batch ${i / 5 + 1}: ${allEventsMap.size} unique`);
-    await new Promise(r => setTimeout(r, 200));
+    results.flat().forEach(e => { if (e && !allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+    console.log(`  Batch ${Math.floor(i / 10) + 1}: ${allEventsMap.size} unique`);
+    await new Promise(r => setTimeout(r, 100));
   }
 
   // ── 2. Luma Community Hosts ──
   console.log(`\n[Luma] Scraping ${LUMA_COMMUNITIES.length} community hosts...`);
-  for (let i = 0; i < LUMA_COMMUNITIES.length; i += 5) {
-    const batch = LUMA_COMMUNITIES.slice(i, i + 5);
+  for (let i = 0; i < LUMA_COMMUNITIES.length; i += 15) {
+    const batch = LUMA_COMMUNITIES.slice(i, i + 15);
     const results = await Promise.all(batch.map(fetchLumaCommunity));
-    results.flat().forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
-    await new Promise(r => setTimeout(r, 200));
+    results.flat().forEach(e => { if (e && !allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+    await new Promise(r => setTimeout(r, 50));
   }
   console.log(`[Luma] Total: ${allEventsMap.size}`);
 
   // ── 3. Eventbrite ──
-  console.log(`\n[Eventbrite] Scraping ${EB_KEYWORDS.length} keywords × ${EB_REGIONS.length} regions...`);
+  console.log(`\n[Eventbrite] Scraping keywords × regions...`);
   let ebBefore = allEventsMap.size;
-  for (const keyword of EB_KEYWORDS) {
-    for (const region of EB_REGIONS) {
-      const p1 = await fetchEventbritePage(keyword, region, 1);
-      p1.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
-      
-      // Random sleep 200-500ms to avoid 429 Too Many Requests
-      await new Promise(r => setTimeout(r, 200 + Math.random() * 300));
+  const ebTasks = [];
+  for (const keyword of EB_KEYWORDS.slice(0, 8)) {
+    for (const region of EB_REGIONS.slice(0, 20)) {
+      ebTasks.push({ keyword, region });
     }
-    console.log(`  "${keyword}" done (total: ${allEventsMap.size})`);
+  }
+  for (let i = 0; i < ebTasks.length; i += 12) {
+    const batch = ebTasks.slice(i, i + 12);
+    const results = await Promise.all(batch.map(t => fetchEventbritePage(t.keyword, t.region, 1)));
+    results.flat().forEach(e => { if (e && !allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+    await new Promise(r => setTimeout(r, 50));
   }
   console.log(`[Eventbrite] +${allEventsMap.size - ebBefore} events`);
 
   // ── 4. Meetup.com ──
   console.log(`\n[Meetup] Scraping ${MEETUP_KEYWORDS.length} keywords × ${MEETUP_CITIES.length} cities...`);
   let muBefore = allEventsMap.size;
+  const muTasks = [];
   for (const kw of MEETUP_KEYWORDS) {
     for (const city of MEETUP_CITIES) {
-      const results = await fetchMeetupPage(kw, city);
-      results.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
-      await new Promise(r => setTimeout(r, 200 + Math.random() * 300));
+      muTasks.push({ kw, city });
     }
+  }
+  for (let i = 0; i < muTasks.length; i += 12) {
+    const batch = muTasks.slice(i, i + 12);
+    const results = await Promise.all(batch.map(t => fetchMeetupPage(t.kw, t.city)));
+    results.flat().forEach(e => { if (e && !allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
+    await new Promise(r => setTimeout(r, 50));
   }
   console.log(`[Meetup] +${allEventsMap.size - muBefore} events`);
 
@@ -1221,14 +1228,14 @@ async function fetchWeb3Events() {
   if (needsImage.length > 0) {
     console.log(`\n[OG Image] Fetching images for ${needsImage.length} events without cover images...`);
     let found = 0;
-    const BATCH_SIZE = 10;
+    const BATCH_SIZE = 25;
     for (let i = 0; i < needsImage.length; i += BATCH_SIZE) {
       const batch = needsImage.slice(i, i + BATCH_SIZE);
       const results = await Promise.allSettled(
         batch.map(async (event) => {
           try {
             const controller = new AbortController();
-            const timeout = setTimeout(() => controller.abort(), 5000);
+            const timeout = setTimeout(() => controller.abort(), 2500);
             const resp = await fetch(event.url, {
               headers: { 'User-Agent': UA },
               signal: controller.signal,
@@ -1264,7 +1271,7 @@ async function fetchWeb3Events() {
       found += results.filter(r => r.status === 'fulfilled' && r.value).length;
       // Small delay between batches to be polite
       if (i + BATCH_SIZE < needsImage.length) {
-        await new Promise(r => setTimeout(r, 800));
+        await new Promise(r => setTimeout(r, 100));
       }
     }
     console.log(`[OG Image] Found ${found}/${needsImage.length} images from og:image tags.`);

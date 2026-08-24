@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Jobs in Freetown: A Guide to Sierra Leone's Digital Renaissance"
-image: "/images/africa web3 jobs.jpg"
-data-ai-hint: "freetown sierra leone city"
-description: "A career guide to the emerging Web3 job market in Freetown. Explore how Sierra Leone's capital is using blockchain for governance and financial inclusion."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Freetown: A Guide to Sierra Leone''s Digital Renaissance'
+image: /images/africa web3 jobs.jpg
+data-ai-hint: freetown sierra leone city
+description: >-
+  A career guide to the emerging Web3 job market in Freetown. Explore how Sierra
+  Leone's capital is using blockchain for governance and financial inclusion.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Freetown, the resilient capital of Sierra Leone, is establishing itself as a significant player in the [Web3](/what-is-web3) movement. The city is transforming into a case study for the use of [blockchain](/what-is-a-blockchain) technology in governance and identity verification. Notably, Sierra Leone was among the first countries to implement blockchain for verifying national election results. the nation is developing a blockchain-based digital identity system, reflecting a governmental commitment to using technology for social good. This proactive approach has built a unique and impactful Web3 ecosystem.
@@ -49,7 +49,7 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 
 1. **Specialize in Decentralized Identity (DID):** Freetown's niche lies in DID and SSI. Become proficient in these areas by studying the Decentralized Identity Foundation (DIF) and relevant technical standards. Develop [portfolio](/building-web3-portfolio) projects focused on identity to enhance your qualifications for key roles in the nation's flagship initiatives.
 
-2. **Engage with Government and NGO Stakeholders:** Key players in Freetown’s ecosystem include government agencies and international partners. Establish connections with individuals at the National Civil Registration Authority and UN agencies involved in the digital identity project.
+2. **Engage with Government and NGO Stakeholders:** Key players in Freetown's ecosystem include government agencies and international partners. Establish connections with individuals at the National Civil Registration Authority and UN agencies involved in the digital identity project.
 
 3. **Prioritize Security and Privacy:** Demonstrate a thorough understanding of data privacy and security in all your work. This expertise is essential for any project dealing with citizen identity.
 

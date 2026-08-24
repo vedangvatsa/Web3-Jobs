@@ -1,13 +1,14 @@
 ---
-
-title: "Web3 Jobs in India: the best 2025 Career Guide"
-image: "https://images.unsplash.com/photo-1587474260584-136574528ed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYSUyMGNpdHl8ZW58MHx8fHwxNzE2NTQ2Mjg4fDA&ixlib=rb-4.0.3&q=80&w=1080"
-data-ai-hint: "india city skyline"
-description: "Explore India's growing Web3 talent market and remote opportunities for developers."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in India: the best 2025 Career Guide'
+image: >-
+  https://images.unsplash.com/photo-1587474260584-136574528ed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYSUyMGNpdHl8ZW58MHx8fHwxNzE2NTQ2Mjg4fDA&ixlib=rb-4.0.3&q=80&w=1080
+data-ai-hint: india city skyline
+description: >-
+  Explore India's growing Web3 talent market and remote opportunities for
+  developers.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 India has established itself as a global superpower in the Web3 sector. With one of the largest and youngest developer communities worldwide, India has become a vital center for blockchain innovation. The combination of a massive, digitally-native user base and increasing venture capital investment has created a growing job market in Web3. This trend signifies a fundamental shift, as top talent from India's prominent tech and finance sectors transitions into the crypto space.

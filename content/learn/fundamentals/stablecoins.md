@@ -1,51 +1,67 @@
 ---
-title: "Stablecoins: Digital Dollars"
-description: "How USDC, USDT, and DAI maintain their $1 peg and why they matter for Web3."
+title: 'Stablecoins: Digital Dollars'
+description: 'How USDC, USDT, and DAI maintain their $1 peg and why they matter for Web3.'
 order: 8
-readTime: "9 min"
-difficulty: "beginner"
-prerequisites: ["tokens"]
+readTime: 9 min
+difficulty: beginner
+prerequisites:
+  - tokens
 quiz:
-  - question: "Why do stablecoins exist?"
+  - question: Why do stablecoins exist?
     options:
-      - "To replace Bitcoin"
-      - "To provide a stable store of value in crypto, avoiding price volatility"
-      - "To mine new cryptocurrency"
-      - "To track stock market prices"
+      - To replace Bitcoin
+      - 'To provide a stable store of value in crypto, avoiding price volatility'
+      - To mine new cryptocurrency
+      - To track stock market prices
     correct: 1
-    explanation: "Crypto prices are volatile — ETH can move 10% in a day. Stablecoins stay at $1, making them useful for trading, payments, and savings without price risk."
-  - question: "How does USDC maintain its $1 peg?"
+    explanation: >-
+      Crypto prices are volatile - ETH can move 10% in a day. Stablecoins stay
+      at $1, making them useful for trading, payments, and savings without price
+      risk.
+  - question: How does USDC maintain its $1 peg?
     options:
-      - "An algorithm controls the supply"
-      - "The government sets the price"
-      - "Each USDC is backed by real cash and short-term US Treasury bonds"
-      - "Miners agree to keep the price at $1"
+      - An algorithm controls the supply
+      - The government sets the price
+      - Each USDC is backed by real cash and short-term US Treasury bonds
+      - Miners agree to keep the price at $1
     correct: 2
-    explanation: "USDC is backed 1:1 by reserves held by Circle. These reserves are cash and short-term US Treasury bonds, verified by independent accounting firms each month."
-  - question: "What is the main risk of centralized stablecoins like USDC?"
+    explanation: >-
+      USDC is backed 1:1 by reserves held by Circle. These reserves are cash and
+      short-term US Treasury bonds, verified by independent accounting firms
+      each month.
+  - question: What is the main risk of centralized stablecoins like USDC?
     options:
-      - "They could lose their peg if the backing company has problems"
-      - "They are too slow to use"
-      - "They require mining"
-      - "They can only be used on one blockchain"
+      - They could lose their peg if the backing company has problems
+      - They are too slow to use
+      - They require mining
+      - They can only be used on one blockchain
     correct: 0
-    explanation: "Centralized stablecoins depend on the issuing company. If Circle faced a regulatory shutdown or its reserve bank failed, USDC's peg could be at risk. This happened briefly in March 2023 when Silicon Valley Bank collapsed."
-  - question: "How is DAI different from USDC?"
+    explanation: >-
+      Centralized stablecoins depend on the issuing company. If Circle faced a
+      regulatory shutdown or its reserve bank failed, USDC's peg could be at
+      risk. This happened briefly in March 2023 when Silicon Valley Bank
+      collapsed.
+  - question: How is DAI different from USDC?
     options:
-      - "DAI is worth more than USDC"
-      - "DAI is backed by crypto collateral in smart contracts, not by a company"
-      - "DAI can only be used for NFTs"
-      - "DAI is issued by Coinbase"
+      - DAI is worth more than USDC
+      - 'DAI is backed by crypto collateral in smart contracts, not by a company'
+      - DAI can only be used for NFTs
+      - DAI is issued by Coinbase
     correct: 1
-    explanation: "DAI is created by locking up crypto (like ETH) as collateral in MakerDAO smart contracts. No company controls DAI. It is decentralized, but the trade-off is more complexity and potential for collateral liquidation."
-  - question: "What is the total stablecoin market cap approximately?"
+    explanation: >-
+      DAI is created by locking up crypto (like ETH) as collateral in MakerDAO
+      smart contracts. No company controls DAI. It is decentralized, but the
+      trade-off is more complexity and potential for collateral liquidation.
+  - question: What is the total stablecoin market cap approximately?
     options:
-      - "About $1 billion"
-      - "About $10 billion"
-      - "Over $150 billion"
-      - "Over $1 trillion"
+      - About $1 billion
+      - About $10 billion
+      - Over $150 billion
+      - Over $1 trillion
     correct: 2
-    explanation: "The total stablecoin market cap is over $150 billion as of 2024, with USDT being the largest. Stablecoins are the most widely used tokens in crypto."
+    explanation: >-
+      The total stablecoin market cap is over $150 billion as of 2024, with USDT
+      being the largest. Stablecoins are the most widely used tokens in crypto.
 ---
 
 ## The problem stablecoins solve
@@ -138,7 +154,7 @@ Stablecoins are the most widely used tokens in crypto. They handle more transact
 ## Key takeaways
 
 - Stablecoins are tokens designed to hold a steady $1 value, solving crypto's volatility problem.
-- **Fiat-backed** (USDC, USDT) are the simplest and most widely used — backed by real reserves.
+- **Fiat-backed** (USDC, USDT) are the simplest and most widely used - backed by real reserves.
 - **Crypto-backed** (DAI) are decentralized but complex, requiring over-collateralization.
-- **Algorithmic** stablecoins have a poor track record — UST's $40B collapse is a cautionary tale.
+- **Algorithmic** stablecoins have a poor track record - UST's $40B collapse is a cautionary tale.
 - Stablecoins are critical infrastructure for DeFi, payments, and cross-border transfers.

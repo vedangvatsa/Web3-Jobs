@@ -150,7 +150,7 @@ export const visaData: DigitalNomadVisa[] = [
       'Obtain a freelance permit from the Employment Agency.',
       'Minimum monthly income of approx. $2,500.',
       'Non-EU/EEA national.',
-      'Bulgaria joined the Schengen zone (air/sea) in 2024 — offers Schengen travel.'
+      'Bulgaria joined the Schengen zone (air/sea) in 2024 - offers Schengen travel.'
     ]
   },
   {
@@ -420,7 +420,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Europe',
     minIncome: 2335,
     visaLength: '1 year, renewable',
-    description: 'Launched in 2024, Italy’s Digital Nomad Visa targets"highly skilled" professionals. It grants a one-year renewable permit.',
+    description: 'Launched in 2024, Italy\'s Digital Nomad Visa targets "highly skilled" professionals. It grants a one-year renewable permit.',
     requirements: [
       'Must be a"highly skilled worker" (degree or 3+ years experience).',
       'Minimum annual income of approx. €28,000 (~$2,335/month).',

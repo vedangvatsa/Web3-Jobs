@@ -1,13 +1,13 @@
 ---
-
-title: "What is Solana? The High-Speed Blockchain"
-image: "/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
-data-ai-hint: "solana blockchain"
-description: "An overview of Solana, a Layer 1 blockchain designed for high performance and scalability, known for its fast transaction speeds and low costs."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is Solana? The High-Speed Blockchain
+image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
+data-ai-hint: solana blockchain
+description: >-
+  An overview of Solana, a Layer 1 blockchain designed for high performance and
+  scalability, known for its fast transaction speeds and low costs.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the **[Layer 1 blockchains](/what-is-a-layer-1-blockchain)** sector, **Solana** stands out as an influential player. It was engineered to tackle the scalability issues that have challenged other networks, notably [Ethereum](/what-is-ethereum). Solana is an open-source blockchain that prioritizes high performance, aiming to deliver the necessary throughput for decentralized applications (dApps) that aspire to serve a global audience.

@@ -1,10 +1,12 @@
 ---
 name: Centrifuge
-website: https://centrifuge.io
+website: 'https://centrifuge.io'
 founded: 2017
 category: RWA / DeFi
-headquarters: Berlin, Germany
-description: Decentralized protocol for tokenizing real-world assets and bringing them on-chain
+headquarters: 'Berlin, Germany'
+description: >-
+  Decentralized protocol for tokenizing real-world assets and bringing them
+  on-chain
 ---
 
 Decentralized protocol for tokenizing real-world assets and bringing them on-chain.

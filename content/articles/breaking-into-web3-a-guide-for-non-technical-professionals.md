@@ -1,13 +1,13 @@
 ---
-
-title: "Breaking Into Web3: A Guide for Non-Technical Professionals"
-image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
-description: "You don't need to be a developer to have a successful career in Web3. This guide explores the non-technical roles available and how to get started."
-category: "Career Guides"
-data-ai-hint: "career path"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Breaking Into Web3: A Guide for Non-Technical Professionals'
+image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
+description: >-
+  You don't need to be a developer to have a successful career in Web3. This
+  guide explores the non-technical roles available and how to get started.
+category: Career Guides
+data-ai-hint: career path
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 [Web3](/what-is-web3) offers a range of career opportunities that extend beyond [smart contract](/what-are-smart-contracts) development. Professionals with backgrounds in business, marketing, operations, or finance can find roles that suit their skills. The industry thrives on the expertise of individuals who can create products, market services, manage operations, and understand regulations.

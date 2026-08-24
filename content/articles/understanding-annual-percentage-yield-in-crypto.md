@@ -1,13 +1,13 @@
 ---
-
-title: "Understanding Annual Percentage Yield in Crypto"
-image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
-data-ai-hint: "apy crypto yield"
-description: "APY is an important metric in DeFi, but what does it really mean? This guide breaks down Annual Percentage Yield, how it differs from APR, and how to."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Annual Percentage Yield in Crypto
+image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
+data-ai-hint: apy crypto yield
+description: >-
+  APY is an important metric in DeFi, but what does it really mean? This guide
+  breaks down Annual Percentage Yield, how it differs from APR, and how to.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In Decentralized Finance ([DeFi](/what-is-defi)), many projects promote high yields, typically expressed as Annual Percentage Yield (APY). Understanding APY and differentiating it from Annual Percentage Rate (APR) is essential for anyone aiming to earn returns on crypto assets. This knowledge can significantly impact your financial decisions.

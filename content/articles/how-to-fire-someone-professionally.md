@@ -1,20 +1,22 @@
 ---
-
-title: "How to Fire Someone Professionally and Compassionately"
-category: "Career Guides"
-date: "2025-09-12"
-description: "Letting an employee go is the hardest part of being a manager. This guide covers the essential steps for a termination process that is clear, respectful."
-image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
-data-ai-hint: "firing employee meeting"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Fire Someone Professionally and Compassionately
+category: Career Guides
+date: '2025-09-12'
+description: >-
+  Letting an employee go is the hardest part of being a manager. This guide
+  covers the essential steps for a termination process that is clear,
+  respectful.
+image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
+data-ai-hint: firing employee meeting
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Firing someone is the worst part of management. No framework makes it comfortable. But there's a big difference between doing it well and doing it badly. Here's how to handle it with clarity and respect.
 
 ## Before the Conversation: Preparation Is Everything
 
-If the termination is performance-related, there should be a documented trail — PIPs, written feedback, and clear expectations that were communicated and not met. If you don't have this, you're not ready to fire someone — you're ready to start managing them more closely.
+If the termination is performance-related, there should be a documented trail - PIPs, written feedback, and clear expectations that were communicated and not met. If you don't have this, you're not ready to fire someone - you're ready to start managing them more closely.
 
 **Involve HR early.** Even in small companies, get someone from HR or legal in the loop before the conversation. They'll help you navigate final pay requirements, benefits continuation, and anything specific to the person's contract.
 
@@ -24,11 +26,11 @@ If the termination is performance-related, there should be a documented trail �
 
 ## The Conversation Itself
 
-Keep it short. This is not a negotiation or a performance review. The decision has been made. The meeting should be 15–20 minutes, maximum.
+Keep it short. This is not a negotiation or a performance review. The decision has been made. The meeting should be 15-20 minutes, maximum.
 
 **Be direct in the first two sentences.** Don't open with small talk or bury the news behind a compliment sandwich. Say: "I need to let you know that we've made the decision to end your employment, effective [date]." Then pause. Let it land.
 
-**Give a brief, honest reason.** You don't owe a long explanation, but the person deserves to know why. "The role has evolved beyond the current scope" or "We haven't seen the improvement we discussed during the PIP" — keep it factual and short.
+**Give a brief, honest reason.** You don't owe a long explanation, but the person deserves to know why. "The role has evolved beyond the current scope" or "We haven't seen the improvement we discussed during the PIP" - keep it factual and short.
 
 **What NOT to say:**
 - "This is harder for me than it is for you." (It's not.)
@@ -44,7 +46,7 @@ Walk them through what happens next. Cover:
 - **Last day and transition.** Is today their last day, or do they have a transition period?
 - **Final pay and severance.** When they'll receive it and how much, if applicable.
 - **Benefits.** Health insurance continuation, COBRA (in the US), or local equivalents.
-- **Systems access.** When their accounts will be deactivated. Do this promptly after the conversation — don't leave it for days.
+- **Systems access.** When their accounts will be deactivated. Do this promptly after the conversation - don't leave it for days.
 - **Equipment return.** How and when to return company hardware.
 - **Reference.** Will you serve as a reference? Be honest about what you can say.
 
@@ -62,12 +64,12 @@ Within 24 hours, tell the team directly. Keep it simple and respectful: "I want 
 
 ## Firing in Web3 and DAO Contexts
 
-Traditional companies have employment contracts and HR departments. DAOs often don't. Removing a contributor from a DAO involves different mechanics — governance votes, multisig access revocation, or simply not renewing a grant.
+Traditional companies have employment contracts and HR departments. DAOs often don't. Removing a contributor from a DAO involves different mechanics - governance votes, multisig access revocation, or simply not renewing a grant.
 
 But the human element is the same. If someone's work isn't meeting standards, they deserve direct feedback and a chance to improve before being cut off. Decentralization doesn't excuse ghosting someone or quietly removing their permissions without a conversation.
 
-If you're in a [Web3 leadership role](/jobs) without formal HR, you carry extra responsibility. Document agreements in writing. Set clear deliverables. And when the relationship isn't working, have the conversation directly — over video, not in a Discord DM.
+If you're in a [Web3 leadership role](/jobs) without formal HR, you carry extra responsibility. Document agreements in writing. Set clear deliverables. And when the relationship isn't working, have the conversation directly - over video, not in a Discord DM.
 
 ## The Uncomfortable Truth
 
-You'll never feel good about firing someone. If you do, something's wrong. But you can do it in a way that preserves the person's dignity, protects your team's trust, and lets everyone move forward. Preparation, directness, and basic human decency — that's the entire playbook.
+You'll never feel good about firing someone. If you do, something's wrong. But you can do it in a way that preserves the person's dignity, protects your team's trust, and lets everyone move forward. Preparation, directness, and basic human decency - that's the entire playbook.

@@ -1,13 +1,14 @@
 ---
-
-title: "What is a Liquidity Provider (LP) Token?"
-description: "A complete guide to understanding Liquidity Provider (LP) tokens, how they represent your share in a liquidity pool, and their central role in DeFi yield."
-category: "Educational"
-image: "https://picsum.photos/seed/lptoken/1200/630"
-data-ai-hint: "liquidity provider"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is a Liquidity Provider (LP) Token?
+description: >-
+  A complete guide to understanding Liquidity Provider (LP) tokens, how they
+  represent your share in a liquidity pool, and their central role in DeFi
+  yield.
+category: Educational
+image: 'https://picsum.photos/seed/lptoken/1200/630'
+data-ai-hint: liquidity provider
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## What is a Liquidity Provider (LP) Token?

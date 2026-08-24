@@ -1,6 +1,6 @@
 ---
 name: Wintermute
-website: https://wintermute.com
+website: 'https://wintermute.com'
 category: Other
 description: Wintermute is a global algorithmic trading firm in the cryptocurrency market.
 ---

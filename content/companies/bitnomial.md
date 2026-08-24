@@ -1,6 +1,6 @@
 ---
 name: Bitnomial
-website: https://bitnomial.com
+website: 'https://bitnomial.com'
 category: Cryptocurrency Exchange
 description: Bitnomial operates a cryptocurrency derivatives exchange.
 ---

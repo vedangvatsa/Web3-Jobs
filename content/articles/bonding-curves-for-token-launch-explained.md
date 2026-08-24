@@ -1,13 +1,14 @@
 ---
-
-title: "Bonding Curves for Token Launch Explained"
-image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
-data-ai-hint: "bonding curve token"
-description: "A guide to using bonding curves for a token launch. Learn how this mechanism provides instant liquidity and transparent price discovery for new crypto projects."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Bonding Curves for Token Launch Explained
+image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
+data-ai-hint: bonding curve token
+description: >-
+  A guide to using bonding curves for a token launch. Learn how this mechanism
+  provides instant liquidity and transparent price discovery for new crypto
+  projects.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Launching a new cryptocurrency token involves a significant challenge: establishing a liquid and fair market from the outset. A bonding curve provides a solution by using a smart contract as an automated market maker.

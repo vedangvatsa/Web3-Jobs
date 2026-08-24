@@ -1,13 +1,14 @@
 ---
-
-title: "How to Switch Industries Successfully"
-image: "https://picsum.photos/seed/switch-industries/1200/630"
-data-ai-hint: "bridge crossing gap"
-description: "A practical guide on how to successfully switch industries. Learn how to identify transferable skills, rebrand yourself, and make a smooth transition to a."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Switch Industries Successfully
+image: 'https://picsum.photos/seed/switch-industries/1200/630'
+data-ai-hint: bridge crossing gap
+description: >-
+  A practical guide on how to successfully switch industries. Learn how to
+  identify transferable skills, rebrand yourself, and make a smooth transition
+  to a.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Switching industries can feel daunting. You may have invested years in building expertise and connections in one field, and now you're contemplating a transition to a completely different one. This can lead to greater fulfillment and new opportunities, but it requires a strategic approach. Here are actionable steps to enable a successful transition.

@@ -1,9 +1,9 @@
 ---
 name: Anchorage Digital
-website: https://anchorage.com
+website: 'https://anchorage.com'
 founded: 2017
 category: Digital Asset Infrastructure
-headquarters: San Francisco, California, USA
+headquarters: 'San Francisco, California, USA'
 description: First federally chartered digital asset bank in the United States
 ---
 

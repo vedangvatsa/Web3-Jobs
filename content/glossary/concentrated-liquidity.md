@@ -3,18 +3,23 @@ term: Concentrated Liquidity
 slug: concentrated-liquidity
 category: defi
 difficulty: intermediate
-image: "https://images.unsplash.com/photo-1642093154166-41b66565c96f?w=1200&q=80"
-description: Concentrated liquidity is a capital efficiency innovation pioneered by Uniswap V3 that allows liquidity providers to allocate their capital to custom price ranges rather than across the entire price curve. This enables LPs to earn more fees with less capital while providing better execution for traders within active ranges.
+image: 'https://images.unsplash.com/photo-1642093154166-41b66565c96f?w=1200&q=80'
+description: >-
+  Concentrated liquidity is a capital efficiency innovation pioneered by Uniswap
+  V3 that allows liquidity providers to allocate their capital to custom price
+  ranges rather than across the entire price curve. This enables LPs to earn
+  more fees with less capital while providing better execution for traders
+  within active ranges.
 relatedTerms:
- - liquidity-provider
- - automated-market-maker
- - impermanent-loss
- - uniswap
- - liquidity-pool
+  - liquidity-provider
+  - automated-market-maker
+  - impermanent-loss
+  - uniswap
+  - liquidity-pool
 synonyms:
- - Range liquidity
- - Custom liquidity ranges
- - Position-based liquidity
+  - Range liquidity
+  - Custom liquidity ranges
+  - Position-based liquidity
 ---
 
 - **Concentrated liquidity** is an AMM (automated market maker) design that allows liquidity providers to allocate their capital within custom price ranges instead of distributing it across the entire 0-to-infinity price curve. Introduced by Uniswap V3 in May 2021, this innovation changed DeFi by enabling greater capital efficiency compared to traditional constant product (x*y=k) AMMs.

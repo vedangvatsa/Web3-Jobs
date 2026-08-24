@@ -1,13 +1,13 @@
 ---
-
-title: "Solving Token Compensation for Web3 Employment"
-image: "/images/anas-alshanti-feXpdV001o4-unsplash.jpg"
-data-ai-hint: "token compensation equity"
-description: "A guide to designing and understanding token-based compensation. Learn about vesting schedules, cliffs, and how to use tokens to align incentives for your."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Solving Token Compensation for Web3 Employment
+image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
+data-ai-hint: token compensation equity
+description: >-
+  A guide to designing and understanding token-based compensation. Learn about
+  vesting schedules, cliffs, and how to use tokens to align incentives for your.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 One of the most important innovations of [Web3](/what-is-web3) is the ability to provide team members and contributors with direct ownership in the networks they help build. This ownership comes through **[token](/what-is-a-token)-based compensation**, which often represents a substantial portion of a Web3 professional's earnings. Instead of merely receiving a salary and possibly some equity in a centralized company, team members can receive native tokens as part of their compensation package.
@@ -27,7 +27,7 @@ A standard token grant for a full-time team member typically includes the follow
 **1. Grant Size**
 
 - **Definition:** The total number of tokens allocated to the individual, often expressed as a monetary value at the time of the grant and as a percentage of the total token supply.
-- **Considerations:** The grant size should be competitive and reflect the individual’s role, experience, and potential contributions to the project. Senior engineers and leadership roles usually receive the largest grants. Establishing a clear "leveling framework" ensures fairness and consistency across the team.
+- **Considerations:** The grant size should be competitive and reflect the individual's role, experience, and potential contributions to the project. Senior engineers and leadership roles usually receive the largest grants. Establishing a clear "leveling framework" ensures fairness and consistency across the team.
 
 **2. Vesting Schedule**
 

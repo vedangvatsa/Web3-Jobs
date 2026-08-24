@@ -1,9 +1,9 @@
 ---
 name: Kraken
-website: https://kraken.com
+website: 'https://kraken.com'
 founded: 2011
 category: Cryptocurrency Exchange
-headquarters: San Francisco, California, USA
+headquarters: 'San Francisco, California, USA'
 description: One of the oldest and most trusted U.S. cryptocurrency exchanges
 ---
 

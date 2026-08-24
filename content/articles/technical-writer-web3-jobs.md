@@ -1,12 +1,13 @@
 ---
-
-title: "The Unsung Heroes: Why Technical Writers are Important for Web3"
-image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2RlfGVufDB8fHx8MTc1NTE2MTQzMnww&ixlib=rb-4.1.0&q=80&w=1080"
-description: "Web3 is complex. Technical writers are the key to making it understandable. Learn about the growing demand for writers who can bridge the gap between."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'The Unsung Heroes: Why Technical Writers are Important for Web3'
+image: >-
+  https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2RlfGVufDB8fHx8MTc1NTE2MTQzMnww&ixlib=rb-4.1.0&q=80&w=1080
+description: >-
+  Web3 is complex. Technical writers are the key to making it understandable.
+  Learn about the growing demand for writers who can bridge the gap between.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the complex world of [Web3](/what-is-web3), the role of the **Technical Writer** stands out as both essential and frequently undervalued. While [smart contract](/what-are-smart-contracts) engineers develop the protocols and community managers cultivate engagement, technical writers serve as translators and educators. They bridge the gap between complex technology and user understanding, allowing developers to build effectively and users to interact safely.

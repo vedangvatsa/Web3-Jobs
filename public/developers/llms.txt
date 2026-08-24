@@ -1,0 +1,24 @@
+# Hashtag Web3 — Developer & Agent Scoped Context
+
+> Scoped documentation index for developers, LLMs, and autonomous agents integrating with Hashtag Web3 APIs, OpenAPI specifications, and MCP servers.
+
+## Endpoints
+
+- `GET https://hashtagweb3.com/api/jobs`: Search and paginate live Web3 jobs (`search`, `tag`, `company`, `limit`, `offset`).
+- `GET https://hashtagweb3.com/api/news`: Real-time aggregated crypto headlines (`search`, `limit`).
+- `GET https://hashtagweb3.com/api/events`: Global Web3 conferences and hackathons (`search`, `type`, `country`, `limit`).
+- `GET https://hashtagweb3.com/api/glossary`: 200+ blockchain glossary definitions (`search`, `category`, `limit`).
+- `POST https://hashtagweb3.com/ask`: Microsoft NLWeb natural-language query endpoint with streaming support.
+
+## Machine-Readable Specs
+
+- [OpenAPI 3.1 JSON](https://hashtagweb3.com/openapi.json)
+- [OpenAPI 3.1 YAML](https://hashtagweb3.com/api/openapi.yaml)
+- [MCP Server Card](https://hashtagweb3.com/.well-known/mcp/server-card.json)
+- [Agent Manifest](https://hashtagweb3.com/.well-known/agents.json)
+- [A2A Agent Card](https://hashtagweb3.com/.well-known/agent-card.json)
+- [Agentic Resource Discovery Catalog](https://hashtagweb3.com/.well-known/ai-catalog.json)
+- [RFC 9727 API Catalog](https://hashtagweb3.com/.well-known/api-catalog)
+- [Agent Auth Guide](https://hashtagweb3.com/auth.md)
+- [RFC 9728 OAuth Protected Resource Metadata](https://hashtagweb3.com/.well-known/oauth-protected-resource)
+- [RFC 8414 OAuth Authorization Server Metadata](https://hashtagweb3.com/.well-known/oauth-authorization-server)

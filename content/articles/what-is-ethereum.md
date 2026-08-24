@@ -1,13 +1,13 @@
 ---
-
-title: "What is Ethereum? The World Computer"
-image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
-data-ai-hint: "ethereum network"
-description: "A full guide to Ethereum, the decentralized, open-source blockchain that pioneered smart contracts and powers the vast majority of the Web3 ecosystem."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is Ethereum? The World Computer
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+data-ai-hint: ethereum network
+description: >-
+  A full guide to Ethereum, the decentralized, open-source blockchain that
+  pioneered smart contracts and powers the vast majority of the Web3 ecosystem.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Ethereum has changed how the world perceives blockchain technology and decentralized applications. Launched in 2015 by Vitalik Buterin and a team of developers, Ethereum is a decentralized, open-source blockchain that extends beyond Bitcoin by enabling the creation of smart contracts. This innovation shifted the blockchain's role from merely a ledger for transactions to a platform for developing decentralized applications (dApps).

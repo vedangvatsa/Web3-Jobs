@@ -1,6 +1,6 @@
 ---
 name: Lens Protocol
-website: https://lens.xyz
+website: 'https://lens.xyz'
 founded: 2022
 category: Social / DeSoc
 headquarters: Remote

@@ -1,12 +1,21 @@
 ---
-term: "Covenant"
-slug: "covenant"
-category: "blockchain-fundamentals"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "A smart contract or Bitcoin script that restricts how an output can be spent, enabling more complex spending conditions than traditional transactions."
-relatedTerms: ["smart-contract", "script", "bitcoin", "utxo"]
-synonyms: ["output constraint", "spending restriction", "conditional lock"]
+term: Covenant
+slug: covenant
+category: blockchain-fundamentals
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A smart contract or Bitcoin script that restricts how an output can be spent,
+  enabling more complex spending conditions than traditional transactions.
+relatedTerms:
+  - smart-contract
+  - script
+  - bitcoin
+  - utxo
+synonyms:
+  - output constraint
+  - spending restriction
+  - conditional lock
 ---
 
 Covenant refers to a smart contract or Bitcoin script mechanism that restricts how an output can be spent, enabling more complex spending conditions than traditional transactions allow. While standard Bitcoin ownership permits unrestricted spending, covenants impose specific rules such as limiting funds to particular addresses, time-locked releases, or multi-step withdrawal processes. The most prominent proposed implementation is OP_CHECKTEMPLATEVERIFY (CTV), which would allow users to create vault structures where funds must pass through a waiting period before final withdrawal, reducing theft risk. Research into covenant designs has intensified, with multiple distinct covenant proposals documented in Bitcoin development discussions. These mechanisms would enable applications including improved payment channels, inheritance protocols, and congestion control for high-fee environments. As Bitcoin's programmability expands, developers with expertise in covenant design and Script-level security are increasingly sought after by infrastructure teams building Bitcoin applications.

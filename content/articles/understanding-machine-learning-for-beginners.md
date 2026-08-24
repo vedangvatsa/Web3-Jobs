@@ -1,16 +1,16 @@
 ---
-
-title: "Understanding Machine Learning for Beginners"
-image: "https://picsum.photos/seed/ml-beginners/1200/630"
-description: "A simple introduction to machine learning, explaining what it is, how it differs from traditional programming, and where it's used."
-category: "Educational"
-data-ai-hint: "data processing"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Machine Learning for Beginners
+image: 'https://picsum.photos/seed/ml-beginners/1200/630'
+description: >-
+  A simple introduction to machine learning, explaining what it is, how it
+  differs from traditional programming, and where it's used.
+category: Educational
+data-ai-hint: data processing
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
-Machine learning is a way of teaching computers to make predictions or decisions without being explicitly programmed for every possibility. Instead of writing a long list of rules for a computer to follow, you provide it with a large amount of data and let it figure out the rules for itself. It’s a core component of [what we call artificial intelligence](/what-is-artificial-intelligence-and-how-it-works), and it's what powers many of the smart features you use every day.
+Machine learning is a way of teaching computers to make predictions or decisions without being explicitly programmed for every possibility. Instead of writing a long list of rules for a computer to follow, you provide it with a large amount of data and let it figure out the rules for itself. It's a core component of [what we call artificial intelligence](/what-is-artificial-intelligence-and-how-it-works), and it's what powers many of the smart features you use every day.
 
 Think about how you learned what a stop sign looks like. No one gave you a set of rules like "if it's an octagon, and it's red, and it has the letters S-T-O-P, then it's a stop sign." You just saw many examples of stop signs in different lighting and at different angles, and your brain learned to recognize them. Machine learning works in a similar way. You show a computer model thousands of pictures of stop signs, and it learns the underlying patterns that identify one.
 

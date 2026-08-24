@@ -1,13 +1,13 @@
 ---
-
-title: "Neural Networks Complete Guide for Newcomers"
-image: "https://picsum.photos/seed/neural-networks/1200/630"
-description: "A beginner's guide to neural networks, the technology that powers deep learning and modern AI, explained in simple terms."
-category: "Educational"
-data-ai-hint: "connected nodes"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Neural Networks Complete Guide for Newcomers
+image: 'https://picsum.photos/seed/neural-networks/1200/630'
+description: >-
+  A beginner's guide to neural networks, the technology that powers deep
+  learning and modern AI, explained in simple terms.
+category: Educational
+data-ai-hint: connected nodes
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 A neural network functions as a computer program designed to mimic the human brain. This technology is essential for [deep learning](/what-is-deep-learning-technology-explained) and drives many recent advancements in artificial intelligence. The fundamental concept involves creating a system that learns from examples, similar to how humans learn.

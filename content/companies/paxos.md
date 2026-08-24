@@ -1,8 +1,10 @@
 ---
 name: Paxos
-website: https://paxos.com
+website: 'https://paxos.com'
 category: Crypto Payments
-description: Paxos provides blockchain-based solutions for financial institutions and digital assets.
+description: >-
+  Paxos provides blockchain-based solutions for financial institutions and
+  digital assets.
 ---
 
 Paxos is a financial technology company that offers blockchain infrastructure for various financial services. The company specializes in enabling the issuance, trading, and settlement of digital assets. Paxos operates a regulated cryptocurrency exchange and provides a stablecoin, known as Pax Dollar (USDP), which is pegged to the US dollar.

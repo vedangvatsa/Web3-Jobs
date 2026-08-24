@@ -1,12 +1,22 @@
 ---
-term: "Curve Bonding"
-slug: "curve-bonding"
-category: "defi"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "A DeFi mechanism where tokens are minted and burned along a mathematical curve, enabling continuous price discovery and automatic market making without liquidity pools."
-relatedTerms: ["bonding-curve", "amm", "token-pricing", "defi"]
-synonyms: ["bonding-curve", "automated token pricing", "curve pricing"]
+term: Curve Bonding
+slug: curve-bonding
+category: defi
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  A DeFi mechanism where tokens are minted and burned along a mathematical
+  curve, enabling continuous price discovery and automatic market making without
+  liquidity pools.
+relatedTerms:
+  - bonding-curve
+  - amm
+  - token-pricing
+  - defi
+synonyms:
+  - bonding-curve
+  - automated token pricing
+  - curve pricing
 ---
 
 Curve bonding is a DeFi mechanism where tokens are minted and burned according to a mathematical pricing function. This enables continuous price discovery and automatic market making without requiring traditional liquidity pools. When users purchase tokens, they send reserve currency to a smart contract that mints new tokens at a price determined by the current position on the bonding curve, with prices increasing as supply grows. Conversely, selling burns tokens and returns reserve currency at the curve-determined rate. This creates predictable, algorithmic pricing that adjusts automatically based on demand. The mechanism also powers continuous fundraising models and token distribution systems across various protocols. Understanding bonding curve mathematics has become increasingly valuable for tokenomics designers, smart contract developers, and DeFi analysts.

@@ -1,13 +1,14 @@
 ---
-
-title: "Cover Letter Writing Best Practices"
-image: "https://picsum.photos/seed/cover-letter/1200/630"
-data-ai-hint: "letter writing document"
-description: "Learn how to write a compelling cover letter that complements your resume and gets you noticed. Follow these best practices to make a great first impression."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Cover Letter Writing Best Practices
+image: 'https://picsum.photos/seed/cover-letter/1200/630'
+data-ai-hint: letter writing document
+description: >-
+  Learn how to write a compelling cover letter that complements your resume and
+  gets you noticed. Follow these best practices to make a great first
+  impression.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 A cover letter remains a vital component of the job application process. While your [resume](/how-to-build-a-web3-resume-that-stands-out) summarizes your qualifications, the cover letter allows you to convey your story, personality, and connection to the hiring manager. It serves as a platform to articulate why you are the ideal candidate for the position. Implement these best practices to craft a compelling cover letter that stands out.

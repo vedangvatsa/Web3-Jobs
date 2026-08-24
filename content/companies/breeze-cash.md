@@ -1,6 +1,6 @@
 ---
 name: Breeze Cash
-website: https://breeze.cash
+website: 'https://breeze.cash'
 founded: 2022
 category: Payments / Fintech
 headquarters: Remote

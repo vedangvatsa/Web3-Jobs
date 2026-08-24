@@ -1,6 +1,6 @@
 ---
 name: Mem Protocol
-website: https://mem.co
+website: 'https://mem.co'
 category: Other
 description: Mem Protocol is a decentralized protocol for creating and managing memes.
 ---

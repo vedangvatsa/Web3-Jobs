@@ -1,60 +1,76 @@
 ---
-title: "Wallets and Private Keys"
-description: "How wallets work, what private keys are, and how to keep your crypto safe."
+title: Wallets and Private Keys
+description: 'How wallets work, what private keys are, and how to keep your crypto safe.'
 order: 5
-readTime: "10 min"
-difficulty: "beginner"
-prerequisites: ["ethereum"]
+readTime: 10 min
+difficulty: beginner
+prerequisites:
+  - ethereum
 quiz:
-  - question: "What is a private key?"
+  - question: What is a private key?
     options:
-      - "Your username on a blockchain"
-      - "A secret number that lets you spend your crypto"
-      - "A password you set when creating a wallet"
-      - "The address where you receive crypto"
+      - Your username on a blockchain
+      - A secret number that lets you spend your crypto
+      - A password you set when creating a wallet
+      - The address where you receive crypto
     correct: 1
-    explanation: "A private key is a secret number that proves you own your crypto. Anyone who has your private key can spend your money. You must never share it."
-  - question: "What is a seed phrase?"
+    explanation: >-
+      A private key is a secret number that proves you own your crypto. Anyone
+      who has your private key can spend your money. You must never share it.
+  - question: What is a seed phrase?
     options:
-      - "A password to log into a website"
-      - "A list of 12 or 24 words that can regenerate all your private keys"
-      - "A code sent to your email for verification"
-      - "The name of your wallet"
+      - A password to log into a website
+      - A list of 12 or 24 words that can regenerate all your private keys
+      - A code sent to your email for verification
+      - The name of your wallet
     correct: 1
-    explanation: "A seed phrase (also called recovery phrase) is 12 or 24 random words. From these words, your wallet can regenerate all your private keys and addresses. If you lose your seed phrase and your device, your crypto is gone forever."
-  - question: "What happens if you lose your seed phrase and your device breaks?"
+    explanation: >-
+      A seed phrase (also called recovery phrase) is 12 or 24 random words. From
+      these words, your wallet can regenerate all your private keys and
+      addresses. If you lose your seed phrase and your device, your crypto is
+      gone forever.
+  - question: What happens if you lose your seed phrase and your device breaks?
     options:
-      - "You can reset it through customer support"
-      - "The blockchain will recover your funds"
-      - "Your crypto is permanently lost"
-      - "Your bank will reimburse you"
+      - You can reset it through customer support
+      - The blockchain will recover your funds
+      - Your crypto is permanently lost
+      - Your bank will reimburse you
     correct: 2
-    explanation: "There is no customer support for blockchains. If you lose both your seed phrase and your device, there is no way to recover your crypto. This is why backing up your seed phrase is critical."
-  - question: "Which is safer for storing large amounts of crypto?"
+    explanation: >-
+      There is no customer support for blockchains. If you lose both your seed
+      phrase and your device, there is no way to recover your crypto. This is
+      why backing up your seed phrase is critical.
+  - question: Which is safer for storing large amounts of crypto?
     options:
-      - "A browser extension wallet"
-      - "A mobile wallet app"
-      - "A hardware wallet"
-      - "A screenshot of your seed phrase"
+      - A browser extension wallet
+      - A mobile wallet app
+      - A hardware wallet
+      - A screenshot of your seed phrase
     correct: 2
-    explanation: "Hardware wallets (like Ledger or Trezor) store your private keys on a physical device that never connects to the internet. This makes them nearly impossible to hack remotely."
-  - question: "Your wallet address is like a..."
+    explanation: >-
+      Hardware wallets (like Ledger or Trezor) store your private keys on a
+      physical device that never connects to the internet. This makes them
+      nearly impossible to hack remotely.
+  - question: Your wallet address is like a...
     options:
-      - "Password that must stay secret"
-      - "Bank account number that you can share publicly"
-      - "Social security number"
-      - "Credit card number"
+      - Password that must stay secret
+      - Bank account number that you can share publicly
+      - Social security number
+      - Credit card number
     correct: 1
-    explanation: "Your wallet address is public, like a bank account number. Anyone can send crypto to it. Your private key is what you keep secret — it is what lets you spend the crypto in that address."
+    explanation: >-
+      Your wallet address is public, like a bank account number. Anyone can send
+      crypto to it. Your private key is what you keep secret - it is what lets
+      you spend the crypto in that address.
 ---
 
 ## Your wallet is your bank account and your ID
 
 In Web2, you log into websites with an email and password. In Web3, you connect with a wallet. Your wallet does three things:
 
-1. **Holds your money** — your ETH, tokens, and NFTs
-2. **Proves your identity** — your wallet address is your on-chain identity
-3. **Signs transactions** — confirms that you approve a transfer or contract interaction
+1. **Holds your money** - your ETH, tokens, and NFTs
+2. **Proves your identity** - your wallet address is your on-chain identity
+3. **Signs transactions** - confirms that you approve a transfer or contract interaction
 
 There is no company behind your wallet. No bank holds your funds. You hold them directly.
 
@@ -102,7 +118,7 @@ The key point: you can go from private key → public address, but you cannot go
 
 Managing a raw 256-bit private key is impractical. That is why wallets use a **seed phrase** (also called a recovery phrase): 12 or 24 English words that encode your private key.
 
-Example seed phrase (do NOT use this — it is just for illustration):
+Example seed phrase (do NOT use this - it is just for illustration):
 
 ```
 apple banana cherry dragon eagle frost grape hollow ivory jewel kite lemon
@@ -156,7 +172,7 @@ From these 12 words, your wallet can generate your private key, your public addr
 </svg>
 </div>
 
-**Hot wallets** are connected to the internet. Easy to use but more vulnerable to hacks. Use them like a wallet in your pocket — carry spending money, not your life savings.
+**Hot wallets** are connected to the internet. Easy to use but more vulnerable to hacks. Use them like a wallet in your pocket - carry spending money, not your life savings.
 
 **Cold wallets** keep your keys offline. A hardware wallet like Ledger is a USB-sized device that stores your private key on a secure chip. When you want to sign a transaction, you physically press a button on the device. Even if your computer has malware, the hacker cannot access your keys.
 
@@ -173,11 +189,11 @@ From these 12 words, your wallet can generate your private key, your public addr
 
 **Common scams to watch for**:
 
-"Connect your wallet to claim free tokens" — this is almost always a scam. The website drains your wallet when you approve the transaction.
+"Connect your wallet to claim free tokens" - this is almost always a scam. The website drains your wallet when you approve the transaction.
 
-"Send me your seed phrase to verify your wallet" — no legitimate service will ever ask for your seed phrase. Ever.
+"Send me your seed phrase to verify your wallet" - no legitimate service will ever ask for your seed phrase. Ever.
 
-"This token will 100x" — unsolicited investment advice in DMs is a scam. Always.
+"This token will 100x" - unsolicited investment advice in DMs is a scam. Always.
 
 ## Key takeaways
 

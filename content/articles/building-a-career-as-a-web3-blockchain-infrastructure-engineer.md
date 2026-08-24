@@ -1,13 +1,13 @@
 ---
-
-title: "Building a Career as a Web3 Blockchain Infrastructure Engineer"
-image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
-data-ai-hint: "blockchain infrastructure engineer"
-description: "A career guide for engineers who want to build the core infrastructure of Web3. Learn what a blockchain infrastructure engineer does, the skills they."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Building a Career as a Web3 Blockchain Infrastructure Engineer
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+data-ai-hint: blockchain infrastructure engineer
+description: >-
+  A career guide for engineers who want to build the core infrastructure of
+  Web3. Learn what a blockchain infrastructure engineer does, the skills they.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 While dApp and [smart contract](/what-are-smart-contracts) developers focus on application development, Web3 [Blockchain](/what-is-a-blockchain) Infrastructure Engineers build the foundational technologies that support those applications. These engineers occupy a specialized role within the blockchain ecosystem, concentrating on constructing, maintaining, and optimizing core components.

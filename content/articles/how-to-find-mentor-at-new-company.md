@@ -1,13 +1,14 @@
 ---
-
-title: "How to Find a Mentor at a New Company"
-description: "A good mentor can be invaluable for your career growth, especially at a new company. This guide provides a step-by-step approach to finding and building a."
-category: "Career Guides"
-image: "https://picsum.photos/seed/308/1200/630"
-data-ai-hint: "finding mentor"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Find a Mentor at a New Company
+description: >-
+  A good mentor can be invaluable for your career growth, especially at a new
+  company. This guide provides a step-by-step approach to finding and building
+  a.
+category: Career Guides
+image: 'https://picsum.photos/seed/308/1200/630'
+data-ai-hint: finding mentor
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## How to Find a Mentor at a New Company
@@ -59,7 +60,7 @@ Before diving into the mechanics, understand why mentorship matters:
 - **Institutional Knowledge:** Mentors help you understand the unwritten rules and culture of your organization.
 - **Sponsorship:** The best mentors actively advocate for your advancement and opportunities.
 
-See also: **[First 90 Days in a New Job Strategy](first-90-days-in-new-job-strategy)** – Mentorship is a critical component of successful onboarding.
+See also: **[First 90 Days in a New Job Strategy](first-90-days-in-new-job-strategy)** - Mentorship is a critical component of successful onboarding.
 
 ### Step 1: Identify Potential Mentors
 
@@ -155,7 +156,7 @@ You've secured 20-30 minutes with a potential mentor. Here's how to make it coun
 - Don't extend without permission (they likely have other commitments).
 - End on a high note: "This has been incredibly helpful. Thank you so much for taking the time."
 
-See also: **[Asking Smart Questions as a New Employee](asking-smart-questions-as-new-employee)** – Deep dive into asking questions effectively.
+See also: **[Asking Smart Questions as a New Employee](asking-smart-questions-as-new-employee)** - Deep dive into asking questions effectively.
 
 ### Step 4: Nurture the Relationship
 

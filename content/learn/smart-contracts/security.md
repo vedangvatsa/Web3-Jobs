@@ -1,51 +1,79 @@
 ---
-title: "Smart Contract Security 101"
-description: "Reentrancy, access control, and how to write secure Solidity code."
+title: Smart Contract Security 101
+description: 'Reentrancy, access control, and how to write secure Solidity code.'
 order: 4
-readTime: "9 min"
-difficulty: "advanced"
-prerequisites: ["erc20"]
+readTime: 9 min
+difficulty: advanced
+prerequisites:
+  - erc20
 quiz:
-  - question: "What is a reentrancy attack?"
+  - question: What is a reentrancy attack?
     options:
-      - "When a hacker guesses your private key"
-      - "When a malicious contract calls a withdrawal function, receives funds, and calls the withdrawal function again before its balance is updated"
-      - "When a network processes the same block twice"
-      - "When an admin loses their keys"
+      - When a hacker guesses your private key
+      - >-
+        When a malicious contract calls a withdrawal function, receives funds,
+        and calls the withdrawal function again before its balance is updated
+      - When a network processes the same block twice
+      - When an admin loses their keys
     correct: 1
-    explanation: "Reentrancy occurs when a contract sends ETH to an external address before updating its internal state. A malicious receiving contract can instantly call back ('re-enter') the withdrawal function, draining the contract before the first balance update finishes."
-  - question: "What is the standard pattern used to prevent reentrancy attacks?"
+    explanation: >-
+      Reentrancy occurs when a contract sends ETH to an external address before
+      updating its internal state. A malicious receiving contract can instantly
+      call back ('re-enter') the withdrawal function, draining the contract
+      before the first balance update finishes.
+  - question: What is the standard pattern used to prevent reentrancy attacks?
     options:
-      - "Checks-Effects-Interactions (CEI)"
-      - "Object-Oriented Design"
-      - "Proof of Work"
-      - "Encrypting the source code"
+      - Checks-Effects-Interactions (CEI)
+      - Object-Oriented Design
+      - Proof of Work
+      - Encrypting the source code
     correct: 0
-    explanation: "The Checks-Effects-Interactions pattern dictates that a function should first Check conditions, then update state Effects (like setting balance to zero), and ONLY THEN Interact with external contracts (like sending ETH). This prevents the re-entry from finding a positive balance."
-  - question: "What is a reentrancy guard (ReentrancyGuard)?"
+    explanation: >-
+      The Checks-Effects-Interactions pattern dictates that a function should
+      first Check conditions, then update state Effects (like setting balance to
+      zero), and ONLY THEN Interact with external contracts (like sending ETH).
+      This prevents the re-entry from finding a positive balance.
+  - question: What is a reentrancy guard (ReentrancyGuard)?
     options:
-      - "A firewall hardware device"
-      - "A modifier (like nonReentrant) that uses a boolean flag to lock a function while it is executing"
-      - "An antivirus for Ethereum"
-      - "A consensus rule"
+      - A firewall hardware device
+      - >-
+        A modifier (like nonReentrant) that uses a boolean flag to lock a
+        function while it is executing
+      - An antivirus for Ethereum
+      - A consensus rule
     correct: 1
-    explanation: "OpenZeppelin's ReentrancyGuard provides a `nonReentrant` modifier. It sets a flag to true when the function starts and false when it ends. If the function is called again while the flag is true, it reverts."
-  - question: "What is a common access control vulnerability?"
+    explanation: >-
+      OpenZeppelin's ReentrancyGuard provides a `nonReentrant` modifier. It sets
+      a flag to true when the function starts and false when it ends. If the
+      function is called again while the flag is true, it reverts.
+  - question: What is a common access control vulnerability?
     options:
-      - "Making a sensitive function 'public' without requiring the caller to be an admin/owner"
-      - "Using the wrong compiler version"
-      - "Storing data on IPFS"
-      - "Paying too much gas"
+      - >-
+        Making a sensitive function 'public' without requiring the caller to be
+        an admin/owner
+      - Using the wrong compiler version
+      - Storing data on IPFS
+      - Paying too much gas
     correct: 0
-    explanation: "If you have a function like `withdrawProtocolFees()` and leave it `public` without a `require(msg.sender == owner)`, anyone can call it and steal the fees. Access control is vital."
-  - question: "Why should you use audited libraries like OpenZeppelin instead of writing your own token logic?"
+    explanation: >-
+      If you have a function like `withdrawProtocolFees()` and leave it `public`
+      without a `require(msg.sender == owner)`, anyone can call it and steal the
+      fees. Access control is vital.
+  - question: >-
+      Why should you use audited libraries like OpenZeppelin instead of writing
+      your own token logic?
     options:
-      - "It makes the code run faster"
-      - "OpenZeppelin pays you to use their code"
-      - "Their code is battle-tested, heavily audited, and secures billions of dollars, reducing your risk of writing a bug"
-      - "It is required by law"
+      - It makes the code run faster
+      - OpenZeppelin pays you to use their code
+      - >-
+        Their code is battle-tested, heavily audited, and secures billions of
+        dollars, reducing your risk of writing a bug
+      - It is required by law
     correct: 2
-    explanation: "Writing custom implementation of standards like ERC-20 or Ownable introduces unnecessary risk. Using community-audited, battle-tested libraries like OpenZeppelin is the industry standard for safety."
+    explanation: >-
+      Writing custom implementation of standards like ERC-20 or Ownable
+      introduces unnecessary risk. Using community-audited, battle-tested
+      libraries like OpenZeppelin is the industry standard for safety.
 ---
 
 ## The stakes are high
@@ -170,7 +198,7 @@ Before Solidity 0.8.0, if you subtracted 1 from a `uint256` that was equal to 0,
 
 Because all transactions sit in a public "mempool" before being processed, miners and bots can see what you are trying to do. If you submit a transaction to buy a token on Uniswap, a bot can see your transaction, pay a slightly higher gas fee to buy the token before you, let your purchase drive the price up, and then immediately sell the token to you for a profit. This is called MEV (Maximal Extractable Value).
 
-**The Fix:** Smart contracts handling trades must include "slippage tolerance" checks—requiring the transaction to fail if the execution price is worse than the user expected.
+**The Fix:** Smart contracts handling trades must include "slippage tolerance" checks - requiring the transaction to fail if the execution price is worse than the user expected.
 
 ## Key takeaways
 

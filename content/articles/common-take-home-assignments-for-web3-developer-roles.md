@@ -1,13 +1,14 @@
 ---
-
-title: "Common Take-Home Assignments for Web3 Developer Roles"
-image: "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhc3NpZ25tZW50fGVufDB8fHx8MTc1NTAzNzEwM3ww&ixlib=rb-4.1.0&q=80&w=1080"
-data-ai-hint: "common take home assignments for web3 developer roles"
-description: "Review typical smart contract and dApp development assignments used in Web3 hiring processes."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Common Take-Home Assignments for Web3 Developer Roles
+image: >-
+  https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhc3NpZ25tZW50fGVufDB8fHx8MTc1NTAzNzEwM3ww&ixlib=rb-4.1.0&q=80&w=1080
+data-ai-hint: common take home assignments for web3 developer roles
+description: >-
+  Review typical smart contract and dApp development assignments used in Web3
+  hiring processes.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 You've successfully passed the initial screening call for a [Web3](/what-is-web3) [developer role](/entry-level-jobs-in-web3). The next step typically involves a **take-home assignment**. This assignment is important for the [interview](/how-to-prepare-for-job-interview) process, allowing companies to evaluate your practical coding skills, attention to detail, and ability to work autonomously.

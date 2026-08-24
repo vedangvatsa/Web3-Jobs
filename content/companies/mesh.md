@@ -1,6 +1,6 @@
 ---
 name: Mesh
-website: https://meshconnect.com
+website: 'https://meshconnect.com'
 category: Other
 description: Mesh provides solutions for decentralized communication and collaboration.
 ---

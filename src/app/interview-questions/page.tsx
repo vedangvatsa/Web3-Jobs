@@ -36,6 +36,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/button';
 import { PageHeader } from "@/components/page-header";
+import { CtaBanner } from "@/components/cta-banner";
 
 const difficultyColors: { [key: string]: string } = {
  Foundation: 'bg-green-500/10 text-green-700 border-green-400/50',
@@ -166,9 +167,6 @@ const faqSchema = {
 };
 
 export default function InterviewQuestionBankPage() {
-  const headlines = ["Web3 Interview Question Bank","Ace Your Next Interview","200+ Role-Specific Questions","Land Your Dream Web3 Job"
-  ];
-
  return (
   <div className="flex flex-col min-h-screen">
    <script
@@ -180,7 +178,7 @@ export default function InterviewQuestionBankPage() {
      <div className="container mx-auto px-4 page-section">
       <section className="text-center mb-12 site-container">
         
-       <PageHeader title={headlines[0]} />
+       <PageHeader title="Web3 Interview Question Bank" />
       </section>
 
       <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
@@ -216,8 +214,8 @@ export default function InterviewQuestionBankPage() {
            <p>This question bank is a reference for both hiring managers and candidates.</p>
            <ul className="list-disc pl-5 space-y-1">
              <li>Use difficulty tags to tailor questions to the role's seniority.</li>
-             <li>Use"Follow-ups" to probe for depth and differentiate between good and great candidates.</li>
-             <li>"Red Flags" and"Common Pitfalls" highlight frequent misconceptions or unsafe patterns.</li>
+             <li>Use "Follow-ups" to probe for depth and differentiate between good and great candidates.</li>
+             <li>"Red Flags" and "Common Pitfalls" highlight frequent misconceptions or unsafe patterns.</li>
              <li>The scoring rubric provides a framework for consistent evaluation across interviews.</li>
            </ul>
          </CardContent>
@@ -257,20 +255,11 @@ export default function InterviewQuestionBankPage() {
          </Card>
         </div>
         
-         <Card className="mt-12 col-span-full bg-muted/30 border shadow-none">
-          <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-            
-            <div>
-              <h3 className="text-xl font-bold text-foreground mb-1">Looking for a Web3 Job?</h3>
-              <p className="text-muted-foreground">Join our Telegram channel with over 60,000 subscribers to get the latest job postings.</p>
-            </div>
-            <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
-              <Button size="lg">
-                Join Job Feed <ArrowRight className="ml-2 h-4 w-4"/>
-              </Button>
-            </a>
-          </CardContent>
-        </Card>
+        <CtaBanner
+          variant="jobs"
+          title="Looking for a Web3 Job?"
+          className="col-span-full"
+        />
 
          <div className="pt-8">
          <p className="text-xs text-center text-muted-foreground">{interviewData.disclaimer}</p>

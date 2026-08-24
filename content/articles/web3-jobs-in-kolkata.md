@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Jobs in Kolkata: A Guide to the Cultural Capital's Crypto Scene"
-image: "/images/india web3 jobs.jpg"
-data-ai-hint: "kolkata city india"
-description: "Explore the growing Web3 job market in Kolkata. This guide covers the city's emerging role in the Indian blockchain ecosystem, with a focus on community."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Kolkata: A Guide to the Cultural Capital''s Crypto Scene'
+image: /images/india web3 jobs.jpg
+data-ai-hint: kolkata city india
+description: >-
+  Explore the growing Web3 job market in Kolkata. This guide covers the city's
+  emerging role in the Indian blockchain ecosystem, with a focus on community.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Kolkata, recognized as India's cultural capital, is increasingly establishing itself within the country's [Web3](/what-is-web3) sector. While it does not yet rival tech giants like Bangalore or Hyderabad, Kolkata boasts a rich heritage in arts and literature. This cultural foundation, paired with a youthful and enthusiastic population, is building a promising environment for Web3 innovation. The city's Web3 scene emphasizes community engagement, creativity, and marketing, making it an appealing location for non-technical careers in the crypto industry.
@@ -51,7 +51,7 @@ Kolkata's job market is particularly strong for non-technical positions, especia
  - **Initiate a Local Guild or Meetup:** Organizing local events or workshops presents a significant opportunity for community leaders. Consider starting a city-specific [DAO](/what-is-a-dao) to showcase your leadership and commitment to the ecosystem.
  - **Educate Your Region:** Develop content in both English and Bengali that simplifies Web3 concepts for the local audience. Establish yourself as a trusted educator and bridge between the global Web3 community and the Bengali population.
 
-2. **Capitalize on Content and Creativity:** Use the city’s artistic talents to your advantage.
+2. **Capitalize on Content and Creativity:** Use the city's artistic talents to your advantage.
  - **For Artists:** Investigate the creation of NFTs and engage with the broader Indian NFT art community.
  - **For Writers:** Your public writing can serve as your [portfolio](/building-web3-portfolio). Initiate a blog or a Twitter account that discusses Web3 from cultural or marketing angles.
 

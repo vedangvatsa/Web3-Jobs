@@ -1,6 +1,6 @@
 ---
 name: MagicBlock
-website: https://magicblock.gg
+website: 'https://magicblock.gg'
 founded: 2023
 category: Gaming / Solana
 headquarters: Remote

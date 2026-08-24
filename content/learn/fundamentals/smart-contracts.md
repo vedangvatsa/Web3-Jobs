@@ -1,51 +1,70 @@
 ---
-title: "Smart Contracts Explained"
-description: "What smart contracts are, how they work, and real examples you can understand."
+title: Smart Contracts Explained
+description: 'What smart contracts are, how they work, and real examples you can understand.'
 order: 9
-readTime: "10 min"
-difficulty: "beginner"
-prerequisites: ["stablecoins"]
+readTime: 10 min
+difficulty: beginner
+prerequisites:
+  - stablecoins
 quiz:
-  - question: "What is a smart contract?"
+  - question: What is a smart contract?
     options:
-      - "A legal document stored on a blockchain"
-      - "A program that runs on a blockchain and executes automatically"
-      - "A contract between two cryptocurrency exchanges"
-      - "An AI chatbot that answers legal questions"
+      - A legal document stored on a blockchain
+      - A program that runs on a blockchain and executes automatically
+      - A contract between two cryptocurrency exchanges
+      - An AI chatbot that answers legal questions
     correct: 1
-    explanation: "A smart contract is a program deployed on a blockchain. It runs automatically when someone sends a transaction to it. No human approves or denies the action — the code just runs."
-  - question: "Why can't you change a smart contract after deploying it?"
+    explanation: >-
+      A smart contract is a program deployed on a blockchain. It runs
+      automatically when someone sends a transaction to it. No human approves or
+      denies the action - the code just runs.
+  - question: Why can't you change a smart contract after deploying it?
     options:
-      - "The Ethereum Foundation locks it"
-      - "It is too expensive to change"
-      - "The code is stored on the blockchain, which is immutable"
-      - "Only the government can change it"
+      - The Ethereum Foundation locks it
+      - It is too expensive to change
+      - 'The code is stored on the blockchain, which is immutable'
+      - Only the government can change it
     correct: 2
-    explanation: "Smart contract code is stored on the blockchain, which cannot be changed. This is a feature, not a bug — it means users can trust that the code will always work as written. Some contracts use proxy patterns to allow upgrades, but the original code remains on-chain."
-  - question: "What is a real-world use case for a smart contract?"
+    explanation: >-
+      Smart contract code is stored on the blockchain, which cannot be changed.
+      This is a feature, not a bug - it means users can trust that the code will
+      always work as written. Some contracts use proxy patterns to allow
+      upgrades, but the original code remains on-chain.
+  - question: What is a real-world use case for a smart contract?
     options:
-      - "Sending an email"
-      - "A decentralized exchange that swaps tokens without a middleman"
-      - "Downloading a mobile app"
-      - "Logging into a website"
+      - Sending an email
+      - A decentralized exchange that swaps tokens without a middleman
+      - Downloading a mobile app
+      - Logging into a website
     correct: 1
-    explanation: "Decentralized exchanges like Uniswap are smart contracts. When you swap ETH for USDC on Uniswap, a smart contract calculates the price, takes your ETH, and sends you USDC — all in one transaction."
-  - question: "What is a 'rug pull'?"
+    explanation: >-
+      Decentralized exchanges like Uniswap are smart contracts. When you swap
+      ETH for USDC on Uniswap, a smart contract calculates the price, takes your
+      ETH, and sends you USDC - all in one transaction.
+  - question: What is a 'rug pull'?
     options:
-      - "A type of consensus mechanism"
-      - "When a developer deploys a contract with a hidden backdoor and drains user funds"
-      - "When a blockchain forks into two chains"
-      - "When gas fees become very high"
+      - A type of consensus mechanism
+      - >-
+        When a developer deploys a contract with a hidden backdoor and drains
+        user funds
+      - When a blockchain forks into two chains
+      - When gas fees become very high
     correct: 1
-    explanation: "A rug pull is when a developer deploys a contract that looks legitimate but contains hidden code allowing them to steal deposited funds. This is why audits and reading verified contracts matter."
-  - question: "What does it mean for a smart contract to be 'audited'?"
+    explanation: >-
+      A rug pull is when a developer deploys a contract that looks legitimate
+      but contains hidden code allowing them to steal deposited funds. This is
+      why audits and reading verified contracts matter.
+  - question: What does it mean for a smart contract to be 'audited'?
     options:
-      - "The government has approved it"
-      - "Independent security experts have reviewed the code for vulnerabilities"
-      - "It has been running for over a year"
-      - "It has more than 1000 users"
+      - The government has approved it
+      - Independent security experts have reviewed the code for vulnerabilities
+      - It has been running for over a year
+      - It has more than 1000 users
     correct: 1
-    explanation: "An audit is when independent security firms (like Trail of Bits, OpenZeppelin, or Certik) review the contract code for bugs and vulnerabilities. An audit reduces risk but does not guarantee safety."
+    explanation: >-
+      An audit is when independent security firms (like Trail of Bits,
+      OpenZeppelin, or Certik) review the contract code for bugs and
+      vulnerabilities. An audit reduces risk but does not guarantee safety.
 ---
 
 ## What a smart contract actually is
@@ -115,11 +134,11 @@ Without a smart contract, they need to trust each other. With a smart contract:
 
 ## Real smart contracts you use today
 
-**Uniswap** — a decentralized exchange. Its smart contracts hold over $5 billion in tokens. When you swap ETH for USDC, you interact with a contract that calculates the price using a mathematical formula and executes the trade instantly.
+**Uniswap** - a decentralized exchange. Its smart contracts hold over $5 billion in tokens. When you swap ETH for USDC, you interact with a contract that calculates the price using a mathematical formula and executes the trade instantly.
 
-**Aave** — a lending protocol. You deposit ETH into a smart contract and earn interest. Borrowers deposit collateral and borrow against it. The contract enforces all the rules: interest rates, collateral ratios, and liquidations.
+**Aave** - a lending protocol. You deposit ETH into a smart contract and earn interest. Borrowers deposit collateral and borrow against it. The contract enforces all the rules: interest rates, collateral ratios, and liquidations.
 
-**OpenSea** — an NFT marketplace. When you buy an NFT, a smart contract transfers the NFT to your wallet and the payment to the seller. No middleman handles the exchange.
+**OpenSea** - an NFT marketplace. When you buy an NFT, a smart contract transfers the NFT to your wallet and the payment to the seller. No middleman handles the exchange.
 
 ## What makes smart contracts different from regular programs
 
@@ -145,5 +164,5 @@ Smart contracts are only as good as their code. A bug in a smart contract can be
 - Smart contracts are programs on a blockchain that run automatically when triggered.
 - They are permanent, transparent, and unstoppable.
 - Real applications include exchanges (Uniswap), lending (Aave), and marketplaces (OpenSea).
-- Bugs in smart contracts can lead to major losses — always check for audits.
+- Bugs in smart contracts can lead to major losses - always check for audits.
 - Oracles (like Chainlink) connect smart contracts to real-world data.

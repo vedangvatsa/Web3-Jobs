@@ -1,13 +1,13 @@
 ---
-
-title: "How to Get Started as a Web3 NFT Marketplace Developer"
-image: "/images/maximalfocus-0n4jhVGS4zs-unsplash.jpg"
-data-ai-hint: "nft marketplace developer"
-description: "A guide for developers on building a career in the NFT space. Learn the key skills needed to build NFT marketplaces, from smart contract standards to."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Get Started as a Web3 NFT Marketplace Developer
+image: /images/maximalfocus-0n4jhVGS4zs-unsplash.jpg
+data-ai-hint: nft marketplace developer
+description: >-
+  A guide for developers on building a career in the NFT space. Learn the key
+  skills needed to build NFT marketplaces, from smart contract standards to.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The rise of [Non-Fungible Tokens (NFTs)](/what-are-nfts) has significantly increased the demand for developers capable of creating the platforms and marketplaces for these unique digital assets. A career as an **NFT Marketplace Developer** merges [smart contract](/what-are-smart-contracts) engineering, full-stack web development, and insights into the creator economy.
@@ -31,7 +31,7 @@ To build an NFT marketplace, developers require a skill set that encompasses bot
 - **React/Next.js:** These technologies are the industry standard for building the user interface of the marketplace.
 - **Ethers.js / Viem:** JavaScript libraries for interacting with the [blockchain](/what-is-a-blockchain) from the frontend, enabling users to connect their [wallet](/how-to-choose-a-crypto-wallet) and sign transactions.
 - **Data Indexing:** Directly reading NFT data from the blockchain is inefficient. Developers should implement an indexing solution to provide a fast and reliable API for the frontend.
- - **Third-Party APIs:** Services such as Reservoir, SimpleHash, and Alchemy’s NFT API offer data for numerous NFT collections.
+ - **Third-Party APIs:** Services such as Reservoir, SimpleHash, and Alchemy's NFT API offer data for numerous NFT collections.
  - **The Graph:** For specialized data requirements, developers may need to create their own "subgraph" to index specific marketplace events. More details are available in our [guide to The Graph](/your-first-subgraph-indexing-blockchain-data-with-the-graph).
 
 ### Your Portfolio Project Roadmap

@@ -1,13 +1,23 @@
 ---
-term: "Private Key"
-slug: "private-key"
-category: "Security"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=1080"
-imageAlt: "Cryptographic key and security concept"
-description: "A secret cryptographic key that proves ownership of a blockchain address and authorizes transactions, functioning as the master password to your cryptocurrency."
-relatedTerms: ["Wallet", "Seed Phrase", "Public Key", "Address", "Security"]
-synonyms: ["Secret Key", "Signing Key"]
+term: Private Key
+slug: private-key
+category: Security
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=1080'
+imageAlt: Cryptographic key and security concept
+description: >-
+  A secret cryptographic key that proves ownership of a blockchain address and
+  authorizes transactions, functioning as the master password to your
+  cryptocurrency.
+relatedTerms:
+  - Wallet
+  - Seed Phrase
+  - Public Key
+  - Address
+  - Security
+synonyms:
+  - Secret Key
+  - Signing Key
 ---
 
 Private Key refers to a secret cryptographic string that serves as the ultimate proof of ownership for a blockchain address, granting its holder complete control over any cryptocurrency or digital assets stored at that address. This alphanumeric code functions as the mathematical foundation of blockchain security, enabling users to sign transactions and prove ownership without revealing the key itself. Hardware wallets like Ledger and Trezor exist specifically to store private keys offline, protecting them from online threats while still allowing users to authorize transactions. The importance of proper key management is critical, as a significant portion of cryptocurrency theft results from compromised private keys. For professionals entering the Web3 space, understanding private key cryptography and secure key management practices is essential, as security-focused roles including smart contract auditors and wallet engineers remain among the most sought-after positions in the industry.
@@ -20,7 +30,7 @@ Blockchains use asymmetric cryptography with key pairs:
 
 - **Public Key**: Derived mathematically from private key. Can be shared publicly. Impossible to reverse-engineer private key from it.
 
-- **Address**: Shortened hash of public key. What you share to receive funds (like 0x742d35Cc6634C0532925a3b8…).
+- **Address**: Shortened hash of public key. What you share to receive funds (like 0x742d35Cc6634C0532925a3b8...).
 
 - **Analogy**: Private key is your house key. Public key/address is your mailing address. Anyone can send you mail (cryptocurrency) to your address, but only someone with the house key (private key) can access what's inside.
 

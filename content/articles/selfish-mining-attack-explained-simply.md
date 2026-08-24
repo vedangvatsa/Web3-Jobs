@@ -1,20 +1,20 @@
 ---
-
-title: "Selfish Mining Attack Explained Simply"
-description: "A full guide to selfish mining, a strategic attack where a Proof-of-Work miner can earn disproportionate rewards by selectively withholding."
-category: "Educational"
-image: "https://picsum.photos/seed/selfish/1200/630"
-data-ai-hint: "selfish mining"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Selfish Mining Attack Explained Simply
+description: >-
+  A full guide to selfish mining, a strategic attack where a Proof-of-Work miner
+  can earn disproportionate rewards by selectively withholding.
+category: Educational
+image: 'https://picsum.photos/seed/selfish/1200/630'
+data-ai-hint: selfish mining
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Selfish Mining Attack Explained Simply
 
 In a Proof-of-Work (PoW) [blockchain](/what-is-a-blockchain) such as [Bitcoin](/what-is-bitcoin), honest miners collaborate to extend the longest valid chain by broadcasting newly found blocks to the network. However, when a miner withholds their discoveries, they engage in a **selfish mining attack**. This strategic approach allows a miner or mining pool to increase their revenue disproportionately compared to their share of the network's hash power.
 
-The selfish mining attack capitalizes on network latency and the “longest chain” rule established by Nakamoto Consensus. By maintaining a private chain of blocks and revealing it selectively, a selfish miner can compel honest miners to waste their computational resources on blocks that will eventually become orphaned. This increases the selfish miner's share of the total block rewards.
+The selfish mining attack capitalizes on network latency and the "longest chain" rule established by Nakamoto Consensus. By maintaining a private chain of blocks and revealing it selectively, a selfish miner can compel honest miners to waste their computational resources on blocks that will eventually become orphaned. This increases the selfish miner's share of the total block rewards.
 
 This article clarifies the mechanics of selfish mining, its implications for blockchain security, and the strategies available for mitigation.
 
@@ -67,7 +67,7 @@ This creates a "delta" of one block between the secret and public chains. The ou
 
 ### Why is Selfish Mining a Threat?
 
-1. **Unfair Rewards**: Selfish mining disrupts the fundamental principle that a miner’s reward should correlate with their contributed hash power. A selfish miner can earn more than their fair share.
+1. **Unfair Rewards**: Selfish mining disrupts the fundamental principle that a miner's reward should correlate with their contributed hash power. A selfish miner can earn more than their fair share.
 2. **Centralization Pressure**: If selfish mining proves profitable, it incentivizes other miners to join the selfish pool for a share of the enhanced profits. This can lead to the pool growing larger, potentially reaching the **[51% threshold](/what-is-a-51-percent-attack-in-blockchain)**, enabling full control over the network.
 3. **Wasted Energy**: The attack forces honest miners to expend significant computational power and energy on blocks that will ultimately be discarded, reducing the network's overall efficiency.
 

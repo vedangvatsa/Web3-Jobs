@@ -186,7 +186,7 @@ export const quizData: QuizQuestion[] = [
   id: 16,
   question:"You believe the key to Web3's success is:",
   options: {
-   a:"Building killer applications with a seamless user experience.",
+   a:"Building killer applications with a smooth and intuitive user experience.",
    b:"Building active, resilient communities with strong governance.",
   },
   weights: {

@@ -1,13 +1,22 @@
 ---
-term: "Impermanent Loss"
-slug: "impermanent-loss"
-category: "DeFi"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop"
-imageAlt: "Financial charts showing DeFi liquidity pool dynamics"
-description: "The temporary loss in dollar value when providing liquidity to an automated market maker (AMM) compared to simply holding the tokens. Occurs when token prices diverge from the deposit ratio."
-relatedTerms: ["liquidity-pool", "amm", "defi"]
-synonyms: ["divergence loss", "IL"]
+term: Impermanent Loss
+slug: impermanent-loss
+category: DeFi
+difficulty: Intermediate
+image: >-
+  https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop
+imageAlt: Financial charts showing DeFi liquidity pool dynamics
+description: >-
+  The temporary loss in dollar value when providing liquidity to an automated
+  market maker (AMM) compared to simply holding the tokens. Occurs when token
+  prices diverge from the deposit ratio.
+relatedTerms:
+  - liquidity-pool
+  - amm
+  - defi
+synonyms:
+  - divergence loss
+  - IL
 ---
 
 Impermanent loss refers to the temporary reduction in dollar value that liquidity providers experience when depositing tokens into an automated market maker (AMM) compared to simply holding those same tokens in a wallet. This phenomenon occurs because AMM protocols like Uniswap automatically rebalance token ratios as prices fluctuate, meaning providers end up with more of the depreciating token and less of the appreciating one. For example, if you deposit equal values of ETH and USDC into a Uniswap pool and ETH doubles in price, you would have been better off just holding your original tokens. Understanding impermanent loss mechanics is essential for DeFi analysts, protocol developers, and liquidity strategists, making it a frequently tested concept in Web3 finance interviews and a core competency for roles at decentralized exchanges.

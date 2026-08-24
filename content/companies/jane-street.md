@@ -1,10 +1,12 @@
 ---
 name: Jane Street
-website: https://janestreet.com
+website: 'https://janestreet.com'
 founded: 2000
 category: Quantitative Trading
-headquarters: New York, United States
-description: Global quantitative trading firm and liquidity provider active in crypto markets
+headquarters: 'New York, United States'
+description: >-
+  Global quantitative trading firm and liquidity provider active in crypto
+  markets
 ---
 
 Global quantitative trading firm and liquidity provider active in crypto markets.

@@ -1,13 +1,14 @@
 ---
-
-title: "What is Augmented Reality Technology"
-image: "https://picsum.photos/seed/ar-tech/1200/630"
-description: "An introduction to augmented reality (AR), the technology that overlays digital information onto the real world, and how it differs from virtual reality."
-category: "Educational"
-data-ai-hint: "digital overlay"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is Augmented Reality Technology
+image: 'https://picsum.photos/seed/ar-tech/1200/630'
+description: >-
+  An introduction to augmented reality (AR), the technology that overlays
+  digital information onto the real world, and how it differs from virtual
+  reality.
+category: Educational
+data-ai-hint: digital overlay
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Augmented Reality, or AR, enhances the real world by overlaying computer-generated information and digital content. Unlike virtual reality (VR), which immerses users in a completely artificial environment, AR supplements the user's actual surroundings without replacing them.
@@ -26,7 +27,7 @@ AR systems, whether on smartphones or dedicated smart glasses, consist of severa
 
 3. **Digital Content**: This refers to the computer-generated information overlaid in the real world. It can be a 3D model, textual directions, or a digital character that enhances the user's experience.
 
-4. **Display**: The display allows users to view the blended image. On smartphones, this is the screen showing the live camera feed with digital objects integrated. In AR glasses, transparent lenses project digital information into the user’s field of vision, making it seem as though digital objects exist in the actual environment.
+4. **Display**: The display allows users to view the blended image. On smartphones, this is the screen showing the live camera feed with digital objects integrated. In AR glasses, transparent lenses project digital information into the user's field of vision, making it seem as though digital objects exist in the actual environment.
 
 To create a convincing AR experience, digital objects must appear anchored in the real world. For instance, if a virtual vase is placed on a real table, it should remain fixed in position as the user walks around, visible from various angles. Achieving this requires constant tracking of both the device's position and the surfaces in the environment.
 

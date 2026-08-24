@@ -1,6 +1,6 @@
 ---
 name: InfStones
-website: https://infstones.com
+website: 'https://infstones.com'
 category: Blockchain Infrastructure
 description: InfStones provides blockchain infrastructure solutions for Web3 applications.
 ---

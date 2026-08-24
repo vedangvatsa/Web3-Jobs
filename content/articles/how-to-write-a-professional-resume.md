@@ -1,13 +1,14 @@
 ---
-
-title: "How to Write a Professional Resume"
-image: "https://picsum.photos/seed/professional-resume/1200/630"
-data-ai-hint: "resume paper document"
-description: "A step-by-step guide on how to write a professional resume that gets noticed by recruiters. Learn how to highlight your skills and achievements effectively."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Write a Professional Resume
+image: 'https://picsum.photos/seed/professional-resume/1200/630'
+data-ai-hint: resume paper document
+description: >-
+  A step-by-step guide on how to write a professional resume that gets noticed
+  by recruiters. Learn how to highlight your skills and achievements
+  effectively.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as your first opportunity to impress potential employers. In a competitive job market, a well-structured resume significantly influences whether you secure an [interview](/how-to-prepare-for-job-interview) or risk being overlooked. It goes beyond a mere list of previous jobs; it acts as a marketing tool that showcases your skills and experiences.
@@ -34,13 +35,13 @@ Include a brief summary or objective statement at the top of your resume. This s
  - *Example:* "Detail-oriented project manager with experience leading cross-functional teams and delivering projects on time and within budget. Proficient in Agile methodologies and stakeholder engagement."
 
 - **Objective Statement:** A declaration of your career goals, suitable for recent graduates or individuals transitioning careers.
- - *Example:* "Aspiring marketing professional with a Bachelor’s degree in Communications seeking an entry-level marketing role, eager to apply skills in digital marketing and content creation."
+ - *Example:* "Aspiring marketing professional with a Bachelor's degree in Communications seeking an entry-level marketing role, eager to apply skills in digital marketing and content creation."
 
 ### 3. Focus on Achievements, Not Just Responsibilities
 
 Highlighting achievements rather than just listing job duties is important for creating an impactful resume. Use quantifiable metrics to showcase your contributions.
 
-| Instead of… | Try… |
+| Instead of... | Try... |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------|
 | "Responsible for managing the sales team." | "Increased sales significantly over one year by implementing a targeted training program for the sales team." |
 | "Conducted customer service training." | "Improved customer satisfaction ratings by developing and executing a new service training module." |

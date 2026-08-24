@@ -1,13 +1,14 @@
 ---
-
 title: Executive Communication Skills Guide
-description: Master the art of executive communication. This guide covers the key principles of clarity, brevity, and context to help you communicate effectively with senior leadership.
-image: https://picsum.photos/seed/executive/1200/630
+description: >-
+  Master the art of executive communication. This guide covers the key
+  principles of clarity, brevity, and context to help you communicate
+  effectively with senior leadership.
+image: 'https://picsum.photos/seed/executive/1200/630'
 category: Career Guides
 data-ai-hint: business meeting
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: The Unique Nature of Executive Communication
@@ -48,13 +49,13 @@ Clarity involves making your message understandable to those unfamiliar with you
 
 **Practical Techniques for Clarity:**
 
-- **Avoid Jargon and Acronyms:** Don’t assume familiarity with specialized terms. For example, rather than saying, "We need to refactor the authentication service," say, "We need to update our login system to improve security and page load speed."
+- **Avoid Jargon and Acronyms:** Don't assume familiarity with specialized terms. For example, rather than saying, "We need to refactor the authentication service," say, "We need to update our login system to improve security and page load speed."
 
 - **Use Visuals:** Charts or graphs often convey trends more effectively than paragraphs of text. Ensure visuals can be interpreted within ten seconds.
 
 - **Logical Information Structure:** Use frameworks to present your ideas.
  - **Problem-Solution-Benefit:** Clearly outline the problem, present your solution, and detail the benefits.
- - **Situation-Complication-Resolution (SCR):** This narrative framework is effective for updates. For example, "Here’s the situation... Here’s the complication... Here’s our resolution and the path forward."
+ - **Situation-Complication-Resolution (SCR):** This narrative framework is effective for updates. For example, "Here's the situation... Here's the complication... Here's our resolution and the path forward."
 
 ### Pillar 3: Context - Connecting to Priorities
 

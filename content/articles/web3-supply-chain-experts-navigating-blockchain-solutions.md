@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Supply Chain Experts: Working through Blockchain Solutions"
-image: "/images/thisisengineering-zBLtU0zbJcU-unsplash.jpg"
-data-ai-hint: "supply chain logistics"
-description: "A career guide for supply chain and logistics professionals looking to enter the Web3 space. Learn how blockchain is being used to create more transparent."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Supply Chain Experts: Working through Blockchain Solutions'
+image: /images/thisisengineering-zBLtU0zbJcU-unsplash.jpg
+data-ai-hint: supply chain logistics
+description: >-
+  A career guide for supply chain and logistics professionals looking to enter
+  the Web3 space. Learn how blockchain is being used to create more transparent.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The global supply chain operates as a highly complex system, yet it suffers from inefficiencies, lack of transparency, and rampant fraud. Blockchain technology addresses these issues by establishing a shared, immutable ledger capable of tracking goods from their origin to the consumer. This development has given rise to a new and expanding field for **[Web3](/what-is-web3) Supply Chain Experts**.

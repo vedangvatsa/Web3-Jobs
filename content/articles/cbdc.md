@@ -1,11 +1,14 @@
 ---
-title: "Central Bank Digital Currency (CBDC) in India: A Full Report"
-image: "https://images.unsplash.com/photo-1515091943-9d5c0ad475af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpbmRpYXxlbnwwfHx8fDE3NTkyNjM4NTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-data-ai-hint: "digital currency india"
-description: "An in-depth report on Central Bank Digital Currency (CBDC) in India, exploring its opportunities, challenges, and future prospects in the context of."
-category: "Industry Insights"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Central Bank Digital Currency (CBDC) in India: A Full Report'
+image: >-
+  https://images.unsplash.com/photo-1515091943-9d5c0ad475af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpbmRpYXxlbnwwfHx8fDE3NTkyNjM4NTV8MA&ixlib=rb-4.1.0&q=80&w=1080
+data-ai-hint: digital currency india
+description: >-
+  An in-depth report on Central Bank Digital Currency (CBDC) in India, exploring
+  its opportunities, challenges, and future prospects in the context of.
+category: Industry Insights
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## India's Digital Revolution
@@ -129,7 +132,7 @@ Developing a regulatory framework is critical for the future of digital payments
 
 ## Learnings from Expert Opinions
 
-1. **Foundation and Potential for Financial Inclusion:** India’s existing digital infrastructure, exemplified by the JAM trinity and UPI, provides a solid foundation for CBDC implementation. Many experts regard CBDCs as tools for enhancing financial inclusion, potentially integrating millions of unbanked and underbanked individuals into the formal financial system.
+1. **Foundation and Potential for Financial Inclusion:** India's existing digital infrastructure, exemplified by the JAM trinity and UPI, provides a solid foundation for CBDC implementation. Many experts regard CBDCs as tools for enhancing financial inclusion, potentially integrating millions of unbanked and underbanked individuals into the formal financial system.
 
 2. **Wholesale vs. Retail CBDCs:** Expert opinions differentiate clearly between wholesale and retail CBDCs:
  - Wholesale CBDCs are recognized for their immediate potential to enhance interbank settlements, improve monetary policy transmission, and transform cross-border payments.

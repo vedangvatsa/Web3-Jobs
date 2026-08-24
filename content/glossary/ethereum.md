@@ -1,13 +1,21 @@
 ---
-term: "Ethereum"
-slug: "ethereum"
-category: "Blockchain Fundamentals"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?q=80&w=1080"
-imageAlt: "Ethereum cryptocurrency logo and concept"
-description: "A decentralized blockchain platform that enables smart contracts and decentralized applications (dApps), founded by Vitalik Buterin in 2015."
-relatedTerms: ["Smart Contract", "Solidity", "Gas Fee", "ERC-20", "DeFi"]
-synonyms: ["ETH"]
+term: Ethereum
+slug: ethereum
+category: Blockchain Fundamentals
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1622630998477-20aa696ecb05?q=80&w=1080'
+imageAlt: Ethereum cryptocurrency logo and concept
+description: >-
+  A decentralized blockchain platform that enables smart contracts and
+  decentralized applications (dApps), founded by Vitalik Buterin in 2015.
+relatedTerms:
+  - Smart Contract
+  - Solidity
+  - Gas Fee
+  - ERC-20
+  - DeFi
+synonyms:
+  - ETH
 ---
 
 Ethereum is a decentralized blockchain platform that enables developers to build and deploy smart contracts and decentralized applications. It extends beyond Bitcoin's focus on peer-to-peer payments to create a programmable foundation for Web3 innovation. Launched in 2015 by Vitalik Buterin and a team of co-founders, Ethereum introduced the concept of a global computer where code executes exactly as programmed without downtime or third-party interference. The platform hosts a significant portion of decentralized finance activity, with protocols like Uniswap demonstrating its practical utility by enabling trading volume without traditional intermediaries. Ethereum secures substantial total value locked across its DeFi ecosystem, making it the dominant smart contract platform by usage and developer activity. For professionals seeking Web3 careers, Ethereum development skills including Solidity programming and EVM architecture remain consistently demanded competencies across blockchain job postings.

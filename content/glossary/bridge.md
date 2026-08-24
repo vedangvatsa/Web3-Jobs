@@ -1,13 +1,23 @@
 ---
-term: "Bridge"
-slug: "bridge"
-category: "protocols"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=1080"
-imageAlt: "Cross-chain bridge connecting blockchains"
-description: "A protocol that enables the transfer of tokens, data, or smart contract commands between different blockchain networks, enabling interoperability in the multi-chain ecosystem."
-relatedTerms: ["Layer 2", "Cross-Chain", "Wrapped Token", "Interoperability", "Multi-Chain"]
-synonyms: ["Cross-Chain Bridge", "Blockchain Bridge"]
+term: Bridge
+slug: bridge
+category: protocols
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=1080'
+imageAlt: Cross-chain bridge connecting blockchains
+description: >-
+  A protocol that enables the transfer of tokens, data, or smart contract
+  commands between different blockchain networks, enabling interoperability in
+  the multi-chain ecosystem.
+relatedTerms:
+  - Layer 2
+  - Cross-Chain
+  - Wrapped Token
+  - Interoperability
+  - Multi-Chain
+synonyms:
+  - Cross-Chain Bridge
+  - Blockchain Bridge
 ---
 
 Bridge refers to a protocol that enables the transfer of tokens, data, or smart contract instructions between different blockchain networks, solving the challenge of blockchain interoperability. Each blockchain operates as an isolated system with its own consensus rules and state. Bridges serve as the critical connective tissue allowing users to move assets from one network to another without relying on centralized exchanges. Wormhole, one of the largest cross-chain bridges, enables transfers between Ethereum, Solana, and more than twenty other networks, demonstrating how bridges have become essential infrastructure for decentralized finance. For professionals entering Web3, bridge expertise is increasingly valuable as companies seek engineers who understand cross-chain security, smart contract auditing, and the complex cryptographic mechanisms that enable trustless asset transfers between networks.

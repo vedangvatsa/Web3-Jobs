@@ -1,6 +1,6 @@
 ---
 name: Xapo
-website: https://xapobank.com
+website: 'https://xapobank.com'
 founded: 2013
 category: Banking / Custody
 headquarters: Gibraltar

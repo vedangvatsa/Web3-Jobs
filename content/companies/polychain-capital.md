@@ -1,9 +1,9 @@
 ---
 name: Polychain Capital
-website: https://polychain.capital
+website: 'https://polychain.capital'
 founded: 2016
 category: Venture Capital & Investment
-headquarters: San Francisco, California, USA
+headquarters: 'San Francisco, California, USA'
 description: Premier crypto hedge fund and venture capital firm.
 ---
 

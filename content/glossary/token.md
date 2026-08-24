@@ -1,13 +1,23 @@
 ---
-term: "Token"
-slug: "token"
-category: "Cryptocurrencies"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-imageAlt: "Digital tokens and cryptocurrency concept"
-description: "A digital asset created on an existing blockchain that represents value, utility, ownership, or access rights within a decentralized application or ecosystem."
-relatedTerms: ["Smart Contract", "ERC-20", "Cryptocurrency", "NFT", "Governance Token"]
-synonyms: ["Crypto Token", "Digital Token"]
+term: Token
+slug: token
+category: Cryptocurrencies
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+imageAlt: Digital tokens and cryptocurrency concept
+description: >-
+  A digital asset created on an existing blockchain that represents value,
+  utility, ownership, or access rights within a decentralized application or
+  ecosystem.
+relatedTerms:
+  - Smart Contract
+  - ERC-20
+  - Cryptocurrency
+  - NFT
+  - Governance Token
+synonyms:
+  - Crypto Token
+  - Digital Token
 ---
 
 Token refers to a digital asset created on an existing blockchain platform through smart contracts, representing value, utility, ownership, or access rights within a decentralized application or ecosystem. Unlike cryptocurrencies such as Bitcoin or Ethereum that operate on their own native blockchains, tokens use established networks for their infrastructure, with Ethereum hosting the majority of token projects. The ERC-20 standard has enabled the creation of many unique tokens on Ethereum, ranging from governance tokens that grant voting rights in decentralized protocols to utility tokens that provide access to specific platform features. Uniswap's UNI token exemplifies this model, functioning as both a governance mechanism for protocol decisions and a tradeable asset on decentralized exchanges. Understanding token standards, tokenomics, and smart contract interactions has become essential for blockchain developers.

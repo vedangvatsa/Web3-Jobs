@@ -1,9 +1,9 @@
 ---
 name: SwissBorg
-website: https://swissborg.com
+website: 'https://swissborg.com'
 founded: 2017
 category: Wealth Management
-headquarters: Lausanne, Switzerland
+headquarters: 'Lausanne, Switzerland'
 description: Community-centric crypto wealth management platform
 ---
 

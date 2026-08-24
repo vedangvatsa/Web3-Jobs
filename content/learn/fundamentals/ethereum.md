@@ -1,56 +1,78 @@
 ---
-title: "Ethereum: The World Computer"
-description: "Why Ethereum matters, how the EVM works, and why most Web3 apps are built on it."
+title: 'Ethereum: The World Computer'
+description: >-
+  Why Ethereum matters, how the EVM works, and why most Web3 apps are built on
+  it.
 order: 4
-readTime: "10 min"
-difficulty: "beginner"
-prerequisites: ["blockchains"]
+readTime: 10 min
+difficulty: beginner
+prerequisites:
+  - blockchains
 quiz:
-  - question: "What makes Ethereum different from Bitcoin?"
+  - question: What makes Ethereum different from Bitcoin?
     options:
-      - "Ethereum is faster than Bitcoin"
-      - "Ethereum can run programs (smart contracts), Bitcoin mainly handles money transfers"
-      - "Ethereum does not use a blockchain"
-      - "Bitcoin has more developers"
+      - Ethereum is faster than Bitcoin
+      - >-
+        Ethereum can run programs (smart contracts), Bitcoin mainly handles
+        money transfers
+      - Ethereum does not use a blockchain
+      - Bitcoin has more developers
     correct: 1
-    explanation: "Bitcoin was designed for sending and receiving money. Ethereum added the ability to run programs (smart contracts) on the blockchain, making it a platform for building applications."
-  - question: "What is the EVM?"
+    explanation: >-
+      Bitcoin was designed for sending and receiving money. Ethereum added the
+      ability to run programs (smart contracts) on the blockchain, making it a
+      platform for building applications.
+  - question: What is the EVM?
     options:
-      - "A type of cryptocurrency"
-      - "A hardware device for mining"
-      - "The Ethereum Virtual Machine - the computer that runs smart contracts"
-      - "An Ethereum wallet"
+      - A type of cryptocurrency
+      - A hardware device for mining
+      - The Ethereum Virtual Machine - the computer that runs smart contracts
+      - An Ethereum wallet
     correct: 2
-    explanation: "The EVM (Ethereum Virtual Machine) is the computing engine that runs smart contracts. Every node in the network runs the same EVM, so everyone gets the same results."
-  - question: "What are gas fees?"
+    explanation: >-
+      The EVM (Ethereum Virtual Machine) is the computing engine that runs smart
+      contracts. Every node in the network runs the same EVM, so everyone gets
+      the same results.
+  - question: What are gas fees?
     options:
-      - "Monthly subscription costs for Ethereum"
-      - "Fees you pay to execute operations on the Ethereum network"
-      - "The cost of electricity to run a node"
-      - "A tax collected by the Ethereum Foundation"
+      - Monthly subscription costs for Ethereum
+      - Fees you pay to execute operations on the Ethereum network
+      - The cost of electricity to run a node
+      - A tax collected by the Ethereum Foundation
     correct: 1
-    explanation: "Gas fees are paid by users to compensate validators for processing their transactions. Every operation (sending ETH, calling a contract) costs gas. You pay in ETH."
-  - question: "What is an ERC-20 token?"
+    explanation: >-
+      Gas fees are paid by users to compensate validators for processing their
+      transactions. Every operation (sending ETH, calling a contract) costs gas.
+      You pay in ETH.
+  - question: What is an ERC-20 token?
     options:
-      - "A type of NFT"
-      - "A standard for creating fungible tokens on Ethereum"
-      - "A wallet application"
-      - "A layer 2 network"
+      - A type of NFT
+      - A standard for creating fungible tokens on Ethereum
+      - A wallet application
+      - A layer 2 network
     correct: 1
-    explanation: "ERC-20 is a standard that defines how tokens work on Ethereum. It ensures all tokens share the same basic functions (transfer, approve, balance check), making them compatible with any wallet or exchange."
-  - question: "How much ETH must a validator stake to participate in Ethereum's consensus?"
+    explanation: >-
+      ERC-20 is a standard that defines how tokens work on Ethereum. It ensures
+      all tokens share the same basic functions (transfer, approve, balance
+      check), making them compatible with any wallet or exchange.
+  - question: >-
+      How much ETH must a validator stake to participate in Ethereum's
+      consensus?
     options:
-      - "1 ETH"
-      - "10 ETH"
-      - "32 ETH"
-      - "100 ETH"
+      - 1 ETH
+      - 10 ETH
+      - 32 ETH
+      - 100 ETH
     correct: 2
-    explanation: "Validators must stake 32 ETH to participate in Ethereum's Proof of Stake consensus. This acts as collateral — validators who act dishonestly lose a portion of their stake."
+    explanation: >-
+      Validators must stake 32 ETH to participate in Ethereum's Proof of Stake
+      consensus. This acts as collateral - validators who act dishonestly lose a
+      portion of their stake.
 ---
 
 ## Bitcoin was step one. Ethereum was step two.
 
-Bitcoin proved you could send money without a bank. That was a big deal. But Bitcoin's scripting language is simple on purpose — it handles transfers and not much else.
+Bitcoin proved you could send money without a bank. That was a big deal. But Bitcoin's scripting language is simple on purpose - it handles transfers and not much else.
 
 In 2013, a 19-year-old programmer named Vitalik Buterin published a whitepaper asking: what if a blockchain could run any program, not just money transfers? Two years later, Ethereum launched. It is a blockchain with a built-in computer.
 
@@ -156,11 +178,11 @@ Every operation the EVM performs costs **gas**. Simple operations (addition, com
 
 ## The token standards
 
-Ethereum introduced token standards — templates for creating digital assets. The two most important ones:
+Ethereum introduced token standards - templates for creating digital assets. The two most important ones:
 
-**ERC-20** is for fungible tokens (every token is identical). USDC, UNI, LINK, and thousands of other tokens use this standard. Think of them like currencies — one USDC is the same as any other USDC.
+**ERC-20** is for fungible tokens (every token is identical). USDC, UNI, LINK, and thousands of other tokens use this standard. Think of them like currencies - one USDC is the same as any other USDC.
 
-**ERC-721** is for non-fungible tokens (NFTs). Each token is unique. A CryptoPunk NFT is different from every other CryptoPunk. Think of them like concert tickets — each one has a unique seat number.
+**ERC-721** is for non-fungible tokens (NFTs). Each token is unique. A CryptoPunk NFT is different from every other CryptoPunk. Think of them like concert tickets - each one has a unique seat number.
 
 Because these are standards, any ERC-20 token works with any wallet, any exchange, and any DeFi protocol. This interoperability is one of Ethereum's biggest strengths.
 
@@ -179,7 +201,7 @@ Some facts about the network today:
 
 Ethereum has real limits:
 
-**Speed**: 12 seconds per block, ~15-30 transactions per second on the main chain. Visa handles ~1,700 per second. This is why Layer 2 networks exist — they process transactions off the main chain and settle back to Ethereum periodically.
+**Speed**: 12 seconds per block, ~15-30 transactions per second on the main chain. Visa handles ~1,700 per second. This is why Layer 2 networks exist - they process transactions off the main chain and settle back to Ethereum periodically.
 
 **Cost**: During busy periods, a simple token swap can cost $5-50 in gas fees. Layer 2 networks reduce this to pennies.
 

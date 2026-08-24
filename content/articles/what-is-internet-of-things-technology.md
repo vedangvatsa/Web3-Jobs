@@ -1,13 +1,13 @@
 ---
-
-title: "What is Internet of Things Technology"
-image: "https://picsum.photos/seed/iot/1200/630"
-description: "An easy-to-understand guide to the Internet of Things (IoT), the network of connected devices that are changing our homes, cities, and industries."
-category: "Educational"
-data-ai-hint: "connected devices"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is Internet of Things Technology
+image: 'https://picsum.photos/seed/iot/1200/630'
+description: >-
+  An easy-to-understand guide to the Internet of Things (IoT), the network of
+  connected devices that are changing our homes, cities, and industries.
+category: Educational
+data-ai-hint: connected devices
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The Internet of Things, known as IoT, encompasses a network of physical objects embedded with various technologies, enabling them to connect to the internet and communicate with other devices and systems. This concept extends internet connectivity beyond traditional devices like computers and smartphones to everyday objects, ranging from lightbulbs to industrial machinery.
@@ -26,7 +26,7 @@ These physical objects gather data from their environments via embedded sensors.
 
 **2. Connectivity**
 
-For data to be actionable, it must be transmitted to a processing location. Devices use various communication methods to relay sensor data to the cloud. This includes Wi-Fi, Bluetooth, cellular networks such as 4G or [5G](/what-is-5g-network-technology), and specialized low-power network technologies. The choice of connectivity hinges on the specific application’s requirements concerning range, bandwidth, and energy consumption.
+For data to be actionable, it must be transmitted to a processing location. Devices use various communication methods to relay sensor data to the cloud. This includes Wi-Fi, Bluetooth, cellular networks such as 4G or [5G](/what-is-5g-network-technology), and specialized low-power network technologies. The choice of connectivity hinges on the specific application's requirements concerning range, bandwidth, and energy consumption.
 
 **3. Data Processing**
 

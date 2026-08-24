@@ -1,13 +1,22 @@
 ---
-term: "Proof of Stake"
-slug: "proof-of-stake"
-category: "Technical"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&h=600&fit=crop"
-imageAlt: "Digital staking and validation concept representing proof of stake"
-description: "A consensus mechanism where validators are chosen to create blocks based on the amount of cryptocurrency they stake. Replaces energy-intensive mining with capital investment for blockchain security."
-relatedTerms: ["staking", "consensus-mechanism", "ethereum"]
-synonyms: ["PoS", "staking consensus"]
+term: Proof of Stake
+slug: proof-of-stake
+category: Technical
+difficulty: Intermediate
+image: >-
+  https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&h=600&fit=crop
+imageAlt: Digital staking and validation concept representing proof of stake
+description: >-
+  A consensus mechanism where validators are chosen to create blocks based on
+  the amount of cryptocurrency they stake. Replaces energy-intensive mining with
+  capital investment for blockchain security.
+relatedTerms:
+  - staking
+  - consensus-mechanism
+  - ethereum
+synonyms:
+  - PoS
+  - staking consensus
 ---
 
 Proof of Stake is a consensus mechanism that selects validators to create and verify new blocks based on the amount of cryptocurrency they have locked as collateral, replacing the energy-intensive computational competition of proof-of-work systems. Validators are chosen through a weighted random selection process where larger stakes increase the probability of being selected, creating security through economic incentives rather than raw processing power. Ethereum's transition to proof of stake in September 2022, known as "The Merge," demonstrated the mechanism's environmental advantages at scale. Other major networks including Solana, Cardano, and Polkadot have built their architectures around proof of stake from inception. Understanding proof of stake mechanics is increasingly valuable for blockchain developers, protocol engineers, and validator operators, as many new layer-1 networks now adopt this consensus model.

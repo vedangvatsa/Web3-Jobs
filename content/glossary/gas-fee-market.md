@@ -1,12 +1,21 @@
 ---
-term: "Gas Fee Market"
-slug: "gas-fee-market"
-category: "technical"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
-description: "The dynamic marketplace where users bid for block space by offering gas fees, with prices fluctuating based on network demand and capacity."
-relatedTerms: ["gas", "ethereum", "fee", "blockspace"]
-synonyms: ["fee market", "blockspace market", "transaction fees"]
+term: Gas Fee Market
+slug: gas-fee-market
+category: technical
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80'
+description: >-
+  The dynamic marketplace where users bid for block space by offering gas fees,
+  with prices fluctuating based on network demand and capacity.
+relatedTerms:
+  - gas
+  - ethereum
+  - fee
+  - blockspace
+synonyms:
+  - fee market
+  - blockspace market
+  - transaction fees
 ---
 
 Gas Fee Market refers to the dynamic marketplace where users compete for limited block space by bidding transaction fees, with prices fluctuating based on network congestion and capacity. When demand exceeds available block space, users must offer higher fees to prioritize their transactions, creating an auction-like environment for network resources. Ethereum's EIP-1559 upgrade introduced a dual-fee structure combining an algorithmically adjusted base fee with optional priority tips, making fee estimation more predictable while still allowing users to expedite urgent transactions. Understanding gas fee market dynamics is valuable for blockchain developers, protocol economists, and operations specialists who optimize transaction costs and user experience across decentralized applications.
@@ -131,4 +140,4 @@ Trends:
 
 ## Price Blockspace Efficiently
 
-Gas fee markets determine transaction costs and network access. Understanding them helps users and builders optimize execution. If you’re interested in protocol economics, explore [protocol careers](/) at infrastructure teams.
+Gas fee markets determine transaction costs and network access. Understanding them helps users and builders optimize execution. If you're interested in protocol economics, explore [protocol careers](/) at infrastructure teams.

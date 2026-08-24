@@ -1,6 +1,6 @@
 ---
 name: Magic Eden
-website: https://magiceden.io
+website: 'https://magiceden.io'
 category: NFT Platform
 description: Magic Eden is a leading NFT marketplace for various digital assets.
 ---

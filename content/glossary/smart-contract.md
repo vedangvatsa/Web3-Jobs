@@ -1,13 +1,23 @@
 ---
-term: "Smart Contract"
-slug: "smart-contract"
-category: "Smart Contracts"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-imageAlt: "Smart contract code on computer screen"
-description: "Self-executing programs stored on a blockchain that automatically enforce agreements when predetermined conditions are met, eliminating the need for intermediaries."
-relatedTerms: ["Ethereum", "Solidity", "Blockchain", "Gas Fee", "DApp"]
-synonyms: ["Self-Executing Contract", "Digital Contract"]
+term: Smart Contract
+slug: smart-contract
+category: Smart Contracts
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+imageAlt: Smart contract code on computer screen
+description: >-
+  Self-executing programs stored on a blockchain that automatically enforce
+  agreements when predetermined conditions are met, eliminating the need for
+  intermediaries.
+relatedTerms:
+  - Ethereum
+  - Solidity
+  - Blockchain
+  - Gas Fee
+  - DApp
+synonyms:
+  - Self-Executing Contract
+  - Digital Contract
 ---
 
 Smart Contract refers to a self-executing program stored on a blockchain that automatically enforces the terms of an agreement when predetermined conditions are met, eliminating the need for intermediaries or trusted third parties. These digital agreements function like automated escrow services, holding and releasing assets based on coded logic rather than human judgment. Ethereum pioneered programmable smart contracts in 2015, and platforms like Uniswap use them to enable decentralized token swaps without any central authority managing transactions. Smart contracts power everything from lending platforms and insurance products to supply chain tracking and digital art royalties. For professionals entering the Web3 space, smart contract development using Solidity or Rust ranks among the most sought-after skills.

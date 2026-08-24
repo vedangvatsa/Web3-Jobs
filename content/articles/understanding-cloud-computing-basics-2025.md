@@ -1,13 +1,13 @@
 ---
-
-title: "Understanding Cloud Computing Basics 2025"
-image: "https://picsum.photos/seed/cloud-basics/1200/630"
-description: "A simple guide to the fundamentals of cloud computing, explaining what it is, the main service models (IaaS, PaaS, SaaS), and its key benefits."
-category: "Educational"
-data-ai-hint: "data servers"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Cloud Computing Basics 2025
+image: 'https://picsum.photos/seed/cloud-basics/1200/630'
+description: >-
+  A simple guide to the fundamentals of cloud computing, explaining what it is,
+  the main service models (IaaS, PaaS, SaaS), and its key benefits.
+category: Educational
+data-ai-hint: data servers
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Cloud computing allows users to access computing resources via the internet, bypassing the need for physical hardware management. This model resembles a utility service; rather than acquiring and maintaining your own servers, you rent resources like storage, databases, and processing power from providers such as Amazon Web Services (AWS), Google Cloud, or Microsoft Azure.

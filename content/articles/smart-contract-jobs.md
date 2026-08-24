@@ -1,13 +1,13 @@
 ---
-
-title: "Smart Contract Jobs: A Career Guide for Developers"
-image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
-description: "Smart contract development is a highly sought-after skill. This guide covers the roles, responsibilities, and how to start your career as a smart contract."
-category: "Career Guides"
-data-ai-hint: "developer career"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Smart Contract Jobs: A Career Guide for Developers'
+image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
+description: >-
+  Smart contract development is a highly sought-after skill. This guide covers
+  the roles, responsibilities, and how to start your career as a smart contract.
+category: Career Guides
+data-ai-hint: developer career
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 [Smart contract](/what-are-smart-contracts) development is the most in-demand technical skill in [Web3](/what-is-web3). If you're a developer considering a career in [blockchain](/what-is-a-blockchain), understanding the smart contract job market matters.

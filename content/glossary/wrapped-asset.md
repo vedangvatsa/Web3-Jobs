@@ -1,12 +1,21 @@
 ---
-term: "Wrapped Asset"
-slug: "wrapped-asset"
-category: "cryptocurrencies"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "A token representing an asset from another blockchain, created when the original asset is locked by a bridge, enabling cross-chain use."
-relatedTerms: ["wrapped-token", "bridge", "cross-chain", "token"]
-synonyms: ["bridged asset", "synthetic asset", "cross-chain token"]
+term: Wrapped Asset
+slug: wrapped-asset
+category: cryptocurrencies
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  A token representing an asset from another blockchain, created when the
+  original asset is locked by a bridge, enabling cross-chain use.
+relatedTerms:
+  - wrapped-token
+  - bridge
+  - cross-chain
+  - token
+synonyms:
+  - bridged asset
+  - synthetic asset
+  - cross-chain token
 ---
 
 Wrapped Asset refers to a tokenized representation of an asset from one blockchain that has been locked in a bridge contract and minted as a compatible token on another chain, enabling cross-chain liquidity and interoperability. The most prominent example is Wrapped Bitcoin (wBTC), where users lock BTC with a custodian like BitGo and receive an equivalent ERC-20 token on Ethereum that can be used in DeFi protocols like Aave or Curve for lending and yield generation. Wrapped assets maintain their peg through arbitrage mechanisms, where traders profit from price discrepancies by wrapping or unwrapping tokens when values diverge. Professionals who understand wrapped asset mechanics, bridge security, and cross-chain protocols are increasingly sought after for roles in DeFi development, protocol security, and blockchain infrastructure engineering.

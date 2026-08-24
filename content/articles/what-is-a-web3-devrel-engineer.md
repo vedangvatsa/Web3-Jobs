@@ -1,13 +1,13 @@
 ---
-
-title: "What is a Web3 DevRel Engineer? A Career Guide"
-image: "/images/thisisengineering-32PpagSzeGs-unsplash.jpg"
-data-ai-hint: "developer relations talk"
-description: "A guide to the unique role of a Developer Relations (DevRel) Engineer in Web3. Learn what they do, the skills they need, and how they build a growing."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is a Web3 DevRel Engineer? A Career Guide
+image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
+data-ai-hint: developer relations talk
+description: >-
+  A guide to the unique role of a Developer Relations (DevRel) Engineer in Web3.
+  Learn what they do, the skills they need, and how they build a growing.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the competitive field of [Web3](/what-is-web3), attracting and retaining a strong ecosystem of third-party developers is essential for a protocol's success. When developers build on a platform, the network expands. Conversely, if they encounter challenges or confusion, they may choose alternative platforms. This reality has led to the emergence of an important role in Web3: the **Developer Relations Engineer**, commonly referred to as **DevRel**.
@@ -49,6 +49,6 @@ The journey to becoming a DevRel engineer often begins with active involvement i
 1. **Engage with the Protocol:** Start by using the product you wish to represent. Create a small project using their SDK.
 2. **Identify Gaps:** Pay attention to the developer experience during your project development. Note areas where documentation may be unclear or tutorials are lacking.
 3. **Create Content:** Write blog posts or record video tutorials that would have been beneficial during your onboarding process. Share these resources with the community.
-4. **Exemplify Community Engagement:** Participate in the project’s Discord and assist other developers facing challenges. Your [public contributions](/how-to-build-a-public-on-chain-developer-brand) will draw the attention of the core team.
+4. **Exemplify Community Engagement:** Participate in the project's Discord and assist other developers facing challenges. Your [public contributions](/how-to-build-a-public-on-chain-developer-brand) will draw the attention of the core team.
 
 The DevRel role plays a high-impact part in a protocol's growth strategy. For developers passionate about teaching, communication, and community engagement, this role offers a dynamic and fulfilling career within the Web3 ecosystem.

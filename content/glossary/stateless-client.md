@@ -1,12 +1,21 @@
 ---
-term: "Stateless Client"
-slug: "stateless-client"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
-description: "A blockchain client that can verify blocks without storing the entire blockchain state, using cryptographic witnesses to prove state validity."
-relatedTerms: ["verkle-tree", "merkle-tree", "scaling", "ethereum"]
-synonyms: ["witness-based client", "stateless verification", "zero-state client"]
+term: Stateless Client
+slug: stateless-client
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80'
+description: >-
+  A blockchain client that can verify blocks without storing the entire
+  blockchain state, using cryptographic witnesses to prove state validity.
+relatedTerms:
+  - verkle-tree
+  - merkle-tree
+  - scaling
+  - ethereum
+synonyms:
+  - witness-based client
+  - stateless verification
+  - zero-state client
 ---
 
 Stateless Client refers to a blockchain node implementation that can verify blocks and validate transactions without storing the entire blockchain state locally, instead relying on cryptographic witnesses or proofs provided alongside each block. Traditional full nodes must store gigabytes of state data, but stateless clients receive compact proofs that mathematically demonstrate the validity of state transitions, reducing storage requirements. Ethereum's roadmap features stateless clients as part of "The Verge" upgrade phase, using Verkle trees to generate efficient witnesses that could reduce node storage requirements compared to current full nodes. This approach enables blockchain validation on consumer-grade hardware, including smartphones and embedded devices, lowering barriers to network participation and enhancing decentralization. Projects like Portal Network are building stateless client infrastructure for Ethereum. As blockchain networks prioritize scalability and accessibility, engineers with expertise in stateless client architecture, witness generation, and cryptographic proof systems are increasingly sought after by protocol development teams and infrastructure companies.

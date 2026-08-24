@@ -1,6 +1,6 @@
 ---
 name: Alliance
-website: https://alliance.xyz
+website: 'https://alliance.xyz'
 category: Other
 description: Alliance focuses on building community-driven projects in the Web3 space.
 ---

@@ -1,6 +1,6 @@
 ---
 name: Injective
-website: https://injective.com
+website: 'https://injective.com'
 category: DeFi Protocol
 description: Injective is a decentralized exchange protocol for trading derivatives.
 ---

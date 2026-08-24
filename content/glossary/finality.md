@@ -1,12 +1,22 @@
 ---
-term: "Finality"
-slug: "finality"
-category: "blockchain-fundamentals"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80"
-description: "The point at which a blockchain transaction is considered permanently settled and cannot be reversed or modified, varying by consensus mechanism and protocol design."
-relatedTerms: ["consensus", "blockchain", "confirmation", "protocol"]
-synonyms: ["transaction settlement", "irreversibility", "confirmation finality"]
+term: Finality
+slug: finality
+category: blockchain-fundamentals
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80'
+description: >-
+  The point at which a blockchain transaction is considered permanently settled
+  and cannot be reversed or modified, varying by consensus mechanism and
+  protocol design.
+relatedTerms:
+  - consensus
+  - blockchain
+  - confirmation
+  - protocol
+synonyms:
+  - transaction settlement
+  - irreversibility
+  - confirmation finality
 ---
 
 Finality refers to the point at which a blockchain transaction becomes permanently settled and cannot be reversed or modified, providing the certainty required for trustless digital commerce. Different consensus mechanisms achieve finality through distinct approaches, with Bitcoin requiring approximately six confirmations for probabilistic finality, while Ethereum's proof-of-stake system delivers economic finality in roughly thirteen minutes through validator slashing penalties that make reversals financially devastating. Cross-chain bridges have lost significant amounts to exploits, with many attacks exploiting finality assumptions between chains with different settlement times. Solana achieves confirmation in approximately 400 milliseconds through its proof-of-history mechanism, enabling high-frequency trading applications that are not possible on slower networks. For blockchain engineers and security auditors, understanding finality mechanisms across protocols has become essential, with job postings increasingly requiring expertise in consensus design and settlement guarantees.

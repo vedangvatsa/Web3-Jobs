@@ -1,6 +1,6 @@
 ---
 name: OP Labs
-website: https://oplabs.co
+website: 'https://oplabs.co'
 founded: 2019
 category: Layer 2 / Infrastructure
 headquarters: Remote
@@ -11,7 +11,7 @@ Core development team behind Optimism and the OP Stack.
 
 ## Company Overview
 
-OP Labs is the primary development organization behind the Optimism Layer 2 network and the OP Stack — a modular, open-source framework for building L2 rollups. The OP Stack powers Base, opBNB, Zora Network, and the broader Superchain vision.
+OP Labs is the primary development organization behind the Optimism Layer 2 network and the OP Stack - a modular, open-source framework for building L2 rollups. The OP Stack powers Base, opBNB, Zora Network, and the broader Superchain vision.
 
 ## Open Positions
 

@@ -1,13 +1,13 @@
 ---
-
-title: "Blockchain Mining Explained for Beginners"
-image: "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg"
-data-ai-hint: "blockchain mining hardware"
-description: "A simple, easy-to-understand guide to blockchain mining. Learn what miners do, how Proof-of-Work operates, and why it's essential for the security of."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Blockchain Mining Explained for Beginners
+image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
+data-ai-hint: blockchain mining hardware
+description: >-
+  A simple, easy-to-understand guide to blockchain mining. Learn what miners do,
+  how Proof-of-Work operates, and why it's essential for the security of.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 You've likely encountered the term "[Bitcoin](/what-is-bitcoin) mining," which often sparks images of individuals with pickaxes searching for digital treasures. However, the reality is more specific. [Blockchain](/what-is-a-blockchain) mining serves as a fundamental mechanism for many cryptocurrencies, particularly those using a **[Proof-of-Work (PoW)](/proof-of-stake-vs-proof-of-work-in-blockchain)** consensus model. This process verifies new transactions and integrates them into the blockchain while simultaneously introducing new coins into circulation.
@@ -26,7 +26,7 @@ This mechanism is vital because it secures and decentralizes the blockchain. No 
 
 ### Mechanics of Proof-of-Work Mining
 
-Proof-of-Work centers on a competitive quest to discover a specific numerical value. Here’s how the puzzle works:
+Proof-of-Work centers on a competitive quest to discover a specific numerical value. Here's how the puzzle works:
 
 1. **Creating the Block Header:** Each miner assembles a "block header" from their candidate block of transactions. This header summarizes all the block's data and includes a reference to the hash of the previous block.
 2. **Nonce Inclusion:** The miner appends a nonce (short for "number used once") to the block header.
@@ -43,7 +43,7 @@ To modify a past transaction, an attacker would need to:
 
 1. Alter the transaction within its original block.
 2. Re-mine that block by finding a new valid hash.
-3. Re-mine every block that follows, as each subsequent block references the previous one’s hash.
+3. Re-mine every block that follows, as each subsequent block references the previous one's hash.
 
 Accomplishing this would require more computational power than the entire network combined, known as a "51% attack." On a large network like Bitcoin, the costs associated with the necessary hardware and electricity are prohibitive, rendering such an attack virtually impossible. The work involved serves as both an economic and physical deterrent against tampering with the ledger.
 

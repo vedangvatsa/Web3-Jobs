@@ -1,12 +1,14 @@
 ---
-
-title: "Tips from a Web3 Recruiter: How to Get Hired"
-image: "https://images.unsplash.com/photo-1556742212-5b321f3c261b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWNydWl0ZXJ8ZW58MHx8fHwxNzU1MTYxOTk3fDA&lib=rb-4.1.0&q=80&w=1080"
-description: "Get insider tips from a Web3 headhunter. Learn what recruiters are looking for, the biggest red flags on a resume, and how to stand out in a competitive market."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Tips from a Web3 Recruiter: How to Get Hired'
+image: >-
+  https://images.unsplash.com/photo-1556742212-5b321f3c261b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWNydWl0ZXJ8ZW58MHx8fHwxNzU1MTYxOTk3fDA&lib=rb-4.1.0&q=80&w=1080
+description: >-
+  Get insider tips from a Web3 headhunter. Learn what recruiters are looking
+  for, the biggest red flags on a resume, and how to stand out in a competitive
+  market.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The [Web3](/what-is-web3) job market presents a competitive environment characterized by high salaries and distinct cultural nuances. Both candidates and companies face challenges in finding the right fit. Through my experience as a Web3 recruiter, I have reviewed thousands of resumes, conducted numerous interviews, and successfully placed candidates in leading protocols and startups within this field.

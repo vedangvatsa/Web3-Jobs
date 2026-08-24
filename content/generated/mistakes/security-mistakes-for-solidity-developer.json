@@ -38,7 +38,7 @@
           },
           {
             "title": "Unchecked External Call Returns",
-            "mistake": "Ignoring return values from low-level calls like .call().delegatecall(), or .send().",
+            "mistake": "Ignoring return values from low-level calls like.call().delegatecall(), or.send().",
             "consequence": "Failed transfers silently succeed, leading to accounting errors and fund loss.",
             "solution": "Always check return values: (bool success, ) = addr.call{value: amount}(\"\"); require(success);",
             "severity": "critical"
@@ -107,9 +107,9 @@
         "items": [
           {
             "title": "Using transfer() or send() for ETH",
-            "mistake": "Using .transfer() or .send() which forward only 2300 gas, failing on some contracts.",
+            "mistake": "Using.transfer() or.send() which forward only 2300 gas, failing on some contracts.",
             "consequence": "Transfers to contracts with receive() functions that need more gas will fail permanently.",
-            "solution": "Use .call{value: amount}(\"\") with reentrancy protection instead.",
+            "solution": "Use.call{value: amount}(\"\") with reentrancy protection instead.",
             "severity": "major"
           },
           {

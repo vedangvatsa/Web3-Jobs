@@ -1,51 +1,66 @@
 ---
-title: "What is Solidity?"
-description: "An introduction to the programming language of Ethereum and the EVM."
+title: What is Solidity?
+description: An introduction to the programming language of Ethereum and the EVM.
 order: 1
-readTime: "6 min"
-difficulty: "beginner"
+readTime: 6 min
+difficulty: beginner
 prerequisites: []
 quiz:
-  - question: "What is Solidity primarily used for?"
+  - question: What is Solidity primarily used for?
     options:
-      - "Building frontend websites"
-      - "Writing smart contracts that run on the Ethereum Virtual Machine (EVM)"
-      - "Training AI models"
-      - "Managing SQL databases"
+      - Building frontend websites
+      - Writing smart contracts that run on the Ethereum Virtual Machine (EVM)
+      - Training AI models
+      - Managing SQL databases
     correct: 1
-    explanation: "Solidity is the primary language used to write smart contracts for Ethereum and other EVM-compatible blockchains."
-  - question: "Which language does Solidity closely resemble syntactically?"
+    explanation: >-
+      Solidity is the primary language used to write smart contracts for
+      Ethereum and other EVM-compatible blockchains.
+  - question: Which language does Solidity closely resemble syntactically?
     options:
-      - "Python"
-      - "C++, JavaScript, and C#"
-      - "HTML"
-      - "Ruby"
+      - Python
+      - 'C++, JavaScript, and C#'
+      - HTML
+      - Ruby
     correct: 1
-    explanation: "Solidity's syntax is heavily influenced by C++, JavaScript, and C#. It uses curly braces, static typing, and object-oriented programming concepts."
-  - question: "What does it mean that Solidity is 'statically typed'?"
+    explanation: >-
+      Solidity's syntax is heavily influenced by C++, JavaScript, and C#. It
+      uses curly braces, static typing, and object-oriented programming
+      concepts.
+  - question: What does it mean that Solidity is 'statically typed'?
     options:
-      - "Variables cannot change values"
-      - "You must declare the data type of each variable at compile time"
-      - "The code cannot be deleted from the blockchain"
-      - "It runs slowly"
+      - Variables cannot change values
+      - You must declare the data type of each variable at compile time
+      - The code cannot be deleted from the blockchain
+      - It runs slowly
     correct: 1
-    explanation: "In statically typed languages like Solidity, you must declare whether a variable is an integer, a string, or an address when you write the code. It is not inferred dynamically like in JavaScript."
-  - question: "What compiles Solidity code into instructions the blockchain can understand?"
+    explanation: >-
+      In statically typed languages like Solidity, you must declare whether a
+      variable is an integer, a string, or an address when you write the code.
+      It is not inferred dynamically like in JavaScript.
+  - question: >-
+      What compiles Solidity code into instructions the blockchain can
+      understand?
     options:
-      - "The browser"
-      - "The Solidity Compiler (solc) turns it into EVM bytecode"
-      - "A web server"
-      - "A consensus algorithm"
+      - The browser
+      - The Solidity Compiler (solc) turns it into EVM bytecode
+      - A web server
+      - A consensus algorithm
     correct: 1
-    explanation: "Solidity code is compiled into EVM bytecode, which is the low-level hexadecimal format that nodes on the Ethereum network actually execute."
-  - question: "Can a Solidity contract be modified after it is deployed?"
+    explanation: >-
+      Solidity code is compiled into EVM bytecode, which is the low-level
+      hexadecimal format that nodes on the Ethereum network actually execute.
+  - question: Can a Solidity contract be modified after it is deployed?
     options:
-      - "Yes, anytime by the creator"
-      - "No, the code is immutable once deployed"
-      - "Yes, if the Ethereum Foundation approves"
-      - "No, but you can delete the blockchain"
+      - 'Yes, anytime by the creator'
+      - 'No, the code is immutable once deployed'
+      - 'Yes, if the Ethereum Foundation approves'
+      - 'No, but you can delete the blockchain'
     correct: 1
-    explanation: "Once deployed to a blockchain, the code of a smart contract cannot be altered. To change the logic, developers must deploy a new contract (though proxy patterns allow for upgradeable architecture)."
+    explanation: >-
+      Once deployed to a blockchain, the code of a smart contract cannot be
+      altered. To change the logic, developers must deploy a new contract
+      (though proxy patterns allow for upgradeable architecture).
 ---
 
 ## The Language of Web3

@@ -1,6 +1,6 @@
 ---
 name: Trust Wallet
-website: https://trustwallet.com
+website: 'https://trustwallet.com'
 category: Web3 Wallet
 description: Trust Wallet is a mobile cryptocurrency wallet for managing digital assets.
 ---

@@ -30,8 +30,9 @@ import {
  SelectValue,
 } from '@/components/ui/select';
 import { Slider } from '@/components/ui/slider';
-import { Calculator, Sparkles, Briefcase, ArrowRight } from 'lucide-react';
+import { Calculator, Sparkles } from 'lucide-react';
 import { useState, useEffect } from 'react';
+import { CtaBanner } from '@/components/cta-banner';
 
 const salarySchema = z.object({
  role: z.string().min(1, 'Please select a role'),
@@ -388,20 +389,13 @@ export function SalaryCalculatorForm() {
           </div>
         </div>
       </div>
-       <Card className="mt-12 col-span-full bg-muted/30 border shadow-none">
-        <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-          
-          <div>
-            <h3 className="text-xl font-bold text-foreground mb-1">Ready to Apply?</h3>
-            <p className="text-muted-foreground">Now that you know your worth, find the perfect remote Web3 job to match.</p>
-          </div>
-          <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
-            <Button size="lg">
-              Find a Remote Web3 Job <ArrowRight className="ml-2 h-4 w-4"/>
-            </Button>
-          </a>
-        </CardContent>
-      </Card>
+      <CtaBanner
+        variant="jobs"
+        title="Ready to Apply?"
+        description="Now that you know your worth, find the perfect remote Web3 job to match."
+        buttonText="Find a Remote Web3 Job"
+        className="col-span-full"
+      />
      </div>
     </div>
   );

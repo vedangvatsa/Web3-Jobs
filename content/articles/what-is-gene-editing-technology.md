@@ -1,13 +1,13 @@
 ---
-
-title: "What is Gene Editing Technology"
-description: "A detailed explanation of gene editing, focusing on how technologies like CRISPR work and their potential to change medicine and agriculture."
-category: "Educational"
-image: "https://picsum.photos/seed/geneediting/1200/630"
-data-ai-hint: "dna strand"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is Gene Editing Technology
+description: >-
+  A detailed explanation of gene editing, focusing on how technologies like
+  CRISPR work and their potential to change medicine and agriculture.
+category: Educational
+image: 'https://picsum.photos/seed/geneediting/1200/630'
+data-ai-hint: dna strand
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Gene editing encompasses a range of technologies that enable scientists to modify an organism's DNA. This process allows for the addition, removal, or alteration of genetic material at specific locations within the genome. Researchers can search for a precise DNA sequence, excise it, and substitute it with a new sequence.
@@ -37,11 +37,11 @@ Gene editing holds immense promise in treating human diseases, particularly thos
 
 Two primary approaches exist for applying gene editing in medicine:
 
-- **Ex vivo Gene Editing**: This technique involves extracting a patient’s cells, editing them in a laboratory setting, and subsequently reintroducing them into the patient. This approach is currently being tested for blood disorders like sickle cell anemia, where bone marrow stem cells are corrected with CRISPR and reinfused.
+- **Ex vivo Gene Editing**: This technique involves extracting a patient's cells, editing them in a laboratory setting, and subsequently reintroducing them into the patient. This approach is currently being tested for blood disorders like sickle cell anemia, where bone marrow stem cells are corrected with CRISPR and reinfused.
 
 - **In vivo Gene Editing**: More complex than ex vivo, this method entails delivering gene editing components directly into a patient's body to modify cells at their natural sites. This approach targets diseases affecting organs such as the liver or the eye.
 
-In addition to genetic disorders, gene editing proves valuable in cancer treatment. Researchers can modify a patient’s immune cells, specifically T-cells, to enhance their ability to recognize and combat cancer cells. CAR-T cell therapy, which employs this strategy, has shown effectiveness in treating certain types of leukemia and lymphoma.
+In addition to genetic disorders, gene editing proves valuable in cancer treatment. Researchers can modify a patient's immune cells, specifically T-cells, to enhance their ability to recognize and combat cancer cells. CAR-T cell therapy, which employs this strategy, has shown effectiveness in treating certain types of leukemia and lymphoma.
 
 ### Broader Applications and Ethical Considerations
 

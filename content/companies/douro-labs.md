@@ -1,6 +1,6 @@
 ---
 name: Douro Labs
-website: https://dourolabs.com
+website: 'https://dourolabs.com'
 founded: 2022
 category: Oracle / Infrastructure
 headquarters: Remote

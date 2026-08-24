@@ -1,13 +1,14 @@
 ---
-
-title: "Common Smart Contract Vulnerabilities Explained"
-image: "/images/christin-hume-Hcfwew744z4-unsplash.jpg"
-data-ai-hint: "security vulnerability lock"
-description: "A developer's guide to the most common security flaws in Solidity smart contracts, from reentrancy to integer overflows. Learn how to identify and prevent."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Common Smart Contract Vulnerabilities Explained
+image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
+data-ai-hint: security vulnerability lock
+description: >-
+  A developer's guide to the most common security flaws in Solidity smart
+  contracts, from reentrancy to integer overflows. Learn how to identify and
+  prevent.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the high-stakes field of [Web3](/what-is-web3), the security of [smart contracts](/what-are-smart-contracts) stands as a top priority. A single vulnerability can result in the loss of significant user funds. Since deployed [blockchain](/what-is-a-blockchain) code remains immutable, errors become permanent, highlighting the necessity for developers to understand common attack vectors.
@@ -20,7 +21,7 @@ Reentrancy is one of the most notorious smart contract vulnerabilities, infamous
 
 - **The Concept:** A reentrancy attack occurs when a malicious external contract calls back into the victim contract, allowing it to re-execute a function before the original call has finished. This can enable attackers to drain funds repeatedly.
 
-- **The Vulnerable Code:** A classic example is a `withdraw` function that transfers Ether before updating the user’s balance.
+- **The Vulnerable Code:** A classic example is a `withdraw` function that transfers Ether before updating the user's balance.
 
  ```solidity
  // VULNERABLE CODE

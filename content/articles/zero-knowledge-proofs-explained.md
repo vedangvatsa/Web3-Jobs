@@ -1,15 +1,16 @@
 ---
-
-title: "Zero-Knowledge Proofs (ZKPs): A Simple Explanation"
-image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWNofGVufDB8fHx8MTc1NDk1NTc5Mnww&lib=rb-4.1.0&q=80&w=1080"
-description: "An easy-to-understand guide to Zero-Knowledge Proofs. Learn how this cryptography allows you to prove something is true without revealing."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Zero-Knowledge Proofs (ZKPs): A Simple Explanation'
+image: >-
+  https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWNofGVufDB8fHx8MTc1NDk1NTc5Mnww&lib=rb-4.1.0&q=80&w=1080
+description: >-
+  An easy-to-understand guide to Zero-Knowledge Proofs. Learn how this
+  cryptography allows you to prove something is true without revealing.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
-Zero-Knowledge Proofs (ZKPs) offer a method for one party, the “prover,” to demonstrate knowledge of a fact to another party, the “verifier,” without disclosing any additional information. This cryptographic technique addresses a fundamental challenge in data privacy: how can you validate a claim without exposing sensitive information? For instance, revealing a password undermines its secrecy. ZKPs provide a solution to this issue, enabling privacy in various applications, especially within the fields of [blockchain](/what-is-a-blockchain) technology and [Web3](/what-is-web3).
+Zero-Knowledge Proofs (ZKPs) offer a method for one party, the "prover," to demonstrate knowledge of a fact to another party, the "verifier," without disclosing any additional information. This cryptographic technique addresses a fundamental challenge in data privacy: how can you validate a claim without exposing sensitive information? For instance, revealing a password undermines its secrecy. ZKPs provide a solution to this issue, enabling privacy in various applications, especially within the fields of [blockchain](/what-is-a-blockchain) technology and [Web3](/what-is-web3).
 
 ## Understanding Zero-Knowledge Proofs through Ali Baba's Cave
 
@@ -20,7 +21,7 @@ The story of Ali Baba's cave serves as an analogy to illustrate how Zero-Knowled
 - **The Process:**
  1. Victor remains outside the cave, unable to see which path Peggy chooses.
  2. Peggy enters the cave and takes either Path A or Path B.
- 3. After Peggy enters, Victor randomly calls out, “Come out of Path A!” or “Come out of Path B!”
+ 3. After Peggy enters, Victor randomly calls out, "Come out of Path A!" or "Come out of Path B!"
  4. If Peggy knows the secret phrase, she can easily comply. If she took Path B and Victor calls for Path A, she can open the magic door and emerge from Path A.
  5. If she does not know the phrase, she faces a 50% chance of guessing the correct path to exit.
 
@@ -70,7 +71,7 @@ The Ethereum network only needs to validate one small proof instead of executing
 
 ZKPs enable individuals to validate personal information without revealing sensitive data.
 
-- **Illustration:** When proving age to access a website, instead of presenting a driver’s license, which reveals more than just the date of birth, a user could generate a ZK proof. This proof validates that the date of birth is older than 18 years without disclosing the specific date or other personal details.
+- **Illustration:** When proving age to access a website, instead of presenting a driver's license, which reveals more than just the date of birth, a user could generate a ZK proof. This proof validates that the date of birth is older than 18 years without disclosing the specific date or other personal details.
 
 ## The Future of Zero-Knowledge Proofs
 

@@ -1,56 +1,86 @@
 ---
-title: "Autonomous Agents"
-description: "How AI agents use crypto wallets to transact autonomously — architecture, real examples, and the emerging machine economy."
+title: Autonomous Agents
+description: >-
+  How AI agents use crypto wallets to transact autonomously - architecture, real
+  examples, and the emerging machine economy.
 order: 2
-readTime: "12 min"
-difficulty: "intermediate"
-prerequisites: ["introduction"]
+readTime: 12 min
+difficulty: intermediate
+prerequisites:
+  - introduction
 quiz:
-  - question: "What is an autonomous agent?"
+  - question: What is an autonomous agent?
     options:
-      - "A smart contract that executes automatically on a schedule."
-      - "An AI program that can make decisions and take actions to achieve a goal."
-      - "A new type of cryptocurrency token."
-      - "A human who trades crypto automatically."
+      - A smart contract that executes automatically on a schedule.
+      - >-
+        An AI program that can make decisions and take actions to achieve a
+        goal.
+      - A new type of cryptocurrency token.
+      - A human who trades crypto automatically.
     correct: 1
-    explanation: "An autonomous agent is an AI that has a goal, can plan steps to achieve it, and take actions (like using tools or transacting) without continuous human oversight."
-  - question: "Why do agents use crypto wallets instead of bank accounts?"
+    explanation: >-
+      An autonomous agent is an AI that has a goal, can plan steps to achieve
+      it, and take actions (like using tools or transacting) without continuous
+      human oversight.
+  - question: Why do agents use crypto wallets instead of bank accounts?
     options:
-      - "Crypto is faster than fiat."
-      - "Bank accounts require human identity verification (KYC), which an AI lacks."
-      - "Crypto is cheaper."
-      - "Banks do not have APIs."
+      - Crypto is faster than fiat.
+      - >-
+        Bank accounts require human identity verification (KYC), which an AI
+        lacks.
+      - Crypto is cheaper.
+      - Banks do not have APIs.
     correct: 1
-    explanation: "Traditional banks require KYC (Know Your Customer) and legal human identity. An AI cannot pass KYC, but it can mathematically generate a crypto wallet in milliseconds."
-  - question: "What is a 'tool' in the context of an AI agent?"
+    explanation: >-
+      Traditional banks require KYC (Know Your Customer) and legal human
+      identity. An AI cannot pass KYC, but it can mathematically generate a
+      crypto wallet in milliseconds.
+  - question: What is a 'tool' in the context of an AI agent?
     options:
-      - "A hardware device the agent needs to run."
-      - "A function the agent can call to interact with external systems — like swapping tokens, reading on-chain data, or sending a message."
-      - "A programming language for building agents."
-      - "A type of smart contract."
+      - A hardware device the agent needs to run.
+      - >-
+        A function the agent can call to interact with external systems - like
+        swapping tokens, reading on-chain data, or sending a message.
+      - A programming language for building agents.
+      - A type of smart contract.
     correct: 1
-    explanation: "Tools are the actions an agent can take. Each tool is a function — like 'swap ETH for USDC on Uniswap' or 'deploy a smart contract.' The agent's LLM brain decides which tools to call and in what order."
-  - question: "What is a multi-agent economy?"
+    explanation: >-
+      Tools are the actions an agent can take. Each tool is a function - like
+      'swap ETH for USDC on Uniswap' or 'deploy a smart contract.' The agent's
+      LLM brain decides which tools to call and in what order.
+  - question: What is a multi-agent economy?
     options:
-      - "A blockchain network with multiple validators."
-      - "Multiple AI agents autonomously transacting with each other using crypto wallets, creating a machine-to-machine marketplace."
-      - "A human marketplace with AI-powered search."
-      - "Multiple users sharing one AI agent."
+      - A blockchain network with multiple validators.
+      - >-
+        Multiple AI agents autonomously transacting with each other using crypto
+        wallets, creating a machine-to-machine marketplace.
+      - A human marketplace with AI-powered search.
+      - Multiple users sharing one AI agent.
     correct: 1
-    explanation: "When multiple agents each have their own wallets, they can pay each other for services — a researcher agent pays a data agent for on-chain analytics, which pays a compute agent for processing power. This creates a fully autonomous economic loop."
-  - question: "Why are guardrails important for crypto-enabled AI agents?"
+    explanation: >-
+      When multiple agents each have their own wallets, they can pay each other
+      for services - a researcher agent pays a data agent for on-chain
+      analytics, which pays a compute agent for processing power. This creates a
+      fully autonomous economic loop.
+  - question: Why are guardrails important for crypto-enabled AI agents?
     options:
-      - "To make agents run faster."
-      - "Because an agent with a wallet and no spending limits could drain its entire balance on a bad trade or get tricked by a malicious contract."
-      - "They are not important — agents should have full autonomy."
-      - "Regulators require them."
+      - To make agents run faster.
+      - >-
+        Because an agent with a wallet and no spending limits could drain its
+        entire balance on a bad trade or get tricked by a malicious contract.
+      - They are not important - agents should have full autonomy.
+      - Regulators require them.
     correct: 1
-    explanation: "An agent with a funded wallet can lose real money. Without guardrails — spending caps, approved contract allowlists, human-in-the-loop for large transactions — a buggy or manipulated agent could drain funds in seconds. Guardrails are safety-critical."
+    explanation: >-
+      An agent with a funded wallet can lose real money. Without guardrails -
+      spending caps, approved contract allowlists, human-in-the-loop for large
+      transactions - a buggy or manipulated agent could drain funds in seconds.
+      Guardrails are safety-critical.
 ---
 
 ## What is an Autonomous Agent?
 
-An autonomous agent is an AI system that doesn't just chat—it *acts*. You give it a high-level goal, and it breaks that goal into steps, decides which tools to use, and executes them.
+An autonomous agent is an AI system that doesn't just chat - it *acts*. You give it a high-level goal, and it breaks that goal into steps, decides which tools to use, and executes them.
 
 For example, instead of asking ChatGPT, "How do I launch a token?", you tell an agent, "Deploy a meme token on Base, set up a liquidity pool, and write a Twitter thread about it." The agent then:
 1. Writes the Solidity contract
@@ -97,7 +127,7 @@ Every crypto-enabled agent has three layers:
 </div>
 
 1. **Brain (LLM):** A large language model (like GPT-4, Claude, or an open-source model) that reasons about the goal, breaks it into steps, and decides what to do next.
-2. **Tools:** Functions the agent can call — swapping tokens on Uniswap, deploying a contract, reading a price feed, posting on social media. Each tool is a well-defined action.
+2. **Tools:** Functions the agent can call - swapping tokens on Uniswap, deploying a contract, reading a price feed, posting on social media. Each tool is a well-defined action.
 3. **Wallet:** A crypto wallet that gives the agent a financial identity. It can sign transactions, hold tokens, and interact with any smart contract on any blockchain.
 
 ## The Financial Bottleneck
@@ -125,9 +155,9 @@ When you give an AI agent a crypto wallet, it becomes a sovereign economic actor
 
 Crypto agents are not hypothetical. Several are already operating:
 
-- **AIXBT** — An AI agent on Crypto Twitter that analyzes market data and posts trading insights. It launched its own token (AIXBT) which reached a market cap of over $100M. The agent operates autonomously, posting analysis and interacting with followers.
-- **Virtuals Protocol** — A platform on Base where anyone can launch an AI agent with its own token. Agents earn revenue from user interactions, and token holders share in the profits. Think of it as "tokenized AI employees."
-- **Wayfinder** — An agent framework that lets AI work through on-chain actions. You tell it "bridge 100 USDC from Ethereum to Arbitrum and deposit into Aave," and the agent figures out the optimal path and executes it.
+- **AIXBT** - An AI agent on Crypto Twitter that analyzes market data and posts trading insights. It launched its own token (AIXBT) which reached a market cap of over $100M. The agent operates autonomously, posting analysis and interacting with followers.
+- **Virtuals Protocol** - A platform on Base where anyone can launch an AI agent with its own token. Agents earn revenue from user interactions, and token holders share in the profits. Think of it as "tokenized AI employees."
+- **Wayfinder** - An agent framework that lets AI work through on-chain actions. You tell it "bridge 100 USDC from Ethereum to Arbitrum and deposit into Aave," and the agent figures out the optimal path and executes it.
 
 ## Agent Frameworks
 
@@ -152,7 +182,7 @@ This creates a true Machine-to-Machine (M2M) economy, running entirely on blockc
 
 ## Trust and Guardrails
 
-An agent with a funded wallet is powerful — and dangerous. Without guardrails, a buggy agent could:
+An agent with a funded wallet is powerful - and dangerous. Without guardrails, a buggy agent could:
 - Drain its entire balance on a bad trade
 - Interact with a malicious smart contract and lose all funds
 - Get tricked by a prompt injection attack into sending tokens to an attacker
@@ -168,7 +198,7 @@ The open question in the industry: How much autonomy should an agent have? Too l
 ## Key takeaways
 
 - An autonomous agent has three layers: a brain (LLM), tools (actions), and a wallet (crypto identity).
-- Crypto wallets solve the financial identity problem — agents can't use banks, but they can generate wallets instantly.
+- Crypto wallets solve the financial identity problem - agents can't use banks, but they can generate wallets instantly.
 - Real agents already exist: AIXBT, Virtuals Protocol, and Wayfinder are live examples.
 - Multi-agent economies enable machine-to-machine payments without human intermediaries.
 - Guardrails (spending caps, allowlists, human approval) are essential to prevent agents from losing funds.

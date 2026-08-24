@@ -1,13 +1,14 @@
 ---
-
-title: "Understanding Uncle Blocks in Ethereum"
-description: "Discover what Uncle blocks are in Ethereum's Proof-of-Work history, why they were created, and how they improved network security and miner decentralization."
-category: "Educational"
-image: "https://picsum.photos/seed/uncle/1200/630"
-data-ai-hint: "uncle blocks"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Uncle Blocks in Ethereum
+description: >-
+  Discover what Uncle blocks are in Ethereum's Proof-of-Work history, why they
+  were created, and how they improved network security and miner
+  decentralization.
+category: Educational
+image: 'https://picsum.photos/seed/uncle/1200/630'
+data-ai-hint: uncle blocks
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Understanding Uncle Blocks in Ethereum
@@ -45,9 +46,9 @@ This dynamic drives miners to join large, well-connected mining pools. Larger po
 
 Ethereum's PoW algorithm incorporated a variant of the GHOST protocol (Greediest Heaviest Observed SubTree) to address the orphan block issue. The inclusion of Uncle blocks was a vital component of this protocol.
 
-Here’s how it functioned:
+Here's how it functioned:
 
-1. **Creating an Uncle**: When a miner’s block becomes orphaned, it can be classified as an Uncle.
+1. **Creating an Uncle**: When a miner's block becomes orphaned, it can be classified as an Uncle.
 2. **Inclusion Window**: A canonical block could reference stale blocks as Uncles if they were within a specified "ancestry" of the main chain, generally within the last six blocks. Each block could reference a maximum of two Uncles.
 3. **Rewarding Miners**:
  - **The Uncle's Miner**: The miner of the Uncle block received a partial block reward to encourage ongoing participation.
@@ -79,7 +80,7 @@ Thus, Uncle blocks became a historical feature of Ethereum, addressing a specifi
 A: No, Bitcoin does not use Uncle blocks. In Bitcoin, a stale block is simply an orphan block, and its miner does not receive any reward. This is less problematic for Bitcoin due to its longer block time of about 10 minutes, allowing ample time for block propagation.
 
 **Q: What does "Ommer" mean?** 
-A: "Ommer" serves as a gender-neutral term for the sibling of a parent in Ethereum’s terminology, avoiding the gendered term "Uncle." While "Uncle" is often used informally, technical specifications primarily refer to them as Omers.
+A: "Ommer" serves as a gender-neutral term for the sibling of a parent in Ethereum's terminology, avoiding the gendered term "Uncle." While "Uncle" is often used informally, technical specifications primarily refer to them as Omers.
 
 **Q: How much was the reward for an Uncle block?** 
 A: The reward structure for Uncle blocks varied over time. Typically, an Uncle miner received a significant fraction of the base block reward. The miner who included the Uncle received a small bonus, often a fraction of the block reward for each Uncle included.
@@ -88,4 +89,4 @@ A: The reward structure for Uncle blocks varied over time. Typically, an Uncle m
 A: No, by definition, an Uncle block is not part of the canonical chain. It is a valid block that was not included in the main history but is still acknowledged.
 
 **Q: Are Uncle blocks stored on the blockchain indefinitely?** 
-A: The headers of Uncle blocks are stored in the `ommers` field of the canonical block that included them, ensuring their record remains permanently part of Ethereum’s PoW blockchain history, although their transaction details (the block body) are not included.
+A: The headers of Uncle blocks are stored in the `ommers` field of the canonical block that included them, ensuring their record remains permanently part of Ethereum's PoW blockchain history, although their transaction details (the block body) are not included.

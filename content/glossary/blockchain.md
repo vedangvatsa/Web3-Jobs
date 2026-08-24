@@ -1,13 +1,21 @@
 ---
-term: "Blockchain"
-slug: "blockchain"
-category: "Blockchain Fundamentals"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1080"
-imageAlt: "Digital blockchain network visualization"
-description: "A distributed digital ledger that records transactions across multiple computers in a way that makes the records immutable and transparent."
-relatedTerms: ["Bitcoin", "Ethereum", "Smart Contract", "Node", "Consensus"]
-synonyms: ["Distributed Ledger"]
+term: Blockchain
+slug: blockchain
+category: Blockchain Fundamentals
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1080'
+imageAlt: Digital blockchain network visualization
+description: >-
+  A distributed digital ledger that records transactions across multiple
+  computers in a way that makes the records immutable and transparent.
+relatedTerms:
+  - Bitcoin
+  - Ethereum
+  - Smart Contract
+  - Node
+  - Consensus
+synonyms:
+  - Distributed Ledger
 ---
 
 Blockchain is a distributed digital ledger technology that records transactions across a network of computers, making the data immutable, transparent, and resistant to tampering. Each block contains a cryptographic hash of the previous block, creating a secure chain that cannot be altered without consensus from the network. Bitcoin, launched in 2009, demonstrated the first successful large-scale implementation of blockchain technology, proving that decentralized systems could process financial transactions without intermediaries. Since then, blockchain has expanded beyond cryptocurrency to encompass supply chain tracking, digital identity verification, healthcare records, and decentralized finance applications. 
@@ -48,7 +56,7 @@ Blockchains power cryptocurrency systems like Bitcoin and Ethereum, where they m
 
 - **NFTs**: Proving ownership and authenticity of digital assets, from artwork to in-game items. Blockchain provides an immutable ownership history that cannot be forged.
 
-- **Real Estate**: Property titles and deeds can be recorded on-chain,  simplifying transfers and reducing fraud in real estate transactions.
+- **Real Estate**: Property titles and deeds can be recorded on-chain, simplifying transfers and reducing fraud in real estate transactions.
 
 ## Types of Blockchains
 

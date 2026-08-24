@@ -1,12 +1,22 @@
 ---
-term: "Subnet"
-slug: "subnet"
-category: "blockchain-fundamentals"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
-description: "A custom blockchain running on top of a validator network, sharing security with the base network while enabling specialized applications and custom configurations."
-relatedTerms: ["sidechain", "layer2", "validator", "blockchain"]
-synonyms: ["subchain", "custom blockchain", "application-specific chain"]
+term: Subnet
+slug: subnet
+category: blockchain-fundamentals
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80'
+description: >-
+  A custom blockchain running on top of a validator network, sharing security
+  with the base network while enabling specialized applications and custom
+  configurations.
+relatedTerms:
+  - sidechain
+  - layer2
+  - validator
+  - blockchain
+synonyms:
+  - subchain
+  - custom blockchain
+  - application-specific chain
 ---
 
 Subnet refers to a custom blockchain that operates on top of a shared validator network, inheriting security from the base layer while enabling specialized configurations and rules tailored to specific use cases. Avalanche pioneered this architecture, allowing developers to launch independent chains that use the same validator set as the mainnet without competing for its blockspace. A notable example is DeFi Kingdoms, which migrated to its own Avalanche subnet called DFK Chain to achieve the low latency and high throughput required for its blockchain-based game economy. Avalanche hosts multiple active subnets processing transactions daily, demonstrating adoption of this multi-chain scaling approach. The ecosystem of subnet deployments across gaming, decentralized finance, and real-world asset tokenization has created demand for engineers who understand cross-chain architecture, validator economics, and custom virtual machine development.

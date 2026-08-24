@@ -1,10 +1,12 @@
 ---
-title: "Building Relationships in Web3 for Career Growth"
-description: "Learn how to build meaningful professional relationships in Web3 communities, from networking strategies to maintaining long-term connections that support."
-category: "Career Guides"
-image: "https://picsum.photos/seed/networking/1200/630"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Building Relationships in Web3 for Career Growth
+description: >-
+  Learn how to build meaningful professional relationships in Web3 communities,
+  from networking strategies to maintaining long-term connections that support.
+category: Career Guides
+image: 'https://picsum.photos/seed/networking/1200/630'
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Why Relationships Matter in Web3
@@ -112,7 +114,7 @@ These are often the most active spaces for immediate interaction. They enable re
 Use this platform to share insights and engage with community discussions. Direct messaging can help initiate connections with individuals you admire.
 
 **GitHub** 
-Demonstrate your technical skills through collaborative coding projects. Engage with others’ code to learn and contribute meaningfully.
+Demonstrate your technical skills through collaborative coding projects. Engage with others' code to learn and contribute meaningfully.
 
 **Telegram and Dedicated Chats** 
 These platforms enable more intimate conversations, enabling deeper connections focused on specific projects or groups.

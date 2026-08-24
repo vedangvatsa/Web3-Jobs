@@ -1,8 +1,10 @@
 ---
 name: Bitpanda
-website: https://bitpanda.com
+website: 'https://bitpanda.com'
 category: Cryptocurrency Exchange
-description: Bitpanda is a European cryptocurrency exchange offering trading and investment services.
+description: >-
+  Bitpanda is a European cryptocurrency exchange offering trading and investment
+  services.
 ---
 
 Bitpanda provides a platform for buying, selling, and trading various cryptocurrencies. The company offers services such as cryptocurrency trading, investment in precious metals, and a savings feature for digital assets. Bitpanda aims to simplify the process of investing in cryptocurrencies for users across Europe.

@@ -1,12 +1,13 @@
 ---
-
-title: "Inside Web3 Gaming Guilds: The Future of Play-and-Earn"
-image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYW1pbmd8ZW58MHx8fHwxNzU1MDA4OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080"
-description: "Discover the world of Web3 gaming guilds. Learn how organizations like YGG are creating 'scholarship' programs and building communities that are."
-category: "Industry Insights"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Inside Web3 Gaming Guilds: The Future of Play-and-Earn'
+image: >-
+  https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYW1pbmd8ZW58MHx8fHwxNzU1MDA4OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080
+description: >-
+  Discover the world of Web3 gaming guilds. Learn how organizations like YGG are
+  creating 'scholarship' programs and building communities that are.
+category: Industry Insights
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The emergence of [Web3](/what-is-web3) gaming and the "Play-to-Earn" (P2E) model transformed how players can earn income through video games. However, a major obstacle quickly surfaced. To participate in leading P2E games such as Axie Infinity, players typically needed to invest significant amounts to acquire necessary [NFT](/what-are-nfts) assets, which often cost substantial sums. This upfront cost excluded millions of potential players, especially in developing nations where such income could greatly impact their lives.
@@ -130,7 +131,7 @@ These issues have intensified as the GameFi market has matured and numerous unsu
 
 **Vietnam**: Emerging as a significant hub, Vietnam is seeing an increase in guild infrastructure and player participation.
 
-**El Salvador**: The government’s adoption of [Bitcoin](/what-is-bitcoin) spurred broader interest in cryptocurrency and gaming guilds, particularly after the launch of the government-backed Chivo [wallet](/how-to-choose-a-crypto-wallet).
+**El Salvador**: The government's adoption of [Bitcoin](/what-is-bitcoin) spurred broader interest in cryptocurrency and gaming guilds, particularly after the launch of the government-backed Chivo [wallet](/how-to-choose-a-crypto-wallet).
 
 In these regions, gaming guilds do more than provide entertainment; they serve as vital economic institutions, offering income that surpasses many traditional job opportunities.
 

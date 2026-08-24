@@ -118,13 +118,6 @@ export default function FreelanceRatesByIndustryPage() {
   };
  }, [selectedIndustry, experience, region, engagementModel, hours]);
 
- const headlines = [
-  'Freelance Rates by Industry',
-  'Benchmark Your Pricing',
-  'Set Better Freelance Rates',
-  'Price by Data, Not Guesswork',
- ];
-
  const datasetSchema = {
   '@context': 'https://schema.org',
   '@type': 'Dataset',
@@ -149,7 +142,7 @@ export default function FreelanceRatesByIndustryPage() {
   hasPart: rateRows.map(row => ({
    '@type': 'Dataset',
    name: `${row.industry} Freelance Rates`,
-   description: `Hourly rate range $${row.hourlyMin}–$${row.hourlyMax}/hr for ${row.roles}.`,
+   description: `Hourly rate range $${row.hourlyMin}-$${row.hourlyMax}/hr for ${row.roles}.`,
   })),
  };
 
@@ -165,7 +158,7 @@ export default function FreelanceRatesByIndustryPage() {
     <div className="container mx-auto px-4 page-section">
      <section className="text-center mb-12 site-container">
       
-      <PageHeader title={headlines[0]} />
+      <PageHeader title="Freelance Rates by Industry" />
       <p className="mt-4 text-muted-foreground">
        Compare benchmark ranges by industry and estimate your pricing by experience,
        region, and project scope.
@@ -209,9 +202,9 @@ export default function FreelanceRatesByIndustryPage() {
            <SelectValue placeholder="Select experience" />
           </SelectTrigger>
           <SelectContent>
-           <SelectItem value="0-1">0–1 years</SelectItem>
-           <SelectItem value="2-4">2–4 years</SelectItem>
-           <SelectItem value="5-8">5–8 years</SelectItem>
+           <SelectItem value="0-1">0-1 years</SelectItem>
+           <SelectItem value="2-4">2-4 years</SelectItem>
+           <SelectItem value="5-8">5-8 years</SelectItem>
            <SelectItem value="9+">9+ years</SelectItem>
           </SelectContent>
          </Select>

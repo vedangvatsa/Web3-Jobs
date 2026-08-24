@@ -1,13 +1,13 @@
 ---
-
-title: "What is a Layer 3 in Blockchain?"
-description: "A look at Layer 3 solutions, which build on top of Layer 2s to offer even greater scalability and customization for specific applications."
-image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
-category: "Educational"
-data-ai-hint: "layer network"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is a Layer 3 in Blockchain?
+description: >-
+  A look at Layer 3 solutions, which build on top of Layer 2s to offer even
+  greater scalability and customization for specific applications.
+image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
+category: Educational
+data-ai-hint: layer network
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The blockchain ecosystem is akin to a growing city, with various layers representing different components of infrastructure. At the foundation, Layer 1 (L1) serves as the core network, exemplified by Ethereum. This layer ensures security and decentralization but often faces congestion and high transaction costs, similar to main city roads during peak hours.
@@ -24,7 +24,7 @@ Continuing with the city analogy:
 - **Layer 2 (Arbitrum, Optimism):** Functions as a tall skyscraper, accommodating numerous applications (dApps) that manage transactions internally. This skyscraper periodically sends a summary of its activities to the L1 foundation for security, enhancing efficiency.
 - **Layer 3 (Appchain):** Acts as a customized penthouse or dedicated floor on the L2 skyscraper, allowing single large applications, such as games or trading platforms, to design their environment. They can customize layouts and security features, managing their transactions internally before providing a summary to the L2.
 
-Technically, an L3 processes its transactions and submits a compressed proof to the underlying L2. The L2 then aggregates this proof and submits it to the L1. This creates a nested hierarchy that enhances scalability and security, limiting the L1’s concerns to the L2's proof rather than every L3's individual proof.
+Technically, an L3 processes its transactions and submits a compressed proof to the underlying L2. The L2 then aggregates this proof and submits it to the L1. This creates a nested hierarchy that enhances scalability and security, limiting the L1's concerns to the L2's proof rather than every L3's individual proof.
 
 ### Benefits and Applications of Layer 3 Solutions
 
@@ -54,7 +54,7 @@ As multiple L3s operate on the same L2, they can communicate and transfer assets
 
 Despite their potential, Layer 3 solutions face scrutiny and challenges.
 
-- **Centralization Risks:** A primary concern surrounding L3s is the potential return of centralization. The sequencer, responsible for transaction ordering on an L3, is likely managed by the application’s team. This control could enable transaction censorship or enable the extraction of Maximal Extractable Value (MEV).
+- **Centralization Risks:** A primary concern surrounding L3s is the potential return of centralization. The sequencer, responsible for transaction ordering on an L3, is likely managed by the application's team. This control could enable transaction censorship or enable the extraction of Maximal Extractable Value (MEV).
 - **Increased Complexity:** Adding another layer to the blockchain architecture raises the overall complexity of the system. This complexity introduces more potential failure points and creates a steeper learning curve for developers and users alike.
 - **Liquidity Fragmentation:** Critics argue that if each application establishes its own L3, liquidity and user engagement may become fragmented, complicating the ecosystem. Instead of a cohesive city, the result could be numerous isolated digital islands. However, proponents counter that shared L2 settlement will simplify bridging between L3s more than current L2 bridge solutions.
 

@@ -1,13 +1,13 @@
 ---
-
-title: "Private vs Public vs Consortium Blockchain Explained"
-image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
-data-ai-hint: "blockchain private public"
-description: "A clear comparison of the three main types of blockchains: public, private, and consortium. Understand their differences in permissions, decentralization."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Private vs Public vs Consortium Blockchain Explained
+image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
+data-ai-hint: blockchain private public
+description: >-
+  A clear comparison of the three main types of blockchains: public, private,
+  and consortium. Understand their differences in permissions, decentralization.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 While the terms "[blockchain](/what-is-a-blockchain)" and "decentralization" often appear synonymous, not all blockchains are entirely decentralized or accessible to everyone. The architecture of a blockchain can cater to various requirements, resulting in three primary types: **public, private, and consortium blockchains**. 

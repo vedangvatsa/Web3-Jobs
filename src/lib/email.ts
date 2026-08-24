@@ -172,7 +172,7 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
     ${job.title}
    </a>
    <div style="margin-top: 4px; font-size: 13px; color: #6b7280;">
-    ${job.company}${job.salary ? ` • ${job.salary}` : ''}
+    ${job.company}${job.salary ? ` - ${job.salary}` : ''}
    </div>
   </div>
  `).join('');

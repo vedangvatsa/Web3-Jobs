@@ -1,13 +1,14 @@
 ---
-
-title: "How to Create and Deploy Your First Smart Contract"
-image: "https://images.unsplash.com/photo-1639762681057-408e52192e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydCUyMGNvbnRyYWN0fGVufDB8fHx8MTc2Mjg1NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080"
-description: "A beginner-friendly guide to writing, compiling, and deploying a basic smart contract on the Ethereum blockchain using Remix."
-category: "Getting Started"
-data-ai-hint: "smart contract deployment"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Create and Deploy Your First Smart Contract
+image: >-
+  https://images.unsplash.com/photo-1639762681057-408e52192e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydCUyMGNvbnRyYWN0fGVufDB8fHx8MTc2Mjg1NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080
+description: >-
+  A beginner-friendly guide to writing, compiling, and deploying a basic smart
+  contract on the Ethereum blockchain using Remix.
+category: Getting Started
+data-ai-hint: smart contract deployment
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Deploying your first [smart contract](/what-are-smart-contracts) represents a significant milestone for anyone aspiring to become a [Web3](/what-is-web3) developer. While the process may initially appear intimidating, modern tools make it straightforward. This guide provides a detailed walkthrough of creating and deploying a basic smart contract using Remix, a popular web-based Integrated Development Environment (IDE).
@@ -19,11 +20,11 @@ To get started, you will need:
 - A web browser, preferably Chrome or Firefox.
 - The MetaMask browser extension [wallet](/how-to-choose-a-crypto-wallet).
 
-This setup allows you to interact with the Ethereum test network, so there’s no need for real cryptocurrency during this initial phase.
+This setup allows you to interact with the Ethereum test network, so there's no need for real cryptocurrency during this initial phase.
 
 ### Step 1: Set Up Your Wallet and Acquire Test ETH
 
-1. **Install MetaMask**: Download the MetaMask extension from the official site if you haven’t done so already.
+1. **Install MetaMask**: Download the MetaMask extension from the official site if you haven't done so already.
 2. **Switch to a Test Network**: Open MetaMask and select the network dropdown at the top. Choose the "Sepolia" test network.
 3. **Obtain Test ETH**: You will need test Ether to cover gas fees on the Sepolia network. Visit a Sepolia faucet (for example, `sepoliafaucet.com`), enter your wallet address, and request some funds. The test ETH may take a few minutes to arrive.
 

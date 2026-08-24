@@ -1,16 +1,17 @@
 ---
-
-title: "Is Web3 Dead or Just Getting Started?"
-image: "/images/markus-spiske-iar-afB0QQw-unsplash.jpg"
-data-ai-hint: "web3 future tech"
-description: "A realistic look at the state of Web3. We analyze the challenges, the progress, and the long-term potential of the decentralized internet, separating the."
-category: "Industry Insights"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Is Web3 Dead or Just Getting Started?
+image: /images/markus-spiske-iar-afB0QQw-unsplash.jpg
+data-ai-hint: web3 future tech
+description: >-
+  A realistic look at the state of Web3. We analyze the challenges, the
+  progress, and the long-term potential of the decentralized internet,
+  separating the.
+category: Industry Insights
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
-Every crypto bear market prompts a familiar wave of headlines questioning the viability of Web3. Phrases like “Is [Web3](/what-is-web3) Dead?” and “The [Blockchain](/what-is-a-blockchain) Dream is Over” dominate discussions. Many view the high volatility of [token](/what-is-a-token) prices and the failure of some projects as signs of a dying industry. However, those actively building within this ecosystem recognize that these narratives overlook essential progress.
+Every crypto bear market prompts a familiar wave of headlines questioning the viability of Web3. Phrases like "Is [Web3](/what-is-web3) Dead?" and "The [Blockchain](/what-is-a-blockchain) Dream is Over" dominate discussions. Many view the high volatility of [token](/what-is-a-token) prices and the failure of some projects as signs of a dying industry. However, those actively building within this ecosystem recognize that these narratives overlook essential progress.
 
 Equating the price of cryptocurrencies with the future of Web3 is misguided. The early internet's potential was not determined by the stock price of Pets.com. Instead, it is critical to assess whether the technology is changing and whether builders remain committed to the vision of a decentralized internet.
 
@@ -56,4 +57,4 @@ Challenges in the centralized internet, such as data monopolies and censorship, 
 
 Web3 is not dead; it is currently undergoing rigorous testing. The speculative hype and quick-profit mentality that characterized the previous cycle are fading. In their place stands a core group of dedicated builders focused on addressing the substantial challenges of scalability, user experience, and security.
 
-Transitioning to a decentralized internet will take time. Currently, we are likely still in the early stages, akin to the “dial-up” era of the internet. The technology may be cumbersome, but the foundational infrastructure is being established. The core technological advancements are accelerating, and the vision of a user-owned internet remains compelling.
+Transitioning to a decentralized internet will take time. Currently, we are likely still in the early stages, akin to the "dial-up" era of the internet. The technology may be cumbersome, but the foundational infrastructure is being established. The core technological advancements are accelerating, and the vision of a user-owned internet remains compelling.

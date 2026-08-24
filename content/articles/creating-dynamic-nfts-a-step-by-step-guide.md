@@ -1,13 +1,14 @@
 ---
-
-title: "Creating Dynamic NFTs: A Step-by-Step Guide"
-image: "https://images.unsplash.com/photo-1639221314358-2291fb903405?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxuZnR8ZW58MHx8fHwxNzU0OTQ5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-data-ai-hint: "creating dynamic nfts step guide"
-description: "Go beyond static JPEGs. This guide explores the world of Dynamic NFTs (dNFTs) and shows you how to create NFTs that can change and evolve based on."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Creating Dynamic NFTs: A Step-by-Step Guide'
+image: >-
+  https://images.unsplash.com/photo-1639221314358-2291fb903405?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxuZnR8ZW58MHx8fHwxNzU0OTQ5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080
+data-ai-hint: creating dynamic nfts step guide
+description: >-
+  Go beyond static JPEGs. This guide explores the world of Dynamic NFTs (dNFTs)
+  and shows you how to create NFTs that can change and evolve based on.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The first generation of NFTs primarily consisted of static assets, such as JPEG files and video clips. Once minted, these NFTs had unchangeable metadata on the [blockchain](/what-is-a-blockchain). The evolution of NFTs introduces the **Dynamic [NFT](/what-are-nfts)**, or dNFT, which allows for changing metadata over time.
@@ -30,20 +31,20 @@ In static NFTs, the [token](/what-is-a-token) metadata, typically a JSON file th
 
 Dynamic NFTs rely on **blockchain oracles** to function. As explained in our [guide to oracles](/what-are-oracles), these services securely bring off-chain data onto the blockchain. By using oracles, a dynamic NFT can reference real-world data.
 
-The smart contract governing a dNFT calls an oracle to fetch external data. Once the data is received, the contract can update its state or change the metadata URI, thereby altering the NFT’s appearance or characteristics.
+The smart contract governing a dNFT calls an oracle to fetch external data. Once the data is received, the contract can update its state or change the metadata URI, thereby altering the NFT's appearance or characteristics.
 
 ### Real-World Examples of Dynamic NFTs
 
 The applications of dynamic NFTs are diverse and new:
 
-- **Living Avatar**: An NFT avatar that updates its clothing based on real-time weather conditions in the owner’s location.
+- **Living Avatar**: An NFT avatar that updates its clothing based on real-time weather conditions in the owner's location.
 - **Sports Player NFT**: An NFT depicting a basketball player whose appearance and stats evolve in real-time according to their performance during a game. For example, if a player scores points, their power attribute increases.
 - **Real Estate NFT**: An NFT that represents a physical property, continuously updating its metadata with current value estimates and maintenance history.
 - **RPG Character**: An NFT representing a character in a role-playing game that levels up, acquires new items, and visually transforms as the player progresses.
 
 ### Workflow for Building a Dynamic NFT
 
-Creating a dynamic NFT involves advanced development that merges standard NFT creation with oracle integration. Here’s a structured workflow:
+Creating a dynamic NFT involves advanced development that merges standard NFT creation with oracle integration. Here's a structured workflow:
 
 1. **Define Possible States**: Begin by creating all potential images and metadata files for your NFT. For a weather-related NFT, you would prepare distinct images and JSON files for states like "Sunny," "Rainy," and "Cloudy." Upload these files to IPFS.
 
@@ -62,7 +63,7 @@ Creating a dynamic NFT involves advanced development that merges standard NFT cr
 Creating dynamic NFTs comes with its own set of challenges:
 
 - **Increased Complexity**: Developing a dNFT requires more complex coding than standard NFT projects.
-- **Gas Fees**: Each time the NFT’s state updates via an oracle call, it incurs an on-chain transaction fee. Frequent updates can lead to high costs, prompting many projects to consider Layer 2 solutions.
+- **Gas Fees**: Each time the NFT's state updates via an oracle call, it incurs an on-chain transaction fee. Frequent updates can lead to high costs, prompting many projects to consider Layer 2 solutions.
 - **Centralization Risks**: The reliability of the oracle network and the data source is critical. An unreliable data source can compromise the logic of the dNFT.
 
 Dynamic NFTs transform static digital assets into interactive objects that can respond to real-world stimuli. This innovation presents an good opportunity for creators and developers to craft more engaging [Web3](/what-is-web3) experiences.

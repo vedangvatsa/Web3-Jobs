@@ -1,10 +1,10 @@
 ---
 name: Cleanspark
-website: https://cleanspark.com
+website: 'https://cleanspark.com'
 founded: 2014
 category: Bitcoin Mining
-headquarters: Henderson, Nevada
-description: Sustainable Bitcoin mining company (NASDAQ: CLSK)
+headquarters: 'Henderson, Nevada'
+description: 'Sustainable Bitcoin mining company (NASDAQ: CLSK)'
 ---
 
 Sustainable Bitcoin mining company (NASDAQ: CLSK).

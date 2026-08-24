@@ -1,51 +1,68 @@
 ---
-title: "How Decentralized Exchanges (DEXs) Work"
-description: "Understand Automated Market Makers (AMMs) and Liquidity Pools."
+title: How Decentralized Exchanges (DEXs) Work
+description: Understand Automated Market Makers (AMMs) and Liquidity Pools.
 order: 1
-readTime: "8 min"
-difficulty: "intermediate"
+readTime: 8 min
+difficulty: intermediate
 prerequisites: []
 quiz:
-  - question: "What replaces the traditional order book in a DEX?"
+  - question: What replaces the traditional order book in a DEX?
     options:
-      - "A decentralized broker"
-      - "An Automated Market Maker (AMM) using a mathematical formula"
-      - "A network of miners"
-      - "A central database"
+      - A decentralized broker
+      - An Automated Market Maker (AMM) using a mathematical formula
+      - A network of miners
+      - A central database
     correct: 1
-    explanation: "DEXs like Uniswap use AMMs. Instead of matching buyers with sellers, you trade against a pool of tokens whose prices are determined by a formula (x * y = k)."
-  - question: "What is a Liquidity Provider (LP)?"
+    explanation: >-
+      DEXs like Uniswap use AMMs. Instead of matching buyers with sellers, you
+      trade against a pool of tokens whose prices are determined by a formula (x
+      * y = k).
+  - question: What is a Liquidity Provider (LP)?
     options:
-      - "Someone who writes smart contracts"
-      - "A user who deposits pairs of tokens into a DEX to enable trading"
-      - "A regulator"
-      - "A node validator"
+      - Someone who writes smart contracts
+      - A user who deposits pairs of tokens into a DEX to enable trading
+      - A regulator
+      - A node validator
     correct: 1
-    explanation: "LPs deposit their tokens into a pool so others can trade against them. In return, they earn a portion of the trading fees."
-  - question: "What happens to the price of a token in a pool if you buy a large amount of it?"
+    explanation: >-
+      LPs deposit their tokens into a pool so others can trade against them. In
+      return, they earn a portion of the trading fees.
+  - question: >-
+      What happens to the price of a token in a pool if you buy a large amount
+      of it?
     options:
-      - "It goes down"
-      - "It stays the same"
-      - "It goes up"
-      - "The transaction fails"
+      - It goes down
+      - It stays the same
+      - It goes up
+      - The transaction fails
     correct: 2
-    explanation: "Because of the constant product formula (x * y = k), reducing the supply of one token in the pool automatically increases its price. This is called slippage."
-  - question: "What is impermanent loss?"
+    explanation: >-
+      Because of the constant product formula (x * y = k), reducing the supply
+      of one token in the pool automatically increases its price. This is called
+      slippage.
+  - question: What is impermanent loss?
     options:
-      - "Losing your private key"
-      - "A temporary loss of funds due to a hack"
-      - "A potential loss LPs face when token prices diverge compared to just holding them"
-      - "A fee paid to miners"
+      - Losing your private key
+      - A temporary loss of funds due to a hack
+      - >-
+        A potential loss LPs face when token prices diverge compared to just
+        holding them
+      - A fee paid to miners
     correct: 2
-    explanation: "If you provide liquidity and the prices of the tokens change significantly, you might end up with less value than if you had simply held the tokens in your wallet. This is impermanent loss."
-  - question: "Which of these is NOT a popular DEX?"
+    explanation: >-
+      If you provide liquidity and the prices of the tokens change
+      significantly, you might end up with less value than if you had simply
+      held the tokens in your wallet. This is impermanent loss.
+  - question: Which of these is NOT a popular DEX?
     options:
-      - "Uniswap"
-      - "Curve"
-      - "Coinbase"
-      - "Balancer"
+      - Uniswap
+      - Curve
+      - Coinbase
+      - Balancer
     correct: 2
-    explanation: "Coinbase is a Centralized Exchange (CEX) run by a company. Uniswap, Curve, and Balancer are Decentralized Exchanges (DEXs) run by smart contracts."
+    explanation: >-
+      Coinbase is a Centralized Exchange (CEX) run by a company. Uniswap, Curve,
+      and Balancer are Decentralized Exchanges (DEXs) run by smart contracts.
 ---
 
 ## The Order Book vs. The AMM

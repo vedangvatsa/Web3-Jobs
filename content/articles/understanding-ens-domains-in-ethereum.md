@@ -1,13 +1,14 @@
 ---
-
-title: "Understanding ENS Domains in Ethereum"
-image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
-data-ai-hint: "domain name service"
-description: "An ENS domain is a human-readable name for your Ethereum wallet, like 'vitalik.eth'. This guide explains how the Ethereum Name Service works and why it's."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding ENS Domains in Ethereum
+image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
+data-ai-hint: domain name service
+description: >-
+  An ENS domain is a human-readable name for your Ethereum wallet, like
+  'vitalik.eth'. This guide explains how the Ethereum Name Service works and why
+  it's.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the Ethereum ecosystem, your identity is represented by your public wallet address. This address consists of a long string of hexadecimal characters, such as `0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045`. While this format enhances security, it presents significant user experience challenges. These long strings are hard to remember, difficult to type, and prone to errors when executing transactions.

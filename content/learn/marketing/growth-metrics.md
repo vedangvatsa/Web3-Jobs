@@ -1,51 +1,87 @@
 ---
-title: "Growth Metrics and Analytics"
-description: "The metrics Web3 protocols actually track — TVL, DAU, retention, and how they differ from Web2 KPIs."
+title: Growth Metrics and Analytics
+description: >-
+  The metrics Web3 protocols actually track - TVL, DAU, retention, and how they
+  differ from Web2 KPIs.
 order: 5
-readTime: "7 min"
-difficulty: "intermediate"
-prerequisites: ["community"]
+readTime: 7 min
+difficulty: intermediate
+prerequisites:
+  - community
 quiz:
-  - question: "What does Total Value Locked (TVL) measure?"
+  - question: What does Total Value Locked (TVL) measure?
     options:
-      - "The total market cap of a protocol's token"
-      - "The total dollar value of crypto deposited into a protocol's smart contracts"
-      - "The number of users who have interacted with the protocol"
-      - "The protocol's annual revenue"
+      - The total market cap of a protocol's token
+      - >-
+        The total dollar value of crypto deposited into a protocol's smart
+        contracts
+      - The number of users who have interacted with the protocol
+      - The protocol's annual revenue
     correct: 1
-    explanation: "TVL counts all assets sitting in a protocol's smart contracts. If users have deposited $500M of ETH and USDC into Aave's lending pools, Aave's TVL is $500M. It is the closest equivalent to 'assets under management' in traditional finance."
-  - question: "Why is TVL alone a misleading metric?"
+    explanation: >-
+      TVL counts all assets sitting in a protocol's smart contracts. If users
+      have deposited $500M of ETH and USDC into Aave's lending pools, Aave's TVL
+      is $500M. It is the closest equivalent to 'assets under management' in
+      traditional finance.
+  - question: Why is TVL alone a misleading metric?
     options:
-      - "Because TVL is hard to calculate"
-      - "Because TVL can be inflated by incentive farming — users deposit money to earn token rewards, then leave when rewards stop"
-      - "Because TVL doesn't include Bitcoin"
-      - "Because TVL is calculated differently on each chain"
+      - Because TVL is hard to calculate
+      - >-
+        Because TVL can be inflated by incentive farming - users deposit money
+        to earn token rewards, then leave when rewards stop
+      - Because TVL doesn't include Bitcoin
+      - Because TVL is calculated differently on each chain
     correct: 1
-    explanation: "During 'DeFi Summer' and beyond, protocols offered massive token rewards to attract deposits. TVL spiked, but the capital was mercenary — it left the moment rewards decreased. TVL without revenue or retention data is vanity."
-  - question: "What is the Web3 equivalent of Monthly Active Users (MAU)?"
+    explanation: >-
+      During 'DeFi Summer' and beyond, protocols offered massive token rewards
+      to attract deposits. TVL spiked, but the capital was mercenary - it left
+      the moment rewards decreased. TVL without revenue or retention data is
+      vanity.
+  - question: What is the Web3 equivalent of Monthly Active Users (MAU)?
     options:
-      - "Token holders"
-      - "Unique Active Wallets (UAW) — the number of distinct wallet addresses interacting with contracts in a given period"
-      - "Twitter followers"
-      - "Discord members"
+      - Token holders
+      - >-
+        Unique Active Wallets (UAW) - the number of distinct wallet addresses
+        interacting with contracts in a given period
+      - Twitter followers
+      - Discord members
     correct: 1
-    explanation: "Unique Active Wallets counts how many distinct addresses called a protocol's smart contracts. It is imperfect — one person can control multiple wallets (sybil) — but it is the best on-chain proxy for actual usage. Dune Analytics and Flipside are the standard tools for tracking UAW."
-  - question: "What does the 'Protocol Revenue' metric tell you that TVL doesn't?"
+    explanation: >-
+      Unique Active Wallets counts how many distinct addresses called a
+      protocol's smart contracts. It is imperfect - one person can control
+      multiple wallets (sybil) - but it is the best on-chain proxy for actual
+      usage. Dune Analytics and Flipside are the standard tools for tracking
+      UAW.
+  - question: What does the 'Protocol Revenue' metric tell you that TVL doesn't?
     options:
-      - "How much the team has raised from investors"
-      - "How much real economic value flows through the protocol — actual fees paid by real users for a real service"
-      - "How many tokens have been burned"
-      - "How many partnerships the protocol has signed"
+      - How much the team has raised from investors
+      - >-
+        How much real economic value flows through the protocol - actual fees
+        paid by real users for a real service
+      - How many tokens have been burned
+      - How many partnerships the protocol has signed
     correct: 1
-    explanation: "Protocol revenue is the total fees users pay to use the protocol. Uniswap generates ~$2-5M per day in swap fees. This is real demand, not subsidized by token incentives. A protocol with high TVL but low revenue means users are only there for incentives."
-  - question: "Which analytics platform is most commonly used to build custom Web3 dashboards?"
+    explanation: >-
+      Protocol revenue is the total fees users pay to use the protocol. Uniswap
+      generates ~$2-5M per day in swap fees. This is real demand, not subsidized
+      by token incentives. A protocol with high TVL but low revenue means users
+      are only there for incentives.
+  - question: >-
+      Which analytics platform is most commonly used to build custom Web3
+      dashboards?
     options:
-      - "Google Analytics"
-      - "Dune Analytics — it lets you write SQL queries against decoded blockchain data"
-      - "Mixpanel"
-      - "Tableau"
+      - Google Analytics
+      - >-
+        Dune Analytics - it lets you write SQL queries against decoded
+        blockchain data
+      - Mixpanel
+      - Tableau
     correct: 1
-    explanation: "Dune Analytics indexes and decodes blockchain transaction data into SQL-queryable tables. Anyone can write queries like 'SELECT COUNT(DISTINCT sender) FROM uniswap_v3.swaps WHERE block_time > now() - interval '7 days'' to get weekly active traders. Dashboards are public and forkable."
+    explanation: >-
+      Dune Analytics indexes and decodes blockchain transaction data into
+      SQL-queryable tables. Anyone can write queries like 'SELECT COUNT(DISTINCT
+      sender) FROM uniswap_v3.swaps WHERE block_time > now() - interval '7
+      days'' to get weekly active traders. Dashboards are public and forkable.
 ---
 
 ## Web3 Metrics Are Different
@@ -116,7 +152,7 @@ The on-chain equivalent of MAU. Count the distinct wallet addresses that interac
 
 ### 3. Protocol Revenue
 
-The real fees users pay. Not token incentives, not VC money — actual demand for the protocol's service.
+The real fees users pay. Not token incentives, not VC money - actual demand for the protocol's service.
 
 | Protocol | Revenue Source | Daily Revenue (2025) |
 |---|---|---|
@@ -179,6 +215,6 @@ How concentrated is token ownership? If 10 wallets hold 80% of the supply, gover
 
 - TVL is the most-quoted metric but is easily inflated by token incentives. Always look at TVL alongside revenue.
 - Unique Active Wallets is the closest on-chain equivalent to MAU, but is susceptible to sybil inflation.
-- Protocol revenue is the single best indicator of product-market fit — real users paying real fees.
+- Protocol revenue is the single best indicator of product-market fit - real users paying real fees.
 - Retention analysis requires Dune SQL queries tracking wallet cohorts over time.
 - Dune Analytics and DeFiLlama are free and cover 90% of what you need.

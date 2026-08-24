@@ -1,13 +1,13 @@
 ---
-
-title: "Sabbatical Leave A Complete Planning Guide"
-description: "A sabbatical can be a life-changing experience. This full guide will walk you through the steps of planning a successful and fulfilling career break."
-image: "https://picsum.photos/seed/318/1200/630"
-data-ai-hint: "travel planning"
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Sabbatical Leave A Complete Planning Guide
+description: >-
+  A sabbatical can be a life-changing experience. This full guide will walk you
+  through the steps of planning a successful and fulfilling career break.
+image: 'https://picsum.photos/seed/318/1200/630'
+data-ai-hint: travel planning
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Taking a sabbatical, also known as a planned career break, offers an opportunity to recharge, gain fresh perspectives, and invest in both personal and professional development. Unlike an impulsive job resignation, a structured sabbatical involves careful preparation and strategy. It is essential to approach this decision thoughtfully to ensure that the experience is rewarding and contributes positively to long-term career goals.
@@ -54,7 +54,7 @@ Once you establish a timeline and budget, start planning the specifics of your s
 
 If you are leaving your job, aim to exit on positive terms.
 
-**Provide Ample Notice.** Give at least two weeks’ notice, or more if your role is complex or senior.
+**Provide Ample Notice.** Give at least two weeks' notice, or more if your role is complex or senior.
 
 **Create a Transition Plan.** Document your responsibilities and collaborate with your team to ensure a smooth handover.
 
@@ -66,7 +66,7 @@ This time is yours to disconnect and rejuvenate. However, maintaining a light co
 
 **Document Your Experiences.** Keep a journal or blog to reflect on your experiences. This record can be invaluable when you begin job searching again.
 
-**Stay Lightly Connected.** While daily engagement on LinkedIn isn’t necessary, periodically check in with key professional contacts through friendly emails.
+**Stay Lightly Connected.** While daily engagement on LinkedIn isn't necessary, periodically check in with key professional contacts through friendly emails.
 
 **Work on a Small Project.** If you are a developer, consider contributing to an open-source project. Writers can focus on a personal blog. Engaging in a small project helps keep your skills sharp and provides content for future interviews.
 

@@ -2,7 +2,7 @@
 import type { Metadata } from 'next';
 
 const siteUrl = 'https://hashtagweb3.com';
-const ogImageUrl = `/api/og?type=article&title=Web3%20Playbook&category=Career%20Guides`;
+const ogImageUrl = `${siteUrl}/api/og?type=article&title=Web3%20Playbook&category=Career%20Guides`;
 
 export const metadata: Metadata = {
  title: 'Web3 Playbook | Practical Career Guides and Tech Deep Dives',

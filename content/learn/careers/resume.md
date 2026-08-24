@@ -1,56 +1,73 @@
 ---
-title: "Your Web3 Resume"
-description: "How to position your Web2 experience for Web3 roles with concrete examples."
+title: Your Web3 Resume
+description: How to position your Web2 experience for Web3 roles with concrete examples.
 order: 5
-readTime: "6 min"
-difficulty: "beginner"
-prerequisites: ["profile"]
+readTime: 6 min
+difficulty: beginner
+prerequisites:
+  - profile
 quiz:
-  - question: "Should you remove all Web2 experience from your resume for Web3 jobs?"
+  - question: Should you remove all Web2 experience from your resume for Web3 jobs?
     options:
-      - "Yes, Web3 companies only care about crypto experience"
-      - "No, reframe your Web2 experience using Web3 terminology"
-      - "Only keep blockchain-related experience"
-      - "Start from scratch with a blank resume"
+      - 'Yes, Web3 companies only care about crypto experience'
+      - 'No, reframe your Web2 experience using Web3 terminology'
+      - Only keep blockchain-related experience
+      - Start from scratch with a blank resume
     correct: 1
-    explanation: "Your Web2 experience is valuable. Reframe it: 'Built REST APIs' becomes 'Built APIs integrating with smart contract backends.' The skills transfer — show how."
-  - question: "What should the top section of a Web3 resume highlight?"
+    explanation: >-
+      Your Web2 experience is valuable. Reframe it: 'Built REST APIs' becomes
+      'Built APIs integrating with smart contract backends.' The skills transfer
+      - show how.
+  - question: What should the top section of a Web3 resume highlight?
     options:
-      - "Your education"
-      - "A summary connecting your skills to the specific Web3 role"
-      - "A list of every technology you know"
-      - "Your hobbies"
+      - Your education
+      - A summary connecting your skills to the specific Web3 role
+      - A list of every technology you know
+      - Your hobbies
     correct: 1
-    explanation: "The top of your resume should be a 2-3 line summary that connects your strongest skills directly to the job you are applying for. Web3 hiring managers skim — make the connection obvious."
-  - question: "What is better than listing 'Familiar with DeFi' on your resume?"
+    explanation: >-
+      The top of your resume should be a 2-3 line summary that connects your
+      strongest skills directly to the job you are applying for. Web3 hiring
+      managers skim - make the connection obvious.
+  - question: What is better than listing 'Familiar with DeFi' on your resume?
     options:
-      - "Listing 'Expert in DeFi'"
-      - "Linking to a Dune dashboard you built tracking a DeFi protocol"
-      - "Listing all DeFi protocols you have used"
-      - "Adding a DeFi certification"
+      - Listing 'Expert in DeFi'
+      - Linking to a Dune dashboard you built tracking a DeFi protocol
+      - Listing all DeFi protocols you have used
+      - Adding a DeFi certification
     correct: 1
-    explanation: "Show, do not tell. A link to a deployed project, a Dune dashboard, or a governance proposal you authored is 10x more convincing than a self-assessment."
-  - question: "How long should a Web3 resume be?"
+    explanation: >-
+      Show, do not tell. A link to a deployed project, a Dune dashboard, or a
+      governance proposal you authored is 10x more convincing than a
+      self-assessment.
+  - question: How long should a Web3 resume be?
     options:
-      - "3+ pages to show everything"
-      - "Exactly 1 page"
-      - "1-2 pages, focused on relevant experience"
-      - "As long as needed"
+      - 3+ pages to show everything
+      - Exactly 1 page
+      - '1-2 pages, focused on relevant experience'
+      - As long as needed
     correct: 2
-    explanation: "Web3 hiring moves fast. Keep it to 1-2 pages. Focus on relevant experience and link to GitHub, Dune dashboards, or deployed projects for depth."
-  - question: "Should you include links to your on-chain activity?"
+    explanation: >-
+      Web3 hiring moves fast. Keep it to 1-2 pages. Focus on relevant experience
+      and link to GitHub, Dune dashboards, or deployed projects for depth.
+  - question: Should you include links to your on-chain activity?
     options:
-      - "No, that is unprofessional"
-      - "Yes — link to your GitHub, deployed contracts, Dune dashboards, and governance participation"
-      - "Only if you have traded a lot of cryptocurrency"
-      - "Only for engineering roles"
+      - 'No, that is unprofessional'
+      - >-
+        Yes - link to your GitHub, deployed contracts, Dune dashboards, and
+        governance participation
+      - Only if you have traded a lot of cryptocurrency
+      - Only for engineering roles
     correct: 1
-    explanation: "On-chain activity proves you use the technology. A link to governance proposals, deployed contracts, or analytics dashboards is more convincing than a paragraph about your blockchain interest."
+    explanation: >-
+      On-chain activity proves you use the technology. A link to governance
+      proposals, deployed contracts, or analytics dashboards is more convincing
+      than a paragraph about your blockchain interest.
 ---
 
 ## Reframe, do not reinvent
 
-You do not need to start your career over. Web3 companies want people who can do the job — most skills transfer directly.
+You do not need to start your career over. Web3 companies want people who can do the job - most skills transfer directly.
 
 The trick is **reframing** your experience to show relevance. Here is how:
 
@@ -83,12 +100,12 @@ Two columns: Technical (Solidity, React, Python) and Domain (DeFi, NFTs, tokenom
 
 ## Before and after: resume summaries
 
-**Bad — generic, no specifics:**
+**Bad - generic, no specifics:**
 > "Passionate blockchain enthusiast seeking opportunities in the Web3 space. Experienced developer with strong problem-solving skills."
 
 This tells a hiring manager nothing. What did you build? What stack do you use? What role do you want?
 
-**Good — specific, shows proof:**
+**Good - specific, shows proof:**
 > "Full-stack engineer, 4 years TypeScript/React. Built and deployed an NFT marketplace on Ethereum testnet (link). Contributed gas optimization PRs to OpenZeppelin. Looking for a frontend role at a DeFi protocol."
 
 Every claim is backed by a link. The role is specific. The reader knows exactly what you can do.
@@ -99,16 +116,16 @@ Every claim is backed by a link. The role is specific. The reader knows exactly 
 ## Common mistakes
 
 1. **Listing "blockchain" as a skill.** Too vague. Instead: "Solidity, Hardhat, ERC-20/721 standards, Foundry testing."
-2. **No links.** If you mention a project, link to it. GitHub, deployed URL, Dune dashboard, governance proposal — anything verifiable.
+2. **No links.** If you mention a project, link to it. GitHub, deployed URL, Dune dashboard, governance proposal - anything verifiable.
 3. **Applying with the same resume everywhere.** Swap the summary and the top 3 bullet points for each application. Match the job description's language.
 4. **Listing every token you own.** Nobody cares about your portfolio. They care about what you built with the technology.
 5. **Using buzzwords instead of numbers.** "Optimized smart contract gas usage" → "Reduced mint function gas cost from 85K to 52K gas (39% reduction)."
 
 ## Key takeaways
 
-- Reframe Web2 experience using Web3 terminology — your skills transfer.
+- Reframe Web2 experience using Web3 terminology - your skills transfer.
 - Include links to GitHub, deployed projects, and Dune dashboards.
 - Keep it to 1-2 pages. Web3 hiring managers skim.
 - A dedicated "Web3 Projects" section proves you are active in the space.
-- Write a specific summary for each application — generic summaries get ignored.
+- Write a specific summary for each application - generic summaries get ignored.
 - Every claim on your resume should link to proof.

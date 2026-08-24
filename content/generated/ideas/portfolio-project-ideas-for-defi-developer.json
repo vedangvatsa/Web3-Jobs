@@ -166,7 +166,7 @@
           },
           {
             "title": "Interest Rate Model Simulator",
-            "description": "Build a simulator that models different interest rate curves and their effects on utilization.",
+            "description": "Build a simulator that models different interest rate curves and their effects on use.",
             "difficulty": "intermediate",
             "timeEstimate": "2 weeks",
             "skills": [

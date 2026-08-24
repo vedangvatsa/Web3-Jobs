@@ -1,7 +1,7 @@
 /**
  * Site-wide dynamic constants.
  * Update these in ONE place whenever community numbers grow.
- * All components import from here — no hardcoded stats anywhere else.
+ * All components import from here - no hardcoded stats anywhere else.
  */
 
 export const SITE_STATS = {

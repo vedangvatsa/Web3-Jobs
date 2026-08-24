@@ -1,6 +1,6 @@
 ---
 name: Pixion Games
-website: https://pixiongames.com
+website: 'https://pixiongames.com'
 category: Gaming/Metaverse
 description: Pixion Games develops and publishes interactive gaming experiences.
 ---

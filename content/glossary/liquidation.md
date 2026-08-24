@@ -1,12 +1,22 @@
 ---
-term: "Liquidation"
-slug: "liquidation"
-category: "defi"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
-description: "The automatic sale of collateral when a borrower's position falls below required thresholds in DeFi lending protocols, protecting lenders from default risk."
-relatedTerms: ["collateral", "defi", "lending", "loan-to-value"]
-synonyms: ["forced liquidation", "margin call", "position closure"]
+term: Liquidation
+slug: liquidation
+category: defi
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80'
+description: >-
+  The automatic sale of collateral when a borrower's position falls below
+  required thresholds in DeFi lending protocols, protecting lenders from default
+  risk.
+relatedTerms:
+  - collateral
+  - defi
+  - lending
+  - loan-to-value
+synonyms:
+  - forced liquidation
+  - margin call
+  - position closure
 ---
 
 Liquidation refers to the automatic process by which DeFi lending protocols sell a borrower's collateral to repay outstanding debt when the collateral's value drops below a required threshold, typically expressed as a loan-to-value ratio. This mechanism serves as the primary safeguard protecting lenders from default risk and maintaining protocol solvency during periods of extreme market volatility. Aave implements a liquidation system where third-party liquidators can repay a portion of a borrower's debt in exchange for receiving the equivalent collateral value plus a liquidation bonus, incentivizing rapid position clearing. Understanding liquidation mechanics is essential for risk management roles, smart contract auditors, and protocol developers, making it a frequently tested competency in Web3 technical interviews.

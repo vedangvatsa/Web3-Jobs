@@ -1,9 +1,9 @@
 ---
 name: Uniswap
-website: https://uniswap.org
+website: 'https://uniswap.org'
 founded: 2018
 category: DeFi Protocol
-headquarters: New York, New York, USA
+headquarters: 'New York, New York, USA'
 description: Largest decentralized exchange by trading volume
 ---
 

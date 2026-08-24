@@ -1,12 +1,13 @@
 ---
-
-title: "Quadratic Funding: A Fairer Way to Fund Public Goods"
-image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
-data-ai-hint: "fairness balance scale"
-description: "A deep dive into Quadratic Funding, the new mechanism that uses a matching pool to amplify the power of small community donations, creating a more."
-category: "Industry Insights"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Quadratic Funding: A Fairer Way to Fund Public Goods'
+image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
+data-ai-hint: fairness balance scale
+description: >-
+  A deep dive into Quadratic Funding, the new mechanism that uses a matching
+  pool to amplify the power of small community donations, creating a more.
+category: Industry Insights
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 How does a society determine its development priorities? Traditional funding mechanisms for public goods, such as parks, scientific research, and open-source software, face significant challenges. These goods are essential for societal welfare, yet they are non-excludable and non-rivalrous. The absence of a direct profit motive often leads to underfunding, relying heavily on government grants or philanthropy. These sources can be slow, bureaucratic, and influenced by a limited number of decision-makers.
@@ -17,11 +18,11 @@ In contrast, [Web3](/what-is-web3) introduces new governance models that tackle 
 
 A straightforward method for collective funding decisions involves allowing financial contributions to dictate choices. For instance, if Project A receives significant funding and Project B attracts a smaller amount, one might assume that Project A aligns more closely with community desires. However, this assumption can be misleading.
 
-Consider this scenario: Project A’s funding comes from a single wealthy donor, while Project B’s funds are sourced from many dedicated small contributors. The "1 dollar, 1 vote" model skews power toward the affluent, marginalizing the broader community's preferences. This scenario exemplifies plutocracy rather than democracy.
+Consider this scenario: Project A's funding comes from a single wealthy donor, while Project B's funds are sourced from many dedicated small contributors. The "1 dollar, 1 vote" model skews power toward the affluent, marginalizing the broader community's preferences. This scenario exemplifies plutocracy rather than democracy.
 
 ### Understanding Quadratic Funding: The Community's Voice
 
-Quadratic Funding addresses these inequities through a **matching pool**, which comprises funds contributed by a foundation or a protocol’s treasury. The effectiveness of QF lies in its allocation method. The funds a project receives from the matching pool depend on the number of unique contributors rather than the total donation amount.
+Quadratic Funding addresses these inequities through a **matching pool**, which comprises funds contributed by a foundation or a protocol's treasury. The effectiveness of QF lies in its allocation method. The funds a project receives from the matching pool depend on the number of unique contributors rather than the total donation amount.
 
 The formula for calculating the matching amount is as follows: the matching funds for a project are proportional to the **square of the sum of the square roots of each individual contribution**.
 

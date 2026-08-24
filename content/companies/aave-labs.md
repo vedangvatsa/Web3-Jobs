@@ -1,9 +1,9 @@
 ---
 name: Aave Labs
-website: https://aave.com
+website: 'https://aave.com'
 founded: 2017
 category: DeFi Protocol
-headquarters: London, United Kingdom
+headquarters: 'London, United Kingdom'
 description: Core development team behind the Aave decentralized lending protocol
 ---
 

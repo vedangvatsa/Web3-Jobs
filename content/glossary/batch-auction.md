@@ -1,12 +1,22 @@
 ---
-term: "Batch Auction"
-slug: "batch-auction"
-category: "trading"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
-description: "A mechanism where orders are collected over a time period, then executed simultaneously at a single clearing price, preventing front-running and enabling fair execution."
-relatedTerms: ["order-book", "dex", "mev", "auction"]
-synonyms: ["batch clearing", "uniform price auction", "frequent batch auction"]
+term: Batch Auction
+slug: batch-auction
+category: trading
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80'
+description: >-
+  A mechanism where orders are collected over a time period, then executed
+  simultaneously at a single clearing price, preventing front-running and
+  enabling fair execution.
+relatedTerms:
+  - order-book
+  - dex
+  - mev
+  - auction
+synonyms:
+  - batch clearing
+  - uniform price auction
+  - frequent batch auction
 ---
 
 Batch Auction refers to a trading mechanism that collects orders over a defined time period and then executes them simultaneously at a single clearing price, rather than matching trades individually as they arrive. This approach eliminates the ordering advantages that enable front-running and sandwich attacks, which affect traditional continuous order book systems. CoW Protocol, one of the implementations of batch auctions in decentralized finance, has processed significant trading volume since launch, demonstrating adoption of this fair execution model. During each batch period, a solver algorithm determines the optimal clearing price that maximizes matched volume, ensuring all participants receive identical pricing regardless of their order size or timing within the batch. The recognition of MEV extraction costs has driven demand for professionals who understand batch auction mechanics, with DeFi protocols hiring mechanism designers and smart contract developers experienced in fair trading systems.

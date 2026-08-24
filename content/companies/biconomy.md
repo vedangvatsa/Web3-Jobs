@@ -1,6 +1,6 @@
 ---
 name: Biconomy
-website: https://www.biconomy.io
+website: 'https://www.biconomy.io'
 founded: 2019
 category: Web3 Infrastructure & UX
 headquarters: Remote

@@ -1,9 +1,9 @@
 ---
 name: LayerZero
-website: https://layerzero.network
+website: 'https://layerzero.network'
 founded: 2021
 category: Blockchain Infrastructure
-headquarters: Vancouver, Canada
+headquarters: 'Vancouver, Canada'
 description: Omnichain interoperability protocol connecting 70+ blockchains
 ---
 

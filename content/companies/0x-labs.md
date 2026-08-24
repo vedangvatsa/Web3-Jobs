@@ -1,8 +1,10 @@
 ---
 name: 0x Labs
-website: https://0x.org
+website: 'https://0x.org'
 category: DeFi Protocol
-description: 0x Labs develops decentralized exchange protocols for Ethereum and other blockchains.
+description: >-
+  0x Labs develops decentralized exchange protocols for Ethereum and other
+  blockchains.
 ---
 
 0x Labs is known for its work in the decentralized finance (DeFi) space, specifically in creating protocols for decentralized exchanges. The company focuses on enabling peer-to-peer trading of tokens on the Ethereum blockchain and other networks. 
