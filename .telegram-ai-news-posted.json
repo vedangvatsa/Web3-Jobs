@@ -512,6 +512,9 @@
   "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
   "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
   "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+  "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+  "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+  "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1319,6 +1322,12 @@
   "Flight attendants freaked out that Google is buying tons of Spirit employee data",
   "SpaceX veterans build automated robotic factory for steel parts",
   "Former SpaceX engineers are building a robotic factory for making steel parts",
+  "Mysterious AI model Ox Alpha sparks industry speculation",
+  "Who’s behind the new ‘stealth model’ Ox Alpha?",
+  "Flock Safety faces backlash over AI surveillance technology",
+  "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+  "Linkdaze offers free smart calendar with AI meal planner",
+  "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1348,5 +1357,8 @@
   "fp:automat|believ|cas|court|document|embedd|fil|inject|injection|insid",
   "fp:author|book|compensation|complicat|concern|consent|copyright|debat|developer|explicit",
   "fp:acquir|administrator|agr|airlin|attendant|backlash|bankrupt|buy|concern|data",
-  "fp:aerospac|are|automat|build|engineer|fabrication|factory|former|found|heavy"
+  "fp:aerospac|are|automat|build|engineer|fabrication|factory|former|found|heavy",
+  "fp:alpha|appear|behind|benchmark|capabl|creator|highly|mysterious|platform|prompt",
+  "fp:automat|backlash|call|ceo|compromis|concern|defend|fac|flock|grow",
+  "fp:all|built|calendar|digital|featur|fre|help|household|includ|linkdaz"
 ]
