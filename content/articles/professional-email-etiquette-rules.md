@@ -1,13 +1,14 @@
 ---
-
 title: Professional Email Etiquette Rules
-description: Master the unwritten rules of professional email communication. This guide covers everything from subject lines to sign-offs to help you build a strong professional reputation.
-image: https://picsum.photos/seed/email/1200/630
+description: >-
+  Master the unwritten rules of professional email communication. This guide
+  covers everything from subject lines to sign-offs to help you build a strong
+  professional reputation.
+image: 'https://picsum.photos/seed/email/1200/630'
 category: Career Guides
 data-ai-hint: professional email
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: Your Emails Are Your Reputation

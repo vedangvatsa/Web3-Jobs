@@ -1,6 +1,6 @@
 ---
 name: Guild
-website: https://guild.xyz
+website: 'https://guild.xyz'
 founded: 2022
 category: DAO Tooling / Access Management
 headquarters: Remote

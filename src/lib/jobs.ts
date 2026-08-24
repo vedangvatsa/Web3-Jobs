@@ -4,6 +4,7 @@
 import type { Job } from '@/types';
 import * as fs from 'fs';
 import * as path from 'path';
+import { cleanPublishText } from '@/lib/noslop';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 
@@ -39,7 +40,7 @@ function cleanJobTitle(title: string, company?: string): string {
  // Strip"CompanyName -" prefix (e.g."Morph - Token Growth Lead" →"Token Growth Lead")
  if (company) {
   const escaped = company.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const prefixPattern = new RegExp(`^${escaped}\\s*[-–:]\\s*`, 'i');
+  const prefixPattern = new RegExp(`^${escaped}\\s*[-\\u2013:]\\s*`, 'i');
   const withoutPrefix = cleaned.replace(prefixPattern, '').trim();
   if (withoutPrefix.length > 0) {
    cleaned = withoutPrefix;
@@ -107,12 +108,12 @@ function cleanJobTitle(title: string, company?: string): string {
  cleaned = cleaned.replace(/^[\/\-\|\\\s]+/, '').trim();
 
  // Clean up trailing dashes
- cleaned = cleaned.replace(/[-–]$/, '').trim();
+ cleaned = cleaned.replace(/[-\u2013]$/, '').trim();
 
  // Collapse whitespace
  cleaned = cleaned.replace(/\s+/g, ' ').trim();
 
- return cleaned.length > 0 ? cleaned : title.trim();
+  return cleanPublishText(cleaned.length > 0 ? cleaned : title.trim());
 }
 
 export async function getJobs(): Promise<Job[]> {

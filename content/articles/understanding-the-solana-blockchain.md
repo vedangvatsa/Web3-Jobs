@@ -1,13 +1,13 @@
 ---
-
-title: "Understanding the Solana Blockchain"
-image: "/images/george-prentzas-SRFG7iwktDk-unsplash.jpg"
-data-ai-hint: "solana blockchain"
-description: "Understand Solana's architecture, advantages, and ecosystem for DeFi and Web3 applications."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding the Solana Blockchain
+image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
+data-ai-hint: solana blockchain
+description: >-
+  Understand Solana's architecture, advantages, and ecosystem for DeFi and Web3
+  applications.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 **Solana (SOL)** represents a high-performance, open-source [Layer 1 blockchain](/what-is-a-layer-1-blockchain) tailored for decentralized applications and enterprise blockchain solutions. Launched in 2020 by the Solana Foundation, it aims to deliver near-instant transaction finality and exceptional scalability for developers.
@@ -48,4 +48,4 @@ Solana's **subnet architecture** allows for the creation of application-specific
 
 - **Use Case:** This feature is particularly beneficial for large-scale projects, such as [Web3](/what-is-web3) games or enterprise applications, that require dedicated throughput without competing for blockspace on the main C-Chain.
 
-Solana’s vision for scalability and customization positions it as a strong contender in the blockchain sector. Its multi-chain architecture and new consensus mechanism cater to the demands of [DeFi](/what-is-defi), while the subnet model enables projects to launch their own sovereign blockchains.
+Solana's vision for scalability and customization positions it as a strong contender in the blockchain sector. Its multi-chain architecture and new consensus mechanism cater to the demands of [DeFi](/what-is-defi), while the subnet model enables projects to launch their own sovereign blockchains.

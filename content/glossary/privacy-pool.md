@@ -1,12 +1,22 @@
 ---
-term: "Privacy Pool"
-slug: "privacy-pool"
-category: "security"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80"
-description: "A cryptographic system that allows users to deposit funds into a shared pool and later withdraw anonymously, breaking the on-chain link between sender and receiver."
-relatedTerms: ["zk", "zero-knowledge-proof", "privacy", "mixer"]
-synonyms: ["mixer", "anonymity pool", "privacy mixer"]
+term: Privacy Pool
+slug: privacy-pool
+category: security
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80'
+description: >-
+  A cryptographic system that allows users to deposit funds into a shared pool
+  and later withdraw anonymously, breaking the on-chain link between sender and
+  receiver.
+relatedTerms:
+  - zk
+  - zero-knowledge-proof
+  - privacy
+  - mixer
+synonyms:
+  - mixer
+  - anonymity pool
+  - privacy mixer
 ---
 
 Privacy Pool refers to a cryptographic system that allows users to deposit funds into a shared pool and later withdraw them to a different address without creating a traceable on-chain link between sender and receiver. These systems use zero-knowledge proofs to verify that a withdrawal is legitimate without revealing which specific deposit it corresponds to, effectively breaking the transaction graph that blockchain explorers typically use to trace fund flows. Privacy pools typically require fixed deposit amounts, such as 0.1 or 1 ETH, to create uniformity that prevents amount-based tracking. While legitimate uses include salary privacy and protecting business transactions from competitors, the potential for misuse has prompted significant regulatory attention and the development of compliant alternatives. Professionals who understand privacy-preserving technologies are increasingly sought after by compliance teams, protocol developers, and blockchain analytics firms.
@@ -117,4 +127,4 @@ Trends:
 
 ## Protect Transaction Privacy
 
-Privacy pools improve on-chain privacy but face regulatory scrutiny. Understanding their mechanics and risks is essential. If you’re interested in privacy tech, explore [privacy careers](/) at ZK and privacy teams.
+Privacy pools improve on-chain privacy but face regulatory scrutiny. Understanding their mechanics and risks is essential. If you're interested in privacy tech, explore [privacy careers](/) at ZK and privacy teams.

@@ -1,13 +1,23 @@
 ---
-term: "Node"
-slug: "node"
-category: "Technical"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=600&fit=crop"
-imageAlt: "Network servers and distributed systems representing blockchain nodes"
-description: "A computer that connects to a blockchain network, maintaining a copy of the distributed ledger and validating transactions. The fundamental building blocks of blockchain infrastructure."
-relatedTerms: ["blockchain", "mining", "consensus-mechanism"]
-synonyms: ["network node", "blockchain node", "validator"]
+term: Node
+slug: node
+category: Technical
+difficulty: Intermediate
+image: >-
+  https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=600&fit=crop
+imageAlt: Network servers and distributed systems representing blockchain nodes
+description: >-
+  A computer that connects to a blockchain network, maintaining a copy of the
+  distributed ledger and validating transactions. The fundamental building
+  blocks of blockchain infrastructure.
+relatedTerms:
+  - blockchain
+  - mining
+  - consensus-mechanism
+synonyms:
+  - network node
+  - blockchain node
+  - validator
 ---
 
 Node refers to any computer that connects to a blockchain network and participates in maintaining the distributed ledger by storing blockchain data, validating transactions and blocks, and relaying information across the network. These machines form the decentralized infrastructure that allows blockchains to operate without central authorities, with each node independently verifying that all rules are being followed. Different types of nodes serve different purposes, from full nodes that store complete blockchain histories to light nodes that only download block headers for faster synchronization. Running nodes requires technical knowledge of networking, system administration, and blockchain protocols, making node operation and infrastructure management valuable skills as more organizations seek professionals who can deploy and maintain reliable blockchain infrastructure.

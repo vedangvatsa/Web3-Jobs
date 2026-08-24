@@ -1,9 +1,9 @@
 ---
 name: Mysten Labs
-website: https://mystenlabs.com
+website: 'https://mystenlabs.com'
 founded: 2021
 category: Blockchain Infrastructure
-headquarters: Palo Alto, California, USA
+headquarters: 'Palo Alto, California, USA'
 description: Builders of the Sui blockchain and Move programming language
 ---
 

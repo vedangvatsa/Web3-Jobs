@@ -1,58 +1,93 @@
 ---
-title: "Building a Web3 Portfolio"
-description: "How to build a portfolio that gets you hired in Web3 — even without crypto experience."
+title: Building a Web3 Portfolio
+description: >-
+  How to build a portfolio that gets you hired in Web3 - even without crypto
+  experience.
 order: 9
-readTime: "10 min"
-difficulty: "beginner"
-prerequisites: ["skills"]
+readTime: 10 min
+difficulty: beginner
+prerequisites:
+  - skills
 quiz:
-  - question: "What type of project is most impressive to Web3 hiring managers?"
+  - question: What type of project is most impressive to Web3 hiring managers?
     options:
-      - "A polished landing page for a fake crypto project."
-      - "A deployed, functional project on a testnet or mainnet that demonstrates real on-chain interaction."
-      - "A collection of course certificates."
-      - "A detailed research paper about blockchain."
+      - A polished landing page for a fake crypto project.
+      - >-
+        A deployed, functional project on a testnet or mainnet that demonstrates
+        real on-chain interaction.
+      - A collection of course certificates.
+      - A detailed research paper about blockchain.
     correct: 1
-    explanation: "Hiring managers in Web3 want to see that you can ship working code that interacts with actual blockchains. Deployed testnet projects with live demos are far more compelling than certificates or mockups."
-  - question: "What is the fastest way to build credibility in Web3 without prior crypto experience?"
+    explanation: >-
+      Hiring managers in Web3 want to see that you can ship working code that
+      interacts with actual blockchains. Deployed testnet projects with live
+      demos are far more compelling than certificates or mockups.
+  - question: >-
+      What is the fastest way to build credibility in Web3 without prior crypto
+      experience?
     options:
-      - "Buy a lot of crypto."
-      - "Contribute to open-source Web3 projects and document your contributions publicly."
-      - "Follow crypto influencers on Twitter."
-      - "Get a blockchain certification."
+      - Buy a lot of crypto.
+      - >-
+        Contribute to open-source Web3 projects and document your contributions
+        publicly.
+      - Follow crypto influencers on Twitter.
+      - Get a blockchain certification.
     correct: 1
-    explanation: "Open-source contributions are verifiable proof of skill. A merged PR to a protocol like Uniswap, Aave, or any Web3 tooling project speaks louder than any certification."
-  - question: "Why are hackathon wins particularly valuable for Web3 job seekers?"
+    explanation: >-
+      Open-source contributions are verifiable proof of skill. A merged PR to a
+      protocol like Uniswap, Aave, or any Web3 tooling project speaks louder
+      than any certification.
+  - question: Why are hackathon wins particularly valuable for Web3 job seekers?
     options:
-      - "They pay well."
-      - "They prove you can build a functional project under time pressure, provide networking with protocol teams, and the project itself becomes a portfolio piece."
-      - "They are required by all employers."
-      - "They replace the need for a resume."
+      - They pay well.
+      - >-
+        They prove you can build a functional project under time pressure,
+        provide networking with protocol teams, and the project itself becomes a
+        portfolio piece.
+      - They are required by all employers.
+      - They replace the need for a resume.
     correct: 1
-    explanation: "Hackathons compress months of job searching into a weekend. You build something real (portfolio piece), meet protocol teams face-to-face (networking), and winners often get direct job offers. ETHGlobal, Devfolio, and DoraHacks are the major Web3 hackathon platforms."
-  - question: "For non-developers, what is the most impactful portfolio piece?"
+    explanation: >-
+      Hackathons compress months of job searching into a weekend. You build
+      something real (portfolio piece), meet protocol teams face-to-face
+      (networking), and winners often get direct job offers. ETHGlobal,
+      Devfolio, and DoraHacks are the major Web3 hackathon platforms.
+  - question: 'For non-developers, what is the most impactful portfolio piece?'
     options:
-      - "A list of DeFi protocols you've used."
-      - "A governance proposal you authored that received community votes, a community growth report with metrics, or published research with on-chain data analysis."
-      - "Screenshots of your crypto portfolio."
-      - "A long Twitter thread about Web3."
+      - A list of DeFi protocols you've used.
+      - >-
+        A governance proposal you authored that received community votes, a
+        community growth report with metrics, or published research with
+        on-chain data analysis.
+      - Screenshots of your crypto portfolio.
+      - A long Twitter thread about Web3.
     correct: 1
-    explanation: "Non-technical portfolios need to show measurable impact: 'I wrote a governance proposal on Aave that received 500K votes' or 'I grew the Discord from 2K to 15K members in 3 months.' Concrete metrics and verifiable on-chain activity beat generic claims."
-  - question: "What makes an on-chain identity valuable for job applications?"
+    explanation: >-
+      Non-technical portfolios need to show measurable impact: 'I wrote a
+      governance proposal on Aave that received 500K votes' or 'I grew the
+      Discord from 2K to 15K members in 3 months.' Concrete metrics and
+      verifiable on-chain activity beat generic claims.
+  - question: What makes an on-chain identity valuable for job applications?
     options:
-      - "Having a large token balance."
-      - "An ENS name, POAPs from events attended, governance votes cast, and verifiable on-chain activity showing genuine engagement with protocols."
-      - "Trading volume on exchanges."
-      - "Number of wallet addresses."
+      - Having a large token balance.
+      - >-
+        An ENS name, POAPs from events attended, governance votes cast, and
+        verifiable on-chain activity showing genuine engagement with protocols.
+      - Trading volume on exchanges.
+      - Number of wallet addresses.
     correct: 1
-    explanation: "On-chain identity is verifiable proof of engagement. An employer can see that you attended ETHDenver (POAP), voted on 20 Aave proposals (governance history), and deployed 3 contracts (Etherscan). This is unfakeable and far more credible than résumé bullet points."
+    explanation: >-
+      On-chain identity is verifiable proof of engagement. An employer can see
+      that you attended ETHDenver (POAP), voted on 20 Aave proposals (governance
+      history), and deployed 3 contracts (Etherscan). This is unfakeable and far
+      more credible than résumé bullet points.
 ---
 
 ## Why Portfolios Matter More in Web3
 
 In traditional tech, your resume and interview performance are the primary signals. In Web3, your on-chain activity, GitHub contributions, and published work carry equal or greater weight.
 
-Many Web3 companies were founded by people who built things publicly before getting hired or funded. The culture values builders — show, don't tell.
+Many Web3 companies were founded by people who built things publicly before getting hired or funded. The culture values builders - show, don't tell.
 
 ## The Ideal Web3 Portfolio
 
@@ -144,7 +179,7 @@ Web3 hackathons (ETHGlobal, Devfolio, Chainlink hackathons) are the single faste
 
 ## Key Takeaways
 
-- Ship working, deployed projects — not mockups.
+- Ship working, deployed projects - not mockups.
 - Open-source contributions are the strongest signal for developers.
 - Non-developers should document community, content, and governance work.
 - Hackathons are the fastest path from zero to credibility.

@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Jobs in Bamako: A Guide to Mali's Digital Future"
-image: "/images/africa web3 jobs.jpg"
-data-ai-hint: "bamako mali city"
-description: "A career guide to the emerging Web3 job market in Bamako. Explore how Mali's capital is beginning to use blockchain for FinTech and social impact."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Bamako: A Guide to Mali''s Digital Future'
+image: /images/africa web3 jobs.jpg
+data-ai-hint: bamako mali city
+description: >-
+  A career guide to the emerging Web3 job market in Bamako. Explore how Mali's
+  capital is beginning to use blockchain for FinTech and social impact.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Bamako, the capital of Mali, is beginning its digital transformation. As a significant cultural and economic center in the Sahel region, Bamako hosts a young, entrepreneurial population that increasingly turns to technology to address local challenges. Although the [Web3](/what-is-web3) ecosystem is still developing, interest in cryptocurrency and [blockchain](/what-is-a-blockchain) is rising, particularly for promoting financial inclusion and enhancing system efficiency in a challenging economic environment.
@@ -186,7 +186,7 @@ A developer earning a competitive salary monthly can expect the following expens
 - Establish GitHub, Twitter, and LinkedIn accounts.
 - Choose your Web3 path.
 - Join the Polygon Discord, Buildspace, and two role-specific communities.
-- Write an introductory post: "Hi, I am [name] from Bamako, interested in [path]. Here’s what I’m building..."
+- Write an introductory post: "Hi, I am [name] from Bamako, interested in [path]. Here's what I'm building..."
 
 **Days 11-30: First Project**
 - Complete a Buildspace cohort or equivalent tutorial.

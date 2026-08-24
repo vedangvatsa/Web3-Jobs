@@ -1,13 +1,13 @@
 ---
-
-title: "What is 3D Printing Technology"
-description: "An overview of 3D printing, or additive manufacturing, explaining the different methods, materials, and how it's improving how industries from."
-category: "Educational"
-image: "https://picsum.photos/seed/3dprinting/1200/630"
-data-ai-hint: "3d printer"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is 3D Printing Technology
+description: >-
+  An overview of 3D printing, or additive manufacturing, explaining the
+  different methods, materials, and how it's improving how industries from.
+category: Educational
+image: 'https://picsum.photos/seed/3dprinting/1200/630'
+data-ai-hint: 3d printer
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 3D printing, commonly referred to as additive manufacturing, constructs three-dimensional objects by layering materials from a digital file. This method contrasts with traditional subtractive manufacturing, which begins with a solid block of material that is cut or molded to create a product. In 3D printing, material is added only where needed, offering efficiency that influences various industries.

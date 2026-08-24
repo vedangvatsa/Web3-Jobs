@@ -1,12 +1,22 @@
 ---
-term: "Slashing"
-slug: "slashing"
-category: "security"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80"
-description: "A penalty mechanism in Proof of Stake networks that destroys part of a validator's staked cryptocurrency for malicious behavior or rule violations, protecting protocol security."
-relatedTerms: ["validator", "proof-of-stake", "consensus-mechanism", "penalty"]
-synonyms: ["penalty", "stake loss", "validator punishment"]
+term: Slashing
+slug: slashing
+category: security
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80'
+description: >-
+  A penalty mechanism in Proof of Stake networks that destroys part of a
+  validator's staked cryptocurrency for malicious behavior or rule violations,
+  protecting protocol security.
+relatedTerms:
+  - validator
+  - proof-of-stake
+  - consensus-mechanism
+  - penalty
+synonyms:
+  - penalty
+  - stake loss
+  - validator punishment
 ---
 
 Slashing is a cryptoeconomic punishment mechanism in Proof of Stake blockchains that automatically destroys a portion of a validator's staked cryptocurrency when they violate protocol rules or act maliciously. This penalty system makes dishonest behavior economically irrational by imposing direct financial consequences for actions like proposing conflicting blocks, double-signing attestations, or experiencing extended downtime. Ethereum's Beacon Chain implements one of the most well-known slashing systems, where validators can lose a minimum of 1/32 of their staked ETH for attestation violations, with penalties scaling based on how many other validators are slashed simultaneously. Understanding slashing mechanics is essential for professionals pursuing roles in protocol development, validator operations, or blockchain security, as these positions require expertise in maintaining network integrity and managing staking infrastructure.

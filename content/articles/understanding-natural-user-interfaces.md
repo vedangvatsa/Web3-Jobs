@@ -1,13 +1,13 @@
 ---
-
-title: "Understanding Natural User Interfaces"
-description: "An introduction to Natural User Interfaces (NUI), exploring how technologies like touch, voice, and gesture are creating more intuitive ways to interact."
-category: "Educational"
-image: "https://picsum.photos/seed/nui/1200/630"
-data-ai-hint: "touch interface"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Natural User Interfaces
+description: >-
+  An introduction to Natural User Interfaces (NUI), exploring how technologies
+  like touch, voice, and gesture are creating more intuitive ways to interact.
+category: Educational
+image: 'https://picsum.photos/seed/nui/1200/630'
+data-ai-hint: touch interface
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 A Natural User Interface (NUI) creates an interaction experience that feels simple and instinctive. Unlike traditional graphical user interfaces (GUIs) that depend on a mouse and keyboard to manipulate abstract elements like windows and icons, NUIs enable interaction through methods that imitate natural human behavior. These interfaces use touch, voice, and gestures, enabling users to engage with technology in a more intuitive manner.

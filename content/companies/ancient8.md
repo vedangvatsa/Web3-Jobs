@@ -1,9 +1,9 @@
 ---
 name: Ancient8
-website: https://ancient8.gg
+website: 'https://ancient8.gg'
 founded: 2022
 category: Gaming / Infrastructure
-headquarters: Ho Chi Minh City, Vietnam
+headquarters: 'Ho Chi Minh City, Vietnam'
 description: Web3 gaming infrastructure and community platform
 ---
 

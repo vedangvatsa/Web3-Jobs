@@ -1,9 +1,9 @@
 ---
 name: DFINITY
-website: https://dfinity.org
+website: 'https://dfinity.org'
 founded: 2016
 category: Layer 1 / Blockchain Infrastructure
-headquarters: Zurich, Switzerland
+headquarters: 'Zurich, Switzerland'
 description: The major contributor to the Internet Computer (ICP) blockchain network.
 ---
 

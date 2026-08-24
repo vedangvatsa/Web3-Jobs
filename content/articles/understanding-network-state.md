@@ -1,13 +1,13 @@
 ---
-
-title: "Understanding Network State in Blockchains"
-image: "/images/nasa-cIX5TlQ_FgM-unsplash.jpg"
-data-ai-hint: "blockchain network state"
-description: "A foundational guide to understanding 'network state' in blockchain technology and why this shared, global 'computer' is a a significant concept."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Network State in Blockchains
+image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
+data-ai-hint: blockchain network state
+description: >-
+  A foundational guide to understanding 'network state' in blockchain technology
+  and why this shared, global 'computer' is a a significant concept.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 At the center of any [blockchain](/what-is-a-blockchain), such as [Ethereum](/what-is-ethereum), lies the concept of **network state**, often referred to simply as the "state." The state represents a complete snapshot of the system's current status at a specific point in time, corresponding to a particular block. It forms a vast, shared database that all nodes in the network maintain.

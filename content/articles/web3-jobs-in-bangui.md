@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Jobs in Bangui: A Guide to the Central African Republic's Crypto Frontier"
-image: "/images/africa web3 jobs.jpg"
-data-ai-hint: "bangui central african republic city"
-description: "A career guide to the Web3 job market in Bangui. Explore the unique but challenging crypto space in the Central African Republic following its."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Bangui: A Guide to the Central African Republic''s Crypto Frontier'
+image: /images/africa web3 jobs.jpg
+data-ai-hint: bangui central african republic city
+description: >-
+  A career guide to the Web3 job market in Bangui. Explore the unique but
+  challenging crypto space in the Central African Republic following its.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Bangui, the capital of the Central African Republic (CAR), occupies a distinctive position in the global [Web3](/what-is-web3) narrative. In 2022, CAR gained international attention by becoming the second country to adopt [Bitcoin](/what-is-bitcoin) as legal tender, following El Salvador. This initiative, coupled with the launch of its "Sango" crypto project, placed Bangui on the crypto map. However, the move has faced significant challenges, including low internet access, economic instability, and skepticism from international observers.

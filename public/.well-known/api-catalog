@@ -1,3 +1,33 @@
 {
-  "api-catalog": "https://hashtagweb3.com/api/"
+  "linkset": [
+    {
+      "anchor": "https://hashtagweb3.com/api",
+      "service-desc": [
+        {
+          "href": "https://hashtagweb3.com/openapi.json",
+          "type": "application/vnd.oai.openapi+json;version=3.1"
+        },
+        {
+          "href": "https://hashtagweb3.com/api/openapi.yaml",
+          "type": "application/vnd.oai.openapi;version=3.1"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://hashtagweb3.com/developers",
+          "type": "text/html"
+        },
+        {
+          "href": "https://hashtagweb3.com/developers/llms.txt",
+          "type": "text/markdown"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://hashtagweb3.com/api/jobs",
+          "type": "application/json"
+        }
+      ]
+    }
+  ]
 }

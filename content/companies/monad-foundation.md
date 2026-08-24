@@ -1,6 +1,6 @@
 ---
 name: Monad Foundation
-website: https://monad.xyz
+website: 'https://monad.xyz'
 category: Blockchain Infrastructure
 description: Monad Foundation focuses on building scalable blockchain technologies.
 ---

@@ -1,6 +1,6 @@
 ---
 name: relay.link
-website: https://relay.link
+website: 'https://relay.link'
 category: Other
 description: Relay.link offers a decentralized platform for secure communication.
 ---

@@ -1,13 +1,22 @@
 ---
-term: "Governance Token"
-slug: "governance-token"
-category: "governance"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=600&fit=crop"
-imageAlt: "Voting and democratic decision-making in blockchain governance"
-description: "A cryptocurrency token that grants holders voting rights to influence protocol decisions, parameter changes, and treasury management in decentralized organizations."
-relatedTerms: ["dao", "token", "defi"]
-synonyms: ["voting token", "protocol token"]
+term: Governance Token
+slug: governance-token
+category: governance
+difficulty: Intermediate
+image: >-
+  https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=600&fit=crop
+imageAlt: Voting and democratic decision-making in blockchain governance
+description: >-
+  A cryptocurrency token that grants holders voting rights to influence protocol
+  decisions, parameter changes, and treasury management in decentralized
+  organizations.
+relatedTerms:
+  - dao
+  - token
+  - defi
+synonyms:
+  - voting token
+  - protocol token
 ---
 
 Governance Token refers to a type of cryptocurrency that grants holders voting rights to participate in decisions affecting a decentralized protocol, application, or organization. These tokens enable holders to propose changes, vote on community proposals, and influence critical matters ranging from technical parameters to treasury allocation. This represents a fundamental departure from traditional corporate governance where power concentrates in boards and executives. For example, Uniswap's UNI token allows holders to vote on protocol upgrades, fee structures, and the distribution of its treasury funds. Understanding governance mechanisms has become essential for professionals entering the Web3 space, as roles in DAO operations, tokenomics design, and community management increasingly require familiarity with how these voting systems function.

@@ -1,10 +1,10 @@
 ---
 name: Fireblocks
-website: https://fireblocks.com
+website: 'https://fireblocks.com'
 founded: 2018
 category: Digital Asset Infrastructure
-headquarters: New York, New York, USA
-description: Enterprise platform for digital asset custody, transfer, and settlement
+headquarters: 'New York, New York, USA'
+description: 'Enterprise platform for digital asset custody, transfer, and settlement'
 ---
 
 Fireblocks provides digital asset infrastructure for exchanges, banks, lending desks, and hedge funds. The platform uses MPC-based wallet technology and has processed over $6 trillion in digital assets.

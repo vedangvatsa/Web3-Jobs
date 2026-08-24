@@ -1,13 +1,13 @@
 ---
-
-title: "What is Just-In-Time (JIT) Liquidity?"
-description: "A deep dive into Just-In-Time (JIT) liquidity, an advanced MEV strategy on Uniswap v3 where liquidity is added and removed in the same block to capture."
-category: "Educational"
-image: "https://picsum.photos/seed/jit/1200/630"
-data-ai-hint: "just in time"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is Just-In-Time (JIT) Liquidity?
+description: >-
+  A deep dive into Just-In-Time (JIT) liquidity, an advanced MEV strategy on
+  Uniswap v3 where liquidity is added and removed in the same block to capture.
+category: Educational
+image: 'https://picsum.photos/seed/jit/1200/630'
+data-ai-hint: just in time
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## What is Just-In-Time (JIT) Liquidity?

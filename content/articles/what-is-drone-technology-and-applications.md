@@ -1,13 +1,13 @@
 ---
-
-title: "What is Drone Technology and Applications"
-description: "Exploring the technology behind drones, or unmanned aerial vehicles (UAVs), and the wide range of applications they are used for today, from photography."
-category: "Educational"
-image: "https://picsum.photos/seed/dronetech/1200/630"
-data-ai-hint: "drone flying"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is Drone Technology and Applications
+description: >-
+  Exploring the technology behind drones, or unmanned aerial vehicles (UAVs),
+  and the wide range of applications they are used for today, from photography.
+category: Educational
+image: 'https://picsum.photos/seed/dronetech/1200/630'
+data-ai-hint: drone flying
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Drone technology has advanced over the past decade, transitioning from niche hobbyist devices to vital tools in various industries. Drones, or unmanned aerial vehicles (UAVs), operate without a human pilot. They can be controlled autonomously via onboard computers or manually using ground-based remote controls.

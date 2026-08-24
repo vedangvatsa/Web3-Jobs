@@ -1,13 +1,13 @@
 ---
-
-title: "How Web3 Is Shaping the Future of Online Transactions"
-image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
-data-ai-hint: "online transactions future"
-description: "Explore how Web3 is changing online transactions, offering a decentralized, secure, and efficient alternative to traditional payment systems."
-category: "Industry Insights"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How Web3 Is Shaping the Future of Online Transactions
+image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
+data-ai-hint: online transactions future
+description: >-
+  Explore how Web3 is changing online transactions, offering a decentralized,
+  secure, and efficient alternative to traditional payment systems.
+category: Industry Insights
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 For decades, a small number of centralized intermediaries have controlled online transactions. When you make a purchase online, various banks, credit card networks like Visa and Mastercard, and payment gateways such as Stripe and PayPal process your payment. This system, while functional, is plagued by inefficiencies, high costs, and exclusivity.
@@ -19,7 +19,7 @@ For decades, a small number of centralized intermediaries have controlled online
 The existing framework, referred to as "TradFi" (Traditional Finance), suffers from several key issues that [Web3](/what-is-web3) addresses directly:
 
 1. **High Fees:** Each intermediary in the payment chain extracts fees. Credit card companies generally charge merchants a percentage per transaction. For small businesses, these costs can substantially reduce profit margins.
-2. **Slow Settlement Times:** Although transactions may seem instantaneous, the actual settlement process between banks often takes several business days, tying up merchants’ capital.
+2. **Slow Settlement Times:** Although transactions may seem instantaneous, the actual settlement process between banks often takes several business days, tying up merchants' capital.
 3. **Censorship and Accessibility Issues:** Banks and payment processors have the authority to freeze accounts or block transactions for individuals or businesses they classify as high-risk. many people globally lack access to conventional banking systems, excluding them from participating in the online economy.
 4. **Fraud and Chargeback Risks:** The potential for fraudulent transactions and chargebacks incurs additional overhead costs for merchants.
 

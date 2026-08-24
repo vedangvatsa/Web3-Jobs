@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description: 'Free online invoice generator for Web3 freelancers, consultants, and contractors. Create professional PDF invoices accepting ETH, USDC, BTC, or fiat.',
   url: 'https://hashtagweb3.com/invoice-generator',
   images: [{
-   url: '/api/og?type=default&title=Web3%20Invoice%20Generator',
+   url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Invoice%20Generator',
    width: 1200,
    height: 630,
    alt: 'Web3 Invoice Generator Tool',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 Invoice Generator | Free PDF Crypto Invoicing',
   description: 'Free online invoice generator for Web3 freelancers, consultants, and contractors. Create professional PDF invoices accepting ETH, USDC, BTC, or fiat.',
-  images: ['/api/og?type=default&title=Web3%20Invoice%20Generator'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Invoice%20Generator'],
  },
 };
 

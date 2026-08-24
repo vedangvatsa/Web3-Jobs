@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Jobs in Dar es Salaam: A Guide to Tanzania's Growing Tech Scene"
-image: "/images/africa web3 jobs.jpg"
-data-ai-hint: "dar es salaam tanzania"
-description: "A career guide to the Web3 job market in Dar es Salaam. Explore how Tanzania's commercial capital is becoming a hub for mobile money, blockchain."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Dar es Salaam: A Guide to Tanzania''s Growing Tech Scene'
+image: /images/africa web3 jobs.jpg
+data-ai-hint: dar es salaam tanzania
+description: >-
+  A career guide to the Web3 job market in Dar es Salaam. Explore how Tanzania's
+  commercial capital is becoming a hub for mobile money, blockchain.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Dar es Salaam, Tanzania's busy commercial capital, is emerging as a significant hub for technology and [Web3](/what-is-web3) innovation in East Africa. The city benefits from a youthful population, widespread mobile phone usage, and a government that increasingly accepts digital currencies. This combination creates a fertile ground for the grassroots adoption of [blockchain](/what-is-a-blockchain) technology. The Web3 ecosystem in Dar es Salaam is currently undergoing dynamic growth, supported by a community of dedicated builders focused on education, financial inclusion, and mobile-first solutions.

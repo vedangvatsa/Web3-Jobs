@@ -109,7 +109,7 @@
           },
           {
             "title": "Check program binary size",
-            "description": "Verify .so file is under size limits. Optimize if needed.",
+            "description": "Verify.so file is under size limits. Optimize if needed.",
             "priority": "important",
             "category": "Build"
           },
@@ -121,7 +121,7 @@
           },
           {
             "title": "Document build hash",
-            "description": "Record SHA256 of deployed .so file for verification.",
+            "description": "Record SHA256 of deployed.so file for verification.",
             "priority": "important",
             "category": "Documentation"
           },

@@ -1,13 +1,13 @@
 ---
-
-title: "Decentralized Social Graphs and the Future of Online Identity"
-image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
-data-ai-hint: "social network identity"
-description: "A deep dive into the Web3 Social Graph. Learn how protocols like Farcaster and Lens are creating a decentralized foundation for social media where users."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Decentralized Social Graphs and the Future of Online Identity
+image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
+data-ai-hint: social network identity
+description: >-
+  A deep dive into the Web3 Social Graph. Learn how protocols like Farcaster and
+  Lens are creating a decentralized foundation for social media where users.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 For the past fifteen years, digital identities have remained confined within centralized platforms. Your social graph, which includes your friends, followers, posts, and interactions, is one of your most valuable digital assets. Unfortunately, you do not own it. Platforms such as Facebook, Twitter, and TikTok control this data. If you leave a platform, your social graph disappears. Changes to algorithms can drastically affect your reach. Essentially, users operate as digital serfs, creating value on land they do not own.

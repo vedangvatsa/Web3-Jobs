@@ -1,12 +1,22 @@
 ---
-term: "Account Abstraction"
-slug: "account-abstraction"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
-description: "An architecture treating user accounts and smart contracts uniformly, enabling accounts to have arbitrary logic instead of requiring ECDSA signatures, supporting features like batched transactions and multi-sig natively."
-relatedTerms: ["smart-contract", "eoa", "wallet", "erc-4337"]
-synonyms: ["AA", "smart account", "programmable account"]
+term: Account Abstraction
+slug: account-abstraction
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80'
+description: >-
+  An architecture treating user accounts and smart contracts uniformly, enabling
+  accounts to have arbitrary logic instead of requiring ECDSA signatures,
+  supporting features like batched transactions and multi-sig natively.
+relatedTerms:
+  - smart-contract
+  - eoa
+  - wallet
+  - erc-4337
+synonyms:
+  - AA
+  - smart account
+  - programmable account
 ---
 
 Account Abstraction is an architectural approach that treats all blockchain accounts as programmable smart contracts rather than requiring fixed cryptographic signature schemes like ECDSA. This shift eliminates the rigid constraints of traditional Externally Owned Accounts, enabling flexible validation logic such as multi-signature requirements, biometric authentication, social recovery mechanisms, and time-locked withdrawals. Safe, formerly Gnosis Safe, exemplifies account abstraction in practice by securing digital assets through its smart contract wallet infrastructure. The technology improves user experience by allowing batched transactions that execute multiple operations in a single action, account recovery options when private keys are lost, and customizable security policies tailored to individual or organizational needs. ERC-4337 has emerged as Ethereum's primary standard for implementing account abstraction without requiring consensus-layer changes. Engineers specializing in account abstraction development are increasingly sought after as wallet providers and decentralized applications compete to deliver smooth onboarding experiences for mainstream users.

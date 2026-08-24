@@ -1,51 +1,77 @@
 ---
-title: "Token Launches and Airdrops"
-description: "How Web3 protocols use tokens to bootstrap growth and reward users."
+title: Token Launches and Airdrops
+description: How Web3 protocols use tokens to bootstrap growth and reward users.
 order: 3
-readTime: "8 min"
-difficulty: "intermediate"
-prerequisites: ["twitter"]
+readTime: 8 min
+difficulty: intermediate
+prerequisites:
+  - twitter
 quiz:
-  - question: "What is the primary purpose of a token airdrop?"
+  - question: What is the primary purpose of a token airdrop?
     options:
-      - "To avoid paying taxes"
-      - "To reward early users, decentralize governance, and bootstrap network effects"
-      - "To hack user wallets"
-      - "To replace Bitcoin"
+      - To avoid paying taxes
+      - >-
+        To reward early users, decentralize governance, and bootstrap network
+        effects
+      - To hack user wallets
+      - To replace Bitcoin
     correct: 1
-    explanation: "Airdrops distribute tokens to early users to reward them for testing the protocol, while simultaneously distributing voting power (governance) to decentralize the network."
-  - question: "What is a 'Sybil attacker' in the context of airdrops?"
+    explanation: >-
+      Airdrops distribute tokens to early users to reward them for testing the
+      protocol, while simultaneously distributing voting power (governance) to
+      decentralize the network.
+  - question: What is a 'Sybil attacker' in the context of airdrops?
     options:
-      - "A virus that deletes tokens"
-      - "A user who creates thousands of fake wallets to farm an airdrop, stealing tokens meant for real users"
-      - "A developer who writes bad code"
-      - "A type of smart contract"
+      - A virus that deletes tokens
+      - >-
+        A user who creates thousands of fake wallets to farm an airdrop,
+        stealing tokens meant for real users
+      - A developer who writes bad code
+      - A type of smart contract
     correct: 1
-    explanation: "Sybil attackers use bots to create thousands of wallets and execute fake transactions. Protocols must use advanced analytics to filter these out so real users get the rewards."
-  - question: "What is 'Tokenomics'?"
+    explanation: >-
+      Sybil attackers use bots to create thousands of wallets and execute fake
+      transactions. Protocols must use advanced analytics to filter these out so
+      real users get the rewards.
+  - question: What is 'Tokenomics'?
     options:
-      - "The study of traditional economics"
-      - "The economic design of a token, including its total supply, emission rate, utility, and distribution"
-      - "A website for tracking token prices"
-      - "The code used to mine Bitcoin"
+      - The study of traditional economics
+      - >-
+        The economic design of a token, including its total supply, emission
+        rate, utility, and distribution
+      - A website for tracking token prices
+      - The code used to mine Bitcoin
     correct: 1
-    explanation: "Tokenomics (Token Economics) dictates how a token works. Bad tokenomics (like infinite supply or no utility) will cause the token price to crash, ruining the protocol's marketing efforts."
-  - question: "What is a 'Vesting Schedule'?"
+    explanation: >-
+      Tokenomics (Token Economics) dictates how a token works. Bad tokenomics
+      (like infinite supply or no utility) will cause the token price to crash,
+      ruining the protocol's marketing efforts.
+  - question: What is a 'Vesting Schedule'?
     options:
-      - "A timeline for updating the website"
-      - "A lock-up period that prevents founders and investors from selling all their tokens immediately after launch"
-      - "A plan for hiring new employees"
-      - "A schedule for smart contract audits"
+      - A timeline for updating the website
+      - >-
+        A lock-up period that prevents founders and investors from selling all
+        their tokens immediately after launch
+      - A plan for hiring new employees
+      - A schedule for smart contract audits
     correct: 1
-    explanation: "Vesting schedules lock tokens in a smart contract. They unlock gradually over years (e.g., 4 years). This aligns the team's incentives with the long-term success of the protocol."
-  - question: "Why do some protocols launch 'Points' programs before a token?"
+    explanation: >-
+      Vesting schedules lock tokens in a smart contract. They unlock gradually
+      over years (e.g., 4 years). This aligns the team's incentives with the
+      long-term success of the protocol.
+  - question: Why do some protocols launch 'Points' programs before a token?
     options:
-      - "Because points are legally binding"
-      - "To gamify user activity and track who deserves an airdrop without explicitly promising financial rewards"
-      - "Because smart contracts cannot handle tokens"
-      - "To charge users money"
+      - Because points are legally binding
+      - >-
+        To gamify user activity and track who deserves an airdrop without
+        explicitly promising financial rewards
+      - Because smart contracts cannot handle tokens
+      - To charge users money
     correct: 1
-    explanation: "Points programs (like loyalty points) track user engagement. They are a marketing tool to drive usage before a token is ready, often serving as a precursor to an official airdrop."
+    explanation: >-
+      Points programs (like loyalty points) track user engagement. They are a
+      marketing tool to drive usage before a token is ready, often serving as a
+      precursor to an official airdrop.
 ---
 
 ## The Cold Start Problem

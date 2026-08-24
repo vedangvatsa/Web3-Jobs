@@ -1,13 +1,13 @@
 ---
-
-title: "Consensus Mechanisms in Blockchain Networks explained"
-image: "/images/johannes-plenio-FZpCcPss9to-unsplash.jpg"
-data-ai-hint: "blockchain consensus team"
-description: "A clear explanation of how consensus mechanisms work. This guide explains Proof-of-Work (PoW) and Proof-of-Stake (PoS) and explains their role in."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Consensus Mechanisms in Blockchain Networks explained
+image: /images/johannes-plenio-FZpCcPss9to-unsplash.jpg
+data-ai-hint: blockchain consensus team
+description: >-
+  A clear explanation of how consensus mechanisms work. This guide explains
+  Proof-of-Work (PoW) and Proof-of-Stake (PoS) and explains their role in.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 A **[blockchain](/what-is-a-blockchain)** serves as a distributed database, functioning as a shared ledger maintained by a network of untrusting computers. This setup raises a critical issue: How do these independent participants reach a consensus on a single version of truth? How do they determine the validity of transactions and their sequence? The answer is found in the **consensus mechanism**.

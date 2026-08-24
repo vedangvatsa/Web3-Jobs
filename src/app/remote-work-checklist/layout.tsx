@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/remote-work-checklist',
   images: [
    {
-    url: '/api/og?type=default&title=Remote%20Work%20Checklist',
+    url: 'https://hashtagweb3.com/api/og?type=default&title=Remote%20Work%20Checklist',
     width: 1200,
     height: 630,
     alt: 'Remote Work Checklist',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Remote Work Readiness Checklist | Free Template',
   description: 'Use a practical checklist to improve your remote setup for Web3 work.',
-  images: ['/api/og?type=default&title=Remote%20Work%20Checklist'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Remote%20Work%20Checklist'],
  },
 };
 

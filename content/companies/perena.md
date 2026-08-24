@@ -1,6 +1,6 @@
 ---
 name: Perena
-website: https://perena.org
+website: 'https://perena.org'
 founded: 2024
 category: DeFi / Stablecoin
 headquarters: Remote

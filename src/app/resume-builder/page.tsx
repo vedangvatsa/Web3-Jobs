@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description: 'Free AI-powered resume builder for blockchain and Web3 professionals. Build an ATS-optimized resume tailored for DeFi, Solidity, Smart Contract, and DAO roles.',
   url: 'https://hashtagweb3.com/resume-builder',
   images: [{
-   url: '/api/og?type=default&title=Web3%20Resume%20Builder',
+   url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Resume%20Builder',
    width: 1200,
    height: 630,
    alt: 'Web3 Resume Builder Tool',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 Resume Builder | Create ATS-Optimized Crypto Resumes',
   description: 'Free AI-powered resume builder for blockchain and Web3 professionals. Build an ATS-optimized resume tailored for DeFi, Solidity, Smart Contract, and DAO roles.',
-  images: ['/api/og?type=default&title=Web3%20Resume%20Builder'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Resume%20Builder'],
  },
 };
 

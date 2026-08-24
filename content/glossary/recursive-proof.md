@@ -1,12 +1,22 @@
 ---
-term: "Recursive Proof"
-slug: "recursive-proof"
-category: "security"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "A cryptographic proof that can prove other proofs, enabling compression of large computations into single small proofs through iterative proof composition."
-relatedTerms: ["proof", "zero-knowledge-proof", "cryptography", "scaling"]
-synonyms: ["proof recursion", "iterated proofs", "proof composition"]
+term: Recursive Proof
+slug: recursive-proof
+category: security
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A cryptographic proof that can prove other proofs, enabling compression of
+  large computations into single small proofs through iterative proof
+  composition.
+relatedTerms:
+  - proof
+  - zero-knowledge-proof
+  - cryptography
+  - scaling
+synonyms:
+  - proof recursion
+  - iterated proofs
+  - proof composition
 ---
 
 Recursive Proof refers to a cryptographic technique where a proof can verify the validity of other proofs, allowing massive computations to be compressed into a single, compact proof through iterative composition. Instead of verifying thousands of transactions individually, a recursive proof can verify a proof that verified another proof, continuing this chain until millions of operations are represented by one small cryptographic attestation. StarkWare pioneered this approach with their STARK-based recursive proving system, which powers StarkNet. This compression enables blockchain networks to scale without sacrificing security guarantees. For professionals entering the Web3 space, understanding recursive proofs is increasingly valuable as zero-knowledge scaling solutions expand and demand grows for engineers who can work with these advanced cryptographic systems.

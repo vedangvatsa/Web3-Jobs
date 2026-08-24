@@ -1,6 +1,6 @@
 ---
 name: Noise
-website: https://noise.xyz
+website: 'https://noise.xyz'
 category: Other
 description: Noise is a platform focused on audio content and community engagement.
 ---

@@ -1,12 +1,22 @@
 ---
-term: "Zero-Coupon Bond"
-slug: "zero-coupon-bond"
-category: "defi"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "A financial instrument that pays no interest during its term but is sold at a significant discount to its face value, with profit made on the difference (redemption yield)."
-relatedTerms: ["fixed-income", "defi", "bonds", "yield"]
-synonyms: ["zero-coupon", "deep-discount bond", "bullet bond"]
+term: Zero-Coupon Bond
+slug: zero-coupon-bond
+category: defi
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  A financial instrument that pays no interest during its term but is sold at a
+  significant discount to its face value, with profit made on the difference
+  (redemption yield).
+relatedTerms:
+  - fixed-income
+  - defi
+  - bonds
+  - yield
+synonyms:
+  - zero-coupon
+  - deep-discount bond
+  - bullet bond
 ---
 
 Zero-Coupon Bond refers to a financial instrument that pays no periodic interest but instead trades at a significant discount to its face value. Investors earn profit through the difference between purchase price and redemption value at maturity. For example, purchasing a bond for $90 that matures at $100 after one year yields an approximate return of 11%. In decentralized finance, protocols like Pendle Finance have pioneered zero-coupon bond mechanics by splitting yield-bearing tokens into principal and yield components. This enables users to lock in fixed returns or speculate on future yields. As traditional finance institutions explore blockchain-based bond issuance and DeFi protocols mature their fixed-income offerings, professionals who understand zero-coupon bond mechanics and their on-chain implementations are becoming valuable to both crypto-native treasuries and institutional investors.

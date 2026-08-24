@@ -1,51 +1,78 @@
 ---
-title: "Decentralized Compute Networks"
-description: "How decentralized GPU marketplaces are breaking the AI compute monopoly."
+title: Decentralized Compute Networks
+description: How decentralized GPU marketplaces are breaking the AI compute monopoly.
 order: 4
-readTime: "10 min"
-difficulty: "intermediate"
-prerequisites: ["introduction"]
+readTime: 10 min
+difficulty: intermediate
+prerequisites:
+  - introduction
 quiz:
-  - question: "What is the main problem with centralized AI compute?"
+  - question: What is the main problem with centralized AI compute?
     options:
-      - "GPUs are too slow for AI training."
-      - "A small number of companies control access to the hardware needed for AI."
-      - "There are not enough data centers in the world."
-      - "Electricity is too expensive everywhere."
+      - GPUs are too slow for AI training.
+      - >-
+        A small number of companies control access to the hardware needed for
+        AI.
+      - There are not enough data centers in the world.
+      - Electricity is too expensive everywhere.
     correct: 1
-    explanation: "NVIDIA GPUs are the primary hardware for AI training, and access is controlled by a handful of hyperscalers (AWS, Google Cloud, Azure). This creates bottlenecks, high prices, and gatekeeping."
-  - question: "How does Akash Network reduce compute costs?"
+    explanation: >-
+      NVIDIA GPUs are the primary hardware for AI training, and access is
+      controlled by a handful of hyperscalers (AWS, Google Cloud, Azure). This
+      creates bottlenecks, high prices, and gatekeeping.
+  - question: How does Akash Network reduce compute costs?
     options:
-      - "By manufacturing its own GPUs."
-      - "By matching buyers with providers who have idle GPU capacity in a permissionless marketplace."
-      - "By using CPUs instead of GPUs."
-      - "By running everything on a single supercomputer."
+      - By manufacturing its own GPUs.
+      - >-
+        By matching buyers with providers who have idle GPU capacity in a
+        permissionless marketplace.
+      - By using CPUs instead of GPUs.
+      - By running everything on a single supercomputer.
     correct: 1
-    explanation: "Akash acts as a decentralized marketplace where anyone with spare GPU capacity can list it, and anyone who needs compute can bid on it. This creates price competition and eliminates middlemen."
-  - question: "What is the main advantage of decentralized compute networks over AWS or Google Cloud?"
+    explanation: >-
+      Akash acts as a decentralized marketplace where anyone with spare GPU
+      capacity can list it, and anyone who needs compute can bid on it. This
+      creates price competition and eliminates middlemen.
+  - question: >-
+      What is the main advantage of decentralized compute networks over AWS or
+      Google Cloud?
     options:
-      - "They are always faster."
-      - "They are permissionless and typically 50-85% cheaper due to open competition among GPU providers."
-      - "They have better customer support."
-      - "They are owned by governments."
+      - They are always faster.
+      - >-
+        They are permissionless and typically 50-85% cheaper due to open
+        competition among GPU providers.
+      - They have better customer support.
+      - They are owned by governments.
     correct: 1
-    explanation: "Decentralized compute creates an open market where anyone can supply GPU power. This competition drives prices significantly below the markup-heavy pricing of hyperscalers, and there are no gatekeepers deciding who can access compute."
-  - question: "What is the 'verification problem' in decentralized compute?"
+    explanation: >-
+      Decentralized compute creates an open market where anyone can supply GPU
+      power. This competition drives prices significantly below the markup-heavy
+      pricing of hyperscalers, and there are no gatekeepers deciding who can
+      access compute.
+  - question: What is the 'verification problem' in decentralized compute?
     options:
-      - "Verifying the identity of GPU providers."
-      - "Proving that a remote GPU actually performed the requested computation correctly, rather than returning garbage results."
-      - "Verifying that users paid the right amount."
-      - "Checking that the network has enough bandwidth."
+      - Verifying the identity of GPU providers.
+      - >-
+        Proving that a remote GPU actually performed the requested computation
+        correctly, rather than returning garbage results.
+      - Verifying that users paid the right amount.
+      - Checking that the network has enough bandwidth.
     correct: 1
-    explanation: "When you rent a GPU from an anonymous provider, you need cryptographic proof that the computation was done correctly. Without verification, a malicious provider could return random data and still collect payment."
-  - question: "Which project focuses specifically on verifiable AI model training?"
+    explanation: >-
+      When you rent a GPU from an anonymous provider, you need cryptographic
+      proof that the computation was done correctly. Without verification, a
+      malicious provider could return random data and still collect payment.
+  - question: Which project focuses specifically on verifiable AI model training?
     options:
-      - "Uniswap"
-      - "Gensyn"
-      - "OpenSea"
-      - "Aave"
+      - Uniswap
+      - Gensyn
+      - OpenSea
+      - Aave
     correct: 1
-    explanation: "Gensyn is building infrastructure for verifiable machine learning training on decentralized hardware. It uses novel verification methods to ensure that distributed training tasks are completed correctly."
+    explanation: >-
+      Gensyn is building infrastructure for verifiable machine learning training
+      on decentralized hardware. It uses novel verification methods to ensure
+      that distributed training tasks are completed correctly.
 ---
 
 ## The GPU Bottleneck

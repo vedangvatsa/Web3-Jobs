@@ -1,6 +1,6 @@
 ---
 name: M^0 Labs
-website: https://m0.org
+website: 'https://m0.org'
 category: Other
 description: M^0 Labs focuses on building decentralized applications and protocols.
 ---

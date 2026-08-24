@@ -1,12 +1,22 @@
 ---
-term: "Reentrancy"
-slug: "reentrancy"
-category: "security"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1611974519553-bc61f192d934?w=1200&q=80"
-description: "A smart contract vulnerability where a function can be called recursively before internal state is updated, allowing attackers to drain funds through repeated calls."
-relatedTerms: ["smart-contract", "security", "exploit", "vulnerability"]
-synonyms: ["recursive call attack", "function reentrancy", "state attack"]
+term: Reentrancy
+slug: reentrancy
+category: security
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1611974519553-bc61f192d934?w=1200&q=80'
+description: >-
+  A smart contract vulnerability where a function can be called recursively
+  before internal state is updated, allowing attackers to drain funds through
+  repeated calls.
+relatedTerms:
+  - smart-contract
+  - security
+  - exploit
+  - vulnerability
+synonyms:
+  - recursive call attack
+  - function reentrancy
+  - state attack
 ---
 
 Reentrancy is a smart contract vulnerability that occurs when a function can be called repeatedly before its internal state updates are complete, enabling attackers to drain funds through recursive calls. The most infamous example is the 2016 DAO hack on Ethereum, where an attacker exploited a reentrancy flaw in the withdraw function to siphon 3.6 million ETH, triggering a contentious hard fork that created Ethereum Classic. The attack works by having a malicious contract's receive function repeatedly call back into the vulnerable withdraw function before the victim contract can update the sender's balance to zero. Modern developers prevent reentrancy using the checks-effects-interactions pattern or reentrancy guard modifiers that block recursive calls. Security auditors and smart contract developers who understand reentrancy vulnerabilities remain highly sought after as protocols prioritize protecting user funds.
@@ -142,7 +152,7 @@ Preventing reentrancy:
 
 - **Use Reentrancy Guards**: Use OpenZeppelin's ReentrancyGuard.
 
-- **Avoid Dangerous Patterns**: Don't use .call for payments if possible.
+- **Avoid Dangerous Patterns**: Don't use.call for payments if possible.
 
 - **Audit Thoroughly**: Have contracts professionally audited.
 

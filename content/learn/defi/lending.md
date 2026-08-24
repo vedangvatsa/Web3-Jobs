@@ -1,51 +1,72 @@
 ---
-title: "Lending and Borrowing in DeFi"
-description: "How smart contracts enable loans without credit checks."
+title: Lending and Borrowing in DeFi
+description: How smart contracts enable loans without credit checks.
 order: 2
-readTime: "7 min"
-difficulty: "intermediate"
-prerequisites: ["dexs"]
+readTime: 7 min
+difficulty: intermediate
+prerequisites:
+  - dexs
 quiz:
-  - question: "How does DeFi solve the problem of not having credit scores?"
+  - question: How does DeFi solve the problem of not having credit scores?
     options:
-      - "By requiring passports"
-      - "By using overcollateralization (depositing more value than you borrow)"
-      - "By lending small amounts only"
-      - "By using social media profiles"
+      - By requiring passports
+      - By using overcollateralization (depositing more value than you borrow)
+      - By lending small amounts only
+      - By using social media profiles
     correct: 1
-    explanation: "Because DeFi is anonymous, protocols use overcollateralization. You must deposit more crypto than you want to borrow, ensuring the protocol can always recover the funds if you do not pay."
-  - question: "What is an LTV (Loan-to-Value) ratio?"
+    explanation: >-
+      Because DeFi is anonymous, protocols use overcollateralization. You must
+      deposit more crypto than you want to borrow, ensuring the protocol can
+      always recover the funds if you do not pay.
+  - question: What is an LTV (Loan-to-Value) ratio?
     options:
-      - "The interest rate on the loan"
-      - "The maximum amount you can borrow against your collateral"
-      - "The price of the token"
-      - "The fee the protocol charges"
+      - The interest rate on the loan
+      - The maximum amount you can borrow against your collateral
+      - The price of the token
+      - The fee the protocol charges
     correct: 1
-    explanation: "LTV dictates borrowing limits. If you deposit $1000 of ETH and the LTV is 80%, you can borrow a maximum of $800."
-  - question: "What happens if the value of your collateral drops below the protocol's required threshold?"
+    explanation: >-
+      LTV dictates borrowing limits. If you deposit $1000 of ETH and the LTV is
+      80%, you can borrow a maximum of $800.
+  - question: >-
+      What happens if the value of your collateral drops below the protocol's
+      required threshold?
     options:
-      - "You get a warning email"
-      - "Your collateral is automatically liquidated (sold) by the smart contract"
-      - "Your debt is forgiven"
-      - "Nothing happens"
+      - You get a warning email
+      - Your collateral is automatically liquidated (sold) by the smart contract
+      - Your debt is forgiven
+      - Nothing happens
     correct: 1
-    explanation: "To protect lenders, the smart contract automatically sells your collateral to pay off the debt if its value drops too close to the borrowed amount. This is called liquidation."
-  - question: "Who sets the interest rates on Aave and Compound?"
+    explanation: >-
+      To protect lenders, the smart contract automatically sells your collateral
+      to pay off the debt if its value drops too close to the borrowed amount.
+      This is called liquidation.
+  - question: Who sets the interest rates on Aave and Compound?
     options:
-      - "A board of directors"
-      - "An algorithm based on supply and demand (utilization rate)"
-      - "The US Federal Reserve"
-      - "The borrower"
+      - A board of directors
+      - An algorithm based on supply and demand (use rate)
+      - The US Federal Reserve
+      - The borrower
     correct: 1
-    explanation: "Rates are algorithmic. If a pool of USDC is heavily borrowed (high utilization), the interest rate automatically increases to encourage more people to deposit and fewer to borrow."
-  - question: "Why would someone borrow money if they already have crypto to use as collateral?"
+    explanation: >-
+      Rates are algorithmic. If a pool of USDC is heavily borrowed (high use),
+      the interest rate automatically increases to encourage more people to
+      deposit and fewer to borrow.
+  - question: >-
+      Why would someone borrow money if they already have crypto to use as
+      collateral?
     options:
-      - "They want to avoid paying taxes on selling their crypto"
-      - "They want to get use (e.g., borrow stables to buy more ETH)"
-      - "They need cash for real-world expenses but don't want to sell their crypto"
-      - "All of the above"
+      - They want to avoid paying taxes on selling their crypto
+      - 'They want to get use (e.g., borrow stables to buy more ETH)'
+      - >-
+        They need cash for real-world expenses but don't want to sell their
+        crypto
+      - All of the above
     correct: 3
-    explanation: "People use DeFi borrowing to avoid taxable events, gain use (borrowing to invest more), or get liquid cash while keeping their long-term crypto positions open."
+    explanation: >-
+      People use DeFi borrowing to avoid taxable events, gain use (borrowing to
+      invest more), or get liquid cash while keeping their long-term crypto
+      positions open.
 ---
 
 ## Loans without banks
@@ -113,11 +134,11 @@ The smart contract will automatically trigger a **liquidation**. It allows a thi
 
 ## Algorithmic Interest Rates
 
-In DeFi, no central bank sets interest rates. They are determined by **utilization** (supply and demand).
+In DeFi, no central bank sets interest rates. They are determined by **use** (supply and demand).
 
-If a pool has 10 million USDC and borrowers have taken 1 million USDC, the utilization is 10%. There is plenty of supply, so interest rates are low (e.g., 2% APY).
+If a pool has 10 million USDC and borrowers have taken 1 million USDC, the use is 10%. There is plenty of supply, so interest rates are low (e.g., 2% APY).
 
-If borrowers take 9 million USDC, utilization is 90%. The pool is almost empty. The algorithm automatically spikes the interest rate (e.g., to 20% APY). This does two things:
+If borrowers take 9 million USDC, use is 90%. The pool is almost empty. The algorithm automatically spikes the interest rate (e.g., to 20% APY). This does two things:
 1. High rates force borrowers to pay back their loans.
 2. High rates entice new lenders to deposit USDC to earn the yield.
 
@@ -127,5 +148,5 @@ The system balances itself purely through economic incentives coded into smart c
 
 - DeFi lending relies on **overcollateralization** instead of credit checks.
 - If your collateral value drops too low, it is automatically **liquidated**.
-- Interest rates are driven by an algorithm based on pool utilization.
+- Interest rates are driven by an algorithm based on pool use.
 - Lenders earn interest, and borrowers get liquidity without selling their assets.

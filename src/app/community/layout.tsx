@@ -12,11 +12,11 @@ export const metadata: Metadata = {
   title: 'Web3 Community',
   description: 'Connect with the Web3 community. Discover industry partners, major companies hiring, and events.',
   url: 'https://hashtagweb3.com/community',
-  images: [{ url: '/api/og?type=default&title=Web3%20Community', width: 1200, height: 630 }],
+  images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Community', width: 1200, height: 630 }],
  },
  twitter: {
   card: 'summary_large_image',
-  images: ['/api/og?type=default&title=Web3%20Community'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Community'],
  },
 };
 

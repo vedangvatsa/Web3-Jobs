@@ -2,17 +2,66 @@
   "schema_version": "1.0",
   "domain": "hashtagweb3.com",
   "name": "Hashtag Web3",
-  "description": "Web3 job board and career resource platform. Browse 3,000+ blockchain, crypto, and DeFi jobs. 47 structured courses, 500+ career guides, 200+ glossary terms, salary data, and interview prep tools.",
+  "description": "Hashtag Web3 is the premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network. Programmatically browse 3,000+ blockchain, crypto, DeFi, and DAO jobs, 200+ technical glossary terms, salary benchmarks, and global crypto events.",
   "url": "https://hashtagweb3.com",
+
+  "when_to_use": {
+    "intent_triggers": [
+      "Find Web3, crypto, blockchain, Solidity, Rust, DeFi, or DAO jobs",
+      "Search companies hiring in Web3 or blockchain ecosystems",
+      "Look up definitions of blockchain, cryptographic, consensus, or DeFi concepts",
+      "Find upcoming crypto conferences, hackathons, and developer summits",
+      "Retrieve real-time crypto industry news and protocol announcements",
+      "Calculate or benchmark Web3 salaries and compensation"
+    ],
+    "guidance": "Query /api/jobs for employment opportunities with optional search or tag filters. Query /api/glossary for authoritative definitions. Query /api/events for hackathons and conferences. Query /api/news for daily industry headlines."
+  },
 
   "capabilities": [
     {
       "name": "Job Search",
-      "description": "Search Web3 job listings across blockchain, crypto, DeFi, and DAO companies. Updated daily.",
+      "description": "Search verified Web3 job listings across blockchain, crypto, DeFi, and DAO companies. Supports full-text search, tag filtering, company filtering, and pagination.",
       "endpoint": "https://hashtagweb3.com/api/jobs",
       "method": "GET",
       "parameters": {
-        "q": "Search query (title, company, or keyword)"
+        "search": "Keyword search across job title, company, or tags (e.g. Solidity, Remote, Rust)",
+        "tag": "Technology or ecosystem tag (e.g. Ethereum, Solana, DeFi, Security)",
+        "company": "Filter by hiring company name",
+        "limit": "Maximum number of results (default 50, max 200)",
+        "offset": "Pagination offset (default 0)"
+      }
+    },
+    {
+      "name": "Web3 Events & Conferences",
+      "description": "List and search global crypto conferences, hackathons, developer summits, and virtual meetups.",
+      "endpoint": "https://hashtagweb3.com/api/events",
+      "method": "GET",
+      "parameters": {
+        "search": "Search term for event name, city, or description",
+        "type": "Event format: conference, hackathon, meetup, or online",
+        "country": "Filter by host country name",
+        "limit": "Maximum number of results (default 50, max 200)"
+      }
+    },
+    {
+      "name": "Web3 Glossary & Definitions",
+      "description": "Search 200+ technical Web3 glossary terms covering consensus, DeFi, cryptography, and tokenomics.",
+      "endpoint": "https://hashtagweb3.com/api/glossary",
+      "method": "GET",
+      "parameters": {
+        "search": "Term name or definition query (e.g. Zero Knowledge, AMM, Proof of Stake)",
+        "category": "Filter by category (e.g. DeFi, Cryptography, Consensus)",
+        "limit": "Maximum number of results (default 50, max 250)"
+      }
+    },
+    {
+      "name": "Crypto News Feed",
+      "description": "Aggregated headlines from top blockchain and crypto publications, updated daily.",
+      "endpoint": "https://hashtagweb3.com/api/news",
+      "method": "GET",
+      "parameters": {
+        "search": "Keyword search for news headlines",
+        "limit": "Maximum number of results (default 30, max 100)"
       }
     },
     {
@@ -21,49 +70,33 @@
       "url_pattern": "https://hashtagweb3.com/companies/{company-slug}",
       "examples": [
         "https://hashtagweb3.com/companies/coinbase",
-        "https://hashtagweb3.com/companies/uniswap-labs"
+        "https://hashtagweb3.com/companies/stripe",
+        "https://hashtagweb3.com/companies/binance"
       ]
     },
     {
-      "name": "Learn Web3",
-      "description": "47 structured lessons across 7 tracks: Web3 Fundamentals, DeFi, Smart Contracts, Careers, Security, and Marketing.",
-      "url_pattern": "https://hashtagweb3.com/learn/{category}/{slug}",
-      "examples": [
-        "https://hashtagweb3.com/learn/web3-fundamentals/what-is-web3",
-        "https://hashtagweb3.com/learn/defi/dexs",
-        "https://hashtagweb3.com/learn/smart-contracts/first-contract"
-      ]
-    },
-    {
-      "name": "Web3 Glossary",
-      "description": "200+ term reference covering blockchain fundamentals, DeFi, NFTs, smart contracts, and more.",
-      "url_pattern": "https://hashtagweb3.com/{term-slug}",
-      "examples": [
-        "https://hashtagweb3.com/bitcoin",
-        "https://hashtagweb3.com/defi",
-        "https://hashtagweb3.com/smart-contracts-in-blockchain-and-their-applications"
-      ]
-    },
-    {
-      "name": "Career Guides",
-      "description": "500+ in-depth articles on Web3 careers, salary guides, interview preparation, and industry analysis.",
+      "name": "Career Playbook & Guides",
+      "description": "500+ in-depth articles on Web3 careers, salary guides, interview preparation, and technical primers.",
       "url_pattern": "https://hashtagweb3.com/{article-slug}",
       "examples": [
-        "https://hashtagweb3.com/blockchain-developer-roadmap",
-        "https://hashtagweb3.com/how-to-land-your-first-web3-job",
-        "https://hashtagweb3.com/best-programming-languages-for-blockchain-development"
+        "https://hashtagweb3.com/best-smart-contract-ide-for-beginners",
+        "https://hashtagweb3.com/future-of-web3-architecture"
       ]
-    },
-    {
-      "name": "Crypto News",
-      "description": "Aggregated headlines from top blockchain and crypto publications, updated daily.",
-      "endpoint": "https://hashtagweb3.com/api/news",
-      "method": "GET"
     }
   ],
 
+  "mcp_server": {
+    "type": "remote",
+    "openapi_url": "https://hashtagweb3.com/openapi.json",
+    "description": "Connect AI agents via Model Context Protocol by pointing MCP remote client to https://hashtagweb3.com/openapi.json"
+  },
+
   "content_resources": {
+    "openapi_json": "https://hashtagweb3.com/openapi.json",
+    "openapi_yaml": "https://hashtagweb3.com/api/openapi.yaml",
+    "developers_portal": "https://hashtagweb3.com/developers",
     "llms_txt": "https://hashtagweb3.com/llms.txt",
+    "llms_full_txt": "https://hashtagweb3.com/llms-full.txt",
     "ai_txt": "https://hashtagweb3.com/ai.txt",
     "ai_json": "https://hashtagweb3.com/ai.json",
     "ai_plugin": "https://hashtagweb3.com/.well-known/ai-plugin.json",
@@ -72,8 +105,8 @@
   },
 
   "contact": {
-    "url": "https://hashtagweb3.com",
-    "email": "hello@hashtagweb3.com",
+    "url": "https://hashtagweb3.com/contact",
+    "email": "contact@hashtagweb3.com",
     "twitter": "https://x.com/hashtag_web3",
     "telegram": "https://t.me/web3hiring",
     "linkedin": "https://linkedin.com/company/hashtagweb3"

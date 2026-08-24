@@ -1,13 +1,14 @@
 ---
-
-title: "Blockchain Explorer Guide for Bitcoin and Ethereum"
-image: "/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg"
-data-ai-hint: "blockchain explorer map"
-description: "A beginner's guide to using blockchain explorers like Etherscan and Blockchain.com. Learn how to look up transactions, explore blocks, and read smart."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Blockchain Explorer Guide for Bitcoin and Ethereum
+image: /images/aideal-hwa-OYzbqk2y26c-unsplash.jpg
+data-ai-hint: blockchain explorer map
+description: >-
+  A beginner's guide to using blockchain explorers like Etherscan and
+  Blockchain.com. Learn how to look up transactions, explore blocks, and read
+  smart.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 A public [blockchain](/what-is-a-blockchain) serves as a transparent and accessible ledger. Every transaction is recorded and available for anyone to view. To access this information, users rely on a **blockchain explorer**. A blockchain explorer is a web application that enables users to examine blockchain data in a user-friendly format. Think of it as a search engine tailored for blockchain information.

@@ -1,13 +1,23 @@
 ---
-term: "Wallet"
-slug: "wallet"
-category: "Security"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-imageAlt: "Digital cryptocurrency wallet interface"
-description: "A software or hardware tool that stores cryptographic keys enabling users to send, receive, and manage cryptocurrency and interact with blockchain applications."
-relatedTerms: ["Private Key", "Seed Phrase", "MetaMask", "Cold Wallet", "Hot Wallet"]
-synonyms: ["Crypto Wallet", "Digital Wallet"]
+term: Wallet
+slug: wallet
+category: Security
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+imageAlt: Digital cryptocurrency wallet interface
+description: >-
+  A software or hardware tool that stores cryptographic keys enabling users to
+  send, receive, and manage cryptocurrency and interact with blockchain
+  applications.
+relatedTerms:
+  - Private Key
+  - Seed Phrase
+  - MetaMask
+  - Cold Wallet
+  - Hot Wallet
+synonyms:
+  - Crypto Wallet
+  - Digital Wallet
 ---
 
 Wallet refers to a software or hardware tool that stores the cryptographic keys necessary for sending, receiving, and managing cryptocurrency while interacting with blockchain applications. Despite the name, wallets do not actually hold digital assets. They secure the private keys that prove ownership and authorize transactions recorded on the blockchain. Wallets range from custodial solutions where a third party manages keys to self-custodial options giving users complete control, as well as hardware devices that store keys offline for enhanced security. Understanding wallet architecture, security best practices, and user experience design has become essential knowledge for Web3 professionals, with wallet-related roles spanning security engineering, frontend development, and product management across the cryptocurrency industry.

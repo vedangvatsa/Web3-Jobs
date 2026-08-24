@@ -1,8 +1,10 @@
 ---
 name: Solana Foundation
-website: https://solana.foundation
+website: 'https://solana.foundation'
 category: Other
-description: Supports the Solana blockchain ecosystem through grants and community initiatives.
+description: >-
+  Supports the Solana blockchain ecosystem through grants and community
+  initiatives.
 ---
 
 The Solana Foundation is dedicated to supporting the development and growth of the Solana blockchain ecosystem. It provides funding and resources to developers, projects, and initiatives that contribute to the network's advancement. The foundation focuses on build a active community and promoting the use of the Solana blockchain for decentralized applications.

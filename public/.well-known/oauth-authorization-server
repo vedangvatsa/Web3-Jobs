@@ -1,0 +1,35 @@
+{
+  "issuer": "https://hashtagweb3.com",
+  "authorization_endpoint": "https://hashtagweb3.com/api/auth",
+  "token_endpoint": "https://hashtagweb3.com/api/auth/claim",
+  "revocation_endpoint": "https://hashtagweb3.com/api/auth/revoke",
+  "registration_endpoint": "https://hashtagweb3.com/api/auth/register",
+  "response_types_supported": ["token", "code"],
+  "grant_types_supported": ["client_credentials", "urn:ietf:params:oauth:grant-type:token-exchange", "anonymous"],
+  "scopes_supported": [
+    "read:jobs",
+    "read:news",
+    "read:events",
+    "read:glossary"
+  ],
+  "agent_auth": {
+    "register_uri": "https://hashtagweb3.com/api/auth/register",
+    "claim_uri": "https://hashtagweb3.com/api/auth/claim",
+    "revocation_uri": "https://hashtagweb3.com/api/auth/revoke",
+    "identity_types_supported": [
+      "anonymous",
+      "identity_assertion"
+    ],
+    "anonymous": {
+      "credential_types_supported": ["bearer_token"]
+    },
+    "identity_assertion": {
+      "assertion_types_supported": [
+        "verified_email",
+        "urn:ietf:params:oauth:token-type:id-jag"
+      ],
+      "credential_types_supported": ["bearer_token"]
+    },
+    "skill": "https://hashtagweb3.com/auth.md"
+  }
+}

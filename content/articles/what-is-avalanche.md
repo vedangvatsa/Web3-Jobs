@@ -1,13 +1,13 @@
 ---
-
-title: "What is Avalanche? A Guide to the High-Throughput Blockchain"
-image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
-data-ai-hint: "avalanche blockchain network"
-description: "Explore the Avalanche consensus mechanism and how it powers fast, scalable DeFi."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is Avalanche? A Guide to the High-Throughput Blockchain
+image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
+data-ai-hint: avalanche blockchain network
+description: >-
+  Explore the Avalanche consensus mechanism and how it powers fast, scalable
+  DeFi.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Avalanche (AVAX) is a high-performance, open-source [Layer 1 blockchain](/what-is-a-layer-1-blockchain) that supports a diverse range of decentralized applications and enterprise blockchain solutions. Launched in 2020 by Ava Labs, Avalanche focuses on providing near-instant transaction finality and a scalable platform for developers.

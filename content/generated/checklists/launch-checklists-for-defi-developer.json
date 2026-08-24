@@ -115,7 +115,7 @@
           },
           {
             "title": "Configure interest rate models",
-            "description": "Set utilization targets and rate curves appropriately.",
+            "description": "Set use targets and rate curves appropriately.",
             "priority": "critical",
             "category": "Economics"
           },
@@ -253,7 +253,7 @@
           },
           {
             "title": "Set up protocol dashboard",
-            "description": "Real-time TVL, utilization, and health metrics.",
+            "description": "Real-time TVL, use, and health metrics.",
             "priority": "critical",
             "category": "Analytics"
           },
@@ -409,7 +409,7 @@
         "items": [
           {
             "title": "Monitor protocol health daily",
-            "description": "Check TVL, utilization, bad debt, and anomalies.",
+            "description": "Check TVL, use, bad debt, and anomalies.",
             "priority": "critical",
             "category": "Monitoring"
           },

@@ -1,11 +1,15 @@
 ---
 title: 'Network School: A Startup Society for Builders'
-image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHl8ZW58MHx8fHwxNzA5MzE2NDI5fDA&ixlib=rb-4.0.3&q=80&w=1080'
-description: 'Network School is a startup society on an island off Singapore. Co-living, coworking, and community for remote workers, founders, and creators. From $1,500/month.'
-category: 'Career Guides'
-data-ai-hint: 'startup society co-living coworking'
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+image: >-
+  https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHl8ZW58MHx8fHwxNzA5MzE2NDI5fDA&ixlib=rb-4.0.3&q=80&w=1080
+description: >-
+  Network School is a startup society on an island off Singapore. Co-living,
+  coworking, and community for remote workers, founders, and creators. From
+  $1,500/month.
+category: Career Guides
+data-ai-hint: startup society co-living coworking
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Network School operates as a startup society, merging co-living, coworking, and community on an island near Singapore. This space caters specifically to remote workers, founders, and creators who seek a focused environment with essential infrastructure and peers.
@@ -55,7 +59,7 @@ Network School uses a month-to-month commitment model, allowing flexibility. How
 
 ## Location Details
 
-Network School is strategically located on an island off Singapore, providing the perfect balance between accessibility and tranquility. The island is only a short commute to Singapore’s city center, making it convenient for investor meetings and market access. The lower cost of living on the island, combined with a favorable tax structure for business operations, creates an ideal environment for founders.
+Network School is strategically located on an island off Singapore, providing the perfect balance between accessibility and tranquility. The island is only a short commute to Singapore's city center, making it convenient for investor meetings and market access. The lower cost of living on the island, combined with a favorable tax structure for business operations, creates an ideal environment for founders.
 
 ## Daily Life at Network School
 

@@ -1,6 +1,6 @@
 ---
 name: Lido
-website: https://lido.fi
+website: 'https://lido.fi'
 category: DeFi Protocol
 description: Lido provides liquid staking solutions for Ethereum and other blockchains.
 ---

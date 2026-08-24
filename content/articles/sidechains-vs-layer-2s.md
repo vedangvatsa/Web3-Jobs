@@ -1,13 +1,13 @@
 ---
-
-title: "Sidechains vs. Layer 2s: What's the Difference?"
-image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
-data-ai-hint: "blockchain network difference"
-description: "A guide to the key differences between two major types of blockchain scaling solutions: Sidechains and Layer 2 Rollups. Learn how they differ in their."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Sidechains vs. Layer 2s: What''s the Difference?'
+image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
+data-ai-hint: blockchain network difference
+description: >-
+  A guide to the key differences between two major types of blockchain scaling
+  solutions: Sidechains and Layer 2 Rollups. Learn how they differ in their.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 As [Ethereum](/what-is-ethereum) has gained traction, the demand for scalability has surged. The network needs to handle more transactions quickly and affordably. Two primary solutions for scaling Ethereum are **Sidechains** and **Layer 2s (L2s)**. 

@@ -1,12 +1,21 @@
 ---
-term: "Conditional Order"
-slug: "conditional-order"
-category: "trading"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
-description: "A trading order that only executes when specified conditions are met, enabling automated trading strategies based on price, time, or other market conditions."
-relatedTerms: ["order-book", "dex", "trading", "limit-order"]
-synonyms: ["stop order", "triggered order", "conditional trade"]
+term: Conditional Order
+slug: conditional-order
+category: trading
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80'
+description: >-
+  A trading order that only executes when specified conditions are met, enabling
+  automated trading strategies based on price, time, or other market conditions.
+relatedTerms:
+  - order-book
+  - dex
+  - trading
+  - limit-order
+synonyms:
+  - stop order
+  - triggered order
+  - conditional trade
 ---
 
 Conditional Order refers to a trading instruction that executes automatically only when predefined criteria are satisfied, such as price thresholds, time triggers, or complex market conditions. This mechanism enables traders to implement strategies without constant market monitoring, automating decisions like selling an asset when it reaches a target price or buying when technical indicators align. In traditional finance, stop-loss and take-profit orders represent basic conditional orders, while decentralized protocols like dYdX and GMX have expanded these capabilities to include multi-condition triggers and cross-asset dependencies. DeFi protocols increasingly compete on advanced order types, with conditional execution becoming a standard feature across major exchanges. Professionals who understand conditional order implementation and smart contract automation find strong demand in quantitative trading, protocol development, and trading infrastructure roles throughout the cryptocurrency industry.

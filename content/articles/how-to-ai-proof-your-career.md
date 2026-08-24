@@ -1,13 +1,13 @@
 ---
-
-title: "How to AI Proof Your Career"
-image: "https://picsum.photos/seed/ai-career-shield/1200/630"
-data-ai-hint: "person future career"
-description: "Learn practical strategies and skills to future-proof your career in an age of automation and ensure your long-term relevance in the job market."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to AI Proof Your Career
+image: 'https://picsum.photos/seed/ai-career-shield/1200/630'
+data-ai-hint: person future career
+description: >-
+  Learn practical strategies and skills to future-proof your career in an age of
+  automation and ensure your long-term relevance in the job market.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The discussion surrounding artificial intelligence (AI) and its impact on careers often stirs anxiety among professionals. Many fear that rapid technological advancements will render their skills obsolete. However, "AI-proofing" your career involves building a mindset focused on continuous learning and Building skills that remain distinctly human.

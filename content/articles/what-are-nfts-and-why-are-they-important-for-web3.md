@@ -1,13 +1,13 @@
 ---
-
-title: "What Are NFTs and Why Are They Important for Web3?"
-image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
-data-ai-hint: "nft web3 art"
-description: "From digital art to gaming assets, understand what Non-Fungible Tokens (NFTs) are, how they work, and why they are an important building block for the."
-category: "Getting Started"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What Are NFTs and Why Are They Important for Web3?
+image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
+data-ai-hint: nft web3 art
+description: >-
+  From digital art to gaming assets, understand what Non-Fungible Tokens (NFTs)
+  are, how they work, and why they are an important building block for the.
+category: Getting Started
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The term "[NFT](/what-are-nfts)" has gained traction, leaving many to question what these "Non-Fungible [Tokens](/what-is-a-token)" truly represent. While some view them merely as overvalued JPEGs of apes and pixelated characters, they signify a new approach to ownership in the digital age. The reality is a blend of these perspectives.
@@ -30,7 +30,7 @@ NFTs do not represent the assets themselves (e.g., a JPEG file); instead, they s
 
 - **The Blockchain Ledger:** Most NFTs function on the [Ethereum](/what-is-ethereum) blockchain, acting as a decentralized public ledger. When an NFT is minted, a unique token is generated and recorded on the blockchain. This record captures details such as the creator, the owner, and a history of all transactions.
 
-- **[Smart Contracts](/what-are-smart-contracts):** Smart contracts govern NFTs by executing the token's logic. These self-executing programs define the NFT’s rules, such as enforcing creator **[royalties](/nft-artist-royalties)** (a percentage of future sales returned to the original creator) and determining its unique characteristics. The predominant smart contract standard for NFTs is **ERC-721** on Ethereum.
+- **[Smart Contracts](/what-are-smart-contracts):** Smart contracts govern NFTs by executing the token's logic. These self-executing programs define the NFT's rules, such as enforcing creator **[royalties](/nft-artist-royalties)** (a percentage of future sales returned to the original creator) and determining its unique characteristics. The predominant smart contract standard for NFTs is **ERC-721** on Ethereum.
 
 - **Metadata:** The NFT's smart contract includes metadata linking the token to its corresponding asset. This data typically contains the NFT's name, a description, and a link to the digital file (such as an image or video). This file is often stored on a decentralized file system like IPFS (InterPlanetary File System) to prevent easy alteration or removal.
 

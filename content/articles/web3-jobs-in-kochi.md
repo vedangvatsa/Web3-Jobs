@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Jobs in Kochi: A Guide to Kerala's Tech Corridor"
-image: "/images/india web3 jobs.jpg"
-data-ai-hint: "kochi city india"
-description: "A career guide to the Web3 job market in Kochi. Explore the growing blockchain ecosystem in Kerala, driven by a strong developer community and government."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Kochi: A Guide to Kerala''s Tech Corridor'
+image: /images/india web3 jobs.jpg
+data-ai-hint: kochi city india
+description: >-
+  A career guide to the Web3 job market in Kochi. Explore the growing blockchain
+  ecosystem in Kerala, driven by a strong developer community and government.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Kochi, located on the southwest coast of India, is quickly establishing itself as a significant player in Kerala's technology sector. The city is gaining recognition for its focus on [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technologies. The Kerala government's dedication to IT development, combined with a skilled workforce, is creating a dynamic environment for Web3 innovation. Key institutions like Infopark and the Kerala Blockchain Academy (KBA) are driving this progress, nurturing a new generation of developers and entrepreneurs committed to decentralized technologies.

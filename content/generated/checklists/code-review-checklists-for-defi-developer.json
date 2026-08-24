@@ -150,8 +150,8 @@
             "category": "Liquidity"
           },
           {
-            "title": "Verify utilization rate calculations",
-            "description": "Ensure interest rates respond appropriately to utilization.",
+            "title": "Verify use rate calculations",
+            "description": "Ensure interest rates respond appropriately to use.",
             "priority": "important",
             "category": "Economics"
           },

@@ -1,13 +1,13 @@
 ---
-
-title: "What is Artificial Intelligence and How It Works"
-image: "https://picsum.photos/seed/ai-works/1200/630"
-description: "A straightforward look at what artificial intelligence really is, how it functions, and why it's becoming a major part of our world."
-category: "Educational"
-data-ai-hint: "robot brain"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is Artificial Intelligence and How It Works
+image: 'https://picsum.photos/seed/ai-works/1200/630'
+description: >-
+  A straightforward look at what artificial intelligence really is, how it
+  functions, and why it's becoming a major part of our world.
+category: Educational
+data-ai-hint: robot brain
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Artificial intelligence, commonly referred to as AI, focuses on enhancing computer capabilities to mimic human-like thinking and learning. The objective is to create machines that can analyze data, recognize patterns, and make informed decisions independently of pre-set instructions. This process is grounded in algorithms and data.

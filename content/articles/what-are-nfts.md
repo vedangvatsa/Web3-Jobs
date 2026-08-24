@@ -1,13 +1,14 @@
 ---
-
-title: "What are NFTs? An Explainer for Non-Fungible Tokens"
-image: "/images/austin-distel-tLZhFRLj6nY-unsplash.jpg"
-description: "NFTs have taken the world by storm. This guide explains what Non-Fungible Tokens are, how they work, and why they represent a breakthrough in digital ownership."
-category: "Industry Insights"
-data-ai-hint: "nft explainer"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What are NFTs? An Explainer for Non-Fungible Tokens
+image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
+description: >-
+  NFTs have taken the world by storm. This guide explains what Non-Fungible
+  Tokens are, how they work, and why they represent a breakthrough in digital
+  ownership.
+category: Industry Insights
+data-ai-hint: nft explainer
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 NFT stands for Non-Fungible [Token](/what-is-a-token). It represents ownership of unique digital assets on a [blockchain](/what-is-a-blockchain). While NFTs gained attention for high-profile sales, such as digital art fetching significant amounts or projects like the Bored Ape Yacht Club, understanding their fundamentals is essential.

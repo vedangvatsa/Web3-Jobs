@@ -1,6 +1,6 @@
 ---
 name: Coinstore
-website: https://coinstore.com
+website: 'https://coinstore.com'
 founded: 2020
 category: Exchange
 headquarters: Singapore

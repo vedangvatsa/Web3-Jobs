@@ -1,13 +1,13 @@
 ---
-
-title: "Blockchain Hackathon Preparation and Winning Strategies"
-image: "/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
-data-ai-hint: "hackathon team coding"
-description: "A complete guide to succeeding in a Web3 hackathon. Learn how to prepare, form a team, brainstorm ideas, and build a winning project that gets you noticed."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Blockchain Hackathon Preparation and Winning Strategies
+image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
+data-ai-hint: hackathon team coding
+description: >-
+  A complete guide to succeeding in a Web3 hackathon. Learn how to prepare, form
+  a team, brainstorm ideas, and build a winning project that gets you noticed.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the [Web3](/what-is-web3) ecosystem, hackathons play a central role in shaping the culture. They consist of intense, weekend-long events where builders collaborate to develop decentralized applications. For aspiring Web3 developers, participating in a hackathon, especially those organized by **[ETHGlobal](https://ethglobal.com/)**, can enhance career prospects.
@@ -20,7 +20,7 @@ Preparation begins long before the event.
 
 **1. Form Your Team (or Not):**
 - **Going Solo:** Experienced full-stack developers might opt to work independently. This choice requires strong self-management but allows for complete creative control.
-- **Forming a Team:** Most participants benefit from collaboration. A balanced team of 3-4 members can enhance the project’s potential. Consider including:
+- **Forming a Team:** Most participants benefit from collaboration. A balanced team of 3-4 members can enhance the project's potential. Consider including:
  - **1-2 [Smart Contract](/what-are-smart-contracts) Developers:** Focus on on-chain logic.
  - **1 Frontend Developer:** Responsible for the user interface.
  - **1 Project Manager/Designer:** Oversees project management, user flow design, and presentation preparation.
@@ -45,10 +45,10 @@ The event typically spans about 48 hours, and time management is critical.
 - **Keep the scope small.** Many teams fail by being overly ambitious. Focus on developing a small, fully functional Minimum Viable Product (MVP) that you can complete within the weekend.
 
 **2. Build, Build, Build (The Next 36 Hours):**
-- **Divide Tasks:** Allocate work according to your team’s strengths. Smart contract developers should work on contracts while frontend developers focus on user interfaces.
+- **Divide Tasks:** Allocate work according to your team's strengths. Smart contract developers should work on contracts while frontend developers focus on user interfaces.
 - **Communicate Regularly:** Maintain a private Discord channel for constant updates and collaboration.
 - **Attend Workshops:** Sponsors will host technical workshops throughout the hackathon. These sessions provide invaluable insights on using their technology.
-- **Request Assistance:** Don’t hesitate to seek help from the sponsors’ mentors, who are available to support participants.
+- **Request Assistance:** Don't hesitate to seek help from the sponsors' mentors, who are available to support participants.
 
 **3. The Final Sprint: Polish and Pitch (The Last 9 Hours):**
 - **Code Freeze:** Stop adding new features. Concentrate on fixing bugs and enhancing the user experience.

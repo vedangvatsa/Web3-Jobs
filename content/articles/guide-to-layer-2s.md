@@ -1,13 +1,13 @@
 ---
-
-title: "A Guide to Ethereum Layer 2 Scaling Solutions"
-image: "https://picsum.photos/seed/29/1200/630"
-description: "Ethereum's high gas fees have been a major bottleneck. Layer 2 scaling solutions aim to solve this. This guide explores how they work and the key."
-category: "Technology Deep Dives"
-data-ai-hint: "blockchain ethereum"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: A Guide to Ethereum Layer 2 Scaling Solutions
+image: 'https://picsum.photos/seed/29/1200/630'
+description: >-
+  Ethereum's high gas fees have been a major bottleneck. Layer 2 scaling
+  solutions aim to solve this. This guide explores how they work and the key.
+category: Technology Deep Dives
+data-ai-hint: blockchain ethereum
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Ethereum Layer 2 Scaling Solutions
@@ -72,7 +72,7 @@ ZK-Rollups implement a "guilty until proven innocent" model using advanced crypt
 
 **Cons**:
 - **Complex Technology**: ZK cryptography is complex, making the development of a ZK-Rollup, particularly an EVM-compatible version (a "zkEVM"), a formidable challenge.
-- **High Computational Demand**: The generation of validity proofs requires substantial computational resources, which may centralize operations for the rollup’s operator (the "sequencer").
+- **High Computational Demand**: The generation of validity proofs requires substantial computational resources, which may centralize operations for the rollup's operator (the "sequencer").
 
 ### The Future of Ethereum: A Multi-Rollup Ecosystem
 

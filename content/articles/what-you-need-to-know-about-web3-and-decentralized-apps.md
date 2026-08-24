@@ -1,13 +1,13 @@
 ---
-
-title: "What You Need to Know About Web3 and Decentralized Apps"
-image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
-data-ai-hint: "decentralized apps web3"
-description: "A beginner's guide to dApps (decentralized applications). Learn what they are, how they differ from traditional apps, and why they are a core component of."
-category: "Getting Started"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What You Need to Know About Web3 and Decentralized Apps
+image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
+data-ai-hint: decentralized apps web3
+description: >-
+  A beginner's guide to dApps (decentralized applications). Learn what they are,
+  how they differ from traditional apps, and why they are a core component of.
+category: Getting Started
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The internet we use daily relies on centralized applications. For instance, when you interact with Facebook, you engage with an app that operates on servers controlled by Meta. In contrast, a decentralized application, or dApp, functions on a peer-to-peer network of computers, predominantly using a public blockchain like [Ethereum](/what-is-ethereum). 

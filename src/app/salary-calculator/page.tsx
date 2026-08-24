@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description: 'Estimate Web3 salaries by role, experience, and location. Compare live Solidity developer, smart contract auditor, crypto marketer, and product manager salary ranges.',
   url: 'https://hashtagweb3.com/salary-calculator',
   images: [{
-   url: '/api/og?type=default&title=Web3%20Salary%20Calculator',
+   url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Salary%20Calculator',
    width: 1200,
    height: 630,
    alt: 'Web3 Salary Calculator Tool',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 Salary Calculator | Blockchain & Crypto Salary Insights',
   description: 'Estimate Web3 salaries by role, experience, and location. Compare live Solidity developer, smart contract auditor, crypto marketer, and product manager salary ranges.',
-  images: ['/api/og?type=default&title=Web3%20Salary%20Calculator'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Salary%20Calculator'],
  },
 };
 

@@ -1,8 +1,8 @@
 ---
 name: Shakepay
-website: https://shakepay.com
+website: 'https://shakepay.com'
 category: Crypto Payments
-description: Shakepay allows users to buy, sell, and hold Bitcoin and Ethereum.
+description: 'Shakepay allows users to buy, sell, and hold Bitcoin and Ethereum.'
 ---
 
 Shakepay is a Canadian cryptocurrency payment platform that enables users to buy, sell, and hold Bitcoin and Ethereum. The platform offers a user-friendly mobile app and website, making it accessible for both new and experienced users. Shakepay also provides a feature that allows users to earn Bitcoin rewards on purchases made through their Shakepay Visa card.

@@ -1,13 +1,14 @@
 ---
-
-title: "Web3 Jobs in the Philippines: A Hub for GameFi and Community Talent"
-image: "https://images.unsplash.com/photo-1654844369265-e79563c56538?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNnx8cGhpbGlwcGluZXMlMjBmbGFnfGVufDB8fHx8MTc1OTI2OTU1NXww&ixlib=rb-4.1.0&q=80&w=1080"
-data-ai-hint: "philippines el nido"
-description: "Dive into the Philippines' unique Web3 job market. This guide focuses on the country's dominance in Web3 gaming, community management, and the skills."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in the Philippines: A Hub for GameFi and Community Talent'
+image: >-
+  https://images.unsplash.com/photo-1654844369265-e79563c56538?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNnx8cGhpbGlwcGluZXMlMjBmbGFnfGVufDB8fHx8MTc1OTI2OTU1NXww&ixlib=rb-4.1.0&q=80&w=1080
+data-ai-hint: philippines el nido
+description: >-
+  Dive into the Philippines' unique Web3 job market. This guide focuses on the
+  country's dominance in Web3 gaming, community management, and the skills.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The Philippines has established itself as a significant player in the [Web3](/what-is-web3) space, particularly In gaming. During 2021, the country became the center of the "Play-to-Earn" (P2E) gaming phenomenon, with titles like Axie Infinity gaining immense popularity and providing income for many during the pandemic. This experience has built a strong environment for Web3 gaming, community management, and player support services.

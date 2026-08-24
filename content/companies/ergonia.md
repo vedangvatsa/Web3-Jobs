@@ -1,6 +1,6 @@
 ---
 name: Ergonia
-website: https://ergonia.com
+website: 'https://ergonia.com'
 category: Other
 description: Ergonia focuses on a crypto binary options trading platform.
 ---

@@ -1,13 +1,14 @@
 ---
-
-title: "The Rise of Web3 Gaming Guilds: New Economic Layer"
-image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
-description: "An exploration of Web3 gaming guilds, how they work, their role in the play-to-earn economy, and their evolution into decentralized social and investment."
-category: "Technology Deep Dives"
-data-ai-hint: "people gaming"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'The Rise of Web3 Gaming Guilds: New Economic Layer'
+image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
+description: >-
+  An exploration of Web3 gaming guilds, how they work, their role in the
+  play-to-earn economy, and their evolution into decentralized social and
+  investment.
+category: Technology Deep Dives
+data-ai-hint: people gaming
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: More Than Just a Clan
@@ -50,7 +51,7 @@ Contemporary guilds are evolving into talent agencies within the metaverse. They
 
 ### From Asset Lenders to Investment DAOs
 
-Guilds are transitioning into decentralized investment funds focused on the Web3 gaming ecosystem. The guild’s treasury, governed by its token holders, invests in a diversified asset portfolio, including:
+Guilds are transitioning into decentralized investment funds focused on the Web3 gaming ecosystem. The guild's treasury, governed by its token holders, invests in a diversified asset portfolio, including:
 
 | Investment Type | Description |
 |------------------------|---------------------------------------------------------------|
@@ -65,7 +66,7 @@ This shift positions the guild's token as an index fund for the entire Web3 gami
 
 The most new guilds are building platforms that create a cohesive social identity for their members throughout the Web3 ecosystem. This includes:
 
-- **Player Profiles:** A universal profile tracking a scholar’s reputation, achievements, and earnings across all games. This "on-chain [resume](/how-to-build-a-web3-resume-that-stands-out)" enables players to cultivate a portable reputation.
+- **Player Profiles:** A universal profile tracking a scholar's reputation, achievements, and earnings across all games. This "on-chain [resume](/how-to-build-a-web3-resume-that-stands-out)" enables players to cultivate a portable reputation.
 - **Credentialing:** Guilds issue on-chain credentials or badges to players who demonstrate skill or reliability, building trust and reputation in a pseudonymous environment.
 - **Social Safety Nets:** By offering education, training, and stable income, guilds serve as social and economic safety nets for a growing class of digital workers globally.
 

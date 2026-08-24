@@ -1,13 +1,14 @@
 ---
-
-title: "Web3 Jobs in Canada: A Guide to the Northern Crypto Hub"
-image: "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYW5hZGF8ZW58MHx8fHwxNzE2NDAxOTI0fDA&lib=rb-4.0.3&q=80&w=1080"
-data-ai-hint: "canada space"
-description: "Discover Web3 career opportunities in Toronto, Vancouver, and other Canadian tech hubs."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Canada: A Guide to the Northern Crypto Hub'
+image: >-
+  https://images.unsplash.com/photo-1503614472-8c93d56e92ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYW5hZGF8ZW58MHx8fHwxNzE2NDAxOTI0fDA&lib=rb-4.0.3&q=80&w=1080
+data-ai-hint: canada space
+description: >-
+  Discover Web3 career opportunities in Toronto, Vancouver, and other Canadian
+  tech hubs.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Canada plays an important role in the history and growth of the [Web3](/what-is-web3) ecosystem. As the birthplace of [Ethereum](/what-is-ethereum), the nation boasts a reputable technical community. This foundation, combined with a stable political climate, a reliable university system that produces top engineering talent, and an immigration policy that encourages skilled workers, positions Canada as a prominent North American hub for [blockchain](/what-is-a-blockchain) innovation.

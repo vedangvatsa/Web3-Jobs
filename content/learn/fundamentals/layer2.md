@@ -1,51 +1,70 @@
 ---
-title: "Layer 2: Making Blockchains Fast"
-description: "How rollups and L2 networks solve Ethereum's speed and cost problems."
+title: 'Layer 2: Making Blockchains Fast'
+description: How rollups and L2 networks solve Ethereum's speed and cost problems.
 order: 11
-readTime: "9 min"
-difficulty: "beginner"
-prerequisites: ["gas"]
+readTime: 9 min
+difficulty: beginner
+prerequisites:
+  - gas
 quiz:
-  - question: "Why does Ethereum need Layer 2 networks?"
+  - question: Why does Ethereum need Layer 2 networks?
     options:
-      - "Because Ethereum is broken"
-      - "Because Ethereum is too slow and expensive for everyday transactions"
-      - "Because Layer 2 replaces Ethereum"
-      - "Because regulators require it"
+      - Because Ethereum is broken
+      - Because Ethereum is too slow and expensive for everyday transactions
+      - Because Layer 2 replaces Ethereum
+      - Because regulators require it
     correct: 1
-    explanation: "Ethereum processes ~15-30 transactions per second and fees can reach $20+ during busy periods. Layer 2 networks process thousands of transactions per second at a fraction of the cost."
-  - question: "What is a rollup?"
+    explanation: >-
+      Ethereum processes ~15-30 transactions per second and fees can reach $20+
+      during busy periods. Layer 2 networks process thousands of transactions
+      per second at a fraction of the cost.
+  - question: What is a rollup?
     options:
-      - "A type of cryptocurrency"
-      - "A Layer 2 that processes transactions off-chain and posts proof to Ethereum"
-      - "A method for creating NFTs"
-      - "A wallet feature"
+      - A type of cryptocurrency
+      - >-
+        A Layer 2 that processes transactions off-chain and posts proof to
+        Ethereum
+      - A method for creating NFTs
+      - A wallet feature
     correct: 1
-    explanation: "Rollups execute transactions on their own chain, then batch-compress the results and post them to Ethereum. This lets them inherit Ethereum's security while being much faster and cheaper."
-  - question: "What is the difference between Optimistic and ZK rollups?"
+    explanation: >-
+      Rollups execute transactions on their own chain, then batch-compress the
+      results and post them to Ethereum. This lets them inherit Ethereum's
+      security while being much faster and cheaper.
+  - question: What is the difference between Optimistic and ZK rollups?
     options:
-      - "Optimistic rollups are faster"
-      - "ZK rollups use cryptographic proofs; Optimistic rollups assume validity unless challenged"
-      - "They work on different blockchains"
-      - "There is no difference"
+      - Optimistic rollups are faster
+      - >-
+        ZK rollups use cryptographic proofs; Optimistic rollups assume validity
+        unless challenged
+      - They work on different blockchains
+      - There is no difference
     correct: 1
-    explanation: "Optimistic rollups assume transactions are valid and allow a challenge period (7 days) to dispute fraud. ZK rollups generate a mathematical proof that transactions are valid — no trust or waiting required."
-  - question: "Which of these is a Layer 2 network?"
+    explanation: >-
+      Optimistic rollups assume transactions are valid and allow a challenge
+      period (7 days) to dispute fraud. ZK rollups generate a mathematical proof
+      that transactions are valid - no trust or waiting required.
+  - question: Which of these is a Layer 2 network?
     options:
-      - "Bitcoin"
-      - "Solana"
-      - "Arbitrum"
-      - "Cardano"
+      - Bitcoin
+      - Solana
+      - Arbitrum
+      - Cardano
     correct: 2
-    explanation: "Arbitrum is a Layer 2 rollup built on top of Ethereum. Bitcoin and Solana are Layer 1 blockchains. Cardano is also a Layer 1."
-  - question: "How do you move assets from Ethereum to a Layer 2?"
+    explanation: >-
+      Arbitrum is a Layer 2 rollup built on top of Ethereum. Bitcoin and Solana
+      are Layer 1 blockchains. Cardano is also a Layer 1.
+  - question: How do you move assets from Ethereum to a Layer 2?
     options:
-      - "You email the Layer 2 support team"
-      - "You use a bridge to transfer tokens from L1 to L2"
-      - "Assets automatically appear on Layer 2"
-      - "You need to buy new tokens on the Layer 2"
+      - You email the Layer 2 support team
+      - You use a bridge to transfer tokens from L1 to L2
+      - Assets automatically appear on Layer 2
+      - You need to buy new tokens on the Layer 2
     correct: 1
-    explanation: "You use a bridge — a smart contract that locks your tokens on Ethereum and mints equivalent tokens on the Layer 2. When you want to go back, the L2 tokens are burned and the L1 tokens are unlocked."
+    explanation: >-
+      You use a bridge - a smart contract that locks your tokens on Ethereum and
+      mints equivalent tokens on the Layer 2. When you want to go back, the L2
+      tokens are burned and the L1 tokens are unlocked.
 ---
 
 ## The scalability problem
@@ -59,7 +78,7 @@ Layer 2 (L2) networks solve this by moving most of the work off the main chain (
  <!-- L1 -->
  <rect x="200" y="160" width="400" height="60" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
  <text x="400" y="185" text-anchor="middle" font-size="14" font-weight="bold" fill="#1e40af">Ethereum (Layer 1)</text>
- <text x="400" y="205" text-anchor="middle" font-size="11" fill="#3b82f6">15-30 TPS · Security · Settlement</text>
+ <text x="400" y="205" text-anchor="middle" font-size="11" fill="#3b82f6">15-30 TPS - Security - Settlement</text>
 
  <!-- L2 - Arbitrum -->
  <rect x="40" y="30" width="200" height="80" rx="10" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
@@ -92,7 +111,7 @@ Layer 2 (L2) networks solve this by moving most of the work off the main chain (
 
 A rollup is the most common type of Layer 2. It processes transactions on its own chain, bundles them together, and posts a compressed summary back to Ethereum.
 
-Think of it like a mail service. Instead of each person driving to the post office (Ethereum) individually, a mail carrier (the L2) collects letters from the neighborhood, loads them into one truck, and makes a single trip. The post office still handles the final delivery — but with far less traffic.
+Think of it like a mail service. Instead of each person driving to the post office (Ethereum) individually, a mail carrier (the L2) collects letters from the neighborhood, loads them into one truck, and makes a single trip. The post office still handles the final delivery - but with far less traffic.
 
 There are two types:
 
@@ -126,6 +145,6 @@ These are approximate ranges and vary with network congestion. The key point: L2
 
 - Layer 2 networks process transactions off Ethereum's main chain, then settle back to it.
 - **Optimistic rollups** (Arbitrum, Optimism, Base) assume validity, with a 7-day challenge window.
-- **ZK rollups** (zkSync, StarkNet) prove validity with math — no challenge period needed.
+- **ZK rollups** (zkSync, StarkNet) prove validity with math - no challenge period needed.
 - L2s reduce costs by 10-100x while inheriting Ethereum's security.
 - To use an L2, you bridge your assets from Ethereum using a smart contract.

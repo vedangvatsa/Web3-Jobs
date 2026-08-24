@@ -1,12 +1,21 @@
 ---
-term: "Validator"
-slug: "validator"
-category: "technical"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80"
-description: "Network participants in Proof of Stake blockchains who stake cryptocurrency to propose and attest to blocks, earning rewards for securing the network."
-relatedTerms: ["proof-of-stake", "staking", "consensus-mechanism", "node"]
-synonyms: ["block proposer", "attestor", "staker"]
+term: Validator
+slug: validator
+category: technical
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80'
+description: >-
+  Network participants in Proof of Stake blockchains who stake cryptocurrency to
+  propose and attest to blocks, earning rewards for securing the network.
+relatedTerms:
+  - proof-of-stake
+  - staking
+  - consensus-mechanism
+  - node
+synonyms:
+  - block proposer
+  - attestor
+  - staker
 ---
 
 Validator refers to a network participant in Proof of Stake blockchains who locks cryptocurrency as collateral to propose and verify new blocks, earning rewards for securing the network while facing penalties called slashing for dishonest behavior or extended downtime. Unlike Proof of Work miners who compete through computational power, validators are algorithmically selected based on their staked amount and other protocol-specific criteria, making them essential to the consensus mechanism that keeps decentralized networks functioning honestly. Ethereum represents the most prominent example, where validators must stake a minimum of 32 ETH to participate in block proposal and attestation duties. Validator operations create demand for infrastructure engineers, DevOps specialists, and protocol developers who can manage node deployment, optimize uptime, and implement slashing protection across enterprise staking operations.

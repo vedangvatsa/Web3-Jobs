@@ -1,13 +1,13 @@
 ---
-
-title: "How to Build a Web3 Resume That Stands Out"
-image: "/images/thisisengineering-83udtzyaTS4-unsplash.jpg"
-data-ai-hint: "resume cv job"
-description: "Your traditional resume isn't enough for the crypto space. Learn how to craft a Web3-native resume that highlights your on-chain activity, DAO."
-category: "Getting Started"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Build a Web3 Resume That Stands Out
+image: /images/thisisengineering-83udtzyaTS4-unsplash.jpg
+data-ai-hint: resume cv job
+description: >-
+  Your traditional resume isn't enough for the crypto space. Learn how to craft
+  a Web3-native resume that highlights your on-chain activity, DAO.
+category: Getting Started
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the competitive [Web3](/what-is-web3) job market, your resume serves as the initial point of contact with recruiters and hiring managers. A conventional Web2 resume, which often includes a list of past employers and clichéd bullet points, typically does not meet the expectations of Web3 hiring professionals. The Web3 industry values transparency, on-chain accomplishments, and community engagement, necessitating a resume that effectively communicates your alignment with these principles.

@@ -1,12 +1,13 @@
 ---
-
-title: "Balaji Srinivasan in Web3"
-description: "An in-depth look at the ideas of Balaji Srinivasan, one of Web3's most influential and provocative thinkers. This guide covers his concepts of 'The."
-image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
-category: "Industry Insights"
-data-ai-hint: "man speech"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Balaji Srinivasan in Web3
+description: >-
+  An in-depth look at the ideas of Balaji Srinivasan, one of Web3's most
+  influential and provocative thinkers. This guide covers his concepts of 'The.
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+category: Industry Insights
+data-ai-hint: man speech
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: The Provocative Futurist
@@ -49,7 +50,7 @@ Balaji champions pseudonymity, which allows individuals to maintain a persistent
 
 ### 2. "Exit" as a Political Force
 
-Drawing from economist Albert Hirschman's work, Balaji highlights the significance of "exit." In the context of Web3, this refers to individuals’ ability to digitally and peacefully leave systems they disagree with.
+Drawing from economist Albert Hirschman's work, Balaji highlights the significance of "exit." In the context of Web3, this refers to individuals' ability to digitally and peacefully leave systems they disagree with.
 
 - **Voting with Your Feet (and Your Funds):** Rather than reforming traditional institutions from within ("voice"), Web3 offers tools to create and migrate to alternative systems. If dissatisfied with a country's monetary policy, individuals can turn to Bitcoin. If they oppose a social network's censorship, they can switch to a decentralized platform.
 - **The Best Check on Power:** Balaji posits that exit serves as a fundamental check on state power. When citizens and capital can easily depart, governments must compete for loyalty by providing superior services.

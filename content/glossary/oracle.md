@@ -1,13 +1,23 @@
 ---
-term: "Oracle"
-slug: "oracle"
-category: "protocols"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1080"
-imageAlt: "Blockchain oracle connecting off-chain data"
-description: "A service that provides external, real-world data to smart contracts on the blockchain, acting as a bridge between on-chain code and off-chain information sources."
-relatedTerms: ["Smart Contract", "Chainlink", "DeFi", "Data Feed", "API"]
-synonyms: ["Blockchain Oracle", "Data Oracle"]
+term: Oracle
+slug: oracle
+category: protocols
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1080'
+imageAlt: Blockchain oracle connecting off-chain data
+description: >-
+  A service that provides external, real-world data to smart contracts on the
+  blockchain, acting as a bridge between on-chain code and off-chain information
+  sources.
+relatedTerms:
+  - Smart Contract
+  - Chainlink
+  - DeFi
+  - Data Feed
+  - API
+synonyms:
+  - Blockchain Oracle
+  - Data Oracle
 ---
 
 Oracle refers to a third-party service that bridges the gap between blockchain networks and the external world by feeding real-world data into smart contracts. Since blockchains operate as deterministic, closed systems, they cannot natively access off-chain information such as stock prices, weather conditions, or sports results. Oracles solve this fundamental limitation by securely transmitting external data onto the blockchain, enabling smart contracts to execute based on real-world events. Chainlink, the leading decentralized oracle network, secures significant total value across decentralized finance protocols, demonstrating the critical role oracles play in the ecosystem. Beyond price feeds, oracles enable use cases ranging from parametric insurance payouts triggered by weather data to prediction markets settling on election outcomes. For Web3 professionals, oracle expertise is increasingly valuable as protocols expand their real-world integrations, with oracle-related roles spanning smart contract development, data engineering, and blockchain security.

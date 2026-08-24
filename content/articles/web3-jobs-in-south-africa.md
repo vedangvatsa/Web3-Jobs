@@ -1,13 +1,14 @@
 ---
-
-title: "Web3 Jobs in South Africa: Exploring Careers in a Growing Crypto Hub"
-image: "https://images.unsplash.com/photo-1552937075-967cf58b74a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzb3V0aCUyMGFmcmljYXxlbnwwfHx8fDE3NTkyNjk0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-data-ai-hint: "south africa cape town"
-description: "A career guide to the Web3 job market in South Africa. Discover the space of crypto adoption, key local projects, in-demand roles, and salary expectations."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in South Africa: Exploring Careers in a Growing Crypto Hub'
+image: >-
+  https://images.unsplash.com/photo-1552937075-967cf58b74a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzb3V0aCUyMGFmcmljYXxlbnwwfHx8fDE3NTkyNjk0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080
+data-ai-hint: south africa cape town
+description: >-
+  A career guide to the Web3 job market in South Africa. Discover the space of
+  crypto adoption, key local projects, in-demand roles, and salary expectations.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 South Africa is rapidly establishing itself as a key player in the Web3 sector across Africa. Its strong financial sector, skilled tech workforce, and proactive regulatory environment are attracting both local and global blockchain initiatives. Cities like Cape Town and Johannesburg are leading Web3 innovation, supporting community engagement and entrepreneurial efforts.
@@ -16,7 +17,7 @@ The South African cryptocurrency market reflects strong grassroots enthusiasm, p
 
 ### The South African Web3 Ecosystem
 
-South Africa’s crypto ecosystem stands out as one of the most developed on the continent, highlighted by several key factors:
+South Africa's crypto ecosystem stands out as one of the most developed on the continent, highlighted by several key factors:
 
 | Factor | Description |
 |-----------------------------|---------------------------------------------------------------------------------------------------|
@@ -27,7 +28,7 @@ South Africa’s crypto ecosystem stands out as one of the most developed on the
 
 ### In-Demand Roles and Salary Expectations
 
-The demand for Web3 professionals in South Africa continues to grow, with competitive salaries that reflect the local tech industry’s standards. Here are some key roles and their salary ranges:
+The demand for Web3 professionals in South Africa continues to grow, with competitive salaries that reflect the local tech industry's standards. Here are some key roles and their salary ranges:
 
 | Role | Experience Level | Salary Range (ZAR/month) |
 |----------------------------------|---------------------|---------------------------|

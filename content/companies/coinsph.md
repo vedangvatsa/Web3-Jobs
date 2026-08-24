@@ -1,9 +1,9 @@
 ---
 name: Coins.ph
-website: https://coins.ph
+website: 'https://coins.ph'
 founded: 2014
 category: Crypto Wallet & Exchange
-headquarters: Manila, Philippines
+headquarters: 'Manila, Philippines'
 description: Leading digital wallet and crypto exchange platform in the Philippines.
 ---
 

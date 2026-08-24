@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemamap xmlns="https://schemamap.org/ns/1.0">
+  <site url="https://hashtagweb3.com" />
+
+  <page url="/" schema="WebSite Organization" />
+  <page url="/jobs" schema="ItemList JobPosting" />
+  <page url="/news" schema="ItemList NewsArticle" />
+  <page url="/events" schema="ItemList Event" />
+  <page url="/learn" schema="DefinedTermSet DefinedTerm" />
+  <page url="/community" schema="Organization" />
+  <page url="/about" schema="AboutPage Organization" />
+  <page url="/contact" schema="ContactPage" />
+  <page url="/privacy" schema="WebPage" />
+  <page url="/developers" schema="WebPage SoftwareApplication" />
+
+  <api url="/api/jobs" schema="JobPosting" format="application/json" />
+  <api url="/api/news" schema="NewsArticle" format="application/json" />
+  <api url="/api/events" schema="Event" format="application/json" />
+  <api url="/api/glossary" schema="DefinedTerm" format="application/json" />
+</schemamap>

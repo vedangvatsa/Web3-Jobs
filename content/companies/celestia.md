@@ -1,6 +1,6 @@
 ---
 name: Celestia
-website: https://celestia.org
+website: 'https://celestia.org'
 founded: 2019
 category: Modular Blockchain / DA Layer
 headquarters: Remote

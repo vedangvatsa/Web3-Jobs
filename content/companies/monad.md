@@ -1,9 +1,9 @@
 ---
 name: Monad
-website: https://monad.xyz
+website: 'https://monad.xyz'
 founded: 2022
 category: Layer 1
-headquarters: New York, United States
+headquarters: 'New York, United States'
 description: High-performance EVM-compatible Layer 1 blockchain with parallel execution
 ---
 

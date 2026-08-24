@@ -1,10 +1,10 @@
 ---
 name: Consensys
-website: https://consensys.net
+website: 'https://consensys.net'
 founded: 2014
 category: Blockchain Infrastructure
-headquarters: Brooklyn, New York, USA
-description: Ethereum software company building MetaMask, Infura, and Linea
+headquarters: 'Brooklyn, New York, USA'
+description: 'Ethereum software company building MetaMask, Infura, and Linea'
 ---
 
 Consensys is a blockchain technology company founded by Ethereum co-founder Joseph Lubin. It builds core Ethereum infrastructure including MetaMask (300M+ installs), Infura, and the Linea zkEVM.

@@ -1,6 +1,6 @@
 ---
 name: CoinMarketCap
-website: https://coinmarketcap.com
+website: 'https://coinmarketcap.com'
 founded: 2013
 category: Data / Analytics
 headquarters: Remote

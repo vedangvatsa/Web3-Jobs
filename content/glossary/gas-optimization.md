@@ -1,12 +1,21 @@
 ---
-term: "Gas Optimization"
-slug: "gas-optimization"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80"
-description: "Techniques for writing smart contracts that minimize gas consumption, reducing transaction costs for users while maintaining functionality and security."
-relatedTerms: ["gas-fee", "smart-contract", "solidity", "evm"]
-synonyms: ["gas efficiency", "cost optimization", "transaction optimization"]
+term: Gas Optimization
+slug: gas-optimization
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80'
+description: >-
+  Techniques for writing smart contracts that minimize gas consumption, reducing
+  transaction costs for users while maintaining functionality and security.
+relatedTerms:
+  - gas-fee
+  - smart-contract
+  - solidity
+  - evm
+synonyms:
+  - gas efficiency
+  - cost optimization
+  - transaction optimization
 ---
 
 Gas Optimization refers to the practice of writing smart contracts that execute using the minimum possible gas, reducing transaction costs for users while maintaining full functionality and security. On Ethereum and EVM-compatible blockchains, every computational operation consumes gas, with simple arithmetic costing just 3 gas units while storage operations can require 20,000 gas or more. Poorly optimized contracts can cost users significantly more than necessary, directly impacting protocol adoption and economic viability. Uniswap demonstrated the importance of gas optimization when its V3 upgrade reduced swap costs compared to V2, saving users in transaction fees. Professionals skilled in gas optimization techniques are increasingly sought after as protocols compete to offer users the lowest possible transaction costs in a fee-conscious market.

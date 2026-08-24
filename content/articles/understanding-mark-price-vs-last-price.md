@@ -1,13 +1,14 @@
 ---
-
-title: "Understanding Mark Price vs Index Price"
-image: "https://picsum.photos/seed/mark-index-price/1200/630"
-description: "A guide to the difference between Mark Price and Index Price in crypto derivatives, and why Mark Price is important for preventing unfair liquidations."
-category: "Educational"
-data-ai-hint: "price comparison"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Mark Price vs Index Price
+image: 'https://picsum.photos/seed/mark-index-price/1200/630'
+description: >-
+  A guide to the difference between Mark Price and Index Price in crypto
+  derivatives, and why Mark Price is important for preventing unfair
+  liquidations.
+category: Educational
+data-ai-hint: price comparison
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ### Introduction
@@ -18,7 +19,7 @@ In crypto derivatives trading, particularly with perpetual futures, exchanges pr
 
 The Index Price aims to reflect the "true" market value of the underlying asset.
 
-- **Calculation Method**: The Index Price is not derived from a single exchange’s trading activity. Instead, it represents a volume-weighted average of the spot prices from several major, independent exchanges, such as Coinbase, Binance, Kraken, and Bitstamp. This aggregation helps mitigate the influence of price anomalies that can occur on individual platforms.
+- **Calculation Method**: The Index Price is not derived from a single exchange's trading activity. Instead, it represents a volume-weighted average of the spot prices from several major, independent exchanges, such as Coinbase, Binance, Kraken, and Bitstamp. This aggregation helps mitigate the influence of price anomalies that can occur on individual platforms.
 - **Objective**: It strives to provide a fair and manipulation-resistant price point. By sourcing data from multiple exchanges, it minimizes the risk that a sudden price spike or drop on one platform will affect the overall market perception of the asset's value.
 - **Example**: For instance, the Index Price for [BTC](/what-is-bitcoin)/USDT on a derivatives platform may be calculated from the average spot prices across several exchanges, ensuring a balanced view of market conditions.
 

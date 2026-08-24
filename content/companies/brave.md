@@ -1,10 +1,12 @@
 ---
 name: Brave
-website: https://brave.com
+website: 'https://brave.com'
 founded: 2015
 category: Browser / Web3
-headquarters: San Francisco, California
-description: Privacy-focused web browser with integrated crypto wallet and BAT token rewards
+headquarters: 'San Francisco, California'
+description: >-
+  Privacy-focused web browser with integrated crypto wallet and BAT token
+  rewards
 ---
 
 Privacy-focused web browser with integrated crypto wallet and BAT token rewards.

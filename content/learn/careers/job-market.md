@@ -1,51 +1,66 @@
 ---
-title: "The Web3 Job Market"
-description: "Market size, roles, salary data, and hiring trends in Web3."
+title: The Web3 Job Market
+description: 'Market size, roles, salary data, and hiring trends in Web3.'
 order: 1
-readTime: "8 min"
-difficulty: "beginner"
+readTime: 8 min
+difficulty: beginner
 prerequisites: []
 quiz:
-  - question: "What is the biggest misconception about Web3 jobs?"
+  - question: What is the biggest misconception about Web3 jobs?
     options:
-      - "They pay well"
-      - "They are all remote"
-      - "You need deep blockchain experience to get started"
-      - "They involve cryptocurrency"
+      - They pay well
+      - They are all remote
+      - You need deep blockchain experience to get started
+      - They involve cryptocurrency
     correct: 2
-    explanation: "Most Web3 companies hire for skills, not blockchain experience. If you know React, Python, or product management, you can get a Web3 job. Companies train the crypto-specific parts."
-  - question: "Which non-technical role is common in Web3?"
+    explanation: >-
+      Most Web3 companies hire for skills, not blockchain experience. If you
+      know React, Python, or product management, you can get a Web3 job.
+      Companies train the crypto-specific parts.
+  - question: Which non-technical role is common in Web3?
     options:
-      - "Smart contract auditor"
-      - "Solidity developer"
-      - "Community manager"
-      - "Protocol engineer"
+      - Smart contract auditor
+      - Solidity developer
+      - Community manager
+      - Protocol engineer
     correct: 2
-    explanation: "Community management is one of the most common non-technical roles in Web3. Protocols need people to manage Discord servers, create content, and engage with their user base."
-  - question: "What type of work arrangement is most common in Web3?"
+    explanation: >-
+      Community management is one of the most common non-technical roles in
+      Web3. Protocols need people to manage Discord servers, create content, and
+      engage with their user base.
+  - question: What type of work arrangement is most common in Web3?
     options:
-      - "On-site only"
-      - "Hybrid"
-      - "Remote-first"
-      - "Part-time only"
+      - On-site only
+      - Hybrid
+      - Remote-first
+      - Part-time only
     correct: 2
-    explanation: "Web3 is one of the most remote-friendly industries. Many teams are fully distributed across time zones. Remote-first is the default, not the exception."
-  - question: "Which skill is in highest demand across all Web3 roles?"
+    explanation: >-
+      Web3 is one of the most remote-friendly industries. Many teams are fully
+      distributed across time zones. Remote-first is the default, not the
+      exception.
+  - question: Which skill is in highest demand across all Web3 roles?
     options:
-      - "Video editing"
-      - "Understanding how blockchains and tokens work"
-      - "Graphic design"
-      - "Hardware engineering"
+      - Video editing
+      - Understanding how blockchains and tokens work
+      - Graphic design
+      - Hardware engineering
     correct: 1
-    explanation: "Whether you are in marketing, product, engineering, or business development, understanding how blockchains, wallets, and tokens work is the baseline. This is why the Fundamentals course comes first."
-  - question: "How do Web3 salaries compare to Web2?"
+    explanation: >-
+      Whether you are in marketing, product, engineering, or business
+      development, understanding how blockchains, wallets, and tokens work is
+      the baseline. This is why the Fundamentals course comes first.
+  - question: How do Web3 salaries compare to Web2?
     options:
-      - "Much lower"
-      - "About the same"
-      - "Competitive, often with additional token compensation"
-      - "Only paid in cryptocurrency"
+      - Much lower
+      - About the same
+      - 'Competitive, often with additional token compensation'
+      - Only paid in cryptocurrency
     correct: 2
-    explanation: "Web3 salaries are competitive with Web2 tech companies. Many roles also include token grants or equity that can increase total compensation. Base salaries are paid in USD/stablecoins at most companies."
+    explanation: >-
+      Web3 salaries are competitive with Web2 tech companies. Many roles also
+      include token grants or equity that can increase total compensation. Base
+      salaries are paid in USD/stablecoins at most companies.
 ---
 
 ## Web3 is hiring
@@ -112,13 +127,13 @@ Most Web3 companies are small (5-50 people) and move fast. They value:
 | Base salary | $80K-200K+ (competitive with Web2 tech) |
 | Token grants | Tokens in the project, vesting over 2-4 years |
 | Stablecoin payment | Some companies pay salaries in USDC |
-| Benefits | Varies widely — some match big tech, some offer nothing |
+| Benefits | Varies widely - some match big tech, some offer nothing |
 
-Token grants can be a significant part of compensation but come with risk — if the project's token drops in value, so does your compensation.
+Token grants can be a significant part of compensation but come with risk - if the project's token drops in value, so does your compensation.
 
 ## Key takeaways
 
-- Web3 needs the same roles as any tech company — you do not need to be a blockchain expert to start.
+- Web3 needs the same roles as any tech company - you do not need to be a blockchain expert to start.
 - Remote-first is the default. Most teams are distributed.
 - Compensation is competitive with Web2, often including token grants.
 - Genuine curiosity about blockchain is more important than years of crypto experience.

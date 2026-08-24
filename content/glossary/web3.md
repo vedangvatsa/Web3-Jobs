@@ -1,13 +1,23 @@
 ---
-term: "Web3"
-slug: "web3"
-category: "Blockchain Fundamentals"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1639762681057-408e52192e55?q=80&w=1080"
-imageAlt: "Decentralized web3 internet concept"
-description: "The next evolution of the internet built on blockchain technology, emphasizing decentralization, user ownership, and token-based economics rather than centralized platforms."
-relatedTerms: ["Blockchain", "Smart Contract", "DApp", "Cryptocurrency", "Decentralization"]
-synonyms: ["Web 3.0", "Decentralized Web"]
+term: Web3
+slug: web3
+category: Blockchain Fundamentals
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1639762681057-408e52192e55?q=80&w=1080'
+imageAlt: Decentralized web3 internet concept
+description: >-
+  The next evolution of the internet built on blockchain technology, emphasizing
+  decentralization, user ownership, and token-based economics rather than
+  centralized platforms.
+relatedTerms:
+  - Blockchain
+  - Smart Contract
+  - DApp
+  - Cryptocurrency
+  - Decentralization
+synonyms:
+  - Web 3.0
+  - Decentralized Web
 ---
 
 Web3 refers to the emerging iteration of the internet built on blockchain technology, where decentralized protocols replace centralized platforms and users maintain ownership of their data, digital assets, and online identities. Unlike the current web dominated by tech giants that monetize user information, Web3 applications operate through transparent smart contracts and token-based governance systems that distribute control among participants. Ethereum serves as the foundational infrastructure for most Web3 development, hosting thousands of decentralized applications spanning finance, gaming, social media, and digital identity. This architectural shift from corporate intermediaries to user-owned networks creates significant demand for developers, security auditors, and product managers who understand both traditional software engineering and blockchain-specific concepts like consensus mechanisms, tokenomics, and decentralized governance frameworks.

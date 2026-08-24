@@ -1,58 +1,95 @@
 ---
-title: "MEV: Maximal Extractable Value"
-description: "How validators and searchers extract profit from transaction ordering, and why it matters for every DeFi user."
+title: 'MEV: Maximal Extractable Value'
+description: >-
+  How validators and searchers extract profit from transaction ordering, and why
+  it matters for every DeFi user.
 order: 5
-readTime: "8 min"
-difficulty: "advanced"
-prerequisites: ["exploits"]
+readTime: 8 min
+difficulty: advanced
+prerequisites:
+  - exploits
 quiz:
-  - question: "What is MEV?"
+  - question: What is MEV?
     options:
-      - "A type of mining reward"
-      - "Profit that validators or searchers extract by including, excluding, or reordering transactions within a block"
-      - "A metric for measuring blockchain performance"
-      - "A token used for Ethereum governance"
+      - A type of mining reward
+      - >-
+        Profit that validators or searchers extract by including, excluding, or
+        reordering transactions within a block
+      - A metric for measuring blockchain performance
+      - A token used for Ethereum governance
     correct: 1
-    explanation: "MEV (Maximal Extractable Value) is the profit available from manipulating transaction order. If a large buy order is sitting in the mempool, a searcher can place their own buy before it (front-running) and a sell after it (back-running), extracting profit from the price movement."
-  - question: "What is a 'sandwich attack'?"
+    explanation: >-
+      MEV (Maximal Extractable Value) is the profit available from manipulating
+      transaction order. If a large buy order is sitting in the mempool, a
+      searcher can place their own buy before it (front-running) and a sell
+      after it (back-running), extracting profit from the price movement.
+  - question: What is a 'sandwich attack'?
     options:
-      - "An attack that targets three different protocols"
-      - "A front-run + back-run combo: the attacker buys before your swap (raising the price), your swap executes at the worse price, then the attacker sells at the higher price"
-      - "An attack on the consensus layer"
-      - "A social engineering technique"
+      - An attack that targets three different protocols
+      - >-
+        A front-run + back-run combo: the attacker buys before your swap
+        (raising the price), your swap executes at the worse price, then the
+        attacker sells at the higher price
+      - An attack on the consensus layer
+      - A social engineering technique
     correct: 1
-    explanation: "Your pending Uniswap swap is visible in the mempool. A bot sees it, submits a buy order with higher gas to execute first (front-run), your swap executes at a worse price due to the price impact, then the bot sells at the inflated price (back-run). The bot profits from the price difference."
-  - question: "Why is MEV sometimes called an 'invisible tax' on DeFi users?"
+    explanation: >-
+      Your pending Uniswap swap is visible in the mempool. A bot sees it,
+      submits a buy order with higher gas to execute first (front-run), your
+      swap executes at a worse price due to the price impact, then the bot sells
+      at the inflated price (back-run). The bot profits from the price
+      difference.
+  - question: Why is MEV sometimes called an 'invisible tax' on DeFi users?
     options:
-      - "Because it appears as a gas fee"
-      - "Because users unknowingly receive worse execution prices on their swaps due to front-running, and this cost is never displayed in the UI"
-      - "Because MEV is taxed by governments"
-      - "Because validators charge hidden fees"
+      - Because it appears as a gas fee
+      - >-
+        Because users unknowingly receive worse execution prices on their swaps
+        due to front-running, and this cost is never displayed in the UI
+      - Because MEV is taxed by governments
+      - Because validators charge hidden fees
     correct: 1
-    explanation: "When you swap on Uniswap, the UI shows an expected price. But if a sandwich bot intervenes, you receive fewer tokens than expected. The difference — often $5-50 per trade — goes to the MEV extractor. Most users never realize this happened because the transaction still succeeds."
-  - question: "What is Flashbots and how does it address MEV?"
+    explanation: >-
+      When you swap on Uniswap, the UI shows an expected price. But if a
+      sandwich bot intervenes, you receive fewer tokens than expected. The
+      difference - often $5-50 per trade - goes to the MEV extractor. Most users
+      never realize this happened because the transaction still succeeds.
+  - question: What is Flashbots and how does it address MEV?
     options:
-      - "A tool for writing flash loans"
-      - "An organization that built a private transaction relay to protect users from front-running, and a transparent MEV marketplace for validators"
-      - "A blockchain explorer"
-      - "A DeFi aggregator"
+      - A tool for writing flash loans
+      - >-
+        An organization that built a private transaction relay to protect users
+        from front-running, and a transparent MEV marketplace for validators
+      - A blockchain explorer
+      - A DeFi aggregator
     correct: 1
-    explanation: "Flashbots created 'MEV-Boost' — a system where searchers submit transaction bundles to a private relay instead of the public mempool. This prevents sandwich attacks (your transaction isn't visible to attackers) and creates a competitive auction for MEV extraction."
-  - question: "What is a 'private mempool' or 'RPC endpoint' and why do advanced users use one?"
+    explanation: >-
+      Flashbots created 'MEV-Boost' - a system where searchers submit
+      transaction bundles to a private relay instead of the public mempool. This
+      prevents sandwich attacks (your transaction isn't visible to attackers)
+      and creates a competitive auction for MEV extraction.
+  - question: >-
+      What is a 'private mempool' or 'RPC endpoint' and why do advanced users
+      use one?
     options:
-      - "A faster internet connection for trading"
-      - "A transaction submission channel that hides your pending transaction from public view, preventing front-running bots from seeing it"
-      - "A private blockchain"
-      - "An encrypted wallet"
+      - A faster internet connection for trading
+      - >-
+        A transaction submission channel that hides your pending transaction
+        from public view, preventing front-running bots from seeing it
+      - A private blockchain
+      - An encrypted wallet
     correct: 1
-    explanation: "When you submit a transaction through MetaMask's default RPC, it enters the public mempool where any bot can see it. Private RPCs (like Flashbots Protect or MEV Blocker) route your transaction directly to block builders without exposing it publicly, making sandwich attacks impossible."
+    explanation: >-
+      When you submit a transaction through MetaMask's default RPC, it enters
+      the public mempool where any bot can see it. Private RPCs (like Flashbots
+      Protect or MEV Blocker) route your transaction directly to block builders
+      without exposing it publicly, making sandwich attacks impossible.
 ---
 
 ## The Dark Forest
 
 In January 2020, researcher Dan Robinson published a paper called "Ethereum is a Dark Forest." The thesis: Ethereum's public mempool is a hostile environment where automated bots ruthlessly extract value from ordinary users' transactions. Any profitable opportunity visible on-chain will be captured by a bot before a human can act.
 
-MEV — Maximal Extractable Value — is the profit that can be extracted by manipulating the order, inclusion, or exclusion of transactions within a block.
+MEV - Maximal Extractable Value - is the profit that can be extracted by manipulating the order, inclusion, or exclusion of transactions within a block.
 
 <div class="diagram">
 <svg viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -91,7 +128,7 @@ MEV — Maximal Extractable Value — is the profit that can be extracted by man
 
 ## How Transactions Get Ordered
 
-When you submit a transaction on Ethereum, it doesn't execute immediately. It enters the **mempool** — a public waiting area where pending transactions sit until a validator includes them in a block.
+When you submit a transaction on Ethereum, it doesn't execute immediately. It enters the **mempool** - a public waiting area where pending transactions sit until a validator includes them in a block.
 
 Validators have complete discretion over transaction ordering within their block. They can:
 - Reorder transactions to maximize their own profit
@@ -131,7 +168,7 @@ The bot's profit comes directly from the price impact on your trade. You paid ~0
 
 Arbitrage bots equalize prices across DEXs. If ETH is $2,000 on Uniswap and $2,010 on SushiSwap, a bot simultaneously buys on Uniswap and sells on SushiSwap, pocketing the $10 difference.
 
-Unlike sandwiching, arbitrage is generally considered beneficial — it keeps prices consistent across markets.
+Unlike sandwiching, arbitrage is generally considered beneficial - it keeps prices consistent across markets.
 
 ## The Scale of MEV
 
@@ -172,13 +209,13 @@ A $100,000 swap is a much more attractive target than ten $10,000 swaps. The pri
 
 ## MEV's Impact on Ethereum's Design
 
-MEV is not just a user problem — it affects Ethereum's architecture. Flashbots built **MEV-Boost**, which separates the roles of validators (who propose blocks) and builders (who construct the optimal block). Over 90% of Ethereum blocks now use MEV-Boost.
+MEV is not just a user problem - it affects Ethereum's architecture. Flashbots built **MEV-Boost**, which separates the roles of validators (who propose blocks) and builders (who construct the optimal block). Over 90% of Ethereum blocks now use MEV-Boost.
 
 Ethereum's roadmap includes **Proposer-Builder Separation (PBS)** as a protocol-level solution, formally separating block building from block proposing to reduce centralization pressures from MEV.
 
 ## Key takeaways
 
 - MEV is profit extracted from manipulating transaction ordering within blocks. It is an inherent property of public blockchains with transparent mempools.
-- Sandwich attacks are the most common form — they cost everyday DeFi users 0.5-1% on every swap.
+- Sandwich attacks are the most common form - they cost everyday DeFi users 0.5-1% on every swap.
 - Use private RPCs (Flashbots Protect) and MEV-aware DEXs (CoW Swap) to protect your transactions.
 - Arbitrage MEV is beneficial (market efficiency). Sandwich MEV is extractive (user cost).

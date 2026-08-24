@@ -1,13 +1,14 @@
 ---
-
-title: "Web3 Jobs in Libreville: A Guide to Gabon's Green Crypto Scene"
-image: "/images/africa web3 jobs.jpg"
-data-ai-hint: "libreville gabon city"
-description: "A career guide to the Web3 job market in Libreville. Explore how Gabon's capital is becoming a hub for Regenerative Finance (ReFi) and conservation-focused."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Libreville: A Guide to Gabon''s Green Crypto Scene'
+image: /images/africa web3 jobs.jpg
+data-ai-hint: libreville gabon city
+description: >-
+  A career guide to the Web3 job market in Libreville. Explore how Gabon's
+  capital is becoming a hub for Regenerative Finance (ReFi) and
+  conservation-focused.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Libreville, the capital of Gabon, is becoming a significant hub for Web3 technologies, particularly in conservation and environmental policy. With a large portion of its land covered by forests and a strong commitment to preserving its natural resources, Gabon stands as a leader in global conservation efforts. This focus on sustainability creates a unique opportunity for the integration of Web3 technology in **Regenerative Finance (ReFi)**, establishing Libreville as a center for environmentally conscious cryptocurrency initiatives.

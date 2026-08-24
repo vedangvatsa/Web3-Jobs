@@ -1,51 +1,87 @@
 ---
-title: "Gas Optimization Patterns"
-description: "Practical techniques to reduce smart contract gas costs, with before/after comparisons and benchmarks."
+title: Gas Optimization Patterns
+description: >-
+  Practical techniques to reduce smart contract gas costs, with before/after
+  comparisons and benchmarks.
 order: 7
-readTime: "8 min"
-difficulty: "advanced"
-prerequisites: ["solidity", "first-contract"]
+readTime: 8 min
+difficulty: advanced
+prerequisites:
+  - solidity
+  - first-contract
 quiz:
-  - question: "Why is gas optimization important for smart contracts?"
+  - question: Why is gas optimization important for smart contracts?
     options:
-      - "It makes the contract compile faster"
-      - "Users pay gas for every transaction — cheaper contracts get more usage and adoption"
-      - "Ethereum requires contracts to use minimal gas"
-      - "Gas optimization improves contract security"
+      - It makes the contract compile faster
+      - >-
+        Users pay gas for every transaction - cheaper contracts get more usage
+        and adoption
+      - Ethereum requires contracts to use minimal gas
+      - Gas optimization improves contract security
     correct: 1
-    explanation: "Every operation in a smart contract costs gas, which users pay in ETH. A swap on an unoptimized DEX might cost $15 while an optimized one costs $5. Over millions of transactions, this difference determines which protocol users choose."
-  - question: "Which is cheaper: reading from 'storage' or reading from 'memory'?"
+    explanation: >-
+      Every operation in a smart contract costs gas, which users pay in ETH. A
+      swap on an unoptimized DEX might cost $15 while an optimized one costs $5.
+      Over millions of transactions, this difference determines which protocol
+      users choose.
+  - question: 'Which is cheaper: reading from ''storage'' or reading from ''memory''?'
     options:
-      - "Storage is cheaper"
-      - "They cost the same"
-      - "Memory is cheaper — storage reads cost ~2,100 gas while memory reads cost ~3 gas"
-      - "It depends on the data type"
+      - Storage is cheaper
+      - They cost the same
+      - >-
+        Memory is cheaper - storage reads cost ~2,100 gas while memory reads
+        cost ~3 gas
+      - It depends on the data type
     correct: 2
-    explanation: "Storage lives on the blockchain permanently and costs ~2,100 gas per read (SLOAD). Memory exists only during the function call and costs ~3 gas per read. Caching a storage variable in a local memory variable before using it multiple times in a loop can save thousands of gas."
-  - question: "Why are 'uint8' variables sometimes MORE expensive than 'uint256'?"
+    explanation: >-
+      Storage lives on the blockchain permanently and costs ~2,100 gas per read
+      (SLOAD). Memory exists only during the function call and costs ~3 gas per
+      read. Caching a storage variable in a local memory variable before using
+      it multiple times in a loop can save thousands of gas.
+  - question: Why are 'uint8' variables sometimes MORE expensive than 'uint256'?
     options:
-      - "uint8 uses more storage space"
-      - "The EVM operates on 256-bit words natively — smaller types require extra operations to mask and extract"
-      - "uint8 is deprecated"
-      - "Solidity doesn't support uint8"
+      - uint8 uses more storage space
+      - >-
+        The EVM operates on 256-bit words natively - smaller types require extra
+        operations to mask and extract
+      - uint8 is deprecated
+      - Solidity doesn't support uint8
     correct: 1
-    explanation: "The EVM's native word size is 256 bits. When you use uint8, the EVM must add extra instructions to mask the value to 8 bits. As a standalone variable, uint256 is cheaper. However, uint8 saves gas when you pack multiple small values into a single 32-byte storage slot."
-  - question: "What is 'struct packing' and why does it reduce gas?"
+    explanation: >-
+      The EVM's native word size is 256 bits. When you use uint8, the EVM must
+      add extra instructions to mask the value to 8 bits. As a standalone
+      variable, uint256 is cheaper. However, uint8 saves gas when you pack
+      multiple small values into a single 32-byte storage slot.
+  - question: What is 'struct packing' and why does it reduce gas?
     options:
-      - "Compressing structs into a smaller file"
-      - "Ordering struct fields so that smaller types are adjacent, allowing Solidity to fit multiple fields into a single 32-byte storage slot"
-      - "Removing unused fields from a struct"
-      - "Converting structs to arrays"
+      - Compressing structs into a smaller file
+      - >-
+        Ordering struct fields so that smaller types are adjacent, allowing
+        Solidity to fit multiple fields into a single 32-byte storage slot
+      - Removing unused fields from a struct
+      - Converting structs to arrays
     correct: 1
-    explanation: "Each storage slot is 32 bytes. A uint128 + uint128 fit in one slot (16 + 16 = 32 bytes). But if you put a uint128, then a uint256, then another uint128, you use 3 slots. Ordering fields by size lets Solidity pack them efficiently, reducing SSTORE operations."
-  - question: "Why should you use 'custom errors' instead of 'require(condition, string)' in production?"
+    explanation: >-
+      Each storage slot is 32 bytes. A uint128 + uint128 fit in one slot (16 +
+      16 = 32 bytes). But if you put a uint128, then a uint256, then another
+      uint128, you use 3 slots. Ordering fields by size lets Solidity pack them
+      efficiently, reducing SSTORE operations.
+  - question: >-
+      Why should you use 'custom errors' instead of 'require(condition, string)'
+      in production?
     options:
-      - "Custom errors are easier to read"
-      - "Error strings are stored as bytecode — each character costs deployment gas. Custom errors encode to 4 bytes regardless of complexity."
-      - "Custom errors are required since Solidity 0.8"
-      - "require() is deprecated"
+      - Custom errors are easier to read
+      - >-
+        Error strings are stored as bytecode - each character costs deployment
+        gas. Custom errors encode to 4 bytes regardless of complexity.
+      - Custom errors are required since Solidity 0.8
+      - require() is deprecated
     correct: 1
-    explanation: "require(false, 'Insufficient balance for transfer') stores that entire string in the contract bytecode. A custom error like 'error InsufficientBalance(uint256 available, uint256 required)' compiles to just a 4-byte selector, saving significant deployment and runtime gas."
+    explanation: >-
+      require(false, 'Insufficient balance for transfer') stores that entire
+      string in the contract bytecode. A custom error like 'error
+      InsufficientBalance(uint256 available, uint256 required)' compiles to just
+      a 4-byte selector, saving significant deployment and runtime gas.
 ---
 
 ## Why Gas Costs Matter
@@ -116,7 +152,7 @@ struct BadUser {
 struct GoodUser {
  uint256 id; // slot 0 (32 bytes)
  uint256 balance; // slot 1 (32 bytes)
- uint8 level; // slot 1 (packed with balance? No — but...)
+ uint8 level; // slot 1 (packed with balance? No - but...)
 }
 
 // BEST: Uses 2 storage slots
@@ -131,7 +167,7 @@ Rule: put smaller types next to each other. `uint8 + address` (1 + 20 = 21 bytes
 
 ## 3. Use Custom Errors
 
-Introduced in Solidity 0.8.4. Error strings are stored as bytecode — every character costs gas at deployment and at runtime.
+Introduced in Solidity 0.8.4. Error strings are stored as bytecode - every character costs gas at deployment and at runtime.
 
 ```solidity
 // BAD: String stored in bytecode

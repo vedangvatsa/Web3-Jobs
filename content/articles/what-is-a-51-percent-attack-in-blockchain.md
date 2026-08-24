@@ -1,13 +1,13 @@
 ---
-
-title: "What is a 51 Percent Attack in Blockchain?"
-description: "A detailed explanation of the 51% attack, one of the most discussed security threats to Proof-of-Work blockchains like Bitcoin, and how it can enable."
-category: "Educational"
-image: "https://picsum.photos/seed/51attack/1200/630"
-data-ai-hint: "51 percent attack"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is a 51 Percent Attack in Blockchain?
+description: >-
+  A detailed explanation of the 51% attack, one of the most discussed security
+  threats to Proof-of-Work blockchains like Bitcoin, and how it can enable.
+category: Educational
+image: 'https://picsum.photos/seed/51attack/1200/630'
+data-ai-hint: 51 percent attack
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## What is a 51% Attack in Blockchain?
@@ -32,7 +32,7 @@ An entity that controls more than half of the hashrate can statistically build a
 
 #### Double-Spend Scenario Explained
 
-Here’s a detailed example of how an attacker could apply a 51% attack to double-spend their coins:
+Here's a detailed example of how an attacker could apply a 51% attack to double-spend their coins:
 
 1. **Setup**: The attacker secures a majority of the network's hashrate and possesses a significant amount of cryptocurrency they wish to spend twice.
 
@@ -42,7 +42,7 @@ Here’s a detailed example of how an attacker could apply a 51% attack to doubl
 
 4. **Waiting for Confirmation**: The attacker waits for the merchant to consider their initial transaction finalized. Typically, exchanges require several block confirmations before crediting a deposit. While the honest network continues to add blocks to the public chain, the attacker is secretly adding blocks more quickly to their private chain.
 
-5. **Revealing the Secret Chain**: After the merchant has accepted the payment and delivered the goods, the attacker’s secret chain is now longer than the public chain. The attacker then broadcasts this longer, private chain to the network.
+5. **Revealing the Secret Chain**: After the merchant has accepted the payment and delivered the goods, the attacker's secret chain is now longer than the public chain. The attacker then broadcasts this longer, private chain to the network.
 
 6. **Reorganization (Re-org)**: Adhering to the "longest chain" rule, all nodes in the network recognize this new, longer chain and accept it as the valid history. They discard the original public chain they were working on.
 

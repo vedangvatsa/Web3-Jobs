@@ -1,12 +1,22 @@
 ---
-term: "Arbitrage"
-slug: "arbitrage"
-category: "trading"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80"
-description: "Arbitrage is the practice of exploiting price differences for the same asset across different markets or platforms, buying low in one place and selling high in another for risk-free profit."
-relatedTerms: ["dex", "liquidity", "slippage", "amm"]
-synonyms: ["arb", "price arbitrage", "cross-exchange trading"]
+term: Arbitrage
+slug: arbitrage
+category: trading
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80'
+description: >-
+  Arbitrage is the practice of exploiting price differences for the same asset
+  across different markets or platforms, buying low in one place and selling
+  high in another for risk-free profit.
+relatedTerms:
+  - dex
+  - liquidity
+  - slippage
+  - amm
+synonyms:
+  - arb
+  - price arbitrage
+  - cross-exchange trading
 ---
 
 Arbitrage refers to the practice of simultaneously buying and selling the same cryptocurrency or digital asset across different exchanges or decentralized protocols to capture profit from temporary price discrepancies. When Bitcoin trades at $50,000 on Coinbase but $50,150 on Kraken, an arbitrageur can purchase on the cheaper exchange and sell on the more expensive one, pocketing the difference minus transaction fees. Arbitrage keeps markets efficient. A arbitrage bots process significant daily volume across decentralized exchanges, helping synchronize prices across fragmented crypto markets. Traders and firms deploy automated systems that execute these trades in milliseconds, often using flash loans on platforms like Aave to amplify capital without upfront investment. Understanding arbitrage mechanics is valuable for careers in quantitative trading, DeFi protocol development, and blockchain infrastructure.

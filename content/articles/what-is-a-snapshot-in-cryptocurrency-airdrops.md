@@ -1,13 +1,14 @@
 ---
-
-title: "What is a Snapshot in Cryptocurrency Airdrops"
-image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
-data-ai-hint: "camera snapshot"
-description: "A snapshot is a record of the state of a blockchain at a specific block height. It's an important mechanism used by Web3 projects to determine eligibility."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is a Snapshot in Cryptocurrency Airdrops
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+data-ai-hint: camera snapshot
+description: >-
+  A snapshot is a record of the state of a blockchain at a specific block
+  height. It's an important mechanism used by Web3 projects to determine
+  eligibility.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the [Web3](/what-is-web3) sector, the term **"snapshot"** holds significant importance. It denotes the process of capturing the complete state of a [blockchain](/what-is-a-blockchain) at a specific moment, marked by a particular block height. This recorded state serves as the authoritative reference for important events such as an **[airdrop](/understanding-airdrop-campaigns-in-web3)** or a governance vote.

@@ -1,12 +1,21 @@
 ---
-term: "Time-Weighted Average Price"
-slug: "time-weighted-average-price"
-category: "trading"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
-description: "An execution strategy that spreads large trades over time to reduce price impact, calculating the average price weighted by time intervals."
-relatedTerms: ["price-impact", "slippage", "order-book", "trading"]
-synonyms: ["TWAP", "time-weighted execution", "time-sliced execution"]
+term: Time-Weighted Average Price
+slug: time-weighted-average-price
+category: trading
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80'
+description: >-
+  An execution strategy that spreads large trades over time to reduce price
+  impact, calculating the average price weighted by time intervals.
+relatedTerms:
+  - price-impact
+  - slippage
+  - order-book
+  - trading
+synonyms:
+  - TWAP
+  - time-weighted execution
+  - time-sliced execution
 ---
 
 Time-Weighted Average Price is an execution strategy that spreads large trades across multiple time intervals to minimize market impact and achieve a more favorable average entry or exit price. Rather than executing a substantial order all at once, which can cause significant slippage and move the market against the trader, TWAP algorithms break the order into smaller chunks executed at regular intervals. Uniswap V3 popularized on-chain TWAP oracles, which sample prices over time to provide manipulation-resistant price feeds for DeFi protocols. Beyond oracles, institutional traders and DEX aggregators like CoW Protocol use TWAP execution to handle large orders without disrupting thin liquidity pools. Professionals who understand TWAP mechanics are increasingly sought after for roles in algorithmic trading, protocol development, and DeFi infrastructure engineering.
@@ -105,4 +114,4 @@ Trends:
 
 ## Execute Large Orders Safely
 
-TWAP is a foundational execution strategy and a core oracle primitive. If you’re interested in trading execution, explore [trading careers](/) at trading firms and DEX aggregators.
+TWAP is a foundational execution strategy and a core oracle primitive. If you're interested in trading execution, explore [trading careers](/) at trading firms and DEX aggregators.

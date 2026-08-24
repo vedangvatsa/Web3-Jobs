@@ -1,13 +1,13 @@
 ---
-
-title: "Salary Negotiation Mistakes to Avoid"
-image: "https://picsum.photos/seed/salary-mistakes/1200/630"
-data-ai-hint: "falling money graph"
-description: "Learn about the common mistakes people make during salary negotiations and how to avoid them. Maximize your earning potential by negotiating effectively."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Salary Negotiation Mistakes to Avoid
+image: 'https://picsum.photos/seed/salary-mistakes/1200/630'
+data-ai-hint: falling money graph
+description: >-
+  Learn about the common mistakes people make during salary negotiations and how
+  to avoid them. Maximize your earning potential by negotiating effectively.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Negotiating your salary represents a key moment in your career. A successful negotiation can boost your annual income, while a poorly executed one can lead to feelings of undervaluation and dissatisfaction. Many professionals fall into common traps that hinder their negotiation success.
@@ -24,7 +24,7 @@ Failing to negotiate is one of the most detrimental mistakes. Many individuals, 
 
 Recruiters frequently ask for your salary expectations early in the [interview](/how-to-prepare-for-job-interview) process. If you provide a figure that is too low, you may anchor the negotiation to that number. Conversely, if you quote a high figure, you might eliminate yourself from consideration altogether.
 
-**Alternative Approach:** Rather than stating a number, shift the focus back to the employer. You could say, "I’m still gathering details about the role, but I believe we can agree on a competitive salary if it’s a good fit. What range do you have budgeted for this position?" This tactic encourages the employer to state their range first.
+**Alternative Approach:** Rather than stating a number, shift the focus back to the employer. You could say, "I'm still gathering details about the role, but I believe we can agree on a competitive salary if it's a good fit. What range do you have budgeted for this position?" This tactic encourages the employer to state their range first.
 
 ### 3. Not Doing Your Research
 

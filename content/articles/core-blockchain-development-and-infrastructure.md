@@ -1,13 +1,13 @@
 ---
-
-title: "Core Blockchain Development and Infrastructure"
-image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
-data-ai-hint: "blockchain infrastructure core"
-description: "A career guide for engineers who want to build the core infrastructure of Web3. Learn what a blockchain infrastructure engineer does, the skills they."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Core Blockchain Development and Infrastructure
+image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
+data-ai-hint: blockchain infrastructure core
+description: >-
+  A career guide for engineers who want to build the core infrastructure of
+  Web3. Learn what a blockchain infrastructure engineer does, the skills they.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 While decentralized application (dApp) and [smart contract](/what-are-smart-contracts) developers focus on building user-facing applications within [Web3](/what-is-web3), a distinct group of engineers operates at a foundational level. These professionals, known as **Web3 [Blockchain](/what-is-a-blockchain) Infrastructure Engineers**, specialize in creating, maintaining, and enhancing the essential components of the blockchain ecosystem. This role demands a high level of technical expertise, as it involves deep engagement with the intricacies of blockchain technology.

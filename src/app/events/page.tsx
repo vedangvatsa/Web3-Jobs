@@ -1,5 +1,6 @@
 import { EventsBoard } from '@/components/events-board';
-import { getEvents } from '@/lib/events';
+import { getEvents } from '@/lib/events-server';
+import { Web3Event } from '@/lib/events';
 import type { Metadata } from 'next';
 import type { WebPage, Event } from 'schema-dts';
 import { PageHeader } from "@/components/page-header";
@@ -12,13 +13,13 @@ export const metadata: Metadata = {
     title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
     description: 'Browse 3,000+ upcoming Web3 events, crypto conferences, blockchain summits, and builder meetups worldwide.',
     url: 'https://hashtagweb3.com/events',
-    images: [{ url: '/api/og?type=default&title=Web3%20Events%20Calendar', width: 1200, height: 630 }],
+    images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Events%20Calendar', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
     description: 'Browse 3,000+ upcoming Web3 events, crypto conferences, blockchain summits, and builder meetups worldwide.',
-    images: ['/api/og?type=default&title=Web3%20Events%20Calendar'],
+    images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Events%20Calendar'],
   },
   alternates: {
     canonical: '/events',
@@ -42,7 +43,7 @@ export default async function EventsPage() {
     description: 'Discover the top Web3 events, crypto conferences, blockchain summits, and virtual meetups.',
   };
 
-  const eventsSchema: Event[] = events.slice(0, 20).map(event => ({
+  const eventsSchema: Event[] = events.slice(0, 20).map((event: Web3Event) => ({
     '@type': 'Event',
     name: event.name,
     description: event.description,
@@ -73,7 +74,10 @@ export default async function EventsPage() {
           <div className="container mx-auto page-section px-4">
             <section className="text-center mb-8">
               <div className="site-container">
-                <PageHeader title="Web3 Events" />
+                <PageHeader
+                  title="Web3 Events & Conferences"
+                  description="Discover verified crypto conferences, hackathons, developer summits, and builder meetups worldwide in 2026."
+                />
               </div>
             </section>
             <article className="site-container">

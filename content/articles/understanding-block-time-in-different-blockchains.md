@@ -1,16 +1,17 @@
 ---
-
-title: "Understanding Block Time in Different Blockchains"
-image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
-data-ai-hint: "blockchain time"
-description: "Block time is the average time it takes for a new block to be created on a blockchain. It's a key parameter that affects a network's speed and transaction."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Block Time in Different Blockchains
+image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
+data-ai-hint: blockchain time
+description: >-
+  Block time is the average time it takes for a new block to be created on a
+  blockchain. It's a key parameter that affects a network's speed and
+  transaction.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
-In a [blockchain](/what-is-a-blockchain), transactions group into "blocks," which the network adds to the chain in a specific order. The **block time** represents the average time required for the network to create a new block. This metric is important to a blockchain’s architecture, affecting its speed, transaction capacity, and overall user experience.
+In a [blockchain](/what-is-a-blockchain), transactions group into "blocks," which the network adds to the chain in a specific order. The **block time** represents the average time required for the network to create a new block. This metric is important to a blockchain's architecture, affecting its speed, transaction capacity, and overall user experience.
 
 Blockchains adopt various block times, reflecting a balance between speed and decentralization.
 

@@ -1,12 +1,22 @@
 ---
-term: "Mempool"
-slug: "mempool"
-category: "technical"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80"
-description: "The memory pool where unconfirmed transactions wait before being included in blocks, visible to all network nodes and creating opportunities for MEV extraction."
-relatedTerms: ["gas-fee", "mev", "transaction", "mining"]
-synonyms: ["transaction pool", "tx pool", "pending transactions"]
+term: Mempool
+slug: mempool
+category: technical
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80'
+description: >-
+  The memory pool where unconfirmed transactions wait before being included in
+  blocks, visible to all network nodes and creating opportunities for MEV
+  extraction.
+relatedTerms:
+  - gas-fee
+  - mev
+  - transaction
+  - mining
+synonyms:
+  - transaction pool
+  - tx pool
+  - pending transactions
 ---
 
 Mempool refers to the memory pool where unconfirmed blockchain transactions wait before being included in blocks, serving as a staging area visible to all network nodes. When you submit a transaction on Ethereum or Bitcoin, it first broadcasts to the peer-to-peer network where each node maintains its own mempool containing pending transactions. Miners and validators then select which transactions to include in the next block, typically prioritizing those with higher fees attached. This transparency creates opportunities for MEV extraction, where actors can observe pending transactions and strategically insert their own to profit. Services like mempool.space allow users to monitor Bitcoin's mempool in real time, helping them optimize transaction fees during periods of congestion. Understanding mempool mechanics is essential for blockchain developers, protocol engineers, and MEV researchers.

@@ -1,13 +1,13 @@
 ---
-
-title: "What is a Virtual Automated Market Maker (vAMM)?"
-description: "A deep dive into Virtual AMMs (vAMMs), the new mechanism used by perpetual futures exchanges like Perpetual Protocol to enable used trading."
-category: "Educational"
-image: "https://picsum.photos/seed/vamm/1200/630"
-data-ai-hint: "virtual automated market maker"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is a Virtual Automated Market Maker (vAMM)?
+description: >-
+  A deep dive into Virtual AMMs (vAMMs), the new mechanism used by perpetual
+  futures exchanges like Perpetual Protocol to enable used trading.
+category: Educational
+image: 'https://picsum.photos/seed/vamm/1200/630'
+data-ai-hint: virtual automated market maker
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## What is a Virtual Automated Market Maker (vAMM)?
@@ -73,7 +73,7 @@ A vAMM addresses these limitations by dissociating the price-setting mechanism f
 
 - **Dependence on Oracles**: The vAMM relies heavily on secure and reliable price oracles for liquidations and funding payments. Failures or manipulations can result in severe consequences.
 - **Liquidation Cascades**: During extreme market volatility, a chain reaction of liquidations can occur, leading to rapid price fluctuations within the vAMM.
-- **Zero-Sum Nature**: Unlike standard AMMs that allow liquidity providers to earn fees, vAMMs function as zero-sum games among traders. For every dollar a long position earns, a short position incurs a corresponding loss. The protocol’s insurance fund faces risks if one trading side becomes excessively lopsided.
+- **Zero-Sum Nature**: Unlike standard AMMs that allow liquidity providers to earn fees, vAMMs function as zero-sum games among traders. For every dollar a long position earns, a short position incurs a corresponding loss. The protocol's insurance fund faces risks if one trading side becomes excessively lopsided.
 
 ### Frequently Asked Questions (FAQ)
 

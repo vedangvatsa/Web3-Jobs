@@ -1,12 +1,14 @@
 ---
-
-title: "A Creator's Guide to NFT Royalties"
-image: 'https://images.unsplash.com/photo-1694434943114-c8ea2049f781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxORlR8ZW58MHx8fHwxNzU0OTU0MDE4fDA&ixlib=rb-4.1.0&q=80&w=1080'
-description: 'Understand how NFT royalties work, the technical standards like EIP-2981, the ongoing debate about enforcement, and how creators can protect their secondary sale earnings.'
-category: 'Technology Deep Dives'
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: A Creator's Guide to NFT Royalties
+image: >-
+  https://images.unsplash.com/photo-1694434943114-c8ea2049f781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxORlR8ZW58MHx8fHwxNzU0OTU0MDE4fDA&ixlib=rb-4.1.0&q=80&w=1080
+description: >-
+  Understand how NFT royalties work, the technical standards like EIP-2981, the
+  ongoing debate about enforcement, and how creators can protect their secondary
+  sale earnings.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 For digital artists and creators, the promise of automatic, on-chain royalties represents a significant shift in how they can benefit from their work. Traditionally, visual artists often missed out on the profits generated from secondary market sales. For instance, a painter might sell a canvas for a certain amount, only to see it resold for a much higher price years later, without receiving any of that increased value. NFTs, using [smart contracts](/what-are-smart-contracts), introduced a solution: coding a royalty fee directly into the [token](/what-is-a-token), allowing the original creator to earn a percentage from each future sale indefinitely.
@@ -95,7 +97,7 @@ In this model, creators focus on building a passionate community that wants to s
 
 ### Evolving Standards Model
 
-New token standards are emerging that aim to integrate royalty enforcement more deeply into the token’s logic.
+New token standards are emerging that aim to integrate royalty enforcement more deeply into the token's logic.
 
 - **Advantages:** Such standards could offer a more reliable technical solution for royalty payments.
 - **Disadvantages:** These changes require extensive adoption by wallets and marketplaces to be effective.

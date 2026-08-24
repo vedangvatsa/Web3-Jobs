@@ -1,9 +1,9 @@
 ---
 name: Gemini
-website: https://gemini.com
+website: 'https://gemini.com'
 founded: 2014
 category: Cryptocurrency Exchange
-headquarters: New York, New York, USA
+headquarters: 'New York, New York, USA'
 description: Regulated U.S. cryptocurrency exchange founded by the Winklevoss twins
 ---
 

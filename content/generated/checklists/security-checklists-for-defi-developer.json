@@ -167,7 +167,7 @@
           },
           {
             "title": "Verify interest rate model",
-            "description": "Interest accrual must be calculated correctly. Test with various utilization levels.",
+            "description": "Interest accrual must be calculated correctly. Test with various use levels.",
             "priority": "important",
             "category": "Lending"
           },

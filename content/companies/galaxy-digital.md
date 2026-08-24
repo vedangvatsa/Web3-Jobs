@@ -1,9 +1,9 @@
 ---
 name: Galaxy Digital
-website: https://galaxy.com
+website: 'https://galaxy.com'
 founded: 2018
 category: Digital Asset Financial Services
-headquarters: New York, New York, USA
+headquarters: 'New York, New York, USA'
 description: Institutional digital asset and blockchain financial services firm
 ---
 

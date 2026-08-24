@@ -1,13 +1,14 @@
 ---
-
-title: "Career Gap Explanation for Your Resume"
-description: "An employment gap on your resume doesn't have to be a red flag. Learn how to frame your career break positively and address it confidently in your job search."
-image: "https://picsum.photos/seed/315/1200/630"
-data-ai-hint: "resume gap"
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Career Gap Explanation for Your Resume
+description: >-
+  An employment gap on your resume doesn't have to be a red flag. Learn how to
+  frame your career break positively and address it confidently in your job
+  search.
+image: 'https://picsum.photos/seed/315/1200/630'
+data-ai-hint: resume gap
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 An employment gap on your [resume](/how-to-build-a-web3-resume-that-stands-out) often raises concerns for job seekers. Many worry that hiring managers will view these gaps as indicators of instability or lack of commitment. However, career breaks are increasingly common and generally do not have the negative impact they once did. The key is to address the gap with clarity, honesty, and confidence.
@@ -47,7 +48,7 @@ This phrasing positions your break as a conscious and positive decision while qu
 
 If a hiring manager brings up your employment gap during an interview, be ready with a concise and positive explanation.
 
-- **Be Honest, but Don’t Overshare**: Provide a straightforward explanation without looking into personal details. You might say, "I took time off to address a family matter, which is now resolved, and I am fully prepared to return to work."
+- **Be Honest, but Don't Overshare**: Provide a straightforward explanation without looking into personal details. You might say, "I took time off to address a family matter, which is now resolved, and I am fully prepared to return to work."
 
 - **Highlight What You Gained**: Frame your time away in terms of the skills or insights you developed. For instance, "During my career break, I earned my project management certification, which I look forward to applying in this role."
 

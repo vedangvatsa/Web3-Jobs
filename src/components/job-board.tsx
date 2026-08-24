@@ -10,7 +10,7 @@ import { Skeleton } from '@/components/ui/skeleton';
 
 import { JobApplicationButton } from './tracking/job-application-button';
 import { SearchTracker } from './tracking/search-tracker';
-import { trackJobApplicationClick, trackJobView } from '@/lib/posthog';
+import { trackJobView } from '@/lib/posthog';
 import { useDebounce } from '@/hooks/use-debounce';
 
 const INITIAL_JOBS_COUNT = 50;
@@ -114,6 +114,8 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
       value={searchQuery}
       onChange={handleSearchChange}
       className="w-full text-base pl-12 h-12 rounded-full shadow-sm focus-visible:ring-offset-4"
+      data-toolname="searchWeb3Jobs"
+      data-tooldescription="Search 10,000+ Web3 job listings by role, company, or keyword. Returns jobs with title, company, location, type, and apply link."
      />
      <Search className="absolute left-5 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
     </div>

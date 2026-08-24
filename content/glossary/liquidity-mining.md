@@ -1,12 +1,22 @@
 ---
-term: "Liquidity Mining"
-slug: "liquidity-mining"
-category: "defi"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "Incentive programs where protocols reward users for providing liquidity to trading pools or lending protocols, typically with governance tokens or yield farming rewards."
-relatedTerms: ["defi", "liquidity", "yield-farming", "airdrop"]
-synonyms: ["LP rewards", "liquidity rewards", "mining incentives"]
+term: Liquidity Mining
+slug: liquidity-mining
+category: defi
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  Incentive programs where protocols reward users for providing liquidity to
+  trading pools or lending protocols, typically with governance tokens or yield
+  farming rewards.
+relatedTerms:
+  - defi
+  - liquidity
+  - yield-farming
+  - airdrop
+synonyms:
+  - LP rewards
+  - liquidity rewards
+  - mining incentives
 ---
 
 Liquidity mining refers to incentive programs where decentralized protocols distribute token rewards to users who provide liquidity to trading pools or lending platforms. This mechanism became a significant factor in DeFi's growth in 2020, when protocols like Compound distributed COMP governance tokens to both lenders and borrowers, attracting substantial deposits. The strategy works by offering yields that combine traditional trading fees with supplemental token rewards, though these incentives often prove temporary since liquidity frequently migrates once reward programs conclude. For Web3 professionals, understanding liquidity mining mechanics remains essential, as DeFi protocols continuously seek tokenomics specialists and liquidity strategists who can design sustainable incentive structures.

@@ -1,6 +1,6 @@
 ---
 name: Noise Labs
-website: https://noise.xyz
+website: 'https://noise.xyz'
 founded: 2023
 category: Social / Creative
 headquarters: Remote

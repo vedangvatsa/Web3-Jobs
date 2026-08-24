@@ -17,8 +17,10 @@ import {
  SelectTrigger,
  SelectValue,
 } from '@/components/ui/select';
-import { Download, Trash2, Plus, Briefcase, Target, CheckSquare, Sparkles, Bot, ArrowRight, ClipboardEdit } from 'lucide-react';
+import { Download, Trash2, Plus, Briefcase, Target, CheckSquare, Sparkles, ClipboardEdit } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
+import { CtaBanner } from '@/components/cta-banner';
+import { createPdfInstance } from '@/lib/pdf-utils';
 
 
 const jobDescriptionSchema = z.object({
@@ -141,7 +143,7 @@ export function JDBuilderForm() {
         doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor(55, 65, 81);
         items.forEach(item => {
           if (item.value) {
-            const lines = doc.splitTextToSize(`• ${item.value}`, contentWidth - 10);
+            const lines = doc.splitTextToSize(`- ${item.value}`, contentWidth - 10);
             if (y + (lines.length * 12) > doc.internal.pageSize.getHeight() - margin) {
               doc.addPage();
               y = margin;
@@ -284,26 +286,18 @@ export function JDBuilderForm() {
       </Card>
 
       <Card>
-       <CardHeader><CardTitle className="flex items-center gap-2"><Bot className="text-primary"/> Preferred Qualifications</CardTitle></CardHeader>
+       <CardHeader><CardTitle className="flex items-center gap-2"><Sparkles className="text-primary"/> Preferred Qualifications</CardTitle></CardHeader>
        <CardContent>
         <FieldArrayInput fields={prefQualFields} remove={removePrefQual} append={appendPrefQual} placeholder="e.g. Experience with L2s..." label="preferredQualifications" />
        </CardContent>
       </Card>
 
-       <Card className="col-span-full bg-muted/30 border shadow-none">
-        <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-          
-          <div>
-            <h3 className="text-xl font-bold text-foreground mb-1">Ready to Hire?</h3>
-            <p className="text-muted-foreground">Post your job on the #1 Web3 job board to reach over 100,000 qualified professionals.</p>
-          </div>
-          <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
-            <Button size="lg">
-              Post a Job <ArrowRight className="ml-2 h-4 w-4"/>
-            </Button>
-          </a>
-        </CardContent>
-      </Card>
+      <CtaBanner
+        variant="hire"
+        title="Ready to Hire?"
+        buttonText="Post a Job"
+        className="col-span-full"
+      />
 
      </div>
 

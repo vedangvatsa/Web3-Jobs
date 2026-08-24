@@ -1,13 +1,14 @@
 ---
-
-title: "Breaking Into Blockchain DevOps"
-image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
-data-ai-hint: "blockchain devops engineer"
-description: "A career guide for DevOps engineers looking to transition into Web3. Learn about the unique challenges of blockchain infrastructure, from node management."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Breaking Into Blockchain DevOps
+image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
+data-ai-hint: blockchain devops engineer
+description: >-
+  A career guide for DevOps engineers looking to transition into Web3. Learn
+  about the unique challenges of blockchain infrastructure, from node
+  management.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 As the [Web3](/what-is-web3) ecosystem matures, the demand for scalable and secure infrastructure has increased. This demand has led to the emergence of a specialized role that connects software development with [blockchain](/what-is-a-blockchain) operations: the **Blockchain DevOps Engineer**.

@@ -1,13 +1,14 @@
 ---
-
-title: "From Web2 to Web3: the best Developer Career Guide"
-image: "/images/chris-ried-bN5XdU-bap4-unsplash.jpg"
-description: "A practical guide for Web2 developers looking to transition into a Web3 career, covering key concepts, essential skills, and a step-by-step roadmap for."
-category: "Career Guides"
-data-ai-hint: "code on screen"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'From Web2 to Web3: the best Developer Career Guide'
+image: /images/chris-ried-bN5XdU-bap4-unsplash.jpg
+description: >-
+  A practical guide for Web2 developers looking to transition into a Web3
+  career, covering key concepts, essential skills, and a step-by-step roadmap
+  for.
+category: Career Guides
+data-ai-hint: code on screen
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: The New Opportunities for Developers

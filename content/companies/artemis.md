@@ -1,6 +1,6 @@
 ---
 name: Artemis
-website: https://artemis.xyz
+website: 'https://artemis.xyz'
 category: Other
 description: Artemis is a company focused on new technology solutions.
 ---

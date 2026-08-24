@@ -1,10 +1,12 @@
 ---
 name: Foundry
-website: https://foundrydigital.com
+website: 'https://foundrydigital.com'
 founded: 2019
 category: Mining / Staking
-headquarters: Rochester, New York
-description: Institutional-grade digital asset mining and staking infrastructure (DCG subsidiary)
+headquarters: 'Rochester, New York'
+description: >-
+  Institutional-grade digital asset mining and staking infrastructure (DCG
+  subsidiary)
 ---
 
 Institutional-grade digital asset mining and staking infrastructure (DCG subsidiary).

@@ -1,12 +1,21 @@
 ---
-term: "Floor Price"
-slug: "floor-price"
-category: "nfts"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1634973357973-f2ed2657db3c?w=1200&q=80"
-description: "The lowest listed price for any NFT in a collection, serving as the minimum entry point and key indicator of collection value and market sentiment."
-relatedTerms: ["nft", "collection", "marketplace", "liquidity"]
-synonyms: ["floor", "entry price", "minimum price"]
+term: Floor Price
+slug: floor-price
+category: nfts
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1634973357973-f2ed2657db3c?w=1200&q=80'
+description: >-
+  The lowest listed price for any NFT in a collection, serving as the minimum
+  entry point and key indicator of collection value and market sentiment.
+relatedTerms:
+  - nft
+  - collection
+  - marketplace
+  - liquidity
+synonyms:
+  - floor
+  - entry price
+  - minimum price
 ---
 
 Floor price refers to the lowest listed price at which any NFT from a specific collection can be purchased on marketplaces, establishing the minimum cost of entry for collectors and investors. This metric serves as a barometer of collection health, market sentiment, and perceived value within the NFT ecosystem. When tracking blue-chip collections like Bored Ape Yacht Club on OpenSea, traders monitor floor price movements to assess whether a collection is gaining or losing momentum. Floor price fluctuates continuously as NFTs are listed, sold, and delisted, reflecting the interaction of supply and demand. Professionals who understand floor price dynamics and can analyze collection trends are increasingly sought after by NFT marketplaces, Web3 investment funds, and digital asset trading firms.

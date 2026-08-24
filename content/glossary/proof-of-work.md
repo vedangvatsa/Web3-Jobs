@@ -1,13 +1,22 @@
 ---
-term: "Proof of Work"
-slug: "proof-of-work"
-category: "Technical"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&h=600&fit=crop"
-imageAlt: "Mining hardware and computational work representing proof of work consensus"
-description: "A consensus mechanism where miners compete to solve computationally intensive puzzles to add new blocks to the blockchain. The foundation of Bitcoin and original Ethereum security."
-relatedTerms: ["mining", "consensus-mechanism", "bitcoin"]
-synonyms: ["PoW", "mining consensus"]
+term: Proof of Work
+slug: proof-of-work
+category: Technical
+difficulty: Intermediate
+image: >-
+  https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&h=600&fit=crop
+imageAlt: Mining hardware and computational work representing proof of work consensus
+description: >-
+  A consensus mechanism where miners compete to solve computationally intensive
+  puzzles to add new blocks to the blockchain. The foundation of Bitcoin and
+  original Ethereum security.
+relatedTerms:
+  - mining
+  - consensus-mechanism
+  - bitcoin
+synonyms:
+  - PoW
+  - mining consensus
 ---
 
 Proof of Work is a consensus mechanism that requires network participants to solve computationally intensive cryptographic puzzles to validate transactions and add new blocks to the blockchain. Miners compete by dedicating processing power to find a hash that meets specific difficulty requirements, with the first successful miner earning the right to propose the next block and receive block rewards plus transaction fees. Bitcoin, the original implementation of this mechanism, has operated continuously since 2009 and currently consumes significant amounts of electricity annually, demonstrating both the security guarantees and energy costs inherent to the design. Ethereum also relied on Proof of Work until its transition to Proof of Stake in 2022. Understanding Proof of Work remains essential for blockchain professionals, as roles in mining operations, hardware optimization, protocol development, and network security continue to demand expertise in this foundational consensus approach.

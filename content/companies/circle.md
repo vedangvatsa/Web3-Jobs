@@ -1,9 +1,9 @@
 ---
 name: Circle
-website: https://circle.com
+website: 'https://circle.com'
 founded: 2013
 category: Digital Asset Infrastructure
-headquarters: Boston, Massachusetts, USA
+headquarters: 'Boston, Massachusetts, USA'
 description: Issuer of USDC stablecoin and global financial technology firm
 ---
 

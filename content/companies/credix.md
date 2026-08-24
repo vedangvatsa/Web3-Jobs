@@ -1,6 +1,6 @@
 ---
 name: Credix
-website: https://credix.finance
+website: 'https://credix.finance'
 category: DeFi Protocol
 description: Credix provides decentralized finance solutions for credit markets.
 ---

@@ -1,13 +1,14 @@
 ---
-
 title: How to Build Professional Network Fast
-description: A strategic guide to rapidly building a strong professional network. Learn actionable strategies for both online and in-person networking to accelerate your career growth.
-image: https://picsum.photos/seed/fast-network/1200/630
+description: >-
+  A strategic guide to rapidly building a strong professional network. Learn
+  actionable strategies for both online and in-person networking to accelerate
+  your career growth.
+image: 'https://picsum.photos/seed/fast-network/1200/630'
 category: Career Guides
 data-ai-hint: people connecting
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Introduction: Your Network is Your Net Worth

@@ -241,9 +241,9 @@
       }
     ],
     "proTips": [
-      "Playtest with real users before auditing — they will find exploits your checklist misses.",
+      "Playtest with real users before auditing - they will find exploits your checklist misses.",
       "Separate game logic security from token security in your review.",
-      "Test reward distribution under extreme load — that is where most GameFi bugs appear."
+      "Test reward distribution under extreme load - that is where most GameFi bugs appear."
     ]
   }
 }

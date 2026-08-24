@@ -1,12 +1,13 @@
 ---
-
-title: "Web3 Jobs in Gaborone: A Guide to Botswana's Stable and Growing Tech Scene"
-image: "/images/africa web3 jobs.jpg"
-data-ai-hint: "gaborone botswana city"
-description: "A career guide to the Web3 job market in Gaborone. Explore how Botswana's capital is using its economic stability and strategic vision to become a."
-category: "Career Guides"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Gaborone: A Guide to Botswana''s Stable and Growing Tech Scene'
+image: /images/africa web3 jobs.jpg
+data-ai-hint: gaborone botswana city
+description: >-
+  A career guide to the Web3 job market in Gaborone. Explore how Botswana's
+  capital is using its economic stability and strategic vision to become a.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Gaborone, the capital of Botswana, distinguishes itself in the African tech sector through its stability, strategic planning, and ambitious growth. Botswana consistently ranks among the most stable and well-governed countries in Africa. This foundation enables Gaborone to build a tech ecosystem designed for sustainable growth. The city is progressively using [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology, focusing on developing trustworthy and transparent systems across finance, supply chains, and natural resource management.
@@ -168,7 +169,7 @@ A mid-level developer earning a competitive salary in a remote role might face t
 Visit their Gaborone office, email their innovation team, or attend their startup events. They welcome Web3 builders and offer various resources.
 
 **Is Gaborone's focus more on enterprise or DeFi?**
-The emphasis lies in enterprise solutions and regulated finance. While DeFi exists, the city’s strengths revolve around enterprise applications, supply chains, and regulated assets.
+The emphasis lies in enterprise solutions and regulated finance. While DeFi exists, the city's strengths revolve around enterprise applications, supply chains, and regulated assets.
 
 **Can I earn a good living pursuing Web3 in Gaborone?**
 Yes. Local roles start at a competitive salary, while remote roles can yield significantly more. The potential savings rate exceeds that of many countries.

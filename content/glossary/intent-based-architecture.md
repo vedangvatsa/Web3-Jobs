@@ -1,12 +1,21 @@
 ---
-term: "Intent-Based Architecture"
-slug: "intent-based-architecture"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
-description: "A blockchain design where users specify intents (what they want) rather than transactions (exact steps), allowing solvers to find optimal execution paths."
-relatedTerms: ["mev", "dex", "order-book", "solver"]
-synonyms: ["intent execution", "solver-based execution", "intent framework"]
+term: Intent-Based Architecture
+slug: intent-based-architecture
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80'
+description: >-
+  A blockchain design where users specify intents (what they want) rather than
+  transactions (exact steps), allowing solvers to find optimal execution paths.
+relatedTerms:
+  - mev
+  - dex
+  - order-book
+  - solver
+synonyms:
+  - intent execution
+  - solver-based execution
+  - intent framework
 ---
 
 Intent-Based Architecture refers to a blockchain design where users declare their desired outcomes rather than specifying exact transaction steps. This enables specialized actors called solvers to compete for optimal execution paths. Instead of manually routing a token swap through multiple decentralized exchanges, a user simply states their goal, such as receiving a minimum amount of USDC for their ETH, and solvers handle the complexity of finding the best price across liquidity sources. UniswapX, launched in 2023, pioneered this approach for decentralized trading by allowing off-chain solvers to fill orders. This architecture shifts value extraction away from validators and toward competitive solver networks, potentially eliminating much of the MEV that currently affects DeFi users. Professionals with expertise in intent-based systems and solver infrastructure are increasingly sought after as major protocols transition toward this user-centric execution model.

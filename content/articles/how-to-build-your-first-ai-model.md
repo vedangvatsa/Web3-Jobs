@@ -1,13 +1,14 @@
 ---
-
-title: "How to Build Your First AI Model"
-image: "https://picsum.photos/seed/ai-model/1200/630"
-data-ai-hint: "robot building blocks"
-description: "A beginner's, step-by-step guide to building a simple but complete machine learning model using Python. No complex theory, just a practical, hands-on project."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Build Your First AI Model
+image: 'https://picsum.photos/seed/ai-model/1200/630'
+data-ai-hint: robot building blocks
+description: >-
+  A beginner's, step-by-step guide to building a simple but complete machine
+  learning model using Python. No complex theory, just a practical, hands-on
+  project.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The concept of building an AI model often seems daunting. However, modern tools now enable anyone with basic programming skills to create a functional machine learning model within a few hours.
@@ -43,7 +44,7 @@ A typical supervised machine learning project consists of five key steps:
 2. **Prepare the Data**: Explore the dataset and divide it into training and testing sets.
 3. **Choose a Model**: Select the appropriate algorithm for your specific problem.
 4. **Train the Model**: Provide the training data to your model for learning.
-5. **Evaluate and Predict**: Assess the model’s performance and use it for new predictions.
+5. **Evaluate and Predict**: Assess the model's performance and use it for new predictions.
 
 Now, let's break down each step in detail.
 
@@ -57,7 +58,7 @@ Evaluate your current skills and knowledge base. Identify your strengths and wea
 
 ### Develop Your Personal Strategy
 
-Craft a personalized learning plan that reflects your unique situation. Every individual’s journey is different, so tailor your approach. Consider your role, team dynamics, workplace culture, and personal career goals. Set clear, achievable objectives that align with your aspirations.
+Craft a personalized learning plan that reflects your unique situation. Every individual's journey is different, so tailor your approach. Consider your role, team dynamics, workplace culture, and personal career goals. Set clear, achievable objectives that align with your aspirations.
 
 ### Implement Gradually
 

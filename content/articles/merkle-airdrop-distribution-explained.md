@@ -1,13 +1,14 @@
 ---
-
-title: "Merkle Airdrop Distribution Explained"
-image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
-data-ai-hint: "tree data structure"
-description: "A Merkle airdrop is a highly efficient method for distributing tokens to a large number of users. This guide explains how it uses Merkle trees to save gas."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Merkle Airdrop Distribution Explained
+image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
+data-ai-hint: tree data structure
+description: >-
+  A Merkle airdrop is a highly efficient method for distributing tokens to a
+  large number of users. This guide explains how it uses Merkle trees to save
+  gas.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Airdrops serve as an effective method for distributing a new token to a project's community. However, distributing tokens to thousands or even millions of addresses poses a significant technical challenge: how to do it without incurring excessive gas fees. Sending individual `transfer` transactions to each recipient is prohibitively expensive.
@@ -62,7 +63,7 @@ This method is highly gas-efficient. You can prove the eligibility of millions o
 
 When a user wishes to claim their airdrop, they must prove their eligibility to the contract using a **Merkle proof**.
 
-The Merkle proof comprises the "sibling" hashes necessary to recalculate the Merkle root from the user's specific leaf hash. The user's [wallet](/how-to-choose-a-crypto-wallet) or the project’s frontend can generate this proof.
+The Merkle proof comprises the "sibling" hashes necessary to recalculate the Merkle root from the user's specific leaf hash. The user's [wallet](/how-to-choose-a-crypto-wallet) or the project's frontend can generate this proof.
 
 **Step 4: On-Chain - Verify the Proof and Claim**
 

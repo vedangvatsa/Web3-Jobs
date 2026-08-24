@@ -1,18 +1,19 @@
 ---
-
-title: "How to Make a Good First Impression at a New Job"
-description: "Your first impression can set the tone for your entire career at a new company. This guide provides actionable tips for making a positive and lasting."
-category: "Career Guides"
-image: "https://picsum.photos/seed/304/1200/630"
-data-ai-hint: "first impression"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Make a Good First Impression at a New Job
+description: >-
+  Your first impression can set the tone for your entire career at a new
+  company. This guide provides actionable tips for making a positive and
+  lasting.
+category: Career Guides
+image: 'https://picsum.photos/seed/304/1200/630'
+data-ai-hint: first impression
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Making a Great First Impression at Work
 
-The first few days and weeks at a new job are your opportunity to establish a positive reputation. Here’s how to make it count.
+The first few days and weeks at a new job are your opportunity to establish a positive reputation. Here's how to make it count.
 
 ### 1. Be Punctual and Prepared
 
@@ -66,7 +67,7 @@ Before we dive into tactics, understand why this matters:
 
 Conversely, a bad first impression is hard to overcome. Someone who decides you're careless or difficult will look for evidence confirming that belief.
 
-See also: **[Building Relationships with Your New Team](building-relationships-with-new-team)** – Building on your first impression over time.
+See also: **[Building Relationships with Your New Team](building-relationships-with-new-team)** - Building on your first impression over time.
 
 ### 1. Be Punctual and Prepared
 
@@ -148,7 +149,7 @@ In your first week:
 - Batch related questions: "I have a few questions about the project."
 - Acknowledge their time: "I know you're busy, but when you have a moment..."
 
-Related: **[Asking Smart Questions as a New Employee](asking-smart-questions-as-new-employee)** – Deep dive on asking questions strategically.
+Related: **[Asking Smart Questions as a New Employee](asking-smart-questions-as-new-employee)** - Deep dive on asking questions strategically.
 
 ### 4. Build Relationships Intentionally
 

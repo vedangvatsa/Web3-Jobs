@@ -1,13 +1,13 @@
 ---
-
-title: "Building Responsible AI Systems: A Web3 Framework"
-image: "/images/bruce-mars-FWVMhUa_wbY-unsplash.jpg"
-description: "Learn how Web3 principles like transparency and decentralization can be used to build more responsible and ethical AI systems."
-category: "Industry Insights"
-data-ai-hint: "ai ethics"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Building Responsible AI Systems: A Web3 Framework'
+image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
+description: >-
+  Learn how Web3 principles like transparency and decentralization can be used
+  to build more responsible and ethical AI systems.
+category: Industry Insights
+data-ai-hint: ai ethics
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Artificial intelligence (AI) continues to advance rapidly, with large language models producing text indistinguishable from that written by humans. Computer vision systems now recognize individuals and objects with precision. Recommendation algorithms shape the online experiences of many users, determining what content they encounter.
@@ -21,7 +21,7 @@ Web3 principles and technologies provide a framework to develop more responsible
 The vast majority of advanced AI systems are under the control of large technology corporations. This concentration of power raises several issues.
 
 **Opacity and Lack of Accountability** 
-The inner workings of systems like YouTube’s recommendation algorithm and Meta’s content moderation are opaque. Users and researchers cannot audit these algorithms, making it impossible to verify companies' claims of responsibility.
+The inner workings of systems like YouTube's recommendation algorithm and Meta's content moderation are opaque. Users and researchers cannot audit these algorithms, making it impossible to verify companies' claims of responsibility.
 
 **Data Privacy Concerns** 
 Training AI systems requires massive datasets, which often include personal information scraped from the internet or collected from users without their explicit consent. Many users remain unaware of how their data is used or lack the option to opt out.

@@ -1,13 +1,14 @@
 ---
-
-title: "What is an Initial Coin Offering"
-image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
-data-ai-hint: "coins stacked crypto"
-description: "An Initial Coin Offering (ICO) is a fundraising method where a new crypto project sells its native tokens to early investors. This guide explains how ICOs."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is an Initial Coin Offering
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+data-ai-hint: coins stacked crypto
+description: >-
+  An Initial Coin Offering (ICO) is a fundraising method where a new crypto
+  project sells its native tokens to early investors. This guide explains how
+  ICOs.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 An **Initial Coin Offering (ICO)** serves as a fundraising mechanism for emerging cryptocurrency projects. It parallels an Initial Public Offering (IPO) in the stock market. During an ICO, a project creates a new cryptocurrency [token](/what-is-a-token) and sells it to early investors. This process generates the necessary capital for development, marketing, and operational expenses.
@@ -18,7 +19,7 @@ The ICO boom of 2017 marked a significant period for the cryptocurrency sector. 
 
 The traditional ICO model from 2017 typically adhered to these steps:
 
-1. **The Whitepaper:** The project team published a **[whitepaper](/what-is-a-whitepaper-in-blockchain-projects)** detailing the project’s vision, technology, and token structure, often referred to as "tokenomics."
+1. **The Whitepaper:** The project team published a **[whitepaper](/what-is-a-whitepaper-in-blockchain-projects)** detailing the project's vision, technology, and token structure, often referred to as "tokenomics."
 2. **The Token Sale:** The team announced the token sale's specifics, including the token price, usually denominated in [Bitcoin](/what-is-bitcoin) (BTC) or [Ethereum](/what-is-ethereum) (ETH), and the total capital goal.
 3. **The Investment:** Interested investors sent BTC or ETH to a designated [smart contract](/what-are-smart-contracts) address provided by the project.
 4. **Token Distribution:** In return, the smart contract automatically distributed the corresponding amount of new project tokens to the investors' [wallet](/how-to-choose-a-crypto-wallet).

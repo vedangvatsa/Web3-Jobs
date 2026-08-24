@@ -1,0 +1,31 @@
+{
+  "protocol": "A2A",
+  "version": "1.0.0",
+  "name": "Hashtag Web3 Agent",
+  "description": "Autonomous agent for Web3 talent intelligence, job market data, salary benchmarks, and blockchain education.",
+  "provider": {
+    "organization": "Hashtag Web3 Inc.",
+    "url": "https://hashtagweb3.com",
+    "contact": "contact@hashtagweb3.com"
+  },
+  "endpoints": {
+    "openapi": "https://hashtagweb3.com/openapi.json",
+    "mcp": "https://hashtagweb3.com/.well-known/mcp/server-card.json",
+    "nlweb": "https://hashtagweb3.com/ask",
+    "auth": "https://hashtagweb3.com/auth.md",
+    "skills": "https://hashtagweb3.com/.well-known/agent-skills/index.json"
+  },
+  "capabilities": [
+    "job_search",
+    "salary_benchmarking",
+    "glossary_lookup",
+    "event_discovery",
+    "news_aggregation"
+  ],
+  "supported_transports": [
+    "rest",
+    "sse",
+    "mcp-http",
+    "nlweb"
+  ]
+}

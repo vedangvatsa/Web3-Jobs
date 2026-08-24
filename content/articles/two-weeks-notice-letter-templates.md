@@ -1,13 +1,14 @@
 ---
-
-title: "Two Weeks' Notice Letter Templates"
-description: "Writing a two weeks' notice letter is an important part of leaving a job professionally. Here are several templates you can use to ensure you leave on good terms."
-image: "https://picsum.photos/seed/313/1200/630"
-data-ai-hint: "writing letter"
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Two Weeks' Notice Letter Templates
+description: >-
+  Writing a two weeks' notice letter is an important part of leaving a job
+  professionally. Here are several templates you can use to ensure you leave on
+  good terms.
+image: 'https://picsum.photos/seed/313/1200/630'
+data-ai-hint: writing letter
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 When you decide to leave your job, giving two weeks' notice is a standard professional practice. You should first have a conversation with your manager before submitting a formal resignation letter. This letter serves as the official record for HR and should express your intentions clearly and professionally. The objective is to leave on good terms.
@@ -49,7 +50,7 @@ Dear [Manager's Name],
 
 I am writing with mixed emotions to announce my resignation from my role as [Job Title] at [Company Name]. My final day will be [Your Last Day].
 
-I am deeply grateful for the incredible opportunities you provided me. I take pride in what we’ve accomplished together, particularly [mention a specific project or accomplishment]. Your mentorship and the support from the team have greatly enriched my professional journey.
+I am deeply grateful for the incredible opportunities you provided me. I take pride in what we've accomplished together, particularly [mention a specific project or accomplishment]. Your mentorship and the support from the team have greatly enriched my professional journey.
 
 During my remaining two weeks, I will do everything I can to enable a smooth transition. I am prepared to help train my replacement and document ongoing projects.
 

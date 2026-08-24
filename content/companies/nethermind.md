@@ -1,9 +1,9 @@
 ---
 name: Nethermind
-website: https://nethermind.io
+website: 'https://nethermind.io'
 founded: 2017
 category: Infrastructure / Research
-headquarters: London, United Kingdom
+headquarters: 'London, United Kingdom'
 description: Ethereum client builder and blockchain research firm
 ---
 

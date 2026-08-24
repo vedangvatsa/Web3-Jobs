@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/employee-milestones-tracker',
   images: [
    {
-    url: '/api/og?type=default&title=Employee%20Milestones%20Tracker',
+    url: 'https://hashtagweb3.com/api/og?type=default&title=Employee%20Milestones%20Tracker',
     width: 1200,
     height: 630,
     alt: 'Employee Milestones Tracker',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Employee 30-60-90 Day Plan | Free Milestones Tracker',
   description: 'Create structured 30-60-90 day plans for new hires. Track employee milestones, align on goals, and support career progression with our free milestone tracking tool.',
-  images: ['/api/og?type=default&title=Employee%20Milestones%20Tracker'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Employee%20Milestones%20Tracker'],
  },
 };
 

@@ -1,13 +1,13 @@
 ---
-
-title: "Self Driving Cars Complete Guide"
-description: "A full look into the world of autonomous vehicles, from the different levels of automation to the technology that powers them and the challenges ahead."
-category: "Educational"
-image: "https://picsum.photos/seed/selfdriving/1200/630"
-data-ai-hint: "autonomous car"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Self Driving Cars Complete Guide
+description: >-
+  A full look into the world of autonomous vehicles, from the different levels
+  of automation to the technology that powers them and the challenges ahead.
+category: Educational
+image: 'https://picsum.photos/seed/selfdriving/1200/630'
+data-ai-hint: autonomous car
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Self-driving cars, also known as autonomous vehicles, have transitioned from a futuristic concept to tangible innovations that are reshaping transportation. These vehicles operate without human intervention, relying on complex technology to manage and interact with their environment.

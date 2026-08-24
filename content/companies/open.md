@@ -1,6 +1,6 @@
 ---
 name: OPEN
-website: https://open.network
+website: 'https://open.network'
 category: Other
 description: OPEN is a platform focused on enhancing online collaboration and productivity.
 ---

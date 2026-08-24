@@ -1,13 +1,13 @@
 ---
-
-title: "CRISPR Technology Explained for Beginners"
-description: "A simple and clear explanation of CRISPR, the new gene-editing tool, covering how it works, its applications, and the ethical questions it raises."
-category: "Educational"
-image: "https://picsum.photos/seed/crispr/1200/630"
-data-ai-hint: "dna editing"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: CRISPR Technology Explained for Beginners
+description: >-
+  A simple and clear explanation of CRISPR, the new gene-editing tool, covering
+  how it works, its applications, and the ethical questions it raises.
+category: Educational
+image: 'https://picsum.photos/seed/crispr/1200/630'
+data-ai-hint: dna editing
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 CRISPR represents a significant advancement in genetic science. This gene-editing technology enables precise modifications to DNA, fundamentally altering our approach to genetics. At its core, CRISPR functions like a digital editing tool for genes, allowing researchers to identify specific DNA sequences, cut them, and either excise or modify them.
@@ -55,7 +55,7 @@ CRISPR offers humanity significant control over genetic material. As a useful to
 CRISPR technology has high accuracy, but it is not infallible. There exists a risk of "off-target" effects, where the Cas9 enzyme may inadvertently cut DNA at unintended locations. Researchers are actively working on improving the system's specificity, with advancements in Cas9 variants enhancing precision.
 
 **2. How does CRISPR differ from traditional GMOs?** 
-Traditional Genetically Modified Organisms (GMOs) often involve the insertion of foreign DNA, sometimes from different species. In contrast, CRISPR allows for precise modifications of an organism’s existing DNA without adding external genetic material. The resulting organism may exhibit traits similar to those found in naturally occurring mutations.
+Traditional Genetically Modified Organisms (GMOs) often involve the insertion of foreign DNA, sometimes from different species. In contrast, CRISPR allows for precise modifications of an organism's existing DNA without adding external genetic material. The resulting organism may exhibit traits similar to those found in naturally occurring mutations.
 
 **3. Can CRISPR be applied to complex diseases like Alzheimer's or heart disease?** 
 Diseases such as Alzheimer's and heart disease result from complex interactions among multiple genes and environmental factors. These conditions cannot be addressed with a single genetic edit as seen with monogenic diseases. Nevertheless, CRISPR serves as a valuable tool for researching these multifactorial diseases, potentially leading to novel therapies targeting genetic risk factors.

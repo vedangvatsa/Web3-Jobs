@@ -1,51 +1,69 @@
 ---
-title: "Your First Smart Contract"
-description: "A line-by-line breakdown of a simple Solidity contract."
+title: Your First Smart Contract
+description: A line-by-line breakdown of a simple Solidity contract.
 order: 2
-readTime: "10 min"
-difficulty: "beginner"
-prerequisites: ["solidity"]
+readTime: 10 min
+difficulty: beginner
+prerequisites:
+  - solidity
 quiz:
-  - question: "What does the 'pragma solidity' line do?"
+  - question: What does the 'pragma solidity' line do?
     options:
-      - "Deploys the contract"
-      - "Specifies which version of the compiler should be used"
-      - "Imports external libraries"
-      - "Declares a variable"
+      - Deploys the contract
+      - Specifies which version of the compiler should be used
+      - Imports external libraries
+      - Declares a variable
     correct: 1
-    explanation: "The pragma directive tells the compiler which version of Solidity to use. This prevents future compiler updates from breaking your code."
-  - question: "What is a state variable?"
+    explanation: >-
+      The pragma directive tells the compiler which version of Solidity to use.
+      This prevents future compiler updates from breaking your code.
+  - question: What is a state variable?
     options:
-      - "A variable that exists only while a function is running"
-      - "A variable whose value is permanently stored on the blockchain"
-      - "A variable that holds the user's wallet address"
-      - "A constant that cannot be changed"
+      - A variable that exists only while a function is running
+      - A variable whose value is permanently stored on the blockchain
+      - A variable that holds the user's wallet address
+      - A constant that cannot be changed
     correct: 1
-    explanation: "State variables are declared inside the contract but outside of any function. Their values are permanently written to the blockchain storage."
-  - question: "What does the 'public' keyword mean when applied to a state variable?"
+    explanation: >-
+      State variables are declared inside the contract but outside of any
+      function. Their values are permanently written to the blockchain storage.
+  - question: What does the 'public' keyword mean when applied to a state variable?
     options:
-      - "Anyone can change the variable"
-      - "The compiler automatically generates a 'getter' function so anyone can read its value"
-      - "The variable is free of gas fees"
-      - "The variable is shared across all smart contracts"
+      - Anyone can change the variable
+      - >-
+        The compiler automatically generates a 'getter' function so anyone can
+        read its value
+      - The variable is free of gas fees
+      - The variable is shared across all smart contracts
     correct: 1
-    explanation: "Making a variable 'public' tells Solidity to automatically create a function that allows anyone (or any other contract) to read the value of that variable without needing to write a custom getter function."
-  - question: "What does msg.sender represent?"
+    explanation: >-
+      Making a variable 'public' tells Solidity to automatically create a
+      function that allows anyone (or any other contract) to read the value of
+      that variable without needing to write a custom getter function.
+  - question: What does msg.sender represent?
     options:
-      - "The amount of ETH sent in the transaction"
-      - "The address of the account (or contract) that called the function"
-      - "The name of the contract"
-      - "A random number generator"
+      - The amount of ETH sent in the transaction
+      - The address of the account (or contract) that called the function
+      - The name of the contract
+      - A random number generator
     correct: 1
-    explanation: "msg.sender is a global variable in Solidity that always contains the Ethereum address of the person or contract that initiated the current function call. It is heavily used for access control."
-  - question: "If a function only reads state variables but does not change them, what keyword should it use?"
+    explanation: >-
+      msg.sender is a global variable in Solidity that always contains the
+      Ethereum address of the person or contract that initiated the current
+      function call. It is heavily used for access control.
+  - question: >-
+      If a function only reads state variables but does not change them, what
+      keyword should it use?
     options:
-      - "payable"
-      - "view"
-      - "pure"
-      - "write"
+      - payable
+      - view
+      - pure
+      - write
     correct: 1
-    explanation: "The 'view' keyword indicates that a function promises not to modify the state of the contract. Calling a view function from outside the blockchain costs no gas."
+    explanation: >-
+      The 'view' keyword indicates that a function promises not to modify the
+      state of the contract. Calling a view function from outside the blockchain
+      costs no gas.
 ---
 
 ## Let's write a simple contract

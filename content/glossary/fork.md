@@ -1,13 +1,22 @@
 ---
-term: "Fork"
-slug: "fork"
-category: "Technical"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1200&h=600&fit=crop"
-imageAlt: "Diverging paths representing blockchain forks"
-description: "A divergence in a blockchain resulting in two separate chains. Can be intentional (hard fork/soft fork) for upgrades or accidental due to competing blocks."
-relatedTerms: ["blockchain", "consensus-mechanism", "node"]
-synonyms: ["chain split", "protocol fork"]
+term: Fork
+slug: fork
+category: Technical
+difficulty: Intermediate
+image: >-
+  https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1200&h=600&fit=crop
+imageAlt: Diverging paths representing blockchain forks
+description: >-
+  A divergence in a blockchain resulting in two separate chains. Can be
+  intentional (hard fork/soft fork) for upgrades or accidental due to competing
+  blocks.
+relatedTerms:
+  - blockchain
+  - consensus-mechanism
+  - node
+synonyms:
+  - chain split
+  - protocol fork
 ---
 
 Fork refers to a divergence in a blockchain's protocol that results in two separate chains sharing a common transaction history up to the point of split. Forks can be intentional, such as soft forks that introduce backward-compatible changes or hard forks that create permanent chain separations requiring all nodes to upgrade. They can also occur accidentally when miners produce competing blocks simultaneously. The most notable example is the 2016 Ethereum hard fork following the DAO hack, which created Ethereum and Ethereum Classic as distinct networks with different philosophical approaches to immutability. Understanding fork mechanics is valuable in the job market, as blockchain developers and protocol engineers must work through upgrade coordination, backward compatibility, and community governance when implementing network changes.

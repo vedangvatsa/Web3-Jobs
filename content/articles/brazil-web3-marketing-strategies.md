@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Marketing in Brazil: A Guide to the Brazilian Market"
-description: "Brazil is a Web3 powerhouse. This guide explores the key strategies, cultural nuances, and opportunities for marketing crypto projects in Latin America's."
-image: "/images/chris-ried-bN5XdU-bap4-unsplash.jpg"
-category: "Industry Insights"
-data-ai-hint: "brazil flag computer"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Marketing in Brazil: A Guide to the Brazilian Market'
+description: >-
+  Brazil is a Web3 powerhouse. This guide explores the key strategies, cultural
+  nuances, and opportunities for marketing crypto projects in Latin America's.
+image: /images/chris-ried-bN5XdU-bap4-unsplash.jpg
+category: Industry Insights
+data-ai-hint: brazil flag computer
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Cracking the Code: A Guide to Web3 Marketing in Brazil
@@ -61,18 +61,18 @@ Success hinges on more than just a marketing budget. Projects must invest in loc
 
 | Position | Salary Range (BRL) |
 |----------------------------------|----------------------|
-| Community Manager (Portuguese) | 6,000 – 12,000/month |
-| Content Creator/Influencer Liaison| 8,000 – 16,000/month |
-| Marketing Manager | 10,000 – 20,000/month|
-| Growth Lead/Head of Marketing | 15,000 – 30,000/month|
+| Community Manager (Portuguese) | 6,000 - 12,000/month |
+| Content Creator/Influencer Liaison| 8,000 - 16,000/month |
+| Marketing Manager | 10,000 - 20,000/month|
+| Growth Lead/Head of Marketing | 15,000 - 30,000/month|
 
 ### Remote Opportunities (Global Companies)
 
 | Position | Salary Range (USD) |
 |----------------------------------|----------------------|
-| Mid-Level Marketer | 2,000 – 4,000/month |
-| Senior Marketing Manager | 3,500 – 6,000+/month |
-| Head of Latin America Growth | 4,500 – 8,000+/month |
+| Mid-Level Marketer | 2,000 - 4,000/month |
+| Senior Marketing Manager | 3,500 - 6,000+/month |
+| Head of Latin America Growth | 4,500 - 8,000+/month |
 
 **Cost of Living Advantage:** Monthly expenses outside São Paulo range significantly. Earning remotely allows you to save a substantial portion of your income locally.
 

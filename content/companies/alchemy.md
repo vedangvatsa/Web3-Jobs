@@ -1,9 +1,9 @@
 ---
 name: Alchemy
-website: https://www.alchemy.com
+website: 'https://www.alchemy.com'
 founded: 2017
 category: Blockchain Infrastructure
-headquarters: San Francisco, California, USA
+headquarters: 'San Francisco, California, USA'
 description: Leading blockchain developer platform powering top Web3 applications
 ---
 

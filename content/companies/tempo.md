@@ -1,8 +1,10 @@
 ---
 name: Tempo
-website: https://tempo.xyz
+website: 'https://tempo.xyz'
 category: Other
-description: Tempo provides solutions for managing and optimizing blockchain-based projects.
+description: >-
+  Tempo provides solutions for managing and optimizing blockchain-based
+  projects.
 ---
 
 Tempo focuses on enhancing project management within the blockchain sector. They offer tools designed to simplify workflows and improve collaboration for teams working on decentralized applications. Their platform is tailored for organizations looking to optimize their operations in the Web3 space.

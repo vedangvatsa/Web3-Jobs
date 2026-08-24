@@ -1,13 +1,14 @@
 ---
-
-title: "Honeypot Scams in Crypto Explained"
-image: "/images/christin-hume-Hcfwew744z4-unsplash.jpg"
-data-ai-hint: "crypto scam trap"
-description: "A honeypot is a malicious smart contract that tricks users into sending it funds that they can never withdraw. Learn how these scams work and how to spot."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Honeypot Scams in Crypto Explained
+image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
+data-ai-hint: crypto scam trap
+description: >-
+  A honeypot is a malicious smart contract that tricks users into sending it
+  funds that they can never withdraw. Learn how these scams work and how to
+  spot.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In cryptocurrency, a **honeypot** represents a particularly deceptive and harmful type of scam. This scam uses a [smart contract](/what-are-smart-contracts) that creates an illusion of a lucrative opportunity, such as a new [token](/what-is-a-token) with an enticing price increase. However, the code prevents anyone except the scammer from withdrawing funds. This trap targets both naive and greedy users, effectively locking their investments away indefinitely.
@@ -24,7 +25,7 @@ A honeypot typically involves a smart contract containing malicious logic. The p
 
 3. **The Trap:** When the user attempts to sell the honeypot token to realize profits, the transaction fails repeatedly. They realize they cannot sell the token for ETH due to malicious coding in the smart contract, which restricts selling to only the contract's owner (the scammer).
 
-4. **The Exit:** The user’s ETH becomes trapped in the liquidity pool of the honeypot token. After attracting enough victims, the scammer, who can sell the tokens, liquidates all their tokens on the market and withdraws all valuable ETH from the liquidity pool, leaving victims with worthless tokens.
+4. **The Exit:** The user's ETH becomes trapped in the liquidity pool of the honeypot token. After attracting enough victims, the scammer, who can sell the tokens, liquidates all their tokens on the market and withdraws all valuable ETH from the liquidity pool, leaving victims with worthless tokens.
 
 ### Common Mechanisms of Honeypot Scams
 

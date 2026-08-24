@@ -1,13 +1,23 @@
 ---
-term: "Airdrop"
-slug: "airdrop"
-category: "trading"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1080"
-imageAlt: "Cryptocurrency airdrop and token distribution"
-description: "A marketing strategy where cryptocurrency projects distribute free tokens to wallet addresses to promote adoption, reward early users, or decentralize token ownership."
-relatedTerms: ["Token", "Governance Token", "Wallet", "DApp", "Marketing"]
-synonyms: ["Token Airdrop", "Crypto Airdrop"]
+term: Airdrop
+slug: airdrop
+category: trading
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1080'
+imageAlt: Cryptocurrency airdrop and token distribution
+description: >-
+  A marketing strategy where cryptocurrency projects distribute free tokens to
+  wallet addresses to promote adoption, reward early users, or decentralize
+  token ownership.
+relatedTerms:
+  - Token
+  - Governance Token
+  - Wallet
+  - DApp
+  - Marketing
+synonyms:
+  - Token Airdrop
+  - Crypto Airdrop
 ---
 
 Airdrop refers to the distribution of free cryptocurrency tokens or NFTs directly to wallet addresses. This mechanism is typically used by projects to promote adoption, reward early users, or achieve decentralized token ownership. The Uniswap UNI airdrop in September 2020 is a notable example, distributing tokens to historical users. Airdrop distributions have created specialized roles in the job market, including airdrop strategists who design distribution criteria, Sybil detection analysts who identify fraudulent claims, and community managers who coordinate eligibility requirements. Understanding airdrop mechanics is essential for professionals pursuing careers in tokenomics and growth marketing.
@@ -30,7 +40,7 @@ Airdrop refers to the distribution of free cryptocurrency tokens or NFTs directl
 
 - **Uniswap (2020)**: Distributed UNI tokens to anyone who had used the protocol, setting a standard for retroactive airdrops.
 
-- **ENS (2021)**: Ethereum Name Service airdropped tokens based on .eth domain ownership and length of ownership.
+- **ENS (2021)**: Ethereum Name Service airdropped tokens based on.eth domain ownership and length of ownership.
 
 - **OpenSea**: The community expected an airdrop for years, but OpenSea never delivered, leading to backlash.
 

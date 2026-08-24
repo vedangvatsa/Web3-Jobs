@@ -1,13 +1,13 @@
 ---
-
-title: "What Coding Language is Used for Web3? A Developer's Guide"
-description: "A guide to the most important programming languages in Web3. Learn about Solidity, Rust, and the key languages you need to know to become a blockchain."
-image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
-category: "Career Guides"
-data-ai-hint: "code on screen"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What Coding Language is Used for Web3? A Developer's Guide
+description: >-
+  A guide to the most important programming languages in Web3. Learn about
+  Solidity, Rust, and the key languages you need to know to become a blockchain.
+image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
+category: Career Guides
+data-ai-hint: code on screen
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Beyond JavaScript: The Coding Languages Powering Web3
@@ -35,7 +35,7 @@ While Solidity leads in the EVM domain, Rust has gained traction as the preferre
 
 - **Overview:** Rust is a modern systems programming language developed by Mozilla. It emphasizes performance, memory safety, and concurrency. Unlike Solidity, Rust is a general-purpose language that has been embraced by the Web3 community.
 - **Usage:** Rust serves as the main language for writing smart contracts on blockchain platforms like Solana, Near, and Polkadot. It is also instrumental in developing core clients for these blockchains.
-- **Importance:** Rust’s focus on safety and performance makes it a strong choice for building secure, high-throughput protocols. As ecosystems such as Solana expand, the demand for skilled Rust developers continues to rise.
+- **Importance:** Rust's focus on safety and performance makes it a strong choice for building secure, high-throughput protocols. As ecosystems such as Solana expand, the demand for skilled Rust developers continues to rise.
 
 **Key Characteristics:**
 - Prioritizes memory safety without a garbage collector, achieved via its unique ownership and borrowing system.

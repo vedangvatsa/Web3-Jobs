@@ -1,9 +1,9 @@
 ---
 name: OpenSea
-website: https://opensea.io
+website: 'https://opensea.io'
 founded: 2017
 category: NFT Marketplace
-headquarters: New York, New York, USA
+headquarters: 'New York, New York, USA'
 description: Leading marketplace for NFTs and digital collectibles
 ---
 

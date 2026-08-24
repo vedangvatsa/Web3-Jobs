@@ -1,10 +1,12 @@
 ---
 name: Axiom
-website: https://axiom.xyz
+website: 'https://axiom.xyz'
 founded: 2022
 category: ZK Infrastructure
-headquarters: New York, United States
-description: Zero-knowledge proof infrastructure enabling smart contracts to access historical on-chain data
+headquarters: 'New York, United States'
+description: >-
+  Zero-knowledge proof infrastructure enabling smart contracts to access
+  historical on-chain data
 ---
 
 Zero-knowledge proof infrastructure enabling smart contracts to access historical on-chain data.

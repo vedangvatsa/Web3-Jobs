@@ -1,10 +1,10 @@
 ---
 name: Digital Currency Group
-website: https://dcg.co
+website: 'https://dcg.co'
 founded: 2015
 category: Venture Capital / Conglomerate
-headquarters: Stamford, Connecticut
-description: Crypto conglomerate and parent company of Grayscale, Foundry, and CoinDesk
+headquarters: 'Stamford, Connecticut'
+description: 'Crypto conglomerate and parent company of Grayscale, Foundry, and CoinDesk'
 ---
 
 Crypto conglomerate and parent company of Grayscale, Foundry, and CoinDesk.

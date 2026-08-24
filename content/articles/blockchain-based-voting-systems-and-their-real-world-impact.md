@@ -1,13 +1,14 @@
 ---
-
-title: "Blockchain Based Voting Systems and Their Real World Impact"
-image: "/images/adi-goldstein-EUsVwEOsblE-unsplash.jpg"
-data-ai-hint: "voting system blockchain"
-description: "A deep dive into how blockchain technology can be used to create secure, transparent, and auditable voting systems, and the real-world impact this could."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Blockchain Based Voting Systems and Their Real World Impact
+image: /images/adi-goldstein-EUsVwEOsblE-unsplash.jpg
+data-ai-hint: voting system blockchain
+description: >-
+  A deep dive into how blockchain technology can be used to create secure,
+  transparent, and auditable voting systems, and the real-world impact this
+  could.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The integrity of voting systems is essential for democracy and corporate governance. Traditional voting methods, whether paper-based or electronic, often suffer from issues relating to trust, transparency, and security. These systems are susceptible to tampering, prone to human error, and challenging to audit. Blockchain technology presents a viable solution to address these issues through its characteristics of immutability, transparency, and decentralization.

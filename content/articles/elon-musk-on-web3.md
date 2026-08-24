@@ -1,13 +1,13 @@
 ---
-
-title: "What Does Elon Musk Really Think About Web3?"
-image: "/images/markus-spiske-iar-afB0QQw-unsplash.jpg"
-data-ai-hint: "elon musk web3"
-description: "An analysis of Elon Musk's public statements and actions regarding Web3, cryptocurrencies, and the vision of a decentralized internet."
-category: "Industry Insights"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What Does Elon Musk Really Think About Web3?
+image: /images/markus-spiske-iar-afB0QQw-unsplash.jpg
+data-ai-hint: elon musk web3
+description: >-
+  An analysis of Elon Musk's public statements and actions regarding Web3,
+  cryptocurrencies, and the vision of a decentralized internet.
+category: Industry Insights
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Elon Musk, CEO of Tesla and SpaceX, and owner of X (formerly Twitter), wields significant influence in the technology sector. His public statements often impact markets and shape discussions around technological advancements. Given his active role in technology and commitment to free speech, many in the [Web3](/what-is-web3) community view him as a potential advocate for a decentralized internet.
@@ -40,7 +40,7 @@ Despite his enthusiasm for cryptocurrency, Musk expresses considerable skepticis
 
 - **"More Marketing Buzzword Than Reality":** In late 2021, Musk tweeted that Web3 "seems more marketing buzzword than reality right now." He raised concerns over its decentralization, suggesting control largely rests with venture capitalists.
 - **Practicality Over Ideals:** Musk's skepticism aligns with his engineering mindset. He prioritizes whether technology provides efficient solutions to real-world problems rather than abstract philosophical ideals. Currently, he does not see the dApps and protocols in the Web3 ecosystem delivering on this promise.
-- **"Where is it?" Commentary:** When questioned about Web3, Musk quipped, "I can’t find it," highlighting his belief that, despite the conversation, Web3 has yet to produce compelling, mainstream applications demonstrating superiority over Web2.
+- **"Where is it?" Commentary:** When questioned about Web3, Musk quipped, "I can't find it," highlighting his belief that, despite the conversation, Web3 has yet to produce compelling, mainstream applications demonstrating superiority over Web2.
 
 ### The X.com "Everything App": A Centralized Alternative?
 
@@ -48,7 +48,7 @@ Musk's vision for X (formerly Twitter) offers insight into his thinking. He aims
 
 This vision contradicts the Web3 ethos:
 - **Centralized vs. Decentralized:** The "everything app" represents a centralized approach, confining activity within a single company's ecosystem, opposing the Web3 vision of an open, interoperable network of protocols.
-- **Control vs. Ownership:** In Musk's concept of X, the company retains control of the platform and its rules, contrasting with Web3’s focus on distributing control among users.
+- **Control vs. Ownership:** In Musk's concept of X, the company retains control of the platform and its rules, contrasting with Web3's focus on distributing control among users.
 
 While Musk has suggested that crypto payments, likely in Dogecoin, will feature in the X app, he views crypto as a component of his centralized platform rather than as the foundation for innovation.
 

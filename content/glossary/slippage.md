@@ -1,13 +1,22 @@
 ---
-term: "Slippage"
-slug: "slippage"
-category: "trading"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop"
-imageAlt: "Price movement and trading execution visualization"
-description: "The difference between the expected price of a trade and the actual execution price. Occurs due to price movement between order submission and execution, especially in volatile or low-liquidity markets."
-relatedTerms: ["dex", "amm", "liquidity-pool"]
-synonyms: ["price slippage", "execution difference"]
+term: Slippage
+slug: slippage
+category: trading
+difficulty: Beginner
+image: >-
+  https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop
+imageAlt: Price movement and trading execution visualization
+description: >-
+  The difference between the expected price of a trade and the actual execution
+  price. Occurs due to price movement between order submission and execution,
+  especially in volatile or low-liquidity markets.
+relatedTerms:
+  - dex
+  - amm
+  - liquidity-pool
+synonyms:
+  - price slippage
+  - execution difference
 ---
 
 Slippage refers to the difference between the expected price of a trade and the actual execution price. This phenomenon occurs when market conditions shift between order submission and blockchain confirmation. In decentralized exchanges like Uniswap, traders set slippage tolerance parameters to prevent excessive losses, typically between 0.5% and 3% depending on token volatility and liquidity depth. During periods of high network congestion or market turbulence, slippage can increase significantly. The mechanics behind slippage involve automated market maker algorithms, where larger trades relative to pool size create proportionally greater price impact. Understanding slippage is essential for DeFi developers, quantitative analysts, and smart contract engineers.

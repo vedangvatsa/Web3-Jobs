@@ -1,13 +1,13 @@
 ---
-
-title: "The First Bitcoin Transaction: A Cypherpunk Handshake Across the Globe"
-description: "On January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney, marking the first-ever peer-to-peer transaction on the Bitcoin network. We explore the."
-image: "/images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg"
-category: "Industry Insights"
-data-ai-hint: "bitcoin transaction"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'The First Bitcoin Transaction: A Cypherpunk Handshake Across the Globe'
+description: >-
+  On January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney, marking the
+  first-ever peer-to-peer transaction on the Bitcoin network. We explore the.
+image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
+category: Industry Insights
+data-ai-hint: bitcoin transaction
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## A Landmark Moment in Digital History

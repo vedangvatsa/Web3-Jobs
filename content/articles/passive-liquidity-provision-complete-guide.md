@@ -1,13 +1,13 @@
 ---
-
-title: "Passive Liquidity Provision: A Complete Guide"
-description: "Explore the world of passive liquidity provision in DeFi, its benefits, the inherent risks like impermanent loss, and the platforms that make it easier."
-category: "Educational"
-image: "https://picsum.photos/seed/passivelp/1200/630"
-data-ai-hint: "passive liquidity"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Passive Liquidity Provision: A Complete Guide'
+description: >-
+  Explore the world of passive liquidity provision in DeFi, its benefits, the
+  inherent risks like impermanent loss, and the platforms that make it easier.
+category: Educational
+image: 'https://picsum.photos/seed/passivelp/1200/630'
+data-ai-hint: passive liquidity
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Passive Liquidity Provision in DeFi
@@ -73,9 +73,9 @@ To address the challenges of concentrated liquidity, a new category of DeFi prot
 
 **How They Work:**
 1. **User Deposits Funds**: Users deposit assets, such as ETH and USDC, into a vault managed by a liquidity manager protocol.
-2. **Automated Strategy**: The protocol’s [smart contracts](/what-are-smart-contracts) deploy these funds into an optimal concentrated liquidity position on Uniswap v3.
-3. **Automatic Rebalancing**: The protocol’s algorithms continuously monitor price movements, automatically rebalancing and re-ranging the liquidity position to maximize fee collection.
-4. **Fees and Compounding**: Earned fees are harvested and compounded back into the position, augmenting the user’s principal over time.
+2. **Automated Strategy**: The protocol's [smart contracts](/what-are-smart-contracts) deploy these funds into an optimal concentrated liquidity position on Uniswap v3.
+3. **Automatic Rebalancing**: The protocol's algorithms continuously monitor price movements, automatically rebalancing and re-ranging the liquidity position to maximize fee collection.
+4. **Fees and Compounding**: Earned fees are harvested and compounded back into the position, augmenting the user's principal over time.
 
 For users, the process remains passive. They deposit funds into a vault, while the protocol manages all complexities. Typically, liquidity managers charge a small performance fee on the returns generated.
 

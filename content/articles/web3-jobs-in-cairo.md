@@ -1,13 +1,14 @@
 ---
-
-title: "Web3 Jobs in Cairo: A Guide to Egypt's Rising Tech Scene"
-image: "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWlyb3xlbnwwfHx8fDE3NTkyNzM4MDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
-data-ai-hint: "web3 jobs in cairo"
-description: "A career guide to the Web3 job market in Cairo. Explore how Egypt's capital is becoming a key hub for blockchain talent, driven by a massive youth."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Cairo: A Guide to Egypt''s Rising Tech Scene'
+image: >-
+  https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWlyb3xlbnwwfHx8fDE3NTkyNzM4MDR8MA&ixlib=rb-4.1.0&q=80&w=1080
+data-ai-hint: web3 jobs in cairo
+description: >-
+  A career guide to the Web3 job market in Cairo. Explore how Egypt's capital is
+  becoming a key hub for blockchain talent, driven by a massive youth.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Cairo is emerging as a significant player in the Middle East and North Africa (MENA) region's Web3 sector. With a youthful population exceeding 100 million, Egypt boasts a largely untapped talent pool that increasingly uses decentralized technology. The combination of a active startup ecosystem and a pressing demand for accessible financial services supports a dynamic job market for Web3 professionals.

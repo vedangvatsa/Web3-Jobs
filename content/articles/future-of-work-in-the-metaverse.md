@@ -1,13 +1,13 @@
 ---
-
-title: "The Future of Work in the Metaverse"
-image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
-data-ai-hint: "future work metaverse"
-description: "How will we work in the metaverse? This article explores the emerging jobs and career paths in persistent virtual worlds, from digital architects to."
-category: "Industry Insights"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: The Future of Work in the Metaverse
+image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
+data-ai-hint: future work metaverse
+description: >-
+  How will we work in the metaverse? This article explores the emerging jobs and
+  career paths in persistent virtual worlds, from digital architects to.
+category: Industry Insights
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The metaverse is transitioning from a speculative idea into a functional reality. As shared virtual environments advance, they reshape not only how we socialize and entertain ourselves but also how we engage in work. The future of work extends beyond the remote office; it uses virtual spaces, generating a diverse job market filled with roles specific to these digital areas.

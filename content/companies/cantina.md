@@ -1,6 +1,6 @@
 ---
 name: Cantina
-website: https://cantina.xyz
+website: 'https://cantina.xyz'
 category: Other
 description: Cantina is a company focused on Web3 and blockchain technology solutions.
 ---

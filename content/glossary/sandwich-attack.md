@@ -1,12 +1,22 @@
 ---
-term: "Sandwich Attack"
-slug: "sandwich-attack"
-category: "security"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80"
-description: "An MEV exploit where an attacker observes pending transactions and strategically places their own transactions before and after to profit from price movements."
-relatedTerms: ["mev", "front-running", "mempool", "security"]
-synonyms: ["frontrun-backrun", "MEV attack", "transaction ordering"]
+term: Sandwich Attack
+slug: sandwich-attack
+category: security
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80'
+description: >-
+  An MEV exploit where an attacker observes pending transactions and
+  strategically places their own transactions before and after to profit from
+  price movements.
+relatedTerms:
+  - mev
+  - front-running
+  - mempool
+  - security
+synonyms:
+  - frontrun-backrun
+  - MEV attack
+  - transaction ordering
 ---
 
 Sandwich Attack refers to a form of MEV exploitation where a malicious actor monitors pending blockchain transactions and strategically positions their own trades immediately before and after a target transaction to extract profit from the resulting price movement. When a user submits a large swap on a decentralized exchange like Uniswap, an attacker can front-run by purchasing the same asset first, artificially inflating its price, then back-run by selling immediately after the victim's trade executes at a worse rate. This manipulation has become common across DeFi. The attack exploits the transparent nature of public mempools combined with the ability to pay higher gas fees for transaction priority. Understanding sandwich attacks and their prevention mechanisms is essential knowledge for smart contract auditors, protocol designers, and MEV researchers.

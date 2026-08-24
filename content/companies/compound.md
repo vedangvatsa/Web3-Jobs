@@ -1,9 +1,9 @@
 ---
 name: Compound
-website: https://compound.finance
+website: 'https://compound.finance'
 founded: 2017
 category: DeFi Protocol
-headquarters: San Francisco, California
+headquarters: 'San Francisco, California'
 description: Algorithmic money market protocol for lending and borrowing crypto assets
 ---
 

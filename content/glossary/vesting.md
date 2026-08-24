@@ -1,12 +1,22 @@
 ---
-term: "Vesting"
-slug: "vesting"
-category: "governance"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "A schedule determining when tokens locked during initial distribution (ICO, seed funding, employee grants) become available to claim or transfer, preventing sudden market dumps."
-relatedTerms: ["token", "governance-token", "tokenomics", "lock-up"]
-synonyms: ["token release schedule", "lock-up period", "gradual release"]
+term: Vesting
+slug: vesting
+category: governance
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A schedule determining when tokens locked during initial distribution (ICO,
+  seed funding, employee grants) become available to claim or transfer,
+  preventing sudden market dumps.
+relatedTerms:
+  - token
+  - governance-token
+  - tokenomics
+  - lock-up
+synonyms:
+  - token release schedule
+  - lock-up period
+  - gradual release
 ---
 
 Vesting is a time-based mechanism that controls when cryptocurrency tokens from initial distributions become available for recipients to claim, transfer, or sell. Rather than granting full token allocations immediately, vesting schedules release assets gradually over predetermined periods, typically ranging from one to four years with various cliff and linear unlock structures. This approach prevents early investors and team members from flooding the market with tokens immediately after launch, which could devastate prices and destroy community trust. Ethereum co-founder Vitalik Buterin's original allocation was subject to vesting provisions that restricted immediate liquidation. Understanding vesting mechanics is essential for professionals in tokenomics design, legal compliance, and investor relations roles, where structuring appropriate vesting terms directly impacts project credibility and long-term sustainability.

@@ -1,12 +1,22 @@
 ---
-term: "Validator Slashing"
-slug: "validator-slashing"
-category: "blockchain-fundamentals"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
-description: "A penalty mechanism in Proof-of-Stake systems where validators lose staked tokens for dishonest behavior, creating economic disincentives against attacks and misbehavior."
-relatedTerms: ["proof-of-stake", "validator", "staking", "consensus"]
-synonyms: ["slashing penalty", "stake penalty", "dishonesty penalty"]
+term: Validator Slashing
+slug: validator-slashing
+category: blockchain-fundamentals
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80'
+description: >-
+  A penalty mechanism in Proof-of-Stake systems where validators lose staked
+  tokens for dishonest behavior, creating economic disincentives against attacks
+  and misbehavior.
+relatedTerms:
+  - proof-of-stake
+  - validator
+  - staking
+  - consensus
+synonyms:
+  - slashing penalty
+  - stake penalty
+  - dishonesty penalty
 ---
 
 Validator slashing is a penalty mechanism in Proof-of-Stake blockchain systems where validators lose a portion of their staked tokens for engaging in dishonest or harmful behavior, such as double-signing blocks or attesting to conflicting chain histories. This economic punishment creates a disincentive against attacks, as validators risk financial loss if they attempt to manipulate the network. Ethereum's slashing mechanism penalizes validators who try to propose multiple blocks for the same slot or submit contradictory attestations, with penalties ranging from a minimum of one-thirty-second of the validator's stake up to the full amount during correlated attacks. Understanding slashing mechanics is essential for blockchain security engineers, protocol developers, and staking infrastructure operators who must design systems that minimize accidental slashing while maintaining network integrity.

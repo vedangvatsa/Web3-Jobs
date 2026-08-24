@@ -1,12 +1,22 @@
 ---
-term: "Escrow"
-slug: "escrow"
-category: "defi"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "A neutral third party holding funds during a transaction until conditions are met, enabling trustless transactions between parties who don't trust each other."
-relatedTerms: ["smart-contract", "defi", "security", "multisig"]
-synonyms: ["escrow service", "neutral holding", "trustless custody"]
+term: Escrow
+slug: escrow
+category: defi
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A neutral third party holding funds during a transaction until conditions are
+  met, enabling trustless transactions between parties who don't trust each
+  other.
+relatedTerms:
+  - smart-contract
+  - defi
+  - security
+  - multisig
+synonyms:
+  - escrow service
+  - neutral holding
+  - trustless custody
 ---
 
 Escrow is a neutral third-party arrangement where funds or assets are held until predetermined transaction conditions are met, enabling secure exchanges between parties who do not trust each other. In traditional finance, escrow services handle everything from real estate closings to online marketplace purchases, but blockchain technology has transformed this concept through smart contract automation. Platforms like OpenSea use escrow mechanisms to secure NFT trades, holding both the digital asset and payment until the transaction completes atomically. Smart contract escrow eliminates the need for human intermediaries, reducing costs and settlement times from days to seconds. For Web3 professionals, understanding escrow implementation is fundamental, as marketplace developers, DeFi engineers, and smart contract auditors regularly work with escrow patterns to build secure trading infrastructure.

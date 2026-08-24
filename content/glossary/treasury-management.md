@@ -1,12 +1,22 @@
 ---
-term: "Treasury Management"
-slug: "treasury-management"
-category: "governance"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&q=80"
-description: "Protocols managing their cryptocurrency reserves through governance, making strategic decisions on allocation, deployment, and reserves to ensure sustainability and growth."
-relatedTerms: ["dao", "governance", "protocol", "token"]
-synonyms: ["treasury operations", "reserves management", "protocol funds"]
+term: Treasury Management
+slug: treasury-management
+category: governance
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&q=80'
+description: >-
+  Protocols managing their cryptocurrency reserves through governance, making
+  strategic decisions on allocation, deployment, and reserves to ensure
+  sustainability and growth.
+relatedTerms:
+  - dao
+  - governance
+  - protocol
+  - token
+synonyms:
+  - treasury operations
+  - reserves management
+  - protocol funds
 ---
 
 Treasury Management refers to the strategic oversight of cryptocurrency reserves held by decentralized protocols. It encompasses decisions around allocation, deployment, and preservation of digital assets to ensure long-term sustainability and growth. This discipline combines traditional finance principles with blockchain-native governance mechanisms, where token holders collectively vote on how funds should be used. Uniswap provides a prominent example, maintaining a treasury that includes UNI tokens, ETH, and stablecoins, with allocation decisions ranging from developer grants to liquidity provisioning and ecosystem incentives. Poor treasury management through misallocation, failed investments, or security breaches can devastate even well-established protocols. Effective stewardship enables sustained development and competitive positioning. As protocols increasingly professionalize their financial operations, demand for treasury analysts and DeFi finance specialists continues to grow across the Web3 job market.

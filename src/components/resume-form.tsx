@@ -20,12 +20,11 @@ import {
  Sparkles,
  BrainCircuit,
  Code,
- Rss,
- ArrowRight,
 } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { ResumePreview } from './resume-preview';
 import type { ResumeData } from '@/types';
+import { CtaBanner } from '@/components/cta-banner';
 
 const contributionSchema = z.object({
  project: z.string().min(1, 'Project name is required'),
@@ -521,30 +520,13 @@ export function ResumeForm() {
        </CardContent>
       </Card>
 
-      <Card className="col-span-full bg-muted/30 border shadow-none">
-       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-        
-        <div>
-         <h3 className="text-xl font-bold text-foreground mb-1">
-          Ready to Apply?
-         </h3>
-         <p className="text-muted-foreground">
-          Now that your resume is ready, find the perfect job on our
-          Telegram channel with over 60,000 subscribers.
-         </p>
-        </div>
-        <a
-         href="https://t.me/web3hiring"
-         target="_blank"
-         rel="noopener noreferrer"
-         className="flex-shrink-0 mt-4 md:mt-0"
-        >
-         <Button size="lg">
-          Join Job Feed <ArrowRight className="ml-2 h-4 w-4" />
-         </Button>
-        </a>
-       </CardContent>
-      </Card>
+      <CtaBanner
+        variant="jobs"
+        title="Ready to Apply?"
+        description="Now that your resume is ready, find the perfect job on our Telegram channel with over 60,000 subscribers."
+        buttonText="Join Job Feed"
+        className="col-span-full"
+      />
      </div>
      {/* Preview Column */}
      <div>

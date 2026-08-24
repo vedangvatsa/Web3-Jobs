@@ -1,6 +1,6 @@
 ---
 name: Zeta
-website: https://zeta.markets
+website: 'https://zeta.markets'
 founded: 2021
 category: DeFi / Derivatives
 headquarters: Remote

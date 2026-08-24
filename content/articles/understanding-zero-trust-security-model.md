@@ -1,13 +1,13 @@
 ---
-
-title: "Understanding Zero Trust Security Model"
-description: "An explanation of the Zero Trust security model, a modern approach to cybersecurity that assumes no user or device is trusted by default."
-category: "Educational"
-image: "https://picsum.photos/seed/zerotrust/1200/630"
-data-ai-hint: "cyber security"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Zero Trust Security Model
+description: >-
+  An explanation of the Zero Trust security model, a modern approach to
+  cybersecurity that assumes no user or device is trusted by default.
+category: Educational
+image: 'https://picsum.photos/seed/zerotrust/1200/630'
+data-ai-hint: cyber security
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Zero Trust represents a modern cybersecurity strategy built on the principle of "never trust, always verify." This approach marks a significant departure from the conventional "castle-and-moat" security model.

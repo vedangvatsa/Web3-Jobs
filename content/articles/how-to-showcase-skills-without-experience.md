@@ -1,13 +1,14 @@
 ---
-
-title: "How to Showcase Skills on a Resume Without Experience"
-image: "https://picsum.photos/seed/career3/1200/630"
-data-ai-hint: "skills resume presentation"
-description: "Lacking direct job experience? Learn how to effectively showcase your transferable skills, personal projects, and education to build a compelling resume."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Showcase Skills on a Resume Without Experience
+image: 'https://picsum.photos/seed/career3/1200/630'
+data-ai-hint: skills resume presentation
+description: >-
+  Lacking direct job experience? Learn how to effectively showcase your
+  transferable skills, personal projects, and education to build a compelling
+  resume.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The classic career paradox presents a significant challenge: you cannot secure a job without experience, yet you cannot gain experience without a job. This cycle frustrates many individuals, including students, career changers, and those re-entering the workforce. Overcoming this obstacle involves shifting the focus of your [resume](/how-to-build-a-web3-resume-that-stands-out) from your past employment to your potential contributions.

@@ -1,6 +1,6 @@
 ---
 name: Massive
-website: https://joinmassive.com
+website: 'https://joinmassive.com'
 founded: 2019
 category: Infrastructure / DePIN
 headquarters: Remote

@@ -1,0 +1,48 @@
+{
+  "$schema": "https://schema.org",
+  "version": "1.0.0",
+  "name": "Hashtag Web3 Agent Skills Index",
+  "description": "Index of specialized capabilities and skills for AI agents querying Hashtag Web3.",
+  "skills": [
+    {
+      "id": "search-web3-jobs",
+      "name": "Search Web3 & Crypto Jobs",
+      "description": "Find verified job listings across blockchain, crypto, DeFi, and DAO companies with title, company, tag, and salary filters.",
+      "endpoint": "https://hashtagweb3.com/api/jobs",
+      "method": "GET",
+      "parameters": ["search", "tag", "company", "limit", "offset"]
+    },
+    {
+      "id": "lookup-blockchain-glossary",
+      "name": "Lookup Blockchain Glossary Terms",
+      "description": "Retrieve comprehensive definitions and technical explanations for 200+ blockchain, consensus, and cryptography concepts.",
+      "endpoint": "https://hashtagweb3.com/api/glossary",
+      "method": "GET",
+      "parameters": ["search", "category", "limit"]
+    },
+    {
+      "id": "get-web3-events",
+      "name": "Discover Web3 Events & Hackathons",
+      "description": "Search upcoming global crypto conferences, hackathons, and developer summits by type and country.",
+      "endpoint": "https://hashtagweb3.com/api/events",
+      "method": "GET",
+      "parameters": ["search", "type", "country", "limit"]
+    },
+    {
+      "id": "get-crypto-news",
+      "name": "Get Real-time Crypto News",
+      "description": "Retrieve aggregated news headlines from premier blockchain publications.",
+      "endpoint": "https://hashtagweb3.com/api/news",
+      "method": "GET",
+      "parameters": ["search", "limit"]
+    },
+    {
+      "id": "nlweb-query",
+      "name": "Natural Language Question Answering",
+      "description": "Query Web3 job market intelligence using natural-language questions via Microsoft NLWeb protocol.",
+      "endpoint": "https://hashtagweb3.com/ask",
+      "method": "POST",
+      "parameters": ["query", "stream"]
+    }
+  ]
+}

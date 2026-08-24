@@ -235,7 +235,7 @@
           },
           {
             "title": "Set gas limits for external calls",
-            "description": "Use .call{gas: X}() to prevent called contracts from consuming all gas.",
+            "description": "Use.call{gas: X}() to prevent called contracts from consuming all gas.",
             "priority": "important",
             "category": "Gas"
           },
@@ -295,7 +295,7 @@
         "items": [
           {
             "title": "Run Slither static analysis",
-            "description": "Execute 'slither .' and address all high/medium findings.",
+            "description": "Execute 'slither.' and address all high/medium findings.",
             "priority": "critical",
             "category": "Tooling"
           },

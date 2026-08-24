@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/digital-nomad-visas',
   images: [
    {
-    url: '/api/og?type=default&title=Digital%20Nomad%20Visa%20List',
+    url: 'https://hashtagweb3.com/api/og?type=default&title=Digital%20Nomad%20Visa%20List',
     width: 1200,
     height: 630,
     alt: 'Digital Nomad Visa List',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Digital Nomad Visa List | Work From Anywhere',
   description: 'Compare digital nomad visa options and eligibility details for remote Web3 work.',
-  images: ['/api/og?type=default&title=Digital%20Nomad%20Visa%20List'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Digital%20Nomad%20Visa%20List'],
  },
 };
 

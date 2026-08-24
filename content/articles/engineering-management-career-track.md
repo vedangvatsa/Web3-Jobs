@@ -1,13 +1,13 @@
 ---
-
-title: "The Engineering Management Career Track: A Detailed Guide"
-description: "Work through the transition from IC to manager, managing skill shifts, communication, and team dynamics."
-image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
-data-ai-hint: "flowchart diagram"
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'The Engineering Management Career Track: A Detailed Guide'
+description: >-
+  Work through the transition from IC to manager, managing skill shifts,
+  communication, and team dynamics.
+image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
+data-ai-hint: flowchart diagram
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 For software engineers, the decision to transition from an individual contributor (IC) role to engineering management presents a significant career crossroads. Many engineers find themselves considering whether to pursue advancement as a Staff or Principal Engineer or to take on a leadership position. The IC path emphasizes technical expertise and hands-on development, while the management track focuses on helping others and amplifying your impact through team leadership.
@@ -67,7 +67,7 @@ The VP of Engineering is a senior executive responsible for the entire engineeri
  - **Executive Leadership:** Collaborate with C-suite executives (CEO, CTO, CPO) to align engineering efforts with overall business strategy.
  - **Scalability:** Ensure that technology, processes, and teams can grow in line with company expansion.
  - **Hiring the Leadership Team:** Recruit and manage the Directors of Engineering.
-- **The Skill Shift:** This role largely centers on business and organizational leadership. The VP of Engineering is accountable for the engineering organization’s ability to fulfill the company's objectives.
+- **The Skill Shift:** This role largely centers on business and organizational leadership. The VP of Engineering is accountable for the engineering organization's ability to fulfill the company's objectives.
 
 ### VP of Engineering vs. CTO
 

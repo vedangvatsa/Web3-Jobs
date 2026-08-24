@@ -1,12 +1,22 @@
 ---
-term: "Proof of Burn"
-slug: "proof-of-burn"
-category: "blockchain-fundamentals"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "A consensus or verification mechanism where participants destroy cryptocurrency to prove their commitment and earn rewards or rights, eliminating the need for computational work."
-relatedTerms: ["consensus", "proof-of-work", "proof-of-stake", "blockchain"]
-synonyms: ["PoB", "burn mechanism", "token burning"]
+term: Proof of Burn
+slug: proof-of-burn
+category: blockchain-fundamentals
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  A consensus or verification mechanism where participants destroy
+  cryptocurrency to prove their commitment and earn rewards or rights,
+  eliminating the need for computational work.
+relatedTerms:
+  - consensus
+  - proof-of-work
+  - proof-of-stake
+  - blockchain
+synonyms:
+  - PoB
+  - burn mechanism
+  - token burning
 ---
 
 Proof of Burn is a consensus mechanism where participants permanently destroy cryptocurrency tokens to demonstrate commitment and earn the right to validate transactions or mine new blocks. Unlike Proof of Work, which requires expensive hardware and electricity, Proof of Burn converts economic sacrifice into mining power by sending coins to an unspendable address from which they can never be recovered. Slimcoin, launched in 2014, pioneered this approach by allowing users to burn coins in exchange for long-term mining privileges that decay over time. Proof of Burn remains niche, with few active blockchain projects using it as their primary consensus mechanism, as most networks have favored Proof of Stake for its capital efficiency. Professionals who understand alternative consensus mechanisms like Proof of Burn demonstrate valuable expertise in blockchain architecture, making them attractive candidates for protocol development and research roles at emerging Layer 1 projects.

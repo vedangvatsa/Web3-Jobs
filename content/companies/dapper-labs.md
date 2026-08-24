@@ -1,10 +1,10 @@
 ---
 name: Dapper Labs
-website: https://dapperlabs.com
+website: 'https://dapperlabs.com'
 founded: 2018
 category: NFT / Gaming / Layer 1
-headquarters: Vancouver, Canada
-description: Creator of CryptoKitties, NBA Top Shot, and the Flow blockchain
+headquarters: 'Vancouver, Canada'
+description: 'Creator of CryptoKitties, NBA Top Shot, and the Flow blockchain'
 ---
 
 Creator of CryptoKitties, NBA Top Shot, and the Flow blockchain.

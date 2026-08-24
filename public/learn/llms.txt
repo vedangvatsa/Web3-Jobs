@@ -1,0 +1,11 @@
+# Hashtag Web3 — Learn Web3 Scoped Context
+
+> Scoped curriculum guide for 47 structured lessons across 7 Web3 tracks.
+
+## Tracks & Curricula
+
+- **Fundamentals**: Blockchain architecture, hashing, consensus mechanisms, digital wallets, decentralized networks.
+- **Smart Contracts**: Solidity basics, ERC-20, ERC-721, Foundry testing framework, security best practices.
+- **DeFi**: Decentralized exchanges, automated market makers, lending protocols, flash loan arbitrage.
+- **Security & Audits**: Reentrancy attacks, integer overflows, oracle manipulation, formal verification.
+- **Careers & Transition**: Web2 to Web3 transition roadmap, technical interview prep, building on-chain portfolios.

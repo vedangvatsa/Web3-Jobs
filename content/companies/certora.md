@@ -1,6 +1,6 @@
 ---
 name: Certora
-website: https://certora.com
+website: 'https://certora.com'
 category: Developer Tools
 description: Certora provides formal verification tools for smart contracts.
 ---

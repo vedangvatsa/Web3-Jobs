@@ -1,13 +1,14 @@
 ---
-
-title: "How to Research a Blockchain Startup Before You Join"
-image: "/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
-data-ai-hint: "research analysis magnifying glass"
-description: "A guide for job seekers on how to perform due diligence on a Web3 startup. Learn what to look for in the team, tokenomics, and community before accepting."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Research a Blockchain Startup Before You Join
+image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+data-ai-hint: research analysis magnifying glass
+description: >-
+  A guide for job seekers on how to perform due diligence on a Web3 startup.
+  Learn what to look for in the team, tokenomics, and community before
+  accepting.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The [Web3](/what-is-web3) job market offers many opportunities, yet it also presents significant risks and volatility. A project that appears promising can collapse within months. Conducting thorough research before accepting a position at a [blockchain](/what-is-a-blockchain) startup is essential. This research involves more than reading their website or a few news articles; it requires a detailed due diligence process akin to what venture capitalists undertake when considering investments. You must become knowledgeable about the project, including its strengths and weaknesses. This guide outlines a structured approach for evaluating a blockchain startup before you make a commitment.
@@ -43,7 +44,7 @@ The economic model of the project significantly impacts its long-term viability.
 
 The project's community engagement is a critical aspect of its potential success.
 
-- **Discord Participation:** Spend time in the project’s Discord channel. Is the conversation meaningful and engaging, or does it consist mainly of price speculation? Observe whether the team actively responds to questions and feedback.
+- **Discord Participation:** Spend time in the project's Discord channel. Is the conversation meaningful and engaging, or does it consist mainly of price speculation? Observe whether the team actively responds to questions and feedback.
 - **Governance Engagement:** Review governance proposals and discussions to assess the quality of community input and the project's strategic direction.
 - **Developer Activity:** Investigate the GitHub repository for consistent code updates. Determine how many developers are contributing to the protocol.
 
@@ -51,7 +52,7 @@ The project's community engagement is a critical aspect of its potential success
 
 Understanding the financial supportings of a project provides insight into its stability.
 
-- **Investor Backing:** Identify the project’s investors. Backing from reputable crypto-native VC firms signals quality and financial stability.
+- **Investor Backing:** Identify the project's investors. Backing from reputable crypto-native VC firms signals quality and financial stability.
 - **Treasury Management Practices:** Examine how the project's treasury is managed. Is it mainly held in volatile assets, or has it been diversified into stablecoins? A well-managed treasury enhances the project's chances of weathering market downturns.
 
 Joining a Web3 startup is a significant decision. By conducting thorough due diligence, you can discern the genuine risks and opportunities, allowing you to make an informed choice about where to invest your time and talents.

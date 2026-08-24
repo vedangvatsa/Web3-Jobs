@@ -1,12 +1,21 @@
 ---
-term: "Validator Queue"
-slug: "validator-queue"
-category: "blockchain-fundamentals"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
-description: "A waiting period where new validators must stake and wait before joining the active validator set, preventing sudden attacks and managing validator churn."
-relatedTerms: ["validator", "staking", "proof-of-stake", "security"]
-synonyms: ["activation queue", "entry queue", "validator entry"]
+term: Validator Queue
+slug: validator-queue
+category: blockchain-fundamentals
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80'
+description: >-
+  A waiting period where new validators must stake and wait before joining the
+  active validator set, preventing sudden attacks and managing validator churn.
+relatedTerms:
+  - validator
+  - staking
+  - proof-of-stake
+  - security
+synonyms:
+  - activation queue
+  - entry queue
+  - validator entry
 ---
 
 Validator Queue refers to the mandatory waiting period that new validators must complete after staking their required collateral before they can actively participate in block validation and consensus. On Ethereum, prospective validators must deposit 32 ETH and then enter this queue, which serves critical security functions by preventing attackers from rapidly acquiring validation power and by managing the rate at which validators enter or exit the network to maintain chain stability. This mechanism ensures the protocol has adequate time to process new activations while maintaining network security. Solana implements a similar concept through its epoch-based validator activation system, though with different timing parameters. Professionals who understand validator queue mechanics are increasingly sought after for roles in staking infrastructure, protocol development, and node operations as proof-of-stake networks expand.

@@ -1,13 +1,23 @@
 ---
-term: "Mining"
-slug: "mining"
-category: "Blockchain Fundamentals"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1080"
-imageAlt: "Cryptocurrency mining and blockchain validation"
-description: "The process of validating transactions and creating new blocks on Proof of Work blockchains by solving complex computational puzzles, earning block rewards and transaction fees."
-relatedTerms: ["Proof of Work", "Bitcoin", "Hash Rate", "Block Reward", "Consensus Mechanism"]
-synonyms: ["Crypto Mining", "Bitcoin Mining"]
+term: Mining
+slug: mining
+category: Blockchain Fundamentals
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1080'
+imageAlt: Cryptocurrency mining and blockchain validation
+description: >-
+  The process of validating transactions and creating new blocks on Proof of
+  Work blockchains by solving complex computational puzzles, earning block
+  rewards and transaction fees.
+relatedTerms:
+  - Proof of Work
+  - Bitcoin
+  - Hash Rate
+  - Block Reward
+  - Consensus Mechanism
+synonyms:
+  - Crypto Mining
+  - Bitcoin Mining
 ---
 
 Mining is the computational process by which Proof of Work blockchains validate transactions, secure the network, and create new cryptocurrency tokens. Miners deploy specialized hardware to compete in solving complex cryptographic puzzles. The first to find a valid solution earns the right to add the next block to the chain and collect rewards in the form of newly minted coins plus transaction fees. Bitcoin, the largest Proof of Work network, relies entirely on mining for its security and has spawned a global industry of mining operations. Major mining companies like Marathon Digital and Riot Platforms operate massive facilities with thousands of specialized ASIC machines. For professionals entering the blockchain space, mining operations offer diverse career paths including hardware engineering, data center management, energy optimization, and mining pool development.
@@ -155,7 +165,7 @@ Bitcoin has a fixed supply of 21 million coins. Block subsidies halve every four
 - 2016-2020: 12.5 BTC
 - 2020-2024: 6.25 BTC
 - 2024-2028: 3.125 BTC (current)
-- ...
+-...
 - ~2140: 0 BTC (last coin mined)
 
 After 2140, miners will depend entirely on transaction fees. This requires:

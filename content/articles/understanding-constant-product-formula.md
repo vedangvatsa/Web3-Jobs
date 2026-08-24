@@ -1,13 +1,13 @@
 ---
-
-title: "Understanding the Constant Product Formula in AMMs"
-description: "A clear and simple guide to the constant product formula (x * y = k), the core mathematical engine that powers decentralized exchanges like Uniswap."
-category: "Educational"
-image: "https://picsum.photos/seed/xyk/1200/630"
-data-ai-hint: "constant product formula"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding the Constant Product Formula in AMMs
+description: >-
+  A clear and simple guide to the constant product formula (x * y = k), the core
+  mathematical engine that powers decentralized exchanges like Uniswap.
+category: Educational
+image: 'https://picsum.photos/seed/xyk/1200/630'
+data-ai-hint: constant product formula
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Understanding the Constant Product Formula (`x * y = k`): The Engine of AMMs
@@ -77,7 +77,7 @@ The formula `x * y = k` generates a hyperbolic graph. This shape has critical im
 
 - **Slippage**: The curve's convexity means larger trades endure more significant price impacts. As traders move along the curve, the price adjusts steeply, resulting in slippage.
 
-- **Impermanent Loss**: When asset prices shift, the value of the assets held by a liquidity provider may decrease compared to simply holding the assets in their [wallet](/how-to-choose-a-crypto-wallet). This loss reflects the constant rebalancing of the LP’s [portfolio](/building-web3-portfolio) due to price changes inherent in the `x * y = k` formula.
+- **Impermanent Loss**: When asset prices shift, the value of the assets held by a liquidity provider may decrease compared to simply holding the assets in their [wallet](/how-to-choose-a-crypto-wallet). This loss reflects the constant rebalancing of the LP's [portfolio](/building-web3-portfolio) due to price changes inherent in the `x * y = k` formula.
 
 ### Beyond the Basic Formula: Fees
 

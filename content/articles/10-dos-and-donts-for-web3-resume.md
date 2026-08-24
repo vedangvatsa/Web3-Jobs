@@ -1,12 +1,13 @@
 ---
-
-title: "10 Do's and Don'ts for Web3 Resume Writing: Land Your Crypto Job"
-image: "/images/emile-perron-xrVDYZRGdw4-unsplash.jpg"
-data-ai-hint: "resume writing tips"
-description: "Practical resume advice from Web3 hiring managers: what to include, what to cut, and how to prepare for blockchain roles."
-category: "Career Guides"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: '10 Do''s and Don''ts for Web3 Resume Writing: Land Your Crypto Job'
+image: /images/emile-perron-xrVDYZRGdw4-unsplash.jpg
+data-ai-hint: resume writing tips
+description: >-
+  Practical resume advice from Web3 hiring managers: what to include, what to
+  cut, and how to prepare for blockchain roles.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Web3 hiring differs significantly from traditional tech hiring. Recruiters in the crypto space sift through hundreds of resumes each week, and many applicants make easily avoidable mistakes. After analyzing thousands of applications on our job board, we present the ten essential rules that can help candidates secure callbacks rather than rejections.
@@ -55,7 +56,7 @@ Create a dedicated "Web3 Community" section listing:
 
 When applying for a Solana position, highlight Rust and Anchor skills. In contrast, for an Ethereum Layer 2 role, emphasize Solidity and rollup architecture. Avoid sending a generic "blockchain developer" resume to every company.
 
-Research the company’s tech stack before applying. Review their documentation, explore their GitHub, and analyze their job description for specific tools. Once equipped with this information, reorder your skills and experiences accordingly.
+Research the company's tech stack before applying. Review their documentation, explore their GitHub, and analyze their job description for specific tools. Once equipped with this information, reorder your skills and experiences accordingly.
 
 ## The Don'ts
 

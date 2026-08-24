@@ -1,13 +1,13 @@
 ---
-
-title: "Why Crypto Developers Are Leaving Some Chains"
-image: "/images/thisisengineering-64YrPKiguAE-unsplash.jpg"
-data-ai-hint: "developer leaving"
-description: "An analysis of the 'great migration' in Web3 development. We explore the factors causing developers to leave certain blockchain ecosystems for others."
-category: "Industry Insights"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Why Crypto Developers Are Leaving Some Chains
+image: /images/thisisengineering-64YrPKiguAE-unsplash.jpg
+data-ai-hint: developer leaving
+description: >-
+  An analysis of the 'great migration' in Web3 development. We explore the
+  factors causing developers to leave certain blockchain ecosystems for others.
+category: Industry Insights
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The [Web3](/what-is-web3) developer ecosystem is dynamic and competitive, with talent continually shifting between various blockchain platforms. While the overall number of Web3 developers has increased, a closer investigation uncovers a significant trend of migration. Developers are transitioning away from specific [blockchain](/what-is-a-blockchain) ecosystems in favor of others. This movement reveals insights into the sustainability and attractiveness of different platforms.
@@ -19,7 +19,7 @@ Understanding the reasons behind developers leaving one chain is essential for e
 Developer experience remains a primary concern. If a platform proves to be frustrating and poorly supported, developers will inevitably seek alternatives.
 
 - **Clunky Tooling**: Inefficient compilers, unreliable testnets, and the absence of development frameworks hinder productivity. For instance, the Ethereum Virtual Machine (EVM) benefits from tools like Foundry, which simplify the development lifecycle. Platforms lacking such resources suffer.
-- **Inadequate Documentation**: Detailed and current documentation is non-negotiable. If developers struggle to use a platform’s features due to poor documentation, they are less likely to stay.
+- **Inadequate Documentation**: Detailed and current documentation is non-negotiable. If developers struggle to use a platform's features due to poor documentation, they are less likely to stay.
 - **Steep Learning Curve**: Platforms that rely on obscure programming languages without adequate educational resources face challenges attracting developers. Non-EVM chains often struggle to attract talent from the larger pool of EVM-native developers, as they demand significant time investment to learn.
 
 ### 2. Lack of Network Effects and Composability

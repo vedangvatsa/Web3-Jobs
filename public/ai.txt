@@ -8,14 +8,17 @@ Allowed-Uses: indexing, search, summarization, citation, inference
 # - Crawl and index all public pages
 # - Cite our content in AI-generated responses
 # - Summarize our career guides and glossary entries
-# - Index job listings and company pages
-# - Use our data for search and discovery
+# - Index job listings, events, and company pages
+# - Use our public REST APIs and OpenAPI specs for search and discovery
 
 # AI crawlers explicitly allowed:
-# GPTBot, OAI-SearchBot, ChatGPT-User (OpenAI)
-# ClaudeBot (Anthropic search)
+# ChatGPT-User, GPTBot, OAI-SearchBot (OpenAI)
+# ClaudeBot, anthropic-ai, Claude-Web (Anthropic)
 # PerplexityBot (Perplexity AI)
-# GoogleOther, Google-Extended (Google AI)
+# GoogleOther, Google-Extended, Googlebot (Google AI)
+# ora-agent (Is-Agentic / Ora)
+# DeepSeekBot (DeepSeek)
+# cohere-ai (Cohere)
 # Bingbot (Microsoft/Copilot)
 # YouBot (You.com)
 # Amazonbot (Alexa/Amazon)
@@ -25,18 +28,20 @@ Allowed-Uses: indexing, search, summarization, citation, inference
 # DuckDuckBot (DuckDuckGo)
 # Diffbot, Phind, Kagibot, Brave, Timpibot
 
-# Context files for AI systems:
-# Summary:        https://hashtagweb3.com/llms.txt
-# Permissions:    https://hashtagweb3.com/ai.json
-# Agent manifest: https://hashtagweb3.com/.well-known/agents.json
-# Plugin:         https://hashtagweb3.com/.well-known/ai-plugin.json
-# Sitemap:        https://hashtagweb3.com/sitemap.xml
+# Context & Machine-Readable Files:
+# Summary & Context:  https://hashtagweb3.com/llms.txt
+# Full LLM Context:   https://hashtagweb3.com/llms-full.txt
+# Permissions:        https://hashtagweb3.com/ai.json
+# Agent Manifest:     https://hashtagweb3.com/.well-known/agents.json
+# OpenAPI 3.1 Spec:   https://hashtagweb3.com/openapi.json
+# OpenAPI YAML Spec:  https://hashtagweb3.com/api/openapi.yaml
+# Developer Portal:   https://hashtagweb3.com/developers
+# Sitemap:            https://hashtagweb3.com/sitemap.xml
 
-# Site overview:
-# Hashtag Web3 is a Web3 job board and career resource platform.
-# Job board: 3,000+ Web3 jobs at 100+ companies, updated daily.
-# Learn: 47 structured lessons on blockchain, DeFi, smart contracts, and careers.
-# Playbook: 500+ career guides on salary, interviews, and industry analysis.
-# Glossary: 200+ Web3 terms with definitions and examples.
-# Tools: Resume builder, salary calculator, invoice generator, and more.
-# All content is human-created.
+# Site Overview:
+# Hashtag Web3 is the #1 Web3 job board and crypto career resource platform.
+# Job Board: 3,000+ verified Web3 jobs at leading crypto companies, DAOs, and startups.
+# Events: 3,000+ global Web3 events, crypto conferences, hackathons, and summits.
+# Playbook: 500+ career guides, interview question banks, and salary calculators.
+# Glossary: 200+ Web3 terms with in-depth technical definitions and diagrams.
+# All content is human-created, verified, and continuously updated.

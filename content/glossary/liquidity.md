@@ -1,12 +1,21 @@
 ---
-term: "Liquidity"
-slug: "liquidity"
-category: "defi"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
-description: "Liquidity refers to how easily an asset can be bought or sold without significantly affecting its price, or the availability of assets in a market or liquidity pool to enable trading."
-relatedTerms: ["liquidity-pool", "dex", "amm", "slippage"]
-synonyms: ["market depth", "available capital"]
+term: Liquidity
+slug: liquidity
+category: defi
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80'
+description: >-
+  Liquidity refers to how easily an asset can be bought or sold without
+  significantly affecting its price, or the availability of assets in a market
+  or liquidity pool to enable trading.
+relatedTerms:
+  - liquidity-pool
+  - dex
+  - amm
+  - slippage
+synonyms:
+  - market depth
+  - available capital
 ---
 
 Liquidity refers to how easily an asset can be bought or sold without significantly affecting its price. It is a fundamental concept in both traditional finance and decentralized markets. In Web3 contexts, liquidity typically exists within automated market maker protocols like Uniswap, where users deposit token pairs into smart contract pools that enable instant swaps without requiring a counterparty. High liquidity ensures that traders can execute large orders with minimal slippage, while low liquidity creates volatile price movements and makes it difficult to enter or exit positions efficiently. Understanding liquidity mechanics is essential for careers in DeFi protocol development, quantitative trading, treasury management, and risk analysis.

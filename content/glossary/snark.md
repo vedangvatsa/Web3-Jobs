@@ -1,12 +1,22 @@
 ---
-term: "SNARK"
-slug: "snark"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "Succinct Non-Interactive Arguments of Knowledge - cryptographic proofs that are very small and fast to verify, used in blockchain scaling and privacy applications."
-relatedTerms: ["zero-knowledge-proof", "cryptography", "proof", "zk-rollup"]
-synonyms: ["SNARK proof", "succinct proof", "zero-knowledge argument"]
+term: SNARK
+slug: snark
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  Succinct Non-Interactive Arguments of Knowledge - cryptographic proofs that
+  are very small and fast to verify, used in blockchain scaling and privacy
+  applications.
+relatedTerms:
+  - zero-knowledge-proof
+  - cryptography
+  - proof
+  - zk-rollup
+synonyms:
+  - SNARK proof
+  - succinct proof
+  - zero-knowledge argument
 ---
 
 SNARK refers to Succinct Non-Interactive Arguments of Knowledge, a cryptographic proof system that allows one party to prove possession of certain information without revealing the information itself. These proofs are compact, typically just a few hundred bytes, and can be verified in milliseconds regardless of the complexity of the underlying computation. SNARKs have become foundational to blockchain scaling solutions, with zkSync Era processing millions of transactions using SNARK-based verification since its mainnet launch. The technology works by compressing thousands of transactions into a single cryptographic proof that can be verified on Ethereum's mainnet, reducing costs and increasing throughput. Zcash pioneered SNARKs for privacy-preserving transactions, while Layer 2 networks rely on them for scalability. Professionals with SNARK expertise are highly sought after, as zero-knowledge proof systems represent a growing specialization in blockchain development.

@@ -1,13 +1,14 @@
 ---
-
-title: "The On-Chain Analyst Job: A Career Guide"
-image: "/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
-data-ai-hint: "data analyst chart"
-description: "A career guide for aspiring on-chain data analysts. Learn what the role entails, the tools you need to master, and how to build a portfolio that gets you hired."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'The On-Chain Analyst Job: A Career Guide'
+image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+data-ai-hint: data analyst chart
+description: >-
+  A career guide for aspiring on-chain data analysts. Learn what the role
+  entails, the tools you need to master, and how to build a portfolio that gets
+  you hired.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the transparent world of blockchains, every action, transaction, and interaction creates a permanent, public data point. This shift has given rise to on-chain analysis, where the role of the [Web3](/what-is-web3) Data Analyst emerges as a blend of data scientist, archaeologist, and detective.
@@ -21,7 +22,7 @@ This guide outlines the career path of an on-chain analyst, detailing key respon
 Web3 data analysts address critical business and strategic questions by querying the [blockchain](/what-is-a-blockchain) directly. Their analyses provide the foundation for data-driven decisions in decentralized environments.
 
 **Key questions an analyst might explore include:**
-- What is our protocol’s true user retention rate?
+- What is our protocol's true user retention rate?
 - Which new [NFT](/what-are-nfts) collections are attracting 'smart money' wallets?
 - How did our latest feature launch affect trading volume on our [DEX](/what-is-a-decentralized-exchange-dex)?
 - What demographic characteristics define users participating in our governance votes?
@@ -53,7 +54,7 @@ An effective Web3 data analyst combines technical skills with strategic insight.
 
 - **Business Acumen:** Top analysts produce data that answers significant questions. Understanding the business goals of a project is necessary to frame the right inquiries.
 
-- **Curiosity and a Detective’s Mindset:** On-chain analysis often involves following a trail of clues. Analysts need to be inquisitive and relentless in their pursuit of the truth hidden within the data.
+- **Curiosity and a Detective's Mindset:** On-chain analysis often involves following a trail of clues. Analysts need to be inquisitive and relentless in their pursuit of the truth hidden within the data.
 
 ### Steps to Becoming a Web3 Data Analyst
 
@@ -64,7 +65,7 @@ This role is accessible since you can build a portfolio independently.
 2. **Understand Blockchain Fundamentals:** Familiarize yourself with the data you will analyze. Review guides on [what a blockchain is](/what-is-a-blockchain) and how [smart contracts](/what-are-smart-contracts) operate.
 
 3. **Master Dune Analytics:** The platform offers a free tier for experimentation.
- - Begin by forking existing queries from popular dashboards to understand their structure. Consult Dune’s documentation and tutorials.
+ - Begin by forking existing queries from popular dashboards to understand their structure. Consult Dune's documentation and tutorials.
  - Study the queries of established "Dune wizards" to enhance your skills.
 
 4. **Build a Portfolio of Dashboards:** This portfolio acts as your [resume](/how-to-build-a-web3-resume-that-stands-out). Choose an interesting protocol and construct a dashboard that tracks its key metrics.
@@ -82,7 +83,7 @@ The Web3 Data Analyst role is well-suited for individuals who enjoy solving puzz
 A: Initial results typically appear within a few weeks of consistent application, with more substantial improvements evident in a couple of months. The timeline depends on your starting point, daily practice commitment, and feedback engagement. Professionals who actively track their progress tend to advance faster than those who observe passively.
 
 **Q: What if my workplace lacks support for these initiatives?** 
-A: You often have more agency than you may realize, even in challenging environments. Start with small, self-contained actions that don’t require organizational approval. Build momentum gradually, and document your progress. If you find that structural barriers persist despite your efforts, this information is valuable for your career decisions.
+A: You often have more agency than you may realize, even in challenging environments. Start with small, self-contained actions that don't require organizational approval. Build momentum gradually, and document your progress. If you find that structural barriers persist despite your efforts, this information is valuable for your career decisions.
 
 **Q: How does this apply specifically to the Web3 sector?** 
 A: Web3 organizations differ from traditional companies in ways that improve the importance of these skills. The flatter hierarchies offer more direct access to decision-makers, yet place greater responsibility on self-direction. Remote and globally distributed teams require strong written communication and asynchronous collaboration skills. the faster pace of product cycles in Web3 compared to traditional enterprises requires agility and adaptability.

@@ -1,13 +1,14 @@
 ---
-
-title: "How to Become a Web3 Yield Farming Analyst"
-image: "/images/javier-quesada-qYfwGVNJqSA-unsplash.jpg"
-data-ai-hint: "crypto yield data"
-description: "A career guide for the emerging role of Yield Farming Analyst. Learn the skills needed to analyze DeFi strategies, assess risk, and maximize returns in."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Become a Web3 Yield Farming Analyst
+image: /images/javier-quesada-qYfwGVNJqSA-unsplash.jpg
+data-ai-hint: crypto yield data
+description: >-
+  A career guide for the emerging role of Yield Farming Analyst. Learn the
+  skills needed to analyze DeFi strategies, assess risk, and maximize returns
+  in.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Decentralized Finance ([DeFi](/what-is-defi)) has transformed traditional financial systems, introducing new mechanisms like [yield farming](/what-is-yield-farming). As the complexity of these protocols increases, a new role has surfaced: the **Yield Farming Analyst**. This professional synthesizes expertise in data analysis, finance, and DeFi operations to identify, evaluate, and act on optimal yield opportunities within the cryptocurrency market.

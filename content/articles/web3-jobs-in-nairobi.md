@@ -1,13 +1,11 @@
 ---
-
-title: "Web3 Jobs in Nairobi: Africa's Silicon Savannah"
-image: "/images/africa web3 jobs.jpg"
-data-ai-hint: "nairobi kenya city"
-description: "Discover Web3 and fintech job opportunities in Nairobi's tech ecosystem."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Nairobi: Africa''s Silicon Savannah'
+image: /images/africa web3 jobs.jpg
+data-ai-hint: nairobi kenya city
+description: Discover Web3 and fintech job opportunities in Nairobi's tech ecosystem.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Nairobi, the active capital of Kenya, has earned the nickname "Silicon Savannah" due to its status as East Africa's leading technology and innovation center. The city has a rich history of developing mobile-first financial solutions, exemplified by the success of M-Pesa, which transformed mobile payments long before similar innovations emerged globally. This culture of mobile innovation, paired with a growing pool of tech talent and a commitment to addressing real-world challenges, has set the stage for a flourishing [Web3](/what-is-web3) ecosystem.
@@ -199,7 +197,7 @@ Visit iHub in the Nairobi CBD to attend events and participate in bootcamps. The
 **Is there venture capital available for startups?** 
 Yes, Nairobi has more venture capital available compared to other parts of East Africa. If you develop a compelling product with traction, funding opportunities will arise.
 
-**What’s the timeline to achieve a competitive salary?** 
+**What's the timeline to achieve a competitive salary?** 
 Anticipate a timeline of 8-12 months. This includes 3-4 months for learning, followed by 2-3 months of freelancing, and an additional 2-3 months for a full-time role.
 
 **Should I relocate to Nairobi or start working remotely?** 

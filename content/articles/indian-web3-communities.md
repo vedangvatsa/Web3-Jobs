@@ -1,14 +1,14 @@
 ---
-
-title: "A Guide to growing Indian Web3 Communities"
-slug: "indian-web3-communities"
-image: "/images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg"
-data-ai-hint: "indian community web3"
-description: "Explore India's booming Web3 scene. This guide covers the rapid growth, key investment trends, and provides a full list of top Indian Web3."
-category: "Industry Insights"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: A Guide to growing Indian Web3 Communities
+slug: indian-web3-communities
+image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
+data-ai-hint: indian community web3
+description: >-
+  Explore India's booming Web3 scene. This guide covers the rapid growth, key
+  investment trends, and provides a full list of top Indian Web3.
+category: Industry Insights
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 India has positioned itself as a vital player in the global [Web3](/what-is-web3) ecosystem, marked by substantial growth and innovation. The country is home to numerous startups spanning finance, infrastructure, and entertainment, collectively attracting billions in funding. Projects such as Sentient AGI and Avail Project exemplify the contributions of Indian founders to advancements in AI, Decentralized Physical Infrastructure Networks (DePIN), and scaling solutions.

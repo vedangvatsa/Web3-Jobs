@@ -1,6 +1,6 @@
 ---
 name: Nansen
-website: https://nansen.ai
+website: 'https://nansen.ai'
 founded: 2019
 category: Data / Analytics
 headquarters: Singapore

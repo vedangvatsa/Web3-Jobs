@@ -1,6 +1,6 @@
 ---
 name: Workable
-website: https://www.workable.com
+website: 'https://www.workable.com'
 category: Other
 description: Workable is a platform for hiring and recruitment solutions.
 ---

@@ -747,7 +747,7 @@ struct Packed {
     {
       id: 'frontend-dapp-engineer',
       role: 'Frontend dApp Engineer',
-      snapshot: 'Builds user interfaces that interact with smart contracts. Creates seamless and safe user experiences for dApps. Master of React, Ethers.js/Viem.',
+      snapshot: 'Builds user interfaces that interact with smart contracts. Creates smooth and safe user experiences for dApps. Master of React, Ethers.js/Viem.',
       coreCompetencies: ['React/Next.js', 'Ethers.js/Viem', 'Wallet Integration', 'State Management', 'Web3 UX', 'GraphQL'],
       questions: {
         Foundation: [
@@ -883,7 +883,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); //"1.0"`
               ]
             },
             commonPitfalls: ['Confusing it with a simple multisig.', 'Not understanding how the function selector routing works.'],
-            whyThisMatters: ['It is a powerful pattern for building very large, complex, and modular on-chain systems.', 'Shows knowledge of cutting-edge smart contract architecture.'],
+            whyThisMatters: ['It is a powerful pattern for building very large, complex, and modular on-chain systems.', 'Shows knowledge of advanced smart contract architecture.'],
             followUps: ['What are the trade-offs of using a diamond proxy in terms of gas and complexity?', 'How does the"diamond loupe" feature work?'],
             redFlags: ['Has never heard of the diamond standard.', 'Believing a proxy can only have one implementation.'],
             scoringRubric: { 1: 'Does not know what a diamond proxy is.', 3: 'Understands it allows multiple logic contracts but cannot explain how or why.', 5: 'Clearly explains the function selector lookup, modularity, and contract size benefits.' },
@@ -1063,7 +1063,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); //"1.0"`
               coreIdea: 'The CM must act as a neutral facilitator, ensuring the community member is heard and the process is fair, while also clearly communicating the core team\'s perspective without being dismissive.',
               keyPoints: [
                 '1. Acknowledge and Platform: Do not shut down the conversation. Publicly acknowledge the effort put into the proposal and ensure it gets a fair hearing in the governance forum and on a community call.',
-                '2. Facilitate Debate: Encourage a robust but respectful debate. Ensure both sides are arguing with data and principles, not emotion.',
+                '2. Facilitate Debate: Encourage a thorough but respectful debate. Ensure both sides are arguing with data and principles, not emotion.',
                 '3. Present the Team\'s View: Work with the core team to write a clear, public response explaining their reasoning for disagreeing. This response should be respectful and address the proposal\'s points directly.',
                 '4. Trust the Process: Ultimately, the CM\'s role is to uphold the governance process. If the proposal goes to a vote, the CM ensures the vote is conducted fairly, regardless of the team\'s preference. The community\'s decision is final.'
               ]
@@ -1109,7 +1109,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); //"1.0"`
             category: 'Design',
             question: 'Design a framework for managing a DAO\'s treasury to fund community initiatives. How would you structure the process from idea to execution?',
             idealAnswer: {
-              coreIdea: 'A robust grants framework should be structured, transparent, and empower the community to make funding decisions, while protecting the treasury from frivolous spending.',
+              coreIdea: 'A well-structured grants framework should be structured, transparent, and empower the community to make funding decisions, while protecting the treasury from frivolous spending.',
               keyPoints: [
                 '1. Grants Committee: Establish a grants committee, elected by the DAO, to do the initial review and vetting of proposals. This prevents full token-holder votes on every small idea.',
                 '2. Proposal Lifecycle: Define a clear lifecycle: `Draft` -> `Discussion` -> `Committee Review` -> `Temperature Check (Snapshot)` -> `On-Chain Vote`.',
@@ -1119,7 +1119,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); //"1.0"`
               ]
             },
             commonPitfalls: ['Proposing that every small grant goes to a full DAO vote.', 'Having no process for vetting proposals.', 'Not including any accountability or reporting for funded projects.'],
-            whyThisMatters: ['Treasury management and capital allocation are the most important functions of a DAO.', 'This question tests the ability to design robust, decentralized governance processes.'],
+            whyThisMatters: ['Treasury management and capital allocation are the most important functions of a DAO.', 'This question tests the ability to design resilient, decentralized governance processes.'],
             followUps: ['How do you prevent the grants committee from becoming a centralized point of failure?', 'What tools would you use to manage this process?'],
             redFlags: ['Suggesting a process with no accountability or oversight.', 'Failing to consider the operational burden of voting on every small grant.'],
             scoringRubric: { 1: 'Suggests a chaotic, unstructured process.', 3: 'Proposes a basic grant program but misses key elements like a committee or milestone payments.', 5: 'Designs a sophisticated, multi-stage governance framework that balances decentralization with efficiency and accountability.' },
@@ -1902,18 +1902,18 @@ LIMIT 100;`
               coreIdea: 'A reliable relayer needs to handle nonce management, gas price estimation, and transaction monitoring/re-submission to ensure transactions are mined in a timely and cost-effective manner.',
               keyPoints: [
                 'Key Components:',
-                '1. Transaction Queue: Use a robust queue (like RabbitMQ or a database table) to manage pending transactions.',
+                '1. Transaction Queue: Use a reliable message queue (like RabbitMQ or a database table) to manage pending transactions.',
                 '2. Nonce Manager: The biggest challenge. You must strictly track the nonce for the relayer\'s address to prevent conflicts. A dedicated service or a database row with a transaction lock is needed to ensure only one process can get the next nonce at a time.',
                 '3. Gas Price Oracle: A service that monitors network conditions and recommends optimal gas prices (`maxFeePerGas`, `maxPriorityFeePerGas`) for timely inclusion.',
                 '4. Transaction Monitor: After a transaction is submitted, a separate process must monitor its status. If it gets"stuck" (doesn\'t get mined), the system needs to automatically re-submit it with a higher gas price and the same nonce.',
-                '5. Error Handling & Alerting: The system needs robust logging and alerting for when transactions fail or get stuck for too long.'
+                '5. Error Handling & Alerting: The system needs comprehensive logging and alerting for when transactions fail or get stuck for too long.'
               ]
             },
             commonPitfalls: ['Underestimating the difficulty of nonce management.', 'Not having a plan for stuck transactions.', 'Suggesting a simple `await provider.sendTransaction()` in a loop.'],
             whyThisMatters: ['Building a relayer is a very common but difficult backend task.', 'This question separates candidates with real production experience from those with only theoretical knowledge.'],
             followUps: ['How would you handle a situation where your node goes down and you lose track of the last successful nonce?', 'How can you parallelize transaction submission from a single wallet?'],
             redFlags: ['Believing nonce management is trivial.', 'Having no strategy for handling stuck or failed transactions.'],
-            scoringRubric: { 1: 'Proposes a naive, unworkable solution.', 3: 'Identifies some challenges like gas or nonces but doesn\'t have a robust architectural design.', 5: 'Designs a comprehensive, resilient system covering the queue, nonce management, gas oracle, and monitoring/resubmission.' },
+            scoringRubric: { 1: 'Proposes a naive, unworkable solution.', 3: 'Identifies some challenges like gas or nonces but doesn\'t have a resilient architectural design.', 5: 'Designs a comprehensive, resilient system covering the queue, nonce management, gas oracle, and monitoring/resubmission.' },
             expectedTime: '240 seconds'
           }
         ],
@@ -1924,7 +1924,7 @@ LIMIT 100;`
             category: 'Knowledge',
             question: 'What is a"re-org" (chain reorganization) and how must a backend indexer be designed to handle it?',
             idealAnswer: {
-              coreIdea: 'A re-org is when a blockchain node discovers a new, longer valid chain, causing it to discard the blocks from its previous canonical chain. A robust indexer must be able to detect re-orgs and roll back its database state to a point before the divergence.',
+              coreIdea: 'A re-org is when a blockchain node discovers a new, longer valid chain, causing it to discard the blocks from its previous canonical chain. A reliable indexer must be able to detect re-orgs and roll back its database state to a point before the divergence.',
               keyPoints: [
                 'How it happens: Due to network latency, two miners might solve a block at roughly the same time, creating a temporary fork. The network eventually converges on one, longer chain.',
                 'The Problem for Indexers: An indexer might process several blocks from the"losing" chain. When the re-org happens, the data it has indexed is now from orphaned blocks and is incorrect.',
@@ -1940,7 +1940,7 @@ LIMIT 100;`
             whyThisMatters: ['This is a critical reliability issue for any service that provides on-chain data.', 'Demonstrates an expert understanding of how blockchains work at a fundamental level.'],
             followUps: ['How many blocks of confirmation are generally considered safe on Ethereum?', 'How does Proof-of-Stake finality change the calculus for re-orgs?'],
             redFlags: ['Is unaware of re-orgs.', 'Has no design for handling them, which would lead to a permanently corrupted database.'],
-            scoringRubric: { 1: 'Does not know what a re-org is.', 3: 'Understands the concept but has no clear idea how to handle it in an indexer.', 5: 'Clearly explains re-orgs and designs a robust system for detection and state rollback.' },
+            scoringRubric: { 1: 'Does not know what a re-org is.', 3: 'Understands the concept but has no clear idea how to handle it in an indexer.', 5: 'Clearly explains re-orgs and designs a resilient system for detection and state rollback.' },
             expectedTime: '240 seconds'
           }
         ]
@@ -2349,7 +2349,7 @@ LIMIT 100;`
             category: 'Design',
             question: 'You are designing the economy for a new Web3 game. How would you balance the on-chain and off-chain components for performance and decentralization?',
             idealAnswer: {
-              coreIdea: 'The optimal design is a hybrid approach. Keep high-value, low-frequency actions on-chain to leverage the security and ownership benefits of the blockchain, while keeping high-frequency, low-value actions off-chain for performance and good UX.',
+              coreIdea: 'The optimal design is a hybrid approach. Keep high-value, low-frequency actions on-chain to take advantage of the security and ownership benefits of the blockchain, while keeping high-frequency, low-value actions off-chain for performance and good UX.',
               keyPoints: [
                 'On-Chain (Slow, Secure, Decentralized):',
                 '- Asset Ownership: The core NFTs representing valuable items (characters, land, rare weapons) must be on-chain.',
@@ -2553,7 +2553,7 @@ LIMIT 100;`
                 '1. Liquidity: For DeFi protocols, having the deepest liquidity is a powerful moat. Traders will always go where the best prices and lowest slippage are. This creates a network effect.',
                 '2. Community & Brand: A strong, vibrant community and a trusted brand are very difficult to fork. Users are loyal to the community and the brand they trust.',
                 '3. Integrations: Being integrated into many other protocols creates high switching costs. If your stablecoin is the most widely accepted collateral in DeFi, it\'s very hard to displace.',
-                '4. Team & Governance: A world-class team and a robust, fair governance process can be a moat. The community trusts the team to continue innovating and steering the protocol effectively.'
+                '4. Team & Governance: A top-tier team and a fair, structured governance process can be a moat. The community trusts the team to continue innovating and steering the protocol effectively.'
               ]
             },
             commonPitfalls: ['Thinking that a feature is a moat.', 'Not understanding that code can be forked.'],

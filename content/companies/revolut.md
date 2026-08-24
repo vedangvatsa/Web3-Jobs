@@ -1,8 +1,10 @@
 ---
 name: Revolut
-website: https://revolut.com
+website: 'https://revolut.com'
 category: FinTech
-description: Financial technology company offering banking services and cryptocurrency trading.
+description: >-
+  Financial technology company offering banking services and cryptocurrency
+  trading.
 ---
 
 Revolut is a financial technology company that provides a range of banking services, including currency exchange, debit cards, and cryptocurrency trading. The platform allows users to hold, exchange, and transfer multiple currencies without traditional banking fees. Revolut also offers features such as budgeting tools and cryptocurrency investment options.

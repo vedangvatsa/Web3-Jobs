@@ -1,9 +1,9 @@
 ---
 name: MoonPay
-website: https://moonpay.com
+website: 'https://moonpay.com'
 founded: 2019
 category: Crypto Payments
-headquarters: Miami, Florida, USA
+headquarters: 'Miami, Florida, USA'
 description: Crypto payment infrastructure connecting fiat to digital assets
 ---
 

@@ -1,13 +1,13 @@
 ---
-
-title: "How to Build a Public On-Chain Developer Brand"
-image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
-data-ai-hint: "developer brand building"
-description: "In Web3, your reputation is your resume. This guide provides a step-by-step framework for developers to build a powerful public brand using on-chain."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Build a Public On-Chain Developer Brand
+image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
+data-ai-hint: developer brand building
+description: >-
+  In Web3, your reputation is your resume. This guide provides a step-by-step
+  framework for developers to build a powerful public brand using on-chain.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the traditional Web2 job market, professionals often define their careers by the companies they have worked for and the titles they have held. This model changes significantly in Web3. In a digital environment characterized by pseudonymity, open-source code, and on-chain history, your reputation replaces your resume. The projects you build, the code you write, and your contributions to the community hold far more weight than a polished LinkedIn profile.
@@ -76,7 +76,7 @@ The competencies outlined here are essential for success in any modern career. R
 ### Core Competencies
 
 **Technical Foundation** 
-Understanding the technical concepts relevant to your field is non-negotiable. While you don’t need to be an expert, having a solid foundation helps avoid costly mistakes.
+Understanding the technical concepts relevant to your field is non-negotiable. While you don't need to be an expert, having a solid foundation helps avoid costly mistakes.
 
 **Communication Excellence** 
 The ability to articulate complex ideas clearly is both rare and valuable. Hone your skills in writing emails, documentation, and presentations. Clear communication compounds over time.

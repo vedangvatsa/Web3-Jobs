@@ -1,9 +1,9 @@
 ---
 name: Passes
-website: https://passes.com
+website: 'https://passes.com'
 founded: 2022
 category: Creator Economy
-headquarters: Los Angeles, California
+headquarters: 'Los Angeles, California'
 description: Web3-native creator monetization platform
 ---
 

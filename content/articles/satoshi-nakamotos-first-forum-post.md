@@ -1,13 +1,14 @@
 ---
-
-title: "The First Post: When Satoshi Nakamoto Introduced Bitcoin to the World"
-description: "Before the whitepaper, there was the forum post. We look back at Satoshi Nakamoto's first public message on the P2P Foundation forum, the moment the world."
-image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
-category: "Industry Insights"
-data-ai-hint: "satoshi nakamoto"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'The First Post: When Satoshi Nakamoto Introduced Bitcoin to the World'
+description: >-
+  Before the whitepaper, there was the forum post. We look back at Satoshi
+  Nakamoto's first public message on the P2P Foundation forum, the moment the
+  world.
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+category: Industry Insights
+data-ai-hint: satoshi nakamoto
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## A Humble Beginning on the P2P Foundation Forum
@@ -20,7 +21,7 @@ Revisiting this first post offers valuable insight into Satoshi's perspective an
 
 ## Deconstructing Satoshi's First Message
 
-Satoshi's post is succinct yet rich with information. Let’s analyze it section by section.
+Satoshi's post is succinct yet rich with information. Let's analyze it section by section.
 
 **"I've developed a new open source P2P e-cash system called Bitcoin. It's completely decentralized, with no central server or trusted parties, because everything is based on crypto proof instead of trust."**
 

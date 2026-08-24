@@ -1,13 +1,13 @@
 ---
-
-title: "Managing Former Peers After Promotion"
-image: "https://picsum.photos/seed/mfp1/1200/630"
-description: "Just got promoted over your friends and former teammates? Working through this tricky transition requires a thoughtful approach. Here’s how to do it right."
-category: "Career Guides"
-data-ai-hint: "promotion manager"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-25"
+title: Managing Former Peers After Promotion
+image: 'https://picsum.photos/seed/mfp1/1200/630'
+description: >-
+  Just got promoted over your friends and former teammates? Working through this
+  tricky transition requires a thoughtful approach. Here's how to do it right.
+category: Career Guides
+data-ai-hint: promotion manager
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Getting promoted is a significant milestone in your career. However, when that promotion places you in a management position over your former peers, the transition can be challenging. The shift in dynamics can create discomfort as you manage new relationships. The friend you once confided in about work issues is now your direct report. How you approach this transition can greatly influence your effectiveness as a manager and the team's overall morale.
@@ -16,7 +16,7 @@ Addressing this change directly and professionally is essential. Acknowledge tha
 
 ### Address the Change Head-On
 
-Start your new role by having one-on-one meetings with each team member. A group setting isn’t appropriate for this conversation; instead, meet privately and, if possible, face-to-face.
+Start your new role by having one-on-one meetings with each team member. A group setting isn't appropriate for this conversation; instead, meet privately and, if possible, face-to-face.
 
 Acknowledge the awkwardness of the situation. You might say, "I understand this may feel strange since we were peers last week. I want to discuss how we can work together effectively." This straightforward recognition can help ease tension and encourage open communication.
 
@@ -26,7 +26,7 @@ Express your respect for their skills and contributions. Remind them that while 
 
 Establishing new professional boundaries is important. You can no longer engage in after-work socializing or vent about work issues in the same manner. Your responsibilities now include performance evaluations, compensation discussions, and potentially sensitive employment decisions.
 
-Create professional distance while maintaining a friendly demeanor. A helpful way to frame this is: "Our relationship will change, and I must be fair to everyone on the team. This means I can’t show favoritism, and I'll need to maintain a professional boundary. I continue to value our working relationship."
+Create professional distance while maintaining a friendly demeanor. A helpful way to frame this is: "Our relationship will change, and I must be fair to everyone on the team. This means I can't show favoritism, and I'll need to maintain a professional boundary. I continue to value our working relationship."
 
 Clearly outline your expectations for the new role. Discuss how you envision team operations, the structure of one-on-one meetings, and your decision-making processes.
 

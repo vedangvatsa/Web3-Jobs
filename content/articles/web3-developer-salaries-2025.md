@@ -1,13 +1,13 @@
 ---
-
-title: "Top Blockchain Dev Job Salaries"
-image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
-data-ai-hint: "web3 salary money"
-description: "A full guide to Web3 developer salaries in 2026. We break down what you can earn as a smart contract, frontend, or protocol engineer in the."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Top Blockchain Dev Job Salaries
+image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
+data-ai-hint: web3 salary money
+description: >-
+  A full guide to Web3 developer salaries in 2026. We break down what you can
+  earn as a smart contract, frontend, or protocol engineer in the.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The [Web3](/what-is-web3) industry has gained recognition for its competitive compensation packages, particularly in the technology sector. A surge in venture capital investment and a significant talent shortage have led Web3 companies to offer attractive salaries to engineers capable of constructing the secure and scalable infrastructure for this new internet. So, what can developers realistically expect to earn in this field?

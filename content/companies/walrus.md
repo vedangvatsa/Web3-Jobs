@@ -1,6 +1,6 @@
 ---
 name: Walrus
-website: https://walrus.xyz
+website: 'https://walrus.xyz'
 founded: 2024
 category: Storage / Infrastructure
 headquarters: Remote

@@ -1,12 +1,22 @@
 ---
-term: "Double Spending"
-slug: "double-spending"
-category: "security"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80"
-description: "The act of spending the same cryptocurrency twice by exploiting timing or consensus vulnerabilities, prevented by blockchain consensus mechanisms ensuring transaction finality."
-relatedTerms: ["blockchain", "consensus-mechanism", "security", "bitcoin"]
-synonyms: ["double spend attack", "replay attack", "transaction duplication"]
+term: Double Spending
+slug: double-spending
+category: security
+difficulty: Beginner
+image: 'https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80'
+description: >-
+  The act of spending the same cryptocurrency twice by exploiting timing or
+  consensus vulnerabilities, prevented by blockchain consensus mechanisms
+  ensuring transaction finality.
+relatedTerms:
+  - blockchain
+  - consensus-mechanism
+  - security
+  - bitcoin
+synonyms:
+  - double spend attack
+  - replay attack
+  - transaction duplication
 ---
 
 Double spending refers to the fraudulent act of using the same cryptocurrency units in multiple transactions, exploiting the brief window before a transaction achieves finality on the blockchain. This challenge of digital currency stems from the ease of copying digital information, which traditional databases solve through centralized control but decentralized networks must address through consensus mechanisms. Bitcoin solved this through proof-of-work, where transactions require confirmation by miners before becoming irreversible, making double spending economically impractical without controlling majority network hashpower. The Ethereum Classic network suffered a notable double spending attack in 2019 when attackers reorganized blocks to reverse transactions. Modern blockchains implement various confirmation requirements, with exchanges typically waiting for six Bitcoin confirmations to consider deposits final. Understanding double spending prevention remains essential for blockchain security professionals, with roles in protocol security and exchange risk management consistently ranking among the highest-demand positions in cryptocurrency hiring.

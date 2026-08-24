@@ -1,9 +1,9 @@
 ---
 name: Sei Foundation
-website: https://sei.io
+website: 'https://sei.io'
 founded: 2022
 category: Layer 1
-headquarters: San Francisco, California
+headquarters: 'San Francisco, California'
 description: High-performance Layer 1 blockchain optimized for trading and DeFi
 ---
 

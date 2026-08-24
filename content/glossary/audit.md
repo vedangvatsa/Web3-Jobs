@@ -1,12 +1,22 @@
 ---
-term: "Audit"
-slug: "audit"
-category: "security"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "A smart contract audit is a full security review of blockchain code by specialized firms to identify vulnerabilities, bugs, and potential exploits before deployment to mainnet."
-relatedTerms: ["smart-contract", "exploit", "mainnet", "security"]
-synonyms: ["security audit", "code review", "security assessment"]
+term: Audit
+slug: audit
+category: security
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A smart contract audit is a full security review of blockchain code by
+  specialized firms to identify vulnerabilities, bugs, and potential exploits
+  before deployment to mainnet.
+relatedTerms:
+  - smart-contract
+  - exploit
+  - mainnet
+  - security
+synonyms:
+  - security audit
+  - code review
+  - security assessment
 ---
 
 Audit refers to a full security review of smart contract code conducted by specialized firms to identify vulnerabilities, bugs, and potential exploits before deployment to mainnet. Because smart contracts are immutable once live and frequently manage substantial assets, this examination process serves as a critical safeguard against costly attacks. The importance of audits became clear after incidents like the Ronin Bridge hack, where insufficient security review contributed to a significant loss. Despite growing awareness, smart contract exploits continue to pose risks, highlighting persistent demand for rigorous code examination. Leading audit firms such as Trail of Bits, OpenZeppelin, and Consensys Diligence have established industry standards that protocols increasingly require before launch. For professionals entering Web3, expertise in smart contract auditing represents one of the most sought-after and well-compensated career paths.

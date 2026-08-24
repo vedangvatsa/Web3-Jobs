@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/salary-calculator',
   images: [
    {
-    url: '/api/og?type=default&title=Web3%20Salary%20Calculator',
+    url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Salary%20Calculator',
     width: 1200,
     height: 630,
     alt: 'Web3 Salary Calculator',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 Salary Calculator | Estimate Your Crypto Job Salary',
   description: 'Get data-driven salary estimates for Web3 roles including developers, marketers, and product managers. Calculate what you could earn based on your experience and location.',
-  images: ['/api/og?type=default&title=Web3%20Salary%20Calculator'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Salary%20Calculator'],
  },
 };
 

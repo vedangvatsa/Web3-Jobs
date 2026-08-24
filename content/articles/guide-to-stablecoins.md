@@ -1,13 +1,13 @@
 ---
-
-title: "a full guide to Stablecoins"
-image: "https://picsum.photos/seed/30/1200/630"
-description: "Stablecoins are the backbone of the DeFi economy, but not all are created equal. This guide breaks down the different types of stablecoins, their."
-category: "Technology Deep Dives"
-data-ai-hint: "cryptocurrency defi"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: a full guide to Stablecoins
+image: 'https://picsum.photos/seed/30/1200/630'
+description: >-
+  Stablecoins are the backbone of the DeFi economy, but not all are created
+  equal. This guide breaks down the different types of stablecoins, their.
+category: Technology Deep Dives
+data-ai-hint: cryptocurrency defi
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## An Investor's Guide to Stablecoins: Types, Risks, and Rewards

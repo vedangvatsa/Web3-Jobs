@@ -1,12 +1,22 @@
 ---
-term: "Delegation"
-slug: "delegation"
-category: "governance"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
-description: "Transferring voting or staking power to a representative without transferring token ownership, enabling participation in governance without active involvement while maintaining token control."
-relatedTerms: ["governance", "voting", "staking", "governance-token"]
-synonyms: ["vote delegation", "stake delegation", "proxy voting"]
+term: Delegation
+slug: delegation
+category: governance
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80'
+description: >-
+  Transferring voting or staking power to a representative without transferring
+  token ownership, enabling participation in governance without active
+  involvement while maintaining token control.
+relatedTerms:
+  - governance
+  - voting
+  - staking
+  - governance-token
+synonyms:
+  - vote delegation
+  - stake delegation
+  - proxy voting
 ---
 
 Delegation is the process of transferring voting or staking power to another address without giving up token ownership. This allows token holders to participate in blockchain governance indirectly. When you hold governance tokens like UNI or COMP but lack the time or expertise to evaluate every proposal, you can delegate your voting power to a trusted representative who votes on your behalf. Uniswap's governance system allows any UNI holder to delegate to community researchers or protocol politicians who specialize in analyzing proposals. You retain full ownership of your tokens and can revoke delegation at any time, reclaiming your voting rights instantly. This mechanism is critical for achieving practical decentralized governance at scale. Professionals who understand delegation dynamics are increasingly sought after for roles in protocol governance, DAO operations, and token economics design.

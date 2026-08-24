@@ -1,12 +1,22 @@
 ---
-term: "Governance"
-slug: "governance"
-category: "governance"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
-description: "The mechanisms and processes through which decentralized protocols are governed, typically using governance tokens to enable community voting on protocol upgrades and parameter changes."
-relatedTerms: ["governance-token", "dao", "voting", "proposal"]
-synonyms: ["decentralized governance", "on-chain governance", "community governance"]
+term: Governance
+slug: governance
+category: governance
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80'
+description: >-
+  The mechanisms and processes through which decentralized protocols are
+  governed, typically using governance tokens to enable community voting on
+  protocol upgrades and parameter changes.
+relatedTerms:
+  - governance-token
+  - dao
+  - voting
+  - proposal
+synonyms:
+  - decentralized governance
+  - on-chain governance
+  - community governance
 ---
 
 Governance refers to the mechanisms and processes through which decentralized protocols make collective decisions about upgrades, treasury management, and parameter changes. Unlike traditional corporate governance where boards and executives hold decision-making power, blockchain governance distributes authority across token holders, developers, and validators. Most DeFi protocols implement on-chain voting systems where governance token holders can submit and vote on proposals. MakerDAO exemplifies sophisticated governance, allowing MKR holders to vote on critical parameters like collateral types, stability fees, and risk management decisions that directly affect the DAI stablecoin. For professionals entering Web3, understanding governance mechanisms is increasingly valuable as protocols actively seek governance analysts, community managers, and tokenomics specialists to help design and maintain decentralized decision-making systems.

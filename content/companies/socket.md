@@ -1,6 +1,6 @@
 ---
 name: Socket
-website: https://socket.tech
+website: 'https://socket.tech'
 category: Other
 description: Socket provides tools for building and managing Web3 applications.
 ---

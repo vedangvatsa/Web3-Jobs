@@ -1,13 +1,14 @@
 ---
-
-title: "Writing Upgradable Smart Contracts: Proxies Explained"
-image: "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&lib=rb-4.1.0&q=80&w=1080"
-data-ai-hint: "software update upgrade"
-description: "Smart contracts are immutable, so how do you fix bugs or add new features? This guide explains the Transparent Proxy Pattern, the industry standard for."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Writing Upgradable Smart Contracts: Proxies Explained'
+image: >-
+  https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&lib=rb-4.1.0&q=80&w=1080
+data-ai-hint: software update upgrade
+description: >-
+  Smart contracts are immutable, so how do you fix bugs or add new features?
+  This guide explains the Transparent Proxy Pattern, the industry standard for.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 One of the defining characteristics of a [smart contract](/what-are-smart-contracts) is its immutability. Once it is deployed on the [blockchain](/what-is-a-blockchain), its code remains unchanged. This feature enhances security and builds trust, but it also poses significant challenges. What happens when you identify a bug or wish to introduce new features?

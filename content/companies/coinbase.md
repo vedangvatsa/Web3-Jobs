@@ -1,9 +1,9 @@
 ---
 name: Coinbase
-website: https://coinbase.com
+website: 'https://coinbase.com'
 founded: 2012
 category: Cryptocurrency Exchange
-headquarters: San Francisco, California, USA
+headquarters: 'San Francisco, California, USA'
 description: The largest U.S.-based cryptocurrency exchange and bitcoin custodian
 ---
 

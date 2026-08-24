@@ -1,6 +1,6 @@
 ---
 name: World
-website: https://world.org
+website: 'https://world.org'
 category: Other
 description: World is a company focused on new solutions in the tech industry.
 ---

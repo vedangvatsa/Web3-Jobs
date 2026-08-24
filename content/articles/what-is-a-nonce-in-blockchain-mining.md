@@ -1,13 +1,14 @@
 ---
-
-title: "What is a Nonce in Blockchain Mining"
-image: "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg"
-data-ai-hint: "blockchain mining hardware"
-description: "A nonce is a one-time number that miners must find to solve a block in a Proof-of-Work system. Learn how this simple number is central to the process of."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is a Nonce in Blockchain Mining
+image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
+data-ai-hint: blockchain mining hardware
+description: >-
+  A nonce is a one-time number that miners must find to solve a block in a
+  Proof-of-Work system. Learn how this simple number is central to the process
+  of.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In blockchain technology, particularly within Proof-of-Work systems like [Bitcoin](/what-is-bitcoin), the term **"nonce"** plays an important role in the mining process. A nonce, short for **"number used once,"** is a unique number that miners must discover to solve a block and add it to the blockchain.

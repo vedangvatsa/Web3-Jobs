@@ -1,8 +1,10 @@
 ---
 name: Talos
-website: https://talos.com
+website: 'https://talos.com'
 category: Other
-description: Talos provides institutional-grade trading and settlement solutions for digital assets.
+description: >-
+  Talos provides institutional-grade trading and settlement solutions for
+  digital assets.
 ---
 
 Talos offers a platform that enables institutional investors to trade, settle, and manage digital assets. Their solutions are designed to simplify the trading process and enhance operational efficiency for financial institutions. The company focuses on providing a detailed suite of tools for trading, risk management, and compliance in the digital asset space.

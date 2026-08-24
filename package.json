@@ -9,13 +9,19 @@
     "stamp-dates": "npx tsx scripts/stamp-article-dates.ts",
     "start": "next start",
     "lint": "next lint",
+    "cli": "node bin/hashtagweb3.js",
     "export:emails": "npx tsx scripts/export-emails.ts",
     "send-alerts": "npx tsx scripts/send-job-alerts.ts",
     "send-new-jobs": "npx tsx scripts/send-new-jobs.ts",
     "clean-suppressed": "npx tsx scripts/clean-suppressed-emails.ts",
     "clean-suppressed:dry": "npx tsx scripts/clean-suppressed-emails.ts --dry-run",
     "linkedin:post-jobs": "npx tsx scripts/linkedin-auto-post.ts",
-    "linkedin:authorize": "echo 'Visit the LinkedIn OAuth URL to authorize'"
+    "linkedin:authorize": "echo 'Visit the LinkedIn OAuth URL to authorize'",
+    "check:slop": "node scripts/check-slop.js",
+    "clean:slop": "node scripts/clean-slop.js --apply"
+  },
+  "bin": {
+    "hashtagweb3": "./bin/hashtagweb3.js"
   },
   "engines": {
     "node": "20"

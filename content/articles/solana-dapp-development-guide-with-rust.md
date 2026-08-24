@@ -1,13 +1,13 @@
 ---
-
-title: "Solana dApp Development Guide with Rust"
-image: "https://picsum.photos/seed/27/1200/630"
-description: "A full guide to building your first decentralized application (dApp) on the Solana blockchain using Rust and the Anchor framework."
-category: "Technology Deep Dives"
-data-ai-hint: "blockchain code"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Solana dApp Development Guide with Rust
+image: 'https://picsum.photos/seed/27/1200/630'
+description: >-
+  A full guide to building your first decentralized application (dApp) on the
+  Solana blockchain using Rust and the Anchor framework.
+category: Technology Deep Dives
+data-ai-hint: blockchain code
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Solana dApp Development Guide with Rust and Anchor

@@ -1,13 +1,13 @@
 ---
-
-title: "Web3 Marketing: A New Playbook for a Decentralized World"
-image: "/images/austin-distel-tLZhFRLj6nY-unsplash.jpg"
-description: "Marketing in Web3 is different. Learn the new strategies and tactics required to build a community and grow a project in the decentralized economy."
-category: "Career Guides"
-data-ai-hint: "digital marketing"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Marketing: A New Playbook for a Decentralized World'
+image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
+description: >-
+  Marketing in Web3 is different. Learn the new strategies and tactics required
+  to build a community and grow a project in the decentralized economy.
+category: Career Guides
+data-ai-hint: digital marketing
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Marketing in [Web3](/what-is-web3) is fundamentally different from traditional marketing. You can't run ads on Google or Meta advertising cryptocurrency projects. You can't use traditional marketing metrics. Your audience is technically sophisticated and skeptical of hype.

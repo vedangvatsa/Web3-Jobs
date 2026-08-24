@@ -1,13 +1,13 @@
 ---
-
-title: "How Web3 Is Changing Logistics"
-image: "/images/thisisengineering-32PpagSzeGs-unsplash.jpg"
-data-ai-hint: "logistics supply chain"
-description: "A deep dive into how blockchain technology is being applied to the logistics industry, creating more transparent, efficient, and secure supply chains."
-category: "Industry Insights"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How Web3 Is Changing Logistics
+image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
+data-ai-hint: logistics supply chain
+description: >-
+  A deep dive into how blockchain technology is being applied to the logistics
+  industry, creating more transparent, efficient, and secure supply chains.
+category: Industry Insights
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The global logistics and supply chain industry generates significant value annually, serving as the backbone of modern commerce. However, it faces challenges, including fragmentation, inefficiencies, and a lack of transparency. Tracking a single shipping container involves numerous actors such as manufacturers, shipping lines, freight forwarders, ports, customs officials, and retailers. This complexity leads to delays, increased costs, and potential fraud.

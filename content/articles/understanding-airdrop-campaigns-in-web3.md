@@ -1,13 +1,13 @@
 ---
-
-title: "Understanding Airdrop Campaigns in Web3"
-image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
-data-ai-hint: "crypto airdrop"
-description: "An airdrop is a marketing strategy where a Web3 project distributes its native token for free to a large number of wallet addresses. Learn why projects do."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Airdrop Campaigns in Web3
+image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
+data-ai-hint: crypto airdrop
+description: >-
+  An airdrop is a marketing strategy where a Web3 project distributes its native
+  token for free to a large number of wallet addresses. Learn why projects do.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the [Web3](/what-is-web3), an **airdrop** serves as a strategic marketing and distribution method where a protocol or project distributes its native cryptocurrency [token](/what-is-a-token) to numerous wallet addresses at no cost. This approach resembles giving free samples but carries a more profound strategic intent. A well-planned airdrop can build a community, enable decentralized governance, and improve awareness for a new project almost instantaneously.
@@ -18,7 +18,7 @@ In the [Web3](/what-is-web3), an **airdrop** serves as a strategic marketing and
 
 **Decentralizing Governance:** Airdrops are essential for projects aiming to evolve into a **[DAO (Decentralized Autonomous Organization)](/what-is-a-dao)**. By distributing governance tokens broadly, projects allow a diverse group of users to engage in protocol governance, ensuring a more democratic decision-making process.
 
-**Marketing and Awareness Generation:** Airdrops function as potent marketing tools. The allure of receiving free cryptocurrency can create substantial buzz and interest, drawing numerous potential users eager to explore the project’s offerings.
+**Marketing and Awareness Generation:** Airdrops function as potent marketing tools. The allure of receiving free cryptocurrency can create substantial buzz and interest, drawing numerous potential users eager to explore the project's offerings.
 
 **Vampire Attacks:** In some cases, a new protocol may target users of a competing project by airdropping tokens to them. This tactic, known as a "vampire attack," aims to siphon users and liquidity from the established competitor by presenting more appealing incentives.
 

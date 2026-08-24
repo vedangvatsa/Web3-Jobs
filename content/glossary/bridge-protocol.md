@@ -1,12 +1,22 @@
 ---
-term: "Bridge Protocol"
-slug: "bridge-protocol"
-category: "technical"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "A protocol enabling asset transfer between different blockchains through locking assets on one chain and minting equivalent wrapped assets on another chain."
-relatedTerms: ["cross-chain", "wrapped-token", "interoperability", "security"]
-synonyms: ["cross-chain bridge", "asset bridge", "chain bridge"]
+term: Bridge Protocol
+slug: bridge-protocol
+category: technical
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A protocol enabling asset transfer between different blockchains through
+  locking assets on one chain and minting equivalent wrapped assets on another
+  chain.
+relatedTerms:
+  - cross-chain
+  - wrapped-token
+  - interoperability
+  - security
+synonyms:
+  - cross-chain bridge
+  - asset bridge
+  - chain bridge
 ---
 
 Bridge Protocol refers to a system that enables digital assets to move between different blockchain networks by locking tokens on one chain and minting equivalent wrapped versions on another. When a user wants to transfer ETH from Ethereum to Polygon, for example, they deposit their ETH into a bridge smart contract on Ethereum, which then triggers the minting of wrapped ETH on Polygon that can be used within that ecosystem. The process reverses when returning assets, burning the wrapped tokens to enable the original assets. Bridges have become essential infrastructure for cross-chain decentralized finance. However, bridges represent significant security vulnerabilities, as demonstrated by the Ronin Bridge hack in 2022, making bridge security expertise highly sought after by blockchain companies seeking to protect user funds and maintain protocol integrity.

@@ -1,12 +1,22 @@
 ---
-term: "Data Availability"
-slug: "data-availability"
-category: "technical"
-difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
-description: "The guarantee that blockchain data required to verify state transitions is publicly accessible, ensuring that anyone can validate blocks and preventing hidden data attacks."
-relatedTerms: ["rollup", "consensus", "data-availability-sampling", "scaling"]
-synonyms: ["DA", "data availability layer", "DA security"]
+term: Data Availability
+slug: data-availability
+category: technical
+difficulty: Advanced
+image: 'https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80'
+description: >-
+  The guarantee that blockchain data required to verify state transitions is
+  publicly accessible, ensuring that anyone can validate blocks and preventing
+  hidden data attacks.
+relatedTerms:
+  - rollup
+  - consensus
+  - data-availability-sampling
+  - scaling
+synonyms:
+  - DA
+  - data availability layer
+  - DA security
 ---
 
 Data Availability refers to the guarantee that all data required to verify blockchain state transitions remains publicly accessible, enabling any network participant to independently validate blocks and detect potential fraud. This property becomes especially critical in modular blockchain architectures and Layer 2 rollups, where execution happens off-chain but verification depends on data being posted to a base layer. Ethereum's Dencun upgrade introduced proto-danksharding specifically to reduce data availability costs for rollups. Dedicated data availability layers like Celestia and EigenDA have emerged to provide scalable, cost-effective alternatives to posting data directly on Ethereum, enabling rollups to achieve higher throughput without sacrificing security guarantees. Without proper data availability, a malicious sequencer could withhold transaction data, preventing users from proving ownership of assets or exiting the system. Engineers who understand data availability architecture are increasingly sought after as modular blockchain designs become the dominant scaling method across the industry.
@@ -131,4 +141,4 @@ Trends:
 
 ## Ensure Verifiable State
 
-Data availability ensures users can verify state transitions. It is central to rollup security and modular blockchain design. If you’re interested in scaling infrastructure, explore [infrastructure careers](/) at data availability layer teams.
+Data availability ensures users can verify state transitions. It is central to rollup security and modular blockchain design. If you're interested in scaling infrastructure, explore [infrastructure careers](/) at data availability layer teams.

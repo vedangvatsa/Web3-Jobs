@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/company-culture-guide',
   images: [
    {
-    url: '/api/og?type=default&title=Company%20Culture%20Guide%20Builder',
+    url: 'https://hashtagweb3.com/api/og?type=default&title=Company%20Culture%20Guide%20Builder',
     width: 1200,
     height: 630,
     alt: 'Company Culture Guide Builder',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Company Culture Guide Builder',
   description: 'Define and document your company culture with our free builder. Create a complete guide to share your values, communication norms, and team rituals to attract aligned talent.',
-  images: ['/api/og?type=default&title=Company%20Culture%20Guide%20Builder'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Company%20Culture%20Guide%20Builder'],
  },
 };
 

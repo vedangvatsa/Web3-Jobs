@@ -1,13 +1,13 @@
 ---
-
-title: "How to Cold Contact Anyone and Get a Response"
-image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
-data-ai-hint: "person sending message"
-description: "A guide to effective cold outreach in Web3. Learn how to write a compelling cold DM or email that provides value upfront and dramatically increases your."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How to Cold Contact Anyone and Get a Response
+image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
+data-ai-hint: person sending message
+description: >-
+  A guide to effective cold outreach in Web3. Learn how to write a compelling
+  cold DM or email that provides value upfront and dramatically increases your.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the dynamic world of [Web3](/what-is-web3), mastering the art of cold outreach can significantly impact your career. A well-crafted message can open doors to founders, investors, or hiring managers. Unfortunately, many cold outreach attempts fail due to generic content and a self-serving tone.

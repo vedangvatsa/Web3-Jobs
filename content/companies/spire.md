@@ -1,9 +1,9 @@
 ---
 name: Spire
-website: https://spire.com
+website: 'https://spire.com'
 founded: 2012
 category: Space / Data Analytics
-headquarters: Vienna, Virginia
+headquarters: 'Vienna, Virginia'
 description: Space-based data analytics company use satellite infrastructure
 ---
 

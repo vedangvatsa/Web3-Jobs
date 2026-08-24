@@ -6,8 +6,9 @@ import { notFound } from 'next/navigation';
 import { GlossaryCTA } from '@/components/glossary-cta';
 import { GlossaryCharts } from '@/components/glossary-charts';
 import Image from 'next/image';
+import Link from 'next/link';
 import { Metadata } from 'next';
-import type { Article as ArticleSchema, ScholarlyArticle, BreadcrumbList } from 'schema-dts';
+import type { Article as ArticleSchema, ScholarlyArticle, BreadcrumbList, Event as SchemaEvent, WithContext } from 'schema-dts';
 import { ArticleContent } from '@/components/article-content';
 import { RelatedArticles } from '@/components/related-articles';
 import { ResourcePageView } from '@/components/pseo/resource-page-view';
@@ -17,6 +18,30 @@ import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryM
 import { GlossaryViewTracker } from '@/components/tracking/glossary-view-tracker';
 import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 import { PageHeader } from "@/components/page-header";
+import {
+  getEventSlug,
+  getEventType,
+  getEventFormat,
+  getEventEcosystems,
+  formatEventDate,
+  generateGoogleCalendarUrl,
+  getEventEditorialGuide,
+} from '@/lib/events';
+import {
+  getEventBySlug,
+  getEvents,
+  getRelatedEvents,
+} from '@/lib/events-server';
+import { Button } from '@/components/ui/button';
+import {
+  Calendar,
+  MapPin,
+  ExternalLink,
+  ArrowLeft,
+  ArrowRight,
+} from 'lucide-react';
+import { CtaBanner } from '@/components/cta-banner';
+
 
 type ArticlePageProps = {
  params: {
@@ -28,24 +53,69 @@ export const dynamicParams = true;
 export const revalidate = 3600; // ISR: revalidate every hour
 
 export async function generateStaticParams() {
- const articles = await getAllArticles();
- const resources = getAllResourcePages();
- // Pre-render only the 50 most recent articles + all resource pages at build time.
- // Remaining ~716 articles are generated on-demand via ISR (built on first request, then cached).
- // Glossary terms (157 pages) are also generated on-demand via ISR.
- const topArticles = articles
-  .sort((a, b) => new Date(b.publishedDate || 0).getTime() - new Date(a.publishedDate || 0).getTime())
-  .slice(0, 50);
- return [
-  ...topArticles.map((article) => ({ slug: article.slug })),
-  ...resources.map((r) => ({ slug: r.seo.canonicalSlug })),
- ];
+  const articles = await getAllArticles();
+  const resources = getAllResourcePages();
+  const events = await getEvents();
+  // Pre-render only the 50 most recent articles + all resource pages + first 40 events at build time.
+  // Remaining items are generated on-demand via ISR (built on first request, then cached).
+  const topArticles = articles
+   .sort((a, b) => new Date(b.publishedDate || 0).getTime() - new Date(a.publishedDate || 0).getTime())
+   .slice(0, 50);
+  return [
+   ...topArticles.map((article) => ({ slug: article.slug })),
+   ...resources.map((r) => ({ slug: r.seo.canonicalSlug })),
+   ...events.slice(0, 40).map((event) => ({ slug: getEventSlug(event) })),
+  ];
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
- // Check if it's a resource page first
- const resource = getResourceByCanonicalSlug(params.slug);
- if (resource) {
+  // Check if it's an event page first
+  const event = await getEventBySlug(params.slug);
+  if (event) {
+    const siteUrl = 'https://hashtagweb3.com';
+    const eventSlug = getEventSlug(event);
+    const canonicalUrl = `${siteUrl}/${eventSlug}`;
+    const formattedDate = formatEventDate(event.startDate, event.endDate);
+    const ecosystems = getEventEcosystems(event);
+    const ecoText = ecosystems.length > 0 ? ` (${ecosystems.join(', ')})` : '';
+
+    const title = `${event.name} - Dates, Venue & Registration | Hashtag Web3`;
+    const description = `${event.name} scheduled for ${formattedDate} in ${event.location}. Explore event agenda${ecoText}, venue guide, and official registration links.`;
+
+    const ogImageUrl = event.coverImage || `${siteUrl}/api/og?type=default&title=${encodeURIComponent(event.name)}`;
+
+    return {
+      title,
+      description,
+      alternates: {
+        canonical: canonicalUrl,
+      },
+      openGraph: {
+        type: 'website',
+        title,
+        description,
+        url: canonicalUrl,
+        images: [
+          {
+            url: ogImageUrl,
+            width: 1200,
+            height: 630,
+            alt: event.name,
+          },
+        ],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title,
+        description,
+        images: [ogImageUrl],
+      },
+    };
+  }
+
+  // Check if it's a resource page first
+  const resource = getResourceByCanonicalSlug(params.slug);
+  if (resource) {
   const siteUrl = 'https://hashtagweb3.com';
   const resourceUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
   const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(resource.seo.title)}&category=${encodeURIComponent(resource.meta.contentType)}`;
@@ -158,6 +228,241 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
+  // Check if it's an event page first
+  const event = await getEventBySlug(params.slug);
+  if (event) {
+    const siteUrl = 'https://hashtagweb3.com';
+    const eventSlug = getEventSlug(event);
+    const format = getEventFormat(event);
+    const ecosystems = getEventEcosystems(event);
+    const editorial = getEventEditorialGuide(event);
+    const googleCalendarUrl = generateGoogleCalendarUrl(event);
+    const relatedEvents = await getRelatedEvents(event, 3);
+
+    // Schema.org Event
+    const isOnline = format === 'online' || event.location.toLowerCase().includes('online');
+    const eventSchema: WithContext<SchemaEvent> = {
+      '@context': 'https://schema.org',
+      '@type': 'Event',
+      name: event.name,
+      description: event.description || editorial.summaryLead,
+      startDate: event.startDate,
+      endDate: event.endDate || event.startDate,
+      eventAttendanceMode: isOnline
+        ? 'https://schema.org/OnlineEventAttendanceMode'
+        : 'https://schema.org/OfflineEventAttendanceMode',
+      eventStatus: 'https://schema.org/EventScheduled',
+      location: {
+        '@type': isOnline ? 'VirtualLocation' : 'Place',
+        name: event.location,
+        ...(isOnline
+          ? { url: event.url }
+          : {
+              address: {
+                '@type': 'PostalAddress',
+                addressLocality: event.city || event.location,
+                addressCountry: event.country || '',
+              },
+            }),
+      },
+      url: `${siteUrl}/${eventSlug}`,
+      image: event.coverImage || `${siteUrl}/api/og?type=default&title=${encodeURIComponent(event.name)}`,
+      offers: {
+        '@type': 'Offer',
+        url: event.url,
+        availability: 'https://schema.org/InStock',
+      },
+    };
+
+    // Schema.org Breadcrumbs
+    const breadcrumbSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
+        { '@type': 'ListItem', position: 2, name: 'Events', item: `${siteUrl}/events` },
+        { '@type': 'ListItem', position: 3, name: event.name, item: `${siteUrl}/${eventSlug}` },
+      ],
+    };
+
+    return (
+      <>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(eventSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        />
+
+        <div className="flex flex-col min-h-screen bg-background text-foreground">
+          <main className="flex-1 pb-16">
+            <div className="container mx-auto px-4 py-8 max-w-5xl space-y-10">
+              {/* Header Block */}
+              <header className="space-y-4 max-w-3xl">
+                <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-foreground leading-tight">
+                  {event.name}
+                </h1>
+
+                <div className="flex flex-wrap items-center gap-y-2 gap-x-4 text-sm text-muted-foreground">
+                  <div className="flex items-center gap-1.5 font-medium text-foreground">
+                    <Calendar className="h-4 w-4 text-muted-foreground" />
+                    <span>{formatEventDate(event.startDate, event.endDate)}</span>
+                  </div>
+                  <span>•</span>
+                  <div className="flex items-center gap-1.5">
+                    <MapPin className="h-4 w-4 text-muted-foreground" />
+                    <span>{event.location}</span>
+                  </div>
+                </div>
+
+                {/* Action Buttons */}
+                <div className="flex flex-wrap items-center gap-3 pt-2">
+                  <Button asChild size="default" className="rounded-lg font-medium gap-2">
+                    <a
+                      href={event.url}
+                      target="_blank"
+                      rel="noopener noreferrer nofollow"
+                      className="flex items-center"
+                    >
+                      <span>Visit Official Website</span>
+                      <ExternalLink className="h-4 w-4" />
+                    </a>
+                  </Button>
+
+                  <Button asChild variant="outline" size="default" className="rounded-lg gap-2">
+                    <a
+                      href={googleCalendarUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center"
+                    >
+                      <Calendar className="h-4 w-4 text-muted-foreground" />
+                      <span>Add to Calendar</span>
+                    </a>
+                  </Button>
+                </div>
+              </header>
+
+              {/* Event Cover Image */}
+              {event.coverImage && (
+                <div className="w-full h-64 sm:h-80 md:h-96 rounded-2xl overflow-hidden bg-muted border">
+                  <img
+                    src={event.coverImage}
+                    alt={event.name}
+                    className="w-full h-full object-cover"
+                    loading="eager"
+                  />
+                </div>
+              )}
+
+              {/* Quick Facts Grid */}
+              {(editorial.ticketPricing || editorial.speakers || editorial.expectedAttendance) && (
+                <div className="flex flex-col md:flex-row flex-wrap gap-6 md:gap-8 py-6 border-y text-sm">
+                  {editorial.ticketPricing && (
+                    <div className="space-y-1 flex-1 min-w-[240px] break-words">
+                      <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Ticket Pricing</span>
+                      <span className="font-semibold text-foreground text-sm">{editorial.ticketPricing}</span>
+                    </div>
+                  )}
+                  {editorial.speakers && (
+                    <div className="space-y-1 flex-1 min-w-[240px] break-words">
+                      <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Speakers</span>
+                      <span className="font-semibold text-foreground text-sm">{editorial.speakers}</span>
+                    </div>
+                  )}
+                  {editorial.expectedAttendance && (
+                    <div className="space-y-1 flex-1 min-w-[240px] break-words">
+                      <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Expected Attendance</span>
+                      <span className="font-semibold text-foreground text-sm">{editorial.expectedAttendance}</span>
+                    </div>
+                  )}
+                </div>
+              )}
+
+              {/* Full-width Article */}
+              <article className="max-w-none space-y-8 text-sm sm:text-base text-muted-foreground">
+                {/* Summary Lead */}
+                <p className="leading-relaxed">
+                  {editorial.summaryLead}
+                </p>
+
+                {/* Editorial Sections */}
+                {editorial.sections.map((section, idx) => (
+                  <section key={idx} className="space-y-3 pt-2">
+                    <h2 className="text-xl font-bold tracking-tight text-foreground border-b pb-2">
+                      {section.heading}
+                    </h2>
+                    <div className="space-y-3 leading-relaxed">
+                      {section.content.map((paragraph, pIdx) => (
+                        <p key={pIdx} className="leading-relaxed">
+                          {paragraph}
+                        </p>
+                      ))}
+                    </div>
+                  </section>
+                ))}
+              </article>
+
+              {/* Related Events Section */}
+              {relatedEvents.length > 0 && (
+                <section className="space-y-4 pt-8 border-t">
+                  <div className="flex items-center justify-between">
+                    <div>
+                      <h2 className="text-xl font-bold text-foreground">Related Upcoming Events</h2>
+                      <p className="text-xs text-muted-foreground">
+                        Explore other conferences and hackathons in similar ecosystems.
+                      </p>
+                    </div>
+                    <Button asChild variant="ghost" size="sm" className="text-xs text-muted-foreground hover:text-foreground">
+                      <Link href="/events" className="flex items-center gap-1">
+                        <span>All Events</span>
+                        <ArrowRight className="h-3.5 w-3.5" />
+                      </Link>
+                    </Button>
+                  </div>
+
+                  <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                    {relatedEvents.map((relEvent) => {
+                      const relSlug = getEventSlug(relEvent);
+                      return (
+                        <Link
+                          key={relEvent.id}
+                          href={`/${relSlug}`}
+                          className="block p-4 rounded-xl border bg-card hover:border-primary/50 hover:shadow-xs transition-all flex flex-col justify-between"
+                        >
+                          <div className="space-y-1.5">
+                            <p className="text-xs text-muted-foreground font-medium">
+                              {formatEventDate(relEvent.startDate, relEvent.endDate)}
+                            </p>
+                            <h3 className="font-bold text-sm text-foreground line-clamp-2">
+                              {relEvent.name}
+                            </h3>
+                            <p className="text-xs text-muted-foreground truncate">{relEvent.location}</p>
+                          </div>
+                          <div className="pt-3 mt-3 border-t text-xs text-primary font-medium flex items-center gap-1">
+                            <span>View Event Guide</span>
+                            <ArrowRight className="h-3 w-3" />
+                          </div>
+                        </Link>
+                      );
+                    })}
+                  </div>
+                </section>
+              )}
+
+              {/* Community CTA */}
+              <div className="pt-4">
+                <CtaBanner variant="community" />
+              </div>
+            </div>
+          </main>
+        </div>
+      </>
+    );
+  }
+
  // Check if it's a resource page first
  const resource = getResourceByCanonicalSlug(params.slug);
  if (resource) {
@@ -265,9 +570,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <div>
          <header className="mb-8">
           <div className="flex items-center gap-2 mb-4">
-           <a href="/glossary" className="text-sm text-muted-foreground hover:text-primary">
+           <Link href="/glossary" className="text-sm text-muted-foreground hover:text-primary">
             ← Web3 Glossary
-           </a>
+           </Link>
           </div>
           <PageHeader title={term.term} />
           <p className="text-xl text-muted-foreground mb-4">

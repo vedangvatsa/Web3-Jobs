@@ -1,6 +1,6 @@
 ---
 name: Ethena
-website: https://ethena.fi
+website: 'https://ethena.fi'
 category: Other
 description: Ethena provides blockchain-based solutions for businesses and professionals.
 ---

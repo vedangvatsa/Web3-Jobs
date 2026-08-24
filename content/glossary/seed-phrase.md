@@ -1,13 +1,25 @@
 ---
-term: "Seed Phrase"
-slug: "seed-phrase"
-category: "Security"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=1200&h=600&fit=crop"
-imageAlt: "Security and password concept representing cryptocurrency seed phrase protection"
-description: "A 12 or 24-word phrase that serves as the master key to your cryptocurrency wallet. Anyone with your seed phrase can access all your funds."
-relatedTerms: ["wallet", "private-key", "security"]
-synonyms: ["recovery phrase", "mnemonic phrase", "backup phrase", "secret phrase"]
+term: Seed Phrase
+slug: seed-phrase
+category: Security
+difficulty: Beginner
+image: >-
+  https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=1200&h=600&fit=crop
+imageAlt: >-
+  Security and password concept representing cryptocurrency seed phrase
+  protection
+description: >-
+  A 12 or 24-word phrase that serves as the master key to your cryptocurrency
+  wallet. Anyone with your seed phrase can access all your funds.
+relatedTerms:
+  - wallet
+  - private-key
+  - security
+synonyms:
+  - recovery phrase
+  - mnemonic phrase
+  - backup phrase
+  - secret phrase
 ---
 
 Seed Phrase refers to a sequence of 12 or 24 randomly generated words that functions as the master key to a cryptocurrency wallet. It can regenerate all associated private keys and grant complete control over the funds stored within. This cryptographic backup mechanism, also known as a recovery phrase or mnemonic phrase, follows the BIP-39 standard adopted by major wallet providers including MetaMask, Ledger, and Trezor. When users set up a hardware wallet like Ledger Nano, they must carefully record and store their seed phrase offline, as losing it means permanent loss of access to their assets. Professionals working in wallet development, security auditing, and customer support roles must thoroughly understand seed phrase mechanics to protect users and build trustworthy products.

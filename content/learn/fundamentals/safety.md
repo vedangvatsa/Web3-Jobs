@@ -1,56 +1,77 @@
 ---
-title: "Web3 Safety"
-description: "How to protect yourself from scams, phishing, and rug pulls in Web3."
+title: Web3 Safety
+description: 'How to protect yourself from scams, phishing, and rug pulls in Web3.'
 order: 15
-readTime: "9 min"
-difficulty: "beginner"
-prerequisites: ["defi"]
+readTime: 9 min
+difficulty: beginner
+prerequisites:
+  - defi
 quiz:
-  - question: "What is the most common type of Web3 scam?"
+  - question: What is the most common type of Web3 scam?
     options:
-      - "Hardware wallet theft"
-      - "Phishing — fake websites or DMs that trick you into approving malicious transactions"
-      - "Blockchain hacking"
-      - "Mining scams"
+      - Hardware wallet theft
+      - >-
+        Phishing - fake websites or DMs that trick you into approving malicious
+        transactions
+      - Blockchain hacking
+      - Mining scams
     correct: 1
-    explanation: "Phishing is by far the most common attack. Scammers create fake websites that look like real DeFi protocols or send DMs pretending to be 'support.' When you connect your wallet and sign a transaction, they drain your funds."
-  - question: "What is a 'token approval' and why is it dangerous?"
+    explanation: >-
+      Phishing is by far the most common attack. Scammers create fake websites
+      that look like real DeFi protocols or send DMs pretending to be 'support.'
+      When you connect your wallet and sign a transaction, they drain your
+      funds.
+  - question: What is a 'token approval' and why is it dangerous?
     options:
-      - "Approving a token listing on an exchange"
-      - "Giving a smart contract permission to spend your tokens — a malicious contract can drain your wallet"
-      - "Approving a governance proposal"
-      - "Creating a new token"
+      - Approving a token listing on an exchange
+      - >-
+        Giving a smart contract permission to spend your tokens - a malicious
+        contract can drain your wallet
+      - Approving a governance proposal
+      - Creating a new token
     correct: 1
-    explanation: "When you interact with a DeFi protocol, it asks you to 'approve' access to your tokens. A legitimate protocol only uses what it needs. A malicious contract can use that approval to drain your entire balance of that token."
-  - question: "What should you do if someone DMs you offering 'free tokens'?"
+    explanation: >-
+      When you interact with a DeFi protocol, it asks you to 'approve' access to
+      your tokens. A legitimate protocol only uses what it needs. A malicious
+      contract can use that approval to drain your entire balance of that token.
+  - question: What should you do if someone DMs you offering 'free tokens'?
     options:
-      - "Click the link quickly before it expires"
-      - "Ask for more details"
-      - "Ignore and block — it is almost certainly a scam"
-      - "Share it with friends"
+      - Click the link quickly before it expires
+      - Ask for more details
+      - Ignore and block - it is almost certainly a scam
+      - Share it with friends
     correct: 2
-    explanation: "Unsolicited DMs about free tokens, airdrops, or investment opportunities are almost always scams. Legitimate projects do not DM individuals asking them to connect wallets."
-  - question: "What is revoke.cash used for?"
+    explanation: >-
+      Unsolicited DMs about free tokens, airdrops, or investment opportunities
+      are almost always scams. Legitimate projects do not DM individuals asking
+      them to connect wallets.
+  - question: What is revoke.cash used for?
     options:
-      - "Earning interest on crypto"
-      - "Reviewing and revoking token approvals you have given to smart contracts"
-      - "Creating new wallets"
-      - "Mining cryptocurrency"
+      - Earning interest on crypto
+      - Reviewing and revoking token approvals you have given to smart contracts
+      - Creating new wallets
+      - Mining cryptocurrency
     correct: 1
-    explanation: "Revoke.cash lets you see all the smart contracts that have permission to spend your tokens. You can revoke approvals you no longer need, reducing your attack surface."
-  - question: "Which is the safest practice?"
+    explanation: >-
+      Revoke.cash lets you see all the smart contracts that have permission to
+      spend your tokens. You can revoke approvals you no longer need, reducing
+      your attack surface.
+  - question: Which is the safest practice?
     options:
-      - "Keeping all your crypto in one hot wallet"
-      - "Using separate wallets for different purposes (daily use vs savings)"
-      - "Sharing your seed phrase with a trusted friend for backup"
-      - "Storing your seed phrase in a cloud document"
+      - Keeping all your crypto in one hot wallet
+      - Using separate wallets for different purposes (daily use vs savings)
+      - Sharing your seed phrase with a trusted friend for backup
+      - Storing your seed phrase in a cloud document
     correct: 1
-    explanation: "Using separate wallets isolates risk. If your daily-use wallet gets compromised, your savings wallet stays safe. Never share your seed phrase with anyone, and never store it digitally."
+    explanation: >-
+      Using separate wallets isolates risk. If your daily-use wallet gets
+      compromised, your savings wallet stays safe. Never share your seed phrase
+      with anyone, and never store it digitally.
 ---
 
 ## The number one rule
 
-Most crypto losses are not from blockchain hacks. They are from social engineering — people being tricked into giving up their keys or approving malicious transactions.
+Most crypto losses are not from blockchain hacks. They are from social engineering - people being tricked into giving up their keys or approving malicious transactions.
 
 The scammers are good at their job. They create perfect copies of real websites, impersonate project founders on Discord, and engineer urgency ("claim your airdrop in the next 10 minutes or it expires").
 
@@ -87,9 +108,9 @@ Your best defense: slow down and verify everything.
  <!-- Bottom tips -->
  <rect x="20" y="160" width="760" height="100" rx="10" fill="#f0fdf4" stroke="#22c55e" stroke-width="1.5"/>
  <text x="400" y="188" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">Defense checklist</text>
- <text x="400" y="210" text-anchor="middle" font-size="11" fill="#64748b">✓ Bookmark real sites · ✓ Never click DM links · ✓ Verify contract addresses</text>
- <text x="400" y="230" text-anchor="middle" font-size="11" fill="#64748b">✓ Use hardware wallet for savings · ✓ Separate wallets for daily/savings · ✓ Revoke old approvals</text>
- <text x="400" y="248" text-anchor="middle" font-size="11" fill="#64748b">✓ Start with small amounts · ✓ Read what you sign · ✓ If it sounds too good, it is</text>
+ <text x="400" y="210" text-anchor="middle" font-size="11" fill="#64748b">✓ Bookmark real sites - ✓ Never click DM links - ✓ Verify contract addresses</text>
+ <text x="400" y="230" text-anchor="middle" font-size="11" fill="#64748b">✓ Use hardware wallet for savings - ✓ Separate wallets for daily/savings - ✓ Revoke old approvals</text>
+ <text x="400" y="248" text-anchor="middle" font-size="11" fill="#64748b">✓ Start with small amounts - ✓ Read what you sign - ✓ If it sounds too good, it is</text>
 </svg>
 </div>
 
@@ -112,7 +133,7 @@ Use at least two wallets:
 | Wallet | Purpose | Type | What goes here |
 | --- | --- | --- | --- |
 | Daily wallet | Browsing DeFi, minting NFTs, trying new protocols | Hot (MetaMask) | Small amounts you can afford to lose |
-| Savings wallet | Long-term holdings | Cold (Ledger/Trezor) | Main portfolio — never connects to risky sites |
+| Savings wallet | Long-term holdings | Cold (Ledger/Trezor) | Main portfolio - never connects to risky sites |
 
 If your daily wallet gets drained by a phishing attack, your savings wallet is untouched. This is the simplest, most effective security measure.
 
@@ -122,10 +143,10 @@ If you see any of these, stop immediately:
 
 - A website URL that is slightly different from the real one (uniiswap.com instead of uniswap.org)
 - Anyone asking for your seed phrase, for any reason
-- "Send 1 ETH, get 2 ETH back" — this is always a scam
+- "Send 1 ETH, get 2 ETH back" - this is always a scam
 - Urgency pressure ("Claim in the next 5 minutes")
 - Unsolicited DMs about airdrops, investment opportunities, or "support"
-- A token that appeared in your wallet that you did not buy (airdrop scam — interacting with it can drain your wallet)
+- A token that appeared in your wallet that you did not buy (airdrop scam - interacting with it can drain your wallet)
 - Anonymous team with no public track record
 - No audit, no GitHub, no documentation
 
@@ -143,6 +164,6 @@ You have completed the Web3 Fundamentals course. You now understand blockchains,
 
 **Next paths to explore:**
 
-- **Decentralized Finance** — learn how DEXs, lending, and yield strategies work
-- **Smart Contract Development** — learn to write and deploy your own contracts
-- **Web3 Careers** — how to get hired at a Web3 company
+- **Decentralized Finance** - learn how DEXs, lending, and yield strategies work
+- **Smart Contract Development** - learn to write and deploy your own contracts
+- **Web3 Careers** - how to get hired at a Web3 company

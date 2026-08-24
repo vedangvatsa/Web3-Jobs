@@ -1,12 +1,22 @@
 ---
-term: "Chain Reorganization"
-slug: "chain-reorganization"
-category: "blockchain-fundamentals"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
-description: "An event where a blockchain replaces a sequence of recent blocks with a different chain, altering transaction history and potentially reversing recent transactions."
-relatedTerms: ["finality", "consensus", "proof-of-work", "fork"]
-synonyms: ["reorg", "chain reorg", "block reorganization"]
+term: Chain Reorganization
+slug: chain-reorganization
+category: blockchain-fundamentals
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80'
+description: >-
+  An event where a blockchain replaces a sequence of recent blocks with a
+  different chain, altering transaction history and potentially reversing recent
+  transactions.
+relatedTerms:
+  - finality
+  - consensus
+  - proof-of-work
+  - fork
+synonyms:
+  - reorg
+  - chain reorg
+  - block reorganization
 ---
 
 Chain Reorganization refers to an event where a blockchain replaces a sequence of recent blocks with a different chain, effectively altering transaction history and potentially reversing transactions that users believed were confirmed. This phenomenon occurs when competing miners or validators simultaneously produce valid blocks, causing the network to temporarily split before converging on the chain with the most accumulated work. Bitcoin experiences shallow reorgs of one or two blocks regularly, while deeper reorgs are rare but consequential. In 2020, Ethereum Classic suffered a major reorg attack where attackers reversed over 7,000 blocks and double-spent cryptocurrency. Understanding chain reorganizations is essential for blockchain security engineers and protocol developers, as exchanges and DeFi platforms must implement appropriate confirmation thresholds to protect against reorg-based attacks.
@@ -121,4 +131,4 @@ Trends:
 
 ## Manage Finality Risk
 
-Reorgs are a normal part of probabilistic consensus but can be risky for high-value transfers. Understanding reorgs is essential for safe operations. If you’re interested in consensus, explore [protocol careers](/) at blockchain teams.
+Reorgs are a normal part of probabilistic consensus but can be risky for high-value transfers. Understanding reorgs is essential for safe operations. If you're interested in consensus, explore [protocol careers](/) at blockchain teams.

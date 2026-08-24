@@ -1,58 +1,93 @@
 ---
-title: "Perpetual Futures and On-Chain Derivatives"
-description: "How decentralized perpetual exchanges work and why they are DeFi's largest trading venues."
+title: Perpetual Futures and On-Chain Derivatives
+description: >-
+  How decentralized perpetual exchanges work and why they are DeFi's largest
+  trading venues.
 order: 9
-readTime: "11 min"
-difficulty: "advanced"
-prerequisites: ["dexs"]
+readTime: 11 min
+difficulty: advanced
+prerequisites:
+  - dexs
 quiz:
-  - question: "What is a perpetual futures contract?"
+  - question: What is a perpetual futures contract?
     options:
-      - "A futures contract that expires every month."
-      - "A futures contract with no expiration date, allowing traders to hold use positions indefinitely."
-      - "A type of options contract."
-      - "A stablecoin that tracks commodity prices."
+      - A futures contract that expires every month.
+      - >-
+        A futures contract with no expiration date, allowing traders to hold use
+        positions indefinitely.
+      - A type of options contract.
+      - A stablecoin that tracks commodity prices.
     correct: 1
-    explanation: "Perpetual futures ('perps') are futures contracts that never expire. They use a funding rate mechanism to keep the contract price anchored to the spot price."
-  - question: "What is the 'funding rate' in perpetual futures?"
+    explanation: >-
+      Perpetual futures ('perps') are futures contracts that never expire. They
+      use a funding rate mechanism to keep the contract price anchored to the
+      spot price.
+  - question: What is the 'funding rate' in perpetual futures?
     options:
-      - "The gas fee for opening a trade."
-      - "A periodic payment between longs and shorts that keeps the perp price aligned with the spot price."
-      - "The interest rate on borrowed margin."
-      - "The protocol's trading fee."
+      - The gas fee for opening a trade.
+      - >-
+        A periodic payment between longs and shorts that keeps the perp price
+        aligned with the spot price.
+      - The interest rate on borrowed margin.
+      - The protocol's trading fee.
     correct: 1
-    explanation: "When the perp price is above spot, longs pay shorts (incentivizing shorting). When the perp price is below spot, shorts pay longs. This mechanism keeps prices aligned without expiration."
-  - question: "What happens when a used position gets liquidated?"
+    explanation: >-
+      When the perp price is above spot, longs pay shorts (incentivizing
+      shorting). When the perp price is below spot, shorts pay longs. This
+      mechanism keeps prices aligned without expiration.
+  - question: What happens when a used position gets liquidated?
     options:
-      - "The exchange refunds your money."
-      - "Your collateral is seized because the position's losses approached the deposited margin, and the exchange closes the position to prevent bad debt."
-      - "You receive more tokens."
-      - "Nothing — you can always hold."
+      - The exchange refunds your money.
+      - >-
+        Your collateral is seized because the position's losses approached the
+        deposited margin, and the exchange closes the position to prevent bad
+        debt.
+      - You receive more tokens.
+      - Nothing - you can always hold.
     correct: 1
-    explanation: "Liquidation occurs when losses eat through most of your collateral. At that point, the exchange forcibly closes your position and takes your remaining margin to cover the loss. With 10x use, a 10% move against you wipes out your entire deposit."
-  - question: "What is the main advantage of decentralized perp exchanges over centralized ones like Binance?"
+    explanation: >-
+      Liquidation occurs when losses eat through most of your collateral. At
+      that point, the exchange forcibly closes your position and takes your
+      remaining margin to cover the loss. With 10x use, a 10% move against you
+      wipes out your entire deposit.
+  - question: >-
+      What is the main advantage of decentralized perp exchanges over
+      centralized ones like Binance?
     options:
-      - "They are always cheaper."
-      - "Non-custodial — you trade from your own wallet and never deposit funds with a company that could freeze or lose them."
-      - "They have more trading pairs."
-      - "They are faster."
+      - They are always cheaper.
+      - >-
+        Non-custodial - you trade from your own wallet and never deposit funds
+        with a company that could freeze or lose them.
+      - They have more trading pairs.
+      - They are faster.
     correct: 1
-    explanation: "On decentralized perp exchanges like GMX or Hyperliquid, you trade directly from your wallet. Your funds never sit on a company's servers. After the FTX collapse showed the risks of custodial exchanges, this became a major selling point."
-  - question: "Why are perpetual futures called 'perpetual'?"
+    explanation: >-
+      On decentralized perp exchanges like GMX or Hyperliquid, you trade
+      directly from your wallet. Your funds never sit on a company's servers.
+      After the FTX collapse showed the risks of custodial exchanges, this
+      became a major selling point.
+  - question: Why are perpetual futures called 'perpetual'?
     options:
-      - "Because they last forever once opened."
-      - "Because unlike traditional futures that expire on a set date, perpetual contracts have no expiration — they can be held indefinitely, with the funding rate mechanism keeping prices anchored to spot."
-      - "Because they cannot be closed."
-      - "Because the profits are perpetual."
+      - Because they last forever once opened.
+      - >-
+        Because unlike traditional futures that expire on a set date, perpetual
+        contracts have no expiration - they can be held indefinitely, with the
+        funding rate mechanism keeping prices anchored to spot.
+      - Because they cannot be closed.
+      - Because the profits are perpetual.
     correct: 1
-    explanation: "Traditional futures expire quarterly. Perpetual futures eliminated this constraint. Instead of expiration forcing convergence to spot price, the funding rate — a periodic payment between longs and shorts — continuously pulls the perp price toward the spot price."
+    explanation: >-
+      Traditional futures expire quarterly. Perpetual futures eliminated this
+      constraint. Instead of expiration forcing convergence to spot price, the
+      funding rate - a periodic payment between longs and shorts - continuously
+      pulls the perp price toward the spot price.
 ---
 
 ## What Are Perpetual Futures?
 
-A perpetual futures contract (or "perp") lets you bet on the price of an asset with use, without actually buying the asset. Unlike traditional futures which expire on a specific date, perps have no expiry — you can hold your position as long as you want (as long as you don't get liquidated).
+A perpetual futures contract (or "perp") lets you bet on the price of an asset with use, without actually buying the asset. Unlike traditional futures which expire on a specific date, perps have no expiry - you can hold your position as long as you want (as long as you don't get liquidated).
 
-Perps were invented by BitMEX in 2016 and have become the most traded instrument in all of crypto — daily volume routinely exceeds $100 billion.
+Perps were invented by BitMEX in 2016 and have become the most traded instrument in all of crypto - daily volume routinely exceeds $100 billion.
 
 ## How They Work
 
@@ -112,7 +147,7 @@ Funding is typically settled every 1-8 hours. This creates a continuous economic
 ## Decentralized Perp Exchanges
 
 ### GMX (Arbitrum, Avalanche)
-GMX uses a unique liquidity pool model. Instead of an order book, traders trade against the **GLP pool** — a basket of assets that acts as the counterparty.
+GMX uses a unique liquidity pool model. Instead of an order book, traders trade against the **GLP pool** - a basket of assets that acts as the counterparty.
 
 - Liquidity providers deposit assets into GLP and earn trading fees + funding payments.
 - Traders get zero-slippage execution using Chainlink oracles for pricing.
@@ -159,5 +194,5 @@ Decentralized perps rely on price oracles. If the oracle reports an incorrect pr
 - Perpetual futures are the most-traded crypto instrument, exceeding $100B daily volume.
 - The funding rate mechanism keeps perp prices aligned with spot prices.
 - Decentralized perps (GMX, dYdX, Hyperliquid) offer self-custody and transparency.
-- High use amplifies both gains and losses — liquidation risk is the primary danger.
+- High use amplifies both gains and losses - liquidation risk is the primary danger.
 - Oracle reliability is critical for fair pricing on decentralized perp exchanges.

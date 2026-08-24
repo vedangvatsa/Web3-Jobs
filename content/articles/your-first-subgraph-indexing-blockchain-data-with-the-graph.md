@@ -1,12 +1,13 @@
 ---
-
-title: "Your First Subgraph: Indexing Blockchain Data with The Graph"
-image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGF0YXxlbnwwfHx8fDE3NTUwMzYzNzV8MA&lib=rb-4.0.3"
-description: "Learn how to build a subgraph using The Graph Protocol. This guide provides a step-by-step tutorial on how to index smart contract data and serve it via a."
-category: "Getting Started"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Your First Subgraph: Indexing Blockchain Data with The Graph'
+image: >-
+  https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGF0YXxlbnwwfHx8fDE3NTUwMzYzNzV8MA&lib=rb-4.0.3
+description: >-
+  Learn how to build a subgraph using The Graph Protocol. This guide provides a
+  step-by-step tutorial on how to index smart contract data and serve it via a.
+category: Getting Started
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Building a decentralized application (dApp) requires two key components: smart contracts, which serve as the on-chain backend, and a user interface, which functions as the off-chain frontend. A significant hurdle for dApp developers is retrieving data from the [blockchain](/what-is-a-blockchain) for display on the frontend. Accessing data directly from a [smart contract](/what-are-smart-contracts) can be slow and inefficient, presenting a challenge for development.
@@ -126,6 +127,6 @@ This function activates with each `Transfer` event. It creates a `User` entity f
  graph deploy --studio <SUBGRAPH_NAME>
  ```
 
-Upon deployment to The Graph's hosted service (the "Subgraph Studio"), it will begin indexing data from your selected contract. After syncing, you’ll have a GraphQL endpoint that your dApp can use to query NFT and owner data efficiently.
+Upon deployment to The Graph's hosted service (the "Subgraph Studio"), it will begin indexing data from your selected contract. After syncing, you'll have a GraphQL endpoint that your dApp can use to query NFT and owner data efficiently.
 
 Building subgraphs is a fundamental step toward becoming a full-stack Web3 developer. It bridges your on-chain logic with the off-chain user experience, enabling the development of fast, data-rich decentralized applications.

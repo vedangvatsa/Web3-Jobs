@@ -1,12 +1,13 @@
 ---
-
-title: "Account Abstraction (EIP-4337): A Guide"
-image: "https://picsum.photos/seed/28/1200/630"
-description: "Account Abstraction is set to change Web3 user experience. This guide breaks down EIP-4337, explaining how it works and what it means for the."
-category: "Technology Deep Dives"
-data-ai-hint: "blockchain ethereum"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Account Abstraction (EIP-4337): A Guide'
+image: 'https://picsum.photos/seed/28/1200/630'
+description: >-
+  Account Abstraction is set to change Web3 user experience. This guide breaks
+  down EIP-4337, explaining how it works and what it means for the.
+category: Technology Deep Dives
+data-ai-hint: blockchain ethereum
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Account Abstraction Explained: The Future of Web3 Wallets

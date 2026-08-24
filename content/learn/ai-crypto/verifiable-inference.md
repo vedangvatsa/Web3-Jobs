@@ -1,51 +1,83 @@
 ---
-title: "Verifiable AI Inference"
-description: "Using cryptographic proofs to verify that AI outputs are authentic and untampered."
+title: Verifiable AI Inference
+description: >-
+  Using cryptographic proofs to verify that AI outputs are authentic and
+  untampered.
 order: 5
-readTime: "9 min"
-difficulty: "advanced"
-prerequisites: ["introduction", "compute-networks"]
+readTime: 9 min
+difficulty: advanced
+prerequisites:
+  - introduction
+  - compute-networks
 quiz:
-  - question: "What is verifiable inference?"
+  - question: What is verifiable inference?
     options:
-      - "Running AI models faster using specialized hardware."
-      - "Cryptographically proving that a specific AI model produced a specific output from a specific input."
-      - "Training AI models on verified datasets."
-      - "Checking if an AI model has been fine-tuned."
+      - Running AI models faster using specialized hardware.
+      - >-
+        Cryptographically proving that a specific AI model produced a specific
+        output from a specific input.
+      - Training AI models on verified datasets.
+      - Checking if an AI model has been fine-tuned.
     correct: 1
-    explanation: "Verifiable inference uses cryptographic proofs (like ZK proofs or TEE attestations) to prove that a given output was produced by a specific model with specific inputs, without needing to trust the server."
-  - question: "Why is verifiable inference important for on-chain AI?"
+    explanation: >-
+      Verifiable inference uses cryptographic proofs (like ZK proofs or TEE
+      attestations) to prove that a given output was produced by a specific
+      model with specific inputs, without needing to trust the server.
+  - question: Why is verifiable inference important for on-chain AI?
     options:
-      - "It makes smart contracts run faster."
-      - "Smart contracts cannot run AI models natively, so they need a trustworthy way to consume off-chain AI outputs."
-      - "It replaces the need for oracles."
-      - "It allows blockchains to train AI models."
+      - It makes smart contracts run faster.
+      - >-
+        Smart contracts cannot run AI models natively, so they need a
+        trustworthy way to consume off-chain AI outputs.
+      - It replaces the need for oracles.
+      - It allows blockchains to train AI models.
     correct: 1
-    explanation: "Blockchains are too slow to run AI models directly. Instead, AI runs off-chain, and verifiable inference lets smart contracts trust the result without re-running the computation."
-  - question: "What is zkML (Zero-Knowledge Machine Learning)?"
+    explanation: >-
+      Blockchains are too slow to run AI models directly. Instead, AI runs
+      off-chain, and verifiable inference lets smart contracts trust the result
+      without re-running the computation.
+  - question: What is zkML (Zero-Knowledge Machine Learning)?
     options:
-      - "A machine learning model that runs on a blockchain."
-      - "A technique that generates a cryptographic proof that a specific AI model produced a specific output, without revealing the model's weights."
-      - "A privacy-focused cryptocurrency."
-      - "A method to compress AI models."
+      - A machine learning model that runs on a blockchain.
+      - >-
+        A technique that generates a cryptographic proof that a specific AI
+        model produced a specific output, without revealing the model's weights.
+      - A privacy-focused cryptocurrency.
+      - A method to compress AI models.
     correct: 1
-    explanation: "zkML uses zero-knowledge proofs to prove that a particular inference result came from a particular model, without exposing the model itself. This lets smart contracts verify AI outputs trustlessly."
-  - question: "What is the difference between zkML and opML (Optimistic ML)?"
+    explanation: >-
+      zkML uses zero-knowledge proofs to prove that a particular inference
+      result came from a particular model, without exposing the model itself.
+      This lets smart contracts verify AI outputs trustlessly.
+  - question: What is the difference between zkML and opML (Optimistic ML)?
     options:
-      - "They are the same thing."
-      - "zkML proves correctness upfront with cryptographic proofs; opML assumes correctness and only verifies if someone challenges the result."
-      - "opML is faster than zkML in all cases."
-      - "zkML only works with image models."
+      - They are the same thing.
+      - >-
+        zkML proves correctness upfront with cryptographic proofs; opML assumes
+        correctness and only verifies if someone challenges the result.
+      - opML is faster than zkML in all cases.
+      - zkML only works with image models.
     correct: 1
-    explanation: "zkML generates a proof at inference time (slow but guaranteed correct). opML assumes the result is correct and opens a challenge window — if someone disputes the result, a verification process runs. opML is faster for the common case but has a delay for finality."
-  - question: "Why can't smart contracts just run AI models directly?"
+    explanation: >-
+      zkML generates a proof at inference time (slow but guaranteed correct).
+      opML assumes the result is correct and opens a challenge window - if
+      someone disputes the result, a verification process runs. opML is faster
+      for the common case but has a delay for finality.
+  - question: Why can't smart contracts just run AI models directly?
     options:
-      - "Smart contracts don't support Python."
-      - "Running a neural network inference on-chain would cost millions of dollars in gas fees — blockchains are designed for simple state transitions, not heavy computation."
-      - "Smart contracts can only process text."
-      - "There aren't enough nodes."
+      - Smart contracts don't support Python.
+      - >-
+        Running a neural network inference on-chain would cost millions of
+        dollars in gas fees - blockchains are designed for simple state
+        transitions, not heavy computation.
+      - Smart contracts can only process text.
+      - There aren't enough nodes.
     correct: 1
-    explanation: "Even a small neural network requires millions of floating-point operations. At Ethereum's gas prices, running inference on-chain would be prohibitively expensive. This is why the computation happens off-chain and only the verified result is submitted on-chain."
+    explanation: >-
+      Even a small neural network requires millions of floating-point
+      operations. At Ethereum's gas prices, running inference on-chain would be
+      prohibitively expensive. This is why the computation happens off-chain and
+      only the verified result is submitted on-chain.
 ---
 
 ## The Trust Problem
@@ -58,7 +90,7 @@ In traditional web apps, this is mostly a reputation issue. But in crypto, where
 
 ## Why This Matters for Smart Contracts
 
-Smart contracts are deterministic — given the same inputs, they always produce the same outputs. AI models are not deterministic in the same way. This creates a fundamental tension:
+Smart contracts are deterministic - given the same inputs, they always produce the same outputs. AI models are not deterministic in the same way. This creates a fundamental tension:
 
 - A DeFi protocol wants to use AI to assess loan risk.
 - An NFT marketplace wants AI to detect fake art.

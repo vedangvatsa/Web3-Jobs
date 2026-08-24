@@ -3,18 +3,22 @@ term: RPC Node
 slug: rpc-node
 category: technical
 difficulty: beginner
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: An RPC (Remote Procedure Call) node is infrastructure that provides an interface for applications to interact with a blockchain network. RPC nodes allow developers to query blockchain data, send transactions, and execute smart contracts without running their own full nodes.
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  An RPC (Remote Procedure Call) node is infrastructure that provides an
+  interface for applications to interact with a blockchain network. RPC nodes
+  allow developers to query blockchain data, send transactions, and execute
+  smart contracts without running their own full nodes.
 relatedTerms:
- - node
- - full-node
- - light-client
- - infura
- - api
+  - node
+  - full-node
+  - light-client
+  - infura
+  - api
 synonyms:
- - RPC endpoint
- - RPC provider
- - Blockchain API node
+  - RPC endpoint
+  - RPC provider
+  - Blockchain API node
 ---
 
 An **RPC (Remote Procedure Call) node** is a blockchain node that exposes an **API interface** allowing external applications to interact with the blockchain without running their own node infrastructure. RPC nodes serve as the critical bridge between user-facing applications (wallets, dApps, block explorers) and the underlying blockchain network, handling requests to read blockchain state, submit transactions, estimate gas costs, and more.
@@ -149,7 +153,7 @@ For projects prioritizing decentralization or needing specialized access, runnin
 - **Software Options**:
 - Geth (Go Ethereum): Most popular Ethereum client.
 - Erigon: High-performance Ethereum client with lower storage requirements.
-- Nethermind: .NET-based Ethereum client with archive node support.
+- Nethermind:.NET-based Ethereum client with archive node support.
 - Besu: Java-based Ethereum client with enterprise features.
 
 - **Deployment Options**:

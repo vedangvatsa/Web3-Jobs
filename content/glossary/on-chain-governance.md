@@ -1,12 +1,22 @@
 ---
-term: "On-Chain Governance"
-slug: "on-chain-governance"
-category: "governance"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
-description: "A governance model where protocol decisions are proposed, voted on, and executed directly by smart contracts on the blockchain, creating transparent and enforceable governance."
-relatedTerms: ["governance", "dao", "governance-token", "voting"]
-synonyms: ["protocol governance", "onchain voting", "smart contract governance"]
+term: On-Chain Governance
+slug: on-chain-governance
+category: governance
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80'
+description: >-
+  A governance model where protocol decisions are proposed, voted on, and
+  executed directly by smart contracts on the blockchain, creating transparent
+  and enforceable governance.
+relatedTerms:
+  - governance
+  - dao
+  - governance-token
+  - voting
+synonyms:
+  - protocol governance
+  - onchain voting
+  - smart contract governance
 ---
 
 On-Chain Governance refers to a governance model where protocol decisions are proposed, voted on, and executed directly through smart contracts on the blockchain. This creates a transparent and enforceable system that eliminates the need for trusted intermediaries. Unlike traditional corporate governance or off-chain crypto governance, every vote is recorded immutably on the blockchain, and approved proposals automatically execute after predetermined timelocks. Uniswap demonstrates this model effectively, allowing UNI token holders to vote on protocol parameters, treasury allocations, and fee structures with results enforced by code rather than human administrators. While this approach reduces backroom deals and increases accountability, it introduces challenges including voter apathy and potential control by large token holders. For professionals entering Web3, understanding on-chain governance mechanics is essential for roles in DAO operations, protocol development, and decentralized project management.

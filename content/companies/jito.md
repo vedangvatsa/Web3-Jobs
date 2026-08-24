@@ -1,6 +1,6 @@
 ---
 name: Jito
-website: https://jito.network
+website: 'https://jito.network'
 category: Other
 description: Jito provides solutions for optimizing transaction processing on Ethereum.
 ---

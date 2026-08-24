@@ -1,10 +1,12 @@
 ---
 name: MANTRA
-website: https://mantrachain.io
+website: 'https://mantrachain.io'
 founded: 2020
 category: Layer 1 / RWA
 headquarters: Hong Kong
-description: Regulatory-compliant Layer 1 blockchain focused on real-world asset tokenization
+description: >-
+  Regulatory-compliant Layer 1 blockchain focused on real-world asset
+  tokenization
 ---
 
 Regulatory-compliant Layer 1 blockchain focused on real-world asset tokenization.

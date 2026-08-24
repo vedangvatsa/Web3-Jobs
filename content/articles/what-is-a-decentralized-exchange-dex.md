@@ -1,16 +1,17 @@
 ---
-
 title: What is a Decentralized Exchange (DEX)
-description: Explore how decentralized exchanges (DEXs) are changing crypto trading by enabling peer-to-peer transactions without intermediaries, and learn how they differ from centralized exchanges.
+description: >-
+  Explore how decentralized exchanges (DEXs) are changing crypto trading by
+  enabling peer-to-peer transactions without intermediaries, and learn how they
+  differ from centralized exchanges.
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
-category: "Educational"
+category: Educational
 data-ai-hint: cryptocurrency exchange
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
-Decentralized exchanges, or DEXs, transform the trading of digital assets. Unlike centralized exchanges (CEXs) such as Coinbase or Binance, which operate under a single company’s control, DEXs use [smart contracts](/what-are-smart-contracts) to enable direct trades between users. This peer-to-peer structure allows traders to maintain custody of their funds, creating a more secure and transparent trading environment.
+Decentralized exchanges, or DEXs, transform the trading of digital assets. Unlike centralized exchanges (CEXs) such as Coinbase or Binance, which operate under a single company's control, DEXs use [smart contracts](/what-are-smart-contracts) to enable direct trades between users. This peer-to-peer structure allows traders to maintain custody of their funds, creating a more secure and transparent trading environment.
 
 The primary innovation in many contemporary DEXs is the Automated Market Maker (AMM). Traditional exchanges rely on order books where buyers and sellers are matched. In contrast, AMMs operate using liquidity pools, which consist of pairs of [tokens](/what-is-a-token) locked in a smart contract. The pricing of these assets derives from a mathematical formula based on the ratio of tokens within the pool. When engaging in a trade on a DEX, users are not trading with an individual directly but rather against a liquidity pool.
 
@@ -65,7 +66,7 @@ One of the defining features of DEXs is their ability to host any ERC-20 token. 
 
 ### Practical Implementation of DEXs
 
-Understanding how DEXs function can enhance your professional expertise in the Web3 space. Here’s a step-by-step guide to mastering the fundamentals of trading on DEXs:
+Understanding how DEXs function can enhance your professional expertise in the Web3 space. Here's a step-by-step guide to mastering the fundamentals of trading on DEXs:
 
 1. **Grasp the Core Principles**: Familiarize yourself with the foundational concepts of DEXs and AMMs. Study industry best practices to build a strong knowledge base.
 

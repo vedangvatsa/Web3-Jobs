@@ -7,6 +7,8 @@ import type { Metadata } from 'next';
 import type { WebPage, JobPosting } from 'schema-dts';
 import { PageHeader } from "@/components/page-header";
 
+import { SITE_STATS } from '@/lib/constants';
+
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
 export const metadata: Metadata = {
@@ -21,7 +23,7 @@ export const metadata: Metadata = {
   description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
   url: 'https://hashtagweb3.com/jobs',
   images: [{
-   url: '/api/og?type=default&title=Remote%20Web3%20Jobs',
+   url: 'https://hashtagweb3.com/api/og?type=default&title=Remote%20Web3%20Jobs',
    width: 1200,
    height: 630,
    alt: 'Hashtag Web3 Remote Jobs',
@@ -31,14 +33,12 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 Jobs & Crypto Careers',
   description: 'Find the best remote Web3 jobs. Discover verified opportunities in Solidity, blockchain development, DeFi, DAOs, and crypto marketing.',
-  images: ['/api/og?type=default&title=Remote%20Web3%20Jobs'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Remote%20Web3%20Jobs'],
  },
 };
 
 export default async function JobsPage() {
  const initialJobs = await getJobs();
- const headlines = ["Find Your Next Web3 Job","Discover Top Crypto Roles","Work in Blockchain","Explore DeFi Careers","Join a DAO Today"
- ];
   
  const siteUrl = 'https://hashtagweb3.com';
  const pageSchema: WebPage = {
@@ -109,20 +109,20 @@ export default async function JobsPage() {
      <div className="container mx-auto page-section px-4">
        <section className="text-center mb-8">
          <div className="site-container">
-           <PageHeader title={headlines[0]} />
+           <PageHeader title="Find Your Next Web3 Job" />
          </div>
        </section>
        <div className="site-container">
          <TrustedBy />
          <div className="text-center my-4 space-y-2">
            <Link
-           href="https://t.me/web3hiring"
+           href={SITE_STATS.telegramUrl}
            target="_blank"
            rel="noopener noreferrer"
            className="text-sm text-muted-foreground hover:text-primary transition-colors group inline-flex items-center gap-2"
            >
            <Rss className="h-4 w-4 transition-transform group-hover:scale-110" />
-           <span>Join our hiring feed with <strong className="text-foreground">60,000+</strong> subscribers.</span>
+           <span>Join our hiring feed with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
            </Link>
          </div>
          <JobBoard initialJobs={initialJobs} />

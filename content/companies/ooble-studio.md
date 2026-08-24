@@ -1,6 +1,6 @@
 ---
 name: Ooble Studio
-website: https://ooble.studio
+website: 'https://ooble.studio'
 founded: 2023
 category: Gaming / Creative
 headquarters: Remote

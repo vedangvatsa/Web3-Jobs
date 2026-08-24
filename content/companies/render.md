@@ -1,10 +1,10 @@
 ---
 name: Render
-website: https://rendernetwork.com
+website: 'https://rendernetwork.com'
 founded: 2017
 category: DePIN / GPU Compute
-headquarters: Los Angeles, California
-description: Decentralized GPU rendering network for AI, 3D rendering, and visual computing
+headquarters: 'Los Angeles, California'
+description: 'Decentralized GPU rendering network for AI, 3D rendering, and visual computing'
 ---
 
 Decentralized GPU rendering network for AI, 3D rendering, and visual computing.

@@ -3,18 +3,23 @@ term: Validium
 slug: validium
 category: technical
 difficulty: advanced
-image: "https://images.unsplash.com/photo-1551033406-611cf9a28f67?w=1200&q=80"
-description: A validium is a scaling solution similar to a ZK rollup that uses validity proofs to verify computation correctness, but posts transaction data off-chain to a data availability committee rather than to Ethereum L1. This provides higher throughput and lower costs at the expense of slightly weaker security assumptions.
+image: 'https://images.unsplash.com/photo-1551033406-611cf9a28f67?w=1200&q=80'
+description: >-
+  A validium is a scaling solution similar to a ZK rollup that uses validity
+  proofs to verify computation correctness, but posts transaction data off-chain
+  to a data availability committee rather than to Ethereum L1. This provides
+  higher throughput and lower costs at the expense of slightly weaker security
+  assumptions.
 relatedTerms:
- - zk-rollup
- - data-availability
- - layer-2
- - plasma
- - zkporter
+  - zk-rollup
+  - data-availability
+  - layer-2
+  - plasma
+  - zkporter
 synonyms:
- - Off-chain DA rollup
- - Validium chain
- - DA committee chain
+  - Off-chain DA rollup
+  - Validium chain
+  - DA committee chain
 ---
 
 A **validium** is a **scaling solution that uses validity proofs (like ZK rollups) to ensure computational correctness but posts transaction data off-chain** to a trusted data availability (DA) committee instead of to Ethereum L1. This hybrid approach enables higher throughput and lower costs than ZK rollups while maintaining cryptographic proof of correct execution, though with an additional trust assumption around data availability.

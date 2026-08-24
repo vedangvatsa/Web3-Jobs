@@ -1,13 +1,13 @@
 ---
-
-title: "What is a Liquidity Bootstrapping Pool"
-image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
-data-ai-hint: "liquidity pool crypto"
-description: "A Liquidity Bootstrapping Pool (LBP) is a type of token sale mechanism that uses a dynamic weighting system to create a fair and bot-resistant price."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What is a Liquidity Bootstrapping Pool
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+data-ai-hint: liquidity pool crypto
+description: >-
+  A Liquidity Bootstrapping Pool (LBP) is a type of token sale mechanism that
+  uses a dynamic weighting system to create a fair and bot-resistant price.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 A **Liquidity Bootstrapping Pool (LBP)** serves as a new token launch mechanism that promotes fair price discovery and distribution for emerging crypto projects. This approach, developed by Balancer, enhances the traditional **[Initial DEX Offering (IDO)](/initial-dex-offering-complete-guide)** model by incorporating dynamic weighting, thus making it less susceptible to manipulation by bots.
@@ -21,7 +21,7 @@ Standard IDOs, particularly on platforms such as Uniswap, typically initiate wit
 
 ### The LBP Mechanism: Dynamic Pool Weighting
 
-An LBP effectively addresses these challenges through a structure that employs **dynamic weights**. Rather than maintaining a static allocation, the LBP starts with a heavily skewed allocation favoring the project’s new token.
+An LBP effectively addresses these challenges through a structure that employs **dynamic weights**. Rather than maintaining a static allocation, the LBP starts with a heavily skewed allocation favoring the project's new token.
 
 **A typical LBP launch can be illustrated as follows:**
 
@@ -32,7 +32,7 @@ An LBP effectively addresses these challenges through a structure that employs *
 | Final State | 10% | 90% | Price stabilizes at a market level|
 
 1. **Initial State:** At launch, the Balancer pool may start with a high percentage of project tokens and a low percentage of USDC. This structure significantly reduces the capital required upfront for the project team.
-2. **Weight Shift:** The smart contract automatically adjusts the pool’s weights over a designated time frame, such as 72 hours. The project token's weight decreases while the USDC weight increases.
+2. **Weight Shift:** The smart contract automatically adjusts the pool's weights over a designated time frame, such as 72 hours. The project token's weight decreases while the USDC weight increases.
 3. **Final State:** By the conclusion of the 72-hour period, the weights might shift to a low percentage of project tokens and a high percentage of USDC. This gradual adjustment creates downward pressure on the token price.
 
 ### Advantages of an LBP

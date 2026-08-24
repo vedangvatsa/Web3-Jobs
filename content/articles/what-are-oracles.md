@@ -1,12 +1,12 @@
 ---
-
-title: "What Are Oracles? Blockchains Connected to Real World"
-image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
-description: "Smart contracts can't access off-chain data on their own. Learn how blockchain oracles solve this problem by securely bringing real-world data onto the."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: What Are Oracles? Blockchains Connected to Real World
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+description: >-
+  Smart contracts can't access off-chain data on their own. Learn how blockchain
+  oracles solve this problem by securely bringing real-world data onto the.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Smart contracts are powerful, but they have a fundamental limitation: they are isolated from the outside world. A [smart contract](/what-are-smart-contracts) running on the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) cannot, by itself, know the current price of [Bitcoin](/what-is-bitcoin), the weather in New York, or the winner of the World Cup. They exist within the closed, deterministic ecosystem of the blockchain.
@@ -38,7 +38,7 @@ Oracles solve this by:
 
 This preserves determinism while connecting smart contracts to real-world information.
 
-See also: **[Account Abstraction Explained](account-abstraction-explained)** – Making blockchain interactions more flexible and user-friendly.
+See also: **[Account Abstraction Explained](account-abstraction-explained)** - Making blockchain interactions more flexible and user-friendly.
 
 ## Types of Oracles
 
@@ -163,7 +163,7 @@ uint256 ethPrice = oracle.getLatestPrice(); // Returns ~$1951
 
 **Scalability:** Can support thousands of different data feeds simultaneously.
 
-See also: **[A Deep Dive into Rollups for Ethereum Scaling](a-deep-dive-into-rollups-for-ethereum-scaling)** – How scaling solutions improve oracle efficiency.
+See also: **[A Deep Dive into Rollups for Ethereum Scaling](a-deep-dive-into-rollups-for-ethereum-scaling)** - How scaling solutions improve oracle efficiency.
 
 ## Use Cases for Oracles
 
@@ -313,7 +313,7 @@ In theory, oracle nodes could collude to report false data.
 
 **Real Risk:** Smaller oracle networks are more susceptible to collusion.
 
-See also: **[Account Abstraction Explained](account-abstraction-explained)** – How abstraction layers improve protocol security.
+See also: **[Account Abstraction Explained](account-abstraction-explained)** - How abstraction layers improve protocol security.
 
 ## The Future of Oracles
 
@@ -371,7 +371,7 @@ Multiple oracle networks coexisting, allowing smart contracts to cross-check dat
 
 **Salary:** Varies based on experience and company.
 
-See also: **[Building Career Paths for Web3 Privacy Engineers](building-career-paths-for-web3-privacy-engineers)** – Privacy is critical to future oracle networks.
+See also: **[Building Career Paths for Web3 Privacy Engineers](building-career-paths-for-web3-privacy-engineers)** - Privacy is critical to future oracle networks.
 
 ## The Bottom Line
 

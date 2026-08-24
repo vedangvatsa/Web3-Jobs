@@ -1,13 +1,14 @@
 ---
-
-title: "StableSwap Invariant Explained for Traders"
-description: "A deep dive into the StableSwap invariant, the unique algorithm powering Curve Finance that enables highly efficient trading of pegged assets like stablecoins."
-category: "Educational"
-image: "https://picsum.photos/seed/stableswap/1200/630"
-data-ai-hint: "stableswap invariant"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: StableSwap Invariant Explained for Traders
+description: >-
+  A deep dive into the StableSwap invariant, the unique algorithm powering Curve
+  Finance that enables highly efficient trading of pegged assets like
+  stablecoins.
+category: Educational
+image: 'https://picsum.photos/seed/stableswap/1200/630'
+data-ai-hint: stableswap invariant
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## The StableSwap Invariant Explained for Traders and LPs

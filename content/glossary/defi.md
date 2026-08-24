@@ -1,13 +1,23 @@
 ---
-term: "DeFi"
-slug: "defi"
-category: "DeFi"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1080"
-imageAlt: "Decentralized finance concept with digital assets"
-description: "Decentralized Finance, a category of financial applications built on blockchain that provide services like lending, borrowing, and trading without traditional intermediaries."
-relatedTerms: ["Smart Contract", "Liquidity Pool", "Yield Farming", "DEX", "Staking"]
-synonyms: ["Decentralized Finance", "Open Finance"]
+term: DeFi
+slug: defi
+category: DeFi
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1080'
+imageAlt: Decentralized finance concept with digital assets
+description: >-
+  Decentralized Finance, a category of financial applications built on
+  blockchain that provide services like lending, borrowing, and trading without
+  traditional intermediaries.
+relatedTerms:
+  - Smart Contract
+  - Liquidity Pool
+  - Yield Farming
+  - DEX
+  - Staking
+synonyms:
+  - Decentralized Finance
+  - Open Finance
 ---
 
 DeFi refers to a category of financial applications built on blockchain networks that enable services like lending, borrowing, trading, and earning interest without relying on traditional intermediaries such as banks or brokerages. These protocols use smart contracts to automate transactions and enforce rules transparently, allowing users worldwide to access financial services with just a cryptocurrency wallet. Aave, one of the largest DeFi lending protocols, exemplifies this approach by letting users deposit assets to earn yield or borrow against their holdings without credit checks or bank approval. DeFi encompasses decentralized exchanges, yield farming platforms, stablecoin systems, and insurance protocols, each offering alternatives to conventional finance. For job seekers, DeFi expertise is highly sought after, with roles spanning smart contract development, protocol security auditing, tokenomics design, and risk management across numerous active projects.

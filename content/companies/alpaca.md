@@ -1,9 +1,9 @@
 ---
 name: Alpaca
-website: https://alpaca.markets
+website: 'https://alpaca.markets'
 founded: 2015
 category: Brokerage API
-headquarters: San Mateo, California, USA
+headquarters: 'San Mateo, California, USA'
 description: API-first stock and crypto brokerage platform for developers and apps.
 ---
 

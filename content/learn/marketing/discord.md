@@ -1,82 +1,112 @@
 ---
-title: "Discord Strategy for Web3"
-description: "Build and manage a Discord community for your Web3 project from zero to thousands of members."
+title: Discord Strategy for Web3
+description: >-
+  Build and manage a Discord community for your Web3 project from zero to
+  thousands of members.
 order: 6
-readTime: "10 min"
-difficulty: "beginner"
-prerequisites: ["community"]
+readTime: 10 min
+difficulty: beginner
+prerequisites:
+  - community
 quiz:
-  - question: "What is the most common mistake in Web3 Discord management?"
+  - question: What is the most common mistake in Web3 Discord management?
     options:
-      - "Having too many channels."
-      - "Opening general chat to everyone without verification, leading to bot spam."
-      - "Using too many bots."
-      - "Not having enough moderators."
+      - Having too many channels.
+      - >-
+        Opening general chat to everyone without verification, leading to bot
+        spam.
+      - Using too many bots.
+      - Not having enough moderators.
     correct: 1
-    explanation: "Unverified open channels attract mass bot spam. The first step in any Web3 Discord is implementing verification gates (Captcha, wallet connect, or role-based access) before users can post."
-  - question: "Why do successful Web3 Discords use 'gated' channels?"
+    explanation: >-
+      Unverified open channels attract mass bot spam. The first step in any Web3
+      Discord is implementing verification gates (Captcha, wallet connect, or
+      role-based access) before users can post.
+  - question: Why do successful Web3 Discords use 'gated' channels?
     options:
-      - "To make the server look exclusive."
-      - "To create tiered access where holders, contributors, and community members get different information and perks."
-      - "Because Discord requires it."
-      - "To reduce server costs."
+      - To make the server look exclusive.
+      - >-
+        To create tiered access where holders, contributors, and community
+        members get different information and perks.
+      - Because Discord requires it.
+      - To reduce server costs.
     correct: 1
-    explanation: "Gated channels (token-gated, role-gated) create a sense of exclusivity and reward engagement. Token holders get alpha channels, contributors get project updates, and general members get community channels."
-  - question: "What is the most important metric for a healthy Discord community?"
+    explanation: >-
+      Gated channels (token-gated, role-gated) create a sense of exclusivity and
+      reward engagement. Token holders get alpha channels, contributors get
+      project updates, and general members get community channels.
+  - question: What is the most important metric for a healthy Discord community?
     options:
-      - "Total number of members."
-      - "Daily Active Users (DAU) and message-to-member ratio — showing actual engagement, not just sign-ups."
-      - "Number of channels."
-      - "Number of bots."
+      - Total number of members.
+      - >-
+        Daily Active Users (DAU) and message-to-member ratio - showing actual
+        engagement, not just sign-ups.
+      - Number of channels.
+      - Number of bots.
     correct: 1
-    explanation: "A server with 100K members but only 50 daily messages is less healthy than one with 5K members and 500 daily messages. DAU and engagement rate reveal whether a community is alive or full of airdrop farmers who joined and never returned."
-  - question: "What is 'token gating' in a Discord server?"
+    explanation: >-
+      A server with 100K members but only 50 daily messages is less healthy than
+      one with 5K members and 500 daily messages. DAU and engagement rate reveal
+      whether a community is alive or full of airdrop farmers who joined and
+      never returned.
+  - question: What is 'token gating' in a Discord server?
     options:
-      - "Charging tokens to join the server."
-      - "Restricting access to specific channels based on whether a member holds a certain token or NFT in their connected wallet."
-      - "Using tokens to vote on server rules."
-      - "Paying moderators in tokens."
+      - Charging tokens to join the server.
+      - >-
+        Restricting access to specific channels based on whether a member holds
+        a certain token or NFT in their connected wallet.
+      - Using tokens to vote on server rules.
+      - Paying moderators in tokens.
     correct: 1
-    explanation: "Token gating uses wallet verification (via bots like Collab.Land) to check if a member holds specific tokens or NFTs. If they do, they get access to exclusive channels. This creates real value for token holders and incentivizes holding."
-  - question: "What is the biggest mistake new Web3 community managers make with Discord?"
+    explanation: >-
+      Token gating uses wallet verification (via bots like Collab.Land) to check
+      if a member holds specific tokens or NFTs. If they do, they get access to
+      exclusive channels. This creates real value for token holders and
+      incentivizes holding.
+  - question: What is the biggest mistake new Web3 community managers make with Discord?
     options:
-      - "Having too few channels."
-      - "Opening too many channels too early, creating a ghost town effect where conversations are spread thin across dozens of empty channels."
-      - "Using too many emojis."
-      - "Not having enough bots."
+      - Having too few channels.
+      - >-
+        Opening too many channels too early, creating a ghost town effect where
+        conversations are spread thin across dozens of empty channels.
+      - Using too many emojis.
+      - Not having enough bots.
     correct: 1
-    explanation: "Start with 5-8 focused channels. A busy #general channel feels alive. Twenty empty channels feels dead. You can always add channels as the community grows and conversations naturally need more space."
+    explanation: >-
+      Start with 5-8 focused channels. A busy #general channel feels alive.
+      Twenty empty channels feels dead. You can always add channels as the
+      community grows and conversations naturally need more space.
 ---
 
 ## Why Discord Matters in Web3
 
 Discord is the operating system of Web3 communities. While Twitter/X is where attention is captured, Discord is where community is built. It is where token holders discuss governance, where developers ask questions, and where alpha is shared.
 
-A project without a Discord in Web3 is like a startup without a website in 2010 — technically possible, but a serious credibility gap.
+A project without a Discord in Web3 is like a startup without a website in 2010 - technically possible, but a serious credibility gap.
 
 ## Server Architecture
 
 A well-structured Web3 Discord has these channel categories:
 
 ### Welcome & Verification
-- `#rules` — Community guidelines
-- `#verify` — Wallet connection or Captcha verification
-- `#announcements` — One-way channel for official updates
+- `#rules` - Community guidelines
+- `#verify` - Wallet connection or Captcha verification
+- `#announcements` - One-way channel for official updates
 
 ### General
-- `#general-chat` — Open discussion
-- `#introductions` — New members introduce themselves
-- `#memes` — Keeps meme content out of serious channels
+- `#general-chat` - Open discussion
+- `#introductions` - New members introduce themselves
+- `#memes` - Keeps meme content out of serious channels
 
 ### Project-Specific
-- `#development-updates` — Technical progress
-- `#governance` — Proposal discussion
-- `#support` — Help with the product
+- `#development-updates` - Technical progress
+- `#governance` - Proposal discussion
+- `#support` - Help with the product
 
 ### Gated / Premium
-- `#holder-chat` (token-gated) — Exclusive to token holders
-- `#alpha` (role-gated) — Early information for active contributors
-- `#team-updates` (role-gated) — Internal updates visible to core team
+- `#holder-chat` (token-gated) - Exclusive to token holders
+- `#alpha` (role-gated) - Early information for active contributors
+- `#team-updates` (role-gated) - Internal updates visible to core team
 
 <div class="diagram">
 <svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
@@ -117,11 +147,11 @@ A well-structured Web3 Discord has these channel categories:
 
 Essential bots for a Web3 Discord:
 
-1. **Collab.Land** — Token-gating. Verifies wallet holdings and assigns roles automatically.
-2. **Guild.xyz** — Advanced gating with multi-chain support and complex conditions (hold NFT + follow on Twitter).
-3. **MEE6 or Carl-bot** — Moderation, auto-roles, welcome messages.
-4. **Dework** — Task management and bounty tracking directly in Discord.
-5. **Snapshot** — Governance voting notifications.
+1. **Collab.Land** - Token-gating. Verifies wallet holdings and assigns roles automatically.
+2. **Guild.xyz** - Advanced gating with multi-chain support and complex conditions (hold NFT + follow on Twitter).
+3. **MEE6 or Carl-bot** - Moderation, auto-roles, welcome messages.
+4. **Dework** - Task management and bounty tracking directly in Discord.
+5. **Snapshot** - Governance voting notifications.
 
 ## Growth Tactics
 

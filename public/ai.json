@@ -7,14 +7,19 @@
     "summarization": true,
     "training": false,
     "crawlers": [
+      "ChatGPT-User",
       "GPTBot",
       "OAI-SearchBot",
-      "ChatGPT-User",
       "ClaudeBot",
-      "PerplexityBot",
-      "GoogleOther",
+      "anthropic-ai",
+      "Claude-Web",
       "Google-Extended",
+      "GoogleOther",
       "Googlebot",
+      "ora-agent",
+      "DeepSeekBot",
+      "PerplexityBot",
+      "cohere-ai",
       "Bingbot",
       "YouBot",
       "Amazonbot",
@@ -39,12 +44,17 @@
   },
   "disallow": {
     "training": true,
-    "crawlers": ["CCBot", "anthropic-ai", "cohere-ai"]
+    "crawlers": [
+      "CCBot"
+    ]
   },
   "context": {
     "llms_txt": "https://hashtagweb3.com/llms.txt",
+    "llms_full_txt": "https://hashtagweb3.com/llms-full.txt",
     "agents_json": "https://hashtagweb3.com/.well-known/agents.json",
-    "ai_plugin": "https://hashtagweb3.com/.well-known/ai-plugin.json",
+    "openapi_json": "https://hashtagweb3.com/openapi.json",
+    "openapi_yaml": "https://hashtagweb3.com/api/openapi.yaml",
+    "developers_portal": "https://hashtagweb3.com/developers",
     "sitemap": "https://hashtagweb3.com/sitemap.xml"
   }
 }

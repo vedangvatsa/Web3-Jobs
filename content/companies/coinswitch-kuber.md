@@ -1,8 +1,10 @@
 ---
 name: CoinSwitch Kuber
-website: https://coinswitch.co
+website: 'https://coinswitch.co'
 category: Cryptocurrency Exchange
-description: A cryptocurrency exchange platform for buying and selling digital assets in India.
+description: >-
+  A cryptocurrency exchange platform for buying and selling digital assets in
+  India.
 ---
 
 CoinSwitch Kuber is a cryptocurrency exchange based in India. The platform allows users to buy, sell, and trade a variety of cryptocurrencies. It aims to simplify the process of investing in digital assets for Indian users. 

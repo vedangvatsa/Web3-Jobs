@@ -1,9 +1,9 @@
 ---
 name: Notion
-website: https://notion.so
+website: 'https://notion.so'
 founded: 2013
 category: Productivity / SaaS
-headquarters: San Francisco, California
+headquarters: 'San Francisco, California'
 description: All-in-one productivity and collaboration workspace
 ---
 

@@ -1,10 +1,12 @@
 ---
 name: Jump Crypto
-website: https://jumpcrypto.com
+website: 'https://jumpcrypto.com'
 founded: 2021
 category: Market Making & Web3 Infrastructure
-headquarters: Chicago, Illinois, USA
-description: The Web3 and cryptocurrency division of quantitative trading firm Jump Trading.
+headquarters: 'Chicago, Illinois, USA'
+description: >-
+  The Web3 and cryptocurrency division of quantitative trading firm Jump
+  Trading.
 ---
 
 Jump Crypto is the dedicated digital asset and Web3 infrastructure division of Jump Trading, a globally recognized proprietary trading firm. use decades of quantitative trading expertise, Jump Crypto operates as a major liquidity provider and active participant in decentralized ecosystems.

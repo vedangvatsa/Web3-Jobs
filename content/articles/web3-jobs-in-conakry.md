@@ -1,13 +1,14 @@
 ---
-
-title: "Web3 Jobs in Conakry: A Guide to Guinea's Tech Scene"
-image: "/images/africa web3 jobs.jpg"
-data-ai-hint: "conakry guinea city"
-description: "A career guide to the emerging Web3 job market in Conakry. Explore the potential for blockchain technology in Guinea, focusing on opportunities in FinTech."
-category: "Career Guides"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Web3 Jobs in Conakry: A Guide to Guinea''s Tech Scene'
+image: /images/africa web3 jobs.jpg
+data-ai-hint: conakry guinea city
+description: >-
+  A career guide to the emerging Web3 job market in Conakry. Explore the
+  potential for blockchain technology in Guinea, focusing on opportunities in
+  FinTech.
+category: Career Guides
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Conakry, the capital city of Guinea, presents a significant opportunity for digital and [Web3](/what-is-web3) innovation. With abundant natural resources such as bauxite and gold, Guinea faces economic and infrastructural challenges that make the adoption of [blockchain](/what-is-a-blockchain) technology particularly appealing. This technology promises improvements in transparency, efficiency, and financial inclusion. The Web3 ecosystem in Conakry is still in its infancy, led by a small group of entrepreneurs and developers who envision a future supported by decentralized technology.
@@ -281,7 +282,7 @@ In context, the average salary in Guinea is approximately $200 to $400 monthly. 
 **This month**:
 1. Complete your first major learning resource, whether it's a course, bootcamp, or a full book.
 2. Initiate a concrete project related to your chosen focus area.
-3. Create a Twitter account (if you don’t already have one) and begin building a following in your niche.
+3. Create a Twitter account (if you don't already have one) and begin building a following in your niche.
 
 **This quarter**:
 1. Complete and showcase your first substantial project, whether a proof of concept, open-source contribution, or published article.

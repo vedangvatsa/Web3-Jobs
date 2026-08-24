@@ -1,13 +1,22 @@
 ---
-term: "DAO"
-slug: "dao"
-category: "governance"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1080"
-imageAlt: "Community governance and collaboration concept"
-description: "Decentralized Autonomous Organization, an internet-native organization governed by smart contracts and owned collectively by its members, who vote on decisions using tokens."
-relatedTerms: ["Governance Token", "Smart Contract", "Proposal", "Voting", "Treasury"]
-synonyms: ["Decentralized Autonomous Organization"]
+term: DAO
+slug: dao
+category: governance
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1080'
+imageAlt: Community governance and collaboration concept
+description: >-
+  Decentralized Autonomous Organization, an internet-native organization
+  governed by smart contracts and owned collectively by its members, who vote on
+  decisions using tokens.
+relatedTerms:
+  - Governance Token
+  - Smart Contract
+  - Proposal
+  - Voting
+  - Treasury
+synonyms:
+  - Decentralized Autonomous Organization
 ---
 
 DAO refers to a Decentralized Autonomous Organization, an internet-native entity governed by rules encoded in smart contracts rather than traditional corporate hierarchies. Members collectively own and control the organization through on-chain voting, where governance power typically correlates with token holdings or demonstrated contribution to the community. The concept emerged prominently with "The DAO" in 2016, but modern examples like Uniswap's governance system demonstrate how token holders can vote on protocol upgrades, fee structures, and treasury allocations without centralized leadership. This governance model spans diverse applications including investment clubs, grant-making bodies, protocol development, and social communities. Understanding DAO mechanics has become essential for professionals entering Web3, as roles in governance facilitation, tokenomics design, and community management represent some of the fastest-growing career opportunities in the decentralized ecosystem.
@@ -76,7 +85,7 @@ Different voting mechanisms exist:
 
 - **Uniswap DAO**: Governs the leading DEX protocol. Token holders vote on fee structures, grant programs, and protocol upgrades.
 
-- **ENS DAO**: Manages the Ethereum Name Service, which tokenized .eth domain ownership and governance. The airdrop distribution to ENS users became a model for DAO launches.
+- **ENS DAO**: Manages the Ethereum Name Service, which tokenized.eth domain ownership and governance. The airdrop distribution to ENS users became a model for DAO launches.
 
 - **Constitution DAO**: Attempted to crowdfund to buy an original copy of the U.S. Constitution at auction. Though unsuccessful in the purchase, it demonstrated DAO coordination at rare speed and scale.
 

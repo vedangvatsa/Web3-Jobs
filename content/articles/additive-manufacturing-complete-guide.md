@@ -1,12 +1,13 @@
 ---
-
-title: "Additive Manufacturing Complete Guide"
-description: "A full guide to additive manufacturing, also known as 3D printing, covering its processes, materials, benefits, and impact on the future of production."
-category: "Educational"
-image: "https://picsum.photos/seed/additivemfg/1200/630"
-data-ai-hint: "industrial 3d"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Additive Manufacturing Complete Guide
+description: >-
+  A full guide to additive manufacturing, also known as 3D printing, covering
+  its processes, materials, benefits, and impact on the future of production.
+category: Educational
+image: 'https://picsum.photos/seed/additivemfg/1200/630'
+data-ai-hint: industrial 3d
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Additive manufacturing, commonly referred to as 3D printing, marks a shift in industrial production methods. This technique differs fundamentally from traditional subtractive methods, in which material is removed from larger blocks to achieve the desired shape. Instead, additive manufacturing builds objects layer by layer, using only the material required for the finished product. This efficient approach reduces waste and enhances design capabilities.
@@ -29,7 +30,7 @@ Additive manufacturing encompasses various processes, each with distinct charact
 
 6. **Sheet Lamination**: This technique constructs objects by stacking and laminating thin sheets of material, such as paper, plastic, or metal. A laser or blade cuts each layer into the desired shape, bonding them together to form the final product.
 
-7. **Directed Energy Deposition (DED)**: DED is typically employed for repairing or adding material to existing components. It involves feeding either powder or wire through a nozzle, where a focused energy source, such as a laser, melts the material and deposits it onto an object’s surface.
+7. **Directed Energy Deposition (DED)**: DED is typically employed for repairing or adding material to existing components. It involves feeding either powder or wire through a nozzle, where a focused energy source, such as a laser, melts the material and deposits it onto an object's surface.
 
 ### Advantages of Additive Manufacturing
 

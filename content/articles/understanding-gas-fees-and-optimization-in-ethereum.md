@@ -1,13 +1,13 @@
 ---
-
-title: "Understanding Gas Fees and Optimization in Ethereum"
-image: "/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
-data-ai-hint: "ethereum gas fees"
-description: "A guide to understanding how gas fees work on Ethereum. We break down the components of a transaction fee and explore key techniques for writing."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Understanding Gas Fees and Optimization in Ethereum
+image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
+data-ai-hint: ethereum gas fees
+description: >-
+  A guide to understanding how gas fees work on Ethereum. We break down the
+  components of a transaction fee and explore key techniques for writing.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 Gas fees represent a critical aspect of using the [Ethereum](/what-is-ethereum) blockchain. These fees, known as "gas," serve as the payment for transactions and the execution of [smart contracts](/what-are-smart-contracts). For users, understanding gas fees helps avoid overpayment, while for developers, it is vital for creating efficient applications.

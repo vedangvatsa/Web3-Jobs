@@ -1,26 +1,26 @@
 ---
-
-title: "Jack Dorsey on Web3: A Bitcoin Maximalist's Vision for a Decentralized Future"
-description: "Explore Jack Dorsey's passionate, and often controversial, views on Web3. Learn why the Twitter and Block founder is a Bitcoin maximalist and a sharp."
-image: "https://picsum.photos/seed/dorseyweb3/1200/630"
-category: "Industry Insights"
-data-ai-hint: "man technology"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: 'Jack Dorsey on Web3: A Bitcoin Maximalist''s Vision for a Decentralized Future'
+description: >-
+  Explore Jack Dorsey's passionate, and often controversial, views on Web3.
+  Learn why the Twitter and Block founder is a Bitcoin maximalist and a sharp.
+image: 'https://picsum.photos/seed/dorseyweb3/1200/630'
+category: Industry Insights
+data-ai-hint: man technology
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 ## Jack Dorsey: The Bitcoin Evangelist and Web3 Skeptic
 
 Jack Dorsey, co-founder of Twitter and founder of Block (formerly Square), stands as a significant advocate for decentralization, but his views often diverge from mainstream Silicon Valley thinking. While many in the tech sector endorse the expansive ecosystem of [Web3](/what-is-web3), including [Ethereum](/what-is-ethereum), [NFTs](/what-are-nfts), and [DeFi](/what-is-defi), Dorsey firmly aligns himself as a [Bitcoin](/what-is-bitcoin) maximalist. He asserts that Bitcoin is the sole viable internet-native currency, criticizing current Web3 developments as distractions controlled by venture capitalists.
 
-Dorsey's commitment to decentralization is unwavering. He sees Bitcoin as a means to decentralize finance, while his “Web5” initiative from Block's TBD division aims to decentralize data and identity, distinguishing itself from the broader Web3 narrative.
+Dorsey's commitment to decentralization is unwavering. He sees Bitcoin as a means to decentralize finance, while his "Web5" initiative from Block's TBD division aims to decentralize data and identity, distinguishing itself from the broader Web3 narrative.
 
 ### "Web3" vs. "Web5": A Battle of Philosophies
 
-Dorsey's critique of Web3 gained significant attention in December 2021 when he tweeted, "You don’t own 'web3.' The VCs and their LPs do. It will never escape their incentives. It’s ultimately a centralized entity with a different label." This statement sparked extensive debate. Dorsey argues that the Web3 ecosystem, heavily reliant on Ethereum and strengthened by venture capital funding, replicates the centralized power structures of Web2. He contends that venture capital firms invest in projects, acquire considerable [token](/what-is-a-token) allocations, and use their influence to promote their investments, often to the detriment of retail users.
+Dorsey's critique of Web3 gained significant attention in December 2021 when he tweeted, "You don't own 'web3.' The VCs and their LPs do. It will never escape their incentives. It's ultimately a centralized entity with a different label." This statement sparked extensive debate. Dorsey argues that the Web3 ecosystem, heavily reliant on Ethereum and strengthened by venture capital funding, replicates the centralized power structures of Web2. He contends that venture capital firms invest in projects, acquire considerable [token](/what-is-a-token) allocations, and use their influence to promote their investments, often to the detriment of retail users.
 
-In contrast, Dorsey champions “Web5: The Decentralized Web Platform,” announced in June 2022. This ambitious project seeks to enable individuals with true ownership of their data and identity. It uses Bitcoin as its foundational trust layer, foregoing the creation of a new token.
+In contrast, Dorsey champions "Web5: The Decentralized Web Platform," announced in June 2022. This ambitious project seeks to enable individuals with true ownership of their data and identity. It uses Bitcoin as its foundational trust layer, foregoing the creation of a new token.
 
 The main components of Web5 are:
 
@@ -45,7 +45,7 @@ Block has embraced this vision through various initiatives:
 
 ### Bluesky and Decentralized Social Media
 
-Dorsey’s commitment to decentralization extends into social media. While serving as CEO of Twitter, he launched Bluesky, an independent initiative focused on developing a decentralized social media protocol.
+Dorsey's commitment to decentralization extends into social media. While serving as CEO of Twitter, he launched Bluesky, an independent initiative focused on developing a decentralized social media protocol.
 
 The project, known as the AT Protocol, envisions a field where users can transfer their identities, followers, and content across different social media platforms, similar to how emails can be moved between providers. This concept of "account portability" directly challenges the closed ecosystems of major social media firms, including Twitter.
 
@@ -53,7 +53,7 @@ Although Bluesky operates independently of Block and does not directly integrate
 
 ### A Principled, If Controversial, Vision
 
-Dorsey’s perspective on Web3 is both principled and polarizing. His criticism of the VC-driven Web3 ecosystem resonates with individuals disillusioned by speculative behavior and centralized models. By championing Bitcoin as the only verifiably decentralized protocol, he articulates a clear, albeit narrow, vision for the future of finance.
+Dorsey's perspective on Web3 is both principled and polarizing. His criticism of the VC-driven Web3 ecosystem resonates with individuals disillusioned by speculative behavior and centralized models. By championing Bitcoin as the only verifiably decentralized protocol, he articulates a clear, albeit narrow, vision for the future of finance.
 
 However, his dismissal of the broader ecosystem surrounding Ethereum and other [smart contract](/what-are-smart-contracts) platforms may appear overly simplistic. Innovations in DeFi, NFTs, and [DAOs](/what-is-a-dao) represent some of the most active and creative efforts within Web3.
 
@@ -63,11 +63,11 @@ Dorsey is not opposed to a decentralized web; he advocates for a specific iterat
 
 **Q1: Why does Jack Dorsey dislike Ethereum?**
 
-Dorsey critiques Ethereum for its perceived centralization, highlighting its origins from known founders and the existence of a pre-mine. He believes these factors create a “single point of failure,” making Ethereum unsuitable for a decentralized internet.
+Dorsey critiques Ethereum for its perceived centralization, highlighting its origins from known founders and the existence of a pre-mine. He believes these factors create a "single point of failure," making Ethereum unsuitable for a decentralized internet.
 
 **Q2: What is the relationship between Jack Dorsey and Elon Musk?**
 
-Dorsey and Musk share a mutual respect and a focus on promoting free speech and open protocols. Dorsey supported Musk’s acquisition of Twitter (now X), believing privatization would enable a shift toward a more open, protocol-based framework. Both individuals are also strong advocates for Bitcoin.
+Dorsey and Musk share a mutual respect and a focus on promoting free speech and open protocols. Dorsey supported Musk's acquisition of Twitter (now X), believing privatization would enable a shift toward a more open, protocol-based framework. Both individuals are also strong advocates for Bitcoin.
 
 **Q3: Is "Web5" a real project?**
 
@@ -79,4 +79,4 @@ No. A fundamental principle of Web5 is its reliance on Bitcoin without introduci
 
 **Q5: What is Bluesky and how is it related to Twitter (X)?**
 
-Bluesky is an independent project initially incubated at Twitter under Dorsey’s leadership. It aims to develop a decentralized social networking protocol (the AT Protocol), independent of X (formerly Twitter). The goal is to enable multiple social media applications, including a potential future iteration of X, to operate on a shared, open protocol, allowing for user choice and account portability.
+Bluesky is an independent project initially incubated at Twitter under Dorsey's leadership. It aims to develop a decentralized social networking protocol (the AT Protocol), independent of X (formerly Twitter). The goal is to enable multiple social media applications, including a potential future iteration of X, to operate on a shared, open protocol, allowing for user choice and account portability.

@@ -1,13 +1,13 @@
 ---
-
-title: "Self-Sovereign Identity in Web3 Explained"
-image: "/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg"
-data-ai-hint: "digital identity key"
-description: "Understand how DIDs and self-sovereign identity give users control over their digital credentials."
-category: "Educational"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Self-Sovereign Identity in Web3 Explained
+image: /images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg
+data-ai-hint: digital identity key
+description: >-
+  Understand how DIDs and self-sovereign identity give users control over their
+  digital credentials.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 In the current digital environment, individuals do not truly own their identities. Instead, identities consist of a series of accounts, such as Google, Facebook, and banking logins, that are owned and managed by centralized corporations. This structure leads to significant privacy concerns, frequent data breaches, and a disjointed user experience.
@@ -47,7 +47,7 @@ SSI is supported by a variety of emerging Web3 technologies:
 
 - **[Decentralized Identifiers (DIDs)](/what-is-a-decentralized-identifier):** These identifiers are unique to each user and owned by them, acting as permanent digital addresses.
 
-- **[Verifiable Credentials (VCs)](/understanding-verifiable-credentials-in-blockchain):** These are tamper-proof digital attestations issued to a user’s DID by trusted entities, such as universities offering digital diplomas.
+- **[Verifiable Credentials (VCs)](/understanding-verifiable-credentials-in-blockchain):** These are tamper-proof digital attestations issued to a user's DID by trusted entities, such as universities offering digital diplomas.
 
 - **Crypto Wallets:** Personal wallets, like MetaMask, serve as identity wallets where users securely store their DIDs and VCs.
 
@@ -63,7 +63,7 @@ Consider the process of obtaining a loan from a **[DeFi](/what-is-defi)** protoc
  1. A regulated financial institution issues a **Verifiable Credential** to the user's DID, stating, "The holder of this DID is an accredited investor."
  2. The user securely stores this VC in their crypto wallet.
  3. They connect their wallet to the [DeFi](/what-is-defi) protocol.
- 4. The user presents the VC to the protocol’s [smart contract](/what-are-smart-contracts). The smart contract verifies the credential's validity without needing to reveal any personal financial data.
+ 4. The user presents the VC to the protocol's [smart contract](/what-are-smart-contracts). The smart contract verifies the credential's validity without needing to reveal any personal financial data.
  5. The user gains access to the loan without disclosing their name, net worth, or any other private financial information.
 
 This illustrates the potential of Self-Sovereign Identity, which enables trust and verification in a digital context while maintaining privacy and control.

@@ -3,18 +3,23 @@ term: ZK Rollup
 slug: zk-rollup
 category: technical
 difficulty: advanced
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: A ZK (Zero-Knowledge) rollup is a Layer 2 scaling solution that uses validity proofs (zero-knowledge proofs) to prove the correctness of off-chain computations to Ethereum L1. Unlike Optimistic rollups that assume validity, ZK rollups cryptographically prove every batch is correct, enabling faster finality without challenge periods.
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A ZK (Zero-Knowledge) rollup is a Layer 2 scaling solution that uses validity
+  proofs (zero-knowledge proofs) to prove the correctness of off-chain
+  computations to Ethereum L1. Unlike Optimistic rollups that assume validity,
+  ZK rollups cryptographically prove every batch is correct, enabling faster
+  finality without challenge periods.
 relatedTerms:
- - zero-knowledge-proof
- - rollup
- - layer-2
- - zk-snark
- - validity-proof
+  - zero-knowledge-proof
+  - rollup
+  - layer-2
+  - zk-snark
+  - validity-proof
 synonyms:
- - Zero-knowledge rollup
- - Validity rollup
- - ZKR
+  - Zero-knowledge rollup
+  - Validity rollup
+  - ZKR
 ---
 
 A **ZK (Zero-Knowledge) rollup** is a **Layer 2 scaling solution that uses validity proofs, cryptographic proofs that computations were executed correctly, to secure transaction batches** submitted to Ethereum L1. Rather than optimistically assuming validity like Optimistic rollups, ZK rollups provide mathematical certainty that every state transition is correct, enabling **instant finality** once the proof is verified on L1.

@@ -1,8 +1,8 @@
 ---
 name: N3XT
-website: https://n3xt.io
+website: 'https://n3xt.io'
 category: Other
-description: N3XT offers job listings in the tech industry, including DevOps roles.
+description: 'N3XT offers job listings in the tech industry, including DevOps roles.'
 ---
 
 N3XT is a company that provides job listings primarily in the technology sector. They currently have openings for positions such as DevOps Engineer at L2 and L3 levels. The company focuses on connecting talent with opportunities in various tech-related fields. 

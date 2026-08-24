@@ -1,51 +1,66 @@
 ---
-title: "Skills Employers Want"
-description: "The actual skills Web3 job descriptions ask for, based on real postings."
+title: Skills Employers Want
+description: 'The actual skills Web3 job descriptions ask for, based on real postings.'
 order: 3
-readTime: "7 min"
-difficulty: "beginner"
-prerequisites: ["roles"]
+readTime: 7 min
+difficulty: beginner
+prerequisites:
+  - roles
 quiz:
-  - question: "What programming language do most Ethereum smart contract jobs require?"
+  - question: What programming language do most Ethereum smart contract jobs require?
     options:
-      - "Python"
-      - "Java"
-      - "Solidity"
-      - "C++"
+      - Python
+      - Java
+      - Solidity
+      - C++
     correct: 2
-    explanation: "Solidity is the primary language for Ethereum smart contracts. Nearly every smart contract developer job listing requires it."
-  - question: "For a non-technical Web3 role, which skill matters most?"
+    explanation: >-
+      Solidity is the primary language for Ethereum smart contracts. Nearly
+      every smart contract developer job listing requires it.
+  - question: 'For a non-technical Web3 role, which skill matters most?'
     options:
-      - "Writing Solidity code"
-      - "Understanding how tokens, governance, and DeFi work"
-      - "Running blockchain nodes"
-      - "Cryptography"
+      - Writing Solidity code
+      - 'Understanding how tokens, governance, and DeFi work'
+      - Running blockchain nodes
+      - Cryptography
     correct: 1
-    explanation: "Non-technical roles (PM, marketing, BD) require understanding the product space. If you cannot explain how a DEX works or why governance matters, you cannot market or manage these products."
-  - question: "What is Dune Analytics used for?"
+    explanation: >-
+      Non-technical roles (PM, marketing, BD) require understanding the product
+      space. If you cannot explain how a DEX works or why governance matters,
+      you cannot market or manage these products.
+  - question: What is Dune Analytics used for?
     options:
-      - "Mining cryptocurrency"
-      - "Querying on-chain blockchain data with SQL"
-      - "Building smart contracts"
-      - "Managing Discord servers"
+      - Mining cryptocurrency
+      - Querying on-chain blockchain data with SQL
+      - Building smart contracts
+      - Managing Discord servers
     correct: 1
-    explanation: "Dune Analytics lets you write SQL queries against blockchain data. It is widely used by analysts, PMs, and researchers to track protocol metrics, user behavior, and market trends."
-  - question: "Which soft skill do Web3 employers value most?"
+    explanation: >-
+      Dune Analytics lets you write SQL queries against blockchain data. It is
+      widely used by analysts, PMs, and researchers to track protocol metrics,
+      user behavior, and market trends.
+  - question: Which soft skill do Web3 employers value most?
     options:
-      - "Formal corporate communication"
-      - "Self-direction and ability to work independently in a remote environment"
-      - "In-person presentation skills"
-      - "Multilingual ability"
+      - Formal corporate communication
+      - Self-direction and ability to work independently in a remote environment
+      - In-person presentation skills
+      - Multilingual ability
     correct: 1
-    explanation: "Most Web3 teams are small and remote. They need people who can identify problems, propose solutions, and ship without constant supervision. Self-direction is consistently the top soft skill."
-  - question: "What frontend library do most Web3 dApps use?"
+    explanation: >-
+      Most Web3 teams are small and remote. They need people who can identify
+      problems, propose solutions, and ship without constant supervision.
+      Self-direction is consistently the top soft skill.
+  - question: What frontend library do most Web3 dApps use?
     options:
-      - "Angular"
-      - "Vue.js"
-      - "React (with Next.js)"
-      - "jQuery"
+      - Angular
+      - Vue.js
+      - React (with Next.js)
+      - jQuery
     correct: 2
-    explanation: "React (often with Next.js) dominates Web3 frontend development. Libraries like wagmi and viem are built for the React ecosystem, making it the default choice."
+    explanation: >-
+      React (often with Next.js) dominates Web3 frontend development. Libraries
+      like wagmi and viem are built for the React ecosystem, making it the
+      default choice.
 ---
 
 ## What job descriptions actually ask for
@@ -76,10 +91,10 @@ We analyzed thousands of Web3 job postings on our platform. Here are the skills 
 
 ### Soft skills every employer wants
 
-1. **Self-direction** — figure things out without being told exactly what to do
-2. **Written communication** — most work happens async in Slack, Discord, and Notion
-3. **Curiosity** — genuine interest in how blockchains work, not just getting a paycheck
-4. **Speed** — small teams need people who ship fast
+1. **Self-direction** - figure things out without being told exactly what to do
+2. **Written communication** - most work happens async in Slack, Discord, and Notion
+3. **Curiosity** - genuine interest in how blockchains work, not just getting a paycheck
+4. **Speed** - small teams need people who ship fast
 
 ## The most underrated skill: being able to explain crypto simply
 
@@ -99,13 +114,13 @@ If you can explain DeFi to a non-technical person, you are more valuable than so
 
 ### Suggested 90-day learning path
 
-**Month 1 — Foundations:** Complete this course (Web3 Fundamentals). Set up MetaMask. Send a test transaction. Read the Ethereum whitepaper.
+**Month 1 - Foundations:** Complete this course (Web3 Fundamentals). Set up MetaMask. Send a test transaction. Read the Ethereum whitepaper.
 
-**Month 2 — Specialization:** Pick your track:
+**Month 2 - Specialization:** Pick your track:
 - *Engineers*: CryptoZombies → Speedrun Ethereum → deploy to a testnet
 - *Non-engineers*: Build a Dune dashboard → write 5 Twitter threads explaining protocols → join a DAO and vote on a proposal
 
-**Month 3 — Portfolio:** Build one real project. Push it to GitHub (engineers) or publish it publicly (non-engineers). Apply to your first 10 Web3 jobs.
+**Month 3 - Portfolio:** Build one real project. Push it to GitHub (engineers) or publish it publicly (non-engineers). Apply to your first 10 Web3 jobs.
 
 ## Key takeaways
 

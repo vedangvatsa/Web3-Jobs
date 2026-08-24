@@ -1,13 +1,14 @@
 ---
-
-title: "How Blockchain Technology Powers Web3"
-image: "/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg"
-data-ai-hint: "blockchain web3 technology"
-description: "A deep dive into the symbiotic relationship between blockchain and Web3. Understand how blockchain's core features of decentralization and immutability."
-category: "Technology Deep Dives"
-
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: How Blockchain Technology Powers Web3
+image: /images/aideal-hwa-OYzbqk2y26c-unsplash.jpg
+data-ai-hint: blockchain web3 technology
+description: >-
+  A deep dive into the symbiotic relationship between blockchain and Web3.
+  Understand how blockchain's core features of decentralization and
+  immutability.
+category: Technology Deep Dives
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The vision of [Web3](/what-is-web3) as a decentralized, user-owned internet hinges on a foundational technology: the **[blockchain](/what-is-a-blockchain)**. This technology serves as the structural backbone of Web3, delivering an infrastructure that is trustless, permissionless, and resilient. Without blockchain, the primary promises of Web3 cannot be fulfilled.
@@ -40,7 +41,7 @@ A blockchain operates as a network of thousands of computers rather than a singl
 Transactions entered into a blockchain are permanent and cannot be modified or erased. This is ensured through cryptographic hashing, where each block is linked to its predecessor, forming an unbreakable chain.
 
 - **Trust and Ownership:** This immutability establishes a reliable, auditable record of all transactions. It underpins digital ownership. For instance, when an individual owns an [NFT](/what-are-nfts), their ownership is recorded on the blockchain, a record that cannot be disputed or altered without their consent.
-- **Value Creation:** This feature gives digital assets intrinsic value. An in-game item represented as an [NFT](/what-are-nfts) possesses a verifiable history and provable scarcity, elements that traditional items held in a company’s private database lack.
+- **Value Creation:** This feature gives digital assets intrinsic value. An in-game item represented as an [NFT](/what-are-nfts) possesses a verifiable history and provable scarcity, elements that traditional items held in a company's private database lack.
 
 #### 3. Smart Contracts
 

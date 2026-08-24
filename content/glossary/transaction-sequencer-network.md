@@ -3,18 +3,23 @@ term: Transaction Sequencer Network
 slug: transaction-sequencer-network
 category: technical
 difficulty: advanced
-image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1200&q=80"
-description: A transaction sequencer network is a decentralized system where multiple sequencers collectively order and batch rollup transactions through consensus, replacing single centralized sequencers. These networks aim to improve censorship resistance, liveness, and decentralization while maintaining low latency and high throughput.
+image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1200&q=80'
+description: >-
+  A transaction sequencer network is a decentralized system where multiple
+  sequencers collectively order and batch rollup transactions through consensus,
+  replacing single centralized sequencers. These networks aim to improve
+  censorship resistance, liveness, and decentralization while maintaining low
+  latency and high throughput.
 relatedTerms:
- - sequencer
- - rollup
- - based-sequencing
- - shared-sequencing
- - decentralization
+  - sequencer
+  - rollup
+  - based-sequencing
+  - shared-sequencing
+  - decentralization
 synonyms:
- - Decentralized sequencer
- - Sequencer consensus network
- - Multi-sequencer system
+  - Decentralized sequencer
+  - Sequencer consensus network
+  - Multi-sequencer system
 ---
 
 A **transaction sequencer network** is a **decentralized system of multiple sequencers that collectively order and process rollup transactions** through Byzantine Fault Tolerant (BFT) consensus. This eliminates the single point of failure and centralization concerns of single-sequencer rollups. Rather than one entity controlling transaction ordering, a network of sequencers participates in distributed consensus to determine the canonical transaction sequence.

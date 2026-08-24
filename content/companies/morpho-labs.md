@@ -1,9 +1,9 @@
 ---
 name: Morpho Labs
-website: https://morpho.org
+website: 'https://morpho.org'
 founded: 2021
 category: DeFi Protocol
-headquarters: Paris, France
+headquarters: 'Paris, France'
 description: Peer-to-peer lending protocol optimizer built on top of Aave and Compound
 ---
 

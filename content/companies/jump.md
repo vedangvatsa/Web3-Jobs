@@ -1,9 +1,9 @@
 ---
 name: Jump
-website: https://jumpcrypto.com
+website: 'https://jumpcrypto.com'
 founded: 1999
 category: Trading / Venture
-headquarters: Chicago, Illinois
+headquarters: 'Chicago, Illinois'
 description: Global quantitative trading firm with a dedicated crypto arm (Jump Crypto)
 ---
 

@@ -1,13 +1,23 @@
 ---
-term: "Collateral"
-slug: "collateral"
-category: "DeFi"
-difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&h=600&fit=crop"
-imageAlt: "Financial security and loan backing concept"
-description: "Assets deposited as security for a loan. In DeFi lending protocols, borrowers must deposit collateral worth more than they borrow. If collateral value drops too low, it gets liquidated to repay the loan."
-relatedTerms: ["defi", "lending", "liquidation"]
-synonyms: ["security", "backing assets", "loan security"]
+term: Collateral
+slug: collateral
+category: DeFi
+difficulty: Beginner
+image: >-
+  https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&h=600&fit=crop
+imageAlt: Financial security and loan backing concept
+description: >-
+  Assets deposited as security for a loan. In DeFi lending protocols, borrowers
+  must deposit collateral worth more than they borrow. If collateral value drops
+  too low, it gets liquidated to repay the loan.
+relatedTerms:
+  - defi
+  - lending
+  - liquidation
+synonyms:
+  - security
+  - backing assets
+  - loan security
 ---
 
 Collateral refers to assets deposited as security when taking out a loan, ensuring lenders have protection if borrowers fail to repay. In decentralized finance, collateral functions differently than in traditional banking because there are no credit checks or identity verification, making over-collateralization essential. When you borrow on protocols like Aave, you must deposit cryptocurrency worth more than your loan amount. This buffer accounts for crypto's price volatility and allows smart contracts to automatically liquidate collateral if its value drops below safe thresholds. Understanding collateral mechanics, liquidation thresholds, and risk parameters is essential for professionals working in DeFi protocol development, risk management, or blockchain financial services.

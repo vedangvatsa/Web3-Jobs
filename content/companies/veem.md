@@ -1,6 +1,6 @@
 ---
 name: Veem
-website: https://veem.com
+website: 'https://veem.com'
 category: Crypto Payments
 description: Veem simplifies global payments for businesses using blockchain technology.
 ---

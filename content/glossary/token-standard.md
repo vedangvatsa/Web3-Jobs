@@ -1,12 +1,22 @@
 ---
-term: "Token Standard"
-slug: "token-standard"
-category: "technical"
-difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
-description: "A specification that defines how tokens are created, transferred, and managed on a blockchain, enabling interoperability and ensuring consistent behavior across applications."
-relatedTerms: ["erc-20", "erc-721", "smart-contract", "token"]
-synonyms: ["token specification", "token protocol", "token interface"]
+term: Token Standard
+slug: token-standard
+category: technical
+difficulty: Intermediate
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80'
+description: >-
+  A specification that defines how tokens are created, transferred, and managed
+  on a blockchain, enabling interoperability and ensuring consistent behavior
+  across applications.
+relatedTerms:
+  - erc-20
+  - erc-721
+  - smart-contract
+  - token
+synonyms:
+  - token specification
+  - token protocol
+  - token interface
 ---
 
 Token Standard refers to a specification that defines how tokens are created, transferred, and managed on a blockchain, enabling interoperability and ensuring consistent behavior across applications. These standards establish common interfaces that all compliant tokens must implement, such as functions for checking balances, approving spending, and executing transfers. The most widely adopted example is Ethereum's ERC-20 standard, which powers a significant number of distinct token contracts on the network. This standardization creates network effects; any wallet or decentralized exchange that supports ERC-20 automatically works with every ERC-20 token, eliminating the need for custom integrations. Beyond fungible tokens, standards like ERC-721 for NFTs and ERC-1155 for multi-token contracts have enabled new asset categories. For developers entering the Web3 job market, familiarity with token standards is essential, as most blockchain positions require implementing, auditing, or integrating with standardized token contracts.

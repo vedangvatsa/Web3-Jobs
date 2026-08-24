@@ -1,51 +1,82 @@
 ---
-title: "Careers at the AI x Crypto Intersection"
-description: "The fastest-growing roles, skills, and companies hiring at the intersection of AI and Web3."
+title: Careers at the AI x Crypto Intersection
+description: >-
+  The fastest-growing roles, skills, and companies hiring at the intersection of
+  AI and Web3.
 order: 7
-readTime: "8 min"
-difficulty: "beginner"
-prerequisites: ["introduction"]
+readTime: 8 min
+difficulty: beginner
+prerequisites:
+  - introduction
 quiz:
-  - question: "Which skill combination is most in-demand at the AI x Crypto intersection?"
+  - question: Which skill combination is most in-demand at the AI x Crypto intersection?
     options:
-      - "Marketing and community management."
-      - "ML engineering combined with smart contract development."
-      - "Graphic design and NFT art creation."
-      - "Legal compliance and regulations."
+      - Marketing and community management.
+      - ML engineering combined with smart contract development.
+      - Graphic design and NFT art creation.
+      - Legal compliance and regulations.
     correct: 1
-    explanation: "The intersection demands engineers who understand both machine learning pipelines (PyTorch, model serving) and blockchain infrastructure (Solidity, on-chain verification). This rare combination commands premium salaries."
-  - question: "What type of company is most likely to hire for AI x Crypto roles?"
+    explanation: >-
+      The intersection demands engineers who understand both machine learning
+      pipelines (PyTorch, model serving) and blockchain infrastructure
+      (Solidity, on-chain verification). This rare combination commands premium
+      salaries.
+  - question: What type of company is most likely to hire for AI x Crypto roles?
     options:
-      - "Traditional banks."
-      - "Decentralized compute networks, AI agent protocols, and DeFi protocols adding AI features."
-      - "Social media companies."
-      - "Hardware manufacturers."
+      - Traditional banks.
+      - >-
+        Decentralized compute networks, AI agent protocols, and DeFi protocols
+        adding AI features.
+      - Social media companies.
+      - Hardware manufacturers.
     correct: 1
-    explanation: "Projects like Bittensor, Render, io.net, and DeFi protocols integrating AI-powered risk assessment are the primary employers at this intersection."
-  - question: "What is the highest-demand technical role at the AI x Crypto intersection?"
+    explanation: >-
+      Projects like Bittensor, Render, io.net, and DeFi protocols integrating
+      AI-powered risk assessment are the primary employers at this intersection.
+  - question: What is the highest-demand technical role at the AI x Crypto intersection?
     options:
-      - "Frontend developer."
-      - "ML Engineer with crypto-native experience — building models that interact with on-chain data, tokenomics, and decentralized infrastructure."
-      - "Database administrator."
-      - "QA tester."
+      - Frontend developer.
+      - >-
+        ML Engineer with crypto-native experience - building models that
+        interact with on-chain data, tokenomics, and decentralized
+        infrastructure.
+      - Database administrator.
+      - QA tester.
     correct: 1
-    explanation: "ML Engineers who understand both machine learning and blockchain architecture are extremely rare and in high demand. They build models for on-chain analytics, MEV detection, risk scoring, and autonomous agent decision-making."
-  - question: "What skill combination gives the biggest edge for AI x Crypto careers?"
+    explanation: >-
+      ML Engineers who understand both machine learning and blockchain
+      architecture are extremely rare and in high demand. They build models for
+      on-chain analytics, MEV detection, risk scoring, and autonomous agent
+      decision-making.
+  - question: What skill combination gives the biggest edge for AI x Crypto careers?
     options:
-      - "JavaScript and graphic design."
-      - "Python/ML expertise combined with smart contract literacy and on-chain data analysis."
-      - "Marketing and sales."
-      - "Project management certification."
+      - JavaScript and graphic design.
+      - >-
+        Python/ML expertise combined with smart contract literacy and on-chain
+        data analysis.
+      - Marketing and sales.
+      - Project management certification.
     correct: 1
-    explanation: "The unique value at this intersection is the ability to bridge both worlds: write ML models (Python, PyTorch) AND understand smart contracts, token mechanics, and on-chain data pipelines. This dual expertise is rare and commands premium compensation."
-  - question: "What is the best way to break into AI x Crypto without prior experience?"
+    explanation: >-
+      The unique value at this intersection is the ability to bridge both
+      worlds: write ML models (Python, PyTorch) AND understand smart contracts,
+      token mechanics, and on-chain data pipelines. This dual expertise is rare
+      and commands premium compensation.
+  - question: What is the best way to break into AI x Crypto without prior experience?
     options:
-      - "Wait for a formal degree program."
-      - "Build a public project that combines both domains — deploy an AI-powered Dune dashboard, create an on-chain analytics model, or contribute to an open-source AI agent framework."
-      - "Only apply to FAANG companies."
-      - "Get a traditional finance certification."
+      - Wait for a formal degree program.
+      - >-
+        Build a public project that combines both domains - deploy an AI-powered
+        Dune dashboard, create an on-chain analytics model, or contribute to an
+        open-source AI agent framework.
+      - Only apply to FAANG companies.
+      - Get a traditional finance certification.
     correct: 1
-    explanation: "This field moves too fast for formal education to keep up. The most effective entry path is building publicly: ship a project that demonstrates both AI and crypto skills, contribute to open-source frameworks like Eliza or LangChain, and share your work on Twitter/GitHub."
+    explanation: >-
+      This field moves too fast for formal education to keep up. The most
+      effective entry path is building publicly: ship a project that
+      demonstrates both AI and crypto skills, contribute to open-source
+      frameworks like Eliza or LangChain, and share your work on Twitter/GitHub.
 ---
 
 ## The Talent Gap

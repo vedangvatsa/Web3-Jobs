@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/resources',
   images: [
    {
-    url: '/api/og?type=default&title=Web3%20Career%20Resources%20%26%20Tools',
+    url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Career%20Resources%20%26%20Tools',
     width: 1200,
     height: 630,
     alt: 'Web3 Career Resources & Tools',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Free Web3 Career Tools | Resume, Salary, Interviews',
   description: 'Free Web3 career tools for resumes, salaries, interviews, and offers.',
-  images: ['/api/og?type=default&title=Web3%20Career%20Resources%20%26%20Tools'],
+  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Career%20Resources%20%26%20Tools'],
  },
 };
 

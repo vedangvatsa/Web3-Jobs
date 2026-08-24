@@ -1,28 +1,29 @@
 ---
-
-title: "Performance Management Best Practices for Modern Teams"
-category: "Career Guides"
-date: "2025-09-12"
-description: "Set clear expectations, provide feedback, and maintain team alignment and motivation."
-image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
-data-ai-hint: "performance review meeting"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-06-15"
+title: Performance Management Best Practices for Modern Teams
+category: Career Guides
+date: '2025-09-12'
+description: >-
+  Set clear expectations, provide feedback, and maintain team alignment and
+  motivation.
+image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
+data-ai-hint: performance review meeting
+publishedDate: '2026-03-11'
+lastUpdated: "2026-08-24"
 ---
 
 The annual performance review is a relic. Sitting someone down once a year to tell them how they did helps nobody. The employee gets blindsided by feedback they could have acted on months ago, the manager can barely remember Q1, and the whole exercise becomes a box-ticking ritual.
 
-If you're managing a team — especially a distributed or [Web3](/what-is-web3) team — you need a system that works continuously, not annually.
+If you're managing a team - especially a distributed or [Web3](/what-is-web3) team - you need a system that works continuously, not annually.
 
 ## Why Annual Reviews Fail
 
-Annual reviews assume performance is static enough to evaluate in one snapshot. It isn't. By the time you deliver feedback in December about something from March, the moment to course-correct is long gone. There's also recency bias — managers disproportionately remember the last six weeks. A rough October overshadows an excellent first half.
+Annual reviews assume performance is static enough to evaluate in one snapshot. It isn't. By the time you deliver feedback in December about something from March, the moment to course-correct is long gone. There's also recency bias - managers disproportionately remember the last six weeks. A rough October overshadows an excellent first half.
 
 ## Build Continuous Feedback Loops
 
 Replace the annual review with a rhythm of regular check-ins. Here's what works:
 
-**Weekly 1:1s (15-30 minutes):** Ask what's going well, what's stuck, and what the person needs from you. This isn't a status update — you have Slack for that. This is about alignment and how the person is doing.
+**Weekly 1:1s (15-30 minutes):** Ask what's going well, what's stuck, and what the person needs from you. This isn't a status update - you have Slack for that. This is about alignment and how the person is doing.
 
 **Monthly goal reviews:** Once a month, zoom out. Are the goals still the right goals? Is progress on track? Do priorities need to shift? This is where you adjust, not just observe.
 
@@ -46,7 +47,7 @@ A growth conversation is different from a performance conversation. Performance 
 
 Good growth conversations cover:
 
-- **Skills the person wants to build.** Not skills you think they should build — skills they're genuinely interested in.
+- **Skills the person wants to build.** Not skills you think they should build - skills they're genuinely interested in.
 - **Gaps between where they are and where they want to be.** Be specific. "You need to improve your communication" is useless. "Your technical proposals would land better if you led with the business impact before the implementation details" is something a person can actually work on.
 - **Opportunities to stretch.** Can they lead a project, mentor someone newer, or take on a cross-functional initiative? Growth happens through practice, not training slides.
 
@@ -62,8 +63,8 @@ So how do you manage performance without managers?
 
 **Compensation tied to contribution.** Some DAOs use coordinape-style systems where team members allocate tokens to peers based on perceived contribution, replacing the manager's unilateral decision with a collective assessment.
 
-The downside of flat structures is that hard feedback often goes undelivered. When nobody is formally responsible for your development, uncomfortable truths go unsaid. The best DAO teams build explicit feedback rituals into their cadence — because everyone agreed that honest feedback matters.
+The downside of flat structures is that hard feedback often goes undelivered. When nobody is formally responsible for your development, uncomfortable truths go unsaid. The best DAO teams build explicit feedback rituals into their cadence - because everyone agreed that honest feedback matters.
 
 ## Make It Stick
 
-Whatever system you choose, consistency matters more than perfection. A basic weekly check-in that actually happens every week beats an elaborate performance framework that gets abandoned by February. Start simple, stay regular, and treat feedback as a normal part of how your team works — not something that requires a calendar invite and a deep breath.
+Whatever system you choose, consistency matters more than perfection. A basic weekly check-in that actually happens every week beats an elaborate performance framework that gets abandoned by February. Start simple, stay regular, and treat feedback as a normal part of how your team works - not something that requires a calendar invite and a deep breath.
