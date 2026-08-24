@@ -1,5 +1,149 @@
 [
   {
+    "id": "8155035",
+    "title": "Compliance Analyst Associate",
+    "company": "Blockchain.com",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/8155035",
+    "date": "2026-08-24T15:53:14-04:00",
+    "source": "Greenhouse: Blockchain.com"
+  },
+  {
+    "id": "8155002",
+    "title": "Product Designer, Link",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8155002",
+    "date": "2026-08-24T15:46:34-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "4725730005",
+    "title": "Operational Risk Manager",
+    "company": "DV Trading",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4725730005",
+    "date": "2026-08-24T14:38:13-04:00",
+    "source": "Greenhouse: DV Trading"
+  },
+  {
+    "id": "8675822002",
+    "title": "Mechanical Engineer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8675822002?gh_jid=8675822002",
+    "date": "2026-08-24T13:20:06-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "8148396",
+    "title": "Staff IT Technical Program Manager",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8148396?gh_jid=8148396",
+    "date": "2026-08-24T13:05:38-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "ac7edc29-103a-420f-9002-5d4d43afb159",
+    "title": "Senior Manager, Strategic Technical Consulting",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/ac7edc29-103a-420f-9002-5d4d43afb159",
+    "date": "2026-08-24T16:32:32.665+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
+    "id": "6144118004",
+    "title": "Associate, Partnership Tax",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6144118004",
+    "date": "2026-08-24T12:26:09-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "7959071003",
+    "title": "Growth Manager - Campaigns",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7959071003",
+    "date": "2026-08-24T11:46:47-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "a12369da-ded2-4798-b176-b22928e9cf21",
+    "title": "Staff Machine Learning Engineer",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/a12369da-ded2-4798-b176-b22928e9cf21",
+    "date": "2026-08-24T15:43:30.792Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "8144202",
+    "title": "Solutions Architect, Enterprise (German fluency)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8144202",
+    "date": "2026-08-24T11:19:46-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8142304",
+    "title": "Technical Account Manager, Billing",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8142304",
+    "date": "2026-08-24T11:15:03-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8152994",
+    "title": "Product Marketing Manager, Bridge/Stablecoins",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8152994",
+    "date": "2026-08-24T09:24:53-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "90979061",
+    "title": "Fraud Analyst",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6146453004",
+    "date": "2026-08-24T13:04:14.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "e2cec219-a165-4baa-bb22-33be2e2f3063",
+    "title": "Business Intelligence/ Data Analyst",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/e2cec219-a165-4baa-bb22-33be2e2f3063",
+    "date": "2026-08-24T13:03:53.114Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "90975837",
+    "title": "TSS Information Security Engineer, SaaS & Integrations",
+    "company": "Decent.xyz",
+    "link": "https://jobs.lever.co/moonpay/202dec29-039f-4211-8d8e-4ce8e36511ab",
+    "date": "2026-08-24T12:50:31.000Z",
+    "source": "https://jobs.archetype.fund/jobs"
+  },
+  {
+    "id": "90960749",
+    "title": "Deployment Strategist",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/418e72d1-fdf4-469f-ac11-54251d96ce3d",
+    "date": "2026-08-24T12:00:57.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "8742042002",
+    "title": "Graphic Designer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8742042002?gh_jid=8742042002",
+    "date": "2026-08-24T07:54:51-04:00",
+    "source": "Greenhouse: Jane Street"
+  },
+  {
+    "id": "4959025101",
+    "title": "Senior Product Manager - Growth, Engagement & Retention",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4959025101",
+    "date": "2026-08-24T07:54:21-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
     "id": "90952168",
     "title": "Principal Risk Control Development Engineer",
     "company": "Bybit",
@@ -482,6 +626,14 @@
   {
     "id": "8144776",
     "title": "Sr. Staff Technical Risk Architect, Unified Training",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8144776?gh_jid=8144776",
+    "date": "2026-08-21T14:32:14-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8144776",
+    "title": "Sr. Staff Technical Risk Architect, Unified Trading",
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/8144776?gh_jid=8144776",
     "date": "2026-08-21T14:32:14-04:00",
@@ -2246,6 +2398,14 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/8128738?t=gh_src=&gh_jid=8128738",
     "date": "2026-08-18T12:27:30-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7c3112f7-9c0f-4663-b592-d7b02784ad83",
+    "title": "Capital Officer",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/7c3112f7-9c0f-4663-b592-d7b02784ad83",
+    "date": "2026-08-18T16:26:11.975Z",
+    "source": "Lever: MoonPay"
   },
   {
     "id": "097dae48-1b48-47a7-9f61-f0010e2022e7",
@@ -5928,6 +6088,14 @@
     "source": "Ashby: Ramp"
   },
   {
+    "id": "707d5f91-bcf7-42b2-a0e6-8130bf13e56b",
+    "title": "Account Executive | Strategic",
+    "company": "Ramp",
+    "link": "https://jobs.ashbyhq.com/ramp/707d5f91-bcf7-42b2-a0e6-8130bf13e56b",
+    "date": "2026-08-11T17:13:52.073+00:00",
+    "source": "Ashby: Ramp"
+  },
+  {
     "id": "d6f6a87c-d596-4437-8b60-15d16628436c",
     "title": "Detection Engineer",
     "company": "Artemis",
@@ -5994,6 +6162,14 @@
   {
     "id": "202dec29-039f-4211-8d8e-4ce8e36511ab",
     "title": "TSS Information Security Engineer, SaaS & Integrations",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/202dec29-039f-4211-8d8e-4ce8e36511ab",
+    "date": "2026-08-11T15:17:24.165Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "202dec29-039f-4211-8d8e-4ce8e36511ab",
+    "title": "Information Security Engineer",
     "company": "MoonPay",
     "link": "https://jobs.lever.co/moonpay/202dec29-039f-4211-8d8e-4ce8e36511ab",
     "date": "2026-08-11T15:17:24.165Z",
@@ -15446,85 +15622,5 @@
     "link": "https://insforge.dev/careers/founding-infrastructure-engineer",
     "date": "2026-07-26T12:16:01.000Z",
     "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87580733",
-    "title": "Team Manager",
-    "company": "Figure",
-    "link": "https://boards.greenhouse.io/figure/jobs/8627034002",
-    "date": "2026-07-25T13:34:57.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87564651",
-    "title": "Support Group Lead",
-    "company": "Wave Mobile Money",
-    "link": "https://boards.greenhouse.io/wavemm1/jobs/6126503004",
-    "date": "2026-07-25T12:43:30.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "87564637",
-    "title": "Customer Support Team Lead",
-    "company": "Wave Mobile Money",
-    "link": "https://boards.greenhouse.io/wavemm1/jobs/6126510004",
-    "date": "2026-07-25T12:43:29.000Z",
-    "source": "https://coinbase.getro.com/jobs"
-  },
-  {
-    "id": "87555990",
-    "title": "Social Media Marketing Lead",
-    "company": "Walrus Foundation",
-    "link": "https://jobs.ashbyhq.com/walrus/8dd70d2b-3e5e-4d63-84d2-2dc46b7ee0c3",
-    "date": "2026-07-25T12:21:51.000Z",
-    "source": "https://jobs.electriccapital.com/jobs"
-  },
-  {
-    "id": "87549801",
-    "title": "Junior Account Executive",
-    "company": "Suade",
-    "link": "https://apply.workable.com/suade/j/2A0561868C",
-    "date": "2026-07-25T12:04:35.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87549802",
-    "title": "Business Development Representative/Sales Development Representative",
-    "company": "Suade",
-    "link": "https://apply.workable.com/suade/j/57B10F8875",
-    "date": "2026-07-25T12:04:35.000Z",
-    "source": "https://jobs.dcg.co/jobs"
-  },
-  {
-    "id": "87547799",
-    "title": "Director of Sales",
-    "company": "Mesh",
-    "link": "https://boards.greenhouse.io/mesh/jobs/5367972008",
-    "date": "2026-07-25T11:57:46.000Z",
-    "source": "https://jobs.dragonfly.xyz/jobs"
-  },
-  {
-    "id": "87547237",
-    "title": "Recruiting Operations and Programs Manager",
-    "company": "Ripple",
-    "link": "https://boards.greenhouse.io/ripple/jobs/8004184",
-    "date": "2026-07-25T11:56:16.000Z",
-    "source": "https://jobs.blockchaincapital.com/jobs"
-  },
-  {
-    "id": "87545965",
-    "title": "Product Lead - Card Issuing",
-    "company": "Breeze",
-    "link": "https://boards.greenhouse.io/breezecash/jobs/5370457008",
-    "date": "2026-07-25T11:54:22.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
-  },
-  {
-    "id": "87545952",
-    "title": "Founding Growth Lead",
-    "company": "Breeze",
-    "link": "https://boards.greenhouse.io/breezecash/jobs/5370488008",
-    "date": "2026-07-25T11:54:21.000Z",
-    "source": "https://jobs.multicoin.capital/jobs"
   }
 ]

@@ -503,6 +503,9 @@
   "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
   "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
+  "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
+  "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1416,6 +1419,12 @@
   "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
   "Bitcoin Closes Above 50-Week EMA Since Late 2025",
   "First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week",
+  "Coinbase brings tokenized stocks to Base network",
+  "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+  "Standard Chartered begins distributing Hong Kong dollar stablecoin",
+  "Bitcoin nears $80,000, but analysts say the next pullback will be key",
+  "Stand With Crypto Endorses Candidates for US Election",
+  "Coinbase-affiliated advocacy group endorses candidates for US midterms",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1451,5 +1460,8 @@
   "fp:are|back|concern|contribut|crisis|dalio|debt|digest|hodler|impend",
   "fp:68m|bank|capital|digital|expand|fasset|fund|japan|lead|payment",
   "fp:activity|apply|approval|asset|business|ceas|cryptocurrency|deadlin|digital|framework",
-  "fp:above50|asset|bear|clos|ema|fiv|focus|follow|hol|jackson"
+  "fp:above50|asset|bear|clos|ema|fiv|focus|follow|hol|jackson",
+  "fp:application|bas|can|coinbas|decentraliz|equity|financ|host|network|stock",
+  "fp:000|analyst|asset|back|bank|begin|but|charter|client|corporat",
+  "fp:advocacy|affiliat|ahead|aim|back|candidat|coinbas|cryptocurrency|elect|election"
 ]

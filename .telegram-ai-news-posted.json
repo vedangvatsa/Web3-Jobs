@@ -518,6 +518,9 @@
   "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
   "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
   "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+  "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+  "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+  "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1337,6 +1340,12 @@
   "The new Instagram logo is the perfect embodiment of AI slop",
   "Company plans to deploy sunlight-reflecting space mirrors",
   "The Download: threats from space mirrors and credit for AI drugs",
+  "Nvidia employee indicted in AI server smuggling scheme",
+  "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+  "General Intuition negotiates investment at six billion valuation",
+  "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+  "Hugging Face evaluates thirteen billion dollar acquisition offers",
+  "Hugging Face reportedly in talks to be acquired for $13B",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1372,5 +1381,8 @@
   "fp:all|built|calendar|digital|featur|fre|help|household|includ|linkdaz",
   "fp:achiev|child|children|compar|complet|data|don|fluency|kid|know",
   "fp:aesthetic|critic|criticism|design|embodiment|generat|instagram|logo|low|media",
-  "fp:credit|demand|deploy|disrupt|download|drug|earth|mirror|night|orbital"
+  "fp:credit|demand|deploy|disrupt|download|drug|earth|mirror|night|orbital",
+  "fp:china|employe|entity|export|federal|hardwar|illicit|indict|link|manager",
+  "fp:autonomous|back|develop|foundation|general|intuition|investment|mov|negotiat|physical",
+  "fp:13b|acquir|acquisition|bid|commitment|community|dollar|evaluat|fac|founder"
 ]
