@@ -482,6 +482,9 @@
   "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
   "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+  "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
+  "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1354,6 +1357,12 @@
   "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
   "Most Amazon Religious Books Are Likely AI-Written",
   "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+  "Fasset raises $68 million in Series C funding",
+  "Japan’s SBI leads $68M Fasset round at $1B valuation",
+  "Standard Chartered to Distribute Hong Kong Dollar Stablecoin",
+  "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
+  "Bitcoin Closes Above 50-Week EMA First Time Since 2025",
+  "First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1386,5 +1395,8 @@
   "fp:120m|collaps|contract|disput|meet|min|miss|off|power|project",
   "fp:130m|add|coinkit|coldcard|custom|exploit|firmwar|follow|generat|hardwar",
   "fp:are|back|concern|crisis|dalio|debt|digest|driv|gain|help",
-  "fp:000|amazon|analysis|are|book|find|found|generat|likely|most"
+  "fp:000|amazon|analysis|are|book|find|found|generat|likely|most",
+  "fp:68m|bank|digital|expansion|fasset|firm|fund|japan|lead|plan",
+  "fp:anchorpoint|bank|becom|charter|client|distribut|dollar|eligibl|hkdap|hong",
+  "fp:above50|await|bear|brok|clos|cryptocurrency|ema|fiv|hol|jackson"
 ]

@@ -515,6 +515,9 @@
   "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
   "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
   "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+  "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+  "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+  "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1328,6 +1331,12 @@
   "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
   "Linkdaze offers free smart calendar with AI meal planner",
   "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+  "Researchers compare child language learning with artificial intelligence models",
+  "Kids outlearn AI—and we still don’t know why",
+  "Instagram updates wordmark design prompting criticism over synthetic aesthetic",
+  "The new Instagram logo is the perfect embodiment of AI slop",
+  "Company plans to deploy sunlight-reflecting space mirrors",
+  "The Download: threats from space mirrors and credit for AI drugs",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1360,5 +1369,8 @@
   "fp:aerospac|are|automat|build|engineer|fabrication|factory|former|found|heavy",
   "fp:alpha|appear|behind|benchmark|capabl|creator|highly|mysterious|platform|prompt",
   "fp:automat|backlash|call|ceo|compromis|concern|defend|fac|flock|grow",
-  "fp:all|built|calendar|digital|featur|fre|help|household|includ|linkdaz"
+  "fp:all|built|calendar|digital|featur|fre|help|household|includ|linkdaz",
+  "fp:achiev|child|children|compar|complet|data|don|fluency|kid|know",
+  "fp:aesthetic|critic|criticism|design|embodiment|generat|instagram|logo|low|media",
+  "fp:credit|demand|deploy|disrupt|download|drug|earth|mirror|night|orbital"
 ]

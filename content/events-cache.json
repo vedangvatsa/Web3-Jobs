@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-host-evt-SJVa3Dk2sj9oxUF",
-    "name": "Coworking - Superteam India",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-08-24T10:30:00.000Z",
-    "endDate": "2026-08-24T11:15:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/coworking-superteamin",
-    "coverImage": "https://images.lumacdn.com/uploads/1r/b5ddcd8e-f60d-49d3-b548-2857c99f23a9.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-7Iz2lapjAUQcL21",
     "name": "AMA with Atharv",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -25,6 +11,20 @@
     "url": "https://lu.ma/ama-with-atharv-stin",
     "coverImage": "https://images.lumacdn.com/uploads/rj/d77453e6-6f24-41ba-94da-5b522e3e89a5.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316170118",
+    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
+    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
+    "startDate": "2026-08-24T12:00:00-04:00",
+    "endDate": "2026-08-24T12:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/316170118/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/5/2/2/3/600_525981027.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -168,16 +168,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315996996",
-    "name": "Let's discuss Bitcoin and the Crypto Sector",
-    "description": "Join us at Austin Bitcoin Meetup for an insightful discussion on Bitcoin, the market, crypto projects and protocols... as well as other topics that may or may not impact crypto. Take your chance to be",
-    "startDate": "2026-08-25T19:00:00-05:00",
-    "endDate": "2026-08-25T19:00:00-05:00",
+    "id": "mu-315951709",
+    "name": "Modern Integration, Classic Toolset: A Practical Look at SSIS",
+    "description": "ETL platforms come and go, but SQL Server Integration Services (SSIS) stands strong against the test of time. It is versatile, maximizes the benefits of parallel processing, and offers an intuitive de",
+    "startDate": "2026-08-25T18:00:00-04:00",
+    "endDate": "2026-08-25T18:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/austin-bitcoin-meetup/events/315996996/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/a/a/c/e/600_532603726.jpeg",
+    "url": "https://www.meetup.com/tripass/events/315951709/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/c/8/a/d/600_450951373.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -294,6 +294,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-315115532",
+    "name": "Context Is the New Foundation for AI-Ready Governance",
+    "description": "As organizations accelerate AI and analytics initiatives, one challenge keeps surfacing: enterprise data is only as useful as the context behind it.\n\nBusiness definitions, ownership, metadata, lineage",
+    "startDate": "2026-08-26T14:00:00-04:00",
+    "endDate": "2026-08-26T14:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/data-science-nc/events/315115532/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/1/7/2/600_535305426.jpeg",
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-evt-uxBdBwfsP6xBJEX",
     "name": "Open Data Jam - Work On Etobicoke!",
     "description": "",
@@ -305,6 +319,20 @@
     "url": "https://lu.ma/ag99zbg1",
     "coverImage": "https://images.lumacdn.com/uploads/0k/27a4b3ec-650e-483b-b89f-8875e73c0ddf.png",
     "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-310566378",
+    "name": "Culture Club – Cosmos: A Personal Journey, by Sagan & Druyan (1980; ep. 1–7)",
+    "description": "Our cultural work for August 2026 is the first seven episodes of the 1980 PBS miniseries *[Cosmos: A Personal Journey](https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage)*, by Carl Sagan, Ann Dru",
+    "startDate": "2026-08-26T19:00:00-04:00",
+    "endDate": "2026-08-26T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/triangleskeptics/events/310566378/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/f/8/6/600_535323974.jpeg",
+    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -333,20 +361,6 @@
     "url": "https://lu.ma/bitcoin-asia",
     "coverImage": "https://images.unsplash.com/photo-1507941097613-9f2157b69235?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwyfHxob25nJTIwa29uZ3xlbnwwfHx8fDE3NTEyMTYxMjl8Mg&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-316012411",
-    "name": "Open Bitcoin Q&A Chat!",
-    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* https://Bitcoin.Rocks\n* https://Bitcoin-Only.com\n* https",
-    "startDate": "2026-08-26T19:00:00-05:00",
-    "endDate": "2026-08-26T19:00:00-05:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/satoshi-service-center/events/316012411/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/c/a/6/d/600_496251821.jpeg",
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -476,16 +490,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990017",
+    "id": "mu-315990076",
     "name": "ZK Learning Group: Introduction to ZkSync",
     "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-08-27T11:00:00-05:00",
-    "endDate": "2026-08-27T11:00:00-05:00",
+    "startDate": "2026-08-27T12:00:00-04:00",
+    "endDate": "2026-08-27T12:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/lfdt-austin/events/315990017/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/7/4/600_535528788.jpeg",
+    "url": "https://www.meetup.com/lfdt-north-carolina/events/315990076/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/7/0/b/0/600_535528848.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -542,20 +556,6 @@
     "location": "San Francisco, United States",
     "url": "https://lu.ma/9d8d0eu8",
     "coverImage": "https://images.lumacdn.com/uploads/mr/28f1fbea-5bee-401c-9fc3-632423d09ab2.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-a70CG2DfviLQguF",
-    "name": "People & Culture Breakfast | HR’s Role in Defining the Operating System",
-    "description": "",
-    "startDate": "2026-08-28T07:00:00.000Z",
-    "endDate": "2026-08-28T09:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://lu.ma/pw7xwca8",
-    "coverImage": "https://images.lumacdn.com/uploads/rb/3f49cfa0-220a-403a-b94f-90a40008f2ef.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -644,16 +644,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316040184",
-    "name": "Women Who Heal Together: The Healing Journey",
-    "description": "You Don’t Have to Heal Alone.\n\nSometimes being the “strong woman” gets exhausting.\n\nYou show up. You smile. You keep going. You’re there for everyone else. But deep down, there may be parts of you tha",
-    "startDate": "2026-08-29T10:00:00-05:00",
-    "endDate": "2026-08-29T10:00:00-05:00",
+    "id": "mu-316190594",
+    "name": "Where will the wind take you next before the New Year?",
+    "description": "Sometimes you don’t need another thing on your calendar.\nYou need **something to look forward to.**\nA little adventure to a new place\nA great meal of local foods\nA glass of wine made just down the roa",
+    "startDate": "2026-08-29T12:00:00-04:00",
+    "endDate": "2026-08-29T12:00:00-04:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/san-antonio-community-organizations-meetup-group/events/316040184/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/3/9/3/1/600_535574641.jpeg",
+    "url": "https://www.meetup.com/women-international-travel-meetup-group-raleigh/events/316190594/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/1/6/2/3/600_535745667.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -672,16 +672,16 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316157657",
-    "name": "🎉🥂 TWO YEAR ANNIVERSARY PARTY✌️✨️",
-    "description": "🥳🙌 HAPPY ANNIVERSARY GVT!!! 🍻🔥\n\nTwo years ago, a group of three decided to bring all the vibes to San Antonio. With a 4,000 strong membership, 500+ events created, 700+ active members, 4.8 star ra",
-    "startDate": "2026-08-29T20:30:00-05:00",
-    "endDate": "2026-08-29T20:30:00-05:00",
-    "city": "San Antonio",
-    "country": "US",
-    "location": "San Antonio, US",
-    "url": "https://www.meetup.com/good-vibe-tribe-20s-40s/events/316157657/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/8/9/e/1/600_535715297.jpeg",
+    "id": "mu-316071497",
+    "name": "Over Your Ex in a Weekend DAY 3: Redefine Love and Hope",
+    "description": "",
+    "startDate": "2026-08-30T12:00:00-04:00",
+    "endDate": "2026-08-30T12:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/activecharlotteans/events/316071497/",
+    "coverImage": "https://www.meetup.com/images/fallbacks/redesign/group-cover-5-wide.jpeg",
     "source": "meetup",
     "month": "August 2026"
   },
@@ -896,6 +896,34 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-316163044",
+    "name": "Online Bitcoin Hangout",
+    "description": "**Online Bitcoin Hangout**\nThis virtual meetup is perfect for anyone interested in Bitcoin who can't (or prefers not to) attend our in-person events in Charlotte. This is an informal hangout where we ",
+    "startDate": "2026-09-07T18:30:00-04:00",
+    "endDate": "2026-09-07T18:30:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/bitcoincharlotte/events/316163044/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/d/3/d/c/600_533034236.jpeg",
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-315962971",
+    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
+    "description": "Network virtually with those located in the DMV (District of Columbia, Virginia & Maryland) and internationally!\n\nThis monthly Monday meeting is hosted by Maryland Blockchain Association, Blockchain L",
+    "startDate": "2026-09-07T19:00:00-04:00",
+    "endDate": "2026-09-07T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962971/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/b/f/a/f/600_527389071.jpeg",
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2026-septem",
     "name": "International Conference on Blockchain Technology (ICBT)",
     "description": "",
@@ -977,20 +1005,6 @@
     "url": "https://lu.ma/xbwogmkb",
     "coverImage": "https://images.lumacdn.com/event-covers/p9/b7d8de23-97d3-4ccc-8e4d-8e8a11f5bea2",
     "source": "luma-trusted",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-315906098",
-    "name": "🍤Dinner - Roam & Range on the Riverwalk🍹",
-    "description": "This restaurant used to be the Riverwalk location of Bourbon Street Seafood Kitchen. The Bistro Buddies have used this location many times. Now, it is Roam & Range and we want to give it a try. Join u",
-    "startDate": "2026-09-10T18:00:00-05:00",
-    "endDate": "2026-09-10T18:00:00-05:00",
-    "city": "San Antonio",
-    "country": "us",
-    "location": "San Antonio, us",
-    "url": "https://www.meetup.com/bistro-buddies-50/events/315906098/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/e/8/b/d/600_535439581.jpeg",
-    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -1103,6 +1117,20 @@
     "url": "https://lu.ma/encode-mmls",
     "coverImage": "https://images.lumacdn.com/uploads/6e/87ea81fe-f58f-4684-b959-c945c36f8d1d.png",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-314396577",
+    "name": "Capitol City Bitcoin meetup - virtual",
+    "description": "Let’s talk about bitcoin, crypto and what’s going on in South Carolina ! You must RSVP in advance to obtain the video link.\nThis will be scheduled on the third Tuesday of every month.",
+    "startDate": "2026-09-15T19:00:00-04:00",
+    "endDate": "2026-09-15T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396577/",
+    "coverImage": "https://secure.meetupstatic.com/photos/event/c/9/4/1/600_499671521.jpeg",
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -1229,20 +1257,6 @@
     "url": "https://lu.ma/cb3ejhww",
     "coverImage": "https://images.lumacdn.com/uploads/e2/48bf7fb3-602c-4ec8-83b8-308425abc5c7.jpg",
     "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-316192558",
-    "name": "San Antonio BitDevs",
-    "description": "Join us for a Socratic technical discussion about Bitcoin.\n\nLike Satoshi, our discussion will be Bitcoin-centric but open-minded. AstroKnots, Maximalists, and Ossifiers are kindly asked NOT to attend ",
-    "startDate": "2026-09-23T19:00:00-05:00",
-    "endDate": "2026-09-23T19:00:00-05:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/sabitdevs/events/316192558/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/7/f/f/d/600_523472765.jpeg",
-    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -1383,20 +1397,6 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-october-beijing-cn",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "October 2026"
-  },
-  {
-    "id": "mu-315530869",
-    "name": "Crypto Market Pulse Q3",
-    "description": "Join the Houston Crypto for 'Block Talk Houston: Crypto Market Pulse for a one-hour X Space where Houston's Web3 Crypto community gets together and discuss whats going on in blockchain! Expect a livel",
-    "startDate": "2026-10-01T20:00:00-05:00",
-    "endDate": "2026-10-01T20:00:00-05:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/houston-crypto-group/events/315530869/",
-    "coverImage": "https://secure.meetupstatic.com/photos/event/1/c/5/0/600_535207248.jpeg",
-    "source": "meetup",
     "month": "October 2026"
   },
   {
