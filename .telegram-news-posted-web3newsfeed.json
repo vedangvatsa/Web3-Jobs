@@ -497,6 +497,9 @@
   "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
   "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
   "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+  "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1399,6 +1402,11 @@
   "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
   "Crypto card spending surpasses $1 billion in annual volume",
   "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+  "Term Finance closes Meta Vaults after $8.5 million exploit",
+  "Term Finance loses estimated $8.5M in vault governance exploit",
+  "US commodities regulator bans former FTX executives from trading",
+  "Bitcoin Rallies 23% Amid US Debt Crisis Concerns",
+  "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1428,5 +1436,8 @@
   "fp:but|com|consider|decentraliz|defi|difficult|identify|includ|lend|mica",
   "fp:agency|asset|comment|commission|day|digital|exchang|her|open|period",
   "fp:120m|collaps|contract|cut|disput|down|facility|fail|issuer|local",
-  "fp:annual|card|everyday|expens|increasingly|mov|paid|past|purchas|spend"
+  "fp:annual|card|everyday|expens|increasingly|mov|paid|past|purchas|spend",
+  "fp:85m|all|attacker|clos|deposit|drain|estimat|exploit|financ|forc",
+  "fp:against|agency|alameda|ban|commodity|court|executiv|federal|follow|former",
+  "fp:are|back|concern|contribut|crisis|dalio|debt|digest|hodler|impend"
 ]

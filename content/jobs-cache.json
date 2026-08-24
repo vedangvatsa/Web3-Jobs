@@ -1,5 +1,13 @@
 [
   {
+    "id": "8146053",
+    "title": "Global Partnerships Lead — Greater China, Hong Kong & Singapore",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8146053",
+    "date": "2026-08-23T21:56:05-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
     "id": "8152145",
     "title": "Solutions Architect, Platforms (Presales)",
     "company": "Stripe",
@@ -400,6 +408,14 @@
     "source": "Ashby: Jane"
   },
   {
+    "id": "d8f9e422-d54d-4e39-b497-730f6e63b700",
+    "title": "Director of Growth Marketing (SMB & Self Serve)",
+    "company": "Jane",
+    "link": "https://jobs.ashbyhq.com/jane/d8f9e422-d54d-4e39-b497-730f6e63b700",
+    "date": "2026-08-21T18:46:32.225+00:00",
+    "source": "Ashby: Jane"
+  },
+  {
     "id": "8144776",
     "title": "Sr. Staff Technical Risk Architect, Unified Training",
     "company": "Coinbase",
@@ -454,6 +470,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8144924",
     "date": "2026-08-21T12:25:09-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "b9f6cfe1-3eeb-4d85-98b7-d32519052467",
+    "title": "Finance Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/b9f6cfe1-3eeb-4d85-98b7-d32519052467",
+    "date": "2026-08-21T16:00:31.204Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "8142276",
@@ -1317,6 +1341,14 @@
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/8d47acaa-0e5e-47db-a621-0239fc908ead",
     "date": "2026-08-20T04:50:30.420Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "39c9c568-5df9-4bd1-a06f-70d733eafd28",
+    "title": "Binance Accelerator Program - QA",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/39c9c568-5df9-4bd1-a06f-70d733eafd28",
+    "date": "2026-08-20T03:36:30.536Z",
     "source": "Lever: Binance"
   },
   {
@@ -10320,6 +10352,14 @@
     "source": "Greenhouse: Coinbase"
   },
   {
+    "id": "84c23534-b520-4918-93cc-ce4c57b1c700",
+    "title": "Full-Stack Engineer, Wallets",
+    "company": "Stellar",
+    "link": "https://jobs.ashbyhq.com/Stellar/84c23534-b520-4918-93cc-ce4c57b1c700",
+    "date": "2026-08-03T21:27:04.046+00:00",
+    "source": "Ashby: Stellar"
+  },
+  {
     "id": "b7508c39-c91f-405a-bdef-9c6b6eca1fee",
     "title": "Staff Product Manager, CI/CD & Developer Productivity",
     "company": "Render Network",
@@ -10534,6 +10574,14 @@
     "link": "https://boards.greenhouse.io/startale/jobs/5377502008",
     "date": "2026-08-03T13:34:32.000Z",
     "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "8626146002",
+    "title": "Linux Engineer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8626146002?gh_jid=8626146002",
+    "date": "2026-08-03T09:32:55-04:00",
+    "source": "Greenhouse: Jane Street"
   },
   {
     "id": "6129946004",
@@ -12034,6 +12082,14 @@
   {
     "id": "8090126",
     "title": "Partnerships Development Manager, Link - Payments Partnerships",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8090126",
+    "date": "2026-07-30T15:08:54-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8090126",
+    "title": "Partner Development Manager, Link - Payments Partnerships",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=8090126",
     "date": "2026-07-30T15:08:54-04:00",
@@ -15558,149 +15614,5 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8083464",
     "date": "2026-07-25T05:13:12-04:00",
     "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "e69eed0d-3a56-4084-ab50-4618237442f7",
-    "title": "Technical Recruiter - UK",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/e69eed0d-3a56-4084-ab50-4618237442f7",
-    "date": "2026-07-25T00:26:34.988+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "9008a30e-8988-42b2-aa3e-c51a91dd4204",
-    "title": "Technical Recruiter - APAC",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/9008a30e-8988-42b2-aa3e-c51a91dd4204",
-    "date": "2026-07-25T00:18:39.035+00:00",
-    "source": "Ashby: Sardine"
-  },
-  {
-    "id": "8083051",
-    "title": "Staff Applied Data Scientist, Pricing",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8083051?gh_jid=8083051",
-    "date": "2026-07-24T20:12:22-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8076097",
-    "title": "Technical Accounting Manager, New Product",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/8076097?t=gh_src=&gh_jid=8076097",
-    "date": "2026-07-24T20:11:47-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "84c23534-b520-4918-93cc-ce4c57b1c700",
-    "title": "Full-Stack Engineer, Wallets",
-    "company": "Stellar",
-    "link": "https://jobs.ashbyhq.com/Stellar/84c23534-b520-4918-93cc-ce4c57b1c700",
-    "date": "2026-07-24T23:38:47.734+00:00",
-    "source": "Ashby: Stellar"
-  },
-  {
-    "id": "8084476",
-    "title": "Software Engineer, Machine Learning Infrastructure",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8084476",
-    "date": "2026-07-24T19:34:58-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "2c6d1050-a8a7-40a0-9046-7c096b41115f",
-    "title": "Senior Web Marketing Manager",
-    "company": "Jane",
-    "link": "https://jobs.ashbyhq.com/jane/2c6d1050-a8a7-40a0-9046-7c096b41115f",
-    "date": "2026-07-24T21:11:09.554+00:00",
-    "source": "Ashby: Jane"
-  },
-  {
-    "id": "8084277",
-    "title": "Partner Development Manager, Link — Payments Partnerships",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8084277",
-    "date": "2026-07-24T17:03:07-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8072257",
-    "title": "Solutions Architect, Metronome (Startups)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8072257",
-    "date": "2026-07-24T16:57:31-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8079132",
-    "title": "Treasury Finance AI and Quantitative Analytics, Americas",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8079132",
-    "date": "2026-07-24T16:45:39-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "ff1aeedc-abc1-4b89-a1c6-01c498a77324",
-    "title": "Senior Backend Engineer, Product Infrastructure",
-    "company": "Polymarket",
-    "link": "https://jobs.ashbyhq.com/Polymarket/ff1aeedc-abc1-4b89-a1c6-01c498a77324",
-    "date": "2026-07-24T20:31:50.821+00:00",
-    "source": "Ashby: Polymarket"
-  },
-  {
-    "id": "8084195",
-    "title": "Backend Engineer, Credit Decisions",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8084195",
-    "date": "2026-07-24T16:10:18-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "8084193",
-    "title": "Software Engineer - Full Stack",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8084193",
-    "date": "2026-07-24T16:10:08-04:00",
-    "source": "Greenhouse: Stripe"
-  },
-  {
-    "id": "b74c76c5-cb37-40bd-abd5-e5280e675078",
-    "title": "Account Executive",
-    "company": "Gelato",
-    "link": "https://jobs.ashbyhq.com/Gelato/b74c76c5-cb37-40bd-abd5-e5280e675078",
-    "date": "2026-07-24T20:06:27.829+00:00",
-    "source": "Ashby: Gelato"
-  },
-  {
-    "id": "956a497c-bd5f-48a8-a021-80366d116c4a",
-    "title": "Technical Lead Manager, Infrastructure",
-    "company": "Morpho",
-    "link": "https://jobs.ashbyhq.com/Morpho/956a497c-bd5f-48a8-a021-80366d116c4a",
-    "date": "2026-07-24T20:02:08.178+00:00",
-    "source": "Ashby: Morpho"
-  },
-  {
-    "id": "956a497c-bd5f-48a8-a021-80366d116c4a",
-    "title": "Technical Lead, Infrastructure",
-    "company": "Morpho",
-    "link": "https://jobs.ashbyhq.com/Morpho/956a497c-bd5f-48a8-a021-80366d116c4a",
-    "date": "2026-07-24T20:02:08.178+00:00",
-    "source": "Ashby: Morpho"
-  },
-  {
-    "id": "8084049",
-    "title": "Senior Enterprise Marketing Manager, Base",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8084049?gh_jid=8084049",
-    "date": "2026-07-24T15:58:07-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "8084049",
-    "title": "Senior Enterprise Product  Marketing Manager, Base",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8084049?gh_jid=8084049",
-    "date": "2026-07-24T15:58:07-04:00",
-    "source": "Greenhouse: Coinbase"
   }
 ]
