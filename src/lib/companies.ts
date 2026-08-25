@@ -39,6 +39,42 @@ const ATS_HOSTNAMES = new Set([
 ]);
 
 /**
+ * Hardcoded website overrides for major Web3 companies
+ * whose job posts point to standard ATS boards.
+ */
+const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+ 'nethermind': 'https://nethermind.io',
+ 'dydx': 'https://dydx.exchange',
+ 'matter-labs': 'https://matter-labs.io',
+ 'status': 'https://status.im',
+ 'ledger': 'https://ledger.com',
+ 'immutable': 'https://immutable.com',
+ 'gauntlet': 'https://gauntlet.xyz',
+ 'blockworks': 'https://blockworks.co',
+ 'ava-labs': 'https://avalabs.org',
+ 'hedera-hashgraph': 'https://hedera.com',
+ 'jito-foundation': 'https://jito.network',
+ 'jito': 'https://jito.network',
+ 'tenderly': 'https://tenderly.co',
+ 'flow-blockchain': 'https://flow.com',
+ 'shapeshift': 'https://shapeshift.com',
+ 'river-financial': 'https://river.com',
+ 'walletconnect': 'https://walletconnect.com',
+ 'solana-labs': 'https://solana.com',
+ 'merkle-science': 'https://merklescience.com',
+ 'zerion': 'https://zerion.io',
+ 'hyperbolic': 'https://hyperbolic.xyz',
+ 'switchboard': 'https://switchboard.xyz',
+ 'avalanche': 'https://avax.network',
+ 'nasdaq': 'https://nasdaq.com',
+ 'improbable': 'https://improbable.io',
+ 'sfox': 'https://sfox.com',
+ 'sonic': 'https://soniclabs.com',
+ 'bitvavo': 'https://bitvavo.com',
+ 'venice': 'https://venice.ai',
+};
+
+/**
  * Create a URL-safe slug from company name
  */
 function createSlug(companyName: string): string {
@@ -146,6 +182,11 @@ export async function getCompanies(): Promise<Company[]> {
   } catch (e) {
    // Invalid URL, leave empty
   }
+
+  if (COMPANY_WEBSITE_OVERRIDES[slug]) {
+   website = COMPANY_WEBSITE_OVERRIDES[slug];
+  }
+
     // Use most recent job date as lastUpdated instead of build time
    const latestJobDate = companyJobs.reduce((latest, j) => {
     const d = new Date(j.date);
@@ -228,6 +269,10 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
    website = `${url.protocol}//${url.hostname}`;
   }
  } catch (e) {}
+
+ if (COMPANY_WEBSITE_OVERRIDES[slug]) {
+  website = COMPANY_WEBSITE_OVERRIDES[slug];
+ }
 
  const latestJobDate = companyJobs.reduce((latest, j) => {
   const d = new Date(j.date);
