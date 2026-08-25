@@ -1,8 +1,12 @@
 
 import { getArticle, getAllArticles } from '@/lib/articles';
+import { getJobs } from '@/lib/jobs';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
-import { notFound } from 'next/navigation';
+import { notFound, redirect } from 'next/navigation';
+import { getJobBySlug, getJobSlug, getAllJobsWithSlugs, fetchJobOriginalContent } from '@/lib/job-guides';
+import { getCompanyBySlug } from '@/lib/companies';
+import { JobDetailView } from '@/components/job-detail-view';
 import { GlossaryCTA } from '@/components/glossary-cta';
 import { GlossaryCharts } from '@/components/glossary-charts';
 import Image from 'next/image';
@@ -56,6 +60,7 @@ export async function generateStaticParams() {
   const articles = await getAllArticles();
   const resources = getAllResourcePages();
   const events = await getEvents();
+  const jobsWithSlugs = await getAllJobsWithSlugs();
 
   // Pre-render 50 most recent articles + all resource pages at build time.
   const topArticles = articles
@@ -71,10 +76,51 @@ export async function generateStaticParams() {
    ...resources.map((r) => ({ slug: r.seo.canonicalSlug })),
    ...curatedEvents.map((event) => ({ slug: getEventSlug(event) })),
    ...feedEvents.slice(0, 20).map((event) => ({ slug: getEventSlug(event) })),
+   ...jobsWithSlugs.slice(0, 60).map(({ slug }) => ({ slug })),
   ];
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
+  // Check if it's a job page
+  const job = await getJobBySlug(params.slug);
+  if (job) {
+    const jobSlug = getJobSlug(job);
+    const siteUrl = 'https://hashtagweb3.com';
+    const canonicalUrl = `${siteUrl}/${jobSlug}`;
+    const title = `${job.title} at ${job.company} — Web3 Job | Hashtag Web3`;
+    const description = `Explore the ${job.title} role at ${job.company}. Review responsibilities, qualifications, and apply directly.`;
+    const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(`${job.title} at ${job.company}`)}`;
+
+    return {
+      title,
+      description,
+      alternates: {
+        canonical: canonicalUrl,
+      },
+      openGraph: {
+        title,
+        description,
+        url: canonicalUrl,
+        type: 'article',
+        siteName: 'Hashtag Web3',
+        images: [
+          {
+            url: ogImageUrl,
+            width: 1200,
+            height: 630,
+            alt: `${job.title} at ${job.company}`,
+          },
+        ],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title,
+        description,
+        images: [ogImageUrl],
+      },
+    };
+  }
+
   // Check if it's an event page first
   const event = await getEventBySlug(params.slug);
   if (event) {
@@ -234,6 +280,29 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
+  // Check if it's a job page
+  const job = await getJobBySlug(params.slug);
+  if (job) {
+    const siteUrl = 'https://hashtagweb3.com';
+    const allJobs = await getJobs();
+    const companySlug = (job.company || 'web3').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    const company = await getCompanyBySlug(companySlug);
+    const contentHtml = await fetchJobOriginalContent(job);
+    const relatedJobs = allJobs
+      .filter((j) => j.id !== job.id && (j.company.toLowerCase() === job.company.toLowerCase() || j.title.toLowerCase().includes(job.title.split(' ')[0].toLowerCase())))
+      .slice(0, 4);
+
+    return (
+      <JobDetailView
+        job={job}
+        contentHtml={contentHtml}
+        company={company}
+        relatedJobs={relatedJobs}
+        siteUrl={siteUrl}
+      />
+    );
+  }
+
   // Check if it's an event page first
   const event = await getEventBySlug(params.slug);
   if (event) {
