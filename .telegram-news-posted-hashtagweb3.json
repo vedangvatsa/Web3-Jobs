@@ -491,6 +491,9 @@
   "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
   "https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662",
   "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
+  "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
+  "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1381,6 +1384,12 @@
   "San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund",
   "Korean Bank Uses Ripple and Pakistan Opens Crypto Licensing",
   "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
+  "Las Vegas Businessman Convicted in $24M Crypto Scheme",
+  "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
+  "Bitcoin Futures Open Interest Drops During Price Rally",
+  "A bitcoin short squeeze for the ages as futures open interest collapses",
+  "Galaxy Reports 1,789 Bitcoin Lost in Coldcard Hacks",
+  "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1422,5 +1431,8 @@
   "fp:advocacy|affiliat|back|candidat|coinbas|congress|cryptocurrency|elect|election|endors",
   "fp:apply|ceas|clearanc|cryptocurrency|deadlin|firm|local|must|operat|pakistan",
   "fp:000|250|accord|bas|convict|count|dillman|doj|fac|fin",
-  "fp:asia|asian|bank|compet|cut|express|hub|international|jeonbuk|korean"
+  "fp:asia|asian|bank|compet|cut|express|hub|international|jeonbuk|korean",
+  "fp:24m|brent|businessman|convict|defraud|fals|investor|kovar|least400|ponzi",
+  "fp:age|collaps|current|drop|dur|fund|futur|indicat|interest|leverag",
+  "fp:789|at1|btc|coldcard|eighty|fund|galaxy|hack|loss|lost"
 ]

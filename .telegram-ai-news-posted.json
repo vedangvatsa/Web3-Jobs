@@ -524,6 +524,9 @@
   "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
   "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
   "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+  "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+  "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+  "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1355,6 +1358,12 @@
   "AI is hitting entry-level jobs hardest, Stanford study finds",
   "Instinct AI assistant sparks privacy and security concerns",
   "Instinct’s powerful AI assistant is raising privacy and security concerns",
+  "China expands embodied artificial intelligence initiative in Shanghai",
+  "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+  "Schools develop new guidelines for artificial intelligence classroom adoption",
+  "How to encourage smarter AI use in the classroom",
+  "Tech executives urge policy focus on autonomous model risks",
+  "Debates over AI consciousness are a trap",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1396,5 +1405,8 @@
   "fp:13b|acquir|acquisition|bid|commitment|community|dollar|evaluat|fac|founder",
   "fp:awareness|collaps|federal|financial|firm|follow|fund|hedg|implod|investigat",
   "fp:affect|compar|dropped19|employment|entry|expos|field|find|hardest|hir",
-  "fp:ability|access|act|agent|assistant|behalf|broad|concern|data|instinct"
+  "fp:ability|access|act|agent|assistant|behalf|broad|concern|data|instinct",
+  "fp:carnival|china|commercial|day|development|driv|economic|embodi|expand|fiv",
+  "fp:academic|adjust|adoption|classroom|conversational|curricula|develop|disciplin|educator|encourag",
+  "fp:advocat|are|autonomous|concern|consciousness|debat|executiv|focus|framework|frontier"
 ]
