@@ -4,6 +4,7 @@ import { getAllTerms, getAllCategorySlugs } from '@/lib/glossary';
 import { getCompanies } from '@/lib/companies';
 import { getAllResourcePages } from '@/lib/pseo/resources';
 import { getCategories, getLessons } from '@/lib/learn';
+import { getAllJobsWithSlugs } from '@/lib/job-guides';
 
 const siteUrl = 'https://hashtagweb3.com';
 
@@ -282,14 +283,23 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }
  }
 
- return [
-  ...staticRoutes,
-  ...glossaryCategoryRoutes,
-  ...glossaryRoutes,
-  ...articleRoutes,
-  ...companyRoutes,
-  ...resourceRoutes,
-  ...learnCategoryRoutes,
-  ...learnLessonRoutes,
- ];
+  const jobsWithSlugs = await getAllJobsWithSlugs();
+  const jobRoutes: MetadataRoute.Sitemap = jobsWithSlugs.map(({ job, slug }) => ({
+    url: `${siteUrl}/${slug}`,
+    lastModified: new Date(job.date),
+    changeFrequency: 'daily' as const,
+    priority: 0.8,
+  }));
+
+  return [
+   ...staticRoutes,
+   ...glossaryCategoryRoutes,
+   ...glossaryRoutes,
+   ...articleRoutes,
+   ...companyRoutes,
+   ...jobRoutes,
+   ...resourceRoutes,
+   ...learnCategoryRoutes,
+   ...learnLessonRoutes,
+  ];
 }
