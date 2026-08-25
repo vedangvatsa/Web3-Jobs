@@ -1,5 +1,149 @@
 [
   {
+    "id": "91029373",
+    "title": "Onboarding Manager",
+    "company": "BitGo",
+    "link": "https://boards.greenhouse.io/bitgo/jobs/8733416002",
+    "date": "2026-08-25T11:33:06.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "91025712",
+    "title": "Merchant Distribution Supervisor",
+    "company": "Wave Mobile Money",
+    "link": "https://boards.greenhouse.io/wavemm1/jobs/6151454004",
+    "date": "2026-08-25T11:23:19.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "91025698",
+    "title": "Mid-Market Outcomes Architect, Japan",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/2c2f62b2-5c8d-4e6c-8ba5-e7ef724d4cba",
+    "date": "2026-08-25T11:23:16.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "91025694",
+    "title": "Outcomes Architect Manager, France",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/b7518817-864a-41d2-bc51-962691bc0265",
+    "date": "2026-08-25T11:23:15.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "91025695",
+    "title": "Workflow + Process Designer (AI Enablement)",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/c799f1f0-0e7b-4eac-98ce-44223130f2b0",
+    "date": "2026-08-25T11:23:15.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "91025697",
+    "title": "Technical Program Manager, Finance Systems & Compliance",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/7ec83090-7c5b-4691-bf20-e11e892cede1",
+    "date": "2026-08-25T11:23:15.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "91025692",
+    "title": "Software Engineer, Developer Platform",
+    "company": "Notion",
+    "link": "https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a",
+    "date": "2026-08-25T11:23:14.000Z",
+    "source": "https://coinbase.getro.com/jobs"
+  },
+  {
+    "id": "91020729",
+    "title": "Core Developer - Platform",
+    "company": "Parity Technologies",
+    "link": "https://jobs.ashbyhq.com/parity/228baf36-086e-409e-acda-1043940bece8",
+    "date": "2026-08-25T11:06:35.000Z",
+    "source": "https://jobs.blockchaincapital.com/jobs"
+  },
+  {
+    "id": "91015736",
+    "title": "Strategic Account Manager",
+    "company": "Coin Metrics",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/49e397be-add9-4233-8ef5-02e235e8eae2",
+    "date": "2026-08-25T10:51:28.000Z",
+    "source": "https://jobs.dcg.co/jobs"
+  },
+  {
+    "id": "7971851003",
+    "title": "Office & Workspace Administrator",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7971851003",
+    "date": "2026-08-25T06:11:01-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7972069003",
+    "title": "Compliance Head & MLRO, Pakistan",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7972069003",
+    "date": "2026-08-25T05:58:59-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7972063003",
+    "title": "Compliance Head & MLRO, Indonesia",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7972063003",
+    "date": "2026-08-25T05:53:03-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "8732681002",
+    "title": "Sales Director, New Business APAC",
+    "company": "ComplyAdvantage",
+    "link": "https://complyadvantage.com/careers/jobs/8732681002?gh_jid=8732681002",
+    "date": "2026-08-25T05:46:00-04:00",
+    "source": "Greenhouse: ComplyAdvantage"
+  },
+  {
+    "id": "1b5aa83d-8899-4f65-ba93-eaa32dc0ea7b",
+    "title": "Binance Accelerator Program - User Experience Product Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/1b5aa83d-8899-4f65-ba93-eaa32dc0ea7b",
+    "date": "2026-08-25T08:57:34.151Z",
+    "source": "Lever: Binance"
+  },
+  {
+    "id": "8047791",
+    "title": "Credit Risk Operations Team Lead",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8047791",
+    "date": "2026-08-25T04:18:11-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8153331",
+    "title": "Software Quality Assurance Engineer",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8153331",
+    "date": "2026-08-25T03:28:16-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "8154302",
+    "title": "European R&D Incentives Lead",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8154302",
+    "date": "2026-08-25T03:17:24-04:00",
+    "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "7969747003",
+    "title": "Head of Litigation & Investigations, Asia Pacific, Middle East & Africa",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7969747003",
+    "date": "2026-08-25T02:49:13-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "8014382",
     "title": "Head of Brand Studio Operations",
     "company": "Stripe",
@@ -120,6 +264,14 @@
     "source": "Greenhouse: Blockchain.com"
   },
   {
+    "id": "8155035",
+    "title": "Compliance Analytics Associate",
+    "company": "Blockchain.com",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/8155035",
+    "date": "2026-08-24T15:53:14-04:00",
+    "source": "Greenhouse: Blockchain.com"
+  },
+  {
     "id": "8155002",
     "title": "Product Designer, Link",
     "company": "Stripe",
@@ -198,6 +350,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8142304",
     "date": "2026-08-24T11:15:03-04:00",
     "source": "Greenhouse: Stripe"
+  },
+  {
+    "id": "3b91b8f5-e50a-4a41-ac15-3639dc196b6c",
+    "title": "Binance Accelerator Program - HR Talent Acquisition",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/3b91b8f5-e50a-4a41-ac15-3639dc196b6c",
+    "date": "2026-08-24T13:54:30.130Z",
+    "source": "Lever: Binance"
   },
   {
     "id": "8152994",
