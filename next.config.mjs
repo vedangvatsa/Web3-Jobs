@@ -54,11 +54,15 @@ const nextConfig = {
       { source: '/how-to-be-a-good-community-moderator', destination: '/web3-community-manager-career', permanent: true },
     ]
   },
+  async rewrites() {
+    return [
+      {
+        source: '/api/v1/:path*',
+        destination: '/api/:path*',
+      },
+    ];
+  },
   async headers() {
-    if (process.env.VERCEL !== '1') {
-      return [];
-    }
-
     const cspHeader = `
       default-src 'self';
       script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://vercel.ai https://us.i.posthog.com;
@@ -74,14 +78,24 @@ const nextConfig = {
 
     return [
       {
-        // Apply these headers to all routes in your application.
         source: '/:path*',
         headers: [
           {
             key: 'X-Frame-Options',
             value: 'SAMEORIGIN',
           },
-          // Agentic Web - Link headers for discoverability
+          {
+            key: 'Vary',
+            value: 'Accept, Accept-Encoding',
+          },
+          {
+            key: 'X-AI-Usage',
+            value: 'indexing=yes, search=yes, inference=yes, citation=yes',
+          },
+          {
+            key: 'X-Robots-Tag',
+            value: 'index, follow',
+          },
           {
             key: 'Link',
             value: [
@@ -89,6 +103,7 @@ const nextConfig = {
               '</sitemap.xml>; rel="sitemap"; type="application/xml"',
               '</.well-known/agents.json>; rel="agents"; type="application/json"',
               '</.well-known/api-catalog>; rel="api-catalog"',
+              '</openapi.json>; rel="service-desc"',
             ].join(', '),
           },
           {

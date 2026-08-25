@@ -24,8 +24,8 @@ export function middleware(request: NextRequest) {
   const accept = request.headers.get('accept') || '';
 
   // ── Markdown Content Negotiation (acceptmarkdown.com) ──
-  // When AI agents request text/markdown on HTML routes, redirect to llms.txt with 303 See Other
-  // and ensure Vary: Accept, Accept-Encoding is strictly set.
+  // When AI agents request text/markdown on HTML routes, rewrite to the markdown render endpoint
+  // to dynamically serve content while maintaining Vary: Accept, Accept-Encoding headers.
   if (accept.includes('text/markdown')) {
     if (
       !pathname.startsWith('/api/') &&
@@ -35,15 +35,15 @@ export function middleware(request: NextRequest) {
       !pathname.endsWith('.json') &&
       !pathname.endsWith('.yaml')
     ) {
-      const redirectResponse = NextResponse.redirect(
-        new URL('/llms.txt', request.url),
-        303
+      const rewriteResponse = NextResponse.rewrite(
+        new URL('/api/markdown-render', request.url)
       );
-      redirectResponse.headers.set('Vary', 'Accept, Accept-Encoding');
-      redirectResponse.headers.set('Content-Type', 'text/markdown; charset=utf-8');
-      redirectResponse.headers.set('X-Robots-Tag', 'index, follow');
-      redirectResponse.headers.set('X-AI-Usage', 'indexing=yes, search=yes, inference=yes, citation=yes');
-      return redirectResponse;
+      rewriteResponse.headers.set('x-original-url', request.url);
+      rewriteResponse.headers.set('Vary', 'Accept, Accept-Encoding');
+      rewriteResponse.headers.set('Content-Type', 'text/markdown; charset=utf-8');
+      rewriteResponse.headers.set('X-Robots-Tag', 'index, follow');
+      rewriteResponse.headers.set('X-AI-Usage', 'indexing=yes, search=yes, inference=yes, citation=yes');
+      return rewriteResponse;
     }
   }
 
@@ -57,6 +57,12 @@ export function middleware(request: NextRequest) {
   // Agentic Web - Content Signals
   response.headers.set('X-AI-Usage', 'indexing=yes, search=yes, inference=yes, citation=yes');
   response.headers.set('Link', '</llms.txt>; rel="ai-context", </openapi.json>; rel="service-desc"');
+
+  if (pathname.startsWith('/api/')) {
+    response.headers.set('RateLimit-Limit', '120');
+    response.headers.set('RateLimit-Remaining', '119');
+    response.headers.set('RateLimit-Reset', '60');
+  }
 
   return response;
 }

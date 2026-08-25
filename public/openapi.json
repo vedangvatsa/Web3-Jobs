@@ -4,6 +4,10 @@
     "title": "Hashtag Web3 Public API",
     "version": "1.0.0",
     "description": "Public REST API for Hashtag Web3 (hashtagweb3.com). Search live Web3 jobs, crypto industry news, global blockchain conferences & hackathons, and the 200+ term Web3 glossary. Optimized for LLM agents, automated scripts, and developer integrations.",
+    "x-api-versioning": {
+      "policy": "URI path versioning (/api/v1/)",
+      "deprecation": "We signal deprecation using standard Deprecation and Sunset HTTP headers in API responses, with a minimum 6-month notice period."
+    },
     "contact": {
       "name": "Hashtag Web3 Developer Support",
       "url": "https://hashtagweb3.com/developers",
@@ -16,8 +20,12 @@
   },
   "servers": [
     {
+      "url": "https://hashtagweb3.com/api/v1",
+      "description": "Production server (v1)"
+    },
+    {
       "url": "https://hashtagweb3.com",
-      "description": "Production server"
+      "description": "Production server root"
     }
   ],
   "paths": {
