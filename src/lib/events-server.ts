@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { Web3Event, normalizeCountry, getEventSlug, getEventEcosystems, getEventType } from './events';
+import { cleanPublishText } from './noslop';
 
 // Quality gate: drops spam webinars, cancelled listings, and non-web3 meetups
 // that leak into the aggregated feed. Curated premier events always pass.
@@ -58,10 +59,44 @@ export async function getEvents(): Promise<Web3Event[]> {
       if (!e.name || !e.startDate) continue;
       if (!isQualityEvent(e)) continue;
 
+      let cleanName = cleanPublishText(e.name.replace(/\s+\[\d+\]$/g, '').trim()); // Remove trailing brackets like [4]
+      let cleanUrl = cleanPublishText(e.url || e.website || 'https://hashtagweb3.com/events');
+      let cleanCity = cleanPublishText(e.city || '');
+      let cleanCountry = cleanPublishText(e.country || '');
+      let cleanLocation = cleanPublishText(e.location || '');
+      const cleanDescription = cleanPublishText(e.description || '');
+
+      // Fix malformed double https:// url prefix
+      if (cleanUrl.includes('https://lu.ma/https://')) {
+        cleanUrl = cleanUrl.replace('https://lu.ma/https://', 'https://');
+      } else if (cleanUrl.includes('https://lu.ma/http://')) {
+        cleanUrl = cleanUrl.replace('https://lu.ma/http://', 'http://');
+      }
+
+      // Casing and link corrections for specific events
+      if (cleanName.toLowerCase().includes('eth belgrade')) {
+        cleanName = 'ETH Belgrade';
+        cleanUrl = 'https://ethbelgrade.rs';
+        cleanCity = 'Belgrade';
+        cleanCountry = 'Serbia';
+        cleanLocation = 'Belgrade, Serbia';
+      }
+
+      if (cleanUrl.includes('ethglobal.com/events/')) {
+        const subslug = cleanUrl.split('/events/')[1]?.replace(/[^a-z0-9]/g, '');
+        if (subslug && (subslug.includes('2026') || subslug.includes('2025'))) {
+          cleanUrl = 'https://ethglobal.com/events';
+        }
+      }
+
+      if (cleanUrl.includes('blockworks.co/events/permissionless')) {
+        cleanUrl = 'https://blockworks.co/events';
+      }
+
       // Normalization key for deduplication
-      const cleanName = e.name.toLowerCase().replace(/[^a-z0-9]/g, '').trim();
+      const dedupKey = cleanName.toLowerCase().replace(/[^a-z0-9]/g, '').trim();
       const datePart = e.startDate.slice(0, 10);
-      const key = `${cleanName}|${datePart}`;
+      const key = `${dedupKey}|${datePart}`;
 
       if (seen.has(key)) continue;
       seen.add(key);
@@ -73,11 +108,13 @@ export async function getEvents(): Promise<Web3Event[]> {
 
       cleaned.push({
         ...e,
+        name: cleanName,
+        description: cleanDescription,
         month: monthStr,
-        city: e.city || '',
-        country: normalizeCountry(e.country),
-        location: e.location || (e.city && e.country ? `${e.city}, ${e.country}` : 'Virtual / TBA'),
-        url: e.url || e.website || 'https://hashtagweb3.com/events',
+        city: cleanCity,
+        country: normalizeCountry(cleanCountry),
+        location: cleanLocation || (cleanCity && cleanCountry ? `${cleanCity}, ${normalizeCountry(cleanCountry)}` : 'Virtual / TBA'),
+        url: cleanUrl,
       });
     }
 
