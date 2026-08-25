@@ -4,7 +4,7 @@ import { cleanPublishText } from './noslop';
 import * as fs from 'fs';
 import * as path from 'path';
 
-export { getJobSlug, cleanShortTitle } from './job-slugs';
+export { getJobSlug, getOneWordRole } from './job-slugs';
 import { getJobSlug } from './job-slugs';
 
 const DESCRIPTIONS_CACHE_PATH = path.join(process.cwd(), 'content/job-descriptions.json');
