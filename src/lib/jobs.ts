@@ -122,6 +122,7 @@ export async function getJobs(): Promise<Job[]> {
   const jobs: Job[] = JSON.parse(data).map((job: Job) => ({
    ...job,
    title: cleanJobTitle(job.title, job.company),
+   company: cleanPublishText(job.company),
   }));
 
   // Filter out non-Web3 companies
