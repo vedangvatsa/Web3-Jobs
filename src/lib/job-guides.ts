@@ -54,7 +54,7 @@ export async function getJobBySlug(slug: string): Promise<Job | null> {
   // 2. Match without trailing ID
   for (const job of allJobs) {
     const fullSlug = getJobSlug(job);
-    const baseSlug = fullSlug.replace(/-[a-z0-9]{2}$/, '');
+    const baseSlug = fullSlug.replace(/-[a-z0-9]{5}$/, '');
     if (baseSlug === cleanSlug) {
       return job;
     }
@@ -63,7 +63,7 @@ export async function getJobBySlug(slug: string): Promise<Job | null> {
   // 3. Match by job ID suffix
   const parts = cleanSlug.split('-');
   const lastPart = parts[parts.length - 1];
-  if (lastPart && lastPart.length >= 2) {
+  if (lastPart && lastPart.length >= 5) {
     for (const job of allJobs) {
       if (job.id.toLowerCase().endsWith(lastPart) || job.id.toLowerCase() === lastPart) {
         return job;
