@@ -42,7 +42,7 @@ export function MediaCarousel({ logos }: MediaCarouselProps) {
               <div className="p-1">
                 <div className="relative h-10 sm:h-12 w-full" title={logo.name}>
                   <Image 
-                    src={logo.src} 
+                    src={`${logo.src}?v=2`} 
                     alt={`Logo of ${logo.name} media outlet, where Hashtag Web3 has been featured`} 
                     fill 
                     className="object-contain" 

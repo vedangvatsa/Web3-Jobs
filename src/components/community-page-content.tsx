@@ -100,7 +100,7 @@ export function CommunityPageContent({
                   <div className="grid grid-cols-3 sm:grid-cols-4 gap-2 sm:gap-4 p-2 sm:p-4">
                     {chunk.map((logo) => (
                       <div key={logo.name} className="relative h-14 sm:h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm border border-border/50" title={logo.name}>
-                        <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
+                        <Image src={`${logo.src}?v=2`} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
                       </div>
                     ))}
                   </div>
@@ -266,7 +266,7 @@ export function CommunityPageContent({
                   <div className="grid grid-cols-3 sm:grid-cols-4 gap-2 sm:gap-4 p-2 sm:p-4">
                     {chunk.map((logo) => (
                       <div key={logo.name} className="relative h-14 sm:h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm border border-border/50" title={logo.name}>
-                        <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
+                        <Image src={`${logo.src}?v=2`} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
                       </div>
                     ))}
                   </div>
@@ -329,7 +329,7 @@ export function CommunityPageContent({
                   <div className="grid grid-cols-3 sm:grid-cols-4 gap-2 sm:gap-4 p-2 sm:p-4">
                     {chunk.map((logo) => (
                       <div key={logo.name} className="relative h-14 sm:h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm border border-border/50" title={logo.name}>
-                        <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
+                        <Image src={`${logo.src}?v=2`} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
                       </div>
                     ))}
                   </div>
