@@ -7,7 +7,7 @@ description: >-
   reshape the global financial system by creating a more open.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 The global financial system underpins modern civilization, yet it remains opaque and often inefficient. This system relies heavily on centralized intermediaries, including banks, exchanges, and payment processors, which introduce friction, inflate costs, and act as gatekeepers. [Web3](/what-is-web3) and, more specifically, its financial component, **[Decentralized Finance (DeFi)](/what-is-defi)**, present an alternative: constructing a financial ecosystem based on open, permissionless, and transparent [blockchain](/what-is-a-blockchain) networks.

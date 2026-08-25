@@ -1,13 +1,13 @@
 ---
 title: 'Web3 Jobs in Banjul: A Guide to The Gambia''s Digital Ambitions'
-image: /images/africa web3 jobs.jpg
+image: /images/africa-web3-jobs.jpg
 data-ai-hint: banjul gambia city
 description: >-
   A career guide to the emerging Web3 job market in Banjul. Explore how The
   Gambia, with its ambitious leadership and focus on FinTech, is positioning.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 Banjul, the capital of The Gambia, is increasingly emerging as a notable player in the West African [Web3](/what-is-web3) sector. This small city is drawing attention due to its proactive leadership, which has shown a keen interest in cryptocurrency and [blockchain](/what-is-a-blockchain) technologies for economic advancement and financial innovation. Although the local ecosystem remains in its infancy, The Gambia's commitment to technological progress suggests it is a promising area for growth.

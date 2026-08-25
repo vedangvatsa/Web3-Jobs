@@ -8,7 +8,7 @@ description: >-
   of crypto wallets and helps you choose the right one based on your security.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 Your crypto wallet serves as the essential gateway to the [Web3](/what-is-web3) ecosystem. It acts as your identity, bank account, and keychain, enabling you to send, receive, and store digital assets while interacting with thousands of decentralized applications (dApps). Selecting the right wallet is important, as it directly affects your fund security and overall user experience.

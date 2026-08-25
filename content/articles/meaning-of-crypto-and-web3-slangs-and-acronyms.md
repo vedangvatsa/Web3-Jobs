@@ -7,7 +7,7 @@ description: >-
   common Web3 acronyms and terms like WAGMI, NGMI, FUD, HODL, and more.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 The world of [Web3](/what-is-web3) and cryptocurrency possesses a distinct lexicon that can confuse newcomers. Understanding this terminology is essential for engaging in conversations and grasping the culture of the decentralized internet.

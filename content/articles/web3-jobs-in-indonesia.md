@@ -8,7 +8,7 @@ description: >-
   crypto adoption, the key players, in-demand roles, and typical salary ranges.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 Indonesia has emerged as a significant player in Southeast Asia's [Web3](/what-is-web3) market. With over 270 million people, the nation boasts a large, youthful, and mobile-centric population. This demographic is important to its impressive cryptocurrency adoption rates, which rank among the highest globally. The growing interest from local and international companies has created a active job market for Web3 professionals.

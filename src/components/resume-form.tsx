@@ -10,17 +10,7 @@ import { Card, CardHeader, CardTitle, CardContent, CardDescription } from '@/com
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
-import {
- Download,
- Trash2,
- Plus,
- User,
- Briefcase,
- GraduationCap,
- Sparkles,
- BrainCircuit,
- Code,
-} from 'lucide-react';
+import { Download, Trash2, Plus } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { ResumePreview } from './resume-preview';
 import type { ResumeData } from '@/types';
@@ -293,8 +283,7 @@ export function ResumeForm() {
      <div className="space-y-6">
       <Card>
        <CardHeader>
-        <CardTitle className="flex items-center gap-2">
-         <User className="text-primary" /> Personal Details
+        <CardTitle>Personal Details
         </CardTitle>
        </CardHeader>
        <CardContent className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -327,8 +316,7 @@ export function ResumeForm() {
 
       <Card>
        <CardHeader>
-        <CardTitle className="flex items-center gap-2">
-         <BrainCircuit className="text-primary" /> Professional Summary
+        <CardTitle>Professional Summary
         </CardTitle>
        </CardHeader>
        <CardContent>
@@ -342,8 +330,7 @@ export function ResumeForm() {
 
       <Card>
        <CardHeader>
-        <CardTitle className="flex items-center gap-2">
-         <Sparkles className="text-primary" /> Key Projects &
+        <CardTitle>Key Projects &
          Portfolio
         </CardTitle>
        </CardHeader>
@@ -397,8 +384,7 @@ export function ResumeForm() {
 
       <Card>
        <CardHeader>
-        <CardTitle className="flex items-center gap-2">
-         <Briefcase className="text-primary" /> Professional Experience
+        <CardTitle>Professional Experience
         </CardTitle>
        </CardHeader>
        <CardContent className="space-y-4">
@@ -452,8 +438,7 @@ export function ResumeForm() {
 
       <Card>
        <CardHeader>
-        <CardTitle className="flex items-center gap-2">
-         <GraduationCap className="text-primary" /> Education
+        <CardTitle>Education
         </CardTitle>
        </CardHeader>
        <CardContent className="space-y-4">
@@ -498,8 +483,7 @@ export function ResumeForm() {
 
       <Card>
        <CardHeader>
-        <CardTitle className="flex items-center gap-2">
-         <Code className="text-primary" /> Skills
+        <CardTitle>Skills
         </CardTitle>
        </CardHeader>
        <CardContent className="space-y-4">

@@ -172,15 +172,9 @@ export default async function CompanyPage({ params }: { params: { slug: string }
       {/* About Card */}
       {company.about && (
        <div className="border rounded-lg p-5 mb-8 bg-muted/30">
-        <div 
-         className="text-sm text-muted-foreground leading-relaxed"
-         dangerouslySetInnerHTML={{ 
-          __html: company.about
-           .split('\n\n')
-           .slice(0, 3)
-           .map(para => `<p class="mb-2 last:mb-0">${para.replace(/\n/g, '<br />')}</p>`)
-           .join('') 
-         }} 
+        <div
+         className="prose prose-sm sm:prose-base dark:prose-invert max-w-none text-muted-foreground prose-headings:text-foreground prose-headings:text-lg prose-headings:font-semibold prose-headings:mt-6 prose-headings:mb-3 prose-p:leading-relaxed prose-p:mb-3 prose-li:leading-relaxed prose-strong:text-foreground prose-a:text-primary"
+         dangerouslySetInnerHTML={{ __html: company.about }}
         />
        </div>
       )}

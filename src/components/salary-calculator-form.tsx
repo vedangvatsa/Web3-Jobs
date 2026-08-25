@@ -152,10 +152,7 @@ export function SalaryCalculatorForm() {
         <div className="md:col-span-3">
         <Card className="bg-background border border-white/10">
           <CardHeader>
-          <CardTitle className="flex items-center gap-2">
-            <Calculator className="h-6 w-6" />
-            <span>Your Details</span>
-          </CardTitle>
+          <CardTitle>Your Details</CardTitle>
           <CardDescription>
             Adjust the sliders and fields to see a real-time salary estimate.
           </CardDescription>

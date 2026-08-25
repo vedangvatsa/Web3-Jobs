@@ -13,7 +13,7 @@ import {
  SelectValue,
 } from '@/components/ui/select';
 import { Slider } from '@/components/ui/slider';
-import { ArrowRight, DollarSign, FileText } from 'lucide-react';
+import { ArrowRight, FileText } from 'lucide-react';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { useMemo, useState } from 'react';
 import { PageHeader } from "@/components/page-header";
@@ -173,10 +173,7 @@ export default function FreelanceRatesByIndustryPage() {
      <div className="mb-8 grid gap-6 md:grid-cols-2">
       <Card>
        <CardHeader>
-        <CardTitle className="flex items-center gap-2">
-         <DollarSign className="h-5 w-5 text-primary" />
-         Rate Estimator
-        </CardTitle>
+        <CardTitle>Rate Estimator</CardTitle>
        </CardHeader>
        <CardContent className="space-y-5">
         <div className="space-y-2">
@@ -280,10 +277,7 @@ export default function FreelanceRatesByIndustryPage() {
 
      <Card>
       <CardHeader>
-       <CardTitle className="flex items-center gap-2">
-        <DollarSign className="h-5 w-5 text-primary" />
-        Industry Rate Benchmarks
-       </CardTitle>
+       <CardTitle>Industry Rate Benchmarks</CardTitle>
       </CardHeader>
       <CardContent>
        <div className="overflow-x-auto">

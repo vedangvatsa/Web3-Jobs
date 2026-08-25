@@ -10,27 +10,6 @@ import {
  AccordionTrigger,
 } from '@/components/ui/accordion';
 import { Badge } from '@/components/ui/badge';
-import {
- Briefcase,
- GitBranch,
- Search,
- Lock,
- Heart,
- FileText,
- Users,
- BarChart,
- Layers,
- Puzzle,
- Network,
- Palette,
- Scale,
- Shield,
- Lightbulb,
- Link as LinkIcon,
- BookOpen,
- Rss,
- ArrowRight
-} from 'lucide-react';
 import { interviewData, Role } from '@/lib/interview-questions';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
@@ -54,25 +33,6 @@ const categoryColors: { [key: string]: string } = {
   Risk: 'bg-red-100 text-red-800',
   Strategy: 'bg-green-100 text-green-800',
   Communication: 'bg-sky-100 text-sky-800',
-};
-
-const roleIcons: { [key: string]: React.ElementType } = {
- 'Solidity / Smart Contract Developer (EVM)': GitBranch,
- 'Smart Contract Auditor': Search,
- 'DeFi Protocol Engineer': Layers,
- 'Backend Web3 Engineer': Network,
- 'Frontend dApp Engineer': Palette,
- 'Zero-Knowledge Engineer': Puzzle,
- 'Cryptography Engineer': Lock,
- 'L2 / Rollups Engineer': Layers,
- 'Token Economist / Tokenomics Designer': Lightbulb,
- 'On-chain Data Analyst': BarChart,
- 'Product Manager, Web3': Briefcase,
- 'Community Lead / Community Manager': Users,
- 'DAO Operations / Governance': Users,
- 'Security / DevSecOps for Web3': Shield,
- 'NFT / GameFi Product Manager': Palette,
- 'Legal / Compliance Associate, Web3': Scale,
 };
 
 
@@ -126,11 +86,9 @@ const QuestionItem = ({ question }: { question: any }) => (
 );
 
 const RoleSection = ({ roleData }: { roleData: Role }) => {
- const Icon = roleIcons[roleData.role] || Briefcase;
  return (
   <div id={roleData.id} className="pt-8">
-   <div className="flex items-center gap-3 mb-4">
-    <Icon className="h-8 w-8 text-primary" />
+   <div className="mb-4">
     <div>
      <h2 className="text-2xl font-bold">{roleData.role}</h2>
      <p className="text-sm text-muted-foreground">{roleData.snapshot}</p>

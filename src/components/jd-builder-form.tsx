@@ -17,7 +17,7 @@ import {
  SelectTrigger,
  SelectValue,
 } from '@/components/ui/select';
-import { Download, Trash2, Plus, Briefcase, Target, CheckSquare, Sparkles, ClipboardEdit } from 'lucide-react';
+import { Download, Trash2, Plus } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { CtaBanner } from '@/components/cta-banner';
 import { createPdfInstance } from '@/lib/pdf-utils';
@@ -243,7 +243,7 @@ export function JDBuilderForm() {
      {/* Form Column */}
      <div className="space-y-6">
       <Card>
-       <CardHeader><CardTitle className="flex items-center gap-2"><Briefcase className="text-primary"/> Basic Information</CardTitle></CardHeader>
+       <CardHeader><CardTitle>Basic Information</CardTitle></CardHeader>
        <CardContent className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         <Input placeholder="Job Title" {...form.register('jobTitle')} />
         <Input placeholder="Company Name" {...form.register('companyName')} />
@@ -264,7 +264,7 @@ export function JDBuilderForm() {
       </Card>
 
       <Card>
-       <CardHeader><CardTitle className="flex items-center gap-2"><Target className="text-primary"/> About the Company & Role</CardTitle></CardHeader>
+       <CardHeader><CardTitle>About the Company & Role</CardTitle></CardHeader>
        <CardContent className="space-y-4">
         <Textarea placeholder="Tell us about your company's mission and culture..." {...form.register('aboutCompany')} rows={5} />
         <Textarea placeholder="Describe the role, its impact, and what success looks like..." {...form.register('aboutRole')} rows={5} />
@@ -272,21 +272,21 @@ export function JDBuilderForm() {
       </Card>
       
       <Card>
-       <CardHeader><CardTitle className="flex items-center gap-2"><CheckSquare className="text-primary"/> Responsibilities</CardTitle></CardHeader>
+       <CardHeader><CardTitle>Responsibilities</CardTitle></CardHeader>
        <CardContent>
          <FieldArrayInput fields={respFields} remove={removeResp} append={appendResp} placeholder="e.g. Design and build smart contracts..." label="responsibilities" />
        </CardContent>
       </Card>
       
       <Card>
-       <CardHeader><CardTitle className="flex items-center gap-2"><Sparkles className="text-primary"/> Qualifications</CardTitle></CardHeader>
+       <CardHeader><CardTitle>Qualifications</CardTitle></CardHeader>
        <CardContent>
         <FieldArrayInput fields={qualFields} remove={removeQual} append={appendQual} placeholder="e.g. 3+ years of Solidity experience..." label="qualifications" />
        </CardContent>
       </Card>
 
       <Card>
-       <CardHeader><CardTitle className="flex items-center gap-2"><Sparkles className="text-primary"/> Preferred Qualifications</CardTitle></CardHeader>
+       <CardHeader><CardTitle>Preferred Qualifications</CardTitle></CardHeader>
        <CardContent>
         <FieldArrayInput fields={prefQualFields} remove={removePrefQual} append={appendPrefQual} placeholder="e.g. Experience with L2s..." label="preferredQualifications" />
        </CardContent>

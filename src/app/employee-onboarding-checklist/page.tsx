@@ -101,12 +101,7 @@ export default function EmployeeOnboardingChecklistPage() {
               {checklistData.sections.map((section, sectionIndex) => (
                 <Card key={section.title} className="flex flex-col bg-card">
                   <CardHeader>
-                    <CardTitle className="flex items-center gap-3">
-                      <div className="bg-primary/10 p-2 rounded-lg">
-                        <section.icon className="h-6 w-6 text-primary" />
-                      </div>
-                      <span>{section.title}</span>
-                    </CardTitle>
+                    <CardTitle>{section.title}</CardTitle>
                   </CardHeader>
                   <CardContent className="flex-grow">
                     <div className="space-y-2">

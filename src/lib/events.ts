@@ -1,3 +1,5 @@
+import { EVENT_GUIDES } from './event-guides';
+
 export type EventType = 'conference' | 'hackathon' | 'meetup' | 'workshop' | 'online';
 export type EventFormat = 'in-person' | 'online';
 
@@ -16,6 +18,7 @@ export interface Web3Event {
   coverImage: string | null;
   twitter?: string | null;
   source?: string;
+  slug?: string;
 }
 
 // Country code to clean name mapping
@@ -196,6 +199,8 @@ export function getRelativeBadge(startDate: string): string | null {
 }
 
 export function getEventSlug(event: Web3Event): string {
+  if (event.slug) return event.slug.toLowerCase().trim();
+
   let name = event.name.toLowerCase();
   
   // 1. Strip parentheses, brackets, and their contents
@@ -278,6 +283,9 @@ export interface EventEditorialArticle {
 }
 
 export function getEventEditorialGuide(event: Web3Event): EventEditorialArticle {
+  const slug = (event.slug || '').toLowerCase().trim();
+  if (slug && EVENT_GUIDES[slug]) return EVENT_GUIDES[slug];
+
   const name = event.name.toLowerCase();
   const type = getEventType(event);
   const format = getEventFormat(event);

@@ -152,9 +152,7 @@ export function CompanyCultureGuideForm() {
   }) => (
     <Card>
       <CardHeader>
-        <CardTitle className="flex items-center gap-2">
-          <Icon className="text-primary" /> {title}
-        </CardTitle>
+        <CardTitle>{title}</CardTitle>
         <CardDescription>{description}</CardDescription>
       </CardHeader>
       <CardContent className="space-y-4">{children}</CardContent>

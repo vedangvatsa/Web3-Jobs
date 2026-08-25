@@ -1,13 +1,13 @@
 ---
 title: 'Web3 Jobs in Lusaka: A Guide to Zambia''s Emerging Crypto Scene'
-image: /images/africa web3 jobs.jpg
+image: /images/africa-web3-jobs.jpg
 data-ai-hint: lusaka zambia city
 description: >-
   A career guide to the Web3 job market in Lusaka. Explore how Zambia's capital
   is building a growing blockchain community with a focus on FinTech.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 Lusaka, the capital of Zambia, is rapidly transforming into a significant player in the [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology sectors in Southern Africa. The city boasts a youthful, entrepreneurial population with increasing mobile and internet access. The Zambian government actively supports digital innovations, enhancing Lusaka's potential as a hub for blockchain initiatives. Developers, startups, and community builders are using decentralized technology to tackle local issues and create new economic opportunities.

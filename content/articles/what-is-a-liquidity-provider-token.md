@@ -8,7 +8,7 @@ category: Educational
 image: 'https://picsum.photos/seed/lptoken/1200/630'
 data-ai-hint: liquidity provider
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 ## What is a Liquidity Provider (LP) Token?

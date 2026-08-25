@@ -7,7 +7,7 @@ description: >-
   the foundation upon which the entire distributed ledger is built.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 Every [blockchain](/what-is-a-blockchain) has a starting point. The **genesis block** represents the first block ever created in a blockchain's timeline. Known as Block 0, it serves as the foundation from which all subsequent blocks are cryptographically linked, forming the chain that constitutes the distributed ledger. This block is a unique and immutable record in a blockchain's history.

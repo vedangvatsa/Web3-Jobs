@@ -8,7 +8,7 @@ description: >-
   token packages, understand vesting schedules, and maximize your total.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 You've successfully worked through the interview process and received an offer from your desired [Web3](/what-is-web3) company. The next step is negotiating your compensation, which often involves more complexity than traditional tech roles. In Web3, your total compensation package typically includes a base salary, equity, and a grant of the project's native [tokens](/what-is-a-token). Understanding how to evaluate and negotiate these components is vital for maximizing your financial success.

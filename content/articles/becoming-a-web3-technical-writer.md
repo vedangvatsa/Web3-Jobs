@@ -8,7 +8,7 @@ description: >-
   and break into this high-demand remote role.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 In the evolving field of [Web3](/what-is-web3), the role of a **Technical Writer** has gained importance. While smart contract engineers create protocols and community managers engage users, technical writers serve as the bridge between complex technical concepts and user understanding. They ensure that developers can build on a platform and that users can interact with it confidently.

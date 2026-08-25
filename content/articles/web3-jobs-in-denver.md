@@ -1,13 +1,13 @@
 ---
 title: 'Web3 Jobs in Denver: A Guide to the Mile High Crypto Community'
-image: /images/usa web3 jobs by hashtag web3.jpg
+image: /images/usa-web3-jobs-by-hashtag-web3.jpg
 data-ai-hint: denver city usa
 description: >-
   A career guide to the Web3 job market in Denver. Learn about the city's unique
   role in the Ethereum ecosystem, its active community, and the.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 Denver, Colorado, has established a significant presence in the global [Web3](/what-is-web3) ecosystem. Though not a traditional financial or tech hub, the city has emerged as a core location for the [Ethereum](/what-is-ethereum) community. This transformation largely stems from the growth of ETHDenver, which has evolved from a modest hackathon into one of the largest Ethereum events worldwide. This annual conference attracts many developers, founders, and investors, building a dynamic ecosystem that thrives throughout the year.

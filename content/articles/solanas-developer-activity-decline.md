@@ -7,7 +7,7 @@ description: >-
   explore the potential causes, from ecosystem challenges to the rise of L2s.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 Solana, a high-speed Layer 1 [blockchain](/what-is-a-blockchain), has established itself as a significant player in the [Web3](/what-is-web3) ecosystem. Known for its rapid transactions and low fees, it has drawn a active community of builders focused on [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and payment solutions. Recent data reveals a troubling trend: a notable and sustained decline in the number of active developers on the platform. Developer activity serves as an important indicator of ecosystem health and future innovation. This decline raises questions regarding the sustainability of Solana, often dubbed the "Ethereum killer."

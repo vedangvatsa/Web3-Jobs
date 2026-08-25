@@ -25,8 +25,8 @@ import {
   getEventEcosystems,
   formatEventDate,
   generateGoogleCalendarUrl,
-  getEventEditorialGuide,
 } from '@/lib/events';
+import { resolveEventGuide } from '@/lib/event-guide-store';
 import {
   getEventBySlug,
   getEvents,
@@ -241,7 +241,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const eventSlug = getEventSlug(event);
     const format = getEventFormat(event);
     const ecosystems = getEventEcosystems(event);
-    const editorial = getEventEditorialGuide(event);
+    const editorial = await resolveEventGuide(event);
     const googleCalendarUrl = generateGoogleCalendarUrl(event);
     const relatedEvents = await getRelatedEvents(event, 3);
 
