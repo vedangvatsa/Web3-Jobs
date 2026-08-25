@@ -494,6 +494,9 @@
   "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
   "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
   "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
+  "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1390,6 +1393,12 @@
   "A bitcoin short squeeze for the ages as futures open interest collapses",
   "Galaxy Reports 1,789 Bitcoin Lost in Coldcard Hacks",
   "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
+  "India plans tokenized bond pilot using wholesale digital currency",
+  "India plans first tokenized bonds using wholesale CBDC: Report",
+  "Nancy Pelosi Discloses Millions in Bloom Energy Investments",
+  "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
+  "Crypto Market Sentiment Shifts to Extreme Greed",
+  "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1434,5 +1443,8 @@
   "fp:asia|asian|bank|compet|cut|express|hub|international|jeonbuk|korean",
   "fp:24m|brent|businessman|convict|defraud|fals|investor|kovar|least400|ponzi",
   "fp:age|collaps|current|drop|dur|fund|futur|indicat|interest|leverag",
-  "fp:789|at1|btc|coldcard|eighty|fund|galaxy|hack|loss|lost"
+  "fp:789|at1|btc|coldcard|eighty|fund|galaxy|hack|loss|lost",
+  "fp:bank|bond|cbdc|central|controll|currency|debt|digital|india|investor",
+  "fp:account|befor|bloom|disclos|earn|energy|her|husband|investment|nancy",
+  "fp:extrem|fear|fearful|flip|gre|index|last|market|month|of36"
 ]
