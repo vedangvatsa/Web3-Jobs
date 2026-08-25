@@ -196,10 +196,10 @@ export function JobDetailView({
         </div>
 
         {/* Main Layout: 2 Columns */}
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
           
           {/* Left Content Column: Authentic Curled Job Description */}
-          <div className="lg:col-span-2 space-y-8">
+          <div className="lg:col-span-3 space-y-8">
             <div 
               className="prose prose-slate dark:prose-invert max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-a:text-primary prose-ul:my-4 prose-li:my-1 text-foreground/90 leading-relaxed bg-card/40 border border-border/60 rounded-xl p-6 sm:p-8"
               dangerouslySetInnerHTML={{ __html: contentHtml }}
@@ -265,19 +265,6 @@ export function JobDetailView({
                     Apply <ExternalLink className="ml-2 w-4 h-4" />
                   </Button>
                 </JobApplicationButton>
-
-                <div className="pt-4 border-t border-border/40 space-y-2">
-                  <Button variant="outline" size="sm" asChild className="w-full text-xs">
-                    <Link href="/salary-calculator" className="flex items-center justify-center gap-1.5">
-                      <Calculator className="w-3.5 h-3.5" /> Check Web3 Salary Calculator
-                    </Link>
-                  </Button>
-                  <Button variant="ghost" size="sm" asChild className="w-full text-xs">
-                    <Link href={`/companies/${companySlug}`} className="flex items-center justify-center gap-1.5">
-                      <Building2 className="w-3.5 h-3.5" /> More from {job.company}
-                    </Link>
-                  </Button>
-                </div>
               </CardContent>
             </Card>
 
