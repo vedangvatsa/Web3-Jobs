@@ -66,9 +66,9 @@ export function getJobSlug(job: Job): string {
   const title = cleanShortTitle(job.title || 'role');
   const baseSlug = `${company}-${title}`.replace(/-+/g, '-');
 
-  // Use a very short 2-character hex suffix of the ID to prevent conflicts in listings,
-  // making it extremely clean (e.g. /bitgo-onboarding-73 or /coinbase-backend-83)
-  const shortId = (job.id || '').replace(/[^a-z0-9]/gi, '').slice(-2).toLowerCase();
+  // Use a short deterministic 5-character suffix of the ID to guarantee absolute uniqueness across millions of jobs
+  // while keeping the slug extremely clean (e.g. /bitgo-onboarding-93731 or /coinbase-backend-49830)
+  const shortId = (job.id || '').replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
 
   return shortId ? `${baseSlug}-${shortId}` : baseSlug;
 }
