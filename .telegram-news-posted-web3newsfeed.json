@@ -506,6 +506,9 @@
   "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
   "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
   "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+  "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1425,6 +1428,12 @@
   "Bitcoin nears $80,000, but analysts say the next pullback will be key",
   "Stand With Crypto Endorses Candidates for US Election",
   "Coinbase-affiliated advocacy group endorses candidates for US midterms",
+  "Solana network votes on major tokenomics proposal",
+  "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+  "Jeonbuk Bank Partners With Ripple for Cross-Border Payments",
+  "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
+  "AI Platform Hugging Face Explores $13 Billion Sale",
+  "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1463,5 +1472,8 @@
   "fp:above50|asset|bear|clos|ema|fiv|focus|follow|hol|jackson",
   "fp:application|bas|can|coinbas|decentraliz|equity|financ|host|network|stock",
   "fp:000|analyst|asset|back|bank|begin|but|charter|client|corporat",
-  "fp:advocacy|affiliat|ahead|aim|back|candidat|coinbas|cryptocurrency|elect|election"
+  "fp:advocacy|affiliat|ahead|aim|back|candidat|coinbas|cryptocurrency|elect|election",
+  "fp:000|800|aim|amount|annual|burn|creation|daily|governanc|increas",
+  "fp:are|asia|asian|bank|border|compet|cross|cut|express|hub",
+  "fp:13b|agent|attract|breach|buyout|despit|explor|fac|hack|hugg"
 ]
