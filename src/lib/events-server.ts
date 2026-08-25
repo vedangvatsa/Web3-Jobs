@@ -5,7 +5,9 @@ import { Web3Event, normalizeCountry, getEventSlug, getEventEcosystems, getEvent
 // Quality gate: drops spam webinars, cancelled listings, and non-web3 meetups
 // that leak into the aggregated feed. Curated premier events always pass.
 const SPAMMY = /earn (crypto|money|income)|passive income|get rich|financial freedom|trading signal|forex|scam|live zoom|webinar|100x|millionaire|double your|guaranteed (profit|return)/i;
-const NON_WEB3_NAME = /bodywork|breakup|keychains|acting workshop|finissage|culture club|apéro|data jam|electronics and computing|ssis|film festival|wellness & networking|charming|bestie|wind take you/i;
+const ONLINE = /\bonline\b|\bvirtual\b/i;
+const AMA = /\bAMA\b|ask me anything/i;
+const NON_WEB3_NAME = /bodywork|breakup|over your ex|keychains|acting workshop|finissage|culture club|apéro|data jam|electronics and computing|ssis|film festival|wellness & networking|charming|bestie|wind take you|reform room|outdoor workout|pilates/i;
 const WEB3_VOCAB = /crypto|bitcoin|btc\b|ethereum|\beth\b|ethglobal|ethcc|ethconf|ethrome|ethtaipei|ethtokyo|eth ?belgrade|blockchain|web ?3|defi|nfts?|solana|dao|token|altcoin|mining|stablecoin|lightning|hacker ?house|hackathon|consensus|token2049|xrp|ripple|zk\b|zksync|zero.?knowledge|superteam|pragma|hyperliquid|onchain|on-chain|lido|polygon|arbitrum|optimism|base chain|coinbase|binance|airdrop|wallet|dapp|smart contract|layer ?2|metaverse|gamefi|staking|yield|digital asset|decentralized|cardano|cosmos|polkadot|monad|aptos|\bsui\b|chainlink|blockcon|founders? dinner|coworking|co-working|launchpad|happy hour/i;
 
 function isQualityEvent(e: Web3Event): boolean {
@@ -14,6 +16,9 @@ function isQualityEvent(e: Web3Event): boolean {
   if (SPAMMY.test(text)) return false;
   if (/cancel/i.test(text)) return false;
   if (NON_WEB3_NAME.test(e.name)) return false;
+  if (AMA.test(e.name)) return false;
+  // All online/virtual feed events are low quality; curated events are exempt
+  if (ONLINE.test(e.name) || ONLINE.test(e.location ?? '')) return false;
   return WEB3_VOCAB.test(text);
 }
 

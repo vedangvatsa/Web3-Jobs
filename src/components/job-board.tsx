@@ -56,29 +56,32 @@ function useJobViewObserver(jobs: Job[]) {
 }
 
 export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
+ const [inputValue, setInputValue] = useState('');
  const [searchQuery, setSearchQuery] = useState('');
  const [isPending, startTransition] = useTransition();
  const [visibleCount, setVisibleCount] = useState(INITIAL_JOBS_COUNT);
  const sentinelRef = useRef<HTMLDivElement>(null);
 
- const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-  startTransition(() => {
-   setSearchQuery(e.target.value);
-   setVisibleCount(INITIAL_JOBS_COUNT);
-  });
- };
-
- const debouncedQuery = useDebounce(searchQuery, 200);
+ // Debounce updating the searchQuery inside a non-blocking transition
+ useEffect(() => {
+  const handler = setTimeout(() => {
+   startTransition(() => {
+    setSearchQuery(inputValue);
+    setVisibleCount(INITIAL_JOBS_COUNT);
+   });
+  }, 200);
+  return () => clearTimeout(handler);
+ }, [inputValue]);
 
  const filteredJobs = useMemo(() => {
-  if (!debouncedQuery) return initialJobs;
-  const lowercasedQuery = debouncedQuery.toLowerCase();
+  if (!searchQuery) return initialJobs;
+  const lowercasedQuery = searchQuery.toLowerCase();
   return initialJobs.filter(
    (job) =>
     job.title.toLowerCase().includes(lowercasedQuery) ||
     job.company.toLowerCase().includes(lowercasedQuery)
   );
- }, [initialJobs, debouncedQuery]);
+ }, [initialJobs, searchQuery]);
 
  // When searching, show all results; otherwise paginate
  const isSearching = searchQuery.length > 0;
@@ -111,8 +114,8 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
     <div className="relative">
      <Input
       placeholder="Search by role, company, keyword..."
-      value={searchQuery}
-      onChange={handleSearchChange}
+      value={inputValue}
+      onChange={e => setInputValue(e.target.value)}
       className="w-full text-base pl-12 h-12 rounded-full shadow-sm focus-visible:ring-offset-4"
       data-toolname="searchWeb3Jobs"
       data-tooldescription="Search 10,000+ Web3 job listings by role, company, or keyword. Returns jobs with title, company, location, type, and apply link."

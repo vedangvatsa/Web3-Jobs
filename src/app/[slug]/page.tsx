@@ -359,6 +359,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     alt={event.name}
                     className="w-full h-full object-cover"
                     loading="eager"
+                    fetchPriority="high"
+                    decoding="async"
                   />
                 </div>
               )}

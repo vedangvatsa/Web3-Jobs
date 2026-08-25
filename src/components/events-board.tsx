@@ -105,11 +105,13 @@ function EventCardImage({
   name,
   type,
   format,
+  index,
 }: {
   src?: string | null;
   name: string;
   type: EventType;
   format: string;
+  index?: number;
 }) {
   const [hasError, setHasError] = useState(false);
   const initial = name.replace(/[^a-zA-Z0-9]/g, '').charAt(0).toUpperCase() || 'W';
@@ -141,12 +143,15 @@ function EventCardImage({
     );
   }
 
+  const isAboveFold = index !== undefined && index < 3;
+
   return (
     <img
       src={src}
       alt={name}
       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 ease-out"
-      loading="lazy"
+      loading={isAboveFold ? "eager" : "lazy"}
+      fetchPriority={index === 0 ? "high" : undefined}
       decoding="async"
       onError={() => setHasError(true)}
     />
@@ -474,7 +479,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
       {/* Grid View */}
       {viewMode === 'grid' && (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {visibleEvents.map(event => {
+          {visibleEvents.map((event, index) => {
             const type = getEventType(event);
             const format = getEventFormat(event);
             const ecosystems = getEventEcosystems(event);
@@ -497,6 +502,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
                       name={event.name}
                       type={type}
                       format={format}
+                      index={index}
                     />
 
                     {/* Top Floating Badges */}
