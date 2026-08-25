@@ -146,17 +146,9 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
         data-company={job.company}
         data-source={job.source}
         data-date={job.date}
+        className="h-full"
        >
-        <JobApplicationButton
-         jobId={job.id}
-         jobTitle={job.title}
-         companyName={job.company}
-         jobUrl={job.link}
-         source={job.source}
-         date={job.date}
-        >
-         <JobCard job={job} />
-        </JobApplicationButton>
+        <JobCard job={job} />
        </div>
      ))}
     </div>
