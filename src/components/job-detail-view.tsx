@@ -187,7 +187,7 @@ export function JobDetailView({
 
               <Button variant="outline" size="sm" asChild className="w-full text-xs">
                 <Link href={`/companies/${companySlug}`}>
-                  View {job.company}
+                  More roles by {job.company}
                 </Link>
               </Button>
             </div>
