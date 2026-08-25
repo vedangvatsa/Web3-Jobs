@@ -5,6 +5,7 @@ import type { Job } from '@/types';
 import * as fs from 'fs';
 import * as path from 'path';
 import { cleanPublishText } from '@/lib/noslop';
+import { getOneWordRole } from './job-slugs';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 
@@ -152,7 +153,27 @@ export async function getJobs(): Promise<Job[]> {
   const freshJobs = web3Jobs.filter(job => new Date(job.date) > thirtyDaysAgo);
 
   // Distribute so no single company dominates
-  return distributeJobsByCompany(freshJobs);
+  const distributed = distributeJobsByCompany(freshJobs);
+
+  // Generate stable serial slugs sorted by posting date (oldest first) so new jobs always append sequentially
+  const stableSorted = [...distributed].sort((a, b) => {
+    const diff = new Date(a.date).getTime() - new Date(b.date).getTime();
+    if (diff !== 0) return diff;
+    return a.id.localeCompare(b.id);
+  });
+
+  const counters: Record<string, number> = {};
+  const slugMap = new Map<string, string>();
+  for (const job of stableSorted) {
+    const roleWord = getOneWordRole(job.title);
+    counters[roleWord] = (counters[roleWord] || 0) + 1;
+    slugMap.set(job.id, `${roleWord}${counters[roleWord]}`);
+  }
+
+  return distributed.map(job => ({
+    ...job,
+    slug: slugMap.get(job.id),
+  }));
  } catch (error) {
   console.error('[getJobs] Could not read jobs cache:', error);
   return [];

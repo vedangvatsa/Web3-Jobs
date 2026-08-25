@@ -50,10 +50,10 @@ export function getOneWordRole(title: string): string {
  *      "/associate-de40"
  */
 export function getJobSlug(job: Job): string {
+  if (job.slug) {
+    return job.slug;
+  }
   const roleWord = getOneWordRole(job.title || 'job');
-
-  // Use a short deterministic 5-character suffix of the ID to guarantee absolute uniqueness across millions of jobs
   const shortId = (job.id || '').replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
-
-  return shortId ? `${roleWord}-${shortId}` : roleWord;
+  return shortId ? `${roleWord}${shortId}` : roleWord;
 }
