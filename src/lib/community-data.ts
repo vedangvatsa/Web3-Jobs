@@ -60,7 +60,6 @@ export const partnersLogos = [
   { name: 'ETH Enugu', src: '/logo/partners/ethenugu.png', alt: 'ETH Enugu logo'},
   { name: 'FBS', src: '/logo/partners/fbs.png', alt: 'FBS logo'},
   { name: 'LBS', src: '/logo/partners/lbs.png', alt: 'LBS logo'},
-  { name: 'The Metaverse Institute', src: '/logo/partners/The-Metaverse-Institute-partners-with-Hashtag-Web3.png', alt: 'The Metaverse Institute logo'},
 ];
 
 export const mediaLogos = [
