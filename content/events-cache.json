@@ -1,33 +1,5 @@
 [
   {
-    "id": "luma-host-evt-7Iz2lapjAUQcL21",
-    "name": "AMA with Atharv",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-08-25T12:30:00.000Z",
-    "endDate": "2026-08-25T13:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/ama-with-atharv-stin",
-    "coverImage": "https://images.lumacdn.com/uploads/rj/d77453e6-6f24-41ba-94da-5b522e3e89a5.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-host-evt-uZcNvXgLxoQ26if",
-    "name": "Superteam India Poker Night",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-08-25T16:00:00.000Z",
-    "endDate": "2026-08-25T17:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/dkbdwqpp",
-    "coverImage": "https://images.lumacdn.com/uploads/s9/67ccf0a8-512a-4b6d-963e-745963bd9b27.jpg",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-NFMRY96mTUrnmrm",
     "name": "Blockchain Tuesday: AI, Quantum & Trading - Is Technology Moving Faster Than Security?",
     "description": "",
@@ -140,34 +112,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-6AOHAASiPKsinbz",
-    "name": "DAO Suisse General Assembly 2026",
-    "description": "",
-    "startDate": "2026-08-26T15:00:00.000Z",
-    "endDate": "2026-08-26T19:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Switzerland",
-    "url": "https://lu.ma/781ogyht",
-    "coverImage": "https://images.lumacdn.com/uploads/5v/fa6dd399-00f4-409f-b474-668fc251e77f.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-XJRrcu8kmK4u3aN",
-    "name": "Liebe, Geld & Bitcoin – Wie Paare über Finanzen sprechen (DE, Zürich)",
-    "description": "",
-    "startDate": "2026-08-26T16:00:00.000Z",
-    "endDate": "2026-08-26T19:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Switzerland",
-    "url": "https://lu.ma/7n6qkl04",
-    "coverImage": "https://images.lumacdn.com/uploads/8w/6ec84e2f-b8f6-45b9-be50-7a8639b6cdd1.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-mwWdNObjCvicvmw",
     "name": "SuperteamTR Belgrade Meetup 🍻",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -206,6 +150,20 @@
     "location": "Amsterdam, Netherlands",
     "url": "https://lu.ma/CryptoDrinks_Amsterdam_August",
     "coverImage": "https://images.lumacdn.com/uploads/l8/0fba8375-2fd8-4de3-91b4-8b4ede52f7d1.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-IAoGeEFwsWu8cDF",
+    "name": "BUZOKU | AI & Crypto Meetup",
+    "description": "",
+    "startDate": "2026-08-26T17:30:00.000Z",
+    "endDate": "2026-08-26T19:00:00.000Z",
+    "city": "Barcelona",
+    "country": "Spain",
+    "location": "Barcelona, Spain",
+    "url": "https://lu.ma/nihoahg3",
+    "coverImage": "https://images.lumacdn.com/event-covers/u7/e65a6e05-453a-472c-80c8-6bdd415280a3.jpg",
     "source": "luma",
     "month": "August 2026"
   },
@@ -462,34 +420,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-315990029",
-    "name": "ZK Learning Group: Introduction to ZkSync",
-    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
-    "startDate": "2026-08-27T09:00:00-07:00",
-    "endDate": "2026-08-27T09:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/lfdt-seattle-chapter/events/315990029/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-316021768",
-    "name": "Live AI Crypto Trading Demo + Founder Q&A",
-    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
-    "startDate": "2026-08-27T11:00:00-07:00",
-    "endDate": "2026-08-27T11:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/carpoolcrypto/events/316021768/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-mbO2qzT98QArnfc",
     "name": "Stablecoin Speakeasy",
     "description": "",
@@ -515,6 +445,20 @@
     "url": "https://lu.ma/nb8ge2dg",
     "coverImage": "https://images.lumacdn.com/uploads/e6/1d38e199-22b4-4447-8862-e0a2d71c7aba.png",
     "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-c8bSoEY0K3wEXlL",
+    "name": "CryptoMondays X Nairod Invest Day",
+    "description": "",
+    "startDate": "2026-08-28T07:00:00.000Z",
+    "endDate": "2026-08-28T16:00:00.000Z",
+    "city": "Courbevoie",
+    "country": "France",
+    "location": "Courbevoie, France",
+    "url": "https://lu.ma/5db958ws",
+    "coverImage": "https://images.lumacdn.com/uploads/9b/b5997292-c0ae-454b-be11-1e000e5a5602.png",
+    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -560,6 +504,34 @@
     "month": "August 2026"
   },
   {
+    "id": "luma-host-evt-dSVTRTCeQZKE3Ec",
+    "name": "Toronto Solana VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-28T13:30:00.000Z",
+    "endDate": "2026-08-28T22:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/ipi30hny",
+    "coverImage": "https://images.lumacdn.com/uploads/xg/7c69b7da-6ac9-4a0a-b5ff-9f242e5998f6.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-Stg4LGp4BA5nwL1",
+    "name": "Montreal VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-28T13:30:00.000Z",
+    "endDate": "2026-08-28T21:30:00.000Z",
+    "city": "Montréal",
+    "country": "Canada",
+    "location": "Montréal, Canada",
+    "url": "https://lu.ma/nfhvx2dz",
+    "coverImage": "https://images.lumacdn.com/event-covers/bw/0599c98d-915f-4c33-9471-92269e672a9d.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-7QmJchNnzKUraiJ",
     "name": "Skyline Coworking CANCELLED",
     "description": "Events for the Solana ecosystem in NYC 🗽",
@@ -570,6 +542,34 @@
     "location": "New York, United States",
     "url": "https://lu.ma/16mtw7jo",
     "coverImage": "https://images.lumacdn.com/uploads/vc/941c67b0-a287-4fe4-b5e6-d019950db127.jpg",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-xl85nAVNsu2sa4C",
+    "name": "STUK Member Evening: Inside Product at Solana",
+    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
+    "startDate": "2026-08-28T17:00:00.000Z",
+    "endDate": "2026-08-28T21:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/STUK-Member-Evening-Inside-Product",
+    "coverImage": "https://images.lumacdn.com/uploads/d0/22db4592-2f67-497f-9cf4-21abde2bcc8a.png",
+    "source": "luma-trusted",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-host-evt-1VsOIcGBaIWowKB",
+    "name": "Vancouver VibeStation",
+    "description": "Building the Solana ecosystem in Canada 🇨🇦",
+    "startDate": "2026-08-28T17:00:00.000Z",
+    "endDate": "2026-08-29T01:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/3s1kb1eu",
+    "coverImage": "https://images.lumacdn.com/event-covers/g7/e3cf8181-b6a3-4459-94ce-da3996d308f4.png",
     "source": "luma-trusted",
     "month": "August 2026"
   },
@@ -585,20 +585,6 @@
     "url": "https://lu.ma/claugpulse",
     "coverImage": "https://images.lumacdn.com/uploads/1f/63b9134e-f3ae-4a1b-a5ee-5e13c10f2585.jpg",
     "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "mu-315286686",
-    "name": "Real-Time Intelligence MCP: consulta datos en streaming con lenguaje natural",
-    "description": "Los datos en tiempo real son el próximo nivel.\n\nEn esta sesión conectaremos el servidor MCP de Real-Time Intelligence (RTI) de Fabric a un agente de IA para interactuar con Eventhouse y Azure Data Exp",
-    "startDate": "2026-08-28T08:00:00-07:00",
-    "endDate": "2026-08-28T08:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286686/",
-    "coverImage": null,
-    "source": "meetup",
     "month": "August 2026"
   },
   {
@@ -640,6 +626,20 @@
     "location": "Los Angeles, United States",
     "url": "https://lu.ma/summerhouse2026",
     "coverImage": "https://images.lumacdn.com/uploads/gh/e3046aaf-e7e2-459b-8a08-f4461192ef46.jpg",
+    "source": "luma",
+    "month": "August 2026"
+  },
+  {
+    "id": "luma-evt-2G43KJcTxGxrV8o",
+    "name": "MonkeDAO: 5º Aniversario",
+    "description": "",
+    "startDate": "2026-08-30T16:00:00.000Z",
+    "endDate": "2026-08-30T20:00:00.000Z",
+    "city": "Madrid",
+    "country": "Spain",
+    "location": "Madrid, Spain",
+    "url": "https://lu.ma/ozj03szk",
+    "coverImage": "https://images.lumacdn.com/uploads/q6/8822582c-1500-40de-a2f7-72cc21708741.png",
     "source": "luma",
     "month": "August 2026"
   },
@@ -697,6 +697,20 @@
     "url": "https://luma.com/sixp297m",
     "coverImage": null,
     "source": "ethereum-org",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-314107814",
+    "name": "Are You Thinking Too Small? That is the Question!",
+    "description": "**\"Are you thinking too small?\"**\n\n* Why successful leaders often become prisoners of their own success.\n* The danger of believing today's business defines tomorrow's potential.\n* Why comfortable assu",
+    "startDate": "2026-09-01T11:30:00-05:00",
+    "endDate": "2026-09-01T11:30:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/kansas-city-business-strategy-meetup-group/events/314107814/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -784,20 +798,6 @@
     "month": "September 2026"
   },
   {
-    "id": "mu-315286722",
-    "name": "Fabric IQ y Ontología MCP: la capa semántica que entiende tu negocio",
-    "description": "La sesión final lleva la serie al nivel más avanzado: la semántica empresarial como fundamento de todos los agentes.\n\nFabric IQ (GA desde Build 2026) es la capa de contexto compartido que unifica Data",
-    "startDate": "2026-09-04T08:00:00-07:00",
-    "endDate": "2026-09-04T08:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286722/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-0BccVSEUGaRakpD",
     "name": "ETHGlobal Happy Hour Tokyo with AKINDO",
     "description": "",
@@ -882,20 +882,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-P8SOblAuUmAsdt6",
-    "name": "Effizienter Arbeiten mit KI-Tools wie ChatGPT: Prompting für die öffentliche Verwaltung",
-    "description": "",
-    "startDate": "2026-09-08T07:15:00.000Z",
-    "endDate": "2026-09-08T15:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Switzerland",
-    "url": "https://lu.ma/zr10haoa",
-    "coverImage": "https://images.lumacdn.com/event-covers/hm/b6ff86bb-2827-42fd-87b6-a51ac1b14229.png",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-PTNz2gFhxFh5lPO",
     "name": "Boston Blockchain Week 2026: The Digital Infrastructure Stack",
     "description": "",
@@ -906,6 +892,20 @@
     "location": "Quincy, United States",
     "url": "https://lu.ma/bbw26tickets",
     "coverImage": "https://images.lumacdn.com/uploads/9e/d71fe488-c33d-480c-8300-f74c6c791f0e.jpg",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-VtWPJS6i3fUHNS3",
+    "name": "CryptoMondays x Boston Blockchain Week: Official Opening Night",
+    "description": "",
+    "startDate": "2026-09-08T21:30:00.000Z",
+    "endDate": "2026-09-09T00:00:00.000Z",
+    "city": "Quincy",
+    "country": "United States",
+    "location": "Quincy, United States",
+    "url": "https://lu.ma/CryptoMondaysBostonBlockchain2026",
+    "coverImage": "https://images.lumacdn.com/uploads/gn/2cc75fe3-d931-4ce2-9786-d2b821267058.png",
     "source": "luma",
     "month": "September 2026"
   },
@@ -1130,6 +1130,20 @@
     "location": "Austin, United States",
     "url": "https://lu.ma/cb3ejhww",
     "coverImage": "https://images.lumacdn.com/uploads/e2/48bf7fb3-602c-4ec8-83b8-308425abc5c7.jpg",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-SN7UWBBLgEM1tmn",
+    "name": "WoCS Austin X Cloudflare: The Forward Deployed Era + CS's Shift to Revenue",
+    "description": "",
+    "startDate": "2026-09-24T22:30:00.000Z",
+    "endDate": "2026-09-25T01:30:00.000Z",
+    "city": "Austin",
+    "country": "United States",
+    "location": "Austin, United States",
+    "url": "https://lu.ma/womenofcs-0soy",
+    "coverImage": "https://images.lumacdn.com/uploads/fb/f7ba8787-3bcf-4a98-b244-3aff7a1ab946.png",
     "source": "luma",
     "month": "September 2026"
   },
@@ -1495,6 +1509,20 @@
     "url": "https://conferenceindex.org/event/international-conference-on-smart-contracts-blockchain-and-cryptocurrencies-icscbc-2026-november-rome-it",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-pJHThGT11BBYohC",
+    "name": "CryptoMondays Wall Street, Fort Lauderdale and Miami Chapters come together to bring you the Official Blockchain Futurist Conference Kickoff",
+    "description": "",
+    "startDate": "2026-11-16T23:00:00.000Z",
+    "endDate": "2026-11-17T02:00:00.000Z",
+    "city": "Davie",
+    "country": "United States",
+    "location": "Davie, United States",
+    "url": "https://lu.ma/btlvlxvx",
+    "coverImage": "https://images.lumacdn.com/uploads/kw/d56cdd72-7937-49be-b9e9-c63e8571757b.png",
+    "source": "luma",
     "month": "November 2026"
   },
   {
