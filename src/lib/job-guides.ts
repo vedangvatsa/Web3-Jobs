@@ -51,21 +51,22 @@ export async function getJobBySlug(slug: string): Promise<Job | null> {
     }
   }
 
-  // 2. Match without trailing ID
+  // 2. Match without trailing digits/serial numbers
   for (const job of allJobs) {
     const fullSlug = getJobSlug(job);
-    const baseSlug = fullSlug.replace(/-[a-z0-9]{5}$/, '');
+    const baseSlug = fullSlug.replace(/\d+$/, '');
     if (baseSlug === cleanSlug) {
       return job;
     }
   }
 
-  // 3. Match by job ID suffix
-  const parts = cleanSlug.split('-');
-  const lastPart = parts[parts.length - 1];
-  if (lastPart && lastPart.length >= 5) {
+  // 3. Match by numeric suffix
+  const match = cleanSlug.match(/\d+$/);
+  if (match) {
+    const suffix = match[0];
     for (const job of allJobs) {
-      if (job.id.toLowerCase().endsWith(lastPart) || job.id.toLowerCase() === lastPart) {
+      const fullSlug = getJobSlug(job);
+      if (fullSlug.endsWith(suffix)) {
         return job;
       }
     }

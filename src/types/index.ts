@@ -7,6 +7,7 @@ export interface Job {
  link: string;
  date: string; // ISO string for serialization
  source: string;
+ slug?: string;
 }
 
 export interface Article {
