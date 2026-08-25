@@ -1,49 +1,71 @@
 {
-  "$schema": "https://agenticresourcediscovery.org/schema/v1/ai-catalog.json",
+  "specVersion": "1.0.0",
   "name": "Hashtag Web3",
-  "description": "Agentic resource discovery catalog for Hashtag Web3 — Web3 job board, crypto career tools, blockchain events, and technical glossary.",
+  "description": "Agentic Resource Discovery catalog for Hashtag Web3 — Web3 job board, crypto career tools, blockchain events, and technical glossary.",
   "provider": {
-    "name": "Hashtag Web3 Inc.",
+    "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "resources": [
+  "entries": [
     {
-      "id": "openapi-spec",
-      "type": "openapi",
+      "id": "urn:air:hashtagweb3:openapi",
       "name": "Hashtag Web3 REST API",
       "description": "OpenAPI 3.1.0 specification for searching Web3 jobs, crypto news, events, and glossary definitions.",
+      "mediaType": "application/vnd.oai.openapi+json;version=3.1",
       "url": "https://hashtagweb3.com/openapi.json",
-      "version": "1.0.0"
+      "trustManifest": {
+        "identity": "https://hashtagweb3.com",
+        "verified": true,
+        "attestations": ["dns:hashtagweb3.com", "tls:hashtagweb3.com"]
+      }
     },
     {
-      "id": "mcp-server",
-      "type": "mcp",
-      "name": "Hashtag Web3 MCP Server",
-      "description": "Model Context Protocol server for searching blockchain jobs, glossary terms, events, and news.",
+      "id": "urn:air:hashtagweb3:mcp",
+      "name": "Hashtag Web3 Action MCP Server",
+      "description": "Model Context Protocol streamable-http server for job search, glossary lookups, and event queries.",
+      "mediaType": "application/json",
       "url": "https://hashtagweb3.com/.well-known/mcp/server-card.json",
-      "transport": "streamable-http",
-      "endpoint": "https://hashtagweb3.com/api/mcp"
+      "trustManifest": {
+        "identity": "https://hashtagweb3.com",
+        "verified": true,
+        "attestations": ["dns:hashtagweb3.com", "tls:hashtagweb3.com"]
+      }
     },
     {
-      "id": "agent-card",
-      "type": "agent-card",
-      "name": "Hashtag Web3 Agent Card",
-      "description": "Agent-to-Agent (A2A) capabilities manifest.",
-      "url": "https://hashtagweb3.com/.well-known/agent-card.json"
+      "id": "urn:air:hashtagweb3:mcp-docs",
+      "name": "Hashtag Web3 Documentation MCP Server",
+      "description": "Model Context Protocol server for querying career documentation, compensation benchmarks, and guides.",
+      "mediaType": "application/json",
+      "url": "https://hashtagweb3.com/.well-known/mcp-docs/server-card.json",
+      "trustManifest": {
+        "identity": "https://hashtagweb3.com",
+        "verified": true,
+        "attestations": ["dns:hashtagweb3.com", "tls:hashtagweb3.com"]
+      }
     },
     {
-      "id": "agent-skills",
-      "type": "skills",
-      "name": "Hashtag Web3 Agent Skills",
-      "description": "Index of specialized skills for LLMs and autonomous agents.",
-      "url": "https://hashtagweb3.com/.well-known/agent-skills/index.json"
+      "id": "urn:air:hashtagweb3:agent-skills",
+      "name": "Hashtag Web3 Agent Skills Index",
+      "description": "Index of specialized capabilities and skills for autonomous AI agents.",
+      "mediaType": "application/json",
+      "url": "https://hashtagweb3.com/.well-known/agent-skills/index.json",
+      "trustManifest": {
+        "identity": "https://hashtagweb3.com",
+        "verified": true,
+        "attestations": ["dns:hashtagweb3.com", "tls:hashtagweb3.com"]
+      }
     },
     {
-      "id": "nlweb-ask",
-      "type": "nlweb",
-      "name": "NLWeb Natural Language Query",
-      "description": "Microsoft NLWeb protocol query endpoint with streaming support.",
-      "url": "https://hashtagweb3.com/ask"
+      "id": "urn:air:hashtagweb3:nlweb",
+      "name": "NLWeb Natural Language Query Endpoint",
+      "description": "Microsoft NLWeb protocol query endpoint with streaming SSE support.",
+      "mediaType": "application/json",
+      "url": "https://hashtagweb3.com/ask",
+      "trustManifest": {
+        "identity": "https://hashtagweb3.com",
+        "verified": true,
+        "attestations": ["dns:hashtagweb3.com", "tls:hashtagweb3.com"]
+      }
     }
   ]
 }

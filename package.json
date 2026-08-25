@@ -1,6 +1,14 @@
 {
-  "name": "nextn",
-  "version": "0.1.0",
+  "name": "hashtagweb3",
+  "version": "1.0.0",
+  "homepage": "https://hashtagweb3.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedangvatsa/Web3-Jobs"
+  },
+  "bugs": {
+    "url": "https://github.com/vedangvatsa/Web3-Jobs/issues"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",

@@ -1,0 +1,19 @@
+---
+title: Hashtag Web3 — Documentation & Guides Scoped Context
+description: Documentation index for Web3 career playbooks, API references, salary calculators, and resume tools.
+canonical: https://hashtagweb3.com/docs
+last-updated: 2026-08-25
+---
+
+# Hashtag Web3 — Documentation & Guides
+
+> Scoped documentation index for developers, job seekers, and AI assistants accessing Hashtag Web3 documentation and career guides.
+
+## Documentation Surfaces
+
+- [Developer Portal](https://hashtagweb3.com/developers): Complete API documentation, curl examples, and authentication workflows.
+- [OpenAPI Specification](https://hashtagweb3.com/openapi.json): Machine-readable OpenAPI 3.1 schema.
+- [MCP Server Card](https://hashtagweb3.com/.well-known/mcp/server-card.json): Model Context Protocol integration guide.
+- [Agent Authentication](https://hashtagweb3.com/auth.md): WorkOS auth.md compliant agent identity specification.
+- [Web3 Career Playbook](https://hashtagweb3.com/blog): 700+ articles on smart contracts, DeFi, zero-knowledge, and remote work.
+- [Web3 Glossary](https://hashtagweb3.com/glossary): 200+ blockchain, cryptography, and protocol definitions.

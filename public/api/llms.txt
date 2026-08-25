@@ -1,0 +1,32 @@
+---
+title: Hashtag Web3 — API Scoped Context
+description: Direct API endpoint reference, rate limits, pagination conventions, and sandbox modes for autonomous AI agents.
+canonical: https://hashtagweb3.com/api
+last-updated: 2026-08-25
+---
+
+# Hashtag Web3 — API Scoped Context
+
+> Scoped documentation for querying Hashtag Web3 REST APIs, versioning policies, pagination, and error envelopes.
+
+## Base URLs
+- Production: `https://hashtagweb3.com/api/v1` (or `https://hashtagweb3.com/api`)
+- Sandbox: `https://hashtagweb3.com/api/v1?env=sandbox` or send `X-Sandbox: true` header.
+
+## Public Endpoints
+- `GET /api/v1/jobs`: Filter by `search`, `tag`, `company`, `limit`, `offset`, or `cursor`.
+- `GET /api/v1/news`: Crypto industry headlines with `search` and `limit`.
+- `GET /api/v1/events`: Conferences and hackathons with `search`, `type`, `country`.
+- `GET /api/v1/glossary`: 200+ blockchain definitions with `search`, `category`.
+- `POST /api/v1/jobs/batch`: Bulk operations endpoint.
+- `POST /api/v1/jobs/export`: Async jobs export (returns 202 Accepted).
+- `POST /ask`: Microsoft NLWeb query endpoint with SSE streaming.
+
+## Rate Limiting
+Standard RFC RateLimit headers are returned on all API responses:
+- `RateLimit-Limit: 120`
+- `RateLimit-Remaining: 119`
+- `RateLimit-Reset: 60`
+
+## Idempotency
+All mutating requests accept `Idempotency-Key` headers.
