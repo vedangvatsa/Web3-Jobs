@@ -1,59 +1,74 @@
 import type { Job } from '@/types';
 
 /**
- * Normalizes title to a short, clean, pretty slug component
+ * Condenses a title to its single most meaningful role noun
  */
 export function cleanShortTitle(title: string): string {
-  let t = title.toLowerCase();
+  const t = title.toLowerCase();
 
-  // Strip punctuation and parentheticals
-  t = t.replace(/[,/\\|()\[\]]/g, ' ');
+  if (t.includes('solidity') || t.includes('smart contract')) return 'solidity';
+  if (t.includes('rust')) return 'rust';
+  if (t.includes('zk') || t.includes('zero knowledge')) return 'zk';
+  if (t.includes('cryptography') || t.includes('cryptographer')) return 'cryptography';
+  if (t.includes('frontend') || t.includes('ui') || t.includes('ux')) return 'frontend';
+  if (t.includes('backend')) return 'backend';
+  if (t.includes('full stack') || t.includes('fullstack')) return 'fullstack';
+  if (t.includes('devops') || t.includes('infrastructure') || t.includes('reliability')) return 'devops';
+  if (t.includes('security') || t.includes('auditor') || t.includes('audit')) return 'security';
+  if (t.includes('qa') || t.includes('testing') || t.includes('quality')) return 'qa';
+  if (t.includes('trader') || t.includes('quant')) return 'trader';
+  if (t.includes('analyst')) return 'analyst';
+  if (t.includes('product manager') || t.includes('pm') || t.includes('product lead')) return 'pm';
+  if (t.includes('marketing') || t.includes('growth') || t.includes('growth')) return 'marketing';
+  if (t.includes('community') || t.includes('social')) return 'community';
+  if (t.includes('devrel') || t.includes('developer relations')) return 'devrel';
+  if (t.includes('compliance') || t.includes('mlro') || t.includes('legal')) return 'compliance';
+  if (t.includes('recruiter') || t.includes('talent') || t.includes('hr')) return 'recruiting';
+  if (t.includes('onboarding')) return 'onboarding';
+  if (t.includes('supervisor')) return 'supervisor';
+  if (t.includes('manager')) return 'manager';
+  if (t.includes('director')) return 'director';
+  if (t.includes('developer') || t.includes('engineer')) return 'developer';
+  if (t.includes('analyst')) return 'analyst';
+  if (t.includes('associate')) return 'associate';
 
-  // Shorten common long phrases to crisp equivalents
-  t = t.replace(/\bsoftware engineer\b/gi, 'engineer');
-  t = t.replace(/\bsoftware developer\b/gi, 'developer');
-  t = t.replace(/\bmachine learning\b/gi, 'ml');
-  t = t.replace(/\bdevops engineer\b/gi, 'devops');
-  t = t.replace(/\bsmart contracts?\b/gi, 'smart-contract');
-  t = t.replace(/\bzero knowledge\b/gi, 'zk');
-  t = t.replace(/\bbusiness development\b/gi, 'bizdev');
-  t = t.replace(/\bproduct manager\b/gi, 'product-manager');
-  t = t.replace(/\baccount manager\b/gi, 'account-manager');
-  t = t.replace(/\bhuman resources\b/gi, 'hr');
-
-  // Strip fluff/noise levels
-  t = t.replace(/\b(senior|staff|principal|lead|associate|junior|mid-level|entry-level|level|grade|tier)\b/gi, ' ');
-  t = t.replace(/\b(i|ii|iii|iv|v|vi)\b/gi, ' ');
-  t = t.replace(/\b(remote|global|worldwide|hybrid|onsite|americas|emea|apac|latam|us|uk|eu)\b/gi, ' ');
-
-  // Clean spacing
-  t = t.replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-
-  return t || 'engineer';
+  // Fallback to first two words
+  const words = t.replace(/[^a-z0-9\s]+/g, ' ').trim().split(/\s+/);
+  return words.slice(0, 2).join('-');
 }
 
 /**
- * Generates a short, pretty, direct slug like:
- * "coinbase-backend-engineer-8154"
- * "stripe-finance-engineer-8153"
- * "uniswap-solidity-engineer-1049"
- * "bitgo-onboarding-manager-8733"
+ * Shortens company name to its core brand
+ */
+function cleanShortCompany(company: string): string {
+  let c = company.toLowerCase();
+  c = c.replace(/\s+inc\.?$/i, '')
+       .replace(/\s+ltd\.?$/i, '')
+       .replace(/\s+llc\.?$/i, '')
+       .replace(/\s+corp\.?$/i, '')
+       .replace(/\s+labs?$/i, '')
+       .replace(/\s+technologies$/i, '')
+       .replace(/\s+mobile\s+money$/i, '')
+       .replace(/\s+metrics$/i, '')
+       .trim();
+  return c.replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+/**
+ * Generates an extremely short, pretty, direct slug like:
+ * "/bitgo-onboarding"
+ * "/coinbase-backend"
+ * "/polymarket-client"
+ * "/stripe-qa"
  */
 export function getJobSlug(job: Job): string {
-  const companyPart = (job.company || 'web3')
-    .toLowerCase()
-    .replace(/\s+inc\.?$/i, '')
-    .replace(/\s+ltd\.?$/i, '')
-    .replace(/\s+llc\.?$/i, '')
-    .replace(/\s+labs?$/i, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
+  const company = cleanShortCompany(job.company || 'web3');
+  const title = cleanShortTitle(job.title || 'role');
+  const baseSlug = `${company}-${title}`.replace(/-+/g, '-');
 
-  const titlePart = cleanShortTitle(job.title || 'role');
-  const baseSlug = `${companyPart}-${titlePart}`.replace(/-+/g, '-');
-
-  // Use a short deterministic 4-char ID hash to guarantee absolute uniqueness across thousands of jobs
-  const shortId = (job.id || '').replace(/[^a-z0-9]/gi, '').slice(-4).toLowerCase();
+  // Use a very short 2-character hex suffix of the ID to prevent conflicts in listings,
+  // making it extremely clean (e.g. /bitgo-onboarding-73 or /coinbase-backend-83)
+  const shortId = (job.id || '').replace(/[^a-z0-9]/gi, '').slice(-2).toLowerCase();
 
   return shortId ? `${baseSlug}-${shortId}` : baseSlug;
 }
