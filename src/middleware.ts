@@ -1,9 +1,16 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
+const AI_BOT_UA_REGEX = /(gptbot|claudebot|chatgpt-user|perplexitybot|google-extended|applebot-extended|ora-agent|deepseekbot|anthropic-ai|oai-searchbot|cohere-ai)/i;
+
+const AUTH_PROBE_PATHS = new Set(['/api', '/api/v1', '/v1', '/v2', '/agent/auth']);
+
 export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const searchParams = request.nextUrl.searchParams;
+  const userAgent = request.headers.get('user-agent') || '';
+  const accept = request.headers.get('accept') || '';
+  const idempotencyKey = request.headers.get('idempotency-key') || '';
 
   // Skip middleware for static assets and internal Next.js routes
   if (
@@ -16,17 +23,45 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // ── ?mode=agent — return machine-readable JSON platform overview ──
-  if (searchParams.get('mode') === 'agent' && (pathname === '/' || pathname === '')) {
-    return NextResponse.redirect(new URL('/api/agent-view', request.url), 302);
+  // ── WWW-Authenticate probe on API root endpoints ──
+  if (AUTH_PROBE_PATHS.has(pathname)) {
+    return NextResponse.json(
+      {
+        error: {
+          code: 'UNAUTHORIZED',
+          message: 'Authentication required for privileged operations. Public read operations on /api/jobs, /api/news, /api/events, and /api/glossary are unauthenticated.',
+          hint: 'Obtain an agent token via POST https://hashtagweb3.com/api/auth/register or query public endpoints directly.',
+          docUrl: 'https://hashtagweb3.com/auth.md',
+        },
+      },
+      {
+        status: 401,
+        headers: {
+          'Content-Type': 'application/json',
+          'WWW-Authenticate': 'Bearer resource_metadata="https://hashtagweb3.com/.well-known/oauth-protected-resource"',
+          'Access-Control-Allow-Origin': '*',
+          'Vary': 'Accept, Accept-Encoding, User-Agent',
+        },
+      }
+    );
   }
 
-  const accept = request.headers.get('accept') || '';
+  // ── ?mode=agent — return machine-readable JSON platform overview directly ──
+  if (searchParams.get('mode') === 'agent' && (pathname === '/' || pathname === '')) {
+    const rewriteResponse = NextResponse.rewrite(new URL('/api/agent-view', request.url));
+    rewriteResponse.headers.set('Vary', 'Accept, Accept-Encoding, User-Agent');
+    rewriteResponse.headers.set('Content-Type', 'application/json; charset=utf-8');
+    rewriteResponse.headers.set('X-Robots-Tag', 'index, follow');
+    rewriteResponse.headers.set('X-AI-Usage', 'indexing=yes, search=yes, inference=yes, citation=yes');
+    return rewriteResponse;
+  }
 
-  // ── Markdown Content Negotiation (acceptmarkdown.com) ──
-  // When AI agents request text/markdown on HTML routes, rewrite to the markdown render endpoint
-  // to dynamically serve content while maintaining Vary: Accept, Accept-Encoding headers.
-  if (accept.includes('text/markdown')) {
+  // ── Markdown URL fallback (.md twin on any page) & Markdown Content Negotiation & Bot-UA serving ──
+  const isExplicitMarkdownFile = pathname.endsWith('.md');
+  const isAcceptMarkdown = accept.includes('text/markdown');
+  const isAIBot = AI_BOT_UA_REGEX.test(userAgent) && !pathname.startsWith('/api/') && !pathname.startsWith('/.well-known/');
+
+  if (isExplicitMarkdownFile || isAcceptMarkdown || isAIBot) {
     if (
       !pathname.startsWith('/api/') &&
       !pathname.startsWith('/.well-known/') &&
@@ -39,7 +74,7 @@ export function middleware(request: NextRequest) {
         new URL('/api/markdown-render', request.url)
       );
       rewriteResponse.headers.set('x-original-url', request.url);
-      rewriteResponse.headers.set('Vary', 'Accept, Accept-Encoding');
+      rewriteResponse.headers.set('Vary', 'Accept, Accept-Encoding, User-Agent');
       rewriteResponse.headers.set('Content-Type', 'text/markdown; charset=utf-8');
       rewriteResponse.headers.set('X-Robots-Tag', 'index, follow');
       rewriteResponse.headers.set('X-AI-Usage', 'indexing=yes, search=yes, inference=yes, citation=yes');
@@ -49,19 +84,22 @@ export function middleware(request: NextRequest) {
 
   // Add security + agentic web headers to all responses
   const response = NextResponse.next();
-  response.headers.set('Vary', 'Accept, Accept-Encoding');
+  response.headers.set('Vary', 'Accept, Accept-Encoding, User-Agent');
   response.headers.set('X-Robots-Tag', 'index, follow');
   response.headers.set('X-Content-Type-Options', 'nosniff');
   response.headers.set('X-Frame-Options', 'DENY');
   response.headers.set('Referrer-Policy', 'strict-origin-when-cross-origin');
   // Agentic Web - Content Signals
   response.headers.set('X-AI-Usage', 'indexing=yes, search=yes, inference=yes, citation=yes');
-  response.headers.set('Link', '</llms.txt>; rel="ai-context", </openapi.json>; rel="service-desc"');
+  response.headers.set('Link', '</llms.txt>; rel="ai-context", </openapi.json>; rel="service-desc", </.well-known/agents.json>; rel="agents", </.well-known/api-catalog>; rel="api-catalog"');
 
   if (pathname.startsWith('/api/')) {
     response.headers.set('RateLimit-Limit', '120');
     response.headers.set('RateLimit-Remaining', '119');
     response.headers.set('RateLimit-Reset', '60');
+    if (idempotencyKey) {
+      response.headers.set('Idempotency-Key', idempotencyKey);
+    }
   }
 
   return response;

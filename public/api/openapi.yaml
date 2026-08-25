@@ -65,6 +65,21 @@ paths:
             default: 0
             minimum: 0
             example: 0
+        - name: cursor
+          in: query
+          required: false
+          description: Cursor pagination token for streamable iteration.
+          schema:
+            type: string
+            example: "eyJvZmZzZXQiOjUwfQ=="
+        - name: X-Sandbox
+          in: header
+          required: false
+          description: Set to 'true' to execute queries against mock sandbox data.
+          schema:
+            type: string
+            enum: ["true", "false"]
+            example: "false"
       responses:
         '200':
           description: A paginated list of Web3 job postings.
@@ -84,6 +99,64 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ApiErrorResponse'
+  /api/jobs/export:
+    post:
+      operationId: exportJobsAsync
+      summary: Asynchronous Web3 Jobs Export
+      description: Initiates an asynchronous export of Web3 job listings. Returns 202 Accepted with Location header.
+      parameters:
+        - name: Idempotency-Key
+          in: header
+          required: false
+          description: Client idempotency key.
+          schema:
+            type: string
+            example: "7b8f-4a2e-9d1c"
+      responses:
+        '202':
+          description: Export job accepted.
+          headers:
+            Location:
+              description: URL to poll for job status.
+              schema:
+                type: string
+                example: "https://hashtagweb3.com/api/jobs/export/export_1758181"
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  job_id:
+                    type: string
+                    example: "export_1758181"
+                  status:
+                    type: string
+                    example: "queued"
+  /api/jobs/batch:
+    post:
+      operationId: batchSearchJobs
+      summary: Bulk / Batch Search Web3 Jobs
+      description: Executes multiple job search queries in a single HTTP batch request.
+      parameters:
+        - name: Idempotency-Key
+          in: header
+          required: false
+          description: Client idempotency key.
+          schema:
+            type: string
+            example: "9a1b-3c4d-5e6f"
+      responses:
+        '200':
+          description: Batch query results.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  batch_results:
+                    type: array
+                    items:
+                      type: object
   /api/news:
     get:
       operationId: listNews

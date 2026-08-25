@@ -222,6 +222,45 @@ export default async function RootLayout({
      }) }}
     />
     <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Service',
+        name: 'Hashtag Web3 Career & Talent Intelligence Platform',
+        provider: {
+          '@type': 'Organization',
+          name: siteConfig.name,
+          url: siteConfig.url,
+        },
+        serviceType: 'Web3 Employment and Career Intelligence',
+        description: 'Providing real-time Web3 job market intelligence, salary benchmarks, and technical blockchain career guides.',
+        url: siteConfig.url,
+        areaServed: 'Worldwide',
+        hasOfferCatalog: {
+          '@type': 'OfferCatalog',
+          name: 'Web3 Career Services',
+          itemListElement: [
+            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Web3 Job Search' } },
+            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Web3 Salary Calculator' } },
+            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Blockchain Glossary API' } },
+          ],
+        },
+      }) }}
+    />
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
+          { '@type': 'ListItem', position: 2, name: 'Jobs', item: `${siteConfig.url}/jobs` },
+          { '@type': 'ListItem', position: 3, name: 'Developers', item: `${siteConfig.url}/developers` },
+          { '@type': 'ListItem', position: 4, name: 'Glossary', item: `${siteConfig.url}/glossary` },
+        ],
+      }) }}
+    />
+    <script
      type="application/ld+json"
      dangerouslySetInnerHTML={{ __html: JSON.stringify({
        '@context': 'https://schema.org',
@@ -269,6 +308,31 @@ export default async function RootLayout({
          },
        ],
      }) }}
+    />
+    <Script
+      id="webmcp-registration"
+      strategy="afterInteractive"
+      dangerouslySetInnerHTML={{
+        __html: `
+          if (typeof window !== 'undefined') {
+            try {
+              const mc = window.modelContext || document.modelContext || navigator.modelContext;
+              if (mc && typeof mc.registerTool === 'function') {
+                mc.registerTool({
+                  name: 'search_jobs',
+                  description: 'Search verified Web3, crypto, DeFi, and blockchain jobs',
+                  parameters: { type: 'object', properties: { search: { type: 'string' }, limit: { type: 'number' } } }
+                });
+                mc.registerTool({
+                  name: 'search_glossary',
+                  description: 'Search 200+ blockchain glossary definitions',
+                  parameters: { type: 'object', properties: { search: { type: 'string' } } }
+                });
+              }
+            } catch(e){}
+          }
+        `,
+      }}
     />
     <Script
      id="gtag-script"

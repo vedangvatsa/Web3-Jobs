@@ -1,48 +1,42 @@
 {
-  "$schema": "https://schema.org",
-  "version": "1.0.0",
-  "name": "Hashtag Web3 Agent Skills Index",
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "name": "Hashtag Web3 Agent Skills",
   "description": "Index of specialized capabilities and skills for AI agents querying Hashtag Web3.",
   "skills": [
     {
-      "id": "search-web3-jobs",
-      "name": "Search Web3 & Crypto Jobs",
-      "description": "Find verified job listings across blockchain, crypto, DeFi, and DAO companies with title, company, tag, and salary filters.",
-      "endpoint": "https://hashtagweb3.com/api/jobs",
-      "method": "GET",
-      "parameters": ["search", "tag", "company", "limit", "offset"]
+      "name": "search_jobs",
+      "type": "skill-md",
+      "description": "Search verified Web3, crypto, DeFi, and blockchain jobs with title, company, tag, and salary filters.",
+      "url": "https://hashtagweb3.com/api/v1/jobs",
+      "digest": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "id": "lookup-blockchain-glossary",
-      "name": "Lookup Blockchain Glossary Terms",
+      "name": "lookup_glossary",
+      "type": "skill-md",
       "description": "Retrieve comprehensive definitions and technical explanations for 200+ blockchain, consensus, and cryptography concepts.",
-      "endpoint": "https://hashtagweb3.com/api/glossary",
-      "method": "GET",
-      "parameters": ["search", "category", "limit"]
+      "url": "https://hashtagweb3.com/api/v1/glossary",
+      "digest": "sha256:4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     },
     {
-      "id": "get-web3-events",
-      "name": "Discover Web3 Events & Hackathons",
+      "name": "get_events",
+      "type": "skill-md",
       "description": "Search upcoming global crypto conferences, hackathons, and developer summits by type and country.",
-      "endpoint": "https://hashtagweb3.com/api/events",
-      "method": "GET",
-      "parameters": ["search", "type", "country", "limit"]
+      "url": "https://hashtagweb3.com/api/v1/events",
+      "digest": "sha256:1a84f32e6a3d9021e1e0750ff8cb67a0300a89d71c49cc141c2c31e64d59a8ef"
     },
     {
-      "id": "get-crypto-news",
-      "name": "Get Real-time Crypto News",
+      "name": "get_news",
+      "type": "skill-md",
       "description": "Retrieve aggregated news headlines from premier blockchain publications.",
-      "endpoint": "https://hashtagweb3.com/api/news",
-      "method": "GET",
-      "parameters": ["search", "limit"]
+      "url": "https://hashtagweb3.com/api/v1/news",
+      "digest": "sha256:9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
     },
     {
-      "id": "nlweb-query",
-      "name": "Natural Language Question Answering",
+      "name": "nlweb_query",
+      "type": "skill-md",
       "description": "Query Web3 job market intelligence using natural-language questions via Microsoft NLWeb protocol.",
-      "endpoint": "https://hashtagweb3.com/ask",
-      "method": "POST",
-      "parameters": ["query", "stream"]
+      "url": "https://hashtagweb3.com/ask",
+      "digest": "sha256:5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
     }
   ]
 }

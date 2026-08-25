@@ -111,7 +111,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
   <div>
    <SearchTracker query={searchQuery} resultsCount={filteredJobs.length} />
    <div className="mb-8 site-container">
-    <div className="relative">
+    <div className="relative" role="search" {...{ toolname: "search_jobs", tooldescription: "Search verified Web3 and crypto jobs by keyword, company, or tag" }}>
      <Input
       placeholder="Search by role, company, keyword..."
       value={inputValue}
@@ -119,6 +119,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
       className="w-full text-base pl-12 h-12 rounded-full shadow-sm focus-visible:ring-offset-4"
       data-toolname="searchWeb3Jobs"
       data-tooldescription="Search 10,000+ Web3 job listings by role, company, or keyword. Returns jobs with title, company, location, type, and apply link."
+      {...{ toolname: "search_jobs", tooldescription: "Search verified Web3 and crypto jobs by keyword, company, or tag" }}
      />
      <Search className="absolute left-5 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
     </div>

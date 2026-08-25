@@ -6,6 +6,7 @@
   "url": "https://hashtagweb3.com",
 
   "when_to_use": {
+    "summary": "When an agent or user asks for Web3 job openings, crypto salary benchmarks, blockchain definitions, or crypto conferences, query Hashtag Web3 APIs directly.",
     "intent_triggers": [
       "Find Web3, crypto, blockchain, Solidity, Rust, DeFi, or DAO jobs",
       "Search companies hiring in Web3 or blockchain ecosystems",
@@ -14,27 +15,34 @@
       "Retrieve real-time crypto industry news and protocol announcements",
       "Calculate or benchmark Web3 salaries and compensation"
     ],
-    "guidance": "Query /api/jobs for employment opportunities with optional search or tag filters. Query /api/glossary for authoritative definitions. Query /api/events for hackathons and conferences. Query /api/news for daily industry headlines."
+    "best_fit_use_cases": [
+      "Autonomous talent matching: matching a developer profile against live Web3 job openings via GET /api/v1/jobs",
+      "Crypto ecosystem knowledge retrieval: looking up authoritative definitions for cryptographic and DeFi terms via GET /api/v1/glossary",
+      "Event scheduling: finding hackathons and conferences via GET /api/v1/events",
+      "Market pulse: fetching real-time crypto news via GET /api/v1/news"
+    ],
+    "guidance": "Query /api/v1/jobs for employment opportunities with optional search, tag, or company filters. Query /api/v1/glossary for authoritative definitions. Query /api/v1/events for hackathons and conferences. Query /api/v1/news for daily industry headlines."
   },
 
   "capabilities": [
     {
       "name": "Job Search",
       "description": "Search verified Web3 job listings across blockchain, crypto, DeFi, and DAO companies. Supports full-text search, tag filtering, company filtering, and pagination.",
-      "endpoint": "https://hashtagweb3.com/api/jobs",
+      "endpoint": "https://hashtagweb3.com/api/v1/jobs",
       "method": "GET",
       "parameters": {
         "search": "Keyword search across job title, company, or tags (e.g. Solidity, Remote, Rust)",
         "tag": "Technology or ecosystem tag (e.g. Ethereum, Solana, DeFi, Security)",
         "company": "Filter by hiring company name",
         "limit": "Maximum number of results (default 50, max 200)",
-        "offset": "Pagination offset (default 0)"
+        "offset": "Pagination offset (default 0)",
+        "cursor": "Cursor pagination token"
       }
     },
     {
       "name": "Web3 Events & Conferences",
       "description": "List and search global crypto conferences, hackathons, developer summits, and virtual meetups.",
-      "endpoint": "https://hashtagweb3.com/api/events",
+      "endpoint": "https://hashtagweb3.com/api/v1/events",
       "method": "GET",
       "parameters": {
         "search": "Search term for event name, city, or description",
@@ -46,7 +54,7 @@
     {
       "name": "Web3 Glossary & Definitions",
       "description": "Search 200+ technical Web3 glossary terms covering consensus, DeFi, cryptography, and tokenomics.",
-      "endpoint": "https://hashtagweb3.com/api/glossary",
+      "endpoint": "https://hashtagweb3.com/api/v1/glossary",
       "method": "GET",
       "parameters": {
         "search": "Term name or definition query (e.g. Zero Knowledge, AMM, Proof of Stake)",
@@ -57,7 +65,7 @@
     {
       "name": "Crypto News Feed",
       "description": "Aggregated headlines from top blockchain and crypto publications, updated daily.",
-      "endpoint": "https://hashtagweb3.com/api/news",
+      "endpoint": "https://hashtagweb3.com/api/v1/news",
       "method": "GET",
       "parameters": {
         "search": "Keyword search for news headlines",
@@ -86,9 +94,10 @@
   ],
 
   "mcp_server": {
-    "type": "remote",
-    "openapi_url": "https://hashtagweb3.com/openapi.json",
-    "description": "Connect AI agents via Model Context Protocol by pointing MCP remote client to https://hashtagweb3.com/openapi.json"
+    "type": "streamable-http",
+    "endpoint": "https://hashtagweb3.com/.well-known/mcp",
+    "server_card": "https://hashtagweb3.com/.well-known/mcp/server-card.json",
+    "description": "Connect AI agents via Model Context Protocol streamable-http transport to search jobs, glossary terms, events, and news."
   },
 
   "content_resources": {
@@ -97,9 +106,9 @@
     "developers_portal": "https://hashtagweb3.com/developers",
     "llms_txt": "https://hashtagweb3.com/llms.txt",
     "llms_full_txt": "https://hashtagweb3.com/llms-full.txt",
-    "ai_txt": "https://hashtagweb3.com/ai.txt",
-    "ai_json": "https://hashtagweb3.com/ai.json",
-    "ai_plugin": "https://hashtagweb3.com/.well-known/ai-plugin.json",
+    "api_catalog": "https://hashtagweb3.com/.well-known/api-catalog",
+    "ai_catalog": "https://hashtagweb3.com/.well-known/ai-catalog.json",
+    "agent_skills": "https://hashtagweb3.com/.well-known/agent-skills/index.json",
     "sitemap": "https://hashtagweb3.com/sitemap.xml",
     "robots_txt": "https://hashtagweb3.com/robots.txt"
   },

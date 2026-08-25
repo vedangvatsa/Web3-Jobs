@@ -28,6 +28,15 @@ export default function NotFound() {
       >
        Browse Jobs
       </Link>
+      <div className="sr-only" data-ai-agent="recovery-sitemap">
+       <p>404 Resource Not Found. AI agents can recover using:</p>
+       <ul>
+        <li><a href="/llms.txt">LLMs Context Index: /llms.txt</a></li>
+        <li><a href="/sitemap.xml">XML Sitemap: /sitemap.xml</a></li>
+        <li><a href="/openapi.json">OpenAPI Spec: /openapi.json</a></li>
+        <li><a href="/developers">Developer Docs: /developers</a></li>
+       </ul>
+      </div>
      </div>
     </div>
    </main>

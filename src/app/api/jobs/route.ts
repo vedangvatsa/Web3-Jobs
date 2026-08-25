@@ -89,8 +89,24 @@ export async function GET(request: NextRequest) {
       filtered = filtered.filter((j) => j.company.toLowerCase().includes(c));
     }
 
+    const cursor = searchParams.get('cursor');
+    if (cursor) {
+      try {
+        const decoded = JSON.parse(Buffer.from(cursor, 'base64').toString('utf8'));
+        if (typeof decoded.offset === 'number') {
+          offset = decoded.offset;
+        }
+      } catch (e) {}
+    }
+
     const total = filtered.length;
     const paginated = filtered.slice(offset, offset + limit);
+
+    const nextOffset = offset + limit < total ? offset + limit : null;
+    const prevOffset = offset - limit >= 0 ? offset - limit : null;
+
+    const nextCursor = nextOffset !== null ? Buffer.from(JSON.stringify({ offset: nextOffset })).toString('base64') : null;
+    const prevCursor = prevOffset !== null ? Buffer.from(JSON.stringify({ offset: prevOffset })).toString('base64') : null;
 
     return NextResponse.json(
       {
@@ -100,6 +116,9 @@ export async function GET(request: NextRequest) {
           limit,
           offset,
           count: paginated.length,
+          cursor: cursor || null,
+          next_cursor: nextCursor,
+          prev_cursor: prevCursor,
         },
       },
       {
@@ -109,7 +128,7 @@ export async function GET(request: NextRequest) {
           'Access-Control-Allow-Origin': '*',
           'Access-Control-Allow-Methods': 'GET, OPTIONS',
           'Cache-Control': 'public, max-age=300, s-maxage=600, stale-while-revalidate=86400',
-          'Vary': 'Accept-Encoding, Accept',
+          'Vary': 'Accept-Encoding, Accept, User-Agent',
         },
       }
     );

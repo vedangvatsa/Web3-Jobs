@@ -1,4 +1,11 @@
-# Hashtagweb3.com
+---
+title: Hashtag Web3 — Web3 Jobs, Developer API & Blockchain Talent Intelligence
+description: Premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network.
+canonical: https://hashtagweb3.com
+last-updated: 2026-08-25
+---
+
+# Hashtag Web3
 
 > The leading platform for Web3 professionals — discover jobs, news, events, and educational resources in the blockchain ecosystem.
 
@@ -45,4 +52,4 @@ Join 60,000+ Web3 professionals in our growing community. Connect on Twitter/X, 
 
 - Website: https://hashtagweb3.com
 - Twitter: https://twitter.com/hashtagweb3
-- Email: hello@hashtagweb3.com
+- Email: contact@hashtagweb3.com
