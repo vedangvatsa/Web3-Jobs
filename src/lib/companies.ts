@@ -5,6 +5,10 @@ import { getJobs } from './jobs';
 import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
+import { remark } from 'remark';
+import remarkGfm from 'remark-gfm';
+import html from 'remark-html';
+import sanitizeHtml from 'sanitize-html';
 
 /**
  * Company content interface for markdown files
@@ -45,6 +49,28 @@ function createSlug(companyName: string): string {
 }
 
 /**
+ * Convert markdown company content to sanitized HTML
+ */
+async function markdownToHtml(markdown: string): Promise<string> {
+ const processed = await remark()
+  .use(remarkGfm)
+  .use(html, { sanitize: false })
+  .process(markdown);
+
+ return sanitizeHtml(processed.toString(), {
+  allowedTags: sanitizeHtml.defaults.allowedTags.concat([
+   'img', 'div', 'span', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'
+  ]),
+  allowedAttributes: {
+   ...sanitizeHtml.defaults.allowedAttributes,
+   '*': ['class'],
+   'a': ['href', 'name', 'target', 'rel'],
+   'img': ['src', 'alt', 'title', 'width', 'height'],
+  },
+ });
+}
+
+/**
  * Load company content from markdown file if exists
  */
 async function loadCompanyContent(slug: string): Promise<Partial<CompanyContent> | null> {
@@ -53,10 +79,10 @@ async function loadCompanyContent(slug: string): Promise<Partial<CompanyContent>
   const filePath = path.join(companiesDir, `${slug}.md`);
   const fileContent = await fs.readFile(filePath, 'utf-8');
   const { data, content } = matter(fileContent);
-  
+
   return {
    ...data,
-   about: content.trim(),
+   about: await markdownToHtml(content.trim()),
   } as Partial<CompanyContent>;
  } catch (error) {
   // No content file exists, return null

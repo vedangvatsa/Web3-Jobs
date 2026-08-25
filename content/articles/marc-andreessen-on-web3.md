@@ -7,7 +7,7 @@ image: 'https://picsum.photos/seed/maweb3/1200/630'
 category: Industry Insights
 data-ai-hint: man portrait
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 ## Marc Andreessen on Web3: The Internet's Next Evolution

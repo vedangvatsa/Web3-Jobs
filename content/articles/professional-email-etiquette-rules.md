@@ -8,7 +8,7 @@ image: 'https://picsum.photos/seed/email/1200/630'
 category: Career Guides
 data-ai-hint: professional email
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 ## Introduction: Your Emails Are Your Reputation

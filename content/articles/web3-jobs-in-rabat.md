@@ -1,13 +1,13 @@
 ---
 title: 'Web3 Jobs in Rabat: A Guide to Morocco''s GovTech and R&D Scene'
-image: /images/africa web3 jobs.jpg
+image: /images/africa-web3-jobs.jpg
 data-ai-hint: rabat morocco city
 description: >-
   A career guide to the Web3 job market in Rabat. Explore how Morocco's capital
   is becoming a center for GovTech, research, and regulatory developments in.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 Rabat, the political and administrative capital of Morocco, is establishing an important role within the country's expanding [Web3](/what-is-web3) ecosystem. While Casablanca serves as the economic powerhouse, Rabat focuses on governance, policy formulation, and research. This distinction positions the city as an important hub for "GovTech" (government technology) projects, enterprise [blockchain](/what-is-a-blockchain) solutions, and vital discussions surrounding the regulation of digital assets in Morocco.

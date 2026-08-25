@@ -156,24 +156,24 @@ export const caseStudies = [
 ];
 
 export const communityPhotos = [
-  { src: '/logo/gallery/2025-08-14%2018.05.08-min.jpg', alt: 'Hashtag Web3 community networking event with Web3 professionals' },
-  { src: '/logo/gallery/2025-08-14%2018.05.12-min.jpg', alt: 'Attendees at Hashtag Web3 blockchain industry meetup' },
-  { src: '/logo/gallery/2025-08-14%2018.05.15-min.jpg', alt: 'Panel discussion at Hashtag Web3 crypto conference event' },
-  { src: '/logo/gallery/2025-08-14%2018.05.18-min.jpg', alt: 'Speakers presenting at Hashtag Web3 Web3 careers event' },
-  { src: '/logo/gallery/2025-08-14%2018.05.20-min.jpg', alt: 'Hashtag Web3 community members at blockchain summit' },
-  { src: '/logo/gallery/2025-08-14%2018.05.24-min.jpg', alt: 'Networking session at Hashtag Web3 decentralized finance meetup' },
-  { src: '/logo/gallery/2025-08-14%2018.05.27-min.jpg', alt: 'Group photo of Hashtag Web3 community at industry conference' },
-  { src: '/logo/gallery/2025-08-14%2018.05.30-min.jpg', alt: 'Web3 founders and developers at Hashtag Web3 event' },
-  { src: '/logo/gallery/2025-08-14%2018.05.33-min.jpg', alt: 'Hashtag Web3 partner showcase at crypto industry event' },
-  { src: '/logo/gallery/2025-08-14%2018.05.35-min.jpg', alt: 'Live demo at Hashtag Web3 blockchain technology event' },
-  { src: '/logo/gallery/2025-08-14%2018.05.44-min.jpg', alt: 'Audience at Hashtag Web3 keynote presentation' },
-  { src: '/logo/gallery/2025-08-14%2018.05.47-min.jpg', alt: 'Hashtag Web3 team at international Web3 conference' },
-  { src: '/logo/gallery/2025-08-14%2018.05.50-min.jpg', alt: 'Collaborative workshop at Hashtag Web3 developer event' },
-  { src: '/logo/gallery/2025-08-14%2022.30.59.jpg', alt: 'Evening networking at Hashtag Web3 blockchain mixer' },
-  { src: '/logo/gallery/2025-08-14%2022.31.02.jpg', alt: 'Fireside chat at Hashtag Web3 crypto leaders meetup' },
-  { src: '/logo/gallery/2025-08-14%2022.32.30.jpg', alt: 'Hashtag Web3 community gathering at Web3 ecosystem event' },
-  { src: '/logo/gallery/2025-08-14%2022.38.14.jpg', alt: 'Award ceremony at Hashtag Web3 annual community celebration' },
-  { src: '/logo/gallery/2025-08-14%2022.38.17.jpg', alt: 'Hashtag Web3 community members celebrating at blockchain event' }
+  { src: '/logo/gallery/2025-08-14-18.05.08-min.jpg', alt: 'Hashtag Web3 community networking event with Web3 professionals' },
+  { src: '/logo/gallery/2025-08-14-18.05.12-min.jpg', alt: 'Attendees at Hashtag Web3 blockchain industry meetup' },
+  { src: '/logo/gallery/2025-08-14-18.05.15-min.jpg', alt: 'Panel discussion at Hashtag Web3 crypto conference event' },
+  { src: '/logo/gallery/2025-08-14-18.05.18-min.jpg', alt: 'Speakers presenting at Hashtag Web3 Web3 careers event' },
+  { src: '/logo/gallery/2025-08-14-18.05.20-min.jpg', alt: 'Hashtag Web3 community members at blockchain summit' },
+  { src: '/logo/gallery/2025-08-14-18.05.24-min.jpg', alt: 'Networking session at Hashtag Web3 decentralized finance meetup' },
+  { src: '/logo/gallery/2025-08-14-18.05.27-min.jpg', alt: 'Group photo of Hashtag Web3 community at industry conference' },
+  { src: '/logo/gallery/2025-08-14-18.05.30-min.jpg', alt: 'Web3 founders and developers at Hashtag Web3 event' },
+  { src: '/logo/gallery/2025-08-14-18.05.33-min.jpg', alt: 'Hashtag Web3 partner showcase at crypto industry event' },
+  { src: '/logo/gallery/2025-08-14-18.05.35-min.jpg', alt: 'Live demo at Hashtag Web3 blockchain technology event' },
+  { src: '/logo/gallery/2025-08-14-18.05.44-min.jpg', alt: 'Audience at Hashtag Web3 keynote presentation' },
+  { src: '/logo/gallery/2025-08-14-18.05.47-min.jpg', alt: 'Hashtag Web3 team at international Web3 conference' },
+  { src: '/logo/gallery/2025-08-14-18.05.50-min.jpg', alt: 'Collaborative workshop at Hashtag Web3 developer event' },
+  { src: '/logo/gallery/2025-08-14-22.30.59.jpg', alt: 'Evening networking at Hashtag Web3 blockchain mixer' },
+  { src: '/logo/gallery/2025-08-14-22.31.02.jpg', alt: 'Fireside chat at Hashtag Web3 crypto leaders meetup' },
+  { src: '/logo/gallery/2025-08-14-22.32.30.jpg', alt: 'Hashtag Web3 community gathering at Web3 ecosystem event' },
+  { src: '/logo/gallery/2025-08-14-22.38.14.jpg', alt: 'Award ceremony at Hashtag Web3 annual community celebration' },
+  { src: '/logo/gallery/2025-08-14-22.38.17.jpg', alt: 'Hashtag Web3 community members celebrating at blockchain event' }
 ];
 
 export const whatsappGroups = [

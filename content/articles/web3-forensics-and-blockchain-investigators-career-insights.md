@@ -7,7 +7,7 @@ description: >-
   forensics experts trace illicit funds, unmask hackers, and bring transparency.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 In the transparent yet pseudonymous world of the [blockchain](/what-is-a-blockchain), a new type of digital detective has emerged: the **[Web3](/what-is-web3) Forensics Expert**, also known as an **On-Chain Investigator**. These professionals trace the flow of illicit funds, identify hackers, and enhance accountability within the decentralized economy.

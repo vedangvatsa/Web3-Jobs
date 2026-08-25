@@ -8,7 +8,7 @@ description: >-
   including.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 In the [Web3](/what-is-web3) startup and [DAOs](/what-is-a-dao) sector, a project's success hinges on aligning the incentives of its core team, early investors, and the broader community. A well-structured **vesting schedule** serves as an essential mechanism for achieving this alignment.

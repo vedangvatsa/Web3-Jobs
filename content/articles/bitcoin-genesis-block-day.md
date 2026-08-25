@@ -7,7 +7,7 @@ description: >-
 image: 'https://picsum.photos/seed/bitcoin-genesis/1200/630'
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 ## 1. Technical Foundations

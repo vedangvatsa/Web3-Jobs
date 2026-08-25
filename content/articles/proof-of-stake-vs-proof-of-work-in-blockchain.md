@@ -8,7 +8,7 @@ description: >-
   pros.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 At the core of every **[blockchain](/what-is-a-blockchain)** lies a **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-explained)**, which is the method by which network participants agree on the legitimacy of transactions. The two most recognized consensus mechanisms are **Proof-of-Work (PoW)** and **Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS)**. 

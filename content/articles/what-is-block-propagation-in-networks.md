@@ -8,7 +8,7 @@ category: Educational
 image: 'https://picsum.photos/seed/propagate/1200/630'
 data-ai-hint: block propagation
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 ## What is Block Propagation in Blockchain Networks?

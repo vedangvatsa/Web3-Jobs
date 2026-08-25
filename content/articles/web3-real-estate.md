@@ -7,7 +7,7 @@ description: >-
   Web3 is bringing traditional assets like real estate and private credit onto.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 The world of Decentralized Finance ([DeFi](/what-is-defi)) has evolved beyond its initial focus on crypto-native assets. A significant trend in [Web3](/what-is-web3) is the tokenization of Real-World Assets (RWAs). This process involves transforming traditional, tangible assets, ranging from real estate and private credit to fine art and U.S. Treasury Bills, into digital tokens on a public [blockchain](/what-is-a-blockchain).

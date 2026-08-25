@@ -8,7 +8,7 @@ image: 'https://picsum.photos/seed/cold-email/1200/630'
 category: Career Guides
 data-ai-hint: email marketing
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 ## Introduction: The Art and Science of the Cold Email

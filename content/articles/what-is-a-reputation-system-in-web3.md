@@ -8,7 +8,7 @@ description: >-
   social.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 In the real world, reputation serves as a critical asset. It reflects our past actions, relationships, and the trust cultivated with others. In the pseudonymous environment of [Web3](/what-is-web3), users often identify themselves solely by a [wallet](/how-to-choose-a-crypto-wallet) address, complicating the establishment of trust. A **Web3 reputation system** seeks to quantify a user's trustworthiness and expertise by using their verifiable on-chain history.

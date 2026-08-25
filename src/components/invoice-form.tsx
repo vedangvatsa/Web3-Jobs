@@ -6,6 +6,8 @@ import { zodResolver } from '@hookform/resolvers/zod';
 import { z } from 'zod';
 import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
+import { PageHeader } from '@/components/page-header';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
@@ -16,17 +18,7 @@ import {
  SelectTrigger,
  SelectValue,
 } from '@/components/ui/select';
-import {
- Download,
- Trash2,
- Plus,
- ImageIcon,
- FileText,
- User,
- Building,
- Wallet,
- Hash,
-} from 'lucide-react';
+import { Download, Trash2, Plus, ImageIcon, Wallet } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 import { useToast } from '@/hooks/use-toast';
@@ -465,22 +457,24 @@ export function InvoiceForm() {
 
  return (
   <>
-    <div className="bg-primary text-primary-foreground py-8 text-center">
-      <h1 className="text-3xl font-bold">Free Invoice Generator</h1>
-      <p className="opacity-80 mt-1">No registration required.</p>
-      <Button size="lg" className="mt-4 bg-white text-primary hover:bg-white/90" onClick={handleDownload}>
-        <Download className="mr-2 h-4 w-4"/> Download PDF
-      </Button>
-    </div>
-    
-    <div className="container mx-auto px-4 py-8">
+    <section className="text-center mb-12 pt-8">
+      <PageHeader title="Invoice Generator" />
+      <p className="mt-2 text-muted-foreground">
+        Create professional invoices with crypto or fiat payment options and download them as print-ready PDFs.
+      </p>
+      <Badge variant="secondary" className="mt-4">
+        Free PDF Export
+      </Badge>
+    </section>
+
+    <div className="container mx-auto px-4 pb-8">
      <div className="grid grid-cols-1 lg:grid-cols-5 gap-8">
       {/* Form Column */}
       <div className="lg:col-span-3 space-y-6">
         
         <Card>
           <CardHeader>
-            <CardTitle className="flex items-center gap-2"><Building className="text-primary"/> From</CardTitle>
+            <CardTitle>From</CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
             <div className="flex items-center justify-start pt-2">
@@ -504,7 +498,7 @@ export function InvoiceForm() {
 
         <Card>
           <CardHeader>
-            <CardTitle className="flex items-center gap-2"><User className="text-primary"/> To</CardTitle>
+            <CardTitle>To</CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -518,7 +512,7 @@ export function InvoiceForm() {
 
         <Card>
           <CardHeader>
-            <CardTitle className="flex items-center gap-2"><FileText className="text-primary"/> Invoice Details</CardTitle>
+            <CardTitle>Invoice Details</CardTitle>
           </CardHeader>
           <CardContent className="grid grid-cols-2 md:grid-cols-3 gap-4">
             <div className="space-y-1">
@@ -544,7 +538,7 @@ export function InvoiceForm() {
         
          <Card>
           <CardHeader>
-            <CardTitle className="flex items-center gap-2"><Wallet className="text-primary"/> Items</CardTitle>
+            <CardTitle>Items</CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
             <div className="space-y-2">
@@ -590,7 +584,7 @@ export function InvoiceForm() {
         
          <Card>
           <CardHeader>
-            <CardTitle className="flex items-center gap-2"><Hash className="text-primary"/> Payment</CardTitle>
+            <CardTitle>Payment</CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -626,8 +620,11 @@ export function InvoiceForm() {
 
       {/* Preview Column */}
       <div className="lg:col-span-2">
-       <div className="sticky top-[72px]">
+       <div className="sticky top-[72px] space-y-4">
          <InvoicePreview data={watchedForm as any} />
+         <Button size="lg" className="w-full" onClick={handleDownload}>
+           <Download className="mr-2 h-4 w-4"/> Download PDF
+         </Button>
        </div>
       </div>
      </div>

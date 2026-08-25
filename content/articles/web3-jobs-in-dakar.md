@@ -1,13 +1,13 @@
 ---
 title: 'Web3 Jobs in Dakar: A Guide to Francophone Africa''s Tech Hub'
-image: /images/africa web3 jobs.jpg
+image: /images/africa-web3-jobs.jpg
 data-ai-hint: dakar senegal city
 description: >-
   A career guide to the Web3 job market in Dakar. Explore how Senegal's capital
   is emerging as a key hub for FinTech, mobile money, and blockchain.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 Dakar, the active coastal capital of Senegal, is emerging as the leading technology hub for Francophone West Africa. Its strategic location, stable political environment, and an expanding ecosystem of startups and tech talent position the city as a center for digital innovation, particularly In [Web3](/what-is-web3). Dakar's extensive experience with mobile money and digital payments lays a solid foundation for the adoption of [blockchain](/what-is-a-blockchain)-based financial solutions.

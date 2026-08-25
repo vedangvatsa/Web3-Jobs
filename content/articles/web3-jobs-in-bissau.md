@@ -1,6 +1,6 @@
 ---
 title: 'Web3 Jobs in Bissau: A Guide to Guinea-Bissau''s Digital Frontier'
-image: /images/africa web3 jobs.jpg
+image: /images/africa-web3-jobs.jpg
 data-ai-hint: bissau guinea bissau city
 description: >-
   A career guide to the emerging Web3 job market in Bissau. Explore the
@@ -8,7 +8,7 @@ description: >-
   financial.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 Bissau, the capital of Guinea-Bissau, is leading digital opportunities. Despite being one of West Africa's least developed countries, it has specific challenges and advantages for the emergence of [Web3](/what-is-web3). The core principles of decentralization, financial inclusion, and open access can significantly transform the socio-economic fabric of the region. Although the Web3 ecosystem in Bissau is still in its infancy, a growing number of individuals and organizations are beginning to explore its potential.

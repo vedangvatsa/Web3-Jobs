@@ -8,7 +8,7 @@ category: Career Guides
 image: 'https://picsum.photos/seed/309/1200/630'
 data-ai-hint: career plan
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 ## A Guide to Creating Your Career Development Plan

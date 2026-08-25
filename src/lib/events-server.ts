@@ -2,6 +2,21 @@ import fs from 'fs';
 import path from 'path';
 import { Web3Event, normalizeCountry, getEventSlug, getEventEcosystems, getEventType } from './events';
 
+// Quality gate: drops spam webinars, cancelled listings, and non-web3 meetups
+// that leak into the aggregated feed. Curated premier events always pass.
+const SPAMMY = /earn (crypto|money|income)|passive income|get rich|financial freedom|trading signal|forex|scam|live zoom|webinar|100x|millionaire|double your|guaranteed (profit|return)/i;
+const NON_WEB3_NAME = /bodywork|breakup|keychains|acting workshop|finissage|culture club|apéro|data jam|electronics and computing|ssis|film festival|wellness & networking|charming|bestie|wind take you/i;
+const WEB3_VOCAB = /crypto|bitcoin|btc\b|ethereum|\beth\b|ethglobal|ethcc|ethconf|ethrome|ethtaipei|ethtokyo|eth ?belgrade|blockchain|web ?3|defi|nfts?|solana|dao|token|altcoin|mining|stablecoin|lightning|hacker ?house|hackathon|consensus|token2049|xrp|ripple|zk\b|zksync|zero.?knowledge|superteam|pragma|hyperliquid|onchain|on-chain|lido|polygon|arbitrum|optimism|base chain|coinbase|binance|airdrop|wallet|dapp|smart contract|layer ?2|metaverse|gamefi|staking|yield|digital asset|decentralized|cardano|cosmos|polkadot|monad|aptos|\bsui\b|chainlink|blockcon|founders? dinner|coworking|co-working|launchpad|happy hour/i;
+
+function isQualityEvent(e: Web3Event): boolean {
+  if (e.source === 'curated-premier') return true;
+  const text = `${e.name} ${e.description ?? ''}`;
+  if (SPAMMY.test(text)) return false;
+  if (/cancel/i.test(text)) return false;
+  if (NON_WEB3_NAME.test(e.name)) return false;
+  return WEB3_VOCAB.test(text);
+}
+
 export async function getEvents(): Promise<Web3Event[]> {
   try {
     const cwd = process.cwd();
@@ -36,6 +51,7 @@ export async function getEvents(): Promise<Web3Event[]> {
 
     for (const e of rawAll) {
       if (!e.name || !e.startDate) continue;
+      if (!isQualityEvent(e)) continue;
 
       // Normalization key for deduplication
       const cleanName = e.name.toLowerCase().replace(/[^a-z0-9]/g, '').trim();

@@ -8,7 +8,7 @@ category: Career Guides
 image: 'https://picsum.photos/seed/308/1200/630'
 data-ai-hint: finding mentor
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 ## How to Find a Mentor at a New Company

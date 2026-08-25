@@ -7,7 +7,7 @@ description: >-
   earned. This guide explains why it's an important mechanism for ensuring.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 In the [Web3](/what-is-web3), understanding vesting schedules is essential for aligning the interests of a project's team members and its community. A critical feature of these schedules is the cliff. Both employees receiving [token](/what-is-a-token) grants and investors assessing a project's tokenomics need to grasp what a cliff entails and its purpose.

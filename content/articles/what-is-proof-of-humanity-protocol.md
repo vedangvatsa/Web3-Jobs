@@ -7,7 +7,7 @@ description: >-
   with a video submission process to create a blockchain-based registry of.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 In a digital environment where individuals can easily create numerous fake accounts, establishing systems that ensure "one person, one vote" and equitable resource distribution presents significant challenges. This issue is commonly referred to as the **"sybil attack" problem**. **Proof of Humanity (PoH)** is a new social identity verification system on the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) that seeks to address this challenge.

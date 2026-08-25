@@ -7,7 +7,7 @@ category: Educational
 image: 'https://picsum.photos/seed/concliquidity/1200/630'
 data-ai-hint: concentrated liquidity
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 ## Understanding Concentrated Liquidity in Uniswap v3

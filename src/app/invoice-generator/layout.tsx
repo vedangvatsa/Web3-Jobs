@@ -10,7 +10,7 @@ export const metadata: Metadata = {
  openGraph: {
   type: 'website',
   title: 'Free Invoice Generator for Freelancers',
-  description: 'Create and download professional invoices in seconds. Perfect for freelancers and contractors in the Web3 space. No registration required.',
+  description: 'Create and download professional invoices in seconds. Perfect for freelancers and contractors in the Web3 space.',
   url: 'https://hashtagweb3.com/invoice-generator',
   images: [
    {
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
  twitter: {
   card: 'summary_large_image',
   title: 'Free Invoice Generator for Freelancers',
-  description: 'Create and download professional PDF invoices in seconds. Perfect for Web3 freelancers and contractors. No registration required - just fill out and download instantly.',
+  description: 'Create and download professional PDF invoices in seconds. Perfect for Web3 freelancers and contractors. Just fill out and download instantly.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Free%20Invoice%20Generator'],
  },
 };

@@ -1,13 +1,13 @@
 ---
 title: 'Web3 Jobs in Tripoli: A Guide to Libya''s Digital Frontier'
-image: /images/africa web3 jobs.jpg
+image: /images/africa-web3-jobs.jpg
 data-ai-hint: tripoli libya city
 description: >-
   A career guide to the Web3 job market in Tripoli. Explore how, amidst economic
   challenges, Libyans are turning to crypto for financial access, creating a.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 Tripoli, Libya's capital, confronts significant challenges such as political instability and economic disruption. These circumstances have rendered traditional financial systems unreliable, prompting the emergence of a active grassroots [Web3](/what-is-web3) community. For many young, tech-savvy Libyans, cryptocurrency has evolved beyond a speculative investment; it serves as a practical tool for preserving savings, conducting business, and accessing the global economy.

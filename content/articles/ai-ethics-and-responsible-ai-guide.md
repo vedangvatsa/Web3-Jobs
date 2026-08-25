@@ -8,7 +8,7 @@ description: >-
   of.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-24"
+lastUpdated: "2026-08-25"
 ---
 
 As artificial intelligence (AI) becomes increasingly prevalent in various sectors, its ethical implications demand urgent attention. AI is not a neutral technology; it is influenced by the data used during training and the intentions of its developers. Consequently, AI can mirror and even exacerbate human biases and societal inequalities.
