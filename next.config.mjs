@@ -113,11 +113,13 @@ const nextConfig = {
         ],
       },
       {
-        source: '/(.*)\\.(jpg|jpeg|png|gif|svg)$',
+        source: '/(.*)\\.(jpg|jpeg|png|gif|svg|webp|avif)$',
         headers: [
           {
             key: 'Cache-Control',
-            value: 'public, max-age=31536000, immutable',
+            // Never mark image responses (incl. transient 404s) as immutable;
+            // revalidate daily and serve stale up to 30 days while revalidating.
+            value: 'public, max-age=86400, stale-while-revalidate=2592000, must-revalidate',
           },
         ],
       },
