@@ -2,6 +2,8 @@ import { getCompanyBySlug, getCompanies } from '@/lib/companies';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Building2, Briefcase, ExternalLink, Calendar, MapPin, ArrowRight } from 'lucide-react';
+import fs from 'fs';
+import path from 'path';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
@@ -64,6 +66,29 @@ export default async function CompanyPage({ params }: { params: { slug: string }
 
  if (!company) {
   notFound();
+ }
+
+ // Find logo src dynamically from local static folders
+ const possiblePaths = [
+  `/logo/companies/${company.slug}.png`,
+  `/logo/companies/${company.slug}.jpg`,
+  `/logo/companies/${company.slug}.svg`,
+  `/logo/companies/${company.slug.toLowerCase()}.png`,
+  `/logo/job/${company.slug}.png`,
+  `/logo/job/${company.slug}.jpg`,
+  `/logo/job/${company.slug}.svg`,
+  `/logo/job/${company.slug.toLowerCase()}.png`,
+  `/logo/partners/${company.slug}.png`,
+  `/logo/partners/${company.slug.toLowerCase()}.png`,
+ ];
+
+ let logoSrc: string | null = null;
+ for (const relPath of possiblePaths) {
+  const fullPath = path.join(process.cwd(), 'public', relPath);
+  if (fs.existsSync(fullPath)) {
+   logoSrc = relPath;
+   break;
+  }
  }
 
  const organizationSchema: WithContext<Organization> = {
@@ -142,25 +167,31 @@ export default async function CompanyPage({ params }: { params: { slug: string }
       </nav>
 
       {/* Company Header */}
-      <header className="mb-8">
-       <div className="flex items-start gap-4 mb-2">
-        <div className="bg-primary/10 p-3 rounded-lg shrink-0">
-         <Building2 className="h-10 w-10 text-primary" />
+      <header className="mb-8 border border-border/60 bg-muted/10 rounded-2xl p-6">
+       <div className="flex flex-col sm:flex-row sm:items-center gap-6">
+        <div className="relative h-20 w-20 flex items-center justify-center p-3 bg-background rounded-2xl shadow-sm border border-border/80 shrink-0">
+         {logoSrc ? (
+          <img src={logoSrc} alt={`${company.name} logo`} className="object-contain max-h-14 max-w-14" />
+         ) : (
+          <Building2 className="h-10 w-10 text-primary" />
+         )}
         </div>
         <div className="flex-1 min-w-0">
-         <PageHeader title={`${company.name} Careers`} />
-         <div className="flex items-center gap-3 text-sm text-muted-foreground mt-1">
-          <span className="flex items-center gap-1">
-           <Briefcase className="h-3.5 w-3.5" />
+         <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-foreground">
+          {company.name} Careers
+         </h1>
+         <div className="flex items-center gap-4 text-sm text-muted-foreground mt-3">
+          <span className="flex items-center gap-1.5 font-medium">
+           <Briefcase className="h-4 w-4" />
            {company.jobCount} Active Role{company.jobCount !== 1 ? 's' : ''}
           </span>
           {company.website && (
            <OutboundLink
             href={company.website}
             label={`${company.name} website`}
-            className="flex items-center gap-1 text-primary hover:underline"
+            className="flex items-center gap-1.5 text-primary hover:underline font-medium"
            >
-            <ExternalLink className="h-3.5 w-3.5" />
+            <ExternalLink className="h-4 w-4" />
             Website
            </OutboundLink>
           )}
