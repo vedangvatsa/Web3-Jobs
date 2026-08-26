@@ -518,6 +518,9 @@
   "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
   "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
   "https://decrypt.co/376559/xrp-price-cools-where-next",
+  "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
+  "https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785",
+  "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1461,6 +1464,12 @@
   "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
   "XRP Price Falls After Hitting Resistance Level",
   "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
+  "Dallas Federal Reserve warns tokenized deposits threaten bank lending",
+  "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
+  "Bitcoin Short Squeeze and U.S. Treasury Actions Drive Market",
+  "‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say",
+  "ECB Claims Digital Euro Will Protect User Privacy",
+  "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1511,5 +1520,8 @@
   "fp:allow|atla|blockchain|built|chain|conduct|exchang|financial|infrastructur|institution",
   "fp:allianc|association|bank|blockchain|by2027|deploy|deposit|form|group|ledger",
   "fp:100b|build|complex|elon|fiv|louisiana|mission|musk|parish|plan",
-  "fp:brief|cool|cryptocurrency|day|doe|fall|follow|gain|growth|hit"
+  "fp:brief|cool|cryptocurrency|day|doe|fall|follow|gain|growth|hit",
+  "fp:700b|automat|bank|capacity|contract|conventional|dalla|deposit|federal|financial",
+  "fp:action|altitud|analyst|bessent|bitwis|bull|can|catalyst|driv|executiv",
+  "fp:cannot|civil|claim|digital|ecb|euro|fear|group|identity|level"
 ]
