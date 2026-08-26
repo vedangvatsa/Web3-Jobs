@@ -3,17 +3,12 @@
 
 import * as React from 'react';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
-import {
- Accordion,
- AccordionContent,
- AccordionItem,
- AccordionTrigger,
-} from '@/components/ui/accordion';
+import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion';
 import { Badge } from '@/components/ui/badge';
 import { interviewData, Role } from '@/lib/interview-questions';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
-import { Button } from '@/components/ui/button';
+ '@/components/ui/button';
 import { PageHeader } from "@/components/page-header";
 import { CtaBanner } from "@/components/cta-banner";
 

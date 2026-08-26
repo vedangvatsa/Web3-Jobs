@@ -8,6 +8,7 @@ import { FirebaseClientProvider } from '@/firebase/client-provider';
 import { SITE_STATS } from '@/lib/constants';
 import type { WebPage, JobPosting } from 'schema-dts';
 import { PageHeader } from "@/components/page-header";
+import { PageShell } from '@/components/page-shell';
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
@@ -61,7 +62,7 @@ export default async function JobsPage() {
    />
    <div className="flex flex-col min-h-screen">
         <main className="flex-1">
-     <div className="container mx-auto page-section px-4">
+     <PageShell>
        <section className="text-center mb-8">
          <div className="site-container">
            <PageHeader title="Find Your Next Web3 Job" />
@@ -84,50 +85,77 @@ export default async function JobsPage() {
           <JobBoard initialJobs={initialJobs} />
          </FirebaseClientProvider>
        </article>
-     </div>
+     </PageShell>
     </main>
    </div>
 
-   {/*
-     Invisible SSR content for web crawlers and AI agents.
-     sr-only = visually hidden but fully present in the HTML payload.
-     No UI impact whatsoever.
-   */}
-   <div className="sr-only" aria-hidden="true">
-     <h2>About Hashtag Web3</h2>
-     <p>
-       Hashtag Web3 is the leading global Web3 job board and career intelligence platform,
-       connecting over 60,000 crypto-native builders with leading protocols and startups
-       including Uniswap Labs, Coinbase, Aave, Chainlink, and Circle. Founded in 2022,
-       we aggregate and verify thousands of live blockchain opportunities across Ethereum,
-       Solana, Bitcoin L2s, Cosmos, NEAR, and emerging rollups.
-     </p>
-     <h2>High-Demand Web3 Job Categories</h2>
-     <ul>
-       <li>Solidity &amp; Smart Contracts — Build decentralized applications on Ethereum, EVM L2s, and Arbitrum.</li>
-       <li>Security &amp; Auditing — Find protocol vulnerabilities, perform formal verification, and secure DeFi protocols.</li>
-       <li>Rust &amp; Solana Engineering — High-performance smart contract development with Rust and Anchor framework.</li>
-       <li>DeFi &amp; Tokenomics — Design liquidity models, automated market makers, yield systems, and crypto tokenomics.</li>
-       <li>ZK &amp; Cryptography — Zero-knowledge proofs, Circom, Noir, privacy systems, and zk-rollups architecture.</li>
-       <li>Web3 Product &amp; Marketing — Lead decentralized protocol launches, community growth, and DAO governance.</li>
-     </ul>
-     <h2>Free Career Tools &amp; Developer Resources</h2>
-     <ul>
-       <li><a href="/salary-calculator">Web3 Salary Calculator</a>: Benchmark compensation across roles, seniority levels, and regions.</li>
-       <li><a href="/resume-builder">Crypto Resume Builder</a>: Create a Web3-tailored resume highlighting on-chain projects and audits.</li>
-       <li><a href="/developers">Developer Portal &amp; API</a>: Explore REST endpoints, OpenAPI 3.1 schema, and machine-readable data feeds.</li>
-       <li><a href="/learn">200+ Term Web3 Glossary</a>: Master blockchain fundamentals, DeFi mechanisms, and cryptography.</li>
-     </ul>
-     <h2>Platform Facts</h2>
-     <ul>
-       <li>60,000+ community subscribers across Telegram, Discord, and LinkedIn</li>
-       <li>10,000+ verified Web3 job listings updated daily</li>
-       <li>500+ career guides and educational resources</li>
-       <li>Public REST API: /api/jobs, /api/news, /api/events, /api/glossary</li>
-       <li>OpenAPI 3.1.0 spec: https://hashtagweb3.com/openapi.json</li>
-       <li>LLMs navigation index: https://hashtagweb3.com/llms.txt</li>
-     </ul>
-   </div>
+    {/*
+      Invisible SSR content for web crawlers and AI agents.
+      sr-only = visually hidden but fully present in the HTML payload.
+      No UI impact whatsoever.
+    */}
+    <div className="sr-only" aria-hidden="true">
+      <h2>About Hashtag Web3 Talent Network</h2>
+      <p>
+        Hashtag Web3 is the premier global Web3 job board and blockchain talent intelligence platform,
+        connecting over 60,000 crypto-native builders with leading protocols and startups
+        including Uniswap Labs, Coinbase, Aave, Chainlink, and Circle. Founded in 2022,
+        we aggregate and verify thousands of live blockchain opportunities across Ethereum,
+        Solana, Bitcoin L2s, Cosmos, NEAR, and emerging rollups.
+      </p>
+
+      <h2>High-Demand Web3 Job Sectors &amp; Career Paths</h2>
+      
+      <h3>Smart Contract &amp; Protocol Engineering</h3>
+      <p>
+        Design and deploy decentralized smart contract architectures using Solidity, Vyper, and EVM assembly.
+        Build scalable DeFi primitives, automated liquidity vaults, cross-chain messaging bridges, and decentralized governance systems on Ethereum mainnet and leading Layer 2 networks.
+      </p>
+
+      <h3>Rust, Solana &amp; High-Throughput Blockchain Development</h3>
+      <p>
+        Architect high-performance distributed systems, state transition engines, and parallel execution environments using Rust and the Anchor framework.
+        Specialize in high-frequency trading pipelines, sub-second settlement layers, and memory-safe decentralized nodes.
+      </p>
+
+      <h3>Zero-Knowledge Proofs &amp; Applied Cryptography</h3>
+      <p>
+        Research and implement privacy-preserving protocols, validity rollups, and verifiable computing circuits using Circom, Noir, Halo2, and STARKs.
+        Lead cryptographic security reviews, recursion proof optimization, and SNARK proving systems.
+      </p>
+
+      <h3>Blockchain Security, Auditing &amp; Formal Verification</h3>
+      <p>
+        Inspect protocol codebases for reentrancy bugs, oracle manipulation attack vectors, and arithmetic vulnerabilities.
+        Execute automated fuzz testing, symbolic execution, invariant verification, and real-time on-chain monitoring.
+      </p>
+
+      <h3>Web3 Product Management, Tokenomics &amp; Growth</h3>
+      <p>
+        Guide protocol roadmaps from testnet launch to mainnet decentralization.
+        Model incentive mechanisms, liquidity distribution curves, staking yields, and community DAO governance frameworks.
+      </p>
+
+      <h2>Free Career Tools &amp; Developer Resources</h2>
+      <ul>
+        <li><a href="/salary-calculator">Web3 Salary Calculator</a>: Benchmark compensation across engineering, design, and research roles.</li>
+        <li><a href="/resume-builder">Crypto Resume Builder</a>: Create a Web3-tailored CV highlighting verified on-chain deployments and audits.</li>
+        <li><a href="/developers">Developer Portal &amp; API</a>: Explore machine-readable REST endpoints, OpenAPI 3.1 schema, and MCP servers.</li>
+        <li><a href="/learn">Web3 Learning Modules &amp; Glossary</a>: Master blockchain fundamentals, DeFi mechanisms, and consensus algorithms.</li>
+      </ul>
+
+      <h2>Platform Architecture &amp; Developer Integration</h2>
+      <p>
+        Hashtag Web3 exposes public, machine-readable interfaces for autonomous AI agents, scrapers, and developer scripts:
+      </p>
+      <ul>
+        <li>Public REST API: <code>/api/v1/jobs</code>, <code>/api/v1/news</code>, <code>/api/v1/events</code>, <code>/api/v1/glossary</code></li>
+        <li>OpenAPI 3.1.0 JSON Specification: <code>https://hashtagweb3.com/openapi.json</code></li>
+        <li>Model Context Protocol (MCP) Streamable HTTP Server: <code>https://hashtagweb3.com/.well-known/mcp</code></li>
+        <li>LLMs Navigation Index: <code>https://hashtagweb3.com/llms.txt</code></li>
+        <li>Agent Capabilities Manifest: <code>https://hashtagweb3.com/.well-known/agents.json</code></li>
+      </ul>
+    </div>
   </>
  );
 }

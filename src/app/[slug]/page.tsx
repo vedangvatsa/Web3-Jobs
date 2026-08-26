@@ -3,7 +3,7 @@ import { getArticle, getAllArticles } from '@/lib/articles';
 import { getJobs } from '@/lib/jobs';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
-import { notFound, redirect } from 'next/navigation';
+import { notFound } from 'next/navigation';
 import * as fs from 'fs';
 import * as path from 'path';
 import { getJobBySlug, getJobSlug, getAllJobsWithSlugs, fetchJobOriginalContent } from '@/lib/job-guides';
@@ -24,28 +24,13 @@ import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryM
 import { GlossaryViewTracker } from '@/components/tracking/glossary-view-tracker';
 import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 import { PageHeader } from "@/components/page-header";
-import {
-  getEventSlug,
-  getEventType,
-  getEventFormat,
-  getEventEcosystems,
-  formatEventDate,
-  generateGoogleCalendarUrl,
-} from '@/lib/events';
+import { getEventSlug, getEventFormat, getEventEcosystems, formatEventDate, generateGoogleCalendarUrl } from '@/lib/events';
 import { resolveEventGuide } from '@/lib/event-guide-store';
-import {
-  getEventBySlug,
-  getEvents,
-  getRelatedEvents,
-} from '@/lib/events-server';
+import { JsonLd } from '@/components/json-ld';
+import { EventHeroImage } from '@/components/event-cover';
+import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
-import {
-  Calendar,
-  MapPin,
-  ExternalLink,
-  ArrowLeft,
-  ArrowRight,
-} from 'lucide-react';
+import { Calendar, MapPin, ExternalLink, ArrowRight } from 'lucide-react';
 import { CtaBanner } from '@/components/cta-banner';
 
 
@@ -93,9 +78,20 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const description = `Explore the ${job.title} role at ${job.company}. Review responsibilities, qualifications, and apply directly.`;
     const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(`${job.title} at ${job.company}`)}`;
 
+    const keywords = [
+      job.title,
+      job.company,
+      'Web3 Jobs',
+      'Crypto Careers',
+      'Blockchain Engineering',
+      'Remote Web3 Jobs',
+      'Hashtag Web3',
+    ];
+
     return {
       title,
       description,
+      keywords,
       alternates: {
         canonical: canonicalUrl,
       },
@@ -395,14 +391,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
     return (
       <>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(eventSchema) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-        />
+        <JsonLd data={eventSchema} />
+        <JsonLd data={breadcrumbSchema} />
 
         <div className="flex flex-col min-h-screen bg-background text-foreground">
           <main className="flex-1 pb-16">
@@ -454,46 +444,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               </header>
 
               {/* Event Cover Image */}
-              {event.coverImage ? (
-                <div className="w-full h-64 sm:h-80 md:h-96 rounded-2xl overflow-hidden bg-muted border">
-                  <img
-                    src={event.coverImage}
-                    alt={event.name}
-                    className="w-full h-full object-cover"
-                    loading="eager"
-                    fetchPriority="high"
-                    decoding="async"
-                  />
-                </div>
-              ) : (
-                (() => {
-                  const gradients = [
-                    'from-violet-600/80 via-purple-700/80 to-indigo-800/80',
-                    'from-blue-600/80 via-cyan-700/80 to-teal-800/80',
-                    'from-emerald-600/80 via-teal-700/80 to-cyan-800/80',
-                    'from-amber-600/80 via-orange-700/80 to-rose-800/80',
-                    'from-rose-600/80 via-pink-700/80 to-fuchsia-800/80',
-                  ];
-                  let h = 0;
-                  for (let i = 0; i < event.name.length; i++) h = event.name.charCodeAt(i) + ((h << 5) - h);
-                  const gradient = gradients[Math.abs(h) % gradients.length];
-                  const initial = event.name.replace(/[^a-zA-Z0-9]/g, '').charAt(0).toUpperCase() || 'W';
-                  return (
-                    <div className={`w-full h-64 sm:h-80 md:h-96 rounded-2xl overflow-hidden bg-gradient-to-br ${gradient} flex items-center justify-center relative border`}>
-                      <div className="absolute inset-0 opacity-15">
-                        <div className="absolute -top-6 -right-6 w-32 h-32 border border-white/40 rounded-full" />
-                        <div className="absolute -bottom-8 -left-8 w-40 h-40 border border-white/40 rounded-full" />
-                      </div>
-                      <div className="flex flex-col items-center gap-2 relative z-10">
-                        <div className="w-16 h-16 rounded-2xl bg-white/20 backdrop-blur-sm flex items-center justify-center border border-white/20 shadow-md">
-                          <span className="text-2xl font-bold text-white tracking-wider">{initial}</span>
-                        </div>
-                        <span className="text-xs font-medium uppercase tracking-wider text-white/80">{event.name}</span>
-                      </div>
-                    </div>
-                  );
-                })()
-              )}
+              <EventHeroImage src={event.coverImage} name={event.name} />
 
               {/* Quick Facts Grid */}
               {(editorial.ticketPricing || editorial.speakers || editorial.expectedAttendance) && (
@@ -644,8 +595,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   );
   return (
    <>
-    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
-    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+    <JsonLd data={articleSchema} />
+    <JsonLd data={breadcrumbSchema} />
     <ResourcePageView page={resource} nicheResources={nicheResources} />
    </>
   );
@@ -692,14 +643,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   return (
    <div className="flex flex-col min-h-screen bg-background">
     <GlossaryViewTracker term={term.term} category={term.category} difficulty={term.difficulty} />
-    <script
-     type="application/ld+json"
-     dangerouslySetInnerHTML={{ __html: JSON.stringify(definedTermSchema) }}
-    />
-    <script
-     type="application/ld+json"
-     dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-    />
+    <JsonLd data={definedTermSchema} />
+    <JsonLd data={breadcrumbSchema} />
         <main className="flex-1">
      <div className="bg-background">
       <article className="container mx-auto px-4 page-section max-w-6xl">
@@ -883,25 +828,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
  return (
   <div className="flex flex-col min-h-screen bg-background">
    <ArticleViewTracker slug={article.slug} title={article.title} category={article.category} />
-   <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-   />
-   <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-   />
+   <JsonLd data={articleSchema} />
+   <JsonLd data={breadcrumbSchema} />
    {faqSchema && (
-    <script
-     type="application/ld+json"
-     dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-    />
+    <JsonLd data={faqSchema} />
    )}
    {howToSchema && (
-    <script
-     type="application/ld+json"
-     dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
-    />
+    <JsonLd data={howToSchema} />
    )}
       <main className="flex-1">
     <div className="bg-[#fafafa] dark:bg-black transition-colors duration-200">

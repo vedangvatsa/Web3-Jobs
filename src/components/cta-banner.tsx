@@ -3,7 +3,7 @@
 import * as React from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
-import { ArrowRight, Send, Rss, Briefcase } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { SITE_STATS } from '@/lib/constants';
 import { trackCTAClick } from '@/lib/posthog';
 import { cn } from '@/lib/utils';

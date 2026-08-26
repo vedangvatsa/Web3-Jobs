@@ -1,5 +1,6 @@
 import { getJobs } from '@/lib/jobs';
 import { NextRequest, NextResponse } from 'next/server';
+import { getStandardApiHeaders } from '@/lib/api-headers';
 
 export const revalidate = 300; // Cache on CDN for 5 minutes
 
@@ -124,9 +125,7 @@ export async function GET(request: NextRequest) {
       {
         status: 200,
         headers: {
-          'Content-Type': 'application/json; charset=utf-8',
-          'Access-Control-Allow-Origin': '*',
-          'Access-Control-Allow-Methods': 'GET, OPTIONS',
+          ...getStandardApiHeaders(),
           'Cache-Control': 'public, max-age=300, s-maxage=600, stale-while-revalidate=86400',
           'Vary': 'Accept-Encoding, Accept, User-Agent',
         },

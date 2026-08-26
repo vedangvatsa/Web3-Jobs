@@ -4,6 +4,7 @@ import { getNewsFeed } from '@/lib/news';
 import { CommunityPageContent } from '@/components/community-page-content';
 import { Metadata } from 'next';
 import type { WebPage } from 'schema-dts';
+import { PageShell } from '@/components/page-shell';
 
 export const revalidate = 43200; // Revalidate every 12 hours
 
@@ -59,13 +60,13 @@ export default async function Page() {
       />
       <div className="flex flex-col min-h-screen">
         <main className="flex-1">
-          <div className="container mx-auto page-section px-4">
+          <PageShell>
             <CommunityPageContent 
               latestJobs={latestJobs}
               latestArticles={latestArticles}
               latestNews={latestNews}
             />
-          </div>
+          </PageShell>
         </main>
       </div>
     </>

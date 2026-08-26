@@ -8,6 +8,7 @@ import type { WebPage, JobPosting } from 'schema-dts';
 import { PageHeader } from "@/components/page-header";
 
 import { SITE_STATS } from '@/lib/constants';
+import { PageShell } from '@/components/page-shell';
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
@@ -106,7 +107,7 @@ export default async function JobsPage() {
    />
    <div className="flex flex-col min-h-screen">
         <main className="flex-1">
-     <div className="container mx-auto page-section px-4">
+     <PageShell>
        <section className="text-center mb-8">
          <div className="site-container">
            <PageHeader title="Find Your Next Web3 Job" />
@@ -127,7 +128,7 @@ export default async function JobsPage() {
          </div>
          <JobBoard initialJobs={initialJobs} />
        </div>
-     </div>
+     </PageShell>
     </main>
    </div>
   </>

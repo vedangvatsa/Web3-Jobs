@@ -1,5 +1,6 @@
 import { getAllTerms } from '@/lib/glossary';
 import { NextRequest, NextResponse } from 'next/server';
+import { getStandardApiHeaders } from '@/lib/api-headers';
 
 export const revalidate = 86400; // Cache on CDN for 24 hours
 
@@ -27,10 +28,7 @@ export async function GET(request: NextRequest) {
           },
           {
             status: 400,
-            headers: {
-              'Content-Type': 'application/json',
-              'Access-Control-Allow-Origin': '*',
-            },
+            headers: getStandardApiHeaders(),
           }
         );
       }
@@ -76,9 +74,7 @@ export async function GET(request: NextRequest) {
       {
         status: 200,
         headers: {
-          'Content-Type': 'application/json; charset=utf-8',
-          'Access-Control-Allow-Origin': '*',
-          'Access-Control-Allow-Methods': 'GET, OPTIONS',
+          ...getStandardApiHeaders(),
           'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
           'Vary': 'Accept-Encoding, Accept',
         },

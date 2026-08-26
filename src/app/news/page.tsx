@@ -3,6 +3,7 @@ import { NewsPageClient } from '@/components/news-page-client';
 import type { Metadata } from 'next';
 import type { WebPage, NewsArticle, WithContext } from 'schema-dts';
 import { PageHeader } from "@/components/page-header";
+import { PageShell } from '@/components/page-shell';
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
@@ -83,14 +84,14 @@ export default async function NewsPage() {
    )}
    <div className="flex flex-col min-h-screen">
         <main className="flex-1">
-     <div className="container mx-auto page-section px-4">
+     <PageShell>
        <section className="text-center mb-8">
          <div className="site-container">
            <PageHeader title="Web3 News" />
          </div>
        </section>
        <NewsPageClient initialNewsItems={newsItems} />
-     </div>
+     </PageShell>
     </main>
    </div>
   </>

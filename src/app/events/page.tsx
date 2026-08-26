@@ -4,6 +4,7 @@ import { Web3Event } from '@/lib/events';
 import type { Metadata } from 'next';
 import type { WebPage, Event } from 'schema-dts';
 import { PageHeader } from "@/components/page-header";
+import { PageShell } from '@/components/page-shell';
 
 export const metadata: Metadata = {
   title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
@@ -71,7 +72,7 @@ export default async function EventsPage() {
       />
       <div className="flex flex-col min-h-screen">
                 <main className="flex-1">
-          <div className="container mx-auto page-section px-4">
+          <PageShell>
             <section className="text-center mb-8">
               <div className="site-container">
                 <PageHeader
@@ -83,7 +84,7 @@ export default async function EventsPage() {
             <article className="site-container">
               <EventsBoard initialEvents={events} />
             </article>
-          </div>
+          </PageShell>
         </main>
       </div>
     </>

@@ -1,7 +1,7 @@
 import { getCompanyBySlug, getCompanies } from '@/lib/companies';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Building2, Briefcase, ExternalLink, Calendar, MapPin, ArrowRight } from 'lucide-react';
+import { Building2, Briefcase, ExternalLink, Calendar, MapPin } from 'lucide-react';
 import fs from 'fs';
 import path from 'path';
 import Link from 'next/link';
@@ -11,7 +11,7 @@ import type { JobPosting, Organization, WithContext } from 'schema-dts';
 import { CompanyViewTracker } from '@/components/tracking/company-view-tracker';
 import { CompanyApplyButton } from '@/components/tracking/company-apply-button';
 import { OutboundLink } from '@/components/tracking/outbound-link';
-import { PageHeader } from "@/components/page-header";
+ "@/components/page-header";
 
 export const revalidate = 3600;
 export const dynamicParams = true;
