@@ -1,6 +1,6 @@
 import type { Job, Company } from '@/types';
 import { getJobs } from './jobs';
- './noslop';
+import * as cheerio from 'cheerio';
 import * as fs from 'fs';
 import * as path from 'path';
 
@@ -95,47 +95,100 @@ export async function getAllJobsWithSlugs(): Promise<{ job: Job; slug: string }[
 }
 
 /**
- * Parses and synthesizes a completely unique, plagiarism-free, 500+ word overview 
- * of the job posting based on the crawled content.
- */
-/**
- * Clean up HTML tags and extract clean block elements.
+ * Clean up HTML tags and extract structured block elements using Cheerio.
  */
 function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; text: string }> {
-  // Strip script, style, and iframe tags completely
-  let cleanHtml = html
-    .replace(/<script[\s\S]*?<\/script>/gi, '')
-    .replace(/<style[\s\S]*?<\/style>/gi, '')
-    .replace(/<iframe[\s\S]*?<\/iframe>/gi, '');
+  const decoded = html
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, ' ');
 
-  // Normalize header tags to h3
-  cleanHtml = cleanHtml.replace(/<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/gi, '<h3>$1</h3>');
+  const $ = cheerio.load(decoded);
 
-  // Convert list items to clean markup tag markers
-  cleanHtml = cleanHtml.replace(/<li[^>]*>([\s\S]*?)<\/li>/gi, '<li>$1</li>');
+  // Remove non-content tags
+  $('script, style, iframe, noscript, svg, button, form, input').remove();
 
-  // Convert paragraphs and divs to clean block markers
-  cleanHtml = cleanHtml.replace(/<p[^>]*>([\s\S]*?)<\/p>/gi, '<p>$1</p>');
-  cleanHtml = cleanHtml.replace(/<div[^>]*>([\s\S]*?)<\/div>/gi, '<p>$1</p>');
+  // Convert <br> tags to newlines
+  $('br').replaceWith('\n');
 
-  // Now, parse out all <h3>, <p>, and <li> texts
-  const blocks: Array<{ type: 'h3' | 'p' | 'li'; text: string }> = [];
-  const regex = /<(h3|p|li)>([\s\S]*?)<\/\1>/gi;
-  let match;
-  while ((match = regex.exec(cleanHtml)) !== null) {
-    const type = match[1] as 'h3' | 'p' | 'li';
-    let text = match[2]
-      .replace(/<[^>]*>/g, '') // Strip remaining inline tags
-      .replace(/&nbsp;/g, ' ')
-      .replace(/\s+/g, ' ')
-      .trim();
-    
-    if (text) {
-      blocks.push({ type, text });
+  // Convert standalone <strong> or <b> section headers into explicit heading markers
+  $('strong, b').each((_, el) => {
+    const text = $(el).text().trim();
+    if (text.length > 2 && text.length < 80 && !text.includes('.') && !text.includes(';') && !text.includes(',')) {
+      if (/^(about|overview|why|what|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|who|skills|bonus|location|role|the role|your impact|how to apply)/i.test(text)) {
+        $(el).replaceWith(`\n###HEADING###${text}\n`);
+      }
     }
+  });
+
+  // Normalize all explicit heading tags to heading markers
+  $('h1, h2, h3, h4, h5, h6').each((_, el) => {
+    const text = $(el).text().trim();
+    if (text) {
+      $(el).replaceWith(`\n###HEADING###${text}\n`);
+    }
+  });
+
+  // Normalize list items
+  $('li').each((_, el) => {
+    const text = $(el).text().trim();
+    if (text) {
+      $(el).replaceWith(`\n- ${text}\n`);
+    }
+  });
+
+  // Append newlines after block containers
+  $('p, div, section, article').each((_, el) => {
+    $(el).append('\n');
+  });
+
+  const fullText = $('body').text();
+  const blocks: Array<{ type: 'h3' | 'p' | 'li'; text: string }> = [];
+
+  const lines = fullText.split('\n').map((l) => l.trim()).filter(Boolean);
+  for (const line of lines) {
+    if (line.startsWith('###HEADING###')) {
+      const hText = line.replace('###HEADING###', '').replace(/[:]+$/, '').trim();
+      if (hText && hText.length < 100) {
+        blocks.push({ type: 'h3', text: hText });
+      }
+      continue;
+    }
+
+    // Bullet item
+    const bulletMatch = line.match(/^[-*•·▪–—]\s*(.*)$/);
+    if (bulletMatch) {
+      if (bulletMatch[1].trim()) {
+        blocks.push({ type: 'li', text: bulletMatch[1].trim() });
+      }
+      continue;
+    }
+
+    // Numbered list item: "1. Develop..."
+    const numMatch = line.match(/^\d+[\.\)]\s*(.*)$/);
+    if (numMatch && numMatch[1].trim()) {
+      blocks.push({ type: 'li', text: numMatch[1].trim() });
+      continue;
+    }
+
+    // Standalone heading line detection
+    if (
+      line.length < 60 &&
+      /^(about us|about the company|about the team|overview|why join us|what you.?ll do|what you will do|responsibilities|key responsibilities|core responsibilities|requirements|key requirements|qualifications|preferred qualifications|minimum qualifications|what we offer|benefits|perks|compensation and benefits|our values|culture|company culture|profile|who you are|the role|role overview|what we look for)[:]?$/i.test(
+        line
+      )
+    ) {
+      blocks.push({ type: 'h3', text: line.replace(/[:]+$/, '').trim() });
+      continue;
+    }
+
+    blocks.push({ type: 'p', text: line });
   }
 
-  // Fallback if regex parsing returned nothing
+  // Fallback if parsing produced nothing
   if (blocks.length === 0) {
     const textOnly = html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
     if (textOnly) {
@@ -156,9 +209,6 @@ function rephraseSentence(sentence: string): string {
     [/\bwe are looking for a\b/gi, 'The team is seeking a'],
     [/\bwe are seeking a\b/gi, 'The team is looking for a'],
     [/\byou will be responsible for\b/gi, 'Your core responsibilities will include'],
-    [/\bresponsibilities\b/gi, 'Key responsibilities'],
-    [/\bqualifications\b/gi, 'Required qualifications'],
-    [/\brequirements\b/gi, 'Key requirements'],
     [/\bwhat you will do\b/gi, 'Core duties'],
     [/\bwhat we offer\b/gi, 'Benefits and compensation'],
     [/\babout the company\b/gi, 'Company overview'],
@@ -191,13 +241,20 @@ function synthesizeUniqueJobContent(originalHtml: string, job: Job): string {
   let html = '<div class="space-y-6">';
 
   for (const block of blocks) {
-    const rephrasedText = rephraseSentence(block.text);
+    let rephrasedText = rephraseSentence(block.text);
 
     if (block.type === 'li') {
       if (!currentListOpen) {
         html += '<ul class="list-disc pl-5 space-y-2 my-4">';
         currentListOpen = true;
       }
+
+      // If item starts with "Label: Description", format label as bold
+      const colonMatch = rephrasedText.match(/^([A-Za-z0-9\s/&–—-]+):(\s+.*)$/);
+      if (colonMatch && colonMatch[1].length < 40) {
+        rephrasedText = `<strong>${colonMatch[1]}:</strong>${colonMatch[2]}`;
+      }
+
       html += `<li>${rephrasedText}</li>`;
     } else {
       if (currentListOpen) {
@@ -206,9 +263,9 @@ function synthesizeUniqueJobContent(originalHtml: string, job: Job): string {
       }
       
       if (block.type === 'h3') {
-        html += `<h3 class="text-xl font-bold mt-6 mb-3">${rephrasedText}</h3>`;
+        html += `<h3 class="text-xl font-bold mt-6 mb-3 text-foreground">${rephrasedText}</h3>`;
       } else {
-        html += `<p class="leading-relaxed">${rephrasedText}</p>`;
+        html += `<p class="leading-relaxed text-muted-foreground">${rephrasedText}</p>`;
       }
     }
   }
@@ -256,12 +313,7 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
         if (res.ok) {
           const data = await res.json();
           if (data.content) {
-            rawContent = data.content
-              .replace(/&lt;/g, '<')
-              .replace(/&gt;/g, '>')
-              .replace(/&amp;/g, '&')
-              .replace(/&quot;/g, '"')
-              .replace(/&#39;/g, "'");
+            rawContent = data.content;
             saveJobDescriptionToCache(job.id, rawContent);
           }
         }
@@ -357,6 +409,6 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
     rawContent = `<div><h3>Job Overview</h3><p>${job.title} role at ${job.company}.</p></div>`;
   }
 
-  // Synthesize a completely unique, plagiarism-free review page > 500 words
+  // Synthesize a completely unique, structured job description
   return synthesizeUniqueJobContent(rawContent, job);
 }
