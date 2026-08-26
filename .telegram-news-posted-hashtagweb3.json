@@ -497,6 +497,9 @@
   "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
   "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
+  "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+  "https://decrypt.co/376577/roman-storms-tornado-cash-retrial-pushed-to-april-2027",
+  "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1399,6 +1402,12 @@
   "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
   "Crypto Market Sentiment Shifts to Extreme Greed",
   "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
+  "Revolut launches euro stablecoin EURR in Europe",
+  "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+  "US court delays Tornado Cash developer trial to 2027",
+  "Roman Storm's Tornado Cash Retrial Pushed to April 2027",
+  "Japan financial regulators plan blockchain securities settlement system",
+  "Japan weighs blockchain fast lane for securities cash settlement",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1446,5 +1455,8 @@
   "fp:789|at1|btc|coldcard|eighty|fund|galaxy|hack|loss|lost",
   "fp:bank|bond|cbdc|central|controll|currency|debt|digital|india|investor",
   "fp:account|befor|bloom|disclos|earn|energy|her|husband|investment|nancy",
-  "fp:extrem|fear|fearful|flip|gre|index|last|market|month|of36"
+  "fp:extrem|fear|fearful|flip|gre|index|last|market|month|of36",
+  "fp:access|bank|began|begin|digital|euro|europ|european|eurr|expand",
+  "fp:acquittal|adjourn|april2027|cash|court|criminal|delay|developer|federal|his",
+  "fp:agency|blockchain|cash|creat|development|early2027|fast|financial|institution|japan"
 ]

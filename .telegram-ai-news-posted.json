@@ -530,6 +530,9 @@
   "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
   "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
   "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+  "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+  "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+  "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1373,6 +1376,12 @@
   "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
   "Apple releases desktop computers designed for local AI development",
   "Apple's new desktop computers are designed specifically for local AI development",
+  "IBM releases Granite 4.2 artificial intelligence models",
+  "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+  "Robotics startup Generalist reaches $3 billion valuation",
+  "Robotics startup Generalist reaches $3B valuation, sources say",
+  "Parents Are Establishing Digital Footprints for Newborns",
+  "Raised on AI",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1420,5 +1429,8 @@
   "fp:advocat|are|autonomous|concern|consciousness|debat|executiv|focus|framework|frontier",
   "fp:232m|76m|developer|diffusion|financ|fresh|fund|generator|imag|rais",
   "fp:benchmark|built|chip|current|custom|demonstrat|efficiency|energy|fast|hardwar",
-  "fp:appl|are|computer|design|desktop|developer|development|devic|enabl|link"
+  "fp:appl|are|computer|design|desktop|developer|development|devic|enabl|link",
+  "fp:agentic|automation|enterpris|execution|granite42|hardwar|ibm|interest|llm|local",
+  "fp:200m|development|fund|generalist|physical|rais|reach|robotic|say|scal",
+  "fp:account|are|birth|children|digital|email|establish|footprint|immediately|media"
 ]
