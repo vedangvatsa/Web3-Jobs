@@ -232,11 +232,24 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
   if (rawContent.length < 100) {
     const url = job.link || '';
     try {
-      // 1. Greenhouse Board URL
+      // 1. Greenhouse Board URL or Query Param
+      let ghBoard = '';
+      let ghJobId = '';
+
       const ghMatch = url.match(/greenhouse\.io\/([^\/]+)\/jobs\/(\d+)/i);
       if (ghMatch) {
-        const [, board, ghJobId] = ghMatch;
-        const res = await fetch(`https://boards-api.greenhouse.io/v1/boards/${board}/jobs/${ghJobId}`, {
+        ghBoard = ghMatch[1];
+        ghJobId = ghMatch[2];
+      } else {
+        const ghJidMatch = url.match(/gh_jid=(\d+)/i) || url.match(/\/positions\/(\d+)/i) || url.match(/\/job\/(\d+)/i);
+        if (ghJidMatch) {
+          ghJobId = ghJidMatch[1];
+          ghBoard = (job.company || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+        }
+      }
+
+      if (ghBoard && ghJobId) {
+        const res = await fetch(`https://boards-api.greenhouse.io/v1/boards/${ghBoard}/jobs/${ghJobId}`, {
           next: { revalidate: 86400 },
           headers: { 'User-Agent': 'HashtagWeb3/1.0' },
         });
