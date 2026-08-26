@@ -1,5 +1,17 @@
 [
   {
+    "id": "65.D67",
+    "title": "Senior Legal Counsel, Commercial & Trading",
+    "company": "eToro",
+    "link": "https://www.etoro.com/about/careers/position/65.d67/",
+    "date": "2026-08-26T11:44:49Z",
+    "source": "Comeet: eToro [41.009]",
+    "location": "Limassol, Cyprus",
+    "department": "COO Group",
+    "active": true,
+    "slug": "compliance-1m3u0dc"
+  },
+  {
     "id": "8093103",
     "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
     "company": "Stripe",
@@ -1573,6 +1585,18 @@
     "department": null,
     "active": true,
     "slug": "manager200"
+  },
+  {
+    "id": "8156203",
+    "title": "Junior Quantitative Researcher",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8156203",
+    "date": "2026-08-25T07:54:56-04:00",
+    "source": "Greenhouse: Flow Traders [flowtraders]",
+    "location": "New York",
+    "department": "Trading",
+    "active": true,
+    "slug": "trader-0jfpofp"
   },
   {
     "id": "ede61dd7-a10b-4504-afd2-d61ec4d33cfe",
@@ -4505,28 +4529,6 @@
     "slug": "staff1"
   },
   {
-    "id": "JR101118",
-    "title": "Manager, Risk Management - AI Transformation",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager--Risk-Management---AI-Transformation_JR101118",
-    "date": "2026-08-20",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "manager-1o16fk5"
-  },
-  {
-    "id": "JR101116",
-    "title": "Senior Director, Ecosystem Growth, South Korea",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/South-Korea/Senior-Director--Ecosystem-Growth--South-Korea_JR101116-1",
-    "date": "2026-08-20",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "South Korea",
-    "active": true,
-    "slug": "marketing-0yqj695"
-  },
-  {
     "id": "JR101119",
     "title": "Senior Analyst, Network Onboarding",
     "company": "Circle",
@@ -4538,6 +4540,17 @@
     "slug": "onboarding-1iipq86"
   },
   {
+    "id": "JR101118",
+    "title": "Manager, Risk Management - AI Transformation",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager--Risk-Management---AI-Transformation_JR101118",
+    "date": "2026-08-20",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "manager-1o16fk5"
+  },
+  {
     "id": "JR101115",
     "title": "Senior Analyst, Investigation Operations",
     "company": "Circle",
@@ -4547,6 +4560,17 @@
     "location": "Bangalore - remote first in India",
     "active": true,
     "slug": "analyst-1s79wcs"
+  },
+  {
+    "id": "JR101116",
+    "title": "Senior Director, Ecosystem Growth, South Korea",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/South-Korea/Senior-Director--Ecosystem-Growth--South-Korea_JR101116-1",
+    "date": "2026-08-20",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "South Korea",
+    "active": true,
+    "slug": "marketing-0yqj695"
   },
   {
     "id": "5396424008",
@@ -5300,18 +5324,6 @@
     "department": "Predictions",
     "active": true,
     "slug": "product203"
-  },
-  {
-    "id": "65.D67",
-    "title": "Senior Legal Counsel, Commercial & Trading",
-    "company": "eToro",
-    "link": "https://www.etoro.com/about/careers/position/65.d67/",
-    "date": "2026-08-19T07:13:21Z",
-    "source": "Comeet: eToro [41.009]",
-    "location": "Limassol, Cyprus",
-    "department": "COO Group",
-    "active": true,
-    "slug": "compliance-1m3u0dc"
   },
   {
     "id": "00d30138-3f9e-4db8-aff0-47fec63080e2",
@@ -9902,17 +9914,6 @@
     "slug": "product-1yka10g"
   },
   {
-    "id": "JR101098",
-    "title": "Software Engineer II",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Taipei-City---remote-first-in-Taiwan/Software-Engineer-II_JR101098",
-    "date": "2026-08-12",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Taipei City - remote first in Taiwan",
-    "active": true,
-    "slug": "engineer-0jerx60"
-  },
-  {
     "id": "JR101105",
     "title": "Senior Regulatory Compliance Manager",
     "company": "Circle",
@@ -9922,6 +9923,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "compliance-0yi8rx7"
+  },
+  {
+    "id": "JR101098",
+    "title": "Software Engineer II",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Taipei-City---remote-first-in-Taiwan/Software-Engineer-II_JR101098",
+    "date": "2026-08-12",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Taipei City - remote first in Taiwan",
+    "active": true,
+    "slug": "engineer-0jerx60"
   },
   {
     "id": "8123027",
@@ -10654,19 +10666,6 @@
     "slug": "director-1hw8190"
   },
   {
-    "id": "6c8f39d4-20f1-4938-b120-0f5f35ff2a9c",
-    "title": "Senior Product Marketing Manager, Institutional Data",
-    "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/6c8f39d4-20f1-4938-b120-0f5f35ff2a9c",
-    "date": "2026-08-11",
-    "dateVerified": true,
-    "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "New York City / Remote",
-    "department": "Marketing",
-    "active": true,
-    "slug": "product-00bxjzx"
-  },
-  {
     "id": "b028fc10-6a96-4afc-9196-1a012591c6f0",
     "title": "Senior Product Marketing Manager, Payments & Treasury",
     "company": "Chainlink Labs",
@@ -10678,6 +10677,19 @@
     "department": "Marketing",
     "active": true,
     "slug": "product-1fi6ybu"
+  },
+  {
+    "id": "6c8f39d4-20f1-4938-b120-0f5f35ff2a9c",
+    "title": "Senior Product Marketing Manager, Institutional Data",
+    "company": "Chainlink Labs",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/6c8f39d4-20f1-4938-b120-0f5f35ff2a9c",
+    "date": "2026-08-11",
+    "dateVerified": true,
+    "source": "Ashby: Chainlink Labs [chainlink-labs]",
+    "location": "New York City / Remote",
+    "department": "Marketing",
+    "active": true,
+    "slug": "product-00bxjzx"
   },
   {
     "id": "39",
@@ -14117,20 +14129,6 @@
     "slug": "engineer113"
   },
   {
-    "id": "9CB0EE3B47",
-    "title": "Head of Product Marketing (Financial Products)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/9CB0EE3B47",
-    "date": "2026-08-05T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
-    "department": [
-      "Marketing"
-    ],
-    "active": true,
-    "slug": "product-003qqs8"
-  },
-  {
     "id": "91177F2914",
     "title": "Head of Product Marketing (Core)",
     "company": "GoMining",
@@ -14143,6 +14141,20 @@
     ],
     "active": true,
     "slug": "product-11hyxdr"
+  },
+  {
+    "id": "9CB0EE3B47",
+    "title": "Head of Product Marketing (Financial Products)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/9CB0EE3B47",
+    "date": "2026-08-05T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
+    "department": [
+      "Marketing"
+    ],
+    "active": true,
+    "slug": "product-003qqs8"
   },
   {
     "id": "2AB065F537",
@@ -14846,17 +14858,6 @@
     "slug": "engineer-0pdme7w"
   },
   {
-    "id": "JR101085",
-    "title": "Senior Site Reliability Engineer - Infra Ops",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Site-Reliability-Engineer---Infra-Ops_JR101085",
-    "date": "2026-08-04",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "engineer-1xxgd4g"
-  },
-  {
     "id": "JR101101",
     "title": "Staff Site Reliability Engineer",
     "company": "Circle",
@@ -14866,6 +14867,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "engineer-1jt0own"
+  },
+  {
+    "id": "JR101085",
+    "title": "Senior Site Reliability Engineer - Infra Ops",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Site-Reliability-Engineer---Infra-Ops_JR101085",
+    "date": "2026-08-04",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "engineer-1xxgd4g"
   },
   {
     "id": "868",
@@ -19822,19 +19834,6 @@
     "slug": "security-07pkmoi"
   },
   {
-    "id": "29a35402-8d93-443c-ae31-891b122591d7",
-    "title": "People Business Partner - Engineering",
-    "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/29a35402-8d93-443c-ae31-891b122591d7",
-    "date": "2026-07-24",
-    "dateVerified": true,
-    "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "United States",
-    "department": "People",
-    "active": true,
-    "slug": "engineer-04bc37b"
-  },
-  {
     "id": "4d419a38-61e0-4dd9-9c0f-061bf87f2d78",
     "title": "Institutional Relations Lead",
     "company": "Chainlink Labs",
@@ -19846,6 +19845,19 @@
     "department": "Marketing",
     "active": true,
     "slug": "devrel-0qirmg0"
+  },
+  {
+    "id": "29a35402-8d93-443c-ae31-891b122591d7",
+    "title": "People Business Partner - Engineering",
+    "company": "Chainlink Labs",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/29a35402-8d93-443c-ae31-891b122591d7",
+    "date": "2026-07-24",
+    "dateVerified": true,
+    "source": "Ashby: Chainlink Labs [chainlink-labs]",
+    "location": "United States",
+    "department": "People",
+    "active": true,
+    "slug": "engineer-04bc37b"
   },
   {
     "id": "8060600",
@@ -23589,17 +23601,6 @@
     "slug": "product-0umhf8x"
   },
   {
-    "id": "JR101078",
-    "title": "Senior Finance Systems Analyst",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Finance-Systems-Analyst_JR101078",
-    "date": "2026-07-17",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Delhi - remote first in India",
-    "active": true,
-    "slug": "analyst-081mupi"
-  },
-  {
     "id": "JR100710",
     "title": "Senior Analyst, AML Transaction Monitoring",
     "company": "Circle",
@@ -23609,6 +23610,17 @@
     "location": "Dublin - remote first in Ireland",
     "active": true,
     "slug": "analyst-1cvizcu"
+  },
+  {
+    "id": "JR101078",
+    "title": "Senior Finance Systems Analyst",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Finance-Systems-Analyst_JR101078",
+    "date": "2026-07-17",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Delhi - remote first in India",
+    "active": true,
+    "slug": "analyst-081mupi"
   },
   {
     "id": "8070054",
@@ -27895,6 +27907,17 @@
     "slug": "sales-0mbp0gz"
   },
   {
+    "id": "JR101073",
+    "title": "Regional Marketing Director, LATAM",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/Regional-Marketing-Director--LATAM_JR101073",
+    "date": "2026-07-07",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "São Paulo - remote first in Brazil",
+    "active": true,
+    "slug": "marketing-16obp23"
+  },
+  {
     "id": "JR100798",
     "title": "Senior Manager, Financial Intelligence Unit, MEA",
     "company": "Circle",
@@ -27915,17 +27938,6 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "product-15nfv39"
-  },
-  {
-    "id": "JR101073",
-    "title": "Regional Marketing Director, LATAM",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/Regional-Marketing-Director--LATAM_JR101073",
-    "date": "2026-07-07",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "São Paulo - remote first in Brazil",
-    "active": true,
-    "slug": "marketing-16obp23"
   },
   {
     "id": "8042281",
@@ -29979,6 +29991,20 @@
     "slug": "control-0500qtq"
   },
   {
+    "id": "2D1288EA7F",
+    "title": "Regional Merchant Business Development Manager (Miami USA)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/2D1288EA7F",
+    "date": "2026-06-30T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Miami, United States",
+    "department": [
+      "BD"
+    ],
+    "active": true,
+    "slug": "product-07d5y0u"
+  },
+  {
     "id": "2D8F619740",
     "title": "Regional Merchant Business Development Manager (Dubai UAE)",
     "company": "GoMining",
@@ -30005,20 +30031,6 @@
     ],
     "active": true,
     "slug": "product-08jvqk1"
-  },
-  {
-    "id": "2D1288EA7F",
-    "title": "Regional Merchant Business Development Manager (Miami USA)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/2D1288EA7F",
-    "date": "2026-06-30T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Miami, United States",
-    "department": [
-      "BD"
-    ],
-    "active": true,
-    "slug": "product-07d5y0u"
   },
   {
     "id": "JR101069",
@@ -32545,17 +32557,6 @@
     "slug": "frontend-1jqwtq5"
   },
   {
-    "id": "JR101060",
-    "title": "Security Engineer II, Detection and Response",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
-    "date": "2026-06-22",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "security-04frltc"
-  },
-  {
     "id": "JR100838",
     "title": "Senior Smart Contract Engineer",
     "company": "Circle",
@@ -32565,6 +32566,17 @@
     "location": "Taipei City - remote first in Taiwan",
     "active": true,
     "slug": "engineer-0gudmt0"
+  },
+  {
+    "id": "JR101060",
+    "title": "Security Engineer II, Detection and Response",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
+    "date": "2026-06-22",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "security-04frltc"
   },
   {
     "id": "JR101064",
@@ -35544,17 +35556,6 @@
     "slug": "manager-13l7yrd"
   },
   {
-    "id": "JR100970",
-    "title": "Senior Counsel, Transactions (Capital Markets)",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Senior-Counsel--Transactions--Capital-Markets-_JR100970",
-    "date": "2026-06-11",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "New York City - remote first in US",
-    "active": true,
-    "slug": "senior-1rc1mcw"
-  },
-  {
     "id": "JR101051",
     "title": "Principal Security Engineer, Detection & Response",
     "company": "Circle",
@@ -35564,6 +35565,17 @@
     "location": "Dublin - remote first in Ireland",
     "active": true,
     "slug": "security-096nrdu"
+  },
+  {
+    "id": "JR100970",
+    "title": "Senior Counsel, Transactions (Capital Markets)",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Senior-Counsel--Transactions--Capital-Markets-_JR100970",
+    "date": "2026-06-11",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "New York City - remote first in US",
+    "active": true,
+    "slug": "senior-1rc1mcw"
   },
   {
     "id": "7758803003",
@@ -38665,17 +38677,6 @@
     "slug": "strategic-03u2et0"
   },
   {
-    "id": "JR101048",
-    "title": "Senior Director, Enterprise Business Development, APAC",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Singapore---remote-first-in-Singapore/Senior-Director--Enterprise-Business-Development--APAC_JR101048",
-    "date": "2026-06-03",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Singapore - remote first in Singapore",
-    "active": true,
-    "slug": "product-0nww9ch"
-  },
-  {
     "id": "JR101050",
     "title": "Senior Analyst, AML Know Your Customer, APAC",
     "company": "Circle",
@@ -38685,6 +38686,17 @@
     "location": "Singapore - remote first in Singapore",
     "active": true,
     "slug": "analyst-11fc1ud"
+  },
+  {
+    "id": "JR101048",
+    "title": "Senior Director, Enterprise Business Development, APAC",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Singapore---remote-first-in-Singapore/Senior-Director--Enterprise-Business-Development--APAC_JR101048",
+    "date": "2026-06-03",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Singapore - remote first in Singapore",
+    "active": true,
+    "slug": "product-0nww9ch"
   },
   {
     "id": "143",
@@ -42083,20 +42095,6 @@
     "slug": "compliance-0bwhtgu"
   },
   {
-    "id": "7FC3D0CE7F",
-    "title": "Quantitative Trader",
-    "company": "Hex Trust",
-    "link": "https://apply.workable.com/j/7FC3D0CE7F",
-    "date": "2026-05-18T00:00:00.000Z",
-    "source": "Workable: Hex Trust [hextrust]",
-    "location": "United States / Canada / France / Dubai, United Arab Emirates",
-    "department": [
-      "Markets"
-    ],
-    "active": true,
-    "slug": "trader-1s52chm"
-  },
-  {
     "id": "F388E7681D",
     "title": "Analyst / Associate - Institutional Sales (Mandarin Speaking)",
     "company": "Hex Trust",
@@ -42109,6 +42107,20 @@
     ],
     "active": true,
     "slug": "analyst-039y28k"
+  },
+  {
+    "id": "7FC3D0CE7F",
+    "title": "Quantitative Trader",
+    "company": "Hex Trust",
+    "link": "https://apply.workable.com/j/7FC3D0CE7F",
+    "date": "2026-05-18T00:00:00.000Z",
+    "source": "Workable: Hex Trust [hextrust]",
+    "location": "United States / Canada / France / Dubai, United Arab Emirates",
+    "department": [
+      "Markets"
+    ],
+    "active": true,
+    "slug": "trader-1s52chm"
   },
   {
     "id": "8BD673D5B6",
@@ -47593,15 +47605,15 @@
     "slug": "manager-1nbpftj"
   },
   {
-    "id": "JR100869",
-    "title": "Principal Product Operations and Risk Analyst",
+    "id": "JR100878",
+    "title": "VP, Global Head of Product Security and Risk",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Head-of-Product-Security-and-Risk_JR100878",
     "date": "2026-04-06",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "product-1keafqe"
+    "slug": "security-0xxeziz"
   },
   {
     "id": "JR100014-EG",
@@ -47626,6 +47638,17 @@
     "slug": "product-15dg9ea"
   },
   {
+    "id": "JR100869",
+    "title": "Principal Product Operations and Risk Analyst",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "product-1keafqe"
+  },
+  {
     "id": "JR100849",
     "title": "Distinguished Software Engineer",
     "company": "Circle",
@@ -47635,17 +47658,6 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "frontend-1wasn1s"
-  },
-  {
-    "id": "JR100878",
-    "title": "VP, Global Head of Product Security and Risk",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Head-of-Product-Security-and-Risk_JR100878",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "security-0xxeziz"
   },
   {
     "id": "7778643",
