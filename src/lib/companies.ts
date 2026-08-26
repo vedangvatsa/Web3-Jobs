@@ -205,25 +205,35 @@ export async function getCompanies(): Promise<Company[]> {
  });
  
  // Load enriched content for each company
- await Promise.all(
-  companies.map(async (company) => {
-   const content = await loadCompanyContent(company.slug);
-   if (content) {
-    Object.assign(company, {
-     ...(content.website && { website: content.website }),
-     description: content.description,
-     founded: content.founded,
-     category: content.category,
-     headquarters: content.headquarters,
-     about: content.about,
-     mission: content.mission,
-     culture: content.culture,
-     benefits: content.benefits,
-     techStack: content.techStack,
-    });
-   }
-  })
- );
+  await Promise.all(
+   companies.map(async (company) => {
+    const content = await loadCompanyContent(company.slug);
+    if (content) {
+     Object.assign(company, {
+      ...(content.website && { website: content.website }),
+      description: content.description,
+      founded: content.founded,
+      category: content.category,
+      headquarters: content.headquarters,
+      about: content.about,
+      mission: content.mission,
+      culture: content.culture,
+      benefits: content.benefits,
+      techStack: content.techStack,
+     });
+    }
+    
+    // Provide realistic fallbacks for missing descriptions/about fields
+    if (!company.description) {
+      const topJobs = company.jobs.slice(0, 2).map(j => j.title).join(' and ');
+      company.description = `Explore open careers and job opportunities at ${company.name}, specializing in Web3 development. Current openings include ${topJobs || 'various roles'}.`;
+    }
+    if (!company.about) {
+      const rolesStr = company.jobCount === 1 ? '1 active job listing' : `${company.jobCount} active job listings`;
+      company.about = `<p>${company.name} is an active contributor to the Web3 and decentralised technologies ecosystem. The organisation is currently expanding its team and has ${rolesStr} available on our platform.</p><p>By joining ${company.name}, you will work alongside skilled industry professionals in a fast-paced environment. Explore their open roles below to find a career path that matches your skills in engineering, product management, design, or marketing.</p>`;
+    }
+   })
+  );
  
  // Sort by job count (most jobs first)
  companies.sort((a, b) => b.jobCount - a.jobCount);
@@ -304,6 +314,16 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
    benefits: content.benefits,
    techStack: content.techStack,
   });
+ }
+ 
+ // Provide realistic fallbacks for missing descriptions/about fields
+ if (!company.description) {
+  const topJobs = company.jobs.slice(0, 2).map(j => j.title).join(' and ');
+  company.description = `Explore open careers and job opportunities at ${company.name}, specializing in Web3 development. Current openings include ${topJobs || 'various roles'}.`;
+ }
+ if (!company.about) {
+  const rolesStr = company.jobCount === 1 ? '1 active job listing' : `${company.jobCount} active job listings`;
+  company.about = `<p>${company.name} is an active contributor to the Web3 and decentralised technologies ecosystem. The organisation is currently expanding its team and has ${rolesStr} available on our platform.</p><p>By joining ${company.name}, you will work alongside skilled industry professionals in a fast-paced environment. Explore their open roles below to find a career path that matches your skills in engineering, product management, design, or marketing.</p>`;
  }
  
  return company;

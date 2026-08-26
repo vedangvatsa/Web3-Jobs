@@ -76,7 +76,7 @@ export default async function CompaniesPage() {
       <div className="mb-8">
        <h2 className="text-3xl font-bold mb-2 flex items-center gap-2">
         <BarChart3 className="h-7 w-7 text-primary" />
-        Top hiring right now
+        Top companies hiring right now
        </h2>
        <p className="text-muted-foreground">Companies with the most active job openings</p>
       </div>
