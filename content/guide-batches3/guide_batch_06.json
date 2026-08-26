@@ -88,6 +88,7 @@
         "heading": "Desks, protocols, and the terms of engagement",
         "content": [
           "The pairing of trading desks and protocol builders is deliberate. Desks bring execution requirements; protocols bring roadmap constraints. Somewhere in the middle sits product-market fit for institutional perps: clearer liquidation mechanics, insurance funds that inspire confidence, APIs that do not require a PhD. Watching those two constituencies translate jargon at each other is the quiet appeal of a session like this.",
+          "Risk framing deserves its own mention. Institutions approaching perps care less about headline funding rates than about tail scenarios: what happens to an on-chain position during a cascade, how oracle failure is handled, who bears the shortfall when insurance funds run dry. Sessions that put those questions to protocol teams in front of an audience produce answers far more concrete than documentation pages ever manage.",
           "For anyone building tooling, analytics, or market-making infrastructure around perps, the day doubles as customer discovery. The people deciding where institutional order flow goes will be within arm's reach, which is worth more than any badge tier at the main conference."
         ]
       },
@@ -121,7 +122,8 @@
         "heading": "Momentum worth weighing before a meeting",
         "content": [
           "The company's ecosystem page reads like a central banker's contact list, with Banco Central do Brasil, the BIS, Mastercard, Accenture, Tether, XP, and LayerZero among listed partners, alongside Brazilian credit and tokenization firms such as AmFi and Nuclea whose executives appear in testimonials about building private networks on the stack. Backers named on the site include Framework, ParaFi, Valor Capital, Alexia Ventures, and Accenture.",
-          "Recent operational signals matter too. Parfin, the company behind Rayls, extended the lock-up on its RLS allocation by a year and migrated it on-chain in August, and the consensus layer went open source weeks earlier. Whether or not you buy the thesis, the team is behaving like it plans to stay."
+          "Recent operational signals matter too. Parfin, the company behind Rayls, extended the lock-up on its RLS allocation by a year and migrated it on-chain in August, and the consensus layer went open source weeks earlier. Whether or not you buy the thesis, the team is behaving like it plans to stay.",
+          "Context for newcomers: the interbank angle is not marketing garnish. The protocol emerged from Parfin's work on Latin American financial infrastructure, and its design choices, permissioned participation at the edges with public-chain settlement at the center, reflect years of sitting in rooms with bank CTOs rather than DeFi summits. That lineage shows in the product decisions, for better and occasionally for worse if you arrive expecting crypto-native defaults."
         ]
       },
       {
@@ -154,6 +156,7 @@
         "heading": "How the wider machine works",
         "content": [
           "HackIndia describes itself as India's largest hackathon platform, and the surrounding apparatus supports the claim: participating college lists, board of advisors, brand ambassadors across campuses, and an ecosystem directory that maps the projects and companies feeding off the events. There is even a prompt optimizer tool on the site, a small but telling nod to how its audience builds now.",
+          "The series' cadence matters for students planning a season. Spark editions run city by city through the year, which means a strong showing in Jaipur can feed into later rounds, mentor relationships, and visibility with partner companies that follow the whole circuit. Treat it as an entry point into a pipeline rather than a standalone weekend.",
           "Community channels run through WhatsApp, Telegram-style group chats, GitHub, and the usual social platforms, with a contact number published for direct questions. First-timers should join those channels early; team formation, track announcements, and mentor office hours tend to flow through them in the weeks before kickoff."
         ]
       },
@@ -194,6 +197,7 @@
         "heading": "Practical planning notes",
         "content": [
           "Registration and venue specifics route through Cointelegraph's official channels, so confirm attendance details there as the date approaches; KBW-season events regularly update locations in the final weeks. Budget time for the commute math between Gangnam venues, which during peak conference hours is less trivial than the map suggests.",
+          "Dress code thinking is worth thirty seconds too. Seoul's KBW crowd splits between exchange-formal and founder-casual, and a media-convened forum sits comfortably in the middle; smart casual covers every room you are likely to enter that day. Carry business cards anyway. The habit persists in Korean business culture more than almost anywhere else in tech.",
           "Come prepared to introduce yourself quickly and specifically. Rooms convened by media brands reward people with a clear story: what you build, why now, and what you need. Have that answer rehearsed, then spend the day listening as much as pitching, because the journalists in the room remember good sources longer than good pitches."
         ]
       }
@@ -227,6 +231,7 @@
         "heading": "The practical rundown",
         "content": [
           "The event runs 09:00 to 18:00 on October 9. Confirm registration, venue, and showcase applications through Cointelegraph's official channels, since TOKEN2049-week programming frequently adjusts logistics as the date nears. Singapore's venue geography is forgiving, the MRT solves most transport problems, and October humidity argues for scheduling outdoor conversations in the evening rather than midday.",
+          "Visa logistics deserve an early check for anyone flying in from outside the visa-free list; Singapore's e-arrival processing is quick but not instant, and conference week queues at Changi are real. Within the city, book accommodation near a downtown MRT interchange rather than chasing proximity to the specific venue, because side events scatter across Marina Bay and the CBD all week.",
           "Stack your week deliberately. With the main conference and dozens of side events compressed into the same stretch, treat CONNECT as the concentrated dose: one day for structured exposure to founders and capital, leaving the remaining days for the bilateral meetings it generates."
         ]
       }
@@ -293,6 +298,7 @@
         "heading": "Making the case to attend",
         "content": [
           "The honest argument for ETHWomen is compounding access. Women-led projects still raise a fraction of comparable crypto funding, and rooms where founders, engineers, and investors share a table on equal footing remain scarce enough to matter. An event that combines that access with the hiring surface and sponsor floor of a major conference offers more leverage per hour than attending either alone.",
+          "There is also the mentorship economy around it. Programs of this kind historically pair emerging builders with senior engineers and founders for structured sessions, and the relationships formed there tend to outlast the event calendar by years. For teams weighing whether to send junior staff, that alone usually justifies the badge.",
           "Check both ethwomen.com and futuristconference.com as November approaches for the confirmed venue, ticketing, and speaker announcements, since programming details firm up closest to the date. Students and career-switchers should look closely too: the bootcamp tradition and beginner-friendly programming across the Futurist family lower the barrier considerably for people early in their web3 journey."
         ]
       }
