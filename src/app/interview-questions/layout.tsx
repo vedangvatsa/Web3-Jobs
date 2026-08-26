@@ -2,14 +2,14 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Web3 Interview Question Bank | 200+ Questions',
+ title: 'Interview Questions',
  description: 'Web3 interview question bank with 200+ real questions for Solidity, DeFi, Product Management, Security, and related roles.',
  alternates: {
   canonical: '/interview-questions',
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Interview Question Bank | 200+ Questions',
+  title: 'Interview Questions | Hashtag Web3',
   description: 'Ace your next Web3 interview. Our question bank covers 200+ questions for Solidity, DeFi, PM, and non-technical roles.',
   url: 'https://hashtagweb3.com/interview-questions',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Interview Question Bank | 200+ Questions',
+  title: 'Interview Questions | Hashtag Web3',
   description: 'Prepare for Web3 interviews with a structured bank of 200+ role-based questions.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Interview%20Questions'],
  },

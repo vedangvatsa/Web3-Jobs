@@ -7,18 +7,18 @@ import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 
 export const metadata: Metadata = {
-  title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
+  title: 'Web3 Events 2026',
   description: 'Discover the top Web3 events, crypto conferences, blockchain summits, and virtual meetups. Stay updated with the latest in DeFi, DAOs, and crypto networking.',
   openGraph: {
     type: 'website',
-    title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
+    title: 'Web3 Events 2026 | Hashtag Web3',
     description: 'Browse 3,000+ upcoming Web3 events, crypto conferences, blockchain summits, and builder meetups worldwide.',
     url: 'https://hashtagweb3.com/events',
     images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Events%20Calendar', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
+    title: 'Web3 Events 2026 | Hashtag Web3',
     description: 'Browse 3,000+ upcoming Web3 events, crypto conferences, blockchain summits, and builder meetups worldwide.',
     images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Events%20Calendar'],
   },

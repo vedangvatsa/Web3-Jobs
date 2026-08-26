@@ -9,21 +9,21 @@ import { CompanyLogo } from '@/components/company-logo';
 import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 
 export const metadata: Metadata = {
- title: 'Web3 Companies Hiring - Browse Blockchain & Crypto Companies',
+ title: 'Top Web3 Companies',
  description: 'Explore Web3 companies actively hiring. Find jobs at leading blockchain, DeFi, NFT, and crypto companies. Updated daily with latest positions.',
  alternates: {
   canonical: '/companies',
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Companies Hiring - Browse Top Blockchain Companies',
+  title: 'Top Web3 Companies | Hashtag Web3',
   description: 'Explore Web3 companies actively hiring. Find jobs at leading blockchain, DeFi, and crypto companies.',
   url: 'https://hashtagweb3.com/companies',
   images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Companies', width: 1200, height: 630, alt: 'Web3 Companies hiring in crypto and blockchain' }],
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Companies Hiring - Browse Top Blockchain Companies',
+  title: 'Top Web3 Companies | Hashtag Web3',
   description: 'Explore Web3 companies actively hiring in blockchain, DeFi, and crypto.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Companies'],
  },

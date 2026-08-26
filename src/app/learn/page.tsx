@@ -9,19 +9,19 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
- title: 'Learn Web3 - Free Courses on Blockchain, DeFi, Smart Contracts & Careers',
+ title: 'Learn Web3',
  description: 'Structured courses to learn Web3 from scratch. 66 structured lessons with diagrams, quizzes, and career guidance. Written for beginners, developers, and job seekers.',
  alternates: { canonical: 'https://hashtagweb3.com/learn' },
  openGraph: {
   type: 'website',
-  title: 'Learn Web3 - Free Structured Courses',
+  title: 'Learn Web3 | Hashtag Web3',
   description: 'From zero to building on-chain. 66 structured lessons with diagrams and quizzes for beginners, developers, and job seekers.',
   url: 'https://hashtagweb3.com/learn',
   images: [{ url: 'https://hashtagweb3.com/api/og?type=article&title=Learn%20Web3&category=Free%20Courses', width: 1200, height: 630, alt: 'Learn Web3 - Free structured courses on Hashtag Web3' }],
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Learn Web3 - Free Structured Courses',
+  title: 'Learn Web3 | Hashtag Web3',
   description: 'From zero to building on-chain. 66 structured lessons with diagrams and quizzes.',
   images: ['https://hashtagweb3.com/api/og?type=article&title=Learn%20Web3&category=Free%20Courses'],
  },

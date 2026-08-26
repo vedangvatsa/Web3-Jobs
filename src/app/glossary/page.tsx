@@ -7,14 +7,14 @@ import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
 
 export const metadata: Metadata = {
- title: 'Web3 Glossary - Complete Guide to Blockchain & Crypto Terms',
+ title: 'Web3 Glossary',
  description: 'Web3 glossary covering blockchain, cryptocurrency, DeFi, and NFT terminology with plain-language explanations.',
  alternates: {
   canonical: '/glossary',
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Glossary - Blockchain & Crypto Terms Explained',
+  title: 'Web3 Glossary | Hashtag Web3',
   description: 'Complete guide to Web3 terminology. Understand blockchain, DeFi, NFTs, and cryptocurrency concepts.',
   url: 'https://hashtagweb3.com/glossary',
   images: [{
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Glossary - Blockchain & Crypto Terms Explained',
+  title: 'Web3 Glossary | Hashtag Web3',
   description: 'Explore 200+ Web3 and cryptocurrency terms. Complete guide to blockchain, DeFi, NFTs, and decentralized technology concepts.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Glossary'],
  },
@@ -69,26 +69,26 @@ export default async function GlossaryPage({
     <section className="border-b">
      <div className="container mx-auto px-4 page-section max-w-6xl">
       <div className="max-w-3xl">
-       {searchParams.category ? (
-        <>
-         <div className="mb-4">
-          <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
-           <ArrowLeft className="h-4 w-4" aria-hidden="true" />
-           All Terms
-          </Link>
-         </div>
-         <PageHeader title={searchParams.category} />
-         <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-          Browse all {searchParams.category} terms in our Web3 glossary.
-         </p>
-        </>
-       ) : (
-        <>
-         <PageHeader title="Web3 Glossary" />
-         <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-          Your complete guide to blockchain, cryptocurrency, and decentralized technology terminology. 
-          From basic concepts to advanced protocols, understand the language that powers Web3.
-         </p>
+        {searchParams.category ? (
+         <>
+          <div className="mb-4">
+           <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
+            <ArrowLeft className="h-4 w-4" aria-hidden="true" />
+            All Terms
+           </Link>
+          </div>
+          <PageHeader title={searchParams.category} align="left" className="mb-0" />
+          <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
+           Browse all {searchParams.category} terms in our Web3 glossary.
+          </p>
+         </>
+        ) : (
+         <>
+          <PageHeader title="Web3 Glossary" align="left" className="mb-0" />
+          <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
+           Your complete guide to blockchain, cryptocurrency, and decentralized technology terminology. 
+           From basic concepts to advanced protocols, understand the language that powers Web3.
+          </p>
          <div className="flex items-center gap-6 text-sm">
           <div className="flex items-center gap-2">
            <BookOpen className="h-5 w-5 text-primary" />
@@ -174,17 +174,7 @@ export default async function GlossaryPage({
             <p className="text-sm text-muted-foreground line-clamp-2 mb-2">
              {term.description}
             </p>
-            <div className="flex items-center gap-2">
-             <Badge variant="outline" className="text-xs">
-              {term.category}
-             </Badge>
-             <Badge 
-              variant={term.difficulty === 'Beginner' ? 'default' : term.difficulty === 'Intermediate' ? 'secondary' : 'destructive'} 
-              className="text-xs"
-             >
-              {term.difficulty}
-             </Badge>
-            </div>
+
            </CardContent>
           </Card>
          </Link>

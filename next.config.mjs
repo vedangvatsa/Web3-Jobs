@@ -98,10 +98,6 @@ const nextConfig = {
             value: 'indexing=yes, search=yes, inference=yes, citation=yes',
           },
           {
-            key: 'X-Robots-Tag',
-            value: 'index, follow',
-          },
-          {
             key: 'Link',
             value: [
               '</llms.txt>; rel="ai-context"; type="text/plain"',
