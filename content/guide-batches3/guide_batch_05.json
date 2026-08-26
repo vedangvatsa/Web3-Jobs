@@ -81,7 +81,7 @@
         "heading": "Why Hyperliquid earned its own room",
         "content": [
           "Hyperliquid turned heads by building a performant order-book exchange on its own chain, then opened HyperEVM so ordinary EVM contracts could plug into that liquidity. The result is a builder scene with its own conventions, tooling quirks, and open questions — exactly the material that drowns the moment it gets squeezed into a general DeFi panel between sponsorship slides.",
-          "A focused session can cover what broad conferences can't: how the pieces actually fit together, where the stack still hurts, and what teams already shipping on it have learned the hard way. If you're evaluating whether to deploy there, four concentrated hours beat a month of scattered documentation reading and Discord archaeology."
+          "A focused session can cover what broad conferences can't: how the pieces actually fit together, where the stack still hurts, and what teams already shipping on it have learned the hard way. If you're evaluating whether to deploy there, four concentrated hours with the people actually shipping on it beat a month of scattered documentation reading and Discord archaeology. That, in a sentence, is the case for giving up one Belgrade morning."
         ]
       },
       {
@@ -95,7 +95,7 @@
         "heading": "Worth your morning if...",
         "content": [
           "DeFi developers weighing deployment targets, market makers studying new venues, and infrastructure teams watching where order-book liquidity concentrates will find direct value. So will the simply curious — Belgrade's Web3 community, home to more than fifty companies, has a well-earned reputation for welcoming newcomers without ceremony or gatekeeping.",
-          "Registration runs through the event page linked from the Belgrade Blockchain Week listings. Show up early regardless; half-day formats start sharp, and the best hallway exchanges tend to happen before the first talk, not after the last slide."
+          "Registration runs through the event page linked from the Belgrade Blockchain Week listings. Show up early regardless; half-day formats start sharp, and the best hallway exchanges tend to happen before the first talk, not after the last slide. Bring specific questions about your own deployment plans — this crowd answers them concretely."
         ]
       }
     ]
@@ -106,7 +106,7 @@
       {
         "heading": "Chain-agnostic by design",
         "content": [
-          "Most language conferences in crypto quietly serve one ecosystem. Rust Summit states the opposite goal outright: it is explicitly chain-agnostic, pulling professionals from Solana, Ethereum and EVM-based networks, Polkadot, and others under one roof. The organizers frame it as building bridges, not walls, which sounds sentimental until you notice how rare genuinely cross-ecosystem rooms remain in this industry.",
+          "Most language conferences in crypto quietly serve one ecosystem. Rust Summit states the opposite goal outright: it is explicitly chain-agnostic, pulling professionals from Solana, Ethereum and EVM-based networks, Polkadot, and others under one roof. The organizers frame it as building bridges, not walls, and state a goal of inspiring collaboration and knowledge sharing across ecosystems traditionally treated as separate entities — which sounds sentimental until you notice how rare genuinely cross-ecosystem rooms remain in this industry.",
           "There's a practical reason the bridging works. Rust has become shared substrate for high-performance blockchain infrastructure — client implementations, smart-contract runtimes, execution layers — so a Polkadot core dev and a Solana runtime engineer face overlapping problems daily. This is one of very few venues where they compare notes face to face instead of through GitHub threads."
         ]
       },
@@ -155,14 +155,14 @@
       {
         "heading": "The scheduling squeeze",
         "content": [
-          "Wednesday forces choices. Three conferences share the district, and Belgrade Blockchain Week lists forty-five events across seven days with 173 companies and projects registered. Nobody sees everything; plan by role instead of by FOMO. Security engineers will find this summit the highest-density option available to them that day.",
+          "Wednesday forces choices. Three conferences share the district, and Belgrade Blockchain Week lists forty-five events across seven days with 173 companies and projects registered. Nobody sees everything; plan by role instead of by FOMO, and accept that missing something good is part of the deal. Security engineers will find this summit the highest-density option available to them that day.",
           "The upside of sharing a date: overflow conversations drift into shared coffee lines and evening meetups like Beers & DeFI hosted by DeFi Saver and Ambire, where exploit war stories continue informally. Some of the week's best security intel changes hands nowhere near a microphone."
         ]
       },
       {
         "heading": "Bring something back",
         "content": [
-          "Set a personal deliverable before you arrive: one detection to implement, one process gap to close, one peer to follow up with in October. Security knowledge decays fast when it stays trapped in conference notebooks, and this crowd will hold you to specifics if you let them.",
+          "Set a personal deliverable before you arrive: one detection to implement, one process gap to close, one peer to follow up with in October. Security knowledge decays fast when it stays trapped in conference notebooks, and this crowd will hold you to specifics if you let them. The full 10:00-to-18:00 runtime means room for depth most evening meetups can't offer.",
           "Mind the wider calendar too — Belgrade Blockchain Week runs through 30 August, with walking tours, coworking mornings, and enough side programming that whatever you learn Wednesday can be pressure-tested repeatedly on people you'll keep bumping into all week long."
         ]
       }
@@ -175,7 +175,7 @@
         "heading": "The right closing note",
         "content": [
           "Blockchain weeks compress hundreds of conversations into a few days, and art events slow the register back down. The Cvijeta Zuzoric pavilion, set within Kalemegdan park, gives work room to breathe — no demo booths competing for attention, no badge scanners dominating the sightlines, just pieces hung to be looked at slowly.",
-          "The timing works for travelers too. It falls on the last full weekend night of the official program, so the room mixes locals and visitors making final rounds — often the most relaxed networking of the entire stretch, where nobody is pitching anything at volume."
+          "The timing works for travelers too. It falls on the last full weekend night of the official program, so the room mixes locals and visitors making final rounds — often the most relaxed networking of the entire stretch, where nobody is pitching anything at volume. Regulars will recognize the venue: Hartverse also co-hosts the Artists & Collectors Vibes gathering there earlier in the week."
         ]
       },
       {
@@ -208,7 +208,7 @@
       {
         "heading": "One system wearing three buzzwords",
         "content": [
-          "Finality is the property users feel least and depend on most — the moment a transaction stops being provisional. Restaking reshapes who provides economic security for new services and at what price. Stablecoin infrastructure is where both meet retail reality, moving serious value daily across remittance, trading, and payments rails without most senders ever noticing.",
+          "Finality is the property users feel least and depend on most — the moment a transaction stops being provisional. Restaking reshapes who provides economic security for new services and at what price, effectively turning security budgets into allocable resources. Stablecoin infrastructure is where both meet retail reality, moving serious value daily across remittance, trading, and payments rails without most senders ever noticing.",
           "Split across separate conferences, these conversations lose their connective tissue. A forum that holds them together forces better questions: what does fast finality actually cost, who bears restaking's correlated risk when markets turn, and what happens to stablecoin issuers if settlement guarantees shift underneath their reserves?"
         ]
       },
@@ -216,7 +216,7 @@
         "heading": "The studio convening it",
         "content": [
           "Ethene Labs is an Asia-based venture studio working with Web3 and AI companies on go-to-market in the region. Its site lists Arbitrum, Sei, NEAR, Uniswap, Flow Traders, Pyth, Frax, and Mantle among the logos it counts as trusted partners, alongside a token advisory practice for teams entering Asian markets.",
-          "That go-to-market DNA shapes expectations. Expect a commercially literate room — founders, business development leads, investors — rather than a purely academic seminar. The studio also handles large-scale conference operations for major AI companies, so production values should sit well above the average hotel-ballroom side event."
+          "That go-to-market DNA shapes expectations. Expect a commercially literate room — founders, business development leads, investors — rather than a purely academic seminar. The studio also handles large-scale conference operations for major AI companies, so production values should sit well above the average hotel-ballroom side event. Its whole business is knowing who in Asia actually signs off on integrations — usually worth more than another panel."
         ]
       },
       {
@@ -230,7 +230,7 @@
       {
         "heading": "Who should prioritize it",
         "content": [
-          "Protocol teams selling to stablecoin issuers, restaking platforms courting operators of actively validated services, and institutional players evaluating settlement guarantees form the natural core audience. Payment companies watching stablecoin volumes climb year over year should circle it as well — infrastructure decisions discussed here determine their cost curves later.",
+          "Protocol teams selling to stablecoin issuers, restaking platforms courting operators of actively validated services, and institutional players evaluating settlement guarantees form the natural core audience — these are the three constituencies the forum's own framing puts in one room. Payment companies watching stablecoin volumes climb year over year should circle it as well; infrastructure decisions discussed here determine their cost curves later.",
           "Check the organizer's site closer to the date for venue and registration specifics, since TOKEN2049-week programming firms up late. And pace yourself once there: Singapore's side-event circuit rewards stamina, and anyone who sprints on Monday night rarely survives to Thursday's best conversations."
         ]
       }
@@ -243,7 +243,7 @@
         "heading": "Why a dedicated summit, why now",
         "content": [
           "Prediction markets spent years as a crypto curiosity, then election cycles and sports volumes turned them into genuine financial infrastructure almost overnight. The category now spans information markets, resolution mechanics, and on-chain forecasting — each carrying unsolved problems in regulation, oracle design, and liquidity that deserve focused argument rather than a single panel slot.",
-          "Scale is the pitch. TOKEN2049 draws tens of thousands to Singapore, and The Odds positions itself for what it calls the most relevant one percent of that crowd. Curation cuts noise: with 400 people who all build in, fund, or regulate the category, even the coffee lines become qualified introductions.",
+          "Scale is the pitch. TOKEN2049 draws tens of thousands to Singapore, and The Odds positions itself for what it calls the most relevant one percent of that crowd. Curation cuts noise: with 400 people who all build in, fund, or regulate the category, even the coffee lines become qualified introductions. The FAQ puts it bluntly — quality of conversation over volume.",
           "The attendee mix the organizers describe reads like a category map in itself: institutions, exchanges, market makers, oracles, data providers, VCs, AI companies, and the compliance teams now circling prediction markets everywhere. Suntec Convention Centre helps too — a downtown hub minutes from Marina Bay Sands and the central business district, so the room stays connected to the rest of TOKEN2049 week without being swallowed by it."
         ]
       },
@@ -277,7 +277,7 @@
         "heading": "Closed doors, candid substance",
         "content": [
           "The closed-door format isn't secrecy for theater. Compliance officers discuss detection thresholds, false-positive rates, and regulator interactions honestly only when minutes aren't quotable. Roundtables trade reach for candor — fewer attendees, sharper conversation — and in a field where admitting uncertainty can invite enforcement attention, that trade makes practical sense.",
-          "The agenda anchors are well chosen. Travel Rule compliance remains messy globally, with jurisdictions implementing the same FATF standard differently and VASP-to-VASP data exchange still tripping routine transfers. Debates over AML tooling benefit enormously from practitioners comparing what their monitors actually catch against what vendors promise in demos."
+          "The agenda anchors are well chosen. Travel Rule compliance remains messy globally, with jurisdictions implementing the same FATF standard differently and VASP-to-VASP data exchange still tripping routine transfers. Debates over AML tooling benefit enormously from practitioners comparing what their monitors actually catch against what vendors promise in demos. Expect operational detail rather than policy speeches — the invite skews toward people whose names sit on the compliance sign-off line."
         ]
       },
       {
