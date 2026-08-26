@@ -115,7 +115,7 @@ export function JobDetailView({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
-      <div className="site-container max-w-5xl py-6 md:py-10">
+      <div className="site-container max-w-4xl mx-auto py-6 md:py-10">
         
         {/* Breadcrumb Navigation */}
         <nav aria-label="Breadcrumb" className="mb-6 flex items-center space-x-2 text-sm text-muted-foreground">
@@ -184,7 +184,7 @@ export function JobDetailView({
         </div>
 
         {/* Main Layout: Single Column Centered */}
-        <div className="max-w-4xl mx-auto space-y-8">
+        <div className="space-y-8">
           
           <div 
             className="prose prose-slate dark:prose-invert max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-a:text-primary prose-ul:my-4 prose-li:my-1 text-foreground/90 leading-relaxed bg-card/40 border border-border/60 rounded-xl p-6 sm:p-8"

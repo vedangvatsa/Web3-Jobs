@@ -1,0 +1,301 @@
+{
+  "premier-onchaincapital": {
+    "summaryLead": "Onchain Capital & Liquidity Seoul 2026 compresses a big subject into one working day: how capital markets are being rebuilt on-chain, and what liquidity infrastructure looks like when theory collides with live markets. It runs September 29, 2026, in Seoul, squarely inside Korea Blockchain Week.",
+    "sections": [
+      {
+        "heading": "What the day actually covers",
+        "content": [
+          "The listing describes a DeFi and AI-focused session on on-chain capital markets and liquidity infrastructure, scheduled from 09:00 to 18:00 on September 29. That is a wide brief for a single day, but the pairing makes sense right now. Capital formation has quietly migrated on-chain over the past two years, and the plumbing underneath it, from automated market makers to cross-chain settlement layers, has become the real competitive battleground between protocols.",
+          "The AI half of the equation is the more interesting hook. Where machine intelligence touches on-chain finance is still mostly experiment territory: agent-driven execution, risk models trained on order flow, treasury automation. Expect the day to sit somewhere between an operator workshop and a research salon rather than a keynote parade. Details on speakers and venue have been kept deliberately thin on the listing page at lilroom.xyz, which is worth checking before you plan anything else."
+        ]
+      },
+      {
+        "heading": "Why Seoul, and why this particular week",
+        "content": [
+          "Korea Blockchain Week turns the city into the densest concentration of crypto talent in Asia for a few days each autumn. Side events live or die by how well they carve out a reason to skip something else, and a focused, one-room format on capital markets is a credible pitch. You trade the scale of the main conferences for conversations that actually go deep.",
+          "Seoul is also the right audience for this material. Korean traders have always punched above their weight in crypto markets, and local institutions have grown noticeably more curious about on-chain rails since won-backed stablecoin discussions picked up in the National Assembly. A session on liquidity infrastructure is not an abstract topic here; it maps onto a live domestic debate.",
+          "There is also a practical argument for attending a small room in a big week: information asymmetry. The conversations that shape market structure decisions often happen months before they appear in governance forums or announcements, and compact sessions like this one are where those early signals surface first."
+        ]
+      },
+      {
+        "heading": "Who gets the most out of the room",
+        "content": [
+          "Protocol teams working on DEX design, lending markets, or cross-chain routing will find peers here faster than at a 5,000-person expo. Market makers and fund analysts who want a read on where on-chain liquidity is consolidating should treat the day as reconnaissance. Builders experimenting with AI agents in trading or treasury operations are the third obvious constituency.",
+          "Students and early-career developers should not be scared off either. KBW's side-event culture has always been porous, and smaller rooms are where juniors actually get face time with people who build the systems they read about."
+        ]
+      },
+      {
+        "heading": "Practical notes before you commit",
+        "content": [
+          "Confirm the exact venue through the organizer's page, since side events in Seoul often finalize locations close to the date and cluster within walking distance of Gangnam hotels. Build slack into your schedule; September 29 sits alongside plenty of competing programming.",
+          "It is also worth knowing that the same program family appears to run two follow-on sessions on September 30, one covering institutional perspectives on RWAs and stablecoins and another on perpetuals and institutional participation. If capital markets infrastructure is your beat, stringing all three together makes a tidy mini-conference of its own."
+        ]
+      }
+    ]
+  },
+  "premier-instonchain": {
+    "summaryLead": "Institutional Onchain: RWAs & Stablecoins Seoul 2026 is a one-day session on September 30, 2026, examining how real-world assets and stablecoins are moving from pitch decks onto actual balance sheets. It forms part of the KBW side-event program in Seoul.",
+    "sections": [
+      {
+        "heading": "The institutional agenda, unpacked",
+        "content": [
+          "This session takes place between 09:00 and 18:00 on the second-to-last stretch of Korea Blockchain Week, which is a smart slot. By September 30, the week's bigger keynotes have landed their headlines, and the people still in town tend to be the ones doing actual deals. The listing frames the day as institutional perspectives on RWA and stablecoin adoption on-chain, which in practice means fewer token price debates and more custody, settlement, and compliance talk.",
+          "The timing could hardly be better. Tokenized treasuries, private credit pools, and stablecoin payment corridors have crossed from whitepaper concepts into products that banks and asset managers actively evaluate. Seoul, sitting inside a market where policymakers openly discuss won-pegged stablecoins, gives that conversation a natural home turf."
+        ]
+      },
+      {
+        "heading": "RWAs: past the pilot stage",
+        "content": [
+          "The honest state of play is that tokenized real-world assets work technically and struggle commercially. Issuance platforms exist, legal wrappers exist, secondary liquidity remains thin. A room full of practitioners arguing about which friction point falls first is exactly what this day promises, and it beats reading another consultancy slide deck on the same question.",
+          "Korea adds its own texture. Domestic institutions have been cautious but methodical, watching precedents set elsewhere in Asia before committing capital. Attendees from outside the country get a rare window into how a major economy weighs adoption on its own terms rather than importing Silicon Valley assumptions wholesale."
+        ]
+      },
+      {
+        "heading": "Stablecoins carry the conversation",
+        "content": [
+          "If RWAs are the long game, stablecoins are the present tense, and the program reflects that ordering. Payment settlement, FX corridors, and reserve management dominate institutional stablecoin discussions because they touch revenue lines today rather than hypothetical futures. Anyone building wallets, remittance products, or merchant rails will find the most immediately applicable material here.",
+          "Regulatory posture will inevitably thread through every panel. The gap between Korean deliberation, US legislation, and Singapore's licensing regime is precisely the kind of comparative detail that practitioners trade in, and a single-topic day lets it breathe instead of competing with a hundred other themes.",
+          "One more thing separates this from a typical KBW side event: the framing starts from institutional constraints rather than protocol capabilities. That inversion matters. When the day begins with custody requirements and accounting treatment instead of throughput benchmarks, the discussion lands closer to what a bank's digital asset committee actually asks before signing anything."
+        ]
+      },
+      {
+        "heading": "Who belongs in the room",
+        "content": [
+          "Product leads at exchanges and custodians, digital asset teams at banks, and fintech founders working on payments infrastructure form the core audience. Lawyers and compliance officers are equally well served; RWA structures live or die on legal engineering, and the KBW crowd usually includes strong representation from regional firms.",
+          "Check the organizer's page at lilroom.xyz for registration mechanics and the confirmed venue, and note the scheduling overlap: a separate session on perpetuals and institutional trading runs the same day. If your job spans both worlds, pick based on which conversation you cannot replicate over coffee, because the coffee opportunities in Seoul that week are plentiful."
+        ]
+      }
+    ]
+  },
+  "premier-perpsinst": {
+    "summaryLead": "Perps x Institutional Seoul 2026 gathers trading desks and protocol teams on September 30, 2026, to argue about perpetual futures: where the liquidity lives, and what it would take for institutions to participate on-chain at scale. It runs during Korea Blockchain Week.",
+    "sections": [
+      {
+        "heading": "Perpetuals grow up",
+        "content": [
+          "Perpetual futures were born in crypto-native venues and remain the engine room of crypto trading volume. What has changed is who cares. Pension allocations, hedging programs, and structured products have started circling perps because they are the instrument institutions would actually use, and this session, running 09:00 to 18:00 in Seoul, puts desks and protocol teams in the same room to negotiate that reality.",
+          "The listing keeps the framing simple: perpetuals liquidity and institutional participation on-chain. Behind those eight words sit hard questions about margin architecture, counterparty risk, oracle dependencies, and whether decentralized venues can handle block-sized flow without falling over. Expect blunt answers from people whose P&L depends on getting it right."
+        ]
+      },
+      {
+        "heading": "The liquidity question dominates everything",
+        "content": [
+          "Liquidity is the whole argument. Institutions will not route meaningful size into a venue where slippage eats the edge, and decentralized perps venues have historically struggled to match centralized books. The interesting recent development is the arrival of hybrid models, off-chain matching with on-chain settlement, and the session is well timed to take stock of which approaches survived contact with volume.",
+          "Seoul's audience sharpens the discussion. Korean trading culture is famously active, and local quant firms and prop desks understand derivatives markets from the inside. When those attendees push back on protocol teams' throughput claims, the exchange tends to be more useful than anything you would hear from a conference stage."
+        ]
+      },
+      {
+        "heading": "Desks, protocols, and the terms of engagement",
+        "content": [
+          "The pairing of trading desks and protocol builders is deliberate. Desks bring execution requirements; protocols bring roadmap constraints. Somewhere in the middle sits product-market fit for institutional perps: clearer liquidation mechanics, insurance funds that inspire confidence, APIs that do not require a PhD. Watching those two constituencies translate jargon at each other is the quiet appeal of a session like this.",
+          "For anyone building tooling, analytics, or market-making infrastructure around perps, the day doubles as customer discovery. The people deciding where institutional order flow goes will be within arm's reach, which is worth more than any badge tier at the main conference."
+        ]
+      },
+      {
+        "heading": "Timing, overlap, and logistics",
+        "content": [
+          "September 30 is a crowded day on the KBW side-event calendar, and this session shares its slot with a neighboring program on institutional RWAs and stablecoins from the same event family. Choose based on mandate: if you hedge with derivatives, come here; if you tokenize assets, go there. Both listings point through lilroom.xyz for details.",
+          "Leave buffer time between commitments. Seoul traffic between Gangnam venues eats schedules during KBW, and the best conversations at sessions like this happen in the gaps, over convenience-store coffee, long after the formal blocks end."
+        ]
+      }
+    ]
+  },
+  "premier-raylsseoul": {
+    "summaryLead": "Rayls brings its privacy-focused interbank blockchain protocol to Seoul on September 30, 2026, for demonstrations and partner meetings timed to Korea Blockchain Week. For anyone tracking how banks actually put finance on-chain, it is a rare chance to see the machinery up close.",
+    "sections": [
+      {
+        "heading": "The blockchain for banks, in town for the week",
+        "content": [
+          "Rayls bills itself plainly: the blockchain for banks. Its EVM-compatible Layer 1 is built to connect financial institutions to on-chain liquidity while keeping privacy and compliance baked into the base layer rather than bolted on afterward. During KBW, the team is hosting demonstrations and partner meetings rather than a stage show, which suits the product. This is infrastructure meant to be inspected, not applauded.",
+          "The Seoul trip lands amid visible momentum. The company launched its public chain mainnet on April 30, opened its Axyl Consensus Protocol code to the public in July, and used late August to announce Rayls Sovereign, described as the onchain gateway for institutions. Visitors in September will therefore be looking at shipped software and a fresh product line, not vaporware slides."
+        ]
+      },
+      {
+        "heading": "What the demonstrations cover",
+        "content": [
+          "The stack on display maps to three concrete use cases. Tokenised deposits let banks mint fiat balances as EVM-standard tokens inside a sovereign Privacy Node, keeping the deposit on the bank's balance sheet while making it programmable. Yield-bearing asset vaults extend institutional products to suitable investors with public chains serving as secondary markets. Cross-border payments use what the team calls a stablecoin sandwich: tokenised deposit converted to stablecoin, moved privately via the Rayls Enygma system, converted back, settling in seconds instead of days.",
+          "That last mechanism is the demo most bankers ask about, because correspondent banking delays are a shared pain across every market. Seeing the path from deposit token to settled cross-border transfer in one session explains more than any litepaper."
+        ]
+      },
+      {
+        "heading": "Momentum worth weighing before a meeting",
+        "content": [
+          "The company's ecosystem page reads like a central banker's contact list, with Banco Central do Brasil, the BIS, Mastercard, Accenture, Tether, XP, and LayerZero among listed partners, alongside Brazilian credit and tokenization firms such as AmFi and Nuclea whose executives appear in testimonials about building private networks on the stack. Backers named on the site include Framework, ParaFi, Valor Capital, Alexia Ventures, and Accenture.",
+          "Recent operational signals matter too. Parfin, the company behind Rayls, extended the lock-up on its RLS allocation by a year and migrated it on-chain in August, and the consensus layer went open source weeks earlier. Whether or not you buy the thesis, the team is behaving like it plans to stay."
+        ]
+      },
+      {
+        "heading": "Who should request time",
+        "content": [
+          "Digital asset teams at banks evaluating tokenized deposits, payment companies wrestling with FX settlement, and regulators studying privacy-preserving compliance models form the obvious meeting list. Korean institutions in particular have been methodical about interbank pilots, and a working EVM chain with privacy nodes answers several questions they usually raise.",
+          "Meetings during KBW book out fast, so reach out through rayls.com well ahead of the week. If you cannot secure a slot, the transparency portal and published documentation offer a reasonable substitute, though neither replaces watching a cross-border settlement complete in front of you."
+        ]
+      }
+    ]
+  },
+  "premier-hackindia": {
+    "summaryLead": "HackIndia Spark-12 brings the national student hackathon series to Jaipur on September 18-19, 2026, with web3 and AI tracks aimed at emerging developers. Two days, one city, and a platform that claims the title of India's largest hackathon operation behind it.",
+    "sections": [
+      {
+        "heading": "Two days of shipping in the Pink City",
+        "content": [
+          "The format is familiar to anyone who has done a collegiate hackathon: teams form, mentors circulate, sleep becomes optional, and Sunday afternoon turns into a judging gauntlet. What distinguishes the Spark series is scale and repetition. HackIndia runs editions across Indian cities throughout the year, and Jaipur's installment slots in mid-September, giving Rajasthan's student developer community a top-tier event without the train ride to Bangalore or Delhi.",
+          "One caveat worth stating plainly: the specific event page on hackindia.org was not resolving when we checked, so confirm dates, venue, and prize details directly with the organizers before booking travel. The series itself is very much active, and the national platform continues to publish upcoming editions through its hackathons portal."
+        ]
+      },
+      {
+        "heading": "Web3 and AI tracks for emerging developers",
+        "content": [
+          "The dual web3-plus-AI structure mirrors where Indian student interest has actually gone. Campus builders increasingly treat the two as complementary rather than competing: smart contracts for verification and settlement, models for intelligence and automation. Projects at these events tend to range from DeFi primitives reimagined for UPI-era users to AI agents wired to on-chain data feeds.",
+          "For students, the value extends beyond prizes. HackIndia maintains networks of judges, mentors, and partner companies through its platform, publishes a gallery of winning hacks from past editions, and lists internships separately from its competition pages. Several participants treat the weekend as a hiring funnel as much as a contest, which is precisely how the organizers position it."
+        ]
+      },
+      {
+        "heading": "How the wider machine works",
+        "content": [
+          "HackIndia describes itself as India's largest hackathon platform, and the surrounding apparatus supports the claim: participating college lists, board of advisors, brand ambassadors across campuses, and an ecosystem directory that maps the projects and companies feeding off the events. There is even a prompt optimizer tool on the site, a small but telling nod to how its audience builds now.",
+          "Community channels run through WhatsApp, Telegram-style group chats, GitHub, and the usual social platforms, with a contact number published for direct questions. First-timers should join those channels early; team formation, track announcements, and mentor office hours tend to flow through them in the weeks before kickoff."
+        ]
+      },
+      {
+        "heading": "Who should sign up",
+        "content": [
+          "Second- and third-year engineering students with some Solidity or Python under their belts fit the core profile, but the series consistently welcomes complete beginners who bring design or product skills instead. Mixed teams routinely outperform pure-technical squads at events like this, because judging rewards working demos over architectural ambition.",
+          "Jaipur's own developer scene has grown alongside Rajasthan's technical institutes, and a hometown event lowers the cost of entry considerably. Register through hackindia.org, watch the platform's news feed for the Jaipur page going live, and start forming teams before September arrives; the strongest hackathon outcomes begin weeks before anyone opens a laptop."
+        ]
+      }
+    ]
+  },
+  "premier-connectseoul": {
+    "summaryLead": "CONNECT by Cointelegraph lands in Seoul on September 28, 2026, bringing the media outlet's forum format to Korea Blockchain Week for a day of panels, networking, and the particular energy of a newsroom playing host.",
+    "sections": [
+      {
+        "heading": "A publisher playing host",
+        "content": [
+          "Cointelegraph has covered this industry since 2013 and built one of the largest readerships in crypto media along the way, with daily market coverage, a magazine desk, and a research arm. CONNECT is the brand's move from reporting on the industry to convening it, running under the CT Connect banner alongside the company's accelerator and events operations.",
+          "That origin shapes the format. A media-led forum leans toward conversation over presentation: moderated panels with journalists pressing where sponsors' events go soft, interviews that borrow from the outlet's editorial instincts, and networking blocks designed to keep sources, founders, and investors circulating together. The Seoul edition, per the listing, pairs those panels with dedicated networking during KBW proper."
+        ]
+      },
+      {
+        "heading": "What the CONNECT format does differently",
+        "content": [
+          "Most conference programming optimizes for stage time; a publisher's event optimizes for narrative. Expect sessions built around arguments the outlet has been covering all year, institutional adoption, regulatory divergence across Asia, the intersection of AI and crypto, framed so panelists disagree usefully rather than recite talking points. For attendees, that means the content travels better afterward: you leave with positions to test, not brochures.",
+          "The networking layer deserves equal billing. Cointelegraph's editorial reach means the room skews toward people with something to announce, and the organization's adjacent operations, from its accelerator program to its events portfolio, feed founders and capital into the same hallways. September 28 runs 09:00 to 18:00, enough runway for substance without exhausting anyone before the evening's side-event circuit."
+        ]
+      },
+      {
+        "heading": "Seoul during KBW: crowded but worth it",
+        "content": [
+          "Korea Blockchain Week anchors the industry's autumn migration through Asia, and Seoul rewards the effort. The city pairs world-class transit with a food culture that turns every dinner into a negotiation opportunity, and the late-September weather is the best you will get all year. The density of concurrent events is real, though; plan your KBW calendar in advance or the week plans it for you.",
+          "Positioning CONNECT on September 28, the Monday of KBW week, makes it an effective opening move. Arrive with your week's targets already listed, use the forum to make first contact, and spend the following days converting hallway introductions into meetings."
+        ]
+      },
+      {
+        "heading": "Practical planning notes",
+        "content": [
+          "Registration and venue specifics route through Cointelegraph's official channels, so confirm attendance details there as the date approaches; KBW-season events regularly update locations in the final weeks. Budget time for the commute math between Gangnam venues, which during peak conference hours is less trivial than the map suggests.",
+          "Come prepared to introduce yourself quickly and specifically. Rooms convened by media brands reward people with a clear story: what you build, why now, and what you need. Have that answer rehearsed, then spend the day listening as much as pitching, because the journalists in the room remember good sources longer than good pitches."
+        ]
+      }
+    ]
+  },
+  "premier-connectsg": {
+    "summaryLead": "CONNECT by Cointelegraph brings its accelerator-flavored forum format to Singapore on October 9, 2026, riding the TOKEN2049 halo with a single day of founder showcases and capital conversations in one of the world's most regulated crypto hubs.",
+    "sections": [
+      {
+        "heading": "From Seoul to Singapore in eleven days",
+        "content": [
+          "Cointelegraph's CONNECT series touches down in Singapore just over a week after its Seoul edition, and the two cities anchor the autumn circuit for anyone serious about Asian crypto markets. The October 9 date places it in TOKEN2049's orbit, when the island fills with founders, funds, and the auxiliary events that make Singapore late-year crypto season what it is.",
+          "The Singapore edition carries a distinct accent from its Korean sibling. The listing emphasizes founder showcases and capital conversations, positioning the day closer to a dealmaking forum than a panel festival. That tracks with Cointelegraph's broader footprint in the region: beyond its newsroom, the company operates an accelerator program and events arm, and CONNECT functions as the public face where those pipelines surface their cohorts and contacts."
+        ]
+      },
+      {
+        "heading": "Riding the TOKEN2049 halo",
+        "content": [
+          "TOKEN2049 week transforms Singapore into the highest-density crypto networking environment anywhere on the calendar. Side events compete fiercely, and the ones that survive year over year share a trait: they give attendees a reason to be in a specific room at a specific hour. A showcase format does exactly that, putting founders in front of capital with a clock running.",
+          "For investors, the appeal is efficiency. Rather than scheduling forty coffees across four days, a curated showcase concentrates the pitch flow into one afternoon, with the forum's networking blocks handling the follow-ups. For founders, the value cuts the other way: access to allocators who are already in town and already primed to listen."
+        ]
+      },
+      {
+        "heading": "Showcases and capital conversations",
+        "content": [
+          "The phrase capital conversations does real work in the listing. Singapore's allocator base is unusual in crypto: family offices with mandates, licensed fund managers operating under MAS oversight, and venture firms using the city as their Asia basecamp. Discussions here tend to concern terms, structures, and jurisdictional questions as much as technology, reflecting a market where regulation is treated as infrastructure rather than obstacle.",
+          "Founders preparing to showcase should calibrate accordingly. A crisp answer on licensing strategy or token structuring earns more attention in this room than another demo video. The Cointelegraph connection adds a media multiplier too; compelling stories told on this stage have a habit of becoming coverage, which compounds the value of the day well past October 9."
+        ]
+      },
+      {
+        "heading": "The practical rundown",
+        "content": [
+          "The event runs 09:00 to 18:00 on October 9. Confirm registration, venue, and showcase applications through Cointelegraph's official channels, since TOKEN2049-week programming frequently adjusts logistics as the date nears. Singapore's venue geography is forgiving, the MRT solves most transport problems, and October humidity argues for scheduling outdoor conversations in the evening rather than midday.",
+          "Stack your week deliberately. With the main conference and dozens of side events compressed into the same stretch, treat CONNECT as the concentrated dose: one day for structured exposure to founders and capital, leaving the remaining days for the bilateral meetings it generates."
+        ]
+      }
+    ]
+  },
+  "premier-gbshow": {
+    "summaryLead": "The Global Blockchain Show returns to Abu Dhabi on November 26-27, 2026, taking over the ADNEC Centre with two days of keynotes, investor meetups, and ecosystem exhibitions in the capital that has made regulated blockchain a stated national priority.",
+    "sections": [
+      {
+        "heading": "Two days at the ADNEC Centre",
+        "content": [
+          "Organized by VAP Group and powered by Times of Blockchain, the Global Blockchain Show bills itself as the Middle East's most powerful blockchain event, and the numbers on its Abu Dhabi page back some of the swagger: 5,000-plus attendees, 150-plus speakers across two days and two stages, 100-plus exhibiting brands, and 150-plus media partners. The venue, the ADNEC Centre, handles that scale without the corridor crush of smaller halls.",
+          "The stated ambition goes beyond headcount. The show positions itself for the people deploying digital assets at scale, naming exchange operators, protocol founders, institutional investors, tokenization teams, and the regulators writing the region's virtual asset rulebook. In Abu Dhabi, that last group is not decorative; ADGM and VARA both feature in the event's own pitch about regulator access."
+        ]
+      },
+      {
+        "heading": "A programme split down the middle",
+        "content": [
+          "Day one, November 26, carries the DeFi Economy theme, opening with a keynote on the UAE's rise as a global crypto leader tied to the country's Blockchain Vision 2031, followed by sessions on stablecoin payments, market resilience, and bridging institutions into crypto markets. Day two shifts to the Builders Economy: building on Bitcoin, a headline session on Ethereum and robotics as a potential new asset class, and a fireside on the missing pieces for institutional adoption.",
+          "AI threads through both days heavily enough to feel like a third theme. Scheduled blocks cover AI governance and data sovereignty, zero-knowledge technology behind privacy-first systems, hands-on workshops for building on-chain AI dapps, and an agentic-commerce workshop run with Ledger on hardware-secured signing for autonomous agents. Named speakers at time of writing include RedStone co-founder Marcin Kaźmierczak, Sigma Capital's Vineet Budki, Re7 Capital founder Evgeny Gokhberg, and Messiah Network co-founder Chris Williams."
+        ]
+      },
+      {
+        "heading": "Where the money actually sits",
+        "content": [
+          "The event's sharpest selling point is proximity to Gulf capital. Its marketing talks explicitly about sitting across from UAE family offices, sovereign wealth funds, and regional institutional allocators, and the AI-powered matchmaking app pushes relevant meetings onto your calendar before you land. For founders raising against a difficult backdrop, concentrated access to mandated capital is the difference between a trip and a waste of airfare.",
+          "There is a builder track woven in as well: the show runs a 48-hour hackathon whose grand finalists pitch live to VCs and exchanges on the main stage. Past sponsor logos on the site range from Alibaba Cloud and Ledger to ChainUp, signaling the mix of cloud, custody, and exchange infrastructure that defines the region's buyer base."
+        ]
+      },
+      {
+        "heading": "Tickets, tools, and timings",
+        "content": [
+          "Ticketing is tiered and transparent on the event site: a Standard pass listed at $29, a Business pass at $199, and a VIP pass at $399, each marked down from higher list prices, with the VIP tier adding lounge access, reserved seating, and VIP lunch arrangements. All tiers include two-day exhibition and conference access plus the official app, and the site shows inventory counters for each category, worth monitoring if a particular tier is nearly gone.",
+          "Doors run 09:00 to 18:00 both days, November 26 and 27, which conveniently brackets the UAE weekend for local attendees. Abu Dhabi in late November is genuinely pleasant, roughly twenty-five degrees and dry, so budget energy for the evening circuit; the event's own materials note that most business happens after hours."
+        ]
+      }
+    ]
+  },
+  "premier-ethwomen": {
+    "summaryLead": "ETHWomen Florida 2026 celebrates and accelerates women building in Ethereum and web3 with a one-day program in Miami on November 18, 2026, running alongside the Futurist Conference, North America's long-running traveling blockchain production.",
+    "sections": [
+      {
+        "heading": "A focused day inside a bigger production",
+        "content": [
+          "ETHWomen occupies a deliberate niche: not a women's panel tucked into someone else's agenda, but a dedicated event built around women who ship in the Ethereum ecosystem. The November 18 date in Miami puts it alongside the Florida edition of the Futurist Conference, meaning attendees get a focused community day with a full-scale conference running next door.",
+          "The parent production brings serious institutional weight. Futurist was founded by Untraceable Events, Canada's first blockchain events company, producing large-scale crypto conferences since 2013, and was later acquired by Emerald, America's largest producer of B2B trade shows. Nine years in, the franchise splits its time between Toronto and Florida, and ETHWomen has grown up as one of its signature experience programs, linked prominently across the Futurist site."
+        ]
+      },
+      {
+        "heading": "The Futurist machinery behind it",
+        "content": [
+          "The Futurist format is unorthodox on purpose. Instead of a convention-center grid, the conference stages outdoor cabanas, immersive installations, and networking-first layouts designed for deal flow, a philosophy its organizers describe as built for business development rather than badge scans. Across its editions the production claims 250-plus speakers, more than 150 web3 community partners, and over 120 media partners.",
+          "ETHWomen plugs directly into that apparatus. The broader Futurist ecosystem includes beginner bootcamps led by experts, hackathons such as ETH Toronto, NFT galleries, investor showcase programs with free or discounted VIP passes, and a gamified event experience running on its UNNY token. An ETHWomen attendee can move from a targeted community session into the wider conference floor without ever changing buildings."
+        ]
+      },
+      {
+        "heading": "Why Miami in mid-November",
+        "content": [
+          "Timing and location do half the work. Mid-November in Miami means dry heat instead of summer swelter, and the city's crypto gravity has held since its post-2021 boom years, with local VCs, exchanges, and LatAm-facing businesses keeping the scene dense. Running in parallel with Futurist Florida means the usual conference-week dynamics apply: side events, evening gatherings, and a visitor base skewed toward people actively hiring and funding.",
+          "For international attendees, Miami remains one of the easiest US crypto destinations to reach, with MIA's route network covering Europe and Latin America directly. Book accommodation early regardless; conference weeks compress hotel availability across the whole downtown corridor, not just near the venue."
+        ]
+      },
+      {
+        "heading": "Making the case to attend",
+        "content": [
+          "The honest argument for ETHWomen is compounding access. Women-led projects still raise a fraction of comparable crypto funding, and rooms where founders, engineers, and investors share a table on equal footing remain scarce enough to matter. An event that combines that access with the hiring surface and sponsor floor of a major conference offers more leverage per hour than attending either alone.",
+          "Check both ethwomen.com and futuristconference.com as November approaches for the confirmed venue, ticketing, and speaker announcements, since programming details firm up closest to the date. Students and career-switchers should look closely too: the bootcamp tradition and beginner-friendly programming across the Futurist family lower the barrier considerably for people early in their web3 journey."
+        ]
+      }
+    ]
+  }
+}
