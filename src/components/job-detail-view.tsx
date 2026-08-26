@@ -69,7 +69,7 @@ export function JobDetailView({
     hiringOrganization: {
       '@type': 'Organization',
       name: job.company,
-      sameAs: company?.website || `${siteUrl}/companies/${companySlug}`,
+      sameAs: company?.website || `${siteUrl}/${companySlug}`,
       logo: absoluteLogoUrl,
     },
     jobLocation: {
@@ -109,7 +109,7 @@ export function JobDetailView({
         '@type': 'ListItem',
         position: 3,
         name: job.company,
-        item: `${siteUrl}/companies/${companySlug}`,
+        item: `${siteUrl}/${companySlug}`,
       },
       {
         '@type': 'ListItem',
@@ -141,7 +141,7 @@ export function JobDetailView({
           <span>/</span>
           <Link href="/jobs" className="hover:text-foreground transition-colors">Jobs</Link>
           <span>/</span>
-          <Link href={`/companies/${companySlug}`} className="hover:text-foreground transition-colors">{job.company}</Link>
+          <Link href={`/${companySlug}`} className="hover:text-foreground transition-colors">{job.company}</Link>
           <span>/</span>
           <span className="text-foreground truncate max-w-[200px] sm:max-w-xs">{job.title}</span>
         </nav>
@@ -175,7 +175,7 @@ export function JobDetailView({
 
                 <div className="flex flex-wrap items-center gap-y-2 gap-x-6 text-sm text-muted-foreground pt-1">
                   <Link 
-                    href={`/companies/${companySlug}`}
+                    href={`/${companySlug}`}
                     className="flex items-center gap-2 font-semibold text-foreground hover:text-primary transition-colors"
                   >
                     {job.company}
@@ -204,7 +204,7 @@ export function JobDetailView({
               </JobApplicationButton>
 
               <Button variant="outline" size="lg" asChild className="w-full text-base font-semibold">
-                <Link href={`/companies/${companySlug}`}>
+                <Link href={`/${companySlug}`}>
                   More roles by {job.company}
                 </Link>
               </Button>
@@ -247,7 +247,7 @@ export function JobDetailView({
             </Link>
           </Button>
           <Button variant="outline" asChild>
-            <Link href={`/companies/${companySlug}`}>
+            <Link href={`/${companySlug}`}>
               All {job.company} Openings <ArrowRight className="ml-2 w-4 h-4" />
             </Link>
           </Button>

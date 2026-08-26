@@ -7,7 +7,9 @@ import { notFound } from 'next/navigation';
 import * as fs from 'fs';
 import * as path from 'path';
 import { getJobBySlug, getJobSlug, getAllJobsWithSlugs, fetchJobOriginalContent } from '@/lib/job-guides';
-import { getCompanyBySlug } from '@/lib/companies';
+import { getCompanyBySlug, getCompanies } from '@/lib/companies';
+import { CompanyDetailView } from '@/components/company-detail-view';
+import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 import { JobDetailView } from '@/components/job-detail-view';
 import { GlossaryCTA } from '@/components/glossary-cta';
 import { GlossaryCharts } from '@/components/glossary-charts';
@@ -64,6 +66,10 @@ export async function generateStaticParams() {
    ...curatedEvents.map((event) => ({ slug: getEventSlug(event) })),
    ...feedEvents.slice(0, 20).map((event) => ({ slug: getEventSlug(event) })),
    ...jobsWithSlugs.slice(0, 60).map(({ slug }) => ({ slug })),
+   ...(await getCompanies())
+    .sort((a, b) => b.jobCount - a.jobCount)
+    .slice(0, 20)
+    .map((company) => ({ slug: company.slug })),
   ];
 }
 
@@ -114,6 +120,37 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         card: 'summary_large_image',
         title,
         description,
+        images: [ogImageUrl],
+      },
+    };
+  }
+
+  // Check if it's a company page
+  const companyMeta = await getCompanyBySlug(params.slug);
+  if (companyMeta) {
+    const siteUrl = 'https://hashtagweb3.com';
+    const canonicalUrl = `${siteUrl}/${companyMeta.slug}`;
+    const ogImageUrl = `${siteUrl}/api/og?type=company&title=${encodeURIComponent(companyMeta.name)}&count=${companyMeta.jobCount}`;
+    const rawDesc = companyMeta.description
+      ? `${companyMeta.description}. ${companyMeta.jobCount} open positions at ${companyMeta.name}.`
+      : `Browse ${companyMeta.jobCount} open Web3 and blockchain positions at ${companyMeta.name}. Find remote crypto jobs in engineering, marketing, product, and more on Hashtag Web3.`;
+    const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
+
+    return {
+      title: `${companyMeta.name} Jobs - ${companyMeta.jobCount} Open Positions`,
+      description: desc,
+      alternates: { canonical: canonicalUrl },
+      openGraph: {
+        type: 'website',
+        title: `${companyMeta.name} - ${companyMeta.jobCount} Open Positions`,
+        description: desc,
+        url: canonicalUrl,
+        images: [{ url: ogImageUrl, width: 1200, height: 630, alt: `${companyMeta.name} Jobs` }],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: `${companyMeta.name} - ${companyMeta.jobCount} Open Positions`,
+        description: desc,
         images: [ogImageUrl],
       },
     };
@@ -290,35 +327,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       .filter((j) => j.id !== job.id && (j.company.toLowerCase() === job.company.toLowerCase() || j.title.toLowerCase().includes(job.title.split(' ')[0].toLowerCase())))
       .slice(0, 4);
 
-    const possiblePaths = [
-      `/logo/companies/${companySlug}.png`,
-      `/logo/companies/${companySlug}.jpg`,
-      `/logo/companies/${companySlug}.svg`,
-      `/logo/companies/${companySlug.toLowerCase()}.png`,
-      `/logo/job/${companySlug}.png`,
-      `/logo/job/${companySlug}.jpg`,
-      `/logo/job/${companySlug}.svg`,
-      `/logo/job/${companySlug.toLowerCase()}.png`,
-      `/logo/partners/${companySlug}.png`,
-      `/logo/partners/${companySlug.toLowerCase()}.png`,
-    ];
-
-    let logoSrc: string | null = null;
-    for (const relPath of possiblePaths) {
-      const fullPath = path.join(process.cwd(), 'public', relPath);
-      if (fs.existsSync(fullPath)) {
-        logoSrc = relPath;
-        break;
-      }
-    }
-
-    if (!logoSrc) {
-      if (company?.website) {
-        logoSrc = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodeURIComponent(company.website)}&size=128`;
-      } else {
-        logoSrc = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${companySlug.replace(/-/g, '')}.com&size=128`;
-      }
-    }
+    const logoSrc = resolveCompanyLogo(companySlug) ?? getCompanyFaviconUrl(company?.website);
 
     return (
       <JobDetailView
@@ -330,6 +339,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         logoSrc={logoSrc}
       />
     );
+  }
+
+// Check if it's a company page
+  const companyPage = await getCompanyBySlug(params.slug);
+  if (companyPage) {
+    return <CompanyDetailView slug={params.slug} />;
   }
 
   // Check if it's an event page first

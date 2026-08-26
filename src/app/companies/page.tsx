@@ -84,7 +84,7 @@ export default async function CompaniesPage() {
       {/* Horizontal bar chart */}
       <div className="grid md:grid-cols-2 gap-x-8 gap-y-3">
        {stats.topCompanies.map((company, index) => (
-        <Link key={company.slug} href={`/companies/${company.slug}`} className="group">
+        <Link key={company.slug} href={`/${company.slug}`} className="group">
          <div className="flex items-center gap-3">
           <span className="text-sm font-medium text-muted-foreground w-5 text-right shrink-0">
            {index + 1}
@@ -118,7 +118,7 @@ export default async function CompaniesPage() {
       {[...companies]
        .sort((a, b) => b.jobCount - a.jobCount)
        .map((company) => (
-       <Link key={company.slug} href={`/companies/${company.slug}`}>
+       <Link key={company.slug} href={`/${company.slug}`}>
         <Card className="group hover:border-primary transition-all h-full bg-muted/20">
          <CardContent className="p-5">
           <div className="flex items-start justify-between gap-2 mb-3">
