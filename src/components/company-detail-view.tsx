@@ -105,7 +105,7 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
               {company.jobs.map((job) => (
                 <Link
                   key={getJobSlug(job)}
-                  href={`/jobs/${getJobSlug(job)}`}
+                  href={`/${getJobSlug(job)}`}
                   aria-label={`View ${job.title} at ${displayName} and apply`}
                   className="flex items-start gap-3 rounded-lg border p-4 transition-colors hover:bg-muted/40"
                 >

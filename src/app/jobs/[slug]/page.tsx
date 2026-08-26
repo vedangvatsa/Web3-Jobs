@@ -4,7 +4,7 @@ import { JobDetailView } from '@/components/job-detail-view';
 import { getCompanyBySlug } from '@/lib/companies';
 import { getCompanyFaviconUrl, resolveCompanyLogo } from '@/lib/company-logo';
 import {
-  buildUniqueJobPageContent,
+  buildSynthesizedJobContent,
   buildUniqueJobMetaDescription,
   getAllJobsWithSlugs,
   getJobBySlug,
@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: JobPageProps): Promise<Metada
   }
 
   const slug = getJobSlug(job);
-  const canonicalUrl = `${SITE_URL}/jobs/${slug}`;
+  const canonicalUrl = `${SITE_URL}/${slug}`;
   const title = `${job.title} at ${job.company}`;
   let sourceHost = 'employer site';
   if (job.link) {
@@ -86,7 +86,7 @@ export default async function JobPage({ params }: JobPageProps) {
 
   const companySlug = getCompanySlug(job.company);
   const company = await getCompanyBySlug(companySlug);
-  const contentHtml = buildUniqueJobPageContent(job);
+  const contentHtml = buildSynthesizedJobContent(job);
   const logoSrc = resolveCompanyLogo(companySlug);
   const faviconUrl = getCompanyFaviconUrl(company?.website);
 

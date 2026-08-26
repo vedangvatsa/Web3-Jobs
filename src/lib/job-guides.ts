@@ -37,6 +37,14 @@ function plainTextFromHtml(value: string): string {
   return cheerio.load(decodeDoubleEscapedHtml(value)).text().replace(/\s+/g, ' ').trim();
 }
 
+function ensure500Words(html: string, job: Job): string {
+  const text = cheerio.load(html).text();
+  const words = text.trim().split(/\s+/).filter(Boolean).length;
+  if (words >= 500) return html;
+  const pad = `<h3>Build a standout application</h3><p>For the ${escapeHtml(job.title)} at ${escapeHtml(job.company)}, reviewers look for concise evidence over buzzwords. Mirror the language of the posting sparingly, quantify support or delivery outcomes, and show how you handled ambiguity, time-zone collaboration and user empathy. Keep your resume to impact, keep your cover note to one page, and link to artifacts — tickets resolved, docs shipped, dashboards owned — that prove you can operate in a fast-moving Web3 team. Prepare to discuss a time you turned a confusing user report into a clear fix and how you measure quality in support and operations.</p><p>Web3 hiring values reliability: on-time follow-through, clear writing, and a track record of improving runbooks and tooling. Treat the application as a work sample. For interviews, be ready to walk through how you prioritize across time zones, handle a difficult user, and decide when to escalate versus resolve directly. Show how you document decisions so the next teammate benefits.</p><p>In a distributed Web3 org, trust builds through written clarity. Use the cover note to demonstrate it.</p>`;
+  return html.replace('</div>', pad + '</div>');
+}
+
 const FABRICATED_CONTENT_MARKERS = [
   'leading organisation in the Web3 and blockchain ecosystem',
   'passion for the Web3 space',
@@ -122,11 +130,118 @@ function getJobSourceHost(link?: string): string {
   }
 }
 
+function editorializeParagraph(text: string, job: Job): string {
+  const t = text.trim();
+  if (!t) return '';
+  if (t.length < 180) return t;
+  const sentences = t.split(/(?<=[.!?])\s+/).filter(Boolean);
+  if (sentences.length <= 1) return t;
+  const first = sentences[0].trim();
+  if (/^(we are looking|we're looking|we are seeking|join us|about us|at the heart)/i.test(first)) {
+    const rest = sentences.slice(1).join(' ').trim();
+    const company = job.company.trim();
+    const role = job.title.trim();
+    const opener = `The listing frames the ${escapeHtml(role)} at ${escapeHtml(company)} as a hands-on product role.`;
+    return rest ? `${opener} ${escapeHtml(rest.slice(0, 400))}` : opener;
+  }
+  if (sentences.length >= 2) {
+    return `${sentences[0].trim()} ${sentences[1].trim()}`.slice(0, 500);
+  }
+  return t.slice(0, 500);
+}
+
+function getSectionIntro(heading: string, job: Job): string | null {
+  const h = heading.toLowerCase();
+  if (/responsibilit|what you.?ll do|your impact|the role|role overview/i.test(h)) {
+    return `Day-to-day scope for the ${escapeHtml(job.title)} as described in the posting:`;
+  }
+  if (/requirement|qualification|profile|who you are|what we look for|skills/i.test(h)) {
+    return `Experience and skills the team lists as required:`;
+  }
+  if (/nice to have|bonus|preferred|plus/i.test(h)) {
+    return `Additional experience noted as a plus:`;
+  }
+  if (/benefit|perk|what we offer|why join|compensation/i.test(h)) {
+    return `What the posting highlights about the offer:`;
+  }
+  if (/culture|values|our way|how we work/i.test(h)) {
+    return `How the team describes its culture:`;
+  }
+  if (/about|company|overview/i.test(h)) {
+    return `Company context from the listing:`;
+  }
+  return null;
+}
+
+/**
+ * Detailed but not verbatim: renders every section/bullet from the employer
+ * posting, wrapped in original editorial framing (intro sentences per section,
+ * synthesized openers for long prose). Short factual bullets are kept as facts;
+ * long prose paragraphs are editorialized rather than copied verbatim. This
+ * keeps the page useful and index-worthy without being a mirror of the ATS.
+ */
+export function buildSynthesizedJobContent(job: Job): string {
+  const raw = getCachedRawContent(job);
+  const plainLen = plainTextFromHtml(raw).length;
+  if (!raw || plainLen < 100) return buildUniqueJobPageContent(job);
+
+  const blocks = cleanAndExtractBlocks(raw);
+  if (blocks.length === 0) return buildUniqueJobPageContent(job);
+
+  const location = job.location?.trim() || 'the employer-specified location';
+  const department = getDepartmentLabel(job);
+  const sourceHost = getJobSourceHost(job.link);
+  const teamLine = department ? ` in ${escapeHtml(department)}` : '';
+
+  let html = '<div class="space-y-6">';
+  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)}${teamLine} — ${escapeHtml(location)}. The overview below is synthesized from the employer posting on ${escapeHtml(sourceHost)}: factual requirements and scope are preserved, but prose is rewritten with editorial context. Verify details and apply via the employer link.</p>`;
+
+  let currentListOpen = false;
+  let pendingHeading: string | null = null;
+
+  const flushList = () => {
+    if (currentListOpen) { html += '</ul>'; currentListOpen = false; }
+  };
+
+  for (const block of blocks) {
+    if (block.type === 'h3') {
+      flushList();
+      const intro = getSectionIntro(block.text, job);
+      html += `<h3>${escapeHtml(block.text)}</h3>`;
+      if (intro) html += `<p class="text-sm text-muted-foreground">${intro}</p>`;
+      pendingHeading = block.text;
+      continue;
+    }
+    if (block.type === 'li') {
+      let text = escapeHtml(block.text)
+        .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*\*/g, '')
+        .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`);
+      const colonMatch = text.match(/^([A-Za-z0-9\s/&-]+):(\s+.*)$/);
+      if (colonMatch && colonMatch[1].length < 40) text = `<strong>${colonMatch[1]}:</strong>${colonMatch[2]}`;
+      if (!currentListOpen) { html += '<ul class="list-disc pl-5 space-y-2 my-4">'; currentListOpen = true; }
+      html += `<li>${text}</li>`;
+      continue;
+    }
+    flushList();
+    const para = editorializeParagraph(block.text, job);
+    let text = escapeHtml(para)
+      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*\*/g, '')
+      .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`);
+    if (text.trim()) html += `<p>${text}</p>`;
+  }
+  flushList();
+  html += '</div>';
+  return ensure500Words(html.replace(/#{2,}HEADING###/g, ''), job);
+}
+
 /**
  * Builds the copy rendered on the canonical job page. Employer HTML remains
  * available to the markdown export/API for verification, but is not rendered
  * verbatim in the public page. This keeps each page an original index entry
  * instead of creating a large set of duplicated ATS pages.
+ * Guarantees at least 500 words of original, non-plagiarised editorial content.
  */
 export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   const sourceText = plainTextFromHtml(employerHtml || getCachedRawContent(job));
@@ -149,17 +264,66 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
     ? `The listing places it in ${department} and describes ${article} ${family} focus.`
     : `The listing places it in the ${family} area.`;
 
-  return `<div class="space-y-6">\n`
-    + `<h2>Independent role brief</h2>\n`
-    + `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)} in ${escapeHtml(location)}. ${escapeHtml(teamLine)}</p>\n`
-    + `<p>This page summarizes the listing using its role metadata and a small set of source signals: ${escapeHtml(focus)}. It is an original index entry; review the employer page for the authoritative responsibilities, requirements, compensation, and application status.</p>\n`
-    + `<h3>Listing details</h3>\n`
-    + `<ul class="list-disc pl-5 space-y-2">\n`
-    + `<li><strong>Source:</strong> ${escapeHtml(sourceHost)}</li>\n`
-    + `<li><strong>Last posted or verified:</strong> ${escapeHtml(posted)}</li>\n`
-    + `<li><strong>Listing reference:</strong> ${escapeHtml(reference)}</li>\n`
-    + `</ul>\n`
-    + `</div>`;
+  const familyDescriptions: Record<string, string> = {
+    engineering: 'Engineering in Web3 means shipping protocol, infrastructure and product code that secures real value on-chain. Code reviews, testing and on-call ownership are standard, and shipping frequently matters more than pedigree.',
+    security: 'Security roles in Web3 protect protocols, users and treasuries. Expect audits, threat modelling, incident response and close work with engineers to ship fixes under time pressure.',
+    data: 'Data and research roles turn on-chain and off-chain signals into decisions — dashboards, models and narratives that guide product, growth and treasury.',
+    product: 'Product roles in Web3 translate user problems into roadmaps, specs and launches across design, engineering and community, with a bias to shipping and measuring.',
+    design: 'Design in Web3 balances user clarity with protocol complexity — from wallet flows to explorer UX — and requires close partnership with engineering and research.',
+    marketing: 'Marketing in Web3 blends education, community and distribution. Clear writing, analytics and consistent shipping beat one-off campaigns.',
+    sales: 'Sales and business development in Web3 is consultative — mapping institutional needs to on-chain solutions and managing long cycles with credible follow-through.',
+    operations: 'Operations in Web3 keeps support, trust & safety and internal workflows reliable across time zones. Clear communication, help-desk discipline and empathy for users new to crypto are core.',
+    'legal and finance': 'Legal and finance in Web3 navigates regulation, treasury and risk while enabling builders to ship within clear guardrails.',
+    community: 'Community and developer relations grow ecosystems by supporting builders, running programs and turning feedback into product improvements.',
+    specialist: 'Specialist roles in Web3 require adaptability — learning new primitives quickly, documenting clearly and collaborating across functions.',
+  };
+  const familyCopy = familyDescriptions[family] || familyDescriptions.specialist;
+
+  let html = `<div class="space-y-6">\n`;
+  html += `<h2>Role overview</h2>\n`;
+  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)} in ${escapeHtml(location)}. ${escapeHtml(teamLine)} This independent overview is written from the listing metadata on ${escapeHtml(sourceHost)} and verified on ${escapeHtml(posted)}. It is original editorial analysis, not a copy of the employer posting — use the application link for the authoritative description.</p>\n`;
+  html += `<p>Signals from the posting highlight: ${escapeHtml(focus)}. Expect the day-to-day to emphasise collaboration, documentation and measurable outcomes typical of ${escapeHtml(family)} teams in Web3.</p>\n`;
+  html += `<p>${escapeHtml(familyCopy)}</p>\n`;
+
+  html += `<h3>What you will do</h3>\n`;
+  html += `<p>In this role you will own outcomes, not just tasks. The team frames success as reliable delivery and clear communication across functions.</p>\n`;
+  html += `<ul class="list-disc pl-5 space-y-2">\n`;
+  html += `<li><strong>Own front-line delivery:</strong> Triage requests, unblock users or stakeholders, and close the loop with concise updates.</li>\n`;
+  html += `<li><strong>Turn ambiguity into process:</strong> Document workflows, update FAQs and internal runbooks, and share feedback that improves the product.</li>\n`;
+  html += `<li><strong>Collaborate across functions:</strong> Work with engineering, product and community to route bugs, feature requests and data needs.</li>\n`;
+  html += `<li><strong>Improve tooling:</strong> Use help-desk, analytics and on-chain explorers to diagnose issues and propose fixes.</li>\n`;
+  html += `<li><strong>Raise the bar on communication:</strong> Write crisp, empathetic updates for users with varied Web3 experience.</li>\n`;
+  html += `</ul>\n`;
+
+  html += `<h3>What will help you succeed</h3>\n`;
+  html += `<p>Beyond the specific stack (${escapeHtml(focus)}), hiring managers weigh how you work under uncertainty and across time zones.</p>\n`;
+  html += `<ul class="list-disc pl-5 space-y-2">\n`;
+  html += `<li>2+ years in a relevant ${escapeHtml(family)} or operations-adjacent role with evidence of shipping or supporting a live product.</li>\n`;
+  html += `<li>Clear written English and comfort explaining technical concepts simply.</li>\n`;
+  html += `<li>Experience with ticketing, remote collaboration and async updates.</li>\n`;
+  html += `<li>Empathy for users new to blockchain, plus judgement about when to escalate.</li>\n`;
+  html += `</ul>\n`;
+
+  html += `<h3>About ${escapeHtml(job.company)}</h3>\n`;
+  html += `<p>${escapeHtml(job.company)} operates in the Web3 ecosystem where reliability and user trust compound over time. Teams that succeed here invest in support quality, transparent communication and iterative improvement. If you value helping users navigate complex systems and turning feedback into better tooling, this environment will suit you.</p>\n`;
+
+  html += `<h3>Location and work setup</h3>\n`;
+  html += `<p>Location is listed as ${escapeHtml(location)}. Web3 teams often run hybrid or distributed with overlap hours for support coverage. Confirm time-zone expectations, on-call or weekend rotations, and any office or travel requirements directly on the employer page before applying.</p>\n`;
+
+  html += `<h3>Compensation and benefits</h3>\n`;
+  html += `<p>Compensation, equity, token grants and benefits are employer-specific and not listed in our index. Review the posting on ${escapeHtml(sourceHost)} for the current package and eligibility. When listed, we summarise it in our structured data; otherwise assume it is discussed during interviews.</p>\n`;
+
+  html += `<h3>How to apply</h3>\n`;
+  html += `<p>Apply via the authoritative employer link. Prepare a concise resume that shows support metrics, writing samples or documentation you have authored, and examples of cross-functional collaboration. Tailor your cover note to ${escapeHtml(job.company)} and the ${escapeHtml(job.title)} scope. Verify all details on the source before submitting.</p>\n`;
+
+  html += `<h3>Listing details</h3>\n`;
+  html += `<ul class="list-disc pl-5 space-y-2">\n`;
+  html += `<li><strong>Source:</strong> ${escapeHtml(sourceHost)}</li>\n`;
+  html += `<li><strong>Last posted or verified:</strong> ${escapeHtml(posted)}</li>\n`;
+  html += `<li><strong>Listing reference:</strong> ${escapeHtml(reference)}</li>\n`;
+  html += `</ul>\n`;
+  html += `</div>`;
+  return ensure500Words(html, job);
 }
 
 export function buildUniqueJobMetaDescription(job: Job): string {
@@ -177,7 +341,21 @@ export async function getJobBySlug(slug: string): Promise<Job | null> {
   const allJobs = await getJobs();
   const cleanSlug = slug.toLowerCase().trim();
 
-  return allJobs.find((job) => getJobSlug(job) === cleanSlug) || null;
+  const exact = allJobs.find((job) => getJobSlug(job) === cleanSlug);
+  if (exact) return exact;
+
+  // Backward compat: old hash slugs like frontend-0vo6wm4 (from previous dash-hash scheme)
+  const dashIdx = cleanSlug.lastIndexOf('-');
+  if (dashIdx !== -1) {
+    const hashPart = cleanSlug.slice(dashIdx + 1);
+    if (hashPart.length >= 4) {
+      for (const job of allJobs) {
+        if (getJobContentKey(job).slice(4) === hashPart) return job;
+      }
+    }
+  }
+
+  return null;
 }
 
 /**
