@@ -17,13 +17,24 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
     notFound();
   }
 
+  // Override display name when the company website belongs to a known brand alias
+  const displayName = (() => {
+    try {
+      if (company.website) {
+        const host = new URL(company.website.startsWith('http') ? company.website : `https://${company.website}`).hostname;
+        if (host.includes('offchainlabs.com')) return 'Offchain Labs';
+      }
+    } catch { /* ignore */ }
+    return company.name;
+  })();
+
   const logoSrc = resolveCompanyLogo(company.slug);
   const faviconUrl = getCompanyFaviconUrl(company.website);
 
   const organizationSchema: WithContext<Organization> = {
     '@context': 'https://schema.org',
     '@type': 'Organization',
-    name: company.name,
+    name: displayName,
     ...(company.website && { url: company.website }),
     ...(company.description && { description: company.description }),
     ...(company.founded && { foundingDate: String(company.founded) }),
@@ -33,11 +44,11 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
     '@context': 'https://schema.org',
     '@type': 'JobPosting',
     title: job.title,
-    description: `${job.title} at ${company.name}`,
+    description: `${job.title} at ${displayName}`,
     datePosted: new Date(job.date).toISOString(),
     hiringOrganization: {
       '@type': 'Organization',
-      name: company.name,
+      name: displayName,
       ...(company.website && { url: company.website }),
     },
     employmentType: 'FULL_TIME',
@@ -69,7 +80,7 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
 
   return (
     <>
-      <CompanyViewTracker slug={company.slug} name={company.name} jobCount={company.jobCount} />
+      <CompanyViewTracker slug={company.slug} name={displayName} jobCount={company.jobCount} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
@@ -91,18 +102,18 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
               {' / '}
               <Link href="/companies" className="hover:text-primary">Companies</Link>
               {' / '}
-              <span className="text-foreground">{company.name}</span>
+              <span className="text-foreground">{displayName}</span>
             </nav>
 
             {/* Company Header */}
             <header className="mb-8 border border-border/60 bg-muted/10 rounded-2xl p-6">
               <div className="flex flex-col sm:flex-row sm:items-center gap-6">
                 <div className="relative h-20 w-20 flex items-center justify-center p-3 bg-background rounded-2xl shadow-sm border border-border/80 shrink-0">
-                  <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={company.name} />
+                  <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={displayName} />
                 </div>
                 <div className="flex-1 min-w-0">
                   <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-foreground">
-                    {company.name} Careers
+                    {displayName} Careers
                   </h1>
                   <div className="flex items-center gap-4 text-sm text-muted-foreground mt-3">
                     <span className="flex items-center gap-1.5 font-medium">
@@ -112,7 +123,7 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
                     {company.website && (
                       <OutboundLink
                         href={company.website}
-                        label={`${company.name} website`}
+                        label={`${displayName} website`}
                         className="flex items-center gap-1.5 text-primary hover:underline font-medium"
                       >
                         <ExternalLink className="h-4 w-4" />

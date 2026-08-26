@@ -9,7 +9,7 @@ import * as path from 'path';
 import { getJobBySlug, getJobSlug, getAllJobsWithSlugs, fetchJobOriginalContent } from '@/lib/job-guides';
 import { getCompanyBySlug, getCompanies } from '@/lib/companies';
 import { CompanyDetailView } from '@/components/company-detail-view';
-import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
+import { resolveCompanyLogo, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug } from '@/lib/company-logo';
 import { JobDetailView } from '@/components/job-detail-view';
 import { GlossaryCTA } from '@/components/glossary-cta';
 import { GlossaryCharts } from '@/components/glossary-charts';
@@ -327,7 +327,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       .filter((j) => j.id !== job.id && (j.company.toLowerCase() === job.company.toLowerCase() || j.title.toLowerCase().includes(job.title.split(' ')[0].toLowerCase())))
       .slice(0, 4);
 
-    const logoSrc = resolveCompanyLogo(companySlug) ?? getCompanyFaviconUrl(company?.website);
+    const logoSrc = resolveCompanyLogo(companySlug) ?? getCompanyFaviconUrl(company?.website) ?? getCompanyFaviconUrlBySlug(companySlug);
 
     return (
       <JobDetailView

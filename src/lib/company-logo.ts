@@ -31,11 +31,22 @@ export function resolveCompanyLogo(companySlug: string): string | null {
 }
 
 export function getCompanyFaviconUrl(website: string | null | undefined): string | null {
-  if (!website) return null;
+  if (!website || !website.trim()) return null;
   try {
     const host = new URL(website.startsWith('http') ? website : `https://${website}`).hostname;
     return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${host}&size=128`;
   } catch {
     return null;
   }
+}
+
+/**
+ * Derives a best-guess favicon URL from a company slug when no website URL is available.
+ * e.g. "decent-xyz" -> https://decent.xyz favicon
+ *      "coin-metrics" -> https://coinmetrics.io favicon (guessed from .com)
+ */
+export function getCompanyFaviconUrlBySlug(companySlug: string): string {
+  // Convert slug back to a plausible domain (slug without hyphens + .com)
+  const domain = companySlug.replace(/-/g, '') + '.com';
+  return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${domain}&size=128`;
 }
