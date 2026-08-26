@@ -7,7 +7,7 @@ description: >-
   technique that allows for computation on encrypted data, enabling.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 In [Web3](/what-is-web3), a challenge exists between the need for transparency and the requirement for privacy. Public blockchains, such as [Ethereum](/what-is-ethereum), provide a high degree of transparency, allowing all data and transactions to be accessible. This enhances auditability but raises concerns about privacy, especially for applications dealing with sensitive information, such as medical records or confidential financial transactions.

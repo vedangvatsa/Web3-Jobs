@@ -8,7 +8,7 @@ image: 'https://picsum.photos/seed/meeting/1200/630'
 category: Career Guides
 data-ai-hint: remote meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 ## Meeting Etiquette for Remote Workers

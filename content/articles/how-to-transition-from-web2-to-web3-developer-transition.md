@@ -7,7 +7,7 @@ description: >-
   key mindset shifts, the essential new technologies to learn, and a practical.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 As a Web2 developer, you possess a solid foundation in application development. Transitioning to [Web3](/what-is-web3) does not require starting from square one; rather, it involves adapting and expanding your existing skills to fit a decentralized framework. This guide outlines a structured approach to enable your transition.

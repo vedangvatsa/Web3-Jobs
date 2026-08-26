@@ -7,7 +7,7 @@ description: >-
   skills needed to succeed, and how to break into a role at a crypto venture.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 The role of an Investment Analyst at a [Web3](/what-is-web3) venture capital fund ranks among the most intellectually rewarding positions in the cryptocurrency sector. Analysts focus on identifying promising founders and protocols that will influence the future of the decentralized internet.

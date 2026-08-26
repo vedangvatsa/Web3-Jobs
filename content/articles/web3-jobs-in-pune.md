@@ -7,7 +7,7 @@ description: >-
   the Indian crypto ecosystem, from its strong developer community to its.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 Pune, traditionally recognized as a center for education and conventional IT, is rapidly defining itself as a active hub for [Web3](/what-is-web3) innovation. Located near India's financial capital, Mumbai, Pune presents a blend of a highly skilled engineering workforce, a lower cost of living compared to larger cities, and a growing startup ecosystem. These factors make it an appealing destination for both local Web3 startups and international projects seeking to establish a foothold in India.

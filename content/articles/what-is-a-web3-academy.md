@@ -8,7 +8,7 @@ image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 category: Career Guides
 data-ai-hint: person writing blackboard
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 ## Beyond the University: The Rise of the Web3 Academy

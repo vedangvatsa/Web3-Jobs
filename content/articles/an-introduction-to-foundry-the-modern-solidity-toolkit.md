@@ -8,7 +8,7 @@ description: >-
   Solidity-native development toolkit that is changing how we build and test.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 Foundry has emerged as a modern toolkit for Ethereum development, addressing key limitations of traditional JavaScript-based frameworks like Hardhat and Truffle. These frameworks have played an important role in the Ethereum ecosystem, but they require developers to switch between Solidity for smart contracts and JavaScript for tests and scripts. This context-switching can lead to inefficiencies and bugs.

@@ -8,7 +8,7 @@ description: >-
   what.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 You've dedicated extensive time and effort to develop your [Web3](/what-is-web3) protocol. Your team has crafted thousands of lines of [Solidity](/best-programming-languages-for-blockchain-development) code, and you're set to launch. However, before deploying any [smart contracts](/what-are-smart-contracts) that manage user funds, you must complete a critical step: the **security audit**.

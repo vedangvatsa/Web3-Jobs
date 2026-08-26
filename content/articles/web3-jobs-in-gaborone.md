@@ -7,7 +7,7 @@ description: >-
   capital is using its economic stability and strategic vision to become a.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 Gaborone, the capital of Botswana, distinguishes itself in the African tech sector through its stability, strategic planning, and ambitious growth. Botswana consistently ranks among the most stable and well-governed countries in Africa. This foundation enables Gaborone to build a tech ecosystem designed for sustainable growth. The city is progressively using [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology, focusing on developing trustworthy and transparent systems across finance, supply chains, and natural resource management.

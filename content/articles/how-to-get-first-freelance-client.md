@@ -7,7 +7,7 @@ description: >-
   Learn proven strategies to find and secure your initial project.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 You've identified your skills, built a [portfolio](/building-web3-portfolio), and set your rates. You're prepared to start your [freelance](/how-to-start-freelancing-for-beginners) career, but you face a significant challenge: acquiring your first client. Landing that first client often poses the greatest obstacle for new freelancers. However, with the right approach and determination, you can successfully secure your initial project.

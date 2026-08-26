@@ -7,7 +7,7 @@ description: >-
   components of a transaction fee and explore key techniques for writing.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 Gas fees represent a critical aspect of using the [Ethereum](/what-is-ethereum) blockchain. These fees, known as "gas," serve as the payment for transactions and the execution of [smart contracts](/what-are-smart-contracts). For users, understanding gas fees helps avoid overpayment, while for developers, it is vital for creating efficient applications.
