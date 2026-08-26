@@ -217,7 +217,7 @@ export function JobDetailView({
         <div className="space-y-8">
           
           <div 
-            className="prose prose-slate dark:prose-invert max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-a:text-primary prose-ul:my-4 prose-li:my-1 text-foreground/90 leading-relaxed bg-card/40 border border-border/60 rounded-xl p-6 sm:p-8"
+            className="prose prose-slate dark:prose-invert max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-a:text-primary prose-ul:my-4 prose-li:my-1 text-foreground/90 leading-relaxed"
             dangerouslySetInnerHTML={{ __html: contentHtml }}
           />
 
