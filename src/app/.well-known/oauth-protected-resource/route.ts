@@ -6,7 +6,7 @@ export const revalidate = 86400;
 
 export async function GET() {
   try {
-    const filePath = path.join(process.cwd(), 'public', '.well-known', 'oauth-protected-resource');
+    const filePath = path.join(process.cwd(), 'public', '.well-known', 'oauth-protected-resource.json');
     const content = fs.readFileSync(filePath, 'utf8');
     const json = JSON.parse(content);
 

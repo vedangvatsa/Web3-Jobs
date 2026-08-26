@@ -16,8 +16,13 @@
       "trustManifest": {
         "identity": "https://hashtagweb3.com",
         "verified": true,
-        "attestations": ["dns:hashtagweb3.com", "tls:hashtagweb3.com"]
-      }
+        "attestations": [
+          "dns:hashtagweb3.com",
+          "tls:hashtagweb3.com"
+        ]
+      },
+      "identifier": "urn:air:hashtagweb3:openapi",
+      "displayName": "Hashtag Web3 REST API"
     },
     {
       "id": "urn:air:hashtagweb3:mcp",
@@ -28,8 +33,13 @@
       "trustManifest": {
         "identity": "https://hashtagweb3.com",
         "verified": true,
-        "attestations": ["dns:hashtagweb3.com", "tls:hashtagweb3.com"]
-      }
+        "attestations": [
+          "dns:hashtagweb3.com",
+          "tls:hashtagweb3.com"
+        ]
+      },
+      "identifier": "urn:air:hashtagweb3:mcp",
+      "displayName": "Hashtag Web3 Action MCP Server"
     },
     {
       "id": "urn:air:hashtagweb3:mcp-docs",
@@ -40,8 +50,13 @@
       "trustManifest": {
         "identity": "https://hashtagweb3.com",
         "verified": true,
-        "attestations": ["dns:hashtagweb3.com", "tls:hashtagweb3.com"]
-      }
+        "attestations": [
+          "dns:hashtagweb3.com",
+          "tls:hashtagweb3.com"
+        ]
+      },
+      "identifier": "urn:air:hashtagweb3:mcp-docs",
+      "displayName": "Hashtag Web3 Documentation MCP Server"
     },
     {
       "id": "urn:air:hashtagweb3:agent-skills",
@@ -52,8 +67,13 @@
       "trustManifest": {
         "identity": "https://hashtagweb3.com",
         "verified": true,
-        "attestations": ["dns:hashtagweb3.com", "tls:hashtagweb3.com"]
-      }
+        "attestations": [
+          "dns:hashtagweb3.com",
+          "tls:hashtagweb3.com"
+        ]
+      },
+      "identifier": "urn:air:hashtagweb3:agent-skills",
+      "displayName": "Hashtag Web3 Agent Skills Index"
     },
     {
       "id": "urn:air:hashtagweb3:nlweb",
@@ -64,8 +84,13 @@
       "trustManifest": {
         "identity": "https://hashtagweb3.com",
         "verified": true,
-        "attestations": ["dns:hashtagweb3.com", "tls:hashtagweb3.com"]
-      }
+        "attestations": [
+          "dns:hashtagweb3.com",
+          "tls:hashtagweb3.com"
+        ]
+      },
+      "identifier": "urn:air:hashtagweb3:nlweb",
+      "displayName": "NLWeb Natural Language Query Endpoint"
     }
   ]
 }

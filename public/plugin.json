@@ -1,4 +1,6 @@
 {
+  "$schema": "https://agent-plugins.org/specification/schema.json",
+  "name": "hashtagweb3",
   "schema_version": "v1",
   "name_for_human": "Hashtagweb3",
   "name_for_model": "hashtagweb3",
