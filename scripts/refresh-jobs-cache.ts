@@ -270,6 +270,20 @@ async function refreshJobsCache() {
     // --- CoinGecko May 2026 expansion ---
     { board: 'sonic', company: 'Sonic' },
     { board: 'spire', company: 'Spire' },
+    // --- Additional Top Web3 Companies (August 2026 expansion) ---
+    { board: 'chainlink', company: 'Chainlink Labs' },
+    { board: 'scroll', company: 'Scroll' },
+    { board: 'starkware', company: 'StarkWare' },
+    { board: 'mantlenetwork', company: 'Mantle' },
+    { board: 'worldcoin', company: 'Worldcoin' },
+    { board: 'berachain', company: 'Berachain' },
+    { board: 'gnosis', company: 'Gnosis' },
+    { board: 'wormhole', company: 'Wormhole' },
+    { board: 'moralis', company: 'Moralis' },
+    { board: 'dydx', company: 'dYdX' },
+    { board: 'pancakeswap', company: 'PancakeSwap' },
+    { board: 'farcaster', company: 'Farcaster' },
+    { board: 'etherscan', company: 'Etherscan' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -501,6 +515,10 @@ async function refreshJobsCache() {
     { board: 'dapper', company: 'Dapper Labs' },
     { board: 'protocol', company: 'Protocol Labs' },
     { board: 'cyberconnect', company: 'CyberConnect' },
+    // --- Additional Top Web3 Companies (August 2026 expansion) ---
+    { board: 'lido', company: 'Lido' },
+    { board: 'zerodev', company: 'ZeroDev' },
+    { board: 'puffer', company: 'Puffer Finance' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
