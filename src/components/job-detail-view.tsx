@@ -8,7 +8,6 @@ import { Badge } from '@/components/ui/badge';
 import { 
   MapPin, 
   ExternalLink, 
-  Building2, 
   ArrowLeft, 
   Clock, 
   ArrowRight
@@ -37,6 +36,8 @@ export function JobDetailView({
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
+
+  const effectiveLogoSrc = logoSrc || `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${companySlug.replace(/-/g, '')}.com&size=128`;
 
   const canonicalUrl = `${siteUrl}/${slug}`;
 
@@ -136,15 +137,16 @@ export function JobDetailView({
           <div className="flex flex-col md:flex-row md:items-start justify-between gap-6">
             
             <div className="flex flex-col sm:flex-row items-start gap-5 flex-1 min-w-0">
-              {logoSrc && (
-                <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-xl overflow-hidden border border-border/80 bg-white flex items-center justify-center p-2 shrink-0 shadow-sm">
-                  <img 
-                    src={logoSrc} 
-                    alt={`${job.company} logo`} 
-                    className="max-w-full max-h-full object-contain"
-                  />
-                </div>
-              )}
+              <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-xl overflow-hidden border border-border/80 bg-white flex items-center justify-center p-2 shrink-0 shadow-sm">
+                <img 
+                  src={effectiveLogoSrc} 
+                  alt={`${job.company} logo`} 
+                  className="max-w-full max-h-full object-contain"
+                  onError={(e) => {
+                    e.currentTarget.src = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${companySlug.replace(/-/g, '')}.com&size=128`;
+                  }}
+                />
+              </div>
               
               <div className="space-y-4 flex-1 min-w-0">
                 <div className="flex flex-wrap items-center gap-2">
@@ -162,7 +164,6 @@ export function JobDetailView({
                     href={`/companies/${companySlug}`}
                     className="flex items-center gap-2 font-semibold text-foreground hover:text-primary transition-colors"
                   >
-                    {!logoSrc && <Building2 className="w-4 h-4 text-primary" />}
                     {job.company}
                   </Link>
                   <div className="flex items-center gap-1.5">

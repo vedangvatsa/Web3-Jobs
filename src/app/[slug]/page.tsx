@@ -316,6 +316,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       }
     }
 
+    if (!logoSrc) {
+      if (company?.website) {
+        logoSrc = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodeURIComponent(company.website)}&size=128`;
+      } else {
+        logoSrc = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${companySlug.replace(/-/g, '')}.com&size=128`;
+      }
+    }
+
     return (
       <JobDetailView
         job={job}
