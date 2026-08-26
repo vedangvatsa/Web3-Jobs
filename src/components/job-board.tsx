@@ -5,6 +5,7 @@ import type { Job } from '@/types';
 import { useState, useMemo, useTransition, useEffect, useRef } from 'react';
 import { Input } from '@/components/ui/input';
 import { JobCard } from './job-card';
+import { getCompanySlug } from '@/lib/job-slugs';
 import { Search } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
 
@@ -55,7 +56,7 @@ function useJobViewObserver(jobs: Job[]) {
  return gridRef;
 }
 
-export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
+export function JobBoard({ initialJobs, companyLogos }: { initialJobs: Job[]; companyLogos?: Record<string, { logo: string | null; favicon: string | null }> }) {
  const [inputValue, setInputValue] = useState('');
  const [searchQuery, setSearchQuery] = useState('');
  const [isPending, startTransition] = useTransition();
@@ -148,7 +149,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
         data-date={job.date}
         className="h-full"
        >
-        <JobCard job={job} />
+        <JobCard job={job} logoUrl={companyLogos?.[getCompanySlug(job.company)]?.logo} faviconUrl={companyLogos?.[getCompanySlug(job.company)]?.favicon} />
        </div>
      ))}
     </div>

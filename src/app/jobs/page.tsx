@@ -1,4 +1,7 @@
 import { JobBoard } from '@/components/job-board';
+import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
+import { getCompanyBySlug } from '@/lib/companies';
+import { getCompanySlug } from '@/lib/job-slugs';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
@@ -9,6 +12,21 @@ import { PageHeader } from "@/components/page-header";
 
 import { SITE_STATS } from '@/lib/constants';
 import { PageShell } from '@/components/page-shell';
+import type { Job } from '@/types';
+
+async function buildCompanyLogos(jobs: Job[]): Promise<Record<string, { logo: string | null; favicon: string | null }>> {
+  const slugs = Array.from(new Set(jobs.map(j => getCompanySlug(j.company))));
+  const map: Record<string, { logo: string | null; favicon: string | null }> = {};
+  await Promise.all(slugs.map(async slug => {
+    const company = await getCompanyBySlug(slug);
+    map[slug] = {
+      logo: resolveCompanyLogo(slug),
+      favicon: getCompanyFaviconUrl(company?.website),
+    };
+  }));
+  return map;
+}
+
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
@@ -40,6 +58,7 @@ export const metadata: Metadata = {
 
 export default async function JobsPage() {
  const initialJobs = await getJobs();
+ const companyLogos = await buildCompanyLogos(initialJobs);
   
  const siteUrl = 'https://hashtagweb3.com';
  const pageSchema: WebPage = {
@@ -126,7 +145,7 @@ export default async function JobsPage() {
            <span>Join our hiring feed with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
            </Link>
          </div>
-         <JobBoard initialJobs={initialJobs} />
+         <JobBoard initialJobs={initialJobs} companyLogos={companyLogos} />
        </div>
      </PageShell>
     </main>
