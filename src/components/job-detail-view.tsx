@@ -203,7 +203,7 @@ export function JobDetailView({
                 </Button>
               </JobApplicationButton>
 
-              <Button variant="outline" size="sm" asChild className="w-full text-xs">
+              <Button variant="outline" size="lg" asChild className="w-full text-base font-semibold">
                 <Link href={`/companies/${companySlug}`}>
                   More roles by {job.company}
                 </Link>
