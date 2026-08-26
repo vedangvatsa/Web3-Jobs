@@ -7,7 +7,7 @@ description: >-
   Proof-of-Work (PoW) and Proof-of-Stake (PoS) and explains their role in.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 A **[blockchain](/what-is-a-blockchain)** serves as a distributed database, functioning as a shared ledger maintained by a network of untrusting computers. This setup raises a critical issue: How do these independent participants reach a consensus on a single version of truth? How do they determine the validity of transactions and their sequence? The answer is found in the **consensus mechanism**.

@@ -8,7 +8,7 @@ image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 category: Industry Insights
 data-ai-hint: satoshi nakamoto
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 ## A Humble Beginning on the P2P Foundation Forum

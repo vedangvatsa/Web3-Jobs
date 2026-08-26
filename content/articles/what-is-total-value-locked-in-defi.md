@@ -7,7 +7,7 @@ description: >-
   of a DeFi protocol. It represents the total value of all assets deposited by.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 Total Value Locked (TVL) serves as a vital metric for assessing the growth, adoption, and overall health of Decentralized Finance (DeFi) protocols. TVL quantifies the total value of cryptocurrency assets that users have deposited, or "locked," into a protocol's smart contracts. This figure reflects the capital currently under the protocol's management.

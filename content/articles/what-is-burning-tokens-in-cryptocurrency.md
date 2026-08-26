@@ -7,7 +7,7 @@ description: >-
   cryptocurrency tokens from circulation. This is done to create a deflationary.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 In cryptocurrency, "burning" tokens is a strategic method for managing a token's supply and influencing its economic value. Token burning involves the intentional and permanent removal of a specified number of tokens from circulation. This action is irreversible; once a token is burned, it cannot be recovered.

@@ -7,7 +7,7 @@ description: >-
   Web3 applications.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 Avalanche (AVAX) stands out as a high-performance, open-source [Layer 1 blockchain](/what-is-a-layer-1-blockchain) that enables a diverse ecosystem of decentralized applications and enterprise blockchain solutions. Since its inception in 2020 by Ava Labs, Avalanche has focused on delivering near-instant transaction finality along with a highly scalable platform tailored for developers.

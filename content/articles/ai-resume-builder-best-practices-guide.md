@@ -8,7 +8,7 @@ description: >-
   screening.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 In a competitive job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) must fulfill two key objectives: it needs to pass through the initial screening conducted by an AI-powered Applicant Tracking System (ATS), and it must also captivate a human recruiter. AI resume builders have become essential tools for achieving these goals, but using them effectively requires a strategic approach.

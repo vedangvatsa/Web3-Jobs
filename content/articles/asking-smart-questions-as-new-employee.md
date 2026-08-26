@@ -7,7 +7,7 @@ category: Career Guides
 image: 'https://picsum.photos/seed/307/1200/630'
 data-ai-hint: asking questions
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 ## Asking Smart Questions as a New Employee
