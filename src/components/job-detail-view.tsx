@@ -115,7 +115,7 @@ export function JobDetailView({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
-      <div className="site-container max-w-4xl mx-auto py-6 md:py-10">
+      <div className="site-container py-6 md:py-10">
         
         {/* Breadcrumb Navigation */}
         <nav aria-label="Breadcrumb" className="mb-6 flex items-center space-x-2 text-sm text-muted-foreground">
