@@ -1,6 +1,5 @@
 'use client';
 
-import { Header } from '@/components/header';
 import Link from 'next/link';
 import type { ResourcePage, ToolItem } from '@/types/pseo';
 import { useState, useEffect } from 'react';
@@ -81,7 +80,6 @@ export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps
 
  return (
   <div className="flex flex-col min-h-screen bg-background">
-   <Header />
    <main className="flex-1">
     {/* Hero banner with gradient */}
     <div className={`bg-gradient-to-br ${typeMeta.gradient} text-white`}>

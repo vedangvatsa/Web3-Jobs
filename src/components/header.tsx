@@ -40,7 +40,7 @@ export function Header() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(navigationSchema) }}
       />
-      <div className="container mx-auto flex h-14 items-center justify-between px-4">
+      <div className="mx-auto w-full max-w-6xl flex h-14 items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2" aria-label="Hashtag Web3 Homepage">
           <Image
             src="/logo/HashtagWeb3.png"
