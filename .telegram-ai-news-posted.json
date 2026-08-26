@@ -533,6 +533,9 @@
   "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
   "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
   "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+  "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+  "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+  "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1382,6 +1385,12 @@
   "Robotics startup Generalist reaches $3B valuation, sources say",
   "Parents Are Establishing Digital Footprints for Newborns",
   "Raised on AI",
+  "Anthropic signs $45 billion compute deal with Nscale",
+  "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+  "Meta automated AI agents cause major operational disruptions",
+  "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+  "AI products face branding and user experience challenges.",
+  "Google’s Gemini has a branding problem, and so does the rest of AI",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1432,5 +1441,8 @@
   "fp:appl|are|computer|design|desktop|developer|development|devic|enabl|link",
   "fp:agentic|automation|enterpris|execution|granite42|hardwar|ibm|interest|llm|local",
   "fp:200m|development|fund|generalist|physical|rais|reach|robotic|say|scal",
-  "fp:account|are|birth|children|digital|email|establish|footprint|immediately|media"
+  "fp:account|are|birth|children|digital|email|establish|footprint|immediately|media",
+  "fp:45b|agreement|anthropic|capacity|cloud|comput|continu|development|futur|gobbl",
+  "fp:action|agent|automat|autonomous|caus|deploy|detail|disruption|disruptiv|failur",
+  "fp:application|brand|challeng|complex|consumer|design|doe|experienc|fac|gemini"
 ]
