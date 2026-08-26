@@ -1,7 +1,7 @@
 import { getAllTerms, getCategoriesWithCounts, getGlossaryStats } from '@/lib/glossary';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { BookOpen, Search, TrendingUp } from 'lucide-react';
+import { BookOpen, TrendingUp } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";

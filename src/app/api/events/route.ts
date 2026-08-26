@@ -1,6 +1,7 @@
 import { getEvents } from '@/lib/events-server';
 import { getEventType } from '@/lib/events';
 import { NextRequest, NextResponse } from 'next/server';
+import { getStandardApiHeaders } from '@/lib/api-headers';
 
 export const revalidate = 3600; // Cache on CDN for 1 hour
 
@@ -29,10 +30,7 @@ export async function GET(request: NextRequest) {
           },
           {
             status: 400,
-            headers: {
-              'Content-Type': 'application/json',
-              'Access-Control-Allow-Origin': '*',
-            },
+            headers: getStandardApiHeaders(),
           }
         );
       }
@@ -77,9 +75,7 @@ export async function GET(request: NextRequest) {
       {
         status: 200,
         headers: {
-          'Content-Type': 'application/json; charset=utf-8',
-          'Access-Control-Allow-Origin': '*',
-          'Access-Control-Allow-Methods': 'GET, OPTIONS',
+          ...getStandardApiHeaders(),
           'Cache-Control': 'public, max-age=3600, s-maxage=7200, stale-while-revalidate=86400',
           'Vary': 'Accept-Encoding, Accept',
         },

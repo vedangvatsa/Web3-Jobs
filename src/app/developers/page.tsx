@@ -1,24 +1,34 @@
+import type { Metadata } from 'next';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import Link from 'next/link';
-import { Code2, Terminal, Zap } from 'lucide-react';
+import { Code2, Terminal, Zap, Shield, Key, RefreshCw, Cpu } from 'lucide-react';
 import { PageHeader } from '@/components/page-header';
+import { PageShell } from '@/components/page-shell';
 
 export const revalidate = 86400; // 24 hours
+
+export const metadata: Metadata = {
+  title: 'Hashtag Web3 Developer Portal & Public API Documentation',
+  description: 'Official API documentation, OpenAPI 3.1.0 specifications, MCP server instructions, CLI tools, and developer sandbox for Hashtag Web3.',
+  alternates: {
+    canonical: 'https://hashtagweb3.com/developers',
+  },
+};
 
 export default function DevelopersPage() {
   return (
     <div className="flex flex-col min-h-screen">
       <main className="flex-1">
-        <div className="container mx-auto page-section px-4">
+        <PageShell>
           <div className="site-container space-y-12">
             
             {/* Header */}
             <section className="text-center">
               <PageHeader
-                title="Developer Portal & Public API"
-                description="Machine-readable REST endpoints, OpenAPI 3.1 specifications, and agent integration tools for Hashtag Web3."
+                title="Hashtag Web3 Developer Portal & Public API"
+                description="Machine-readable REST endpoints, OpenAPI 3.1 specifications, MCP servers, and agent integration tools for Hashtag Web3."
               />
             </section>
 
@@ -48,15 +58,58 @@ export default function DevelopersPage() {
                       llms.txt
                     </Button>
                   </a>
+                  <a href="/.well-known/agents.json" target="_blank" rel="noopener noreferrer">
+                    <Button variant="outline">
+                      agents.json
+                    </Button>
+                  </a>
                 </div>
+              </div>
+            </section>
+
+            {/* Authentication & API Keys */}
+            <section className="space-y-6">
+              <div className="flex items-center gap-3">
+                <Key className="h-6 w-6 text-primary" />
+                <h2 className="text-2xl sm:text-3xl font-bold text-foreground">Authentication &amp; API Access</h2>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <Card className="p-6">
+                  <h3 className="text-lg font-bold text-foreground mb-2 flex items-center gap-2">
+                    <Badge variant="secondary">Public Read Endpoints</Badge> No Key Required
+                  </h3>
+                  <p className="text-sm text-muted-foreground leading-relaxed mb-4">
+                    All standard read endpoints (<code className="text-primary font-bold">/api/v1/jobs</code>, <code className="text-primary font-bold">/api/v1/news</code>, <code className="text-primary font-bold">/api/v1/events</code>, <code className="text-primary font-bold">/api/v1/glossary</code>) are free to query without an API key or authentication. Global CORS is enabled for frontend integrations.
+                  </p>
+                  <div className="text-xs font-mono bg-muted/40 p-3 rounded-md text-foreground/80">
+                    Default Rate Limit: 120 requests / minute per IP
+                  </div>
+                </Card>
+
+                <Card className="p-6">
+                  <h3 className="text-lg font-bold text-foreground mb-2 flex items-center gap-2">
+                    <Badge variant="outline" className="border-primary text-primary">Agent Auth &amp; Tokens</Badge> Bearer Auth
+                  </h3>
+                  <p className="text-sm text-muted-foreground leading-relaxed mb-4">
+                    Autonomous AI agents and verified partners requiring elevated rate limits or write operations can register for an agent token via our WorkOS-compliant <code className="text-primary font-bold">/auth.md</code> flow.
+                  </p>
+                  <div className="flex gap-2">
+                    <a href="/auth.md" target="_blank" rel="noopener noreferrer">
+                      <Button variant="outline" size="sm">Read auth.md Spec</Button>
+                    </a>
+                    <a href="/.well-known/oauth-protected-resource" target="_blank" rel="noopener noreferrer">
+                      <Button variant="ghost" size="sm">OAuth Resource Info</Button>
+                    </a>
+                  </div>
+                </Card>
               </div>
             </section>
 
             {/* Quickstart Code Examples */}
             <section className="space-y-6">
-              <h2 className="text-2xl sm:text-3xl font-bold text-foreground">API Quickstart</h2>
+              <h2 className="text-2xl sm:text-3xl font-bold text-foreground">API Quickstart &amp; Code Samples</h2>
               <p className="text-muted-foreground text-sm sm:text-base">
-                All endpoints are free to use without an API key for up to 60 requests per minute. CORS is enabled globally for frontend and client-side applications.
+                Query verified Web3 jobs, crypto news, blockchain glossary terms, and global events using your preferred language or command line.
               </p>
 
               <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
@@ -71,11 +124,11 @@ export default function DevelopersPage() {
                   <CardContent className="p-4 bg-zinc-950 text-zinc-100 font-mono text-xs overflow-x-auto rounded-b-lg flex-grow">
                     <pre>
                       <code>{`# Search Solidity jobs
-curl -X GET "https://hashtagweb3.com/api/jobs?search=Solidity&limit=5" \\
+curl -X GET "https://hashtagweb3.com/api/v1/jobs?search=Solidity&limit=5" \\
   -H "Accept: application/json"
 
 # Fetch latest crypto news
-curl -X GET "https://hashtagweb3.com/api/news?limit=10"`}</code>
+curl -X GET "https://hashtagweb3.com/api/v1/news?limit=10"`}</code>
                     </pre>
                   </CardContent>
                 </Card>
@@ -90,7 +143,7 @@ curl -X GET "https://hashtagweb3.com/api/news?limit=10"`}</code>
                   <CardContent className="p-4 bg-zinc-950 text-zinc-100 font-mono text-xs overflow-x-auto rounded-b-lg flex-grow">
                     <pre>
                       <code>{`const response = await fetch(
-  'https://hashtagweb3.com/api/jobs?tag=Ethereum&limit=10'
+  'https://hashtagweb3.com/api/v1/jobs?tag=Ethereum&limit=10'
 );
 const { data, meta } = await response.json();
 console.log(\`Found \${meta.total} jobs:\`, data);`}</code>
@@ -109,7 +162,7 @@ console.log(\`Found \${meta.total} jobs:\`, data);`}</code>
                     <pre>
                       <code>{`import requests
 
-url = "https://hashtagweb3.com/api/jobs"
+url = "https://hashtagweb3.com/api/v1/jobs"
 params = {"search": "Auditor", "limit": 5}
 
 res = requests.get(url, params=params).json()
@@ -122,18 +175,39 @@ for job in res["data"]:
               </div>
             </section>
 
+            {/* Official CLI Tool */}
+            <section className="bg-card border rounded-2xl p-6 sm:p-8 shadow-sm space-y-4">
+              <div className="flex items-center gap-3">
+                <Terminal className="h-6 w-6 text-primary" />
+                <h2 className="text-2xl font-bold text-foreground">Official CLI Tool (npx hashtagweb3)</h2>
+              </div>
+              <p className="text-muted-foreground text-sm leading-relaxed">
+                Developers and agents can run the official CLI tool directly with zero configuration via <code>npx</code> or install it globally from npm:
+              </p>
+              <div className="bg-zinc-950 p-4 rounded-lg text-zinc-100 text-xs font-mono overflow-x-auto">
+                <pre><code>{`# Run via npx directly
+npx hashtagweb3 jobs --search "Solidity" --limit 5
+npx hashtagweb3 news --limit 5
+npx hashtagweb3 events --type conference
+npx hashtagweb3 glossary --search "Zero Knowledge"
+
+# Or install globally
+npm install -g hashtagweb3`}</code></pre>
+              </div>
+            </section>
+
             {/* REST Endpoint Reference */}
             <section className="space-y-6">
               <h2 className="text-2xl sm:text-3xl font-bold text-foreground">API Endpoints Reference</h2>
 
               <div className="space-y-6">
                 
-                {/* /api/jobs */}
+                {/* /api/v1/jobs */}
                 <Card className="p-6">
                   <div className="flex flex-wrap items-center justify-between gap-4 mb-4">
                     <div className="flex items-center gap-3">
                       <Badge variant="default" className="bg-emerald-600 font-mono">GET</Badge>
-                      <code className="text-base font-bold text-foreground">/api/jobs</code>
+                      <code className="text-base font-bold text-foreground">/api/v1/jobs</code>
                     </div>
                     <span className="text-xs text-muted-foreground font-mono">operationId: listJobs</span>
                   </div>
@@ -150,12 +224,12 @@ for job in res["data"]:
                   </div>
                 </Card>
 
-                {/* /api/news */}
+                {/* /api/v1/news */}
                 <Card className="p-6">
                   <div className="flex flex-wrap items-center justify-between gap-4 mb-4">
                     <div className="flex items-center gap-3">
                       <Badge variant="default" className="bg-emerald-600 font-mono">GET</Badge>
-                      <code className="text-base font-bold text-foreground">/api/news</code>
+                      <code className="text-base font-bold text-foreground">/api/v1/news</code>
                     </div>
                     <span className="text-xs text-muted-foreground font-mono">operationId: listNews</span>
                   </div>
@@ -169,12 +243,12 @@ for job in res["data"]:
                   </div>
                 </Card>
 
-                {/* /api/events */}
+                {/* /api/v1/events */}
                 <Card className="p-6">
                   <div className="flex flex-wrap items-center justify-between gap-4 mb-4">
                     <div className="flex items-center gap-3">
                       <Badge variant="default" className="bg-emerald-600 font-mono">GET</Badge>
-                      <code className="text-base font-bold text-foreground">/api/events</code>
+                      <code className="text-base font-bold text-foreground">/api/v1/events</code>
                     </div>
                     <span className="text-xs text-muted-foreground font-mono">operationId: listEvents</span>
                   </div>
@@ -191,12 +265,12 @@ for job in res["data"]:
                   </div>
                 </Card>
 
-                {/* /api/glossary */}
+                {/* /api/v1/glossary */}
                 <Card className="p-6">
                   <div className="flex flex-wrap items-center justify-between gap-4 mb-4">
                     <div className="flex items-center gap-3">
                       <Badge variant="default" className="bg-emerald-600 font-mono">GET</Badge>
-                      <code className="text-base font-bold text-foreground">/api/glossary</code>
+                      <code className="text-base font-bold text-foreground">/api/v1/glossary</code>
                     </div>
                     <span className="text-xs text-muted-foreground font-mono">operationId: listGlossaryTerms</span>
                   </div>
@@ -216,14 +290,14 @@ for job in res["data"]:
 
             {/* Model Context Protocol (MCP) & Agent Guidance */}
             <section className="bg-card border rounded-2xl p-6 sm:p-10 shadow-sm space-y-6">
-              <div className="text-primary font-semibold text-sm uppercase tracking-wider">
-                Agentic AI & MCP Server
+              <div className="text-primary font-semibold text-sm uppercase tracking-wider flex items-center gap-2">
+                <Cpu className="h-4 w-4" /> Agentic AI &amp; Model Context Protocol (MCP)
               </div>
               <h2 className="text-2xl font-bold text-foreground">
-                Model Context Protocol (MCP) & Tool Calling
+                MCP Streamable HTTP Server &amp; Manifest
               </h2>
               <p className="text-muted-foreground text-sm sm:text-base leading-relaxed">
-                Autonomous AI agents (Claude Desktop, Cursor, ChatGPT, Antigravity) can connect directly to Hashtag Web3 using our OpenAPI schema or by executing standard HTTP GET requests.
+                Autonomous AI agents (Claude Desktop, Cursor, ChatGPT, Antigravity) can connect directly to Hashtag Web3 using our standardized Streamable HTTP MCP server at <code>https://hashtagweb3.com/.well-known/mcp</code> or <code>https://hashtagweb3.com/api/mcp</code>.
               </p>
               <div className="bg-zinc-950 p-4 rounded-lg text-zinc-100 text-xs font-mono overflow-x-auto">
                 <pre><code>{`// MCP Server configuration (mcp.json)
@@ -231,15 +305,39 @@ for job in res["data"]:
   "mcpServers": {
     "hashtagweb3": {
       "command": "npx",
-      "args": ["-y", "mcp-remote", "https://hashtagweb3.com/openapi.json"]
+      "args": ["-y", "mcp-remote", "https://hashtagweb3.com/.well-known/mcp"]
     }
   }
 }`}</code></pre>
               </div>
             </section>
 
+            {/* REST Versioning & Deprecation Policy */}
+            <section className="space-y-6 border-t pt-10">
+              <div className="flex items-center gap-3">
+                <RefreshCw className="h-6 w-6 text-primary" />
+                <h2 className="text-2xl sm:text-3xl font-bold text-foreground">API Versioning &amp; Deprecation Policy</h2>
+              </div>
+              <div className="bg-muted/30 border rounded-xl p-6 text-sm text-muted-foreground space-y-4 leading-relaxed">
+                <p>
+                  <strong className="text-foreground">URL Path Versioning:</strong> Hashtag Web3 provides deterministic API versioning through URI path prefixes (e.g. <code>/api/v1/jobs</code>). Non-breaking additions (new fields, optional parameters) are introduced within the current minor version without altering existing response keys.
+                </p>
+                <p>
+                  <strong className="text-foreground">Deprecation Signaling:</strong> Whenever an API version or field is scheduled for retirement, Hashtag Web3 signals this via standard HTTP headers:
+                </p>
+                <ul className="list-disc pl-5 space-y-1 font-mono text-xs text-foreground/90">
+                  <li><code>API-Version: 1.0.0</code> — Indicates active schema version.</li>
+                  <li><code>Deprecation: @1767225600</code> — Unix timestamp of deprecation declaration.</li>
+                  <li><code>Sunset: Wed, 31 Dec 2026 23:59:59 GMT</code> — Official sunset timeline (minimum 12 months advance notice).</li>
+                </ul>
+                <p>
+                  Developers and AI agents can monitor these response headers to ensure automated, self-healing integration lifecycle management.
+                </p>
+              </div>
+            </section>
+
           </div>
-        </div>
+        </PageShell>
       </main>
     </div>
   );

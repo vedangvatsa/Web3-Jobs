@@ -93,10 +93,25 @@ export function middleware(request: NextRequest) {
   response.headers.set('X-AI-Usage', 'indexing=yes, search=yes, inference=yes, citation=yes');
   response.headers.set('Link', '</llms.txt>; rel="ai-context", </openapi.json>; rel="service-desc", </.well-known/agents.json>; rel="agents", </.well-known/api-catalog>; rel="api-catalog"');
 
-  if (pathname.startsWith('/api/')) {
+  if (
+    pathname.startsWith('/api/') ||
+    pathname.startsWith('/.well-known/') ||
+    pathname === '/openapi.json' ||
+    pathname === '/openapi.yaml' ||
+    pathname === '/mcp'
+  ) {
     response.headers.set('RateLimit-Limit', '120');
     response.headers.set('RateLimit-Remaining', '119');
     response.headers.set('RateLimit-Reset', '60');
+    response.headers.set('RateLimit-Policy', '120;w=60');
+    response.headers.set('X-RateLimit-Limit', '120');
+    response.headers.set('X-RateLimit-Remaining', '119');
+    response.headers.set('X-RateLimit-Reset', '60');
+    response.headers.set('API-Version', '1.0.0');
+    response.headers.set('Deprecation', '@1767225600');
+    response.headers.set('Sunset', 'Wed, 31 Dec 2026 23:59:59 GMT');
+    response.headers.set('Access-Control-Allow-Origin', '*');
+    response.headers.set('Access-Control-Expose-Headers', 'RateLimit-Limit, RateLimit-Remaining, RateLimit-Reset, RateLimit-Policy, Retry-After, API-Version, Sunset, Deprecation, Link');
     if (idempotencyKey) {
       response.headers.set('Idempotency-Key', idempotencyKey);
     }

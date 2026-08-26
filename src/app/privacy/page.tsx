@@ -1,4 +1,5 @@
 import { PageHeader } from '@/components/page-header';
+import { PageShell } from '@/components/page-shell';
 
 export const revalidate = 86400; // 24 hours
 
@@ -6,7 +7,7 @@ export default function PrivacyPage() {
   return (
     <div className="flex flex-col min-h-screen">
       <main className="flex-1">
-        <div className="container mx-auto page-section px-4">
+        <PageShell>
           <div className="site-container space-y-10">
             
             {/* Header */}
@@ -87,7 +88,7 @@ export default function PrivacyPage() {
             </article>
 
           </div>
-        </div>
+        </PageShell>
       </main>
     </div>
   );

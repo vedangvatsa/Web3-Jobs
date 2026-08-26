@@ -1,0 +1,84 @@
+{
+  "name": "hashtagweb3-mcp-server",
+  "description": "Model Context Protocol (MCP) server for Hashtag Web3. Exposes live Web3 job search, blockchain glossary definitions, crypto news, and event listings as callable tools for AI assistants and agents.",
+  "version": "1.0.0",
+  "serverUrl": "https://hashtagweb3.com/api/mcp",
+  "transport": "streamable-http",
+  "tools": [
+    {
+      "name": "search_jobs",
+      "description": "Search verified Web3 and crypto jobs by keyword, company, or technology tag.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "search": { "type": "string", "description": "Keyword query (e.g. Solidity, Auditor, Rust)" },
+          "tag": { "type": "string", "description": "Tag filter (e.g. Ethereum, Solana, DeFi)" },
+          "company": { "type": "string", "description": "Company name" },
+          "limit": { "type": "integer", "default": 20 }
+        }
+      },
+      "_meta": {
+        "ui": {
+          "resourceUri": "ui://hashtagweb3.com/jobs"
+        }
+      }
+    },
+    {
+      "name": "search_glossary",
+      "description": "Query 200+ technical blockchain and Web3 glossary definitions.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "search": { "type": "string", "description": "Term or concept to lookup (e.g. Zero Knowledge, AMM)" },
+          "category": { "type": "string", "description": "Category filter (e.g. DeFi, Cryptography)" }
+        },
+        "required": ["search"]
+      },
+      "_meta": {
+        "ui": {
+          "resourceUri": "ui://hashtagweb3.com/glossary"
+        }
+      }
+    },
+    {
+      "name": "get_news",
+      "description": "Retrieve the latest Web3 and crypto headlines.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "search": { "type": "string", "description": "Filter headlines by keyword" },
+          "limit": { "type": "integer", "default": 10 }
+        }
+      }
+    },
+    {
+      "name": "get_events",
+      "description": "List upcoming Web3 conferences, hackathons, and crypto summits.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "search": { "type": "string", "description": "Search by event name or city" },
+          "type": { "type": "string", "enum": ["conference", "hackathon", "meetup", "online"] },
+          "country": { "type": "string", "description": "Country filter" }
+        }
+      }
+    }
+  ],
+  "resources": [
+    {
+      "uri": "hashtagweb3://jobs/latest",
+      "name": "Latest Web3 Jobs",
+      "mimeType": "application/json"
+    },
+    {
+      "uri": "hashtagweb3://glossary/terms",
+      "name": "Web3 Technical Glossary",
+      "mimeType": "application/json"
+    },
+    {
+      "uri": "hashtagweb3://docs/overview",
+      "name": "Hashtag Web3 Documentation & Guides",
+      "mimeType": "text/markdown"
+    }
+  ]
+}
