@@ -147,30 +147,30 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
 
             {/* Stats Bar */}
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8 border rounded-lg p-5">
-              <div>
+              <div className="min-w-0">
                 <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Active Roles</div>
-                <div className="text-lg font-bold mt-0.5">{company.jobCount}</div>
+                <div className="text-base font-bold mt-0.5 truncate">{company.jobCount}</div>
               </div>
               {company.headquarters && (
-                <div>
+                <div className="min-w-0 overflow-hidden">
                   <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">HQ</div>
-                  <div className="text-lg font-bold mt-0.5 flex items-center gap-1.5">
-                    <MapPin className="h-4 w-4 text-muted-foreground" />
-                    {company.headquarters}
+                  <div className="text-base font-bold mt-0.5 flex items-center gap-1 min-w-0">
+                    <MapPin className="h-4 w-4 text-muted-foreground shrink-0" />
+                    <span className="truncate">{company.headquarters}</span>
                   </div>
                 </div>
               )}
               {company.category && (
-                <div>
+                <div className="min-w-0">
                   <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Category</div>
-                  <div className="text-lg font-bold mt-0.5">{company.category}</div>
+                  <div className="text-base font-bold mt-0.5 truncate">{company.category}</div>
                 </div>
               )}
               {company.founded && (
-                <div>
+                <div className="min-w-0">
                   <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Founded</div>
-                  <div className="text-lg font-bold mt-0.5 flex items-center gap-1.5">
-                    <Calendar className="h-4 w-4 text-muted-foreground" />
+                  <div className="text-base font-bold mt-0.5 flex items-center gap-1.5">
+                    <Calendar className="h-4 w-4 text-muted-foreground shrink-0" />
                     {company.founded}
                   </div>
                 </div>
