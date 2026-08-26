@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Contact Us | Hashtag Web3',
+  title: 'Contact Us',
   description: 'Get in touch with the Hashtag Web3 team for hiring partnerships, advertising, job posting inquiries, developer API support, or feedback.',
   alternates: {
     canonical: 'https://hashtagweb3.com/contact',

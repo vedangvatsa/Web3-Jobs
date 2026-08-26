@@ -405,6 +405,35 @@ export const visaData: DigitalNomadVisa[] = [
     ]
   },
   {
+    country: 'Kazakhstan',
+    continent: 'Asia',
+    minIncome: 3000,
+    visaLength: '1 year, extendable for 1 more',
+    description: 'Kazakhstan\'s "Neo Nomad Visa" (Category B12-1) launched in November 2024. It targets remote workers earning foreign income, offering a low-tax stay with no obligation to file local taxes on overseas earnings.',
+    requirements: [
+      'Proof of remote work for a foreign employer or clients.',
+      'Monthly income of at least $3,000 USD (6 months of bank statements).',
+      'Tax return from country of citizenship.',
+      'Criminal record certificate (apostilled).',
+      'Health insurance valid in Kazakhstan for the full visa period.',
+      'No local employment permitted.'
+    ]
+  },
+  {
+    country: 'Kenya',
+    continent: 'Africa',
+    minIncome: 0,
+    visaLength: '1-2 years, renewable',
+    description: 'Kenya\'s Class N "Digital Nomads" permit (not to be confused with Class K for retirees) allows remote workers employed by foreign companies to live in Kenya. No specific income threshold is published on the official portal—only proof of foreign income via bank statements.',
+    requirements: [
+      'Work for an employer or clients outside Kenya (local employment prohibited).',
+      'Bank statements or payslips for the last 3 months proving foreign income.',
+      'Employer/company cover letter to the Director General.',
+      'Valid passport and proof of accommodation.',
+      'Issuance fee: USD 1,000/year. Processing fee: USD 200.'
+    ]
+  },
+  {
     country: 'Latvia',
     continent: 'Europe',
     minIncome: 2700,
@@ -481,6 +510,21 @@ export const visaData: DigitalNomadVisa[] = [
     ]
   },
   {
+    country: 'Moldova',
+    continent: 'Europe',
+    minIncome: 3022,
+    visaLength: 'Up to 2 years (full re-application required on renewal)',
+    description: 'Moldova\'s Digital Nomad program is technically a temporary residence permit, not a visa. Launched September 2025, the income requirement is formula-based—18× the current year\'s forecasted average monthly salary—rather than a fixed dollar amount.',
+    requirements: [
+      'Remote work exclusively for a foreign-registered legal entity (employment, service, or shareholder contract).',
+      'Show income of 18× the current-year forecasted average monthly salary over the preceding 6 months (~$3,022/month for 2026).',
+      'Criminal record certificate (apostilled, waived on renewal).',
+      'Valid health insurance in Moldova.',
+      'Proof of accommodation.',
+      'In-person application at the General Inspectorate for Migration (GIM).'
+    ]
+  },
+  {
     country: 'Morocco',
     continent: 'Africa',
     minIncome: 0,
@@ -513,6 +557,19 @@ export const visaData: DigitalNomadVisa[] = [
       'Self-employed route: a business plan scored on viability via RVO points system.',
       'DAFT route (US citizens only): investment capital in a Dutch business, not an income threshold.',
       'No remote-work-for-foreign-employer category exists.'
+    ]
+  },
+  {
+    country: 'New Zealand',
+    continent: 'Oceania',
+    minIncome: 0,
+    visaLength: 'Up to 9 months per visitor visa',
+    description: 'New Zealand introduced a remote work allowance for visitor visa and NZeTA holders in January 2025. This is not a dedicated digital nomad visa—remote work is simply permitted under existing visitor visa conditions. Work must be for overseas employers only.',
+    requirements: [
+      'Hold a valid visitor visa or NZeTA (applied for on or after 27 January 2025).',
+      'Work must be for an overseas employer or client—no work for NZ employers.',
+      'Sufficient funds for the duration of stay (standard visitor visa requirement).',
+      '92-day tax threshold: NZ tax may apply if staying 92+ days in a 12-month period.'
     ]
   },
   {

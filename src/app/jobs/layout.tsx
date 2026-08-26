@@ -6,14 +6,14 @@ export async function generateMetadata(): Promise<Metadata> {
  const ogImageUrl = `${siteUrl}/api/og?type=jobs&title=Web3%20Jobs`;
  
  return {
-  title: 'Web3 Jobs and Crypto Roles | Remote and Full Time',
+  title: 'Web3 Jobs',
   description: 'Browse Web3 job listings in engineering, product, design, and marketing. Updated daily with roles from leading crypto companies and DAOs.',
   alternates: {
    canonical: '/jobs',
   },
   openGraph: {
    type: 'website',
-   title: 'Web3 Jobs and Crypto Roles | Remote and Full Time',
+   title: 'Web3 Jobs | Hashtag Web3',
    description: 'Find Web3 job listings across engineering, product, design, and marketing. Discover roles at leading crypto companies and DAOs.',
    url: 'https://hashtagweb3.com/jobs',
    images: [
@@ -27,7 +27,7 @@ export async function generateMetadata(): Promise<Metadata> {
   },
   twitter: {
    card: 'summary_large_image',
-   title: 'Web3 Jobs and Crypto Roles | Remote and Full Time',
+   title: 'Web3 Jobs | Hashtag Web3',
    description: 'Discover Web3 job listings across engineering, product, design, and marketing roles.',
    images: [ogImageUrl],
   },

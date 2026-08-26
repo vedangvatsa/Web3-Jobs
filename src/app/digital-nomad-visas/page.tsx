@@ -3,14 +3,14 @@ import { DigitalNomadVisasContent } from '@/components/digital-nomad-visas-clien
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Digital Nomad Visas for Web3 Builders | Global Nomad Visa List',
+ title: 'Digital Nomad Visas',
  description: 'Complete database of digital nomad visas for blockchain developer, crypto, and remote Web3 builders. Filter by continent, min income, and key requirements.',
  alternates: {
   canonical: 'https://hashtagweb3.com/digital-nomad-visas',
  },
  openGraph: {
   type: 'website',
-  title: 'Digital Nomad Visas for Web3 Builders | Global Nomad Visa List',
+  title: 'Digital Nomad Visas | Hashtag Web3',
   description: 'Complete database of digital nomad visas for blockchain developer, crypto, and remote Web3 builders. Filter by continent, min income, and key requirements.',
   url: 'https://hashtagweb3.com/digital-nomad-visas',
   images: [{
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Digital Nomad Visas for Web3 Builders | Global Nomad Visa List',
+  title: 'Digital Nomad Visas | Hashtag Web3',
   description: 'Complete database of digital nomad visas for blockchain developer, crypto, and remote Web3 builders. Filter by continent, min income, and key requirements.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Digital%20Nomad%20Visas'],
  },

@@ -2,14 +2,14 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Company Culture Guide Builder',
+ title: 'Culture Guide Builder',
  description: 'A free tool to help you define and document your company culture. Create a complete guide to share your values and communication norms.',
  alternates: {
   canonical: '/company-culture-guide',
  },
  openGraph: {
   type: 'website',
-  title: 'Company Culture Guide Builder',
+  title: 'Culture Guide Builder | Hashtag Web3',
   description: 'Define and share your company culture. Our free tool helps you create a professional culture guide to align your team and attract talent.',
   url: 'https://hashtagweb3.com/company-culture-guide',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Company Culture Guide Builder',
+  title: 'Culture Guide Builder | Hashtag Web3',
   description: 'Define and document your company culture with our free builder. Create a complete guide to share your values, communication norms, and team rituals to attract aligned talent.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Company%20Culture%20Guide%20Builder'],
  },

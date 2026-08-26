@@ -59,6 +59,117 @@ export function getCachedJobSummary(job: Job, maxLength = 155): string | null {
   return `${clipped.slice(0, lastSpace > 80 ? lastSpace : clipped.length).trim()}...`;
 }
 
+const ROLE_FAMILY_RULES: Array<[string, RegExp]> = [
+  ['engineering', /engineer|developer|software|frontend|backend|full.?stack|protocol|smart contract|devops|infrastructure/i],
+  ['security', /security|risk|fraud|trust|compliance/i],
+  ['data', /data|analytics|quant|research|machine learning|ml engineer/i],
+  ['product', /product|program manager|project manager|roadmap/i],
+  ['design', /design|creative|ux|user experience/i],
+  ['marketing', /marketing|content|brand|growth|seo|communications/i],
+  ['sales', /sales|account executive|business development|partnerships/i],
+  ['operations', /operations|support|customer success|people|human resources|recruit/i],
+  ['legal and finance', /legal|counsel|finance|accounting|treasury|tax/i],
+  ['community', /community|developer relations|developer advocate|ecosystem/i],
+];
+
+const COMMON_ROLE_WORDS = new Set([
+  'about', 'company', 'team', 'role', 'work', 'working', 'will', 'you', 'your', 'our', 'with',
+  'from', 'that', 'this', 'for', 'and', 'the', 'are', 'have', 'has', 'not', 'who', 'what',
+  'their', 'they', 'than', 'into', 'across', 'more', 'their', 'years', 'experience', 'required',
+  'preferred', 'including', 'responsibilities', 'qualifications', 'requirements', 'benefits',
+]);
+
+function inferRoleFamily(job: Job): string {
+  const roleText = `${job.title} ${getDepartmentLabel(job) || ''}`;
+  return ROLE_FAMILY_RULES.find(([, pattern]) => pattern.test(roleText))?.[0] || 'specialist';
+}
+
+function getDepartmentLabel(job: Job): string | null {
+  if (typeof job.department === 'string' && job.department.trim()) return job.department.trim();
+  if (Array.isArray(job.department)) {
+    const values = job.department.filter((value): value is string => typeof value === 'string' && value.trim().length > 0);
+    if (values.length > 0) return values.join(', ');
+  }
+  return null;
+}
+
+function extractRoleSignals(job: Job, sourceText: string): string[] {
+  const signals = new Set<string>();
+  const department = getDepartmentLabel(job);
+  if (department) signals.add(department);
+
+  // Keep only recognizable, source-derived nouns/technologies. We never copy
+  // a source sentence; these short labels are used to make the role brief
+  // specific without republishing employer-authored prose.
+  const knownTerms = sourceText.match(/\b(?:API|APIs|AI|ML|SQL|SDK|DeFi|NFT|DAO|EVM|Web3|Ethereum|Solana|Rust|Go|Python|TypeScript|JavaScript|React|Kotlin|Swift|Golang|Docker|Kubernetes|GraphQL|Postgres|PostgreSQL|AWS|GCP|Azure|Figma|Salesforce|Jira)\b/g) || [];
+  for (const term of knownTerms) {
+    const normalized = term.replace(/\s+/g, ' ').trim();
+    if (normalized.length < 3 || COMMON_ROLE_WORDS.has(normalized.toLowerCase())) continue;
+    signals.add(normalized);
+    if (signals.size >= 5) break;
+  }
+
+  if (signals.size === 0) signals.add(inferRoleFamily(job));
+  return [...signals].slice(0, 5);
+}
+
+function getJobSourceHost(link?: string): string {
+  if (!link) return 'the employer site';
+  try {
+    return new URL(link).hostname.replace(/^www\./, '');
+  } catch {
+    return 'the employer site';
+  }
+}
+
+/**
+ * Builds the copy rendered on the canonical job page. Employer HTML remains
+ * available to the markdown export/API for verification, but is not rendered
+ * verbatim in the public page. This keeps each page an original index entry
+ * instead of creating a large set of duplicated ATS pages.
+ */
+export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
+  const sourceText = plainTextFromHtml(employerHtml || getCachedRawContent(job));
+  const family = inferRoleFamily(job);
+  const signals = extractRoleSignals(job, sourceText);
+  const location = job.location?.trim() || 'a location specified by the employer';
+  const department = getDepartmentLabel(job);
+  const postedDate = new Date(job.date);
+  const posted = !Number.isNaN(postedDate.getTime())
+    ? postedDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+    : 'the latest source update';
+  const sourceHost = getJobSourceHost(job.link);
+  const reference = getJobSlug(job);
+
+  const focus = signals.length > 1
+    ? `${signals.slice(0, -1).join(', ')}, and ${signals.at(-1)}`
+    : signals[0];
+  const article = /^[aeiou]/i.test(family) ? 'an' : 'a';
+  const teamLine = department
+    ? `The listing places it in ${department} and describes ${article} ${family} focus.`
+    : `The listing places it in the ${family} area.`;
+
+  return `<div class="space-y-6">\n`
+    + `<h2>Independent role brief</h2>\n`
+    + `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)} in ${escapeHtml(location)}. ${escapeHtml(teamLine)}</p>\n`
+    + `<p>This page summarizes the listing using its role metadata and a small set of source signals: ${escapeHtml(focus)}. It is an original index entry; review the employer page for the authoritative responsibilities, requirements, compensation, and application status.</p>\n`
+    + `<h3>Listing details</h3>\n`
+    + `<ul class="list-disc pl-5 space-y-2">\n`
+    + `<li><strong>Source:</strong> ${escapeHtml(sourceHost)}</li>\n`
+    + `<li><strong>Last posted or verified:</strong> ${escapeHtml(posted)}</li>\n`
+    + `<li><strong>Listing reference:</strong> ${escapeHtml(reference)}</li>\n`
+    + `</ul>\n`
+    + `</div>`;
+}
+
+export function buildUniqueJobMetaDescription(job: Job): string {
+  const family = inferRoleFamily(job);
+  const location = job.location?.trim() || 'the employer-specified location';
+  const department = getDepartmentLabel(job);
+  const team = department ? ` in ${department}` : '';
+  return `${job.company} is hiring a ${job.title}${team}. This independent role brief covers the ${family} opening in ${location} and links to the authoritative employer listing.`;
+}
+
 /**
  * Resolves a job by its short slug.
  */
@@ -97,6 +208,20 @@ function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; t
   // Remove non-content tags
   $('script, style, iframe, noscript, svg, button, form, input').remove();
 
+  // Preserve outbound links as tokens so formatJobContent can restore real
+  // anchors after escaping; without this, employer copy renders phrases like
+  // "visit our website at ..." with no hyperlink at all.
+  $('a').each((_, el) => {
+    const $el = $(el);
+    const href = ($el.attr('href') || '').trim();
+    const label = $el.text().trim();
+    if (!href || !/^https?:\/\//i.test(href)) {
+      $el.replaceWith(label);
+      return;
+    }
+    $el.replaceWith(`\u21E7JOBLINK:${href}\u2044${label || href}\u21E9`);
+  });
+
   // Convert <br> tags to newlines
   $('br').replaceWith('\n');
 
@@ -122,7 +247,14 @@ function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; t
   $('li').each((_, el) => {
     const text = $(el).text().trim();
     if (text) {
-      $(el).replaceWith(`\n- ${text}\n`);
+      // Some ATS exports flatten several bullets into one list item with a
+      // middle-dot separator. Split those back into real list items so the
+      // rendered HTML never contains clumped bullet copy.
+      const items = text
+        .split(/\s+[•·]\s+/)
+        .map((item) => item.trim())
+        .filter(Boolean);
+      $(el).replaceWith(items.map((item) => `\n- ${item}\n`).join(''));
     }
   });
 
@@ -160,8 +292,12 @@ function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; t
     // Bullet item
     const bulletMatch = line.match(/^[-*\u2022\u00b7\u25aa\u2013\u2014]\s*(.*)$/);
     if (bulletMatch) {
-      if (bulletMatch[1].trim()) {
-        blocks.push({ type: 'li', text: bulletMatch[1].trim() });
+      const bulletItems = bulletMatch[1]
+        .split(/\s+[•·]\s+/)
+        .map((item) => item.trim())
+        .filter(Boolean);
+      for (const item of bulletItems) {
+        blocks.push({ type: 'li', text: item });
       }
       continue;
     }
@@ -222,7 +358,10 @@ function formatJobContent(originalHtml: string): string {
     text = text
       .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
       .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
-      .replace(/\*\*/g, '');
+      .replace(/\*\*/g, '')
+      .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url, label) => {
+        return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`;
+      });
 
     if (block.type === 'li') {
       if (!currentListOpen) {

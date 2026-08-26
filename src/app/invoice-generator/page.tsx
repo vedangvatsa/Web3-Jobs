@@ -4,14 +4,14 @@ import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Web3 Invoice Generator | Free PDF Crypto Invoicing',
+ title: 'Invoice Generator',
  description: 'Free online invoice generator for Web3 freelancers, consultants, and contractors. Create professional PDF invoices accepting ETH, USDC, BTC, or fiat.',
  alternates: {
   canonical: 'https://hashtagweb3.com/invoice-generator',
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Invoice Generator | Free PDF Crypto Invoicing',
+  title: 'Invoice Generator | Hashtag Web3',
   description: 'Free online invoice generator for Web3 freelancers, consultants, and contractors. Create professional PDF invoices accepting ETH, USDC, BTC, or fiat.',
   url: 'https://hashtagweb3.com/invoice-generator',
   images: [{
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Invoice Generator | Free PDF Crypto Invoicing',
+  title: 'Invoice Generator | Hashtag Web3',
   description: 'Free online invoice generator for Web3 freelancers, consultants, and contractors. Create professional PDF invoices accepting ETH, USDC, BTC, or fiat.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Invoice%20Generator'],
  },

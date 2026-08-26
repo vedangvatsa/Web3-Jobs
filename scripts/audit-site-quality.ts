@@ -10,6 +10,7 @@ import { getEvents } from '../src/lib/events-server';
 import { getEventSlug } from '../src/lib/events';
 import { getJobs } from '../src/lib/jobs';
 import { getJobContentKey, getJobIdentity, getJobSlug } from '../src/lib/job-slugs';
+import { buildUniqueJobPageContent } from '../src/lib/job-guides';
 import { getAllResourcePages } from '../src/lib/pseo/resources';
 import type { Job } from '../src/types';
 
@@ -425,6 +426,26 @@ async function main(): Promise<void> {
     ? JSON.parse(fs.readFileSync(descriptionsPath, 'utf8')) as Record<string, string>
     : {};
 
+  const duplicateGeneratedJobBriefs = duplicateGroups(
+    jobs.map((job) => ({
+      job,
+      brief: normalizeText(buildUniqueJobPageContent(
+        job,
+        descriptions[getJobContentKey(job)] || descriptions[job.id] || '',
+      )),
+    })),
+    (record) => record.brief,
+  );
+  addFinding(
+    'critical',
+    'duplicate normalized copy generated for canonical job pages',
+    duplicateGeneratedJobBriefs.length,
+    formatDuplicateExamples(
+      duplicateGeneratedJobBriefs,
+      (record) => `${record.job.company} / ${record.job.title} [${getJobSlug(record.job)}]`,
+    ),
+  );
+
   const rawIdentityCollisions = duplicateGroups(rawJobs, getJobIdentity);
   addFinding(
     'warning',
@@ -601,6 +622,10 @@ async function main(): Promise<void> {
   console.log(
     `  Job content: ${missingJobContent.toLocaleString()} missing; ${thinJobContent.toLocaleString()} thin; `
       + `${fabricatedJobs.length.toLocaleString()} fabricated-marker matches`,
+  );
+  console.log(
+    `  Generated job copy: ${jobs.length.toLocaleString()} briefs; `
+      + `${duplicateGeneratedJobBriefs.length.toLocaleString()} duplicate groups`,
   );
   console.log(
     `  Editorial: ${articles.length.toLocaleString()} articles; ${companyProfiles.length.toLocaleString()} company profiles; `
