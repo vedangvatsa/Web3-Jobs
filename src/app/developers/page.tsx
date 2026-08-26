@@ -67,6 +67,44 @@ export default function DevelopersPage() {
               </div>
             </section>
 
+            {/* Agent Platform Configurations & Public Repository */}
+            <section className="bg-muted/30 border rounded-2xl p-6 sm:p-8 space-y-4">
+              <div className="flex items-center gap-3">
+                <Cpu className="h-6 w-6 text-primary" />
+                <h2 className="text-xl sm:text-2xl font-bold text-foreground">Agent Platform Configurations &amp; Open Source</h2>
+              </div>
+              <p className="text-sm text-muted-foreground leading-relaxed max-w-3xl">
+                Hashtag Web3 is fully open-source and built to be indexable and readable by autonomous AI coding assistants and agents. 
+                Our public GitHub repository contains specialized files and configurations to instruct agents on how to safely interface with the code.
+              </p>
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 pt-2">
+                <div className="p-4 border rounded-xl bg-background">
+                  <h3 className="font-semibold text-sm mb-1">GitHub Codebase</h3>
+                  <a href="https://github.com/vedangvatsa/Web3-Jobs" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono">
+                    vedangvatsa/Web3-Jobs
+                  </a>
+                </div>
+                <div className="p-4 border rounded-xl bg-background">
+                  <h3 className="font-semibold text-sm mb-1">Agent Plugin Spec</h3>
+                  <a href="/plugin.json" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono">
+                    plugin.json Manifest
+                  </a>
+                </div>
+                <div className="p-4 border rounded-xl bg-background">
+                  <h3 className="font-semibold text-sm mb-1">Agent Skill Spec</h3>
+                  <a href="https://github.com/vedangvatsa/Web3-Jobs/blob/main/SKILL.md" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono">
+                    SKILL.md Definition
+                  </a>
+                </div>
+                <div className="p-4 border rounded-xl bg-background">
+                  <h3 className="font-semibold text-sm mb-1">Coding Agent Rules</h3>
+                  <a href="https://github.com/vedangvatsa/Web3-Jobs/blob/main/AGENTS.md" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono">
+                    AGENTS.md &amp; Rules
+                  </a>
+                </div>
+              </div>
+            </section>
+
             {/* Authentication & API Keys */}
             <section className="space-y-6">
               <div className="flex items-center gap-3">

@@ -1,27 +1,9 @@
 {
-  "$schema": "https://agent-plugins.org/specification/schema.json",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "hashtagweb3",
-  "schema_version": "v1",
-  "name_for_human": "Hashtagweb3",
-  "name_for_model": "hashtagweb3",
-  "description_for_human": "Discover Web3 jobs, news, events, and glossary terms from the Web3 ecosystem.",
-  "description_for_model": "A comprehensive platform for Web3 professionals. Use this plugin to search and browse Web3 job listings, read Web3 industry news, find upcoming Web3 events, and look up Web3 glossary terms. The API is fully public and requires no authentication.",
-  "auth": {
-    "type": "none"
-  },
-  "api": {
-    "type": "openapi",
-    "url": "https://hashtagweb3.com/openapi.json",
-    "is_user_authenticated": false
-  },
-  "logo_url": "https://hashtagweb3.com/og-image.png",
-  "contact_email": "hello@hashtagweb3.com",
-  "legal_info_url": "https://hashtagweb3.com/privacy",
-  "homepage_url": "https://hashtagweb3.com",
-  "capabilities": [
-    "list_jobs",
-    "list_news",
-    "list_events",
-    "list_glossary_terms"
-  ]
+  "version": "1.0.0",
+  "description": "Agentic Web3 job board, news feed, events, and glossary definitions plugin.",
+  "author": "Hashtag Web3",
+  "homepage": "https://hashtagweb3.com",
+  "repository": "https://github.com/vedangvatsa/Web3-Jobs"
 }
