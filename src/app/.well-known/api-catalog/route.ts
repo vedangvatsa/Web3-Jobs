@@ -6,7 +6,7 @@ export const revalidate = 86400;
 
 export async function GET() {
   try {
-    const filePath = path.join(process.cwd(), 'public', '.well-known', 'api-catalog');
+    const filePath = path.join(process.cwd(), 'public', '.well-known', 'api-catalog.linkset.json');
     const content = fs.readFileSync(filePath, 'utf8');
 
     return new NextResponse(content, {

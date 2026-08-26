@@ -43,19 +43,15 @@ const KNOWN_STATIC_PATHS = new Set([
   '/resources',
 ]);
 
-function ensureFrontmatter(content: string, title: string, description: string, canonical: string): string {
-  if (content.trim().startsWith('---')) {
-    return content;
+function stripLeadingFrontmatter(content: string): string {
+  const trimmed = content.replace(/^\uFEFF/, '').replace(/^\s+/, '');
+  if (trimmed.startsWith('---')) {
+    const end = trimmed.indexOf('\n---', 3);
+    if (end !== -1) {
+      return trimmed.slice(trimmed.indexOf('\n', end + 1)).replace(/^\s+/, '');
+    }
   }
-  const frontmatter = `---
-title: ${title}
-description: ${description}
-canonical: ${canonical}
-last-updated: 2026-08-26
----
-
-`;
-  return frontmatter + content;
+  return trimmed;
 }
 
 export async function GET(request: NextRequest) {
@@ -73,13 +69,7 @@ export async function GET(request: NextRequest) {
     if (cleanPath === '/') {
       const filePath = path.join(process.cwd(), 'public', 'llms.txt');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Hashtag Web3\n';
-      const md = ensureFrontmatter(
-        rawContent,
-        'Hashtag Web3 - Web3 Jobs, Developer API & Blockchain Talent Intelligence',
-        'Premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network.',
-        canonical
-      );
-      return new NextResponse(md, {
+      return new NextResponse(stripLeadingFrontmatter(rawContent), {
         status: 200,
         headers: {
           'Content-Type': 'text/markdown; charset=utf-8',
@@ -96,7 +86,7 @@ export async function GET(request: NextRequest) {
     if (cleanPath === '/jobs') {
       const filePath = path.join(process.cwd(), 'public', 'jobs', 'llms.txt');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Web3 Jobs Directory\n';
-      return new NextResponse(ensureFrontmatter(rawContent, 'Hashtag Web3 Jobs Directory', 'Search verified active Web3 jobs.', canonical), {
+      return new NextResponse(stripLeadingFrontmatter(rawContent), {
         status: 200,
         headers: { 'Content-Type': 'text/markdown; charset=utf-8', 'Access-Control-Allow-Origin': '*' },
       });
@@ -105,16 +95,16 @@ export async function GET(request: NextRequest) {
     if (cleanPath === '/developers' || cleanPath === '/docs') {
       const filePath = path.join(process.cwd(), 'public', 'developers', 'llms.txt');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Developer Portal\n';
-      return new NextResponse(ensureFrontmatter(rawContent, 'Hashtag Web3 Developer API & Agent Integrations', 'Developer API reference and agent instructions.', canonical), {
+      return new NextResponse(stripLeadingFrontmatter(rawContent), {
         status: 200,
         headers: { 'Content-Type': 'text/markdown; charset=utf-8', 'Access-Control-Allow-Origin': '*' },
       });
     }
 
     if (cleanPath === '/glossary') {
-      const filePath = path.join(process.cwd(), 'public', 'glossary', 'llms.txt');
+      const filePath = path.join(process.cwd(), 'public', 'glossary-scoped.txt');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Web3 Glossary\n';
-      return new NextResponse(ensureFrontmatter(rawContent, 'Web3 Glossary', 'Authoritative technical definitions for 200+ blockchain terms.', canonical), {
+      return new NextResponse(stripLeadingFrontmatter(rawContent), {
         status: 200,
         headers: { 'Content-Type': 'text/markdown; charset=utf-8', 'Access-Control-Allow-Origin': '*' },
       });
@@ -123,7 +113,7 @@ export async function GET(request: NextRequest) {
     if (cleanPath === '/learn') {
       const filePath = path.join(process.cwd(), 'public', 'learn', 'llms.txt');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Web3 Learn\n';
-      return new NextResponse(ensureFrontmatter(rawContent, 'Web3 Learn & Playbooks', 'Curated Web3 courses and career guides.', canonical), {
+      return new NextResponse(stripLeadingFrontmatter(rawContent), {
         status: 200,
         headers: { 'Content-Type': 'text/markdown; charset=utf-8', 'Access-Control-Allow-Origin': '*' },
       });
@@ -132,7 +122,7 @@ export async function GET(request: NextRequest) {
     if (cleanPath === '/auth') {
       const filePath = path.join(process.cwd(), 'public', 'auth.md');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Agent Authentication Guide\n';
-      return new NextResponse(ensureFrontmatter(rawContent, 'Hashtag Web3 Agent Authentication Guide', 'WorkOS auth.md compliant authentication guide.', canonical), {
+      return new NextResponse(stripLeadingFrontmatter(rawContent), {
         status: 200,
         headers: { 'Content-Type': 'text/markdown; charset=utf-8', 'Access-Control-Allow-Origin': '*' },
       });
@@ -172,7 +162,7 @@ Explore verified career opportunities in Web3, blockchain, and decentralized inf
     // 4. Dynamic Article Check
     const article = await getArticle(slug);
     if (article) {
-      const md = ensureFrontmatter(article.content, article.title, article.description, canonical);
+      const md = stripLeadingFrontmatter(article.content);
       return new NextResponse(md, {
         status: 200,
         headers: {
@@ -189,7 +179,7 @@ Explore verified career opportunities in Web3, blockchain, and decentralized inf
     if (term) {
       const md = `---
 title: ${term.term} - Web3 Glossary
-description: ${term.definition}
+description: ${term.description}
 canonical: ${canonical}
 category: ${term.category}
 ---
@@ -199,7 +189,7 @@ category: ${term.category}
 > Category: ${term.category}
 
 ## Definition
-${term.definition}
+${term.description}
 
 ${term.content || ''}
 `;
