@@ -165,7 +165,15 @@ async function refreshJobsCache() {
           const company = rawCompany ? normalizeCompany(rawCompany) : undefined;
           const link = job.url || job.application_url || job.job_url;
           
-          if (link && title && company && !title.includes('*') && title.split(' ').length <= 15 && !title.toLowerCase().includes('bounty')) {
+          const isUnsafeLink = link && (
+            link.includes('forms.gle') ||
+            link.includes('docs.google.com/forms') ||
+            link.includes('typeform.com') ||
+            link.includes('cal.com') ||
+            link.includes('jotform.com')
+          );
+
+          if (link && title && company && !title.includes('*') && title.split(' ').length <= 15 && !title.toLowerCase().includes('bounty') && !isUnsafeLink) {
             const key = createUniqueKey(title, company);
             if (!jobMap.has(key)) {
               jobMap.set(key, {
