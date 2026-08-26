@@ -47,7 +47,7 @@ export async function POST(request: Request) {
   const params = (body.params as Record<string, unknown>) || {};
   const id = body.id ?? null;
 
-  // tools/list — return available tools
+  // tools/list — return available tools with _meta.ui.resourceUri for MCP Apps
   if (method === 'tools/list') {
     return NextResponse.json({
       jsonrpc: '2.0',
@@ -64,6 +64,11 @@ export async function POST(request: Request) {
                 limit: { type: 'integer', default: 20, maximum: 100 },
               },
             },
+            _meta: {
+              ui: {
+                resourceUri: 'ui://hashtagweb3.com/jobs'
+              }
+            }
           },
           {
             name: 'search_glossary',
@@ -75,6 +80,11 @@ export async function POST(request: Request) {
               },
               required: ['search'],
             },
+            _meta: {
+              ui: {
+                resourceUri: 'ui://hashtagweb3.com/glossary'
+              }
+            }
           },
           {
             name: 'get_news',
@@ -85,6 +95,11 @@ export async function POST(request: Request) {
                 limit: { type: 'integer', default: 10, maximum: 50 },
               },
             },
+            _meta: {
+              ui: {
+                resourceUri: 'ui://hashtagweb3.com/news'
+              }
+            }
           },
           {
             name: 'get_events',
@@ -96,9 +111,65 @@ export async function POST(request: Request) {
                 type: { type: 'string', enum: ['conference', 'hackathon', 'meetup', 'online'] },
               },
             },
+            _meta: {
+              ui: {
+                resourceUri: 'ui://hashtagweb3.com/events'
+              }
+            }
           },
         ],
       },
+    });
+  }
+
+  // resources/list — return resources including ui:// resources for MCP Apps
+  if (method === 'resources/list') {
+    return NextResponse.json({
+      jsonrpc: '2.0',
+      id,
+      result: {
+        resources: [
+          {
+            uri: 'ui://hashtagweb3.com/jobs',
+            name: 'Web3 Jobs Directory UI',
+            description: 'Interactive UI showing the latest Web3 and blockchain job listings.',
+            mimeType: 'text/html'
+          },
+          {
+            uri: 'ui://hashtagweb3.com/glossary',
+            name: 'Web3 Glossary UI',
+            description: 'Interactive UI directory for Web3 concepts, terms, and definitions.',
+            mimeType: 'text/html'
+          },
+          {
+            uri: 'ui://hashtagweb3.com/news',
+            name: 'Crypto News UI',
+            description: 'Interactive UI feed for the latest crypto news headlines.',
+            mimeType: 'text/html'
+          },
+          {
+            uri: 'ui://hashtagweb3.com/events',
+            name: 'Web3 Events Calendar UI',
+            description: 'Interactive calendar listing upcoming blockchain and crypto conferences.',
+            mimeType: 'text/html'
+          },
+          {
+            uri: 'hashtagweb3://jobs/latest',
+            name: 'Latest Web3 Jobs (JSON)',
+            mimeType: 'application/json'
+          },
+          {
+            uri: 'hashtagweb3://glossary/terms',
+            name: 'Web3 Technical Glossary (JSON)',
+            mimeType: 'application/json'
+          },
+          {
+            uri: 'hashtagweb3://docs/overview',
+            name: 'Hashtag Web3 Documentation & Guides (Markdown)',
+            mimeType: 'text/markdown'
+          }
+        ]
+      }
     });
   }
 
