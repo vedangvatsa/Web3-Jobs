@@ -64,3 +64,20 @@ export function getCompanySlug(company: string): string {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
 }
+
+export function getCardTitle(title: string, max = 34): string {
+  const t = (title || '').trim();
+  if (t.length <= max) return t;
+  const segments = t.split(',').map(seg => seg.trim()).filter(Boolean);
+  let out = segments[0];
+  for (let i = 1; i < segments.length; i++) {
+    const next = `${out}, ${segments[i]}`;
+    if (next.length <= max) out = next;
+    else break;
+  }
+  if (out.length > max) {
+    const cut = out.lastIndexOf(' ', max);
+    out = cut > 0 ? out.slice(0, cut) : out.slice(0, max);
+  }
+  return out.trim();
+}
