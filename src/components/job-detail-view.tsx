@@ -117,7 +117,8 @@ export function JobDetailView({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
-      <div className="site-container py-6 md:py-10">
+      <div className="container mx-auto page-section px-4">
+        <div className="site-container">
         
         {/* Breadcrumb Navigation */}
         <nav aria-label="Breadcrumb" className="mb-6 flex items-center space-x-2 text-sm text-muted-foreground">
@@ -205,12 +206,8 @@ export function JobDetailView({
             dangerouslySetInnerHTML={{ __html: contentHtml }}
           />
 
-          {/* Apply Bottom Banner */}
-          <div className="bg-gradient-to-r from-primary/10 via-primary/5 to-transparent border border-primary/20 rounded-xl p-6 sm:p-8 flex flex-col sm:flex-row items-center justify-between gap-6 mt-8">
-            <div className="space-y-1 text-center sm:text-left">
-              <h3 className="text-lg sm:text-xl font-bold text-foreground">Interested in this role at {job.company}?</h3>
-              <p className="text-sm text-muted-foreground">Submit your official application on the hiring portal.</p>
-            </div>
+          {/* Centered Apply Button */}
+          <div className="flex justify-center pt-8">
             <JobApplicationButton
               jobId={job.id}
               jobTitle={job.title}
@@ -219,7 +216,7 @@ export function JobDetailView({
               source={job.source}
               date={job.date}
             >
-              <Button size="lg" className="font-semibold shadow min-w-[160px]">
+              <Button size="lg" className="font-semibold shadow min-w-[200px] text-base py-6">
                 Apply <ExternalLink className="ml-2 w-4 h-4" />
               </Button>
             </JobApplicationButton>
@@ -242,6 +239,7 @@ export function JobDetailView({
         </div>
 
       </div>
-    </article>
-  );
+    </div>
+  </article>
+);
 }
