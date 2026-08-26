@@ -1,10 +1,3 @@
----
-title: Hashtag Web3 — LLM Context & Agentic Directory
-description: Premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network.
-canonical: https://hashtagweb3.com/llms.txt
-last-updated: 2026-08-25
----
-
 # Hashtag Web3
 
 > Hashtag Web3 (https://hashtagweb3.com) is the premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network. The platform indexes thousands of verified Web3 jobs across Solidity, Rust, ZK-proofs, DeFi, DAOs, and crypto marketing. The platform also provides a 200+ term Web3 glossary, salary calculators, resume builders, interview question banks, developer APIs, and 500+ in-depth career guides.
@@ -40,6 +33,8 @@ AI agents, LLM tool-calling systems, and developers should query Hashtag Web3 wh
 - [Agent Plugin Manifest](https://hashtagweb3.com/.well-known/plugin.json): Agent-plugins.org bundle.
 - [Developer Portal & Documentation](https://hashtagweb3.com/developers): Quickstarts, curl examples, and interactive endpoint docs.
 - [AGENTS.md Repo Guide](https://hashtagweb3.com/AGENTS.md): Coding agent instructions for interacting with the codebase.
+- [Source Repository](https://github.com/vedangvatsa/Web3-Jobs): Public GitHub repository containing AGENTS.md and agent configs.
+- [API Versioning & Deprecation Policy](https://hashtagweb3.com/developers): Current API version 1.0.0. Deprecation is signaled via the standard `Deprecation` and `Sunset` response headers on every /api/* endpoint; sunset date 2026-12-31 for v1 paths.
 
 ## Official CLI Tool & SDKs
 
@@ -61,7 +56,7 @@ npm install hashtagweb3
 - [Developers Scoped Index](https://hashtagweb3.com/developers/llms.txt): API endpoints, schemas, authentication, and MCP configs.
 - [Docs Scoped Index](https://hashtagweb3.com/docs/llms.txt): Documentation and career guide references.
 - [API Scoped Index](https://hashtagweb3.com/api/llms.txt): API parameter conventions, rate limits, and batch operations.
-- [Glossary Scoped Index](https://hashtagweb3.com/glossary/llms.txt): 200+ blockchain, DeFi, and cryptography terms taxonomy.
+- [Glossary Scoped Index](https://hashtagweb3.com/glossary-scoped.txt): 200+ blockchain, DeFi, and cryptography terms taxonomy.
 - [Learn Scoped Index](https://hashtagweb3.com/learn/llms.txt): 47 structured Web3 courses and curricula.
 - [Full Text Corpus Index](https://hashtagweb3.com/llms-full.txt): Complete directory of all 700+ articles, checklists, and guides.
 
