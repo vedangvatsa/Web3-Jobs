@@ -3,8 +3,8 @@ title: How Homomorphic Encryption Powers Web3 Privacy
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: encryption privacy data
 description: >-
-  A deep dive into Homomorphic Encryption (HE), a a significant cryptographic
-  technique that allows for computation on encrypted data, enabling.
+ A deep dive into Homomorphic Encryption (HE), a a significant cryptographic
+ technique that allows for computation on encrypted data, enabling.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

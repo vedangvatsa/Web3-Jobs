@@ -3,8 +3,8 @@ title: Blockchain Wallet Security and Best Practices
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 data-ai-hint: blockchain wallet security
 description: >-
-  A important guide to securing your crypto assets. Learn about the different
-  types of wallets, the importance of seed phrases, and the best practices to.
+ A important guide to securing your crypto assets. Learn about the different
+ types of wallets, the importance of seed phrases, and the best practices to.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

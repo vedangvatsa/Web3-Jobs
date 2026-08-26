@@ -3,9 +3,9 @@ title: Python for AI Complete Tutorial
 image: 'https://picsum.photos/seed/python-ai/1200/630'
 data-ai-hint: snake code matrix
 description: >-
-  A beginner's guide to using Python for AI and Machine Learning. Learn about
-  the essential libraries like NumPy, Pandas, and Scikit-learn, with simple
-  code.
+ A beginner's guide to using Python for AI and Machine Learning. Learn about
+ the essential libraries like NumPy, Pandas, and Scikit-learn, with simple
+ code.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

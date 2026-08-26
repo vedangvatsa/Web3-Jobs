@@ -5,8 +5,8 @@ founded: 2000
 category: Quantitative Trading
 headquarters: 'New York, United States'
 description: >-
-  Global quantitative trading firm and liquidity provider active in crypto
-  markets
+ Global quantitative trading firm and liquidity provider active in crypto
+ markets
 ---
 
 Global quantitative trading firm and liquidity provider active in crypto markets.

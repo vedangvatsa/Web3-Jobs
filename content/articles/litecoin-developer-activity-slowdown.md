@@ -3,8 +3,8 @@ title: 'Litecoin''s Stagnation: A Case Study in Developer Activity Slowdown'
 image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
 data-ai-hint: litecoin chart decline
 description: >-
-  An analysis of the Litecoin developer activity slowdown. We explore why the
-  'silver to Bitcoin's gold' has seen a decline in innovation and what it.
+ An analysis of the Litecoin developer activity slowdown. We explore why the
+ 'silver to Bitcoin's gold' has seen a decline in innovation and what it.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ name: Sei Labs
 website: 'https://sei.io'
 category: Blockchain Infrastructure
 description: >-
-  Sei Labs develops a blockchain optimized for decentralized finance
-  applications.
+ Sei Labs develops a blockchain optimized for decentralized finance
+ applications.
 ---
 
 Sei Labs focuses on building a high-performance blockchain specifically designed for decentralized finance (DeFi). The platform aims to enhance transaction speed and efficiency, catering to the needs of DeFi applications. Sei Labs uses a unique architecture that allows for parallel transaction processing, which can significantly improve throughput.

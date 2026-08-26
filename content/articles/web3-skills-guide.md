@@ -1,8 +1,8 @@
 ---
 title: Web3 Skills Guide - Essential Knowledge for Career Success
 description: >-
-  A full guide covering the core skills and knowledge areas every Web3
-  professional needs to build a successful career in blockchain, DeFi, NFTs.
+ A full guide covering the core skills and knowledge areas every Web3
+ professional needs to build a successful career in blockchain, DeFi, NFTs.
 category: Career Guides
 image: 'https://picsum.photos/seed/skills/1200/630'
 publishedDate: '2026-03-11'

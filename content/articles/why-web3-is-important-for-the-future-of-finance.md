@@ -3,8 +3,8 @@ title: Why Web3 Is Important for the Future of Finance
 image: /images/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg
 data-ai-hint: future finance web3
 description: >-
-  An analysis of why Web3 and its core component, DeFi, are set to fundamentally
-  reshape the global financial system by creating a more open.
+ An analysis of why Web3 and its core component, DeFi, are set to fundamentally
+ reshape the global financial system by creating a more open.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,9 +3,9 @@ title: 'AI and Web3 Engineering: A Career Guide'
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: ai web3 engineer
 description: >-
-  Explore how artificial intelligence and machine learning are reshaping Web3
-  engineering roles, with insights on high-demand skills and career
-  trajectories.
+ Explore how artificial intelligence and machine learning are reshaping Web3
+ engineering roles, with insights on high-demand skills and career
+ trajectories.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

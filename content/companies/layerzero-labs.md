@@ -5,8 +5,8 @@ founded: 2021
 category: Interoperability / Infrastructure
 headquarters: 'Vancouver, Canada'
 description: >-
-  Creator of the LayerZero omnichain interoperability protocol enabling
-  cross-chain messaging
+ Creator of the LayerZero omnichain interoperability protocol enabling
+ cross-chain messaging
 ---
 
 Creator of the LayerZero omnichain interoperability protocol enabling cross-chain messaging.

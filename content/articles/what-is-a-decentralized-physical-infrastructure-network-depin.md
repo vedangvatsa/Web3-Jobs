@@ -1,9 +1,9 @@
 ---
 title: What is a Decentralized Physical Infrastructure Network (DePIN)
 description: >-
-  Explore how DePINs use token incentives to build and operate real-world
-  infrastructure, from wireless networks to energy grids, disrupting traditional
-  models.
+ Explore how DePINs use token incentives to build and operate real-world
+ infrastructure, from wireless networks to energy grids, disrupting traditional
+ models.
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 category: Educational
 data-ai-hint: decentralized network

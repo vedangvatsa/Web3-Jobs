@@ -1,11 +1,11 @@
 ---
 title: 'Creating Dynamic NFTs: A Step-by-Step Guide'
 image: >-
-  https://images.unsplash.com/photo-1639221314358-2291fb903405?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxuZnR8ZW58MHx8fHwxNzU0OTQ5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1639221314358-2291fb903405?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxuZnR8ZW58MHx8fHwxNzU0OTQ5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: creating dynamic nfts step guide
 description: >-
-  Go beyond static JPEGs. This guide explores the world of Dynamic NFTs (dNFTs)
-  and shows you how to create NFTs that can change and evolve based on.
+ Go beyond static JPEGs. This guide explores the world of Dynamic NFTs (dNFTs)
+ and shows you how to create NFTs that can change and evolve based on.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

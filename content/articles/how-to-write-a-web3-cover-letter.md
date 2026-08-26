@@ -3,8 +3,8 @@ title: How to Write a Web3 Cover Letter That Gets You Hired
 image: /images/thisisengineering-83udtzyaTS4-unsplash.jpg
 data-ai-hint: writing cover letter
 description: >-
-  A practical guide to writing a compelling cover letter for a Web3 job. Learn
-  how to showcase your passion, your 'proof of work,' and your deep.
+ A practical guide to writing a compelling cover letter for a Web3 job. Learn
+ how to showcase your passion, your 'proof of work,' and your deep.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

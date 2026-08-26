@@ -2,8 +2,8 @@
 title: modern Connectivity Explained
 image: 'https://picsum.photos/seed/next-gen-connect/1200/630'
 description: >-
-  An overview of modern connectivity, looking beyond 5G to the future of
-  wireless technology and what it will enable.
+ An overview of modern connectivity, looking beyond 5G to the future of
+ wireless technology and what it will enable.
 category: Educational
 data-ai-hint: wireless signals
 publishedDate: '2026-03-11'

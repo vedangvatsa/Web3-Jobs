@@ -1,11 +1,11 @@
 ---
 title: 'Web3 Marketing: A Guide to Growth in a Decentralized World'
 image: >-
-  https://images.unsplash.com/photo-1560472354-b33ff0c44a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8bWFya2V0aW5nfGVufDB8fHx8MTc1NDg4MzkwNnww&lib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1560472354-b33ff0c44a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8bWFya2V0aW5nfGVufDB8fHx8MTc1NDg4MzkwNnww&lib=rb-4.1.0&q=80&w=1080
 data-ai-hint: marketing strategy megaphone
 description: >-
-  Develop effective marketing campaigns using data analytics, community
-  engagement, and meme-onomics.
+ Develop effective marketing campaigns using data analytics, community
+ engagement, and meme-onomics.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

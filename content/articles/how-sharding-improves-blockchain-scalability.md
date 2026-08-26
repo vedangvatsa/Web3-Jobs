@@ -3,8 +3,8 @@ title: How Sharding Improves Blockchain Scalability
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: blockchain network scalability
 description: >-
-  A deep dive into sharding, a powerful technique for improving blockchain
-  throughput and scalability by splitting the network into smaller, manageable.
+ A deep dive into sharding, a powerful technique for improving blockchain
+ throughput and scalability by splitting the network into smaller, manageable.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -2,8 +2,8 @@
 title: Career Plateau? Here's How to Break Through and Keep Growing
 image: 'https://picsum.photos/seed/cphtb/1200/630'
 description: >-
-  Feeling stuck in your job? A career plateau is common, but it doesn't have to
-  be permanent. Discover the signs and learn actionable strategies to get your.
+ Feeling stuck in your job? A career plateau is common, but it doesn't have to
+ be permanent. Discover the signs and learn actionable strategies to get your.
 category: Career Guides
 data-ai-hint: career growth
 publishedDate: '2026-03-11'

@@ -2,8 +2,8 @@
 title: the best Packing List for Digital Nomads in Tech
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 description: >-
-  Working remotely from anywhere in the world requires careful planning. This is
-  the core packing list for tech professionals and digital nomads.
+ Working remotely from anywhere in the world requires careful planning. This is
+ the core packing list for tech professionals and digital nomads.
 category: Career Guides
 data-ai-hint: travel packing
 publishedDate: '2026-03-11'

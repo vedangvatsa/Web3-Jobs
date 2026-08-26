@@ -3,9 +3,9 @@ title: How to Switch Industries Successfully
 image: 'https://picsum.photos/seed/switch-industries/1200/630'
 data-ai-hint: bridge crossing gap
 description: >-
-  A practical guide on how to successfully switch industries. Learn how to
-  identify transferable skills, rebrand yourself, and make a smooth transition
-  to a.
+ A practical guide on how to successfully switch industries. Learn how to
+ identify transferable skills, rebrand yourself, and make a smooth transition
+ to a.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,8 +1,8 @@
 ---
 title: What is Synthetic Biology Applications
 description: >-
-  An introduction to synthetic biology, the field of designing and constructing
-  new biological parts, devices, and systems, and its diverse applications.
+ An introduction to synthetic biology, the field of designing and constructing
+ new biological parts, devices, and systems, and its diverse applications.
 category: Educational
 image: 'https://picsum.photos/seed/synbio/1200/630'
 data-ai-hint: biology lab

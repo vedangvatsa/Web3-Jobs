@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Hyderabad: A Guide to the Emerging Tech Hub'
 image: /images/india-web3-jobs.jpg
 data-ai-hint: hyderabad city india
 description: >-
-  A full guide to the Web3 job market in Hyderabad. Learn about the city's rise
-  as a key blockchain hub, the companies driving innovation, and the.
+ A full guide to the Web3 job market in Hyderabad. Learn about the city's rise
+ as a key blockchain hub, the companies driving innovation, and the.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,11 +1,11 @@
 ---
 title: Key Strategies to Succeed in Web3 Career Interviews
 image: >-
-  https://images.unsplash.com/photo-1698047681452-08eba22d0c64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxJbnRlcnZpZXd8ZW58MHx8fHwxNzU0OTUxNzE4fDA&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1698047681452-08eba22d0c64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxJbnRlcnZpZXd8ZW58MHx8fHwxNzU0OTUxNzE4fDA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
-  Ace your next Web3 interview. This guide covers the most common questions and
-  strategies for technical and non-technical roles, from blockchain fundamentals
-  to in-depth protocol design.
+ Ace your next Web3 interview. This guide covers the most common questions and
+ strategies for technical and non-technical roles, from blockchain fundamentals
+ to in-depth protocol design.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

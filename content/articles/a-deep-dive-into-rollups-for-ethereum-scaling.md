@@ -3,8 +3,8 @@ title: A Deep Dive Into Rollups for Ethereum Scaling
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 data-ai-hint: ethereum scaling rollup
 description: >-
-  A full guide to Ethereum's primary scaling solution: rollups. We explore the
-  differences between Optimistic and ZK-Rollups and their role in the.
+ A full guide to Ethereum's primary scaling solution: rollups. We explore the
+ differences between Optimistic and ZK-Rollups and their role in the.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

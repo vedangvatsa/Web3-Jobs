@@ -3,8 +3,8 @@ title: Exploring South Korea's GameFi Market
 image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
 data-ai-hint: south korea gaming
 description: >-
-  A guide to South Korea's dominant Web3 gaming (GameFi) market. Learn about the
-  major players, the unique regulatory space, and the career.
+ A guide to South Korea's dominant Web3 gaming (GameFi) market. Learn about the
+ major players, the unique regulatory space, and the career.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: Understanding Hardware Wallets for Crypto Security
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 data-ai-hint: hardware wallet crypto
 description: >-
-  A guide to hardware wallets, the gold standard for crypto security. Learn how
-  devices like Ledger and Trezor keep your private keys safe and protect you.
+ A guide to hardware wallets, the gold standard for crypto security. Learn how
+ devices like Ledger and Trezor keep your private keys safe and protect you.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

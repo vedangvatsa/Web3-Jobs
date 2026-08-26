@@ -1,261 +1,261 @@
 {
-  "meta": {
-    "contentType": "mistakes",
-    "topic": "security",
-    "niche": "defi-developer",
-    "generatedAt": "2026-05-17T05:30:09.454Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "30 Security Mistakes DeFi Developers Make",
-    "description": "Avoid these 30 common security mistakes that DeFi developers make. From oracle manipulation to flash loan attacks, learn what leads to exploits.",
-    "keywords": [
-      "defi-developer",
-      "mistakes",
-      "security",
-      "oracle",
-      "flash-loan",
-      "reentrancy",
-      "exploit"
-    ],
-    "canonicalSlug": "security-mistakes-for-defi-developer"
-  },
-  "content": {
-    "intro": "DeFi protocols are high-value targets. These common mistakes have led to billions in losses. Learn from others' failures to build more secure protocols.",
-    "sections": [
-      {
-        "heading": "Oracle Mistakes",
-        "description": "Price oracle vulnerabilities that lead to manipulation.",
-        "items": [
-          {
-            "title": "Using spot prices from DEXes",
-            "description": "Using instantaneous spot prices from AMMs allows flash loan manipulation to move prices within a single transaction.",
-            "impact": "Attackers drain funds through price manipulation",
-            "prevention": "Use Chainlink or TWAP oracles. Never rely on single-block spot prices."
-          },
-          {
-            "title": "No staleness check on oracle data",
-            "description": "Using stale oracle prices when Chainlink hasn't updated in hours or days.",
-            "impact": "Incorrect prices lead to bad liquidations or arbitrage",
-            "prevention": "Check updatedAt timestamp. Reject prices older than acceptable threshold."
-          },
-          {
-            "title": "Missing oracle fallback",
-            "description": "Protocol breaks completely when primary oracle fails or returns zero.",
-            "impact": "Protocol freeze or incorrect behavior during oracle downtime",
-            "prevention": "Implement fallback oracles or safe failure modes."
-          },
-          {
-            "title": "Ignoring oracle decimal differences",
-            "description": "Assuming all Chainlink feeds have 8 decimals when some have different precision.",
-            "impact": "Orders of magnitude errors in price calculations",
-            "prevention": "Always check feed decimals and normalize to consistent precision."
-          },
-          {
-            "title": "Single oracle dependency",
-            "description": "Trusting one oracle source without cross-validation for critical operations.",
-            "impact": "Oracle compromise breaks entire protocol",
-            "prevention": "For critical operations, cross-reference multiple oracle sources."
-          }
-        ]
-      },
-      {
-        "heading": "Flash Loan Mistakes",
-        "description": "Vulnerabilities exploitable through flash loans.",
-        "items": [
-          {
-            "title": "Governance votes based on current balance",
-            "description": "Allowing votes based on token balance at time of vote enables flash loan governance attacks.",
-            "impact": "Attacker passes malicious proposals with borrowed voting power",
-            "prevention": "Use snapshot voting. Require tokens held for minimum time before voting."
-          },
-          {
-            "title": "Rewards based on deposit amount without time lock",
-            "description": "Distributing rewards proportional to deposits without lockup allows flash loan reward stealing.",
-            "impact": "Attackers claim disproportionate share of rewards",
-            "prevention": "Require deposits to be present for multiple blocks before earning rewards."
-          },
-          {
-            "title": "Share price manipulation on first deposit",
-            "description": "First depositor can donate tokens to inflate share price, griefing subsequent depositors.",
-            "impact": "Early depositors extract value from later depositors",
-            "prevention": "Implement virtual shares or send initial deposit to dead address."
-          },
-          {
-            "title": "Collateral value from manipulable source",
-            "description": "Using AMM liquidity token value based on reserves allows collateral manipulation.",
-            "impact": "Attackers borrow more than collateral is worth",
-            "prevention": "Use manipulation-resistant LP token pricing or don't accept LP as collateral."
-          },
-          {
-            "title": "Liquidation triggers based on spot price",
-            "description": "Liquidation decisions using spot prices allow predatory liquidations via price manipulation.",
-            "impact": "Healthy positions liquidated through temporary price manipulation",
-            "prevention": "Use TWAP for liquidation triggers. Add liquidation delay."
-          }
-        ]
-      },
-      {
-        "heading": "Reentrancy Mistakes",
-        "description": "Various forms of reentrancy vulnerabilities.",
-        "items": [
-          {
-            "title": "State updates after external calls",
-            "description": "Updating balances or state after making external calls violates checks-effects-interactions.",
-            "impact": "Attacker re-enters and exploits stale state",
-            "prevention": "Always update state before external calls. Use ReentrancyGuard."
-          },
-          {
-            "title": "Missing reentrancy guard on withdraw",
-            "description": "Withdraw functions making ETH transfers without reentrancy protection.",
-            "impact": "Classic reentrancy drain attack",
-            "prevention": "Add ReentrancyGuard modifier to all functions with external calls."
-          },
-          {
-            "title": "Cross-contract reentrancy blind spots",
-            "description": "Only checking single contract reentrancy when protocol has multiple contracts sharing state.",
-            "impact": "Attacker re-enters through different contract in same protocol",
-            "prevention": "Use global reentrancy lock across all protocol contracts."
-          },
-          {
-            "title": "ERC-777 callback reentrancy",
-            "description": "Accepting any ERC-20 without considering ERC-777 tokens have transfer hooks.",
-            "impact": "Reentrancy through token transfer callbacks",
-            "prevention": "Use ReentrancyGuard or whitelist accepted tokens."
-          },
-          {
-            "title": "Read-only reentrancy in view functions",
-            "description": "View functions returning stale data when called during reentrancy.",
-            "impact": "External protocols that read state during attack get wrong values",
-            "prevention": "Be aware of what external protocols might read. Document reentrancy behavior."
-          }
-        ]
-      },
-      {
-        "heading": "Math and Logic Mistakes",
-        "description": "Calculation errors and business logic flaws.",
-        "items": [
-          {
-            "title": "Division before multiplication",
-            "description": "Order of operations causing precision loss. Dividing before multiplying loses precision.",
-            "impact": "Small amounts round to zero, value leakage over time",
-            "prevention": "Always multiply before divide. Use higher precision intermediates."
-          },
-          {
-            "title": "Rounding always favoring users",
-            "description": "Rounding in a direction that allows users to extract dust amounts repeatedly.",
-            "impact": "Slow drain through rounding exploitation",
-            "prevention": "Round in favor of the protocol for withdrawals, in favor of users for deposits."
-          },
-          {
-            "title": "Unchecked array operations",
-            "description": "Loops over unbounded arrays that can grow beyond gas limits.",
-            "impact": "Function becomes uncallable, funds stuck",
-            "prevention": "Bound array sizes or use pagination for large datasets."
-          },
-          {
-            "title": "Integer overflow in fee calculations",
-            "description": "Fee percentage times amount overflowing before division.",
-            "impact": "Wrong fees charged or underflow to huge values",
-            "prevention": "Check for overflow even with Solidity 0.8. Use unchecked carefully."
-          },
-          {
-            "title": "Missing slippage protection",
-            "description": "Swaps without minimum output parameter allowing sandwich attacks.",
-            "impact": "Users receive much less than expected due to MEV",
-            "prevention": "Always include minAmountOut parameter. Let users set slippage tolerance."
-          },
-          {
-            "title": "Incorrect share calculations",
-            "description": "Vault share math that allows rounding exploitation or share inflation.",
-            "impact": "Value extraction through share manipulation",
-            "prevention": "Use battle-tested ERC-4626 implementations. Add first depositor protection."
-          }
-        ]
-      },
-      {
-        "heading": "Token Handling Mistakes",
-        "description": "Errors in handling various token types.",
-        "items": [
-          {
-            "title": "Assuming all ERC-20s return bool",
-            "description": "Not using SafeERC20 when some tokens (USDT) don't return bool on transfer.",
-            "impact": "Transfers silently fail or revert unexpectedly",
-            "prevention": "Always use SafeERC20 for ERC-20 interactions."
-          },
-          {
-            "title": "Not handling fee-on-transfer tokens",
-            "description": "Assuming received amount equals transfer amount for tokens with transfer fees.",
-            "impact": "Accounting errors, potential for exploitation",
-            "prevention": "Calculate actual received amount via balance difference."
-          },
-          {
-            "title": "Ignoring token decimals",
-            "description": "Assuming 18 decimals when USDC has 6 and others vary.",
-            "impact": "Off by orders of magnitude in calculations",
-            "prevention": "Query token decimals. Normalize all calculations."
-          },
-          {
-            "title": "Approval race condition",
-            "description": "Approving new amount without resetting to zero first for tokens with approval race condition.",
-            "impact": "Approved party can spend old + new allowance",
-            "prevention": "Reset to zero first or use increaseAllowance/decreaseAllowance."
-          },
-          {
-            "title": "Not considering token blocklists",
-            "description": "Ignoring that USDC/USDT can blocklist addresses, breaking protocol flows.",
-            "impact": "Funds stuck if protocol address gets blocklisted",
-            "prevention": "Have contingency for blocklist scenarios. Avoid holding stablecoins long-term."
-          }
-        ]
-      },
-      {
-        "heading": "Access Control Mistakes",
-        "description": "Permission and authorization vulnerabilities.",
-        "items": [
-          {
-            "title": "Missing access control on critical functions",
-            "description": "Administrative functions without onlyOwner or role checks.",
-            "impact": "Anyone can call admin functions and drain or break protocol",
-            "prevention": "Audit every external/public function. Default to restricted, explicitly open."
-          },
-          {
-            "title": "Single key controlling everything",
-            "description": "One EOA can pause, upgrade, and withdraw all funds.",
-            "impact": "Key compromise loses everything",
-            "prevention": "Use multisig for admin functions. Separate roles for different operations."
-          },
-          {
-            "title": "No timelock on critical operations",
-            "description": "Upgrades and parameter changes execute immediately without delay.",
-            "impact": "No time for users to react to malicious changes",
-            "prevention": "Add timelock for all critical admin operations."
-          },
-          {
-            "title": "Incorrect modifier ordering",
-            "description": "Putting access control modifier after other checks allows bypass in some cases.",
-            "impact": "Access control bypassed via early revert",
-            "prevention": "Access control modifiers should be first in modifier chain."
-          }
-        ]
-      }
-    ],
-    "proTips": [
-      {
-        "tip": "Study every DeFi exploit post-mortem. The patterns repeat with variations."
-      },
-      {
-        "tip": "Get multiple audits from different firms. Each auditor catches different issues."
-      },
-      {
-        "tip": "Deploy with low caps first. Increase limits gradually as protocol proves secure."
-      },
-      {
-        "tip": "Have a bug bounty program. Ethical hackers finding bugs is better than malicious ones."
-      },
-      {
-        "tip": "Build monitoring and alerts from day one. Fast response limits damage."
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "mistakes",
+ "topic": "security",
+ "niche": "defi-developer",
+ "generatedAt": "2026-05-17T05:30:09.454Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "30 Security Mistakes DeFi Developers Make",
+ "description": "Avoid these 30 common security mistakes that DeFi developers make. From oracle manipulation to flash loan attacks, learn what leads to exploits.",
+ "keywords": [
+ "defi-developer",
+ "mistakes",
+ "security",
+ "oracle",
+ "flash-loan",
+ "reentrancy",
+ "exploit"
+ ],
+ "canonicalSlug": "security-mistakes-for-defi-developer"
+ },
+ "content": {
+ "intro": "DeFi protocols are high-value targets. These common mistakes have led to billions in losses. Learn from others' failures to build more secure protocols.",
+ "sections": [
+ {
+ "heading": "Oracle Mistakes",
+ "description": "Price oracle vulnerabilities that lead to manipulation.",
+ "items": [
+ {
+ "title": "Using spot prices from DEXes",
+ "description": "Using instantaneous spot prices from AMMs allows flash loan manipulation to move prices within a single transaction.",
+ "impact": "Attackers drain funds through price manipulation",
+ "prevention": "Use Chainlink or TWAP oracles. Never rely on single-block spot prices."
+ },
+ {
+ "title": "No staleness check on oracle data",
+ "description": "Using stale oracle prices when Chainlink hasn't updated in hours or days.",
+ "impact": "Incorrect prices lead to bad liquidations or arbitrage",
+ "prevention": "Check updatedAt timestamp. Reject prices older than acceptable threshold."
+ },
+ {
+ "title": "Missing oracle fallback",
+ "description": "Protocol breaks completely when primary oracle fails or returns zero.",
+ "impact": "Protocol freeze or incorrect behavior during oracle downtime",
+ "prevention": "Implement fallback oracles or safe failure modes."
+ },
+ {
+ "title": "Ignoring oracle decimal differences",
+ "description": "Assuming all Chainlink feeds have 8 decimals when some have different precision.",
+ "impact": "Orders of magnitude errors in price calculations",
+ "prevention": "Always check feed decimals and normalize to consistent precision."
+ },
+ {
+ "title": "Single oracle dependency",
+ "description": "Trusting one oracle source without cross-validation for critical operations.",
+ "impact": "Oracle compromise breaks entire protocol",
+ "prevention": "For critical operations, cross-reference multiple oracle sources."
+ }
+ ]
+ },
+ {
+ "heading": "Flash Loan Mistakes",
+ "description": "Vulnerabilities exploitable through flash loans.",
+ "items": [
+ {
+ "title": "Governance votes based on current balance",
+ "description": "Allowing votes based on token balance at time of vote enables flash loan governance attacks.",
+ "impact": "Attacker passes malicious proposals with borrowed voting power",
+ "prevention": "Use snapshot voting. Require tokens held for minimum time before voting."
+ },
+ {
+ "title": "Rewards based on deposit amount without time lock",
+ "description": "Distributing rewards proportional to deposits without lockup allows flash loan reward stealing.",
+ "impact": "Attackers claim disproportionate share of rewards",
+ "prevention": "Require deposits to be present for multiple blocks before earning rewards."
+ },
+ {
+ "title": "Share price manipulation on first deposit",
+ "description": "First depositor can donate tokens to inflate share price, griefing subsequent depositors.",
+ "impact": "Early depositors extract value from later depositors",
+ "prevention": "Implement virtual shares or send initial deposit to dead address."
+ },
+ {
+ "title": "Collateral value from manipulable source",
+ "description": "Using AMM liquidity token value based on reserves allows collateral manipulation.",
+ "impact": "Attackers borrow more than collateral is worth",
+ "prevention": "Use manipulation-resistant LP token pricing or don't accept LP as collateral."
+ },
+ {
+ "title": "Liquidation triggers based on spot price",
+ "description": "Liquidation decisions using spot prices allow predatory liquidations via price manipulation.",
+ "impact": "Healthy positions liquidated through temporary price manipulation",
+ "prevention": "Use TWAP for liquidation triggers. Add liquidation delay."
+ }
+ ]
+ },
+ {
+ "heading": "Reentrancy Mistakes",
+ "description": "Various forms of reentrancy vulnerabilities.",
+ "items": [
+ {
+ "title": "State updates after external calls",
+ "description": "Updating balances or state after making external calls violates checks-effects-interactions.",
+ "impact": "Attacker re-enters and exploits stale state",
+ "prevention": "Always update state before external calls. Use ReentrancyGuard."
+ },
+ {
+ "title": "Missing reentrancy guard on withdraw",
+ "description": "Withdraw functions making ETH transfers without reentrancy protection.",
+ "impact": "Classic reentrancy drain attack",
+ "prevention": "Add ReentrancyGuard modifier to all functions with external calls."
+ },
+ {
+ "title": "Cross-contract reentrancy blind spots",
+ "description": "Only checking single contract reentrancy when protocol has multiple contracts sharing state.",
+ "impact": "Attacker re-enters through different contract in same protocol",
+ "prevention": "Use global reentrancy lock across all protocol contracts."
+ },
+ {
+ "title": "ERC-777 callback reentrancy",
+ "description": "Accepting any ERC-20 without considering ERC-777 tokens have transfer hooks.",
+ "impact": "Reentrancy through token transfer callbacks",
+ "prevention": "Use ReentrancyGuard or whitelist accepted tokens."
+ },
+ {
+ "title": "Read-only reentrancy in view functions",
+ "description": "View functions returning stale data when called during reentrancy.",
+ "impact": "External protocols that read state during attack get wrong values",
+ "prevention": "Be aware of what external protocols might read. Document reentrancy behavior."
+ }
+ ]
+ },
+ {
+ "heading": "Math and Logic Mistakes",
+ "description": "Calculation errors and business logic flaws.",
+ "items": [
+ {
+ "title": "Division before multiplication",
+ "description": "Order of operations causing precision loss. Dividing before multiplying loses precision.",
+ "impact": "Small amounts round to zero, value leakage over time",
+ "prevention": "Always multiply before divide. Use higher precision intermediates."
+ },
+ {
+ "title": "Rounding always favoring users",
+ "description": "Rounding in a direction that allows users to extract dust amounts repeatedly.",
+ "impact": "Slow drain through rounding exploitation",
+ "prevention": "Round in favor of the protocol for withdrawals, in favor of users for deposits."
+ },
+ {
+ "title": "Unchecked array operations",
+ "description": "Loops over unbounded arrays that can grow beyond gas limits.",
+ "impact": "Function becomes uncallable, funds stuck",
+ "prevention": "Bound array sizes or use pagination for large datasets."
+ },
+ {
+ "title": "Integer overflow in fee calculations",
+ "description": "Fee percentage times amount overflowing before division.",
+ "impact": "Wrong fees charged or underflow to huge values",
+ "prevention": "Check for overflow even with Solidity 0.8. Use unchecked carefully."
+ },
+ {
+ "title": "Missing slippage protection",
+ "description": "Swaps without minimum output parameter allowing sandwich attacks.",
+ "impact": "Users receive much less than expected due to MEV",
+ "prevention": "Always include minAmountOut parameter. Let users set slippage tolerance."
+ },
+ {
+ "title": "Incorrect share calculations",
+ "description": "Vault share math that allows rounding exploitation or share inflation.",
+ "impact": "Value extraction through share manipulation",
+ "prevention": "Use battle-tested ERC-4626 implementations. Add first depositor protection."
+ }
+ ]
+ },
+ {
+ "heading": "Token Handling Mistakes",
+ "description": "Errors in handling various token types.",
+ "items": [
+ {
+ "title": "Assuming all ERC-20s return bool",
+ "description": "Not using SafeERC20 when some tokens (USDT) don't return bool on transfer.",
+ "impact": "Transfers silently fail or revert unexpectedly",
+ "prevention": "Always use SafeERC20 for ERC-20 interactions."
+ },
+ {
+ "title": "Not handling fee-on-transfer tokens",
+ "description": "Assuming received amount equals transfer amount for tokens with transfer fees.",
+ "impact": "Accounting errors, potential for exploitation",
+ "prevention": "Calculate actual received amount via balance difference."
+ },
+ {
+ "title": "Ignoring token decimals",
+ "description": "Assuming 18 decimals when USDC has 6 and others vary.",
+ "impact": "Off by orders of magnitude in calculations",
+ "prevention": "Query token decimals. Normalize all calculations."
+ },
+ {
+ "title": "Approval race condition",
+ "description": "Approving new amount without resetting to zero first for tokens with approval race condition.",
+ "impact": "Approved party can spend old + new allowance",
+ "prevention": "Reset to zero first or use increaseAllowance/decreaseAllowance."
+ },
+ {
+ "title": "Not considering token blocklists",
+ "description": "Ignoring that USDC/USDT can blocklist addresses, breaking protocol flows.",
+ "impact": "Funds stuck if protocol address gets blocklisted",
+ "prevention": "Have contingency for blocklist scenarios. Avoid holding stablecoins long-term."
+ }
+ ]
+ },
+ {
+ "heading": "Access Control Mistakes",
+ "description": "Permission and authorization vulnerabilities.",
+ "items": [
+ {
+ "title": "Missing access control on critical functions",
+ "description": "Administrative functions without onlyOwner or role checks.",
+ "impact": "Anyone can call admin functions and drain or break protocol",
+ "prevention": "Audit every external/public function. Default to restricted, explicitly open."
+ },
+ {
+ "title": "Single key controlling everything",
+ "description": "One EOA can pause, upgrade, and withdraw all funds.",
+ "impact": "Key compromise loses everything",
+ "prevention": "Use multisig for admin functions. Separate roles for different operations."
+ },
+ {
+ "title": "No timelock on critical operations",
+ "description": "Upgrades and parameter changes execute immediately without delay.",
+ "impact": "No time for users to react to malicious changes",
+ "prevention": "Add timelock for all critical admin operations."
+ },
+ {
+ "title": "Incorrect modifier ordering",
+ "description": "Putting access control modifier after other checks allows bypass in some cases.",
+ "impact": "Access control bypassed via early revert",
+ "prevention": "Access control modifiers should be first in modifier chain."
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ {
+ "tip": "Study every DeFi exploit post-mortem. The patterns repeat with variations."
+ },
+ {
+ "tip": "Get multiple audits from different firms. Each auditor catches different issues."
+ },
+ {
+ "tip": "Deploy with low caps first. Increase limits gradually as protocol proves secure."
+ },
+ {
+ "tip": "Have a bug bounty program. Ethical hackers finding bugs is better than malicious ones."
+ },
+ {
+ "tip": "Build monitoring and alerts from day one. Fast response limits damage."
+ }
+ ]
+ }
 }

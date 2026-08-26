@@ -3,9 +3,9 @@ title: Breaking Into Blockchain DevOps
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 data-ai-hint: blockchain devops engineer
 description: >-
-  A career guide for DevOps engineers looking to transition into Web3. Learn
-  about the unique challenges of blockchain infrastructure, from node
-  management.
+ A career guide for DevOps engineers looking to transition into Web3. Learn
+ about the unique challenges of blockchain infrastructure, from node
+ management.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

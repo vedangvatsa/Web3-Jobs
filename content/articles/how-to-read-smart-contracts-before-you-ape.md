@@ -3,8 +3,8 @@ title: How to Read Smart Contracts (Before You Ape In)
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: code security audit
 description: >-
-  A practical guide for non-developers on how to perform a basic security check
-  of a Solidity smart contract. Learn to spot common red flags and protect.
+ A practical guide for non-developers on how to perform a basic security check
+ of a Solidity smart contract. Learn to spot common red flags and protect.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

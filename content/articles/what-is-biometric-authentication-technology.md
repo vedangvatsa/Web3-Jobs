@@ -1,9 +1,9 @@
 ---
 title: What is Biometric Authentication Technology
 description: >-
-  An in-depth look at biometric authentication, covering different types like
-  fingerprint, facial, and voice recognition, and its growing role in
-  cybersecurity.
+ An in-depth look at biometric authentication, covering different types like
+ fingerprint, facial, and voice recognition, and its growing role in
+ cybersecurity.
 category: Educational
 image: 'https://picsum.photos/seed/biometric/1200/630'
 data-ai-hint: fingerprint scan

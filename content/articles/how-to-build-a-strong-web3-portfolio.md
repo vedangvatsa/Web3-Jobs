@@ -3,8 +3,8 @@ title: A Guide to Web3 Recruiting and Talent Acquisition
 image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
 data-ai-hint: recruiting web3 talent
 description: >-
-  A guide for recruiters and hiring managers. Learn the effective strategies for
-  sourcing, vetting, and hiring top talent in the competitive Web3 job market.
+ A guide for recruiters and hiring managers. Learn the effective strategies for
+ sourcing, vetting, and hiring top talent in the competitive Web3 job market.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,10 +1,10 @@
 ---
 title: 'Zero-Knowledge Proofs (ZKPs): A Simple Explanation'
 image: >-
-  https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWNofGVufDB8fHx8MTc1NDk1NTc5Mnww&lib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWNofGVufDB8fHx8MTc1NDk1NTc5Mnww&lib=rb-4.1.0&q=80&w=1080
 description: >-
-  An easy-to-understand guide to Zero-Knowledge Proofs. Learn how this
-  cryptography allows you to prove something is true without revealing.
+ An easy-to-understand guide to Zero-Knowledge Proofs. Learn how this
+ cryptography allows you to prove something is true without revealing.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: How Web3 Is Changing Logistics
 image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
 data-ai-hint: logistics supply chain
 description: >-
-  A deep dive into how blockchain technology is being applied to the logistics
-  industry, creating more transparent, efficient, and secure supply chains.
+ A deep dive into how blockchain technology is being applied to the logistics
+ industry, creating more transparent, efficient, and secure supply chains.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

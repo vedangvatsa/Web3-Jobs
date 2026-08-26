@@ -3,8 +3,8 @@ name: Chainalysis
 website: 'https://chainalysis.com'
 category: Blockchain Analytics
 description: >-
-  Chainalysis provides blockchain data and analysis for compliance and
-  investigation.
+ Chainalysis provides blockchain data and analysis for compliance and
+ investigation.
 ---
 
 Chainalysis offers blockchain data and analysis services to government agencies, financial institutions, and cryptocurrency businesses. Their products help clients detect and prevent fraud, comply with regulations, and conduct investigations into illicit activities involving cryptocurrencies. 

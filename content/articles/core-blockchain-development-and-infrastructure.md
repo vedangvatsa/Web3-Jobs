@@ -3,8 +3,8 @@ title: Core Blockchain Development and Infrastructure
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: blockchain infrastructure core
 description: >-
-  A career guide for engineers who want to build the core infrastructure of
-  Web3. Learn what a blockchain infrastructure engineer does, the skills they.
+ A career guide for engineers who want to build the core infrastructure of
+ Web3. Learn what a blockchain infrastructure engineer does, the skills they.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

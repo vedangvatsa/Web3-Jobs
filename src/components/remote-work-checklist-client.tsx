@@ -5,15 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Checkbox } from '@/components/ui/checkbox';
 import { Label } from '@/components/ui/label';
-import {
-  Briefcase,
-  Laptop,
-  Users,
-  BarChart,
-  Shield,
-  Heart,
-  Download,
-} from 'lucide-react';
+import { Download } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { CtaBanner } from '@/components/cta-banner';
@@ -23,7 +15,6 @@ const checklistData = {
   sections: [
     {
       title: 'Workspace Setup',
-      icon: Briefcase,
       items: [
         'Ergonomic chair with lumbar support',
         'Spacious desk (enough for dual monitors)',
@@ -41,7 +32,6 @@ const checklistData = {
     },
     {
       title: 'Hardware & Software',
-      icon: Laptop,
       items: [
         'Reliable laptop/desktop (16GB+ RAM min.)',
         'Operating system and drivers are fully updated',
@@ -55,7 +45,6 @@ const checklistData = {
     },
     {
       title: 'Communication & Collaboration',
-      icon: Users,
       items: [
         'Slack/Discord accounts set up and notifications tested',
         'Zoom/Google Meet with working camera and mic',
@@ -69,7 +58,6 @@ const checklistData = {
     },
     {
       title: 'Productivity & Workflow',
-      icon: BarChart,
       items: [
         'Defined morning "start work" ritual',
         'Daily to-do list or task board updated',
@@ -83,7 +71,6 @@ const checklistData = {
     },
     {
       title: 'Security & Privacy',
-      icon: Shield,
       items: [
         'Two-Factor Authentication (2FA) enabled on all accounts',
         'Secure password manager in use (e.g., Bitwarden)',
@@ -97,7 +84,6 @@ const checklistData = {
     },
     {
       title: 'Health & Wellbeing',
-      icon: Heart,
       items: [
         'Practice regular eye breaks (20-20-20 rule)',
         'Standing desk or desk converter for posture',

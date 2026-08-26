@@ -1,9 +1,9 @@
 ---
 title: 'Account Abstraction: A Deep Dive into the Future of Web3 Wallets'
 description: >-
-  Account Abstraction (EIP-4337) is set to change Web3 user experience. This
-  guide explains what it is, how it works, and why it's a significant
-  development that for.
+ Account Abstraction (EIP-4337) is set to change Web3 user experience. This
+ guide explains what it is, how it works, and why it's a significant
+ development that for.
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 category: Technology Deep Dives
 data-ai-hint: abstract shapes

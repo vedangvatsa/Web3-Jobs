@@ -3,9 +3,9 @@ title: Understanding Slashing in Proof of Stake Networks
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 data-ai-hint: crypto security risk
 description: >-
-  Slashing is the penalty mechanism in Proof-of-Stake blockchains that punishes
-  validators for malicious behavior or negligence, ensuring the network's
-  security.
+ Slashing is the penalty mechanism in Proof-of-Stake blockchains that punishes
+ validators for malicious behavior or negligence, ensuring the network's
+ security.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

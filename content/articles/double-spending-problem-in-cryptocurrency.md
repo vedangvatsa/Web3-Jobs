@@ -1,8 +1,8 @@
 ---
 title: Double-Spending Problem in Cryptocurrency Explained
 description: >-
-  A simple guide to understanding the double-spending problem, a fundamental
-  challenge in digital currency, and how blockchains like Bitcoin solve it.
+ A simple guide to understanding the double-spending problem, a fundamental
+ challenge in digital currency, and how blockchains like Bitcoin solve it.
 category: Educational
 image: 'https://picsum.photos/seed/doublespend/1200/630'
 data-ai-hint: double spend

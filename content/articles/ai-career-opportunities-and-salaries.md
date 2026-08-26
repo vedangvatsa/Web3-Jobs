@@ -3,8 +3,8 @@ title: AI Career Opportunities and Salaries
 image: 'https://picsum.photos/seed/ai-career/1200/630'
 data-ai-hint: person climbing stairs
 description: >-
-  A look at the most in-demand AI careers, the skills you need to get them, and
-  the salary ranges you can expect. From engineering to product management.
+ A look at the most in-demand AI careers, the skills you need to get them, and
+ the salary ranges you can expect. From engineering to product management.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -5,8 +5,8 @@ founded: 2020
 category: Blockchain Intelligence & Compliance
 headquarters: 'San Francisco, California, USA'
 description: >-
-  Leading blockchain intelligence platform for detecting crypto-enabled crime
-  and ensuring compliance
+ Leading blockchain intelligence platform for detecting crypto-enabled crime
+ and ensuring compliance
 ---
 
 TRM Labs is a blockchain intelligence company that delivers technology and analysis to detect crypto-enabled crime, ensuring compliance and safety worldwide. The company helps financial institutions, governments, and crypto businesses fight fraud, money laundering, and financial crime using blockchain data and advanced analytics.

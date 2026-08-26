@@ -3,8 +3,8 @@ title: What is a Whitepaper in Blockchain Projects
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: document paper
 description: >-
-  A guide to understanding the role of a whitepaper in Web3. Learn what it is,
-  what it should contain, and why it's the most critical document for any new.
+ A guide to understanding the role of a whitepaper in Web3. Learn what it is,
+ what it should contain, and why it's the most critical document for any new.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

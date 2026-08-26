@@ -3,8 +3,8 @@ title: What is a Liquidity Bootstrapping Pool
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: liquidity pool crypto
 description: >-
-  A Liquidity Bootstrapping Pool (LBP) is a type of token sale mechanism that
-  uses a dynamic weighting system to create a fair and bot-resistant price.
+ A Liquidity Bootstrapping Pool (LBP) is a type of token sale mechanism that
+ uses a dynamic weighting system to create a fair and bot-resistant price.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

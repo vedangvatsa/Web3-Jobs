@@ -3,9 +3,9 @@ title: 'Web3 Jobs in Miami: A Guide to the ''Capital of Capital'''
 image: /images/usa-web3-jobs-by-hashtag-web3.jpg
 data-ai-hint: miami city usa
 description: >-
-  Web3 Jobs in Miami | $80K-$250K+ Salary | Crypto Finance Hub 2026. Venture
-  capital, trading, marketing & community roles. Top companies, visa
-  sponsorship.
+ Web3 Jobs in Miami | $80K-$250K+ Salary | Crypto Finance Hub 2026. Venture
+ capital, trading, marketing & community roles. Top companies, visa
+ sponsorship.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

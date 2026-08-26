@@ -1,9 +1,9 @@
 ---
 title: What is Block Propagation in Blockchain Networks?
 description: >-
-  Explore the critical process of block propagation, how new blocks travel
-  through a decentralized network, and why its speed is important for
-  blockchain.
+ Explore the critical process of block propagation, how new blocks travel
+ through a decentralized network, and why its speed is important for
+ blockchain.
 category: Educational
 image: 'https://picsum.photos/seed/propagate/1200/630'
 data-ai-hint: block propagation

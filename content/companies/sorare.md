@@ -3,8 +3,8 @@ name: Sorare
 website: 'https://sorare.com'
 category: NFT Platform
 description: >-
-  Sorare is a fantasy sports platform using blockchain technology for digital
-  collectibles.
+ Sorare is a fantasy sports platform using blockchain technology for digital
+ collectibles.
 ---
 
 Sorare allows users to buy, sell, trade, and manage a virtual team with officially licensed digital player cards. The platform focuses on soccer, featuring partnerships with various professional leagues and clubs. Users can participate in fantasy leagues and tournaments, earning rewards based on real-world player performances.

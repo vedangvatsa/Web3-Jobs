@@ -2,9 +2,9 @@
 title: 'Account Abstraction Explained: How Smart Wallets Improve Web3 Onboarding'
 image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
 description: >-
-  A deep dive into Account Abstraction (EIP-4337), explaining how it works,
-  specific UX improvements it enables (social recovery, gasless transactions,
-  MFA), and how it reduces Web3 onboarding friction.
+ A deep dive into Account Abstraction (EIP-4337), explaining how it works,
+ specific UX improvements it enables (social recovery, gasless transactions,
+ MFA), and how it reduces Web3 onboarding friction.
 category: Technology Deep Dives
 data-ai-hint: abstract shapes
 publishedDate: '2026-03-11'

@@ -3,9 +3,9 @@ title: 'Web3 BD Strategy 2026: How to Land $110K-$220K Partnerships Roles'
 image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
 data-ai-hint: business development handshake
 description: >-
-  Master Web3 business development in 2026. Proven strategies for partnerships,
-  integrations, and ecosystem growth. How to land $110K-$220K BD roles at top
-  crypto projects.
+ Master Web3 business development in 2026. Proven strategies for partnerships,
+ integrations, and ecosystem growth. How to land $110K-$220K BD roles at top
+ crypto projects.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

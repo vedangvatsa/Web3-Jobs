@@ -1,9 +1,9 @@
 ---
 title: What is a DAO Treasury and How is it Managed
 description: >-
-  A DAO treasury is the financial backbone of a decentralized organization.
-  Learn how treasuries are funded, managed through multisigs and governance, and
-  used to fund project growth.
+ A DAO treasury is the financial backbone of a decentralized organization.
+ Learn how treasuries are funded, managed through multisigs and governance, and
+ used to fund project growth.
 image: /images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
 category: Educational
 data-ai-hint: finance chart

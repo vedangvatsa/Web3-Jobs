@@ -3,8 +3,8 @@ title: How to Get Started as a Web3 Cryptocurrency Venture Capital Analyst
 image: /images/possessed-photography-jIBMSMs4_kA-unsplash.jpg
 data-ai-hint: venture capital crypto
 description: >-
-  A guide for aspiring crypto investors. Learn what a Web3 VC analyst does, the
-  skills needed to succeed, and how to break into a role at a crypto venture.
+ A guide for aspiring crypto investors. Learn what a Web3 VC analyst does, the
+ skills needed to succeed, and how to break into a role at a crypto venture.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -5,8 +5,8 @@ founded: 2018
 category: Infrastructure / RPC
 headquarters: Singapore
 description: >-
-  Managed blockchain infrastructure providing RPC node services across multiple
-  protocols
+ Managed blockchain infrastructure providing RPC node services across multiple
+ protocols
 ---
 
 Managed blockchain infrastructure providing RPC node services across multiple protocols.

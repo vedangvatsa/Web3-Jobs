@@ -3,8 +3,8 @@ title: What is Ethereum? The World Computer
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 data-ai-hint: ethereum network
 description: >-
-  A full guide to Ethereum, the decentralized, open-source blockchain that
-  pioneered smart contracts and powers the vast majority of the Web3 ecosystem.
+ A full guide to Ethereum, the decentralized, open-source blockchain that
+ pioneered smart contracts and powers the vast majority of the Web3 ecosystem.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

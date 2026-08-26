@@ -3,8 +3,8 @@ title: Blockchain Use Cases Beyond Cryptocurrency
 image: /images/johannes-plenio-FZpCcPss9to-unsplash.jpg
 data-ai-hint: blockchain use case
 description: >-
-  A look at the diverse applications of blockchain technology beyond finance,
-  including supply chain management, voting systems, digital identity, and more.
+ A look at the diverse applications of blockchain technology beyond finance,
+ including supply chain management, voting systems, digital identity, and more.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

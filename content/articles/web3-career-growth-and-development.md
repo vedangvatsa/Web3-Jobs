@@ -3,9 +3,9 @@ title: A Guide to Web3 Career Growth and Development
 image: /images/markus-spiske-iar-afB0QQw-unsplash.jpg
 data-ai-hint: career growth chart
 description: >-
-  How to grow your career in the fast-paced Web3 industry. This guide covers
-  strategies for continuous learning, specialization, and moving into
-  leadership.
+ How to grow your career in the fast-paced Web3 industry. This guide covers
+ strategies for continuous learning, specialization, and moving into
+ leadership.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

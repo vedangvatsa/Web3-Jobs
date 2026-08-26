@@ -3,8 +3,8 @@ title: The Remote Web3 Team Playbook
 image: /images/chris-ried-bN5XdU-bap4-unsplash.jpg
 data-ai-hint: remote team work
 description: >-
-  A guide for leaders and members of remote Web3 teams. Learn the best practices
-  for communication, collaboration, and building a strong culture in a.
+ A guide for leaders and members of remote Web3 teams. Learn the best practices
+ for communication, collaboration, and building a strong culture in a.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

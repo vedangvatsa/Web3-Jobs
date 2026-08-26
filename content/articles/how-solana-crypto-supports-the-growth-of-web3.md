@@ -3,8 +3,8 @@ title: How Solana Crypto Supports the Growth of Web3
 image: /images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg
 data-ai-hint: solana crypto web3
 description: >-
-  Learn how Solana's speed and affordability enable NFTs, DeFi, and consumer
-  applications.
+ Learn how Solana's speed and affordability enable NFTs, DeFi, and consumer
+ applications.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

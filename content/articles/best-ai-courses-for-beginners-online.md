@@ -3,8 +3,8 @@ title: Best AI Courses for Beginners Online
 image: 'https://picsum.photos/seed/ai-courses/1200/630'
 data-ai-hint: person online learning
 description: >-
-  A curated list of the best online courses for beginners to learn AI. Covering
-  options for both non-technical learners and aspiring programmers.
+ A curated list of the best online courses for beginners to learn AI. Covering
+ options for both non-technical learners and aspiring programmers.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

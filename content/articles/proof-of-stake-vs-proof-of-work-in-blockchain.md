@@ -3,9 +3,9 @@ title: Proof of Stake vs Proof of Work in Blockchain
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: balance scale
 description: >-
-  A clear comparison of the two major blockchain consensus mechanisms:
-  Proof-of-Work (PoW) and Proof-of-Stake (PoS). Understand how they work, their
-  pros.
+ A clear comparison of the two major blockchain consensus mechanisms:
+ Proof-of-Work (PoW) and Proof-of-Stake (PoS). Understand how they work, their
+ pros.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

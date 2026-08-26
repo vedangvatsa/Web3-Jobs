@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Algiers: A Guide to Algeria''s Tech Awakening'
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: algiers algeria city
 description: >-
-  A career guide to the emerging Web3 job market in Algiers. Explore how
-  Algeria's capital, with its strong youth demographic and focus on tech.
+ A career guide to the emerging Web3 job market in Algiers. Explore how
+ Algeria's capital, with its strong youth demographic and focus on tech.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

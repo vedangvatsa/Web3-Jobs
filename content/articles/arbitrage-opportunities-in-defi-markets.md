@@ -1,8 +1,8 @@
 ---
 title: Arbitrage Opportunities in DeFi Markets Explained
 description: >-
-  A guide to understanding arbitrage in DeFi, a trading strategy that exploits
-  price differences for the same asset across different exchanges to make a.
+ A guide to understanding arbitrage in DeFi, a trading strategy that exploits
+ price differences for the same asset across different exchanges to make a.
 category: Educational
 image: 'https://picsum.photos/seed/arbitrage/1200/630'
 data-ai-hint: arbitrage opportunities

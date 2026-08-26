@@ -3,8 +3,8 @@ title: Understanding Gas Fees and Optimization in Ethereum
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: ethereum gas fees
 description: >-
-  A guide to understanding how gas fees work on Ethereum. We break down the
-  components of a transaction fee and explore key techniques for writing.
+ A guide to understanding how gas fees work on Ethereum. We break down the
+ components of a transaction fee and explore key techniques for writing.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

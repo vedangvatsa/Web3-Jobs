@@ -3,9 +3,9 @@ title: The Future of Decentralized Compute
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: decentralized compute network
 description: >-
-  An overview of Decentralized Compute networks, a Web3 sector using crypto
-  incentives to build a more open and resilient alternative to centralized
-  cloud.
+ An overview of Decentralized Compute networks, a Web3 sector using crypto
+ incentives to build a more open and resilient alternative to centralized
+ cloud.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

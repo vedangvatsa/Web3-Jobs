@@ -3,9 +3,9 @@ title: Coworking Spaces vs Home Office
 image: 'https://picsum.photos/seed/coworking-home/1200/630'
 data-ai-hint: office desk laptop
 description: >-
-  A comparison of working from a coworking space versus a home office.
-  Understand the pros and cons of each to decide which is best for your
-  productivity.
+ A comparison of working from a coworking space versus a home office.
+ Understand the pros and cons of each to decide which is best for your
+ productivity.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

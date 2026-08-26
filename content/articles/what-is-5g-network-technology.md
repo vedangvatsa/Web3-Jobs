@@ -2,8 +2,8 @@
 title: What is 5G Network Technology
 image: 'https://picsum.photos/seed/5g-network/1200/630'
 description: >-
-  A simple guide to 5G, the fifth generation of wireless technology, explaining
-  its key benefits like faster speeds, lower latency, and greater capacity.
+ A simple guide to 5G, the fifth generation of wireless technology, explaining
+ its key benefits like faster speeds, lower latency, and greater capacity.
 category: Educational
 data-ai-hint: cell tower
 publishedDate: '2026-03-11'

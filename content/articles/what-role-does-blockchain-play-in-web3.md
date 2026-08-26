@@ -3,8 +3,8 @@ title: What Role Does Blockchain Play in Web3?
 image: /images/aideal-hwa-OYzbqk2y26c-unsplash.jpg
 data-ai-hint: blockchain web3 technology
 description: >-
-  An explanation of the fundamental role that blockchain technology plays as the
-  secure and decentralized foundation of the Web3 ecosystem.
+ An explanation of the fundamental role that blockchain technology plays as the
+ secure and decentralized foundation of the Web3 ecosystem.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

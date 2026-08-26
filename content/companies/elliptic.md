@@ -3,8 +3,8 @@ name: Elliptic
 website: 'https://elliptic.co'
 category: Blockchain Analytics
 description: >-
-  Provides blockchain analytics and compliance solutions for cryptocurrency
-  businesses.
+ Provides blockchain analytics and compliance solutions for cryptocurrency
+ businesses.
 ---
 
 Elliptic specializes in blockchain analytics and compliance solutions, helping businesses manage risk in the cryptocurrency space. Their platform offers tools for transaction monitoring, risk assessment, and compliance reporting. Elliptic's services are used by financial institutions, cryptocurrency exchanges, and regulators to enhance their understanding of blockchain transactions.

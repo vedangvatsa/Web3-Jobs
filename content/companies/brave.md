@@ -5,8 +5,8 @@ founded: 2015
 category: Browser / Web3
 headquarters: 'San Francisco, California'
 description: >-
-  Privacy-focused web browser with integrated crypto wallet and BAT token
-  rewards
+ Privacy-focused web browser with integrated crypto wallet and BAT token
+ rewards
 ---
 
 Privacy-focused web browser with integrated crypto wallet and BAT token rewards.

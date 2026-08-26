@@ -3,8 +3,8 @@ title: Self-Sovereign Identity in Web3 Explained
 image: /images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg
 data-ai-hint: digital identity key
 description: >-
-  Understand how DIDs and self-sovereign identity give users control over their
-  digital credentials.
+ Understand how DIDs and self-sovereign identity give users control over their
+ digital credentials.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

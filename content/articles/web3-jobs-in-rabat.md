@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Rabat: A Guide to Morocco''s GovTech and R&D Scene'
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: rabat morocco city
 description: >-
-  A career guide to the Web3 job market in Rabat. Explore how Morocco's capital
-  is becoming a center for GovTech, research, and regulatory developments in.
+ A career guide to the Web3 job market in Rabat. Explore how Morocco's capital
+ is becoming a center for GovTech, research, and regulatory developments in.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

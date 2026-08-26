@@ -3,9 +3,9 @@ title: On-Chain Identity Verification Explained
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: digital identity verification
 description: >-
-  A guide to on-chain identity verification, exploring how Web3 uses
-  technologies like DIDs and VCs to create a more secure, private, and
-  user-controlled.
+ A guide to on-chain identity verification, exploring how Web3 uses
+ technologies like DIDs and VCs to create a more secure, private, and
+ user-controlled.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

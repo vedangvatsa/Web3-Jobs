@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Kolkata: A Guide to the Cultural Capital''s Crypto Scene'
 image: /images/india-web3-jobs.jpg
 data-ai-hint: kolkata city india
 description: >-
-  Explore the growing Web3 job market in Kolkata. This guide covers the city's
-  emerging role in the Indian blockchain ecosystem, with a focus on community.
+ Explore the growing Web3 job market in Kolkata. This guide covers the city's
+ emerging role in the Indian blockchain ecosystem, with a focus on community.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

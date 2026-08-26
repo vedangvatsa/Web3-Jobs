@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Freetown: A Guide to Sierra Leone''s Digital Renaissance'
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: freetown sierra leone city
 description: >-
-  A career guide to the emerging Web3 job market in Freetown. Explore how Sierra
-  Leone's capital is using blockchain for governance and financial inclusion.
+ A career guide to the emerging Web3 job market in Freetown. Explore how Sierra
+ Leone's capital is using blockchain for governance and financial inclusion.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -4,8 +4,8 @@ date: '2025-08-16'
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: person preparing interview
 description: >-
-  Discover practical strategies to manage and overcome job interview anxiety.
-  Learn how to improving how nervous energy into confidence and make a lasting.
+ Discover practical strategies to manage and overcome job interview anxiety.
+ Learn how to improving how nervous energy into confidence and make a lasting.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

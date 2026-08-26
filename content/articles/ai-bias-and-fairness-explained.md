@@ -3,8 +3,8 @@ title: AI Bias and Fairness Explained
 image: 'https://picsum.photos/seed/ai-bias/1200/630'
 data-ai-hint: unbalanced scale
 description: >-
-  A clear explanation of how bias gets into AI systems and why it matters. Learn
-  about the different types of bias and the strategies used to build fairer AI.
+ A clear explanation of how bias gets into AI systems and why it matters. Learn
+ about the different types of bias and the strategies used to build fairer AI.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

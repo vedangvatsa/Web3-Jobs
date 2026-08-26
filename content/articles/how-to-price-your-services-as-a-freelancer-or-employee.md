@@ -3,8 +3,8 @@ title: How to Price Your Services as a Freelancer or Employee
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: money price tag
 description: >-
-  Calculate competitive rates based on experience, specialization, and market
-  demand.
+ Calculate competitive rates based on experience, specialization, and market
+ demand.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

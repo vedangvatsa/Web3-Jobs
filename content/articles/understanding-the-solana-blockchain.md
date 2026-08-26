@@ -3,8 +3,8 @@ title: Understanding the Solana Blockchain
 image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
 data-ai-hint: solana blockchain
 description: >-
-  Understand Solana's architecture, advantages, and ecosystem for DeFi and Web3
-  applications.
+ Understand Solana's architecture, advantages, and ecosystem for DeFi and Web3
+ applications.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

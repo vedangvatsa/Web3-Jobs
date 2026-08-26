@@ -4,16 +4,9 @@ import Link from 'next/link';
 import type { ResourcePage, ToolItem } from '@/types/pseo';
 import { useState, useEffect } from 'react';
 import {
-  Lightbulb,
-  CheckSquare,
-  AlertTriangle,
-  Wrench,
-  BookOpen,
   ArrowLeft,
   ExternalLink,
-  Clock,
   ChevronRight,
-  Check,
 } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
@@ -40,12 +33,12 @@ function titleToSlug(title: string): string {
     .trim();
 }
 
-const TYPE_META: Record<string, { label: string; icon: React.ElementType }> = {
-  ideas: { label: 'Project Ideas', icon: Lightbulb },
-  checklists: { label: 'Checklist', icon: CheckSquare },
-  mistakes: { label: 'Common Mistakes', icon: AlertTriangle },
-  tools: { label: 'Tools Directory', icon: Wrench },
-  guides: { label: 'Guide', icon: BookOpen },
+const TYPE_META: Record<string, { label: string }> = {
+  ideas: { label: 'Project Ideas' },
+  checklists: { label: 'Checklist' },
+  mistakes: { label: 'Common Mistakes' },
+  tools: { label: 'Tools Directory' },
+  guides: { label: 'Guide' },
 };
 
 const nicheLabels: Record<string, string> = {
@@ -301,11 +294,7 @@ function IdeasContent({
                   </p>
                   {(timeText || (item.skills && item.skills.length > 0)) && (
                     <div className="flex items-center gap-2 flex-wrap text-xs text-muted-foreground font-mono pt-1">
-                      {timeText && (
-                        <span className="inline-flex items-center gap-1">
-                          <Clock className="h-3 w-3" /> {timeText}
-                        </span>
-                      )}
+                      {timeText && <span>{timeText}</span>}
                       {item.skills?.map((skill, i) => (
                         <Badge key={i} variant="secondary" className="text-[10px] font-normal">
                           {skill}

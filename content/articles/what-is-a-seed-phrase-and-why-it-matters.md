@@ -3,8 +3,8 @@ title: What is a Seed Phrase and Why It Matters
 image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
 data-ai-hint: security key crypto
 description: >-
-  Your seed phrase is the master key to your crypto wallet. This guide explains
-  what it is, how it works, and the critical importance of keeping it secure.
+ Your seed phrase is the master key to your crypto wallet. This guide explains
+ what it is, how it works, and the critical importance of keeping it secure.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

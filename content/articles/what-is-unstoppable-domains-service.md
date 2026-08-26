@@ -3,8 +3,8 @@ title: What is Unstoppable Domains Service
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: domain name
 description: >-
-  Unstoppable Domains is a service that provides NFT-based domain names for the
-  decentralized web. This guide explains how it works, its features, and how.
+ Unstoppable Domains is a service that provides NFT-based domain names for the
+ decentralized web. This guide explains how it works, its features, and how.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

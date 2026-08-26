@@ -3,9 +3,9 @@ title: 'Web3 Jobs in Casablanca: A Guide to Morocco''s Economic Hub'
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: casablanca morocco city
 description: >-
-  A career guide to the emerging Web3 job market in Casablanca. Explore
-  Morocco's growing interest in blockchain, its FinTech scene, and the
-  opportunities.
+ A career guide to the emerging Web3 job market in Casablanca. Explore
+ Morocco's growing interest in blockchain, its FinTech scene, and the
+ opportunities.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

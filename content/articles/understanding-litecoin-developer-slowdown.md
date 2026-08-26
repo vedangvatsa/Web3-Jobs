@@ -1,8 +1,8 @@
 ---
 title: Understanding the Litecoin Developer Activity Slowdown
 description: >-
-  An analysis of the perceived slowdown in Litecoin's developer activity. We
-  explore the data, the context, and what it means for the future of one of.
+ An analysis of the perceived slowdown in Litecoin's developer activity. We
+ explore the data, the context, and what it means for the future of one of.
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 category: Industry Insights
 data-ai-hint: crypto chart graph

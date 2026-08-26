@@ -1,9 +1,9 @@
 ---
 title: 'AI vs. Human Intelligence: A Complete Comparison'
 description: >-
-  An in-depth look at the fundamental differences between artificial
-  intelligence and human cognition, exploring their unique strengths and
-  weaknesses in learning, creativity, and adaptability.
+ An in-depth look at the fundamental differences between artificial
+ intelligence and human cognition, exploring their unique strengths and
+ weaknesses in learning, creativity, and adaptability.
 image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 category: Industry Insights
 data-ai-hint: woman laptop

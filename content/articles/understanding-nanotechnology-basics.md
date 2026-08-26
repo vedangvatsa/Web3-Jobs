@@ -1,8 +1,8 @@
 ---
 title: Understanding Nanotechnology Basics
 description: >-
-  Explore nanoscale engineering and its applications across medicine, materials
-  science, and manufacturing.
+ Explore nanoscale engineering and its applications across medicine, materials
+ science, and manufacturing.
 category: Educational
 image: 'https://picsum.photos/seed/nanotech/1200/630'
 data-ai-hint: nanotechnology atoms

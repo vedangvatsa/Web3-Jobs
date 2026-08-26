@@ -3,9 +3,9 @@ title: 'Web3 Jobs in Austin: Silicon Hills Crypto Scene'
 image: /images/usa-web3-jobs-by-hashtag-web3.jpg
 data-ai-hint: austin city usa
 description: >-
-  A career guide to the Web3 job market in Austin, Texas. Discover why this
-  booming tech hub is becoming a major center for crypto innovation, from
-  Bitcoin.
+ A career guide to the Web3 job market in Austin, Texas. Discover why this
+ booming tech hub is becoming a major center for crypto innovation, from
+ Bitcoin.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

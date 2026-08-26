@@ -1,10 +1,10 @@
 ---
 title: What is Yield Farming? A Guide to Earning Passive Income in DeFi
 image: >-
-  https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpbmNvbWV8ZW58MHx8fHwxNzU1MDA3MTkxfDA&lib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpbmNvbWV8ZW58MHx8fHwxNzU1MDA3MTkxfDA&lib=rb-4.1.0&q=80&w=1080
 description: >-
-  A deep dive into yield farming, the art of maximizing returns in Decentralized
-  Finance (DeFi). Learn the strategies, the risks, and how it powers the DeFi.
+ A deep dive into yield farming, the art of maximizing returns in Decentralized
+ Finance (DeFi). Learn the strategies, the risks, and how it powers the DeFi.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

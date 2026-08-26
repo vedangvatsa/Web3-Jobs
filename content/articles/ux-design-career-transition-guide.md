@@ -1,8 +1,8 @@
 ---
 title: 'UX Design Career Transition Guide: How to Make the Switch'
 description: >-
-  A step-by-step guide for professionals looking to transition into a career in
-  UX/UI design. Learn the essential skills, tools, portfolio-building.
+ A step-by-step guide for professionals looking to transition into a career in
+ UX/UI design. Learn the essential skills, tools, portfolio-building.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: winding road
 category: Career Guides

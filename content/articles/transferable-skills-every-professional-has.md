@@ -2,8 +2,8 @@
 title: Transferable Skills That Every Professional Has (And How to Use Them)
 image: 'https://picsum.photos/seed/tsseph/1200/630'
 description: >-
-  Think you don't have the right experience for a job? You probably have more
-  valuable skills than you realize. Learn how to identify and use your.
+ Think you don't have the right experience for a job? You probably have more
+ valuable skills than you realize. Learn how to identify and use your.
 category: Career Guides
 data-ai-hint: career skills
 publishedDate: '2026-03-11'

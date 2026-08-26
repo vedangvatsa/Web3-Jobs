@@ -3,8 +3,8 @@ name: Morpho
 website: 'https://morpho.xyz'
 category: DeFi Protocol
 description: >-
-  Morpho is a decentralized finance protocol focused on optimizing lending and
-  borrowing.
+ Morpho is a decentralized finance protocol focused on optimizing lending and
+ borrowing.
 ---
 
 Morpho provides a platform that enhances the efficiency of lending and borrowing in decentralized finance. The protocol allows users to access liquidity while maintaining control over their assets. Morpho's unique approach aims to improve capital efficiency by connecting lenders and borrowers directly, minimizing the need for intermediaries.

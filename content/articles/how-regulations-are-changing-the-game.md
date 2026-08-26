@@ -3,8 +3,8 @@ title: How Regulations and Culture Are Changing the Game in Web3
 image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
 data-ai-hint: regulation law culture
 description: >-
-  An analysis of the dual forces shaping the Web3 industry: a fast-changing
-  regulatory space and a powerful, crypto-native culture. Learn how these.
+ An analysis of the dual forces shaping the Web3 industry: a fast-changing
+ regulatory space and a powerful, crypto-native culture. Learn how these.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

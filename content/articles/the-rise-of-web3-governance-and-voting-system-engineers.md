@@ -3,9 +3,9 @@ title: The Rise of Web3 Governance and Voting System Engineers
 image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 data-ai-hint: governance meeting people
 description: >-
-  A look at the specialized engineering roles focused on building and
-  maintaining the governance and voting systems for DAOs and decentralized
-  protocols.
+ A look at the specialized engineering roles focused on building and
+ maintaining the governance and voting systems for DAOs and decentralized
+ protocols.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

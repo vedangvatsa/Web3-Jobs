@@ -3,8 +3,8 @@ title: Web3 Business Development Career Guide
 image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg
 data-ai-hint: business development crypto
 description: >-
-  A career guide for Web3 Business Development (BizDev) and partnership roles.
-  Learn how BizDev drives growth in a composable, interconnected ecosystem.
+ A career guide for Web3 Business Development (BizDev) and partnership roles.
+ Learn how BizDev drives growth in a composable, interconnected ecosystem.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

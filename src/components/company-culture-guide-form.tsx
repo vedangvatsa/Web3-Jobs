@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent, CardDescription } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
-import { Download, Plus, Trash2, CheckCircle, Target, Zap, Settings } from 'lucide-react';
+import { Download, Plus, Trash2 } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { CtaBanner } from '@/components/cta-banner';
 import { createPdfInstance, addPdfHeading } from '@/lib/pdf-utils';
@@ -141,12 +141,10 @@ export function CompanyCultureGuideForm() {
 
   const SectionCard = ({
     title,
-    icon: Icon,
     description,
     children,
   }: {
     title: string;
-    icon: React.ElementType;
     description: string;
     children: React.ReactNode;
   }) => (
@@ -176,7 +174,6 @@ export function CompanyCultureGuideForm() {
 
             <SectionCard
               title="Mission & Vision"
-              icon={Target}
               description="Define your company's ultimate purpose and long-term aspiration."
             >
               <Textarea
@@ -193,7 +190,6 @@ export function CompanyCultureGuideForm() {
 
             <SectionCard
               title="Core Values"
-              icon={CheckCircle}
               description="List the fundamental beliefs and principles that guide your team's behavior."
             >
               {fields.map((field, index) => (
@@ -230,7 +226,6 @@ export function CompanyCultureGuideForm() {
 
             <SectionCard
               title="Ways of Working"
-              icon={Zap}
               description="Detail the practical philosophies that define your day-to-day operations."
             >
               <Textarea
@@ -262,7 +257,6 @@ export function CompanyCultureGuideForm() {
 
             <SectionCard
               title="People & Tools"
-              icon={Settings}
               description="Outline your approach to hiring and the tools that power your team."
             >
               <Textarea

@@ -3,8 +3,8 @@ title: How to Land High-Paying Web3 Gigs
 image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
 data-ai-hint: career success money
 description: >-
-  A strategic guide to landing high-paying freelance and full-time roles in the
-  Web3 industry. Learn how to build a high-value portfolio, network.
+ A strategic guide to landing high-paying freelance and full-time roles in the
+ Web3 industry. Learn how to build a high-value portfolio, network.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

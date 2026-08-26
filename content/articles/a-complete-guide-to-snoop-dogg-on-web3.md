@@ -1,8 +1,8 @@
 ---
 title: Snoop Dogg in Web3
 description: >-
-  Discover how hip-hop legend Snoop Dogg became a major figure in the Web3 and
-  NFT space. This guide covers his NFT collections, his creation of a virtual.
+ Discover how hip-hop legend Snoop Dogg became a major figure in the Web3 and
+ NFT space. This guide covers his NFT collections, his creation of a virtual.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man singing

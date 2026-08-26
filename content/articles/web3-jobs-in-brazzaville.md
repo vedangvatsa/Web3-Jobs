@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Brazzaville: A Guide to the Republic of the Congo''s Tech S
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: brazzaville congo city
 description: >-
-  A career guide to the emerging Web3 job market in Brazzaville. Explore how the
-  capital of the Republic of the Congo is beginning to engage with blockchain.
+ A career guide to the emerging Web3 job market in Brazzaville. Explore how the
+ capital of the Republic of the Congo is beginning to engage with blockchain.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

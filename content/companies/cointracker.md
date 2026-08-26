@@ -3,8 +3,8 @@ name: CoinTracker
 website: 'https://cointracker.io'
 category: Other
 description: >-
-  CoinTracker provides cryptocurrency portfolio tracking and tax reporting
-  solutions.
+ CoinTracker provides cryptocurrency portfolio tracking and tax reporting
+ solutions.
 ---
 
 CoinTracker offers tools for tracking cryptocurrency portfolios and calculating taxes on crypto transactions. The platform supports various exchanges and wallets, allowing users to manage their digital assets efficiently. CoinTracker automates the tax reporting process, helping users generate necessary tax forms based on their trading activity.

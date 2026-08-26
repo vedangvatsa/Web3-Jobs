@@ -1,353 +1,353 @@
 {
-  "meta": {
-    "contentType": "mistakes",
-    "topic": "security",
-    "niche": "zk-engineer",
-    "generatedAt": "2026-05-17T16:55:57.098Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "Critical Security Mistakes ZK Engineers Make",
-    "description": "Learn from common security mistakes in zero-knowledge development. Avoid underconstrained circuits, faulty arithmetic, and verification bugs.",
-    "keywords": [
-      "zk-engineer",
-      "security",
-      "mistakes",
-      "circuits",
-      "constraints"
-    ],
-    "canonicalSlug": "security-mistakes-for-zk-engineer"
-  },
-  "content": {
-    "intro": "ZK circuits are unforgiving. A single missing constraint can allow provers to generate valid proofs for false statements. Learn from these critical mistakes.",
-    "sections": [
-      {
-        "heading": "Constraint Mistakes",
-        "description": "Errors in circuit constraints.",
-        "items": [
-          {
-            "mistake": "Underconstrained signals",
-            "description": "Signals that do not appear in any constraint let provers choose arbitrary values. This breaks the entire proof.",
-            "severity": "critical",
-            "impact": "Prover can generate valid proofs for any output regardless of actual inputs.",
-            "prevention": "Audit every signal. Each must appear in at least one constraint or be derived from constrained values.",
-            "example": "A public output signal that is assigned but never constrained to match the computation.",
-            "title": "Underconstrained signals"
-          },
-          {
-            "mistake": "Missing boolean constraints",
-            "description": "Treating a signal as boolean without constraining it to 0 or 1. Field elements have many other values.",
-            "severity": "critical",
-            "impact": "Prover can use non-boolean values, breaking conditional logic.",
-            "prevention": "Always add `signal * (signal - 1) === 0` for any boolean signal.",
-            "example": "A bit decomposition where each bit is not constrained to be 0 or 1.",
-            "title": "Missing boolean constraints"
-          },
-          {
-            "mistake": "Forgetting to constrain array indices",
-            "description": "Array lookups where the index is not constrained to valid range.",
-            "severity": "high",
-            "impact": "Out-of-bounds access can leak information or cause unexpected behavior.",
-            "prevention": "Add range checks for all array indices.",
-            "example": "Merkle tree path index that could be any field element, not just 0 or 1.",
-            "title": "Forgetting to constrain array indices"
-          },
-          {
-            "mistake": "Incomplete Merkle proof verification",
-            "description": "Not constraining every step of Merkle path or getting left/right ordering wrong.",
-            "severity": "critical",
-            "impact": "Invalid proofs accepted. Non-existent leaves proven to exist.",
-            "prevention": "Verify each hash step. Test with known roots.",
-            "example": "Skipping the final hash comparison against the claimed root.",
-            "title": "Incomplete Merkle proof verification"
-          }
-        ]
-      },
-      {
-        "heading": "Arithmetic Mistakes",
-        "description": "Finite field arithmetic errors.",
-        "items": [
-          {
-            "mistake": "Field overflow assumptions",
-            "description": "Assuming arithmetic works like integers. Field arithmetic wraps at the modulus.",
-            "severity": "critical",
-            "impact": "Large numbers wrap to small numbers. Comparisons break. Security assumptions fail.",
-            "prevention": "Add range checks. Be explicit about field size assumptions.",
-            "example": "Adding two large numbers expecting a larger result, but getting a small wrapped value.",
-            "title": "Field overflow assumptions"
-          },
-          {
-            "mistake": "Division by zero",
-            "description": "Not checking that denominators are non-zero before division.",
-            "severity": "high",
-            "impact": "Undefined behavior. Prover might be able to exploit edge cases.",
-            "prevention": "Constrain denominators to be non-zero.",
-            "example": "Computing a/b without ensuring b != 0.",
-            "title": "Division by zero"
-          },
-          {
-            "mistake": "Square root non-uniqueness",
-            "description": "Field elements have two square roots. Not specifying which one is expected.",
-            "severity": "high",
-            "impact": "Prover can use either root, potentially breaking logic.",
-            "prevention": "Constrain which square root by adding sign or range constraints.",
-            "example": "Using sqrt in signature verification without constraining the sign.",
-            "title": "Square root non-uniqueness"
-          },
-          {
-            "mistake": "Bit decomposition reconstruction mismatch",
-            "description": "Decomposing to bits but not constraining that bits reconstruct to original value.",
-            "severity": "high",
-            "impact": "Bits do not represent the actual value. Proofs become meaningless.",
-            "prevention": "Always add reconstruction constraint: sum of bits * powers of 2 == original.",
-            "example": "Checking individual bits without verifying they sum to the original number.",
-            "title": "Bit decomposition reconstruction mismatch"
-          }
-        ]
-      },
-      {
-        "heading": "Cryptographic Primitive Mistakes",
-        "description": "Errors using hashes and signatures.",
-        "items": [
-          {
-            "mistake": "Unconstrained hash inputs",
-            "description": "Hash inputs that are not fully constrained allow hash manipulation.",
-            "severity": "critical",
-            "impact": "Prover can adjust unconstrained inputs to produce desired hash.",
-            "prevention": "Every hash input must be fully constrained by circuit logic.",
-            "example": "Hashing a message where part of the message is not constrained.",
-            "title": "Unconstrained hash inputs"
-          },
-          {
-            "mistake": "Partial signature verification",
-            "description": "Verifying only part of a signature or not including the message.",
-            "severity": "critical",
-            "impact": "Signature forgery. Proofs for unauthorized actions.",
-            "prevention": "Complete signature verification including message binding.",
-            "example": "Checking signature math without including the signed message in the check.",
-            "title": "Partial signature verification"
-          },
-          {
-            "mistake": "Non-deterministic nullifier derivation",
-            "description": "Nullifiers that can be computed multiple ways for the same underlying item.",
-            "severity": "critical",
-            "impact": "Double-spending. Same asset used multiple times with different nullifiers.",
-            "prevention": "Nullifier derivation must be deterministic and unique.",
-            "example": "Nullifier = hash(secret) without including asset ID. Same secret, different assets.",
-            "title": "Non-deterministic nullifier derivation"
-          },
-          {
-            "mistake": "Invalid curve point acceptance",
-            "description": "Not validating that public keys are valid points on the curve.",
-            "severity": "high",
-            "impact": "Invalid keys can cause signature verification to misbehave.",
-            "prevention": "Validate all external curve points are on the correct curve and subgroup.",
-            "example": "Accepting a public key without checking it's a valid elliptic curve point.",
-            "title": "Invalid curve point acceptance"
-          }
-        ]
-      },
-      {
-        "heading": "Setup and Verification Mistakes",
-        "description": "Errors in proof system setup and verification.",
-        "items": [
-          {
-            "mistake": "Single-party trusted setup",
-            "description": "Using setup parameters generated by one party. That party can create fake proofs.",
-            "severity": "critical",
-            "impact": "Setup generator can forge proofs for any statement.",
-            "prevention": "Use multi-party ceremonies (Powers of Tau) for trusted setup.",
-            "example": "Generating proving/verification keys locally instead of using ceremony output.",
-            "title": "Single-party trusted setup"
-          },
-          {
-            "mistake": "Reusing proving keys across circuits",
-            "description": "Using the same proving key for different circuits.",
-            "severity": "critical",
-            "impact": "Proofs from one circuit might be valid for another, breaking security.",
-            "prevention": "Each circuit requires its own setup. Never reuse keys.",
-            "example": "Deploying multiple ZK applications with the same verification key.",
-            "title": "Reusing proving keys across circuits"
-          },
-          {
-            "mistake": "Public input ordering mismatch",
-            "description": "Public inputs ordered differently between prover and verifier.",
-            "severity": "critical",
-            "impact": "Verification succeeds for wrong values. Proofs prove wrong things.",
-            "prevention": "Strict public input ordering. Test prover/verifier integration.",
-            "example": "Prover puts amount before address, verifier expects address before amount.",
-            "title": "Public input ordering mismatch"
-          },
-          {
-            "mistake": "Missing replay protection",
-            "description": "Proofs that can be replayed to repeat an action.",
-            "severity": "high",
-            "impact": "Same proof used multiple times. Actions repeated unintentionally.",
-            "prevention": "Include nonces, timestamps, or nullifiers in public inputs.",
-            "example": "Proof for 'send 10 tokens' can be submitted multiple times.",
-            "title": "Missing replay protection"
-          }
-        ]
-      },
-      {
-        "heading": "Application Integration Mistakes",
-        "description": "Errors connecting ZK proofs to applications.",
-        "items": [
-          {
-            "mistake": "Proof not bound to action",
-            "description": "Proof proves something but does not specify what action it authorizes.",
-            "severity": "high",
-            "impact": "Proof generated for one action used to authorize another.",
-            "prevention": "Include action identifier in public inputs.",
-            "example": "Proof of ownership used for both withdrawal and transfer.",
-            "title": "Proof not bound to action"
-          },
-          {
-            "mistake": "Not storing used nullifiers",
-            "description": "Accepting proofs without recording their nullifiers.",
-            "severity": "critical",
-            "impact": "Same proof used repeatedly. Double-spending.",
-            "prevention": "Store all spent nullifiers. Check before accepting proofs.",
-            "example": "Tornado Cash-style mixer without a nullifier set.",
-            "title": "Not storing used nullifiers"
-          },
-          {
-            "mistake": "Client-generated proofs without validation",
-            "description": "Accepting proofs from clients without validating the public inputs make sense.",
-            "severity": "high",
-            "impact": "Malicious clients submit proofs with manipulated public inputs.",
-            "prevention": "Validate public inputs server-side independent of the proof.",
-            "example": "Client claims amount=1000000 in public inputs. Server trusts it.",
-            "title": "Client-generated proofs without validation"
-          }
-        ]
-      },
-      {
-        "heading": "Performance and Implementation Mistakes",
-        "description": "Errors causing inefficiency or bugs in production.",
-        "items": [
-          {
-            "mistake": "Unnecessary constraint multiplication",
-            "description": "Using multiplications in constraints where additions suffice.",
-            "severity": "medium",
-            "impact": "Proving time increases significantly. Higher costs.",
-            "prevention": "Optimize constraint degree. Use linear constraints when possible.",
-            "example": "Using a * b when a + b achieves the same logical result.",
-            "title": "Unnecessary constraint multiplication"
-          },
-          {
-            "mistake": "No witness generation timeout",
-            "description": "Witness computation without time limits can hang indefinitely.",
-            "severity": "medium",
-            "impact": "Malicious inputs cause denial of service. Provers hang.",
-            "prevention": "Timeout on witness generation. Validate input complexity.",
-            "example": "Witness computation enters infinite loop on crafted input.",
-            "title": "No witness generation timeout"
-          },
-          {
-            "mistake": "Inconsistent endianness",
-            "description": "Mixing big and little endian in bit operations.",
-            "severity": "high",
-            "impact": "Values computed incorrectly. Proofs verify wrong data.",
-            "prevention": "Standardize endianness across all operations. Document clearly.",
-            "example": "Hash computed with LE bits, signature expects BE. Mismatch.",
-            "title": "Inconsistent endianness"
-          },
-          {
-            "mistake": "Memory exhaustion on large inputs",
-            "description": "Circuits that allocate based on input size without limits.",
-            "severity": "medium",
-            "impact": "Large inputs crash prover. Denial of service.",
-            "prevention": "Fixed maximum input sizes. Validate before circuit execution.",
-            "example": "Array size parameter causes allocation of billions of signals.",
-            "title": "Memory exhaustion on large inputs"
-          },
-          {
-            "mistake": "Debug code in production circuits",
-            "description": "Leaving console logs or debug constraints in deployed circuits.",
-            "severity": "medium",
-            "impact": "Information leakage. Unnecessary constraint overhead.",
-            "prevention": "Strip debug code for production builds. Code review.",
-            "example": "Circuit outputs intermediate values for debugging, revealing secrets.",
-            "title": "Debug code in production circuits"
-          },
-          {
-            "mistake": "Hardcoded test values",
-            "description": "Test private keys or constants left in production code.",
-            "severity": "critical",
-            "impact": "Anyone can use test keys to forge proofs.",
-            "prevention": "Separate test and production configurations. CI/CD checks.",
-            "example": "Test nullifier secret '12345' still accepted in production.",
-            "title": "Hardcoded test values"
-          }
-        ]
-      },
-      {
-        "heading": "Testing and Auditing Mistakes",
-        "description": "Errors in verification and quality assurance.",
-        "items": [
-          {
-            "mistake": "Only testing happy path",
-            "description": "Testing only valid proofs without testing rejection of invalid ones.",
-            "severity": "critical",
-            "impact": "Invalid proofs might be accepted. Soundness broken.",
-            "prevention": "Test malicious inputs. Fuzz testing. Adversarial tests.",
-            "example": "All tests pass valid proofs. No test checks rejection.",
-            "title": "Only testing happy path"
-          },
-          {
-            "mistake": "No formal verification",
-            "description": "Relying solely on manual review for critical circuits.",
-            "severity": "high",
-            "impact": "Subtle constraint bugs missed by human reviewers.",
-            "prevention": "Use formal verification tools like ecne, Circomspect.",
-            "example": "Manual audit missed underconstrained signal caught by tool.",
-            "title": "No formal verification"
-          },
-          {
-            "mistake": "Insufficient test coverage for edge cases",
-            "description": "Not testing boundary values and special cases.",
-            "severity": "high",
-            "impact": "Edge case inputs break circuit logic.",
-            "prevention": "Test min/max values. Zero values. Field boundary values.",
-            "example": "Circuit works for normal values but fails when input is 0.",
-            "title": "Insufficient test coverage for edge cases"
-          },
-          {
-            "mistake": "Not testing across proof systems",
-            "description": "Assuming circuit behaves identically across Groth16, PLONK, etc.",
-            "severity": "medium",
-            "impact": "Bugs appear only in specific proof system deployment.",
-            "prevention": "Test with target proof system. Understand system differences.",
-            "example": "Circuit works in Groth16 but has issues in PLONK due to lookups.",
-            "title": "Not testing across proof systems"
-          },
-          {
-            "mistake": "Ignoring compiler warnings",
-            "description": "Dismissing Circom or other compiler warnings as noise.",
-            "severity": "high",
-            "impact": "Warnings often indicate real constraint issues.",
-            "prevention": "Zero-warning policy. Investigate all warnings.",
-            "example": "Compiler warns about unused signal. Signal was meant to constrain output.",
-            "title": "Ignoring compiler warnings"
-          }
-        ]
-      }
-    ],
-    "additionalResources": [
-      {
-        "title": "ZK Circuit Security Checklist",
-        "slug": "security-checklists-for-zk-engineer"
-      },
-      {
-        "title": "Development Tools for ZK Engineers",
-        "slug": "development-tools-for-zk-engineer"
-      }
-    ],
-    "proTips": [
-      "If in doubt, add more constraints. Under-constrained circuits are the most dangerous bugs.",
-      "Use formal verification for critical circuits. Manual review alone is insufficient.",
-      "Keep circuit complexity low. Simpler circuits are easier to audit and prove."
-    ]
-  }
+ "meta": {
+ "contentType": "mistakes",
+ "topic": "security",
+ "niche": "zk-engineer",
+ "generatedAt": "2026-05-17T16:55:57.098Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "Critical Security Mistakes ZK Engineers Make",
+ "description": "Learn from common security mistakes in zero-knowledge development. Avoid underconstrained circuits, faulty arithmetic, and verification bugs.",
+ "keywords": [
+ "zk-engineer",
+ "security",
+ "mistakes",
+ "circuits",
+ "constraints"
+ ],
+ "canonicalSlug": "security-mistakes-for-zk-engineer"
+ },
+ "content": {
+ "intro": "ZK circuits are unforgiving. A single missing constraint can allow provers to generate valid proofs for false statements. Learn from these critical mistakes.",
+ "sections": [
+ {
+ "heading": "Constraint Mistakes",
+ "description": "Errors in circuit constraints.",
+ "items": [
+ {
+ "mistake": "Underconstrained signals",
+ "description": "Signals that do not appear in any constraint let provers choose arbitrary values. This breaks the entire proof.",
+ "severity": "critical",
+ "impact": "Prover can generate valid proofs for any output regardless of actual inputs.",
+ "prevention": "Audit every signal. Each must appear in at least one constraint or be derived from constrained values.",
+ "example": "A public output signal that is assigned but never constrained to match the computation.",
+ "title": "Underconstrained signals"
+ },
+ {
+ "mistake": "Missing boolean constraints",
+ "description": "Treating a signal as boolean without constraining it to 0 or 1. Field elements have many other values.",
+ "severity": "critical",
+ "impact": "Prover can use non-boolean values, breaking conditional logic.",
+ "prevention": "Always add `signal * (signal - 1) === 0` for any boolean signal.",
+ "example": "A bit decomposition where each bit is not constrained to be 0 or 1.",
+ "title": "Missing boolean constraints"
+ },
+ {
+ "mistake": "Forgetting to constrain array indices",
+ "description": "Array lookups where the index is not constrained to valid range.",
+ "severity": "high",
+ "impact": "Out-of-bounds access can leak information or cause unexpected behavior.",
+ "prevention": "Add range checks for all array indices.",
+ "example": "Merkle tree path index that could be any field element, not just 0 or 1.",
+ "title": "Forgetting to constrain array indices"
+ },
+ {
+ "mistake": "Incomplete Merkle proof verification",
+ "description": "Not constraining every step of Merkle path or getting left/right ordering wrong.",
+ "severity": "critical",
+ "impact": "Invalid proofs accepted. Non-existent leaves proven to exist.",
+ "prevention": "Verify each hash step. Test with known roots.",
+ "example": "Skipping the final hash comparison against the claimed root.",
+ "title": "Incomplete Merkle proof verification"
+ }
+ ]
+ },
+ {
+ "heading": "Arithmetic Mistakes",
+ "description": "Finite field arithmetic errors.",
+ "items": [
+ {
+ "mistake": "Field overflow assumptions",
+ "description": "Assuming arithmetic works like integers. Field arithmetic wraps at the modulus.",
+ "severity": "critical",
+ "impact": "Large numbers wrap to small numbers. Comparisons break. Security assumptions fail.",
+ "prevention": "Add range checks. Be explicit about field size assumptions.",
+ "example": "Adding two large numbers expecting a larger result, but getting a small wrapped value.",
+ "title": "Field overflow assumptions"
+ },
+ {
+ "mistake": "Division by zero",
+ "description": "Not checking that denominators are non-zero before division.",
+ "severity": "high",
+ "impact": "Undefined behavior. Prover might be able to exploit edge cases.",
+ "prevention": "Constrain denominators to be non-zero.",
+ "example": "Computing a/b without ensuring b != 0.",
+ "title": "Division by zero"
+ },
+ {
+ "mistake": "Square root non-uniqueness",
+ "description": "Field elements have two square roots. Not specifying which one is expected.",
+ "severity": "high",
+ "impact": "Prover can use either root, potentially breaking logic.",
+ "prevention": "Constrain which square root by adding sign or range constraints.",
+ "example": "Using sqrt in signature verification without constraining the sign.",
+ "title": "Square root non-uniqueness"
+ },
+ {
+ "mistake": "Bit decomposition reconstruction mismatch",
+ "description": "Decomposing to bits but not constraining that bits reconstruct to original value.",
+ "severity": "high",
+ "impact": "Bits do not represent the actual value. Proofs become meaningless.",
+ "prevention": "Always add reconstruction constraint: sum of bits * powers of 2 == original.",
+ "example": "Checking individual bits without verifying they sum to the original number.",
+ "title": "Bit decomposition reconstruction mismatch"
+ }
+ ]
+ },
+ {
+ "heading": "Cryptographic Primitive Mistakes",
+ "description": "Errors using hashes and signatures.",
+ "items": [
+ {
+ "mistake": "Unconstrained hash inputs",
+ "description": "Hash inputs that are not fully constrained allow hash manipulation.",
+ "severity": "critical",
+ "impact": "Prover can adjust unconstrained inputs to produce desired hash.",
+ "prevention": "Every hash input must be fully constrained by circuit logic.",
+ "example": "Hashing a message where part of the message is not constrained.",
+ "title": "Unconstrained hash inputs"
+ },
+ {
+ "mistake": "Partial signature verification",
+ "description": "Verifying only part of a signature or not including the message.",
+ "severity": "critical",
+ "impact": "Signature forgery. Proofs for unauthorized actions.",
+ "prevention": "Complete signature verification including message binding.",
+ "example": "Checking signature math without including the signed message in the check.",
+ "title": "Partial signature verification"
+ },
+ {
+ "mistake": "Non-deterministic nullifier derivation",
+ "description": "Nullifiers that can be computed multiple ways for the same underlying item.",
+ "severity": "critical",
+ "impact": "Double-spending. Same asset used multiple times with different nullifiers.",
+ "prevention": "Nullifier derivation must be deterministic and unique.",
+ "example": "Nullifier = hash(secret) without including asset ID. Same secret, different assets.",
+ "title": "Non-deterministic nullifier derivation"
+ },
+ {
+ "mistake": "Invalid curve point acceptance",
+ "description": "Not validating that public keys are valid points on the curve.",
+ "severity": "high",
+ "impact": "Invalid keys can cause signature verification to misbehave.",
+ "prevention": "Validate all external curve points are on the correct curve and subgroup.",
+ "example": "Accepting a public key without checking it's a valid elliptic curve point.",
+ "title": "Invalid curve point acceptance"
+ }
+ ]
+ },
+ {
+ "heading": "Setup and Verification Mistakes",
+ "description": "Errors in proof system setup and verification.",
+ "items": [
+ {
+ "mistake": "Single-party trusted setup",
+ "description": "Using setup parameters generated by one party. That party can create fake proofs.",
+ "severity": "critical",
+ "impact": "Setup generator can forge proofs for any statement.",
+ "prevention": "Use multi-party ceremonies (Powers of Tau) for trusted setup.",
+ "example": "Generating proving/verification keys locally instead of using ceremony output.",
+ "title": "Single-party trusted setup"
+ },
+ {
+ "mistake": "Reusing proving keys across circuits",
+ "description": "Using the same proving key for different circuits.",
+ "severity": "critical",
+ "impact": "Proofs from one circuit might be valid for another, breaking security.",
+ "prevention": "Each circuit requires its own setup. Never reuse keys.",
+ "example": "Deploying multiple ZK applications with the same verification key.",
+ "title": "Reusing proving keys across circuits"
+ },
+ {
+ "mistake": "Public input ordering mismatch",
+ "description": "Public inputs ordered differently between prover and verifier.",
+ "severity": "critical",
+ "impact": "Verification succeeds for wrong values. Proofs prove wrong things.",
+ "prevention": "Strict public input ordering. Test prover/verifier integration.",
+ "example": "Prover puts amount before address, verifier expects address before amount.",
+ "title": "Public input ordering mismatch"
+ },
+ {
+ "mistake": "Missing replay protection",
+ "description": "Proofs that can be replayed to repeat an action.",
+ "severity": "high",
+ "impact": "Same proof used multiple times. Actions repeated unintentionally.",
+ "prevention": "Include nonces, timestamps, or nullifiers in public inputs.",
+ "example": "Proof for 'send 10 tokens' can be submitted multiple times.",
+ "title": "Missing replay protection"
+ }
+ ]
+ },
+ {
+ "heading": "Application Integration Mistakes",
+ "description": "Errors connecting ZK proofs to applications.",
+ "items": [
+ {
+ "mistake": "Proof not bound to action",
+ "description": "Proof proves something but does not specify what action it authorizes.",
+ "severity": "high",
+ "impact": "Proof generated for one action used to authorize another.",
+ "prevention": "Include action identifier in public inputs.",
+ "example": "Proof of ownership used for both withdrawal and transfer.",
+ "title": "Proof not bound to action"
+ },
+ {
+ "mistake": "Not storing used nullifiers",
+ "description": "Accepting proofs without recording their nullifiers.",
+ "severity": "critical",
+ "impact": "Same proof used repeatedly. Double-spending.",
+ "prevention": "Store all spent nullifiers. Check before accepting proofs.",
+ "example": "Tornado Cash-style mixer without a nullifier set.",
+ "title": "Not storing used nullifiers"
+ },
+ {
+ "mistake": "Client-generated proofs without validation",
+ "description": "Accepting proofs from clients without validating the public inputs make sense.",
+ "severity": "high",
+ "impact": "Malicious clients submit proofs with manipulated public inputs.",
+ "prevention": "Validate public inputs server-side independent of the proof.",
+ "example": "Client claims amount=1000000 in public inputs. Server trusts it.",
+ "title": "Client-generated proofs without validation"
+ }
+ ]
+ },
+ {
+ "heading": "Performance and Implementation Mistakes",
+ "description": "Errors causing inefficiency or bugs in production.",
+ "items": [
+ {
+ "mistake": "Unnecessary constraint multiplication",
+ "description": "Using multiplications in constraints where additions suffice.",
+ "severity": "medium",
+ "impact": "Proving time increases significantly. Higher costs.",
+ "prevention": "Optimize constraint degree. Use linear constraints when possible.",
+ "example": "Using a * b when a + b achieves the same logical result.",
+ "title": "Unnecessary constraint multiplication"
+ },
+ {
+ "mistake": "No witness generation timeout",
+ "description": "Witness computation without time limits can hang indefinitely.",
+ "severity": "medium",
+ "impact": "Malicious inputs cause denial of service. Provers hang.",
+ "prevention": "Timeout on witness generation. Validate input complexity.",
+ "example": "Witness computation enters infinite loop on crafted input.",
+ "title": "No witness generation timeout"
+ },
+ {
+ "mistake": "Inconsistent endianness",
+ "description": "Mixing big and little endian in bit operations.",
+ "severity": "high",
+ "impact": "Values computed incorrectly. Proofs verify wrong data.",
+ "prevention": "Standardize endianness across all operations. Document clearly.",
+ "example": "Hash computed with LE bits, signature expects BE. Mismatch.",
+ "title": "Inconsistent endianness"
+ },
+ {
+ "mistake": "Memory exhaustion on large inputs",
+ "description": "Circuits that allocate based on input size without limits.",
+ "severity": "medium",
+ "impact": "Large inputs crash prover. Denial of service.",
+ "prevention": "Fixed maximum input sizes. Validate before circuit execution.",
+ "example": "Array size parameter causes allocation of billions of signals.",
+ "title": "Memory exhaustion on large inputs"
+ },
+ {
+ "mistake": "Debug code in production circuits",
+ "description": "Leaving console logs or debug constraints in deployed circuits.",
+ "severity": "medium",
+ "impact": "Information leakage. Unnecessary constraint overhead.",
+ "prevention": "Strip debug code for production builds. Code review.",
+ "example": "Circuit outputs intermediate values for debugging, revealing secrets.",
+ "title": "Debug code in production circuits"
+ },
+ {
+ "mistake": "Hardcoded test values",
+ "description": "Test private keys or constants left in production code.",
+ "severity": "critical",
+ "impact": "Anyone can use test keys to forge proofs.",
+ "prevention": "Separate test and production configurations. CI/CD checks.",
+ "example": "Test nullifier secret '12345' still accepted in production.",
+ "title": "Hardcoded test values"
+ }
+ ]
+ },
+ {
+ "heading": "Testing and Auditing Mistakes",
+ "description": "Errors in verification and quality assurance.",
+ "items": [
+ {
+ "mistake": "Only testing happy path",
+ "description": "Testing only valid proofs without testing rejection of invalid ones.",
+ "severity": "critical",
+ "impact": "Invalid proofs might be accepted. Soundness broken.",
+ "prevention": "Test malicious inputs. Fuzz testing. Adversarial tests.",
+ "example": "All tests pass valid proofs. No test checks rejection.",
+ "title": "Only testing happy path"
+ },
+ {
+ "mistake": "No formal verification",
+ "description": "Relying solely on manual review for critical circuits.",
+ "severity": "high",
+ "impact": "Subtle constraint bugs missed by human reviewers.",
+ "prevention": "Use formal verification tools like ecne, Circomspect.",
+ "example": "Manual audit missed underconstrained signal caught by tool.",
+ "title": "No formal verification"
+ },
+ {
+ "mistake": "Insufficient test coverage for edge cases",
+ "description": "Not testing boundary values and special cases.",
+ "severity": "high",
+ "impact": "Edge case inputs break circuit logic.",
+ "prevention": "Test min/max values. Zero values. Field boundary values.",
+ "example": "Circuit works for normal values but fails when input is 0.",
+ "title": "Insufficient test coverage for edge cases"
+ },
+ {
+ "mistake": "Not testing across proof systems",
+ "description": "Assuming circuit behaves identically across Groth16, PLONK, etc.",
+ "severity": "medium",
+ "impact": "Bugs appear only in specific proof system deployment.",
+ "prevention": "Test with target proof system. Understand system differences.",
+ "example": "Circuit works in Groth16 but has issues in PLONK due to lookups.",
+ "title": "Not testing across proof systems"
+ },
+ {
+ "mistake": "Ignoring compiler warnings",
+ "description": "Dismissing Circom or other compiler warnings as noise.",
+ "severity": "high",
+ "impact": "Warnings often indicate real constraint issues.",
+ "prevention": "Zero-warning policy. Investigate all warnings.",
+ "example": "Compiler warns about unused signal. Signal was meant to constrain output.",
+ "title": "Ignoring compiler warnings"
+ }
+ ]
+ }
+ ],
+ "additionalResources": [
+ {
+ "title": "ZK Circuit Security Checklist",
+ "slug": "security-checklists-for-zk-engineer"
+ },
+ {
+ "title": "Development Tools for ZK Engineers",
+ "slug": "development-tools-for-zk-engineer"
+ }
+ ],
+ "proTips": [
+ "If in doubt, add more constraints. Under-constrained circuits are the most dangerous bugs.",
+ "Use formal verification for critical circuits. Manual review alone is insufficient.",
+ "Keep circuit complexity low. Simpler circuits are easier to audit and prove."
+ ]
+ }
 }

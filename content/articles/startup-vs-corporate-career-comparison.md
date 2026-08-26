@@ -1,8 +1,8 @@
 ---
 title: 'Startup vs. Corporate: Which Career Path is Right for You?'
 description: >-
-  Compare growth potential, compensation, work-life balance, and career
-  stability.
+ Compare growth potential, compensation, work-life balance, and career
+ stability.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: crossroads sign
 category: Career Guides

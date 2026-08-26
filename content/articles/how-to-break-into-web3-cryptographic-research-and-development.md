@@ -3,8 +3,8 @@ title: How to Break Into Web3 Cryptographic Research and Development
 image: /images/thisisengineering-0-29Dl7IAew-unsplash.jpg
 data-ai-hint: cryptography research development
 description: >-
-  A guide for aspiring cryptographers and engineers on how to build a career in
-  Web3 cryptographic R&D, a field at the advanced of privacy and scaling.
+ A guide for aspiring cryptographers and engineers on how to build a career in
+ Web3 cryptographic R&D, a field at the advanced of privacy and scaling.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ name: Ondo Finance
 website: 'https://ondo.finance'
 category: DeFi Protocol
 description: >-
-  Ondo Finance offers decentralized finance solutions for institutional
-  investors.
+ Ondo Finance offers decentralized finance solutions for institutional
+ investors.
 ---
 
 Ondo Finance provides a platform that enables institutional investors to access decentralized finance products. The company focuses on creating structured products that allow users to earn yield on their digital assets. Ondo Finance aims to bridge traditional finance with DeFi, offering tools that cater to the needs of institutional clients.

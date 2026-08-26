@@ -1,8 +1,8 @@
 ---
 title: How to Ask Smart Questions as a New Employee
 description: >-
-  Asking questions is important when you're new, but asking smart questions can
-  accelerate your learning and build your reputation. This guide covers how to.
+ Asking questions is important when you're new, but asking smart questions can
+ accelerate your learning and build your reputation. This guide covers how to.
 category: Career Guides
 image: 'https://picsum.photos/seed/307/1200/630'
 data-ai-hint: asking questions

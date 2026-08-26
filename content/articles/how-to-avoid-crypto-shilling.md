@@ -3,8 +3,8 @@ title: How to Avoid Crypto Shilling in Your Marketing
 image: /images/umberto-jXd2FSvcRr8-unsplash.jpg
 data-ai-hint: marketing ethics crypto
 description: >-
-  A guide for Web3 marketers on how to promote a project ethically. Learn the
-  difference between authentic marketing and 'shilling,' and how to build.
+ A guide for Web3 marketers on how to promote a project ethically. Learn the
+ difference between authentic marketing and 'shilling,' and how to build.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: Private vs Public vs Consortium Blockchain Explained
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: blockchain private public
 description: >-
-  A clear comparison of the three main types of blockchains: public, private,
-  and consortium. Understand their differences in permissions, decentralization.
+ A clear comparison of the three main types of blockchains: public, private,
+ and consortium. Understand their differences in permissions, decentralization.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

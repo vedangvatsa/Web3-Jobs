@@ -3,8 +3,8 @@ title: How AI is Changing Job Market
 image: 'https://picsum.photos/seed/ai-job-market/1200/630'
 data-ai-hint: robot human handshake
 description: >-
-  Discover the real impact of artificial intelligence on jobs, which roles are
-  evolving, and how the workforce is adapting to new technology.
+ Discover the real impact of artificial intelligence on jobs, which roles are
+ evolving, and how the workforce is adapting to new technology.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

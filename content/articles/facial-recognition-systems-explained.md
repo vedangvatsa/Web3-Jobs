@@ -1,9 +1,9 @@
 ---
 title: Facial Recognition Systems Explained
 description: >-
-  A clear explanation of how facial recognition systems work, their applications
-  from unlocking your phone to surveillance, and the privacy concerns they
-  raise.
+ A clear explanation of how facial recognition systems work, their applications
+ from unlocking your phone to surveillance, and the privacy concerns they
+ raise.
 category: Educational
 image: 'https://picsum.photos/seed/facialrec/1200/630'
 data-ai-hint: facial recognition

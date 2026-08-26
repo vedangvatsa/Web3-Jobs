@@ -3,8 +3,8 @@ title: 'Web3 Career Legitimacy: Separating Hype from Reality'
 image: /images/luca-bravo-XJXWbfSo2f0-unsplash.jpg
 data-ai-hint: career choice path
 description: >-
-  Is a Web3 job a 'real' job? This article explores the legitimacy and long-term
-  viability of a career in the crypto industry, weighing the risks against.
+ Is a Web3 job a 'real' job? This article explores the legitimacy and long-term
+ viability of a career in the crypto industry, weighing the risks against.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

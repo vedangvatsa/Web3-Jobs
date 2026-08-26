@@ -3,8 +3,8 @@ title: How to Get a Web3 Job with No Experience
 image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
 data-ai-hint: person climbing ladder
 description: >-
-  Break into Web3 by building projects, learning core blockchain skills, and
-  networking authentically.
+ Break into Web3 by building projects, learning core blockchain skills, and
+ networking authentically.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: How to Handle Underperforming Employees Constructively
 category: Career Guides
 date: '2025-09-12'
 description: >-
-  Addressing underperformance is a manager's toughest job. This guide provides a
-  step-by-step process for diagnosing the root cause, giving clear feedback.
+ Addressing underperformance is a manager's toughest job. This guide provides a
+ step-by-step process for diagnosing the root cause, giving clear feedback.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: difficult conversation meeting
 publishedDate: '2026-03-11'

@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Lagos: West Africa''s Tech Megacity'
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: lagos nigeria city
 description: >-
-  Web3 Jobs in Lagos | $15K-$60K USD+ Salary | Africa's Blockchain Leader 2026.
-  Remote & on-site roles, fintech, DeFi, community management. Tech talent.
+ Web3 Jobs in Lagos | $15K-$60K USD+ Salary | Africa's Blockchain Leader 2026.
+ Remote & on-site roles, fintech, DeFi, community management. Tech talent.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"
