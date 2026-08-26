@@ -34,6 +34,7 @@ export function EventCoverFallback({
   format?: string;
 }) {
   const gradient = getEventGradient(name);
+  const initial = getInitial(name);
   const label =
     type === 'hackathon'
       ? 'Hackathon'
@@ -41,24 +42,44 @@ export function EventCoverFallback({
       ? 'Conference'
       : format === 'online'
       ? 'Virtual Event'
-      : 'Web3 Event';
+      : type
+      ? 'Web3 Event'
+      : null;
 
   return (
-    <div className={`w-full h-full bg-gradient-to-br ${gradient} flex items-center justify-center relative overflow-hidden`}>
-      <div className="absolute inset-0 opacity-15">
-        <div className="absolute -top-6 -right-6 w-32 h-32 border border-white/40 rounded-full" />
-        <div className="absolute -bottom-8 -left-8 w-40 h-40 border border-white/40 rounded-full" />
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-20 h-20 border border-white/20 rounded-xl rotate-45" />
+    <div className={`relative w-full h-full overflow-hidden bg-gradient-to-br ${gradient}`}>
+      {/* Layered light blooms */}
+      <div className="absolute inset-0" aria-hidden="true">
+        <div className="absolute -top-1/3 -left-1/4 w-3/4 h-3/4 rounded-full bg-white/20 blur-3xl" />
+        <div className="absolute -bottom-1/3 -right-1/4 w-2/3 h-2/3 rounded-full bg-black/25 blur-3xl" />
+        <div className="absolute top-1/3 right-1/4 w-1/3 h-1/3 rounded-full bg-white/10 blur-2xl" />
       </div>
-      <div className="flex flex-col items-center gap-1.5 relative z-10">
-        <div className="w-12 h-12 rounded-xl bg-white/20 backdrop-blur-sm flex items-center justify-center border border-white/20 shadow-md">
-          <span className="text-xl font-bold text-white tracking-wider">{getInitial(name)}</span>
-        </div>
-        {type ? (
-          <span className="text-[11px] font-medium uppercase tracking-wider text-white/80">{label}</span>
-        ) : (
-          <span className="text-xs font-medium uppercase tracking-wider text-white/80 max-w-[80%] truncate">{name}</span>
+      {/* Dot grid texture */}
+      <div
+        className="absolute inset-0 opacity-25"
+        aria-hidden="true"
+        style={{
+          backgroundImage: 'radial-gradient(rgba(255,255,255,0.55) 1px, transparent 1px)',
+          backgroundSize: '16px 16px',
+        }}
+      />
+      {/* Giant watermark initial, cropped by overflow */}
+      <div className="absolute inset-0 flex items-center justify-center" aria-hidden="true">
+        <span className="text-[11rem] leading-none font-black text-white/10 select-none tracking-tighter">
+          {initial}
+        </span>
+      </div>
+      {/* Centered identity */}
+      <div className="relative z-10 h-full flex flex-col items-center justify-center gap-2.5 px-6 text-center">
+        {label && (
+          <span className="text-[10px] font-bold uppercase tracking-[0.25em] text-white/70">
+            {label}
+          </span>
         )}
+        <span className="text-lg sm:text-xl font-extrabold text-white leading-tight line-clamp-2 drop-shadow-md max-w-md">
+          {name}
+        </span>
+        <span className="mt-1 h-0.5 w-10 rounded-full bg-white/50" aria-hidden="true" />
       </div>
     </div>
   );
