@@ -36,38 +36,38 @@ Modular blockchains separate blockchains into four distinct functions:
 
 - **Execution** is the processing of transactions and execution of smart contracts, which changes blockchain state. In modular architecture:
 
-- **Specialized Execution Layers**: Rollups (Optimistic, ZK) or app-specific chains that execute transactions.
-- **VM Flexibility**: Different execution layers can use different virtual machines (EVM, SVM, MoveVM, custom).
-- **Performance Optimization**: Execution layers can optimize for throughput without worrying about data storage or consensus.
-- **Examples**: Arbitrum, Optimism, zkSync (rollups); Fuel, Eclipse (execution-focused chains).
+  - **Specialized Execution Layers**: Rollups (Optimistic, ZK) or app-specific chains that execute transactions.
+  - **VM Flexibility**: Different execution layers can use different virtual machines (EVM, SVM, MoveVM, custom).
+  - **Performance Optimization**: Execution layers can optimize for throughput without worrying about data storage or consensus.
+  - **Examples**: Arbitrum, Optimism, zkSync (rollups); Fuel, Eclipse (execution-focused chains).
 
 ### 2. Settlement
 
 - **Settlement** is the process of verifying execution results and finalizing state transitions. Settlement layers:
 
-- **Verify Proofs**: Check fraud proofs (Optimistic) or validity proofs (ZK) from execution layers.
-- **Resolve Disputes**: Arbitrate disputes about execution correctness.
-- **Maintain Canonical State**: Keep track of the "official" state across all execution layers.
-- **Bridge Security**: Provide security for asset bridges between execution layers.
-- **Examples**: Ethereum L1 (primary settlement layer), Polygon AggLayer, Arbitrum One settling to Ethereum.
+  - **Verify Proofs**: Check fraud proofs (Optimistic) or validity proofs (ZK) from execution layers.
+  - **Resolve Disputes**: Arbitrate disputes about execution correctness.
+  - **Maintain Canonical State**: Keep track of the "official" state across all execution layers.
+  - **Bridge Security**: Provide security for asset bridges between execution layers.
+  - **Examples**: Ethereum L1 (primary settlement layer), Polygon AggLayer, Arbitrum One settling to Ethereum.
 
 ### 3. Consensus
 
 - **Consensus** is the mechanism for agreeing on transaction ordering and block production. In modular systems:
 
-- **Order Transactions**: Determine the canonical order of transactions across the network.
-- **Block Production**: Coordinate validators/sequencers to produce blocks.
-- **Finality**: Provide guarantees that transactions won't be reversed.
-- **Examples**: Ethereum Beacon Chain consensus, Celestia's Tendermint consensus, shared sequencing networks.
+  - **Order Transactions**: Determine the canonical order of transactions across the network.
+  - **Block Production**: Coordinate validators/sequencers to produce blocks.
+  - **Finality**: Provide guarantees that transactions won't be reversed.
+  - **Examples**: Ethereum Beacon Chain consensus, Celestia's Tendermint consensus, shared sequencing networks.
 
 ### 4. Data Availability (DA)
 
 - **Data Availability** ensures that transaction data is published and remains accessible for verification. DA layers:
 
-- **Store Transaction Data**: Maintain sufficient data for state reconstruction and fraud proof generation.
-- **Guarantee Availability**: Ensure anyone can download the data when needed.
-- **Provide Proofs**: Offer cryptographic proofs that data was made available.
-- **Examples**: Celestia, EigenDA, Avail, Ethereum calldata/blobs (EIP-4844).
+  - **Store Transaction Data**: Maintain sufficient data for state reconstruction and fraud proof generation.
+  - **Guarantee Availability**: Ensure anyone can download the data when needed.
+  - **Provide Proofs**: Offer cryptographic proofs that data was made available.
+  - **Examples**: Celestia, EigenDA, Avail, Ethereum calldata/blobs (EIP-4844).
 
 ## Modular vs Monolithic Blockchains
 
@@ -85,18 +85,18 @@ The distinction between modular and monolithic architectures is fundamental:
 | **Examples** | Ethereum + rollups, Celestia ecosystem | Bitcoin, Solana, Ethereum L1 (pre-rollup era) |
 
 - **Monolithic Blockchain (Bitcoin)**:
-- Execution: Bitcoin Script (limited)
-- Settlement: Bitcoin PoW consensus
-- Consensus: Nakamoto consensus
-- Data Availability: Full nodes store all data
-- **All in one protocol**, limited flexibility.
+  - Execution: Bitcoin Script (limited)
+  - Settlement: Bitcoin PoW consensus
+  - Consensus: Nakamoto consensus
+  - Data Availability: Full nodes store all data
+  - **All in one protocol**, limited flexibility.
 
 - **Modular Stack (Ethereum Rollup)**:
-- Execution: Arbitrum rollup (EVM execution)
-- Settlement: Ethereum L1 (fraud proof verification)
-- Consensus: Ethereum Beacon Chain (PoS)
-- Data Availability: Celestia or EigenDA
-- **Each layer specialized and optimized**.
+  - Execution: Arbitrum rollup (EVM execution)
+  - Settlement: Ethereum L1 (fraud proof verification)
+  - Consensus: Ethereum Beacon Chain (PoS)
+  - Data Availability: Celestia or EigenDA
+  - **Each layer specialized and optimized**.
 
 ## Benefits of Modular Architecture
 
@@ -145,34 +145,34 @@ This entire flow happens transparently. Users just see fast, cheap transactions 
 Several projects exemplify the modular approach:
 
 - **Ethereum (Rollup-Centric)**:
-- Settlement: Ethereum L1
-- Execution: Rollups (Arbitrum, Optimism, zkSync, Scroll, etc.)
-- Consensus: Beacon Chain (PoS)
-- DA: Ethereum blobs (EIP-4844) or external (Celestia, EigenDA).
+  - Settlement: Ethereum L1
+  - Execution: Rollups (Arbitrum, Optimism, zkSync, Scroll, etc.)
+  - Consensus: Beacon Chain (PoS)
+  - DA: Ethereum blobs (EIP-4844) or external (Celestia, EigenDA).
 
 - **Celestia Ecosystem**:
-- Settlement: Various (Ethereum, or rollups settle internally).
-- Execution: Sovereign rollups (custom VMs).
-- Consensus: Celestia (Tendermint).
-- DA: Celestia.
+  - Settlement: Various (Ethereum, or rollups settle internally).
+  - Execution: Sovereign rollups (custom VMs).
+  - Consensus: Celestia (Tendermint).
+  - DA: Celestia.
 
 - **Cosmos Hub (Interchain Security)**:
-- Settlement: Cosmos Hub.
-- Execution: Consumer chains.
-- Consensus: Cosmos Hub validators.
-- DA: Consumer chains post to Hub.
+  - Settlement: Cosmos Hub.
+  - Execution: Consumer chains.
+  - Consensus: Cosmos Hub validators.
+  - DA: Consumer chains post to Hub.
 
 - **Polygon 2.0**:
-- Settlement: Polygon AggLayer.
-- Execution: Polygon zkEVM chains.
-- Consensus: Ethereum.
-- DA: Celestia or Avail.
+  - Settlement: Polygon AggLayer.
+  - Execution: Polygon zkEVM chains.
+  - Consensus: Ethereum.
+  - DA: Celestia or Avail.
 
 - **Fuel**:
-- Settlement: Ethereum L1.
-- Execution: Fuel (optimized for parallel execution).
-- Consensus: Fuel (specialized for UTXO model).
-- DA: Ethereum or Celestia.
+  - Settlement: Ethereum L1.
+  - Execution: Fuel (optimized for parallel execution).
+  - Consensus: Fuel (specialized for UTXO model).
+  - DA: Ethereum or Celestia.
 
 ## Challenges and Tradeoffs
 
@@ -197,17 +197,17 @@ Modular architectures introduce new challenges:
 The modular vs monolithic debate sparks discussions:
 
 - **Pro-Modular Arguments**:
-- Specialization beats generalization.
-- Scalability is difficult on monolithic chains without sacrificing decentralization.
-- Flexibility enables innovation without forking L1.
-- Resource efficiency allows light clients to verify without running full nodes.
+  - Specialization beats generalization.
+  - Scalability is difficult on monolithic chains without sacrificing decentralization.
+  - Flexibility enables innovation without forking L1.
+  - Resource efficiency allows light clients to verify without running full nodes.
 
 - **Pro-Monolithic Arguments**:
-- Simplicity is valuable for users and developers.
-- Synchronous composability is critical for DeFi.
-- Unified security is clearer.
-- Monolithic chains can show high performance without modularization.
-- Fewer layers lead to fewer trust assumptions.
+  - Simplicity is valuable for users and developers.
+  - Synchronous composability is critical for DeFi.
+  - Unified security is clearer.
+  - Monolithic chains can show high performance without modularization.
+  - Fewer layers lead to fewer trust assumptions.
 
 The "right" answer likely depends on use case. High-value DeFi may prefer monolithic security, while gaming or social applications may prefer modular scalability.
 

@@ -52,18 +52,18 @@ Historical cases:
 - Profit: $350,000
 
 - **Pancakebunny (May 2021)**:
-- Flash loan to manipulate token price
-- Triggered liquidations and liquidation bounties
-- Loss: $45 million
+  - Flash loan to manipulate token price
+  - Triggered liquidations and liquidation bounties
+  - Loss: $45 million
 
 - **Cream Finance (Aug 2021)**:
-- Oracle price manipulation
-- Reentrancy combined with bad pricing
-- Loss: $29 million
+  - Oracle price manipulation
+  - Reentrancy combined with bad pricing
+  - Loss: $29 million
 
 - **Harvest Finance (Oct 2020)**:
-- Large trades manipulating oracle prices
-- Loss: $34 million
+  - Large trades manipulating oracle prices
+  - Loss: $34 million
 
 Oracle attacks have caused significant losses.
 

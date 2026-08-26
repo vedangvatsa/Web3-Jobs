@@ -58,31 +58,31 @@ contract MyToken {
 ```
 
 - **Key Elements**:
-- `pragma`: Specifies compiler version.
-- `contract`: Defines a smart contract, similar to a class.
-- State variables: Stored permanently on the blockchain.
-- Functions: Execute logic and modify state.
-- `msg.sender`: Built-in variable for transaction sender.
-- `require`: Validation that reverts if condition fails.
+  - `pragma`: Specifies compiler version.
+  - `contract`: Defines a smart contract, similar to a class.
+  - State variables: Stored permanently on the blockchain.
+  - Functions: Execute logic and modify state.
+  - `msg.sender`: Built-in variable for transaction sender.
+  - `require`: Validation that reverts if condition fails.
 
 ## Data Types
 
 - **Value Types**:
-- `bool`: true/false
-- `uint`: Unsigned integers (uint8 to uint256)
-- `int`: Signed integers
-- `address`: 20-byte Ethereum address
-- `bytes`: Fixed or dynamic byte arrays
-- `string`: UTF-8 encoded text
+  - `bool`: true/false
+  - `uint`: Unsigned integers (uint8 to uint256)
+  - `int`: Signed integers
+  - `address`: 20-byte Ethereum address
+  - `bytes`: Fixed or dynamic byte arrays
+  - `string`: UTF-8 encoded text
 
 - **Reference Types**:
-- `arrays`: Fixed or dynamic lists
-- `mappings`: Key-value stores, like hash tables
-- `structs`: Custom data structures
+  - `arrays`: Fixed or dynamic lists
+  - `mappings`: Key-value stores, like hash tables
+  - `structs`: Custom data structures
 
 - **Special Types**:
-- `address payable`: Can receive Ether
-- `enum`: Enumerated types for state machines
+  - `address payable`: Can receive Ether
+  - `enum`: Enumerated types for state machines
 
 - **Example**:
 ```solidity
@@ -101,15 +101,15 @@ contract DataTypes {
 ## Functions and Visibility
 
 - **Visibility Specifiers**:
-- `public`: Callable internally and externally
-- `external`: Only callable from outside
-- `internal`: Only within contract and derived contracts
-- `private`: Only within current contract
+  - `public`: Callable internally and externally
+  - `external`: Only callable from outside
+  - `internal`: Only within contract and derived contracts
+  - `private`: Only within current contract
 
 - **State Mutability**:
-- `view`: Reads state but doesn't modify
-- `pure`: Neither reads nor modifies state
-- `payable`: Can receive Ether
+  - `view`: Reads state but doesn't modify
+  - `pure`: Neither reads nor modifies state
+  - `payable`: Can receive Ether
 
 - **Example**:
 ```solidity
@@ -347,11 +347,11 @@ describe("Token", function () {
 ## Solidity Versions and Evolution
 
 - **Major Updates**:
-- **0.4.x**: Early production versions.
-- **0.5.x**: Breaking changes improving safety.
-- **0.6.x**: Improved syntax.
-- **0.7.x**: More security features.
-- **0.8.x**: Built-in overflow protection and custom errors.
+  - **0.4.x**: Early production versions.
+  - **0.5.x**: Breaking changes improving safety.
+  - **0.6.x**: Improved syntax.
+  - **0.7.x**: More security features.
+  - **0.8.x**: Built-in overflow protection and custom errors.
 
 Always specify the exact version or tight range:
 ```solidity
@@ -404,10 +404,10 @@ Solidity remains dominant with the largest developer community and most tooling.
 4. **Expert**: Complex protocols, cross-contract interactions, novel patterns.
 
 - **Resources**:
-- Solidity documentation (official)
-- CryptoZombies (interactive tutorials)
-- OpenZeppelin contracts (code examples)
-- Ethernaut (security challenges)
-- Immunefi (bug bounties for practice)
+  - Solidity documentation (official)
+  - CryptoZombies (interactive tutorials)
+  - OpenZeppelin contracts (code examples)
+  - Ethernaut (security challenges)
+  - Immunefi (bug bounties for practice)
 
 Mastering Solidity opens doors to high-paying programming roles in tech. Understanding Solidity deeply, from language features to gas optimization to security patterns, is essential for a successful blockchain development career. The ecosystem continues to evolve with new patterns, tools, and best practices.

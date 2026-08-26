@@ -56,18 +56,18 @@ Cold storage addresses the central security challenge in cryptocurrency:
 Understanding the tradeoff between security and convenience:
 
 - **Cold Storage**:
-- Maximum security against online threats
-- Inconvenient for frequent transactions
-- Requires physical access to sign transactions
-- Ideal for large holdings and long-term storage
-- Recovery possible with seed phrase backup
+  - Maximum security against online threats
+  - Inconvenient for frequent transactions
+  - Requires physical access to sign transactions
+  - Ideal for large holdings and long-term storage
+  - Recovery possible with seed phrase backup
 
 - **Hot Wallets**:
-- Connected to the internet for convenience
-- Vulnerable to malware, phishing, remote exploits
-- Fast transaction signing
-- Suitable for small amounts and active trading
-- Higher risk but necessary for daily use
+  - Connected to the internet for convenience
+  - Vulnerable to malware, phishing, remote exploits
+  - Fast transaction signing
+  - Suitable for small amounts and active trading
+  - Higher risk but necessary for daily use
 
 Most crypto users employ both: cold storage for the majority of holdings and hot wallets for spending amounts. Institutions often use tiered security: deep cold storage for reserves, warm storage for operational amounts, and hot wallets for immediate liquidity.
 

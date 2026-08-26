@@ -59,19 +59,19 @@ Assume transactions are valid by default ("optimistic"). Anyone can challenge su
 5. After dispute period, state becomes final
 
 - **Examples**:
-- **Arbitrum**: Largest L2 by total value locked. EVM-compatible, active ecosystem.
-- **Optimism**: Pioneer of optimistic rollups. Powers Base (Coinbase's L2) and other chains via OP Stack.
-- **Base**: Coinbase's L2, bringing mainstream users to crypto.
+  - **Arbitrum**: Largest L2 by total value locked. EVM-compatible, active ecosystem.
+  - **Optimism**: Pioneer of optimistic rollups. Powers Base (Coinbase's L2) and other chains via OP Stack.
+  - **Base**: Coinbase's L2, bringing mainstream users to crypto.
 
 - **Advantages**:
-- Full EVM compatibility, easy to migrate Ethereum dApps
-- Lower technical complexity than ZK rollups
-- Established ecosystem and tooling
+  - Full EVM compatibility, easy to migrate Ethereum dApps
+  - Lower technical complexity than ZK rollups
+  - Established ecosystem and tooling
 
 - **Disadvantages**:
-- 7-day withdrawal delay (bridging from L2 to mainnet)
-- Higher data costs than ZK rollups
-- Depends on fraud proof watchers
+  - 7-day withdrawal delay (bridging from L2 to mainnet)
+  - Higher data costs than ZK rollups
+  - Depends on fraud proof watchers
 
 ### ZK-Rollups (Zero-Knowledge Rollups)
 
@@ -85,20 +85,20 @@ Use cryptographic proofs (validity proofs) to prove transaction correctness with
 5. State update is immediately final, no dispute period
 
 - **Examples**:
-- **zkSync Era**: EVM-compatible ZK rollup with growing adoption.
-- **StarkNet**: Uses STARK proofs, Cairo programming language.
-- **Polygon zkEVM**: Polygon's ZK solution with full EVM equivalence.
-- **Scroll**: EVM-equivalent ZK rollup focused on compatibility.
+  - **zkSync Era**: EVM-compatible ZK rollup with growing adoption.
+  - **StarkNet**: Uses STARK proofs, Cairo programming language.
+  - **Polygon zkEVM**: Polygon's ZK solution with full EVM equivalence.
+  - **Scroll**: EVM-equivalent ZK rollup focused on compatibility.
 
 - **Advantages**:
-- Faster finality, no 7-day withdrawal delay
-- Better long-term scalability
-- More data efficiency
+  - Faster finality, no 7-day withdrawal delay
+  - Better long-term scalability
+  - More data efficiency
 
 - **Disadvantages**:
-- Complex cryptography requires specialized expertise
-- Some sacrifice EVM compatibility for efficiency
-- Earlier stage than optimistic rollups
+  - Complex cryptography requires specialized expertise
+  - Some sacrifice EVM compatibility for efficiency
+  - Earlier stage than optimistic rollups
 
 ### Validium
 
@@ -128,11 +128,11 @@ The March 2024 Ethereum upgrade added "blob" data storage, temporary data that i
 
 - **Bridges** transfer assets between Layer 1 and Layer 2:
 
-- **Canonical Bridges**: Official bridges operated by L2 teams. Most secure but inherits L2's trust assumptions.
+  - **Canonical Bridges**: Official bridges operated by L2 teams. Most secure but inherits L2's trust assumptions.
 
-- **Third-Party Bridges**: Services like Hop, Across, and Synapse enable faster transfers and cross-L2 movement. Introduce additional trust assumptions.
+  - **Third-Party Bridges**: Services like Hop, Across, and Synapse enable faster transfers and cross-L2 movement. Introduce additional trust assumptions.
 
-- **Native Withdrawals**: Withdrawing from optimistic rollups to Ethereum takes 7 days due to the dispute period. Users cannot access funds during this time unless using third-party bridges.
+  - **Native Withdrawals**: Withdrawing from optimistic rollups to Ethereum takes 7 days due to the dispute period. Users cannot access funds during this time unless using third-party bridges.
 
 Bridge security is important, as significant amounts have been lost to bridge hacks. Always use established bridges and verify contract addresses.
 
@@ -162,9 +162,9 @@ L2 teams plan decentralized sequencer sets but prioritized launching first, dece
 Currently, moving between L2s requires bridging back to Ethereum then to another L2. This process can be expensive and slow.
 
 - **Solutions in Development**:
-- **Shared bridges**: Direct L2-to-L2 transfers
-- **Chain abstraction**: Users do not need to know which L2 they are using
-- **Optimism's Superchain**: Multiple L2s sharing security and messaging
+  - **Shared bridges**: Direct L2-to-L2 transfers
+  - **Chain abstraction**: Users do not need to know which L2 they are using
+  - **Optimism's Superchain**: Multiple L2s sharing security and messaging
 
 The goal is for users to interact with Ethereum without needing to understand the underlying L2.
 
@@ -183,9 +183,9 @@ Ethereum's official scaling strategy is to keep Layer 1 simple, secure, and dece
 This contrasts with chains like Solana, which scale Layer 1 itself, or Cosmos, which uses app-specific chains. Time will tell which approach is more effective.
 
 - **Future Ethereum upgrades focus on L2 support**:
-- Danksharding: More data availability
-- Verkle trees: More efficient state storage helping L2s
-- Account abstraction: Better user experience across L2s
+  - Danksharding: More data availability
+  - Verkle trees: More efficient state storage helping L2s
+  - Account abstraction: Better user experience across L2s
 
 ## Career Opportunities
 

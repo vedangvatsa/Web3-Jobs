@@ -30,19 +30,19 @@ To understand account abstraction's improvements, it is important to recognize c
 - Contract Accounts: Created by transactions, can contain logic.
 
 - **Limitations**:
-- EOAs cannot execute transactions automatically.
-- No batching; separate transactions are required for complex operations.
-- No account recovery if the key is lost.
-- No native multi-signature; a separate multisig contract is required.
-- Gas must be paid in ETH, not other tokens.
-- Complex onboarding requiring users to manage private keys.
+  - EOAs cannot execute transactions automatically.
+  - No batching; separate transactions are required for complex operations.
+  - No account recovery if the key is lost.
+  - No native multi-signature; a separate multisig contract is required.
+  - Gas must be paid in ETH, not other tokens.
+  - Complex onboarding requiring users to manage private keys.
 
 - **User Experience Problems**:
-- Losing a private key means permanent fund loss.
-- No way to recover an account after key loss.
-- Complex operations require multiple transactions.
-- Each transaction requires separate approval.
-- No native security improvements without external contracts.
+  - Losing a private key means permanent fund loss.
+  - No way to recover an account after key loss.
+  - Complex operations require multiple transactions.
+  - Each transaction requires separate approval.
+  - No native security improvements without external contracts.
 
 These limitations constrain blockchain adoption, as casual users struggle with key management and transaction complexity.
 
@@ -91,10 +91,10 @@ The primary account abstraction standard for Ethereum:
 - **Motivation**: ERC-4337 creates account abstraction infrastructure without requiring changes to the Ethereum protocol. It uses smart contracts to implement account abstraction.
 
 - **Components**:
-- EntryPoint: Core contract coordinating account operations.
-- UserOperation: Bundle describing the account's intended operations.
-- Bundler: Off-chain entity collecting and submitting operations.
-- Paymaster: Optional entity sponsoring gas.
+  - EntryPoint: Core contract coordinating account operations.
+  - UserOperation: Bundle describing the account's intended operations.
+  - Bundler: Off-chain entity collecting and submitting operations.
+  - Paymaster: Optional entity sponsoring gas.
 
 - **Flow**:
 1. User creates a UserOperation describing desired transactions.

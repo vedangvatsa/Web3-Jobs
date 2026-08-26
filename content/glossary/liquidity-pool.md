@@ -56,9 +56,9 @@ If someone buys ETH with USDC:
 4. The exchange rate adjusts based on the new ratio
 
 - **Example**:
-- Pool has 100 ETH and 200,000 USDC
-- k = 100 × 200,000 = 20,000,000
-- Current price: 1 ETH = 2,000 USDC
+  - Pool has 100 ETH and 200,000 USDC
+  - k = 100 × 200,000 = 20,000,000
+  - Current price: 1 ETH = 2,000 USDC
 
 Someone buys 10 ETH:
 - New ETH amount: 90 (bought 10)
@@ -113,11 +113,11 @@ Scenario 2: ETH doubles to $4,000
 The loss is "impermanent" because if prices return to the original ratio, it disappears. But if you withdraw at divergent prices, it becomes permanent.
 
 - **Impermanent Loss by Price Change**:
-- 1.25x price change: 0.6% loss
-- 1.5x: 2.0% loss
-- 2x: 5.7% loss
-- 3x: 13.4% loss
-- 5x: 25.5% loss
+  - 1.25x price change: 0.6% loss
+  - 1.5x: 2.0% loss
+  - 2x: 5.7% loss
+  - 3x: 13.4% loss
+  - 5x: 25.5% loss
 
 Trading fees aim to offset impermanent loss. High-volume, low-volatility pairs (stablecoin pairs) are ideal, minimizing impermanent loss and providing consistent fee income.
 
@@ -132,10 +132,10 @@ Uniswap V3 introduced concentrated liquidity. Instead of spreading liquidity acr
 Concentrated liquidity is more capital efficient, allowing the same capital to provide deeper liquidity where trading occurs. LPs earn more fees per dollar invested.
 
 - **Trade-offs**:
-- Higher fee generation within range
-- Zero fee generation outside range
-- More active management required
-- Higher impermanent loss within the range
+  - Higher fee generation within range
+  - Zero fee generation outside range
+  - More active management required
+  - Higher impermanent loss within the range
 
 This created active liquidity management as a specialized skill. Protocols like Arrakis and Gamma automate range adjustments.
 

@@ -149,18 +149,18 @@ Unsustainable yields depend on token emissions that cannot continue indefinitely
 ## DeFi vs Traditional Finance
 
 - **DeFi Advantages**:
-- 24/7 global markets
-- Permissionless access
-- Transparency and auditability
-- Programmable money
-- No minimum balances or fees for account maintenance
+  - 24/7 global markets
+  - Permissionless access
+  - Transparency and auditability
+  - Programmable money
+  - No minimum balances or fees for account maintenance
 
 - **Traditional Finance Advantages**:
-- Deposit insurance
-- Legal recourse for fraud
-- Customer support
-- Regulatory oversight
-- Simpler user experience
+  - Deposit insurance
+  - Legal recourse for fraud
+  - Customer support
+  - Regulatory oversight
+  - Simpler user experience
 
 Traditional banks might offer low savings interest while DeFi lending provides higher rates, but DeFi carries smart contract and protocol risks that bank deposits do not.
 

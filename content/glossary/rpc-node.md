@@ -44,21 +44,21 @@ RPC nodes handle numerous requests daily, with response times typically ranging 
 Different blockchains expose different RPC methods, but Ethereum's JSON-RPC specification is widely adopted. Common methods include:
 
 - **Reading Blockchain State**:
-- `eth_blockNumber`: Get the latest block number.
-- `eth_getBalance`: Get an account's ETH balance.
-- `eth_getTransactionByHash`: Retrieve transaction details.
-- `eth_call`: Execute a smart contract function without submitting a transaction (read-only).
-- `eth_getLogs`: Query event logs from smart contracts.
+  - `eth_blockNumber`: Get the latest block number.
+  - `eth_getBalance`: Get an account's ETH balance.
+  - `eth_getTransactionByHash`: Retrieve transaction details.
+  - `eth_call`: Execute a smart contract function without submitting a transaction (read-only).
+  - `eth_getLogs`: Query event logs from smart contracts.
 
 - **Sending Transactions**:
-- `eth_sendRawTransaction`: Submit a signed transaction to the network.
-- `eth_estimateGas`: Estimate the gas required for a transaction.
-- `eth_gasPrice`: Get the current recommended gas price.
+  - `eth_sendRawTransaction`: Submit a signed transaction to the network.
+  - `eth_estimateGas`: Estimate the gas required for a transaction.
+  - `eth_gasPrice`: Get the current recommended gas price.
 
 - **Network Information**:
-- `eth_chainId`: Get the chain ID (1 for Ethereum mainnet, 137 for Polygon, etc.).
-- `net_version`: Get the network ID.
-- `web3_clientVersion`: Get information about the node client.
+  - `eth_chainId`: Get the chain ID (1 for Ethereum mainnet, 137 for Polygon, etc.).
+  - `net_version`: Get the network ID.
+  - `web3_clientVersion`: Get information about the node client.
 
 These methods form the foundation of blockchain application development, enabling developers to build complex applications without understanding the low-level protocol details.
 
@@ -145,22 +145,22 @@ These solutions aim to provide the reliability of commercial providers with the 
 For projects prioritizing decentralization or needing specialized access, running your own node remains an option:
 
 - **Hardware Requirements** (Ethereum full node):
-- CPU: 4+ cores
-- RAM: 16+ GB
-- Storage: 2-4 TB fast SSD
-- Network: Unlimited bandwidth, 10+ Mbps
+  - CPU: 4+ cores
+  - RAM: 16+ GB
+  - Storage: 2-4 TB fast SSD
+  - Network: Unlimited bandwidth, 10+ Mbps
 
 - **Software Options**:
-- Geth (Go Ethereum): Most popular Ethereum client.
-- Erigon: High-performance Ethereum client with lower storage requirements.
-- Nethermind:.NET-based Ethereum client with archive node support.
-- Besu: Java-based Ethereum client with enterprise features.
+  - Geth (Go Ethereum): Most popular Ethereum client.
+  - Erigon: High-performance Ethereum client with lower storage requirements.
+  - Nethermind:.NET-based Ethereum client with archive node support.
+  - Besu: Java-based Ethereum client with enterprise features.
 
 - **Deployment Options**:
-- Bare metal server (highest performance).
-- Cloud VPS (AWS, DigitalOcean, Hetzner).
-- Docker containers (simplified deployment).
-- Kubernetes (enterprise-scale orchestration).
+  - Bare metal server (highest performance).
+  - Cloud VPS (AWS, DigitalOcean, Hetzner).
+  - Docker containers (simplified deployment).
+  - Kubernetes (enterprise-scale orchestration).
 
 Initial sync can take 24-72 hours for a full node, or 1-2 weeks for an archive node. Ongoing maintenance requires monitoring disk usage, software updates, and network connectivity.
 

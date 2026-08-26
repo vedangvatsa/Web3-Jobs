@@ -44,21 +44,21 @@ Stealth addresses enable unlinkable payments.
 Concrete example:
 
 - **Receiver Setup**:
-- Spending key: sk
-- Stealth key: spk (derived from sk)
-- Publishes: spk
+  - Spending key: sk
+  - Stealth key: spk (derived from sk)
+  - Publishes: spk
 
 - **Sender Payment**:
-- Generates ephemeral secret: r
-- Derives stealth address: hash(r * spk + receiver_identifier)
-- Sends 1 ETH to stealth address
-- Includes r (ephemeral public key) in transaction
+  - Generates ephemeral secret: r
+  - Derives stealth address: hash(r * spk + receiver_identifier)
+  - Sends 1 ETH to stealth address
+  - Includes r (ephemeral public key) in transaction
 
 - **Receiver Receives**:
-- Scans transactions seeing ephemeral key r
-- Computes: hash(sk * r + receiver_identifier)
-- Checks if received ETH to this address
-- If yes, can spend using sk
+  - Scans transactions seeing ephemeral key r
+  - Computes: hash(sk * r + receiver_identifier)
+  - Checks if received ETH to this address
+  - If yes, can spend using sk
 
 Observer sees multiple stealth addresses and cannot link them to the receiver.
 

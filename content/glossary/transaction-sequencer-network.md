@@ -112,69 +112,69 @@ Several models for decentralizing sequencers have emerged:
 - **Design**: Sequencers must stake tokens to participate; consensus uses PoS principles.
 
 - **Examples**:
-- Planned for Arbitrum (using ARB token)
-- Optimism's future sequencer design (using OP token)
+  - Planned for Arbitrum (using ARB token)
+  - Optimism's future sequencer design (using OP token)
 
 - **Pros**:
-- Sybil-resistant (requires capital stake)
-- Economic security (slashing for misbehavior)
-- Aligns sequencers with protocol success (token value)
+  - Sybil-resistant (requires capital stake)
+  - Economic security (slashing for misbehavior)
+  - Aligns sequencers with protocol success (token value)
 
 - **Cons**:
-- Plutocratic (more stake = more power)
-- Token required (adds complexity)
-- Risk of stake centralization
+  - Plutocratic (more stake = more power)
+  - Token required (adds complexity)
+  - Risk of stake centralization
 
 ### Permissioned Sequencer Networks
 
 - **Design**: Curated set of trusted sequencers (institutions, reputable validators).
 
 - **Examples**:
-- Initial Metis Andromeda approach
-- Some enterprise rollup designs
+  - Initial Metis Andromeda approach
+  - Some enterprise rollup designs
 
 - **Pros**:
-- Known, accountable participants
-- Can optimize for low latency and trust
-- Easier regulatory compliance
+  - Known, accountable participants
+  - Can optimize for low latency and trust
+  - Easier regulatory compliance
 
 - **Cons**:
-- Not fully decentralized
-- Trust assumptions remain
-- Less censorship resistant
+  - Not fully decentralized
+  - Trust assumptions remain
+  - Less censorship resistant
 
 ### Auctioned Sequencer Rights
 
 - **Design**: Sequencer rights auctioned periodically to the highest bidder.
 
 - **Pros**:
-- Revenue for protocol
-- Market-driven sequencer selection
-- Predictable sequencer tenure
+  - Revenue for protocol
+  - Market-driven sequencer selection
+  - Predictable sequencer tenure
 
 - **Cons**:
-- May favor MEV maximization
-- High barriers to entry
-- Centralization risk
+  - May favor MEV maximization
+  - High barriers to entry
+  - Centralization risk
 
 ### Shared Sequencer Networks
 
 - **Design**: One sequencer network serves multiple rollups simultaneously.
 
 - **Examples**:
-- **Espresso Sequencer**: BFT network for multiple rollups
-- **Astria**: Decentralized shared sequencer using Tendermint
-- **Radius**: Encrypted mempool shared sequencing
+  - **Espresso Sequencer**: BFT network for multiple rollups
+  - **Astria**: Decentralized shared sequencer using Tendermint
+  - **Radius**: Encrypted mempool shared sequencing
 
 - **Pros**:
-- Economies of scale
-- Cross-rollup composability
-- Network effects
+  - Economies of scale
+  - Cross-rollup composability
+  - Network effects
 
 - **Cons**:
-- New trust assumptions
-- Coordination complexity
-- Potential centralization of sequencing layer
+  - New trust assumptions
+  - Coordination complexity
+  - Potential centralization of sequencing layer
 
 ## Benefits of Sequencer Networks
 
@@ -261,47 +261,47 @@ Sequencer networks introduce new complexity and tradeoffs:
 - **Design**: BFT-based shared sequencer network using HotStuff consensus.
 
 - **Features**:
-- Serves multiple rollups simultaneously
-- Fast finality
-- Cross-rollup atomic transactions
-- Privacy-preserving sequencing
+  - Serves multiple rollups simultaneously
+  - Fast finality
+  - Cross-rollup atomic transactions
+  - Privacy-preserving sequencing
 
-- **Status**: Testnet with multiple rollups.
+  - **Status**: Testnet with multiple rollups.
 
 ### Astria
 
 - **Design**: Decentralized shared sequencer using CometBFT (Tendermint).
 
 - **Features**:
-- Permissionless sequencer set
-- Rollups as first-class citizens
-- Censorship resistance through decentralization
-- Compatible with any VM
+  - Permissionless sequencer set
+  - Rollups as first-class citizens
+  - Censorship resistance through decentralization
+  - Compatible with any VM
 
-- **Status**: Testnet active, gradual rollup onboarding.
+  - **Status**: Testnet active, gradual rollup onboarding.
 
 ### Arbitrum DAO's Sequencer Decentralization
 
 - **Design**: Planned PoS sequencer network governed by ARB token holders.
 
 - **Features**:
-- ARB-staked sequencers
-- Slash for misbehavior
-- MEV redistribution through Timeboost
-- Gradual rollout
+  - ARB-staked sequencers
+  - Slash for misbehavior
+  - MEV redistribution through Timeboost
+  - Gradual rollout
 
-- **Status**: Active governance discussions, implementation in progress.
+  - **Status**: Active governance discussions, implementation in progress.
 
 ### Optimism's Sequencer Decentralization
 
 - **Design**: Part of Optimism's Superchain vision with shared sequencing.
 
 - **Features**:
-- OP Stack chains share sequencer infrastructure
-- Unified MEV market across Superchain
-- Governance by Optimism Collective
+  - OP Stack chains share sequencer infrastructure
+  - Unified MEV market across Superchain
+  - Governance by Optimism Collective
 
-- **Status**: Early design phase, active research.
+  - **Status**: Early design phase, active research.
 
 ## Economic Model
 

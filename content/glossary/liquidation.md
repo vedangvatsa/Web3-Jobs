@@ -80,16 +80,16 @@ Liquidation carries significant costs and risks:
 Sophisticated participants employ various strategies:
 
 - **For Borrowers**:
-- **Conservative LTVs**: Borrowing well below maximum LTV provides a buffer against volatility.
-- **Health Monitoring**: Using services that alert when health factors approach danger zones.
-- **Collateral Management**: Adding collateral or repaying debt before liquidation triggers.
-- **Stable Assets**: Using stablecoins or less volatile assets as collateral reduces liquidation risk.
+  - **Conservative LTVs**: Borrowing well below maximum LTV provides a buffer against volatility.
+  - **Health Monitoring**: Using services that alert when health factors approach danger zones.
+  - **Collateral Management**: Adding collateral or repaying debt before liquidation triggers.
+  - **Stable Assets**: Using stablecoins or less volatile assets as collateral reduces liquidation risk.
 
 - **For Liquidators**:
-- **Bot Development**: Creating automated systems that monitor thousands of positions across protocols.
-- **Flash Loan Integration**: Borrowing capital via flash loans to liquidate positions without upfront capital.
-- **Gas Optimization**: Writing efficient contracts that minimize transaction costs and maximize profit.
-- **Multi-Protocol Monitoring**: Tracking liquidation opportunities across Aave, Compound, MakerDAO, and others simultaneously.
+  - **Bot Development**: Creating automated systems that monitor thousands of positions across protocols.
+  - **Flash Loan Integration**: Borrowing capital via flash loans to liquidate positions without upfront capital.
+  - **Gas Optimization**: Writing efficient contracts that minimize transaction costs and maximize profit.
+  - **Multi-Protocol Monitoring**: Tracking liquidation opportunities across Aave, Compound, MakerDAO, and others simultaneously.
 
 ## Historical Liquidation Events
 

@@ -49,15 +49,15 @@ Concentrated liquidity changes this:
 Consider an ETH/USDC pool with ETH priced at $2,000:
 
 - **Uniswap V2 (Uniform Liquidity)**:
-- LP deposits $10,000 ($5,000 ETH + $5,000 USDC)
-- Liquidity is spread from $0 to ∞
-- Most capital is allocated to prices that will never be reached
-- Effective liquidity at $2,000: ~$10,000
+  - LP deposits $10,000 ($5,000 ETH + $5,000 USDC)
+  - Liquidity is spread from $0 to ∞
+  - Most capital is allocated to prices that will never be reached
+  - Effective liquidity at $2,000: ~$10,000
 
 - **Uniswap V3 (Concentrated Liquidity)**:
-- LP deposits $10,000 in the range $1,800-$2,200
-- All capital is concentrated in this 20% range
-- Effective liquidity at $2,000: ~$40,000-$50,000
+  - LP deposits $10,000 in the range $1,800-$2,200
+  - All capital is concentrated in this 20% range
+  - Effective liquidity at $2,000: ~$40,000-$50,000
 
 If the LP had chosen an even tighter range ($1,900-$2,100), they could achieve higher capital efficiency, but with increased risk of the price moving out of range.
 

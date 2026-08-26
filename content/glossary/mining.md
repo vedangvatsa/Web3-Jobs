@@ -97,32 +97,32 @@ Solo mining became impractical as difficulty increased. A miner with a single ma
 4. Miners receive steady, predictable income instead of sporadic jackpots.
 
 - **Pool Types**:
-- **Pay-Per-Share (PPS)**: Fixed payment per share, pool assumes risk.
-- **Proportional**: Split rewards based on shares in the round when the block is found.
-- **Pay-Per-Last-N-Shares (PPLNS)**: Rewards based on recent shares, discourages pool hopping.
+  - **Pay-Per-Share (PPS)**: Fixed payment per share, pool assumes risk.
+  - **Proportional**: Split rewards based on shares in the round when the block is found.
+  - **Pay-Per-Last-N-Shares (PPLNS)**: Rewards based on recent shares, discourages pool hopping.
 
-- **Major Pools**: Foundry USA, AntPool, F2Pool, ViaBTC control significant Bitcoin hash rate. Centralization risk exists if few pools dominate.
+  - **Major Pools**: Foundry USA, AntPool, F2Pool, ViaBTC control significant Bitcoin hash rate. Centralization risk exists if few pools dominate.
 
 ## Mining Economics
 
 - **Revenue**:
-- **Block Subsidy**: Newly minted coins (Bitcoin: currently 3.125 BTC per block after the April 2024 halving).
-- **Transaction Fees**: All fees from transactions in the block.
+  - **Block Subsidy**: Newly minted coins (Bitcoin: currently 3.125 BTC per block after the April 2024 halving).
+  - **Transaction Fees**: All fees from transactions in the block.
 
 - **Costs**:
-- **Hardware**: ASIC miners cost thousands of dollars.
-- **Electricity**: Largest operational expense. Mining consumes significant energy.
-- **Cooling**: Mining hardware generates massive heat.
-- **Facilities**: Industrial mining requires warehouses with electrical infrastructure.
-- **Maintenance**: Hardware failures, firmware updates.
+  - **Hardware**: ASIC miners cost thousands of dollars.
+  - **Electricity**: Largest operational expense. Mining consumes significant energy.
+  - **Cooling**: Mining hardware generates massive heat.
+  - **Facilities**: Industrial mining requires warehouses with electrical infrastructure.
+  - **Maintenance**: Hardware failures, firmware updates.
 
 - **Profitability Factors**:
-- **Bitcoin Price**: Higher price equals more revenue.
-- **Network Difficulty**: Higher difficulty means harder to find blocks.
-- **Electricity Cost**: Mining gravitates to regions with cheap power.
-- **Hardware Efficiency**: Newer ASICs offer better hash rate per watt.
+  - **Bitcoin Price**: Higher price equals more revenue.
+  - **Network Difficulty**: Higher difficulty means harder to find blocks.
+  - **Electricity Cost**: Mining gravitates to regions with cheap power.
+  - **Hardware Efficiency**: Newer ASICs offer better hash rate per watt.
 
-- **Break-Even Analysis**: Many miners operate at thin margins. During bear markets with low Bitcoin prices, less efficient miners shut down, reducing difficulty and allowing efficient miners to profit.
+  - **Break-Even Analysis**: Many miners operate at thin margins. During bear markets with low Bitcoin prices, less efficient miners shut down, reducing difficulty and allowing efficient miners to profit.
 
 ## Geographic Distribution
 
@@ -145,17 +145,17 @@ Mining concentrates in regions with cheap electricity:
 Bitcoin mining's energy consumption is significant:
 
 - **Criticisms**:
-- **Carbon Footprint**: Mining using coal power contributes to climate change.
-- **E-Waste**: ASIC hardware becomes obsolete quickly, creating electronic waste.
-- **Energy Efficiency**: High energy expenditure for transaction processing.
+  - **Carbon Footprint**: Mining using coal power contributes to climate change.
+  - **E-Waste**: ASIC hardware becomes obsolete quickly, creating electronic waste.
+  - **Energy Efficiency**: High energy expenditure for transaction processing.
 
 - **Counterarguments**:
-- **Renewable Energy**: A significant portion of mining uses renewable sources. Miners seek the cheapest power, often stranded renewables.
-- **Grid Balancing**: Miners can quickly shut down, providing demand response for power grids.
-- **Energy Security**: Mining monetizes otherwise wasted energy.
-- **Comparison**: Traditional banking systems consume comparable energy across branches, ATMs, and data centers.
+  - **Renewable Energy**: A significant portion of mining uses renewable sources. Miners seek the cheapest power, often stranded renewables.
+  - **Grid Balancing**: Miners can quickly shut down, providing demand response for power grids.
+  - **Energy Security**: Mining monetizes otherwise wasted energy.
+  - **Comparison**: Traditional banking systems consume comparable energy across branches, ATMs, and data centers.
 
-- **Bitcoin's Response**: Proof of Stake isn't viable for Bitcoin's security model. Instead, focus on renewable energy and efficiency improvements.
+  - **Bitcoin's Response**: Proof of Stake isn't viable for Bitcoin's security model. Instead, focus on renewable energy and efficiency improvements.
 
 ## Mining After Block Rewards End
 
@@ -180,9 +180,9 @@ Whether a fee-only security model works remains Bitcoin's biggest long-term ques
 Ethereum's 2022 transition to Proof of Stake eliminated mining entirely, replacing it with staking. This demonstrated that major networks can function without mining's energy consumption.
 
 - **Differences**:
-- **No Hardware Race**: Anyone with 32 ETH can validate.
-- **Less Energy**: No computational puzzle solving.
-- **Economic Security**: Validators risk staked funds rather than electricity costs.
+  - **No Hardware Race**: Anyone with 32 ETH can validate.
+  - **Less Energy**: No computational puzzle solving.
+  - **Economic Security**: Validators risk staked funds rather than electricity costs.
 
 Most new blockchains launch with Proof of Stake. Mining is becoming legacy technology primarily associated with Bitcoin.
 
@@ -237,16 +237,16 @@ Services rent hash rate to users who don't want to manage hardware. Many are sca
 ## The Future of Mining
 
 - **Trends**:
-- **Institutional Mining**: Public companies raising capital markets funding.
-- **Renewable Focus**: ESG pressure and economics driving green mining.
-- **Geographic Diversification**: Moving away from concentrated regions.
-- **Vertical Integration**: Mining companies investing in energy generation.
-- **Financial Products**: Hash rate futures and mining derivatives.
+  - **Institutional Mining**: Public companies raising capital markets funding.
+  - **Renewable Focus**: ESG pressure and economics driving green mining.
+  - **Geographic Diversification**: Moving away from concentrated regions.
+  - **Vertical Integration**: Mining companies investing in energy generation.
+  - **Financial Products**: Hash rate futures and mining derivatives.
 
 - **Risks**:
-- **Regulatory Crackdowns**: More countries may ban mining.
-- **Energy Politics**: Mining becomes a political issue in energy crises.
-- **Hardware Monopolies**: Few manufacturers dominate ASIC production.
-- **Mining Pools Centralization**: Large pools create consensus risks.
+  - **Regulatory Crackdowns**: More countries may ban mining.
+  - **Energy Politics**: Mining becomes a political issue in energy crises.
+  - **Hardware Monopolies**: Few manufacturers dominate ASIC production.
+  - **Mining Pools Centralization**: Large pools create consensus risks.
 
 Mining has transformed from hobby to a significant industry. Understanding mining economics, hardware evolution, and security implications is essential for evaluating Proof of Work blockchains. While Proof of Stake gains adoption, Bitcoin's commitment to mining ensures the industry's long-term relevance. Whether you're evaluating blockchain security, considering mining investment, or pursuing careers in the space, mining mechanics and economics remain fundamental to cryptocurrency's foundation.

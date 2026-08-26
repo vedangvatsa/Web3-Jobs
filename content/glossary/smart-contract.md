@@ -48,16 +48,16 @@ When someone interacts with a smart contract, they send a transaction to the blo
 ## Benefits and Limitations
 
 - **Advantages**:
-- Removes intermediaries, reducing costs and settlement times.
-- Transparent and auditable code that anyone can verify.
-- No single point of failure or control.
-- Operates 24/7 without downtime.
+  - Removes intermediaries, reducing costs and settlement times.
+  - Transparent and auditable code that anyone can verify.
+  - No single point of failure or control.
+  - Operates 24/7 without downtime.
 
 - **Challenges**:
-- Code bugs can lead to security vulnerabilities and lost funds.
-- Once deployed, errors are difficult or impossible to fix.
-- Execution costs (gas fees) can be high during network congestion.
-- Limited to on-chain data unless using oracles.
+  - Code bugs can lead to security vulnerabilities and lost funds.
+  - Once deployed, errors are difficult or impossible to fix.
+  - Execution costs (gas fees) can be high during network congestion.
+  - Limited to on-chain data unless using oracles.
 
 ## Programming Languages and Platforms
 

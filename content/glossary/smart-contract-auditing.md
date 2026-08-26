@@ -89,29 +89,29 @@ Different audit approaches serve different purposes:
 - **Disadvantage**: Very expensive and complex, requiring specialized expertise.
 
 - **Examples**:
-- OpenZeppelin uses formal verification for critical libraries.
-- Certora specializes in formal verification of DeFi contracts.
-- ConsenSys Diligence uses hybrid approaches.
+  - OpenZeppelin uses formal verification for critical libraries.
+  - Certora specializes in formal verification of DeFi contracts.
+  - ConsenSys Diligence uses hybrid approaches.
 
-- **Best For**: Critical protocols where absolute certainty is worth the cost.
+  - **Best For**: Critical protocols where absolute certainty is worth the cost.
 
 ### Automated Analysis
 
 - **Approach**: Use static analysis tools to automatically detect common vulnerabilities.
 
 - **Tools**:
-- **Slither**: Analyzes Solidity code for known vulnerability patterns.
-- **Mythril**: Symbolic execution to find potential bugs.
-- **Securify**: Machine learning-based vulnerability detection.
-- **Certora Prover**: Automated formal verification.
+  - **Slither**: Analyzes Solidity code for known vulnerability patterns.
+  - **Mythril**: Symbolic execution to find potential bugs.
+  - **Securify**: Machine learning-based vulnerability detection.
+  - **Certora Prover**: Automated formal verification.
 
-- **Advantages**: Fast and cheap, detects many common issues.
+  - **Advantages**: Fast and cheap, detects many common issues.
 
-- **Disadvantages**: Misses complex logic flaws and has a high false positive rate.
+  - **Disadvantages**: Misses complex logic flaws and has a high false positive rate.
 
-- **Cost**: Ranges from free (open-source tools) to professional services.
+  - **Cost**: Ranges from free (open-source tools) to professional services.
 
-- **Best For**: Initial quick checks, CI/CD pipelines, and complementing manual audits.
+  - **Best For**: Initial quick checks, CI/CD pipelines, and complementing manual audits.
 
 ### Bug Bounties
 
@@ -124,17 +124,17 @@ Different audit approaches serve different purposes:
 4. Researchers submit fixes or proof-of-concept exploits.
 
 - **Examples**:
-- Uniswap bug bounty program.
-- Aave bug bounty program.
-- Curve Finance bug bounty program.
+  - Uniswap bug bounty program.
+  - Aave bug bounty program.
+  - Curve Finance bug bounty program.
 
-- **Advantages**: Uses many security minds and crowdsourced security.
+  - **Advantages**: Uses many security minds and crowdsourced security.
 
-- **Disadvantages**: Doesn't guarantee full coverage.
+  - **Disadvantages**: Doesn't guarantee full coverage.
 
-- **Cost**: Variable, depends on bounty payouts.
+  - **Cost**: Variable, depends on bounty payouts.
 
-- **Best For**: Ongoing security and incentivizing researcher participation.
+  - **Best For**: Ongoing security and incentivizing researcher participation.
 
 ## Common Smart Contract Vulnerabilities
 

@@ -69,22 +69,22 @@ Each proposal has different capabilities and tradeoffs.
 Community discussion:
 
 - **Proponents' Arguments**:
-- Enable important protocols (vaults, channels) currently impossible.
-- Improve Bitcoin flexibility for modern applications.
-- Relatively simple addition to SCRIPT language.
-- Successful precedent in other blockchains (Ethereum contracts).
+  - Enable important protocols (vaults, channels) currently impossible.
+  - Improve Bitcoin flexibility for modern applications.
+  - Relatively simple addition to SCRIPT language.
+  - Successful precedent in other blockchains (Ethereum contracts).
 
 - **Critics' Arguments**:
-- Add complexity to SCRIPT language, potential for unintended consequences.
-- Bitcoin philosophy is simplicity and battle-tested primitives.
-- Potential privacy risks (covenants could enable surveillance).
-- Could enable unintended smart contract bugs at scale.
-- If covenants allowed, what next?
+  - Add complexity to SCRIPT language, potential for unintended consequences.
+  - Bitcoin philosophy is simplicity and battle-tested primitives.
+  - Potential privacy risks (covenants could enable surveillance).
+  - Could enable unintended smart contract bugs at scale.
+  - If covenants allowed, what next?
 
 - **Safety Concerns**:
-- Covenants enable powerful recursion. Infinite loops possible if not careful.
-- Must prevent Bitcoin from becoming too smart-contract-like.
-- Each covenant proposal requires careful analysis of all implications.
+  - Covenants enable powerful recursion. Infinite loops possible if not careful.
+  - Must prevent Bitcoin from becoming too smart-contract-like.
+  - Each covenant proposal requires careful analysis of all implications.
 
 Community consensus required for controversial features like covenants.
 
