@@ -10,7 +10,7 @@ import { PageShell } from '@/components/page-shell';
 export const revalidate = 86400; // 24 hours
 
 export const metadata: Metadata = {
-  title: 'Hashtag Web3 Developer Portal & Public API Documentation',
+  title: 'Developer Portal',
   description: 'Official API documentation, OpenAPI 3.1.0 specifications, MCP server instructions, CLI tools, and developer sandbox for Hashtag Web3.',
   alternates: {
     canonical: 'https://hashtagweb3.com/developers',

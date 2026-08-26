@@ -4,14 +4,14 @@ import type { Metadata } from 'next';
 import type { CollectionPage } from 'schema-dts';
 
 export const metadata: Metadata = {
- title: 'Web3 Career Playbook | Land $120K+ Blockchain & Crypto Jobs',
+ title: 'Web3 Career Playbook',
  description: 'Actionable guides to land a job in Web3. Read deep-dives on blockchain developer resumes, salary negotiation, smart contract interview prep, and tech guides.',
  alternates: {
   canonical: 'https://hashtagweb3.com/blog',
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Career Playbook | Land $120K+ Blockchain & Crypto Jobs',
+  title: 'Web3 Career Playbook | Hashtag Web3',
   description: 'Actionable guides to land a job in Web3. Read deep-dives on blockchain developer resumes, salary negotiation, and smart contract interview prep.',
   url: 'https://hashtagweb3.com/blog',
   images: [{
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Career Playbook | Land $120K+ Blockchain & Crypto Jobs',
+  title: 'Web3 Career Playbook | Hashtag Web3',
   description: 'Actionable guides to land a job in Web3. Read deep-dives on blockchain developer resumes, salary negotiation, and smart contract interview prep.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Career%20Playbook'],
  },

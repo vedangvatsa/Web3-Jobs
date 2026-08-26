@@ -2,14 +2,14 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Employee Engagement Pulse Survey | Free Tool',
+ title: 'Engagement Survey',
  description: 'A free tool to generate an employee engagement pulse survey. Measure team morale and satisfaction to build a strong company culture.',
  alternates: {
   canonical: '/employee-engagement-survey',
  },
  openGraph: {
   type: 'website',
-  title: 'Employee Engagement Pulse Survey | Free Tool',
+  title: 'Engagement Survey | Hashtag Web3',
   description: 'Quickly gauge team morale and satisfaction with our free pulse survey generator. Build a strong company culture.',
   url: 'https://hashtagweb3.com/employee-engagement-survey',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Employee Engagement Pulse Survey | Free Tool',
+  title: 'Engagement Survey | Hashtag Web3',
   description: 'Generate quick and effective employee engagement pulse surveys. Measure team morale, satisfaction, and identify areas for improvement to build a strong company culture.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Employee%20Engagement%20Pulse%20Survey%20Tool'],
  },

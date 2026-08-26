@@ -16,9 +16,11 @@ async function auditAllJobs() {
       const html = await fetchJobOriginalContent(job);
       const reasons: string[] = [];
 
-      // 1. Check for unescaped entity remnants
-      if (/&(?:amp|lt|gt|quot|nbsp|#39);/i.test(html)) {
-        reasons.push('Unescaped HTML entities present');
+      // 1. Check for malformed entity remnants. The formatter intentionally
+      // emits valid escaped entities (for example &#39; and &amp;); those are
+      // safe HTML and must not be reported as formatting defects.
+      if (/&(?!amp;|lt;|gt;|quot;|nbsp;|#39;|#x27;|#x2F;)[a-z][a-z0-9]+;?/i.test(html)) {
+        reasons.push('Malformed HTML entity present');
       }
 
       // 2. Check for clumped bullet points inside paragraphs

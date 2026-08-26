@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Freelance Rates by Industry (2026) | Hourly & Project Benchmarks',
+ title: 'Freelance Rates 2026',
  description:
   'Freelance rates by industry for 2026. Compare hourly and project pricing benchmarks for software, design, marketing, content, and operations roles.',
  keywords: [
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
  },
  openGraph: {
   type: 'website',
-  title: 'Freelance Rates by Industry (2026) | Hourly & Project Benchmarks',
+  title: 'Freelance Rates 2026 | Hashtag Web3',
   description:
    'Explore freelance pricing benchmarks by industry with practical hourly and project-rate ranges.',
   url: 'https://hashtagweb3.com/freelance-rates-by-industry',
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Freelance Rates by Industry (2026) | Hourly & Project Benchmarks',
+  title: 'Freelance Rates 2026 | Hashtag Web3',
   description:
    'Benchmark freelance hourly and project rates across major industries and roles.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Freelance%20Rates%20by%20Industry'],

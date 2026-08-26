@@ -10,7 +10,7 @@ import { PageHeader } from '@/components/page-header';
 import { EMPLOYEE_RESOURCES, EMPLOYER_RESOURCES } from '@/lib/nav-config';
 
 export const metadata: Metadata = {
-  title: 'Free Web3 Career Tools and Resources | Hashtag Web3',
+  title: 'Career Tools',
   description:
     'Complete suite of free tools, checklists, and guides for professionals and hiring teams building in the decentralized economy.',
 };

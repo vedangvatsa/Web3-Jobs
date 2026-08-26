@@ -4,14 +4,14 @@ import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Web3 Job Description Builder | AI JD Generator',
+ title: 'JD Builder',
  description: 'Free AI-powered job description builder for Web3 and crypto companies. Generate optimized JDs for Solidity, DeFi, smart contracts, Rust, and crypto roles.',
  alternates: {
   canonical: 'https://hashtagweb3.com/jd-builder',
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Job Description Builder | AI JD Generator',
+  title: 'JD Builder | Hashtag Web3',
   description: 'Free AI-powered job description builder for Web3 and crypto companies. Generate optimized JDs for Solidity, DeFi, smart contracts, Rust, and crypto roles.',
   url: 'https://hashtagweb3.com/jd-builder',
   images: [{
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Job Description Builder | AI JD Generator',
+  title: 'JD Builder | Hashtag Web3',
   description: 'Free AI-powered job description builder for Web3 and crypto companies. Generate optimized JDs for Solidity, DeFi, smart contracts, Rust, and crypto roles.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20JD%20Builder'],
  },

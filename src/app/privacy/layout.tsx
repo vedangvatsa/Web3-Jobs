@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | Hashtag Web3',
+  title: 'Privacy Policy',
   description: 'Hashtag Web3 Privacy Policy. Learn how we handle your data, protect user privacy, and manage AI crawler indexing permissions.',
   alternates: {
     canonical: 'https://hashtagweb3.com/privacy',

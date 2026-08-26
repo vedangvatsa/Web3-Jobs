@@ -2,14 +2,14 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Web3 Salary Calculator | Estimate Your Crypto Job Salary',
+ title: 'Salary Calculator',
  description: 'Estimate your salary in the Web3 industry. Get data-driven salary estimates for developer, marketing, and product manager roles in crypto.',
  alternates: {
   canonical: '/salary-calculator',
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Salary Calculator | Estimate Your Crypto Job Salary',
+  title: 'Salary Calculator | Hashtag Web3',
   description: 'Curious what you could earn in Web3? Use our calculator for a salary estimate based on your role, experience, and location.',
   url: 'https://hashtagweb3.com/salary-calculator',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Salary Calculator | Estimate Your Crypto Job Salary',
+  title: 'Salary Calculator | Hashtag Web3',
   description: 'Get data-driven salary estimates for Web3 roles including developers, marketers, and product managers. Calculate what you could earn based on your experience and location.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Salary%20Calculator'],
  },

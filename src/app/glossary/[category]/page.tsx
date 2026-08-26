@@ -141,10 +141,10 @@ export default async function CategoryPage({ params }: { params: { category: str
          Web3 Glossary
         </Link>
        </div>
-       <PageHeader title={category.name} />
-       <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-        {content?.description || category.description}
-       </p>
+        <PageHeader title={category.name} align="left" className="mb-0" />
+        <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
+         {content?.description || category.description}
+        </p>
        <div className="flex items-center gap-6 text-sm">
         <div className="flex items-center gap-2">
          <BookOpen className="h-5 w-5 text-primary" />

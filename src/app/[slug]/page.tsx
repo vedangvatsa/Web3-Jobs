@@ -7,8 +7,6 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { getCompanyBySlug, getCompanies } from '@/lib/companies';
 import { CompanyDetailView } from '@/components/company-detail-view';
-import { GlossaryCTA } from '@/components/glossary-cta';
-import { GlossaryCharts } from '@/components/glossary-charts';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -29,7 +27,15 @@ import { EventHeroImage } from '@/components/event-cover';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
 import { Calendar, MapPin, ExternalLink, ArrowLeft, ArrowRight } from 'lucide-react';
-import { CtaBanner } from '@/components/cta-banner';
+import {
+  buildUniqueJobPageContent,
+  buildUniqueJobMetaDescription,
+  getAllJobsWithSlugs,
+  getJobBySlug,
+  hasSubstantialJobContent,
+} from '@/lib/job-guides';
+import { JobDetailView } from '@/components/job-detail-view';
+import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 
 
 type ArticlePageProps = {
@@ -79,7 +85,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
 
     return {
-      title: `${companyMeta.name} Jobs - ${companyMeta.jobCount} Open Positions`,
+      title: `${companyMeta.name} Jobs`,
       description: desc,
       robots: companyMeta.jobCount >= 2
         ? undefined
@@ -87,14 +93,14 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       alternates: { canonical: canonicalUrl },
       openGraph: {
         type: 'website',
-        title: `${companyMeta.name} - ${companyMeta.jobCount} Open Positions`,
+        title: `${companyMeta.name} | Hashtag Web3`,
         description: desc,
         url: canonicalUrl,
         images: [{ url: ogImageUrl, width: 1200, height: 630, alt: `${companyMeta.name} Jobs` }],
       },
       twitter: {
         card: 'summary_large_image',
-        title: `${companyMeta.name} - ${companyMeta.jobCount} Open Positions`,
+        title: `${companyMeta.name} | Hashtag Web3`,
         description: desc,
         images: [ogImageUrl],
       },
@@ -111,7 +117,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const ecosystems = getEventEcosystems(event);
     const ecoText = ecosystems.length > 0 ? ` (${ecosystems.join(', ')})` : '';
 
-    const title = `${event.name} - Dates, Venue & Registration | Hashtag Web3`;
+    const title = `${event.name} - Dates, Venue & Registration`;
+    const ogTitle = `${title} | Hashtag Web3`;
     const description = `${event.name} scheduled for ${formattedDate} in ${event.location}. Explore event agenda${ecoText}, venue guide, and official registration links.`;
 
     const ogImageUrl = event.coverImage || `${siteUrl}/api/og?type=default&title=${encodeURIComponent(event.name)}`;
@@ -124,7 +131,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       },
       openGraph: {
         type: 'website',
-        title,
+        title: ogTitle,
         description,
         url: canonicalUrl,
         images: [
@@ -138,7 +145,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       },
       twitter: {
         card: 'summary_large_image',
-        title,
+        title: ogTitle,
         description,
         images: [ogImageUrl],
       },
@@ -476,8 +483,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               )}
 
               {/* Community CTA */}
-              <div className="pt-4">
-                <CtaBanner variant="community" />
+              <div className="pt-4 flex justify-center">
+                <Button asChild size="lg">
+                  <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
+                    Join Our Builder Community <ArrowRight className="ml-2 h-4 w-4" />
+                  </a>
+                </Button>
               </div>
             </div>
           </main>
@@ -581,10 +592,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     <JsonLd data={breadcrumbSchema} />
         <main className="flex-1">
      <div className="bg-background">
-      <article className="container mx-auto px-4 page-section max-w-6xl">
-       <div className="grid md:grid-cols-[1fr_300px] gap-8">
-        {/* Main Content */}
-        <div>
+      <article className="site-container px-4 page-section">
          <header className="mb-8">
           <div className="flex items-center gap-2 mb-4">
            <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
@@ -592,22 +600,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             Web3 Glossary
            </Link>
           </div>
-          <PageHeader title={term.term} />
+          <PageHeader title={term.term} align="left" className="mb-0" />
           <p className="text-xl text-muted-foreground mb-4">
            {term.description}
           </p>
-          <div className="flex flex-wrap gap-2">
-           <span className="px-3 py-1 bg-primary/10 text-primary rounded-md text-sm font-medium">
-            {term.category}
-           </span>
-           <span className={`px-3 py-1 rounded-md text-sm font-medium ${
-            term.difficulty === 'Beginner' ? 'bg-green-500/10 text-green-700 dark:text-green-400' :
-            term.difficulty === 'Intermediate' ? 'bg-blue-500/10 text-blue-700 dark:text-blue-400' :
-            'bg-red-500/10 text-red-700 dark:text-red-400'
-           }`}>
-            {term.difficulty}
-           </span>
-          </div>
+
          </header>
          
          {term.image && (
@@ -624,67 +621,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
          )}
          
          <div 
-          className="prose prose-lg dark:prose-invert max-w-none prose-headings:font-bold prose-a:text-primary prose-a:underline"
+          className="prose prose-base dark:prose-invert max-w-none prose-headings:font-bold prose-a:text-primary prose-a:underline"
           dangerouslySetInnerHTML={{ __html: enhancedContent }}
          />
-         
-         <GlossaryCharts termSlug={term.slug} />
-         
-         <GlossaryCTA termName={term.term} />
-        </div>
-        
-        {/* Sidebar */}
-        <aside className="space-y-6">
-         {/* Related Terms */}
-         {relatedTermsData.length > 0 && (
-          <div className="border rounded-lg p-6">
-           <h3 className="font-bold mb-4">Related Terms</h3>
-           <div className="space-y-2">
-            {relatedTermsData.map((relatedTerm) => (
-             <a
-              key={relatedTerm.slug}
-              href={`/${relatedTerm.slug}`}
-              className="block p-3 rounded-md hover:bg-muted transition-colors"
-             >
-              <div className="font-medium text-sm">{relatedTerm.term}</div>
-              <div className="text-xs text-muted-foreground line-clamp-2 mt-1">
-               {relatedTerm.description}
-              </div>
-             </a>
-            ))}
-           </div>
-          </div>
-         )}
-         
-         {/* Synonyms */}
-         {term.synonyms && term.synonyms.length > 0 && (
-          <div className="border rounded-lg p-6">
-           <h3 className="font-bold mb-3">Also known as</h3>
-           <div className="flex flex-wrap gap-2">
-            {term.synonyms.map((synonym) => (
-             <span key={synonym} className="px-2 py-1 bg-muted rounded text-sm">
-              {synonym}
-             </span>
-            ))}
-           </div>
-          </div>
-         )}
-         
-         {/* CTA */}
-         <div className="border rounded-lg p-6 bg-primary/5">
-          <h3 className="font-bold mb-2">Work in Web3</h3>
-          <p className="text-sm text-muted-foreground mb-4">
-           Explore companies hiring for roles involving {term.term}
-          </p>
-          <a 
-           href="/jobs" 
-           className="block w-full text-center px-4 py-2 bg-primary text-primary-foreground rounded-md hover:bg-primary/90 transition-colors text-sm font-medium"
-          >
-           Browse Jobs
-          </a>
-         </div>
-        </aside>
-       </div>
       </article>
      </div>
     </main>

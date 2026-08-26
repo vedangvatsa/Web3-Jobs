@@ -2,14 +2,14 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Web3 Archetype Assessment | Find Your Crypto Career Path',
+ title: 'Web3 Career Quiz',
  description:"What's your Web3 personality? Take our free assessment to discover your professional archetype and the crypto career paths that best match your skills.",
  alternates: {
   canonical: '/web3-career-quiz',
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Archetype Assessment | Find Your Crypto Career Path',
+  title: 'Web3 Career Quiz | Hashtag Web3',
   description:"What's your Web3 personality? Take our assessment to find out which career path is right for you in the crypto space.",
   url: 'https://hashtagweb3.com/web3-career-quiz',
   images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Archetype Assessment | Find Your Crypto Career Path',
+  title: 'Web3 Career Quiz | Hashtag Web3',
   description:"Discover your Web3 professional archetype with our free assessment. Find out which crypto career paths best match your skills, interests, and working style in the decentralized economy.",
   images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Career%20Assessment'],
  },

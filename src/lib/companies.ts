@@ -83,6 +83,9 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'utila': 'https://utila.io',
  'bitpay': 'https://bitpay.com',
  'spearbit': 'https://spearbit.com',
+ 'gomining': 'https://gomining.com',
+ 'bitdeer': 'https://www.bitdeer.com',
+ 'crypto-finance': 'https://www.crypto-finance.com',
 };
 
 /**

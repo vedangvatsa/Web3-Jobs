@@ -8,14 +8,14 @@ import { PageShell } from '@/components/page-shell';
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
 export const metadata: Metadata = {
- title: 'Web3 News | Daily Crypto, Blockchain & DeFi Industry Updates',
+ title: 'Web3 News',
  description: 'Stay ahead in the Web3 job market. Read daily crypto news, funding announcements, protocol launches, and corporate updates across blockchain, DeFi, DAOs, and NFTs.',
  alternates: {
   canonical: 'https://hashtagweb3.com/news',
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 News | Daily Crypto & Blockchain Industry Updates',
+  title: 'Web3 News | Hashtag Web3',
   description: 'Stay ahead in the Web3 job market. Read daily crypto news, funding announcements, and protocol launches updated in real-time.',
   url: 'https://hashtagweb3.com/news',
   images: [{
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 News | Daily Crypto & Blockchain Industry Updates',
+  title: 'Web3 News | Hashtag Web3',
   description: 'Stay ahead in the Web3 job market. Read daily crypto news, funding announcements, and protocol launches updated in real-time.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Daily%20News'],
  },

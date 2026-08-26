@@ -83,7 +83,7 @@ export function JobDetailView({
   };
 
   return (
-    <article className="mx-auto w-full max-w-4xl px-4 py-10 sm:py-14">
+    <article className="site-container px-4 py-10 sm:py-14">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingSchema) }}
@@ -145,7 +145,7 @@ export function JobDetailView({
             date={job.dateVerified === false ? undefined : job.date}
           >
             <span className="inline-flex h-11 w-full items-center justify-center gap-2 whitespace-nowrap rounded-md bg-primary px-8 text-sm font-medium text-primary-foreground hover:bg-primary/90 sm:w-auto">
-              Apply on employer site
+              Apply
               <ExternalLink className="h-4 w-4" aria-hidden="true" />
             </span>
           </JobApplicationButton>

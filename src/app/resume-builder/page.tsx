@@ -4,14 +4,14 @@ import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Web3 Resume Builder | Create ATS-Optimized Crypto Resumes',
+ title: 'Resume Builder',
  description: 'Free AI-powered resume builder for blockchain and Web3 professionals. Build an ATS-optimized resume tailored for DeFi, Solidity, Smart Contract, and DAO roles.',
  alternates: {
   canonical: 'https://hashtagweb3.com/resume-builder',
  },
  openGraph: {
   type: 'website',
-  title: 'Web3 Resume Builder | Create ATS-Optimized Crypto Resumes',
+  title: 'Resume Builder | Hashtag Web3',
   description: 'Free AI-powered resume builder for blockchain and Web3 professionals. Build an ATS-optimized resume tailored for DeFi, Solidity, Smart Contract, and DAO roles.',
   url: 'https://hashtagweb3.com/resume-builder',
   images: [{
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Web3 Resume Builder | Create ATS-Optimized Crypto Resumes',
+  title: 'Resume Builder | Hashtag Web3',
   description: 'Free AI-powered resume builder for blockchain and Web3 professionals. Build an ATS-optimized resume tailored for DeFi, Solidity, Smart Contract, and DAO roles.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Resume%20Builder'],
  },

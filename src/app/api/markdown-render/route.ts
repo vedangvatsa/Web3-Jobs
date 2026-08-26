@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
-import { fetchJobOriginalContent, getJobBySlug } from '@/lib/job-guides';
+import { buildUniqueJobMetaDescription, getJobBySlug } from '@/lib/job-guides';
 import { getArticle } from '@/lib/articles';
 import { getTerm } from '@/lib/glossary';
 import { getCompanyBySlug } from '@/lib/companies';
@@ -134,7 +134,6 @@ export async function GET(request: NextRequest) {
       : slug;
     const job = await getJobBySlug(jobSlug);
     if (job) {
-      const employerContent = await fetchJobOriginalContent(job);
       const verifiedDate = job.dateVerified === false
         ? null
         : new Date(job.date).toISOString().split('T')[0];
@@ -143,7 +142,7 @@ export async function GET(request: NextRequest) {
       const dateFrontmatter = verifiedDate ? `date-posted: ${verifiedDate}\n` : '';
       const md = `---
 title: ${JSON.stringify(`${job.title} at ${job.company}`)}
-description: ${JSON.stringify(`${job.company}'s employer-provided details for the ${job.title} role.`)}
+description: ${JSON.stringify(buildUniqueJobMetaDescription(job))}
 canonical: ${JSON.stringify(canonical)}
 ${dateFrontmatter.trimEnd()}
 ---
@@ -153,9 +152,11 @@ ${dateFrontmatter.trimEnd()}
 - **Company**: [${job.company}](https://hashtagweb3.com/${(job.company || 'web3').toLowerCase().replace(/[^a-z0-9]+/g, '-')})
 ${locationLine}${dateLine}- **Application Link**: ${job.link}
 
-## Employer-provided role details
+## Independent role brief
 
-${employerContent}
+${buildUniqueJobMetaDescription(job)}
+
+This page is an original index entry. The employer link above is the authoritative source for the full responsibilities, requirements, compensation, and application status.
 `;
       return new NextResponse(md, {
         status: 200,

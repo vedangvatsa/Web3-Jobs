@@ -4,9 +4,9 @@ import { JobDetailView } from '@/components/job-detail-view';
 import { getCompanyBySlug } from '@/lib/companies';
 import { getCompanyFaviconUrl, resolveCompanyLogo } from '@/lib/company-logo';
 import {
-  fetchJobOriginalContent,
+  buildUniqueJobPageContent,
+  buildUniqueJobMetaDescription,
   getAllJobsWithSlugs,
-  getCachedJobSummary,
   getJobBySlug,
   getJobSlug,
   hasSubstantialJobContent,
@@ -43,8 +43,16 @@ export async function generateMetadata({ params }: JobPageProps): Promise<Metada
   const slug = getJobSlug(job);
   const canonicalUrl = `${SITE_URL}/jobs/${slug}`;
   const title = `${job.title} at ${job.company}`;
-  const description = getCachedJobSummary(job)
-    || `Review the ${job.title} opening at ${job.company} and continue to the employer's application page.`;
+  let sourceHost = 'employer site';
+  if (job.link) {
+    try {
+      sourceHost = new URL(job.link).hostname.replace(/^www\./, '');
+    } catch {
+      sourceHost = 'employer site';
+    }
+  }
+  const uniqueMarker = `${job.company} | ${job.location || 'Remote'} | ${sourceHost}`;
+  const description = `${buildUniqueJobMetaDescription(job)} ${uniqueMarker}.`;
   const ogImageUrl = `${SITE_URL}/api/og?type=default&title=${encodeURIComponent(title)}`;
   const hasVerifiedContent = hasSubstantialJobContent(job);
 
@@ -78,7 +86,7 @@ export default async function JobPage({ params }: JobPageProps) {
 
   const companySlug = getCompanySlug(job.company);
   const company = await getCompanyBySlug(companySlug);
-  const contentHtml = await fetchJobOriginalContent(job);
+  const contentHtml = buildUniqueJobPageContent(job);
   const logoSrc = resolveCompanyLogo(companySlug);
   const faviconUrl = getCompanyFaviconUrl(company?.website);
 

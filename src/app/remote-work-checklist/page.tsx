@@ -2,14 +2,14 @@ import { RemoteWorkChecklistClient } from '@/components/remote-work-checklist-cl
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Remote Work Checklist | Setup Guide for Web3 Builders',
+ title: 'Remote Work Checklist',
  description: 'Optimize your remote workspace setup for peak productivity, strong digital security, and physical well-being. Includes a downloadable PDF checklist.',
  alternates: {
   canonical: 'https://hashtagweb3.com/remote-work-checklist',
  },
  openGraph: {
   type: 'website',
-  title: 'Remote Work Checklist | Setup Guide for Web3 Builders',
+  title: 'Remote Work Checklist | Hashtag Web3',
   description: 'Optimize your remote workspace setup for peak productivity, strong digital security, and physical well-being. Includes a downloadable PDF checklist.',
   url: 'https://hashtagweb3.com/remote-work-checklist',
   images: [{
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Remote Work Checklist | Setup Guide for Web3 Builders',
+  title: 'Remote Work Checklist | Hashtag Web3',
   description: 'Optimize your remote workspace setup for peak productivity, strong digital security, and physical well-being. Includes a downloadable PDF checklist.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Remote%20Work%20Checklist'],
  },

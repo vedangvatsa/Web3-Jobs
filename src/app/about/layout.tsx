@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'About Us | Hashtag Web3',
+  title: 'About Us',
   description: 'Learn about Hashtag Web3, the leading Web3 job board, career intelligence platform, and global blockchain community connecting 60,000+ professionals with top crypto companies.',
   alternates: {
     canonical: 'https://hashtagweb3.com/about',
