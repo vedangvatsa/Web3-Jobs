@@ -521,6 +521,9 @@
   "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
   "https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785",
   "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
+  "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
+  "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
+  "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1470,6 +1473,12 @@
   "‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say",
   "ECB Claims Digital Euro Will Protect User Privacy",
   "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
+  "Ethereum developers propose quantum proof staking contract upgrade",
+  "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
+  "Nvidia stock rises after reporting $96.2 billion revenue",
+  "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
+  "Key Factors Influencing Upcoming Bitcoin Price Movements",
+  "What Traders Are Watching for Bitcoin's Next Move",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1523,5 +1532,8 @@
   "fp:brief|cool|cryptocurrency|day|doe|fall|follow|gain|growth|hit",
   "fp:700b|automat|bank|capacity|contract|conventional|dalla|deposit|federal|financial",
   "fp:action|altitud|analyst|bessent|bitwis|bull|can|catalyst|driv|executiv",
-  "fp:cannot|civil|claim|digital|ecb|euro|fear|group|identity|level"
+  "fp:cannot|civil|claim|digital|ecb|euro|fear|group|identity|level",
+  "fp:comput|consensus|contract|deposit|dev|developer|expand|futur|key|network",
+  "fp:1085b|366b|962b|chipmaker|commitment|disclos|doubl|exposur|futur|guarante",
+  "fp:are|catalyst|determin|factor|follow|futur|gain|influenc|key|market"
 ]
