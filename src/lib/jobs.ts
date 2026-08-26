@@ -117,7 +117,11 @@ function cleanJobTitle(title: string, company?: string): string {
   return cleanPublishText(cleaned.length > 0 ? cleaned : title.trim());
 }
 
+let jobsCache: Job[] | null = null;
+
 export async function getJobs(): Promise<Job[]> {
+  if (jobsCache) return jobsCache;
+
  try {
   const data = fs.readFileSync(CACHE_PATH, 'utf-8');
   const jobs: Job[] = JSON.parse(data).map((job: Job) => ({
@@ -170,10 +174,11 @@ export async function getJobs(): Promise<Job[]> {
     slugMap.set(job.id, `${roleWord}${counters[roleWord]}`);
   }
 
-  return distributed.map(job => ({
+  jobsCache = distributed.map(job => ({
     ...job,
     slug: slugMap.get(job.id),
   }));
+  return jobsCache;
  } catch (error) {
   console.error('[getJobs] Could not read jobs cache:', error);
   return [];
