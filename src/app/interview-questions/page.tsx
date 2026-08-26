@@ -8,37 +8,18 @@ import { Badge } from '@/components/ui/badge';
 import { interviewData, Role } from '@/lib/interview-questions';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
- '@/components/ui/button';
+import { Button } from '@/components/ui/button';
 import { PageHeader } from "@/components/page-header";
 import { CtaBanner } from "@/components/cta-banner";
-
-const difficultyColors: { [key: string]: string } = {
- Foundation: 'bg-green-500/10 text-green-700 border-green-400/50',
- Intermediate: 'bg-blue-500/10 text-blue-700 border-blue-400/50',
- Advanced: 'bg-orange-500/10 text-orange-700 border-orange-400/50',
- Expert: 'bg-red-500/10 text-red-700 border-red-400/50',
-};
-
-const categoryColors: { [key: string]: string } = {
-  Knowledge: 'bg-gray-100 text-gray-800',
-  Practical: 'bg-indigo-100 text-indigo-800',
-  Debugging: 'bg-pink-100 text-pink-800',
-  Design: 'bg-purple-100 text-purple-800',
-  Architecture: 'bg-yellow-100 text-yellow-800',
-  Risk: 'bg-red-100 text-red-800',
-  Strategy: 'bg-green-100 text-green-800',
-  Communication: 'bg-sky-100 text-sky-800',
-};
-
 
 const QuestionItem = ({ question }: { question: any }) => (
  <div className="border-b py-4">
   <div className="flex flex-wrap items-center gap-2 mb-2">
    <Badge variant="outline" className="font-mono text-xs">{question.id}</Badge>
-   <Badge className={cn('text-xs', difficultyColors[question.difficulty])}>{question.difficulty}</Badge>
-   <Badge className={cn('text-xs', categoryColors[question.category] || categoryColors['Knowledge'])}>{question.category}</Badge>
+   <Badge variant="secondary" className="text-xs font-medium">{question.difficulty}</Badge>
+   <Badge variant="outline" className="text-xs font-normal text-muted-foreground">{question.category}</Badge>
   </div>
-  <p className="font-semibold text-primary">{question.question}</p>
+  <p className="font-semibold text-foreground">{question.question}</p>
   
   <div className="mt-3 space-y-3 text-sm text-muted-foreground">
    <div>
