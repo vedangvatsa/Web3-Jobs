@@ -177,6 +177,7 @@ export default async function JobsPage() {
         <li>Model Context Protocol (MCP) Streamable HTTP Server: <code>https://hashtagweb3.com/.well-known/mcp</code></li>
         <li>LLMs Navigation Index: <code>https://hashtagweb3.com/llms.txt</code></li>
         <li>Agent Capabilities Manifest: <code>https://hashtagweb3.com/.well-known/agents.json</code></li>
+        <li>GitHub Repository &amp; Agent Configuration: <a href="https://github.com/vedangvatsa/Web3-Jobs">https://github.com/vedangvatsa/Web3-Jobs</a></li>
       </ul>
     </div>
   </>
